@@ -3,6 +3,8 @@
 ホロライブの配信予定 [ホロジュール](https://schedule.hololive.tv/) を
 任意のカレンダーアプリ等に登録できる `ics` ファイル
 
+![holodule](https://user-images.githubusercontent.com/33576079/76172492-00a80e80-61da-11ea-9590-a6bcc4a4982d.png)
+
 # URL一覧
 
 | カテゴリ | URL |
