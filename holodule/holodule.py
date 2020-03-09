@@ -47,7 +47,10 @@ class Holodule():
         for s in schedules.values():
             s.assign_youtube(self.videos)
             log.info(f"Dump {s.name}...")
-            s.dump(self.save_dir)
+            try:
+                s.dump(self.save_dir)
+            except:
+                log.error(f"Failed to dump {s.name}: ", exc_info=True)
 
     async def get_page(self) -> str:
         log.info("Getting page...")
