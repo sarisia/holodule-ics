@@ -32,6 +32,8 @@ jobs:
           publish_branch: public
           keep_files: true
           commit_message: update ics
+          user_name: Pekora
+          user_email: 'pekora@usada.carrot'
       - name: post status to Discord
         if: always()
         uses: sarisia/actions-status-discord@v1
