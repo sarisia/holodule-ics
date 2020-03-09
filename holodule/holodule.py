@@ -23,6 +23,9 @@ class Holodule():
         self.videos = {}
 
     async def run(self) -> None:
+        # ClientSession.__aenter__ does nothing
+        # but ClientSession.__aexit__ closes this sessoin, so we have to do that.
+        # https://github.com/aio-libs/aiohttp/blob/fe647a08d1acb53404b703b46b37409602ab18b4/aiohttp/client.py#L986
         self.session = ClientSession(
             timeout=ClientTimeout(total=30),
             headers={ "User-Agent": "Holodule-ICS" }
@@ -51,6 +54,9 @@ class Holodule():
                 s.dump(self.save_dir)
             except:
                 log.error(f"Failed to dump {s.name}: ", exc_info=True)
+
+        await self.session.close()
+        log.info("Done!")
 
     async def get_page(self) -> str:
         log.info("Getting page...")
