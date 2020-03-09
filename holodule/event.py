@@ -24,7 +24,10 @@ class LiveEvent():
             name=f"{self.name}: {self.title}",
             begin=self.begin,
             duration={"hours": 2},
-            description=f"{self.title}\n{self.url}"
+            description=f"{self.title}\n{self.url}",
+            # use video_id as uid will make order of events static
+            # (because uid is used in Event.__hash__)
+            uid=self.video_id # TODO: コラボで同じ動画が複数ホロジュールに登録される可能性？
         )
 
     def assign(self, meta:dict) -> bool:
