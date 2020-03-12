@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【歌番組】わためのうた（３月１１日）【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=_NGieyBgNLQ
-DURATION:PT2H
-DTSTART:20200310T204500Z
-SUMMARY:🐏角巻わため: 【歌番組】わためのうた（３月１１日）【角巻わため/ホロライブ４期生】
-UID:_NGieyBgNLQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【眠い】あくあVSおかゆ早起き対決【ホロライブ/#あくおか】\nhttps://www.youtube.com/watch?v=JRlekaelhNo
 DURATION:PT2H
 DTSTART:20200311T220000Z
@@ -46,18 +39,18 @@ SUMMARY:⚓湊あくあ: 【激レア雑談】あああああやばいやばい�
 UID:n3ZOsxDw5qU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:おバカなキモヲタに英語検定やらせた結果ｗ【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=cPqdU2kcrMY
-DURATION:PT2H
-DTSTART:20200311T100000Z
-SUMMARY:❤赤井はあと: おバカなキモヲタに英語検定やらせた結果ｗ【ホロライブ/赤井はあと】
-UID:cPqdU2kcrMY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#桐生ココが如く】前回は、負けた。だが、レベルは上げた。かかってこいよチンピラァ！！【出て来い黒幕】\nhttps://www.youtube.com/watch?v=XzK9MpySuz4
 DURATION:PT2H
 DTSTART:20200312T130000Z
 SUMMARY:🐉桐生ココ: 【#桐生ココが如く】前回は、負けた。だが、レベルは上げた。かかってこいよチンピラァ！！【出て来い黒幕】
 UID:XzK9MpySuz4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:明日3/14）【歌枠】初メンバー限定収録配信！の前に喉をあっためるのら🍬【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=n0WRWMn3mgE
+DURATION:PT2H
+DTSTART:20200314T103000Z
+SUMMARY:🍬姫森ルーナ: 明日3/14）【歌枠】初メンバー限定収録配信！の前に喉をあっためるのら🍬【#姫森ルーナ/ホロライブ】
+UID:n0WRWMn3mgE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARK】ボス戦に向けて最強の戦士を作りたいぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=02n3gqieXXY
@@ -81,25 +74,11 @@ SUMMARY:☄星街すいせい: 【ProjectWinter】あいつらが雪山に帰っ
 UID:QcZp1-pPfxU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】２周年振り返りの✨スパチャ読みやグッズとか！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=CHtrMHt-Jbg
-DURATION:PT2H
-DTSTART:20200310T150000Z
-SUMMARY:🤖ロボ子さん: 【雑談】２周年振り返りの✨スパチャ読みやグッズとか！！【ホロライブ/ロボ子さん】
-UID:CHtrMHt-Jbg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【凸待ち】ホロライブメンバーから凸が来る予感しかしない！【30万人記念(幻覚)】\nhttps://www.youtube.com/watch?v=wIgbpQBkHEE
 DURATION:PT2H
 DTSTART:20200313T120000Z
 SUMMARY:❤赤井はあと: 【凸待ち】ホロライブメンバーから凸が来る予感しかしない！【30万人記念(幻覚)】
 UID:wIgbpQBkHEE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:テトリス大特訓！！星街、先生になる！？【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=Z_FYAaDGdKk
-DURATION:PT2H
-DTSTART:20200311T130000Z
-SUMMARY:☄星街すいせい: テトリス大特訓！！星街、先生になる！？【ホロライブ / 星街すいせい】
-UID:Z_FYAaDGdKk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【記念枠】１９万人ありがとお！２０万人までもう少し～！🌸✨【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=0Xu5H6XxQRU
@@ -114,13 +93,6 @@ DURATION:PT2H
 DTSTART:20200311T153000Z
 SUMMARY:👿百鬼あやめ: 【APEX】修行という名の修行【#百鬼あやめch/ホロライブ】
 UID:tmMoK1AxbZY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:みんなで20万人になるのを見守りたいぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=gIuVu1itOCg
-DURATION:PT2H
-DTSTART:20200311T080000Z
-SUMMARY:👯兎田ぺこら: みんなで20万人になるのを見守りたいぺこ！【ホロライブ/兎田ぺこら】
-UID:gIuVu1itOCg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雀魂 - じゃんたま -】夏色まつりはまだCPU（簡単）しかしらない。対人戦でわからせ麻雀！？【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=vRTeUX8vYPE
@@ -144,6 +116,13 @@ SUMMARY:🌸さくらみこ: #38【ぽんこつArk】最終ボスに向けて準
 UID:_tuCsQ2P_H0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#雪山ホロ人狼】眼を閉じればわかります、ボクは人狼ではないコトがね！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=EX1hIwr8I9o
+DURATION:PT2H
+DTSTART:20200312T100000Z
+SUMMARY:🤖ロボ子さん: 【#雪山ホロ人狼】眼を閉じればわかります、ボクは人狼ではないコトがね！！【ホロライブ/ロボ子さん】
+UID:EX1hIwr8I9o
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#桐生ココ】あさココLIVEニュース！3月12日【#ココここ】\nhttps://www.youtube.com/watch?v=Wb7UtyEKrUo
 DURATION:PT2H
 DTSTART:20200311T210000Z
@@ -158,11 +137,11 @@ SUMMARY:🐏角巻わため: 【ARK】わため牧場の第四歩！ダエオド
 UID:6Z5S5f2TDos
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HITMAN™ 2】脳筋すぎる殺し屋が帰ってきた | HITMAN™ 2【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=EzvsCCR0C0M
+DESCRIPTION:【報告】白上フブキ謝罪会見、隠していてすみません。\nhttps://www.youtube.com/watch?v=q-Vy6T7BfAU
 DURATION:PT2H
-DTSTART:20200312T030000Z
-SUMMARY:🌸さくらみこ: 【HITMAN™ 2】脳筋すぎる殺し屋が帰ってきた | HITMAN™ 2【ホロライブ/さくらみこ】
-UID:EzvsCCR0C0M
+DTSTART:20200314T110000Z
+SUMMARY:🌽白上フブキ: 【報告】白上フブキ謝罪会見、隠していてすみません。
+UID:q-Vy6T7BfAU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Project Winter】雪山に遊びに来たアイドル達の末路…【#雪山ホロ人狼】\nhttps://www.youtube.com/watch?v=XmXv1MHbpXk
@@ -172,13 +151,6 @@ SUMMARY:🌽白上フブキ: 【Project Winter】雪山に遊びに来たアイ�
 UID:XmXv1MHbpXk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【monopoly】夜の💕モノポリー大人の遊び教えてあげる【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=9tWSqYotg1I
-DURATION:PT2H
-DTSTART:20200311T140000Z
-SUMMARY:🍎アキロゼ: 【monopoly】夜の💕モノポリー大人の遊び教えてあげる【ホロライブ/アキロゼ】
-UID:9tWSqYotg1I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#雪山ホロ人狼】こんな清楚な女の子が人狼なわけがない！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=q6T_U1KCumM
 DURATION:PT2H
 DTSTART:20200312T100000Z
@@ -186,11 +158,11 @@ SUMMARY:🏮夏色まつり: 【#雪山ホロ人狼】こんな清楚な女の�
 UID:q6T_U1KCumM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【オフコラボ】おかゆの家に殴り込みだあああああ！！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=amaaWvUzso0
+DESCRIPTION:01【428】渋谷来たら事件に巻き込まれたのら！！🍬【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=QWZuz0iqZqw
 DURATION:PT2H
-DTSTART:20200311T140000Z
-SUMMARY:⚓湊あくあ: 【オフコラボ】おかゆの家に殴り込みだあああああ！！！【湊あくあ/ホロライブ】
-UID:amaaWvUzso0
+DTSTART:20200313T060000Z
+SUMMARY:🍬姫森ルーナ: 01【428】渋谷来たら事件に巻き込まれたのら！！🍬【#姫森ルーナ/ホロライブ】
+UID:QWZuz0iqZqw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌番組】わためのうた（３月１２日）【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=nhXiUHle2II
@@ -200,32 +172,11 @@ SUMMARY:🐏角巻わため: 【歌番組】わためのうた（３月１２日
 UID:nhXiUHle2II
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:明日3/13）01【428】渋谷来たら事件に巻き込まれたのら！！🍬【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=QWZuz0iqZqw
+DESCRIPTION:【FORTNITE#47】モバイルバッテリー発売まであと少し！昼練✨【ホロライブ/ロボ子さん】クリエイターサポート➡【ROBOCOSAN】\nhttps://www.youtube.com/watch?v=T0hsDrPxBT0
 DURATION:PT2H
-DTSTART:20200313T060000Z
-SUMMARY:🍬姫森ルーナ: 明日3/13）01【428】渋谷来たら事件に巻き込まれたのら！！🍬【#姫森ルーナ/ホロライブ】
-UID:QWZuz0iqZqw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マインクラフト】わために貢ぎたくて……マイクラ見てたらやりたくなってきて……【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=bZBpLeH2qdQ
-DURATION:PT2H
-DTSTART:20200310T190000Z
-SUMMARY:💫天音かなた: 【マインクラフト】わために貢ぎたくて……マイクラ見てたらやりたくなってきて……【天音かなた/ホロライブ4期生】
-UID:bZBpLeH2qdQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Vtuber界一ぼっち実況がうまいです。【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=Z9ZetWLGNVU
-DURATION:PT2H
-DTSTART:20200311T060000Z
-SUMMARY:❤赤井はあと: Vtuber界一ぼっち実況がうまいです。【ホロライブ/赤井はあと】
-UID:Z9ZetWLGNVU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【６つの金貨＊クリアまで】ちんだらお菓子食べちゃうぞ🍬【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=b_aqnB3masw
-DURATION:PT2H
-DTSTART:20200312T090000Z
-SUMMARY:🍬姫森ルーナ: 【６つの金貨＊クリアまで】ちんだらお菓子食べちゃうぞ🍬【#姫森ルーナ/ホロライブ】
-UID:b_aqnB3masw
+DTSTART:20200313T020000Z
+SUMMARY:🤖ロボ子さん: 【FORTNITE#47】モバイルバッテリー発売まであと少し！昼練✨【ホロライブ/ロボ子さん】クリエイターサポート➡【ROBOCOSAN】
+UID:T0hsDrPxBT0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:拝啓。ルーナイト達へ。🍬【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=QmGhodG3aRs
@@ -235,25 +186,11 @@ SUMMARY:🍬姫森ルーナ: 拝啓。ルーナイト達へ。🍬【#姫森ル�
 UID:QmGhodG3aRs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Dead by Daylight】新キラー登場？！悪魔の保健医大興奮！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=Kznkod5csIc
+DESCRIPTION:【６つの金貨＊クリアまで】ちんだらお菓子食べちゃうぞ🍬【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=b_aqnB3masw
 DURATION:PT2H
-DTSTART:20200311T120000Z
-SUMMARY:💋癒月ちょこSub: 【Dead by Daylight】新キラー登場？！悪魔の保健医大興奮！【ホロライブ/癒月ちょこ】
-UID:Kznkod5csIc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ミリしらお絵かき】ポケモン無知なやつがポケモン描いたらどうなるか検証！！【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=B21YvmppDo0
-DURATION:PT2H
-DTSTART:20200311T120000Z
-SUMMARY:🥐戌神ころね: 【ミリしらお絵かき】ポケモン無知なやつがポケモン描いたらどうなるか検証！！【戌神ころね/ホロライブ】
-UID:B21YvmppDo0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FORTNITE#46】お昼のリハビリフォートナイトっとっと【ホロライブ/ロボ子さん】クリエイターサポート➡【ROBOCOSAN】\nhttps://www.youtube.com/watch?v=76ptJMz_kBk
-DURATION:PT2H
-DTSTART:20200312T050000Z
-SUMMARY:🤖ロボ子さん: 【FORTNITE#46】お昼のリハビリフォートナイトっとっと【ホロライブ/ロボ子さん】クリエイターサポート➡【ROBOCOSAN】
-UID:76ptJMz_kBk
+DTSTART:20200312T090000Z
+SUMMARY:🍬姫森ルーナ: 【６つの金貨＊クリアまで】ちんだらお菓子食べちゃうぞ🍬【#姫森ルーナ/ホロライブ】
+UID:b_aqnB3masw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Project Winter】【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=mhrrFhA2EpM
@@ -263,11 +200,11 @@ SUMMARY:💫天音かなた: 【Project Winter】【天音かなた/ホロライ
 UID:mhrrFhA2EpM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#このファン】魅惑の露天風呂ガチャ💓ひくにぇえええええええええええ！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=M5fmxwykAPc
+DESCRIPTION:【FORTNITE#46】お昼のリハビリフォートナイトっとっと【ホロライブ/ロボ子さん】クリエイターサポート➡【ROBOCOSAN】\nhttps://www.youtube.com/watch?v=76ptJMz_kBk
 DURATION:PT2H
-DTSTART:20200311T040000Z
-SUMMARY:🌸さくらみこ: 【#このファン】魅惑の露天風呂ガチャ💓ひくにぇえええええええええええ！！！！【ホロライブ/さくらみこ】
-UID:M5fmxwykAPc
+DTSTART:20200312T050000Z
+SUMMARY:🤖ロボ子さん: 【FORTNITE#46】お昼のリハビリフォートナイトっとっと【ホロライブ/ロボ子さん】クリエイターサポート➡【ROBOCOSAN】
+UID:76ptJMz_kBk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:16位以下で即放送終了テトリス99！ただそれだけ。【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=7zT5IAxuK3E
@@ -275,27 +212,6 @@ DURATION:PT2H
 DTSTART:20200312T120000Z
 SUMMARY:❤赤井はあと: 16位以下で即放送終了テトリス99！ただそれだけ。【ホロライブ/赤井はあと】
 UID:7zT5IAxuK3E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARK成長物語】第二話「ワイバーン」あんぽんたんが頑張るところを見てください【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=q7gCEtkrG-0
-DURATION:PT2H
-DTSTART:20200311T090000Z
-SUMMARY:💫天音かなた: 【ARK成長物語】第二話「ワイバーン」あんぽんたんが頑張るところを見てください【天音かなた/ホロライブ4期生】
-UID:q7gCEtkrG-0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【まったり】みんなの話を聞いたりスバルが話したりする枠【雑談】\nhttps://www.youtube.com/watch?v=JbdLjGzVnUs
-DURATION:PT2H
-DTSTART:20200312T130000Z
-SUMMARY:🚑大空スバル: 【まったり】みんなの話を聞いたりスバルが話したりする枠【雑談】
-UID:JbdLjGzVnUs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スマブラSP】はわわっ！姫が乱闘騒ぎに巻き込まれたのら～🍬【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=MqRmrbu0BEI
-DURATION:PT2H
-DTSTART:20200311T100000Z
-SUMMARY:🍬姫森ルーナ: 【スマブラSP】はわわっ！姫が乱闘騒ぎに巻き込まれたのら～🍬【#姫森ルーナ/ホロライブ】
-UID:MqRmrbu0BEI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】かなたんと遊びに行った話や今朝いきなり健康に目覚めた話💘【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=Knkp3CUbcLE
@@ -312,18 +228,18 @@ SUMMARY:🌲大神ミオ: 【ポケモン不思議のダンジョン】ポケモ
 UID:U1g24m_6Oa0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#桐生ココ】あさココLIVEニュース！3月11日【#ココここ】\nhttps://www.youtube.com/watch?v=7mYY8Iqs4mU
-DURATION:PT2H
-DTSTART:20200310T210000Z
-SUMMARY:🐉桐生ココ: 【#桐生ココ】あさココLIVEニュース！3月11日【#ココここ】
-UID:7mYY8Iqs4mU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【耐久】30万人(幻覚)になるまで〝足で〟壺男をプレイする！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=gcVq6RrTAuk
 DURATION:PT2H
 DTSTART:20200313T060000Z
 SUMMARY:❤赤井はあと: 【耐久】30万人(幻覚)になるまで〝足で〟壺男をプレイする！【ホロライブ/赤井はあと】
 UID:gcVq6RrTAuk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:可愛いルーナ姫のご希望通りに🍬【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=NJ296p8o-kM
+DURATION:PT2H
+DTSTART:20200313T130000Z
+SUMMARY:🍬姫森ルーナ: 可愛いルーナ姫のご希望通りに🍬【#姫森ルーナ/ホロライブ】
+UID:NJ296p8o-kM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌番組】わためのうた（３月１３日）【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=beJpfQqyd_E
@@ -333,13 +249,6 @@ SUMMARY:🐏角巻わため: 【歌番組】わためのうた（３月１３日
 UID:beJpfQqyd_E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ミスタードリラー】はじめてのドリラー！深夜にせっせと穴を掘る！！【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=bS5IShSSv9M
-DURATION:PT2H
-DTSTART:20200310T151000Z
-SUMMARY:🥐戌神ころね: 【ミスタードリラー】はじめてのドリラー！深夜にせっせと穴を掘る！！【戌神ころね/ホロライブ】
-UID:bS5IShSSv9M
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【事故物件】ホラゲ実況、ビビるわけもなく。余裕だしぃ？【ひいいいいいい】\nhttps://www.youtube.com/watch?v=RQJcRsn0cFE
 DURATION:PT2H
 DTSTART:20200312T080000Z
@@ -347,25 +256,11 @@ SUMMARY:❤赤井はあと: 【事故物件】ホラゲ実況、ビビるわけ�
 UID:RQJcRsn0cFE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#桐生ココ】朝活ARK！WE NEED Electricity in HOLOLIVE Village!!【#とまらないARK】\nhttps://www.youtube.com/watch?v=b_CiobMW0RA
+DESCRIPTION:激辛！？激甘！？この中の裏切り者はダレなんだ！？【#ホロ裏切りの味】\nhttps://www.youtube.com/watch?v=xN1e8JrMDlI
 DURATION:PT2H
-DTSTART:20200310T213000Z
-SUMMARY:🐉桐生ココ: 【#桐生ココ】朝活ARK！WE NEED Electricity in HOLOLIVE Village!!【#とまらないARK】
-UID:b_CiobMW0RA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARK】ホロメンイラスト看板建てます🖌✨観光名所作り❣【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=2r57tPjMFCc
-DURATION:PT2H
-DTSTART:20200311T110000Z
-SUMMARY:🏴☠宝鐘マリン: 【ARK】ホロメンイラスト看板建てます🖌✨観光名所作り❣【ホロライブ/宝鐘マリン】
-UID:2r57tPjMFCc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】今度こそ団員さんとお話するんだ...！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=568gt5_7_zo
-DURATION:PT2H
-DTSTART:20200311T120000Z
-SUMMARY:⚔白銀ノエル: 【雑談】今度こそ団員さんとお話するんだ...！【白銀ノエル/ホロライブ】
-UID:568gt5_7_zo
+DTSTART:20200313T110000Z
+SUMMARY:🌽白上フブキ: 激辛！？激甘！？この中の裏切り者はダレなんだ！？【#ホロ裏切りの味】
+UID:xN1e8JrMDlI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#桐生ココ】Project Winter in HOLOLIVE！みんなで騙し合い！？できるかな・・・【初プレイ】\nhttps://www.youtube.com/watch?v=Zu3FhpAlqRI
@@ -373,13 +268,6 @@ DURATION:PT2H
 DTSTART:20200312T100000Z
 SUMMARY:🐉桐生ココ: 【#桐生ココ】Project Winter in HOLOLIVE！みんなで騙し合い！？できるかな・・・【初プレイ】
 UID:Zu3FhpAlqRI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【初見実況】クロノ・トリガー進める【精神と時の部屋】\nhttps://www.youtube.com/watch?v=jkgZkQ5LLKc
-DURATION:PT2H
-DTSTART:20200311T110000Z
-SUMMARY:🚑大空スバル: 【初見実況】クロノ・トリガー進める【精神と時の部屋】
-UID:jkgZkQ5LLKc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:至高ショットガンを量産する武器屋のオネェと狐【#とまらないARK】\nhttps://www.youtube.com/watch?v=3mqT80b1h7I
@@ -410,13 +298,6 @@ SUMMARY:👾常闇トワ: 【Minecraft】まだ家完成してないのに新し
 UID:aDbGgM3LbFk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】アニソン中心🎶いろいろ歌います💕【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=Q6dh8CseCt0
-DURATION:PT2H
-DTSTART:20200310T151000Z
-SUMMARY:🏴☠宝鐘マリン: 【歌ってみた】アニソン中心🎶いろいろ歌います💕【ホロライブ/宝鐘マリン】
-UID:Q6dh8CseCt0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【kuizy】今流行の！？お絵かき診断＆クイズで遊ぶぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=k4Gi6FTOKSk
 DURATION:PT2H
 DTSTART:20200312T120000Z
@@ -424,18 +305,11 @@ SUMMARY:👯兎田ぺこら: 【kuizy】今流行の！？お絵かき診断＆�
 UID:k4Gi6FTOKSk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:大神ミオの家族会議【第９回】\nhttps://www.youtube.com/watch?v=XrhBqDb4v0c
+DESCRIPTION:【HITMAN™ 2】脳筋すぎる殺し屋が帰ってきた | HITMAN™ 2【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=EzvsCCR0C0M
 DURATION:PT2H
-DTSTART:20200311T120000Z
-SUMMARY:🌲大神ミオ: 大神ミオの家族会議【第９回】
-UID:XrhBqDb4v0c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARK】お引越ししたいけど熊ほしい・・・！！したいことたくさんあるあーく！！！【ホロライブ/潤羽るしあ】\nhttps://www.youtube.com/watch?v=p-5xB2kAKf0
-DURATION:PT2H
-DTSTART:20200311T130000Z
-SUMMARY:🦋潤羽るしあ: 【ARK】お引越ししたいけど熊ほしい・・・！！したいことたくさんあるあーく！！！【ホロライブ/潤羽るしあ】
-UID:p-5xB2kAKf0
+DTSTART:20200312T030000Z
+SUMMARY:🌸さくらみこ: 【HITMAN™ 2】脳筋すぎる殺し屋が帰ってきた | HITMAN™ 2【ホロライブ/さくらみこ】
+UID:EzvsCCR0C0M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Project Winter】初めての雪山人狼！！！ひつじ畜生視点！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=EUH7AZjl_8U
