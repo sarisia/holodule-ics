@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#ホロスターズ新衣装】時には雅にカッコよく…初新衣装お披露目です!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=fJEZ9zRR39c
+DURATION:PT2H
+DTSTART:20200315T090000Z
+SUMMARY:🌺花咲みやび: 【#ホロスターズ新衣装】時には雅にカッコよく…初新衣装お披露目です!!【花咲みやび/ホロスターズ】
+UID:fJEZ9zRR39c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#9【ポケモン剣盾】パーティを立て直す【奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=c5GpDWkfnIU
 DURATION:PT2H
 DTSTART:20200313T140000Z
@@ -11,11 +18,11 @@ SUMMARY:🎸奏手イヅル: #9【ポケモン剣盾】パーティを立て直�
 UID:c5GpDWkfnIU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #マイクラホロスタ鯖 】そうか!俺の城より立派な城は解体すればいいんだ！-Minecraft-【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=l1o6DRaQq3k
+DESCRIPTION:【Minecraft】強くなったエリトラでメサを探す【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=4yINXwwOerU
 DURATION:PT2H
-DTSTART:20200312T130000Z
-SUMMARY:🍕アルランディス: 【 #マイクラホロスタ鯖 】そうか!俺の城より立派な城は解体すればいいんだ！-Minecraft-【ホロスターズ/アルランディス】
-UID:l1o6DRaQq3k
+DTSTART:20200313T060000Z
+SUMMARY:アステル・レダ: 【Minecraft】強くなったエリトラでメサを探す【ホロスターズ/アステル】
+UID:4yINXwwOerU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:夕刻ロベルの『ふつおたを読みたいんや！』【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=zuOg_Te419Y
@@ -32,13 +39,6 @@ SUMMARY:アステル・レダ: この後『ホワイトデーボイス発売開�
 UID:pW_4s5Y5OvM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談コラボ】虚弱男子なみやび君がお店に遊びに来てくれました！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=fi4pqkJluec
-DURATION:PT2H
-DTSTART:20200312T120000Z
-SUMMARY:🍷夕刻ロベル: 【雑談コラボ】虚弱男子なみやび君がお店に遊びに来てくれました！【ホロスターズ/夕刻ロベル】
-UID:fi4pqkJluec
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#2【仁王2】第二のボス煙々羅を滅殺！待望の戦国死にゲーでエンジョイ【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=gwRBSh-uans
 DURATION:PT2H
 DTSTART:20200312T160000Z
@@ -46,53 +46,18 @@ SUMMARY:⚙律可: #2【仁王2】第二のボス煙々羅を滅殺！待望の�
 UID:gwRBSh-uans
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ホワイトデー雑談】４０００人記念と、初のボイス販売記念の雑談！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=cAsQpAVwma4
+DESCRIPTION:#1【新衣装】お待たせ、待った？【奏手イヅル/#ホロスターズ新衣装】\nhttps://www.youtube.com/watch?v=XyA3MyUPN0E
 DURATION:PT2H
-DTSTART:20200312T130000Z
-SUMMARY:🦔💨岸堂天真: 【ホワイトデー雑談】４０００人記念と、初のボイス販売記念の雑談！【岸堂天真/ホロスターズ】
-UID:cAsQpAVwma4
+DTSTART:20200315T100000Z
+SUMMARY:🎸奏手イヅル: #1【新衣装】お待たせ、待った？【奏手イヅル/#ホロスターズ新衣装】
+UID:XyA3MyUPN0E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:秒針を噛む / ずっと真夜中でいいのに。『covered by 律可』\nhttps://www.youtube.com/watch?v=IpEltC_uC94
+DESCRIPTION:【#ホロスターズ新衣装】初の新衣装お披露目会！！【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=W1-IKUaQcJQ
 DURATION:PT2H
-DTSTART:20200313T120000Z
-SUMMARY:⚙律可: 秒針を噛む / ずっと真夜中でいいのに。『covered by 律可』
-UID:IpEltC_uC94
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#1【くるくるくるりん】俺も回りながら『くるくるくるりん』をくるりんぱしたるわ！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=Hu3BfYYFXJs
-DURATION:PT2H
-DTSTART:20200312T090000Z
-SUMMARY:🍷夕刻ロベル: #1【くるくるくるりん】俺も回りながら『くるくるくるりん』をくるりんぱしたるわ！【ホロスターズ/夕刻ロベル】
-UID:Hu3BfYYFXJs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FF7リメイク 】体験版をやる！！！！！【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=HFy23KUsLZY
-DURATION:PT2H
-DTSTART:20200312T100000Z
-SUMMARY:🌺花咲みやび: 【FF7リメイク 】体験版をやる！！！！！【花咲みやび/ホロスターズ】
-UID:HFy23KUsLZY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#1【仁王2】発売即プレイ！！待望の戦国死にゲーでエンジョイ【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=0gJzfKjoeBU
-DURATION:PT2H
-DTSTART:20200311T160000Z
-SUMMARY:⚙律可: #1【仁王2】発売即プレイ！！待望の戦国死にゲーでエンジョイ【律可/ホロスターズ】
-UID:0gJzfKjoeBU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】強くなったエリトラでメサを探す【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=4yINXwwOerU
-DURATION:PT2H
-DTSTART:20200313T060000Z
-SUMMARY:アステル・レダ: 【Minecraft】強くなったエリトラでメサを探す【ホロスターズ/アステル】
-UID:4yINXwwOerU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:名作ホラーゲーム『 Ib 』をプレイしていく#1 【アステル/ホロスターズ】\nhttps://www.youtube.com/watch?v=cHAI4JlYUtQ
-DURATION:PT2H
-DTSTART:20200311T150000Z
-SUMMARY:アステル・レダ: 名作ホラーゲーム『 Ib 』をプレイしていく#1 【アステル/ホロスターズ】
-UID:cHAI4JlYUtQ
+DTSTART:20200315T110000Z
+SUMMARY:⚙律可: 【#ホロスターズ新衣装】初の新衣装お披露目会！！【律可/ホロスターズ】
+UID:W1-IKUaQcJQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【夜勤事件】男の娘が一人で夜勤すると……?【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=267GkuXpHv8
@@ -102,11 +67,11 @@ SUMMARY:💙鏡見キラ: 【夜勤事件】男の娘が一人で夜勤すると
 UID:267GkuXpHv8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#5【カスタムロボV2】激闘編！全ステージ金トロフィー獲得を目指す！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=nioTI8vVFcg
+DESCRIPTION:【 #新衣装お披露目】廻り集いて回帰せん【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=2Xwuui5H3Rg
 DURATION:PT2H
-DTSTART:20200312T040000Z
-SUMMARY:🍷夕刻ロベル: #5【カスタムロボV2】激闘編！全ステージ金トロフィー獲得を目指す！！【ホロスターズ/夕刻ロベル】
-UID:nioTI8vVFcg
+DTSTART:20200315T103000Z
+SUMMARY:🍕アルランディス: 【 #新衣装お披露目】廻り集いて回帰せん【ホロスターズ/アルランディス】
+UID:2Xwuui5H3Rg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:名作ホラーゲーム『 Ib 』をプレイしていく#2 【アステル/ホロスターズ】\nhttps://www.youtube.com/watch?v=W9Si5GAjrsY
@@ -114,5 +79,19 @@ DURATION:PT2H
 DTSTART:20200313T110000Z
 SUMMARY:アステル・レダ: 名作ホラーゲーム『 Ib 』をプレイしていく#2 【アステル/ホロスターズ】
 UID:W9Si5GAjrsY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【弾き語り】今回もまったりといきましょう【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=39mUuXmfKYI
+DURATION:PT2H
+DTSTART:20200314T140000Z
+SUMMARY:⚙律可: 【弾き語り】今回もまったりといきましょう【律可/ホロスターズ】
+UID:39mUuXmfKYI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:秒針を噛む / ずっと真夜中でいいのに。『covered by 律可』\nhttps://www.youtube.com/watch?v=IpEltC_uC94
+DURATION:PT2H
+DTSTART:20200313T120000Z
+SUMMARY:⚙律可: 秒針を噛む / ずっと真夜中でいいのに。『covered by 律可』
+UID:IpEltC_uC94
 END:VEVENT
 END:VCALENDAR
