@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ARK】原始時代でも建築がしてみたい！【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=WNRDG3gTffU
-DURATION:PT2H
-DTSTART:20200315T060000Z
-SUMMARY:🔥不知火フレア: 【ARK】原始時代でも建築がしてみたい！【ホロライブ/不知火フレア】
-UID:WNRDG3gTffU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談コラボ】初のホロスタメンバー以外のお客様！メイカ君が遊びに来てくれました！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=padvlYwfuUY
 DURATION:PT2H
 DTSTART:20200316T120000Z
@@ -37,6 +30,13 @@ DURATION:PT2H
 DTSTART:20200315T071500Z
 SUMMARY:👯兎田ぺこら: 【スマブラ】視聴者参加型かかってこい！！！！１勝するまでやめられないぺこ！【ホロライブ/兎田ぺこら】
 UID:efFYKz011fE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロ鯖最終決戦】ラグナロク最強ボス！？死んだら即終了！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=JPHhnTe_7CM
+DURATION:PT2H
+DTSTART:20200315T130000Z
+SUMMARY:🏮夏色まつり: 【#ホロ鯖最終決戦】ラグナロク最強ボス！？死んだら即終了！【ホロライブ/夏色まつり】
+UID:JPHhnTe_7CM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:グラブルVS　オカマは最強ってマジ？【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=vChUdF4oieU
@@ -305,6 +305,13 @@ SUMMARY:🤖ロボ子さん: 【FORTNITE#48】ホワイトデーだ！外来語�
 UID:3MtxnrFqTHs
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ark ラグナロク【#ホロ鯖最終決戦】前回ボスの5倍以上の戦闘力に至高の下半身で挑ムキロゼ【アキロゼ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=X37I0eWwIhc
+DURATION:PT2H
+DTSTART:20200315T130000Z
+SUMMARY:🍎アキロゼ: Ark ラグナロク【#ホロ鯖最終決戦】前回ボスの5倍以上の戦闘力に至高の下半身で挑ムキロゼ【アキロゼ視点/ホロライブ】
+UID:X37I0eWwIhc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【15万人記念歌枠】猫ブームがきてる中ボク…実は…；；；お祝いと共に隠してたこともいいます！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=mggRbgW9Oh8
 DURATION:PT2H
 DTSTART:20200315T090000Z
@@ -368,11 +375,11 @@ SUMMARY:🦋潤羽るしあ: 【ホワイトデー♡イベント】３・１４
 UID:398QCdvOxGw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ARK】死んだら即終了！RAGNAROKホロ鯖αボスに挑戦！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=dkpF9T4kZf0
+DESCRIPTION:【#桐生ココ】うたへただからお歌を練習したい【#ココここ】\nhttps://www.youtube.com/watch?v=uD4_sAuzoCg
 DURATION:PT2H
-DTSTART:20200315T130000Z
-SUMMARY:🐏角巻わため: 【ARK】死んだら即終了！RAGNAROKホロ鯖αボスに挑戦！！！【角巻わため/ホロライブ４期生】
-UID:dkpF9T4kZf0
+DTSTART:20200315T030000Z
+SUMMARY:🐉桐生ココ: 【#桐生ココ】うたへただからお歌を練習したい【#ココここ】
+UID:uD4_sAuzoCg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:名作ホラーゲーム『 Ib 』をプレイしていく#最終回 【アステル/ホロスターズ】\nhttps://www.youtube.com/watch?v=f2Axi378HTI
@@ -382,11 +389,11 @@ SUMMARY:アステル・レダ: 名作ホラーゲーム『 Ib 』をプレイし
 UID:f2Axi378HTI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#桐生ココ】うたへただからお歌を練習したい【#ココここ】\nhttps://www.youtube.com/watch?v=uD4_sAuzoCg
+DESCRIPTION:【ARK】死んだら即終了！RAGNAROKホロ鯖αボスに挑戦！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=dkpF9T4kZf0
 DURATION:PT2H
-DTSTART:20200315T030000Z
-SUMMARY:🐉桐生ココ: 【#桐生ココ】うたへただからお歌を練習したい【#ココここ】
-UID:uD4_sAuzoCg
+DTSTART:20200315T130000Z
+SUMMARY:🐏角巻わため: 【ARK】死んだら即終了！RAGNAROKホロ鯖αボスに挑戦！！！【角巻わため/ホロライブ４期生】
+UID:dkpF9T4kZf0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARK】🔥ラスボス死んだら即終了!!🔥特攻隊マリン船長【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=5AE4JMwNKCo
@@ -408,6 +415,13 @@ DURATION:PT2H
 DTSTART:20200315T130000Z
 SUMMARY:⚓湊あくあ: 【#ホロ鯖最終決戦】覇王の風格【湊あくあ/ホロライブ】
 UID:xYGiwQOaJzQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:はあちゃま、キャラ弁つくる！！！！！！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=uue_C0v9Dpk
+DURATION:PT2H
+DTSTART:20200315T120000Z
+SUMMARY:❤赤井はあと: はあちゃま、キャラ弁つくる！！！！！！【ホロライブ/赤井はあと】
+UID:uue_C0v9Dpk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロ鯖最終決戦】死んだら即終了ARK！RAGNAROKホロ鯖ボスアリーナを攻略せよ！！【#とまらないARK】\nhttps://www.youtube.com/watch?v=o3--dYeAyBI
@@ -466,10 +480,10 @@ SUMMARY:⚓湊あくあ: 【#ホロ鯖最終決戦】私たちが『最強』に
 UID:C2trB4fcE0k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #新衣装お披露目】廻り集いて回帰せん【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=2Xwuui5H3Rg
+DESCRIPTION:【 #ホロスターズ新衣装 】廻り集いて回帰せん【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=2Xwuui5H3Rg
 DURATION:PT2H
 DTSTART:20200315T103000Z
-SUMMARY:🍕アルランディス: 【 #新衣装お披露目】廻り集いて回帰せん【ホロスターズ/アルランディス】
+SUMMARY:🍕アルランディス: 【 #ホロスターズ新衣装 】廻り集いて回帰せん【ホロスターズ/アルランディス】
 UID:2Xwuui5H3Rg
 END:VEVENT
 BEGIN:VEVENT
@@ -538,7 +552,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【これが本当の最終回！！】バグに恐れながら怪ゲー「摩訶摩訶」クリア目指すど！！！【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=qItK5eUMorU
 DURATION:PT2H
-DTSTART:20200315T080000Z
+DTSTART:20200315T081500Z
 SUMMARY:🥐戌神ころね: 【これが本当の最終回！！】バグに恐れながら怪ゲー「摩訶摩訶」クリア目指すど！！！【戌神ころね/ホロライブ】
 UID:qItK5eUMorU
 END:VEVENT
