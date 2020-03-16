@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【弾き語り】久々にアコギつかう【奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=Clje-v-Azz8
-DURATION:PT2H
-DTSTART:20200316T073000Z
-SUMMARY:🎸奏手イヅル: 【弾き語り】久々にアコギつかう【奏手イヅル/ホロスターズ】
-UID:Clje-v-Azz8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【弾き語り】気ままに歌う時間！！！【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=4k2yap-TOz8
-DURATION:PT2H
-DTSTART:20200316T060000Z
-SUMMARY:⚙律可: 【弾き語り】気ままに歌う時間！！！【律可/ホロスターズ】
-UID:4k2yap-TOz8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【東方Project】完全憑依の謎を解き明かせ!!-東方憑依華-【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=DAP_Bp85drk
 DURATION:PT2H
 DTSTART:20200316T130000Z
@@ -32,18 +18,67 @@ SUMMARY:🍷夕刻ロベル: 【雑談コラボ】初のホロスタメンバー
 UID:padvlYwfuUY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#35【弾き語り】気付けば前回から13日経ってた【奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=TKSX9qzy_8s
-DURATION:PT2H
-DTSTART:20200317T120000Z
-SUMMARY:🎸奏手イヅル: #35【弾き語り】気付けば前回から13日経ってた【奏手イヅル/ホロスターズ】
-UID:TKSX9qzy_8s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ついに...僕の新衣装ぜんぶ見せちゃいます!!!【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=WBUsm2Q19tI
 DURATION:PT2H
 DTSTART:20200315T093000Z
 SUMMARY:💙鏡見キラ: ついに...僕の新衣装ぜんぶ見せちゃいます!!!【ホロスターズ/鏡見キラ】
 UID:WBUsm2Q19tI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#1【新衣装】お待たせ、待った？【奏手イヅル/#ホロスターズ新衣装】\nhttps://www.youtube.com/watch?v=XyA3MyUPN0E
+DURATION:PT2H
+DTSTART:20200315T100000Z
+SUMMARY:🎸奏手イヅル: #1【新衣装】お待たせ、待った？【奏手イヅル/#ホロスターズ新衣装】
+UID:XyA3MyUPN0E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【コラボ歌枠】緊急セッション！２３時にはワンコーラス動画upもあるよ！スペシャル【夏色まつり/律可 #まつりっか】\nhttps://www.youtube.com/watch?v=fezwGZm9DEU
+DURATION:PT2H
+DTSTART:20200316T130000Z
+SUMMARY:⚙律可: 【コラボ歌枠】緊急セッション！２３時にはワンコーラス動画upもあるよ！スペシャル【夏色まつり/律可 #まつりっか】
+UID:fezwGZm9DEU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #ホロスターズ新衣装 】廻り集いて回帰せん【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=2Xwuui5H3Rg
+DURATION:PT2H
+DTSTART:20200315T103000Z
+SUMMARY:🍕アルランディス: 【 #ホロスターズ新衣装 】廻り集いて回帰せん【ホロスターズ/アルランディス】
+UID:2Xwuui5H3Rg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #マイクラホロスタ鯖】プルパァブロックで建築しよう-朝活Minecraft-【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=4J9S-nHBePI
+DURATION:PT2H
+DTSTART:20200315T010000Z
+SUMMARY:🍕アルランディス: 【 #マイクラホロスタ鯖】プルパァブロックで建築しよう-朝活Minecraft-【ホロスターズ/アルランディス】
+UID:4J9S-nHBePI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#4【Minecraft】深夜のゆる～い素材集め【奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=MmPoXy9iNgg
+DURATION:PT2H
+DTSTART:20200314T160000Z
+SUMMARY:🎸奏手イヅル: #4【Minecraft】深夜のゆる～い素材集め【奏手イヅル/ホロスターズ】
+UID:MmPoXy9iNgg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【弾き語り】久々にアコギつかう【奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=Clje-v-Azz8
+DURATION:PT2H
+DTSTART:20200316T073000Z
+SUMMARY:🎸奏手イヅル: 【弾き語り】久々にアコギつかう【奏手イヅル/ホロスターズ】
+UID:Clje-v-Azz8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【弾き語り】気ままに歌う時間！！！【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=4k2yap-TOz8
+DURATION:PT2H
+DTSTART:20200316T060000Z
+SUMMARY:⚙律可: 【弾き語り】気ままに歌う時間！！！【律可/ホロスターズ】
+UID:4k2yap-TOz8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#35【弾き語り】気付けば前回から13日経ってた【奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=TKSX9qzy_8s
+DURATION:PT2H
+DTSTART:20200317T120000Z
+SUMMARY:🎸奏手イヅル: #35【弾き語り】気付けば前回から13日経ってた【奏手イヅル/ホロスターズ】
+UID:TKSX9qzy_8s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#1【雑談】深夜だもの【ちびすたーず】\nhttps://www.youtube.com/watch?v=SjabciKfl-I
@@ -53,11 +88,11 @@ SUMMARY:🎸奏手イヅル: #1【雑談】深夜だもの【ちびすたーず�
 UID:SjabciKfl-I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#1【新衣装】お待たせ、待った？【奏手イヅル/#ホロスターズ新衣装】\nhttps://www.youtube.com/watch?v=XyA3MyUPN0E
+DESCRIPTION:カブトムシ 1cho.ver/aiko(Covered by 夏色まつり&律可)\nhttps://www.youtube.com/watch?v=ufZmpbMAotI
 DURATION:PT2H
-DTSTART:20200315T100000Z
-SUMMARY:🎸奏手イヅル: #1【新衣装】お待たせ、待った？【奏手イヅル/#ホロスターズ新衣装】
-UID:XyA3MyUPN0E
+DTSTART:20200316T140000Z
+SUMMARY:⚙律可: カブトムシ 1cho.ver/aiko(Covered by 夏色まつり&律可)
+UID:ufZmpbMAotI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】資源鯖リセットまでにメサを無くす。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=-UsUr6vCb8E
@@ -86,26 +121,5 @@ DURATION:PT2H
 DTSTART:20200314T152000Z
 SUMMARY:アステル・レダ: 【アークナイツ/明日箱舟】高難易度ステージをみんなで考えよ！【ホロスターズ】
 UID:KQKvoavll-Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #ホロスターズ新衣装 】廻り集いて回帰せん【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=2Xwuui5H3Rg
-DURATION:PT2H
-DTSTART:20200315T103000Z
-SUMMARY:🍕アルランディス: 【 #ホロスターズ新衣装 】廻り集いて回帰せん【ホロスターズ/アルランディス】
-UID:2Xwuui5H3Rg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #マイクラホロスタ鯖】プルパァブロックで建築しよう-朝活Minecraft-【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=4J9S-nHBePI
-DURATION:PT2H
-DTSTART:20200315T010000Z
-SUMMARY:🍕アルランディス: 【 #マイクラホロスタ鯖】プルパァブロックで建築しよう-朝活Minecraft-【ホロスターズ/アルランディス】
-UID:4J9S-nHBePI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#4【Minecraft】深夜のゆる～い素材集め【奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=MmPoXy9iNgg
-DURATION:PT2H
-DTSTART:20200314T160000Z
-SUMMARY:🎸奏手イヅル: #4【Minecraft】深夜のゆる～い素材集め【奏手イヅル/ホロスターズ】
-UID:MmPoXy9iNgg
 END:VEVENT
 END:VCALENDAR
