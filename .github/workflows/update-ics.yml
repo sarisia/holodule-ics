@@ -25,7 +25,7 @@ jobs:
           HOLODULE_PAGE: ${{ secrets.HOLODULE_PAGE }}
           HOLODULE_YOUTUBE_KEY: ${{ secrets.HOLODULE_YOUTUBE_KEY }}
       - name: deploy to public branch
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v3.5.3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
