@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:#6【カスタムロボV2】激闘編！そろそろクリアが見えてきたと思いたい【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=9cr7git2iPY
+DURATION:PT2H
+DTSTART:20200317T040000Z
+SUMMARY:🍷夕刻ロベル: #6【カスタムロボV2】激闘編！そろそろクリアが見えてきたと思いたい【ホロスターズ/夕刻ロベル】
+UID:9cr7git2iPY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ホラー】３人のバカタレ共によるQuietMansion2【#バカタレ共】\nhttps://www.youtube.com/watch?v=yul9R7O2dEw
 DURATION:PT2H
 DTSTART:20200317T160000Z
@@ -396,10 +403,10 @@ SUMMARY:🚑大空スバル: 【】コラボ【】
 UID:ikVxI5uS98E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【20時～】配信予定！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=5dc2TyvB5h4
+DESCRIPTION:#3【くるくるくるりん】今日できかいのくにを必ず超えてみせる放送【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=5dc2TyvB5h4
 DURATION:PT2H
 DTSTART:20200317T110000Z
-SUMMARY:🍷夕刻ロベル: 【20時～】配信予定！【ホロスターズ/夕刻ロベル】
+SUMMARY:🍷夕刻ロベル: #3【くるくるくるりん】今日できかいのくにを必ず超えてみせる放送【ホロスターズ/夕刻ロベル】
 UID:5dc2TyvB5h4
 END:VEVENT
 END:VCALENDAR
