@@ -60,18 +60,18 @@ SUMMARY:🐉桐生ココ: 【#桐生ココ】あさココLIVEニュース！3月
 UID:fkyqGbzO9Rg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【GOAT OF DUTY】自分もヤギ🐐で相手もヤギ🐐で【#常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=DC3f9dilw4s
-DURATION:PT2H
-DTSTART:20200318T130000Z
-SUMMARY:👾常闇トワ: 【GOAT OF DUTY】自分もヤギ🐐で相手もヤギ🐐で【#常闇トワ/ホロライブ】
-UID:DC3f9dilw4s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【あつまれどうぶつ森】虚弱でも無人島生活したい!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=VetseE2OcmY
 DURATION:PT2H
 DTSTART:20200319T150000Z
 SUMMARY:🌺花咲みやび: 【あつまれどうぶつ森】虚弱でも無人島生活したい!!【花咲みやび/ホロスターズ】
 UID:VetseE2OcmY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:よていだよ～！みこ畜だよ～あさまでだよ～【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=vA5k3QnZQas
+DURATION:PT2H
+DTSTART:20200318T163000Z
+SUMMARY:🌸さくらみこ: よていだよ～！みこ畜だよ～あさまでだよ～【ホロライブ/さくらみこ】
+UID:vA5k3QnZQas
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【アークナイツ】５－７をクリアしにいくぞ！！【明日方舟】\nhttps://www.youtube.com/watch?v=dqOoZSemWic
@@ -100,6 +100,13 @@ DURATION:PT2H
 DTSTART:20200318T110000Z
 SUMMARY:🌸さくらみこ: #42【ぽんこつArk】全ボスソロ討伐周回RTA～ありがとう､ラグナロク編～【さくらみこ/ホロライブ】
 UID:64HXqrHbYTI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】99割雑談クラフト with 斬魄刀[侘助]所持者 【ホロスターズ】\nhttps://www.youtube.com/watch?v=gzLEINgZ8hc
+DURATION:PT2H
+DTSTART:20200318T160000Z
+SUMMARY:アステル・レダ: 【Minecraft】99割雑談クラフト with 斬魄刀[侘助]所持者 【ホロスターズ】
+UID:gzLEINgZ8hc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】深夜の逆バニーに定評のあるロボのおしゃべり【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=XJE5tBH8dBc
@@ -179,6 +186,13 @@ SUMMARY:❤赤井はあと: 【罵倒】キモヲタ VS はあちゃま 勝つ�
 UID:c8QY2_JWMDA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:無人島で暮らすことになった狐なんだなも【あつまれどうぶつの森】\nhttps://www.youtube.com/watch?v=kQXc80jgk-E
+DURATION:PT2H
+DTSTART:20200319T144500Z
+SUMMARY:🌽白上フブキ: 無人島で暮らすことになった狐なんだなも【あつまれどうぶつの森】
+UID:kQXc80jgk-E
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:劇場版・絶叫APEX部【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=M9sjePt2Eyo
 DURATION:PT2H
 DTSTART:20200318T110000Z
@@ -191,6 +205,20 @@ DURATION:PT2H
 DTSTART:20200318T150000Z
 SUMMARY:🍬姫森ルーナ: 連続コラボと初案件で手汗びしゃルーナなのら～🍬【#姫森ルーナ/ホロライブ】
 UID:-cy3d7xuUTw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【13時～】配信予定！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=5V1tkVQSqvU
+DURATION:PT2H
+DTSTART:20200319T040000Z
+SUMMARY:🍷夕刻ロベル: 【13時～】配信予定！【ホロスターズ/夕刻ロベル】
+UID:5V1tkVQSqvU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK】さらばラグナロク。まつり達が生きた証を残す。【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=MD248Fydjas
+DURATION:PT2H
+DTSTART:20200319T050000Z
+SUMMARY:🏮夏色まつり: 【ARK】さらばラグナロク。まつり達が生きた証を残す。【ホロライブ/夏色まつり】
+UID:MD248Fydjas
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【CoD:ウォーゾーン】CoDは生き様【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=7bMjhafJx_I
@@ -221,10 +249,10 @@ SUMMARY:🍷夕刻ロベル: #7【カスタムロボV2】素晴らしきカス�
 UID:WYjMuX9vM-Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【初見実況】クロノ・トリガーやる！！！！！！！！！！！！！【虹色の貝殻さがす】\nhttps://www.youtube.com/watch?v=TJzuCGGmxcc
+DESCRIPTION:【初見実況】クロノ・トリガーやる！！！！！！！！！#6【虹色の貝殻さがす】\nhttps://www.youtube.com/watch?v=TJzuCGGmxcc
 DURATION:PT2H
 DTSTART:20200318T130000Z
-SUMMARY:🚑大空スバル: 【初見実況】クロノ・トリガーやる！！！！！！！！！！！！！【虹色の貝殻さがす】
+SUMMARY:🚑大空スバル: 【初見実況】クロノ・トリガーやる！！！！！！！！！#6【虹色の貝殻さがす】
 UID:TJzuCGGmxcc
 END:VEVENT
 BEGIN:VEVENT
