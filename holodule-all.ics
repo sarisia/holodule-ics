@@ -25,18 +25,18 @@ SUMMARY:🏮夏色まつり: 【あつまれどうぶつの森】はじめての
 UID:FP0ZoqvouGs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#10【ポケモン剣盾】パーティ仕上げてセミファイナルまで【奏手イヅル】\nhttps://www.youtube.com/watch?v=d889GjaZFXs
-DURATION:PT2H
-DTSTART:20200318T070000Z
-SUMMARY:🎸奏手イヅル: #10【ポケモン剣盾】パーティ仕上げてセミファイナルまで【奏手イヅル】
-UID:d889GjaZFXs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【みんながトマトの世界！？】トマトマトマト！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=D4_IGkTBHdA
 DURATION:PT2H
 DTSTART:20200319T100000Z
 SUMMARY:🐻ときのそら: 【みんながトマトの世界！？】トマトマトマト！【#ときのそら生放送】
 UID:D4_IGkTBHdA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#10【ポケモン剣盾】パーティ仕上げてセミファイナルまで【奏手イヅル】\nhttps://www.youtube.com/watch?v=d889GjaZFXs
+DURATION:PT2H
+DTSTART:20200318T070000Z
+SUMMARY:🎸奏手イヅル: #10【ポケモン剣盾】パーティ仕上げてセミファイナルまで【奏手イヅル】
+UID:d889GjaZFXs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【子育てクイズマイエンジェル】みんなと力を合わせて天使を育てあげるぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=ECJJeQPAmjI
@@ -46,18 +46,18 @@ SUMMARY:👯兎田ぺこら: 【子育てクイズマイエンジェル】みん
 UID:ECJJeQPAmjI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌番組】わためのうた（３月１８日）【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=Uf64b-WNoOo
-DURATION:PT2H
-DTSTART:20200317T204500Z
-SUMMARY:🐏角巻わため: 【歌番組】わためのうた（３月１８日）【角巻わため/ホロライブ４期生】
-UID:Uf64b-WNoOo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【案件放送】あやめ様と緊急授業？！噂のN高について【ホロライブ/百鬼あやめ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=USnLp2v8chg
 DURATION:PT2H
 DTSTART:20200318T110000Z
 SUMMARY:💋癒月ちょこ: 【案件放送】あやめ様と緊急授業？！噂のN高について【ホロライブ/百鬼あやめ/癒月ちょこ】
 UID:USnLp2v8chg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌番組】わためのうた（３月１８日）【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=Uf64b-WNoOo
+DURATION:PT2H
+DTSTART:20200317T204500Z
+SUMMARY:🐏角巻わため: 【歌番組】わためのうた（３月１８日）【角巻わため/ホロライブ４期生】
+UID:Uf64b-WNoOo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#桐生ココ】あさココLIVEニュース！3月18日【#ココここ】\nhttps://www.youtube.com/watch?v=fkyqGbzO9Rg
@@ -298,18 +298,18 @@ SUMMARY:🚑大空スバル: 【人生初】あつめろどうぶつの森　初
 UID:Zac38GLwLPg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【２３万人記念】えーちゃんと嬉し楽しいお泊まり雑談～♪\nhttps://www.youtube.com/watch?v=krxJaGTfUiA
-DURATION:PT2H
-DTSTART:20200318T170500Z
-SUMMARY:🥐戌神ころね: 【２３万人記念】えーちゃんと嬉し楽しいお泊まり雑談～♪
-UID:krxJaGTfUiA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【バブルボブル 4 フレンズ】わいわい３人で協力プレイなのら！【姫森ルーナ/天音かなた/角巻わため/ホロライブ】\nhttps://www.youtube.com/watch?v=GuBrjqj4dmI
 DURATION:PT2H
 DTSTART:20200318T110000Z
 SUMMARY:🍬姫森ルーナ: 【バブルボブル 4 フレンズ】わいわい３人で協力プレイなのら！【姫森ルーナ/天音かなた/角巻わため/ホロライブ】
 UID:GuBrjqj4dmI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【２３万人記念】えーちゃんと嬉し楽しいお泊まり雑談～♪\nhttps://www.youtube.com/watch?v=krxJaGTfUiA
+DURATION:PT2H
+DTSTART:20200318T170500Z
+SUMMARY:🥐戌神ころね: 【２３万人記念】えーちゃんと嬉し楽しいお泊まり雑談～♪
+UID:krxJaGTfUiA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARK】二人で思いで作り・・・！マリンとハラハラワイバーンチャレンジ☆ゆくのです！！！！【ホロライブ/潤羽るしあ】\nhttps://www.youtube.com/watch?v=Xe67zligwFE
@@ -340,6 +340,20 @@ SUMMARY:🌲大神ミオ: ラテアートはちょっと苦手なカフェ店員
 UID:8BeFp_DW5T8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:狼らしく新生活！【あつまれどうぶつの森】\nhttps://www.youtube.com/watch?v=QClLVWFAEbY
+DURATION:PT2H
+DTSTART:20200319T150000Z
+SUMMARY:🌲大神ミオ: 狼らしく新生活！【あつまれどうぶつの森】
+UID:QClLVWFAEbY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【あつまれどうぶつの森】虚弱でも無人島生活したい!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=VetseE2OcmY
+DURATION:PT2H
+DTSTART:20200319T150000Z
+SUMMARY:🌺花咲みやび: 【あつまれどうぶつの森】虚弱でも無人島生活したい!!【花咲みやび/ホロスターズ】
+UID:VetseE2OcmY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:よていだよ～！みこ畜だよ～あさまでだよ～【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=vA5k3QnZQas
 DURATION:PT2H
 DTSTART:20200318T163000Z
@@ -347,10 +361,10 @@ SUMMARY:🌸さくらみこ: よていだよ～！みこ畜だよ～あさまで
 UID:vA5k3QnZQas
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:今流行りの島ゲームやる！！！！！！！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=Lcg0eMir-ZU
+DESCRIPTION:【あつまれにんげんの森】無人島生活が流行ってるらしい！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=Lcg0eMir-ZU
 DURATION:PT2H
 DTSTART:20200320T100000Z
-SUMMARY:❤赤井はあと: 今流行りの島ゲームやる！！！！！！！【ホロライブ/赤井はあと】
+SUMMARY:❤赤井はあと: 【あつまれにんげんの森】無人島生活が流行ってるらしい！【ホロライブ/赤井はあと】
 UID:Lcg0eMir-ZU
 END:VEVENT
 BEGIN:VEVENT
@@ -380,6 +394,13 @@ DURATION:PT2H
 DTSTART:20200317T150000Z
 SUMMARY:🤖ロボ子さん: 【雑談】深夜の逆バニーに定評のあるロボのおしゃべり【ホロライブ/ロボ子さん】
 UID:XJE5tBH8dBc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【あつまれどうぶつの森】最速島生活！新作どう森で朝まで遊びまくるにぇ～！🌳【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=2S2wTlRRZ4Y
+DURATION:PT2H
+DTSTART:20200319T144500Z
+SUMMARY:🌸さくらみこ: 【あつまれどうぶつの森】最速島生活！新作どう森で朝まで遊びまくるにぇ～！🌳【ホロライブ/さくらみこ】
+UID:2S2wTlRRZ4Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARK】サクッと終らせたらぁ！度胸試しワイバーンチャレンジ！！６０分もかからないじゃろ！【ホロライブ/潤羽るしあ】\nhttps://www.youtube.com/watch?v=Cb8HnqQn_T8
@@ -424,18 +445,18 @@ SUMMARY:⚓湊あくあ: 【ガチギレ】　伝　説　の　学　力　テ�
 UID:rv8YCU-JZNs
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ゲゲゲの鬼太郎】天魔大王が復活したので倒して世界を救うのだ！！！【スーファミ/SFC】\nhttps://www.youtube.com/watch?v=pGHikPCLc2o
+DURATION:PT2H
+DTSTART:20200319T150000Z
+SUMMARY:🥐戌神ころね: 【ゲゲゲの鬼太郎】天魔大王が復活したので倒して世界を救うのだ！！！【スーファミ/SFC】
+UID:pGHikPCLc2o
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ARK】まつりちゃ先輩と動物園作るのら🍬【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=DRZJkeXrL_E
 DURATION:PT2H
 DTSTART:20200319T050000Z
 SUMMARY:🍬姫森ルーナ: 【ARK】まつりちゃ先輩と動物園作るのら🍬【#姫森ルーナ/ホロライブ】
 UID:DRZJkeXrL_E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【２４時】なにか短めなげーむかな？なにかな～【集合！】\nhttps://www.youtube.com/watch?v=pGHikPCLc2o
-DURATION:PT2H
-DTSTART:20200319T150000Z
-SUMMARY:🥐戌神ころね: 【２４時】なにか短めなげーむかな？なにかな～【集合！】
-UID:pGHikPCLc2o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:劇場版・絶叫APEX部【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=M9sjePt2Eyo
@@ -459,13 +480,6 @@ SUMMARY:🌺花咲みやび: 【CoD:ウォーゾーン】CoDは生き様【花�
 UID:7bMjhafJx_I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#7【カスタムロボV2】素晴らしきカスタムロボV2に幸あれ。【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=WYjMuX9vM-Y
-DURATION:PT2H
-DTSTART:20200318T040000Z
-SUMMARY:🍷夕刻ロベル: #7【カスタムロボV2】素晴らしきカスタムロボV2に幸あれ。【ホロスターズ/夕刻ロベル】
-UID:WYjMuX9vM-Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【あつまれどうぶつの森】無人島で気ままな羊ライフ！だなも！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=D9qxYQHZIaA
 DURATION:PT2H
 DTSTART:20200319T150000Z
@@ -487,11 +501,11 @@ SUMMARY:🌽白上フブキ: 【3/20】無人島で色々やってみる狐な�
 UID:Zw0CT8_Tx90
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ポケットモンスター ソード】名前をリスナーに決めてもらう！ソードストーリー#11【#常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=VMsR6oCylQM
+DESCRIPTION:#7【カスタムロボV2】素晴らしきカスタムロボV2に幸あれ。【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=WYjMuX9vM-Y
 DURATION:PT2H
-DTSTART:20200318T000000Z
-SUMMARY:👾常闇トワ: 【ポケットモンスター ソード】名前をリスナーに決めてもらう！ソードストーリー#11【#常闇トワ/ホロライブ】
-UID:VMsR6oCylQM
+DTSTART:20200318T040000Z
+SUMMARY:🍷夕刻ロベル: #7【カスタムロボV2】素晴らしきカスタムロボV2に幸あれ。【ホロスターズ/夕刻ロベル】
+UID:WYjMuX9vM-Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】おにいたんのためにうたうね？💘【ガチ恋不可避】\nhttps://www.youtube.com/watch?v=cIJvjjssu-E
@@ -506,6 +520,13 @@ DURATION:PT2H
 DTSTART:20200319T120005Z
 SUMMARY:🌟夜空メル: 【ホロライブ】魔界組5人で「Crazy ∞ nighT」歌ってみた☆
 UID:A-tBXiKLVJo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポケットモンスター ソード】名前をリスナーに決めてもらう！ソードストーリー#11【#常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=VMsR6oCylQM
+DURATION:PT2H
+DTSTART:20200318T000000Z
+SUMMARY:👾常闇トワ: 【ポケットモンスター ソード】名前をリスナーに決めてもらう！ソードストーリー#11【#常闇トワ/ホロライブ】
+UID:VMsR6oCylQM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マイクラホロスタ鯖】寝てるだけでカボチャを手に入れたい。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=uqfRUXgNyAo
