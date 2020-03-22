@@ -1,9 +1,11 @@
 name: update-ics
 on:
   schedule:
-    - cron: '12 * * * *'
+    - cron: '12/15 * * * *'
   repository_dispatch:
-  pull_request:
+  push:
+    tags:
+      - 'test**'
 
 jobs:
   update:
