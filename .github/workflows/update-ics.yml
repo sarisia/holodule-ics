@@ -38,7 +38,7 @@ jobs:
           user_name: Pekora
           user_email: 'pekora@usada.carrot'
       - name: post status to Discord
-        if: always()
+        if: failure()
         uses: sarisia/actions-status-discord@v1
         with:
           webhook: ${{ secrets.DISCORD_WEBHOOK }}
