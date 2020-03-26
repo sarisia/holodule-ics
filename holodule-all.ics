@@ -151,18 +151,18 @@ SUMMARY:🚑大空スバル: 【視聴者参加型】大空家テトリス大会
 UID:ZtaMNMlQ9HI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:06【ダークソウル】ぷっちんぷりんしながらアノールロンド～🍬【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=nagYMmFoGns
-DURATION:PT2H
-DTSTART:20200326T054000Z
-SUMMARY:🍬姫森ルーナ: 06【ダークソウル】ぷっちんぷりんしながらアノールロンド～🍬【#姫森ルーナ/ホロライブ】
-UID:nagYMmFoGns
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【越えろ】ホロ鯖！！生き残れなさそうな7days to die【7日目の襲撃！】\nhttps://www.youtube.com/watch?v=7jLLWuJ3b7A
 DURATION:PT2H
 DTSTART:20200326T130000Z
 SUMMARY:🚑大空スバル: 【越えろ】ホロ鯖！！生き残れなさそうな7days to die【7日目の襲撃！】
 UID:7jLLWuJ3b7A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HITMAN】暗殺もアイドルの仕事？【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=7mdbQKkup9k
+DURATION:PT2H
+DTSTART:20200326T140000Z
+SUMMARY:☄星街すいせい: 【HITMAN】暗殺もアイドルの仕事？【ホロライブ / 星街すいせい】
+UID:7mdbQKkup9k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:BUILD A PERFECT PC FOR BAD ASS GAMERS\nhttps://www.youtube.com/watch?v=-GNwxe4m1FI
@@ -172,11 +172,11 @@ SUMMARY:🐉桐生ココ: BUILD A PERFECT PC FOR BAD ASS GAMERS
 UID:-GNwxe4m1FI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HITMAN】暗殺もアイドルの仕事？【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=7mdbQKkup9k
+DESCRIPTION:06【ダークソウル】ぷっちんぷりんしながらアノールロンド～🍬【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=nagYMmFoGns
 DURATION:PT2H
-DTSTART:20200326T140000Z
-SUMMARY:☄星街すいせい: 【HITMAN】暗殺もアイドルの仕事？【ホロライブ / 星街すいせい】
-UID:7mdbQKkup9k
+DTSTART:20200326T054000Z
+SUMMARY:🍬姫森ルーナ: 06【ダークソウル】ぷっちんぷりんしながらアノールロンド～🍬【#姫森ルーナ/ホロライブ】
+UID:nagYMmFoGns
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【あつまれどうぶつの森】深夜にすやすや睡眠誘導どう森【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=4sZ8beFLyO8
@@ -263,18 +263,18 @@ SUMMARY:🌽白上フブキ: 【アークナイツ】新イベント＆ピック
 UID:ANaEL3a-cus
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Ark】パラケラテリウム編：ムキロゼディスカバリーちゃんねる【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=loH8dFgqL3A
-DURATION:PT2H
-DTSTART:20200326T030000Z
-SUMMARY:🍎アキロゼ: 【Ark】パラケラテリウム編：ムキロゼディスカバリーちゃんねる【ホロライブ/アキロゼ】
-UID:loH8dFgqL3A
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【重大発表！】全員知らないフリをしてギリギリまで歌枠を続けろ！【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=CQdRACm7w2E
 DURATION:PT2H
 DTSTART:20200325T130000Z
 SUMMARY:🔥不知火フレア: 【重大発表！】全員知らないフリをしてギリギリまで歌枠を続けろ！【ホロライブ/不知火フレア】
 UID:CQdRACm7w2E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Ark】パラケラテリウム編：ムキロゼディスカバリーちゃんねる【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=loH8dFgqL3A
+DURATION:PT2H
+DTSTART:20200326T030000Z
+SUMMARY:🍎アキロゼ: 【Ark】パラケラテリウム編：ムキロゼディスカバリーちゃんねる【ホロライブ/アキロゼ】
+UID:loH8dFgqL3A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:島、だいぶ発展しました！島の旗デザインしたい！【あつまれどうぶつの森】\nhttps://www.youtube.com/watch?v=fsZPVqU8UZU
@@ -326,6 +326,13 @@ SUMMARY:❤赤井はあと: 【パパと】とんでもなく物騒なサイク�
 UID:csb_PyWiFuI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ラジオ】👾トワイラジオ～第4回目（生放送！）～【#常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=0H2o4xTCT44
+DURATION:PT2H
+DTSTART:20200327T140000Z
+SUMMARY:👾常闇トワ: 【ラジオ】👾トワイラジオ～第4回目（生放送！）～【#常闇トワ/ホロライブ】
+UID:0H2o4xTCT44
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ARK #2】こっちの世界でも家が欲しい！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=kQalxYDiAN4
 DURATION:PT2H
 DTSTART:20200325T150000Z
@@ -345,6 +352,13 @@ DURATION:PT2H
 DTSTART:20200324T210000Z
 SUMMARY:🐉桐生ココ: 【#桐生ココ】あさココLIVEニュース！3月25日【#ココここ】
 UID:Yzg42p7nMZo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK】つのまき戦隊！次の占領場所へ出動だ！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=A5sy8vgBh5s
+DURATION:PT2H
+DTSTART:20200326T150000Z
+SUMMARY:🐏角巻わため: 【ARK】つのまき戦隊！次の占領場所へ出動だ！！！【角巻わため/ホロライブ４期生】
+UID:A5sy8vgBh5s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Dead by Daylight】悪魔コンビがDBDコラボ？！2人で無事ににげきれるのか！【ホロライブ/常闇トワ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=VNs537nNSn4
@@ -459,13 +473,6 @@ SUMMARY:🤖ロボ子さん: 【歌枠】気ままに好きな歌を歌う日[n�
 UID:hFbry-AM2os
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【弾き語り】おやつでも食べながらまったりと【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=s1PCq7OLRNk
-DURATION:PT2H
-DTSTART:20200325T060000Z
-SUMMARY:⚙律可: 【弾き語り】おやつでも食べながらまったりと【律可/ホロスターズ】
-UID:s1PCq7OLRNk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:清楚なオタクたちのリプお披露目会【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=h4a7JuLUxGs
 DURATION:PT2H
 DTSTART:20200325T150000Z
@@ -487,18 +494,18 @@ SUMMARY:⚔白銀ノエル: 【ARK】初めての冒険＆偵察！仮拠点に�
 UID:1qOtnutNG-w
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【弾き語り】おやつでも食べながらまったりと【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=s1PCq7OLRNk
+DURATION:PT2H
+DTSTART:20200325T060000Z
+SUMMARY:⚙律可: 【弾き語り】おやつでも食べながらまったりと【律可/ホロスターズ】
+UID:s1PCq7OLRNk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【アークナイツ】教えて！白上教官！初心者ドクターの最強への道！【白上フブキ/夏色まつり】\nhttps://www.youtube.com/watch?v=viwinZyHtDs
 DURATION:PT2H
 DTSTART:20200326T120000Z
 SUMMARY:🏮夏色まつり: 【アークナイツ】教えて！白上教官！初心者ドクターの最強への道！【白上フブキ/夏色まつり】
 UID:viwinZyHtDs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#6【ぽんこつARK】下層進出もしたいにぇ！！！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=ZDtykNOJ1kQ
-DURATION:PT2H
-DTSTART:20200326T110000Z
-SUMMARY:🌸さくらみこ: #6【ぽんこつARK】下層進出もしたいにぇ！！！！！！【ホロライブ/さくらみこ】
-UID:ZDtykNOJ1kQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Dead by Daylight】ホロライブ悪魔コラボ👿絶対に生き残るぞ❕【#常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=fQ47V9B_SWE
@@ -508,11 +515,11 @@ SUMMARY:👾常闇トワ: 【Dead by Daylight】ホロライブ悪魔コラボ�
 UID:fQ47V9B_SWE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【あつ森】かわいいに囲まれて女児に戻るマリン船長【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=EFDUvKe902A
+DESCRIPTION:#6【ぽんこつARK】下層進出もしたいにぇ！！！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=ZDtykNOJ1kQ
 DURATION:PT2H
-DTSTART:20200325T090000Z
-SUMMARY:🏴☠宝鐘マリン: 【あつ森】かわいいに囲まれて女児に戻るマリン船長【ホロライブ/宝鐘マリン】
-UID:EFDUvKe902A
+DTSTART:20200326T110000Z
+SUMMARY:🌸さくらみこ: #6【ぽんこつARK】下層進出もしたいにぇ！！！！！！【ホロライブ/さくらみこ】
+UID:ZDtykNOJ1kQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【10万人達成するまで終われない！】全資産の奪い合いゲームmonopolyで愛の札束往復ビンタ！【ホロライブ|アキロゼ】\nhttps://www.youtube.com/watch?v=8byWkEDADVU
@@ -520,6 +527,13 @@ DURATION:PT2H
 DTSTART:20200325T150000Z
 SUMMARY:🍎アキロゼ: 【10万人達成するまで終われない！】全資産の奪い合いゲームmonopolyで愛の札束往復ビンタ！【ホロライブ|アキロゼ】
 UID:8byWkEDADVU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【あつ森】かわいいに囲まれて女児に戻るマリン船長【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=EFDUvKe902A
+DURATION:PT2H
+DTSTART:20200325T090000Z
+SUMMARY:🏴☠宝鐘マリン: 【あつ森】かわいいに囲まれて女児に戻るマリン船長【ホロライブ/宝鐘マリン】
+UID:EFDUvKe902A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARK #1】ここが噂のアベレーションMAP！！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=dSrf_4PBTTM
