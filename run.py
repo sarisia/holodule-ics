@@ -1,7 +1,7 @@
 import asyncio
 import logging
-import sys
 from os import getenv
+import sys
 
 from dotenv import load_dotenv
 
@@ -30,9 +30,5 @@ if __name__ == "__main__":
         log.critical("no youtube_key is given")
         sys.exit(1)
 
-    try:
-        h = Holodule(holodule_page, youtube_key, save_dir)
-        asyncio.run(h.run())
-    except Exception as e:
-        log.error("Failed: ", exc_info=True)
-        sys.exit(1)
+    h = Holodule(holodule_page, youtube_key, save_dir)
+    sys.exit(asyncio.run(h.run()))
