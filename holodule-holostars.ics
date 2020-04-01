@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【あつまれ どうぶつの森】イースターイベントをやるんだなも。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=smcHfv6HGP0
+DURATION:PT2H
+DTSTART:20200401T130000Z
+SUMMARY:🌺花咲みやび: 【あつまれ どうぶつの森】イースターイベントをやるんだなも。【花咲みやび/ホロスターズ】
+UID:smcHfv6HGP0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【あつまれどうぶつの森】4月。出会いと別れの季節。【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=5e9ta98024w
 DURATION:PT2H
 DTSTART:20200401T040000Z
 SUMMARY:🍷夕刻ロベル: 【あつまれどうぶつの森】4月。出会いと別れの季節。【ホロスターズ/夕刻ロベル】
 UID:5e9ta98024w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #アランストリーム 】1つ1つ確実に成長を目指す-東方紺珠伝-【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=t30rUct67iI
+DURATION:PT2H
+DTSTART:20200402T120000Z
+SUMMARY:🍕アルランディス: 【 #アランストリーム 】1つ1つ確実に成長を目指す-東方紺珠伝-【ホロスターズ/アルランディス】
+UID:t30rUct67iI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【記念枠】5000人登録だとか三か月とか諸々の記念放送！初だしのあれも…！？【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=QMrzeWvPDI8
