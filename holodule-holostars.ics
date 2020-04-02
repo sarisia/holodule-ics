@@ -4,27 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【あつまれ どうぶつの森】イースターイベントをやるんだなも。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=smcHfv6HGP0
-DURATION:PT2H
-DTSTART:20200401T130000Z
-SUMMARY:🌺花咲みやび: 【あつまれ どうぶつの森】イースターイベントをやるんだなも。【花咲みやび/ホロスターズ】
-UID:smcHfv6HGP0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CoD:ウォーゾーン】ソロでもちゃんぽんとれるもん。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=v9VuL2gUNgQ
-DURATION:PT2H
-DTSTART:20200402T130000Z
-SUMMARY:🌺花咲みやび: 【CoD:ウォーゾーン】ソロでもちゃんぽんとれるもん。【花咲みやび/ホロスターズ】
-UID:v9VuL2gUNgQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【記念枠】5000人登録だとか三か月とか諸々の記念放送！初だしのあれも…！？【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=QMrzeWvPDI8
-DURATION:PT2H
-DTSTART:20200403T120000Z
-SUMMARY:🍷夕刻ロベル: 【記念枠】5000人登録だとか三か月とか諸々の記念放送！初だしのあれも…！？【ホロスターズ/夕刻ロベル】
-UID:QMrzeWvPDI8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【あつまれどうぶつの森】4月。出会いと別れの季節。【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=5e9ta98024w
 DURATION:PT2H
 DTSTART:20200401T040000Z
@@ -37,6 +16,13 @@ DURATION:PT2H
 DTSTART:20200403T040000Z
 SUMMARY:🍷夕刻ロベル: #1【ロマサガ3】名作RPG！ロマサガ3をやったるでー！【ホロスターズ/夕刻ロベル】
 UID:x-HeqU31GR4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【あつまれ どうぶつの森】イースターイベントをやるんだなも。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=smcHfv6HGP0
+DURATION:PT2H
+DTSTART:20200401T130000Z
+SUMMARY:🌺花咲みやび: 【あつまれ どうぶつの森】イースターイベントをやるんだなも。【花咲みやび/ホロスターズ】
+UID:smcHfv6HGP0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マイクラホロスタ鯖】ついにこの時が来た!!村人を天真村に連れてきて人口を増やす!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=4qsnRZtACgI
@@ -58,5 +44,12 @@ DURATION:PT2H
 DTSTART:20200403T130000Z
 SUMMARY:🍕アルランディス: 【 #アランストリーム 】1つ1つ確実に成長を目指す-東方紺珠伝-【ホロスターズ/アルランディス】
 UID:t30rUct67iI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【記念枠】5000人登録だとか三か月とか諸々の記念放送！初だしのあれも…！？【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=QMrzeWvPDI8
+DURATION:PT2H
+DTSTART:20200403T120000Z
+SUMMARY:🍷夕刻ロベル: 【記念枠】5000人登録だとか三か月とか諸々の記念放送！初だしのあれも…！？【ホロスターズ/夕刻ロベル】
+UID:QMrzeWvPDI8
 END:VEVENT
 END:VCALENDAR
