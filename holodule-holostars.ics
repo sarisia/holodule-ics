@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】神のまにまに 【アステル/奏手イヅル】\nhttps://www.youtube.com/watch?v=B0xrie_yK-Y
-DURATION:PT2H
-DTSTART:20200404T120000Z
-SUMMARY:アステル・レダ: 【歌ってみた】神のまにまに 【アステル/奏手イヅル】
-UID:B0xrie_yK-Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【CoD:ウォーゾーン】ソロでもちゃんぽんとれるもん。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=v9VuL2gUNgQ
 DURATION:PT2H
 DTSTART:20200402T130000Z
@@ -46,11 +39,11 @@ SUMMARY:🍕アルランディス: 【 #アランストリーム 】第五部黄
 UID:UYg8IhSvtao
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#1【ロマサガ3】名作RPG！ロマサガ3をやったるでー！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=x-HeqU31GR4
+DESCRIPTION:【歌ってみた】神のまにまに 【アステル/奏手イヅル】\nhttps://www.youtube.com/watch?v=B0xrie_yK-Y
 DURATION:PT2H
-DTSTART:20200403T040000Z
-SUMMARY:🍷夕刻ロベル: #1【ロマサガ3】名作RPG！ロマサガ3をやったるでー！【ホロスターズ/夕刻ロベル】
-UID:x-HeqU31GR4
+DTSTART:20200404T120000Z
+SUMMARY:アステル・レダ: 【歌ってみた】神のまにまに 【アステル/奏手イヅル】
+UID:B0xrie_yK-Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【バイオハザード RE:3】クリアするまで寝ないバイオRE:3【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=25gL_hBDACw
@@ -72,5 +65,12 @@ DURATION:PT2H
 DTSTART:20200403T130000Z
 SUMMARY:🍕アルランディス: 【 #アランストリーム 】1つ1つ確実に成長を目指す-東方紺珠伝-【ホロスターズ/アルランディス】
 UID:t30rUct67iI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マイクラホロスタ鯖】岸堂天真の成果報告会!!いろんな設備が増えた!!【2020年3月分】\nhttps://www.youtube.com/watch?v=V1gpXqsFvrQ
+DURATION:PT2H
+DTSTART:20200403T100000Z
+SUMMARY:🦔💨岸堂天真: 【マイクラホロスタ鯖】岸堂天真の成果報告会!!いろんな設備が増えた!!【2020年3月分】
+UID:V1gpXqsFvrQ
 END:VEVENT
 END:VCALENDAR
