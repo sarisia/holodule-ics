@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【歌番組】わためのうた（４月６日）【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=ts6rqVeTWG4
+DURATION:PT2H
+DTSTART:20200405T204500Z
+SUMMARY:🐏角巻わため: 【歌番組】わためのうた（４月６日）【角巻わため/ホロライブ４期生】
+UID:ts6rqVeTWG4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【あつ森】シナジー炸裂🔥プレゼント交換会✨【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=WnGTT53r8j8
 DURATION:PT2H
 DTSTART:20200404T090000Z
@@ -51,6 +58,20 @@ DURATION:PT2H
 DTSTART:20200404T010000Z
 SUMMARY:🚑大空スバル: 【まったり】おはようスバル【雑談】
 UID:tv08sdsE-Xc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK#7】寝起きですいません！あの、カニテイムがしたいです！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=Ah7HtN6auNY
+DURATION:PT2H
+DTSTART:20200405T060000Z
+SUMMARY:🤖ロボ子さん: 【ARK#7】寝起きですいません！あの、カニテイムがしたいです！！【ホロライブ/ロボ子さん】
+UID:Ah7HtN6auNY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ちょっとだけおはなし！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=vrHRzZvC-l0
+DURATION:PT2H
+DTSTART:20200405T094000Z
+SUMMARY:⚓湊あくあ: ちょっとだけおはなし！！【湊あくあ/ホロライブ】
+UID:vrHRzZvC-l0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【同時視聴】アニメ「グレイプニル」第一話視聴会！【湊あくあ/宝鐘マリン/夏色まつり】\nhttps://www.youtube.com/watch?v=Eqi3627cozE
@@ -387,6 +408,13 @@ DURATION:PT2H
 DTSTART:20200404T105000Z
 SUMMARY:👯兎田ぺこら: 【同時視聴】初歌ってみた一緒に見ようぺこおおおおおお！！！【ホロライブ/兎田ぺこら】
 UID:D1Ck8hEB5Vk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【あつまれどうぶつの森】おしゃれな島を目指して！！島を工事する！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=uan1WtkGOKg
+DURATION:PT2H
+DTSTART:20200405T080000Z
+SUMMARY:🌙紫咲シオン: 【あつまれどうぶつの森】おしゃれな島を目指して！！島を工事する！！【ホロライブ/紫咲シオン】
+UID:uan1WtkGOKg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ヤケ酒】なんでなんだよ【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=Eh7d6Z1rHSg
