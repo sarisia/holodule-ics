@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【13時～】配信予定！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=hzp2xWHdDzQ
+DESCRIPTION:#4【ロマサガ3】名作RPG！育成して今日こそリベンジするんや！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=kIsMEh99qVU
 DURATION:PT2H
-DTSTART:20200407T040000Z
-SUMMARY:🍷夕刻ロベル: 【13時～】配信予定！【ホロスターズ/夕刻ロベル】
-UID:hzp2xWHdDzQ
+DTSTART:20200407T110000Z
+SUMMARY:🍷夕刻ロベル: #4【ロマサガ3】名作RPG！育成して今日こそリベンジするんや！！【ホロスターズ/夕刻ロベル】
+UID:kIsMEh99qVU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #アランストリーム 】日焼けチルノが一世を風靡したあのゲーム-東方天空璋-【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=NHEZjlc3kgE
@@ -16,6 +16,20 @@ DURATION:PT2H
 DTSTART:20200406T120000Z
 SUMMARY:🍕アルランディス: 【 #アランストリーム 】日焼けチルノが一世を風靡したあのゲーム-東方天空璋-【ホロスターズ/アルランディス】
 UID:NHEZjlc3kgE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#36【弾き語り】懐かしい曲中心で歌枠【奏手イヅル】\nhttps://www.youtube.com/watch?v=6mxwdG9o4R8
+DURATION:PT2H
+DTSTART:20200406T150000Z
+SUMMARY:🎸奏手イヅル: #36【弾き語り】懐かしい曲中心で歌枠【奏手イヅル】
+UID:6mxwdG9o4R8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【13時～】配信予定！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=hzp2xWHdDzQ
+DURATION:PT2H
+DTSTART:20200407T040000Z
+SUMMARY:🍷夕刻ロベル: 【13時～】配信予定！【ホロスターズ/夕刻ロベル】
+UID:hzp2xWHdDzQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【晩酌雑談】何か濃い週末やったしまったり振り返りましょうや【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=KAj2F_hOK9Q
@@ -44,12 +58,5 @@ DURATION:PT2H
 DTSTART:20200407T060000Z
 SUMMARY:⚙律可: 【弾き語り】どうぶつの森に夢中なみんなを眠りの森へ誘わせて【律可/ホロスターズ】
 UID:lnskMip9No4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#36【弾き語り】懐かしい曲中心で歌枠【奏手イヅル】\nhttps://www.youtube.com/watch?v=6mxwdG9o4R8
-DURATION:PT2H
-DTSTART:20200406T150000Z
-SUMMARY:🎸奏手イヅル: #36【弾き語り】懐かしい曲中心で歌枠【奏手イヅル】
-UID:6mxwdG9o4R8
 END:VEVENT
 END:VCALENDAR
