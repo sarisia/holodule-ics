@@ -1,7 +1,7 @@
 import asyncio
 from logging import getLogger
 from math import ceil
-from typing import Dict, Sequence, Set
+from typing import Dict, Sequence, Set, Tuple
 
 from aiohttp import ClientSession, ClientTimeout
 from lxml.html import document_fromstring
@@ -11,6 +11,7 @@ from holodule.schedule import Schedule
 
 CHUNK_SIZE = 50
 YOUTUBE_API = "https://www.googleapis.com/youtube/v3/videos"
+TARGET = ["all", "hololive", "holostars", "innk", "indonesia"]
 log = getLogger(__name__)
 
 class Holodule():
@@ -43,14 +44,12 @@ class Holodule():
         return status
 
     async def do_run(self) -> None:
-        index_html = await self.get_page()
-        index = document_fromstring(index_html)
+        pages_html = await self.get_pages(TARGET)
 
-        # TODO: make this selectable from command args
-        target = ["all", "hololive", "holostars", "innk"]
         schedules: Dict[str, Schedule] = {}
-        for t in target:
-            elem = index.xpath(f'//*[@id="{t}"]')
+        for t, p in pages_html.items():
+            index = document_fromstring(p)
+            elem = index.xpath(f'//*[@id="all"]')
             if elem:
                 log.info(f"Found target: {t}")
                 schedules[t] = Schedule(t, elem[0])
@@ -69,13 +68,26 @@ class Holodule():
 
         log.info("Done!")
 
-    async def get_page(self) -> str:
+    async def get_page(self, target:str="") -> Tuple[str, str]:
         log.info("Getting page...")
-        async with self.session.get(self.page_url) as resp:
+        async with self.session.get(f"{self.page_url}/{target}") as resp:
             if resp.status != 200:
                 raise HTTPStatusError(resp.status)
                 
-            return await resp.text()
+            return target, await resp.text()
+
+    async def get_pages(self, targets:Sequence[str]) -> Dict[str, str]:
+        pages = {}
+        tasks = [self.get_page(t) for t in targets]
+        res = await asyncio.gather(*tasks, return_exceptions=True)
+        for r in res:
+            if isinstance(r, Exception):
+                log.error(f"failed to get page: {r}")
+                continue
+            target, content = r
+            pages[target] = content
+
+        return pages
 
     async def get_videos(self, video_ids:Set[str]) -> None:
         # divide to chunks each contains 50 videos
