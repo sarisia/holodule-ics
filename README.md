@@ -13,6 +13,7 @@
 | ホロライブ | https://raw.githubusercontent.com/sarisia/holodule-ics/public/holodule-hololive.ics |
 | ホロスターズ | https://raw.githubusercontent.com/sarisia/holodule-ics/public/holodule-holostars.ics |
 | イノナカ | https://raw.githubusercontent.com/sarisia/holodule-ics/public/holodule-innk.ics |
+| インドネシア | https://raw.githubusercontent.com/sarisia/holodule-ics/public/holodule-indonesia.ics |
 
 # 設定例
 
