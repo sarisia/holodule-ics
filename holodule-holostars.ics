@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】寂しくなったので引っ越ししたい。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=tbkUp8wDxsU
+DESCRIPTION:#12【ポケモン剣盾】チャンピオンを屠る【奏手イヅル】\nhttps://www.youtube.com/watch?v=uUwSx7ABLmw
 DURATION:PT2H
-DTSTART:20200411T080000Z
-SUMMARY:🌺花咲みやび: 【Minecraft】寂しくなったので引っ越ししたい。【花咲みやび/ホロスターズ】
-UID:tbkUp8wDxsU
+DTSTART:20200412T110000Z
+SUMMARY:🎸奏手イヅル: #12【ポケモン剣盾】チャンピオンを屠る【奏手イヅル】
+UID:uUwSx7ABLmw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #GWAC決定戦  】ガラルワイルドエリアチャンピオン決定戦 -ポケットモンスターソード/シールド-【ホロスターズ/アルランディス視点】\nhttps://www.youtube.com/watch?v=gdVGLC0WvmQ
+DURATION:PT2H
+DTSTART:20200412T100000Z
+SUMMARY:🍕アルランディス: 【 #GWAC決定戦  】ガラルワイルドエリアチャンピオン決定戦 -ポケットモンスターソード/シールド-【ホロスターズ/アルランディス視点】
+UID:gdVGLC0WvmQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:夕刻ロベルの『好きな音楽を語りたいんや！』【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=jDY145o25l0
@@ -18,11 +25,11 @@ SUMMARY:🍷夕刻ロベル: 夕刻ロベルの『好きな音楽を語りたい
 UID:jDY145o25l0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #GWAC決定戦  】ガラルワイルドエリアチャンピオン決定戦 -ポケットモンスターソード/シールド-【ホロスターズ/アルランディス視点】\nhttps://www.youtube.com/watch?v=gdVGLC0WvmQ
+DESCRIPTION:【Minecraft】寂しくなったので引っ越ししたい。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=tbkUp8wDxsU
 DURATION:PT2H
-DTSTART:20200412T100000Z
-SUMMARY:🍕アルランディス: 【 #GWAC決定戦  】ガラルワイルドエリアチャンピオン決定戦 -ポケットモンスターソード/シールド-【ホロスターズ/アルランディス視点】
-UID:gdVGLC0WvmQ
+DTSTART:20200411T080000Z
+SUMMARY:🌺花咲みやび: 【Minecraft】寂しくなったので引っ越ししたい。【花咲みやび/ホロスターズ】
+UID:tbkUp8wDxsU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マイクラホロスタ鯖】サトウキビ畑を作ってロケット花火を大量生産だ!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=Y8qfzDTM9JA
