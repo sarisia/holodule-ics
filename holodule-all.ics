@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#桐生ココ】あさココLIVEニュース！4月14日【#ココここ】\nhttps://www.youtube.com/watch?v=RKKRCXtrK3M
+DURATION:PT2H
+DTSTART:20200413T210000Z
+SUMMARY:🐉桐生ココ: 【#桐生ココ】あさココLIVEニュース！4月14日【#ココここ】
+UID:RKKRCXtrK3M
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【東方EX】超鬼畜！難関ステージで心がバキバキ【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=WhD1GoPrc4I
 DURATION:PT2H
 DTSTART:20200411T150000Z
@@ -79,6 +86,13 @@ DURATION:PT2H
 DTSTART:20200412T110000Z
 SUMMARY:👾常闇トワ: 【APEX】1時間でどこまでいけますかね？ランクする！【#常闇トワ/ホロライブ】
 UID:fgU-TLddM0k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】最近また寒くない？色々話そうZE【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=kmYML-5WwL0
+DURATION:PT2H
+DTSTART:20200413T120000Z
+SUMMARY:アステル・レダ: 【Minecraft】最近また寒くない？色々話そうZE【ホロスターズ/アステル】
+UID:kmYML-5WwL0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🔴【FF7R】CLASSICモードで遊んでみるのら🍬 FINAL FANTASY VII REMAKE【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=J0kcM1NPcnE
