@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【13時～】配信予定！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=CaugQ2yyNAk
+DURATION:PT2H
+DTSTART:20200415T040000Z
+SUMMARY:🍷夕刻ロベル: 【13時～】配信予定！【ホロスターズ/夕刻ロベル】
+UID:CaugQ2yyNAk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:初めての、『Dead by Daylight』で漏らさない【ホロスターズ】\nhttps://www.youtube.com/watch?v=wieeoE30WYU
+DURATION:PT2H
+DTSTART:20200414T070000Z
+SUMMARY:アステル・レダ: 初めての、『Dead by Daylight』で漏らさない【ホロスターズ】
+UID:wieeoE30WYU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【火曜日のDBD】ホロスタの皆へ。これがキラーだ。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=1uKkQf3qA6I
 DURATION:PT2H
 DTSTART:20200414T130000Z
@@ -30,6 +44,13 @@ DURATION:PT2H
 DTSTART:20200413T140000Z
 SUMMARY:🌺花咲みやび: 【DbD】スキルチェックに震えろ!!ホロスタ初心者DBD【花咲みやび/ホロスターズ】
 UID:2_DkqjUbudU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:『メンタルヘルス』を再現したゲーム!?! これをプレイすれば健康に！【アステル/ホロスターズ】\nhttps://www.youtube.com/watch?v=9Y7_H3m1L8g
+DURATION:PT2H
+DTSTART:20200414T110000Z
+SUMMARY:アステル・レダ: 『メンタルヘルス』を再現したゲーム!?! これをプレイすれば健康に！【アステル/ホロスターズ】
+UID:9Y7_H3m1L8g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #アランストリーム 】社会人応援！何でもお悩み相談室-夕刻ロベルとシノヴと共に-【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=x4y385YGu9c
