@@ -4,10 +4,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【13時～】配信予定！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=CaugQ2yyNAk
+DESCRIPTION:【One Step From Eden】ハイスピードアクション！？結構難しいっぽいぞ…！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=CaugQ2yyNAk
 DURATION:PT2H
 DTSTART:20200415T040000Z
-SUMMARY:🍷夕刻ロベル: 【13時～】配信予定！【ホロスターズ/夕刻ロベル】
+SUMMARY:🍷夕刻ロベル: 【One Step From Eden】ハイスピードアクション！？結構難しいっぽいぞ…！！【ホロスターズ/夕刻ロベル】
 UID:CaugQ2yyNAk
 END:VEVENT
 BEGIN:VEVENT
@@ -30,13 +30,6 @@ DURATION:PT2H
 DTSTART:20200414T160000Z
 SUMMARY:🤖ロボ子さん: 【APEX】ランク上げすっぞ！！！シルバー帯→【ホロライブ/ロボ子さん】
 UID:i-e0G2zApt0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【4/15】新住民がきた！！！！狐だなも【あつまれどうぶつの森】\nhttps://www.youtube.com/watch?v=94iF6RP3cwk
-DURATION:PT2H
-DTSTART:20200415T000000Z
-SUMMARY:🌽白上フブキ: 【4/15】新住民がきた！！！！狐だなも【あつまれどうぶつの森】
-UID:94iF6RP3cwk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🔴【ゲリラFF7R】チャプター３から遊んでみルーナ🍬 FINAL FANTASY VII REMAKE【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=rGTaGpbphso
@@ -389,6 +382,13 @@ SUMMARY:🏴☠宝鐘マリン: 【東方鬼形獣 】初見ノーコンティ�
 UID:0vr4hI0kOvI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Ark】神立地発見！！！！ここに住む編【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=q-9WSutSNVM
+DURATION:PT2H
+DTSTART:20200415T190000Z
+SUMMARY:🍎アキロゼ: 【Ark】神立地発見！！！！ここに住む編【ホロライブ/アキロゼ】
+UID:q-9WSutSNVM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ニュールーマニアの続きだよ！\nhttps://www.youtube.com/watch?v=5HyZiGK0lGo
 DURATION:PT2H
 DTSTART:20200414T144500Z
@@ -450,6 +450,13 @@ DURATION:PT2H
 DTSTART:20200414T210000Z
 SUMMARY:🐉桐生ココ: 【#桐生ココ】あさココLIVEニュース！4月15日【#ココここ】
 UID:K-u-6wuZdSI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#桐生ココ】ARK ABERRATIONで朝活～雑談しながらまったりテイム【#とまらないARK】\nhttps://www.youtube.com/watch?v=FJOGwaitkfI
+DURATION:PT2H
+DTSTART:20200414T214500Z
+SUMMARY:🐉桐生ココ: 【#桐生ココ】ARK ABERRATIONで朝活～雑談しながらまったりテイム【#とまらないARK】
+UID:FJOGwaitkfI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Home Sweet home】ふぇぇちびりそう・・・初見プレイ【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=2PgVHIymbN0
