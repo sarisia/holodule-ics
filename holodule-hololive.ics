@@ -11,18 +11,18 @@ SUMMARY:🍬姫森ルーナ: 【ASMR】０歳に眠りを促すことは出来�
 UID:n4dxbns-GE8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【28万人なるまで】マリオのスピードランをひたすら駆け抜ける！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=JfIo6gsf184
-DURATION:PT2H
-DTSTART:20200416T060000Z
-SUMMARY:❤赤井はあと: 【28万人なるまで】マリオのスピードランをひたすら駆け抜ける！【ホロライブ/赤井はあと】
-UID:JfIo6gsf184
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【プリコネR】チエルちゃん狙い！ルーナはガチャ運はあるのらか？！【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=mLqBNcWhM0w
 DURATION:PT2H
 DTSTART:20200416T100000Z
 SUMMARY:🍬姫森ルーナ: 【プリコネR】チエルちゃん狙い！ルーナはガチャ運はあるのらか？！【#姫森ルーナ/ホロライブ】
 UID:mLqBNcWhM0w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【28万人なるまで】マリオのスピードランをひたすら駆け抜ける！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=JfIo6gsf184
+DURATION:PT2H
+DTSTART:20200416T060000Z
+SUMMARY:❤赤井はあと: 【28万人なるまで】マリオのスピードランをひたすら駆け抜ける！【ホロライブ/赤井はあと】
+UID:JfIo6gsf184
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マイクラハードコア】死んだら即鯖爆破！？生き残りをかけたサバイバルぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=qEoHJ46OHuc
@@ -60,18 +60,18 @@ SUMMARY:🌲大神ミオ: 【島凸】島凸初心者です！みんなの島あ
 UID:GheINizgAlY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ASMR/立体音響】お風呂で晩酌youtube君とのチキチキレース？【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=B7wGQyHL5PQ
+DURATION:PT2H
+DTSTART:20200416T160000Z
+SUMMARY:🍎アキロゼ: 【ASMR/立体音響】お風呂で晩酌youtube君とのチキチキレース？【ホロライブ/アキロゼ】
+UID:B7wGQyHL5PQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【テトリス99】第四回！視聴者参加型で今日もテトリス練習！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=HpXpByzzn8c
 DURATION:PT2H
 DTSTART:20200416T140000Z
 SUMMARY:🐏角巻わため: 【テトリス99】第四回！視聴者参加型で今日もテトリス練習！！【角巻わため/ホロライブ４期生】
 UID:HpXpByzzn8c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#6【FF7R】初見実況！リメイクから最高に楽しむFF7R | FINAL FANTASY VII REMAKE【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=Oa3LDvHbK-c
-DURATION:PT2H
-DTSTART:20200416T150000Z
-SUMMARY:🌸さくらみこ: #6【FF7R】初見実況！リメイクから最高に楽しむFF7R | FINAL FANTASY VII REMAKE【ホロライブ/さくらみこ】
-UID:Oa3LDvHbK-c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】みこちのゆるゆる歌雑談🌱🐣【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=OZY5eB4zyLw
@@ -81,11 +81,11 @@ SUMMARY:🌸さくらみこ: 【朝活】みこちのゆるゆる歌雑談🌱�
 UID:OZY5eB4zyLw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ASMR/立体音響】お風呂で晩酌youtube君とのチキチキレース？【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=B7wGQyHL5PQ
+DESCRIPTION:#6【FF7R】初見実況！リメイクから最高に楽しむFF7R | FINAL FANTASY VII REMAKE【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=Oa3LDvHbK-c
 DURATION:PT2H
-DTSTART:20200416T160000Z
-SUMMARY:🍎アキロゼ: 【ASMR/立体音響】お風呂で晩酌youtube君とのチキチキレース？【ホロライブ/アキロゼ】
-UID:B7wGQyHL5PQ
+DTSTART:20200416T150000Z
+SUMMARY:🌸さくらみこ: #6【FF7R】初見実況！リメイクから最高に楽しむFF7R | FINAL FANTASY VII REMAKE【ホロライブ/さくらみこ】
+UID:Oa3LDvHbK-c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【あつまれどうぶつの森】同情するなら株をくれ！リスナー島巡り【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=3M8Lb0xr6U0
@@ -200,13 +200,6 @@ SUMMARY:🤖ロボ子さん: 【ARK#12】20万人になる瞬間をみんなと�
 UID:wE7vmK_UG1I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#桐生ココ】あさココLIVEニュース！4月17日【#ココここ】\nhttps://www.youtube.com/watch?v=n2yIIhJl3mo
-DURATION:PT2H
-DTSTART:20200416T220000Z
-SUMMARY:🐉桐生ココ: 【#桐生ココ】あさココLIVEニュース！4月17日【#ココここ】
-UID:n2yIIhJl3mo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#桐生ココ】視聴者の飯テロをゲームで完全再現！！腹でも減らしテロ！！！！！【#龍のテロ返し】\nhttps://www.youtube.com/watch?v=ug0chQz-HP4
 DURATION:PT2H
 DTSTART:20200417T110000Z
@@ -219,6 +212,13 @@ DURATION:PT2H
 DTSTART:20200417T150000Z
 SUMMARY:🏴☠宝鐘マリン: 【Cuphead】愛し合ってないとクリアできない鬼畜アクション【ホロライブ/宝鐘マリン】
 UID:-kqfHxDrEaI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#桐生ココ】あさココLIVEニュース！4月17日【#ココここ】\nhttps://www.youtube.com/watch?v=n2yIIhJl3mo
+DURATION:PT2H
+DTSTART:20200416T220000Z
+SUMMARY:🐉桐生ココ: 【#桐生ココ】あさココLIVEニュース！4月17日【#ココここ】
+UID:n2yIIhJl3mo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオストーリー】好きなんだよね このゲーム#3【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=iI8uP4hY26E
@@ -249,11 +249,11 @@ SUMMARY:🌽白上フブキ: アイドルなのに囚人として投獄された
 UID:Kt6AklYVE_c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【あつ森】ねるちゃんをボクの島にご招待🏝💛【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=spImEPCNd-w
+DESCRIPTION:【待機所】[n╹ o╹]n【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=mftEzlXjmEM
 DURATION:PT2H
-DTSTART:20200417T050000Z
-SUMMARY:🤖ロボ子さん: 【あつ森】ねるちゃんをボクの島にご招待🏝💛【ホロライブ/ロボ子さん】
-UID:spImEPCNd-w
+DTSTART:20200417T150000Z
+SUMMARY:🤖ロボ子さん: 【待機所】[n╹ o╹]n【ホロライブ/ロボ子さん】
+UID:mftEzlXjmEM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ENGLISH GA MUZUI DE SU NE!!!\nhttps://www.youtube.com/watch?v=RHPAvq53XQg
@@ -270,11 +270,11 @@ SUMMARY:🏴☠宝鐘マリン: 【Cuphead】愛し合ってないとクリア�
 UID:xW7u-Hidbmw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【待機所】[n╹ o╹]n【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=mftEzlXjmEM
+DESCRIPTION:【あつ森】ねるちゃんをボクの島にご招待🏝💛【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=spImEPCNd-w
 DURATION:PT2H
-DTSTART:20200417T150000Z
-SUMMARY:🤖ロボ子さん: 【待機所】[n╹ o╹]n【ホロライブ/ロボ子さん】
-UID:mftEzlXjmEM
+DTSTART:20200417T050000Z
+SUMMARY:🤖ロボ子さん: 【あつ森】ねるちゃんをボクの島にご招待🏝💛【ホロライブ/ロボ子さん】
+UID:spImEPCNd-w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【壺おじ６０分でどこまで進むのかチャレンジ！！！！発狂は絶対にしません。安心してください。Getting Over It with Bennett Foddy【ホロライブ】\nhttps://www.youtube.com/watch?v=Zpeqg59Nj1g
@@ -352,6 +352,13 @@ DURATION:PT2H
 DTSTART:20200416T110000Z
 SUMMARY:🏴☠宝鐘マリン: 【マリカ８DX】視聴者参加型マリン船長わからせ大会【ホロライブ/宝鐘マリン】
 UID:hH3f7pUEEoI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】久々に最近あったこととか！色々お話しよ～！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=bQR1_uhsJAg
+DURATION:PT2H
+DTSTART:20200417T140000Z
+SUMMARY:⚔白銀ノエル: 【雑談】久々に最近あったこととか！色々お話しよ～！【白銀ノエル/ホロライブ】
+UID:bQR1_uhsJAg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ちょこオネア】第4回緊急クイズ指令！今回は噂のツンデレ美少女登場？！【ホロライブ/友人A/赤井はあと/角巻わため/癒月ちょこ】\nhttps://www.youtube.com/watch?v=D1gScBE6CDU
