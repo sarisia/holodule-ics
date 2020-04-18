@@ -4,10 +4,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【APEX】#フェスティバルーナ ～画面酔いを添えて【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=3ZYWrpF0xwI
+DESCRIPTION:【APEX】#フェスティバルーナ ～画面酔いを添えて【姫森ルーナ/夏色まつり/ホロライブ】\nhttps://www.youtube.com/watch?v=3ZYWrpF0xwI
 DURATION:PT2H
 DTSTART:20200418T150000Z
-SUMMARY:🍬姫森ルーナ: 【APEX】#フェスティバルーナ ～画面酔いを添えて【#姫森ルーナ/ホロライブ】
+SUMMARY:🍬姫森ルーナ: 【APEX】#フェスティバルーナ ～画面酔いを添えて【姫森ルーナ/夏色まつり/ホロライブ】
 UID:3ZYWrpF0xwI
 END:VEVENT
 BEGIN:VEVENT
@@ -88,6 +88,13 @@ SUMMARY:🚑大空スバル: 【FF6】初見実況！人生初FFシリーズ！�
 UID:W8M8C3i3GzY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:#6【ロマサガ3】残り二魔貴族！？倒したるわ！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=9soI7DorIdA
+DURATION:PT2H
+DTSTART:20200419T040000Z
+SUMMARY:🍷夕刻ロベル: #6【ロマサガ3】残り二魔貴族！？倒したるわ！！【ホロスターズ/夕刻ロベル】
+UID:9soI7DorIdA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Cuphead】愛し合ってないとクリアできない鬼畜アクション【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=xJSbAHjnMew
 DURATION:PT2H
 DTSTART:20200417T151000Z
@@ -114,13 +121,6 @@ DURATION:PT2H
 DTSTART:20200418T055000Z
 SUMMARY:🍕アルランディス: 【 #アランストリーム 】愛ゆえに闘う男-侍道4-【ホロスターズ/アルランディス】
 UID:g5gYGlnwAKo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】誕生日にみんなから貰ったプレゼントを紹介するよ！【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=fEidXleL0ow
-DURATION:PT2H
-DTSTART:20200418T100000Z
-SUMMARY:🔥不知火フレア: 【雑談】誕生日にみんなから貰ったプレゼントを紹介するよ！【ホロライブ/不知火フレア】
-UID:fEidXleL0ow
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DBD】サバイバー練習。略してサバ練【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=fA1xO_2JyAQ
@@ -156,13 +156,6 @@ DURATION:PT2H
 DTSTART:20200417T220000Z
 SUMMARY:🌽白上フブキ: ３人のバカタレ共による続!!!オーバークック２【#バカタレ共】
 UID:izW2BvxbEZI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【壺おじ】どこまで登れる！？圧倒的ゲームセンス【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=6yq05svai_I
-DURATION:PT2H
-DTSTART:20200418T110000Z
-SUMMARY:🏴☠宝鐘マリン: 【壺おじ】どこまで登れる！？圧倒的ゲームセンス【ホロライブ/宝鐘マリン】
-UID:6yq05svai_I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【凸待ち企画】２０万人記念！！もっとみんなと絡みたい！！凸待ちするしあ！！！！【ホロライブ】\nhttps://www.youtube.com/watch?v=0jyCkZeV4uI
@@ -228,6 +221,13 @@ SUMMARY:🌲大神ミオ: 混みすぎ！！！！人ゴミを押しのけるゲ
 UID:cW2qU1QiJD4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【初トレバ】初めての挑戦！！！トレバ！！台パンはしない！！！！【ホロライブ】\nhttps://www.youtube.com/watch?v=BuZOwPgTJfA
+DURATION:PT2H
+DTSTART:20200418T090000Z
+SUMMARY:🦋潤羽るしあ: 【初トレバ】初めての挑戦！！！トレバ！！台パンはしない！！！！【ホロライブ】
+UID:BuZOwPgTJfA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#桐生ココ】あさココLIVEニュース！4月17日【#ココここ】\nhttps://www.youtube.com/watch?v=n2yIIhJl3mo
 DURATION:PT2H
 DTSTART:20200416T220000Z
@@ -270,10 +270,10 @@ SUMMARY:👯兎田ぺこら: 【MGS1】初見プレイ！最初のメタルギ�
 UID:qUE1NxmeunQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【２３時】配信予定【ホロライブ】\nhttps://www.youtube.com/watch?v=dWALSkHk_d8
+DESCRIPTION:【アクトレイザー(SFC)】新世界の神となるんだー！！！【クリアまでやる】\nhttps://www.youtube.com/watch?v=dWALSkHk_d8
 DURATION:PT2H
 DTSTART:20200418T140000Z
-SUMMARY:🥐戌神ころね: 【２３時】配信予定【ホロライブ】
+SUMMARY:🥐戌神ころね: 【アクトレイザー(SFC)】新世界の神となるんだー！！！【クリアまでやる】
 UID:dWALSkHk_d8
 END:VEVENT
 BEGIN:VEVENT
@@ -541,6 +541,13 @@ DURATION:PT2H
 DTSTART:20200418T060000Z
 SUMMARY:🌽白上フブキ: 白狐組若頭、あつ森みかじめマイルの為に脱獄する【ホロライブ/白上フブキ】
 UID:_bMviN9ebAc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】のんびり歌って楽しむ配信【#百鬼あやめch /ホロライブ】\nhttps://www.youtube.com/watch?v=MS6ZYZhDZpY
+DURATION:PT2H
+DTSTART:20200418T130000Z
+SUMMARY:👿百鬼あやめ: 【歌枠】のんびり歌って楽しむ配信【#百鬼あやめch /ホロライブ】
+UID:MS6ZYZhDZpY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【トレバ】大量GET確定だわ！ｗ(根拠はない)【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=B3iaULWKP5U
