@@ -19,7 +19,7 @@ class Schedule():
 
     @property
     def video_ids(self) -> Set[str]:
-        return { e.video_id for e in self.events }
+        return { e.video_id for e in self.events if e.video_id}
 
     @property
     def ical_calendar(self) -> Calendar:

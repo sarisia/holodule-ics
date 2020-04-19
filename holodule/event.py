@@ -15,8 +15,11 @@ class LiveEvent():
 
     @property
     def video_id(self) -> str:
-        # hope holodule do not change url rule...
-        return self.url.split('=')[1]
+        # sometimes it has bilibili...
+        try:
+            return self.url.split('=')[1]
+        except:
+            return ""
 
     @property
     def ical_event(self) -> Event:
@@ -53,7 +56,7 @@ class LiveEvent():
                 return False
             self.begin = arrow.get(begin)
         except:
-            log.error("Something odd has happened: ", exc_info=True)
+            log.error(f"Something odd has happened (name: {self.name}, url: {self.url}, meta: {meta})): ", exc_info=True)
             return False
 
         return True
