@@ -4,6 +4,27 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:コラボに向けて『Dead by Daylight』サバイバーを知る【ホロスターズ】\nhttps://www.youtube.com/watch?v=IhUjsOe75ns
+DURATION:PT2H
+DTSTART:20200419T060000Z
+SUMMARY:アステル・レダ: コラボに向けて『Dead by Daylight』サバイバーを知る【ホロスターズ】
+UID:IhUjsOe75ns
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【記念枠】配信デビューから半年たった！とかナ【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=-fWTSCV-lEY
+DURATION:PT2H
+DTSTART:20200420T140000Z
+SUMMARY:⚙律可: 【記念枠】配信デビューから半年たった！とかナ【律可/ホロスターズ】
+UID:-fWTSCV-lEY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#6【ロマサガ3】残り二魔貴族！？倒したるわ！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=9soI7DorIdA
+DURATION:PT2H
+DTSTART:20200419T040000Z
+SUMMARY:🍷夕刻ロベル: #6【ロマサガ3】残り二魔貴族！？倒したるわ！！【ホロスターズ/夕刻ロベル】
+UID:9soI7DorIdA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【FF7リメイク】女装したい気持ちはある。#3【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=stkuKLFCFwY
 DURATION:PT2H
 DTSTART:20200419T130000Z
@@ -37,19 +58,5 @@ DURATION:PT2H
 DTSTART:20200419T073000Z
 SUMMARY:🍕アルランディス: 【 #アランストリーム 】ゴリゴリの初心者は配信で脱出ができるのか- Dead by Daylight -【ホロスターズ/アルランディス】
 UID:jVMReGxxdwE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【記念枠】配信デビューから半年たった！とかナ【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=-fWTSCV-lEY
-DURATION:PT2H
-DTSTART:20200420T140000Z
-SUMMARY:⚙律可: 【記念枠】配信デビューから半年たった！とかナ【律可/ホロスターズ】
-UID:-fWTSCV-lEY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#6【ロマサガ3】残り二魔貴族！？倒したるわ！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=9soI7DorIdA
-DURATION:PT2H
-DTSTART:20200419T040000Z
-SUMMARY:🍷夕刻ロベル: #6【ロマサガ3】残り二魔貴族！？倒したるわ！！【ホロスターズ/夕刻ロベル】
-UID:9soI7DorIdA
 END:VEVENT
 END:VCALENDAR
