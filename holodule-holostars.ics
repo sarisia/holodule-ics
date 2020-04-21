@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Dying Light】そろそろクリアが見えてきた。ゾンビを狩る!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=sCc0Lz7CcmU
+DESCRIPTION:【雀魂】男たちの仁義なき麻雀対決【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=1rxiJKR26v4
 DURATION:PT2H
-DTSTART:20200420T120000Z
-SUMMARY:🦔💨岸堂天真: 【Dying Light】そろそろクリアが見えてきた。ゾンビを狩る!!【岸堂天真/ホロスターズ】
-UID:sCc0Lz7CcmU
+DTSTART:20200420T150000Z
+SUMMARY:💙鏡見キラ: 【雀魂】男たちの仁義なき麻雀対決【ホロスターズ/鏡見キラ】
+UID:1rxiJKR26v4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【シャニマス】朝のシャニ活！甜花ちゃん。…甜花ちゃん！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=7eHq51k7sEw
+DURATION:PT2H
+DTSTART:20200421T010000Z
+SUMMARY:🍷夕刻ロベル: 【シャニマス】朝のシャニ活！甜花ちゃん。…甜花ちゃん！！【ホロスターズ/夕刻ロベル】
+UID:7eHq51k7sEw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリカ8DX】マリカや！！！！！！！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=qSlGw64Zd2Y
@@ -16,13 +23,6 @@ DURATION:PT2H
 DTSTART:20200421T040000Z
 SUMMARY:🍷夕刻ロベル: 【マリカ8DX】マリカや！！！！！！！！【ホロスターズ/夕刻ロベル】
 UID:qSlGw64Zd2Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】月曜日の真昼間ざつだん。【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=cEywq2xQBik
-DURATION:PT2H
-DTSTART:20200420T040000Z
-SUMMARY:🍷夕刻ロベル: 【雑談】月曜日の真昼間ざつだん。【ホロスターズ/夕刻ロベル】
-UID:cEywq2xQBik
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雀魂】僕だけミリしら!!ホロスタ麻雀対決!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=cAbBSTdGJrs
@@ -37,68 +37,5 @@ DURATION:PT2H
 DTSTART:20200421T110000Z
 SUMMARY:🍷夕刻ロベル: 【#漢基雀魂】鳴くの禁止麻雀！！ここに開幕！【ホロスターズ/夕刻ロベル】
 UID:SX7hYirRLB8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【記念枠】配信デビューから半年たった！とかナ【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=-fWTSCV-lEY
-DURATION:PT2H
-DTSTART:20200420T140000Z
-SUMMARY:⚙律可: 【記念枠】配信デビューから半年たった！とかナ【律可/ホロスターズ】
-UID:-fWTSCV-lEY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Youtube不具合につき枠変更しました 】コワコワ・コワイングナイト -DYING LIGHT-【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=sVv4cVZ1vyU
-DURATION:PT2H
-DTSTART:20200420T120000Z
-SUMMARY:🍕アルランディス: 【 Youtube不具合につき枠変更しました 】コワコワ・コワイングナイト -DYING LIGHT-【ホロスターズ/アルランディス】
-UID:sVv4cVZ1vyU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロスタDBD】この世界には、狩る側の人間と狩られる側の人間しかいない。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=BuZx07ivOXk
-DURATION:PT2H
-DTSTART:20200421T130000Z
-SUMMARY:🦔💨岸堂天真: 【#ホロスタDBD】この世界には、狩る側の人間と狩られる側の人間しかいない。【岸堂天真/ホロスターズ】
-UID:BuZx07ivOXk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雀魂】男たちの仁義なき麻雀対決【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=1rxiJKR26v4
-DURATION:PT2H
-DTSTART:20200420T150000Z
-SUMMARY:💙鏡見キラ: 【雀魂】男たちの仁義なき麻雀対決【ホロスターズ/鏡見キラ】
-UID:1rxiJKR26v4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #アランストリーム 】ホロスタDbD部 最強の騎士を添えて- Dead by Daylight -【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=_TJZgR99XRk
-DURATION:PT2H
-DTSTART:20200421T130000Z
-SUMMARY:🍕アルランディス: 【 #アランストリーム 】ホロスタDbD部 最強の騎士を添えて- Dead by Daylight -【ホロスターズ/アルランディス】
-UID:_TJZgR99XRk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【シャニマス】朝のシャニ活！甜花ちゃん。…甜花ちゃん！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=7eHq51k7sEw
-DURATION:PT2H
-DTSTART:20200421T010000Z
-SUMMARY:🍷夕刻ロベル: 【シャニマス】朝のシャニ活！甜花ちゃん。…甜花ちゃん！！【ホロスターズ/夕刻ロベル】
-UID:7eHq51k7sEw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スマブラsp】武者修行の旅、始まる【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=VERcDINneZU
-DURATION:PT2H
-DTSTART:20200420T110000Z
-SUMMARY:💙鏡見キラ: 【スマブラsp】武者修行の旅、始まる【ホロスターズ/鏡見キラ】
-UID:VERcDINneZU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【シャニマス】朝のシャニマス活動！～軽いW.I.N.G攻略を添えて～【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=hUbne1culeg
-DURATION:PT2H
-DTSTART:20200420T010000Z
-SUMMARY:🍷夕刻ロベル: 【シャニマス】朝のシャニマス活動！～軽いW.I.N.G攻略を添えて～【ホロスターズ/夕刻ロベル】
-UID:hUbne1culeg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ゲリラDBD】２人逃がしたら即終了Dead by Daylight【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=4Y4um_7izWA
-DURATION:PT2H
-DTSTART:20200420T090000Z
-SUMMARY:🦔💨岸堂天真: 【ゲリラDBD】２人逃がしたら即終了Dead by Daylight【岸堂天真/ホロスターズ】
-UID:4Y4um_7izWA
 END:VEVENT
 END:VCALENDAR
