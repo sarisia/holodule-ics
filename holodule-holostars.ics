@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【テトリス９９】1位になるまでおわれまてん！【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=zZjXomEQs0w
+DURATION:PT2H
+DTSTART:20200422T075000Z
+SUMMARY:⚙律可: 【テトリス９９】1位になるまでおわれまてん！【律可/ホロスターズ】
+UID:zZjXomEQs0w
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マイクラホロスタ鯖】生きた証を残したい!!特大天真パネルを作成する!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=pTWr8q86cCM
 DURATION:PT2H
 DTSTART:20200423T060600Z
@@ -11,11 +18,11 @@ SUMMARY:🦔💨岸堂天真: 【マイクラホロスタ鯖】生きた証を�
 UID:pTWr8q86cCM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【シャニマス】朝のシャニ活！イベント甘奈を取るんや…！皆取るんや…！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=dOcgD-0YJ5o
+DESCRIPTION:【シャニマス】朝のシャニ活！ストレイライトのコミュ…見ような…【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=MtX33TfCzoQ
 DURATION:PT2H
-DTSTART:20200422T010000Z
-SUMMARY:🍷夕刻ロベル: 【シャニマス】朝のシャニ活！イベント甘奈を取るんや…！皆取るんや…！！【ホロスターズ/夕刻ロベル】
-UID:dOcgD-0YJ5o
+DTSTART:20200423T010000Z
+SUMMARY:🍷夕刻ロベル: 【シャニマス】朝のシャニ活！ストレイライトのコミュ…見ような…【ホロスターズ/夕刻ロベル】
+UID:MtX33TfCzoQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雀魂】初心者麻雀。【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=vY88RUxCsdc
@@ -46,10 +53,10 @@ SUMMARY:🦔💨岸堂天真: 【マイクラホロスタ鯖】生きた証を�
 UID:rjU4DbhZQRQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【シャニマス】朝のシャニ活！ストレイライトのコミュ…見ような…【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=MtX33TfCzoQ
+DESCRIPTION:【シャニマス】朝のシャニ活！イベント甘奈を取るんや…！皆取るんや…！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=dOcgD-0YJ5o
 DURATION:PT2H
-DTSTART:20200423T010000Z
-SUMMARY:🍷夕刻ロベル: 【シャニマス】朝のシャニ活！ストレイライトのコミュ…見ような…【ホロスターズ/夕刻ロベル】
-UID:MtX33TfCzoQ
+DTSTART:20200422T010000Z
+SUMMARY:🍷夕刻ロベル: 【シャニマス】朝のシャニ活！イベント甘奈を取るんや…！皆取るんや…！！【ホロスターズ/夕刻ロベル】
+UID:dOcgD-0YJ5o
 END:VEVENT
 END:VCALENDAR
