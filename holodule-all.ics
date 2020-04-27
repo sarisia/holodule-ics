@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【FF9】#2 魔の森から！大冒険の始まりだ！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=tOc3gN5K4j0
-DURATION:PT2H
-DTSTART:20200427T140000Z
-SUMMARY:🐏角巻わため: 【FF9】#2 魔の森から！大冒険の始まりだ！【角巻わため/ホロライブ４期生】
-UID:tOc3gN5K4j0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【夜廻】初見プレイ！おねえちゃんを探しに行こう。#2【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=9Vjs77eIAZc
 DURATION:PT2H
 DTSTART:20200425T160000Z
@@ -79,6 +72,13 @@ DURATION:PT2H
 DTSTART:20200427T140000Z
 SUMMARY:🥐戌神ころね: 【美食戦隊薔薇野郎(SFC)】やるわよ【Gourmet Sentai Bara Yarou】
 UID:ddLqSMcfZGc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】APEX道場！！！！いざ修行！！！\nhttps://www.youtube.com/watch?v=cjraJKf0yrk
+DURATION:PT2H
+DTSTART:20200427T150000Z
+SUMMARY:👿百鬼あやめ: 【APEX】APEX道場！！！！いざ修行！！！
+UID:cjraJKf0yrk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:なにがはじまるんです？ #バカタレ共 のアルチキ大戦DA!\nhttps://www.youtube.com/watch?v=JBXzhOlNzkU
@@ -326,13 +326,6 @@ SUMMARY:🐉桐生ココ: 【#桐生ココ】クリア耐久無理だったけ�
 UID:rEzB4CY-WbI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ARK】美味しいごはんを用意せよ！バジリスクテイム計画ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=9lhoUvrqRvk
-DURATION:PT2H
-DTSTART:20200427T120000Z
-SUMMARY:👯兎田ぺこら: 【ARK】美味しいごはんを用意せよ！バジリスクテイム計画ぺこ！【ホロライブ/兎田ぺこら】
-UID:9lhoUvrqRvk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:男の娘と運動する朝はイイゾ！?  #10【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=0kHcGLDjMTk
 DURATION:PT2H
 DTSTART:20200426T220000Z
@@ -352,6 +345,13 @@ DURATION:PT2H
 DTSTART:20200426T150000Z
 SUMMARY:🌸さくらみこ: #2【ドリームクラブ】絶対｢魅杏｣を落とす💓クリアまで飲みながら実況！！(6月~)【ホロライブ/さくらみこ】
 UID:L3PgF3Uwua4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK Genesis】ペットがいない生活なんてやだ！！【リヅノとイタリア人＃ARKホロスタ島】\nhttps://www.youtube.com/watch?v=Hs4g1j6RCWo
+DURATION:PT2H
+DTSTART:20200427T120000Z
+SUMMARY:⚙律可: 【ARK Genesis】ペットがいない生活なんてやだ！！【リヅノとイタリア人＃ARKホロスタ島】
+UID:Hs4g1j6RCWo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Ark】高カロリー超巨大飛空艇を目指して！ムキロゼ楽園高校工業科Steampunk Mod建築その５【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=ljeOqLGIU0Y
