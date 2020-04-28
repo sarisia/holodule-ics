@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【hololiveID】Project Winter Collab with Alien and Moon-A【Ayunda Risu】\nhttps://www.youtube.com/watch?v=wlJ94W8xGW8
-DURATION:PT2H
-DTSTART:20200427T140000Z
-SUMMARY:🐿Risu: 【hololiveID】Project Winter Collab with Alien and Moon-A【Ayunda Risu】
-UID:wlJ94W8xGW8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】Meskipun sendirian\, harus TOP 5! - Bahasa Indonesia / English Stream【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=L6Jg6k9uCcE
 DURATION:PT2H
 DTSTART:20200428T083000Z
@@ -23,5 +16,26 @@ DURATION:PT2H
 DTSTART:20200426T200000Z
 SUMMARY:🔮Moona: 【Mamah Moona dan A'a iofi】Semangat untuk maju - Bahasa Indonesia Stream【hololive-ID】
 UID:pfpwOtZ2tH8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololiveID】Project Winter Collab with Alien and Moon-A【Ayunda Risu】\nhttps://www.youtube.com/watch?v=wlJ94W8xGW8
+DURATION:PT2H
+DTSTART:20200427T140000Z
+SUMMARY:🐿Risu: 【hololiveID】Project Winter Collab with Alien and Moon-A【Ayunda Risu】
+UID:wlJ94W8xGW8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Mamah Moona dan Dedek Risu】Semangat meskipun Dirumah aja - Bahasa Indonesia Stream【hololive-ID】\nhttps://www.youtube.com/watch?v=DgmRww45no0
+DURATION:PT2H
+DTSTART:20200428T200000Z
+SUMMARY:🔮Moona: 【Mamah Moona dan Dedek Risu】Semangat meskipun Dirumah aja - Bahasa Indonesia Stream【hololive-ID】
+UID:DgmRww45no0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololiveID】The Deed - Escape the Murder with Risu! (ID/EN)【Ayunda Risu】\nhttps://www.youtube.com/watch?v=gJKEdpHwzGA
+DURATION:PT2H
+DTSTART:20200428T140000Z
+SUMMARY:🐿Risu: 【hololiveID】The Deed - Escape the Murder with Risu! (ID/EN)【Ayunda Risu】
+UID:gJKEdpHwzGA
 END:VEVENT
 END:VCALENDAR
