@@ -53,13 +53,6 @@ SUMMARY:ホロライブ: 【アニメ】ホロぐら一周年！いろんなこ�
 UID:UJElTRVZNIc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【シャニマス】新人Pの壁、TrueEnd研修！！クリアでエモEDとSSRゲット！？【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=dARv4gQBeiQ
-DURATION:PT2H
-DTSTART:20200429T060000Z
-SUMMARY:💫天音かなた: 【シャニマス】新人Pの壁、TrueEnd研修！！クリアでエモEDとSSRゲット！？【天音かなた/ホロライブ4期生】
-UID:dARv4gQBeiQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:有罪？無罪？！リスナー裁判！！！裁きます！【大神ミオ】\nhttps://www.youtube.com/watch?v=l2xozUfQmbE
 DURATION:PT2H
 DTSTART:20200428T140000Z
@@ -179,13 +172,6 @@ SUMMARY:🏴☠宝鐘マリン: 【緊急ゲリラ】チャンネル30万人に�
 UID:NNQhUQYFLWU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【鬼畜】心がぶっ壊れるほど難しいゲームに挑戦！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=TMXlEmtJQig
-DURATION:PT2H
-DTSTART:20200429T110000Z
-SUMMARY:❤赤井はあと: 【鬼畜】心がぶっ壊れるほど難しいゲームに挑戦！【ホロライブ/赤井はあと】
-UID:TMXlEmtJQig
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【マリオストーリー】好きなんだよね このゲーム#最終回【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=6d7ZZcZMVrQ
 DURATION:PT2H
 DTSTART:20200429T140000Z
@@ -256,11 +242,25 @@ SUMMARY:💙鏡見キラ: 寝起きの僕とお話しよ？💙【ホロスタ�
 UID:pLYUrt2UubQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【晩酌雑談】お酒を飲む【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=MGdkfPk71S8
+DURATION:PT2H
+DTSTART:20200429T100000Z
+SUMMARY:🍷夕刻ロベル: 【晩酌雑談】お酒を飲む【ホロスターズ/夕刻ロベル】
+UID:MGdkfPk71S8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【壺おじ】寝起き壺おじ60分間チャレンジ！脳も口もバグってる赤ちゃんです。【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=iUQyxnob-Cw
 DURATION:PT2H
 DTSTART:20200428T080000Z
 SUMMARY:⚔白銀ノエル: 【壺おじ】寝起き壺おじ60分間チャレンジ！脳も口もバグってる赤ちゃんです。【白銀ノエル/ホロライブ】
 UID:iUQyxnob-Cw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロライブスプラ部】初心者エルフのレギュラー戦！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=jgZP4i2ZKW4
+DURATION:PT2H
+DTSTART:20200429T130000Z
+SUMMARY:🔥不知火フレア: 【#ホロライブスプラ部】初心者エルフのレギュラー戦！【不知火フレア/ホロライブ】
+UID:jgZP4i2ZKW4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌番組】わためのうた（４月３０日）【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=x3VKHC3UFJY
@@ -403,13 +403,6 @@ SUMMARY:🐉桐生ココ: 【#桐生ココが如く】#3仮出所で大暴れ、
 UID:w9J27jUeZEc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ぴげえええ】ミスしたら罰ゲーム！？難しすぎ！！！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=MNICKnA4nRk
-DURATION:PT2H
-DTSTART:20200429T071000Z
-SUMMARY:❤赤井はあと: 【ぴげえええ】ミスしたら罰ゲーム！？難しすぎ！！！【ホロライブ/赤井はあと】
-UID:MNICKnA4nRk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【弾き語り】男独り ラブライブ μ's縛り【奏手イヅル】\nhttps://www.youtube.com/watch?v=GKy8Or7En0o
 DURATION:PT2H
 DTSTART:20200428T130000Z
@@ -464,6 +457,13 @@ DURATION:PT2H
 DTSTART:20200428T090000Z
 SUMMARY:🍷夕刻ロベル: 【雀魂】腕試し麻雀！レンリ君と視聴者参加型麻雀や！！【ホロスターズ/夕刻ロベル】
 UID:P_5jDPlWRVg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FF7リメイク】寝起きだけどFF7やるぞ、っと。 #4【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=0n-I5Ppyw_Q
+DURATION:PT2H
+DTSTART:20200429T090000Z
+SUMMARY:🌺花咲みやび: 【FF7リメイク】寝起きだけどFF7やるぞ、っと。 #4【花咲みやび/ホロスターズ】
+UID:0n-I5Ppyw_Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DANGANRONPA Part 2】Class Trial\, Who's the Murderer? 【hololive-ID】\nhttps://www.youtube.com/watch?v=i6O0zkgr2Z0
