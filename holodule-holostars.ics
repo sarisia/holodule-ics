@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Ark Genesis】律可と一緒に最高の恐竜ティラノサウルスを捕まえに行く!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=n--T9JjxdOY
-DURATION:PT2H
-DTSTART:20200429T194922Z
-SUMMARY:🦔💨岸堂天真: 【Ark Genesis】律可と一緒に最高の恐竜ティラノサウルスを捕まえに行く!!【岸堂天真/ホロスターズ】
-UID:n--T9JjxdOY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Ark Genesis】恐竜騎士団の強化のため、ついに火山へ旅立つ!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=csqudoQTRcE
 DURATION:PT2H
 DTSTART:20200428T210000Z
@@ -37,6 +30,13 @@ DURATION:PT2H
 DTSTART:20200429T130000Z
 SUMMARY:🍷夕刻ロベル: 【#喉ちん飛ばし選手権】第一回！喉ちん飛ばし選手権！！【ホロスターズ/夕刻ロベル】
 UID:S-E_g7MbQ9M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【シャニマス】朝のシャニ活！ほら！ノクチルにもご挨拶するで！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=Ph4o3Xsax8Q
+DURATION:PT2H
+DTSTART:20200429T010000Z
+SUMMARY:🍷夕刻ロベル: 【シャニマス】朝のシャニ活！ほら！ノクチルにもご挨拶するで！！【ホロスターズ/夕刻ロベル】
+UID:Ph4o3Xsax8Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#5【ゼルダの伝説 夢幻の砂時計】氷の神殿を攻略するぞ！！【奏手イヅル】\nhttps://www.youtube.com/watch?v=1jKuSt2DRLo
@@ -107,6 +107,13 @@ DURATION:PT2H
 DTSTART:20200429T042500Z
 SUMMARY:アステル・レダ: 『銀河的お悩み相談室』ジャッジメントチェーーーーン！！！！！！！！！【ホロスターズ/アステル】
 UID:6wSSG0PW5WA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #アランストリーム 】文パートをどこまで攻略できるのか！-東方天空璋-【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=bjG2Cc2mJl0
+DURATION:PT2H
+DTSTART:20200429T013000Z
+SUMMARY:🍕アルランディス: 【 #アランストリーム 】文パートをどこまで攻略できるのか！-東方天空璋-【ホロスターズ/アルランディス】
+UID:bjG2Cc2mJl0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【弾き語り】歌をききながらおやつ食べません？【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=uQYZPdojnkU
