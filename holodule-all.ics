@@ -18,18 +18,18 @@ SUMMARY:🍬姫森ルーナ: 【歌枠】１２万人記念にお歌を捧げる
 UID:5T4BSC5HSpU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【初見ピクミン２】ピクミンはキミたち。船長が守護る。【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=HffgBzC_G8c
-DURATION:PT2H
-DTSTART:20200430T110000Z
-SUMMARY:🏴☠宝鐘マリン: 【初見ピクミン２】ピクミンはキミたち。船長が守護る。【ホロライブ/宝鐘マリン】
-UID:HffgBzC_G8c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】先輩たちのこと、もっと知りたいな～😸\nhttps://www.youtube.com/watch?v=Y83TfiWctpc
 DURATION:PT2H
 DTSTART:20200429T230000Z
 SUMMARY:月下カオル: 【雑談】先輩たちのこと、もっと知りたいな～😸
 UID:Y83TfiWctpc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:「＃荒咬オウガ初配信」～俺とオマエの出会い～（ホロスターズ）\nhttps://www.youtube.com/watch?v=LgdOlZ6N138
+DURATION:PT2H
+DTSTART:20200501T110000Z
+SUMMARY:荒咬オウガ: 「＃荒咬オウガ初配信」～俺とオマエの出会い～（ホロスターズ）
+UID:LgdOlZ6N138
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ぺこみこ戦争】もじぴったんで語彙戦争だよ！！！！【兎田ぺこら/さくらみこ】\nhttps://www.youtube.com/watch?v=sClqEIxJViY
@@ -139,7 +139,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#1【ポケダン 闇の探検隊】可愛いポケモンに、なりたい【奏手イヅル】\nhttps://www.youtube.com/watch?v=ADFAGsUBEmo
 DURATION:PT2H
-DTSTART:20200501T070000Z
+DTSTART:20200503T070000Z
 SUMMARY:🎸奏手イヅル: #1【ポケダン 闇の探検隊】可愛いポケモンに、なりたい【奏手イヅル】
 UID:ADFAGsUBEmo
 END:VEVENT
@@ -536,13 +536,6 @@ SUMMARY:👯兎田ぺこら: 【もじぴったんアンコール】歩く図書
 UID:QEvOAs87ntw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ホラゲー】steam評価🌟10？！MadFatherする！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=PG9Htrxb1i4
-DURATION:PT2H
-DTSTART:20200430T110000Z
-SUMMARY:🚑大空スバル: 【ホラゲー】steam評価🌟10？！MadFatherする！！【ホロライブ/大空スバル】
-UID:PG9Htrxb1i4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【プリコネR】ガチャ運試し！狙うは復刻ハロウィンキョウカちゃんなのら！【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=X5jpCQ_t9Uw
 DURATION:PT2H
 DTSTART:20200429T103000Z
@@ -620,6 +613,13 @@ SUMMARY:🎸奏手イヅル: #5【ゼルダの伝説 夢幻の砂時計】氷の
 UID:1jKuSt2DRLo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【配信予約】ご主人～？もうねちゃうの～？？【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=vqhj1a0MCR4
+DURATION:PT2H
+DTSTART:20200430T150000Z
+SUMMARY:⚓湊あくあ: 【配信予約】ご主人～？もうねちゃうの～？？【湊あくあ/ホロライブ】
+UID:vqhj1a0MCR4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【深夜枠】おつかれさま会しよ､､､☆彡【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=EFIIbYiYmJ4
 DURATION:PT2H
 DTSTART:20200429T151000Z
@@ -646,6 +646,13 @@ DURATION:PT2H
 DTSTART:20200429T140000Z
 SUMMARY:⚙律可: 【TICK TOCK】初二人コラボやけどすぐ脱出できる気しかしない【律可/アステル】
 UID:xj1qbHv7jFc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌番組】わためのうた（５月１日）【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=0eDLa70bZ6Q
+DURATION:PT2H
+DTSTART:20200430T204500Z
+SUMMARY:🐏角巻わため: 【歌番組】わためのうた（５月１日）【角巻わため/ホロライブ４期生】
+UID:0eDLa70bZ6Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Ark】最強のゴリラを求めて！ムキロゼ楽園高校工業科Steampunk Modその８【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=m_QjdPHin0k
