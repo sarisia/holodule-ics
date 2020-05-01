@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【20時～】配信予定！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=6zTu5jHyE_A
+DURATION:PT2H
+DTSTART:20200502T110000Z
+SUMMARY:🍷夕刻ロベル: 【20時～】配信予定！【ホロスターズ/夕刻ロベル】
+UID:6zTu5jHyE_A
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌枠】ボカロ縛り！VOCALOID好きなひと集まれ～！【#あずきんち】\nhttps://www.youtube.com/watch?v=OCN2viG3LFo
 DURATION:PT2H
 DTSTART:20200501T120000Z
@@ -128,13 +135,6 @@ DURATION:PT2H
 DTSTART:20200501T140000Z
 SUMMARY:⚙律可: 【UNO】トラップカード発動！！！地獄縛り！！！【#ナツまつりっかい 黯希ナツメ/夏色まつり/黛灰/律可】
 UID:nIg6NtPOb7c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARK】ついにわため工場建設...？！？【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=JJgx5PsWjOQ
-DURATION:PT2H
-DTSTART:20200501T140000Z
-SUMMARY:🐏角巻わため: 【ARK】ついにわため工場建設...？！？【角巻わため/ホロライブ４期生】
-UID:JJgx5PsWjOQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Super Bunny Man】ネクロットなら兎になっても協力できちゃうよ。。。ね！？【ホロライブ/ロボ子さん＆潤羽るしあ】\nhttps://www.youtube.com/watch?v=rXQ24eZrJ64
