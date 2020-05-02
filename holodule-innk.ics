@@ -4,10 +4,24 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【歌枠】サンホラ縛り！Sound Horizon 物語音楽を歌う！【#あずきんち】\nhttps://www.youtube.com/watch?v=qi5kRDLFwP0
+DURATION:PT2H
+DTSTART:20200503T120000Z
+SUMMARY:⚒AZKi: 【歌枠】サンホラ縛り！Sound Horizon 物語音楽を歌う！【#あずきんち】
+UID:qi5kRDLFwP0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌枠】ボカロ縛り！VOCALOID好きなひと集まれ～！【#あずきんち】\nhttps://www.youtube.com/watch?v=OCN2viG3LFo
 DURATION:PT2H
 DTSTART:20200501T120000Z
 SUMMARY:⚒AZKi: 【歌枠】ボカロ縛り！VOCALOID好きなひと集まれ～！【#あずきんち】
 UID:OCN2viG3LFo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】J-POP縛り！懐メロから最近の曲まで歌うぞ！【#あずきんち】\nhttps://www.youtube.com/watch?v=JgVLGd9cb9A
+DURATION:PT2H
+DTSTART:20200502T120000Z
+SUMMARY:⚒AZKi: 【歌枠】J-POP縛り！懐メロから最近の曲まで歌うぞ！【#あずきんち】
+UID:JgVLGd9cb9A
 END:VEVENT
 END:VCALENDAR
