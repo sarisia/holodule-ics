@@ -18,13 +18,6 @@ SUMMARY:🍷夕刻ロベル: 【記念配信】1万人記念配信！ほんま�
 UID:PTO9H7sksEM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【シャニマス】夜のシャニ活！シャニマス2ndライブエア会場【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=Llm_MsaTqic
-DURATION:PT2H
-DTSTART:20200503T110000Z
-SUMMARY:🍷夕刻ロベル: 【シャニマス】夜のシャニ活！シャニマス2ndライブエア会場【ホロスターズ/夕刻ロベル】
-UID:Llm_MsaTqic
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】初TriNeroコラボ！地獄の反省会【ホロスターズ/月下カオル・影山シエン・荒咬オウガ】\nhttps://www.youtube.com/watch?v=xN34vMEyBrI
 DURATION:PT2H
 DTSTART:20200503T130000Z
@@ -32,18 +25,25 @@ SUMMARY:月下カオル: 【雑談】初TriNeroコラボ！地獄の反省会【
 UID:xN34vMEyBrI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【罰ゲームモノマネ弾き語り】似てるとは言ってない。【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=FuiX0SlV5bg
-DURATION:PT2H
-DTSTART:20200504T120000Z
-SUMMARY:⚙律可: 【罰ゲームモノマネ弾き語り】似てるとは言ってない。【律可/ホロスターズ】
-UID:FuiX0SlV5bg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【晩酌雑談コラボ】アルさん・シノヴさんと一緒にオンライン飲み会【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=TMs1DrZqkcI
 DURATION:PT2H
 DTSTART:20200504T130000Z
 SUMMARY:🍷夕刻ロベル: 【晩酌雑談コラボ】アルさん・シノヴさんと一緒にオンライン飲み会【ホロスターズ/夕刻ロベル】
 UID:TMs1DrZqkcI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【シャニマス】夜のシャニ活！シャニマス2ndライブエア会場【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=Llm_MsaTqic
+DURATION:PT2H
+DTSTART:20200503T110000Z
+SUMMARY:🍷夕刻ロベル: 【シャニマス】夜のシャニ活！シャニマス2ndライブエア会場【ホロスターズ/夕刻ロベル】
+UID:Llm_MsaTqic
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【罰ゲームモノマネ弾き語り】似てるとは言ってない。【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=FuiX0SlV5bg
+DURATION:PT2H
+DTSTART:20200504T120000Z
+SUMMARY:⚙律可: 【罰ゲームモノマネ弾き語り】似てるとは言ってない。【律可/ホロスターズ】
+UID:FuiX0SlV5bg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #アランストリーム 】さぁ挑戦だ、最新作 -東方鬼形獣-【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=9vCJv23DP4o
@@ -65,6 +65,13 @@ DURATION:PT2H
 DTSTART:20200503T050000Z
 SUMMARY:🍕アルランディス: 【 聖剣伝説3 TRIALS of MANA 】3から始める聖剣伝説【ホロスターズ/アルランディス】
 UID:a3Rk9GVF0zQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:花咲の森住人の名前を決める!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=-dqPDeTyz1I
+DURATION:PT2H
+DTSTART:20200503T150000Z
+SUMMARY:🌺花咲みやび: 花咲の森住人の名前を決める!!【花咲みやび/ホロスターズ】
+UID:-dqPDeTyz1I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:『APEXランク戦』あと1週間でダイヤ目指す！！【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=RlgNC3G8Wtg
