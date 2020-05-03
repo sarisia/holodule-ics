@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Overcooked! 2】初ゲーム配信！ SorAZ は一流料理人になれるのか！？【ときのそら/AZKi 】\nhttps://www.youtube.com/watch?v=_L8zjJHb81Y
+DURATION:PT2H
+DTSTART:20200505T040000Z
+SUMMARY:⚒AZKi: 【Overcooked! 2】初ゲーム配信！ SorAZ は一流料理人になれるのか！？【ときのそら/AZKi 】
+UID:_L8zjJHb81Y
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌枠】サンホラ縛り！Sound Horizon 物語音楽を歌う！【#あずきんち】\nhttps://www.youtube.com/watch?v=qi5kRDLFwP0
 DURATION:PT2H
 DTSTART:20200503T120000Z
@@ -23,12 +30,5 @@ DURATION:PT2H
 DTSTART:20200504T110000Z
 SUMMARY:⚒AZKi: 【同時視聴】ジェムカンみずしーと一緒に！やなぎなぎ ライブツアー2016「Follow your Tracks」を見よう！【#あずきんち】
 UID:icSgDKnWWAw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】J-POP縛り！懐メロから最近の曲まで歌うぞ！【#あずきんち】\nhttps://www.youtube.com/watch?v=JgVLGd9cb9A
-DURATION:PT2H
-DTSTART:20200502T120000Z
-SUMMARY:⚒AZKi: 【歌枠】J-POP縛り！懐メロから最近の曲まで歌うぞ！【#あずきんち】
-UID:JgVLGd9cb9A
 END:VEVENT
 END:VCALENDAR
