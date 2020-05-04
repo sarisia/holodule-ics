@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#桐生ココ】初めてのBAN酌ざつだん配信【#ココここ】\nhttps://www.youtube.com/watch?v=0j2xLeLCYO8
+DURATION:PT2H
+DTSTART:20200504T140000Z
+SUMMARY:🐉桐生ココ: 【#桐生ココ】初めてのBAN酌ざつだん配信【#ココここ】
+UID:0j2xLeLCYO8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】あのわるだ組で取ったチャンピオンが忘れられねんだ...【ロボ子先輩＆赤井はあと先輩＆角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=2W9E4ilRM2k
 DURATION:PT2H
 DTSTART:20200503T150000Z
@@ -291,13 +298,6 @@ SUMMARY:🐏角巻わため: 【お絵描き】お互いのメンバーシップ
 UID:sYvGsSy65yQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:古のニコニコ老人会カラオケwithパラダイス☆フブキング\nhttps://www.youtube.com/watch?v=Us0DoycQUHo
-DURATION:PT2H
-DTSTART:20200504T120000Z
-SUMMARY:🌽白上フブキ: 古のニコニコ老人会カラオケwithパラダイス☆フブキング
-UID:Us0DoycQUHo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【とっとこハム太郎3】初めてのレトロゲーム！？リア獣を見守る会！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=ByRr1gOqXmg
 DURATION:PT2H
 DTSTART:20200504T050000Z
@@ -394,6 +394,13 @@ DURATION:PT2H
 DTSTART:20200503T210000Z
 SUMMARY:🐉桐生ココ: 【#桐生ココ】あさココLIVEニュース！5月4日【#ココここ】
 UID:VcxeO4YfMXU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【BattleBlock Theater】#karASHi で協力して脱出を試みる！！【不知火フレア/赤井はあと/星街すいせい】\nhttps://www.youtube.com/watch?v=LhUGuBYp7J4
+DURATION:PT2H
+DTSTART:20200504T131000Z
+SUMMARY:🔥不知火フレア: 【BattleBlock Theater】#karASHi で協力して脱出を試みる！！【不知火フレア/赤井はあと/星街すいせい】
+UID:LhUGuBYp7J4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【戌神視点】「超兄貴」同時プレイ！！先にクリアできるのはどっちか！？【罰ゲーム有り】\nhttps://www.youtube.com/watch?v=2eW31SJW8Gs
