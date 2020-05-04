@@ -4,10 +4,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:点描の唄 / Mrs. GREEN APPLE (feat.井上苑子)  covered by 律可×ロボ子さん\nhttps://www.youtube.com/watch?v=TSZ9RlU6EXk
+DESCRIPTION:点描の唄 / Mrs. GREEN APPLE feat.井上苑子  covered by 律可×ロボ子さん\nhttps://www.youtube.com/watch?v=TSZ9RlU6EXk
 DURATION:PT2H
 DTSTART:20200504T080000Z
-SUMMARY:🤖ロボ子さん: 点描の唄 / Mrs. GREEN APPLE (feat.井上苑子)  covered by 律可×ロボ子さん
+SUMMARY:🤖ロボ子さん: 点描の唄 / Mrs. GREEN APPLE feat.井上苑子  covered by 律可×ロボ子さん
 UID:TSZ9RlU6EXk
 END:VEVENT
 BEGIN:VEVENT
@@ -128,6 +128,13 @@ DURATION:PT2H
 DTSTART:20200503T090000Z
 SUMMARY:💋癒月ちょこSub: 【作業用BGM】悪魔の保健医のARK22日目！ロックドレイク子育て！軍隊サドル量産！【ホロライブ/癒月ちょこ】
 UID:8K2kZT43PYI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【METAL GEAR SOLID4】見れなかったED後を見届けるぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=_To1ye9zKJo
+DURATION:PT2H
+DTSTART:20200504T040000Z
+SUMMARY:👯兎田ぺこら: 【METAL GEAR SOLID4】見れなかったED後を見届けるぺこ！【ホロライブ/兎田ぺこら】
+UID:_To1ye9zKJo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【おえかきの森】画伯と呼ばれた者たちのお絵かき【#画伯ルーキーズ/ホロライブ】\nhttps://www.youtube.com/watch?v=PmGho-n68-8
@@ -450,5 +457,12 @@ DURATION:PT2H
 DTSTART:20200504T030000Z
 SUMMARY:💋癒月ちょこ: 【グランド・セフト・オートV】へなちょこ悪魔のギャング生活31日目！最終ミッションクリアなるか！【ホロライブ/癒月ちょこ】
 UID:RMVj6xrtFrA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【学力テスト】０歳児の漢字力を見るがいいのら🍬【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=tTuDkoK0LZ4
+DURATION:PT2H
+DTSTART:20200504T070000Z
+SUMMARY:🍬姫森ルーナ: 【学力テスト】０歳児の漢字力を見るがいいのら🍬【姫森ルーナ/ホロライブ】
+UID:tTuDkoK0LZ4
 END:VEVENT
 END:VCALENDAR
