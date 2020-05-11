@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【】待機所【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=secSuC-TGIs
+DURATION:PT2H
+DTSTART:20200512T100000Z
+SUMMARY:🤖ロボ子さん: 【】待機所【ホロライブ/ロボ子さん】
+UID:secSuC-TGIs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【東方地霊殿ＥＸ】酔っぱらうとクリアできる説【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=1FM2DTsHoOE
 DURATION:PT2H
 DTSTART:20200511T130000Z
@@ -135,6 +142,13 @@ DURATION:PT2H
 DTSTART:20200510T210000Z
 SUMMARY:🐉桐生ココ: 【#桐生ココ】あさココLIVEニュース！5月11日【#ココここ】
 UID:ZbbGAq1oB5w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【？？？】待機所【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=mq8vQgx4mpM
+DURATION:PT2H
+DTSTART:20200512T182500Z
+SUMMARY:🤖ロボ子さん: 【？？？】待機所【ホロライブ/ロボ子さん】
+UID:mq8vQgx4mpM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロプロDBD】DbDうますぎる人の中に初心者が入るとこうなる。【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=o6OhLcs_rZw
