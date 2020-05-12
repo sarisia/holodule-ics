@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【究極の釣り】日本っぽいの釣りたい…コイとかウナギとか…【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=W0e5Gf9aS3M
-DURATION:PT2H
-DTSTART:20200510T230000Z
-SUMMARY:月下カオル: 【究極の釣り】日本っぽいの釣りたい…コイとかウナギとか…【月下カオル/ホロスターズ】
-UID:W0e5Gf9aS3M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#2【ぼくらは カセキホリダー】旅立ち 完全初見【奏手イヅル】\nhttps://www.youtube.com/watch?v=kxKuxrZdcso
-DURATION:PT2H
-DTSTART:20200511T070000Z
-SUMMARY:🎸奏手イヅル: #2【ぼくらは カセキホリダー】旅立ち 完全初見【奏手イヅル】
-UID:kxKuxrZdcso
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Celeste】いよいよ本格的な登山だ～～いくぞ～～🙋‍♀️【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=egkAdMtr3yE
 DURATION:PT2H
 DTSTART:20200512T073000Z
@@ -30,13 +16,6 @@ DURATION:PT2H
 DTSTART:20200512T130000Z
 SUMMARY:🌺花咲みやび: 【お絵かき】おいでよ花咲の森～狂気ノキャンパス～【花咲みやび/ホロスターズ】
 UID:Us7o-FAXweg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Nostalgic Train】田舎で俺と暮らさないか？【奏手イヅル】\nhttps://www.youtube.com/watch?v=t-x7sh-gsyY
-DURATION:PT2H
-DTSTART:20200511T100000Z
-SUMMARY:🎸奏手イヅル: 【Nostalgic Train】田舎で俺と暮らさないか？【奏手イヅル】
-UID:t-x7sh-gsyY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【COFFEETALK】～魔人が淹れる夜更けの一杯～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=i8Y_DILD5f0
@@ -60,6 +39,13 @@ SUMMARY:🍷夕刻ロベル: 【モンスターファーム2】シャニマス�
 UID:nvormlAFk7U
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【飲んで雑談】～俺達とらい危族で飲んでます～【TriNero/ホロスターズ】\nhttps://www.youtube.com/watch?v=rE1Rw4Hq7yY
+DURATION:PT2H
+DTSTART:20200514T120000Z
+SUMMARY:荒咬オウガ: 【飲んで雑談】～俺達とらい危族で飲んでます～【TriNero/ホロスターズ】
+UID:rE1Rw4Hq7yY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【もじぴったんアンコール】朝活もじぴったん！寝起きの頭は耐えられるのか…！？【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=A1N5cW4qiYk
 DURATION:PT2H
 DTSTART:20200513T010000Z
@@ -72,20 +58,6 @@ DURATION:PT2H
 DTSTART:20200512T040000Z
 SUMMARY:🍷夕刻ロベル: #3【ムジュラの仮面】沼を終え山に旅立つロベルであった。【ホロスターズ/夕刻ロベル】
 UID:G27pOV174m4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #アランストリーム 】魔理沙と妖夢でクリアしたい -東方鬼形獣-【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=eaT45ysHmBg
-DURATION:PT2H
-DTSTART:20200511T120000Z
-SUMMARY:🍕アルランディス: 【 #アランストリーム 】魔理沙と妖夢でクリアしたい -東方鬼形獣-【ホロスターズ/アルランディス】
-UID:eaT45ysHmBg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#2【ムジュラの仮面】ほぼ初見ムジュラ！冒険が今始まる…！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=wjxFIaf5QEU
-DURATION:PT2H
-DTSTART:20200511T040000Z
-SUMMARY:🍷夕刻ロベル: #2【ムジュラの仮面】ほぼ初見ムジュラ！冒険が今始まる…！！【ホロスターズ/夕刻ロベル】
-UID:wjxFIaf5QEU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【もじぴったんアンコール】有り余った語彙力を開放するとき…！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=03gC539TTFw
@@ -102,13 +74,6 @@ SUMMARY:🎸奏手イヅル: 企画で使う罰ゲームをみんなで考えよ
 UID:64j3Vfe7qCY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Overcooked!2】TriNero、上手にお料理出せるかな？【ホロスターズ/影山シエン】\nhttps://www.youtube.com/watch?v=TmmpjvItRsM
-DURATION:PT2H
-DTSTART:20200511T120000Z
-SUMMARY:影山シエン: 【Overcooked!2】TriNero、上手にお料理出せるかな？【ホロスターズ/影山シエン】
-UID:TmmpjvItRsM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ガンジョン】ロケハンの時点で神ゲー確定！スタイリッシュに決めますっ😤【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=CcluNNEyCCM
 DURATION:PT2H
 DTSTART:20200512T140000Z
@@ -121,13 +86,6 @@ DURATION:PT2H
 DTSTART:20200512T031500Z
 SUMMARY:🦔💨岸堂天真: 【DBD】調子に乗ったサバイバーたちを分からせにいく。【岸堂天真/ホロスターズ】
 UID:PCeIvRuF-lY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【斑鳩】激ムズSTG、目指せ３面突破！😣【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=lBta6QMg3y0
-DURATION:PT2H
-DTSTART:20200511T140000Z
-SUMMARY:月下カオル: 【斑鳩】激ムズSTG、目指せ３面突破！😣【月下カオル/ホロスターズ】
-UID:lBta6QMg3y0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#3【ぼくらは カセキホリダー】戦わなくていい 掘らせろ【奏手イヅル】\nhttps://www.youtube.com/watch?v=P5SwGdyNT4w
@@ -144,34 +102,6 @@ SUMMARY:🎸奏手イヅル: 企画で使う罰ゲームをみんなで考えよ
 UID:RDKIQUGg714
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロプロDBD】先輩と保険医と騎士とお花【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=snhJIZP7Vhk
-DURATION:PT2H
-DTSTART:20200511T120000Z
-SUMMARY:🌺花咲みやび: 【#ホロプロDBD】先輩と保険医と騎士とお花【花咲みやび/ホロスターズ】
-UID:snhJIZP7Vhk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロプロDBD】もう暗黒騎士とは呼ばせない。全員を守る至高の騎士になる！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=01arV9lUmOg
-DURATION:PT2H
-DTSTART:20200511T120000Z
-SUMMARY:🦔💨岸堂天真: 【#ホロプロDBD】もう暗黒騎士とは呼ばせない。全員を守る至高の騎士になる！！【岸堂天真/ホロスターズ】
-UID:01arV9lUmOg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:荒咬オウガとみんなの歌　【とおりゃんせ】\nhttps://www.youtube.com/watch?v=HS-3pcn2tE8
-DURATION:PT2H
-DTSTART:20200510T182248Z
-SUMMARY:荒咬オウガ: 荒咬オウガとみんなの歌　【とおりゃんせ】
-UID:HS-3pcn2tE8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【晩酌雑談】のんびりお酒を飲みながら喋ろーや！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=NloHV6YLj3E
-DURATION:PT2H
-DTSTART:20200511T110000Z
-SUMMARY:🍷夕刻ロベル: 【晩酌雑談】のんびりお酒を飲みながら喋ろーや！【ホロスターズ/夕刻ロベル】
-UID:NloHV6YLj3E
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【弾き語り】まったりとしてそれでいて少しもしつこくないそんな歌を歌いたい【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=q1eKpa_nHBs
 DURATION:PT2H
 DTSTART:20200512T060000Z
@@ -186,32 +116,11 @@ SUMMARY:🦔💨岸堂天真: 【#バチボコAPEX】レベル7だけど騎士�
 UID:-17_-xHWLgE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【COFFEETALK】～俺とオマエさんと眠れぬ夜の一杯～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=41YiF5hAY4w
-DURATION:PT2H
-DTSTART:20200510T150000Z
-SUMMARY:荒咬オウガ: 【COFFEETALK】～俺とオマエさんと眠れぬ夜の一杯～【荒咬オウガ/ホロスターズ】
-UID:41YiF5hAY4w
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【マイクラ】TriNeroの拠点を作りたい【ホロスターズ/影山シエン】\nhttps://www.youtube.com/watch?v=OXDIJEwN03Y
 DURATION:PT2H
 DTSTART:20200512T050000Z
 SUMMARY:影山シエン: 【マイクラ】TriNeroの拠点を作りたい【ホロスターズ/影山シエン】
 UID:OXDIJEwN03Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雀魂】さんまの特訓するぞ！！練習付き合ってくれる人おる？【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=s0LIc3gxySA
-DURATION:PT2H
-DTSTART:20200511T060000Z
-SUMMARY:⚙律可: 【雀魂】さんまの特訓するぞ！！練習付き合ってくれる人おる？【律可/ホロスターズ】
-UID:s0LIc3gxySA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【シャニマス】朝のシャニ活！幸福論がすんごい！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=u2JLSFin7Wg
-DURATION:PT2H
-DTSTART:20200511T010000Z
-SUMMARY:🍷夕刻ロベル: 【シャニマス】朝のシャニ活！幸福論がすんごい！！【ホロスターズ/夕刻ロベル】
-UID:u2JLSFin7Wg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:『APEX朝カツ』センチネルは〇んちじゃない!!!【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=iQfpHTvWVD0
