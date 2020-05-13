@@ -4,10 +4,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:待機所はこちら～！！！！！！！！！！！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=rTIwFAHUHVc
+DESCRIPTION:オンライン授業の休憩が終わる前にやるホラゲ実況！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=rTIwFAHUHVc
 DURATION:PT2H
-DTSTART:20200514T060000Z
-SUMMARY:❤赤井はあと: 待機所はこちら～！！！！！！！！！！！【ホロライブ/赤井はあと】
+DTSTART:20200514T030000Z
+SUMMARY:❤赤井はあと: オンライン授業の休憩が終わる前にやるホラゲ実況！【ホロライブ/赤井はあと】
 UID:rTIwFAHUHVc
 END:VEVENT
 BEGIN:VEVENT
@@ -375,6 +375,13 @@ SUMMARY:🐉桐生ココ: 【#桐生ココ】あさココLIVE100回目ニュー�
 UID:53dadu7rfJo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Hollow Knight】深夜？早朝まったり。#3【#常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=GJO6RYolDIc
+DURATION:PT2H
+DTSTART:20200513T184500Z
+SUMMARY:👾常闇トワ: 【Hollow Knight】深夜？早朝まったり。#3【#常闇トワ/ホロライブ】
+UID:GJO6RYolDIc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】シーズン5はじまります！スタートダッシュ！【白上フブキ/夏色まつり】\nhttps://www.youtube.com/watch?v=akTHtRPRjIE
 DURATION:PT2H
 DTSTART:20200512T163000Z
@@ -408,6 +415,13 @@ DURATION:PT2H
 DTSTART:20200513T030000Z
 SUMMARY:💋癒月ちょこ: 【学園ハンサム】悪魔よりも次元が斜め上を行く顎アウトロー教師攻略！【ホロライブ/癒月ちょこ】
 UID:2CZwwJAiBXg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【深夜廻】ハーフエルフと行く深夜の夜廻りツアー【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=0dAt-JNSp9Y
+DURATION:PT2H
+DTSTART:20200513T150000Z
+SUMMARY:🔥不知火フレア: 【深夜廻】ハーフエルフと行く深夜の夜廻りツアー【ホロライブ/不知火フレア】
+UID:0dAt-JNSp9Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】夏色吹雪のシーズン５に突撃放送！！！【#夏色吹雪】\nhttps://www.youtube.com/watch?v=A4tbKtmiwGQ
