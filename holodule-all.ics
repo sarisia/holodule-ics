@@ -25,18 +25,18 @@ SUMMARY:❤赤井はあと: 【悲報】赤井はあと、寝起き声がブサ�
 UID:1leLuTVOYRU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【クロノ・トリガー】廃工場の研究所へ・・・時空の歪みの大冒険！！！【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=7HP8XRUfqBM
-DURATION:PT2H
-DTSTART:20200513T050000Z
-SUMMARY:💫天音かなた: 【クロノ・トリガー】廃工場の研究所へ・・・時空の歪みの大冒険！！！【天音かなた/ホロライブ4期生】
-UID:7HP8XRUfqBM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ドラクエ5】新メンバー加入の儀！ブラウン、涙は見せるな。ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=LqTQ85TvjyI
 DURATION:PT2H
 DTSTART:20200513T133000Z
 SUMMARY:👯兎田ぺこら: 【ドラクエ5】新メンバー加入の儀！ブラウン、涙は見せるな。ぺこ！【ホロライブ/兎田ぺこら】
 UID:LqTQ85TvjyI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【クロノ・トリガー】廃工場の研究所へ・・・時空の歪みの大冒険！！！【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=7HP8XRUfqBM
+DURATION:PT2H
+DTSTART:20200513T050000Z
+SUMMARY:💫天音かなた: 【クロノ・トリガー】廃工場の研究所へ・・・時空の歪みの大冒険！！！【天音かなた/ホロライブ4期生】
+UID:7HP8XRUfqBM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】行くぞ新シーズン！めちゃ環境変わったってホントかな！？【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=fMQJArKw_FI
@@ -277,13 +277,6 @@ SUMMARY:🌲大神ミオ: 人生最大の修羅場を逃げまくれ！！！！
 UID:GRg-pJ9QiTw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【もじぴったんアンコール】朝活もじぴったん！語彙力を更に向上させ、アイマスステージにも挑むのであった…！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=6fEzNRc2umk
-DURATION:PT2H
-DTSTART:20200514T010000Z
-SUMMARY:🍷夕刻ロベル: 【もじぴったんアンコール】朝活もじぴったん！語彙力を更に向上させ、アイマスステージにも挑むのであった…！【ホロスターズ/夕刻ロベル】
-UID:6fEzNRc2umk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】ガチャしたいよねぇ！スパレジェ欲しいよねぇ！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=B3s0229UjOA
 DURATION:PT2H
 DTSTART:20200514T090000Z
@@ -291,11 +284,25 @@ SUMMARY:🤖ロボ子さん: 【APEX】ガチャしたいよねぇ！スパレ�
 UID:B3s0229UjOA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【もじぴったんアンコール】朝活もじぴったん！語彙力を更に向上させ、アイマスステージにも挑むのであった…！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=6fEzNRc2umk
+DURATION:PT2H
+DTSTART:20200514T010000Z
+SUMMARY:🍷夕刻ロベル: 【もじぴったんアンコール】朝活もじぴったん！語彙力を更に向上させ、アイマスステージにも挑むのであった…！【ホロスターズ/夕刻ロベル】
+UID:6fEzNRc2umk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#4【マイクラ黄昏の森】突撃！となりのお城探検！✨【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=I6DbAjVZSrk
 DURATION:PT2H
 DTSTART:20200513T080000Z
 SUMMARY:🌸さくらみこ: #4【マイクラ黄昏の森】突撃！となりのお城探検！✨【ホロライブ/さくらみこ】
 UID:I6DbAjVZSrk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【29万人記念】お肉(29)＆お酒で乾杯✨宴だあああああ！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=vlBX01qPIk0
+DURATION:PT2H
+DTSTART:20200513T140000Z
+SUMMARY:⚔白銀ノエル: 【29万人記念】お肉(29)＆お酒で乾杯✨宴だあああああ！【白銀ノエル/ホロライブ】
+UID:vlBX01qPIk0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PS4版ANUBIS】あの名作アクションゲーをやるぞ！【ホロスターズ/影山シエン】\nhttps://www.youtube.com/watch?v=LGYRmrzMbyA
@@ -310,13 +317,6 @@ DURATION:PT2H
 DTSTART:20200513T130000Z
 SUMMARY:🚑大空スバル: 【DM雑談】ド田舎あるある語ろうぜ【ホロライブ/大空スバル】
 UID:zNgj07HR4Bw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【29万人記念】お肉(29)＆お酒で乾杯✨宴だあああああ！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=vlBX01qPIk0
-DURATION:PT2H
-DTSTART:20200513T140000Z
-SUMMARY:⚔白銀ノエル: 【29万人記念】お肉(29)＆お酒で乾杯✨宴だあああああ！【白銀ノエル/ホロライブ】
-UID:vlBX01qPIk0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ロケットリーグ】車サッカー、こそ練だっ😎【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=bmiMLAHurLU
@@ -475,7 +475,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【5/14】お手紙の返事来てるかな？来てなかったら釣りする【あつまれどうぶつの森】\nhttps://www.youtube.com/watch?v=glLLBsaAXx4
 DURATION:PT2H
-DTSTART:20200514T000000Z
+DTSTART:20200514T040000Z
 SUMMARY:🌽白上フブキ: 【5/14】お手紙の返事来てるかな？来てなかったら釣りする【あつまれどうぶつの森】
 UID:glLLBsaAXx4
 END:VEVENT
@@ -534,5 +534,12 @@ DURATION:PT2H
 DTSTART:20200515T130000Z
 SUMMARY:🐉桐生ココ: 【#桐生ココ】激痛永久脱毛もペヤング獄激辛食べてりゃ無痛で余裕説【#ココここ】
 UID:Vd6MDg4AX00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【１７時】配信予定！！！！！！！【ホロライブ/潤羽るしあ】\nhttps://www.youtube.com/watch?v=LkT_IGx-o5A
+DURATION:PT2H
+DTSTART:20200514T080000Z
+SUMMARY:🦋潤羽るしあ: 【１７時】配信予定！！！！！！！【ホロライブ/潤羽るしあ】
+UID:LkT_IGx-o5A
 END:VEVENT
 END:VCALENDAR
