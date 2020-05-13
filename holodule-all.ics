@@ -4,10 +4,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:オンライン授業の休憩が終わる前にやるホラゲ実況！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=rTIwFAHUHVc
+DESCRIPTION:【オンライン授業までに】クリアしてみせるホラゲ！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=rTIwFAHUHVc
 DURATION:PT2H
 DTSTART:20200514T030000Z
-SUMMARY:❤赤井はあと: オンライン授業の休憩が終わる前にやるホラゲ実況！【ホロライブ/赤井はあと】
+SUMMARY:❤赤井はあと: 【オンライン授業までに】クリアしてみせるホラゲ！【ホロライブ/赤井はあと】
 UID:rTIwFAHUHVc
 END:VEVENT
 BEGIN:VEVENT
@@ -114,6 +114,13 @@ DURATION:PT2H
 DTSTART:20200512T173000Z
 SUMMARY:🎭アステル・レダ: 『APEXシーズン5』ローバでバーロー！！！犯人はお前だ。【ホロスターズ/アステル】
 UID:fvCpQOX5y6E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌ってみた】ちゃんと歌いきれ船長【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=zAJfvQhMbTI
+DURATION:PT2H
+DTSTART:20200513T120000Z
+SUMMARY:🏴☠宝鐘マリン: 【歌ってみた】ちゃんと歌いきれ船長【ホロライブ/宝鐘マリン】
+UID:zAJfvQhMbTI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARK】ちょこ先生と♥ロックドレイク卵孵化して大ジャンプ！！！【癒月ちょこ＆天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=43yQGVkNj6c
@@ -515,11 +522,11 @@ SUMMARY:🐿Risu: 【hololiveID】#2 Coffee Talk with Risu  - Bahasa Indonesia /
 UID:oeL_axkYSWw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】ちゃんと歌いきれ船長【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=zAJfvQhMbTI
+DESCRIPTION:なぜか集まったこの四人・・・？アルチキ対決だあああ！【ホロライブ/赤井はあと/角巻わため/大神ミオ/友人A】\nhttps://www.youtube.com/watch?v=B6P-W_ogpH4
 DURATION:PT2H
-DTSTART:20200513T120000Z
-SUMMARY:🏴☠宝鐘マリン: 【歌ってみた】ちゃんと歌いきれ船長【ホロライブ/宝鐘マリン】
-UID:zAJfvQhMbTI
+DTSTART:20200514T120000Z
+SUMMARY:❤赤井はあと: なぜか集まったこの四人・・・？アルチキ対決だあああ！【ホロライブ/赤井はあと/角巻わため/大神ミオ/友人A】
+UID:B6P-W_ogpH4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#桐生ココ】激痛永久脱毛もペヤング獄激辛食べてりゃ無痛で余裕説【#ココここ】\nhttps://www.youtube.com/watch?v=Vd6MDg4AX00
