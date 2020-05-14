@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Parody Cover】Is You Is Or Is You Ain't My Baby - Tom and Jerry Parody【Ayunda Risu】\nhttps://www.youtube.com/watch?v=ZfoUh2-1c9Q
-DURATION:PT2H
-DTSTART:20200514T120242Z
-SUMMARY:🐿Risu: 【Parody Cover】Is You Is Or Is You Ain't My Baby - Tom and Jerry Parody【Ayunda Risu】
-UID:ZfoUh2-1c9Q
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【iorials #2】COLORS?! PRIMARY?! PASTELS?! 【hololive-ID】\nhttps://www.youtube.com/watch?v=peIpqxvExtg
 DURATION:PT2H
 DTSTART:20200515T080000Z
@@ -30,5 +23,19 @@ DURATION:PT2H
 DTSTART:20200514T080000Z
 SUMMARY:🐿Risu: 【hololiveID】#2 Coffee Talk with Risu  - Bahasa Indonesia / English Stream【Ayunda Risu】
 UID:oeL_axkYSWw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Parody Cover】Is You Is Or Is You Ain't My Baby - Tom and Jerry Parody【Ayunda Risu】\nhttps://www.youtube.com/watch?v=ZfoUh2-1c9Q
+DURATION:PT2H
+DTSTART:20200514T120242Z
+SUMMARY:🐿Risu: 【Parody Cover】Is You Is Or Is You Ain't My Baby - Tom and Jerry Parody【Ayunda Risu】
+UID:ZfoUh2-1c9Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Alien Alien / エイリアンエイリアン Cover by Airani Iofifteen / イオフィ\nhttps://www.youtube.com/watch?v=jaf_SBcDhFU
+DURATION:PT2H
+DTSTART:20200515T070000Z
+SUMMARY:🎨Iofi: Alien Alien / エイリアンエイリアン Cover by Airani Iofifteen / イオフィ
+UID:jaf_SBcDhFU
 END:VEVENT
 END:VCALENDAR
