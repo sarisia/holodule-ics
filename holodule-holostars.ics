@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【もじぴったんアンコール】朝活もじぴったん！語彙力を更に向上させ、アイマスステージにも挑むのであった…！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=6fEzNRc2umk
-DURATION:PT2H
-DTSTART:20200514T010000Z
-SUMMARY:🍷夕刻ロベル: 【もじぴったんアンコール】朝活もじぴったん！語彙力を更に向上させ、アイマスステージにも挑むのであった…！【ホロスターズ/夕刻ロベル】
-UID:6fEzNRc2umk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#アロハリ】崩壊するほど仲が良い4人組のTricky Towers【ホロスターズ】\nhttps://www.youtube.com/watch?v=ZS0Q1WJ2NO4
 DURATION:PT2H
 DTSTART:20200514T110000Z
@@ -39,6 +32,13 @@ SUMMARY:🍷夕刻ロベル: 【モンスターファーム2】シャニマス�
 UID:nvormlAFk7U
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ドキ文】ドキドキ文芸部初見プレイ！【ホロスターズ/影山シエン】\nhttps://www.youtube.com/watch?v=uLQM4RhDgX0
+DURATION:PT2H
+DTSTART:20200513T130000Z
+SUMMARY:影山シエン: 【ドキ文】ドキドキ文芸部初見プレイ！【ホロスターズ/影山シエン】
+UID:uLQM4RhDgX0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【COFFEETALK】～魔人が淹れる夜更けの一杯～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=i8Y_DILD5f0
 DURATION:PT2H
 DTSTART:20200512T150000Z
@@ -53,18 +53,18 @@ SUMMARY:🦔💨岸堂天真: 【Ark Genesis】仲間の命を救うイノシシ
 UID:XTpOW-dNLb8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【飲んで雑談】～俺達とらい危族で飲んでます～【TriNero/ホロスターズ】\nhttps://www.youtube.com/watch?v=rE1Rw4Hq7yY
-DURATION:PT2H
-DTSTART:20200514T120000Z
-SUMMARY:荒咬オウガ: 【飲んで雑談】～俺達とらい危族で飲んでます～【TriNero/ホロスターズ】
-UID:rE1Rw4Hq7yY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】～オマエさんたちを眠りに誘う眠トーク～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=97n02grbqTY
 DURATION:PT2H
 DTSTART:20200513T150000Z
 SUMMARY:荒咬オウガ: 【雑談】～オマエさんたちを眠りに誘う眠トーク～【荒咬オウガ/ホロスターズ】
 UID:97n02grbqTY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【飲んで雑談】～俺達とらい危族で飲んでます～【TriNero/ホロスターズ】\nhttps://www.youtube.com/watch?v=rE1Rw4Hq7yY
+DURATION:PT2H
+DTSTART:20200514T120000Z
+SUMMARY:荒咬オウガ: 【飲んで雑談】～俺達とらい危族で飲んでます～【TriNero/ホロスターズ】
+UID:rE1Rw4Hq7yY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【もじぴったんアンコール】朝活もじぴったん！寝起きの頭は耐えられるのか…！？【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=A1N5cW4qiYk
@@ -81,18 +81,18 @@ SUMMARY:月下カオル: 【Minecraft】家を作る下準備…エレベータ�
 UID:12qnQjGSh2k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【シャニマス】GRAD初挑戦！財布ない透も引きたいんや！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=j-cdDmxe42I
-DURATION:PT2H
-DTSTART:20200513T120000Z
-SUMMARY:🍷夕刻ロベル: 【シャニマス】GRAD初挑戦！財布ない透も引きたいんや！！【ホロスターズ/夕刻ロベル】
-UID:j-cdDmxe42I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雀魂】さんまの特訓するぞ②！！練習付き合ってくれる人対よろ！【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=w2U_tJjGPq0
 DURATION:PT2H
 DTSTART:20200514T060000Z
 SUMMARY:⚙律可: 【雀魂】さんまの特訓するぞ②！！練習付き合ってくれる人対よろ！【律可/ホロスターズ】
 UID:w2U_tJjGPq0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【シャニマス】GRAD初挑戦！財布ない透も引きたいんや！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=j-cdDmxe42I
+DURATION:PT2H
+DTSTART:20200513T120000Z
+SUMMARY:🍷夕刻ロベル: 【シャニマス】GRAD初挑戦！財布ない透も引きたいんや！！【ホロスターズ/夕刻ロベル】
+UID:j-cdDmxe42I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雀魂】雀力を鍛えつつ雑談【ホロスターズ/影山シエン】\nhttps://www.youtube.com/watch?v=m0a1krtseMU
