@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Rainbow Six Siege】音が大事なこのゲーム…！頑張りま🌈【#常闇トワ/#ホロライブ】\nhttps://www.youtube.com/watch?v=2afJkYWU2_s
-DURATION:PT2H
-DTSTART:20200516T140000Z
-SUMMARY:👾常闇トワ: 【Rainbow Six Siege】音が大事なこのゲーム…！頑張りま🌈【#常闇トワ/#ホロライブ】
-UID:2afJkYWU2_s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ドラクエⅤ】ぎょええーーーーっっ！！！！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=avPRckQZ524
 DURATION:PT2H
 DTSTART:20200516T091000Z
@@ -23,13 +16,6 @@ DURATION:PT2H
 DTSTART:20200515T150000Z
 SUMMARY:荒咬オウガ: 【COFFEETALK】～今夜もしっとり営業中～【荒咬オウガ/ホロスターズ】
 UID:5d1ij59BVeI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#みこココ】軽率にABERRATIONボスを倒しに行く【#とまらないARK】\nhttps://www.youtube.com/watch?v=IPBuOzdatf4
-DURATION:PT2H
-DTSTART:20200516T120000Z
-SUMMARY:🐉桐生ココ: 【#みこココ】軽率にABERRATIONボスを倒しに行く【#とまらないARK】
-UID:IPBuOzdatf4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【深夜廻】初見プレイ！夜廻がとても素敵だったので今回もきっと泣く...！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=BpysbLM9kW8
@@ -121,6 +107,13 @@ DURATION:PT2H
 DTSTART:20200516T010000Z
 SUMMARY:🍷夕刻ロベル: 【朝活雑談】朝は喋るに限る！！【ホロスターズ/夕刻ロベル】
 UID:FTAHqtuwKqA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Ark】緊急ゲリラ！！BOSS下見で一般通過ムキロゼ【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=EKwXy_5QZVY
+DURATION:PT2H
+DTSTART:20200516T123000Z
+SUMMARY:🍎アキロゼ: 【Ark】緊急ゲリラ！！BOSS下見で一般通過ムキロゼ【ホロライブ/アキロゼ】
+UID:EKwXy_5QZVY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】第１３回！わためぇ Night Fever!! 【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=8r-FiAm8AK4
@@ -382,11 +375,11 @@ SUMMARY:💋癒月ちょこ: 【グランド・セフト・オートV】へな�
 UID:YDifiGmMVyM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ペーパーマリオRPG】紙って便利だよね〜#7【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=pqCBbYUHYWo
+DESCRIPTION:【Ark】一般通過ムキロゼの完全敗北反省会【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=X_bVBsgqkRg
 DURATION:PT2H
-DTSTART:20200516T120000Z
-SUMMARY:🍙猫又おかゆ: 【ペーパーマリオRPG】紙って便利だよね〜#7【ホロライブ/猫又おかゆ】
-UID:pqCBbYUHYWo
+DTSTART:20200516T150000Z
+SUMMARY:🍎アキロゼ: 【Ark】一般通過ムキロゼの完全敗北反省会【ホロライブ/アキロゼ】
+UID:X_bVBsgqkRg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:※不具合【ダクソⅢ】脳筋女騎士だけど激ムズと噂のDLCの世界に挑む！！！！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=POnWQA9Q2Qo
@@ -424,17 +417,17 @@ SUMMARY:🍬姫森ルーナ: 【APEX】#ぽてとりお でハチャメチャ大
 UID:tNIxR8iLltY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Ark】一般通過ムキロゼの完全敗北反省会【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=X_bVBsgqkRg
-DURATION:PT2H
-DTSTART:20200516T150000Z
-SUMMARY:🍎アキロゼ: 【Ark】一般通過ムキロゼの完全敗北反省会【ホロライブ/アキロゼ】
-UID:X_bVBsgqkRg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【脱足臭!!劇的ビフォーアフター】人生を変えたい、そう決意した。【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=baRgVvRS-xY
 DURATION:PT2H
 DTSTART:20200517T080000Z
 SUMMARY:❤赤井はあと: 【脱足臭!!劇的ビフォーアフター】人生を変えたい、そう決意した。【ホロライブ/赤井はあと】
 UID:baRgVvRS-xY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 APEX Legends 】新シーズンdeチャンピオンになるまで耐久配信！【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=0QMnlRlbkgo
+DURATION:PT2H
+DTSTART:20200516T060000Z
+SUMMARY:🍕アルランディス: 【 APEX Legends 】新シーズンdeチャンピオンになるまで耐久配信！【ホロスターズ/アルランディス】
+UID:0QMnlRlbkgo
 END:VEVENT
 END:VCALENDAR
