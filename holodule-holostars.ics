@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【メタギア】おらおらおら～～～私がカオルじゃ～～～い！😤【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=YMLtwCyKUF4
+DURATION:PT2H
+DTSTART:20200518T140000Z
+SUMMARY:月下カオル: 【メタギア】おらおらおら～～～私がカオルじゃ～～～い！😤【月下カオル/ホロスターズ】
+UID:YMLtwCyKUF4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【シャニマス】あ、20歳児や！夏葉さんをプロデュースするで！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=_1hSluu4E9o
 DURATION:PT2H
 DTSTART:20200519T010000Z
@@ -18,18 +25,25 @@ SUMMARY:🍷夕刻ロベル: #5【ムジュラの仮面】ほぼ初見ムジュ�
 UID:Ku2e6xGVpbg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【弾き語り】昼かつって書くととんかつ食べたくなる【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=YfZslkYkkDs
-DURATION:PT2H
-DTSTART:20200519T060000Z
-SUMMARY:⚙律可: 【弾き語り】昼かつって書くととんかつ食べたくなる【律可/ホロスターズ】
-UID:YfZslkYkkDs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【テトリス９９】リスナー参加型！アイワナデータ消えて心ぽっきりロイド【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=4zHZ3-vlBhE
 DURATION:PT2H
 DTSTART:20200518T110000Z
 SUMMARY:⚙律可: 【テトリス９９】リスナー参加型！アイワナデータ消えて心ぽっきりロイド【律可/ホロスターズ】
 UID:4zHZ3-vlBhE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ロケットリーグ】終わったらシャワーしないとね…汗かくだろうしね…🚿【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=zz3RDF5L9nc
+DURATION:PT2H
+DTSTART:20200518T230000Z
+SUMMARY:月下カオル: 【ロケットリーグ】終わったらシャワーしないとね…汗かくだろうしね…🚿【月下カオル/ホロスターズ】
+UID:zz3RDF5L9nc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【弾き語り】昼かつって書くととんかつ食べたくなる【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=YfZslkYkkDs
+DURATION:PT2H
+DTSTART:20200519T060000Z
+SUMMARY:⚙律可: 【弾き語り】昼かつって書くととんかつ食べたくなる【律可/ホロスターズ】
+UID:YfZslkYkkDs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 APEX Legends 】ミラージュと共に戦場をかける(時々コースティック)【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=YpdNJwgJuT8
