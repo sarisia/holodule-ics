@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【メタギア】おらおらおら～～～私がカオルじゃ～～～い！😤【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=YMLtwCyKUF4
-DURATION:PT2H
-DTSTART:20200518T140000Z
-SUMMARY:月下カオル: 【メタギア】おらおらおら～～～私がカオルじゃ～～～い！😤【月下カオル/ホロスターズ】
-UID:YMLtwCyKUF4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#5【ムジュラの仮面】ほぼ初見ムジュラ！海洋恐怖症の俺は海に挑めるのか…！？【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=Ku2e6xGVpbg
 DURATION:PT2H
 DTSTART:20200519T040000Z
 SUMMARY:🍷夕刻ロベル: #5【ムジュラの仮面】ほぼ初見ムジュラ！海洋恐怖症の俺は海に挑めるのか…！？【ホロスターズ/夕刻ロベル】
 UID:Ku2e6xGVpbg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メタギア】おらおらおら～～～私がカオルじゃ～～～い！😤【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=YMLtwCyKUF4
+DURATION:PT2H
+DTSTART:20200518T140000Z
+SUMMARY:月下カオル: 【メタギア】おらおらおら～～～私がカオルじゃ～～～い！😤【月下カオル/ホロスターズ】
+UID:YMLtwCyKUF4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【弾き語り】昼かつって書くととんかつ食べたくなる【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=YfZslkYkkDs
@@ -74,18 +74,18 @@ SUMMARY:🎭アステル・レダ: 『APEX』100キルするまでAPEXしか勝�
 UID:UXrA5h7Vd3w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】月曜お疲れ様！今日も生きててえらい！【ホロスターズ/影山シエン】\nhttps://www.youtube.com/watch?v=ZwHWTppwU3g
-DURATION:PT2H
-DTSTART:20200518T130000Z
-SUMMARY:影山シエン: 【雑談】月曜お疲れ様！今日も生きててえらい！【ホロスターズ/影山シエン】
-UID:ZwHWTppwU3g
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雀魂】初心者夕刻ロベル、麻雀修行【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=JjCi0NxkD5A
 DURATION:PT2H
 DTSTART:20200517T060000Z
 SUMMARY:🍷夕刻ロベル: 【雀魂】初心者夕刻ロベル、麻雀修行【ホロスターズ/夕刻ロベル】
 UID:JjCi0NxkD5A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】月曜お疲れ様！今日も生きててえらい！【ホロスターズ/影山シエン】\nhttps://www.youtube.com/watch?v=ZwHWTppwU3g
+DURATION:PT2H
+DTSTART:20200518T130000Z
+SUMMARY:影山シエン: 【雑談】月曜お疲れ様！今日も生きててえらい！【ホロスターズ/影山シエン】
+UID:ZwHWTppwU3g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【東方ロストワード 】河城にとりの昇格がしたい【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=HKAoX8p-8iI
@@ -100,6 +100,13 @@ DURATION:PT2H
 DTSTART:20200517T010000Z
 SUMMARY:🍷夕刻ロベル: 【もじぴったんアンコール】『夕刻』って文字を作りたい！！【ホロスターズ/夕刻ロベル】
 UID:qHLlN6Yi9xg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【テトリス９９】リスナー参加型！アイワナデータ消えて心ぽっきりロイド【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=4zHZ3-vlBhE
+DURATION:PT2H
+DTSTART:20200518T110000Z
+SUMMARY:⚙律可: 【テトリス９９】リスナー参加型！アイワナデータ消えて心ぽっきりロイド【律可/ホロスターズ】
+UID:4zHZ3-vlBhE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ごめん洞窟みつけちゃった…探検した～～～～～い！！😊【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=0fAqi1praV0
