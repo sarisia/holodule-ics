@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【メタギア】おらおらおら～～～私がカオルじゃ～～～い！😤【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=YMLtwCyKUF4
-DURATION:PT2H
-DTSTART:20200518T140000Z
-SUMMARY:月下カオル: 【メタギア】おらおらおら～～～私がカオルじゃ～～～い！😤【月下カオル/ホロスターズ】
-UID:YMLtwCyKUF4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#5【ムジュラの仮面】ほぼ初見ムジュラ！海洋恐怖症の俺は海に挑めるのか…！？【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=Ku2e6xGVpbg
 DURATION:PT2H
 DTSTART:20200519T040000Z
 SUMMARY:🍷夕刻ロベル: #5【ムジュラの仮面】ほぼ初見ムジュラ！海洋恐怖症の俺は海に挑めるのか…！？【ホロスターズ/夕刻ロベル】
 UID:Ku2e6xGVpbg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メタギア】おらおらおら～～～私がカオルじゃ～～～い！😤【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=YMLtwCyKUF4
+DURATION:PT2H
+DTSTART:20200518T140000Z
+SUMMARY:月下カオル: 【メタギア】おらおらおら～～～私がカオルじゃ～～～い！😤【月下カオル/ホロスターズ】
+UID:YMLtwCyKUF4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【弾き語り】昼かつって書くととんかつ食べたくなる【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=YfZslkYkkDs
@@ -32,6 +32,13 @@ SUMMARY:荒咬オウガ: 【ピカチュウげんきでちゅう】～魔人の�
 UID:k9SO_NfIzPs
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【シャニマス】この編成でW.I.N.G優勝出来るのか…！？朝のシャニ活チャレンジ！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=xFEynGUoo6E
+DURATION:PT2H
+DTSTART:20200520T010000Z
+SUMMARY:🍷夕刻ロベル: 【シャニマス】この編成でW.I.N.G優勝出来るのか…！？朝のシャニ活チャレンジ！【ホロスターズ/夕刻ロベル】
+UID:xFEynGUoo6E
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【DBD】お昼ごはんの時間だからサバイバーいただきます!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=Q--KutQ74QA
 DURATION:PT2H
 DTSTART:20200519T030000Z
@@ -44,6 +51,13 @@ DURATION:PT2H
 DTSTART:20200518T040000Z
 SUMMARY:🍷夕刻ロベル: #4【ムジュラの仮面】神殿攻略！お昼から謎解きやでぇ…！【ホロスターズ/夕刻ロベル】
 UID:5L4Th4NlUjo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【お悩み相談】みんなの悩み？ばっちこ～～～～～～い！🙋‍♀️【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=HL5M8LoUK1M
+DURATION:PT2H
+DTSTART:20200519T140000Z
+SUMMARY:月下カオル: 【お悩み相談】みんなの悩み？ばっちこ～～～～～～い！🙋‍♀️【月下カオル/ホロスターズ】
+UID:HL5M8LoUK1M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ツイステ】野郎がプレイするツイステッドワンダーランド#2【ホロスターズ/影山シエン】\nhttps://www.youtube.com/watch?v=Qyj8AgTivpw
@@ -107,6 +121,13 @@ DURATION:PT2H
 DTSTART:20200519T110000Z
 SUMMARY:🍷夕刻ロベル: 【晩酌雑談】火曜日の晩酌雑談！美味しいレモンサワーを飲みながらぐだぐだ喋るんや！【ホロスターズ/夕刻ロベル】
 UID:15sZf43B3zQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【お絵森】絶望？！絵心なし３人のお絵描きの森🎨【ホロスターズ/月下カオル・影山シエン・荒咬オウガ】\nhttps://www.youtube.com/watch?v=mdk0ZPdYuHM
+DURATION:PT2H
+DTSTART:20200519T120000Z
+SUMMARY:月下カオル: 【お絵森】絶望？！絵心なし３人のお絵描きの森🎨【ホロスターズ/月下カオル・影山シエン・荒咬オウガ】
+UID:mdk0ZPdYuHM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【COFFEETALK】～夜陰に溶ける一杯のコーヒー～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=YSEbXYZlnnU
