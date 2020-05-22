@@ -123,18 +123,11 @@ SUMMARY:🍷夕刻ロベル: 【シャニマス】リベンジや。SRの千雪�
 UID:cFxQYcKTcJ8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#桐生ココ】あさココLIVEニュース！5月21日【#ココここ】\nhttps://www.youtube.com/watch?v=KBhqnCEY5UY
+DESCRIPTION:全然ビビらない無敵VTuberのサクサクげぼやばホラーInfliction\nhttps://www.youtube.com/watch?v=rvHz5hMsycE
 DURATION:PT2H
-DTSTART:20200520T210000Z
-SUMMARY:🐉桐生ココ: 【#桐生ココ】あさココLIVEニュース！5月21日【#ココここ】
-UID:KBhqnCEY5UY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【もじぴったん】語彙力バトル！勝ったほうが勝ち！【姫森ルーナ/夏色まつり】\nhttps://www.youtube.com/watch?v=1bwCPxTAjhw
-DURATION:PT2H
-DTSTART:20200521T100000Z
-SUMMARY:🏮夏色まつり: 【もじぴったん】語彙力バトル！勝ったほうが勝ち！【姫森ルーナ/夏色まつり】
-UID:1bwCPxTAjhw
+DTSTART:20200522T150000Z
+SUMMARY:🐉桐生ココ: 全然ビビらない無敵VTuberのサクサクげぼやばホラーInfliction
+UID:rvHz5hMsycE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】俺たちはクールに勝つぜ。逃げろおおおおおおおお！！！【天神子兎音/夏色まつり】\nhttps://www.youtube.com/watch?v=KfzT1h_eshw
@@ -151,11 +144,18 @@ SUMMARY:⚔白銀ノエル: 【歌枠】幼稚園児のおうた！！【白銀�
 UID:iiL20Du32ss
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:全然ビビらない無敵VTuberのサクサクげぼやばホラーInfliction\nhttps://www.youtube.com/watch?v=rvHz5hMsycE
+DESCRIPTION:【#桐生ココ】あさココLIVEニュース！5月21日【#ココここ】\nhttps://www.youtube.com/watch?v=KBhqnCEY5UY
 DURATION:PT2H
-DTSTART:20200522T150000Z
-SUMMARY:🐉桐生ココ: 全然ビビらない無敵VTuberのサクサクげぼやばホラーInfliction
-UID:rvHz5hMsycE
+DTSTART:20200520T210000Z
+SUMMARY:🐉桐生ココ: 【#桐生ココ】あさココLIVEニュース！5月21日【#ココここ】
+UID:KBhqnCEY5UY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【もじぴったん】語彙力バトル！勝ったほうが勝ち！【姫森ルーナ/夏色まつり】\nhttps://www.youtube.com/watch?v=1bwCPxTAjhw
+DURATION:PT2H
+DTSTART:20200521T100000Z
+SUMMARY:🏮夏色まつり: 【もじぴったん】語彙力バトル！勝ったほうが勝ち！【姫森ルーナ/夏色まつり】
+UID:1bwCPxTAjhw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【作業用bgm】へなちょこ悪魔のARK生活40日目！まったり新個体厳選！！！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=AW3WddVrmvY
@@ -347,18 +347,18 @@ SUMMARY:⚓湊あくあ: 【すやすや】絶対にねむくならないわた�
 UID:Em8BloQQbN0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】近況など！話します💪🌰💪【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=b73ZBzWjitM
-DURATION:PT2H
-DTSTART:20200521T120000Z
-SUMMARY:⚔白銀ノエル: 【雑談】近況など！話します💪🌰💪【白銀ノエル/ホロライブ】
-UID:b73ZBzWjitM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Life is Strange】もし人生をやり直せるなら…？時をかける悪魔誕生？！１日目【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=Zokw26Ife3c
 DURATION:PT2H
 DTSTART:20200522T030000Z
 SUMMARY:💋癒月ちょこ: 【Life is Strange】もし人生をやり直せるなら…？時をかける悪魔誕生？！１日目【ホロライブ/癒月ちょこ】
 UID:Zokw26Ife3c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】近況など！話します💪🌰💪【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=b73ZBzWjitM
+DURATION:PT2H
+DTSTART:20200521T120000Z
+SUMMARY:⚔白銀ノエル: 【雑談】近況など！話します💪🌰💪【白銀ノエル/ホロライブ】
+UID:b73ZBzWjitM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Ark】廃人と行くアベレーション全洞窟！！いっきに攻略しーちゃお！ムキロゼ楽園高校工業科Steampunk Mod【ホロライブ/癒月ちょこ/角巻わためアキロゼ】\nhttps://www.youtube.com/watch?v=xgmnYJWlOxQ
@@ -480,6 +480,13 @@ SUMMARY:🌸さくらみこ: 【GTAV】極悪ちゃれんじ！【ホロライ�
 UID:0g1oSzu1u1I
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Ark】これぞ浪漫！パワードを作る！ムキロゼ楽園高校工業科Steampunk Modその１９【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=gTrznpIZqFQ
+DURATION:PT2H
+DTSTART:20200522T030000Z
+SUMMARY:🍎アキロゼ: 【Ark】これぞ浪漫！パワードを作る！ムキロゼ楽園高校工業科Steampunk Modその１９【ホロライブ/アキロゼ】
+UID:gTrznpIZqFQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#フブキch】パネルでポンクリア耐久放送【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=0gMXhmZkQO0
 DURATION:PT2H
 DTSTART:20200521T120000Z
@@ -515,18 +522,18 @@ SUMMARY:月下カオル: 【究極の釣り】最終決戦！ナマズ釣れる�
 UID:C7tzPUDXSjk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#フブキch】アークナイツ/5章攻略じゃい！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=iFgO-Dqw87g
+DURATION:PT2H
+DTSTART:20200522T110000Z
+SUMMARY:🌽白上フブキ: 【#フブキch】アークナイツ/5章攻略じゃい！【ホロライブ/白上フブキ】
+UID:iFgO-Dqw87g
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【晩酌】バカタレ共と一緒に週末お疲れ様晩酌雑談【#バカタレ共 /ホロライブ】\nhttps://www.youtube.com/watch?v=nrSFem1yFjA
 DURATION:PT2H
 DTSTART:20200522T140000Z
 SUMMARY:🔥不知火フレア: 【晩酌】バカタレ共と一緒に週末お疲れ様晩酌雑談【#バカタレ共 /ホロライブ】
 UID:nrSFem1yFjA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#フブキch】アークナイツ/5章攻略じゃい！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=iFgO-Dqw87g
-DURATION:PT2H
-DTSTART:20200523T110000Z
-SUMMARY:🌽白上フブキ: 【#フブキch】アークナイツ/5章攻略じゃい！【ホロライブ/白上フブキ】
-UID:iFgO-Dqw87g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌番組】わためのうた（５月２２日）【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=U9Zxemnto2Q
