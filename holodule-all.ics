@@ -41,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【初見実況】ニーアオートマタ3日目【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=bv18ednRKsk
 DURATION:PT2H
-DTSTART:20200523T072229Z
+DTSTART:20200523T040000Z
 SUMMARY:🚑大空スバル: 【初見実況】ニーアオートマタ3日目【ホロライブ/大空スバル】
 UID:bv18ednRKsk
 END:VEVENT
@@ -123,18 +123,18 @@ SUMMARY:🏴☠宝鐘マリン: 深夜フリースタイル【ホロライブ/�
 UID:IUG3FxylWMc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:全然ビビらない無敵VTuberのサクサクげぼやばホラーInfliction\nhttps://www.youtube.com/watch?v=rvHz5hMsycE
-DURATION:PT2H
-DTSTART:20200522T150000Z
-SUMMARY:🐉桐生ココ: 全然ビビらない無敵VTuberのサクサクげぼやばホラーInfliction
-UID:rvHz5hMsycE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【hololiveID】#3 Coffee Talk with Risu  - Bahasa Indonesia / English Stream【Ayunda Risu】\nhttps://www.youtube.com/watch?v=uopvLryuTNc
 DURATION:PT2H
 DTSTART:20200522T080000Z
 SUMMARY:🐿Risu: 【hololiveID】#3 Coffee Talk with Risu  - Bahasa Indonesia / English Stream【Ayunda Risu】
 UID:uopvLryuTNc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:全然ビビらない無敵VTuberのサクサクげぼやばホラーInfliction\nhttps://www.youtube.com/watch?v=rvHz5hMsycE
+DURATION:PT2H
+DTSTART:20200522T150000Z
+SUMMARY:🐉桐生ココ: 全然ビビらない無敵VTuberのサクサクげぼやばホラーInfliction
+UID:rvHz5hMsycE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】幼稚園児のおうた！！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=iiL20Du32ss
@@ -165,11 +165,11 @@ SUMMARY:🦔💨岸堂天真: 【Ark Genesis】時は来た。火山の主マグ
 UID:6r7LyNd6mds
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#ココ夏 まつり先輩に教えてもらってゲームレベルアップを目指す！【VTuberの桐生ココ】\nhttps://www.youtube.com/watch?v=LkeTyFXoiG8
+DESCRIPTION:【誕生日カウントダウン】ボクが生まれた日を一緒に過ごしたい！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=jNDjdwyplS8
 DURATION:PT2H
-DTSTART:20200523T130000Z
-SUMMARY:🐉桐生ココ: #ココ夏 まつり先輩に教えてもらってゲームレベルアップを目指す！【VTuberの桐生ココ】
-UID:LkeTyFXoiG8
+DTSTART:20200522T140000Z
+SUMMARY:🤖ロボ子さん: 【誕生日カウントダウン】ボクが生まれた日を一緒に過ごしたい！！【ホロライブ/ロボ子さん】
+UID:jNDjdwyplS8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【splatoon2】誕生日なんでマヨネーズ色に染め上げましょう？？？復活フェス！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=B443tNuW2ro
@@ -179,11 +179,11 @@ SUMMARY:🤖ロボ子さん: 【splatoon2】誕生日なんでマヨネーズ色
 UID:B443tNuW2ro
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【誕生日カウントダウン】ボクが生まれた日を一緒に過ごしたい！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=jNDjdwyplS8
+DESCRIPTION:#ココ夏 まつり先輩に教えてもらってゲームレベルアップを目指す！【VTuberの桐生ココ】\nhttps://www.youtube.com/watch?v=LkeTyFXoiG8
 DURATION:PT2H
-DTSTART:20200522T140000Z
-SUMMARY:🤖ロボ子さん: 【誕生日カウントダウン】ボクが生まれた日を一緒に過ごしたい！！【ホロライブ/ロボ子さん】
-UID:jNDjdwyplS8
+DTSTART:20200523T130000Z
+SUMMARY:🐉桐生ココ: #ココ夏 まつり先輩に教えてもらってゲームレベルアップを目指す！【VTuberの桐生ココ】
+UID:LkeTyFXoiG8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【変な枠・歌枠？？】この世に存在しない曲縛り。【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=ZncKLyeVi7c
@@ -212,13 +212,6 @@ DURATION:PT2H
 DTSTART:20200523T060000Z
 SUMMARY:影山シエン: 【HITMAN】さぁ、暗殺を始めよう【ホロスターズ/影山シエン】
 UID:G-N1WGqQuUo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【まったり雑談】おはようスバル【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=5wF35aQipDA
-DURATION:PT2H
-DTSTART:20200523T010000Z
-SUMMARY:🚑大空スバル: 【まったり雑談】おはようスバル【ホロライブ/大空スバル】
-UID:5wF35aQipDA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【誕生日カウントダウン】ボクが生まれた日を一緒に過ごしたい！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=cXH-pGwDJ2Y
@@ -270,18 +263,18 @@ SUMMARY:🍬姫森ルーナ: 【APEXガチャ】１００連ガチャで神引�
 UID:ddLIHruSPUU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【シャニマス】新ガチャに樹里ど円香！？✨絶対SSR当てるにぇ！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=zu_1sgnGo4o
-DURATION:PT2H
-DTSTART:20200522T090000Z
-SUMMARY:🌸さくらみこ: 【シャニマス】新ガチャに樹里ど円香！？✨絶対SSR当てるにぇ！！！【ホロライブ/さくらみこ】
-UID:zu_1sgnGo4o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:新人VTuber桐生ココ、初めてのガシャ沼。シャニマス白瀬咲耶たんSSR二枚抜きを狙え！！！\nhttps://www.youtube.com/watch?v=lE6MA-RPZu0
 DURATION:PT2H
 DTSTART:20200522T110000Z
 SUMMARY:🐉桐生ココ: 新人VTuber桐生ココ、初めてのガシャ沼。シャニマス白瀬咲耶たんSSR二枚抜きを狙え！！！
 UID:lE6MA-RPZu0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【シャニマス】新ガチャに樹里ど円香！？✨絶対SSR当てるにぇ！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=zu_1sgnGo4o
+DURATION:PT2H
+DTSTART:20200522T090000Z
+SUMMARY:🌸さくらみこ: 【シャニマス】新ガチャに樹里ど円香！？✨絶対SSR当てるにぇ！！！【ホロライブ/さくらみこ】
+UID:zu_1sgnGo4o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GTAV】マフィアのボスが行くGTAV【ホロスターズ/影山シエン】\nhttps://www.youtube.com/watch?v=Qz7mvElYgX0
