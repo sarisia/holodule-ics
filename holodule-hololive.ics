@@ -151,13 +151,6 @@ SUMMARY:🤖ロボ子さん: 【誕生会】本日４歳になったんですが
 UID:Ymy-YgcGbGI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:うたへただけどバラード歌枠やってみる・・・！VTuber/桐生ココ　Coco singing ballad\nhttps://www.youtube.com/watch?v=7A0kDtZ7XhY
-DURATION:PT2H
-DTSTART:20200524T130000Z
-SUMMARY:🐉桐生ココ: うたへただけどバラード歌枠やってみる・・・！VTuber/桐生ココ　Coco singing ballad
-UID:7A0kDtZ7XhY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:エイエンのケチャップになりたいキツネ。【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=EadjcAePkuM
 DURATION:PT2H
 DTSTART:20200524T080000Z
@@ -177,13 +170,6 @@ DURATION:PT2H
 DTSTART:20200523T151000Z
 SUMMARY:🥐戌神ころね: 【仮面ライダー】プレステ(PS)のやつです【KAMEN RIDER】
 UID:awxoMTw7iMg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【30万人記念】みんないつもありがとうぺこ！レーション実食&MGS3シークレットシアター上映会【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=HR8edsqAIV0
-DURATION:PT2H
-DTSTART:20200524T120000Z
-SUMMARY:👯兎田ぺこら: 【30万人記念】みんないつもありがとうぺこ！レーション実食&MGS3シークレットシアター上映会【ホロライブ/兎田ぺこら】
-UID:HR8edsqAIV0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:お久しぶり！スプラのフェスだああああああリハビリ中【大神ミオ】\nhttps://www.youtube.com/watch?v=zzAFY1GWZSk
@@ -275,6 +261,13 @@ DURATION:PT2H
 DTSTART:20200524T100000Z
 SUMMARY:🌲大神ミオ: 5人の絶体絶命？！新たなシリーズでも生き残りたい。【絶体絶命都市2/大神ミオ】
 UID:tUnqwLcNuVU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:おうたはいしん？\nhttps://www.youtube.com/watch?v=W7AikgRaZwM
+DURATION:PT2H
+DTSTART:20200524T153000Z
+SUMMARY:🥐戌神ころね: おうたはいしん？
+UID:W7AikgRaZwM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン２】復活！フェス参加！野良マッチ！連勝めざしてがんばるぞおおい！【ホロライブ】\nhttps://www.youtube.com/watch?v=uLMnFqf7jyA
@@ -417,6 +410,13 @@ SUMMARY:💋癒月ちょこ: 【Life is Strange】もし人生をやり直せる
 UID:WszTexlJpnc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【歌枠】懐 か し の ニ コ ニ コ ソ ン グ メ ド レ ー 改【老人会/アーカイブ残らないかも！】\nhttps://www.youtube.com/watch?v=KI90lVm_vHA
+DURATION:PT2H
+DTSTART:20200524T120000Z
+SUMMARY:⚓湊あくあ: 【歌枠】懐 か し の ニ コ ニ コ ソ ン グ メ ド レ ー 改【老人会/アーカイブ残らないかも！】
+UID:KI90lVm_vHA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MINECLAFT】仲良し2人のまったりマイクラ【#清純ワイルド】\nhttps://www.youtube.com/watch?v=JLMA-4u2Vt4
 DURATION:PT2H
 DTSTART:20200524T130000Z
@@ -478,6 +478,20 @@ DURATION:PT2H
 DTSTART:20200524T150000Z
 SUMMARY:🍬姫森ルーナ: 【スプラフェス】たこ焼きにはマヨネーズ二重かけをおすすめするのら🍬【姫森ルーナ/ホロライブ】
 UID:tG5iIX8EFt8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:スバころみぉーんでフェス！！！ケチャップ！！！！【スプラトゥーン2】\nhttps://www.youtube.com/watch?v=XkhXKpHexAk
+DURATION:PT2H
+DTSTART:20200524T130000Z
+SUMMARY:🌲大神ミオ: スバころみぉーんでフェス！！！ケチャップ！！！！【スプラトゥーン2】
+UID:XkhXKpHexAk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ぐるぐるぴえん(スーパーチャット読みメインの雑談枠です！)\nhttps://www.youtube.com/watch?v=QY5Omc7TwzA
+DURATION:PT2H
+DTSTART:20200524T143000Z
+SUMMARY:🐉桐生ココ: ぐるぐるぴえん(スーパーチャット読みメインの雑談枠です！)
+UID:QY5Omc7TwzA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Hollow Knight】夜まったり。#5【#常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=OjTMqoZh4Gg
