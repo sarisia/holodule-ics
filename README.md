@@ -9,11 +9,11 @@
 
 | カテゴリ | URL |
 | - | - |
-| すべて | https://raw.githubusercontent.com/sarisia/holodule-ics/public/holodule-all.ics |
-| ホロライブ | https://raw.githubusercontent.com/sarisia/holodule-ics/public/holodule-hololive.ics |
-| ホロスターズ | https://raw.githubusercontent.com/sarisia/holodule-ics/public/holodule-holostars.ics |
-| イノナカ | https://raw.githubusercontent.com/sarisia/holodule-ics/public/holodule-innk.ics |
-| インドネシア | https://raw.githubusercontent.com/sarisia/holodule-ics/public/holodule-indonesia.ics |
+| すべて | https://sarisia.cc/holodule-ics/holodule-all.ics |
+| ホロライブ | https://sarisia.cc/holodule-ics/holodule-hololive.ics |
+| ホロスターズ | https://sarisia.cc/holodule-ics/holodule-holostars.ics |
+| イノナカ | https://sarisia.cc/holodule-ics/holodule-innk.ics |
+| インドネシア | https://sarisia.cc/holodule-ics/holodule-indonesia.ics |
 
 # 設定例
 
