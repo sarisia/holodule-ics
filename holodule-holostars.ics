@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ウイイレ2020】みやび先輩🌺、遅ればせながら登録者１万人おめでとうございますっ！祝いの3D可！【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=H33dk9KqudQ
-DURATION:PT2H
-DTSTART:20200525T230000Z
-SUMMARY:月下カオル: 【ウイイレ2020】みやび先輩🌺、遅ればせながら登録者１万人おめでとうございますっ！祝いの3D可！【月下カオル/ホロスターズ】
-UID:H33dk9KqudQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【もじぴったん アンコール】結構ハマりました。【奏手イヅル】\nhttps://www.youtube.com/watch?v=2VfPfUxu3jk
 DURATION:PT2H
 DTSTART:20200526T100000Z
 SUMMARY:🎸奏手イヅル: 【もじぴったん アンコール】結構ハマりました。【奏手イヅル】
 UID:2VfPfUxu3jk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ゲームする】工事中【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=WbgiILZtwUg
-DURATION:PT2H
-DTSTART:20200527T140000Z
-SUMMARY:⚙律可: 【ゲームする】工事中【律可/ホロスターズ】
-UID:WbgiILZtwUg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ツイステ】サバナクロー寮にいそうな奴がプレイするツイステッドワンダーランド#4【ホロスターズ/影山シエン】\nhttps://www.youtube.com/watch?v=LMj6VgEk2Ck
@@ -67,25 +53,11 @@ SUMMARY:影山シエン: 【アキネイター】TriNeroの認知度を確固た
 UID:evVdJ74K39E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【晩酌(🍼×3)雑談】ホットミルクうめぇ；；【奏手イヅル】\nhttps://www.youtube.com/watch?v=61aFqAF8TIQ
-DURATION:PT2H
-DTSTART:20200526T150000Z
-SUMMARY:🎸奏手イヅル: 【晩酌(🍼×3)雑談】ホットミルクうめぇ；；【奏手イヅル】
-UID:61aFqAF8TIQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【弾き語り】ガチャでSレアが当たったような感動を与えたい【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=rixSk-NHvEo
 DURATION:PT2H
 DTSTART:20200526T060000Z
 SUMMARY:⚙律可: 【弾き語り】ガチャでSレアが当たったような感動を与えたい【律可/ホロスターズ】
 UID:rixSk-NHvEo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【2期生コラボ】罰ゲーム有UNOで尊厳を失う配信。【アステル/岸堂天真/夕刻ロベル】\nhttps://www.youtube.com/watch?v=KoQVdNtqeYk
-DURATION:PT2H
-DTSTART:20200526T120000Z
-SUMMARY:🎭アステル・レダ: 【2期生コラボ】罰ゲーム有UNOで尊厳を失う配信。【アステル/岸堂天真/夕刻ロベル】
-UID:KoQVdNtqeYk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ロケットリーグ】サッカーを制するものは空中戦を制す！特訓だ～！【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=moty1pvGl8g
@@ -107,5 +79,40 @@ DURATION:PT2H
 DTSTART:20200525T150000Z
 SUMMARY:🎭アステル・レダ: 【Minecraft建築】人生ってのはこの浮いた砂山と同じようなもんだ。【ホロスターズ/アステル】
 UID:OKq8yHqoVts
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ウイイレ2020】みやび先輩🌺、遅ればせながら登録者１万人おめでとうございますっ！祝いの3D可！【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=H33dk9KqudQ
+DURATION:PT2H
+DTSTART:20200525T230000Z
+SUMMARY:月下カオル: 【ウイイレ2020】みやび先輩🌺、遅ればせながら登録者１万人おめでとうございますっ！祝いの3D可！【月下カオル/ホロスターズ】
+UID:H33dk9KqudQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゲームする】工事中【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=WbgiILZtwUg
+DURATION:PT2H
+DTSTART:20200527T140000Z
+SUMMARY:⚙律可: 【ゲームする】工事中【律可/ホロスターズ】
+UID:WbgiILZtwUg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ジラフとアンニカ】～ケモノの子とふんわり戯れる～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=YnrR7AGMC2k
+DURATION:PT2H
+DTSTART:20200526T130000Z
+SUMMARY:荒咬オウガ: 【ジラフとアンニカ】～ケモノの子とふんわり戯れる～【荒咬オウガ/ホロスターズ】
+UID:YnrR7AGMC2k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【晩酌(🍼×3)雑談】ホットミルクうめぇ；；【奏手イヅル】\nhttps://www.youtube.com/watch?v=61aFqAF8TIQ
+DURATION:PT2H
+DTSTART:20200526T150000Z
+SUMMARY:🎸奏手イヅル: 【晩酌(🍼×3)雑談】ホットミルクうめぇ；；【奏手イヅル】
+UID:61aFqAF8TIQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【2期生コラボ】罰ゲーム有UNOで尊厳を失う配信。【アステル/岸堂天真/夕刻ロベル】\nhttps://www.youtube.com/watch?v=KoQVdNtqeYk
+DURATION:PT2H
+DTSTART:20200526T120000Z
+SUMMARY:🎭アステル・レダ: 【2期生コラボ】罰ゲーム有UNOで尊厳を失う配信。【アステル/岸堂天真/夕刻ロベル】
+UID:KoQVdNtqeYk
 END:VEVENT
 END:VCALENDAR
