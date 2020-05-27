@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【もじぴったん アンコール】結構ハマりました。【奏手イヅル】\nhttps://www.youtube.com/watch?v=2VfPfUxu3jk
+DESCRIPTION:【犬鳴トンネル】驚くたびに小さくなっていきます…。【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=WbgiILZtwUg
 DURATION:PT2H
-DTSTART:20200526T100000Z
-SUMMARY:🎸奏手イヅル: 【もじぴったん アンコール】結構ハマりました。【奏手イヅル】
-UID:2VfPfUxu3jk
+DTSTART:20200527T140000Z
+SUMMARY:⚙律可: 【犬鳴トンネル】驚くたびに小さくなっていきます…。【律可/ホロスターズ】
+UID:WbgiILZtwUg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ASMR】耳元で宝具ぶっぱ、されたくない？【ホロスターズ/影山シエン】\nhttps://www.youtube.com/watch?v=S0uPYha2U-Q
+DURATION:PT2H
+DTSTART:20200527T150000Z
+SUMMARY:影山シエン: 【ASMR】耳元で宝具ぶっぱ、されたくない？【ホロスターズ/影山シエン】
+UID:S0uPYha2U-Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DARK SOULS】ダクソ？まぁ僕騎士だからできると思うよ!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=cgKbSuTdQgU
@@ -18,6 +25,13 @@ SUMMARY:🦔💨岸堂天真: 【DARK SOULS】ダクソ？まぁ僕騎士だか�
 UID:cgKbSuTdQgU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【雑談】水曜日のお雑談【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=XCcGdayYark
+DURATION:PT2H
+DTSTART:20200527T110000Z
+SUMMARY:🍷夕刻ロベル: 【雑談】水曜日のお雑談【ホロスターズ/夕刻ロベル】
+UID:XCcGdayYark
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】好きなゲームの話しようよ🥰✨【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=JvvJVu9s6cU
 DURATION:PT2H
 DTSTART:20200527T140000Z
@@ -25,18 +39,11 @@ SUMMARY:月下カオル: 【雑談】好きなゲームの話しようよ🥰✨
 UID:JvvJVu9s6cU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ツイステ】サバナクロー寮にいそうな奴がプレイするツイステッドワンダーランド#4【ホロスターズ/影山シエン】\nhttps://www.youtube.com/watch?v=LMj6VgEk2Ck
+DESCRIPTION:【引っ越し協力ゲー!!】星さんマークの引越社です。【ちびすたーず/アステル/奏手イヅル/鏡見キラ】\nhttps://www.youtube.com/watch?v=HbTG-tngJu0
 DURATION:PT2H
-DTSTART:20200526T080000Z
-SUMMARY:影山シエン: 【ツイステ】サバナクロー寮にいそうな奴がプレイするツイステッドワンダーランド#4【ホロスターズ/影山シエン】
-UID:LMj6VgEk2Ck
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #アランストリーム 】叫べ　逃げ回れ -Dark Deception-【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=sp3KOfzCJig
-DURATION:PT2H
-DTSTART:20200526T120000Z
-SUMMARY:🍕アルランディス: 【 #アランストリーム 】叫べ　逃げ回れ -Dark Deception-【ホロスターズ/アルランディス】
-UID:sp3KOfzCJig
+DTSTART:20200529T130000Z
+SUMMARY:🎭アステル・レダ: 【引っ越し協力ゲー!!】星さんマークの引越社です。【ちびすたーず/アステル/奏手イヅル/鏡見キラ】
+UID:HbTG-tngJu0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】朝活マリカ。朝走ることによって皆もチャンチャカドンドンを手に入れよう【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=WrupfzuHyp0
@@ -44,13 +51,6 @@ DURATION:PT2H
 DTSTART:20200527T010000Z
 SUMMARY:🍷夕刻ロベル: 【マリオカート8DX】朝活マリカ。朝走ることによって皆もチャンチャカドンドンを手に入れよう【ホロスターズ/夕刻ロベル】
 UID:WrupfzuHyp0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【火曜日のDBD】どんな状況でも救助にいく騎士になりたい。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=D3vu3SsbyPE
-DURATION:PT2H
-DTSTART:20200526T030000Z
-SUMMARY:🦔💨岸堂天真: 【火曜日のDBD】どんな状況でも救助にいく騎士になりたい。【岸堂天真/ホロスターズ】
-UID:D3vu3SsbyPE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#8【ムジュラの仮面】遂にロベルは、谷へ向かった。【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=_46vmp7_5_w
@@ -67,90 +67,6 @@ SUMMARY:影山シエン: 【アキネイター】TriNeroの認知度を確固た
 UID:evVdJ74K39E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【弾き語り】ガチャでSレアが当たったような感動を与えたい【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=rixSk-NHvEo
-DURATION:PT2H
-DTSTART:20200526T060000Z
-SUMMARY:⚙律可: 【弾き語り】ガチャでSレアが当たったような感動を与えたい【律可/ホロスターズ】
-UID:rixSk-NHvEo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】6月にやりたいゲーム選び!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=834zRqyaglY
-DURATION:PT2H
-DTSTART:20200527T120000Z
-SUMMARY:🌺花咲みやび: 【雑談】6月にやりたいゲーム選び!!【花咲みやび/ホロスターズ】
-UID:834zRqyaglY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ロケットリーグ】サッカーを制するものは空中戦を制す！特訓だ～！【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=moty1pvGl8g
-DURATION:PT2H
-DTSTART:20200526T040000Z
-SUMMARY:月下カオル: 【ロケットリーグ】サッカーを制するものは空中戦を制す！特訓だ～！【月下カオル/ホロスターズ】
-UID:moty1pvGl8g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #アランストリーム 】久々にバイト行くときクビになってないか不安になるよね -Five Nights at Freddy's-【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=2HlCzXkWqaI
-DURATION:PT2H
-DTSTART:20200526T132000Z
-SUMMARY:🍕アルランディス: 【 #アランストリーム 】久々にバイト行くときクビになってないか不安になるよね -Five Nights at Freddy's-【ホロスターズ/アルランディス】
-UID:2HlCzXkWqaI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft建築】人生ってのはこの浮いた砂山と同じようなもんだ。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=OKq8yHqoVts
-DURATION:PT2H
-DTSTART:20200525T150000Z
-SUMMARY:🎭アステル・レダ: 【Minecraft建築】人生ってのはこの浮いた砂山と同じようなもんだ。【ホロスターズ/アステル】
-UID:OKq8yHqoVts
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スライムASMR】YoutubeのAIはとても優秀です。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=29LXHtztQiU
-DURATION:PT2H
-DTSTART:20200527T130000Z
-SUMMARY:🎭アステル・レダ: 【スライムASMR】YoutubeのAIはとても優秀です。【ホロスターズ/アステル】
-UID:29LXHtztQiU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ウイイレ2020】みやび先輩🌺、遅ればせながら登録者１万人おめでとうございますっ！祝いの3D可！【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=H33dk9KqudQ
-DURATION:PT2H
-DTSTART:20200525T230000Z
-SUMMARY:月下カオル: 【ウイイレ2020】みやび先輩🌺、遅ればせながら登録者１万人おめでとうございますっ！祝いの3D可！【月下カオル/ホロスターズ】
-UID:H33dk9KqudQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【犬鳴トンネル】驚くたびに小さくなっていきます…。【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=WbgiILZtwUg
-DURATION:PT2H
-DTSTART:20200527T140000Z
-SUMMARY:⚙律可: 【犬鳴トンネル】驚くたびに小さくなっていきます…。【律可/ホロスターズ】
-UID:WbgiILZtwUg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ASMR】耳元で宝具ぶっぱ、されたくない？【ホロスターズ/影山シエン】\nhttps://www.youtube.com/watch?v=S0uPYha2U-Q
-DURATION:PT2H
-DTSTART:20200527T150000Z
-SUMMARY:影山シエン: 【ASMR】耳元で宝具ぶっぱ、されたくない？【ホロスターズ/影山シエン】
-UID:S0uPYha2U-Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】水曜日のお雑談【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=XCcGdayYark
-DURATION:PT2H
-DTSTART:20200527T110000Z
-SUMMARY:🍷夕刻ロベル: 【雑談】水曜日のお雑談【ホロスターズ/夕刻ロベル】
-UID:XCcGdayYark
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ジラフとアンニカ】～ケモノの子とふんわり戯れる～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=YnrR7AGMC2k
-DURATION:PT2H
-DTSTART:20200526T130000Z
-SUMMARY:荒咬オウガ: 【ジラフとアンニカ】～ケモノの子とふんわり戯れる～【荒咬オウガ/ホロスターズ】
-UID:YnrR7AGMC2k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ガチャフォース】～ガチャガチャっとやっていく～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=yuzuWMRSwNc
-DURATION:PT2H
-DTSTART:20200527T123000Z
-SUMMARY:荒咬オウガ: 【ガチャフォース】～ガチャガチャっとやっていく～【荒咬オウガ/ホロスターズ】
-UID:yuzuWMRSwNc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】３日前にAPEXインストールしました😤【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=c9cfTv6xluY
 DURATION:PT2H
 DTSTART:20200527T070000Z
@@ -165,6 +81,13 @@ SUMMARY:🎸奏手イヅル: 【晩酌(🍼×3)雑談】ホットミルクうめ
 UID:61aFqAF8TIQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【雑談】6月にやりたいゲーム選び!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=834zRqyaglY
+DURATION:PT2H
+DTSTART:20200527T120000Z
+SUMMARY:🌺花咲みやび: 【雑談】6月にやりたいゲーム選び!!【花咲みやび/ホロスターズ】
+UID:834zRqyaglY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 ARK Genesis 】最強ゴリラ!!!フェロックス捕獲大作戦- ARK: Survival Evolved Genesis -【#ARKホロスタ島】\nhttps://www.youtube.com/watch?v=ONUZKJ0CDME
 DURATION:PT2H
 DTSTART:20200528T120000Z
@@ -172,17 +95,17 @@ SUMMARY:🍕アルランディス: 【 ARK Genesis 】最強ゴリラ!!!フェ�
 UID:ONUZKJ0CDME
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【2期生コラボ】罰ゲーム有UNOで尊厳を失う配信。【アステル/岸堂天真/夕刻ロベル】\nhttps://www.youtube.com/watch?v=KoQVdNtqeYk
-DURATION:PT2H
-DTSTART:20200526T120000Z
-SUMMARY:🎭アステル・レダ: 【2期生コラボ】罰ゲーム有UNOで尊厳を失う配信。【アステル/岸堂天真/夕刻ロベル】
-UID:KoQVdNtqeYk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【嘘と裏切り時々愉悦】ホロスターズDbD初心者部【Dead by Daylight】\nhttps://www.youtube.com/watch?v=I7gP_tcgoCs
 DURATION:PT2H
 DTSTART:20200527T030006Z
 SUMMARY:ホロスターズ: 【嘘と裏切り時々愉悦】ホロスターズDbD初心者部【Dead by Daylight】
 UID:I7gP_tcgoCs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スライムASMR】YoutubeのAIはとても優秀です。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=29LXHtztQiU
+DURATION:PT2H
+DTSTART:20200527T130000Z
+SUMMARY:🎭アステル・レダ: 【スライムASMR】YoutubeのAIはとても優秀です。【ホロスターズ/アステル】
+UID:29LXHtztQiU
 END:VEVENT
 END:VCALENDAR
