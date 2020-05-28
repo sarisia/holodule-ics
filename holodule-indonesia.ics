@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Super Bunny Man】HOLD ONTO MY BUTT!!! - EN【holoID】\nhttps://www.youtube.com/watch?v=8mk92lvOMtw
+DURATION:PT2H
+DTSTART:20200527T120000Z
+SUMMARY:🔮Moona: 【Super Bunny Man】HOLD ONTO MY BUTT!!! - EN【holoID】
+UID:8mk92lvOMtw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Moona Boona】Serial Killer Shaman Ahmad Suradji【hololive-ID】\nhttps://www.youtube.com/watch?v=SMqhyvZln7g
 DURATION:PT2H
 DTSTART:20200528T140000Z
@@ -18,17 +25,17 @@ SUMMARY:🐿Risu: 【hololiveID】#1 Let's Play Plants VS Zombies with Risu ! (I
 UID:rg9VXLqPHuo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Super Bunny Man】HOLD ONTO MY BUTT!!! - EN【holoID】\nhttps://www.youtube.com/watch?v=8mk92lvOMtw
-DURATION:PT2H
-DTSTART:20200527T120000Z
-SUMMARY:🔮Moona: 【Super Bunny Man】HOLD ONTO MY BUTT!!! - EN【holoID】
-UID:8mk92lvOMtw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Super Bunny Man】修行の時間だ！打倒バニマン！ぴょん！\nhttps://www.youtube.com/watch?v=4Kz8t-Zgj7s
 DURATION:PT2H
 DTSTART:20200528T120000Z
 SUMMARY:🎨Iofi: 【Super Bunny Man】修行の時間だ！打倒バニマン！ぴょん！
 UID:4Kz8t-Zgj7s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololiveID】#1 Let's Play To The Moon with Risu ! (ID/EN)【Ayunda Risu】\nhttps://www.youtube.com/watch?v=IWr4ufl5WRo
+DURATION:PT2H
+DTSTART:20200529T110000Z
+SUMMARY:🐿Risu: 【hololiveID】#1 Let's Play To The Moon with Risu ! (ID/EN)【Ayunda Risu】
+UID:IWr4ufl5WRo
 END:VEVENT
 END:VCALENDAR
