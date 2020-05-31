@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【DBD】▲PTBで三角様に会いに行く▲【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=sMlofQNXWow
-DURATION:PT2H
-DTSTART:20200531T150000Z
-SUMMARY:🌺花咲みやび: 【DBD】▲PTBで三角様に会いに行く▲【花咲みやび/ホロスターズ】
-UID:sMlofQNXWow
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ホロの奇妙な大富豪-地獄再臨-【#ホロの奇妙な大富豪】\nhttps://www.youtube.com/watch?v=JIu5zg9BM9w
 DURATION:PT2H
 DTSTART:20200530T160000Z
@@ -151,13 +144,6 @@ SUMMARY:ホロライブ: 【アニメ】１分でできるリモート筋トレ�
 UID:PJf3XZ636-0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:24曲歌いきれ！！！24万人目前、覚悟の耐久放送【歌枠/大神ミオ】\nhttps://www.youtube.com/watch?v=213O7yidk6c
-DURATION:PT2H
-DTSTART:20200531T130000Z
-SUMMARY:🌲大神ミオ: 24曲歌いきれ！！！24万人目前、覚悟の耐久放送【歌枠/大神ミオ】
-UID:213O7yidk6c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【オリジナルソング】Intersection / AZKi【Can't stop love with you】\nhttps://www.youtube.com/watch?v=fad_0eQIlVo
 DURATION:PT2H
 DTSTART:20200531T130000Z
@@ -165,18 +151,18 @@ SUMMARY:⚒AZKi: 【オリジナルソング】Intersection / AZKi【Can't stop 
 UID:fad_0eQIlVo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】２４万人まであと少し！アイドルだから歌も歌うんだYO！！アーカイブ残るの祈願！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=Kse2wHWCOJE
-DURATION:PT2H
-DTSTART:20200531T060000Z
-SUMMARY:🤖ロボ子さん: 【歌枠】２４万人まであと少し！アイドルだから歌も歌うんだYO！！アーカイブ残るの祈願！【ホロライブ/ロボ子さん】
-UID:Kse2wHWCOJE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【記念歌枠】収益化！10000人！！凍結1ヶ月！！！記念枠！！！！【ホロスターズ/影山シエン】\nhttps://www.youtube.com/watch?v=JjH22mhXjlI
 DURATION:PT2H
 DTSTART:20200601T120000Z
 SUMMARY:影山シエン: 【記念歌枠】収益化！10000人！！凍結1ヶ月！！！記念枠！！！！【ホロスターズ/影山シエン】
 UID:JjH22mhXjlI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】２４万人まであと少し！アイドルだから歌も歌うんだYO！！アーカイブ残るの祈願！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=Kse2wHWCOJE
+DURATION:PT2H
+DTSTART:20200531T060000Z
+SUMMARY:🤖ロボ子さん: 【歌枠】２４万人まであと少し！アイドルだから歌も歌うんだYO！！アーカイブ残るの祈願！【ホロライブ/ロボ子さん】
+UID:Kse2wHWCOJE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雀魂コラボ】集められた四人。目の前にあるのは雀卓。やることは決まっていますね？【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=sgFzFiEAC0c
@@ -298,6 +284,13 @@ SUMMARY:❤赤井はあと: 💓Dua Lipa - Don't Start Now ( cover by Akaihaato 
 UID:RtQSA2ZFYw0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【シャニマスガチャ】ブライダルめぐるSSRが出るまで終われまてん【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=FvLnGjI7Xmg
+DURATION:PT2H
+DTSTART:20200531T150000Z
+SUMMARY:🌸さくらみこ: 【シャニマスガチャ】ブライダルめぐるSSRが出るまで終われまてん【ホロライブ/さくらみこ】
+UID:FvLnGjI7Xmg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【月一アスイヅ談義】5月編!!今月は盛りだくさんでした！【ホロスターズ/アステル/奏手イヅル】\nhttps://www.youtube.com/watch?v=5701zvVj7CQ
 DURATION:PT2H
 DTSTART:20200531T130000Z
@@ -361,6 +354,13 @@ SUMMARY:月下カオル: 【雑談】私達、とらい危族で飲んでます�
 UID:GpwOcqkFsb0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【雑談】来週も楽しむために好きなもの語りで私に元気をわけてくれっ！【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=4zH_qss0YHo
+DURATION:PT2H
+DTSTART:20200531T140000Z
+SUMMARY:🔥不知火フレア: 【雑談】来週も楽しむために好きなもの語りで私に元気をわけてくれっ！【ホロライブ/不知火フレア】
+UID:4zH_qss0YHo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:お待たせしました！IOFI SUPERCHAT & MONETISATION SPECIAL!\nhttps://www.youtube.com/watch?v=h1EoeitnLOQ
 DURATION:PT2H
 DTSTART:20200531T120000Z
@@ -382,11 +382,11 @@ SUMMARY:🐉桐生ココ: 圧倒的勝利だい!！ARK ABERRATIONボスお疲れ
 UID:_vN9qaSyvcs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#夏色吹雪】２周年だし２００連しようぜ！【ホロライブ】\nhttps://www.youtube.com/watch?v=rj0NfZlPM4Y
+DESCRIPTION:【反省会】【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=DMsTJqcOVx8
 DURATION:PT2H
-DTSTART:20200601T130000Z
-SUMMARY:🌽白上フブキ: 【#夏色吹雪】２周年だし２００連しようぜ！【ホロライブ】
-UID:rj0NfZlPM4Y
+DTSTART:20200531T150000Z
+SUMMARY:🍬姫森ルーナ: 【反省会】【姫森ルーナ/ホロライブ】
+UID:DMsTJqcOVx8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ミリ1st同時視聴】DAY2！これは始まりなんやなって。ミリ1st同時視聴や！※音量注意※【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=J35N2VTlQu0
@@ -403,11 +403,32 @@ SUMMARY:🍙猫又おかゆ: 【ゆめにっき】たかが夢、されど夢だ
 UID:zpcIB1Iln0g
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#夏色吹雪】２周年だし２００連しようぜ！【ホロライブ】\nhttps://www.youtube.com/watch?v=rj0NfZlPM4Y
+DURATION:PT2H
+DTSTART:20200601T130000Z
+SUMMARY:🌽白上フブキ: 【#夏色吹雪】２周年だし２００連しようぜ！【ホロライブ】
+UID:rj0NfZlPM4Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【AFRIKA】最後の秘境へ…ライオンとかサイとかいるかな？！【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=ke1hQC31BV4
+DURATION:PT2H
+DTSTART:20200531T230000Z
+SUMMARY:月下カオル: 【AFRIKA】最後の秘境へ…ライオンとかサイとかいるかな？！【月下カオル/ホロスターズ】
+UID:ke1hQC31BV4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マイクラ】お山ならしてお家つくるスペースつくろう！【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=51zPQW48ncE
 DURATION:PT2H
 DTSTART:20200530T230000Z
 SUMMARY:月下カオル: 【マイクラ】お山ならしてお家つくるスペースつくろう！【月下カオル/ホロスターズ】
 UID:51zPQW48ncE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ホロ鯖マイクラ】ひさりぶりのホロ鯖でまったり再建🐱【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=Obb3LwHy8k0
+DURATION:PT2H
+DTSTART:20200531T172000Z
+SUMMARY:🌸さくらみこ: 【ホロ鯖マイクラ】ひさりぶりのホロ鯖でまったり再建🐱【ホロライブ/さくらみこ】
+UID:Obb3LwHy8k0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【】配信予定地だよおおおおお！！！【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=3jimnG8c4_c
