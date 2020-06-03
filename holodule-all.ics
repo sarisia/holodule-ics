@@ -25,18 +25,18 @@ SUMMARY:⚔白銀ノエル: 【歌枠】流行り曲！深夜のお歌れんし�
 UID:qSVL_NvvihA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】マイクのエコー調節するよ↑↑～～～～～～～🎤🎤【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=WeCgT6_tmxk
-DURATION:PT2H
-DTSTART:20200602T070000Z
-SUMMARY:月下カオル: 【雑談】マイクのエコー調節するよ↑↑～～～～～～～🎤🎤【月下カオル/ホロスターズ】
-UID:WeCgT6_tmxk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】桐生ココの全力ニート物語～親にバレずにニートになる方法～\nhttps://www.youtube.com/watch?v=006ldwDqZsM
 DURATION:PT2H
 DTSTART:20200602T110000Z
 SUMMARY:🐉桐生ココ: 【雑談】桐生ココの全力ニート物語～親にバレずにニートになる方法～
 UID:006ldwDqZsM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】マイクのエコー調節するよ↑↑～～～～～～～🎤🎤【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=WeCgT6_tmxk
+DURATION:PT2H
+DTSTART:20200602T070000Z
+SUMMARY:月下カオル: 【雑談】マイクのエコー調節するよ↑↑～～～～～～～🎤🎤【月下カオル/ホロスターズ】
+UID:WeCgT6_tmxk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【1周年記念】Blessing / halyosy covered by HOLOSTARS【歌ってみた】\nhttps://www.youtube.com/watch?v=VXTZN-06nzo
@@ -123,18 +123,18 @@ SUMMARY:💫天音かなた: 【ダンガンロンパ】#01 完全初見！推�
 UID:CA99ShkCDrA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【OVERWATCH】4周年おめでとう🎊ガチャでも回して6月の運を試します❣【#常闇トワ/#ホロライブ】\nhttps://www.youtube.com/watch?v=zYv2GxgVcu4
-DURATION:PT2H
-DTSTART:20200601T230000Z
-SUMMARY:👾常闇トワ: 【OVERWATCH】4周年おめでとう🎊ガチャでも回して6月の運を試します❣【#常闇トワ/#ホロライブ】
-UID:zYv2GxgVcu4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:パワー注入の儀。新タロットでリスナーさんを占っちゃいます。【大神ミオ】\nhttps://www.youtube.com/watch?v=nlvmNcsL-ZQ
 DURATION:PT2H
 DTSTART:20200602T110000Z
 SUMMARY:🌲大神ミオ: パワー注入の儀。新タロットでリスナーさんを占っちゃいます。【大神ミオ】
 UID:nlvmNcsL-ZQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【OVERWATCH】4周年おめでとう🎊ガチャでも回して6月の運を試します❣【#常闇トワ/#ホロライブ】\nhttps://www.youtube.com/watch?v=zYv2GxgVcu4
+DURATION:PT2H
+DTSTART:20200601T230000Z
+SUMMARY:👾常闇トワ: 【OVERWATCH】4周年おめでとう🎊ガチャでも回して6月の運を試します❣【#常闇トワ/#ホロライブ】
+UID:zYv2GxgVcu4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【メンバー限定(6/3)＊モンハンワールド】視聴者参加型💓みんなと一緒に狩りに行きたいなのら～🍬【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=OmZt_Go3RSQ
@@ -186,6 +186,20 @@ SUMMARY:🦔💨岸堂天真: 【DARK SOULS】死にゲーで逃げたら一流�
 UID:03u6obJu4b0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【実体験】気を付けて！もしかして騙されてるかも・・・！？【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=fCiq-V9krp4
+DURATION:PT2H
+DTSTART:20200603T090000Z
+SUMMARY:❤赤井はあと: 【実体験】気を付けて！もしかして騙されてるかも・・・！？【ホロライブ/赤井はあと】
+UID:fCiq-V9krp4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#桐生ココ】あさココLIVEニュース！6月3日【#ココここ】\nhttps://www.youtube.com/watch?v=x9p-EqEmN-o
+DURATION:PT2H
+DTSTART:20200602T210000Z
+SUMMARY:🐉桐生ココ: 【#桐生ココ】あさココLIVEニュース！6月3日【#ココここ】
+UID:x9p-EqEmN-o
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌枠】祝・収益化！！チャンネル登録2万人本当にありがとう🥰【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=Z-dhmhV1AMs
 DURATION:PT2H
 DTSTART:20200602T120500Z
@@ -198,13 +212,6 @@ DURATION:PT2H
 DTSTART:20200602T140000Z
 SUMMARY:🥐戌神ころね: 【メガドライブ(MD)】ザ・スーパー忍のクリアを目指す！！【The Revenge of Shinobi】
 UID:YDFN_IUPghw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#桐生ココ】あさココLIVEニュース！6月3日【#ココここ】\nhttps://www.youtube.com/watch?v=x9p-EqEmN-o
-DURATION:PT2H
-DTSTART:20200602T210000Z
-SUMMARY:🐉桐生ココ: 【#桐生ココ】あさココLIVEニュース！6月3日【#ココここ】
-UID:x9p-EqEmN-o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】ボカロ歌枠だー！ネギでも食いなっ！！【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=zhGqJdOEcS4
@@ -340,18 +347,18 @@ SUMMARY:🔥不知火フレア: 【返校】す、救いは！？救いはない
 UID:CrBOnVxWvFM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マインクラフト】ざつだん建築！深夜の癒しタイム...？？【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=DSHzyXfDfRk
-DURATION:PT2H
-DTSTART:20200602T160000Z
-SUMMARY:🐏角巻わため: 【マインクラフト】ざつだん建築！深夜の癒しタイム...？？【角巻わため/ホロライブ４期生】
-UID:DSHzyXfDfRk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ダンガンロンパ】#02 アテレコでセルフフルボイス！第一章まで！！【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=zwmaMW2zJME
 DURATION:PT2H
 DTSTART:20200603T110000Z
 SUMMARY:💫天音かなた: 【ダンガンロンパ】#02 アテレコでセルフフルボイス！第一章まで！！【天音かなた/ホロライブ4期生】
 UID:zwmaMW2zJME
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マインクラフト】ざつだん建築！深夜の癒しタイム...？？【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=DSHzyXfDfRk
+DURATION:PT2H
+DTSTART:20200602T160000Z
+SUMMARY:🐏角巻わため: 【マインクラフト】ざつだん建築！深夜の癒しタイム...？？【角巻わため/ホロライブ４期生】
+UID:DSHzyXfDfRk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【弾き語り】泣いたり笑ったり歌ったりコインランドリー【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=6mxdTa7wZRw
@@ -527,6 +534,13 @@ DURATION:PT2H
 DTSTART:20200602T215549Z
 SUMMARY:🤖ロボ子さん: 【🤗】Nii Paaaa!!!!!!!
 UID:dbFfN_E0fUc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VALORANT】上手になりたいｳﾞｧﾛ～～～～🌟【#常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=UplBYk_dZm8
+DURATION:PT2H
+DTSTART:20200603T084500Z
+SUMMARY:👾常闇トワ: 【VALORANT】上手になりたいｳﾞｧﾛ～～～～🌟【#常闇トワ/ホロライブ】
+UID:UplBYk_dZm8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【クレイジー英語クイズ】アホの子がやるクレイジーな英語テスト【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=PHX9a1eDAv0
