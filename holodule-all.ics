@@ -60,18 +60,18 @@ SUMMARY:影山シエン: 【ツイステ】サバナクロー寮にいそうな�
 UID:gdCec_X_seI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Fallout4（フォールアウト4）】シリーズ完全初見！これが世紀末で生きるうさぎのお話ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=PVo4b-0X9ss
-DURATION:PT2H
-DTSTART:20200607T040000Z
-SUMMARY:👯兎田ぺこら: 【Fallout4（フォールアウト4）】シリーズ完全初見！これが世紀末で生きるうさぎのお話ぺこ！【ホロライブ/兎田ぺこら】
-UID:PVo4b-0X9ss
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ミリ2nd同時視聴】DAY2！現地の思い出を再び…！！※音量注意※【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=QFT3X8Zz1Eo
 DURATION:PT2H
 DTSTART:20200607T045500Z
 SUMMARY:🍷夕刻ロベル: 【ミリ2nd同時視聴】DAY2！現地の思い出を再び…！！※音量注意※【ホロスターズ/夕刻ロベル】
 UID:QFT3X8Zz1Eo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Fallout4（フォールアウト4）】シリーズ完全初見！これが世紀末で生きるうさぎのお話ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=PVo4b-0X9ss
+DURATION:PT2H
+DTSTART:20200607T040000Z
+SUMMARY:👯兎田ぺこら: 【Fallout4（フォールアウト4）】シリーズ完全初見！これが世紀末で生きるうさぎのお話ぺこ！【ホロライブ/兎田ぺこら】
+UID:PVo4b-0X9ss
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【作業用BGM】へなちょこ悪魔のARK生活深夜ゲリラ編【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=sePhMXpxa5o
@@ -417,6 +417,13 @@ SUMMARY:🐏角巻わため: 【雑談】お誕生日会の余韻に浸りなが
 UID:hIFxsttOop0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【予定地】企画いっぱいやったざつだん！\nhttps://www.youtube.com/watch?v=coacyUxHSmE
+DURATION:PT2H
+DTSTART:20200607T100000Z
+SUMMARY:🌲大神ミオ: 【予定地】企画いっぱいやったざつだん！
+UID:coacyUxHSmE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ホロの奇妙なマロ雑談-眠くない-【#ホロの奇妙な雑談】\nhttps://www.youtube.com/watch?v=0oRHDOERqkY
 DURATION:PT2H
 DTSTART:20200605T171500Z
@@ -452,18 +459,18 @@ SUMMARY:🌸さくらみこ: 【マイクラ】ホロ鯖にイタズラするに
 UID:YTqS7oDS_g0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】APEXのエイムを取り戻していく！！【#常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=PtB6VAQRFoY
-DURATION:PT2H
-DTSTART:20200606T010000Z
-SUMMARY:👾常闇トワ: 【APEX】APEXのエイムを取り戻していく！！【#常闇トワ/ホロライブ】
-UID:PtB6VAQRFoY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】テントに戻りました！！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=sjyr54amE9w
 DURATION:PT2H
 DTSTART:20200606T060000Z
 SUMMARY:⚔白銀ノエル: 【雑談】テントに戻りました！！【白銀ノエル/ホロライブ】
 UID:sjyr54amE9w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】APEXのエイムを取り戻していく！！【#常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=PtB6VAQRFoY
+DURATION:PT2H
+DTSTART:20200606T010000Z
+SUMMARY:👾常闇トワ: 【APEX】APEXのエイムを取り戻していく！！【#常闇トワ/ホロライブ】
+UID:PtB6VAQRFoY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】ふたりでゴーゴー【ホロライブ/#おかころ】\nhttps://www.youtube.com/watch?v=IqJxZZP-eNo
