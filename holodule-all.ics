@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 #アランストリーム 】今週の予定がわかる自由部屋【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=Bc1ezIKkFi0
+DESCRIPTION:【APEX】縛りプレイ？！ #ホワイトフェスティバルーナ【姫森ルーナ/白上フブキ/夏色まつり/ホロライブ】\nhttps://www.youtube.com/watch?v=UwI81nl7qlw
 DURATION:PT2H
-DTSTART:20211110T161500Z
-SUMMARY:🍕アルランディス: 【 #アランストリーム 】今週の予定がわかる自由部屋【ホロスターズ/アルランディス】
-UID:Bc1ezIKkFi0
+DTSTART:20200613T140000Z
+SUMMARY:🍬姫森ルーナ: 【APEX】縛りプレイ？！ #ホワイトフェスティバルーナ【姫森ルーナ/白上フブキ/夏色まつり/ホロライブ】
+UID:UwI81nl7qlw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】よく眠れるかもしれない歌枠【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=U84Pn69RIy0
@@ -30,6 +30,13 @@ DURATION:PT2H
 DTSTART:20200612T030000Z
 SUMMARY:🤖ロボ子さん: 【APEX】アキちゃんとお昼のあぺぺ！#ロボタール【ホロライブ/ロボ子さん】
 UID:7vPnFdPf3Tw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【まったり雑談】06/13  おあようスバル【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=Qa6NQVmTPt0
+DURATION:PT2H
+DTSTART:20200613T010000Z
+SUMMARY:🚑大空スバル: 【まったり雑談】06/13  おあようスバル【ホロライブ/大空スバル】
+UID:Qa6NQVmTPt0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #アランストリーム 】クリア耐久！対馬海流！ -東方輝針城-【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=iGa0rfVKOw8
@@ -130,18 +137,18 @@ SUMMARY:👯兎田ぺこら: 【#うさみやぺこた】引きこもり同士�
 UID:nqgJriE5ZJQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Freetalk】A Night with You - ID | EN【holoID】\nhttps://www.youtube.com/watch?v=bVgb6I6Gqt4
-DURATION:PT2H
-DTSTART:20200612T150000Z
-SUMMARY:🔮Moona: 【Freetalk】A Night with You - ID | EN【holoID】
-UID:bVgb6I6Gqt4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 #100均ホロライブ 】メンバーの私物を見抜け！！！！100均ホロライブ！！！【yhea!!】\nhttps://www.youtube.com/watch?v=zs47h3uXbYg
 DURATION:PT2H
 DTSTART:20200612T130000Z
 SUMMARY:🚑大空スバル: 【 #100均ホロライブ 】メンバーの私物を見抜け！！！！100均ホロライブ！！！【yhea!!】
 UID:zs47h3uXbYg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【みんなにありがとう🔥】愛言葉Ⅲ／不知火フレア cover【歌ってみた】\nhttps://www.youtube.com/watch?v=n8Z7mUOGEAE
+DURATION:PT2H
+DTSTART:20200614T113000Z
+SUMMARY:🔥不知火フレア: 【みんなにありがとう🔥】愛言葉Ⅲ／不知火フレア cover【歌ってみた】
+UID:n8Z7mUOGEAE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#不知火フレア3D】不知火フレア3Dお披露目会はエンディングまで泣くんじゃない！【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=N5G5FlyPt9s
@@ -296,6 +303,13 @@ DURATION:PT2H
 DTSTART:20200612T140000Z
 SUMMARY:🔥不知火フレア: 【雑談】３Dお披露目前夜祭だッ！緊張を解してくれ！【ホロライブ/不知火フレア】
 UID:A44zgy9vcLs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【お絵かき】～アランさんのマスコット誕生～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=-JXS2juLu14
+DURATION:PT2H
+DTSTART:20200612T150000Z
+SUMMARY:荒咬オウガ: 【お絵かき】～アランさんのマスコット誕生～【荒咬オウガ/ホロスターズ】
+UID:-JXS2juLu14
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GoogleMap】ふりかえび！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=NugsMkDp_GE
