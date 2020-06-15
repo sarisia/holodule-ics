@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【APEX】ホロスタ３人集結！イヅル先輩、付いていきますっ！【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=AkXiGKDUU7Y
-DURATION:PT2H
-DTSTART:20200615T040000Z
-SUMMARY:月下カオル: 【APEX】ホロスタ３人集結！イヅル先輩、付いていきますっ！【月下カオル/ホロスターズ】
-UID:AkXiGKDUU7Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【イラスト付きオフレポ予定】【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=gqCKJuO2smo
 DURATION:PT2H
 DTSTART:20200615T130000Z
@@ -23,6 +16,13 @@ DURATION:PT2H
 DTSTART:20200615T120000Z
 SUMMARY:🔮Moona: 【AREA 15】All about Iofi - ID | EN | JP【holoID】
 UID:1NJFDGAC1Tc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】戦いから身を引いてた姫が今再び舞う！なのら🍬【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=JYOT8nUXDwY
+DURATION:PT2H
+DTSTART:20200615T080000Z
+SUMMARY:🍬姫森ルーナ: 【APEX】戦いから身を引いてた姫が今再び舞う！なのら🍬【姫森ルーナ/ホロライブ】
+UID:JYOT8nUXDwY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【急募】毎週遊びに来る親戚にやんわり”来んな”と伝える方法\nhttps://www.youtube.com/watch?v=-d1w5upCPqc
