@@ -60,18 +60,18 @@ SUMMARY:🔥不知火フレア: 【歌枠】まだまだ余韻に浸りたいっ
 UID:nCqA6crhZos
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#2【ARK | Crystal Isles】アルゲンテイムしたり神社作り！？生活整えていくにぇ！🌸【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=GKaEJxOLJM0
-DURATION:PT2H
-DTSTART:20200614T140000Z
-SUMMARY:🌸さくらみこ: #2【ARK | Crystal Isles】アルゲンテイムしたり神社作り！？生活整えていくにぇ！🌸【ホロライブ/さくらみこ】
-UID:GKaEJxOLJM0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【VALORANT】フルパーティで初チャレンジ！【#常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=wrhKKGaxCQc
 DURATION:PT2H
 DTSTART:20200616T133000Z
 SUMMARY:👾常闇トワ: 【VALORANT】フルパーティで初チャレンジ！【#常闇トワ/ホロライブ】
 UID:wrhKKGaxCQc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#2【ARK | Crystal Isles】アルゲンテイムしたり神社作り！？生活整えていくにぇ！🌸【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=GKaEJxOLJM0
+DURATION:PT2H
+DTSTART:20200614T140000Z
+SUMMARY:🌸さくらみこ: #2【ARK | Crystal Isles】アルゲンテイムしたり神社作り！？生活整えていくにぇ！🌸【ホロライブ/さくらみこ】
+UID:GKaEJxOLJM0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【盛り上げ曲いっぱい】20才の歌ライブ【#ときのそら後夜祭】\nhttps://www.youtube.com/watch?v=qFM6-txVL4A
@@ -130,18 +130,18 @@ SUMMARY:🌽白上フブキ: ついに開始！WOWSコラボで艦長になっ�
 UID:koHd8VIP5eo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:初夏のユニーク俳句王決定戦 【ホロライブ】\nhttps://www.youtube.com/watch?v=dOWObWoNSAI
-DURATION:PT2H
-DTSTART:20200614T100000Z
-SUMMARY:🌲大神ミオ: 初夏のユニーク俳句王決定戦 【ホロライブ】
-UID:dOWObWoNSAI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【】ぺこおおおおおおおおおおおおおおおおおおおおぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=l1MbW6MRmZc
 DURATION:PT2H
 DTSTART:20200615T140000Z
 SUMMARY:👯兎田ぺこら: 【】ぺこおおおおおおおおおおおおおおおおおおおおぺこ！【ホロライブ/兎田ぺこら】
 UID:l1MbW6MRmZc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:初夏のユニーク俳句王決定戦 【ホロライブ】\nhttps://www.youtube.com/watch?v=dOWObWoNSAI
+DURATION:PT2H
+DTSTART:20200614T100000Z
+SUMMARY:🌲大神ミオ: 初夏のユニーク俳句王決定戦 【ホロライブ】
+UID:dOWObWoNSAI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#三期生オフ】お泊り晩酌会🍸【ホロライブ】\nhttps://www.youtube.com/watch?v=_HHCOyc8-Fk
@@ -221,10 +221,10 @@ SUMMARY:🐉桐生ココ: 【ガチ恋】桐生ココと田舎町デート。【
 UID:-5bMrCju9QQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【壺PEX】外国人になれば強くなれる気がした【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=HFLdDibSR-Y
+DESCRIPTION:【壺PEX/APEX】外国人になれば強くなれる気がした【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=HFLdDibSR-Y
 DURATION:PT2H
 DTSTART:20200615T060000Z
-SUMMARY:⚙律可: 【壺PEX】外国人になれば強くなれる気がした【律可/ホロスターズ】
+SUMMARY:⚙律可: 【壺PEX/APEX】外国人になれば強くなれる気がした【律可/ホロスターズ】
 UID:HFLdDibSR-Y
 END:VEVENT
 BEGIN:VEVENT
@@ -410,13 +410,6 @@ SUMMARY:🌸さくらみこ: 【壺おじ耐久】 Getting Over It with Bennett 
 UID:cdQ5lC-x70Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌番組】わためのうた（６月１５日）【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=q4N6iKeivtU
-DURATION:PT2H
-DTSTART:20200614T204500Z
-SUMMARY:🐏角巻わため: 【歌番組】わためのうた（６月１５日）【角巻わため/ホロライブ４期生】
-UID:q4N6iKeivtU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝ごはんを考えよう放送【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=fWaYdui2nvE
 DURATION:PT2H
 DTSTART:20200615T010000Z
@@ -424,11 +417,11 @@ SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝ごはんを考え
 UID:fWaYdui2nvE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ARK】ホロ鯖、新MAP突入！！【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=DdtfG8nMPv8
+DESCRIPTION:【歌番組】わためのうた（６月１５日）【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=q4N6iKeivtU
 DURATION:PT2H
-DTSTART:20200614T070000Z
-SUMMARY:💫天音かなた: 【ARK】ホロ鯖、新MAP突入！！【天音かなた/ホロライブ4期生】
-UID:DdtfG8nMPv8
+DTSTART:20200614T204500Z
+SUMMARY:🐏角巻わため: 【歌番組】わためのうた（６月１５日）【角巻わため/ホロライブ４期生】
+UID:q4N6iKeivtU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【みんなにありがとう🔥】愛言葉Ⅲ／不知火フレア cover【歌ってみた】\nhttps://www.youtube.com/watch?v=n8Z7mUOGEAE
@@ -436,6 +429,13 @@ DURATION:PT2H
 DTSTART:20200614T113000Z
 SUMMARY:🔥不知火フレア: 【みんなにありがとう🔥】愛言葉Ⅲ／不知火フレア cover【歌ってみた】
 UID:n8Z7mUOGEAE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK】ホロ鯖、新MAP突入！！【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=DdtfG8nMPv8
+DURATION:PT2H
+DTSTART:20200614T070000Z
+SUMMARY:💫天音かなた: 【ARK】ホロ鯖、新MAP突入！！【天音かなた/ホロライブ4期生】
+UID:DdtfG8nMPv8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【晩酌雑談】お店爆破された男の夜の晩酌雑談【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=xExtV8Ml0Kw
@@ -513,6 +513,13 @@ DURATION:PT2H
 DTSTART:20200614T210000Z
 SUMMARY:🐉桐生ココ: 【#桐生ココ】新あさココLIVE(ver.2.0)！6月15日【#ココここ】
 UID:qgIFd6sDrJ8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:見なきゃ発作が起きる中毒歌枠【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=xKa3pOHJvVk
+DURATION:PT2H
+DTSTART:20200616T100000Z
+SUMMARY:❤赤井はあと: 見なきゃ発作が起きる中毒歌枠【ホロライブ/赤井はあと】
+UID:xKa3pOHJvVk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:弾き語り 香水/瑛人 １chorus.ver『covered by 律可』\nhttps://www.youtube.com/watch?v=9XYweRCPbA8
