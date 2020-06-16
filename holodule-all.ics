@@ -60,18 +60,18 @@ SUMMARY:👾常闇トワ: 【VALORANT】女子会フルパーティで初チャ�
 UID:wrhKKGaxCQc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝活】生活習慣改善WEEK放送【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=fg2mKucVWlc
-DURATION:PT2H
-DTSTART:20200616T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善WEEK放送【ホロスターズ/夕刻ロベル】
-UID:fg2mKucVWlc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ホロARK最終決戦】死んだら即終了！さよならアベレーション最後の戦い！【#とまらないARK】\nhttps://www.youtube.com/watch?v=wRHZZwXNYgE
 DURATION:PT2H
 DTSTART:20200616T130000Z
 SUMMARY:🐉桐生ココ: 【#ホロARK最終決戦】死んだら即終了！さよならアベレーション最後の戦い！【#とまらないARK】
 UID:wRHZZwXNYgE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】生活習慣改善WEEK放送【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=fg2mKucVWlc
+DURATION:PT2H
+DTSTART:20200616T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善WEEK放送【ホロスターズ/夕刻ロベル】
+UID:fg2mKucVWlc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ちょこっとクッキング】悪魔の深夜のお料理枠！火を使わない唐揚げつくってみた！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=vvYMKdxJEQs
@@ -193,13 +193,6 @@ SUMMARY:🍙猫又おかゆ: 【雑談】おしゃしゃしゃしゃ【ホロラ
 UID:uQA6icZy8Kk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【事故物件】ビビり2人でホラーゲームする・・・【紫咲シオン/猫又おかゆ】\nhttps://www.youtube.com/watch?v=FZF8-Tq0c98
-DURATION:PT2H
-DTSTART:20200615T120000Z
-SUMMARY:🌙紫咲シオン: 【事故物件】ビビり2人でホラーゲームする・・・【紫咲シオン/猫又おかゆ】
-UID:FZF8-Tq0c98
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【げつよる歌枠】バーロー！コナン主題歌特集～倉木麻衣多めで～【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=_x7j8oWpP6g
 DURATION:PT2H
 DTSTART:20200615T140000Z
@@ -212,6 +205,13 @@ DURATION:PT2H
 DTSTART:20200616T040000Z
 SUMMARY:🍷夕刻ロベル: 【APEX】くそやかましAPEX【ホロスターズ/夕刻ロベル】
 UID:a5b0gyZAX2I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【事故物件】ビビり2人でホラーゲームする・・・【紫咲シオン/猫又おかゆ】\nhttps://www.youtube.com/watch?v=FZF8-Tq0c98
+DURATION:PT2H
+DTSTART:20200615T120000Z
+SUMMARY:🌙紫咲シオン: 【事故物件】ビビり2人でホラーゲームする・・・【紫咲シオン/猫又おかゆ】
+UID:FZF8-Tq0c98
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【おえかき】とある”プレゼント”をつくる【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=NxPXHeMSHPU
@@ -403,6 +403,13 @@ SUMMARY:🌽白上フブキ: #アークナイツ /危機契約をやってみる
 UID:KxPtwkwMym0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#ぽてとりお】3人で恋愛相談する～！！！【ホロライブ/赤井はあと/角巻わため/姫森ルーナ】\nhttps://www.youtube.com/watch?v=KmGe-28JV00
+DURATION:PT2H
+DTSTART:20200617T100000Z
+SUMMARY:❤赤井はあと: 【#ぽてとりお】3人で恋愛相談する～！！！【ホロライブ/赤井はあと/角巻わため/姫森ルーナ】
+UID:KmGe-28JV00
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【壺おじ耐久】 Getting Over It with Bennett Foddy【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=cdQ5lC-x70Y
 DURATION:PT2H
 DTSTART:20200615T150000Z
@@ -438,6 +445,13 @@ SUMMARY:🍷夕刻ロベル: 【晩酌雑談】お店爆破された男の夜の
 UID:xExtV8Ml0Kw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#ホロARK最終決戦】死んだら即終了ラスボス戦！！代打天音！！！！【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=RFGPGJvfEDA
+DURATION:PT2H
+DTSTART:20200616T130000Z
+SUMMARY:💫天音かなた: 【#ホロARK最終決戦】死んだら即終了ラスボス戦！！代打天音！！！！【天音かなた/ホロライブ4期生】
+UID:RFGPGJvfEDA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX/カジュアル】お嬢様口調縛りの昼APEX【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=rcB6KA-EIxQ
 DURATION:PT2H
 DTSTART:20200616T030000Z
@@ -466,10 +480,10 @@ SUMMARY:影山シエン: 【壺おじ】耐久の為の予行練習枠【ホロ�
 UID:QG3Vc4_2dOU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【行方不明】【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=OjrlCncv3jw
+DESCRIPTION:【行方不明】えりーと探偵！怖がらずに子供を探し出せるのか･･！？【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=OjrlCncv3jw
 DURATION:PT2H
 DTSTART:20200616T140000Z
-SUMMARY:🌸さくらみこ: 【行方不明】【ホロライブ/さくらみこ】
+SUMMARY:🌸さくらみこ: 【行方不明】えりーと探偵！怖がらずに子供を探し出せるのか･･！？【ホロライブ/さくらみこ】
 UID:OjrlCncv3jw
 END:VEVENT
 BEGIN:VEVENT
