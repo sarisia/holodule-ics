@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【朝活】生活習慣改善WEEK放送－DAY2－朝です、これは紛れもない朝【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=94mYs2_Iv-Q
+DESCRIPTION:【#ゆるスタ】棒人間がバチバチに戦うゲームで決闘をしよう。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=F7D-_gptnUE
 DURATION:PT2H
-DTSTART:20200617T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善WEEK放送－DAY2－朝です、これは紛れもない朝【ホロスターズ/夕刻ロベル】
-UID:94mYs2_Iv-Q
+DTSTART:20200616T120000Z
+SUMMARY:🦔💨岸堂天真: 【#ゆるスタ】棒人間がバチバチに戦うゲームで決闘をしよう。【岸堂天真/ホロスターズ】
+UID:F7D-_gptnUE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雀魂】ホロプロ麻雀対決：夕刻ロベル視点【#ホロプロ麻雀】\nhttps://www.youtube.com/watch?v=J9ER1QHSo_c
+DURATION:PT2H
+DTSTART:20200617T140000Z
+SUMMARY:🍷夕刻ロベル: 【雀魂】ホロプロ麻雀対決：夕刻ロベル視点【#ホロプロ麻雀】
+UID:J9ER1QHSo_c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雀魂】ホロプロ麻雀対決：アルランディス視点【#ホロプロ麻雀】\nhttps://www.youtube.com/watch?v=q3nKagdemIo
+DURATION:PT2H
+DTSTART:20200617T140000Z
+SUMMARY:🍕アルランディス: 【雀魂】ホロプロ麻雀対決：アルランディス視点【#ホロプロ麻雀】
+UID:q3nKagdemIo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】みんなと話せてなさすぎて寂しかったの…😖【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=Ga7YoSrsxPQ
@@ -18,6 +32,13 @@ SUMMARY:月下カオル: 【雑談】みんなと話せてなさすぎて寂し�
 UID:Ga7YoSrsxPQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【弾き語り】暑くなってきたから爽やかに歌う【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=3WuCmdXlDz0
+DURATION:PT2H
+DTSTART:20200616T060000Z
+SUMMARY:⚙律可: 【弾き語り】暑くなってきたから爽やかに歌う【律可/ホロスターズ】
+UID:3WuCmdXlDz0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】くそやかましAPEX【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=a5b0gyZAX2I
 DURATION:PT2H
 DTSTART:20200616T040000Z
@@ -25,11 +46,32 @@ SUMMARY:🍷夕刻ロベル: 【APEX】くそやかましAPEX【ホロスター�
 UID:a5b0gyZAX2I
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:#44【弾き語り】夜なのでしっとり歌おうと、する【奏手イヅル】\nhttps://www.youtube.com/watch?v=-e1_c5r-AL8
+DURATION:PT2H
+DTSTART:20200616T140000Z
+SUMMARY:🎸奏手イヅル: #44【弾き語り】夜なのでしっとり歌おうと、する【奏手イヅル】
+UID:-e1_c5r-AL8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #アランストリーム 】今だ初見で遊べる東方があることに…感謝 -東方新霊廟-【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=a3q-M1wKioQ
+DURATION:PT2H
+DTSTART:20200618T130000Z
+SUMMARY:🍕アルランディス: 【 #アランストリーム 】今だ初見で遊べる東方があることに…感謝 -東方新霊廟-【ホロスターズ/アルランディス】
+UID:a3q-M1wKioQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【記念枠】重大発表&３万人記念枠！！！！！！【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=ngp51EEwSyQ
 DURATION:PT2H
 DTSTART:20200618T120000Z
 SUMMARY:⚙律可: 【記念枠】重大発表&３万人記念枠！！！！！！【律可/ホロスターズ】
 UID:ngp51EEwSyQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【壺おじ】耐久の為の予行練習枠【ホロスターズ/影山シエン】\nhttps://www.youtube.com/watch?v=QG3Vc4_2dOU
+DURATION:PT2H
+DTSTART:20200616T090000Z
+SUMMARY:影山シエン: 【壺おじ】耐久の為の予行練習枠【ホロスターズ/影山シエン】
+UID:QG3Vc4_2dOU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【行方不明】初めてのホラゲー配信。私がどれだけホラーが苦手が見せましょう。【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=AYHYDXlh45A
@@ -53,13 +95,6 @@ SUMMARY:🍷夕刻ロベル: 『風のさかな』ライブ【ホロスターズ
 UID:ghk4QRMgJvw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【壺おじ】耐久の為の予行練習枠【ホロスターズ/影山シエン】\nhttps://www.youtube.com/watch?v=QG3Vc4_2dOU
-DURATION:PT2H
-DTSTART:20200616T090000Z
-SUMMARY:影山シエン: 【壺おじ】耐久の為の予行練習枠【ホロスターズ/影山シエン】
-UID:QG3Vc4_2dOU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【朝活】生活習慣改善WEEK放送【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=fg2mKucVWlc
 DURATION:PT2H
 DTSTART:20200616T010000Z
@@ -72,47 +107,5 @@ DURATION:PT2H
 DTSTART:20200617T140000Z
 SUMMARY:月下カオル: 【雀魂】ホロプロ内戦勃発！！先輩たちの胸を借りて打つぞ～😆【月下カオル視点/ホロスターズ】
 UID:OwLmfSNIUCo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雀魂】ホロプロ麻雀対決：夕刻ロベル視点【#ホロプロ麻雀】\nhttps://www.youtube.com/watch?v=J9ER1QHSo_c
-DURATION:PT2H
-DTSTART:20200617T140000Z
-SUMMARY:🍷夕刻ロベル: 【雀魂】ホロプロ麻雀対決：夕刻ロベル視点【#ホロプロ麻雀】
-UID:J9ER1QHSo_c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雀魂】ホロプロ麻雀対決：アルランディス視点【#ホロプロ麻雀】\nhttps://www.youtube.com/watch?v=q3nKagdemIo
-DURATION:PT2H
-DTSTART:20200617T140000Z
-SUMMARY:🍕アルランディス: 【雀魂】ホロプロ麻雀対決：アルランディス視点【#ホロプロ麻雀】
-UID:q3nKagdemIo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【弾き語り】暑くなってきたから爽やかに歌う【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=3WuCmdXlDz0
-DURATION:PT2H
-DTSTART:20200616T060000Z
-SUMMARY:⚙律可: 【弾き語り】暑くなってきたから爽やかに歌う【律可/ホロスターズ】
-UID:3WuCmdXlDz0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#44【弾き語り】夜なのでしっとり歌おうと、する【奏手イヅル】\nhttps://www.youtube.com/watch?v=-e1_c5r-AL8
-DURATION:PT2H
-DTSTART:20200616T140000Z
-SUMMARY:🎸奏手イヅル: #44【弾き語り】夜なのでしっとり歌おうと、する【奏手イヅル】
-UID:-e1_c5r-AL8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #アランストリーム 】今だ初見で遊べる東方があることに…感謝 -東方新霊廟-【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=a3q-M1wKioQ
-DURATION:PT2H
-DTSTART:20200618T130000Z
-SUMMARY:🍕アルランディス: 【 #アランストリーム 】今だ初見で遊べる東方があることに…感謝 -東方新霊廟-【ホロスターズ/アルランディス】
-UID:a3q-M1wKioQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ゆるスタ】棒人間がバチバチに戦うゲームで決闘をしよう。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=F7D-_gptnUE
-DURATION:PT2H
-DTSTART:20200616T120000Z
-SUMMARY:🦔💨岸堂天真: 【#ゆるスタ】棒人間がバチバチに戦うゲームで決闘をしよう。【岸堂天真/ホロスターズ】
-UID:F7D-_gptnUE
 END:VEVENT
 END:VCALENDAR
