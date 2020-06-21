@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【深夜雑談】一つの物語を見た一日だった【奏手イヅル】\nhttps://www.youtube.com/watch?v=_6cQJLTCtok
+DURATION:PT2H
+DTSTART:20200621T150000Z
+SUMMARY:🎸奏手イヅル: 【深夜雑談】一つの物語を見た一日だった【奏手イヅル】
+UID:_6cQJLTCtok
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 #アランストリーム 】ホロスタオリジナルすごろくを作ろう！【月下カオル/アルランディス】\nhttps://www.youtube.com/watch?v=bXmYnd6h0b8
 DURATION:PT2H
 DTSTART:20200620T133000Z
@@ -30,13 +37,6 @@ DURATION:PT2H
 DTSTART:20200620T120000Z
 SUMMARY:🎭アステル・レダ: 【行方不明】いなくなった子供たちを探す...?やだね。【ホロスターズ/アステル】
 UID:Pff40SpYYLY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【壺耐久】MISSION！デカいヤマを乗り切れ！！！【ホロスターズ/影山シエン】\nhttps://www.youtube.com/watch?v=69oqkPQty3s
-DURATION:PT2H
-DTSTART:20200621T051500Z
-SUMMARY:影山シエン: 【壺耐久】MISSION！デカいヤマを乗り切れ！！！【ホロスターズ/影山シエン】
-UID:69oqkPQty3s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】ランク潜ります【ホロスターズ/影山シエン】\nhttps://www.youtube.com/watch?v=8k88rvvC_7E
