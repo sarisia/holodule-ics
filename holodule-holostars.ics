@@ -60,18 +60,18 @@ SUMMARY:🍕アルランディス: 【 #アランストリーム 】オレのリ
 UID:E5-YwGPoWmc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#律可3D】３Dお披露目ライブ！一緒に盛り上がろう！！【ホロスターズ/律可】\nhttps://www.youtube.com/watch?v=OJWVFa-2ggY
-DURATION:PT2H
-DTSTART:20200621T110000Z
-SUMMARY:⚙律可: 【#律可3D】３Dお披露目ライブ！一緒に盛り上がろう！！【ホロスターズ/律可】
-UID:OJWVFa-2ggY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【朝活】生活習慣改善WEEK放送－DAY5－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=gnQ16sqgq64
 DURATION:PT2H
 DTSTART:20200621T000000Z
 SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善WEEK放送－DAY5－【ホロスターズ/夕刻ロベル】
 UID:gnQ16sqgq64
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#律可3D】３Dお披露目ライブ！一緒に盛り上がろう！！【ホロスターズ/律可】\nhttps://www.youtube.com/watch?v=OJWVFa-2ggY
+DURATION:PT2H
+DTSTART:20200621T110000Z
+SUMMARY:⚙律可: 【#律可3D】３Dお披露目ライブ！一緒に盛り上がろう！！【ホロスターズ/律可】
+UID:OJWVFa-2ggY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #アランストリーム 】4か月の修行の成果…ﾐｾﾃﾔﾙｯ!!!-東方風神録-【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=IX-b4vDsS4U
@@ -128,5 +128,12 @@ DURATION:PT2H
 DTSTART:20200621T143000Z
 SUMMARY:月下カオル: 【カニノケンカ】さぁ、最強のカニを決めよう。【月下カオル/ホロスターズ】
 UID:Hj01cY8gH3o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【天真サイン決め会】かっこいいサイン考えたいから力を貸してほしい!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=dir7hokyKdk
+DURATION:PT2H
+DTSTART:20200622T070000Z
+SUMMARY:🦔💨岸堂天真: 【天真サイン決め会】かっこいいサイン考えたいから力を貸してほしい!!【岸堂天真/ホロスターズ】
+UID:dir7hokyKdk
 END:VEVENT
 END:VCALENDAR
