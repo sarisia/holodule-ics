@@ -46,18 +46,18 @@ SUMMARY:🍕アルランディス: 【 #アランストリーム 】オレのリ
 UID:E5-YwGPoWmc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【銀河的お悩み相談室】こんな暑い日は、冷えピタ貼って早く寝ろ。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=OuHsp3sFKG0
-DURATION:PT2H
-DTSTART:20200623T130000Z
-SUMMARY:🎭アステル・レダ: 【銀河的お悩み相談室】こんな暑い日は、冷えピタ貼って早く寝ろ。【ホロスターズ/アステル】
-UID:OuHsp3sFKG0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】久しぶりのソロ！せっかくだからランクマ潜るぞ😎【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=rt7JZsG4hvM
 DURATION:PT2H
 DTSTART:20200623T043000Z
 SUMMARY:月下カオル: 【APEX】久しぶりのソロ！せっかくだからランクマ潜るぞ😎【月下カオル/ホロスターズ】
 UID:rt7JZsG4hvM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【銀河的お悩み相談室】こんな暑い日は、冷えピタ貼って早く寝ろ。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=OuHsp3sFKG0
+DURATION:PT2H
+DTSTART:20200623T130000Z
+SUMMARY:🎭アステル・レダ: 【銀河的お悩み相談室】こんな暑い日は、冷えピタ貼って早く寝ろ。【ホロスターズ/アステル】
+UID:OuHsp3sFKG0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #アランストリーム 】語らえ！東方Project With 月下カオル/影山シエン/シノヴ【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=_fSjH7TbGvw
@@ -86,6 +86,13 @@ DURATION:PT2H
 DTSTART:20200623T150000Z
 SUMMARY:💙鏡見キラ: 【行方不明】ホラゲって怖くないよね？【ホロスターズ/鏡見キラ】
 UID:H1KXw3TD59U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【嘘つき姫と盲目王子】狼の化け物と人間の王子の話。第２話【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=8nXpI2m39a8
+DURATION:PT2H
+DTSTART:20200624T123000Z
+SUMMARY:🌺花咲みやび: 【嘘つき姫と盲目王子】狼の化け物と人間の王子の話。第２話【花咲みやび/ホロスターズ】
+UID:8nXpI2m39a8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談コラボ】この配信は残せる自信がありません【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=HjWPCBecw0Y
