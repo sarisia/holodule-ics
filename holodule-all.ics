@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ピアノのお稽古(ゲリラ)】ねむねむピアノの時間なのら🎵【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=bYKvERnZQFg
+DURATION:PT2H
+DTSTART:20200624T160000Z
+SUMMARY:🍬姫森ルーナ: 【ピアノのお稽古(ゲリラ)】ねむねむピアノの時間なのら🎵【姫森ルーナ/ホロライブ】
+UID:bYKvERnZQFg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【爆弾解除】今度は僕の家に爆弾が！？カオル！僕を助けてくれないか！？【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=1ks2mH2ACF8
 DURATION:PT2H
 DTSTART:20200625T140000Z
@@ -109,10 +116,10 @@ SUMMARY:🤖ロボ子さん: 【APEX】アプデが終わったあああああ�
 UID:KL7-yxm7VJk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DM雑談】教えて！オタクライフハック！！！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=apnpllIWDsE
+DESCRIPTION:【DM雑談】俺の！私の！！おすすめオタ活！！～日常に推しを添えて～【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=apnpllIWDsE
 DURATION:PT2H
 DTSTART:20200625T130000Z
-SUMMARY:🚑大空スバル: 【DM雑談】教えて！オタクライフハック！！！！【ホロライブ/大空スバル】
+SUMMARY:🚑大空スバル: 【DM雑談】俺の！私の！！おすすめオタ活！！～日常に推しを添えて～【ホロライブ/大空スバル】
 UID:apnpllIWDsE
 END:VEVENT
 BEGIN:VEVENT
@@ -125,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Ark: Survival Evolved】今日はダイビング！へなちょこ悪魔の素材王の道！エレメント鉱石採取編【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=l11X_qKk2m4
 DURATION:PT2H
-DTSTART:20200624T160000Z
+DTSTART:20200624T163000Z
 SUMMARY:💋癒月ちょこSub: 【Ark: Survival Evolved】今日はダイビング！へなちょこ悪魔の素材王の道！エレメント鉱石採取編【ホロライブ/癒月ちょこ】
 UID:l11X_qKk2m4
 END:VEVENT
@@ -254,6 +261,13 @@ DURATION:PT2H
 DTSTART:20200623T161500Z
 SUMMARY:荒咬オウガ: 【雑談】～俺とオマエさんとピロートーク＃7～【荒咬オウガ/ホロスターズ】
 UID:2s5k_Eig1Ec
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【変な枠】第一回！夕刻ロベル偏見トーナメント！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=oGqvQvVzVZc
+DURATION:PT2H
+DTSTART:20200625T100000Z
+SUMMARY:🍷夕刻ロベル: 【変な枠】第一回！夕刻ロベル偏見トーナメント！！【ホロスターズ/夕刻ロベル】
+UID:oGqvQvVzVZc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】スパレジェガチャ！あのミラージュで殴りたい👊【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=MTTOP5XOLXY
