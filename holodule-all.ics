@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Feeding Frenzy 2】Eat a fish! Part 2 - ID | EN【holoID】\nhttps://www.youtube.com/watch?v=P0J2fUawBNs
-DURATION:PT2H
-DTSTART:20200627T150000Z
-SUMMARY:🔮Moona: 【Feeding Frenzy 2】Eat a fish! Part 2 - ID | EN【holoID】
-UID:P0J2fUawBNs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【振り返り雑談】何かすっげぇ色々あった様な気がするこの6月【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=MfvwmLQUXow
 DURATION:PT2H
 DTSTART:20200629T130000Z
 SUMMARY:🍷夕刻ロベル: 【振り返り雑談】何かすっげぇ色々あった様な気がするこの6月【ホロスターズ/夕刻ロベル】
 UID:MfvwmLQUXow
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Feeding Frenzy 2】Eat a fish! Part 2 - ID | EN【holoID】\nhttps://www.youtube.com/watch?v=P0J2fUawBNs
+DURATION:PT2H
+DTSTART:20200627T150000Z
+SUMMARY:🔮Moona: 【Feeding Frenzy 2】Eat a fish! Part 2 - ID | EN【holoID】
+UID:P0J2fUawBNs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【予定地】大神ミオ初めてのARK【超初心者】\nhttps://www.youtube.com/watch?v=oFDZFV3EBkk
@@ -67,6 +67,13 @@ SUMMARY:🌸さくらみこ: 【#偽さくらみこ】３０万人記念凸待�
 UID:yme3xWii7ow
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ゆび】配信予定地【ゆび】\nhttps://www.youtube.com/watch?v=Q7DS6uaInMA
+DURATION:PT2H
+DTSTART:20200629T130000Z
+SUMMARY:🥐戌神ころね: 【ゆび】配信予定地【ゆび】
+UID:Q7DS6uaInMA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【PIEN】ホラゲ苦手でもこれなら余裕でしょｗｗｗ【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=UIZdCMBkGvs
 DURATION:PT2H
 DTSTART:20200630T140000Z
@@ -86,6 +93,13 @@ DURATION:PT2H
 DTSTART:20200628T120000Z
 SUMMARY:⚓湊あくあ: う～た～う～よ～～～～！！！
 UID:uMNYmSgNRxg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#VTuberチップス2】またまた誤発注!?VTuberチップス2を開けまくれ!!開封の儀【◯◯◯袋ガチャ】\nhttps://www.youtube.com/watch?v=Xm8k5KAyD1k
+DURATION:PT2H
+DTSTART:20200629T100000Z
+SUMMARY:ホロライブ: 【#VTuberチップス2】またまた誤発注!?VTuberチップス2を開けまくれ!!開封の儀【◯◯◯袋ガチャ】
+UID:Xm8k5KAyD1k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【シェフィ】#3 ポストラヴズに挑戦！第３話から！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=HpQB4eS2j3g
@@ -263,6 +277,13 @@ SUMMARY:🤖ロボ子さん: 【APEX】何さぷてち【ホロライブ/ロボ�
 UID:2gPXlutoP44
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【マインクラフト】ダイヤモンドよりも強い鉱石がネザーにあるらしいぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=WRLK9w5s6k4
+DURATION:PT2H
+DTSTART:20200629T120000Z
+SUMMARY:👯兎田ぺこら: 【マインクラフト】ダイヤモンドよりも強い鉱石がネザーにあるらしいぺこ！【ホロライブ/兎田ぺこら】
+UID:WRLK9w5s6k4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】オリジナルMV公開前！！プレミア公開待つぞ！【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=XqvTgPW1pjM
 DURATION:PT2H
 DTSTART:20200628T113000Z
@@ -347,18 +368,18 @@ SUMMARY:🔥不知火フレア: 【MuseDash】せーの！ぷないぷな～い�
 UID:iYgk4hFOpIU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ピアノのお稽古(ゲリラ)】寝んね前に少しだけ。。。🎵【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=reGtOEHgwLg
-DURATION:PT2H
-DTSTART:20200628T163000Z
-SUMMARY:🍬姫森ルーナ: 【ピアノのお稽古(ゲリラ)】寝んね前に少しだけ。。。🎵【姫森ルーナ/ホロライブ】
-UID:reGtOEHgwLg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】デビューから半年を振り返る！７月公開のオリジナル曲も少し流すよ！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=IJ7Da4i61Yw
 DURATION:PT2H
 DTSTART:20200629T120000Z
 SUMMARY:🐏角巻わため: 【雑談】デビューから半年を振り返る！７月公開のオリジナル曲も少し流すよ！【角巻わため/ホロライブ４期生】
 UID:IJ7Da4i61Yw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ピアノのお稽古(ゲリラ)】寝んね前に少しだけ。。。🎵【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=reGtOEHgwLg
+DURATION:PT2H
+DTSTART:20200628T163000Z
+SUMMARY:🍬姫森ルーナ: 【ピアノのお稽古(ゲリラ)】寝んね前に少しだけ。。。🎵【姫森ルーナ/ホロライブ】
+UID:reGtOEHgwLg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#雀魂】振り込む度に存在感が薄くなる麻雀大会【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=Tary0D9AVbQ
@@ -368,18 +389,18 @@ SUMMARY:🌽白上フブキ: 【#雀魂】振り込む度に存在感が薄く�
 UID:Tary0D9AVbQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:よ　う　こ　そ　F　P　S　の　沼　へ\nhttps://www.youtube.com/watch?v=n5YxknfHvR4
-DURATION:PT2H
-DTSTART:20200629T050000Z
-SUMMARY:👾常闇トワ: よ　う　こ　そ　F　P　S　の　沼　へ
-UID:n5YxknfHvR4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【半年記念】三人揃っての半年記念放送！－SunTempo結成記念－【SunTempo】\nhttps://www.youtube.com/watch?v=dgoKXK-jOTQ
 DURATION:PT2H
 DTSTART:20200629T110000Z
 SUMMARY:🍷夕刻ロベル: 【半年記念】三人揃っての半年記念放送！－SunTempo結成記念－【SunTempo】
 UID:dgoKXK-jOTQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:よ　う　こ　そ　F　P　S　の　沼　へ\nhttps://www.youtube.com/watch?v=n5YxknfHvR4
+DURATION:PT2H
+DTSTART:20200629T050000Z
+SUMMARY:👾常闇トワ: よ　う　こ　そ　F　P　S　の　沼　へ
+UID:n5YxknfHvR4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#桐生ココ】新あさココLIVE(ver.2.0)！6月29日【#ココここ】\nhttps://www.youtube.com/watch?v=3YXI583Bl3o
@@ -452,6 +473,13 @@ SUMMARY:🍷夕刻ロベル: 【#生ロベル24時】24時間雑談！－第2部
 UID:eYSIJgyvkN4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ころねのグットナイト★ルーティーン～北風と太陽編～\nhttps://www.youtube.com/watch?v=ofD4QJltFes
+DURATION:PT2H
+DTSTART:20200628T120015Z
+SUMMARY:🥐戌神ころね: ころねのグットナイト★ルーティーン～北風と太陽編～
+UID:ofD4QJltFes
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マインクラフト】初めてのエンダードラゴン討伐RTAに挑戦とおもったらこんなんなっちゃいましたぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=-sHyDIOBHuA
 DURATION:PT2H
 DTSTART:20200628T010000Z
@@ -464,13 +492,6 @@ DURATION:PT2H
 DTSTART:20200628T090000Z
 SUMMARY:💫天音かなた: 【犬鳴トンネル】離れないで【天音かなた/ホロライブ4期生】
 UID:BHxgv18vxKY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ころねのグットナイト★ルーティーン～北風と太陽編～\nhttps://www.youtube.com/watch?v=ofD4QJltFes
-DURATION:PT2H
-DTSTART:20200628T120015Z
-SUMMARY:🥐戌神ころね: ころねのグットナイト★ルーティーン～北風と太陽編～
-UID:ofD4QJltFes
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:『Minecraft』タージ結構進みました。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=4zdNYv7axiI
@@ -499,6 +520,13 @@ DURATION:PT2H
 DTSTART:20200629T140000Z
 SUMMARY:💫天音かなた: 【げつよる歌枠】ウィスパーボイスで睡眠導入すやすや【天音かなた/ホロライブ4期生】
 UID:zWHfRT9V2Fs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#桐生ココ】配信予定！【】\nhttps://www.youtube.com/watch?v=gIqxMwnUtiA
+DURATION:PT2H
+DTSTART:20200629T130000Z
+SUMMARY:🐉桐生ココ: 【#桐生ココ】配信予定！【】
+UID:gIqxMwnUtiA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:楽しい！！！お絵描き！！！するよ！！！【HOLOFOI】\nhttps://www.youtube.com/watch?v=Tiuv70M2WFo
