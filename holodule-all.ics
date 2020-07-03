@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【】【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=-7riAdMlMAI
+DURATION:PT2H
+DTSTART:20200703T140000Z
+SUMMARY:🌸さくらみこ: 【】【ホロライブ/さくらみこ】
+UID:-7riAdMlMAI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ARK:CRYSTAL ISLES】ミッションその3🦕【#常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=YkPqdeiC6QI
 DURATION:PT2H
 DTSTART:20200702T080000Z
@@ -338,6 +345,13 @@ DURATION:PT2H
 DTSTART:20200701T150000Z
 SUMMARY:🔥不知火フレア: 【マインクラフト】新ネザーがやばいってマジ！？【ホロライブ/不知火フレア】
 UID:qVOA2KeKDdc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#48【弾き語り】歌Vなのに歌枠全然してない件について【奏手イヅル】\nhttps://www.youtube.com/watch?v=BBO2b5Hqqn4
+DURATION:PT2H
+DTSTART:20200703T150000Z
+SUMMARY:🎸奏手イヅル: #48【弾き語り】歌Vなのに歌枠全然してない件について【奏手イヅル】
+UID:BBO2b5Hqqn4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】～独断と偏見によるMS決め～【荒咬オウガ　影山シエン】\nhttps://www.youtube.com/watch?v=2BVCt6-X7mw
