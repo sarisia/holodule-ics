@@ -53,18 +53,18 @@ SUMMARY:🍷夕刻ロベル: 【変な枠】知らないことを知ってるか
 UID:a4qpfWByIHg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ピアノのお稽古(ゲリラ)】雨降る夜に…🎵【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=wbkSeIVHEpY
-DURATION:PT2H
-DTSTART:20200701T150000Z
-SUMMARY:🍬姫森ルーナ: 【ピアノのお稽古(ゲリラ)】雨降る夜に…🎵【姫森ルーナ/ホロライブ】
-UID:wbkSeIVHEpY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【INSANIQUARIUM]】Blub blub blub~ IKAN! IKAAAAANN!! IKAN IOFI!!!【hololive-ID】\nhttps://www.youtube.com/watch?v=rzufxeKfs_s
 DURATION:PT2H
 DTSTART:20200703T140000Z
 SUMMARY:🎨Iofi: 【INSANIQUARIUM]】Blub blub blub~ IKAN! IKAAAAANN!! IKAN IOFI!!!【hololive-ID】
 UID:rzufxeKfs_s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ピアノのお稽古(ゲリラ)】雨降る夜に…🎵【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=wbkSeIVHEpY
+DURATION:PT2H
+DTSTART:20200701T150000Z
+SUMMARY:🍬姫森ルーナ: 【ピアノのお稽古(ゲリラ)】雨降る夜に…🎵【姫森ルーナ/ホロライブ】
+UID:wbkSeIVHEpY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#4 The Evil Within 2 【変態芸術家を弱らせる】サイコブレイク２\nhttps://www.youtube.com/watch?v=M6VGrK-_KpE
@@ -198,6 +198,13 @@ DURATION:PT2H
 DTSTART:20200702T090000Z
 SUMMARY:🐻ときのそら: 【のんびりと】アカペラ歌枠するの【＃ときのそら生放送】
 UID:RKcwNcJI_Is
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ピキったら負け☆彡【はあちゃま音MAD】\nhttps://www.youtube.com/watch?v=CiueWFfyAXw
+DURATION:PT2H
+DTSTART:20200703T100521Z
+SUMMARY:❤赤井はあと: ピキったら負け☆彡【はあちゃま音MAD】
+UID:CiueWFfyAXw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Ark: Survival Evolved】へなちょこ悪魔がまったり素材集め作業する！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=O7YGA_pJ2ww
@@ -361,11 +368,11 @@ SUMMARY:⚓湊あくあ: 【 #あくあマリンの絆 】負けるたびに体�
 UID:O0YlcpHc6bU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ちょこっとクッキング】へなちょこ悪魔がスバルイメージのお子様ランチ作る！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=u6z7QXGLv8Y
+DESCRIPTION:【耐久配信予定】今話題の！ロリダークソウルをクリアまで！！【Little Witch Nobeta】\nhttps://www.youtube.com/watch?v=TBFFaqYBsdA
 DURATION:PT2H
-DTSTART:20200702T030000Z
-SUMMARY:💋癒月ちょこ: 【#ちょこっとクッキング】へなちょこ悪魔がスバルイメージのお子様ランチ作る！【ホロライブ/癒月ちょこ】
-UID:u6z7QXGLv8Y
+DTSTART:20200704T030000Z
+SUMMARY:⚓湊あくあ: 【耐久配信予定】今話題の！ロリダークソウルをクリアまで！！【Little Witch Nobeta】
+UID:TBFFaqYBsdA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロスタ偏見バトル】第一回、ホロスタ偏見バトル。夕刻ロベルvs奏手イヅル【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=xauGrtaMYSM
@@ -375,11 +382,11 @@ SUMMARY:🍷夕刻ロベル: 【#ホロスタ偏見バトル】第一回、ホ�
 UID:xauGrtaMYSM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【耐久配信予定】今話題の！ロリダークソウルをクリアまで！！【Little Witch Nobeta】\nhttps://www.youtube.com/watch?v=TBFFaqYBsdA
+DESCRIPTION:【#ちょこっとクッキング】へなちょこ悪魔がスバルイメージのお子様ランチ作る！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=u6z7QXGLv8Y
 DURATION:PT2H
-DTSTART:20200704T030000Z
-SUMMARY:⚓湊あくあ: 【耐久配信予定】今話題の！ロリダークソウルをクリアまで！！【Little Witch Nobeta】
-UID:TBFFaqYBsdA
+DTSTART:20200702T030000Z
+SUMMARY:💋癒月ちょこ: 【#ちょこっとクッキング】へなちょこ悪魔がスバルイメージのお子様ランチ作る！【ホロライブ/癒月ちょこ】
+UID:u6z7QXGLv8Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【夜勤事件】深夜３時に何も起こらない訳がないのらっ！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=JGmNrCgigaw
@@ -466,18 +473,18 @@ SUMMARY:🚑大空スバル: 【 #大空家ユメグラ 】大空家といく！
 UID:t1D3O5RC_vc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝活】生活習慣改善－7月なのマジでウケる－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=6a-voHpY7n4
-DURATION:PT2H
-DTSTART:20200702T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－7月なのマジでウケる－【ホロスターズ/夕刻ロベル】
-UID:6a-voHpY7n4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#MuseDash】いろんな楽曲のSを取りたいのです！！！！！\nhttps://www.youtube.com/watch?v=gv3k2fzGiDg
 DURATION:PT2H
 DTSTART:20200703T090000Z
 SUMMARY:🌽白上フブキ: 【#MuseDash】いろんな楽曲のSを取りたいのです！！！！！
 UID:gv3k2fzGiDg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】生活習慣改善－7月なのマジでウケる－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=6a-voHpY7n4
+DURATION:PT2H
+DTSTART:20200702T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－7月なのマジでウケる－【ホロスターズ/夕刻ロベル】
+UID:6a-voHpY7n4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#02】怨霊に音量で立ち向かう！天使＆吸血鬼VS怨霊【夜空メル×天音かなた】\nhttps://www.youtube.com/watch?v=ybUCpY_h9K8
