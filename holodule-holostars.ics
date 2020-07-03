@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#ホロスタ偏見バトル】第一回、ホロスタ偏見バトル。夕刻ロベルvs奏手イヅル【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=xauGrtaMYSM
+DURATION:PT2H
+DTSTART:20200703T100000Z
+SUMMARY:🍷夕刻ロベル: 【#ホロスタ偏見バトル】第一回、ホロスタ偏見バトル。夕刻ロベルvs奏手イヅル【ホロスターズ/夕刻ロベル】
+UID:xauGrtaMYSM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【晩酌(🍼×7)雑談】今年も配信者泣かせな季節が来ました【奏手イヅル】\nhttps://www.youtube.com/watch?v=v-bv12sdtg8
 DURATION:PT2H
 DTSTART:20200701T150000Z
 SUMMARY:🎸奏手イヅル: 【晩酌(🍼×7)雑談】今年も配信者泣かせな季節が来ました【奏手イヅル】
 UID:v-bv12sdtg8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ホロスタ おうちデートボイスでトキメキたい!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=KbbUyL6iHIY
+DURATION:PT2H
+DTSTART:20200703T140000Z
+SUMMARY:🌺花咲みやび: ホロスタ おうちデートボイスでトキメキたい!!【花咲みやび/ホロスターズ】
+UID:KbbUyL6iHIY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #アランストリーム 】出目次第で地獄を見るすごろく【ホロスターズ】\nhttps://www.youtube.com/watch?v=JcWW3qbJoBU
@@ -60,13 +74,6 @@ SUMMARY:🍕アルランディス: 【 #アランストリーム 】もしかし
 UID:ROCaVxFXiGI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Muse Dash】ロボシンガーがやる初見音ゲー【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=zZtT-544SOM
-DURATION:PT2H
-DTSTART:20200703T130000Z
-SUMMARY:⚙律可: 【Muse Dash】ロボシンガーがやる初見音ゲー【律可/ホロスターズ】
-UID:zZtT-544SOM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】女装男子のスキンケアデッキ、大公開～！【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=J12GaCloQ-o
 DURATION:PT2H
 DTSTART:20200702T143500Z
@@ -109,11 +116,11 @@ SUMMARY:🍷夕刻ロベル: 夕刻ロベルのグッズ考案。これ要る？
 UID:toI5KHM9D9M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ホロスタ おうちデートボイスでトキメキたい!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=KbbUyL6iHIY
+DESCRIPTION:【Muse Dash】ロボシンガーがやる初見音ゲー【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=zZtT-544SOM
 DURATION:PT2H
-DTSTART:20200703T140000Z
-SUMMARY:🌺花咲みやび: ホロスタ おうちデートボイスでトキメキたい!!【花咲みやび/ホロスターズ】
-UID:KbbUyL6iHIY
+DTSTART:20200703T130000Z
+SUMMARY:⚙律可: 【Muse Dash】ロボシンガーがやる初見音ゲー【律可/ホロスターズ】
+UID:zZtT-544SOM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】競技人口1人のアイアンマンRTAの世界記録更新を目指します。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=LgzrsyEZLzE
