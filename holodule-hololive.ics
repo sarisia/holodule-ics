@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】今日も愛の共同作業なのら💗【姫森ルーナ/夏色まつり/ホロライブ】\nhttps://www.youtube.com/watch?v=Nr2D6T0zyJw
+DURATION:PT2H
+DTSTART:20200705T080000Z
+SUMMARY:🍬姫森ルーナ: 【Minecraft】今日も愛の共同作業なのら💗【姫森ルーナ/夏色まつり/ホロライブ】
+UID:Nr2D6T0zyJw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#天音かなた3D】天音かなた3Dお披露目！いっぱい見てっ！【#JointhefutureJP】\nhttps://www.youtube.com/watch?v=ZUW6CcY-Yf0
 DURATION:PT2H
 DTSTART:20200705T110000Z
@@ -235,13 +242,6 @@ SUMMARY:☄星街すいせい: 【ヴァンガZERO】トライアルデッキで
 UID:2TRd-2q9JYA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Getting Over Itwith Bennett Foddy】へなちょこ悪魔の壺おじ２日目！クリアできるのか？！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=p4h3g2iX6iQ
-DURATION:PT2H
-DTSTART:20200705T030000Z
-SUMMARY:💋癒月ちょこ: 【Getting Over Itwith Bennett Foddy】へなちょこ悪魔の壺おじ２日目！クリアできるのか？！【ホロライブ/癒月ちょこ】
-UID:p4h3g2iX6iQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【イラスト】ホロおえかき部【ホロライブ/宝鐘マリン/不知火フレア/角巻わため】\nhttps://www.youtube.com/watch?v=-2XlYNOayHc
 DURATION:PT2H
 DTSTART:20200704T130000Z
@@ -317,5 +317,12 @@ DURATION:PT2H
 DTSTART:20200703T151500Z
 SUMMARY:🌽白上フブキ: ぴえんぴえんPIEN/RTA再送するぞ【ホロライブ/白上フブキ】
 UID:gutQidPIhiA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【壺男/ノエル視点】罰ゲームをかけた3期生｢Getting Over It｣頂上決戦！同時プレイ【ホロライブ/白銀ノエル・兎田ぺこら】\nhttps://www.youtube.com/watch?v=zbmBcgeDhmY
+DURATION:PT2H
+DTSTART:20200705T120000Z
+SUMMARY:⚔白銀ノエル: 【壺男/ノエル視点】罰ゲームをかけた3期生｢Getting Over It｣頂上決戦！同時プレイ【ホロライブ/白銀ノエル・兎田ぺこら】
+UID:zbmBcgeDhmY
 END:VEVENT
 END:VCALENDAR
