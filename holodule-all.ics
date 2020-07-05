@@ -74,18 +74,18 @@ SUMMARY:🍬姫森ルーナ: 【ピアノのお稽古＊感謝】もう半年経
 UID:r3QYSuBE3rA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:夕刻ロベルの『男梅について語りたいんや！』【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=N5u_wayNS3E
-DURATION:PT2H
-DTSTART:20200703T160000Z
-SUMMARY:🍷夕刻ロベル: 夕刻ロベルの『男梅について語りたいんや！』【ホロスターズ/夕刻ロベル】
-UID:N5u_wayNS3E
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Ark: Survival Evolved】へなちょこ悪魔はティラノ厳選したいんじゃ【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=JUpLrwilqOU
 DURATION:PT2H
 DTSTART:20200704T060000Z
 SUMMARY:💋癒月ちょこSub: 【Ark: Survival Evolved】へなちょこ悪魔はティラノ厳選したいんじゃ【ホロライブ/癒月ちょこ】
 UID:JUpLrwilqOU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:夕刻ロベルの『男梅について語りたいんや！』【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=N5u_wayNS3E
+DURATION:PT2H
+DTSTART:20200703T160000Z
+SUMMARY:🍷夕刻ロベル: 夕刻ロベルの『男梅について語りたいんや！』【ホロスターズ/夕刻ロベル】
+UID:N5u_wayNS3E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#金髪組卍】Overcooked! 2/金髪組は料理がうまい！？【夜空メル×不知火フレア×角巻わため×癒月ちょこ】\nhttps://www.youtube.com/watch?v=FzMDdA-mhOk
@@ -123,18 +123,18 @@ SUMMARY:ホロライブ: 【アニメ】全員ぶっ潰せ！
 UID:NU4RAfwXL8Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】1時間で出したダメージ＝明日の食費！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=FKPUxNw1YD4
-DURATION:PT2H
-DTSTART:20200704T140000Z
-SUMMARY:🏮夏色まつり: 【APEX】1時間で出したダメージ＝明日の食費！【ホロライブ/夏色まつり】
-UID:FKPUxNw1YD4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【親BK企画】みんなが飼ってるペットを見て癒されたい！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=IL30l6KPaXE
 DURATION:PT2H
 DTSTART:20200705T090000Z
 SUMMARY:🤖ロボ子さん: 【親BK企画】みんなが飼ってるペットを見て癒されたい！！【ホロライブ/ロボ子さん】
 UID:IL30l6KPaXE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】1時間で出したダメージ＝明日の食費！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=FKPUxNw1YD4
+DURATION:PT2H
+DTSTART:20200704T140000Z
+SUMMARY:🏮夏色まつり: 【APEX】1時間で出したダメージ＝明日の食費！【ホロライブ/夏色まつり】
+UID:FKPUxNw1YD4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:レッドブルの使用方法5選【はあちゃまライフ】\nhttps://www.youtube.com/watch?v=-i_a0iafU3Q
@@ -179,18 +179,18 @@ SUMMARY:💋癒月ちょこ: 【#ちょこっとクッキング】へなちょ�
 UID:LsmlgwB0SP8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【まったり雑談】07/04  おあようスバル【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=DQETgdpr3Jo
-DURATION:PT2H
-DTSTART:20200704T010500Z
-SUMMARY:🚑大空スバル: 【まったり雑談】07/04  おあようスバル【ホロライブ/大空スバル】
-UID:DQETgdpr3Jo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【新曲披露＆重大発表！！】AZKi生放送 #15　生誕ライブSP！\nhttps://www.youtube.com/watch?v=SIU7AhRwCWQ
 DURATION:PT2H
 DTSTART:20200704T100000Z
 SUMMARY:⚒AZKi: 【新曲披露＆重大発表！！】AZKi生放送 #15　生誕ライブSP！
 UID:SIU7AhRwCWQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【まったり雑談】07/04  おあようスバル【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=DQETgdpr3Jo
+DURATION:PT2H
+DTSTART:20200704T010500Z
+SUMMARY:🚑大空スバル: 【まったり雑談】07/04  おあようスバル【ホロライブ/大空スバル】
+UID:DQETgdpr3Jo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【作業用ｂｇｍ】へなちょこ悪魔のARK生活！セメント大量生産編！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=UKTBA5aGQkU
@@ -410,6 +410,13 @@ SUMMARY:🍷夕刻ロベル: 【雀魂】良いんだ。俺はもう完全感覚
 UID:krK2ZzpU0to
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【壺男/ぺこら視点】同時プレイ！罰ゲームをかけた3期生「Getting Over It」 頂上決戦ぺこ！【ホロライブ/兎田ぺこら・白銀ノエル】\nhttps://www.youtube.com/watch?v=MmZ73QgoFVw
+DURATION:PT2H
+DTSTART:20200705T120000Z
+SUMMARY:👯兎田ぺこら: 【壺男/ぺこら視点】同時プレイ！罰ゲームをかけた3期生「Getting Over It」 頂上決戦ぺこ！【ホロライブ/兎田ぺこら・白銀ノエル】
+UID:MmZ73QgoFVw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【日本語版】Baby Doll-Utopia【Moona Hoshinova歌ってみた】\nhttps://www.youtube.com/watch?v=jL8xPsLKCog
 DURATION:PT2H
 DTSTART:20200704T120000Z
@@ -417,11 +424,11 @@ SUMMARY:🔮Moona: 【日本語版】Baby Doll-Utopia【Moona Hoshinova歌って
 UID:jL8xPsLKCog
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【壺男/ぺこら視点】同時プレイ！罰ゲームをかけた3期生「Getting Over It」 頂上決戦ぺこ！【ホロライブ/兎田ぺこら・白銀ノエル】\nhttps://www.youtube.com/watch?v=MmZ73QgoFVw
+DESCRIPTION:【 Overcooked2 】アイドルなんだから料理だってできるよなぁ！【アルランディス】\nhttps://www.youtube.com/watch?v=omF9TQ8Rbb0
 DURATION:PT2H
-DTSTART:20200705T120000Z
-SUMMARY:👯兎田ぺこら: 【壺男/ぺこら視点】同時プレイ！罰ゲームをかけた3期生「Getting Over It」 頂上決戦ぺこ！【ホロライブ/兎田ぺこら・白銀ノエル】
-UID:MmZ73QgoFVw
+DTSTART:20200705T100000Z
+SUMMARY:🍕アルランディス: 【 Overcooked2 】アイドルなんだから料理だってできるよなぁ！【アルランディス】
+UID:omF9TQ8Rbb0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #ホロARK探検隊 】ARKの世界にあくしお参戦！！大冒険💓【ホロライブ/紫咲シオン/湊あくあ】\nhttps://www.youtube.com/watch?v=Ws7_UWFc8Ps
