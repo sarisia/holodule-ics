@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【日本語版】Baby Doll-Utopia【Moona Hoshinova歌ってみた】\nhttps://www.youtube.com/watch?v=jL8xPsLKCog
+DESCRIPTION:【Getting Over It】LET! ME! WIN! AAAAAAAAAAAAAAAAAAAAAAAA【hololive-ID】\nhttps://www.youtube.com/watch?v=2-SsnwpLHvA
 DURATION:PT2H
-DTSTART:20200704T120000Z
-SUMMARY:🔮Moona: 【日本語版】Baby Doll-Utopia【Moona Hoshinova歌ってみた】
-UID:jL8xPsLKCog
+DTSTART:20200706T130000Z
+SUMMARY:🎨Iofi: 【Getting Over It】LET! ME! WIN! AAAAAAAAAAAAAAAAAAAAAAAA【hololive-ID】
+UID:2-SsnwpLHvA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Feeding Frenzy 2】Be a Fishermoon! Part 3 - ID | EN【holoID】\nhttps://www.youtube.com/watch?v=AraEfamMkWE
+DURATION:PT2H
+DTSTART:20200705T151500Z
+SUMMARY:🔮Moona: 【Feeding Frenzy 2】Be a Fishermoon! Part 3 - ID | EN【holoID】
+UID:AraEfamMkWE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mamah Moona KSZK Graduation Message\nhttps://www.youtube.com/watch?v=lktRNUxxc58
@@ -16,12 +23,5 @@ DURATION:PT2H
 DTSTART:20200705T141614Z
 SUMMARY:🎨Iofi: Mamah Moona KSZK Graduation Message
 UID:lktRNUxxc58
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Freetalk】Just talking with me - EN【holoID】\nhttps://www.youtube.com/watch?v=1LXkyfgcw5s
-DURATION:PT2H
-DTSTART:20200704T130000Z
-SUMMARY:🔮Moona: 【Freetalk】Just talking with me - EN【holoID】
-UID:1LXkyfgcw5s
 END:VEVENT
 END:VCALENDAR
