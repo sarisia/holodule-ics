@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:Mamah Moona KSZK Graduation Message from Risu\nhttps://www.youtube.com/watch?v=t1mYz8-do7k
+DURATION:PT2H
+DTSTART:20200706T103010Z
+SUMMARY:🐿Risu: Mamah Moona KSZK Graduation Message from Risu
+UID:t1mYz8-do7k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mamah Moona KSZK Graduation Message\nhttps://www.youtube.com/watch?v=lktRNUxxc58
+DURATION:PT2H
+DTSTART:20200705T141614Z
+SUMMARY:🎨Iofi: Mamah Moona KSZK Graduation Message
+UID:lktRNUxxc58
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Getting Over It】LET! ME! WIN! AAAAAAAAAAAAAAAAAAAAAAAA【hololive-ID】\nhttps://www.youtube.com/watch?v=2-SsnwpLHvA
 DURATION:PT2H
 DTSTART:20200706T130000Z
@@ -23,12 +37,5 @@ DURATION:PT2H
 DTSTART:20200705T170000Z
 SUMMARY:🔮Moona: 【ARK】Play ARK [ PART 2 ] - ID | EN【holoID】
 UID:VCAr4jDu31I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mamah Moona KSZK Graduation Message\nhttps://www.youtube.com/watch?v=lktRNUxxc58
-DURATION:PT2H
-DTSTART:20200705T141614Z
-SUMMARY:🎨Iofi: Mamah Moona KSZK Graduation Message
-UID:lktRNUxxc58
 END:VEVENT
 END:VCALENDAR
