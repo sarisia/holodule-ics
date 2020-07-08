@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【iorials #5】Coloring The Eyes So Your Waifu Will Not Be A Yandere【hololive-ID】\nhttps://www.youtube.com/watch?v=cC1s414eS9g
+DESCRIPTION:Bagaimana rasanya jadi Virtual Youtuber?\nhttps://www.youtube.com/watch?v=PZedaF5puNw
 DURATION:PT2H
-DTSTART:20200708T130000Z
-SUMMARY:🎨Iofi: 【iorials #5】Coloring The Eyes So Your Waifu Will Not Be A Yandere【hololive-ID】
-UID:cC1s414eS9g
+DTSTART:20200708T050003Z
+SUMMARY:IDholo: Bagaimana rasanya jadi Virtual Youtuber?
+UID:PZedaF5puNw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【hololiveID】Acapella Night with RISU #2【Ayunda Risu】\nhttps://www.youtube.com/watch?v=Xlwns3-cuXM
@@ -16,5 +16,12 @@ DURATION:PT2H
 DTSTART:20200707T150000Z
 SUMMARY:🐿Risu: 【hololiveID】Acapella Night with RISU #2【Ayunda Risu】
 UID:Xlwns3-cuXM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【iorials #5】Coloring The Eyes So Your Waifu Will Not Be A Yandere【hololive-ID】\nhttps://www.youtube.com/watch?v=cC1s414eS9g
+DURATION:PT2H
+DTSTART:20200708T130000Z
+SUMMARY:🎨Iofi: 【iorials #5】Coloring The Eyes So Your Waifu Will Not Be A Yandere【hololive-ID】
+UID:cC1s414eS9g
 END:VEVENT
 END:VCALENDAR
