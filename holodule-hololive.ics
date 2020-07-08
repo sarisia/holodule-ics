@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】アカペラでたくさんうたう～！🎵【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=clXusKnSBY0
-DURATION:PT2H
-DTSTART:20200708T140000Z
-SUMMARY:☄星街すいせい: 【歌枠】アカペラでたくさんうたう～！🎵【ホロライブ / 星街すいせい】
-UID:clXusKnSBY0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【起きる】早起きチャレンジぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=HHm61WP5cNM
 DURATION:PT2H
 DTSTART:20200708T210000Z
@@ -23,6 +16,13 @@ DURATION:PT2H
 DTSTART:20200708T132915Z
 SUMMARY:❤赤井はあと: はあちゃまチャンネル♪【テーマソング】
 UID:zSYo8ZIIU88
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ピアノのお稽古】深夜に癒しの音楽配信なのら🎵【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=No9WrR2WlsA
+DURATION:PT2H
+DTSTART:20200708T150000Z
+SUMMARY:🍬姫森ルーナ: 【ピアノのお稽古】深夜に癒しの音楽配信なのら🎵【姫森ルーナ/ホロライブ】
+UID:No9WrR2WlsA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】夏！！海だ！！歌枠だ！！！！！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=SXqkeL0uYTY
@@ -60,90 +60,6 @@ SUMMARY:👾常闇トワ: 【ARK:CRYSTAL ISLES】#デビメタ　🍉夏だか�
 UID:YIM2HI_iQao
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ミオスバARK】2人で一緒に初心者🔰サバイバル！！！\nhttps://www.youtube.com/watch?v=bq489lif7dc
-DURATION:PT2H
-DTSTART:20200708T140000Z
-SUMMARY:🌲大神ミオ: 【#ミオスバARK】2人で一緒に初心者🔰サバイバル！！！
-UID:bq489lif7dc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠🌸】へなちょこ地獄の歌枠🎤【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=S_4x0jUmtnk
-DURATION:PT2H
-DTSTART:20200708T120000Z
-SUMMARY:⚔白銀ノエル: 【歌枠🌸】へなちょこ地獄の歌枠🎤【白銀ノエル/ホロライブ】
-UID:S_4x0jUmtnk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【重大発表】重大すぎて重大な発表があります！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=BT0_YyiDdaA
-DURATION:PT2H
-DTSTART:20200708T110000Z
-SUMMARY:🐏角巻わため: 【重大発表】重大すぎて重大な発表があります！【角巻わため/ホロライブ４期生】
-UID:BT0_YyiDdaA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:登録者45万人ありがとう！感謝の気持ちを歌と伸びしろで表す！！#桐生ココ\nhttps://www.youtube.com/watch?v=cTh21wVoPiU
-DURATION:PT2H
-DTSTART:20200708T140000Z
-SUMMARY:🐉桐生ココ: 登録者45万人ありがとう！感謝の気持ちを歌と伸びしろで表す！！#桐生ココ
-UID:cTh21wVoPiU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【水色コンビ】音楽トークしちゃうよ生放送【＃アメノそら】\nhttps://www.youtube.com/watch?v=WguZ3MfISvU
-DURATION:PT2H
-DTSTART:20200708T110000Z
-SUMMARY:🐻ときのそら: 【水色コンビ】音楽トークしちゃうよ生放送【＃アメノそら】
-UID:WguZ3MfISvU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ARKSurvivalEvolved】EXTINXTIONへ遠征！はく製がほしい！！【#とまらないARK】\nhttps://www.youtube.com/watch?v=zyx0yjCtNdU
-DURATION:PT2H
-DTSTART:20200708T090000Z
-SUMMARY:🐉桐生ココ: 【#ARKSurvivalEvolved】EXTINXTIONへ遠征！はく製がほしい！！【#とまらないARK】
-UID:zyx0yjCtNdU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:たこ焼きキュウリこんにゃくのり巻き作った【はあちゃまクッキング】\nhttps://www.youtube.com/watch?v=0y6vH-AZKMk
-DURATION:PT2H
-DTSTART:20200708T153941Z
-SUMMARY:❤赤井はあと: たこ焼きキュウリこんにゃくのり巻き作った【はあちゃまクッキング】
-UID:0y6vH-AZKMk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Little Witch Nobeta】ADVANCEDモニカ戦！沼れ！！ #2【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=lICByfFTFw4
-DURATION:PT2H
-DTSTART:20200708T140000Z
-SUMMARY:🔥不知火フレア: 【Little Witch Nobeta】ADVANCEDモニカ戦！沼れ！！ #2【ホロライブ/不知火フレア】
-UID:lICByfFTFw4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#崩壊3rd】ホロの女子力強メンバーで！「戦⼄⼥の⾷卓」第1話/同時視聴配信\nhttps://www.youtube.com/watch?v=HsFGVlAkFqI
-DURATION:PT2H
-DTSTART:20200707T152000Z
-SUMMARY:🌽白上フブキ: 【#崩壊3rd】ホロの女子力強メンバーで！「戦⼄⼥の⾷卓」第1話/同時視聴配信
-UID:HsFGVlAkFqI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【エーペックスレジェンズ】夜食ちゃんぽん食べたい女たちのAPEX#2【夕陽リリ/天神子兎音/癒月ちょこ】\nhttps://www.youtube.com/watch?v=HKa2r_jY4wc
-DURATION:PT2H
-DTSTART:20200708T130000Z
-SUMMARY:💋癒月ちょこ: 【エーペックスレジェンズ】夜食ちゃんぽん食べたい女たちのAPEX#2【夕陽リリ/天神子兎音/癒月ちょこ】
-UID:HKa2r_jY4wc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARK｜Crystal Isles＃８】#デビメタ で海に潜る！！仲間もふえるかな🐬✨【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=aqWVbjf8d6M
-DURATION:PT2H
-DTSTART:20200708T130000Z
-SUMMARY:🤖ロボ子さん: 【ARK｜Crystal Isles＃８】#デビメタ で海に潜る！！仲間もふえるかな🐬✨【ホロライブ/ロボ子さん】
-UID:aqWVbjf8d6M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ピアノのお稽古】深夜に癒しの音楽配信なのら🎵【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=No9WrR2WlsA
-DURATION:PT2H
-DTSTART:20200708T150000Z
-SUMMARY:🍬姫森ルーナ: 【ピアノのお稽古】深夜に癒しの音楽配信なのら🎵【姫森ルーナ/ホロライブ】
-UID:No9WrR2WlsA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】今日は勝てる気がするな～～【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=r7Cvqyft5i4
 DURATION:PT2H
 DTSTART:20200708T120000Z
@@ -172,11 +88,25 @@ SUMMARY:🍬姫森ルーナ: 【七夕企画】おそうめんASMRで涼をと�
 UID:6JWt-YVwz1o
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#ミオスバARK】2人で一緒に初心者🔰サバイバル！！！\nhttps://www.youtube.com/watch?v=bq489lif7dc
+DURATION:PT2H
+DTSTART:20200708T140000Z
+SUMMARY:🌲大神ミオ: 【#ミオスバARK】2人で一緒に初心者🔰サバイバル！！！
+UID:bq489lif7dc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【はいしんよてい💘】【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=YqP54x_1rt8
 DURATION:PT2H
 DTSTART:20200709T100000Z
 SUMMARY:🏴☠宝鐘マリン: 【はいしんよてい💘】【ホロライブ/宝鐘マリン】
 UID:YqP54x_1rt8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠🌸】へなちょこ地獄の歌枠🎤【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=S_4x0jUmtnk
+DURATION:PT2H
+DTSTART:20200708T120000Z
+SUMMARY:⚔白銀ノエル: 【歌枠🌸】へなちょこ地獄の歌枠🎤【白銀ノエル/ホロライブ】
+UID:S_4x0jUmtnk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【作業用ｂｇｍ】へなちょこ悪魔のARK生活！色違いテイム編！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=UvJAyP_n45U
@@ -200,11 +130,46 @@ SUMMARY:🤖ロボ子さん: 【ARK｜Crystal Isles＃９】深夜作業！剥�
 UID:pY82LTV7iZo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【重大発表】重大すぎて重大な発表があります！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=BT0_YyiDdaA
+DURATION:PT2H
+DTSTART:20200708T110000Z
+SUMMARY:🐏角巻わため: 【重大発表】重大すぎて重大な発表があります！【角巻わため/ホロライブ４期生】
+UID:BT0_YyiDdaA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:登録者45万人ありがとう！感謝の気持ちを歌と伸びしろで表す！！#桐生ココ\nhttps://www.youtube.com/watch?v=cTh21wVoPiU
+DURATION:PT2H
+DTSTART:20200708T140000Z
+SUMMARY:🐉桐生ココ: 登録者45万人ありがとう！感謝の気持ちを歌と伸びしろで表す！！#桐生ココ
+UID:cTh21wVoPiU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:はあちゃまは変〇\nhttps://www.youtube.com/watch?v=afJEpNE-Al8
 DURATION:PT2H
 DTSTART:20200707T210455Z
 SUMMARY:❤赤井はあと: はあちゃまは変〇
 UID:afJEpNE-Al8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【水色コンビ】音楽トークしちゃうよ生放送【＃アメノそら】\nhttps://www.youtube.com/watch?v=WguZ3MfISvU
+DURATION:PT2H
+DTSTART:20200708T110000Z
+SUMMARY:🐻ときのそら: 【水色コンビ】音楽トークしちゃうよ生放送【＃アメノそら】
+UID:WguZ3MfISvU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ARKSurvivalEvolved】EXTINXTIONへ遠征！はく製がほしい！！【#とまらないARK】\nhttps://www.youtube.com/watch?v=zyx0yjCtNdU
+DURATION:PT2H
+DTSTART:20200708T090000Z
+SUMMARY:🐉桐生ココ: 【#ARKSurvivalEvolved】EXTINXTIONへ遠征！はく製がほしい！！【#とまらないARK】
+UID:zyx0yjCtNdU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:たこ焼きキュウリこんにゃくのり巻き作った【はあちゃまクッキング】\nhttps://www.youtube.com/watch?v=0y6vH-AZKMk
+DURATION:PT2H
+DTSTART:20200708T153941Z
+SUMMARY:❤赤井はあと: たこ焼きキュウリこんにゃくのり巻き作った【はあちゃまクッキング】
+UID:0y6vH-AZKMk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARK｜Extinction＃1】汚染たっぷり！？Extinctionで生き延びる！（観光）【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=FTJYaJfbqns
@@ -221,10 +186,38 @@ SUMMARY:🍎アキロゼ: 【歌と雑談】しっとり系の歌を歌ってみ
 UID:Vl_mJuohdtw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Little Witch Nobeta】ADVANCEDモニカ戦！沼れ！！ #2【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=lICByfFTFw4
+DURATION:PT2H
+DTSTART:20200708T140000Z
+SUMMARY:🔥不知火フレア: 【Little Witch Nobeta】ADVANCEDモニカ戦！沼れ！！ #2【ホロライブ/不知火フレア】
+UID:lICByfFTFw4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#崩壊3rd】ホロの女子力強メンバーで！「戦⼄⼥の⾷卓」第1話/同時視聴配信\nhttps://www.youtube.com/watch?v=HsFGVlAkFqI
+DURATION:PT2H
+DTSTART:20200707T152000Z
+SUMMARY:🌽白上フブキ: 【#崩壊3rd】ホロの女子力強メンバーで！「戦⼄⼥の⾷卓」第1話/同時視聴配信
+UID:HsFGVlAkFqI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【エーペックスレジェンズ】夜食ちゃんぽん食べたい女たちのAPEX#2【夕陽リリ/天神子兎音/癒月ちょこ】\nhttps://www.youtube.com/watch?v=HKa2r_jY4wc
+DURATION:PT2H
+DTSTART:20200708T130000Z
+SUMMARY:💋癒月ちょこ: 【エーペックスレジェンズ】夜食ちゃんぽん食べたい女たちのAPEX#2【夕陽リリ/天神子兎音/癒月ちょこ】
+UID:HKa2r_jY4wc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ツイ廃なのでツイートと会話するなどした\nhttps://www.youtube.com/watch?v=PPgGdJ5dAKI
 DURATION:PT2H
 DTSTART:20200708T081101Z
 SUMMARY:❤赤井はあと: ツイ廃なのでツイートと会話するなどした
 UID:PPgGdJ5dAKI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK｜Crystal Isles＃８】#デビメタ で海に潜る！！仲間もふえるかな🐬✨【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=aqWVbjf8d6M
+DURATION:PT2H
+DTSTART:20200708T130000Z
+SUMMARY:🤖ロボ子さん: 【ARK｜Crystal Isles＃８】#デビメタ で海に潜る！！仲間もふえるかな🐬✨【ホロライブ/ロボ子さん】
+UID:aqWVbjf8d6M
 END:VEVENT
 END:VCALENDAR
