@@ -25,18 +25,18 @@ SUMMARY:荒咬オウガ: 【記念配信】～10000人突破ァ！　記念に�
 UID:fhIvXmiLAB4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Minecraft 】#ゆるスタは競い合うのが好きらしい【アルランディス】\nhttps://www.youtube.com/watch?v=vSEocfQC6pE
-DURATION:PT2H
-DTSTART:20200707T103000Z
-SUMMARY:🍕アルランディス: 【 Minecraft 】#ゆるスタは競い合うのが好きらしい【アルランディス】
-UID:vSEocfQC6pE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】まったりホロスタ鯖散策!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=NoFcVCS8xuQ
 DURATION:PT2H
 DTSTART:20200707T140000Z
 SUMMARY:🌺花咲みやび: 【Minecraft】まったりホロスタ鯖散策!!【花咲みやび/ホロスターズ】
 UID:NoFcVCS8xuQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Minecraft 】#ゆるスタは競い合うのが好きらしい【アルランディス】\nhttps://www.youtube.com/watch?v=vSEocfQC6pE
+DURATION:PT2H
+DTSTART:20200707T103000Z
+SUMMARY:🍕アルランディス: 【 Minecraft 】#ゆるスタは競い合うのが好きらしい【アルランディス】
+UID:vSEocfQC6pE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ゆるスタ】「ダイヤに愛されるのは誰か」ダイヤ王選手権大会【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=vIQswro-g2Q
@@ -51,6 +51,13 @@ DURATION:PT2H
 DTSTART:20200707T040000Z
 SUMMARY:🍷夕刻ロベル: 【変な枠】『当たり前ボイス』公開収録【ホロスターズ/夕刻ロベル】
 UID:8_f9GOWzr1I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RiTunes Labo】セッション歌枠：ゲスト『アメノセイ』【律可/ホロスターズ 】#りちゅらぼ\nhttps://www.youtube.com/watch?v=sI7A6wc2M2I
+DURATION:PT2H
+DTSTART:20200709T110000Z
+SUMMARY:⚙律可: 【RiTunes Labo】セッション歌枠：ゲスト『アメノセイ』【律可/ホロスターズ 】#りちゅらぼ
+UID:sI7A6wc2M2I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ばぶどん】初対面を終えたバーのマスターとマフィアのボスの他愛のないお話【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=GJD6gAT_m0c
@@ -95,13 +102,6 @@ SUMMARY:月下カオル: 【雑談】朝ののんびりお化粧雑談～！🥰
 UID:7QUnxIdm0T0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【真・三国無双２】ワイ夏侯惇、関羽に出て行ってほしくなさすぎて泣く😢【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=rJ7SGdc_cNA
-DURATION:PT2H
-DTSTART:20200707T120000Z
-SUMMARY:月下カオル: 【真・三国無双２】ワイ夏侯惇、関羽に出て行ってほしくなさすぎて泣く😢【月下カオル/ホロスターズ】
-UID:rJ7SGdc_cNA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【弾き語り枠】昼から歌うよたまには普通の題名だよ！【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=QIWd0ZXS4Po
 DURATION:PT2H
 DTSTART:20200707T060000Z
@@ -123,10 +123,17 @@ SUMMARY:🍕アルランディス: 【雀魂】何も知らない男が何も知
 UID:ayCvRfI4wVw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RiTunes Labo】セッション歌枠：ゲスト『アメノセイ』【律可/ホロスターズ 】#りちゅらぼ\nhttps://www.youtube.com/watch?v=sI7A6wc2M2I
+DESCRIPTION:【真・三国無双２】ワイ夏侯惇、関羽に出て行ってほしくなさすぎて泣く😢【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=rJ7SGdc_cNA
 DURATION:PT2H
-DTSTART:20200709T110000Z
-SUMMARY:⚙律可: 【RiTunes Labo】セッション歌枠：ゲスト『アメノセイ』【律可/ホロスターズ 】#りちゅらぼ
-UID:sI7A6wc2M2I
+DTSTART:20200707T120000Z
+SUMMARY:月下カオル: 【真・三国無双２】ワイ夏侯惇、関羽に出て行ってほしくなさすぎて泣く😢【月下カオル/ホロスターズ】
+UID:rJ7SGdc_cNA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談コラボ】あにまーれからのお客様！柚原いづみさんの来店や！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=eb2NqkREUBE
+DURATION:PT2H
+DTSTART:20200708T110000Z
+SUMMARY:🍷夕刻ロベル: 【雑談コラボ】あにまーれからのお客様！柚原いづみさんの来店や！！【ホロスターズ/夕刻ロベル】
+UID:eb2NqkREUBE
 END:VEVENT
 END:VCALENDAR
