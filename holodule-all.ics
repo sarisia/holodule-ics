@@ -11,6 +11,13 @@ SUMMARY:月下カオル: 【ARK Genesis】せんぱぁ～～い！！右も左�
 UID:nJeb0k8fta4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:今日もはあ虐で飯を食う\nhttps://www.youtube.com/watch?v=a0EOKKRph54
+DURATION:PT2H
+DTSTART:20200709T105045Z
+SUMMARY:❤赤井はあと: 今日もはあ虐で飯を食う
+UID:a0EOKKRph54
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【最近】【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=pUE6ASZymgI
 DURATION:PT2H
 DTSTART:20200707T153000Z
@@ -32,18 +39,18 @@ SUMMARY:⚓湊あくあ: 【#湊あくあ3D】I AM AQUA !!!!!!!!!!!
 UID:mOBvvwCosE4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雀魂】四暗刻を常に狙っている船長VSぺこら先生【ホロライブ/宝鐘マリン・兎田ぺこら】\nhttps://www.youtube.com/watch?v=sKBEpcBf9eA
-DURATION:PT2H
-DTSTART:20200708T130000Z
-SUMMARY:🏴☠宝鐘マリン: 【雀魂】四暗刻を常に狙っている船長VSぺこら先生【ホロライブ/宝鐘マリン・兎田ぺこら】
-UID:sKBEpcBf9eA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【朝活】生活習慣改善－最近朝ごはんを食べない日が増えてきたことに対する戒め－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=iR13PdFHNZw
 DURATION:PT2H
 DTSTART:20200709T010000Z
 SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－最近朝ごはんを食べない日が増えてきたことに対する戒め－【ホロスターズ/夕刻ロベル】
 UID:iR13PdFHNZw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雀魂】四暗刻を常に狙っている船長VSぺこら先生【ホロライブ/宝鐘マリン・兎田ぺこら】\nhttps://www.youtube.com/watch?v=sKBEpcBf9eA
+DURATION:PT2H
+DTSTART:20200708T130000Z
+SUMMARY:🏴☠宝鐘マリン: 【雀魂】四暗刻を常に狙っている船長VSぺこら先生【ホロライブ/宝鐘マリン・兎田ぺこら】
+UID:sKBEpcBf9eA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【hololiveID】Acapella Night with RISU #2【Ayunda Risu】\nhttps://www.youtube.com/watch?v=Xlwns3-cuXM
@@ -137,13 +144,6 @@ SUMMARY:🎨Iofi: 【iorials #5】Coloring The Eyes So Your Waifu Will Not Be A 
 UID:cC1s414eS9g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ARK｜Crystal Isles＃８】#デビメタ で海に潜る！！仲間もふえるかな🐬✨【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=aqWVbjf8d6M
-DURATION:PT2H
-DTSTART:20200708T130000Z
-SUMMARY:🤖ロボ子さん: 【ARK｜Crystal Isles＃８】#デビメタ で海に潜る！！仲間もふえるかな🐬✨【ホロライブ/ロボ子さん】
-UID:aqWVbjf8d6M
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Getting Over It】ゲリラ壺！オレンジの向こう側🍊【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=rGXIIupBvgQ
 DURATION:PT2H
 DTSTART:20200709T033000Z
@@ -151,11 +151,11 @@ SUMMARY:月下カオル: 【Getting Over It】ゲリラ壺！オレンジの向�
 UID:rGXIIupBvgQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#49【弾き語り】いつも本気の"漢"の歌枠【奏手イヅル】\nhttps://www.youtube.com/watch?v=4IbVByrek_k
+DESCRIPTION:【ARK｜Crystal Isles＃８】#デビメタ で海に潜る！！仲間もふえるかな🐬✨【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=aqWVbjf8d6M
 DURATION:PT2H
-DTSTART:20200708T090000Z
-SUMMARY:🎸奏手イヅル: #49【弾き語り】いつも本気の"漢"の歌枠【奏手イヅル】
-UID:4IbVByrek_k
+DTSTART:20200708T130000Z
+SUMMARY:🤖ロボ子さん: 【ARK｜Crystal Isles＃８】#デビメタ で海に潜る！！仲間もふえるかな🐬✨【ホロライブ/ロボ子さん】
+UID:aqWVbjf8d6M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【同時視聴】ディスカバリーチャンネル、同時視聴。【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=3K75x4vY-5Y
@@ -165,9 +165,16 @@ SUMMARY:🍷夕刻ロベル: 【同時視聴】ディスカバリーチャンネ
 UID:3K75x4vY-5Y
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:#49【弾き語り】いつも本気の"漢"の歌枠【奏手イヅル】\nhttps://www.youtube.com/watch?v=4IbVByrek_k
+DURATION:PT2H
+DTSTART:20200708T090000Z
+SUMMARY:🎸奏手イヅル: #49【弾き語り】いつも本気の"漢"の歌枠【奏手イヅル】
+UID:4IbVByrek_k
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌枠】お姉さん声で歌枠ちゃれんじ！🎤【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=igpwOCGx5i8
 DURATION:PT2H
-DTSTART:20200709T110000Z
+DTSTART:20200709T110500Z
 SUMMARY:🌸さくらみこ: 【歌枠】お姉さん声で歌枠ちゃれんじ！🎤【ホロライブ/さくらみこ】
 UID:igpwOCGx5i8
 END:VEVENT
@@ -214,13 +221,6 @@ SUMMARY:🎸奏手イヅル: 晩酌(🍼×8)雑談【奏手イヅル】
 UID:CiyTD8oJKxs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ARK ╎Extinction】枠取り直し！初めてのエクスティンクションに弾丸観光！【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=8PtLUzjSwzs
-DURATION:PT2H
-DTSTART:20200708T040000Z
-SUMMARY:🍎アキロゼ: 【ARK ╎Extinction】枠取り直し！初めてのエクスティンクションに弾丸観光！【ホロライブ/アキロゼ】
-UID:8PtLUzjSwzs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【作業用ｂｇｍ】へなちょこ悪魔のARK生活！色違いテイム編！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=UvJAyP_n45U
 DURATION:PT2H
 DTSTART:20200708T060000Z
@@ -233,6 +233,13 @@ DURATION:PT2H
 DTSTART:20200708T153000Z
 SUMMARY:🤖ロボ子さん: 【ARK｜Crystal Isles＃９】深夜作業！剥製沼に足を突っ込んでしまったようです【ホロライブ/ロボ子さん】
 UID:pY82LTV7iZo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK ╎Extinction】枠取り直し！初めてのエクスティンクションに弾丸観光！【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=8PtLUzjSwzs
+DURATION:PT2H
+DTSTART:20200708T040000Z
+SUMMARY:🍎アキロゼ: 【ARK ╎Extinction】枠取り直し！初めてのエクスティンクションに弾丸観光！【ホロライブ/アキロゼ】
+UID:8PtLUzjSwzs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PIENぴえん】ロリ男の娘がぴえんするの！【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=-chLhm31aFs
@@ -438,6 +445,13 @@ SUMMARY:IDholo: Bagaimana rasanya jadi Virtual Youtuber?
 UID:PZedaF5puNw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【晩酌雑談】ちょっと早めの晩酌雑談！飲む。【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=ZbMQ2lveOkQ
+DURATION:PT2H
+DTSTART:20200709T090000Z
+SUMMARY:🍷夕刻ロベル: 【晩酌雑談】ちょっと早めの晩酌雑談！飲む。【ホロスターズ/夕刻ロベル】
+UID:ZbMQ2lveOkQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:はあちゃまは変〇\nhttps://www.youtube.com/watch?v=afJEpNE-Al8
 DURATION:PT2H
 DTSTART:20200707T210455Z
@@ -466,11 +480,11 @@ SUMMARY:🤖ロボ子さん: 【ARK｜Extinction＃1】汚染たっぷり！？E
 UID:FTJYaJfbqns
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【重大発表】みんなと作り上げたいものがここにある…！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=dpT6oEJhNmk
+DESCRIPTION:【#るしおん】仲良しいちゃラブどうぶつタワーバトル！！【ホロライブ/紫咲シオン/潤羽るしあ】\nhttps://www.youtube.com/watch?v=nRbgITUTwzE
 DURATION:PT2H
-DTSTART:20200709T100000Z
-SUMMARY:🐻ときのそら: 【重大発表】みんなと作り上げたいものがここにある…！【#ときのそら生放送】
-UID:dpT6oEJhNmk
+DTSTART:20200709T120000Z
+SUMMARY:🌙紫咲シオン: 【#るしおん】仲良しいちゃラブどうぶつタワーバトル！！【ホロライブ/紫咲シオン/潤羽るしあ】
+UID:nRbgITUTwzE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Keep Talking and Nobody Explodes】With Moona and Lyrica - EN\nhttps://www.youtube.com/watch?v=PG7ROl2_hMM
@@ -480,11 +494,11 @@ SUMMARY:🔮Moona: 【Keep Talking and Nobody Explodes】With Moona and Lyrica -
 UID:PG7ROl2_hMM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#るしおん】コラボ配信予定！！🥺【ホロライブ/紫咲シオン/潤羽るしあ】\nhttps://www.youtube.com/watch?v=nRbgITUTwzE
+DESCRIPTION:【重大発表】みんなと作り上げたいものがここにある…！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=dpT6oEJhNmk
 DURATION:PT2H
-DTSTART:20200709T120000Z
-SUMMARY:🌙紫咲シオン: 【#るしおん】コラボ配信予定！！🥺【ホロライブ/紫咲シオン/潤羽るしあ】
-UID:nRbgITUTwzE
+DTSTART:20200709T100000Z
+SUMMARY:🐻ときのそら: 【重大発表】みんなと作り上げたいものがここにある…！【#ときのそら生放送】
+UID:dpT6oEJhNmk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌と雑談】しっとり系の歌を歌ってみたい【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=Vl_mJuohdtw
