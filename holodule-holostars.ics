@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ARK Genesis】せんぱぁ～～い！！右も左も恐竜がぁ～～っ！！【月下カオル/影山シエン/荒咬オウガ/アルランディス/花咲みやび/岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=nJeb0k8fta4
-DURATION:PT2H
-DTSTART:20200708T130000Z
-SUMMARY:月下カオル: 【ARK Genesis】せんぱぁ～～い！！右も左も恐竜がぁ～～っ！！【月下カオル/影山シエン/荒咬オウガ/アルランディス/花咲みやび/岸堂天真/ホロスターズ】
-UID:nJeb0k8fta4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#49【弾き語り】いつも本気の"漢"の歌枠【奏手イヅル】\nhttps://www.youtube.com/watch?v=4IbVByrek_k
-DURATION:PT2H
-DTSTART:20200708T090000Z
-SUMMARY:🎸奏手イヅル: #49【弾き語り】いつも本気の"漢"の歌枠【奏手イヅル】
-UID:4IbVByrek_k
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【同時視聴】ディスカバリーチャンネル、同時視聴。【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=3K75x4vY-5Y
 DURATION:PT2H
 DTSTART:20200708T150000Z
@@ -30,6 +16,13 @@ DURATION:PT2H
 DTSTART:20200709T010000Z
 SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－最近朝ごはんを食べない日が増えてきたことに対する戒め－【ホロスターズ/夕刻ロベル】
 UID:iR13PdFHNZw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Cover】ユニバース【奏手イヅル/花咲みやび】\nhttps://www.youtube.com/watch?v=cmT3Z2TQkEU
+DURATION:PT2H
+DTSTART:20200711T120000Z
+SUMMARY:🌺花咲みやび: 【Cover】ユニバース【奏手イヅル/花咲みやび】
+UID:cmT3Z2TQkEU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【夜勤事件】ぇえ～～！人探しの次はコンビニバイトォ！？😭【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=JcQRguSfoNA
@@ -74,27 +67,6 @@ SUMMARY:💙鏡見キラ: 【PIENぴえん】ロリ男の娘がぴえんする�
 UID:-chLhm31aFs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝活】生活習慣改善－健康に俺はなる－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=E6XesEIt4qw
-DURATION:PT2H
-DTSTART:20200708T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－健康に俺はなる－【ホロスターズ/夕刻ロベル】
-UID:E6XesEIt4qw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#まつりっか3D】ピアノ伴奏でお送りするライブ！【夏色まつり/律可】\nhttps://www.youtube.com/watch?v=uM3BGzCgyFA
-DURATION:PT2H
-DTSTART:20200708T120000Z
-SUMMARY:⚙律可: 【#まつりっか3D】ピアノ伴奏でお送りするライブ！【夏色まつり/律可】
-UID:uM3BGzCgyFA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【記念枠】2万人ありがとう！獄激辛食べきって1曲歌う【奏手イヅル】\nhttps://www.youtube.com/watch?v=LwGcPtP9fMw
-DURATION:PT2H
-DTSTART:20200708T140000Z
-SUMMARY:🎸奏手イヅル: 【記念枠】2万人ありがとう！獄激辛食べきって1曲歌う【奏手イヅル】
-UID:LwGcPtP9fMw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】アイアンマンRTA、王座奪還を目指す!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=JkthCVjJkT8
 DURATION:PT2H
 DTSTART:20200709T030000Z
@@ -114,6 +86,13 @@ DURATION:PT2H
 DTSTART:20200709T143000Z
 SUMMARY:🍕アルランディス: 【Rat Simulator】人類にはむはー！俺が最高にぷりちゅ～なげっ歯類なのだ！【アルランディス/ホロスターズ】
 UID:HCwblrkbyZE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:おやすみ歌枠 その１【奏手イヅル】\nhttps://www.youtube.com/watch?v=oQCE62H1lDE
+DURATION:PT2H
+DTSTART:20200710T160000Z
+SUMMARY:🎸奏手イヅル: おやすみ歌枠 その１【奏手イヅル】
+UID:oQCE62H1lDE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Pacify】ホラーが勝つか、オネエが勝つか。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=xBJcCdNM3dQ
@@ -137,24 +116,10 @@ SUMMARY:🍷夕刻ロベル: 【変な枠】俺 vs ウィキペディア【ホ�
 UID:ImvFdUlTvpQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談コラボ】あにまーれからのお客様！柚原いづみさんの来店や！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=eb2NqkREUBE
-DURATION:PT2H
-DTSTART:20200708T110000Z
-SUMMARY:🍷夕刻ロベル: 【雑談コラボ】あにまーれからのお客様！柚原いづみさんの来店や！！【ホロスターズ/夕刻ロベル】
-UID:eb2NqkREUBE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Getting Over It】ゲリラ壺！オレンジの向こう側🍊【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=rGXIIupBvgQ
 DURATION:PT2H
 DTSTART:20200709T033000Z
 SUMMARY:月下カオル: 【Getting Over It】ゲリラ壺！オレンジの向こう側🍊【月下カオル/ホロスターズ】
 UID:rGXIIupBvgQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARK Genesis】TriNeroがついにARKホロスタ島に上陸!!おもてなしと洗礼の儀!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=zfxOHegdlY0
-DURATION:PT2H
-DTSTART:20200708T130000Z
-SUMMARY:🦔💨岸堂天真: 【ARK Genesis】TriNeroがついにARKホロスタ島に上陸!!おもてなしと洗礼の儀!!【岸堂天真/ホロスターズ】
-UID:zfxOHegdlY0
 END:VEVENT
 END:VCALENDAR
