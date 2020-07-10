@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#ホロスタ1周年】記念配信！　俺たちが最強のVTuber【ホロスターズ】\nhttps://www.youtube.com/watch?v=6kSI2nkx2nk
+DURATION:PT2H
+DTSTART:20200711T100000Z
+SUMMARY:ホロスターズ: 【#ホロスタ1周年】記念配信！　俺たちが最強のVTuber【ホロスターズ】
+UID:6kSI2nkx2nk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:今日もはあ虐で飯を食う\nhttps://www.youtube.com/watch?v=a0EOKKRph54
 DURATION:PT2H
 DTSTART:20200709T105045Z
@@ -128,13 +135,6 @@ DURATION:PT2H
 DTSTART:20200709T110500Z
 SUMMARY:🌸さくらみこ: 【歌枠】お姉さん声で歌枠ちゃれんじ！🎤【ホロライブ/さくらみこ】
 UID:igpwOCGx5i8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARK ╎Extinction】生けるゴジラ…！？ギガノトをつかまえたい！【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=JLeF4ALwBy4
-DURATION:PT2H
-DTSTART:20200710T050000Z
-SUMMARY:🍎アキロゼ: 【ARK ╎Extinction】生けるゴジラ…！？ギガノトをつかまえたい！【ホロライブ/アキロゼ】
-UID:JLeF4ALwBy4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【夜勤事件】ぇえ～～！人探しの次はコンビニバイトォ！？😭【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=JcQRguSfoNA
@@ -380,13 +380,6 @@ DURATION:PT2H
 DTSTART:20200710T120000Z
 SUMMARY:🚑大空スバル: 【雑談】超高速ましゅまろぱくぱく【ホロライブ/大空スバル】
 UID:fwoCE-VJcq4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX/カジュアル】描いた夢とここにある今２つの景色見比べる狐【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=Mto87qZ7UWU
-DURATION:PT2H
-DTSTART:20200710T090000Z
-SUMMARY:🌽白上フブキ: 【APEX/カジュアル】描いた夢とここにある今２つの景色見比べる狐【ホロライブ/白上フブキ】
-UID:Mto87qZ7UWU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ゲリラ歌枠 】鼻が詰まっている気がするが歌ってみる\nhttps://www.youtube.com/watch?v=EMet3PGXzoQ
