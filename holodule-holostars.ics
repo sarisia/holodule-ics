@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#ホロスタ1周年】記念配信！　俺たちが最強のVTuber【ホロスターズ】\nhttps://www.youtube.com/watch?v=6kSI2nkx2nk
+DURATION:PT2H
+DTSTART:20200711T100000Z
+SUMMARY:ホロスターズ: 【#ホロスタ1周年】記念配信！　俺たちが最強のVTuber【ホロスターズ】
+UID:6kSI2nkx2nk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Project Winter】夏でも雪が見れるって聞いたんで行ってきます！【律可視点/あっくん大魔王・叶・コ―サカ・熊月あやみ・粛正罰丸・聖女れりあ・ぴろぱる】\nhttps://www.youtube.com/watch?v=fXXsu4cB5a4
 DURATION:PT2H
 DTSTART:20200711T130000Z
@@ -146,7 +153,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ベイブレードASMR】教室で、頑張っているキミと、応援する月下カオル先生【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=Tv8QlR9N4Q0
 DURATION:PT2H
-DTSTART:20200711T140000Z
+DTSTART:20200711T140500Z
 SUMMARY:月下カオル: 【ベイブレードASMR】教室で、頑張っているキミと、応援する月下カオル先生【月下カオル/ホロスターズ】
 UID:Tv8QlR9N4Q0
 END:VEVENT

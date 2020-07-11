@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#ホロスタ1周年】記念配信！　俺たちが最強のVTuber【ホロスターズ】\nhttps://www.youtube.com/watch?v=6kSI2nkx2nk
+DURATION:PT2H
+DTSTART:20200711T100000Z
+SUMMARY:ホロスターズ: 【#ホロスタ1周年】記念配信！　俺たちが最強のVTuber【ホロスターズ】
+UID:6kSI2nkx2nk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ID FREETALK】IOFORIA\, Kenapa Manusia Itu Aneh? Iofi Penasaran!【hololive-ID】\nhttps://www.youtube.com/watch?v=IdkdykdXHeA
 DURATION:PT2H
 DTSTART:20200711T160000Z
@@ -95,10 +102,10 @@ SUMMARY:🔮Moona: 【Freetalksmr】FooOOOOoooD- EN | ID【holoID】
 UID:pgmCpL7fxAM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【】悲しみの配信【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=b5IxfmYhFLM
+DESCRIPTION:【歌&雑談】悲しいことも吹き飛ばす歌枠！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=b5IxfmYhFLM
 DURATION:PT2H
 DTSTART:20200711T150000Z
-SUMMARY:🌙紫咲シオン: 【】悲しみの配信【ホロライブ/紫咲シオン】
+SUMMARY:🌙紫咲シオン: 【歌&雑談】悲しいことも吹き飛ばす歌枠！！【ホロライブ/紫咲シオン】
 UID:b5IxfmYhFLM
 END:VEVENT
 BEGIN:VEVENT
@@ -123,11 +130,11 @@ SUMMARY:💫天音かなた: 【PP雑談】ご飯二本立てとおしおママ�
 UID:_sDi8Ei4-UU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【PLUG&PLAY】なんだこれは…よくわからない…ぺこ！！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=1saY48kfi9U
+DESCRIPTION:【MuseDash】音ゲーつよつよアイドル！？🎵②【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=Tij0lqZBzhk
 DURATION:PT2H
 DTSTART:20200711T120000Z
-SUMMARY:👯兎田ぺこら: 【PLUG&PLAY】なんだこれは…よくわからない…ぺこ！！【ホロライブ/兎田ぺこら】
-UID:1saY48kfi9U
+SUMMARY:☄星街すいせい: 【MuseDash】音ゲーつよつよアイドル！？🎵②【ホロライブ / 星街すいせい】
+UID:Tij0lqZBzhk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】倒す【星川サラ/郡道美玲/夏色まつり】\nhttps://www.youtube.com/watch?v=9fUMPjSzC7Q
@@ -552,7 +559,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ベイブレードASMR】教室で、頑張っているキミと、応援する月下カオル先生【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=Tv8QlR9N4Q0
 DURATION:PT2H
-DTSTART:20200711T140000Z
+DTSTART:20200711T140500Z
 SUMMARY:月下カオル: 【ベイブレードASMR】教室で、頑張っているキミと、応援する月下カオル先生【月下カオル/ホロスターズ】
 UID:Tv8QlR9N4Q0
 END:VEVENT
