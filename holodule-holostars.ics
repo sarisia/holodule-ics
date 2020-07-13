@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【弾き語り枠】昼から歌が歌える幸せを噛みしめる【律可/ホロスターズ 】\nhttps://www.youtube.com/watch?v=tqgVtEJrtlA
+DESCRIPTION:【雑談】～深夜のマシュマロ雑談タイム～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=daHQNiPTwUA
 DURATION:PT2H
-DTSTART:20200714T060000Z
-SUMMARY:⚙律可: 【弾き語り枠】昼から歌が歌える幸せを噛みしめる【律可/ホロスターズ 】
-UID:tqgVtEJrtlA
+DTSTART:20200713T143000Z
+SUMMARY:荒咬オウガ: 【雑談】～深夜のマシュマロ雑談タイム～【荒咬オウガ/ホロスターズ】
+UID:daHQNiPTwUA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Getting Over It】オレンジを超えろ！🍊捻り出せ進捗🔨【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=zvzX7C0Rduk
@@ -23,13 +23,6 @@ DURATION:PT2H
 DTSTART:20200714T090000Z
 SUMMARY:🎸奏手イヅル: #47【弾き語り】"漢"はデカイ声だ！！【奏手イヅル】
 UID:ImUPV8ayl7E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】あぺなのかえぺなのか教えてほしい【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=MjiQiGdTXCc
-DURATION:PT2H
-DTSTART:20200713T080000Z
-SUMMARY:⚙律可: 【APEX】あぺなのかえぺなのか教えてほしい【律可/ホロスターズ】
-UID:MjiQiGdTXCc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【変な枠・歌枠？？】この世に存在しない曲縛り。～洋楽編～【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=Tr4RhIkCUd0
@@ -74,13 +67,6 @@ SUMMARY:🌺花咲みやび: 【APEX】ふわふわスターズAPEX【花咲み�
 UID:G6xOGJtjmQc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【東方地霊殿】ラスボスうつほに何としても会いたい【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=W_RjC3MJ8zQ
-DURATION:PT2H
-DTSTART:20200713T052000Z
-SUMMARY:月下カオル: 【東方地霊殿】ラスボスうつほに何としても会いたい【月下カオル/ホロスターズ】
-UID:W_RjC3MJ8zQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談コラボ】ホロライブIDからのお客様！イオフィさんの来店や！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=IZRCdEsRLOI
 DURATION:PT2H
 DTSTART:20200713T130000Z
@@ -100,5 +86,33 @@ DURATION:PT2H
 DTSTART:20200713T010000Z
 SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－そうです、皆さん。今日は月曜日です。－【ホロスターズ/夕刻ロベル】
 UID:Fcgvd5GTMvk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【弾き語り枠】昼から歌が歌える幸せを噛みしめる【律可/ホロスターズ 】\nhttps://www.youtube.com/watch?v=tqgVtEJrtlA
+DURATION:PT2H
+DTSTART:20200714T060000Z
+SUMMARY:⚙律可: 【弾き語り枠】昼から歌が歌える幸せを噛みしめる【律可/ホロスターズ 】
+UID:tqgVtEJrtlA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】あぺなのかえぺなのか教えてほしい【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=MjiQiGdTXCc
+DURATION:PT2H
+DTSTART:20200713T080000Z
+SUMMARY:⚙律可: 【APEX】あぺなのかえぺなのか教えてほしい【律可/ホロスターズ】
+UID:MjiQiGdTXCc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【東方地霊殿】ラスボスうつほに何としても会いたい【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=W_RjC3MJ8zQ
+DURATION:PT2H
+DTSTART:20200713T052000Z
+SUMMARY:月下カオル: 【東方地霊殿】ラスボスうつほに何としても会いたい【月下カオル/ホロスターズ】
+UID:W_RjC3MJ8zQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マーダーミステリー】下ネタ三国志って何？(正論)【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=QYuBDGL4Ers
+DURATION:PT2H
+DTSTART:20200713T120000Z
+SUMMARY:月下カオル: 【マーダーミステリー】下ネタ三国志って何？(正論)【月下カオル/ホロスターズ】
+UID:QYuBDGL4Ers
 END:VEVENT
 END:VCALENDAR
