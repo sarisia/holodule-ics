@@ -4,10 +4,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:#47【弾き語り】"漢"はデカイ声だ！！【奏手イヅル】\nhttps://www.youtube.com/watch?v=ImUPV8ayl7E
+DESCRIPTION:#47【弾き語り】Wi-Fiに抗う歌枠【奏手イヅル】\nhttps://www.youtube.com/watch?v=ImUPV8ayl7E
 DURATION:PT2H
 DTSTART:20200714T090000Z
-SUMMARY:🎸奏手イヅル: #47【弾き語り】"漢"はデカイ声だ！！【奏手イヅル】
+SUMMARY:🎸奏手イヅル: #47【弾き語り】Wi-Fiに抗う歌枠【奏手イヅル】
 UID:ImUPV8ayl7E
 END:VEVENT
 BEGIN:VEVENT
@@ -191,13 +191,6 @@ DURATION:PT2H
 DTSTART:20200714T120000Z
 SUMMARY:👯兎田ぺこら: 【配信予定】ぺこぺぺーこここぺこぺこ！【ホロライブ/兎田ぺこら】
 UID:jpDCSzxY_jY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ダンガンロンパ2】一人16役セリフフルボイス！！【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=q2WTayyGMGg
-DURATION:PT2H
-DTSTART:20200714T090000Z
-SUMMARY:💫天音かなた: 【ダンガンロンパ2】一人16役セリフフルボイス！！【天音かなた/ホロライブ4期生】
-UID:q2WTayyGMGg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】あぺなのかえぺなのか教えてほしい【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=MjiQiGdTXCc
@@ -410,13 +403,6 @@ SUMMARY:🐏角巻わため: 【歌番組】わためのうた（７月１３日
 UID:tEAyKuCby4M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ツイステ】サバナクロー寮にいそうな奴がプレイするツイステッドワンダーランド#9【ホロスターズ/影山シエン】\nhttps://www.youtube.com/watch?v=BB5Q3D0G-wM
-DURATION:PT2H
-DTSTART:20200714T080000Z
-SUMMARY:影山シエン: 【ツイステ】サバナクロー寮にいそうな奴がプレイするツイステッドワンダーランド#9【ホロスターズ/影山シエン】
-UID:BB5Q3D0G-wM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:オリジナルモンスターを作るだけの配信\nhttps://www.youtube.com/watch?v=so9BTUuLDak
 DURATION:PT2H
 DTSTART:20200713T141000Z
@@ -473,6 +459,13 @@ SUMMARY:👾常闇トワ: 【APEX】#TOKONOKISE でランクに挑戦🌟【#常
 UID:UUGHBII07mY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【切り抜き】湊あくあの災難～地獄のコラボ編～\nhttps://www.youtube.com/watch?v=PdDptrN4feU
+DURATION:PT2H
+DTSTART:20200714T094501Z
+SUMMARY:⚓湊あくあ: 【切り抜き】湊あくあの災難～地獄のコラボ編～
+UID:PdDptrN4feU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:アニソンONLY歌枠！アクセル全開！！！🎤【大神ミオ】\nhttps://www.youtube.com/watch?v=PKR20vrSDNI
 DURATION:PT2H
 DTSTART:20200713T123000Z
@@ -485,5 +478,12 @@ DURATION:PT2H
 DTSTART:20200713T110000Z
 SUMMARY:🐏角巻わため: 【#角巻わため3D振り返り雑談】振り返りと裏側のお話！！【角巻わため/ホロライブ４期生】
 UID:x4UsEmZzdzU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【続！挑戦者モードでやり直す】影廊実況！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=NL4Hv4DJnMs
+DURATION:PT2H
+DTSTART:20200714T092500Z
+SUMMARY:🐻ときのそら: 【続！挑戦者モードでやり直す】影廊実況！！【#ときのそら生放送】
+UID:NL4Hv4DJnMs
 END:VEVENT
 END:VCALENDAR
