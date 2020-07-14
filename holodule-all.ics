@@ -319,18 +319,18 @@ SUMMARY:❤赤井はあと: 正気な狂気のコンテンツ
 UID:UdNsz8y3Bwg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】エモい話しようや。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=dLLvvSCxhF4
-DURATION:PT2H
-DTSTART:20200714T100000Z
-SUMMARY:🌺花咲みやび: 【雑談】エモい話しようや。【花咲みやび/ホロスターズ】
-UID:dLLvvSCxhF4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】復活！ボクの事忘れてない？？；；ただいま雑談！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=sCboHeT2oPM
 DURATION:PT2H
 DTSTART:20200714T110000Z
 SUMMARY:🤖ロボ子さん: 【雑談】復活！ボクの事忘れてない？？；；ただいま雑談！【ホロライブ/ロボ子さん】
 UID:sCboHeT2oPM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】エモい話しようや。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=dLLvvSCxhF4
+DURATION:PT2H
+DTSTART:20200714T100000Z
+SUMMARY:🌺花咲みやび: 【雑談】エモい話しようや。【花咲みやび/ホロスターズ】
+UID:dLLvvSCxhF4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】生活習慣改善－そうです、皆さん。今日は月曜日です。－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=Fcgvd5GTMvk
@@ -389,18 +389,18 @@ SUMMARY:🍬姫森ルーナ: 【マイクラ】２人で仲良くダイヤ掘り
 UID:2BJNdolAFrA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:出来ていなかった分のお礼＆まったり雑談\nhttps://www.youtube.com/watch?v=sTEwp_gFPpA
-DURATION:PT2H
-DTSTART:20200713T140000Z
-SUMMARY:🐉桐生ココ: 出来ていなかった分のお礼＆まったり雑談
-UID:sTEwp_gFPpA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ARK Crystal Isles】取り直し！雪山遠征！！ついに・・・ぺんたに会える！？感動の再会予定【ホロライブ・潤羽るしあ】\nhttps://www.youtube.com/watch?v=mlBB9c0nhUc
 DURATION:PT2H
 DTSTART:20200714T102326Z
 SUMMARY:🦋潤羽るしあ: 【ARK Crystal Isles】取り直し！雪山遠征！！ついに・・・ぺんたに会える！？感動の再会予定【ホロライブ・潤羽るしあ】
 UID:mlBB9c0nhUc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:出来ていなかった分のお礼＆まったり雑談\nhttps://www.youtube.com/watch?v=sTEwp_gFPpA
+DURATION:PT2H
+DTSTART:20200713T140000Z
+SUMMARY:🐉桐生ココ: 出来ていなかった分のお礼＆まったり雑談
+UID:sTEwp_gFPpA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】～深夜のマシュマロ雑談タイム～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=daHQNiPTwUA
@@ -480,18 +480,18 @@ SUMMARY:❤赤井はあと: インスタ映え朝食作った結果・・・！�
 UID:xBqWAQodhFg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】突然、今月発売のベイブレードについて話し出すVtuber【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=VkSw2GgCc3I
-DURATION:PT2H
-DTSTART:20200714T011500Z
-SUMMARY:月下カオル: 【雑談】突然、今月発売のベイブレードについて話し出すVtuber【月下カオル/ホロスターズ】
-UID:VkSw2GgCc3I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ARK Crystal Isles】雪山遠征！！ついに・・・ぺんたに会える！？感動の再会予定【ホロライブ】\nhttps://www.youtube.com/watch?v=BPgt8pzHJd4
 DURATION:PT2H
 DTSTART:20200714T100000Z
 SUMMARY:🦋潤羽るしあ: 【ARK Crystal Isles】雪山遠征！！ついに・・・ぺんたに会える！？感動の再会予定【ホロライブ】
 UID:BPgt8pzHJd4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】突然、今月発売のベイブレードについて話し出すVtuber【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=VkSw2GgCc3I
+DURATION:PT2H
+DTSTART:20200714T011500Z
+SUMMARY:月下カオル: 【雑談】突然、今月発売のベイブレードについて話し出すVtuber【月下カオル/ホロスターズ】
+UID:VkSw2GgCc3I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【弾き語り枠】昼から歌が歌える幸せを噛みしめる【律可/ホロスターズ 】\nhttps://www.youtube.com/watch?v=tqgVtEJrtlA
@@ -534,5 +534,12 @@ DURATION:PT2H
 DTSTART:20200713T110000Z
 SUMMARY:🐏角巻わため: 【#角巻わため3D振り返り雑談】振り返りと裏側のお話！！【角巻わため/ホロライブ４期生】
 UID:x4UsEmZzdzU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【続！挑戦者モードでやり直す】影廊実況！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=NL4Hv4DJnMs
+DURATION:PT2H
+DTSTART:20200714T092500Z
+SUMMARY:🐻ときのそら: 【続！挑戦者モードでやり直す】影廊実況！！【#ときのそら生放送】
+UID:NL4Hv4DJnMs
 END:VEVENT
 END:VCALENDAR
