@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【KARAOKE】3! 2! 1! HAPPY BIRTHDAY! IOFI LOVES YOU ALL!【hololive-ID】\nhttps://www.youtube.com/watch?v=NkebsQgYrO0
+DESCRIPTION:【FREETALK】About the SUN and Why I Almost Gave Up【hololive-ID】\nhttps://www.youtube.com/watch?v=_Ioqbbth6nk
 DURATION:PT2H
-DTSTART:20200714T163000Z
-SUMMARY:🎨Iofi: 【KARAOKE】3! 2! 1! HAPPY BIRTHDAY! IOFI LOVES YOU ALL!【hololive-ID】
-UID:NkebsQgYrO0
+DTSTART:20200715T100000Z
+SUMMARY:🎨Iofi: 【FREETALK】About the SUN and Why I Almost Gave Up【hololive-ID】
+UID:_Ioqbbth6nk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:太陽が似合うよ / Taiyou ga Niau yo | Airani Iofifteen Cover 「歌ってみた」\nhttps://www.youtube.com/watch?v=Q4-h-IdOqLs
+DURATION:PT2H
+DTSTART:20200715T050000Z
+SUMMARY:🎨Iofi: 太陽が似合うよ / Taiyou ga Niau yo | Airani Iofifteen Cover 「歌ってみた」
+UID:Q4-h-IdOqLs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【日本語フリートーク】何？！ユニークな日本？！宇宙人にはまだ知られていない日本の話 【hololive-ID】\nhttps://www.youtube.com/watch?v=f-TnzFYBLxY
@@ -18,11 +25,11 @@ SUMMARY:🎨Iofi: 【日本語フリートーク】何？！ユニークな日�
 UID:f-TnzFYBLxY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:太陽が似合うよ / Taiyou ga Niau yo | Airani Iofifteen Cover 「歌ってみた」\nhttps://www.youtube.com/watch?v=Q4-h-IdOqLs
+DESCRIPTION:【KARAOKE】3! 2! 1! HAPPY BIRTHDAY! IOFI LOVES YOU ALL!【hololive-ID】\nhttps://www.youtube.com/watch?v=NkebsQgYrO0
 DURATION:PT2H
-DTSTART:20200715T050000Z
-SUMMARY:🎨Iofi: 太陽が似合うよ / Taiyou ga Niau yo | Airani Iofifteen Cover 「歌ってみた」
-UID:Q4-h-IdOqLs
+DTSTART:20200714T163000Z
+SUMMARY:🎨Iofi: 【KARAOKE】3! 2! 1! HAPPY BIRTHDAY! IOFI LOVES YOU ALL!【hololive-ID】
+UID:NkebsQgYrO0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【hololiveID】Bedtime Story with Risu #2【Ayunda Risu】\nhttps://www.youtube.com/watch?v=bQnZQjnWmpE
