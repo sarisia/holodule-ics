@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【弾き語り枠】昼から歌が歌える幸せを噛みしめる【律可/ホロスターズ 】\nhttps://www.youtube.com/watch?v=tqgVtEJrtlA
+DURATION:PT2H
+DTSTART:20200714T060000Z
+SUMMARY:⚙律可: 【弾き語り枠】昼から歌が歌える幸せを噛みしめる【律可/ホロスターズ 】
+UID:tqgVtEJrtlA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Getting Over It】オレンジを超えろ！🍊捻り出せ進捗🔨【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=zvzX7C0Rduk
 DURATION:PT2H
 DTSTART:20200714T050000Z
@@ -39,6 +46,13 @@ SUMMARY:影山シエン: 【ツイステ】サバナクロー寮にいそうな�
 UID:BB5Q3D0G-wM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【1万人記念枠】初のソロ歌ってみたの感想や裏話、素材紹介します!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=9qSGu8UAnRY
+DURATION:PT2H
+DTSTART:20200714T110000Z
+SUMMARY:🦔💨岸堂天真: 【1万人記念枠】初のソロ歌ってみたの感想や裏話、素材紹介します!!【岸堂天真/ホロスターズ】
+UID:9qSGu8UAnRY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【朝活】生活習慣改善－週の真ん中。－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=BP6313I4Exc
 DURATION:PT2H
 DTSTART:20200715T010000Z
@@ -46,18 +60,25 @@ SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－週の真ん中。
 UID:BP6313I4Exc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】エモい話しようや。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=dLLvvSCxhF4
-DURATION:PT2H
-DTSTART:20200714T100000Z
-SUMMARY:🌺花咲みやび: 【雑談】エモい話しようや。【花咲みやび/ホロスターズ】
-UID:dLLvvSCxhF4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】アステル先輩いらっしゃ～～い！メンズメイクの情報交換した～～い！【月下カオル/アステル/ホロスターズ】\nhttps://www.youtube.com/watch?v=07hhsP4MRQY
 DURATION:PT2H
 DTSTART:20200714T140000Z
 SUMMARY:月下カオル: 【雑談】アステル先輩いらっしゃ～～い！メンズメイクの情報交換した～～い！【月下カオル/アステル/ホロスターズ】
 UID:07hhsP4MRQY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】今日ちょっと冷えてたからおでん食べた【ホロスターズ/影山シエン】\nhttps://www.youtube.com/watch?v=VlyYmbjF9Cs
+DURATION:PT2H
+DTSTART:20200714T160000Z
+SUMMARY:影山シエン: 【歌枠】今日ちょっと冷えてたからおでん食べた【ホロスターズ/影山シエン】
+UID:VlyYmbjF9Cs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】エモい話しようや。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=dLLvvSCxhF4
+DURATION:PT2H
+DTSTART:20200714T100000Z
+SUMMARY:🌺花咲みやび: 【雑談】エモい話しようや。【花咲みやび/ホロスターズ】
+UID:dLLvvSCxhF4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VALORANT】使いたいキャラがいるので練習しよう【ホロスターズ】\nhttps://www.youtube.com/watch?v=ryhnC41ugZA
@@ -74,45 +95,17 @@ SUMMARY:月下カオル: 【雑談】突然、今月発売のベイブレード�
 UID:VkSw2GgCc3I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【究極の心理戦】月下カオル VS 影山シエン【ホロスターズ/OVERЯOID】\nhttps://www.youtube.com/watch?v=AtVNPxkBH8Y
-DURATION:PT2H
-DTSTART:20200715T143000Z
-SUMMARY:月下カオル: 【究極の心理戦】月下カオル VS 影山シエン【ホロスターズ/OVERЯOID】
-UID:AtVNPxkBH8Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【弾き語り枠】昼から歌が歌える幸せを噛みしめる【律可/ホロスターズ 】\nhttps://www.youtube.com/watch?v=tqgVtEJrtlA
-DURATION:PT2H
-DTSTART:20200714T060000Z
-SUMMARY:⚙律可: 【弾き語り枠】昼から歌が歌える幸せを噛みしめる【律可/ホロスターズ 】
-UID:tqgVtEJrtlA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:妄想でパワプロして我慢できなくなったら買いに行く放送【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=Uxl0EHPxKxI
-DURATION:PT2H
-DTSTART:20200715T040000Z
-SUMMARY:🍷夕刻ロベル: 妄想でパワプロして我慢できなくなったら買いに行く放送【ホロスターズ/夕刻ロベル】
-UID:Uxl0EHPxKxI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【1万人記念枠】初のソロ歌ってみたの感想や裏話、素材紹介します!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=9qSGu8UAnRY
-DURATION:PT2H
-DTSTART:20200714T110000Z
-SUMMARY:🦔💨岸堂天真: 【1万人記念枠】初のソロ歌ってみたの感想や裏話、素材紹介します!!【岸堂天真/ホロスターズ】
-UID:9qSGu8UAnRY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】今日ちょっと冷えてたからおでん食べた【ホロスターズ/影山シエン】\nhttps://www.youtube.com/watch?v=VlyYmbjF9Cs
-DURATION:PT2H
-DTSTART:20200714T160000Z
-SUMMARY:影山シエン: 【歌枠】今日ちょっと冷えてたからおでん食べた【ホロスターズ/影山シエン】
-UID:VlyYmbjF9Cs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】求ム！チームワーク！一番清楚なのはおれ！【律可視点/夏色まつり/聖女れりあ】\nhttps://www.youtube.com/watch?v=chj2MMzgphI
 DURATION:PT2H
 DTSTART:20200716T140000Z
 SUMMARY:⚙律可: 【APEX】求ム！チームワーク！一番清楚なのはおれ！【律可視点/夏色まつり/聖女れりあ】
 UID:chj2MMzgphI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【究極の心理戦】月下カオル VS 影山シエン【ホロスターズ/OVERЯOID】\nhttps://www.youtube.com/watch?v=AtVNPxkBH8Y
+DURATION:PT2H
+DTSTART:20200715T143000Z
+SUMMARY:月下カオル: 【究極の心理戦】月下カオル VS 影山シエン【ホロスターズ/OVERЯOID】
+UID:AtVNPxkBH8Y
 END:VEVENT
 END:VCALENDAR
