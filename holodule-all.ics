@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#１０】ゆるふわサイコブレイク２/The Evil Within 2【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=m85UgZmhtQk
+DURATION:PT2H
+DTSTART:20200716T130000Z
+SUMMARY:🌽白上フブキ: 【#１０】ゆるふわサイコブレイク２/The Evil Within 2【ホロライブ/白上フブキ】
+UID:m85UgZmhtQk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Portal】1時間ランニングコース。一回も迷いません【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=dTXfpxNNUdc
 DURATION:PT2H
 DTSTART:20200715T130000Z
@@ -478,12 +485,5 @@ DURATION:PT2H
 DTSTART:20200715T110000Z
 SUMMARY:🍕アルランディス: 【 Pacify 】#ゆるスタ ふんわり旅行記-農場編-【アルランディス】
 UID:5MamVnr11P0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠＊メンバー限定】７月のルーナのお歌を聴くのら～🍬【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=8b2OPqRZja0
-DURATION:PT2H
-DTSTART:20200716T100000Z
-SUMMARY:🍬姫森ルーナ: 【歌枠＊メンバー限定】７月のルーナのお歌を聴くのら～🍬【姫森ルーナ/ホロライブ】
-UID:8b2OPqRZja0
 END:VEVENT
 END:VCALENDAR
