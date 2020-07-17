@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【神ゲー】第六回ソセレ大会！！！！！まとめてかかってこいや！！！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=2Nckiit-KL8
+DURATION:PT2H
+DTSTART:20200717T120000Z
+SUMMARY:🚑大空スバル: 【神ゲー】第六回ソセレ大会！！！！！まとめてかかってこいや！！！！【ホロライブ/大空スバル】
+UID:2Nckiit-KL8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【壺男】朝活4日目🔥待機所もサムネイルも作り忘れたけど1時間以内目指す！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=mwxIOAyt9GU
 DURATION:PT2H
 DTSTART:20200715T220000Z
@@ -86,6 +93,13 @@ DURATION:PT2H
 DTSTART:20200717T120000Z
 SUMMARY:🌙紫咲シオン: 【KIDS】キッズの人生。ガキが・・・！！【ホロライブ/紫咲シオン】
 UID:FDT3CoKgfsk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【まったり雑談】07/17  おあようスバル【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=jzO5fGXCboQ
+DURATION:PT2H
+DTSTART:20200718T010000Z
+SUMMARY:🚑大空スバル: 【まったり雑談】07/17  おあようスバル【ホロライブ/大空スバル】
+UID:jzO5fGXCboQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VARMILO】自分色に染まったデスク周り紹介🌸世界に１つだけのPCとキーボードが来ました！？【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=JDsQxVThqzY
@@ -200,11 +214,11 @@ SUMMARY:🌟夜空メル: 【 60 Seconds! 】目指せ、全員生還ルート�
 UID:K30DfNmiPsI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:飲み会【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=tDMKMUy2kHg
+DESCRIPTION:【MuseDash】いろんな曲を聞いてみたい！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=PjcTtgZgTPI
 DURATION:PT2H
-DTSTART:20200718T140000Z
-SUMMARY:❤赤井はあと: 飲み会【ホロライブ/赤井はあと】
-UID:tDMKMUy2kHg
+DTSTART:20200717T110000Z
+SUMMARY:🐏角巻わため: 【MuseDash】いろんな曲を聞いてみたい！【角巻わため/ホロライブ４期生】
+UID:PjcTtgZgTPI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】みんなは夏をどう過ごしてる～？お喋りしよっ！告知もあるよっ✨【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=nYg5PObpykU
@@ -228,10 +242,17 @@ SUMMARY:🏮夏色まつり: 【APEX】えんじょいの日【聖女れりあ/�
 UID:Dq62N0N8qnU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:早起き【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=rCH44vE90So
+DESCRIPTION:エナドリで酔う女【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=tDMKMUy2kHg
+DURATION:PT2H
+DTSTART:20200718T140000Z
+SUMMARY:❤赤井はあと: エナドリで酔う女【ホロライブ/赤井はあと】
+UID:tDMKMUy2kHg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#はあちゃまおきろ】朝の会\nhttps://www.youtube.com/watch?v=rCH44vE90So
 DURATION:PT2H
 DTSTART:20200718T003000Z
-SUMMARY:❤赤井はあと: 早起き【ホロライブ/赤井はあと】
+SUMMARY:❤赤井はあと: 【#はあちゃまおきろ】朝の会
 UID:rCH44vE90So
 END:VEVENT
 BEGIN:VEVENT
@@ -254,13 +275,6 @@ DURATION:PT2H
 DTSTART:20200716T140917Z
 SUMMARY:❤赤井はあと: 新・ピザ作ってみた！【はあちゃまクッキング】
 UID:h2CfS9akvVo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【壺男】地 獄 の ク リ ア 耐 久【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=9K6oupAjWMs
-DURATION:PT2H
-DTSTART:20200717T090000Z
-SUMMARY:💫天音かなた: 【壺男】地 獄 の ク リ ア 耐 久【天音かなた/ホロライブ4期生】
-UID:9K6oupAjWMs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ちょこっとクッキング】へなちょこ悪魔が火を使わないナスの煮びたし作る！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=o2yGzp9Wrbo
