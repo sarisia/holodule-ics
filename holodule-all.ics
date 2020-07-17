@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#１０】ゆるふわサイコブレイク２/The Evil Within 2【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=m85UgZmhtQk
+DESCRIPTION:【神ゲー】第六回ソセレ大会！！！！！まとめてかかってこいや！！！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=2Nckiit-KL8
 DURATION:PT2H
-DTSTART:20200716T130000Z
-SUMMARY:🌽白上フブキ: 【#１０】ゆるふわサイコブレイク２/The Evil Within 2【ホロライブ/白上フブキ】
-UID:m85UgZmhtQk
+DTSTART:20200717T120000Z
+SUMMARY:🚑大空スバル: 【神ゲー】第六回ソセレ大会！！！！！まとめてかかってこいや！！！！【ホロライブ/大空スバル】
+UID:2Nckiit-KL8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【COFFEETALK #7】～最後の一杯～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=_d_p7uPyAoQ
@@ -16,6 +16,13 @@ DURATION:PT2H
 DTSTART:20200717T150000Z
 SUMMARY:荒咬オウガ: 【COFFEETALK #7】～最後の一杯～【荒咬オウガ/ホロスターズ】
 UID:_d_p7uPyAoQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#１０】ゆるふわサイコブレイク２/The Evil Within 2【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=m85UgZmhtQk
+DURATION:PT2H
+DTSTART:20200716T130000Z
+SUMMARY:🌽白上フブキ: 【#１０】ゆるふわサイコブレイク２/The Evil Within 2【ホロライブ/白上フブキ】
+UID:m85UgZmhtQk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【晩酌雑談】青いビール飲みながら晩酌雑談【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=QL0DA-yNMBQ
@@ -158,6 +165,13 @@ SUMMARY:🍎アキロゼ: 【ARK ╎Crystal Isles】裏で高レベル恐竜に�
 UID:fNiEgV0kKN0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【MuseDash】いろんな曲を聞いてみたい！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=PjcTtgZgTPI
+DURATION:PT2H
+DTSTART:20200717T110000Z
+SUMMARY:🐏角巻わため: 【MuseDash】いろんな曲を聞いてみたい！【角巻わため/ホロライブ４期生】
+UID:PjcTtgZgTPI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【オリキャラ】学生時代描いた絵と見比べたりする【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=Se6ozLWvX9M
 DURATION:PT2H
 DTSTART:20200716T110000Z
@@ -221,17 +235,17 @@ SUMMARY:🐏角巻わため: 【3D動画】わためを会場に一匹放置し�
 UID:YK5lMHmbTsM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:飲み会【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=tDMKMUy2kHg
+DESCRIPTION:エナドリで酔う女【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=tDMKMUy2kHg
 DURATION:PT2H
 DTSTART:20200718T140000Z
-SUMMARY:❤赤井はあと: 飲み会【ホロライブ/赤井はあと】
+SUMMARY:❤赤井はあと: エナドリで酔う女【ホロライブ/赤井はあと】
 UID:tDMKMUy2kHg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:早起き【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=rCH44vE90So
+DESCRIPTION:【#はあちゃまおきろ】朝の会\nhttps://www.youtube.com/watch?v=rCH44vE90So
 DURATION:PT2H
 DTSTART:20200718T003000Z
-SUMMARY:❤赤井はあと: 早起き【ホロライブ/赤井はあと】
+SUMMARY:❤赤井はあと: 【#はあちゃまおきろ】朝の会
 UID:rCH44vE90So
 END:VEVENT
 BEGIN:VEVENT
@@ -324,6 +338,13 @@ DURATION:PT2H
 DTSTART:20200717T120000Z
 SUMMARY:🌙紫咲シオン: 【KIDS】キッズの人生。ガキが・・・！！【ホロライブ/紫咲シオン】
 UID:FDT3CoKgfsk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【まったり雑談】07/17  おあようスバル【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=jzO5fGXCboQ
+DURATION:PT2H
+DTSTART:20200718T010000Z
+SUMMARY:🚑大空スバル: 【まったり雑談】07/17  おあようスバル【ホロライブ/大空スバル】
+UID:jzO5fGXCboQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ZUMA】Zuma Championship! - ID | EN | JP【holoID】\nhttps://www.youtube.com/watch?v=q5tI91Hk05M
@@ -445,13 +466,6 @@ SUMMARY:🌟夜空メル: 【 60 Seconds! 】目指せ、全員生還ルート�
 UID:K30DfNmiPsI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】みんなは夏をどう過ごしてる～？お喋りしよっ！告知もあるよっ✨【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=nYg5PObpykU
-DURATION:PT2H
-DTSTART:20200716T100000Z
-SUMMARY:🤖ロボ子さん: 【雑談】みんなは夏をどう過ごしてる～？お喋りしよっ！告知もあるよっ✨【ホロライブ/ロボ子さん】
-UID:nYg5PObpykU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Kok bisa ya Tupai jadi Youtuber?\nhttps://www.youtube.com/watch?v=sOLgMwGEovY
 DURATION:PT2H
 DTSTART:20200717T072620Z
@@ -459,11 +473,11 @@ SUMMARY:IDholo: Kok bisa ya Tupai jadi Youtuber?
 UID:sOLgMwGEovY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ホロ鯖】橋建築の為の！！！！！！ソロトリケラトプステイム！！！！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=c9LR0w0A2M8
+DESCRIPTION:【雑談】みんなは夏をどう過ごしてる～？お喋りしよっ！告知もあるよっ✨【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=nYg5PObpykU
 DURATION:PT2H
-DTSTART:20200716T120000Z
-SUMMARY:🚑大空スバル: 【ホロ鯖】橋建築の為の！！！！！！ソロトリケラトプステイム！！！！！【ホロライブ/大空スバル】
-UID:c9LR0w0A2M8
+DTSTART:20200716T100000Z
+SUMMARY:🤖ロボ子さん: 【雑談】みんなは夏をどう過ごしてる～？お喋りしよっ！告知もあるよっ✨【ホロライブ/ロボ子さん】
+UID:nYg5PObpykU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:新・ピザ作ってみた！【はあちゃまクッキング】\nhttps://www.youtube.com/watch?v=h2CfS9akvVo
@@ -473,11 +487,11 @@ SUMMARY:❤赤井はあと: 新・ピザ作ってみた！【はあちゃまク�
 UID:h2CfS9akvVo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【壺男】地 獄 の ク リ ア 耐 久【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=9K6oupAjWMs
+DESCRIPTION:【ホロ鯖】橋建築の為の！！！！！！ソロトリケラトプステイム！！！！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=c9LR0w0A2M8
 DURATION:PT2H
-DTSTART:20200717T090000Z
-SUMMARY:💫天音かなた: 【壺男】地 獄 の ク リ ア 耐 久【天音かなた/ホロライブ4期生】
-UID:9K6oupAjWMs
+DTSTART:20200716T120000Z
+SUMMARY:🚑大空スバル: 【ホロ鯖】橋建築の為の！！！！！！ソロトリケラトプステイム！！！！！【ホロライブ/大空スバル】
+UID:c9LR0w0A2M8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【hololiveID】#5 Coffee Talk with Risu  - English Only Stream【Ayunda Risu】\nhttps://www.youtube.com/watch?v=O_L9TcgbRr0
