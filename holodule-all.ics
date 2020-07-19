@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ペット枠】ウチの子が１番かわいいんじゃ！【ホロスターズ/影山シエン】\nhttps://www.youtube.com/watch?v=Z5wUKELys14
+DURATION:PT2H
+DTSTART:20200718T130000Z
+SUMMARY:影山シエン: 【ペット枠】ウチの子が１番かわいいんじゃ！【ホロスターズ/影山シエン】
+UID:Z5wUKELys14
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【hololiveID】Acapella Night with RISU #3【Ayunda Risu】\nhttps://www.youtube.com/watch?v=8Vn4ES27jWM
 DURATION:PT2H
 DTSTART:20200718T150000Z
@@ -249,13 +256,6 @@ SUMMARY:🦋潤羽るしあ: 【一周年記念】逆凸！大切な記念日み
 UID:hQw6OYFus6E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【オーバーウォッチ】タンクでも心は折れない！！！🛡【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=HvwYVnyj5Ng
-DURATION:PT2H
-DTSTART:20200719T000000Z
-SUMMARY:👾常闇トワ: 【オーバーウォッチ】タンクでも心は折れない！！！🛡【常闇トワ/ホロライブ】
-UID:HvwYVnyj5Ng
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ARK ╎Crystal Isles】深夜の安眠ARK建築配信BeachHouse編【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=DljKuk7g4d8
 DURATION:PT2H
 DTSTART:20200717T163000Z
@@ -415,6 +415,13 @@ DURATION:PT2H
 DTSTART:20200718T110000Z
 SUMMARY:🍷夕刻ロベル: 【変な枠】俺 vs ウィキペディア－MAKENAI－【ホロスターズ/夕刻ロベル】
 UID:I1NsdjFEggI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEATH STRANDING:PC】完全初見プレイ実況！伝説の荷運び人になるPart1【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=K4-0rWlrq8U
+DURATION:PT2H
+DTSTART:20200718T030000Z
+SUMMARY:🍎アキロゼ: 【DEATH STRANDING:PC】完全初見プレイ実況！伝説の荷運び人になるPart1【ホロライブ/アキロゼ】
+UID:K4-0rWlrq8U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#はあちゃまおきろ】朝の会\nhttps://www.youtube.com/watch?v=rCH44vE90So
