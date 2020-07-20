@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【モンスターファーム】新たな出会い、そして革命を起こせぺこ！！！！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=A_7fBU07Vpo
-DURATION:PT2H
-DTSTART:20200720T120000Z
-SUMMARY:👯兎田ぺこら: 【モンスターファーム】新たな出会い、そして革命を起こせぺこ！！！！【ホロライブ/兎田ぺこら】
-UID:A_7fBU07Vpo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【鼓膜注意】見つめ合うと素直にお喋りどころではない!!!!!【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=DeIUUXb_2V0
 DURATION:PT2H
 DTSTART:20200720T130000Z
@@ -172,6 +165,13 @@ SUMMARY:⚓湊あくあ: 【#壺男RTAちゃれんじっ】私の山登りを見
 UID:Rp0RXltfPgA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【３Ｄお披露目の振り返り】可愛いルーナのスクショ見せるのら～💗【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=enWR-pEJBaQ
+DURATION:PT2H
+DTSTART:20200720T120000Z
+SUMMARY:🍬姫森ルーナ: 【３Ｄお披露目の振り返り】可愛いルーナのスクショ見せるのら～💗【姫森ルーナ/ホロライブ】
+UID:enWR-pEJBaQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【料理】Vtuberチップスで料理！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=TURDTCX9unI
 DURATION:PT2H
 DTSTART:20200720T080000Z
@@ -235,11 +235,25 @@ SUMMARY:🐉桐生ココ: 【#桐生ココ】謎ホラゲ・・・ぴえん・�
 UID:Uqpib8zRGGs
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#桐生ココ】クロスARKせいかつ。(2PC配信だよ！)【#とまらないARK】\nhttps://www.youtube.com/watch?v=XqBaMgD19N4
+DURATION:PT2H
+DTSTART:20200720T140000Z
+SUMMARY:🐉桐生ココ: 【#桐生ココ】クロスARKせいかつ。(2PC配信だよ！)【#とまらないARK】
+UID:XqBaMgD19N4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:漢字間違えたら即終了　withかなたん【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=0C3YTdmowIA
 DURATION:PT2H
 DTSTART:20200721T090000Z
 SUMMARY:❤赤井はあと: 漢字間違えたら即終了　withかなたん【ホロライブ/赤井はあと】
 UID:0C3YTdmowIA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【オーバークック２】英語しか喋れない Overcooked2／Only speak English【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=AuzO5nWh8nk
+DURATION:PT2H
+DTSTART:20200721T130000Z
+SUMMARY:月下カオル: 【オーバークック２】英語しか喋れない Overcooked2／Only speak English【月下カオル/ホロスターズ】
+UID:AuzO5nWh8nk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雀魂】ホロスターズVSぽちレン【律可視点/芦枝レンリ/月下カオル/ぽちまる】＃ホロスタVSぽちレン\nhttps://www.youtube.com/watch?v=nBaVhH9d_Gw
