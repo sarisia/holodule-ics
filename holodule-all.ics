@@ -193,13 +193,6 @@ SUMMARY:🍕アルランディス: 【OVERЯOID】究極の頭脳戦を始めよ
 UID:GBe_p0O3g1M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【hololiveID】Bean Boozled Challenge : Get Ready to get Bamboozled !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=E1iuUjbKqYI
-DURATION:PT2H
-DTSTART:20200720T130000Z
-SUMMARY:🐿Risu: 【hololiveID】Bean Boozled Challenge : Get Ready to get Bamboozled !!!【Ayunda Risu】
-UID:E1iuUjbKqYI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Getting over it】絶対にイライラしてはいけない壺おじ【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=0WsDVU_W6QU
 DURATION:PT2H
 DTSTART:20200720T140000Z
@@ -207,18 +200,25 @@ SUMMARY:☄星街すいせい: 【Getting over it】絶対にイライラして�
 UID:0WsDVU_W6QU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】大会に出ることになりました！ランクもあげたい！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=NqMDDXE85nU
-DURATION:PT2H
-DTSTART:20200720T080000Z
-SUMMARY:🏮夏色まつり: 【APEX】大会に出ることになりました！ランクもあげたい！【ホロライブ/夏色まつり】
-UID:NqMDDXE85nU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ARK】ママね・・・プテラに乗りたいの【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=VkMHU_DOPPA
 DURATION:PT2H
 DTSTART:20200721T140000Z
 SUMMARY:🌽白上フブキ: 【ARK】ママね・・・プテラに乗りたいの【ホロライブ/白上フブキ】
 UID:VkMHU_DOPPA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololiveID】Bean Boozled Challenge : Get Ready to get Bamboozled !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=E1iuUjbKqYI
+DURATION:PT2H
+DTSTART:20200720T130000Z
+SUMMARY:🐿Risu: 【hololiveID】Bean Boozled Challenge : Get Ready to get Bamboozled !!!【Ayunda Risu】
+UID:E1iuUjbKqYI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】大会に出ることになりました！ランクもあげたい！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=NqMDDXE85nU
+DURATION:PT2H
+DTSTART:20200720T080000Z
+SUMMARY:🏮夏色まつり: 【APEX】大会に出ることになりました！ランクもあげたい！【ホロライブ/夏色まつり】
+UID:NqMDDXE85nU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【重大告知】【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=JsxGL6ObHGA
@@ -263,18 +263,18 @@ SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－今日から始ま
 UID:20Dc-9ZX_ds
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】レトロなお歌を唄うのらよ🍬【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=CuIGFMIEM7o
-DURATION:PT2H
-DTSTART:20200721T100000Z
-SUMMARY:🍬姫森ルーナ: 【歌枠】レトロなお歌を唄うのらよ🍬【姫森ルーナ/ホロライブ】
-UID:CuIGFMIEM7o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【COFFEE TALK】いらっしゃいませ～～＃2【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=DydPrdVBs10
 DURATION:PT2H
 DTSTART:20200720T120000Z
 SUMMARY:🍙猫又おかゆ: 【COFFEE TALK】いらっしゃいませ～～＃2【ホロライブ/猫又おかゆ】
 UID:DydPrdVBs10
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】レトロなお歌を唄うのらよ🍬【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=CuIGFMIEM7o
+DURATION:PT2H
+DTSTART:20200721T100000Z
+SUMMARY:🍬姫森ルーナ: 【歌枠】レトロなお歌を唄うのらよ🍬【姫森ルーナ/ホロライブ】
+UID:CuIGFMIEM7o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ツイステ】サバナクロー寮にいそうな奴がプレイするツイステッドワンダーランド#10【ホロスターズ/影山シエン】\nhttps://www.youtube.com/watch?v=M07BqhL87B0
@@ -310,6 +310,13 @@ DURATION:PT2H
 DTSTART:20200720T030000Z
 SUMMARY:🦔💨岸堂天真: 【Minecraft】アイアンマンRTA、再びの世界1位を狙う!!【岸堂天真/ホロスターズ】
 UID:zQKx-aN0FaQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】生活習慣改善－週の真ん中、いい気分－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=fkg4b_GC2vw
+DURATION:PT2H
+DTSTART:20200722T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－週の真ん中、いい気分－【ホロスターズ/夕刻ロベル】
+UID:fkg4b_GC2vw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】生活習慣改善－火曜日が一番がっと来る説、無い？－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=fI7PpS5jYGs
