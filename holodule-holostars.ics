@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【朝活】生活習慣改善－週の真ん中、いい気分－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=fkg4b_GC2vw
+DESCRIPTION:#1 世の中舐めてるラジオ ~ネット人生で一番恥ずかしかったこと~【奏手イヅル】\nhttps://www.youtube.com/watch?v=4JdLNsBXfJ8
 DURATION:PT2H
-DTSTART:20200722T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－週の真ん中、いい気分－【ホロスターズ/夕刻ロベル】
-UID:fkg4b_GC2vw
+DTSTART:20200723T140000Z
+SUMMARY:🎸奏手イヅル: #1 世の中舐めてるラジオ ~ネット人生で一番恥ずかしかったこと~【奏手イヅル】
+UID:4JdLNsBXfJ8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEATH STRANDING 】アルランディスは歩き続ける #1【 #アランストリーム 】\nhttps://www.youtube.com/watch?v=jmd5vSZ9gtI
+DURATION:PT2H
+DTSTART:20200723T040000Z
+SUMMARY:🍕アルランディス: 【DEATH STRANDING 】アルランディスは歩き続ける #1【 #アランストリーム 】
+UID:jmd5vSZ9gtI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ワンダと巨像】ワンダ モーニングショット【月下カオル/ホロスターズ】PlayStation®4用ソフトウェア『ワンダと巨像 Value Selection』\nhttps://www.youtube.com/watch?v=311Czkju4XU
@@ -18,74 +25,11 @@ SUMMARY:月下カオル: 【ワンダと巨像】ワンダ モーニングショ
 UID:311Czkju4XU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Keep Talking and Nobody Explodes】日本語禁止で爆弾解除!?!?!【アルランディス/荒咬オウガ/イオフィ/リス】\nhttps://www.youtube.com/watch?v=CUwEQxkvj-I
-DURATION:PT2H
-DTSTART:20200722T130000Z
-SUMMARY:🍕アルランディス: 【 Keep Talking and Nobody Explodes】日本語禁止で爆弾解除!?!?!【アルランディス/荒咬オウガ/イオフィ/リス】
-UID:CUwEQxkvj-I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Jump King / クリア耐久】今日もまた、俺はJump Kingに悩まされている！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=dhdkNkNeItI
-DURATION:PT2H
-DTSTART:20200723T030000Z
-SUMMARY:🍷夕刻ロベル: 【Jump King / クリア耐久】今日もまた、俺はJump Kingに悩まされている！！【ホロスターズ/夕刻ロベル】
-UID:dhdkNkNeItI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Getting Over It】～強欲な壺おじ#２～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=0aI16B4oFDY
 DURATION:PT2H
 DTSTART:20200723T143000Z
 SUMMARY:荒咬オウガ: 【Getting Over It】～強欲な壺おじ#２～【荒咬オウガ/ホロスターズ】
 UID:0aI16B4oFDY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】大会のためにソロ練習!!※メンバー途中参戦もあるかも！？【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=-0xvqI5VfGk
-DURATION:PT2H
-DTSTART:20200722T150000Z
-SUMMARY:🌺花咲みやび: 【APEX】大会のためにソロ練習!!※メンバー途中参戦もあるかも！？【花咲みやび/ホロスターズ】
-UID:-0xvqI5VfGk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】スター☆スウィーパー、出陣【影山シエン/律可】\nhttps://www.youtube.com/watch?v=1si3EJN5u4A
-DURATION:PT2H
-DTSTART:20200723T060000Z
-SUMMARY:影山シエン: 【APEX】スター☆スウィーパー、出陣【影山シエン/律可】
-UID:1si3EJN5u4A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Keep Talking and Nobody Explodes】日本語禁止で爆弾解除!?!?!【オウガ&イオフィ　アルランディス＆リス】\nhttps://www.youtube.com/watch?v=k7wr4mQWUbc
-DURATION:PT2H
-DTSTART:20200722T130000Z
-SUMMARY:荒咬オウガ: 【 Keep Talking and Nobody Explodes】日本語禁止で爆弾解除!?!?!【オウガ&イオフィ　アルランディス＆リス】
-UID:k7wr4mQWUbc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#黒歴史神経衰弱】黒色の濃さは人それぞれです【ホロスターズ】\nhttps://www.youtube.com/watch?v=LsRI3NZfEXs
-DURATION:PT2H
-DTSTART:20200722T030008Z
-SUMMARY:ホロスターズ: 【#黒歴史神経衰弱】黒色の濃さは人それぞれです【ホロスターズ】
-UID:LsRI3NZfEXs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ホラゲー】話題になったか絵文字ホラーを僕もやってみる。ぱおん【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=C2dMC5AmH8o
-DURATION:PT2H
-DTSTART:20200722T133000Z
-SUMMARY:🦔💨岸堂天真: 【ホラゲー】話題になったか絵文字ホラーを僕もやってみる。ぱおん【岸堂天真/ホロスターズ】
-UID:C2dMC5AmH8o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#1 世の中舐めてるラジオ ~ネット人生で一番恥ずかしかったこと~【奏手イヅル】\nhttps://www.youtube.com/watch?v=4JdLNsBXfJ8
-DURATION:PT2H
-DTSTART:20200723T140000Z
-SUMMARY:🎸奏手イヅル: #1 世の中舐めてるラジオ ~ネット人生で一番恥ずかしかったこと~【奏手イヅル】
-UID:4JdLNsBXfJ8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雀魂】戦わなければDreamを掴むことはできない【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=0e7KVWQ620Q
-DURATION:PT2H
-DTSTART:20200722T040000Z
-SUMMARY:🍷夕刻ロベル: 【雀魂】戦わなければDreamを掴むことはできない【ホロスターズ/夕刻ロベル】
-UID:0e7KVWQ620Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARK Genesis】「巨大な亀の背中に住む」だれもが憧れたことをするよ。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=xUJ6WAYL5oI
@@ -102,11 +46,11 @@ SUMMARY:🎭アステル・レダ: 【APEX大会練習】ダイヤⅢ以上の�
 UID:k-qsntbWhqk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#48【弾き語り】鬱陶しい歌声って言うな【奏手イヅル】\nhttps://www.youtube.com/watch?v=bgcmikoiwy8
+DESCRIPTION:【APEX】大会のためにソロ練習!!※メンバー途中参戦もあるかも！？【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=-0xvqI5VfGk
 DURATION:PT2H
-DTSTART:20200722T100000Z
-SUMMARY:🎸奏手イヅル: #48【弾き語り】鬱陶しい歌声って言うな【奏手イヅル】
-UID:bgcmikoiwy8
+DTSTART:20200722T150000Z
+SUMMARY:🌺花咲みやび: 【APEX】大会のためにソロ練習!!※メンバー途中参戦もあるかも！？【花咲みやび/ホロスターズ】
+UID:-0xvqI5VfGk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】脱毛器ケ〇ンが届きました。大　　自　　然　　脱　　毛【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=t_VQJtwbWYQ
@@ -116,17 +60,17 @@ SUMMARY:月下カオル: 【雑談】脱毛器ケ〇ンが届きました。大�
 UID:t_VQJtwbWYQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マイクラ】さらばぷぅさーハウス、私は旅立つよ👋行くぞ新世界💕【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=XBVh2qNfXWg
+DESCRIPTION:【Jump King / クリア耐久】Ｒｅ：今日もまた、俺はJump Kingに悩まされている！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=aiKvnUhy4h0
 DURATION:PT2H
-DTSTART:20200722T060000Z
-SUMMARY:月下カオル: 【マイクラ】さらばぷぅさーハウス、私は旅立つよ👋行くぞ新世界💕【月下カオル/ホロスターズ】
-UID:XBVh2qNfXWg
+DTSTART:20200723T150000Z
+SUMMARY:🍷夕刻ロベル: 【Jump King / クリア耐久】Ｒｅ：今日もまた、俺はJump Kingに悩まされている！！【ホロスターズ/夕刻ロベル】
+UID:aiKvnUhy4h0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX練習】ちびすたーずの朝は早い。🔨取りに行きます。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=XwPHxfpsQOA
+DESCRIPTION:【APEX】スター☆スウィーパー、出陣【影山シエン/律可】\nhttps://www.youtube.com/watch?v=1si3EJN5u4A
 DURATION:PT2H
-DTSTART:20200721T220000Z
-SUMMARY:🎭アステル・レダ: 【APEX練習】ちびすたーずの朝は早い。🔨取りに行きます。【ホロスターズ/アステル】
-UID:XwPHxfpsQOA
+DTSTART:20200723T060000Z
+SUMMARY:影山シエン: 【APEX】スター☆スウィーパー、出陣【影山シエン/律可】
+UID:1si3EJN5u4A
 END:VEVENT
 END:VCALENDAR
