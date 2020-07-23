@@ -74,18 +74,18 @@ SUMMARY:🍬姫森ルーナ: 【ピアノのお稽古】久しぶりの癒しの
 UID:SZJDi5kv6GI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ARK】今日こそ成し遂げる！雪山！４０万人までARK！【ホロライブ】\nhttps://www.youtube.com/watch?v=bYAPWieYjWY
-DURATION:PT2H
-DTSTART:20200723T100000Z
-SUMMARY:🦋潤羽るしあ: 【ARK】今日こそ成し遂げる！雪山！４０万人までARK！【ホロライブ】
-UID:bYAPWieYjWY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ホロ鯖】湾岸橋建築する！！原油も探す！！！！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=RJz-6qEHTPU
 DURATION:PT2H
 DTSTART:20200723T110000Z
 SUMMARY:🚑大空スバル: 【ホロ鯖】湾岸橋建築する！！原油も探す！！！！！【ホロライブ/大空スバル】
 UID:RJz-6qEHTPU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK】今日こそ成し遂げる！雪山！４０万人までARK！【ホロライブ】\nhttps://www.youtube.com/watch?v=bYAPWieYjWY
+DURATION:PT2H
+DTSTART:20200723T100000Z
+SUMMARY:🦋潤羽るしあ: 【ARK】今日こそ成し遂げる！雪山！４０万人までARK！【ホロライブ】
+UID:bYAPWieYjWY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【報告】隠しごとを叫びきったら即終了【休むな！８分音符ちゃん】\nhttps://www.youtube.com/watch?v=UVZH-x8jpyQ
@@ -109,18 +109,18 @@ SUMMARY:荒咬オウガ: 【 Keep Talking and Nobody Explodes】日本語禁止�
 UID:k7wr4mQWUbc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#黒歴史神経衰弱】黒色の濃さは人それぞれです【ホロスターズ】\nhttps://www.youtube.com/watch?v=LsRI3NZfEXs
-DURATION:PT2H
-DTSTART:20200722T030008Z
-SUMMARY:ホロスターズ: 【#黒歴史神経衰弱】黒色の濃さは人それぞれです【ホロスターズ】
-UID:LsRI3NZfEXs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】作業の合間の息抜きAPEX【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=xVQ2w92gKaE
 DURATION:PT2H
 DTSTART:20200722T080000Z
 SUMMARY:🐏角巻わため: 【APEX】作業の合間の息抜きAPEX【角巻わため/ホロライブ４期生】
 UID:xVQ2w92gKaE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#黒歴史神経衰弱】黒色の濃さは人それぞれです【ホロスターズ】\nhttps://www.youtube.com/watch?v=LsRI3NZfEXs
+DURATION:PT2H
+DTSTART:20200722T030008Z
+SUMMARY:ホロスターズ: 【#黒歴史神経衰弱】黒色の濃さは人それぞれです【ホロスターズ】
+UID:LsRI3NZfEXs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ホラゲー】話題になったか絵文字ホラーを僕もやってみる。ぱおん【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=C2dMC5AmH8o
@@ -207,6 +207,13 @@ SUMMARY:👯兎田ぺこら: 【配信予定】！こぺ　　　　　　　　
 UID:8UzA9nJZuuI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:いつもありがとう\nhttps://www.youtube.com/watch?v=npK9pSQA5wo
+DURATION:PT2H
+DTSTART:20200723T110000Z
+SUMMARY:👾常闇トワ: いつもありがとう
+UID:npK9pSQA5wo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ちょこっとクッキング】へなちょこ悪魔が火を使わないナポリタン作る！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=6AV1bS5ljKo
 DURATION:PT2H
 DTSTART:20200722T030000Z
@@ -219,13 +226,6 @@ DURATION:PT2H
 DTSTART:20200723T090000Z
 SUMMARY:💋癒月ちょこ: 【PIEN】へなちょこ悪魔がPIEN初見プレイする【ホロライブ/癒月ちょこ】
 UID:bWgVbDaFy0M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:いつもありがとう\nhttps://www.youtube.com/watch?v=npK9pSQA5wo
-DURATION:PT2H
-DTSTART:20200723T110000Z
-SUMMARY:👾常闇トワ: いつもありがとう
-UID:npK9pSQA5wo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【壺男】朝活6日目☀30分きるまでやるYo！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=-jnZHhu1D0U
@@ -291,25 +291,18 @@ SUMMARY:💫天音かなた: 【ARK】おひるのまったりかなた城【天
 UID:BigIYrDmY-Y
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【APEX】大会にむけて練習中【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=zu_eey-QOiU
+DURATION:PT2H
+DTSTART:20200723T050000Z
+SUMMARY:🤖ロボ子さん: 【APEX】大会にむけて練習中【ホロライブ/ロボ子さん】
+UID:zu_eey-QOiU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【朝活】生活習慣改善－週の真ん中、いい気分－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=fkg4b_GC2vw
 DURATION:PT2H
 DTSTART:20200722T010000Z
 SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－週の真ん中、いい気分－【ホロスターズ/夕刻ロベル】
 UID:fkg4b_GC2vw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Jump King / クリア耐久】今日もまた、俺はJump Kingに悩まされている！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=dhdkNkNeItI
-DURATION:PT2H
-DTSTART:20200723T030000Z
-SUMMARY:🍷夕刻ロベル: 【Jump King / クリア耐久】今日もまた、俺はJump Kingに悩まされている！！【ホロスターズ/夕刻ロベル】
-UID:dhdkNkNeItI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Keep Talking and Nobody Explodes】日本語禁止で爆弾解除!?!?!【アルランディス/荒咬オウガ/イオフィ/リス】\nhttps://www.youtube.com/watch?v=CUwEQxkvj-I
-DURATION:PT2H
-DTSTART:20200722T130000Z
-SUMMARY:🍕アルランディス: 【 Keep Talking and Nobody Explodes】日本語禁止で爆弾解除!?!?!【アルランディス/荒咬オウガ/イオフィ/リス】
-UID:CUwEQxkvj-I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:感謝と涙のホラーゲーム\nhttps://www.youtube.com/watch?v=7kGw1NU9a58
@@ -319,10 +312,24 @@ SUMMARY:⚓湊あくあ: 感謝と涙のホラーゲーム
 UID:7kGw1NU9a58
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【アズレン】新艦艇キター!!引くまで建造ガチャ👊【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=fe5CBM6JMM8
+DESCRIPTION:【 Keep Talking and Nobody Explodes】日本語禁止で爆弾解除!?!?!【アルランディス/荒咬オウガ/イオフィ/リス】\nhttps://www.youtube.com/watch?v=CUwEQxkvj-I
+DURATION:PT2H
+DTSTART:20200722T130000Z
+SUMMARY:🍕アルランディス: 【 Keep Talking and Nobody Explodes】日本語禁止で爆弾解除!?!?!【アルランディス/荒咬オウガ/イオフィ/リス】
+UID:CUwEQxkvj-I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Jump King / クリア耐久】今日もまた、俺はJump Kingに悩まされている！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=dhdkNkNeItI
+DURATION:PT2H
+DTSTART:20200723T030000Z
+SUMMARY:🍷夕刻ロベル: 【Jump King / クリア耐久】今日もまた、俺はJump Kingに悩まされている！！【ホロスターズ/夕刻ロベル】
+UID:dhdkNkNeItI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【休むな！アズレン】準備する時間がゼロだった【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=fe5CBM6JMM8
 DURATION:PT2H
 DTSTART:20200723T110000Z
-SUMMARY:🏴☠宝鐘マリン: 【アズレン】新艦艇キター!!引くまで建造ガチャ👊【ホロライブ/宝鐘マリン】
+SUMMARY:🏴☠宝鐘マリン: 【休むな！アズレン】準備する時間がゼロだった【ホロライブ/宝鐘マリン】
 UID:fe5CBM6JMM8
 END:VEVENT
 BEGIN:VEVENT
@@ -382,6 +389,20 @@ SUMMARY:🌽白上フブキ: 【雀魂】すこん部になんか負けないき
 UID:Bv5jqcFDP_4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【晩酌】引っ越しの話とかノエスタお泊りした話とか【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=RNV-0geyTBg
+DURATION:PT2H
+DTSTART:20200723T140000Z
+SUMMARY:🔥不知火フレア: 【晩酌】引っ越しの話とかノエスタお泊りした話とか【ホロライブ/不知火フレア】
+UID:RNV-0geyTBg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マイクラ】さらばぷぅさーハウス、私は旅立つよ👋行くぞ新世界💕【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=XBVh2qNfXWg
+DURATION:PT2H
+DTSTART:20200722T060000Z
+SUMMARY:月下カオル: 【マイクラ】さらばぷぅさーハウス、私は旅立つよ👋行くぞ新世界💕【月下カオル/ホロスターズ】
+UID:XBVh2qNfXWg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ARK Genesis】「巨大な亀の背中に住む」だれもが憧れたことをするよ。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=xUJ6WAYL5oI
 DURATION:PT2H
 DTSTART:20200723T030000Z
@@ -394,6 +415,13 @@ DURATION:PT2H
 DTSTART:20200722T003000Z
 SUMMARY:🦋潤羽るしあ: 【初の朝活】絶対起きる！寝起きの壺おじGetting Over It【ホロライブ/潤羽るしあ】
 UID:Nmy_Rm3uaWc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】脱毛器ケ〇ンが届きました。大　　自　　然　　脱　　毛【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=t_VQJtwbWYQ
+DURATION:PT2H
+DTSTART:20200723T150000Z
+SUMMARY:月下カオル: 【雑談】脱毛器ケ〇ンが届きました。大　　自　　然　　脱　　毛【月下カオル/ホロスターズ】
+UID:t_VQJtwbWYQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#桐生ココ】初めての壺おじ【#Gettingoverit】\nhttps://www.youtube.com/watch?v=9d6ycvo-aJA
@@ -480,13 +508,6 @@ SUMMARY:🎸奏手イヅル: #1 世の中舐めてるラジオ ~ネット人生�
 UID:4JdLNsBXfJ8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【30分耐久】虚無リコーダー/VOID Recorder【30 minutes endurance】\nhttps://www.youtube.com/watch?v=kPMqoPkdtuE
-DURATION:PT2H
-DTSTART:20200722T091844Z
-SUMMARY:🌽白上フブキ: 【30分耐久】虚無リコーダー/VOID Recorder【30 minutes endurance】
-UID:kPMqoPkdtuE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雀魂】戦わなければDreamを掴むことはできない【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=0e7KVWQ620Q
 DURATION:PT2H
 DTSTART:20200722T040000Z
@@ -515,10 +536,10 @@ SUMMARY:🍎アキロゼ: 【ARK ╎クロスＭＡＰ】フェニックス？�
 UID:Pjp14YD4kBk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マイクラ】さらばぷぅさーハウス、私は旅立つよ👋行くぞ新世界💕【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=XBVh2qNfXWg
+DESCRIPTION:【30分耐久】虚無リコーダー/VOID Recorder【30 minutes endurance】\nhttps://www.youtube.com/watch?v=kPMqoPkdtuE
 DURATION:PT2H
-DTSTART:20200722T060000Z
-SUMMARY:月下カオル: 【マイクラ】さらばぷぅさーハウス、私は旅立つよ👋行くぞ新世界💕【月下カオル/ホロスターズ】
-UID:XBVh2qNfXWg
+DTSTART:20200722T091844Z
+SUMMARY:🌽白上フブキ: 【30分耐久】虚無リコーダー/VOID Recorder【30 minutes endurance】
+UID:kPMqoPkdtuE
 END:VEVENT
 END:VCALENDAR
