@@ -214,13 +214,6 @@ SUMMARY:ホロライブ: 【やってみた】『ノンストップ・ストー�
 UID:bTu33b0cFIY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ARK Genesis】「巨大な亀の背中に住む」だれもが憧れたことをするよ。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=xUJ6WAYL5oI
-DURATION:PT2H
-DTSTART:20200723T030000Z
-SUMMARY:🦔💨岸堂天真: 【ARK Genesis】「巨大な亀の背中に住む」だれもが憧れたことをするよ。【岸堂天真/ホロスターズ】
-UID:xUJ6WAYL5oI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【初の朝活】絶対起きる！寝起きの壺おじGetting Over It【ホロライブ/潤羽るしあ】\nhttps://www.youtube.com/watch?v=Nmy_Rm3uaWc
 DURATION:PT2H
 DTSTART:20200722T003000Z
@@ -312,6 +305,13 @@ SUMMARY:💋癒月ちょこ: 【#ちょこっとクッキング】へなちょ�
 UID:6AV1bS5ljKo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【APEX】スター☆スウィーパー、出陣【影山シエン/律可】\nhttps://www.youtube.com/watch?v=1si3EJN5u4A
+DURATION:PT2H
+DTSTART:20200723T060000Z
+SUMMARY:影山シエン: 【APEX】スター☆スウィーパー、出陣【影山シエン/律可】
+UID:1si3EJN5u4A
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【PIEN】へなちょこ悪魔がPIEN初見プレイする【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=bWgVbDaFy0M
 DURATION:PT2H
 DTSTART:20200723T090000Z
@@ -319,18 +319,18 @@ SUMMARY:💋癒月ちょこ: 【PIEN】へなちょこ悪魔がPIEN初見プレ�
 UID:bWgVbDaFy0M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:いつもありがとう\nhttps://www.youtube.com/watch?v=npK9pSQA5wo
-DURATION:PT2H
-DTSTART:20200723T110000Z
-SUMMARY:👾常闇トワ: いつもありがとう
-UID:npK9pSQA5wo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【作業用ＢＧＭ】へなちょこ悪魔がまったり鯖支配進めるARK生活【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=LSQnzAAkYQk
 DURATION:PT2H
 DTSTART:20200722T060000Z
 SUMMARY:💋癒月ちょこSub: 【作業用ＢＧＭ】へなちょこ悪魔がまったり鯖支配進めるARK生活【ホロライブ/癒月ちょこ】
 UID:LSQnzAAkYQk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:いつもありがとう\nhttps://www.youtube.com/watch?v=npK9pSQA5wo
+DURATION:PT2H
+DTSTART:20200723T110000Z
+SUMMARY:👾常闇トワ: いつもありがとう
+UID:npK9pSQA5wo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【祝セガ60周年】 戌神ころね 『セガガガ』クリアするまで生放送 Part1\nhttps://www.youtube.com/watch?v=E4yz96XAtdg
@@ -401,5 +401,12 @@ DURATION:PT2H
 DTSTART:20200722T091844Z
 SUMMARY:🌽白上フブキ: 【30分耐久】虚無リコーダー/VOID Recorder【30 minutes endurance】
 UID:kPMqoPkdtuE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】大会にむけて練習中【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=zu_eey-QOiU
+DURATION:PT2H
+DTSTART:20200723T050000Z
+SUMMARY:🤖ロボ子さん: 【APEX】大会にむけて練習中【ホロライブ/ロボ子さん】
+UID:zu_eey-QOiU
 END:VEVENT
 END:VCALENDAR
