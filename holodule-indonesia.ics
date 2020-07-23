@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【hololiveID】Free Talk Bahasa Indonesia Only【Ayunda Risu】\nhttps://www.youtube.com/watch?v=_MrMJPVw518
-DURATION:PT2H
-DTSTART:20200722T150000Z
-SUMMARY:🐿Risu: 【hololiveID】Free Talk Bahasa Indonesia Only【Ayunda Risu】
-UID:_MrMJPVw518
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Peek a boo!!!!\nhttps://www.youtube.com/watch?v=hbuh992_FlI
 DURATION:PT2H
 DTSTART:20200722T044458Z
@@ -18,11 +11,18 @@ SUMMARY:🔮Moona: Peek a boo!!!!
 UID:hbuh992_FlI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Crash Bandicoot N. Sane Trilogy】Part 1 -  EN | ID 【holoID】\nhttps://www.youtube.com/watch?v=vYc05wHMsZ0
+DESCRIPTION:【hololiveID】#2 Next Stage : Episode 2【Ayunda Risu】\nhttps://www.youtube.com/watch?v=qvxlOLNVNbo
 DURATION:PT2H
-DTSTART:20200722T140000Z
-SUMMARY:🔮Moona: 【Crash Bandicoot N. Sane Trilogy】Part 1 -  EN | ID 【holoID】
-UID:vYc05wHMsZ0
+DTSTART:20200723T140000Z
+SUMMARY:🐿Risu: 【hololiveID】#2 Next Stage : Episode 2【Ayunda Risu】
+UID:qvxlOLNVNbo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololiveID】Free Talk Bahasa Indonesia Only【Ayunda Risu】\nhttps://www.youtube.com/watch?v=_MrMJPVw518
+DURATION:PT2H
+DTSTART:20200722T150000Z
+SUMMARY:🐿Risu: 【hololiveID】Free Talk Bahasa Indonesia Only【Ayunda Risu】
+UID:_MrMJPVw518
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Valorant】Valorant with Kureha Chan!【MooKure】EN Only\nhttps://www.youtube.com/watch?v=kmDJej5uZU0
@@ -30,5 +30,12 @@ DURATION:PT2H
 DTSTART:20200723T130000Z
 SUMMARY:🔮Moona: 【Valorant】Valorant with Kureha Chan!【MooKure】EN Only
 UID:kmDJej5uZU0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Crash Bandicoot N. Sane Trilogy】Part 1 -  EN | ID 【holoID】\nhttps://www.youtube.com/watch?v=vYc05wHMsZ0
+DURATION:PT2H
+DTSTART:20200722T140000Z
+SUMMARY:🔮Moona: 【Crash Bandicoot N. Sane Trilogy】Part 1 -  EN | ID 【holoID】
+UID:vYc05wHMsZ0
 END:VEVENT
 END:VCALENDAR
