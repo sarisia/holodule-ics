@@ -74,18 +74,18 @@ SUMMARY:🍙猫又おかゆ: 【幽霊列車】ガタン… ゴトン… ガタ�
 UID:iYfR9ImKMNg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ARK】Play ARK [ Build MoonaficLand ] - ID | EN【holoID】\nhttps://www.youtube.com/watch?v=2bHqo4Ldu5Y
-DURATION:PT2H
-DTSTART:20200724T140000Z
-SUMMARY:🔮Moona: 【ARK】Play ARK [ Build MoonaficLand ] - ID | EN【holoID】
-UID:2bHqo4Ldu5Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:今週もお疲れ様、一杯どう？【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=EUWfN4d-uhM
 DURATION:PT2H
 DTSTART:20200724T140000Z
 SUMMARY:💙鏡見キラ: 今週もお疲れ様、一杯どう？【ホロスターズ/鏡見キラ】
 UID:EUWfN4d-uhM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【まったり雑談】07/25  おあようスバル【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=1OrAf8Be59I
+DURATION:PT2H
+DTSTART:20200725T010000Z
+SUMMARY:🚑大空スバル: 【まったり雑談】07/25  おあようスバル【ホロライブ/大空スバル】
+UID:1OrAf8Be59I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:初心者🔰ARK、農業はじめます！【大神ミオ】\nhttps://www.youtube.com/watch?v=uxoJ_nefeAA
@@ -100,20 +100,6 @@ DURATION:PT2H
 DTSTART:20200724T130000Z
 SUMMARY:🐉桐生ココ: 【#桐生ココ】びっくりポイントはもうわかってるぜ夜勤事件【かかってこいや】
 UID:5FtqR7oRTJA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【まったり雑談】07/25  おあようスバル【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=1OrAf8Be59I
-DURATION:PT2H
-DTSTART:20200725T010000Z
-SUMMARY:🚑大空スバル: 【まったり雑談】07/25  おあようスバル【ホロライブ/大空スバル】
-UID:1OrAf8Be59I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#2【Jump King until clear】前代未聞 二人同時クリア【奏手イヅル/アステル】\nhttps://www.youtube.com/watch?v=z7tXaSjy0NI
-DURATION:PT2H
-DTSTART:20200724T184500Z
-SUMMARY:🎸奏手イヅル: #2【Jump King until clear】前代未聞 二人同時クリア【奏手イヅル/アステル】
-UID:z7tXaSjy0NI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ついに橋が完成✨＆初めてのワイバーンテイムに挑戦！【#ミオスバARK】\nhttps://www.youtube.com/watch?v=EcahDco8yTc
@@ -256,13 +242,6 @@ SUMMARY:🥐戌神ころね: 【祝セガ60周年】 戌神ころね 『セガ�
 UID:M4clvou7I00
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Jump King until clear】前代未聞 二人同時クリア【奏手イヅル/アステル】\nhttps://www.youtube.com/watch?v=gzHBmR5NYKU
-DURATION:PT2H
-DTSTART:20200724T080000Z
-SUMMARY:🎸奏手イヅル: 【Jump King until clear】前代未聞 二人同時クリア【奏手イヅル/アステル】
-UID:gzHBmR5NYKU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:はあちゃま結婚\nhttps://www.youtube.com/watch?v=Uzu9QaBvk6Y
 DURATION:PT2H
 DTSTART:20200724T100000Z
@@ -275,6 +254,13 @@ DURATION:PT2H
 DTSTART:20200725T040000Z
 SUMMARY:🍕アルランディス: 【DEATH STRANDING 】アルランディスは闘い続ける #4【 #アランストリーム 】
 UID:XDLeq13ihPo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEATH STRANDING】初見プレイ！世界を繋ぐ旅へ！？本格始動ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=k8DrMYzIiFc
+DURATION:PT2H
+DTSTART:20200726T040000Z
+SUMMARY:👯兎田ぺこら: 【DEATH STRANDING】初見プレイ！世界を繋ぐ旅へ！？本格始動ぺこ！【ホロライブ/兎田ぺこら】
+UID:k8DrMYzIiFc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【World of Warships】アズールレーンコラボを皆でやるんじゃい！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=mgMLItBzG8Q
