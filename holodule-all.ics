@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ライブ映像】『キラメキライダー☆』 【hololive 1st fes.「ノンストップ・ストーリー」edit】\nhttps://www.youtube.com/watch?v=rDSIUPkuM7U
+DURATION:PT2H
+DTSTART:20200724T120000Z
+SUMMARY:ホロライブ: 【ライブ映像】『キラメキライダー☆』 【hololive 1st fes.「ノンストップ・ストーリー」edit】
+UID:rDSIUPkuM7U
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【金壺耐久】金壺兎になるまで終われませんぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=tgPNzFJVCCM
 DURATION:PT2H
 DTSTART:20200724T040000Z
@@ -317,6 +324,13 @@ DURATION:PT2H
 DTSTART:20200723T120500Z
 SUMMARY:👯兎田ぺこら: 【クラッシュバンディクー】シリーズ初プレイ！めちゃめちゃ楽しい鬼畜ゲーで遊ぶぺこ！【ホロライブ/兎田ぺこら】
 UID:8UzA9nJZuuI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】朝からやってんねえ！！！【#常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=u3_9QzQIHvQ
+DURATION:PT2H
+DTSTART:20200724T000000Z
+SUMMARY:👾常闇トワ: 【APEX】朝からやってんねえ！！！【#常闇トワ/ホロライブ】
+UID:u3_9QzQIHvQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】スター☆スウィーパー、出陣【影山シエン/律可】\nhttps://www.youtube.com/watch?v=1si3EJN5u4A
