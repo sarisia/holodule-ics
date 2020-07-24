@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【DEATH STRANDING 】アルランディスは届け続ける #3【 #アランストリーム 】\nhttps://www.youtube.com/watch?v=9fUTPrWHx0A
+DURATION:PT2H
+DTSTART:20200724T080000Z
+SUMMARY:🍕アルランディス: 【DEATH STRANDING 】アルランディスは届け続ける #3【 #アランストリーム 】
+UID:9fUTPrWHx0A
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マイクラ雑談(ゲリラ)】堀り掘りなのら🍬【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=NHGqCY_id1Q
 DURATION:PT2H
 DTSTART:20200722T160000Z
@@ -23,13 +30,6 @@ DURATION:PT2H
 DTSTART:20200723T130000Z
 SUMMARY:🐏角巻わため: 【マインクラフト】ひつじ、農家になる？？！？【角巻わため/ホロライブ４期生】
 UID:--oM9Hb5O6Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DEATH STRANDING 】アルランディスは届け続ける #3【 #アランストリーム 】\nhttps://www.youtube.com/watch?v=9fUTPrWHx0A
-DURATION:PT2H
-DTSTART:20200724T080000Z
-SUMMARY:🍕アルランディス: 【DEATH STRANDING 】アルランディスは届け続ける #3【 #アランストリーム 】
-UID:9fUTPrWHx0A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【World of Warships】アズールレーンコラボ！！！【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=sKJzhetW2u4
@@ -60,25 +60,25 @@ SUMMARY:🌟夜空メル: 【MuseDash】ヴァンパイアの音ゲー初挑戦�
 UID:m_8SIizJsSE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】大会のためにソロ練習!!※メンバー途中参戦もあるかも！？【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=-0xvqI5VfGk
-DURATION:PT2H
-DTSTART:20200722T150000Z
-SUMMARY:🌺花咲みやび: 【APEX】大会のためにソロ練習!!※メンバー途中参戦もあるかも！？【花咲みやび/ホロスターズ】
-UID:-0xvqI5VfGk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【作業用ＢＧＭ】へなちょこ悪魔がまったりカワウソ支配進めるARK生活【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=FalFSl9NR6o
-DURATION:PT2H
-DTSTART:20200723T060000Z
-SUMMARY:💋癒月ちょこSub: 【作業用ＢＧＭ】へなちょこ悪魔がまったりカワウソ支配進めるARK生活【ホロライブ/癒月ちょこ】
-UID:FalFSl9NR6o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【幽霊列車】ガタン… ゴトン… ガタン… 【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=iYfR9ImKMNg
 DURATION:PT2H
 DTSTART:20200724T120000Z
 SUMMARY:🍙猫又おかゆ: 【幽霊列車】ガタン… ゴトン… ガタン… 【ホロライブ/猫又おかゆ】
 UID:iYfR9ImKMNg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK】Play ARK [ Build MoonaficLand ] - ID | EN【holoID】\nhttps://www.youtube.com/watch?v=2bHqo4Ldu5Y
+DURATION:PT2H
+DTSTART:20200724T140000Z
+SUMMARY:🔮Moona: 【ARK】Play ARK [ Build MoonaficLand ] - ID | EN【holoID】
+UID:2bHqo4Ldu5Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】大会のためにソロ練習!!※メンバー途中参戦もあるかも！？【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=-0xvqI5VfGk
+DURATION:PT2H
+DTSTART:20200722T150000Z
+SUMMARY:🌺花咲みやび: 【APEX】大会のためにソロ練習!!※メンバー途中参戦もあるかも！？【花咲みやび/ホロスターズ】
+UID:-0xvqI5VfGk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ホロ鯖】湾岸橋建築する！！原油も探す！！！！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=RJz-6qEHTPU
@@ -88,18 +88,25 @@ SUMMARY:🚑大空スバル: 【ホロ鯖】湾岸橋建築する！！原油も
 UID:RJz-6qEHTPU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【作業用ＢＧＭ】へなちょこ悪魔がまったりカワウソ支配進めるARK生活【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=FalFSl9NR6o
+DURATION:PT2H
+DTSTART:20200723T060000Z
+SUMMARY:💋癒月ちょこSub: 【作業用ＢＧＭ】へなちょこ悪魔がまったりカワウソ支配進めるARK生活【ホロライブ/癒月ちょこ】
+UID:FalFSl9NR6o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:深夜の放送予定地！🐺\nhttps://www.youtube.com/watch?v=uxoJ_nefeAA
+DURATION:PT2H
+DTSTART:20200724T150000Z
+SUMMARY:🌲大神ミオ: 深夜の放送予定地！🐺
+UID:uxoJ_nefeAA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ARK】今日こそ成し遂げる！雪山！４０万人までARK！【ホロライブ】\nhttps://www.youtube.com/watch?v=bYAPWieYjWY
 DURATION:PT2H
 DTSTART:20200723T100000Z
 SUMMARY:🦋潤羽るしあ: 【ARK】今日こそ成し遂げる！雪山！４０万人までARK！【ホロライブ】
 UID:bYAPWieYjWY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARK】Play ARK [ Build MoonaficLand ] - ID | EN【holoID】\nhttps://www.youtube.com/watch?v=2bHqo4Ldu5Y
-DURATION:PT2H
-DTSTART:20200724T140000Z
-SUMMARY:🔮Moona: 【ARK】Play ARK [ Build MoonaficLand ] - ID | EN【holoID】
-UID:2bHqo4Ldu5Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ホロのご機嫌うるわしゅう #04【ホロライブ公式】\nhttps://www.youtube.com/watch?v=0vl7v95rXrY
@@ -114,6 +121,13 @@ DURATION:PT2H
 DTSTART:20200723T040000Z
 SUMMARY:🍕アルランディス: 【DEATH STRANDING 】アルランディスは歩き続ける #1【 #アランストリーム 】
 UID:jmd5vSZ9gtI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【幽霊列車】今日も疲れたな～～！つって呪われる週末！？【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=fQrfeQoV9yo
+DURATION:PT2H
+DTSTART:20200724T130000Z
+SUMMARY:🔥不知火フレア: 【幽霊列車】今日も疲れたな～～！つって呪われる週末！？【ホロライブ/不知火フレア】
+UID:fQrfeQoV9yo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】脱魔境！シルバー⇒ダイアモンド ちゃれんじっ！\nhttps://www.youtube.com/watch?v=abP9iH3I0bY
