@@ -4,32 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ライブ映像】『キラメキライダー☆』 【hololive 1st fes.「ノンストップ・ストーリー」edit】\nhttps://www.youtube.com/watch?v=rDSIUPkuM7U
+DURATION:PT2H
+DTSTART:20200724T120000Z
+SUMMARY:ホロライブ: 【ライブ映像】『キラメキライダー☆』 【hololive 1st fes.「ノンストップ・ストーリー」edit】
+UID:rDSIUPkuM7U
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【DEATH STRANDING 】アルランディスは届け続ける #3【 #アランストリーム 】\nhttps://www.youtube.com/watch?v=9fUTPrWHx0A
 DURATION:PT2H
 DTSTART:20200724T080000Z
 SUMMARY:🍕アルランディス: 【DEATH STRANDING 】アルランディスは届け続ける #3【 #アランストリーム 】
 UID:9fUTPrWHx0A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マイクラ雑談(ゲリラ)】堀り掘りなのら🍬【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=NHGqCY_id1Q
-DURATION:PT2H
-DTSTART:20200722T160000Z
-SUMMARY:🍬姫森ルーナ: 【マイクラ雑談(ゲリラ)】堀り掘りなのら🍬【姫森ルーナ/ホロライブ】
-UID:NHGqCY_id1Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ちょこっとクッキング】へなちょこ悪魔が火を使わないタンドリーチキン作る！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=UgsZM_EJa-s
-DURATION:PT2H
-DTSTART:20200723T030000Z
-SUMMARY:💋癒月ちょこ: 【#ちょこっとクッキング】へなちょこ悪魔が火を使わないタンドリーチキン作る！【ホロライブ/癒月ちょこ】
-UID:UgsZM_EJa-s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マインクラフト】ひつじ、農家になる？？！？【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=--oM9Hb5O6Y
-DURATION:PT2H
-DTSTART:20200723T130000Z
-SUMMARY:🐏角巻わため: 【マインクラフト】ひつじ、農家になる？？！？【角巻わため/ホロライブ４期生】
-UID:--oM9Hb5O6Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【World of Warships】アズールレーンコラボ！！！【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=sKJzhetW2u4
@@ -46,18 +32,25 @@ SUMMARY:🐉桐生ココ: 【雀魂】初めての麻雀配信！少しはわか
 UID:69mhTtfhVio
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:超カオス!?リスナーにコラ画作らせた結果・・・！？【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=QqKpAEON51U
+DESCRIPTION:スーパーチャットお読みする感謝の枠です！\nhttps://www.youtube.com/watch?v=sgcoyPcw50k
 DURATION:PT2H
-DTSTART:20200723T100000Z
-SUMMARY:❤赤井はあと: 超カオス!?リスナーにコラ画作らせた結果・・・！？【ホロライブ/赤井はあと】
-UID:QqKpAEON51U
+DTSTART:20200724T080000Z
+SUMMARY:🐉桐生ココ: スーパーチャットお読みする感謝の枠です！
+UID:sgcoyPcw50k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MuseDash】ヴァンパイアの音ゲー初挑戦！🎵【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=m_8SIizJsSE
+DESCRIPTION:【Minecraft】初めてのエンダードラゴンRTA【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=Iq8cFqIi66g
 DURATION:PT2H
-DTSTART:20200723T100000Z
-SUMMARY:🌟夜空メル: 【MuseDash】ヴァンパイアの音ゲー初挑戦！🎵【ホロライブ/夜空メル】
-UID:m_8SIizJsSE
+DTSTART:20200724T060000Z
+SUMMARY:💫天音かなた: 【Minecraft】初めてのエンダードラゴンRTA【天音かなた/ホロライブ4期生】
+UID:Iq8cFqIi66g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEATH STRANDING 】アルランディスは繋ぎ続ける #2【 #アランストリーム 】\nhttps://www.youtube.com/watch?v=Gk1jUv3EwW8
+DURATION:PT2H
+DTSTART:20200724T010000Z
+SUMMARY:🍕アルランディス: 【DEATH STRANDING 】アルランディスは繋ぎ続ける #2【 #アランストリーム 】
+UID:Gk1jUv3EwW8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【幽霊列車】ガタン… ゴトン… ガタン… 【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=iYfR9ImKMNg
@@ -74,25 +67,11 @@ SUMMARY:🔮Moona: 【ARK】Play ARK [ Build MoonaficLand ] - ID | EN【holoID�
 UID:2bHqo4Ldu5Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】大会のためにソロ練習!!※メンバー途中参戦もあるかも！？【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=-0xvqI5VfGk
+DESCRIPTION:今週もお疲れ様、一杯どう？【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=EUWfN4d-uhM
 DURATION:PT2H
-DTSTART:20200722T150000Z
-SUMMARY:🌺花咲みやび: 【APEX】大会のためにソロ練習!!※メンバー途中参戦もあるかも！？【花咲みやび/ホロスターズ】
-UID:-0xvqI5VfGk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ホロ鯖】湾岸橋建築する！！原油も探す！！！！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=RJz-6qEHTPU
-DURATION:PT2H
-DTSTART:20200723T110000Z
-SUMMARY:🚑大空スバル: 【ホロ鯖】湾岸橋建築する！！原油も探す！！！！！【ホロライブ/大空スバル】
-UID:RJz-6qEHTPU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【作業用ＢＧＭ】へなちょこ悪魔がまったりカワウソ支配進めるARK生活【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=FalFSl9NR6o
-DURATION:PT2H
-DTSTART:20200723T060000Z
-SUMMARY:💋癒月ちょこSub: 【作業用ＢＧＭ】へなちょこ悪魔がまったりカワウソ支配進めるARK生活【ホロライブ/癒月ちょこ】
-UID:FalFSl9NR6o
+DTSTART:20200724T140000Z
+SUMMARY:💙鏡見キラ: 今週もお疲れ様、一杯どう？【ホロスターズ/鏡見キラ】
+UID:EUWfN4d-uhM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:初心者🔰ARK、農業はじめます！【大神ミオ】\nhttps://www.youtube.com/watch?v=uxoJ_nefeAA
@@ -100,13 +79,6 @@ DURATION:PT2H
 DTSTART:20200724T150000Z
 SUMMARY:🌲大神ミオ: 初心者🔰ARK、農業はじめます！【大神ミオ】
 UID:uxoJ_nefeAA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARK】今日こそ成し遂げる！雪山！４０万人までARK！【ホロライブ】\nhttps://www.youtube.com/watch?v=bYAPWieYjWY
-DURATION:PT2H
-DTSTART:20200723T100000Z
-SUMMARY:🦋潤羽るしあ: 【ARK】今日こそ成し遂げる！雪山！４０万人までARK！【ホロライブ】
-UID:bYAPWieYjWY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#桐生ココ】びっくりポイントはもうわかってるぜ夜勤事件【かかってこいや】\nhttps://www.youtube.com/watch?v=5FtqR7oRTJA
@@ -123,11 +95,11 @@ SUMMARY:ホロライブ: ホロのご機嫌うるわしゅう #04【ホロライ
 UID:0vl7v95rXrY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DEATH STRANDING 】アルランディスは歩き続ける #1【 #アランストリーム 】\nhttps://www.youtube.com/watch?v=jmd5vSZ9gtI
+DESCRIPTION:【壺男】壺おじクリア耐久！！今日は勝つ・・・【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=-C_mc22cz-o
 DURATION:PT2H
-DTSTART:20200723T040000Z
-SUMMARY:🍕アルランディス: 【DEATH STRANDING 】アルランディスは歩き続ける #1【 #アランストリーム 】
-UID:jmd5vSZ9gtI
+DTSTART:20200724T140000Z
+SUMMARY:🌙紫咲シオン: 【壺男】壺おじクリア耐久！！今日は勝つ・・・【ホロライブ/紫咲シオン】
+UID:-C_mc22cz-o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【幽霊列車】今日も疲れたな～～！つって呪われる週末！？【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=fQrfeQoV9yo
@@ -137,11 +109,11 @@ SUMMARY:🔥不知火フレア: 【幽霊列車】今日も疲れたな～～！
 UID:fQrfeQoV9yo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】脱魔境！シルバー⇒ダイアモンド ちゃれんじっ！\nhttps://www.youtube.com/watch?v=abP9iH3I0bY
+DESCRIPTION:【APEX】大会にむけて練習中、配信画面が可愛くなりました！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=z8-r8OVrjoA
 DURATION:PT2H
-DTSTART:20200723T030000Z
-SUMMARY:⚓湊あくあ: 【APEX】脱魔境！シルバー⇒ダイアモンド ちゃれんじっ！
-UID:abP9iH3I0bY
+DTSTART:20200724T140000Z
+SUMMARY:🤖ロボ子さん: 【APEX】大会にむけて練習中、配信画面が可愛くなりました！！【ホロライブ/ロボ子さん】
+UID:z8-r8OVrjoA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】深夜のおしゃべり地下探検！！掘れ…！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=cOo7hsUDR8A
@@ -165,6 +137,27 @@ SUMMARY:⚔白銀ノエル: ※時間変更💦【立体音響】KU100で感謝�
 UID:nGnAzZ9nc34
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【雑談】脱毛器ケ〇ンが届きました。大　　自　　然　　脱　　毛【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=t_VQJtwbWYQ
+DURATION:PT2H
+DTSTART:20200723T150000Z
+SUMMARY:月下カオル: 【雑談】脱毛器ケ〇ンが届きました。大　　自　　然　　脱　　毛【月下カオル/ホロスターズ】
+UID:t_VQJtwbWYQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】スター☆スウィーパーで頑張る【律可/影山シエン/花咲みやび】\nhttps://www.youtube.com/watch?v=UtQ9tLbLvWI
+DURATION:PT2H
+DTSTART:20200724T060000Z
+SUMMARY:⚙律可: 【APEX】スター☆スウィーパーで頑張る【律可/影山シエン/花咲みやび】
+UID:UtQ9tLbLvWI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Jump King / クリア耐久】Ｒｅ：今日もまた、俺はJump Kingに悩まされている！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=aiKvnUhy4h0
+DURATION:PT2H
+DTSTART:20200723T150000Z
+SUMMARY:🍷夕刻ロベル: 【Jump King / クリア耐久】Ｒｅ：今日もまた、俺はJump Kingに悩まされている！！【ホロスターズ/夕刻ロベル】
+UID:aiKvnUhy4h0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ARK ╎Crystal Isles】深夜の安眠ARK建築配信BeachHouse編Part4【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=chdMIfIjMug
 DURATION:PT2H
 DTSTART:20200724T163000Z
@@ -172,18 +165,25 @@ SUMMARY:🍎アキロゼ: 【ARK ╎Crystal Isles】深夜の安眠ARK建築配�
 UID:chdMIfIjMug
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】#開拓者全滅 まであと2日！5thライブ直前！AZKiとお話しませんか？【#あずきんち】\nhttps://www.youtube.com/watch?v=CbROVLumM98
+DESCRIPTION:【Minecraft】緊張感MAXマイクラ【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=94-p0zgUVdU
 DURATION:PT2H
-DTSTART:20200723T130000Z
-SUMMARY:⚒AZKi: 【雑談】#開拓者全滅 まであと2日！5thライブ直前！AZKiとお話しませんか？【#あずきんち】
-UID:CbROVLumM98
+DTSTART:20200724T010000Z
+SUMMARY:💫天音かなた: 【Minecraft】緊張感MAXマイクラ【天音かなた/ホロライブ4期生】
+UID:94-p0zgUVdU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【イラストメイキング】深夜の虚無すぎ線画配信【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=eB7rcIEzLoY
+DESCRIPTION:【FREETALK】Mengenang 15 Juli dan Hadiah Ulang Tahun!【hololive-ID】\nhttps://www.youtube.com/watch?v=BqboD4EQ3E4
 DURATION:PT2H
-DTSTART:20200722T160000Z
-SUMMARY:🏴☠宝鐘マリン: 【イラストメイキング】深夜の虚無すぎ線画配信【ホロライブ/宝鐘マリン】
-UID:eB7rcIEzLoY
+DTSTART:20200724T120000Z
+SUMMARY:🎨Iofi: 【FREETALK】Mengenang 15 Juli dan Hadiah Ulang Tahun!【hololive-ID】
+UID:BqboD4EQ3E4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ちょこっとクッキング】へなちょこ悪魔が火を使わない回鍋肉作る！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=0pQUV9QuZlM
+DURATION:PT2H
+DTSTART:20200724T030000Z
+SUMMARY:💋癒月ちょこ: 【#ちょこっとクッキング】へなちょこ悪魔が火を使わない回鍋肉作る！【ホロライブ/癒月ちょこ】
+UID:0pQUV9QuZlM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【祝セガ60周年】 戌神ころね 『セガガガ』クリアするまで生放送 Part2\nhttps://www.youtube.com/watch?v=M4clvou7I00
@@ -193,11 +193,18 @@ SUMMARY:🥐戌神ころね: 【祝セガ60周年】 戌神ころね 『セガ�
 UID:M4clvou7I00
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【クラッシュバンディクー】シリーズ初プレイ！めちゃめちゃ楽しい鬼畜ゲーで遊ぶぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=8UzA9nJZuuI
+DESCRIPTION:【Jump King until clear】前代未聞 二人同時クリア【奏手イヅル/アステル】\nhttps://www.youtube.com/watch?v=gzHBmR5NYKU
 DURATION:PT2H
-DTSTART:20200723T120500Z
-SUMMARY:👯兎田ぺこら: 【クラッシュバンディクー】シリーズ初プレイ！めちゃめちゃ楽しい鬼畜ゲーで遊ぶぺこ！【ホロライブ/兎田ぺこら】
-UID:8UzA9nJZuuI
+DTSTART:20200724T080000Z
+SUMMARY:🎸奏手イヅル: 【Jump King until clear】前代未聞 二人同時クリア【奏手イヅル/アステル】
+UID:gzHBmR5NYKU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:はあちゃま結婚\nhttps://www.youtube.com/watch?v=Uzu9QaBvk6Y
+DURATION:PT2H
+DTSTART:20200724T100000Z
+SUMMARY:❤赤井はあと: はあちゃま結婚
+UID:Uzu9QaBvk6Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】朝からやってんねえ！！！【#常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=u3_9QzQIHvQ
@@ -207,25 +214,11 @@ SUMMARY:👾常闇トワ: 【APEX】朝からやってんねえ！！！【#常�
 UID:u3_9QzQIHvQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:いつもありがとう\nhttps://www.youtube.com/watch?v=npK9pSQA5wo
+DESCRIPTION:【マシュマロ】～いろんな意味で怖い話を読む～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=bPTta_bBDwc
 DURATION:PT2H
-DTSTART:20200723T110000Z
-SUMMARY:👾常闇トワ: いつもありがとう
-UID:npK9pSQA5wo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PIEN】へなちょこ悪魔がPIEN初見プレイする【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=bWgVbDaFy0M
-DURATION:PT2H
-DTSTART:20200723T090000Z
-SUMMARY:💋癒月ちょこ: 【PIEN】へなちょこ悪魔がPIEN初見プレイする【ホロライブ/癒月ちょこ】
-UID:bWgVbDaFy0M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【壺男】朝活6日目☀30分きるまでやるYo！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=-jnZHhu1D0U
-DURATION:PT2H
-DTSTART:20200722T220000Z
-SUMMARY:⚔白銀ノエル: 【壺男】朝活6日目☀30分きるまでやるYo！【白銀ノエル/ホロライブ】
-UID:-jnZHhu1D0U
+DTSTART:20200724T150000Z
+SUMMARY:荒咬オウガ: 【マシュマロ】～いろんな意味で怖い話を読む～【荒咬オウガ/ホロスターズ】
+UID:bPTta_bBDwc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【作業用ＢＧＭ】へなちょこ悪魔が鯖恐竜レベ上げ支配進めるARK生活【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=E9Xidbo1j84
@@ -235,13 +228,6 @@ SUMMARY:💋癒月ちょこSub: 【作業用ＢＧＭ】へなちょこ悪魔が
 UID:E9Xidbo1j84
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【祝セガ60周年】 戌神ころね 『セガガガ』クリアするまで生放送 Part1\nhttps://www.youtube.com/watch?v=E4yz96XAtdg
-DURATION:PT2H
-DTSTART:20200723T140000Z
-SUMMARY:🥐戌神ころね: 【祝セガ60周年】 戌神ころね 『セガガガ』クリアするまで生放送 Part1
-UID:E4yz96XAtdg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 #週間APEX 】私の金アーマー盗まないでぇ・・・(つд⊂)【APEX LEGENDS Stream Highlights】\nhttps://www.youtube.com/watch?v=CTixPfOAtD4
 DURATION:PT2H
 DTSTART:20200724T115021Z
@@ -249,11 +235,18 @@ SUMMARY:⚓湊あくあ: 【 #週間APEX 】私の金アーマー盗まないで
 UID:CTixPfOAtD4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】素敵な休日🍋レモンサワー飲みながらお喋り！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=MHHYKSSuuoY
+DESCRIPTION:【幽霊列車】新作きたー！ホラゲってこわいけどやっちゃうんだよね【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=xfiltSTPqlk
 DURATION:PT2H
-DTSTART:20200723T130000Z
-SUMMARY:⚔白銀ノエル: 【雑談】素敵な休日🍋レモンサワー飲みながらお喋り！【白銀ノエル/ホロライブ】
-UID:MHHYKSSuuoY
+DTSTART:20200724T140000Z
+SUMMARY:🐏角巻わため: 【幽霊列車】新作きたー！ホラゲってこわいけどやっちゃうんだよね【角巻わため/ホロライブ４期生】
+UID:xfiltSTPqlk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:海外ホロライブファンよ、お前らの行動はバレている\nhttps://www.youtube.com/watch?v=tTyLbWrGKNs
+DURATION:PT2H
+DTSTART:20200724T030000Z
+SUMMARY:🐉桐生ココ: 海外ホロライブファンよ、お前らの行動はバレている
+UID:tTyLbWrGKNs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】初めてのエンダードラゴンRTA？２【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=UDi9T6UvDe4
@@ -284,11 +277,11 @@ SUMMARY:月下カオル: 【雑談コラボ】ベイブレード同時開封！�
 UID:X7GEAzN3ZT0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マインクラフト】エンチャントとはなんじゃらほい...？？【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=MgwO0dohIxg
+DESCRIPTION:前代未聞❗❗『Jump King二人同時クリア耐久』【ホロスターズ/アステル/奏手イヅル】\nhttps://www.youtube.com/watch?v=bm6ntRspwaY
 DURATION:PT2H
-DTSTART:20200722T153000Z
-SUMMARY:🐏角巻わため: 【マインクラフト】エンチャントとはなんじゃらほい...？？【角巻わため/ホロライブ４期生】
-UID:MgwO0dohIxg
+DTSTART:20200724T080000Z
+SUMMARY:🎭アステル・レダ: 前代未聞❗❗『Jump King二人同時クリア耐久』【ホロスターズ/アステル/奏手イヅル】
+UID:bm6ntRspwaY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ゲリラ】こんな時間に40万人いきそうってマ？！👀【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=RJK98K8Fl9M
@@ -298,297 +291,10 @@ SUMMARY:⚔白銀ノエル: 【ゲリラ】こんな時間に40万人いきそ�
 UID:RJK98K8Fl9M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:前代未聞❗❗『Jump King二人同時クリア耐久』【ホロスターズ/アステル/奏手イヅル】\nhttps://www.youtube.com/watch?v=bm6ntRspwaY
-DURATION:PT2H
-DTSTART:20200724T080000Z
-SUMMARY:🎭アステル・レダ: 前代未聞❗❗『Jump King二人同時クリア耐久』【ホロスターズ/アステル/奏手イヅル】
-UID:bm6ntRspwaY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARK】ママはね、プテラに乗ってお散歩よ。【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=-HUehoaLjQg
-DURATION:PT2H
-DTSTART:20200723T150000Z
-SUMMARY:🌽白上フブキ: 【ARK】ママはね、プテラに乗ってお散歩よ。【ホロライブ/白上フブキ】
-UID:-HUehoaLjQg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】大会にむけて練習中【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=zu_eey-QOiU
-DURATION:PT2H
-DTSTART:20200723T050000Z
-SUMMARY:🤖ロボ子さん: 【APEX】大会にむけて練習中【ホロライブ/ロボ子さん】
-UID:zu_eey-QOiU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談？】磨け演技力！初めてのセリフ読み💕【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=h9dJIb_VfOo
 DURATION:PT2H
 DTSTART:20200724T160000Z
 SUMMARY:月下カオル: 【雑談？】磨け演技力！初めてのセリフ読み💕【月下カオル/ホロスターズ】
 UID:h9dJIb_VfOo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ライブ映像】『キラメキライダー☆』 【hololive 1st fes.「ノンストップ・ストーリー」edit】\nhttps://www.youtube.com/watch?v=rDSIUPkuM7U
-DURATION:PT2H
-DTSTART:20200724T120000Z
-SUMMARY:ホロライブ: 【ライブ映像】『キラメキライダー☆』 【hololive 1st fes.「ノンストップ・ストーリー」edit】
-UID:rDSIUPkuM7U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Jump King / クリア耐久】今日もまた、俺はJump Kingに悩まされている！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=dhdkNkNeItI
-DURATION:PT2H
-DTSTART:20200723T030000Z
-SUMMARY:🍷夕刻ロベル: 【Jump King / クリア耐久】今日もまた、俺はJump Kingに悩まされている！！【ホロスターズ/夕刻ロベル】
-UID:dhdkNkNeItI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:感謝と涙のホラーゲーム\nhttps://www.youtube.com/watch?v=7kGw1NU9a58
-DURATION:PT2H
-DTSTART:20200723T120000Z
-SUMMARY:⚓湊あくあ: 感謝と涙のホラーゲーム
-UID:7kGw1NU9a58
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】夜ののんびりまったり放送【#清純ワイルド】\nhttps://www.youtube.com/watch?v=Abc61XFIOM4
-DURATION:PT2H
-DTSTART:20200723T130000Z
-SUMMARY:🐻ときのそら: 【MINECRAFT】夜ののんびりまったり放送【#清純ワイルド】
-UID:Abc61XFIOM4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】久しぶりに！！！歌う！！！【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=J9k--YWW4hQ
-DURATION:PT2H
-DTSTART:20200723T120000Z
-SUMMARY:🍙猫又おかゆ: 【歌枠】久しぶりに！！！歌う！！！【ホロライブ/猫又おかゆ】
-UID:J9k--YWW4hQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:スーパーチャットお読みする感謝の枠です！\nhttps://www.youtube.com/watch?v=sgcoyPcw50k
-DURATION:PT2H
-DTSTART:20200724T080000Z
-SUMMARY:🐉桐生ココ: スーパーチャットお読みする感謝の枠です！
-UID:sgcoyPcw50k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Getting Over It】～強欲な壺おじ#２～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=0aI16B4oFDY
-DURATION:PT2H
-DTSTART:20200723T143000Z
-SUMMARY:荒咬オウガ: 【Getting Over It】～強欲な壺おじ#２～【荒咬オウガ/ホロスターズ】
-UID:0aI16B4oFDY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】初めてのエンダードラゴンRTA【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=Iq8cFqIi66g
-DURATION:PT2H
-DTSTART:20200724T060000Z
-SUMMARY:💫天音かなた: 【Minecraft】初めてのエンダードラゴンRTA【天音かなた/ホロライブ4期生】
-UID:Iq8cFqIi66g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アズレン】新艦船キター!!引けるまで建造ガチャ【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=fe5CBM6JMM8
-DURATION:PT2H
-DTSTART:20200723T110000Z
-SUMMARY:🏴☠宝鐘マリン: 【アズレン】新艦船キター!!引けるまで建造ガチャ【ホロライブ/宝鐘マリン】
-UID:fe5CBM6JMM8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DEATH STRANDING 】アルランディスは繋ぎ続ける #2【 #アランストリーム 】\nhttps://www.youtube.com/watch?v=Gk1jUv3EwW8
-DURATION:PT2H
-DTSTART:20200724T010000Z
-SUMMARY:🍕アルランディス: 【DEATH STRANDING 】アルランディスは繋ぎ続ける #2【 #アランストリーム 】
-UID:Gk1jUv3EwW8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:今週もお疲れ様、一杯どう？【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=EUWfN4d-uhM
-DURATION:PT2H
-DTSTART:20200724T140000Z
-SUMMARY:💙鏡見キラ: 今週もお疲れ様、一杯どう？【ホロスターズ/鏡見キラ】
-UID:EUWfN4d-uhM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【壺男】壺おじクリア耐久！！今日は勝つ・・・【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=-C_mc22cz-o
-DURATION:PT2H
-DTSTART:20200724T140000Z
-SUMMARY:🌙紫咲シオン: 【壺男】壺おじクリア耐久！！今日は勝つ・・・【ホロライブ/紫咲シオン】
-UID:-C_mc22cz-o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:宇宙に行ってみたい、それだけなんです【壺男/大神ミオ】\nhttps://www.youtube.com/watch?v=fIQdtY1EROk
-DURATION:PT2H
-DTSTART:20200723T110000Z
-SUMMARY:🌲大神ミオ: 宇宙に行ってみたい、それだけなんです【壺男/大神ミオ】
-UID:fIQdtY1EROk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ピアノのお稽古】海の日の癒しの音楽タイムなのら🎵【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=a8Pt2nfXL5Q
-DURATION:PT2H
-DTSTART:20200723T070000Z
-SUMMARY:🍬姫森ルーナ: 【ピアノのお稽古】海の日の癒しの音楽タイムなのら🎵【姫森ルーナ/ホロライブ】
-UID:a8Pt2nfXL5Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#1【DEATH STRANDING】 初見プレイ！世界を繋ぐ旅へ！？最初の一歩ぺこ！！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=_cI9GbH7qXI
-DURATION:PT2H
-DTSTART:20200723T040000Z
-SUMMARY:👯兎田ぺこら: #1【DEATH STRANDING】 初見プレイ！世界を繋ぐ旅へ！？最初の一歩ぺこ！！【ホロライブ/兎田ぺこら】
-UID:_cI9GbH7qXI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Valorant】Valorant with Kureha Chan!【MooKure】EN Only\nhttps://www.youtube.com/watch?v=kmDJej5uZU0
-DURATION:PT2H
-DTSTART:20200723T130000Z
-SUMMARY:🔮Moona: 【Valorant】Valorant with Kureha Chan!【MooKure】EN Only
-UID:kmDJej5uZU0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雀魂】すこん部になんか負けないきーつね！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=Bv5jqcFDP_4
-DURATION:PT2H
-DTSTART:20200723T120000Z
-SUMMARY:🌽白上フブキ: 【雀魂】すこん部になんか負けないきーつね！【ホロライブ/白上フブキ】
-UID:Bv5jqcFDP_4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【晩酌】引っ越しの話とかノエスタお泊りした話とか【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=RNV-0geyTBg
-DURATION:PT2H
-DTSTART:20200723T140000Z
-SUMMARY:🔥不知火フレア: 【晩酌】引っ越しの話とかノエスタお泊りした話とか【ホロライブ/不知火フレア】
-UID:RNV-0geyTBg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】大会にむけて練習中、配信画面が可愛くなりました！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=z8-r8OVrjoA
-DURATION:PT2H
-DTSTART:20200724T140000Z
-SUMMARY:🤖ロボ子さん: 【APEX】大会にむけて練習中、配信画面が可愛くなりました！！【ホロライブ/ロボ子さん】
-UID:z8-r8OVrjoA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARK Genesis】「巨大な亀の背中に住む」だれもが憧れたことをするよ。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=xUJ6WAYL5oI
-DURATION:PT2H
-DTSTART:20200723T030000Z
-SUMMARY:🦔💨岸堂天真: 【ARK Genesis】「巨大な亀の背中に住む」だれもが憧れたことをするよ。【岸堂天真/ホロスターズ】
-UID:xUJ6WAYL5oI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】脱毛器ケ〇ンが届きました。大　　自　　然　　脱　　毛【月下カオル/ホロスターズ】\nhttps://www.youtube.com/watch?v=t_VQJtwbWYQ
-DURATION:PT2H
-DTSTART:20200723T150000Z
-SUMMARY:月下カオル: 【雑談】脱毛器ケ〇ンが届きました。大　　自　　然　　脱　　毛【月下カオル/ホロスターズ】
-UID:t_VQJtwbWYQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】スター☆スウィーパーで頑張る【律可/影山シエン/花咲みやび】\nhttps://www.youtube.com/watch?v=UtQ9tLbLvWI
-DURATION:PT2H
-DTSTART:20200724T060000Z
-SUMMARY:⚙律可: 【APEX】スター☆スウィーパーで頑張る【律可/影山シエン/花咲みやび】
-UID:UtQ9tLbLvWI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Jump King / クリア耐久】Ｒｅ：今日もまた、俺はJump Kingに悩まされている！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=aiKvnUhy4h0
-DURATION:PT2H
-DTSTART:20200723T150000Z
-SUMMARY:🍷夕刻ロベル: 【Jump King / クリア耐久】Ｒｅ：今日もまた、俺はJump Kingに悩まされている！！【ホロスターズ/夕刻ロベル】
-UID:aiKvnUhy4h0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】僕、ついていく。てちてち【かわせ/夏色まつり】\nhttps://www.youtube.com/watch?v=yOBFiOEXzDI
-DURATION:PT2H
-DTSTART:20200723T140000Z
-SUMMARY:🏮夏色まつり: 【APEX】僕、ついていく。てちてち【かわせ/夏色まつり】
-UID:yOBFiOEXzDI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】緊張感MAXマイクラ【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=94-p0zgUVdU
-DURATION:PT2H
-DTSTART:20200724T010000Z
-SUMMARY:💫天音かなた: 【Minecraft】緊張感MAXマイクラ【天音かなた/ホロライブ4期生】
-UID:94-p0zgUVdU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FREETALK】Mengenang 15 Juli dan Hadiah Ulang Tahun!【hololive-ID】\nhttps://www.youtube.com/watch?v=BqboD4EQ3E4
-DURATION:PT2H
-DTSTART:20200724T120000Z
-SUMMARY:🎨Iofi: 【FREETALK】Mengenang 15 Juli dan Hadiah Ulang Tahun!【hololive-ID】
-UID:BqboD4EQ3E4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ちょこっとクッキング】へなちょこ悪魔が火を使わない回鍋肉作る！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=0pQUV9QuZlM
-DURATION:PT2H
-DTSTART:20200724T030000Z
-SUMMARY:💋癒月ちょこ: 【#ちょこっとクッキング】へなちょこ悪魔が火を使わない回鍋肉作る！【ホロライブ/癒月ちょこ】
-UID:0pQUV9QuZlM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【hololiveID】#2 Next Stage : Episode 2【Ayunda Risu】\nhttps://www.youtube.com/watch?v=qvxlOLNVNbo
-DURATION:PT2H
-DTSTART:20200723T140000Z
-SUMMARY:🐿Risu: 【hololiveID】#2 Next Stage : Episode 2【Ayunda Risu】
-UID:qvxlOLNVNbo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ワンダと巨像】ワンダ モーニングショット【月下カオル/ホロスターズ】PlayStation®4用ソフトウェア『ワンダと巨像 Value Selection』\nhttps://www.youtube.com/watch?v=311Czkju4XU
-DURATION:PT2H
-DTSTART:20200722T220000Z
-SUMMARY:月下カオル: 【ワンダと巨像】ワンダ モーニングショット【月下カオル/ホロスターズ】PlayStation®4用ソフトウェア『ワンダと巨像 Value Selection』
-UID:311Czkju4XU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Jump King until clear】前代未聞 二人同時クリア【奏手イヅル/アステル】\nhttps://www.youtube.com/watch?v=gzHBmR5NYKU
-DURATION:PT2H
-DTSTART:20200724T080000Z
-SUMMARY:🎸奏手イヅル: 【Jump King until clear】前代未聞 二人同時クリア【奏手イヅル/アステル】
-UID:gzHBmR5NYKU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:はあちゃま結婚\nhttps://www.youtube.com/watch?v=Uzu9QaBvk6Y
-DURATION:PT2H
-DTSTART:20200724T100000Z
-SUMMARY:❤赤井はあと: はあちゃま結婚
-UID:Uzu9QaBvk6Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マシュマロ】～いろんな意味で怖い話を読む～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=bPTta_bBDwc
-DURATION:PT2H
-DTSTART:20200724T150000Z
-SUMMARY:荒咬オウガ: 【マシュマロ】～いろんな意味で怖い話を読む～【荒咬オウガ/ホロスターズ】
-UID:bPTta_bBDwc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】スター☆スウィーパー、出陣【影山シエン/律可】\nhttps://www.youtube.com/watch?v=1si3EJN5u4A
-DURATION:PT2H
-DTSTART:20200723T060000Z
-SUMMARY:影山シエン: 【APEX】スター☆スウィーパー、出陣【影山シエン/律可】
-UID:1si3EJN5u4A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#桐生ココ】予備知識ゼロからはじめるマイクラ生活！【なんもわからん】\nhttps://www.youtube.com/watch?v=PpxKf7trW9w
-DURATION:PT2H
-DTSTART:20200723T130000Z
-SUMMARY:🐉桐生ココ: 【#桐生ココ】予備知識ゼロからはじめるマイクラ生活！【なんもわからん】
-UID:PpxKf7trW9w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【幽霊列車】新作きたー！ホラゲってこわいけどやっちゃうんだよね【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=xfiltSTPqlk
-DURATION:PT2H
-DTSTART:20200724T140000Z
-SUMMARY:🐏角巻わため: 【幽霊列車】新作きたー！ホラゲってこわいけどやっちゃうんだよね【角巻わため/ホロライブ４期生】
-UID:xfiltSTPqlk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#1 世の中舐めてるラジオ ~ネット人生で一番恥ずかしかったこと~【奏手イヅル】\nhttps://www.youtube.com/watch?v=4JdLNsBXfJ8
-DURATION:PT2H
-DTSTART:20200723T140000Z
-SUMMARY:🎸奏手イヅル: #1 世の中舐めてるラジオ ~ネット人生で一番恥ずかしかったこと~【奏手イヅル】
-UID:4JdLNsBXfJ8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:海外ホロライブファンよ、お前らの行動はバレている\nhttps://www.youtube.com/watch?v=tTyLbWrGKNs
-DURATION:PT2H
-DTSTART:20200724T030000Z
-SUMMARY:🐉桐生ココ: 海外ホロライブファンよ、お前らの行動はバレている
-UID:tTyLbWrGKNs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX大会練習】ダイヤⅢ以上の世界へ。地獄。【ホロスターズ/ちびすたーず】\nhttps://www.youtube.com/watch?v=k-qsntbWhqk
-DURATION:PT2H
-DTSTART:20200723T090000Z
-SUMMARY:🎭アステル・レダ: 【APEX大会練習】ダイヤⅢ以上の世界へ。地獄。【ホロスターズ/ちびすたーず】
-UID:k-qsntbWhqk
 END:VEVENT
 END:VCALENDAR
