@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Japanese Class】Easy Japanese Phrase to Support your Oshi! 【IND/EN】\nhttps://www.youtube.com/watch?v=NCRQRrP9AFc
+DURATION:PT2H
+DTSTART:20200730T130000Z
+SUMMARY:🎨Iofi: 【Japanese Class】Easy Japanese Phrase to Support your Oshi! 【IND/EN】
+UID:NCRQRrP9AFc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ASMR】Y.O.U and I【hololive-ID】\nhttps://www.youtube.com/watch?v=GuA6SfzFXfY
 DURATION:PT2H
 DTSTART:20200729T150000Z
@@ -25,10 +32,10 @@ SUMMARY:🔮Moona: 【Crash Bandicoot N. Sane Trilogy】Part 2 -  EN | ID 【hol
 UID:iAdAHS6X5BM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Japanese Class】Easy Japanese Phrase to Support your Oshi! 【IND/EN】\nhttps://www.youtube.com/watch?v=NCRQRrP9AFc
+DESCRIPTION:【hololiveID】Sleepy Stream #2 - ENGLISH ONLY【Ayunda Risu】\nhttps://www.youtube.com/watch?v=wedBMBeLUk0
 DURATION:PT2H
-DTSTART:20200730T130000Z
-SUMMARY:🎨Iofi: 【Japanese Class】Easy Japanese Phrase to Support your Oshi! 【IND/EN】
-UID:NCRQRrP9AFc
+DTSTART:20200729T150000Z
+SUMMARY:🐿Risu: 【hololiveID】Sleepy Stream #2 - ENGLISH ONLY【Ayunda Risu】
+UID:wedBMBeLUk0
 END:VEVENT
 END:VCALENDAR
