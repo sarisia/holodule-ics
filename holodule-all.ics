@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:皆さんに感謝をする時間。\nhttps://www.youtube.com/watch?v=YURh1p7oKEA
-DURATION:PT2H
-DTSTART:20200729T150000Z
-SUMMARY:🐉桐生ココ: 皆さんに感謝をする時間。
-UID:YURh1p7oKEA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Project Winter】初プレイでも騙してやるのら！！【#ホロ雪山人狼/姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=wsHeI40L87M
 DURATION:PT2H
 DTSTART:20200729T100000Z
@@ -121,6 +114,13 @@ DURATION:PT2H
 DTSTART:20200729T040000Z
 SUMMARY:🍷夕刻ロベル: 【雀魂】ふとやりたくなった麻雀をする【ホロスターズ/夕刻ロベル】
 UID:peRLfykS9bs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【幽霊列車】だんだん薄くなるアル律【アルランディス/律可/ホロスターズ #アル律 】\nhttps://www.youtube.com/watch?v=OeQ3KB9fInU
+DURATION:PT2H
+DTSTART:20200729T150000Z
+SUMMARY:⚙律可: 【幽霊列車】だんだん薄くなるアル律【アルランディス/律可/ホロスターズ #アル律 】
+UID:OeQ3KB9fInU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Happy】お誕生日カウントダウンしちゃうぞ!!【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=lZJy9KOTBFc
@@ -324,13 +324,6 @@ DURATION:PT2H
 DTSTART:20200728T150000Z
 SUMMARY:💫天音かなた: 【かなココARK】深夜の洞窟準備！【桐生ココ＆天音かなた/ホロライブ4期生】
 UID:b-zhqrCe_k8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ASMR】Y.O.U and I【hololive-ID】\nhttps://www.youtube.com/watch?v=GuA6SfzFXfY
-DURATION:PT2H
-DTSTART:20200729T150000Z
-SUMMARY:🎨Iofi: 【ASMR】Y.O.U and I【hololive-ID】
-UID:GuA6SfzFXfY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ピアノのお稽古】癒しの音楽の時間なのらよ🎵【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=E20rMOuuUnI
