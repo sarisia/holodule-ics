@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【雑談】赤裸々トーク!!僕の全部見せちゃいます。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=glhgux6ibU0
+DURATION:PT2H
+DTSTART:20200730T130000Z
+SUMMARY:🌺花咲みやび: 【雑談】赤裸々トーク!!僕の全部見せちゃいます。【花咲みやび/ホロスターズ】
+UID:glhgux6ibU0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】寝起きのソロ練習!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=KLxnL0UGR2o
 DURATION:PT2H
 DTSTART:20200729T053000Z
@@ -16,6 +23,41 @@ DURATION:PT2H
 DTSTART:20200730T110000Z
 SUMMARY:⚙律可: #2【RiTunes Labo】セッション歌枠：ゲスト『影山シエン』【律可/ホロスターズ 】#りちゅらぼ
 UID:nzhigIw6KWo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK】海開き!!ゆるスタで拠点作り!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=wkpZlgGdV7s
+DURATION:PT2H
+DTSTART:20200729T130000Z
+SUMMARY:🌺花咲みやび: 【ARK】海開き!!ゆるスタで拠点作り!!【花咲みやび/ホロスターズ】
+UID:wkpZlgGdV7s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】課題も納期もやばいよ～；；【奏手イヅル】\nhttps://www.youtube.com/watch?v=SESBRooZX9M
+DURATION:PT2H
+DTSTART:20200729T091000Z
+SUMMARY:🎸奏手イヅル: 【雑談】課題も納期もやばいよ～；；【奏手イヅル】
+UID:SESBRooZX9M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】シン・PCの配信設定のテストも兼ねて、練習。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=QKZplqwDloU
+DURATION:PT2H
+DTSTART:20200730T063000Z
+SUMMARY:🎭アステル・レダ: 【APEX】シン・PCの配信設定のテストも兼ねて、練習。【ホロスターズ/アステル】
+UID:QKZplqwDloU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】久々にソロ練するぞ！【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=YLIrtv_53IM
+DURATION:PT2H
+DTSTART:20200730T080000Z
+SUMMARY:影山シエン: 【APEX】久々にソロ練するぞ！【影山シエン/ホロスターズ】
+UID:YLIrtv_53IM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】生活習慣改善－週の真ん中水曜日－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=BQ19pA3BkA0
+DURATION:PT2H
+DTSTART:20200729T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－週の真ん中水曜日－【ホロスターズ/夕刻ロベル】
+UID:BQ19pA3BkA0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】生活習慣改善－7月の終わりまで今日を含めて2日です－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=CzM41Csv2xo
@@ -46,27 +88,6 @@ SUMMARY:⚙律可: 【幽霊列車】だんだん薄くなるアル律【アル�
 UID:OeQ3KB9fInU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ARK】海開き!!ゆるスタで拠点作り!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=wkpZlgGdV7s
-DURATION:PT2H
-DTSTART:20200729T130000Z
-SUMMARY:🌺花咲みやび: 【ARK】海開き!!ゆるスタで拠点作り!!【花咲みやび/ホロスターズ】
-UID:wkpZlgGdV7s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】課題も納期もやばいよ～；；【奏手イヅル】\nhttps://www.youtube.com/watch?v=SESBRooZX9M
-DURATION:PT2H
-DTSTART:20200729T091000Z
-SUMMARY:🎸奏手イヅル: 【雑談】課題も納期もやばいよ～；；【奏手イヅル】
-UID:SESBRooZX9M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】シン・PCの配信設定のテストも兼ねて、練習。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=QKZplqwDloU
-DURATION:PT2H
-DTSTART:20200730T063000Z
-SUMMARY:🎭アステル・レダ: 【APEX】シン・PCの配信設定のテストも兼ねて、練習。【ホロスターズ/アステル】
-UID:QKZplqwDloU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】シン・PCの配信設定のテストも兼ねて、練習。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=kPdQwrc1h5o
 DURATION:PT2H
 DTSTART:20200730T074500Z
@@ -79,13 +100,6 @@ DURATION:PT2H
 DTSTART:20200728T150000Z
 SUMMARY:🎭アステル・レダ: 【月一談義】７月編です。2020年も折り返し行きました。【ホロスターズ/アステル】
 UID:Bzt6G3tMKzw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活】生活習慣改善－週の真ん中水曜日－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=BQ19pA3BkA0
-DURATION:PT2H
-DTSTART:20200729T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－週の真ん中水曜日－【ホロスターズ/夕刻ロベル】
-UID:BQ19pA3BkA0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#やらせ感動企画】普段言えない感謝の気持ちを手紙に乗せて…、【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=xQbXMVwcjD4
