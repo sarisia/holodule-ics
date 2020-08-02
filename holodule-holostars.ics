@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【APEX大会練習】私が、エイペックスマンだ。【ホロスターズ/ちびすたーず】\nhttps://www.youtube.com/watch?v=y9zQGwoCohs
+DURATION:PT2H
+DTSTART:20200802T060000Z
+SUMMARY:🎭アステル・レダ: 【APEX大会練習】私が、エイペックスマンだ。【ホロスターズ/ちびすたーず】
+UID:y9zQGwoCohs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 APEX Legends 】ゴールド帯でもみくちゃにされる男【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=Ut736QaFy4I
 DURATION:PT2H
 DTSTART:20200801T140000Z
@@ -67,10 +74,10 @@ SUMMARY:🎭アステル・レダ: 【APEX大会練習】チーム100キルと�
 UID:abQtELR55Y8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX大会練習】私が、エイペックスマンだ。【ホロスターズ/ちびすたーず】\nhttps://www.youtube.com/watch?v=y9zQGwoCohs
+DESCRIPTION:【同時視聴】シャニマスの1stライブを見て高ぶる俺と、一緒に見て高ぶる皆【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=eqJfswKnzGs
 DURATION:PT2H
 DTSTART:20200802T060000Z
-SUMMARY:🎭アステル・レダ: 【APEX大会練習】私が、エイペックスマンだ。【ホロスターズ/ちびすたーず】
-UID:y9zQGwoCohs
+SUMMARY:🍷夕刻ロベル: 【同時視聴】シャニマスの1stライブを見て高ぶる俺と、一緒に見て高ぶる皆【ホロスターズ/夕刻ロベル】
+UID:eqJfswKnzGs
 END:VEVENT
 END:VCALENDAR
