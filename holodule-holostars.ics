@@ -4,34 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】昼まりか【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=VwFsJRMDBPc
-DURATION:PT2H
-DTSTART:20200804T040000Z
-SUMMARY:🍷夕刻ロベル: 【マリオカート8DX】昼まりか【ホロスターズ/夕刻ロベル】
-UID:VwFsJRMDBPc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロスタ夏衣装】夏の僕、いっぱい見て？【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=4NevDC4bYDU
-DURATION:PT2H
-DTSTART:20200804T103000Z
-SUMMARY:💙鏡見キラ: 【#ホロスタ夏衣装】夏の僕、いっぱい見て？【ホロスターズ/鏡見キラ】
-UID:4NevDC4bYDU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【新衣装お披露目】初めての新衣装!!暑い夏にはコレだね!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=KG6tlVDrcRk
-DURATION:PT2H
-DTSTART:20200805T103000Z
-SUMMARY:🦔💨岸堂天真: 【新衣装お披露目】初めての新衣装!!暑い夏にはコレだね!!【岸堂天真/ホロスターズ】
-UID:KG6tlVDrcRk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #ホロスタ夏衣装】君と花火が見たくて、夏 - #アランの夏衣装 -【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=7HFiBnBsxUc
-DURATION:PT2H
-DTSTART:20200804T113000Z
-SUMMARY:🍕アルランディス: 【 #ホロスタ夏衣装】君と花火が見たくて、夏 - #アランの夏衣装 -【ホロスターズ/アルランディス】
-UID:7HFiBnBsxUc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【幽霊列車】がたんごとーん！がたんごとーん！！あ！！怖いや！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=s1qSsDM2DnE
 DURATION:PT2H
 DTSTART:20200803T150000Z
@@ -46,11 +18,11 @@ SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの平日朝活！－良
 UID:8nINaisA9ic
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロスタ夏衣装】新衣装お披露目！一緒に夏を楽しもうや！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=pBXXMf6Bb8Y
+DESCRIPTION:【OVERЯOID】究極の頭脳戦を進めよう - #アル律 -【アルランディス/律可】\nhttps://www.youtube.com/watch?v=3lzwTrtQX0w
 DURATION:PT2H
-DTSTART:20200805T110000Z
-SUMMARY:🍷夕刻ロベル: 【#ホロスタ夏衣装】新衣装お披露目！一緒に夏を楽しもうや！！【ホロスターズ/夕刻ロベル】
-UID:pBXXMf6Bb8Y
+DTSTART:20200805T120000Z
+SUMMARY:🍕アルランディス: 【OVERЯOID】究極の頭脳戦を進めよう - #アル律 -【アルランディス/律可】
+UID:3lzwTrtQX0w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロスタ夏衣装】我ながら可愛いと思う【奏手イヅル】\nhttps://www.youtube.com/watch?v=4PfDCO8ZI7k
@@ -65,6 +37,48 @@ DURATION:PT2H
 DTSTART:20200804T120000Z
 SUMMARY:⚙律可: 【 #ホロスタ夏衣装 】ひんやりとした夏を過ごしたい【律可/ホロスターズ】
 UID:6FO4NKxmJ1c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロスタ夏衣装】夏の僕、いっぱい見て？【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=4NevDC4bYDU
+DURATION:PT2H
+DTSTART:20200804T103000Z
+SUMMARY:💙鏡見キラ: 【#ホロスタ夏衣装】夏の僕、いっぱい見て？【ホロスターズ/鏡見キラ】
+UID:4NevDC4bYDU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロスタ夏衣装】新衣装お披露目！一緒に夏を楽しもうや！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=pBXXMf6Bb8Y
+DURATION:PT2H
+DTSTART:20200805T110000Z
+SUMMARY:🍷夕刻ロベル: 【#ホロスタ夏衣装】新衣装お披露目！一緒に夏を楽しもうや！！【ホロスターズ/夕刻ロベル】
+UID:pBXXMf6Bb8Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Dead by Daylight】レート制導入!?どれどれやってみようか【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=tVKjXuz6WcM
+DURATION:PT2H
+DTSTART:20200804T030000Z
+SUMMARY:🦔💨岸堂天真: 【Dead by Daylight】レート制導入!?どれどれやってみようか【岸堂天真/ホロスターズ】
+UID:tVKjXuz6WcM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マリオカート8DX】昼まりか【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=VwFsJRMDBPc
+DURATION:PT2H
+DTSTART:20200804T040000Z
+SUMMARY:🍷夕刻ロベル: 【マリオカート8DX】昼まりか【ホロスターズ/夕刻ロベル】
+UID:VwFsJRMDBPc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【新衣装お披露目】初めての新衣装!!暑い夏にはコレだね!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=KG6tlVDrcRk
+DURATION:PT2H
+DTSTART:20200805T103000Z
+SUMMARY:🦔💨岸堂天真: 【新衣装お披露目】初めての新衣装!!暑い夏にはコレだね!!【岸堂天真/ホロスターズ】
+UID:KG6tlVDrcRk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #ホロスタ夏衣装】君と花火が見たくて、夏 - #アランの夏衣装 -【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=7HFiBnBsxUc
+DURATION:PT2H
+DTSTART:20200804T113000Z
+SUMMARY:🍕アルランディス: 【 #ホロスタ夏衣装】君と花火が見たくて、夏 - #アランの夏衣装 -【ホロスターズ/アルランディス】
+UID:7HFiBnBsxUc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:『#ホロスタ夏衣装』🏮🎇🏮今日は、楽しかったね 🏮🎇🏮【アステル/ホロスターズ】\nhttps://www.youtube.com/watch?v=6Ct4_Pe1BVs
@@ -88,17 +102,17 @@ SUMMARY:🎭アステル・レダ: 【APEX】大会終わったし、マスタ�
 UID:Ohr6Acd6Fv4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#オウ魔ガ刻】ロベルです！オウガです！久し振りな二人の戯れ～～！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=-uJ4uHyupew
+DURATION:PT2H
+DTSTART:20200804T140000Z
+SUMMARY:🍷夕刻ロベル: 【#オウ魔ガ刻】ロベルです！オウガです！久し振りな二人の戯れ～～！【ホロスターズ/夕刻ロベル】
+UID:-uJ4uHyupew
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ホロスタ夏衣装】夏だ!海だ!バカンスだ!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=6eTahdZT6y8
 DURATION:PT2H
 DTSTART:20200804T100000Z
 SUMMARY:🌺花咲みやび: 【#ホロスタ夏衣装】夏だ!海だ!バカンスだ!【花咲みやび/ホロスターズ】
 UID:6eTahdZT6y8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Dead by Daylight】レート制導入!?どれどれやってみようか【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=tVKjXuz6WcM
-DURATION:PT2H
-DTSTART:20200804T030000Z
-SUMMARY:🦔💨岸堂天真: 【Dead by Daylight】レート制導入!?どれどれやってみようか【岸堂天真/ホロスターズ】
-UID:tVKjXuz6WcM
 END:VEVENT
 END:VCALENDAR
