@@ -39,18 +39,18 @@ SUMMARY:影山シエン: 【ツイステ】サバナクロー寮にいそうな�
 UID:4y4JcDjreBY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#桐生ココ】さぁなにがはじまるか！？【】\nhttps://www.youtube.com/watch?v=CqNTi1Xmydg
-DURATION:PT2H
-DTSTART:20200807T130000Z
-SUMMARY:🐉桐生ココ: 【#桐生ココ】さぁなにがはじまるか！？【】
-UID:CqNTi1Xmydg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ダンガンロンパ2】#02 第一章まで！一人16役セリフフルボイス実況！！【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=LAwLsvxC9LY
 DURATION:PT2H
 DTSTART:20200807T130000Z
 SUMMARY:💫天音かなた: 【ダンガンロンパ2】#02 第一章まで！一人16役セリフフルボイス実況！！【天音かなた/ホロライブ4期生】
 UID:LAwLsvxC9LY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololiveID】#4 Ultimate DOOM : EPISODE 3【Ayunda Risu】\nhttps://www.youtube.com/watch?v=XrIkZrQGUY0
+DURATION:PT2H
+DTSTART:20200807T130000Z
+SUMMARY:🐿Risu: 【hololiveID】#4 Ultimate DOOM : EPISODE 3【Ayunda Risu】
+UID:XrIkZrQGUY0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ASUS】ROG StrixSCAR15でAPEX!!!いったい…どんな世界なんだ…300Hz!?!?【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=I-9TzLDeX5c
@@ -67,18 +67,18 @@ SUMMARY:🌽白上フブキ: 【GC】シャインをあつめて今日も水浴�
 UID:FCFoFnqkDGk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【hololiveID】#4 Ultimate DOOM : EPISODE 3【Ayunda Risu】\nhttps://www.youtube.com/watch?v=XrIkZrQGUY0
+DESCRIPTION:【#桐生ココ】さぁなにがはじまるか！？【】\nhttps://www.youtube.com/watch?v=CqNTi1Xmydg
 DURATION:PT2H
 DTSTART:20200807T130000Z
-SUMMARY:🐿Risu: 【hololiveID】#4 Ultimate DOOM : EPISODE 3【Ayunda Risu】
-UID:XrIkZrQGUY0
+SUMMARY:🐉桐生ココ: 【#桐生ココ】さぁなにがはじまるか！？【】
+UID:CqNTi1Xmydg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MAD Father】Batsugame?! OH NO! - ID | EN【holoID】\nhttps://www.youtube.com/watch?v=U7J8WQFbvAY
+DESCRIPTION:【Freetalksmr】69k Celebration - ID | EN【Hoshinova】\nhttps://www.youtube.com/watch?v=KJJI8ekFH-M
 DURATION:PT2H
-DTSTART:20200806T130000Z
-SUMMARY:🔮Moona: 【MAD Father】Batsugame?! OH NO! - ID | EN【holoID】
-UID:U7J8WQFbvAY
+DTSTART:20200807T150000Z
+SUMMARY:🔮Moona: 【Freetalksmr】69k Celebration - ID | EN【Hoshinova】
+UID:KJJI8ekFH-M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:世界のアソビ大全あそびまくる⚀【ホロライブ / #星の彼方】\nhttps://www.youtube.com/watch?v=BIrURmM8D2A
@@ -88,18 +88,18 @@ SUMMARY:☄星街すいせい: 世界のアソビ大全あそびまくる⚀【�
 UID:BIrURmM8D2A
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【MAD Father】Batsugame?! OH NO! - ID | EN【holoID】\nhttps://www.youtube.com/watch?v=U7J8WQFbvAY
+DURATION:PT2H
+DTSTART:20200806T130000Z
+SUMMARY:🔮Moona: 【MAD Father】Batsugame?! OH NO! - ID | EN【holoID】
+UID:U7J8WQFbvAY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#桐生ココ】いざ！ホロ視聴者サーバーへ！【#とまらないARK】\nhttps://www.youtube.com/watch?v=D3Am7jKBCng
 DURATION:PT2H
 DTSTART:20200806T130000Z
 SUMMARY:🐉桐生ココ: 【#桐生ココ】いざ！ホロ視聴者サーバーへ！【#とまらないARK】
 UID:D3Am7jKBCng
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Freetalksmr】69k Celebration - ID | EN【Hoshinova】\nhttps://www.youtube.com/watch?v=KJJI8ekFH-M
-DURATION:PT2H
-DTSTART:20200807T150000Z
-SUMMARY:🔮Moona: 【Freetalksmr】69k Celebration - ID | EN【Hoshinova】
-UID:KJJI8ekFH-M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Overcooked2】食べ物を粗末にしたら神様に叱られる【#ゆるスタ】\nhttps://www.youtube.com/watch?v=tEPH2URJuqc
@@ -254,6 +254,13 @@ DURATION:PT2H
 DTSTART:20200807T143000Z
 SUMMARY:⚔白銀ノエル: 【1周年】みんなありがとう🌸一緒にカウントダウンしよう！【白銀ノエル/ホロライブ】
 UID:YpF_GLun8Wo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#グルコス】船長のカバー曲が実装!!フルコンするしかねぇ～！【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=xUsnPqkuctg
+DURATION:PT2H
+DTSTART:20200807T100000Z
+SUMMARY:🏴☠宝鐘マリン: 【#グルコス】船長のカバー曲が実装!!フルコンするしかねぇ～！【ホロライブ/宝鐘マリン】
+UID:xUsnPqkuctg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スマブラSP】お手並み？お察しします【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=S1_T6r832KA
@@ -492,6 +499,13 @@ DURATION:PT2H
 DTSTART:20200806T150000Z
 SUMMARY:🍎アキロゼ: 【ゲリラ歌？】謎の民族楽器と鼻歌【ホロライブ/アキロゼ】
 UID:AlSksitRtI0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK】ココ×るしあ 誰も捕まえてない恐竜協力テイム【ホロライブ/潤羽るしあ】 カテゴリ\nhttps://www.youtube.com/watch?v=tLnETKC-KPo
+DURATION:PT2H
+DTSTART:20200807T090000Z
+SUMMARY:🦋潤羽るしあ: 【ARK】ココ×るしあ 誰も捕まえてない恐竜協力テイム【ホロライブ/潤羽るしあ】 カテゴリ
+UID:tLnETKC-KPo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX100キル耐久】Twitterの投票で決まった数、キル耐久をする。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=BdFUX4WLZHk
