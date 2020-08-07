@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ピアノのお稽古】ゆっくり深夜の音楽タイムなのら🎵【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=8DlbEi6FuwY
-DURATION:PT2H
-DTSTART:20200807T150000Z
-SUMMARY:🍬姫森ルーナ: 【ピアノのお稽古】ゆっくり深夜の音楽タイムなのら🎵【姫森ルーナ/ホロライブ】
-UID:8DlbEi6FuwY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ARK ╎Crystal Isles】くじら！イカ！？深海洞窟！？？【ホロライブ/アキロゼ×ロボ子さん】\nhttps://www.youtube.com/watch?v=4aKqwJVdYyQ
 DURATION:PT2H
 DTSTART:20200807T030000Z
@@ -37,6 +30,13 @@ DURATION:PT2H
 DTSTART:20200807T030000Z
 SUMMARY:🍬姫森ルーナ: 【世界のアソビ大全51】夏の甲子園出場を目指すのら✨【姫森ルーナ/ホロライブ】
 UID:MOADBLKOseY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】今日のすごいことあったんだ聞いて・・・！【#桐生ココ】\nhttps://www.youtube.com/watch?v=CqNTi1Xmydg
+DURATION:PT2H
+DTSTART:20200807T130000Z
+SUMMARY:🐉桐生ココ: 【雑談】今日のすごいことあったんだ聞いて・・・！【#桐生ココ】
+UID:CqNTi1Xmydg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:枠バグ【ダンガンロンパ2】一人16役セリフフルボイス実況！！【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=LAwLsvxC9LY
@@ -226,6 +226,13 @@ DURATION:PT2H
 DTSTART:20200807T140000Z
 SUMMARY:💋癒月ちょこ: 【APEX】夜食ちゃんぽんリベンジしたい人外APEX【あにまーれ/日ノ隈らん/ホロライブ/角巻わため/癒月ちょこ】
 UID:XcbCUJJtDik
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Le'S sing with Coco!!\nhttps://www.youtube.com/watch?v=bsOShxfxVac
+DURATION:PT2H
+DTSTART:20200807T163000Z
+SUMMARY:🐉桐生ココ: Le'S sing with Coco!!
+UID:bsOShxfxVac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【幽霊列車】ついに・・・噂のホラゲーやる！【ホロライブ/潤羽るしあ】\nhttps://www.youtube.com/watch?v=0N4pAXiIYQc
