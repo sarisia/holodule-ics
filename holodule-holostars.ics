@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 ゼルダの伝説 夢をみる島 】夢うつつ まったり冒険紀行#1【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=ps-xbnG9cu8
-DURATION:PT2H
-DTSTART:20200809T040000Z
-SUMMARY:🍕アルランディス: 【 ゼルダの伝説 夢をみる島 】夢うつつ まったり冒険紀行#1【ホロスターズ/アルランディス】
-UID:ps-xbnG9cu8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活イングリッシュ！今日もまた俺は英語を学ぶのであった【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=lgke922qp7Y
 DURATION:PT2H
 DTSTART:20200810T010000Z
@@ -18,11 +11,11 @@ SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活イングリッ
 UID:lgke922qp7Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】久々ゆったりはなす＆スパチャ読み【奏手イヅル】\nhttps://www.youtube.com/watch?v=4vDal2mx8sI
+DESCRIPTION:【 ゼルダの伝説 夢をみる島 】夢うつつ まったり冒険紀行#1【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=ps-xbnG9cu8
 DURATION:PT2H
-DTSTART:20200809T100000Z
-SUMMARY:🎸奏手イヅル: 【雑談】久々ゆったりはなす＆スパチャ読み【奏手イヅル】
-UID:4vDal2mx8sI
+DTSTART:20200809T040000Z
+SUMMARY:🍕アルランディス: 【 ゼルダの伝説 夢をみる島 】夢うつつ まったり冒険紀行#1【ホロスターズ/アルランディス】
+UID:ps-xbnG9cu8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】FGO5周年記念ガチャ回す！※ガチャ画面は無い【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=Oj4_6HjimbE
@@ -60,6 +53,13 @@ SUMMARY:🦔💨岸堂天真: ひや丸生誕祭＋感謝のスパチャ読み�
 UID:sMhw4dFVjQI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Splatoon2】イカ！？俺はイカ焼きを振るぞぉ！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=Xh_tONTAGSU
+DURATION:PT2H
+DTSTART:20200810T110000Z
+SUMMARY:🍷夕刻ロベル: 【Splatoon2】イカ！？俺はイカ焼きを振るぞぉ！！【ホロスターズ/夕刻ロベル】
+UID:Xh_tONTAGSU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 #ホロスタ夏衣装】夏衣装の話をしよう！-裏話を添えて-【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=kgEN5kOXXGo
 DURATION:PT2H
 DTSTART:20200808T150000Z
@@ -67,18 +67,18 @@ SUMMARY:🍕アルランディス: 【 #ホロスタ夏衣装】夏衣装の話�
 UID:kgEN5kOXXGo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:『幽霊列車』正直もう怖いものなんてないと思う。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=G5hu2oCLoPw
-DURATION:PT2H
-DTSTART:20200809T140000Z
-SUMMARY:🎭アステル・レダ: 『幽霊列車』正直もう怖いものなんてないと思う。【ホロスターズ/アステル】
-UID:G5hu2oCLoPw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ネバーエンディングナイトメア 】この悪夢は終わらない【アルランディス】\nhttps://www.youtube.com/watch?v=Rd7VVJZjJ_k
 DURATION:PT2H
 DTSTART:20200810T120000Z
 SUMMARY:🍕アルランディス: 【ネバーエンディングナイトメア 】この悪夢は終わらない【アルランディス】
 UID:Rd7VVJZjJ_k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:『幽霊列車』正直もう怖いものなんてないと思う。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=G5hu2oCLoPw
+DURATION:PT2H
+DTSTART:20200809T140000Z
+SUMMARY:🎭アステル・レダ: 『幽霊列車』正直もう怖いものなんてないと思う。【ホロスターズ/アステル】
+UID:G5hu2oCLoPw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【飲酒】～酒とZOIDS　ゼログライジス作る～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=cGLU_NMggwE
@@ -93,6 +93,13 @@ DURATION:PT2H
 DTSTART:20200809T000000Z
 SUMMARY:🍕アルランディス: 【ジャンプロープ チャレンジ】朝活なわとび雑談Day1 -夏のラジオ体操-【アルランディス】
 UID:076dpvSEEBQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 ゼルダの伝説 夢をみる島 】夢うつつ まったり冒険紀行#2【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=oEb0_JQX_5A
+DURATION:PT2H
+DTSTART:20200810T050000Z
+SUMMARY:🍕アルランディス: 【 ゼルダの伝説 夢をみる島 】夢うつつ まったり冒険紀行#2【ホロスターズ/アルランディス】
+UID:oEb0_JQX_5A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ジャンプロープ チャレンジ】朝活なわとび雑談Day2 -夏のラジオ体操-【アルランディス】\nhttps://www.youtube.com/watch?v=CEWzBp0VzCc
@@ -123,10 +130,10 @@ SUMMARY:影山シエン: 【スマブラSP】もちろん俺は抵抗するぜ�
 UID:XvTUY1Qcjzo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Splatoon2】イカ！？俺はイカ焼きを振るぞぉ！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=Xh_tONTAGSU
+DESCRIPTION:【雑談】久々ゆったりはなす＆スパチャ読み【奏手イヅル】\nhttps://www.youtube.com/watch?v=4vDal2mx8sI
 DURATION:PT2H
-DTSTART:20200810T110000Z
-SUMMARY:🍷夕刻ロベル: 【Splatoon2】イカ！？俺はイカ焼きを振るぞぉ！！【ホロスターズ/夕刻ロベル】
-UID:Xh_tONTAGSU
+DTSTART:20200809T100000Z
+SUMMARY:🎸奏手イヅル: 【雑談】久々ゆったりはなす＆スパチャ読み【奏手イヅル】
+UID:4vDal2mx8sI
 END:VEVENT
 END:VCALENDAR
