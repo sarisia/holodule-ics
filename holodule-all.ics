@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【初配信】ホロライブ5期生、魔乃アロエだぞ【#ほろふぁいぶ】\nhttps://www.youtube.com/watch?v=ZgkLtMAQ0rI
+DURATION:PT2H
+DTSTART:20200815T120000Z
+SUMMARY:魔乃アロエ: 【初配信】ホロライブ5期生、魔乃アロエだぞ【#ほろふぁいぶ】
+UID:ZgkLtMAQ0rI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【星のカービィ64】寝坊したけどクリスタルを全部集める【ホロライブ/戌神ころね】\nhttps://www.youtube.com/watch?v=sNISY9rZ4WU
 DURATION:PT2H
 DTSTART:20200814T151500Z
@@ -11,18 +18,18 @@ SUMMARY:🥐戌神ころね: 【星のカービィ64】寝坊したけどクリ�
 UID:sNISY9rZ4WU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【歌ってみた】好き！雪！本気マジック\nhttps://www.youtube.com/watch?v=JSOXoNVTy0g
+DURATION:PT2H
+DTSTART:20200815T135616Z
+SUMMARY:雪花ラミィ: 【歌ってみた】好き！雪！本気マジック
+UID:JSOXoNVTy0g
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ゼルダの伝説 時のオカリナ】完全初見！ついに時の神殿へ！今日、世界救います。\nhttps://www.youtube.com/watch?v=dvNJcR2Ow6A
 DURATION:PT2H
 DTSTART:20200815T080000Z
 SUMMARY:⚓湊あくあ: 【ゼルダの伝説 時のオカリナ】完全初見！ついに時の神殿へ！今日、世界救います。
 UID:dvNJcR2Ow6A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スーパーメトロイド】宇宙海賊をやっつけるのら～！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=mBHV6OhKgwo
-DURATION:PT2H
-DTSTART:20200814T050000Z
-SUMMARY:🍬姫森ルーナ: 【スーパーメトロイド】宇宙海賊をやっつけるのら～！【姫森ルーナ/ホロライブ】
-UID:mBHV6OhKgwo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Fall Guys】優勝もらっちゃうけど、いいよね！？？【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=xTxoM9Q8EsQ
@@ -60,18 +67,18 @@ SUMMARY:❤赤井はあと: [Room tour!!]ヲタク部屋観光がガチすぎる
 UID:yEnOMw0Py_A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【初配信】ホロライブ5期生、獅白ぼたん！【#ほろふぁいぶ】\nhttps://www.youtube.com/watch?v=oDtBQCVGRQM
+DESCRIPTION:【アソビ大全】世界のアソビを遊びつくす男たちです【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=II1yU5ykEsQ
 DURATION:PT2H
-DTSTART:20200814T120000Z
-SUMMARY:獅白ぼたん: 【初配信】ホロライブ5期生、獅白ぼたん！【#ほろふぁいぶ】
-UID:oDtBQCVGRQM
+DTSTART:20200815T130000Z
+SUMMARY:🍷夕刻ロベル: 【アソビ大全】世界のアソビを遊びつくす男たちです【ホロスターズ/夕刻ロベル】
+UID:II1yU5ykEsQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ProjectWinter】そろそろ遭難だけは回避したい【律可視点　VOMS×あにまーれ×ホロスターズ】#ボマーズ雪山\nhttps://www.youtube.com/watch?v=P2CM42U7V7c
+DESCRIPTION:獅白ぼたん.exe\nhttps://www.youtube.com/watch?v=uRjypahBLik
 DURATION:PT2H
-DTSTART:20200814T130000Z
-SUMMARY:⚙律可: 【ProjectWinter】そろそろ遭難だけは回避したい【律可視点　VOMS×あにまーれ×ホロスターズ】#ボマーズ雪山
-UID:P2CM42U7V7c
+DTSTART:20200815T065459Z
+SUMMARY:獅白ぼたん: 獅白ぼたん.exe
+UID:uRjypahBLik
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Fall Guysとapex】ほぼ初見だけどたぶん得意な系統のゲームなにおいがする【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=RLboZ1KGrwk
@@ -88,11 +95,18 @@ SUMMARY:🔥不知火フレア: 【雑談】最近あったオフの裏話とか
 UID:NR45GF79vu8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Fall Guys】こんなにゆるいキャラでもバトロワの世界は存在します！！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=1FaYGMhe3hI
+DESCRIPTION:【#紫龍組3D】超絶ビビり2人で協力・・・！？負けない頑張る！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=JlmqIn_4z8c
 DURATION:PT2H
-DTSTART:20200814T030000Z
-SUMMARY:🤖ロボ子さん: 【Fall Guys】こんなにゆるいキャラでもバトロワの世界は存在します！！！【ホロライブ/ロボ子さん】
-UID:1FaYGMhe3hI
+DTSTART:20200815T130000Z
+SUMMARY:🌙紫咲シオン: 【#紫龍組3D】超絶ビビり2人で協力・・・！？負けない頑張る！！【ホロライブ/紫咲シオン】
+UID:JlmqIn_4z8c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【AREA 15】Talking and Drawing Edition【hololive Indonesia】\nhttps://www.youtube.com/watch?v=hqdd38N7lHQ
+DURATION:PT2H
+DTSTART:20200815T130000Z
+SUMMARY:🐿Risu: 【AREA 15】Talking and Drawing Edition【hololive Indonesia】
+UID:hqdd38N7lHQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌ってみた】Fire◎Flower【律可/イヅル/アステル/シエン】\nhttps://www.youtube.com/watch?v=m_a4CcA_oi4
@@ -102,25 +116,18 @@ SUMMARY:影山シエン: 【歌ってみた】Fire◎Flower【律可/イヅル/�
 UID:m_a4CcA_oi4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ちょこっとクッキング】へなちょこ悪魔が火を使わない冷あな茶漬け作る！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=4S__fQ-Mg5M
+DESCRIPTION:【月1参加型APEX】超耐久！！！20万ダメージみんなで出せ！！その2✌【#常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=6cBgIRfPevw
 DURATION:PT2H
-DTSTART:20200814T040000Z
-SUMMARY:💋癒月ちょこ: 【#ちょこっとクッキング】へなちょこ悪魔が火を使わない冷あな茶漬け作る！【ホロライブ/癒月ちょこ】
-UID:4S__fQ-Mg5M
+DTSTART:20200815T133000Z
+SUMMARY:👾常闇トワ: 【月1参加型APEX】超耐久！！！20万ダメージみんなで出せ！！その2✌【#常闇トワ/ホロライブ】
+UID:6cBgIRfPevw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#50【弾き語り】またもや久々の歌枠になってしまいました【奏手イヅル】\nhttps://www.youtube.com/watch?v=fi1_LvEyXxM
+DESCRIPTION:【初配信】ホロライブで尾丸ポルカサーカス開演！！【#ほろふぁいぶ】\nhttps://www.youtube.com/watch?v=g4G7bbRhBaQ
 DURATION:PT2H
-DTSTART:20200814T090000Z
-SUMMARY:🎸奏手イヅル: #50【弾き語り】またもや久々の歌枠になってしまいました【奏手イヅル】
-UID:fi1_LvEyXxM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#4【ムジュラの仮面】海洋恐怖症によるグレート・ベイ攻略編！！－Re：ムジュラの仮面－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=pCNgnOst2yI
-DURATION:PT2H
-DTSTART:20200814T040000Z
-SUMMARY:🍷夕刻ロベル: #4【ムジュラの仮面】海洋恐怖症によるグレート・ベイ攻略編！！－Re：ムジュラの仮面－【ホロスターズ/夕刻ロベル】
-UID:pCNgnOst2yI
+DTSTART:20200816T120000Z
+SUMMARY:尾丸ポルカ: 【初配信】ホロライブで尾丸ポルカサーカス開演！！【#ほろふぁいぶ】
+UID:g4G7bbRhBaQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 登録者数20000人突破記念】20000秒間配信する枠【アルランディス】\nhttps://www.youtube.com/watch?v=wvMuq3m8260
@@ -128,6 +135,20 @@ DURATION:PT2H
 DTSTART:20200816T090000Z
 SUMMARY:🍕アルランディス: 【 登録者数20000人突破記念】20000秒間配信する枠【アルランディス】
 UID:wvMuq3m8260
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Fall Guys】優勝したらご褒美手作りかき氷！【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=-A8o14ounVg
+DURATION:PT2H
+DTSTART:20200814T163000Z
+SUMMARY:🍎アキロゼ: 【Fall Guys】優勝したらご褒美手作りかき氷！【ホロライブ/アキロゼ】
+UID:-A8o14ounVg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【風のタクト】夏といえば海！虚弱体質な勇者が世界を救う Part2【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=zg3HQyUG0XI
+DURATION:PT2H
+DTSTART:20200815T090000Z
+SUMMARY:🌺花咲みやび: 【風のタクト】夏といえば海！虚弱体質な勇者が世界を救う Part2【花咲みやび/ホロスターズ】
+UID:zg3HQyUG0XI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ショート歌枠【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=mK8FnmMV50s
@@ -144,13 +165,6 @@ SUMMARY:🍬姫森ルーナ: 【Fall Guys耐久】おぼんぼん企画！１位
 UID:_09tpCXD7qQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 APEX Legends 】チャンピオン勝ち取るまで終わらない配信【ホロスターズ/アルランディス/花咲みやび/影山シエン】\nhttps://www.youtube.com/watch?v=SQpT7SPYG9Y
-DURATION:PT2H
-DTSTART:20200814T050000Z
-SUMMARY:🍕アルランディス: 【 APEX Legends 】チャンピオン勝ち取るまで終わらない配信【ホロスターズ/アルランディス/花咲みやび/影山シエン】
-UID:SQpT7SPYG9Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:SPARKING!FUBUKI!!!\nhttps://www.youtube.com/watch?v=vYUWNHCv6DU
 DURATION:PT2H
 DTSTART:20200814T152008Z
@@ -165,18 +179,18 @@ SUMMARY:💫天音かなた: 【 Fall Guys】口悪天使爆誕突っ走るの�
 UID:Bbu76_O4GU8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スマブラSP】これはボコ『される』か『する』かの戦いである！！視聴者参加型【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=s2-zG8e0tKI
+DESCRIPTION:【Cover】テレキャスタービーボーイ / 奏手イヅル(Kanade Izuru)\nhttps://www.youtube.com/watch?v=OsUybM5cJUc
 DURATION:PT2H
-DTSTART:20200813T150000Z
-SUMMARY:🤖ロボ子さん: 【スマブラSP】これはボコ『される』か『する』かの戦いである！！視聴者参加型【ホロライブ/ロボ子さん】
-UID:s2-zG8e0tKI
+DTSTART:20200816T100000Z
+SUMMARY:🎸奏手イヅル: 【Cover】テレキャスタービーボーイ / 奏手イヅル(Kanade Izuru)
+UID:OsUybM5cJUc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【トニー・ホーク プロ・スケーター 1+2】初ソロ案件！スペシャルトリックを決めてやるのら！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=vJnytDWhaVk
+DESCRIPTION:【 Fall Guys】爆走！！1位を目指して突っ走れ！！！【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=No7qWie8F78
 DURATION:PT2H
-DTSTART:20200814T090000Z
-SUMMARY:🍬姫森ルーナ: 【トニー・ホーク プロ・スケーター 1+2】初ソロ案件！スペシャルトリックを決めてやるのら！【姫森ルーナ/ホロライブ】
-UID:vJnytDWhaVk
+DTSTART:20200814T153000Z
+SUMMARY:💫天音かなた: 【 Fall Guys】爆走！！1位を目指して突っ走れ！！！【天音かなた/ホロライブ4期生】
+UID:No7qWie8F78
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#桐生ココ】地獄耐久に備える！まったり準備作業雑談【#とまらないARK】\nhttps://www.youtube.com/watch?v=Mgea4k_ir5Y
@@ -186,13 +200,6 @@ SUMMARY:🐉桐生ココ: 【#桐生ココ】地獄耐久に備える！まっ�
 UID:Mgea4k_ir5Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ジャンプロープ チャレンジ】朝活なわとび雑談Day6 -夏のラジオ体操-【アルランディス】\nhttps://www.youtube.com/watch?v=Hz77w3BF-vQ
-DURATION:PT2H
-DTSTART:20200814T000000Z
-SUMMARY:🍕アルランディス: 【ジャンプロープ チャレンジ】朝活なわとび雑談Day6 -夏のラジオ体操-【アルランディス】
-UID:Hz77w3BF-vQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ホロ女子トーク】金髪組４人のマジトーク✨～恋バナ編～【ホロライブ】\nhttps://www.youtube.com/watch?v=2eNzcvW6WQY
 DURATION:PT2H
 DTSTART:20200814T152500Z
@@ -200,11 +207,11 @@ SUMMARY:🌟夜空メル: 【#ホロ女子トーク】金髪組４人のマジ�
 UID:2eNzcvW6WQY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【かかってこいや】fall guys すばる【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=S1xpYQolEcw
+DESCRIPTION:【Minecraft】深夜雑談 with まつりちゃ先輩【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=FPq90YY2xSM
 DURATION:PT2H
-DTSTART:20200814T130000Z
-SUMMARY:🚑大空スバル: 【かかってこいや】fall guys すばる【ホロライブ/大空スバル】
-UID:S1xpYQolEcw
+DTSTART:20200814T160000Z
+SUMMARY:🍬姫森ルーナ: 【Minecraft】深夜雑談 with まつりちゃ先輩【姫森ルーナ/ホロライブ】
+UID:FPq90YY2xSM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【世界のアソビ大全51】パトラと一緒に夜遊びっ！🦀🔥【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=eD4A-zY6m-o
@@ -214,11 +221,11 @@ SUMMARY:🔥不知火フレア: 【世界のアソビ大全51】パトラと一�
 UID:eD4A-zY6m-o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ペーパーマリオ オリガミキング】遊んでいくよ～～！！＃5【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=c9q157eUYCo
+DESCRIPTION:【朝活雑談】はじめてのどきどき雑談枠！【8月17日】\nhttps://www.youtube.com/watch?v=6ifcqTlvnWk
 DURATION:PT2H
-DTSTART:20200814T140000Z
-SUMMARY:🍙猫又おかゆ: 【ペーパーマリオ オリガミキング】遊んでいくよ～～！！＃5【ホロライブ/猫又おかゆ】
-UID:c9q157eUYCo
+DTSTART:20200817T000000Z
+SUMMARY:雪花ラミィ: 【朝活雑談】はじめてのどきどき雑談枠！【8月17日】
+UID:6ifcqTlvnWk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SFC】～スーパーマリオワールド全ステージ制覇耐久～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=qPsgA3TuHl4
@@ -228,6 +235,27 @@ SUMMARY:荒咬オウガ: 【SFC】～スーパーマリオワールド全ステ�
 UID:qPsgA3TuHl4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:NEW COSTUME! NEW IOFI! EH? IO-HIME?!\nhttps://www.youtube.com/watch?v=LsobGNwvaw8
+DURATION:PT2H
+DTSTART:20200816T140000Z
+SUMMARY:🎨Iofi: NEW COSTUME! NEW IOFI! EH? IO-HIME?!
+UID:LsobGNwvaw8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【月1参加型APEX】超耐久！！！20万ダメージみんなで出せ！！【#常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=hap8PnaCSb0
+DURATION:PT2H
+DTSTART:20200815T000000Z
+SUMMARY:👾常闇トワ: 【月1参加型APEX】超耐久！！！20万ダメージみんなで出せ！！【#常闇トワ/ホロライブ】
+UID:hap8PnaCSb0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ホロライブ5期生の3人で振り返り配信！らみねねぼたんー【#ほろふぁいぶ】\nhttps://www.youtube.com/watch?v=dSjOeye5KnE
+DURATION:PT2H
+DTSTART:20200814T150000Z
+SUMMARY:獅白ぼたん: ホロライブ5期生の3人で振り返り配信！らみねねぼたんー【#ほろふぁいぶ】
+UID:dSjOeye5KnE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ジャンプロープ チャレンジ】朝活なわとび雑談Day7 -夏のラジオ体操-【アルランディス】\nhttps://www.youtube.com/watch?v=lDbnCjusITA
 DURATION:PT2H
 DTSTART:20200815T000000Z
@@ -235,11 +263,11 @@ SUMMARY:🍕アルランディス: 【ジャンプロープ チャレンジ】�
 UID:lDbnCjusITA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ゼルダの伝説 時のオカリナ】完全初見！どこまでも行こう！この世界を救うんだ！\nhttps://www.youtube.com/watch?v=cmhIABgimTs
+DESCRIPTION:【星のカービィ64】ぼすぶっちノーダメ耐久VSころね【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=JHSy6Y_SEoc
 DURATION:PT2H
-DTSTART:20200814T040000Z
-SUMMARY:⚓湊あくあ: 【ゼルダの伝説 時のオカリナ】完全初見！どこまでも行こう！この世界を救うんだ！
-UID:cmhIABgimTs
+DTSTART:20200815T140000Z
+SUMMARY:🏴☠宝鐘マリン: 【星のカービィ64】ぼすぶっちノーダメ耐久VSころね【ホロライブ/宝鐘マリン】
+UID:JHSy6Y_SEoc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】どうぶつさんたち大集合だわいわい♡【姫森ルーナ/夏色まつり】\nhttps://www.youtube.com/watch?v=No3QRIr0GOM
@@ -247,6 +275,13 @@ DURATION:PT2H
 DTSTART:20200814T160000Z
 SUMMARY:🏮夏色まつり: 【Minecraft】どうぶつさんたち大集合だわいわい♡【姫森ルーナ/夏色まつり】
 UID:No3QRIr0GOM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEATH STRANDING:PC】完全初見プレイ実況！最強の荷運び人になるPart5【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=_zavnolfnvw
+DURATION:PT2H
+DTSTART:20200815T030000Z
+SUMMARY:🍎アキロゼ: 【DEATH STRANDING:PC】完全初見プレイ実況！最強の荷運び人になるPart5【ホロライブ/アキロゼ】
+UID:_zavnolfnvw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DBD耐久】「100KILLするまで終われません」地獄の耐久やるぞお！！！！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=xr220O8afgg
@@ -270,32 +305,11 @@ SUMMARY:👯兎田ぺこら: 【FallGuys】まじで1位とるぺこ！【ホロ
 UID:pC4qXj0ImlQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【世界のアソビ大全51】～魔人とボスのパリピアソビ～【荒咬オウガ　影山シエン】\nhttps://www.youtube.com/watch?v=Pb2MOhiAdbQ
-DURATION:PT2H
-DTSTART:20200814T140000Z
-SUMMARY:荒咬オウガ: 【世界のアソビ大全51】～魔人とボスのパリピアソビ～【荒咬オウガ　影山シエン】
-UID:Pb2MOhiAdbQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【まったり雑談】8/15  おあようスバル【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=86cmQAjOAcI
 DURATION:PT2H
 DTSTART:20200815T010000Z
 SUMMARY:🚑大空スバル: 【まったり雑談】8/15  おあようスバル【ホロライブ/大空スバル】
 UID:86cmQAjOAcI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Fall Guys】初めてやっても1位をとれる！👑【常闇トワ/ホロライブ/】\nhttps://www.youtube.com/watch?v=_jfX0IAvrpY
-DURATION:PT2H
-DTSTART:20200814T080000Z
-SUMMARY:👾常闇トワ: 【Fall Guys】初めてやっても1位をとれる！👑【常闇トワ/ホロライブ/】
-UID:_jfX0IAvrpY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】50万人いくまで歌います！！見届けるぞ！！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=HjZjy6jG3IQ
-DURATION:PT2H
-DTSTART:20200814T031500Z
-SUMMARY:🏮夏色まつり: 【歌枠】50万人いくまで歌います！！見届けるぞ！！【ホロライブ/夏色まつり】
-UID:HjZjy6jG3IQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Fall Guys】～殺伐バトル～【荒咬オウガ　岸堂天真】\nhttps://www.youtube.com/watch?v=-ttgJpalBeo
@@ -312,11 +326,18 @@ SUMMARY:⚙律可: 【弾き語り枠】土曜23時の弾き語りのお時間�
 UID:AG1K0OPBfoY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ボマーズ雪山】雪山で遭難ですって！そうなんですかー！？　\\ﾄﾞｯ!!!/　【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=y-rnPi0Ot14
+DESCRIPTION:ENGLISH TEST\nhttps://www.youtube.com/watch?v=AeAB2m19ecU
 DURATION:PT2H
-DTSTART:20200814T130000Z
-SUMMARY:🍷夕刻ロベル: 【#ボマーズ雪山】雪山で遭難ですって！そうなんですかー！？　\\ﾄﾞｯ!!!/　【ホロスターズ/夕刻ロベル】
-UID:y-rnPi0Ot14
+DTSTART:20200816T080000Z
+SUMMARY:❤赤井はあと: ENGLISH TEST
+UID:AeAB2m19ecU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololiveID】AYUNDA RISU NEW COSTUME PREMIERE!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=HlTK-XguiRk
+DURATION:PT2H
+DTSTART:20200816T130000Z
+SUMMARY:🐿Risu: 【hololiveID】AYUNDA RISU NEW COSTUME PREMIERE!!!【Ayunda Risu】
+UID:HlTK-XguiRk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Fall Guys】１位目指して突っ走る！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=oBbojv9EwUs
@@ -326,11 +347,11 @@ SUMMARY:🐏角巻わため: 【Fall Guys】１位目指して突っ走る！【
 UID:oBbojv9EwUs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[Membership only]朝からはあちゃまっちゃま～！💓25回目【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=6f25oKxQ32c
+DESCRIPTION:【初見実況】ピクミンすばる【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=gxTEEv_iY6w
 DURATION:PT2H
-DTSTART:20200816T000000Z
-SUMMARY:❤赤井はあと: [Membership only]朝からはあちゃまっちゃま～！💓25回目【ホロライブ/赤井はあと】
-UID:6f25oKxQ32c
+DTSTART:20200815T101000Z
+SUMMARY:🚑大空スバル: 【初見実況】ピクミンすばる【ホロライブ/大空スバル】
+UID:gxTEEv_iY6w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【星のカービィ64】ぼすぶっちクリア耐久VSマリン【ホロライブ/戌神ころね】\nhttps://www.youtube.com/watch?v=KRMfnvLODZQ
@@ -340,11 +361,11 @@ SUMMARY:🥐戌神ころね: 【星のカービィ64】ぼすぶっちクリア�
 UID:KRMfnvLODZQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:初配信を振り返るっ🐸【ラミィちゃんと一緒に！】\nhttps://www.youtube.com/watch?v=J6bgYiXnfOM
+DESCRIPTION:[Membership only]朝からはあちゃまっちゃま～！💓25回目【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=6f25oKxQ32c
 DURATION:PT2H
-DTSTART:20200813T150000Z
-SUMMARY:桃鈴ねね: 初配信を振り返るっ🐸【ラミィちゃんと一緒に！】
-UID:J6bgYiXnfOM
+DTSTART:20200816T000000Z
+SUMMARY:❤赤井はあと: [Membership only]朝からはあちゃまっちゃま～！💓25回目【ホロライブ/赤井はあと】
+UID:6f25oKxQ32c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FallGuys】俺だって優勝したい！王冠とりたい！【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=il6AFvzNlgM
@@ -354,277 +375,18 @@ SUMMARY:🍕アルランディス: 【FallGuys】俺だって優勝したい！�
 UID:il6AFvzNlgM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ProjectWinter】雪山で遭難したときはみんなで助け合いましょう-アルランディス視点-【VOMS×あにまーれ×ホロスターズ】\nhttps://www.youtube.com/watch?v=oWfW23ts4xA
-DURATION:PT2H
-DTSTART:20200814T130000Z
-SUMMARY:🍕アルランディス: 【ProjectWinter】雪山で遭難したときはみんなで助け合いましょう-アルランディス視点-【VOMS×あにまーれ×ホロスターズ】
-UID:oWfW23ts4xA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【初配信】ホロライブ5期生、魔乃アロエだぞ【#ほろふぁいぶ】\nhttps://www.youtube.com/watch?v=ZgkLtMAQ0rI
-DURATION:PT2H
-DTSTART:20200815T120000Z
-SUMMARY:魔乃アロエ: 【初配信】ホロライブ5期生、魔乃アロエだぞ【#ほろふぁいぶ】
-UID:ZgkLtMAQ0rI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】好き！雪！本気マジック\nhttps://www.youtube.com/watch?v=JSOXoNVTy0g
-DURATION:PT2H
-DTSTART:20200815T135616Z
-SUMMARY:雪花ラミィ: 【歌ってみた】好き！雪！本気マジック
-UID:JSOXoNVTy0g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Fall Guys】25万人行くまで極めて冷静にクリアを目指す！【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=X0SJ5OiGLpg
-DURATION:PT2H
-DTSTART:20200813T163000Z
-SUMMARY:🔥不知火フレア: 【Fall Guys】25万人行くまで極めて冷静にクリアを目指す！【ホロライブ/不知火フレア】
-UID:X0SJ5OiGLpg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【新機材お試しゲリラ】お願い！ちゃんと動いて～！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=1s3g_ro22Wg
-DURATION:PT2H
-DTSTART:20200814T050000Z
-SUMMARY:🐻ときのそら: 【新機材お試しゲリラ】お願い！ちゃんと動いて～！！【#ときのそら生放送】
-UID:1s3g_ro22Wg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Fall guys】自分、落ちます。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=aGSjyLmICHw
-DURATION:PT2H
-DTSTART:20200813T170500Z
-SUMMARY:🎭アステル・レダ: 【Fall guys】自分、落ちます。【ホロスターズ/アステル】
-UID:aGSjyLmICHw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【乾杯雑談】最近の話と Super Chat御礼枠【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=9KV870x1vI4
-DURATION:PT2H
-DTSTART:20200813T150000Z
-SUMMARY:🍎アキロゼ: 【乾杯雑談】最近の話と Super Chat御礼枠【ホロライブ/アキロゼ】
-UID:9KV870x1vI4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活】生活習慣改善－週末や！朝から騒ぐで！！うおおおおお！！－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=u4uOMNZ60ZQ
-DURATION:PT2H
-DTSTART:20200814T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－週末や！朝から騒ぐで！！うおおおおお！！－【ホロスターズ/夕刻ロベル】
-UID:u4uOMNZ60ZQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FALLGUYS】当然のように優勝してしまうProFallGuyer騎士【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=94kldzf8JjU
-DURATION:PT2H
-DTSTART:20200814T060000Z
-SUMMARY:🦔💨岸堂天真: 【FALLGUYS】当然のように優勝してしまうProFallGuyer騎士【岸堂天真/ホロスターズ】
-UID:94kldzf8JjU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#3 世の中舐めてるラジオ ~ヤバイ元カノ元カレの話♡前半~【奏手イヅル】\nhttps://www.youtube.com/watch?v=iMzEsJQP_Ug
-DURATION:PT2H
-DTSTART:20200813T150500Z
-SUMMARY:🎸奏手イヅル: #3 世の中舐めてるラジオ ~ヤバイ元カノ元カレの話♡前半~【奏手イヅル】
-UID:iMzEsJQP_Ug
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アソビ大全】てぇてぇなの殴り合いなの【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=8dNFZkHZYR8
-DURATION:PT2H
-DTSTART:20200814T110000Z
-SUMMARY:🏴☠宝鐘マリン: 【アソビ大全】てぇてぇなの殴り合いなの【ホロライブ/宝鐘マリン】
-UID:8dNFZkHZYR8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:獅白ぼたん.exe\nhttps://www.youtube.com/watch?v=uRjypahBLik
-DURATION:PT2H
-DTSTART:20200815T065459Z
-SUMMARY:獅白ぼたん: 獅白ぼたん.exe
-UID:uRjypahBLik
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アカペラ】夜に駆けるFUBUKI\nhttps://www.youtube.com/watch?v=gekKWg0yoOE
-DURATION:PT2H
-DTSTART:20200813T173813Z
-SUMMARY:🌽白上フブキ: 【アカペラ】夜に駆けるFUBUKI
-UID:gekKWg0yoOE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】チャンピオン取るまで止まらない!!耐久配信!!【花咲みやび/アルランディス/影山シエン】\nhttps://www.youtube.com/watch?v=Cha2sQr2eEk
-DURATION:PT2H
-DTSTART:20200814T050000Z
-SUMMARY:🌺花咲みやび: 【APEX】チャンピオン取るまで止まらない!!耐久配信!!【花咲みやび/アルランディス/影山シエン】
-UID:Cha2sQr2eEk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#紫龍組3D】超絶ビビり2人で協力・・・！？負けない頑張る！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=JlmqIn_4z8c
-DURATION:PT2H
-DTSTART:20200815T130000Z
-SUMMARY:🌙紫咲シオン: 【#紫龍組3D】超絶ビビり2人で協力・・・！？負けない頑張る！！【ホロライブ/紫咲シオン】
-UID:JlmqIn_4z8c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Fall Guys】ガチギレ注意！？I am No.1！！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=DYMUtrrkZrY
-DURATION:PT2H
-DTSTART:20200814T110000Z
-SUMMARY:🏮夏色まつり: 【Fall Guys】ガチギレ注意！？I am No.1！！【ホロライブ/夏色まつり】
-UID:DYMUtrrkZrY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【月1参加型APEX】超耐久！！！20万ダメージみんなで出せ！！その2✌【#常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=6cBgIRfPevw
-DURATION:PT2H
-DTSTART:20200815T133000Z
-SUMMARY:👾常闇トワ: 【月1参加型APEX】超耐久！！！20万ダメージみんなで出せ！！その2✌【#常闇トワ/ホロライブ】
-UID:6cBgIRfPevw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【初配信】ホロライブで尾丸ポルカサーカス開演！！【#ほろふぁいぶ】\nhttps://www.youtube.com/watch?v=g4G7bbRhBaQ
-DURATION:PT2H
-DTSTART:20200816T120000Z
-SUMMARY:尾丸ポルカ: 【初配信】ホロライブで尾丸ポルカサーカス開演！！【#ほろふぁいぶ】
-UID:g4G7bbRhBaQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】毎秒APEXやらないと体が四散する人間。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=ceXrQFYvgBY
-DURATION:PT2H
-DTSTART:20200813T190000Z
-SUMMARY:🎭アステル・レダ: 【APEX】毎秒APEXやらないと体が四散する人間。【ホロスターズ/アステル】
-UID:ceXrQFYvgBY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【モーリーオンライン】復帰早々でクレーンゲーム！？大量ゲットする！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=LyVITfdG8KU
-DURATION:PT2H
-DTSTART:20200814T130000Z
-SUMMARY:🌙紫咲シオン: 【モーリーオンライン】復帰早々でクレーンゲーム！？大量ゲットする！！【ホロライブ/紫咲シオン】
-UID:LyVITfdG8KU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ゼルダの伝説 夢をみる島】初めてのゼルダシリーズを初見プレイ！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=n0DAob0x90E
-DURATION:PT2H
-DTSTART:20200814T083000Z
-SUMMARY:🐏角巻わため: 【ゼルダの伝説 夢をみる島】初めてのゼルダシリーズを初見プレイ！【角巻わため/ホロライブ４期生】
-UID:n0DAob0x90E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【風のタクト】夏といえば海！虚弱体質な勇者が世界を救う Part2【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=zg3HQyUG0XI
-DURATION:PT2H
-DTSTART:20200815T090000Z
-SUMMARY:🌺花咲みやび: 【風のタクト】夏といえば海！虚弱体質な勇者が世界を救う Part2【花咲みやび/ホロスターズ】
-UID:zg3HQyUG0XI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Fall Guys】優勝したらご褒美手作りかき氷！【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=-A8o14ounVg
-DURATION:PT2H
-DTSTART:20200814T163000Z
-SUMMARY:🍎アキロゼ: 【Fall Guys】優勝したらご褒美手作りかき氷！【ホロライブ/アキロゼ】
-UID:-A8o14ounVg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アソビ大全】ガチンコバトル！はあ虐？それともすい虐？【ホロライブ/#赤星】\nhttps://www.youtube.com/watch?v=jSbK8HKu4Ps
-DURATION:PT2H
-DTSTART:20200814T100000Z
-SUMMARY:❤赤井はあと: 【アソビ大全】ガチンコバトル！はあ虐？それともすい虐？【ホロライブ/#赤星】
-UID:jSbK8HKu4Ps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Cover】テレキャスタービーボーイ / 奏手イヅル(Kanade Izuru)\nhttps://www.youtube.com/watch?v=OsUybM5cJUc
-DURATION:PT2H
-DTSTART:20200816T100000Z
-SUMMARY:🎸奏手イヅル: 【Cover】テレキャスタービーボーイ / 奏手イヅル(Kanade Izuru)
-UID:OsUybM5cJUc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Fall Guys】爆走！！1位を目指して突っ走れ！！！【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=No7qWie8F78
-DURATION:PT2H
-DTSTART:20200814T153000Z
-SUMMARY:💫天音かなた: 【 Fall Guys】爆走！！1位を目指して突っ走れ！！！【天音かなた/ホロライブ4期生】
-UID:No7qWie8F78
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】深夜雑談 with まつりちゃ先輩【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=FPq90YY2xSM
-DURATION:PT2H
-DTSTART:20200814T160000Z
-SUMMARY:🍬姫森ルーナ: 【Minecraft】深夜雑談 with まつりちゃ先輩【姫森ルーナ/ホロライブ】
-UID:FPq90YY2xSM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スナック兎田】今月も開店！みんなでふわふわしようぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=AhYzXw1cjTc
-DURATION:PT2H
-DTSTART:20200814T143000Z
-SUMMARY:👯兎田ぺこら: 【スナック兎田】今月も開店！みんなでふわふわしようぺこ！【ホロライブ/兎田ぺこら】
-UID:AhYzXw1cjTc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【月1参加型APEX】超耐久！！！20万ダメージみんなで出せ！！【#常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=hap8PnaCSb0
-DURATION:PT2H
-DTSTART:20200815T000000Z
-SUMMARY:👾常闇トワ: 【月1参加型APEX】超耐久！！！20万ダメージみんなで出せ！！【#常闇トワ/ホロライブ】
-UID:hap8PnaCSb0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ホロライブ5期生の3人で振り返り配信！らみねねぼたんー【#ほろふぁいぶ】\nhttps://www.youtube.com/watch?v=dSjOeye5KnE
-DURATION:PT2H
-DTSTART:20200814T150000Z
-SUMMARY:獅白ぼたん: ホロライブ5期生の3人で振り返り配信！らみねねぼたんー【#ほろふぁいぶ】
-UID:dSjOeye5KnE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【星のカービィ64】ぼすぶっちノーダメ耐久VSころね【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=JHSy6Y_SEoc
-DURATION:PT2H
-DTSTART:20200815T140000Z
-SUMMARY:🏴☠宝鐘マリン: 【星のカービィ64】ぼすぶっちノーダメ耐久VSころね【ホロライブ/宝鐘マリン】
-UID:JHSy6Y_SEoc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DEATH STRANDING:PC】完全初見プレイ実況！最強の荷運び人になるPart5【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=_zavnolfnvw
-DURATION:PT2H
-DTSTART:20200815T030000Z
-SUMMARY:🍎アキロゼ: 【DEATH STRANDING:PC】完全初見プレイ実況！最強の荷運び人になるPart5【ホロライブ/アキロゼ】
-UID:_zavnolfnvw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Tick Tock: A Tale for Two】BIG BRAIN TIME with @ZEA Cornelia【NIJISANJI ID】 【Ayunda Risu】\nhttps://www.youtube.com/watch?v=jf7U1vlk-E8
-DURATION:PT2H
-DTSTART:20200814T130000Z
-SUMMARY:🐿Risu: 【Tick Tock: A Tale for Two】BIG BRAIN TIME with @ZEA Cornelia【NIJISANJI ID】 【Ayunda Risu】
-UID:jf7U1vlk-E8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【世界のアソビ大全51】ぺこらとアソビ大全をするぺこ！【ホロライブ/ #うーぺーるーぺー 】\nhttps://www.youtube.com/watch?v=D_ohfvzWy4E
-DURATION:PT2H
-DTSTART:20200814T130000Z
-SUMMARY:🦋潤羽るしあ: 【世界のアソビ大全51】ぺこらとアソビ大全をするぺこ！【ホロライブ/ #うーぺーるーぺー 】
-UID:D_ohfvzWy4E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ENGLISH TEST\nhttps://www.youtube.com/watch?v=AeAB2m19ecU
-DURATION:PT2H
-DTSTART:20200816T080000Z
-SUMMARY:❤赤井はあと: ENGLISH TEST
-UID:AeAB2m19ecU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】チーム・シャルワーでちゃんぽん耐久【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=sErxy2V-XqE
-DURATION:PT2H
-DTSTART:20200814T050000Z
-SUMMARY:影山シエン: 【APEX】チーム・シャルワーでちゃんぽん耐久【影山シエン/ホロスターズ】
-UID:sErxy2V-XqE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【初見実況】ピクミンすばる【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=gxTEEv_iY6w
-DURATION:PT2H
-DTSTART:20200815T101000Z
-SUMMARY:🚑大空スバル: 【初見実況】ピクミンすばる【ホロライブ/大空スバル】
-UID:gxTEEv_iY6w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活2日目】継続は力なり！負荷MAXのつよつよ筋トレしよう💪✨【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=mlwSMnDzL44
-DURATION:PT2H
-DTSTART:20200813T220000Z
-SUMMARY:⚔白銀ノエル: 【朝活2日目】継続は力なり！負荷MAXのつよつよ筋トレしよう💪✨【白銀ノエル/ホロライブ】
-UID:mlwSMnDzL44
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】残り２日！？行けるのか？ソロダイアモンドっ・・！\nhttps://www.youtube.com/watch?v=-0m8oAgEkWM
 DURATION:PT2H
 DTSTART:20200815T150000Z
 SUMMARY:⚓湊あくあ: 【APEX】残り２日！？行けるのか？ソロダイアモンドっ・・！
 UID:-0m8oAgEkWM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SINGING\nhttps://www.youtube.com/watch?v=ZRCzCKFgMpc
+DURATION:PT2H
+DTSTART:20200815T160000Z
+SUMMARY:❤赤井はあと: SINGING
+UID:ZRCzCKFgMpc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】キノコを使う度にパッション屋良さんみたいになるマリカ【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=R53Sgsn9Cx8
