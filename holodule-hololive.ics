@@ -81,13 +81,6 @@ SUMMARY:🌽白上フブキ: 【#バカタレフィ】バチボコボコボコ�
 UID:GauRb6lvZ1k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ピアノのお稽古】深夜の癒し音楽の時間なのらよ🎵【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=PE-YUq-KumU
-DURATION:PT2H
-DTSTART:20200817T150000Z
-SUMMARY:🍬姫森ルーナ: 【ピアノのお稽古】深夜の癒し音楽の時間なのらよ🎵【姫森ルーナ/ホロライブ】
-UID:PE-YUq-KumU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【バンドリ！】ストーリーを隅々まで舐め回す！！【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=o50exaztqBE
 DURATION:PT2H
 DTSTART:20200818T060000Z
@@ -107,6 +100,13 @@ DURATION:PT2H
 DTSTART:20200817T150000Z
 SUMMARY:💫天音かなた: 【げつよる歌枠】深夜まったりsinging🎶【天音かなた/ホロライブ4期生】
 UID:p_5x6BIt7F0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#桐生ココ】げーむするぜ！【】\nhttps://www.youtube.com/watch?v=CjZ6KMULOb4
+DURATION:PT2H
+DTSTART:20200818T110000Z
+SUMMARY:🐉桐生ココ: 【#桐生ココ】げーむするぜ！【】
+UID:CjZ6KMULOb4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【晩酌雑談】引っ越し前にみんなと飲みたい【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=SAwnMRDuQpE
@@ -200,11 +200,25 @@ SUMMARY:🏴☠宝鐘マリン: 【お絵かき】トワ様！5期生描こう�
 UID:Wx28jAyCpVw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【FallGuys】大乱闘！？一位になるまで終わらない！負けない！！【湊あくあ】\nhttps://www.youtube.com/watch?v=G78DLSUPG_M
+DURATION:PT2H
+DTSTART:20200817T140000Z
+SUMMARY:⚓湊あくあ: 【FallGuys】大乱闘！？一位になるまで終わらない！負けない！！【湊あくあ】
+UID:G78DLSUPG_M
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌枠】ライブお疲れ様のうたわく！！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=hxS8LhgkrF8
 DURATION:PT2H
 DTSTART:20200816T163000Z
 SUMMARY:🤖ロボ子さん: 【歌枠】ライブお疲れ様のうたわく！！！【ホロライブ/ロボ子さん】
 UID:hxS8LhgkrF8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ペーパーマリオ オリガミキング】遊んでいくよ～～！！＃7【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=AogUFPjQ-fk
+DURATION:PT2H
+DTSTART:20200817T140000Z
+SUMMARY:🍙猫又おかゆ: 【ペーパーマリオ オリガミキング】遊んでいくよ～～！！＃7【ホロライブ/猫又おかゆ】
+UID:AogUFPjQ-fk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ゼルダの伝説 夢をみる島】#2 いざ！３つ目のダンジョンへ！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=EP-LyXvf9_s
