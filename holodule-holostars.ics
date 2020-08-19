@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【怪談？】～オマエさんたちのこわいはなし～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=mZC-bcJsXHE
+DURATION:PT2H
+DTSTART:20200819T130000Z
+SUMMARY:荒咬オウガ: 【怪談？】～オマエさんたちのこわいはなし～【荒咬オウガ/ホロスターズ】
+UID:mZC-bcJsXHE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 APEX Legends 】シーズン６始動！アルランディスも参戦だ【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=ulMCsjcgosM
 DURATION:PT2H
 DTSTART:20200819T120000Z
 SUMMARY:🍕アルランディス: 【 APEX Legends 】シーズン６始動！アルランディスも参戦だ【ホロスターズ/アルランディス】
 UID:ulMCsjcgosM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】今期から頑張る騎士のゲリラPEX【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=9ncO-o6f-Jg
+DURATION:PT2H
+DTSTART:20200819T153000Z
+SUMMARY:🦔💨岸堂天真: 【APEX】今期から頑張る騎士のゲリラPEX【岸堂天真/ホロスターズ】
+UID:9ncO-o6f-Jg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【オフコラボ ＃スタスイ 】スター☆スウィーパーでスイーツを食す【律可/影山シエン/花咲みやび】\nhttps://www.youtube.com/watch?v=OxEXUGLG9CE
@@ -30,13 +44,6 @@ DURATION:PT2H
 DTSTART:20200818T154500Z
 SUMMARY:荒咬オウガ: 【雑談】～敗北者のテンションで喋るゲリラ雑談～【荒咬オウガ/ホロスターズ】
 UID:jgJXkoTXskE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】7　位　以　下　即　睡　眠　マ　リ　カ【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=mlU-1CVdw8U
-DURATION:PT2H
-DTSTART:20200819T150000Z
-SUMMARY:🍷夕刻ロベル: 【マリオカート8DX】7　位　以　下　即　睡　眠　マ　リ　カ【ホロスターズ/夕刻ロベル】
-UID:mlU-1CVdw8U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】歌を…歌います…【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=sKsIn-nCfwU
