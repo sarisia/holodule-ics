@@ -130,18 +130,18 @@ SUMMARY:影山シエン: 【#ばぶどん】にほんごじょうずにいえる
 UID:dvXlMK7HzS0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#5【ムジュラの仮面】高難易度ダンジョン、グレートベイの神殿に挑戦や！！－Re：ムジュラの仮面－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=h7Cu25qdUBY
-DURATION:PT2H
-DTSTART:20200821T060000Z
-SUMMARY:🍷夕刻ロベル: #5【ムジュラの仮面】高難易度ダンジョン、グレートベイの神殿に挑戦や！！－Re：ムジュラの仮面－【ホロスターズ/夕刻ロベル】
-UID:h7Cu25qdUBY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:《APEX10万ダメージ耐久PART2》この時点で12時間が経つことを意味します。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=ZRpyStUm5t4
 DURATION:PT2H
 DTSTART:20200821T174500Z
 SUMMARY:🎭アステル・レダ: 《APEX10万ダメージ耐久PART2》この時点で12時間が経つことを意味します。【ホロスターズ/アステル】
 UID:ZRpyStUm5t4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#5【ムジュラの仮面】高難易度ダンジョン、グレートベイの神殿に挑戦や！！－Re：ムジュラの仮面－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=h7Cu25qdUBY
+DURATION:PT2H
+DTSTART:20200821T060000Z
+SUMMARY:🍷夕刻ロベル: #5【ムジュラの仮面】高難易度ダンジョン、グレートベイの神殿に挑戦や！！－Re：ムジュラの仮面－【ホロスターズ/夕刻ロベル】
+UID:h7Cu25qdUBY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FallGuys】落ちる時は落ちるもんだ【影山シエン／ホロスターズ】\nhttps://www.youtube.com/watch?v=Z16-gE8r5JU
@@ -326,6 +326,13 @@ SUMMARY:🐿Risu: 【hololiveID】100k Subs Special ! Can Oneesan be an Idol Too
 UID:8JAJbx8Ksvk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Fall Guys】FOXBURGERKING　3rd【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=yixmd3hWev8
+DURATION:PT2H
+DTSTART:20200822T070000Z
+SUMMARY:🌽白上フブキ: 【Fall Guys】FOXBURGERKING　3rd【ホロライブ/白上フブキ】
+UID:yixmd3hWev8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】レモンサワー片手にほろよい団長🍸休日お喋りしよッ【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=4cQif1etXbg
 DURATION:PT2H
 DTSTART:20200822T100000Z
@@ -452,6 +459,13 @@ SUMMARY:尾丸ポルカ: なんとかしてくれる獅白ぼたん
 UID:rJIzEyr1xMM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ちょい足しランキング!!一番美味しい組み合わせを探せ!!【シーフードヌードル編】【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=xOiiNvdqIyU
+DURATION:PT2H
+DTSTART:20200822T130000Z
+SUMMARY:🌺花咲みやび: ちょい足しランキング!!一番美味しい組み合わせを探せ!!【シーフードヌードル編】【花咲みやび/ホロスターズ】
+UID:xOiiNvdqIyU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Fall Guys: Ultimate Knockout】ちょこっと練習する【＃ときのそら生放送】\nhttps://www.youtube.com/watch?v=fgPxnFmENis
 DURATION:PT2H
 DTSTART:20200822T063000Z
@@ -464,13 +478,6 @@ DURATION:PT2H
 DTSTART:20200821T060000Z
 SUMMARY:🎭アステル・レダ: 《APEX10万ダメージ耐久PART1》これは本当にやばい企画なんよ。みんな無理するな。【ホロスターズ/アステル】
 UID:3ZsR3G0nlEQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ちょい足しランキング!!一番美味しい組み合わせを探せ!!【シーフードヌードル編】【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=xOiiNvdqIyU
-DURATION:PT2H
-DTSTART:20200822T130000Z
-SUMMARY:🌺花咲みやび: ちょい足しランキング!!一番美味しい組み合わせを探せ!!【シーフードヌードル編】【花咲みやび/ホロスターズ】
-UID:xOiiNvdqIyU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Overcooked! 2 - Surf 'n' Turf】#SorAZ レストラン in Summer！夏の特別編！【ときのそら/AZKi 】\nhttps://www.youtube.com/watch?v=MgK-nk4_gTY
