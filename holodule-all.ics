@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【世界のアソビ大全51】リスナーと6ボールパズルバトル💥【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=Bj1SOR7jG0g
-DURATION:PT2H
-DTSTART:20200826T140000Z
-SUMMARY:☄星街すいせい: 【世界のアソビ大全51】リスナーと6ボールパズルバトル💥【ホロライブ / 星街すいせい】
-UID:Bj1SOR7jG0g
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Left 4 Dead 2】I WILL SAVE YOU @Alia Adelia Ch. !【Moona】\nhttps://www.youtube.com/watch?v=Ko0BjK9XhPo
 DURATION:PT2H
 DTSTART:20200826T133040Z
@@ -200,6 +193,13 @@ SUMMARY:🐿Risu: 【hololiveID】Let's Play ZUMA with Risu【Ayunda Risu】
 UID:vAMhg9kAzVA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#Reバース】ホロライブトライアルデッキ開封の儀　verホロ&ver1期生【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=mI76b60hsIc
+DURATION:PT2H
+DTSTART:20200826T151000Z
+SUMMARY:🌽白上フブキ: 【#Reバース】ホロライブトライアルデッキ開封の儀　verホロ&ver1期生【ホロライブ/白上フブキ】
+UID:mI76b60hsIc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【SFC】～ほぼ初見のヨッシーアイランド～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=3GzQMRj5Ohw
 DURATION:PT2H
 DTSTART:20200825T150000Z
@@ -324,5 +324,12 @@ DURATION:PT2H
 DTSTART:20200825T171429Z
 SUMMARY:🌽白上フブキ: 細すぎて伝わらないシリーズ｢ピクミン｣
 UID:b28b78T5SzE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FallGuys】１位を目指すアイドル☆【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=ArdDlKlHovI
+DURATION:PT2H
+DTSTART:20200826T100000Z
+SUMMARY:🦋潤羽るしあ: 【FallGuys】１位を目指すアイドル☆【潤羽るしあ/ホロライブ】
+UID:ArdDlKlHovI
 END:VEVENT
 END:VCALENDAR
