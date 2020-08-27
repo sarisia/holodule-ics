@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:#1【Apex Legends】つよつよPCの試運転【奏手イヅル】\nhttps://www.youtube.com/watch?v=92FpO2ofbX0
-DURATION:PT2H
-DTSTART:20200826T163000Z
-SUMMARY:🎸奏手イヅル: #1【Apex Legends】つよつよPCの試運転【奏手イヅル】
-UID:92FpO2ofbX0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 #アランの教室 】３時限目：生命の起源とそれに迫ったん探究者たち - #アランストリーム -【アルランディス】\nhttps://www.youtube.com/watch?v=103Ztp9QUrU
 DURATION:PT2H
 DTSTART:20200829T110000Z
@@ -30,27 +23,6 @@ DURATION:PT2H
 DTSTART:20200828T140000Z
 SUMMARY:🌺花咲みやび: ゆるスタでホロスタ夏満喫ボイスを同時試聴会!!【花咲みやび/アルランディス/岸堂天真】
 UID:VB7s3UWqUdY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【５万人記念耐久枠】12時間歌枠（etc..）！告知もあるよ！！【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=UcFB-JalVVs
-DURATION:PT2H
-DTSTART:20200828T130000Z
-SUMMARY:⚙律可: 【５万人記念耐久枠】12時間歌枠（etc..）！告知もあるよ！！【律可/ホロスターズ】
-UID:UcFB-JalVVs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:『Sing a song』お昼休みにいかがですか。VS空調にやられた男【アステル/ホロスターズ】\nhttps://www.youtube.com/watch?v=fceqm3llLaQ
-DURATION:PT2H
-DTSTART:20200827T033000Z
-SUMMARY:🎭アステル・レダ: 『Sing a song』お昼休みにいかがですか。VS空調にやられた男【アステル/ホロスターズ】
-UID:fceqm3llLaQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【小芝居】～俺たちが奏でる夏のエチュード～【荒咬オウガ　アルランディス 岸堂天真】\nhttps://www.youtube.com/watch?v=9ZI0nZCqGbQ
-DURATION:PT2H
-DTSTART:20200827T130000Z
-SUMMARY:荒咬オウガ: 【小芝居】～俺たちが奏でる夏のエチュード～【荒咬オウガ　アルランディス 岸堂天真】
-UID:9ZI0nZCqGbQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】ぶおおおおおん！！！！！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=08YjSNipUqU
@@ -81,6 +53,48 @@ SUMMARY:🍷夕刻ロベル: 【同時視聴】ディスカバリーチャンネ
 UID:7cf3wGVv9wg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【朝活】生活習慣改善－金曜日？はい？－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=yHi5xJIgMCM
+DURATION:PT2H
+DTSTART:20200828T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－金曜日？はい？－【ホロスターズ/夕刻ロベル】
+UID:yHi5xJIgMCM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#1【Apex Legends】つよつよPCの試運転【奏手イヅル】\nhttps://www.youtube.com/watch?v=92FpO2ofbX0
+DURATION:PT2H
+DTSTART:20200826T163000Z
+SUMMARY:🎸奏手イヅル: #1【Apex Legends】つよつよPCの試運転【奏手イヅル】
+UID:92FpO2ofbX0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK】平日昼間っからARKをやる夏休み。サイコー!!【#花岸/ホロスターズ】\nhttps://www.youtube.com/watch?v=qtVIBzVfBAQ
+DURATION:PT2H
+DTSTART:20200828T030000Z
+SUMMARY:🦔💨岸堂天真: 【ARK】平日昼間っからARKをやる夏休み。サイコー!!【#花岸/ホロスターズ】
+UID:qtVIBzVfBAQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【５万人記念耐久枠】12時間歌枠（etc..）！告知もあるよ！！【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=UcFB-JalVVs
+DURATION:PT2H
+DTSTART:20200828T130000Z
+SUMMARY:⚙律可: 【５万人記念耐久枠】12時間歌枠（etc..）！告知もあるよ！！【律可/ホロスターズ】
+UID:UcFB-JalVVs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:『Sing a song』お昼休みにいかがですか。VS空調にやられた男【アステル/ホロスターズ】\nhttps://www.youtube.com/watch?v=fceqm3llLaQ
+DURATION:PT2H
+DTSTART:20200827T033000Z
+SUMMARY:🎭アステル・レダ: 『Sing a song』お昼休みにいかがですか。VS空調にやられた男【アステル/ホロスターズ】
+UID:fceqm3llLaQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【小芝居】～俺たちが奏でる夏のエチュード～【荒咬オウガ　アルランディス 岸堂天真】\nhttps://www.youtube.com/watch?v=9ZI0nZCqGbQ
+DURATION:PT2H
+DTSTART:20200827T130000Z
+SUMMARY:荒咬オウガ: 【小芝居】～俺たちが奏でる夏のエチュード～【荒咬オウガ　アルランディス 岸堂天真】
+UID:9ZI0nZCqGbQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【2万人記念枠】歌ったり喋ったり何か見せたり【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=-sbD6foySCA
 DURATION:PT2H
 DTSTART:20200827T110000Z
@@ -93,13 +107,6 @@ DURATION:PT2H
 DTSTART:20200827T010000Z
 SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－木曜日の朝。それはつまり、木曜日の朝ってこと。－【ホロスターズ/夕刻ロベル】
 UID:hOKTvxIWsnI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活】生活習慣改善－金曜日？はい？－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=yHi5xJIgMCM
-DURATION:PT2H
-DTSTART:20200828T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－金曜日？はい？－【ホロスターズ/夕刻ロベル】
-UID:yHi5xJIgMCM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FALLGUYS】ついに全ステージ得意になってしまった騎士【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=OV4Gf0ylsOk
