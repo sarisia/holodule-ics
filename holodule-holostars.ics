@@ -18,18 +18,18 @@ SUMMARY:🌺花咲みやび: ゆるスタでホロスタ夏満喫ボイスを同
 UID:VB7s3UWqUdY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SFC】～ほぼ初見のヨッシーアイランド～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=3GzQMRj5Ohw
-DURATION:PT2H
-DTSTART:20200825T150000Z
-SUMMARY:荒咬オウガ: 【SFC】～ほぼ初見のヨッシーアイランド～【荒咬オウガ/ホロスターズ】
-UID:3GzQMRj5Ohw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Fall Guys】1位！1位！1位！とる！！！【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=qrLN__fknPM
 DURATION:PT2H
 DTSTART:20200826T120000Z
 SUMMARY:⚙律可: 【Fall Guys】1位！1位！1位！とる！！！【律可/ホロスターズ】
 UID:qrLN__fknPM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SFC】～ほぼ初見のヨッシーアイランド～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=3GzQMRj5Ohw
+DURATION:PT2H
+DTSTART:20200825T150000Z
+SUMMARY:荒咬オウガ: 【SFC】～ほぼ初見のヨッシーアイランド～【荒咬オウガ/ホロスターズ】
+UID:3GzQMRj5Ohw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【記念配信】チャンネル登録2万人ありがとう！そしてケーキを食べる。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=6MCMeSVdJe0
@@ -128,5 +128,12 @@ DURATION:PT2H
 DTSTART:20200827T010000Z
 SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－木曜日の朝。それはつまり、木曜日の朝ってこと。－【ホロスターズ/夕刻ロベル】
 UID:hOKTvxIWsnI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FALLGUYS】ついに全ステージ得意になってしまった騎士【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=OV4Gf0ylsOk
+DURATION:PT2H
+DTSTART:20200827T063500Z
+SUMMARY:🦔💨岸堂天真: 【FALLGUYS】ついに全ステージ得意になってしまった騎士【岸堂天真/ホロスターズ】
+UID:OV4Gf0ylsOk
 END:VEVENT
 END:VCALENDAR
