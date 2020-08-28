@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:なにかしらする【ホロライブ/尾丸ポルカ】\nhttps://www.youtube.com/watch?v=SqTrRvz1rEc
+DESCRIPTION:YAGOO_0818.mp4\nhttps://www.youtube.com/watch?v=juFmIbYXg5E
 DURATION:PT2H
-DTSTART:20200828T160000Z
-SUMMARY:尾丸ポルカ: なにかしらする【ホロライブ/尾丸ポルカ】
-UID:SqTrRvz1rEc
+DTSTART:20200828T104452Z
+SUMMARY:尾丸ポルカ: YAGOO_0818.mp4
+UID:juFmIbYXg5E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Slither.io】ミミズ界で優勝しちゃいつつ喋る【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=H23jmkpv1kQ
@@ -30,6 +30,13 @@ DURATION:PT2H
 DTSTART:20200827T000000Z
 SUMMARY:雪花ラミィ: 【#らみらいぶ】木曜日の朝活雑談【8月27日】
 UID:YZM05dWP6kM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:なにかしらする【ホロライブ/尾丸ポルカ】\nhttps://www.youtube.com/watch?v=SqTrRvz1rEc
+DURATION:PT2H
+DTSTART:20200828T160000Z
+SUMMARY:尾丸ポルカ: なにかしらする【ホロライブ/尾丸ポルカ】
+UID:SqTrRvz1rEc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Project Winter】今宵も裏切り合い──【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=bTvAMmWlFtg
