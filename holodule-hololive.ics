@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#夜空メル新衣装】新衣装お披露目しちゃうよ！♡【ホロライブ】\nhttps://www.youtube.com/watch?v=YZvaq2evbK8
+DURATION:PT2H
+DTSTART:20200828T130000Z
+SUMMARY:🌟夜空メル: 【#夜空メル新衣装】新衣装お披露目しちゃうよ！♡【ホロライブ】
+UID:YZvaq2evbK8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:YAGOO_0818.mp4\nhttps://www.youtube.com/watch?v=juFmIbYXg5E
 DURATION:PT2H
 DTSTART:20200828T104452Z
@@ -11,11 +18,11 @@ SUMMARY:尾丸ポルカ: YAGOO_0818.mp4
 UID:juFmIbYXg5E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Slither.io】ミミズ界で優勝しちゃいつつ喋る【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=H23jmkpv1kQ
+DESCRIPTION:【影廊 -Shadow Corridor-】ホラーだがポルカできるんか【ホロライブ/尾丸ポルカ】\nhttps://www.youtube.com/watch?v=SqTrRvz1rEc
 DURATION:PT2H
-DTSTART:20200828T100000Z
-SUMMARY:🏴☠宝鐘マリン: 【Slither.io】ミミズ界で優勝しちゃいつつ喋る【ホロライブ/宝鐘マリン】
-UID:H23jmkpv1kQ
+DTSTART:20200828T160000Z
+SUMMARY:尾丸ポルカ: 【影廊 -Shadow Corridor-】ホラーだがポルカできるんか【ホロライブ/尾丸ポルカ】
+UID:SqTrRvz1rEc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:トワ様、一人前の悪魔への道♥＃1\nhttps://www.youtube.com/watch?v=nsZaJKf12ls
@@ -25,18 +32,18 @@ SUMMARY:👾常闇トワ: トワ様、一人前の悪魔への道♥＃1
 UID:nsZaJKf12ls
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#らみらいぶ】木曜日の朝活雑談【8月27日】\nhttps://www.youtube.com/watch?v=YZM05dWP6kM
-DURATION:PT2H
-DTSTART:20200827T000000Z
-SUMMARY:雪花ラミィ: 【#らみらいぶ】木曜日の朝活雑談【8月27日】
-UID:YZM05dWP6kM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【影廊 -Shadow Corridor-】ホラーだがポルカできるんか【ホロライブ/尾丸ポルカ】\nhttps://www.youtube.com/watch?v=SqTrRvz1rEc
+DESCRIPTION:【雑談＆歌】ド深夜のまったり雑談！！たまに歌。【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=5BOBRyqnQeU
 DURATION:PT2H
 DTSTART:20200828T160000Z
-SUMMARY:尾丸ポルカ: 【影廊 -Shadow Corridor-】ホラーだがポルカできるんか【ホロライブ/尾丸ポルカ】
-UID:SqTrRvz1rEc
+SUMMARY:🌙紫咲シオン: 【雑談＆歌】ド深夜のまったり雑談！！たまに歌。【ホロライブ/紫咲シオン】
+UID:5BOBRyqnQeU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Slither.io】ミミズ界で優勝しちゃいつつ喋る【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=H23jmkpv1kQ
+DURATION:PT2H
+DTSTART:20200828T100000Z
+SUMMARY:🏴☠宝鐘マリン: 【Slither.io】ミミズ界で優勝しちゃいつつ喋る【ホロライブ/宝鐘マリン】
+UID:H23jmkpv1kQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Project Winter】今宵も裏切り合い──#このオジ【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=bTvAMmWlFtg
@@ -51,6 +58,13 @@ DURATION:PT2H
 DTSTART:20200828T000000Z
 SUMMARY:雪花ラミィ: 【#らみらいぶ】金曜日の朝活雑談【8月28日】
 UID:7pkNBo9OkD4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 歌枠 】2.0verになってからの初の歌枠！！！！！！！！\nhttps://www.youtube.com/watch?v=QAKS6rSbZT0
+DURATION:PT2H
+DTSTART:20200828T150000Z
+SUMMARY:👿百鬼あやめ: 【 歌枠 】2.0verになってからの初の歌枠！！！！！！！！
+UID:QAKS6rSbZT0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【恐怖！】本当にあった怖い黒歴史2020【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=BRnvHFwJc7E
@@ -74,13 +88,6 @@ SUMMARY:🍙猫又おかゆ: flos / 猫又おかゆ (Cover)
 UID:4muYzftomAE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】MAPを覚えるぞ！！！！！！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=OActBFrLDWA
-DURATION:PT2H
-DTSTART:20200827T040000Z
-SUMMARY:🤖ロボ子さん: 【APEX】MAPを覚えるぞ！！！！！！！【ホロライブ/ロボ子さん】
-UID:OActBFrLDWA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#グルコス】わたしのカバー曲が実装されたよ！！\nhttps://www.youtube.com/watch?v=KghareRWhKs
 DURATION:PT2H
 DTSTART:20200828T100000Z
@@ -95,151 +102,11 @@ SUMMARY:💋癒月ちょこ: 【雪山人狼】この中に…。。方向音痴
 UID:i6J2V8eguTA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【まったり雑談】8/29  おあようスバル【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=SkFXpefqqtg
-DURATION:PT2H
-DTSTART:20200829T010000Z
-SUMMARY:🚑大空スバル: 【まったり雑談】8/29  おあようスバル【ホロライブ/大空スバル】
-UID:SkFXpefqqtg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【初ホラー！？】ねねおま夜勤事件【ホロライブ】\nhttps://www.youtube.com/watch?v=tyu5IkWaUDc
-DURATION:PT2H
-DTSTART:20200827T110000Z
-SUMMARY:桃鈴ねね: 【初ホラー！？】ねねおま夜勤事件【ホロライブ】
-UID:tyu5IkWaUDc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:今日はマシュマロ食べて良いのか！？！？？！！、、」１！？！？【ホロライブ/尾丸ポルカ】\nhttps://www.youtube.com/watch?v=hJ8DZoNMqz0
-DURATION:PT2H
-DTSTART:20200827T090000Z
-SUMMARY:尾丸ポルカ: 今日はマシュマロ食べて良いのか！？！？？！！、、」１！？！？【ホロライブ/尾丸ポルカ】
-UID:hJ8DZoNMqz0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】1人暮らしってYABEEEEEEEEEEEEEEEEEEEEEE【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=zxnb5ua2Q1I
-DURATION:PT2H
-DTSTART:20200827T110000Z
-SUMMARY:🚑大空スバル: 【雑談】1人暮らしってYABEEEEEEEEEEEEEEEEEEEEEE【ホロライブ/大空スバル】
-UID:zxnb5ua2Q1I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#桐生ココ#癒月ちょこ】ホロハウス女子会だぁ！【#天音かなた#アキロゼ】\nhttps://www.youtube.com/watch?v=sJ2cIyrM46s
-DURATION:PT2H
-DTSTART:20200827T140000Z
-SUMMARY:🐉桐生ココ: 【#桐生ココ#癒月ちょこ】ホロハウス女子会だぁ！【#天音かなた#アキロゼ】
-UID:sJ2cIyrM46s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】7位以下で即終了するマリオカートぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=j6byBuZyq00
-DURATION:PT2H
-DTSTART:20200827T113000Z
-SUMMARY:👯兎田ぺこら: 【マリオカート8DX】7位以下で即終了するマリオカートぺこ！【ホロライブ/兎田ぺこら】
-UID:j6byBuZyq00
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アソビ大全】対よろ！オセロキングに勝てるかな⁉【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=p-ZgKJtb638
-DURATION:PT2H
-DTSTART:20200828T090000Z
-SUMMARY:🦋潤羽るしあ: 【アソビ大全】対よろ！オセロキングに勝てるかな⁉【潤羽るしあ/ホロライブ】
-UID:p-ZgKJtb638
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Fall Guys】1位を目指して…！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=lsn2ncLy8go
-DURATION:PT2H
-DTSTART:20200827T060000Z
-SUMMARY:雪花ラミィ: 【Fall Guys】1位を目指して…！【雪花ラミィ/ホロライブ】
-UID:lsn2ncLy8go
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】久しぶりに戦おうじゃねえか…【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=j6X9D_mlTDg
-DURATION:PT2H
-DTSTART:20200827T130000Z
-SUMMARY:👾常闇トワ: 【マリオカート8DX】久しぶりに戦おうじゃねえか…【常闇トワ/ホロライブ】
-UID:j6X9D_mlTDg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BF〇】あのゲームをします【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=SqJ1uD0T3bI
-DURATION:PT2H
-DTSTART:20200828T040000Z
-SUMMARY:獅白ぼたん: 【BF〇】あのゲームをします【獅白ぼたん/ホロライブ】
-UID:SqJ1uD0T3bI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:わためラップ Loud ver. 🥁【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=p6UR4l-yMsc
-DURATION:PT2H
-DTSTART:20200828T111500Z
-SUMMARY:🐏角巻わため: わためラップ Loud ver. 🥁【角巻わため/ホロライブ４期生】
-UID:p6UR4l-yMsc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【晩酌配信】ラミィと一緒にまったり晩酌！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=XqT8rnoDiuA
-DURATION:PT2H
-DTSTART:20200828T140000Z
-SUMMARY:雪花ラミィ: 【晩酌配信】ラミィと一緒にまったり晩酌！【雪花ラミィ/ホロライブ】
-UID:XqT8rnoDiuA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【夏の終わり】新居とうちゃーーく！……え？ここ…事故物件…？【恐怖の始まり】\nhttps://www.youtube.com/watch?v=8KZwT1JOkJ4
-DURATION:PT2H
-DTSTART:20200827T131000Z
-SUMMARY:⚓湊あくあ: 【夏の終わり】新居とうちゃーーく！……え？ここ…事故物件…？【恐怖の始まり】
-UID:8KZwT1JOkJ4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#夜空メル新衣装】新衣装お披露目しちゃうよ！♡【ホロライブ】\nhttps://www.youtube.com/watch?v=YZvaq2evbK8
-DURATION:PT2H
-DTSTART:20200828T130000Z
-SUMMARY:🌟夜空メル: 【#夜空メル新衣装】新衣装お披露目しちゃうよ！♡【ホロライブ】
-UID:YZvaq2evbK8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【モーリーオンライン】あくしおグッズ実装！？取るしかない！！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=gnTJPk313E0
-DURATION:PT2H
-DTSTART:20200827T120000Z
-SUMMARY:🌙紫咲シオン: 【モーリーオンライン】あくしおグッズ実装！？取るしかない！！！【ホロライブ/紫咲シオン】
-UID:gnTJPk313E0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スーパーメトロイド】紙プレイを魅せるのら！！！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=EmU5iEPJtwI
-DURATION:PT2H
-DTSTART:20200827T140000Z
-SUMMARY:🍬姫森ルーナ: 【スーパーメトロイド】紙プレイを魅せるのら！！！【姫森ルーナ/ホロライブ】
-UID:EmU5iEPJtwI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 歌枠 】2.0verになってからの初の歌枠！！！！！！！！\nhttps://www.youtube.com/watch?v=QAKS6rSbZT0
-DURATION:PT2H
-DTSTART:20200828T150000Z
-SUMMARY:👿百鬼あやめ: 【 歌枠 】2.0verになってからの初の歌枠！！！！！！！！
-UID:QAKS6rSbZT0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#Reバース】ホロライブトライアルデッキ開封の儀　verホロ&ver1期生【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=mI76b60hsIc
-DURATION:PT2H
-DTSTART:20200826T151000Z
-SUMMARY:🌽白上フブキ: 【#Reバース】ホロライブトライアルデッキ開封の儀　verホロ&ver1期生【ホロライブ/白上フブキ】
-UID:mI76b60hsIc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#６】DEATH STRANDING：HOLOLIVEPORTER【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=ciN7bMJd0G4
-DURATION:PT2H
-DTSTART:20200827T130000Z
-SUMMARY:🌽白上フブキ: 【#６】DEATH STRANDING：HOLOLIVEPORTER【ホロライブ/白上フブキ】
-UID:ciN7bMJd0G4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:狂気的!?ホラーなもの募集した結果・・・！？【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=8mpht5rN4BA
 DURATION:PT2H
 DTSTART:20200829T120000Z
 SUMMARY:❤赤井はあと: 狂気的!?ホラーなもの募集した結果・・・！？【ホロライブ/赤井はあと】
 UID:8mpht5rN4BA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#桐生ココ】世界一伸びしろを感じる歌枠\nhttps://www.youtube.com/watch?v=dyGt5580PYI
-DURATION:PT2H
-DTSTART:20200828T120000Z
-SUMMARY:🐉桐生ココ: 【#桐生ココ】世界一伸びしろを感じる歌枠
-UID:dyGt5580PYI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】歌ってみた聴いてくれた…？💜【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=sspz3j5U_hQ
@@ -249,18 +116,11 @@ SUMMARY:🍙猫又おかゆ: 【雑談】歌ってみた聴いてくれた…？
 UID:sspz3j5U_hQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ゲリラ朝活】起きるという鉄の意志🔥寝起き雑談【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=4DOKrILRjxY
+DESCRIPTION:【まったり雑談】8/29  おあようスバル【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=SkFXpefqqtg
 DURATION:PT2H
-DTSTART:20200826T221000Z
-SUMMARY:⚔白銀ノエル: 【ゲリラ朝活】起きるという鉄の意志🔥寝起き雑談【白銀ノエル/ホロライブ】
-UID:4DOKrILRjxY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アソビ大全バトル】ふわふわ３人組の白熱バトル開催なのら！ #ふんわり組【姫森ルーナ/夜空メル/白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=QCLy3moECvo
-DURATION:PT2H
-DTSTART:20200826T150000Z
-SUMMARY:🍬姫森ルーナ: 【アソビ大全バトル】ふわふわ３人組の白熱バトル開催なのら！ #ふんわり組【姫森ルーナ/夜空メル/白銀ノエル/ホロライブ】
-UID:QCLy3moECvo
+DTSTART:20200829T010000Z
+SUMMARY:🚑大空スバル: 【まったり雑談】8/29  おあようスバル【ホロライブ/大空スバル】
+UID:SkFXpefqqtg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】ノエパトフレお泊り裏話などなど！沢山お喋りしたい✨【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=BkA0waSS-XE
@@ -277,39 +137,11 @@ SUMMARY:🌟夜空メル: 【 Fall Guys 】１位とれたらお肉かぷかぷ�
 UID:oj1ALVMGbfQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:任天堂の神ゲー！マリオストーリー実況🌟#４【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=cjrhbGeon5M
+DESCRIPTION:【BF〇】あのゲームをします【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=SqJ1uD0T3bI
 DURATION:PT2H
-DTSTART:20200827T110000Z
-SUMMARY:🌟夜空メル: 任天堂の神ゲー！マリオストーリー実況🌟#４【ホロライブ/夜空メル】
-UID:cjrhbGeon5M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Fall Guys】#ARaRe組　は１位をとれるのか！！アキ・るしあ・ロボ子【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=IOpTvysuH3w
-DURATION:PT2H
-DTSTART:20200828T140000Z
-SUMMARY:🤖ロボ子さん: 【Fall Guys】#ARaRe組　は１位をとれるのか！！アキ・るしあ・ロボ子【ホロライブ/ロボ子さん】
-UID:IOpTvysuH3w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【密着！！】ねねのサムネの作り方【桃鈴ねね】\nhttps://www.youtube.com/watch?v=rfw2ona2iMc
-DURATION:PT2H
-DTSTART:20200827T081000Z
-SUMMARY:桃鈴ねね: 【密着！！】ねねのサムネの作り方【桃鈴ねね】
-UID:rfw2ona2iMc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【昼雑】ひるざつだん 8/27【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=w5gYHAAAg4c
-DURATION:PT2H
-DTSTART:20200827T040000Z
-SUMMARY:獅白ぼたん: 【昼雑】ひるざつだん 8/27【獅白ぼたん/ホロライブ】
-UID:w5gYHAAAg4c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【犬鳴トンネル】雪花ラミィを引き連れて心霊スポットに行きます【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=--W9ru3MeM8
-DURATION:PT2H
-DTSTART:20200827T120000Z
-SUMMARY:獅白ぼたん: 【犬鳴トンネル】雪花ラミィを引き連れて心霊スポットに行きます【獅白ぼたん/ホロライブ】
-UID:--W9ru3MeM8
+DTSTART:20200828T040000Z
+SUMMARY:獅白ぼたん: 【BF〇】あのゲームをします【獅白ぼたん/ホロライブ】
+UID:SqJ1uD0T3bI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ゼルダの伝説BotW#02】脳筋女騎士🔥チュートリアルも終わったし冒険の始まり！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=WAJ3vhDNYvU
@@ -319,46 +151,11 @@ SUMMARY:⚔白銀ノエル: 【ゼルダの伝説BotW#02】脳筋女騎士🔥�
 UID:WAJ3vhDNYvU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【アソビ大全】視聴者参加型★７ならべで僕に勝てるやつおりゅ？【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=4GxAsxDVNmo
-DURATION:PT2H
-DTSTART:20200827T100000Z
-SUMMARY:💫天音かなた: 【アソビ大全】視聴者参加型★７ならべで僕に勝てるやつおりゅ？【天音かなた/ホロライブ4期生】
-UID:4GxAsxDVNmo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】ぴえんさせたいボクの歌枠😢【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=VWHe-BJX630
-DURATION:PT2H
-DTSTART:20200827T130000Z
-SUMMARY:🤖ロボ子さん: 【歌枠】ぴえんさせたいボクの歌枠😢【ホロライブ/ロボ子さん】
-UID:VWHe-BJX630
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Eryi's Action】かわいいけど難しい！？２Dアクションゲーム【＃ときのそら生放送】\nhttps://www.youtube.com/watch?v=t5RUKyZoTJg
-DURATION:PT2H
-DTSTART:20200827T100000Z
-SUMMARY:🐻ときのそら: 【Eryi's Action】かわいいけど難しい！？２Dアクションゲーム【＃ときのそら生放送】
-UID:t5RUKyZoTJg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】罵られたい人 VS キレ散らかす🐹【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=-8TVqDocSpA
 DURATION:PT2H
 DTSTART:20200828T150000Z
 SUMMARY:💫天音かなた: 【マリオカート8DX】罵られたい人 VS キレ散らかす🐹【天音かなた/ホロライブ4期生】
 UID:-8TVqDocSpA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Fall Guys】目指せ１位！！！！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=goUfI5e79tU
-DURATION:PT2H
-DTSTART:20200827T140000Z
-SUMMARY:🐏角巻わため: 【Fall Guys】目指せ１位！！！！！！【角巻わため/ホロライブ４期生】
-UID:goUfI5e79tU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARK ╎Crystal Isles】緊急ゲリラ！ココ会長のお手伝いするムキロゼ！【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=paBwW-10CAo
-DURATION:PT2H
-DTSTART:20200826T174500Z
-SUMMARY:🍎アキロゼ: 【ARK ╎Crystal Isles】緊急ゲリラ！ココ会長のお手伝いするムキロゼ！【ホロライブ/アキロゼ】
-UID:paBwW-10CAo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】あさ【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=atySpn8jH_s
@@ -375,11 +172,11 @@ SUMMARY:🏮夏色まつり: 【Fall Guys】１番好きなの一等賞！【ホ
 UID:UZUcOiVH95w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【世界のアソビ大全51】#フェスティバルーナ で対決なのら～！！！【姫森ルーナ/夏色まつり/ホロライブ】\nhttps://www.youtube.com/watch?v=0fP3HoepE0A
+DESCRIPTION:【アソビ大全】対よろ！オセロキングに勝てるかな⁉【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=p-ZgKJtb638
 DURATION:PT2H
-DTSTART:20200827T080000Z
-SUMMARY:🍬姫森ルーナ: 【世界のアソビ大全51】#フェスティバルーナ で対決なのら～！！！【姫森ルーナ/夏色まつり/ホロライブ】
-UID:0fP3HoepE0A
+DTSTART:20200828T090000Z
+SUMMARY:🦋潤羽るしあ: 【アソビ大全】対よろ！オセロキングに勝てるかな⁉【潤羽るしあ/ホロライブ】
+UID:p-ZgKJtb638
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【2nd live!】ねねの寝る前しっとりライブ✨【桃鈴ねね】\nhttps://www.youtube.com/watch?v=UUv3YRT5leU
@@ -389,11 +186,11 @@ SUMMARY:桃鈴ねね: 【2nd live!】ねねの寝る前しっとりライブ✨�
 UID:UUv3YRT5leU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】singing♪ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=6NJcQh6R2XA
+DESCRIPTION:【晩酌配信】ラミィと一緒にまったり晩酌！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=XqT8rnoDiuA
 DURATION:PT2H
-DTSTART:20200827T140000Z
-SUMMARY:👯兎田ぺこら: 【歌枠】singing♪ぺこ！【ホロライブ/兎田ぺこら】
-UID:6NJcQh6R2XA
+DTSTART:20200828T140000Z
+SUMMARY:雪花ラミィ: 【晩酌配信】ラミィと一緒にまったり晩酌！【雪花ラミィ/ホロライブ】
+UID:XqT8rnoDiuA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【明るい昼！】楽しい話がしたいある！！【桃鈴ねね】\nhttps://www.youtube.com/watch?v=8MhV0POD91U
@@ -403,11 +200,11 @@ SUMMARY:桃鈴ねね: 【明るい昼！】楽しい話がしたいある！！�
 UID:8MhV0POD91U
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FallGuys】・・・！！！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=LrkL7PPQ4dU
+DESCRIPTION:わためラップ Loud ver. 🥁【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=p6UR4l-yMsc
 DURATION:PT2H
-DTSTART:20200827T040000Z
-SUMMARY:🦋潤羽るしあ: 【FallGuys】・・・！！！【潤羽るしあ/ホロライブ】
-UID:LrkL7PPQ4dU
+DTSTART:20200828T111500Z
+SUMMARY:🐏角巻わため: わためラップ Loud ver. 🥁【角巻わため/ホロライブ４期生】
+UID:p6UR4l-yMsc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#FallGuys】FOXBURGERKING　4th【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=P0lr_sFgUVI
