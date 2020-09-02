@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【エコー枠】初めて買ったゲーミングチェアを組み立てる放送【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=8ia9gSGbYcE
-DURATION:PT2H
-DTSTART:20200902T040000Z
-SUMMARY:🍷夕刻ロベル: 【エコー枠】初めて買ったゲーミングチェアを組み立てる放送【ホロスターズ/夕刻ロベル】
-UID:8ia9gSGbYcE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【テトリス９９】リスナーさん参加型帰ってきたテトロイド【律可/ホロスターズ 】\nhttps://www.youtube.com/watch?v=epc9YxZKVJk
 DURATION:PT2H
 DTSTART:20200902T094000Z
 SUMMARY:⚙律可: 【テトリス９９】リスナーさん参加型帰ってきたテトロイド【律可/ホロスターズ 】
 UID:epc9YxZKVJk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【エコー枠】初めて買ったゲーミングチェアを組み立てる放送【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=8ia9gSGbYcE
+DURATION:PT2H
+DTSTART:20200902T040000Z
+SUMMARY:🍷夕刻ロベル: 【エコー枠】初めて買ったゲーミングチェアを組み立てる放送【ホロスターズ/夕刻ロベル】
+UID:8ia9gSGbYcE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談コラボ】VOMSからのお客様！磁富モノエさんの来店や！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=gplIOrhTMAc
@@ -25,11 +25,11 @@ SUMMARY:🍷夕刻ロベル: 【雑談コラボ】VOMSからのお客様！磁�
 UID:gplIOrhTMAc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Fall Guys】～勝てないのか？～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=F2XtgRKwPaQ
+DESCRIPTION:【検証/ASMR】早口言葉は電撃を耐えられながらどこまで続けられるのか【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=mv2fdB8Ej20
 DURATION:PT2H
-DTSTART:20200901T130000Z
-SUMMARY:荒咬オウガ: 【Fall Guys】～勝てないのか？～【荒咬オウガ/ホロスターズ】
-UID:F2XtgRKwPaQ
+DTSTART:20200902T130000Z
+SUMMARY:🍕アルランディス: 【検証/ASMR】早口言葉は電撃を耐えられながらどこまで続けられるのか【アルランディス/ホロスターズ】
+UID:mv2fdB8Ej20
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【記念枠】メンバーシップ解禁だってばよ！！！【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=WGSCyJR9kQs
@@ -39,74 +39,11 @@ SUMMARY:⚙律可: 【記念枠】メンバーシップ解禁だってばよ！�
 UID:WGSCyJR9kQs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【弾き語り枠】一山越えた声帯で挑む昼かつ！【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=llBE1KItFk8
-DURATION:PT2H
-DTSTART:20200901T060000Z
-SUMMARY:⚙律可: 【弾き語り枠】一山越えた声帯で挑む昼かつ！【律可/ホロスターズ】
-UID:llBE1KItFk8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】おひさしぶりでえええええええええええええす【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=fSyjfroPF4U
 DURATION:PT2H
 DTSTART:20200902T101500Z
 SUMMARY:🎭アステル・レダ: 【APEX】おひさしぶりでえええええええええええええす【ホロスターズ/アステル】
 UID:fSyjfroPF4U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:夜なので歌ったり喋ったり【奏手イヅル】\nhttps://www.youtube.com/watch?v=5KNWW3KSUao
-DURATION:PT2H
-DTSTART:20200901T143000Z
-SUMMARY:🎸奏手イヅル: 夜なので歌ったり喋ったり【奏手イヅル】
-UID:5KNWW3KSUao
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【JUMP KING】帰ってきたJUMP KING【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=lz8S-EV3orY
-DURATION:PT2H
-DTSTART:20200902T070000Z
-SUMMARY:影山シエン: 【JUMP KING】帰ってきたJUMP KING【影山シエン/ホロスターズ】
-UID:lz8S-EV3orY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活】生活習慣改善－ハロー、セプテンバー。調子はどうだい－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=S7XYKyEZaE4
-DURATION:PT2H
-DTSTART:20200901T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－ハロー、セプテンバー。調子はどうだい－【ホロスターズ/夕刻ロベル】
-UID:S7XYKyEZaE4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Fall Guys】9月の初めに一位を取って気持ちよくスタートします【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=7_iSAv8tzZ4
-DURATION:PT2H
-DTSTART:20200901T040000Z
-SUMMARY:🍷夕刻ロベル: 【Fall Guys】9月の初めに一位を取って気持ちよくスタートします【ホロスターズ/夕刻ロベル】
-UID:7_iSAv8tzZ4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】新しいゲーミングチェアに乗って挑むマリオカート【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=6W0ewGIW-qw
-DURATION:PT2H
-DTSTART:20200902T080000Z
-SUMMARY:🍷夕刻ロベル: 【マリオカート8DX】新しいゲーミングチェアに乗って挑むマリオカート【ホロスターズ/夕刻ロベル】
-UID:6W0ewGIW-qw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活雑談】朝の1時間を共に過ごすとかそういうやつ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=nm41Fyoj1oI
-DURATION:PT2H
-DTSTART:20200831T230000Z
-SUMMARY:🍕アルランディス: 【朝活雑談】朝の1時間を共に過ごすとかそういうやつ【アルランディス/ホロスターズ】
-UID:nm41Fyoj1oI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【オフ介護】後輩にも全力で介護されながらやるリングフィットアドベンチャー!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=3rIMoPW_Z_0
-DURATION:PT2H
-DTSTART:20200901T070000Z
-SUMMARY:🌺花咲みやび: 【オフ介護】後輩にも全力で介護されながらやるリングフィットアドベンチャー!!【花咲みやび/ホロスターズ】
-UID:3rIMoPW_Z_0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#4【Home Sweet Home】こんなに甘い家、俺は知らない。【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=OPW44_Q_zog
-DURATION:PT2H
-DTSTART:20200901T110000Z
-SUMMARY:🍷夕刻ロベル: #4【Home Sweet Home】こんなに甘い家、俺は知らない。【ホロスターズ/夕刻ロベル】
-UID:OPW44_Q_zog
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】生活習慣改善－朝目覚めて配信をする毎日も悪くない－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=yDgR8D04ZxE
@@ -123,10 +60,17 @@ SUMMARY:荒咬オウガ: 【ゼルダの伝説ブレスオブザワイルド】�
 UID:l5q2klQlatc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【検証/ASMR】早口言葉は電撃を耐えられながらどこまで続けられるのか【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=mv2fdB8Ej20
+DESCRIPTION:【JUMP KING】帰ってきたJUMP KING【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=lz8S-EV3orY
 DURATION:PT2H
-DTSTART:20200902T130000Z
-SUMMARY:🍕アルランディス: 【検証/ASMR】早口言葉は電撃を耐えられながらどこまで続けられるのか【アルランディス/ホロスターズ】
-UID:mv2fdB8Ej20
+DTSTART:20200902T070000Z
+SUMMARY:影山シエン: 【JUMP KING】帰ってきたJUMP KING【影山シエン/ホロスターズ】
+UID:lz8S-EV3orY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マリオカート8DX】新しいゲーミングチェアに乗って挑むマリオカート【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=6W0ewGIW-qw
+DURATION:PT2H
+DTSTART:20200902T080000Z
+SUMMARY:🍷夕刻ロベル: 【マリオカート8DX】新しいゲーミングチェアに乗って挑むマリオカート【ホロスターズ/夕刻ロベル】
+UID:6W0ewGIW-qw
 END:VEVENT
 END:VCALENDAR
