@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【朝活】生活習慣改善－目を覚ます。配信を始める。－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=L_QvbpGIDys
-DURATION:PT2H
-DTSTART:20200903T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－目を覚ます。配信を始める。－【ホロスターズ/夕刻ロベル】
-UID:L_QvbpGIDys
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【テトリス９９】リスナーさん参加型帰ってきたテトロイド【律可/ホロスターズ 】\nhttps://www.youtube.com/watch?v=epc9YxZKVJk
 DURATION:PT2H
 DTSTART:20200902T094000Z
@@ -32,18 +25,11 @@ SUMMARY:🍷夕刻ロベル: 【雑談コラボ】VOMSからのお客様！磁�
 UID:gplIOrhTMAc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【検証/ASMR】早口言葉は電撃を耐えられながらどこまで続けられるのか【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=mv2fdB8Ej20
+DESCRIPTION:【記念枠】メンバーシップ解禁だってばよ！！！【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=WGSCyJR9kQs
 DURATION:PT2H
-DTSTART:20200902T130000Z
-SUMMARY:🍕アルランディス: 【検証/ASMR】早口言葉は電撃を耐えられながらどこまで続けられるのか【アルランディス/ホロスターズ】
-UID:mv2fdB8Ej20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【L4D2】来るべき日に向けてAIM調整。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=ltv8NCxiLHs
-DURATION:PT2H
-DTSTART:20200902T174500Z
-SUMMARY:🎭アステル・レダ: 【L4D2】来るべき日に向けてAIM調整。【ホロスターズ/アステル】
-UID:ltv8NCxiLHs
+DTSTART:20200903T130000Z
+SUMMARY:⚙律可: 【記念枠】メンバーシップ解禁だってばよ！！！【律可/ホロスターズ】
+UID:WGSCyJR9kQs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】おひさしぶりでえええええええええええええす【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=fSyjfroPF4U
@@ -53,11 +39,46 @@ SUMMARY:🎭アステル・レダ: 【APEX】おひさしぶりでええええ�
 UID:fSyjfroPF4U
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【記念枠】メンバーシップ解禁だってばよ！！！【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=WGSCyJR9kQs
+DESCRIPTION:【同時視聴】痛快？ホラー映画”来る”を一緒に見よう【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=AbIG8VUXFhk
 DURATION:PT2H
-DTSTART:20200903T120000Z
-SUMMARY:⚙律可: 【記念枠】メンバーシップ解禁だってばよ！！！【律可/ホロスターズ】
-UID:WGSCyJR9kQs
+DTSTART:20200903T140000Z
+SUMMARY:🍕アルランディス: 【同時視聴】痛快？ホラー映画”来る”を一緒に見よう【アルランディス/ホロスターズ】
+UID:AbIG8VUXFhk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【JUMP KING】帰ってきたJUMP KING【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=lz8S-EV3orY
+DURATION:PT2H
+DTSTART:20200902T070000Z
+SUMMARY:影山シエン: 【JUMP KING】帰ってきたJUMP KING【影山シエン/ホロスターズ】
+UID:lz8S-EV3orY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゼルダの伝説ブレスオブザワイルド#1.5】～祠探し～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=X-7DScZ7kNw
+DURATION:PT2H
+DTSTART:20200903T040000Z
+SUMMARY:荒咬オウガ: 【ゼルダの伝説ブレスオブザワイルド#1.5】～祠探し～【荒咬オウガ/ホロスターズ】
+UID:X-7DScZ7kNw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マリオカート8DX】新しいゲーミングチェアに乗って挑むマリオカート【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=6W0ewGIW-qw
+DURATION:PT2H
+DTSTART:20200902T080000Z
+SUMMARY:🍷夕刻ロベル: 【マリオカート8DX】新しいゲーミングチェアに乗って挑むマリオカート【ホロスターズ/夕刻ロベル】
+UID:6W0ewGIW-qw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】生活習慣改善－目を覚ます。配信を始める。－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=L_QvbpGIDys
+DURATION:PT2H
+DTSTART:20200903T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－目を覚ます。配信を始める。－【ホロスターズ/夕刻ロベル】
+UID:L_QvbpGIDys
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【L4D2】来るべき日に向けてAIM調整。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=ltv8NCxiLHs
+DURATION:PT2H
+DTSTART:20200902T174500Z
+SUMMARY:🎭アステル・レダ: 【L4D2】来るべき日に向けてAIM調整。【ホロスターズ/アステル】
+UID:ltv8NCxiLHs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】生活習慣改善－朝目覚めて配信をする毎日も悪くない－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=yDgR8D04ZxE
@@ -81,31 +102,17 @@ SUMMARY:🎭アステル・レダ: 【Fall guys】天才現る。【ホロスタ
 UID:hR0-ABUZr6A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ゼルダの伝説ブレスオブザワイルド#1.5】～祠探し～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=X-7DScZ7kNw
+DESCRIPTION:【FALLGUYS】クラウンビュッフェと呼ばれたプロ騎士【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=Q9d721eTwQM
 DURATION:PT2H
-DTSTART:20200903T040000Z
-SUMMARY:荒咬オウガ: 【ゼルダの伝説ブレスオブザワイルド#1.5】～祠探し～【荒咬オウガ/ホロスターズ】
-UID:X-7DScZ7kNw
+DTSTART:20200903T070000Z
+SUMMARY:🦔💨岸堂天真: 【FALLGUYS】クラウンビュッフェと呼ばれたプロ騎士【岸堂天真/ホロスターズ】
+UID:Q9d721eTwQM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【同時視聴】痛快？ホラー映画”来る”を一緒に見よう【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=AbIG8VUXFhk
+DESCRIPTION:【検証/ASMR】早口言葉は電撃を耐えられながらどこまで続けられるのか【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=mv2fdB8Ej20
 DURATION:PT2H
-DTSTART:20200903T140000Z
-SUMMARY:🍕アルランディス: 【同時視聴】痛快？ホラー映画”来る”を一緒に見よう【アルランディス/ホロスターズ】
-UID:AbIG8VUXFhk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【JUMP KING】帰ってきたJUMP KING【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=lz8S-EV3orY
-DURATION:PT2H
-DTSTART:20200902T070000Z
-SUMMARY:影山シエン: 【JUMP KING】帰ってきたJUMP KING【影山シエン/ホロスターズ】
-UID:lz8S-EV3orY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】新しいゲーミングチェアに乗って挑むマリオカート【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=6W0ewGIW-qw
-DURATION:PT2H
-DTSTART:20200902T080000Z
-SUMMARY:🍷夕刻ロベル: 【マリオカート8DX】新しいゲーミングチェアに乗って挑むマリオカート【ホロスターズ/夕刻ロベル】
-UID:6W0ewGIW-qw
+DTSTART:20200902T130000Z
+SUMMARY:🍕アルランディス: 【検証/ASMR】早口言葉は電撃を耐えられながらどこまで続けられるのか【アルランディス/ホロスターズ】
+UID:mv2fdB8Ej20
 END:VEVENT
 END:VCALENDAR
