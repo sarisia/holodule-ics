@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Muse Dash】How can i beat you with music?!【Moona】\nhttps://www.youtube.com/watch?v=wiZefzz7Awc
+DURATION:PT2H
+DTSTART:20200904T130000Z
+SUMMARY:🔮Moona: 【Muse Dash】How can i beat you with music?!【Moona】
+UID:wiZefzz7Awc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】I play APEX Again.【Moona】\nhttps://www.youtube.com/watch?v=COgCv_6mo-o
 DURATION:PT2H
 DTSTART:20200903T130027Z
@@ -23,5 +30,12 @@ DURATION:PT2H
 DTSTART:20200903T110000Z
 SUMMARY:🐿Risu: 【hololiveID】LET'S PLAY FISH BLUBLUBLUBLUB【Ayunda Risu】
 UID:6tbUmc8R1e0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololiveID】Risu is now a bartender ??? 【Ayunda Risu】\nhttps://www.youtube.com/watch?v=htCtzmzW6iM
+DURATION:PT2H
+DTSTART:20200904T120000Z
+SUMMARY:🐿Risu: 【hololiveID】Risu is now a bartender ??? 【Ayunda Risu】
+UID:htCtzmzW6iM
 END:VEVENT
 END:VCALENDAR
