@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【カービイのエアライド】GC起動の儀、そしてエアライド【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=TMHbrnbFrzE
-DURATION:PT2H
-DTSTART:20200909T120000Z
-SUMMARY:🌺花咲みやび: 【カービイのエアライド】GC起動の儀、そしてエアライド【花咲みやび/ホロスターズ】
-UID:TMHbrnbFrzE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活雑談】Vol１.２ギターを毎朝1時間練習する配信-さよならエレジー-【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=haxeiX_Sq5c
-DURATION:PT2H
-DTSTART:20200908T233000Z
-SUMMARY:🍕アルランディス: 【朝活雑談】Vol１.２ギターを毎朝1時間練習する配信-さよならエレジー-【アルランディス/ホロスターズ】
-UID:haxeiX_Sq5c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【記念枠】3万人ありがとう！新しい配信レイアウトも！【奏手イヅル】\nhttps://www.youtube.com/watch?v=TJtJbJ7ne4M
 DURATION:PT2H
 DTSTART:20200909T140000Z
@@ -25,11 +11,11 @@ SUMMARY:🎸奏手イヅル: 【記念枠】3万人ありがとう！新しい�
 UID:TJtJbJ7ne4M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝活】生活習慣改善－木曜日の自分へ、起きてる？－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=o1SIwP8sTdg
+DESCRIPTION:【朝活雑談】Vol１.２ギターを毎朝1時間練習する配信-さよならエレジー-【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=haxeiX_Sq5c
 DURATION:PT2H
-DTSTART:20200910T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－木曜日の自分へ、起きてる？－【ホロスターズ/夕刻ロベル】
-UID:o1SIwP8sTdg
+DTSTART:20200908T233000Z
+SUMMARY:🍕アルランディス: 【朝活雑談】Vol１.２ギターを毎朝1時間練習する配信-さよならエレジー-【アルランディス/ホロスターズ】
+UID:haxeiX_Sq5c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【零～刺青ノ聲】お化け屋敷の入り口に「お化けにセクハラ禁止です」と書いてあった話。＃2【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=Nlnw1CURPd0
@@ -53,18 +39,11 @@ SUMMARY:🍕アルランディス: 【今日から2年目！】1周年で頂い�
 UID:J_xaPvYd3SU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】可愛くなりたい【花岸(岸堂天真 花咲みやび)/ホロスターズ】\nhttps://www.youtube.com/watch?v=6f-hghYUosk
+DESCRIPTION:【FE風花雪月】青獅子学級の先生になったテンマルス【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=9IT_lY7ev7E
 DURATION:PT2H
-DTSTART:20200910T120000Z
-SUMMARY:🦔💨岸堂天真: 【歌ってみた】可愛くなりたい【花岸(岸堂天真 花咲みやび)/ホロスターズ】
-UID:6f-hghYUosk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ゼノブレイド】初見で挑むゼノブレイド！－新たな仲間と共に－【ホロスターズ/夕刻ロベル】#3\nhttps://www.youtube.com/watch?v=KfR9EJqzeYQ
-DURATION:PT2H
-DTSTART:20200909T040000Z
-SUMMARY:🍷夕刻ロベル: 【ゼノブレイド】初見で挑むゼノブレイド！－新たな仲間と共に－【ホロスターズ/夕刻ロベル】#3
-UID:KfR9EJqzeYQ
+DTSTART:20200910T040000Z
+SUMMARY:🦔💨岸堂天真: 【FE風花雪月】青獅子学級の先生になったテンマルス【岸堂天真/ホロスターズ】
+UID:9IT_lY7ev7E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SPELLBREAK】乱入者待ちしながらタレント集める!!【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=0d_x6PMHaik
@@ -86,6 +65,41 @@ DURATION:PT2H
 DTSTART:20200909T010000Z
 SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－折り返しの水曜日、おはよう－【ホロスターズ/夕刻ロベル】
 UID:OULwyhSajQ0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【カービイのエアライド】GC起動の儀、そしてエアライド【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=TMHbrnbFrzE
+DURATION:PT2H
+DTSTART:20200909T120000Z
+SUMMARY:🌺花咲みやび: 【カービイのエアライド】GC起動の儀、そしてエアライド【花咲みやび/ホロスターズ】
+UID:TMHbrnbFrzE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌みた感想雑談】可愛くなりたいの感想とか話したい!!【花岸/ホロスターズ】\nhttps://www.youtube.com/watch?v=36FeFsqM72A
+DURATION:PT2H
+DTSTART:20200909T164500Z
+SUMMARY:🦔💨岸堂天真: 【歌みた感想雑談】可愛くなりたいの感想とか話したい!!【花岸/ホロスターズ】
+UID:36FeFsqM72A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】生活習慣改善－木曜日の自分へ、起きてる？－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=o1SIwP8sTdg
+DURATION:PT2H
+DTSTART:20200910T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－木曜日の自分へ、起きてる？－【ホロスターズ/夕刻ロベル】
+UID:o1SIwP8sTdg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌ってみた】可愛くなりたい【花岸(岸堂天真 花咲みやび)/ホロスターズ】\nhttps://www.youtube.com/watch?v=6f-hghYUosk
+DURATION:PT2H
+DTSTART:20200910T120000Z
+SUMMARY:🦔💨岸堂天真: 【歌ってみた】可愛くなりたい【花岸(岸堂天真 花咲みやび)/ホロスターズ】
+UID:6f-hghYUosk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゼノブレイド】初見で挑むゼノブレイド！－新たな仲間と共に－【ホロスターズ/夕刻ロベル】#3\nhttps://www.youtube.com/watch?v=KfR9EJqzeYQ
+DURATION:PT2H
+DTSTART:20200909T040000Z
+SUMMARY:🍷夕刻ロベル: 【ゼノブレイド】初見で挑むゼノブレイド！－新たな仲間と共に－【ホロスターズ/夕刻ロベル】#3
+UID:KfR9EJqzeYQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#4【出張版RiTunes Labo】生セッション歌枠：ゲスト『蒔田陽丸』【律可/ホロスターズ 】#りちゅらぼ\nhttps://www.youtube.com/watch?v=cx3kfVKR8QY
