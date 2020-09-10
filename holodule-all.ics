@@ -4,10 +4,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:はあちゃまっちゃま～～～～～～～！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=T64yYnvI0Uc
+DESCRIPTION:【Minecraft】ホ　ロ　鯖　復　興　計　画　#4【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=T64yYnvI0Uc
 DURATION:PT2H
 DTSTART:20200911T030000Z
-SUMMARY:❤赤井はあと: はあちゃまっちゃま～～～～～～～！【ホロライブ/赤井はあと】
+SUMMARY:❤赤井はあと: 【Minecraft】ホ　ロ　鯖　復　興　計　画　#4【ホロライブ/赤井はあと】
 UID:T64yYnvI0Uc
 END:VEVENT
 BEGIN:VEVENT
@@ -200,11 +200,11 @@ SUMMARY:🍬姫森ルーナ: 【リングフィットアドベンチャー】（
 UID:TpBhXtb3vBI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マリオ＆ルイージRPG】豆VS人間VS猫＃4【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=KjZfXXjvpAo
+DESCRIPTION:【耐久】影廊クリアするまで終われない【湊あくあ/紫咲シオン】\nhttps://www.youtube.com/watch?v=C_GoaHrPVWc
 DURATION:PT2H
-DTSTART:20200910T130000Z
-SUMMARY:🍙猫又おかゆ: 【マリオ＆ルイージRPG】豆VS人間VS猫＃4【ホロライブ/猫又おかゆ】
-UID:KjZfXXjvpAo
+DTSTART:20200910T120000Z
+SUMMARY:⚓湊あくあ: 【耐久】影廊クリアするまで終われない【湊あくあ/紫咲シオン】
+UID:C_GoaHrPVWc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX/カジュアル】深夜のあぺぺきーつね!!ぽんぽんちゃんぽん食べたいぞぃ【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=N9A3jyrO5dM
@@ -212,6 +212,13 @@ DURATION:PT2H
 DTSTART:20200909T163000Z
 SUMMARY:🌽白上フブキ: 【APEX/カジュアル】深夜のあぺぺきーつね!!ぽんぽんちゃんぽん食べたいぞぃ【ホロライブ/白上フブキ】
 UID:N9A3jyrO5dM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マリオ＆ルイージRPG】豆VS人間VS猫＃4【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=KjZfXXjvpAo
+DURATION:PT2H
+DTSTART:20200910T130000Z
+SUMMARY:🍙猫又おかゆ: 【マリオ＆ルイージRPG】豆VS人間VS猫＃4【ホロライブ/猫又おかゆ】
+UID:KjZfXXjvpAo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MO:Astray】初見：荒廃した世界で謎解き【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=2Ty5Ixg6A4Y
@@ -305,13 +312,6 @@ SUMMARY:🤖ロボ子さん: 【クラフトピア/craftopia】13時/あんぽ�
 UID:66kCBZmtk3c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ゼルダの伝説ブレスオブザワイルド#4】～四神獣攻略　あと二体！～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=xZQ4TzO94wY
-DURATION:PT2H
-DTSTART:20200910T130000Z
-SUMMARY:荒咬オウガ: 【ゼルダの伝説ブレスオブザワイルド#4】～四神獣攻略　あと二体！～【荒咬オウガ/ホロスターズ】
-UID:xZQ4TzO94wY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【クラフトピア/craftopia】強者、ねね【ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=5PA0AO0B010
 DURATION:PT2H
 DTSTART:20200910T110000Z
@@ -331,13 +331,6 @@ DURATION:PT2H
 DTSTART:20200909T150000Z
 SUMMARY:🍬姫森ルーナ: 【マリオテニス64】左親指にコントローラーのぐりぐりの痕をつけながら戦うのら！！【姫森ルーナ/ホロライブ】
 UID:7jw6y0a84B4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ホロ鯖】マイクラ建築るすばる2【復興】\nhttps://www.youtube.com/watch?v=zK5IGA4e7mc
-DURATION:PT2H
-DTSTART:20200910T140000Z
-SUMMARY:🚑大空スバル: 【ホロ鯖】マイクラ建築るすばる2【復興】
-UID:zK5IGA4e7mc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【キメキメで】アンヘル【歌ってみた/ときのそら】\nhttps://www.youtube.com/watch?v=leUYaxskKEE
