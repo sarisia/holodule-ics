@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:[ORIGINAL SONG]  失礼しますが、RIP♡ || “Excuse My Rudeness\, But Could You Please RIP?” - Calliope Mori\nhttps://www.youtube.com/watch?v=5y3xh8gs24c
+DURATION:PT2H
+DTSTART:20200912T175211Z
+SUMMARY:Calli: [ORIGINAL SONG]  失礼しますが、RIP♡ || “Excuse My Rudeness\, But Could You Please RIP?” - Calliope Mori
+UID:5y3xh8gs24c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌枠？】今週練習した曲の発表会場だよ-さよならエレジー編-【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=lK-1IIYAumc
 DURATION:PT2H
 DTSTART:20200912T130000Z
@@ -263,13 +270,6 @@ SUMMARY:🏮夏色まつり: 【ヨッシーアイランド】運ぶでな('ω')
 UID:sbLzwrJzz_Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【クラフトピア/craftopia】ししろん探検隊#03 ～Re:自動化を求めて～ 【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=N_27SACWkfU
-DURATION:PT2H
-DTSTART:20200912T150000Z
-SUMMARY:獅白ぼたん: 【クラフトピア/craftopia】ししろん探検隊#03 ～Re:自動化を求めて～ 【獅白ぼたん/ホロライブ】
-UID:N_27SACWkfU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【赤マント】怖そう【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=p0LXUEbo8lI
 DURATION:PT2H
 DTSTART:20200912T140500Z
@@ -303,6 +303,13 @@ DURATION:PT2H
 DTSTART:20200913T010000Z
 SUMMARY:Amelia: 【COLLAB】The Interrogation Begins.... #hololiveEnglish #holoMyth
 UID:zkbXdXbs8vk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【パスパルトゥー】自分で絵を描き売りまくるやつ【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=Z7e4OvDeqGc
+DURATION:PT2H
+DTSTART:20200912T141000Z
+SUMMARY:🥐戌神ころね: 【パスパルトゥー】自分で絵を描き売りまくるやつ【戌神ころね/ホロライブ】
+UID:Z7e4OvDeqGc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【まったり雑談】9/12  おあようスバル with ちょこ先生【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=92pRbco8wdM
