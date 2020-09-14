@@ -102,18 +102,18 @@ SUMMARY:🎨Iofi: 【バンドリ！】Panen Star Untuk Waifu! 希那の為に�
 UID:ijBw90AFvVo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】僕も最近の悩みを聞いてくれ。僕もみんなの相談に乗るよ。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=RNuWEVAdBps
-DURATION:PT2H
-DTSTART:20200914T171500Z
-SUMMARY:🦔💨岸堂天真: 【雑談】僕も最近の悩みを聞いてくれ。僕もみんなの相談に乗るよ。【岸堂天真/ホロスターズ】
-UID:RNuWEVAdBps
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX LEGENDS】こちらチャンピオン部隊、夏を満喫する【芦枝レンリ/花咲みやび/アルランディス】\nhttps://www.youtube.com/watch?v=Js0BaNK3vcE
 DURATION:PT2H
 DTSTART:20200915T110000Z
 SUMMARY:🍕アルランディス: 【APEX LEGENDS】こちらチャンピオン部隊、夏を満喫する【芦枝レンリ/花咲みやび/アルランディス】
 UID:Js0BaNK3vcE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】僕も最近の悩みを聞いてくれ。僕もみんなの相談に乗るよ。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=RNuWEVAdBps
+DURATION:PT2H
+DTSTART:20200914T171500Z
+SUMMARY:🦔💨岸堂天真: 【雑談】僕も最近の悩みを聞いてくれ。僕もみんなの相談に乗るよ。【岸堂天真/ホロスターズ】
+UID:RNuWEVAdBps
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【速報】はあちゃま、ホロライブEN入る！( 願望 )【入社試験】\nhttps://www.youtube.com/watch?v=qPMwpqUaY9c
@@ -226,6 +226,13 @@ DURATION:PT2H
 DTSTART:20200916T110000Z
 SUMMARY:🚑大空スバル: 【】2周年おめでとうすばる【】
 UID:lQs07d12HDo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[MUSEDASH] SLEEP IS FOR WEAK #GAWRGURA #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=KEe_DpgxQf0
+DURATION:PT2H
+DTSTART:20200915T030500Z
+SUMMARY:Gura: [MUSEDASH] SLEEP IS FOR WEAK #GAWRGURA #hololiveEnglish #holoMyth
+UID:KEe_DpgxQf0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[Original Rap] ReaperかRapper? 自己紹介ラップ - Calliope Mori #holoMyth #hololiveEnglish\nhttps://www.youtube.com/watch?v=vz7JIBvAFqM
@@ -361,18 +368,18 @@ SUMMARY:🌽白上フブキ: 【#７】DEATH STRANDING：HOLOLIVEPORTER【ホロ
 UID:AYwx9Yr47-8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Unicorn debut (2nd)\nhttps://www.youtube.com/watch?v=Saot-bnZDz4
-DURATION:PT2H
-DTSTART:20200914T000000Z
-SUMMARY:Civia: Unicorn debut (2nd)
-UID:Saot-bnZDz4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX/カジュアル】朝のあぺ、ミラージュを添えてその２【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=vmP17gXWbwk
 DURATION:PT2H
 DTSTART:20200914T223000Z
 SUMMARY:🌽白上フブキ: 【APEX/カジュアル】朝のあぺ、ミラージュを添えてその２【ホロライブ/白上フブキ】
 UID:vmP17gXWbwk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Unicorn debut (2nd)\nhttps://www.youtube.com/watch?v=Saot-bnZDz4
+DURATION:PT2H
+DTSTART:20200914T000000Z
+SUMMARY:Civia: Unicorn debut (2nd)
+UID:Saot-bnZDz4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【クラフトピア/craftopia】バカタレ共同生活２日目！【白上フブキ先輩＆不知火フレア先輩＆角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=9DRpfLYElhI
@@ -403,6 +410,13 @@ SUMMARY:❤赤井はあと: 【Minecraft】ホロ鯖ガンギマリ化・・・�
 UID:_eizwEQGl6Y
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【マリオカート８DX】一緒に走ろう~！！？【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=fuhUsBe8MPk
+DURATION:PT2H
+DTSTART:20200915T090000Z
+SUMMARY:🦋潤羽るしあ: 【マリオカート８DX】一緒に走ろう~！！？【潤羽るしあ/ホロライブ】
+UID:fuhUsBe8MPk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】全試合黒字でシルバー2を目指すAPEX!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=PNJQpe7dXxA
 DURATION:PT2H
 DTSTART:20200914T082000Z
@@ -415,13 +429,6 @@ DURATION:PT2H
 DTSTART:20200914T133000Z
 SUMMARY:尾丸ポルカ: 【衝撃】大解剖ポルカPCのスペック/POLTATO PC【ホロライブ/尾丸ポルカ】
 UID:3Ej5_gUJgiA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオカート８DX】一緒に走ろう~！！？【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=fuhUsBe8MPk
-DURATION:PT2H
-DTSTART:20200915T090000Z
-SUMMARY:🦋潤羽るしあ: 【マリオカート８DX】一緒に走ろう~！！？【潤羽るしあ/ホロライブ】
-UID:fuhUsBe8MPk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【あつ森】秋アプデ☆旅行券で住民厳選！ぼんやり枠開放【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=zUH9rbprQDQ
