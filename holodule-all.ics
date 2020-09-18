@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【雑談】風邪が治ったから活力に満ちている。みんな元気？【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=ICZFtq0Hg5s
-DURATION:PT2H
-DTSTART:20200918T171500Z
-SUMMARY:🦔💨岸堂天真: 【雑談】風邪が治ったから活力に満ちている。みんな元気？【岸堂天真/ホロスターズ】
-UID:ICZFtq0Hg5s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【hololiveID】Risu is now a bartender !!! #3 【Ayunda Risu】\nhttps://www.youtube.com/watch?v=xBMvyjp5GOk
 DURATION:PT2H
 DTSTART:20200918T130000Z
@@ -44,6 +37,13 @@ DURATION:PT2H
 DTSTART:20200917T210000Z
 SUMMARY:Gura: [BIG NEWS] SHARK SHARK SHARK!! #GAWRGURA #hololiveEnglish #holoMyth
 UID:97w16cYskVI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【31~33万人記念】英語以外を喋ったら体が分裂！？そんな記念日があってもいい・・・のか！？【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=BgxJTsONrHA
+DURATION:PT2H
+DTSTART:20200918T143000Z
+SUMMARY:🤖ロボ子さん: 【31~33万人記念】英語以外を喋ったら体が分裂！？そんな記念日があってもいい・・・のか！？【ホロライブ/ロボ子さん】
+UID:BgxJTsONrHA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Valorant】PRO Caster! Viper MAIN\nhttps://www.youtube.com/watch?v=nFEI1VTZeos
@@ -156,6 +156,13 @@ DURATION:PT2H
 DTSTART:20200918T000000Z
 SUMMARY:雪花ラミィ: 【#らみらいぶ】金曜日の朝活雑談【9月18日】
 UID:0QPdr8jF1i8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【影廊】怖さに負けない、霊魂の淵叢【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=Nr9QoxLtkO8
+DURATION:PT2H
+DTSTART:20200919T090000Z
+SUMMARY:🦋潤羽るしあ: 【影廊】怖さに負けない、霊魂の淵叢【潤羽るしあ/ホロライブ】
+UID:Nr9QoxLtkO8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🔴REC しているだけ【ホロライブ/尾丸ポルカ】\nhttps://www.youtube.com/watch?v=K3HffWpM5RY
@@ -275,6 +282,13 @@ DURATION:PT2H
 DTSTART:20200917T230000Z
 SUMMARY:Ina: 【CALL OF CTHULHU】 Cthulhu is Spelt with Two H #TAKOTIME #hololiveEnglish #holoMyth
 UID:8DsOqORlvk8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マインクラフト】ついに内装に手を出すのか...？！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=Cg3jB_5Da-Y
+DURATION:PT2H
+DTSTART:20200918T140000Z
+SUMMARY:🐏角巻わため: 【マインクラフト】ついに内装に手を出すのか...？！【角巻わため/ホロライブ４期生】
+UID:Cg3jB_5Da-Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#wows】World of Warshipsトランスフォーマーコラボで撃ち合い！【ホロライブ】\nhttps://www.youtube.com/watch?v=_oR7ccXiunY
@@ -403,11 +417,11 @@ SUMMARY:🍬姫森ルーナ: 【Fall Guys】1位取ったらHot Dog🌭に復讐
 UID:hbRb-vPABws
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【深夜雑談枠】真夜中のコソコソ雑談【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=DRljaj1t5EM
+DESCRIPTION:【80万人晩酌】歌って呑んでお祝いだ～！【みんなに感謝】\nhttps://www.youtube.com/watch?v=ivaf58kTVxc
 DURATION:PT2H
-DTSTART:20200918T160000Z
-SUMMARY:⚙律可: 【深夜雑談枠】真夜中のコソコソ雑談【律可/ホロスターズ】
-UID:DRljaj1t5EM
+DTSTART:20200918T150000Z
+SUMMARY:🥐戌神ころね: 【80万人晩酌】歌って呑んでお祝いだ～！【みんなに感謝】
+UID:ivaf58kTVxc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】喉と勝負する昼【ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=qyC1yWgvLSQ
@@ -415,6 +429,13 @@ DURATION:PT2H
 DTSTART:20200918T030000Z
 SUMMARY:桃鈴ねね: 【雑談】喉と勝負する昼【ホロライブ/桃鈴ねね】
 UID:qyC1yWgvLSQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【深夜雑談枠】真夜中のコソコソ雑談【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=DRljaj1t5EM
+DURATION:PT2H
+DTSTART:20200918T160000Z
+SUMMARY:⚙律可: 【深夜雑談枠】真夜中のコソコソ雑談【律可/ホロスターズ】
+UID:DRljaj1t5EM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】週末がやってくるぞ！【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=0IAOFXqyPnE
