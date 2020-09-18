@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Building time! Let's make Monas!【Moona】\nhttps://www.youtube.com/watch?v=T4ehE-1gdBE
+DURATION:PT2H
+DTSTART:20200918T153102Z
+SUMMARY:🔮Moona: 【Minecraft】Building time! Let's make Monas!【Moona】
+UID:T4ehE-1gdBE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Live Draw】Kenalan Lebih Lanjut Dengan MEDIBANG! Bisa? O Pasti Bisa!【hololiveID】\nhttps://www.youtube.com/watch?v=b7i8TnKqxVY
 DURATION:PT2H
 DTSTART:20200918T121500Z
@@ -11,17 +18,17 @@ SUMMARY:🎨Iofi: 【Live Draw】Kenalan Lebih Lanjut Dengan MEDIBANG! Bisa? O P
 UID:b7i8TnKqxVY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【hololiveID】Risu is now a bartender !!! #3 【Ayunda Risu】\nhttps://www.youtube.com/watch?v=xBMvyjp5GOk
+DURATION:PT2H
+DTSTART:20200918T130000Z
+SUMMARY:🐿Risu: 【hololiveID】Risu is now a bartender !!! #3 【Ayunda Risu】
+UID:xBMvyjp5GOk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MoonUtau】Karaoke Time! | EN【Moona】\nhttps://www.youtube.com/watch?v=BTT9KpM-cZ4
 DURATION:PT2H
 DTSTART:20200918T130001Z
 SUMMARY:🔮Moona: 【MoonUtau】Karaoke Time! | EN【Moona】
 UID:BTT9KpM-cZ4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Building time! Let's make Monas!【Moona】\nhttps://www.youtube.com/watch?v=T4ehE-1gdBE
-DURATION:PT2H
-DTSTART:20200918T153102Z
-SUMMARY:🔮Moona: 【Minecraft】Building time! Let's make Monas!【Moona】
-UID:T4ehE-1gdBE
 END:VEVENT
 END:VCALENDAR
