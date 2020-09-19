@@ -53,13 +53,6 @@ SUMMARY:🤖ロボ子さん: 【31~33万人記念】英語以外を喋ったら�
 UID:BgxJTsONrHA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【あつ森】あつ森しながらマフィ朝活【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=dswA84bw8I4
-DURATION:PT2H
-DTSTART:20200919T000000Z
-SUMMARY:影山シエン: 【あつ森】あつ森しながらマフィ朝活【影山シエン/ホロスターズ】
-UID:dswA84bw8I4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Valorant】PRO Caster! Viper MAIN\nhttps://www.youtube.com/watch?v=nFEI1VTZeos
 DURATION:PT2H
 DTSTART:20200919T000000Z
@@ -86,6 +79,13 @@ DURATION:PT2H
 DTSTART:20200918T130000Z
 SUMMARY:尾丸ポルカ: マイクラホロ鯖5期生はじめまして【ホロライブ/尾丸ポルカ】
 UID:rJ9ywp5wgJI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】🐡常闇ウォーターパーク作成🐡【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=49FhMZ_8h1s
+DURATION:PT2H
+DTSTART:20200918T230000Z
+SUMMARY:👾常闇トワ: 【Minecraft】🐡常闇ウォーターパーク作成🐡【常闇トワ/ホロライブ】
+UID:49FhMZ_8h1s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【公式切り抜き】クソ雑魚すぎる雪山人狼まとめ【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=qiy-F8qendc
@@ -221,18 +221,18 @@ SUMMARY:Kiara: 【SM64】IT ARRIVED SO LETS PLAY #kfp #キアライブ
 UID:7yLdZIioDFA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マイクラ】材料集めの旅～！！！【ホロライブ/戌神ころね】\nhttps://www.youtube.com/watch?v=_uWbt4mpeJA
-DURATION:PT2H
-DTSTART:20200918T060000Z
-SUMMARY:🥐戌神ころね: 【マイクラ】材料集めの旅～！！！【ホロライブ/戌神ころね】
-UID:_uWbt4mpeJA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【おえかきの森】みんなでおえかき勝負ある✨【ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=Wp5c3X_DuR4
 DURATION:PT2H
 DTSTART:20200918T100000Z
 SUMMARY:桃鈴ねね: 【おえかきの森】みんなでおえかき勝負ある✨【ホロライブ/桃鈴ねね】
 UID:Wp5c3X_DuR4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マイクラ】材料集めの旅～！！！【ホロライブ/戌神ころね】\nhttps://www.youtube.com/watch?v=_uWbt4mpeJA
+DURATION:PT2H
+DTSTART:20200918T060000Z
+SUMMARY:🥐戌神ころね: 【マイクラ】材料集めの旅～！！！【ホロライブ/戌神ころね】
+UID:_uWbt4mpeJA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】久しぶり！ホロ鯖探検！【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=zhqytNyqC8M
@@ -263,18 +263,18 @@ SUMMARY:🎭アステル・レダ: 【マジで、守る。】ゴッドハンド
 UID:2mVK5sNUFVY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SUPERCHATS】ALL OF THEM. #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=UV_tgiMmG1I
-DURATION:PT2H
-DTSTART:20200919T080000Z
-SUMMARY:Calli: 【SUPERCHATS】ALL OF THEM. #hololiveEnglish #holoMyth
-UID:UV_tgiMmG1I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DreadOut】怖がってる演技なのらよ…？？【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=3CZp_CDcV_A
 DURATION:PT2H
 DTSTART:20200918T150000Z
 SUMMARY:🍬姫森ルーナ: 【DreadOut】怖がってる演技なのらよ…？？【姫森ルーナ/ホロライブ】
 UID:3CZp_CDcV_A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SUPERCHATS】ALL OF THEM. #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=UV_tgiMmG1I
+DURATION:PT2H
+DTSTART:20200919T080000Z
+SUMMARY:Calli: 【SUPERCHATS】ALL OF THEM. #hololiveEnglish #holoMyth
+UID:UV_tgiMmG1I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:久しぶりに皆とお話したいな？【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=zunRepZP_o0
@@ -396,10 +396,10 @@ SUMMARY:🌟夜空メル: 【 Fall Guys】今度こそ、1位を目指して…�
 UID:zwFSBWW2ziE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ホロ鯖YAGOO炎上、その後・・・【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=TCyVS6p1-yc
+DESCRIPTION:【Minecraft】ホロ鯖YAGOO増殖中・・・！？【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=TCyVS6p1-yc
 DURATION:PT2H
-DTSTART:20200919T030000Z
-SUMMARY:❤赤井はあと: 【Minecraft】ホロ鯖YAGOO炎上、その後・・・【ホロライブ/赤井はあと】
+DTSTART:20200919T030500Z
+SUMMARY:❤赤井はあと: 【Minecraft】ホロ鯖YAGOO増殖中・・・！？【ホロライブ/赤井はあと】
 UID:TCyVS6p1-yc
 END:VEVENT
 BEGIN:VEVENT
@@ -445,13 +445,6 @@ SUMMARY:🌙紫咲シオン: 【マインクラフト】久々深夜のマイク
 UID:bpu2gHmluCA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[DARK DECEPTION] MONKEY #GAWRGURA #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=nnE0fyh-E8w
-DURATION:PT2H
-DTSTART:20200920T023000Z
-SUMMARY:Gura: [DARK DECEPTION] MONKEY #GAWRGURA #hololiveEnglish #holoMyth
-UID:nnE0fyh-E8w
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Ender Dragon RTA  ver 1.7.10【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=5Dk-Y8ExVa8
 DURATION:PT2H
 DTSTART:20200919T060000Z
@@ -466,9 +459,16 @@ SUMMARY:🍬姫森ルーナ: 【Fall Guys】1位取ったらHot Dog🌭をもぐ
 UID:hbRb-vPABws
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:[DARK DECEPTION] MONKEY #GAWRGURA #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=nnE0fyh-E8w
+DURATION:PT2H
+DTSTART:20200920T023000Z
+SUMMARY:Gura: [DARK DECEPTION] MONKEY #GAWRGURA #hololiveEnglish #holoMyth
+UID:nnE0fyh-E8w
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Mad Father】Why is dad mad?? LET'S FIND OUT. #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=7R6XWsdPom8
 DURATION:PT2H
-DTSTART:20200919T030000Z
+DTSTART:20200919T030021Z
 SUMMARY:Calli: 【Mad Father】Why is dad mad?? LET'S FIND OUT. #hololiveEnglish #holoMyth
 UID:7R6XWsdPom8
 END:VEVENT
@@ -480,13 +480,6 @@ SUMMARY:🥐戌神ころね: 【80万人晩酌】歌って呑んでお祝いだ�
 UID:ivaf58kTVxc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【深夜雑談枠】真夜中のコソコソ雑談【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=DRljaj1t5EM
-DURATION:PT2H
-DTSTART:20200918T160000Z
-SUMMARY:⚙律可: 【深夜雑談枠】真夜中のコソコソ雑談【律可/ホロスターズ】
-UID:DRljaj1t5EM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】喉と勝負する昼【ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=qyC1yWgvLSQ
 DURATION:PT2H
 DTSTART:20200918T030000Z
@@ -494,18 +487,18 @@ SUMMARY:桃鈴ねね: 【雑談】喉と勝負する昼【ホロライブ/桃鈴
 UID:qyC1yWgvLSQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【深夜雑談枠】真夜中のコソコソ雑談【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=DRljaj1t5EM
+DURATION:PT2H
+DTSTART:20200918T160000Z
+SUMMARY:⚙律可: 【深夜雑談枠】真夜中のコソコソ雑談【律可/ホロスターズ】
+UID:DRljaj1t5EM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【BF4】朝活BF４!!!戦場でハチャメチャに暴れる狐【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=keg90ItEEUg
 DURATION:PT2H
 DTSTART:20200919T013000Z
 SUMMARY:🌽白上フブキ: 【BF4】朝活BF４!!!戦場でハチャメチャに暴れる狐【ホロライブ/白上フブキ】
 UID:keg90ItEEUg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:YOU ARE SUPER\, SHARK! #GAWRGURA #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=gbFmjh8ucSo
-DURATION:PT2H
-DTSTART:20200919T020000Z
-SUMMARY:Gura: YOU ARE SUPER\, SHARK! #GAWRGURA #hololiveEnglish #holoMyth
-UID:gbFmjh8ucSo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】週末がやってくるぞ！【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=0IAOFXqyPnE
