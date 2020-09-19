@@ -67,10 +67,10 @@ SUMMARY:Amelia: 【Valorant】PRO Caster! Viper MAIN
 UID:nFEI1VTZeos
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【配信予定】ぺこ！？【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=OemgFuxztY4
+DESCRIPTION:【ゼノブレイド】英雄になるのはぺこらだああああああああああ！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=OemgFuxztY4
 DURATION:PT2H
 DTSTART:20200919T040000Z
-SUMMARY:👯兎田ぺこら: 【配信予定】ぺこ！？【ホロライブ/兎田ぺこら】
+SUMMARY:👯兎田ぺこら: 【ゼノブレイド】英雄になるのはぺこらだああああああああああ！！！ぺこ！【ホロライブ/兎田ぺこら】
 UID:OemgFuxztY4
 END:VEVENT
 BEGIN:VEVENT
@@ -228,18 +228,18 @@ SUMMARY:Kiara: 【SM64】IT ARRIVED SO LETS PLAY #kfp #キアライブ
 UID:7yLdZIioDFA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【おえかきの森】みんなでおえかき勝負ある✨【ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=Wp5c3X_DuR4
-DURATION:PT2H
-DTSTART:20200918T100000Z
-SUMMARY:桃鈴ねね: 【おえかきの森】みんなでおえかき勝負ある✨【ホロライブ/桃鈴ねね】
-UID:Wp5c3X_DuR4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【マイクラ】材料集めの旅～！！！【ホロライブ/戌神ころね】\nhttps://www.youtube.com/watch?v=_uWbt4mpeJA
 DURATION:PT2H
 DTSTART:20200918T060000Z
 SUMMARY:🥐戌神ころね: 【マイクラ】材料集めの旅～！！！【ホロライブ/戌神ころね】
 UID:_uWbt4mpeJA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【おえかきの森】みんなでおえかき勝負ある✨【ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=Wp5c3X_DuR4
+DURATION:PT2H
+DTSTART:20200918T100000Z
+SUMMARY:桃鈴ねね: 【おえかきの森】みんなでおえかき勝負ある✨【ホロライブ/桃鈴ねね】
+UID:Wp5c3X_DuR4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】久しぶり！ホロ鯖探検！【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=zhqytNyqC8M
@@ -270,18 +270,18 @@ SUMMARY:🎭アステル・レダ: 【マジで、守る。】ゴッドハンド
 UID:2mVK5sNUFVY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DreadOut】怖がってる演技なのらよ…？？【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=3CZp_CDcV_A
-DURATION:PT2H
-DTSTART:20200918T150000Z
-SUMMARY:🍬姫森ルーナ: 【DreadOut】怖がってる演技なのらよ…？？【姫森ルーナ/ホロライブ】
-UID:3CZp_CDcV_A
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【SUPERCHATS】ALL OF THEM. #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=UV_tgiMmG1I
 DURATION:PT2H
 DTSTART:20200919T080000Z
 SUMMARY:Calli: 【SUPERCHATS】ALL OF THEM. #hololiveEnglish #holoMyth
 UID:UV_tgiMmG1I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DreadOut】怖がってる演技なのらよ…？？【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=3CZp_CDcV_A
+DURATION:PT2H
+DTSTART:20200918T150000Z
+SUMMARY:🍬姫森ルーナ: 【DreadOut】怖がってる演技なのらよ…？？【姫森ルーナ/ホロライブ】
+UID:3CZp_CDcV_A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:久しぶりに皆とお話したいな？【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=zunRepZP_o0
@@ -452,10 +452,17 @@ SUMMARY:Gura: [DARK DECEPTION] MONKEY #GAWRGURA #hololiveEnglish #holoMyth
 UID:nnE0fyh-E8w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Fall Guys】1位取ったらHot Dog🌭に復讐するのら…！！！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=hbRb-vPABws
+DESCRIPTION:【Minecraft】Ender Dragon RTA  ver 1.7.10【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=5Dk-Y8ExVa8
+DURATION:PT2H
+DTSTART:20200919T060000Z
+SUMMARY:🌽白上フブキ: 【Minecraft】Ender Dragon RTA  ver 1.7.10【ホロライブ/白上フブキ】
+UID:5Dk-Y8ExVa8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Fall Guys】1位取ったらHot Dog🌭をもぐもぐしちゃうなのらぞ【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=hbRb-vPABws
 DURATION:PT2H
 DTSTART:20200919T030000Z
-SUMMARY:🍬姫森ルーナ: 【Fall Guys】1位取ったらHot Dog🌭に復讐するのら…！！！【姫森ルーナ/ホロライブ】
+SUMMARY:🍬姫森ルーナ: 【Fall Guys】1位取ったらHot Dog🌭をもぐもぐしちゃうなのらぞ【姫森ルーナ/ホロライブ】
 UID:hbRb-vPABws
 END:VEVENT
 BEGIN:VEVENT
@@ -473,6 +480,13 @@ SUMMARY:🥐戌神ころね: 【80万人晩酌】歌って呑んでお祝いだ�
 UID:ivaf58kTVxc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【深夜雑談枠】真夜中のコソコソ雑談【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=DRljaj1t5EM
+DURATION:PT2H
+DTSTART:20200918T160000Z
+SUMMARY:⚙律可: 【深夜雑談枠】真夜中のコソコソ雑談【律可/ホロスターズ】
+UID:DRljaj1t5EM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】喉と勝負する昼【ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=qyC1yWgvLSQ
 DURATION:PT2H
 DTSTART:20200918T030000Z
@@ -480,11 +494,11 @@ SUMMARY:桃鈴ねね: 【雑談】喉と勝負する昼【ホロライブ/桃鈴
 UID:qyC1yWgvLSQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【深夜雑談枠】真夜中のコソコソ雑談【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=DRljaj1t5EM
+DESCRIPTION:【BF4】朝活BF４!!!戦場でハチャメチャに暴れる狐【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=keg90ItEEUg
 DURATION:PT2H
-DTSTART:20200918T160000Z
-SUMMARY:⚙律可: 【深夜雑談枠】真夜中のコソコソ雑談【律可/ホロスターズ】
-UID:DRljaj1t5EM
+DTSTART:20200919T013000Z
+SUMMARY:🌽白上フブキ: 【BF4】朝活BF４!!!戦場でハチャメチャに暴れる狐【ホロライブ/白上フブキ】
+UID:keg90ItEEUg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:YOU ARE SUPER\, SHARK! #GAWRGURA #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=gbFmjh8ucSo
