@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Building time! Let's make a Barn!【Moona】\nhttps://www.youtube.com/watch?v=T4ehE-1gdBE
-DURATION:PT2H
-DTSTART:20200918T153102Z
-SUMMARY:🔮Moona: 【Minecraft】Building time! Let's make a Barn!【Moona】
-UID:T4ehE-1gdBE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Live Draw】Kenalan Lebih Lanjut Dengan MEDIBANG! Bisa? O Pasti Bisa!【hololiveID】\nhttps://www.youtube.com/watch?v=b7i8TnKqxVY
 DURATION:PT2H
 DTSTART:20200918T121500Z
@@ -30,5 +23,19 @@ DURATION:PT2H
 DTSTART:20200918T130001Z
 SUMMARY:🔮Moona: 【MoonUtau】Karaoke Time! | EN【Moona】
 UID:BTT9KpM-cZ4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Building time! Let's make a Barn!【Moona】\nhttps://www.youtube.com/watch?v=T4ehE-1gdBE
+DURATION:PT2H
+DTSTART:20200918T153102Z
+SUMMARY:🔮Moona: 【Minecraft】Building time! Let's make a Barn!【Moona】
+UID:T4ehE-1gdBE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Plug & Play】Just. Stick. It. In.【hololiveID】\nhttps://www.youtube.com/watch?v=v-9-rWCx194
+DURATION:PT2H
+DTSTART:20200919T140000Z
+SUMMARY:🎨Iofi: 【Plug & Play】Just. Stick. It. In.【hololiveID】
+UID:v-9-rWCx194
 END:VEVENT
 END:VCALENDAR
