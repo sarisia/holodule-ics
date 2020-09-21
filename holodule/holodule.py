@@ -11,7 +11,15 @@ from holodule.schedule import Schedule
 
 CHUNK_SIZE = 50
 YOUTUBE_API = "https://www.googleapis.com/youtube/v3/videos"
-TARGET = ["all", "hololive", "holostars", "innk", "indonesia"]
+TARGET = [
+    "all",
+    "hololive",
+    "holostars",
+    "innk",
+    "china",
+    "indonesia",
+    "english"
+]
 log = getLogger(__name__)
 
 class Holodule():
