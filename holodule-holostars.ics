@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【歌枠】あ、歌…じゃん。【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=uTZVqFaO0SU
+DURATION:PT2H
+DTSTART:20200921T110000Z
+SUMMARY:🍷夕刻ロベル: 【歌枠】あ、歌…じゃん。【ホロスターズ/夕刻ロベル】
+UID:uTZVqFaO0SU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】マヒアのフィル活、案件を終えて・・・【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=cVvip0o_Wpc
 DURATION:PT2H
 DTSTART:20200921T030000Z
@@ -51,13 +58,6 @@ DURATION:PT2H
 DTSTART:20200920T040000Z
 SUMMARY:🍷夕刻ロベル: 【ゼノブレイド】初見で挑むゼノブレイド！－怒涛の展開！目が離せん！！－【ホロスターズ/夕刻ロベル】#8
 UID:n_GK9aFn-0Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Super Mario Galaxy】宇宙の旅にマリオと出かけよう！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=P2GzAlW0hE4
-DURATION:PT2H
-DTSTART:20200921T050000Z
-SUMMARY:🍕アルランディス: 【Super Mario Galaxy】宇宙の旅にマリオと出かけよう！【アルランディス/ホロスターズ】
-UID:P2GzAlW0hE4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【同時視聴】誰かが、見ている-全話ぶっ通し視聴会場-【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=2hqOuJNQH1E
