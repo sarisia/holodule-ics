@@ -1,7 +1,7 @@
 import asyncio
 from logging import getLogger
 from math import ceil
-from typing import Dict, Sequence, Set, Tuple
+from typing import Dict, Optional, Sequence, Set, Tuple, Union
 
 from aiohttp import ClientSession, ClientTimeout
 from lxml.html import document_fromstring
@@ -77,7 +77,7 @@ class Holodule():
         log.info("Done!")
 
     async def get_page(self, target:str="") -> Tuple[str, str]:
-        log.info("Getting page...")
+        log.info(f"Getting page '{target}'")
         async with self.session.get(f"{self.page_url}/{target}") as resp:
             if resp.status != 200:
                 raise HTTPStatusError(resp.status)
@@ -85,12 +85,12 @@ class Holodule():
             return target, await resp.text()
 
     async def get_pages(self, targets:Sequence[str]) -> Dict[str, str]:
-        pages = {}
+        pages: Dict[str, str] = {} # target: content
         tasks = [self.get_page(t) for t in targets]
-        res = await asyncio.gather(*tasks, return_exceptions=True)
+        res: Sequence[Union[Tuple[str, str], Exception]] = await asyncio.gather(*tasks, return_exceptions=True)
         for r in res:
             if isinstance(r, Exception):
-                log.error(f"failed to get page: {r}")
+                log.error(f"failed to get page '{r.target}': {r}")
                 continue
             target, content = r
             pages[target] = content
