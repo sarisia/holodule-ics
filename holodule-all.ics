@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:ちょとだけざつだん！chitchat\nhttps://www.youtube.com/watch?v=7_7X3szrSDg
-DURATION:PT2H
-DTSTART:20200922T130000Z
-SUMMARY:🐉桐生ココ: ちょとだけざつだん！chitchat
-UID:7_7X3szrSDg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:『Minecraft』ここからがいっちばんむずかしいんよ。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=WtjKs_lIJgo
 DURATION:PT2H
 DTSTART:20200921T172000Z
@@ -151,6 +144,13 @@ SUMMARY:尾丸ポルカ: 【世界のアソビ大全51】ヨットヨットヨ�
 UID:azNnqwKmu5A
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【雑談】ツイステ好き男達によるツイステトーク！【影山シエン/花幽カノン】\nhttps://www.youtube.com/watch?v=ZGlc4XMNmBs
+DURATION:PT2H
+DTSTART:20200923T120000Z
+SUMMARY:影山シエン: 【雑談】ツイステ好き男達によるツイステトーク！【影山シエン/花幽カノン】
+UID:ZGlc4XMNmBs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:スーパードンキーコング２じゃい！クリア耐久きーつね！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=VGIxK2EFhaU
 DURATION:PT2H
 DTSTART:20200923T140000Z
@@ -284,11 +284,11 @@ SUMMARY:🏴☠宝鐘マリン: 【Minecraft】まったり深夜あくあマリ
 UID:yPrUNmy0UeI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝活】おはコン🌽FOXラジオ#11【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=qtyF55697Xs
+DESCRIPTION:あさココLIVE 9/23 #asacoco\nhttps://www.youtube.com/watch?v=IVRnQtefKno
 DURATION:PT2H
-DTSTART:20200922T220000Z
-SUMMARY:🌽白上フブキ: 【朝活】おはコン🌽FOXラジオ#11【ホロライブ/白上フブキ】
-UID:qtyF55697Xs
+DTSTART:20200922T210000Z
+SUMMARY:🐉桐生ココ: あさココLIVE 9/23 #asacoco
+UID:IVRnQtefKno
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【COLLAB】Arknights waifu ranking with Ninomae Ina’nis #takotime #kfp #キアライブ\nhttps://www.youtube.com/watch?v=BEiVBJ0RuBE
@@ -296,6 +296,13 @@ DURATION:PT2H
 DTSTART:20200922T130000Z
 SUMMARY:Kiara: 【COLLAB】Arknights waifu ranking with Ninomae Ina’nis #takotime #kfp #キアライブ
 UID:BEiVBJ0RuBE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】おはコン🌽FOXラジオ#11【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=qtyF55697Xs
+DURATION:PT2H
+DTSTART:20200922T220000Z
+SUMMARY:🌽白上フブキ: 【朝活】おはコン🌽FOXラジオ#11【ホロライブ/白上フブキ】
+UID:qtyF55697Xs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Dark Deception】猿如きに屈しない【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=l-0IbJwtxxo
@@ -317,13 +324,6 @@ DURATION:PT2H
 DTSTART:20200922T030000Z
 SUMMARY:Gura: [AMONG THE SLEEP] SBABY BSHARK #GAWRGURA #hololiveEnglish #holoMyth
 UID:8uTpzi1f3Tc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【生活向上委員会】アルランディス、寝具を買う【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=bDNu5ksSFlg
-DURATION:PT2H
-DTSTART:20200922T143000Z
-SUMMARY:🍕アルランディス: 【生活向上委員会】アルランディス、寝具を買う【アルランディス/ホロスターズ】
-UID:bDNu5ksSFlg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:「はあちゃまっちゃま～」で We will rock you歌ってみた！\nhttps://www.youtube.com/watch?v=oyeunIMPYKo
