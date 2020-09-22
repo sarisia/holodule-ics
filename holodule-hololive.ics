@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:ちょとだけざつだん！chitchat\nhttps://www.youtube.com/watch?v=7_7X3szrSDg
-DURATION:PT2H
-DTSTART:20200922T130000Z
-SUMMARY:🐉桐生ココ: ちょとだけざつだん！chitchat
-UID:7_7X3szrSDg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Penguin's Dogma/獄門ペンギン】今日こそペンギンと戯れるぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=Bt6PkAEAj5g
 DURATION:PT2H
 DTSTART:20200922T120000Z
@@ -191,6 +184,13 @@ DURATION:PT2H
 DTSTART:20200922T160000Z
 SUMMARY:🏴☠宝鐘マリン: 【Minecraft】まったり深夜あくあマリン号建築【ホロライブ/宝鐘マリン】
 UID:yPrUNmy0UeI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:あさココLIVE 9/23 #asacoco\nhttps://www.youtube.com/watch?v=IVRnQtefKno
+DURATION:PT2H
+DTSTART:20200922T210000Z
+SUMMARY:🐉桐生ココ: あさココLIVE 9/23 #asacoco
+UID:IVRnQtefKno
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【craftopia】自分がゲームの世界に！？噂のMODでモデルを入れてみた！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=oIfGh79dNN4
