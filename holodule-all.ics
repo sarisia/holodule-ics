@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】あ、歌…じゃん。【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=uTZVqFaO0SU
-DURATION:PT2H
-DTSTART:20200921T110000Z
-SUMMARY:🍷夕刻ロベル: 【歌枠】あ、歌…じゃん。【ホロスターズ/夕刻ロベル】
-UID:uTZVqFaO0SU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Super Mario Galaxy】重力の扱いがとんでもないよぉ！#２【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=koA5LZNshV0
 DURATION:PT2H
 DTSTART:20200922T050000Z
@@ -324,6 +317,13 @@ DURATION:PT2H
 DTSTART:20200920T210000Z
 SUMMARY:🐉桐生ココ: あさココLIVE 9/21 #asacoco
 UID:CqY-yyNC4-k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【アソビ大全】楽しいヨット生活【雪花ラミィ/尾丸ポルカ】\nhttps://www.youtube.com/watch?v=Hyh2Yi8Nxnk
+DURATION:PT2H
+DTSTART:20200922T120000Z
+SUMMARY:雪花ラミィ: 【アソビ大全】楽しいヨット生活【雪花ラミィ/尾丸ポルカ】
+UID:Hyh2Yi8Nxnk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】感謝の枠【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=hgMxJ6Hz_ks
