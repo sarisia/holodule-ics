@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:ちょとだけざつだん！chitchat\nhttps://www.youtube.com/watch?v=7_7X3szrSDg
+DURATION:PT2H
+DTSTART:20200922T130000Z
+SUMMARY:🐉桐生ココ: ちょとだけざつだん！chitchat
+UID:7_7X3szrSDg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:『Minecraft』ここからがいっちばんむずかしいんよ。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=WtjKs_lIJgo
 DURATION:PT2H
 DTSTART:20200921T172000Z
@@ -30,13 +37,6 @@ DURATION:PT2H
 DTSTART:20200922T130000Z
 SUMMARY:桃鈴ねね: 【マイクラ】マグマ飛び込むある【ホロライブ/桃鈴ねね】
 UID:d0EAmUiOUwM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#いちちょこ】いちか様と初心者APEX【あにまーれ/宗谷いちか/ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=Gwk9CJq0mjs
-DURATION:PT2H
-DTSTART:20200922T130000Z
-SUMMARY:💋癒月ちょこ: 【#いちちょこ】いちか様と初心者APEX【あにまーれ/宗谷いちか/ホロライブ/癒月ちょこ】
-UID:Gwk9CJq0mjs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Tulip\nhttps://www.youtube.com/watch?v=KQvHEo_dazE
@@ -270,18 +270,18 @@ SUMMARY:⚒AZKi: 【制作秘話！？】『紅藍クロニクル』リリース
 UID:ZqQ_GL4Efl4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌雑談】40万人見届けたかった深夜のお歌✨【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=7-SgCa3z-Wo
-DURATION:PT2H
-DTSTART:20200922T160000Z
-SUMMARY:🌙紫咲シオン: 【歌雑談】40万人見届けたかった深夜のお歌✨【ホロライブ/紫咲シオン】
-UID:7-SgCa3z-Wo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】まったり深夜あくあマリン号建築【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=yPrUNmy0UeI
 DURATION:PT2H
 DTSTART:20200922T160000Z
 SUMMARY:🏴☠宝鐘マリン: 【Minecraft】まったり深夜あくあマリン号建築【ホロライブ/宝鐘マリン】
 UID:yPrUNmy0UeI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌雑談】40万人見届けたかった深夜のお歌✨【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=7-SgCa3z-Wo
+DURATION:PT2H
+DTSTART:20200922T160000Z
+SUMMARY:🌙紫咲シオン: 【歌雑談】40万人見届けたかった深夜のお歌✨【ホロライブ/紫咲シオン】
+UID:7-SgCa3z-Wo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:あさココLIVE 9/23 #asacoco\nhttps://www.youtube.com/watch?v=IVRnQtefKno
@@ -324,6 +324,13 @@ DURATION:PT2H
 DTSTART:20200922T030000Z
 SUMMARY:Gura: [AMONG THE SLEEP] SBABY BSHARK #GAWRGURA #hololiveEnglish #holoMyth
 UID:8uTpzi1f3Tc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【生活向上委員会】アルランディス、寝具を買う【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=bDNu5ksSFlg
+DURATION:PT2H
+DTSTART:20200922T143000Z
+SUMMARY:🍕アルランディス: 【生活向上委員会】アルランディス、寝具を買う【アルランディス/ホロスターズ】
+UID:bDNu5ksSFlg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:「はあちゃまっちゃま～」で We will rock you歌ってみた！\nhttps://www.youtube.com/watch?v=oyeunIMPYKo
@@ -380,12 +387,5 @@ DURATION:PT2H
 DTSTART:20200921T150000Z
 SUMMARY:🍷夕刻ロベル: 【ゼノブレイド】番外編！－レベルが足んねぇ！－【ホロスターズ/夕刻ロベル】
 UID:V4sNmnnQirA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ENGLISH SINGING ※No  archive\nhttps://www.youtube.com/watch?v=Wc7Dd_CFikw
-DURATION:PT2H
-DTSTART:20200922T150000Z
-SUMMARY:❤赤井はあと: ENGLISH SINGING ※No  archive
-UID:Wc7Dd_CFikw
 END:VEVENT
 END:VCALENDAR
