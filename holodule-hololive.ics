@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:ちょとだけざつだん！chitchat\nhttps://www.youtube.com/watch?v=7_7X3szrSDg
+DURATION:PT2H
+DTSTART:20200922T130000Z
+SUMMARY:🐉桐生ココ: ちょとだけざつだん！chitchat
+UID:7_7X3szrSDg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Penguin's Dogma/獄門ペンギン】今日こそペンギンと戯れるぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=Bt6PkAEAj5g
 DURATION:PT2H
 DTSTART:20200922T120000Z
@@ -16,13 +23,6 @@ DURATION:PT2H
 DTSTART:20200922T130000Z
 SUMMARY:桃鈴ねね: 【マイクラ】マグマ飛び込むある【ホロライブ/桃鈴ねね】
 UID:d0EAmUiOUwM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#いちちょこ】いちか様と初心者APEX【あにまーれ/宗谷いちか/ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=Gwk9CJq0mjs
-DURATION:PT2H
-DTSTART:20200922T130000Z
-SUMMARY:💋癒月ちょこ: 【#いちちょこ】いちか様と初心者APEX【あにまーれ/宗谷いちか/ホロライブ/癒月ちょこ】
-UID:Gwk9CJq0mjs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Tulip\nhttps://www.youtube.com/watch?v=KQvHEo_dazE
@@ -247,12 +247,5 @@ DURATION:PT2H
 DTSTART:20200921T160000Z
 SUMMARY:🔥不知火フレア: 【お泊りオフ/INFLICTION】三人でやれば怖くない！？【#バカタレ共/ホロライブ】
 UID:cgxZPckXBjg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ENGLISH SINGING ※No  archive\nhttps://www.youtube.com/watch?v=Wc7Dd_CFikw
-DURATION:PT2H
-DTSTART:20200922T150000Z
-SUMMARY:❤赤井はあと: ENGLISH SINGING ※No  archive
-UID:Wc7Dd_CFikw
 END:VEVENT
 END:VCALENDAR
