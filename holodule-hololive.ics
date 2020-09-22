@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:ちょとだけざつだん！chitchat\nhttps://www.youtube.com/watch?v=7_7X3szrSDg
+DURATION:PT2H
+DTSTART:20200922T130000Z
+SUMMARY:🐉桐生ココ: ちょとだけざつだん！chitchat
+UID:7_7X3szrSDg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Penguin's Dogma/獄門ペンギン】今日こそペンギンと戯れるぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=Bt6PkAEAj5g
 DURATION:PT2H
 DTSTART:20200922T120000Z
@@ -44,6 +51,13 @@ DURATION:PT2H
 DTSTART:20200920T150000Z
 SUMMARY:🍎アキロゼ: 三月のパンタシア-コラージュ『 衛宮さんちの今日のごはんED』Hololive/アキ・ローゼンタール(Cover)
 UID:BmHBJg7_4jE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#Craftopia】目指せ！神様のいる！？浮島！【#桐生ココ】\nhttps://www.youtube.com/watch?v=qYsOvTwIxpc
+DURATION:PT2H
+DTSTART:20200922T110000Z
+SUMMARY:🐉桐生ココ: 【#Craftopia】目指せ！神様のいる！？浮島！【#桐生ココ】
+UID:qYsOvTwIxpc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マインクラフト/Minecraft 】まったり作業！建築資材を集めつつ自宅を建築！【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=hsCpp-GfF9U
