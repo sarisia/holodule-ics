@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【歌枠】あ、歌…じゃん。【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=uTZVqFaO0SU
+DURATION:PT2H
+DTSTART:20200921T110000Z
+SUMMARY:🍷夕刻ロベル: 【歌枠】あ、歌…じゃん。【ホロスターズ/夕刻ロベル】
+UID:uTZVqFaO0SU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Super Mario Galaxy】重力の扱いがとんでもないよぉ！#２【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=koA5LZNshV0
 DURATION:PT2H
 DTSTART:20200922T050000Z
@@ -100,13 +107,6 @@ DURATION:PT2H
 DTSTART:20200921T150000Z
 SUMMARY:🍷夕刻ロベル: 【ゼノブレイド】番外編！－レベルが足んねぇ！－【ホロスターズ/夕刻ロベル】
 UID:V4sNmnnQirA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#らみらいぶ】火曜日の朝活雑談【9月22日】\nhttps://www.youtube.com/watch?v=O8QsddT7IjQ
-DURATION:PT2H
-DTSTART:20200922T000000Z
-SUMMARY:雪花ラミィ: 【#らみらいぶ】火曜日の朝活雑談【9月22日】
-UID:O8QsddT7IjQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【初見実況】#２ゼルダの伝説・風のタクトやる！！！！The Legend of Zelda: The Wind Waker【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=6ckYPirMSsI
@@ -359,6 +359,13 @@ DURATION:PT2H
 DTSTART:20200921T040000Z
 SUMMARY:🍷夕刻ロベル: 【ゼノブレイド】初見で挑むゼノブレイド！－怒涛の展開！目が離せん！！－【ホロスターズ/夕刻ロベル】#9
 UID:kNwnhS4bQNE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RFA耐久】30万人到達まで終われまてんなのら！ It won't end until 300\,000 people are reached【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=YkiGBJJcFyY
+DURATION:PT2H
+DTSTART:20200922T020000Z
+SUMMARY:🍬姫森ルーナ: 【RFA耐久】30万人到達まで終われまてんなのら！ It won't end until 300\,000 people are reached【姫森ルーナ/ホロライブ】
+UID:YkiGBJJcFyY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【よるざつ】最近の話とかいろいろしたいよね【獅白ぼたん/ほろらいぶ】\nhttps://www.youtube.com/watch?v=ap6zAq1VBh0
