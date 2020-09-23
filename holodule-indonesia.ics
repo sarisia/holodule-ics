@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Craftopia】HOLOLIVE INDONESIA GIRLS! ASSEMBLE! 【hololiveID】\nhttps://www.youtube.com/watch?v=JWb8Q3JlhSo
-DURATION:PT2H
-DTSTART:20200923T130000Z
-SUMMARY:🎨Iofi: 【Craftopia】HOLOLIVE INDONESIA GIRLS! ASSEMBLE! 【hololiveID】
-UID:JWb8Q3JlhSo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【hololiveID】CRAFTOPIA with hololive Indonesia【Ayunda Risu】\nhttps://www.youtube.com/watch?v=GpM3BhRtows
 DURATION:PT2H
 DTSTART:20200923T130000Z
@@ -18,9 +11,16 @@ SUMMARY:🐿Risu: 【hololiveID】CRAFTOPIA with hololive Indonesia【Ayunda Ris
 UID:GpM3BhRtows
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Craftopia】Let's play Craftopia!【HoloID】\nhttps://www.youtube.com/watch?v=4vOsbK2fyWw
+DESCRIPTION:【Craftopia】HOLOLIVE INDONESIA GIRLS! ASSEMBLE! 【hololiveID】\nhttps://www.youtube.com/watch?v=0v_CwruCfrQ
 DURATION:PT2H
 DTSTART:20200923T130000Z
+SUMMARY:🎨Iofi: 【Craftopia】HOLOLIVE INDONESIA GIRLS! ASSEMBLE! 【hololiveID】
+UID:0v_CwruCfrQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Craftopia】Let's play Craftopia!【HoloID】\nhttps://www.youtube.com/watch?v=4vOsbK2fyWw
+DURATION:PT2H
+DTSTART:20200923T130030Z
 SUMMARY:🔮Moona: 【Craftopia】Let's play Craftopia!【HoloID】
 UID:4vOsbK2fyWw
 END:VEVENT
