@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【AMONG US】10窓する猛者いる!?無敗の騎士視点【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=-74P3oAI7yY
-DURATION:PT2H
-DTSTART:20200924T120500Z
-SUMMARY:🦔💨岸堂天真: 【AMONG US】10窓する猛者いる!?無敗の騎士視点【岸堂天真/ホロスターズ】
-UID:-74P3oAI7yY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Among Us】極限状態の宇宙で生き残れ！！！【影山シテン/ホロスターズ】\nhttps://www.youtube.com/watch?v=HSVsUwmt2vU
 DURATION:PT2H
 DTSTART:20200924T120000Z
 SUMMARY:影山シエン: 【Among Us】極限状態の宇宙で生き残れ！！！【影山シテン/ホロスターズ】
 UID:HSVsUwmt2vU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Among Us】この中に2人、裏切り者がいる-ホロスターズ全員コラボ-【アルランディス視点】\nhttps://www.youtube.com/watch?v=VzPlJf1GiTI
-DURATION:PT2H
-DTSTART:20200924T120000Z
-SUMMARY:🍕アルランディス: 【Among Us】この中に2人、裏切り者がいる-ホロスターズ全員コラボ-【アルランディス視点】
-UID:VzPlJf1GiTI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Among Us】we will enjoy space trip！！ホロスターズだよ全員集合【律可視点】#ホロスタAmongUs\nhttps://www.youtube.com/watch?v=s9c0FvRvshY
@@ -32,18 +18,53 @@ SUMMARY:⚙律可: 【Among Us】we will enjoy space trip！！ホロスター�
 UID:s9c0FvRvshY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Among Us】ホロスタが宇宙船に集まると人狼が始まる。【花咲みやび視点】\nhttps://www.youtube.com/watch?v=gwYbYi3Tnac
-DURATION:PT2H
-DTSTART:20200924T120000Z
-SUMMARY:🌺花咲みやび: 【Among Us】ホロスタが宇宙船に集まると人狼が始まる。【花咲みやび視点】
-UID:gwYbYi3Tnac
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Among Us】宇宙の彼方で何故彼が犠牲になったのか【荒咬オウガ視点】\nhttps://www.youtube.com/watch?v=mrvxoFNnl3g
 DURATION:PT2H
 DTSTART:20200924T120000Z
 SUMMARY:荒咬オウガ: 【Among Us】宇宙の彼方で何故彼が犠牲になったのか【荒咬オウガ視点】
 UID:mrvxoFNnl3g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【弾き語り枠】歌うことで助かる命もある【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=XwlVb4KZ8-g
+DURATION:PT2H
+DTSTART:20200925T140000Z
+SUMMARY:⚙律可: 【弾き語り枠】歌うことで助かる命もある【律可/ホロスターズ】
+UID:XwlVb4KZ8-g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】生活習慣改善－木曜日な訳ないって、俺は心からそう叫んだ－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=vwR-SdiUEI8
+DURATION:PT2H
+DTSTART:20200924T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－木曜日な訳ないって、俺は心からそう叫んだ－【ホロスターズ/夕刻ロベル】
+UID:vwR-SdiUEI8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【among us】僕は女の子なので嘘なんてつけません！！ホロスタ全員コラボ！【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=pWUT5a9CXqo
+DURATION:PT2H
+DTSTART:20200924T120000Z
+SUMMARY:💙鏡見キラ: 【among us】僕は女の子なので嘘なんてつけません！！ホロスタ全員コラボ！【ホロスターズ/鏡見キラ】
+UID:pWUT5a9CXqo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【AMONG US】10窓する猛者いる!?無敗の騎士視点【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=-74P3oAI7yY
+DURATION:PT2H
+DTSTART:20200924T120500Z
+SUMMARY:🦔💨岸堂天真: 【AMONG US】10窓する猛者いる!?無敗の騎士視点【岸堂天真/ホロスターズ】
+UID:-74P3oAI7yY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Among Us】この中に2人、裏切り者がいる-ホロスターズ全員コラボ-【アルランディス視点】\nhttps://www.youtube.com/watch?v=VzPlJf1GiTI
+DURATION:PT2H
+DTSTART:20200924T120000Z
+SUMMARY:🍕アルランディス: 【Among Us】この中に2人、裏切り者がいる-ホロスターズ全員コラボ-【アルランディス視点】
+UID:VzPlJf1GiTI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Among Us】ホロスタが宇宙船に集まると人狼が始まる。【花咲みやび視点】\nhttps://www.youtube.com/watch?v=gwYbYi3Tnac
+DURATION:PT2H
+DTSTART:20200924T120000Z
+SUMMARY:🌺花咲みやび: 【Among Us】ホロスタが宇宙船に集まると人狼が始まる。【花咲みやび視点】
+UID:gwYbYi3Tnac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ゼノブレイド】番外編！－もりもりレベルを上げて明日に備える回－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=J345y1xJzJo
@@ -74,32 +95,18 @@ SUMMARY:🎸奏手イヅル: #6 世の中舐めてるラジオ ~人にドン引�
 UID:YCRcpgpc5iE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【朝活】Todays Holostars ！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=VBql2EMhl5k
+DURATION:PT2H
+DTSTART:20200925T000000Z
+SUMMARY:🍕アルランディス: 【朝活】Todays Holostars ！【アルランディス/ホロスターズ】
+UID:VBql2EMhl5k
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【弾き語り】実家に帰ってしまう前に【奏手イヅル】\nhttps://www.youtube.com/watch?v=tdx59HvJIfM
 DURATION:PT2H
 DTSTART:20200924T090000Z
 SUMMARY:🎸奏手イヅル: 【弾き語り】実家に帰ってしまう前に【奏手イヅル】
 UID:tdx59HvJIfM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【弾き語り枠】歌うことで助かる命もある【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=XwlVb4KZ8-g
-DURATION:PT2H
-DTSTART:20200925T140000Z
-SUMMARY:⚙律可: 【弾き語り枠】歌うことで助かる命もある【律可/ホロスターズ】
-UID:XwlVb4KZ8-g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活】生活習慣改善－木曜日な訳ないって、俺は心からそう叫んだ－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=vwR-SdiUEI8
-DURATION:PT2H
-DTSTART:20200924T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－木曜日な訳ないって、俺は心からそう叫んだ－【ホロスターズ/夕刻ロベル】
-UID:vwR-SdiUEI8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【among us】僕は女の子なので嘘なんてつけません！！ホロスタ全員コラボ！【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=pWUT5a9CXqo
-DURATION:PT2H
-DTSTART:20200924T120000Z
-SUMMARY:💙鏡見キラ: 【among us】僕は女の子なので嘘なんてつけません！！ホロスタ全員コラボ！【ホロスターズ/鏡見キラ】
-UID:pWUT5a9CXqo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ゼノブレイド】初見で挑むゼノブレイド！－倒します－【ホロスターズ/夕刻ロベル】#10\nhttps://www.youtube.com/watch?v=3FsvGdZoiBI
