@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【深夜雑談】いつもありがとう、今日はすごかった【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=bBxPlyKgWO4
-DURATION:PT2H
-DTSTART:20200924T143000Z
-SUMMARY:🦋潤羽るしあ: 【深夜雑談】いつもありがとう、今日はすごかった【潤羽るしあ/ホロライブ】
-UID:bBxPlyKgWO4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ホロライブ身体測定】噂のサーカス美少女診察します！【ホロライブ/尾丸ポルカ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=REG1VCjKMTs
 DURATION:PT2H
 DTSTART:20200924T100000Z
@@ -51,6 +44,13 @@ DURATION:PT2H
 DTSTART:20200924T113000Z
 SUMMARY:獅白ぼたん: 【雀魂】いまから始める初心者のまーじゃん【獅白ぼたん/ホロライブ】
 UID:4IY2KBeQBk8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Building time! Let's make Monas!【Moona】\nhttps://www.youtube.com/watch?v=__nWEkKtDXU
+DURATION:PT2H
+DTSTART:20200924T130003Z
+SUMMARY:🔮Moona: 【Minecraft】Building time! Let's make Monas!【Moona】
+UID:__nWEkKtDXU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Fall Guys】1時間以内に優勝しないと罰ゲーム【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=ZSXYl0hOhuU
