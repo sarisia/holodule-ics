@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【深夜雑談】いつもありがとう、今日はすごかった【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=bBxPlyKgWO4
+DURATION:PT2H
+DTSTART:20200924T143000Z
+SUMMARY:🦋潤羽るしあ: 【深夜雑談】いつもありがとう、今日はすごかった【潤羽るしあ/ホロライブ】
+UID:bBxPlyKgWO4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Craftopia】HOLOLIVE INDONESIA GIRLS! ASSEMBLE! 【hololiveID】\nhttps://www.youtube.com/watch?v=0v_CwruCfrQ
 DURATION:PT2H
 DTSTART:20200923T130000Z
@@ -177,6 +184,13 @@ DURATION:PT2H
 DTSTART:20200924T030000Z
 SUMMARY:🤖ロボ子さん: 【APEX】ランクマ足掻いてみる【ホロライブ/ロボ子さん】
 UID:eqPBdKqkv-E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#桐生ココ】いざEXTINCTION!!ヴェロナサウルスをテイムしたい！【#とまらないARK】\nhttps://www.youtube.com/watch?v=7H0xQLDjOr8
+DURATION:PT2H
+DTSTART:20200924T130000Z
+SUMMARY:🐉桐生ココ: 【#桐生ココ】いざEXTINCTION!!ヴェロナサウルスをテイムしたい！【#とまらないARK】
+UID:7H0xQLDjOr8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【60 Seconds!】全員生存しか勝たん！覚醒せよメリージェーン【ホロライブ/宝鐘マリン・不知火フレア】\nhttps://www.youtube.com/watch?v=sQlFzT3uXko
@@ -382,6 +396,13 @@ SUMMARY:🤖ロボ子さん: 【マイクラ】整地したり土台つくった
 UID:0iG-7rwpUXE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【among us】僕は女の子なので嘘なんてつけません！！ホロスタ全員コラボ！【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=pWUT5a9CXqo
+DURATION:PT2H
+DTSTART:20200924T120000Z
+SUMMARY:💙鏡見キラ: 【among us】僕は女の子なので嘘なんてつけません！！ホロスタ全員コラボ！【ホロスターズ/鏡見キラ】
+UID:pWUT5a9CXqo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】夜食ちゃんぽん食べたい人外APEX【天神子兎音/獅子神レオナ/ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=TpHOnNb3kLU
 DURATION:PT2H
 DTSTART:20200924T130000Z
@@ -501,10 +522,10 @@ SUMMARY:🍙猫又おかゆ: 【雑談】頭からっぽっぽっぽ～～【ホ
 UID:np-pcBHqflg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Among Us】we will enjoy space trip！！ホロスターズだよ全員集合【律可視点】\nhttps://www.youtube.com/watch?v=s9c0FvRvshY
+DESCRIPTION:【Among Us】we will enjoy space trip！！ホロスターズだよ全員集合【律可視点】#ホロスタAmongUs\nhttps://www.youtube.com/watch?v=s9c0FvRvshY
 DURATION:PT2H
 DTSTART:20200924T120000Z
-SUMMARY:⚙律可: 【Among Us】we will enjoy space trip！！ホロスターズだよ全員集合【律可視点】
+SUMMARY:⚙律可: 【Among Us】we will enjoy space trip！！ホロスターズだよ全員集合【律可視点】#ホロスタAmongUs
 UID:s9c0FvRvshY
 END:VEVENT
 BEGIN:VEVENT
