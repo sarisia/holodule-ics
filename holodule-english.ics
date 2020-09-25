@@ -11,13 +11,6 @@ SUMMARY:Ina: 【LET'S WATCH】Color Out of Space Watchalong!
 UID:uDEGyaTeapc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Q&A STREAM】DO YOU HAVE AN INQUIRY? ...gimme that Q. #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=mGnKjLhQV2s
-DURATION:PT2H
-DTSTART:20200925T130014Z
-SUMMARY:Calli: 【Q&A STREAM】DO YOU HAVE AN INQUIRY? ...gimme that Q. #hololiveEnglish #holoMyth
-UID:mGnKjLhQV2s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【LIMBO】Starting new game + ANNOUNCEMENT!?!?\nhttps://www.youtube.com/watch?v=tAjYbySsGl4
 DURATION:PT2H
 DTSTART:20200925T190000Z
@@ -25,11 +18,11 @@ SUMMARY:Amelia: 【LIMBO】Starting new game + ANNOUNCEMENT!?!?
 UID:tAjYbySsGl4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Mosaic】Atmospheric Story Game!\nhttps://www.youtube.com/watch?v=iXUtt7MeI0g
+DESCRIPTION:【JP MAIN STREAM・日本語配信】マシュマロいっぱい答えて雑談しよー！ #kfp #キアライブ\nhttps://www.youtube.com/watch?v=oyc6ERMrWNg
 DURATION:PT2H
-DTSTART:20200924T210000Z
-SUMMARY:Amelia: 【Mosaic】Atmospheric Story Game!
-UID:iXUtt7MeI0g
+DTSTART:20200926T130000Z
+SUMMARY:Kiara: 【JP MAIN STREAM・日本語配信】マシュマロいっぱい答えて雑談しよー！ #kfp #キアライブ
+UID:oyc6ERMrWNg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FIRE EMBLEM: THREE HOUSES】I've chosen my PATH! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=l-KmJRVHIZ0
@@ -51,5 +44,26 @@ DURATION:PT2H
 DTSTART:20200925T102049Z
 SUMMARY:Amelia: 【COD】Trying out Warzone!
 UID:a-LP6UT8TyQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Q&A STREAM】DO YOU HAVE AN INQUIRY? ...gimme that Q. #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=mGnKjLhQV2s
+DURATION:PT2H
+DTSTART:20200925T130014Z
+SUMMARY:Calli: 【Q&A STREAM】DO YOU HAVE AN INQUIRY? ...gimme that Q. #hololiveEnglish #holoMyth
+UID:mGnKjLhQV2s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Mosaic】Atmospheric Story Game!\nhttps://www.youtube.com/watch?v=iXUtt7MeI0g
+DURATION:PT2H
+DTSTART:20200924T210000Z
+SUMMARY:Amelia: 【Mosaic】Atmospheric Story Game!
+UID:iXUtt7MeI0g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RESERVED SLOT】new mic? karaoke? ANNOUNCEMENT? #kfp #キアライブ\nhttps://www.youtube.com/watch?v=0_9pGc_qP9s
+DURATION:PT2H
+DTSTART:20200927T090000Z
+SUMMARY:Kiara: 【RESERVED SLOT】new mic? karaoke? ANNOUNCEMENT? #kfp #キアライブ
+UID:0_9pGc_qP9s
 END:VEVENT
 END:VCALENDAR
