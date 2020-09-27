@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【INFLICTION】ホラゲークリアまで…【ホロライブ/戌神ころね】\nhttps://www.youtube.com/watch?v=Pp6bErvpWHo
+DURATION:PT2H
+DTSTART:20200927T140000Z
+SUMMARY:🥐戌神ころね: 【INFLICTION】ホラゲークリアまで…【ホロライブ/戌神ころね】
+UID:Pp6bErvpWHo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【初見実況】#3 ゼルダの伝説・風のタクトやる！！ヤバい森にいく！！！The Legend of Zelda: The Wind Waker【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=zOBhKOFl-5Y
 DURATION:PT2H
 DTSTART:20200926T050000Z
@@ -107,13 +114,6 @@ DURATION:PT2H
 DTSTART:20200926T053000Z
 SUMMARY:桃鈴ねね: 【Good Job!】社長、きたある【ホロライブ/桃鈴ねね】
 UID:WP2Gn-k86A0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ゼノブレイド】初見で挑むゼノブレイド！－最終決戦！！未来を変える－【ホロスターズ/夕刻ロベル】#11\nhttps://www.youtube.com/watch?v=B9NEQKHwj-8
-DURATION:PT2H
-DTSTART:20200927T040000Z
-SUMMARY:🍷夕刻ロベル: 【ゼノブレイド】初見で挑むゼノブレイド！－最終決戦！！未来を変える－【ホロスターズ/夕刻ロベル】#11
-UID:B9NEQKHwj-8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Fall Guys】夏色吹雪の邪魔するやつはどこじゃい！！【白上フブキ/夏色まつり】\nhttps://www.youtube.com/watch?v=AaXt2KVJApE
@@ -340,10 +340,10 @@ SUMMARY:Amelia: 【MEMBERSHIP】Become an Investigator today!
 UID:pimxVr2fP9U
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Surgeon Simulator 2】#スバルーナ で人命救助してみせるのら！ 【姫森ルーナ/大空スバル/ホロライブ】\nhttps://www.youtube.com/watch?v=Bp78UIOLXA4
+DESCRIPTION:【マリオパーティ】#スバルーナ でパーリーナイなのら！ 【姫森ルーナ/大空スバル/ホロライブ】\nhttps://www.youtube.com/watch?v=Bp78UIOLXA4
 DURATION:PT2H
 DTSTART:20200927T100000Z
-SUMMARY:🍬姫森ルーナ: 【Surgeon Simulator 2】#スバルーナ で人命救助してみせるのら！ 【姫森ルーナ/大空スバル/ホロライブ】
+SUMMARY:🍬姫森ルーナ: 【マリオパーティ】#スバルーナ でパーリーナイなのら！ 【姫森ルーナ/大空スバル/ホロライブ】
 UID:Bp78UIOLXA4
 END:VEVENT
 BEGIN:VEVENT
@@ -506,6 +506,13 @@ DURATION:PT2H
 DTSTART:20200927T140000Z
 SUMMARY:🌲大神ミオ: 雑談＆スパチャありがとうで何時までやるのか怖い放送
 UID:0___DwYT8mE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【アニメ】動物番長を目指して\nhttps://www.youtube.com/watch?v=YpTAqjljvzg
+DURATION:PT2H
+DTSTART:20200927T090005Z
+SUMMARY:ホロライブ: 【アニメ】動物番長を目指して
+UID:YpTAqjljvzg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【日本語雑談】教えて！日本の文化を！さあ！【hololiveID】\nhttps://www.youtube.com/watch?v=ieIFqrXzxkw
