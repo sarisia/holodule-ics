@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【朝活】生活習慣改善－火曜日のことやる気でない曜日って言うなよ！－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=m3DjLAFrGcQ
-DURATION:PT2H
-DTSTART:20200929T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－火曜日のことやる気でない曜日って言うなよ！－【ホロスターズ/夕刻ロベル】
-UID:m3DjLAFrGcQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【晩酌雑談】誕生日や日頃のお礼を込めてのサンキュー雑談【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=0tKKES8O3Es
 DURATION:PT2H
 DTSTART:20200928T150000Z
 SUMMARY:🍷夕刻ロベル: 【晩酌雑談】誕生日や日頃のお礼を込めてのサンキュー雑談【ホロスターズ/夕刻ロベル】
 UID:0tKKES8O3Es
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】生活習慣改善－火曜日のことやる気でない曜日って言うなよ！－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=m3DjLAFrGcQ
+DURATION:PT2H
+DTSTART:20200929T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－火曜日のことやる気でない曜日って言うなよ！－【ホロスターズ/夕刻ロベル】
+UID:m3DjLAFrGcQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Among Us】リスナー参加型！一緒に宇宙船直そうぜ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=LXRJ2rF0-Po
@@ -30,6 +30,13 @@ DURATION:PT2H
 DTSTART:20200928T010000Z
 SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－月曜日か。ほう…。－【ホロスターズ/夕刻ロベル】
 UID:x4yknTPA8vo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活NEWS LIVE】Weekly Holostars ！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=OCoBxsUD6eQ
+DURATION:PT2H
+DTSTART:20200929T000000Z
+SUMMARY:🍕アルランディス: 【朝活NEWS LIVE】Weekly Holostars ！【アルランディス/ホロスターズ】
+UID:OCoBxsUD6eQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:『Minecraft』遂にタージマハル外見完成させる!?!?! 頭パンク予定【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=fnmONIhkRRA
