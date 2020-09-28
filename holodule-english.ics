@@ -4,32 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【日本語の勉強Japanese Study】+ 雑談 niHONgo muzuKAshii. Do It For the Oshis!\nhttps://www.youtube.com/watch?v=yTJcwoNmj68
-DURATION:PT2H
-DTSTART:20200928T141500Z
-SUMMARY:Calli: 【日本語の勉強Japanese Study】+ 雑談 niHONgo muzuKAshii. Do It For the Oshis!
-UID:yTJcwoNmj68
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FE3H】I WANT MORE BATTLES #kfp #キアライブ\nhttps://www.youtube.com/watch?v=kR2wfIpvIYo
-DURATION:PT2H
-DTSTART:20200928T050000Z
-SUMMARY:Kiara: 【FE3H】I WANT MORE BATTLES #kfp #キアライブ
-UID:kR2wfIpvIYo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【COLLAB】 3rd Full Member Collab!!! #hololiveEnglish #holoMYTH\nhttps://www.youtube.com/watch?v=ObtSn2EONGQ
 DURATION:PT2H
 DTSTART:20200927T040000Z
 SUMMARY:Ina: 【COLLAB】 3rd Full Member Collab!!! #hololiveEnglish #holoMYTH
 UID:ObtSn2EONGQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ANNOUNCEMENT】NEW MIC HYPE !!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=0_9pGc_qP9s
-DURATION:PT2H
-DTSTART:20200927T090000Z
-SUMMARY:Kiara: 【ANNOUNCEMENT】NEW MIC HYPE !!!! #kfp #キアライブ
-UID:0_9pGc_qP9s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】Non-ranked and Chill !\nhttps://www.youtube.com/watch?v=gzePE1KcJ4I
@@ -39,10 +18,17 @@ SUMMARY:Amelia: 【APEX】Non-ranked and Chill !
 UID:gzePE1KcJ4I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FE3H】I WANT MORE BATTLES #kfp #キアライブ\nhttps://www.youtube.com/watch?v=AZZOInKNIR8
+DESCRIPTION:【日本語の勉強Japanese Study】+ 雑談 niHONgo muzuKAshii. Do It For the Oshis!\nhttps://www.youtube.com/watch?v=yTJcwoNmj68
 DURATION:PT2H
-DTSTART:20200928T060000Z
-SUMMARY:Kiara: 【FE3H】I WANT MORE BATTLES #kfp #キアライブ
-UID:AZZOInKNIR8
+DTSTART:20200928T141500Z
+SUMMARY:Calli: 【日本語の勉強Japanese Study】+ 雑談 niHONgo muzuKAshii. Do It For the Oshis!
+UID:yTJcwoNmj68
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ANNOUNCEMENT】NEW MIC HYPE !!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=0_9pGc_qP9s
+DURATION:PT2H
+DTSTART:20200927T090000Z
+SUMMARY:Kiara: 【ANNOUNCEMENT】NEW MIC HYPE !!!! #kfp #キアライブ
+UID:0_9pGc_qP9s
 END:VEVENT
 END:VCALENDAR
