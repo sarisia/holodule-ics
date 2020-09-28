@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【COLLAB】 3rd Full Member Collab!!! #hololiveEnglish #holoMYTH\nhttps://www.youtube.com/watch?v=ObtSn2EONGQ
-DURATION:PT2H
-DTSTART:20200927T040000Z
-SUMMARY:Ina: 【COLLAB】 3rd Full Member Collab!!! #hololiveEnglish #holoMYTH
-UID:ObtSn2EONGQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FE3H】I WANT MORE BATTLES #kfp #キアライブ\nhttps://www.youtube.com/watch?v=kR2wfIpvIYo
-DURATION:PT2H
-DTSTART:20200928T050000Z
-SUMMARY:Kiara: 【FE3H】I WANT MORE BATTLES #kfp #キアライブ
-UID:kR2wfIpvIYo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【日本語の勉強Japanese Study】+ 雑談 niHONgo muzuKAshii. Do It For the Oshis!\nhttps://www.youtube.com/watch?v=yTJcwoNmj68
 DURATION:PT2H
 DTSTART:20200928T141500Z
@@ -25,10 +11,31 @@ SUMMARY:Calli: 【日本語の勉強Japanese Study】+ 雑談 niHONgo muzuKAshii
 UID:yTJcwoNmj68
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【COLLAB】 3rd Full Member Collab!!! #hololiveEnglish #holoMYTH\nhttps://www.youtube.com/watch?v=ObtSn2EONGQ
+DURATION:PT2H
+DTSTART:20200927T040000Z
+SUMMARY:Ina: 【COLLAB】 3rd Full Member Collab!!! #hololiveEnglish #holoMYTH
+UID:ObtSn2EONGQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ANNOUNCEMENT】NEW MIC HYPE !!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=0_9pGc_qP9s
 DURATION:PT2H
 DTSTART:20200927T090000Z
 SUMMARY:Kiara: 【ANNOUNCEMENT】NEW MIC HYPE !!!! #kfp #キアライブ
 UID:0_9pGc_qP9s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【LIMBO】Part 2 !\nhttps://www.youtube.com/watch?v=gzePE1KcJ4I
+DURATION:PT2H
+DTSTART:20200928T030500Z
+SUMMARY:Amelia: 【LIMBO】Part 2 !
+UID:gzePE1KcJ4I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FE3H】I WANT MORE BATTLES #kfp #キアライブ\nhttps://www.youtube.com/watch?v=kR2wfIpvIYo
+DURATION:PT2H
+DTSTART:20200928T050000Z
+SUMMARY:Kiara: 【FE3H】I WANT MORE BATTLES #kfp #キアライブ
+UID:kR2wfIpvIYo
 END:VEVENT
 END:VCALENDAR
