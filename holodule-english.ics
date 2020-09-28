@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【日本語の勉強Japanese Study】+ 雑談 niHONgo muzuKAshii. Do It For the Oshis!\nhttps://www.youtube.com/watch?v=yTJcwoNmj68
-DURATION:PT2H
-DTSTART:20200928T141500Z
-SUMMARY:Calli: 【日本語の勉強Japanese Study】+ 雑談 niHONgo muzuKAshii. Do It For the Oshis!
-UID:yTJcwoNmj68
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【COLLAB】 3rd Full Member Collab!!! #hololiveEnglish #holoMYTH\nhttps://www.youtube.com/watch?v=ObtSn2EONGQ
 DURATION:PT2H
 DTSTART:20200927T040000Z
@@ -25,17 +18,17 @@ SUMMARY:Amelia: 【APEX】Non-ranked and Chill !
 UID:gzePE1KcJ4I
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【日本語の勉強Japanese Study】+ 雑談 niHONgo muzuKAshii. Do It For the Oshis!\nhttps://www.youtube.com/watch?v=yTJcwoNmj68
+DURATION:PT2H
+DTSTART:20200928T141500Z
+SUMMARY:Calli: 【日本語の勉強Japanese Study】+ 雑談 niHONgo muzuKAshii. Do It For the Oshis!
+UID:yTJcwoNmj68
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ANNOUNCEMENT】NEW MIC HYPE !!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=0_9pGc_qP9s
 DURATION:PT2H
 DTSTART:20200927T090000Z
 SUMMARY:Kiara: 【ANNOUNCEMENT】NEW MIC HYPE !!!! #kfp #キアライブ
 UID:0_9pGc_qP9s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】First Time Playing Minecraft!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=AjrpKG9VY2o
-DURATION:PT2H
-DTSTART:20200928T080000Z
-SUMMARY:Kiara: 【Minecraft】First Time Playing Minecraft!!! #kfp #キアライブ
-UID:AjrpKG9VY2o
 END:VEVENT
 END:VCALENDAR
