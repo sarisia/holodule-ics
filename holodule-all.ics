@@ -32,13 +32,6 @@ SUMMARY:尾丸ポルカ: 深夜朗読会《ヘンゼルとグレーテル》Grim
 UID:68jBsFlW3Ro
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【hololiveID】Quack or Squeak ??? SQUEAK SQUEAK !!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=Upy3VBCNTWI
-DURATION:PT2H
-DTSTART:20200927T140000Z
-SUMMARY:🐿Risu: 【hololiveID】Quack or Squeak ??? SQUEAK SQUEAK !!【Ayunda Risu】
-UID:Upy3VBCNTWI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【零～刺青ノ聲】ホラー映画見た後は絶対部屋の明かりを全つけにしないと眠れない話。＃3【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=TU_NMd9SWDg
 DURATION:PT2H
 DTSTART:20200927T140000Z
@@ -46,11 +39,11 @@ SUMMARY:🌺花咲みやび: 【零～刺青ノ聲】ホラー映画見た後は
 UID:TU_NMd9SWDg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#シャークネード2/みんなで同時市長!!【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=Asa51SX6VjQ
+DESCRIPTION:【hololiveID】Quack or Squeak ??? SQUEAK SQUEAK !!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=Upy3VBCNTWI
 DURATION:PT2H
-DTSTART:20200926T170500Z
-SUMMARY:🌽白上フブキ: #シャークネード2/みんなで同時市長!!【ホロライブ/白上フブキ】
-UID:Asa51SX6VjQ
+DTSTART:20200927T140000Z
+SUMMARY:🐿Risu: 【hololiveID】Quack or Squeak ??? SQUEAK SQUEAK !!【Ayunda Risu】
+UID:Upy3VBCNTWI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#３【みんなのリズム天国】もはやリズム刻むよりも反射神経のトレーニングな気がする【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=4IEnan9bcJs
@@ -58,6 +51,13 @@ DURATION:PT2H
 DTSTART:20200927T080000Z
 SUMMARY:⚙律可: #３【みんなのリズム天国】もはやリズム刻むよりも反射神経のトレーニングな気がする【律可/ホロスターズ】
 UID:4IEnan9bcJs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#シャークネード2/みんなで同時市長!!【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=Asa51SX6VjQ
+DURATION:PT2H
+DTSTART:20200926T170500Z
+SUMMARY:🌽白上フブキ: #シャークネード2/みんなで同時市長!!【ホロライブ/白上フブキ】
+UID:Asa51SX6VjQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】資源鯖で旅する！！色々素材集め！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=6fLQB_yzjHI
@@ -100,6 +100,13 @@ DURATION:PT2H
 DTSTART:20200928T141500Z
 SUMMARY:Calli: 【日本語の勉強Japanese Study】+ 雑談 niHONgo muzuKAshii. Do It For the Oshis!
 UID:yTJcwoNmj68
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【公式切り抜き】🔥マイクラぺこみこ戦争まとめ🔥【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=GSvtZqD-ZeM
+DURATION:PT2H
+DTSTART:20200929T100000Z
+SUMMARY:🌸さくらみこ: 【公式切り抜き】🔥マイクラぺこみこ戦争まとめ🔥【ホロライブ/さくらみこ】
+UID:GSvtZqD-ZeM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【記念枠】3万人ありがとう！！今後の事とか語っていこう【影山シエン／ホロスターズ】\nhttps://www.youtube.com/watch?v=bqJvWvbiEW4
@@ -165,13 +172,6 @@ SUMMARY:🍷夕刻ロベル: 【マリオカート8DX】朝朝朝朝、車車車
 UID:jeHjDRtPeT8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【AmongUs】I am perfect Imposter!! 全員騙して勝つ!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=A9lAhNwT_8c
-DURATION:PT2H
-DTSTART:20200926T154000Z
-SUMMARY:🦔💨岸堂天真: 【AmongUs】I am perfect Imposter!! 全員騙して勝つ!!【岸堂天真/ホロスターズ】
-UID:A9lAhNwT_8c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【朝活】生活習慣改善－月曜日か。ほう…。－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=x4yknTPA8vo
 DURATION:PT2H
 DTSTART:20200928T010000Z
@@ -179,18 +179,18 @@ SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－月曜日か。ほ
 UID:x4yknTPA8vo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【AmongUs】I am perfect Imposter!! 全員騙して勝つ!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=A9lAhNwT_8c
+DURATION:PT2H
+DTSTART:20200926T154000Z
+SUMMARY:🦔💨岸堂天真: 【AmongUs】I am perfect Imposter!! 全員騙して勝つ!!【岸堂天真/ホロスターズ】
+UID:A9lAhNwT_8c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】初心者マイクラ！作業配信【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=lSq59PScnKc
 DURATION:PT2H
 DTSTART:20200926T153000Z
 SUMMARY:雪花ラミィ: 【Minecraft】初心者マイクラ！作業配信【雪花ラミィ/ホロライブ】
 UID:lSq59PScnKc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【初見実況】#4 ゼルダの伝説・風のタクトやる！ジャブー様探し！！！！The Legend of Zelda: The Wind Waker【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=-yquNvFEy54
-DURATION:PT2H
-DTSTART:20200927T050000Z
-SUMMARY:🚑大空スバル: 【初見実況】#4 ゼルダの伝説・風のタクトやる！ジャブー様探し！！！！The Legend of Zelda: The Wind Waker【ホロライブ/大空スバル】
-UID:-yquNvFEy54
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FallGuys】大会まで後3日！れんしゅーれんしゅーぺこ！【ホロライブ/兎田ぺこら】#YTGW\nhttps://www.youtube.com/watch?v=zykt42JOALU
@@ -205,6 +205,13 @@ DURATION:PT2H
 DTSTART:20200928T120000Z
 SUMMARY:🤖ロボ子さん: 【世界のアソビ大全51】ホロライブで運を持ってるのは誰だ！ #ホロヨット大会 🎲✨
 UID:c7-AL-ESLHc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【初見実況】#4 ゼルダの伝説・風のタクトやる！ジャブー様探し！！！！The Legend of Zelda: The Wind Waker【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=-yquNvFEy54
+DURATION:PT2H
+DTSTART:20200927T050000Z
+SUMMARY:🚑大空スバル: 【初見実況】#4 ゼルダの伝説・風のタクトやる！ジャブー様探し！！！！The Legend of Zelda: The Wind Waker【ホロライブ/大空スバル】
+UID:-yquNvFEy54
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Among Us】リスナー参加型！一緒に宇宙船直そうぜ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=LXRJ2rF0-Po
@@ -228,18 +235,18 @@ SUMMARY:🍬姫森ルーナ: 【マリオ3Dコレクション #2】マリオサ�
 UID:5KLWxOjfs8I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【COLLAB】 3rd Full Member Collab!!! #hololiveEnglish #holoMYTH\nhttps://www.youtube.com/watch?v=ObtSn2EONGQ
-DURATION:PT2H
-DTSTART:20200927T040000Z
-SUMMARY:Ina: 【COLLAB】 3rd Full Member Collab!!! #hololiveEnglish #holoMYTH
-UID:ObtSn2EONGQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠】さようなら家～～～【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=ud1chRRKoRM
 DURATION:PT2H
 DTSTART:20200927T120000Z
 SUMMARY:🍙猫又おかゆ: 【歌枠】さようなら家～～～【ホロライブ/猫又おかゆ】
 UID:ud1chRRKoRM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【COLLAB】 3rd Full Member Collab!!! #hololiveEnglish #holoMYTH\nhttps://www.youtube.com/watch?v=ObtSn2EONGQ
+DURATION:PT2H
+DTSTART:20200927T040000Z
+SUMMARY:Ina: 【COLLAB】 3rd Full Member Collab!!! #hololiveEnglish #holoMYTH
+UID:ObtSn2EONGQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#あくおか質問コーナー】猫耳にゃあ～。ましゅまろもぐもぐっ！【湊あくあ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=UcY4SahvZl0
@@ -368,6 +375,13 @@ SUMMARY:⚓湊あくあ: チューリングラブ /Cover 湊あくあ/猫又お�
 UID:0OtNQEpSeIA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【】おうたかマイクラ【】\nhttps://www.youtube.com/watch?v=gKHM5r2EWAE
+DURATION:PT2H
+DTSTART:20200928T130000Z
+SUMMARY:🚑大空スバル: 【】おうたかマイクラ【】
+UID:gKHM5r2EWAE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【切り抜き】10分でわかる最近の紫咲シオン【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=zX2lL47WceA
 DURATION:PT2H
 DTSTART:20200927T120000Z
@@ -375,18 +389,18 @@ SUMMARY:🌙紫咲シオン: 【切り抜き】10分でわかる最近の紫咲�
 UID:zX2lL47WceA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #アランストリーム 】深夜のアルラジオ#9【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=f0PgcyM2qhs
-DURATION:PT2H
-DTSTART:20200927T130000Z
-SUMMARY:🍕アルランディス: 【 #アランストリーム 】深夜のアルラジオ#9【アルランディス/ホロスターズ】
-UID:f0PgcyM2qhs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【COD:MW】ファンメ来ませんでした（ネタバレ）【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=RcoDCb0pKmE
 DURATION:PT2H
 DTSTART:20200928T040008Z
 SUMMARY:獅白ぼたん: 【COD:MW】ファンメ来ませんでした（ネタバレ）【獅白ぼたん/ホロライブ】
 UID:RcoDCb0pKmE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #アランストリーム 】深夜のアルラジオ#9【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=f0PgcyM2qhs
+DURATION:PT2H
+DTSTART:20200927T130000Z
+SUMMARY:🍕アルランディス: 【 #アランストリーム 】深夜のアルラジオ#9【アルランディス/ホロスターズ】
+UID:f0PgcyM2qhs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】奏手イヅル、ダイヤモンドチャレンジ!! サポーター視点【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=vY7A8LuTwIU
