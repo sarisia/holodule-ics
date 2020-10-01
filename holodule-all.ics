@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【配信予定地】ぺえええええええええええこぺこぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=fxey0JKIU94
+DURATION:PT2H
+DTSTART:20201001T150000Z
+SUMMARY:👯兎田ぺこら: 【配信予定地】ぺえええええええええええこぺこぺこ！【ホロライブ/兎田ぺこら】
+UID:fxey0JKIU94
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Umm】Ngapain yah?【Moona】\nhttps://www.youtube.com/watch?v=cUWHO-6huTs
 DURATION:PT2H
 DTSTART:20201001T130000Z
@@ -30,13 +37,6 @@ DURATION:PT2H
 DTSTART:20201001T120000Z
 SUMMARY:影山シエン: 【Among us】人狼が苦手な奴がプレイするAmong Us【影山シエン／ホロスターズ】
 UID:2zL15PFTx_Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マイクラホロ鯖 -Minecraft-】んなっ！地下に倉庫を作るのら🍬【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=VE59_cs48Ko
-DURATION:PT2H
-DTSTART:20201001T050000Z
-SUMMARY:🍬姫森ルーナ: 【マイクラホロ鯖 -Minecraft-】んなっ！地下に倉庫を作るのら🍬【姫森ルーナ/ホロライブ】
-UID:VE59_cs48Ko
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】へなちょこ悪魔の寝起き奮闘記【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=nPHwllqfhOw
@@ -100,6 +100,13 @@ DURATION:PT2H
 DTSTART:20200930T130000Z
 SUMMARY:💋癒月ちょこ: 【ホロライブ身体測定】噂のホロ５期生！桃鈴ねね様診察いたします！【ホロライブ/桃鈴ねね/癒月ちょこ】
 UID:EMJAu7mo_Lg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マリオカート8DX】1位ありがとうございました！【ねぽらぼ】\nhttps://www.youtube.com/watch?v=X1ajiO18QvE
+DURATION:PT2H
+DTSTART:20201001T113000Z
+SUMMARY:桃鈴ねね: 【マリオカート8DX】1位ありがとうございました！【ねぽらぼ】
+UID:X1ajiO18QvE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Fall Guys: Ultimate Knockout】はじめましてのゲームコラボ！【#イオそらコラボ】\nhttps://www.youtube.com/watch?v=20uLXVP0Qx8
@@ -422,6 +429,13 @@ DURATION:PT2H
 DTSTART:20200930T110000Z
 SUMMARY:🔥不知火フレア: 【歌枠】Sing a song♪平日でも楽しく歌う！【ホロライブ/不知火フレア】【ホロライブ/不知火フレア】
 UID:YnUaR6IDVSQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ねぽらぼ最弱王決定戦《最強のポルカ視点》【マリオカート8DX】\nhttps://www.youtube.com/watch?v=WCBOB8wz05E
+DURATION:PT2H
+DTSTART:20201001T113000Z
+SUMMARY:尾丸ポルカ: ねぽらぼ最弱王決定戦《最強のポルカ視点》【マリオカート8DX】
+UID:WCBOB8wz05E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】どっきどきの初✨地下探索するぞ～！！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=Px5ZGz7RSoU
