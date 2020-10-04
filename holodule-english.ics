@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【COLLAB】SNACK TIME! 4th Collab Stream (The Best Number)  #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=n017V9_AuXQ
-DURATION:PT2H
-DTSTART:20201004T040500Z
-SUMMARY:Calli: 【COLLAB】SNACK TIME! 4th Collab Stream (The Best Number)  #hololiveEnglish #holoMyth
-UID:n017V9_AuXQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DOOM Eternal】It is Not Done\, So We Continue To Rip and Tear #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=gDeZRNockqI
-DURATION:PT2H
-DTSTART:20201004T010100Z
-SUMMARY:Calli: 【DOOM Eternal】It is Not Done\, So We Continue To Rip and Tear #hololiveEnglish #holoMyth
-UID:gDeZRNockqI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】1st Time to visit the NETHER?? (if i can reach it that is) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=T9wkMEbtCD4
 DURATION:PT2H
 DTSTART:20201005T040000Z
@@ -30,5 +16,26 @@ DURATION:PT2H
 DTSTART:20201003T150000Z
 SUMMARY:Ina: 【ACNH】Tour of Island Y****
 UID:RKgGb9vo8QY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Mario Kart】ZOOM #TAKOTIME #hololiveEnglish\nhttps://www.youtube.com/watch?v=cNYVDSrykbo
+DURATION:PT2H
+DTSTART:20201004T200000Z
+SUMMARY:Ina: 【Mario Kart】ZOOM #TAKOTIME #hololiveEnglish
+UID:cNYVDSrykbo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DOOM Eternal】It is Not Done\, So We Continue To Rip and Tear #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=gDeZRNockqI
+DURATION:PT2H
+DTSTART:20201004T010100Z
+SUMMARY:Calli: 【DOOM Eternal】It is Not Done\, So We Continue To Rip and Tear #hololiveEnglish #holoMyth
+UID:gDeZRNockqI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【COLLAB】SNACK TIME! 4th Collab Stream (The Best Number)  #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=n017V9_AuXQ
+DURATION:PT2H
+DTSTART:20201004T040500Z
+SUMMARY:Calli: 【COLLAB】SNACK TIME! 4th Collab Stream (The Best Number)  #hololiveEnglish #holoMyth
+UID:n017V9_AuXQ
 END:VEVENT
 END:VCALENDAR
