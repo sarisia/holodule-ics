@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【生感ホラー】Home sweet home で 心温まる お住まい探しを。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=sOxb34fuOQM
-DURATION:PT2H
-DTSTART:20201004T160000Z
-SUMMARY:🎭アステル・レダ: 【生感ホラー】Home sweet home で 心温まる お住まい探しを。【ホロスターズ/アステル】
-UID:sOxb34fuOQM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【マリオ３５】１－１以外自信ないマン頑張ります!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=BJFAi0EqFAs
 DURATION:PT2H
 DTSTART:20201005T100000Z
@@ -32,13 +25,6 @@ SUMMARY:🍕アルランディス: 【 #アランストリーム 】深夜のア
 UID:vvmgVEOyzNw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Apex Legends】まずはプラチナ【奏手イヅル】\nhttps://www.youtube.com/watch?v=AewEPzPImDE
-DURATION:PT2H
-DTSTART:20201003T150000Z
-SUMMARY:🎸奏手イヅル: 【Apex Legends】まずはプラチナ【奏手イヅル】
-UID:AewEPzPImDE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【弾き語りSING】amazarashi縛り【奏手イヅル】\nhttps://www.youtube.com/watch?v=fQ8ut6rl69w
 DURATION:PT2H
 DTSTART:20201004T150000Z
@@ -53,18 +39,53 @@ SUMMARY:🍕アルランディス: 【 #surgeonsimulator2 】治せ！倫理観�
 UID:HQxY-k_lc3A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ASMR】そろそろ慣れてきたと思われるセリフ読み。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=NQaDhP4mFIc
-DURATION:PT2H
-DTSTART:20201005T140000Z
-SUMMARY:🌺花咲みやび: 【ASMR】そろそろ慣れてきたと思われるセリフ読み。【花咲みやび/ホロスターズ】
-UID:NQaDhP4mFIc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Among Us】リスナー参加型！みんなで宇宙船直そうぜ！#2【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=MDnrwfSvCHA
 DURATION:PT2H
 DTSTART:20201004T050000Z
 SUMMARY:🍕アルランディス: 【Among Us】リスナー参加型！みんなで宇宙船直そうぜ！#2【アルランディス/ホロスターズ】
 UID:MDnrwfSvCHA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【弾き語り枠】アーカイブあり：朝と夜の違いを楽しむ【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=KU775Ze_VLk
+DURATION:PT2H
+DTSTART:20201005T140000Z
+SUMMARY:⚙律可: 【弾き語り枠】アーカイブあり：朝と夜の違いを楽しむ【律可/ホロスターズ】
+UID:KU775Ze_VLk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】マヒアのフィル活～耐久を終えて～【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=SQ1PhPhPeWk
+DURATION:PT2H
+DTSTART:20201005T030000Z
+SUMMARY:影山シエン: 【雑談】マヒアのフィル活～耐久を終えて～【影山シエン/ホロスターズ】
+UID:SQ1PhPhPeWk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【生感ホラー】Home sweet home で 心温まる お住まい探しを。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=sOxb34fuOQM
+DURATION:PT2H
+DTSTART:20201004T160000Z
+SUMMARY:🎭アステル・レダ: 【生感ホラー】Home sweet home で 心温まる お住まい探しを。【ホロスターズ/アステル】
+UID:sOxb34fuOQM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Among Us(solo) Come on babe\, I'll make u big(PERSON! PERSON!) 【奏手イヅル】\nhttps://www.youtube.com/watch?v=KKjpHuM-OG4
+DURATION:PT2H
+DTSTART:20201004T090000Z
+SUMMARY:🎸奏手イヅル: Among Us(solo) Come on babe\, I'll make u big(PERSON! PERSON!) 【奏手イヅル】
+UID:KKjpHuM-OG4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Apex Legends】まずはプラチナ【奏手イヅル】\nhttps://www.youtube.com/watch?v=AewEPzPImDE
+DURATION:PT2H
+DTSTART:20201003T150000Z
+SUMMARY:🎸奏手イヅル: 【Apex Legends】まずはプラチナ【奏手イヅル】
+UID:AewEPzPImDE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ASMR】そろそろ慣れてきたと思われるセリフ読み。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=NQaDhP4mFIc
+DURATION:PT2H
+DTSTART:20201005T140000Z
+SUMMARY:🌺花咲みやび: 【ASMR】そろそろ慣れてきたと思われるセリフ読み。【花咲みやび/ホロスターズ】
+UID:NQaDhP4mFIc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【20000人記念】やったー!!みんないつもありがとう!!歌と振り返り雑談!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=-S0Q5y5WVDw
@@ -88,24 +109,10 @@ SUMMARY:⚙律可: 【記念枠】6万人記念：初!!お家3Dお披露目【�
 UID:5zDzEkYZwQ4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【弾き語り枠】アーカイブあり：朝と夜の違いを楽しむ【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=KU775Ze_VLk
-DURATION:PT2H
-DTSTART:20201005T140000Z
-SUMMARY:⚙律可: 【弾き語り枠】アーカイブあり：朝と夜の違いを楽しむ【律可/ホロスターズ】
-UID:KU775Ze_VLk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【零～刺青ノ聲】そろそろ霊が本気を出して僕の万葉丸がやばい。＃4【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=lGW8WoE4myg
 DURATION:PT2H
 DTSTART:20201004T140000Z
 SUMMARY:🌺花咲みやび: 【零～刺青ノ聲】そろそろ霊が本気を出して僕の万葉丸がやばい。＃4【花咲みやび/ホロスターズ】
 UID:lGW8WoE4myg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Among Us(solo) Come on babe\, I'll make u big(PERSON! PERSON!) 【奏手イヅル】\nhttps://www.youtube.com/watch?v=KKjpHuM-OG4
-DURATION:PT2H
-DTSTART:20201004T090000Z
-SUMMARY:🎸奏手イヅル: Among Us(solo) Come on babe\, I'll make u big(PERSON! PERSON!) 【奏手イヅル】
-UID:KKjpHuM-OG4
 END:VEVENT
 END:VCALENDAR
