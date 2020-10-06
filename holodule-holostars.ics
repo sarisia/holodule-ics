@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【アソビ大全】アソビリストによるアソビ大全【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=pvM9vhEA9Cs
+DURATION:PT2H
+DTSTART:20201006T120000Z
+SUMMARY:🍷夕刻ロベル: 【アソビ大全】アソビリストによるアソビ大全【ホロスターズ/夕刻ロベル】
+UID:pvM9vhEA9Cs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マリオ３５】１－１以外自信ないマン頑張ります!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=BJFAi0EqFAs
 DURATION:PT2H
 DTSTART:20201005T100000Z
@@ -39,11 +46,11 @@ SUMMARY:🍕アルランディス: 【 #FallGuys 】とてもきょうりょく�
 UID:HQxY-k_lc3A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ASMR】そろそろ慣れてきたと思われるセリフ読み。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=NQaDhP4mFIc
+DESCRIPTION:【FALLGUYS】別に全員落としてしまっても構わんのだろう？【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=GDcA463uv2Y
 DURATION:PT2H
-DTSTART:20201005T140000Z
-SUMMARY:🌺花咲みやび: 【ASMR】そろそろ慣れてきたと思われるセリフ読み。【花咲みやび/ホロスターズ】
-UID:NQaDhP4mFIc
+DTSTART:20201007T110000Z
+SUMMARY:💙鏡見キラ: 【FALLGUYS】別に全員落としてしまっても構わんのだろう？【ホロスターズ/鏡見キラ】
+UID:GDcA463uv2Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】生活習慣改善－こいつぁ、火曜日の香り…！！－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=mXrbHyzXFNU
@@ -67,13 +74,6 @@ SUMMARY:影山シエン: 【あつ森】島ガチャ始まるよ～～～～～�
 UID:StlrnwcSxVA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#アル日の夕刻のモンスター】一位取んぞ！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=W2Ena7Yk_dQ
-DURATION:PT2H
-DTSTART:20201005T110000Z
-SUMMARY:🍷夕刻ロベル: 【#アル日の夕刻のモンスター】一位取んぞ！！【ホロスターズ/夕刻ロベル】
-UID:W2Ena7Yk_dQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【弾き語り枠】アーカイブあり：朝と夜の違いを楽しむ【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=KU775Ze_VLk
 DURATION:PT2H
 DTSTART:20201005T140000Z
@@ -88,17 +88,38 @@ SUMMARY:影山シエン: 【雑談】マヒアのフィル活～耐久を終え�
 UID:SQ1PhPhPeWk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スーパーマリオ35】35人でマリオ同時対戦！？一位を目指します～【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=P5-bsAxpdZg
-DURATION:PT2H
-DTSTART:20201005T040000Z
-SUMMARY:🍷夕刻ロベル: 【スーパーマリオ35】35人でマリオ同時対戦！？一位を目指します～【ホロスターズ/夕刻ロベル】
-UID:P5-bsAxpdZg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【生感ホラー】Home sweet home で 心温まる お住まい探しを。【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=sOxb34fuOQM
 DURATION:PT2H
 DTSTART:20201004T160000Z
 SUMMARY:🎭アステル・レダ: 【生感ホラー】Home sweet home で 心温まる お住まい探しを。【ホロスターズ/アステル】
 UID:sOxb34fuOQM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【同時視聴】三人でディスカバリーチャンネル同時視聴！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=wVtOfsxBTKU
+DURATION:PT2H
+DTSTART:20201006T150000Z
+SUMMARY:🍷夕刻ロベル: 【同時視聴】三人でディスカバリーチャンネル同時視聴！【ホロスターズ/夕刻ロベル】
+UID:wVtOfsxBTKU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ASMR】そろそろ慣れてきたと思われるセリフ読み。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=NQaDhP4mFIc
+DURATION:PT2H
+DTSTART:20201005T140000Z
+SUMMARY:🌺花咲みやび: 【ASMR】そろそろ慣れてきたと思われるセリフ読み。【花咲みやび/ホロスターズ】
+UID:NQaDhP4mFIc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#アル日の夕刻のモンスター】一位取んぞ！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=W2Ena7Yk_dQ
+DURATION:PT2H
+DTSTART:20201005T110000Z
+SUMMARY:🍷夕刻ロベル: 【#アル日の夕刻のモンスター】一位取んぞ！！【ホロスターズ/夕刻ロベル】
+UID:W2Ena7Yk_dQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スーパーマリオ35】35人でマリオ同時対戦！？一位を目指します～【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=P5-bsAxpdZg
+DURATION:PT2H
+DTSTART:20201005T040000Z
+SUMMARY:🍷夕刻ロベル: 【スーパーマリオ35】35人でマリオ同時対戦！？一位を目指します～【ホロスターズ/夕刻ロベル】
+UID:P5-bsAxpdZg
 END:VEVENT
 END:VCALENDAR
