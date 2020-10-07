@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Among Us】よわよわ!?花咲イングリッシュ人狼【花咲みやび/VTuber】\nhttps://www.youtube.com/watch?v=J2MsOLR0OtM
+DURATION:PT2H
+DTSTART:20201009T120000Z
+SUMMARY:🌺花咲みやび: 【Among Us】よわよわ!?花咲イングリッシュ人狼【花咲みやび/VTuber】
+UID:J2MsOLR0OtM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【朝活】生活習慣改善－木曜日！俺や！！ほら、ロベルやで！！－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=z_q0wqv7V6c
 DURATION:PT2H
 DTSTART:20201008T010000Z
@@ -16,13 +23,6 @@ DURATION:PT2H
 DTSTART:20201007T020000Z
 SUMMARY:⚙律可: 【English stream/Among US】Let's play listeners!英語縛りリスナー参加型【律可/ホロスターズ】
 UID:X8QdUa-VbmM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FALLGUYS】シーズン1最終日！！勝ち収めしたい！！【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=GDcA463uv2Y
-DURATION:PT2H
-DTSTART:20201007T110000Z
-SUMMARY:💙鏡見キラ: 【FALLGUYS】シーズン1最終日！！勝ち収めしたい！！【ホロスターズ/鏡見キラ】
-UID:GDcA463uv2Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スーパーマリオ35】意外な戦略がモノを言う？【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=wvbPrBlUBVc
@@ -39,11 +39,25 @@ SUMMARY:💙鏡見キラ: 【FALLGUYS】シーズンⅡ開幕っ！ファンタ�
 UID:EwCFqQD9h0Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Among Us】よわよわ!?花咲イングリッシュ人狼【花咲みやび/VTuber】\nhttps://www.youtube.com/watch?v=J2MsOLR0OtM
+DESCRIPTION:【FALLGUYS】シーズン1最終日！！勝ち収めしたい！！【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=GDcA463uv2Y
 DURATION:PT2H
-DTSTART:20201009T120000Z
-SUMMARY:🌺花咲みやび: 【Among Us】よわよわ!?花咲イングリッシュ人狼【花咲みやび/VTuber】
-UID:J2MsOLR0OtM
+DTSTART:20201007T110000Z
+SUMMARY:💙鏡見キラ: 【FALLGUYS】シーズン1最終日！！勝ち収めしたい！！【ホロスターズ/鏡見キラ】
+UID:GDcA463uv2Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【L4D2】ふえぇえゾンビ怖いよふえぇえ【花咲みやび/シエン/アステル/天真】\nhttps://www.youtube.com/watch?v=SLhRoHo00xk
+DURATION:PT2H
+DTSTART:20201007T140000Z
+SUMMARY:🌺花咲みやび: 【L4D2】ふえぇえゾンビ怖いよふえぇえ【花咲みやび/シエン/アステル/天真】
+UID:SLhRoHo00xk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【L4D2】お掃除のご依頼ですか？綺麗さっぱり消してやりますよ【シエン/みやび/アステル/天真】\nhttps://www.youtube.com/watch?v=rGuErJs-H8Q
+DURATION:PT2H
+DTSTART:20201007T140000Z
+SUMMARY:影山シエン: 【L4D2】お掃除のご依頼ですか？綺麗さっぱり消してやりますよ【シエン/みやび/アステル/天真】
+UID:rGuErJs-H8Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【視聴者参加型APEX】アペクロスッッッ！！！ 皆で英語縛りで生きていこう【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=YEzI7-SdBPQ
