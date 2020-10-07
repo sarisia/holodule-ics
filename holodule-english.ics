@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Mahjong Soul】Beginner Mahjong Games!! #TAKOTIME #hololiveEnglish\nhttps://www.youtube.com/watch?v=WtaTYG6Nyug
+DURATION:PT2H
+DTSTART:20201008T020000Z
+SUMMARY:Ina: 【Mahjong Soul】Beginner Mahjong Games!! #TAKOTIME #hololiveEnglish
+UID:WtaTYG6Nyug
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【reserve】soon™ #kfp #キアライブ\nhttps://www.youtube.com/watch?v=noQOk93TwLM
 DURATION:PT2H
 DTSTART:20201008T150000Z
@@ -23,12 +30,5 @@ DURATION:PT2H
 DTSTART:20201007T030000Z
 SUMMARY:Amelia: 【Mario Odyssey】I'm LOST!!!!!
 UID:aLZi5mVRx-0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[PACIFY] COLLECTING BABIES #GAWRGURA #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=saRwGQdkEE0
-DURATION:PT2H
-DTSTART:20201007T190000Z
-SUMMARY:Gura: [PACIFY] COLLECTING BABIES #GAWRGURA #hololiveEnglish #holoMyth
-UID:saRwGQdkEE0
 END:VEVENT
 END:VCALENDAR
