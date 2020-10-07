@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【朝活NEWS LIVE】10/7 Weekly Holostars ！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=yKQHF3RHY-M
-DURATION:PT2H
-DTSTART:20201007T002000Z
-SUMMARY:🍕アルランディス: 【朝活NEWS LIVE】10/7 Weekly Holostars ！【アルランディス/ホロスターズ】
-UID:yKQHF3RHY-M
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【アソビ大全】アソビリストによるアソビ大全【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=pvM9vhEA9Cs
 DURATION:PT2H
 DTSTART:20201006T120000Z
@@ -18,32 +11,11 @@ SUMMARY:🍷夕刻ロベル: 【アソビ大全】アソビリストによるア
 UID:pvM9vhEA9Cs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【同時視聴】三人でディスカバリーチャンネル同時視聴！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=wVtOfsxBTKU
-DURATION:PT2H
-DTSTART:20201006T150000Z
-SUMMARY:🍷夕刻ロベル: 【同時視聴】三人でディスカバリーチャンネル同時視聴！【ホロスターズ/夕刻ロベル】
-UID:wVtOfsxBTKU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スーパーマリオ35】約束します、今日は一位を取ると！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=R_bGi-9C61g
-DURATION:PT2H
-DTSTART:20201007T040000Z
-SUMMARY:🍷夕刻ロベル: 【スーパーマリオ35】約束します、今日は一位を取ると！【ホロスターズ/夕刻ロベル】
-UID:R_bGi-9C61g
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Apex Legends】プラチナⅢへGO 【奏手イヅル】\nhttps://www.youtube.com/watch?v=wGAU9laDgGI
 DURATION:PT2H
 DTSTART:20201006T080000Z
 SUMMARY:🎸奏手イヅル: 【Apex Legends】プラチナⅢへGO 【奏手イヅル】
 UID:wGAU9laDgGI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオ35】マリオにバトロワが来たらしい!?【花咲みやび/VTuber】\nhttps://www.youtube.com/watch?v=OV8LjUv46QM
-DURATION:PT2H
-DTSTART:20201008T120000Z
-SUMMARY:🌺花咲みやび: 【マリオ35】マリオにバトロワが来たらしい!?【花咲みやび/VTuber】
-UID:OV8LjUv46QM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【English stream/Among US】Let's play listeners!英語縛りリスナー参加型【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=X8QdUa-VbmM
@@ -67,6 +39,13 @@ SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－こいつぁ、火
 UID:mXrbHyzXFNU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【スーパーマリオ35】意外な戦略がモノを言う？【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=wvbPrBlUBVc
+DURATION:PT2H
+DTSTART:20201007T082000Z
+SUMMARY:影山シエン: 【スーパーマリオ35】意外な戦略がモノを言う？【影山シエン/ホロスターズ】
+UID:wvbPrBlUBVc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Among Us】よわよわ英会話人狼はじまる。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=l7Pft_AcKEk
 DURATION:PT2H
 DTSTART:20201007T100000Z
@@ -81,13 +60,6 @@ SUMMARY:影山シエン: 【L4D2】お掃除のご依頼ですか？綺麗さっ
 UID:rGuErJs-H8Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】いい装備が全くないからただひたすらにエンチャ【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=YbJyyiDwpnM
-DURATION:PT2H
-DTSTART:20201006T170500Z
-SUMMARY:🦔💨岸堂天真: 【MINECRAFT】いい装備が全くないからただひたすらにエンチャ【岸堂天真/ホロスターズ】
-UID:YbJyyiDwpnM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【視聴者参加型APEX】アペクロスッッッ！！！ 皆で英語縛りで生きていこう【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=YEzI7-SdBPQ
 DURATION:PT2H
 DTSTART:20201006T173500Z
@@ -100,6 +72,48 @@ DURATION:PT2H
 DTSTART:20201007T010000Z
 SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－週の真ん中！気合を入れてくで！！－【ホロスターズ/夕刻ロベル】
 UID:iim0jK9iBI4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活NEWS LIVE】10/7 Weekly Holostars ！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=yKQHF3RHY-M
+DURATION:PT2H
+DTSTART:20201007T002000Z
+SUMMARY:🍕アルランディス: 【朝活NEWS LIVE】10/7 Weekly Holostars ！【アルランディス/ホロスターズ】
+UID:yKQHF3RHY-M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【同時視聴】三人でディスカバリーチャンネル同時視聴！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=wVtOfsxBTKU
+DURATION:PT2H
+DTSTART:20201006T150000Z
+SUMMARY:🍷夕刻ロベル: 【同時視聴】三人でディスカバリーチャンネル同時視聴！【ホロスターズ/夕刻ロベル】
+UID:wVtOfsxBTKU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スーパーマリオ35】約束します、今日は一位を取ると！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=R_bGi-9C61g
+DURATION:PT2H
+DTSTART:20201007T040000Z
+SUMMARY:🍷夕刻ロベル: 【スーパーマリオ35】約束します、今日は一位を取ると！【ホロスターズ/夕刻ロベル】
+UID:R_bGi-9C61g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マリオ35】マリオにバトロワが来たらしい!?【花咲みやび/VTuber】\nhttps://www.youtube.com/watch?v=OV8LjUv46QM
+DURATION:PT2H
+DTSTART:20201008T120000Z
+SUMMARY:🌺花咲みやび: 【マリオ35】マリオにバトロワが来たらしい!?【花咲みやび/VTuber】
+UID:OV8LjUv46QM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Apex Legends】🐈　ガチャ　回す　 【奏手イヅル】\nhttps://www.youtube.com/watch?v=nydAkr3u28c
+DURATION:PT2H
+DTSTART:20201007T093000Z
+SUMMARY:🎸奏手イヅル: 【Apex Legends】🐈　ガチャ　回す　 【奏手イヅル】
+UID:nydAkr3u28c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】いい装備が全くないからただひたすらにエンチャ【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=YbJyyiDwpnM
+DURATION:PT2H
+DTSTART:20201006T170500Z
+SUMMARY:🦔💨岸堂天真: 【MINECRAFT】いい装備が全くないからただひたすらにエンチャ【岸堂天真/ホロスターズ】
+UID:YbJyyiDwpnM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】ゆるスタで放置によって荒廃した村を救いたい。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=hP9hZK4ssp4
