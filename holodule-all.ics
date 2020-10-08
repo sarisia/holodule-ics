@@ -88,18 +88,18 @@ SUMMARY:🦔💨岸堂天真: 【FE風花雪月】荒れてしまったディミ
 UID:hpNSP4IsFQM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Mario Odyssey】I'm LOST!!!!!\nhttps://www.youtube.com/watch?v=aLZi5mVRx-0
-DURATION:PT2H
-DTSTART:20201007T030000Z
-SUMMARY:Amelia: 【Mario Odyssey】I'm LOST!!!!!
-UID:aLZi5mVRx-0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Left 4 Dead 2】新マップEXPARTもホロスタなら乗り越えられる【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=WOKKoNx8ueM
 DURATION:PT2H
 DTSTART:20201007T140000Z
 SUMMARY:🎭アステル・レダ: 【Left 4 Dead 2】新マップEXPARTもホロスタなら乗り越えられる【ホロスターズ/アステル】
 UID:WOKKoNx8ueM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Mario Odyssey】I'm LOST!!!!!\nhttps://www.youtube.com/watch?v=aLZi5mVRx-0
+DURATION:PT2H
+DTSTART:20201007T030000Z
+SUMMARY:Amelia: 【Mario Odyssey】I'm LOST!!!!!
+UID:aLZi5mVRx-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【】21時からシーズン２らしいぞ【】\nhttps://www.youtube.com/watch?v=zoKEvUhVca0
@@ -149,6 +149,13 @@ DURATION:PT2H
 DTSTART:20201009T130000Z
 SUMMARY:🤖ロボ子さん: 【メン限】ボクと一緒に『マギアレコード』一挙同時視聴🎥【ホロライブ/ロボ子さん】
 UID:bBQKMvjSxzQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#FallGuys】 SEASON２でもNo.1FOX BURGER 【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=C4SHRcuOS5Y
+DURATION:PT2H
+DTSTART:20201008T140000Z
+SUMMARY:🌽白上フブキ: 【#FallGuys】 SEASON２でもNo.1FOX BURGER 【ホロライブ/白上フブキ】
+UID:C4SHRcuOS5Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マイクラ】粘土も集めた方がよさそうかな？の回【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=EXYEXy3aMjI
@@ -333,10 +340,10 @@ SUMMARY:🔥不知火フレア: 【スーパーマリオ64】地下の扉の先�
 UID:-eS9C5j1TLg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【よていち💕】【ホロライブ/宝鐘マリン・湊あくあ】\nhttps://www.youtube.com/watch?v=ey1ag5L4Sik
+DESCRIPTION:【ホラー】わたしたち、行方不明になりました…【ホロライブ/宝鐘マリン・湊あくあ】\nhttps://www.youtube.com/watch?v=ey1ag5L4Sik
 DURATION:PT2H
 DTSTART:20201008T130000Z
-SUMMARY:🏴☠宝鐘マリン: 【よていち💕】【ホロライブ/宝鐘マリン・湊あくあ】
+SUMMARY:🏴☠宝鐘マリン: 【ホラー】わたしたち、行方不明になりました…【ホロライブ/宝鐘マリン・湊あくあ】
 UID:ey1ag5L4Sik
 END:VEVENT
 BEGIN:VEVENT
@@ -459,13 +466,6 @@ SUMMARY:尾丸ポルカ: 【ASMR】全体公開💖ささやき💖メン限サ�
 UID:L6EcpicXa7g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スーパーマリオ35】約束します、今日は一位を取ると！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=R_bGi-9C61g
-DURATION:PT2H
-DTSTART:20201007T040000Z
-SUMMARY:🍷夕刻ロベル: 【スーパーマリオ35】約束します、今日は一位を取ると！【ホロスターズ/夕刻ロベル】
-UID:R_bGi-9C61g
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【朝活】脳筋女騎士は昼夜逆転をなおす...💤【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=Ckj2nXGyQZo
 DURATION:PT2H
 DTSTART:20201007T220000Z
@@ -478,6 +478,13 @@ DURATION:PT2H
 DTSTART:20201008T133000Z
 SUMMARY:Calli: 【TRACK MAKING】Let Us Gather Samples from Heck\, aka MY HOME #hololiveEnglish #holoMyth
 UID:BQUnJTQnQHQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スーパーマリオ35】約束します、今日は一位を取ると！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=R_bGi-9C61g
+DURATION:PT2H
+DTSTART:20201007T040000Z
+SUMMARY:🍷夕刻ロベル: 【スーパーマリオ35】約束します、今日は一位を取ると！【ホロスターズ/夕刻ロベル】
+UID:R_bGi-9C61g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオ35】マリオにバトロワが来たらしい!?【花咲みやび/VTuber】\nhttps://www.youtube.com/watch?v=OV8LjUv46QM
