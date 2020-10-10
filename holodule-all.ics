@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【雑談】ゲリラ！新居ではじめての夜更かし【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=2Nsp0z1AmV8
+DURATION:PT2H
+DTSTART:20201010T170000Z
+SUMMARY:🍙猫又おかゆ: 【雑談】ゲリラ！新居ではじめての夜更かし【ホロライブ/猫又おかゆ】
+UID:2Nsp0z1AmV8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【にじさんじ身体測定】噂のお姉様白雪巴様診察いたします！【にじさんじ/白雪巴/ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=-bKXZ9XWSTk
 DURATION:PT2H
 DTSTART:20201010T140000Z
@@ -39,11 +46,11 @@ SUMMARY:🌽白上フブキ: いろんな曲を歌いたい歌枠【ホロライ
 UID:LgX1A1NEduQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マインクラフト/Minecraft】マイホームの庭を作るよ！Creating a nice garden！【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=4ybRKMqaca8
+DESCRIPTION:【にじさんじ身体測定】噂のお姉様白雪巴様診察いたします！【にじさんじ/白雪巴/ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=vrJJyXLLja8
 DURATION:PT2H
-DTSTART:20201010T140000Z
-SUMMARY:🔥不知火フレア: 【マインクラフト/Minecraft】マイホームの庭を作るよ！Creating a nice garden！【ホロライブ/不知火フレア】
-UID:4ybRKMqaca8
+DTSTART:20201011T120000Z
+SUMMARY:💋癒月ちょこ: 【にじさんじ身体測定】噂のお姉様白雪巴様診察いたします！【にじさんじ/白雪巴/ホロライブ/癒月ちょこ】
+UID:vrJJyXLLja8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:星街すいせい、二週間失踪⁉【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=tkDqWV1KhAc
@@ -58,13 +65,6 @@ DURATION:PT2H
 DTSTART:20201010T130000Z
 SUMMARY:獅白ぼたん: 【BF5】コミュニティサーバーで武器レベルあげるの会！10/10【獅白ぼたん/ホロライブ】
 UID:brlzWNDcbgw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【にじさんじ身体測定】噂のお姉様白雪巴様診察いたします！【にじさんじ/白雪巴/ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=vrJJyXLLja8
-DURATION:PT2H
-DTSTART:20201011T120000Z
-SUMMARY:💋癒月ちょこ: 【にじさんじ身体測定】噂のお姉様白雪巴様診察いたします！【にじさんじ/白雪巴/ホロライブ/癒月ちょこ】
-UID:vrJJyXLLja8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#姫森ルーナ誕生祭】みんなと一緒にお誕生日会を同時視聴！！枠バグなんてへっちゃらなのら！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=fke_19SYkow
@@ -319,11 +319,11 @@ SUMMARY:🎨Iofi: 【MINECRAFT】Gak Ngapa-ngapain\, Cuma Jalan-jalan Aja【holo
 UID:1M_knZ4dpFw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ブレイブルー】続　武　者　修　行【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=oOV7jeR54PE
+DESCRIPTION:【MOTHER2】はじめてのマザー2ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=ArfjKGqY9Bg
 DURATION:PT2H
-DTSTART:20201010T150000Z
-SUMMARY:🍷夕刻ロベル: 【ブレイブルー】続　武　者　修　行【ホロスターズ/夕刻ロベル】
-UID:oOV7jeR54PE
+DTSTART:20201010T130000Z
+SUMMARY:👯兎田ぺこら: 【MOTHER2】はじめてのマザー2ぺこ！【ホロライブ/兎田ぺこら】
+UID:ArfjKGqY9Bg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FE風花雪月】かつての学友を討たねばならない悲しい運命【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=fEhcg5mvdbE
@@ -331,6 +331,13 @@ DURATION:PT2H
 DTSTART:20201010T053000Z
 SUMMARY:🦔💨岸堂天真: 【FE風花雪月】かつての学友を討たねばならない悲しい運命【岸堂天真/ホロスターズ】
 UID:fEhcg5mvdbE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ブレイブルー】続　武　者　修　行【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=oOV7jeR54PE
+DURATION:PT2H
+DTSTART:20201010T150000Z
+SUMMARY:🍷夕刻ロベル: 【ブレイブルー】続　武　者　修　行【ホロスターズ/夕刻ロベル】
+UID:oOV7jeR54PE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マインクラフト】ついにこの時が来た。チェスト整理回！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=y3WPN1uBusg
