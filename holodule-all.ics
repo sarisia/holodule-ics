@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Build and decor!【Moona】\nhttps://www.youtube.com/watch?v=39oYWYVyfFk
+DURATION:PT2H
+DTSTART:20201012T163000Z
+SUMMARY:🔮Moona: 【Minecraft】Build and decor!【Moona】
+UID:39oYWYVyfFk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マイクラホロ鯖】んなっ！地下倉庫がダンジョンっぽくなっちまったのら！ -Minecraft-【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=0UGxH_yHvoo
 DURATION:PT2H
 DTSTART:20201011T160000Z
@@ -16,13 +23,6 @@ DURATION:PT2H
 DTSTART:20201011T150000Z
 SUMMARY:🥐戌神ころね: 【90万人記念】お休み中のお話とありがとうの歌【ホロライブ/戌神ころね】
 UID:7U5-eDzWLBY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【目指すは真END】40万人達成するまでに真ENDクリアする【獄門ペンギン】\nhttps://www.youtube.com/watch?v=i-kIMN87YD0
-DURATION:PT2H
-DTSTART:20201012T130000Z
-SUMMARY:🌲大神ミオ: 【目指すは真END】40万人達成するまでに真ENDクリアする【獄門ペンギン】
-UID:i-kIMN87YD0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ゼノブレイド】DLC攻略！－つながる未来の物語－【ホロスターズ/夕刻ロベル】#1\nhttps://www.youtube.com/watch?v=OQFRTxFG86U
@@ -144,11 +144,25 @@ SUMMARY:雪花ラミィ: 【ゼルダの伝説 夢をみる島】3つ目のダ�
 UID:-bE-COOf1SQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【御飯の話】本物魔王と自称魔王の糠漬け事情【ディープブリザード/アルランディス】\nhttps://www.youtube.com/watch?v=vtPjOifu4m0
+DURATION:PT2H
+DTSTART:20201013T120000Z
+SUMMARY:🍕アルランディス: 【御飯の話】本物魔王と自称魔王の糠漬け事情【ディープブリザード/アルランディス】
+UID:vtPjOifu4m0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ももちょこ】ハートを打ち抜きたい女たちのAPEX【ホロライブ/桃鈴ねね/癒月ちょこ】\nhttps://www.youtube.com/watch?v=NTVsA4IYzI0
 DURATION:PT2H
 DTSTART:20201012T090000Z
 SUMMARY:💋癒月ちょこ: 【#ももちょこ】ハートを打ち抜きたい女たちのAPEX【ホロライブ/桃鈴ねね/癒月ちょこ】
 UID:NTVsA4IYzI0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゼルダの伝説ブレスオブザワイルド最終回】～決戦ハイラル城！～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=NsayNtksOyM
+DURATION:PT2H
+DTSTART:20201012T140000Z
+SUMMARY:荒咬オウガ: 【ゼルダの伝説ブレスオブザワイルド最終回】～決戦ハイラル城！～【荒咬オウガ/ホロスターズ】
+UID:NsayNtksOyM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🎵たのしいおえかきのじかん🎵【ホロライブ/尾丸ポルカ】\nhttps://www.youtube.com/watch?v=iK3YOffPw_0

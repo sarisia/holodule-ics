@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ゼルダの伝説ブレスオブザワイルド最終回】～決戦ハイラル城！～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=NsayNtksOyM
+DURATION:PT2H
+DTSTART:20201012T140000Z
+SUMMARY:荒咬オウガ: 【ゼルダの伝説ブレスオブザワイルド最終回】～決戦ハイラル城！～【荒咬オウガ/ホロスターズ】
+UID:NsayNtksOyM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【FallGuys】ばぶどんでシーズン２ちゃんぽん取っぞ！！【影山シエン/夕刻ロベル】\nhttps://www.youtube.com/watch?v=k1tbvjX6hlc
 DURATION:PT2H
 DTSTART:20201013T120000Z
@@ -51,5 +58,12 @@ DURATION:PT2H
 DTSTART:20201012T130000Z
 SUMMARY:🍕アルランディス: 【 #FallGuys 】俺が勝つ配信です【アルランディス/岸堂天真/律可】
 UID:P8aCdc2JCOg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【御飯の話】本物魔王と自称魔王の糠漬け事情【ディープブリザード/アルランディス】\nhttps://www.youtube.com/watch?v=vtPjOifu4m0
+DURATION:PT2H
+DTSTART:20201013T120000Z
+SUMMARY:🍕アルランディス: 【御飯の話】本物魔王と自称魔王の糠漬け事情【ディープブリザード/アルランディス】
+UID:vtPjOifu4m0
 END:VEVENT
 END:VCALENDAR
