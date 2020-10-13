@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:ここにタイトル【ホロライブ/尾丸ポルカ】\nhttps://www.youtube.com/watch?v=erweyYJ4CGk
+DURATION:PT2H
+DTSTART:20201014T050000Z
+SUMMARY:尾丸ポルカ: ここにタイトル【ホロライブ/尾丸ポルカ】
+UID:erweyYJ4CGk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【GC】極力１匹たりとも死なせたくないピクミン２：＃７【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=JXMXa7P39A0
 DURATION:PT2H
 DTSTART:20201013T090000Z
@@ -107,6 +114,13 @@ DURATION:PT2H
 DTSTART:20201013T140000Z
 SUMMARY:🤖ロボ子さん: 【マイクラ】戌亥とアップデートされたネザーに初出陣！！【ホロライブ/ロボ子さん】
 UID:qZ796JePWQ8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ツイステ】廃人監督生と見るイベント/星に願いを＆お誕生日【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=He-DTXWBp18
+DURATION:PT2H
+DTSTART:20201013T120000Z
+SUMMARY:🌽白上フブキ: 【ツイステ】廃人監督生と見るイベント/星に願いを＆お誕生日【ホロライブ/白上フブキ】
+UID:He-DTXWBp18
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Fall Guys】セカンドシーズン初見！1時間で1位なるか...？！🐣✨【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=VUBoAjINJIw
