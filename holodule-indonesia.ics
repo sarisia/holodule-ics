@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【hololiveID】#5 BARTENDERisu in action !! More drama possibility ??  【Ayunda Risu】\nhttps://www.youtube.com/watch?v=SAnfQXerI7w
+DURATION:PT2H
+DTSTART:20201013T100000Z
+SUMMARY:🐿Risu: 【hololiveID】#5 BARTENDERisu in action !! More drama possibility ??  【Ayunda Risu】
+UID:SAnfQXerI7w
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Build and decor!【Moona】\nhttps://www.youtube.com/watch?v=39oYWYVyfFk
 DURATION:PT2H
 DTSTART:20201012T160424Z
@@ -16,26 +23,5 @@ DURATION:PT2H
 DTSTART:20201013T113000Z
 SUMMARY:IDholo: Shiny Smily Story - hololive Indonesia (Cover)
 UID:vpViBoIVrk0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【IOFI x POCHI-MARU】 Happy Synthesizer / ハッピーシンセサイザ COVER【＃いおぽち】\nhttps://www.youtube.com/watch?v=lh5UqNxEbhs
-DURATION:PT2H
-DTSTART:20201012T120000Z
-SUMMARY:🎨Iofi: 【IOFI x POCHI-MARU】 Happy Synthesizer / ハッピーシンセサイザ COVER【＃いおぽち】
-UID:lh5UqNxEbhs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【hololiveID】#5 BARTENDERisu in action !! More drama possibility ??  【Ayunda Risu】\nhttps://www.youtube.com/watch?v=SAnfQXerI7w
-DURATION:PT2H
-DTSTART:20201013T100000Z
-SUMMARY:🐿Risu: 【hololiveID】#5 BARTENDERisu in action !! More drama possibility ??  【Ayunda Risu】
-UID:SAnfQXerI7w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#io6teen】燃えろ、イオフォリア！Saatnya Roasting IOFORIA【hololiveID】\nhttps://www.youtube.com/watch?v=weONSM52vFU
-DURATION:PT2H
-DTSTART:20201012T130000Z
-SUMMARY:🎨Iofi: 【#io6teen】燃えろ、イオフォリア！Saatnya Roasting IOFORIA【hololiveID】
-UID:weONSM52vFU
 END:VEVENT
 END:VCALENDAR
