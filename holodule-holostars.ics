@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ゼルダの伝説ブレスオブザワイルド最終回】～決戦ハイラル城！～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=NsayNtksOyM
-DURATION:PT2H
-DTSTART:20201012T140000Z
-SUMMARY:荒咬オウガ: 【ゼルダの伝説ブレスオブザワイルド最終回】～決戦ハイラル城！～【荒咬オウガ/ホロスターズ】
-UID:NsayNtksOyM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ゼノブレイド】DLC攻略！－つながる未来の物語－【ホロスターズ/夕刻ロベル】#2\nhttps://www.youtube.com/watch?v=dhjMIorwG40
 DURATION:PT2H
 DTSTART:20201014T040000Z
 SUMMARY:🍷夕刻ロベル: 【ゼノブレイド】DLC攻略！－つながる未来の物語－【ホロスターズ/夕刻ロベル】#2
 UID:dhjMIorwG40
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゼルダの伝説ブレスオブザワイルド最終回】～決戦ハイラル城！～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=NsayNtksOyM
+DURATION:PT2H
+DTSTART:20201012T140000Z
+SUMMARY:荒咬オウガ: 【ゼルダの伝説ブレスオブザワイルド最終回】～決戦ハイラル城！～【荒咬オウガ/ホロスターズ】
+UID:NsayNtksOyM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ASMR】～筋トレセリフ読みASMR　Muscle training Dialogue reading Autonomous Sensory Meridian Resp～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=ktbyT8IADAc
@@ -60,18 +60,18 @@ SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－今週も始まっ
 UID:GNn8OJHY1P4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スーパーマリオ35】一位を目指し奮闘する男【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=ul0IXGR1Ab0
-DURATION:PT2H
-DTSTART:20201012T110000Z
-SUMMARY:🍷夕刻ロベル: 【スーパーマリオ35】一位を目指し奮闘する男【ホロスターズ/夕刻ロベル】
-UID:ul0IXGR1Ab0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 #FallGuys 】俺が勝つ配信です【アルランディス/岸堂天真/律可】\nhttps://www.youtube.com/watch?v=P8aCdc2JCOg
 DURATION:PT2H
 DTSTART:20201012T130000Z
 SUMMARY:🍕アルランディス: 【 #FallGuys 】俺が勝つ配信です【アルランディス/岸堂天真/律可】
 UID:P8aCdc2JCOg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スーパーマリオ35】一位を目指し奮闘する男【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=ul0IXGR1Ab0
+DURATION:PT2H
+DTSTART:20201012T110000Z
+SUMMARY:🍷夕刻ロベル: 【スーパーマリオ35】一位を目指し奮闘する男【ホロスターズ/夕刻ロベル】
+UID:ul0IXGR1Ab0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FallGuys】ばぶどんでシーズン２ちゃんぽん取っぞ！！【影山シエン/夕刻ロベル】\nhttps://www.youtube.com/watch?v=k1tbvjX6hlc
@@ -107,6 +107,13 @@ DURATION:PT2H
 DTSTART:20201012T130000Z
 SUMMARY:⚙律可: 【Fall guys シーズン２】3本の矢はおれぬ！three arrows is strong【律可/アルランディス/岸堂天真】
 UID:dfT0AM_3bbU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【記念枠】4\,5\,6万人記念！いつもほんまにおーきにですー！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=a5l7K1q4zlk
+DURATION:PT2H
+DTSTART:20201014T130000Z
+SUMMARY:🍷夕刻ロベル: 【記念枠】4\,5\,6万人記念！いつもほんまにおーきにですー！【ホロスターズ/夕刻ロベル】
+UID:a5l7K1q4zlk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】夕方雑談【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=T_YLp97mr4U
