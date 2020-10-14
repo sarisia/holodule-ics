@@ -4,32 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【AMExKIARA COLLAB】Clubhouse Games: 51 Worldwide Classics #kfp #キアライブ #amelive\nhttps://www.youtube.com/watch?v=fYh57wZAmTo
-DURATION:PT2H
-DTSTART:20201013T130000Z
-SUMMARY:Kiara: 【AMExKIARA COLLAB】Clubhouse Games: 51 Worldwide Classics #kfp #キアライブ #amelive
-UID:fYh57wZAmTo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【OVERCOOKED2】B*tchin' Kitchen and Now Takoyaki is on the Menu #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=LFG7kptYcEU
-DURATION:PT2H
-DTSTART:20201014T140138Z
-SUMMARY:Calli: 【OVERCOOKED2】B*tchin' Kitchen and Now Takoyaki is on the Menu #hololiveEnglish #holoMyth
-UID:LFG7kptYcEU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[MINECRAFT] TIME TO ENCHANT #GAWRGURA #HololiveEnglish\nhttps://www.youtube.com/watch?v=3_mDtToNWLQ
-DURATION:PT2H
-DTSTART:20201013T020000Z
-SUMMARY:Gura: [MINECRAFT] TIME TO ENCHANT #GAWRGURA #HololiveEnglish
-UID:3_mDtToNWLQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DOOM Eternal】REAP AND TEAR!!! And Get Real Tilted\, Probably! #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=CQ2lmH5TdJI
 DURATION:PT2H
 DTSTART:20201014T070012Z
 SUMMARY:Calli: 【DOOM Eternal】REAP AND TEAR!!! And Get Real Tilted\, Probably! #hololiveEnglish #holoMyth
 UID:CQ2lmH5TdJI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FIRE EMBLEM: THREE HOUSES】Bird Brain fully activated!!!!!!!!  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=XHFO-xet9Zs
+DURATION:PT2H
+DTSTART:20201014T090000Z
+SUMMARY:Kiara: 【FIRE EMBLEM: THREE HOUSES】Bird Brain fully activated!!!!!!!!  #kfp #キアライブ
+UID:XHFO-xet9Zs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】The Search for Bradley #TAKOTIME #hololiveEnglish\nhttps://www.youtube.com/watch?v=KRIYhMfxzeM
@@ -39,13 +25,6 @@ SUMMARY:Ina: 【Minecraft】The Search for Bradley #TAKOTIME #hololiveEnglish
 UID:KRIYhMfxzeM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Mario Odyssey】SNOW ! ! (((o(*ﾟ▽ﾟ*)o)))\nhttps://www.youtube.com/watch?v=yS0XtBrM2A8
-DURATION:PT2H
-DTSTART:20201014T050500Z
-SUMMARY:Amelia: 【Mario Odyssey】SNOW ! ! (((o(*ﾟ▽ﾟ*)o)))
-UID:yS0XtBrM2A8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】I'm mining.... (つ･･)つ／¤ !!\nhttps://www.youtube.com/watch?v=zYYXgCiCEEk
 DURATION:PT2H
 DTSTART:20201014T113000Z
@@ -53,10 +32,17 @@ SUMMARY:Amelia: 【Minecraft】I'm mining.... (つ･･)つ／¤ !!
 UID:zYYXgCiCEEk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Railway Research ＿|￣| ⍨⃝\nhttps://www.youtube.com/watch?v=0Qygvs0rG50
+DESCRIPTION:【Mario Odyssey】SNOW ! ! (((o(*ﾟ▽ﾟ*)o)))\nhttps://www.youtube.com/watch?v=yS0XtBrM2A8
 DURATION:PT2H
-DTSTART:20201013T000500Z
-SUMMARY:Amelia: 【Minecraft】Railway Research ＿|￣| ⍨⃝
-UID:0Qygvs0rG50
+DTSTART:20201014T050500Z
+SUMMARY:Amelia: 【Mario Odyssey】SNOW ! ! (((o(*ﾟ▽ﾟ*)o)))
+UID:yS0XtBrM2A8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【OVERCOOKED2】B*tchin' Kitchen and Now Takoyaki is on the Menu #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=LFG7kptYcEU
+DURATION:PT2H
+DTSTART:20201014T140138Z
+SUMMARY:Calli: 【OVERCOOKED2】B*tchin' Kitchen and Now Takoyaki is on the Menu #hololiveEnglish #holoMyth
+UID:LFG7kptYcEU
 END:VEVENT
 END:VCALENDAR
