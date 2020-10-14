@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Among Us】Promised PANIK!!!!!!!!!【ホロライブ/尾丸ポルカ】\nhttps://www.youtube.com/watch?v=erweyYJ4CGk
-DURATION:PT2H
-DTSTART:20201014T050000Z
-SUMMARY:尾丸ポルカ: 【Among Us】Promised PANIK!!!!!!!!!【ホロライブ/尾丸ポルカ】
-UID:erweyYJ4CGk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ゼルダの伝説BotW】ほこら＆ミニチャレンジ！ハートをいっぱい増やしたい💓【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=Ak4ZAk6PRrk
 DURATION:PT2H
 DTSTART:20201014T020000Z
@@ -44,6 +37,13 @@ DURATION:PT2H
 DTSTART:20201015T130000Z
 SUMMARY:🏮夏色まつり: 【ガチャ】APEX100連ガチャで沼発狂RTA！？【ホロライブ/夏色まつり】
 UID:bZgtDwGOvVY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【unrailed!】仲良く4人で協力！無限レール繋ぎ【ホロライブ/5期生】\nhttps://www.youtube.com/watch?v=CAET8Quteso
+DURATION:PT2H
+DTSTART:20201014T120000Z
+SUMMARY:雪花ラミィ: 【unrailed!】仲良く4人で協力！無限レール繋ぎ【ホロライブ/5期生】
+UID:CAET8Quteso
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Call of Cthulhu/名探偵白上のＳＡＮ値減少【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=-LBEcqSBYmE
@@ -151,6 +151,13 @@ SUMMARY:🔥不知火フレア: 【マインクラフト/Minecraft】お庭を�
 UID:8TSC2aUZrG4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【SUPER MARIO BROS.35】超ゲリラ！「一位」以外で即終了！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=gv-jqlJ6UUI
+DURATION:PT2H
+DTSTART:20201014T090000Z
+SUMMARY:⚓湊あくあ: 【SUPER MARIO BROS.35】超ゲリラ！「一位」以外で即終了！【湊あくあ/ホロライブ】
+UID:gv-jqlJ6UUI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マリオ３Dコレクション】女神がギャラクシー初見実況プレイ【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=3RJsz5_K_6g
 DURATION:PT2H
 DTSTART:20201014T090000Z
@@ -163,6 +170,13 @@ DURATION:PT2H
 DTSTART:20201014T030000Z
 SUMMARY:桃鈴ねね: 【Minecraft】お昼のマイクラ【ホロライブ/桃鈴ねね】
 UID:pM4cTBum0gQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【配信予定地】ぺっこおおおおおおおおおおおおんぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=AEPqwCuJRys
+DURATION:PT2H
+DTSTART:20201014T130000Z
+SUMMARY:👯兎田ぺこら: 【配信予定地】ぺっこおおおおおおおおおおおおんぺこ！【ホロライブ/兎田ぺこら】
+UID:AEPqwCuJRys
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#そやんこいづメル】女同士の戦いが今始まる♥【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=3qPuwYhCUPY
