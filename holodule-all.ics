@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#ホロAmongUs】みんなで遊んじゃう～～⭐【猫又おかゆ視点】\nhttps://www.youtube.com/watch?v=LmhbAWFn7LA
+DESCRIPTION:【#2】Call of Cthulhu/名探偵白上のＳＡＮ値減少【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=kuTtoQGGRFA
 DURATION:PT2H
-DTSTART:20201015T100000Z
-SUMMARY:🍙猫又おかゆ: 【#ホロAmongUs】みんなで遊んじゃう～～⭐【猫又おかゆ視点】
-UID:LmhbAWFn7LA
+DTSTART:20201016T130000Z
+SUMMARY:🌽白上フブキ: 【#2】Call of Cthulhu/名探偵白上のＳＡＮ値減少【ホロライブ/白上フブキ】
+UID:kuTtoQGGRFA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ブレイブルー】続　武　者　修　行【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=inpfn1StM3c
@@ -32,11 +32,18 @@ SUMMARY:🍬姫森ルーナ: 【マイクラホロ鯖】我ら、建築隊なの
 UID:cZgf9hGgHR0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:花咲!!早くスケジュールを作りなさい!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=77BSaZs0RKI
+DESCRIPTION:【晩酌】プレゼント開封の儀！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=xfQhzCoDEAc
 DURATION:PT2H
-DTSTART:20201015T030000Z
-SUMMARY:🌺花咲みやび: 花咲!!早くスケジュールを作りなさい!!【花咲みやび/ホロスターズ】
-UID:77BSaZs0RKI
+DTSTART:20201016T130000Z
+SUMMARY:雪花ラミィ: 【晩酌】プレゼント開封の儀！【雪花ラミィ/ホロライブ】
+UID:xfQhzCoDEAc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゼノブレイド2】初見で挑むゼノブレイド2！－旅路がまた始まる－【ホロスターズ/夕刻ロベル】#1\nhttps://www.youtube.com/watch?v=0sB6EImaICY
+DURATION:PT2H
+DTSTART:20201017T040000Z
+SUMMARY:🍷夕刻ロベル: 【ゼノブレイド2】初見で挑むゼノブレイド2！－旅路がまた始まる－【ホロスターズ/夕刻ロベル】#1
+UID:0sB6EImaICY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Let's get lost together.【Moona】\nhttps://www.youtube.com/watch?v=fO1nv9iCh0E
@@ -46,25 +53,18 @@ SUMMARY:🔮Moona: 【Minecraft】Let's get lost together.【Moona】
 UID:fO1nv9iCh0E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロAmongUs】人畜無害な宇宙飛行狐のmongUs 【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=D5T7qCKkdbc
+DESCRIPTION:人生初マリオハーッハァ！イッツミーポルカァ！【SUPER MARIO BROS.】\nhttps://www.youtube.com/watch?v=8ZKNnuWXTLw
 DURATION:PT2H
-DTSTART:20201015T100000Z
-SUMMARY:🌽白上フブキ: 【#ホロAmongUs】人畜無害な宇宙飛行狐のmongUs 【ホロライブ/白上フブキ】
-UID:D5T7qCKkdbc
+DTSTART:20201016T090000Z
+SUMMARY:尾丸ポルカ: 人生初マリオハーッハァ！イッツミーポルカァ！【SUPER MARIO BROS.】
+UID:8ZKNnuWXTLw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【好物語】アルランディスがプリティーシリーズを語るようです【ホロスターズ】\nhttps://www.youtube.com/watch?v=iLAPbbAd7Oc
+DESCRIPTION:【雑談】首輪なう【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=xWw-NSRmugQ
 DURATION:PT2H
-DTSTART:20201015T120000Z
-SUMMARY:🍕アルランディス: 【好物語】アルランディスがプリティーシリーズを語るようです【ホロスターズ】
-UID:iLAPbbAd7Oc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロAmongUs】ぽんこつ脳筋でも生き残りたい【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=c6ZA92RJrpM
-DURATION:PT2H
-DTSTART:20201015T100000Z
-SUMMARY:⚔白銀ノエル: 【#ホロAmongUs】ぽんこつ脳筋でも生き残りたい【白銀ノエル/ホロライブ】
-UID:c6ZA92RJrpM
+DTSTART:20201017T010000Z
+SUMMARY:🤖ロボ子さん: 【雑談】首輪なう【ホロライブ/ロボ子さん】
+UID:xWw-NSRmugQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Live Draw 2】宇宙人と魔人と魔王のお絵描き、どうなるんだろう？わくわく！【hololiveID】\nhttps://www.youtube.com/watch?v=4MatA3tiE24
@@ -88,18 +88,11 @@ SUMMARY:☄星街すいせい: 【テトリス99】テンプレ練習会！【�
 UID:d2UWqOLCUXY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロAmongUs】NENE IS 大嘘つき『Among Us』コラボ【桃鈴ねね視点】\nhttps://www.youtube.com/watch?v=mNWVxbbjxac
+DESCRIPTION:に゛ゃ゛あ゛あ゛に゛ゃ゛あ゛あ゛あ゛あ゛あ゛\nhttps://www.youtube.com/watch?v=cnFyiysuBrQ
 DURATION:PT2H
-DTSTART:20201015T100000Z
-SUMMARY:桃鈴ねね: 【#ホロAmongUs】NENE IS 大嘘つき『Among Us』コラボ【桃鈴ねね視点】
-UID:mNWVxbbjxac
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:アルバム曲同時視聴したいのそら！【＃ときのそら生放送】\nhttps://www.youtube.com/watch?v=FNUSdLGDt_M
-DURATION:PT2H
-DTSTART:20201015T103000Z
-SUMMARY:🐻ときのそら: アルバム曲同時視聴したいのそら！【＃ときのそら生放送】
-UID:FNUSdLGDt_M
+DTSTART:20201016T133805Z
+SUMMARY:⚓湊あくあ: に゛ゃ゛あ゛あ゛に゛ゃ゛あ゛あ゛あ゛あ゛あ゛
+UID:cnFyiysuBrQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【深夜雑談枠】Midnight Talk Showでトークしよう！【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=H9DkdOGLj-Y
@@ -116,18 +109,11 @@ SUMMARY:ホロライブ: 【アニメ】カレーメシVSホロライブ
 UID:p554IIGY8Dw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ASMR】～ボトルマン組み立てASMR　Bottleman　Assemble Autonomous Sensory Meridian Resp～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=ityXhXCA0FY
+DESCRIPTION:【スマブラSP】視聴者参加型！！優しくしてください。【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=tUo-HJCBWVI
 DURATION:PT2H
-DTSTART:20201015T130000Z
-SUMMARY:荒咬オウガ: 【ASMR】～ボトルマン組み立てASMR　Bottleman　Assemble Autonomous Sensory Meridian Resp～【荒咬オウガ/ホロスターズ】
-UID:ityXhXCA0FY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ボトルマン】～もうちょっと遊んだりいじったり～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=55CsVgrDlUg
-DURATION:PT2H
-DTSTART:20201015T133500Z
-SUMMARY:荒咬オウガ: 【ボトルマン】～もうちょっと遊んだりいじったり～【荒咬オウガ/ホロスターズ】
-UID:55CsVgrDlUg
+DTSTART:20201016T150000Z
+SUMMARY:🌙紫咲シオン: 【スマブラSP】視聴者参加型！！優しくしてください。【ホロライブ/紫咲シオン】
+UID:tUo-HJCBWVI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】ねねとプチシュー【ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=1S-bYpbRs7I
@@ -135,293 +121,6 @@ DURATION:PT2H
 DTSTART:20201016T060000Z
 SUMMARY:桃鈴ねね: 【雑談】ねねとプチシュー【ホロライブ/桃鈴ねね】
 UID:1S-bYpbRs7I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ホラー/おかえり】帰りたくないやつ【ホロライブ/戌神ころね】\nhttps://www.youtube.com/watch?v=6tXlk3i9cuA
-DURATION:PT2H
-DTSTART:20201015T110000Z
-SUMMARY:🥐戌神ころね: 【ホラー/おかえり】帰りたくないやつ【ホロライブ/戌神ころね】
-UID:6tXlk3i9cuA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[MINECRAFT] ADVENTURE!! #GAWRGURA #HololiveEnglish\nhttps://www.youtube.com/watch?v=oLfPxPzDt5M
-DURATION:PT2H
-DTSTART:20201015T020000Z
-SUMMARY:Gura: [MINECRAFT] ADVENTURE!! #GAWRGURA #HololiveEnglish
-UID:oLfPxPzDt5M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【オススメ!!】10分でわかる！ようこそ実力至上主義の教室へ【湊あくあ】\nhttps://www.youtube.com/watch?v=XIDzSr3oX1w
-DURATION:PT2H
-DTSTART:20201016T100032Z
-SUMMARY:⚓湊あくあ: 【オススメ!!】10分でわかる！ようこそ実力至上主義の教室へ【湊あくあ】
-UID:XIDzSr3oX1w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ブレイブルー】続　武　者　修　行【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=jZOcDj_gxfY
-DURATION:PT2H
-DTSTART:20201016T150000Z
-SUMMARY:🍷夕刻ロベル: 【ブレイブルー】続　武　者　修　行【ホロスターズ/夕刻ロベル】
-UID:jZOcDj_gxfY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】深夜のホロ鯖！！まったりマイクラ✨【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=CsLhIyGyVjk
-DURATION:PT2H
-DTSTART:20201014T150000Z
-SUMMARY:🌙紫咲シオン: 【Minecraft】深夜のホロ鯖！！まったりマイクラ✨【ホロライブ/紫咲シオン】
-UID:CsLhIyGyVjk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】夜のゆったり作業枠【＃ときのそら生放送】\nhttps://www.youtube.com/watch?v=1eTpi4Bgjdg
-DURATION:PT2H
-DTSTART:20201015T133000Z
-SUMMARY:🐻ときのそら: 【Minecraft】夜のゆったり作業枠【＃ときのそら生放送】
-UID:1eTpi4Bgjdg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【もうすぐ50万人】見届け隊出動！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=JuqFCoM-PGw
-DURATION:PT2H
-DTSTART:20201015T073000Z
-SUMMARY:🐏角巻わため: 【もうすぐ50万人】見届け隊出動！【角巻わため/ホロライブ４期生】
-UID:JuqFCoM-PGw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】珍しくテントから歌う🎤✨【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=Vv2kZiXLIm8
-DURATION:PT2H
-DTSTART:20201016T100000Z
-SUMMARY:⚔白銀ノエル: 【歌枠】珍しくテントから歌う🎤✨【白銀ノエル/ホロライブ】
-UID:Vv2kZiXLIm8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【LIVE SHOW】Mori Live Music! Calliope Mori's First Free Concert\, ye!  #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=M4shflYdXf8
-DURATION:PT2H
-DTSTART:20201017T021500Z
-SUMMARY:Calli: 【LIVE SHOW】Mori Live Music! Calliope Mori's First Free Concert\, ye!  #hololiveEnglish #holoMyth
-UID:M4shflYdXf8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スーパーマリオ35】今日もまた１位を取りご満悦になる男【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=B4MzEjypQ7A
-DURATION:PT2H
-DTSTART:20201016T110000Z
-SUMMARY:🍷夕刻ロベル: 【スーパーマリオ35】今日もまた１位を取りご満悦になる男【ホロスターズ/夕刻ロベル】
-UID:B4MzEjypQ7A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FREE TALK 雑談】Let's Make a Calliope Stream BINGO CARD. The Kids Often Create Them These Days.\nhttps://www.youtube.com/watch?v=QJ21GJW59AU
-DURATION:PT2H
-DTSTART:20201015T151511Z
-SUMMARY:Calli: 【FREE TALK 雑談】Let's Make a Calliope Stream BINGO CARD. The Kids Often Create Them These Days.
-UID:QJ21GJW59AU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【銀河的お悩み相談室】がっかりして、めそめそして、どうしたんだい？【アステル】\nhttps://www.youtube.com/watch?v=l3LfY62AUG8
-DURATION:PT2H
-DTSTART:20201015T140000Z
-SUMMARY:🎭アステル・レダ: 【銀河的お悩み相談室】がっかりして、めそめそして、どうしたんだい？【アステル】
-UID:l3LfY62AUG8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Cover】帝国少女-Imperial Girl / 奏手イヅル(Kanade Izuru)\nhttps://www.youtube.com/watch?v=1rgkCnKggTc
-DURATION:PT2H
-DTSTART:20201015T100000Z
-SUMMARY:🎸奏手イヅル: 【Cover】帝国少女-Imperial Girl / 奏手イヅル(Kanade Izuru)
-UID:1rgkCnKggTc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[DARK DECEPTION] CLOWN! #GAWRGURA #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=hrgLfb-uLe8
-DURATION:PT2H
-DTSTART:20201016T030000Z
-SUMMARY:Gura: [DARK DECEPTION] CLOWN! #GAWRGURA #hololiveEnglish #holoMyth
-UID:hrgLfb-uLe8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【くじびき】スバちょこルーナ地獄くじ引き大会こらぼ【ホロライブ】\nhttps://www.youtube.com/watch?v=oiyvXoh9gXs
-DURATION:PT2H
-DTSTART:20201015T130000Z
-SUMMARY:🚑大空スバル: 【くじびき】スバちょこルーナ地獄くじ引き大会こらぼ【ホロライブ】
-UID:oiyvXoh9gXs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#らみらいぶ】木曜日の朝活雑談【10月15日】\nhttps://www.youtube.com/watch?v=EjjU8g5QzOI
-DURATION:PT2H
-DTSTART:20201015T000000Z
-SUMMARY:雪花ラミィ: 【#らみらいぶ】木曜日の朝活雑談【10月15日】
-UID:EjjU8g5QzOI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロAmongUs】狼だけど、狼じゃないよ(？)初めての宇宙人狼🌏【大神ミオ視点】\nhttps://www.youtube.com/watch?v=t1cwkAkVEcE
-DURATION:PT2H
-DTSTART:20201015T100000Z
-SUMMARY:🌲大神ミオ: 【#ホロAmongUs】狼だけど、狼じゃないよ(？)初めての宇宙人狼🌏【大神ミオ視点】
-UID:t1cwkAkVEcE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロAmongUs】この中に裏切者がいる… —宇宙人狼『Among Us』コラボ【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=pcNGTWsTx5A
-DURATION:PT2H
-DTSTART:20201015T100000Z
-SUMMARY:獅白ぼたん: 【#ホロAmongUs】この中に裏切者がいる… —宇宙人狼『Among Us』コラボ【獅白ぼたん/ホロライブ】
-UID:pcNGTWsTx5A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マインクラフト/Minecraft】腹ぺこ建築！🍨Delicious architecture！【#フレルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=4wIzZC2gLpY
-DURATION:PT2H
-DTSTART:20201016T130000Z
-SUMMARY:🔥不知火フレア: 【マインクラフト/Minecraft】腹ぺこ建築！🍨Delicious architecture！【#フレルーナ/ホロライブ】
-UID:4wIzZC2gLpY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロAmongUs】みんなでわちゃわちゃかわいく人狼🐺💫【常闇トワ視点】\nhttps://www.youtube.com/watch?v=Z_GxE1zOCpM
-DURATION:PT2H
-DTSTART:20201015T100000Z
-SUMMARY:👾常闇トワ: 【#ホロAmongUs】みんなでわちゃわちゃかわいく人狼🐺💫【常闇トワ視点】
-UID:Z_GxE1zOCpM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活】生活習慣改善－ほら！木曜日さんに早く挨拶して！！－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=4ZnpN5Dk5ds
-DURATION:PT2H
-DTSTART:20201015T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－ほら！木曜日さんに早く挨拶して！！－【ホロスターズ/夕刻ロベル】
-UID:4ZnpN5Dk5ds
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Apex Legends】朝活RANK!! 【奏手イヅル/アステル】\nhttps://www.youtube.com/watch?v=c9djWySMSB0
-DURATION:PT2H
-DTSTART:20201016T020000Z
-SUMMARY:🎸奏手イヅル: 【Apex Legends】朝活RANK!! 【奏手イヅル/アステル】
-UID:c9djWySMSB0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】TNTで新しい村を開拓する！！！！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=_WUw8_lJLCA
-DURATION:PT2H
-DTSTART:20201016T080000Z
-SUMMARY:🦋潤羽るしあ: 【Minecraft】TNTで新しい村を開拓する！！！！【潤羽るしあ/ホロライブ】
-UID:_WUw8_lJLCA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ON STAGE!収録】Step and Go!!(Short ver.)MV【ときのそらオリジナル楽曲】\nhttps://www.youtube.com/watch?v=OG6yRuj3KkY
-DURATION:PT2H
-DTSTART:20201015T110004Z
-SUMMARY:🐻ときのそら: 【ON STAGE!収録】Step and Go!!(Short ver.)MV【ときのそらオリジナル楽曲】
-UID:OG6yRuj3KkY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Hades】Deja Vu #TAKOTIME #hololiveEnglish\nhttps://www.youtube.com/watch?v=kZOAG6nyIQo
-DURATION:PT2H
-DTSTART:20201016T230000Z
-SUMMARY:Ina: 【Hades】Deja Vu #TAKOTIME #hololiveEnglish
-UID:kZOAG6nyIQo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SUBARUxKIARA】Untitled Goose Game HONK【日本語メイン】JAPANESE MAIN STREAM  #ホロ鳥 #holobirds\nhttps://www.youtube.com/watch?v=IlxyHzgjHFI
-DURATION:PT2H
-DTSTART:20201016T110000Z
-SUMMARY:Kiara: 【SUBARUxKIARA】Untitled Goose Game HONK【日本語メイン】JAPANESE MAIN STREAM  #ホロ鳥 #holobirds
-UID:IlxyHzgjHFI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:コールオブクトゥルフ前回のまとめ！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=TXJP_3T3WQQ
-DURATION:PT2H
-DTSTART:20201016T085004Z
-SUMMARY:🌽白上フブキ: コールオブクトゥルフ前回のまとめ！【ホロライブ/白上フブキ】
-UID:TXJP_3T3WQQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【AREA 15】Six Month Anniversary Talk! Mari Bercerita Tentang Kita【hololive-ID】\nhttps://www.youtube.com/watch?v=BxLjNPfWKYw
-DURATION:PT2H
-DTSTART:20201015T130000Z
-SUMMARY:🎨Iofi: 【AREA 15】Six Month Anniversary Talk! Mari Bercerita Tentang Kita【hololive-ID】
-UID:BxLjNPfWKYw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活】お話しながらまったりAPEX～！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=DTy0nqoiD7s
-DURATION:PT2H
-DTSTART:20201014T214500Z
-SUMMARY:🏮夏色まつり: 【朝活】お話しながらまったりAPEX～！【ホロライブ/夏色まつり】
-UID:DTy0nqoiD7s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#2】Call of Cthulhu/名探偵白上のＳＡＮ値減少【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=kuTtoQGGRFA
-DURATION:PT2H
-DTSTART:20201016T130000Z
-SUMMARY:🌽白上フブキ: 【#2】Call of Cthulhu/名探偵白上のＳＡＮ値減少【ホロライブ/白上フブキ】
-UID:kuTtoQGGRFA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Terraria】緊急！！【ちびすたーず】\nhttps://www.youtube.com/watch?v=6AAZX_8b6Tg
-DURATION:PT2H
-DTSTART:20201015T054500Z
-SUMMARY:🎸奏手イヅル: 【Terraria】緊急！！【ちびすたーず】
-UID:6AAZX_8b6Tg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【晩酌】プレゼント開封の儀！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=xfQhzCoDEAc
-DURATION:PT2H
-DTSTART:20201016T130000Z
-SUMMARY:雪花ラミィ: 【晩酌】プレゼント開封の儀！【雪花ラミィ/ホロライブ】
-UID:xfQhzCoDEAc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スマブラSP】私と！マイクラと！人生初のVIPの景色！！【目指して一日目】\nhttps://www.youtube.com/watch?v=hn0zlzVoGJk
-DURATION:PT2H
-DTSTART:20201015T120000Z
-SUMMARY:⚓湊あくあ: 【スマブラSP】私と！マイクラと！人生初のVIPの景色！！【目指して一日目】
-UID:hn0zlzVoGJk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ゼノブレイド2】初見で挑むゼノブレイド2！－旅路がまた始まる－【ホロスターズ/夕刻ロベル】#1\nhttps://www.youtube.com/watch?v=0sB6EImaICY
-DURATION:PT2H
-DTSTART:20201017T040000Z
-SUMMARY:🍷夕刻ロベル: 【ゼノブレイド2】初見で挑むゼノブレイド2！－旅路がまた始まる－【ホロスターズ/夕刻ロベル】#1
-UID:0sB6EImaICY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Dead by Daylight】モレル絶対吊るKnight of Night【#岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=Yj3IN99johM
-DURATION:PT2H
-DTSTART:20201014T160000Z
-SUMMARY:🦔💨岸堂天真: 【Dead by Daylight】モレル絶対吊るKnight of Night【#岸堂天真/ホロスターズ】
-UID:Yj3IN99johM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ガチャ】APEX100連ガチャで沼発狂RTA！？【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=bZgtDwGOvVY
-DURATION:PT2H
-DTSTART:20201015T130000Z
-SUMMARY:🏮夏色まつり: 【ガチャ】APEX100連ガチャで沼発狂RTA！？【ホロライブ/夏色まつり】
-UID:bZgtDwGOvVY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:人生初マリオハーッハァ！イッツミーポルカァ！【SUPER MARIO BROS.】\nhttps://www.youtube.com/watch?v=8ZKNnuWXTLw
-DURATION:PT2H
-DTSTART:20201016T090000Z
-SUMMARY:尾丸ポルカ: 人生初マリオハーッハァ！イッツミーポルカァ！【SUPER MARIO BROS.】
-UID:8ZKNnuWXTLw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MUSIC CHAT】Chatting and Sampling and Playing Instruments from My Realm! #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=kNe9ZZeSYzE
-DURATION:PT2H
-DTSTART:20201015T072932Z
-SUMMARY:Calli: 【MUSIC CHAT】Chatting and Sampling and Playing Instruments from My Realm! #hololiveEnglish #holoMyth
-UID:kNe9ZZeSYzE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:に゛ゃ゛あ゛あ゛に゛ゃ゛あ゛あ゛あ゛あ゛あ゛\nhttps://www.youtube.com/watch?v=cnFyiysuBrQ
-DURATION:PT2H
-DTSTART:20201016T133805Z
-SUMMARY:⚓湊あくあ: に゛ゃ゛あ゛あ゛に゛ゃ゛あ゛あ゛あ゛あ゛あ゛
-UID:cnFyiysuBrQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談コラボ】女児、、なのか…！？兎鞠まりさんのご来店じゃい！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=Uy_Nf-UAB9w
-DURATION:PT2H
-DTSTART:20201015T120000Z
-SUMMARY:🍷夕刻ロベル: 【雑談コラボ】女児、、なのか…！？兎鞠まりさんのご来店じゃい！！【ホロスターズ/夕刻ロベル】
-UID:Uy_Nf-UAB9w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スマブラSP】視聴者参加型！！優しくしてください。【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=tUo-HJCBWVI
-DURATION:PT2H
-DTSTART:20201016T150000Z
-SUMMARY:🌙紫咲シオン: 【スマブラSP】視聴者参加型！！優しくしてください。【ホロライブ/紫咲シオン】
-UID:tUo-HJCBWVI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【CoD:BOCW】オープンベータ！オープンベータ！わああああああああ！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=SpAmq3TBZRY
@@ -445,25 +144,25 @@ SUMMARY:桃鈴ねね: 【Minecraft】ねぽらぼビル！！！！【ホロラ�
 UID:daJTPE9LZbs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【弾き語り枠】at home ひきがたり！おやつ持参で【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=5rUowpG7oaI
+DESCRIPTION:【オススメ!!】10分でわかる！ようこそ実力至上主義の教室へ【湊あくあ】\nhttps://www.youtube.com/watch?v=XIDzSr3oX1w
 DURATION:PT2H
-DTSTART:20201015T060000Z
-SUMMARY:⚙律可: 【弾き語り枠】at home ひきがたり！おやつ持参で【律可/ホロスターズ】
-UID:5rUowpG7oaI
+DTSTART:20201016T100032Z
+SUMMARY:⚓湊あくあ: 【オススメ!!】10分でわかる！ようこそ実力至上主義の教室へ【湊あくあ】
+UID:XIDzSr3oX1w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【影廊 -Shadow Corridor-】逃げたのはあっちだから【ホロライブ/尾丸ポルカ】\nhttps://www.youtube.com/watch?v=z-gGroS2EDI
+DESCRIPTION:【ブレイブルー】続　武　者　修　行【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=jZOcDj_gxfY
 DURATION:PT2H
-DTSTART:20201015T120000Z
-SUMMARY:尾丸ポルカ: 【影廊 -Shadow Corridor-】逃げたのはあっちだから【ホロライブ/尾丸ポルカ】
-UID:z-gGroS2EDI
+DTSTART:20201016T150000Z
+SUMMARY:🍷夕刻ロベル: 【ブレイブルー】続　武　者　修　行【ホロスターズ/夕刻ロベル】
+UID:jZOcDj_gxfY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【記念枠】4万人ありがと~!!　節目が見えてきた【奏手イヅル】\nhttps://www.youtube.com/watch?v=_qAdhOHs8sA
+DESCRIPTION:【歌枠】珍しくテントから歌う🎤✨【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=Vv2kZiXLIm8
 DURATION:PT2H
-DTSTART:20201015T110000Z
-SUMMARY:🎸奏手イヅル: 【記念枠】4万人ありがと~!!　節目が見えてきた【奏手イヅル】
-UID:_qAdhOHs8sA
+DTSTART:20201016T100000Z
+SUMMARY:⚔白銀ノエル: 【歌枠】珍しくテントから歌う🎤✨【白銀ノエル/ホロライブ】
+UID:Vv2kZiXLIm8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Drawtective】Drawing Holo EN ~\nhttps://www.youtube.com/watch?v=icT5nkMuo_s
@@ -473,6 +172,13 @@ SUMMARY:Amelia: 【Drawtective】Drawing Holo EN ~
 UID:icT5nkMuo_s
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【LIVE SHOW】Mori Live Music! Calliope Mori's First Free Concert\, ye!  #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=M4shflYdXf8
+DURATION:PT2H
+DTSTART:20201017T021500Z
+SUMMARY:Calli: 【LIVE SHOW】Mori Live Music! Calliope Mori's First Free Concert\, ye!  #hololiveEnglish #holoMyth
+UID:M4shflYdXf8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】世界樹クリスマスツリー建設部隊 #ゆるスタ 【花咲みやび/岸堂天真/アルランディス】\nhttps://www.youtube.com/watch?v=0E8VWa_8dYw
 DURATION:PT2H
 DTSTART:20201016T140000Z
@@ -480,18 +186,18 @@ SUMMARY:🍕アルランディス: 【Minecraft】世界樹クリスマスツリ
 UID:0E8VWa_8dYw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロAmongUs】宇宙にいる裏切りものを見つけ出すぺこ！！！！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=n5Uuif5G708
+DESCRIPTION:【スーパーマリオ35】今日もまた１位を取りご満悦になる男【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=B4MzEjypQ7A
 DURATION:PT2H
-DTSTART:20201015T100000Z
-SUMMARY:👯兎田ぺこら: 【#ホロAmongUs】宇宙にいる裏切りものを見つけ出すぺこ！！！！【ホロライブ/兎田ぺこら】
-UID:n5Uuif5G708
+DTSTART:20201016T110000Z
+SUMMARY:🍷夕刻ロベル: 【スーパーマリオ35】今日もまた１位を取りご満悦になる男【ホロスターズ/夕刻ロベル】
+UID:B4MzEjypQ7A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ゼノブレイド】追加ストーリー攻略！－つながる未来の物語－【ホロスターズ/夕刻ロベル】#3\nhttps://www.youtube.com/watch?v=HMbaw702grE
+DESCRIPTION:【FREE TALK 雑談】Let's Make a Calliope Stream BINGO CARD. The Kids Often Create Them These Days.\nhttps://www.youtube.com/watch?v=QJ21GJW59AU
 DURATION:PT2H
-DTSTART:20201015T040000Z
-SUMMARY:🍷夕刻ロベル: 【ゼノブレイド】追加ストーリー攻略！－つながる未来の物語－【ホロスターズ/夕刻ロベル】#3
-UID:HMbaw702grE
+DTSTART:20201015T151511Z
+SUMMARY:Calli: 【FREE TALK 雑談】Let's Make a Calliope Stream BINGO CARD. The Kids Often Create Them These Days.
+UID:QJ21GJW59AU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】朝活、お風呂入ってきます。【アステル / 奏手イヅル】\nhttps://www.youtube.com/watch?v=Ev6FzgRVy2A
@@ -508,18 +214,11 @@ SUMMARY:🔮Moona: 【Minecraft】Let's get lost together. Part 2【Moona】
 UID:nB5f-GXzzNI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ふらふらBB\nhttps://www.youtube.com/watch?v=vJtIwO0TjIo
+DESCRIPTION:[DARK DECEPTION] CLOWN! #GAWRGURA #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=hrgLfb-uLe8
 DURATION:PT2H
-DTSTART:20201015T021248Z
-SUMMARY:🌽白上フブキ: ふらふらBB
-UID:vJtIwO0TjIo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】We're Mining  (\;´0｀)ﾂ))□\nhttps://www.youtube.com/watch?v=0ruxO4TmMng
-DURATION:PT2H
-DTSTART:20201015T020000Z
-SUMMARY:Amelia: 【Minecraft】We're Mining  (\;´0｀)ﾂ))□
-UID:0ruxO4TmMng
+DTSTART:20201016T030000Z
+SUMMARY:Gura: [DARK DECEPTION] CLOWN! #GAWRGURA #hololiveEnglish #holoMyth
+UID:hrgLfb-uLe8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ドラガリアロスト】～ドラガリアフェスEX　決戦Halloweenガチャ　ハロウィンキャラ狙ってく～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=5efwta_UNSU
@@ -536,18 +235,18 @@ SUMMARY:👯兎田ぺこら: 【Minecraft】ホロ鯖戦士ぺこダム始動！
 UID:N3pE6jO4i-0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スマブラSP】新キャラスティーブ！！貴様の命をアイテム化してやる！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=nRIyAMhSRWU
-DURATION:PT2H
-DTSTART:20201015T051000Z
-SUMMARY:🦔💨岸堂天真: 【スマブラSP】新キャラスティーブ！！貴様の命をアイテム化してやる！！【岸堂天真/ホロスターズ】
-UID:nRIyAMhSRWU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】今日は昼活もしてAPEXもやってえらい！！ランクいく！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=iGhRMHT7b3Y
 DURATION:PT2H
 DTSTART:20201016T063000Z
 SUMMARY:🦔💨岸堂天真: 【APEX】今日は昼活もしてAPEXもやってえらい！！ランクいく！【岸堂天真/ホロスターズ】
 UID:iGhRMHT7b3Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マインクラフト/Minecraft】腹ぺこ建築！🍨Delicious architecture！【#フレルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=4wIzZC2gLpY
+DURATION:PT2H
+DTSTART:20201016T130000Z
+SUMMARY:🔥不知火フレア: 【マインクラフト/Minecraft】腹ぺこ建築！🍨Delicious architecture！【#フレルーナ/ホロライブ】
+UID:4wIzZC2gLpY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ホロトラップダンジョン制作！～素材集め編～#1【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=qhIYVLFgb8g
@@ -557,11 +256,32 @@ SUMMARY:🏮夏色まつり: 【Minecraft】ホロトラップダンジョン制
 UID:qhIYVLFgb8g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#番外編【MOTHER2/Earthbound】砂漠でゴマを探す枠ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=J6yMRhCAVpk
+DESCRIPTION:【Apex Legends】朝活RANK!! 【奏手イヅル/アステル】\nhttps://www.youtube.com/watch?v=c9djWySMSB0
 DURATION:PT2H
-DTSTART:20201015T140000Z
-SUMMARY:👯兎田ぺこら: #番外編【MOTHER2/Earthbound】砂漠でゴマを探す枠ぺこ！【ホロライブ/兎田ぺこら】
-UID:J6yMRhCAVpk
+DTSTART:20201016T020000Z
+SUMMARY:🎸奏手イヅル: 【Apex Legends】朝活RANK!! 【奏手イヅル/アステル】
+UID:c9djWySMSB0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】TNTで新しい村を開拓する！！！！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=_WUw8_lJLCA
+DURATION:PT2H
+DTSTART:20201016T080000Z
+SUMMARY:🦋潤羽るしあ: 【Minecraft】TNTで新しい村を開拓する！！！！【潤羽るしあ/ホロライブ】
+UID:_WUw8_lJLCA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【週末雑談】10/16  おそようスバル 【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=4-PfeuZjlm0
+DURATION:PT2H
+DTSTART:20201017T010000Z
+SUMMARY:🚑大空スバル: 【週末雑談】10/16  おそようスバル 【ホロライブ/大空スバル】
+UID:4-PfeuZjlm0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Hades】Deja Vu #TAKOTIME #hololiveEnglish\nhttps://www.youtube.com/watch?v=kZOAG6nyIQo
+DURATION:PT2H
+DTSTART:20201016T230000Z
+SUMMARY:Ina: 【Hades】Deja Vu #TAKOTIME #hololiveEnglish
+UID:kZOAG6nyIQo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】生活習慣改善－ああ、恐ろしき週末の訪れ－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=Xa-3-ktT1Ro
@@ -571,11 +291,18 @@ SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－ああ、恐ろし
 UID:Xa-3-ktT1Ro
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】首輪なう【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=xWw-NSRmugQ
+DESCRIPTION:【SUBARUxKIARA】Untitled Goose Game HONK【日本語メイン】JAPANESE MAIN STREAM  #ホロ鳥 #holobirds\nhttps://www.youtube.com/watch?v=IlxyHzgjHFI
 DURATION:PT2H
-DTSTART:20201017T010000Z
-SUMMARY:🤖ロボ子さん: 【雑談】首輪なう【ホロライブ/ロボ子さん】
-UID:xWw-NSRmugQ
+DTSTART:20201016T110000Z
+SUMMARY:Kiara: 【SUBARUxKIARA】Untitled Goose Game HONK【日本語メイン】JAPANESE MAIN STREAM  #ホロ鳥 #holobirds
+UID:IlxyHzgjHFI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:コールオブクトゥルフ前回のまとめ！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=TXJP_3T3WQQ
+DURATION:PT2H
+DTSTART:20201016T085004Z
+SUMMARY:🌽白上フブキ: コールオブクトゥルフ前回のまとめ！【ホロライブ/白上フブキ】
+UID:TXJP_3T3WQQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【第1.5回】大神ミオ、プロ占い師への道  ～教えて！R.I.O.N先生！～【実践講座編】\nhttps://www.youtube.com/watch?v=G-9qlbpIezo
@@ -590,19 +317,5 @@ DURATION:PT2H
 DTSTART:20201016T110000Z
 SUMMARY:⚙律可: 【piano arrange】 Uru「あなたがいることで」テセウスの船 主題歌  / Covered by 律可×波羅ノ鬼
 UID:oUNbANUihwc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【晩酌】よっぱら～い！drunkard【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=vBGUUP84Iqw
-DURATION:PT2H
-DTSTART:20201015T130000Z
-SUMMARY:🏴☠宝鐘マリン: 【晩酌】よっぱら～い！drunkard【ホロライブ/宝鐘マリン】
-UID:vBGUUP84Iqw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活】がんばっておきる！！！！！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=ysBW8yUeZ7k
-DURATION:PT2H
-DTSTART:20201015T011500Z
-SUMMARY:🦋潤羽るしあ: 【朝活】がんばっておきる！！！！！【潤羽るしあ/ホロライブ】
-UID:ysBW8yUeZ7k
 END:VEVENT
 END:VCALENDAR
