@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Drawtective】Drawing Holo EN ~\nhttps://www.youtube.com/watch?v=icT5nkMuo_s
-DURATION:PT2H
-DTSTART:20201015T230500Z
-SUMMARY:Amelia: 【Drawtective】Drawing Holo EN ~
-UID:icT5nkMuo_s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Mario Kart 8DX】AUTOBAHN TIME  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=8g9Hvs8EH48
 DURATION:PT2H
 DTSTART:20201017T120000Z
@@ -25,6 +18,13 @@ SUMMARY:Calli: 【LIVE SHOW】Mori Live Music! Calliope Mori's First Free Concer
 UID:M4shflYdXf8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Hades】Deja Vu #TAKOTIME #hololiveEnglish\nhttps://www.youtube.com/watch?v=kZOAG6nyIQo
+DURATION:PT2H
+DTSTART:20201016T230000Z
+SUMMARY:Ina: 【Hades】Deja Vu #TAKOTIME #hololiveEnglish
+UID:kZOAG6nyIQo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【REMIX PARTY】TOP 10 (?) REVEAL! AND PARTY! and chat. with Kiara and kokorobeats!\nhttps://www.youtube.com/watch?v=sDkow-nDQo4
 DURATION:PT2H
 DTSTART:20201017T042942Z
@@ -37,33 +37,5 @@ DURATION:PT2H
 DTSTART:20201016T191000Z
 SUMMARY:Amelia: 【Minecraft】Building Office and Rails!
 UID:uu8t0NGySzg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FREE TALK 雑談】Let's Make a Calliope Stream BINGO CARD. The Kids Often Create Them These Days.\nhttps://www.youtube.com/watch?v=QJ21GJW59AU
-DURATION:PT2H
-DTSTART:20201015T151511Z
-SUMMARY:Calli: 【FREE TALK 雑談】Let's Make a Calliope Stream BINGO CARD. The Kids Often Create Them These Days.
-UID:QJ21GJW59AU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[DARK DECEPTION] CLOWN! #GAWRGURA #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=hrgLfb-uLe8
-DURATION:PT2H
-DTSTART:20201016T030000Z
-SUMMARY:Gura: [DARK DECEPTION] CLOWN! #GAWRGURA #hololiveEnglish #holoMyth
-UID:hrgLfb-uLe8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Hades】Deja Vu #TAKOTIME #hololiveEnglish\nhttps://www.youtube.com/watch?v=kZOAG6nyIQo
-DURATION:PT2H
-DTSTART:20201016T230000Z
-SUMMARY:Ina: 【Hades】Deja Vu #TAKOTIME #hololiveEnglish
-UID:kZOAG6nyIQo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SUBARUxKIARA】Untitled Goose Game HONK【日本語メイン】JAPANESE MAIN STREAM  #ホロ鳥 #holobirds\nhttps://www.youtube.com/watch?v=IlxyHzgjHFI
-DURATION:PT2H
-DTSTART:20201016T110000Z
-SUMMARY:Kiara: 【SUBARUxKIARA】Untitled Goose Game HONK【日本語メイン】JAPANESE MAIN STREAM  #ホロ鳥 #holobirds
-UID:IlxyHzgjHFI
 END:VEVENT
 END:VCALENDAR
