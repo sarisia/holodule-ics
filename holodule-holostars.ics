@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【深夜の雑談】明日からまた頑張る君へ。応援しています。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=chzkDMGsO9o
-DURATION:PT2H
-DTSTART:20201018T170000Z
-SUMMARY:🦔💨岸堂天真: 【深夜の雑談】明日からまた頑張る君へ。応援しています。【岸堂天真/ホロスターズ】
-UID:chzkDMGsO9o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】ランクマ回すぞおおおおおお！！！【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=4UpHRw6K1Cs
-DURATION:PT2H
-DTSTART:20201020T030000Z
-SUMMARY:🌺花咲みやび: 【APEX】ランクマ回すぞおおおおおお！！！【花咲みやび/ホロスターズ】
-UID:4UpHRw6K1Cs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【朝活】生活習慣改善－休日明け、恐怖－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=Gh6MsAKPO4U
 DURATION:PT2H
 DTSTART:20201019T010000Z
@@ -46,11 +32,11 @@ SUMMARY:🍷夕刻ロベル: 【ゼノブレイド2】初見で挑むゼノブ�
 UID:gdjgZo4_vao
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【INFLICTION】先輩にやれって言われたのでやります #02【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=Egx2KdNkz-o
+DESCRIPTION:【雑談】だら～り【奏手イヅル】\nhttps://www.youtube.com/watch?v=ipD2UMTu_30
 DURATION:PT2H
-DTSTART:20201020T140000Z
-SUMMARY:影山シエン: 【INFLICTION】先輩にやれって言われたのでやります #02【影山シエン/ホロスターズ】
-UID:Egx2KdNkz-o
+DTSTART:20201020T150000Z
+SUMMARY:🎸奏手イヅル: 【雑談】だら～り【奏手イヅル】
+UID:ipD2UMTu_30
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Dead by Daylight】モレル絶対吊るknight、再び降臨【#岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=cyaIYq1xq_0
@@ -79,6 +65,27 @@ DURATION:PT2H
 DTSTART:20201020T120000Z
 SUMMARY:⚙律可: 【1周年記念枠】1st Anniversary 3D Live！いつもありがとう！【律可/ホロスターズ】#律可1周年
 UID:tz25EUgSaJ4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【深夜の雑談】明日からまた頑張る君へ。応援しています。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=chzkDMGsO9o
+DURATION:PT2H
+DTSTART:20201018T170000Z
+SUMMARY:🦔💨岸堂天真: 【深夜の雑談】明日からまた頑張る君へ。応援しています。【岸堂天真/ホロスターズ】
+UID:chzkDMGsO9o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】ランクマ回すぞおおおおおお！！！【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=4UpHRw6K1Cs
+DURATION:PT2H
+DTSTART:20201020T030000Z
+SUMMARY:🌺花咲みやび: 【APEX】ランクマ回すぞおおおおおお！！！【花咲みやび/ホロスターズ】
+UID:4UpHRw6K1Cs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【INFLICTION】先輩にやれって言われたのでやります #02【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=Egx2KdNkz-o
+DURATION:PT2H
+DTSTART:20201020T140000Z
+SUMMARY:影山シエン: 【INFLICTION】先輩にやれって言われたのでやります #02【影山シエン/ホロスターズ】
+UID:Egx2KdNkz-o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】生活習慣改善－火曜日の朝、おはよう、こんにちは。－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=dyLJTfHXoRM
