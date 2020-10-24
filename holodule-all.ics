@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【】深夜のみこきちゃにぇにぇにぇにぇ～【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=zrpyqESXZDM
+DURATION:PT2H
+DTSTART:20201024T150000Z
+SUMMARY:🌸さくらみこ: 【】深夜のみこきちゃにぇにぇにぇにぇ～【ホロライブ/さくらみこ】
+UID:zrpyqESXZDM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:[ASK HAACHAMA] HAACHAMURDER ENGLISH!! #HAACHAMA #HololiveEnglish\nhttps://www.youtube.com/watch?v=XDKFy0Z2EH4
 DURATION:PT2H
 DTSTART:20201023T100000Z
@@ -233,6 +240,13 @@ DURATION:PT2H
 DTSTART:20201023T040000Z
 SUMMARY:尾丸ポルカ: 今は昔、まいんくらふとといふ物ありけり【ホロライブ/尾丸ポルカ】
 UID:XfrHT2idkmI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】HORROR!!!ジェットコースター完成・・・！？【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=hzbsN5sqJg0
+DURATION:PT2H
+DTSTART:20201024T060000Z
+SUMMARY:❤赤井はあと: 【Minecraft】HORROR!!!ジェットコースター完成・・・！？【ホロライブ/赤井はあと】
+UID:hzbsN5sqJg0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:あさココLIVE 10/23 #asacoco\nhttps://www.youtube.com/watch?v=RPEntBOmgi4
@@ -536,6 +550,13 @@ SUMMARY:🥐戌神ころね: 【クラッシュ・バンディクー4】クリ�
 UID:XRhikywKXo8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【雑談】最近のちょこ事情お話しする！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=Uw2l3H7RdpY
+DURATION:PT2H
+DTSTART:20201024T093500Z
+SUMMARY:💋癒月ちょこ: 【雑談】最近のちょこ事情お話しする！【ホロライブ/癒月ちょこ】
+UID:Uw2l3H7RdpY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【朝枠】～夜明け語り　Let's talk at dawn～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=28wlhuJ0rzQ
 DURATION:PT2H
 DTSTART:20201023T210000Z
@@ -625,12 +646,5 @@ DURATION:PT2H
 DTSTART:20201022T150000Z
 SUMMARY:🐏角巻わため: 【マインクラフト】お話しながらリビング作れたらいいなぁ...【角巻わため/ホロライブ４期生】
 UID:EsM-S_reQls
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MOTHER2/Earthbound】今日こそ集え仲間！はじめてのマザー2ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=M1i7vwvjkNE
-DURATION:PT2H
-DTSTART:20201024T040000Z
-SUMMARY:👯兎田ぺこら: 【MOTHER2/Earthbound】今日こそ集え仲間！はじめてのマザー2ぺこ！【ホロライブ/兎田ぺこら】
-UID:M1i7vwvjkNE
 END:VEVENT
 END:VCALENDAR
