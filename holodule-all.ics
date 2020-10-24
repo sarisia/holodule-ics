@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【歌リングフィット】寝起き5秒で即配信！！！！【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=Lvt3FhIIKpg
-DURATION:PT2H
-DTSTART:20201022T223000Z
-SUMMARY:💫天音かなた: 【歌リングフィット】寝起き5秒で即配信！！！！【天音かなた/ホロライブ4期生】
-UID:Lvt3FhIIKpg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[ASK HAACHAMA] HAACHAMURDER ENGLISH!! #HAACHAMA #HololiveEnglish\nhttps://www.youtube.com/watch?v=XDKFy0Z2EH4
 DURATION:PT2H
 DTSTART:20201023T100000Z
 SUMMARY:❤赤井はあと: [ASK HAACHAMA] HAACHAMURDER ENGLISH!! #HAACHAMA #HololiveEnglish
 UID:XDKFy0Z2EH4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌リングフィット】寝起き5秒で即配信！！！！【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=Lvt3FhIIKpg
+DURATION:PT2H
+DTSTART:20201022T223000Z
+SUMMARY:💫天音かなた: 【歌リングフィット】寝起き5秒で即配信！！！！【天音かなた/ホロライブ4期生】
+UID:Lvt3FhIIKpg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【情報☆解禁】お知らせ☆緊急コラボ！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=YxKXH61Qrgo
@@ -67,18 +67,18 @@ SUMMARY:🍷夕刻ロベル: 【ブレイブルー】続　武　者　修　行
 UID:EriGOD_d0Gc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Hololive JP Server TOUR feat. Moona !\nhttps://www.youtube.com/watch?v=-ayCKHL_BAw
-DURATION:PT2H
-DTSTART:20201024T010000Z
-SUMMARY:Amelia: 【Minecraft】Hololive JP Server TOUR feat. Moona !
-UID:-ayCKHL_BAw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【AMONG US】Time for some REAL Detective work!\nhttps://www.youtube.com/watch?v=NGrBBtVMN8E
 DURATION:PT2H
 DTSTART:20201024T130000Z
 SUMMARY:Amelia: 【AMONG US】Time for some REAL Detective work!
 UID:NGrBBtVMN8E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Hololive JP Server TOUR feat. Moona !\nhttps://www.youtube.com/watch?v=-ayCKHL_BAw
+DURATION:PT2H
+DTSTART:20201024T010000Z
+SUMMARY:Amelia: 【Minecraft】Hololive JP Server TOUR feat. Moona !
+UID:-ayCKHL_BAw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【The Witcher 3】Let's Begin !\nhttps://www.youtube.com/watch?v=cs3DIupQEnQ
@@ -235,13 +235,6 @@ SUMMARY:⚙律可: 【寝起きマリオ35】ギリギリまで寝る。Wake up 
 UID:gZccBNuqOSE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Welcome to Minecraft JP Server!【Moona | Ame | Gura】\nhttps://www.youtube.com/watch?v=p6VCoXqYygE
-DURATION:PT2H
-DTSTART:20201024T010000Z
-SUMMARY:🔮Moona: 【Minecraft】Welcome to Minecraft JP Server!【Moona | Ame | Gura】
-UID:p6VCoXqYygE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【重大発表あり】またもや急に集められました...【 #ホロの試練2 】\nhttps://www.youtube.com/watch?v=EKi_BsLgmdw
 DURATION:PT2H
 DTSTART:20201023T110000Z
@@ -263,6 +256,20 @@ SUMMARY:🦔💨岸堂天真: 【スマブラSP】久しぶりにみんなと遊
 UID:tlH4h6iAIFI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:まいくらあああああ！！！！！！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=r-kUBHFW5YM
+DURATION:PT2H
+DTSTART:20201024T050000Z
+SUMMARY:⚓湊あくあ: まいくらあああああ！！！！！！！【湊あくあ/ホロライブ】
+UID:r-kUBHFW5YM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ツイステ】サバナクロー寮にいそうな奴がプレイする「スケアリーモンスターズ！」 #02【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=qLLNYwbpMRM
+DURATION:PT2H
+DTSTART:20201024T120000Z
+SUMMARY:影山シエン: 【ツイステ】サバナクロー寮にいそうな奴がプレイする「スケアリーモンスターズ！」 #02【影山シエン/ホロスターズ】
+UID:qLLNYwbpMRM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Among Us】よわよわイングリッシュ人狼。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=4R5RubxTw5o
 DURATION:PT2H
 DTSTART:20201023T090000Z
@@ -275,13 +282,6 @@ DURATION:PT2H
 DTSTART:20201023T133000Z
 SUMMARY:🐉桐生ココ: Kiryu Coco ver.2.0 ??????今夜何かが、起こる??????
 UID:v26c9YJTp4c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ツイステ】サバナクロー寮にいそうな奴がプレイする「スケアリーモンスターズ！」 #02【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=qLLNYwbpMRM
-DURATION:PT2H
-DTSTART:20201024T120000Z
-SUMMARY:影山シエン: 【ツイステ】サバナクロー寮にいそうな奴がプレイする「スケアリーモンスターズ！」 #02【影山シエン/ホロスターズ】
-UID:qLLNYwbpMRM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】生活習慣改善－金曜日や！！！－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=MjlwRniacXM
@@ -389,13 +389,6 @@ SUMMARY:🤖ロボ子さん: 【🥰】plz plz plz
 UID:ddgipyIVra4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【重大発表】🌸さくらみこ・大神ミオ🌲で準備していた事とは？！【マイクラ】\nhttps://www.youtube.com/watch?v=_JZHLHtQ3Us
-DURATION:PT2H
-DTSTART:20201023T140000Z
-SUMMARY:🌲大神ミオ: 【重大発表】🌸さくらみこ・大神ミオ🌲で準備していた事とは？！【マイクラ】
-UID:_JZHLHtQ3Us
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MAD RAT DEAD】体験版全５ステージを遊び尽くす！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=Ffhqf6yOwGc
 DURATION:PT2H
 DTSTART:20201024T110000Z
@@ -403,11 +396,11 @@ SUMMARY:🐏角巻わため: 【MAD RAT DEAD】体験版全５ステージを遊
 UID:Ffhqf6yOwGc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 ピアノのお稽古 】寝れない子は癒しの音楽で寝んねちよ…なのら🎵【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=MO0Lj5HDU3g
+DESCRIPTION:【重大発表】🌸さくらみこ・大神ミオ🌲で準備していた事とは？！【マイクラ】\nhttps://www.youtube.com/watch?v=_JZHLHtQ3Us
 DURATION:PT2H
-DTSTART:20201022T160000Z
-SUMMARY:🍬姫森ルーナ: 【 ピアノのお稽古 】寝れない子は癒しの音楽で寝んねちよ…なのら🎵【姫森ルーナ/ホロライブ】
-UID:MO0Lj5HDU3g
+DTSTART:20201023T140000Z
+SUMMARY:🌲大神ミオ: 【重大発表】🌸さくらみこ・大神ミオ🌲で準備していた事とは？！【マイクラ】
+UID:_JZHLHtQ3Us
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ねぽらぼビル建設！素敵なお部屋づくり【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=-rJA7_IjKWA
@@ -415,6 +408,13 @@ DURATION:PT2H
 DTSTART:20201023T040000Z
 SUMMARY:雪花ラミィ: 【Minecraft】ねぽらぼビル建設！素敵なお部屋づくり【雪花ラミィ/ホロライブ】
 UID:-rJA7_IjKWA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 ピアノのお稽古 】寝れない子は癒しの音楽で寝んねちよ…なのら🎵【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=MO0Lj5HDU3g
+DURATION:PT2H
+DTSTART:20201022T160000Z
+SUMMARY:🍬姫森ルーナ: 【 ピアノのお稽古 】寝れない子は癒しの音楽で寝んねちよ…なのら🎵【姫森ルーナ/ホロライブ】
+UID:MO0Lj5HDU3g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】まったりしよう～～～眠い人集合【バイノーラルマイク】\nhttps://www.youtube.com/watch?v=522ZC2kVJRo
@@ -457,6 +457,13 @@ DURATION:PT2H
 DTSTART:20201023T210000Z
 SUMMARY:荒咬オウガ: 【朝枠】～夜明け語り　Let's talk at dawn～【荒咬オウガ/ホロスターズ】
 UID:28wlhuJ0rzQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ASMR】りんご飴咀嚼MMD　お試し【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=LxvhVzFBU_s
+DURATION:PT2H
+DTSTART:20201024T003954Z
+SUMMARY:🤖ロボ子さん: 【ASMR】りんご飴咀嚼MMD　お試し【ホロライブ/ロボ子さん】
+UID:LxvhVzFBU_s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】超久しぶりのホロ鯖！家建てよ～～【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=43aB63pJjYc
