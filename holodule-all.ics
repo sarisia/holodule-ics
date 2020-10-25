@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:[NEW COSTUME] ついに新衣装お披露目・・・！？【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=Gv2WN7YozW0
+DURATION:PT2H
+DTSTART:20201026T120000Z
+SUMMARY:❤赤井はあと: [NEW COSTUME] ついに新衣装お披露目・・・！？【ホロライブ/赤井はあと】
+UID:Gv2WN7YozW0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】その瞬間という物を共有したいと思ったんだ【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=pSUiq-6SHco
 DURATION:PT2H
 DTSTART:20201025T070000Z
@@ -60,18 +67,18 @@ SUMMARY:🍬姫森ルーナ: 【 30万人記念＊ASMR 】恥ずかしがらず�
 UID:SPVettwIdI0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】ホロのLIVEも決まったのでLet's Music☆【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=_V0m_AVTvvw
-DURATION:PT2H
-DTSTART:20201025T070000Z
-SUMMARY:🦋潤羽るしあ: 【歌枠】ホロのLIVEも決まったのでLet's Music☆【潤羽るしあ/ホロライブ】
-UID:_V0m_AVTvvw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【among us】視聴者参加型！！小学生英語の本気見せてやる【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=sXZnO8y_Z9Y
 DURATION:PT2H
 DTSTART:20201025T110000Z
 SUMMARY:💙鏡見キラ: 【among us】視聴者参加型！！小学生英語の本気見せてやる【ホロスターズ/鏡見キラ】
 UID:sXZnO8y_Z9Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Hololive JP Server TOUR feat. Moona !\nhttps://www.youtube.com/watch?v=-ayCKHL_BAw
+DURATION:PT2H
+DTSTART:20201024T010000Z
+SUMMARY:Amelia: 【Minecraft】Hololive JP Server TOUR feat. Moona !
+UID:-ayCKHL_BAw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ブレイブルー】続　武　者　修　行【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=EriGOD_d0Gc
@@ -86,13 +93,6 @@ DURATION:PT2H
 DTSTART:20201024T130000Z
 SUMMARY:Amelia: 【AMONG US】Time for some REAL Detective work!
 UID:NGrBBtVMN8E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Hololive JP Server TOUR feat. Moona !\nhttps://www.youtube.com/watch?v=-ayCKHL_BAw
-DURATION:PT2H
-DTSTART:20201024T010000Z
-SUMMARY:Amelia: 【Minecraft】Hololive JP Server TOUR feat. Moona !
-UID:-ayCKHL_BAw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#癒月ちょこ新衣装】新衣装お披露目配信？！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=bXOTQHils-g
@@ -184,13 +184,6 @@ DURATION:PT2H
 DTSTART:20201025T050000Z
 SUMMARY:Kiara: 【Minecraft】GATHER THE SHEEP #kfp #キアライブ
 UID:EKhcYNfVnzI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[New Costume]ついに新衣装お披露目・・・！？【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=XIF9xWwJ8y0
-DURATION:PT2H
-DTSTART:20201026T120000Z
-SUMMARY:❤赤井はあと: [New Costume]ついに新衣装お披露目・・・！？【ホロライブ/赤井はあと】
-UID:XIF9xWwJ8y0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マイクラ】豆腐職人レベル100のお昼作業【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=xRzCrDwyO_U
@@ -289,6 +282,13 @@ DURATION:PT2H
 DTSTART:20201024T145000Z
 SUMMARY:尾丸ポルカ: 【同時視聴】D4DJ💿グルミク!カウントダウン特番!【ホロライブ/尾丸ポルカ】
 UID:BkPQjVR_NM4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Among US】リスナーさんと宇宙人狼！【ホロライブ/雪花ラミィ】\nhttps://www.youtube.com/watch?v=EdtEsBbGU9A
+DURATION:PT2H
+DTSTART:20201025T140000Z
+SUMMARY:雪花ラミィ: 【Among US】リスナーさんと宇宙人狼！【ホロライブ/雪花ラミィ】
+UID:EdtEsBbGU9A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【影廊 -Shadow Corridor-】挑戦者モードにチャレンジ！#2【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=QX6ch2YpDXU
