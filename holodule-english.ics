@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【The Witcher 3】Side quest on Side quest on Side quest on Side quest on Side quest on\nhttps://www.youtube.com/watch?v=It_FypkR_Bc
+DURATION:PT2H
+DTSTART:20201025T043000Z
+SUMMARY:Amelia: 【The Witcher 3】Side quest on Side quest on Side quest on Side quest on Side quest on
+UID:It_FypkR_Bc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】KFP Employee Training w/ Kiara\nhttps://www.youtube.com/watch?v=FF1sO1EhopY
 DURATION:PT2H
 DTSTART:20201025T110000Z
@@ -18,17 +25,17 @@ SUMMARY:Kiara: 【AMELIAxKIARA】KFP Employee "Training" 【Minecraft】
 UID:n4P71uiBMUc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【The Witcher 3】Side quest on Side quest on Side quest on Side quest on Side quest on\nhttps://www.youtube.com/watch?v=It_FypkR_Bc
-DURATION:PT2H
-DTSTART:20201025T043000Z
-SUMMARY:Amelia: 【The Witcher 3】Side quest on Side quest on Side quest on Side quest on Side quest on
-UID:It_FypkR_Bc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】GATHER THE SHEEP #kfp #キアライブ\nhttps://www.youtube.com/watch?v=EKhcYNfVnzI
 DURATION:PT2H
 DTSTART:20201025T050000Z
 SUMMARY:Kiara: 【Minecraft】GATHER THE SHEEP #kfp #キアライブ
 UID:EKhcYNfVnzI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DRAWING】Gesture Drawing + Doodle\nhttps://www.youtube.com/watch?v=qQsXC-dN6OU
+DURATION:PT2H
+DTSTART:20201025T210000Z
+SUMMARY:Ina: 【DRAWING】Gesture Drawing + Doodle
+UID:qQsXC-dN6OU
 END:VEVENT
 END:VCALENDAR
