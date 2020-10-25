@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】100億年ぶりに歌います。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=RNCLodhqZxs
+DESCRIPTION:【ASMR】ご飯食べたり、歯磨きしたり、寝たり・【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=H1uP9mwt9OA
 DURATION:PT2H
-DTSTART:20201024T060000Z
-SUMMARY:🌺花咲みやび: 【歌枠】100億年ぶりに歌います。【花咲みやび/ホロスターズ】
-UID:RNCLodhqZxs
+DTSTART:20201025T140000Z
+SUMMARY:🌺花咲みやび: 【ASMR】ご飯食べたり、歯磨きしたり、寝たり・【花咲みやび/ホロスターズ】
+UID:H1uP9mwt9OA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #アランストリーム 】深夜のアルラジオ#12【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=yg_GMzB-A_w
+DURATION:PT2H
+DTSTART:20201025T140000Z
+SUMMARY:🍕アルランディス: 【 #アランストリーム 】深夜のアルラジオ#12【アルランディス/ホロスターズ】
+UID:yg_GMzB-A_w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】その瞬間という物を共有したいと思ったんだ【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=pSUiq-6SHco
@@ -18,11 +25,18 @@ SUMMARY:影山シエン: 【雑談】その瞬間という物を共有したい�
 UID:pSUiq-6SHco
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【記念枠】Ch登録者3万人突破記念30000秒配信-料理にゲームに大忙し編-【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Xc-6wbKxGF0
+DESCRIPTION:【Apex Legends】🔥🎃🔥【奏手イヅル/アステル/影山シエン】\nhttps://www.youtube.com/watch?v=njG1SU4WHYo
 DURATION:PT2H
-DTSTART:20201024T070000Z
-SUMMARY:🍕アルランディス: 【記念枠】Ch登録者3万人突破記念30000秒配信-料理にゲームに大忙し編-【アルランディス/ホロスターズ】
-UID:Xc-6wbKxGF0
+DTSTART:20201024T150000Z
+SUMMARY:🎸奏手イヅル: 【Apex Legends】🔥🎃🔥【奏手イヅル/アステル/影山シエン】
+UID:njG1SU4WHYo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【AmongUs】視聴者参加型AmongUs！YEEEEEES!!!【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=4cCOTt0aBO4
+DURATION:PT2H
+DTSTART:20201025T020000Z
+SUMMARY:🍷夕刻ロベル: 【AmongUs】視聴者参加型AmongUs！YEEEEEES!!!【ホロスターズ/夕刻ロベル】
+UID:4cCOTt0aBO4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【誕生日記念】ハッピバーステーぼーくー！！！！【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=_G87sKDuFXs
@@ -46,11 +60,11 @@ SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－週末明けの月
 UID:y8O08U9nAMU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ツイステ】サバナクロー寮にいそうな奴がプレイする「スケアリーモンスターズ！」 #02【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=qLLNYwbpMRM
+DESCRIPTION:【MINECRAFT】超巨大クリスマスツリーの足元を美しくする作業配信【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=hlrz0DLRwxw
 DURATION:PT2H
-DTSTART:20201024T120000Z
-SUMMARY:影山シエン: 【ツイステ】サバナクロー寮にいそうな奴がプレイする「スケアリーモンスターズ！」 #02【影山シエン/ホロスターズ】
-UID:qLLNYwbpMRM
+DTSTART:20201025T141500Z
+SUMMARY:🦔💨岸堂天真: 【MINECRAFT】超巨大クリスマスツリーの足元を美しくする作業配信【岸堂天真/ホロスターズ】
+UID:hlrz0DLRwxw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【among us】視聴者参加型！！小学生英語の本気見せてやる【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=sXZnO8y_Z9Y
@@ -58,68 +72,5 @@ DURATION:PT2H
 DTSTART:20201025T110000Z
 SUMMARY:💙鏡見キラ: 【among us】視聴者参加型！！小学生英語の本気見せてやる【ホロスターズ/鏡見キラ】
 UID:sXZnO8y_Z9Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝枠】～夜明け語り　Let's talk at dawn～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=28wlhuJ0rzQ
-DURATION:PT2H
-DTSTART:20201023T210000Z
-SUMMARY:荒咬オウガ: 【朝枠】～夜明け語り　Let's talk at dawn～【荒咬オウガ/ホロスターズ】
-UID:28wlhuJ0rzQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ブレイブルー】続　武　者　修　行【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=EriGOD_d0Gc
-DURATION:PT2H
-DTSTART:20201023T150000Z
-SUMMARY:🍷夕刻ロベル: 【ブレイブルー】続　武　者　修　行【ホロスターズ/夕刻ロベル】
-UID:EriGOD_d0Gc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ASMR】ご飯食べたり、歯磨きしたり、寝たり・【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=H1uP9mwt9OA
-DURATION:PT2H
-DTSTART:20201025T140000Z
-SUMMARY:🌺花咲みやび: 【ASMR】ご飯食べたり、歯磨きしたり、寝たり・【花咲みやび/ホロスターズ】
-UID:H1uP9mwt9OA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FALLGUYS】口内炎を８割撃退したから優勝する【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=YnkH671uuRQ
-DURATION:PT2H
-DTSTART:20201024T131000Z
-SUMMARY:💙鏡見キラ: 【FALLGUYS】口内炎を８割撃退したから優勝する【ホロスターズ/鏡見キラ】
-UID:YnkH671uuRQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #アランストリーム 】深夜のアルラジオ#12【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=yg_GMzB-A_w
-DURATION:PT2H
-DTSTART:20201025T140000Z
-SUMMARY:🍕アルランディス: 【 #アランストリーム 】深夜のアルラジオ#12【アルランディス/ホロスターズ】
-UID:yg_GMzB-A_w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Apex Legends】🔥🎃🔥【奏手イヅル/アステル/影山シエン】\nhttps://www.youtube.com/watch?v=njG1SU4WHYo
-DURATION:PT2H
-DTSTART:20201024T150000Z
-SUMMARY:🎸奏手イヅル: 【Apex Legends】🔥🎃🔥【奏手イヅル/アステル/影山シエン】
-UID:njG1SU4WHYo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【AmongUs】視聴者参加型AmongUs！YEEEEEES!!!【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=4cCOTt0aBO4
-DURATION:PT2H
-DTSTART:20201025T020000Z
-SUMMARY:🍷夕刻ロベル: 【AmongUs】視聴者参加型AmongUs！YEEEEEES!!!【ホロスターズ/夕刻ロベル】
-UID:4cCOTt0aBO4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:『Minecraft』こんなにマイクラやってるのに自分の家無いのおかしいだろ！！！！！！！！【アステル/ホロスターズ】\nhttps://www.youtube.com/watch?v=OoyCYJmlBRM
-DURATION:PT2H
-DTSTART:20201023T170000Z
-SUMMARY:🎭アステル・レダ: 『Minecraft』こんなにマイクラやってるのに自分の家無いのおかしいだろ！！！！！！！！【アステル/ホロスターズ】
-UID:OoyCYJmlBRM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】超巨大クリスマスツリーの足元を美しくする作業配信【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=hlrz0DLRwxw
-DURATION:PT2H
-DTSTART:20201025T141500Z
-SUMMARY:🦔💨岸堂天真: 【MINECRAFT】超巨大クリスマスツリーの足元を美しくする作業配信【岸堂天真/ホロスターズ】
-UID:hlrz0DLRwxw
 END:VEVENT
 END:VCALENDAR
