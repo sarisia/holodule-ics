@@ -67,18 +67,18 @@ SUMMARY:🦋潤羽るしあ: 【歌枠】ホロのLIVEも決まったのでLet's
 UID:_V0m_AVTvvw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DRAWING】Gesture Drawing + Doodle\nhttps://www.youtube.com/watch?v=qQsXC-dN6OU
-DURATION:PT2H
-DTSTART:20201025T210000Z
-SUMMARY:Ina: 【DRAWING】Gesture Drawing + Doodle
-UID:qQsXC-dN6OU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【among us】視聴者参加型！！小学生英語の本気見せてやる【ホロスターズ/鏡見キラ】\nhttps://www.youtube.com/watch?v=sXZnO8y_Z9Y
 DURATION:PT2H
 DTSTART:20201025T110000Z
 SUMMARY:💙鏡見キラ: 【among us】視聴者参加型！！小学生英語の本気見せてやる【ホロスターズ/鏡見キラ】
 UID:sXZnO8y_Z9Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DRAWING】Gesture Drawing + Doodle\nhttps://www.youtube.com/watch?v=qQsXC-dN6OU
+DURATION:PT2H
+DTSTART:20201025T210000Z
+SUMMARY:Ina: 【DRAWING】Gesture Drawing + Doodle
+UID:qQsXC-dN6OU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【はいしんよてい💘】【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=4lYrYmvXviI
@@ -186,13 +186,6 @@ SUMMARY:Kiara: 【Minecraft】GATHER THE SHEEP #kfp #キアライブ
 UID:EKhcYNfVnzI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マインクラフト/Minecraft】初めてお店作るから優しく教えろくだたい！Making a store【不知火フレア/宝鐘マリン】\nhttps://www.youtube.com/watch?v=EVB08Znu-zg
-DURATION:PT2H
-DTSTART:20201025T150000Z
-SUMMARY:🔥不知火フレア: 【マインクラフト/Minecraft】初めてお店作るから優しく教えろくだたい！Making a store【不知火フレア/宝鐘マリン】
-UID:EVB08Znu-zg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【マイクラ】豆腐職人レベル100のお昼作業【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=xRzCrDwyO_U
 DURATION:PT2H
 DTSTART:20201025T040000Z
@@ -254,13 +247,6 @@ DURATION:PT2H
 DTSTART:20201025T130000Z
 SUMMARY:🍙猫又おかゆ: 【影廊 -Shadow Corridor-】挑戦者モードにチャレンジ！#2【ホロライブ/猫又おかゆ】
 UID:QX6ch2YpDXU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Among Us】Guerrilla Queen 👑【ホロライブ/尾丸ポルカ】\nhttps://www.youtube.com/watch?v=Sa_YEatccRQ
-DURATION:PT2H
-DTSTART:20201026T050000Z
-SUMMARY:尾丸ポルカ: 【Among Us】Guerrilla Queen 👑【ホロライブ/尾丸ポルカ】
-UID:Sa_YEatccRQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Among Us】はじめての､Elite Among Us!! 😎🌸【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=nrX08cLgjyI
@@ -515,6 +501,13 @@ SUMMARY:🌽白上フブキ: Minecraft：原木ぽこぽこ桜の大樹作業で
 UID:j1zZrhB7We4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】KFP Employee Training w/ Kiara\nhttps://www.youtube.com/watch?v=FF1sO1EhopY
+DURATION:PT2H
+DTSTART:20201025T110000Z
+SUMMARY:Amelia: 【Minecraft】KFP Employee Training w/ Kiara
+UID:FF1sO1EhopY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【リスナー参加】宇宙からみんなで脱出したい！！！Amongus【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=_g2hPFoJcXg
 DURATION:PT2H
 DTSTART:20201026T140000Z
@@ -529,17 +522,17 @@ SUMMARY:🦋潤羽るしあ: 【minecraft】６０分チャレンジ！何が起
 UID:RkofK4ehemI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【配信予定地】かなたそなにする【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=i-FzIzU6W68
+DESCRIPTION:【Minecraft】月の館の2Fを作る！！！【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=i-FzIzU6W68
 DURATION:PT2H
 DTSTART:20201026T090000Z
-SUMMARY:💫天音かなた: 【配信予定地】かなたそなにする【天音かなた/ホロライブ4期生】
+SUMMARY:💫天音かなた: 【Minecraft】月の館の2Fを作る！！！【天音かなた/ホロライブ4期生】
 UID:i-FzIzU6W68
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】KFP Employee Training w/ Kiara\nhttps://www.youtube.com/watch?v=FF1sO1EhopY
+DESCRIPTION:【マインクラフト/Minecraft】初めてお店作るから優しく教えろくだたい！Making a store【不知火フレア/宝鐘マリン】\nhttps://www.youtube.com/watch?v=EVB08Znu-zg
 DURATION:PT2H
-DTSTART:20201025T110000Z
-SUMMARY:Amelia: 【Minecraft】KFP Employee Training w/ Kiara
-UID:FF1sO1EhopY
+DTSTART:20201025T150000Z
+SUMMARY:🔥不知火フレア: 【マインクラフト/Minecraft】初めてお店作るから優しく教えろくだたい！Making a store【不知火フレア/宝鐘マリン】
+UID:EVB08Znu-zg
 END:VEVENT
 END:VCALENDAR
