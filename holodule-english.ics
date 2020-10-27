@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Journey to...!?\nhttps://www.youtube.com/watch?v=bs047EAR2hY
-DURATION:PT2H
-DTSTART:20201026T230500Z
-SUMMARY:Amelia: 【Minecraft】Journey to...!?
-UID:bs047EAR2hY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[MINECRAFT] We're not lost.....right?\nhttps://www.youtube.com/watch?v=DkvVS3C0hdY
 DURATION:PT2H
 DTSTART:20201026T230000Z
 SUMMARY:Gura: [MINECRAFT] We're not lost.....right?
 UID:DkvVS3C0hdY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】 Blub Blub\nhttps://www.youtube.com/watch?v=97UywpG3tVI
+DURATION:PT2H
+DTSTART:20201027T200000Z
+SUMMARY:Ina: 【Minecraft】 Blub Blub
+UID:97UywpG3tVI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FALL GUYS】New Update!\nhttps://www.youtube.com/watch?v=z4BB-oUmT5A
@@ -25,10 +25,24 @@ SUMMARY:Amelia: 【FALL GUYS】New Update!
 UID:z4BB-oUmT5A
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Journey to...!?\nhttps://www.youtube.com/watch?v=bs047EAR2hY
+DURATION:PT2H
+DTSTART:20201026T230500Z
+SUMMARY:Amelia: 【Minecraft】Journey to...!?
+UID:bs047EAR2hY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Among Us】IMPOSTER PRACTICE with viewers!!!【#kfp #キアライブ】\nhttps://www.youtube.com/watch?v=tbdnTThtnbQ
 DURATION:PT2H
 DTSTART:20201027T113000Z
 SUMMARY:Kiara: 【Among Us】IMPOSTER PRACTICE with viewers!!!【#kfp #キアライブ】
 UID:tbdnTThtnbQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SPOOKY GAME】( ⚆ _ ⚆ )\nhttps://www.youtube.com/watch?v=1B7WJ8IF2o0
+DURATION:PT2H
+DTSTART:20201028T000500Z
+SUMMARY:Amelia: 【SPOOKY GAME】( ⚆ _ ⚆ )
+UID:1B7WJ8IF2o0
 END:VEVENT
 END:VCALENDAR
