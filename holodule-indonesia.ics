@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【hololiveID】COOLAB TIME : RISU X NIMA is having a sweet tea time ~【Ayunda Risu】\nhttps://www.youtube.com/watch?v=f3u1d-rZ970
-DURATION:PT2H
-DTSTART:20201030T120000Z
-SUMMARY:🐿Risu: 【hololiveID】COOLAB TIME : RISU X NIMA is having a sweet tea time ~【Ayunda Risu】
-UID:f3u1d-rZ970
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Risu aslinya ada berapa orang??\nhttps://www.youtube.com/watch?v=I7mvuLs_xgw
-DURATION:PT2H
-DTSTART:20201030T050001Z
-SUMMARY:IDholo: Risu aslinya ada berapa orang??
-UID:I7mvuLs_xgw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【hololiveID】#5 Minecraft : NEW BUILDING !【Ayunda Risu】\nhttps://www.youtube.com/watch?v=Jsi-30BU54E
 DURATION:PT2H
 DTSTART:20201029T140000Z
@@ -25,10 +11,31 @@ SUMMARY:🐿Risu: 【hololiveID】#5 Minecraft : NEW BUILDING !【Ayunda Risu】
 UID:Jsi-30BU54E
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【hololiveID】COOLAB TIME : RISU X NIMA is having a sweet tea time ~【Ayunda Risu】\nhttps://www.youtube.com/watch?v=f3u1d-rZ970
+DURATION:PT2H
+DTSTART:20201030T120000Z
+SUMMARY:🐿Risu: 【hololiveID】COOLAB TIME : RISU X NIMA is having a sweet tea time ~【Ayunda Risu】
+UID:f3u1d-rZ970
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【English Free Talk】Relaxing (?) Talk With Iofi\, Yes\, Relaxing【hololiveID】\nhttps://www.youtube.com/watch?v=TGf-alsaXyk
 DURATION:PT2H
 DTSTART:20201029T140000Z
 SUMMARY:🎨Iofi: 【English Free Talk】Relaxing (?) Talk With Iofi\, Yes\, Relaxing【hololiveID】
 UID:TGf-alsaXyk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Indonesia Free Talk】Jadi Gini... Iofi Mau Ngobrol【hololiveID】\nhttps://www.youtube.com/watch?v=N3ii4fQkV4Q
+DURATION:PT2H
+DTSTART:20201030T130000Z
+SUMMARY:🎨Iofi: 【Indonesia Free Talk】Jadi Gini... Iofi Mau Ngobrol【hololiveID】
+UID:N3ii4fQkV4Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Risu aslinya ada berapa orang??\nhttps://www.youtube.com/watch?v=I7mvuLs_xgw
+DURATION:PT2H
+DTSTART:20201030T050001Z
+SUMMARY:IDholo: Risu aslinya ada berapa orang??
+UID:I7mvuLs_xgw
 END:VEVENT
 END:VCALENDAR
