@@ -4,10 +4,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:DEGENERATE'S REQUEST HALLOWEEN!! 【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=hsVuAVvVgdc
+DESCRIPTION:DEGENERATE'S REQUEST HALLOWEEN!!  #HAACHAMA #HololiveEN\nhttps://www.youtube.com/watch?v=hsVuAVvVgdc
 DURATION:PT2H
 DTSTART:20201031T000000Z
-SUMMARY:❤赤井はあと: DEGENERATE'S REQUEST HALLOWEEN!! 【ホロライブ/赤井はあと】
+SUMMARY:❤赤井はあと: DEGENERATE'S REQUEST HALLOWEEN!!  #HAACHAMA #HololiveEN
 UID:hsVuAVvVgdc
 END:VEVENT
 BEGIN:VEVENT
@@ -123,6 +123,13 @@ SUMMARY:尾丸ポルカ: POLKA◆October◆LIVE◆2020 #ぽるうた 【ホロ�
 UID:ZJRYxAbB96Q
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【よていち】占いの館\nhttps://www.youtube.com/watch?v=gCHgF_Mq81I
+DURATION:PT2H
+DTSTART:20201031T100000Z
+SUMMARY:🌲大神ミオ: 【よていち】占いの館
+UID:gCHgF_Mq81I
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【A Short Hike】登山しに行く狐と鳥＃２【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=pPS_bZAR3cU
 DURATION:PT2H
 DTSTART:20201030T040000Z
@@ -149,13 +156,6 @@ DURATION:PT2H
 DTSTART:20201030T110000Z
 SUMMARY:ホロライブ: 【 第一回 】ライブグッズキャッチコピー選手権【 #こえていくホログッズ 】
 UID:gn60EH1mAc0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[Member'sonly]10月のはあちゃまっちゃま総会！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=uYsyMupNcAw
-DURATION:PT2H
-DTSTART:20201031T100000Z
-SUMMARY:❤赤井はあと: [Member'sonly]10月のはあちゃまっちゃま総会！【ホロライブ/赤井はあと】
-UID:uYsyMupNcAw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:あさココLIVE 10/30 #asacoco\nhttps://www.youtube.com/watch?v=I_FiI-6rbH8
