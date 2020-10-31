@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【hololiveID】COOLAB TIME : RISU X NIMA is having a sweet tea time ~【Ayunda Risu】\nhttps://www.youtube.com/watch?v=f3u1d-rZ970
-DURATION:PT2H
-DTSTART:20201030T120000Z
-SUMMARY:🐿Risu: 【hololiveID】COOLAB TIME : RISU X NIMA is having a sweet tea time ~【Ayunda Risu】
-UID:f3u1d-rZ970
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【hololiveID】#6 Minecraft : NEW BUILDING ! CONTINUE【Ayunda Risu】\nhttps://www.youtube.com/watch?v=LR_3ZWuyILQ
 DURATION:PT2H
 DTSTART:20201030T140000Z
@@ -18,11 +11,18 @@ SUMMARY:🐿Risu: 【hololiveID】#6 Minecraft : NEW BUILDING ! CONTINUE【Ayund
 UID:LR_3ZWuyILQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Risu aslinya ada berapa orang??\nhttps://www.youtube.com/watch?v=I7mvuLs_xgw
+DESCRIPTION:【hololiveID】HALLOWEEN SPECIAL : Yandere Voice Acting【Ayunda Risu】\nhttps://www.youtube.com/watch?v=qwpddzLCDPE
 DURATION:PT2H
-DTSTART:20201030T050001Z
-SUMMARY:IDholo: Risu aslinya ada berapa orang??
-UID:I7mvuLs_xgw
+DTSTART:20201031T140000Z
+SUMMARY:🐿Risu: 【hololiveID】HALLOWEEN SPECIAL : Yandere Voice Acting【Ayunda Risu】
+UID:qwpddzLCDPE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololiveID】COOLAB TIME : RISU X NIMA is having a sweet tea time ~【Ayunda Risu】\nhttps://www.youtube.com/watch?v=f3u1d-rZ970
+DURATION:PT2H
+DTSTART:20201030T120000Z
+SUMMARY:🐿Risu: 【hololiveID】COOLAB TIME : RISU X NIMA is having a sweet tea time ~【Ayunda Risu】
+UID:f3u1d-rZ970
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Indonesia Free Talk】Jadi Gini... Iofi Mau Ngobrol【hololiveID】\nhttps://www.youtube.com/watch?v=N3ii4fQkV4Q
@@ -30,5 +30,12 @@ DURATION:PT2H
 DTSTART:20201030T130000Z
 SUMMARY:🎨Iofi: 【Indonesia Free Talk】Jadi Gini... Iofi Mau Ngobrol【hololiveID】
 UID:N3ii4fQkV4Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Risu aslinya ada berapa orang??\nhttps://www.youtube.com/watch?v=I7mvuLs_xgw
+DURATION:PT2H
+DTSTART:20201030T050001Z
+SUMMARY:IDholo: Risu aslinya ada berapa orang??
+UID:I7mvuLs_xgw
 END:VEVENT
 END:VCALENDAR
