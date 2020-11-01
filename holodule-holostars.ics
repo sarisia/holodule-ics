@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【記念枠】～荒咬オウガ　HALF　YEAR　ANNIVERSARY～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=nx_Cq_3Q9rs
+DURATION:PT2H
+DTSTART:20201101T130000Z
+SUMMARY:荒咬オウガ: 【記念枠】～荒咬オウガ　HALF　YEAR　ANNIVERSARY～【荒咬オウガ/ホロスターズ】
+UID:nx_Cq_3Q9rs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【イラストアフレコ枠】リスナー作のハロウィンイラストに即興アフレコ【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=k8iky-_dDNk
 DURATION:PT2H
 DTSTART:20201031T080000Z
@@ -107,12 +114,5 @@ DURATION:PT2H
 DTSTART:20201031T191500Z
 SUMMARY:荒咬オウガ: 【深夜枠】～HalloweenParty遅刻しました～【荒咬オウガ/ホロスターズ】
 UID:9DDiL2mvyeg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【メン限】曲覚えする【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=Kzj7MkWvVdI
-DURATION:PT2H
-DTSTART:20201101T143000Z
-SUMMARY:⚙律可: 【メン限】曲覚えする【律可/ホロスターズ】
-UID:Kzj7MkWvVdI
 END:VEVENT
 END:VCALENDAR
