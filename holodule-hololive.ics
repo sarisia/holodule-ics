@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:ぱあぷううううううううううう！！！！！！！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=Y7dd6ZqAyAQ
+DESCRIPTION:うううううううううううううう・・・・【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=Y7dd6ZqAyAQ
 DURATION:PT2H
 DTSTART:20201101T120000Z
-SUMMARY:⚓湊あくあ: ぱあぷううううううううううう！！！！！！！！【湊あくあ/ホロライブ】
+SUMMARY:⚓湊あくあ: うううううううううううううう・・・・【湊あくあ/ホロライブ】
 UID:Y7dd6ZqAyAQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【アニメ】こうなったら破壊するしかねーよ！\nhttps://www.youtube.com/watch?v=7FDwTV2AanI
+DURATION:PT2H
+DTSTART:20201101T090002Z
+SUMMARY:ホロライブ: 【アニメ】こうなったら破壊するしかねーよ！
+UID:7FDwTV2AanI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ごめんねとありがとう、そしてこれからも。\nhttps://www.youtube.com/watch?v=o9jmwIN9FVQ
@@ -338,13 +345,6 @@ DURATION:PT2H
 DTSTART:20201101T070000Z
 SUMMARY:🤖ロボ子さん: 【雑談】１１月はじめの談！１０月は色々あった👀!【ホロライブ/ロボ子さん】
 UID:XOEU_x1rS3k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】月の館完成させる🌙🏠【ホロライブ / #星の彼方DAY】\nhttps://www.youtube.com/watch?v=nSHiO3WwCfc
-DURATION:PT2H
-DTSTART:20201101T060000Z
-SUMMARY:☄星街すいせい: 【Minecraft】月の館完成させる🌙🏠【ホロライブ / #星の彼方DAY】
-UID:nSHiO3WwCfc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SoundHorizon「朝までハロウィン」(Cover)/ 角巻わため ×白上フブキ ×不知火フレア【#バカタレ共】\nhttps://www.youtube.com/watch?v=6qESBvBUqus
