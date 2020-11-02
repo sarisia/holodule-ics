@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【記念枠】～荒咬オウガ　HALF　YEAR　ANNIVERSARY～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=nx_Cq_3Q9rs
-DURATION:PT2H
-DTSTART:20201101T130000Z
-SUMMARY:荒咬オウガ: 【記念枠】～荒咬オウガ　HALF　YEAR　ANNIVERSARY～【荒咬オウガ/ホロスターズ】
-UID:nx_Cq_3Q9rs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Phasmophobia】ふぁすもふぉびあ？【奏手イヅル/アルランディス/夕刻ロベル/花咲みやび】\nhttps://www.youtube.com/watch?v=hsbK5iqzRf4
 DURATION:PT2H
 DTSTART:20201102T120000Z
@@ -32,11 +25,18 @@ SUMMARY:🌺花咲みやび: 【Phasmophobia】僕たちホロゴーストバス
 UID:EPfCBvhmtUE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】世界樹ツリーに内装を!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=4kDzq7xMhO4
+DESCRIPTION:【朝活】生活習慣改善－11月がやってまいりましたよぉ！！－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=Ec_wR-1Tch8
 DURATION:PT2H
-DTSTART:20201101T140000Z
-SUMMARY:🌺花咲みやび: 【Minecraft】世界樹ツリーに内装を!!【花咲みやび/ホロスターズ】
-UID:4kDzq7xMhO4
+DTSTART:20201102T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－11月がやってまいりましたよぉ！！－【ホロスターズ/夕刻ロベル】
+UID:Ec_wR-1Tch8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【世界のアソビ大全51】返してもらうぜ…俺のベッドをなぁ！【荒咬オウガ/アルランディス】\nhttps://www.youtube.com/watch?v=ywzZWDgFdAA
+DURATION:PT2H
+DTSTART:20201103T130000Z
+SUMMARY:🍕アルランディス: 【世界のアソビ大全51】返してもらうぜ…俺のベッドをなぁ！【荒咬オウガ/アルランディス】
+UID:ywzZWDgFdAA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【弾き語り枠】Sing Sing Sing おやつをかじりながら【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=YZwlwR0KFG4
@@ -44,13 +44,6 @@ DURATION:PT2H
 DTSTART:20201103T060000Z
 SUMMARY:⚙律可: 【弾き語り枠】Sing Sing Sing おやつをかじりながら【律可/ホロスターズ】
 UID:YZwlwR0KFG4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【祝！記念！】アランは 念願の メンバーシップを 手に入れた！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=kE4BCk5s_eQ
-DURATION:PT2H
-DTSTART:20201101T100000Z
-SUMMARY:🍕アルランディス: 【祝！記念！】アランは 念願の メンバーシップを 手に入れた！【アルランディス/ホロスターズ】
-UID:kE4BCk5s_eQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】今から馬鹿みたいにやったらどこまで行けるのか。【アステル/ホロスターズ】\nhttps://www.youtube.com/watch?v=hSLKg41UFJk
@@ -67,11 +60,11 @@ SUMMARY:🍕アルランディス: 【Phasmophobia】4人で挑む謎解きホ�
 UID:H3wT_qXIOmI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝活】生活習慣改善－11月がやってまいりましたよぉ！！－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=Ec_wR-1Tch8
+DESCRIPTION:【ピクミン３ DX】もう誰も失わない、あの日の涙を胸に進もう【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=OmWqAWH1G5A
 DURATION:PT2H
-DTSTART:20201102T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－11月がやってまいりましたよぉ！！－【ホロスターズ/夕刻ロベル】
-UID:Ec_wR-1Tch8
+DTSTART:20201103T050000Z
+SUMMARY:🍕アルランディス: 【ピクミン３ DX】もう誰も失わない、あの日の涙を胸に進もう【アルランディス/ホロスターズ】
+UID:OmWqAWH1G5A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ツイステ】サバナクロー寮にいそうな奴がプレイする「スケアリーモンスターズ！」 #03【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=k4mDXiKE0LI
@@ -79,47 +72,5 @@ DURATION:PT2H
 DTSTART:20201102T080000Z
 SUMMARY:影山シエン: 【ツイステ】サバナクロー寮にいそうな奴がプレイする「スケアリーモンスターズ！」 #03【影山シエン/ホロスターズ】
 UID:k4mDXiKE0LI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #アランストリーム 】深夜のアルラジオ#13【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=d3faP3jIdxw
-DURATION:PT2H
-DTSTART:20201101T140000Z
-SUMMARY:🍕アルランディス: 【 #アランストリーム 】深夜のアルラジオ#13【アルランディス/ホロスターズ】
-UID:d3faP3jIdxw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Dead by Daylight】最強キラー[RANK1]到達するまで終われません!!【#岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=1q5oimcAGE0
-DURATION:PT2H
-DTSTART:20201101T050000Z
-SUMMARY:🦔💨岸堂天真: 【Dead by Daylight】最強キラー[RANK1]到達するまで終われません!!【#岸堂天真/ホロスターズ】
-UID:1q5oimcAGE0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Touhou Luna Nights】行くぞ時計塔！待っててお嬢様！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=wCLatwWqph4
-DURATION:PT2H
-DTSTART:20201101T040000Z
-SUMMARY:🍕アルランディス: 【Touhou Luna Nights】行くぞ時計塔！待っててお嬢様！【アルランディス/ホロスターズ】
-UID:wCLatwWqph4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【月一談義】10月編!! Happy Halloween?🎃【奏手イヅル/アステル】\nhttps://www.youtube.com/watch?v=WtFmLrECTOs
-DURATION:PT2H
-DTSTART:20201031T160000Z
-SUMMARY:🎸奏手イヅル: 【月一談義】10月編!! Happy Halloween?🎃【奏手イヅル/アステル】
-UID:WtFmLrECTOs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【深夜枠】～HalloweenParty遅刻しました～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=9DDiL2mvyeg
-DURATION:PT2H
-DTSTART:20201031T191500Z
-SUMMARY:荒咬オウガ: 【深夜枠】～HalloweenParty遅刻しました～【荒咬オウガ/ホロスターズ】
-UID:9DDiL2mvyeg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【クラッシュ・バンディクー4 とんでもマルチバース】クラッシュの新作を初見で楽しむぞー!! ＃２【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=FMxd_R3GnHI
-DURATION:PT2H
-DTSTART:20201101T090000Z
-SUMMARY:🌺花咲みやび: 【クラッシュ・バンディクー4 とんでもマルチバース】クラッシュの新作を初見で楽しむぞー!! ＃２【花咲みやび/ホロスターズ】
-UID:FMxd_R3GnHI
 END:VEVENT
 END:VCALENDAR
