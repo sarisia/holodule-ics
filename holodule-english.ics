@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Phasmophobia】Calli\, Gura and Ina will protect me..right? (´；ω；`) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=YZiO5QJdzLY
+DESCRIPTION:【Phasmophobia】 Who Ya Gonna Call?\nhttps://www.youtube.com/watch?v=v0sstvASG3M
 DURATION:PT2H
 DTSTART:20201103T020000Z
-SUMMARY:Kiara: 【Phasmophobia】Calli\, Gura and Ina will protect me..right? (´；ω；`) #kfp #キアライブ
-UID:YZiO5QJdzLY
+SUMMARY:Ina: 【Phasmophobia】 Who Ya Gonna Call?
+UID:v0sstvASG3M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[PHASMOPHOBIA] WHO YA GONNA CALL? #GAWRGURA #HololiveEN\nhttps://www.youtube.com/watch?v=hsRdNVPlYCE
+DURATION:PT2H
+DTSTART:20201103T020000Z
+SUMMARY:Gura: [PHASMOPHOBIA] WHO YA GONNA CALL? #GAWRGURA #HololiveEN
+UID:hsRdNVPlYCE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DRAWING】 Gesture Drawing + Doodle\nhttps://www.youtube.com/watch?v=BmDH6j8gjUo
@@ -18,17 +25,17 @@ SUMMARY:Ina: 【DRAWING】 Gesture Drawing + Doodle
 UID:BmDH6j8gjUo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Phasmophobia】Calli\, Gura and Ina will protect me..right? (´；ω；`) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=YZiO5QJdzLY
+DURATION:PT2H
+DTSTART:20201103T020000Z
+SUMMARY:Kiara: 【Phasmophobia】Calli\, Gura and Ina will protect me..right? (´；ω；`) #kfp #キアライブ
+UID:YZiO5QJdzLY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Superchat Reading】Getting Caught UP! ヾ(*・。・)ﾉ\nhttps://www.youtube.com/watch?v=jo3rTk7EScI
 DURATION:PT2H
 DTSTART:20201102T040500Z
 SUMMARY:Amelia: 【Superchat Reading】Getting Caught UP! ヾ(*・。・)ﾉ
 UID:jo3rTk7EScI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Phasmophobia】 Who Ya Gonna Call?\nhttps://www.youtube.com/watch?v=v0sstvASG3M
-DURATION:PT2H
-DTSTART:20201103T020000Z
-SUMMARY:Ina: 【Phasmophobia】 Who Ya Gonna Call?
-UID:v0sstvASG3M
 END:VEVENT
 END:VCALENDAR
