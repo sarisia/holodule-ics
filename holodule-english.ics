@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】 Prime Slime Time\nhttps://www.youtube.com/watch?v=HHr54fmCGEQ
+DURATION:PT2H
+DTSTART:20201103T220000Z
+SUMMARY:Ina: 【Minecraft】 Prime Slime Time
+UID:HHr54fmCGEQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ART STREAM】i do a paint #kfp #キアライブ\nhttps://www.youtube.com/watch?v=1kLDBwnI-xQ
+DURATION:PT2H
+DTSTART:20201103T120000Z
+SUMMARY:Kiara: 【ART STREAM】i do a paint #kfp #キアライブ
+UID:1kLDBwnI-xQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Phasmophobia】 Who Ya Gonna Call?\nhttps://www.youtube.com/watch?v=v0sstvASG3M
 DURATION:PT2H
 DTSTART:20201103T020000Z
@@ -23,13 +37,6 @@ DURATION:PT2H
 DTSTART:20201103T020000Z
 SUMMARY:Gura: [PHASMOPHOBIA] WHO YA GONNA CALL? #GAWRGURA #HololiveEN
 UID:hsRdNVPlYCE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ART STREAM】i do a paint #kfp #キアライブ\nhttps://www.youtube.com/watch?v=1kLDBwnI-xQ
-DURATION:PT2H
-DTSTART:20201103T120000Z
-SUMMARY:Kiara: 【ART STREAM】i do a paint #kfp #キアライブ
-UID:1kLDBwnI-xQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DRAWING】 Gesture Drawing + Doodle\nhttps://www.youtube.com/watch?v=BmDH6j8gjUo
