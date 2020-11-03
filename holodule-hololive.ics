@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【配信予定地】かなたそなにする【天音かなた/ホロライブ4期生】\nhttps://www.youtube.com/watch?v=I_QHEKlkQfI
+DURATION:PT2H
+DTSTART:20201103T230000Z
+SUMMARY:💫天音かなた: 【配信予定地】かなたそなにする【天音かなた/ホロライブ4期生】
+UID:I_QHEKlkQfI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌枠】SINGCHAMA♪｜うたうはあちゃまあああ～！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=CiCpD_5Hq_g
 DURATION:PT2H
 DTSTART:20201104T100000Z
@@ -46,13 +53,6 @@ SUMMARY:💋癒月ちょこ: 【apex】悪魔のコソ連APEX【ホロライブ/
 UID:DOumIXe8HTE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】みんなでエンドシティ探索だにぇ！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=pn8zTlxKBJ4
-DURATION:PT2H
-DTSTART:20201103T140000Z
-SUMMARY:🌸さくらみこ: 【Minecraft】みんなでエンドシティ探索だにぇ！【ホロライブ/さくらみこ】
-UID:pn8zTlxKBJ4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ARK CRYSTAL ISLES】いずれ万病に効くARK【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=yct0sMYzbKk
 DURATION:PT2H
 DTSTART:20201103T140000Z
@@ -74,18 +74,18 @@ SUMMARY:尾丸ポルカ: ポルカが気圧を倒す時に始まる歌枠【ホ�
 UID:xrDuwnQlxLc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マイクラ】エンドシティ探検隊！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=wldy1BjyULA
-DURATION:PT2H
-DTSTART:20201103T140000Z
-SUMMARY:獅白ぼたん: 【マイクラ】エンドシティ探検隊！【獅白ぼたん/ホロライブ】
-UID:wldy1BjyULA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#らみらいぶ】水曜日の朝活雑談【11月04日】\nhttps://www.youtube.com/watch?v=deVXe_cSZIc
 DURATION:PT2H
 DTSTART:20201104T000000Z
 SUMMARY:雪花ラミィ: 【#らみらいぶ】水曜日の朝活雑談【11月04日】
 UID:deVXe_cSZIc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:OMGGGGGGGGGGGGGGGGGGGGGGGGGGG\nhttps://www.youtube.com/watch?v=CS-32IcrIhk
+DURATION:PT2H
+DTSTART:20201103T163233Z
+SUMMARY:💫天音かなた: OMGGGGGGGGGGGGGGGGGGGGGGGGGGG
+UID:CS-32IcrIhk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【リングフィットアドベンチャー】祝日の朝も筋トレ！Day7【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=UqrGsgYeCsw
@@ -179,11 +179,11 @@ SUMMARY:🤖ロボ子さん: 【Hide and Shriek】ＶＳホラー🔥ラミち�
 UID:XAQcvvRHDqA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】みんなでエンドシティを探索ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=QKlL_KGlHHA
+DESCRIPTION:【歌枠】睡眠導入？？🎵✨アカペラ✨🎵【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=7YpIgqyQljs
 DURATION:PT2H
-DTSTART:20201103T140000Z
-SUMMARY:👯兎田ぺこら: 【Minecraft】みんなでエンドシティを探索ぺこ！【ホロライブ/兎田ぺこら】
-UID:QKlL_KGlHHA
+DTSTART:20201103T150000Z
+SUMMARY:👾常闇トワ: 【歌枠】睡眠導入？？🎵✨アカペラ✨🎵【常闇トワ/ホロライブ】
+UID:7YpIgqyQljs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Passpartout: The Starving Artist】絵を描いて生活するときの画伯物語【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=SGbPOZMO4Jk
