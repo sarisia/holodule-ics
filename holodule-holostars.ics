@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#魔フィア】獣人と魔人の半年記念配信【影山シエン/荒咬オウガ】\nhttps://www.youtube.com/watch?v=-ao_6qlwgUY
-DURATION:PT2H
-DTSTART:20201104T140000Z
-SUMMARY:影山シエン: 【#魔フィア】獣人と魔人の半年記念配信【影山シエン/荒咬オウガ】
-UID:-ao_6qlwgUY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マイクラ】ホロスタ鯖にマスコット増やし隊【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=8Ohia_CpmY0
-DURATION:PT2H
-DTSTART:20201104T070000Z
-SUMMARY:影山シエン: 【マイクラ】ホロスタ鯖にマスコット増やし隊【影山シエン/ホロスターズ】
-UID:8Ohia_CpmY0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【弾き語り】11月最初のLet's SINGING!!【奏手イヅル】\nhttps://www.youtube.com/watch?v=IZhW87kQlCU
 DURATION:PT2H
 DTSTART:20201103T100000Z
@@ -53,11 +39,11 @@ SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－火曜日だって
 UID:t9KneFmSTgA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝活】生活習慣改善－週の真ん中！水曜日の朝活雑談！！－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=xnz3Gl-nSig
+DESCRIPTION:【朝活NEWS LIVE】11月4日！Weekly Holostars ！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=OITB89Go5MY
 DURATION:PT2H
-DTSTART:20201104T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－週の真ん中！水曜日の朝活雑談！！－【ホロスターズ/夕刻ロベル】
-UID:xnz3Gl-nSig
+DTSTART:20201104T002000Z
+SUMMARY:🍕アルランディス: 【朝活NEWS LIVE】11月4日！Weekly Holostars ！【アルランディス/ホロスターズ】
+UID:OITB89Go5MY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【世界のアソビ大全51】返してもらうぜ…俺のベッドをなぁ！【荒咬オウガ/アルランディス】\nhttps://www.youtube.com/watch?v=ywzZWDgFdAA
@@ -67,11 +53,11 @@ SUMMARY:🍕アルランディス: 【世界のアソビ大全51】返しても�
 UID:ywzZWDgFdAA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】全集中の呼吸で駆け上がる。【アステル/ホロスターズ】\nhttps://www.youtube.com/watch?v=3hWLMkLl3sc
+DESCRIPTION:【朝活】生活習慣改善－週の真ん中！水曜日の朝活雑談！！－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=xnz3Gl-nSig
 DURATION:PT2H
-DTSTART:20201102T163000Z
-SUMMARY:🎭アステル・レダ: 【APEX】全集中の呼吸で駆け上がる。【アステル/ホロスターズ】
-UID:3hWLMkLl3sc
+DTSTART:20201104T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－週の真ん中！水曜日の朝活雑談！！－【ホロスターズ/夕刻ロベル】
+UID:xnz3Gl-nSig
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】シーズン7のために少しでもランクを上げたい!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=f3yR4uNiYNk
@@ -81,18 +67,39 @@ SUMMARY:🌺花咲みやび: 【APEX】シーズン7のために少しでもラ�
 UID:f3yR4uNiYNk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:こっそり、こってり、ならす。【アステル/ホロスターズ】\nhttps://www.youtube.com/watch?v=71wksUh6TPY
-DURATION:PT2H
-DTSTART:20201103T173000Z
-SUMMARY:🎭アステル・レダ: こっそり、こってり、ならす。【アステル/ホロスターズ】
-UID:71wksUh6TPY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【FE風花雪月】最終回：戦争の終わりと愛する○○との結婚【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=Eivm3AZI_bA
 DURATION:PT2H
 DTSTART:20201104T050000Z
 SUMMARY:🦔💨岸堂天真: 【FE風花雪月】最終回：戦争の終わりと愛する○○との結婚【岸堂天真/ホロスターズ】
 UID:Eivm3AZI_bA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#魔フィア】獣人と魔人の半年記念配信【影山シエン/荒咬オウガ】\nhttps://www.youtube.com/watch?v=-ao_6qlwgUY
+DURATION:PT2H
+DTSTART:20201104T140000Z
+SUMMARY:影山シエン: 【#魔フィア】獣人と魔人の半年記念配信【影山シエン/荒咬オウガ】
+UID:-ao_6qlwgUY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マイクラ】ホロスタ鯖にマスコット増やし隊【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=8Ohia_CpmY0
+DURATION:PT2H
+DTSTART:20201104T070000Z
+SUMMARY:影山シエン: 【マイクラ】ホロスタ鯖にマスコット増やし隊【影山シエン/ホロスターズ】
+UID:8Ohia_CpmY0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】全集中の呼吸で駆け上がる。【アステル/ホロスターズ】\nhttps://www.youtube.com/watch?v=3hWLMkLl3sc
+DURATION:PT2H
+DTSTART:20201102T163000Z
+SUMMARY:🎭アステル・レダ: 【APEX】全集中の呼吸で駆け上がる。【アステル/ホロスターズ】
+UID:3hWLMkLl3sc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:こっそり、こってり、ならす。【アステル/ホロスターズ】\nhttps://www.youtube.com/watch?v=71wksUh6TPY
+DURATION:PT2H
+DTSTART:20201103T173000Z
+SUMMARY:🎭アステル・レダ: こっそり、こってり、ならす。【アステル/ホロスターズ】
+UID:71wksUh6TPY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ピクミン３ DX】もう誰も失わない、あの日の涙を胸に進もう【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=OmWqAWH1G5A
