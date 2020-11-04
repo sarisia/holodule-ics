@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【SMS】Mario is my bff\, yup【Part 2】\nhttps://www.youtube.com/watch?v=it5l7KVghzs
-DURATION:PT2H
-DTSTART:20201105T110000Z
-SUMMARY:Kiara: 【SMS】Mario is my bff\, yup【Part 2】
-UID:it5l7KVghzs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】 Prime Slime Time\nhttps://www.youtube.com/watch?v=HHr54fmCGEQ
 DURATION:PT2H
 DTSTART:20201103T220000Z
@@ -18,11 +11,25 @@ SUMMARY:Ina: 【Minecraft】 Prime Slime Time
 UID:HHr54fmCGEQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Half-Life 2】 Bonk\nhttps://www.youtube.com/watch?v=dyj2q3JoIxI
+DURATION:PT2H
+DTSTART:20201104T220000Z
+SUMMARY:Ina: 【Half-Life 2】 Bonk
+UID:dyj2q3JoIxI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【FIRE EMBLEM: THREE HOUSES】simping hard on Lysithea  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=EOZOt81rs_4
 DURATION:PT2H
 DTSTART:20201104T072000Z
 SUMMARY:Kiara: 【FIRE EMBLEM: THREE HOUSES】simping hard on Lysithea  #kfp #キアライブ
 UID:EOZOt81rs_4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SMS】Mario is my bff\, yup【Part 2】\nhttps://www.youtube.com/watch?v=it5l7KVghzs
+DURATION:PT2H
+DTSTART:20201105T110000Z
+SUMMARY:Kiara: 【SMS】Mario is my bff\, yup【Part 2】
+UID:it5l7KVghzs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【COLLAB- OVERCOOKED 2 or MOVING OUT】3 Ex-Chefs??? #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=gWL6p9NcRFY
