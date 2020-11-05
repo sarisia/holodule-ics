@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】 Prime Slime Time\nhttps://www.youtube.com/watch?v=HHr54fmCGEQ
-DURATION:PT2H
-DTSTART:20201103T220000Z
-SUMMARY:Ina: 【Minecraft】 Prime Slime Time
-UID:HHr54fmCGEQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Half-Life 2】 Bonk\nhttps://www.youtube.com/watch?v=dyj2q3JoIxI
 DURATION:PT2H
 DTSTART:20201104T220000Z
@@ -18,37 +11,9 @@ SUMMARY:Ina: 【Half-Life 2】 Bonk
 UID:dyj2q3JoIxI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FIRE EMBLEM: THREE HOUSES】simping hard on Lysithea  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=EOZOt81rs_4
-DURATION:PT2H
-DTSTART:20201104T072000Z
-SUMMARY:Kiara: 【FIRE EMBLEM: THREE HOUSES】simping hard on Lysithea  #kfp #キアライブ
-UID:EOZOt81rs_4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Q&A】Detective Diaries~ Answering Questions!\nhttps://www.youtube.com/watch?v=JKG7OToMSd4
-DURATION:PT2H
-DTSTART:20201105T220500Z
-SUMMARY:Amelia: 【Q&A】Detective Diaries~ Answering Questions!
-UID:JKG7OToMSd4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【COLLAB- OVERCOOKED 2 or MOVING OUT】3 Ex-Chefs??? #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=gWL6p9NcRFY
-DURATION:PT2H
-DTSTART:20201104T140217Z
-SUMMARY:Calli: 【COLLAB- OVERCOOKED 2 or MOVING OUT】3 Ex-Chefs??? #hololiveEnglish #holoMyth
-UID:gWL6p9NcRFY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ANTICHAMBER】(∩⌣̀_⌣́) hmmmmm\nhttps://www.youtube.com/watch?v=x7znd2nBF24
-DURATION:PT2H
-DTSTART:20201106T010000Z
-SUMMARY:Amelia: 【ANTICHAMBER】(∩⌣̀_⌣́) hmmmmm
-UID:x7znd2nBF24
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MAD RAT DEAD】WE RAT RHYTHM GAME NOW!! Say that 10 times fast. #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=0fQfi9ntlE4
 DURATION:PT2H
-DTSTART:20201105T145500Z
+DTSTART:20201105T150031Z
 SUMMARY:Calli: 【MAD RAT DEAD】WE RAT RHYTHM GAME NOW!! Say that 10 times fast. #hololiveEnglish #holoMyth
 UID:0fQfi9ntlE4
 END:VEVENT
@@ -60,10 +25,24 @@ SUMMARY:Kiara: 【SMS】Mario is my bff\, yup【Part 2】
 UID:it5l7KVghzs
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Q&A】Detective Diaries~ Answering Questions!\nhttps://www.youtube.com/watch?v=JKG7OToMSd4
+DURATION:PT2H
+DTSTART:20201105T220500Z
+SUMMARY:Amelia: 【Q&A】Detective Diaries~ Answering Questions!
+UID:JKG7OToMSd4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:[A WAY OUT] PRISON BREAK!\nhttps://www.youtube.com/watch?v=59ZVfIubzn0
 DURATION:PT2H
 DTSTART:20201105T020000Z
 SUMMARY:Gura: [A WAY OUT] PRISON BREAK!
 UID:59ZVfIubzn0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ANTICHAMBER】(∩⌣̀_⌣́) hmmmmm\nhttps://www.youtube.com/watch?v=x7znd2nBF24
+DURATION:PT2H
+DTSTART:20201106T010000Z
+SUMMARY:Amelia: 【ANTICHAMBER】(∩⌣̀_⌣́) hmmmmm
+UID:x7znd2nBF24
 END:VEVENT
 END:VCALENDAR
