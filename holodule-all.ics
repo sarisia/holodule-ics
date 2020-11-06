@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【朝活】生活習慣改善－もう木曜日だという事実に恐れをなす朝－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=_QGTy4lXj3U
-DURATION:PT2H
-DTSTART:20201105T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－もう木曜日だという事実に恐れをなす朝－【ホロスターズ/夕刻ロベル】
-UID:_QGTy4lXj3U
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【スーパーマリオサンシャイン】最近寒いし夏を感じよう#3【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=QZTOS_g2sCU
 DURATION:PT2H
 DTSTART:20201106T120000Z
@@ -18,11 +11,25 @@ SUMMARY:🍙猫又おかゆ: 【スーパーマリオサンシャイン】最近
 UID:QZTOS_g2sCU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【朝活】生活習慣改善－もう木曜日だという事実に恐れをなす朝－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=_QGTy4lXj3U
+DURATION:PT2H
+DTSTART:20201105T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－もう木曜日だという事実に恐れをなす朝－【ホロスターズ/夕刻ロベル】
+UID:_QGTy4lXj3U
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ARK CRYSTAL ISLES】五期生に会いに行く【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=SS5xlLlIFxY
 DURATION:PT2H
 DTSTART:20201104T150000Z
 SUMMARY:尾丸ポルカ: 【ARK CRYSTAL ISLES】五期生に会いに行く【尾丸ポルカ/ホロライブ】
 UID:SS5xlLlIFxY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 infliction 】深夜２６時にホラゲすれば怖くないのらよ！👻【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=nZO-2583-0M
+DURATION:PT2H
+DTSTART:20201106T050000Z
+SUMMARY:🍬姫森ルーナ: 【 infliction 】深夜２６時にホラゲすれば怖くないのらよ！👻【姫森ルーナ/ホロライブ】
+UID:nZO-2583-0M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【変な枠】ロベルさんはベルを鳴らすことでどれだけ皆と意思疎通が出来るか…！？【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=XxpQehN0Pxo
@@ -97,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】深夜のマイクラ～～～！！！とわねねちゃま！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=VH1rYgUGCZ0
 DURATION:PT2H
-DTSTART:20201106T130000Z
+DTSTART:20201106T140000Z
 SUMMARY:❤赤井はあと: 【Minecraft】深夜のマイクラ～～～！！！とわねねちゃま！【ホロライブ/赤井はあと】
 UID:VH1rYgUGCZ0
 END:VEVENT
@@ -137,6 +144,13 @@ SUMMARY:🍕アルランディス: 【Minecraft】世界樹飾り付け用素材
 UID:aOTuS7kokIo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:う　た　の　鍛　錬\nhttps://www.youtube.com/watch?v=acluPLpA3V0
+DURATION:PT2H
+DTSTART:20201106T123000Z
+SUMMARY:🐉桐生ココ: う　た　の　鍛　錬
+UID:acluPLpA3V0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】シャワーからでたら始まる枠【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=ffP2llaygBg
 DURATION:PT2H
 DTSTART:20201106T041000Z
@@ -158,6 +172,13 @@ SUMMARY:🌺花咲みやび: 【Minecraft】深夜だし、線路作る!! 無限
 UID:OXqbvlgclfE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【歌枠】40万人ありがとうの夜うた【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=iBtHm6QD49c
+DURATION:PT2H
+DTSTART:20201106T130000Z
+SUMMARY:獅白ぼたん: 【歌枠】40万人ありがとうの夜うた【獅白ぼたん/ホロライブ】
+UID:iBtHm6QD49c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:AMONG US!!!!!!!! for the first time\nhttps://www.youtube.com/watch?v=3sS2Qa-hGuc
 DURATION:PT2H
 DTSTART:20201105T140000Z
@@ -170,13 +191,6 @@ DURATION:PT2H
 DTSTART:20201105T220500Z
 SUMMARY:Amelia: 【Q&A】Detective Diaries~ Answering Questions!
 UID:JKG7OToMSd4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】40万人ありがとうの夜うた【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=iBtHm6QD49c
-DURATION:PT2H
-DTSTART:20201106T130000Z
-SUMMARY:獅白ぼたん: 【歌枠】40万人ありがとうの夜うた【獅白ぼたん/ホロライブ】
-UID:iBtHm6QD49c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Apex Legends】シーズン７開幕！ゆるゆるフルパがチャンピオンをかっさらう！【花咲みやび/岸堂天真/アルランディス】\nhttps://www.youtube.com/watch?v=NNbpINdSRdk
@@ -401,6 +415,13 @@ DURATION:PT2H
 DTSTART:20201105T150031Z
 SUMMARY:Calli: 【MAD RAT DEAD】WE RAT RHYTHM GAME NOW!! Say that 10 times fast. #hololiveEnglish #holoMyth
 UID:0fQfi9ntlE4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK】イベントが終わっちゃう！！！【Hololive/アキロゼ】\nhttps://www.youtube.com/watch?v=Icg8LHLn73E
+DURATION:PT2H
+DTSTART:20201106T140000Z
+SUMMARY:🍎アキロゼ: 【ARK】イベントが終わっちゃう！！！【Hololive/アキロゼ】
+UID:Icg8LHLn73E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SMS】Mario is my bff\, yup【Part 2】\nhttps://www.youtube.com/watch?v=it5l7KVghzs
