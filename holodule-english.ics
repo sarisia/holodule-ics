@@ -4,46 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Half-Life 2】 Bonk\nhttps://www.youtube.com/watch?v=dyj2q3JoIxI
-DURATION:PT2H
-DTSTART:20201104T220000Z
-SUMMARY:Ina: 【Half-Life 2】 Bonk
-UID:dyj2q3JoIxI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[PHASMOPHOBIA] SURPRISE GHOST HUNT!\nhttps://www.youtube.com/watch?v=4ejfLJKUasw
 DURATION:PT2H
 DTSTART:20201106T044000Z
 SUMMARY:Gura: [PHASMOPHOBIA] SURPRISE GHOST HUNT!
 UID:4ejfLJKUasw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Q&A】Detective Diaries~ Answering Questions!\nhttps://www.youtube.com/watch?v=JKG7OToMSd4
-DURATION:PT2H
-DTSTART:20201105T220500Z
-SUMMARY:Amelia: 【Q&A】Detective Diaries~ Answering Questions!
-UID:JKG7OToMSd4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ANTICHAMBER】(∩⌣̀_⌣́) hmmmmm\nhttps://www.youtube.com/watch?v=x7znd2nBF24
-DURATION:PT2H
-DTSTART:20201106T010000Z
-SUMMARY:Amelia: 【ANTICHAMBER】(∩⌣̀_⌣́) hmmmmm
-UID:x7znd2nBF24
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ANTICHAMBER】( ་ ⍸ ་ ) i can solve it...\nhttps://www.youtube.com/watch?v=qMnpQ872sVE
-DURATION:PT2H
-DTSTART:20201107T010000Z
-SUMMARY:Amelia: 【ANTICHAMBER】( ་ ⍸ ་ ) i can solve it...
-UID:qMnpQ872sVE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【POLKA x KIARA】a Phoenix and a...Phoenix?  #polkia #ポルキア\nhttps://www.youtube.com/watch?v=F222iqX6IUg
-DURATION:PT2H
-DTSTART:20201106T120000Z
-SUMMARY:Kiara: 【POLKA x KIARA】a Phoenix and a...Phoenix?  #polkia #ポルキア
-UID:F222iqX6IUg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MAD RAT DEAD】WE RAT RHYTHM GAME NOW!! Say that 10 times fast. #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=0fQfi9ntlE4
@@ -53,17 +18,31 @@ SUMMARY:Calli: 【MAD RAT DEAD】WE RAT RHYTHM GAME NOW!! Say that 10 times fast
 UID:0fQfi9ntlE4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SMS】Mario is my bff\, yup【Part 2】\nhttps://www.youtube.com/watch?v=it5l7KVghzs
+DESCRIPTION:【Q&A】Detective Diaries~ Answering Questions!\nhttps://www.youtube.com/watch?v=JKG7OToMSd4
 DURATION:PT2H
-DTSTART:20201105T110000Z
-SUMMARY:Kiara: 【SMS】Mario is my bff\, yup【Part 2】
-UID:it5l7KVghzs
+DTSTART:20201105T220500Z
+SUMMARY:Amelia: 【Q&A】Detective Diaries~ Answering Questions!
+UID:JKG7OToMSd4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[A WAY OUT] PRISON BREAK!\nhttps://www.youtube.com/watch?v=59ZVfIubzn0
+DESCRIPTION:【ANTICHAMBER】( ་ ⍸ ་ ) i can solve it...\nhttps://www.youtube.com/watch?v=qMnpQ872sVE
 DURATION:PT2H
-DTSTART:20201105T020000Z
-SUMMARY:Gura: [A WAY OUT] PRISON BREAK!
-UID:59ZVfIubzn0
+DTSTART:20201107T010000Z
+SUMMARY:Amelia: 【ANTICHAMBER】( ་ ⍸ ་ ) i can solve it...
+UID:qMnpQ872sVE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ANTICHAMBER】(∩⌣̀_⌣́) hmmmmm\nhttps://www.youtube.com/watch?v=x7znd2nBF24
+DURATION:PT2H
+DTSTART:20201106T010000Z
+SUMMARY:Amelia: 【ANTICHAMBER】(∩⌣̀_⌣́) hmmmmm
+UID:x7znd2nBF24
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【POLKA x KIARA】a Phoenix and a...Phoenix?  #polkia #ポルキア\nhttps://www.youtube.com/watch?v=F222iqX6IUg
+DURATION:PT2H
+DTSTART:20201106T120000Z
+SUMMARY:Kiara: 【POLKA x KIARA】a Phoenix and a...Phoenix?  #polkia #ポルキア
+UID:F222iqX6IUg
 END:VEVENT
 END:VCALENDAR
