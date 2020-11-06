@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【スーパーマリオサンシャイン】最近寒いし夏を感じよう#3【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=QZTOS_g2sCU
+DURATION:PT2H
+DTSTART:20201106T120000Z
+SUMMARY:🍙猫又おかゆ: 【スーパーマリオサンシャイン】最近寒いし夏を感じよう#3【ホロライブ/猫又おかゆ】
+UID:QZTOS_g2sCU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Singing!】Let's Party!! 80万人行っても止まらない！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=xNxgQ3ZxUoU
 DURATION:PT2H
 DTSTART:20201106T120000Z
@@ -44,13 +51,6 @@ DURATION:PT2H
 DTSTART:20201106T120000Z
 SUMMARY:🐻ときのそら: 【ウクレレ練習しつつ】雑談してみよう！【#ときのそら生放送】
 UID:d56jQ79WNnQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】エンドからの帰還🎉ドキドキ飛び込み台制作へ！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=K4wuw63RjMY
-DURATION:PT2H
-DTSTART:20201106T120000Z
-SUMMARY:🌸さくらみこ: 【Minecraft】エンドからの帰還🎉ドキドキ飛び込み台制作へ！【ホロライブ/さくらみこ】
-UID:K4wuw63RjMY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【変な枠】ロベルさんはベルを鳴らすことでどれだけ皆と意思疎通が出来るか…！？【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=XxpQehN0Pxo
@@ -184,6 +184,13 @@ DURATION:PT2H
 DTSTART:20201106T041000Z
 SUMMARY:🤖ロボ子さん: 【雑談】シャワーからでたら始まる枠【ホロライブ/ロボ子さん】
 UID:ffP2llaygBg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【GTAV】I'm backGTA!! 久しぶりに大暴れするで!!!【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=8C4xiofbLH0
+DURATION:PT2H
+DTSTART:20201107T030000Z
+SUMMARY:🌸さくらみこ: 【GTAV】I'm backGTA!! 久しぶりに大暴れするで!!!【ホロライブ/さくらみこ】
+UID:8C4xiofbLH0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【初見実況】#10　最終回！！ゼルダの伝説・風のタクトやる！！！！The Legend of Zelda: The Wind Waker【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=wo8G_bUR1XQ
