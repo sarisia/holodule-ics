@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【朝活】生活習慣改善－AGFを終え普段の生活に戻る朝－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=VyFkcwxJsQs
+DURATION:PT2H
+DTSTART:20201109T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－AGFを終え普段の生活に戻る朝－【ホロスターズ/夕刻ロベル】
+UID:VyFkcwxJsQs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【弾き語り枠】Sing Sing Sing！ 久々に歌う【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=YZwlwR0KFG4
+DURATION:PT2H
+DTSTART:20201109T120000Z
+SUMMARY:⚙律可: 【弾き語り枠】Sing Sing Sing！ 久々に歌う【律可/ホロスターズ】#りつすた
+UID:YZwlwR0KFG4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【深夜の雑談】AGFイベントのショップ店員をやってみた！感想！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=txJ2Lqx2mM4
 DURATION:PT2H
 DTSTART:20201108T150000Z
@@ -18,10 +32,10 @@ SUMMARY:🍷夕刻ロベル: 【ゼノブレイド2】初見で挑むゼノブ�
 UID:mnfc12pN0q8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【弾き語り枠】Sing Sing Sing！ 久々に歌う【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=YZwlwR0KFG4
+DESCRIPTION:【雑談枠】AGFの感想会！！裏話もあるかも【律可/ホロスターズ】 #りつすた\nhttps://www.youtube.com/watch?v=syJoXHt5L5I
 DURATION:PT2H
-DTSTART:20201109T120000Z
-SUMMARY:⚙律可: 【弾き語り枠】Sing Sing Sing！ 久々に歌う【律可/ホロスターズ】#りつすた
-UID:YZwlwR0KFG4
+DTSTART:20201108T140000Z
+SUMMARY:⚙律可: 【雑談枠】AGFの感想会！！裏話もあるかも【律可/ホロスターズ】 #りつすた
+UID:syJoXHt5L5I
 END:VEVENT
 END:VCALENDAR
