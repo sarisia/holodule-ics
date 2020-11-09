@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【KiaraXCalliope】Let's find new lands!!! 【Minecraft】#TAKAMORI\nhttps://www.youtube.com/watch?v=ldUNpeF2cuE
+DESCRIPTION:【APEX】Roboco-senpai COLLAB!\nhttps://www.youtube.com/watch?v=EWevQ37KzCQ
 DURATION:PT2H
-DTSTART:20201109T110000Z
-SUMMARY:Kiara: 【KiaraXCalliope】Let's find new lands!!! 【Minecraft】#TAKAMORI
-UID:ldUNpeF2cuE
+DTSTART:20201110T010000Z
+SUMMARY:Amelia: 【APEX】Roboco-senpai COLLAB!
+UID:EWevQ37KzCQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】NEW SEASON!!! (ง ͠° ͟ل͜ ͡°)ง\nhttps://www.youtube.com/watch?v=03IOibGtj_I
+DURATION:PT2H
+DTSTART:20201109T000500Z
+SUMMARY:Amelia: 【APEX】NEW SEASON!!! (ง ͠° ͟ل͜ ͡°)ง
+UID:03IOibGtj_I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【AMONG US】JP/ID/EN Collab!!!!\nhttps://www.youtube.com/watch?v=pq8hUlVP6u0
@@ -25,6 +32,20 @@ SUMMARY:Amelia: 【Superchat Reading】SUPA SUNDAY
 UID:UUTKXXiXFjY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【DRAWING】 Gesture Drawing + Doodle\nhttps://www.youtube.com/watch?v=w0Nvs3hs_nM
+DURATION:PT2H
+DTSTART:20201109T220000Z
+SUMMARY:Ina: 【DRAWING】 Gesture Drawing + Doodle
+UID:w0Nvs3hs_nM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Yakuza: Like a Dragon】I AM ICHIBAN ANEKI !! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=yceBlwLB_JA
+DURATION:PT2H
+DTSTART:20201110T130000Z
+SUMMARY:Kiara: 【Yakuza: Like a Dragon】I AM ICHIBAN ANEKI !! #kfp #キアライブ
+UID:yceBlwLB_JA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:[AMONG US] BODY? DOKO?\nhttps://www.youtube.com/watch?v=ydkLps8LXzo
 DURATION:PT2H
 DTSTART:20201109T130000Z
@@ -32,11 +53,11 @@ SUMMARY:Gura: [AMONG US] BODY? DOKO?
 UID:ydkLps8LXzo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】NEW SEASON!!! (ง ͠° ͟ل͜ ͡°)ง\nhttps://www.youtube.com/watch?v=03IOibGtj_I
+DESCRIPTION:【KiaraXCalliope】Let's find new lands!!! 【Minecraft】#TAKAMORI\nhttps://www.youtube.com/watch?v=ldUNpeF2cuE
 DURATION:PT2H
-DTSTART:20201109T000500Z
-SUMMARY:Amelia: 【APEX】NEW SEASON!!! (ง ͠° ͟ل͜ ͡°)ง
-UID:03IOibGtj_I
+DTSTART:20201109T110000Z
+SUMMARY:Kiara: 【KiaraXCalliope】Let's find new lands!!! 【Minecraft】#TAKAMORI
+UID:ldUNpeF2cuE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【AMONG US COLLAB】Senpai's Lookin' Kinda SUS\, AM I CORRECT? HOLO JP/ID/EN\nhttps://www.youtube.com/watch?v=A_dlocNMmNg
@@ -44,12 +65,5 @@ DURATION:PT2H
 DTSTART:20201109T130126Z
 SUMMARY:Calli: 【AMONG US COLLAB】Senpai's Lookin' Kinda SUS\, AM I CORRECT? HOLO JP/ID/EN
 UID:A_dlocNMmNg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DRAWING】 Gesture Drawing + Doodle\nhttps://www.youtube.com/watch?v=w0Nvs3hs_nM
-DURATION:PT2H
-DTSTART:20201109T220000Z
-SUMMARY:Ina: 【DRAWING】 Gesture Drawing + Doodle
-UID:w0Nvs3hs_nM
 END:VEVENT
 END:VCALENDAR
