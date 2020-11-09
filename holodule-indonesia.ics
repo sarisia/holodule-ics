@@ -4,10 +4,31 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Among Us】HOLOLIVE BIG COLLAB IKZ ~! 【Ayunda Risu】\nhttps://www.youtube.com/watch?v=D55vLOJccV8
+DURATION:PT2H
+DTSTART:20201109T130000Z
+SUMMARY:🐿Risu: 【Among Us】HOLOLIVE BIG COLLAB IKZ ~! 【Ayunda Risu】
+UID:D55vLOJccV8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:NNN DAY 9 !! DO YOU GRILL YOU NUTS ???\nhttps://www.youtube.com/watch?v=qlmLV-g6JbU
+DURATION:PT2H
+DTSTART:20201109T151805Z
+SUMMARY:🐿Risu: NNN DAY 9 !! DO YOU GRILL YOU NUTS ???
+UID:qlmLV-g6JbU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Senin Pantun holoID #1 + Behind the Scene\nhttps://www.youtube.com/watch?v=_xAaCTm46PE
 DURATION:PT2H
 DTSTART:20201109T010008Z
 SUMMARY:IDholo: Senin Pantun holoID #1 + Behind the Scene
 UID:_xAaCTm46PE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Among Us] やられたらやり返す\, Hololive Among Us [hololiveID]\nhttps://www.youtube.com/watch?v=ucqtcvbfTjg
+DURATION:PT2H
+DTSTART:20201109T130000Z
+SUMMARY:🎨Iofi: [Among Us] やられたらやり返す\, Hololive Among Us [hololiveID]
+UID:ucqtcvbfTjg
 END:VEVENT
 END:VCALENDAR
