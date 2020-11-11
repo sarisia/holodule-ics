@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【朝活】生活習慣改善－水曜日、ログインボーナスを逃した男の朝活－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=k33qIseYO2s
-DURATION:PT2H
-DTSTART:20201111T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－水曜日、ログインボーナスを逃した男の朝活－【ホロスターズ/夕刻ロベル】
-UID:k33qIseYO2s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【弾き語り枠】安らかな眠りに導く【律可/ホロスターズ】 #りつすた\nhttps://www.youtube.com/watch?v=NeS7PfruPpM
-DURATION:PT2H
-DTSTART:20201111T160000Z
-SUMMARY:⚙律可: 【弾き語り枠】安らかな眠りに導く【律可/ホロスターズ】 #りつすた
-UID:NeS7PfruPpM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【飯テロ枠】深夜に視聴者さんの作った飯をただ見る枠【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=Dc17EkwKl_I
 DURATION:PT2H
 DTSTART:20201111T140000Z
@@ -32,11 +18,32 @@ SUMMARY:🍕アルランディス: 【 #アラン生誕祭2020 】誕生日恒�
 UID:XXNBGZ4DMVQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【誕生日プレゼント開封】みんなから貰ったプレゼントを開けながらわいわいやろう！【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=_rgNWJMGjv0
+DESCRIPTION:【Phasmophobia】幽霊調査のバイトの面接に受かりました【律可/アステル/岸堂天真/影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=HcSfirS7mqE
 DURATION:PT2H
-DTSTART:20201112T120000Z
-SUMMARY:🍕アルランディス: 【誕生日プレゼント開封】みんなから貰ったプレゼントを開けながらわいわいやろう！【ホロスターズ/アルランディス】
-UID:_rgNWJMGjv0
+DTSTART:20201112T100000Z
+SUMMARY:⚙律可: 【Phasmophobia】幽霊調査のバイトの面接に受かりました【律可/アステル/岸堂天真/影山シエン/ホロスターズ】
+UID:HcSfirS7mqE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】生活習慣改善－水曜日、ログインボーナスを逃した男の朝活－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=k33qIseYO2s
+DURATION:PT2H
+DTSTART:20201111T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－水曜日、ログインボーナスを逃した男の朝活－【ホロスターズ/夕刻ロベル】
+UID:k33qIseYO2s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【弾き語り枠】安らかな眠りに導く【律可/ホロスターズ】 #りつすた\nhttps://www.youtube.com/watch?v=NeS7PfruPpM
+DURATION:PT2H
+DTSTART:20201111T160000Z
+SUMMARY:⚙律可: 【弾き語り枠】安らかな眠りに導く【律可/ホロスターズ】 #りつすた
+UID:NeS7PfruPpM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】生活習慣改善－木曜日の朝活雑談－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=E4ZrzHyr4qs
+DURATION:PT2H
+DTSTART:20201112T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－木曜日の朝活雑談－【ホロスターズ/夕刻ロベル】
+UID:E4ZrzHyr4qs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】覚悟を持った男のみがすることを許される7位以下即終了マリカ【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=xkvebFpIobA
@@ -44,5 +51,12 @@ DURATION:PT2H
 DTSTART:20201111T110000Z
 SUMMARY:🍷夕刻ロベル: 【マリオカート8DX】覚悟を持った男のみがすることを許される7位以下即終了マリカ【ホロスターズ/夕刻ロベル】
 UID:xkvebFpIobA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【誕生日プレゼント開封】みんなから貰ったプレゼントを開けながらわいわいやろう！【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=_rgNWJMGjv0
+DURATION:PT2H
+DTSTART:20201112T120000Z
+SUMMARY:🍕アルランディス: 【誕生日プレゼント開封】みんなから貰ったプレゼントを開けながらわいわいやろう！【ホロスターズ/アルランディス】
+UID:_rgNWJMGjv0
 END:VEVENT
 END:VCALENDAR
