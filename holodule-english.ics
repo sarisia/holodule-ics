@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:[PHASMOPHOBIA] IM GOIN IN SOLO #GAWRGURA\nhttps://www.youtube.com/watch?v=oU2V7KHBj5I
-DURATION:PT2H
-DTSTART:20201111T020000Z
-SUMMARY:Gura: [PHASMOPHOBIA] IM GOIN IN SOLO #GAWRGURA
-UID:oU2V7KHBj5I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【COLLAB】Clubhouse 51~ w/ Gura !\nhttps://www.youtube.com/watch?v=41jBh3ueyBs
 DURATION:PT2H
 DTSTART:20201112T043000Z
@@ -32,27 +25,6 @@ SUMMARY:Kiara: 【Sakuna: Of Rice and Ruin】Farming and 2D Platforming..BEST CO
 UID:ROTrq2k149E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SUPERCHAT READ】super read F WORDING FINALLY #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=Yl-U33nafrM
-DURATION:PT2H
-DTSTART:20201112T145500Z
-SUMMARY:Calli: 【SUPERCHAT READ】super read F WORDING FINALLY #hololiveEnglish #holoMyth
-UID:Yl-U33nafrM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ANTICHAMBER】ヾ( ･`⌓´･)ﾉﾞ WE CAN DO IT\nhttps://www.youtube.com/watch?v=rH8uCzwHoRU
-DURATION:PT2H
-DTSTART:20201111T040000Z
-SUMMARY:Amelia: 【ANTICHAMBER】ヾ( ･`⌓´･)ﾉﾞ WE CAN DO IT
-UID:rH8uCzwHoRU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】 What Time is it?\nhttps://www.youtube.com/watch?v=00gegkMZpvs
-DURATION:PT2H
-DTSTART:20201111T200000Z
-SUMMARY:Ina: 【Minecraft】 What Time is it?
-UID:00gegkMZpvs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Q&A】Detective Diaries~ Answering Questions!\nhttps://www.youtube.com/watch?v=9JNwpwvd9qQ
 DURATION:PT2H
 DTSTART:20201111T220500Z
@@ -60,10 +32,17 @@ SUMMARY:Amelia: 【Q&A】Detective Diaries~ Answering Questions!
 UID:9JNwpwvd9qQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Mario Odyssey】WAHOOO\nhttps://www.youtube.com/watch?v=c4MPrqARQOY
+DESCRIPTION:【SUPERCHAT READ】super read F WORDING FINALLY #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=Yl-U33nafrM
 DURATION:PT2H
-DTSTART:20201111T000500Z
-SUMMARY:Amelia: 【Mario Odyssey】WAHOOO
-UID:c4MPrqARQOY
+DTSTART:20201112T150500Z
+SUMMARY:Calli: 【SUPERCHAT READ】super read F WORDING FINALLY #hololiveEnglish #holoMyth
+UID:Yl-U33nafrM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】 What Time is it?\nhttps://www.youtube.com/watch?v=00gegkMZpvs
+DURATION:PT2H
+DTSTART:20201111T200000Z
+SUMMARY:Ina: 【Minecraft】 What Time is it?
+UID:00gegkMZpvs
 END:VEVENT
 END:VCALENDAR
