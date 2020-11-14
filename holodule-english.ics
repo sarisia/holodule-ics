@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Hades】 No One Sleeps in the Underworld\nhttps://www.youtube.com/watch?v=_kmjQF_2dSo
-DURATION:PT2H
-DTSTART:20201112T200000Z
-SUMMARY:Ina: 【Hades】 No One Sleeps in the Underworld
-UID:_kmjQF_2dSo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【WINE PARTY雑談】Let's Chill at My "Crib"! BIG ANNOUNCEMENT\, TOO!\nhttps://www.youtube.com/watch?v=s-HtFtYGTV8
 DURATION:PT2H
 DTSTART:20201113T080005Z
 SUMMARY:Calli: 【WINE PARTY雑談】Let's Chill at My "Crib"! BIG ANNOUNCEMENT\, TOO!
 UID:s-HtFtYGTV8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Let's build stuff! ((⊂(`ω´∩)\nhttps://www.youtube.com/watch?v=oACehjJaxLs
-DURATION:PT2H
-DTSTART:20201113T220500Z
-SUMMARY:Amelia: 【Minecraft】Let's build stuff! ((⊂(`ω´∩)
-UID:oACehjJaxLs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUSHIAxKIARA COLLAB】Clubhouse Games: 51 Worldwide Classics #rushikia ＃ルシキア\nhttps://www.youtube.com/watch?v=bo3b-TxDtaI
@@ -39,6 +25,13 @@ SUMMARY:Calli: 【SUPERCHAT READ】super read F WORDING FINALLY #hololiveEnglish
 UID:Yl-U33nafrM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【GERMAN FAIRYTALES】Cinderella by Brothers Grimm【Storytelling】\nhttps://www.youtube.com/watch?v=hAKdblGa_Bk
+DURATION:PT2H
+DTSTART:20201114T013000Z
+SUMMARY:Kiara: 【GERMAN FAIRYTALES】Cinderella by Brothers Grimm【Storytelling】
+UID:hAKdblGa_Bk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】 Hi Map!\nhttps://www.youtube.com/watch?v=MINhEnd653M
 DURATION:PT2H
 DTSTART:20201113T200000Z
@@ -46,10 +39,24 @@ SUMMARY:Ina: 【Minecraft】 Hi Map!
 UID:MINhEnd653M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【GERMAN FAIRYTALES】Cinderella by Brothers Grimm【Storytelling】\nhttps://www.youtube.com/watch?v=hAKdblGa_Bk
+DESCRIPTION:【Hades】 No One Sleeps in the Underworld\nhttps://www.youtube.com/watch?v=_kmjQF_2dSo
 DURATION:PT2H
-DTSTART:20201114T013000Z
-SUMMARY:Kiara: 【GERMAN FAIRYTALES】Cinderella by Brothers Grimm【Storytelling】
-UID:hAKdblGa_Bk
+DTSTART:20201112T200000Z
+SUMMARY:Ina: 【Hades】 No One Sleeps in the Underworld
+UID:_kmjQF_2dSo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[OUTLAST: WHISTLE BLOWER] MILES? #GAWRGURA\nhttps://www.youtube.com/watch?v=fFnWORBQZJg
+DURATION:PT2H
+DTSTART:20201114T030000Z
+SUMMARY:Gura: [OUTLAST: WHISTLE BLOWER] MILES? #GAWRGURA
+UID:fFnWORBQZJg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Let's build stuff! ((⊂(`ω´∩)\nhttps://www.youtube.com/watch?v=oACehjJaxLs
+DURATION:PT2H
+DTSTART:20201113T220500Z
+SUMMARY:Amelia: 【Minecraft】Let's build stuff! ((⊂(`ω´∩)
+UID:oACehjJaxLs
 END:VEVENT
 END:VCALENDAR
