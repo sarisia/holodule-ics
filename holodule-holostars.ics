@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【バンド演奏】sailing day / BUMP OF CHICKEN 『Covered by 律可』#VTuberバンド企画\nhttps://www.youtube.com/watch?v=Jq4cvbPt3Gk
-DURATION:PT2H
-DTSTART:20201116T110000Z
-SUMMARY:⚙律可: 【バンド演奏】sailing day / BUMP OF CHICKEN 『Covered by 律可』#VTuberバンド企画
-UID:Jq4cvbPt3Gk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Apex Legends】教えて!アスイヅ先生！【アステル・レダ/奏手イヅル/アルランディス】\nhttps://www.youtube.com/watch?v=nlPUGfl-Lqk
 DURATION:PT2H
 DTSTART:20201114T160000Z
@@ -25,20 +18,6 @@ SUMMARY:荒咬オウガ: 【天穂のサクナヒメ#2】～米作って鬼を�
 UID:X-s39F55IsY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝活】生活習慣改善－俺たちの月曜日はこれからや！－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=mDlAKYix-Nk
-DURATION:PT2H
-DTSTART:20201116T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－俺たちの月曜日はこれからや！－【ホロスターズ/夕刻ロベル】
-UID:mDlAKYix-Nk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】エンチャント祭り-ウィザースケルトン討伐準備-【アルランディス】\nhttps://www.youtube.com/watch?v=T74ZPdDYjJY
-DURATION:PT2H
-DTSTART:20201114T213000Z
-SUMMARY:🍕アルランディス: 【Minecraft】エンチャント祭り-ウィザースケルトン討伐準備-【アルランディス】
-UID:T74ZPdDYjJY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【３万人記念配信】いつまでもこれからも頑張り続ける。 【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=NTy-6Zto5II
 DURATION:PT2H
 DTSTART:20201115T120000Z
@@ -51,5 +30,33 @@ DURATION:PT2H
 DTSTART:20201115T140000Z
 SUMMARY:🍕アルランディス: 【 #アランストリーム 】深夜のアルラジオ#12【アルランディス/ホロスターズ】
 UID:RApvSkkP9Ws
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【バンド演奏】sailing day / BUMP OF CHICKEN 『Covered by 律可』#VTuberバンド企画\nhttps://www.youtube.com/watch?v=Jq4cvbPt3Gk
+DURATION:PT2H
+DTSTART:20201116T110000Z
+SUMMARY:⚙律可: 【バンド演奏】sailing day / BUMP OF CHICKEN 『Covered by 律可』#VTuberバンド企画
+UID:Jq4cvbPt3Gk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【変な枠】第一回！『鈴虫－１グランプリ』！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=VwiSLK64q-w
+DURATION:PT2H
+DTSTART:20201116T040000Z
+SUMMARY:🍷夕刻ロベル: 【変な枠】第一回！『鈴虫－１グランプリ』！！【ホロスターズ/夕刻ロベル】
+UID:VwiSLK64q-w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】生活習慣改善－俺たちの月曜日はこれからや！－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=mDlAKYix-Nk
+DURATION:PT2H
+DTSTART:20201116T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－俺たちの月曜日はこれからや！－【ホロスターズ/夕刻ロベル】
+UID:mDlAKYix-Nk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】エンチャント祭り-ウィザースケルトン討伐準備-【アルランディス】\nhttps://www.youtube.com/watch?v=T74ZPdDYjJY
+DURATION:PT2H
+DTSTART:20201114T213000Z
+SUMMARY:🍕アルランディス: 【Minecraft】エンチャント祭り-ウィザースケルトン討伐準備-【アルランディス】
+UID:T74ZPdDYjJY
 END:VEVENT
 END:VCALENDAR
