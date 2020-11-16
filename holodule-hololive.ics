@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:#1【もじもじ新米戦士】アサシンクリード ヴァルハラ【ホロライブ/戌神ころね】\nhttps://www.youtube.com/watch?v=So5bJASNxDA
+DESCRIPTION:【はたらくUFO】運べ！運べ！アルバイト地獄ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=vbxG0PXHMOw
 DURATION:PT2H
-DTSTART:20201114T160000Z
-SUMMARY:🥐戌神ころね: #1【もじもじ新米戦士】アサシンクリード ヴァルハラ【ホロライブ/戌神ころね】
-UID:So5bJASNxDA
+DTSTART:20201116T110000Z
+SUMMARY:👯兎田ぺこら: 【はたらくUFO】運べ！運べ！アルバイト地獄ぺこ！【ホロライブ/兎田ぺこら】
+UID:vbxG0PXHMOw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PhasmoPhobia】アイテム買ったボクに怖いものなんてないんだからな！！？？！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=lsf0IQIE7Ig
+DURATION:PT2H
+DTSTART:20201116T050000Z
+SUMMARY:🤖ロボ子さん: 【PhasmoPhobia】アイテム買ったボクに怖いものなんてないんだからな！！？？！【ホロライブ/ロボ子さん】
+UID:lsf0IQIE7Ig
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GTA5】バグらないで！！【ホロライブ/天音かなた】\nhttps://www.youtube.com/watch?v=C-ryN5-xx3Y
@@ -18,20 +25,6 @@ SUMMARY:💫天音かなた: 【GTA5】バグらないで！！【ホロライ�
 UID:C-ryN5-xx3Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン2】負けたら即終了！がちキレ注意！？【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=u5uLgEs-JOc
-DURATION:PT2H
-DTSTART:20201115T140000Z
-SUMMARY:🏮夏色まつり: 【スプラトゥーン2】負けたら即終了！がちキレ注意！？【ホロライブ/夏色まつり】
-UID:u5uLgEs-JOc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【新衣装お披露目】ついにドキドキの新衣装！！告知あり！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=EBf517WnihQ
-DURATION:PT2H
-DTSTART:20201115T120000Z
-SUMMARY:🌙紫咲シオン: 【新衣装お披露目】ついにドキドキの新衣装！！告知あり！【ホロライブ/紫咲シオン】
-UID:EBf517WnihQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠】Singing｜深夜のアニソンメドレー！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=1LmxK1whApI
 DURATION:PT2H
 DTSTART:20201115T150000Z
@@ -39,11 +32,18 @@ SUMMARY:⚓湊あくあ: 【歌枠】Singing｜深夜のアニソンメドレー
 UID:1LmxK1whApI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【GTA Online】集え！最狂エリートBOSSが億万長者を目指していくにぇ！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=0bkbmPn1dP8
+DESCRIPTION:SUPER MARIO BROS. 35｜脳を疲弊させて安眠せよ！なのら！💤Nanolish only Mission【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=AixrgzNE-Kc
 DURATION:PT2H
-DTSTART:20201115T040000Z
-SUMMARY:🌸さくらみこ: 【GTA Online】集え！最狂エリートBOSSが億万長者を目指していくにぇ！！【ホロライブ/さくらみこ】
-UID:0bkbmPn1dP8
+DTSTART:20201115T150000Z
+SUMMARY:🍬姫森ルーナ: SUPER MARIO BROS. 35｜脳を疲弊させて安眠せよ！なのら！💤Nanolish only Mission【姫森ルーナ/ホロライブ】
+UID:AixrgzNE-Kc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マインクラフト/Minecraft】美味しい車建築したい！🍠Delicious car architecture【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=nnlmJZAh6Do
+DURATION:PT2H
+DTSTART:20201115T150000Z
+SUMMARY:🔥不知火フレア: 【マインクラフト/Minecraft】美味しい車建築したい！🍠Delicious car architecture【ホロライブ/不知火フレア】
+UID:nnlmJZAh6Do
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】最近あったことのお話💭Recent happenings【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=s5e4eyvBKYU
@@ -53,25 +53,25 @@ SUMMARY:🔥不知火フレア: 【雑談】最近あったことのお話💭Re
 UID:s5e4eyvBKYU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】AKUKIN建設は今日も行く！！！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=i4-l-dIkYww
+DESCRIPTION:【歌番組】わためのうた ーボイトレ編ー （１１月１６日）【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=P_njiJX2RBU
+DURATION:PT2H
+DTSTART:20201115T213000Z
+SUMMARY:🐏角巻わため: 【歌番組】わためのうた ーボイトレ編ー （１１月１６日）【角巻わため/ホロライブ４期生】
+UID:P_njiJX2RBU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】第３４回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=qU6VjlCVmQ8
 DURATION:PT2H
 DTSTART:20201116T130000Z
-SUMMARY:⚓湊あくあ: 【Minecraft】AKUKIN建設は今日も行く！！！！【湊あくあ/ホロライブ】
-UID:i4-l-dIkYww
+SUMMARY:🐏角巻わため: 【歌枠】第３４回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】
+UID:qU6VjlCVmQ8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#2【ほやほや新米戦士】アサシンクリード ヴァルハラ【ホロライブ/戌神ころね】\nhttps://www.youtube.com/watch?v=4DiPH2IzYtY
+DESCRIPTION:【#らみらいぶ】月曜日の朝活雑談【11月16日】\nhttps://www.youtube.com/watch?v=k2MhBSbMqto
 DURATION:PT2H
-DTSTART:20201114T173500Z
-SUMMARY:🥐戌神ころね: #2【ほやほや新米戦士】アサシンクリード ヴァルハラ【ホロライブ/戌神ころね】
-UID:4DiPH2IzYtY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Among Us】食べないでください！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=MxKRncIdoLg
-DURATION:PT2H
-DTSTART:20201115T131000Z
-SUMMARY:🐏角巻わため: 【Among Us】食べないでください！【角巻わため/ホロライブ４期生】
-UID:MxKRncIdoLg
+DTSTART:20201116T000000Z
+SUMMARY:雪花ラミィ: 【#らみらいぶ】月曜日の朝活雑談【11月16日】
+UID:k2MhBSbMqto
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【天穂のサクナヒメ】１００点中５点？のお米よりも来年は良い米を！【大神ミオ】\nhttps://www.youtube.com/watch?v=-QAwDz9UHmw
@@ -81,18 +81,39 @@ SUMMARY:🌲大神ミオ: 【天穂のサクナヒメ】１００点中５点？
 UID:-QAwDz9UHmw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #宇宙ホロ人狼 】🍑3人になったらエマージェンシー🍑【桃鈴ねね視点】\nhttps://www.youtube.com/watch?v=q5gTt9io9Ho
+DESCRIPTION:[Minecraft] NEW HAACHAMA LIFE!! #HAACHAMA #HololiveEN\nhttps://www.youtube.com/watch?v=i071ggjXXP4
 DURATION:PT2H
-DTSTART:20201115T131000Z
-SUMMARY:桃鈴ねね: 【 #宇宙ホロ人狼 】🍑3人になったらエマージェンシー🍑【桃鈴ねね視点】
-UID:q5gTt9io9Ho
+DTSTART:20201116T070000Z
+SUMMARY:❤赤井はあと: [Minecraft] NEW HAACHAMA LIFE!! #HAACHAMA #HololiveEN
+UID:i071ggjXXP4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Among Us/ころね視点】はじめての宇宙、ぽんこつ犬、参る！！【#宇宙ホロ人狼】\nhttps://www.youtube.com/watch?v=EweiN4UxySo
+DESCRIPTION:【歌枠？】口ずさむ曲は大体フルで歌えない。でも歌ってみたい！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=kYQbH_FfoxY
 DURATION:PT2H
-DTSTART:20201115T131000Z
-SUMMARY:🥐戌神ころね: 【Among Us/ころね視点】はじめての宇宙、ぽんこつ犬、参る！！【#宇宙ホロ人狼】
-UID:EweiN4UxySo
+DTSTART:20201116T130000Z
+SUMMARY:🏮夏色まつり: 【歌枠？】口ずさむ曲は大体フルで歌えない。でも歌ってみたい！【ホロライブ/夏色まつり】
+UID:kYQbH_FfoxY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 30万人ありがとう✨ 】5thLIVE【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=Jdpr7uGA3LM
+DURATION:PT2H
+DTSTART:20201118T120000Z
+SUMMARY:桃鈴ねね: 【 30万人ありがとう✨ 】5thLIVE【桃鈴ねね/ホロライブ】
+UID:Jdpr7uGA3LM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【天穂のサクナヒメ】今年の米はガチで土壌から違う！リベンジ！【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=R8XG5M8wslE
+DURATION:PT2H
+DTSTART:20201116T120000Z
+SUMMARY:🏴☠宝鐘マリン: 【天穂のサクナヒメ】今年の米はガチで土壌から違う！リベンジ！【ホロライブ/宝鐘マリン】
+UID:R8XG5M8wslE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 大事なお話 】実はずっと激痛を我慢していたのら。【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=vVu6rbkf9Qc
+DURATION:PT2H
+DTSTART:20201116T100000Z
+SUMMARY:🍬姫森ルーナ: 【 大事なお話 】実はずっと激痛を我慢していたのら。【姫森ルーナ/ホロライブ】
+UID:vVu6rbkf9Qc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Getting Over It】目指せ10分以上【ホロライブ/常闇トワ】\nhttps://www.youtube.com/watch?v=krUU8ovNMeA
@@ -109,277 +130,11 @@ SUMMARY:🦋潤羽るしあ: 【SUPER MARIO BROS.35】今こそ１位とる【�
 UID:lRRuUaQg1Y4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:KING／Covered by紫咲シオン【歌ってみた】\nhttps://www.youtube.com/watch?v=OXAkx5_A9rE
-DURATION:PT2H
-DTSTART:20201115T130000Z
-SUMMARY:🌙紫咲シオン: KING／Covered by紫咲シオン【歌ってみた】
-UID:OXAkx5_A9rE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】機材設定みなおしたにぇ！深夜うたうにぇ～🌸【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=MutoDmUJlmA
-DURATION:PT2H
-DTSTART:20201114T150000Z
-SUMMARY:🌸さくらみこ: 【歌枠】機材設定みなおしたにぇ！深夜うたうにぇ～🌸【ホロライブ/さくらみこ】
-UID:MutoDmUJlmA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【公式】『星街すいせいのMUSIC SPACE』#32 前半（2020年11月8日放送分）\nhttps://www.youtube.com/watch?v=xx2HHtcFArU
-DURATION:PT2H
-DTSTART:20201115T050150Z
-SUMMARY:☄星街すいせい: 【公式】『星街すいせいのMUSIC SPACE』#32 前半（2020年11月8日放送分）
-UID:xx2HHtcFArU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:REDDIT SHITPOST REVIEW with DOUBLE BOING BOINGS\nhttps://www.youtube.com/watch?v=GBEdNLKJHc8
-DURATION:PT2H
-DTSTART:20201115T030000Z
-SUMMARY:🐉桐生ココ: REDDIT SHITPOST REVIEW with DOUBLE BOING BOINGS
-UID:GBEdNLKJHc8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【天穂のサクナヒメ】稲の力で強くなる和風アクションRPGがでた！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=eRERWowSaWA
-DURATION:PT2H
-DTSTART:20201115T063000Z
-SUMMARY:🐻ときのそら: 【天穂のサクナヒメ】稲の力で強くなる和風アクションRPGがでた！【#ときのそら生放送】
-UID:eRERWowSaWA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Among Us 】宇宙ホロ人狼！こちとら善良な市民です！！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=Rt07jCZez1I
-DURATION:PT2H
-DTSTART:20201115T131000Z
-SUMMARY:🤖ロボ子さん: 【 Among Us 】宇宙ホロ人狼！こちとら善良な市民です！！！【ホロライブ/ロボ子さん】
-UID:Rt07jCZez1I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Among Us】ホロメン仲良し☆宇宙人狼【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=WVBpr8DE7sA
-DURATION:PT2H
-DTSTART:20201115T131000Z
-SUMMARY:🏴☠宝鐘マリン: 【Among Us】ホロメン仲良し☆宇宙人狼【ホロライブ/宝鐘マリン】
-UID:WVBpr8DE7sA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【世界のアソビ大全51】6ボールパズル、100勝するまで眠れまてん！？【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=Y3N7mV_BKMA
-DURATION:PT2H
-DTSTART:20201116T140000Z
-SUMMARY:☄星街すいせい: 【世界のアソビ大全51】6ボールパズル、100勝するまで眠れまてん！？【ホロライブ / 星街すいせい】
-UID:Y3N7mV_BKMA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マイクラ】運動会するために【尾丸ポルカ視点】\nhttps://www.youtube.com/watch?v=hsBVc51XX50
-DURATION:PT2H
-DTSTART:20201115T090000Z
-SUMMARY:尾丸ポルカ: 【マイクラ】運動会するために【尾丸ポルカ視点】
-UID:hsBVc51XX50
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アニメ】最悪の立地のラーメン屋\nhttps://www.youtube.com/watch?v=-IYGrFsXguc
-DURATION:PT2H
-DTSTART:20201115T090001Z
-SUMMARY:ホロライブ: 【アニメ】最悪の立地のラーメン屋
-UID:-IYGrFsXguc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロライブ運動会】みんなで障害物競走つくる！！！【マイクラ】\nhttps://www.youtube.com/watch?v=mzZa-f4eBGs
-DURATION:PT2H
-DTSTART:20201115T090000Z
-SUMMARY:🌲大神ミオ: 【#ホロライブ運動会】みんなで障害物競走つくる！！！【マイクラ】
-UID:mzZa-f4eBGs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】久しぶりのホロ鯖！！エンドへ行きたい！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=A2io0-_aM7E
-DURATION:PT2H
-DTSTART:20201116T150000Z
-SUMMARY:🌙紫咲シオン: 【Minecraft】久しぶりのホロ鯖！！エンドへ行きたい！！【ホロライブ/紫咲シオン】
-UID:A2io0-_aM7E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】キング・オブ・ハーチャマ最終回！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=29A7NrbtTp4
-DURATION:PT2H
-DTSTART:20201116T140000Z
-SUMMARY:❤赤井はあと: 【Minecraft】キング・オブ・ハーチャマ最終回！【ホロライブ/赤井はあと】
-UID:29A7NrbtTp4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】深夜のクラフトisマインぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=iSDgmIjcMYE
-DURATION:PT2H
-DTSTART:20201115T143000Z
-SUMMARY:👯兎田ぺこら: 【Minecraft】深夜のクラフトisマインぺこ！【ホロライブ/兎田ぺこら】
-UID:iSDgmIjcMYE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:超ギリギリ!?エッッなイラストを募集した結果・・・！？#HAACHAMASUNDAY\nhttps://www.youtube.com/watch?v=arnTT2qjq_c
-DURATION:PT2H
-DTSTART:20201115T093000Z
-SUMMARY:❤赤井はあと: 超ギリギリ!?エッッなイラストを募集した結果・・・！？#HAACHAMASUNDAY
-UID:arnTT2qjq_c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マイクラ】ねね～先に帰るわ【ホロライブ/尾丸ポルカ】\nhttps://www.youtube.com/watch?v=RHQV0VIc4NY
-DURATION:PT2H
-DTSTART:20201115T040000Z
-SUMMARY:尾丸ポルカ: 【マイクラ】ねね～先に帰るわ【ホロライブ/尾丸ポルカ】
-UID:RHQV0VIc4NY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【はたらくUFO】運べ！運べ！アルバイト地獄ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=vbxG0PXHMOw
-DURATION:PT2H
-DTSTART:20201116T110000Z
-SUMMARY:👯兎田ぺこら: 【はたらくUFO】運べ！運べ！アルバイト地獄ぺこ！【ホロライブ/兎田ぺこら】
-UID:vbxG0PXHMOw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#１】ゼルダの伝説時のオカリナ:The Legend of Zelda: Ocarina of Time【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=rOraWNXUl-Y
-DURATION:PT2H
-DTSTART:20201115T030000Z
-SUMMARY:🚑大空スバル: 【#１】ゼルダの伝説時のオカリナ:The Legend of Zelda: Ocarina of Time【ホロライブ/大空スバル】
-UID:rOraWNXUl-Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PhasmoPhobia】アイテム買ったボクに怖いものなんてないんだからな！！？？！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=lsf0IQIE7Ig
-DURATION:PT2H
-DTSTART:20201116T050000Z
-SUMMARY:🤖ロボ子さん: 【PhasmoPhobia】アイテム買ったボクに怖いものなんてないんだからな！！？？！【ホロライブ/ロボ子さん】
-UID:lsf0IQIE7Ig
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】🐡常闇ウォーターパーク作成🐡Day6【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=qs2AQI5djiA
-DURATION:PT2H
-DTSTART:20201115T140000Z
-SUMMARY:👾常闇トワ: 【Minecraft】🐡常闇ウォーターパーク作成🐡Day6【常闇トワ/ホロライブ】
-UID:qs2AQI5djiA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SUPER MARIO BROS. 35｜脳を疲弊させて安眠せよ！なのら！💤Nanolish only Mission【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=AixrgzNE-Kc
-DURATION:PT2H
-DTSTART:20201115T150000Z
-SUMMARY:🍬姫森ルーナ: SUPER MARIO BROS. 35｜脳を疲弊させて安眠せよ！なのら！💤Nanolish only Mission【姫森ルーナ/ホロライブ】
-UID:AixrgzNE-Kc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マイクラ】エンドに高飛びしつつエリトラを探したい気持ち【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=SgMj4zXD5IQ
-DURATION:PT2H
-DTSTART:20201115T040000Z
-SUMMARY:獅白ぼたん: 【マイクラ】エンドに高飛びしつつエリトラを探したい気持ち【獅白ぼたん/ホロライブ】
-UID:SgMj4zXD5IQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マインクラフト/Minecraft】美味しい車建築したい！🍠Delicious car architecture【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=nnlmJZAh6Do
-DURATION:PT2H
-DTSTART:20201115T150000Z
-SUMMARY:🔥不知火フレア: 【マインクラフト/Minecraft】美味しい車建築したい！🍠Delicious car architecture【ホロライブ/不知火フレア】
-UID:nnlmJZAh6Do
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌番組】わためのうた ーボイトレ編ー （１１月１６日）【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=P_njiJX2RBU
-DURATION:PT2H
-DTSTART:20201115T213000Z
-SUMMARY:🐏角巻わため: 【歌番組】わためのうた ーボイトレ編ー （１１月１６日）【角巻わため/ホロライブ４期生】
-UID:P_njiJX2RBU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【天穂のサクナヒメ】メスカミとゆく収穫！米の評価は！？【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=klQ38lMmqLU
-DURATION:PT2H
-DTSTART:20201115T080000Z
-SUMMARY:🏴☠宝鐘マリン: 【天穂のサクナヒメ】メスカミとゆく収穫！米の評価は！？【ホロライブ/宝鐘マリン】
-UID:klQ38lMmqLU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#らみらいぶ】月曜日の朝活雑談【11月16日】\nhttps://www.youtube.com/watch?v=k2MhBSbMqto
-DURATION:PT2H
-DTSTART:20201116T000000Z
-SUMMARY:雪花ラミィ: 【#らみらいぶ】月曜日の朝活雑談【11月16日】
-UID:k2MhBSbMqto
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【天穂のサクナヒメ】強くなるために米を作る！目指せ農業ガチ勢！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=gJcbc1FAnG4
-DURATION:PT2H
-DTSTART:20201114T160000Z
-SUMMARY:🏮夏色まつり: 【天穂のサクナヒメ】強くなるために米を作る！目指せ農業ガチ勢！【ホロライブ/夏色まつり】
-UID:gJcbc1FAnG4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】運動会の準備どんどん進める！！！【ホロライブ/天音かなた】\nhttps://www.youtube.com/watch?v=RhCyho89JW0
-DURATION:PT2H
-DTSTART:20201115T090000Z
-SUMMARY:💫天音かなた: 【Minecraft】運動会の準備どんどん進める！！！【ホロライブ/天音かなた】
-UID:RhCyho89JW0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#宇宙ホロ人狼】人畜無害な狐ですよろしくおねがいします/白上フブキ【AmongUs】\nhttps://www.youtube.com/watch?v=PUnMEFLEvt0
-DURATION:PT2H
-DTSTART:20201115T131000Z
-SUMMARY:🌽白上フブキ: 【#宇宙ホロ人狼】人畜無害な狐ですよろしくおねがいします/白上フブキ【AmongUs】
-UID:PUnMEFLEvt0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[Minecraft] NEW HAACHAMA LIFE!! #HAACHAMA #HololiveEN\nhttps://www.youtube.com/watch?v=i071ggjXXP4
-DURATION:PT2H
-DTSTART:20201116T070000Z
-SUMMARY:❤赤井はあと: [Minecraft] NEW HAACHAMA LIFE!! #HAACHAMA #HololiveEN
-UID:i071ggjXXP4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【天穂のサクナヒメ】今年の米はガチで土壌から違う！リベンジ！【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=R8XG5M8wslE
-DURATION:PT2H
-DTSTART:20201116T120000Z
-SUMMARY:🏴☠宝鐘マリン: 【天穂のサクナヒメ】今年の米はガチで土壌から違う！リベンジ！【ホロライブ/宝鐘マリン】
-UID:R8XG5M8wslE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Among Us】嘘なんてつかないさ～～？【#宇宙ホロ人狼/猫又おかゆ視点】\nhttps://www.youtube.com/watch?v=pMhnCAO6Wzg
-DURATION:PT2H
-DTSTART:20201115T131000Z
-SUMMARY:🍙猫又おかゆ: 【Among Us】嘘なんてつかないさ～～？【#宇宙ホロ人狼/猫又おかゆ視点】
-UID:pMhnCAO6Wzg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】みんなでホロ運動会の会場お手伝い☆【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=aX9ti_QEO18
-DURATION:PT2H
-DTSTART:20201115T090000Z
-SUMMARY:🦋潤羽るしあ: 【Minecraft】みんなでホロ運動会の会場お手伝い☆【潤羽るしあ/ホロライブ】
-UID:aX9ti_QEO18
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 大事なお話 】実はずっと激痛を我慢していたのら。【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=vVu6rbkf9Qc
-DURATION:PT2H
-DTSTART:20201116T100000Z
-SUMMARY:🍬姫森ルーナ: 【 大事なお話 】実はずっと激痛を我慢していたのら。【姫森ルーナ/ホロライブ】
-UID:vVu6rbkf9Qc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Phasmophobia】難易度プロ：Lv１００以上耐久【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=lF4JUmvo9bY
-DURATION:PT2H
-DTSTART:20201114T160000Z
-SUMMARY:🌽白上フブキ: 【Phasmophobia】難易度プロ：Lv１００以上耐久【ホロライブ/白上フブキ】
-UID:lF4JUmvo9bY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】寝起き悪魔のコソ錬apex【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=gVrilUvpI0A
-DURATION:PT2H
-DTSTART:20201115T050000Z
-SUMMARY:💋癒月ちょこ: 【APEX】寝起き悪魔のコソ錬apex【ホロライブ/癒月ちょこ】
-UID:gVrilUvpI0A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#宇宙ホロ人狼】AMONG US でやるしゅばなあああああ！！！【大空スバル/ホロライブ】\nhttps://www.youtube.com/watch?v=xVLPBn6NBPI
-DURATION:PT2H
-DTSTART:20201115T131000Z
-SUMMARY:🚑大空スバル: 【#宇宙ホロ人狼】AMONG US でやるしゅばなあああああ！！！【大空スバル/ホロライブ】
-UID:xVLPBn6NBPI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:🔴MINECRAFT ネザー探検する！！NETHER? WHAT'S THAT?\nhttps://www.youtube.com/watch?v=-F2f5nNlCH8
 DURATION:PT2H
 DTSTART:20201116T120000Z
 SUMMARY:🐉桐生ココ: 🔴MINECRAFT ネザー探検する！！NETHER? WHAT'S THAT?
 UID:-F2f5nNlCH8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#宇宙ホロ人狼】人畜無害の狼なので、大丈夫ですよ！【大神ミオ視点】\nhttps://www.youtube.com/watch?v=D7VCcracZpI
-DURATION:PT2H
-DTSTART:20201115T131000Z
-SUMMARY:🌲大神ミオ: 【#宇宙ホロ人狼】人畜無害の狼なので、大丈夫ですよ！【大神ミオ視点】
-UID:D7VCcracZpI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロWACCA】『ぺこみこ大戦争！！』フルMV【さくらみこ/兎田ぺこら ホロライブ】\nhttps://www.youtube.com/watch?v=uRB1G0cKpIk
@@ -389,39 +144,18 @@ SUMMARY:ホロライブ: 【#ホロWACCA】『ぺこみこ大戦争！！』フ�
 UID:uRB1G0cKpIk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】シーズン７ソロダイアちゃれんじっ！２日目！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=2DC4YLfPgJ0
+DESCRIPTION:【世界のアソビ大全51】6ボールパズル、100勝するまで眠れまてん！？【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=Y3N7mV_BKMA
 DURATION:PT2H
-DTSTART:20201115T070000Z
-SUMMARY:⚓湊あくあ: 【APEX】シーズン７ソロダイアちゃれんじっ！２日目！【湊あくあ/ホロライブ】
-UID:2DC4YLfPgJ0
+DTSTART:20201116T140000Z
+SUMMARY:☄星街すいせい: 【世界のアソビ大全51】6ボールパズル、100勝するまで眠れまてん！？【ホロライブ / 星街すいせい】
+UID:Y3N7mV_BKMA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴ARK ほぼすべての動物を失ったでござる\nhttps://www.youtube.com/watch?v=rnkULdMlXoE
+DESCRIPTION:【Minecraft】久しぶりのホロ鯖！！エンドへ行きたい！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=A2io0-_aM7E
 DURATION:PT2H
-DTSTART:20201115T080000Z
-SUMMARY:🐉桐生ココ: 🔴ARK ほぼすべての動物を失ったでござる
-UID:rnkULdMlXoE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#雪花ラミィ誕生祭2020】初めての誕生記念枠！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=-jCIlzAGbNE
-DURATION:PT2H
-DTSTART:20201115T110000Z
-SUMMARY:雪花ラミィ: 【#雪花ラミィ誕生祭2020】初めての誕生記念枠！【雪花ラミィ/ホロライブ】
-UID:-jCIlzAGbNE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Among us】imposterを暴いていきたい鬼　#宇宙ホロ人狼\nhttps://www.youtube.com/watch?v=YvHGsgjbLDE
-DURATION:PT2H
-DTSTART:20201115T131000Z
-SUMMARY:👿百鬼あやめ: 【Among us】imposterを暴いていきたい鬼　#宇宙ホロ人狼
-UID:YvHGsgjbLDE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】みんなで運動会の準備だYO！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=XK1BKrA2pug
-DURATION:PT2H
-DTSTART:20201115T090000Z
-SUMMARY:🌟夜空メル: 【Minecraft】みんなで運動会の準備だYO！【ホロライブ/夜空メル】
-UID:XK1BKrA2pug
+DTSTART:20201116T150000Z
+SUMMARY:🌙紫咲シオン: 【Minecraft】久しぶりのホロ鯖！！エンドへ行きたい！！【ホロライブ/紫咲シオン】
+UID:A2io0-_aM7E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】おまえのトライデントはわためのもの！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=I8QaWmTf9QE
@@ -431,10 +165,17 @@ SUMMARY:🐏角巻わため: 【Minecraft】おまえのトライデントはわ
 UID:I8QaWmTf9QE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:１５分だけのちょい重大発表【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=6uJfB7-jzyk
+DESCRIPTION:【Minecraft】キング・オブ・ハーチャマ最終回！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=29A7NrbtTp4
 DURATION:PT2H
-DTSTART:20201115T114500Z
-SUMMARY:🌽白上フブキ: １５分だけのちょい重大発表【ホロライブ/白上フブキ】
-UID:6uJfB7-jzyk
+DTSTART:20201116T140000Z
+SUMMARY:❤赤井はあと: 【Minecraft】キング・オブ・ハーチャマ最終回！【ホロライブ/赤井はあと】
+UID:29A7NrbtTp4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】AKUKIN建設は今日も行く！！！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=i4-l-dIkYww
+DURATION:PT2H
+DTSTART:20201116T130000Z
+SUMMARY:⚓湊あくあ: 【Minecraft】AKUKIN建設は今日も行く！！！！【湊あくあ/ホロライブ】
+UID:i4-l-dIkYww
 END:VEVENT
 END:VCALENDAR
