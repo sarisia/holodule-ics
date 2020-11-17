@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Superchat Reading】SUPA SUNDAY\nhttps://www.youtube.com/watch?v=mBuvlN5PINs
+DESCRIPTION:【Half-Life 2】 No more driving...?\nhttps://www.youtube.com/watch?v=7PrcEUr6PY4
 DURATION:PT2H
-DTSTART:20201116T043000Z
-SUMMARY:Amelia: 【Superchat Reading】SUPA SUNDAY
-UID:mBuvlN5PINs
+DTSTART:20201117T210000Z
+SUMMARY:Ina: 【Half-Life 2】 No more driving...?
+UID:7PrcEUr6PY4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【COLLAB】 Chatting with Amelia!\nhttps://www.youtube.com/watch?v=te18mtrQuaA
+DESCRIPTION:【VALORANT】(postponed) Shooty shooty!\nhttps://www.youtube.com/watch?v=U6tyuTgKgIs
 DURATION:PT2H
-DTSTART:20201116T020000Z
-SUMMARY:Ina: 【COLLAB】 Chatting with Amelia!
-UID:te18mtrQuaA
+DTSTART:20201119T030000Z
+SUMMARY:Amelia: 【VALORANT】(postponed) Shooty shooty!
+UID:U6tyuTgKgIs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【OVERCOOKED 2: FINALE】YES\, CHEF!!! Let's Finish This Fight. #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=Jm_5D7Cvwas
@@ -23,27 +23,6 @@ DURATION:PT2H
 DTSTART:20201118T140000Z
 SUMMARY:Calli: 【OVERCOOKED 2: FINALE】YES\, CHEF!!! Let's Finish This Fight. #hololiveEnglish #holoMyth
 UID:Jm_5D7Cvwas
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[MINECRAFT] More like BUILDcraft\nhttps://www.youtube.com/watch?v=A-nYDXNafUU
-DURATION:PT2H
-DTSTART:20201117T020000Z
-SUMMARY:Gura: [MINECRAFT] More like BUILDcraft
-UID:A-nYDXNafUU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Sakuna: Of Rice and Ruin】OK BUT WHERE ARE THE CATS  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=zGy4dG3hYsM
-DURATION:PT2H
-DTSTART:20201115T150000Z
-SUMMARY:Kiara: 【Sakuna: Of Rice and Ruin】OK BUT WHERE ARE THE CATS  #kfp #キアライブ
-UID:zGy4dG3hYsM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DRAWING】 Gesture Drawing + Doodle\nhttps://www.youtube.com/watch?v=om0nH98YlJ0
-DURATION:PT2H
-DTSTART:20201115T211500Z
-SUMMARY:Ina: 【DRAWING】 Gesture Drawing + Doodle
-UID:om0nH98YlJ0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Mario Kart 8DX】ANGER MANAGEMENT 101  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=Pbx4ndTdhMk
@@ -58,5 +37,12 @@ DURATION:PT2H
 DTSTART:20201116T145951Z
 SUMMARY:Calli: 【LATE NIGHT雑談】Sleepy Reaper ASMR (?) and Free Talk! #HoloMyth #HololiveEnglish
 UID:df3foPky_iE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[MINECRAFT] More like BUILDcraft\nhttps://www.youtube.com/watch?v=A-nYDXNafUU
+DURATION:PT2H
+DTSTART:20201117T020000Z
+SUMMARY:Gura: [MINECRAFT] More like BUILDcraft
+UID:A-nYDXNafUU
 END:VEVENT
 END:VCALENDAR
