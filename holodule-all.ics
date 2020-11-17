@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【天穂のサクナヒメ#3】～うちの米美味いぜ奥さん～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=p-XQa7ICuvk
+DURATION:PT2H
+DTSTART:20201117T130000Z
+SUMMARY:荒咬オウガ: 【天穂のサクナヒメ#3】～うちの米美味いぜ奥さん～【荒咬オウガ/ホロスターズ】
+UID:p-XQa7ICuvk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Phasmophobia】4人の精鋭ホロ幽霊調査隊が往く【尾丸ポルカ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=-2a6X4PPghc
 DURATION:PT2H
 DTSTART:20201117T120000Z
@@ -107,6 +114,13 @@ DURATION:PT2H
 DTSTART:20201116T110000Z
 SUMMARY:👯兎田ぺこら: 【はたらくUFO】運べ！運べ！アルバイト地獄ぺこ！【ホロライブ/兎田ぺこら】
 UID:vbxG0PXHMOw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【お絵かき】クリスターズに俺はなる【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=V8Icncrc82g
+DURATION:PT2H
+DTSTART:20201117T070000Z
+SUMMARY:影山シエン: 【お絵かき】クリスターズに俺はなる【影山シエン/ホロスターズ】
+UID:V8Icncrc82g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PhasmoPhobia】アイテム買ったボクに怖いものなんてないんだからな！！？？！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=lsf0IQIE7Ig
@@ -242,13 +256,6 @@ SUMMARY:尾丸ポルカ: 【Cooking Simulator】三時のおやつ【尾丸ポ�
 UID:gQIaJ_n3-wI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】久々ホロ鯖！噂のエンドに行ってみたい！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=YGRfpUExrzE
-DURATION:PT2H
-DTSTART:20201117T080000Z
-SUMMARY:🤖ロボ子さん: 【Minecraft】久々ホロ鯖！噂のエンドに行ってみたい！！【ホロライブ/ロボ子さん】
-UID:YGRfpUExrzE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠】ねぇ、歌いたいから聞いて！🎤Listen because I sing【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=vZ5ULNi7L6k
 DURATION:PT2H
 DTSTART:20201117T110000Z
@@ -256,11 +263,11 @@ SUMMARY:🔥不知火フレア: 【歌枠】ねぇ、歌いたいから聞いて
 UID:vZ5ULNi7L6k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【GTA5】バグらないで！！【ホロライブ/天音かなた】\nhttps://www.youtube.com/watch?v=C-ryN5-xx3Y
+DESCRIPTION:【Minecraft】久々ホロ鯖！噂のエンドに行ってみたい！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=YGRfpUExrzE
 DURATION:PT2H
-DTSTART:20201116T050000Z
-SUMMARY:💫天音かなた: 【GTA5】バグらないで！！【ホロライブ/天音かなた】
-UID:C-ryN5-xx3Y
+DTSTART:20201117T080000Z
+SUMMARY:🤖ロボ子さん: 【Minecraft】久々ホロ鯖！噂のエンドに行ってみたい！！【ホロライブ/ロボ子さん】
+UID:YGRfpUExrzE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【メン限】ボクとろぼさーで秘密の裏作業！一緒に選考しよ💞【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=5K141UW9z4s
@@ -268,6 +275,13 @@ DURATION:PT2H
 DTSTART:20201117T130000Z
 SUMMARY:🤖ロボ子さん: 【メン限】ボクとろぼさーで秘密の裏作業！一緒に選考しよ💞【ホロライブ/ロボ子さん】
 UID:5K141UW9z4s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【GTA5】バグらないで！！【ホロライブ/天音かなた】\nhttps://www.youtube.com/watch?v=C-ryN5-xx3Y
+DURATION:PT2H
+DTSTART:20201116T050000Z
+SUMMARY:💫天音かなた: 【GTA5】バグらないで！！【ホロライブ/天音かなた】
+UID:C-ryN5-xx3Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【飯より、敵。】 鬼とは何か。 ★天穂のサクナヒメ#3★【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=VSN7s__KqEA
@@ -291,18 +305,18 @@ SUMMARY:🔥不知火フレア: 【雑談】最近あったことのお話💭Re
 UID:s5e4eyvBKYU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【天穂のサクナヒメ】配信外で5時間やり続けた女の米作り【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=t79-LiIBCIU
-DURATION:PT2H
-DTSTART:20201116T160000Z
-SUMMARY:🏮夏色まつり: 【天穂のサクナヒメ】配信外で5時間やり続けた女の米作り【ホロライブ/夏色まつり】
-UID:t79-LiIBCIU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ホロライブID身体測定】イオフィ様診察させていただきます！【ホロライブ/癒月ちょこ/イオフィ】\nhttps://www.youtube.com/watch?v=oBJqNs013qw
 DURATION:PT2H
 DTSTART:20201117T140000Z
 SUMMARY:💋癒月ちょこ: 【ホロライブID身体測定】イオフィ様診察させていただきます！【ホロライブ/癒月ちょこ/イオフィ】
 UID:oBJqNs013qw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【天穂のサクナヒメ】配信外で5時間やり続けた女の米作り【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=t79-LiIBCIU
+DURATION:PT2H
+DTSTART:20201116T160000Z
+SUMMARY:🏮夏色まつり: 【天穂のサクナヒメ】配信外で5時間やり続けた女の米作り【ホロライブ/夏色まつり】
+UID:t79-LiIBCIU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Sakuna: Of Rice and Ruin】OK BUT WHERE ARE THE CATS  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=zGy4dG3hYsM
@@ -401,6 +415,13 @@ DURATION:PT2H
 DTSTART:20201117T010000Z
 SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－火曜日の朝活雑談です－【ホロスターズ/夕刻ロベル】
 UID:PGX1kZelv74
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Mario Kart 8DX】ANGER MANAGEMENT 101  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=Pbx4ndTdhMk
+DURATION:PT2H
+DTSTART:20201117T100000Z
+SUMMARY:Kiara: 【Mario Kart 8DX】ANGER MANAGEMENT 101  #kfp #キアライブ
+UID:Pbx4ndTdhMk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Phasmophobia】ホロ幽霊調査隊出動！【獅白ぼたん視点/ホロライブ】\nhttps://www.youtube.com/watch?v=ilYTUE7HYxk
