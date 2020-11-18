@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【お絵かき】クリスターズに俺はなる【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=V8Icncrc82g
-DURATION:PT2H
-DTSTART:20201117T070000Z
-SUMMARY:影山シエン: 【お絵かき】クリスターズに俺はなる【影山シエン/ホロスターズ】
-UID:V8Icncrc82g
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【天穂のサクナヒメ#3】～うちの米美味いぜ奥さん～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=p-XQa7ICuvk
 DURATION:PT2H
 DTSTART:20201117T130000Z
@@ -18,11 +11,25 @@ SUMMARY:荒咬オウガ: 【天穂のサクナヒメ#3】～うちの米美味�
 UID:p-XQa7ICuvk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【お絵かき】クリスターズに俺はなる【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=V8Icncrc82g
+DURATION:PT2H
+DTSTART:20201117T070000Z
+SUMMARY:影山シエン: 【お絵かき】クリスターズに俺はなる【影山シエン/ホロスターズ】
+UID:V8Icncrc82g
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【飯より、敵。】 鬼とは何か。 ★天穂のサクナヒメ#3★【ホロスターズ/アステル】\nhttps://www.youtube.com/watch?v=VSN7s__KqEA
 DURATION:PT2H
 DTSTART:20201117T053000Z
 SUMMARY:🎭アステル・レダ: 【飯より、敵。】 鬼とは何か。 ★天穂のサクナヒメ#3★【ホロスターズ/アステル】
 UID:VSN7s__KqEA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【English stream/テトリス99】ギリギリまで寝る。Wake up and play tha TETRIS immediately!【律可/ホロスターズ】 #りつすた\nhttps://www.youtube.com/watch?v=TqphcCaBeSw
+DURATION:PT2H
+DTSTART:20201118T020000Z
+SUMMARY:⚙律可: 【English stream/テトリス99】ギリギリまで寝る。Wake up and play tha TETRIS immediately!【律可/ホロスターズ】 #りつすた
+UID:TqphcCaBeSw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】地獄で低確率ドロップを永遠に周回する地獄枠【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=cUZu5M8XpK8
@@ -53,6 +60,13 @@ SUMMARY:🍕アルランディス: 【Dead by Daylight】俺が3連続で脱出�
 UID:gXbrfcRSajg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Dead by Daylight】アランさんを３回連続脱出させるまで終われません耐久!!騎士視点【#岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=tLM53vbjKXg
+DURATION:PT2H
+DTSTART:20201118T102000Z
+SUMMARY:🦔💨岸堂天真: 【Dead by Daylight】アランさんを３回連続脱出させるまで終われません耐久!!騎士視点【#岸堂天真/ホロスターズ】
+UID:tLM53vbjKXg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ニワトリをキッチンから逃がすだけで心に来るゲーム-egg is broken. heart is too.-【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=FpUA6Kvig9Y
 DURATION:PT2H
 DTSTART:20201119T110000Z
@@ -67,18 +81,18 @@ SUMMARY:🍕アルランディス: 【朝活！】今週サムネイル作る時
 UID:Q6F0yyhQkU4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朗読】マフィアのボスが読む「蜘蛛の糸」【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=fsXenaeXypQ
-DURATION:PT2H
-DTSTART:20201117T143000Z
-SUMMARY:影山シエン: 【朗読】マフィアのボスが読む「蜘蛛の糸」【影山シエン/ホロスターズ】
-UID:fsXenaeXypQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#8 世の中舐めてるラジオ ~大きな声で言えない●癖の話~【奏手イヅル】\nhttps://www.youtube.com/watch?v=kNw0gMRE398
 DURATION:PT2H
 DTSTART:20201118T140000Z
 SUMMARY:🎸奏手イヅル: #8 世の中舐めてるラジオ ~大きな声で言えない●癖の話~【奏手イヅル】
 UID:kNw0gMRE398
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朗読】マフィアのボスが読む「蜘蛛の糸」【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=fsXenaeXypQ
+DURATION:PT2H
+DTSTART:20201117T143000Z
+SUMMARY:影山シエン: 【朗読】マフィアのボスが読む「蜘蛛の糸」【影山シエン/ホロスターズ】
+UID:fsXenaeXypQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【幻想郷萃夜祭】密と疎を操り突き進め！【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=x10ONg1Zhc4
@@ -114,13 +128,6 @@ DURATION:PT2H
 DTSTART:20201118T010000Z
 SUMMARY:🍷夕刻ロベル: 【朝活】生活習慣改善－ええ！？水曜日…！？－【ホロスターズ/夕刻ロベル】
 UID:3oggstL5lJ4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【English stream/テトリス99】ギリギリまで寝る。Wake up and play tha TETRIS immediately!【律可/ホロスターズ】 #りつすた\nhttps://www.youtube.com/watch?v=TqphcCaBeSw
-DURATION:PT2H
-DTSTART:20201118T020000Z
-SUMMARY:⚙律可: 【English stream/テトリス99】ギリギリまで寝る。Wake up and play tha TETRIS immediately!【律可/ホロスターズ】 #りつすた
-UID:TqphcCaBeSw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】生活習慣改善－火曜日の朝活雑談です－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=PGX1kZelv74
