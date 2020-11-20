@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【LIVE SHOW】Original Songs and Karaoke!!! BRING IT\, FOOLS! #HoloMyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=Ydbz4LogFbY
-DURATION:PT2H
-DTSTART:20201121T030000Z
-SUMMARY:Calli: 【LIVE SHOW】Original Songs and Karaoke!!! BRING IT\, FOOLS! #HoloMyth #HololiveEnglish
-UID:Ydbz4LogFbY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ANNOUNCEMENT】I have some things for you 👀【重大発表】#kfp #キアライブ\nhttps://www.youtube.com/watch?v=63C4bRNjWC0
-DURATION:PT2H
-DTSTART:20201119T013000Z
-SUMMARY:Kiara: 【ANNOUNCEMENT】I have some things for you 👀【重大発表】#kfp #キアライブ
-UID:63C4bRNjWC0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#HOLOTALK】With our 1st guest: HOUSHOU MARINE\nhttps://www.youtube.com/watch?v=3HwaqbdKO1s
 DURATION:PT2H
 DTSTART:20201121T020000Z
@@ -25,11 +11,11 @@ SUMMARY:Kiara: 【#HOLOTALK】With our 1st guest: HOUSHOU MARINE
 UID:3HwaqbdKO1s
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Half-Life 2】 No More Driving...?\nhttps://www.youtube.com/watch?v=3TL6GBl6tFs
+DESCRIPTION:[MINECRAFT] MINECRAFT\nhttps://www.youtube.com/watch?v=ZmTcW28YEgo
 DURATION:PT2H
-DTSTART:20201118T210000Z
-SUMMARY:Ina: 【Half-Life 2】 No More Driving...?
-UID:3TL6GBl6tFs
+DTSTART:20201120T030000Z
+SUMMARY:Gura: [MINECRAFT] MINECRAFT
+UID:ZmTcW28YEgo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Thief Simulator】ヾ( ･`⌓´･)ﾉﾞ GIMME THAT\nhttps://www.youtube.com/watch?v=aW7MNZWj5eo
@@ -39,32 +25,11 @@ SUMMARY:Amelia: 【Thief Simulator】ヾ( ･`⌓´･)ﾉﾞ GIMME THAT
 UID:aW7MNZWj5eo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【CRASH BANDICOOT 4】Ah\, Yes. It is\, in Fact\, ABOUT F-WORDING TIME. #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=JqaylUcNvig
-DURATION:PT2H
-DTSTART:20201119T075948Z
-SUMMARY:Calli: 【CRASH BANDICOOT 4】Ah\, Yes. It is\, in Fact\, ABOUT F-WORDING TIME. #hololiveEnglish #holoMyth
-UID:JqaylUcNvig
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[PASSPARTOUT] I AM HUNGRY ARTIST\nhttps://www.youtube.com/watch?v=b8gI18LlvGc
 DURATION:PT2H
 DTSTART:20201120T010000Z
 SUMMARY:Gura: [PASSPARTOUT] I AM HUNGRY ARTIST
 UID:b8gI18LlvGc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VALORANT】Shooty shooty!\nhttps://www.youtube.com/watch?v=U6tyuTgKgIs
-DURATION:PT2H
-DTSTART:20201119T030000Z
-SUMMARY:Amelia: 【VALORANT】Shooty shooty!
-UID:U6tyuTgKgIs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[MINECRAFT] MINECRAFT\nhttps://www.youtube.com/watch?v=ZmTcW28YEgo
-DURATION:PT2H
-DTSTART:20201120T030000Z
-SUMMARY:Gura: [MINECRAFT] MINECRAFT
-UID:ZmTcW28YEgo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】I'm mining.....\nhttps://www.youtube.com/watch?v=SuY9fikXQbk
@@ -76,9 +41,16 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【WINE PARTY 雑談】CELEBRATE SHIMASHOU\, MINNA. wine and chill with my dead beats.\nhttps://www.youtube.com/watch?v=fKg_XbhjrNM
 DURATION:PT2H
-DTSTART:20201120T150000Z
+DTSTART:20201120T145954Z
 SUMMARY:Calli: 【WINE PARTY 雑談】CELEBRATE SHIMASHOU\, MINNA. wine and chill with my dead beats.
 UID:fKg_XbhjrNM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【LIVE SHOW】Original Songs and Karaoke!!! BRING IT\, FOOLS! #HoloMyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=Ydbz4LogFbY
+DURATION:PT2H
+DTSTART:20201121T030000Z
+SUMMARY:Calli: 【LIVE SHOW】Original Songs and Karaoke!!! BRING IT\, FOOLS! #HoloMyth #HololiveEnglish
+UID:Ydbz4LogFbY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【AMONG US】With viewers!!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=cRhrOAdDceE
