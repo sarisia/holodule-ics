@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ANNOUNCEMENT】I have some things for you 👀【重大発表】#kfp #キアライブ\nhttps://www.youtube.com/watch?v=63C4bRNjWC0
+DURATION:PT2H
+DTSTART:20201119T013000Z
+SUMMARY:Kiara: 【ANNOUNCEMENT】I have some things for you 👀【重大発表】#kfp #キアライブ
+UID:63C4bRNjWC0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Half-Life 2】 No More Driving...?\nhttps://www.youtube.com/watch?v=3TL6GBl6tFs
 DURATION:PT2H
 DTSTART:20201118T210000Z
@@ -25,11 +32,11 @@ SUMMARY:Calli: 【CRASH BANDICOOT 4】Ah\, Yes. It is\, in Fact\, ABOUT F-WORDIN
 UID:JqaylUcNvig
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【LIVE SHOW】Original Songs and Karaoke!!! BRING IT\, FOOLS! #HoloMyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=Ydbz4LogFbY
+DESCRIPTION:[PASSPARTOUT] I AM HUNGRY ARTIST\nhttps://www.youtube.com/watch?v=b8gI18LlvGc
 DURATION:PT2H
-DTSTART:20201121T030000Z
-SUMMARY:Calli: 【LIVE SHOW】Original Songs and Karaoke!!! BRING IT\, FOOLS! #HoloMyth #HololiveEnglish
-UID:Ydbz4LogFbY
+DTSTART:20201120T010000Z
+SUMMARY:Gura: [PASSPARTOUT] I AM HUNGRY ARTIST
+UID:b8gI18LlvGc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VALORANT】Shooty shooty!\nhttps://www.youtube.com/watch?v=U6tyuTgKgIs
@@ -39,11 +46,18 @@ SUMMARY:Amelia: 【VALORANT】Shooty shooty!
 UID:U6tyuTgKgIs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ANNOUNCEMENT】I have some things for you 👀【重大発表】#kfp #キアライブ\nhttps://www.youtube.com/watch?v=63C4bRNjWC0
+DESCRIPTION:[MINECRAFT] MINECRAFT\nhttps://www.youtube.com/watch?v=ZmTcW28YEgo
 DURATION:PT2H
-DTSTART:20201119T013000Z
-SUMMARY:Kiara: 【ANNOUNCEMENT】I have some things for you 👀【重大発表】#kfp #キアライブ
-UID:63C4bRNjWC0
+DTSTART:20201120T030000Z
+SUMMARY:Gura: [MINECRAFT] MINECRAFT
+UID:ZmTcW28YEgo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【LIVE SHOW】Original Songs and Karaoke!!! BRING IT\, FOOLS! #HoloMyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=Ydbz4LogFbY
+DURATION:PT2H
+DTSTART:20201121T030000Z
+SUMMARY:Calli: 【LIVE SHOW】Original Songs and Karaoke!!! BRING IT\, FOOLS! #HoloMyth #HololiveEnglish
+UID:Ydbz4LogFbY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【AMONG US】With viewers!!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=cRhrOAdDceE
