@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【COLLAB】Don't Starve Together!\nhttps://www.youtube.com/watch?v=72o--QWfufg
+DURATION:PT2H
+DTSTART:20201122T030000Z
+SUMMARY:Amelia: 【COLLAB】Don't Starve Together!
+UID:72o--QWfufg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Superchat Reading】and chitchat! Got some catching up to do again!\nhttps://www.youtube.com/watch?v=XrIxD9fX7jI
 DURATION:PT2H
 DTSTART:20201121T140000Z
@@ -46,11 +53,11 @@ SUMMARY:Ina: 【Half-Life 2】 Fourth Times the Charm
 UID:NFBQAIAY6rI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【LA Noire】Detective is back in Business!!!\nhttps://www.youtube.com/watch?v=mFURRY0W29U
+DESCRIPTION:[SUPERLIMINAL] Time for brain exercise\nhttps://www.youtube.com/watch?v=7VTwCQCxFxM
 DURATION:PT2H
-DTSTART:20201121T230500Z
-SUMMARY:Amelia: 【LA Noire】Detective is back in Business!!!
-UID:mFURRY0W29U
+DTSTART:20201122T000000Z
+SUMMARY:Gura: [SUPERLIMINAL] Time for brain exercise
+UID:7VTwCQCxFxM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【WINE PARTY 雑談】CELEBRATE SHIMASHOU\, MINNA. wine and chill with my dead beats.\nhttps://www.youtube.com/watch?v=fKg_XbhjrNM
@@ -60,11 +67,11 @@ SUMMARY:Calli: 【WINE PARTY 雑談】CELEBRATE SHIMASHOU\, MINNA. wine and chil
 UID:fKg_XbhjrNM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[SUPERLIMINAL] Time for brain exercise\nhttps://www.youtube.com/watch?v=7VTwCQCxFxM
+DESCRIPTION:【WATCHALONG】LOOPER !\nhttps://www.youtube.com/watch?v=frPrZ9YudYM
 DURATION:PT2H
-DTSTART:20201122T000000Z
-SUMMARY:Gura: [SUPERLIMINAL] Time for brain exercise
-UID:7VTwCQCxFxM
+DTSTART:20201122T060000Z
+SUMMARY:Amelia: 【WATCHALONG】LOOPER !
+UID:frPrZ9YudYM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HOLOEN COLLAB】It's collab timeeee~!!! #hololiveenglish #holomyth\nhttps://www.youtube.com/watch?v=cS1qWOVWg-g
@@ -72,6 +79,13 @@ DURATION:PT2H
 DTSTART:20201122T030000Z
 SUMMARY:Kiara: 【HOLOEN COLLAB】It's collab timeeee~!!! #hololiveenglish #holomyth
 UID:cS1qWOVWg-g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【LA Noire】Detective is back in Business!!!(rescheduled)\nhttps://www.youtube.com/watch?v=mFURRY0W29U
+DURATION:PT2H
+DTSTART:20201123T000000Z
+SUMMARY:Amelia: 【LA Noire】Detective is back in Business!!!(rescheduled)
+UID:mFURRY0W29U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【LIVE SHOW】Original Songs and Karaoke!!! BRING IT\, FOOLS! #HoloMyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=Ydbz4LogFbY
