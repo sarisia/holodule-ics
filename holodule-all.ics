@@ -39,18 +39,18 @@ SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－もし
 UID:Y0aTSg-mDw4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#２】ゼルダの伝説時のオカリナ:The Legend of Zelda: Ocarina of Time【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=RbVC7zXyZpw
-DURATION:PT2H
-DTSTART:20201122T050000Z
-SUMMARY:🚑大空スバル: 【#２】ゼルダの伝説時のオカリナ:The Legend of Zelda: Ocarina of Time【ホロライブ/大空スバル】
-UID:RbVC7zXyZpw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【hololiveID】KIRA KIRA FAMILY GOES GHOST HUNTING !! BRRRRR【Ayunda Risu】\nhttps://www.youtube.com/watch?v=XlpsVfoians
 DURATION:PT2H
 DTSTART:20201121T160000Z
 SUMMARY:🐿Risu: 【hololiveID】KIRA KIRA FAMILY GOES GHOST HUNTING !! BRRRRR【Ayunda Risu】
 UID:XlpsVfoians
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#２】ゼルダの伝説時のオカリナ:The Legend of Zelda: Ocarina of Time【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=RbVC7zXyZpw
+DURATION:PT2H
+DTSTART:20201122T050000Z
+SUMMARY:🚑大空スバル: 【#２】ゼルダの伝説時のオカリナ:The Legend of Zelda: Ocarina of Time【ホロライブ/大空スバル】
+UID:RbVC7zXyZpw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【天穂のサクナヒメ】米作り４年目・・・そろそろ本気出す？！【大神ミオ】\nhttps://www.youtube.com/watch?v=bhKco6T2crU
@@ -268,6 +268,13 @@ DURATION:PT2H
 DTSTART:20201122T013000Z
 SUMMARY:尾丸ポルカ: 【天穂のサクナヒメ】羽衣と仲良くします#3【ホロライブ/尾丸ポルカ】
 UID:Fq4e5nQitwU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【オクトパストラベラー大陸の覇者】マーヴェラスな冒険ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=JY49ttH_Y0Y
+DURATION:PT2H
+DTSTART:20201123T060000Z
+SUMMARY:👯兎田ぺこら: 【オクトパストラベラー大陸の覇者】マーヴェラスな冒険ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり
+UID:JY49ttH_Y0Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARK CRYSTAL ISLES】保護者同伴！よちよちARK【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=nAok6fsiAg4
