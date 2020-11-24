@@ -109,18 +109,18 @@ SUMMARY:🦔💨岸堂天真: 【MINECRAFT】時は来た!!ゆるスタで裏ボ
 UID:mgV4VWbfv6M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Isoland】視聴者参加型！みんなで一緒に考えてクリアを目指そう！【ホロライブ/戌神ころね】\nhttps://www.youtube.com/watch?v=7fRI69qWJkc
-DURATION:PT2H
-DTSTART:20201123T110000Z
-SUMMARY:🥐戌神ころね: 【Isoland】視聴者参加型！みんなで一緒に考えてクリアを目指そう！【ホロライブ/戌神ころね】
-UID:7fRI69qWJkc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:NNN DAY 23 ~!!! WHAT A GREAT DAY FOR NUT!!!\nhttps://www.youtube.com/watch?v=97Bndql9K_U
 DURATION:PT2H
 DTSTART:20201123T134607Z
 SUMMARY:🐿Risu: NNN DAY 23 ~!!! WHAT A GREAT DAY FOR NUT!!!
 UID:97Bndql9K_U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Isoland】視聴者参加型！みんなで一緒に考えてクリアを目指そう！【ホロライブ/戌神ころね】\nhttps://www.youtube.com/watch?v=7fRI69qWJkc
+DURATION:PT2H
+DTSTART:20201123T110000Z
+SUMMARY:🥐戌神ころね: 【Isoland】視聴者参加型！みんなで一緒に考えてクリアを目指そう！【ホロライブ/戌神ころね】
+UID:7fRI69qWJkc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロライブ運動会】運動場貸し切り！ぼっちの運動会！？【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=rOOdXIm9Lfk
@@ -179,13 +179,6 @@ SUMMARY:❤赤井はあと: 【Minecraft】深夜のまったりはあちゃま�
 UID:MoOUFt3yHRI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ARK CRYSTAL ISLES】ラミィと恐竜とフェネック【雪花ラミィ/尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=VKK_2I2f0Io
-DURATION:PT2H
-DTSTART:20201123T130000Z
-SUMMARY:尾丸ポルカ: 【ARK CRYSTAL ISLES】ラミィと恐竜とフェネック【雪花ラミィ/尾丸ポルカ/ホロライブ】
-UID:VKK_2I2f0Io
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ドンキーコング64】バナナしか勝たん＃4【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=NT44Xztj1Hg
 DURATION:PT2H
 DTSTART:20201124T130000Z
@@ -193,18 +186,25 @@ SUMMARY:🍙猫又おかゆ: 【ドンキーコング64】バナナしか勝た�
 UID:NT44Xztj1Hg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Watch Dogs: Legion】イカれたメンバーとメインストーリーを進める編【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=0408mFHUgjo
-DURATION:PT2H
-DTSTART:20201124T130000Z
-SUMMARY:獅白ぼたん: 【Watch Dogs: Legion】イカれたメンバーとメインストーリーを進める編【獅白ぼたん/ホロライブ】
-UID:0408mFHUgjo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ゆるスタエチュード王】一番アドリブが強いやつは誰だ!!【花咲みやび/アルランディス/岸堂天真】\nhttps://www.youtube.com/watch?v=fCt5VZwbQZ0
 DURATION:PT2H
 DTSTART:20201125T130000Z
 SUMMARY:🌺花咲みやび: 【ゆるスタエチュード王】一番アドリブが強いやつは誰だ!!【花咲みやび/アルランディス/岸堂天真】
 UID:fCt5VZwbQZ0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK CRYSTAL ISLES】ラミィと恐竜とフェネック【雪花ラミィ/尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=VKK_2I2f0Io
+DURATION:PT2H
+DTSTART:20201123T130000Z
+SUMMARY:尾丸ポルカ: 【ARK CRYSTAL ISLES】ラミィと恐竜とフェネック【雪花ラミィ/尾丸ポルカ/ホロライブ】
+UID:VKK_2I2f0Io
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Watch Dogs: Legion】イカれたメンバーとメインストーリーを進める編【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=0408mFHUgjo
+DURATION:PT2H
+DTSTART:20201124T130000Z
+SUMMARY:獅白ぼたん: 【Watch Dogs: Legion】イカれたメンバーとメインストーリーを進める編【獅白ぼたん/ホロライブ】
+UID:0408mFHUgjo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】戦場のキラーマシーン【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=Nog82H-0rvE
@@ -368,11 +368,25 @@ SUMMARY:🍕アルランディス: 【朝活！Part2】Introduction net slang in
 UID:hChv7FacgJ4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:NNN DAY 24 ~!!! EVOLVING NUTS ????\nhttps://www.youtube.com/watch?v=yQbLqdBzEmE
+DURATION:PT2H
+DTSTART:20201124T135016Z
+SUMMARY:🐿Risu: NNN DAY 24 ~!!! EVOLVING NUTS ????
+UID:yQbLqdBzEmE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】酔っちゃった♡ 倒されるたびにちょびるAPEX\nhttps://www.youtube.com/watch?v=Ek0RtGU-rCo
 DURATION:PT2H
 DTSTART:20201122T163000Z
 SUMMARY:🎭アステル・レダ: 【APEX】酔っちゃった♡ 倒されるたびにちょびるAPEX
 UID:Ek0RtGU-rCo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】ダイヤ目指して！深夜のランク上げkillerrrrrrrrrrr【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=h7RMtRDYaSc
+DURATION:PT2H
+DTSTART:20201124T140000Z
+SUMMARY:🤖ロボ子さん: 【APEX】ダイヤ目指して！深夜のランク上げkillerrrrrrrrrrr【ホロライブ/ロボ子さん】
+UID:h7RMtRDYaSc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【クトゥルフ神話TRPG】ホロの奇妙な共闘【ホロライブ公式】\nhttps://www.youtube.com/watch?v=5vy2kIKmDJU
@@ -487,13 +501,6 @@ SUMMARY:❤赤井はあと: Calliope×Kiara×Haachama Collab!!! #HololiveEN
 UID:bpJPBT1IO3o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#白銀ノエル誕生祭2020】素敵な誕生日をみんなで過ごしたい✨【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=DPUF6jrWo0Q
-DURATION:PT2H
-DTSTART:20201124T120000Z
-SUMMARY:⚔白銀ノエル: 【#白銀ノエル誕生祭2020】素敵な誕生日をみんなで過ごしたい✨【白銀ノエル/ホロライブ】
-UID:DPUF6jrWo0Q
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【マインクラフト/Minecraft】絶対にわためにエリトラを取らせたい！Looking for "end" again【不知火フレア/角巻わため】\nhttps://www.youtube.com/watch?v=AUeF55TmBOo
 DURATION:PT2H
 DTSTART:20201123T130000Z
@@ -522,11 +529,11 @@ SUMMARY:💫天音かなた: 【耐久歌枠】登録者50万人、ありがと�
 UID:YRtl2GbFsYA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】ダイヤ目指して！深夜のランク上げkillerrrrrrrrrrr【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=h7RMtRDYaSc
+DESCRIPTION:【#白銀ノエル誕生祭2020】素敵な誕生日をみんなで過ごしたい✨【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=DPUF6jrWo0Q
 DURATION:PT2H
-DTSTART:20201124T140000Z
-SUMMARY:🤖ロボ子さん: 【APEX】ダイヤ目指して！深夜のランク上げkillerrrrrrrrrrr【ホロライブ/ロボ子さん】
-UID:h7RMtRDYaSc
+DTSTART:20201124T120000Z
+SUMMARY:⚔白銀ノエル: 【#白銀ノエル誕生祭2020】素敵な誕生日をみんなで過ごしたい✨【白銀ノエル/ホロライブ】
+UID:DPUF6jrWo0Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ON STAGE!収録】ブルーベリームーン(Short ver.)MV【ときのそらオリジナル楽曲】\nhttps://www.youtube.com/watch?v=0XW7d83XI_s
