@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【雑談】お泊りとかピアノセッションとか【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=RZnHxMvDibo
+DURATION:PT2H
+DTSTART:20201125T073000Z
+SUMMARY:影山シエン: 【雑談】お泊りとかピアノセッションとか【影山シエン/ホロスターズ】
+UID:RZnHxMvDibo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ゆるスタエチュード王】一番アドリブが強いやつは誰だ!!【花咲みやび/アルランディス/岸堂天真】\nhttps://www.youtube.com/watch?v=fCt5VZwbQZ0
 DURATION:PT2H
 DTSTART:20201125T130000Z
@@ -72,12 +79,5 @@ DURATION:PT2H
 DTSTART:20201125T010000Z
 SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－もう何曜日か分かりません、恐らく水曜日だと思います－【ホロスターズ/夕刻ロベル】
 UID:jnJqKApPjBg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ゼノブレイド2】初見で挑むゼノブレイド2！－物語の続きが気になりすぎて止まらない男－【ホロスターズ/夕刻ロベル】#11\nhttps://www.youtube.com/watch?v=JScgy6XlIvU
-DURATION:PT2H
-DTSTART:20201125T040000Z
-SUMMARY:🍷夕刻ロベル: 【ゼノブレイド2】初見で挑むゼノブレイド2！－物語の続きが気になりすぎて止まらない男－【ホロスターズ/夕刻ロベル】#11
-UID:JScgy6XlIvU
 END:VEVENT
 END:VCALENDAR
