@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【THANKSGIVING SPECIAL】\nhttps://www.youtube.com/watch?v=DKrM4_hc70Y
-DURATION:PT2H
-DTSTART:20201127T000000Z
-SUMMARY:Amelia: 【THANKSGIVING SPECIAL】
-UID:DKrM4_hc70Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【WATCHALONG】The Dark Knight\nhttps://www.youtube.com/watch?v=2WRA7HBcvTU
-DURATION:PT2H
-DTSTART:20201128T040000Z
-SUMMARY:Amelia: 【WATCHALONG】The Dark Knight
-UID:2WRA7HBcvTU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[ASK GURA] Super chat\, Let's catch up!\nhttps://www.youtube.com/watch?v=ey23zk5lfkM
 DURATION:PT2H
 DTSTART:20201127T013000Z
@@ -32,18 +18,39 @@ SUMMARY:Calli: 【KORONE COLLAB】Keep Talking and Nobody Explodes! JP and ENG C
 UID:q80NAQON3mg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【700K SUBS PARTY 雑談】Sleepy Reaper Says A BIG F-WORDING THANK YOU.\nhttps://www.youtube.com/watch?v=ss4xwhiA6Ik
-DURATION:PT2H
-DTSTART:20201126T154212Z
-SUMMARY:Calli: 【700K SUBS PARTY 雑談】Sleepy Reaper Says A BIG F-WORDING THANK YOU.
-UID:ss4xwhiA6Ik
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【PEKORAxKIARA】Senpai! Be my guide for the day! 【ぺこら先輩と夢のコラボ】#pekokia #ぺこキア\nhttps://www.youtube.com/watch?v=c747jYku6Eo
 DURATION:PT2H
 DTSTART:20201127T030000Z
 SUMMARY:Kiara: 【PEKORAxKIARA】Senpai! Be my guide for the day! 【ぺこら先輩と夢のコラボ】#pekokia #ぺこキア
 UID:c747jYku6Eo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【THANKSGIVING SPECIAL】\nhttps://www.youtube.com/watch?v=DKrM4_hc70Y
+DURATION:PT2H
+DTSTART:20201127T000000Z
+SUMMARY:Amelia: 【THANKSGIVING SPECIAL】
+UID:DKrM4_hc70Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【WATCHALONG】The Dark Knight\nhttps://www.youtube.com/watch?v=2WRA7HBcvTU
+DURATION:PT2H
+DTSTART:20201128T040000Z
+SUMMARY:Amelia: 【WATCHALONG】The Dark Knight
+UID:2WRA7HBcvTU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Superchat Reading】Thank you for an amazing week. 💓 #kfp #キアライブ\nhttps://www.youtube.com/watch?v=bGq3FSkLrgk
+DURATION:PT2H
+DTSTART:20201127T151000Z
+SUMMARY:Kiara: 【Superchat Reading】Thank you for an amazing week. 💓 #kfp #キアライブ
+UID:bGq3FSkLrgk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【700K SUBS PARTY 雑談】Sleepy Reaper Says A BIG F-WORDING THANK YOU.\nhttps://www.youtube.com/watch?v=ss4xwhiA6Ik
+DURATION:PT2H
+DTSTART:20201126T154212Z
+SUMMARY:Calli: 【700K SUBS PARTY 雑談】Sleepy Reaper Says A BIG F-WORDING THANK YOU.
+UID:ss4xwhiA6Ik
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【READALONG】Stream Reservation\nhttps://www.youtube.com/watch?v=Rt6aM9xYxV4
