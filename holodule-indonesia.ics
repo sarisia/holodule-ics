@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:NNN DAY 27 ~!!! NUT COUPON !!!!\nhttps://www.youtube.com/watch?v=8Cz837JEsUo
+DESCRIPTION:【日本語雑談】話そう！！うん、それだけ、よし【hololiveID】\nhttps://www.youtube.com/watch?v=PplW78AF0x0
 DURATION:PT2H
-DTSTART:20201127T140829Z
-SUMMARY:🐿Risu: NNN DAY 27 ~!!! NUT COUPON !!!!
-UID:8Cz837JEsUo
+DTSTART:20201127T130000Z
+SUMMARY:🎨Iofi: 【日本語雑談】話そう！！うん、それだけ、よし【hololiveID】
+UID:PplW78AF0x0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:PHANTASY STAR ONLINE 2! Let's See The Vast World Of PSO With Me!\nhttps://www.youtube.com/watch?v=Zd9xvvfKU2s
@@ -25,10 +25,17 @@ SUMMARY:🔮Moona: 【GTA V】Play GTA V with Moona【holoID】
 UID:O-ewWBP1kUQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【日本語雑談】話そう！！うん、それだけ、よし【hololiveID】\nhttps://www.youtube.com/watch?v=PplW78AF0x0
+DESCRIPTION:【Live Draw】Bunny\, Loli\, Oneesan【hololiveID】\nhttps://www.youtube.com/watch?v=1o2Ig1DbBiM
 DURATION:PT2H
-DTSTART:20201127T130000Z
-SUMMARY:🎨Iofi: 【日本語雑談】話そう！！うん、それだけ、よし【hololiveID】
-UID:PplW78AF0x0
+DTSTART:20201127T153500Z
+SUMMARY:🎨Iofi: 【Live Draw】Bunny\, Loli\, Oneesan【hololiveID】
+UID:1o2Ig1DbBiM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:NNN DAY 27 ~!!! NUT COUPON !!!!\nhttps://www.youtube.com/watch?v=8Cz837JEsUo
+DURATION:PT2H
+DTSTART:20201127T140829Z
+SUMMARY:🐿Risu: NNN DAY 27 ~!!! NUT COUPON !!!!
+UID:8Cz837JEsUo
 END:VEVENT
 END:VCALENDAR
