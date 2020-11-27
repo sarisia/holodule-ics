@@ -67,18 +67,18 @@ SUMMARY:🐉桐生ココ: 🔴MINECRAFT🏠 マイホーム建築・・・！HOM
 UID:IM2nIunXUDk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】エ　リ　ト　ラ　リ　ベ　ン　ジ【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=2qbv8gpqn8I
-DURATION:PT2H
-DTSTART:20201127T100000Z
-SUMMARY:💫天音かなた: 【Minecraft】エ　リ　ト　ラ　リ　ベ　ン　ジ【天音かなた/ホロライブ】
-UID:2qbv8gpqn8I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠】80万人突破までうたう！🌟Sing till I reach 800k!!【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=y9bzuJGOLaI
 DURATION:PT2H
 DTSTART:20201127T100000Z
 SUMMARY:❤赤井はあと: 【歌枠】80万人突破までうたう！🌟Sing till I reach 800k!!【ホロライブ/赤井はあと】
 UID:y9bzuJGOLaI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】エ　リ　ト　ラ　リ　ベ　ン　ジ【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=2qbv8gpqn8I
+DURATION:PT2H
+DTSTART:20201127T100000Z
+SUMMARY:💫天音かなた: 【Minecraft】エ　リ　ト　ラ　リ　ベ　ン　ジ【天音かなた/ホロライブ】
+UID:2qbv8gpqn8I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【天穂のサクナヒメ】19年目もみんなで米作り【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=x8a2g0KFspo
@@ -228,11 +228,11 @@ SUMMARY:尾丸ポルカ: 【天穂のサクナヒメ】うましかて#6【ホ�
 UID:NdfB3y8zokQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【メン限】ドント・ハングアップ映画同時視聴！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=4FNNmwWopWg
+DESCRIPTION:【Unravel Two】互いに信じて繋ぎあった先には　#1【#TOKONOSE】\nhttps://www.youtube.com/watch?v=o8wxIsrd-FI
 DURATION:PT2H
-DTSTART:20201127T140000Z
-SUMMARY:🤖ロボ子さん: 【メン限】ドント・ハングアップ映画同時視聴！【ホロライブ/ロボ子さん】
-UID:4FNNmwWopWg
+DTSTART:20201127T130000Z
+SUMMARY:👾常闇トワ: 【Unravel Two】互いに信じて繋ぎあった先には　#1【#TOKONOSE】
+UID:o8wxIsrd-FI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Dead by Daylight】深夜の癒しでっどばい！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=50DT7uxjBjs
@@ -240,6 +240,13 @@ DURATION:PT2H
 DTSTART:20201125T150000Z
 SUMMARY:👯兎田ぺこら: 【Dead by Daylight】深夜の癒しでっどばい！ぺこ！【ホロライブ/兎田ぺこら】
 UID:50DT7uxjBjs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メン限】ドント・ハングアップ映画同時視聴！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=4FNNmwWopWg
+DURATION:PT2H
+DTSTART:20201127T140000Z
+SUMMARY:🤖ロボ子さん: 【メン限】ドント・ハングアップ映画同時視聴！【ホロライブ/ロボ子さん】
+UID:4FNNmwWopWg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【昼雑】ひるざつだん 11/26【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=R1fb5XtScqE
