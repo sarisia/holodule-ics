@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:たのしかった！！って話 30min【アステル/ホロスターズ】\nhttps://www.youtube.com/watch?v=t-t4Meljxes
-DURATION:PT2H
-DTSTART:20201130T140000Z
-SUMMARY:🎭アステル・レダ: たのしかった！！って話 30min【アステル/ホロスターズ】
-UID:t-t4Meljxes
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ゲリラ枠】何か来た　ぱーと2【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=mY4to69Rilw
 DURATION:PT2H
 DTSTART:20201130T150000Z
@@ -32,6 +25,27 @@ SUMMARY:🎸奏手イヅル: 【オフ歌枠】ホロスタが弾いて、ホロ
 UID:FwLuP_VwGck
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【朝活！】Plz JP/EN Dadjoke Exchange【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=uy4wsgtX9OA
+DURATION:PT2H
+DTSTART:20201129T213000Z
+SUMMARY:🍕アルランディス: 【朝活！】Plz JP/EN Dadjoke Exchange【アルランディス/ホロスターズ】
+UID:uy4wsgtX9OA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活！Part3】Please teach me english slang and more !【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=8jc6NhfbqqY
+DURATION:PT2H
+DTSTART:20201130T213000Z
+SUMMARY:🍕アルランディス: 【朝活！Part3】Please teach me english slang and more !【アルランディス/ホロスターズ】
+UID:8jc6NhfbqqY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:たのしかった！！って話 30min【アステル/ホロスターズ】\nhttps://www.youtube.com/watch?v=t-t4Meljxes
+DURATION:PT2H
+DTSTART:20201130T140000Z
+SUMMARY:🎭アステル・レダ: たのしかった！！って話 30min【アステル/ホロスターズ】
+UID:t-t4Meljxes
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:念願のメンバーシップ紹介!!虚無すずめもいるよ!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=6o64cSBQ2O0
 DURATION:PT2H
 DTSTART:20201130T140000Z
@@ -44,12 +58,5 @@ DURATION:PT2H
 DTSTART:20201130T000000Z
 SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－週末が終わったかと思えば月末な訳で－【ホロスターズ/夕刻ロベル】
 UID:OXVQFCD3q1M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活！】Plz JP/EN Dadjoke Exchange【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=uy4wsgtX9OA
-DURATION:PT2H
-DTSTART:20201129T213000Z
-SUMMARY:🍕アルランディス: 【朝活！】Plz JP/EN Dadjoke Exchange【アルランディス/ホロスターズ】
-UID:uy4wsgtX9OA
 END:VEVENT
 END:VCALENDAR
