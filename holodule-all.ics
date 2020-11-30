@@ -74,18 +74,18 @@ SUMMARY:🌲大神ミオ: 【天穂のサクナヒメ】７年目の米作り、
 UID:jzRapZ309DA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【お悩み相談枠】モ二スタでぶっとばす！【律可/ホロスターズ】 ＃りつすた\nhttps://www.youtube.com/watch?v=7v-2iYd3xe4
-DURATION:PT2H
-DTSTART:20201129T150000Z
-SUMMARY:⚙律可: 【お悩み相談枠】モ二スタでぶっとばす！【律可/ホロスターズ】 ＃りつすた
-UID:7v-2iYd3xe4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:NNN DAY 29 ~!!! DO YOU NEED HELP FOR NUT ????\nhttps://www.youtube.com/watch?v=jOlCMqG5Ww0
 DURATION:PT2H
 DTSTART:20201129T140937Z
 SUMMARY:🐿Risu: NNN DAY 29 ~!!! DO YOU NEED HELP FOR NUT ????
 UID:jOlCMqG5Ww0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【お悩み相談枠】モ二スタでぶっとばす！【律可/ホロスターズ】 ＃りつすた\nhttps://www.youtube.com/watch?v=7v-2iYd3xe4
+DURATION:PT2H
+DTSTART:20201129T150000Z
+SUMMARY:⚙律可: 【お悩み相談枠】モ二スタでぶっとばす！【律可/ホロスターズ】 ＃りつすた
+UID:7v-2iYd3xe4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【天穂のサクナヒメ】#７　西に攻め込むサクナヒメ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=SMdPiRb6i_o
@@ -109,10 +109,10 @@ SUMMARY:🌸さくらみこ: 【配信予定ち】にゃにゃにゃにぇ！に
 UID:p0gXKP88zQg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【配信予定】ぺこぺこおおおおおおおおおおぺっこぺこおおおおおおぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=-ymGcbPL5aM
+DESCRIPTION:【Hello Neighbor】隣人がなにか隠しているみたいぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=-ymGcbPL5aM
 DURATION:PT2H
 DTSTART:20201130T130000Z
-SUMMARY:👯兎田ぺこら: 【配信予定】ぺこぺこおおおおおおおおおおぺっこぺこおおおおおおぺこ！【ホロライブ/兎田ぺこら】
+SUMMARY:👯兎田ぺこら: 【Hello Neighbor】隣人がなにか隠しているみたいぺこ！【ホロライブ/兎田ぺこら】
 UID:-ymGcbPL5aM
 END:VEVENT
 BEGIN:VEVENT
@@ -228,10 +228,10 @@ SUMMARY:Amelia: 【Titanfall 2】(∩`ω´)⊃)) Campaign
 UID:4sbnIfzxl8g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【カウントダウン歌LIVE】もうすぐ！Happy Birthday !! (12/01)【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=Fkja0yzTv-k
+DESCRIPTION:【カウントダウン歌LIVE】もうすぐ！Happy Birthday !! (12/01)【 #湊あくあ生誕祭2020 】\nhttps://www.youtube.com/watch?v=Fkja0yzTv-k
 DURATION:PT2H
 DTSTART:20201130T140000Z
-SUMMARY:⚓湊あくあ: 【カウントダウン歌LIVE】もうすぐ！Happy Birthday !! (12/01)【湊あくあ/ホロライブ】
+SUMMARY:⚓湊あくあ: 【カウントダウン歌LIVE】もうすぐ！Happy Birthday !! (12/01)【 #湊あくあ生誕祭2020 】
 UID:Fkja0yzTv-k
 END:VEVENT
 BEGIN:VEVENT
@@ -291,13 +291,6 @@ SUMMARY:🌸さくらみこ: 【Minecraft】だれもが恐れるエリート村
 UID:tQHp8t_KYXw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【WoWs】Let's Play World of Warships with me!【Moona】\nhttps://www.youtube.com/watch?v=05fVfRoW-1w
-DURATION:PT2H
-DTSTART:20201130T130000Z
-SUMMARY:🔮Moona: 【WoWs】Let's Play World of Warships with me!【Moona】
-UID:05fVfRoW-1w
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【アニメ】弱肉強食\nhttps://www.youtube.com/watch?v=y0yB6bXuf1E
 DURATION:PT2H
 DTSTART:20201129T090014Z
@@ -310,6 +303,13 @@ DURATION:PT2H
 DTSTART:20201129T090000Z
 SUMMARY:❤赤井はあと: 衝撃的!?ヲタクの私服がガチすぎる・・・【ホロライブ/赤井はあと】
 UID:Sdqlp8CGXJ4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【WoWs】Let's Play World of Warships with me!【Moona】\nhttps://www.youtube.com/watch?v=05fVfRoW-1w
+DURATION:PT2H
+DTSTART:20201130T130000Z
+SUMMARY:🔮Moona: 【WoWs】Let's Play World of Warships with me!【Moona】
+UID:05fVfRoW-1w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マイクラ】巨大建造物にむけて必要素材を集める回【獅白ぼたん視点/ホロライブ】\nhttps://www.youtube.com/watch?v=SJ80dnz_Fuo
@@ -410,10 +410,10 @@ SUMMARY:Calli: 【KARAOKE AFTER PARTY 雑談】Sleepy Reaper Hangs with the Dead
 UID:tUbpjNBApvo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【げつよる歌枠】WOWOWSINGING🎶【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=JwZiwNAHRK8
+DESCRIPTION:【げつよる歌枠】KARAOKE LIVE🎶【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=JwZiwNAHRK8
 DURATION:PT2H
 DTSTART:20201130T130000Z
-SUMMARY:💫天音かなた: 【げつよる歌枠】WOWOWSINGING🎶【天音かなた/ホロライブ】
+SUMMARY:💫天音かなた: 【げつよる歌枠】KARAOKE LIVE🎶【天音かなた/ホロライブ】
 UID:JwZiwNAHRK8
 END:VEVENT
 BEGIN:VEVENT
@@ -424,25 +424,18 @@ SUMMARY:⚔白銀ノエル: 【ゼルダの伝説BotW】ボス戦前に思い出
 UID:bCYYCCPE1nQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Superchat Reading】SUPA SUNDAY\nhttps://www.youtube.com/watch?v=4VzwxmasRds
-DURATION:PT2H
-DTSTART:20201130T040500Z
-SUMMARY:Amelia: 【Superchat Reading】SUPA SUNDAY
-UID:4VzwxmasRds
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft\\】ホロ鯖であそぶ～～～～～っ！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=hGF_riBTgOI
-DURATION:PT2H
-DTSTART:20201130T100000Z
-SUMMARY:❤赤井はあと: 【Minecraft\\】ホロ鯖であそぶ～～～～～っ！【ホロライブ/赤井はあと】
-UID:hGF_riBTgOI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Titanfall 2】Titanfall 2 ASMR\nhttps://www.youtube.com/watch?v=e4Tl8BFPmmI
 DURATION:PT2H
 DTSTART:20201130T000000Z
 SUMMARY:Amelia: 【Titanfall 2】Titanfall 2 ASMR
 UID:e4Tl8BFPmmI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Superchat Reading】SUPA SUNDAY\nhttps://www.youtube.com/watch?v=4VzwxmasRds
+DURATION:PT2H
+DTSTART:20201130T040500Z
+SUMMARY:Amelia: 【Superchat Reading】SUPA SUNDAY
+UID:4VzwxmasRds
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Outlast】山奥に隔離された精神病院へＧＯ【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=TAfrXlse80o
@@ -494,18 +487,18 @@ SUMMARY:🐏角巻わため: 【東方スペルバブル】３人でわいわい
 UID:kkzCc4RodW4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ライブ振り返り】パラレルタイムのその先へ・・・【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=ImhQ3d6Eiy4
-DURATION:PT2H
-DTSTART:20201130T120000Z
-SUMMARY:🐻ときのそら: 【ライブ振り返り】パラレルタイムのその先へ・・・【#ときのそら生放送】
-UID:ImhQ3d6Eiy4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ARK CRYSTAL ISLES】まったり雑談！夜ARK【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=PI7-yZ6ZiRI
 DURATION:PT2H
 DTSTART:20201129T150000Z
 SUMMARY:雪花ラミィ: 【ARK CRYSTAL ISLES】まったり雑談！夜ARK【雪花ラミィ/ホロライブ】
 UID:PI7-yZ6ZiRI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ライブ振り返り】パラレルタイムのその先へ・・・【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=ImhQ3d6Eiy4
+DURATION:PT2H
+DTSTART:20201130T120000Z
+SUMMARY:🐻ときのそら: 【ライブ振り返り】パラレルタイムのその先へ・・・【#ときのそら生放送】
+UID:ImhQ3d6Eiy4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】寝てない。ダンスレッスン行った。【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=eVfLU9cQSBs
