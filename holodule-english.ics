@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】 Roof Where???!?\nhttps://www.youtube.com/watch?v=4Vs1wKjNuUw
-DURATION:PT2H
-DTSTART:20201130T200000Z
-SUMMARY:Ina: 【Minecraft】 Roof Where???!?
-UID:4Vs1wKjNuUw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Finishing PPP!\nhttps://www.youtube.com/watch?v=a6fSve7RVhw
 DURATION:PT2H
 DTSTART:20201201T050500Z
@@ -18,17 +11,31 @@ SUMMARY:Amelia: 【Minecraft】Finishing PPP!
 UID:a6fSve7RVhw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【GURAxKIARA】Teaching a shark some Japanese 101! #sametori #サメトリ\nhttps://www.youtube.com/watch?v=9iQmzsQF-aI
-DURATION:PT2H
-DTSTART:20201201T030500Z
-SUMMARY:Kiara: 【GURAxKIARA】Teaching a shark some Japanese 101! #sametori #サメトリ
-UID:9iQmzsQF-aI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【FIRE EMBLEM: THREE HOUSES】TOGETHER WE ARE STRONK  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=iZS-KH46wfU
 DURATION:PT2H
 DTSTART:20201201T140000Z
 SUMMARY:Kiara: 【FIRE EMBLEM: THREE HOUSES】TOGETHER WE ARE STRONK  #kfp #キアライブ
 UID:iZS-KH46wfU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】 Roof Where???!?\nhttps://www.youtube.com/watch?v=4Vs1wKjNuUw
+DURATION:PT2H
+DTSTART:20201130T200000Z
+SUMMARY:Ina: 【Minecraft】 Roof Where???!?
+UID:4Vs1wKjNuUw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Learning Japanese】Katakana Practice + teach me teamates\nhttps://www.youtube.com/watch?v=et3Mq2bf44Y
+DURATION:PT2H
+DTSTART:20201202T040500Z
+SUMMARY:Amelia: 【Learning Japanese】Katakana Practice + teach me teamates
+UID:et3Mq2bf44Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【GURAxKIARA】Teaching a shark some Japanese 101! #sametori #サメトリ\nhttps://www.youtube.com/watch?v=9iQmzsQF-aI
+DURATION:PT2H
+DTSTART:20201201T030500Z
+SUMMARY:Kiara: 【GURAxKIARA】Teaching a shark some Japanese 101! #sametori #サメトリ
+UID:9iQmzsQF-aI
 END:VEVENT
 END:VCALENDAR
