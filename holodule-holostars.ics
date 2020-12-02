@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:メンバーシップ紹介動画【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=cZ658qUgUMM
+DURATION:PT2H
+DTSTART:20201202T141810Z
+SUMMARY:🌺花咲みやび: メンバーシップ紹介動画【花咲みやび/ホロスターズ】
+UID:cZ658qUgUMM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ゲリラ枠】何か来た　ぱーと2【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=mY4to69Rilw
 DURATION:PT2H
 DTSTART:20201130T150000Z
@@ -79,6 +86,13 @@ DURATION:PT2H
 DTSTART:20201202T213000Z
 SUMMARY:🍕アルランディス: 【朝活！】Introduction oversea many photos !【アルランディス/ホロスターズ】
 UID:plLcCTAmmQI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #アル律 】何でも解決！アル律お悩み相談所【律可/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=-BidlLwVdXk
+DURATION:PT2H
+DTSTART:20201203T110000Z
+SUMMARY:🍕アルランディス: 【 #アル律 】何でも解決！アル律お悩み相談所【律可/アルランディス/ホロスターズ】
+UID:-BidlLwVdXk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GTA5】法律を守る騎士、1分で400万ドル稼げる世界に手を出してしまう。【Part2】\nhttps://www.youtube.com/watch?v=p4eOupIYyYI
