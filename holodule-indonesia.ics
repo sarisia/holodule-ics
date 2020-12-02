@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【hololiveID】Getting Over It !!! AGAIN !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=QvhFZnpnwdc
+DESCRIPTION:DDD DAY 2 ~!!!! PINEAPPLE DOUGHNUT ????\nhttps://www.youtube.com/watch?v=FeXhw2LxQNo
 DURATION:PT2H
-DTSTART:20201202T120000Z
-SUMMARY:🐿Risu: 【hololiveID】Getting Over It !!! AGAIN !!!【Ayunda Risu】
-UID:QvhFZnpnwdc
+DTSTART:20201202T161205Z
+SUMMARY:🐿Risu: DDD DAY 2 ~!!!! PINEAPPLE DOUGHNUT ????
+UID:FeXhw2LxQNo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#いおゆず】お久しぶりのゆずるちゃんとお絵描き！約束された絵を描くぞ～！【hololiveID】\nhttps://www.youtube.com/watch?v=xp4NOnI1ZCo
+DURATION:PT2H
+DTSTART:20201202T130000Z
+SUMMARY:🎨Iofi: 【#いおゆず】お久しぶりのゆずるちゃんとお絵描き！約束された絵を描くぞ～！【hololiveID】
+UID:xp4NOnI1ZCo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GTA V】Play GTA V with Moona【holoID】\nhttps://www.youtube.com/watch?v=r_SMoRyi3ts
@@ -16,5 +23,19 @@ DURATION:PT2H
 DTSTART:20201202T131500Z
 SUMMARY:🔮Moona: 【GTA V】Play GTA V with Moona【holoID】
 UID:r_SMoRyi3ts
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololiveID】Getting Over It !!! AGAIN !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=QvhFZnpnwdc
+DURATION:PT2H
+DTSTART:20201202T120000Z
+SUMMARY:🐿Risu: 【hololiveID】Getting Over It !!! AGAIN !!!【Ayunda Risu】
+UID:QvhFZnpnwdc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Freetalk】Let's Talk about yesterday!【Moona】\nhttps://www.youtube.com/watch?v=hbmYl-RJPmU
+DURATION:PT2H
+DTSTART:20201202T160000Z
+SUMMARY:🔮Moona: 【Freetalk】Let's Talk about yesterday!【Moona】
+UID:hbmYl-RJPmU
 END:VEVENT
 END:VCALENDAR
