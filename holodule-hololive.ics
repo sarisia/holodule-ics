@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraftメサ旅行】大量のテラコッタがほしい【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=8mTErCullFw
-DURATION:PT2H
-DTSTART:20201203T100000Z
-SUMMARY:🐻ときのそら: 【Minecraftメサ旅行】大量のテラコッタがほしい【#ときのそら生放送】
-UID:8mTErCullFw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 ピアノと雑談 】あっという間に１年経つのらね～！！！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=h76of-ID1OM
 DURATION:PT2H
 DTSTART:20201204T150000Z
@@ -18,18 +11,25 @@ SUMMARY:🍬姫森ルーナ: 【 ピアノと雑談 】あっという間に１�
 UID:h76of-ID1OM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ゆるホロAmongUs】かなたん喋りすぎｗｗｗｗ【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=T0gs8s9__ec
+DESCRIPTION:スパチャ読んだりおしゃべりしたり～～🌷【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=2StY9wqbDNc
 DURATION:PT2H
-DTSTART:20201203T130000Z
-SUMMARY:💫天音かなた: 【#ゆるホロAmongUs】かなたん喋りすぎｗｗｗｗ【天音かなた/ホロライブ】
-UID:T0gs8s9__ec
+DTSTART:20201203T153000Z
+SUMMARY:🍙猫又おかゆ: スパチャ読んだりおしゃべりしたり～～🌷【ホロライブ/猫又おかゆ】
+UID:2StY9wqbDNc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ゼルダの伝説 夢をみる島】最後のダンジョン、そして…＃08【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=-FppOS_KKzw
+DESCRIPTION:【#生スバル】おやすみスバル【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=NVtaw4ql1J0
 DURATION:PT2H
-DTSTART:20201203T000000Z
-SUMMARY:雪花ラミィ: 【ゼルダの伝説 夢をみる島】最後のダンジョン、そして…＃08【雪花ラミィ/ホロライブ】
-UID:-FppOS_KKzw
+DTSTART:20201204T150000Z
+SUMMARY:🚑大空スバル: 【#生スバル】おやすみスバル【ホロライブ/大空スバル】
+UID:NVtaw4ql1J0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゆるゆる動画】NENENE~NENENE~♪【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=kiua0CTgBD0
+DURATION:PT2H
+DTSTART:20201203T160000Z
+SUMMARY:桃鈴ねね: 【ゆるゆる動画】NENENE~NENENE~♪【桃鈴ねね/ホロライブ】
+UID:kiua0CTgBD0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #アキロゼ新衣装  】お披露目!!Akirose NEW Costume!【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=1f2nexHjlxM
@@ -39,6 +39,13 @@ SUMMARY:🍎アキロゼ: 【 #アキロゼ新衣装  】お披露目!!Akirose N
 UID:1f2nexHjlxM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:毎週金曜Twitch映画同時視聴のお知らせ💓🎥\nhttps://www.youtube.com/watch?v=pc4kW_F7kaE
+DURATION:PT2H
+DTSTART:20201204T133000Z
+SUMMARY:🌸さくらみこ: 毎週金曜Twitch映画同時視聴のお知らせ💓🎥
+UID:pc4kW_F7kaE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【PEC-MEN】やべぇゲーム見つけたで！(最後にお知らせあり！)【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=NBJncbYPDs8
 DURATION:PT2H
 DTSTART:20201204T100000Z
@@ -46,11 +53,11 @@ SUMMARY:🌸さくらみこ: 【PEC-MEN】やべぇゲーム見つけたで！(�
 UID:NBJncbYPDs8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#生スバル】yabai【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=XirNF9RzvIs
+DESCRIPTION:【ARK CRYSTAL ISLES】ターキーつよい【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=IUkysdmDcNw
 DURATION:PT2H
-DTSTART:20201203T100000Z
-SUMMARY:🚑大空スバル: 【#生スバル】yabai【ホロライブ/大空スバル】
-UID:XirNF9RzvIs
+DTSTART:20201204T100000Z
+SUMMARY:尾丸ポルカ: 【ARK CRYSTAL ISLES】ターキーつよい【尾丸ポルカ/ホロライブ】
+UID:IUkysdmDcNw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 桃太郎電鉄 ～昭和 平成 令和も定番！～ 】ぼっちで100年耐久に挑戦するのら！21年目～25年目【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=ijA_h-pYUFA
@@ -60,6 +67,13 @@ SUMMARY:🍬姫森ルーナ: 【 桃太郎電鉄 ～昭和 平成 令和も定�
 UID:ijA_h-pYUFA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【チラ見せ】この世界ではラミィが法律なので……【会員限定公式番組より】\nhttps://www.youtube.com/watch?v=_wqSFIZW3Xc
+DURATION:PT2H
+DTSTART:20201204T082259Z
+SUMMARY:ホロライブ: 【チラ見せ】この世界ではラミィが法律なので……【会員限定公式番組より】
+UID:_wqSFIZW3Xc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:うまうまっあー！\nhttps://www.youtube.com/watch?v=Vh2mf8wDbHs
 DURATION:PT2H
 DTSTART:20201204T114126Z
@@ -67,25 +81,18 @@ SUMMARY:🌽白上フブキ: うまうまっあー！
 UID:Vh2mf8wDbHs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ゲリラ雑談】深夜ののんびりタイムだ～～い！【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=tu_RC1OtTRY
+DESCRIPTION:【Thief Simulator】脱・強盗‼【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=BiT9zyNPvDk
 DURATION:PT2H
-DTSTART:20201202T170000Z
-SUMMARY:🍙猫又おかゆ: 【ゲリラ雑談】深夜ののんびりタイムだ～～い！【ホロライブ/猫又おかゆ】
-UID:tu_RC1OtTRY
+DTSTART:20201204T130000Z
+SUMMARY:☄星街すいせい: 【Thief Simulator】脱・強盗‼【ホロライブ / 星街すいせい】
+UID:BiT9zyNPvDk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マイクラ】てんと それは 君が見た光 【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=QQRrttvZ8Ms
+DESCRIPTION:【ドンキーコング64】今日はゾゾゾーキャッスルに行く！＃6【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=41u45QWOMH4
 DURATION:PT2H
-DTSTART:20201203T020000Z
-SUMMARY:尾丸ポルカ: 【マイクラ】てんと それは 君が見た光 【尾丸ポルカ/ホロライブ】
-UID:QQRrttvZ8Ms
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【メンバー限定】激レア雑談！誕生日を終えて・・・・！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=epNqqdUyzPM
-DURATION:PT2H
-DTSTART:20201204T150000Z
-SUMMARY:⚓湊あくあ: 【メンバー限定】激レア雑談！誕生日を終えて・・・・！【湊あくあ/ホロライブ】
-UID:epNqqdUyzPM
+DTSTART:20201204T103000Z
+SUMMARY:🍙猫又おかゆ: 【ドンキーコング64】今日はゾゾゾーキャッスルに行く！＃6【ホロライブ/猫又おかゆ】
+UID:41u45QWOMH4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 RFA対決 】勝ち＾＾✌【姫森ルーナ/夏色まつり】\nhttps://www.youtube.com/watch?v=w2ydtA7CTPM
@@ -95,25 +102,18 @@ SUMMARY:🏮夏色まつり: 【 RFA対決 】勝ち＾＾✌【姫森ルーナ/
 UID:w2ydtA7CTPM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Phasmophobia】LV１１７幽霊調査員きーつねのソロ調査!!【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=hcwMePjiEus
+DESCRIPTION:【歌枠】久しぶりの歌枠！！！発散するぞおぉぉぉ！！！\nhttps://www.youtube.com/watch?v=JTVA3yn2GyU
 DURATION:PT2H
-DTSTART:20201203T103000Z
-SUMMARY:🌽白上フブキ: 【Phasmophobia】LV１１７幽霊調査員きーつねのソロ調査!!【ホロライブ/白上フブキ】
-UID:hcwMePjiEus
+DTSTART:20201204T140000Z
+SUMMARY:👿百鬼あやめ: 【歌枠】久しぶりの歌枠！！！発散するぞおぉぉぉ！！！
+UID:JTVA3yn2GyU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ゆるホロAmongUs】Impostor率0％の宇宙船長を信じて【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=LICZWq0nQtI
+DESCRIPTION:【歌枠】40万人まで歌い続けろ！🎤Aim! 400\,000 people! sing【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=ou8DmIc0qx8
 DURATION:PT2H
-DTSTART:20201203T130000Z
-SUMMARY:🏴☠宝鐘マリン: 【#ゆるホロAmongUs】Impostor率0％の宇宙船長を信じて【ホロライブ/宝鐘マリン】
-UID:LICZWq0nQtI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【天穂のサクナヒメ】大事に育てたお米を収穫じゃ！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=Nmy-QgJ8dsk
-DURATION:PT2H
-DTSTART:20201203T093000Z
-SUMMARY:🐏角巻わため: 【天穂のサクナヒメ】大事に育てたお米を収穫じゃ！【角巻わため/ホロライブ４期生】
-UID:Nmy-QgJ8dsk
+DTSTART:20201204T080000Z
+SUMMARY:🔥不知火フレア: 【歌枠】40万人まで歌い続けろ！🎤Aim! 400\,000 people! sing【ホロライブ/不知火フレア】
+UID:ou8DmIc0qx8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【お礼雑談】誕生日のスパチャお礼配信🌸part.2【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=WGJIl9JBgec
@@ -123,6 +123,13 @@ SUMMARY:⚔白銀ノエル: 【お礼雑談】誕生日のスパチャお礼配�
 UID:WGJIl9JBgec
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ついに100万人...みんなで見届けたい！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=D9mQf56453I
+DURATION:PT2H
+DTSTART:20201204T110000Z
+SUMMARY:👯兎田ぺこら: ついに100万人...みんなで見届けたい！！！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:D9mQf56453I
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【復帰配信】ただいま！悪魔の保健医帰還‼【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=hPGEQs0yGZ0
 DURATION:PT2H
 DTSTART:20201205T100000Z
@@ -130,11 +137,11 @@ SUMMARY:💋癒月ちょこ: 【復帰配信】ただいま！悪魔の保健医
 UID:hPGEQs0yGZ0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 桃太郎電鉄 ～昭和 平成 令和も定番！～ 】ぼっちで100年耐久に挑戦するのら！17年目～20年目【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=2eqHmxFkCZI
+DESCRIPTION:【歌枠】恋愛ソング縛りでガチ恋させるッ！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=vf2E5gmzf_I
 DURATION:PT2H
-DTSTART:20201202T160000Z
-SUMMARY:🍬姫森ルーナ: 【 桃太郎電鉄 ～昭和 平成 令和も定番！～ 】ぼっちで100年耐久に挑戦するのら！17年目～20年目【姫森ルーナ/ホロライブ】
-UID:2eqHmxFkCZI
+DTSTART:20201204T120000Z
+SUMMARY:🏮夏色まつり: 【歌枠】恋愛ソング縛りでガチ恋させるッ！【ホロライブ/夏色まつり】
+UID:vf2E5gmzf_I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】わあああ！！マイクラ生活！！！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=UMeeFWSpGX0
@@ -142,6 +149,20 @@ DURATION:PT2H
 DTSTART:20201204T073000Z
 SUMMARY:🦋潤羽るしあ: 【Minecraft】わあああ！！マイクラ生活！！！【潤羽るしあ/ホロライブ】
 UID:UMeeFWSpGX0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:最近たのしい事いっぱいあったからみんなに話したい👀✨\nhttps://www.youtube.com/watch?v=7-MQgtH1m4g
+DURATION:PT2H
+DTSTART:20201204T143000Z
+SUMMARY:🌲大神ミオ: 最近たのしい事いっぱいあったからみんなに話したい👀✨
+UID:7-MQgtH1m4g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ローゼンメイデン】聖少女領域/coverd Aki Rosenthal【歌ってみた/4K】\nhttps://www.youtube.com/watch?v=3y5-Fl2ExIA
+DURATION:PT2H
+DTSTART:20201204T150000Z
+SUMMARY:🍎アキロゼ: 【ローゼンメイデン】聖少女領域/coverd Aki Rosenthal【歌ってみた/4K】
+UID:3y5-Fl2ExIA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ご報告】オーストラリア留学卒業しました！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=Fcs4T14YXHw
@@ -165,202 +186,6 @@ SUMMARY:🏮夏色まつり: 【60 Seconds!】世紀末でも充実した毎日�
 UID:ikNzIO0B1Vw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【LITTLE FRIENDS】MAYUGEとねねの雑談【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=_n-ML3_b0-0
-DURATION:PT2H
-DTSTART:20201204T030000Z
-SUMMARY:桃鈴ねね: 【LITTLE FRIENDS】MAYUGEとねねの雑談【桃鈴ねね/ホロライブ】
-UID:_n-ML3_b0-0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ゆるホロAmongUs】宇宙版ホロライブ ー嘘をついたりつかなかったりー【獅白ぼたん視点/ホロライブ】\nhttps://www.youtube.com/watch?v=kVpNLChf-YU
-DURATION:PT2H
-DTSTART:20201203T130000Z
-SUMMARY:獅白ぼたん: 【#ゆるホロAmongUs】宇宙版ホロライブ ー嘘をついたりつかなかったりー【獅白ぼたん視点/ホロライブ】
-UID:kVpNLChf-YU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:スパチャ読んだりおしゃべりしたり～～🌷【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=2StY9wqbDNc
-DURATION:PT2H
-DTSTART:20201203T153000Z
-SUMMARY:🍙猫又おかゆ: スパチャ読んだりおしゃべりしたり～～🌷【ホロライブ/猫又おかゆ】
-UID:2StY9wqbDNc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【】おやすみスバル【】\nhttps://www.youtube.com/watch?v=NVtaw4ql1J0
-DURATION:PT2H
-DTSTART:20201204T150000Z
-SUMMARY:🚑大空スバル: 【】おやすみスバル【】
-UID:NVtaw4ql1J0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ゆるゆる動画】NENENE~NENENE~♪【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=kiua0CTgBD0
-DURATION:PT2H
-DTSTART:20201203T160000Z
-SUMMARY:桃鈴ねね: 【ゆるゆる動画】NENENE~NENENE~♪【桃鈴ねね/ホロライブ】
-UID:kiua0CTgBD0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Phasmophobia】唯一ホラーが苦手なJKがプロ幽霊調査隊に強制送還！？【白上フブキ/夏色まつり】\nhttps://www.youtube.com/watch?v=9yS6O2ckzH8
-DURATION:PT2H
-DTSTART:20201202T160000Z
-SUMMARY:🏮夏色まつり: 【Phasmophobia】唯一ホラーが苦手なJKがプロ幽霊調査隊に強制送還！？【白上フブキ/夏色まつり】
-UID:9yS6O2ckzH8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:毎週金曜Twitch映画同時視聴のお知らせ💓🎥\nhttps://www.youtube.com/watch?v=pc4kW_F7kaE
-DURATION:PT2H
-DTSTART:20201204T133000Z
-SUMMARY:🌸さくらみこ: 毎週金曜Twitch映画同時視聴のお知らせ💓🎥
-UID:pc4kW_F7kaE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マインクラフト/Minecraft】深夜マイクラが始まる☽It's midnight minecraft time【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=79vXYJYWPVc
-DURATION:PT2H
-DTSTART:20201203T143000Z
-SUMMARY:🔥不知火フレア: 【マインクラフト/Minecraft】深夜マイクラが始まる☽It's midnight minecraft time【ホロライブ/不知火フレア】
-UID:79vXYJYWPVc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARK CRYSTAL ISLES】ターキーつよい【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=IUkysdmDcNw
-DURATION:PT2H
-DTSTART:20201204T100000Z
-SUMMARY:尾丸ポルカ: 【ARK CRYSTAL ISLES】ターキーつよい【尾丸ポルカ/ホロライブ】
-UID:IUkysdmDcNw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【大乱闘スマッシュブラザーズ】みんなと戦う！参加おｋ【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=J4KZLV5Mavk
-DURATION:PT2H
-DTSTART:20201203T090000Z
-SUMMARY:🦋潤羽るしあ: 【大乱闘スマッシュブラザーズ】みんなと戦う！参加おｋ【潤羽るしあ/ホロライブ】
-UID:J4KZLV5Mavk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Good Job!】PERFECT JOOOOB【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=tK0-tUN1Wy8
-DURATION:PT2H
-DTSTART:20201203T110000Z
-SUMMARY:桃鈴ねね: 【Good Job!】PERFECT JOOOOB【桃鈴ねね/ホロライブ】
-UID:tK0-tUN1Wy8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【天穂のサクナヒメ】あげすぎた栄養を解き放ってからが本気だす😨Be careful of fertilizer#4【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=-HVsnMQFaIs
-DURATION:PT2H
-DTSTART:20201202T150000Z
-SUMMARY:🔥不知火フレア: 【天穂のサクナヒメ】あげすぎた栄養を解き放ってからが本気だす😨Be careful of fertilizer#4【ホロライブ/不知火フレア】
-UID:-HVsnMQFaIs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#湊あくあVRホラー】恐怖度Max!?あのVRホラーに初挑戦……！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=oOqJqusup04
-DURATION:PT2H
-DTSTART:20201203T120000Z
-SUMMARY:⚓湊あくあ: 【#湊あくあVRホラー】恐怖度Max!?あのVRホラーに初挑戦……！【湊あくあ/ホロライブ】
-UID:oOqJqusup04
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】久しぶりに歌っちゃうもんね～～！！【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=fqZ2qvu10tk
-DURATION:PT2H
-DTSTART:20201203T100000Z
-SUMMARY:🍙猫又おかゆ: 【歌枠】久しぶりに歌っちゃうもんね～～！！【ホロライブ/猫又おかゆ】
-UID:fqZ2qvu10tk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ゆるホロAmongUS】人畜無害な狐は今日も人畜無害なのか？【白上フブキ視点】\nhttps://www.youtube.com/watch?v=5ELqX7qX-KY
-DURATION:PT2H
-DTSTART:20201203T130000Z
-SUMMARY:🌽白上フブキ: 【#ゆるホロAmongUS】人畜無害な狐は今日も人畜無害なのか？【白上フブキ視点】
-UID:5ELqX7qX-KY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【チラ見せ】この世界ではラミィが法律なので……【会員限定公式番組より】\nhttps://www.youtube.com/watch?v=_wqSFIZW3Xc
-DURATION:PT2H
-DTSTART:20201204T082259Z
-SUMMARY:ホロライブ: 【チラ見せ】この世界ではラミィが法律なので……【会員限定公式番組より】
-UID:_wqSFIZW3Xc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Thief Simulator】脱・強盗‼【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=BiT9zyNPvDk
-DURATION:PT2H
-DTSTART:20201204T130000Z
-SUMMARY:☄星街すいせい: 【Thief Simulator】脱・強盗‼【ホロライブ / 星街すいせい】
-UID:BiT9zyNPvDk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【メンバーシップ限定/同時視聴】映画「ラヂオの時間」本番中に台本がわかってしまう！？【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=CPsnvOgfA1s
-DURATION:PT2H
-DTSTART:20201204T150000Z
-SUMMARY:🔥不知火フレア: 【メンバーシップ限定/同時視聴】映画「ラヂオの時間」本番中に台本がわかってしまう！？【不知火フレア/ホロライブ】
-UID:CPsnvOgfA1s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ゆるホロAmongUs / みこ視点】NO　SUS･･･みこはポンじゃにぇ！！！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=VLqi4LrQWYU
-DURATION:PT2H
-DTSTART:20201203T130000Z
-SUMMARY:🌸さくらみこ: 【#ゆるホロAmongUs / みこ視点】NO　SUS･･･みこはポンじゃにぇ！！！！！！【ホロライブ/さくらみこ】
-UID:VLqi4LrQWYU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ドンキーコング64】今日はゾゾゾーキャッスルに行く！＃6【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=41u45QWOMH4
-DURATION:PT2H
-DTSTART:20201204T103000Z
-SUMMARY:🍙猫又おかゆ: 【ドンキーコング64】今日はゾゾゾーキャッスルに行く！＃6【ホロライブ/猫又おかゆ】
-UID:41u45QWOMH4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】久しぶりの歌枠！！！発散するぞおぉぉぉ！！！\nhttps://www.youtube.com/watch?v=JTVA3yn2GyU
-DURATION:PT2H
-DTSTART:20201204T140000Z
-SUMMARY:👿百鬼あやめ: 【歌枠】久しぶりの歌枠！！！発散するぞおぉぉぉ！！！
-UID:JTVA3yn2GyU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ゆるホロAmongUs 】初めてのAmongUs！！You SUS！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=Sa-kE9TkJ9g
-DURATION:PT2H
-DTSTART:20201203T130000Z
-SUMMARY:🌙紫咲シオン: 【#ゆるホロAmongUs 】初めてのAmongUs！！You SUS！！【ホロライブ/紫咲シオン】
-UID:Sa-kE9TkJ9g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】40万人まで歌い続けろ！🎤Aim! 400\,000 people! sing【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=ou8DmIc0qx8
-DURATION:PT2H
-DTSTART:20201204T080000Z
-SUMMARY:🔥不知火フレア: 【歌枠】40万人まで歌い続けろ！🎤Aim! 400\,000 people! sing【ホロライブ/不知火フレア】
-UID:ou8DmIc0qx8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ついに100万人...みんなで見届けたい！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=D9mQf56453I
-DURATION:PT2H
-DTSTART:20201204T110000Z
-SUMMARY:👯兎田ぺこら: ついに100万人...みんなで見届けたい！！！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:D9mQf56453I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】恋愛ソング縛りでガチ恋させるッ！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=vf2E5gmzf_I
-DURATION:PT2H
-DTSTART:20201204T120000Z
-SUMMARY:🏮夏色まつり: 【歌枠】恋愛ソング縛りでガチ恋させるッ！【ホロライブ/夏色まつり】
-UID:vf2E5gmzf_I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Among Us】視聴者参加型ですなのだ【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=qBZsqZ3FIhw
-DURATION:PT2H
-DTSTART:20201203T040000Z
-SUMMARY:💫天音かなた: 【Among Us】視聴者参加型ですなのだ【天音かなた/ホロライブ】
-UID:qBZsqZ3FIhw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ローゼンメイデン】聖少女領域/coverd Aki Rosenthal【歌ってみた/4K】\nhttps://www.youtube.com/watch?v=3y5-Fl2ExIA
-DURATION:PT2H
-DTSTART:20201204T150000Z
-SUMMARY:🍎アキロゼ: 【ローゼンメイデン】聖少女領域/coverd Aki Rosenthal【歌ってみた/4K】
-UID:3y5-Fl2ExIA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ころね視点】犬です【#ゆるホロAmongUs】\nhttps://www.youtube.com/watch?v=wtEqQ2HS08U
-DURATION:PT2H
-DTSTART:20201203T130000Z
-SUMMARY:🥐戌神ころね: 【ころね視点】犬です【#ゆるホロAmongUs】
-UID:wtEqQ2HS08U
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 RFA対決 】#フェスティバルーナ 負けるって思うのらじゃん…？？✨真の力を魅せるのら！【姫森ルーナ/夏色まつり/ホロライブ】\nhttps://www.youtube.com/watch?v=2EslJNvd7JU
 DURATION:PT2H
 DTSTART:20201204T100000Z
@@ -368,31 +193,17 @@ SUMMARY:🍬姫森ルーナ: 【 RFA対決 】#フェスティバルーナ 負�
 UID:2EslJNvd7JU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:最近たのしい事いっぱいあったからみんなに話したい👀✨\nhttps://www.youtube.com/watch?v=7-MQgtH1m4g
+DESCRIPTION:【LITTLE FRIENDS】MAYUGEとねねの雑談【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=_n-ML3_b0-0
 DURATION:PT2H
-DTSTART:20201204T143000Z
-SUMMARY:🌲大神ミオ: 最近たのしい事いっぱいあったからみんなに話したい👀✨
-UID:7-MQgtH1m4g
+DTSTART:20201204T030000Z
+SUMMARY:桃鈴ねね: 【LITTLE FRIENDS】MAYUGEとねねの雑談【桃鈴ねね/ホロライブ】
+UID:_n-ML3_b0-0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ゆるホロAmongUs】るんるんるん～🎵【猫又おかゆ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=lSc1C06SAzY
+DESCRIPTION:【Minecraft】まった深夜の家具作り【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=P8tcJ-muWKA
 DURATION:PT2H
-DTSTART:20201203T130000Z
-SUMMARY:🍙猫又おかゆ: 【#ゆるホロAmongUs】るんるんるん～🎵【猫又おかゆ視点/ホロライブ】
-UID:lSc1C06SAzY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ゆるホロAmongUs】狼だけど、嘘つかない（つけない）【大神ミオ視点】\nhttps://www.youtube.com/watch?v=JeXsRIo64Ro
-DURATION:PT2H
-DTSTART:20201203T130000Z
-SUMMARY:🌲大神ミオ: 【#ゆるホロAmongUs】狼だけど、嘘つかない（つけない）【大神ミオ視点】
-UID:JeXsRIo64Ro
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Moonlighter】1つ目の洞窟クリア目指しながらアイテム売りさばくぞい！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=FUbnK-XI_WU
-DURATION:PT2H
-DTSTART:20201203T040000Z
-SUMMARY:獅白ぼたん: 【Moonlighter】1つ目の洞窟クリア目指しながらアイテム売りさばくぞい！【獅白ぼたん/ホロライブ】
-UID:FUbnK-XI_WU
+DTSTART:20201204T150000Z
+SUMMARY:雪花ラミィ: 【Minecraft】まった深夜の家具作り【雪花ラミィ/ホロライブ】
+UID:P8tcJ-muWKA
 END:VEVENT
 END:VCALENDAR
