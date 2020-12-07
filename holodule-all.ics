@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【APEX】スパレジェを見届けてカジュアルへ向かう！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=ebFrd7Rrs44
-DURATION:PT2H
-DTSTART:20201206T140000Z
-SUMMARY:🏮夏色まつり: 【APEX】スパレジェを見届けてカジュアルへ向かう！【ホロライブ/夏色まつり】
-UID:ebFrd7Rrs44
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Phasmophobia】 Hunting the supernatural with the supernatural (w/ Anya & Ollie) 【holoID gen 2】\nhttps://www.youtube.com/watch?v=XHdZUiBNxso
 DURATION:PT2H
 DTSTART:20201207T083000Z
 SUMMARY:Reine: 【Phasmophobia】 Hunting the supernatural with the supernatural (w/ Anya & Ollie) 【holoID gen 2】
 UID:XHdZUiBNxso
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】スパレジェを見届けてカジュアルへ向かう！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=ebFrd7Rrs44
+DURATION:PT2H
+DTSTART:20201206T140000Z
+SUMMARY:🏮夏色まつり: 【APEX】スパレジェを見届けてカジュアルへ向かう！【ホロライブ/夏色まつり】
+UID:ebFrd7Rrs44
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Superchat Reading】SUPA SUNDAY\nhttps://www.youtube.com/watch?v=hLMCvW96564
@@ -72,6 +72,13 @@ DURATION:PT2H
 DTSTART:20201206T020000Z
 SUMMARY:🔥不知火フレア: 【お礼雑談】朝雑談とスパチャお礼☀ morning talk and super chat【ホロライブ/不知火フレア】
 UID:WFvkZE4kAd0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【はいしんよてち！】ねんねんころりぃ～よ～にぇ【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=L4r1lLX0-Ew
+DURATION:PT2H
+DTSTART:20201207T140000Z
+SUMMARY:🌸さくらみこ: 【はいしんよてち！】ねんねんころりぃ～よ～にぇ【ホロライブ/さくらみこ】
+UID:L4r1lLX0-Ew
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】～最高にご機嫌な朝活　The best morning activity～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=LlkSqYN_lCM
@@ -165,13 +172,6 @@ SUMMARY:Ina: 【DRAWING】 Gesture Drawing + Doodle #9
 UID:Rifc9Mr4FIw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MANGA READING】Hello\, Dead Beats. I'm Dad. Was That Okay? #HololiveEnglish\nhttps://www.youtube.com/watch?v=r3Ottnh8T0Q
-DURATION:PT2H
-DTSTART:20201207T073005Z
-SUMMARY:Calli: 【MANGA READING】Hello\, Dead Beats. I'm Dad. Was That Okay? #HololiveEnglish
-UID:r3Ottnh8T0Q
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 #04 桃太郎電鉄 ～昭和 平成 令和も定番！～ 】ぼっちで100年耐久に挑戦するのら！26年目～32年目【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=H_q_hXy2JHo
 DURATION:PT2H
 DTSTART:20201205T150000Z
@@ -184,6 +184,13 @@ DURATION:PT2H
 DTSTART:20201207T010002Z
 SUMMARY:IDholo: Senin Pantun holoID #2 + Behind the Scene
 UID:MwIBHochJ_g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活！Part3】Introduction net slang in japan !【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=ymjIjhLjoFU
+DURATION:PT2H
+DTSTART:20201207T213000Z
+SUMMARY:🍕アルランディス: 【朝活！Part3】Introduction net slang in japan !【アルランディス/ホロスターズ】
+UID:ymjIjhLjoFU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#2【ピクミン3 DX】 やるぞ🔥【奏手イヅル】\nhttps://www.youtube.com/watch?v=MpPCYf6lVSk
@@ -233,6 +240,13 @@ DURATION:PT2H
 DTSTART:20201206T144501Z
 SUMMARY:IDholo: 【#holoIDebut】Terima kasih sudah menemani debut mereka! (Debut PV with Voice!)
 UID:OqDb-RQ77fo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ドンキーコング64】ノーティを落とす落とす落とす＃7【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=G0tEdVmsPrg
+DURATION:PT2H
+DTSTART:20201207T130000Z
+SUMMARY:🍙猫又おかゆ: 【ドンキーコング64】ノーティを落とす落とす落とす＃7【ホロライブ/猫又おかゆ】
+UID:G0tEdVmsPrg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SMASH】Practice Time!\nhttps://www.youtube.com/watch?v=-nqrS-gHB9Q
@@ -310,6 +324,13 @@ DURATION:PT2H
 DTSTART:20201207T130000Z
 SUMMARY:🍕アルランディス: 【作戦会議】仙台に旅行に行きます！おすすめの場所や食べ物教えて！【アルランディス/ホロスターズ】
 UID:-COh7Xryrz4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【はいしんよてい💕】【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=gBDUngmUbew
+DURATION:PT2H
+DTSTART:20201207T150000Z
+SUMMARY:🏴☠宝鐘マリン: 【はいしんよてい💕】【ホロライブ/宝鐘マリン】
+UID:gBDUngmUbew
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【アニメ】怪獣の降ろし方\nhttps://www.youtube.com/watch?v=ljZwKRVrMps
