@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#ホロの伝言ゲーム】メンバーに伝えろ！ホロの伝言ゲーム【ホロライブ】\nhttps://www.youtube.com/watch?v=qZmBM1JIvv8
-DURATION:PT2H
-DTSTART:20201206T120000Z
-SUMMARY:🌽白上フブキ: 【#ホロの伝言ゲーム】メンバーに伝えろ！ホロの伝言ゲーム【ホロライブ】
-UID:qZmBM1JIvv8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】スパレジェを見届けてカジュアルへ向かう！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=ebFrd7Rrs44
 DURATION:PT2H
 DTSTART:20201206T140000Z
@@ -18,46 +11,11 @@ SUMMARY:🏮夏色まつり: 【APEX】スパレジェを見届けてカジュ�
 UID:ebFrd7Rrs44
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マイクラ】no plan 【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=Ztgk30jtp4w
-DURATION:PT2H
-DTSTART:20201206T083000Z
-SUMMARY:尾丸ポルカ: 【マイクラ】no plan 【尾丸ポルカ/ホロライブ】
-UID:Ztgk30jtp4w
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【マリカ8DX】叫んだら負け!!!【ホロライブ/星街すいせい】\nhttps://www.youtube.com/watch?v=KMt4kyU6ijE
 DURATION:PT2H
 DTSTART:20201206T110000Z
 SUMMARY:☄星街すいせい: 【マリカ8DX】叫んだら負け!!!【ホロライブ/星街すいせい】
 UID:KMt4kyU6ijE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:悲しみの雑談配信\nhttps://www.youtube.com/watch?v=GSwv15Nd8Ng
-DURATION:PT2H
-DTSTART:20201206T143000Z
-SUMMARY:🥐戌神ころね: 悲しみの雑談配信
-UID:GSwv15Nd8Ng
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】ねねは食べます！！【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=VfjEVeduYjw
-DURATION:PT2H
-DTSTART:20201207T030000Z
-SUMMARY:桃鈴ねね: 【雑談】ねねは食べます！！【桃鈴ねね/ホロライブ】
-UID:VfjEVeduYjw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ＡＰＥＸ】へなちょこ悪魔のリハビリＡＰＥＸ【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=4yY6_clIF-Q
-DURATION:PT2H
-DTSTART:20201206T030000Z
-SUMMARY:💋癒月ちょこ: 【ＡＰＥＸ】へなちょこ悪魔のリハビリＡＰＥＸ【ホロライブ/癒月ちょこ】
-UID:4yY6_clIF-Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】みんなとお話しながらスパチャお礼させてください！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=mQB_e4VmpUk
-DURATION:PT2H
-DTSTART:20201206T140000Z
-SUMMARY:🐏角巻わため: 【雑談】みんなとお話しながらスパチャお礼させてください！【角巻わため/ホロライブ４期生】
-UID:mQB_e4VmpUk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】600\,000人目指して歌う！Singing till reach 600k!!!【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=xmEOcbXfelY
@@ -93,20 +51,6 @@ DURATION:PT2H
 DTSTART:20201207T120000Z
 SUMMARY:🌲大神ミオ: 大神ミオ２周年記念３Dライブ【2nd anniversary】
 UID:mmUVwNut2-Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #04 桃太郎電鉄 ～昭和 平成 令和も定番！～ 】ぼっちで100年耐久に挑戦するのら！26年目～32年目【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=H_q_hXy2JHo
-DURATION:PT2H
-DTSTART:20201205T150000Z
-SUMMARY:🍬姫森ルーナ: 【 #04 桃太郎電鉄 ～昭和 平成 令和も定番！～ 】ぼっちで100年耐久に挑戦するのら！26年目～32年目【姫森ルーナ/ホロライブ】
-UID:H_q_hXy2JHo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【予定地／雑談】あびゃびゃびゃびゃびゃ～！！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=Skzqsp9vEEw
-DURATION:PT2H
-DTSTART:20201207T110000Z
-SUMMARY:⚔白銀ノエル: 【予定地／雑談】あびゃびゃびゃびゃびゃ～！！【白銀ノエル/ホロライブ】
-UID:Skzqsp9vEEw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【アニメ】怪獣の降ろし方\nhttps://www.youtube.com/watch?v=ljZwKRVrMps
@@ -165,6 +109,76 @@ SUMMARY:🌙紫咲シオン: 【誕生日カウントダウン】もうすぐBir
 UID:ZWgDzimmYgA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】深夜マイクラ！ペコの地上絵作るぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=1zv-eRbIrc8
+DURATION:PT2H
+DTSTART:20201206T150000Z
+SUMMARY:👯兎田ぺこら: 【Minecraft】深夜マイクラ！ペコの地上絵作るぺこ！【ホロライブ/兎田ぺこら】
+UID:1zv-eRbIrc8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゆるゆる動画】Nn~~~PA!【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=jlB2y_3h18g
+DURATION:PT2H
+DTSTART:20201205T150000Z
+SUMMARY:桃鈴ねね: 【ゆるゆる動画】Nn~~~PA!【桃鈴ねね/ホロライブ】
+UID:jlB2y_3h18g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロの伝言ゲーム】メンバーに伝えろ！ホロの伝言ゲーム【ホロライブ】\nhttps://www.youtube.com/watch?v=qZmBM1JIvv8
+DURATION:PT2H
+DTSTART:20201206T120000Z
+SUMMARY:🌽白上フブキ: 【#ホロの伝言ゲーム】メンバーに伝えろ！ホロの伝言ゲーム【ホロライブ】
+UID:qZmBM1JIvv8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マイクラ】no plan 【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=Ztgk30jtp4w
+DURATION:PT2H
+DTSTART:20201206T083000Z
+SUMMARY:尾丸ポルカ: 【マイクラ】no plan 【尾丸ポルカ/ホロライブ】
+UID:Ztgk30jtp4w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:悲しみの雑談配信\nhttps://www.youtube.com/watch?v=GSwv15Nd8Ng
+DURATION:PT2H
+DTSTART:20201206T143000Z
+SUMMARY:🥐戌神ころね: 悲しみの雑談配信
+UID:GSwv15Nd8Ng
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】ねねは食べます！！【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=VfjEVeduYjw
+DURATION:PT2H
+DTSTART:20201207T030000Z
+SUMMARY:桃鈴ねね: 【雑談】ねねは食べます！！【桃鈴ねね/ホロライブ】
+UID:VfjEVeduYjw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ＡＰＥＸ】へなちょこ悪魔のリハビリＡＰＥＸ【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=4yY6_clIF-Q
+DURATION:PT2H
+DTSTART:20201206T030000Z
+SUMMARY:💋癒月ちょこ: 【ＡＰＥＸ】へなちょこ悪魔のリハビリＡＰＥＸ【ホロライブ/癒月ちょこ】
+UID:4yY6_clIF-Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】みんなとお話しながらスパチャお礼させてください！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=mQB_e4VmpUk
+DURATION:PT2H
+DTSTART:20201206T140000Z
+SUMMARY:🐏角巻わため: 【雑談】みんなとお話しながらスパチャお礼させてください！【角巻わため/ホロライブ４期生】
+UID:mQB_e4VmpUk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #04 桃太郎電鉄 ～昭和 平成 令和も定番！～ 】ぼっちで100年耐久に挑戦するのら！26年目～32年目【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=H_q_hXy2JHo
+DURATION:PT2H
+DTSTART:20201205T150000Z
+SUMMARY:🍬姫森ルーナ: 【 #04 桃太郎電鉄 ～昭和 平成 令和も定番！～ 】ぼっちで100年耐久に挑戦するのら！26年目～32年目【姫森ルーナ/ホロライブ】
+UID:H_q_hXy2JHo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【予定地／雑談】あびゃびゃびゃびゃびゃ～！！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=Skzqsp9vEEw
+DURATION:PT2H
+DTSTART:20201207T110000Z
+SUMMARY:⚔白銀ノエル: 【予定地／雑談】あびゃびゃびゃびゃびゃ～！！【白銀ノエル/ホロライブ】
+UID:Skzqsp9vEEw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Necrobarista】最期は一緒にコーヒーを飲もう【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=K0xhDJl4Ofo
 DURATION:PT2H
 DTSTART:20201205T160000Z
@@ -179,18 +193,11 @@ SUMMARY:🐏角巻わため: 恋愛サーキュレーション／角巻わため
 UID:L7MvA9i7byQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】深夜マイクラ！ペコの地上絵作るぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=1zv-eRbIrc8
+DESCRIPTION:【Papers\, Please】初見！入国審査するYO【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=Ep_tDpFmJGk
 DURATION:PT2H
-DTSTART:20201206T150000Z
-SUMMARY:👯兎田ぺこら: 【Minecraft】深夜マイクラ！ペコの地上絵作るぺこ！【ホロライブ/兎田ぺこら】
-UID:1zv-eRbIrc8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ゆるゆる動画】Nn~~~PA!【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=jlB2y_3h18g
-DURATION:PT2H
-DTSTART:20201205T150000Z
-SUMMARY:桃鈴ねね: 【ゆるゆる動画】Nn~~~PA!【桃鈴ねね/ホロライブ】
-UID:jlB2y_3h18g
+DTSTART:20201207T080000Z
+SUMMARY:🦋潤羽るしあ: 【Papers\, Please】初見！入国審査するYO【潤羽るしあ/ホロライブ】
+UID:Ep_tDpFmJGk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【公式】『星街すいせいのMUSIC SPACE』#35 前半（2020年11月29日放送分）\nhttps://www.youtube.com/watch?v=Mqm7vhJssPc
