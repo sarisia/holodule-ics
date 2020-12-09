@@ -67,18 +67,18 @@ SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－今日
 UID:-eTI6QfY9vg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Phasmophobia】Lv１２０調査員狐がついにβ版をやってみる！！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=sRUN8P4lMBo
-DURATION:PT2H
-DTSTART:20201208T100000Z
-SUMMARY:🌽白上フブキ: 【Phasmophobia】Lv１２０調査員狐がついにβ版をやってみる！！【ホロライブ/白上フブキ】
-UID:sRUN8P4lMBo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:視聴者参加型APEX!! 英語しか喋れなくなった男。アステルの物語\nhttps://www.youtube.com/watch?v=L4sE7ioproY
 DURATION:PT2H
 DTSTART:20201208T204500Z
 SUMMARY:🎭アステル・レダ: 視聴者参加型APEX!! 英語しか喋れなくなった男。アステルの物語
 UID:L4sE7ioproY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Phasmophobia】Lv１２０調査員狐がついにβ版をやってみる！！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=sRUN8P4lMBo
+DURATION:PT2H
+DTSTART:20201208T100000Z
+SUMMARY:🌽白上フブキ: 【Phasmophobia】Lv１２０調査員狐がついにβ版をやってみる！！【ホロライブ/白上フブキ】
+UID:sRUN8P4lMBo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RAPS AND SUPER CHATS】Bread Rapping and Dead Beat Thanking Continues\nhttps://www.youtube.com/watch?v=8Z_YI3xc8dg
@@ -284,13 +284,6 @@ SUMMARY:⚔白銀ノエル: 【#白銀ノエル謎肉牛丼】新発売『カッ
 UID:sjKsUZ8wM-8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Let's make another farm!【Moona】\nhttps://www.youtube.com/watch?v=WWKaHArdee8
-DURATION:PT2H
-DTSTART:20201209T040000Z
-SUMMARY:🔮Moona: 【Minecraft】Let's make another farm!【Moona】
-UID:WWKaHArdee8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【桃太郎電鉄】27都道府県しか言えないけど社長になります！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=2F4gU3ktSsk
 DURATION:PT2H
 DTSTART:20201209T140000Z
@@ -312,18 +305,18 @@ SUMMARY:🎭アステル・レダ: 🌟おんぎゃぁ!!ﾝｷﾞｬｧ!! - Than
 UID:3knDSuTfQ8I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】40万人までネザークォーツ鉱石掘り続ける！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=wpISIs9HSjw
-DURATION:PT2H
-DTSTART:20201208T050000Z
-SUMMARY:雪花ラミィ: 【Minecraft】40万人までネザークォーツ鉱石掘り続ける！【雪花ラミィ/ホロライブ】
-UID:wpISIs9HSjw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【凸待ち】祝ってほしいお誕生日！！誰が来る？【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=q8Xy-vk17i4
 DURATION:PT2H
 DTSTART:20201208T120000Z
 SUMMARY:🌙紫咲シオン: 【凸待ち】祝ってほしいお誕生日！！誰が来る？【ホロライブ/紫咲シオン】
 UID:q8Xy-vk17i4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】40万人までネザークォーツ鉱石掘り続ける！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=wpISIs9HSjw
+DURATION:PT2H
+DTSTART:20201208T050000Z
+SUMMARY:雪花ラミィ: 【Minecraft】40万人までネザークォーツ鉱石掘り続ける！【雪花ラミィ/ホロライブ】
+UID:wpISIs9HSjw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【LITTLE FRIENDS】犬過激派と見るわんこの日常【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=LCLKP6tBCZs
@@ -359,6 +352,13 @@ DURATION:PT2H
 DTSTART:20201208T063000Z
 SUMMARY:🦔💨岸堂天真: 【雑談】ヴァイオレットエヴァーガーデン全話見たけど泣きすぎて足元にダムが建設されました。【岸堂天真/ホロスターズ】
 UID:YrgqY1IQtPw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【桃太郎電鉄】真の社長はだれなのか決めましょう！【#圧ホロ桃鉄】\nhttps://www.youtube.com/watch?v=WyhmRJj_GP4
+DURATION:PT2H
+DTSTART:20201209T130000Z
+SUMMARY:👾常闇トワ: 【桃太郎電鉄】真の社長はだれなのか決めましょう！【#圧ホロ桃鉄】
+UID:WyhmRJj_GP4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:70万人突破しました!!🎉スパチャお礼させてほしいにぇ！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=hWMKARhjA_M
@@ -508,11 +508,11 @@ SUMMARY:Amelia: 【APEX】TEACHING THE APEX PREDATOR APEX
 UID:uh70V8FcWio
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】💫おはよう！スパチャお礼枠💫【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=Kr-YtiWiPYA
+DESCRIPTION:DDD DAY 8 ~!!! CRIME AGAINST DOUGHNUT !!!!!!\nhttps://www.youtube.com/watch?v=RikPahAbSd8
 DURATION:PT2H
-DTSTART:20201208T020000Z
-SUMMARY:💫天音かなた: 【雑談】💫おはよう！スパチャお礼枠💫【天音かなた/ホロライブ】
-UID:Kr-YtiWiPYA
+DTSTART:20201208T160658Z
+SUMMARY:🐿Risu: DDD DAY 8 ~!!! CRIME AGAINST DOUGHNUT !!!!!!
+UID:RikPahAbSd8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #こえていくホロライブ 】hololive 2nd fes. Beyond the Stage Supported By Bushiroad 街頭ビジョンムービー\nhttps://www.youtube.com/watch?v=sxYGrvyT65E
@@ -522,11 +522,18 @@ SUMMARY:ホロライブ: 【 #こえていくホロライブ 】hololive 2nd fes
 UID:sxYGrvyT65E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:DDD DAY 8 ~!!! CRIME AGAINST DOUGHNUT !!!!!!\nhttps://www.youtube.com/watch?v=RikPahAbSd8
+DESCRIPTION:【雑談】💫おはよう！スパチャお礼枠💫【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=Kr-YtiWiPYA
 DURATION:PT2H
-DTSTART:20201208T160658Z
-SUMMARY:🐿Risu: DDD DAY 8 ~!!! CRIME AGAINST DOUGHNUT !!!!!!
-UID:RikPahAbSd8
+DTSTART:20201208T020000Z
+SUMMARY:💫天音かなた: 【雑談】💫おはよう！スパチャお礼枠💫【天音かなた/ホロライブ】
+UID:Kr-YtiWiPYA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Outer Wilds】タイムリープしてこの世界、救うんだ…＃2【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=oBQw4viKbzc
+DURATION:PT2H
+DTSTART:20201209T130000Z
+SUMMARY:雪花ラミィ: 【Outer Wilds】タイムリープしてこの世界、救うんだ…＃2【雪花ラミィ/ホロライブ】
+UID:oBQw4viKbzc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マインクラフト/Minecraft】これでA型くんもにっこり！（予定）Mysophobia is also smiling【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=KGMmPDaCMu0
