@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ゆるゆる動画】HAAAAAAAAAN【ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=N1UvIhPGrPc
+DURATION:PT2H
+DTSTART:20201209T160000Z
+SUMMARY:桃鈴ねね: 【ゆるゆる動画】HAAAAAAAAAN【ホロライブ/桃鈴ねね】
+UID:N1UvIhPGrPc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:🌟おんぎゃぁ!!ﾝｷﾞｬｧ!! - Thank you to you 『Astelleda』\nhttps://www.youtube.com/watch?v=3knDSuTfQ8I
 DURATION:PT2H
 DTSTART:20201208T170000Z
 SUMMARY:🎭アステル・レダ: 🌟おんぎゃぁ!!ﾝｷﾞｬｧ!! - Thank you to you 『Astelleda』
 UID:3knDSuTfQ8I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ビゴスト】ビゴストPhasmophobia！【影山シエン視点/花幽カノン】\nhttps://www.youtube.com/watch?v=DFttv-4H4es
+DURATION:PT2H
+DTSTART:20201210T120000Z
+SUMMARY:影山シエン: 【#ビゴスト】ビゴストPhasmophobia！【影山シエン視点/花幽カノン】
+UID:DFttv-4H4es
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【晩酌】ほろ酔い気分でお話🍶A fun talk with a tipsy mood【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=xMaICZTQ0IQ
@@ -121,6 +135,13 @@ DURATION:PT2H
 DTSTART:20201208T150000Z
 SUMMARY:🎸奏手イヅル: サムネ可愛くできて嬉しい 雑談
 UID:XNwFIEiVOTA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【あつまれどうぶつの森(animal crossing)】フータさんと初対面するだなも【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=Ezo4Jt768h8
+DURATION:PT2H
+DTSTART:20201209T120000Z
+SUMMARY:🐻ときのそら: 【あつまれどうぶつの森(animal crossing)】フータさんと初対面するだなも【#ときのそら生放送】
+UID:Ezo4Jt768h8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Ark: Survival Evolved】へなちょこ悪魔のARK復活ログイン【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=gRnxEirPjFk

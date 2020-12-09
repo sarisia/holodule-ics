@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ゆるゆる動画】HAAAAAAAAAN【ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=N1UvIhPGrPc
+DURATION:PT2H
+DTSTART:20201209T160000Z
+SUMMARY:桃鈴ねね: 【ゆるゆる動画】HAAAAAAAAAN【ホロライブ/桃鈴ねね】
+UID:N1UvIhPGrPc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:POL POL SONG\nhttps://www.youtube.com/watch?v=ZjIQZ8BfRok
 DURATION:PT2H
 DTSTART:20201209T030004Z
@@ -46,18 +53,18 @@ SUMMARY:🤖ロボ子さん: 【復活配信】＃おかえりロボ子さん　
 UID:wsnmauJqQAw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】NENEのBUILDING【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=19n40OuDtNQ
-DURATION:PT2H
-DTSTART:20201209T100000Z
-SUMMARY:桃鈴ねね: 【Minecraft】NENEのBUILDING【桃鈴ねね/ホロライブ】
-UID:19n40OuDtNQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【桃太郎電鉄】真の社長はだれなのか決めましょう！【#圧ホロ桃鉄】\nhttps://www.youtube.com/watch?v=WyhmRJj_GP4
 DURATION:PT2H
 DTSTART:20201209T120000Z
 SUMMARY:👾常闇トワ: 【桃太郎電鉄】真の社長はだれなのか決めましょう！【#圧ホロ桃鉄】
 UID:WyhmRJj_GP4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】NENEのBUILDING【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=19n40OuDtNQ
+DURATION:PT2H
+DTSTART:20201209T100000Z
+SUMMARY:桃鈴ねね: 【Minecraft】NENEのBUILDING【桃鈴ねね/ホロライブ】
+UID:19n40OuDtNQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ホロ鯖でクリスマスっぽいことする！！！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=E5FiaqTjLCw
@@ -114,6 +121,13 @@ DURATION:PT2H
 DTSTART:20201209T130000Z
 SUMMARY:雪花ラミィ: 【Outer Wilds】タイムリープしてこの世界、救うんだ…＃2【雪花ラミィ/ホロライブ】
 UID:oBQw4viKbzc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【あつまれどうぶつの森(animal crossing)】フータさんと初対面するだなも【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=Ezo4Jt768h8
+DURATION:PT2H
+DTSTART:20201209T120000Z
+SUMMARY:🐻ときのそら: 【あつまれどうぶつの森(animal crossing)】フータさんと初対面するだなも【#ときのそら生放送】
+UID:Ezo4Jt768h8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【桃太郎電鉄】27都道府県しか言えないけど社長になります！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=2F4gU3ktSsk
