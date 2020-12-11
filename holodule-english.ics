@@ -4,46 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Outer Wilds】Spaaace\nhttps://www.youtube.com/watch?v=CfXXwpePJGE
-DURATION:PT2H
-DTSTART:20201210T030500Z
-SUMMARY:Amelia: 【Outer Wilds】Spaaace
-UID:CfXXwpePJGE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Q&A】Answering Questions~\nhttps://www.youtube.com/watch?v=f2lYmGRQq9M
 DURATION:PT2H
 DTSTART:20201210T211500Z
 SUMMARY:Amelia: 【Q&A】Answering Questions~
 UID:f2lYmGRQq9M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Sakuna: Of Rice and Ruin】 An Earful of Rice...?\nhttps://www.youtube.com/watch?v=Vd1ljQcgjuU
-DURATION:PT2H
-DTSTART:20201209T201500Z
-SUMMARY:Ina: 【Sakuna: Of Rice and Ruin】 An Earful of Rice...?
-UID:Vd1ljQcgjuU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SLEEPY ASMR(?)雑談】Talking (SOFTLY) With the Dead Beats! #HoloMyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=cgpZHuOFZ10
-DURATION:PT2H
-DTSTART:20201210T073003Z
-SUMMARY:Calli: 【SLEEPY ASMR(?)雑談】Talking (SOFTLY) With the Dead Beats! #HoloMyth #HololiveEnglish
-UID:cgpZHuOFZ10
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[SSBU] PRACTICE MAKES PROGRESS!\nhttps://www.youtube.com/watch?v=hUAd3O5NkwA
-DURATION:PT2H
-DTSTART:20201211T000000Z
-SUMMARY:Gura: [SSBU] PRACTICE MAKES PROGRESS!
-UID:hUAd3O5NkwA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【REVIVAL STREAM】 Time to rise (again). KIKKERIKIII!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=le72UNZAbQI
-DURATION:PT2H
-DTSTART:20201210T050000Z
-SUMMARY:Kiara: 【REVIVAL STREAM】 Time to rise (again). KIKKERIKIII!! #kfp #キアライブ
-UID:le72UNZAbQI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【WATCHALONG】The Dark Knight Rises\nhttps://www.youtube.com/watch?v=6QlHoKiFiA8
@@ -74,17 +39,17 @@ SUMMARY:Calli: 【Blasphemous】Tee Hee! This Can Only End Well. #hololiveEnglis
 UID:t7buf2ldafA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[SOMA] To the ARK we go!\nhttps://www.youtube.com/watch?v=bwB5dfHnK_M
-DURATION:PT2H
-DTSTART:20201210T012000Z
-SUMMARY:Gura: [SOMA] To the ARK we go!
-UID:bwB5dfHnK_M
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】 8PM Breakfast\nhttps://www.youtube.com/watch?v=cEoxq8CCry8
 DURATION:PT2H
 DTSTART:20201210T200000Z
 SUMMARY:Ina: 【Minecraft】 8PM Breakfast
 UID:cEoxq8CCry8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[SSBU] PRACTICE MAKES PROGRESS!\nhttps://www.youtube.com/watch?v=hUAd3O5NkwA
+DURATION:PT2H
+DTSTART:20201211T000000Z
+SUMMARY:Gura: [SSBU] PRACTICE MAKES PROGRESS!
+UID:hUAd3O5NkwA
 END:VEVENT
 END:VCALENDAR
