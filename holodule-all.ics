@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ただいま】罰ゲーム旅行完遂！お土産話持ってきたよ～【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=A3PmJcZOfZ8
+DURATION:PT2H
+DTSTART:20201211T120000Z
+SUMMARY:🍕アルランディス: 【ただいま】罰ゲーム旅行完遂！お土産話持ってきたよ～【アルランディス/ホロスターズ】
+UID:A3PmJcZOfZ8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【アストロシティミニ】豪指のぺこらここに見参ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=1QdVfl_QGkw
 DURATION:PT2H
 DTSTART:20201210T120000Z
@@ -16,13 +23,6 @@ DURATION:PT2H
 DTSTART:20201210T000000Z
 SUMMARY:雪花ラミィ: 【ARK CRYSTAL ISLES】お引越しする！！！！【雪花ラミィ/ホロライブ】
 UID:QGkg3Jh-TRc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【料理配信】１時間以内くっきんぐ！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=KRD3oe8Rs1Q
-DURATION:PT2H
-DTSTART:20201211T100000Z
-SUMMARY:🌸さくらみこ: 【料理配信】１時間以内くっきんぐ！【ホロライブ/さくらみこ】
-UID:KRD3oe8Rs1Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】ライブおつかれ！！ゆったりお話し【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=Ra2rHH9zXW0
@@ -74,10 +74,10 @@ SUMMARY:Kiara: 【FIRE EMBLEM: THREE HOUSES】MONICA..........!!!!!!!!!  #kfp #�
 UID:ZRvVumW1Y-E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【GTAV】大犯罪の後・・・まだ任務があるって？？【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=zHODWkeNMYA
+DESCRIPTION:【GTAV】Gorilla TENSHI AKURYOKU 50【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=zHODWkeNMYA
 DURATION:PT2H
 DTSTART:20201211T120000Z
-SUMMARY:💫天音かなた: 【GTAV】大犯罪の後・・・まだ任務があるって？？【天音かなた/ホロライブ】
+SUMMARY:💫天音かなた: 【GTAV】Gorilla TENSHI AKURYOKU 50【天音かなた/ホロライブ】
 UID:zHODWkeNMYA
 END:VEVENT
 BEGIN:VEVENT
