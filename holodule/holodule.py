@@ -1,7 +1,7 @@
 import asyncio
 from logging import getLogger
 from math import ceil
-from typing import Dict, Optional, Sequence, Set, Tuple, Union
+from typing import Callable, Dict, Optional, Sequence, Set, Tuple, Union
 
 from aiohttp import ClientSession, ClientTimeout
 from lxml.html import document_fromstring
@@ -36,7 +36,7 @@ class Holodule():
         # https://github.com/aio-libs/aiohttp/blob/fe647a08d1acb53404b703b46b37409602ab18b4/aiohttp/client.py#L986
         self.session = ClientSession(
             timeout=ClientTimeout(total=30),
-            headers={ "User-Agent": "Holodule-ICS" }
+            headers={ "User-Agent": "sarisia/holodule-ics" }
         )
 
         status = 0
@@ -75,22 +75,24 @@ class Holodule():
 
         log.info("Done!")
 
-    async def get_page(self, target:str="") -> Tuple[str, str]:
-        log.info(f"Getting page '{target}'")
-        async with self.session.get(f"{self.page_url}/{target}") as resp:
-            if resp.status != 200:
-                raise HTTPStatusError(resp.status)
-                
-            return target, await resp.text()
+    async def get_page(self, target:str="") -> Optional[Tuple[str, str]]:
+        log.info(f"({target}) getting page...")
+        try:
+            async with self.session.get(f"{self.page_url}/{target}") as resp:
+                text = await resp.text()
+                if resp.status != 200:
+                    log.error(f"({target}) failed to get: {resp.status} {text}'")
+                    return
+                    
+                return target, text
+        except:
+            log.error(f"unhandled: ", exc_info=True)
 
     async def get_pages(self, targets:Sequence[str]) -> Dict[str, str]:
         pages: Dict[str, str] = {} # target: content
         tasks = [self.get_page(t) for t in targets]
-        res: Sequence[Union[Tuple[str, str], Exception]] = await asyncio.gather(*tasks, return_exceptions=True)
+        res = [r for r in await asyncio.gather(*tasks) if r]
         for r in res:
-            if isinstance(r, Exception):
-                log.error(f"failed to get page '{r.target}': {r}")
-                continue
             target, content = r
             pages[target] = content
 
