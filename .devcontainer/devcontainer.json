@@ -5,7 +5,8 @@
 		"context": "..",
 		"args": { 
 			// Update 'VARIANT' to pick a Python version: 3, 3.6, 3.7, 3.8, 3.9
-			"VARIANT": "3",
+			// CHECK .github/workflows/update-ics.yml!!!
+			"VARIANT": "3.9",
 			// Options
 			"INSTALL_NODE": "false",
 			"NODE_VERSION": "lts/*"
