@@ -95,18 +95,18 @@ SUMMARY:桃鈴ねね: 【昼雑談】ねねのひるねね【桃鈴ねね/ホロ
 UID:a5MEan7Il1Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【hololiveID】#congRISUlation300k !! A Thank You Celebration just for You~【Ayunda Risu】\nhttps://www.youtube.com/watch?v=xBkgzwKE2kQ
-DURATION:PT2H
-DTSTART:20201211T120000Z
-SUMMARY:🐿Risu: 【hololiveID】#congRISUlation300k !! A Thank You Celebration just for You~【Ayunda Risu】
-UID:xBkgzwKE2kQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【アストロシティミニ】レバガチャの時間だ【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=T5CnivOwpZw
 DURATION:PT2H
 DTSTART:20201211T170000Z
 SUMMARY:尾丸ポルカ: 【アストロシティミニ】レバガチャの時間だ【尾丸ポルカ/ホロライブ】
 UID:T5CnivOwpZw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:最強のヒットユニットを作ろう！【ホロライブ公式】\nhttps://www.youtube.com/watch?v=dpEM6MyUjx8
+DURATION:PT2H
+DTSTART:20201212T110000Z
+SUMMARY:ホロライブ: 最強のヒットユニットを作ろう！【ホロライブ公式】
+UID:dpEM6MyUjx8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#6】ゼルダの伝説時のオカリナ:The Legend of Zelda: Ocarina of Time【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=YL5O6R0Kmhs
@@ -121,13 +121,6 @@ DURATION:PT2H
 DTSTART:20201211T030000Z
 SUMMARY:Kiara: 【GURAxKIARA】WE GO VROOOoooo000OOO00ooo0OM 【MarioKart8DX】#sametori #サメトリ
 UID:ZEoUU0ivRmc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:最強のヒットユニットを作ろう！【ホロライブ公式】\nhttps://www.youtube.com/watch?v=dpEM6MyUjx8
-DURATION:PT2H
-DTSTART:20201212T110000Z
-SUMMARY:ホロライブ: 最強のヒットユニットを作ろう！【ホロライブ公式】
-UID:dpEM6MyUjx8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ぺこ工作】のび～～～るねんどであそぶぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=fgnVsxVMEvM
@@ -156,6 +149,13 @@ DURATION:PT2H
 DTSTART:20201211T120000Z
 SUMMARY:💫天音かなた: 【GTAV】Gorilla TENSHI AKURYOKU 50【天音かなた/ホロライブ】
 UID:zHODWkeNMYA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Just Dating and Chilling | Round 4【Moona | Iofi】\nhttps://www.youtube.com/watch?v=k7iYT6MTeCA
+DURATION:PT2H
+DTSTART:20201211T152000Z
+SUMMARY:🔮Moona: 【Minecraft】Just Dating and Chilling | Round 4【Moona | Iofi】
+UID:k7iYT6MTeCA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マイクラ】ぶらりねぽらぼエンド旅 【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=sGtvCEFvw6U
@@ -284,6 +284,13 @@ SUMMARY:🎨Iofi: 【Live Draw】Draw and Chat! Let's Deepen The Bond!【hololiv
 UID:T47IbjY9qDE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Super Smash Bros】視聴者参加型！『VIP』の私にかかってこい！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=LgXrX_TgQ2k
+DURATION:PT2H
+DTSTART:20201211T130000Z
+SUMMARY:⚓湊あくあ: 【Super Smash Bros】視聴者参加型！『VIP』の私にかかってこい！【湊あくあ/ホロライブ】
+UID:LgXrX_TgQ2k
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ホロ村】占いの館、ついに完成？！新しく作りたいものもある！！！【マイクラ】\nhttps://www.youtube.com/watch?v=H0G-6R7yGbA
 DURATION:PT2H
 DTSTART:20201211T110000Z
@@ -312,6 +319,13 @@ SUMMARY:Amelia: 【Q&A】Answering Questions~
 UID:f2lYmGRQq9M
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:喉の調子まぁまぁです Singing stream【奏手イヅル】\nhttps://www.youtube.com/watch?v=uXq-Aa-QtOE
+DURATION:PT2H
+DTSTART:20201211T130000Z
+SUMMARY:🎸奏手イヅル: 喉の調子まぁまぁです Singing stream【奏手イヅル】
+UID:uXq-Aa-QtOE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】久しぶり1キルチャレンジ【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=wbGSvTbCqm8
 DURATION:PT2H
 DTSTART:20201211T052000Z
@@ -324,6 +338,20 @@ DURATION:PT2H
 DTSTART:20201211T160000Z
 SUMMARY:🌙紫咲シオン: 【歌枠】ド深夜歌枠！！安眠できるかもしれない。【ホロライブ/紫咲シオン】
 UID:vgBZK8IZTpU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:DDD DAY 11 ~!!! FAVORITE DOUGHNUT ????!?!?\nhttps://www.youtube.com/watch?v=Xwp7d2By63M
+DURATION:PT2H
+DTSTART:20201211T152640Z
+SUMMARY:🐿Risu: DDD DAY 11 ~!!! FAVORITE DOUGHNUT ????!?!?
+UID:Xwp7d2By63M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【First Karaoke】Singing Some Familiar Tunes【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=dgE4zEsBxBM
+DURATION:PT2H
+DTSTART:20201211T140000Z
+SUMMARY:Reine: 【First Karaoke】Singing Some Familiar Tunes【hololiveID 2nd generation】
+UID:dgE4zEsBxBM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】起きろ花咲、Morning Flower【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=pD7MpdZyGV8
@@ -345,6 +373,13 @@ DURATION:PT2H
 DTSTART:20201211T110000Z
 SUMMARY:🌽白上フブキ: 【Minecraft】おしえて！ホロ鯖のんびり観光編【白上フブキ/ホロライブ】
 UID:uQ5C4p98B5c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Japanese Class】Learn EASY Japanese to Use In Streams! With Moona【hololiveID】\nhttps://www.youtube.com/watch?v=dzl-BhYu7J4
+DURATION:PT2H
+DTSTART:20201211T130000Z
+SUMMARY:🎨Iofi: 【Japanese Class】Learn EASY Japanese to Use In Streams! With Moona【hololiveID】
+UID:dzl-BhYu7J4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 リングフィットアドベンチャー 】ライブまであと10日！✨走るっきゃねーのら！🏃 Ring Fit Adventure【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=XoPaTRCReYE
