@@ -15,7 +15,6 @@
 | ホロライブ | https://sarisia.cc/holodule-ics/holodule-hololive.ics |
 | ホロスターズ | https://sarisia.cc/holodule-ics/holodule-holostars.ics |
 | イノナカ | https://sarisia.cc/holodule-ics/holodule-innk.ics |
-| China | https://sarisia.cc/holodule-ics/holodule-china.ics |
 | Indonesia | https://sarisia.cc/holodule-ics/holodule-indonesia.ics |
 | English | https://sarisia.cc/holodule-ics/holodule-english.ics |
 
