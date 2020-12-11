@@ -9,7 +9,7 @@ from holodule import Holodule
 
 load_dotenv()
 logging.basicConfig(
-    level=getenv("HOLODULE_LOGLEVEL").upper() or "INFO",
+    level=(getenv("HOLODULE_LOGLEVEL") or "INFO").upper(),
     format="[{levelname}][{module}][{funcName}] {message}",
     style='{'
 )
