@@ -4,6 +4,27 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【hololiveID】#10 Minecraft with Risu : Let's chill ~【Ayunda Risu】\nhttps://www.youtube.com/watch?v=T1gc-CfP02U
+DURATION:PT2H
+DTSTART:20201212T140000Z
+SUMMARY:🐿Risu: 【hololiveID】#10 Minecraft with Risu : Let's chill ~【Ayunda Risu】
+UID:T1gc-CfP02U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Ring fit】Let's workout with Ring Fit!【Moona】\nhttps://www.youtube.com/watch?v=qYMd8tXMN8A
+DURATION:PT2H
+DTSTART:20201213T000000Z
+SUMMARY:🔮Moona: 【Ring fit】Let's workout with Ring Fit!【Moona】
+UID:qYMd8tXMN8A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Just Dating and Chilling | Round 4【Moona | Iofi】\nhttps://www.youtube.com/watch?v=k7iYT6MTeCA
+DURATION:PT2H
+DTSTART:20201211T152000Z
+SUMMARY:🔮Moona: 【Minecraft】Just Dating and Chilling | Round 4【Moona | Iofi】
+UID:k7iYT6MTeCA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:DDD DAY 11 ~!!! FAVORITE DOUGHNUT ????!?!?\nhttps://www.youtube.com/watch?v=Xwp7d2By63M
 DURATION:PT2H
 DTSTART:20201211T152640Z
@@ -16,13 +37,6 @@ DURATION:PT2H
 DTSTART:20201212T115716Z
 SUMMARY:Ollie: [SUSHI PARTY] DRIFTING SUSHI WITH LAZERBEAMS PEWPEW!!! [Hololive ID 2nd Gen]
 UID:gYfZcJkp-jk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【hololiveID】#10 Minecraft with Risu : Let's chill ~【Ayunda Risu】\nhttps://www.youtube.com/watch?v=T1gc-CfP02U
-DURATION:PT2H
-DTSTART:20201212T140000Z
-SUMMARY:🐿Risu: 【hololiveID】#10 Minecraft with Risu : Let's chill ~【Ayunda Risu】
-UID:T1gc-CfP02U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Live Draw】Draw and Chat! Let's Deepen The Bond!【hololiveID】\nhttps://www.youtube.com/watch?v=T47IbjY9qDE
@@ -44,12 +58,5 @@ DURATION:PT2H
 DTSTART:20201212T134946Z
 SUMMARY:Anya: SLEP
 UID:7c3jYHccTCE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Just Dating and Chilling | Round 4【Moona | Iofi】\nhttps://www.youtube.com/watch?v=k7iYT6MTeCA
-DURATION:PT2H
-DTSTART:20201211T152000Z
-SUMMARY:🔮Moona: 【Minecraft】Just Dating and Chilling | Round 4【Moona | Iofi】
-UID:k7iYT6MTeCA
 END:VEVENT
 END:VCALENDAR
