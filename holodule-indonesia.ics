@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【hololiveID】#10 Minecraft with Risu : Let's chill ~【Ayunda Risu】\nhttps://www.youtube.com/watch?v=T1gc-CfP02U
-DURATION:PT2H
-DTSTART:20201212T140000Z
-SUMMARY:🐿Risu: 【hololiveID】#10 Minecraft with Risu : Let's chill ~【Ayunda Risu】
-UID:T1gc-CfP02U
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Ring fit】Let's workout with Ring Fit!【Moona】\nhttps://www.youtube.com/watch?v=qYMd8tXMN8A
 DURATION:PT2H
 DTSTART:20201213T000000Z
@@ -58,5 +51,12 @@ DURATION:PT2H
 DTSTART:20201212T134946Z
 SUMMARY:Anya: SLEP
 UID:7c3jYHccTCE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:DDD DAY 12 ~!!! SQUIRTING DOUGHNUTS ?????\nhttps://www.youtube.com/watch?v=gCM2t1Olm1M
+DURATION:PT2H
+DTSTART:20201212T162444Z
+SUMMARY:🐿Risu: DDD DAY 12 ~!!! SQUIRTING DOUGHNUTS ?????
+UID:gCM2t1Olm1M
 END:VEVENT
 END:VCALENDAR
