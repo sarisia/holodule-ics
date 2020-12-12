@@ -20,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【花子さん】雪花ラミィと夜の小学校を探索します【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=gYJb3pxg2sQ
 DURATION:PT2H
-DTSTART:20201212T120000Z
+DTSTART:20201212T130000Z
 SUMMARY:獅白ぼたん: 【花子さん】雪花ラミィと夜の小学校を探索します【獅白ぼたん/ホロライブ】
 UID:gYJb3pxg2sQ
 END:VEVENT
@@ -172,13 +172,6 @@ SUMMARY:Amelia: 【LA Noire】Detective Watson Reporting for Duty o7
 UID:7VyXLx4cP6I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Outer Wilds】Exploring Space\nhttps://www.youtube.com/watch?v=SX35n8Vmyqg
-DURATION:PT2H
-DTSTART:20201212T043000Z
-SUMMARY:Amelia: 【Outer Wilds】Exploring Space
-UID:SX35n8Vmyqg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【桃太郎電鉄】初めての一人旅！デビルの思い出しか残ってないが！？【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=skyWeq3ytgA
 DURATION:PT2H
 DTSTART:20201212T073000Z
@@ -186,10 +179,10 @@ SUMMARY:🤖ロボ子さん: 【桃太郎電鉄】初めての一人旅！デビ
 UID:skyWeq3ytgA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:今日は寝ない！！！！！！！！！！！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=gOEnxFFgIX0
+DESCRIPTION:【APEX】最終決戦！SOLO！ダイアモンドまで！終わらない！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=gOEnxFFgIX0
 DURATION:PT2H
 DTSTART:20201212T120000Z
-SUMMARY:⚓湊あくあ: 今日は寝ない！！！！！！！！！！！！【湊あくあ/ホロライブ】
+SUMMARY:⚓湊あくあ: 【APEX】最終決戦！SOLO！ダイアモンドまで！終わらない！！【湊あくあ/ホロライブ】
 UID:gOEnxFFgIX0
 END:VEVENT
 BEGIN:VEVENT
@@ -305,18 +298,18 @@ SUMMARY:🐿Risu: 【hololiveID】#congRISUlation300k !! A Thank You Celebration
 UID:xBkgzwKE2kQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【配信予定地】ぺえええええええええええええええええぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=AlIR82ujv2M
+DURATION:PT2H
+DTSTART:20201212T140000Z
+SUMMARY:👯兎田ぺこら: 【配信予定地】ぺえええええええええええええええええぺこ！【ホロライブ/兎田ぺこら】
+UID:AlIR82ujv2M
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:[Mario Kart 8DX] ZOOOOOOMBA ZOOM\nhttps://www.youtube.com/watch?v=HV7bmb6GOiQ
 DURATION:PT2H
 DTSTART:20201211T030000Z
 SUMMARY:Gura: [Mario Kart 8DX] ZOOOOOOMBA ZOOM
 UID:HV7bmb6GOiQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:最強のヒットユニットを作ろう！【ホロライブ公式】\nhttps://www.youtube.com/watch?v=dpEM6MyUjx8
-DURATION:PT2H
-DTSTART:20201212T110000Z
-SUMMARY:ホロライブ: 最強のヒットユニットを作ろう！【ホロライブ公式】
-UID:dpEM6MyUjx8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#6】行くぞ難関！水の神殿！！！ゼルダの伝説時のオカリナ:The Legend of Zelda: Ocarina of Time【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=YL5O6R0Kmhs
@@ -331,6 +324,13 @@ DURATION:PT2H
 DTSTART:20201211T030000Z
 SUMMARY:Kiara: 【GURAxKIARA】WE GO VROOOoooo000OOO00ooo0OM 【MarioKart8DX】#sametori #サメトリ
 UID:ZEoUU0ivRmc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:最強のヒットユニットを作ろう！【ホロライブ公式】\nhttps://www.youtube.com/watch?v=dpEM6MyUjx8
+DURATION:PT2H
+DTSTART:20201212T110000Z
+SUMMARY:ホロライブ: 最強のヒットユニットを作ろう！【ホロライブ公式】
+UID:dpEM6MyUjx8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】何をとは言わないけど飾りつけする！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=7POjP8acEYA
@@ -459,6 +459,13 @@ SUMMARY:🌽白上フブキ: 【桃太郎電鉄】初心者だらけの桃太郎
 UID:SUdtX1Uu8Lg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【hololiveID】#10 Minecraft with Risu : Let's chill ~【Ayunda Risu】\nhttps://www.youtube.com/watch?v=T1gc-CfP02U
+DURATION:PT2H
+DTSTART:20201212T140000Z
+SUMMARY:🐿Risu: 【hololiveID】#10 Minecraft with Risu : Let's chill ~【Ayunda Risu】
+UID:T1gc-CfP02U
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】最近の近況とかまったりお話しよう！🌟【ホロライブ/常闇トワ】\nhttps://www.youtube.com/watch?v=NsusSUnO_d4
 DURATION:PT2H
 DTSTART:20201212T093000Z
@@ -548,6 +555,13 @@ DURATION:PT2H
 DTSTART:20201210T211500Z
 SUMMARY:Amelia: 【Q&A】Answering Questions~
 UID:f2lYmGRQq9M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】お姉さんなみこちはいかがですか？ Miko's sister sings.【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=oaELw0Dowkw
+DURATION:PT2H
+DTSTART:20201212T110000Z
+SUMMARY:🌸さくらみこ: 【歌枠】お姉さんなみこちはいかがですか？ Miko's sister sings.【ホロライブ/さくらみこ】
+UID:oaELw0Dowkw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】久しぶり1キルチャレンジ【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=wbGSvTbCqm8
