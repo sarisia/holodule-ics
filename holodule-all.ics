@@ -228,32 +228,11 @@ SUMMARY:ホロライブ: 最強のヒットユニットを作ろう！【ホロ�
 UID:dpEM6MyUjx8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SLEP\nhttps://www.youtube.com/watch?v=7c3jYHccTCE
-DURATION:PT2H
-DTSTART:20201212T134946Z
-SUMMARY:Anya: SLEP
-UID:7c3jYHccTCE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】激論！復讐は有りか無しかぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=AlIR82ujv2M
 DURATION:PT2H
 DTSTART:20201212T140000Z
 SUMMARY:👯兎田ぺこら: 【Minecraft】激論！復讐は有りか無しかぺこ！【ホロライブ/兎田ぺこら】
 UID:AlIR82ujv2M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】何をとは言わないけど飾りつけする！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=7POjP8acEYA
-DURATION:PT2H
-DTSTART:20201212T073000Z
-SUMMARY:雪花ラミィ: 【Minecraft】何をとは言わないけど飾りつけする！【雪花ラミィ/ホロライブ】
-UID:7POjP8acEYA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#6】行くぞ難関！水の神殿！！！ゼルダの伝説時のオカリナ:The Legend of Zelda: Ocarina of Time【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=YL5O6R0Kmhs
-DURATION:PT2H
-DTSTART:20201212T050000Z
-SUMMARY:🚑大空スバル: 【#6】行くぞ難関！水の神殿！！！ゼルダの伝説時のオカリナ:The Legend of Zelda: Ocarina of Time【ホロライブ/大空スバル】
-UID:YL5O6R0Kmhs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【公式】『星街すいせいのMUSIC SPACE』#36 前半（2020年12月6日放送分）\nhttps://www.youtube.com/watch?v=RTz0HncHQW0
@@ -263,18 +242,39 @@ SUMMARY:☄星街すいせい: 【公式】『星街すいせいのMUSIC SPACE�
 UID:RTz0HncHQW0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】70万人目指してノンストップで歌う！！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=nToOodtxjgY
-DURATION:PT2H
-DTSTART:20201213T040000Z
-SUMMARY:🏮夏色まつり: 【歌枠】70万人目指してノンストップで歌う！！【ホロライブ/夏色まつり】
-UID:nToOodtxjgY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ベヨネッタ-BAYONETTA-】今度のアルランディスは天使を狩る!?【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=u4mtzLIu1h0
 DURATION:PT2H
 DTSTART:20201213T060000Z
 SUMMARY:🍕アルランディス: 【ベヨネッタ-BAYONETTA-】今度のアルランディスは天使を狩る!?【アルランディス/ホロスターズ】
 UID:u4mtzLIu1h0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#6】行くぞ難関！水の神殿！！！ゼルダの伝説時のオカリナ:The Legend of Zelda: Ocarina of Time【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=YL5O6R0Kmhs
+DURATION:PT2H
+DTSTART:20201212T050000Z
+SUMMARY:🚑大空スバル: 【#6】行くぞ難関！水の神殿！！！ゼルダの伝説時のオカリナ:The Legend of Zelda: Ocarina of Time【ホロライブ/大空スバル】
+UID:YL5O6R0Kmhs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:SLEP\nhttps://www.youtube.com/watch?v=7c3jYHccTCE
+DURATION:PT2H
+DTSTART:20201212T134946Z
+SUMMARY:Anya: SLEP
+UID:7c3jYHccTCE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】何をとは言わないけど飾りつけする！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=7POjP8acEYA
+DURATION:PT2H
+DTSTART:20201212T073000Z
+SUMMARY:雪花ラミィ: 【Minecraft】何をとは言わないけど飾りつけする！【雪花ラミィ/ホロライブ】
+UID:7POjP8acEYA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】70万人目指してノンストップで歌う！！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=nToOodtxjgY
+DURATION:PT2H
+DTSTART:20201213T040000Z
+SUMMARY:🏮夏色まつり: 【歌枠】70万人目指してノンストップで歌う！！【ホロライブ/夏色まつり】
+UID:nToOodtxjgY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:誕生日直前！！！！！！カウントダウンで一緒に誕生日を迎えたい！！\nhttps://www.youtube.com/watch?v=bG-FMPrxNA0
@@ -459,6 +459,13 @@ SUMMARY:🎨Iofi: 【Live Draw】Draw and Chat! Let's Deepen The Bond!【hololiv
 UID:T47IbjY9qDE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【DAY20】HOLOLIVE_ Lobotomy Corporation/2Looop【白上フブキ/ホロライブ】\nhttps://www.youtube.com/watch?v=4V7tOmR14vA
+DURATION:PT2H
+DTSTART:20201213T130000Z
+SUMMARY:🌽白上フブキ: 【DAY20】HOLOLIVE_ Lobotomy Corporation/2Looop【白上フブキ/ホロライブ】
+UID:4V7tOmR14vA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ちょこっとクッキング】寝起き悪魔が冷蔵庫のもので適当にお昼ご飯作るゲリラ配信【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=Ya_p9QBUU5w
 DURATION:PT2H
 DTSTART:20201212T043000Z
@@ -466,11 +473,11 @@ SUMMARY:💋癒月ちょこ: 【#ちょこっとクッキング】寝起き悪�
 UID:Ya_p9QBUU5w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】お姉さんなみこちはいかがですか？ Miko's sister sings.【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=oaELw0Dowkw
+DESCRIPTION:【歌番組】わためのうた ーボイトレ編ー （１２月１４日）【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=QNtdeD9CrWY
 DURATION:PT2H
-DTSTART:20201212T110000Z
-SUMMARY:🌸さくらみこ: 【歌枠】お姉さんなみこちはいかがですか？ Miko's sister sings.【ホロライブ/さくらみこ】
-UID:oaELw0Dowkw
+DTSTART:20201213T213000Z
+SUMMARY:🐏角巻わため: 【歌番組】わためのうた ーボイトレ編ー （１２月１４日）【角巻わため/ホロライブ４期生】
+UID:QNtdeD9CrWY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ダイヤを自力でゲットしたい【桃鈴ねね/ ホロライブ】\nhttps://www.youtube.com/watch?v=RPYlZMSGNbY
@@ -478,6 +485,13 @@ DURATION:PT2H
 DTSTART:20201213T043000Z
 SUMMARY:桃鈴ねね: 【Minecraft】ダイヤを自力でゲットしたい【桃鈴ねね/ ホロライブ】
 UID:RPYlZMSGNbY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】お姉さんなみこちはいかがですか？ Miko's sister sings.【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=oaELw0Dowkw
+DURATION:PT2H
+DTSTART:20201212T110000Z
+SUMMARY:🌸さくらみこ: 【歌枠】お姉さんなみこちはいかがですか？ Miko's sister sings.【ホロライブ/さくらみこ】
+UID:oaELw0Dowkw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】ド深夜歌枠！！安眠できるかもしれない。【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=vgBZK8IZTpU
