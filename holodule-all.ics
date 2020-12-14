@@ -74,18 +74,18 @@ SUMMARY:🤖ロボ子さん: 【#ゆるふわ宇宙人狼】沢山食べたい�
 UID:WjQDXQcGbdM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DRAWING】 Gesture Drawing + Doodle #10\nhttps://www.youtube.com/watch?v=g96MFx8X800
-DURATION:PT2H
-DTSTART:20201213T200000Z
-SUMMARY:Ina: 【DRAWING】 Gesture Drawing + Doodle #10
-UID:g96MFx8X800
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Portal 2】＃2 協力して脱出せよ！空間系アクションパズル！【律可/アルランディス】 #アル律\nhttps://www.youtube.com/watch?v=3NK6fytb6I8
 DURATION:PT2H
 DTSTART:20201213T130000Z
 SUMMARY:🍕アルランディス: 【Portal 2】＃2 協力して脱出せよ！空間系アクションパズル！【律可/アルランディス】 #アル律
 UID:3NK6fytb6I8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DRAWING】 Gesture Drawing + Doodle #10\nhttps://www.youtube.com/watch?v=g96MFx8X800
+DURATION:PT2H
+DTSTART:20201213T200000Z
+SUMMARY:Ina: 【DRAWING】 Gesture Drawing + Doodle #10
+UID:g96MFx8X800
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#IoSoRadio 1】Otaku Talk! 姉妹がアニメの話をするとどうなる？！【hololiveID】\nhttps://www.youtube.com/watch?v=gL8d6-E8O0k
@@ -235,13 +235,6 @@ SUMMARY:🦔💨岸堂天真: 【HITMAN2】悪い人以外殺さない縛りで�
 UID:XWKiZedbfUk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【はいしんよてい💘】【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=DYXIdFPqnCw
-DURATION:PT2H
-DTSTART:20201214T110000Z
-SUMMARY:🏴☠宝鐘マリン: 【はいしんよてい💘】【ホロライブ/宝鐘マリン】
-UID:DYXIdFPqnCw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】皆大好きThants談【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=eWiUVRFOLLc
 DURATION:PT2H
 DTSTART:20201214T090000Z
@@ -298,18 +291,18 @@ SUMMARY:🍕アルランディス: 【ベヨネッタ-BAYONETTA-】今度のア�
 UID:u4mtzLIu1h0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ARK】ガチャタワー建築したい【Hololive/アキロゼ】\nhttps://www.youtube.com/watch?v=C7ntBJLq3FE
-DURATION:PT2H
-DTSTART:20201213T170000Z
-SUMMARY:🍎アキロゼ: 【ARK】ガチャタワー建築したい【Hololive/アキロゼ】
-UID:C7ntBJLq3FE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠】70万人目指してノンストップで歌う！！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=nToOodtxjgY
 DURATION:PT2H
 DTSTART:20201213T040000Z
 SUMMARY:🏮夏色まつり: 【歌枠】70万人目指してノンストップで歌う！！【ホロライブ/夏色まつり】
 UID:nToOodtxjgY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK】ガチャタワー建築したい【Hololive/アキロゼ】\nhttps://www.youtube.com/watch?v=C7ntBJLq3FE
+DURATION:PT2H
+DTSTART:20201213T170000Z
+SUMMARY:🍎アキロゼ: 【ARK】ガチャタワー建築したい【Hololive/アキロゼ】
+UID:C7ntBJLq3FE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:DDD DAY 13 ~!! TEARS DONUT !!!\nhttps://www.youtube.com/watch?v=hc3-o0WXtkk
@@ -389,11 +382,11 @@ SUMMARY:🍬姫森ルーナ: 【 歌枠 】可愛く楽しく歌うのら～✨�
 UID:-Uvrz_VCJLU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Good Job!】学生ニート初出勤！ホワイト企業ですか・・・？【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=dUgAx7JQuSE
+DESCRIPTION:#1【BULLY】転校生は初日が一番大事だにぇ？【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=HGr2Api_WR8
 DURATION:PT2H
-DTSTART:20201213T140000Z
-SUMMARY:🏮夏色まつり: 【Good Job!】学生ニート初出勤！ホワイト企業ですか・・・？【ホロライブ/夏色まつり】
-UID:dUgAx7JQuSE
+DTSTART:20201213T040000Z
+SUMMARY:🌸さくらみこ: #1【BULLY】転校生は初日が一番大事だにぇ？【ホロライブ/さくらみこ】
+UID:HGr2Api_WR8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ぷよテト２】※スナイプ禁止！テトリスレート2000を目指す！【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=0G2md9PkN7Y
@@ -403,18 +396,11 @@ SUMMARY:☄星街すいせい: 【ぷよテト２】※スナイプ禁止！テ�
 UID:0G2md9PkN7Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#1【BULLY】転校生は初日が一番大事だにぇ？【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=HGr2Api_WR8
+DESCRIPTION:【Good Job!】学生ニート初出勤！ホワイト企業ですか・・・？【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=dUgAx7JQuSE
 DURATION:PT2H
-DTSTART:20201213T040000Z
-SUMMARY:🌸さくらみこ: #1【BULLY】転校生は初日が一番大事だにぇ？【ホロライブ/さくらみこ】
-UID:HGr2Api_WR8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Cooking Simulator】愛情込めてメニュー作るぞい☆【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=D03K6k5_gM0
-DURATION:PT2H
-DTSTART:20201214T090000Z
-SUMMARY:🦋潤羽るしあ: 【Cooking Simulator】愛情込めてメニュー作るぞい☆【潤羽るしあ/ホロライブ】
-UID:D03K6k5_gM0
+DTSTART:20201213T140000Z
+SUMMARY:🏮夏色まつり: 【Good Job!】学生ニート初出勤！ホワイト企業ですか・・・？【ホロライブ/夏色まつり】
+UID:dUgAx7JQuSE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Dead by Daylight】初見鬼ごっこ！！深夜の眠れるDBD【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=8R2N4tgpZpc
@@ -422,6 +408,13 @@ DURATION:PT2H
 DTSTART:20201213T160000Z
 SUMMARY:🌙紫咲シオン: 【Dead by Daylight】初見鬼ごっこ！！深夜の眠れるDBD【ホロライブ/紫咲シオン】
 UID:8R2N4tgpZpc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Cooking Simulator】愛情込めてメニュー作るぞい☆【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=D03K6k5_gM0
+DURATION:PT2H
+DTSTART:20201214T090000Z
+SUMMARY:🦋潤羽るしあ: 【Cooking Simulator】愛情込めてメニュー作るぞい☆【潤羽るしあ/ホロライブ】
+UID:D03K6k5_gM0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:配信予定地！！！！🌟☄️【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=BW6YqIpIBAo
@@ -473,18 +466,18 @@ SUMMARY:🌽白上フブキ: 【DAY20】HOLOLIVE_ Lobotomy Corporation/2Looop【
 UID:4V7tOmR14vA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Outer Wilds】燃え盛る双子星を探索する！＃3【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=oXtpVpoZvgM
-DURATION:PT2H
-DTSTART:20201214T000000Z
-SUMMARY:雪花ラミィ: 【Outer Wilds】燃え盛る双子星を探索する！＃3【雪花ラミィ/ホロライブ】
-UID:oXtpVpoZvgM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【トイレの花子さん】トイレに住む人の中で一番キレイ【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=e-Y6ta037DM
 DURATION:PT2H
 DTSTART:20201213T143000Z
 SUMMARY:💫天音かなた: 【トイレの花子さん】トイレに住む人の中で一番キレイ【天音かなた/ホロライブ】
 UID:e-Y6ta037DM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Outer Wilds】燃え盛る双子星を探索する！＃3【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=oXtpVpoZvgM
+DURATION:PT2H
+DTSTART:20201214T000000Z
+SUMMARY:雪花ラミィ: 【Outer Wilds】燃え盛る双子星を探索する！＃3【雪花ラミィ/ホロライブ】
+UID:oXtpVpoZvgM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【アニメ】体が動かない！助けて！\nhttps://www.youtube.com/watch?v=a8CK7s_VZvo
