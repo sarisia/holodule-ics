@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:I'm studying abroad in Japan! #HAACHAMA #HololiveEN\nhttps://www.youtube.com/watch?v=ET4ZdTiHAhA
+DURATION:PT2H
+DTSTART:20201216T050000Z
+SUMMARY:❤赤井はあと: I'm studying abroad in Japan! #HAACHAMA #HololiveEN
+UID:ET4ZdTiHAhA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【日本語雑談】言葉遣いがまさに日本の現代オタクって言われがちみたいだけど実際はどうなん？【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=_ZcP4OhQg_A
 DURATION:PT2H
 DTSTART:20201213T150000Z
@@ -11,11 +18,18 @@ SUMMARY:Anya: 【日本語雑談】言葉遣いがまさに日本の現代オタ
 UID:_ZcP4OhQg_A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Queen - We Will Rock You (Cover by HAACHAMA) 【オリジナルMV】\nhttps://www.youtube.com/watch?v=YQLKbFWOnsc
+DESCRIPTION:Queen - We Will Rock You (Cover by HAACHAMA)\nhttps://www.youtube.com/watch?v=YQLKbFWOnsc
 DURATION:PT2H
 DTSTART:20201215T110000Z
-SUMMARY:❤赤井はあと: Queen - We Will Rock You (Cover by HAACHAMA) 【オリジナルMV】
+SUMMARY:❤赤井はあと: Queen - We Will Rock You (Cover by HAACHAMA)
 UID:YQLKbFWOnsc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】45万人いくまで掘り進む！！ダイヤ掘り耐久💎✨告知もあります✨【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=MuNGk-Ebwpk
+DURATION:PT2H
+DTSTART:20201216T030000Z
+SUMMARY:🤖ロボ子さん: 【Minecraft】45万人いくまで掘り進む！！ダイヤ掘り耐久💎✨告知もあります✨【ホロライブ/ロボ子さん】
+UID:MuNGk-Ebwpk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【桃太郎電鉄】大喧嘩👊あんぽんたん姉妹のガチンコ桃鉄【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=SupwIoh-YFo
@@ -193,13 +207,6 @@ SUMMARY:🍷夕刻ロベル: 【雑談】何だかそわそわしているので
 UID:AomEZPtsPfQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ケーキ屋さん建築する！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=XAbNwVgjgN4
-DURATION:PT2H
-DTSTART:20201215T140000Z
-SUMMARY:雪花ラミィ: 【Minecraft】ケーキ屋さん建築する！【雪花ラミィ/ホロライブ】
-UID:XAbNwVgjgN4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:《Mother Simulator》ばぶってなんぼの人生じゃけぇの。更生してます。\nhttps://www.youtube.com/watch?v=P6CtWfGeU70
 DURATION:PT2H
 DTSTART:20201215T060000Z
@@ -289,6 +296,13 @@ DURATION:PT2H
 DTSTART:20201214T134500Z
 SUMMARY:🌽白上フブキ: 【ホラー】花子さんVSフブキさんVS○"ー○○○【白上フブキ/ホロライブ】
 UID:O3CkMT8GI2U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Outer Wilds】Exploring Space!\nhttps://www.youtube.com/watch?v=JVy-Dv0hl3g
+DURATION:PT2H
+DTSTART:20201216T010000Z
+SUMMARY:Amelia: 【Outer Wilds】Exploring Space!
+UID:JVy-Dv0hl3g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】皆大好きThants談【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=eWiUVRFOLLc
