@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【PORTAL 2】 1+1= Yes\nhttps://www.youtube.com/watch?v=jCM20hNTT4M
+DURATION:PT2H
+DTSTART:20201215T233000Z
+SUMMARY:Ina: 【PORTAL 2】 1+1= Yes
+UID:jCM20hNTT4M
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Outer Wilds】Exploring Space!\nhttps://www.youtube.com/watch?v=JVy-Dv0hl3g
 DURATION:PT2H
 DTSTART:20201216T010000Z
@@ -16,6 +23,27 @@ DURATION:PT2H
 DTSTART:20201215T043000Z
 SUMMARY:Kiara: 【Atelier Ryza】I am ready for a new ADVENTURE! #kfp #キアライブ
 UID:9leP2HyxgTg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PUYO PUYO TETRIS 2】what is a tetris. is it a puzzle? feat. Takanashi Kiara\, Ninomae Ina'nis\nhttps://www.youtube.com/watch?v=N0b0EnEXzSs
+DURATION:PT2H
+DTSTART:20201215T140025Z
+SUMMARY:Calli: 【PUYO PUYO TETRIS 2】what is a tetris. is it a puzzle? feat. Takanashi Kiara\, Ninomae Ina'nis
+UID:N0b0EnEXzSs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Watson's Fun House!\nhttps://www.youtube.com/watch?v=9EEZrxnX9BU
+DURATION:PT2H
+DTSTART:20201215T100000Z
+SUMMARY:Amelia: 【Minecraft】Watson's Fun House!
+UID:9EEZrxnX9BU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Slither.io】am snek! guerrilla puyo! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=TeXR_rsik-w
+DURATION:PT2H
+DTSTART:20201216T060000Z
+SUMMARY:Kiara: 【Slither.io】am snek! guerrilla puyo! #kfp #キアライブ
+UID:TeXR_rsik-w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PUYO PUYO TETRIS 2】versus Calli and Ina!!!! THE FIGHT IS ON #kfp #キアライブ\nhttps://www.youtube.com/watch?v=o6Cn1-_fOxY
@@ -32,24 +60,10 @@ SUMMARY:Ina: 【Puyo Puyo Tetris 2】 BOIN BOIN
 UID:Oi0W1hTnWl8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【PUYO PUYO TETRIS 2】what is a tetris. is it a puzzle? feat. Takanashi Kiara\, Ninomae Ina'nis\nhttps://www.youtube.com/watch?v=N0b0EnEXzSs
+DESCRIPTION:[PORTAL 2] Portal 2 with Ina!\nhttps://www.youtube.com/watch?v=ULl8ST69598
 DURATION:PT2H
-DTSTART:20201215T140025Z
-SUMMARY:Calli: 【PUYO PUYO TETRIS 2】what is a tetris. is it a puzzle? feat. Takanashi Kiara\, Ninomae Ina'nis
-UID:N0b0EnEXzSs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Slither.io】am snek! guerrilla puyo! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=TeXR_rsik-w
-DURATION:PT2H
-DTSTART:20201216T060000Z
-SUMMARY:Kiara: 【Slither.io】am snek! guerrilla puyo! #kfp #キアライブ
-UID:TeXR_rsik-w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Watson's Fun House!\nhttps://www.youtube.com/watch?v=9EEZrxnX9BU
-DURATION:PT2H
-DTSTART:20201215T100000Z
-SUMMARY:Amelia: 【Minecraft】Watson's Fun House!
-UID:9EEZrxnX9BU
+DTSTART:20201215T233000Z
+SUMMARY:Gura: [PORTAL 2] Portal 2 with Ina!
+UID:ULl8ST69598
 END:VEVENT
 END:VCALENDAR
