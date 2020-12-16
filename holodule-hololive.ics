@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【VALORANT参加型】デスマッチしようや【#常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=NlAVSBIhKvo
+DURATION:PT2H
+DTSTART:20201216T011000Z
+SUMMARY:👾常闇トワ: 【VALORANT参加型】デスマッチしようや【#常闇トワ/ホロライブ】
+UID:NlAVSBIhKvo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ころね視点/Dead Space 3】うおおおお！！！ぼたんちゃん頼んだ！！！【#ぼたころ】\nhttps://www.youtube.com/watch?v=GZCJ32Jou1g
 DURATION:PT2H
 DTSTART:20201215T130000Z
@@ -72,6 +79,13 @@ DURATION:PT2H
 DTSTART:20201215T000000Z
 SUMMARY:雪花ラミィ: 【Minecraft】ラミィ、農業を始めるの巻【雪花ラミィ/ホロライブ】
 UID:WeQhBieaW1A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】昼のマイクラ！【桃鈴ねね/ ホロライブ】\nhttps://www.youtube.com/watch?v=QE5cmcJQMZY
+DURATION:PT2H
+DTSTART:20201216T030000Z
+SUMMARY:桃鈴ねね: 【Minecraft】昼のマイクラ！【桃鈴ねね/ ホロライブ】
+UID:QE5cmcJQMZY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ゲリラ歌枠】新しいエコーのテストも兼ねて【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=SfPc5EQE_DA
@@ -151,13 +165,6 @@ SUMMARY:❤赤井はあと: 【朗報】はあちゃま、日本上陸！【ホ�
 UID:pJuPoYMEnbo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ケーキ屋さん建築する！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=XAbNwVgjgN4
-DURATION:PT2H
-DTSTART:20201215T140000Z
-SUMMARY:雪花ラミィ: 【Minecraft】ケーキ屋さん建築する！【雪花ラミィ/ホロライブ】
-UID:XAbNwVgjgN4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Dead Space 3】ぼたころ宇宙へ行く！【獅白ぼたん視点/ホロライブ】\nhttps://www.youtube.com/watch?v=JKTRJHB7WkY
 DURATION:PT2H
 DTSTART:20201215T130000Z
@@ -221,11 +228,11 @@ SUMMARY:💋癒月ちょこSub: 【Ark: Survival Evolved】悪魔のエレメン
 UID:ebagEIrD7K0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】昼のマイクラ！【桃鈴ねね/ ホロライブ】\nhttps://www.youtube.com/watch?v=QE5cmcJQMZY
+DESCRIPTION:【Minecraft】ケーキ屋さん建築する！＃02【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=VSb2VH6cRLM
 DURATION:PT2H
-DTSTART:20201216T030000Z
-SUMMARY:桃鈴ねね: 【Minecraft】昼のマイクラ！【桃鈴ねね/ ホロライブ】
-UID:QE5cmcJQMZY
+DTSTART:20201216T011000Z
+SUMMARY:雪花ラミィ: 【Minecraft】ケーキ屋さん建築する！＃02【雪花ラミィ/ホロライブ】
+UID:VSb2VH6cRLM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【サクラ大戦】船長の初恋の女が鬱になる回【ホロライブ/宝鐘マリン】※ネタバレあり\nhttps://www.youtube.com/watch?v=z8gyZiFzFN8
