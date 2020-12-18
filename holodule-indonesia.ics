@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:Alien mencoba memburu hantu\nhttps://www.youtube.com/watch?v=usX221-SrxA
-DURATION:PT2H
-DTSTART:20201218T080030Z
-SUMMARY:IDholo: Alien mencoba memburu hantu
-UID:usX221-SrxA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Okaeri】0 direction sense but I want to go back home nonetheless【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=fbbTx97LoXc
 DURATION:PT2H
 DTSTART:20201218T150000Z
@@ -32,6 +25,13 @@ SUMMARY:Reine: 【Cooking Simulator】Easy Cooking WITH Reine!【hololiveID 2nd 
 UID:TvONvLILHTU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Celebration】350k subs! thankyouuuu!【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=qhwAuC0CCK0
+DURATION:PT2H
+DTSTART:20201218T140000Z
+SUMMARY:🔮Moona: 【Celebration】350k subs! thankyouuuu!【Moona Hoshinova】
+UID:qhwAuC0CCK0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:DDD DAY 17 ~!!! OMNOMNOM DONUTS ~!!!!\nhttps://www.youtube.com/watch?v=LIqNVW4k-_I
 DURATION:PT2H
 DTSTART:20201217T153417Z
@@ -39,17 +39,24 @@ SUMMARY:🐿Risu: DDD DAY 17 ~!!! OMNOMNOM DONUTS ~!!!!
 UID:LIqNVW4k-_I
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Free Talk?】Eating Brunch with You【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=MPZfdRKPWek
+DURATION:PT2H
+DTSTART:20201219T030000Z
+SUMMARY:Reine: 【Free Talk?】Eating Brunch with You【hololiveID 2nd generation】
+UID:MPZfdRKPWek
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Alien mencoba memburu hantu\nhttps://www.youtube.com/watch?v=usX221-SrxA
+DURATION:PT2H
+DTSTART:20201218T080030Z
+SUMMARY:IDholo: Alien mencoba memburu hantu
+UID:usX221-SrxA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:DDD DAY 18 ~!!! SHINY DOUGHNUTS !!!!!!\nhttps://www.youtube.com/watch?v=I6zE5sSAioM
 DURATION:PT2H
 DTSTART:20201218T163629Z
 SUMMARY:🐿Risu: DDD DAY 18 ~!!! SHINY DOUGHNUTS !!!!!!
 UID:I6zE5sSAioM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Celebration】350k subs! thankyouuuu!【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=qhwAuC0CCK0
-DURATION:PT2H
-DTSTART:20201218T140000Z
-SUMMARY:🔮Moona: 【Celebration】350k subs! thankyouuuu!【Moona Hoshinova】
-UID:qhwAuC0CCK0
 END:VEVENT
 END:VCALENDAR
