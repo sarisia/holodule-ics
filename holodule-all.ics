@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Atelier Ryza】Ryza thighs save lifes #kfp #キアライブ\nhttps://www.youtube.com/watch?v=bguUlThqpxg
-DURATION:PT2H
-DTSTART:20201218T030000Z
-SUMMARY:Kiara: 【Atelier Ryza】Ryza thighs save lifes #kfp #キアライブ
-UID:bguUlThqpxg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[Minecraft] BIG EXPLOSION PLAN!!!!! #HololiveEN0\nhttps://www.youtube.com/watch?v=A4BnqtzTat0
 DURATION:PT2H
 DTSTART:20201217T060000Z
@@ -109,18 +102,18 @@ SUMMARY:Calli: 【MINECRAFT】Pimp My Cave #hololiveEnglish #holoMyth
 UID:w6XdG08AF3U
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 重大告知 】とうとう来ちまったのら(・o・🍬)【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=pjuPe0dL2Jw
-DURATION:PT2H
-DTSTART:20201218T160000Z
-SUMMARY:🍬姫森ルーナ: 【 重大告知 】とうとう来ちまったのら(・o・🍬)【姫森ルーナ/ホロライブ】
-UID:pjuPe0dL2Jw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－おい、もう金曜日らしいぞ－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=N_BBgqhRk_c
 DURATION:PT2H
 DTSTART:20201218T010000Z
 SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－おい、もう金曜日らしいぞ－【ホロスターズ/夕刻ロベル】
 UID:N_BBgqhRk_c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 重大告知 】とうとう来ちまったのら(・o・🍬)【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=pjuPe0dL2Jw
+DURATION:PT2H
+DTSTART:20201218T160000Z
+SUMMARY:🍬姫森ルーナ: 【 重大告知 】とうとう来ちまったのら(・o・🍬)【姫森ルーナ/ホロライブ】
+UID:pjuPe0dL2Jw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ievan PolKANATAN\nhttps://www.youtube.com/watch?v=0c_tlNO5jO4
@@ -221,6 +214,13 @@ SUMMARY:🐿Risu: DDD DAY 17 ~!!! OMNOMNOM DONUTS ~!!!!
 UID:LIqNVW4k-_I
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【メンバー限定】一緒にアーサー・クリスマスの大冒険を見よう！【同時視聴】\nhttps://www.youtube.com/watch?v=0iacnu3nDSw
+DURATION:PT2H
+DTSTART:20201218T130000Z
+SUMMARY:🥐戌神ころね: 【メンバー限定】一緒にアーサー・クリスマスの大冒険を見よう！【同時視聴】
+UID:0iacnu3nDSw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Superliminal】非常識女が常識が通用しない世界へ！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=LmSBrJM75iQ
 DURATION:PT2H
 DTSTART:20201217T120000Z
@@ -228,18 +228,18 @@ SUMMARY:🏮夏色まつり: 【Superliminal】非常識女が常識が通用し
 UID:LmSBrJM75iQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#8【RiTunes Labo】生セッション歌枠：ゲスト『瀧川ありさ』【律可/ホロスターズ 】#りちゅらぼ\nhttps://www.youtube.com/watch?v=1K--1fe90MM
-DURATION:PT2H
-DTSTART:20201217T110000Z
-SUMMARY:⚙律可: #8【RiTunes Labo】生セッション歌枠：ゲスト『瀧川ありさ』【律可/ホロスターズ 】#りちゅらぼ
-UID:1K--1fe90MM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ついに完成クリスマスツリー！ #ゆるスタ &more ！【岸堂天真/アルランディス】\nhttps://www.youtube.com/watch?v=N1XOXY-GLL8
 DURATION:PT2H
 DTSTART:20201218T130000Z
 SUMMARY:🍕アルランディス: 【Minecraft】ついに完成クリスマスツリー！ #ゆるスタ &more ！【岸堂天真/アルランディス】
 UID:N1XOXY-GLL8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#8【RiTunes Labo】生セッション歌枠：ゲスト『瀧川ありさ』【律可/ホロスターズ 】#りちゅらぼ\nhttps://www.youtube.com/watch?v=1K--1fe90MM
+DURATION:PT2H
+DTSTART:20201217T110000Z
+SUMMARY:⚙律可: #8【RiTunes Labo】生セッション歌枠：ゲスト『瀧川ありさ』【律可/ホロスターズ 】#りちゅらぼ
+UID:1K--1fe90MM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Kawaii !! 幸せのあてぃしハウス！！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=1Lov6P5iss4
@@ -298,13 +298,6 @@ SUMMARY:🌽白上フブキ: 【DAY23】HOLOLIVE_ Lobotomy Corporation/2Looop【
 UID:lDe-G1IYX2c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Alien mencoba memburu hantu\nhttps://www.youtube.com/watch?v=usX221-SrxA
-DURATION:PT2H
-DTSTART:20201218T080030Z
-SUMMARY:IDholo: Alien mencoba memburu hantu
-UID:usX221-SrxA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【桃太郎電鉄】ホロスターズ全員で決める桃鉄キング決定戦！【ホロスターズ】#ホロスタ桃鉄キング\nhttps://www.youtube.com/watch?v=rwYcJva3WhU
 DURATION:PT2H
 DTSTART:20201219T040000Z
@@ -312,11 +305,18 @@ SUMMARY:⚙律可: 【桃太郎電鉄】ホロスターズ全員で決める桃�
 UID:rwYcJva3WhU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Lobotomy Corporation】え!?管理人として”居るだけで”お金がもらえるんですか!?【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=p3DWn7UlzI8
+DESCRIPTION:Alien mencoba memburu hantu\nhttps://www.youtube.com/watch?v=usX221-SrxA
 DURATION:PT2H
-DTSTART:20201217T130000Z
-SUMMARY:🍕アルランディス: 【Lobotomy Corporation】え!?管理人として”居るだけで”お金がもらえるんですか!?【アルランディス/ホロスターズ】
-UID:p3DWn7UlzI8
+DTSTART:20201218T080030Z
+SUMMARY:IDholo: Alien mencoba memburu hantu
+UID:usX221-SrxA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】get in\, we're playing minecraft\nhttps://www.youtube.com/watch?v=skSmTEnAyGk
+DURATION:PT2H
+DTSTART:20201218T101500Z
+SUMMARY:Amelia: 【Minecraft】get in\, we're playing minecraft
+UID:skSmTEnAyGk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝】朝ご飯いっしょにたべよっ🍳【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=joYSFhWoKM0
@@ -324,6 +324,13 @@ DURATION:PT2H
 DTSTART:20201217T221000Z
 SUMMARY:🤖ロボ子さん: 【朝】朝ご飯いっしょにたべよっ🍳【ホロライブ/ロボ子さん】
 UID:joYSFhWoKM0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Lobotomy Corporation】え!?管理人として”居るだけで”お金がもらえるんですか!?【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=p3DWn7UlzI8
+DURATION:PT2H
+DTSTART:20201217T130000Z
+SUMMARY:🍕アルランディス: 【Lobotomy Corporation】え!?管理人として”居るだけで”お金がもらえるんですか!?【アルランディス/ホロスターズ】
+UID:p3DWn7UlzI8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MARO Q&A】Eating Lots of Marshmallows【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=rsgvyBckwZw
@@ -375,6 +382,13 @@ SUMMARY:Amelia: 【Minecraft】Messin' Around in Minecraft!
 UID:_XzJP9MIugs
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【マリオカート8DX】大会に向けて特訓だ～！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=UNw98qYjLMU
+DURATION:PT2H
+DTSTART:20201218T140000Z
+SUMMARY:雪花ラミィ: 【マリオカート8DX】大会に向けて特訓だ～！！【雪花ラミィ/ホロライブ】
+UID:UNw98qYjLMU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:セガサターン版のダイナマイト刑事やるぞ～！！\nhttps://www.youtube.com/watch?v=t4vmX5WgzxI
 DURATION:PT2H
 DTSTART:20201217T140000Z
@@ -401,6 +415,20 @@ DURATION:PT2H
 DTSTART:20201217T124000Z
 SUMMARY:💋癒月ちょこ: 【#スバちょこルーナ】料理上手No1は誰だ！禁断の料理対決？！【ホロライブ/癒月ちょこ/大空スバル/姫森ルーナ】
 UID:VoIVdUdD-2k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【60万人記念】ぶっちゃけマシュマロ大会+ぷち逆凸待ち～！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=N4nZ52k4lhw
+DURATION:PT2H
+DTSTART:20201218T120000Z
+SUMMARY:🚑大空スバル: 【60万人記念】ぶっちゃけマシュマロ大会+ぷち逆凸待ち～！！【ホロライブ/大空スバル】
+UID:N4nZ52k4lhw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ホロスターズ】Twitter企画 ホロスターズお悩み相談まとめ\nhttps://www.youtube.com/watch?v=pXWIzvGDmcs
+DURATION:PT2H
+DTSTART:20201218T090031Z
+SUMMARY:ホロスターズ: 【ホロスターズ】Twitter企画 ホロスターズお悩み相談まとめ
+UID:pXWIzvGDmcs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#オクホロ】団長は布教されたい！オクトパストラベラー×ホロライブスペシャルコラボ！【ネタバレあり】\nhttps://www.youtube.com/watch?v=ofnPnGl2Tw8
@@ -494,6 +522,13 @@ SUMMARY:🌲大神ミオ: 【#2】ゼルダの伝説 夢をみる島を初見プ
 UID:DyyMipC9x5s
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:くっ・・・くっ・・・くっ・・・！！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=Go2JRGbhlE0
+DURATION:PT2H
+DTSTART:20201218T130000Z
+SUMMARY:⚓湊あくあ: くっ・・・くっ・・・くっ・・・！！！【湊あくあ/ホロライブ】
+UID:Go2JRGbhlE0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【思考の館】アスイヅvsばぶどん!! 相方への理解度対決!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=HPdb12k3md0
 DURATION:PT2H
 DTSTART:20201217T120000Z
@@ -501,18 +536,18 @@ SUMMARY:🦔💨岸堂天真: 【思考の館】アスイヅvsばぶどん!! 相
 UID:HPdb12k3md0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】アキロゼ歌う！SING SING SING【Hololive/akirose】\nhttps://www.youtube.com/watch?v=jdFL246u2Sk
-DURATION:PT2H
-DTSTART:20201217T150000Z
-SUMMARY:🍎アキロゼ: 【歌枠】アキロゼ歌う！SING SING SING【Hololive/akirose】
-UID:jdFL246u2Sk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Cooking Simulator】FOX_PIZZA!OPEN【白上フブキ/ホロライブ】\nhttps://www.youtube.com/watch?v=EYF_zb8g96M
 DURATION:PT2H
 DTSTART:20201218T080000Z
 SUMMARY:🌽白上フブキ: 【Cooking Simulator】FOX_PIZZA!OPEN【白上フブキ/ホロライブ】
 UID:EYF_zb8g96M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】アキロゼ歌う！SING SING SING【Hololive/akirose】\nhttps://www.youtube.com/watch?v=jdFL246u2Sk
+DURATION:PT2H
+DTSTART:20201217T150000Z
+SUMMARY:🍎アキロゼ: 【歌枠】アキロゼ歌う！SING SING SING【Hololive/akirose】
+UID:jdFL246u2Sk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ドンキーコング64】バナナを集める日々にグッバイ＃最終回【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=aPwD5uM9_lY
