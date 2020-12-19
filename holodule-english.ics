@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【PORTAL 2】Solo Campaign!\nhttps://www.youtube.com/watch?v=WeWtrHqLfPY
-DURATION:PT2H
-DTSTART:20201218T063000Z
-SUMMARY:Amelia: 【PORTAL 2】Solo Campaign!
-UID:WeWtrHqLfPY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Atelier Ryza】Ryza thighs save lifes #kfp #キアライブ\nhttps://www.youtube.com/watch?v=bguUlThqpxg
 DURATION:PT2H
 DTSTART:20201218T030000Z
@@ -60,18 +53,25 @@ SUMMARY:Amelia: 【SHADOWVERSE】Rating CARDS! (sponsored stream)
 UID:WrywL4t1P2Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】Pimp My Cave #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=w6XdG08AF3U
-DURATION:PT2H
-DTSTART:20201218T073012Z
-SUMMARY:Calli: 【MINECRAFT】Pimp My Cave #hololiveEnglish #holoMyth
-UID:w6XdG08AF3U
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【HOLOMYTH COLLAB】All members come together to get into the christmas mood! #kfp #キアライブ #holomyth\nhttps://www.youtube.com/watch?v=NDFNjjzrpJU
 DURATION:PT2H
 DTSTART:20201219T040000Z
 SUMMARY:Kiara: 【HOLOMYTH COLLAB】All members come together to get into the christmas mood! #kfp #キアライブ #holomyth
 UID:NDFNjjzrpJU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PORTAL 2】Solo Campaign!\nhttps://www.youtube.com/watch?v=WeWtrHqLfPY
+DURATION:PT2H
+DTSTART:20201218T063000Z
+SUMMARY:Amelia: 【PORTAL 2】Solo Campaign!
+UID:WeWtrHqLfPY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【A WAY OUT】IT'S NOT OVER YET\, TAKE MY HAND AND RUN #TAKAMORI\nhttps://www.youtube.com/watch?v=mghLy9JQTJw
+DURATION:PT2H
+DTSTART:20201219T013000Z
+SUMMARY:Kiara: 【A WAY OUT】IT'S NOT OVER YET\, TAKE MY HAND AND RUN #TAKAMORI
+UID:mghLy9JQTJw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【COLLAB】A Merry Minecraft Christmas!\nhttps://www.youtube.com/watch?v=QCVgdQr8wuw
@@ -81,11 +81,25 @@ SUMMARY:Amelia: 【COLLAB】A Merry Minecraft Christmas!
 UID:QCVgdQr8wuw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】Pimp My Cave #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=w6XdG08AF3U
+DURATION:PT2H
+DTSTART:20201218T073012Z
+SUMMARY:Calli: 【MINECRAFT】Pimp My Cave #hololiveEnglish #holoMyth
+UID:w6XdG08AF3U
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:[MINECRAFT] HAPPY HOLODAYS!\nhttps://www.youtube.com/watch?v=r_kg-SjUS_I
 DURATION:PT2H
 DTSTART:20201219T040000Z
 SUMMARY:Gura: [MINECRAFT] HAPPY HOLODAYS!
 UID:r_kg-SjUS_I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT COLLAB】mErry Merry! From the HoloEN Girls! #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=nFlOezH-8ac
+DURATION:PT2H
+DTSTART:20201219T040016Z
+SUMMARY:Calli: 【MINECRAFT COLLAB】mErry Merry! From the HoloEN Girls! #hololiveEnglish #holoMyth
+UID:nFlOezH-8ac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】get in\, we're playing minecraft\nhttps://www.youtube.com/watch?v=skSmTEnAyGk
