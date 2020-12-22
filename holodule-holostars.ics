@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:ホロライブプロダクションチョコ開封の儀#2【ホロスターズ/荒咬オウガ】\nhttps://www.youtube.com/watch?v=sXcn-ECtQ0Y
+DURATION:PT2H
+DTSTART:20201222T170000Z
+SUMMARY:荒咬オウガ: ホロライブプロダクションチョコ開封の儀#2【ホロスターズ/荒咬オウガ】
+UID:sXcn-ECtQ0Y
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#3【Among US】なるべくENGLISH！リスナー参加型！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=96TMPdC0gcE
 DURATION:PT2H
 DTSTART:20201222T030000Z
@@ -32,17 +39,24 @@ SUMMARY:影山シエン: 【Shadowverse】漢による漢の為のシャドバ�
 UID:9C3oBMjn014
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－火曜日の朝活雑談と申すものです－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=rMcnHyFvptc
-DURATION:PT2H
-DTSTART:20201222T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－火曜日の朝活雑談と申すものです－【ホロスターズ/夕刻ロベル】
-UID:rMcnHyFvptc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Apex Legends】3チャンピオン耐久…開始!!!ランクマッチ鬼修行編【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=-VL4SXKntgg
 DURATION:PT2H
 DTSTART:20201222T020000Z
 SUMMARY:🍕アルランディス: 【Apex Legends】3チャンピオン耐久…開始!!!ランクマッチ鬼修行編【アルランディス/ホロスターズ】
 UID:-VL4SXKntgg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－水曜日の朝におはようと言う枠です－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=-0e-rJJQ39M
+DURATION:PT2H
+DTSTART:20201223T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－水曜日の朝におはようと言う枠です－【ホロスターズ/夕刻ロベル】
+UID:-0e-rJJQ39M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－火曜日の朝活雑談と申すものです－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=rMcnHyFvptc
+DURATION:PT2H
+DTSTART:20201222T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－火曜日の朝活雑談と申すものです－【ホロスターズ/夕刻ロベル】
+UID:rMcnHyFvptc
 END:VEVENT
 END:VCALENDAR
