@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:ホロライブプロダクションチョコ開封の儀#2【ホロスターズ/荒咬オウガ】\nhttps://www.youtube.com/watch?v=sXcn-ECtQ0Y
+DURATION:PT2H
+DTSTART:20201222T170000Z
+SUMMARY:荒咬オウガ: ホロライブプロダクションチョコ開封の儀#2【ホロスターズ/荒咬オウガ】
+UID:sXcn-ECtQ0Y
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 #こえていくホロライブ 】急遽！はあ×るしでLIVE感想会【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=2vBaYnUA45k
 DURATION:PT2H
 DTSTART:20201221T160000Z
@@ -23,13 +30,6 @@ DURATION:PT2H
 DTSTART:20201223T140000Z
 SUMMARY:⚙律可: 【雑談枠】アニメめっちゃ見たからその話【律可/ホロスターズ】＃りつすた
 UID:NLUPdnG6G8U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#こえていくホロライブSTAGE2】応援用FreeChat！ライブ会場🎤みんなで盛り上がろう🌸【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=b5ied2-C1WA
-DURATION:PT2H
-DTSTART:20201222T170000Z
-SUMMARY:⚔白銀ノエル: 【#こえていくホロライブSTAGE2】応援用FreeChat！ライブ会場🎤みんなで盛り上がろう🌸【白銀ノエル/ホロライブ】
-UID:b5ied2-C1WA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌ってみた】すてきなホリデイ【ゆるスタ/ホロスターズ】\nhttps://www.youtube.com/watch?v=VAsauw-wFAg
@@ -88,11 +88,11 @@ SUMMARY:🔥不知火フレア: 【Free Chat】期間限定！ライブ楽しん
 UID:9BcKjZ3oSt0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【重大告知あり！】色々話したい！晩酌雑談【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=Zxl1DhdorcI
+DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－水曜日の朝におはようと言う枠です－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=-0e-rJJQ39M
 DURATION:PT2H
-DTSTART:20201222T140000Z
-SUMMARY:雪花ラミィ: 【重大告知あり！】色々話したい！晩酌雑談【雪花ラミィ/ホロライブ】
-UID:Zxl1DhdorcI
+DTSTART:20201223T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－水曜日の朝におはようと言う枠です－【ホロスターズ/夕刻ロベル】
+UID:-0e-rJJQ39M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:2ndLIVE 1日目ありがとうございました！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=MNl7USVDLgg
@@ -102,11 +102,11 @@ SUMMARY:👯兎田ぺこら: 2ndLIVE 1日目ありがとうございました！
 UID:MNl7USVDLgg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－火曜日の朝活雑談と申すものです－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=rMcnHyFvptc
+DESCRIPTION:【重大告知あり！】色々話したい！晩酌雑談【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=Zxl1DhdorcI
 DURATION:PT2H
-DTSTART:20201222T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－火曜日の朝活雑談と申すものです－【ホロスターズ/夕刻ロベル】
-UID:rMcnHyFvptc
+DTSTART:20201222T140000Z
+SUMMARY:雪花ラミィ: 【重大告知あり！】色々話したい！晩酌雑談【雪花ラミィ/ホロライブ】
+UID:Zxl1DhdorcI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【オリジナル曲】『BLUE CLAPPER』試聴動画 【雪花ラミィ\, 桃鈴ねね\, 獅白ぼたん\, 尾丸ポルカ】\nhttps://www.youtube.com/watch?v=3qkXc6zheig
@@ -114,6 +114,13 @@ DURATION:PT2H
 DTSTART:20201222T150001Z
 SUMMARY:ホロライブ: 【オリジナル曲】『BLUE CLAPPER』試聴動画 【雪花ラミィ\, 桃鈴ねね\, 獅白ぼたん\, 尾丸ポルカ】
 UID:3qkXc6zheig
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－火曜日の朝活雑談と申すものです－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=rMcnHyFvptc
+DURATION:PT2H
+DTSTART:20201222T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－火曜日の朝活雑談と申すものです－【ホロスターズ/夕刻ロベル】
+UID:rMcnHyFvptc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #こえていくホロライブ​ 】ライブの間限定Free Chat！応援よろしくだよ！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=MvXRFtvxs-M
