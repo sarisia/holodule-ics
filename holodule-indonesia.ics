@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Freetalk】Just talk with me ne?【Moona】\nhttps://www.youtube.com/watch?v=tV6HjXwJg9w
-DURATION:PT2H
-DTSTART:20201223T130000Z
-SUMMARY:🔮Moona: 【Freetalk】Just talk with me ne?【Moona】
-UID:tV6HjXwJg9w
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:DDD DAY 23 ~!!! DOUGHNUT HAT ~!!!\nhttps://www.youtube.com/watch?v=TUqx9_QnhC4
 DURATION:PT2H
 DTSTART:20201223T142258Z
@@ -18,11 +11,25 @@ SUMMARY:🐿Risu: DDD DAY 23 ~!!! DOUGHNUT HAT ~!!!
 UID:TUqx9_QnhC4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【SUPERCHAT】Superchat Monetization Celebration Stream!!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=2HFv_knko1s
+DURATION:PT2H
+DTSTART:20201223T140000Z
+SUMMARY:Anya: 【SUPERCHAT】Superchat Monetization Celebration Stream!!【hololive Indonesia 2nd Generation】
+UID:2HFv_knko1s
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Thai Class 2】สวัสดี ! Let's Learn Thai to Impress Someone You Love【hololiveID】\nhttps://www.youtube.com/watch?v=1j7XX--Jw9I
 DURATION:PT2H
 DTSTART:20201223T130000Z
 SUMMARY:🎨Iofi: 【Thai Class 2】สวัสดี ! Let's Learn Thai to Impress Someone You Love【hololiveID】
 UID:1j7XX--Jw9I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[SUPERCHAT READING/FREETALK] THANK YOU SO MUCH ZOMRADES!! LET'S CHITCHAT TOO!! [Hololive ID 2nd Gen]\nhttps://www.youtube.com/watch?v=xY9ARi1ZpnE
+DURATION:PT2H
+DTSTART:20201223T082850Z
+SUMMARY:Ollie: [SUPERCHAT READING/FREETALK] THANK YOU SO MUCH ZOMRADES!! LET'S CHITCHAT TOO!! [Hololive ID 2nd Gen]
+UID:xY9ARi1ZpnE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Free Talk】Superchat/Donation Reading & Tambourine Name Reveal【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=Bu5MeCSJB5Q
@@ -37,33 +44,5 @@ DURATION:PT2H
 DTSTART:20201223T120000Z
 SUMMARY:🐿Risu: 【hololiveID】HOLIDAY FREE TALK ~!!! YAYYYYYYY【Ayunda Risu】
 UID:-qVa0FGpHbU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:DDD DAY 21 ~!!! IT'S RAINING DOUGHNUTS !!!!\nhttps://www.youtube.com/watch?v=Q0Kp2f2HxTk
-DURATION:PT2H
-DTSTART:20201221T152505Z
-SUMMARY:🐿Risu: DDD DAY 21 ~!!! IT'S RAINING DOUGHNUTS !!!!
-UID:Q0Kp2f2HxTk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:DDD DAY 22 ~!! FLOATING DOUGHNUT !!!\nhttps://www.youtube.com/watch?v=DVuJcLt3ZJE
-DURATION:PT2H
-DTSTART:20201222T145738Z
-SUMMARY:🐿Risu: DDD DAY 22 ~!! FLOATING DOUGHNUT !!!
-UID:DVuJcLt3ZJE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[SUPERCHAT READING/FREETALK] THANK YOU SO MUCH ZOMRADES!! LET'S CHITCHAT TOO!! [Hololive ID 2nd Gen]\nhttps://www.youtube.com/watch?v=xY9ARi1ZpnE
-DURATION:PT2H
-DTSTART:20201223T082850Z
-SUMMARY:Ollie: [SUPERCHAT READING/FREETALK] THANK YOU SO MUCH ZOMRADES!! LET'S CHITCHAT TOO!! [Hololive ID 2nd Gen]
-UID:xY9ARi1ZpnE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SUPERCHAT】Superchat Monetization Celebration Stream!!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=2HFv_knko1s
-DURATION:PT2H
-DTSTART:20201223T140000Z
-SUMMARY:Anya: 【SUPERCHAT】Superchat Monetization Celebration Stream!!【hololive Indonesia 2nd Generation】
-UID:2HFv_knko1s
 END:VEVENT
 END:VCALENDAR
