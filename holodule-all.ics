@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Freetalk】Just talk with me ne?【Moona】\nhttps://www.youtube.com/watch?v=tV6HjXwJg9w
+DURATION:PT2H
+DTSTART:20201223T130000Z
+SUMMARY:🔮Moona: 【Freetalk】Just talk with me ne?【Moona】
+UID:tV6HjXwJg9w
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:DDD DAY 23 ~!!! DOUGHNUT HAT ~!!!\nhttps://www.youtube.com/watch?v=TUqx9_QnhC4
 DURATION:PT2H
 DTSTART:20201223T142258Z
@@ -44,6 +51,13 @@ DURATION:PT2H
 DTSTART:20201223T110000Z
 SUMMARY:🍙猫又おかゆ: 【歌枠】ライブお疲れ様でした！告知もあるよ！【ホロライブ/猫又おかゆ】
 UID:rQi_YzkuGKc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【耐久 Apex Legends】1週間プラチナチャレンジ！ゴールド3から2に上がるまでやめれません！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=QmbymX1iGDY
+DURATION:PT2H
+DTSTART:20201223T110000Z
+SUMMARY:🍕アルランディス: 【耐久 Apex Legends】1週間プラチナチャレンジ！ゴールド3から2に上がるまでやめれません！【アルランディス/ホロスターズ】
+UID:QmbymX1iGDY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】あくあとエンダードラゴンRTA：練習編【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=2rJwMl0VUpM
@@ -102,18 +116,18 @@ SUMMARY:ホロライブ: 【オリジナル曲】『BLUE CLAPPER』試聴動画 
 UID:3qkXc6zheig
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【告知】ライブありがとうございました！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=CCUm36gsCzs
-DURATION:PT2H
-DTSTART:20201223T130000Z
-SUMMARY:💫天音かなた: 【告知】ライブありがとうございました！！【天音かなた/ホロライブ】
-UID:CCUm36gsCzs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:アイドルにしてくれてありがとうをちゃんと伝えたい。【白上フブキ/ホロライブ】\nhttps://www.youtube.com/watch?v=0xwmU-H1CX8
 DURATION:PT2H
 DTSTART:20201223T133000Z
 SUMMARY:🌽白上フブキ: アイドルにしてくれてありがとうをちゃんと伝えたい。【白上フブキ/ホロライブ】
 UID:0xwmU-H1CX8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#生スバル】はじめてのぐらぶるっ！初めてのガチャピン！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=v4ePgw3qMZo
+DURATION:PT2H
+DTSTART:20201223T130000Z
+SUMMARY:🚑大空スバル: 【#生スバル】はじめてのぐらぶるっ！初めてのガチャピン！！【ホロライブ/大空スバル】
+UID:v4ePgw3qMZo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ありがとう2nd Fes!! ライブ直後の振り返り配信！#こえていくホロライブ\nhttps://www.youtube.com/watch?v=sXNVF-OXXJk
@@ -249,11 +263,11 @@ SUMMARY:🔥不知火フレア: 【2nd Liveありがとう！】いっぱい頑�
 UID:h7BK1bNONwU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【COLLAB】 ???!?\nhttps://www.youtube.com/watch?v=bQK1ywHTTo8
+DESCRIPTION:【感想会】hololive 2nd fes お疲れさま＆ありがとう雑談🍀【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=uN-c6TXbIM0
 DURATION:PT2H
-DTSTART:20201223T230000Z
-SUMMARY:Ina: 【COLLAB】 ???!?
-UID:bQK1ywHTTo8
+DTSTART:20201223T153000Z
+SUMMARY:⚔白銀ノエル: 【感想会】hololive 2nd fes お疲れさま＆ありがとう雑談🍀【白銀ノエル/ホロライブ】
+UID:uN-c6TXbIM0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:のんびり深夜にスパチャ読んだりライブ振り返ったり【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=7q3Q0d6_bDo
@@ -263,6 +277,13 @@ SUMMARY:🍙猫又おかゆ: のんびり深夜にスパチャ読んだりライ
 UID:7q3Q0d6_bDo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【COLLAB】 ???!?\nhttps://www.youtube.com/watch?v=bQK1ywHTTo8
+DURATION:PT2H
+DTSTART:20201223T230000Z
+SUMMARY:Ina: 【COLLAB】 ???!?
+UID:bQK1ywHTTo8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Thai Class 2】สวัสดี ! Let's Learn Thai to Impress Someone You Love【hololiveID】\nhttps://www.youtube.com/watch?v=1j7XX--Jw9I
 DURATION:PT2H
 DTSTART:20201223T130000Z
@@ -270,11 +291,11 @@ SUMMARY:🎨Iofi: 【Thai Class 2】สวัสดี ! Let's Learn Thai to Imp
 UID:1j7XX--Jw9I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談枠】アニメめっちゃ見たからその話【律可/ホロスターズ】＃りつすた\nhttps://www.youtube.com/watch?v=NLUPdnG6G8U
+DESCRIPTION:【フィットボクシング2】～鬼モードオンリーフィッボ～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=wQFYv3v9BAQ
 DURATION:PT2H
-DTSTART:20201223T140000Z
-SUMMARY:⚙律可: 【雑談枠】アニメめっちゃ見たからその話【律可/ホロスターズ】＃りつすた
-UID:NLUPdnG6G8U
+DTSTART:20201223T150000Z
+SUMMARY:荒咬オウガ: 【フィットボクシング2】～鬼モードオンリーフィッボ～【荒咬オウガ/ホロスターズ】
+UID:wQFYv3v9BAQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SLEEPY ASMR雑談】Cozy Chit-Chat with my Dead Beats... #HoloMyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=8TwC4ynM4VM
@@ -282,13 +303,6 @@ DURATION:PT2H
 DTSTART:20201223T140001Z
 SUMMARY:Calli: 【SLEEPY ASMR雑談】Cozy Chit-Chat with my Dead Beats... #HoloMyth #HololiveEnglish
 UID:8TwC4ynM4VM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【フィットボクシング2】～鬼モードオンリーフィッボ～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=wQFYv3v9BAQ
-DURATION:PT2H
-DTSTART:20201223T150000Z
-SUMMARY:荒咬オウガ: 【フィットボクシング2】～鬼モードオンリーフィッボ～【荒咬オウガ/ホロスターズ】
-UID:wQFYv3v9BAQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ホロスターズ】第1回？？？？？？【企画動画】\nhttps://www.youtube.com/watch?v=xCFNb3CwwQA
