@@ -4,6 +4,27 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Treasure hunting with Gura!\nhttps://www.youtube.com/watch?v=EQKFhOUixfk
+DURATION:PT2H
+DTSTART:20201226T230000Z
+SUMMARY:Amelia: 【Minecraft】Treasure hunting with Gura!
+UID:EQKFhOUixfk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#HOLOTALK】With our 3rd guest: Murasaki Shion #TakanaShion #タカナシオン\nhttps://www.youtube.com/watch?v=iB3ZDO7O2mc
+DURATION:PT2H
+DTSTART:20201227T010000Z
+SUMMARY:Kiara: 【#HOLOTALK】With our 3rd guest: Murasaki Shion #TakanaShion #タカナシオン
+UID:iB3ZDO7O2mc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[MINECRAFT] Comfy Cozy Minecraft\nhttps://www.youtube.com/watch?v=Im33aBeSyf0
+DURATION:PT2H
+DTSTART:20201226T230000Z
+SUMMARY:Gura: [MINECRAFT] Comfy Cozy Minecraft
+UID:Im33aBeSyf0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】 HO HO HO\nhttps://www.youtube.com/watch?v=4PAzGV2-pgc
 DURATION:PT2H
 DTSTART:20201225T200000Z
@@ -18,11 +39,11 @@ SUMMARY:Amelia: 【Minecraft】Christmas day eve! Minecraft and chat
 UID:jTS2ZW9_brE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Unravel】 Oshiete Oshiete Yo....\nhttps://www.youtube.com/watch?v=Pcwy94hlh74
+DESCRIPTION:【Outer Wilds】Galaxy Brain Space Detective\nhttps://www.youtube.com/watch?v=FWVMKxLkoSU
 DURATION:PT2H
-DTSTART:20201226T200000Z
-SUMMARY:Ina: 【Unravel】 Oshiete Oshiete Yo....
-UID:Pcwy94hlh74
+DTSTART:20201227T030500Z
+SUMMARY:Amelia: 【Outer Wilds】Galaxy Brain Space Detective
+UID:FWVMKxLkoSU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TOUHOU SPELL BUBBLE】Your Boy Loves Cute Shrine Maidens!! #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=tIsffGpCvDA
@@ -37,12 +58,5 @@ DURATION:PT2H
 DTSTART:20201226T030000Z
 SUMMARY:Amelia: 【Minecraft】Have a HAACHAMA Christmas!
 UID:SUMwWqGrgC4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#HOLOTALK】With our 3rd guest: Murasaki Shion #TakanaShion #タカナシオン\nhttps://www.youtube.com/watch?v=iB3ZDO7O2mc
-DURATION:PT2H
-DTSTART:20201227T010000Z
-SUMMARY:Kiara: 【#HOLOTALK】With our 3rd guest: Murasaki Shion #TakanaShion #タカナシオン
-UID:iB3ZDO7O2mc
 END:VEVENT
 END:VCALENDAR
