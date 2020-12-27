@@ -4,6 +4,27 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－年末。ほら、年末だよ。向き合って。－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=DyUiDITyTZM
+DURATION:PT2H
+DTSTART:20201228T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－年末。ほら、年末だよ。向き合って。－【ホロスターズ/夕刻ロベル】
+UID:DyUiDITyTZM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゼノブレイド2】初見で挑むゼノブレイド2！－お久し振りゼノブレイド2－【ホロスターズ/夕刻ロベル】#12\nhttps://www.youtube.com/watch?v=v63034-tnvM
+DURATION:PT2H
+DTSTART:20201228T040000Z
+SUMMARY:🍷夕刻ロベル: 【ゼノブレイド2】初見で挑むゼノブレイド2！－お久し振りゼノブレイド2－【ホロスターズ/夕刻ロベル】#12
+UID:v63034-tnvM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:60\,000人の皆さんへ 実家に帰らせて頂きます【奏手イヅル】\nhttps://www.youtube.com/watch?v=fhdg1EjqJvU
+DURATION:PT2H
+DTSTART:20201227T140000Z
+SUMMARY:🎸奏手イヅル: 60\,000人の皆さんへ 実家に帰らせて頂きます【奏手イヅル】
+UID:fhdg1EjqJvU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Superliminal】#2 アランの知らない錯視の世界【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=VGB8vOUjXlM
 DURATION:PT2H
 DTSTART:20201227T080000Z
@@ -11,18 +32,25 @@ SUMMARY:🍕アルランディス: 【Superliminal】#2 アランの知らない
 UID:VGB8vOUjXlM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【桃太郎電鉄 ～昭和　平成　令和も定番！～】～ツノコーンチキンピザで桃鉄！～【荒咬オウガ　白上フブキ　風見くく　アルランディス】\nhttps://www.youtube.com/watch?v=ST7WQ3wwMys
+DURATION:PT2H
+DTSTART:20201228T110000Z
+SUMMARY:荒咬オウガ: 【桃太郎電鉄 ～昭和　平成　令和も定番！～】～ツノコーンチキンピザで桃鉄！～【荒咬オウガ　白上フブキ　風見くく　アルランディス】
+UID:ST7WQ3wwMys
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【有馬記念】有馬記念。夢を掴む、そんな一日に今日はなる【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=T0dPwp9FN3k
+DURATION:PT2H
+DTSTART:20201227T053000Z
+SUMMARY:🍷夕刻ロベル: 【有馬記念】有馬記念。夢を掴む、そんな一日に今日はなる【ホロスターズ/夕刻ロベル】
+UID:T0dPwp9FN3k
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【超練習】Everybody APEX practice 【ホロスターズ】\nhttps://www.youtube.com/watch?v=E8-6VE-cJwE
 DURATION:PT2H
 DTSTART:20201226T153000Z
 SUMMARY:🎭アステル・レダ: 【超練習】Everybody APEX practice 【ホロスターズ】
 UID:E8-6VE-cJwE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】買い物行ってきた話とか年末年始の話【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=qiQ-zmfldTo
-DURATION:PT2H
-DTSTART:20201227T090000Z
-SUMMARY:影山シエン: 【雑談】買い物行ってきた話とか年末年始の話【影山シエン/ホロスターズ】
-UID:qiQ-zmfldTo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【馬】馬馬馬【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=0jAHT8Lg1NY
@@ -37,6 +65,13 @@ DURATION:PT2H
 DTSTART:20201226T050000Z
 SUMMARY:🍕アルランディス: 【Superliminal】アランの知らない錯視の世界【アルランディス/ホロスターズ】
 UID:JTc_4mmGHbI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【記念枠】祝!チャンネル登録者5万人！初配信を見返そう！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=34ZrtMxOXgo
+DURATION:PT2H
+DTSTART:20201226T110000Z
+SUMMARY:🍕アルランディス: 【記念枠】祝!チャンネル登録者5万人！初配信を見返そう！【アルランディス/ホロスターズ】
+UID:34ZrtMxOXgo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】朝っぱらのやかましAPEX【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=0NfErXePl_Y
@@ -67,13 +102,6 @@ SUMMARY:⚙律可: 【弾き語り枠】カップルお断り【律可/ホロス
 UID:iQy1DYw-_og
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:60\,000人の皆さんへ 実家に帰らせて頂きます【奏手イヅル】\nhttps://www.youtube.com/watch?v=fhdg1EjqJvU
-DURATION:PT2H
-DTSTART:20201227T140000Z
-SUMMARY:🎸奏手イヅル: 60\,000人の皆さんへ 実家に帰らせて頂きます【奏手イヅル】
-UID:fhdg1EjqJvU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ガンプラ】～年末だしガンプラ作る～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=vfP4LLKf3X8
 DURATION:PT2H
 DTSTART:20201227T040000Z
@@ -81,17 +109,10 @@ SUMMARY:荒咬オウガ: 【ガンプラ】～年末だしガンプラ作る～�
 UID:vfP4LLKf3X8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【記念枠】祝!チャンネル登録者5万人！初配信を見返そう！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=34ZrtMxOXgo
+DESCRIPTION:【雑談】買い物行ってきた話とか年末年始の話【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=qiQ-zmfldTo
 DURATION:PT2H
-DTSTART:20201226T110000Z
-SUMMARY:🍕アルランディス: 【記念枠】祝!チャンネル登録者5万人！初配信を見返そう！【アルランディス/ホロスターズ】
-UID:34ZrtMxOXgo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【有馬記念】有馬記念。夢を掴む、そんな一日に今日はなる【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=T0dPwp9FN3k
-DURATION:PT2H
-DTSTART:20201227T053000Z
-SUMMARY:🍷夕刻ロベル: 【有馬記念】有馬記念。夢を掴む、そんな一日に今日はなる【ホロスターズ/夕刻ロベル】
-UID:T0dPwp9FN3k
+DTSTART:20201227T090000Z
+SUMMARY:影山シエン: 【雑談】買い物行ってきた話とか年末年始の話【影山シエン/ホロスターズ】
+UID:qiQ-zmfldTo
 END:VEVENT
 END:VCALENDAR
