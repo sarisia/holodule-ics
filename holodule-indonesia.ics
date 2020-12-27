@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Eating Stream】What's for Breakfast Today?【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=O2PuWyN15eA
-DURATION:PT2H
-DTSTART:20201226T040000Z
-SUMMARY:Reine: 【Eating Stream】What's for Breakfast Today?【hololiveID 2nd generation】
-UID:O2PuWyN15eA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:DDD DAY 26 ~!!!! MINI DOUGHNUT = MINI RISU ???????\nhttps://www.youtube.com/watch?v=7VN2lA0te3o
-DURATION:PT2H
-DTSTART:20201226T151139Z
-SUMMARY:🐿Risu: DDD DAY 26 ~!!!! MINI DOUGHNUT = MINI RISU ???????
-UID:7VN2lA0te3o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【KARAOKE COLLAB】Zombie\, Dagger\, and Bird Singing for You!【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=LeK7Db4l8ws
 DURATION:PT2H
 DTSTART:20201226T140000Z
@@ -37,5 +23,40 @@ DURATION:PT2H
 DTSTART:20201225T163025Z
 SUMMARY:🐿Risu: DDD DAY 25 ~!!! DOUGHNUT TREE ~!!!!
 UID:jcvbiI1Zi7A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Eating Stream】What's for Breakfast Today?【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=O2PuWyN15eA
+DURATION:PT2H
+DTSTART:20201226T040000Z
+SUMMARY:Reine: 【Eating Stream】What's for Breakfast Today?【hololiveID 2nd generation】
+UID:O2PuWyN15eA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[IB] WELCOME TO THE WORLD OF GUERTENA!!! [Hololive Indonesia 2nd Gen]\nhttps://www.youtube.com/watch?v=f5wJ3DZCrS0
+DURATION:PT2H
+DTSTART:20201227T140000Z
+SUMMARY:Ollie: [IB] WELCOME TO THE WORLD OF GUERTENA!!! [Hololive Indonesia 2nd Gen]
+UID:f5wJ3DZCrS0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:DDD DAY 26 ~!!!! MINI DOUGHNUT = MINI RISU ???????\nhttps://www.youtube.com/watch?v=7VN2lA0te3o
+DURATION:PT2H
+DTSTART:20201226T151139Z
+SUMMARY:🐿Risu: DDD DAY 26 ~!!!! MINI DOUGHNUT = MINI RISU ???????
+UID:7VN2lA0te3o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Mario Kart 8 Deluxe Collab】Racing Into Your Heart \;)【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=_h9XnTfmPas
+DURATION:PT2H
+DTSTART:20201227T020000Z
+SUMMARY:Reine: 【Mario Kart 8 Deluxe Collab】Racing Into Your Heart \;)【hololiveID 2nd generation】
+UID:_h9XnTfmPas
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【COLLAB POST-TALKS】Talking A Bit About The Chaotic Gen2 Collab!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=6I2ry8IkS48
+DURATION:PT2H
+DTSTART:20201227T083000Z
+SUMMARY:Anya: 【COLLAB POST-TALKS】Talking A Bit About The Chaotic Gen2 Collab!【hololive Indonesia 2nd Generation】
+UID:6I2ry8IkS48
 END:VEVENT
 END:VCALENDAR
