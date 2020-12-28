@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:S P E E D\nhttps://www.youtube.com/watch?v=jGQM0JINH4Y
+DURATION:PT2H
+DTSTART:20201228T083037Z
+SUMMARY:Ollie: S P E E D
+UID:jGQM0JINH4Y
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:DDD DAY 27 ~!! SENT ??? SCENT ?? SCENTED DOUGHNUT ???\nhttps://www.youtube.com/watch?v=v3sTedemXvE
 DURATION:PT2H
 DTSTART:20201227T144450Z
@@ -32,10 +39,10 @@ SUMMARY:🎨Iofi: 【 #いおぽち生 】ぽち先生とCHIT CHAT！久しぶ�
 UID:yRbzv7c-nnE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[IB] WELCOME TO THE WORLD OF GUERTENA!!! [Hololive Indonesia 2nd Gen]\nhttps://www.youtube.com/watch?v=f5wJ3DZCrS0
+DESCRIPTION:【IB】WELCOME TO THE WORLD OF GUERTENA!!! 【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=f5wJ3DZCrS0
 DURATION:PT2H
 DTSTART:20201227T135818Z
-SUMMARY:Ollie: [IB] WELCOME TO THE WORLD OF GUERTENA!!! [Hololive Indonesia 2nd Gen]
+SUMMARY:Ollie: 【IB】WELCOME TO THE WORLD OF GUERTENA!!! 【Hololive Indonesia 2nd Gen】
 UID:f5wJ3DZCrS0
 END:VEVENT
 BEGIN:VEVENT
@@ -65,5 +72,12 @@ DURATION:PT2H
 DTSTART:20201227T083000Z
 SUMMARY:Anya: 【COLLAB POST-TALKS】Talking A Bit About The Chaotic Gen2 Collab!【hololive Indonesia 2nd Generation】
 UID:6I2ry8IkS48
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololiveID】#3 I want to continue playing AC Origins ~!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=9Rfd3fGKxo8
+DURATION:PT2H
+DTSTART:20201228T110000Z
+SUMMARY:🐿Risu: 【hololiveID】#3 I want to continue playing AC Origins ~!!!【Ayunda Risu】
+UID:9Rfd3fGKxo8
 END:VEVENT
 END:VCALENDAR
