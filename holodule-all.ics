@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【メン限】ことしさいごの～！！！！メン限！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=mr6EycA6wvA
+DURATION:PT2H
+DTSTART:20201230T130000Z
+SUMMARY:⚓湊あくあ: 【メン限】ことしさいごの～！！！！メン限！【湊あくあ/ホロライブ】
+UID:mr6EycA6wvA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【忘年会】晩酌しながら年末最後の振り返り配信！Thanks for a great year！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=8hGql0QZ208
 DURATION:PT2H
 DTSTART:20201230T120000Z
@@ -93,13 +100,6 @@ DURATION:PT2H
 DTSTART:20201230T061500Z
 SUMMARY:⚓湊あくあ: 【Minecraft】全ロスの、その先へ。魂のネザライト耐久。【湊あくあ/ホロライブ】
 UID:TzC5Hg17KMo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FALL GUYS】RUN\, JUMP\, BUT DO NOT FALL ZOMBEH!!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=UheMQ9IMZBU
-DURATION:PT2H
-DTSTART:20201230T084505Z
-SUMMARY:Ollie: 【FALL GUYS】RUN\, JUMP\, BUT DO NOT FALL ZOMBEH!!!【Hololive Indonesia 2nd Gen】
-UID:UheMQ9IMZBU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:1年に1回しかないかもしれない、セリフ読み  - playing actor word\nhttps://www.youtube.com/watch?v=kaE-azyAWj4
@@ -501,13 +501,6 @@ SUMMARY:🍕アルランディス: 【12月】月一恒例！コメントをハ�
 UID:Nq4oXWj3SRE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Ark: Survival Evolved】ボス戦準備する！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=CHLI3lyUi-o
-DURATION:PT2H
-DTSTART:20201230T030000Z
-SUMMARY:💋癒月ちょこSub: 【Ark: Survival Evolved】ボス戦準備する！【ホロライブ/癒月ちょこ】
-UID:CHLI3lyUi-o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ホビー枠】Reバース for you ホロライブプロダクションを100パック開封する【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=rgbrz66fJWw
 DURATION:PT2H
 DTSTART:20201230T060000Z
@@ -592,10 +585,10 @@ SUMMARY:Anya: 【Mad Father】Mom seems to be in a terrible mood too this time?!
 UID:HMJU9h1gmdw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ゼノブレイド2】初見で挑むゼノブレイド2！－最終回。旅が終わる。－【ホロスターズ/夕刻ロベル】#14\nhttps://www.youtube.com/watch?v=P_6y_an37P4
+DESCRIPTION:【ゼノブレイド2】初見で挑むゼノブレイド2！－最終回。旅が終わる。－【ホロスターズ/夕刻ロベル】#終\nhttps://www.youtube.com/watch?v=P_6y_an37P4
 DURATION:PT2H
 DTSTART:20201230T040000Z
-SUMMARY:🍷夕刻ロベル: 【ゼノブレイド2】初見で挑むゼノブレイド2！－最終回。旅が終わる。－【ホロスターズ/夕刻ロベル】#14
+SUMMARY:🍷夕刻ロベル: 【ゼノブレイド2】初見で挑むゼノブレイド2！－最終回。旅が終わる。－【ホロスターズ/夕刻ロベル】#終
 UID:P_6y_an37P4
 END:VEVENT
 BEGIN:VEVENT
