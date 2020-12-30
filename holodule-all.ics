@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【忘年会】晩酌しながら年末最後の振り返り配信！Thanks for a great year！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=8hGql0QZ208
+DURATION:PT2H
+DTSTART:20201230T120000Z
+SUMMARY:⚔白銀ノエル: 【忘年会】晩酌しながら年末最後の振り返り配信！Thanks for a great year！【白銀ノエル/ホロライブ】
+UID:8hGql0QZ208
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ホロお正月CUP】マリカ大会予選のチーム分けを行います！【ホロライブ/常闇トワ】\nhttps://www.youtube.com/watch?v=TDr6UcBflT8
 DURATION:PT2H
 DTSTART:20201230T100000Z
@@ -25,13 +32,6 @@ SUMMARY:Amelia: 【LA Noire】Ya like jazz?
 UID:1fpQW7TE1Fs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Yonakatsu/よなかつ】How Was Your 2020?【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=2_BHpEGEHV0
-DURATION:PT2H
-DTSTART:20201230T150000Z
-SUMMARY:Anya: 【Yonakatsu/よなかつ】How Was Your 2020?【hololive Indonesia 2nd Generation】
-UID:2_BHpEGEHV0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Live Draw】Hi! Drawing New Year's Card For Everyone【hololiveID】\nhttps://www.youtube.com/watch?v=0YpAgrPCEbM
 DURATION:PT2H
 DTSTART:20201230T152500Z
@@ -44,6 +44,13 @@ DURATION:PT2H
 DTSTART:20201230T050000Z
 SUMMARY:Kiara: 【MINECRAFT】Back to Business\, KFP employees!!!!!!!!!!!! #kfp #キアライブ
 UID:IY-yxHX4UoU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ASMR MIC】Reaper's First ASMR Mic\, In Action! What Should I Do...? #HoloMyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=tPOzJVRISZ0
+DURATION:PT2H
+DTSTART:20201231T040000Z
+SUMMARY:Calli: 【ASMR MIC】Reaper's First ASMR Mic\, In Action! What Should I Do...? #HoloMyth #HololiveEnglish
+UID:tPOzJVRISZ0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Anakku Bukan Anakku?!\nhttps://www.youtube.com/watch?v=DrnuYm9hHPs
@@ -284,6 +291,13 @@ SUMMARY:🦋潤羽るしあ: 【Minecraft】ホロ鯖がバージョンアップ
 UID:RhSMK7PFkCg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#らみらいぶ】2020年最後の朝活雑談！！【12月31日】\nhttps://www.youtube.com/watch?v=SokbkGK9QSo
+DURATION:PT2H
+DTSTART:20201231T000000Z
+SUMMARY:雪花ラミィ: 【#らみらいぶ】2020年最後の朝活雑談！！【12月31日】
+UID:SokbkGK9QSo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Indonesia Free Talk】Helo\,　Ngobrol Yuk【hololiveID】\nhttps://www.youtube.com/watch?v=bSbiowDampM
 DURATION:PT2H
 DTSTART:20201230T130000Z
@@ -450,13 +464,6 @@ DURATION:PT2H
 DTSTART:20210101T063000Z
 SUMMARY:尾丸ポルカ: 【#ホロライブ正月衣装】初衣装💖初正月💖新装開店💖ホロ新衣装リレー💖New Year💖New Look💖【尾丸ポルカ/ホロライブ】
 UID:1q5VK5T4Rw8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Member onry ASMR【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=m2pA4yCszHc
-DURATION:PT2H
-DTSTART:20201230T170000Z
-SUMMARY:尾丸ポルカ: Member onry ASMR【尾丸ポルカ/ホロライブ】
-UID:m2pA4yCszHc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARK CRYSTAL ISLES】γBOSS BATTLE!? #年末ARKボス戦​【Hololive/癒月ちょこ/桐生ココ/天音かなた/アキロゼ/尾丸ポルカ視点】\nhttps://www.youtube.com/watch?v=0ECjQDRPI5Y
