@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【忘年会】晩酌しながら年末最後の振り返り配信！Thanks for a great year！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=8hGql0QZ208
+DURATION:PT2H
+DTSTART:20201230T120000Z
+SUMMARY:⚔白銀ノエル: 【忘年会】晩酌しながら年末最後の振り返り配信！Thanks for a great year！【白銀ノエル/ホロライブ】
+UID:8hGql0QZ208
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#9【RiTunes Labo】生セッション歌枠：ゲスト『花鋏キョウ』【律可/ホロスターズ 】#りちゅらぼ\nhttps://www.youtube.com/watch?v=mjv07ROPE5Q
 DURATION:PT2H
 DTSTART:20201229T110000Z
@@ -100,13 +107,6 @@ DURATION:PT2H
 DTSTART:20201228T163000Z
 SUMMARY:🌙紫咲シオン: 【マリオカート8DX】マリオカートがやりたいです【ホロライブ/紫咲シオン】
 UID:b1T3SNPV31E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【作業用・勉強・睡眠用BGM】2020年”最高”に気が狂うヒットソングメドレー  / アステル・レダ\nhttps://www.youtube.com/watch?v=hjkBs2DLVZY
-DURATION:PT2H
-DTSTART:20201229T080000Z
-SUMMARY:🎭アステル・レダ: 【作業用・勉強・睡眠用BGM】2020年”最高”に気が狂うヒットソングメドレー  / アステル・レダ
-UID:hjkBs2DLVZY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【桃太郎電鉄】3年決戦！敏腕社長はだれ？！【ときのそら/桃鈴ねね/Takanashi Kiara/アキロゼ 】\nhttps://www.youtube.com/watch?v=fInMmHXBSJQ
@@ -410,10 +410,10 @@ SUMMARY:🐏角巻わため: 【3D動画】１周年記念配信後のわため�
 UID:5wnpeS5_5qk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ホロ鯖がバージョンアップ！？やネザー冒険！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=RhSMK7PFkCg
+DESCRIPTION:【Minecraft】ホロ鯖がバージョンアップ！？ネザー冒険！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=RhSMK7PFkCg
 DURATION:PT2H
 DTSTART:20201230T080000Z
-SUMMARY:🦋潤羽るしあ: 【Minecraft】ホロ鯖がバージョンアップ！？やネザー冒険！【潤羽るしあ/ホロライブ】
+SUMMARY:🦋潤羽るしあ: 【Minecraft】ホロ鯖がバージョンアップ！？ネザー冒険！【潤羽るしあ/ホロライブ】
 UID:RhSMK7PFkCg
 END:VEVENT
 BEGIN:VEVENT
@@ -452,13 +452,6 @@ SUMMARY:💋癒月ちょこSub: 【Ark: Survival Evolved】ボス戦準備する
 UID:CHLI3lyUi-o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ホビー枠】Reバース for you ホロライブプロダクションを100パック開封する【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=rgbrz66fJWw
-DURATION:PT2H
-DTSTART:20201230T060000Z
-SUMMARY:荒咬オウガ: 【ホビー枠】Reバース for you ホロライブプロダクションを100パック開封する【荒咬オウガ/ホロスターズ】
-UID:rgbrz66fJWw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ホロ鯖Ver1.16きｔらああああ！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=BwsYzT9qTCo
 DURATION:PT2H
 DTSTART:20201229T120000Z
@@ -485,6 +478,13 @@ DURATION:PT2H
 DTSTART:20201229T163801Z
 SUMMARY:🐿Risu: DDD DAY 29 ~!!! DISAPPEARING DOUGHNUT DECEMBER ???!??!?!
 UID:ouS-TN8YBac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #フェスティバルーナ 】アイドル２人が歌うのらっっっ！！！✨【姫森ルーナ/夏色まつり/ホロライブ】\nhttps://www.youtube.com/watch?v=lYKNkKcSiqM
+DURATION:PT2H
+DTSTART:20201230T073000Z
+SUMMARY:🍬姫森ルーナ: 【 #フェスティバルーナ 】アイドル２人が歌うのらっっっ！！！✨【姫森ルーナ/夏色まつり/ホロライブ】
+UID:lYKNkKcSiqM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Blasphemous #03】Slaying Late into the Night! #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=FWGwve9OHQs
@@ -527,13 +527,6 @@ DURATION:PT2H
 DTSTART:20201229T150000Z
 SUMMARY:Anya: 【Mad Father】Mom seems to be in a terrible mood too this time?!【hololive Indonesia 2nd Generation】
 UID:HMJU9h1gmdw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ゼノブレイド2】初見で挑むゼノブレイド2！－最終回。旅が終わる。－【ホロスターズ/夕刻ロベル】#14\nhttps://www.youtube.com/watch?v=P_6y_an37P4
-DURATION:PT2H
-DTSTART:20201230T040000Z
-SUMMARY:🍷夕刻ロベル: 【ゼノブレイド2】初見で挑むゼノブレイド2！－最終回。旅が終わる。－【ホロスターズ/夕刻ロベル】#14
-UID:P_6y_an37P4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #UNOLIVE】2020年最後のド深夜UNO✨✨【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=tfUjQbfLO_o
@@ -604,6 +597,13 @@ DURATION:PT2H
 DTSTART:20201231T093000Z
 SUMMARY:ホロライブ: 年末ホロライブ　～ゆくホロくるホロ2020～【#ゆくホロくるホロ2020】
 UID:CBTwb8jqJM8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【今年最後の配信！？】【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=P9-l6Kq3rFI
+DURATION:PT2H
+DTSTART:20201230T110000Z
+SUMMARY:🏴☠宝鐘マリン: 【今年最後の配信！？】【ホロライブ/宝鐘マリン】
+UID:P9-l6Kq3rFI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【English Free Talk】Hi Gurl❤️️Kimi to ❤️️Watashi❤️️Tonight❤️️Let's Talk【hololiveID】\nhttps://www.youtube.com/watch?v=vB45b2L2D4k
