@@ -1,5 +1,7 @@
 # Holodule-ICS
 
+[日本語] [[English]](https://github.com/sarisia/holodule-ics/blob/master/README-en.md)
+
 ホロライブの配信予定 [ホロジュール](https://schedule.hololive.tv/) を
 任意のカレンダーアプリ等に登録できる `ics` ファイル
 
@@ -7,10 +9,8 @@
 
 # URL一覧
 
-> :warning: 2020/05/26 にすべての URL を変更しましたが、変更前の URL でも問題なく更新されます
-
 | カテゴリ | URL |
-| - | - |
+| :-: | - |
 | すべて | https://sarisia.cc/holodule-ics/holodule-all.ics |
 | ホロライブ | https://sarisia.cc/holodule-ics/holodule-hololive.ics |
 | ホロスターズ | https://sarisia.cc/holodule-ics/holodule-holostars.ics |
