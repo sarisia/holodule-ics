@@ -32,18 +32,18 @@ SUMMARY:Kiara: 【NEW YEARS COUNTDOWN】I am in the future\, but countdown with 
 UID:tp_lcqOrORk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Live Draw】Hi! Drawing New Year's Card For Everyone【hololiveID】\nhttps://www.youtube.com/watch?v=0YpAgrPCEbM
-DURATION:PT2H
-DTSTART:20201230T152500Z
-SUMMARY:🎨Iofi: 【Live Draw】Hi! Drawing New Year's Card For Everyone【hololiveID】
-UID:0YpAgrPCEbM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】 HNY!!!\nhttps://www.youtube.com/watch?v=Bi0Y1pv-tg4
 DURATION:PT2H
 DTSTART:20201231T200000Z
 SUMMARY:Ina: 【Minecraft】 HNY!!!
 UID:Bi0Y1pv-tg4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Live Draw】Hi! Drawing New Year's Card For Everyone【hololiveID】\nhttps://www.youtube.com/watch?v=0YpAgrPCEbM
+DURATION:PT2H
+DTSTART:20201230T152500Z
+SUMMARY:🎨Iofi: 【Live Draw】Hi! Drawing New Year's Card For Everyone【hololiveID】
+UID:0YpAgrPCEbM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Ark: Survival Evolved】へなちょこ悪魔の年納ARK【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=txOAq7re5Zk
@@ -95,6 +95,13 @@ SUMMARY:Calli: 【A WAY OUT #4】Let's FINISH THIS. feat. Takanashi Kiara
 UID:b76qafQfx9E
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【謹賀新年】あけましておめでとう！！！！！！！2021年もよろしくおねがいします配信\nhttps://www.youtube.com/watch?v=e7KI9_0zsck
+DURATION:PT2H
+DTSTART:20210101T030000Z
+SUMMARY:👿百鬼あやめ: 【謹賀新年】あけましておめでとう！！！！！！！2021年もよろしくおねがいします配信
+UID:e7KI9_0zsck
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【2020年】ぺこ納め！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=QgVmQtT1kIw
 DURATION:PT2H
 DTSTART:20201231T080000Z
@@ -144,18 +151,18 @@ SUMMARY:🌽白上フブキ: 【 東方風神録】クリアするぞクリア�
 UID:6uRzDOEIlnA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【】正月運試し！ソセレ！！！！！！！！！！！！【レート：900~】\nhttps://www.youtube.com/watch?v=5-DJxNOHIrs
+DURATION:PT2H
+DTSTART:20210101T110000Z
+SUMMARY:🚑大空スバル: 【】正月運試し！ソセレ！！！！！！！！！！！！【レート：900~】
+UID:5-DJxNOHIrs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ioappreciate】Terima Kasih 2020\, Terima Kasih Ioforia【hololiveID】\nhttps://www.youtube.com/watch?v=eFcU63XgXhk
 DURATION:PT2H
 DTSTART:20201231T140000Z
 SUMMARY:🎨Iofi: 【#ioappreciate】Terima Kasih 2020\, Terima Kasih Ioforia【hololiveID】
 UID:eFcU63XgXhk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－元旦に行われる他愛もない雑談－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=x9yLewZ-Icc
-DURATION:PT2H
-DTSTART:20210101T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－元旦に行われる他愛もない雑談－【ホロスターズ/夕刻ロベル】
-UID:x9yLewZ-Icc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:脱毛の痛みと涙と苦しみをぶつけて作る豚汁が、旨くないはずがない。\nhttps://www.youtube.com/watch?v=zkVVxooZlPs
@@ -165,11 +172,11 @@ SUMMARY:🐉桐生ココ: 脱毛の痛みと涙と苦しみをぶつけて作る
 UID:zkVVxooZlPs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【】正月運試し！ソセレ！！！！！！！！！！！！【レート：900~】\nhttps://www.youtube.com/watch?v=5-DJxNOHIrs
+DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－元旦に行われる他愛もない雑談－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=x9yLewZ-Icc
 DURATION:PT2H
-DTSTART:20210101T110000Z
-SUMMARY:🚑大空スバル: 【】正月運試し！ソセレ！！！！！！！！！！！！【レート：900~】
-UID:5-DJxNOHIrs
+DTSTART:20210101T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－元旦に行われる他愛もない雑談－【ホロスターズ/夕刻ロベル】
+UID:x9yLewZ-Icc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#おかころ】あけましておめでとうございますいぬねこ～【オフコラボ】\nhttps://www.youtube.com/watch?v=XBq7AU_PVvY
@@ -256,6 +263,13 @@ SUMMARY:🦔💨岸堂天真: 2020年、お疲れ様でした！！！！！！
 UID:b9hKfTnLsEY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【2021年】ホロライブメンバーを全員占う【タロット/大神ミオ】\nhttps://www.youtube.com/watch?v=Cjj2D5n_BJI
+DURATION:PT2H
+DTSTART:20210101T043000Z
+SUMMARY:🌲大神ミオ: 【2021年】ホロライブメンバーを全員占う【タロット/大神ミオ】
+UID:Cjj2D5n_BJI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－大晦日に行われる朝活雑談－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=xlG5CQnDal8
 DURATION:PT2H
 DTSTART:20201231T010000Z
@@ -277,18 +291,18 @@ SUMMARY:影山シエン: 【配信納め】今年ラスト任務という名の�
 UID:GSlR4gW1rrQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【NEW YEARS SPECIAL】BYE 2020!!! HELLO 2021!!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=sqi4JY6k3co
-DURATION:PT2H
-DTSTART:20201231T144959Z
-SUMMARY:Ollie: 【NEW YEARS SPECIAL】BYE 2020!!! HELLO 2021!!!【Hololive Indonesia 2nd Gen】
-UID:sqi4JY6k3co
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Happy New Year】新年のご・あ・い・さ・つ！🎍New Year Greetings【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=Msw3ZtH_U0o
 DURATION:PT2H
 DTSTART:20201231T160138Z
 SUMMARY:🔥不知火フレア: 【Happy New Year】新年のご・あ・い・さ・つ！🎍New Year Greetings【ホロライブ/不知火フレア】
 UID:Msw3ZtH_U0o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【NEW YEARS SPECIAL】BYE 2020!!! HELLO 2021!!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=sqi4JY6k3co
+DURATION:PT2H
+DTSTART:20201231T144959Z
+SUMMARY:Ollie: 【NEW YEARS SPECIAL】BYE 2020!!! HELLO 2021!!!【Hololive Indonesia 2nd Gen】
+UID:sqi4JY6k3co
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Kiara x Calliope】 ワーワーワールド / Wah Wah World【COVER】#TAKAMORI\nhttps://www.youtube.com/watch?v=pXD4BbYludc
