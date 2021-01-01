@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【2021年】ホロライブメンバーを全員占う【タロット/大神ミオ】\nhttps://www.youtube.com/watch?v=Cjj2D5n_BJI
+DURATION:PT2H
+DTSTART:20210101T043000Z
+SUMMARY:🌲大神ミオ: 【2021年】ホロライブメンバーを全員占う【タロット/大神ミオ】
+UID:Cjj2D5n_BJI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Ark: Survival Evolved】へなちょこ悪魔の年納ARK【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=txOAq7re5Zk
 DURATION:PT2H
 DTSTART:20201231T060000Z
@@ -60,6 +67,13 @@ SUMMARY:👯兎田ぺこら: 【2020年】ぺこ納め！ぺこ！【ホロラ�
 UID:QgVmQtT1kIw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【謹賀新年】あけましておめでとう！！！！！！！2021年もよろしくおねがいします配信\nhttps://www.youtube.com/watch?v=e7KI9_0zsck
+DURATION:PT2H
+DTSTART:20210101T030000Z
+SUMMARY:👿百鬼あやめ: 【謹賀新年】あけましておめでとう！！！！！！！2021年もよろしくおねがいします配信
+UID:e7KI9_0zsck
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【昼雑】おはよう2021！！！！！！【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=2dODcM458Bg
 DURATION:PT2H
 DTSTART:20210101T030000Z
@@ -67,18 +81,18 @@ SUMMARY:桃鈴ねね: 【昼雑】おはよう2021！！！！！！【桃鈴ね
 UID:2dODcM458Bg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【龍が如く0】シリーズ初見プレイ！すべてはここから始まったぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=QF6hF-RxJUw
-DURATION:PT2H
-DTSTART:20210102T040000Z
-SUMMARY:👯兎田ぺこら: 【龍が如く0】シリーズ初見プレイ！すべてはここから始まったぺこ！【ホロライブ/兎田ぺこら】
-UID:QF6hF-RxJUw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:happy new *nyaaaaaaa*\nhttps://www.youtube.com/watch?v=rV2Q_RPY6dw
 DURATION:PT2H
 DTSTART:20201231T150036Z
 SUMMARY:尾丸ポルカ: happy new *nyaaaaaaa*
 UID:rV2Q_RPY6dw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【龍が如く0】シリーズ初見プレイ！すべてはここから始まったぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=QF6hF-RxJUw
+DURATION:PT2H
+DTSTART:20210102T040000Z
+SUMMARY:👯兎田ぺこら: 【龍が如く0】シリーズ初見プレイ！すべてはここから始まったぺこ！【ホロライブ/兎田ぺこら】
+UID:QF6hF-RxJUw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Belly Dance Akirose\nhttps://www.youtube.com/watch?v=AYR0fFYnNv0
