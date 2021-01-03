@@ -53,13 +53,6 @@ SUMMARY:🍙猫又おかゆ: 【マリカDX8】つよつよ本選で会う為に
 UID:WhD3NtIRPEA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】LAST PLAYED ALIVE??? DOES OLLIE REMEMBER???【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=PzKsr1s71do
-DURATION:PT2H
-DTSTART:20210103T112730Z
-SUMMARY:Ollie: 【MINECRAFT】LAST PLAYED ALIVE??? DOES OLLIE REMEMBER???【Hololive Indonesia 2nd Gen】
-UID:PzKsr1s71do
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:アウトサイダー／天音かなた(Cover)\nhttps://www.youtube.com/watch?v=8HylJNyMuzU
 DURATION:PT2H
 DTSTART:20210102T131500Z
@@ -249,6 +242,13 @@ SUMMARY:🌸さくらみこ: 【龍が如く０】今夜もやっちゃいます
 UID:EEguXrDsogQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【358KILL耐久!!】 APEXスーパー強化DAYあけおめの巻き【アステルちゃん視点】\nhttps://www.youtube.com/watch?v=5qlV2zgqz80
+DURATION:PT2H
+DTSTART:20210103T131500Z
+SUMMARY:🎭アステル・レダ: 【358KILL耐久!!】 APEXスーパー強化DAYあけおめの巻き【アステルちゃん視点】
+UID:5qlV2zgqz80
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ホロスターズカラオケ大会】ﾊﾟﾝｯWWWWﾖｯｼｬWWWWWｳﾀｫWWWWW / アステル・レダ\nhttps://www.youtube.com/watch?v=xZfwwJQzGAI
 DURATION:PT2H
 DTSTART:20210102T100000Z
@@ -347,6 +347,13 @@ SUMMARY:🥐戌神ころね: あの感動を再び！伝説の神ゲー！バル
 UID:Ue_zneU1dpI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【あけおめ】お前らが去年叶えられなかった抱負を供養する【ホロライブ / 星街すいせい 】\nhttps://www.youtube.com/watch?v=iXiqdI_9oys
+DURATION:PT2H
+DTSTART:20210103T120000Z
+SUMMARY:☄星街すいせい: 【あけおめ】お前らが去年叶えられなかった抱負を供養する【ホロライブ / 星街すいせい 】
+UID:iXiqdI_9oys
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#はあちゃま3D】はあちゃま、動きます。\nhttps://www.youtube.com/watch?v=DsV-EJmbvr8
 DURATION:PT2H
 DTSTART:20210103T110000Z
@@ -394,6 +401,13 @@ DURATION:PT2H
 DTSTART:20210103T130000Z
 SUMMARY:🏮夏色まつり: 【APEXガチャ】新年でめでたいし天井じゃなくてもひける説【ホロライブ/夏色まつり】
 UID:uKGrmRbvzUs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【乾杯雑談】New year 1st stream!!あつまれ晩酌だ～！！【Hololive/Akirose】\nhttps://www.youtube.com/watch?v=9gqIceAq74I
+DURATION:PT2H
+DTSTART:20210103T150000Z
+SUMMARY:🍎アキロゼ: 【乾杯雑談】New year 1st stream!!あつまれ晩酌だ～！！【Hololive/Akirose】
+UID:9gqIceAq74I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【アニメ】アイドル事務所の秘密暴いたったわ！\nhttps://www.youtube.com/watch?v=i_9xsmRez4Y
@@ -536,13 +550,6 @@ SUMMARY:👾常闇トワ: 【マリオカート8DX】大会練習もかねて車
 UID:4NMgGbzZs-Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DEAR DIARY】 タコタコタコ\nhttps://www.youtube.com/watch?v=TSwJ_s8KN7M
-DURATION:PT2H
-DTSTART:20210103T070000Z
-SUMMARY:Ina: 【DEAR DIARY】 タコタコタコ
-UID:TSwJ_s8KN7M
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠】第３８回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=H355h2jGLL4
 DURATION:PT2H
 DTSTART:20210103T130000Z
@@ -632,13 +639,6 @@ DURATION:PT2H
 DTSTART:20210103T121000Z
 SUMMARY:🎸奏手イヅル: 【スパチャ御礼】新衣装ありがと~!今年も頑張らねば【奏手イヅル】
 UID:c9zeQriSTAU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【フブミオ(あやめぇ!)】百花繚乱花吹雪リリース記念裏話！【#ホロライブ9週連続リリース】\nhttps://www.youtube.com/watch?v=u-JVKwfZ8jY
-DURATION:PT2H
-DTSTART:20210103T120000Z
-SUMMARY:🌽白上フブキ: 【フブミオ(あやめぇ!)】百花繚乱花吹雪リリース記念裏話！【#ホロライブ9週連続リリース】
-UID:u-JVKwfZ8jY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:《House on the Hill》新年！！！初ビビリ、出しません。⛰\nhttps://www.youtube.com/watch?v=N6DQJd6Aa1o
@@ -732,18 +732,18 @@ SUMMARY:⚓湊あくあ: 【桃鉄耐久】目標は全国統一！？ひとり�
 UID:oiBVIqhn034
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Ark: Survival Evolved】へなちょこ悪魔の年始ＡＲＫ【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=XopSvQkwrAQ
-DURATION:PT2H
-DTSTART:20210103T080000Z
-SUMMARY:💋癒月ちょこSub: 【Ark: Survival Evolved】へなちょこ悪魔の年始ＡＲＫ【ホロライブ/癒月ちょこ】
-UID:XopSvQkwrAQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:起きられて偉い♥【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=_1PjfygCAsU
 DURATION:PT2H
 DTSTART:20210103T010000Z
 SUMMARY:尾丸ポルカ: 起きられて偉い♥【尾丸ポルカ/ホロライブ】
 UID:_1PjfygCAsU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEAR DIARY】 タコタコタコ\nhttps://www.youtube.com/watch?v=TSwJ_s8KN7M
+DURATION:PT2H
+DTSTART:20210103T070000Z
+SUMMARY:Ina: 【DEAR DIARY】 タコタコタコ
+UID:TSwJ_s8KN7M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【公式】『星街すいせいのMUSIC SPACE』#39 前半（2020年12月27日放送分）\nhttps://www.youtube.com/watch?v=GQy2vgjlg0I
