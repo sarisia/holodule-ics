@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【DEAR DIARY】 タコタコタコ\nhttps://www.youtube.com/watch?v=TSwJ_s8KN7M
-DURATION:PT2H
-DTSTART:20210103T070000Z
-SUMMARY:Ina: 【DEAR DIARY】 タコタコタコ
-UID:TSwJ_s8KN7M
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【WINE PARTY 雑談】HAPPY NEW YEAR! 2021 First Stream of the Year! #Holomyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=wM9S5TTGpz8
 DURATION:PT2H
 DTSTART:20210104T040000Z
 SUMMARY:Calli: 【WINE PARTY 雑談】HAPPY NEW YEAR! 2021 First Stream of the Year! #Holomyth #HololiveEnglish
 UID:wM9S5TTGpz8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CHAT】 Resolutions & Goals for the New Year!!\nhttps://www.youtube.com/watch?v=OcTUg6DHqb4
-DURATION:PT2H
-DTSTART:20210101T210000Z
-SUMMARY:Ina: 【CHAT】 Resolutions & Goals for the New Year!!
-UID:OcTUg6DHqb4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FIRE EMBLEM: THREE HOUSES】I missed my waifus #kfp #キアライブ\nhttps://www.youtube.com/watch?v=pvpDeZeR9vs
@@ -39,6 +25,27 @@ SUMMARY:Gura: [LET'S COOK] ...MEATLOAF... asmr
 UID:o6lnSnqn3Uc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:[RING FIT ADVENTURE] Level 30 MAX SWEAT\nhttps://www.youtube.com/watch?v=Ol6fOYndCn8
+DURATION:PT2H
+DTSTART:20210103T020000Z
+SUMMARY:Gura: [RING FIT ADVENTURE] Level 30 MAX SWEAT
+UID:Ol6fOYndCn8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【WATCHALONG】Blade Runner 2049\nhttps://www.youtube.com/watch?v=cRMaqApzVXg
+DURATION:PT2H
+DTSTART:20210103T040000Z
+SUMMARY:Amelia: 【WATCHALONG】Blade Runner 2049
+UID:cRMaqApzVXg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CHAT】 Resolutions & Goals for the New Year!!\nhttps://www.youtube.com/watch?v=OcTUg6DHqb4
+DURATION:PT2H
+DTSTART:20210101T210000Z
+SUMMARY:Ina: 【CHAT】 Resolutions & Goals for the New Year!!
+UID:OcTUg6DHqb4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【WATCHALONG】Cat Soup (short animated film)\nhttps://www.youtube.com/watch?v=GsC5UDZq-3o
 DURATION:PT2H
 DTSTART:20210102T010000Z
@@ -46,10 +53,10 @@ SUMMARY:Amelia: 【WATCHALONG】Cat Soup (short animated film)
 UID:GsC5UDZq-3o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[RING FIT ADVENTURE] Level 30 MAX SWEAT\nhttps://www.youtube.com/watch?v=Ol6fOYndCn8
+DESCRIPTION:【DEAR DIARY】 タコタコタコ\nhttps://www.youtube.com/watch?v=TSwJ_s8KN7M
 DURATION:PT2H
-DTSTART:20210103T020000Z
-SUMMARY:Gura: [RING FIT ADVENTURE] Level 30 MAX SWEAT
-UID:Ol6fOYndCn8
+DTSTART:20210103T070000Z
+SUMMARY:Ina: 【DEAR DIARY】 タコタコタコ
+UID:TSwJ_s8KN7M
 END:VEVENT
 END:VCALENDAR
