@@ -88,13 +88,6 @@ SUMMARY:🚑大空スバル: 【#2】怖い月がやってくる？！？シリ�
 UID:2D9u_lKeNKA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】２０２１年初の歌枠！あけましておめでとう🌟【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=3-Ew_r1F3OE
-DURATION:PT2H
-DTSTART:20210102T140000Z
-SUMMARY:🌟夜空メル: 【歌枠】２０２１年初の歌枠！あけましておめでとう🌟【ホロライブ/夜空メル】
-UID:3-Ew_r1F3OE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】失ったものを取り戻すゲーム。エリトラを探せ🔥【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=BbWMstJ60hE
 DURATION:PT2H
 DTSTART:20210102T142000Z
@@ -242,6 +235,13 @@ SUMMARY:🤖ロボ子さん: 【グラブル】絶対お迎えシャトラ！！
 UID:y8mKaog6cts
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【RFA】引きこもりのリングフィット！🔥LIVEに向けて体力づくり！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=C4xvRNSNnAk
+DURATION:PT2H
+DTSTART:20210103T130000Z
+SUMMARY:🌟夜空メル: 【RFA】引きこもりのリングフィット！🔥LIVEに向けて体力づくり！【ホロライブ/夜空メル】
+UID:C4xvRNSNnAk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【龍が如く０】今夜もやっちゃいますか、夜の街で。【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=EEguXrDsogQ
 DURATION:PT2H
 DTSTART:20210103T120000Z
@@ -345,13 +345,6 @@ DURATION:PT2H
 DTSTART:20210103T120000Z
 SUMMARY:☄星街すいせい: 【あけおめ】お前らが去年叶えられなかった抱負を供養する【ホロライブ / 星街すいせい 】
 UID:iXiqdI_9oys
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#はあちゃま3D】はあちゃま、動きます。\nhttps://www.youtube.com/watch?v=DsV-EJmbvr8
-DURATION:PT2H
-DTSTART:20210103T110000Z
-SUMMARY:❤赤井はあと: 【#はあちゃま3D】はあちゃま、動きます。
-UID:DsV-EJmbvr8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【テトリス99】１０位未満でソシャゲに●●円課金⁉【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=ve1aUcC8ZX4
@@ -508,6 +501,13 @@ SUMMARY:👯兎田ぺこら: #2-1【龍が如く0】夜の帝王、真島ぺこ�
 UID:Z5i5lEWFjV4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:魔眼覚醒\nhttps://www.youtube.com/watch?v=HHAbbiokl58
+DURATION:PT2H
+DTSTART:20210103T115327Z
+SUMMARY:荒咬オウガ: 魔眼覚醒
+UID:HHAbbiokl58
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Passpartout】Painting hololive Members at Night...【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=zDe2rmsInD0
 DURATION:PT2H
 DTSTART:20210103T130000Z
@@ -515,18 +515,18 @@ SUMMARY:Reine: 【Passpartout】Painting hololive Members at Night...【hololive
 UID:zDe2rmsInD0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DEAR DIARY】 タコタコタコ\nhttps://www.youtube.com/watch?v=TSwJ_s8KN7M
-DURATION:PT2H
-DTSTART:20210103T070000Z
-SUMMARY:Ina: 【DEAR DIARY】 タコタコタコ
-UID:TSwJ_s8KN7M
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】大会練習もかねて車ゲットする！🎍【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=4NMgGbzZs-Q
 DURATION:PT2H
 DTSTART:20210101T230000Z
 SUMMARY:👾常闇トワ: 【マリオカート8DX】大会練習もかねて車ゲットする！🎍【常闇トワ/ホロライブ】
 UID:4NMgGbzZs-Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEAR DIARY】 タコタコタコ\nhttps://www.youtube.com/watch?v=TSwJ_s8KN7M
+DURATION:PT2H
+DTSTART:20210103T070000Z
+SUMMARY:Ina: 【DEAR DIARY】 タコタコタコ
+UID:TSwJ_s8KN7M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】第３８回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=H355h2jGLL4
@@ -557,11 +557,25 @@ SUMMARY:🦋潤羽るしあ: 【Minecraft】ネザライト装備集めるまで
 UID:2vp3jskklfk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【マリカDX8】大会に向けてファイト～！！！【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=6gXr7VHr-9I
+DURATION:PT2H
+DTSTART:20210103T130000Z
+SUMMARY:🍙猫又おかゆ: 【マリカDX8】大会に向けてファイト～！！！【ホロライブ/猫又おかゆ】
+UID:6gXr7VHr-9I
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【耐久 Apex Legends】新春企画！合計358キルするまでやめれません！【アルランディス/アステル・レダ/奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=riIQ12a6Zac
 DURATION:PT2H
 DTSTART:20210103T130000Z
 SUMMARY:🍕アルランディス: 【耐久 Apex Legends】新春企画！合計358キルするまでやめれません！【アルランディス/アステル・レダ/奏手イヅル/ホロスターズ】
 UID:riIQ12a6Zac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 初凸待ち 】姫森ルーナはホロメンと喋れない訳がないっ！👑【 #姫森ルーナ１周年 】\nhttps://www.youtube.com/watch?v=UK0KlsI3-qo
+DURATION:PT2H
+DTSTART:20210104T110000Z
+SUMMARY:🍬姫森ルーナ: 【 初凸待ち 】姫森ルーナはホロメンと喋れない訳がないっ！👑【 #姫森ルーナ１周年 】
+UID:UK0KlsI3-qo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】なんでこの三人が集められたんだい？【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=3pJyh4ltFV8
@@ -597,6 +611,13 @@ DURATION:PT2H
 DTSTART:20210102T030000Z
 SUMMARY:🤖ロボ子さん: 【昼】今日は一緒にお昼ご飯！新年目標も掲げたい！【ホロライブ/ロボ子さん】
 UID:2iWfHbOcO-Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スパチャ御礼】新衣装ありがと~!今年も頑張らねば【奏手イヅル】\nhttps://www.youtube.com/watch?v=c9zeQriSTAU
+DURATION:PT2H
+DTSTART:20210103T121000Z
+SUMMARY:🎸奏手イヅル: 【スパチャ御礼】新衣装ありがと~!今年も頑張らねば【奏手イヅル】
+UID:c9zeQriSTAU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【フブミオ(あやめぇ!)】百花繚乱花吹雪リリース記念裏話！【#ホロライブ9週連続リリース】\nhttps://www.youtube.com/watch?v=u-JVKwfZ8jY
