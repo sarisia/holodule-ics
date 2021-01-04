@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Trials Rising】ショッピングカートで来た。【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=7zjvFxCetc0
-DURATION:PT2H
-DTSTART:20210104T060000Z
-SUMMARY:獅白ぼたん: 【Trials Rising】ショッピングカートで来た。【獅白ぼたん/ホロライブ】
-UID:7zjvFxCetc0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌ってみた】Paintër / halyosy covered by HOLOSTARS【9人歌唱】\nhttps://www.youtube.com/watch?v=4wqpyWJOJ6M
 DURATION:PT2H
 DTSTART:20210103T114500Z
@@ -23,6 +16,13 @@ DURATION:PT2H
 DTSTART:20210103T140000Z
 SUMMARY:🌽白上フブキ: 【プリコネR】お正月ペコリーヌを神引きする狐【ホロライブ/白上フブキ】
 UID:ervpFoM2Xyk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:スーパーマリオブラザーズ2、しんだら即終了！！リベンジ！！！\nhttps://www.youtube.com/watch?v=n99lhUB1Be0
+DURATION:PT2H
+DTSTART:20210104T100000Z
+SUMMARY:🥐戌神ころね: スーパーマリオブラザーズ2、しんだら即終了！！リベンジ！！！
+UID:n99lhUB1Be0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【OMEDETOLLIE】THANK YOU FOR THE WONDERFUL 1 MONTH AND 300K!!!!💞💞【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=fer7VV1OAe8
@@ -67,11 +67,25 @@ SUMMARY:Ollie: 【MINECRAFT】LAST PLAYED ALIVE??? DOES OLLIE REMEMBER???【Holo
 UID:PzKsr1s71do
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#桐生ココが如く】龍が如く4、全力プレイ。【© SEGA】\nhttps://www.youtube.com/watch?v=TtdLsqNvwjA
+DURATION:PT2H
+DTSTART:20210104T120000Z
+SUMMARY:🐉桐生ココ: 【#桐生ココが如く】龍が如く4、全力プレイ。【© SEGA】
+UID:TtdLsqNvwjA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ホロの伝言ゲーム】新春！ホロの伝言ゲーム＝５期生編＝【ホロライブ】\nhttps://www.youtube.com/watch?v=m7tZKA8FZrg
 DURATION:PT2H
 DTSTART:20210104T120000Z
 SUMMARY:🌽白上フブキ: 【#ホロの伝言ゲーム】新春！ホロの伝言ゲーム＝５期生編＝【ホロライブ】
 UID:m7tZKA8FZrg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【運試し】運が必要なゲーム…いける！！！！【アソビ大全】\nhttps://www.youtube.com/watch?v=-TDf19Sz_zg
+DURATION:PT2H
+DTSTART:20210104T100000Z
+SUMMARY:🌲大神ミオ: 【運試し】運が必要なゲーム…いける！！！！【アソビ大全】
+UID:-TDf19Sz_zg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】トワ、まつり、すいせいで大会練習！【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=zcQ0gJv9Nk4
@@ -156,6 +170,13 @@ DURATION:PT2H
 DTSTART:20210103T030000Z
 SUMMARY:雪花ラミィ: 【Minecraft】まがまが～ず、新ホロ鯖のネザーへ行く！【雪花ラミィ/ホロライブ】
 UID:ibEXS5QAEaI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Superchat Reading】SUPA SUNDAY\nhttps://www.youtube.com/watch?v=ZnbBEY8D1_c
+DURATION:PT2H
+DTSTART:20210103T230500Z
+SUMMARY:Amelia: 【Superchat Reading】SUPA SUNDAY
+UID:ZnbBEY8D1_c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【耐久後半戦 Apex Legends】新春企画！合計358キルするまでやめれません！【アルランディス/アステル・レダ/奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=IVHsfsxOPjo
@@ -333,6 +354,13 @@ SUMMARY:🌽白上フブキ: 【#バカタレ共】二次会幽霊調査をし�
 UID:NKxXPpk_n8w
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【コラボ雑談枠】お正月新衣装で並んで喋る【ホロスターズ】\nhttps://www.youtube.com/watch?v=FOpiNp3ZC-k
+DURATION:PT2H
+DTSTART:20210104T110000Z
+SUMMARY:⚙律可: 【コラボ雑談枠】お正月新衣装で並んで喋る【ホロスターズ】
+UID:FOpiNp3ZC-k
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:REVIEWING SHITS FROM REDDIT with a ”DEVIL”\nhttps://www.youtube.com/watch?v=3QlkGUiNjaQ
 DURATION:PT2H
 DTSTART:20210103T030000Z
@@ -466,10 +494,10 @@ SUMMARY:🍕アルランディス: 【耐久 Apex Legends】新春企画！合�
 UID:riIQ12a6Zac
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 初凸待ち 】姫森ルーナはホロメンと喋れない訳がないっ！👑【 #姫森ルーナ1周年 】\nhttps://www.youtube.com/watch?v=UK0KlsI3-qo
+DESCRIPTION:【 初凸待ち 】姫森ルーナはホロメンと喋れない訳がないっ！1st Anniversary👑【 #姫森ルーナ1周年 】\nhttps://www.youtube.com/watch?v=UK0KlsI3-qo
 DURATION:PT2H
 DTSTART:20210104T110000Z
-SUMMARY:🍬姫森ルーナ: 【 初凸待ち 】姫森ルーナはホロメンと喋れない訳がないっ！👑【 #姫森ルーナ1周年 】
+SUMMARY:🍬姫森ルーナ: 【 初凸待ち 】姫森ルーナはホロメンと喋れない訳がないっ！1st Anniversary👑【 #姫森ルーナ1周年 】
 UID:UK0KlsI3-qo
 END:VEVENT
 BEGIN:VEVENT
@@ -506,6 +534,13 @@ DURATION:PT2H
 DTSTART:20210103T120000Z
 SUMMARY:🌽白上フブキ: 【フブミオ(あやめぇ!)】百花繚乱花吹雪リリース記念裏話！【#ホロライブ9週連続リリース】
 UID:u-JVKwfZ8jY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololiveID】SNOW HALATION COVER special talk ~!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=h2Ff5ynMLgg
+DURATION:PT2H
+DTSTART:20210104T130000Z
+SUMMARY:🐿Risu: 【hololiveID】SNOW HALATION COVER special talk ~!!!【Ayunda Risu】
+UID:h2Ff5ynMLgg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:第一回 Vtuber女子 ローション リングフィット\nhttps://www.youtube.com/watch?v=OpfLs_5Ovlw
