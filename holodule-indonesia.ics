@@ -4,41 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【WATCHALONG】Snow White: A Tale of Terror【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=LHcjk2cd8Z4
-DURATION:PT2H
-DTSTART:20210104T153000Z
-SUMMARY:Anya: 【WATCHALONG】Snow White: A Tale of Terror【hololive Indonesia 2nd Generation】
-UID:LHcjk2cd8Z4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【hololiveID】HAPPY NEW YEAR ~! Let's do Free Talk !!【HAPPY HOLIDAY !!!!】\nhttps://www.youtube.com/watch?v=zgcUxVaG7pQ
-DURATION:PT2H
-DTSTART:20210105T110000Z
-SUMMARY:🐿Risu: 【hololiveID】HAPPY NEW YEAR ~! Let's do Free Talk !!【HAPPY HOLIDAY !!!!】
-UID:zgcUxVaG7pQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Brunch Stream】C3: Cereal\, Crunch\, Chat【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=Xy5YnKY-P-4
-DURATION:PT2H
-DTSTART:20210105T040000Z
-SUMMARY:Reine: 【Brunch Stream】C3: Cereal\, Crunch\, Chat【hololiveID 2nd generation】
-UID:Xy5YnKY-P-4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【hololiveID】#8 Let's make more drinks in VA-11 HALL-A【HAPPY HOLIDAY !!!!】\nhttps://www.youtube.com/watch?v=HN2tKZ5Zpqs
-DURATION:PT2H
-DTSTART:20210106T110000Z
-SUMMARY:🐿Risu: 【hololiveID】#8 Let's make more drinks in VA-11 HALL-A【HAPPY HOLIDAY !!!!】
-UID:HN2tKZ5Zpqs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Babay moona\, hello baby moon.\nhttps://www.youtube.com/watch?v=R3RTO_GvdnU
-DURATION:PT2H
-DTSTART:20210106T020155Z
-SUMMARY:🔮Moona: Babay moona\, hello baby moon.
-UID:R3RTO_GvdnU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:NO ARCHIVE KARAOKE NIGHT FEVEEERR!! YEEEAAAAHHHHHH!!!\nhttps://www.youtube.com/watch?v=V8X47W147pA
 DURATION:PT2H
 DTSTART:20210106T140000Z
@@ -67,17 +32,24 @@ SUMMARY:Reine: 【Superliminal】Solving Puzzles? I can do that in my sleep!【h
 UID:BndRzZXEPs4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ONE MONTHSARY】Let's Celebrate!! Also Future Membership Planning【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=QoZCWwtbh_0
-DURATION:PT2H
-DTSTART:20210105T130000Z
-SUMMARY:Anya: 【ONE MONTHSARY】Let's Celebrate!! Also Future Membership Planning【hololive Indonesia 2nd Generation】
-UID:QoZCWwtbh_0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【1-Month Celebration】To MERAKyats that have colored my days...【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=Goy2FcMaJ-c
 DURATION:PT2H
 DTSTART:20210106T130000Z
 SUMMARY:Reine: 【1-Month Celebration】To MERAKyats that have colored my days...【hololiveID 2nd generation】
 UID:Goy2FcMaJ-c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololiveID】#8 Let's make more drinks in VA-11 HALL-A【HAPPY HOLIDAY !!!!】\nhttps://www.youtube.com/watch?v=HN2tKZ5Zpqs
+DURATION:PT2H
+DTSTART:20210106T110000Z
+SUMMARY:🐿Risu: 【hololiveID】#8 Let's make more drinks in VA-11 HALL-A【HAPPY HOLIDAY !!!!】
+UID:HN2tKZ5Zpqs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Babay moona\, hello baby moon.\nhttps://www.youtube.com/watch?v=R3RTO_GvdnU
+DURATION:PT2H
+DTSTART:20210106T020155Z
+SUMMARY:🔮Moona: Babay moona\, hello baby moon.
+UID:R3RTO_GvdnU
 END:VEVENT
 END:VCALENDAR
