@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【龍が如く０】夜の街、神室町は俺の庭だにぇ？【ホロライブ/さくらみこ】※ネタバレあり\nhttps://www.youtube.com/watch?v=exPWfdEwmu0
+DURATION:PT2H
+DTSTART:20210106T130000Z
+SUMMARY:🌸さくらみこ: 【龍が如く０】夜の街、神室町は俺の庭だにぇ？【ホロライブ/さくらみこ】※ネタバレあり
+UID:exPWfdEwmu0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マリカ8DX】ホロ大会に向けて…超超超特訓！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=18bqN7gtqWc
 DURATION:PT2H
 DTSTART:20210106T090000Z
@@ -53,13 +60,6 @@ SUMMARY:尾丸ポルカ: 【重大発表】凸待ちします！！、、！、�
 UID:eJPnuhfRUrY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【移動】💎💎💎100個💎💎💎【マイクラ】\nhttps://www.youtube.com/watch?v=tk25OtLZRPc
-DURATION:PT2H
-DTSTART:20210106T173500Z
-SUMMARY:🌲大神ミオ: 【移動】💎💎💎100個💎💎💎【マイクラ】
-UID:tk25OtLZRPc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌練】新年初声出し！【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=DKvfWVYPTdM
 DURATION:PT2H
 DTSTART:20210106T030000Z
@@ -107,6 +107,13 @@ DURATION:PT2H
 DTSTART:20210106T090000Z
 SUMMARY:🌽白上フブキ: 【マリカ８DX】お前も７以下マリカやらないか？【ホロライブ/白上フブキ】
 UID:MpW_tG5YAlA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】朝じゃい！のんびり雑談＆皆からの投稿を読む❗【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=s8SizYm9w6E
+DURATION:PT2H
+DTSTART:20210106T210000Z
+SUMMARY:🌽白上フブキ: 【朝活】朝じゃい！のんびり雑談＆皆からの投稿を読む❗【ホロライブ/白上フブキ】
+UID:s8SizYm9w6E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GTAⅤ】目指せ百万人！million kill【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=7EBpAy-sSIM
