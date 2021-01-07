@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】Stranded in No man's land... #kfp #キアライブ\nhttps://www.youtube.com/watch?v=L4FqaD9VTgo
+DESCRIPTION:【MARIO KART 8 COLLAB】Reaper and Shark Race!! #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=nCUyHNq6yC0
 DURATION:PT2H
-DTSTART:20210106T040000Z
-SUMMARY:Kiara: 【MINECRAFT】Stranded in No man's land... #kfp #キアライブ
-UID:L4FqaD9VTgo
+DTSTART:20210107T050145Z
+SUMMARY:Calli: 【MARIO KART 8 COLLAB】Reaper and Shark Race!! #hololiveEnglish #holoMyth
+UID:nCUyHNq6yC0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CHAT】 TAKOYAKI PARTY!!!!\nhttps://www.youtube.com/watch?v=yQwSFS96F4g
+DURATION:PT2H
+DTSTART:20210106T210000Z
+SUMMARY:Ina: 【CHAT】 TAKOYAKI PARTY!!!!
+UID:yQwSFS96F4g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[Mario Kart 8DX] DRIFT\nhttps://www.youtube.com/watch?v=crlXJYrlX8E
@@ -16,13 +23,6 @@ DURATION:PT2H
 DTSTART:20210107T050000Z
 SUMMARY:Gura: [Mario Kart 8DX] DRIFT
 UID:crlXJYrlX8E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CRASH BANDICOOT 4】UNTIL I BEAT IT (mostly). #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=256g6b0_-0Q
-DURATION:PT2H
-DTSTART:20210106T010505Z
-SUMMARY:Calli: 【CRASH BANDICOOT 4】UNTIL I BEAT IT (mostly). #hololiveEnglish #holoMyth
-UID:256g6b0_-0Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Atelier Ryza】LET'S SHOW THAT BOSS WHO THE REAL TENCHOU IS #kfp #キアライブ\nhttps://www.youtube.com/watch?v=-06GfuVtKxw
@@ -39,20 +39,6 @@ SUMMARY:Calli: 【英語禁止】早口言葉バツゲーム :} #hololiveEnglish
 UID:w_hrkrA1C-M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Cooking Simulator】Cheftective~\nhttps://www.youtube.com/watch?v=HL4t7MefeC4
-DURATION:PT2H
-DTSTART:20210105T230500Z
-SUMMARY:Amelia: 【Cooking Simulator】Cheftective~
-UID:HL4t7MefeC4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BIRTHDAY STREAM】CAKE + a Special Announcement\nhttps://www.youtube.com/watch?v=_AbZB1uuVjA
-DURATION:PT2H
-DTSTART:20210107T010000Z
-SUMMARY:Amelia: 【BIRTHDAY STREAM】CAKE + a Special Announcement
-UID:_AbZB1uuVjA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Birthday Minecraft!\nhttps://www.youtube.com/watch?v=lnU6Nq-o7OM
 DURATION:PT2H
 DTSTART:20210107T041500Z
@@ -60,17 +46,10 @@ SUMMARY:Amelia: 【Minecraft】Birthday Minecraft!
 UID:lnU6Nq-o7OM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【CHAT】 TAKOYAKI PARTY!!!!\nhttps://www.youtube.com/watch?v=yQwSFS96F4g
+DESCRIPTION:【BIRTHDAY STREAM】CAKE + a Special Announcement\nhttps://www.youtube.com/watch?v=_AbZB1uuVjA
 DURATION:PT2H
-DTSTART:20210106T210000Z
-SUMMARY:Ina: 【CHAT】 TAKOYAKI PARTY!!!!
-UID:yQwSFS96F4g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MARIO KART 8 COLLAB】Reaper and Shark Race!! #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=nCUyHNq6yC0
-DURATION:PT2H
-DTSTART:20210107T050145Z
-SUMMARY:Calli: 【MARIO KART 8 COLLAB】Reaper and Shark Race!! #hololiveEnglish #holoMyth
-UID:nCUyHNq6yC0
+DTSTART:20210107T010000Z
+SUMMARY:Amelia: 【BIRTHDAY STREAM】CAKE + a Special Announcement
+UID:_AbZB1uuVjA
 END:VEVENT
 END:VCALENDAR
