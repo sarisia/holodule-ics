@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Birthday Minecraft!\nhttps://www.youtube.com/watch?v=lnU6Nq-o7OM
+DURATION:PT2H
+DTSTART:20210107T040500Z
+SUMMARY:Amelia: 【Minecraft】Birthday Minecraft!
+UID:lnU6Nq-o7OM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】Stranded in No man's land... #kfp #キアライブ\nhttps://www.youtube.com/watch?v=L4FqaD9VTgo
 DURATION:PT2H
 DTSTART:20210106T040000Z
 SUMMARY:Kiara: 【MINECRAFT】Stranded in No man's land... #kfp #キアライブ
 UID:L4FqaD9VTgo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CHAT】 TAKOYAKI PARTY!!!!\nhttps://www.youtube.com/watch?v=yQwSFS96F4g
+DURATION:PT2H
+DTSTART:20210106T210000Z
+SUMMARY:Ina: 【CHAT】 TAKOYAKI PARTY!!!!
+UID:yQwSFS96F4g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【CRASH BANDICOOT 4】UNTIL I BEAT IT (mostly). #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=256g6b0_-0Q
@@ -25,10 +39,10 @@ SUMMARY:Amelia: 【Cooking Simulator】Cheftective~
 UID:HL4t7MefeC4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【CHAT】 TAKOYAKI PARTY!!!!\nhttps://www.youtube.com/watch?v=yQwSFS96F4g
+DESCRIPTION:【BIRTHDAY STREAM】CAKE + a Special Announcement\nhttps://www.youtube.com/watch?v=_AbZB1uuVjA
 DURATION:PT2H
-DTSTART:20210106T210000Z
-SUMMARY:Ina: 【CHAT】 TAKOYAKI PARTY!!!!
-UID:yQwSFS96F4g
+DTSTART:20210107T010000Z
+SUMMARY:Amelia: 【BIRTHDAY STREAM】CAKE + a Special Announcement
+UID:_AbZB1uuVjA
 END:VEVENT
 END:VCALENDAR
