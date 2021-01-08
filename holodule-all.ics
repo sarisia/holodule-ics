@@ -102,18 +102,18 @@ SUMMARY:Amelia: 【Minecraft】Birthday Minecraft!
 UID:lnU6Nq-o7OM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ガンプラ】深夜に熱い茶すすりながらガンプラ作る【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=WQQFWd3Y8tI
-DURATION:PT2H
-DTSTART:20210107T150000Z
-SUMMARY:荒咬オウガ: 【ガンプラ】深夜に熱い茶すすりながらガンプラ作る【荒咬オウガ/ホロスターズ】
-UID:WQQFWd3Y8tI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】アプデきたー！ランク行くぞおおお！！！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=UvbkmwwRuBo
 DURATION:PT2H
 DTSTART:20210107T150000Z
 SUMMARY:⚓湊あくあ: 【APEX】アプデきたー！ランク行くぞおおお！！！！【湊あくあ/ホロライブ】
 UID:UvbkmwwRuBo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ガンプラ】深夜に熱い茶すすりながらガンプラ作る【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=WQQFWd3Y8tI
+DURATION:PT2H
+DTSTART:20210107T150000Z
+SUMMARY:荒咬オウガ: 【ガンプラ】深夜に熱い茶すすりながらガンプラ作る【荒咬オウガ/ホロスターズ】
+UID:WQQFWd3Y8tI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】レアアイテム、ないっすか！【 ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=hhEO1tJKnuE
@@ -123,11 +123,11 @@ SUMMARY:桃鈴ねね: 【Minecraft】レアアイテム、ないっすか！【 
 UID:hhEO1tJKnuE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】新年初の癒しの歌枠！！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=7sIRGCNLv-A
+DESCRIPTION:【マリオカート８DX】史上初真面目にプレイする！！！！！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=o2X1LO7cezE
 DURATION:PT2H
-DTSTART:20210106T160000Z
-SUMMARY:🌙紫咲シオン: 【歌枠】新年初の癒しの歌枠！！！【ホロライブ/紫咲シオン】
-UID:7sIRGCNLv-A
+DTSTART:20210108T090000Z
+SUMMARY:🦋潤羽るしあ: 【マリオカート８DX】史上初真面目にプレイする！！！！！【潤羽るしあ/ホロライブ】
+UID:o2X1LO7cezE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#４】ガチャピンとムックに会いたいグランブルーファンタジースバル：GRANBLUE FANTASY【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=OLd5osYw8_g
@@ -137,13 +137,6 @@ SUMMARY:🚑大空スバル: 【#４】ガチャピンとムックに会いた�
 UID:OLd5osYw8_g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:💎ダイヤ１００個採るまで眠れないらしい💎【マイクラ】\nhttps://www.youtube.com/watch?v=9r6SEnpyGms
-DURATION:PT2H
-DTSTART:20210106T150000Z
-SUMMARY:🌲大神ミオ: 💎ダイヤ１００個採るまで眠れないらしい💎【マイクラ】
-UID:9r6SEnpyGms
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Finish the Blaze Rod Farm!【Moona】\nhttps://www.youtube.com/watch?v=av8qMW-ksLw
 DURATION:PT2H
 DTSTART:20210108T063000Z
@@ -151,11 +144,18 @@ SUMMARY:🔮Moona: 【Minecraft】Finish the Blaze Rod Farm!【Moona】
 UID:av8qMW-ksLw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】最近あったコラボのこととか色々話す！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=-pM2XNGTyCE
+DESCRIPTION:【歌枠】新年初の癒しの歌枠！！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=7sIRGCNLv-A
 DURATION:PT2H
-DTSTART:20210107T110000Z
-SUMMARY:💋癒月ちょこ: 【雑談】最近あったコラボのこととか色々話す！【ホロライブ/癒月ちょこ】
-UID:-pM2XNGTyCE
+DTSTART:20210106T160000Z
+SUMMARY:🌙紫咲シオン: 【歌枠】新年初の癒しの歌枠！！！【ホロライブ/紫咲シオン】
+UID:7sIRGCNLv-A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:💎ダイヤ１００個採るまで眠れないらしい💎【マイクラ】\nhttps://www.youtube.com/watch?v=9r6SEnpyGms
+DURATION:PT2H
+DTSTART:20210106T150000Z
+SUMMARY:🌲大神ミオ: 💎ダイヤ１００個採るまで眠れないらしい💎【マイクラ】
+UID:9r6SEnpyGms
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FIRE EMBLEM: THREE HOUSES】Bulldozing my enemies with NO MERCY #kfp #キアライブ\nhttps://www.youtube.com/watch?v=kw9W4y-mLV4
@@ -170,6 +170,13 @@ DURATION:PT2H
 DTSTART:20210108T061357Z
 SUMMARY:🐿Risu: #1 Let's learn Bahasa Indonesia ~!!!
 UID:uM52eascaAU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】最近あったコラボのこととか色々話す！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=-pM2XNGTyCE
+DURATION:PT2H
+DTSTART:20210107T110000Z
+SUMMARY:💋癒月ちょこ: 【雑談】最近あったコラボのこととか色々話す！【ホロライブ/癒月ちょこ】
+UID:-pM2XNGTyCE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARCAEA】Dedication 1000% I Bought an iPad Just To Play ARCAEA【hololiveID】\nhttps://www.youtube.com/watch?v=DWwq0i2kOz0
@@ -191,6 +198,13 @@ DURATION:PT2H
 DTSTART:20210107T103000Z
 SUMMARY:🦔💨岸堂天真: 【龍が如く維新】ギャンブル、ギャンブル、ストーリー、ギャンブル【岸堂天真/ホロスターズ】【ネタバレあり】
 UID:bcHS9hF6lUk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】オリ曲も歌いつつ！新年の歌枠だー！！！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=J3ebi8JlaZc
+DURATION:PT2H
+DTSTART:20210108T130000Z
+SUMMARY:🌽白上フブキ: 【歌枠】オリ曲も歌いつつ！新年の歌枠だー！！！【ホロライブ/白上フブキ】
+UID:J3ebi8JlaZc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【移動】💎💎💎100個💎💎💎【マイクラ】\nhttps://www.youtube.com/watch?v=tk25OtLZRPc
@@ -221,18 +235,18 @@ SUMMARY:🚑大空スバル: 【】映画オタクとみるエイリアン２【
 UID:hUYBu5TY5uA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－木曜日のASAKATSU－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=KGbA9Mll4MA
-DURATION:PT2H
-DTSTART:20210107T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－木曜日のASAKATSU－【ホロスターズ/夕刻ロベル】
-UID:KGbA9Mll4MA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DONATION READING】CHIT-CHATS AND READING DONATIONS!!! 💞💞【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=KfXjqCJw7GQ
 DURATION:PT2H
 DTSTART:20210108T113000Z
 SUMMARY:Ollie: 【DONATION READING】CHIT-CHATS AND READING DONATIONS!!! 💞💞【Hololive Indonesia 2nd Gen】
 UID:KfXjqCJw7GQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－木曜日のASAKATSU－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=KGbA9Mll4MA
+DURATION:PT2H
+DTSTART:20210107T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－木曜日のASAKATSU－【ホロスターズ/夕刻ロベル】
+UID:KGbA9Mll4MA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ASMR】今だけだよ？💓お姉さんの出張シャンプーマッサージ💓KU100使用であなたの耳側で…/relax shampoo And Massage【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=8PgtqZh0qQ4
@@ -247,6 +261,13 @@ DURATION:PT2H
 DTSTART:20210108T140000Z
 SUMMARY:🎨Iofi: PHANTASY STAR ONLINE 2! AGAIN! Let's Play Enjoy The Stories and Play Together With Me!
 UID:X2ceyWmfuPY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ASMR】滅びのASMR配信【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=d1__Qqfblvw
+DURATION:PT2H
+DTSTART:20210108T150000Z
+SUMMARY:💋癒月ちょこ: 【ASMR】滅びのASMR配信【ホロライブ/癒月ちょこ】
+UID:d1__Qqfblvw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】兎田建設、新事業開始！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=7YReKd2b-YQ
@@ -277,10 +298,10 @@ SUMMARY:Calli: 【英語禁止】早口言葉バツゲーム :} #hololiveEnglish
 UID:w_hrkrA1C-M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:！！！登録者89.3万人耐久歌枠！！！\nhttps://www.youtube.com/watch?v=miy1O9QZcKM
+DESCRIPTION:🐉登録者89.3万人耐久歌枠🎤【達成したら重大発表あり】\nhttps://www.youtube.com/watch?v=miy1O9QZcKM
 DURATION:PT2H
 DTSTART:20210108T100000Z
-SUMMARY:🐉桐生ココ: ！！！登録者89.3万人耐久歌枠！！！
+SUMMARY:🐉桐生ココ: 🐉登録者89.3万人耐久歌枠🎤【達成したら重大発表あり】
 UID:miy1O9QZcKM
 END:VEVENT
 BEGIN:VEVENT
@@ -289,6 +310,13 @@ DURATION:PT2H
 DTSTART:20210107T090000Z
 SUMMARY:🎭アステル・レダ: 【毎日感謝の100KILL】チャプター1 目覚め【３日目】
 UID:Iw5FrjqsU_Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Ring Fit Adventure】 PAIN\nhttps://www.youtube.com/watch?v=8L3ugw6yg4o
+DURATION:PT2H
+DTSTART:20210108T210000Z
+SUMMARY:Ina: 【Ring Fit Adventure】 PAIN
+UID:8L3ugw6yg4o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】おしゃべりオンザビーチ【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=LVRECBpUYWs
@@ -396,6 +424,13 @@ SUMMARY:🤖ロボ子さん: 【昼】PC KILL APEX【ホロライブ/ロボ子�
 UID:vavkMMKZZkA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【マリオカート8DX】勝ったな【ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=n8j6d6Zxv3M
+DURATION:PT2H
+DTSTART:20210108T100000Z
+SUMMARY:桃鈴ねね: 【マリオカート8DX】勝ったな【ホロライブ/桃鈴ねね】
+UID:n8j6d6Zxv3M
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【GTAⅤ】目指せ百万人！million kill【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=khsu0jfazPk
 DURATION:PT2H
 DTSTART:20210107T110500Z
@@ -438,18 +473,18 @@ SUMMARY:🎸奏手イヅル: 【弾き語り】今年初めのギターと歌【
 UID:ggDoI7ZS_PY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】💎50個取れなかったら地獄企画💎【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=mUOG2PKU1us
-DURATION:PT2H
-DTSTART:20210107T100000Z
-SUMMARY:💫天音かなた: 【Minecraft】💎50個取れなかったら地獄企画💎【天音かなた/ホロライブ】
-UID:mUOG2PKU1us
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【毎日感謝の100KILL】ナックル！！！！俺と勝負だ！！！！【３日目】\nhttps://www.youtube.com/watch?v=HIvEGN-1hMI
 DURATION:PT2H
 DTSTART:20210107T171000Z
 SUMMARY:🎭アステル・レダ: 【毎日感謝の100KILL】ナックル！！！！俺と勝負だ！！！！【３日目】
 UID:HIvEGN-1hMI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】💎50個取れなかったら地獄企画💎【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=mUOG2PKU1us
+DURATION:PT2H
+DTSTART:20210107T100000Z
+SUMMARY:💫天音かなた: 【Minecraft】💎50個取れなかったら地獄企画💎【天音かなた/ホロライブ】
+UID:mUOG2PKU1us
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Outer Wilds】巨大アンコウと戦う＃5【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=F40BEm8ayls
@@ -501,6 +536,13 @@ SUMMARY:🍙猫又おかゆ: 【マリカDX8】深夜のマリカ合同練習～
 UID:O5znNhEzY2A
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】夜釣りしながら、まったり晩酌【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=CA9mdT8qxbQ
+DURATION:PT2H
+DTSTART:20210108T130000Z
+SUMMARY:雪花ラミィ: 【Minecraft】夜釣りしながら、まったり晩酌【雪花ラミィ/ホロライブ】
+UID:CA9mdT8qxbQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ハトタウロスじゃない？！癒しを求めて・・【When the Past was Around】\nhttps://www.youtube.com/watch?v=NedK-kcDxvA
 DURATION:PT2H
 DTSTART:20210107T130000Z
@@ -527,6 +569,13 @@ DURATION:PT2H
 DTSTART:20210107T110000Z
 SUMMARY:🐿Risu: 【hololiveID】#9 Let's make drinks and change lives ~!!!【Ayunda Risu】
 UID:tCsKYdTlbQU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Cooking Simulator】FOX_PIZZAは大繁盛じゃい！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=EpVdpnx0Rc4
+DURATION:PT2H
+DTSTART:20210108T090000Z
+SUMMARY:🌽白上フブキ: 【Cooking Simulator】FOX_PIZZAは大繁盛じゃい！【ホロライブ/白上フブキ】
+UID:EpVdpnx0Rc4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】お昼APEX【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=H15t9O9Wnpo
