@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【バンドリ！6】LET'S GO! BANG DREAM!【hololiveID】\nhttps://www.youtube.com/watch?v=bk4g3mJhIJc
+DURATION:PT2H
+DTSTART:20210109T030000Z
+SUMMARY:🎨Iofi: 【バンドリ！6】LET'S GO! BANG DREAM!【hololiveID】
+UID:bk4g3mJhIJc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【WATCHALONG】Cats【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=_CC6OlBL3n0
 DURATION:PT2H
 DTSTART:20210108T150000Z
@@ -58,6 +65,13 @@ DURATION:PT2H
 DTSTART:20210108T063000Z
 SUMMARY:🔮Moona: 【Minecraft】Finish the Blaze Rod Farm!【Moona】
 UID:av8qMW-ksLw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【REINE x KIARA】PHOGS! (Birds? Dogs? ...Together Strong!) #ホロ鳥 #holobirds 【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=BVeSqujY42w
+DURATION:PT2H
+DTSTART:20210109T120000Z
+SUMMARY:Reine: 【REINE x KIARA】PHOGS! (Birds? Dogs? ...Together Strong!) #ホロ鳥 #holobirds 【hololiveID 2nd generation】
+UID:BVeSqujY42w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DONATION READING】CHIT-CHATS AND READING DONATIONS!!! 💞💞【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=KfXjqCJw7GQ
