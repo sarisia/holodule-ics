@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【】おはようスバル【】\nhttps://www.youtube.com/watch?v=0Qv9v0QYei4
+DURATION:PT2H
+DTSTART:20210109T010000Z
+SUMMARY:🚑大空スバル: 【】おはようスバル【】
+UID:0Qv9v0QYei4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【When the Past was Around】愛【ホロライブ/常闇トワ】\nhttps://www.youtube.com/watch?v=JvH6V6PCXIM
 DURATION:PT2H
 DTSTART:20210108T100000Z
@@ -46,11 +53,11 @@ SUMMARY:Anya: 【Good Morning!】2021 First Morning Vibe-Check!【hololive Indon
 UID:B9w_-sTJqiE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【PHASMOPHOBIA】新年早々、魔を払う【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Cw0O_KhED30
+DESCRIPTION:【龍が如く4】真島吾郎の真実、今明かされる【#桐生ココが如く】※ネタバレあり\nhttps://www.youtube.com/watch?v=jLIJA5AaaQA
 DURATION:PT2H
-DTSTART:20210109T120000Z
-SUMMARY:🍕アルランディス: 【PHASMOPHOBIA】新年早々、魔を払う【アルランディス/ホロスターズ】
-UID:Cw0O_KhED30
+DTSTART:20210109T060000Z
+SUMMARY:🐉桐生ココ: 【龍が如く4】真島吾郎の真実、今明かされる【#桐生ココが如く】※ネタバレあり
+UID:jLIJA5AaaQA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリカ8DX】特訓じゃあああああ🚙💨💨【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=ytlsOEAG8e0
@@ -67,11 +74,11 @@ SUMMARY:⚙律可: 【トイレの花子さん】学校のトイレの怖さは�
 UID:C3r8U7T_1sg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[TRIALS RISING] do a flip\nhttps://www.youtube.com/watch?v=uI0otVQ8sXg
+DESCRIPTION:【PHASMOPHOBIA】新年早々、魔を払う【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Cw0O_KhED30
 DURATION:PT2H
-DTSTART:20210109T040000Z
-SUMMARY:Gura: [TRIALS RISING] do a flip
-UID:uI0otVQ8sXg
+DTSTART:20210109T120000Z
+SUMMARY:🍕アルランディス: 【PHASMOPHOBIA】新年早々、魔を払う【アルランディス/ホロスターズ】
+UID:Cw0O_KhED30
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Brunch Stream】Upgrading My Cereal!【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=IFCbKmSKiIk
@@ -153,7 +160,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【WATCH-A-LONG】"The Room" and "The Disaster Artist" DOUBLE FEATURE! #HololiveEnglish\nhttps://www.youtube.com/watch?v=KyFJl_6nFbc
 DURATION:PT2H
-DTSTART:20210109T040000Z
+DTSTART:20210109T040002Z
 SUMMARY:Calli: 【WATCH-A-LONG】"The Room" and "The Disaster Artist" DOUBLE FEATURE! #HololiveEnglish
 UID:KyFJl_6nFbc
 END:VEVENT
@@ -326,10 +333,17 @@ SUMMARY:☄星街すいせい: 【世界のアソビ大全】6ボールパズル
 UID:2SaWveSjwvE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:おひるううううううう！！！！！！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=raXwo_K8vd0
+DESCRIPTION:【Journey】Let's go on one together!\nhttps://www.youtube.com/watch?v=tRlMsPBxIBs
+DURATION:PT2H
+DTSTART:20210108T230500Z
+SUMMARY:Amelia: 【Journey】Let's go on one together!
+UID:tRlMsPBxIBs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】バグに負けない！魂のランク戦いくぞおお！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=raXwo_K8vd0
 DURATION:PT2H
 DTSTART:20210109T050000Z
-SUMMARY:⚓湊あくあ: おひるううううううう！！！！！！！【湊あくあ/ホロライブ】
+SUMMARY:⚓湊あくあ: 【APEX】バグに負けない！魂のランク戦いくぞおお！！【湊あくあ/ホロライブ】
 UID:raXwo_K8vd0
 END:VEVENT
 BEGIN:VEVENT
@@ -410,6 +424,13 @@ SUMMARY:🌺花咲みやび: 【Minecraft】新年っぽい何か作ってみな
 UID:PMN44aCiA2Y
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:やーる！！（22時or23時）\nhttps://www.youtube.com/watch?v=P4xuSCEjD5Q
+DURATION:PT2H
+DTSTART:20210109T130000Z
+SUMMARY:🥐戌神ころね: やーる！！（22時or23時）
+UID:P4xuSCEjD5Q
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】レートを潜る、走る。【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=r9juvmqCZZc
 DURATION:PT2H
 DTSTART:20210108T133000Z
@@ -454,7 +475,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【WATCHALONG】Kung Fu Panda\nhttps://www.youtube.com/watch?v=4frqNAKQgaw
 DURATION:PT2H
-DTSTART:20210109T040000Z
+DTSTART:20210109T040500Z
 SUMMARY:Amelia: 【WATCHALONG】Kung Fu Panda
 UID:4frqNAKQgaw
 END:VEVENT
