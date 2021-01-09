@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【毎日感謝の100KILL】1日寝たら1日動けるってあたりまえの事なんだよね。【5日目】\nhttps://www.youtube.com/watch?v=9pwlmeEZ_F8
+DURATION:PT2H
+DTSTART:20210108T233000Z
+SUMMARY:🎭アステル・レダ: 【毎日感謝の100KILL】1日寝たら1日動けるってあたりまえの事なんだよね。【5日目】
+UID:9pwlmeEZ_F8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【風呂】OGA in SPA【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=-fMgdaH_Mrw
 DURATION:PT2H
 DTSTART:20210108T173000Z
@@ -11,18 +18,11 @@ SUMMARY:荒咬オウガ: 【風呂】OGA in SPA【荒咬オウガ/ホロスタ�
 UID:-fMgdaH_Mrw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【祝！！】メンバーシップ、来たれり【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=dCT5tCOZo_g
+DESCRIPTION:【HITMAN2】私はスーパーエージェントﾊﾅｻｷ！【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=jL-r77tDrmc
 DURATION:PT2H
-DTSTART:20210109T110000Z
-SUMMARY:影山シエン: 【祝！！】メンバーシップ、来たれり【影山シエン/ホロスターズ】
-UID:dCT5tCOZo_g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【毎日感謝の100KILL】1日寝たら1日動けるってあたりまえの事なんだよね。【5日目】\nhttps://www.youtube.com/watch?v=9pwlmeEZ_F8
-DURATION:PT2H
-DTSTART:20210108T233000Z
-SUMMARY:🎭アステル・レダ: 【毎日感謝の100KILL】1日寝たら1日動けるってあたりまえの事なんだよね。【5日目】
-UID:9pwlmeEZ_F8
+DTSTART:20210109T140000Z
+SUMMARY:🌺花咲みやび: 【HITMAN2】私はスーパーエージェントﾊﾅｻｷ！【花咲みやび/ホロスターズ】
+UID:jL-r77tDrmc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PHASMOPHOBIA】新年早々、魔を払う【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Cw0O_KhED30
@@ -46,17 +46,10 @@ SUMMARY:🦔💨岸堂天真: 【Mother Simulator】騎士道流子育て術、�
 UID:dSvBKNnIm34
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Apex Legends】ソロ練習！！【奏手イヅル】\nhttps://www.youtube.com/watch?v=N4XFTv6fJTg
+DESCRIPTION:【祝！！】メンバーシップ、来たれり【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=dCT5tCOZo_g
 DURATION:PT2H
-DTSTART:20210109T160000Z
-SUMMARY:🎸奏手イヅル: 【Apex Legends】ソロ練習！！【奏手イヅル】
-UID:N4XFTv6fJTg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HITMAN2】私はスーパーエージェントﾊﾅｻｷ！【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=jL-r77tDrmc
-DURATION:PT2H
-DTSTART:20210109T140000Z
-SUMMARY:🌺花咲みやび: 【HITMAN2】私はスーパーエージェントﾊﾅｻｷ！【花咲みやび/ホロスターズ】
-UID:jL-r77tDrmc
+DTSTART:20210109T110000Z
+SUMMARY:影山シエン: 【祝！！】メンバーシップ、来たれり【影山シエン/ホロスターズ】
+UID:dCT5tCOZo_g
 END:VEVENT
 END:VCALENDAR
