@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【APEX】お昼APEX【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=H15t9O9Wnpo
+DESCRIPTION:【Mother Simulator】騎士道流子育て術、教えます。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=dSvBKNnIm34
 DURATION:PT2H
-DTSTART:20210108T040000Z
-SUMMARY:🍷夕刻ロベル: 【APEX】お昼APEX【ホロスターズ/夕刻ロベル】
-UID:H15t9O9Wnpo
+DTSTART:20210109T030000Z
+SUMMARY:🦔💨岸堂天真: 【Mother Simulator】騎士道流子育て術、教えます。【岸堂天真/ホロスターズ】
+UID:dSvBKNnIm34
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【風呂】OGA in SPA【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=-fMgdaH_Mrw
+DURATION:PT2H
+DTSTART:20210108T173000Z
+SUMMARY:荒咬オウガ: 【風呂】OGA in SPA【荒咬オウガ/ホロスターズ】
+UID:-fMgdaH_Mrw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【毎日感謝の100KILL】ナックル！！！！俺と勝負だ！！！！【３日目】\nhttps://www.youtube.com/watch?v=HIvEGN-1hMI
@@ -18,6 +25,13 @@ SUMMARY:🎭アステル・レダ: 【毎日感謝の100KILL】ナックル！�
 UID:HIvEGN-1hMI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【朝活！】Talk With me about TOUHOU Project !【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=ZJxfnWhmQ3U
+DURATION:PT2H
+DTSTART:20210107T213000Z
+SUMMARY:🍕アルランディス: 【朝活！】Talk With me about TOUHOU Project !【アルランディス/ホロスターズ】
+UID:ZJxfnWhmQ3U
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】新年っぽい何か作ってみない？【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=PMN44aCiA2Y
 DURATION:PT2H
 DTSTART:20210108T130000Z
@@ -25,11 +39,11 @@ SUMMARY:🌺花咲みやび: 【Minecraft】新年っぽい何か作ってみな
 UID:PMN44aCiA2Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【祝！！】メンバーシップ、来たれり【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=dCT5tCOZo_g
+DESCRIPTION:【ガンプラ】深夜に熱い茶すすりながらガンプラ作る【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=WQQFWd3Y8tI
 DURATION:PT2H
-DTSTART:20210109T110000Z
-SUMMARY:影山シエン: 【祝！！】メンバーシップ、来たれり【影山シエン/ホロスターズ】
-UID:dCT5tCOZo_g
+DTSTART:20210107T150000Z
+SUMMARY:荒咬オウガ: 【ガンプラ】深夜に熱い茶すすりながらガンプラ作る【荒咬オウガ/ホロスターズ】
+UID:WQQFWd3Y8tI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－金曜日に行われる朝活－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=KgVr3wkj9hg
@@ -39,11 +53,32 @@ SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－金曜
 UID:KgVr3wkj9hg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ゆるスタ】ゆるスタで新衣装あけおめ雑談するぞい！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=xbn2TVCQtBU
+DURATION:PT2H
+DTSTART:20210108T110000Z
+SUMMARY:🦔💨岸堂天真: 【ゆるスタ】ゆるスタで新衣装あけおめ雑談するぞい！！【岸堂天真/ホロスターズ】
+UID:xbn2TVCQtBU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【毎日感謝の100KILL】1日寝たら1日動けるってあたりまえの事なんだよね。【5日目】\nhttps://www.youtube.com/watch?v=9pwlmeEZ_F8
 DURATION:PT2H
 DTSTART:20210108T233000Z
 SUMMARY:🎭アステル・レダ: 【毎日感謝の100KILL】1日寝たら1日動けるってあたりまえの事なんだよね。【5日目】
 UID:9pwlmeEZ_F8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【祝！！】メンバーシップ、来たれり【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=dCT5tCOZo_g
+DURATION:PT2H
+DTSTART:20210109T110000Z
+SUMMARY:影山シエン: 【祝！！】メンバーシップ、来たれり【影山シエン/ホロスターズ】
+UID:dCT5tCOZo_g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Fall Guys】英語縛りヒョールガイズ English Only stream【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=TET6Z9S2rT8
+DURATION:PT2H
+DTSTART:20210108T080000Z
+SUMMARY:影山シエン: 【Fall Guys】英語縛りヒョールガイズ English Only stream【影山シエン/ホロスターズ】
+UID:TET6Z9S2rT8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PHASMOPHOBIA】新年早々、魔を払う【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Cw0O_KhED30
@@ -60,53 +95,11 @@ SUMMARY:⚙律可: 【トイレの花子さん】学校のトイレの怖さは�
 UID:C3r8U7T_1sg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Apex Legends】闘う【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=RJOBHgIdUds
+DESCRIPTION:【APEX】お昼APEX【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=H15t9O9Wnpo
 DURATION:PT2H
-DTSTART:20210109T080000Z
-SUMMARY:🍕アルランディス: 【Apex Legends】闘う【アルランディス/ホロスターズ】
-UID:RJOBHgIdUds
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【風呂】OGA in SPA【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=-fMgdaH_Mrw
-DURATION:PT2H
-DTSTART:20210108T173000Z
-SUMMARY:荒咬オウガ: 【風呂】OGA in SPA【荒咬オウガ/ホロスターズ】
-UID:-fMgdaH_Mrw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活！】Talk With me about TOUHOU Project !【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=ZJxfnWhmQ3U
-DURATION:PT2H
-DTSTART:20210107T213000Z
-SUMMARY:🍕アルランディス: 【朝活！】Talk With me about TOUHOU Project !【アルランディス/ホロスターズ】
-UID:ZJxfnWhmQ3U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ガンプラ】深夜に熱い茶すすりながらガンプラ作る【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=WQQFWd3Y8tI
-DURATION:PT2H
-DTSTART:20210107T150000Z
-SUMMARY:荒咬オウガ: 【ガンプラ】深夜に熱い茶すすりながらガンプラ作る【荒咬オウガ/ホロスターズ】
-UID:WQQFWd3Y8tI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ゆるスタ】ゆるスタで新衣装あけおめ雑談するぞい！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=xbn2TVCQtBU
-DURATION:PT2H
-DTSTART:20210108T110000Z
-SUMMARY:🦔💨岸堂天真: 【ゆるスタ】ゆるスタで新衣装あけおめ雑談するぞい！！【岸堂天真/ホロスターズ】
-UID:xbn2TVCQtBU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Fall Guys】英語縛りヒョールガイズ English Only stream【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=TET6Z9S2rT8
-DURATION:PT2H
-DTSTART:20210108T080000Z
-SUMMARY:影山シエン: 【Fall Guys】英語縛りヒョールガイズ English Only stream【影山シエン/ホロスターズ】
-UID:TET6Z9S2rT8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Mother Simulator】騎士道流子育て術、教えます。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=dSvBKNnIm34
-DURATION:PT2H
-DTSTART:20210109T030000Z
-SUMMARY:🦔💨岸堂天真: 【Mother Simulator】騎士道流子育て術、教えます。【岸堂天真/ホロスターズ】
-UID:dSvBKNnIm34
+DTSTART:20210108T040000Z
+SUMMARY:🍷夕刻ロベル: 【APEX】お昼APEX【ホロスターズ/夕刻ロベル】
+UID:H15t9O9Wnpo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HITMAN2】私はスーパーエージェントﾊﾅｻｷ！【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=jL-r77tDrmc
