@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【WATCHALONG】Kung Fu Panda\nhttps://www.youtube.com/watch?v=4frqNAKQgaw
-DURATION:PT2H
-DTSTART:20210109T040500Z
-SUMMARY:Amelia: 【WATCHALONG】Kung Fu Panda
-UID:4frqNAKQgaw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Ring Fit Adventure】 PAIN\nhttps://www.youtube.com/watch?v=8L3ugw6yg4o
 DURATION:PT2H
 DTSTART:20210108T210000Z
@@ -32,6 +25,13 @@ SUMMARY:Ina: 【TIME-LAPSE】 New Year's Greetings
 UID:-Aenybcitkc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【FIRE EMBLEM: THREE HOUSES】Bulldozing my enemies with NO MERCY #kfp #キアライブ\nhttps://www.youtube.com/watch?v=kw9W4y-mLV4
+DURATION:PT2H
+DTSTART:20210108T053000Z
+SUMMARY:Kiara: 【FIRE EMBLEM: THREE HOUSES】Bulldozing my enemies with NO MERCY #kfp #キアライブ
+UID:kw9W4y-mLV4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【WATCH-A-LONG】"The Room" and "The Disaster Artist" DOUBLE FEATURE! #HololiveEnglish\nhttps://www.youtube.com/watch?v=KyFJl_6nFbc
 DURATION:PT2H
 DTSTART:20210109T040002Z
@@ -46,10 +46,10 @@ SUMMARY:Amelia: 【Journey】Let's go on one together!
 UID:tRlMsPBxIBs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FIRE EMBLEM: THREE HOUSES】Bulldozing my enemies with NO MERCY #kfp #キアライブ\nhttps://www.youtube.com/watch?v=kw9W4y-mLV4
+DESCRIPTION:【Slither.io】snek and SURPRISE for everyone!!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=6nrx98V7RGU
 DURATION:PT2H
-DTSTART:20210108T053000Z
-SUMMARY:Kiara: 【FIRE EMBLEM: THREE HOUSES】Bulldozing my enemies with NO MERCY #kfp #キアライブ
-UID:kw9W4y-mLV4
+DTSTART:20210109T030000Z
+SUMMARY:Kiara: 【Slither.io】snek and SURPRISE for everyone!!!! #kfp #キアライブ
+UID:6nrx98V7RGU
 END:VEVENT
 END:VCALENDAR
