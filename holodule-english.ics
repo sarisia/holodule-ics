@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:[RING FIT ADVENTURE] SCORE CHALLENGE\nhttps://www.youtube.com/watch?v=Lq2ItuAxm-4
+DURATION:PT2H
+DTSTART:20210110T040000Z
+SUMMARY:Gura: [RING FIT ADVENTURE] SCORE CHALLENGE
+UID:Lq2ItuAxm-4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【WATCHALONG】Kung Fu Panda\nhttps://www.youtube.com/watch?v=4frqNAKQgaw
 DURATION:PT2H
 DTSTART:20210109T040500Z
@@ -18,6 +25,20 @@ SUMMARY:Ina: 【Ring Fit Adventure】 PAIN
 UID:8L3ugw6yg4o
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Slither.io】snek and SURPRISE for everyone!!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=6nrx98V7RGU
+DURATION:PT2H
+DTSTART:20210109T030000Z
+SUMMARY:Kiara: 【Slither.io】snek and SURPRISE for everyone!!!! #kfp #キアライブ
+UID:6nrx98V7RGU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Clubhouse 51】Games with Amelia! (Low Sodium\, I Promise) #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=6BhqaJSimhA
+DURATION:PT2H
+DTSTART:20210110T040000Z
+SUMMARY:Calli: 【Clubhouse 51】Games with Amelia! (Low Sodium\, I Promise) #hololiveEnglish #holoMyth
+UID:6BhqaJSimhA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Sakuna: Of Rice and Ruin】 Gamer Girl Rice...?\nhttps://www.youtube.com/watch?v=ebMW22PeyF4
 DURATION:PT2H
 DTSTART:20210109T200000Z
@@ -25,11 +46,11 @@ SUMMARY:Ina: 【Sakuna: Of Rice and Ruin】 Gamer Girl Rice...?
 UID:ebMW22PeyF4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【KARAOKE UNTIL 700K】PARTY UNTIL 700k SUBS! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=wwl7hZ9XI4o
+DESCRIPTION:【LA Noire】Detective Watson 1247\nhttps://www.youtube.com/watch?v=nQLfdu5KZSA
 DURATION:PT2H
-DTSTART:20210110T053000Z
-SUMMARY:Kiara: 【KARAOKE UNTIL 700K】PARTY UNTIL 700k SUBS! #kfp #キアライブ
-UID:wwl7hZ9XI4o
+DTSTART:20210110T010000Z
+SUMMARY:Amelia: 【LA Noire】Detective Watson 1247
+UID:nQLfdu5KZSA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【WATCH-A-LONG】"The Room" and "The Disaster Artist" DOUBLE FEATURE! #HololiveEnglish\nhttps://www.youtube.com/watch?v=KyFJl_6nFbc
@@ -46,10 +67,10 @@ SUMMARY:Amelia: 【Journey】Let's go on one together!
 UID:tRlMsPBxIBs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Slither.io】snek and SURPRISE for everyone!!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=6nrx98V7RGU
+DESCRIPTION:【KARAOKE UNTIL 700K】PARTY UNTIL 700k SUBS! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=wwl7hZ9XI4o
 DURATION:PT2H
-DTSTART:20210109T030000Z
-SUMMARY:Kiara: 【Slither.io】snek and SURPRISE for everyone!!!! #kfp #キアライブ
-UID:6nrx98V7RGU
+DTSTART:20210110T053000Z
+SUMMARY:Kiara: 【KARAOKE UNTIL 700K】PARTY UNTIL 700k SUBS! #kfp #キアライブ
+UID:wwl7hZ9XI4o
 END:VEVENT
 END:VCALENDAR
