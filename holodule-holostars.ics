@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【感謝枠】1週間分のありがとうです / アステル・レダ\nhttps://www.youtube.com/watch?v=ZQiUCfLkfyw
-DURATION:PT2H
-DTSTART:20210110T083000Z
-SUMMARY:🎭アステル・レダ: 【感謝枠】1週間分のありがとうです / アステル・レダ
-UID:ZQiUCfLkfyw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【風呂】OGA in SPA【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=-fMgdaH_Mrw
 DURATION:PT2H
 DTSTART:20210108T173000Z
@@ -23,6 +16,13 @@ DURATION:PT2H
 DTSTART:20210110T070000Z
 SUMMARY:🦔💨岸堂天真: 【世界のアソビ大全51】プロヨッター天真の敗北したら即終了配信【岸堂天真/ホロスターズ】
 UID:Af2XvMB74ns
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【フィットボクシング2】～力尽きるまで俺は戦う～【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=-74hPcy_7yo
+DURATION:PT2H
+DTSTART:20210110T120000Z
+SUMMARY:荒咬オウガ: 【フィットボクシング2】～力尽きるまで俺は戦う～【荒咬オウガ/ホロスターズ】
+UID:-74hPcy_7yo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【祝！！】メンバーシップ、来たれり【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=dCT5tCOZo_g
