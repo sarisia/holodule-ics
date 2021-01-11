@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－月曜日が終わったということは今日は火曜日－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=K-MkdpW6peo
+DESCRIPTION:【FALLGUYS】サクッと勝って飯食って寝るんじゃ！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=O37zwePhdtU
 DURATION:PT2H
-DTSTART:20210112T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－月曜日が終わったということは今日は火曜日－【ホロスターズ/夕刻ロベル】
-UID:K-MkdpW6peo
+DTSTART:20210111T172500Z
+SUMMARY:🦔💨岸堂天真: 【FALLGUYS】サクッと勝って飯食って寝るんじゃ！！【岸堂天真/ホロスターズ】
+UID:O37zwePhdtU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Apex Legends】アステルくんについていきながらスムーズに動いて闘う【アルランディス/アステル・レダ/ホロスターズ】\nhttps://www.youtube.com/watch?v=Qd3zHfD2j4U
@@ -16,6 +16,13 @@ DURATION:PT2H
 DTSTART:20210111T083000Z
 SUMMARY:🍕アルランディス: 【Apex Legends】アステルくんについていきながらスムーズに動いて闘う【アルランディス/アステル・レダ/ホロスターズ】
 UID:Qd3zHfD2j4U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－月曜日が終わったということは今日は火曜日－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=K-MkdpW6peo
+DURATION:PT2H
+DTSTART:20210112T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－月曜日が終わったということは今日は火曜日－【ホロスターズ/夕刻ロベル】
+UID:K-MkdpW6peo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Portal 】ストーリーが気になって、買っちゃいました【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=fSwjflgi2DQ
@@ -60,13 +67,6 @@ SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－月曜
 UID:ayUS1DT2-3E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】最近ひきこもりがちな男【奏手イヅル】\nhttps://www.youtube.com/watch?v=Cx4gYKgsYzs
-DURATION:PT2H
-DTSTART:20210111T150000Z
-SUMMARY:🎸奏手イヅル: 【雑談】最近ひきこもりがちな男【奏手イヅル】
-UID:Cx4gYKgsYzs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】昼まりか【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=gxqGLscGrQA
 DURATION:PT2H
 DTSTART:20210111T040000Z
@@ -74,11 +74,11 @@ SUMMARY:🍷夕刻ロベル: 【マリオカート8DX】昼まりか【ホロス
 UID:gxqGLscGrQA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【毎日感謝の100KILL】次のステップへ。キャラコンの沼。【7日目】\nhttps://www.youtube.com/watch?v=tJ3hm1DMcQk
+DESCRIPTION:【雑談】最近ひきこもりがちな男【奏手イヅル】\nhttps://www.youtube.com/watch?v=Cx4gYKgsYzs
 DURATION:PT2H
-DTSTART:20210111T070000Z
-SUMMARY:🎭アステル・レダ: 【毎日感謝の100KILL】次のステップへ。キャラコンの沼。【7日目】
-UID:tJ3hm1DMcQk
+DTSTART:20210111T150000Z
+SUMMARY:🎸奏手イヅル: 【雑談】最近ひきこもりがちな男【奏手イヅル】
+UID:Cx4gYKgsYzs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Cooking Simulator】得意料理はクリームソーダです。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=sxRBUq-C5k8
