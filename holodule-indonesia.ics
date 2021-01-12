@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Hanako】I'll Avenge You\, Reine(This Time For Real)【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=JGhaF8VXIpU
-DURATION:PT2H
-DTSTART:20210112T011500Z
-SUMMARY:Anya: 【Hanako】I'll Avenge You\, Reine(This Time For Real)【hololive Indonesia 2nd Generation】
-UID:JGhaF8VXIpU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Superliminal】Play Until We Finish!!! It's Big Breine Time...【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=XKUWonlhcns
-DURATION:PT2H
-DTSTART:20210111T150000Z
-SUMMARY:Reine: 【Superliminal】Play Until We Finish!!! It's Big Breine Time...【hololiveID 2nd generation】
-UID:XKUWonlhcns
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Senin Pantun holoID #3 + Behind the Scene\nhttps://www.youtube.com/watch?v=cVEC2JLKzHg
 DURATION:PT2H
 DTSTART:20210111T014302Z
@@ -39,18 +25,18 @@ SUMMARY:Reine: 【BanG Dream! GBP】Re:birth day of a Peafowl! Playing in EN Ser
 UID:tQQSeeNimsI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【hololiveID】#1 RING FIT ADVENTURE LET'S GOOOOO ~!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=pLJUvxG_f3w
+DESCRIPTION:【Hanako】I'll Avenge You\, Reine(This Time For Real)【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=JGhaF8VXIpU
 DURATION:PT2H
-DTSTART:20210112T080000Z
-SUMMARY:🐿Risu: 【hololiveID】#1 RING FIT ADVENTURE LET'S GOOOOO ~!【Ayunda Risu】
-UID:pLJUvxG_f3w
+DTSTART:20210112T011500Z
+SUMMARY:Anya: 【Hanako】I'll Avenge You\, Reine(This Time For Real)【hololive Indonesia 2nd Generation】
+UID:JGhaF8VXIpU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【hololiveID】#4 AC Origins CONTINUED !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=y1facbQwlZY
+DESCRIPTION:【Superliminal】Play Until We Finish!!! It's Big Breine Time...【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=XKUWonlhcns
 DURATION:PT2H
-DTSTART:20210111T130000Z
-SUMMARY:🐿Risu: 【hololiveID】#4 AC Origins CONTINUED !!!【Ayunda Risu】
-UID:y1facbQwlZY
+DTSTART:20210111T150000Z
+SUMMARY:Reine: 【Superliminal】Play Until We Finish!!! It's Big Breine Time...【hololiveID 2nd generation】
+UID:XKUWonlhcns
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Hanako】I'll Avenge You\, Reine【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=0sv-I182iqM
@@ -58,5 +44,12 @@ DURATION:PT2H
 DTSTART:20210111T140000Z
 SUMMARY:Anya: 【Hanako】I'll Avenge You\, Reine【hololive Indonesia 2nd Generation】
 UID:0sv-I182iqM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololiveID】#4 AC Origins CONTINUED !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=y1facbQwlZY
+DURATION:PT2H
+DTSTART:20210111T130000Z
+SUMMARY:🐿Risu: 【hololiveID】#4 AC Origins CONTINUED !!!【Ayunda Risu】
+UID:y1facbQwlZY
 END:VEVENT
 END:VCALENDAR
