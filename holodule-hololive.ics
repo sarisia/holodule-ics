@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】滅びのバーストストリーム【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=laR4sw4g7y8
-DURATION:PT2H
-DTSTART:20210115T083000Z
-SUMMARY:💋癒月ちょこSub: 【歌枠】滅びのバーストストリーム【ホロライブ/癒月ちょこ】
-UID:laR4sw4g7y8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【耐久歌枠】目指せッ！77万7777人！ラッキー7まで歌う!!!Singing♪【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=NXb5dSmdxe0
 DURATION:PT2H
 DTSTART:20210114T060000Z
 SUMMARY:🏮夏色まつり: 【耐久歌枠】目指せッ！77万7777人！ラッキー7まで歌う!!!Singing♪【ホロライブ/夏色まつり】
 UID:NXb5dSmdxe0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【void tRrLM()\; //ボイド・テラリウム】#10　無限廃墟200F行くまで終われまてん？！【【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=iug4yAQjb_I
+DURATION:PT2H
+DTSTART:20210115T130000Z
+SUMMARY:🐏角巻わため: 【void tRrLM()\; //ボイド・テラリウム】#10　無限廃墟200F行くまで終われまてん？！【【角巻わため/ホロライブ４期生】
+UID:iug4yAQjb_I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:まったりしたい夜に聞きたいやさしめ選曲歌枠【大神ミオ】\nhttps://www.youtube.com/watch?v=e4jMdf23Kws
@@ -242,10 +242,17 @@ SUMMARY:💋癒月ちょこ: 【#ちょこっとクッキング】火を使わ�
 UID:kocBlkbWST4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:やっほおおおおおおおおお！！！！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=az3YDI9eWVk
+DESCRIPTION:【箱おじ】BOXMAN'S STRUGGLE～軽快なジャズを添えて～【#桐生ココ】\nhttps://www.youtube.com/watch?v=PODD5AbaoYI
 DURATION:PT2H
 DTSTART:20210115T130000Z
-SUMMARY:⚓湊あくあ: やっほおおおおおおおおお！！！！！【湊あくあ/ホロライブ】
+SUMMARY:🐉桐生ココ: 【箱おじ】BOXMAN'S STRUGGLE～軽快なジャズを添えて～【#桐生ココ】
+UID:PODD5AbaoYI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】AKUKIN建設ううう！！れっつごー！！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=az3YDI9eWVk
+DURATION:PT2H
+DTSTART:20210115T130000Z
+SUMMARY:⚓湊あくあ: 【Minecraft】AKUKIN建設ううう！！れっつごー！！！【湊あくあ/ホロライブ】
 UID:az3YDI9eWVk
 END:VEVENT
 BEGIN:VEVENT
@@ -298,6 +305,13 @@ SUMMARY:尾丸ポルカ: 【ARK CRYSTAL ISLES】いつかエクスへ​【尾�
 UID:Y3vtQd_AVg8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:すやちゃま配信【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=uPr7Sp7-HUs
+DURATION:PT2H
+DTSTART:20210115T150000Z
+SUMMARY:❤赤井はあと: すやちゃま配信【ホロライブ/赤井はあと】
+UID:uPr7Sp7-HUs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【龍が如く極】これがホントの『第1話』ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=hiLlEDQNcWg
 DURATION:PT2H
 DTSTART:20210116T040000Z
@@ -319,11 +333,11 @@ SUMMARY:🦋潤羽るしあ: 【歌枠】歌うよ！！８０万人記念枠(�
 UID:1eDX7DYwwkE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#生スバル】３Ｄおやすみすばる：Free Talk【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=YiS-Uo2krN0
+DESCRIPTION:【APEX】VTuber最協決定戦カスタムDAY1【#とーますGO☆GO/ホロライブ】\nhttps://www.youtube.com/watch?v=mGZCc-hefAs
 DURATION:PT2H
-DTSTART:20210115T120000Z
-SUMMARY:🚑大空スバル: 【#生スバル】３Ｄおやすみすばる：Free Talk【ホロライブ/大空スバル】
-UID:YiS-Uo2krN0
+DTSTART:20210115T112500Z
+SUMMARY:👾常闇トワ: 【APEX】VTuber最協決定戦カスタムDAY1【#とーますGO☆GO/ホロライブ】
+UID:mGZCc-hefAs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【When the Past was Around】本当の愛を求めて。癒しのゲームに挑戦ッ！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=GXQyX3bFcaw
@@ -347,11 +361,11 @@ SUMMARY:👾常闇トワ: 【APEX】なんやこのメンツは！！！！【�
 UID:2XwqUnZq0y4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】VTuber最協決定戦カスタムDAY1【#とーますGO☆GO/ホロライブ】\nhttps://www.youtube.com/watch?v=mGZCc-hefAs
+DESCRIPTION:【#生スバル】３Ｄおやすみすばる：Free Talk【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=YiS-Uo2krN0
 DURATION:PT2H
 DTSTART:20210115T120000Z
-SUMMARY:👾常闇トワ: 【APEX】VTuber最協決定戦カスタムDAY1【#とーますGO☆GO/ホロライブ】
-UID:mGZCc-hefAs
+SUMMARY:🚑大空スバル: 【#生スバル】３Ｄおやすみすばる：Free Talk【ホロライブ/大空スバル】
+UID:YiS-Uo2krN0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARK】復活！！ついにエクステンション本格始動！？【Hololive/アキロゼ】\nhttps://www.youtube.com/watch?v=_VKxgnk_PJ8
@@ -380,5 +394,12 @@ DURATION:PT2H
 DTSTART:20210114T120000Z
 SUMMARY:👯兎田ぺこら: 【龍が如く0】神室町で豪遊・・・・っ！！！するぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり
 UID:j6QS5cFb4E0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:APEX｜カスタムチーム練習！bamboozleをよろしくね👅【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=DYdUBr1f1EM
+DURATION:PT2H
+DTSTART:20210115T115000Z
+SUMMARY:🤖ロボ子さん: APEX｜カスタムチーム練習！bamboozleをよろしくね👅【ホロライブ/ロボ子さん】
+UID:DYdUBr1f1EM
 END:VEVENT
 END:VCALENDAR
