@@ -4,6 +4,41 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【アルゴナビスAAside】遂にリリース！初見プレイで楽しんでく！！【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=daVC1Z3LgrU
+DURATION:PT2H
+DTSTART:20210116T090000Z
+SUMMARY:影山シエン: 【アルゴナビスAAside】遂にリリース！初見プレイで楽しんでく！！【影山シエン/ホロスターズ】
+UID:daVC1Z3LgrU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【龍が如く維新】ストーリーだけで映画化いける面白さ【岸堂天真/ホロスターズ】【ネタバレあり】\nhttps://www.youtube.com/watch?v=nDi3nVMHCw4
+DURATION:PT2H
+DTSTART:20210115T030000Z
+SUMMARY:🦔💨岸堂天真: 【龍が如く維新】ストーリーだけで映画化いける面白さ【岸堂天真/ホロスターズ】【ネタバレあり】
+UID:nDi3nVMHCw4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ライフモロトモ】何をするか悩んでいたらGang Beastsというゲームで殴り合いをすることになりました【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=_QaUJHF01lk
+DURATION:PT2H
+DTSTART:20210115T040000Z
+SUMMARY:🍷夕刻ロベル: 【#ライフモロトモ】何をするか悩んでいたらGang Beastsというゲームで殴り合いをすることになりました【ホロスターズ/夕刻ロベル】
+UID:_QaUJHF01lk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【毎日感謝の100KILL】ですから、僕が柱になります。【９日目】\nhttps://www.youtube.com/watch?v=Zg6l40lzlhU
+DURATION:PT2H
+DTSTART:20210115T050000Z
+SUMMARY:🎭アステル・レダ: 【毎日感謝の100KILL】ですから、僕が柱になります。【９日目】
+UID:Zg6l40lzlhU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌ってみた】DADDY ! DADDY ! DO !【荒咬オウガ & Ayunda Risu】\nhttps://www.youtube.com/watch?v=cos54QJsb7o
+DURATION:PT2H
+DTSTART:20210115T121500Z
+SUMMARY:荒咬オウガ: 【歌ってみた】DADDY ! DADDY ! DO !【荒咬オウガ & Ayunda Risu】
+UID:cos54QJsb7o
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Apex Legends】多分、ソロ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=GPpuHjywfiY
 DURATION:PT2H
 DTSTART:20210115T070000Z
@@ -53,11 +88,11 @@ SUMMARY:影山シエン: 【Mother Simulator】影山はバブだが役に立つ
 UID:aClb7er-3zc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【龍が如く維新】ストーリーだけで映画化いける面白さ【岸堂天真/ホロスターズ】【ネタバレあり】\nhttps://www.youtube.com/watch?v=nDi3nVMHCw4
+DESCRIPTION:【ASMR】なんか耳がついてるマイクで遊ぶ。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=ojpWMPX-Wb8
 DURATION:PT2H
-DTSTART:20210115T030000Z
-SUMMARY:🦔💨岸堂天真: 【龍が如く維新】ストーリーだけで映画化いける面白さ【岸堂天真/ホロスターズ】【ネタバレあり】
-UID:nDi3nVMHCw4
+DTSTART:20210116T130000Z
+SUMMARY:🌺花咲みやび: 【ASMR】なんか耳がついてるマイクで遊ぶ。【花咲みやび/ホロスターズ】
+UID:ojpWMPX-Wb8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】朝忙しい人のための雑談、Morning Flower【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=uvYW3RRtd_w
@@ -65,13 +100,6 @@ DURATION:PT2H
 DTSTART:20210114T230000Z
 SUMMARY:🌺花咲みやび: 【朝活】朝忙しい人のための雑談、Morning Flower【花咲みやび/ホロスターズ】
 UID:uvYW3RRtd_w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ライフモロトモ】何をするか悩んでいたらGang Beastsというゲームで殴り合いをすることになりました【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=_QaUJHF01lk
-DURATION:PT2H
-DTSTART:20210115T040000Z
-SUMMARY:🍷夕刻ロベル: 【#ライフモロトモ】何をするか悩んでいたらGang Beastsというゲームで殴り合いをすることになりました【ホロスターズ/夕刻ロベル】
-UID:_QaUJHF01lk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－週末だよ－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=EUHEdEHXfoo
@@ -86,26 +114,5 @@ DURATION:PT2H
 DTSTART:20210115T110000Z
 SUMMARY:荒咬オウガ: 【誕生日】荒咬オウガ誕生祭2021【荒咬オウガ/ホロスターズ】
 UID:W0RzVIsTlpM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ASMR】なんか耳がついてるマイクで遊ぶ。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=ojpWMPX-Wb8
-DURATION:PT2H
-DTSTART:20210116T130000Z
-SUMMARY:🌺花咲みやび: 【ASMR】なんか耳がついてるマイクで遊ぶ。【花咲みやび/ホロスターズ】
-UID:ojpWMPX-Wb8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【毎日感謝の100KILL】ですから、僕が柱になります。【９日目】\nhttps://www.youtube.com/watch?v=Zg6l40lzlhU
-DURATION:PT2H
-DTSTART:20210115T050000Z
-SUMMARY:🎭アステル・レダ: 【毎日感謝の100KILL】ですから、僕が柱になります。【９日目】
-UID:Zg6l40lzlhU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】DADDY ! DADDY ! DO !【荒咬オウガ & Ayunda Risu】\nhttps://www.youtube.com/watch?v=cos54QJsb7o
-DURATION:PT2H
-DTSTART:20210115T121500Z
-SUMMARY:荒咬オウガ: 【歌ってみた】DADDY ! DADDY ! DO !【荒咬オウガ & Ayunda Risu】
-UID:cos54QJsb7o
 END:VEVENT
 END:VCALENDAR
