@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【アルゴナビスAAside】遂にリリース！初見プレイで楽しんでく！！【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=daVC1Z3LgrU
+DURATION:PT2H
+DTSTART:20210116T090500Z
+SUMMARY:影山シエン: 【アルゴナビスAAside】遂にリリース！初見プレイで楽しんでく！！【影山シエン/ホロスターズ】
+UID:daVC1Z3LgrU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【龍が如く維新】ストーリーだけで映画化いける面白さ【岸堂天真/ホロスターズ】【ネタバレあり】\nhttps://www.youtube.com/watch?v=nDi3nVMHCw4
 DURATION:PT2H
 DTSTART:20210115T030000Z
@@ -60,13 +67,6 @@ SUMMARY:⚙律可: 【速すぎるRPG】この勇者たちが速すぎてやば�
 UID:V6I4b1xFmzw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Apex Legends】今日も今日とて頑張ります-カスタムDay2-【アルランディス/奏手イヅル/アステル・レダ】\nhttps://www.youtube.com/watch?v=8tu4jq3mUYI
-DURATION:PT2H
-DTSTART:20210116T120000Z
-SUMMARY:🍕アルランディス: 【Apex Legends】今日も今日とて頑張ります-カスタムDay2-【アルランディス/奏手イヅル/アステル・レダ】
-UID:8tu4jq3mUYI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【毎日感謝の100KILL】とりあえず、いきますた。【９日目】\nhttps://www.youtube.com/watch?v=mkQ3qdqwG48
 DURATION:PT2H
 DTSTART:20210115T120000Z
@@ -88,10 +88,10 @@ SUMMARY:🦔💨岸堂天真: 【龍が如く維新】クリアまで！熱す�
 UID:1tQv70Ejb4I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Apex Legends】カスタム2日目！【奏手イヅル/アステル/アルランディス】\nhttps://www.youtube.com/watch?v=FOfs4BGloBw
+DESCRIPTION:【Apex Legends】【奏手イヅル/アステル/アルランディス】\nhttps://www.youtube.com/watch?v=FOfs4BGloBw
 DURATION:PT2H
 DTSTART:20210116T120000Z
-SUMMARY:🎸奏手イヅル: 【Apex Legends】カスタム2日目！【奏手イヅル/アステル/アルランディス】
+SUMMARY:🎸奏手イヅル: 【Apex Legends】【奏手イヅル/アステル/アルランディス】
 UID:FOfs4BGloBw
 END:VEVENT
 BEGIN:VEVENT
