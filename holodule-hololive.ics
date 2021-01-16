@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#ババドナ】未知との遭遇…対戦よろしくお願いします【ホロライブ/宝鐘マリン・大空スバル】\nhttps://www.youtube.com/watch?v=X6Mk9lq2JZs
-DURATION:PT2H
-DTSTART:20210116T100000Z
-SUMMARY:🏴☠宝鐘マリン: 【#ババドナ】未知との遭遇…対戦よろしくお願いします【ホロライブ/宝鐘マリン・大空スバル】
-UID:X6Mk9lq2JZs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【モーリーオンライン】みんなのプレイを見ながら晩酌【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=iZFbuuJ6xpE
 DURATION:PT2H
 DTSTART:20210116T150000Z
@@ -165,18 +158,18 @@ SUMMARY:🌙紫咲シオン: 【雑談】お久しぶりです。いろいろ感
 UID:ES-aT4CrYXo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#2【龍が如く極】おい･･･どうしちまったんだよ錦ィ！！！！！！！！！！【ホロライブ/さくらみこ】※ネタバレあり\nhttps://www.youtube.com/watch?v=SsP7NjYd_lk
+DESCRIPTION:【Minecraft】豪華！かなた城の第一歩・・・噴水広場🏰【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=1RmC3uI1QzU
 DURATION:PT2H
-DTSTART:20210116T070000Z
-SUMMARY:🌸さくらみこ: #2【龍が如く極】おい･･･どうしちまったんだよ錦ィ！！！！！！！！！！【ホロライブ/さくらみこ】※ネタバレあり
-UID:SsP7NjYd_lk
+DTSTART:20210116T130000Z
+SUMMARY:💫天音かなた: 【Minecraft】豪華！かなた城の第一歩・・・噴水広場🏰【天音かなた/ホロライブ】
+UID:1RmC3uI1QzU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【配信予定地】かなたそなにする【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=1RmC3uI1QzU
+DESCRIPTION:【深夜企画】ちょこおじが幼児化？！逆凸で色気を取り戻せ！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=E_zPBE1gu6A
 DURATION:PT2H
-DTSTART:20210116T120000Z
-SUMMARY:💫天音かなた: 【配信予定地】かなたそなにする【天音かなた/ホロライブ】
-UID:1RmC3uI1QzU
+DTSTART:20210116T150000Z
+SUMMARY:💋癒月ちょこ: 【深夜企画】ちょこおじが幼児化？！逆凸で色気を取り戻せ！【ホロライブ/癒月ちょこ】
+UID:E_zPBE1gu6A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RFAでおうち3D】継続は力なり。【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=Cp0TOwaivkc
@@ -233,6 +226,13 @@ DURATION:PT2H
 DTSTART:20210115T150000Z
 SUMMARY:💫天音かなた: 【スパチャお礼枠】3DLIVEの分も✨【天音かなた/ホロライブ】
 UID:_uZZenl5Jmk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】ソロダイアモンドⅢになりたい！！！！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=pos2Q5OVilo
+DURATION:PT2H
+DTSTART:20210116T060000Z
+SUMMARY:⚓湊あくあ: 【APEX】ソロダイアモンドⅢになりたい！！！！！【湊あくあ/ホロライブ】
+UID:pos2Q5OVilo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【龍が如く極】完全初見！これが１作目！伝説の男たちの物語だにぇ！！！！！！！！！【ホロライブ/さくらみこ】※ネタバレあり\nhttps://www.youtube.com/watch?v=Rv8bDZCWZho
@@ -296,6 +296,13 @@ DURATION:PT2H
 DTSTART:20210116T121000Z
 SUMMARY:🌽白上フブキ: 【同時視聴】スパイダーマン:ホームカミング/Spider-Man: Homecoming【ホロライブ/白上フブキ】
 UID:G3Fi5HfIcVQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ASMR】はじめての梵天耳かき！/Ear Cleaning【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=nWTgS3JFVkk
+DURATION:PT2H
+DTSTART:20210116T130000Z
+SUMMARY:🍙猫又おかゆ: 【ASMR】はじめての梵天耳かき！/Ear Cleaning【猫又おかゆ/ホロライブ】
+UID:nWTgS3JFVkk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ジー】CHECK　IT　NOW　【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=5ij8up9PhC0
@@ -401,13 +408,6 @@ DURATION:PT2H
 DTSTART:20210115T115000Z
 SUMMARY:🤖ロボ子さん: APEX｜カスタムチーム練習！bamboozleをよろしくね👅【ホロライブ/ロボ子さん】
 UID:DYdUBr1f1EM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【深夜企画】ちょこおじが幼児化？！逆凸で色気を取り戻せ！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=E_zPBE1gu6A
-DURATION:PT2H
-DTSTART:20210116T150000Z
-SUMMARY:💋癒月ちょこ: 【深夜企画】ちょこおじが幼児化？！逆凸で色気を取り戻せ！【ホロライブ/癒月ちょこ】
-UID:E_zPBE1gu6A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#獅白ぼたん3D】獅白ぼたん3Dお披露目配信！―ミッションをクリアせよ―【ホロライブ】\nhttps://www.youtube.com/watch?v=tUJ0atwgQ48
