@@ -151,10 +151,10 @@ SUMMARY:⚓湊あくあ: 【APEX】ソロダイアモンドⅢになりたい！
 UID:pos2Q5OVilo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#マリンオブザイヤー2020】【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=VhBTL7QY66A
+DESCRIPTION:【#マリンオブザイヤー2020】船長の切り抜きいっぱい見よう！【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=VhBTL7QY66A
 DURATION:PT2H
 DTSTART:20210117T120000Z
-SUMMARY:🏴☠宝鐘マリン: 【#マリンオブザイヤー2020】【ホロライブ/宝鐘マリン】
+SUMMARY:🏴☠宝鐘マリン: 【#マリンオブザイヤー2020】船長の切り抜きいっぱい見よう！【ホロライブ/宝鐘マリン】
 UID:VhBTL7QY66A
 END:VEVENT
 BEGIN:VEVENT
@@ -356,7 +356,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ART STREAM/FREETALK】WHAT SHALL WE DRAW\, ZOMRADES??【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=iQHtPPEaBRw
 DURATION:PT2H
-DTSTART:20210117T113000Z
+DTSTART:20210117T112544Z
 SUMMARY:Ollie: 【ART STREAM/FREETALK】WHAT SHALL WE DRAW\, ZOMRADES??【Hololive Indonesia 2nd Gen】
 UID:iQHtPPEaBRw
 END:VEVENT
@@ -401,6 +401,13 @@ DURATION:PT2H
 DTSTART:20210115T150000Z
 SUMMARY:🍎アキロゼ: 【ARK】ほぼ歌枠/Let's SING!!子育てARK【Hololive/アキロゼ】
 UID:PVAXh0EyiAA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【】はいしんよてち！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=vtKsgnkGp1s
+DURATION:PT2H
+DTSTART:20210117T130000Z
+SUMMARY:🌸さくらみこ: 【】はいしんよてち！【ホロライブ/さくらみこ】
+UID:vtKsgnkGp1s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】いつまでも前の私じゃないんだからね！let's play together!【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=5vx0G9qAFbk
@@ -459,13 +466,6 @@ SUMMARY:🐉桐生ココ: うわぁぁああ
 UID:sliMmBsUB4s
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【龍が如く極】100億の行方、そして兄弟の絆は…ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=hdoB77YIPCo
-DURATION:PT2H
-DTSTART:20210117T040000Z
-SUMMARY:👯兎田ぺこら: 【龍が如く極】100億の行方、そして兄弟の絆は…ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり
-UID:hdoB77YIPCo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Will / 獅白ぼたん(cover)\nhttps://www.youtube.com/watch?v=o14s6S0k5qw
 DURATION:PT2H
 DTSTART:20210117T040005Z
@@ -478,6 +478,13 @@ DURATION:PT2H
 DTSTART:20210117T150000Z
 SUMMARY:🍷夕刻ロベル: 【Infliction】悪夢を彷徨うホラーゲームらしいです【ホロスターズ/夕刻ロベル】
 UID:OJI-zqgX7kg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ペーパーマリオオリガミキング】未だ折り鶴が作れない奴のオリガミキング #07【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=yjlygnTKeEY
+DURATION:PT2H
+DTSTART:20210117T080000Z
+SUMMARY:影山シエン: 【ペーパーマリオオリガミキング】未だ折り鶴が作れない奴のオリガミキング #07【影山シエン/ホロスターズ】
+UID:yjlygnTKeEY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【アキそら】AKISORA TALK～座談会～【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=NfSjC2RcTp4
@@ -527,13 +534,6 @@ DURATION:PT2H
 DTSTART:20210116T074500Z
 SUMMARY:⚙律可: 【参加型テトリス９９】Tスピントリプルを配信中にする【律可/ホロスターズ】#りつすた
 UID:QNmsGWIamR8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】700\,000人目指して歌う！Singing till reach 700k!!!【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=ec3wn6rZOOw
-DURATION:PT2H
-DTSTART:20210117T040000Z
-SUMMARY:🐏角巻わため: 【歌枠】700\,000人目指して歌う！Singing till reach 700k!!!【角巻わため/ホロライブ４期生】
-UID:ec3wn6rZOOw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GTAV】清楚にGTAやっちゃうよん！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=4NRWHwesCyY
@@ -599,18 +599,18 @@ SUMMARY:🦔💨岸堂天真: 【龍が如く維新】クリアまで！熱す�
 UID:1tQv70Ejb4I
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【龍が如く極み】最終回 兄弟、目を覚ませ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=A_kAc8_JFXQ
+DURATION:PT2H
+DTSTART:20210117T130000Z
+SUMMARY:👯兎田ぺこら: 【龍が如く極み】最終回 兄弟、目を覚ませ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり
+UID:A_kAc8_JFXQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 #ホロライブ9週連続リリース 】『Candy-Go-Round』リリース記念✨全員で収録裏話🎉【ホロライブ】\nhttps://www.youtube.com/watch?v=JEmUxqYztAM
 DURATION:PT2H
 DTSTART:20210116T120000Z
 SUMMARY:🤖ロボ子さん: 【 #ホロライブ9週連続リリース 】『Candy-Go-Round』リリース記念✨全員で収録裏話🎉【ホロライブ】
 UID:JEmUxqYztAM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ASMR】なんか耳がついてるマイクで遊ぶ。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=ojpWMPX-Wb8
-DURATION:PT2H
-DTSTART:20210116T130000Z
-SUMMARY:🌺花咲みやび: 【ASMR】なんか耳がついてるマイクで遊ぶ。【花咲みやび/ホロスターズ】
-UID:ojpWMPX-Wb8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ngobrol Sam...bil... Ngan...tuk...\nhttps://www.youtube.com/watch?v=KFKz8eqc3QQ
