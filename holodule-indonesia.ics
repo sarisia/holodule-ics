@@ -4,25 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Passpartout】Drawing hololive Members in School Uniform【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=8l6NbM6l4vo
-DURATION:PT2H
-DTSTART:20210115T150000Z
-SUMMARY:Reine: 【Passpartout】Drawing hololive Members in School Uniform【hololiveID 2nd generation】
-UID:8l6NbM6l4vo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ngobrol Sam...bil... Ngan...tuk...\nhttps://www.youtube.com/watch?v=KFKz8eqc3QQ
-DURATION:PT2H
-DTSTART:20210117T030000Z
-SUMMARY:🎨Iofi: Ngobrol Sam...bil... Ngan...tuk...
-UID:KFKz8eqc3QQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Brunch Stream】Eating Indonesian Food: Soto Ayam!【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=pLdSYmevVUs
 DURATION:PT2H
 DTSTART:20210116T040000Z
 SUMMARY:Reine: 【Brunch Stream】Eating Indonesian Food: Soto Ayam!【hololiveID 2nd generation】
 UID:pLdSYmevVUs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ART STREAM/FREETALK】WHAT SHALL WE DRAW\, ZOMRADES??【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=iQHtPPEaBRw
+DURATION:PT2H
+DTSTART:20210117T113000Z
+SUMMARY:Ollie: 【ART STREAM/FREETALK】WHAT SHALL WE DRAW\, ZOMRADES??【Hololive Indonesia 2nd Gen】
+UID:iQHtPPEaBRw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Collab: Unravel Two】Take My Hand\,  Ina-Senpai\, And Let Us Go!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=Z68mgDScDqI
@@ -39,11 +32,18 @@ SUMMARY:🐿Risu: 【hololiveID】OPENING BIRTHDAY PRESENTS STREAM ~!!【Ayunda 
 UID:u6AQDw2xLB0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:yopi brain at night\nhttps://www.youtube.com/watch?v=yN4uE-Ywhcw
+DESCRIPTION:【Passpartout】Drawing hololive Members in School Uniform【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=8l6NbM6l4vo
 DURATION:PT2H
-DTSTART:20210115T161032Z
-SUMMARY:🎨Iofi: yopi brain at night
-UID:yN4uE-Ywhcw
+DTSTART:20210115T150000Z
+SUMMARY:Reine: 【Passpartout】Drawing hololive Members in School Uniform【hololiveID 2nd generation】
+UID:8l6NbM6l4vo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ngobrol Sam...bil... Ngan...tuk...\nhttps://www.youtube.com/watch?v=KFKz8eqc3QQ
+DURATION:PT2H
+DTSTART:20210117T030000Z
+SUMMARY:🎨Iofi: Ngobrol Sam...bil... Ngan...tuk...
+UID:KFKz8eqc3QQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】I will take note of coordinates and not get lost【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=MnhP_TEwgTA
@@ -51,5 +51,12 @@ DURATION:PT2H
 DTSTART:20210116T140000Z
 SUMMARY:Reine: 【Minecraft】I will take note of coordinates and not get lost【hololiveID 2nd generation】
 UID:MnhP_TEwgTA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:yopi brain at night\nhttps://www.youtube.com/watch?v=yN4uE-Ywhcw
+DURATION:PT2H
+DTSTART:20210115T161032Z
+SUMMARY:🎨Iofi: yopi brain at night
+UID:yN4uE-Ywhcw
 END:VEVENT
 END:VCALENDAR
