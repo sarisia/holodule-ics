@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#HOLOTALK】With our 4th guest: Oozora Subaru #holobirds #ホロ鳥\nhttps://www.youtube.com/watch?v=G9Sc_RNF-VE
-DURATION:PT2H
-DTSTART:20210116T010000Z
-SUMMARY:Kiara: 【#HOLOTALK】With our 4th guest: Oozora Subaru #holobirds #ホロ鳥
-UID:G9Sc_RNF-VE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【WATCHALONG】Let's Watch Ghost in the Shell!!!!\nhttps://www.youtube.com/watch?v=MNgJCOdYaRg
 DURATION:PT2H
 DTSTART:20210117T000000Z
 SUMMARY:Amelia: 【WATCHALONG】Let's Watch Ghost in the Shell!!!!
 UID:MNgJCOdYaRg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Superchat Reading】supaaaaaaaaaaaaaaaas #kfp #キアライブ\nhttps://www.youtube.com/watch?v=5MN8NZMG9bA
-DURATION:PT2H
-DTSTART:20210116T121000Z
-SUMMARY:Kiara: 【Superchat Reading】supaaaaaaaaaaaaaaaas #kfp #キアライブ
-UID:5MN8NZMG9bA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Superchat Reading】SUPER SUNDAY\nhttps://www.youtube.com/watch?v=j8Gu60KYT9I
@@ -46,6 +32,13 @@ SUMMARY:Calli: 【WINE PARTY 雑談】Red Wine Drinking and Crunchy Snack Chatti
 UID:ef3mhzZ5FaY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【RESCHEDULED】 Gesture Drawing + Doodle #14\nhttps://www.youtube.com/watch?v=8AenYrsL8_M
+DURATION:PT2H
+DTSTART:20210118T200000Z
+SUMMARY:Ina: 【RESCHEDULED】 Gesture Drawing + Doodle #14
+UID:8AenYrsL8_M
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:[RDR2] cowboy time\nhttps://www.youtube.com/watch?v=3R_lziAXdzI
 DURATION:PT2H
 DTSTART:20210117T030000Z
@@ -60,31 +53,10 @@ SUMMARY:Calli: 【Ib】RPG Maker Sundays Starting Off with my First... Nostalgia
 UID:cDXCTmQzAak
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【COLLAB】 51 Haachamas Around The World!!!\nhttps://www.youtube.com/watch?v=AlKyymKUK-c
-DURATION:PT2H
-DTSTART:20210116T030000Z
-SUMMARY:Ina: 【COLLAB】 51 Haachamas Around The World!!!
-UID:AlKyymKUK-c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Outer Wilds】The End\nhttps://www.youtube.com/watch?v=JZtOJPmVt_A
-DURATION:PT2H
-DTSTART:20210115T230500Z
-SUMMARY:Amelia: 【Outer Wilds】The End
-UID:JZtOJPmVt_A
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Atelier Ryza】punipunipunipunipunipuni  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=10oCKNuD6PQ
 DURATION:PT2H
 DTSTART:20210117T060000Z
 SUMMARY:Kiara: 【Atelier Ryza】punipunipunipunipunipuni  #kfp #キアライブ
 UID:10oCKNuD6PQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Lobotomy Corporation】 I'm the Manger Now :)\nhttps://www.youtube.com/watch?v=InRQQUNnyPw
-DURATION:PT2H
-DTSTART:20210115T210000Z
-SUMMARY:Ina: 【Lobotomy Corporation】 I'm the Manger Now :)
-UID:InRQQUNnyPw
 END:VEVENT
 END:VCALENDAR
