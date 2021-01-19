@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Fall Guys】ぜったいに一位とる！！！！！！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=63ndKrFy1Pc
+DESCRIPTION:A　S　M　R\nhttps://www.youtube.com/watch?v=1ROUrTgJotw
 DURATION:PT2H
-DTSTART:20210118T080000Z
-SUMMARY:🦋潤羽るしあ: 【Fall Guys】ぜったいに一位とる！！！！！！【潤羽るしあ/ホロライブ】
-UID:63ndKrFy1Pc
+DTSTART:20210120T030000Z
+SUMMARY:❤赤井はあと: A　S　M　R
+UID:1ROUrTgJotw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:お休み１日目のメッセージ【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=-UXMkm6Ndmk
+DURATION:PT2H
+DTSTART:20210120T110000Z
+SUMMARY:🐏角巻わため: お休み１日目のメッセージ【角巻わため/ホロライブ４期生】
+UID:-UXMkm6Ndmk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【minecraft】深夜のトライデント挑戦！！！！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=o1UIrydjQ3U
@@ -16,13 +23,6 @@ DURATION:PT2H
 DTSTART:20210119T140000Z
 SUMMARY:🦋潤羽るしあ: 【minecraft】深夜のトライデント挑戦！！！！【潤羽るしあ/ホロライブ】
 UID:o1UIrydjQ3U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【コラボ実況？】Vtuberがゲーム実況するゲームをやる。ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=o6XFXF0QUjs
-DURATION:PT2H
-DTSTART:20210118T120000Z
-SUMMARY:👯兎田ぺこら: 【コラボ実況？】Vtuberがゲーム実況するゲームをやる。ぺこ！【ホロライブ/兎田ぺこら】
-UID:o6XFXF0QUjs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:lol\nhttps://www.youtube.com/watch?v=MW_S3t5Qui8
@@ -39,32 +39,11 @@ SUMMARY:⚓湊あくあ: 【Penguin/獄門ペンギン】なんかこのペン�
 UID:76ykVW5fiK8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:FALL GUYS SEASON3👑新シーズンだ！次こそ優勝！#桐生ココ\nhttps://www.youtube.com/watch?v=5P9skO8lBzE
-DURATION:PT2H
-DTSTART:20210118T120000Z
-SUMMARY:🐉桐生ココ: FALL GUYS SEASON3👑新シーズンだ！次こそ優勝！#桐生ココ
-UID:5P9skO8lBzE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【めざせ100万人!!】歌いまくれ！/Let's Go Million singing【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=ZZ9Y2fRAVFI
-DURATION:PT2H
-DTSTART:20210118T110000Z
-SUMMARY:🏴☠宝鐘マリン: 【めざせ100万人!!】歌いまくれ！/Let's Go Million singing【ホロライブ/宝鐘マリン】
-UID:ZZ9Y2fRAVFI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ちょっとだけ夜更かし【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=dUottv_czvE
 DURATION:PT2H
 DTSTART:20210118T155000Z
 SUMMARY:❤赤井はあと: ちょっとだけ夜更かし【ホロライブ/赤井はあと】
 UID:dUottv_czvE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【モーリーオンライン】GET...GET…！！！【 ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=SrVn2NKmwtw
-DURATION:PT2H
-DTSTART:20210118T100000Z
-SUMMARY:桃鈴ねね: 【モーリーオンライン】GET...GET…！！！【 ホロライブ/桃鈴ねね】
-UID:SrVn2NKmwtw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:伸びしろ歌枠！！！頑張れ歌え！！🎶＃桐生ココ\nhttps://www.youtube.com/watch?v=_NZqUZ7F2yc
@@ -116,13 +95,6 @@ SUMMARY:☄星街すいせい: 【Thief Simulator】今日は泥棒！！！…�
 UID:r5FfHVUAiYY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【昼雑】3Dお披露目ありがとね～！個人的ショット紹介など【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=ErGxki9etm0
-DURATION:PT2H
-DTSTART:20210118T050000Z
-SUMMARY:獅白ぼたん: 【昼雑】3Dお披露目ありがとね～！個人的ショット紹介など【獅白ぼたん/ホロライブ】
-UID:ErGxki9etm0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:はあちゃまクッキングREVEW!!【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=lueGJGxj1ws
 DURATION:PT2H
 DTSTART:20210119T100000Z
@@ -151,25 +123,11 @@ SUMMARY:⚔白銀ノエル: 【Minecraft】今更ながらアプデしたホロ�
 UID:Ag0XhQ-EDf0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🐹\nhttps://www.youtube.com/watch?v=TvLlLzwiCNo
-DURATION:PT2H
-DTSTART:20210118T122155Z
-SUMMARY:💫天音かなた: 🐹
-UID:TvLlLzwiCNo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【バグダス】もう破壊神なんて言わせない！デバッグのプロのそら【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=0fn18Svm054
 DURATION:PT2H
 DTSTART:20210119T120000Z
 SUMMARY:🐻ときのそら: 【バグダス】もう破壊神なんて言わせない！デバッグのプロのそら【#ときのそら生放送】
 UID:0fn18Svm054
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:深夜のぼっちUNO【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=y4keU10-9bY
-DURATION:PT2H
-DTSTART:20210117T160000Z
-SUMMARY:❤赤井はあと: 深夜のぼっちUNO【ホロライブ/赤井はあと】
-UID:y4keU10-9bY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【モーリーオンライン】コラボグッズは実力で獲る【ホロライブ/尾丸ポルカ】\nhttps://www.youtube.com/watch?v=mnhRiD52BEs
@@ -200,32 +158,18 @@ SUMMARY:🏴☠宝鐘マリン: ；；；；；；；；；；；；；；【hol
 UID:AZwwzU-FwAk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【重大発表アリ】クイズ！雪花ラミィ【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=rsodpTSC6xE
+DURATION:PT2H
+DTSTART:20210120T110000Z
+SUMMARY:雪花ラミィ: 【重大発表アリ】クイズ！雪花ラミィ【雪花ラミィ/ホロライブ】
+UID:rsodpTSC6xE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:🎶Da Ba Dee DA DA🎶\nhttps://www.youtube.com/watch?v=oN-V7oR9URA
 DURATION:PT2H
 DTSTART:20210118T172033Z
 SUMMARY:🐉桐生ココ: 🎶Da Ba Dee DA DA🎶
 UID:oN-V7oR9URA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】練習【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=VVh9VpU9L2A
-DURATION:PT2H
-DTSTART:20210118T073000Z
-SUMMARY:👾常闇トワ: 【APEX】練習【常闇トワ/ホロライブ】
-UID:VVh9VpU9L2A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#フレポルマイクラ】弟子と呼んでねお師匠さん【不知火フレア/尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=r_F6b6JtiAo
-DURATION:PT2H
-DTSTART:20210118T140000Z
-SUMMARY:尾丸ポルカ: 【#フレポルマイクラ】弟子と呼んでねお師匠さん【不知火フレア/尾丸ポルカ/ホロライブ】
-UID:r_F6b6JtiAo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】VTuber最協決定戦カスタムDAY2【#とーますGO☆GO/ホロライブ】\nhttps://www.youtube.com/watch?v=Y_OUWChhtP8
-DURATION:PT2H
-DTSTART:20210118T113000Z
-SUMMARY:👾常闇トワ: 【APEX】VTuber最協決定戦カスタムDAY2【#とーますGO☆GO/ホロライブ】
-UID:Y_OUWChhtP8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GTAⅤ】目標：警察と追いかけっこしない【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=FXXpOoMySMM
@@ -235,20 +179,6 @@ SUMMARY:☄星街すいせい: 【GTAⅤ】目標：警察と追いかけっこ�
 UID:FXXpOoMySMM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Dead by Daylight】1.5倍期間BP食べながら極めます！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=ClaxvhA-0fU
-DURATION:PT2H
-DTSTART:20210118T050000Z
-SUMMARY:💋癒月ちょこ: 【Dead by Daylight】1.5倍期間BP食べながら極めます！【ホロライブ/癒月ちょこ】
-UID:ClaxvhA-0fU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【桃太郎電鉄】Wデート！？バチボコ勝負？！【#はわらぼ桃鉄/ホロライブ】\nhttps://www.youtube.com/watch?v=Kq8jm_5fGs4
-DURATION:PT2H
-DTSTART:20210118T130000Z
-SUMMARY:🐏角巻わため: 【桃太郎電鉄】Wデート！？バチボコ勝負？！【#はわらぼ桃鉄/ホロライブ】
-UID:Kq8jm_5fGs4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【げつよる歌枠】有名アニソン特集！！ Anime songs singing【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=xxzbr5O-RE0
 DURATION:PT2H
 DTSTART:20210118T150000Z
@@ -256,32 +186,11 @@ SUMMARY:💫天音かなた: 【げつよる歌枠】有名アニソン特集！
 UID:xxzbr5O-RE0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PEE---P✨\nhttps://www.youtube.com/watch?v=ramrXKvE-JY
+DESCRIPTION:【#バカタレ共】メンタル的にYABEなホラーゲーム【Visage】\nhttps://www.youtube.com/watch?v=URtR_I2Gqo8
 DURATION:PT2H
-DTSTART:20210118T113021Z
-SUMMARY:🐉桐生ココ: PEE---P✨
-UID:ramrXKvE-JY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【昼雑】ねねちの昼ねねち【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=vbT2OGs9CDs
-DURATION:PT2H
-DTSTART:20210118T030000Z
-SUMMARY:桃鈴ねね: 【昼雑】ねねちの昼ねねち【桃鈴ねね/ホロライブ】
-UID:vbT2OGs9CDs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】ミラおじ練習【白上フブキ/ホロライブ】\nhttps://www.youtube.com/watch?v=vbPihzlaAF0
-DURATION:PT2H
-DTSTART:20210118T090000Z
-SUMMARY:🌽白上フブキ: 【APEX】ミラおじ練習【白上フブキ/ホロライブ】
-UID:vbPihzlaAF0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マインクラフト/Minecraft】ポルカどいて！そいつ＊せない！🎪🔥First adventure【不知火フレア/尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=j_FTSwkBcBc
-DURATION:PT2H
-DTSTART:20210118T140000Z
-SUMMARY:🔥不知火フレア: 【マインクラフト/Minecraft】ポルカどいて！そいつ＊せない！🎪🔥First adventure【不知火フレア/尾丸ポルカ/ホロライブ】
-UID:j_FTSwkBcBc
+DTSTART:20210119T150000Z
+SUMMARY:🌽白上フブキ: 【#バカタレ共】メンタル的にYABEなホラーゲーム【Visage】
+UID:URtR_I2Gqo8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】カスタム練習していく！助っ人きちゃぁあああ！！！【#bamboozle 】\nhttps://www.youtube.com/watch?v=K_mUcIrE_GU
@@ -291,39 +200,11 @@ SUMMARY:🌽白上フブキ: 【APEX】カスタム練習していく！助っ�
 UID:K_mUcIrE_GU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:最終回【龍が如く極】伝説の男と100億と小学生と兄弟の結末――――･･･にぇ！【ホロライブ/さくらみこ】※ネタバレあり\nhttps://www.youtube.com/watch?v=-Wqem25iZTY
-DURATION:PT2H
-DTSTART:20210118T101500Z
-SUMMARY:🌸さくらみこ: 最終回【龍が如く極】伝説の男と100億と小学生と兄弟の結末――――･･･にぇ！【ホロライブ/さくらみこ】※ネタバレあり
-UID:-Wqem25iZTY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】少し成長をしました！カジュアル→カスタム【花芽すみれ/常闇トワ/夏色まつり】\nhttps://www.youtube.com/watch?v=1mbBpKtSzSQ
-DURATION:PT2H
-DTSTART:20210118T110000Z
-SUMMARY:🏮夏色まつり: 【APEX】少し成長をしました！カジュアル→カスタム【花芽すみれ/常闇トワ/夏色まつり】
-UID:1mbBpKtSzSQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MOTHER3】イカヅチ VS ネコ #5【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=FtQPlZpqzSI
-DURATION:PT2H
-DTSTART:20210118T130000Z
-SUMMARY:🍙猫又おかゆ: 【MOTHER3】イカヅチ VS ネコ #5【猫又おかゆ/ホロライブ】
-UID:FtQPlZpqzSI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】大きな声で報告しましょう！【花芽すみれ/常闇トワ/夏色まつり】\nhttps://www.youtube.com/watch?v=0chaqsd6sqk
 DURATION:PT2H
 DTSTART:20210119T120000Z
 SUMMARY:🏮夏色まつり: 【APEX】大きな声で報告しましょう！【花芽すみれ/常闇トワ/夏色まつり】
 UID:0chaqsd6sqk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FallGuys】新シーズンらしいから最強見せつけるか【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=uCXTe-U7EJk
-DURATION:PT2H
-DTSTART:20210118T130000Z
-SUMMARY:☄星街すいせい: 【FallGuys】新シーズンらしいから最強見せつけるか【ホロライブ / 星街すいせい】
-UID:uCXTe-U7EJk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談歌枠】2021年一段とテンション高めの先生【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=OD8tFhA83EU
@@ -347,38 +228,10 @@ SUMMARY:🍎アキロゼ: 【mother simulator】完全初見！絶対キレな�
 UID:63OiX135qoM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【占い凸待ち】突然の開店！お客様はいらっしゃる・・のか？！【大神ミオ】\nhttps://www.youtube.com/watch?v=0F4JcBzx2m4
-DURATION:PT2H
-DTSTART:20210117T150000Z
-SUMMARY:🌲大神ミオ: 【占い凸待ち】突然の開店！お客様はいらっしゃる・・のか？！【大神ミオ】
-UID:0F4JcBzx2m4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】そうだ、ネザーに村を作ろう。ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=S72XCko3JNc
 DURATION:PT2H
 DTSTART:20210119T120000Z
 SUMMARY:👯兎田ぺこら: 【Minecraft】そうだ、ネザーに村を作ろう。ぺこ！【ホロライブ/兎田ぺこら】
 UID:S72XCko3JNc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【北斗の拳 LEGENDS ReVIVE】今日から始める北斗リバイブ！\nhttps://www.youtube.com/watch?v=rmhqjgUySkQ
-DURATION:PT2H
-DTSTART:20210117T143000Z
-SUMMARY:🥐戌神ころね: 【北斗の拳 LEGENDS ReVIVE】今日から始める北斗リバイブ！
-UID:rmhqjgUySkQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【】uta【】\nhttps://www.youtube.com/watch?v=XCcVDm5W_mo
-DURATION:PT2H
-DTSTART:20210119T120000Z
-SUMMARY:🚑大空スバル: 【】uta【】
-UID:XCcVDm5W_mo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】カスタム練習していく！【#bamboozle 】\nhttps://www.youtube.com/watch?v=3fvZGW6KvPs
-DURATION:PT2H
-DTSTART:20210118T120000Z
-SUMMARY:🌽白上フブキ: 【APEX】カスタム練習していく！【#bamboozle 】
-UID:3fvZGW6KvPs
 END:VEVENT
 END:VCALENDAR
