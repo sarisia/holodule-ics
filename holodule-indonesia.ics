@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Supareading】Some Quick Catch-Ups【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=OHaQ3FiKYSs
+DESCRIPTION:【Reine's Picture Diary】Bonding with holoID Senpais Post-Talk & Drawing【hololiveID】\nhttps://www.youtube.com/watch?v=sotnsyT14-c
 DURATION:PT2H
-DTSTART:20210119T083000Z
-SUMMARY:Anya: 【Supareading】Some Quick Catch-Ups【hololive Indonesia 2nd Generation】
-UID:OHaQ3FiKYSs
+DTSTART:20210119T140000Z
+SUMMARY:Reine: 【Reine's Picture Diary】Bonding with holoID Senpais Post-Talk & Drawing【hololiveID】
+UID:sotnsyT14-c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ioMama ASMR \, Humming and Head Pat\nhttps://www.youtube.com/watch?v=t0mp1tsblEM
@@ -16,20 +16,6 @@ DURATION:PT2H
 DTSTART:20210118T140000Z
 SUMMARY:🎨Iofi: ioMama ASMR \, Humming and Head Pat
 UID:t0mp1tsblEM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Dead by Daylight】First *FIRST* Time of DBD Play!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=L9RpzhOL1HY
-DURATION:PT2H
-DTSTART:20210118T150000Z
-SUMMARY:Anya: 【Dead by Daylight】First *FIRST* Time of DBD Play!【hololive Indonesia 2nd Generation】
-UID:L9RpzhOL1HY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MEL COLLAB • MINECRAFT】 BUILDING FUN TIME w/MEL SENPAI🌟【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=TRcHYdwPDgo
-DURATION:PT2H
-DTSTART:20210119T113000Z
-SUMMARY:Ollie: 【MEL COLLAB • MINECRAFT】 BUILDING FUN TIME w/MEL SENPAI🌟【Hololive ID 2nd Gen】
-UID:TRcHYdwPDgo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Skyrim】Hey\,you! you're finally awake【Moona】\nhttps://www.youtube.com/watch?v=20X9YyxJFHk
@@ -51,5 +37,26 @@ DURATION:PT2H
 DTSTART:20210119T130000Z
 SUMMARY:🔮Moona: 【GeeMoon】Hey darling【Moona】
 UID:IEArVtjI75A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Supareading】Some Quick Catch-Ups【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=OHaQ3FiKYSs
+DURATION:PT2H
+DTSTART:20210119T083000Z
+SUMMARY:Anya: 【Supareading】Some Quick Catch-Ups【hololive Indonesia 2nd Generation】
+UID:OHaQ3FiKYSs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Dead by Daylight】First *FIRST* Time of DBD Play!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=L9RpzhOL1HY
+DURATION:PT2H
+DTSTART:20210118T150000Z
+SUMMARY:Anya: 【Dead by Daylight】First *FIRST* Time of DBD Play!【hololive Indonesia 2nd Generation】
+UID:L9RpzhOL1HY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MEL COLLAB • MINECRAFT】 BUILDING FUN TIME w/MEL SENPAI🌟【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=TRcHYdwPDgo
+DURATION:PT2H
+DTSTART:20210119T113000Z
+SUMMARY:Ollie: 【MEL COLLAB • MINECRAFT】 BUILDING FUN TIME w/MEL SENPAI🌟【Hololive ID 2nd Gen】
+UID:TRcHYdwPDgo
 END:VEVENT
 END:VCALENDAR
