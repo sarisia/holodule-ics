@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【APEX】カスタムマッチをやるー大会前日－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=pWl8wBeGhpY
+DESCRIPTION:【Apex Legends】カスタム練習6日目 【奏手イヅル/アステル/アルランディス】\nhttps://www.youtube.com/watch?v=qAnuvIic794
 DURATION:PT2H
 DTSTART:20210123T120000Z
-SUMMARY:🍷夕刻ロベル: 【APEX】カスタムマッチをやるー大会前日－【ホロスターズ/夕刻ロベル】
-UID:pWl8wBeGhpY
+SUMMARY:🎸奏手イヅル: 【Apex Legends】カスタム練習6日目 【奏手イヅル/アステル/アルランディス】
+UID:qAnuvIic794
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【弾き語り枠】アーカイブありの弾き語りという久々感【ホロスターズ/律可】#りつすた\nhttps://www.youtube.com/watch?v=J1E9o1pE0R0
@@ -25,11 +25,25 @@ SUMMARY:⚙律可: #2.5【HOLLOW KNIGHT/ホロウナイト】激戦再び！未�
 UID:MnL6O-T4QZg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#３【HOLLOW KNIGHT/ホロウナイト】荒廃した王国を冒険する高難易度2Dアクション【律可/ホロスターズ】＃りつすた\nhttps://www.youtube.com/watch?v=DXbP39uPMiQ
+DESCRIPTION:【Apex Legends】Vtuber最協決定戦Season2！行くぞ、ラッッッッグ！！！【アルランディス/奏手イヅル/アステル・レダ】\nhttps://www.youtube.com/watch?v=O9H5eiYurjY
 DURATION:PT2H
-DTSTART:20210123T072000Z
-SUMMARY:⚙律可: #３【HOLLOW KNIGHT/ホロウナイト】荒廃した王国を冒険する高難易度2Dアクション【律可/ホロスターズ】＃りつすた
-UID:DXbP39uPMiQ
+DTSTART:20210124T080000Z
+SUMMARY:🍕アルランディス: 【Apex Legends】Vtuber最協決定戦Season2！行くぞ、ラッッッッグ！！！【アルランディス/奏手イヅル/アステル・レダ】
+UID:O9H5eiYurjY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Apex Legends】1/23 カスタム最終日！前夜祭もあるよ！【アルランディス/奏手イヅル/アステル・レダ】\nhttps://www.youtube.com/watch?v=xAKqRscHsAU
+DURATION:PT2H
+DTSTART:20210123T120000Z
+SUMMARY:🍕アルランディス: 【Apex Legends】1/23 カスタム最終日！前夜祭もあるよ！【アルランディス/奏手イヅル/アステル・レダ】
+UID:xAKqRscHsAU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【最期の100KILL】コーチと共に参ります！！【大会当日】\nhttps://www.youtube.com/watch?v=CE07iFI6mf8
+DURATION:PT2H
+DTSTART:20210123T180000Z
+SUMMARY:🎭アステル・レダ: 【最期の100KILL】コーチと共に参ります！！【大会当日】
+UID:CE07iFI6mf8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】最近はやりのなうい歌、僕に教えてくれ～い！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=wyRT6XZZQFQ
@@ -37,5 +51,26 @@ DURATION:PT2H
 DTSTART:20210123T051500Z
 SUMMARY:🦔💨岸堂天真: 【歌枠】最近はやりのなうい歌、僕に教えてくれ～い！！【岸堂天真/ホロスターズ】
 UID:wyRT6XZZQFQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】カスタムマッチをやるー大会前日－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=pWl8wBeGhpY
+DURATION:PT2H
+DTSTART:20210123T120000Z
+SUMMARY:🍷夕刻ロベル: 【APEX】カスタムマッチをやるー大会前日－【ホロスターズ/夕刻ロベル】
+UID:pWl8wBeGhpY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#３【HOLLOW KNIGHT/ホロウナイト】荒廃した王国を冒険する高難易度2Dアクション【律可/ホロスターズ】＃りつすた\nhttps://www.youtube.com/watch?v=DXbP39uPMiQ
+DURATION:PT2H
+DTSTART:20210123T072000Z
+SUMMARY:⚙律可: #３【HOLLOW KNIGHT/ホロウナイト】荒廃した王国を冒険する高難易度2Dアクション【律可/ホロスターズ】＃りつすた
+UID:DXbP39uPMiQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#Vtuber最協決定戦】HEMLOCKヶ大好き!!【前夜祭!!】\nhttps://www.youtube.com/watch?v=dHDm0kCEIJQ
+DURATION:PT2H
+DTSTART:20210123T120000Z
+SUMMARY:🎭アステル・レダ: 【#Vtuber最協決定戦】HEMLOCKヶ大好き!!【前夜祭!!】
+UID:dHDm0kCEIJQ
 END:VEVENT
 END:VCALENDAR
