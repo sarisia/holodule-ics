@@ -4,18 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:[2MILLION PARTY] HOLOLIVE KARAOKE!! #gurats2M\nhttps://www.youtube.com/watch?v=qTwHCC4stu8
-DURATION:PT2H
-DTSTART:20210123T010000Z
-SUMMARY:Gura: [2MILLION PARTY] HOLOLIVE KARAOKE!! #gurats2M
-UID:qTwHCC4stu8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Atelier Ryza】time for Lila's thighs to SHINE  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=nNphORD-Nl8
 DURATION:PT2H
 DTSTART:20210123T050000Z
 SUMMARY:Kiara: 【Atelier Ryza】time for Lila's thighs to SHINE  #kfp #キアライブ
 UID:nNphORD-Nl8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】EXPLORING until I get lost! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=wIffdb9gmZs
+DURATION:PT2H
+DTSTART:20210124T040000Z
+SUMMARY:Kiara: 【MINECRAFT】EXPLORING until I get lost! #kfp #キアライブ
+UID:wIffdb9gmZs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[2MILLION PARTY] HOLOLIVE KARAOKE!! #gurats2M\nhttps://www.youtube.com/watch?v=qTwHCC4stu8
+DURATION:PT2H
+DTSTART:20210123T010000Z
+SUMMARY:Gura: [2MILLION PARTY] HOLOLIVE KARAOKE!! #gurats2M
+UID:qTwHCC4stu8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Mario Galaxy】LETSA GO\nhttps://www.youtube.com/watch?v=nz-nmF4ByNI
