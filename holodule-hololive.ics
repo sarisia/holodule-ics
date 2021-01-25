@@ -4,11 +4,32 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【歌枠 】久々に歌っちゃう🎤let's Karaoke【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=68W3PbKnotU
+DESCRIPTION:HAACHAMA ENGLISH #HololiveEN 0th\nhttps://www.youtube.com/watch?v=C9v0IR1jpCA
 DURATION:PT2H
-DTSTART:20210124T100000Z
-SUMMARY:🔥不知火フレア: 【歌枠 】久々に歌っちゃう🎤let's Karaoke【ホロライブ/不知火フレア】
-UID:68W3PbKnotU
+DTSTART:20210126T120000Z
+SUMMARY:❤赤井はあと: HAACHAMA ENGLISH #HololiveEN 0th
+UID:C9v0IR1jpCA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#AKUKIN本社建設リレー】SENSE【 ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=VLVtogssPwY
+DURATION:PT2H
+DTSTART:20210125T133000Z
+SUMMARY:桃鈴ねね: 【#AKUKIN本社建設リレー】SENSE【 ホロライブ/桃鈴ねね】
+UID:VLVtogssPwY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【本社建設リレー】AKUKIN建設、人事担当の大神ミオ動きます【調整係】\nhttps://www.youtube.com/watch?v=Y2sxHh9wmHQ
+DURATION:PT2H
+DTSTART:20210125T140000Z
+SUMMARY:🌲大神ミオ: 【本社建設リレー】AKUKIN建設、人事担当の大神ミオ動きます【調整係】
+UID:Y2sxHh9wmHQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】皆でゆっくりお話しましょ！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=dZHsh1GfIMk
+DURATION:PT2H
+DTSTART:20210125T090000Z
+SUMMARY:🌽白上フブキ: 【雑談】皆でゆっくりお話しましょ！【ホロライブ/白上フブキ】
+UID:dZHsh1GfIMk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#AKUKIN本社建設リレー】社長の喜ぶことをすべて知っている…【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=MSE8ulZTUeA
@@ -16,6 +37,13 @@ DURATION:PT2H
 DTSTART:20210125T130000Z
 SUMMARY:🏴☠宝鐘マリン: 【#AKUKIN本社建設リレー】社長の喜ぶことをすべて知っている…【ホロライブ/宝鐘マリン】
 UID:MSE8ulZTUeA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#バカタレ共】バカタレ共の仁義なき桃鉄BATTLE【桃鉄】\nhttps://www.youtube.com/watch?v=Nfa-onldSpY
+DURATION:PT2H
+DTSTART:20210125T120000Z
+SUMMARY:🌽白上フブキ: 【#バカタレ共】バカタレ共の仁義なき桃鉄BATTLE【桃鉄】
+UID:Nfa-onldSpY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:深夜テンションのあぺ【アーカイブなし】\nhttps://www.youtube.com/watch?v=ABrv4AcYEBo
@@ -39,18 +67,11 @@ SUMMARY:🍬姫森ルーナ: 【 復活配信✨ 】声が出せるようにな�
 UID:tPZfjIoRnxc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[FAST&FURIOUS MEGA MAX]ワイルドスピードﾒｶﾞﾏｯｸｽ🚘映画同時視聴🍿[MOVIE WATCH ALONG]\nhttps://www.youtube.com/watch?v=7Aaaxp_J8mI
+DESCRIPTION:【#AKUKIN本社建設リレー配信】ネザークォーツしか勝たん！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=lQuJb6JIZr0
 DURATION:PT2H
-DTSTART:20210124T120000Z
-SUMMARY:🐉桐生ココ: [FAST&FURIOUS MEGA MAX]ワイルドスピードﾒｶﾞﾏｯｸｽ🚘映画同時視聴🍿[MOVIE WATCH ALONG]
-UID:7Aaaxp_J8mI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】🔥VTuber最協決定戦ー#TMSWINー【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=xjzc92Mg5bY
-DURATION:PT2H
-DTSTART:20210124T081500Z
-SUMMARY:👾常闇トワ: 【APEX】🔥VTuber最協決定戦ー#TMSWINー【常闇トワ/ホロライブ】
-UID:xjzc92Mg5bY
+DTSTART:20210125T103000Z
+SUMMARY:雪花ラミィ: 【#AKUKIN本社建設リレー配信】ネザークォーツしか勝たん！【雪花ラミィ/ホロライブ】
+UID:lQuJb6JIZr0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:favorite💫\nhttps://www.youtube.com/watch?v=UlE29jsd0c8
@@ -60,11 +81,11 @@ SUMMARY:💫天音かなた: favorite💫
 UID:UlE29jsd0c8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【最協決定戦】チームGON頑張るど～！【百鬼あやめ / 現よみ/ 紫咲シオン】\nhttps://www.youtube.com/watch?v=7WXlNxnmptQ
+DESCRIPTION:【昼雑】あと一週間で準備しないと【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=C3Eto24LFxo
 DURATION:PT2H
-DTSTART:20210124T082000Z
-SUMMARY:🌙紫咲シオン: 【最協決定戦】チームGON頑張るど～！【百鬼あやめ / 現よみ/ 紫咲シオン】
-UID:7WXlNxnmptQ
+DTSTART:20210125T030000Z
+SUMMARY:桃鈴ねね: 【昼雑】あと一週間で準備しないと【桃鈴ねね/ホロライブ】
+UID:C3Eto24LFxo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:雪花ラミィのモーニングルーティーン\nhttps://www.youtube.com/watch?v=JAlP58ZTtQ8
@@ -72,6 +93,27 @@ DURATION:PT2H
 DTSTART:20210125T060722Z
 SUMMARY:雪花ラミィ: 雪花ラミィのモーニングルーティーン
 UID:JAlP58ZTtQ8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ウサギCOOKING♪【ホロライブ/#はあちゃまなう】\nhttps://www.youtube.com/watch?v=JnU00OYE3A4
+DURATION:PT2H
+DTSTART:20210125T120000Z
+SUMMARY:❤赤井はあと: ウサギCOOKING♪【ホロライブ/#はあちゃまなう】
+UID:JnU00OYE3A4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#AKUKIN本社建設リレー​】AKUKIN建設本社を可愛く飾る！！！✨✨【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=F_4e-9HAYUo
+DURATION:PT2H
+DTSTART:20210125T123000Z
+SUMMARY:💫天音かなた: 【#AKUKIN本社建設リレー​】AKUKIN建設本社を可愛く飾る！！！✨✨【天音かなた/ホロライブ】
+UID:F_4e-9HAYUo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Whooooo is me?\nhttps://www.youtube.com/watch?v=9HWWGS8cVlg
+DURATION:PT2H
+DTSTART:20210125T075650Z
+SUMMARY:⚔白銀ノエル: Whooooo is me?
+UID:9HWWGS8cVlg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:HUG?\nhttps://www.youtube.com/watch?v=y2A0q7AMEfk
@@ -88,83 +130,6 @@ SUMMARY:雪花ラミィ: 雪花ラミィのナイトルーティーン
 UID:kcbFibazs8w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#7】仮面集めーー！！！！：The Legend of Zelda: Majora's Mask【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=SStQvFj42nw
-DURATION:PT2H
-DTSTART:20210124T050000Z
-SUMMARY:🚑大空スバル: 【#7】仮面集めーー！！！！：The Legend of Zelda: Majora's Mask【ホロライブ/大空スバル】
-UID:SStQvFj42nw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:APEX｜VTuber最協決定戦🔥全力出しきって勝つぞ！！【#BAMWIN 】\nhttps://www.youtube.com/watch?v=cUfwXuED7is
-DURATION:PT2H
-DTSTART:20210124T081500Z
-SUMMARY:🤖ロボ子さん: APEX｜VTuber最協決定戦🔥全力出しきって勝つぞ！！【#BAMWIN 】
-UID:cUfwXuED7is
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】🔥VTuber最協決定戦ー後夜祭ー【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=5W8gW8JQ614
-DURATION:PT2H
-DTSTART:20210124T143000Z
-SUMMARY:👾常闇トワ: 【APEX】🔥VTuber最協決定戦ー後夜祭ー【常闇トワ/ホロライブ】
-UID:5W8gW8JQ614
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ゴリラ宇宙人狼​】超初心者はもともとウホくらいの情報しか言えないので通常運行【アキロゼ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=N0sdrfFUv80
-DURATION:PT2H
-DTSTART:20210125T120000Z
-SUMMARY:🍎アキロゼ: 【#ゴリラ宇宙人狼​】超初心者はもともとウホくらいの情報しか言えないので通常運行【アキロゼ視点/ホロライブ】
-UID:N0sdrfFUv80
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マイクラ】あえて起きよう【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=5DnrgVt79gU
-DURATION:PT2H
-DTSTART:20210123T200000Z
-SUMMARY:尾丸ポルカ: 【マイクラ】あえて起きよう【尾丸ポルカ/ホロライブ】
-UID:5DnrgVt79gU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【GTAⅤ】どけどけどけえええ！！！！！💥💥💥【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=Baj8Rl3zYP4
-DURATION:PT2H
-DTSTART:20210124T060000Z
-SUMMARY:☄星街すいせい: 【GTAⅤ】どけどけどけえええ！！！！！💥💥💥【ホロライブ / 星街すいせい】
-UID:Baj8Rl3zYP4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#AKUKIN本社建設リレー】SENSE【 ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=VLVtogssPwY
-DURATION:PT2H
-DTSTART:20210125T133000Z
-SUMMARY:桃鈴ねね: 【#AKUKIN本社建設リレー】SENSE【 ホロライブ/桃鈴ねね】
-UID:VLVtogssPwY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VTuber最協決定戦S2​ 】後夜祭じゃい【#BAMWIN】\nhttps://www.youtube.com/watch?v=UWGrDHIsPjE
-DURATION:PT2H
-DTSTART:20210124T143000Z
-SUMMARY:🌽白上フブキ: 【VTuber最協決定戦S2​ 】後夜祭じゃい【#BAMWIN】
-UID:UWGrDHIsPjE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】冬眠から目覚めた悪魔の寝起き雑談【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=sykIprztetM
-DURATION:PT2H
-DTSTART:20210124T090000Z
-SUMMARY:💋癒月ちょこ: 【雑談】冬眠から目覚めた悪魔の寝起き雑談【ホロライブ/癒月ちょこ】
-UID:sykIprztetM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マインクラフト/Minecraft】深夜のホロ鯖道整備☽Midnight holo server Road maintenance【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=qtFEn-J098c
-DURATION:PT2H
-DTSTART:20210124T140000Z
-SUMMARY:🔥不知火フレア: 【マインクラフト/Minecraft】深夜のホロ鯖道整備☽Midnight holo server Road maintenance【ホロライブ/不知火フレア】
-UID:qtFEn-J098c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#バカタレ共】バカタレ共の仁義なき桃鉄BATTLE【桃鉄】\nhttps://www.youtube.com/watch?v=Nfa-onldSpY
-DURATION:PT2H
-DTSTART:20210125T120000Z
-SUMMARY:🌽白上フブキ: 【#バカタレ共】バカタレ共の仁義なき桃鉄BATTLE【桃鉄】
-UID:Nfa-onldSpY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#AKUKIN本社建設リレー】ついに！本社完成！お披露目だあああ！！ 【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=YICTdOYB5qM
 DURATION:PT2H
 DTSTART:20210125T150000Z
@@ -172,179 +137,25 @@ SUMMARY:⚓湊あくあ: 【#AKUKIN本社建設リレー】ついに！本社完
 UID:YICTdOYB5qM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#雪花ラミィ3D】雪花ラミィ3Dお披露目配信！【ホロライブ】\nhttps://www.youtube.com/watch?v=nb8fsoN8Wvo
+DESCRIPTION:【Minecraft】AKUKIN建設に貢献します✨#AKUKIN本社建設リレー配信​【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=i3iXG91P3Dg
 DURATION:PT2H
-DTSTART:20210124T110000Z
-SUMMARY:雪花ラミィ: 【#雪花ラミィ3D】雪花ラミィ3Dお披露目配信！【ホロライブ】
-UID:nb8fsoN8Wvo
+DTSTART:20210125T110000Z
+SUMMARY:🌟夜空メル: 【Minecraft】AKUKIN建設に貢献します✨#AKUKIN本社建設リレー配信​【ホロライブ/夜空メル】
+UID:i3iXG91P3Dg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Whooooo is me?\nhttps://www.youtube.com/watch?v=9HWWGS8cVlg
+DESCRIPTION:【マインクラフト/Minecraft】やっぱりトラップドアなんだよなぁ～！！【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=3QTrXUDp2-8
 DURATION:PT2H
-DTSTART:20210125T075650Z
-SUMMARY:⚔白銀ノエル: Whooooo is me?
-UID:9HWWGS8cVlg
+DTSTART:20210125T100000Z
+SUMMARY:🔥不知火フレア: 【マインクラフト/Minecraft】やっぱりトラップドアなんだよなぁ～！！【ホロライブ/不知火フレア】
+UID:3QTrXUDp2-8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Teke Teke - テケテケ】都市伝説「テケテケ」に突撃するアキロゼちゃん【Hololive/Akirose】\nhttps://www.youtube.com/watch?v=8GX0BM-_RRc
+DESCRIPTION:【モーリーオンライン】5期生グッズGETするぞい！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=Rjk66XMMwOw
 DURATION:PT2H
-DTSTART:20210124T010000Z
-SUMMARY:🍎アキロゼ: 【Teke Teke - テケテケ】都市伝説「テケテケ」に突撃するアキロゼちゃん【Hololive/Akirose】
-UID:8GX0BM-_RRc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【公式】『星街すいせいのMUSIC SPACE』#42 前半（2021年1月17日放送分）\nhttps://www.youtube.com/watch?v=KJ_8jZ0TlO0
-DURATION:PT2H
-DTSTART:20210124T030009Z
-SUMMARY:☄星街すいせい: 【公式】『星街すいせいのMUSIC SPACE』#42 前半（2021年1月17日放送分）
-UID:KJ_8jZ0TlO0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ゼルダの伝説BotW DLC】試練🔥【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=g8sMJmei1ig
-DURATION:PT2H
-DTSTART:20210124T020000Z
-SUMMARY:⚔白銀ノエル: 【ゼルダの伝説BotW DLC】試練🔥【白銀ノエル/ホロライブ】
-UID:g8sMJmei1ig
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:「おとなの掟」　猫又おかゆ・大神ミオ(cover)\nhttps://www.youtube.com/watch?v=ESM-OniA96w
-DURATION:PT2H
-DTSTART:20210124T090000Z
-SUMMARY:🌲大神ミオ: 「おとなの掟」　猫又おかゆ・大神ミオ(cover)
-UID:ESM-OniA96w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:APEX｜VTuber最協決定戦🔥全力出しきって勝つぞ！！【#BAMWIN 】\nhttps://www.youtube.com/watch?v=V0mVtwt59h4
-DURATION:PT2H
-DTSTART:20210124T082500Z
-SUMMARY:🤖ロボ子さん: APEX｜VTuber最協決定戦🔥全力出しきって勝つぞ！！【#BAMWIN 】
-UID:V0mVtwt59h4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アニメ】猫になる方法\nhttps://www.youtube.com/watch?v=uhbGec_6mfQ
-DURATION:PT2H
-DTSTART:20210124T090014Z
-SUMMARY:ホロライブ: 【アニメ】猫になる方法
-UID:uhbGec_6mfQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:COOKING CONTEST♪　#はあちゃまレストラン\nhttps://www.youtube.com/watch?v=W-gO1LpZ2ro
-DURATION:PT2H
-DTSTART:20210124T120000Z
-SUMMARY:❤赤井はあと: COOKING CONTEST♪　#はあちゃまレストラン
-UID:W-gO1LpZ2ro
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:APEX｜VTuber最協決定戦🔥後夜祭！！！【#BAMWIN 】\nhttps://www.youtube.com/watch?v=0jpWsheF9ok
-DURATION:PT2H
-DTSTART:20210124T123500Z
-SUMMARY:🤖ロボ子さん: APEX｜VTuber最協決定戦🔥後夜祭！！！【#BAMWIN 】
-UID:0jpWsheF9ok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#AKUKIN本社建設リレー】初心者悪魔貢献なるか？！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=_Wel2TQRGy8
-DURATION:PT2H
-DTSTART:20210125T120000Z
-SUMMARY:💋癒月ちょこ: 【#AKUKIN本社建設リレー】初心者悪魔貢献なるか？！【ホロライブ/癒月ちょこ】
-UID:_Wel2TQRGy8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【龍が如く極2】関西と関東の戦い！！？？止めるにぇ、桐生ちゃん！【ホロライブ/さくらみこ】※ネタバレあり\nhttps://www.youtube.com/watch?v=N8p2fpOXVNQ
-DURATION:PT2H
-DTSTART:20210124T080000Z
-SUMMARY:🌸さくらみこ: 【龍が如く極2】関西と関東の戦い！！？？止めるにぇ、桐生ちゃん！【ホロライブ/さくらみこ】※ネタバレあり
-UID:N8p2fpOXVNQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】皆でゆっくりお話しましょ！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=dZHsh1GfIMk
-DURATION:PT2H
-DTSTART:20210125T090000Z
-SUMMARY:🌽白上フブキ: 【雑談】皆でゆっくりお話しましょ！【ホロライブ/白上フブキ】
-UID:dZHsh1GfIMk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【罰ゲーム】はあちゃま発案タランチュラーメンを実食してみた【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=3TwNSwkE2zM
-DURATION:PT2H
-DTSTART:20210124T130000Z
-SUMMARY:🌸さくらみこ: 【罰ゲーム】はあちゃま発案タランチュラーメンを実食してみた【ホロライブ/さくらみこ】
-UID:3TwNSwkE2zM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】学校じゃねーよ！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=f90jtGRGDqc
-DURATION:PT2H
-DTSTART:20210124T060000Z
-SUMMARY:💫天音かなた: 【Minecraft】学校じゃねーよ！！！【天音かなた/ホロライブ】
-UID:f90jtGRGDqc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:APEX｜VTuber最協決定戦🔥後夜祭＆雑談APEX【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=gBD3r_cto6o
-DURATION:PT2H
-DTSTART:20210124T122000Z
-SUMMARY:🤖ロボ子さん: APEX｜VTuber最協決定戦🔥後夜祭＆雑談APEX【ホロライブ/ロボ子さん】
-UID:gBD3r_cto6o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#AKUKIN本社建設リレー配信】ネザークォーツしか勝たん！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=lQuJb6JIZr0
-DURATION:PT2H
-DTSTART:20210125T103000Z
-SUMMARY:雪花ラミィ: 【#AKUKIN本社建設リレー配信】ネザークォーツしか勝たん！【雪花ラミィ/ホロライブ】
-UID:lQuJb6JIZr0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【昼雑】あと一週間で準備しないと【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=C3Eto24LFxo
-DURATION:PT2H
-DTSTART:20210125T030000Z
-SUMMARY:桃鈴ねね: 【昼雑】あと一週間で準備しないと【桃鈴ねね/ホロライブ】
-UID:C3Eto24LFxo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:DOO LUU DOO～～🎵\nhttps://www.youtube.com/watch?v=KvE1OLop8j4
-DURATION:PT2H
-DTSTART:20210123T175609Z
-SUMMARY:🐉桐生ココ: DOO LUU DOO～～🎵
-UID:KvE1OLop8j4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#AKUKIN建設株主総会】綺麗な！本社が！欲しい！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=SECC3_aiZWc
-DURATION:PT2H
-DTSTART:20210124T120000Z
-SUMMARY:⚓湊あくあ: 【#AKUKIN建設株主総会】綺麗な！本社が！欲しい！！【湊あくあ/ホロライブ】
-UID:SECC3_aiZWc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Pet Healing🐰\nhttps://www.youtube.com/watch?v=ubjqTvd4wAM
-DURATION:PT2H
-DTSTART:20210123T184047Z
-SUMMARY:💫天音かなた: Pet Healing🐰
-UID:ubjqTvd4wAM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】つのまきじゃんけん装置設置準備！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=usQtq78O06U
-DURATION:PT2H
-DTSTART:20210124T140000Z
-SUMMARY:🐏角巻わため: 【Minecraft】つのまきじゃんけん装置設置準備！【角巻わため/ホロライブ４期生】
-UID:usQtq78O06U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:COOKING CONTEST #2\nhttps://www.youtube.com/watch?v=4LMb5PLgyqo
-DURATION:PT2H
-DTSTART:20210124T081532Z
-SUMMARY:❤赤井はあと: COOKING CONTEST #2
-UID:4LMb5PLgyqo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【最協決定戦】チームGON!　百鬼あやめ / 現よみ/ 紫咲シオン　#GONWIN\nhttps://www.youtube.com/watch?v=aCau4w0ZFJ0
-DURATION:PT2H
-DTSTART:20210124T082000Z
-SUMMARY:👿百鬼あやめ: 【最協決定戦】チームGON!　百鬼あやめ / 現よみ/ 紫咲シオン　#GONWIN
-UID:aCau4w0ZFJ0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX/視聴者参加型】7th place or lowerImmediate end【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=1twSX3XvBDM
-DURATION:PT2H
-DTSTART:20210123T153000Z
-SUMMARY:🍎アキロゼ: 【マリオカート8DX/視聴者参加型】7th place or lowerImmediate end【ホロライブ/アキロゼ】
-UID:1twSX3XvBDM
+DTSTART:20210125T110000Z
+SUMMARY:獅白ぼたん: 【モーリーオンライン】5期生グッズGETするぞい！【獅白ぼたん/ホロライブ】
+UID:Rjk66XMMwOw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#AKUKIN本社建設リレー】素敵な！本社を！みんなで作る！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=1E8uHA5r3uE
@@ -361,150 +172,17 @@ SUMMARY:雪花ラミィ: 【#らみらいぶ】３Dお披露目ありがとう�
 UID:E5D7IcJQjC8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マインクラフト/Minecraft】やっぱりトラップドアなんだよなぁ～！！【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=3QTrXUDp2-8
-DURATION:PT2H
-DTSTART:20210125T100000Z
-SUMMARY:🔥不知火フレア: 【マインクラフト/Minecraft】やっぱりトラップドアなんだよなぁ～！！【ホロライブ/不知火フレア】
-UID:3QTrXUDp2-8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】クソザコでもFPSやりたい!!【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=eX6Om4LPeZM
-DURATION:PT2H
-DTSTART:20210124T120000Z
-SUMMARY:☄星街すいせい: 【APEX】クソザコでもFPSやりたい!!【ホロライブ / 星街すいせい】
-UID:eX6Om4LPeZM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】ただいま！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=K-0uZOTsRUU
-DURATION:PT2H
-DTSTART:20210123T150000Z
-SUMMARY:🐏角巻わため: 【雑談】ただいま！【角巻わため/ホロライブ４期生】
-UID:K-0uZOTsRUU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【GTA V 】miCometでロスサントスに殴り込みにぇ！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=Qi1H7xL-xVo
-DURATION:PT2H
-DTSTART:20210125T130000Z
-SUMMARY:🌸さくらみこ: 【GTA V 】miCometでロスサントスに殴り込みにぇ！！！【ホロライブ/さくらみこ】
-UID:Qi1H7xL-xVo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:スーパーマリオワールド（Super Mario World）裏ステージ？やる！\nhttps://www.youtube.com/watch?v=rWJLkFGalvA
-DURATION:PT2H
-DTSTART:20210124T140000Z
-SUMMARY:🥐戌神ころね: スーパーマリオワールド（Super Mario World）裏ステージ？やる！
-UID:rWJLkFGalvA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VTuber最協決定戦S2​ 】Teams： bamboozle | 胡桃のあ|ロボ子さん|白上フブキ【#BAMWIN】\nhttps://www.youtube.com/watch?v=5WMoMoQwrWo
-DURATION:PT2H
-DTSTART:20210124T081500Z
-SUMMARY:🌽白上フブキ: 【VTuber最協決定戦S2​ 】Teams： bamboozle | 胡桃のあ|ロボ子さん|白上フブキ【#BAMWIN】
-UID:5WMoMoQwrWo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Reddit Shitpost Review with Polka!\nhttps://www.youtube.com/watch?v=sRVpQ-zTcrc
-DURATION:PT2H
-DTSTART:20210124T030000Z
-SUMMARY:🐉桐生ココ: Reddit Shitpost Review with Polka!
-UID:sRVpQ-zTcrc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【おえかきの森】Vtuber最協決定戦出場者で後夜祭までおえかきバトル【常闇トワ】\nhttps://www.youtube.com/watch?v=KyfOtiCwpQM
-DURATION:PT2H
-DTSTART:20210124T133000Z
-SUMMARY:👾常闇トワ: 【おえかきの森】Vtuber最協決定戦出場者で後夜祭までおえかきバトル【常闇トワ】
-UID:KyfOtiCwpQM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】癒しの深夜！ゲリラでうたうよ～～♪【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=fSmrjBcTXu4
-DURATION:PT2H
-DTSTART:20210123T153000Z
-SUMMARY:⚓湊あくあ: 【歌枠】癒しの深夜！ゲリラでうたうよ～～♪【湊あくあ/ホロライブ】
-UID:fSmrjBcTXu4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【GTAⅤonline】miCometでロスサントスに殴り込みDAZE！！！【ホロライブ / `#miComet】\nhttps://www.youtube.com/watch?v=huhW3wLOFsA
-DURATION:PT2H
-DTSTART:20210125T130000Z
-SUMMARY:☄星街すいせい: 【GTAⅤonline】miCometでロスサントスに殴り込みDAZE！！！【ホロライブ / `#miComet】
-UID:huhW3wLOFsA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ウサギCOOKING♪【ホロライブ/#はあちゃまなう】\nhttps://www.youtube.com/watch?v=JnU00OYE3A4
+DESCRIPTION:【#ゴリラ宇宙人狼​】超初心者はもともとウホくらいの情報しか言えないので通常運行【アキロゼ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=N0sdrfFUv80
 DURATION:PT2H
 DTSTART:20210125T120000Z
-SUMMARY:❤赤井はあと: ウサギCOOKING♪【ホロライブ/#はあちゃまなう】
-UID:JnU00OYE3A4
+SUMMARY:🍎アキロゼ: 【#ゴリラ宇宙人狼​】超初心者はもともとウホくらいの情報しか言えないので通常運行【アキロゼ視点/ホロライブ】
+UID:N0sdrfFUv80
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】朝活！！元気におはよう！Good morning talk！💭【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=c8Qw4RMGexo
+DESCRIPTION:【#AKUKIN本社建設リレー】初心者悪魔貢献なるか？！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=_Wel2TQRGy8
 DURATION:PT2H
-DTSTART:20210124T000000Z
-SUMMARY:🔥不知火フレア: 【雑談】朝活！！元気におはよう！Good morning talk！💭【ホロライブ/不知火フレア】
-UID:c8Qw4RMGexo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#AKUKIN本社建設リレー​】AKUKIN建設本社を可愛く飾る！！！✨✨【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=F_4e-9HAYUo
-DURATION:PT2H
-DTSTART:20210125T123000Z
-SUMMARY:💫天音かなた: 【#AKUKIN本社建設リレー​】AKUKIN建設本社を可愛く飾る！！！✨✨【天音かなた/ホロライブ】
-UID:F_4e-9HAYUo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Trials Rising】またショッピングカートで来た。【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=KRVFwnkbT88
-DURATION:PT2H
-DTSTART:20210124T040000Z
-SUMMARY:獅白ぼたん: 【Trials Rising】またショッピングカートで来た。【獅白ぼたん/ホロライブ】
-UID:KRVFwnkbT88
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】AKUKIN建設に貢献します✨#AKUKIN本社建設リレー配信​【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=i3iXG91P3Dg
-DURATION:PT2H
-DTSTART:20210125T110000Z
-SUMMARY:🌟夜空メル: 【Minecraft】AKUKIN建設に貢献します✨#AKUKIN本社建設リレー配信​【ホロライブ/夜空メル】
-UID:i3iXG91P3Dg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:APEX｜大会まで練習だああああああ【#BAMWIN 】\nhttps://www.youtube.com/watch?v=7MTxQEAIG4A
-DURATION:PT2H
-DTSTART:20210124T063000Z
-SUMMARY:🤖ロボ子さん: APEX｜大会まで練習だああああああ【#BAMWIN 】
-UID:7MTxQEAIG4A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Fall Guys】たのしいたのしいシーズン3🎶【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=0duhL_IHdOw
-DURATION:PT2H
-DTSTART:20210124T130000Z
-SUMMARY:🍙猫又おかゆ: 【Fall Guys】たのしいたのしいシーズン3🎶【猫又おかゆ/ホロライブ】
-UID:0duhL_IHdOw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】VTuber最協決定戦本番！【花芽すみれ/常闇トワ/夏色まつり】\nhttps://www.youtube.com/watch?v=EiHu9OHbUhc
-DURATION:PT2H
-DTSTART:20210124T081500Z
-SUMMARY:🏮夏色まつり: 【APEX】VTuber最協決定戦本番！【花芽すみれ/常闇トワ/夏色まつり】
-UID:EiHu9OHbUhc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【モーリーオンライン】5期生グッズGETするぞい！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=Rjk66XMMwOw
-DURATION:PT2H
-DTSTART:20210125T110000Z
-SUMMARY:獅白ぼたん: 【モーリーオンライン】5期生グッズGETするぞい！【獅白ぼたん/ホロライブ】
-UID:Rjk66XMMwOw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#holorim】ホロメンと過ごすリムワールド！【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=wOTg7cvFfK8
-DURATION:PT2H
-DTSTART:20210124T050000Z
-SUMMARY:🏴☠宝鐘マリン: 【#holorim】ホロメンと過ごすリムワールド！【ホロライブ/宝鐘マリン】
-UID:wOTg7cvFfK8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】後夜祭！！！！！！！！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=W3mTgS3JPTY
-DURATION:PT2H
-DTSTART:20210124T143000Z
-SUMMARY:🏮夏色まつり: 【APEX】後夜祭！！！！！！！！【ホロライブ/夏色まつり】
-UID:W3mTgS3JPTY
+DTSTART:20210125T120000Z
+SUMMARY:💋癒月ちょこ: 【#AKUKIN本社建設リレー】初心者悪魔貢献なるか？！【ホロライブ/癒月ちょこ】
+UID:_Wel2TQRGy8
 END:VEVENT
 END:VCALENDAR
