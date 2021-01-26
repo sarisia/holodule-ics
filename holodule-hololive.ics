@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【メンバーシップ限定】ウクレレ次の課題曲なににする？？\nhttps://www.youtube.com/watch?v=FGFsqHIoeYc
-DURATION:PT2H
-DTSTART:20210126T130000Z
-SUMMARY:🌲大神ミオ: 【メンバーシップ限定】ウクレレ次の課題曲なににする？？
-UID:FGFsqHIoeYc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】皆でゆっくりお話しましょ！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=dZHsh1GfIMk
 DURATION:PT2H
 DTSTART:20210125T090000Z
@@ -51,6 +44,13 @@ DURATION:PT2H
 DTSTART:20210125T100000Z
 SUMMARY:🍬姫森ルーナ: 【 復活配信✨ 】声が出せるようになったのら～(・o・🍬) Cute voice revival【姫森ルーナ/ホロライブ】
 UID:tPZfjIoRnxc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【深夜雑談】ゆるゆるお休み前に！お酒コラボの話etc...🍶【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=QWfeU8HV5i8
+DURATION:PT2H
+DTSTART:20210126T140000Z
+SUMMARY:⚔白銀ノエル: 【深夜雑談】ゆるゆるお休み前に！お酒コラボの話etc...🍶【白銀ノエル/ホロライブ】
+UID:QWfeU8HV5i8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#AKUKIN本社建設リレー配信】ネザークォーツしか勝たん！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=lQuJb6JIZr0
@@ -207,10 +207,10 @@ SUMMARY:🌸さくらみこ: 【GTA V 】miCometでロスサントスに殴り�
 UID:Qi1H7xL-xVo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【】何かする【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=A-TiQLox1Hk
+DESCRIPTION:【マインクラフト/Minecraft】楽しいホロ鯖整備！Creating a fashionable road【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=A-TiQLox1Hk
 DURATION:PT2H
 DTSTART:20210126T130000Z
-SUMMARY:🔥不知火フレア: 【】何かする【ホロライブ/不知火フレア】
+SUMMARY:🔥不知火フレア: 【マインクラフト/Minecraft】楽しいホロ鯖整備！Creating a fashionable road【ホロライブ/不知火フレア】
 UID:A-TiQLox1Hk
 END:VEVENT
 BEGIN:VEVENT
@@ -249,10 +249,10 @@ SUMMARY:☄星街すいせい: 【GTAⅤonline】miCometでロスサントスに
 UID:huhW3wLOFsA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:配信予定地【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=Bu_bNbxrmes
+DESCRIPTION:【Minecraft】新居を作る！/ New Home Create!🏠【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=Bu_bNbxrmes
 DURATION:PT2H
 DTSTART:20210126T130000Z
-SUMMARY:☄星街すいせい: 配信予定地【ホロライブ / 星街すいせい】
+SUMMARY:☄星街すいせい: 【Minecraft】新居を作る！/ New Home Create!🏠【ホロライブ / 星街すいせい】
 UID:Bu_bNbxrmes
 END:VEVENT
 BEGIN:VEVENT
@@ -310,6 +310,13 @@ DURATION:PT2H
 DTSTART:20210125T110000Z
 SUMMARY:獅白ぼたん: 【モーリーオンライン】5期生グッズGETするぞい！【獅白ぼたん/ホロライブ】
 UID:Rjk66XMMwOw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Papers\, Please】入国審査官ってなぁに？【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=hkFaMLqH1b8
+DURATION:PT2H
+DTSTART:20210126T133000Z
+SUMMARY:🐏角巻わため: 【Papers\, Please】入国審査官ってなぁに？【角巻わため/ホロライブ４期生】
+UID:hkFaMLqH1b8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#AKUKIN本社建設リレー】初心者悪魔貢献なるか？！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=_Wel2TQRGy8
