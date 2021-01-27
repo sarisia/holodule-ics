@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=n2EjK41Srdw
+DURATION:PT2H
+DTSTART:20210127T090000Z
+SUMMARY:⚓湊あくあ: 【湊あくあ/ホロライブ】
+UID:n2EjK41Srdw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:世界一恥ずかしい耐久\nhttps://www.youtube.com/watch?v=PvjN-CiT1UI
 DURATION:PT2H
 DTSTART:20210127T120000Z
@@ -275,6 +282,20 @@ DURATION:PT2H
 DTSTART:20210126T100000Z
 SUMMARY:🍬姫森ルーナ: 【 歌枠 】新年初！可愛く歌うのら～🎵【姫森ルーナ/ホロライブ】
 UID:SM2L-OuEkI4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【お絵描き】時間がねえ！！！！【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=qJmJmgQuXtM
+DURATION:PT2H
+DTSTART:20210127T090000Z
+SUMMARY:桃鈴ねね: 【お絵描き】時間がねえ！！！！【桃鈴ねね/ホロライブ】
+UID:qJmJmgQuXtM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Atelier Ryza 2】THE START OF A NEW ERA  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=bFgkZGRIQoU
+DURATION:PT2H
+DTSTART:20210127T120000Z
+SUMMARY:Kiara: 【Atelier Ryza 2】THE START OF A NEW ERA  #kfp #キアライブ
+UID:bFgkZGRIQoU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【記念枠】70\,000人 ピアノ買ったぞ！【奏手イヅル】\nhttps://www.youtube.com/watch?v=ytZyn4jssmk
