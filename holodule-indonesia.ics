@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Fall Guys】Let Me Reverse Fall to the TOP【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=FhTIk-N8q0o
-DURATION:PT2H
-DTSTART:20210127T040000Z
-SUMMARY:Reine: 【Fall Guys】Let Me Reverse Fall to the TOP【hololiveID 2nd generation】
-UID:FhTIk-N8q0o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【WATCHALONG】Alice in Borderland(2020): Episode 1-3【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=83CSjoizcXk
 DURATION:PT2H
 DTSTART:20210126T150000Z
@@ -18,25 +11,18 @@ SUMMARY:Anya: 【WATCHALONG】Alice in Borderland(2020): Episode 1-3【hololive 
 UID:83CSjoizcXk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【INFLICTION】Definitely Not A Good Idea But At Least Reine's Here【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=ePcXl9H_gLo
-DURATION:PT2H
-DTSTART:20210127T140000Z
-SUMMARY:Anya: 【INFLICTION】Definitely Not A Good Idea But At Least Reine's Here【hololive Indonesia 2nd Generation】
-UID:ePcXl9H_gLo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Skyrim】Part 3 - You're a wizard\, Moona.【Moona】\nhttps://www.youtube.com/watch?v=qUBC49IoW1o
-DURATION:PT2H
-DTSTART:20210127T120000Z
-SUMMARY:🔮Moona: 【Skyrim】Part 3 - You're a wizard\, Moona.【Moona】
-UID:qUBC49IoW1o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【KARAOKE】A SINGING ZOMBIE IDOL【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=DdQm4ajNpQ4
 DURATION:PT2H
 DTSTART:20210127T082142Z
 SUMMARY:Ollie: 【KARAOKE】A SINGING ZOMBIE IDOL【Hololive Indonesia 2nd Gen】
 UID:DdQm4ajNpQ4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Fall Guys】Let Me Reverse Fall to the TOP【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=FhTIk-N8q0o
+DURATION:PT2H
+DTSTART:20210127T040000Z
+SUMMARY:Reine: 【Fall Guys】Let Me Reverse Fall to the TOP【hololiveID 2nd generation】
+UID:FhTIk-N8q0o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】KUREIJI KENSETSU WILL BE CONTINUING IT'S PROJECT!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=ONT69QjsARY
