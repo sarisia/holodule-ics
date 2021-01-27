@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【APEX】シーズン７！ソロダイアモンドまで終わらない！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=n2EjK41Srdw
-DURATION:PT2H
-DTSTART:20210127T090000Z
-SUMMARY:⚓湊あくあ: 【APEX】シーズン７！ソロダイアモンドまで終わらない！【湊あくあ/ホロライブ】
-UID:n2EjK41Srdw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:世界一恥ずかしい耐久\nhttps://www.youtube.com/watch?v=PvjN-CiT1UI
 DURATION:PT2H
 DTSTART:20210127T120000Z
@@ -44,6 +37,20 @@ DURATION:PT2H
 DTSTART:20210126T030000Z
 SUMMARY:🐉桐生ココ: [Terraria] GOING HIGH!!!
 UID:WojNYdXH_XE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【オリジナル曲】『Suspect』試聴動画 【ロボ子さん\, アキ・ローゼンタール\, 百鬼あやめ】\nhttps://www.youtube.com/watch?v=6sHk3CYD-IA
+DURATION:PT2H
+DTSTART:20210127T140002Z
+SUMMARY:ホロライブ: 【オリジナル曲】『Suspect』試聴動画 【ロボ子さん\, アキ・ローゼンタール\, 百鬼あやめ】
+UID:6sHk3CYD-IA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【GTAV】おまわりさん！今日もお世話になります！Policeman!Forgive me❕ 【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=fBqDL9Ot2IA
+DURATION:PT2H
+DTSTART:20210127T141000Z
+SUMMARY:🔥不知火フレア: 【GTAV】おまわりさん！今日もお世話になります！Policeman!Forgive me❕ 【ホロライブ/不知火フレア】
+UID:fBqDL9Ot2IA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【深夜雑談】ゆるゆるお休み前に！お酒コラボの話etc...🍶【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=QWfeU8HV5i8
@@ -165,13 +172,6 @@ SUMMARY:🏮夏色まつり: 【APEX】初PAD！操作方法なにもわから�
 UID:ovrbuhF8G54
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【OKBR視点】FAMSとスプラトゥーン2対決だ！！【Splatoon2】\nhttps://www.youtube.com/watch?v=FYMpZ9aWxxQ
-DURATION:PT2H
-DTSTART:20210127T131000Z
-SUMMARY:🥐戌神ころね: 【OKBR視点】FAMSとスプラトゥーン2対決だ！！【Splatoon2】
-UID:FYMpZ9aWxxQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:HAACHAMA ENGLISH DEATH #HololiveEN 0th\nhttps://www.youtube.com/watch?v=C9v0IR1jpCA
 DURATION:PT2H
 DTSTART:20210126T120000Z
@@ -240,6 +240,13 @@ DURATION:PT2H
 DTSTART:20210127T090000Z
 SUMMARY:🌽白上フブキ: 【Papers\, Please】エンドレスモードでモリモリ審査!!!!【ホロライブ/白上フブキ】
 UID:zFaFoOiefYY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】裏の支配者････村長さくらみこ🏰【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=BejV_UYBMuU
+DURATION:PT2H
+DTSTART:20210127T141500Z
+SUMMARY:🌸さくらみこ: 【Minecraft】裏の支配者････村長さくらみこ🏰【ホロライブ/さくらみこ】
+UID:BejV_UYBMuU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】新居を作る！/ New Home Create!🏠【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=Bu_bNbxrmes
