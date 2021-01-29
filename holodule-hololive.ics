@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:配信予定地【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=HHa-mcEjBk4
+DURATION:PT2H
+DTSTART:20210129T110000Z
+SUMMARY:☄星街すいせい: 配信予定地【ホロライブ / 星街すいせい】
+UID:HHa-mcEjBk4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:スーパーチャットお礼雑談【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=x2_UNF6STEU
 DURATION:PT2H
 DTSTART:20210129T143000Z
@@ -172,6 +179,13 @@ SUMMARY:🤖ロボ子さん: 【マイクラ】思い…だした…【ホロラ
 UID:J6yd9EjLmyk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【MEGA39s】ミクちゃんでミクちゃんしていきたいと思います【 ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=1H8yN9bLg98
+DURATION:PT2H
+DTSTART:20210129T093000Z
+SUMMARY:桃鈴ねね: 【MEGA39s】ミクちゃんでミクちゃんしていきたいと思います【 ホロライブ/桃鈴ねね】
+UID:1H8yN9bLg98
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌枠】深夜のお歌！Sing a Song!【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=iYUiSuej5Vs
 DURATION:PT2H
 DTSTART:20210129T140000Z
@@ -233,6 +247,13 @@ DURATION:PT2H
 DTSTART:20210129T042000Z
 SUMMARY:💋癒月ちょこSub: 【Ark: Survival Evolved】素材王ＡＲＫここに復活？【ホロライブ/癒月ちょこ】
 UID:y4-DPyWF8us
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK】#ムキロゼ生誕祭 1歳になりました！！【Hololive/アキロゼ】\nhttps://www.youtube.com/watch?v=M1E5pOJefpU
+DURATION:PT2H
+DTSTART:20210129T030000Z
+SUMMARY:🍎アキロゼ: 【ARK】#ムキロゼ生誕祭 1歳になりました！！【Hololive/アキロゼ】
+UID:M1E5pOJefpU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マイクラ】看板制作、完成なるか？！ ―麺屋ぼたんの看板作り―【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=egTpXCr0p9E
