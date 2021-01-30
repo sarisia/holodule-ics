@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:no\nhttps://www.youtube.com/watch?v=s2UxaX5U2Wc
+DURATION:PT2H
+DTSTART:20210130T104240Z
+SUMMARY:Ollie: no
+UID:s2UxaX5U2Wc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Brunch Stream】Talking About the KING Cover!【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=kOd4sm9Fk9g
 DURATION:PT2H
 DTSTART:20210130T040000Z
@@ -11,11 +18,11 @@ SUMMARY:Reine: 【Brunch Stream】Talking About the KING Cover!【hololiveID 2nd
 UID:kOd4sm9Fk9g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Collab: Unravel Two】Our Yarns Will Always Connect Until The End.【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=UKMiimApVuM
+DESCRIPTION:【Celebration】450K subs! Thankyou!【Moona】\nhttps://www.youtube.com/watch?v=o__MDaGZbrg
 DURATION:PT2H
-DTSTART:20210130T123000Z
-SUMMARY:Anya: 【Collab: Unravel Two】Our Yarns Will Always Connect Until The End.【hololive Indonesia 2nd Generation】
-UID:UKMiimApVuM
+DTSTART:20210130T120000Z
+SUMMARY:🔮Moona: 【Celebration】450K subs! Thankyou!【Moona】
+UID:o__MDaGZbrg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PHASMOPHOBIA】Petualangan horror bersama squad pemburu hantu : A.R.M.P.I.T. dan Tupai! 【Ayunda Risu】\nhttps://www.youtube.com/watch?v=BU7PzmthpP4
@@ -23,20 +30,6 @@ DURATION:PT2H
 DTSTART:20210131T130000Z
 SUMMARY:🐿Risu: 【PHASMOPHOBIA】Petualangan horror bersama squad pemburu hantu : A.R.M.P.I.T. dan Tupai! 【Ayunda Risu】
 UID:BU7PzmthpP4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[English Free Talk] Alone on Weekend? WHAT?! NO ! YOU HAVE ME ! [hololive-ID]\nhttps://www.youtube.com/watch?v=77CaIhXkYDg
-DURATION:PT2H
-DTSTART:20210130T140000Z
-SUMMARY:🎨Iofi: [English Free Talk] Alone on Weekend? WHAT?! NO ! YOU HAVE ME ! [hololive-ID]
-UID:77CaIhXkYDg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Celebration】450K subs! Thankyou!【Moona】\nhttps://www.youtube.com/watch?v=o__MDaGZbrg
-DURATION:PT2H
-DTSTART:20210130T120000Z
-SUMMARY:🔮Moona: 【Celebration】450K subs! Thankyou!【Moona】
-UID:o__MDaGZbrg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【House Flipper】Buying a House for holoID Gen 2...?【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=MM31vmY8-Jo
@@ -53,10 +46,10 @@ SUMMARY:🎨Iofi: 【バンドリ！7】PAGI ! Morning BanG Dream For You !【ho
 UID:27bs5eV9Ya8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:no\nhttps://www.youtube.com/watch?v=s2UxaX5U2Wc
+DESCRIPTION:[English Free Talk] Alone on Weekend? WHAT?! NO ! YOU HAVE ME ! [hololive-ID]\nhttps://www.youtube.com/watch?v=77CaIhXkYDg
 DURATION:PT2H
-DTSTART:20210130T104240Z
-SUMMARY:Ollie: no
-UID:s2UxaX5U2Wc
+DTSTART:20210130T140000Z
+SUMMARY:🎨Iofi: [English Free Talk] Alone on Weekend? WHAT?! NO ! YOU HAVE ME ! [hololive-ID]
+UID:77CaIhXkYDg
 END:VEVENT
 END:VCALENDAR
