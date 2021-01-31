@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【お礼枠】みんなほんとにありがとう🍑【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=oSrcIh-_4VE
+DURATION:PT2H
+DTSTART:20210131T130000Z
+SUMMARY:桃鈴ねね: 【お礼枠】みんなほんとにありがとう🍑【桃鈴ねね/ホロライブ】
+UID:oSrcIh-_4VE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌ってみた】私、アイドル宣言【ホロライブ/桃鈴ねね(cover)】\nhttps://www.youtube.com/watch?v=kKqcQADSoIM
 DURATION:PT2H
 DTSTART:20210131T123000Z
 SUMMARY:桃鈴ねね: 【歌ってみた】私、アイドル宣言【ホロライブ/桃鈴ねね(cover)】
 UID:kKqcQADSoIM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:FALL IN LOVE?\nhttps://www.youtube.com/watch?v=fCQL0pjXPpI
+DURATION:PT2H
+DTSTART:20210131T142037Z
+SUMMARY:💫天音かなた: FALL IN LOVE?
+UID:fCQL0pjXPpI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Reddit Shitpost Review with Pekora senpai! ホロライブ/桐生ココ/兎田ぺこら\nhttps://www.youtube.com/watch?v=1Mm2VgxI-nA
@@ -25,6 +39,13 @@ SUMMARY:☄星街すいせい: 【公式】『星街すいせいのMUSIC SPACE�
 UID:YslIbSWUUwY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#ラクキン】ラクガキキングダム２人で考えるラクガキ達とは！？【ホロライブ/白上フブキ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=-_CgRjDesBM
+DURATION:PT2H
+DTSTART:20210131T130000Z
+SUMMARY:🌽白上フブキ: 【#ラクキン】ラクガキキングダム２人で考えるラクガキ達とは！？【ホロライブ/白上フブキ/宝鐘マリン】
+UID:-_CgRjDesBM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#9】最難関？！ロックビル！！！：The Legend of Zelda: Majora's Mask【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=hcjnO7-Y2GI
 DURATION:PT2H
 DTSTART:20210131T050000Z
@@ -32,32 +53,11 @@ SUMMARY:🚑大空スバル: 【#9】最難関？！ロックビル！！！：T
 UID:hcjnO7-Y2GI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】🐡常闇ウォーターパーク作成🐡Day8【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=lQVNiauV1IM
+DESCRIPTION:【ドラクエビルダーズ2】目指せ楽園！ビルダーの朝は早い。ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=Bzww0PDcX4w
 DURATION:PT2H
-DTSTART:20210130T070000Z
-SUMMARY:👾常闇トワ: 【Minecraft】🐡常闇ウォーターパーク作成🐡Day8【常闇トワ/ホロライブ】
-UID:lQVNiauV1IM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#生スバル】おはようスバル：ＦＲＥＥＴＡＬＫ【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=rA5MQyrW0EY
-DURATION:PT2H
-DTSTART:20210130T010000Z
-SUMMARY:🚑大空スバル: 【#生スバル】おはようスバル：ＦＲＥＥＴＡＬＫ【ホロライブ/大空スバル】
-UID:rA5MQyrW0EY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ざつだん【ホロライブ/#はあちゃまなう】\nhttps://www.youtube.com/watch?v=cpsj5nxR5CY
-DURATION:PT2H
-DTSTART:20210130T120000Z
-SUMMARY:❤赤井はあと: ざつだん【ホロライブ/#はあちゃまなう】
-UID:cpsj5nxR5CY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【晩酌雑談】休日に飲んでお話したい🍶Tipsy talk【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=k1uDPi9MRo4
-DURATION:PT2H
-DTSTART:20210130T140000Z
-SUMMARY:🔥不知火フレア: 【晩酌雑談】休日に飲んでお話したい🍶Tipsy talk【ホロライブ/不知火フレア】
-UID:k1uDPi9MRo4
+DTSTART:20210131T043000Z
+SUMMARY:👯兎田ぺこら: 【ドラクエビルダーズ2】目指せ楽園！ビルダーの朝は早い。ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり
+UID:Bzww0PDcX4w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌番組】わためのうた ーボイトレ編ー （２月１日）【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=3U9o7RQi6Ms
@@ -67,32 +67,39 @@ SUMMARY:🐏角巻わため: 【歌番組】わためのうた ーボイトレ�
 UID:3U9o7RQi6Ms
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ASMRでひそひそ【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=NirUoNG70ak
+DESCRIPTION:【歌枠】けいおん縛り！Special Singing！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=MyZCXVOYtEU
 DURATION:PT2H
-DTSTART:20210131T150000Z
-SUMMARY:尾丸ポルカ: ASMRでひそひそ【尾丸ポルカ/ホロライブ】
-UID:NirUoNG70ak
+DTSTART:20210131T140000Z
+SUMMARY:⚓湊あくあ: 【歌枠】けいおん縛り！Special Singing！【湊あくあ/ホロライブ】
+UID:MyZCXVOYtEU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 プリコネR 】お正月ネネカおる～？？？🎍【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=h9iz2BBVgo8
+DESCRIPTION:【MOTHER3】みんな村からいなくなった#8【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=rFr9X5l2mWo
 DURATION:PT2H
-DTSTART:20210130T060000Z
-SUMMARY:🍬姫森ルーナ: 【 プリコネR 】お正月ネネカおる～？？？🎍【姫森ルーナ/ホロライブ】
-UID:h9iz2BBVgo8
+DTSTART:20210131T130000Z
+SUMMARY:🍙猫又おかゆ: 【MOTHER3】みんな村からいなくなった#8【猫又おかゆ/ホロライブ】
+UID:rFr9X5l2mWo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【minecraft】ネザーで戦うにゃん！！スパチャお礼☆【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=xQ4EPyJa1S8
+DESCRIPTION:星のカービィ３の100％クリア目指すぞ～！～ハートスターを全部集めるの巻～\nhttps://www.youtube.com/watch?v=FmQiaGYjCBU
 DURATION:PT2H
-DTSTART:20210130T070000Z
-SUMMARY:🦋潤羽るしあ: 【minecraft】ネザーで戦うにゃん！！スパチャお礼☆【潤羽るしあ/ホロライブ】
-UID:xQ4EPyJa1S8
+DTSTART:20210131T140000Z
+SUMMARY:🥐戌神ころね: 星のカービィ３の100％クリア目指すぞ～！～ハートスターを全部集めるの巻～
+UID:FmQiaGYjCBU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マイクラ】自動ポーション製造機！ネザー前にローボ製薬爆誕！！#1【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=TQkFdeEFY5c
+DESCRIPTION:【たぶんMinecraft】地下室の箱庭作成中！Underground box garden making【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=nbYOQqxDnTU
 DURATION:PT2H
-DTSTART:20210130T030000Z
-SUMMARY:🤖ロボ子さん: 【マイクラ】自動ポーション製造機！ネザー前にローボ製薬爆誕！！#1【ホロライブ/ロボ子さん】
-UID:TQkFdeEFY5c
+DTSTART:20210131T140000Z
+SUMMARY:🔥不知火フレア: 【たぶんMinecraft】地下室の箱庭作成中！Underground box garden making【ホロライブ/不知火フレア】
+UID:nbYOQqxDnTU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】久々に整地したいのそら！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=uNfnpTRdTWE
+DURATION:PT2H
+DTSTART:20210131T130000Z
+SUMMARY:🐻ときのそら: 【Minecraft】久々に整地したいのそら！！【#ときのそら生放送】
+UID:uNfnpTRdTWE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【東方スペルバブル】色んなモードで遊んでいくよー！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=LtqPctZ8FbI
@@ -102,18 +109,18 @@ SUMMARY:🐏角巻わため: 【東方スペルバブル】色んなモードで
 UID:LtqPctZ8FbI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マイクラ】3時間コメントの指示だけで動いたらどこまでいける⁉【指示クラ】\nhttps://www.youtube.com/watch?v=SyyEyLSCL64
+DESCRIPTION:【歌枠】Singing stream 【ホロライブ/アキロゼakirose】\nhttps://www.youtube.com/watch?v=Zvuhp33o--w
 DURATION:PT2H
-DTSTART:20210130T060000Z
-SUMMARY:🐉桐生ココ: 【マイクラ】3時間コメントの指示だけで動いたらどこまでいける⁉【指示クラ】
-UID:SyyEyLSCL64
+DTSTART:20210131T143000Z
+SUMMARY:🍎アキロゼ: 【歌枠】Singing stream 【ホロライブ/アキロゼakirose】
+UID:Zvuhp33o--w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】第４１回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=W8hTq_l7-AQ
+DESCRIPTION:【 #桃鈴ねね新ビジュアル】NEW SUPERNENECHI【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=VMLjEUYLSy0
 DURATION:PT2H
-DTSTART:20210130T142000Z
-SUMMARY:🐏角巻わため: 【歌枠】第４１回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】
-UID:W8hTq_l7-AQ
+DTSTART:20210131T110000Z
+SUMMARY:桃鈴ねね: 【 #桃鈴ねね新ビジュアル】NEW SUPERNENECHI【桃鈴ねね/ホロライブ】
+UID:VMLjEUYLSy0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【BGM】Next_Wednesday 魂音泉/ロボ子cover【ループ用】\nhttps://www.youtube.com/watch?v=r3jigPQEz70
@@ -144,188 +151,6 @@ SUMMARY:🤖ロボ子さん: 【マイクラ】緊急クエスト発生！ろー
 UID:6gyB02drC-4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#8】最難関？！谷で神殿をみつけよ！：The Legend of Zelda: Majora's Mask【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=b2lVLn-z5yM
-DURATION:PT2H
-DTSTART:20210130T050000Z
-SUMMARY:🚑大空スバル: 【#8】最難関？！谷で神殿をみつけよ！：The Legend of Zelda: Majora's Mask【ホロライブ/大空スバル】
-UID:b2lVLn-z5yM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アニメ】白熊VSお嬢様\nhttps://www.youtube.com/watch?v=lz08zMLUtEc
-DURATION:PT2H
-DTSTART:20210131T090014Z
-SUMMARY:ホロライブ: 【アニメ】白熊VSお嬢様
-UID:lz08zMLUtEc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【初配信✨】ホロライブSP(スペース)00期生です！☄【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=7KTDR2frhLk
-DURATION:PT2H
-DTSTART:20210130T130000Z
-SUMMARY:☄星街すいせい: 【初配信✨】ホロライブSP(スペース)00期生です！☄【ホロライブ / 星街すいせい】
-UID:7KTDR2frhLk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:KANATA and KANATA??\nhttps://www.youtube.com/watch?v=A2SpVXR9JrM
-DURATION:PT2H
-DTSTART:20210129T164837Z
-SUMMARY:💫天音かなた: KANATA and KANATA??
-UID:A2SpVXR9JrM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【お礼枠】みんなほんとにありがとう🍑【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=oSrcIh-_4VE
-DURATION:PT2H
-DTSTART:20210131T130000Z
-SUMMARY:桃鈴ねね: 【お礼枠】みんなほんとにありがとう🍑【桃鈴ねね/ホロライブ】
-UID:oSrcIh-_4VE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【３０万人記念】みんなから初の凸待ち✨来てくれるかな！？【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=o12B4hZoKR8
-DURATION:PT2H
-DTSTART:20210130T120000Z
-SUMMARY:🌟夜空メル: 【３０万人記念】みんなから初の凸待ち✨来てくれるかな！？【ホロライブ/夜空メル】
-UID:o12B4hZoKR8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#3【龍が如く極2】真島ちゃんの真実と絵図、にぇ。【ホロライブ/さくらみこ】※ネタバレあり\nhttps://www.youtube.com/watch?v=p-51b2J7VDA
-DURATION:PT2H
-DTSTART:20210130T130000Z
-SUMMARY:🌸さくらみこ: #3【龍が如く極2】真島ちゃんの真実と絵図、にぇ。【ホロライブ/さくらみこ】※ネタバレあり
-UID:p-51b2J7VDA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FALL IN LOVE?\nhttps://www.youtube.com/watch?v=fCQL0pjXPpI
-DURATION:PT2H
-DTSTART:20210131T142037Z
-SUMMARY:💫天音かなた: FALL IN LOVE?
-UID:fCQL0pjXPpI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ラクキン】ラクガキキングダム２人で考えるラクガキ達とは！？【ホロライブ/白上フブキ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=-_CgRjDesBM
-DURATION:PT2H
-DTSTART:20210131T130000Z
-SUMMARY:🌽白上フブキ: 【#ラクキン】ラクガキキングダム２人で考えるラクガキ達とは！？【ホロライブ/白上フブキ/宝鐘マリン】
-UID:-_CgRjDesBM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:バイノーラルマイクで歌ったらどうなるの？？？\nhttps://www.youtube.com/watch?v=in6ZQVdHn70
-DURATION:PT2H
-DTSTART:20210131T140000Z
-SUMMARY:🌲大神ミオ: バイノーラルマイクで歌ったらどうなるの？？？
-UID:in6ZQVdHn70
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ドラクエビルダーズ2】目指せ楽園！ビルダーの朝は早い。ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=Bzww0PDcX4w
-DURATION:PT2H
-DTSTART:20210131T043000Z
-SUMMARY:👯兎田ぺこら: 【ドラクエビルダーズ2】目指せ楽園！ビルダーの朝は早い。ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり
-UID:Bzww0PDcX4w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】誕生日などの余韻ふへへ【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=lvwkecQ2ldk
-DURATION:PT2H
-DTSTART:20210131T140000Z
-SUMMARY:尾丸ポルカ: 【雑談】誕生日などの余韻ふへへ【尾丸ポルカ/ホロライブ】
-UID:lvwkecQ2ldk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ウクレレ】みんなが試験管！「空も飛べるはず」合格なるか？\nhttps://www.youtube.com/watch?v=3zzbkZk3s1Y
-DURATION:PT2H
-DTSTART:20210130T093000Z
-SUMMARY:🌲大神ミオ: 【ウクレレ】みんなが試験管！「空も飛べるはず」合格なるか？
-UID:3zzbkZk3s1Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RimWorld】新人がやってくる!?敵もどんどん強くなる…【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=sHETAAGZwe0
-DURATION:PT2H
-DTSTART:20210130T121500Z
-SUMMARY:🏴☠宝鐘マリン: 【RimWorld】新人がやってくる!?敵もどんどん強くなる…【ホロライブ/宝鐘マリン】
-UID:sHETAAGZwe0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:おにいちゃんとショタ\nhttps://www.youtube.com/watch?v=ux5G1myJGyc
-DURATION:PT2H
-DTSTART:20210130T192539Z
-SUMMARY:💫天音かなた: おにいちゃんとショタ
-UID:ux5G1myJGyc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】けいおん縛り！Special Singing！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=MyZCXVOYtEU
-DURATION:PT2H
-DTSTART:20210131T140000Z
-SUMMARY:⚓湊あくあ: 【歌枠】けいおん縛り！Special Singing！【湊あくあ/ホロライブ】
-UID:MyZCXVOYtEU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】初心者悪魔がレベル最強目指す！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=i_rehC4knAE
-DURATION:PT2H
-DTSTART:20210130T030000Z
-SUMMARY:💋癒月ちょこ: 【Minecraft】初心者悪魔がレベル最強目指す！【ホロライブ/癒月ちょこ】
-UID:i_rehC4knAE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MOTHER3】みんな村からいなくなった#8【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=rFr9X5l2mWo
-DURATION:PT2H
-DTSTART:20210131T130000Z
-SUMMARY:🍙猫又おかゆ: 【MOTHER3】みんな村からいなくなった#8【猫又おかゆ/ホロライブ】
-UID:rFr9X5l2mWo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#尾丸ポルカ爆誕祭​】激烈モーレツ3D歌ライブパッションバースデー【ホロライブ】\nhttps://www.youtube.com/watch?v=E2CJV9UqTRM
-DURATION:PT2H
-DTSTART:20210130T110000Z
-SUMMARY:尾丸ポルカ: 【#尾丸ポルカ爆誕祭​】激烈モーレツ3D歌ライブパッションバースデー【ホロライブ】
-UID:E2CJV9UqTRM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:星のカービィ３の100％クリア目指すぞ～！～ハートスターを全部集めるの巻～\nhttps://www.youtube.com/watch?v=FmQiaGYjCBU
-DURATION:PT2H
-DTSTART:20210131T140000Z
-SUMMARY:🥐戌神ころね: 星のカービィ３の100％クリア目指すぞ～！～ハートスターを全部集めるの巻～
-UID:FmQiaGYjCBU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【たぶんMinecraft】地下室の箱庭作成中！Underground box garden making【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=nbYOQqxDnTU
-DURATION:PT2H
-DTSTART:20210131T140000Z
-SUMMARY:🔥不知火フレア: 【たぶんMinecraft】地下室の箱庭作成中！Underground box garden making【ホロライブ/不知火フレア】
-UID:nbYOQqxDnTU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ドラクエビルダーズ2】新たな冒険の始まりぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=toLTH8CM6xo
-DURATION:PT2H
-DTSTART:20210130T040000Z
-SUMMARY:👯兎田ぺこら: 【ドラクエビルダーズ2】新たな冒険の始まりぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり
-UID:toLTH8CM6xo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #桃鈴ねね新ビジュアル】NEW SUPERNENECHI【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=VMLjEUYLSy0
-DURATION:PT2H
-DTSTART:20210131T110000Z
-SUMMARY:桃鈴ねね: 【 #桃鈴ねね新ビジュアル】NEW SUPERNENECHI【桃鈴ねね/ホロライブ】
-UID:VMLjEUYLSy0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】Singing stream 【ホロライブ/アキロゼakirose】\nhttps://www.youtube.com/watch?v=Zvuhp33o--w
-DURATION:PT2H
-DTSTART:20210131T143000Z
-SUMMARY:🍎アキロゼ: 【歌枠】Singing stream 【ホロライブ/アキロゼakirose】
-UID:Zvuhp33o--w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ルーザーガール - 尾丸ポルカ(cover)\nhttps://www.youtube.com/watch?v=NdHPnTd2Jd8
-DURATION:PT2H
-DTSTART:20210130T123000Z
-SUMMARY:尾丸ポルカ: ルーザーガール - 尾丸ポルカ(cover)
-UID:NdHPnTd2Jd8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】実家のような和風建築🏠Japanese style House！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=uB53SJNuToA
-DURATION:PT2H
-DTSTART:20210129T150000Z
-SUMMARY:⚔白銀ノエル: 【Minecraft】実家のような和風建築🏠Japanese style House！【白銀ノエル/ホロライブ】
-UID:uB53SJNuToA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Phasmophobia】久々出勤！幽霊調査員だぞ！！アピールしなさい👻！！！！！！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=Rf5P2SyjvKo
 DURATION:PT2H
 DTSTART:20210131T090000Z
@@ -340,6 +165,13 @@ SUMMARY:💫天音かなた: 【GTAV】マイケルの娘がオーディショ�
 UID:lmguYfDIb_I
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【アニメ】白熊VSお嬢様\nhttps://www.youtube.com/watch?v=lz08zMLUtEc
+DURATION:PT2H
+DTSTART:20210131T090014Z
+SUMMARY:ホロライブ: 【アニメ】白熊VSお嬢様
+UID:lz08zMLUtEc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】かなた城、遂に完成なのだ・・・！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=8dJqDzK85_E
 DURATION:PT2H
 DTSTART:20210130T150000Z
@@ -347,18 +179,18 @@ SUMMARY:💫天音かなた: 【Minecraft】かなた城、遂に完成なのだ
 UID:8dJqDzK85_E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:SLAMMIN\nhttps://www.youtube.com/watch?v=WinQpGPnSdI
+DESCRIPTION:バイノーラルマイクで歌ったらどうなるの？？？\nhttps://www.youtube.com/watch?v=in6ZQVdHn70
 DURATION:PT2H
-DTSTART:20210130T093000Z
-SUMMARY:🐉桐生ココ: SLAMMIN
-UID:WinQpGPnSdI
+DTSTART:20210131T140000Z
+SUMMARY:🌲大神ミオ: バイノーラルマイクで歌ったらどうなるの？？？
+UID:in6ZQVdHn70
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:初見で星のカービィ３やる！\nhttps://www.youtube.com/watch?v=02u6I6ceuLk
+DESCRIPTION:おにいちゃんとショタ\nhttps://www.youtube.com/watch?v=ux5G1myJGyc
 DURATION:PT2H
-DTSTART:20210130T140000Z
-SUMMARY:🥐戌神ころね: 初見で星のカービィ３やる！
-UID:02u6I6ceuLk
+DTSTART:20210130T192539Z
+SUMMARY:💫天音かなた: おにいちゃんとショタ
+UID:ux5G1myJGyc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【感想会】アイドルらしくおしゃフェスとイベント出演してきました！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=ziFq-n_rwQ8
