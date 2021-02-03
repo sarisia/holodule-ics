@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Mario Galaxy】Ground Pound Galaxy\nhttps://www.youtube.com/watch?v=9EkK-otanA4
-DURATION:PT2H
-DTSTART:20210203T230000Z
-SUMMARY:Amelia: 【Mario Galaxy】Ground Pound Galaxy
-UID:9EkK-otanA4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Splatoon 2】 BOOYAH\nhttps://www.youtube.com/watch?v=ihfAVGI1gWo
 DURATION:PT2H
 DTSTART:20210202T200000Z
@@ -32,10 +25,10 @@ SUMMARY:Kiara: good night✨
 UID:qDFxrW7YgGM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Lobotomy Corporation】 Hair Supplements for Everyone\nhttps://www.youtube.com/watch?v=SQyd-97CJHo
+DESCRIPTION:【Mario Galaxy】Ground Pound Galaxy\nhttps://www.youtube.com/watch?v=9EkK-otanA4
 DURATION:PT2H
-DTSTART:20210203T200000Z
-SUMMARY:Ina: 【Lobotomy Corporation】 Hair Supplements for Everyone
-UID:SQyd-97CJHo
+DTSTART:20210203T230500Z
+SUMMARY:Amelia: 【Mario Galaxy】Ground Pound Galaxy
+UID:9EkK-otanA4
 END:VEVENT
 END:VCALENDAR
