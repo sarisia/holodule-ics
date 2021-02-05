@@ -4,53 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Mario Galaxy】Ground Pound Galaxy\nhttps://www.youtube.com/watch?v=9EkK-otanA4
-DURATION:PT2H
-DTSTART:20210203T230500Z
-SUMMARY:Amelia: 【Mario Galaxy】Ground Pound Galaxy
-UID:9EkK-otanA4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【NieR:Automata】Ame 2B | Part #1\nhttps://www.youtube.com/watch?v=oOnDKe8hO0s
 DURATION:PT2H
 DTSTART:20210204T230500Z
 SUMMARY:Amelia: 【NieR:Automata】Ame 2B | Part #1
 UID:oOnDKe8hO0s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ACNH】ISLAND UPDATE!! I'm back !!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=fvP1NuLFbsw
-DURATION:PT2H
-DTSTART:20210205T133000Z
-SUMMARY:Kiara: 【ACNH】ISLAND UPDATE!! I'm back !!! #kfp #キアライブ
-UID:fvP1NuLFbsw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:good night✨\nhttps://www.youtube.com/watch?v=qDFxrW7YgGM
-DURATION:PT2H
-DTSTART:20210203T170000Z
-SUMMARY:Kiara: good night✨
-UID:qDFxrW7YgGM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】New Season TEST stream\nhttps://www.youtube.com/watch?v=-f5p1ojzZgo
-DURATION:PT2H
-DTSTART:20210205T143000Z
-SUMMARY:Amelia: 【APEX】New Season TEST stream
-UID:-f5p1ojzZgo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Lobotomy Corporation】 Hair Supplements for Everyone\nhttps://www.youtube.com/watch?v=SQyd-97CJHo
-DURATION:PT2H
-DTSTART:20210203T200000Z
-SUMMARY:Ina: 【Lobotomy Corporation】 Hair Supplements for Everyone
-UID:SQyd-97CJHo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【COUPLE Q&A】#TAKAMORI Q&A with your MARSHMALLOWS!\nhttps://www.youtube.com/watch?v=G3zAKMFfilM
-DURATION:PT2H
-DTSTART:20210206T030000Z
-SUMMARY:Kiara: 【COUPLE Q&A】#TAKAMORI Q&A with your MARSHMALLOWS!
-UID:G3zAKMFfilM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[LUIGI'S MANSION 3] with shark girl\nhttps://www.youtube.com/watch?v=HxV9UAMN12o
@@ -60,10 +18,31 @@ SUMMARY:Gura: [LUIGI'S MANSION 3] with shark girl
 UID:HxV9UAMN12o
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ACNH】ISLAND UPDATE!! I'm back !!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=fvP1NuLFbsw
+DURATION:PT2H
+DTSTART:20210205T133000Z
+SUMMARY:Kiara: 【ACNH】ISLAND UPDATE!! I'm back !!! #kfp #キアライブ
+UID:fvP1NuLFbsw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Phasmophobia】 Ghost-chan Handshake Event?\nhttps://www.youtube.com/watch?v=vYf-uD82BG8
 DURATION:PT2H
 DTSTART:20210205T120000Z
 SUMMARY:Ina: 【Phasmophobia】 Ghost-chan Handshake Event?
 UID:vYf-uD82BG8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】New Season TEST stream\nhttps://www.youtube.com/watch?v=-f5p1ojzZgo
+DURATION:PT2H
+DTSTART:20210205T143000Z
+SUMMARY:Amelia: 【APEX】New Season TEST stream
+UID:-f5p1ojzZgo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【COUPLE Q&A】#TAKAMORI Q&A with your MARSHMALLOWS!\nhttps://www.youtube.com/watch?v=G3zAKMFfilM
+DURATION:PT2H
+DTSTART:20210206T030000Z
+SUMMARY:Kiara: 【COUPLE Q&A】#TAKAMORI Q&A with your MARSHMALLOWS!
+UID:G3zAKMFfilM
 END:VEVENT
 END:VCALENDAR
