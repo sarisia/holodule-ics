@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Papers\, Please】チッププリーズ！OK！通ってどうぞ！！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=Ol_sQySgij0
+DESCRIPTION:【歌枠】おうたのじかんです【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=wBgIDAbafyw
 DURATION:PT2H
-DTSTART:20210205T140000Z
-SUMMARY:🏮夏色まつり: 【Papers\, Please】チッププリーズ！OK！通ってどうぞ！！【ホロライブ/夏色まつり】
-UID:Ol_sQySgij0
+DTSTART:20210206T120000Z
+SUMMARY:🍙猫又おかゆ: 【歌枠】おうたのじかんです【猫又おかゆ/ホロライブ】
+UID:wBgIDAbafyw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【  龍が如く極2 】遥を返せ！隠された過去に秘められた真実とは？【ホロライブ/さくらみこ】#ネタバレあり\nhttps://www.youtube.com/watch?v=Phuwi7wkVsY
+DURATION:PT2H
+DTSTART:20210206T090000Z
+SUMMARY:🌸さくらみこ: 【  龍が如く極2 】遥を返せ！隠された過去に秘められた真実とは？【ホロライブ/さくらみこ】#ネタバレあり
+UID:Phuwi7wkVsY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】装飾する。ただそれだけ。【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=KKoKI2sXLgs
@@ -18,11 +25,11 @@ SUMMARY:👾常闇トワ: 【Minecraft】装飾する。ただそれだけ。【
 UID:KKoKI2sXLgs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:カービィ100％達成の宴\nhttps://www.youtube.com/watch?v=zYQ9zjbGNVQ
+DESCRIPTION:【Minecraft】かなた地上絵制作なのだ！！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=YRemcrH44AE
 DURATION:PT2H
-DTSTART:20210204T152500Z
-SUMMARY:🥐戌神ころね: カービィ100％達成の宴
-UID:zYQ9zjbGNVQ
+DTSTART:20210206T100000Z
+SUMMARY:💫天音かなた: 【Minecraft】かなた地上絵制作なのだ！！！！！【天音かなた/ホロライブ】
+UID:YRemcrH44AE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARK】テレポーターを作りたい！【Hololive/アキロゼ】\nhttps://www.youtube.com/watch?v=Skjlpy5DTH8
@@ -32,11 +39,11 @@ SUMMARY:🍎アキロゼ: 【ARK】テレポーターを作りたい！【Hololi
 UID:Skjlpy5DTH8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【GTAV】墜落💥Crash【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=KLInZ7fezq0
+DESCRIPTION:【#生スバル】おはようスバル！：Free Talk【大空スバル/ホロライブ】\nhttps://www.youtube.com/watch?v=07AzK6levMM
 DURATION:PT2H
-DTSTART:20210205T090000Z
-SUMMARY:🔥不知火フレア: 【GTAV】墜落💥Crash【ホロライブ/不知火フレア】
-UID:KLInZ7fezq0
+DTSTART:20210206T010000Z
+SUMMARY:🚑大空スバル: 【#生スバル】おはようスバル！：Free Talk【大空スバル/ホロライブ】
+UID:07AzK6levMM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ウクレレテスト！課題曲「夜空ノムコウ」\nhttps://www.youtube.com/watch?v=pe20rWOGQCw
@@ -46,18 +53,11 @@ SUMMARY:🌲大神ミオ: ウクレレテスト！課題曲「夜空ノムコウ
 UID:pe20rWOGQCw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#８】黒騎士逮捕ってマジ？：GRANBLUE FANTASY【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=qUB3ps86mOE
+DESCRIPTION:尾丸ポルカ - シルシ(cover) / THE HOLO TAKE\nhttps://www.youtube.com/watch?v=Mm97x8_uy7o
 DURATION:PT2H
-DTSTART:20210205T110000Z
-SUMMARY:🚑大空スバル: 【#８】黒騎士逮捕ってマジ？：GRANBLUE FANTASY【ホロライブ/大空スバル】
-UID:qUB3ps86mOE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BAR COCO~ココママのだらしゃべ相談室~\nhttps://www.youtube.com/watch?v=TYs6erA38Dc
-DURATION:PT2H
-DTSTART:20210205T110000Z
-SUMMARY:🐉桐生ココ: BAR COCO~ココママのだらしゃべ相談室~
-UID:TYs6erA38Dc
+DTSTART:20210206T142012Z
+SUMMARY:尾丸ポルカ: 尾丸ポルカ - シルシ(cover) / THE HOLO TAKE
+UID:Mm97x8_uy7o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】のんびりお話マイマイクラ！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=RtaGRtCLxww
@@ -74,193 +74,11 @@ SUMMARY:🥐戌神ころね: 【メガドラ/MD】はじめてのソニック・
 UID:tCwiJVyCG2A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ARK】朝活してみる【Hololive/アキロゼ】\nhttps://www.youtube.com/watch?v=Sc0KUhpaxCA
+DESCRIPTION:【歌枠】VERY VERY SINGING【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=v50FB1hYqT0
 DURATION:PT2H
-DTSTART:20210204T200000Z
-SUMMARY:🍎アキロゼ: 【ARK】朝活してみる【Hololive/アキロゼ】
-UID:Sc0KUhpaxCA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Singing】ボーカロイド曲歌いたい枠【＃ときのそら生放送】\nhttps://www.youtube.com/watch?v=TXpE_7NRICE
-DURATION:PT2H
-DTSTART:20210205T120000Z
-SUMMARY:🐻ときのそら: 【Singing】ボーカロイド曲歌いたい枠【＃ときのそら生放送】
-UID:TXpE_7NRICE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】シーズン８やっていく～～～～！！！！！\nhttps://www.youtube.com/watch?v=mIkObWAwMnc
-DURATION:PT2H
-DTSTART:20210205T134500Z
-SUMMARY:👿百鬼あやめ: 【APEX】シーズン８やっていく～～～～！！！！！
-UID:mIkObWAwMnc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#10】仮面集める！！！：The Legend of Zelda: Majora's Mask【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=LDp7tPX1yrU
-DURATION:PT2H
-DTSTART:20210206T050000Z
-SUMMARY:🚑大空スバル: 【#10】仮面集める！！！：The Legend of Zelda: Majora's Mask【ホロライブ/大空スバル】
-UID:LDp7tPX1yrU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:かなた増殖中\nhttps://www.youtube.com/watch?v=ISzyLP-R6no
-DURATION:PT2H
-DTSTART:20210205T164834Z
-SUMMARY:💫天音かなた: かなた増殖中
-UID:ISzyLP-R6no
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ホロの限界じゃんけんトーナメント【#ホロライブアイドル道】\nhttps://www.youtube.com/watch?v=J9vRBA4hYus
-DURATION:PT2H
-DTSTART:20210206T110000Z
-SUMMARY:ホロライブ: ホロの限界じゃんけんトーナメント【#ホロライブアイドル道】
-UID:J9vRBA4hYus
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ドラクエビルダーズ2】新しい島ではどんな物語が繰り広げられるのでしょうか！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=aUvoh1fZluE
-DURATION:PT2H
-DTSTART:20210206T040000Z
-SUMMARY:👯兎田ぺこら: 【ドラクエビルダーズ2】新しい島ではどんな物語が繰り広げられるのでしょうか！ぺこ！【ホロライブ/兎田ぺこら】
-UID:aUvoh1fZluE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【New スーパーマリオブラザーズ U デラックス】2面クリア【ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=zsD1Bd4jdbY
-DURATION:PT2H
-DTSTART:20210205T120000Z
-SUMMARY:桃鈴ねね: 【New スーパーマリオブラザーズ U デラックス】2面クリア【ホロライブ/桃鈴ねね】
-UID:zsD1Bd4jdbY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【planet coaster】ししろーランドと言う名の訓練施設を作るよ！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=hTYdqAzbuUk
-DURATION:PT2H
-DTSTART:20210205T040000Z
-SUMMARY:獅白ぼたん: 【planet coaster】ししろーランドと言う名の訓練施設を作るよ！【獅白ぼたん/ホロライブ】
-UID:hTYdqAzbuUk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Jump King】跳ねますか～～～！！！！#1【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=NcAAxbXdoSg
-DURATION:PT2H
-DTSTART:20210206T030000Z
-SUMMARY:🍙猫又おかゆ: 【Jump King】跳ねますか～～～！！！！#1【猫又おかゆ/ホロライブ】
-UID:NcAAxbXdoSg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RimWorld】新たなホロメン登場！勇気のロード禁止縛り…!!!【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=E9CpyFFlAcM
-DURATION:PT2H
-DTSTART:20210205T110000Z
-SUMMARY:🏴☠宝鐘マリン: 【RimWorld】新たなホロメン登場！勇気のロード禁止縛り…!!!【ホロライブ/宝鐘マリン】
-UID:E9CpyFFlAcM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【NieR:Automata】1週目最終回：深夜に戦う35Bの物語【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=mXMyZohVDi4
-DURATION:PT2H
-DTSTART:20210204T150000Z
-SUMMARY:🌸さくらみこ: 【NieR:Automata】1週目最終回：深夜に戦う35Bの物語【ホロライブ/さくらみこ】
-UID:mXMyZohVDi4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[ARK] 　戦　力　増　強　[桐生ココ/ホロライブ]\nhttps://www.youtube.com/watch?v=8UCeu-Exzjo
-DURATION:PT2H
-DTSTART:20210206T110000Z
-SUMMARY:🐉桐生ココ: [ARK] 　戦　力　増　強　[桐生ココ/ホロライブ]
-UID:8UCeu-Exzjo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Trials Rising】やっぱりショッピングカートで来た。【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=S0LJDyl7rQ0
-DURATION:PT2H
-DTSTART:20210206T030000Z
-SUMMARY:獅白ぼたん: 【Trials Rising】やっぱりショッピングカートで来た。【獅白ぼたん/ホロライブ】
-UID:S0LJDyl7rQ0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:💫\nhttps://www.youtube.com/watch?v=y_Ua2GqVvKA
-DURATION:PT2H
-DTSTART:20210204T155515Z
-SUMMARY:💫天音かなた: 💫
-UID:y_Ua2GqVvKA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】おうたのじかんです【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=wBgIDAbafyw
-DURATION:PT2H
-DTSTART:20210206T120000Z
-SUMMARY:🍙猫又おかゆ: 【歌枠】おうたのじかんです【猫又おかゆ/ホロライブ】
-UID:wBgIDAbafyw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BF5】コミュニティサーバーで皆と遊ぶ会！ 2/5【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=Z9ijcvY-ETw
-DURATION:PT2H
-DTSTART:20210205T130000Z
-SUMMARY:獅白ぼたん: 【BF5】コミュニティサーバーで皆と遊ぶ会！ 2/5【獅白ぼたん/ホロライブ】
-UID:Z9ijcvY-ETw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#SMOK】おかころvsミオスバ対決！！！！【Ultimate Chicken Horse】\nhttps://www.youtube.com/watch?v=6sB9OF1vxKk
-DURATION:PT2H
-DTSTART:20210205T140000Z
-SUMMARY:🥐戌神ころね: 【#SMOK】おかころvsミオスバ対決！！！！【Ultimate Chicken Horse】
-UID:6sB9OF1vxKk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【  龍が如く極2 】遥を返せ！隠された過去に秘められた真実とは？【ホロライブ/さくらみこ】#ネタバレあり\nhttps://www.youtube.com/watch?v=Phuwi7wkVsY
-DURATION:PT2H
-DTSTART:20210206T090000Z
-SUMMARY:🌸さくらみこ: 【  龍が如く極2 】遥を返せ！隠された過去に秘められた真実とは？【ホロライブ/さくらみこ】#ネタバレあり
-UID:Phuwi7wkVsY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】かなた地上絵制作なのだ！！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=YRemcrH44AE
-DURATION:PT2H
-DTSTART:20210206T100000Z
-SUMMARY:💫天音かなた: 【Minecraft】かなた地上絵制作なのだ！！！！！【天音かなた/ホロライブ】
-UID:YRemcrH44AE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#生スバル】おはようスバル！：Free Talk【大空スバル/ホロライブ】\nhttps://www.youtube.com/watch?v=07AzK6levMM
-DURATION:PT2H
-DTSTART:20210206T010000Z
-SUMMARY:🚑大空スバル: 【#生スバル】おはようスバル！：Free Talk【大空スバル/ホロライブ】
-UID:07AzK6levMM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】Singing♪【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=zNR8zumhAkE
-DURATION:PT2H
-DTSTART:20210205T110000Z
-SUMMARY:🏮夏色まつり: 【歌枠】Singing♪【ホロライブ/夏色まつり】
-UID:zNR8zumhAkE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スマブラSP】キャラクター解放だああああああ！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=7HF1kT_fo94
-DURATION:PT2H
-DTSTART:20210205T143000Z
-SUMMARY:🐏角巻わため: 【スマブラSP】キャラクター解放だああああああ！！！【角巻わため/ホロライブ４期生】
-UID:7HF1kT_fo94
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Planet Zoo】愛をください～ZOO～♪【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=Gm1aR-2x5Mw
-DURATION:PT2H
-DTSTART:20210205T110000Z
-SUMMARY:尾丸ポルカ: 【Planet Zoo】愛をください～ZOO～♪【尾丸ポルカ/ホロライブ】
-UID:Gm1aR-2x5Mw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Journey To The Savage Planet】ココはどこ？未知の惑星に上陸してしまった件について【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=701yougSHB0
-DURATION:PT2H
-DTSTART:20210205T140000Z
-SUMMARY:🤖ロボ子さん: 【Journey To The Savage Planet】ココはどこ？未知の惑星に上陸してしまった件について【ホロライブ/ロボ子さん】
-UID:701yougSHB0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:HAACHAMA ENGLISH SCHOOL♪【 #HololiveEN0 】\nhttps://www.youtube.com/watch?v=9h8WVdrve1k
-DURATION:PT2H
-DTSTART:20210205T130000Z
-SUMMARY:❤赤井はあと: HAACHAMA ENGLISH SCHOOL♪【 #HololiveEN0 】
-UID:9h8WVdrve1k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:尾丸ポルカ - シルシ(cover) / THE HOLO TAKE\nhttps://www.youtube.com/watch?v=Mm97x8_uy7o
-DURATION:PT2H
-DTSTART:20210206T142012Z
-SUMMARY:尾丸ポルカ: 尾丸ポルカ - シルシ(cover) / THE HOLO TAKE
-UID:Mm97x8_uy7o
+DTSTART:20210206T130000Z
+SUMMARY:桃鈴ねね: 【歌枠】VERY VERY SINGING【桃鈴ねね/ホロライブ】
+UID:v50FB1hYqT0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】のーんびりこっそり【Hololive/Akaihaato】\nhttps://www.youtube.com/watch?v=AcPbGfrr-ds
@@ -277,32 +95,18 @@ SUMMARY:🤖ロボ子さん: 【APEX】約束されたAPEX【ホロライブ/ロ
 UID:uu5lv-g8gEA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】SorAZマイクラ探検隊！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=lLcl3e0_N5Y
+DESCRIPTION:【#10】仮面集める！！！：The Legend of Zelda: Majora's Mask【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=LDp7tPX1yrU
 DURATION:PT2H
-DTSTART:20210205T140000Z
-SUMMARY:🐻ときのそら: 【Minecraft】SorAZマイクラ探検隊！【#ときのそら生放送】
-UID:lLcl3e0_N5Y
+DTSTART:20210206T050000Z
+SUMMARY:🚑大空スバル: 【#10】仮面集める！！！：The Legend of Zelda: Majora's Mask【ホロライブ/大空スバル】
+UID:LDp7tPX1yrU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:HAACHAMA ENGLISH Supplement\nhttps://www.youtube.com/watch?v=AVjMNYISXls
+DESCRIPTION:かなた増殖中\nhttps://www.youtube.com/watch?v=ISzyLP-R6no
 DURATION:PT2H
-DTSTART:20210205T140636Z
-SUMMARY:❤赤井はあと: HAACHAMA ENGLISH Supplement
-UID:AVjMNYISXls
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】SONG!SONG!SONG!【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=CMSq8MOAUK8
-DURATION:PT2H
-DTSTART:20210205T090000Z
-SUMMARY:🌽白上フブキ: 【歌枠】SONG!SONG!SONG!【ホロライブ/白上フブキ】
-UID:CMSq8MOAUK8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ハーバリウム作り】ルーナのイメージハーバリウムを作ろう！🍬【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=nMXk6UZh51A
-DURATION:PT2H
-DTSTART:20210205T090000Z
-SUMMARY:👾常闇トワ: 【ハーバリウム作り】ルーナのイメージハーバリウムを作ろう！🍬【常闇トワ/ホロライブ】
-UID:nMXk6UZh51A
+DTSTART:20210205T164834Z
+SUMMARY:💫天音かなた: かなた増殖中
+UID:ISzyLP-R6no
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Cooking Simulator】花嫁修業！あなたの胃袋つかんじゃうぞッ！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=IWwVOMcLfLg
@@ -312,25 +116,18 @@ SUMMARY:🏮夏色まつり: 【Cooking Simulator】花嫁修業！あなたの�
 UID:IWwVOMcLfLg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:COEXIST FOREVER\nhttps://www.youtube.com/watch?v=pg8Gf-GKUtI
+DESCRIPTION:ホロの限界じゃんけんトーナメント【#ホロライブアイドル道】\nhttps://www.youtube.com/watch?v=J9vRBA4hYus
 DURATION:PT2H
-DTSTART:20210205T141024Z
-SUMMARY:❤赤井はあと: COEXIST FOREVER
-UID:pg8Gf-GKUtI
+DTSTART:20210206T110000Z
+SUMMARY:ホロライブ: ホロの限界じゃんけんトーナメント【#ホロライブアイドル道】
+UID:J9vRBA4hYus
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【天穂のサクナヒメ】#5 かいまる...遅くなってごめん、今探しに行くからね！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=laAuwSL9cj4
+DESCRIPTION:【ドラクエビルダーズ2】新しい島ではどんな物語が繰り広げられるのでしょうか！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=aUvoh1fZluE
 DURATION:PT2H
-DTSTART:20210205T090000Z
-SUMMARY:🐏角巻わため: 【天穂のサクナヒメ】#5 かいまる...遅くなってごめん、今探しに行くからね！【角巻わため/ホロライブ４期生】
-UID:laAuwSL9cj4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】将来の夢はお花屋さん！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=qiz8gUY1Z9I
-DURATION:PT2H
-DTSTART:20210205T120000Z
-SUMMARY:👯兎田ぺこら: 【Minecraft】将来の夢はお花屋さん！ぺこ！【ホロライブ/兎田ぺこら】
-UID:qiz8gUY1Z9I
+DTSTART:20210206T040000Z
+SUMMARY:👯兎田ぺこら: 【ドラクエビルダーズ2】新しい島ではどんな物語が繰り広げられるのでしょうか！ぺこ！【ホロライブ/兎田ぺこら】
+UID:aUvoh1fZluE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【たぶんMinecraft】もうすぐ完成！大きな地下水槽！🐡Make a big underground aquarium【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=qnZkyBgtxxg
@@ -347,13 +144,6 @@ SUMMARY:🐏角巻わため: 【歌枠】第４２回！わためぇ Night Fever
 UID:aj7Yk11e_yI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マイクラ】ホロメンオフショット～ちょこ先生編～\nhttps://www.youtube.com/watch?v=zR4d8MKxjys
-DURATION:PT2H
-DTSTART:20210205T013635Z
-SUMMARY:尾丸ポルカ: 【マイクラ】ホロメンオフショット～ちょこ先生編～
-UID:zR4d8MKxjys
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:今日の日はさよなら/アカペラ\nhttps://www.youtube.com/watch?v=Maj14yvt1Cs
 DURATION:PT2H
 DTSTART:20210206T095634Z
@@ -361,18 +151,32 @@ SUMMARY:🌽白上フブキ: 今日の日はさよなら/アカペラ
 UID:Maj14yvt1Cs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】ゴールド：ミラージュしか勝たん【アーカイブ生存】\nhttps://www.youtube.com/watch?v=FgMwDciyD_Y
+DESCRIPTION:【Jump King】跳ねますか～～～！！！！#1【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=NcAAxbXdoSg
 DURATION:PT2H
-DTSTART:20210205T130000Z
-SUMMARY:🌽白上フブキ: 【APEX】ゴールド：ミラージュしか勝たん【アーカイブ生存】
-UID:FgMwDciyD_Y
+DTSTART:20210206T030000Z
+SUMMARY:🍙猫又おかゆ: 【Jump King】跳ねますか～～～！！！！#1【猫又おかゆ/ホロライブ】
+UID:NcAAxbXdoSg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ふわわぁ～～～【 Minecraft / Akaihaato 】\nhttps://www.youtube.com/watch?v=m9DCPvYuU8k
+DESCRIPTION:【Minecraft】まったーりこっそり【 Minecraft / Akaihaato 】\nhttps://www.youtube.com/watch?v=m9DCPvYuU8k
 DURATION:PT2H
 DTSTART:20210206T150000Z
-SUMMARY:❤赤井はあと: 【Minecraft】ふわわぁ～～～【 Minecraft / Akaihaato 】
+SUMMARY:❤赤井はあと: 【Minecraft】まったーりこっそり【 Minecraft / Akaihaato 】
 UID:m9DCPvYuU8k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[ARK] 　戦　力　増　強　[桐生ココ/ホロライブ]\nhttps://www.youtube.com/watch?v=8UCeu-Exzjo
+DURATION:PT2H
+DTSTART:20210206T110000Z
+SUMMARY:🐉桐生ココ: [ARK] 　戦　力　増　強　[桐生ココ/ホロライブ]
+UID:8UCeu-Exzjo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Trials Rising】やっぱりショッピングカートで来た。【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=S0LJDyl7rQ0
+DURATION:PT2H
+DTSTART:20210206T030000Z
+SUMMARY:獅白ぼたん: 【Trials Rising】やっぱりショッピングカートで来た。【獅白ぼたん/ホロライブ】
+UID:S0LJDyl7rQ0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ゼルダの伝説BotW DLC】英傑たちの思い出を感じたい...【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=yxphM8tyof8
