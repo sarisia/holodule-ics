@@ -4,25 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Dead by Daylight】Weekend Evening Matching¿¿¿【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=Pk1Vt17x10U
+DURATION:PT2H
+DTSTART:20210206T083000Z
+SUMMARY:Anya: 【Dead by Daylight】Weekend Evening Matching¿¿¿【hololive Indonesia 2nd Generation】
+UID:Pk1Vt17x10U
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Brunch Stream】Just the usual.【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=IkeP4mNyY2g
 DURATION:PT2H
 DTSTART:20210206T040000Z
 SUMMARY:Reine: 【Brunch Stream】Just the usual.【hololiveID 2nd generation】
 UID:IkeP4mNyY2g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【hololiveID】#2 NieR:Automata this CAN continue !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=8AyWWiByS2E
-DURATION:PT2H
-DTSTART:20210206T110000Z
-SUMMARY:🐿Risu: 【hololiveID】#2 NieR:Automata this CAN continue !!!【Ayunda Risu】
-UID:8AyWWiByS2E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Building holoID Shop - Part 2【PavoNova】\nhttps://www.youtube.com/watch?v=b5XNn0ewF00
-DURATION:PT2H
-DTSTART:20210206T130000Z
-SUMMARY:🔮Moona: 【Minecraft】Building holoID Shop - Part 2【PavoNova】
-UID:b5XNn0ewF00
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【バンドリ！8】SELAMAT PAGI DUNIA SELAMAT PAGI BANDORI【hololiveID】\nhttps://www.youtube.com/watch?v=m8jkxYJeExA
@@ -32,17 +25,10 @@ SUMMARY:🎨Iofi: 【バンドリ！8】SELAMAT PAGI DUNIA SELAMAT PAGI BANDORI�
 UID:m8jkxYJeExA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Dead by Daylight】Weekend Evening Matching¿¿¿【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=Pk1Vt17x10U
+DESCRIPTION:【hololiveID】#2 NieR:Automata this CAN continue !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=8AyWWiByS2E
 DURATION:PT2H
-DTSTART:20210206T083000Z
-SUMMARY:Anya: 【Dead by Daylight】Weekend Evening Matching¿¿¿【hololive Indonesia 2nd Generation】
-UID:Pk1Vt17x10U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MOONA x REINE】Building holoID Shop Part 2 #PavoNova【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=iEEblPHpG80
-DURATION:PT2H
-DTSTART:20210206T130000Z
-SUMMARY:Reine: 【MOONA x REINE】Building holoID Shop Part 2 #PavoNova【hololiveID 2nd generation】
-UID:iEEblPHpG80
+DTSTART:20210206T110000Z
+SUMMARY:🐿Risu: 【hololiveID】#2 NieR:Automata this CAN continue !!!【Ayunda Risu】
+UID:8AyWWiByS2E
 END:VEVENT
 END:VCALENDAR
