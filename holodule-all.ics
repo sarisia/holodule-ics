@@ -60,13 +60,6 @@ SUMMARY:⚔白銀ノエル: 【歌枠】沢山歌いたい🎶85万人耐久歌�
 UID:GJ3qTGVRtpY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ばぶどん】ばぶどんのざつだん【影山シエン/夕刻ロベル】\nhttps://www.youtube.com/watch?v=XE5ENPdtqY0
-DURATION:PT2H
-DTSTART:20210212T120000Z
-SUMMARY:影山シエン: 【#ばぶどん】ばぶどんのざつだん【影山シエン/夕刻ロベル】
-UID:XE5ENPdtqY0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談歌枠】今日もボイトレ！【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=NPqY2Yr_vdo
 DURATION:PT2H
 DTSTART:20210212T130000Z
@@ -74,10 +67,17 @@ SUMMARY:桃鈴ねね: 【雑談歌枠】今日もボイトレ！【桃鈴ねね/
 UID:NPqY2Yr_vdo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:インフェルノ（Inferno）  / Mrs. GREEN APPLE  Covered by 律可\nhttps://www.youtube.com/watch?v=yYTQXck8jr8
+DESCRIPTION:【#ばぶどん】ばぶどんのざつだん【影山シエン/夕刻ロベル】\nhttps://www.youtube.com/watch?v=XE5ENPdtqY0
+DURATION:PT2H
+DTSTART:20210212T120000Z
+SUMMARY:影山シエン: 【#ばぶどん】ばぶどんのざつだん【影山シエン/夕刻ロベル】
+UID:XE5ENPdtqY0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:インフェルノ（Inferno）  / Mrs. GREEN APPLE【 アニメ炎炎ノ消防隊OP】 Covered by 律可\nhttps://www.youtube.com/watch?v=yYTQXck8jr8
 DURATION:PT2H
 DTSTART:20210212T113000Z
-SUMMARY:⚙律可: インフェルノ（Inferno）  / Mrs. GREEN APPLE  Covered by 律可
+SUMMARY:⚙律可: インフェルノ（Inferno）  / Mrs. GREEN APPLE【 アニメ炎炎ノ消防隊OP】 Covered by 律可
 UID:yYTQXck8jr8
 END:VEVENT
 BEGIN:VEVENT
@@ -291,6 +291,13 @@ SUMMARY:尾丸ポルカ: 【マイクラコラボ】不滅🔥不敗🎪不知�
 UID:F0HaXt5Ka5Y
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【APEX】Mozambique here!!!３３３３ダメージいっくぞおお！！【ホロライブ/ロボ子さん・白上フブキ】\nhttps://www.youtube.com/watch?v=0v5HDaaCN_A
+DURATION:PT2H
+DTSTART:20210212T080000Z
+SUMMARY:🤖ロボ子さん: 【APEX】Mozambique here!!!３３３３ダメージいっくぞおお！！【ホロライブ/ロボ子さん・白上フブキ】
+UID:0v5HDaaCN_A
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ANIMAL CROSSING:NEW HORIZON】 THIS IS O.K.!!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=0vDIyNgVyZI
 DURATION:PT2H
 DTSTART:20210211T082729Z
@@ -480,13 +487,6 @@ SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－おい
 UID:anjhWuWD5vw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】モザビで3333ダメチャレンジ！【杏戸ゆげ/夏色まつり】\nhttps://www.youtube.com/watch?v=RQ0zVegRnDo
-DURATION:PT2H
-DTSTART:20210212T080000Z
-SUMMARY:🏮夏色まつり: 【APEX】モザビで3333ダメチャレンジ！【杏戸ゆげ/夏色まつり】
-UID:RQ0zVegRnDo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Winning Post 9 2020】シリーズ初見実況！！G1を目指して馬を育てるで！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=LBJXFcl5eP0
 DURATION:PT2H
 DTSTART:20210211T040000Z
@@ -494,18 +494,18 @@ SUMMARY:🍷夕刻ロベル: 【Winning Post 9 2020】シリーズ初見実況�
 UID:LBJXFcl5eP0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:I DANCE\nhttps://www.youtube.com/watch?v=ntccEaPrl3o
-DURATION:PT2H
-DTSTART:20210212T042737Z
-SUMMARY:🐉桐生ココ: I DANCE
-UID:ntccEaPrl3o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】わためちゃんと初コラボ！黒い羊をつくる！？【#わたあず】\nhttps://www.youtube.com/watch?v=eI-lRaGe0CA
 DURATION:PT2H
 DTSTART:20210211T130000Z
 SUMMARY:⚒AZKi: 【Minecraft】わためちゃんと初コラボ！黒い羊をつくる！？【#わたあず】
 UID:eI-lRaGe0CA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:I DANCE\nhttps://www.youtube.com/watch?v=ntccEaPrl3o
+DURATION:PT2H
+DTSTART:20210212T042737Z
+SUMMARY:🐉桐生ココ: I DANCE
+UID:ntccEaPrl3o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Among Us】Who is the impostor ? #IDStarAmU​ 【Moona】\nhttps://www.youtube.com/watch?v=C847LP36pQk
@@ -520,6 +520,13 @@ DURATION:PT2H
 DTSTART:20210212T130000Z
 SUMMARY:🚑大空スバル: 【MINECRAFT】そろそろ納品？！台所と脱衣所つくるぞ！！【ホロライブ/大空スバル】
 UID:qWetncnJG_M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】最近たくさんお知らせあったから話そう！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=OAAMQcRFfNk
+DURATION:PT2H
+DTSTART:20210212T131500Z
+SUMMARY:🐏角巻わため: 【雑談】最近たくさんお知らせあったから話そう！【角巻わため/ホロライブ４期生】
+UID:OAAMQcRFfNk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マインクラフト/Minecraft】不知火建設地上絵制作🔥🎪Shiranuhi Construction Geoglyph Production【不知火フレア/尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=vMDk323WQQo
@@ -548,13 +555,6 @@ DURATION:PT2H
 DTSTART:20210211T050000Z
 SUMMARY:Amelia: 【Oblivion】ROAD to 1 MILLION
 UID:YyH_tu3ol_c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】今年最後の歌を歌う。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=RVa6REtfp-o
-DURATION:PT2H
-DTSTART:20210212T100000Z
-SUMMARY:🌺花咲みやび: 【歌枠】今年最後の歌を歌う。【花咲みやび/ホロスターズ】
-UID:RVa6REtfp-o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【minecraft】この日が来た・・・最終決戦・・！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=blSX7M_n9RA
