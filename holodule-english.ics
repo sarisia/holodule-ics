@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【OMORI #02】Oh. More Mori\, Going Deeper? Into This DOPE DREAM GAME?! #Holomyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=VFtOXwj3Cyo
-DURATION:PT2H
-DTSTART:20210211T003322Z
-SUMMARY:Calli: 【OMORI #02】Oh. More Mori\, Going Deeper? Into This DOPE DREAM GAME?! #Holomyth #HololiveEnglish
-UID:VFtOXwj3Cyo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Atelier Ryza 2】Where is the mysterious CUTIEPIE????  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=2RLmJw5Wb5k
 DURATION:PT2H
 DTSTART:20210211T030000Z
@@ -32,11 +25,18 @@ SUMMARY:Ina: 【Hollow Knight】 Thumbnail You Can Hear
 UID:BHkJXpkaA6s
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【WATCHALONG】Wall-E!!!\nhttps://www.youtube.com/watch?v=_8X4cvg7N7M
+DESCRIPTION:[STORYTIME] Let's read Konosuba!\nhttps://www.youtube.com/watch?v=kYChcl_6rvs
 DURATION:PT2H
-DTSTART:20210212T040000Z
-SUMMARY:Amelia: 【WATCHALONG】Wall-E!!!
-UID:_8X4cvg7N7M
+DTSTART:20210211T040000Z
+SUMMARY:Gura: [STORYTIME] Let's read Konosuba!
+UID:kYChcl_6rvs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【OMORI #02】Oh. More Mori\, Going Deeper? Into This DOPE DREAM GAME?! #Holomyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=VFtOXwj3Cyo
+DURATION:PT2H
+DTSTART:20210211T003322Z
+SUMMARY:Calli: 【OMORI #02】Oh. More Mori\, Going Deeper? Into This DOPE DREAM GAME?! #Holomyth #HololiveEnglish
+UID:VFtOXwj3Cyo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Oblivion】ROAD to 1 MILLION\nhttps://www.youtube.com/watch?v=YyH_tu3ol_c
@@ -46,10 +46,17 @@ SUMMARY:Amelia: 【Oblivion】ROAD to 1 MILLION
 UID:YyH_tu3ol_c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[STORYTIME] Let's read Konosuba!\nhttps://www.youtube.com/watch?v=kYChcl_6rvs
+DESCRIPTION:【WATCHALONG】Wall-E!!!\nhttps://www.youtube.com/watch?v=_8X4cvg7N7M
 DURATION:PT2H
-DTSTART:20210211T040000Z
-SUMMARY:Gura: [STORYTIME] Let's read Konosuba!
-UID:kYChcl_6rvs
+DTSTART:20210212T040000Z
+SUMMARY:Amelia: 【WATCHALONG】Wall-E!!!
+UID:_8X4cvg7N7M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【NieR:Automata】THIS WILL CONTINUE\nhttps://www.youtube.com/watch?v=IJIrgsjsMhQ
+DURATION:PT2H
+DTSTART:20210212T230500Z
+SUMMARY:Amelia: 【NieR:Automata】THIS WILL CONTINUE
+UID:IJIrgsjsMhQ
 END:VEVENT
 END:VCALENDAR
