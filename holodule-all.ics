@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【FreeTalk】え待って77777人行きそうじゃん【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=UGlpWDHzTKM
-DURATION:PT2H
-DTSTART:20210212T073000Z
-SUMMARY:🍕アルランディス: 【FreeTalk】え待って77777人行きそうじゃん【アルランディス/ホロスターズ】
-UID:UGlpWDHzTKM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MARIO KART 8 DELUXE】 NGEEEEEEEEEENG【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=6tYvrtTQQTs
 DURATION:PT2H
 DTSTART:20210212T082527Z
 SUMMARY:Ollie: 【MARIO KART 8 DELUXE】 NGEEEEEEEEEENG【Hololive Indonesia 2nd Gen】
 UID:6tYvrtTQQTs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FreeTalk】え待って77777人行きそうじゃん【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=UGlpWDHzTKM
+DURATION:PT2H
+DTSTART:20210212T073000Z
+SUMMARY:🍕アルランディス: 【FreeTalk】え待って77777人行きそうじゃん【アルランディス/ホロスターズ】
+UID:UGlpWDHzTKM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】９５万人まで歌うよおおお！！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=Ab_NZtELtpA
@@ -46,13 +46,6 @@ SUMMARY:Reine: 【Brunch Stream】Free Talk with a Side of Donuts【hololiveID 2
 UID:NXhXWOm6a_E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:インフェルノ（Inferno） / Mrs. GREEN APPLE【 アニメ炎炎ノ消防隊OP】 Covered by 律可\nhttps://www.youtube.com/watch?v=yYTQXck8jr8
-DURATION:PT2H
-DTSTART:20210212T113000Z
-SUMMARY:⚙律可: インフェルノ（Inferno） / Mrs. GREEN APPLE【 アニメ炎炎ノ消防隊OP】 Covered by 律可
-UID:yYTQXck8jr8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ばぶどん】ばぶどんのざつだん【影山シエン/夕刻ロベル】\nhttps://www.youtube.com/watch?v=XE5ENPdtqY0
 DURATION:PT2H
 DTSTART:20210212T120000Z
@@ -65,6 +58,13 @@ DURATION:PT2H
 DTSTART:20210212T130000Z
 SUMMARY:桃鈴ねね: 【雑談歌枠】今日もボイトレ！【桃鈴ねね/ホロライブ】
 UID:NPqY2Yr_vdo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:インフェルノ（Inferno） / Mrs. GREEN APPLE【 アニメ炎炎ノ消防隊OP】 Covered by 律可\nhttps://www.youtube.com/watch?v=yYTQXck8jr8
+DURATION:PT2H
+DTSTART:20210212T113000Z
+SUMMARY:⚙律可: インフェルノ（Inferno） / Mrs. GREEN APPLE【 アニメ炎炎ノ消防隊OP】 Covered by 律可
+UID:yYTQXck8jr8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【WATCHALONG】Wall-E!!!\nhttps://www.youtube.com/watch?v=_8X4cvg7N7M
@@ -193,6 +193,20 @@ SUMMARY:💫天音かなた: アイドルの新キャッチコピー
 UID:R1R2ppbz2yU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ゼルダの伝説BotW DLC】英傑たちの詩ラスト！最後の試練【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=_NKDEtXcURk
+DURATION:PT2H
+DTSTART:20210213T031000Z
+SUMMARY:⚔白銀ノエル: 【ゼルダの伝説BotW DLC】英傑たちの詩ラスト！最後の試練【白銀ノエル/ホロライブ】
+UID:_NKDEtXcURk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MOONA x REINE】holoID Shop Part 3 (Interior!!) #PavoNova【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=DP46TaaGXNs
+DURATION:PT2H
+DTSTART:20210212T130000Z
+SUMMARY:Reine: 【MOONA x REINE】holoID Shop Part 3 (Interior!!) #PavoNova【hololiveID 2nd generation】
+UID:DP46TaaGXNs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】おうち改造計画！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=hEC9K1k0E6k
 DURATION:PT2H
 DTSTART:20210212T120000Z
@@ -205,20 +219,6 @@ DURATION:PT2H
 DTSTART:20210212T120000Z
 SUMMARY:🌽白上フブキ: 【同時視聴】スパイダーマン:ファー・フロム・ホーム　Spider-Man: Far From Home【ホロライブ/白上フブキ】
 UID:M68D5XTSoxc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MOONA x REINE】holoID Shop Part 3 (Interior!!) #PavoNova【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=DP46TaaGXNs
-DURATION:PT2H
-DTSTART:20210212T130000Z
-SUMMARY:Reine: 【MOONA x REINE】holoID Shop Part 3 (Interior!!) #PavoNova【hololiveID 2nd generation】
-UID:DP46TaaGXNs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ゼルダの伝説BotW DLC】英傑たちの詩ラスト！最後の試練【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=_NKDEtXcURk
-DURATION:PT2H
-DTSTART:20210213T031000Z
-SUMMARY:⚔白銀ノエル: 【ゼルダの伝説BotW DLC】英傑たちの詩ラスト！最後の試練【白銀ノエル/ホロライブ】
-UID:_NKDEtXcURk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Fanfiction】PART 4!!! Reading your short fic submissions【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=7kl56uS00qI
@@ -291,18 +291,18 @@ SUMMARY:Gura: [Journey To The Savage Planet]  DUM²
 UID:s9w2oIVjhLg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:300.000 IKZ ! ! ! IOFORIA ! ! ! I LOVE YOU ! ! !\nhttps://www.youtube.com/watch?v=zHChOsNft5E
-DURATION:PT2H
-DTSTART:20210211T154000Z
-SUMMARY:🎨Iofi: 300.000 IKZ ! ! ! IOFORIA ! ! ! I LOVE YOU ! ! !
-UID:zHChOsNft5E
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【バンドリ！9】Pa...Gi? Halo Semua... LET'S ROCK!【hololiveID】\nhttps://www.youtube.com/watch?v=l_-COuu8Cms
 DURATION:PT2H
 DTSTART:20210213T030000Z
 SUMMARY:🎨Iofi: 【バンドリ！9】Pa...Gi? Halo Semua... LET'S ROCK!【hololiveID】
 UID:l_-COuu8Cms
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:300.000 IKZ ! ! ! IOFORIA ! ! ! I LOVE YOU ! ! !\nhttps://www.youtube.com/watch?v=zHChOsNft5E
+DURATION:PT2H
+DTSTART:20210211T154000Z
+SUMMARY:🎨Iofi: 300.000 IKZ ! ! ! IOFORIA ! ! ! I LOVE YOU ! ! !
+UID:zHChOsNft5E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Hollow Knight】夜まったり。#6【#常闇トワ​/ホロライブ】\nhttps://www.youtube.com/watch?v=4CYvJqxg8KI
@@ -333,18 +333,18 @@ SUMMARY:💫天音かなた: ※枠バグ【Minecraft】緊急ミッション�
 UID:fbnk6Iccr9I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:THANK YOU\nhttps://www.youtube.com/watch?v=U5oL--X-WYk
-DURATION:PT2H
-DTSTART:20210211T150000Z
-SUMMARY:❤赤井はあと: THANK YOU
-UID:U5oL--X-WYk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【桃太郎電鉄】ビギナーズラックで勝つ！【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=167UcPwjy6g
 DURATION:PT2H
 DTSTART:20210213T110000Z
 SUMMARY:🔥不知火フレア: 【桃太郎電鉄】ビギナーズラックで勝つ！【ホロライブ/不知火フレア】
 UID:167UcPwjy6g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:THANK YOU\nhttps://www.youtube.com/watch?v=U5oL--X-WYk
+DURATION:PT2H
+DTSTART:20210211T150000Z
+SUMMARY:❤赤井はあと: THANK YOU
+UID:U5oL--X-WYk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SKYRIM】Early Morning Dragon-Borning! #Holomyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=HH44Ld-wirc
@@ -487,6 +487,13 @@ SUMMARY:Amelia: 【COLLAB】Journey to the Savage Planet w/ Gura!
 UID:OGF6_Zoz0Eo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【視聴者参加型】みんなといっしょに強くなる。エモ【APEX】\nhttps://www.youtube.com/watch?v=Svyj45WWxsM
+DURATION:PT2H
+DTSTART:20210212T171500Z
+SUMMARY:🎭アステル・レダ: 【視聴者参加型】みんなといっしょに強くなる。エモ【APEX】
+UID:Svyj45WWxsM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マイクラ】ねぽらぼビルを終わらせる【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=te-kKlCj8bk
 DURATION:PT2H
 DTSTART:20210211T150000Z
@@ -501,11 +508,11 @@ SUMMARY:⚙律可: 別END【HOLLOW KNIGHT/ホロウナイト】荒廃した王�
 UID:E3Ew733etCE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Trials Rising】もちろんショッピングカートで来た。【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=dTeW7B3pKds
+DESCRIPTION:【歌】ウタ　ウタウ【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=mumJWDlj4Cs
 DURATION:PT2H
-DTSTART:20210213T030000Z
-SUMMARY:獅白ぼたん: 【Trials Rising】もちろんショッピングカートで来た。【獅白ぼたん/ホロライブ】
-UID:dTeW7B3pKds
+DTSTART:20210213T050000Z
+SUMMARY:🤖ロボ子さん: 【歌】ウタ　ウタウ【ホロライブ/ロボ子さん】
+UID:mumJWDlj4Cs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【桃太郎電鉄】ホロライブ10年トライアル王決定戦！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=wyO3N-4nTUo
@@ -513,6 +520,13 @@ DURATION:PT2H
 DTSTART:20210213T110000Z
 SUMMARY:🏮夏色まつり: 【桃太郎電鉄】ホロライブ10年トライアル王決定戦！【ホロライブ/夏色まつり】
 UID:wyO3N-4nTUo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Trials Rising】もちろんショッピングカートで来た。【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=dTeW7B3pKds
+DURATION:PT2H
+DTSTART:20210213T030000Z
+SUMMARY:獅白ぼたん: 【Trials Rising】もちろんショッピングカートで来た。【獅白ぼたん/ホロライブ】
+UID:dTeW7B3pKds
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】深夜のふりーだむ【Hololive/Akaihaato】\nhttps://www.youtube.com/watch?v=7J8hZuBz54g
