@@ -4,10 +4,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【】グリームニルガチャ【】\nhttps://www.youtube.com/watch?v=L9TxWjDrZoM
+DESCRIPTION:【#生スバル】グリームニルガチャ：GRANBLUE FANTASY【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=L9TxWjDrZoM
 DURATION:PT2H
 DTSTART:20210214T130000Z
-SUMMARY:🚑大空スバル: 【】グリームニルガチャ【】
+SUMMARY:🚑大空スバル: 【#生スバル】グリームニルガチャ：GRANBLUE FANTASY【ホロライブ/大空スバル】
 UID:L9TxWjDrZoM
 END:VEVENT
 BEGIN:VEVENT
@@ -23,13 +23,6 @@ DURATION:PT2H
 DTSTART:20210214T131500Z
 SUMMARY:ホロライブ: 【Bloom\,直前】ライブを楽しむ！ホロライブリリース楽曲おさらい&裏話ラジオ【by友人A(えーちゃん)】
 UID:tIFJQSNXyjQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠 】Valentine Day...🍫♥恋愛曲縛り karaoke【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=vglqpZiv330
-DURATION:PT2H
-DTSTART:20210214T100000Z
-SUMMARY:🔥不知火フレア: 【歌枠 】Valentine Day...🍫♥恋愛曲縛り karaoke【ホロライブ/不知火フレア】
-UID:vglqpZiv330
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:9週連続リリース総おさらい！楽曲クイズ！【#ホロライブアイドル道​】\nhttps://www.youtube.com/watch?v=uoc8WfsUYh8
@@ -81,10 +74,10 @@ SUMMARY:Anya: 【Stigmatized Property | 事故物件】Searching For That Good E
 UID:IYpvL_uuJuk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:配信予定！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=qFvSBalwbdg
+DESCRIPTION:【KU100】バレンタインASMR【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=qFvSBalwbdg
 DURATION:PT2H
 DTSTART:20210214T140000Z
-SUMMARY:雪花ラミィ: 配信予定！【雪花ラミィ/ホロライブ】
+SUMMARY:雪花ラミィ: 【KU100】バレンタインASMR【雪花ラミィ/ホロライブ】
 UID:qFvSBalwbdg
 END:VEVENT
 BEGIN:VEVENT
@@ -235,6 +228,13 @@ SUMMARY:影山シエン: 【ペーパーマリオオリガミキング】未だ�
 UID:2oa2TR-DkHM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【バレンタイン】OGAsCafe【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=f8zNLKuXKVI
+DURATION:PT2H
+DTSTART:20210214T120000Z
+SUMMARY:荒咬オウガ: 【バレンタイン】OGAsCafe【荒咬オウガ/ホロスターズ】
+UID:f8zNLKuXKVI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【仮】お誕生日カウントダウン配信【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=7dsfaFeXcRA
 DURATION:PT2H
 DTSTART:20210213T145000Z
@@ -347,18 +347,18 @@ SUMMARY:🎨Iofi: 【バンドリ！9】Pa...Gi? Halo Semua... LET'S ROCK!【hol
 UID:l_-COuu8Cms
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【料理】💓💓バレンタインクッキング💓💓【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=TXZElw7GKkU
-DURATION:PT2H
-DTSTART:20210214T070000Z
-SUMMARY:🤖ロボ子さん: 【料理】💓💓バレンタインクッキング💓💓【ホロライブ/ロボ子さん】
-UID:TXZElw7GKkU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【感謝枠】2月前半分のありがとうを / アステル・レダ\nhttps://www.youtube.com/watch?v=czrs2KCJyuQ
 DURATION:PT2H
 DTSTART:20210214T113000Z
 SUMMARY:🎭アステル・レダ: 【感謝枠】2月前半分のありがとうを / アステル・レダ
 UID:czrs2KCJyuQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【料理】💓💓バレンタインクッキング💓💓【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=TXZElw7GKkU
+DURATION:PT2H
+DTSTART:20210214T070000Z
+SUMMARY:🤖ロボ子さん: 【料理】💓💓バレンタインクッキング💓💓【ホロライブ/ロボ子さん】
+UID:TXZElw7GKkU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【配信予定地】かなたそなにする【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=3INtI82IO1U
@@ -373,6 +373,13 @@ DURATION:PT2H
 DTSTART:20210214T130000Z
 SUMMARY:⚔白銀ノエル: 【歌枠】HappyValentine💕KU100で歌います(？)🎶【白銀ノエル/ホロライブ】
 UID:1Aon2lx8tfE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 NieR:Automata 】最終回 ― 無意味でも願う、キミ達の未来を。【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=MeE9-ecjERE
+DURATION:PT2H
+DTSTART:20210214T050000Z
+SUMMARY:🌸さくらみこ: 【 NieR:Automata 】最終回 ― 無意味でも願う、キミ達の未来を。【ホロライブ/さくらみこ】
+UID:MeE9-ecjERE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#１１】最終回！！！！！！！！！：The Legend of Zelda: Majora's Mask【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=9G9_dcjYN1E
@@ -422,13 +429,6 @@ DURATION:PT2H
 DTSTART:20210213T120000Z
 SUMMARY:☄星街すいせい: 【Minecraft】新居を完成させる！！/ New Home create🏠【ホロライブ / 星街すいせい】
 UID:aZx0bTjCUcc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Cooking Simulator】手作りチョコつくります💗【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=Ca6-2B4dwNo
-DURATION:PT2H
-DTSTART:20210214T100000Z
-SUMMARY:尾丸ポルカ: 【Cooking Simulator】手作りチョコつくります💗【尾丸ポルカ/ホロライブ】
-UID:Ca6-2B4dwNo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】CONTINUING THE MAZE【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=pyi7fAh4xck
