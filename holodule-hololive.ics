@@ -60,18 +60,18 @@ SUMMARY:尾丸ポルカ: 【マイクラ】雑談寄り、たまに酒場【尾�
 UID:azgX8qJhhnw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】ライブ前日！楽しむ準備はできてるか！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=HKVF62sTh4g
-DURATION:PT2H
-DTSTART:20210216T140000Z
-SUMMARY:🏮夏色まつり: 【歌枠】ライブ前日！楽しむ準備はできてるか！【ホロライブ/夏色まつり】
-UID:HKVF62sTh4g
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Undertale】アンダーテイルやってみる！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=IPIGKLsF7S4
 DURATION:PT2H
 DTSTART:20210218T120000Z
 SUMMARY:👯兎田ぺこら: 【Undertale】アンダーテイルやってみる！ぺこ！【ホロライブ/兎田ぺこら】
 UID:IPIGKLsF7S4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マイクラ】ホロIDモールに麺屋ぼたんを作るぞい！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=yAtETXrwGmo
+DURATION:PT2H
+DTSTART:20210216T050000Z
+SUMMARY:獅白ぼたん: 【マイクラ】ホロIDモールに麺屋ぼたんを作るぞい！【獅白ぼたん/ホロライブ】
+UID:yAtETXrwGmo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【龍が如く3】峯よ【最終章】※ネタバレあり\nhttps://www.youtube.com/watch?v=_v3xmF1UPFs
@@ -81,11 +81,11 @@ SUMMARY:🐉桐生ココ: 【龍が如く3】峯よ【最終章】※ネタバ�
 UID:_v3xmF1UPFs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マイクラ】ホロIDモールに麺屋ぼたんを作るぞい！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=yAtETXrwGmo
+DESCRIPTION:NEW GAME\nhttps://www.youtube.com/watch?v=wEWPOl5ctAM
 DURATION:PT2H
-DTSTART:20210216T050000Z
-SUMMARY:獅白ぼたん: 【マイクラ】ホロIDモールに麺屋ぼたんを作るぞい！【獅白ぼたん/ホロライブ】
-UID:yAtETXrwGmo
+DTSTART:20210215T150000Z
+SUMMARY:❤赤井はあと: NEW GAME
+UID:wEWPOl5ctAM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】２PCチャレンジしながら白上とハンマーチャレンジ👊【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=_jIFARu7zTU
@@ -100,13 +100,6 @@ DURATION:PT2H
 DTSTART:20210218T130000Z
 SUMMARY:🔥不知火フレア: 【1days free chat】がんばってくるから見ててね！【ホロライブ/不知火フレア】
 UID:vhgRZj1PNmk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:NEW GAME\nhttps://www.youtube.com/watch?v=wEWPOl5ctAM
-DURATION:PT2H
-DTSTART:20210215T150000Z
-SUMMARY:❤赤井はあと: NEW GAME
-UID:wEWPOl5ctAM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Who’s watching who?\nhttps://www.youtube.com/watch?v=4W2TH3EE3n0
@@ -137,6 +130,13 @@ SUMMARY:ホロライブ: 【アイドル？】今から間に合う！Bloom\,公
 UID:WAwbzr1kwHo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:BASILISK TIME【hololive/宝鐘マリン・夏色まつり】\nhttps://www.youtube.com/watch?v=hMPABsAjQWM
+DURATION:PT2H
+DTSTART:20210216T150013Z
+SUMMARY:🏴☠宝鐘マリン: BASILISK TIME【hololive/宝鐘マリン・夏色まつり】
+UID:hMPABsAjQWM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 つぐのひ】 〜昭和からの呼び声〜【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=XwklAzcdmWA
 DURATION:PT2H
 DTSTART:20210216T114000Z
@@ -158,10 +158,10 @@ SUMMARY:❤赤井はあと: YUMMY!! YUMMY!!
 UID:0z57K0VA9ZE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:STRESS-FREE\nhttps://www.youtube.com/watch?v=UBRDsFtZIIw
+DESCRIPTION:STRESS-FREE　※No archive※\nhttps://www.youtube.com/watch?v=UBRDsFtZIIw
 DURATION:PT2H
 DTSTART:20210216T150000Z
-SUMMARY:❤赤井はあと: STRESS-FREE
+SUMMARY:❤赤井はあと: STRESS-FREE　※No archive※
 UID:UBRDsFtZIIw
 END:VEVENT
 BEGIN:VEVENT
