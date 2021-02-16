@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【GUILTYGEAR-STRIVE-】プロの方々に混じって大変恐縮ではありますが【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=V0WrGzIX1bU
+DURATION:PT2H
+DTSTART:20210216T120000Z
+SUMMARY:荒咬オウガ: 【GUILTYGEAR-STRIVE-】プロの方々に混じって大変恐縮ではありますが【荒咬オウガ/ホロスターズ】
+UID:V0WrGzIX1bU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【GUILTY GEARーSTRIVEー】初心者枠！一緒にギルティギアデビューしないか【律可/ホロスターズ】＃りつすた\nhttps://www.youtube.com/watch?v=jzcslWaMaGg
 DURATION:PT2H
 DTSTART:20210216T130000Z
@@ -18,11 +25,11 @@ SUMMARY:🎭アステル・レダ: 【7万行く前に!!】6万ダメージ耐�
 UID:U3jj02_KKEM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【GUILTY GEAR -STRIVE-】GUILTY GEAR最新作！先行プレイ！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=dtO5XDA4eLo
+DESCRIPTION:【NieR:Automata】二週目開始！今明かされるもう一つの物語  -完全初見 #5-【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=6vwmYpi0jYA
 DURATION:PT2H
-DTSTART:20210216T100000Z
-SUMMARY:🍷夕刻ロベル: 【GUILTY GEAR -STRIVE-】GUILTY GEAR最新作！先行プレイ！！【ホロスターズ/夕刻ロベル】
-UID:dtO5XDA4eLo
+DTSTART:20210216T110000Z
+SUMMARY:🍕アルランディス: 【NieR:Automata】二週目開始！今明かされるもう一つの物語  -完全初見 #5-【アルランディス/ホロスターズ】
+UID:6vwmYpi0jYA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－火曜日がやってきてしまいました－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=xDxeXHx6Qww
@@ -32,18 +39,11 @@ SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－火曜
 UID:xDxeXHx6Qww
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【NieR:Automata】二週目開始！今明かされるもう一つの物語  -完全初見 #5-【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=6vwmYpi0jYA
+DESCRIPTION:【GUILTY GEAR -STRIVE-】GUILTY GEAR最新作！先行プレイ！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=dtO5XDA4eLo
 DURATION:PT2H
-DTSTART:20210216T110000Z
-SUMMARY:🍕アルランディス: 【NieR:Automata】二週目開始！今明かされるもう一つの物語  -完全初見 #5-【アルランディス/ホロスターズ】
-UID:6vwmYpi0jYA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】おしゃフェスの感想とか近況とか【影山シエン/ホロスタ―ズ】\nhttps://www.youtube.com/watch?v=JPjBZQ1YnGY
-DURATION:PT2H
-DTSTART:20210215T090000Z
-SUMMARY:影山シエン: 【雑談】おしゃフェスの感想とか近況とか【影山シエン/ホロスタ―ズ】
-UID:JPjBZQ1YnGY
+DTSTART:20210216T100000Z
+SUMMARY:🍷夕刻ロベル: 【GUILTY GEAR -STRIVE-】GUILTY GEAR最新作！先行プレイ！！【ホロスターズ/夕刻ロベル】
+UID:dtO5XDA4eLo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Apex Legends】モザンビークHERE!!!!!!!!!!【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=6LvZJXJWlvU
@@ -51,6 +51,13 @@ DURATION:PT2H
 DTSTART:20210215T083000Z
 SUMMARY:🍕アルランディス: 【Apex Legends】モザンビークHERE!!!!!!!!!!【アルランディス/ホロスターズ】
 UID:6LvZJXJWlvU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】おしゃフェスの感想とか近況とか【影山シエン/ホロスタ―ズ】\nhttps://www.youtube.com/watch?v=JPjBZQ1YnGY
+DURATION:PT2H
+DTSTART:20210215T090000Z
+SUMMARY:影山シエン: 【雑談】おしゃフェスの感想とか近況とか【影山シエン/ホロスタ―ズ】
+UID:JPjBZQ1YnGY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【NieR:Automata】難易度HARD 機械ドレスの女討伐後～【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=T9GvmJ9RBUU
