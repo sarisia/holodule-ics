@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:Senin Pantun holoID #4 + Behind the Scene\nhttps://www.youtube.com/watch?v=SXx-Yb-RffY
-DURATION:PT2H
-DTSTART:20210215T013001Z
-SUMMARY:IDholo: Senin Pantun holoID #4 + Behind the Scene
-UID:SXx-Yb-RffY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Celebration】Let's do a Birthday Party!!!【Moona】\nhttps://www.youtube.com/watch?v=ejeGPrAHlQ8
 DURATION:PT2H
 DTSTART:20210215T160000Z
@@ -46,53 +39,11 @@ SUMMARY:Ollie: 【MARIO KART 8 DELUXE】GAS!! GAS??? GAAAAAAAS!!!!!!!【Hololive
 UID:iKm6mdE7Lsc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:An Interview With Iofi\nhttps://www.youtube.com/watch?v=_dwl_zfWo3E
-DURATION:PT2H
-DTSTART:20210215T153853Z
-SUMMARY:🎨Iofi: An Interview With Iofi
-UID:_dwl_zfWo3E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Freetalk Celebration】Totsumachi birthday!! Call me!【Moona】\nhttps://www.youtube.com/watch?v=PyiDtgqhK-0
-DURATION:PT2H
-DTSTART:20210215T100000Z
-SUMMARY:🔮Moona: 【Freetalk Celebration】Totsumachi birthday!! Call me!【Moona】
-UID:PyiDtgqhK-0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[VOD] お兄ちゃんのチョコ [Hololive ID gen 2]\nhttps://www.youtube.com/watch?v=cNS4m7bq9qo
-DURATION:PT2H
-DTSTART:20210214T154640Z
-SUMMARY:Ollie: [VOD] お兄ちゃんのチョコ [Hololive ID gen 2]
-UID:cNS4m7bq9qo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【hololiveID】AREA 15 FEBRUARY EDITION!!【Generation 1】\nhttps://www.youtube.com/watch?v=vsdV79rft6c
-DURATION:PT2H
-DTSTART:20210215T133000Z
-SUMMARY:🔮Moona: 【hololiveID】AREA 15 FEBRUARY EDITION!!【Generation 1】
-UID:vsdV79rft6c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Freetalk Celebration】Let's Countdown my birthday!!!【Moona】\nhttps://www.youtube.com/watch?v=e7U4BHTuXRM
-DURATION:PT2H
-DTSTART:20210214T160000Z
-SUMMARY:🔮Moona: 【Freetalk Celebration】Let's Countdown my birthday!!!【Moona】
-UID:e7U4BHTuXRM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Original Song】愛の小さな歌 || Ai no Chiisana Uta - Moona Hoshinova\nhttps://www.youtube.com/watch?v=q4N7EhUWOAA
 DURATION:PT2H
 DTSTART:20210216T123000Z
 SUMMARY:🔮Moona: 【Original Song】愛の小さな歌 || Ai no Chiisana Uta - Moona Hoshinova
 UID:q4N7EhUWOAA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Undertale】Absolute First Time Playing!! Let's GO!!!【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=HnVfAAr-Rmw
-DURATION:PT2H
-DTSTART:20210216T140000Z
-SUMMARY:Reine: 【Undertale】Absolute First Time Playing!! Let's GO!!!【hololiveID 2nd generation】
-UID:HnVfAAr-Rmw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:yebebebebebebebebebebebe\nhttps://www.youtube.com/watch?v=211DezD90tY
@@ -102,10 +53,17 @@ SUMMARY:🐿Risu: yebebebebebebebebebebebe
 UID:211DezD90tY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【hololiveID】#6 NieR:Automata GUERILLA STREAM IKZ BECAUSE I WANT TO PLAY SO MUCH!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=gGggU1z83lk
+DESCRIPTION:【Undertale】Absolute First Time Playing!! Let's GO!!!【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=HnVfAAr-Rmw
 DURATION:PT2H
-DTSTART:20210215T091500Z
-SUMMARY:🐿Risu: 【hololiveID】#6 NieR:Automata GUERILLA STREAM IKZ BECAUSE I WANT TO PLAY SO MUCH!!!【Ayunda Risu】
-UID:gGggU1z83lk
+DTSTART:20210216T140000Z
+SUMMARY:Reine: 【Undertale】Absolute First Time Playing!! Let's GO!!!【hololiveID 2nd generation】
+UID:HnVfAAr-Rmw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:An Interview With Iofi\nhttps://www.youtube.com/watch?v=_dwl_zfWo3E
+DURATION:PT2H
+DTSTART:20210215T153853Z
+SUMMARY:🎨Iofi: An Interview With Iofi
+UID:_dwl_zfWo3E
 END:VEVENT
 END:VCALENDAR
