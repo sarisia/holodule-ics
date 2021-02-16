@@ -18,18 +18,18 @@ SUMMARY:🌲大神ミオ: おはよ！朝だよ～！雑談だよ！【珍】
 UID:m6L1hEhAD7E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[NEW COSTUME]✨アイドル衣装お披露目✨[SUPER IDOL]\nhttps://www.youtube.com/watch?v=skeC80CGejI
-DURATION:PT2H
-DTSTART:20210215T124500Z
-SUMMARY:🐉桐生ココ: [NEW COSTUME]✨アイドル衣装お披露目✨[SUPER IDOL]
-UID:skeC80CGejI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【GUILTYGEAR-STRIVE-】プロの方々に混じって大変恐縮ではありますが【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=V0WrGzIX1bU
 DURATION:PT2H
 DTSTART:20210216T120000Z
 SUMMARY:荒咬オウガ: 【GUILTYGEAR-STRIVE-】プロの方々に混じって大変恐縮ではありますが【荒咬オウガ/ホロスターズ】
 UID:V0WrGzIX1bU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[NEW COSTUME]✨アイドル衣装お披露目✨[SUPER IDOL]\nhttps://www.youtube.com/watch?v=skeC80CGejI
+DURATION:PT2H
+DTSTART:20210215T124500Z
+SUMMARY:🐉桐生ココ: [NEW COSTUME]✨アイドル衣装お披露目✨[SUPER IDOL]
+UID:skeC80CGejI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【NieR:Automata】二週目開始！今明かされるもう一つの物語  -完全初見 #5-【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=6vwmYpi0jYA
@@ -109,11 +109,11 @@ SUMMARY:Amelia: 【VALENTINES】W-will you...?
 UID:Ww8HYMWdA3E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】非常にまったりする【ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=dgM9Cb_TJxE
+DESCRIPTION:今日はみんなと楽しく雑談だ♪★\nhttps://www.youtube.com/watch?v=VnKH7xC49Qw
 DURATION:PT2H
-DTSTART:20210215T090000Z
-SUMMARY:桃鈴ねね: 【Minecraft】非常にまったりする【ホロライブ/桃鈴ねね】
-UID:dgM9Cb_TJxE
+DTSTART:20210215T140000Z
+SUMMARY:🥐戌神ころね: 今日はみんなと楽しく雑談だ♪★
+UID:VnKH7xC49Qw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Undertale】はじめてのアンダーテール#1【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=lbbRRPTMkuc
@@ -123,18 +123,11 @@ SUMMARY:🏴☠宝鐘マリン: 【Undertale】はじめてのアンダーテー
 UID:lbbRRPTMkuc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #ホロふぉーす​アイドル衣装​  プレミア公開を同時視聴！】\nhttps://www.youtube.com/watch?v=QGP9FFan1JM
+DESCRIPTION:【Minecraft】非常にまったりする【ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=dgM9Cb_TJxE
 DURATION:PT2H
-DTSTART:20210215T124000Z
-SUMMARY:🐉桐生ココ: 【 #ホロふぉーす​アイドル衣装​  プレミア公開を同時視聴！】
-UID:QGP9FFan1JM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:今日はみんなと楽しく雑談だ♪★\nhttps://www.youtube.com/watch?v=VnKH7xC49Qw
-DURATION:PT2H
-DTSTART:20210215T140000Z
-SUMMARY:🥐戌神ころね: 今日はみんなと楽しく雑談だ♪★
-UID:VnKH7xC49Qw
+DTSTART:20210215T090000Z
+SUMMARY:桃鈴ねね: 【Minecraft】非常にまったりする【ホロライブ/桃鈴ねね】
+UID:dgM9Cb_TJxE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:HERE IS HAACHAMA\nhttps://www.youtube.com/watch?v=hVbVxMV6V4w
@@ -142,6 +135,13 @@ DURATION:PT2H
 DTSTART:20210215T154103Z
 SUMMARY:❤赤井はあと: HERE IS HAACHAMA
 UID:hVbVxMV6V4w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #ホロふぉーす​アイドル衣装​  プレミア公開を同時視聴！】\nhttps://www.youtube.com/watch?v=QGP9FFan1JM
+DURATION:PT2H
+DTSTART:20210215T124000Z
+SUMMARY:🐉桐生ココ: 【 #ホロふぉーす​アイドル衣装​  プレミア公開を同時視聴！】
+UID:QGP9FFan1JM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:『Bloom\,』直前！ライブに向かって盛り上がろう配信【#ホロライブアイドル道​】\nhttps://www.youtube.com/watch?v=1ubc3AC5orc
@@ -179,11 +179,11 @@ SUMMARY:🍎アキロゼ: 【ASMRあり！？】Happy Valentine💓【ホロラ�
 UID:QQKLdyO7KbA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】おしゃフェスの感想とか近況とか【影山シエン/ホロスタ―ズ】\nhttps://www.youtube.com/watch?v=JPjBZQ1YnGY
+DESCRIPTION:【NieR:Automata】難易度HARD 機械ドレスの女討伐後～【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=T9GvmJ9RBUU
 DURATION:PT2H
-DTSTART:20210215T090000Z
-SUMMARY:影山シエン: 【雑談】おしゃフェスの感想とか近況とか【影山シエン/ホロスタ―ズ】
-UID:JPjBZQ1YnGY
+DTSTART:20210216T060000Z
+SUMMARY:🦔💨岸堂天真: 【NieR:Automata】難易度HARD 機械ドレスの女討伐後～【岸堂天真/ホロスターズ】
+UID:T9GvmJ9RBUU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マイクラ】ホロIDモールに麺屋ぼたんを作るぞい！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=yAtETXrwGmo
@@ -193,11 +193,11 @@ SUMMARY:獅白ぼたん: 【マイクラ】ホロIDモールに麺屋ぼたん�
 UID:yAtETXrwGmo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【NieR:Automata】難易度HARD 機械ドレスの女討伐後～【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=T9GvmJ9RBUU
+DESCRIPTION:【雑談】おしゃフェスの感想とか近況とか【影山シエン/ホロスタ―ズ】\nhttps://www.youtube.com/watch?v=JPjBZQ1YnGY
 DURATION:PT2H
-DTSTART:20210216T060000Z
-SUMMARY:🦔💨岸堂天真: 【NieR:Automata】難易度HARD 機械ドレスの女討伐後～【岸堂天真/ホロスターズ】
-UID:T9GvmJ9RBUU
+DTSTART:20210215T090000Z
+SUMMARY:影山シエン: 【雑談】おしゃフェスの感想とか近況とか【影山シエン/ホロスタ―ズ】
+UID:JPjBZQ1YnGY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【hololiveID】#6 NieR:Automata GUERILLA STREAM IKZ BECAUSE I WANT TO PLAY SO MUCH!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=gGggU1z83lk
@@ -298,6 +298,13 @@ SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－火曜
 UID:xDxeXHx6Qww
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Freetalk Celebration】Let's Countdown my birthday!!!【Moona】\nhttps://www.youtube.com/watch?v=e7U4BHTuXRM
+DURATION:PT2H
+DTSTART:20210214T160000Z
+SUMMARY:🔮Moona: 【Freetalk Celebration】Let's Countdown my birthday!!!【Moona】
+UID:e7U4BHTuXRM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】２PCチャレンジしながら白上とハンマーチャレンジ👊【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=_jIFARu7zTU
 DURATION:PT2H
 DTSTART:20210215T153000Z
@@ -326,6 +333,13 @@ SUMMARY:🐏角巻わため: 【 #ホロふぉーす​アイドル衣装 】羊
 UID:T5wFlLYS-hc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:CHIT CHAT ねるまえざつだん！\nhttps://www.youtube.com/watch?v=0lNFmvFmJxw
+DURATION:PT2H
+DTSTART:20210215T143000Z
+SUMMARY:🐉桐生ココ: CHIT CHAT ねるまえざつだん！
+UID:0lNFmvFmJxw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【弾き語り枠】1日遅れバレンタインLOVE SONG【律可/ホロスターズ】＃りつすた\nhttps://www.youtube.com/watch?v=YTnJaJzSABg
 DURATION:PT2H
 DTSTART:20210215T103000Z
@@ -338,13 +352,6 @@ DURATION:PT2H
 DTSTART:20210215T140000Z
 SUMMARY:雪花ラミィ: 【重大告知】すごいプロジェクト始まりました！！！！【雪花ラミィ/ホロライブ】
 UID:Y6Mf4MC5Tyw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CHIT CHAT ねるまえざつだん！\nhttps://www.youtube.com/watch?v=0lNFmvFmJxw
-DURATION:PT2H
-DTSTART:20210215T143000Z
-SUMMARY:🐉桐生ココ: CHIT CHAT ねるまえざつだん！
-UID:0lNFmvFmJxw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Minecraft 】しけ村長魔王がゆく！にぇ！✨【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=JLgN-F-9eQc
@@ -368,13 +375,6 @@ SUMMARY:ホロライブ: 【お披露目】ホロライブ4期生のアイドル
 UID:YmATu5Q6_30
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【VALENTINE'S PARTY】Eating Left Over Chocolate\, No\, I Am Not an Addict. :}#Holomyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=GrBh2JjDZTg
-DURATION:PT2H
-DTSTART:20210215T053320Z
-SUMMARY:Calli: 【VALENTINE'S PARTY】Eating Left Over Chocolate\, No\, I Am Not an Addict. :}#Holomyth #HololiveEnglish
-UID:GrBh2JjDZTg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【しゃべフェス】みんなで感想話すところ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=1Lknb7SjZrs
 DURATION:PT2H
 DTSTART:20210215T120000Z
@@ -382,11 +382,25 @@ SUMMARY:🍕アルランディス: 【しゃべフェス】みんなで感想話
 UID:1Lknb7SjZrs
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【VALENTINE'S PARTY】Eating Left Over Chocolate\, No\, I Am Not an Addict. :}#Holomyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=GrBh2JjDZTg
+DURATION:PT2H
+DTSTART:20210215T053320Z
+SUMMARY:Calli: 【VALENTINE'S PARTY】Eating Left Over Chocolate\, No\, I Am Not an Addict. :}#Holomyth #HololiveEnglish
+UID:GrBh2JjDZTg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 つぐのひ】  〜ねこのひ怪奇譚〜【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=vC8hK8JOqhI
 DURATION:PT2H
 DTSTART:20210215T140000Z
 SUMMARY:🌽白上フブキ: 【 つぐのひ】  〜ねこのひ怪奇譚〜【ホロライブ/白上フブキ】
 UID:vC8hK8JOqhI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:1st LIVE Bloom\,直前！出演メンバー意気込み逆凸【友人A(えーちゃん)/ホロライブ】\nhttps://www.youtube.com/watch?v=n1lG83m71Ms
+DURATION:PT2H
+DTSTART:20210216T110000Z
+SUMMARY:ホロライブ: 1st LIVE Bloom\,直前！出演メンバー意気込み逆凸【友人A(えーちゃん)/ホロライブ】
+UID:n1lG83m71Ms
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TAKAMORI WATCH-A-LONG】SHREK 1 & 2 #HoloMyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=nvZcIGnCSrs
@@ -459,13 +473,6 @@ SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－月曜
 UID:KcGrSWYgg4g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 映画鑑賞会＊メン限 】「シン・ゴジラ」一緒に観ようなのら🎬✨【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=ob_nwhMf4ok
-DURATION:PT2H
-DTSTART:20210216T130000Z
-SUMMARY:🍬姫森ルーナ: 【 映画鑑賞会＊メン限 】「シン・ゴジラ」一緒に観ようなのら🎬✨【姫森ルーナ/ホロライブ】
-UID:ob_nwhMf4ok
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Valentine's Day [reverse]\nhttps://www.youtube.com/watch?v=P9qTNwTHmwI
 DURATION:PT2H
 DTSTART:20210215T030010Z
@@ -480,11 +487,11 @@ SUMMARY:⚒AZKi: 【Among Us】はじめてのあまんぐあす ～AZKi視点�
 UID:-T2_IX_0fyg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:第二回、ホロメン勝手に属性分け!?✨ﾃﾞﾚﾏｽﾘｽﾍﾟｸﾄ【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=bFjm2-p314c
+DESCRIPTION:【 映画鑑賞会＊メン限 】「シン・ゴジラ」一緒に観ようなのら🎬✨【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=ob_nwhMf4ok
 DURATION:PT2H
-DTSTART:20210215T113000Z
-SUMMARY:☄星街すいせい: 第二回、ホロメン勝手に属性分け!?✨ﾃﾞﾚﾏｽﾘｽﾍﾟｸﾄ【ホロライブ / 星街すいせい】
-UID:bFjm2-p314c
+DTSTART:20210216T130000Z
+SUMMARY:🍬姫森ルーナ: 【 映画鑑賞会＊メン限 】「シン・ゴジラ」一緒に観ようなのら🎬✨【姫森ルーナ/ホロライブ】
+UID:ob_nwhMf4ok
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #ホロふぉーす​アイドル衣装 】ルーナのアイドル衣装をお披露目なのら！！✨【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=cWcDyQsqmRI
@@ -492,6 +499,13 @@ DURATION:PT2H
 DTSTART:20210215T133000Z
 SUMMARY:🍬姫森ルーナ: 【 #ホロふぉーす​アイドル衣装 】ルーナのアイドル衣装をお披露目なのら！！✨【姫森ルーナ/ホロライブ】
 UID:cWcDyQsqmRI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:第二回、ホロメン勝手に属性分け!?✨ﾃﾞﾚﾏｽﾘｽﾍﾟｸﾄ【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=bFjm2-p314c
+DURATION:PT2H
+DTSTART:20210215T113000Z
+SUMMARY:☄星街すいせい: 第二回、ホロメン勝手に属性分け!?✨ﾃﾞﾚﾏｽﾘｽﾍﾟｸﾄ【ホロライブ / 星街すいせい】
+UID:bFjm2-p314c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Freetalk Celebration】Totsumachi birthday!! Call me!【Moona】\nhttps://www.youtube.com/watch?v=PyiDtgqhK-0
@@ -520,13 +534,6 @@ DURATION:PT2H
 DTSTART:20210216T110000Z
 SUMMARY:🚑大空スバル: 【】企画かゲーム！【】
 UID:3gOhLstrTvs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Freetalk Celebration】Let's Countdown my birthday!!!【Moona】\nhttps://www.youtube.com/watch?v=e7U4BHTuXRM
-DURATION:PT2H
-DTSTART:20210214T160000Z
-SUMMARY:🔮Moona: 【Freetalk Celebration】Let's Countdown my birthday!!!【Moona】
-UID:e7U4BHTuXRM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Superchat Reading】SUPA SUNDAY(30 min late...)\nhttps://www.youtube.com/watch?v=b1rpvGYYNI4
