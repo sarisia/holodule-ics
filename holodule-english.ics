@@ -4,32 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【WATCHALONG】POKEMON 2000 BABY\nhttps://www.youtube.com/watch?v=7-y8bVOb-cs
-DURATION:PT2H
-DTSTART:20210220T060000Z
-SUMMARY:Amelia: 【WATCHALONG】POKEMON 2000 BABY
-UID:7-y8bVOb-cs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【TAKAMORI CONCERT】I wanna see you again sometime Part 2 (Archived) #TAKAMORI\nhttps://www.youtube.com/watch?v=I8M4BvdxOVY
-DURATION:PT2H
-DTSTART:20210220T055000Z
-SUMMARY:Kiara: 【TAKAMORI CONCERT】I wanna see you again sometime Part 2 (Archived) #TAKAMORI
-UID:I8M4BvdxOVY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Hollow Knight】 Boin\nhttps://www.youtube.com/watch?v=g2nhZWbFy7g
 DURATION:PT2H
 DTSTART:20210219T200000Z
 SUMMARY:Ina: 【Hollow Knight】 Boin
 UID:g2nhZWbFy7g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【YUME NIKKI - 日本語配信】今回も頑張りたい！！チャレンジ！B} #Holomyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=uO91b4Mnwqo
-DURATION:PT2H
-DTSTART:20210220T120322Z
-SUMMARY:Calli: 【YUME NIKKI - 日本語配信】今回も頑張りたい！！チャレンジ！B} #Holomyth #HololiveEnglish
-UID:uO91b4Mnwqo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Mario Galaxy】Cleaning up the Galaxy  | Mario Galaxy #7\nhttps://www.youtube.com/watch?v=K86Lky4gnFI
@@ -46,11 +25,18 @@ SUMMARY:Kiara: 【KIARAxNENE】 O'riends 2nd CONCERT【Oレンズです！】#oR
 UID:_4tWosZ5iJY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Oblivion】May Akatosh shine light upon this stream | ES:IV #3\nhttps://www.youtube.com/watch?v=rD2eOy0BoMY
+DESCRIPTION:【WATCHALONG】POKEMON 2000 BABY\nhttps://www.youtube.com/watch?v=7-y8bVOb-cs
 DURATION:PT2H
-DTSTART:20210219T021500Z
-SUMMARY:Amelia: 【Oblivion】May Akatosh shine light upon this stream | ES:IV #3
-UID:rD2eOy0BoMY
+DTSTART:20210220T060000Z
+SUMMARY:Amelia: 【WATCHALONG】POKEMON 2000 BABY
+UID:7-y8bVOb-cs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【TAKAMORI CONCERT】I wanna see you again sometime Part 2 (Archived) #TAKAMORI\nhttps://www.youtube.com/watch?v=I8M4BvdxOVY
+DURATION:PT2H
+DTSTART:20210220T055000Z
+SUMMARY:Kiara: 【TAKAMORI CONCERT】I wanna see you again sometime Part 2 (Archived) #TAKAMORI
+UID:I8M4BvdxOVY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[PROJECT DIVA: MEGA MIX] MIKUMIKUMIKU\nhttps://www.youtube.com/watch?v=V1Z_-4ArsY4
