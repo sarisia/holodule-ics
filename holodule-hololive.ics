@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:とこまちラジオ(仮) ＃5【戌亥とこ×星街すいせい】\nhttps://www.youtube.com/watch?v=5JpC8ec5dfw
+DURATION:PT2H
+DTSTART:20210224T140000Z
+SUMMARY:☄星街すいせい: とこまちラジオ(仮) ＃5【戌亥とこ×星街すいせい】
+UID:5JpC8ec5dfw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:UNDERTALE2周目！Gルートを目指す #2【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=f-cmhr7qqgw
 DURATION:PT2H
 DTSTART:20210223T120000Z
@@ -25,11 +32,25 @@ SUMMARY:💫天音かなた: ありがとう。
 UID:s9EZiXwy4Hc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【歌枠】まつり成分補充しろ～！/singing【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=bp90-c2fOXc
+DURATION:PT2H
+DTSTART:20210224T090000Z
+SUMMARY:🏮夏色まつり: 【歌枠】まつり成分補充しろ～！/singing【ホロライブ/夏色まつり】
+UID:bp90-c2fOXc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【】\nhttps://www.youtube.com/watch?v=uryelR5u9PQ
 DURATION:PT2H
 DTSTART:20210223T150000Z
 SUMMARY:❤赤井はあと: 【】
 UID:uryelR5u9PQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【起きれたら】UNDERTALE2周目！Gルートラスボスを倒す #3【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=xEFql1T8nzM
+DURATION:PT2H
+DTSTART:20210224T050000Z
+SUMMARY:☄星街すいせい: 【起きれたら】UNDERTALE2周目！Gルートラスボスを倒す #3【ホロライブ / 星街すいせい】
+UID:xEFql1T8nzM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【完全初見プレイ/First Play】Undertale 【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=1RHGYmMaos0
