@@ -4,39 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Paper Please】Let me check your paper!【Moona】\nhttps://www.youtube.com/watch?v=uG0seAXv0EM
-DURATION:PT2H
-DTSTART:20210224T120000Z
-SUMMARY:🔮Moona: 【Paper Please】Let me check your paper!【Moona】
-UID:uG0seAXv0EM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【日本語雑談】ランダムなイオフィとランダムなIOFORIA達【hololiveID】\nhttps://www.youtube.com/watch?v=zROl_FUUGAA
 DURATION:PT2H
 DTSTART:20210225T120000Z
 SUMMARY:🎨Iofi: 【日本語雑談】ランダムなイオフィとランダムなIOFORIA達【hololiveID】
 UID:zROl_FUUGAA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Crystar】YOU CAN PET THE DOG IN THIS GAME【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=1MJEHSEks5M
-DURATION:PT2H
-DTSTART:20210224T140000Z
-SUMMARY:Anya: 【Crystar】YOU CAN PET THE DOG IN THIS GAME【hololive Indonesia 2nd Generation】
-UID:1MJEHSEks5M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DEVOUR】HOLORO? HORRORO! @Anya Melfissa Ch. hololive-ID @Pavolia Reine Ch. hololive-ID 【HoloID 2nd】\nhttps://www.youtube.com/watch?v=2RoGbjugock
-DURATION:PT2H
-DTSTART:20210225T113000Z
-SUMMARY:Ollie: 【DEVOUR】HOLORO? HORRORO! @Anya Melfissa Ch. hololive-ID @Pavolia Reine Ch. hololive-ID 【HoloID 2nd】
-UID:2RoGbjugock
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【INFLICTION】I Hope Sarah Will Behave Today...【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=9ZAqQamU4uw
-DURATION:PT2H
-DTSTART:20210225T140000Z
-SUMMARY:Anya: 【INFLICTION】I Hope Sarah Will Behave Today...【hololive Indonesia 2nd Generation】
-UID:9ZAqQamU4uw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DEVOUR】(HOLORO) I thought this was a game about eating...?【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=f-2jw9p1QBQ
@@ -46,25 +18,18 @@ SUMMARY:Reine: 【DEVOUR】(HOLORO) I thought this was a game about eating...?�
 UID:f-2jw9p1QBQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Feeling Over the Moon! Move in + Chill Stream【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=Wj3bD36Pako
-DURATION:PT2H
-DTSTART:20210224T140000Z
-SUMMARY:Reine: 【Minecraft】Feeling Over the Moon! Move in + Chill Stream【hololiveID 2nd generation】
-UID:Wj3bD36Pako
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】 TEAM KECAP SERAAANG!!!! w/ @Jaret Fajrianto 【GHOSTY's COMIC】  【Hololive ID Generasi 2】\nhttps://www.youtube.com/watch?v=XZj05IVJK_8
-DURATION:PT2H
-DTSTART:20210224T115807Z
-SUMMARY:Ollie: 【APEX】 TEAM KECAP SERAAANG!!!! w/ @Jaret Fajrianto 【GHOSTY's COMIC】  【Hololive ID Generasi 2】
-UID:XZj05IVJK_8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DEVOUR】We've Got Some Exorcising Job On The Way【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=crXHz8DaAiA
 DURATION:PT2H
 DTSTART:20210225T113000Z
 SUMMARY:Anya: 【DEVOUR】We've Got Some Exorcising Job On The Way【hololive Indonesia 2nd Generation】
 UID:crXHz8DaAiA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【INFLICTION】I Hope Sarah Will Behave Today...【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=9ZAqQamU4uw
+DURATION:PT2H
+DTSTART:20210225T140000Z
+SUMMARY:Anya: 【INFLICTION】I Hope Sarah Will Behave Today...【hololive Indonesia 2nd Generation】
+UID:9ZAqQamU4uw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SUPER SMASH BROS】ZOMBIE BATTLE-ROYALE\, COME AT ME!!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=-ljc09mzbAM
@@ -74,10 +39,10 @@ SUMMARY:Ollie: 【SUPER SMASH BROS】ZOMBIE BATTLE-ROYALE\, COME AT ME!!!【Holo
 UID:-ljc09mzbAM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【hololiveID】SPICY RAMEN DINNER DATE WITH REINE ~!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=xUblu0s9wIE
+DESCRIPTION:【DEVOUR】HOLORO? HORRORO! @Anya Melfissa Ch. hololive-ID @Pavolia Reine Ch. hololive-ID 【HoloID 2nd】\nhttps://www.youtube.com/watch?v=2RoGbjugock
 DURATION:PT2H
-DTSTART:20210224T113000Z
-SUMMARY:🐿Risu: 【hololiveID】SPICY RAMEN DINNER DATE WITH REINE ~!!!【Ayunda Risu】
-UID:xUblu0s9wIE
+DTSTART:20210225T113000Z
+SUMMARY:Ollie: 【DEVOUR】HOLORO? HORRORO! @Anya Melfissa Ch. hololive-ID @Pavolia Reine Ch. hololive-ID 【HoloID 2nd】
+UID:2RoGbjugock
 END:VEVENT
 END:VCALENDAR
