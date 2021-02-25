@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【同時視聴】主人公は五条さんって人ですか・・・？【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=a4ui3Td2QE4
+DURATION:PT2H
+DTSTART:20210225T140000Z
+SUMMARY:🏮夏色まつり: 【同時視聴】主人公は五条さんって人ですか・・・？【ホロライブ/夏色まつり】
+UID:a4ui3Td2QE4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マイクラ】ししろフーズ社員寮の増築をするぞい【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=zuPocCji06c
 DURATION:PT2H
 DTSTART:20210225T130000Z
@@ -109,11 +116,11 @@ SUMMARY:🍬姫森ルーナ: 【 APEX 】姫のFPS(・o・🍬)【姫森ルー�
 UID:s7j6fXWFFAc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【アルチキ】公式番組前に遊びちらかす！白角雪桃わちゃわちゃ４人組【ホロライブ/白上フブキ/角巻わため/雪花ラミィ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=K0WBLODVfy8
+DESCRIPTION:【♯生スバル】今日はバナナでキメる：Sausage  Legend【レート1000↑】\nhttps://www.youtube.com/watch?v=8WzZjLlVOpc
 DURATION:PT2H
-DTSTART:20210225T094500Z
-SUMMARY:🌽白上フブキ: 【アルチキ】公式番組前に遊びちらかす！白角雪桃わちゃわちゃ４人組【ホロライブ/白上フブキ/角巻わため/雪花ラミィ/桃鈴ねね】
-UID:K0WBLODVfy8
+DTSTART:20210225T113000Z
+SUMMARY:🚑大空スバル: 【♯生スバル】今日はバナナでキメる：Sausage  Legend【レート1000↑】
+UID:8WzZjLlVOpc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Among Us】推理は得意なほうなのですッ！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=vtOASL1tYF4
@@ -121,13 +128,6 @@ DURATION:PT2H
 DTSTART:20210224T113000Z
 SUMMARY:🏮夏色まつり: 【Among Us】推理は得意なほうなのですッ！【ホロライブ/夏色まつり】
 UID:vtOASL1tYF4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【♯生スバル】今日はバナナでキメる：Sausage  Legend【レート1000↑】\nhttps://www.youtube.com/watch?v=8WzZjLlVOpc
-DURATION:PT2H
-DTSTART:20210225T113000Z
-SUMMARY:🚑大空スバル: 【♯生スバル】今日はバナナでキメる：Sausage  Legend【レート1000↑】
-UID:8WzZjLlVOpc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:VICTORY\nhttps://www.youtube.com/watch?v=Bp1Oz1Orv3k
