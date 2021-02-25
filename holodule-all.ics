@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【同時視聴】主人公は五条さんって人ですか・・・？【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=a4ui3Td2QE4
+DURATION:PT2H
+DTSTART:20210225T140000Z
+SUMMARY:🏮夏色まつり: 【同時視聴】主人公は五条さんって人ですか・・・？【ホロライブ/夏色まつり】
+UID:a4ui3Td2QE4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マイクラ】ししろフーズ社員寮の増築をするぞい【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=zuPocCji06c
 DURATION:PT2H
 DTSTART:20210225T130000Z
@@ -151,11 +158,25 @@ SUMMARY:🐻ときのそら: 【※ネタバレあり】今日からはじまる
 UID:1NK4aPhQQdo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－週末の朝。朝を迎えた週末。－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=WABtmbLZZrw
+DURATION:PT2H
+DTSTART:20210226T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－週末の朝。朝を迎えた週末。－【ホロスターズ/夕刻ロベル】
+UID:WABtmbLZZrw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【UNDERTALE】初見！誰も倒さなくていいRPGで既に一匹やりました🐸#2【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=P9VWopkM2lo
 DURATION:PT2H
 DTSTART:20210224T150000Z
 SUMMARY:🔥不知火フレア: 【UNDERTALE】初見！誰も倒さなくていいRPGで既に一匹やりました🐸#2【ホロライブ/不知火フレア】
 UID:P9VWopkM2lo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【※ネタバレあり】初めての牧場物語！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=QsC4FkhZhsQ
+DURATION:PT2H
+DTSTART:20210226T000000Z
+SUMMARY:雪花ラミィ: 【※ネタバレあり】初めての牧場物語！【雪花ラミィ/ホロライブ】
+UID:QsC4FkhZhsQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－週末が近づいてくる匂いのする木曜日－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=4HcTJj6GnOU
