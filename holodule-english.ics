@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【KARAOKE】 Tako Sings\nhttps://www.youtube.com/watch?v=ACV-i-b10io
+DURATION:PT2H
+DTSTART:20210226T230000Z
+SUMMARY:Ina: 【KARAOKE】 Tako Sings
+UID:ACV-i-b10io
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:CALLIOPE MORI - Channel Trailer - Hololive English #hololiveenglish #holomyth\nhttps://www.youtube.com/watch?v=KzLoNtvNIE4
 DURATION:PT2H
 DTSTART:20210226T063000Z
