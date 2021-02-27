@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:歌と雑談の朝【奏手イヅル】\nhttps://www.youtube.com/watch?v=hAe0sdERmxI
-DURATION:PT2H
-DTSTART:20210227T023000Z
-SUMMARY:🎸奏手イヅル: 歌と雑談の朝【奏手イヅル】
-UID:hAe0sdERmxI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【宇宙船生存ゲーム】トラウマ。【TIN CAN】\nhttps://www.youtube.com/watch?v=05wAo_RcbOU
 DURATION:PT2H
 DTSTART:20210227T160000Z
@@ -32,11 +25,11 @@ SUMMARY:🎭アステル・レダ: 【月一談義】2月編！！！！！！�
 UID:sxucSJc4wBU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【CUPHEAD】まさかの花岸初耐久!!カプヘクリア耐久だあああ!!!!【岸堂天真/花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=FhA7elgbxYQ
+DESCRIPTION:【雑談】トーキング・レダ / アステル\nhttps://www.youtube.com/watch?v=HDxXxAULQ_A
 DURATION:PT2H
-DTSTART:20210227T060000Z
-SUMMARY:🦔💨岸堂天真: 【CUPHEAD】まさかの花岸初耐久!!カプヘクリア耐久だあああ!!!!【岸堂天真/花咲みやび/ホロスターズ】
-UID:FhA7elgbxYQ
+DTSTART:20210227T172000Z
+SUMMARY:🎭アステル・レダ: 【雑談】トーキング・レダ / アステル
+UID:HDxXxAULQ_A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【AMSR】ゲーミングチェアが組み立てられないって？仕方ないなぁ・・・【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=GLP-dfRJ7s0
@@ -51,5 +44,19 @@ DURATION:PT2H
 DTSTART:20210226T150000Z
 SUMMARY:荒咬オウガ: 【※ネタバレあり】スローライフって忙しい【牧場物語　オリーブタウンと希望の大地#3】
 UID:YqnLBAPyPGk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CUPHEAD】まさかの花岸初耐久!!カプヘクリア耐久だあああ!!!!【岸堂天真/花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=FhA7elgbxYQ
+DURATION:PT2H
+DTSTART:20210227T060000Z
+SUMMARY:🦔💨岸堂天真: 【CUPHEAD】まさかの花岸初耐久!!カプヘクリア耐久だあああ!!!!【岸堂天真/花咲みやび/ホロスターズ】
+UID:FhA7elgbxYQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:歌と雑談の朝【奏手イヅル】\nhttps://www.youtube.com/watch?v=hAe0sdERmxI
+DURATION:PT2H
+DTSTART:20210227T023000Z
+SUMMARY:🎸奏手イヅル: 歌と雑談の朝【奏手イヅル】
+UID:hAe0sdERmxI
 END:VEVENT
 END:VCALENDAR
