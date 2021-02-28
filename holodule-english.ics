@@ -18,13 +18,6 @@ SUMMARY:Calli: 【OMORI #04】More Mori Playing OMORI! The Story Continues... #H
 UID:UJPO5d13lr4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DRAWING】 Gesture Drawing + Doodles #18\nhttps://www.youtube.com/watch?v=suBM-PkkcSY
-DURATION:PT2H
-DTSTART:20210228T200000Z
-SUMMARY:Ina: 【DRAWING】 Gesture Drawing + Doodles #18
-UID:suBM-PkkcSY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【WATCHALONG】KNOIVES OUT [post-poned sorry ): ]\nhttps://www.youtube.com/watch?v=QnvRaqzubUk
 DURATION:PT2H
 DTSTART:20210302T030000Z
@@ -32,11 +25,18 @@ SUMMARY:Amelia: 【WATCHALONG】KNOIVES OUT [post-poned sorry ): ]
 UID:QnvRaqzubUk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【A Hat in Time】 Let Me Borrow Your Hat!!! Co-op with Ame!!\nhttps://www.youtube.com/watch?v=XMo7Zjww-d4
+DESCRIPTION:【Superchat Reading】SUPA SUNDAY\nhttps://www.youtube.com/watch?v=HlBxuNe9dvg
 DURATION:PT2H
-DTSTART:20210227T221000Z
-SUMMARY:Ina: 【A Hat in Time】 Let Me Borrow Your Hat!!! Co-op with Ame!!
-UID:XMo7Zjww-d4
+DTSTART:20210228T231000Z
+SUMMARY:Amelia: 【Superchat Reading】SUPA SUNDAY
+UID:HlBxuNe9dvg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Atelier Ryza 2】fii. fii...? fii!!!!!   #kfp #キアライブ\nhttps://www.youtube.com/watch?v=75BFuhPVQkk
+DURATION:PT2H
+DTSTART:20210301T130000Z
+SUMMARY:Kiara: 【Atelier Ryza 2】fii. fii...? fii!!!!!   #kfp #キアライブ
+UID:75BFuhPVQkk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HAT IN TIME】Inaaaa Ameeeee\nhttps://www.youtube.com/watch?v=7QtmW1XQUl0
@@ -44,5 +44,19 @@ DURATION:PT2H
 DTSTART:20210227T221000Z
 SUMMARY:Amelia: 【HAT IN TIME】Inaaaa Ameeeee
 UID:7QtmW1XQUl0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DRAWING】 Gesture Drawing + Doodles #18\nhttps://www.youtube.com/watch?v=suBM-PkkcSY
+DURATION:PT2H
+DTSTART:20210228T200000Z
+SUMMARY:Ina: 【DRAWING】 Gesture Drawing + Doodles #18
+UID:suBM-PkkcSY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【A Hat in Time】 Let Me Borrow Your Hat!!! Co-op with Ame!!\nhttps://www.youtube.com/watch?v=XMo7Zjww-d4
+DURATION:PT2H
+DTSTART:20210227T221000Z
+SUMMARY:Ina: 【A Hat in Time】 Let Me Borrow Your Hat!!! Co-op with Ame!!
+UID:XMo7Zjww-d4
 END:VEVENT
 END:VCALENDAR
