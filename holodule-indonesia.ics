@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Chilling in the morning【Moona】\nhttps://www.youtube.com/watch?v=frda_fLVs8k
+DURATION:PT2H
+DTSTART:20210302T010000Z
+SUMMARY:🔮Moona: 【Minecraft】Chilling in the morning【Moona】
+UID:frda_fLVs8k
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【LIVE DRAW】IKEMEN ZOMBIE\, TURKEY AND KNIFE【hololiveID】\nhttps://www.youtube.com/watch?v=9af1_Qmckws
 DURATION:PT2H
 DTSTART:20210302T130000Z
@@ -23,26 +30,5 @@ DURATION:PT2H
 DTSTART:20210302T083000Z
 SUMMARY:🐿Risu: 【hololiveID】#10 NieR:Automata Guerilla ROUTE B RTA !!!!!【Ayunda Risu】
 UID:jm6jIkSKo3E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Chilling in the morning【Moona】\nhttps://www.youtube.com/watch?v=frda_fLVs8k
-DURATION:PT2H
-DTSTART:20210302T010000Z
-SUMMARY:🔮Moona: 【Minecraft】Chilling in the morning【Moona】
-UID:frda_fLVs8k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【hololiveID】March Free Talk with Risuwuwuwuwu ~【Ayunda Risu】\nhttps://www.youtube.com/watch?v=pMHYm5Zhgcw
-DURATION:PT2H
-DTSTART:20210302T130000Z
-SUMMARY:🐿Risu: 【hololiveID】March Free Talk with Risuwuwuwuwu ~【Ayunda Risu】
-UID:pMHYm5Zhgcw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Among Us​】More Space Shenanigans【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=_WLICvWtMUw
-DURATION:PT2H
-DTSTART:20210302T133000Z
-SUMMARY:Anya: 【Among Us​】More Space Shenanigans【hololive Indonesia 2nd Generation】
-UID:_WLICvWtMUw
 END:VEVENT
 END:VCALENDAR
