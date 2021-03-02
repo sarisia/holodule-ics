@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Atelier Ryza 2】fii. fii...? fii!!!!!   #kfp #キアライブ\nhttps://www.youtube.com/watch?v=75BFuhPVQkk
-DURATION:PT2H
-DTSTART:20210301T130000Z
-SUMMARY:Kiara: 【Atelier Ryza 2】fii. fii...? fii!!!!!   #kfp #キアライブ
-UID:75BFuhPVQkk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DRAWING】 Gesture Drawing + Doodles #18\nhttps://www.youtube.com/watch?v=suBM-PkkcSY
 DURATION:PT2H
 DTSTART:20210228T200000Z
@@ -25,10 +18,24 @@ SUMMARY:Amelia: 【WATCHALONG】KNOIVES OUT
 UID:QnvRaqzubUk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Atelier Ryza 2】fii. fii...? fii!!!!!   #kfp #キアライブ\nhttps://www.youtube.com/watch?v=75BFuhPVQkk
+DURATION:PT2H
+DTSTART:20210301T130000Z
+SUMMARY:Kiara: 【Atelier Ryza 2】fii. fii...? fii!!!!!   #kfp #キアライブ
+UID:75BFuhPVQkk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Superchat Reading】SUPA SUNDAY\nhttps://www.youtube.com/watch?v=HlBxuNe9dvg
 DURATION:PT2H
 DTSTART:20210228T231000Z
 SUMMARY:Amelia: 【Superchat Reading】SUPA SUNDAY
 UID:HlBxuNe9dvg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SMS】I have restored my sanity and I am ready to lose it again.【Part 4】#kfp #キアライブ #SummerWithKiara\nhttps://www.youtube.com/watch?v=obpdb4auxrY
+DURATION:PT2H
+DTSTART:20210302T140000Z
+SUMMARY:Kiara: 【SMS】I have restored my sanity and I am ready to lose it again.【Part 4】#kfp #キアライブ #SummerWithKiara
+UID:obpdb4auxrY
 END:VEVENT
 END:VCALENDAR
