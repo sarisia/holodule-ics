@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ウマ娘】ハルウララと温泉行くぺこ！！！！！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=W5pZjNCm9Yk
+DURATION:PT2H
+DTSTART:20210308T120000Z
+SUMMARY:👯兎田ぺこら: 【ウマ娘】ハルウララと温泉行くぺこ！！！！！【ホロライブ/兎田ぺこら】
+UID:W5pZjNCm9Yk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】はじめてだから姫プしろ【視聴者参加型】桐生ココ\nhttps://www.youtube.com/watch?v=-hvLAbkJYAU
 DURATION:PT2H
 DTSTART:20210308T100000Z
@@ -114,6 +121,13 @@ DURATION:PT2H
 DTSTART:20210308T020000Z
 SUMMARY:🦔💨岸堂天真: 【ウマ娘】シンボリルドルフでURA優勝目指す配信!!【岸堂天真/ホロスターズ】
 UID:6dVaBwpxlqM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ASMR】イタリア式ピザ作りASMR【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=3bOMZCmCB0U
+DURATION:PT2H
+DTSTART:20210309T120000Z
+SUMMARY:🍕アルランディス: 【ASMR】イタリア式ピザ作りASMR【アルランディス/ホロスターズ】
+UID:3bOMZCmCB0U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Hollow Knight】 LAMP 【#8.55】\nhttps://www.youtube.com/watch?v=u6J94L4mPpg
@@ -228,11 +242,11 @@ SUMMARY:🍕アルランディス: 【ウマ娘 プリティダービー】中�
 UID:DmsQoQOiPqk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】CRカップ練習カスタム#2【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=vGR9oVzcqiQ
+DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－火曜日の朝を迎えた男の朝活－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=5bHvWI2PyQU
 DURATION:PT2H
-DTSTART:20210308T120000Z
-SUMMARY:🏮夏色まつり: 【APEX】CRカップ練習カスタム#2【ホロライブ/夏色まつり】
-UID:vGR9oVzcqiQ
+DTSTART:20210309T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－火曜日の朝を迎えた男の朝活－【ホロスターズ/夕刻ロベル】
+UID:5bHvWI2PyQU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】🍑SING🍑【ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=judZi1eMWas
@@ -240,13 +254,6 @@ DURATION:PT2H
 DTSTART:20210308T090000Z
 SUMMARY:桃鈴ねね: 【歌枠】🍑SING🍑【ホロライブ/桃鈴ねね】
 UID:judZi1eMWas
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－火曜日の朝を迎えた男の朝活－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=5bHvWI2PyQU
-DURATION:PT2H
-DTSTART:20210309T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－火曜日の朝を迎えた男の朝活－【ホロスターズ/夕刻ロベル】
-UID:5bHvWI2PyQU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Among US】突発あもあす！【律可・えりー・カワセ・ゼルク・ソバルト・けんつめし・ぶや・らん・桐島・聖女れりあ・日ノ隈らん】#りつすた\nhttps://www.youtube.com/watch?v=WDqasPaeOsk
@@ -296,12 +303,5 @@ DURATION:PT2H
 DTSTART:20210308T110000Z
 SUMMARY:⚙律可: #14【RiTunes Labo】生セッション歌枠：ゲスト『水野あつ』【律可/ホロスターズ 】#りちゅらぼ
 UID:O_xwFByMyYI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】チームVORUTO、三人そろった！✨【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=poylZo_iJlE
-DURATION:PT2H
-DTSTART:20210308T120000Z
-SUMMARY:👾常闇トワ: 【APEX】チームVORUTO、三人そろった！✨【常闇トワ/ホロライブ】
-UID:poylZo_iJlE
 END:VEVENT
 END:VCALENDAR

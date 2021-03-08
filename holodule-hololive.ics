@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ウマ娘】ハルウララと温泉行くぺこ！！！！！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=W5pZjNCm9Yk
+DURATION:PT2H
+DTSTART:20210308T120000Z
+SUMMARY:👯兎田ぺこら: 【ウマ娘】ハルウララと温泉行くぺこ！！！！！【ホロライブ/兎田ぺこら】
+UID:W5pZjNCm9Yk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ハーバリウム作り】かなたのイメージハーバリウムを作ろう！💫【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=Uq_mmq69X_A
 DURATION:PT2H
 DTSTART:20210308T010000Z
@@ -123,13 +130,6 @@ SUMMARY:🔥不知火フレア: 【スマブラＳＰ】えっ！？未だに全
 UID:yke0NKSZHR8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】CRカップ練習カスタム#2【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=vGR9oVzcqiQ
-DURATION:PT2H
-DTSTART:20210308T120000Z
-SUMMARY:🏮夏色まつり: 【APEX】CRカップ練習カスタム#2【ホロライブ/夏色まつり】
-UID:vGR9oVzcqiQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠】🍑SING🍑【ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=judZi1eMWas
 DURATION:PT2H
 DTSTART:20210308T090000Z
@@ -163,12 +163,5 @@ DURATION:PT2H
 DTSTART:20210308T110000Z
 SUMMARY:🏴☠宝鐘マリン: 【青鬼】逃げろ!!!!!鬼ごっこホラー【ホロライブ/宝鐘マリン】
 UID:qxXjTRJPIN4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】チームVORUTO、三人そろった！✨【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=poylZo_iJlE
-DURATION:PT2H
-DTSTART:20210308T120000Z
-SUMMARY:👾常闇トワ: 【APEX】チームVORUTO、三人そろった！✨【常闇トワ/ホロライブ】
-UID:poylZo_iJlE
 END:VEVENT
 END:VCALENDAR
