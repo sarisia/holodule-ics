@@ -88,18 +88,18 @@ SUMMARY:ホロライブ: 【アニメ】食われるかも……
 UID:u-Fvkyp8I4c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Hollow Knight】 LAMP 【#8.55】\nhttps://www.youtube.com/watch?v=u6J94L4mPpg
-DURATION:PT2H
-DTSTART:20210307T210000Z
-SUMMARY:Ina: 【Hollow Knight】 LAMP 【#8.55】
-UID:u6J94L4mPpg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【秘封ナイトメアダイアリー】誰が出るのかどんなストーリーなのか…すべてが初見！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=hHYEFiStC_8
 DURATION:PT2H
 DTSTART:20210308T120000Z
 SUMMARY:🍕アルランディス: 【秘封ナイトメアダイアリー】誰が出るのかどんなストーリーなのか…すべてが初見！【アルランディス/ホロスターズ】
 UID:hHYEFiStC_8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Hollow Knight】 LAMP 【#8.55】\nhttps://www.youtube.com/watch?v=u6J94L4mPpg
+DURATION:PT2H
+DTSTART:20210307T210000Z
+SUMMARY:Ina: 【Hollow Knight】 LAMP 【#8.55】
+UID:u6J94L4mPpg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ウマ娘】URAファイナルズ優勝したいーーーー！！！！！！！\nhttps://www.youtube.com/watch?v=xg4UE1h8xhM
@@ -207,13 +207,6 @@ SUMMARY:🌽白上フブキ: 【Hidden Through Time】見つけられるかな�
 UID:Nnq6r2PJYyU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ウマ娘プリティーダービー】娘を一位にさせます【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=RrUp8gGbI-I
-DURATION:PT2H
-DTSTART:20210307T060000Z
-SUMMARY:☄星街すいせい: 【ウマ娘プリティーダービー】娘を一位にさせます【ホロライブ / 星街すいせい】
-UID:RrUp8gGbI-I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Among US】突発あもあす！【律可・えりー・カワセ・ゼルク・ソバルト・けんつめし・ぶや・らん・桐島・聖女れりあ・日ノ隈らん】#りつすた\nhttps://www.youtube.com/watch?v=WDqasPaeOsk
 DURATION:PT2H
 DTSTART:20210307T163500Z
@@ -226,6 +219,13 @@ DURATION:PT2H
 DTSTART:20210308T140000Z
 SUMMARY:雪花ラミィ: 配信予定！【雪花ラミィ/ホロライブ】
 UID:cgBYAhOV_0w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ウマ娘プリティーダービー】娘を一位にさせます【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=RrUp8gGbI-I
+DURATION:PT2H
+DTSTART:20210307T060000Z
+SUMMARY:☄星街すいせい: 【ウマ娘プリティーダービー】娘を一位にさせます【ホロライブ / 星街すいせい】
+UID:RrUp8gGbI-I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Let’s study English together📝2日目！基礎の基礎から勉強だ～！！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=kbi7zraLxYg
@@ -256,18 +256,18 @@ SUMMARY:👯兎田ぺこら: 【ドラゴンクエスト11S】ついに全員集
 UID:h0uNflIUOQs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【はいしんよてい】【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=qxXjTRJPIN4
-DURATION:PT2H
-DTSTART:20210308T110000Z
-SUMMARY:🏴☠宝鐘マリン: 【はいしんよてい】【ホロライブ/宝鐘マリン】
-UID:qxXjTRJPIN4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 SFC版：ドラクエ５】姫、ブーメランを手に入れる(・o・🍬) ※ネタバレあり【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=0tNBZeWh8vA
 DURATION:PT2H
 DTSTART:20210308T050000Z
 SUMMARY:🍬姫森ルーナ: 【 SFC版：ドラクエ５】姫、ブーメランを手に入れる(・o・🍬) ※ネタバレあり【姫森ルーナ/ホロライブ】
 UID:0tNBZeWh8vA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【はいしんよてい】【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=qxXjTRJPIN4
+DURATION:PT2H
+DTSTART:20210308T110000Z
+SUMMARY:🏴☠宝鐘マリン: 【はいしんよてい】【ホロライブ/宝鐘マリン】
+UID:qxXjTRJPIN4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌ってみた】歌う💢KARAOKE singing【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=Xj_nQp20ws0
@@ -289,6 +289,13 @@ DURATION:PT2H
 DTSTART:20210307T130000Z
 SUMMARY:獅白ぼたん: 【DEVOUR】OKBR vs 謎のカルト教団【獅白ぼたん/ホロライブ】
 UID:Z8FZjYbM9cg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ウマ娘 プリティダービー】URA優勝したい！！！！！！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=-A1s7RV6xak
+DURATION:PT2H
+DTSTART:20210308T090000Z
+SUMMARY:🦋潤羽るしあ: 【ウマ娘 プリティダービー】URA優勝したい！！！！！！【潤羽るしあ/ホロライブ】
+UID:-A1s7RV6xak
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【OMORI - FINAL Part 1】Until Near the End..! Will it Rain\, I Wonder...? #Holomyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=FyRvyWgXvss
@@ -347,6 +354,13 @@ SUMMARY:🔮Moona: 【Minecraft】Chilling in the afternoon【Moona】
 UID:diY_-2DQZ3M
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【APEX】RANKED BBY( post poned till monday)\nhttps://www.youtube.com/watch?v=DYTLbDffouA
+DURATION:PT2H
+DTSTART:20210309T030500Z
+SUMMARY:Amelia: 【APEX】RANKED BBY( post poned till monday)
+UID:DYTLbDffouA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マイクラ】エンドコラボで最初に迷わない視点 #ちょこポルフレマイクラ【尾丸ポルカ/不知火フレア/癒月ちょこ/ホロライブ】\nhttps://www.youtube.com/watch?v=eC_tE39ht_g
 DURATION:PT2H
 DTSTART:20210307T130000Z
@@ -403,18 +417,18 @@ SUMMARY:Ina: 【A Hat in Time】 Have you seen my hat??? Co-op with Ame!!
 UID:F01hqFWk6-Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Whispering\nhttps://www.youtube.com/watch?v=FltVzvBEfR0
-DURATION:PT2H
-DTSTART:20210306T162730Z
-SUMMARY:💫天音かなた: Whispering
-UID:FltVzvBEfR0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ウマ娘 プリティーダービー】中距離・長距離の育成をしたい男のウマ娘【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=T2lqpNhI_d0
 DURATION:PT2H
 DTSTART:20210308T040000Z
 SUMMARY:🍷夕刻ロベル: 【ウマ娘 プリティーダービー】中距離・長距離の育成をしたい男のウマ娘【ホロスターズ/夕刻ロベル】
 UID:T2lqpNhI_d0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Whispering\nhttps://www.youtube.com/watch?v=FltVzvBEfR0
+DURATION:PT2H
+DTSTART:20210306T162730Z
+SUMMARY:💫天音かなた: Whispering
+UID:FltVzvBEfR0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ハーバリウム作り】かなたのイメージハーバリウムを作ろう！💫【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=Uq_mmq69X_A
@@ -520,6 +534,13 @@ DURATION:PT2H
 DTSTART:20210308T003000Z
 SUMMARY:Amelia: 【Superchat Reading】SUPA SUNDAY (slight delay)
 UID:ab0ZiCP-Ot8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】🍑SING🍑【ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=judZi1eMWas
+DURATION:PT2H
+DTSTART:20210308T090000Z
+SUMMARY:桃鈴ねね: 【歌枠】🍑SING🍑【ホロライブ/桃鈴ねね】
+UID:judZi1eMWas
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#14【RiTunes Labo】生セッション歌枠：ゲスト『水野あつ』【律可/ホロスターズ 】#りちゅらぼ\nhttps://www.youtube.com/watch?v=O_xwFByMyYI
