@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【晩酌 】久々にほろ酔い雑談しよっ！💭tipsy talk【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=VS6NIKAh9jc
+DURATION:PT2H
+DTSTART:20210310T150000Z
+SUMMARY:🔥不知火フレア: 【晩酌 】久々にほろ酔い雑談しよっ！💭tipsy talk【ホロライブ/不知火フレア】
+UID:VS6NIKAh9jc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ウマ娘ガチャ】ミホノブルボンなら俺の隣で寝てるよ？【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=eS9ry9yOsTo
 DURATION:PT2H
 DTSTART:20210309T080000Z
@@ -16,13 +23,6 @@ DURATION:PT2H
 DTSTART:20210309T140000Z
 SUMMARY:🐏角巻わため: 【※ネタバレあり】ひつじが始める牧場物語 -オリーブタウンと希望の大地-【角巻わため/ホロライブ４期生】
 UID:LG1MrWvqOFM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 おしゃべるーな 】雑学のあるお話(・o・🍬)【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=q-t2eUHc3_o
-DURATION:PT2H
-DTSTART:20210309T140000Z
-SUMMARY:🍬姫森ルーナ: 【 おしゃべるーな 】雑学のあるお話(・o・🍬)【姫森ルーナ/ホロライブ】
-UID:q-t2eUHc3_o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#04【ドラゴンクエスト11S】旅は道連れ世は情け...仲間も増えてワイワイ行こう！【白銀ノエル/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=Da2nO7q2Nfw
@@ -191,6 +191,13 @@ DURATION:PT2H
 DTSTART:20210309T130000Z
 SUMMARY:🏴☠宝鐘マリン: 【SMB2】初見マリオ2！歴代最難関らしいが…!?【ホロライブ/宝鐘マリン】
 UID:x2M04z6W5JU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 ウマ娘プリティーダービー 】新ガチャとテイオーを3冠ウマ娘にしたいにぇ！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=pUMcXcE1aGc
+DURATION:PT2H
+DTSTART:20210309T110000Z
+SUMMARY:🌸さくらみこ: 【 ウマ娘プリティーダービー 】新ガチャとテイオーを3冠ウマ娘にしたいにぇ！！！！【ホロライブ/さくらみこ】
+UID:pUMcXcE1aGc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ＡＮＧＲＹ\nhttps://www.youtube.com/watch?v=OnlPD_zZPYo

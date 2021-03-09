@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【晩酌 】久々にほろ酔い雑談しよっ！💭tipsy talk【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=VS6NIKAh9jc
+DURATION:PT2H
+DTSTART:20210310T150000Z
+SUMMARY:🔥不知火フレア: 【晩酌 】久々にほろ酔い雑談しよっ！💭tipsy talk【ホロライブ/不知火フレア】
+UID:VS6NIKAh9jc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ウマ娘ガチャ】ミホノブルボンなら俺の隣で寝てるよ？【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=eS9ry9yOsTo
 DURATION:PT2H
 DTSTART:20210309T080000Z
@@ -16,13 +23,6 @@ DURATION:PT2H
 DTSTART:20210309T140000Z
 SUMMARY:🐏角巻わため: 【※ネタバレあり】ひつじが始める牧場物語 -オリーブタウンと希望の大地-【角巻わため/ホロライブ４期生】
 UID:LG1MrWvqOFM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 おしゃべるーな 】雑学のあるお話(・o・🍬)【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=q-t2eUHc3_o
-DURATION:PT2H
-DTSTART:20210309T140000Z
-SUMMARY:🍬姫森ルーナ: 【 おしゃべるーな 】雑学のあるお話(・o・🍬)【姫森ルーナ/ホロライブ】
-UID:q-t2eUHc3_o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#04【ドラゴンクエスト11S】旅は道連れ世は情け...仲間も増えてワイワイ行こう！【白銀ノエル/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=Da2nO7q2Nfw
@@ -114,13 +114,6 @@ DURATION:PT2H
 DTSTART:20210309T030000Z
 SUMMARY:🦔💨岸堂天真: 【歌枠】3月9日なので3月9日だけを歌い続ける枠【岸堂天真/ホロスターズ】
 UID:URw9ZGIDG7o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】An Adventure with Calliope-senpai~♪ #deadbeaks【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=ZoPxELWrdOU
-DURATION:PT2H
-DTSTART:20210309T140000Z
-SUMMARY:Reine: 【Minecraft】An Adventure with Calliope-senpai~♪ #deadbeaks【hololiveID 2nd generation】
-UID:ZoPxELWrdOU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【カニノケンカ-Fight Crab-】カニは美味しい！！！【ホロライブ/アキロゼAkirose】\nhttps://www.youtube.com/watch?v=HGleB170TfE
@@ -235,6 +228,13 @@ SUMMARY:⚓湊あくあ: 【APEX】ソロマスターちゃれんじ！一日目
 UID:sQ-1o5Nm88s
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【弾き語り枠】ミクの日！！！ボカロ縛りで歌うぞ！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=UZgHX8sKGnE
+DURATION:PT2H
+DTSTART:20210309T140000Z
+SUMMARY:⚙律可: 【弾き語り枠】ミクの日！！！ボカロ縛りで歌うぞ！【律可/ホロスターズ】#りつすた
+UID:UZgHX8sKGnE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【GTAV】今日も一悪しちゃおっかな😎I think I'll have another bad day.【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=1DfjUCMZYoU
 DURATION:PT2H
 DTSTART:20210309T100000Z
@@ -303,6 +303,13 @@ DURATION:PT2H
 DTSTART:20210309T143000Z
 SUMMARY:Anya: 【Yonakatsu】who said i can't have a toast stream at night【hololive Indonesia 2nd Generation】
 UID:FlF6bCFf3qE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 ウマ娘プリティーダービー 】新ガチャとテイオーを3冠ウマ娘にしたいにぇ！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=pUMcXcE1aGc
+DURATION:PT2H
+DTSTART:20210309T110000Z
+SUMMARY:🌸さくらみこ: 【 ウマ娘プリティーダービー 】新ガチャとテイオーを3冠ウマ娘にしたいにぇ！！！！【ホロライブ/さくらみこ】
+UID:pUMcXcE1aGc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ngaaaa (1)\nhttps://www.youtube.com/watch?v=6CHoUX7-tTw
