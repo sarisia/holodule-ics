@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【APEX】いつも尊敬してる先輩が僕の壁になってくれるらしい!!【ゆるスタ/ホロスターズ】\nhttps://www.youtube.com/watch?v=UCBBi-J-f2A
-DURATION:PT2H
-DTSTART:20210312T120000Z
-SUMMARY:🦔💨岸堂天真: 【APEX】いつも尊敬してる先輩が僕の壁になってくれるらしい!!【ゆるスタ/ホロスターズ】
-UID:UCBBi-J-f2A
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ケーキ食べたので歌いに来ました【奏手イヅル】\nhttps://www.youtube.com/watch?v=5oDgNL_vk1A
 DURATION:PT2H
 DTSTART:20210312T150000Z
@@ -18,18 +11,18 @@ SUMMARY:🎸奏手イヅル: ケーキ食べたので歌いに来ました【奏
 UID:5oDgNL_vk1A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝活！】Please Talk me How to learn Japanese【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=osyP9hRlvwU
+DESCRIPTION:【Unravel two】協力プレイ！毛糸で繋がれた2人の冒険！【律可/影山シエン】#シャドウギア #ホロスターズ\nhttps://www.youtube.com/watch?v=OixEL_numF0
 DURATION:PT2H
-DTSTART:20210311T213000Z
-SUMMARY:🍕アルランディス: 【朝活！】Please Talk me How to learn Japanese【アルランディス/ホロスターズ】
-UID:osyP9hRlvwU
+DTSTART:20210312T130000Z
+SUMMARY:⚙律可: 【Unravel two】協力プレイ！毛糸で繋がれた2人の冒険！【律可/影山シエン】#シャドウギア #ホロスターズ
+UID:OixEL_numF0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ウマ娘 プリティーダービー】ウマ娘の勉強をする男【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=_bcRPJZ0jkY
+DESCRIPTION:【マスター目指すよ】メイカさんと二人でランクやるぽよん【APEX】\nhttps://www.youtube.com/watch?v=0qneZNfnmhk
 DURATION:PT2H
-DTSTART:20210312T090000Z
-SUMMARY:🍷夕刻ロベル: 【ウマ娘 プリティーダービー】ウマ娘の勉強をする男【ホロスターズ/夕刻ロベル】
-UID:_bcRPJZ0jkY
+DTSTART:20210312T171500Z
+SUMMARY:🎭アステル・レダ: 【マスター目指すよ】メイカさんと二人でランクやるぽよん【APEX】
+UID:0qneZNfnmhk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】深夜のtalk【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=BHLjfSwM4LQ
@@ -39,11 +32,18 @@ SUMMARY:荒咬オウガ: 【雑談】深夜のtalk【荒咬オウガ/ホロス�
 UID:BHLjfSwM4LQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】１００KILLするまで終わらない耐久!！泣きの５KILL。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=qd7YLpoN40I
+DESCRIPTION:【APEX】いつも尊敬してる先輩が僕の壁になってくれるらしい!!【ゆるスタ/ホロスターズ】\nhttps://www.youtube.com/watch?v=UCBBi-J-f2A
 DURATION:PT2H
-DTSTART:20210311T210500Z
-SUMMARY:🌺花咲みやび: 【APEX】１００KILLするまで終わらない耐久!！泣きの５KILL。【花咲みやび/ホロスターズ】
-UID:qd7YLpoN40I
+DTSTART:20210312T120000Z
+SUMMARY:🦔💨岸堂天真: 【APEX】いつも尊敬してる先輩が僕の壁になってくれるらしい!!【ゆるスタ/ホロスターズ】
+UID:UCBBi-J-f2A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活！】Please Talk me How to learn Japanese【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=osyP9hRlvwU
+DURATION:PT2H
+DTSTART:20210311T213000Z
+SUMMARY:🍕アルランディス: 【朝活！】Please Talk me How to learn Japanese【アルランディス/ホロスターズ】
+UID:osyP9hRlvwU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－金曜日だということに気づいた男の朝活－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=K_kHSoG0LwY
@@ -51,5 +51,19 @@ DURATION:PT2H
 DTSTART:20210312T010000Z
 SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－金曜日だということに気づいた男の朝活－【ホロスターズ/夕刻ロベル】
 UID:K_kHSoG0LwY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】１００KILLするまで終わらない耐久!！泣きの５KILL。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=qd7YLpoN40I
+DURATION:PT2H
+DTSTART:20210311T210500Z
+SUMMARY:🌺花咲みやび: 【APEX】１００KILLするまで終わらない耐久!！泣きの５KILL。【花咲みやび/ホロスターズ】
+UID:qd7YLpoN40I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ウマ娘 プリティーダービー】ウマ娘の勉強をする男【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=_bcRPJZ0jkY
+DURATION:PT2H
+DTSTART:20210312T090000Z
+SUMMARY:🍷夕刻ロベル: 【ウマ娘 プリティーダービー】ウマ娘の勉強をする男【ホロスターズ/夕刻ロベル】
+UID:_bcRPJZ0jkY
 END:VEVENT
 END:VCALENDAR
