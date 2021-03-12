@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【AI Dungeon】Let's do some creative writing!【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=0yWICsOyjbg
+DESCRIPTION:【hololiveID】~ W H I S T L E ~【Ayunda Risu】\nhttps://www.youtube.com/watch?v=g2QUiO_jwuI
 DURATION:PT2H
-DTSTART:20210311T040000Z
-SUMMARY:Reine: 【AI Dungeon】Let's do some creative writing!【hololiveID 2nd generation】
-UID:0yWICsOyjbg
+DTSTART:20210312T140000Z
+SUMMARY:🐿Risu: 【hololiveID】~ W H I S T L E ~【Ayunda Risu】
+UID:g2QUiO_jwuI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:UYYEEEYYY !!!!!!\nhttps://www.youtube.com/watch?v=F7yh_zb_uMs
+DURATION:PT2H
+DTSTART:20210311T150611Z
+SUMMARY:🐿Risu: UYYEEEYYY !!!!!!
+UID:F7yh_zb_uMs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TETRIS 99】STACKING BLOCKS BE LIKE-【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=e2QOItLqQFQ
@@ -18,25 +25,11 @@ SUMMARY:Ollie: 【TETRIS 99】STACKING BLOCKS BE LIKE-【Hololive Indonesia 2nd 
 UID:e2QOItLqQFQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】MAKING TRAPS IN THE MAZE!!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=uMVlc-Y7oTw
-DURATION:PT2H
-DTSTART:20210311T082739Z
-SUMMARY:Ollie: 【MINECRAFT】MAKING TRAPS IN THE MAZE!!!【Hololive Indonesia 2nd Gen】
-UID:uMVlc-Y7oTw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:WELCOME TO THE SHIP\, REINE! Let's Explore!\nhttps://www.youtube.com/watch?v=ub9JFErF8ZM
 DURATION:PT2H
 DTSTART:20210312T140000Z
 SUMMARY:🎨Iofi: WELCOME TO THE SHIP\, REINE! Let's Explore!
 UID:ub9JFErF8ZM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BIRTHDAY COUNTDOWN】It's Here...【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=1jgF9HOJLzE
-DURATION:PT2H
-DTSTART:20210311T162000Z
-SUMMARY:Anya: 【BIRTHDAY COUNTDOWN】It's Here...【hololive Indonesia 2nd Generation】
-UID:1jgF9HOJLzE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Cooking Simulator】Baking for the Birthday Girl【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=eQg4rZkcxjY
@@ -46,38 +39,17 @@ SUMMARY:Reine: 【Cooking Simulator】Baking for the Birthday Girl【hololiveID 
 UID:eQg4rZkcxjY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【BIRTHDAY COUNTDOWN】It's Here...【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=1jgF9HOJLzE
+DURATION:PT2H
+DTSTART:20210311T162000Z
+SUMMARY:Anya: 【BIRTHDAY COUNTDOWN】It's Here...【hololive Indonesia 2nd Generation】
+UID:1jgF9HOJLzE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【BIRTHDAY 2021】Let's Party! 誕生日パーティーだあああああぁぁあああ！！【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=qFK00nopb1Y
 DURATION:PT2H
 DTSTART:20210312T120000Z
 SUMMARY:Anya: 【BIRTHDAY 2021】Let's Party! 誕生日パーティーだあああああぁぁあああ！！【hololive Indonesia 2nd Generation】
 UID:qFK00nopb1Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【hololiveID】~ W H I S T L E ~【Ayunda Risu】\nhttps://www.youtube.com/watch?v=g2QUiO_jwuI
-DURATION:PT2H
-DTSTART:20210312T140000Z
-SUMMARY:🐿Risu: 【hololiveID】~ W H I S T L E ~【Ayunda Risu】
-UID:g2QUiO_jwuI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【KARAOLLIE】SINGIN' TOGETHER!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=eKinmQuVEss
-DURATION:PT2H
-DTSTART:20210311T125811Z
-SUMMARY:Ollie: 【KARAOLLIE】SINGIN' TOGETHER!!【Hololive Indonesia 2nd Gen】
-UID:eKinmQuVEss
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【hololiveID】#1 UNDERTALE LET'S GOOOOOOOO !!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=ab8Jzlxc5hw
-DURATION:PT2H
-DTSTART:20210311T120000Z
-SUMMARY:🐿Risu: 【hololiveID】#1 UNDERTALE LET'S GOOOOOOOO !!!!【Ayunda Risu】
-UID:ab8Jzlxc5hw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:UYYEEEYYY !!!!!!\nhttps://www.youtube.com/watch?v=F7yh_zb_uMs
-DURATION:PT2H
-DTSTART:20210311T150611Z
-SUMMARY:🐿Risu: UYYEEEYYY !!!!!!
-UID:F7yh_zb_uMs
 END:VEVENT
 END:VCALENDAR
