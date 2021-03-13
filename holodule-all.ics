@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【DELTARUNE】A NEW CHAPTER BEGINS!!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=_dgnVH37T84
+DURATION:PT2H
+DTSTART:20210313T112822Z
+SUMMARY:Ollie: 【DELTARUNE】A NEW CHAPTER BEGINS!!!【Hololive Indonesia 2nd Gen】
+UID:_dgnVH37T84
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Opening Presents】Thank You!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=uGE-z1fLX8A
 DURATION:PT2H
 DTSTART:20210313T140000Z
@@ -130,11 +137,25 @@ SUMMARY:🚑大空スバル: 【#最終回】零～眞紅の蝶～をするス�
 UID:85sC99YUkt4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【＃３】 Hollow Knight　【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=JdVTgyyR5Hk
+DURATION:PT2H
+DTSTART:20210314T060000Z
+SUMMARY:🌽白上フブキ: 【＃３】 Hollow Knight　【ホロライブ/白上フブキ】
+UID:JdVTgyyR5Hk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:AO ONI and Regretting The Choices I Make\nhttps://www.youtube.com/watch?v=dA0vE-d7NTU
 DURATION:PT2H
 DTSTART:20210313T140000Z
 SUMMARY:🎨Iofi: AO ONI and Regretting The Choices I Make
 UID:dA0vE-d7NTU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【member-only】【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=_bDOatkf2bg
+DURATION:PT2H
+DTSTART:20210313T151000Z
+SUMMARY:🏴☠宝鐘マリン: 【member-only】【ホロライブ/宝鐘マリン】
+UID:_bDOatkf2bg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[DONT STARVE TOGETHER]  + ANNOUNCEMENTS!!\nhttps://www.youtube.com/watch?v=ouOSumKRFto
@@ -198,6 +219,13 @@ DURATION:PT2H
 DTSTART:20210313T120000Z
 SUMMARY:🍕アルランディス: 【生活向上委員会】よく考えたらうちには何もない【アルランディス/ホロスターズ】
 UID:HU4EDKj6Cs4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【おちゃめ機能】マリン船長が吹っ切れた【ホロライブ/歌ってみた】\nhttps://www.youtube.com/watch?v=zpv1HPrSS5U
+DURATION:PT2H
+DTSTART:20210313T150000Z
+SUMMARY:🏴☠宝鐘マリン: 【おちゃめ機能】マリン船長が吹っ切れた【ホロライブ/歌ってみた】
+UID:zpv1HPrSS5U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Building holoID Shop - Part 4【PavoNova】\nhttps://www.youtube.com/watch?v=CCCE1PKcg7E
@@ -375,6 +403,13 @@ SUMMARY:🔥不知火フレア: 【歌枠 】歌いたい時が歌う時っ！�
 UID:kKCmRcU-VAk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:AO ONI and Regretting The Choices I Make 2\nhttps://www.youtube.com/watch?v=005lxZsjbcU
+DURATION:PT2H
+DTSTART:20210313T141000Z
+SUMMARY:🎨Iofi: AO ONI and Regretting The Choices I Make 2
+UID:005lxZsjbcU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】いつも尊敬してる先輩が僕の壁になってくれるらしい!!【ゆるスタ/ホロスターズ】\nhttps://www.youtube.com/watch?v=UCBBi-J-f2A
 DURATION:PT2H
 DTSTART:20210312T120000Z
@@ -494,18 +529,18 @@ SUMMARY:🐉桐生ココ: 【龍が如く7インターナショナル】フル�
 UID:uSXTDCWjA3A
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【♯12】お覚悟！！！フリーシア&マリス！！！！：GRANBLUE FANTASY【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=zrIDw5iR2x0
+DURATION:PT2H
+DTSTART:20210314T050000Z
+SUMMARY:🚑大空スバル: 【♯12】お覚悟！！！フリーシア&マリス！！！！：GRANBLUE FANTASY【ホロライブ/大空スバル】
+UID:zrIDw5iR2x0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Release PV】Hololive English -Myth- Image Soundtrack (ft. Camellia)\nhttps://www.youtube.com/watch?v=8WDmXoHqgLw
 DURATION:PT2H
 DTSTART:20210313T144500Z
 SUMMARY:ENholo: 【Release PV】Hololive English -Myth- Image Soundtrack (ft. Camellia)
 UID:8WDmXoHqgLw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【hololiveID】~ W H I S T L E ~【Ayunda Risu】\nhttps://www.youtube.com/watch?v=g2QUiO_jwuI
-DURATION:PT2H
-DTSTART:20210312T140000Z
-SUMMARY:🐿Risu: 【hololiveID】~ W H I S T L E ~【Ayunda Risu】
-UID:g2QUiO_jwuI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】#CRカップ　カスタム最終日　カジュアル⇨カスタム【常闇トワ/ホロライブ】#VORUTO\nhttps://www.youtube.com/watch?v=aGLSclc1v4s
@@ -515,11 +550,11 @@ SUMMARY:👾常闇トワ: 【APEX】#CRカップ　カスタム最終日　カ�
 UID:aGLSclc1v4s
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【黒Dio】耳かき中心♡ASMR【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=84ro5HqX_ag
+DESCRIPTION:【hololiveID】~ W H I S T L E ~【Ayunda Risu】\nhttps://www.youtube.com/watch?v=g2QUiO_jwuI
 DURATION:PT2H
-DTSTART:20210313T140000Z
-SUMMARY:雪花ラミィ: 【黒Dio】耳かき中心♡ASMR【雪花ラミィ/ホロライブ】
-UID:84ro5HqX_ag
+DTSTART:20210312T140000Z
+SUMMARY:🐿Risu: 【hololiveID】~ W H I S T L E ~【Ayunda Risu】
+UID:g2QUiO_jwuI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🍸----BAR COCO----🍸晩酌お悩み相談室　桐生ココ/ホロライブ\nhttps://www.youtube.com/watch?v=3XgDCh3O49M
@@ -527,6 +562,13 @@ DURATION:PT2H
 DTSTART:20210312T130000Z
 SUMMARY:🐉桐生ココ: 🍸----BAR COCO----🍸晩酌お悩み相談室　桐生ココ/ホロライブ
 UID:3XgDCh3O49M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【黒Dio】耳かき中心♡ASMR【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=84ro5HqX_ag
+DURATION:PT2H
+DTSTART:20210313T140000Z
+SUMMARY:雪花ラミィ: 【黒Dio】耳かき中心♡ASMR【雪花ラミィ/ホロライブ】
+UID:84ro5HqX_ag
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】#CRカップ　カスタム　DAY6【常闇トワ/ホロライブ】#VORUTO\nhttps://www.youtube.com/watch?v=JnB7SPT_P8I
