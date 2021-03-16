@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン2】はじめてのスプラトゥーン！！！！！【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=TlhUgvd_0Zo
-DURATION:PT2H
-DTSTART:20210315T130000Z
-SUMMARY:🌺花咲みやび: 【スプラトゥーン2】はじめてのスプラトゥーン！！！！！【花咲みやび/ホロスターズ】
-UID:TlhUgvd_0Zo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【THE RIKKA TONE】 I LOVE... /Official髭男dism covered by 律可\nhttps://www.youtube.com/watch?v=oGi8J41AHhg
 DURATION:PT2H
 DTSTART:20210316T110000Z
 SUMMARY:⚙律可: 【THE RIKKA TONE】 I LOVE... /Official髭男dism covered by 律可
 UID:oGi8J41AHhg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Apex Legends】ランクをやるか定かではないが騎士と花の役に立つおいたんでありたい【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=GHW72E3v5k4
-DURATION:PT2H
-DTSTART:20210315T120000Z
-SUMMARY:🍕アルランディス: 【Apex Legends】ランクをやるか定かではないが騎士と花の役に立つおいたんでありたい【アルランディス/ホロスターズ】
-UID:GHW72E3v5k4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－火曜日 is 火曜日－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=0Y6GlNopUrs
@@ -67,18 +53,18 @@ SUMMARY:🍕アルランディス: 【朝活！】Please Tell me your childhood 
 UID:3XcnBRJbhyI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【お昼に運動】自宅でできる運動と雑談と筋肉【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=W8DJ4vazJtQ
-DURATION:PT2H
-DTSTART:20210316T020000Z
-SUMMARY:🍕アルランディス: 【お昼に運動】自宅でできる運動と雑談と筋肉【アルランディス/ホロスターズ】
-UID:W8DJ4vazJtQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【朝活】モルカー１１話を噛み締めながら観る。 Morning Flower【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=g4DWSwgrqtQ
 DURATION:PT2H
 DTSTART:20210315T230000Z
 SUMMARY:🌺花咲みやび: 【朝活】モルカー１１話を噛み締めながら観る。 Morning Flower【花咲みやび/ホロスターズ】
 UID:g4DWSwgrqtQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スプラトゥーン2】はじめてのスプラトゥーン！！！！！【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=TlhUgvd_0Zo
+DURATION:PT2H
+DTSTART:20210315T130000Z
+SUMMARY:🌺花咲みやび: 【スプラトゥーン2】はじめてのスプラトゥーン！！！！！【花咲みやび/ホロスターズ】
+UID:TlhUgvd_0Zo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ウマ娘 プリティダービー】お昼のミッション消化とミホノブルボン育成したい【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=WJnejf5hYOI
@@ -100,5 +86,33 @@ DURATION:PT2H
 DTSTART:20210315T010000Z
 SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－3月も半ば－【ホロスターズ/夕刻ロベル】
 UID:04Lyot9tfR4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Apex Legends】ランクをやるか定かではないが騎士と花の役に立つおいたんでありたい【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=GHW72E3v5k4
+DURATION:PT2H
+DTSTART:20210315T120000Z
+SUMMARY:🍕アルランディス: 【Apex Legends】ランクをやるか定かではないが騎士と花の役に立つおいたんでありたい【アルランディス/ホロスターズ】
+UID:GHW72E3v5k4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Apex Legends】マスターへの道Ⅰ【奏手イヅル】\nhttps://www.youtube.com/watch?v=IP5n_1mKDzo
+DURATION:PT2H
+DTSTART:20210316T150000Z
+SUMMARY:🎸奏手イヅル: 【Apex Legends】マスターへの道Ⅰ【奏手イヅル】
+UID:IP5n_1mKDzo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【お昼に運動】自宅でできる運動と雑談と筋肉【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=W8DJ4vazJtQ
+DURATION:PT2H
+DTSTART:20210316T020000Z
+SUMMARY:🍕アルランディス: 【お昼に運動】自宅でできる運動と雑談と筋肉【アルランディス/ホロスターズ】
+UID:W8DJ4vazJtQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Phasmophobia】いいから早く前に出てよ【風見くく/柚原いづみ/影山シエン/アルランディス】\nhttps://www.youtube.com/watch?v=RIa3fvIgpdg
+DURATION:PT2H
+DTSTART:20210316T131000Z
+SUMMARY:🍕アルランディス: 【Phasmophobia】いいから早く前に出てよ【風見くく/柚原いづみ/影山シエン/アルランディス】
+UID:RIa3fvIgpdg
 END:VEVENT
 END:VCALENDAR
