@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ウマ娘 プリティーダービー】Aランクのウマ娘を育成したい男【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=UcfuOFCsPMA
-DURATION:PT2H
-DTSTART:20210317T100000Z
-SUMMARY:🍷夕刻ロベル: 【ウマ娘 プリティーダービー】Aランクのウマ娘を育成したい男【ホロスターズ/夕刻ロベル】
-UID:UcfuOFCsPMA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【THE RIKKA TONE】 I LOVE... /Official髭男dism covered by 律可\nhttps://www.youtube.com/watch?v=oGi8J41AHhg
 DURATION:PT2H
 DTSTART:20210316T110000Z
@@ -25,25 +18,11 @@ SUMMARY:🦔💨岸堂天真: 【LOOP HERO】裏ボス、ネクロマンサー 1
 UID:SO6rWaXVnhU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝活！】Please Tell me abbreviation Words (me ⇒ ma )【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=vO7fSHHM7OI
-DURATION:PT2H
-DTSTART:20210316T213000Z
-SUMMARY:🍕アルランディス: 【朝活！】Please Tell me abbreviation Words (me ⇒ ma )【アルランディス/ホロスターズ】
-UID:vO7fSHHM7OI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－火曜日 is 火曜日－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=0Y6GlNopUrs
 DURATION:PT2H
 DTSTART:20210316T010000Z
 SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－火曜日 is 火曜日－【ホロスターズ/夕刻ロベル】
 UID:0Y6GlNopUrs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Apex Legends】マスターへの道Ⅰ【奏手イヅル】\nhttps://www.youtube.com/watch?v=IP5n_1mKDzo
-DURATION:PT2H
-DTSTART:20210316T151000Z
-SUMMARY:🎸奏手イヅル: 【Apex Legends】マスターへの道Ⅰ【奏手イヅル】
-UID:IP5n_1mKDzo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マスター目指すよ】真・マスターになる日【APEX】\nhttps://www.youtube.com/watch?v=OPmItLYZE_0
@@ -58,6 +37,48 @@ DURATION:PT2H
 DTSTART:20210316T140000Z
 SUMMARY:🌺花咲みやび: 【ウマ娘 プリティダービー】初心者みやびと天真先生によるウマ娘講座【花咲みやび/岸堂天真/ホロスターズ】
 UID:S9ecHuoovUY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】モルカー１１話を噛み締めながら観る。 Morning Flower【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=g4DWSwgrqtQ
+DURATION:PT2H
+DTSTART:20210315T230000Z
+SUMMARY:🌺花咲みやび: 【朝活】モルカー１１話を噛み締めながら観る。 Morning Flower【花咲みやび/ホロスターズ】
+UID:g4DWSwgrqtQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【LOOP HERO】劇場版 裏ボス攻略 本当の最終回【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=1_zNKKNP1_Q
+DURATION:PT2H
+DTSTART:20210315T215000Z
+SUMMARY:🦔💨岸堂天真: 【LOOP HERO】劇場版 裏ボス攻略 本当の最終回【岸堂天真/ホロスターズ】
+UID:1_zNKKNP1_Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活！】Please Tell me abbreviation Words (me ⇒ ma )【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=vO7fSHHM7OI
+DURATION:PT2H
+DTSTART:20210316T213000Z
+SUMMARY:🍕アルランディス: 【朝活！】Please Tell me abbreviation Words (me ⇒ ma )【アルランディス/ホロスターズ】
+UID:vO7fSHHM7OI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ウマ娘 プリティーダービー】Aランクのウマ娘を育成したい男【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=UcfuOFCsPMA
+DURATION:PT2H
+DTSTART:20210317T100000Z
+SUMMARY:🍷夕刻ロベル: 【ウマ娘 プリティーダービー】Aランクのウマ娘を育成したい男【ホロスターズ/夕刻ロベル】
+UID:UcfuOFCsPMA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Apex Legends】マスターへの道Ⅱ【奏手イヅル】\nhttps://www.youtube.com/watch?v=ntKM7dEizw4
+DURATION:PT2H
+DTSTART:20210317T031500Z
+SUMMARY:🎸奏手イヅル: 【Apex Legends】マスターへの道Ⅱ【奏手イヅル】
+UID:ntKM7dEizw4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Apex Legends】マスターへの道Ⅰ【奏手イヅル】\nhttps://www.youtube.com/watch?v=IP5n_1mKDzo
+DURATION:PT2H
+DTSTART:20210316T151000Z
+SUMMARY:🎸奏手イヅル: 【Apex Legends】マスターへの道Ⅰ【奏手イヅル】
+UID:IP5n_1mKDzo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【わちゃスタ#2】新生活！ホロスターズメンバーの引っ越し先が決定！？【間取りって永遠に見てられる】\nhttps://www.youtube.com/watch?v=Hd_0SX2vYIA
@@ -81,25 +102,11 @@ SUMMARY:⚙律可: 【スーパーマリオ３Dワールド】難しいという
 UID:dzA3ZeTF3V4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝活】モルカー１１話を噛み締めながら観る。 Morning Flower【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=g4DWSwgrqtQ
+DESCRIPTION:【UNDERTALE】初めてのPルート Part4【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=Ftxe2Gc1kGo
 DURATION:PT2H
-DTSTART:20210315T230000Z
-SUMMARY:🌺花咲みやび: 【朝活】モルカー１１話を噛み締めながら観る。 Morning Flower【花咲みやび/ホロスターズ】
-UID:g4DWSwgrqtQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Apex Legends】マスターへの道Ⅱ【奏手イヅル】\nhttps://www.youtube.com/watch?v=ntKM7dEizw4
-DURATION:PT2H
-DTSTART:20210317T031500Z
-SUMMARY:🎸奏手イヅル: 【Apex Legends】マスターへの道Ⅱ【奏手イヅル】
-UID:ntKM7dEizw4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【LOOP HERO】劇場版 裏ボス攻略 本当の最終回【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=1_zNKKNP1_Q
-DURATION:PT2H
-DTSTART:20210315T215000Z
-SUMMARY:🦔💨岸堂天真: 【LOOP HERO】劇場版 裏ボス攻略 本当の最終回【岸堂天真/ホロスターズ】
-UID:1_zNKKNP1_Q
+DTSTART:20210317T130000Z
+SUMMARY:🌺花咲みやび: 【UNDERTALE】初めてのPルート Part4【花咲みやび/ホロスターズ】
+UID:Ftxe2Gc1kGo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Phasmophobia】いいから早く前に出てよ【風見くく/柚原いづみ/影山シエン/アルランディス】\nhttps://www.youtube.com/watch?v=RIa3fvIgpdg
