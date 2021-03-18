@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Ring Fit Adventure】 No Cost Too Great\nhttps://www.youtube.com/watch?v=Ndn6wshN9Ow
-DURATION:PT2H
-DTSTART:20210318T210000Z
-SUMMARY:Ina: 【Ring Fit Adventure】 No Cost Too Great
-UID:Ndn6wshN9Ow
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【AO ONI】Drinking and Screaming with an Old Classic Friend... #Holomyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=4gjnuMHqUpA
 DURATION:PT2H
 DTSTART:20210318T145521Z
@@ -18,17 +11,31 @@ SUMMARY:Calli: 【AO ONI】Drinking and Screaming with an Old Classic Friend... 
 UID:4gjnuMHqUpA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Mario Sunshine】UR DEAD TO ME Petey Piranha...\nhttps://www.youtube.com/watch?v=8fX_KzrrzcA
-DURATION:PT2H
-DTSTART:20210318T010500Z
-SUMMARY:Amelia: 【Mario Sunshine】UR DEAD TO ME Petey Piranha...
-UID:8fX_KzrrzcA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Superchat Reading】THUPERCHAT THURSDAY\nhttps://www.youtube.com/watch?v=ymWlAlR4A6o
 DURATION:PT2H
 DTSTART:20210318T220500Z
 SUMMARY:Amelia: 【Superchat Reading】THUPERCHAT THURSDAY
 UID:ymWlAlR4A6o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Ring Fit Adventure】 No Cost Too Great\nhttps://www.youtube.com/watch?v=Ndn6wshN9Ow
+DURATION:PT2H
+DTSTART:20210318T210000Z
+SUMMARY:Ina: 【Ring Fit Adventure】 No Cost Too Great
+UID:Ndn6wshN9Ow
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【JP MAIN】わため先輩と初めてのコラボ！Let's get to know my sister #ガンギマリシスターズ #gangimarisisters\nhttps://www.youtube.com/watch?v=fok5dkdbz4A
+DURATION:PT2H
+DTSTART:20210319T120000Z
+SUMMARY:Kiara: 【JP MAIN】わため先輩と初めてのコラボ！Let's get to know my sister #ガンギマリシスターズ #gangimarisisters
+UID:fok5dkdbz4A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Mario Sunshine】UR DEAD TO ME Petey Piranha...\nhttps://www.youtube.com/watch?v=8fX_KzrrzcA
+DURATION:PT2H
+DTSTART:20210318T010500Z
+SUMMARY:Amelia: 【Mario Sunshine】UR DEAD TO ME Petey Piranha...
+UID:8fX_KzrrzcA
 END:VEVENT
 END:VCALENDAR
