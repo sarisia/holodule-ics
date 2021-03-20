@@ -4,18 +4,41 @@
 #
 #    pip-compile
 #
-aiohttp==3.7.3            # via -r requirements.in
-arrow==0.14.7             # via -r requirements.in, ics
-async-timeout==3.0.1      # via aiohttp
-attrs==20.3.0             # via aiohttp
-chardet==3.0.4            # via aiohttp
-ics==0.7                  # via -r requirements.in
-idna==2.10                # via yarl
-lxml==4.6.2               # via -r requirements.in
-multidict==5.1.0          # via aiohttp, yarl
-python-dateutil==2.8.1    # via arrow, ics
-python-dotenv==0.15.0     # via -r requirements.in
-six==1.15.0               # via ics, python-dateutil
-tatsu==5.5.0              # via ics
-typing-extensions==3.7.4.3  # via aiohttp
-yarl==1.6.3               # via aiohttp
+aiohttp==3.7.4
+    # via -r requirements.in
+arrow==0.14.7
+    # via
+    #   -r requirements.in
+    #   ics
+async-timeout==3.0.1
+    # via aiohttp
+attrs==20.3.0
+    # via aiohttp
+chardet==3.0.4
+    # via aiohttp
+ics==0.7
+    # via -r requirements.in
+idna==2.10
+    # via yarl
+lxml==4.6.2
+    # via -r requirements.in
+multidict==5.1.0
+    # via
+    #   aiohttp
+    #   yarl
+python-dateutil==2.8.1
+    # via
+    #   arrow
+    #   ics
+python-dotenv==0.15.0
+    # via -r requirements.in
+six==1.15.0
+    # via
+    #   ics
+    #   python-dateutil
+tatsu==5.5.0
+    # via ics
+typing-extensions==3.7.4.3
+    # via aiohttp
+yarl==1.6.3
+    # via aiohttp
