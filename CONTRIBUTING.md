@@ -1,5 +1,14 @@
 # Developing guide
 
+# Clone repository
+
+To avoid cloning numerous deploy histories in `public` and `gh-pages` branch,
+make sure to clone with `--single-branch` option:
+
+```
+$ git clone -b master --single-branch https://github.com/sarisia/holodule-ics.git
+```
+
 # Run locally
 
 Place `.env` with environment variables to project root, then run:
