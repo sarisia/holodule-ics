@@ -67,13 +67,6 @@ SUMMARY:🌲大神ミオ: 夜に聞きたい歌枠
 UID:XgbPWoNn4mU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【お礼雑談】Superchat Reading! Thank you💕【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=QqWxZ81nSX0
-DURATION:PT2H
-DTSTART:20210319T030000Z
-SUMMARY:⚔白銀ノエル: 【お礼雑談】Superchat Reading! Thank you💕【白銀ノエル/ホロライブ】
-UID:QqWxZ81nSX0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ウマ娘 プリティーダービー】今日こそ星3因子ガチャに打ち勝ちたい（&ガチャもします）【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=vj6gzzOqdmE
 DURATION:PT2H
 DTSTART:20210319T120000Z
@@ -86,6 +79,13 @@ DURATION:PT2H
 DTSTART:20210319T150000Z
 SUMMARY:🔮Moona: 【APEX】APEX or APES?【PavOlieNova】
 UID:Qcm4jBWNq00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【お礼雑談】Superchat Reading! Thank you💕【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=QqWxZ81nSX0
+DURATION:PT2H
+DTSTART:20210319T030000Z
+SUMMARY:⚔白銀ノエル: 【お礼雑談】Superchat Reading! Thank you💕【白銀ノエル/ホロライブ】
+UID:QqWxZ81nSX0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Captain Marine's Stamina Training【hololive/宝鐘マリン】\nhttps://www.youtube.com/watch?v=tYGQ_0Rqk0A
@@ -158,25 +158,11 @@ SUMMARY:🚑大空スバル: 【#生スバル】おはようスバル：FREE TAL
 UID:1fT_wz7X8TM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【空気読み3】空気を読みます。すーはー【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=jrKG9OhyRrE
-DURATION:PT2H
-DTSTART:20210319T100000Z
-SUMMARY:🍙猫又おかゆ: 【空気読み3】空気を読みます。すーはー【猫又おかゆ/ホロライブ】
-UID:jrKG9OhyRrE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【バイオハザードRe2】初見プレイやってみる！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=lu0reLJVh6M
 DURATION:PT2H
 DTSTART:20210319T120000Z
 SUMMARY:👯兎田ぺこら: 【バイオハザードRe2】初見プレイやってみる！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
 UID:lu0reLJVh6M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Chilling with us!【PavoNova】\nhttps://www.youtube.com/watch?v=5rBX64SuKYo
-DURATION:PT2H
-DTSTART:20210319T130000Z
-SUMMARY:🔮Moona: 【Minecraft】Chilling with us!【PavoNova】
-UID:5rBX64SuKYo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】眠れない悪い子が来る配信。【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=BJlB8bD0dSI
@@ -186,11 +172,11 @@ SUMMARY:🌙紫咲シオン: 【歌枠】眠れない悪い子が来る配信。
 UID:BJlB8bD0dSI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 ドラゴンクエストV 】姫、ホイミンを仲間にする(・o・🍬)【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=RI-Sa67VYWw
+DESCRIPTION:【空気読み3】空気を読みます。すーはー【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=jrKG9OhyRrE
 DURATION:PT2H
-DTSTART:20210319T070000Z
-SUMMARY:🍬姫森ルーナ: 【 ドラゴンクエストV 】姫、ホイミンを仲間にする(・o・🍬)【姫森ルーナ/ホロライブ】
-UID:RI-Sa67VYWw
+DTSTART:20210319T100000Z
+SUMMARY:🍙猫又おかゆ: 【空気読み3】空気を読みます。すーはー【猫又おかゆ/ホロライブ】
+UID:jrKG9OhyRrE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スーパードンキーコング3】いくぞ！ロストワールド！🍌【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=d-yYhf3pPbs
@@ -200,11 +186,18 @@ SUMMARY:🍙猫又おかゆ: 【スーパードンキーコング3】いくぞ�
 UID:d-yYhf3pPbs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【みんなで空気読み。３】空気を読むより、空気を溜めて波動を撃つ方が得意かもしれません。【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=S2U4f2osuLc
+DESCRIPTION:【 ドラゴンクエストV 】姫、ホイミンを仲間にする(・o・🍬)【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=RI-Sa67VYWw
 DURATION:PT2H
-DTSTART:20210319T090000Z
-SUMMARY:🌽白上フブキ: 【みんなで空気読み。３】空気を読むより、空気を溜めて波動を撃つ方が得意かもしれません。【ホロライブ/白上フブキ】
-UID:S2U4f2osuLc
+DTSTART:20210319T070000Z
+SUMMARY:🍬姫森ルーナ: 【 ドラゴンクエストV 】姫、ホイミンを仲間にする(・o・🍬)【姫森ルーナ/ホロライブ】
+UID:RI-Sa67VYWw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Chilling with us!【PavoNova】\nhttps://www.youtube.com/watch?v=5rBX64SuKYo
+DURATION:PT2H
+DTSTART:20210319T130000Z
+SUMMARY:🔮Moona: 【Minecraft】Chilling with us!【PavoNova】
+UID:5rBX64SuKYo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【みんなで空気読み。３】今宵、初めて空気を読む羊が爆誕する！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=pe-2YZGs200
@@ -214,11 +207,25 @@ SUMMARY:🐏角巻わため: 【みんなで空気読み。３】今宵、初め
 UID:pe-2YZGs200
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【みんなで空気読み。３】空気を読むより、空気を溜めて波動を撃つ方が得意かもしれません。【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=S2U4f2osuLc
+DURATION:PT2H
+DTSTART:20210319T090000Z
+SUMMARY:🌽白上フブキ: 【みんなで空気読み。３】空気を読むより、空気を溜めて波動を撃つ方が得意かもしれません。【ホロライブ/白上フブキ】
+UID:S2U4f2osuLc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT FISHING AND CHILL】 Fishing Trip with the Reaper! #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=rg9DSzxo7UU
 DURATION:PT2H
 DTSTART:20210320T000351Z
 SUMMARY:Calli: 【MINECRAFT FISHING AND CHILL】 Fishing Trip with the Reaper! #hololiveEnglish #holoMyth
 UID:rg9DSzxo7UU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Elite English Learning!✍みこちの エリート英語がんばるもん！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=gQNvJejZl40
+DURATION:PT2H
+DTSTART:20210320T020000Z
+SUMMARY:🌸さくらみこ: Elite English Learning!✍みこちの エリート英語がんばるもん！【ホロライブ/さくらみこ】
+UID:gQNvJejZl40
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Ahoy!BGM建築🎵あくあマリン号へGO【宝鐘マリン＆天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=Xv1XcTVRBdo
@@ -277,6 +284,13 @@ SUMMARY:🚑大空スバル: 【#生スバル】マイクラおさんぽ建築�
 UID:CHvZk19prog
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【雪花ラミィ視点】女登呂温泉・湯けむり殺人事件【ホロミス劇場】\nhttps://www.youtube.com/watch?v=z3lbeiMpiaM
+DURATION:PT2H
+DTSTART:20210320T100000Z
+SUMMARY:雪花ラミィ: 【雪花ラミィ視点】女登呂温泉・湯けむり殺人事件【ホロミス劇場】
+UID:z3lbeiMpiaM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Drawing Stream】I wanna draw 【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=x2A4PDj-h-g
 DURATION:PT2H
 DTSTART:20210319T040000Z
@@ -326,18 +340,18 @@ SUMMARY:🏮夏色まつり: 【ポケモン剣盾】ポケモン交換会！メ
 UID:1KfjOPXtY0Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[TERRARIA] BOSS BATTLE\nhttps://www.youtube.com/watch?v=ChVf67Gcz34
-DURATION:PT2H
-DTSTART:20210319T010000Z
-SUMMARY:Gura: [TERRARIA] BOSS BATTLE
-UID:ChVf67Gcz34
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#06【ドラゴンクエスト11S】船GET！圧倒的行動範囲で優雅な大冒険の続きだ～ッ！【白銀ノエル/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=FBvIbw3xBEM
 DURATION:PT2H
 DTSTART:20210319T080000Z
 SUMMARY:⚔白銀ノエル: #06【ドラゴンクエスト11S】船GET！圧倒的行動範囲で優雅な大冒険の続きだ～ッ！【白銀ノエル/ホロライブ】※ネタバレあり
 UID:FBvIbw3xBEM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[TERRARIA] BOSS BATTLE\nhttps://www.youtube.com/watch?v=ChVf67Gcz34
+DURATION:PT2H
+DTSTART:20210319T010000Z
+SUMMARY:Gura: [TERRARIA] BOSS BATTLE
+UID:ChVf67Gcz34
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】深夜テンションで久しぶりにやるコラボAPEX【ホロライブ/白上フブキ/ロボ子さん】\nhttps://www.youtube.com/watch?v=Vl2TAM9KnXM
@@ -359,6 +373,13 @@ DURATION:PT2H
 DTSTART:20210319T010000Z
 SUMMARY:🎸奏手イヅル: 【Apex Legends】💎1へ！マスターへの道Ⅳ【奏手イヅル】
 UID:SfM_DcBfZhI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【大空スバル視点】女登呂温泉・湯けむり殺人事件【ホロミス劇場】\nhttps://www.youtube.com/watch?v=GctNU3HG2SQ
+DURATION:PT2H
+DTSTART:20210320T100000Z
+SUMMARY:🚑大空スバル: 【大空スバル視点】女登呂温泉・湯けむり殺人事件【ホロミス劇場】
+UID:GctNU3HG2SQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【♯13】グラブル100連ガチャ！&トッポブ！！！：GRANBLUE FANTASY【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=3m9OsJ3n3gQ
