@@ -1,0 +1,34 @@
+name: test (dry run)
+on:
+  push:
+    branches-ignore:
+      - 'gh-pages'
+      - 'public'
+  pull_request:
+
+jobs:
+  dry-run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: 'false'
+      - uses: actions/setup-python@v1
+        with:
+          python-version: 3.9
+      - uses: actions/cache@v1
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+      - name: sync deps
+        run: pip install -r requirements.txt
+      - name: dry run holodule-ics
+        run: python run.py
+        env:
+          HOLODULE_PAGE: ${{ secrets.HOLODULE_PAGE }}
+          HOLODULE_YOUTUBE_KEY: ${{ secrets.HOLODULE_YOUTUBE_KEY }}
+      - uses: sarisia/actions-status-discord@v1
+        with:
+          webhook: ${{ secrets.DISCORD_WEBHOOK }}
+          title: holodule - dry run
