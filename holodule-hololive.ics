@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【空気読み。３】空気を読んで溶け込むのだ！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=F1ZxXmOdSTY
-DURATION:PT2H
-DTSTART:20210320T150000Z
-SUMMARY:💫天音かなた: 【空気読み。３】空気を読んで溶け込むのだ！【天音かなた/ホロライブ】
-UID:F1ZxXmOdSTY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ウマ娘 プリティーダービー】トロコン目指しながら因子を学ぼう【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=2_5qSFLdGUE
 DURATION:PT2H
 DTSTART:20210320T160000Z
@@ -23,6 +16,13 @@ DURATION:PT2H
 DTSTART:20210320T061500Z
 SUMMARY:🌽白上フブキ: 【＃４】 Hollow Knight　【ホロライブ/白上フブキ】
 UID:fXLHDJf9ml8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ドラゴンクエスト11S】ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=gdPacip-XS8
+DURATION:PT2H
+DTSTART:20210321T040000Z
+SUMMARY:👯兎田ぺこら: 【ドラゴンクエスト11S】ぺこ！【ホロライブ/兎田ぺこら】
+UID:gdPacip-XS8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【常闇トワ視点】女登呂温泉・湯けむり殺人事件【ホロミス劇場】\nhttps://www.youtube.com/watch?v=26QK6Sy23rE
@@ -88,6 +88,13 @@ SUMMARY:🚑大空スバル: 【♯13】グラブル100連ガチャ！：GRANBLU
 UID:3m9OsJ3n3gQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:[FALLOUT4] 行け！パワーアーマー！！[桐生ココ/ホロライブ]\nhttps://www.youtube.com/watch?v=CpRvflsQtNE
+DURATION:PT2H
+DTSTART:20210320T030000Z
+SUMMARY:🐉桐生ココ: [FALLOUT4] 行け！パワーアーマー！！[桐生ココ/ホロライブ]
+UID:CpRvflsQtNE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌枠】花粉にダメージを食らい続けながら歌う配信\nhttps://www.youtube.com/watch?v=Q8bHuJdgzqg
 DURATION:PT2H
 DTSTART:20210319T150000Z
@@ -128,13 +135,6 @@ DURATION:PT2H
 DTSTART:20210319T163000Z
 SUMMARY:🌙紫咲シオン: 【歌枠】眠れない悪い子が来る配信。【ホロライブ/紫咲シオン】
 UID:BJlB8bD0dSI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スーパードンキーコング3】いくぞ！ロストワールド！🍌【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=d-yYhf3pPbs
-DURATION:PT2H
-DTSTART:20210320T130000Z
-SUMMARY:🍙猫又おかゆ: 【スーパードンキーコング3】いくぞ！ロストワールド！🍌【猫又おかゆ/ホロライブ】
-UID:d-yYhf3pPbs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【みんなで空気読み。３】今宵、初めて空気を読む羊が爆誕する！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=pe-2YZGs200
@@ -179,10 +179,10 @@ SUMMARY:💋癒月ちょこ: 【龍が如く０】シリーズ初見プレイ！
 UID:iNA0CsltTX8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ドラゴンクエスト11S】いざ再び 仲間達を探して…！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=RBpHDlgkRGM
+DESCRIPTION:【ドラゴンクエスト11S】いざ再び 仲間達を探して…！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=RBpHDlgkRGM
 DURATION:PT2H
 DTSTART:20210320T040000Z
-SUMMARY:👯兎田ぺこら: 【ドラゴンクエスト11S】いざ再び 仲間達を探して…！！！！！ぺこ！【ホロライブ/兎田ぺこら】
+SUMMARY:👯兎田ぺこら: 【ドラゴンクエスト11S】いざ再び 仲間達を探して…！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり
 UID:RBpHDlgkRGM
 END:VEVENT
 BEGIN:VEVENT
@@ -191,6 +191,13 @@ DURATION:PT2H
 DTSTART:20210320T070000Z
 SUMMARY:🐻ときのそら: 【※ネタバレあり】牧場と鉱山とわたし～牧場物語 オリーブタウンと希望の大地～【#ときのそら生放送】
 UID:zh2-Y1AIH9s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Reddit shitpost review with Okayu senpai!\nhttps://www.youtube.com/watch?v=OWvEG82V7UM
+DURATION:PT2H
+DTSTART:20210321T030000Z
+SUMMARY:🐉桐生ココ: Reddit shitpost review with Okayu senpai!
+UID:OWvEG82V7UM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【空気読み。３】男子戦慄…女社会の空気読み【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=y03kt_6Wvio
