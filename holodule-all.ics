@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ウマ娘】ミホノブルボンガチ育成🏇でうまぴょいする！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=kUC_AqZshMQ
-DURATION:PT2H
-DTSTART:20210321T140000Z
-SUMMARY:💫天音かなた: 【ウマ娘】ミホノブルボンガチ育成🏇でうまぴょいする！！【天音かなた/ホロライブ】
-UID:kUC_AqZshMQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【空気読み。３】空気を読んで溶け込むのだ！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=F1ZxXmOdSTY
 DURATION:PT2H
 DTSTART:20210320T150000Z
@@ -25,18 +18,18 @@ SUMMARY:尾丸ポルカ: 【ウマ娘 プリティーダービー】トロコン
 UID:2_5qSFLdGUE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】絶対行くんだ！ソロマスターちゃれんじっ！十日目【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=qHZwDxea7fQ
-DURATION:PT2H
-DTSTART:20210321T080000Z
-SUMMARY:⚓湊あくあ: 【APEX】絶対行くんだ！ソロマスターちゃれんじっ！十日目【湊あくあ/ホロライブ】
-UID:qHZwDxea7fQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【あやマリはありまぁあす！】【ホロライブ/宝鐘マリン・百鬼あやめ】\nhttps://www.youtube.com/watch?v=h6O5IQgF7TU
 DURATION:PT2H
 DTSTART:20210322T130000Z
 SUMMARY:🏴☠宝鐘マリン: 【あやマリはありまぁあす！】【ホロライブ/宝鐘マリン・百鬼あやめ】
 UID:h6O5IQgF7TU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロ酒呑み組】オンライン飲み会開催なんだよ～【ホロライブ/白銀ノエル/雪花ラミィ/アキロゼ】\nhttps://www.youtube.com/watch?v=nH32kTt1NoU
+DURATION:PT2H
+DTSTART:20210322T130000Z
+SUMMARY:🍎アキロゼ: 【#ホロ酒呑み組】オンライン飲み会開催なんだよ～【ホロライブ/白銀ノエル/雪花ラミィ/アキロゼ】
+UID:nH32kTt1NoU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ドラゴンクエスト11S】今日こそ全員で！！！！！世界救うぺこ！！【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=gdPacip-XS8
@@ -74,13 +67,6 @@ SUMMARY:🏮夏色まつり: 【みんなで空気読み。３】空気は読む
 UID:iIf__bnqYz8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロ酒呑み組】オンライン飲み会開催なんだよ～【ホロライブ/白銀ノエル/雪花ラミィ/アキロゼ】\nhttps://www.youtube.com/watch?v=nH32kTt1NoU
-DURATION:PT2H
-DTSTART:20210322T130000Z
-SUMMARY:🍎アキロゼ: 【#ホロ酒呑み組】オンライン飲み会開催なんだよ～【ホロライブ/白銀ノエル/雪花ラミィ/アキロゼ】
-UID:nH32kTt1NoU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:bye ~\nhttps://www.youtube.com/watch?v=BBF2bdXlDtY
 DURATION:PT2H
 DTSTART:20210320T170002Z
@@ -100,6 +86,13 @@ DURATION:PT2H
 DTSTART:20210321T050000Z
 SUMMARY:💋癒月ちょこ: 【龍が如く０】第２章突入！神室町の闇、謎の男の正体はいかに？！#2【ホロライブ/癒月ちょこ】※ネタバレあり
 UID:SialCV510iM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【凸待ち＋お知らせ】お誕生日＆デビュー3周年！絶対に祝われたい女【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=oPz4lrkarZ0
+DURATION:PT2H
+DTSTART:20210322T120000Z
+SUMMARY:☄星街すいせい: 【凸待ち＋お知らせ】お誕生日＆デビュー3周年！絶対に祝われたい女【ホロライブ / 星街すいせい】
+UID:oPz4lrkarZ0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Apex Legends】最終章マスターへの道Ⅴ【奏手イヅル】\nhttps://www.youtube.com/watch?v=6bJkqoR37oI
