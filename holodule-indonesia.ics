@@ -4,18 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【APEX】IF OLLIE DIES THE STREAM ENDS【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=idkR1rw7h6E
+DURATION:PT2H
+DTSTART:20210322T112932Z
+SUMMARY:Ollie: 【APEX】IF OLLIE DIES THE STREAM ENDS【Hololive Indonesia 2nd Gen】
+UID:idkR1rw7h6E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:hooo ?!\nhttps://www.youtube.com/watch?v=Oun64GXwHeI
+DURATION:PT2H
+DTSTART:20210322T130007Z
+SUMMARY:🐿Risu: hooo ?!
+UID:Oun64GXwHeI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Celebration】500K SUBS! Thankyou!【Moona】\nhttps://www.youtube.com/watch?v=0CKnYeqyuV0
 DURATION:PT2H
 DTSTART:20210322T140000Z
 SUMMARY:🔮Moona: 【Celebration】500K SUBS! Thankyou!【Moona】
 UID:0CKnYeqyuV0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】ZA TRAINING ARC CONTINUES【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=bDva2DiK2t0
-DURATION:PT2H
-DTSTART:20210321T082602Z
-SUMMARY:Ollie: 【APEX】ZA TRAINING ARC CONTINUES【Hololive Indonesia 2nd Gen】
-UID:bDva2DiK2t0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DONATION READING+FREETALK】THANK YOU! OLLIE WILL BE READING ALL OF THEM!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=OJ6MGaPhb_U
@@ -30,47 +37,5 @@ DURATION:PT2H
 DTSTART:20210322T114130Z
 SUMMARY:Ollie: 【APEX】im sowwy pwease lemme pway apweks【Hololive Indonesia 2nd Gen】
 UID:iH_Fglq6xTY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】This was supposed to be first APEX but we did a guerrilla the other day【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=EUJVdQ21peI
-DURATION:PT2H
-DTSTART:20210321T140000Z
-SUMMARY:Reine: 【APEX】This was supposed to be first APEX but we did a guerrilla the other day【hololiveID 2nd gen】
-UID:EUJVdQ21peI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:bye ~\nhttps://www.youtube.com/watch?v=BBF2bdXlDtY
-DURATION:PT2H
-DTSTART:20210320T170002Z
-SUMMARY:🐿Risu: bye ~
-UID:BBF2bdXlDtY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:hooo ?!\nhttps://www.youtube.com/watch?v=Oun64GXwHeI
-DURATION:PT2H
-DTSTART:20210322T130007Z
-SUMMARY:🐿Risu: hooo ?!
-UID:Oun64GXwHeI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【UNO】Play with @Asagiri Yua Ch. 朝霧ユア @Serotina and @Lyrica Ch. リリカ 永音  【Moona】\nhttps://www.youtube.com/watch?v=XEmVIxhWzpA
-DURATION:PT2H
-DTSTART:20210321T130000Z
-SUMMARY:🔮Moona: 【UNO】Play with @Asagiri Yua Ch. 朝霧ユア @Serotina and @Lyrica Ch. リリカ 永音  【Moona】
-UID:XEmVIxhWzpA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】IF OLLIE DIES THE STREAM ENDS【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=idkR1rw7h6E
-DURATION:PT2H
-DTSTART:20210322T112932Z
-SUMMARY:Ollie: 【APEX】IF OLLIE DIES THE STREAM ENDS【Hololive Indonesia 2nd Gen】
-UID:idkR1rw7h6E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ANISONG KARAOKE! Let's Go!\nhttps://www.youtube.com/watch?v=xUFawt6JuYc
-DURATION:PT2H
-DTSTART:20210321T140000Z
-SUMMARY:🎨Iofi: ANISONG KARAOKE! Let's Go!
-UID:xUFawt6JuYc
 END:VEVENT
 END:VCALENDAR
