@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:ANISONG KARAOKE! Let's Go!\nhttps://www.youtube.com/watch?v=xUFawt6JuYc
-DURATION:PT2H
-DTSTART:20210321T140000Z
-SUMMARY:🎨Iofi: ANISONG KARAOKE! Let's Go!
-UID:xUFawt6JuYc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【UNO】Play with @Asagiri Yua Ch. 朝霧ユア @Serotina and @Lyrica Ch. リリカ 永音  【Moona】\nhttps://www.youtube.com/watch?v=XEmVIxhWzpA
-DURATION:PT2H
-DTSTART:20210321T130000Z
-SUMMARY:🔮Moona: 【UNO】Play with @Asagiri Yua Ch. 朝霧ユア @Serotina and @Lyrica Ch. リリカ 永音  【Moona】
-UID:XEmVIxhWzpA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Celebration】500K SUBS! Thankyou!【Moona】\nhttps://www.youtube.com/watch?v=0CKnYeqyuV0
 DURATION:PT2H
 DTSTART:20210322T140000Z
@@ -51,5 +37,26 @@ DURATION:PT2H
 DTSTART:20210320T170002Z
 SUMMARY:🐿Risu: bye ~
 UID:BBF2bdXlDtY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【UNO】Play with @Asagiri Yua Ch. 朝霧ユア @Serotina and @Lyrica Ch. リリカ 永音  【Moona】\nhttps://www.youtube.com/watch?v=XEmVIxhWzpA
+DURATION:PT2H
+DTSTART:20210321T130000Z
+SUMMARY:🔮Moona: 【UNO】Play with @Asagiri Yua Ch. 朝霧ユア @Serotina and @Lyrica Ch. リリカ 永音  【Moona】
+UID:XEmVIxhWzpA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】IF OLLIE DIES THE STREAM ENDS【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=idkR1rw7h6E
+DURATION:PT2H
+DTSTART:20210322T113000Z
+SUMMARY:Ollie: 【APEX】IF OLLIE DIES THE STREAM ENDS【Hololive Indonesia 2nd Gen】
+UID:idkR1rw7h6E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ANISONG KARAOKE! Let's Go!\nhttps://www.youtube.com/watch?v=xUFawt6JuYc
+DURATION:PT2H
+DTSTART:20210321T140000Z
+SUMMARY:🎨Iofi: ANISONG KARAOKE! Let's Go!
+UID:xUFawt6JuYc
 END:VEVENT
 END:VCALENDAR
