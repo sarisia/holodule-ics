@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Undertale】初見ぷれい！【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=FMKJx3ZV8pE
-DURATION:PT2H
-DTSTART:20210323T000000Z
-SUMMARY:👾常闇トワ: 【Undertale】初見ぷれい！【常闇トワ/ホロライブ】
-UID:FMKJx3ZV8pE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】絶対にあきらめない！ソロマスターちゃれんじっ！十一日目【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=cibdBr9TkEo
 DURATION:PT2H
 DTSTART:20210322T130000Z
@@ -184,6 +177,13 @@ DURATION:PT2H
 DTSTART:20210321T223000Z
 SUMMARY:🌲大神ミオ: 【#朝ミオ】月曜日の朝！あさかつ！おはよ！【大神ミオ】
 UID:5YyxtJ_gpFA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【はいしんよてい！】【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=FHZ1wF_upDs
+DURATION:PT2H
+DTSTART:20210323T110000Z
+SUMMARY:🏴☠宝鐘マリン: 【はいしんよてい！】【ホロライブ/宝鐘マリン】
+UID:FHZ1wF_upDs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マイクラ】 NEW資源鯖の一番風呂を狙いに来たポルカ選手【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=cgpKc479JHc
