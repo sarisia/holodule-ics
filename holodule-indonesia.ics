@@ -4,18 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【割と真面目なお悩み相談回】話してもいいよ？【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=1Pwn8khAYnU
+DURATION:PT2H
+DTSTART:20210325T150000Z
+SUMMARY:Anya: 【割と真面目なお悩み相談回】話してもいいよ？【hololive Indonesia 2nd Generation】
+UID:1Pwn8khAYnU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:you got mail !!\nhttps://www.youtube.com/watch?v=06P15dLQTkI
+DURATION:PT2H
+DTSTART:20210325T160325Z
+SUMMARY:🐿Risu: you got mail !!
+UID:06P15dLQTkI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【hololiveID】#3 YAYYY UNDERTALE AGAIN !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=HoYYVCcb4l8
 DURATION:PT2H
 DTSTART:20210325T070000Z
 SUMMARY:🐿Risu: 【hololiveID】#3 YAYYY UNDERTALE AGAIN !!!【Ayunda Risu】
 UID:HoYYVCcb4l8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Manga Livereading】Let Me Introduce You To This Amazing Series...【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=bZ37hOkqrCw
-DURATION:PT2H
-DTSTART:20210326T143000Z
-SUMMARY:Anya: 【Manga Livereading】Let Me Introduce You To This Amazing Series...【hololive Indonesia 2nd Generation】
-UID:bZ37hOkqrCw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【日本語雑談】え、あれ、なんだっけ？( \,\,`･ω･´)ﾝﾝﾝ？【hololiveID】\nhttps://www.youtube.com/watch?v=2HbPwP9DYOQ
@@ -25,10 +32,10 @@ SUMMARY:🎨Iofi: 【日本語雑談】え、あれ、なんだっけ？( \,\,`�
 UID:2HbPwP9DYOQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【割と真面目なお悩み相談回】話してもいいよ？【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=1Pwn8khAYnU
+DESCRIPTION:【Manga Livereading】Let Me Introduce You To This Amazing Series...【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=bZ37hOkqrCw
 DURATION:PT2H
-DTSTART:20210325T150000Z
-SUMMARY:Anya: 【割と真面目なお悩み相談回】話してもいいよ？【hololive Indonesia 2nd Generation】
-UID:1Pwn8khAYnU
+DTSTART:20210326T143000Z
+SUMMARY:Anya: 【Manga Livereading】Let Me Introduce You To This Amazing Series...【hololive Indonesia 2nd Generation】
+UID:bZ37hOkqrCw
 END:VEVENT
 END:VCALENDAR
