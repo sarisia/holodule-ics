@@ -4,48 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【hololiveID】Let's see who will get who ????【Ayunda Risu】\nhttps://www.youtube.com/watch?v=aWq8fSNrxRE
-DURATION:PT2H
-DTSTART:20210329T130000Z
-SUMMARY:🐿Risu: 【hololiveID】Let's see who will get who ????【Ayunda Risu】
-UID:aWq8fSNrxRE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Project Winter】Who am i gonna be?What am i gonna do?【Moona】\nhttps://www.youtube.com/watch?v=XtFQ1auDWUQ
-DURATION:PT2H
-DTSTART:20210329T130000Z
-SUMMARY:🔮Moona: 【Project Winter】Who am i gonna be?What am i gonna do?【Moona】
-UID:XtFQ1auDWUQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Project Winter】Jadi... Bagaimana Kita Survive?【hololiveID】\nhttps://www.youtube.com/watch?v=uCs_3biRHfU
-DURATION:PT2H
-DTSTART:20210329T130000Z
-SUMMARY:🎨Iofi: 【Project Winter】Jadi... Bagaimana Kita Survive?【hololiveID】
-UID:uCs_3biRHfU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【hololiveID】A Short Free Talk Because I Miss You Guys【Ayunda Risu】\nhttps://www.youtube.com/watch?v=DwzssvhS4AU
-DURATION:PT2H
-DTSTART:20210329T111500Z
-SUMMARY:🐿Risu: 【hololiveID】A Short Free Talk Because I Miss You Guys【Ayunda Risu】
-UID:DwzssvhS4AU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Indonesia Free Talk】Curhat Yuk? (ಥ◡ಥ)【hololiveID】\nhttps://www.youtube.com/watch?v=WhVPQBKjfNk
-DURATION:PT2H
-DTSTART:20210328T130000Z
-SUMMARY:🎨Iofi: 【Indonesia Free Talk】Curhat Yuk? (ಥ◡ಥ)【hololiveID】
-UID:WhVPQBKjfNk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HOLOID: PROJECT WINTER】THERE IS SUS AMONG WINTER【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=Dtaw5xWuags
-DURATION:PT2H
-DTSTART:20210329T125937Z
-SUMMARY:Ollie: 【HOLOID: PROJECT WINTER】THERE IS SUS AMONG WINTER【Hololive Indonesia 2nd Gen】
-UID:Dtaw5xWuags
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Project Winter ft. holoID】Surviving Seems Like A Challenge...【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=wSyggKw5x9I
 DURATION:PT2H
 DTSTART:20210329T130000Z
@@ -60,10 +18,17 @@ SUMMARY:Ollie: 【FREETALK】HOW HAVE YOU BEEN\, ZOMRADES~?【Hololive Indonesia
 UID:zuRqYzV_tyA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Project Winter】Let's Get Along and Survive Together!【holoID】\nhttps://www.youtube.com/watch?v=MDR6ln1t67Y
+DESCRIPTION:【hololiveID】A Short Free Talk Because I Miss You Guys【Ayunda Risu】\nhttps://www.youtube.com/watch?v=DwzssvhS4AU
 DURATION:PT2H
-DTSTART:20210329T130000Z
-SUMMARY:Reine: 【Project Winter】Let's Get Along and Survive Together!【holoID】
-UID:MDR6ln1t67Y
+DTSTART:20210329T111500Z
+SUMMARY:🐿Risu: 【hololiveID】A Short Free Talk Because I Miss You Guys【Ayunda Risu】
+UID:DwzssvhS4AU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Indonesia Free Talk】Curhat Yuk? (ಥ◡ಥ)【hololiveID】\nhttps://www.youtube.com/watch?v=WhVPQBKjfNk
+DURATION:PT2H
+DTSTART:20210328T130000Z
+SUMMARY:🎨Iofi: 【Indonesia Free Talk】Curhat Yuk? (ಥ◡ಥ)【hololiveID】
+UID:WhVPQBKjfNk
 END:VEVENT
 END:VCALENDAR
