@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:お兄ちゃんお帰りなさい/JUST KANATA\nhttps://www.youtube.com/watch?v=5GcddJcnd4Q
+DURATION:PT2H
+DTSTART:20210401T110000Z
+SUMMARY:💫天音かなた: お兄ちゃんお帰りなさい/JUST KANATA
+UID:5GcddJcnd4Q
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#生スバル】帰ってきた！！！！！視聴者分の１！！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=7S9XOJEzjao
 DURATION:PT2H
 DTSTART:20210331T110000Z
@@ -72,6 +79,13 @@ DURATION:PT2H
 DTSTART:20210331T200000Z
 SUMMARY:Ina: 【MONSTER HUNTER RISE】 What Rise Ahead of Here...
 UID:S65fx3WtBSk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【】すばるの！全部ホントニュース！【】\nhttps://www.youtube.com/watch?v=VFQzN4iAmtI
+DURATION:PT2H
+DTSTART:20210401T110000Z
+SUMMARY:🚑大空スバル: 【】すばるの！全部ホントニュース！【】
+UID:VFQzN4iAmtI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Penguin's Dogma】.... . / .-.. / .--. / --【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=HOK1PJLNk74
@@ -170,13 +184,6 @@ DURATION:PT2H
 DTSTART:20210401T140000Z
 SUMMARY:Calli: 【HOLOEN COLLAB】Not a Joke! Serious Outfit Reveal on April the 1st #yurumyth #hololiveEnglish
 UID:JgW-7lHQBZw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】この配信はツエソがジャックした！【影山ツエソ/木口ス夕ーズ】\nhttps://www.youtube.com/watch?v=a9cEs9lCSHo
-DURATION:PT2H
-DTSTART:20210401T080000Z
-SUMMARY:影山シエン: 【APEX】この配信はツエソがジャックした！【影山ツエソ/木口ス夕ーズ】
-UID:a9cEs9lCSHo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【エイプリルシープ】Tsunomaki Direct 2021.4.1【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=c3hdmr5mlzc
