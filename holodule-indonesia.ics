@@ -4,39 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:Special Fan Service\nhttps://www.youtube.com/watch?v=ea4lRCsxaQU
-DURATION:PT2H
-DTSTART:20210401T050000Z
-SUMMARY:🔮Moona: Special Fan Service
-UID:ea4lRCsxaQU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Penguin's Dogma】.... . / .-.. / .--. / --【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=HOK1PJLNk74
-DURATION:PT2H
-DTSTART:20210401T013000Z
-SUMMARY:Anya: 【Penguin's Dogma】.... . / .-.. / .--. / --【hololive Indonesia 2nd Generation】
-UID:HOK1PJLNk74
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【hololiveID】HELLO !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=5tO7aYTq5MA
-DURATION:PT2H
-DTSTART:20210401T120000Z
-SUMMARY:🐿Risu: 【hololiveID】HELLO !!!【Ayunda Risu】
-UID:5tO7aYTq5MA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Clubhouse 51】If I Get Yacht\, the Stream Ends【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=yO3cXyf-hB0
-DURATION:PT2H
-DTSTART:20210331T040000Z
-SUMMARY:Reine: 【Clubhouse 51】If I Get Yacht\, the Stream Ends【hololiveID 2nd generation】
-UID:yO3cXyf-hB0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Clubhouse 51】It's Turtle Time【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=y3-QldRlVSQ
 DURATION:PT2H
 DTSTART:20210331T043500Z
 SUMMARY:Reine: 【Clubhouse 51】It's Turtle Time【hololiveID 2nd gen】
 UID:y3-QldRlVSQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MONSTER HUNTER RISE】First Time!! Baby Peafowl still thinking about Rise puns【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=Ch2jAdzOhUA
+DURATION:PT2H
+DTSTART:20210401T120000Z
+SUMMARY:Reine: 【MONSTER HUNTER RISE】First Time!! Baby Peafowl still thinking about Rise puns【hololiveID 2nd gen】
+UID:Ch2jAdzOhUA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Special Fan Service\nhttps://www.youtube.com/watch?v=ea4lRCsxaQU
+DURATION:PT2H
+DTSTART:20210401T050000Z
+SUMMARY:🔮Moona: Special Fan Service
+UID:ea4lRCsxaQU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Yakuza 0】Play Yakuza with Mamank Hoshinov【SPOILER ALERT】\nhttps://www.youtube.com/watch?v=wvCdwD3gCeU
@@ -53,10 +39,17 @@ SUMMARY:🎨Iofi: 【Fall Guys】ハチとの初コラボ！わくわくなFALLG
 UID:3nl6dHtfpFo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MONSTER HUNTER RISE】First Time!! Baby Peafowl still thinking about Rise puns【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=Ch2jAdzOhUA
+DESCRIPTION:【Penguin's Dogma】.... . / .-.. / .--. / --【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=HOK1PJLNk74
 DURATION:PT2H
-DTSTART:20210401T120000Z
-SUMMARY:Reine: 【MONSTER HUNTER RISE】First Time!! Baby Peafowl still thinking about Rise puns【hololiveID 2nd gen】
-UID:Ch2jAdzOhUA
+DTSTART:20210401T013000Z
+SUMMARY:Anya: 【Penguin's Dogma】.... . / .-.. / .--. / --【hololive Indonesia 2nd Generation】
+UID:HOK1PJLNk74
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Clubhouse 51】If I Get Yacht\, the Stream Ends【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=yO3cXyf-hB0
+DURATION:PT2H
+DTSTART:20210331T040000Z
+SUMMARY:Reine: 【Clubhouse 51】If I Get Yacht\, the Stream Ends【hololiveID 2nd generation】
+UID:yO3cXyf-hB0
 END:VEVENT
 END:VCALENDAR
