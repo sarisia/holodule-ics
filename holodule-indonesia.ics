@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:hello ~\nhttps://www.youtube.com/watch?v=Gq3RhS-olrM
+DURATION:PT2H
+DTSTART:20210402T140658Z
+SUMMARY:🐿Risu: hello ~
+UID:Gq3RhS-olrM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:hai domo1\nhttps://www.youtube.com/watch?v=08fhmvoke_U
 DURATION:PT2H
 DTSTART:20210401T141119Z
