@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【歌枠】新生活応援ソング！元気をくれる曲を歌う！Singing Stream【#あずきんち】\nhttps://www.youtube.com/watch?v=GFyUpKMtUzQ
+DURATION:PT2H
+DTSTART:20210403T130000Z
+SUMMARY:⚒AZKi: 【歌枠】新生活応援ソング！元気をくれる曲を歌う！Singing Stream【#あずきんち】
+UID:GFyUpKMtUzQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】復活のソロマスターちゃれんじっ！一日目【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=fkWB_8Yyt0A
 DURATION:PT2H
 DTSTART:20210403T070000Z
@@ -65,6 +72,13 @@ DURATION:PT2H
 DTSTART:20210403T030000Z
 SUMMARY:🐻ときのそら: 【ホタルノニッキ】ホタルに導かれて・・・【＃ときのそら生放送】
 UID:0SMVaMVzP-E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ara maa ~  c:\nhttps://www.youtube.com/watch?v=Y5R1xVULImQ
+DURATION:PT2H
+DTSTART:20210403T150225Z
+SUMMARY:🐿Risu: ara maa ~  c:
+UID:Y5R1xVULImQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 MONSTER HUNTER RISE】初心者ハンター！！一狩りいきます！！\nhttps://www.youtube.com/watch?v=rv6WD8R3lTo
@@ -130,13 +144,6 @@ SUMMARY:獅白ぼたん: 【Minecraft】ステーキ&グリルBOTAN（仮）・�
 UID:KUNTGyhmyUA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ASMR】全肯定囁き♡マッサージ＆耳かき【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=1v-xxcuIUCc
-DURATION:PT2H
-DTSTART:20210403T140000Z
-SUMMARY:雪花ラミィ: 【ASMR】全肯定囁き♡マッサージ＆耳かき【雪花ラミィ/ホロライブ】
-UID:1v-xxcuIUCc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Trials Rising】チャリで来ることが増えたけどショッピングカートで来た【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=fq2FYdcJ_HQ
 DURATION:PT2H
 DTSTART:20210403T040000Z
@@ -163,13 +170,6 @@ DURATION:PT2H
 DTSTART:20210403T145500Z
 SUMMARY:💋癒月ちょこ: 【ゲリラ】自由気ままに悪魔な枠を【ホロライブ/癒月ちょこ】
 UID:au8CjgLxVZc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Monster Hunter Rise】さあ！始めよう！BRAND NEW JOURNEY !【hololiveID】\nhttps://www.youtube.com/watch?v=g6r6gHqitUo
-DURATION:PT2H
-DTSTART:20210403T130000Z
-SUMMARY:🎨Iofi: 【Monster Hunter Rise】さあ！始めよう！BRAND NEW JOURNEY !【hololiveID】
-UID:g6r6gHqitUo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 モンハンライズ 】ふるふるーな出陣なのら！(・o・🍬) MHRise【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=zhehRVQEjws
