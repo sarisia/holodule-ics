@@ -4,18 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:[SSSS.DYNAZENON] Anime watch-along! #SSSS_WATCHPARTY\nhttps://www.youtube.com/watch?v=QMBUJnHSPts
+DESCRIPTION:【BIRTHDAY STREAM】The Grim Reaper's Birthday Bash and EP Release Party\, Yo! #moribirthd4y #holomyth\nhttps://www.youtube.com/watch?v=NiziRRHFZGA
 DURATION:PT2H
-DTSTART:20210403T020033Z
-SUMMARY:Gura: [SSSS.DYNAZENON] Anime watch-along! #SSSS_WATCHPARTY
-UID:QMBUJnHSPts
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Oblivion】Jank Scrolls | ES:IV #7\nhttps://www.youtube.com/watch?v=NZ-oGtVFpVA
-DURATION:PT2H
-DTSTART:20210403T190500Z
-SUMMARY:Amelia: 【Oblivion】Jank Scrolls | ES:IV #7
-UID:NZ-oGtVFpVA
+DTSTART:20210404T140000Z
+SUMMARY:Calli: 【BIRTHDAY STREAM】The Grim Reaper's Birthday Bash and EP Release Party\, Yo! #moribirthd4y #holomyth
+UID:NiziRRHFZGA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[MV] Red - Calliope Mori #HololiveEnglish #HoloMyth\nhttps://www.youtube.com/watch?v=-AuQZrUHjhg
@@ -23,6 +16,20 @@ DURATION:PT2H
 DTSTART:20210404T133000Z
 SUMMARY:Calli: [MV] Red - Calliope Mori #HololiveEnglish #HoloMyth
 UID:-AuQZrUHjhg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DKC】DONKEY WATSON\nhttps://www.youtube.com/watch?v=o5AFEwAd0NE
+DURATION:PT2H
+DTSTART:20210402T220000Z
+SUMMARY:Amelia: 【DKC】DONKEY WATSON
+UID:o5AFEwAd0NE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Monster Hunter Rise] May the hunt BEGIN\nhttps://www.youtube.com/watch?v=gGmE3SJiJaI
+DURATION:PT2H
+DTSTART:20210404T005850Z
+SUMMARY:Gura: [Monster Hunter Rise] May the hunt BEGIN
+UID:gGmE3SJiJaI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MARIO KART】A Casual Morning Drive To Work #kfp #キアライブ\nhttps://www.youtube.com/watch?v=Ja12M3QklCk
@@ -39,17 +46,17 @@ SUMMARY:Kiara: 【#HOLOTALK】With our 7th guest: Aki Rosenthal #HIPstars #ロ�
 UID:9Dc_5JhTMUw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DKC】DONKEY WATSON\nhttps://www.youtube.com/watch?v=o5AFEwAd0NE
+DESCRIPTION:【Oblivion】Jank Scrolls | ES:IV #7\nhttps://www.youtube.com/watch?v=NZ-oGtVFpVA
 DURATION:PT2H
-DTSTART:20210402T220000Z
-SUMMARY:Amelia: 【DKC】DONKEY WATSON
-UID:o5AFEwAd0NE
+DTSTART:20210403T190500Z
+SUMMARY:Amelia: 【Oblivion】Jank Scrolls | ES:IV #7
+UID:NZ-oGtVFpVA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【BIRTHDAY STREAM】The Grim Reaper's Birthday Bash and EP Release Party\, Yo! #moribirthd4y #holomyth\nhttps://www.youtube.com/watch?v=NiziRRHFZGA
+DESCRIPTION:[SSSS.DYNAZENON] Anime watch-along! #SSSS_WATCHPARTY\nhttps://www.youtube.com/watch?v=QMBUJnHSPts
 DURATION:PT2H
-DTSTART:20210404T140000Z
-SUMMARY:Calli: 【BIRTHDAY STREAM】The Grim Reaper's Birthday Bash and EP Release Party\, Yo! #moribirthd4y #holomyth
-UID:NiziRRHFZGA
+DTSTART:20210403T020033Z
+SUMMARY:Gura: [SSSS.DYNAZENON] Anime watch-along! #SSSS_WATCHPARTY
+UID:QMBUJnHSPts
 END:VEVENT
 END:VCALENDAR
