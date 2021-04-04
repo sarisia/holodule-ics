@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ゲリラのやつ】ベットの上でごろごろしてるだけで時間を消費するくらいならってやつ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=RwrmJTHfz4g
-DURATION:PT2H
-DTSTART:20210402T220500Z
-SUMMARY:🍕アルランディス: 【ゲリラのやつ】ベットの上でごろごろしてるだけで時間を消費するくらいならってやつ【アルランディス/ホロスターズ】
-UID:RwrmJTHfz4g
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【バイオハザード7】いうて、人なら怖くないし。/ BIOHAZARD7\nhttps://www.youtube.com/watch?v=F1QkhOExjwc
 DURATION:PT2H
 DTSTART:20210403T153000Z
@@ -18,11 +11,11 @@ SUMMARY:🎭アステル・レダ: 【バイオハザード7】いうて、人�
 UID:F1QkhOExjwc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】今日中にプラチナにならないと消される【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=zejXYop4ITs
+DESCRIPTION:【競馬同時視聴】大　阪　杯【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=ZZWByloazOs
 DURATION:PT2H
-DTSTART:20210403T101000Z
-SUMMARY:🦔💨岸堂天真: 【APEX】今日中にプラチナにならないと消される【岸堂天真/ホロスターズ】
-UID:zejXYop4ITs
+DTSTART:20210404T060000Z
+SUMMARY:🍷夕刻ロベル: 【競馬同時視聴】大　阪　杯【ホロスターズ/夕刻ロベル】
+UID:ZZWByloazOs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【バイオハザード7】今までのバイオと違って怖いらしい、怖いな【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=UDeUXRs7a74
@@ -30,5 +23,19 @@ DURATION:PT2H
 DTSTART:20210403T060000Z
 SUMMARY:🍕アルランディス: 【バイオハザード7】今までのバイオと違って怖いらしい、怖いな【アルランディス/ホロスターズ】
 UID:UDeUXRs7a74
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゲリラのやつ】ベットの上でごろごろしてるだけで時間を消費するくらいならってやつ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=RwrmJTHfz4g
+DURATION:PT2H
+DTSTART:20210402T220500Z
+SUMMARY:🍕アルランディス: 【ゲリラのやつ】ベットの上でごろごろしてるだけで時間を消費するくらいならってやつ【アルランディス/ホロスターズ】
+UID:RwrmJTHfz4g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】今日中にプラチナにならないと消される【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=zejXYop4ITs
+DURATION:PT2H
+DTSTART:20210403T101000Z
+SUMMARY:🦔💨岸堂天真: 【APEX】今日中にプラチナにならないと消される【岸堂天真/ホロスターズ】
+UID:zejXYop4ITs
 END:VEVENT
 END:VCALENDAR
