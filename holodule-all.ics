@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 歌枠 】いっぱい歌っちゃお～～～♪♪【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=DaT7j74W7zw
-DURATION:PT2H
-DTSTART:20210404T130000Z
-SUMMARY:⚓湊あくあ: 【 歌枠 】いっぱい歌っちゃお～～～♪♪【湊あくあ/ホロライブ】
-UID:DaT7j74W7zw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MONSTER HUNTER RISE 】イベントお疲れ様！狩猟会じゃい‼‼【ホロライブ/白上フブキ/角巻わため/大神ミオ】\nhttps://www.youtube.com/watch?v=4BLpH9Fd6Xk
 DURATION:PT2H
 DTSTART:20210404T151500Z
 SUMMARY:🌽白上フブキ: 【MONSTER HUNTER RISE 】イベントお疲れ様！狩猟会じゃい‼‼【ホロライブ/白上フブキ/角巻わため/大神ミオ】
 UID:4BLpH9Fd6Xk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Haaaaaachamaaaaaa!!\nhttps://www.youtube.com/watch?v=7CHH_7MYeyU
+DURATION:PT2H
+DTSTART:20210404T162836Z
+SUMMARY:💫天音かなた: Haaaaaachamaaaaaa!!
+UID:7CHH_7MYeyU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スパチャ読み】絶対脱線させないと誓った感謝のスパチャお礼読み💐【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=jxY5OVuvztc
@@ -37,13 +37,6 @@ DURATION:PT2H
 DTSTART:20210404T060000Z
 SUMMARY:🍷夕刻ロベル: 【競馬同時視聴】大　阪　杯【ホロスターズ/夕刻ロベル】
 UID:ZZWByloazOs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MONSTER HUNTER RISE】狩りにいくんだよ～～ん🐈【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=JLIrbAzhlvo
-DURATION:PT2H
-DTSTART:20210404T130000Z
-SUMMARY:🍙猫又おかゆ: 【MONSTER HUNTER RISE】狩りにいくんだよ～～ん🐈【猫又おかゆ/ホロライブ】
-UID:JLIrbAzhlvo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】深夜のtalk4/5【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=V3rRsYM2bCg
@@ -186,6 +179,13 @@ SUMMARY:❤赤井はあと: ゃりおゃりお
 UID:Hdduxl58xVE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【モンスターハンターライズ】村クエのんびり～！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=7qF388flAY4
+DURATION:PT2H
+DTSTART:20210405T000000Z
+SUMMARY:雪花ラミィ: 【モンスターハンターライズ】村クエのんびり～！！【雪花ラミィ/ホロライブ】
+UID:7qF388flAY4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【帰ってきた魔界村】あの伝説のしにゲーが新しくなって帰ってきたぞ！【律可/ホロスターズ】 ＃りつすた\nhttps://www.youtube.com/watch?v=kHgsCD5Yl7g
 DURATION:PT2H
 DTSTART:20210404T120000Z
@@ -228,6 +228,13 @@ SUMMARY:⚔白銀ノエル: 【仁王1】もうボスで100回４にたくない
 UID:jJ1fg6iO4g8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【モンハンライズ】はじめてのモンハン！いくぞ～！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=Yl1y4AH44VE
+DURATION:PT2H
+DTSTART:20210404T120000Z
+SUMMARY:獅白ぼたん: 【モンハンライズ】はじめてのモンハン！いくぞ～！【獅白ぼたん/ホロライブ】
+UID:Yl1y4AH44VE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【バイオハザード7】ケルベロスがそろったのでもう帰ります【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=4-RHzNE1HgA
 DURATION:PT2H
 DTSTART:20210404T093000Z
@@ -268,6 +275,13 @@ DURATION:PT2H
 DTSTART:20210403T153000Z
 SUMMARY:🎭アステル・レダ: 【バイオハザード7】いうて、人なら怖くないし。/ BIOHAZARD7
 UID:F1QkhOExjwc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】６万人ありがとう！感謝のお歌！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=19VuWrdpd24
+DURATION:PT2H
+DTSTART:20210404T140000Z
+SUMMARY:🦔💨岸堂天真: 【歌枠】６万人ありがとう！感謝のお歌！【岸堂天真/ホロスターズ】
+UID:19VuWrdpd24
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】あくたんに守られたいあぺ【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=Razjoh7c_Ek
