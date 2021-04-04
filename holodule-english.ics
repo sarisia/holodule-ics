@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:[SSSS.DYNAZENON] Anime watch-along! #SSSS_WATCHPARTY\nhttps://www.youtube.com/watch?v=QMBUJnHSPts
+DURATION:PT2H
+DTSTART:20210403T020033Z
+SUMMARY:Gura: [SSSS.DYNAZENON] Anime watch-along! #SSSS_WATCHPARTY
+UID:QMBUJnHSPts
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:[Monster Hunter Rise] May the hunt BEGIN\nhttps://www.youtube.com/watch?v=gGmE3SJiJaI
 DURATION:PT2H
 DTSTART:20210404T005850Z
@@ -25,18 +32,18 @@ SUMMARY:Kiara: 【MARIO KART】A Casual Morning Drive To Work #kfp #キアライ
 UID:Ja12M3QklCk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#HOLOTALK】With our 7th guest: Aki Rosenthal #HIPstars #ローゼントリ\nhttps://www.youtube.com/watch?v=9Dc_5JhTMUw
+DURATION:PT2H
+DTSTART:20210403T230000Z
+SUMMARY:Kiara: 【#HOLOTALK】With our 7th guest: Aki Rosenthal #HIPstars #ローゼントリ
+UID:9Dc_5JhTMUw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【DKC】DONKEY WATSON\nhttps://www.youtube.com/watch?v=o5AFEwAd0NE
 DURATION:PT2H
 DTSTART:20210402T220000Z
 SUMMARY:Amelia: 【DKC】DONKEY WATSON
 UID:o5AFEwAd0NE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[SSSS.DYNAZENON] Anime watch-along! #SSSS_WATCHPARTY\nhttps://www.youtube.com/watch?v=QMBUJnHSPts
-DURATION:PT2H
-DTSTART:20210403T020033Z
-SUMMARY:Gura: [SSSS.DYNAZENON] Anime watch-along! #SSSS_WATCHPARTY
-UID:QMBUJnHSPts
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【BIRTHDAY STREAM】The Grim Reaper's Birthday Bash and EP Release Party\, Yo! #moribirthd4y #holomyth\nhttps://www.youtube.com/watch?v=NiziRRHFZGA
