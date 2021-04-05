@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【BIRTHDAY STREAM】The Grim Reaper's Birthday Bash and EP Release Party\, Yo! #moribirthd4y #holomyth\nhttps://www.youtube.com/watch?v=NiziRRHFZGA
-DURATION:PT2H
-DTSTART:20210404T140025Z
-SUMMARY:Calli: 【BIRTHDAY STREAM】The Grim Reaper's Birthday Bash and EP Release Party\, Yo! #moribirthd4y #holomyth
-UID:NiziRRHFZGA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Oblivion】Jank Scrolls | ES:IV #7\nhttps://www.youtube.com/watch?v=NZ-oGtVFpVA
-DURATION:PT2H
-DTSTART:20210403T190500Z
-SUMMARY:Amelia: 【Oblivion】Jank Scrolls | ES:IV #7
-UID:NZ-oGtVFpVA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[MV] Red - Calliope Mori #HololiveEnglish #HoloMyth\nhttps://www.youtube.com/watch?v=-AuQZrUHjhg
 DURATION:PT2H
 DTSTART:20210404T133000Z
@@ -32,13 +18,6 @@ SUMMARY:Kiara: HAPPY BIRTHDAY CALLI (original ukulele song) #moribirthd4y​
 UID:ap6c_7uY2T8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#HOLOTALK】With our 7th guest: Aki Rosenthal #HIPstars #ローゼントリ\nhttps://www.youtube.com/watch?v=9Dc_5JhTMUw
-DURATION:PT2H
-DTSTART:20210403T230000Z
-SUMMARY:Kiara: 【#HOLOTALK】With our 7th guest: Aki Rosenthal #HIPstars #ローゼントリ
-UID:9Dc_5JhTMUw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MONSTER HUNTER RISE】 O\nhttps://www.youtube.com/watch?v=LXhZ0RgL5fY
 DURATION:PT2H
 DTSTART:20210404T201000Z
@@ -51,5 +30,33 @@ DURATION:PT2H
 DTSTART:20210404T005850Z
 SUMMARY:Gura: [Monster Hunter Rise] May the hunt BEGIN
 UID:gGmE3SJiJaI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SPIRITFARER】Grim Reaper is Sending Off Souls Again!?  #Holomyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=TBDIL4hrb_Y
+DURATION:PT2H
+DTSTART:20210406T000000Z
+SUMMARY:Calli: 【SPIRITFARER】Grim Reaper is Sending Off Souls Again!?  #Holomyth #HololiveEnglish
+UID:TBDIL4hrb_Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#HOLOTALK】With our 7th guest: Aki Rosenthal #HIPstars #ローゼントリ\nhttps://www.youtube.com/watch?v=9Dc_5JhTMUw
+DURATION:PT2H
+DTSTART:20210403T230000Z
+SUMMARY:Kiara: 【#HOLOTALK】With our 7th guest: Aki Rosenthal #HIPstars #ローゼントリ
+UID:9Dc_5JhTMUw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Oblivion】Jank Scrolls | ES:IV #7\nhttps://www.youtube.com/watch?v=NZ-oGtVFpVA
+DURATION:PT2H
+DTSTART:20210403T190500Z
+SUMMARY:Amelia: 【Oblivion】Jank Scrolls | ES:IV #7
+UID:NZ-oGtVFpVA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【BIRTHDAY STREAM】The Grim Reaper's Birthday Bash and EP Release Party\, Yo! #moribirthd4y #holomyth\nhttps://www.youtube.com/watch?v=NiziRRHFZGA
+DURATION:PT2H
+DTSTART:20210404T140025Z
+SUMMARY:Calli: 【BIRTHDAY STREAM】The Grim Reaper's Birthday Bash and EP Release Party\, Yo! #moribirthd4y #holomyth
+UID:NiziRRHFZGA
 END:VEVENT
 END:VCALENDAR
