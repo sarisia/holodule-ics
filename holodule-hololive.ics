@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【モンスターハンターライズ】ししろんと集会所～！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=8NgBEyzaehI
+DURATION:PT2H
+DTSTART:20210407T130000Z
+SUMMARY:雪花ラミィ: 【モンスターハンターライズ】ししろんと集会所～！！【雪花ラミィ/ホロライブ】
+UID:8NgBEyzaehI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 モンスターハンターライズ 】今日は１時間限定なのらっ！(・o・🍬)【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=9INLEoHZ6AQ
 DURATION:PT2H
 DTSTART:20210406T160000Z
 SUMMARY:🍬姫森ルーナ: 【 モンスターハンターライズ 】今日は１時間限定なのらっ！(・o・🍬)【姫森ルーナ/ホロライブ】
 UID:9INLEoHZ6AQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活雑談】久しぶりの朝活雑談！【4月8日】\nhttps://www.youtube.com/watch?v=6onNL6UN3hE
+DURATION:PT2H
+DTSTART:20210408T000000Z
+SUMMARY:雪花ラミィ: 【朝活雑談】久しぶりの朝活雑談！【4月8日】
+UID:6onNL6UN3hE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】こんなこといいな できたらいいな♪ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=SnojwaCxKLw
@@ -30,13 +44,6 @@ DURATION:PT2H
 DTSTART:20210408T030000Z
 SUMMARY:🐉桐生ココ: 【Monster Hunter RISE】いにしえプレイ更新中【桐生ココ/ホロライブ】
 UID:MI2viqJb9us
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【録画はメン限】お耳ハイジャックします！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=TAM2f5dsTok
-DURATION:PT2H
-DTSTART:20210407T150000Z
-SUMMARY:💋癒月ちょこ: 【録画はメン限】お耳ハイジャックします！【ホロライブ/癒月ちょこ】
-UID:TAM2f5dsTok
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#生スバル】バイオハザード7最終回：RESIDENT EVIL 7 biohazard【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=9FiX3Cjny4E
@@ -205,5 +212,12 @@ DURATION:PT2H
 DTSTART:20210406T154500Z
 SUMMARY:⚔白銀ノエル: 【ASMR／KU100】スパチャお礼🌸Super Chat Reading Time【白銀ノエル/ホロライブ】
 UID:itwWK5YgjEo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【モンハンライズ】いろいろ覚え始めた3日目！ラミちゃんと集会場もいく予定！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=wlVXF3WZhKI
+DURATION:PT2H
+DTSTART:20210407T130000Z
+SUMMARY:獅白ぼたん: 【モンハンライズ】いろいろ覚え始めた3日目！ラミちゃんと集会場もいく予定！【獅白ぼたん/ホロライブ】
+UID:wlVXF3WZhKI
 END:VEVENT
 END:VCALENDAR
