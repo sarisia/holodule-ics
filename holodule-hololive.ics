@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【モンスターハンターライズ】ししろんと集会所～！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=8NgBEyzaehI
-DURATION:PT2H
-DTSTART:20210407T130000Z
-SUMMARY:雪花ラミィ: 【モンスターハンターライズ】ししろんと集会所～！！【雪花ラミィ/ホロライブ】
-UID:8NgBEyzaehI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 モンスターハンターライズ 】今日は１時間限定なのらっ！(・o・🍬)【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=9INLEoHZ6AQ
 DURATION:PT2H
 DTSTART:20210406T160000Z
@@ -186,6 +179,13 @@ SUMMARY:🍬姫森ルーナ: 【 モンスターハンターライズ 】集会�
 UID:92o-LtQoxG8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:まったりウクレレ練習放送～～\nhttps://www.youtube.com/watch?v=0FQIVkhw3R8
+DURATION:PT2H
+DTSTART:20210407T140000Z
+SUMMARY:🌲大神ミオ: まったりウクレレ練習放送～～
+UID:0FQIVkhw3R8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:50万突破まで無心 / until 500k\nhttps://www.youtube.com/watch?v=bDp5LVNENr0
 DURATION:PT2H
 DTSTART:20210406T150000Z
@@ -205,12 +205,5 @@ DURATION:PT2H
 DTSTART:20210406T154500Z
 SUMMARY:⚔白銀ノエル: 【ASMR／KU100】スパチャお礼🌸Super Chat Reading Time【白銀ノエル/ホロライブ】
 UID:itwWK5YgjEo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【モンハンライズ】いろいろ覚え始めた3日目！ラミちゃんと集会場もいく予定！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=wlVXF3WZhKI
-DURATION:PT2H
-DTSTART:20210407T130000Z
-SUMMARY:獅白ぼたん: 【モンハンライズ】いろいろ覚え始めた3日目！ラミちゃんと集会場もいく予定！【獅白ぼたん/ホロライブ】
-UID:wlVXF3WZhKI
 END:VEVENT
 END:VCALENDAR

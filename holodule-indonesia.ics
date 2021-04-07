@@ -11,13 +11,6 @@ SUMMARY:🐿Risu: ba
 UID:eox8wX7qwwg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】DON'T THINK\, JUST APEX【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=5ZFHDxv5C2s
-DURATION:PT2H
-DTSTART:20210407T125817Z
-SUMMARY:Ollie: 【APEX】DON'T THINK\, JUST APEX【Hololive Indonesia 2nd Gen】
-UID:5ZFHDxv5C2s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Chiling in minecraft again~【Moona】\nhttps://www.youtube.com/watch?v=uhkyRvFD808
 DURATION:PT2H
 DTSTART:20210407T130000Z
@@ -30,6 +23,13 @@ DURATION:PT2H
 DTSTART:20210407T082650Z
 SUMMARY:Ollie: 【MINECRAFT】THIS IS A FREETALK【Hololive Indonesia 2nd Gen】
 UID:cw294ArKy8Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ha ~?\nhttps://www.youtube.com/watch?v=4OsgOUPnk34
+DURATION:PT2H
+DTSTART:20210407T154530Z
+SUMMARY:🐿Risu: ha ~?
+UID:4OsgOUPnk34
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【hololiveID】LET'S TALK ABOUT YESTERDAY ANNIVERSARY ~!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=TJ4a1lE49TQ
@@ -60,10 +60,17 @@ SUMMARY:IDholo: id:entity voices (Japanese Ver.) - hololive ID
 UID:lA6YSTkywto
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ha ~?\nhttps://www.youtube.com/watch?v=4OsgOUPnk34
+DESCRIPTION:【hololiveID】CONSIDER IT 2 ???? HOHOHOHO【Ayunda Risu】\nhttps://www.youtube.com/watch?v=wbFfMfp_dnQ
 DURATION:PT2H
-DTSTART:20210407T154530Z
-SUMMARY:🐿Risu: ha ~?
-UID:4OsgOUPnk34
+DTSTART:20210407T140000Z
+SUMMARY:🐿Risu: 【hololiveID】CONSIDER IT 2 ???? HOHOHOHO【Ayunda Risu】
+UID:wbFfMfp_dnQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PROJECT SEKAI】Sakura Mochi & Dango【hololiveID】\nhttps://www.youtube.com/watch?v=-QWjal2Y9tM
+DURATION:PT2H
+DTSTART:20210407T140000Z
+SUMMARY:🎨Iofi: 【PROJECT SEKAI】Sakura Mochi & Dango【hololiveID】
+UID:-QWjal2Y9tM
 END:VEVENT
 END:VCALENDAR

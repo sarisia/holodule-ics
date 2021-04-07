@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【弾き語り枠】レコーディングした後の歌！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=U-uxlpmJng8
-DURATION:PT2H
-DTSTART:20210406T150000Z
-SUMMARY:⚙律可: 【弾き語り枠】レコーディングした後の歌！【律可/ホロスターズ】#りつすた
-UID:U-uxlpmJng8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Dead by Daylight】初めまして、トリックスターさん。【#岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=Mq1wrzGl4hA
 DURATION:PT2H
 DTSTART:20210407T101500Z
@@ -25,11 +18,25 @@ SUMMARY:🍕アルランディス: 【バイオハザード7】ハイテンシ�
 UID:DOai2xr8_k4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【STUDY】英語勉強、はじめました。チャンネルの挨拶編【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=aFD5ppKrwB0
+DURATION:PT2H
+DTSTART:20210407T230000Z
+SUMMARY:🦔💨岸堂天真: 【STUDY】英語勉強、はじめました。チャンネルの挨拶編【岸堂天真/ホロスターズ】
+UID:aFD5ppKrwB0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【お昼に運動】8回目 自宅でできる運動と筋肉【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=7f3aHo8VMn4
 DURATION:PT2H
 DTSTART:20210408T030000Z
 SUMMARY:🍕アルランディス: 【お昼に運動】8回目 自宅でできる運動と筋肉【アルランディス/ホロスターズ】
 UID:7f3aHo8VMn4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ガチャ】もしも岸堂天真がソシャゲのガチャにいたらどうなるか!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=B9nJ1ZZze_s
+DURATION:PT2H
+DTSTART:20210407T140000Z
+SUMMARY:🦔💨岸堂天真: 【ガチャ】もしも岸堂天真がソシャゲのガチャにいたらどうなるか!!【岸堂天真/ホロスターズ】
+UID:B9nJ1ZZze_s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MONSTER HUNTER　RISE】上位装備でサクサク里クエ【ホロスターズ/荒咬オウガ】\nhttps://www.youtube.com/watch?v=0Q2nYuu6ScY
@@ -44,5 +51,12 @@ DURATION:PT2H
 DTSTART:20210406T213000Z
 SUMMARY:🍕アルランディス: 【朝活！】Theme:New Slang Talk With temma & Miyabi(?)【アルランディス/岸堂天真/花咲みやび(?)/ホロスターズ】
 UID:59EM7Z0eeKQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【弾き語り枠】レコーディングした後の歌！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=U-uxlpmJng8
+DURATION:PT2H
+DTSTART:20210406T150000Z
+SUMMARY:⚙律可: 【弾き語り枠】レコーディングした後の歌！【律可/ホロスターズ】#りつすた
+UID:U-uxlpmJng8
 END:VEVENT
 END:VCALENDAR
