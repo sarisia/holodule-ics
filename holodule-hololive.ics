@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:こらぼっち\nhttps://www.youtube.com/watch?v=2yOe-j0oI50
+DURATION:PT2H
+DTSTART:20210409T120000Z
+SUMMARY:🥐戌神ころね: こらぼっち
+UID:2yOe-j0oI50
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【朝活雑談】久しぶりの朝活雑談！【4月8日】\nhttps://www.youtube.com/watch?v=6onNL6UN3hE
 DURATION:PT2H
 DTSTART:20210408T000000Z
@@ -275,5 +282,12 @@ DURATION:PT2H
 DTSTART:20210409T120000Z
 SUMMARY:🍬姫森ルーナ: 【 #ホロAmongUs​​​ 】んなあああああ【姫森ルーナ/ホロライブ】
 UID:i3yzTq-VJmc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロAmongUs​​​】今日はおしとやかにいくでがんすよ（ ）【獅白ぼたん視点/ホロライブ】\nhttps://www.youtube.com/watch?v=8gfSis2G9sg
+DURATION:PT2H
+DTSTART:20210409T120000Z
+SUMMARY:獅白ぼたん: 【#ホロAmongUs​​​】今日はおしとやかにいくでがんすよ（ ）【獅白ぼたん視点/ホロライブ】
+UID:8gfSis2G9sg
 END:VEVENT
 END:VCALENDAR
