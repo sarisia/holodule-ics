@@ -4,32 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ゼルダの伝説BotW】飛び出せ、世界。 Part1【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=YmOfC9p-Pxw
-DURATION:PT2H
-DTSTART:20210409T230000Z
-SUMMARY:🌺花咲みやび: 【ゼルダの伝説BotW】飛び出せ、世界。 Part1【花咲みやび/ホロスターズ】
-UID:YmOfC9p-Pxw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【KIDS】なんだろう…穴に入れて見つめるのやめてもらってもいいですか【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Vcqnx0ivaDI
-DURATION:PT2H
-DTSTART:20210410T130000Z
-SUMMARY:🍕アルランディス: 【KIDS】なんだろう…穴に入れて見つめるのやめてもらってもいいですか【アルランディス/ホロスターズ】
-UID:Vcqnx0ivaDI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】ガンプラ&雑談【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=EPzFwoeMe_U
 DURATION:PT2H
 DTSTART:20210409T150000Z
 SUMMARY:荒咬オウガ: 【雑談】ガンプラ&雑談【荒咬オウガ/ホロスターズ】
 UID:EPzFwoeMe_U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【STUDY】Phrases that can be used in DBD/DBDで使えるフレーズ【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=idM5phDyRfA
-DURATION:PT2H
-DTSTART:20210411T230000Z
-SUMMARY:🦔💨岸堂天真: 【STUDY】Phrases that can be used in DBD/DBDで使えるフレーズ【岸堂天真/ホロスターズ】
-UID:idM5phDyRfA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【10万人記念！】まさかまさかの10本仕立て！10時間を遊び尽くせ！【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=dNAbILKBQFk
@@ -46,10 +25,45 @@ SUMMARY:🌺花咲みやび: 【スマブラSP】別に天真さんを倒して�
 UID:3l8a3LPHMso
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【モンハンライズ】リスナー参加型！キャリーは任せろ！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=sf78XwfvnBA
+DURATION:PT2H
+DTSTART:20210410T140000Z
+SUMMARY:⚙律可: 【モンハンライズ】リスナー参加型！キャリーは任せろ！【律可/ホロスターズ】#りつすた
+UID:sf78XwfvnBA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】深夜のtalk4/10【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=KPhJTo2oJV0
+DURATION:PT2H
+DTSTART:20210410T150000Z
+SUMMARY:荒咬オウガ: 【雑談】深夜のtalk4/10【荒咬オウガ/ホロスターズ】
+UID:KPhJTo2oJV0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【STUDY】Phrases that can be used in DBD/DBDで使えるフレーズ【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=idM5phDyRfA
+DURATION:PT2H
+DTSTART:20210411T230000Z
+SUMMARY:🦔💨岸堂天真: 【STUDY】Phrases that can be used in DBD/DBDで使えるフレーズ【岸堂天真/ホロスターズ】
+UID:idM5phDyRfA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【KIDS】なんだろう…穴に入れて見つめるのやめてもらってもいいですか【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Vcqnx0ivaDI
+DURATION:PT2H
+DTSTART:20210410T130000Z
+SUMMARY:🍕アルランディス: 【KIDS】なんだろう…穴に入れて見つめるのやめてもらってもいいですか【アルランディス/ホロスターズ】
+UID:Vcqnx0ivaDI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【モンハンライズ】環境生物研究家のアルランディスです【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=CKIJYYY7WMs
 DURATION:PT2H
 DTSTART:20210411T030000Z
 SUMMARY:🍕アルランディス: 【モンハンライズ】環境生物研究家のアルランディスです【アルランディス/ホロスターズ】
 UID:CKIJYYY7WMs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゼルダの伝説BotW】飛び出せ、世界。 Part1【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=YmOfC9p-Pxw
+DURATION:PT2H
+DTSTART:20210409T230000Z
+SUMMARY:🌺花咲みやび: 【ゼルダの伝説BotW】飛び出せ、世界。 Part1【花咲みやび/ホロスターズ】
+UID:YmOfC9p-Pxw
 END:VEVENT
 END:VCALENDAR
