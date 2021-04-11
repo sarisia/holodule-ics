@@ -4,32 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【In Silence】ホロスターズは明るい職場です。誰も誰を恨んでいません。\nhttps://www.youtube.com/watch?v=NSWPyIdM94A
-DURATION:PT2H
-DTSTART:20210411T130000Z
-SUMMARY:🎭アステル・レダ: 【In Silence】ホロスターズは明るい職場です。誰も誰を恨んでいません。
-UID:NSWPyIdM94A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【In Silence】恐怖のこわこわ鬼ごっこ-アルランディス視点-【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=FUgP70SGgEs
-DURATION:PT2H
-DTSTART:20210411T130000Z
-SUMMARY:🍕アルランディス: 【In Silence】恐怖のこわこわ鬼ごっこ-アルランディス視点-【アルランディス/ホロスターズ】
-UID:FUgP70SGgEs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】深夜のtalk4/10【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=KPhJTo2oJV0
-DURATION:PT2H
-DTSTART:20210410T150000Z
-SUMMARY:荒咬オウガ: 【雑談】深夜のtalk4/10【荒咬オウガ/ホロスターズ】
-UID:KPhJTo2oJV0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【モンハンライズ】環境生物研究家のアルランディスです【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=CKIJYYY7WMs
 DURATION:PT2H
 DTSTART:20210411T030000Z
 SUMMARY:🍕アルランディス: 【モンハンライズ】環境生物研究家のアルランディスです【アルランディス/ホロスターズ】
 UID:CKIJYYY7WMs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:astel ch.アステル のライブ配信\nhttps://www.youtube.com/watch?v=Q2azua4ruRw
+DURATION:PT2H
+DTSTART:20210411T131359Z
+SUMMARY:🎭アステル・レダ: astel ch.アステル のライブ配信
+UID:Q2azua4ruRw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【STUDY】Phrases that can be used in DBD/DBDで使えるフレーズ【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=idM5phDyRfA
@@ -46,17 +32,10 @@ SUMMARY:🍕アルランディス: 【競馬のやつ】俺が愛馬だ-実は�
 UID:iYsKHzv4dRE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【In Silence】怖いのは怪物か？それともメンバーか？【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=S0PKVJBG9jk
+DESCRIPTION:【雑談】深夜のtalk4/10【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=KPhJTo2oJV0
 DURATION:PT2H
-DTSTART:20210411T130000Z
-SUMMARY:🌺花咲みやび: 【In Silence】怖いのは怪物か？それともメンバーか？【花咲みやび/ホロスターズ】
-UID:S0PKVJBG9jk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:astel ch.アステル のライブ配信\nhttps://www.youtube.com/watch?v=Q2azua4ruRw
-DURATION:PT2H
-DTSTART:20210411T131359Z
-SUMMARY:🎭アステル・レダ: astel ch.アステル のライブ配信
-UID:Q2azua4ruRw
+DTSTART:20210410T150000Z
+SUMMARY:荒咬オウガ: 【雑談】深夜のtalk4/10【荒咬オウガ/ホロスターズ】
+UID:KPhJTo2oJV0
 END:VEVENT
 END:VCALENDAR
