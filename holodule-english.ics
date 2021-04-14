@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【IT TAKES TWO #01】So-Called "TakaMori" Team Work! with Takanashi Kiara\nhttps://www.youtube.com/watch?v=EpNwZJ5xoj0
-DURATION:PT2H
-DTSTART:20210415T130000Z
-SUMMARY:Calli: 【IT TAKES TWO #01】So-Called "TakaMori" Team Work! with Takanashi Kiara
-UID:EpNwZJ5xoj0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DRAWING】 Nier....Far...Wherever You Are...\nhttps://www.youtube.com/watch?v=nSJCRGNC4oc
 DURATION:PT2H
 DTSTART:20210414T170000Z
 SUMMARY:Ina: 【DRAWING】 Nier....Far...Wherever You Are...
 UID:nSJCRGNC4oc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Q & A】Detective Diaries | Answering YOUR Questions\nhttps://www.youtube.com/watch?v=VNel79gPOZI
-DURATION:PT2H
-DTSTART:20210414T190500Z
-SUMMARY:Amelia: 【Q & A】Detective Diaries | Answering YOUR Questions
-UID:VNel79gPOZI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Mario Sunshine】ITSA AME\nhttps://www.youtube.com/watch?v=9GgmxoKZQQg
@@ -46,17 +32,24 @@ SUMMARY:Calli: 【MANGA READING】DAD Ain't Done Yet! My Dad Is the Queen of All
 UID:ZVkjfqLqU2k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Oblivion】DEFEATING EVIL | ES:IV #10\nhttps://www.youtube.com/watch?v=98Bk7nmK-w8
-DURATION:PT2H
-DTSTART:20210413T221000Z
-SUMMARY:Amelia: 【Oblivion】DEFEATING EVIL | ES:IV #10
-UID:98Bk7nmK-w8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MONSTER HUNTER RISE】 Not Tree-bien\nhttps://www.youtube.com/watch?v=XCyHAE5kDMU
 DURATION:PT2H
 DTSTART:20210413T210000Z
 SUMMARY:Ina: 【MONSTER HUNTER RISE】 Not Tree-bien
 UID:XCyHAE5kDMU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【IT TAKES TWO #01】So-Called "TakaMori" Team Work! with Takanashi Kiara\nhttps://www.youtube.com/watch?v=EpNwZJ5xoj0
+DURATION:PT2H
+DTSTART:20210415T130000Z
+SUMMARY:Calli: 【IT TAKES TWO #01】So-Called "TakaMori" Team Work! with Takanashi Kiara
+UID:EpNwZJ5xoj0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Oblivion】DEFEATING EVIL | ES:IV #10\nhttps://www.youtube.com/watch?v=98Bk7nmK-w8
+DURATION:PT2H
+DTSTART:20210413T221000Z
+SUMMARY:Amelia: 【Oblivion】DEFEATING EVIL | ES:IV #10
+UID:98Bk7nmK-w8
 END:VEVENT
 END:VCALENDAR
