@@ -4,46 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【DRAWING】 Nier-ly Time!!\nhttps://www.youtube.com/watch?v=kbk95gShj-0
-DURATION:PT2H
-DTSTART:20210418T200000Z
-SUMMARY:Ina: 【DRAWING】 Nier-ly Time!!
-UID:kbk95gShj-0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Tippin' Tuesday】Superchat Reading\nhttps://www.youtube.com/watch?v=-J1cBHhjciw
 DURATION:PT2H
 DTSTART:20210420T220500Z
 SUMMARY:Amelia: 【Tippin' Tuesday】Superchat Reading
 UID:-J1cBHhjciw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Superchat Reading】Dankeschön to all of you!(*´▽｀*)  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=xiJnHzYp7x8
-DURATION:PT2H
-DTSTART:20210418T160000Z
-SUMMARY:Kiara: 【Superchat Reading】Dankeschön to all of you!(*´▽｀*)  #kfp #キアライブ
-UID:xiJnHzYp7x8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【IT TAKES TWO】So-Called "Takamori" Team Work! #hololiveenglish #holomyth\nhttps://www.youtube.com/watch?v=cg-MP4hzqHA
-DURATION:PT2H
-DTSTART:20210421T130000Z
-SUMMARY:Calli: 【IT TAKES TWO】So-Called "Takamori" Team Work! #hololiveenglish #holomyth
-UID:cg-MP4hzqHA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[Monster Hunter Rise] deep sea duo\nhttps://www.youtube.com/watch?v=WgAJ97FyJH0
-DURATION:PT2H
-DTSTART:20210419T220027Z
-SUMMARY:Gura: [Monster Hunter Rise] deep sea duo
-UID:WgAJ97FyJH0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[SUPER METROID] Crocomire!!\nhttps://www.youtube.com/watch?v=htSesevc0fw
-DURATION:PT2H
-DTSTART:20210419T000111Z
-SUMMARY:Gura: [SUPER METROID] Crocomire!!
-UID:htSesevc0fw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MISAO PART 2】How Many Ways Can We Perish!? I Would Like to Find Out. #Holomyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=DxKVbRCkawc
@@ -60,6 +25,13 @@ SUMMARY:Kiara: 【MINECRAFT】the legendary phoenix strikes again #kfp #キア�
 UID:COE0-VlxaGQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【IT TAKES TWO】So-Called "Takamori" Team Work! #hololiveenglish #holomyth\nhttps://www.youtube.com/watch?v=cg-MP4hzqHA
+DURATION:PT2H
+DTSTART:20210421T130000Z
+SUMMARY:Calli: 【IT TAKES TWO】So-Called "Takamori" Team Work! #hololiveenglish #holomyth
+UID:cg-MP4hzqHA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MONSTER HUNTER RISE】 A Shark and Tako Walk Into a Dango Shop\nhttps://www.youtube.com/watch?v=rqSxHrplZ34
 DURATION:PT2H
 DTSTART:20210419T220000Z
@@ -72,5 +44,12 @@ DURATION:PT2H
 DTSTART:20210420T080000Z
 SUMMARY:Kiara: 『僕らのあしあと』acoustic cover by Takanashi Kiara 【Happy Birthday Huke Papa!】
 UID:98Yx9TuE09A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Monster Hunter Rise] deep sea duo\nhttps://www.youtube.com/watch?v=WgAJ97FyJH0
+DURATION:PT2H
+DTSTART:20210419T220027Z
+SUMMARY:Gura: [Monster Hunter Rise] deep sea duo
+UID:WgAJ97FyJH0
 END:VEVENT
 END:VCALENDAR
