@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【McFunkin' Friday】Superchat Reading\nhttps://www.youtube.com/watch?v=-J1cBHhjciw
+DURATION:PT2H
+DTSTART:20210422T220500Z
+SUMMARY:Amelia: 【McFunkin' Friday】Superchat Reading
+UID:-J1cBHhjciw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】the legendary phoenix strikes again #kfp #キアライブ\nhttps://www.youtube.com/watch?v=COE0-VlxaGQ
+DURATION:PT2H
+DTSTART:20210420T150000Z
+SUMMARY:Kiara: 【MINECRAFT】the legendary phoenix strikes again #kfp #キアライブ
+UID:COE0-VlxaGQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【IT TAKES TWO】So-Called "Takamori" Team Work! #hololiveenglish #holomyth\nhttps://www.youtube.com/watch?v=cg-MP4hzqHA
 DURATION:PT2H
 DTSTART:20210421T130005Z
@@ -23,40 +37,5 @@ DURATION:PT2H
 DTSTART:20210421T183000Z
 SUMMARY:Kiara: 【Among Us】SPACESHIP INVASION #kfp #キアライブ
 UID:j8khI5ir-O8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[Monster Hunter Rise] deep sea duo\nhttps://www.youtube.com/watch?v=WgAJ97FyJH0
-DURATION:PT2H
-DTSTART:20210419T220027Z
-SUMMARY:Gura: [Monster Hunter Rise] deep sea duo
-UID:WgAJ97FyJH0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MISAO PART 2】How Many Ways Can We Perish!? I Would Like to Find Out. #Holomyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=DxKVbRCkawc
-DURATION:PT2H
-DTSTART:20210420T040031Z
-SUMMARY:Calli: 【MISAO PART 2】How Many Ways Can We Perish!? I Would Like to Find Out. #Holomyth #HololiveEnglish
-UID:DxKVbRCkawc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】the legendary phoenix strikes again #kfp #キアライブ\nhttps://www.youtube.com/watch?v=COE0-VlxaGQ
-DURATION:PT2H
-DTSTART:20210420T150000Z
-SUMMARY:Kiara: 【MINECRAFT】the legendary phoenix strikes again #kfp #キアライブ
-UID:COE0-VlxaGQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MONSTER HUNTER RISE】 A Shark and Tako Walk Into a Dango Shop\nhttps://www.youtube.com/watch?v=rqSxHrplZ34
-DURATION:PT2H
-DTSTART:20210419T220000Z
-SUMMARY:Ina: 【MONSTER HUNTER RISE】 A Shark and Tako Walk Into a Dango Shop
-UID:rqSxHrplZ34
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:『僕らのあしあと』acoustic cover by Takanashi Kiara 【Happy Birthday Huke Papa!】\nhttps://www.youtube.com/watch?v=98Yx9TuE09A
-DURATION:PT2H
-DTSTART:20210420T080000Z
-SUMMARY:Kiara: 『僕らのあしあと』acoustic cover by Takanashi Kiara 【Happy Birthday Huke Papa!】
-UID:98Yx9TuE09A
 END:VEVENT
 END:VCALENDAR
