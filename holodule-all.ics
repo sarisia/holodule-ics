@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【I Sing】Karrrrrrrrrrraoke ちょっと短めな歌枠 【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=wTyPcKNpIDM
+DURATION:PT2H
+DTSTART:20210423T143000Z
+SUMMARY:Anya: 【I Sing】Karrrrrrrrrrraoke ちょっと短めな歌枠 【hololive Indonesia 2nd Generation】
+UID:wTyPcKNpIDM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【McFunkin' Friday】Superchat Reading\nhttps://www.youtube.com/watch?v=-J1cBHhjciw
 DURATION:PT2H
 DTSTART:20210423T220500Z
@@ -114,6 +121,13 @@ DURATION:PT2H
 DTSTART:20210423T010024Z
 SUMMARY:Gura: [SMOL AME] GURA UPDATE
 UID:AHUP0GivAVY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【地獄コラボ】お互いの初配信を見る僕たち。【夕刻ロベル/奏手イヅル】\nhttps://www.youtube.com/watch?v=-qiPnA80PGE
+DURATION:PT2H
+DTSTART:20210423T140000Z
+SUMMARY:🍷夕刻ロベル: 【地獄コラボ】お互いの初配信を見る僕たち。【夕刻ロベル/奏手イヅル】
+UID:-qiPnA80PGE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 酒と肴 】高級クラブルーナ！開店なのら🍷(・o・🍬)【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=9aWQtjfbChM
