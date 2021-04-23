@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【cuphead 】初めてのカップヘッド！カップヘッド！！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=_OmxstrLyBM
+DESCRIPTION:【新衣装】桐生ココ！新しい服！お披露目ぇ！！！【#新衣装桐生ココ】\nhttps://www.youtube.com/watch?v=HBkJE0ZR35I
 DURATION:PT2H
-DTSTART:20210422T140000Z
-SUMMARY:🤖ロボ子さん: 【cuphead 】初めてのカップヘッド！カップヘッド！！！【ホロライブ/ロボ子さん】
-UID:_OmxstrLyBM
+DTSTART:20210423T130000Z
+SUMMARY:🐉桐生ココ: 【新衣装】桐生ココ！新しい服！お披露目ぇ！！！【#新衣装桐生ココ】
+UID:HBkJE0ZR35I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Untitled Goose Game】初めまして、ガチョ巻わためです！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=S3A8ymgImzA
+DURATION:PT2H
+DTSTART:20210423T140000Z
+SUMMARY:🐏角巻わため: 【Untitled Goose Game】初めまして、ガチョ巻わためです！【角巻わため/ホロライブ４期生】
+UID:S3A8ymgImzA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】うわあああああ！！！！；；；【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=weUh0e8SuG0
@@ -16,27 +23,6 @@ DURATION:PT2H
 DTSTART:20210423T090000Z
 SUMMARY:🦋潤羽るしあ: 【Minecraft】うわあああああ！！！！；；；【潤羽るしあ/ホロライブ】
 UID:weUh0e8SuG0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【おバカな英会話/silly talk】おバカな英会話が面白すぎるぺこなんだけどｗｗぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=9x61KZnu3mw
-DURATION:PT2H
-DTSTART:20210422T110000Z
-SUMMARY:👯兎田ぺこら: 【おバカな英会話/silly talk】おバカな英会話が面白すぎるぺこなんだけどｗｗぺこ！【ホロライブ/兎田ぺこら】
-UID:9x61KZnu3mw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:☆OUT OF BODY☆\nhttps://www.youtube.com/watch?v=jl1A8ReVXBE
-DURATION:PT2H
-DTSTART:20210422T114835Z
-SUMMARY:⚓湊あくあ: ☆OUT OF BODY☆
-UID:jl1A8ReVXBE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【鬱マリン船長】夜な夜な夜な cover【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=vFunN0xiZAQ
-DURATION:PT2H
-DTSTART:20210422T140000Z
-SUMMARY:🏴☠宝鐘マリン: 【鬱マリン船長】夜な夜な夜な cover【ホロライブ/宝鐘マリン】
-UID:vFunN0xiZAQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ただいま】さみしかったかまつりす～！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=JGFJjDI4-9U
@@ -53,6 +39,13 @@ SUMMARY:💫天音かなた: 【かなたん爆誕】本当にありがとう【
 UID:vYPyXDGZPtc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【CRAZY】FUBUMIO STUDYENGLISH?【ホロライブ/白上フブキ/大神ミオ】\nhttps://www.youtube.com/watch?v=IOYarvGFtcU
+DURATION:PT2H
+DTSTART:20210423T120000Z
+SUMMARY:🌽白上フブキ: 【CRAZY】FUBUMIO STUDYENGLISH?【ホロライブ/白上フブキ/大神ミオ】
+UID:IOYarvGFtcU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】たくさんお話ししようよ～～～！【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=EtWXejq8Vhw
 DURATION:PT2H
 DTSTART:20210423T110000Z
@@ -67,25 +60,18 @@ SUMMARY:🔥不知火フレア: 【MONSTER HUNTER RISE】★７ソロ！操虫�
 UID:biDXRFuu3t8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【企画】おにぎりゃーを調査してみた！🍙【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=eXtit_NCDok
+DURATION:PT2H
+DTSTART:20210425T110000Z
+SUMMARY:🍙猫又おかゆ: 【企画】おにぎりゃーを調査してみた！🍙【猫又おかゆ/ホロライブ】
+UID:eXtit_NCDok
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【🎀】おかえりなさいませご主人様💓【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=8PozqxrEw10
 DURATION:PT2H
 DTSTART:20210423T080004Z
 SUMMARY:🤖ロボ子さん: 【🎀】おかえりなさいませご主人様💓【ホロライブ/ロボ子さん】
 UID:8PozqxrEw10
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:のんびりお話しながらすぱちゃ読むよ！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=GUtfsWgRE-I
-DURATION:PT2H
-DTSTART:20210422T130000Z
-SUMMARY:🐏角巻わため: のんびりお話しながらすぱちゃ読むよ！【角巻わため/ホロライブ４期生】
-UID:GUtfsWgRE-I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ヒバナ／天音かなた(Cover)\nhttps://www.youtube.com/watch?v=USrIMGRBA78
-DURATION:PT2H
-DTSTART:20210422T130000Z
-SUMMARY:💫天音かなた: ヒバナ／天音かなた(Cover)
-UID:USrIMGRBA78
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ドルオタ天使】準備号！Vtuber事務所ホロライブとは？【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=2Hgrua5hxWU
@@ -95,39 +81,11 @@ SUMMARY:💫天音かなた: 【#ドルオタ天使】準備号！Vtuber事務�
 UID:2Hgrua5hxWU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【モンハンライズ】金欠で武器が買えないので金策に行くぞい…【獅白ぼたん視点/ホロライブ】\nhttps://www.youtube.com/watch?v=LtM9cakHIaA
+DESCRIPTION:【歌練】🍑LESSON SINGING TIME🍑【ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=YxxCEvwrCcM
 DURATION:PT2H
-DTSTART:20210422T043000Z
-SUMMARY:獅白ぼたん: 【モンハンライズ】金欠で武器が買えないので金策に行くぞい…【獅白ぼたん視点/ホロライブ】
-UID:LtM9cakHIaA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ゲリラモンスターハンターライズ 】弓の装備作りたいのら～！(・o・🍬)【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=WepAcN2JFzQ
-DURATION:PT2H
-DTSTART:20210421T150000Z
-SUMMARY:🍬姫森ルーナ: 【 ゲリラモンスターハンターライズ 】弓の装備作りたいのら～！(・o・🍬)【姫森ルーナ/ホロライブ】
-UID:WepAcN2JFzQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ウクレレ】あやめと二人でウクレレ弾き語りコラボ（突発）\nhttps://www.youtube.com/watch?v=iZDDXbzK7WQ
-DURATION:PT2H
-DTSTART:20210422T143000Z
-SUMMARY:🌲大神ミオ: 【ウクレレ】あやめと二人でウクレレ弾き語りコラボ（突発）
-UID:iZDDXbzK7WQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ASMR】今月も君の耳をチェックします👂/ Ear Cleaning【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=AjsSR6OL-lU
-DURATION:PT2H
-DTSTART:20210422T140000Z
-SUMMARY:🍙猫又おかゆ: 【ASMR】今月も君の耳をチェックします👂/ Ear Cleaning【猫又おかゆ/ホロライブ】
-UID:AjsSR6OL-lU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#かなたん爆誕】🎉🎉お誕生日 3D LIVE🎉🎉【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=aPHng8urnYY
-DURATION:PT2H
-DTSTART:20210422T120000Z
-SUMMARY:💫天音かなた: 【#かなたん爆誕】🎉🎉お誕生日 3D LIVE🎉🎉【天音かなた/ホロライブ】
-UID:aPHng8urnYY
+DTSTART:20210423T030000Z
+SUMMARY:桃鈴ねね: 【歌練】🍑LESSON SINGING TIME🍑【ホロライブ/桃鈴ねね】
+UID:YxxCEvwrCcM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TABS】自分で考えたハチャメチャ戦争ができるゲーム/War simulation gameぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=s2Dh1xqCUH8
@@ -135,13 +93,6 @@ DURATION:PT2H
 DTSTART:20210423T110000Z
 SUMMARY:👯兎田ぺこら: 【TABS】自分で考えたハチャメチャ戦争ができるゲーム/War simulation gameぺこ！【ホロライブ/兎田ぺこら】
 UID:s2Dh1xqCUH8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポルカの伝説】知られたくなかったのにぃ！！\nhttps://www.youtube.com/watch?v=Y6uaZUw_FNA
-DURATION:PT2H
-DTSTART:20210422T100000Z
-SUMMARY:尾丸ポルカ: 【ポルカの伝説】知られたくなかったのにぃ！！
-UID:Y6uaZUw_FNA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ワンダーボーイ　アーシャ・イン・モンスターワールド】完全初見で大冒険だ！【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=yeNOMpQEeEo
@@ -158,11 +109,11 @@ SUMMARY:🍬姫森ルーナ: 【 酒と肴 】高級クラブルーナ！開店�
 UID:9aWQtjfbChM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【CRAZY】FUBUMIO STUDYENGLISH?【ホロライブ/白上フブキ/大神ミオ】\nhttps://www.youtube.com/watch?v=IOYarvGFtcU
+DESCRIPTION:【雑談】ちょこ先生の悪魔的雑談【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=gZJeqhf3aco
 DURATION:PT2H
-DTSTART:20210423T120000Z
-SUMMARY:🌽白上フブキ: 【CRAZY】FUBUMIO STUDYENGLISH?【ホロライブ/白上フブキ/大神ミオ】
-UID:IOYarvGFtcU
+DTSTART:20210422T150000Z
+SUMMARY:💋癒月ちょこ: 【雑談】ちょこ先生の悪魔的雑談【ホロライブ/癒月ちょこ】
+UID:gZJeqhf3aco
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MONSTER HUNTER RISE】上位ガンランス武器と防具作る！！【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=jGUfo-t4ocA
@@ -172,94 +123,10 @@ SUMMARY:🍎アキロゼ: 【MONSTER HUNTER RISE】上位ガンランス武器�
 UID:jGUfo-t4ocA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【GTAV】今日も一悪！I'm going to do something bad tonight.😎【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=kRon_yB2ajU
-DURATION:PT2H
-DTSTART:20210422T140000Z
-SUMMARY:🔥不知火フレア: 【GTAV】今日も一悪！I'm going to do something bad tonight.😎【ホロライブ/不知火フレア】
-UID:kRon_yB2ajU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【お披露目の裏側で】サムネポーズつくりに夢中のそら【ときのそら】\nhttps://www.youtube.com/watch?v=o4V_dmYmbYY
 DURATION:PT2H
 DTSTART:20210423T103000Z
 SUMMARY:🐻ときのそら: 【お披露目の裏側で】サムネポーズつくりに夢中のそら【ときのそら】
 UID:o4V_dmYmbYY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【新衣装】桐生ココ！新しい服！お披露目ぇ！！！【#新衣装桐生ココ】\nhttps://www.youtube.com/watch?v=HBkJE0ZR35I
-DURATION:PT2H
-DTSTART:20210423T130000Z
-SUMMARY:🐉桐生ココ: 【新衣装】桐生ココ！新しい服！お披露目ぇ！！！【#新衣装桐生ココ】
-UID:HBkJE0ZR35I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Untitled Goose Game】初めまして、ガチョ巻わためです！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=S3A8ymgImzA
-DURATION:PT2H
-DTSTART:20210423T140000Z
-SUMMARY:🐏角巻わため: 【Untitled Goose Game】初めまして、ガチョ巻わためです！【角巻わため/ホロライブ４期生】
-UID:S3A8ymgImzA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【※ネタバレあり】 ブルー編をプレイするぞい続き！『サガ フロンティア リマスター』【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=bVNy8Fzp_wA
-DURATION:PT2H
-DTSTART:20210422T143000Z
-SUMMARY:獅白ぼたん: 【※ネタバレあり】 ブルー編をプレイするぞい続き！『サガ フロンティア リマスター』【獅白ぼたん/ホロライブ】
-UID:bVNy8Fzp_wA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 MONSTER HUNTER RISE 】深夜のモンハン部🍖上位へ突入した巫女ハンター【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=NDI3vtlHVX0
-DURATION:PT2H
-DTSTART:20210421T150000Z
-SUMMARY:🌸さくらみこ: 【 MONSTER HUNTER RISE 】深夜のモンハン部🍖上位へ突入した巫女ハンター【ホロライブ/さくらみこ】
-UID:NDI3vtlHVX0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【モンスターハンターライズ】★7制覇する！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=NcTK7tpTPNA
-DURATION:PT2H
-DTSTART:20210422T131500Z
-SUMMARY:👯兎田ぺこら: 【モンスターハンターライズ】★7制覇する！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:NcTK7tpTPNA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【英語勉強】Studying English!! I want to become able to speak English!!【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=MvaMY_92T-c
-DURATION:PT2H
-DTSTART:20210422T060000Z
-SUMMARY:☄星街すいせい: 【英語勉強】Studying English!! I want to become able to speak English!!【ホロライブ / 星街すいせい】
-UID:MvaMY_92T-c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【新企画の制作秘話】伝説のはじまりだ 【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=GXd0rcV8xH8
-DURATION:PT2H
-DTSTART:20210422T101500Z
-SUMMARY:尾丸ポルカ: 【新企画の制作秘話】伝説のはじまりだ 【尾丸ポルカ/ホロライブ】
-UID:GXd0rcV8xH8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌練】🍑LESSON SINGING TIME🍑【ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=YxxCEvwrCcM
-DURATION:PT2H
-DTSTART:20210423T030000Z
-SUMMARY:桃鈴ねね: 【歌練】🍑LESSON SINGING TIME🍑【ホロライブ/桃鈴ねね】
-UID:YxxCEvwrCcM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 バイオハザードRE:2 | 最終回 】初見バイオRE:2！シェリーを救い、真実へと辿り着け！にぇ【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=0EF7RaQ_boA
-DURATION:PT2H
-DTSTART:20210422T140000Z
-SUMMARY:🌸さくらみこ: 【 バイオハザードRE:2 | 最終回 】初見バイオRE:2！シェリーを救い、真実へと辿り着け！にぇ【ホロライブ/さくらみこ】
-UID:0EF7RaQ_boA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【予習】英語の文法知りたい配信【＃ときのそら生放送】\nhttps://www.youtube.com/watch?v=v0S1bUhmYDs
-DURATION:PT2H
-DTSTART:20210422T100000Z
-SUMMARY:🐻ときのそら: 【予習】英語の文法知りたい配信【＃ときのそら生放送】
-UID:v0S1bUhmYDs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】ちょこ先生の悪魔的雑談【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=gZJeqhf3aco
-DURATION:PT2H
-DTSTART:20210422T150000Z
-SUMMARY:💋癒月ちょこ: 【雑談】ちょこ先生の悪魔的雑談【ホロライブ/癒月ちょこ】
-UID:gZJeqhf3aco
 END:VEVENT
 END:VCALENDAR
