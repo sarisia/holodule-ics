@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Superchat Zatsudan】I had an Announcement!\nhttps://www.youtube.com/watch?v=-J1cBHhjciw
+DESCRIPTION:【Monster Hunter Rise】Part-Time Warriors Shift Starts!!! モンハン初見プレイ #kfp #キアライブ\nhttps://www.youtube.com/watch?v=RHIQF69Z46E
 DURATION:PT2H
-DTSTART:20210423T220500Z
-SUMMARY:Amelia: 【Superchat Zatsudan】I had an Announcement!
-UID:-J1cBHhjciw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[DEVIL MAY CRY 5] . . .\nhttps://www.youtube.com/watch?v=5p2KEkb_g34
-DURATION:PT2H
-DTSTART:20210424T000114Z
-SUMMARY:Gura: [DEVIL MAY CRY 5] . . .
-UID:5p2KEkb_g34
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【JUST CHATTING!】Weekend Wine Party with the Dead Beats! #Holomyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=oIDg7AHmpfg
-DURATION:PT2H
-DTSTART:20210424T130013Z
-SUMMARY:Calli: 【JUST CHATTING!】Weekend Wine Party with the Dead Beats! #Holomyth #HololiveEnglish
-UID:oIDg7AHmpfg
+DTSTART:20210424T200000Z
+SUMMARY:Kiara: 【Monster Hunter Rise】Part-Time Warriors Shift Starts!!! モンハン初見プレイ #kfp #キアライブ
+UID:RHIQF69Z46E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Story Of Seasons】Welcome to my Farm! (Pioneers of Olive Town)\nhttps://www.youtube.com/watch?v=SanTjOArUt4
@@ -32,20 +18,6 @@ SUMMARY:Amelia: 【Story Of Seasons】Welcome to my Farm! (Pioneers of Olive Tow
 UID:SanTjOArUt4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SIMS4】EXPANDING THE FAMILY #kfp #キアライブ\nhttps://www.youtube.com/watch?v=aKUKFcKI8VM
-DURATION:PT2H
-DTSTART:20210425T140000Z
-SUMMARY:Kiara: 【SIMS4】EXPANDING THE FAMILY #kfp #キアライブ
-UID:aKUKFcKI8VM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Monster Hunter Rise】Part-Time Warriors Shift Starts!!! モンハン初見プレイ #kfp #キアライブ\nhttps://www.youtube.com/watch?v=RHIQF69Z46E
-DURATION:PT2H
-DTSTART:20210424T200000Z
-SUMMARY:Kiara: 【Monster Hunter Rise】Part-Time Warriors Shift Starts!!! モンハン初見プレイ #kfp #キアライブ
-UID:RHIQF69Z46E
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Q&A】 Takodachi Assemble!!!\nhttps://www.youtube.com/watch?v=11Oy1smdSbE
 DURATION:PT2H
 DTSTART:20210424T230000Z
@@ -53,17 +25,17 @@ SUMMARY:Ina: 【Q&A】 Takodachi Assemble!!!
 UID:11Oy1smdSbE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MONSTER HUNTER RISE】 TakoAki Hunting Time!!!\nhttps://www.youtube.com/watch?v=iPyLNptDKS4
-DURATION:PT2H
-DTSTART:20210423T230000Z
-SUMMARY:Ina: 【MONSTER HUNTER RISE】 TakoAki Hunting Time!!!
-UID:iPyLNptDKS4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[BATHTUB PIZZA] THE STREAM\nhttps://www.youtube.com/watch?v=l5WIG1onKSk
 DURATION:PT2H
 DTSTART:20210425T000109Z
 SUMMARY:Gura: [BATHTUB PIZZA] THE STREAM
 UID:l5WIG1onKSk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SIMS4】EXPANDING THE FAMILY #kfp #キアライブ\nhttps://www.youtube.com/watch?v=aKUKFcKI8VM
+DURATION:PT2H
+DTSTART:20210425T140000Z
+SUMMARY:Kiara: 【SIMS4】EXPANDING THE FAMILY #kfp #キアライブ
+UID:aKUKFcKI8VM
 END:VEVENT
 END:VCALENDAR
