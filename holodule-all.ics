@@ -32,18 +32,18 @@ SUMMARY:獅白ぼたん: 【スーパーボンバーマン R オンライン】S
 UID:0QhrM5YxQZM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【BanG Dream! GBP】Multi-Live in EN Server! Let's Play Together!【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=f63prIqVeVo
-DURATION:PT2H
-DTSTART:20210425T040000Z
-SUMMARY:Reine: 【BanG Dream! GBP】Multi-Live in EN Server! Let's Play Together!【hololiveID 2nd generation】
-UID:f63prIqVeVo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【TABS】天才軍師がハチャメチャ戦争をするゲーム/War simulation gameぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=Zy5hcDmhaoc
 DURATION:PT2H
 DTSTART:20210426T110000Z
 SUMMARY:👯兎田ぺこら: 【TABS】天才軍師がハチャメチャ戦争をするゲーム/War simulation gameぺこ！【ホロライブ/兎田ぺこら】
 UID:Zy5hcDmhaoc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【BanG Dream! GBP】Multi-Live in EN Server! Let's Play Together!【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=f63prIqVeVo
+DURATION:PT2H
+DTSTART:20210425T040000Z
+SUMMARY:Reine: 【BanG Dream! GBP】Multi-Live in EN Server! Let's Play Together!【hololiveID 2nd generation】
+UID:f63prIqVeVo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ウマ娘 プリティーダービー】ガチャだね！！！！タイシンが追い込み？？？いやタイシンを追い込むんだよ！！！！！１【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=NVi6sT2_SK0
@@ -81,18 +81,18 @@ SUMMARY:⚙律可: 【ボンバーマンRオンライン】ホロロイド爆破
 UID:_CEktil_RtI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Apex Legends】ダイヤ、行きます【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=WMED3QJ4WJg
-DURATION:PT2H
-DTSTART:20210424T150000Z
-SUMMARY:🍕アルランディス: 【Apex Legends】ダイヤ、行きます【アルランディス/ホロスターズ】
-UID:WMED3QJ4WJg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【マイクラ】巨大建築の準備をまったりしよう！【桐生ココ/ホロライブ】\nhttps://www.youtube.com/watch?v=lcvSgblcG4A
 DURATION:PT2H
 DTSTART:20210425T140000Z
 SUMMARY:🐉桐生ココ: 【マイクラ】巨大建築の準備をまったりしよう！【桐生ココ/ホロライブ】
 UID:lcvSgblcG4A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Apex Legends】ダイヤ、行きます【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=WMED3QJ4WJg
+DURATION:PT2H
+DTSTART:20210424T150000Z
+SUMMARY:🍕アルランディス: 【Apex Legends】ダイヤ、行きます【アルランディス/ホロスターズ】
+UID:WMED3QJ4WJg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 スーパーボンバーマン Ｒ オンライン 】ノエみこ！？ボンバーマン対決💣【ホロライブ/さくらみこ/白銀ノエル】\nhttps://www.youtube.com/watch?v=y8kTWAA88Dk
@@ -235,6 +235,13 @@ SUMMARY:⚔白銀ノエル: 【晩酌】最近のオフ話を肴に団員さん�
 UID:n0VfgqD-1Q4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【APEX】KAGAYAKI杯　カスタムDAY1【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=kEbqsr3jupg
+DURATION:PT2H
+DTSTART:20210426T110500Z
+SUMMARY:👾常闇トワ: 【APEX】KAGAYAKI杯　カスタムDAY1【常闇トワ/ホロライブ】
+UID:kEbqsr3jupg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌番組】わためのうた ーボイトレ編ー （４月２６日）【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=5lD5Md3JSSs
 DURATION:PT2H
 DTSTART:20210425T213000Z
@@ -247,13 +254,6 @@ DURATION:PT2H
 DTSTART:20210426T000000Z
 SUMMARY:尾丸ポルカ: OHAPOL TIME!!!!!!!!!!!!!!! 【尾丸ポルカ/ホロライブ】
 UID:XaTvdUMY5CI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】KAGAYAKI杯　カスタムDAY1【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=kEbqsr3jupg
-DURATION:PT2H
-DTSTART:20210426T110500Z
-SUMMARY:👾常闇トワ: 【APEX】KAGAYAKI杯　カスタムDAY1【常闇トワ/ホロライブ】
-UID:kEbqsr3jupg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【バイオハザードヴィレッジ】8hours in VILLAGE『城編』やってみるぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=wIV1v9K9vaQ
@@ -312,6 +312,13 @@ SUMMARY:🐉桐生ココ: REDDIT SHITPOST REVIEW with KANATAN!
 UID:nMSK83e3Tw0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【モンハンライズ】参加型！★４解放！！皆と一緒に一狩りいこうぜ！！！！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=KRjzOTU0G38
+DURATION:PT2H
+DTSTART:20210426T080000Z
+SUMMARY:🤖ロボ子さん: 【モンハンライズ】参加型！★４解放！！皆と一緒に一狩りいこうぜ！！！！！【ホロライブ/ロボ子さん】
+UID:KRjzOTU0G38
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ガチャガチャへるつ・ふぃぎゅ@ラジオ/不知火フレア(VARK LIVE version）- Cinderella switch ～ふたりでみるホロライブ～ vol.3 より\nhttps://www.youtube.com/watch?v=PDj3XaZJeWY
 DURATION:PT2H
 DTSTART:20210425T110000Z
@@ -328,7 +335,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DEVOUR】新MAP精神病棟 ゆるスタは3人で再び乗り越える。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=87NIeGeULOE
 DURATION:PT2H
-DTSTART:20210426T130000Z
+DTSTART:20210426T120000Z
 SUMMARY:🦔💨岸堂天真: 【DEVOUR】新MAP精神病棟 ゆるスタは3人で再び乗り越える。【岸堂天真/ホロスターズ】
 UID:87NIeGeULOE
 END:VEVENT
@@ -417,6 +424,13 @@ SUMMARY:🦔💨岸堂天真: 【STUDY】let's study duolingo!! 学習アプリ�
 UID:C5jWgf8t-H8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【hololiveID】HEALTH CHECK ! HEALTH TIPS !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=KsT3VqSnIS4
+DURATION:PT2H
+DTSTART:20210426T130000Z
+SUMMARY:🐿Risu: 【hololiveID】HEALTH CHECK ! HEALTH TIPS !!!【Ayunda Risu】
+UID:KsT3VqSnIS4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【エミリア編】サガ フロンティア リマスター やるよ～！！！【※ネタバレあり】\nhttps://www.youtube.com/watch?v=Z2ZHTIbGyM0
 DURATION:PT2H
 DTSTART:20210426T110000Z
@@ -429,13 +443,6 @@ DURATION:PT2H
 DTSTART:20210426T120000Z
 SUMMARY:🐏角巻わため: 【Untitled Goose Game】また会ったな！ガチョ巻わためです！【角巻わため/ホロライブ４期生】
 UID:YfOvh25Wrus
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【hololiveID】HEALTH CHECK ! HEALTH TIPS !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=KsT3VqSnIS4
-DURATION:PT2H
-DTSTART:20210426T130000Z
-SUMMARY:🐿Risu: 【hololiveID】HEALTH CHECK ! HEALTH TIPS !!!【Ayunda Risu】
-UID:KsT3VqSnIS4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 ゲリラモンスターハンターライズ 】さぁ今日も狩りに行くのら！(・o・🍬)【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=X8CA2WjCE-I
@@ -499,6 +506,13 @@ DURATION:PT2H
 DTSTART:20210426T130000Z
 SUMMARY:⚙律可: 【安眠弾き語り枠】♪～癒しの旋律【律可/ホロスターズ】#りつすた
 UID:eww495EpT8M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】最近のお話おしゃべ🍎/ アステル・レダ\nhttps://www.youtube.com/watch?v=XKL-LU4QuS8
+DURATION:PT2H
+DTSTART:20210426T090000Z
+SUMMARY:🎭アステル・レダ: 【雑談】最近のお話おしゃべ🍎/ アステル・レダ
+UID:XKL-LU4QuS8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 NieR Replicant ver.1.22474487139...】完全初見 | シロがいれば、世界を、ヨナを救えるんだ！にぇ。#2【ホロライブ/さくらみこ】※ネタバレあり\nhttps://www.youtube.com/watch?v=ja-Gq-ZM4qc
