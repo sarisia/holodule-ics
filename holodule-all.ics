@@ -67,18 +67,18 @@ SUMMARY:桃鈴ねね: 【APEX】🍑1MATCH 2KILL CHALLENGE🍑【桃鈴ねね/ �
 UID:mqjJVzbnJhQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Chill in minecraft【Moona】\nhttps://www.youtube.com/watch?v=G5UimRuVYqA
-DURATION:PT2H
-DTSTART:20210427T140000Z
-SUMMARY:🔮Moona: 【Minecraft】Chill in minecraft【Moona】
-UID:G5UimRuVYqA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 ウマ娘プリティーダービー  】みこ、新ガチャを神引きしたいです！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=-QvM9N0gu8o
 DURATION:PT2H
 DTSTART:20210427T101500Z
 SUMMARY:🌸さくらみこ: 【 ウマ娘プリティーダービー  】みこ、新ガチャを神引きしたいです！！！！【ホロライブ/さくらみこ】
 UID:-QvM9N0gu8o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Chill in minecraft【Moona】\nhttps://www.youtube.com/watch?v=G5UimRuVYqA
+DURATION:PT2H
+DTSTART:20210427T140000Z
+SUMMARY:🔮Moona: 【Minecraft】Chill in minecraft【Moona】
+UID:G5UimRuVYqA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Indonesia Free Talk 】Hayolo.... Tau Kan Mau Ngomongin Apa? イオフィ】\nhttps://www.youtube.com/watch?v=99S7zTAjMxI
@@ -137,13 +137,6 @@ SUMMARY:荒咬オウガ: 【MONSTER HUNTER　RISE】ゆるモンハン【ホロ�
 UID:kvcpEXE1-ig
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Crystar】We Angered The Revenant Princess...【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=O5pRBOkriyA
-DURATION:PT2H
-DTSTART:20210428T143000Z
-SUMMARY:Anya: 【Crystar】We Angered The Revenant Princess...【hololive Indonesia 2nd Generation】
-UID:O5pRBOkriyA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【There is No Game】...Wrong Dimension\nhttps://www.youtube.com/watch?v=z80SD3ACg6o
 DURATION:PT2H
 DTSTART:20210427T220500Z
@@ -156,6 +149,13 @@ DURATION:PT2H
 DTSTART:20210428T030000Z
 SUMMARY:桃鈴ねね: 【Duolingo】🍑STADYYYYYYYYYYYY!!!!!!!!!🍑【桃鈴ねね/ ホロライブ】
 UID:pbNIDT4AYuU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Crystar】We Angered The Revenant Princess...【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=O5pRBOkriyA
+DURATION:PT2H
+DTSTART:20210428T143000Z
+SUMMARY:Anya: 【Crystar】We Angered The Revenant Princess...【hololive Indonesia 2nd Generation】
+UID:O5pRBOkriyA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:hoho\nhttps://www.youtube.com/watch?v=wGIp5gAk4Tc
@@ -326,11 +326,11 @@ SUMMARY:🐿Risu: ahaha
 UID:aEQU0Fkr5o4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ハロ／ハワユ　／角巻わため(Cover)\nhttps://www.youtube.com/watch?v=Um7SFkR-fEg
+DESCRIPTION:【STUDY】let's study duolingo!! 学習アプリをやる Part3【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=N86IHz_I9WQ
 DURATION:PT2H
-DTSTART:20210428T120000Z
-SUMMARY:🐏角巻わため: ハロ／ハワユ　／角巻わため(Cover)
-UID:Um7SFkR-fEg
+DTSTART:20210427T230000Z
+SUMMARY:🦔💨岸堂天真: 【STUDY】let's study duolingo!! 学習アプリをやる Part3【岸堂天真/ホロスターズ】
+UID:N86IHz_I9WQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:perfume Doggo.\nhttps://www.youtube.com/watch?v=hxS6BF_a2Rk
@@ -338,13 +338,6 @@ DURATION:PT2H
 DTSTART:20210427T153419Z
 SUMMARY:🥐戌神ころね: perfume Doggo.
 UID:hxS6BF_a2Rk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【STUDY】let's study duolingo!! 学習アプリをやる Part3【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=N86IHz_I9WQ
-DURATION:PT2H
-DTSTART:20210427T230000Z
-SUMMARY:🦔💨岸堂天真: 【STUDY】let's study duolingo!! 学習アプリをやる Part3【岸堂天真/ホロスターズ】
-UID:N86IHz_I9WQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MONSTER HUNTER RISE】モンハンVer.2.0アプデくる！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=xWqo_4VOVSM
@@ -359,6 +352,13 @@ DURATION:PT2H
 DTSTART:20210428T100000Z
 SUMMARY:🌸さくらみこ: 【  】はいしんよてっててててっちみこち！【ホロライブ/さくらみこ】
 UID:E3I-C2sVXQA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ハロ／ハワユ　／角巻わため(Cover)\nhttps://www.youtube.com/watch?v=Um7SFkR-fEg
+DURATION:PT2H
+DTSTART:20210428T120000Z
+SUMMARY:🐏角巻わため: ハロ／ハワユ　／角巻わため(Cover)
+UID:Um7SFkR-fEg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:hmmmmm\nhttps://www.youtube.com/watch?v=rR6zbfpoB40
@@ -499,13 +499,6 @@ DURATION:PT2H
 DTSTART:20210427T010003Z
 SUMMARY:🐿Risu: bye
 UID:Ip8Z20OwAl0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スパチャ読み】60万人記念スパチャお礼雑談💐【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=IlPpSLTq620
-DURATION:PT2H
-DTSTART:20210427T153000Z
-SUMMARY:🔥不知火フレア: 【スパチャ読み】60万人記念スパチャお礼雑談💐【不知火フレア/ホロライブ】
-UID:IlPpSLTq620
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:yay\nhttps://www.youtube.com/watch?v=A85yMzyzHaE
