@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【DRAWING】 INAFF\nhttps://www.youtube.com/watch?v=ortyajpctTI
+DESCRIPTION:【MINECRAFT】 Camping Trip With My Dead Beats!! #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=ELCTnx6sJUw
 DURATION:PT2H
-DTSTART:20210425T200000Z
-SUMMARY:Ina: 【DRAWING】 INAFF
-UID:ortyajpctTI
+DTSTART:20210427T030023Z
+SUMMARY:Calli: 【MINECRAFT】 Camping Trip With My Dead Beats!! #hololiveEnglish #holoMyth
+UID:ELCTnx6sJUw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Maintenance Day!\nhttps://www.youtube.com/watch?v=HYxbeOdnGjw
+DURATION:PT2H
+DTSTART:20210427T040500Z
+SUMMARY:Amelia: 【Minecraft】Maintenance Day!
+UID:HYxbeOdnGjw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】I WANT DIAMONDS AND EMERALDS #kfp #キアライブ\nhttps://www.youtube.com/watch?v=cuGlJNnbIfM
@@ -23,19 +30,5 @@ DURATION:PT2H
 DTSTART:20210427T000126Z
 SUMMARY:Gura: [SUPER METROID] Maridia ...
 UID:iH2ZcHxKBpk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】 Camping Trip With My Dead Beats!! #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=ELCTnx6sJUw
-DURATION:PT2H
-DTSTART:20210427T030023Z
-SUMMARY:Calli: 【MINECRAFT】 Camping Trip With My Dead Beats!! #hololiveEnglish #holoMyth
-UID:ELCTnx6sJUw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Maintenance Day!\nhttps://www.youtube.com/watch?v=HYxbeOdnGjw
-DURATION:PT2H
-DTSTART:20210427T040500Z
-SUMMARY:Amelia: 【Minecraft】Maintenance Day!
-UID:HYxbeOdnGjw
 END:VEVENT
 END:VCALENDAR

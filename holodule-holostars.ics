@@ -4,46 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Dead by Daylight】全く眠れなかったのでもう起きます【#岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=xlIyfpB-T0g
-DURATION:PT2H
-DTSTART:20210425T191000Z
-SUMMARY:🦔💨岸堂天真: 【Dead by Daylight】全く眠れなかったのでもう起きます【#岸堂天真/ホロスターズ】
-UID:xlIyfpB-T0g
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【切り抜き】酒飲んで終焉介護したら大変なことになった【ホロスターズ/アルランディス】\nhttps://www.youtube.com/watch?v=lZGAlSPzBnk
 DURATION:PT2H
 DTSTART:20210427T083010Z
 SUMMARY:🍕アルランディス: 【切り抜き】酒飲んで終焉介護したら大変なことになった【ホロスターズ/アルランディス】
 UID:lZGAlSPzBnk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【安眠弾き語り枠】♪～癒しの旋律【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=eww495EpT8M
-DURATION:PT2H
-DTSTART:20210426T130000Z
-SUMMARY:⚙律可: 【安眠弾き語り枠】♪～癒しの旋律【律可/ホロスターズ】#りつすた
-UID:eww495EpT8M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DEVOUR】新MAP精神病棟 ゆるスタは3人で再び乗り越える。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=87NIeGeULOE
-DURATION:PT2H
-DTSTART:20210426T120000Z
-SUMMARY:🦔💨岸堂天真: 【DEVOUR】新MAP精神病棟 ゆるスタは3人で再び乗り越える。【岸堂天真/ホロスターズ】
-UID:87NIeGeULOE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】最近のお話おしゃべ🍎/ アステル・レダ\nhttps://www.youtube.com/watch?v=XKL-LU4QuS8
-DURATION:PT2H
-DTSTART:20210426T090000Z
-SUMMARY:🎭アステル・レダ: 【雑談】最近のお話おしゃべ🍎/ アステル・レダ
-UID:XKL-LU4QuS8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－火曜日を無事に迎えた男の朝活雑談－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=8Qsg32Vst8Q
-DURATION:PT2H
-DTSTART:20210427T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－火曜日を無事に迎えた男の朝活雑談－【ホロスターズ/夕刻ロベル】
-UID:8Qsg32Vst8Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ニーアレプリカント】始まりの物語 #01【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=OXXA7S9pvgg
@@ -53,11 +18,11 @@ SUMMARY:影山シエン: 【ニーアレプリカント】始まりの物語 #01
 UID:OXXA7S9pvgg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【STUDY】let's study duolingo!! 学習アプリをやる Part2【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=HW_GpbPH91w
+DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－火曜日を無事に迎えた男の朝活雑談－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=8Qsg32Vst8Q
 DURATION:PT2H
-DTSTART:20210426T230000Z
-SUMMARY:🦔💨岸堂天真: 【STUDY】let's study duolingo!! 学習アプリをやる Part2【岸堂天真/ホロスターズ】
-UID:HW_GpbPH91w
+DTSTART:20210427T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－火曜日を無事に迎えた男の朝活雑談－【ホロスターズ/夕刻ロベル】
+UID:8Qsg32Vst8Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MONSTER HUNTER　RISE】ゆるモンハン【ホロスターズ/荒咬オウガ】\nhttps://www.youtube.com/watch?v=kvcpEXE1-ig
@@ -67,6 +32,13 @@ SUMMARY:荒咬オウガ: 【MONSTER HUNTER　RISE】ゆるモンハン【ホロ�
 UID:kvcpEXE1-ig
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【STUDY】let's study duolingo!! 学習アプリをやる Part2【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=HW_GpbPH91w
+DURATION:PT2H
+DTSTART:20210426T230000Z
+SUMMARY:🦔💨岸堂天真: 【STUDY】let's study duolingo!! 学習アプリをやる Part2【岸堂天真/ホロスターズ】
+UID:HW_GpbPH91w
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ASMR】添い寝しながら雑談してみる【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=5NkvKLnqLIY
 DURATION:PT2H
 DTSTART:20210427T140000Z
@@ -74,24 +46,17 @@ SUMMARY:🌺花咲みやび: 【ASMR】添い寝しながら雑談してみる�
 UID:5NkvKLnqLIY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【APEX】もうAPEXから逃げません（仮）100KILL  / アスイヅ\nhttps://www.youtube.com/watch?v=W5kQdTlfoXw
+DURATION:PT2H
+DTSTART:20210427T151500Z
+SUMMARY:🎭アステル・レダ: 【APEX】もうAPEXから逃げません（仮）100KILL  / アスイヅ
+UID:W5kQdTlfoXw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【深夜雑談】トゥエンティーフォートーク【影山シエン/ホロスタ―ズ】\nhttps://www.youtube.com/watch?v=HPrPXuFDOZI
 DURATION:PT2H
 DTSTART:20210426T150000Z
 SUMMARY:影山シエン: 【深夜雑談】トゥエンティーフォートーク【影山シエン/ホロスタ―ズ】
 UID:HPrPXuFDOZI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【※ネタバレあり】北斗が如く#2　愛を取り戻す！【ホロスターズ/荒咬オウガ】\nhttps://www.youtube.com/watch?v=7zie320Skhg
-DURATION:PT2H
-DTSTART:20210426T140000Z
-SUMMARY:荒咬オウガ: 【※ネタバレあり】北斗が如く#2　愛を取り戻す！【ホロスターズ/荒咬オウガ】
-UID:7zie320Skhg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【STUDY】let's study duolingo!! 学習アプリをやってみる【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=C5jWgf8t-H8
-DURATION:PT2H
-DTSTART:20210425T230000Z
-SUMMARY:🦔💨岸堂天真: 【STUDY】let's study duolingo!! 学習アプリをやってみる【岸堂天真/ホロスターズ】
-UID:C5jWgf8t-H8
 END:VEVENT
 END:VCALENDAR
