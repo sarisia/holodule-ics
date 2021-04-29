@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【BPM】Let's play Bullets Per Minutes!【#GeeMoon】\nhttps://www.youtube.com/watch?v=AF69g8Ds7QY
+DURATION:PT2H
+DTSTART:20210429T133000Z
+SUMMARY:🔮Moona: 【BPM】Let's play Bullets Per Minutes!【#GeeMoon】
+UID:AF69g8Ds7QY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【KEEP TALKING AND NOBODY EXPLODES】 LAMファミリーが集結!! w/しずく 姉ちゃん! #OLSZ【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=1FgVKSgxBxs
 DURATION:PT2H
 DTSTART:20210429T085944Z
@@ -25,11 +32,11 @@ SUMMARY:Anya: 【Crystar】We Angered The Revenant Princess...【hololive Indone
 UID:O5pRBOkriyA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【BPM】Let's play Bullets Per Minutes!【#GeeMoon】\nhttps://www.youtube.com/watch?v=AF69g8Ds7QY
+DESCRIPTION:【APEX】Goo goo Gaa gaa...?【hololiveID】\nhttps://www.youtube.com/watch?v=3WOuuYAUubI
 DURATION:PT2H
-DTSTART:20210429T133000Z
-SUMMARY:🔮Moona: 【BPM】Let's play Bullets Per Minutes!【#GeeMoon】
-UID:AF69g8Ds7QY
+DTSTART:20210429T140000Z
+SUMMARY:🎨Iofi: 【APEX】Goo goo Gaa gaa...?【hololiveID】
+UID:3WOuuYAUubI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Actually Sorting Out My Items....?【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=4RiG5bEsWso
@@ -37,5 +44,12 @@ DURATION:PT2H
 DTSTART:20210429T070000Z
 SUMMARY:Reine: 【Minecraft】Actually Sorting Out My Items....?【hololiveID 2nd gen】
 UID:4RiG5bEsWso
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】Scanning the Area! (but in baby) Reine/Iofi/Pochi Team!【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=w9cRv0cdR4w
+DURATION:PT2H
+DTSTART:20210429T140000Z
+SUMMARY:Reine: 【APEX】Scanning the Area! (but in baby) Reine/Iofi/Pochi Team!【hololiveID 2nd generation】
+UID:w9cRv0cdR4w
 END:VEVENT
 END:VCALENDAR
