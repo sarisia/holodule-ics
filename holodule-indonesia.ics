@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【UNARCHIVE ACAPELLA】SINGING APRIL GOODBYE~【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=j9_hMWTyKI4
+DESCRIPTION:【KARAOKE】I Swear We Have Young People Songs This Time?【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=PTIZ7iZUMIE
 DURATION:PT2H
-DTSTART:20210430T132755Z
-SUMMARY:Ollie: 【UNARCHIVE ACAPELLA】SINGING APRIL GOODBYE~【Hololive Indonesia 2nd Gen】
-UID:j9_hMWTyKI4
+DTSTART:20210430T150000Z
+SUMMARY:Reine: 【KARAOKE】I Swear We Have Young People Songs This Time?【hololiveID 2nd gen】
+UID:PTIZ7iZUMIE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Collab】Have Worries on Becoming A V-tuber? Ask Them All Here!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=ZtRcEvcs1c0
+DURATION:PT2H
+DTSTART:20210430T140000Z
+SUMMARY:Anya: 【Collab】Have Worries on Becoming A V-tuber? Ask Them All Here!【hololive Indonesia 2nd Generation】
+UID:ZtRcEvcs1c0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Mamah Moona】Curhatan pelajar dan mahasiswa disaat kelas online\, dan work from home.【S2 EP6 | ID】\nhttps://www.youtube.com/watch?v=V9mmQlj7bhs
@@ -23,19 +30,5 @@ DURATION:PT2H
 DTSTART:20210430T082735Z
 SUMMARY:Ollie: 【DONATION READING+FREETALK】CHATS??? DONATIONS!!!【Hololive Indonesia 2nd Gen】
 UID:UoUyyTlvCL8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Collab】Have Worries on Becoming A V-tuber? Ask Them All Here!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=ZtRcEvcs1c0
-DURATION:PT2H
-DTSTART:20210430T140000Z
-SUMMARY:Anya: 【Collab】Have Worries on Becoming A V-tuber? Ask Them All Here!【hololive Indonesia 2nd Generation】
-UID:ZtRcEvcs1c0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【KARAOKE】I Swear We Have Young People Songs This Time?【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=PTIZ7iZUMIE
-DURATION:PT2H
-DTSTART:20210430T150000Z
-SUMMARY:Reine: 【KARAOKE】I Swear We Have Young People Songs This Time?【hololiveID 2nd gen】
-UID:PTIZ7iZUMIE
 END:VEVENT
 END:VCALENDAR
