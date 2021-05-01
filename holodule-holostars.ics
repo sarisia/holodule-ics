@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【It Takes Two】見せてあげよう!!僕らの絆…!!【花咲みやび/アステル・レダ/ホロスターズ】\nhttps://www.youtube.com/watch?v=Mhes0fzP8aM
+DESCRIPTION:【NieR Replicant】砂の神殿に人助けに行く話【ネタバレあり】\nhttps://www.youtube.com/watch?v=PZMS9auDon8
 DURATION:PT2H
-DTSTART:20210501T150000Z
-SUMMARY:🌺花咲みやび: 【It Takes Two】見せてあげよう!!僕らの絆…!!【花咲みやび/アステル・レダ/ホロスターズ】
-UID:Mhes0fzP8aM
+DTSTART:20210501T100000Z
+SUMMARY:🍕アルランディス: 【NieR Replicant】砂の神殿に人助けに行く話【ネタバレあり】
+UID:PZMS9auDon8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#shorts あーちゃんが「ほぁ」っていうだけ\nhttps://www.youtube.com/watch?v=zUht3bJFoA4
@@ -25,20 +25,6 @@ SUMMARY:荒咬オウガ: 【記念】ピザで祝う1st Anniversary【荒咬オ�
 UID:cs_NUGMfRBs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:花岸月初め会議!!グッズを考える会【花咲みやび/岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=G_o86ehs1E4
-DURATION:PT2H
-DTSTART:20210501T130000Z
-SUMMARY:🌺花咲みやび: 花岸月初め会議!!グッズを考える会【花咲みやび/岸堂天真/ホロスターズ】
-UID:G_o86ehs1E4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【NieR Replicant】楽しみだったレプリカントリメイクをやる!!!!!! Part1【花咲みやび/ホロスターズ】【ネタバレあり】\nhttps://www.youtube.com/watch?v=czswmju0tjw
-DURATION:PT2H
-DTSTART:20210502T090000Z
-SUMMARY:🌺花咲みやび: 【NieR Replicant】楽しみだったレプリカントリメイクをやる!!!!!! Part1【花咲みやび/ホロスターズ】【ネタバレあり】
-UID:czswmju0tjw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【思考の館】 ホ ロ ス タ く し ゃ み 人 狼（助かる）【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=Q8juxExDR58
 DURATION:PT2H
 DTSTART:20210502T130000Z
@@ -51,5 +37,26 @@ DURATION:PT2H
 DTSTART:20210501T150000Z
 SUMMARY:🎭アステル・レダ: 【It Takes Two】僕たちはデビューのときから協力してきました笑 / アステル 花咲みやび
 UID:agKZWlejb0I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【It Takes Two】見せてあげよう!!僕らの絆…!!【花咲みやび/アステル・レダ/ホロスターズ】\nhttps://www.youtube.com/watch?v=Mhes0fzP8aM
+DURATION:PT2H
+DTSTART:20210501T150000Z
+SUMMARY:🌺花咲みやび: 【It Takes Two】見せてあげよう!!僕らの絆…!!【花咲みやび/アステル・レダ/ホロスターズ】
+UID:Mhes0fzP8aM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:花岸月初め会議!!グッズを考える会【花咲みやび/岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=G_o86ehs1E4
+DURATION:PT2H
+DTSTART:20210501T130000Z
+SUMMARY:🌺花咲みやび: 花岸月初め会議!!グッズを考える会【花咲みやび/岸堂天真/ホロスターズ】
+UID:G_o86ehs1E4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【NieR Replicant】楽しみだったレプリカントリメイクをやる!!!!!! Part1【花咲みやび/ホロスターズ】【ネタバレあり】\nhttps://www.youtube.com/watch?v=czswmju0tjw
+DURATION:PT2H
+DTSTART:20210502T090000Z
+SUMMARY:🌺花咲みやび: 【NieR Replicant】楽しみだったレプリカントリメイクをやる!!!!!! Part1【花咲みやび/ホロスターズ】【ネタバレあり】
+UID:czswmju0tjw
 END:VEVENT
 END:VCALENDAR
