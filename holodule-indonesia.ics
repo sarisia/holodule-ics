@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Reine Room Review】FINAL Part!! Whose room will stand out the most??【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=bnXqQf_gdKk
-DURATION:PT2H
-DTSTART:20210501T040000Z
-SUMMARY:Reine: 【Reine Room Review】FINAL Part!! Whose room will stand out the most??【hololiveID 2nd gen】
-UID:bnXqQf_gdKk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Mamah Moona】Curhatan pelajar dan mahasiswa disaat kelas online\, dan work from home.【S2 EP6 | ID】\nhttps://www.youtube.com/watch?v=V9mmQlj7bhs
 DURATION:PT2H
 DTSTART:20210429T200000Z
@@ -32,6 +25,13 @@ SUMMARY:Anya: 【Duolingo】HOLA!!!!!!!!!!!!!【hololive Indonesia 2nd Generatio
 UID:bsahk-pxl84
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Collab】Have Worries on Becoming A V-tuber? Ask Them All Here!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=ZtRcEvcs1c0
+DURATION:PT2H
+DTSTART:20210430T140000Z
+SUMMARY:Anya: 【Collab】Have Worries on Becoming A V-tuber? Ask Them All Here!【hololive Indonesia 2nd Generation】
+UID:ZtRcEvcs1c0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【AI: The Somnium Files】Never gonna tell a l-eye and hurt our ShovelForge GF #6【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=q6PswBGarYc
 DURATION:PT2H
 DTSTART:20210501T140000Z
@@ -39,11 +39,18 @@ SUMMARY:Reine: 【AI: The Somnium Files】Never gonna tell a l-eye and hurt our 
 UID:q6PswBGarYc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Collab】Have Worries on Becoming A V-tuber? Ask Them All Here!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=ZtRcEvcs1c0
+DESCRIPTION:【Reine Room Review】FINAL Part!! Whose room will stand out the most??【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=bnXqQf_gdKk
 DURATION:PT2H
-DTSTART:20210430T140000Z
-SUMMARY:Anya: 【Collab】Have Worries on Becoming A V-tuber? Ask Them All Here!【hololive Indonesia 2nd Generation】
-UID:ZtRcEvcs1c0
+DTSTART:20210501T040000Z
+SUMMARY:Reine: 【Reine Room Review】FINAL Part!! Whose room will stand out the most??【hololiveID 2nd gen】
+UID:bnXqQf_gdKk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololiveID】RISUPELLA AMEEEEZINGGG !!!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=WpehNsNzXBg
+DURATION:PT2H
+DTSTART:20210501T140000Z
+SUMMARY:🐿Risu: 【hololiveID】RISUPELLA AMEEEEZINGGG !!!!!【Ayunda Risu】
+UID:WpehNsNzXBg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【KARAOKE】I Swear We Have Young People Songs This Time?【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=PTIZ7iZUMIE
