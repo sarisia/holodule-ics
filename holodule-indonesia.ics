@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#ROX】Let's play Ragnarok X NEXT GENERATION!!【#GeeMoon】\nhttps://www.youtube.com/watch?v=VRz62GONEi0
+DURATION:PT2H
+DTSTART:20210502T133000Z
+SUMMARY:🔮Moona: 【#ROX】Let's play Ragnarok X NEXT GENERATION!!【#GeeMoon】
+UID:VRz62GONEi0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】A Relaxing Time with Ina-senpai #REINAFF【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=9qW-D7OnyKg
 DURATION:PT2H
 DTSTART:20210502T040000Z
@@ -16,40 +23,5 @@ DURATION:PT2H
 DTSTART:20210502T143000Z
 SUMMARY:Anya: 【DEATH STRANDING】First-Time Play! Embarking On A Journey Ahead!【hololive Indonesia 2nd Generation】
 UID:LYUnyHuEFZk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Duolingo】HOLA!!!!!!!!!!!!!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=bsahk-pxl84
-DURATION:PT2H
-DTSTART:20210501T003000Z
-SUMMARY:Anya: 【Duolingo】HOLA!!!!!!!!!!!!!【hololive Indonesia 2nd Generation】
-UID:bsahk-pxl84
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【AI: The Somnium Files】Never gonna tell a l-eye and hurt our ShovelForge GF #6【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=q6PswBGarYc
-DURATION:PT2H
-DTSTART:20210501T140000Z
-SUMMARY:Reine: 【AI: The Somnium Files】Never gonna tell a l-eye and hurt our ShovelForge GF #6【hololiveID 2nd gen】
-UID:q6PswBGarYc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Reine Room Review】FINAL Part!! Whose room will stand out the most??【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=bnXqQf_gdKk
-DURATION:PT2H
-DTSTART:20210501T040000Z
-SUMMARY:Reine: 【Reine Room Review】FINAL Part!! Whose room will stand out the most??【hololiveID 2nd gen】
-UID:bnXqQf_gdKk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【hololiveID】RISUPELLA AMEEEEZINGGG !!!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=WpehNsNzXBg
-DURATION:PT2H
-DTSTART:20210501T140000Z
-SUMMARY:🐿Risu: 【hololiveID】RISUPELLA AMEEEEZINGGG !!!!!【Ayunda Risu】
-UID:WpehNsNzXBg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【KARAOKE】I Swear We Have Young People Songs This Time?【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=PTIZ7iZUMIE
-DURATION:PT2H
-DTSTART:20210430T150000Z
-SUMMARY:Reine: 【KARAOKE】I Swear We Have Young People Songs This Time?【hololiveID 2nd gen】
-UID:PTIZ7iZUMIE
 END:VEVENT
 END:VCALENDAR
