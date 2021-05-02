@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】 Chilling with Reine-chan! #REINAFF\nhttps://www.youtube.com/watch?v=yGPKGeGlMIc
-DURATION:PT2H
-DTSTART:20210502T040000Z
-SUMMARY:Ina: 【Minecraft】 Chilling with Reine-chan! #REINAFF
-UID:yGPKGeGlMIc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Superchat Zatsudan】Supa Sunday is BACK\nhttps://www.youtube.com/watch?v=et8HYdSoQ-Q
-DURATION:PT2H
-DTSTART:20210502T190500Z
-SUMMARY:Amelia: 【Superchat Zatsudan】Supa Sunday is BACK
-UID:et8HYdSoQ-Q
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MOVING OUT】Can You Help Me Carry The Boxes?✋ #kfp #キアライブ\nhttps://www.youtube.com/watch?v=9a0M0QKYPJo
 DURATION:PT2H
 DTSTART:20210430T170000Z
@@ -39,18 +25,25 @@ SUMMARY:Ina: 【NieR:Automata】 HA~I 【#2】
 UID:uUqGw2RODrk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SPIRITFARER #04】The Long Ride Down the River Styx #Holomyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=vnJEQPJbOj4
-DURATION:PT2H
-DTSTART:20210502T040057Z
-SUMMARY:Calli: 【SPIRITFARER #04】The Long Ride Down the River Styx #Holomyth #HololiveEnglish
-UID:vnJEQPJbOj4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:am dog\nhttps://www.youtube.com/watch?v=JGQiOscooqQ
 DURATION:PT2H
 DTSTART:20210502T093000Z
 SUMMARY:Kiara: am dog
 UID:JGQiOscooqQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】 Chilling with Reine-chan! #REINAFF\nhttps://www.youtube.com/watch?v=yGPKGeGlMIc
+DURATION:PT2H
+DTSTART:20210502T040000Z
+SUMMARY:Ina: 【Minecraft】 Chilling with Reine-chan! #REINAFF
+UID:yGPKGeGlMIc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Superchat Zatsudan】Supa Sunday is BACK\nhttps://www.youtube.com/watch?v=et8HYdSoQ-Q
+DURATION:PT2H
+DTSTART:20210502T190500Z
+SUMMARY:Amelia: 【Superchat Zatsudan】Supa Sunday is BACK
+UID:et8HYdSoQ-Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ASMR DRAWING】Sketching ASMR on my Matte Tablet! Featuring... Cute Girls! #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=Qj5XO2TEa2U
