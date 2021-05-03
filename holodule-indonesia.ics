@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#ROX】Let's play Ragnarok X NEXT GENERATION!!【#GeeMoon】\nhttps://www.youtube.com/watch?v=VRz62GONEi0
+DESCRIPTION:【Live Draw 】Escaping From Reality\, So\, Let's Draw HoloEN! 【イオフィ】\nhttps://www.youtube.com/watch?v=t3Dyg0PrrnA
 DURATION:PT2H
-DTSTART:20210502T133000Z
-SUMMARY:🔮Moona: 【#ROX】Let's play Ragnarok X NEXT GENERATION!!【#GeeMoon】
-UID:VRz62GONEi0
+DTSTART:20210503T143000Z
+SUMMARY:🎨Iofi: 【Live Draw 】Escaping From Reality\, So\, Let's Draw HoloEN! 【イオフィ】
+UID:t3Dyg0PrrnA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Ragnarok X Next Generation】(ID) New Mobile Game! Let's Be A Strong Adventurer【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=6T1uJp_-EhI
@@ -30,5 +30,12 @@ DURATION:PT2H
 DTSTART:20210502T143000Z
 SUMMARY:Anya: 【DEATH STRANDING】First-Time Play! Embarking On A Journey Ahead!【hololive Indonesia 2nd Generation】
 UID:LYUnyHuEFZk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ROX】Let's play Ragnarok X NEXT GENERATION!!【#GeeMoon】\nhttps://www.youtube.com/watch?v=VRz62GONEi0
+DURATION:PT2H
+DTSTART:20210502T133000Z
+SUMMARY:🔮Moona: 【#ROX】Let's play Ragnarok X NEXT GENERATION!!【#GeeMoon】
+UID:VRz62GONEi0
 END:VEVENT
 END:VCALENDAR
