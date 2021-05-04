@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【NEW OUTFIT REVEAL】Let's shop for NEW CLOTHES! 新衣装お披露目 #phoenixfashion\nhttps://www.youtube.com/watch?v=jQR_eA8n_Fo
-DURATION:PT2H
-DTSTART:20210504T210000Z
-SUMMARY:Kiara: 【NEW OUTFIT REVEAL】Let's shop for NEW CLOTHES! 新衣装お披露目 #phoenixfashion
-UID:jQR_eA8n_Fo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【New Pokémon Snap】 Photakography Session!!\nhttps://www.youtube.com/watch?v=tqvhQXF7O30
 DURATION:PT2H
 DTSTART:20210504T230000Z
@@ -18,11 +11,11 @@ SUMMARY:Ina: 【New Pokémon Snap】 Photakography Session!!
 UID:tqvhQXF7O30
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【NieR:Automata】 BECOME AS TAKO 【#3】\nhttps://www.youtube.com/watch?v=sv1FDqyprjo
+DESCRIPTION:【#AmeTag】Looking at YOUR tweets!\nhttps://www.youtube.com/watch?v=RNlRAvY-8ZA
 DURATION:PT2H
-DTSTART:20210502T200000Z
-SUMMARY:Ina: 【NieR:Automata】 BECOME AS TAKO 【#3】
-UID:sv1FDqyprjo
+DTSTART:20210504T190500Z
+SUMMARY:Amelia: 【#AmeTag】Looking at YOUR tweets!
+UID:RNlRAvY-8ZA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Superchat Zatsudan】Supa Sunday is BACK\nhttps://www.youtube.com/watch?v=et8HYdSoQ-Q
@@ -30,6 +23,13 @@ DURATION:PT2H
 DTSTART:20210502T190500Z
 SUMMARY:Amelia: 【Superchat Zatsudan】Supa Sunday is BACK
 UID:et8HYdSoQ-Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【NieR:Automata】 BECOME AS TAKO 【#3】\nhttps://www.youtube.com/watch?v=sv1FDqyprjo
+DURATION:PT2H
+DTSTART:20210502T200000Z
+SUMMARY:Ina: 【NieR:Automata】 BECOME AS TAKO 【#3】
+UID:sv1FDqyprjo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【NEW OUTFIT REVEAL!】Grim Reaper's Brand New Style! 新衣装お披露目会!! #HololiveEnglish #CalliDrip\nhttps://www.youtube.com/watch?v=i9H07Z-ZOOM
@@ -44,5 +44,12 @@ DURATION:PT2H
 DTSTART:20210503T011705Z
 SUMMARY:Gura: [DEVIL MAY CRY 5] MOTIVATED [Spoiler Warning]
 UID:kDxlYBIGSI4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【NEW OUTFIT REVEAL】Let's shop for NEW CLOTHES! 新衣装お披露目 #phoenixfashion\nhttps://www.youtube.com/watch?v=jQR_eA8n_Fo
+DURATION:PT2H
+DTSTART:20210504T210000Z
+SUMMARY:Kiara: 【NEW OUTFIT REVEAL】Let's shop for NEW CLOTHES! 新衣装お披露目 #phoenixfashion
+UID:jQR_eA8n_Fo
 END:VEVENT
 END:VCALENDAR
