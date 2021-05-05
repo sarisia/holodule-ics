@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Mamah Moona】Culture Talk.【S2 EP7 | ID】\nhttps://www.youtube.com/watch?v=8N5MnABZHAc
-DURATION:PT2H
-DTSTART:20210503T200000Z
-SUMMARY:🔮Moona: 【Mamah Moona】Culture Talk.【S2 EP7 | ID】
-UID:8N5MnABZHAc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Crystar - END】Sen Seems To Know Something...? FINISHING!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=-atOQefX8vg
 DURATION:PT2H
 DTSTART:20210504T143000Z
@@ -18,11 +11,18 @@ SUMMARY:Anya: 【Crystar - END】Sen Seems To Know Something...? FINISHING!【ho
 UID:-atOQefX8vg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【hololiveID】Lanjut Main Game  : When The Past was Around ~【Ayunda Risu】\nhttps://www.youtube.com/watch?v=KnCvigSl20E
+DESCRIPTION:【hololiveID】#14 NieR:Automata LESGOOOOOOOOOOO!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=pru6ZeVivvo
 DURATION:PT2H
-DTSTART:20210504T080000Z
-SUMMARY:🐿Risu: 【hololiveID】Lanjut Main Game  : When The Past was Around ~【Ayunda Risu】
-UID:KnCvigSl20E
+DTSTART:20210505T080000Z
+SUMMARY:🐿Risu: 【hololiveID】#14 NieR:Automata LESGOOOOOOOOOOO!!【Ayunda Risu】
+UID:pru6ZeVivvo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Mamah Moona】Culture Talk.【S2 EP7 | ID】\nhttps://www.youtube.com/watch?v=8N5MnABZHAc
+DURATION:PT2H
+DTSTART:20210503T200000Z
+SUMMARY:🔮Moona: 【Mamah Moona】Culture Talk.【S2 EP7 | ID】
+UID:8N5MnABZHAc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #iorials 】Meow Meow Woof Woof【 hololiveID / イオフィ】\nhttps://www.youtube.com/watch?v=FVcRNa24IEk
@@ -30,5 +30,12 @@ DURATION:PT2H
 DTSTART:20210505T130000Z
 SUMMARY:🎨Iofi: 【 #iorials 】Meow Meow Woof Woof【 hololiveID / イオフィ】
 UID:FVcRNa24IEk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololiveID】Lanjut Main Game  : When The Past was Around ~【Ayunda Risu】\nhttps://www.youtube.com/watch?v=KnCvigSl20E
+DURATION:PT2H
+DTSTART:20210504T080000Z
+SUMMARY:🐿Risu: 【hololiveID】Lanjut Main Game  : When The Past was Around ~【Ayunda Risu】
+UID:KnCvigSl20E
 END:VEVENT
 END:VCALENDAR
