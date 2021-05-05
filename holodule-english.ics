@@ -4,25 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【NEW OUTFIT REVEAL】Let's shop for NEW CLOTHES! 新衣装お披露目 #phoenixfashion\nhttps://www.youtube.com/watch?v=jQR_eA8n_Fo
+DESCRIPTION:【Yakuza: Like a Dragon】Finally continuing this adventure!! #kfp #キアライブ (SPOILERS ALERT)\nhttps://www.youtube.com/watch?v=Ki2AYid2Sko
 DURATION:PT2H
-DTSTART:20210504T210000Z
-SUMMARY:Kiara: 【NEW OUTFIT REVEAL】Let's shop for NEW CLOTHES! 新衣装お披露目 #phoenixfashion
-UID:jQR_eA8n_Fo
+DTSTART:20210505T160000Z
+SUMMARY:Kiara: 【Yakuza: Like a Dragon】Finally continuing this adventure!! #kfp #キアライブ (SPOILERS ALERT)
+UID:Ki2AYid2Sko
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【New Pokémon Snap】 Photakography Session!!\nhttps://www.youtube.com/watch?v=tqvhQXF7O30
+DESCRIPTION:【GURAxKIARA】Aikotoba III SONG COVER 【愛言葉III】\nhttps://www.youtube.com/watch?v=C5IIoZsci8Y
 DURATION:PT2H
-DTSTART:20210504T230000Z
-SUMMARY:Ina: 【New Pokémon Snap】 Photakography Session!!
-UID:tqvhQXF7O30
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SHADOWVERSE】I Am On A MISSON. #HololiveEnglish\nhttps://www.youtube.com/watch?v=9YyXrDVRg98
-DURATION:PT2H
-DTSTART:20210505T120000Z
-SUMMARY:Calli: 【SHADOWVERSE】I Am On A MISSON. #HololiveEnglish
-UID:9YyXrDVRg98
+DTSTART:20210504T221500Z
+SUMMARY:Kiara: 【GURAxKIARA】Aikotoba III SONG COVER 【愛言葉III】
+UID:C5IIoZsci8Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#AmeTag】Looking at YOUR tweets!\nhttps://www.youtube.com/watch?v=RNlRAvY-8ZA
@@ -30,6 +23,13 @@ DURATION:PT2H
 DTSTART:20210504T190500Z
 SUMMARY:Amelia: 【#AmeTag】Looking at YOUR tweets!
 UID:RNlRAvY-8ZA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【New Pokémon Snap】 Photakography Session!!\nhttps://www.youtube.com/watch?v=tqvhQXF7O30
+DURATION:PT2H
+DTSTART:20210504T230000Z
+SUMMARY:Ina: 【New Pokémon Snap】 Photakography Session!!
+UID:tqvhQXF7O30
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【NEW OUTFIT REVEAL】 The Joy of Tako #fashionINAsta\nhttps://www.youtube.com/watch?v=AVowcwLSjn8
@@ -46,10 +46,17 @@ SUMMARY:Gura: 【MINECRAFT】make it all go boom
 UID:95EaRULYLGw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【GURAxKIARA】Aikotoba III SONG COVER 【愛言葉III】\nhttps://www.youtube.com/watch?v=C5IIoZsci8Y
+DESCRIPTION:【SHADOWVERSE】I Am On A MISSON. #HololiveEnglish\nhttps://www.youtube.com/watch?v=9YyXrDVRg98
 DURATION:PT2H
-DTSTART:20210504T221500Z
-SUMMARY:Kiara: 【GURAxKIARA】Aikotoba III SONG COVER 【愛言葉III】
-UID:C5IIoZsci8Y
+DTSTART:20210505T120000Z
+SUMMARY:Calli: 【SHADOWVERSE】I Am On A MISSON. #HololiveEnglish
+UID:9YyXrDVRg98
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【NEW OUTFIT REVEAL】Let's shop for NEW CLOTHES! 新衣装お披露目 #phoenixfashion\nhttps://www.youtube.com/watch?v=jQR_eA8n_Fo
+DURATION:PT2H
+DTSTART:20210504T210000Z
+SUMMARY:Kiara: 【NEW OUTFIT REVEAL】Let's shop for NEW CLOTHES! 新衣装お披露目 #phoenixfashion
+UID:jQR_eA8n_Fo
 END:VEVENT
 END:VCALENDAR
