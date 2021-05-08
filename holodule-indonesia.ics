@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【hololiveID】Let's Share and Talk About Timezones【Ayunda Risu】\nhttps://www.youtube.com/watch?v=ipSUjTDOTjU
-DURATION:PT2H
-DTSTART:20210508T133000Z
-SUMMARY:🐿Risu: 【hololiveID】Let's Share and Talk About Timezones【Ayunda Risu】
-UID:ipSUjTDOTjU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Reine Review】Showcasing MERAKyats Pets!【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=0WN1ffHzckY
-DURATION:PT2H
-DTSTART:20210508T040000Z
-SUMMARY:Reine: 【Reine Review】Showcasing MERAKyats Pets!【hololiveID 2nd generation】
-UID:0WN1ffHzckY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【AI: The Somnium Files】Unveiling the Truth. #7【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=VEsi-C-cHSs
 DURATION:PT2H
 DTSTART:20210508T140000Z
@@ -37,5 +23,12 @@ DURATION:PT2H
 DTSTART:20210508T140000Z
 SUMMARY:Anya: 【DEATH STRANDING】'Tis Your Package\, Sir/Ma'am?【hololive Indonesia 2nd Generation】
 UID:f2XwKoG4p80
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Reine Review】Showcasing MERAKyats Pets!【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=0WN1ffHzckY
+DURATION:PT2H
+DTSTART:20210508T040000Z
+SUMMARY:Reine: 【Reine Review】Showcasing MERAKyats Pets!【hololiveID 2nd generation】
+UID:0WN1ffHzckY
 END:VEVENT
 END:VCALENDAR
