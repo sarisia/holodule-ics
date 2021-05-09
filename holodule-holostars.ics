@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Apex Legends】Season9に殴り込みます【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=0fmHNgw1Qbs
-DURATION:PT2H
-DTSTART:20210508T163000Z
-SUMMARY:🍕アルランディス: 【Apex Legends】Season9に殴り込みます【アルランディス/ホロスターズ】
-UID:0fmHNgw1Qbs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ストレス発散】気持ちよくなっちゃおう /  アステル・レダ\nhttps://www.youtube.com/watch?v=VDnSrQYvWc0
 DURATION:PT2H
 DTSTART:20210509T074500Z
@@ -51,5 +44,19 @@ DURATION:PT2H
 DTSTART:20210510T120000Z
 SUMMARY:⚙律可: spiral tones / 律可 Mori Calliope【オリジナルMV】
 UID:5HWCMh1ZmzE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Apex Legends】Season9に殴り込みます【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=0fmHNgw1Qbs
+DURATION:PT2H
+DTSTART:20210508T163000Z
+SUMMARY:🍕アルランディス: 【Apex Legends】Season9に殴り込みます【アルランディス/ホロスターズ】
+UID:0fmHNgw1Qbs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ボンバーマンRオンライン】４人の仁義なき戦い※縛りもあるよ！【律可/荒咬オウガ/花咲みやび/影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=A9G5PdMBJ90
+DURATION:PT2H
+DTSTART:20210509T130000Z
+SUMMARY:⚙律可: 【ボンバーマンRオンライン】４人の仁義なき戦い※縛りもあるよ！【律可/荒咬オウガ/花咲みやび/影山シエン/ホロスターズ】
+UID:A9G5PdMBJ90
 END:VEVENT
 END:VCALENDAR
