@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【New Pokémon Snap】Shootin' with a Camera~\nhttps://www.youtube.com/watch?v=JZjuS793OyE
-DURATION:PT2H
-DTSTART:20210509T021000Z
-SUMMARY:Amelia: 【New Pokémon Snap】Shootin' with a Camera~
-UID:JZjuS793OyE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[PUMMEL PARTY] CAUTION! HIGHLY CONCENTRATED LEVELS OF CUTE!! [ANNOUNCEMENT!]\nhttps://www.youtube.com/watch?v=vltsTKKqzBo
 DURATION:PT2H
 DTSTART:20210508T221940Z
@@ -18,18 +11,18 @@ SUMMARY:Gura: [PUMMEL PARTY] CAUTION! HIGHLY CONCENTRATED LEVELS OF CUTE!! [ANNO
 UID:vltsTKKqzBo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Yakuza: Like a Dragon】Anyather day in the Neighpurrhood (\;・∀・) #kfp #キアライブ (SPOILERS ALERT)\nhttps://www.youtube.com/watch?v=r1jqkodKflA
-DURATION:PT2H
-DTSTART:20210509T133000Z
-SUMMARY:Kiara: 【Yakuza: Like a Dragon】Anyather day in the Neighpurrhood (\;・∀・) #kfp #キアライブ (SPOILERS ALERT)
-UID:r1jqkodKflA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DRAWING】 HIGH SPEED TAKO Pt. 2\nhttps://www.youtube.com/watch?v=UQBDNhYfyk8
 DURATION:PT2H
 DTSTART:20210509T200000Z
 SUMMARY:Ina: 【DRAWING】 HIGH SPEED TAKO Pt. 2
 UID:UQBDNhYfyk8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【New Pokémon Snap】Shootin' with a Camera~\nhttps://www.youtube.com/watch?v=JZjuS793OyE
+DURATION:PT2H
+DTSTART:20210509T021000Z
+SUMMARY:Amelia: 【New Pokémon Snap】Shootin' with a Camera~
+UID:JZjuS793OyE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Superchat Zatsudan】Supa Sunday is BACK\nhttps://www.youtube.com/watch?v=mUJawV1I6Y8
