@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ミクと水没都市】水没し、廃墟と化した世界…【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=ON5NbNQ28J4
+DURATION:PT2H
+DTSTART:20210511T130000Z
+SUMMARY:雪花ラミィ: 【ミクと水没都市】水没し、廃墟と化した世界…【雪花ラミィ/ホロライブ】
+UID:ON5NbNQ28J4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【東方虹龍洞】最新作！初見弾幕ノーコンティニューめざせ！【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=ivAu2GGbTzs
 DURATION:PT2H
 DTSTART:20210510T110000Z
@@ -144,13 +151,6 @@ SUMMARY:🐏角巻わため: 【歌番組】わためのうた ーボイトレ�
 UID:jM_krA2YfPQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 モンスターハンターライズ 】闘技場！全武器クリア目指したいのら…！(・o・🍬)【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=yUxWyfG2QXA
-DURATION:PT2H
-DTSTART:20210510T140000Z
-SUMMARY:🍬姫森ルーナ: 【 モンスターハンターライズ 】闘技場！全武器クリア目指したいのら…！(・o・🍬)【姫森ルーナ/ホロライブ】
-UID:yUxWyfG2QXA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【コラボ】結成してから約2年経過対談🚑🍙【猫又おかゆと大空スバル/ホロライブ】\nhttps://www.youtube.com/watch?v=Jcrkh3jf-po
 DURATION:PT2H
 DTSTART:20210510T100000Z
@@ -193,6 +193,27 @@ SUMMARY:🌲大神ミオ: 【 #朝ミオ 】月曜日の朝！みんなから睡
 UID:GDls6vMLDtI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【APEX】CRカップカスタムDAY3　#ゆめきゃわPURPLE【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=Z4WznaWBcvM
+DURATION:PT2H
+DTSTART:20210510T120000Z
+SUMMARY:👾常闇トワ: 【APEX】CRカップカスタムDAY3　#ゆめきゃわPURPLE【常闇トワ/ホロライブ】
+UID:Z4WznaWBcvM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【5月11日】火曜日の朝活雑談【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=uQLXuucloOI
+DURATION:PT2H
+DTSTART:20210511T000000Z
+SUMMARY:雪花ラミィ: 【5月11日】火曜日の朝活雑談【雪花ラミィ/ホロライブ】
+UID:uQLXuucloOI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【モンスターハンターライズ】マルチで遊ぼう！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=ie0M5aSuyvE
+DURATION:PT2H
+DTSTART:20210510T130000Z
+SUMMARY:雪花ラミィ: 【モンスターハンターライズ】マルチで遊ぼう！！【雪花ラミィ/ホロライブ】
+UID:ie0M5aSuyvE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 バイオ8 】みこちがゆく！「バイオハザード8/RESIDENT EVIL VILLAGE」 にぇ【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=A5qltPYkeNg
 DURATION:PT2H
 DTSTART:20210510T130000Z
@@ -209,7 +230,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】睡眠導入 / まったりお話～！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=64VS3Ulpr2I
 DURATION:PT2H
-DTSTART:20210510T170000Z
+DTSTART:20210511T170000Z
 SUMMARY:🏮夏色まつり: 【Minecraft】睡眠導入 / まったりお話～！【ホロライブ/夏色まつり】
 UID:64VS3Ulpr2I
 END:VEVENT
