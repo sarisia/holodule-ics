@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【睡眠弾き語り枠】たまにはこの時間もいいよね【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=kb7D410tRas
+DESCRIPTION:【雑談】新機材テスト&雑談【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=RRwM-4SmbY4
 DURATION:PT2H
-DTSTART:20210511T150000Z
-SUMMARY:⚙律可: 【睡眠弾き語り枠】たまにはこの時間もいいよね【律可/ホロスターズ】#りつすた
-UID:kb7D410tRas
+DTSTART:20210510T150000Z
+SUMMARY:荒咬オウガ: 【雑談】新機材テスト&雑談【荒咬オウガ/ホロスターズ】
+UID:RRwM-4SmbY4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Watching】 The Greatest Showman 【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=moqBz7kd_l8
+DURATION:PT2H
+DTSTART:20210510T230000Z
+SUMMARY:🦔💨岸堂天真: 【Watching】 The Greatest Showman 【岸堂天真/ホロスターズ】
+UID:moqBz7kd_l8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【バイオハザード ヴィレッジ】新作バイオやるぞ！！！！！！ Part1【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=7vj7iUXbZ1k
+DURATION:PT2H
+DTSTART:20210511T130000Z
+SUMMARY:🌺花咲みやび: 【バイオハザード ヴィレッジ】新作バイオやるぞ！！！！！！ Part1【花咲みやび/ホロスターズ】
+UID:7vj7iUXbZ1k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ソロマスター企画】今日でダイヤにいこう！/ アステル・APEX・レダ\nhttps://www.youtube.com/watch?v=iHojshA1eto
@@ -25,18 +39,11 @@ SUMMARY:🍕アルランディス: 【切り抜き動画】It takes two # 1 が8
 UID:s7zXagkTcQs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】新機材テスト&雑談【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=RRwM-4SmbY4
+DESCRIPTION:【睡眠弾き語り枠】たまにはこの時間もいいよね【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=kb7D410tRas
 DURATION:PT2H
-DTSTART:20210510T150000Z
-SUMMARY:荒咬オウガ: 【雑談】新機材テスト&雑談【荒咬オウガ/ホロスターズ】
-UID:RRwM-4SmbY4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Watching】 The Greatest Showman 【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=moqBz7kd_l8
-DURATION:PT2H
-DTSTART:20210510T230000Z
-SUMMARY:🦔💨岸堂天真: 【Watching】 The Greatest Showman 【岸堂天真/ホロスターズ】
-UID:moqBz7kd_l8
+DTSTART:20210511T150000Z
+SUMMARY:⚙律可: 【睡眠弾き語り枠】たまにはこの時間もいいよね【律可/ホロスターズ】#りつすた
+UID:kb7D410tRas
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【New ポケモンスナップ】海にイルミナポケモンが出たんですって【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=hZ9nw1xHOmA
@@ -46,10 +53,10 @@ SUMMARY:🍕アルランディス: 【New ポケモンスナップ】海にイ�
 UID:hZ9nw1xHOmA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【バイオハザード ヴィレッジ】新作バイオやるぞ！！！！！！ Part1【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=7vj7iUXbZ1k
+DESCRIPTION:#2【It Takes Two】前回の続きなんだけど終わりまでやる耐久？【律可/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=3OSYvzIxXEk
 DURATION:PT2H
-DTSTART:20210511T130000Z
-SUMMARY:🌺花咲みやび: 【バイオハザード ヴィレッジ】新作バイオやるぞ！！！！！！ Part1【花咲みやび/ホロスターズ】
-UID:7vj7iUXbZ1k
+DTSTART:20210512T120000Z
+SUMMARY:⚙律可: #2【It Takes Two】前回の続きなんだけど終わりまでやる耐久？【律可/アルランディス/ホロスターズ】
+UID:3OSYvzIxXEk
 END:VEVENT
 END:VCALENDAR
