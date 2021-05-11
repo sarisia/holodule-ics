@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 ウマ娘 プリティーダービー】初心者ウマ娘！お気に入りの娘探したいっ！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=gBCAoDuiTeU
-DURATION:PT2H
-DTSTART:20210511T140000Z
-SUMMARY:🌟夜空メル: 【 ウマ娘 プリティーダービー】初心者ウマ娘！お気に入りの娘探したいっ！【ホロライブ/夜空メル】
-UID:gBCAoDuiTeU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:きみのスマホに女の子が住んだらその２\nhttps://www.youtube.com/watch?v=kUKMTHD_-Wo
 DURATION:PT2H
 DTSTART:20210510T195157Z
@@ -135,6 +128,13 @@ DURATION:PT2H
 DTSTART:20210511T100000Z
 SUMMARY:🐻ときのそら: 【Minecraft】０期生ハウス補修しないと・・・【#ときのそら生放送/ときのそら さくらみこ 星街すいせい】
 UID:9lPGStroYxc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】睡眠導入 / まったりお話～！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=64VS3Ulpr2I
+DURATION:PT2H
+DTSTART:20210511T170000Z
+SUMMARY:🏮夏色まつり: 【Minecraft】睡眠導入 / まったりお話～！【ホロライブ/夏色まつり】
+UID:64VS3Ulpr2I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】CRカップカスタムDAY4　#ゆめきゃわPURPLE【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=pFDP7eEuNhE
