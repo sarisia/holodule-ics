@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【MONSTER HUNTER RISE】視聴者参加タイムあり！HRを上げていく！！！！！【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=L0PeIWaPNTM
+DURATION:PT2H
+DTSTART:20210512T140000Z
+SUMMARY:🍎アキロゼ: 【MONSTER HUNTER RISE】視聴者参加タイムあり！HRを上げていく！！！！！【ホロライブ/アキロゼ】
+UID:L0PeIWaPNTM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Untitled Goose Game】久しぶりに“イタズラ”しますか【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=6HdYT4DdWdE
 DURATION:PT2H
 DTSTART:20210512T110000Z
@@ -30,6 +37,13 @@ DURATION:PT2H
 DTSTART:20210512T110000Z
 SUMMARY:🚑大空スバル: 【#生スバル】布教凸待ち/TOTUMACHI【ホロライブ/大空スバル】
 UID:gLuIiQPfHQE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】うるか幼稚園まゆげ組/CRカスタム#4【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=xu-6ms_gLkQ
+DURATION:PT2H
+DTSTART:20210512T120000Z
+SUMMARY:🏮夏色まつり: 【APEX】うるか幼稚園まゆげ組/CRカスタム#4【ホロライブ/夏色まつり】
+UID:xu-6ms_gLkQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TickTock】協力して謎を解け！ラミィ視点【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=u4pEkELnTXg
@@ -226,5 +240,12 @@ DURATION:PT2H
 DTSTART:20210512T120000Z
 SUMMARY:🌽白上フブキ: 【４走目】UNDERTALE：GルートRTA【 ホロライブ/白上フブキ 】
 UID:RY8mT7cz6Cs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【GTAV】Do it!!!!!!!【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=JfJt1lq8Bck
+DURATION:PT2H
+DTSTART:20210512T140000Z
+SUMMARY:🔥不知火フレア: 【GTAV】Do it!!!!!!!【ホロライブ/不知火フレア】
+UID:JfJt1lq8Bck
 END:VEVENT
 END:VCALENDAR
