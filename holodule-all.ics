@@ -67,18 +67,18 @@ SUMMARY:👯兎田ぺこら: ホロライブの兎田ぺこらが無駄をそぎ
 UID:_HHcRxUsbVg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【GTA Online】初めてのGTAオンライン！かなたそ深夜の大暴れ！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=CkC9KO_OGHE
-DURATION:PT2H
-DTSTART:20210510T160000Z
-SUMMARY:💫天音かなた: 【GTA Online】初めてのGTAオンライン！かなたそ深夜の大暴れ！！【天音かなた/ホロライブ】
-UID:CkC9KO_OGHE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【モーリーオンライン】ネットクレーンゲームはお任せ！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=kIw8VLbDuuM
 DURATION:PT2H
 DTSTART:20210512T100000Z
 SUMMARY:💫天音かなた: 【モーリーオンライン】ネットクレーンゲームはお任せ！！！！【天音かなた/ホロライブ】
 UID:kIw8VLbDuuM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【GTA Online】初めてのGTAオンライン！かなたそ深夜の大暴れ！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=CkC9KO_OGHE
+DURATION:PT2H
+DTSTART:20210510T160000Z
+SUMMARY:💫天音かなた: 【GTA Online】初めてのGTAオンライン！かなたそ深夜の大暴れ！！【天音かなた/ホロライブ】
+UID:CkC9KO_OGHE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【バイオハザード ヴィレッジ】新作バイオやるぞ！！！！！！ Part1【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=7vj7iUXbZ1k
@@ -116,6 +116,13 @@ SUMMARY:🌸さくらみこ: #2【バイオハザードヴィレッジ 】弱気
 UID:Q1UerySdnO4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ポルカの伝説】占ってもらったら〇〇がバレた\nhttps://www.youtube.com/watch?v=OytUihtRW7g
+DURATION:PT2H
+DTSTART:20210513T100000Z
+SUMMARY:尾丸ポルカ: 【ポルカの伝説】占ってもらったら〇〇がバレた
+UID:OytUihtRW7g
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【速すぎるRPG】速すぎるRPGらしいです【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=CHhRBPTADFo
 DURATION:PT2H
 DTSTART:20210512T090000Z
@@ -130,13 +137,6 @@ SUMMARY:ホロライブ: 【モンスターハンターライズ初プレイ】�
 UID:KrdkXgPk0cc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ポルカの伝説】占ってもらったら〇〇がバレた\nhttps://www.youtube.com/watch?v=OytUihtRW7g
-DURATION:PT2H
-DTSTART:20210513T100000Z
-SUMMARY:尾丸ポルカ: 【ポルカの伝説】占ってもらったら〇〇がバレた
-UID:OytUihtRW7g
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Short video】NENE PIZZA SONG【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=dypRMlONWog
 DURATION:PT2H
 DTSTART:20210512T110000Z
@@ -144,18 +144,11 @@ SUMMARY:桃鈴ねね: 【Short video】NENE PIZZA SONG【桃鈴ねね/ホロラ�
 UID:dypRMlONWog
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:なにしようかな～【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=7xHFtgfHJcA
+DESCRIPTION:【歌枠】SINGING STREAM volumeUPver.【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=7xHFtgfHJcA
 DURATION:PT2H
 DTSTART:20210512T130000Z
-SUMMARY:☄星街すいせい: なにしようかな～【ホロライブ / 星街すいせい】
+SUMMARY:☄星街すいせい: 【歌枠】SINGING STREAM volumeUPver.【ホロライブ / 星街すいせい】
 UID:7xHFtgfHJcA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】うるか幼稚園まゆげ組/CRカスタム#3【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=NPc4cc1l5Rk
-DURATION:PT2H
-DTSTART:20210511T120000Z
-SUMMARY:🏮夏色まつり: 【APEX】うるか幼稚園まゆげ組/CRカスタム#3【ホロライブ/夏色まつり】
-UID:NPc4cc1l5Rk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Resident Evil Village】LETS GOO\nhttps://www.youtube.com/watch?v=NZxgr2SIAVg
@@ -163,6 +156,13 @@ DURATION:PT2H
 DTSTART:20210511T001033Z
 SUMMARY:Gura: 【Resident Evil Village】LETS GOO
 UID:NZxgr2SIAVg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Gangimari caution !! #Shorts\nhttps://www.youtube.com/watch?v=4CBsmTeX6LA
+DURATION:PT2H
+DTSTART:20210512T113250Z
+SUMMARY:🐏角巻わため: Gangimari caution !! #Shorts
+UID:4CBsmTeX6LA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Duolingo】えっそれ間違えるの！？What? You're making a mistake!【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=K7IZzyRHMt4
@@ -186,18 +186,18 @@ SUMMARY:💫天音かなた: 天界学園の朝
 UID:jK3CIkmqfx4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #10 桃太郎電鉄  】桃鉄復帰！深夜急行発車するのら～(・o・🍬)63年目～68年目 Momotaro Dentetsu【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=QTmBMTipURo
-DURATION:PT2H
-DTSTART:20210511T150000Z
-SUMMARY:🍬姫森ルーナ: 【 #10 桃太郎電鉄  】桃鉄復帰！深夜急行発車するのら～(・o・🍬)63年目～68年目 Momotaro Dentetsu【姫森ルーナ/ホロライブ】
-UID:QTmBMTipURo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【マイクラ】おはよう～～～～～～ #不知火建設 大白熱回【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=9VKDIDmOvfU
 DURATION:PT2H
 DTSTART:20210511T153000Z
 SUMMARY:尾丸ポルカ: 【マイクラ】おはよう～～～～～～ #不知火建設 大白熱回【尾丸ポルカ/ホロライブ】
 UID:9VKDIDmOvfU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #10 桃太郎電鉄  】桃鉄復帰！深夜急行発車するのら～(・o・🍬)63年目～68年目 Momotaro Dentetsu【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=QTmBMTipURo
+DURATION:PT2H
+DTSTART:20210511T150000Z
+SUMMARY:🍬姫森ルーナ: 【 #10 桃太郎電鉄  】桃鉄復帰！深夜急行発車するのら～(・o・🍬)63年目～68年目 Momotaro Dentetsu【姫森ルーナ/ホロライブ】
+UID:QTmBMTipURo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Paper Mario: The Origami King】 KAMI GAME 【#3】\nhttps://www.youtube.com/watch?v=kqjClZNdo_s
@@ -361,6 +361,13 @@ SUMMARY:Ollie: 【MINECRAFT】WE ARE BACK!!!【Hololive Indonesia 2nd Gen】
 UID:3q-FHhfhqGk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【SorAZ】聖少女領域 / ときのそら AZKi【歌ってみた】\nhttps://www.youtube.com/watch?v=QM20uZAv6kc
+DURATION:PT2H
+DTSTART:20210513T120000Z
+SUMMARY:🐻ときのそら: 【SorAZ】聖少女領域 / ときのそら AZKi【歌ってみた】
+UID:QM20uZAv6kc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【New Pokémon Snap】Free Fruits for Everyone!!! Bonk & Slorp【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=40uxRKzq208
 DURATION:PT2H
 DTSTART:20210511T140000Z
@@ -417,6 +424,13 @@ SUMMARY:🦔💨岸堂天真: 【STUDY】REVIEW DAY 11-20 復習（11日～20日
 UID:DBG7jME2PLE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:#2【It Takes Two】前回の続きなんだけど終わりまでやる耐久？【律可/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=3OSYvzIxXEk
+DURATION:PT2H
+DTSTART:20210512T120000Z
+SUMMARY:⚙律可: #2【It Takes Two】前回の続きなんだけど終わりまでやる耐久？【律可/アルランディス/ホロスターズ】
+UID:3OSYvzIxXEk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【バイオハザード ヴィレッジ】新作バイオやるぞ！！！ Part2【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=s2UsfcCJWKQ
 DURATION:PT2H
 DTSTART:20210512T130000Z
@@ -431,18 +445,18 @@ SUMMARY:⚙律可: 【睡眠弾き語り枠】たまにはこの時間もいい�
 UID:kb7D410tRas
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ひきこもりApex ランク【奏手イヅル】\nhttps://www.youtube.com/watch?v=C5gELD-rgGw
-DURATION:PT2H
-DTSTART:20210512T060000Z
-SUMMARY:🎸奏手イヅル: ひきこもりApex ランク【奏手イヅル】
-UID:C5gELD-rgGw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【お礼枠】150万人ありがとう！！【Superchat Reading】\nhttps://www.youtube.com/watch?v=UF2UjWlqjoo
 DURATION:PT2H
 DTSTART:20210512T100000Z
 SUMMARY:🥐戌神ころね: 【お礼枠】150万人ありがとう！！【Superchat Reading】
 UID:UF2UjWlqjoo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ひきこもりApex ランク【奏手イヅル】\nhttps://www.youtube.com/watch?v=C5gELD-rgGw
+DURATION:PT2H
+DTSTART:20210512T060000Z
+SUMMARY:🎸奏手イヅル: ひきこもりApex ランク【奏手イヅル】
+UID:C5gELD-rgGw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【5月11日】火曜日の朝活雑談【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=uQLXuucloOI
@@ -522,10 +536,10 @@ SUMMARY:🔥不知火フレア: 【GTAV】トレバ―荒野で泣く【ホロ�
 UID:JfJt1lq8Bck
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#2【It Takes Two】前回の続きなんだけど終わりまでやる耐久？【律可/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=3OSYvzIxXEk
+DESCRIPTION:【APEX】うるか幼稚園まゆげ組/CRカスタム#3【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=NPc4cc1l5Rk
 DURATION:PT2H
-DTSTART:20210512T120000Z
-SUMMARY:⚙律可: #2【It Takes Two】前回の続きなんだけど終わりまでやる耐久？【律可/アルランディス/ホロスターズ】
-UID:3OSYvzIxXEk
+DTSTART:20210511T120000Z
+SUMMARY:🏮夏色まつり: 【APEX】うるか幼稚園まゆげ組/CRカスタム#3【ホロライブ/夏色まつり】
+UID:NPc4cc1l5Rk
 END:VEVENT
 END:VCALENDAR
