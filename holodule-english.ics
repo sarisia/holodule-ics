@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】I shall name you...【insert name here】 #kfp #キアライブ\nhttps://www.youtube.com/watch?v=N6sRu9cC5ew
+DURATION:PT2H
+DTSTART:20210512T181500Z
+SUMMARY:Kiara: 【MINECRAFT】I shall name you...【insert name here】 #kfp #キアライブ
+UID:N6sRu9cC5ew
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】 Cabin Barbecue Vibes\, Dead Beats! #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=_F2ITnPX7lg
 DURATION:PT2H
 DTSTART:20210514T130000Z
@@ -23,19 +30,5 @@ DURATION:PT2H
 DTSTART:20210513T013000Z
 SUMMARY:Amelia: 【APEX】W
 UID:E-YsTbnfpbI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】I shall name you...【insert name here】 #kfp #キアライブ\nhttps://www.youtube.com/watch?v=N6sRu9cC5ew
-DURATION:PT2H
-DTSTART:20210512T181500Z
-SUMMARY:Kiara: 【MINECRAFT】I shall name you...【insert name here】 #kfp #キアライブ
-UID:N6sRu9cC5ew
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Yakuza: Like a Dragon】CAT WITH A GUN #kfp #キアライブ (SPOILERS ALERT)\nhttps://www.youtube.com/watch?v=z_vkArvR6Mw
-DURATION:PT2H
-DTSTART:20210513T140000Z
-SUMMARY:Kiara: 【Yakuza: Like a Dragon】CAT WITH A GUN #kfp #キアライブ (SPOILERS ALERT)
-UID:z_vkArvR6Mw
 END:VEVENT
 END:VCALENDAR
