@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【囚われのパルマ】捕まったのか・・・俺以外のヤツに・・・ #4【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=En2Pb_2lGuc
-DURATION:PT2H
-DTSTART:20210513T100000Z
-SUMMARY:影山シエン: 【囚われのパルマ】捕まったのか・・・俺以外のヤツに・・・ #4【影山シエン/ホロスターズ】
-UID:En2Pb_2lGuc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Fireworks Mania】打ち上げ花火を下から眺める男【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=2NjL3YvnrWM
-DURATION:PT2H
-DTSTART:20210512T040000Z
-SUMMARY:🍷夕刻ロベル: 【Fireworks Mania】打ち上げ花火を下から眺める男【ホロスターズ/夕刻ロベル】
-UID:2NjL3YvnrWM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【弾き語り】ゆったりうたわく！【奏手イヅル】\nhttps://www.youtube.com/watch?v=qelW63T8ySk
 DURATION:PT2H
 DTSTART:20210512T180045Z
@@ -39,27 +25,6 @@ SUMMARY:🦔💨岸堂天真: 【STUDY】REVIEW DAY 11-20 復習（11日～20日
 UID:DBG7jME2PLE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】ジャガーノート【奏手イヅル/アステル・レダ】\nhttps://www.youtube.com/watch?v=d0NXC7POoUs
-DURATION:PT2H
-DTSTART:20210514T100000Z
-SUMMARY:🎸奏手イヅル: 【歌ってみた】ジャガーノート【奏手イヅル/アステル・レダ】
-UID:d0NXC7POoUs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#16【RiTunes Labo】生セッション歌枠：ゲスト『miro』【律可/ホロスターズ 】#りちゅらぼ\nhttps://www.youtube.com/watch?v=q2s5d8A_pm0
-DURATION:PT2H
-DTSTART:20210514T130000Z
-SUMMARY:⚙律可: #16【RiTunes Labo】生セッション歌枠：ゲスト『miro』【律可/ホロスターズ 】#りちゅらぼ
-UID:q2s5d8A_pm0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【NieR Replicant】妹放置して釣り図鑑コンプしたやつがいるらしい【ネタバレあり】\nhttps://www.youtube.com/watch?v=7O4Nv8XbqcU
-DURATION:PT2H
-DTSTART:20210513T083001Z
-SUMMARY:🍕アルランディス: 【NieR Replicant】妹放置して釣り図鑑コンプしたやつがいるらしい【ネタバレあり】
-UID:7O4Nv8XbqcU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【バイオハザード ヴィレッジ】新作バイオやるぞ！クリアまで！【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=s2UsfcCJWKQ
 DURATION:PT2H
 DTSTART:20210512T130000Z
@@ -79,6 +44,55 @@ DURATION:PT2H
 DTSTART:20210512T060000Z
 SUMMARY:🎸奏手イヅル: ひきこもりApex ランク【奏手イヅル】
 UID:C5gELD-rgGw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌ってみた】ジャガーノート【奏手イヅル/アステル・レダ】\nhttps://www.youtube.com/watch?v=d0NXC7POoUs
+DURATION:PT2H
+DTSTART:20210514T100000Z
+SUMMARY:🎸奏手イヅル: 【歌ってみた】ジャガーノート【奏手イヅル/アステル・レダ】
+UID:d0NXC7POoUs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【囚われのパルマ】捕まったのか・・・俺以外のヤツに・・・ #4【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=En2Pb_2lGuc
+DURATION:PT2H
+DTSTART:20210513T100000Z
+SUMMARY:影山シエン: 【囚われのパルマ】捕まったのか・・・俺以外のヤツに・・・ #4【影山シエン/ホロスターズ】
+UID:En2Pb_2lGuc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【作業枠】深夜の囁き作業枠【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=-H-cFVa0U5I
+DURATION:PT2H
+DTSTART:20210513T150000Z
+SUMMARY:荒咬オウガ: 【作業枠】深夜の囁き作業枠【荒咬オウガ/ホロスターズ】
+UID:-H-cFVa0U5I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Fireworks Mania】打ち上げ花火を下から眺める男【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=2NjL3YvnrWM
+DURATION:PT2H
+DTSTART:20210512T040000Z
+SUMMARY:🍷夕刻ロベル: 【Fireworks Mania】打ち上げ花火を下から眺める男【ホロスターズ/夕刻ロベル】
+UID:2NjL3YvnrWM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#16【RiTunes Labo】生セッション歌枠：ゲスト『miro』【律可/ホロスターズ 】#りちゅらぼ\nhttps://www.youtube.com/watch?v=q2s5d8A_pm0
+DURATION:PT2H
+DTSTART:20210514T130000Z
+SUMMARY:⚙律可: #16【RiTunes Labo】生セッション歌枠：ゲスト『miro』【律可/ホロスターズ 】#りちゅらぼ
+UID:q2s5d8A_pm0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【NieR Replicant】妹放置して釣り図鑑コンプしたやつがいるらしい【ネタバレあり】\nhttps://www.youtube.com/watch?v=7O4Nv8XbqcU
+DURATION:PT2H
+DTSTART:20210513T083001Z
+SUMMARY:🍕アルランディス: 【NieR Replicant】妹放置して釣り図鑑コンプしたやつがいるらしい【ネタバレあり】
+UID:7O4Nv8XbqcU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【＃アラボ 】その筋トレ目的に合わせて考えてますか!? -ARN's Lab-【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=wyJTO7CXOHc
+DURATION:PT2H
+DTSTART:20210514T120000Z
+SUMMARY:🍕アルランディス: 【＃アラボ 】その筋トレ目的に合わせて考えてますか!? -ARN's Lab-【アルランディス/ホロスターズ】
+UID:wyJTO7CXOHc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【速すぎるRPG】速すぎるRPGらしいです【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=CHhRBPTADFo
