@@ -4,41 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【＃魔フィア】1年を振り返る魔フィア【荒咬オウガ/影山シエン】\nhttps://www.youtube.com/watch?v=jaM0K_BJqDs
-DURATION:PT2H
-DTSTART:20210514T120000Z
-SUMMARY:荒咬オウガ: 【＃魔フィア】1年を振り返る魔フィア【荒咬オウガ/影山シエン】
-UID:jaM0K_BJqDs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【弾き語り】ゆったりうたわく！【奏手イヅル】\nhttps://www.youtube.com/watch?v=qelW63T8ySk
-DURATION:PT2H
-DTSTART:20210512T180045Z
-SUMMARY:🎸奏手イヅル: 【弾き語り】ゆったりうたわく！【奏手イヅル】
-UID:qelW63T8ySk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【STUDY】REVIEW DAY 11-20 復習（11日～20日まで）【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=DBG7jME2PLE
-DURATION:PT2H
-DTSTART:20210512T230000Z
-SUMMARY:🦔💨岸堂天真: 【STUDY】REVIEW DAY 11-20 復習（11日～20日まで）【岸堂天真/ホロスターズ】
-UID:DBG7jME2PLE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【STUDY】New Studying EN Application!!新しい英語勉強ソフトやってみる【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=CPD_nW0rcnk
-DURATION:PT2H
-DTSTART:20210513T230000Z
-SUMMARY:🦔💨岸堂天真: 【STUDY】New Studying EN Application!!新しい英語勉強ソフトやってみる【岸堂天真/ホロスターズ】
-UID:CPD_nW0rcnk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】ジャガーノート【奏手イヅル/アステル・レダ】\nhttps://www.youtube.com/watch?v=d0NXC7POoUs
-DURATION:PT2H
-DTSTART:20210514T100000Z
-SUMMARY:🎸奏手イヅル: 【歌ってみた】ジャガーノート【奏手イヅル/アステル・レダ】
-UID:d0NXC7POoUs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ソロマスター企画】ここからが始まりなんよね。ダイヤ↑編/ アステル・APEX・レダ\nhttps://www.youtube.com/watch?v=rS0OliZZWvM
 DURATION:PT2H
 DTSTART:20210514T060000Z
@@ -53,6 +18,13 @@ SUMMARY:影山シエン: 【囚われのパルマ】捕まったのか・・・�
 UID:En2Pb_2lGuc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【＃魔フィア】1年を振り返る魔フィア【荒咬オウガ/影山シエン】\nhttps://www.youtube.com/watch?v=jaM0K_BJqDs
+DURATION:PT2H
+DTSTART:20210514T120000Z
+SUMMARY:荒咬オウガ: 【＃魔フィア】1年を振り返る魔フィア【荒咬オウガ/影山シエン】
+UID:jaM0K_BJqDs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【作業枠】深夜の囁き作業枠【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=-H-cFVa0U5I
 DURATION:PT2H
 DTSTART:20210513T150000Z
@@ -65,6 +37,27 @@ DURATION:PT2H
 DTSTART:20210514T060000Z
 SUMMARY:🦔💨岸堂天真: 【BIOHAZAED 8】初見HARDCOREチャレンジ!! withノーマルクリア済みのみやび【岸堂天真/花咲みやび/ホロスターズ】
 UID:xQEyRumTIr0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌ってみた】ジャガーノート【奏手イヅル/アステル・レダ】\nhttps://www.youtube.com/watch?v=d0NXC7POoUs
+DURATION:PT2H
+DTSTART:20210514T100000Z
+SUMMARY:🎸奏手イヅル: 【歌ってみた】ジャガーノート【奏手イヅル/アステル・レダ】
+UID:d0NXC7POoUs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【弾き語り】ゆったりうたわく！【奏手イヅル】\nhttps://www.youtube.com/watch?v=qelW63T8ySk
+DURATION:PT2H
+DTSTART:20210512T180045Z
+SUMMARY:🎸奏手イヅル: 【弾き語り】ゆったりうたわく！【奏手イヅル】
+UID:qelW63T8ySk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【STUDY】REVIEW DAY 11-20 復習（11日～20日まで）【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=DBG7jME2PLE
+DURATION:PT2H
+DTSTART:20210512T230000Z
+SUMMARY:🦔💨岸堂天真: 【STUDY】REVIEW DAY 11-20 復習（11日～20日まで）【岸堂天真/ホロスターズ】
+UID:DBG7jME2PLE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】7位以下で終わる男【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=5QeQlqdZrxw
@@ -88,11 +81,11 @@ SUMMARY:🍕アルランディス: 【NieR Replicant】妹放置して釣り図�
 UID:7O4Nv8XbqcU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【＃アラボ 】その筋トレ目的に合わせて考えてますか!? -ARN's Lab-【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=wyJTO7CXOHc
+DESCRIPTION:【STUDY】New Studying EN Application!!新しい英語勉強ソフトやってみる【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=CPD_nW0rcnk
 DURATION:PT2H
-DTSTART:20210514T110000Z
-SUMMARY:🍕アルランディス: 【＃アラボ 】その筋トレ目的に合わせて考えてますか!? -ARN's Lab-【アルランディス/ホロスターズ】
-UID:wyJTO7CXOHc
+DTSTART:20210513T230000Z
+SUMMARY:🦔💨岸堂天真: 【STUDY】New Studying EN Application!!新しい英語勉強ソフトやってみる【岸堂天真/ホロスターズ】
+UID:CPD_nW0rcnk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【作業枠】魔関西弁作業枠【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=Od1Wh_cSpD0
