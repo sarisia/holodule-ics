@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ウマ娘プリティーダービー】最近配信外で神引きしてるしそろそろ配信で神引きしてもええ頃やろウマ娘ガチャ【ホロスターズ/荒咬オウガ】\nhttps://www.youtube.com/watch?v=tknhv4Lp-Ss
+DURATION:PT2H
+DTSTART:20210517T053000Z
+SUMMARY:荒咬オウガ: 【ウマ娘プリティーダービー】最近配信外で神引きしてるしそろそろ配信で神引きしてもええ頃やろウマ娘ガチャ【ホロスターズ/荒咬オウガ】
+UID:tknhv4Lp-Ss
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－久しぶりの朝活雑談－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=IF0Cfav09Yg
 DURATION:PT2H
 DTSTART:20210517T010000Z
@@ -18,13 +25,6 @@ SUMMARY:🎸奏手イヅル: 雨だるつゆ雑【奏手イヅル】
 UID:RZTEVKVuqJM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【競馬同時視聴】ヴ　ィ　ク　ト　リ　ア　マ　イ　ル　with　騎士【夕刻ロベル/岸堂天真】\nhttps://www.youtube.com/watch?v=j93iBhM-ueo
-DURATION:PT2H
-DTSTART:20210516T060000Z
-SUMMARY:🍷夕刻ロベル: 【競馬同時視聴】ヴ　ィ　ク　ト　リ　ア　マ　イ　ル　with　騎士【夕刻ロベル/岸堂天真】
-UID:j93iBhM-ueo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ウマ娘 プリティーダービー】サボっていたがナリタブライアンを引きたい男【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=DrtgRWIYJDs
 DURATION:PT2H
 DTSTART:20210517T080000Z
@@ -32,18 +32,25 @@ SUMMARY:🍷夕刻ロベル: 【ウマ娘 プリティーダービー】サボ�
 UID:DrtgRWIYJDs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【STUDY】let's study duolingo!! 学習アプリをやる Part7【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=CPD_nW0rcnk
-DURATION:PT2H
-DTSTART:20210516T230000Z
-SUMMARY:🦔💨岸堂天真: 【STUDY】let's study duolingo!! 学習アプリをやる Part7【岸堂天真/ホロスターズ】
-UID:CPD_nW0rcnk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【モンハンライズ】あぁもうおしまいだぁｰほ乳瓶飲酒モンハンｰ【アルランディス/風見くく/龍ヶ崎リン】\nhttps://www.youtube.com/watch?v=GK4QcCGsgNw
 DURATION:PT2H
 DTSTART:20210516T130000Z
 SUMMARY:🍕アルランディス: 【モンハンライズ】あぁもうおしまいだぁｰほ乳瓶飲酒モンハンｰ【アルランディス/風見くく/龍ヶ崎リン】
 UID:GK4QcCGsgNw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【競馬同時視聴】ヴ　ィ　ク　ト　リ　ア　マ　イ　ル　with　騎士【夕刻ロベル/岸堂天真】\nhttps://www.youtube.com/watch?v=j93iBhM-ueo
+DURATION:PT2H
+DTSTART:20210516T060000Z
+SUMMARY:🍷夕刻ロベル: 【競馬同時視聴】ヴ　ィ　ク　ト　リ　ア　マ　イ　ル　with　騎士【夕刻ロベル/岸堂天真】
+UID:j93iBhM-ueo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【STUDY】let's study duolingo!! 学習アプリをやる Part7【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=CPD_nW0rcnk
+DURATION:PT2H
+DTSTART:20210516T230000Z
+SUMMARY:🦔💨岸堂天真: 【STUDY】let's study duolingo!! 学習アプリをやる Part7【岸堂天真/ホロスターズ】
+UID:CPD_nW0rcnk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【リングフィットアドベンチャー】負荷度MAXプレイしながら7万人を祝う!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=VqQUnMWMuCQ
