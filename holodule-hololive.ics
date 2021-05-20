@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【  】はいしんよてち！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=TGmxTDg8334
+DURATION:PT2H
+DTSTART:20210520T140000Z
+SUMMARY:🌸さくらみこ: 【  】はいしんよてち！【ホロライブ/さくらみこ】
+UID:TGmxTDg8334
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:おはよう作業枠眠い子は寝な【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=zIt4Mb-fnAk
 DURATION:PT2H
 DTSTART:20210519T220000Z
@@ -130,6 +137,13 @@ SUMMARY:🐻ときのそら: 【紹介のそら】実はやってました！ゲ
 UID:21UXK5kYwh4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ニーアオートマタ：NieR:Automata】初見実況！#03（※ネタバレあり）【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=1JgBRUOdDdQ
+DURATION:PT2H
+DTSTART:20210521T000000Z
+SUMMARY:雪花ラミィ: 【ニーアオートマタ：NieR:Automata】初見実況！#03（※ネタバレあり）【雪花ラミィ/ホロライブ】
+UID:1JgBRUOdDdQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【日本地図テスト】全問正解でおっぱい貰ってボインボインになる！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=_cbwuOaC_80
 DURATION:PT2H
 DTSTART:20210519T090000Z
@@ -170,6 +184,13 @@ DURATION:PT2H
 DTSTART:20210520T112826Z
 SUMMARY:尾丸ポルカ: 【マイクラ】ホロメンオフショット～ねねメッサめさロード編～
 UID:X78luhIUCo4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【天穂のサクナヒメ】#10 １１年目へ！霧厳城から～！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=d9Kzx2nYxcw
+DURATION:PT2H
+DTSTART:20210520T140000Z
+SUMMARY:🐏角巻わため: 【天穂のサクナヒメ】#10 １１年目へ！霧厳城から～！！！【角巻わため/ホロライブ４期生】
+UID:d9Kzx2nYxcw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【英語勉強】Let’s study English together📝前回できなかったからリベンジ！【白銀ノエル/ホロライブ】【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=BWYVZlCNUb4
@@ -254,5 +275,12 @@ DURATION:PT2H
 DTSTART:20210520T121000Z
 SUMMARY:👯兎田ぺこら: 【ゲーム】マッチングアプリで出会い厨してみた！！！ぺこ！【ホロライブ/兎田ぺこら】
 UID:vUrfcMmopM0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ポルカちゃんGB\nhttps://www.youtube.com/watch?v=2r8hEbXDeqs
+DURATION:PT2H
+DTSTART:20210520T121949Z
+SUMMARY:尾丸ポルカ: ポルカちゃんGB
+UID:2r8hEbXDeqs
 END:VEVENT
 END:VCALENDAR
