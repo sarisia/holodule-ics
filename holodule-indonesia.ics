@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【WoT】Let's play World of Tanks with me!【Moona】\nhttps://www.youtube.com/watch?v=peogttjWeqo
-DURATION:PT2H
-DTSTART:20210521T130000Z
-SUMMARY:🔮Moona: 【WoT】Let's play World of Tanks with me!【Moona】
-UID:peogttjWeqo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【hololiveID】MaBaR : Makan Bareng Risu ~ ngemil enak【Ayunda Risu】\nhttps://www.youtube.com/watch?v=AGvN9S3o06c
-DURATION:PT2H
-DTSTART:20210521T080000Z
-SUMMARY:🐿Risu: 【hololiveID】MaBaR : Makan Bareng Risu ~ ngemil enak【Ayunda Risu】
-UID:AGvN9S3o06c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Reinelaxing【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=m-2EL-vR7Cw
 DURATION:PT2H
 DTSTART:20210520T073000Z
@@ -44,6 +30,13 @@ DURATION:PT2H
 DTSTART:20210520T120000Z
 SUMMARY:🐿Risu: 【hololiveID】Smol but dangerous !!! Be ready !!!!【Ayunda Risu】
 UID:jkRxnPbqxqM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololiveID】MaBaR : Makan Bareng Risu ~ ngemil enak【Ayunda Risu】\nhttps://www.youtube.com/watch?v=AGvN9S3o06c
+DURATION:PT2H
+DTSTART:20210521T080000Z
+SUMMARY:🐿Risu: 【hololiveID】MaBaR : Makan Bareng Risu ~ ngemil enak【Ayunda Risu】
+UID:AGvN9S3o06c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【It Takes Two】Watering the Pavollie Tree【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=9OHlmwFrvTk
