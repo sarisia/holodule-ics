@@ -95,11 +95,11 @@ SUMMARY:桃鈴ねね: 【参加型APEX】🍑Date with Nene🍑【桃鈴ねね/ 
 UID:E8hCyNAJ4_Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【バイオハザード ヴィレッジ】ほんとやばいこわい【#ホロお姉さん組】\nhttps://www.youtube.com/watch?v=H7MYL-XINOQ
+DESCRIPTION:【FF10】生まれてはじめてのファイナルファンタジーぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=DvN0_y23jek
 DURATION:PT2H
-DTSTART:20210522T030000Z
-SUMMARY:⚔白銀ノエル: 【バイオハザード ヴィレッジ】ほんとやばいこわい【#ホロお姉さん組】
-UID:H7MYL-XINOQ
+DTSTART:20210522T040000Z
+SUMMARY:👯兎田ぺこら: 【FF10】生まれてはじめてのファイナルファンタジーぺこ！【ホロライブ/兎田ぺこら】
+UID:DvN0_y23jek
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【BIOHAZARD 7】心拍数付き！？初見バイオ7！！！【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=EIH4_Faup0Q
@@ -116,11 +116,11 @@ SUMMARY:雪花ラミィ: 【ラミィの日本酒づくりプロジェクト】�
 UID:EifC1wGBons
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FF10】生まれてはじめてのファイナルファンタジーぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=DvN0_y23jek
+DESCRIPTION:【バイオハザード ヴィレッジ】ほんとやばいこわい【#ホロお姉さん組】\nhttps://www.youtube.com/watch?v=H7MYL-XINOQ
 DURATION:PT2H
-DTSTART:20210522T040000Z
-SUMMARY:👯兎田ぺこら: 【FF10】生まれてはじめてのファイナルファンタジーぺこ！【ホロライブ/兎田ぺこら】
-UID:DvN0_y23jek
+DTSTART:20210522T030000Z
+SUMMARY:⚔白銀ノエル: 【バイオハザード ヴィレッジ】ほんとやばいこわい【#ホロお姉さん組】
+UID:H7MYL-XINOQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【とっとこハム太郎3】神ゲーラブラブ大冒険でちゅ【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=IbaSrfxzLaY
@@ -142,6 +142,13 @@ DURATION:PT2H
 DTSTART:20210522T090000Z
 SUMMARY:⚒AZKi: 【40万人記念】40曲歌います！！！感謝の記念歌枠 / Singing 40 songs!!!【#あずきんち40万】
 UID:_jeA7U-QWJs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:すばらしきこのせかい ～ヨシュア編～【ネタバレあり】\nhttps://www.youtube.com/watch?v=v8NACO3hOPA
+DURATION:PT2H
+DTSTART:20210521T130000Z
+SUMMARY:🌲大神ミオ: すばらしきこのせかい ～ヨシュア編～【ネタバレあり】
+UID:v8NACO3hOPA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【  Miitopia 】これもまた一つのオルタナティブ･･･！？ホロメンルーレットでミートピアをお試しで遊んでみる！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=nmdxR97_Pqo
@@ -221,6 +228,13 @@ SUMMARY:🔮Moona: 【WoT】Let's play World of Tanks with me!【Moona】
 UID:peogttjWeqo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【声だしノーアカイブ】今日この後TRPGがあるので声を出しましょう  /  アステル・レダ\nhttps://www.youtube.com/watch?v=kl0_bwcb9ZM
+DURATION:PT2H
+DTSTART:20210522T064000Z
+SUMMARY:🎭アステル・レダ: 【声だしノーアカイブ】今日この後TRPGがあるので声を出しましょう  /  アステル・レダ
+UID:kl0_bwcb9ZM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【風来のシレン5】クリア後のダンジョンへ！いざ！【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=PClh7shRaaA
 DURATION:PT2H
 DTSTART:20210522T130000Z
@@ -261,6 +275,13 @@ DURATION:PT2H
 DTSTART:20210521T140000Z
 SUMMARY:🏮夏色まつり: 【世界のアソビ大全51】配信外でもアソビまくってます！【ホロライブ/夏色まつり】
 UID:EbQ2a-khQkM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【凸待ち！？】１００万人記念×重大発表【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=xUjF57g4B7k
+DURATION:PT2H
+DTSTART:20210522T110000Z
+SUMMARY:🦋潤羽るしあ: 【凸待ち！？】１００万人記念×重大発表【潤羽るしあ/ホロライブ】
+UID:xUjF57g4B7k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:アーカイブ / 律可【オリジナルMV】\nhttps://www.youtube.com/watch?v=biNtMOSIFH4
@@ -340,13 +361,6 @@ SUMMARY:🐉桐生ココ: 【犬鳴トンネル】げぼこわホラゲ【桐生
 UID:PV8s0vkBvNM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マイクラ】探検回！マイクラに低気圧などない【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=grzpMh4QEUo
-DURATION:PT2H
-DTSTART:20210521T090000Z
-SUMMARY:尾丸ポルカ: 【マイクラ】探検回！マイクラに低気圧などない【尾丸ポルカ/ホロライブ】
-UID:grzpMh4QEUo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【＃0期生マイクラ】遂に０期生！全員しゅうご～～～～！💓All 0th gen members gather【ホロライブ/ロボ子さん/ときのそら/AZKI/さくらみこ/星街すいせい】\nhttps://www.youtube.com/watch?v=L4IhtpspDVk
 DURATION:PT2H
 DTSTART:20210521T130000Z
@@ -361,18 +375,18 @@ SUMMARY:🐏角巻わため: 【つぐのひ】昭和の世界に遊びに行け
 UID:Ubdo3Zx74yw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】ソロ。【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=G5CiKOemgxM
-DURATION:PT2H
-DTSTART:20210521T050000Z
-SUMMARY:👾常闇トワ: 【APEX】ソロ。【常闇トワ/ホロライブ】
-UID:G5CiKOemgxM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ドラクエ35周年記念】モンスター35体仲間にする！！！ぺこ！DAY4【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=J0-EtPY4cuU
 DURATION:PT2H
 DTSTART:20210521T150000Z
 SUMMARY:👯兎田ぺこら: 【ドラクエ35周年記念】モンスター35体仲間にする！！！ぺこ！DAY4【ホロライブ/兎田ぺこら】
 UID:J0-EtPY4cuU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】ソロ。【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=G5CiKOemgxM
+DURATION:PT2H
+DTSTART:20210521T050000Z
+SUMMARY:👾常闇トワ: 【APEX】ソロ。【常闇トワ/ホロライブ】
+UID:G5CiKOemgxM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SUPER CHAT DRINKING GAME】Sending Off Supers to the Underworld! 8} #holoMyth #hololiveEnglish\nhttps://www.youtube.com/watch?v=lv6aSlzEcSI
@@ -389,18 +403,18 @@ SUMMARY:⚙律可: 【APEX LEGENDS】PADでプラチナになる配信！その�
 UID:_56zSJDl6k4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ニーアオートマタ：NieR:Automata】初見実況！#03（※ネタバレあり）【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=1JgBRUOdDdQ
-DURATION:PT2H
-DTSTART:20210521T000000Z
-SUMMARY:雪花ラミィ: 【ニーアオートマタ：NieR:Automata】初見実況！#03（※ネタバレあり）【雪花ラミィ/ホロライブ】
-UID:1JgBRUOdDdQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ホロライブオルタナティブ同時視聴【 ホロライブ/白上フブキ 】\nhttps://www.youtube.com/watch?v=InlEh9k1V2E
 DURATION:PT2H
 DTSTART:20210521T101500Z
 SUMMARY:🌽白上フブキ: ホロライブオルタナティブ同時視聴【 ホロライブ/白上フブキ 】
 UID:InlEh9k1V2E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ニーアオートマタ：NieR:Automata】初見実況！#03（※ネタバレあり）【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=1JgBRUOdDdQ
+DURATION:PT2H
+DTSTART:20210521T000000Z
+SUMMARY:雪花ラミィ: 【ニーアオートマタ：NieR:Automata】初見実況！#03（※ネタバレあり）【雪花ラミィ/ホロライブ】
+UID:1JgBRUOdDdQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:エンヴィーベイビー/ covered by ロボ子さん\nhttps://www.youtube.com/watch?v=sJZoMJfIpmA
@@ -410,18 +424,18 @@ SUMMARY:🤖ロボ子さん: エンヴィーベイビー/ covered by ロボ子�
 UID:sJZoMJfIpmA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DQB2】銀と金を3000個集めたいです！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=0kPNQafQ6Hg
-DURATION:PT2H
-DTSTART:20210521T083000Z
-SUMMARY:🦔💨岸堂天真: 【DQB2】銀と金を3000個集めたいです！【岸堂天真/ホロスターズ】
-UID:0kPNQafQ6Hg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#2【YABE S2】Cromch & Chill【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=LjgDFTw_hJ0
 DURATION:PT2H
 DTSTART:20210522T040000Z
 SUMMARY:Reine: #2【YABE S2】Cromch & Chill【hololiveID 2nd gen】
 UID:LjgDFTw_hJ0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DQB2】銀と金を3000個集めたいです！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=0kPNQafQ6Hg
+DURATION:PT2H
+DTSTART:20210521T083000Z
+SUMMARY:🦔💨岸堂天真: 【DQB2】銀と金を3000個集めたいです！【岸堂天真/ホロスターズ】
+UID:0kPNQafQ6Hg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:『ホロライブ・オルタナティブ』 ティザーPV（Fullver）\nhttps://www.youtube.com/watch?v=3RxlzJWWzdY
@@ -508,11 +522,11 @@ SUMMARY:🚑大空スバル: 【#生スバル】バイオハザードヴィレ�
 UID:aqbZ5jk5Tg0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:すばらしきこのせかい ～ヨシュア編～【ネタバレあり】\nhttps://www.youtube.com/watch?v=v8NACO3hOPA
+DESCRIPTION:【マイクラ】探検回！マイクラに低気圧などない【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=grzpMh4QEUo
 DURATION:PT2H
-DTSTART:20210521T130000Z
-SUMMARY:🌲大神ミオ: すばらしきこのせかい ～ヨシュア編～【ネタバレあり】
-UID:v8NACO3hOPA
+DTSTART:20210521T090000Z
+SUMMARY:尾丸ポルカ: 【マイクラ】探検回！マイクラに低気圧などない【尾丸ポルカ/ホロライブ】
+UID:grzpMh4QEUo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スーパーマリオパーティー】🍑5期生バチボコパーティー🍑【#ねぽらぼ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=alO4hTErWZA
