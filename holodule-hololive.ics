@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【 オークス2021 】ソダシ応援みこ🏇かけてゆけオークス2021応援にぇ！✨【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=Ww78TRg0NK4
+DURATION:PT2H
+DTSTART:20210523T060000Z
+SUMMARY:🌸さくらみこ: 【 オークス2021 】ソダシ応援みこ🏇かけてゆけオークス2021応援にぇ！✨【ホロライブ/さくらみこ】
+UID:Ww78TRg0NK4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌枠/sing】80万人ありがとう🌿Thank You 800k subs【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=FnIS77jxukI
 DURATION:PT2H
 DTSTART:20210523T130000Z
@@ -23,13 +30,6 @@ DURATION:PT2H
 DTSTART:20210522T100000Z
 SUMMARY:💫天音かなた: 【Miitopia】くじ引きでホロメン選んでRPG作るのだ！！【天音かなた/ホロライブ】
 UID:kmFTyw3oq1U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ウマ娘】ナリタブライアンを神引き＆初育成！【桐生ココ/ホロライブ】\nhttps://www.youtube.com/watch?v=sZSt0B7PaqQ
-DURATION:PT2H
-DTSTART:20210522T120000Z
-SUMMARY:🐉桐生ココ: 【ウマ娘】ナリタブライアンを神引き＆初育成！【桐生ココ/ホロライブ】
-UID:sZSt0B7PaqQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【日本地図クイズ】ノエ吸いチャレンジ🌟日本は４７都道府県なの知ってんだかんね👊PON VS 高性能【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=BMk_307_vos
@@ -81,10 +81,10 @@ SUMMARY:🌽白上フブキ: 【#４】白上とテリーのワンダーラン�
 UID:fTSNOHblK7U
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#桐生ココ】【】\nhttps://www.youtube.com/watch?v=YTTnA4MQkg0
+DESCRIPTION:REDDIT SHITPOST REVIEW with ...dad?\nhttps://www.youtube.com/watch?v=YTTnA4MQkg0
 DURATION:PT2H
 DTSTART:20210523T030000Z
-SUMMARY:🐉桐生ココ: 【#桐生ココ】【】
+SUMMARY:🐉桐生ココ: REDDIT SHITPOST REVIEW with ...dad?
 UID:YTTnA4MQkg0
 END:VEVENT
 BEGIN:VEVENT
@@ -130,13 +130,6 @@ SUMMARY:🏴☠宝鐘マリン: 【ラミィの乳】日本地図かZUN絵当て
 UID:MrJZOrmZrNs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ウマ娘】メジロマックイーン育成！目指せAランク！\nhttps://www.youtube.com/watch?v=xbQqQDWZ2p4
-DURATION:PT2H
-DTSTART:20210522T130000Z
-SUMMARY:🌲大神ミオ: 【ウマ娘】メジロマックイーン育成！目指せAランク！
-UID:xbQqQDWZ2p4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#５】白上とテリーのワンダーランドRETRO【 ホロライブ/白上フブキ 】\nhttps://www.youtube.com/watch?v=9-OwFlLWK4E
 DURATION:PT2H
 DTSTART:20210522T130000Z
@@ -163,6 +156,13 @@ DURATION:PT2H
 DTSTART:20210523T120000Z
 SUMMARY:🤖ロボ子さん: 【爆誕】全身３D💓本日の主役は５才になったロボ子さん！！！#ロボ子爆誕2021 　＃HBDroboco2021 【ホロライブ/ロボ子さん】
 UID:Y69lP9a12ug
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ダンガンロンパ】超高校級の清楚参上！華麗に謎を解くッ！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=aoyXaLxmrjw
+DURATION:PT2H
+DTSTART:20210523T090000Z
+SUMMARY:🏮夏色まつり: 【ダンガンロンパ】超高校級の清楚参上！華麗に謎を解くッ！【ホロライブ/夏色まつり】
+UID:aoyXaLxmrjw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【It Takes Two】#02 トワ様とバチボコ協力プレイするぞい！【獅白ぼたん視点/ホロライブ】\nhttps://www.youtube.com/watch?v=eRXwkOMtvrE
