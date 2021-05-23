@@ -109,18 +109,18 @@ SUMMARY:Ollie: 【APEX LEGENDS】THIS IS A DATE RIGHT?!?! THIS IS A DATE\, RIGHT
 UID:4rwI59k0fQA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【バイオハザード ヴィレッジ】ほんとやばいこわい【#ホロお姉さん組】\nhttps://www.youtube.com/watch?v=H7MYL-XINOQ
-DURATION:PT2H
-DTSTART:20210522T030000Z
-SUMMARY:⚔白銀ノエル: 【バイオハザード ヴィレッジ】ほんとやばいこわい【#ホロお姉さん組】
-UID:H7MYL-XINOQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【FF10】生まれてはじめてのファイナルファンタジーぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=DvN0_y23jek
 DURATION:PT2H
 DTSTART:20210522T040000Z
 SUMMARY:👯兎田ぺこら: 【FF10】生まれてはじめてのファイナルファンタジーぺこ！【ホロライブ/兎田ぺこら】
 UID:DvN0_y23jek
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【バイオハザード ヴィレッジ】ほんとやばいこわい【#ホロお姉さん組】\nhttps://www.youtube.com/watch?v=H7MYL-XINOQ
+DURATION:PT2H
+DTSTART:20210522T030000Z
+SUMMARY:⚔白銀ノエル: 【バイオハザード ヴィレッジ】ほんとやばいこわい【#ホロお姉さん組】
+UID:H7MYL-XINOQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌番組】わためのうた ーボイトレ編ー （５月２４日）【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=eFofp9m4kmg
@@ -149,6 +149,13 @@ DURATION:PT2H
 DTSTART:20210522T090000Z
 SUMMARY:⚒AZKi: 【40万人記念】40曲歌います！！！感謝の記念歌枠 / Singing 40 songs!!!【#あずきんち40万】
 UID:_jeA7U-QWJs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:アンダーカバー - 尾丸ポルカ(cover/4K)\nhttps://www.youtube.com/watch?v=W5IVzLi-Rug
+DURATION:PT2H
+DTSTART:20210523T100000Z
+SUMMARY:尾丸ポルカ: アンダーカバー - 尾丸ポルカ(cover/4K)
+UID:W5IVzLi-Rug
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#５】白上とテリーのワンダーランドRETRO【 ホロライブ/白上フブキ 】\nhttps://www.youtube.com/watch?v=9-OwFlLWK4E
@@ -305,6 +312,13 @@ SUMMARY:🚑大空スバル: 【#生スバル】おはようスバル：Free Tal
 UID:xAh1qYk6Wsc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【アニメ】大事なことを忘れていました…… #from1st\nhttps://www.youtube.com/watch?v=r-Va_SVWRP4
+DURATION:PT2H
+DTSTART:20210523T090015Z
+SUMMARY:ホロライブ: 【アニメ】大事なことを忘れていました…… #from1st
+UID:r-Va_SVWRP4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【おうち3D/RFA】昼夜逆転悪魔の運動｜#03【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=aqTVJ2ptLFc
 DURATION:PT2H
 DTSTART:20210523T071500Z
@@ -326,18 +340,18 @@ SUMMARY:🎸奏手イヅル: 【弾き語り】Pianoわかりません【奏手�
 UID:QeJkuVV38e8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🌟二人で協力！スーパーマリオ３Dワールド🍑【ホロライブ/夜空メル×桃鈴ねね】\nhttps://www.youtube.com/watch?v=TBWKi41S1ho
-DURATION:PT2H
-DTSTART:20210523T130000Z
-SUMMARY:🌟夜空メル: 🌟二人で協力！スーパーマリオ３Dワールド🍑【ホロライブ/夜空メル×桃鈴ねね】
-UID:TBWKi41S1ho
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【晩酌】良かったら一緒にセイクで優勝しないか？【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=dzqZXnSpS1s
 DURATION:PT2H
 DTSTART:20210522T120000Z
 SUMMARY:影山シエン: 【晩酌】良かったら一緒にセイクで優勝しないか？【影山シエン/ホロスターズ】
 UID:dzqZXnSpS1s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🌟二人で協力！スーパーマリオ３Dワールド🍑【ホロライブ/夜空メル×桃鈴ねね】\nhttps://www.youtube.com/watch?v=TBWKi41S1ho
+DURATION:PT2H
+DTSTART:20210523T130000Z
+SUMMARY:🌟夜空メル: 🌟二人で協力！スーパーマリオ３Dワールド🍑【ホロライブ/夜空メル×桃鈴ねね】
+UID:TBWKi41S1ho
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【モンスターハンターライズ】朝活モンハン　テオ２０分で討伐できるかな？【 ホロライブ/白上フブキ 】\nhttps://www.youtube.com/watch?v=bD78STAZNfk
