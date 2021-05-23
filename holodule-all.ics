@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 オークス2021 】ソダシ応援みこ🏇かけてゆけオークス2021応援にぇ！✨【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=Ww78TRg0NK4
-DURATION:PT2H
-DTSTART:20210523T060000Z
-SUMMARY:🌸さくらみこ: 【 オークス2021 】ソダシ応援みこ🏇かけてゆけオークス2021応援にぇ！✨【ホロライブ/さくらみこ】
-UID:Ww78TRg0NK4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠/sing】80万人ありがとう🌿Thank You 800k subs【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=FnIS77jxukI
 DURATION:PT2H
 DTSTART:20210523T130000Z
@@ -100,6 +93,13 @@ DURATION:PT2H
 DTSTART:20210522T190500Z
 SUMMARY:Amelia: 【DOOM】Hic and Tear
 UID:ja8Mo6aKXxk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX LEGENDS】THIS IS A DATE RIGHT?!?! THIS IS A DATE\, RIGHT?!!?!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=4rwI59k0fQA
+DURATION:PT2H
+DTSTART:20210523T130000Z
+SUMMARY:Ollie: 【APEX LEGENDS】THIS IS A DATE RIGHT?!?! THIS IS A DATE\, RIGHT?!!?!【Hololive Indonesia 2nd Gen】
+UID:4rwI59k0fQA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【バイオハザード ヴィレッジ】ほんとやばいこわい【#ホロお姉さん組】\nhttps://www.youtube.com/watch?v=H7MYL-XINOQ
@@ -193,10 +193,10 @@ SUMMARY:Ollie: 【MINECRAFT】MIDNIGHT GUERILLA CHATS【Hololive Indonesia 2nd G
 UID:zIJ1Ey8sCj8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】Pew Pew Pew! Alien Zombie Apex【hololiveID】\nhttps://www.youtube.com/watch?v=vtpvIyYLMnM
+DESCRIPTION:【APEX】Pew Pew Pew! Alien Zombie Apex\, and Yes\, This is A Date【hololiveID】\nhttps://www.youtube.com/watch?v=vtpvIyYLMnM
 DURATION:PT2H
 DTSTART:20210523T130000Z
-SUMMARY:🎨Iofi: 【APEX】Pew Pew Pew! Alien Zombie Apex【hololiveID】
+SUMMARY:🎨Iofi: 【APEX】Pew Pew Pew! Alien Zombie Apex\, and Yes\, This is A Date【hololiveID】
 UID:vtpvIyYLMnM
 END:VEVENT
 BEGIN:VEVENT
@@ -298,11 +298,25 @@ SUMMARY:👾常闇トワ: 【おうち3D/RFA】昼夜逆転悪魔の運動｜#03
 UID:aqTVJ2ptLFc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】花岸ハウスを作る！！【花咲みやび/岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=viza-vaTt6I
+DURATION:PT2H
+DTSTART:20210523T080000Z
+SUMMARY:🌺花咲みやび: 【Minecraft】花岸ハウスを作る！！【花咲みやび/岸堂天真/ホロスターズ】
+UID:viza-vaTt6I
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【弾き語り】Pianoわかりません【奏手イヅル】\nhttps://www.youtube.com/watch?v=QeJkuVV38e8
 DURATION:PT2H
 DTSTART:20210522T174911Z
 SUMMARY:🎸奏手イヅル: 【弾き語り】Pianoわかりません【奏手イヅル】
 UID:QeJkuVV38e8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🌟二人で協力！スーパーマリオ３Dワールド🍑【ホロライブ/夜空メル×桃鈴ねね】\nhttps://www.youtube.com/watch?v=TBWKi41S1ho
+DURATION:PT2H
+DTSTART:20210523T130000Z
+SUMMARY:🌟夜空メル: 🌟二人で協力！スーパーマリオ３Dワールド🍑【ホロライブ/夜空メル×桃鈴ねね】
+UID:TBWKi41S1ho
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【晩酌】良かったら一緒にセイクで優勝しないか？【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=dzqZXnSpS1s
@@ -317,13 +331,6 @@ DURATION:PT2H
 DTSTART:20210522T233000Z
 SUMMARY:🌽白上フブキ: 【モンスターハンターライズ】朝活モンハン　テオ２０分で討伐できるかな？【 ホロライブ/白上フブキ 】
 UID:bD78STAZNfk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🌟二人で協力！スーパーマリオ３Dワールド🍑【ホロライブ/夜空メル×桃鈴ねね】\nhttps://www.youtube.com/watch?v=TBWKi41S1ho
-DURATION:PT2H
-DTSTART:20210523T130000Z
-SUMMARY:🌟夜空メル: 🌟二人で協力！スーパーマリオ３Dワールド🍑【ホロライブ/夜空メル×桃鈴ねね】
-UID:TBWKi41S1ho
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:02【It takes two】サクサクプレイが見所です【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=_OqBiaNf_hA
