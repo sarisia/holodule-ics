@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:[PROJECT DIVA: FUTURE TONE] sweat mode ON\nhttps://www.youtube.com/watch?v=ncKLgF54EBU
+DURATION:PT2H
+DTSTART:20210523T000031Z
+SUMMARY:Gura: [PROJECT DIVA: FUTURE TONE] sweat mode ON
+UID:ncKLgF54EBU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:[FRIDAY NIGHT FUNKIN'] RE MATCH + WEEK 7\nhttps://www.youtube.com/watch?v=SOTADOqG-j4
 DURATION:PT2H
 DTSTART:20210522T010128Z
@@ -18,18 +25,18 @@ SUMMARY:Amelia: 【DOOM】Hic and Tear
 UID:ja8Mo6aKXxk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【CHAT】 Chatttttt Time!\nhttps://www.youtube.com/watch?v=4Dpn-tBmwl8
+DURATION:PT2H
+DTSTART:20210522T200000Z
+SUMMARY:Ina: 【CHAT】 Chatttttt Time!
+UID:4Dpn-tBmwl8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Yakuza: Like a Dragon】BLEACH JAPAN JOINS THE BATTLE #kfp #キアライブ (SPOILERS ALERT)\nhttps://www.youtube.com/watch?v=XFRPg8hML4s
 DURATION:PT2H
 DTSTART:20210523T133000Z
 SUMMARY:Kiara: 【Yakuza: Like a Dragon】BLEACH JAPAN JOINS THE BATTLE #kfp #キアライブ (SPOILERS ALERT)
 UID:XFRPg8hML4s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DOOM】RIP AND Investigate Politely | First Time playing!\nhttps://www.youtube.com/watch?v=25--SXFoFP0
-DURATION:PT2H
-DTSTART:20210521T220500Z
-SUMMARY:Amelia: 【DOOM】RIP AND Investigate Politely | First Time playing!
-UID:25--SXFoFP0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Yakuza: Like a Dragon】This is pretty NYABAI\, nya... #kfp #キアライブ (SPOILERS ALERT)\nhttps://www.youtube.com/watch?v=sS7RYVfgMwk
@@ -39,10 +46,17 @@ SUMMARY:Kiara: 【Yakuza: Like a Dragon】This is pretty NYABAI\, nya... #kfp #�
 UID:sS7RYVfgMwk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【CHAT】 Chatttttt Time!\nhttps://www.youtube.com/watch?v=4Dpn-tBmwl8
+DESCRIPTION:【DOOM】RIP AND Investigate Politely | First Time playing!\nhttps://www.youtube.com/watch?v=25--SXFoFP0
 DURATION:PT2H
-DTSTART:20210522T200000Z
-SUMMARY:Ina: 【CHAT】 Chatttttt Time!
-UID:4Dpn-tBmwl8
+DTSTART:20210521T220500Z
+SUMMARY:Amelia: 【DOOM】RIP AND Investigate Politely | First Time playing!
+UID:25--SXFoFP0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【WATCHALONG】The Illusionist(2006)\nhttps://www.youtube.com/watch?v=afnXlbleXS0
+DURATION:PT2H
+DTSTART:20210523T010500Z
+SUMMARY:Amelia: 【WATCHALONG】The Illusionist(2006)
+UID:afnXlbleXS0
 END:VEVENT
 END:VCALENDAR
