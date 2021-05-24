@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【FreeTalk⇒Minecraft】まぁ眠るまで話そうよってやつかと思ったら鬼のように整地した枠【アルランディス/アステル・レダ/ホロスターズ】\nhttps://www.youtube.com/watch?v=7J0L79NS3f4
-DURATION:PT2H
-DTSTART:20210523T165500Z
-SUMMARY:🍕アルランディス: 【FreeTalk⇒Minecraft】まぁ眠るまで話そうよってやつかと思ったら鬼のように整地した枠【アルランディス/アステル・レダ/ホロスターズ】
-UID:7J0L79NS3f4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Quest Room】トンでも兵器満載の部屋から脱出せよ！【アルランディス/アステル・レダ/律可/影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=31mAJYH1-TY
-DURATION:PT2H
-DTSTART:20210524T120000Z
-SUMMARY:🍕アルランディス: 【Quest Room】トンでも兵器満載の部屋から脱出せよ！【アルランディス/アステル・レダ/律可/影山シエン/ホロスターズ】
-UID:31mAJYH1-TY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【QuestRooms】こちら、プロ視点。/ アステル シエン アルランディス 律可\nhttps://www.youtube.com/watch?v=Mzmm-jdRj-I
 DURATION:PT2H
 DTSTART:20210524T120000Z
@@ -32,11 +18,25 @@ SUMMARY:🎭アステル・レダ: 【エイリアン&ゾンビ】きゃりー�
 UID:1UqbfXL3Pxs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【STUDY】let's study duolingo!! 学習アプリをやる Part10【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=tJ8ta8BPOqE
+DESCRIPTION:【Quest Room】トンでも兵器満載の部屋から脱出せよ！【アルランディス/アステル・レダ/律可/影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=31mAJYH1-TY
 DURATION:PT2H
-DTSTART:20210523T230000Z
-SUMMARY:🦔💨岸堂天真: 【STUDY】let's study duolingo!! 学習アプリをやる Part10【岸堂天真/ホロスターズ】
-UID:tJ8ta8BPOqE
+DTSTART:20210524T120000Z
+SUMMARY:🍕アルランディス: 【Quest Room】トンでも兵器満載の部屋から脱出せよ！【アルランディス/アステル・レダ/律可/影山シエン/ホロスターズ】
+UID:31mAJYH1-TY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FreeTalk⇒Minecraft】まぁ眠るまで話そうよってやつかと思ったら鬼のように整地した枠【アルランディス/アステル・レダ/ホロスターズ】\nhttps://www.youtube.com/watch?v=7J0L79NS3f4
+DURATION:PT2H
+DTSTART:20210523T165500Z
+SUMMARY:🍕アルランディス: 【FreeTalk⇒Minecraft】まぁ眠るまで話そうよってやつかと思ったら鬼のように整地した枠【アルランディス/アステル・レダ/ホロスターズ】
+UID:7J0L79NS3f4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【BIOMUTANT】今日発売のバイオミュータントを先行プレイ!! / アステル\nhttps://www.youtube.com/watch?v=HCVNt5BKC3o
+DURATION:PT2H
+DTSTART:20210524T180000Z
+SUMMARY:🎭アステル・レダ: 【BIOMUTANT】今日発売のバイオミュータントを先行プレイ!! / アステル
+UID:HCVNt5BKC3o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #律可15万人記念ライブ 】お家3D！ピアノ生演奏ミニライブ【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=XkknCD3KOSg
@@ -46,10 +46,24 @@ SUMMARY:⚙律可: 【 #律可15万人記念ライブ 】お家3D！ピアノ生
 UID:XkknCD3KOSg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【STUDY】let's study duolingo!! 学習アプリをやる Part10【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=tJ8ta8BPOqE
+DURATION:PT2H
+DTSTART:20210523T230000Z
+SUMMARY:🦔💨岸堂天真: 【STUDY】let's study duolingo!! 学習アプリをやる Part10【岸堂天真/ホロスターズ】
+UID:tJ8ta8BPOqE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:『Minecraft』クリエイティブで世界を作ろう!!【アステル/ホロスターズ】\nhttps://www.youtube.com/watch?v=9Sh81fqyJTU
 DURATION:PT2H
 DTSTART:20210523T183000Z
 SUMMARY:🎭アステル・レダ: 『Minecraft』クリエイティブで世界を作ろう!!【アステル/ホロスターズ】
 UID:9Sh81fqyJTU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活！】ちょっと教えてほしいこと～I have any question ! Help me !!～【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=isLkqFt5lJs
+DURATION:PT2H
+DTSTART:20210524T213000Z
+SUMMARY:🍕アルランディス: 【朝活！】ちょっと教えてほしいこと～I have any question ! Help me !!～【アルランディス/ホロスターズ】
+UID:isLkqFt5lJs
 END:VEVENT
 END:VCALENDAR
