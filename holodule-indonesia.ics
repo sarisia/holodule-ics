@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【 Live Draw 】Happy Debut Anniversary! 一年間でなんかあった？【 オウガ Ouga / Iofi イオフィ】\nhttps://www.youtube.com/watch?v=qnsxQ0qiF04
+DURATION:PT2H
+DTSTART:20210524T140000Z
+SUMMARY:🎨Iofi: 【 Live Draw 】Happy Debut Anniversary! 一年間でなんかあった？【 オウガ Ouga / Iofi イオフィ】
+UID:qnsxQ0qiF04
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【READING MANGA】MORE ISEKAIS MEANS MORE VOICE ACTING~!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=4x_-ML-A0To
 DURATION:PT2H
 DTSTART:20210524T035730Z
@@ -18,17 +25,17 @@ SUMMARY:Ollie: 【CRAZY SHOPPING】RUNNING ERRANDS BUT IN KUREIJI【Hololive Ind
 UID:Ca5ciitcS-g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Live Draw 】Happy Debut Anniversary! 一年間でなんかあった？【 オウガ Ouga / Iofi イオフィ】\nhttps://www.youtube.com/watch?v=qnsxQ0qiF04
-DURATION:PT2H
-DTSTART:20210524T140000Z
-SUMMARY:🎨Iofi: 【 Live Draw 】Happy Debut Anniversary! 一年間でなんかあった？【 オウガ Ouga / Iofi イオフィ】
-UID:qnsxQ0qiF04
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【D4DJ Groovy Mix EN Beta】First Time! Hololive Songs Are Here?!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=ECrhrXRjDH4
 DURATION:PT2H
 DTSTART:20210524T143000Z
 SUMMARY:Anya: 【D4DJ Groovy Mix EN Beta】First Time! Hololive Songs Are Here?!【hololive Indonesia 2nd Generation】
 UID:ECrhrXRjDH4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【D4DJ Groovy Mix!】HELLO NEW SERVER! English Version is Coming!【hololiveID】\nhttps://www.youtube.com/watch?v=a3H1L5WtoWA
+DURATION:PT2H
+DTSTART:20210525T130000Z
+SUMMARY:🎨Iofi: 【D4DJ Groovy Mix!】HELLO NEW SERVER! English Version is Coming!【hololiveID】
+UID:a3H1L5WtoWA
 END:VEVENT
 END:VCALENDAR
