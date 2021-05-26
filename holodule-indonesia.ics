@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Phantasy Star Online 2】New Development & Refreshments【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=BqTF1TEPXfE
+DURATION:PT2H
+DTSTART:20210528T130000Z
+SUMMARY:Reine: 【Phantasy Star Online 2】New Development & Refreshments【hololiveID 2nd gen】
+UID:BqTF1TEPXfE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Collab】Consultation Corner... Except It's MEP Corner This Month【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=3UV0YqFTQvg
+DURATION:PT2H
+DTSTART:20210526T140000Z
+SUMMARY:Anya: 【Collab】Consultation Corner... Except It's MEP Corner This Month【hololive Indonesia 2nd Generation】
+UID:3UV0YqFTQvg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【hololiveID】DONUT IN A HOLE !!!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=cBVDrIJklj0
 DURATION:PT2H
 DTSTART:20210526T083000Z
@@ -25,17 +39,24 @@ SUMMARY:Ollie: 【APEX LEGENDS】WE'RE STILL NOT STOPPING!!!【Hololive Indonesi
 UID:W3tLbQoFTgQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Cover】 うっせぇわ (USSEEWA) ／ Pavolia Reine\nhttps://www.youtube.com/watch?v=dYvQcVG_dVg
+DURATION:PT2H
+DTSTART:20210527T120000Z
+SUMMARY:Reine: 【Cover】 うっせぇわ (USSEEWA) ／ Pavolia Reine
+UID:dYvQcVG_dVg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】O.R.A. IS HERE!!! OBVIOUSLY RAIDING APEX\, TOGETHER!!【Hololive ID Generasi 2】\nhttps://www.youtube.com/watch?v=QuGuP847NWc
+DURATION:PT2H
+DTSTART:20210527T050000Z
+SUMMARY:Ollie: 【APEX】O.R.A. IS HERE!!! OBVIOUSLY RAIDING APEX\, TOGETHER!!【Hololive ID Generasi 2】
+UID:QuGuP847NWc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【D4DJ Groovy Mix】EN Beta Test!! It's DJ Reine's Turn!!!【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=VPfzwSYu1TU
 DURATION:PT2H
 DTSTART:20210526T010000Z
 SUMMARY:Reine: 【D4DJ Groovy Mix】EN Beta Test!! It's DJ Reine's Turn!!!【hololiveID 2nd gen】
 UID:VPfzwSYu1TU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Phantasy Star Online 2】New Development & Refreshments【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=BqTF1TEPXfE
-DURATION:PT2H
-DTSTART:20210528T130000Z
-SUMMARY:Reine: 【Phantasy Star Online 2】New Development & Refreshments【hololiveID 2nd gen】
-UID:BqTF1TEPXfE
 END:VEVENT
 END:VCALENDAR
