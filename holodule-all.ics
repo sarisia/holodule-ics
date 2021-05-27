@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Xbox Game Pass!】ししろから学ぶ！！Xbox Game Pass！！【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=-OgSzA52NPY
+DURATION:PT2H
+DTSTART:20210527T110000Z
+SUMMARY:尾丸ポルカ: 【Xbox Game Pass!】ししろから学ぶ！！Xbox Game Pass！！【尾丸ポルカ/ホロライブ】
+UID:-OgSzA52NPY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【オーバーウォッチ】朝から？！ゲリラで！？コラボ！？【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=-48l4F_I6N0
 DURATION:PT2H
 DTSTART:20210525T201500Z
 SUMMARY:👾常闇トワ: 【オーバーウォッチ】朝から？！ゲリラで！？コラボ！？【常闇トワ/ホロライブ】
 UID:-48l4F_I6N0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【eBASEBALLパワフルプロ野球2020】最強の夕刻ロベルを作る【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=GoH90Pnx7YU
+DURATION:PT2H
+DTSTART:20210527T100000Z
+SUMMARY:🍷夕刻ロベル: 【eBASEBALLパワフルプロ野球2020】最強の夕刻ロベルを作る【ホロスターズ/夕刻ロベル】
+UID:GoH90Pnx7YU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Knockout City】お前ボールな!!!!ができる世界でドッジボール【アルランディス/岸堂天真/花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=Fw5VjtvWvNo
@@ -95,13 +109,6 @@ SUMMARY:👯兎田ぺこら: 【ドラクエ35周年記念】モンスター35�
 UID:DjTCDoIRMLo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【モンスターハンターライズ】バルファルクバルファルク【 ホロライブ/白上フブキ 】\nhttps://www.youtube.com/watch?v=Ws_ax7mLNhw
-DURATION:PT2H
-DTSTART:20210526T235000Z
-SUMMARY:🌽白上フブキ: 【モンスターハンターライズ】バルファルクバルファルク【 ホロライブ/白上フブキ 】
-UID:Ws_ax7mLNhw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Apex Legends】突発的ランクマッチ【アルランディス/オリ―/ホロスターズ】\nhttps://www.youtube.com/watch?v=zROK8P43vVo
 DURATION:PT2H
 DTSTART:20210526T073000Z
@@ -114,13 +121,6 @@ DURATION:PT2H
 DTSTART:20210527T110000Z
 SUMMARY:獅白ぼたん: Xbox Game Passを使って5期生で遊んでみる！【獅白ぼたん/ホロライブ】
 UID:M_C72oAk_g8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【モンスターハンターライズ】来るのか！？アップデート！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=y2pcKhtQe0g
-DURATION:PT2H
-DTSTART:20210527T000000Z
-SUMMARY:雪花ラミィ: 【モンスターハンターライズ】来るのか！？アップデート！！【雪花ラミィ/ホロライブ】
-UID:y2pcKhtQe0g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【BIOHAZARD7 RESIDENT EVIL】初めてのバイオハザードに挑戦する #1【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=i8Qp2UQnveM
@@ -247,6 +247,13 @@ DURATION:PT2H
 DTSTART:20210526T130000Z
 SUMMARY:桃鈴ねね: 【SUPERCHAT READING】🍑さっきの続き！🍑【桃鈴ねね/ ホロライブ】
 UID:YU9di2pN8f4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】OHHH BABY A TRIPPLE\nhttps://www.youtube.com/watch?v=Aj0lxOOLrPI
+DURATION:PT2H
+DTSTART:20210527T050000Z
+SUMMARY:Amelia: 【APEX】OHHH BABY A TRIPPLE
+UID:Aj0lxOOLrPI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#from1st】ついに明日！一期生歌枠リレー🌟【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=MMyiCvxH2uA
