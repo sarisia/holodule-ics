@@ -4,10 +4,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:1期生ライブ応援スレ#1\nhttps://www.youtube.com/watch?v=iiqvVO7Us38
+DESCRIPTION:#flom1st ライブ感想会\nhttps://www.youtube.com/watch?v=iiqvVO7Us38
 DURATION:PT2H
 DTSTART:20210528T153000Z
-SUMMARY:🏮夏色まつり: 1期生ライブ応援スレ#1
+SUMMARY:🏮夏色まつり: #flom1st ライブ感想会
 UID:iiqvVO7Us38
 END:VEVENT
 BEGIN:VEVENT
@@ -314,7 +314,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Phantasy Star Online 2】New Development & Refreshments【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=BqTF1TEPXfE
 DURATION:PT2H
-DTSTART:20210528T130000Z
+DTSTART:20210528T140000Z
 SUMMARY:Reine: 【Phantasy Star Online 2】New Development & Refreshments【hololiveID 2nd gen】
 UID:BqTF1TEPXfE
 END:VEVENT
@@ -359,6 +359,13 @@ DURATION:PT2H
 DTSTART:20210527T070000Z
 SUMMARY:Reine: 【APEX】im baby【hololiveID 2nd gen】
 UID:ni8JHxf57zA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Subnautica】初見！超危険な海の惑星で究極のぼっち生活【律可/ホロスターズ】＃りつすた\nhttps://www.youtube.com/watch?v=R2d3b0S4XxE
+DURATION:PT2H
+DTSTART:20210528T150000Z
+SUMMARY:⚙律可: 【Subnautica】初見！超危険な海の惑星で究極のぼっち生活【律可/ホロスターズ】＃りつすた
+UID:R2d3b0S4XxE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【モンスターハンターライズ】来るのか！？アップデート！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=y2pcKhtQe0g
@@ -480,6 +487,13 @@ SUMMARY:ホロライブ: hololive 1st Generation 3rd Anniversary LIVE「from 1st
 UID:yRgjhtHsvNA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Cover】 うっせぇわ (USSEEWA) ／ Pavolia Reine\nhttps://www.youtube.com/watch?v=dYvQcVG_dVg
+DURATION:PT2H
+DTSTART:20210527T120000Z
+SUMMARY:Reine: 【Cover】 うっせぇわ (USSEEWA) ／ Pavolia Reine
+UID:dYvQcVG_dVg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【CHAT】 #WAHnMILLION YAKISOBAAAaaaa\nhttps://www.youtube.com/watch?v=VS4N6ZZtA-A
 DURATION:PT2H
 DTSTART:20210527T200000Z
@@ -501,11 +515,11 @@ SUMMARY:🐉桐生ココ: 【あつまれどうぶつの森】マイホームで
 UID:ShtOgoWj7_4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Cover】 うっせぇわ (USSEEWA) ／ Pavolia Reine\nhttps://www.youtube.com/watch?v=dYvQcVG_dVg
+DESCRIPTION:【DEATH STRANDING】Back To Our Delivery Service【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=43wBvrxJX9g
 DURATION:PT2H
-DTSTART:20210527T120000Z
-SUMMARY:Reine: 【Cover】 うっせぇわ (USSEEWA) ／ Pavolia Reine
-UID:dYvQcVG_dVg
+DTSTART:20210528T140000Z
+SUMMARY:Anya: 【DEATH STRANDING】Back To Our Delivery Service【hololive Indonesia 2nd Generation】
+UID:43wBvrxJX9g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ポントーク】ギリギリ！！！PONトーク！！！！！！/PON TALK【ホロライブ/みこスバ】\nhttps://www.youtube.com/watch?v=kdI0vBpWFkQ
