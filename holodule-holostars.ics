@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ゲリラは突然にやってくる。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=MsJn3ZhflCU
-DURATION:PT2H
-DTSTART:20210528T165000Z
-SUMMARY:🌺花咲みやび: 【Minecraft】ゲリラは突然にやってくる。【花咲みやび/ホロスターズ】
-UID:MsJn3ZhflCU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠】アランの歌声に変化が…！？久々の歌枠でございます【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=G62rVf-KaEc
 DURATION:PT2H
 DTSTART:20210529T050000Z
@@ -58,6 +51,13 @@ DURATION:PT2H
 DTSTART:20210528T045000Z
 SUMMARY:🍷夕刻ロベル: 【雑談】ざつだん【ホロスターズ/夕刻ロベル】
 UID:t9Dya5P3fH8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ソロマスター企画】舐めない、甘えない、集中。 /  アステル・APEX・レダ\nhttps://www.youtube.com/watch?v=UOoXVvSN0aA
+DURATION:PT2H
+DTSTART:20210528T213000Z
+SUMMARY:🎭アステル・レダ: 【ソロマスター企画】舐めない、甘えない、集中。 /  アステル・APEX・レダ
+UID:UOoXVvSN0aA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Subnautica】初見！超危険な海の惑星で究極のぼっち生活【律可/ホロスターズ】＃りつすた\nhttps://www.youtube.com/watch?v=R2d3b0S4XxE
