@@ -4,27 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【from 1st】CONCERT WATCHALONG! +some translation! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=Pe5ig8ZYglc
-DURATION:PT2H
-DTSTART:20210528T083000Z
-SUMMARY:Kiara: 【from 1st】CONCERT WATCHALONG! +some translation! #kfp #キアライブ
-UID:Pe5ig8ZYglc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DRAWING】Re:Schedule That Time I Jinxed My Stream Twice with Thumbnails\nhttps://www.youtube.com/watch?v=9ak-ylgi2io
-DURATION:PT2H
-DTSTART:20210526T200000Z
-SUMMARY:Ina: 【DRAWING】Re:Schedule That Time I Jinxed My Stream Twice with Thumbnails
-UID:9ak-ylgi2io
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】OHHH BABY A TRIPPLE\nhttps://www.youtube.com/watch?v=Aj0lxOOLrPI
-DURATION:PT2H
-DTSTART:20210527T050000Z
-SUMMARY:Amelia: 【APEX】OHHH BABY A TRIPPLE
-UID:Aj0lxOOLrPI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【CHAT】 #WAHnMILLION YAKISOBAAAaaaa\nhttps://www.youtube.com/watch?v=VS4N6ZZtA-A
 DURATION:PT2H
 DTSTART:20210527T200000Z
@@ -32,10 +11,10 @@ SUMMARY:Ina: 【CHAT】 #WAHnMILLION YAKISOBAAAaaaa
 UID:VS4N6ZZtA-A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【BIOMUTANT】NEW WORLD\, NEW ADVENTURE! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=yNX9qB-qA-w
+DESCRIPTION:【from 1st】CONCERT WATCHALONG! +some translation! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=Pe5ig8ZYglc
 DURATION:PT2H
-DTSTART:20210527T140000Z
-SUMMARY:Kiara: 【BIOMUTANT】NEW WORLD\, NEW ADVENTURE! #kfp #キアライブ
-UID:yNX9qB-qA-w
+DTSTART:20210528T083000Z
+SUMMARY:Kiara: 【from 1st】CONCERT WATCHALONG! +some translation! #kfp #キアライブ
+UID:Pe5ig8ZYglc
 END:VEVENT
 END:VCALENDAR
