@@ -4,16 +4,16 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:#flom1st ライブ感想会\nhttps://www.youtube.com/watch?v=iiqvVO7Us38
+DESCRIPTION:#from1st ライブ感想会\nhttps://www.youtube.com/watch?v=iiqvVO7Us38
 DURATION:PT2H
 DTSTART:20210529T140000Z
-SUMMARY:🏮夏色まつり: #flom1st ライブ感想会
+SUMMARY:🏮夏色まつり: #from1st ライブ感想会
 UID:iiqvVO7Us38
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ウマ娘】マヤ…ボクだ…来てくれ…祈れば出る！！欲望花嫁ガチャ💐【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=rhcIwM8796o
 DURATION:PT2H
-DTSTART:20210529T020000Z
+DTSTART:20210529T030000Z
 SUMMARY:🤖ロボ子さん: 【ウマ娘】マヤ…ボクだ…来てくれ…祈れば出る！！欲望花嫁ガチャ💐【ホロライブ/ロボ子さん】
 UID:rhcIwM8796o
 END:VEVENT
@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[DBD] shark is hungry for ...human\nhttps://www.youtube.com/watch?v=HGJJfAqcZJw
 DURATION:PT2H
-DTSTART:20210529T010000Z
+DTSTART:20210529T012758Z
 SUMMARY:Gura: [DBD] shark is hungry for ...human
 UID:HGJJfAqcZJw
 END:VEVENT
@@ -212,6 +212,13 @@ DURATION:PT2H
 DTSTART:20210529T130000Z
 SUMMARY:🏴☠宝鐘マリン: 【はいしんよてい！】【ホロライブ/宝鐘マリン】
 UID:jNjJrfS3QWs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【記念枠】10万人記念歌枠【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=JTwH743HNys
+DURATION:PT2H
+DTSTART:20210529T130000Z
+SUMMARY:荒咬オウガ: 【記念枠】10万人記念歌枠【荒咬オウガ/ホロスターズ】
+UID:JTwH743HNys
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【STUDY】Duolingo Gaming Stream【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=qGaxXz_mm2k
