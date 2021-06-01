@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 日本語雑談 】アニメ化されたら、こんな風になるのかな？【イオフィ】\nhttps://www.youtube.com/watch?v=nGKT4WyM5fo
-DURATION:PT2H
-DTSTART:20210531T130000Z
-SUMMARY:🎨Iofi: 【 日本語雑談 】アニメ化されたら、こんな風になるのかな？【イオフィ】
-UID:nGKT4WyM5fo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【hololiveID】JUNE FREETALK ~!!! Welcome June ~【Ayunda Risu】\nhttps://www.youtube.com/watch?v=BRT9Ic1FK3U
 DURATION:PT2H
 DTSTART:20210601T130000Z
 SUMMARY:🐿Risu: 【hololiveID】JUNE FREETALK ~!!! Welcome June ~【Ayunda Risu】
 UID:BRT9Ic1FK3U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Cooking Simulator】the power of KNIVES in my anime chef girl soul【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=5xdcigj5oe4
+DURATION:PT2H
+DTSTART:20210601T140000Z
+SUMMARY:Anya: 【Cooking Simulator】the power of KNIVES in my anime chef girl soul【hololive Indonesia 2nd Generation】
+UID:5xdcigj5oe4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Resident Evil Village】Innocent Baby Peafowl Tries to RE8【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=EWyLg90_TzE
@@ -27,8 +27,15 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FREETALK】IT'S THE START OF JUNE!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=SfxW-JAsQ_M
 DURATION:PT2H
-DTSTART:20210601T113000Z
+DTSTART:20210601T112812Z
 SUMMARY:Ollie: 【FREETALK】IT'S THE START OF JUNE!!【Hololive Indonesia 2nd Gen】
 UID:SfxW-JAsQ_M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 日本語雑談 】アニメ化されたら、こんな風になるのかな？【イオフィ】\nhttps://www.youtube.com/watch?v=nGKT4WyM5fo
+DURATION:PT2H
+DTSTART:20210531T130000Z
+SUMMARY:🎨Iofi: 【 日本語雑談 】アニメ化されたら、こんな風になるのかな？【イオフィ】
+UID:nGKT4WyM5fo
 END:VEVENT
 END:VCALENDAR
