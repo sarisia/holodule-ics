@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】夏祭りの下見＆準備！！レアアイテム取りにゆく！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=flVusFSB9p4
-DURATION:PT2H
-DTSTART:20210602T100000Z
-SUMMARY:🦋潤羽るしあ: 【Minecraft】夏祭りの下見＆準備！！レアアイテム取りにゆく！【潤羽るしあ/ホロライブ】
-UID:flVusFSB9p4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Miitopia】そっくりMii🎨１時間チャレンジなのだ！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=0x2LipbhN3Y
 DURATION:PT2H
 DTSTART:20210601T100000Z
@@ -51,13 +44,6 @@ DURATION:PT2H
 DTSTART:20210602T140000Z
 SUMMARY:🤖ロボ子さん: 【Dead by Daylight】killer machine 初心者はじめました🔪【ホロライブ/ロボ子さん】
 UID:aBuVghfRvlE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #クリア 桃太郎電鉄 】長時間耐久なのらっ…体力の続く限りっ……！！！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=1ZZPXQbjNDs
-DURATION:PT2H
-DTSTART:20210602T090000Z
-SUMMARY:🍬姫森ルーナ: 【 #クリア 桃太郎電鉄 】長時間耐久なのらっ…体力の続く限りっ……！！！【姫森ルーナ/ホロライブ】
-UID:1ZZPXQbjNDs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【BIOHAZARD 6】完全初見！初めてのバイオハザード６：レオン編【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=3TBnz326mTA
@@ -135,6 +121,13 @@ DURATION:PT2H
 DTSTART:20210602T110000Z
 SUMMARY:💫天音かなた: 【Miitopia】先生お仕事です！！１時間でそっくりMiiづくり🎨【天音かなた/ホロライブ】
 UID:HagHcvXBwLI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【プチアニメ】ドタバタ学園ラブコメディ？！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=z14PT51zgR0
+DURATION:PT2H
+DTSTART:20210602T140804Z
+SUMMARY:🐏角巻わため: 【プチアニメ】ドタバタ学園ラブコメディ？！【角巻わため/ホロライブ４期生】
+UID:z14PT51zgR0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Subnautica】900m潜れるようになった！オーロラ号いっちゃうぞ～ｗ【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=7r9K1NLu6oQ
@@ -242,6 +235,13 @@ SUMMARY:🐻ときのそら: 【Fall Guys】新ステージ気になりすぎる
 UID:QI6vX8K8rPE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【歌枠】目指せ150万人！ Singing until 1.5M subs♪ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=BYIbgX66_h0
+DURATION:PT2H
+DTSTART:20210602T120000Z
+SUMMARY:👯兎田ぺこら: 【歌枠】目指せ150万人！ Singing until 1.5M subs♪ぺこ！【ホロライブ/兎田ぺこら】
+UID:BYIbgX66_h0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【100万人耐久】歌って歌って歌い続けろ！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=SPyhmWLg9xM
 DURATION:PT2H
 DTSTART:20210601T070000Z
@@ -312,10 +312,10 @@ SUMMARY:🐉桐生ココ: 【SIMS4】かなココハウスを再現！？続・�
 UID:Y_q1L9Kv03o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Dead by Daylight】バイオがくるので！練習しておく！！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=hY5hFwx9sYI
+DESCRIPTION:【Dead by Daylight】ロボ子パイセンと一緒に！バイオがくるので！練習しておく！！【ホロライブ/白上フブキ/ロボ子さん】\nhttps://www.youtube.com/watch?v=hY5hFwx9sYI
 DURATION:PT2H
 DTSTART:20210602T150000Z
-SUMMARY:🌽白上フブキ: 【Dead by Daylight】バイオがくるので！練習しておく！！【ホロライブ/白上フブキ】
+SUMMARY:🌽白上フブキ: 【Dead by Daylight】ロボ子パイセンと一緒に！バイオがくるので！練習しておく！！【ホロライブ/白上フブキ/ロボ子さん】
 UID:hY5hFwx9sYI
 END:VEVENT
 END:VCALENDAR
