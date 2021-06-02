@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【DOOM】The End on ULTRA-VIOLENCE\nhttps://www.youtube.com/watch?v=_2jtFfRfGA4
+DESCRIPTION:【Return of The Obra Dinn】Detective Ame\nhttps://www.youtube.com/watch?v=C6WsvUe0NWw
 DURATION:PT2H
-DTSTART:20210531T220500Z
-SUMMARY:Amelia: 【DOOM】The End on ULTRA-VIOLENCE
-UID:_2jtFfRfGA4
+DTSTART:20210602T220500Z
+SUMMARY:Amelia: 【Return of The Obra Dinn】Detective Ame
+UID:C6WsvUe0NWw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CATLATERAL DAMAGE】CAT\, I'M A KITTY CAT\, AND I DESTROY DESTROY DESTROY  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=XDIVtAomTw4
+DURATION:PT2H
+DTSTART:20210602T151000Z
+SUMMARY:Kiara: 【CATLATERAL DAMAGE】CAT\, I'M A KITTY CAT\, AND I DESTROY DESTROY DESTROY  #kfp #キアライブ
+UID:XDIVtAomTw4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【BAYONETTA】 Oh My 【#3】\nhttps://www.youtube.com/watch?v=pEip4fdyfd8
+DURATION:PT2H
+DTSTART:20210602T200000Z
+SUMMARY:Ina: 【BAYONETTA】 Oh My 【#3】
+UID:pEip4fdyfd8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【I'M BACK】Mori Returns! Let's Chat and Enjoy Chill Singing! #holoMyth #hololiveEnglish\nhttps://www.youtube.com/watch?v=F_nv-hpwaD8
@@ -30,40 +44,5 @@ DURATION:PT2H
 DTSTART:20210601T220500Z
 SUMMARY:Amelia: 【NieR:Automata】THIS (did not) CONTINUE
 UID:JBQ9_A4uJds
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Return of The Obra Dinn】Detective Ame\nhttps://www.youtube.com/watch?v=C6WsvUe0NWw
-DURATION:PT2H
-DTSTART:20210602T220500Z
-SUMMARY:Amelia: 【Return of The Obra Dinn】Detective Ame
-UID:C6WsvUe0NWw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CATLATERAL DAMAGE】CAT\, I'M A KITTY CAT\, AND I DESTROY DESTROY DESTROY  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=XDIVtAomTw4
-DURATION:PT2H
-DTSTART:20210602T150000Z
-SUMMARY:Kiara: 【CATLATERAL DAMAGE】CAT\, I'M A KITTY CAT\, AND I DESTROY DESTROY DESTROY  #kfp #キアライブ
-UID:XDIVtAomTw4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Superchat Reading】1 Million Dankeschöns #kfp #キアライブ\nhttps://www.youtube.com/watch?v=YWIxxdYgDJA
-DURATION:PT2H
-DTSTART:20210601T120000Z
-SUMMARY:Kiara: 【Superchat Reading】1 Million Dankeschöns #kfp #キアライブ
-UID:YWIxxdYgDJA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BAYONETTA】 Flyyy Me To the MOOOON 【#2】\nhttps://www.youtube.com/watch?v=LEceEyoHQ-Q
-DURATION:PT2H
-DTSTART:20210531T200000Z
-SUMMARY:Ina: 【BAYONETTA】 Flyyy Me To the MOOOON 【#2】
-UID:LEceEyoHQ-Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[Super Mario 3D World + Bowsers Fury] platform is easy\, nya\nhttps://www.youtube.com/watch?v=lNVQfuc6D4Y
-DURATION:PT2H
-DTSTART:20210531T235916Z
-SUMMARY:Gura: [Super Mario 3D World + Bowsers Fury] platform is easy\, nya
-UID:lNVQfuc6D4Y
 END:VEVENT
 END:VCALENDAR
