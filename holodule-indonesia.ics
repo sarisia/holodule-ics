@@ -4,46 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【LIGHTNOVEL READING】I've Been Killing Slimes for 300 Years and Maxed Out My Level【Ayunda Risu】\nhttps://www.youtube.com/watch?v=KiSZ7RlDt3U
-DURATION:PT2H
-DTSTART:20210604T130000Z
-SUMMARY:🐿Risu: 【LIGHTNOVEL READING】I've Been Killing Slimes for 300 Years and Maxed Out My Level【Ayunda Risu】
-UID:KiSZ7RlDt3U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RINGFIT ADVENTURE】GET IN SHAPE\, OLLIE!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=9InBr-JgnyU
-DURATION:PT2H
-DTSTART:20210602T025653Z
-SUMMARY:Ollie: 【RINGFIT ADVENTURE】GET IN SHAPE\, OLLIE!!【Hololive Indonesia 2nd Gen】
-UID:9InBr-JgnyU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Project Diva 】MIKU MIKU NI SHITE AGERU【iofi /イオフィ】\nhttps://www.youtube.com/watch?v=6FuiOnBpku8
-DURATION:PT2H
-DTSTART:20210603T130000Z
-SUMMARY:🎨Iofi: 【 Project Diva 】MIKU MIKU NI SHITE AGERU【iofi /イオフィ】
-UID:6FuiOnBpku8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Live Draw 】Drawing and Talk THE REVENGE! 【 オウガ Ouga / Iofi イオフィ】\nhttps://www.youtube.com/watch?v=a_0KrZ5tCjE
-DURATION:PT2H
-DTSTART:20210602T140000Z
-SUMMARY:🎨Iofi: 【 Live Draw 】Drawing and Talk THE REVENGE! 【 オウガ Ouga / Iofi イオフィ】
-UID:a_0KrZ5tCjE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【It Takes Two】Let's make a good team!【#SubaMoon】\nhttps://www.youtube.com/watch?v=HXRrByBC1e0
-DURATION:PT2H
-DTSTART:20210602T120000Z
-SUMMARY:🔮Moona: 【It Takes Two】Let's make a good team!【#SubaMoon】
-UID:HXRrByBC1e0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#2【It Takes Two】#Pavollie Teamwork Strikes Back!!【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=u8wGdFej35I
 DURATION:PT2H
 DTSTART:20210603T130000Z
 SUMMARY:Reine: #2【It Takes Two】#Pavollie Teamwork Strikes Back!!【hololiveID 2nd gen】
 UID:u8wGdFej35I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【LIGHTNOVEL READING】I've Been Killing Slimes for 300 Years and Maxed Out My Level【Ayunda Risu】\nhttps://www.youtube.com/watch?v=KiSZ7RlDt3U
+DURATION:PT2H
+DTSTART:20210604T130000Z
+SUMMARY:🐿Risu: 【LIGHTNOVEL READING】I've Been Killing Slimes for 300 Years and Maxed Out My Level【Ayunda Risu】
+UID:KiSZ7RlDt3U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Blender】Let's make Risu!【Moona】\nhttps://www.youtube.com/watch?v=6RxiCw72vM8
@@ -60,11 +32,11 @@ SUMMARY:Ollie: 【MIITOPIA】THE ADVENTURE BEGINS!!!【Hololive Indonesia 2nd Ge
 UID:wG388aSGE54
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【hololiveID】JUST. RUN. AWAY !!!!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=eU1KUNWewHE
+DESCRIPTION:【 Project Diva 】MIKU MIKU NI SHITE AGERU【iofi /イオフィ】\nhttps://www.youtube.com/watch?v=6FuiOnBpku8
 DURATION:PT2H
-DTSTART:20210602T130000Z
-SUMMARY:🐿Risu: 【hololiveID】JUST. RUN. AWAY !!!!!!【Ayunda Risu】
-UID:eU1KUNWewHE
+DTSTART:20210603T130000Z
+SUMMARY:🎨Iofi: 【 Project Diva 】MIKU MIKU NI SHITE AGERU【iofi /イオフィ】
+UID:6FuiOnBpku8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Resident Evil Village】Trying To Escape Out Of The Castle【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=5WdmykUWXCk
@@ -72,12 +44,5 @@ DURATION:PT2H
 DTSTART:20210603T143000Z
 SUMMARY:Anya: 【Resident Evil Village】Trying To Escape Out Of The Castle【hololive Indonesia 2nd Generation】
 UID:5WdmykUWXCk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】If I lose it's the keyboard's fault【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=ikd8vNtHMKA
-DURATION:PT2H
-DTSTART:20210602T080000Z
-SUMMARY:Reine: 【APEX】If I lose it's the keyboard's fault【hololiveID 2nd gen】
-UID:ikd8vNtHMKA
 END:VEVENT
 END:VCALENDAR
