@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【WATCHALONG】Iron Giant!\nhttps://www.youtube.com/watch?v=rhCC-uawQy8
+DURATION:PT2H
+DTSTART:20210604T010500Z
+SUMMARY:Amelia: 【WATCHALONG】Iron Giant!
+UID:rhCC-uawQy8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Return of The Obra Dinn】AHOY Detective Ame\nhttps://www.youtube.com/watch?v=C6WsvUe0NWw
 DURATION:PT2H
 DTSTART:20210602T220500Z
@@ -13,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FRIDAY NIGHT FUNKIN】 Tonight We Funk Again\, Lads. #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=Tt41uNOmbz4
 DURATION:PT2H
-DTSTART:20210604T030000Z
+DTSTART:20210604T025932Z
 SUMMARY:Calli: 【FRIDAY NIGHT FUNKIN】 Tonight We Funk Again\, Lads. #hololiveEnglish #holoMyth
 UID:Tt41uNOmbz4
 END:VEVENT
