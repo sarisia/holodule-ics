@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【hololiveID】KAZOO GOES MEEP MEEP DOOT DOOT【Ayunda Risu】\nhttps://www.youtube.com/watch?v=BHBEmLthGSc
+DURATION:PT2H
+DTSTART:20210605T130000Z
+SUMMARY:🐿Risu: 【hololiveID】KAZOO GOES MEEP MEEP DOOT DOOT【Ayunda Risu】
+UID:BHBEmLthGSc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#3【YABE S2】Eating Some Street Food: Martabak!【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=ayWeLhqxJ5A
 DURATION:PT2H
 DTSTART:20210605T040000Z
@@ -11,18 +18,18 @@ SUMMARY:Reine: #3【YABE S2】Eating Some Street Food: Martabak!【hololiveID 2n
 UID:ayWeLhqxJ5A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【祝！6 MONTHSARY】A Special Day!!!!!!!!!!!! 今日で６ヶ月デビュー記念らしいです。【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=xHJ7nbrdzbo
-DURATION:PT2H
-DTSTART:20210605T130000Z
-SUMMARY:Anya: 【祝！6 MONTHSARY】A Special Day!!!!!!!!!!!! 今日で６ヶ月デビュー記念らしいです。【hololive Indonesia 2nd Generation】
-UID:xHJ7nbrdzbo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Zero Escape: The Nonary Games】Nine Hours\, Nine Persons\, Nine Doors #3【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=Ojd5vFFNFGY
 DURATION:PT2H
 DTSTART:20210605T140000Z
 SUMMARY:Reine: 【Zero Escape: The Nonary Games】Nine Hours\, Nine Persons\, Nine Doors #3【hololiveID 2nd gen】
 UID:Ojd5vFFNFGY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【祝！6 MONTHSARY】A Special Day!!!!!!!!!!!! 今日で６ヶ月デビュー記念らしいです。【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=xHJ7nbrdzbo
+DURATION:PT2H
+DTSTART:20210605T130000Z
+SUMMARY:Anya: 【祝！6 MONTHSARY】A Special Day!!!!!!!!!!!! 今日で６ヶ月デビュー記念らしいです。【hololive Indonesia 2nd Generation】
+UID:xHJ7nbrdzbo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【COVER】狂乱 Hey Kids!! (Kyouran Hey Kids!!) - Kureiji Ollie\nhttps://www.youtube.com/watch?v=oLOSu6ocgUU
