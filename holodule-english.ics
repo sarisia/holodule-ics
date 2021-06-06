@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【SHADOWVERSE SUNDAY】Sparring With A Mystery Guest! #HololiveEnglish\nhttps://www.youtube.com/watch?v=5Bvyh1viEIU
+DESCRIPTION:【CHARITY STREAM】9 Hour of Fun for Animals! PLAYING BPM\nhttps://www.youtube.com/watch?v=g8cM3yzgRP8
 DURATION:PT2H
-DTSTART:20210606T130000Z
-SUMMARY:Calli: 【SHADOWVERSE SUNDAY】Sparring With A Mystery Guest! #HololiveEnglish
-UID:5Bvyh1viEIU
+DTSTART:20210605T190500Z
+SUMMARY:Amelia: 【CHARITY STREAM】9 Hour of Fun for Animals! PLAYING BPM
+UID:g8cM3yzgRP8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[DBD] shark  eat you\nhttps://www.youtube.com/watch?v=7Ykkx0loyS8
@@ -30,5 +30,12 @@ DURATION:PT2H
 DTSTART:20210604T210000Z
 SUMMARY:Ina: 【WATCHALONG】 Cats (2019) with Kiara!!
 UID:Aiq41caO1PM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SHADOWVERSE SUNDAY】Sparring With A Mystery Guest! #HololiveEnglish\nhttps://www.youtube.com/watch?v=5Bvyh1viEIU
+DURATION:PT2H
+DTSTART:20210606T130000Z
+SUMMARY:Calli: 【SHADOWVERSE SUNDAY】Sparring With A Mystery Guest! #HololiveEnglish
+UID:5Bvyh1viEIU
 END:VEVENT
 END:VCALENDAR
