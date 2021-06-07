@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【例外配達/Night Delivery】例外を探しに行こう🚚【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=ZCaTRlsncBg
-DURATION:PT2H
-DTSTART:20210606T140000Z
-SUMMARY:🍙猫又おかゆ: 【例外配達/Night Delivery】例外を探しに行こう🚚【猫又おかゆ/ホロライブ】
-UID:ZCaTRlsncBg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】深夜の悪魔的ざつだん【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=zDi8AcWJ5SE
 DURATION:PT2H
 DTSTART:20210607T160000Z
@@ -18,11 +11,18 @@ SUMMARY:💋癒月ちょこ: 【雑談】深夜の悪魔的ざつだん【ホロ
 UID:zDi8AcWJ5SE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#わための誕生日2021】３Ｄお誕生日パーティー！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=UHLdoq-T-mA
+DESCRIPTION:完全初見のBIOHAZARD7 RESIDENT EVIL #4【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=cXHM2a3CScs
 DURATION:PT2H
-DTSTART:20210606T120000Z
-SUMMARY:🐏角巻わため: 【#わための誕生日2021】３Ｄお誕生日パーティー！！！【角巻わため/ホロライブ４期生】
-UID:UHLdoq-T-mA
+DTSTART:20210607T120000Z
+SUMMARY:☄星街すいせい: 完全初見のBIOHAZARD7 RESIDENT EVIL #4【ホロライブ / 星街すいせい】
+UID:cXHM2a3CScs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】ただいまああああ！今日の話や…え、スケジュール管理一緒にしない！？【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=c4TO6dBKdpw
+DURATION:PT2H
+DTSTART:20210607T141000Z
+SUMMARY:🤖ロボ子さん: 【雑談】ただいまああああ！今日の話や…え、スケジュール管理一緒にしない！？【ホロライブ/ロボ子さん】
+UID:c4TO6dBKdpw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】元気に歌うよおおおおお！！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=dT6pcpX_2hU
@@ -46,6 +46,13 @@ SUMMARY:🍙猫又おかゆ: 【ロックマン3】僕のロックマン見て�
 UID:pE4xR6Qe0Js
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:脱足臭!! FEET CONTEST Part2【#はあちゃま足臭】\nhttps://www.youtube.com/watch?v=gSnvv0EBA7A
+DURATION:PT2H
+DTSTART:20210606T150000Z
+SUMMARY:❤赤井はあと: 脱足臭!! FEET CONTEST Part2【#はあちゃま足臭】
+UID:gSnvv0EBA7A
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 モンスターハンターライズ 】ＨＲ上げ手伝ってもらっちゃうぞっ！なのら✨MHRize【#ポルーナ /姫森ルーナ/尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=X3nx4Lywf9o
 DURATION:PT2H
 DTSTART:20210606T150000Z
@@ -53,11 +60,18 @@ SUMMARY:🍬姫森ルーナ: 【 モンスターハンターライズ 】ＨＲ�
 UID:X3nx4Lywf9o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【biohazard 6】ジェイク編マリラミどつきあいデート【ホロライブ/宝鐘マリン・雪花ラミィ】\nhttps://www.youtube.com/watch?v=diTeULM88Tk
+DESCRIPTION:【Minecraft】🍑MAGAMAGAMAGAMAGA🍑【桃鈴ねね/雪花ラミィ】\nhttps://www.youtube.com/watch?v=5vtFuCQciCs
 DURATION:PT2H
-DTSTART:20210606T050000Z
-SUMMARY:🏴☠宝鐘マリン: 【biohazard 6】ジェイク編マリラミどつきあいデート【ホロライブ/宝鐘マリン・雪花ラミィ】
-UID:diTeULM88Tk
+DTSTART:20210608T120000Z
+SUMMARY:桃鈴ねね: 【Minecraft】🍑MAGAMAGAMAGAMAGA🍑【桃鈴ねね/雪花ラミィ】
+UID:5vtFuCQciCs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#うさ建夏祭り】「何が始まるんです？」「企画説明だ」【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=q_IXZIRCbwI
+DURATION:PT2H
+DTSTART:20210607T120000Z
+SUMMARY:獅白ぼたん: 【#うさ建夏祭り】「何が始まるんです？」「企画説明だ」【獅白ぼたん/ホロライブ】
+UID:q_IXZIRCbwI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #朝ミオ 】月曜日の朝みぉーん🌤復活編\nhttps://www.youtube.com/watch?v=YA13bDMOVUc
@@ -67,11 +81,11 @@ SUMMARY:🌲大神ミオ: 【 #朝ミオ 】月曜日の朝みぉーん🌤復�
 UID:YA13bDMOVUc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#うさ建夏祭り】「何が始まるんです？」「企画説明だ」【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=q_IXZIRCbwI
+DESCRIPTION:【初凸待ち&告知あり】そろそろ初凸待ちをしてみようか…！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=TJral4i89WY
 DURATION:PT2H
-DTSTART:20210607T120000Z
-SUMMARY:獅白ぼたん: 【#うさ建夏祭り】「何が始まるんです？」「企画説明だ」【獅白ぼたん/ホロライブ】
-UID:q_IXZIRCbwI
+DTSTART:20210607T110000Z
+SUMMARY:獅白ぼたん: 【初凸待ち&告知あり】そろそろ初凸待ちをしてみようか…！【獅白ぼたん/ホロライブ】
+UID:TJral4i89WY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【モンハンライズ 】姫プされた俺が姫プ！？～HRが下過ぎて煽られていたのに、いつの間にか強くなってワンチャン下剋上なるか？ハリボテHRで挑む～ #ポルーナ コラボ【姫森ルーナ/尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=uJWeFvXjdUs
@@ -88,13 +102,6 @@ SUMMARY:🐉桐生ココ: 【モンハンライズ】狩りだ狩りだ狩りだ
 UID:0Rm8uKYa51w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【3D動画】お誕生日配信後わため🐏【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=GmFrnu1JMOE
-DURATION:PT2H
-DTSTART:20210606T145007Z
-SUMMARY:🐏角巻わため: 【3D動画】お誕生日配信後わため🐏【角巻わため/ホロライブ４期生】
-UID:GmFrnu1JMOE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【朝活】寝起きチャレンジ！！！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=WIAr7auk-As
 DURATION:PT2H
 DTSTART:20210606T210000Z
@@ -102,25 +109,11 @@ SUMMARY:🦋潤羽るしあ: 【朝活】寝起きチャレンジ！！！【潤
 UID:WIAr7auk-As
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:※ネタバレあり【NieR:Automata】最終回～最後の物語～【＃ときのそら生放送】\nhttps://www.youtube.com/watch?v=iueGo6YEfog
+DESCRIPTION:【爆睡寝起きゲリラ】声枯れました【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=vOOVN_jchqM
 DURATION:PT2H
-DTSTART:20210606T060000Z
-SUMMARY:🐻ときのそら: ※ネタバレあり【NieR:Automata】最終回～最後の物語～【＃ときのそら生放送】
-UID:iueGo6YEfog
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:REDDIT MEME REVIEW with...Luna\, Towa and Kanata!\nhttps://www.youtube.com/watch?v=sUEOzhkOSAk
-DURATION:PT2H
-DTSTART:20210606T030000Z
-SUMMARY:🐉桐生ココ: REDDIT MEME REVIEW with...Luna\, Towa and Kanata!
-UID:sUEOzhkOSAk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BIOHAZARD 6】マリラミで刺激的デート♡ジェイク編【ホロライブ/宝鐘マリン・雪花ラミィ】\nhttps://www.youtube.com/watch?v=nm1zZYEKhwU
-DURATION:PT2H
-DTSTART:20210606T050000Z
-SUMMARY:雪花ラミィ: 【BIOHAZARD 6】マリラミで刺激的デート♡ジェイク編【ホロライブ/宝鐘マリン・雪花ラミィ】
-UID:nm1zZYEKhwU
+DTSTART:20210607T103000Z
+SUMMARY:💫天音かなた: 【爆睡寝起きゲリラ】声枯れました【天音かなた/ホロライブ】
+UID:vOOVN_jchqM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ニーアオートマタ：NieR:Automata】3週目（Cルート）やっていくよ～！！（※ネタバレあり）【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=3LeTvuoKfWA
@@ -130,20 +123,6 @@ SUMMARY:雪花ラミィ: 【ニーアオートマタ：NieR:Automata】3週目�
 UID:3LeTvuoKfWA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【モンハンライズ】ヒエラルキーの頂点は我々じゃい！！！【#バカタレドラゴンズ】\nhttps://www.youtube.com/watch?v=Zdkhl6FcfXM
-DURATION:PT2H
-DTSTART:20210607T130000Z
-SUMMARY:🌽白上フブキ: 【モンハンライズ】ヒエラルキーの頂点は我々じゃい！！！【#バカタレドラゴンズ】
-UID:Zdkhl6FcfXM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【例外配達│Night Delivery】ヤバイ住民にはウェディング ウーバーで対抗！！和風ホラー👻【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=bdxJmzjis8s
-DURATION:PT2H
-DTSTART:20210606T060000Z
-SUMMARY:🤖ロボ子さん: 【例外配達│Night Delivery】ヤバイ住民にはウェディング ウーバーで対抗！！和風ホラー👻【ホロライブ/ロボ子さん】
-UID:bdxJmzjis8s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 メン限 】Captain America『キャプテン・アメリカ』同時視聴会なのら🎬🍿【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=rwbCBGGM2Cw
 DURATION:PT2H
 DTSTART:20210608T130000Z
@@ -151,18 +130,25 @@ SUMMARY:🍬姫森ルーナ: 【 メン限 】Captain America『キャプテン�
 UID:rwbCBGGM2Cw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【The Henry Stickmin】失敗続きの棒人間のゲーム！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=Gcc08b_Blis
+DESCRIPTION:【#カプとれ】トワぴ！アキロゼの家においでよ！【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=UUS2cWVso8U
 DURATION:PT2H
-DTSTART:20210607T133000Z
-SUMMARY:👯兎田ぺこら: 【The Henry Stickmin】失敗続きの棒人間のゲーム！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:Gcc08b_Blis
+DTSTART:20210607T110000Z
+SUMMARY:🍎アキロゼ: 【#カプとれ】トワぴ！アキロゼの家においでよ！【ホロライブ/アキロゼ】
+UID:UUS2cWVso8U
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【例外配達│Night Delivery】ゲ　リ　ラ　ホ　ラ　ー　例　外　配　信【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=1sMZp0s89DQ
+DESCRIPTION:【モンハンライズ】ヒエラルキーの頂点は我々じゃい！！！【#バカタレドラゴンズ】\nhttps://www.youtube.com/watch?v=Zdkhl6FcfXM
 DURATION:PT2H
-DTSTART:20210606T040000Z
-SUMMARY:尾丸ポルカ: 【例外配達│Night Delivery】ゲ　リ　ラ　ホ　ラ　ー　例　外　配　信【尾丸ポルカ/ホロライブ】
-UID:1sMZp0s89DQ
+DTSTART:20210607T130000Z
+SUMMARY:🌽白上フブキ: 【モンハンライズ】ヒエラルキーの頂点は我々じゃい！！！【#バカタレドラゴンズ】
+UID:Zdkhl6FcfXM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LOW VOICE\nhttps://www.youtube.com/watch?v=znMNoqJNVfk
+DURATION:PT2H
+DTSTART:20210607T151538Z
+SUMMARY:💫天音かなた: LOW VOICE
+UID:znMNoqJNVfk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MONSTER HUNTER RISE】アプデ後初モンハン！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=JAW6oRSlk_0
@@ -179,20 +165,6 @@ SUMMARY:🥐戌神ころね: 【Final Fight】コンテニューするたびに�
 UID:WtNKE7H7iso
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 雑談 】最近の出来事のお話なのら…🌙【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=5FuvySc6Bd8
-DURATION:PT2H
-DTSTART:20210605T150000Z
-SUMMARY:🍬姫森ルーナ: 【 雑談 】最近の出来事のお話なのら…🌙【#姫森ルーナ/ホロライブ】
-UID:5FuvySc6Bd8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ただいま！復活の歌わく！\nhttps://www.youtube.com/watch?v=O53bgJeLgFg
-DURATION:PT2H
-DTSTART:20210606T100000Z
-SUMMARY:🌲大神ミオ: ただいま！復活の歌わく！
-UID:O53bgJeLgFg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ホラーゲーム】例外配達（こんな格好で宅配に出てはいけません）【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=nSPZkuJlr9w
 DURATION:PT2H
 DTSTART:20210607T130000Z
@@ -200,143 +172,10 @@ SUMMARY:🏴☠宝鐘マリン: 【ホラーゲーム】例外配達（こんな
 UID:nSPZkuJlr9w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【いただきストリートDQ＆FF】わちゃわちゃ資産争奪戦！【#アキるしかなココ】\nhttps://www.youtube.com/watch?v=IpeQYlRdDko
-DURATION:PT2H
-DTSTART:20210606T130000Z
-SUMMARY:🐉桐生ココ: 【いただきストリートDQ＆FF】わちゃわちゃ資産争奪戦！【#アキるしかなココ】
-UID:IpeQYlRdDko
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:完全初見のBIOHAZARD7 RESIDENT EVIL #4【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=cXHM2a3CScs
-DURATION:PT2H
-DTSTART:20210607T120000Z
-SUMMARY:☄星街すいせい: 完全初見のBIOHAZARD7 RESIDENT EVIL #4【ホロライブ / 星街すいせい】
-UID:cXHM2a3CScs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】ただいまああああ！今日の話や…え、スケジュール管理一緒にしない！？【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=c4TO6dBKdpw
-DURATION:PT2H
-DTSTART:20210607T141000Z
-SUMMARY:🤖ロボ子さん: 【雑談】ただいまああああ！今日の話や…え、スケジュール管理一緒にしない！？【ホロライブ/ロボ子さん】
-UID:c4TO6dBKdpw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Miitopia】天音プロが描く🎨１時間でそっくりMiiづくり✨【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=HFqjuQfAGNg
-DURATION:PT2H
-DTSTART:20210606T110000Z
-SUMMARY:💫天音かなた: 【Miitopia】天音プロが描く🎨１時間でそっくりMiiづくり✨【天音かなた/ホロライブ】
-UID:HFqjuQfAGNg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【龍が如く7】どん底から龍兎が成り上がるぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=fSisIuS3nt0
-DURATION:PT2H
-DTSTART:20210606T040000Z
-SUMMARY:👯兎田ぺこら: 【龍が如く7】どん底から龍兎が成り上がるぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり
-UID:fSisIuS3nt0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#4】DQシリーズ完全初見！ドラゴンクエスト8！！！【ホロライブ/大空スバル】※ネタバレあり\nhttps://www.youtube.com/watch?v=6oeLAo6DFHI
-DURATION:PT2H
-DTSTART:20210606T040000Z
-SUMMARY:🚑大空スバル: 【#4】DQシリーズ完全初見！ドラゴンクエスト8！！！【ホロライブ/大空スバル】※ネタバレあり
-UID:6oeLAo6DFHI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アニメ】最速への憧れ\nhttps://www.youtube.com/watch?v=ZWTuQnb9wq0
-DURATION:PT2H
-DTSTART:20210606T090026Z
-SUMMARY:ホロライブ: 【アニメ】最速への憧れ
-UID:ZWTuQnb9wq0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:脱足臭!! FEET CONTEST Part2【#はあちゃま足臭】\nhttps://www.youtube.com/watch?v=gSnvv0EBA7A
-DURATION:PT2H
-DTSTART:20210606T150000Z
-SUMMARY:❤赤井はあと: 脱足臭!! FEET CONTEST Part2【#はあちゃま足臭】
-UID:gSnvv0EBA7A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】🍑MAGAMAGAMAGAMAGA🍑【桃鈴ねね/雪花ラミィ】\nhttps://www.youtube.com/watch?v=5vtFuCQciCs
-DURATION:PT2H
-DTSTART:20210608T120000Z
-SUMMARY:桃鈴ねね: 【Minecraft】🍑MAGAMAGAMAGAMAGA🍑【桃鈴ねね/雪花ラミィ】
-UID:5vtFuCQciCs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【初凸待ち&告知あり】そろそろ初凸待ちをしてみようか…！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=TJral4i89WY
-DURATION:PT2H
-DTSTART:20210607T110000Z
-SUMMARY:獅白ぼたん: 【初凸待ち&告知あり】そろそろ初凸待ちをしてみようか…！【獅白ぼたん/ホロライブ】
-UID:TJral4i89WY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ホラーゲーム】例外配達/Night Delivery【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=PFXR5I-DhWo
-DURATION:PT2H
-DTSTART:20210605T151000Z
-SUMMARY:🌽白上フブキ: 【ホラーゲーム】例外配達/Night Delivery【ホロライブ/白上フブキ】
-UID:PFXR5I-DhWo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【例外配達/Night Delivery】夜のホラゲーをお届けに参りました！\nhttps://www.youtube.com/watch?v=2kYLQ1nESz0
-DURATION:PT2H
-DTSTART:20210606T130000Z
-SUMMARY:🥐戌神ころね: 【例外配達/Night Delivery】夜のホラゲーをお届けに参りました！
-UID:2kYLQ1nESz0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:怪物／角巻わため(Cover)\nhttps://www.youtube.com/watch?v=6K-LSyE1Ywg
-DURATION:PT2H
-DTSTART:20210606T131500Z
-SUMMARY:🐏角巻わため: 怪物／角巻わため(Cover)
-UID:6K-LSyE1Ywg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【爆睡寝起きゲリラ】声枯れました【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=vOOVN_jchqM
-DURATION:PT2H
-DTSTART:20210607T103000Z
-SUMMARY:💫天音かなた: 【爆睡寝起きゲリラ】声枯れました【天音かなた/ホロライブ】
-UID:vOOVN_jchqM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スパチャお礼と雑談】ちょっとだけお話もある【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=MBqZnViOJbQ
-DURATION:PT2H
-DTSTART:20210606T140000Z
-SUMMARY:🔥不知火フレア: 【スパチャお礼と雑談】ちょっとだけお話もある【ホロライブ/不知火フレア】
-UID:MBqZnViOJbQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#カプとれ】トワぴ！アキロゼの家においでよ！【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=UUS2cWVso8U
-DURATION:PT2H
-DTSTART:20210607T110000Z
-SUMMARY:🍎アキロゼ: 【#カプとれ】トワぴ！アキロゼの家においでよ！【ホロライブ/アキロゼ】
-UID:UUS2cWVso8U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】かわいくうたうよ♡【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=l_az0NPThvw
-DURATION:PT2H
-DTSTART:20210607T140000Z
-SUMMARY:🏮夏色まつり: 【歌枠】かわいくうたうよ♡【ホロライブ/夏色まつり】
-UID:l_az0NPThvw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】うたいたいきぶんでした【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=KGj0re0whzA
-DURATION:PT2H
-DTSTART:20210606T110000Z
-SUMMARY:☄星街すいせい: 【歌枠】うたいたいきぶんでした【ホロライブ / 星街すいせい】
-UID:KGj0re0whzA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MONSTER HUNTER RISE】勢いとノリがあればなんでも行ける！【#バカタレドラゴンズ】\nhttps://www.youtube.com/watch?v=Bwsgi0e51us
 DURATION:PT2H
 DTSTART:20210607T130000Z
 SUMMARY:🔥不知火フレア: 【MONSTER HUNTER RISE】勢いとノリがあればなんでも行ける！【#バカタレドラゴンズ】
 UID:Bwsgi0e51us
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【お披露目】遂にボクの手が・・・！！！新衣装予想発表会！もみるよ！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=Ll4w529TU_I
-DURATION:PT2H
-DTSTART:20210606T090000Z
-SUMMARY:🤖ロボ子さん: 【お披露目】遂にボクの手が・・・！！！新衣装予想発表会！もみるよ！【ホロライブ/ロボ子さん】
-UID:Ll4w529TU_I
 END:VEVENT
 END:VCALENDAR
