@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【SUPER MARIO PARTY】Madness. Insanity. Anime Women. Featuring Coco and Ollie! #hololiveEnglish\nhttps://www.youtube.com/watch?v=a1YcUQKbh5w
-DURATION:PT2H
-DTSTART:20210608T135957Z
-SUMMARY:Calli: 【SUPER MARIO PARTY】Madness. Insanity. Anime Women. Featuring Coco and Ollie! #hololiveEnglish
-UID:a1YcUQKbh5w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MONSTER HUNTER RISE】 Been A While Marshmallow\nhttps://www.youtube.com/watch?v=CANbp9m6mF0
-DURATION:PT2H
-DTSTART:20210608T190000Z
-SUMMARY:Ina: 【MONSTER HUNTER RISE】 Been A While Marshmallow
-UID:CANbp9m6mF0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【BAYONETTA】 LEGS 【#4】\nhttps://www.youtube.com/watch?v=dsrgqkzc_T8
 DURATION:PT2H
 DTSTART:20210607T200000Z
@@ -25,11 +11,11 @@ SUMMARY:Ina: 【BAYONETTA】 LEGS 【#4】
 UID:dsrgqkzc_T8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【END of The Obra Dinn】Case Almost Solved\nhttps://www.youtube.com/watch?v=uWCa-6_X7Uw
+DESCRIPTION:【SUPER MARIO PARTY】Madness. Insanity. Anime Women. Featuring Coco and Ollie! #hololiveEnglish\nhttps://www.youtube.com/watch?v=a1YcUQKbh5w
 DURATION:PT2H
-DTSTART:20210607T220500Z
-SUMMARY:Amelia: 【END of The Obra Dinn】Case Almost Solved
-UID:uWCa-6_X7Uw
+DTSTART:20210608T135957Z
+SUMMARY:Calli: 【SUPER MARIO PARTY】Madness. Insanity. Anime Women. Featuring Coco and Ollie! #hololiveEnglish
+UID:a1YcUQKbh5w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【WoW: Burning Crusade】Nostalgic BLISS AAAAAAAAH #kfp #キアライブ\nhttps://www.youtube.com/watch?v=XmaS8mKav0A
@@ -37,5 +23,12 @@ DURATION:PT2H
 DTSTART:20210607T150000Z
 SUMMARY:Kiara: 【WoW: Burning Crusade】Nostalgic BLISS AAAAAAAAH #kfp #キアライブ
 UID:XmaS8mKav0A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【END of The Obra Dinn】Case Almost Solved\nhttps://www.youtube.com/watch?v=uWCa-6_X7Uw
+DURATION:PT2H
+DTSTART:20210607T220500Z
+SUMMARY:Amelia: 【END of The Obra Dinn】Case Almost Solved
+UID:uWCa-6_X7Uw
 END:VEVENT
 END:VCALENDAR
