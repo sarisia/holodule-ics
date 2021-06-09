@@ -258,7 +258,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MIITOPIA】IT'S KUREIJI TEAM IT'S KUREIJI TEAM【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=xL8TU7LHeS8
 DURATION:PT2H
-DTSTART:20210609T040000Z
+DTSTART:20210609T130000Z
 SUMMARY:Ollie: 【MIITOPIA】IT'S KUREIJI TEAM IT'S KUREIJI TEAM【Hololive Indonesia 2nd Gen】
 UID:xL8TU7LHeS8
 END:VEVENT
@@ -282,6 +282,13 @@ DURATION:PT2H
 DTSTART:20210608T021000Z
 SUMMARY:🦔💨岸堂天真: 【DQB2】最後のからっぽ島開拓【岸堂天真/ホロスターズ】
 UID:UrZgffUC3Qg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:桐生ココからみなさんへ大切なお知らせ\nhttps://www.youtube.com/watch?v=6Q-fX1E6B_s
+DURATION:PT2H
+DTSTART:20210609T030000Z
+SUMMARY:🐉桐生ココ: 桐生ココからみなさんへ大切なお知らせ
+UID:6Q-fX1E6B_s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ウマ娘】タキオンのA＋育成目指してモルモットが奮起します🐈【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=V0BJygGL3hI
@@ -401,5 +408,12 @@ DURATION:PT2H
 DTSTART:20210608T040000Z
 SUMMARY:獅白ぼたん: 【Minecraft】夏祭り会場のエリア拡大工事するぞい🌿【獅白ぼたん/ホロライブ】
 UID:i6csG0DXRpQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ドンキーコング３】BANANAを沢山食べたくなるドンキーコング３【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=kJr869s1KLI
+DURATION:PT2H
+DTSTART:20210609T040000Z
+SUMMARY:🌽白上フブキ: 【ドンキーコング３】BANANAを沢山食べたくなるドンキーコング３【ホロライブ/白上フブキ】
+UID:kJr869s1KLI
 END:VEVENT
 END:VCALENDAR
