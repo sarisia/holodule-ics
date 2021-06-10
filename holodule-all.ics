@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ウマ娘】今日から実装！セイウンスカイをお迎えする！✨【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=whP3XFzzf-Y
-DURATION:PT2H
-DTSTART:20210610T110000Z
-SUMMARY:🍙猫又おかゆ: 【ウマ娘】今日から実装！セイウンスカイをお迎えする！✨【猫又おかゆ/ホロライブ】
-UID:whP3XFzzf-Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【PSO2 NGS】アークスの新たな旅がはじまるんじゃな  /  アステル・レダ\nhttps://www.youtube.com/watch?v=2oRiZ-DBiq8
 DURATION:PT2H
 DTSTART:20210609T183000Z
@@ -179,13 +172,6 @@ SUMMARY:💋癒月ちょこ: 【のりプロ身体測定】噂のサキュバス
 UID:V_MZEtYfYcg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【BAYONETTA】綺麗なお姉さんと戦う！ベヨネッタ＃1【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=R06UhJ5x7ck
-DURATION:PT2H
-DTSTART:20210610T140000Z
-SUMMARY:雪花ラミィ: 【BAYONETTA】綺麗なお姉さんと戦う！ベヨネッタ＃1【雪花ラミィ/ホロライブ】
-UID:R06UhJ5x7ck
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ニューダンガンロンパV3 】2章！いよいよクライマックス！ #4【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=tN1Ois9idgk
 DURATION:PT2H
 DTSTART:20210610T130000Z
@@ -221,10 +207,10 @@ SUMMARY:🍕アルランディス: 【掃除配信】明日友達が家に来る
 UID:rcuGjX6HUUU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【偽●こDISE】3日間無駄にして制作したクソゲー遊ぶ【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=fz-0QBUgNPk
+DESCRIPTION:【偽●こDICE】3日間無駄にして制作したクソゲー遊ぶ【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=fz-0QBUgNPk
 DURATION:PT2H
 DTSTART:20210610T153000Z
-SUMMARY:荒咬オウガ: 【偽●こDISE】3日間無駄にして制作したクソゲー遊ぶ【荒咬オウガ/ホロスターズ】
+SUMMARY:荒咬オウガ: 【偽●こDICE】3日間無駄にして制作したクソゲー遊ぶ【荒咬オウガ/ホロスターズ】
 UID:fz-0QBUgNPk
 END:VEVENT
 BEGIN:VEVENT
@@ -233,6 +219,13 @@ DURATION:PT2H
 DTSTART:20210611T140000Z
 SUMMARY:Reine: 【Phantasy Star Online 2 New Genesis】PSO2:NGS HYPE! It's a New Vast World 【hololiveID 2nd gen】
 UID:gJws-D71YpI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マリオカート8DX #IDStars 】HoloID×Stars コラボ!! 真の敵は自分。 /  アステル・レダ\nhttps://www.youtube.com/watch?v=CVTQHIqCpDY
+DURATION:PT2H
+DTSTART:20210610T130000Z
+SUMMARY:🎭アステル・レダ: 【マリオカート8DX #IDStars 】HoloID×Stars コラボ!! 真の敵は自分。 /  アステル・レダ
+UID:CVTQHIqCpDY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#IDStars】HELL YEAH here I go with my ninja driving【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=fhF43D6y4gQ
@@ -277,11 +270,11 @@ SUMMARY:⚔白銀ノエル: 【ASMR/KU100】ウシ娘が日々お疲れな貴方
 UID:nAAvsS7nyCs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:勇者が人間のクズすぎてクソゲー！？！？！？\nhttps://www.youtube.com/watch?v=ItSFv5gQzJ0
+DESCRIPTION:【ニーアオートマタ：NieR:Automata】これは呪いか。それとも罰か。3週目ラスト！！（※ネタバレあり）【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=xAtmVnfHSSM
 DURATION:PT2H
-DTSTART:20210610T140000Z
-SUMMARY:🥐戌神ころね: 勇者が人間のクズすぎてクソゲー！？！？！？
-UID:ItSFv5gQzJ0
+DTSTART:20210611T000000Z
+SUMMARY:雪花ラミィ: 【ニーアオートマタ：NieR:Automata】これは呪いか。それとも罰か。3週目ラスト！！（※ネタバレあり）【雪花ラミィ/ホロライブ】
+UID:xAtmVnfHSSM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【100万人記念凸&重大発表】みこちは夏風邪によりバテておりますがこの日までには帰りたいとおもっておりますのよていち！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=g7BnllC6GLY
@@ -289,6 +282,13 @@ DURATION:PT2H
 DTSTART:20210611T110000Z
 SUMMARY:🌸さくらみこ: 【100万人記念凸&重大発表】みこちは夏風邪によりバテておりますがこの日までには帰りたいとおもっておりますのよていち！【ホロライブ/さくらみこ】
 UID:g7BnllC6GLY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マリオカート8DX】ホロIDとホロスタのGemerlapスターズWars【律可/ホロスターズ】#IDStars\nhttps://www.youtube.com/watch?v=boMN9lcXhM8
+DURATION:PT2H
+DTSTART:20210610T130000Z
+SUMMARY:⚙律可: 【マリオカート8DX】ホロIDとホロスタのGemerlapスターズWars【律可/ホロスターズ】#IDStars
+UID:boMN9lcXhM8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PSO2 NGS】サービス開始したので乗り込む！！【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=D_NhcID86ZU
