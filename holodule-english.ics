@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【OPERATION:TANGO COLLAB】Detective and Reaper\, On The Case!! B} #hololiveEnglish\nhttps://www.youtube.com/watch?v=D4O46OcXp04
-DURATION:PT2H
-DTSTART:20210610T040023Z
-SUMMARY:Calli: 【OPERATION:TANGO COLLAB】Detective and Reaper\, On The Case!! B} #hololiveEnglish
-UID:D4O46OcXp04
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【WATCHALONG】Kung Fu Hustle!\nhttps://www.youtube.com/watch?v=-R7WzBchK7s
-DURATION:PT2H
-DTSTART:20210611T020500Z
-SUMMARY:Amelia: 【WATCHALONG】Kung Fu Hustle!
-UID:-R7WzBchK7s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Planet Zoo】Welcome to the WATZOO\nhttps://www.youtube.com/watch?v=nEKyz1n83Q0
 DURATION:PT2H
 DTSTART:20210610T190500Z
@@ -32,13 +18,6 @@ SUMMARY:Kiara: 【日本語限定枠】しりとりゲームで雑談しよう�
 UID:D8LEt79s2yY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【COLLAB】HACKER & SPY w/ Calli! |  Operation: Tango\nhttps://www.youtube.com/watch?v=wVD6Mm4o_RE
-DURATION:PT2H
-DTSTART:20210610T040000Z
-SUMMARY:Amelia: 【COLLAB】HACKER & SPY w/ Calli! |  Operation: Tango
-UID:wVD6Mm4o_RE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【TTRPG】1st Tutorial session! TIARA'S BEGINNINGS #kfp #キアライブ\nhttps://www.youtube.com/watch?v=4hB5QuSYBKw
 DURATION:PT2H
 DTSTART:20210609T210000Z
@@ -51,5 +30,33 @@ DURATION:PT2H
 DTSTART:20210611T010000Z
 SUMMARY:Ina: 【COLLAB】 Playing games with Pikamee!!!
 UID:DC3uQyBmxAo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【OPERATION:TANGO COLLAB】Detective and Reaper\, On The Case!! B} #hololiveEnglish\nhttps://www.youtube.com/watch?v=D4O46OcXp04
+DURATION:PT2H
+DTSTART:20210610T040023Z
+SUMMARY:Calli: 【OPERATION:TANGO COLLAB】Detective and Reaper\, On The Case!! B} #hololiveEnglish
+UID:D4O46OcXp04
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:watzoo hole\nhttps://www.youtube.com/watch?v=GvsYMU7CVqc
+DURATION:PT2H
+DTSTART:20210611T043500Z
+SUMMARY:Amelia: watzoo hole
+UID:GvsYMU7CVqc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【WATCHALONG】Kung Fu Hustle!\nhttps://www.youtube.com/watch?v=-R7WzBchK7s
+DURATION:PT2H
+DTSTART:20210611T020500Z
+SUMMARY:Amelia: 【WATCHALONG】Kung Fu Hustle!
+UID:-R7WzBchK7s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【COLLAB】HACKER & SPY w/ Calli! |  Operation: Tango\nhttps://www.youtube.com/watch?v=wVD6Mm4o_RE
+DURATION:PT2H
+DTSTART:20210610T040000Z
+SUMMARY:Amelia: 【COLLAB】HACKER & SPY w/ Calli! |  Operation: Tango
+UID:wVD6Mm4o_RE
 END:VEVENT
 END:VCALENDAR
