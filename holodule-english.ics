@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【WATCHALONG】Kung Fu Hustle!\nhttps://www.youtube.com/watch?v=-R7WzBchK7s
-DURATION:PT2H
-DTSTART:20210611T020500Z
-SUMMARY:Amelia: 【WATCHALONG】Kung Fu Hustle!
-UID:-R7WzBchK7s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Planet Zoo】Welcome to the WATZOO\nhttps://www.youtube.com/watch?v=nEKyz1n83Q0
 DURATION:PT2H
 DTSTART:20210610T190500Z
@@ -18,11 +11,32 @@ SUMMARY:Amelia: 【Planet Zoo】Welcome to the WATZOO
 UID:nEKyz1n83Q0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【The Last Campfire】Warm n' Cozy by the Fire\nhttps://www.youtube.com/watch?v=ouJ41y6JX8U
+DURATION:PT2H
+DTSTART:20210611T220500Z
+SUMMARY:Amelia: 【The Last Campfire】Warm n' Cozy by the Fire
+UID:ouJ41y6JX8U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:watzoo hole\nhttps://www.youtube.com/watch?v=GvsYMU7CVqc
+DURATION:PT2H
+DTSTART:20210611T043500Z
+SUMMARY:Amelia: watzoo hole
+UID:GvsYMU7CVqc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【COLLAB】 Playing games with Pikamee!!!\nhttps://www.youtube.com/watch?v=DC3uQyBmxAo
 DURATION:PT2H
 DTSTART:20210611T010000Z
 SUMMARY:Ina: 【COLLAB】 Playing games with Pikamee!!!
 UID:DC3uQyBmxAo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Miitopia】 One...More...Mii....\nhttps://www.youtube.com/watch?v=xbscr5MLjrY
+DURATION:PT2H
+DTSTART:20210611T200000Z
+SUMMARY:Ina: 【Miitopia】 One...More...Mii....
+UID:xbscr5MLjrY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】JP Server Summer Festival Building! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=BBN2NdPGbGM
@@ -39,17 +53,10 @@ SUMMARY:Calli: 【SCARLET NEXUS】 Grim Reaper's Aptitude Test\, Commencing Now.
 UID:HbXEeeS-LUo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【The Last Campfire】Warm n' Cozy by the Fire\nhttps://www.youtube.com/watch?v=ouJ41y6JX8U
+DESCRIPTION:【WATCHALONG】Kung Fu Hustle!\nhttps://www.youtube.com/watch?v=-R7WzBchK7s
 DURATION:PT2H
-DTSTART:20210611T220500Z
-SUMMARY:Amelia: 【The Last Campfire】Warm n' Cozy by the Fire
-UID:ouJ41y6JX8U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:watzoo hole\nhttps://www.youtube.com/watch?v=GvsYMU7CVqc
-DURATION:PT2H
-DTSTART:20210611T043500Z
-SUMMARY:Amelia: watzoo hole
-UID:GvsYMU7CVqc
+DTSTART:20210611T020500Z
+SUMMARY:Amelia: 【WATCHALONG】Kung Fu Hustle!
+UID:-R7WzBchK7s
 END:VEVENT
 END:VCALENDAR
