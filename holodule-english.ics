@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【The Last Campfire】Warm n' Cozy by the Fire\nhttps://www.youtube.com/watch?v=ouJ41y6JX8U
+DESCRIPTION:【RIVER CITY GIRLS COLLAB】Reaper and Shark\, Ready to PUNCH. #hololiveEnglish\nhttps://www.youtube.com/watch?v=Zo7APdvzezI
 DURATION:PT2H
-DTSTART:20210611T220500Z
-SUMMARY:Amelia: 【The Last Campfire】Warm n' Cozy by the Fire
-UID:ouJ41y6JX8U
+DTSTART:20210612T135945Z
+SUMMARY:Calli: 【RIVER CITY GIRLS COLLAB】Reaper and Shark\, Ready to PUNCH. #hololiveEnglish
+UID:Zo7APdvzezI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SHADOWVERSE SUNDAY】VERSUS... You Guys?! Let Our Battles COMMENCE. #HololiveEnglish\nhttps://www.youtube.com/watch?v=TZ7jo7ceoC8
+DURATION:PT2H
+DTSTART:20210613T020000Z
+SUMMARY:Calli: 【SHADOWVERSE SUNDAY】VERSUS... You Guys?! Let Our Battles COMMENCE. #HololiveEnglish
+UID:TZ7jo7ceoC8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Bowsers Fury] BOWSERS A WHAT?\nhttps://www.youtube.com/watch?v=oVX9pWvd9B0
+DURATION:PT2H
+DTSTART:20210612T010053Z
+SUMMARY:Gura: [Bowsers Fury] BOWSERS A WHAT?
+UID:oVX9pWvd9B0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Miitopia】 One...More...Mii....\nhttps://www.youtube.com/watch?v=xbscr5MLjrY
@@ -39,17 +53,10 @@ SUMMARY:Ina: 【MONSTER HUNTER RISE】 Hunting with Senpais....DOKI #HOLOMH
 UID:7IiEBlhMQWQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SHADOWVERSE SUNDAY】VERSUS... You Guys?! Let Our Battles COMMENCE. #HololiveEnglish\nhttps://www.youtube.com/watch?v=TZ7jo7ceoC8
+DESCRIPTION:【The Last Campfire】Warm n' Cozy by the Fire\nhttps://www.youtube.com/watch?v=ouJ41y6JX8U
 DURATION:PT2H
-DTSTART:20210613T020000Z
-SUMMARY:Calli: 【SHADOWVERSE SUNDAY】VERSUS... You Guys?! Let Our Battles COMMENCE. #HololiveEnglish
-UID:TZ7jo7ceoC8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[Bowsers Fury] BOWSERS A WHAT?\nhttps://www.youtube.com/watch?v=oVX9pWvd9B0
-DURATION:PT2H
-DTSTART:20210612T010053Z
-SUMMARY:Gura: [Bowsers Fury] BOWSERS A WHAT?
-UID:oVX9pWvd9B0
+DTSTART:20210611T220500Z
+SUMMARY:Amelia: 【The Last Campfire】Warm n' Cozy by the Fire
+UID:ouJ41y6JX8U
 END:VEVENT
 END:VCALENDAR
