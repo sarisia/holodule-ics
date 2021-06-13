@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Superchat Zatsudan】Supa Sunday~\nhttps://www.youtube.com/watch?v=crv-seF1J5U
+DURATION:PT2H
+DTSTART:20210613T220500Z
+SUMMARY:Amelia: 【Superchat Zatsudan】Supa Sunday~
+UID:crv-seF1J5U
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【RIVER CITY GIRLS COLLAB】Reaper and Shark\, Ready to PUNCH. #hololiveEnglish\nhttps://www.youtube.com/watch?v=Zo7APdvzezI
 DURATION:PT2H
 DTSTART:20210612T135945Z
@@ -23,6 +30,13 @@ DURATION:PT2H
 DTSTART:20210612T010053Z
 SUMMARY:Gura: [Bowsers Fury] BOWSERS A WHAT?
 UID:oVX9pWvd9B0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【LIVE WATCHALONG】Todd...\nhttps://www.youtube.com/watch?v=s15iykTq7ZE
+DURATION:PT2H
+DTSTART:20210613T170000Z
+SUMMARY:Amelia: 【LIVE WATCHALONG】Todd...
+UID:s15iykTq7ZE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Yakuza: Like a Dragon】NANBA IS BACK #kfp #キアライブ (SPOILERS ALERT)\nhttps://www.youtube.com/watch?v=vyfJw1B2wdM
