@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:ざつだんとすーぱーちゃお礼！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=J3jH4BVNfBc
+DURATION:PT2H
+DTSTART:20210615T140000Z
+SUMMARY:🐏角巻わため: ざつだんとすーぱーちゃお礼！【角巻わため/ホロライブ４期生】
+UID:J3jH4BVNfBc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】アップデートを確認しながら氷上レース用の氷も取りに行く作業配信【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=NB7_nTpuiEM
 DURATION:PT2H
 DTSTART:20210614T040000Z
@@ -60,11 +67,18 @@ SUMMARY:🔮Moona: 【Minecraft】Let's find an Amethyst!【Moona】
 UID:OGpTQbdSe6o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ホロ鯖Ver1.17最新アプデきｔらあああああああああああああああああああああぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=jueO7ettcrk
+DESCRIPTION:【 Minecraft 】新アプデ要素で夏祭り出店するにぇ！👻【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=Fuq9__yqZxw
 DURATION:PT2H
-DTSTART:20210614T110000Z
-SUMMARY:👯兎田ぺこら: 【Minecraft】ホロ鯖Ver1.17最新アプデきｔらあああああああああああああああああああああぺこ！【ホロライブ/兎田ぺこら】
-UID:jueO7ettcrk
+DTSTART:20210614T120000Z
+SUMMARY:🌸さくらみこ: 【 Minecraft 】新アプデ要素で夏祭り出店するにぇ！👻【ホロライブ/さくらみこ】
+UID:Fuq9__yqZxw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】アップデートしたらしいけどよくわかっていない【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=_qyauKqzGcI
+DURATION:PT2H
+DTSTART:20210614T130000Z
+SUMMARY:☄星街すいせい: 【Minecraft】アップデートしたらしいけどよくわかっていない【ホロライブ / 星街すいせい】
+UID:_qyauKqzGcI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:GETCHA! / calliope × suisei(cover)\nhttps://www.youtube.com/watch?v=EjlMPu5sEgw
@@ -100,6 +114,13 @@ DURATION:PT2H
 DTSTART:20210615T083000Z
 SUMMARY:🍕アルランディス: 【 #ゆるボスタコパ 】配信前後こんな調子でした【アルランディス/花咲みやび/岸堂天真/影山シエン】
 UID:enA5ZQAVWYM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【The Henry Stickmin Collection】棒人間物語【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=skqQzK5amzQ
+DURATION:PT2H
+DTSTART:20210615T040000Z
+SUMMARY:🍷夕刻ロベル: 【The Henry Stickmin Collection】棒人間物語【ホロスターズ/夕刻ロベル】
+UID:skqQzK5amzQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Yakuza: Like a Dragon】OSAKA MY BELOVED #kfp #キアライブ (SPOILERS ALERT)\nhttps://www.youtube.com/watch?v=7IkOFqYbJeg
@@ -149,20 +170,6 @@ DURATION:PT2H
 DTSTART:20210615T110000Z
 SUMMARY:🚑大空スバル: 【】【】
 UID:AFq464pVltU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Nintendo Direct E3 2021を一緒に見まSHOW！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=y3EG5VOrwhg
-DURATION:PT2H
-DTSTART:20210615T154500Z
-SUMMARY:👯兎田ぺこら: Nintendo Direct E3 2021を一緒に見まSHOW！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:y3EG5VOrwhg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談枠】お酒飲みながらみんなと話そう！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=4EyjrIk4jpk
-DURATION:PT2H
-DTSTART:20210614T150000Z
-SUMMARY:⚙律可: 【雑談枠】お酒飲みながらみんなと話そう！【律可/ホロスターズ】#りつすた
-UID:4EyjrIk4jpk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリパ】Suntempo もうすぐ1周年!! 絆のマリオパーティwith最強CPU【岸堂天真/アステルレダ/夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=nlGFzULReRA
@@ -242,10 +249,10 @@ SUMMARY:Amelia: 【LIVE WATCHALONG】Todd...
 UID:s15iykTq7ZE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】アプデきたああああ！！！出店のアイデア探しがてら冒険行こう🎶【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=z11iPY1V9cc
+DESCRIPTION:Nintendo Direct E3 2021を一緒に見まSHOW！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=y3EG5VOrwhg
 DURATION:PT2H
-DTSTART:20210614T130000Z
-SUMMARY:⚔白銀ノエル: 【Minecraft】アプデきたああああ！！！出店のアイデア探しがてら冒険行こう🎶【白銀ノエル/ホロライブ】
-UID:z11iPY1V9cc
+DTSTART:20210615T154500Z
+SUMMARY:👯兎田ぺこら: Nintendo Direct E3 2021を一緒に見まSHOW！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:y3EG5VOrwhg
 END:VEVENT
 END:VCALENDAR
