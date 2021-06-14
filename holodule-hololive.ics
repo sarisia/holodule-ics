@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:ざつだんとすーぱーちゃお礼！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=J3jH4BVNfBc
+DURATION:PT2H
+DTSTART:20210615T140000Z
+SUMMARY:🐏角巻わため: ざつだんとすーぱーちゃお礼！【角巻わため/ホロライブ４期生】
+UID:J3jH4BVNfBc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【朝活雑談】最近のこと色々話すぞい！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=PuVYOrWDjPU
 DURATION:PT2H
 DTSTART:20210614T000000Z
@@ -37,13 +44,6 @@ DURATION:PT2H
 DTSTART:20210614T120000Z
 SUMMARY:💫天音かなた: 【Minecraft】うさ建氷上レース！かなたとししろ【天音かなた＆獅白ぼたん/ホロライブ】
 UID:S9n0AzngCuc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Nintendo Direct E3 2021を一緒に見まSHOW！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=y3EG5VOrwhg
-DURATION:PT2H
-DTSTART:20210615T154500Z
-SUMMARY:👯兎田ぺこら: Nintendo Direct E3 2021を一緒に見まSHOW！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:y3EG5VOrwhg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #朝ミオ 】月曜日だよ～朝みぉーん！！！\nhttps://www.youtube.com/watch?v=K4Ltk4CM1x8
@@ -81,11 +81,18 @@ SUMMARY:🐏角巻わため: 【スーパーマリオパーティー】さぁ、
 UID:UAH_wGEUtAw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ホロ鯖Ver1.17最新アプデきｔらあああああああああああああああああああああぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=jueO7ettcrk
+DESCRIPTION:【 Minecraft 】新アプデ要素で夏祭り出店するにぇ！👻【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=Fuq9__yqZxw
 DURATION:PT2H
-DTSTART:20210614T110000Z
-SUMMARY:👯兎田ぺこら: 【Minecraft】ホロ鯖Ver1.17最新アプデきｔらあああああああああああああああああああああぺこ！【ホロライブ/兎田ぺこら】
-UID:jueO7ettcrk
+DTSTART:20210614T120000Z
+SUMMARY:🌸さくらみこ: 【 Minecraft 】新アプデ要素で夏祭り出店するにぇ！👻【ホロライブ/さくらみこ】
+UID:Fuq9__yqZxw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】アップデートしたらしいけどよくわかっていない【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=_qyauKqzGcI
+DURATION:PT2H
+DTSTART:20210614T130000Z
+SUMMARY:☄星街すいせい: 【Minecraft】アップデートしたらしいけどよくわかっていない【ホロライブ / 星街すいせい】
+UID:_qyauKqzGcI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ホロ鯖Ver1.17　最新アプデでウーパールーパーGET!!【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=VbydjE51sgY
@@ -123,11 +130,11 @@ SUMMARY:獅白ぼたん: 【Minecraft】夏祭り会場に氷上レース作る�
 UID:P6izMghljpA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】アプデきたああああ！！！出店のアイデア探しがてら冒険行こう🎶【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=z11iPY1V9cc
+DESCRIPTION:Nintendo Direct E3 2021を一緒に見まSHOW！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=y3EG5VOrwhg
 DURATION:PT2H
-DTSTART:20210614T130000Z
-SUMMARY:⚔白銀ノエル: 【Minecraft】アプデきたああああ！！！出店のアイデア探しがてら冒険行こう🎶【白銀ノエル/ホロライブ】
-UID:z11iPY1V9cc
+DTSTART:20210615T154500Z
+SUMMARY:👯兎田ぺこら: Nintendo Direct E3 2021を一緒に見まSHOW！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:y3EG5VOrwhg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ゲリラ】Minecraftウパルパ？ウーパールーパー！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=Zj1EiLqXi2I
