@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:Reddit Shitpost Review with..？\nhttps://www.youtube.com/watch?v=U0uNaGMCY4s
+DURATION:PT2H
+DTSTART:20210620T030000Z
+SUMMARY:🐉桐生ココ: Reddit Shitpost Review with..？
+UID:U0uNaGMCY4s
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Captain Marine's Hips】マリン船長のおしり【hololive/宝鐘マリン】\nhttps://www.youtube.com/watch?v=RDVz4HW-xW8
 DURATION:PT2H
 DTSTART:20210619T030009Z
@@ -74,20 +81,6 @@ SUMMARY:⚔白銀ノエル: #18【ドラゴンクエスト11S】仮：待機所�
 UID:skP3KN6Aeao
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】かなトワで4期生ハウス作成✨【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=whOge7XN14M
-DURATION:PT2H
-DTSTART:20210619T140000Z
-SUMMARY:👾常闇トワ: 【Minecraft】かなトワで4期生ハウス作成✨【常闇トワ/ホロライブ】
-UID:whOge7XN14M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】悪魔の保健医が遂にランク耐久に手を出してしまった結果…。【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=fH2iwhf_2Uk
-DURATION:PT2H
-DTSTART:20210619T083000Z
-SUMMARY:💋癒月ちょこ: 【APEX】悪魔の保健医が遂にランク耐久に手を出してしまった結果…。【ホロライブ/癒月ちょこ】
-UID:fH2iwhf_2Uk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:せくしー足組み☆\nhttps://www.youtube.com/watch?v=eRG5U7xt170
 DURATION:PT2H
 DTSTART:20210619T110756Z
@@ -107,6 +100,13 @@ DURATION:PT2H
 DTSTART:20210619T110000Z
 SUMMARY:☄星街すいせい: 【ブレソル 】共闘で遊ぼう！✨【ホロライブ / 星街すいせい】
 UID:7ygy8tF7xIc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【弾き語り枠】眠りにいざないたもう【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=I5mOFj0pLeo
+DURATION:PT2H
+DTSTART:20210619T140000Z
+SUMMARY:⚙律可: 【弾き語り枠】眠りにいざないたもう【律可/ホロスターズ】#りつすた
+UID:I5mOFj0pLeo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#6】DQシリーズ完全初見！ドラゴンクエスト8！！！【ホロライブ/大空スバル】※ネタバレあり\nhttps://www.youtube.com/watch?v=y7WHzskFGfM
@@ -137,18 +137,18 @@ SUMMARY:💋癒月ちょこ: 【雑談】悪魔の保健医の奇跡の朝枠ゲ
 UID:BLTfAKnpmJk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マイクラ】深夜の地上絵整地会場！！！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=dSjS2srU4nA
-DURATION:PT2H
-DTSTART:20210619T160000Z
-SUMMARY:🤖ロボ子さん: 【マイクラ】深夜の地上絵整地会場！！！！【ホロライブ/ロボ子さん】
-UID:dSjS2srU4nA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】アプデ新要素に触りたい in ホロスタ鯖【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=dJQ4EpRjC1w
 DURATION:PT2H
 DTSTART:20210619T160000Z
 SUMMARY:🍕アルランディス: 【Minecraft】アプデ新要素に触りたい in ホロスタ鯖【アルランディス/ホロスターズ】
 UID:dJQ4EpRjC1w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マイクラ】深夜の地上絵整地会場！！！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=dSjS2srU4nA
+DURATION:PT2H
+DTSTART:20210619T160000Z
+SUMMARY:🤖ロボ子さん: 【マイクラ】深夜の地上絵整地会場！！！！【ホロライブ/ロボ子さん】
+UID:dSjS2srU4nA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】VISCt 本番！楽しんでいこ～【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=yG-eaFkWMP8
@@ -158,11 +158,11 @@ SUMMARY:🏮夏色まつり: 【APEX】VISCt 本番！楽しんでいこ～【�
 UID:yG-eaFkWMP8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠/Sing】個人的重大発表あり！/GOOD major announcement【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=hi_U8y2Y5T4
+DESCRIPTION:【例外配達】届　け　人【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=dEXMXcfrINY
 DURATION:PT2H
-DTSTART:20210619T130000Z
-SUMMARY:🏴☠宝鐘マリン: 【歌枠/Sing】個人的重大発表あり！/GOOD major announcement【ホロライブ/宝鐘マリン】
-UID:hi_U8y2Y5T4
+DTSTART:20210620T080000Z
+SUMMARY:🍷夕刻ロベル: 【例外配達】届　け　人【ホロスターズ/夕刻ロベル】
+UID:dEXMXcfrINY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【JUST CHATTING】Randomly Wanting to Say "What Is Up!?" 8} #holoMyth #hololiveEnglish\nhttps://www.youtube.com/watch?v=AuM0Kra7irw
@@ -249,11 +249,11 @@ SUMMARY:Reine: GOOD MORNING! Teaching Coco-senpai Some Indonesian!! 【hololiveI
 UID:QrHQdWgFZTk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Subnautica】深海の世界へ。もっと深く！【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=h6-cPDMe_u4
+DESCRIPTION:PAKA2\nhttps://www.youtube.com/watch?v=QEeWvrfR9X4
 DURATION:PT2H
-DTSTART:20210619T130000Z
-SUMMARY:🌺花咲みやび: 【Subnautica】深海の世界へ。もっと深く！【花咲みやび/ホロスターズ】
-UID:h6-cPDMe_u4
+DTSTART:20210619T162650Z
+SUMMARY:💫天音かなた: PAKA2
+UID:QEeWvrfR9X4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】#かなトワ　４期生ハウス✨【天音かなた＆常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=ujOKKYu4VAA
