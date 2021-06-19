@@ -4,39 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【JUST CHATTING】Randomly Wanting to Say "What Is Up!?" 8} #holoMyth #hololiveEnglish\nhttps://www.youtube.com/watch?v=AuM0Kra7irw
-DURATION:PT2H
-DTSTART:20210619T130000Z
-SUMMARY:Calli: 【JUST CHATTING】Randomly Wanting to Say "What Is Up!?" 8} #holoMyth #hololiveEnglish
-UID:AuM0Kra7irw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[Super Mario 3D World] mitosis-nya\nhttps://www.youtube.com/watch?v=szZ6Q2VMQcc
-DURATION:PT2H
-DTSTART:20210617T201009Z
-SUMMARY:Gura: [Super Mario 3D World] mitosis-nya
-UID:szZ6Q2VMQcc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BLEACH Brave Souls】We Live In A Soul Society【HololiveEN / Takanashi Kiara】#holobravesouls\nhttps://www.youtube.com/watch?v=5Gl5BhXak8o
-DURATION:PT2H
-DTSTART:20210618T130000Z
-SUMMARY:Kiara: 【BLEACH Brave Souls】We Live In A Soul Society【HololiveEN / Takanashi Kiara】#holobravesouls
-UID:5Gl5BhXak8o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【WATCHALONG】Drive~\nhttps://www.youtube.com/watch?v=R-DVtVTKxIs
-DURATION:PT2H
-DTSTART:20210619T020500Z
-SUMMARY:Amelia: 【WATCHALONG】Drive~
-UID:R-DVtVTKxIs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[MARIO KART 8 DELUXE] NEKO-DORIFTO ネコドリフト ! with Amashiro Mama!\nhttps://www.youtube.com/watch?v=eAGllMWOJ-4
 DURATION:PT2H
 DTSTART:20210618T000103Z
 SUMMARY:Gura: [MARIO KART 8 DELUXE] NEKO-DORIFTO ネコドリフト ! with Amashiro Mama!
 UID:eAGllMWOJ-4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【JUST CHATTING】Randomly Wanting to Say "What Is Up!?" 8} #holoMyth #hololiveEnglish\nhttps://www.youtube.com/watch?v=AuM0Kra7irw
+DURATION:PT2H
+DTSTART:20210619T130000Z
+SUMMARY:Calli: 【JUST CHATTING】Randomly Wanting to Say "What Is Up!?" 8} #holoMyth #hololiveEnglish
+UID:AuM0Kra7irw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【BLEACH Brave Souls】Soul Enthusiast and Brave Bird\, in Co-Op?! #holobravesouls\nhttps://www.youtube.com/watch?v=WuOOSVQprY4
@@ -46,11 +25,25 @@ SUMMARY:Calli: 【BLEACH Brave Souls】Soul Enthusiast and Brave Bird\, in Co-Op
 UID:WuOOSVQprY4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:[Super Mario 3D World] mitosis-nya\nhttps://www.youtube.com/watch?v=szZ6Q2VMQcc
+DURATION:PT2H
+DTSTART:20210617T201009Z
+SUMMARY:Gura: [Super Mario 3D World] mitosis-nya
+UID:szZ6Q2VMQcc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#HOLOTALK】With our 11th guest: Kiryu Coco! #ORANGEWOMEN #オレンジコアラ\nhttps://www.youtube.com/watch?v=XV-VghW7SaM
 DURATION:PT2H
 DTSTART:20210619T140000Z
 SUMMARY:Kiara: 【#HOLOTALK】With our 11th guest: Kiryu Coco! #ORANGEWOMEN #オレンジコアラ
 UID:XV-VghW7SaM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【BLEACH Brave Souls】We Live In A Soul Society【HololiveEN / Takanashi Kiara】#holobravesouls\nhttps://www.youtube.com/watch?v=5Gl5BhXak8o
+DURATION:PT2H
+DTSTART:20210618T130000Z
+SUMMARY:Kiara: 【BLEACH Brave Souls】We Live In A Soul Society【HololiveEN / Takanashi Kiara】#holobravesouls
+UID:5Gl5BhXak8o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Bridge Constructor: Portal】Thinking w/ Portals!\nhttps://www.youtube.com/watch?v=i4FsF0ViM2s
