@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【＃わちゃスタ　特別編】２周年イベント間近！ ホロスタメンバーは何を思う...？ 【生配信】\nhttps://www.youtube.com/watch?v=2YV9CtzQNk8
-DURATION:PT2H
-DTSTART:20210619T100000Z
-SUMMARY:ホロスターズ: 【＃わちゃスタ　特別編】２周年イベント間近！ ホロスタメンバーは何を思う...？ 【生配信】
-UID:2YV9CtzQNk8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 ラジオ 】#アル律ごっこ 第3回 梅雨のじめじめ吹っ飛ばせ！編【律可/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=ADUE8hjBFXo
 DURATION:PT2H
 DTSTART:20210618T120000Z
 SUMMARY:🍕アルランディス: 【 ラジオ 】#アル律ごっこ 第3回 梅雨のじめじめ吹っ飛ばせ！編【律可/アルランディス/ホロスターズ】
 UID:ADUE8hjBFXo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Apex Legends】Gold１まで行きたいです【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=NUSa1jcSDxs
+DURATION:PT2H
+DTSTART:20210619T050000Z
+SUMMARY:🍕アルランディス: 【Apex Legends】Gold１まで行きたいです【アルランディス/ホロスターズ】
+UID:NUSa1jcSDxs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【同時視聴】『終末のワルキューレ』1話を見る俺【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=gD8kUnSPiyQ
@@ -25,11 +25,25 @@ SUMMARY:🍷夕刻ロベル: 【同時視聴】『終末のワルキューレ』
 UID:gD8kUnSPiyQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Operation Tango】騎士ハッカーとエージェントフラワーの潜入ミッション!!【花咲みやび/岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=nebR5scpc-w
+DESCRIPTION:『感謝枠』Hi ! Genki? Karaoke  /  アステル・レダ\nhttps://www.youtube.com/watch?v=YKMySlqd-9w
 DURATION:PT2H
-DTSTART:20210618T080000Z
-SUMMARY:🌺花咲みやび: 【Operation Tango】騎士ハッカーとエージェントフラワーの潜入ミッション!!【花咲みやび/岸堂天真/ホロスターズ】
-UID:nebR5scpc-w
+DTSTART:20210619T030000Z
+SUMMARY:🎭アステル・レダ: 『感謝枠』Hi ! Genki? Karaoke  /  アステル・レダ
+UID:YKMySlqd-9w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【STUDY】Introduce the viewer's desk.視聴環境ツアー！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=Q-2NTLoo9RI
+DURATION:PT2H
+DTSTART:20210617T230000Z
+SUMMARY:🦔💨岸堂天真: 【STUDY】Introduce the viewer's desk.視聴環境ツアー！【岸堂天真/ホロスターズ】
+UID:Q-2NTLoo9RI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【＃わちゃスタ　特別編】２周年イベント間近！ ホロスタメンバーは何を思う...？ 【生配信】\nhttps://www.youtube.com/watch?v=2YV9CtzQNk8
+DURATION:PT2H
+DTSTART:20210619T100000Z
+SUMMARY:ホロスターズ: 【＃わちゃスタ　特別編】２周年イベント間近！ ホロスタメンバーは何を思う...？ 【生配信】
+UID:2YV9CtzQNk8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】虚無すずめの新衣装を考える。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=BzMVIB-Xr0g
@@ -39,10 +53,10 @@ SUMMARY:🌺花咲みやび: 【雑談】虚無すずめの新衣装を考える
 UID:BzMVIB-Xr0g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【STUDY】Introduce the viewer's desk.視聴環境ツアー！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=Q-2NTLoo9RI
+DESCRIPTION:【Operation Tango】騎士ハッカーとエージェントフラワーの潜入ミッション!!【花咲みやび/岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=nebR5scpc-w
 DURATION:PT2H
-DTSTART:20210617T230000Z
-SUMMARY:🦔💨岸堂天真: 【STUDY】Introduce the viewer's desk.視聴環境ツアー！【岸堂天真/ホロスターズ】
-UID:Q-2NTLoo9RI
+DTSTART:20210618T080000Z
+SUMMARY:🌺花咲みやび: 【Operation Tango】騎士ハッカーとエージェントフラワーの潜入ミッション!!【花咲みやび/岸堂天真/ホロスターズ】
+UID:nebR5scpc-w
 END:VEVENT
 END:VCALENDAR
