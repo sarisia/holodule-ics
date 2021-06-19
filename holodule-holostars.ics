@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【例外配達】届　け　人【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=dEXMXcfrINY
+DURATION:PT2H
+DTSTART:20210620T080000Z
+SUMMARY:🍷夕刻ロベル: 【例外配達】届　け　人【ホロスターズ/夕刻ロベル】
+UID:dEXMXcfrINY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【弾き語り枠】眠りにいざないたもう【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=I5mOFj0pLeo
+DURATION:PT2H
+DTSTART:20210619T140000Z
+SUMMARY:⚙律可: 【弾き語り枠】眠りにいざないたもう【律可/ホロスターズ】#りつすた
+UID:I5mOFj0pLeo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【＃わちゃスタ　特別編】２周年イベント間近！ ホロスタメンバーは何を思う...？ 【生配信】\nhttps://www.youtube.com/watch?v=2YV9CtzQNk8
 DURATION:PT2H
 DTSTART:20210619T100000Z
@@ -37,12 +51,5 @@ DURATION:PT2H
 DTSTART:20210619T030000Z
 SUMMARY:🎭アステル・レダ: 『感謝枠』Hi ! Genki? Karaoke  /  アステル・レダ
 UID:YKMySlqd-9w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Subnautica】深海の世界へ。もっと深く！【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=h6-cPDMe_u4
-DURATION:PT2H
-DTSTART:20210619T130000Z
-SUMMARY:🌺花咲みやび: 【Subnautica】深海の世界へ。もっと深く！【花咲みやび/ホロスターズ】
-UID:h6-cPDMe_u4
 END:VEVENT
 END:VCALENDAR
