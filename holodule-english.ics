@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【UNARCHIVED KARAOKE】Last stream before my vacation!!! #KFP #キアライブ\nhttps://www.youtube.com/watch?v=LTifoKziz1w
-DURATION:PT2H
-DTSTART:20210620T140000Z
-SUMMARY:Kiara: 【UNARCHIVED KARAOKE】Last stream before my vacation!!! #KFP #キアライブ
-UID:LTifoKziz1w
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【JUST CHATTING】Randomly Wanting to Say "What Is Up!?" 8} #holoMyth #hololiveEnglish\nhttps://www.youtube.com/watch?v=AuM0Kra7irw
 DURATION:PT2H
 DTSTART:20210619T182209Z
@@ -18,11 +11,25 @@ SUMMARY:Calli: 【JUST CHATTING】Randomly Wanting to Say "What Is Up!?" 8} #hol
 UID:AuM0Kra7irw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[FARM SHARK] NOW IM GERMINATED\nhttps://www.youtube.com/watch?v=ptclL0HkWKM
+DESCRIPTION:【VR】First Time playing Half-Life: Alyx\nhttps://www.youtube.com/watch?v=MRNRsXNHTkQ
 DURATION:PT2H
-DTSTART:20210619T200147Z
-SUMMARY:Gura: [FARM SHARK] NOW IM GERMINATED
-UID:ptclL0HkWKM
+DTSTART:20210620T030500Z
+SUMMARY:Amelia: 【VR】First Time playing Half-Life: Alyx
+UID:MRNRsXNHTkQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【WATCHALONG】Drive~\nhttps://www.youtube.com/watch?v=R-DVtVTKxIs
+DURATION:PT2H
+DTSTART:20210619T020500Z
+SUMMARY:Amelia: 【WATCHALONG】Drive~
+UID:R-DVtVTKxIs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【UNARCHIVED KARAOKE】Last stream before my vacation!!! #KFP #キアライブ\nhttps://www.youtube.com/watch?v=LTifoKziz1w
+DURATION:PT2H
+DTSTART:20210620T140000Z
+SUMMARY:Kiara: 【UNARCHIVED KARAOKE】Last stream before my vacation!!! #KFP #キアライブ
+UID:LTifoKziz1w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:decorating my birthday cake!\nhttps://www.youtube.com/watch?v=fL60MVHAZpY
@@ -39,17 +46,17 @@ SUMMARY:Kiara: 【#HOLOTALK】With our 11th guest: Kiryu Coco! #ORANGEWOMEN #オ
 UID:XV-VghW7SaM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【VR】First Time playing Half-Life: Alyx\nhttps://www.youtube.com/watch?v=MRNRsXNHTkQ
+DESCRIPTION:[FARM SHARK] NOW IM GERMINATED\nhttps://www.youtube.com/watch?v=ptclL0HkWKM
 DURATION:PT2H
-DTSTART:20210620T030500Z
-SUMMARY:Amelia: 【VR】First Time playing Half-Life: Alyx
-UID:MRNRsXNHTkQ
+DTSTART:20210619T200147Z
+SUMMARY:Gura: [FARM SHARK] NOW IM GERMINATED
+UID:ptclL0HkWKM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【WATCHALONG】Drive~\nhttps://www.youtube.com/watch?v=R-DVtVTKxIs
+DESCRIPTION:BIRTHDAY PARTY!! #GURABIRTHDAY2021\nhttps://www.youtube.com/watch?v=86UdOrzFXxQ
 DURATION:PT2H
-DTSTART:20210619T020500Z
-SUMMARY:Amelia: 【WATCHALONG】Drive~
-UID:R-DVtVTKxIs
+DTSTART:20210621T000000Z
+SUMMARY:Gura: BIRTHDAY PARTY!! #GURABIRTHDAY2021
+UID:86UdOrzFXxQ
 END:VEVENT
 END:VCALENDAR
