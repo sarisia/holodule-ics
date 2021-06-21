@@ -25,18 +25,18 @@ SUMMARY:🍕アルランディス: 【Minecraft】熱帯魚乱獲絶滅大作戦
 UID:qGCVZLHOESM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Minecraft 】夏祭りおばけやし～き！つくるにぇ！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=dnATF6x5Oak
-DURATION:PT2H
-DTSTART:20210620T130000Z
-SUMMARY:🌸さくらみこ: 【 Minecraft 】夏祭りおばけやし～き！つくるにぇ！【ホロライブ/さくらみこ】
-UID:dnATF6x5Oak
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【マインクラフト/Minecraft】明日の準備とお祭り準備！！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=XlnqyqW60EA
 DURATION:PT2H
 DTSTART:20210621T120000Z
 SUMMARY:🔥不知火フレア: 【マインクラフト/Minecraft】明日の準備とお祭り準備！！【不知火フレア/ホロライブ】
 UID:XlnqyqW60EA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Minecraft 】夏祭りおばけやし～き！つくるにぇ！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=dnATF6x5Oak
+DURATION:PT2H
+DTSTART:20210620T130000Z
+SUMMARY:🌸さくらみこ: 【 Minecraft 】夏祭りおばけやし～き！つくるにぇ！【ホロライブ/さくらみこ】
+UID:dnATF6x5Oak
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VR】First Time playing Half-Life: Alyx\nhttps://www.youtube.com/watch?v=MRNRsXNHTkQ
@@ -319,6 +319,13 @@ SUMMARY:🐏角巻わため: 【Minecraft】必要素材を集める回！【角
 UID:GGDfPLQCp5o
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【APEX】ぶいあぱの保管庫と乙女ゲーにでてきそうな子とランク【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=f8MnQVSAObk
+DURATION:PT2H
+DTSTART:20210621T110000Z
+SUMMARY:🏮夏色まつり: 【APEX】ぶいあぱの保管庫と乙女ゲーにでてきそうな子とランク【ホロライブ/夏色まつり】
+UID:f8MnQVSAObk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#HOLODBD】LESGOOO DBD TOGETHERRRR !!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=CgwkuaAjJjo
 DURATION:PT2H
 DTSTART:20210620T130000Z
@@ -368,11 +375,11 @@ SUMMARY:⚔白銀ノエル: #18【ドラゴンクエスト11S】最強のパー�
 UID:M_hxZ14jXlM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#VTuberチップス3】3Dでちゃんと「ご発注」させていただきました。【悪魔的開封の儀】\nhttps://www.youtube.com/watch?v=NxQByPLWAOo
+DESCRIPTION:【夜廻】はじめての夜廻～～！🍙🔦【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=O5XEgG-0_H0
 DURATION:PT2H
-DTSTART:20210621T110000Z
-SUMMARY:ホロライブ: 【#VTuberチップス3】3Dでちゃんと「ご発注」させていただきました。【悪魔的開封の儀】
-UID:NxQByPLWAOo
+DTSTART:20210621T130000Z
+SUMMARY:🍙猫又おかゆ: 【夜廻】はじめての夜廻～～！🍙🔦【猫又おかゆ/ホロライブ】
+UID:O5XEgG-0_H0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロAmongUs】女騎士 改め アサシン【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=eVCuhT4XVmE
@@ -382,11 +389,11 @@ SUMMARY:⚔白銀ノエル: 【#ホロAmongUs】女騎士 改め アサシン【
 UID:eVCuhT4XVmE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【夜廻】はじめての夜廻～～！🍙🔦【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=O5XEgG-0_H0
+DESCRIPTION:【#VTuberチップス3】3Dでちゃんと「ご発注」させていただきました。【悪魔的開封の儀】\nhttps://www.youtube.com/watch?v=NxQByPLWAOo
 DURATION:PT2H
-DTSTART:20210621T130000Z
-SUMMARY:🍙猫又おかゆ: 【夜廻】はじめての夜廻～～！🍙🔦【猫又おかゆ/ホロライブ】
-UID:O5XEgG-0_H0
+DTSTART:20210621T110000Z
+SUMMARY:ホロライブ: 【#VTuberチップス3】3Dでちゃんと「ご発注」させていただきました。【悪魔的開封の儀】
+UID:NxQByPLWAOo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#マリフレ】浮気ではない歌枠/sing【ホロライブ/宝鐘マリン・不知火フレア】\nhttps://www.youtube.com/watch?v=Z3N98K17Jdg
@@ -410,13 +417,6 @@ SUMMARY:🐉桐生ココ: 【#ホロAmongUs】ま　け　ん　ぞ【桐生コ�
 UID:klX-l3hj8jo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【記念枠】SING!! 80000人ありがとう!!天真、歌います!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=6z26IwzrAnY
-DURATION:PT2H
-DTSTART:20210620T100000Z
-SUMMARY:🦔💨岸堂天真: 【記念枠】SING!! 80000人ありがとう!!天真、歌います!!【岸堂天真/ホロスターズ】
-UID:6z26IwzrAnY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 Senin Produktif 】Happy Monday! Mari Gacha Tema Lagi! NO REROLL!【 #ioPrompts 】\nhttps://www.youtube.com/watch?v=JBdCoMpchFc
 DURATION:PT2H
 DTSTART:20210621T130000Z
@@ -424,11 +424,25 @@ SUMMARY:🎨Iofi: 【 Senin Produktif 】Happy Monday! Mari Gacha Tema Lagi! NO 
 UID:JBdCoMpchFc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Phasmophobia】遊びたい人をかき集めたらこうなりました【アルランディス/ヒラ/風見くく/成瀬鳴】\nhttps://www.youtube.com/watch?v=vZuO7ENJm5Y
+DURATION:PT2H
+DTSTART:20210622T130000Z
+SUMMARY:🍕アルランディス: 【Phasmophobia】遊びたい人をかき集めたらこうなりました【アルランディス/ヒラ/風見くく/成瀬鳴】
+UID:vZuO7ENJm5Y
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#HOLODBD】DBD But Make it Double【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=Cd0s32UWaOY
 DURATION:PT2H
 DTSTART:20210620T130000Z
 SUMMARY:Anya: 【#HOLODBD】DBD But Make it Double【hololive Indonesia 2nd Generation】
 UID:Cd0s32UWaOY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【記念枠】SING!! 80000人ありがとう!!天真、歌います!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=6z26IwzrAnY
+DURATION:PT2H
+DTSTART:20210620T100000Z
+SUMMARY:🦔💨岸堂天真: 【記念枠】SING!! 80000人ありがとう!!天真、歌います!!【岸堂天真/ホロスターズ】
+UID:6z26IwzrAnY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【同時視聴】魂を燃やす最終闘争-ラグナロク- 開幕...！アニメ「終末のワルキューレ」の第一話を一緒に見よ💪✨【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=0TOn9tRBT2I
@@ -466,6 +480,13 @@ SUMMARY:🦋潤羽るしあ: 【Minecraft】ウーパールーパー投入！？
 UID:MIGgkZQyUFY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#ホロAmongUs 】歴史を･･･変えてみせるにぇ！！！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=05Tax4f16Tc
+DURATION:PT2H
+DTSTART:20210621T130000Z
+SUMMARY:🌸さくらみこ: 【#ホロAmongUs 】歴史を･･･変えてみせるにぇ！！！！！！【ホロライブ/さくらみこ】
+UID:05Tax4f16Tc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【】free talk/おはスバ【】\nhttps://www.youtube.com/watch?v=_fHT34m5W4U
 DURATION:PT2H
 DTSTART:20210620T010000Z
@@ -485,13 +506,6 @@ DURATION:PT2H
 DTSTART:20210620T020000Z
 SUMMARY:🦔💨岸堂天真: 【APEX】ゴールド３までいくぞ！【岸堂天真/ホロスターズ】
 UID:yfZw9Qr7kPA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロAmongUs 】歴史を･･･変えてみせるにぇ！！！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=05Tax4f16Tc
-DURATION:PT2H
-DTSTART:20210621T130000Z
-SUMMARY:🌸さくらみこ: 【#ホロAmongUs 】歴史を･･･変えてみせるにぇ！！！！！！【ホロライブ/さくらみこ】
-UID:05Tax4f16Tc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【STUDY】Free Talk and Duolingo Part18【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=68vkKrwkQdQ
