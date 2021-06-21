@@ -4,6 +4,27 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Nyori Family Time!【Moona】\nhttps://www.youtube.com/watch?v=-QgGcM5J8zM
+DURATION:PT2H
+DTSTART:20210620T100000Z
+SUMMARY:🔮Moona: 【Minecraft】Nyori Family Time!【Moona】
+UID:-QgGcM5J8zM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#HOLODBD】LESGOOO DBD TOGETHERRRR !!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=CgwkuaAjJjo
+DURATION:PT2H
+DTSTART:20210620T130000Z
+SUMMARY:🐿Risu: 【#HOLODBD】LESGOOO DBD TOGETHERRRR !!!!【Ayunda Risu】
+UID:CgwkuaAjJjo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Senin Produktif 】Happy Monday! Mari Gacha Tema Lagi! NO REROLL!【 #ioPrompts 】\nhttps://www.youtube.com/watch?v=JBdCoMpchFc
+DURATION:PT2H
+DTSTART:20210621T130000Z
+SUMMARY:🎨Iofi: 【 Senin Produktif 】Happy Monday! Mari Gacha Tema Lagi! NO REROLL!【 #ioPrompts 】
+UID:JBdCoMpchFc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:GOOD MORNING! Teaching Coco-senpai Some Indonesian!! #holotall【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=QrHQdWgFZTk
 DURATION:PT2H
 DTSTART:20210620T070000Z
@@ -16,19 +37,5 @@ DURATION:PT2H
 DTSTART:20210620T130000Z
 SUMMARY:Anya: 【#HOLODBD】DBD But Make it Double【hololive Indonesia 2nd Generation】
 UID:Cd0s32UWaOY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#HOLODBD】LESGOOO DBD TOGETHERRRR !!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=CgwkuaAjJjo
-DURATION:PT2H
-DTSTART:20210620T130000Z
-SUMMARY:🐿Risu: 【#HOLODBD】LESGOOO DBD TOGETHERRRR !!!!【Ayunda Risu】
-UID:CgwkuaAjJjo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Nyori Family Time!【Moona】\nhttps://www.youtube.com/watch?v=-QgGcM5J8zM
-DURATION:PT2H
-DTSTART:20210620T100000Z
-SUMMARY:🔮Moona: 【Minecraft】Nyori Family Time!【Moona】
-UID:-QgGcM5J8zM
 END:VEVENT
 END:VCALENDAR
