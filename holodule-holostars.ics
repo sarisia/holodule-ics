@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ASMR】全力でお前達を寝かせるMR【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=ocrqWiWbB8g
+DURATION:PT2H
+DTSTART:20210623T140000Z
+SUMMARY:影山シエン: 【ASMR】全力でお前達を寝かせるMR【影山シエン/ホロスターズ】
+UID:ocrqWiWbB8g
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【FreeTalk】MyNewGear…！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=JzB6nkTrp1Q
 DURATION:PT2H
 DTSTART:20210622T050000Z
@@ -25,13 +32,6 @@ SUMMARY:🍕アルランディス: 【Phasmophobia】遊びたい人をかき集
 UID:vZuO7ENJm5Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#VTuberチップス3】3Dでやっぱり「ご発注」してました。【ロベルすまん】\nhttps://www.youtube.com/watch?v=lAovbOzeI6E
-DURATION:PT2H
-DTSTART:20210623T110000Z
-SUMMARY:ホロスターズ: 【#VTuberチップス3】3Dでやっぱり「ご発注」してました。【ロベルすまん】
-UID:lAovbOzeI6E
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－最近の目まぐるしい日々をつづる俺－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=99dQ2McV1OU
 DURATION:PT2H
 DTSTART:20210622T010000Z
@@ -39,25 +39,11 @@ SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－最近
 UID:99dQ2McV1OU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Dead by Daylight】RANK much 頑張ります!!【 岸堂天真 /ホロスターズ】\nhttps://www.youtube.com/watch?v=NM-UzsuERTU
-DURATION:PT2H
-DTSTART:20210623T021500Z
-SUMMARY:🦔💨岸堂天真: 【Dead by Daylight】RANK much 頑張ります!!【 岸堂天真 /ホロスターズ】
-UID:NM-UzsuERTU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Subnautica】クリア目指して！深海探索！【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=Efr9Lx6B7B4
 DURATION:PT2H
 DTSTART:20210623T030000Z
 SUMMARY:🌺花咲みやび: 【Subnautica】クリア目指して！深海探索！【花咲みやび/ホロスターズ】
 UID:Efr9Lx6B7B4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Cover】回る空うさぎ(Orangestar) / 奏手イヅル\nhttps://www.youtube.com/watch?v=Vj1XOWOxTho
-DURATION:PT2H
-DTSTART:20210622T100000Z
-SUMMARY:🎸奏手イヅル: 【Cover】回る空うさぎ(Orangestar) / 奏手イヅル
-UID:Vj1XOWOxTho
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Dead by Daylight】サバイバー全員しばきます！！【 岸堂天真 /ホロスターズ】\nhttps://www.youtube.com/watch?v=anybI4umNrk
@@ -74,20 +60,6 @@ SUMMARY:🍕アルランディス: 【切り抜き動画】”あえて”赤子
 UID:PdADge1j4UA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:メンシ解禁 - 2周年【奏手イヅル】\nhttps://www.youtube.com/watch?v=t5EvIC-6wzk
-DURATION:PT2H
-DTSTART:20210622T101000Z
-SUMMARY:🎸奏手イヅル: メンシ解禁 - 2周年【奏手イヅル】
-UID:t5EvIC-6wzk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:雑談\nhttps://www.youtube.com/watch?v=SFvRVbf1z74
-DURATION:PT2H
-DTSTART:20210622T070000Z
-SUMMARY:荒咬オウガ: 雑談
-UID:SFvRVbf1z74
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#白雪レイドを救いたい】KAGAYAKI杯カスタム練習  /  アステル 白雪レイド 胡桃のあ\nhttps://www.youtube.com/watch?v=AQoFeVbdGhA
 DURATION:PT2H
 DTSTART:20210622T110000Z
@@ -100,6 +72,41 @@ DURATION:PT2H
 DTSTART:20210622T230000Z
 SUMMARY:🦔💨岸堂天真: 【STUDY】Free Talk and Duolingo Part19【岸堂天真/ホロスターズ】
 UID:h4IW_W30Mvg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#VTuberチップス3】3Dでやっぱり「ご発注」してました。【ロベルすまん】\nhttps://www.youtube.com/watch?v=lAovbOzeI6E
+DURATION:PT2H
+DTSTART:20210623T110000Z
+SUMMARY:ホロスターズ: 【#VTuberチップス3】3Dでやっぱり「ご発注」してました。【ロベルすまん】
+UID:lAovbOzeI6E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Dead by Daylight】RANK much 頑張ります!!【 岸堂天真 /ホロスターズ】\nhttps://www.youtube.com/watch?v=NM-UzsuERTU
+DURATION:PT2H
+DTSTART:20210623T021500Z
+SUMMARY:🦔💨岸堂天真: 【Dead by Daylight】RANK much 頑張ります!!【 岸堂天真 /ホロスターズ】
+UID:NM-UzsuERTU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Cover】回る空うさぎ(Orangestar) / 奏手イヅル\nhttps://www.youtube.com/watch?v=Vj1XOWOxTho
+DURATION:PT2H
+DTSTART:20210622T100000Z
+SUMMARY:🎸奏手イヅル: 【Cover】回る空うさぎ(Orangestar) / 奏手イヅル
+UID:Vj1XOWOxTho
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:メンシ解禁 - 2周年【奏手イヅル】\nhttps://www.youtube.com/watch?v=t5EvIC-6wzk
+DURATION:PT2H
+DTSTART:20210622T101000Z
+SUMMARY:🎸奏手イヅル: メンシ解禁 - 2周年【奏手イヅル】
+UID:t5EvIC-6wzk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:雑談\nhttps://www.youtube.com/watch?v=SFvRVbf1z74
+DURATION:PT2H
+DTSTART:20210622T070000Z
+SUMMARY:荒咬オウガ: 雑談
+UID:SFvRVbf1z74
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Operation Tango】騎士ハッカーとエージェントフラワーの潜入ミッション!!Part2【花咲みやび/岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=r87lsx5Kf_M
