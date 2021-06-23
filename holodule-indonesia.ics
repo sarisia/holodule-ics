@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Usaken Matsuri Moona Relay Part!【#うさ建ステージリレー】\nhttps://www.youtube.com/watch?v=icGexaoMtKU
-DURATION:PT2H
-DTSTART:20210624T133000Z
-SUMMARY:🔮Moona: 【Minecraft】Usaken Matsuri Moona Relay Part!【#うさ建ステージリレー】
-UID:icGexaoMtKU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】IT'S BEEN AWHILE【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=SyJGYIGuXas
 DURATION:PT2H
 DTSTART:20210624T083000Z
@@ -18,10 +11,10 @@ SUMMARY:Ollie: 【MINECRAFT】IT'S BEEN AWHILE【Hololive Indonesia 2nd Gen】
 UID:SyJGYIGuXas
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#4【Resident Evil Village】Looking for that ONE last fish to cook TBH.....【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=FBr9I9_DLG8
+DESCRIPTION:【Minecraft】Usaken Matsuri Moona Relay Part!【#うさ建ステージリレー】\nhttps://www.youtube.com/watch?v=icGexaoMtKU
 DURATION:PT2H
-DTSTART:20210622T130000Z
-SUMMARY:Reine: #4【Resident Evil Village】Looking for that ONE last fish to cook TBH.....【hololiveID 2nd gen】
-UID:FBr9I9_DLG8
+DTSTART:20210624T133000Z
+SUMMARY:🔮Moona: 【Minecraft】Usaken Matsuri Moona Relay Part!【#うさ建ステージリレー】
+UID:icGexaoMtKU
 END:VEVENT
 END:VCALENDAR
