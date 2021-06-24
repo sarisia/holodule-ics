@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#SorAZ 】Singing Stream～2人で紡ぐ歌枠～【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=jwfrUr3xJSs
+DURATION:PT2H
+DTSTART:20210624T121500Z
+SUMMARY:🐻ときのそら: 【#SorAZ 】Singing Stream～2人で紡ぐ歌枠～【#ときのそら生放送】
+UID:jwfrUr3xJSs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#うさ建ステージリレー】光るもの大好き！！！！光らせたい！【マイクラ】\nhttps://www.youtube.com/watch?v=NljnHRzrJFY
 DURATION:PT2H
 DTSTART:20210624T123000Z
@@ -79,6 +86,13 @@ DURATION:PT2H
 DTSTART:20210623T030000Z
 SUMMARY:獅白ぼたん: 【Minecraft】ステージ建築の配信リレーに向けて準備をする回【獅白ぼたん/ホロライブ】
 UID:UlX0_86he7g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【モーリーオンライン】夏色吹雪絶対ほしい！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=3X3QoofzG38
+DURATION:PT2H
+DTSTART:20210624T120000Z
+SUMMARY:🏮夏色まつり: 【モーリーオンライン】夏色吹雪絶対ほしい！【ホロライブ/夏色まつり】
+UID:3X3QoofzG38
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】うさ建夏祭り！ステージ建築リレー配信の開始場所です【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=37YNx2Gag4g
@@ -179,13 +193,6 @@ SUMMARY:👾常闇トワ: 【Minecraft】#うさ建ステージリレー　み�
 UID:qHyIkQlqpR0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】横須賀ライブに向けて！歌うううう！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=f5Ax4FmXfqY
-DURATION:PT2H
-DTSTART:20210623T100000Z
-SUMMARY:⚓湊あくあ: 【歌枠】横須賀ライブに向けて！歌うううう！！【湊あくあ/ホロライブ】
-UID:f5Ax4FmXfqY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#うさ建ステージリレー】ついに完成！！！お披露目ぺこおおおおお！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=wUDM3qYYg5Y
 DURATION:PT2H
 DTSTART:20210624T140000Z
@@ -226,13 +233,6 @@ DURATION:PT2H
 DTSTART:20210623T110000Z
 SUMMARY:🍎アキロゼ: 【モーリーオンライン】夏色フブキをGETせよ！【ホロライブ/夜空メル×アキロゼ】
 UID:OSviQ0etZcU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スーパーマリオパーティー】負けられない戦いが、ここにある。【ホロライブ】\nhttps://www.youtube.com/watch?v=_Wf6vmHyVU4
-DURATION:PT2H
-DTSTART:20210624T120000Z
-SUMMARY:雪花ラミィ: 【スーパーマリオパーティー】負けられない戦いが、ここにある。【ホロライブ】
-UID:_Wf6vmHyVU4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#大空建設】この中にマイクラ得意な人おりゅ？【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=-E02OJdHic4
