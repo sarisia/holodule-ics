@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【KARAOKE AFTER-PARTY】Cooling Down with My Dead Beats! #holoMyth #hololiveEnglish\nhttps://www.youtube.com/watch?v=3SOq4r7VWHM
-DURATION:PT2H
-DTSTART:20210624T164500Z
-SUMMARY:Calli: 【KARAOKE AFTER-PARTY】Cooling Down with My Dead Beats! #holoMyth #hololiveEnglish
-UID:3SOq4r7VWHM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【UNARCHIVED KARAOKE】Singing My Reaper Heart Out! #holoMyth #hololiveEnglish\nhttps://www.youtube.com/watch?v=h_FcfU32GWI
-DURATION:PT2H
-DTSTART:20210624T135908Z
-SUMMARY:Calli: 【UNARCHIVED KARAOKE】Singing My Reaper Heart Out! #holoMyth #hololiveEnglish
-UID:h_FcfU32GWI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[LETS CHAT] REFLECT\nhttps://www.youtube.com/watch?v=2Rh-vayAfYg
 DURATION:PT2H
 DTSTART:20210624T010041Z
@@ -25,11 +11,25 @@ SUMMARY:Gura: [LETS CHAT] REFLECT
 UID:2Rh-vayAfYg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【KARAOKE AFTER-PARTY】Cooling Down with My Dead Beats! #holoMyth #hololiveEnglish\nhttps://www.youtube.com/watch?v=3SOq4r7VWHM
+DURATION:PT2H
+DTSTART:20210624T170500Z
+SUMMARY:Calli: 【KARAOKE AFTER-PARTY】Cooling Down with My Dead Beats! #holoMyth #hololiveEnglish
+UID:3SOq4r7VWHM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【THE WONDERFUL 101】 TAKODACHIS.....Assemble?\nhttps://www.youtube.com/watch?v=7lccQAqFq7c
 DURATION:PT2H
 DTSTART:20210623T200000Z
 SUMMARY:Ina: 【THE WONDERFUL 101】 TAKODACHIS.....Assemble?
 UID:7lccQAqFq7c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[UNBEATABLE: WHITE LABEL]\nhttps://www.youtube.com/watch?v=XzkusRZ6r8U
+DURATION:PT2H
+DTSTART:20210625T000000Z
+SUMMARY:Gura: [UNBEATABLE: WHITE LABEL]
+UID:XzkusRZ6r8U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Phantasy Star Online 2 New Genesis】 New Game New Tako!\nhttps://www.youtube.com/watch?v=I8CKO0NDTuE
