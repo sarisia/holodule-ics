@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#SorAZ 】Singing Stream～2人で紡ぐ歌枠～【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=jwfrUr3xJSs
-DURATION:PT2H
-DTSTART:20210624T121500Z
-SUMMARY:🐻ときのそら: 【#SorAZ 】Singing Stream～2人で紡ぐ歌枠～【#ときのそら生放送】
-UID:jwfrUr3xJSs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#うさ建ステージリレー】光るもの大好き！！！！光らせたい！【マイクラ】\nhttps://www.youtube.com/watch?v=NljnHRzrJFY
 DURATION:PT2H
 DTSTART:20210624T123000Z
@@ -67,6 +60,13 @@ SUMMARY:🐉桐生ココ: 【マイクラ】高みの見物台をスピード作
 UID:4U8bLa6egiU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【】深夜にマリカ練習ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=mKGll89cvVA
+DURATION:PT2H
+DTSTART:20210624T153000Z
+SUMMARY:👯兎田ぺこら: 【】深夜にマリカ練習ぺこ！【ホロライブ/兎田ぺこら】
+UID:mKGll89cvVA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】#うさ建ステージリレー ３０分で、やる！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=S17y8jKvoA0
 DURATION:PT2H
 DTSTART:20210624T103000Z
@@ -79,13 +79,6 @@ DURATION:PT2H
 DTSTART:20210623T030000Z
 SUMMARY:獅白ぼたん: 【Minecraft】ステージ建築の配信リレーに向けて準備をする回【獅白ぼたん/ホロライブ】
 UID:UlX0_86he7g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【モーリーオンライン】夏色吹雪絶対ほしい！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=3X3QoofzG38
-DURATION:PT2H
-DTSTART:20210624T120000Z
-SUMMARY:🏮夏色まつり: 【モーリーオンライン】夏色吹雪絶対ほしい！【ホロライブ/夏色まつり】
-UID:3X3QoofzG38
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】うさ建夏祭り！ステージ建築リレー配信の開始場所です【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=37YNx2Gag4g
