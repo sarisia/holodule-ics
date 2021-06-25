@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:[UNBEATABLE: WHITE LABEL] mmmm music\nhttps://www.youtube.com/watch?v=XzkusRZ6r8U
+DESCRIPTION:am cat\nhttps://www.youtube.com/watch?v=4_ZY_Vgrp7Q
 DURATION:PT2H
-DTSTART:20210625T000039Z
-SUMMARY:Gura: [UNBEATABLE: WHITE LABEL] mmmm music
-UID:XzkusRZ6r8U
+DTSTART:20210625T190000Z
+SUMMARY:Kiara: am cat
+UID:4_ZY_Vgrp7Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【KARAOKE AFTER-PARTY】Cooling Down with My Dead Beats! #holoMyth #hololiveEnglish\nhttps://www.youtube.com/watch?v=3SOq4r7VWHM
@@ -16,6 +16,13 @@ DURATION:PT2H
 DTSTART:20210624T171138Z
 SUMMARY:Calli: 【KARAOKE AFTER-PARTY】Cooling Down with My Dead Beats! #holoMyth #hololiveEnglish
 UID:3SOq4r7VWHM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[UNBEATABLE: WHITE LABEL] mmmm music\nhttps://www.youtube.com/watch?v=XzkusRZ6r8U
+DURATION:PT2H
+DTSTART:20210625T000039Z
+SUMMARY:Gura: [UNBEATABLE: WHITE LABEL] mmmm music
+UID:XzkusRZ6r8U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SCARLET NEXUS】 The Time is NOW\, Dead Beats! FULL. POWER. #hololiveEnglish #ad\nhttps://www.youtube.com/watch?v=aBMlZz-udo8
