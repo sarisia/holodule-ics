@@ -4,27 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:[SCARLET NEXUS] RELEASE DAY HYPE! #HololiveEnglish #ad\nhttps://www.youtube.com/watch?v=OZP4N0edOu0
-DURATION:PT2H
-DTSTART:20210626T000018Z
-SUMMARY:Gura: [SCARLET NEXUS] RELEASE DAY HYPE! #HololiveEnglish #ad
-UID:OZP4N0edOu0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[UNBEATABLE: WHITE LABEL] mmmm music\nhttps://www.youtube.com/watch?v=XzkusRZ6r8U
-DURATION:PT2H
-DTSTART:20210625T000039Z
-SUMMARY:Gura: [UNBEATABLE: WHITE LABEL] mmmm music
-UID:XzkusRZ6r8U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VALORANT】Chillin' and Shootin'\nhttps://www.youtube.com/watch?v=ID71qISv2rU
-DURATION:PT2H
-DTSTART:20210626T050000Z
-SUMMARY:Amelia: 【VALORANT】Chillin' and Shootin'
-UID:ID71qISv2rU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:am cat\nhttps://www.youtube.com/watch?v=4_ZY_Vgrp7Q
 DURATION:PT2H
 DTSTART:20210625T190000Z
@@ -32,18 +11,18 @@ SUMMARY:Kiara: am cat
 UID:4_ZY_Vgrp7Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【KARAOKE AFTER-PARTY】Cooling Down with My Dead Beats! #holoMyth #hololiveEnglish\nhttps://www.youtube.com/watch?v=3SOq4r7VWHM
-DURATION:PT2H
-DTSTART:20210624T171138Z
-SUMMARY:Calli: 【KARAOKE AFTER-PARTY】Cooling Down with My Dead Beats! #holoMyth #hololiveEnglish
-UID:3SOq4r7VWHM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【SUPERS and MINECRAFT】 Super Drinking\, Summer Vibing! With Your Boy!  #hololiveEnglish #holoMyth\nhttps://www.youtube.com/watch?v=VlkZZoHQOOY
 DURATION:PT2H
 DTSTART:20210627T083000Z
 SUMMARY:Calli: 【SUPERS and MINECRAFT】 Super Drinking\, Summer Vibing! With Your Boy!  #hololiveEnglish #holoMyth
 UID:VlkZZoHQOOY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[SCARLET NEXUS] RELEASE DAY HYPE! #HololiveEnglish #ad\nhttps://www.youtube.com/watch?v=OZP4N0edOu0
+DURATION:PT2H
+DTSTART:20210626T000018Z
+SUMMARY:Gura: [SCARLET NEXUS] RELEASE DAY HYPE! #HololiveEnglish #ad
+UID:OZP4N0edOu0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【THE WONDERFUL 101】 WAH-nderful!!! 【#2】\nhttps://www.youtube.com/watch?v=RPqp3-4phg8
@@ -60,17 +39,10 @@ SUMMARY:Calli: 【SHADOWVERSE SURPRISE】Revealing Something AWESOME\, For the F
 UID:_PyDLW_9FOU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SCARLET NEXUS】 The Time is NOW\, Dead Beats! FULL. POWER. #hololiveEnglish #ad\nhttps://www.youtube.com/watch?v=aBMlZz-udo8
+DESCRIPTION:【VALORANT】Chillin' and Shootin'\nhttps://www.youtube.com/watch?v=ID71qISv2rU
 DURATION:PT2H
-DTSTART:20210625T135928Z
-SUMMARY:Calli: 【SCARLET NEXUS】 The Time is NOW\, Dead Beats! FULL. POWER. #hololiveEnglish #ad
-UID:aBMlZz-udo8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Phantasy Star Online 2 New Genesis】 New Game New Tako!\nhttps://www.youtube.com/watch?v=I8CKO0NDTuE
-DURATION:PT2H
-DTSTART:20210624T220000Z
-SUMMARY:Ina: 【Phantasy Star Online 2 New Genesis】 New Game New Tako!
-UID:I8CKO0NDTuE
+DTSTART:20210626T050000Z
+SUMMARY:Amelia: 【VALORANT】Chillin' and Shootin'
+UID:ID71qISv2rU
 END:VEVENT
 END:VCALENDAR
