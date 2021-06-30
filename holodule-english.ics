@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】 INA Search for INAspiration\nhttps://www.youtube.com/watch?v=-FmlfHVVR_U
-DURATION:PT2H
-DTSTART:20210629T220000Z
-SUMMARY:Ina: 【Minecraft】 INA Search for INAspiration
-UID:-FmlfHVVR_U
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DRAWING】 Drawing New Member Emotes!!\nhttps://www.youtube.com/watch?v=gWWWGtdNIH4
 DURATION:PT2H
 DTSTART:20210628T200000Z
 SUMMARY:Ina: 【DRAWING】 Drawing New Member Emotes!!
 UID:gWWWGtdNIH4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DRAWING】Working on a Gift! #holoMyth #hololiveEnglish\nhttps://www.youtube.com/watch?v=ptMYQWVJmsk
-DURATION:PT2H
-DTSTART:20210630T130009Z
-SUMMARY:Calli: 【DRAWING】Working on a Gift! #holoMyth #hololiveEnglish
-UID:ptMYQWVJmsk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[TTRPG] Meet Scout!\nhttps://www.youtube.com/watch?v=_MiGxbsKyO8
@@ -32,13 +18,6 @@ SUMMARY:Gura: [TTRPG] Meet Scout!
 UID:_MiGxbsKyO8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【LET'S TALK! 雑談】BACK from my VACATION with a broken neck..? #kfp #キアライブ\nhttps://www.youtube.com/watch?v=oaZP6kK2xfE
-DURATION:PT2H
-DTSTART:20210628T185500Z
-SUMMARY:Kiara: 【LET'S TALK! 雑談】BACK from my VACATION with a broken neck..? #kfp #キアライブ
-UID:oaZP6kK2xfE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Phantasy Star Online 2 New Genesis】 FINALLY A NEW MMORPG FOR ME #kfp #キアライブ\nhttps://www.youtube.com/watch?v=pSHeNb-RC1Q
 DURATION:PT2H
 DTSTART:20210630T210000Z
@@ -46,10 +25,38 @@ SUMMARY:Kiara: 【Phantasy Star Online 2 New Genesis】 FINALLY A NEW MMORPG FOR
 UID:pSHeNb-RC1Q
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【THE WONDERFUL 101】 INA INA BEAMMMM 【#3】\nhttps://www.youtube.com/watch?v=lI4_5KUu_Sg
+DURATION:PT2H
+DTSTART:20210630T200000Z
+SUMMARY:Ina: 【THE WONDERFUL 101】 INA INA BEAMMMM 【#3】
+UID:lI4_5KUu_Sg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【PLUG & PLAY】FACE GOES HERE #kfp #キアライブ\nhttps://www.youtube.com/watch?v=_WzufBrXOqY
 DURATION:PT2H
 DTSTART:20210629T200000Z
 SUMMARY:Kiara: 【PLUG & PLAY】FACE GOES HERE #kfp #キアライブ
 UID:_WzufBrXOqY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DRAWING】Working on a Gift! #holoMyth #hololiveEnglish\nhttps://www.youtube.com/watch?v=ptMYQWVJmsk
+DURATION:PT2H
+DTSTART:20210630T130009Z
+SUMMARY:Calli: 【DRAWING】Working on a Gift! #holoMyth #hololiveEnglish
+UID:ptMYQWVJmsk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【LET'S TALK! 雑談】BACK from my VACATION with a broken neck..? #kfp #キアライブ\nhttps://www.youtube.com/watch?v=oaZP6kK2xfE
+DURATION:PT2H
+DTSTART:20210628T185500Z
+SUMMARY:Kiara: 【LET'S TALK! 雑談】BACK from my VACATION with a broken neck..? #kfp #キアライブ
+UID:oaZP6kK2xfE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】 INA Search for INAspiration\nhttps://www.youtube.com/watch?v=-FmlfHVVR_U
+DURATION:PT2H
+DTSTART:20210629T220000Z
+SUMMARY:Ina: 【Minecraft】 INA Search for INAspiration
+UID:-FmlfHVVR_U
 END:VEVENT
 END:VCALENDAR
