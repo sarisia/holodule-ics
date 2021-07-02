@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:#5【Resident Evil Village】Ethan & Angie Best Duo. Seek a Way Out!【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=0sygvsFIdFI
+DESCRIPTION:it's cooking simulator except the stream ends immediately if i drop the pizza to the floor\nhttps://www.youtube.com/watch?v=8brIhxSYIFQ
 DURATION:PT2H
-DTSTART:20210702T130000Z
-SUMMARY:Reine: #5【Resident Evil Village】Ethan & Angie Best Duo. Seek a Way Out!【hololiveID 2nd gen】
-UID:0sygvsFIdFI
+DTSTART:20210702T140000Z
+SUMMARY:Anya: it's cooking simulator except the stream ends immediately if i drop the pizza to the floor
+UID:8brIhxSYIFQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 日本語雑談 】ホロメンが学校に通ったら....【イオフィ】\nhttps://www.youtube.com/watch?v=GvEIyFFaiYg
+DURATION:PT2H
+DTSTART:20210702T120000Z
+SUMMARY:🎨Iofi: 【 日本語雑談 】ホロメンが学校に通ったら....【イオフィ】
+UID:GvEIyFFaiYg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【REACTION!!】HoloStars' #JustFollowStars Analysis! THE SONG IS TOO GOOD!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=yv0Z_aLKh4I
@@ -18,11 +25,11 @@ SUMMARY:Ollie: 【REACTION!!】HoloStars' #JustFollowStars Analysis! THE SONG IS
 UID:yv0Z_aLKh4I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:it's cooking simulator except the stream ends immediately if i drop the pizza to the floor\nhttps://www.youtube.com/watch?v=8brIhxSYIFQ
+DESCRIPTION:#5【Resident Evil Village】Ethan & Angie Best Duo. Seek a Way Out!【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=0sygvsFIdFI
 DURATION:PT2H
-DTSTART:20210702T140000Z
-SUMMARY:Anya: it's cooking simulator except the stream ends immediately if i drop the pizza to the floor
-UID:8brIhxSYIFQ
+DTSTART:20210702T130000Z
+SUMMARY:Reine: #5【Resident Evil Village】Ethan & Angie Best Duo. Seek a Way Out!【hololiveID 2nd gen】
+UID:0sygvsFIdFI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DUOLINGO】LET'S STUDY KOREAN!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=mDtff57eTQE
