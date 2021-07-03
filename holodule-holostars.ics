@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【雑談】アイドルってなんだろうなぁ。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=CE1EhSQbZeQ
+DURATION:PT2H
+DTSTART:20210703T130000Z
+SUMMARY:🌺花咲みやび: 【雑談】アイドルってなんだろうなぁ。【花咲みやび/ホロスターズ】
+UID:CE1EhSQbZeQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:弾き語りの夜【奏手イヅル】\nhttps://www.youtube.com/watch?v=Jn-GFVyWgW4
+DURATION:PT2H
+DTSTART:20210703T140000Z
+SUMMARY:🎸奏手イヅル: 弾き語りの夜【奏手イヅル】
+UID:Jn-GFVyWgW4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】レイスでハンマーチャレンジ!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=7GnpxH1Bgrg
 DURATION:PT2H
 DTSTART:20210703T063000Z
@@ -18,11 +32,11 @@ SUMMARY:🎭アステル・レダ: 【REIGNITE CUP】今日が本番!!  /  ア�
 UID:mFygYTGnhSA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【＃アラボ 】ハトの首筋見たことある？ -ARN's Lab-【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=m4xNOHdPVLI
+DESCRIPTION:【Minecraft 1.17】青ウーパールーパー繁殖日誌【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=2_iFlD0VMMw
 DURATION:PT2H
-DTSTART:20210702T130000Z
-SUMMARY:🍕アルランディス: 【＃アラボ 】ハトの首筋見たことある？ -ARN's Lab-【アルランディス/ホロスターズ】
-UID:m4xNOHdPVLI
+DTSTART:20210703T145500Z
+SUMMARY:🍕アルランディス: 【Minecraft 1.17】青ウーパールーパー繁殖日誌【アルランディス/ホロスターズ】
+UID:2_iFlD0VMMw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Apex Legends】#RIGCUP 本番 #撃たないでくださいWIN【成瀬鳴/律可/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=d0-sY1rIOd0
@@ -37,61 +51,5 @@ DURATION:PT2H
 DTSTART:20210703T082000Z
 SUMMARY:⚙律可: #RIGCUP【APEX LEGENDS】REIGNITE CUP当日！#撃たないでくださいWIN【律可/成瀬鳴/アルランディス/ホロスターズ】
 UID:9zxPgkkFdmI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Dead by Daylight】5周年おめでとー!!あと僕90000人おめでとー!!【 岸堂天真 /ホロスターズ】\nhttps://www.youtube.com/watch?v=hSBLIu7CyAk
-DURATION:PT2H
-DTSTART:20210702T060000Z
-SUMMARY:🦔💨岸堂天真: 【Dead by Daylight】5周年おめでとー!!あと僕90000人おめでとー!!【 岸堂天真 /ホロスターズ】
-UID:hSBLIu7CyAk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－おら！！！朝だぞ！！！！－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=TyTYi9NqFZo
-DURATION:PT2H
-DTSTART:20210702T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－おら！！！朝だぞ！！！！－【ホロスターズ/夕刻ロベル】
-UID:TyTYi9NqFZo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft 1.17】息抜きマイクラ-交通整備編-【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=buCDDRXC9Ng
-DURATION:PT2H
-DTSTART:20210702T070000Z
-SUMMARY:🍕アルランディス: 【Minecraft 1.17】息抜きマイクラ-交通整備編-【アルランディス/ホロスターズ】
-UID:buCDDRXC9Ng
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】アイドルってなんだろうなぁ。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=CE1EhSQbZeQ
-DURATION:PT2H
-DTSTART:20210703T130000Z
-SUMMARY:🌺花咲みやび: 【雑談】アイドルってなんだろうなぁ。【花咲みやび/ホロスターズ】
-UID:CE1EhSQbZeQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ホロスターズ】Twitter企画 ホロスターズお悩み相談まとめ～シーズン2～\nhttps://www.youtube.com/watch?v=VzNMuJ8XV_U
-DURATION:PT2H
-DTSTART:20210702T075916Z
-SUMMARY:ホロスターズ: 【ホロスターズ】Twitter企画 ホロスターズお悩み相談まとめ～シーズン2～
-UID:VzNMuJ8XV_U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:弾き語りの夜【奏手イヅル】\nhttps://www.youtube.com/watch?v=Jn-GFVyWgW4
-DURATION:PT2H
-DTSTART:20210703T140000Z
-SUMMARY:🎸奏手イヅル: 弾き語りの夜【奏手イヅル】
-UID:Jn-GFVyWgW4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:『Karaoke/歌枠』もう7月って信じてるやつ、いる？  /  アステル・レダ\nhttps://www.youtube.com/watch?v=acYdEuiSbUM
-DURATION:PT2H
-DTSTART:20210702T143000Z
-SUMMARY:🎭アステル・レダ: 『Karaoke/歌枠』もう7月って信じてるやつ、いる？  /  アステル・レダ
-UID:acYdEuiSbUM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【3D配信枠】脱出せよ！！囚われのロベ律【律可/夕刻ロベル/ホロスターズ】＃ロべ律3D\nhttps://www.youtube.com/watch?v=xFEsnU3AdyE
-DURATION:PT2H
-DTSTART:20210702T110000Z
-SUMMARY:⚙律可: 【3D配信枠】脱出せよ！！囚われのロベ律【律可/夕刻ロベル/ホロスターズ】＃ロべ律3D
-UID:xFEsnU3AdyE
 END:VEVENT
 END:VCALENDAR
