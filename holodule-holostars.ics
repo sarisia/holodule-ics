@@ -4,34 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【APEX】レイスでハンマーチャレンジ!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=7GnpxH1Bgrg
-DURATION:PT2H
-DTSTART:20210703T063000Z
-SUMMARY:🦔💨岸堂天真: 【APEX】レイスでハンマーチャレンジ!!【岸堂天真/ホロスターズ】
-UID:7GnpxH1Bgrg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【REIGNITE CUP】今日が本番!!  /  アステル bosna 長尾景\nhttps://www.youtube.com/watch?v=mFygYTGnhSA
-DURATION:PT2H
-DTSTART:20210703T081500Z
-SUMMARY:🎭アステル・レダ: 【REIGNITE CUP】今日が本番!!  /  アステル bosna 長尾景
-UID:mFygYTGnhSA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Apex Legends】#RIGCUP 本番 #撃たないでくださいWIN【成瀬鳴/律可/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=d0-sY1rIOd0
-DURATION:PT2H
-DTSTART:20210703T082000Z
-SUMMARY:🍕アルランディス: 【Apex Legends】#RIGCUP 本番 #撃たないでくださいWIN【成瀬鳴/律可/アルランディス/ホロスターズ】
-UID:d0-sY1rIOd0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#RIGCUP【APEX LEGENDS】REIGNITE CUP当日！#撃たないでくださいWIN【律可/成瀬鳴/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=9zxPgkkFdmI
-DURATION:PT2H
-DTSTART:20210703T082000Z
-SUMMARY:⚙律可: #RIGCUP【APEX LEGENDS】REIGNITE CUP当日！#撃たないでくださいWIN【律可/成瀬鳴/アルランディス/ホロスターズ】
-UID:9zxPgkkFdmI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】アイドルってなんだろうなぁ。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=CE1EhSQbZeQ
 DURATION:PT2H
 DTSTART:20210703T130000Z
@@ -46,6 +18,20 @@ SUMMARY:🎸奏手イヅル: 弾き語りの夜【奏手イヅル】
 UID:Jn-GFVyWgW4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【APEX】レイスでハンマーチャレンジ!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=7GnpxH1Bgrg
+DURATION:PT2H
+DTSTART:20210703T063000Z
+SUMMARY:🦔💨岸堂天真: 【APEX】レイスでハンマーチャレンジ!!【岸堂天真/ホロスターズ】
+UID:7GnpxH1Bgrg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【REIGNITE CUP】今日が本番!!  /  アステル bosna 長尾景\nhttps://www.youtube.com/watch?v=mFygYTGnhSA
+DURATION:PT2H
+DTSTART:20210703T081500Z
+SUMMARY:🎭アステル・レダ: 【REIGNITE CUP】今日が本番!!  /  アステル bosna 長尾景
+UID:mFygYTGnhSA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft 1.17】青ウーパールーパー繁殖日誌【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=2_iFlD0VMMw
 DURATION:PT2H
 DTSTART:20210703T145500Z
@@ -53,10 +39,17 @@ SUMMARY:🍕アルランディス: 【Minecraft 1.17】青ウーパールーパ�
 UID:2_iFlD0VMMw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【7/4】運動したし風呂も入ったしあとは雑談して寝るだけ【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=edgqNvHkrmk
+DESCRIPTION:【Apex Legends】#RIGCUP 本番 #撃たないでくださいWIN【成瀬鳴/律可/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=d0-sY1rIOd0
 DURATION:PT2H
-DTSTART:20210703T160000Z
-SUMMARY:荒咬オウガ: 【7/4】運動したし風呂も入ったしあとは雑談して寝るだけ【荒咬オウガ/ホロスターズ】
-UID:edgqNvHkrmk
+DTSTART:20210703T082000Z
+SUMMARY:🍕アルランディス: 【Apex Legends】#RIGCUP 本番 #撃たないでくださいWIN【成瀬鳴/律可/アルランディス/ホロスターズ】
+UID:d0-sY1rIOd0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#RIGCUP【APEX LEGENDS】REIGNITE CUP当日！#撃たないでくださいWIN【律可/成瀬鳴/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=9zxPgkkFdmI
+DURATION:PT2H
+DTSTART:20210703T082000Z
+SUMMARY:⚙律可: #RIGCUP【APEX LEGENDS】REIGNITE CUP当日！#撃たないでくださいWIN【律可/成瀬鳴/アルランディス/ホロスターズ】
+UID:9zxPgkkFdmI
 END:VEVENT
 END:VCALENDAR
