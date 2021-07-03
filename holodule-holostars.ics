@@ -4,6 +4,27 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【＃アラボ 】ハトの首筋見たことある？ -ARN's Lab-【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=m4xNOHdPVLI
+DURATION:PT2H
+DTSTART:20210702T130000Z
+SUMMARY:🍕アルランディス: 【＃アラボ 】ハトの首筋見たことある？ -ARN's Lab-【アルランディス/ホロスターズ】
+UID:m4xNOHdPVLI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メン限】少しディープな雑談【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=NcIjDQhMilQ
+DURATION:PT2H
+DTSTART:20210703T090000Z
+SUMMARY:🍷夕刻ロベル: 【メン限】少しディープな雑談【ホロスターズ/夕刻ロベル】
+UID:NcIjDQhMilQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Dead by Daylight】5周年おめでとー!!あと僕90000人おめでとー!!【 岸堂天真 /ホロスターズ】\nhttps://www.youtube.com/watch?v=hSBLIu7CyAk
+DURATION:PT2H
+DTSTART:20210702T060000Z
+SUMMARY:🦔💨岸堂天真: 【Dead by Daylight】5周年おめでとー!!あと僕90000人おめでとー!!【 岸堂天真 /ホロスターズ】
+UID:hSBLIu7CyAk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－おら！！！朝だぞ！！！！－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=TyTYi9NqFZo
 DURATION:PT2H
 DTSTART:20210702T010000Z
@@ -25,20 +46,6 @@ SUMMARY:ホロスターズ: 【ホロスターズ】Twitter企画 ホロスタ�
 UID:VzNMuJ8XV_U
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【3D配信枠】脱出せよ！！囚われのロベ律【律可/夕刻ロベル/ホロスターズ】＃ロべ律3D\nhttps://www.youtube.com/watch?v=xFEsnU3AdyE
-DURATION:PT2H
-DTSTART:20210702T110000Z
-SUMMARY:⚙律可: 【3D配信枠】脱出せよ！！囚われのロベ律【律可/夕刻ロベル/ホロスターズ】＃ロべ律3D
-UID:xFEsnU3AdyE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【＃アラボ 】ハトの首筋見たことある？ -ARN's Lab-【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=m4xNOHdPVLI
-DURATION:PT2H
-DTSTART:20210702T130000Z
-SUMMARY:🍕アルランディス: 【＃アラボ 】ハトの首筋見たことある？ -ARN's Lab-【アルランディス/ホロスターズ】
-UID:m4xNOHdPVLI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:『Karaoke/歌枠』もう7月って信じてるやつ、いる？  /  アステル・レダ\nhttps://www.youtube.com/watch?v=acYdEuiSbUM
 DURATION:PT2H
 DTSTART:20210702T143000Z
@@ -46,10 +53,10 @@ SUMMARY:🎭アステル・レダ: 『Karaoke/歌枠』もう7月って信じて
 UID:acYdEuiSbUM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Dead by Daylight】5周年おめでとー!!あと僕90000人おめでとー!!【 岸堂天真 /ホロスターズ】\nhttps://www.youtube.com/watch?v=hSBLIu7CyAk
+DESCRIPTION:【3D配信枠】脱出せよ！！囚われのロベ律【律可/夕刻ロベル/ホロスターズ】＃ロべ律3D\nhttps://www.youtube.com/watch?v=xFEsnU3AdyE
 DURATION:PT2H
-DTSTART:20210702T060000Z
-SUMMARY:🦔💨岸堂天真: 【Dead by Daylight】5周年おめでとー!!あと僕90000人おめでとー!!【 岸堂天真 /ホロスターズ】
-UID:hSBLIu7CyAk
+DTSTART:20210702T110000Z
+SUMMARY:⚙律可: 【3D配信枠】脱出せよ！！囚われのロベ律【律可/夕刻ロベル/ホロスターズ】＃ロべ律3D
+UID:xFEsnU3AdyE
 END:VEVENT
 END:VCALENDAR
