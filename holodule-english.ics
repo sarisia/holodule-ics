@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】 The Adventure is Out There!!!\nhttps://www.youtube.com/watch?v=JSSXp8VVkBU
+DURATION:PT2H
+DTSTART:20210703T230000Z
+SUMMARY:Ina: 【Minecraft】 The Adventure is Out There!!!
+UID:JSSXp8VVkBU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【UNARCHIVED】Let's Sing!\nhttps://www.youtube.com/watch?v=agAgp82O7DE
 DURATION:PT2H
 DTSTART:20210705T010000Z
 SUMMARY:Amelia: 【UNARCHIVED】Let's Sing!
 UID:agAgp82O7DE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Paladins】Challenge Stream! [ES/JP ONLY]\nhttps://www.youtube.com/watch?v=3qjHreL-ViA
+DURATION:PT2H
+DTSTART:20210704T020500Z
+SUMMARY:Amelia: 【Paladins】Challenge Stream! [ES/JP ONLY]
+UID:3qjHreL-ViA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[DBD] funny small humans run from big scary shark\nhttps://www.youtube.com/watch?v=Qa7WRAfGIQg
@@ -18,17 +32,10 @@ SUMMARY:Gura: [DBD] funny small humans run from big scary shark
 UID:Qa7WRAfGIQg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】 The Adventure is Out There!!!\nhttps://www.youtube.com/watch?v=JSSXp8VVkBU
+DESCRIPTION:【TALES OF ARISE】Ambassador Ceremony & Exclusive Info and Footage! #TalesOfArise #kfp #キアライブ\nhttps://www.youtube.com/watch?v=vCnP_I4qQnk
 DURATION:PT2H
-DTSTART:20210703T230000Z
-SUMMARY:Ina: 【Minecraft】 The Adventure is Out There!!!
-UID:JSSXp8VVkBU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Paladins】Challenge Stream! [ES/JP ONLY]\nhttps://www.youtube.com/watch?v=3qjHreL-ViA
-DURATION:PT2H
-DTSTART:20210704T020500Z
-SUMMARY:Amelia: 【Paladins】Challenge Stream! [ES/JP ONLY]
-UID:3qjHreL-ViA
+DTSTART:20210705T140000Z
+SUMMARY:Kiara: 【TALES OF ARISE】Ambassador Ceremony & Exclusive Info and Footage! #TalesOfArise #kfp #キアライブ
+UID:vCnP_I4qQnk
 END:VEVENT
 END:VCALENDAR
