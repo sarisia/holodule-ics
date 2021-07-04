@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【 歌 sing /重大発表 】コラボカフェの情報解禁&告知あり！Collabo Café & ??? announcement【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=TBuUPdcp6Fw
+DURATION:PT2H
+DTSTART:20210704T110000Z
+SUMMARY:🌸さくらみこ: 【 歌 sing /重大発表 】コラボカフェの情報解禁&告知あり！Collabo Café & ??? announcement【ホロライブ/さくらみこ】
+UID:TBuUPdcp6Fw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【同時視聴】ジョン・ウィック3:パラベラム/John Wick 3 Parabellum 【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=o-XHJv7vaK0
 DURATION:PT2H
 DTSTART:20210703T130000Z
@@ -72,13 +79,6 @@ DURATION:PT2H
 DTSTART:20210703T081500Z
 SUMMARY:🎭アステル・レダ: 【REIGNITE CUP】今日が本番!!  /  アステル bosna 長尾景
 UID:mFygYTGnhSA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【囚われのパルマ】捕まったのか・・・俺以外のヤツに・・・ #5【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=3OvrVcmM2YU
-DURATION:PT2H
-DTSTART:20210704T123000Z
-SUMMARY:影山シエン: 【囚われのパルマ】捕まったのか・・・俺以外のヤツに・・・ #5【影山シエン/ホロスターズ】
-UID:3OvrVcmM2YU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【モンスターハンターライズ】久しぶりに一狩り行くよ！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=FrFEsG9Ci3g
@@ -235,10 +235,10 @@ SUMMARY:Amelia: 【Mario 64】So Long Bowser!
 UID:9rCRhTrEpDE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Minecraft 】げりーら【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=SJ5vyXn0ZZM
+DESCRIPTION:【 Minecraft 】不知火建設事務所へ･･･出勤にぇ！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=SJ5vyXn0ZZM
 DURATION:PT2H
 DTSTART:20210704T143000Z
-SUMMARY:🌸さくらみこ: 【 Minecraft 】げりーら【ホロライブ/さくらみこ】
+SUMMARY:🌸さくらみこ: 【 Minecraft 】不知火建設事務所へ･･･出勤にぇ！【ホロライブ/さくらみこ】
 UID:SJ5vyXn0ZZM
 END:VEVENT
 BEGIN:VEVENT
@@ -354,11 +354,11 @@ SUMMARY:Reine: #7【YABE S2】My Cooking-related Dreams【hololiveID 2nd gen】
 UID:4lK3YmnuIqo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【今帰った】帰宅1分で即配信【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=g_EUnxYzfxQ
+DESCRIPTION:【Minecraft 1.17】青ウーパールーパー繁殖日誌の続き【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=n9BgpmhsdqM
 DURATION:PT2H
-DTSTART:20210704T120000Z
-SUMMARY:🏴☠宝鐘マリン: 【今帰った】帰宅1分で即配信【ホロライブ/宝鐘マリン】
-UID:g_EUnxYzfxQ
+DTSTART:20210704T153000Z
+SUMMARY:🍕アルランディス: 【Minecraft 1.17】青ウーパールーパー繁殖日誌の続き【アルランディス/ホロスターズ】
+UID:n9BgpmhsdqM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】しょうもない話が一番おもろいよな👆 / Chitchat【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=LBleV0ELYVo
