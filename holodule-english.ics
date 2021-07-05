@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【WATCHALONG】Airplane! (Tuesday Reschedule)\nhttps://www.youtube.com/watch?v=Hrse0RUygcE
+DURATION:PT2H
+DTSTART:20210707T010000Z
+SUMMARY:Amelia: 【WATCHALONG】Airplane! (Tuesday Reschedule)
+UID:Hrse0RUygcE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【TALES OF ARISE】Ambassador Ceremony & Exclusive Info and Footage! #TalesOfArise #kfp #キアライブ\nhttps://www.youtube.com/watch?v=vCnP_I4qQnk
 DURATION:PT2H
 DTSTART:20210705T140000Z
@@ -18,10 +25,10 @@ SUMMARY:Amelia: 【Planet Zoo】Welcome to Hell!
 UID:4ogOQ5EnJn0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【WATCHALONG】Airplane! (Tuesday Reschedule)\nhttps://www.youtube.com/watch?v=Hrse0RUygcE
+DESCRIPTION:[NIGHT DELIVERY] shark in the box\nhttps://www.youtube.com/watch?v=2k8LP0hKyr0
 DURATION:PT2H
-DTSTART:20210707T010000Z
-SUMMARY:Amelia: 【WATCHALONG】Airplane! (Tuesday Reschedule)
-UID:Hrse0RUygcE
+DTSTART:20210706T000000Z
+SUMMARY:Gura: [NIGHT DELIVERY] shark in the box
+UID:2k8LP0hKyr0
 END:VEVENT
 END:VCALENDAR
