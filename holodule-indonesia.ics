@@ -4,27 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【HololiveID】KUUKIYOMI 3 : Consider it Father to Son ??? Are you winning son ???【Ayunda Risu】\nhttps://www.youtube.com/watch?v=Sf3nAQ5OPiE
-DURATION:PT2H
-DTSTART:20210705T130000Z
-SUMMARY:🐿Risu: 【HololiveID】KUUKIYOMI 3 : Consider it Father to Son ??? Are you winning son ???【Ayunda Risu】
-UID:Sf3nAQ5OPiE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Senin Produktif 】KIRA KIRA MONDAY! SSR GACHA PLEASE COME!【 #ioPrompts\nhttps://www.youtube.com/watch?v=78GBeqmVmN0
-DURATION:PT2H
-DTSTART:20210705T130000Z
-SUMMARY:🎨Iofi: 【 Senin Produktif 】KIRA KIRA MONDAY! SSR GACHA PLEASE COME!【 #ioPrompts
-UID:78GBeqmVmN0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Freetalk】Asa with Moona!【#MoonA_Live】\nhttps://www.youtube.com/watch?v=sp-aDdSqIac
-DURATION:PT2H
-DTSTART:20210706T000000Z
-SUMMARY:🔮Moona: 【Freetalk】Asa with Moona!【#MoonA_Live】
-UID:sp-aDdSqIac
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】NEW PROJECT!! LET'S MAKE AN OLLIE STATUE!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=s96K6fM5VKc
 DURATION:PT2H
 DTSTART:20210705T082741Z
@@ -32,11 +11,11 @@ SUMMARY:Ollie: 【MINECRAFT】NEW PROJECT!! LET'S MAKE AN OLLIE STATUE!!【Holol
 UID:s96K6fM5VKc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】pewpewpew with Choco-sensei【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=jNMqySZxn-s
+DESCRIPTION:【Yakuza 0】Continue Yakuza again!【SPOILER ALERT】\nhttps://www.youtube.com/watch?v=4I9Ysv4cPuI
 DURATION:PT2H
-DTSTART:20210705T110000Z
-SUMMARY:Reine: 【APEX】pewpewpew with Choco-sensei【hololiveID 2nd gen】
-UID:jNMqySZxn-s
+DTSTART:20210705T120000Z
+SUMMARY:🔮Moona: 【Yakuza 0】Continue Yakuza again!【SPOILER ALERT】
+UID:4I9Ysv4cPuI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX LEGENDS】WHY HELLO THERE【Hololive ID Generasi 2】\nhttps://www.youtube.com/watch?v=nMNLLPVqTUo
@@ -51,5 +30,33 @@ DURATION:PT2H
 DTSTART:20210706T083000Z
 SUMMARY:Ollie: 【LIE DETECTOR】WHAT IS TRUE AND WHAT IS FALSE???【Hololive Indonesia 2nd Gen】
 UID:psv_-7nFnXQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HololiveID】KUUKIYOMI 3 : Consider it Father to Son ??? Are you winning son ???【Ayunda Risu】\nhttps://www.youtube.com/watch?v=Sf3nAQ5OPiE
+DURATION:PT2H
+DTSTART:20210705T130000Z
+SUMMARY:🐿Risu: 【HololiveID】KUUKIYOMI 3 : Consider it Father to Son ??? Are you winning son ???【Ayunda Risu】
+UID:Sf3nAQ5OPiE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Freetalk】Asa with Moona!【#MoonA_Live】\nhttps://www.youtube.com/watch?v=sp-aDdSqIac
+DURATION:PT2H
+DTSTART:20210706T000000Z
+SUMMARY:🔮Moona: 【Freetalk】Asa with Moona!【#MoonA_Live】
+UID:sp-aDdSqIac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Senin Produktif 】KIRA KIRA MONDAY! SSR GACHA PLEASE COME!【 #ioPrompts\nhttps://www.youtube.com/watch?v=78GBeqmVmN0
+DURATION:PT2H
+DTSTART:20210705T130000Z
+SUMMARY:🎨Iofi: 【 Senin Produktif 】KIRA KIRA MONDAY! SSR GACHA PLEASE COME!【 #ioPrompts
+UID:78GBeqmVmN0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】pewpewpew with Choco-sensei【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=jNMqySZxn-s
+DURATION:PT2H
+DTSTART:20210705T110000Z
+SUMMARY:Reine: 【APEX】pewpewpew with Choco-sensei【hololiveID 2nd gen】
+UID:jNMqySZxn-s
 END:VEVENT
 END:VCALENDAR
