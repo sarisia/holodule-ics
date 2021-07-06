@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【STUDY】Chit Chat and Duolingo Part22【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=3kXNwIKrNJg
+DURATION:PT2H
+DTSTART:20210706T230000Z
+SUMMARY:🦔💨岸堂天真: 【STUDY】Chit Chat and Duolingo Part22【岸堂天真/ホロスターズ】
+UID:3kXNwIKrNJg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－昨日も色々なことがあったなぁと振り返る配信－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=sfkCfP08cpM
 DURATION:PT2H
 DTSTART:20210706T010000Z
@@ -18,18 +25,25 @@ SUMMARY:🎭アステル・レダ: 【APEX】バーチャルゴリラカスタ�
 UID:8HM3fMGJLOc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【切り抜き動画】FallGuysプラべマッチで両大将の見にくい部分が全部見れました【岸堂天真/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=rpQvM8MxGLI
-DURATION:PT2H
-DTSTART:20210706T083011Z
-SUMMARY:🍕アルランディス: 【切り抜き動画】FallGuysプラべマッチで両大将の見にくい部分が全部見れました【岸堂天真/アルランディス/ホロスターズ】
-UID:rpQvM8MxGLI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Ultimate Chicken Horse】なんだこれ！戦うんか！！やってやるよ！！【アル律花岸 /ホロスターズ】\nhttps://www.youtube.com/watch?v=I_mpDqAztoI
 DURATION:PT2H
 DTSTART:20210706T120000Z
 SUMMARY:🦔💨岸堂天真: 【Ultimate Chicken Horse】なんだこれ！戦うんか！！やってやるよ！！【アル律花岸 /ホロスターズ】
 UID:I_mpDqAztoI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ピカッとわラベル】紳士のスポーツで交流を図る我々【夕刻ロベル/伊東ライフ/天野ピカミィ/鬼灯わらべ】\nhttps://www.youtube.com/watch?v=oLGQcTWA5fw
+DURATION:PT2H
+DTSTART:20210706T123000Z
+SUMMARY:🍷夕刻ロベル: 【#ピカッとわラベル】紳士のスポーツで交流を図る我々【夕刻ロベル/伊東ライフ/天野ピカミィ/鬼灯わらべ】
+UID:oLGQcTWA5fw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【切り抜き動画】FallGuysプラべマッチで両大将の見にくい部分が全部見れました【岸堂天真/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=rpQvM8MxGLI
+DURATION:PT2H
+DTSTART:20210706T083011Z
+SUMMARY:🍕アルランディス: 【切り抜き動画】FallGuysプラべマッチで両大将の見にくい部分が全部見れました【岸堂天真/アルランディス/ホロスターズ】
+UID:rpQvM8MxGLI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft 1.17】青ウーパーのその先へ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Zyq2ygLZvXw
@@ -44,12 +58,5 @@ DURATION:PT2H
 DTSTART:20210705T160000Z
 SUMMARY:荒咬オウガ: 【7/6】運動したし風呂も入ったしあとは雑談して寝るだけ【荒咬オウガ/ホロスターズ】
 UID:E8wZLUD47eo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ピカッとわラベル】紳士のスポーツで交流を図る我々【夕刻ロベル/伊東ライフ/天野ピカミィ/鬼灯わらべ】\nhttps://www.youtube.com/watch?v=oLGQcTWA5fw
-DURATION:PT2H
-DTSTART:20210706T123000Z
-SUMMARY:🍷夕刻ロベル: 【#ピカッとわラベル】紳士のスポーツで交流を図る我々【夕刻ロベル/伊東ライフ/天野ピカミィ/鬼灯わらべ】
-UID:oLGQcTWA5fw
 END:VEVENT
 END:VCALENDAR
