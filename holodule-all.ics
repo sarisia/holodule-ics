@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】🍑ウパガチャししろん🍑【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=9RC-TYPkcCk
-DURATION:PT2H
-DTSTART:20210707T130000Z
-SUMMARY:桃鈴ねね: 【Minecraft】🍑ウパガチャししろん🍑【桃鈴ねね/ホロライブ】
-UID:9RC-TYPkcCk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【告知枠】俺と皆の願いを叶えよう【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=gXeuw7MUjy4
 DURATION:PT2H
 DTSTART:20210707T130000Z
@@ -172,11 +165,11 @@ SUMMARY:🐏角巻わため: 【Operation: Tango】#2 いくぞ！Fox...！！�
 UID:fgfntBtzGaA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【PAON パオン】象【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=jy7qZoMwz6g
+DESCRIPTION:【#叶えてころさん】七夕なので、天女が願い事を聞きに来ました！！【ホロライブ/戌神ころね】\nhttps://www.youtube.com/watch?v=VLhgs-OXc8o
 DURATION:PT2H
 DTSTART:20210707T140000Z
-SUMMARY:🍕アルランディス: 【PAON パオン】象【アルランディス/ホロスターズ】
-UID:jy7qZoMwz6g
+SUMMARY:🥐戌神ころね: 【#叶えてころさん】七夕なので、天女が願い事を聞きに来ました！！【ホロライブ/戌神ころね】
+UID:VLhgs-OXc8o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マインクラフト/Minecraft】まったり建築するでぃ！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=1YWLHjdurw8
@@ -184,6 +177,13 @@ DURATION:PT2H
 DTSTART:20210707T130000Z
 SUMMARY:🔥不知火フレア: 【マインクラフト/Minecraft】まったり建築するでぃ！【不知火フレア/ホロライブ】
 UID:1YWLHjdurw8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PAON パオン】象【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=jy7qZoMwz6g
+DURATION:PT2H
+DTSTART:20210707T140000Z
+SUMMARY:🍕アルランディス: 【PAON パオン】象【アルランディス/ホロスターズ】
+UID:jy7qZoMwz6g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#Vのアモアス【Among US】VとVが集まる七夕の夜【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=PQXqMagTFp4
