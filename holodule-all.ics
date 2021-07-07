@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:sweet night\, sweet time…／角巻わため【オリジナル曲】\nhttps://www.youtube.com/watch?v=B3rZm2cN5ZY
+DURATION:PT2H
+DTSTART:20210709T110000Z
+SUMMARY:🐏角巻わため: sweet night\, sweet time…／角巻わため【オリジナル曲】
+UID:B3rZm2cN5ZY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】🍑ウパガチャししろん🍑【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=9RC-TYPkcCk
+DURATION:PT2H
+DTSTART:20210707T130000Z
+SUMMARY:桃鈴ねね: 【Minecraft】🍑ウパガチャししろん🍑【桃鈴ねね/ホロライブ】
+UID:9RC-TYPkcCk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【告知枠】俺と皆の願いを叶えよう【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=gXeuw7MUjy4
 DURATION:PT2H
 DTSTART:20210707T130000Z
@@ -60,11 +74,11 @@ SUMMARY:🍕アルランディス: 【Minecraft 1.17】青ウーパーのその�
 UID:Zyq2ygLZvXw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【The Henry Stickmin Collection】surely nothing will go wrong in this funny game【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=6gt3ItLxZAk
+DESCRIPTION:【モンスターハンターライズ】高難度ソロ挑戦する！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=nZDIFODPfvo
 DURATION:PT2H
-DTSTART:20210707T110000Z
-SUMMARY:Reine: 【The Henry Stickmin Collection】surely nothing will go wrong in this funny game【hololiveID 2nd gen】
-UID:6gt3ItLxZAk
+DTSTART:20210708T000000Z
+SUMMARY:雪花ラミィ: 【モンスターハンターライズ】高難度ソロ挑戦する！！【雪花ラミィ/ホロライブ】
+UID:nZDIFODPfvo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【WATCHALONG】Airplane!\nhttps://www.youtube.com/watch?v=Hrse0RUygcE
@@ -81,25 +95,11 @@ SUMMARY:ホロライブ: ホロライブ告知ポスター王決定戦!【 #ホ�
 UID:PCwJln5gHdw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【モンスターハンターライズ】高難度ソロ挑戦する！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=nZDIFODPfvo
-DURATION:PT2H
-DTSTART:20210708T000000Z
-SUMMARY:雪花ラミィ: 【モンスターハンターライズ】高難度ソロ挑戦する！！【雪花ラミィ/ホロライブ】
-UID:nZDIFODPfvo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【eBASEBALL プロ野球スピリッツ2021 グランドスラム】スタープレイヤーとペナントをする【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=LQ3ljenlVEw
 DURATION:PT2H
 DTSTART:20210707T040000Z
 SUMMARY:🍷夕刻ロベル: 【eBASEBALL プロ野球スピリッツ2021 グランドスラム】スタープレイヤーとペナントをする【ホロスターズ/夕刻ロベル】
 UID:LQ3ljenlVEw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BIOHAZARD RE:2】初見！ヤバイやつがいてやばいお！！！！【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=9wwbjx4Z__M
-DURATION:PT2H
-DTSTART:20210707T120000Z
-SUMMARY:🏴☠宝鐘マリン: 【BIOHAZARD RE:2】初見！ヤバイやつがいてやばいお！！！！【ホロライブ/宝鐘マリン】
-UID:9wwbjx4Z__M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DEATH STRANDING】WE'RE BACK\, BABY! With A Literal Baby\, Too.【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=iw_Yf7MCyJA
@@ -135,6 +135,13 @@ DURATION:PT2H
 DTSTART:20210708T110000Z
 SUMMARY:🚑大空スバル: 【料理配信】人生初？！揚げバター作るしゅば！！！！！！！！！！！！/Cooking fried butter First time in my life【】
 UID:v_jVJt5ub1o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メンバー限定配信】開設16ヶ月目！一緒に作業タイム！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=oNDgW7TKFpI
+DURATION:PT2H
+DTSTART:20210708T140000Z
+SUMMARY:🐏角巻わため: 【メンバー限定配信】開設16ヶ月目！一緒に作業タイム！【角巻わため/ホロライブ４期生】
+UID:oNDgW7TKFpI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #漢気AmongUs 】理論だぁ!?!?!知らねぇ!!!必要なのはパッションだよ!!!【アルランディス視点/ホロスターズ】\nhttps://www.youtube.com/watch?v=M72Wnt6MAXo
@@ -284,10 +291,10 @@ SUMMARY:獅白ぼたん: 【Minecraft】青ウーパーガチャvs物欲セン�
 UID:cCLiKwdyjDk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【】企画/planning【】\nhttps://www.youtube.com/watch?v=N16A2XNu0L4
+DESCRIPTION:【】第２回大空警察しゅばあああああああああああああ/OOZORA POLICE【】\nhttps://www.youtube.com/watch?v=N16A2XNu0L4
 DURATION:PT2H
-DTSTART:20210709T110000Z
-SUMMARY:🚑大空スバル: 【】企画/planning【】
+DTSTART:20210709T120000Z
+SUMMARY:🚑大空スバル: 【】第２回大空警察しゅばあああああああああああああ/OOZORA POLICE【】
 UID:N16A2XNu0L4
 END:VEVENT
 BEGIN:VEVENT
