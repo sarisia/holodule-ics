@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【DEATH STRANDING】WE'RE BACK\, BABY! With A Literal Baby\, Too.【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=iw_Yf7MCyJA
+DESCRIPTION:【SPOILER ALERT】#1 Story of Seasons : Friends of Mineral Town【Ayunda Risu】\nhttps://www.youtube.com/watch?v=rTmxAg9Erac
 DURATION:PT2H
-DTSTART:20210709T140000Z
-SUMMARY:Anya: 【DEATH STRANDING】WE'RE BACK\, BABY! With A Literal Baby\, Too.【hololive Indonesia 2nd Generation】
-UID:iw_Yf7MCyJA
+DTSTART:20210707T080000Z
+SUMMARY:🐿Risu: 【SPOILER ALERT】#1 Story of Seasons : Friends of Mineral Town【Ayunda Risu】
+UID:rTmxAg9Erac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Miitopia】Finishing the holoID Gang TODAY!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=jus3Ld6qPqQ
@@ -25,6 +25,13 @@ SUMMARY:Reine: 【The Henry Stickmin Collection】surely nothing will go wrong i
 UID:6gt3ItLxZAk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【HololiveID】DBD Solo queueueueueueue 【Ayunda Risu】\nhttps://www.youtube.com/watch?v=rv7Z73gv8II
+DURATION:PT2H
+DTSTART:20210708T110000Z
+SUMMARY:🐿Risu: 【HololiveID】DBD Solo queueueueueueue 【Ayunda Risu】
+UID:rv7Z73gv8II
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【PUBG】Let's try PUBG Steam!【#GeeMoon】\nhttps://www.youtube.com/watch?v=Fr3g1U5O_2g
 DURATION:PT2H
 DTSTART:20210708T120000Z
@@ -32,10 +39,10 @@ SUMMARY:🔮Moona: 【PUBG】Let's try PUBG Steam!【#GeeMoon】
 UID:Fr3g1U5O_2g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SPOILER ALERT】#1 Story of Seasons : Friends of Mineral Town【Ayunda Risu】\nhttps://www.youtube.com/watch?v=rTmxAg9Erac
+DESCRIPTION:【DEATH STRANDING】WE'RE BACK\, BABY! With A Literal Baby\, Too.【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=iw_Yf7MCyJA
 DURATION:PT2H
-DTSTART:20210707T080000Z
-SUMMARY:🐿Risu: 【SPOILER ALERT】#1 Story of Seasons : Friends of Mineral Town【Ayunda Risu】
-UID:rTmxAg9Erac
+DTSTART:20210709T140000Z
+SUMMARY:Anya: 【DEATH STRANDING】WE'RE BACK\, BABY! With A Literal Baby\, Too.【hololive Indonesia 2nd Generation】
+UID:iw_Yf7MCyJA
 END:VEVENT
 END:VCALENDAR
