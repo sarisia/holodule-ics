@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Terraria】First-Time Play! Going Out Into The Nature(?)【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=oE8x8MFHAeg
+DURATION:PT2H
+DTSTART:20210711T003000Z
+SUMMARY:Anya: 【Terraria】First-Time Play! Going Out Into The Nature(?)【hololive Indonesia 2nd Generation】
+UID:oE8x8MFHAeg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Duolingo - Korean】Studying Korean With The Green Owl's Help!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=kJECSg0PRwk
 DURATION:PT2H
 DTSTART:20210709T070000Z
@@ -11,18 +18,18 @@ SUMMARY:Anya: 【Duolingo - Korean】Studying Korean With The Green Owl's Help!�
 UID:kJECSg0PRwk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Yakuza 0】Will this be the last Yakuza 0 stream?!【SPOILER ALERT】\nhttps://www.youtube.com/watch?v=1ltIaGid9W8
+DURATION:PT2H
+DTSTART:20210709T120000Z
+SUMMARY:🔮Moona: 【Yakuza 0】Will this be the last Yakuza 0 stream?!【SPOILER ALERT】
+UID:1ltIaGid9W8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#8【YABE S2】❤️ First Duet Upload! Talking about Ai Dee Collab ❤️【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=pyHzwIO4SiY
 DURATION:PT2H
 DTSTART:20210710T040000Z
 SUMMARY:Reine: #8【YABE S2】❤️ First Duet Upload! Talking about Ai Dee Collab ❤️【hololiveID 2nd gen】
 UID:pyHzwIO4SiY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DEATH STRANDING】WE'RE BACK\, BABY! With A Literal Baby\, Too.【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=iw_Yf7MCyJA
-DURATION:PT2H
-DTSTART:20210709T140000Z
-SUMMARY:Anya: 【DEATH STRANDING】WE'RE BACK\, BABY! With A Literal Baby\, Too.【hololive Indonesia 2nd Generation】
-UID:iw_Yf7MCyJA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【THE HENRY STICKMIN COLLECTION】THE ADVENTURES OF STICKMIN????【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=u90BHn0noOg
@@ -46,10 +53,10 @@ SUMMARY:Reine: 【Cover】愛Dee (Ai Dee) / Pavolia Reine × Momosuzu Nene
 UID:o_xMgw2j9v8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Terraria】First-Time Play! Going Out Into The Nature(?)【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=oE8x8MFHAeg
+DESCRIPTION:【DEATH STRANDING】WE'RE BACK\, BABY! With A Literal Baby\, Too.【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=iw_Yf7MCyJA
 DURATION:PT2H
-DTSTART:20210711T003000Z
-SUMMARY:Anya: 【Terraria】First-Time Play! Going Out Into The Nature(?)【hololive Indonesia 2nd Generation】
-UID:oE8x8MFHAeg
+DTSTART:20210709T140000Z
+SUMMARY:Anya: 【DEATH STRANDING】WE'RE BACK\, BABY! With A Literal Baby\, Too.【hololive Indonesia 2nd Generation】
+UID:iw_Yf7MCyJA
 END:VEVENT
 END:VCALENDAR
