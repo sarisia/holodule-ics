@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【HOLOTALK】With our 12th guest: NATSUIRO MATSURI!  #HOLOTALK #ホロトーク\nhttps://www.youtube.com/watch?v=MXOhD0jXdWI
-DURATION:PT2H
-DTSTART:20210710T140000Z
-SUMMARY:Kiara: 【HOLOTALK】With our 12th guest: NATSUIRO MATSURI!  #HOLOTALK #ホロトーク
-UID:MXOhD0jXdWI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】AIKOTOBA MONUMENT BUILDING with GURA! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=JgdfUhl32hw
 DURATION:PT2H
 DTSTART:20210709T190000Z
 SUMMARY:Kiara: 【MINECRAFT】AIKOTOBA MONUMENT BUILDING with GURA! #kfp #キアライブ
 UID:JgdfUhl32hw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DEBUT STREAM】Hope has descended! #irysdebutstream\nhttps://www.youtube.com/watch?v=WTU3TIZRUCM
-DURATION:PT2H
-DTSTART:20210711T010000Z
-SUMMARY:IRyS: 【DEBUT STREAM】Hope has descended! #irysdebutstream
-UID:WTU3TIZRUCM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Mario 64】WAHOOOOOOOOOooo o    o                              o             ...\nhttps://www.youtube.com/watch?v=sd79jNyc1lg
@@ -37,6 +23,13 @@ DURATION:PT2H
 DTSTART:20210710T050500Z
 SUMMARY:Amelia: 【Minecraft】Ame Sky Temple
 UID:xop_KX-7Als
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEBUT STREAM】Hope has descended! #irysdebutstream\nhttps://www.youtube.com/watch?v=WTU3TIZRUCM
+DURATION:PT2H
+DTSTART:20210711T010000Z
+SUMMARY:IRyS: 【DEBUT STREAM】Hope has descended! #irysdebutstream
+UID:WTU3TIZRUCM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Mario 64】MAH!\nhttps://www.youtube.com/watch?v=rWWyO4eZ2dw
