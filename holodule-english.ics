@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】AIKOTOBA MONUMENT BUILDING with GURA! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=JgdfUhl32hw
+DESCRIPTION:【HOLOTALK】With our 12th guest: NATSUIRO MATSURI!  #HOLOTALK #ホロトーク\nhttps://www.youtube.com/watch?v=MXOhD0jXdWI
 DURATION:PT2H
-DTSTART:20210709T190000Z
-SUMMARY:Kiara: 【MINECRAFT】AIKOTOBA MONUMENT BUILDING with GURA! #kfp #キアライブ
-UID:JgdfUhl32hw
+DTSTART:20210710T140000Z
+SUMMARY:Kiara: 【HOLOTALK】With our 12th guest: NATSUIRO MATSURI!  #HOLOTALK #ホロトーク
+UID:MXOhD0jXdWI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Mario 64】MAH!\nhttps://www.youtube.com/watch?v=rWWyO4eZ2dw
+DURATION:PT2H
+DTSTART:20210709T220500Z
+SUMMARY:Amelia: 【Mario 64】MAH!
+UID:rWWyO4eZ2dw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】 UPRP UPRP\nhttps://www.youtube.com/watch?v=SIp3OFiYSzA
@@ -18,10 +25,10 @@ SUMMARY:Ina: 【Minecraft】 UPRP UPRP
 UID:SIp3OFiYSzA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】Cute building with Kiara !\nhttps://www.youtube.com/watch?v=qmAeg8CF54w
+DESCRIPTION:【Minecraft】Ame Sky Temple\nhttps://www.youtube.com/watch?v=xop_KX-7Als
 DURATION:PT2H
-DTSTART:20210709T190110Z
-SUMMARY:Gura: 【MINECRAFT】Cute building with Kiara !
-UID:qmAeg8CF54w
+DTSTART:20210710T050500Z
+SUMMARY:Amelia: 【Minecraft】Ame Sky Temple
+UID:xop_KX-7Als
 END:VEVENT
 END:VCALENDAR
