@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【歌ってみた】予測可能な選曲がループ歌枠/singing anime songs KARAOKE【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=Bp6Xda-E0Mk
+DURATION:PT2H
+DTSTART:20210711T120000Z
+SUMMARY:🏴☠宝鐘マリン: 【歌ってみた】予測可能な選曲がループ歌枠/singing anime songs KARAOKE【ホロライブ/宝鐘マリン】
+UID:Bp6Xda-E0Mk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【モンハンライズ】視聴者参加型！！クエスト大量クリア【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=SLBoyeAy7SE
 DURATION:PT2H
 DTSTART:20210711T060000Z
@@ -23,6 +30,13 @@ DURATION:PT2H
 DTSTART:20210711T050000Z
 SUMMARY:獅白ぼたん: 【Minecraft】青ウーパーガチャ・ザ・ラストエピソード ～ファイナルガチラスト～【獅白ぼたん/ホロライブ】
 UID:UE_yP8uE9nE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:おはようの会\nhttps://www.youtube.com/watch?v=2rs5PDzkUzU
+DURATION:PT2H
+DTSTART:20210711T210000Z
+SUMMARY:🥐戌神ころね: おはようの会
+UID:2rs5PDzkUzU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Blue Axolotl:ホロ鯖の青うぱをどんどん増やす【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=Z7misImyaQ0
@@ -95,25 +109,11 @@ SUMMARY:🤖ロボ子さん: 【Dead by Daylight】ちょこ先生＆巴さん�
 UID:FcYEKdJEj4s
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#おかころ】ストレッチャーズで２人の絆を試す！！！【オフコラボ】\nhttps://www.youtube.com/watch?v=-m99V1-rikg
-DURATION:PT2H
-DTSTART:20210711T120000Z
-SUMMARY:🥐戌神ころね: 【#おかころ】ストレッチャーズで２人の絆を試す！！！【オフコラボ】
-UID:-m99V1-rikg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【アニメ】これが地上波で流れたってマジ？【地上波CM記念】\nhttps://www.youtube.com/watch?v=r7vQrteO1SM
 DURATION:PT2H
 DTSTART:20210711T120015Z
 SUMMARY:ホロライブ: 【アニメ】これが地上波で流れたってマジ？【地上波CM記念】
 UID:r7vQrteO1SM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ある計画の準備を･･･するにぇ！！！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=RProuLInEaw
-DURATION:PT2H
-DTSTART:20210711T130000Z
-SUMMARY:🌸さくらみこ: 【Minecraft】ある計画の準備を･･･するにぇ！！！！！！【ホロライブ/さくらみこ】
-UID:RProuLInEaw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【耐久歌枠】70万人まで楽しく歌い続ける💐singing stream【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=s-__wHn2L-w
