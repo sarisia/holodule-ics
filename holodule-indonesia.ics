@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#MoonUtau】Live singing Night!【UNARCHIVE】\nhttps://www.youtube.com/watch?v=xYcRl17iEJM
-DURATION:PT2H
-DTSTART:20210713T120000Z
-SUMMARY:🔮Moona: 【#MoonUtau】Live singing Night!【UNARCHIVE】
-UID:xYcRl17iEJM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Misao: Definitive Edition】Let's go for 100% run!!! (No More Chores Celebration)【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=uxKik0E9REo
 DURATION:PT2H
 DTSTART:20210713T133000Z
@@ -25,17 +18,17 @@ SUMMARY:Ollie: 【APEX LEGENDS】THANK YOU 700K\, LET'S GET 7̶0̶   7 KILLS!!!�
 UID:3xine1rSslE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Senin Produktif 】♡ WA ♡ KI ♡ PART ♡ 2 ♡ 【 #ioPrompts 】\nhttps://www.youtube.com/watch?v=kQ_Si8G2k8c
-DURATION:PT2H
-DTSTART:20210712T130000Z
-SUMMARY:🎨Iofi: 【 Senin Produktif 】♡ WA ♡ KI ♡ PART ♡ 2 ♡ 【 #ioPrompts 】
-UID:kQ_Si8G2k8c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【THANK YOUUUU】700K COUNTDOWN!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=Ma7jdlmcPvs
 DURATION:PT2H
 DTSTART:20210713T040508Z
 SUMMARY:Ollie: 【THANK YOUUUU】700K COUNTDOWN!!【Hololive Indonesia 2nd Gen】
 UID:Ma7jdlmcPvs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Senin Produktif 】♡ WA ♡ KI ♡ PART ♡ 2 ♡ 【 #ioPrompts 】\nhttps://www.youtube.com/watch?v=kQ_Si8G2k8c
+DURATION:PT2H
+DTSTART:20210712T130000Z
+SUMMARY:🎨Iofi: 【 Senin Produktif 】♡ WA ♡ KI ♡ PART ♡ 2 ♡ 【 #ioPrompts 】
+UID:kQ_Si8G2k8c
 END:VEVENT
 END:VCALENDAR
