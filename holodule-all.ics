@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【APEX】FFL SELeCT CUP / カスタム練習最終日！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=KOAYVYCmWkM
+DURATION:PT2H
+DTSTART:20210716T130000Z
+SUMMARY:🏮夏色まつり: 【APEX】FFL SELeCT CUP / カスタム練習最終日！【ホロライブ/夏色まつり】
+UID:KOAYVYCmWkM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】FFL SELeCT CUP / 顔合わせ＆カスタム2日目！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=71ItRFQUyic
 DURATION:PT2H
 DTSTART:20210715T130000Z
@@ -58,13 +65,6 @@ DURATION:PT2H
 DTSTART:20210716T060000Z
 SUMMARY:IRyS: 【Singing】Very First Karaoke Party♪
 UID:XGzuTH_-dIU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#生スバル】Gartic Phoneやるしゅばああああああああああ！！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=VVwA6mYHhug
-DURATION:PT2H
-DTSTART:20210716T110000Z
-SUMMARY:🚑大空スバル: 【#生スバル】Gartic Phoneやるしゅばああああああああああ！！！【ホロライブ/大空スバル】
-UID:VVwA6mYHhug
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【THE HENRY STICKMIN COLLECTION】what is this game i wonder #HololiveEnglish\nhttps://www.youtube.com/watch?v=5KBIVo93LyM
@@ -445,6 +445,13 @@ SUMMARY:⚔白銀ノエル: 【ドラクエ11S】ぺこらVSノエル ！カジ�
 UID:UXGkTNCIBbQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:７７７７７７人を見守って騒ぐ会\nhttps://www.youtube.com/watch?v=TrWo8ujgUzM
+DURATION:PT2H
+DTSTART:20210716T112500Z
+SUMMARY:🌲大神ミオ: ７７７７７７人を見守って騒ぐ会
+UID:TrWo8ujgUzM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】結局するんか青ウパチャレンジ‼【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=KDSXhe1Tt9U
 DURATION:PT2H
 DTSTART:20210715T141000Z
@@ -550,6 +557,13 @@ SUMMARY:☄星街すいせい: 【Gartic Phone】おまえたちとお絵描き�
 UID:efvpgfwWsGs
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【FALL GUYS】THE LAM FAMILY IS HERE! LET'S GET A CROWN WITH MY SISTERS!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=xJXARJh2Lg8
+DURATION:PT2H
+DTSTART:20210716T105704Z
+SUMMARY:Ollie: 【FALL GUYS】THE LAM FAMILY IS HERE! LET'S GET A CROWN WITH MY SISTERS!【Hololive Indonesia 2nd Gen】
+UID:xJXARJh2Lg8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【おうち3D/RFA】昼夜逆転悪魔の運動｜#04【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=q0WnzjCcmpk
 DURATION:PT2H
 DTSTART:20210715T083000Z
@@ -557,11 +571,18 @@ SUMMARY:👾常闇トワ: 【おうち3D/RFA】昼夜逆転悪魔の運動｜#04
 UID:q0WnzjCcmpk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】そらとわための大冒険！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=LB51D_GrH3Y
+DESCRIPTION:【ASMR】🍑小声のねね🍑【桃鈴ねね/ホロライブ】\nhttps://www.youtube.com/watch?v=-zz-RtHpIaI
 DURATION:PT2H
-DTSTART:20210716T120000Z
-SUMMARY:🐻ときのそら: 【Minecraft】そらとわための大冒険！！【#ときのそら生放送】
-UID:LB51D_GrH3Y
+DTSTART:20210716T130000Z
+SUMMARY:桃鈴ねね: 【ASMR】🍑小声のねね🍑【桃鈴ねね/ホロライブ】
+UID:-zz-RtHpIaI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】ゆるスタでAPEX、2.0でエイムもぬるぬるか！！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=WBTpIIFkD7Y
+DURATION:PT2H
+DTSTART:20210716T060500Z
+SUMMARY:🦔💨岸堂天真: 【APEX】ゆるスタでAPEX、2.0でエイムもぬるぬるか！！！【岸堂天真/ホロスターズ】
+UID:WBTpIIFkD7Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft 1.17】あえて1日空けることで青ウパが振り向くという寸法さ！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=72PCQVvFsR4
@@ -569,6 +590,13 @@ DURATION:PT2H
 DTSTART:20210715T140000Z
 SUMMARY:🍕アルランディス: 【Minecraft 1.17】あえて1日空けることで青ウパが振り向くという寸法さ！【アルランディス/ホロスターズ】
 UID:72PCQVvFsR4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】そらとわための大冒険！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=LB51D_GrH3Y
+DURATION:PT2H
+DTSTART:20210716T120000Z
+SUMMARY:🐻ときのそら: 【Minecraft】そらとわための大冒険！！【#ときのそら生放送】
+UID:LB51D_GrH3Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【耐久】ヨッシー クラフトワールド、１００％クリア目指す！！\nhttps://www.youtube.com/watch?v=fWNDstp5PRY
