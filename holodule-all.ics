@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:プレミア予約動画【潤羽るしあ】\nhttps://www.youtube.com/watch?v=mEs80XOSSHQ
+DURATION:PT2H
+DTSTART:20210718T131500Z
+SUMMARY:🦋潤羽るしあ: プレミア予約動画【潤羽るしあ】
+UID:mEs80XOSSHQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ときのそら - ミニライブ/Youtube Music Weekend Midnight\nhttps://www.youtube.com/watch?v=qXiqzXMy0gk
 DURATION:PT2H
 DTSTART:20210716T183000Z
@@ -79,6 +86,13 @@ DURATION:PT2H
 DTSTART:20210717T160000Z
 SUMMARY:Kiara: 【Superchat Reading】They even follow me in my dreams... eternal superchats...  #kfp #キアライブ
 UID:KiR1EjjCAxw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SUPERCHATS AND TALKING】What a Day! Let's Read Your Messages. #hololiveEnglish\nhttps://www.youtube.com/watch?v=fDA6fSkcph8
+DURATION:PT2H
+DTSTART:20210717T145036Z
+SUMMARY:Calli: 【SUPERCHATS AND TALKING】What a Day! Let's Read Your Messages. #hololiveEnglish
+UID:fDA6fSkcph8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】夏の歌をうたう！歌枠強化中～♪【 ホロライブ / 大神ミオ 】\nhttps://www.youtube.com/watch?v=gpX76coxzr4
@@ -198,13 +212,6 @@ DURATION:PT2H
 DTSTART:20210717T101500Z
 SUMMARY:Kiara: 【KNOCKOUT CITY】EN VS JP DODGE BALL!!!!! lets assert our DOMINANCE #holododgeball
 UID:X3SoyzVtL2c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 スーパードンキーコング3】名作を初見で遊ぶ！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=f8poeDDgoIU
-DURATION:PT2H
-DTSTART:20210717T140000Z
-SUMMARY:🔥不知火フレア: 【 スーパードンキーコング3】名作を初見で遊ぶ！【不知火フレア/ホロライブ】
-UID:f8poeDDgoIU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:AZKi - 【3D LIVE】SPECiAL LiVE -NON FiCTiON- 【youtube music weekend】\nhttps://www.youtube.com/watch?v=NDYaVPFVtzk
