@@ -88,18 +88,18 @@ SUMMARY:🌟夜空メル: 【Knockout City】JP VS EN /闇のドッジボール�
 UID:83XRzRkR23s
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【続・耐久】ヨッシー クラフトワールド、１００％クリア目指す！！\nhttps://www.youtube.com/watch?v=M_dnDGTx_u8
-DURATION:PT2H
-DTSTART:20210716T001000Z
-SUMMARY:🥐戌神ころね: 【続・耐久】ヨッシー クラフトワールド、１００％クリア目指す！！
-UID:M_dnDGTx_u8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠】100万人目指して歌う！Singing till reach 1 million!!!【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=jPribVolmYA
 DURATION:PT2H
 DTSTART:20210717T130000Z
 SUMMARY:🐏角巻わため: 【歌枠】100万人目指して歌う！Singing till reach 1 million!!!【角巻わため/ホロライブ４期生】
 UID:jPribVolmYA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【続・耐久】ヨッシー クラフトワールド、１００％クリア目指す！！\nhttps://www.youtube.com/watch?v=M_dnDGTx_u8
+DURATION:PT2H
+DTSTART:20210716T001000Z
+SUMMARY:🥐戌神ころね: 【続・耐久】ヨッシー クラフトワールド、１００％クリア目指す！！
+UID:M_dnDGTx_u8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Subnautica】完全初見！海洋サバイバルで生き残れ Part2【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=o868TURUNrI
@@ -151,13 +151,6 @@ SUMMARY:🤖ロボ子さん: 【Dead by Daylight】初心者を連れて #ホロ
 UID:NWfr2gb7EGA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Friday Night Funkin'】It's Time to Funkin' Mep【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=h4OCDJLO7YU
-DURATION:PT2H
-DTSTART:20210716T140000Z
-SUMMARY:Reine: 【Friday Night Funkin'】It's Time to Funkin' Mep【hololiveID 2nd generation】
-UID:h4OCDJLO7YU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ゆるスタでエンドラ討伐耐久!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=AqeKkAzMygY
 DURATION:PT2H
 DTSTART:20210717T060000Z
@@ -165,11 +158,25 @@ SUMMARY:🌺花咲みやび: 【Minecraft】ゆるスタでエンドラ討伐耐
 UID:AqeKkAzMygY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Knockout City】EN vs JP ドッジボールで勝負！！【ホロライブ/アキロゼ視点】\nhttps://www.youtube.com/watch?v=NV1ppOQOkFc
+DESCRIPTION:【Friday Night Funkin'】It's Time to Funkin' Mep【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=h4OCDJLO7YU
 DURATION:PT2H
-DTSTART:20210717T100000Z
-SUMMARY:🍎アキロゼ: 【Knockout City】EN vs JP ドッジボールで勝負！！【ホロライブ/アキロゼ視点】
+DTSTART:20210716T140000Z
+SUMMARY:Reine: 【Friday Night Funkin'】It's Time to Funkin' Mep【hololiveID 2nd generation】
+UID:h4OCDJLO7YU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Knockout City】EN vs JP ドッジボールで勝負！！#holododgeball【ホロライブ/アキロゼ視点】\nhttps://www.youtube.com/watch?v=NV1ppOQOkFc
+DURATION:PT2H
+DTSTART:20210717T101500Z
+SUMMARY:🍎アキロゼ: 【Knockout City】EN vs JP ドッジボールで勝負！！#holododgeball【ホロライブ/アキロゼ視点】
 UID:NV1ppOQOkFc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】青ウパまだ間に合う？？【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=RAh_CDEHQ6g
+DURATION:PT2H
+DTSTART:20210717T060000Z
+SUMMARY:🏮夏色まつり: 【Minecraft】青ウパまだ間に合う？？【ホロライブ/夏色まつり】
+UID:RAh_CDEHQ6g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ロボ子さん - hololive IDOL PROJECT songs / Midnight ver.\nhttps://www.youtube.com/watch?v=9XNk1_DVoiA
@@ -214,13 +221,6 @@ SUMMARY:🦋潤羽るしあ: ゲリラ！！YABEEEE【潤羽るしあ/ホロラ�
 UID:mTmXiVqAc6E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【告知】来週は誕生日ですね？？【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=6bjwt6nOX3U
-DURATION:PT2H
-DTSTART:20210717T140000Z
-SUMMARY:🏮夏色まつり: 【告知】来週は誕生日ですね？？【ホロライブ/夏色まつり】
-UID:6bjwt6nOX3U
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Mori Calliope - Rocking Out with the Grim Reaper! Calliope Mori's YouTube Music Weekend Concert!\nhttps://www.youtube.com/watch?v=vtTUCSvuLdg
 DURATION:PT2H
 DTSTART:20210716T160000Z
@@ -249,6 +249,20 @@ SUMMARY:ホロライブ: 1番のわかり手グランプリ～白上フブキ杯
 UID:IWXSNWXZdeo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【hololiveID】COMIFURO DAY 1 AFTER PARTY & RISU WANGY WANGY STREAM【Ayunda Risu】\nhttps://www.youtube.com/watch?v=wtcIz46Dkw0
+DURATION:PT2H
+DTSTART:20210717T123000Z
+SUMMARY:🐿Risu: 【hololiveID】COMIFURO DAY 1 AFTER PARTY & RISU WANGY WANGY STREAM【Ayunda Risu】
+UID:wtcIz46Dkw0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【告知】来週は誕生日ですね？？【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=6bjwt6nOX3U
+DURATION:PT2H
+DTSTART:20210717T140000Z
+SUMMARY:🏮夏色まつり: 【告知】来週は誕生日ですね？？【ホロライブ/夏色まつり】
+UID:6bjwt6nOX3U
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【TTRPG RE-CAP】Let's Talk MythBreakers! I'm a Nice GM\, I Promise. :} #holoMyth #hololiveEnglish\nhttps://www.youtube.com/watch?v=hxvoFyeC-Do
 DURATION:PT2H
 DTSTART:20210716T135935Z
@@ -270,6 +284,13 @@ SUMMARY:🐻ときのそら: ときのそら - ミニライブ/Youtube Music Wee
 UID:qXiqzXMy0gk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 FFIX 】守られてばかりの姫じゃないのら！ ～ ファイナルファンタジーIX【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=Zu9jBIhnOYE
+DURATION:PT2H
+DTSTART:20210717T060000Z
+SUMMARY:🍬姫森ルーナ: 【 FFIX 】守られてばかりの姫じゃないのら！ ～ ファイナルファンタジーIX【#姫森ルーナ/ホロライブ】
+UID:Zu9jBIhnOYE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 #ホロdbd女子会 】( ＞ □ ＜； 🍬)【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=I4E16O1W9YY
 DURATION:PT2H
 DTSTART:20210716T100000Z
@@ -284,18 +305,18 @@ SUMMARY:Kiara: 【MINECRAFT】JP HOUSE & ENDER PREP! #kfp #キアライブ
 UID:yZCOVFhK7i8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【欲張りセット】朝ごはんを一緒にたべてAPEXしよおおおおおおお【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=cZEiDPTuCII
-DURATION:PT2H
-DTSTART:20210715T220000Z
-SUMMARY:🤖ロボ子さん: 【欲張りセット】朝ごはんを一緒にたべてAPEXしよおおおおおおお【ホロライブ/ロボ子さん】
-UID:cZEiDPTuCII
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#けものサーカス】友達のスーパーハカーと一緒にプレイする－Operation: Tango【獅白ぼたん視点/ホロライブ】\nhttps://www.youtube.com/watch?v=ZKUoAAcNUFI
 DURATION:PT2H
 DTSTART:20210716T110000Z
 SUMMARY:獅白ぼたん: 【#けものサーカス】友達のスーパーハカーと一緒にプレイする－Operation: Tango【獅白ぼたん視点/ホロライブ】
 UID:ZKUoAAcNUFI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【欲張りセット】朝ごはんを一緒にたべてAPEXしよおおおおおおお【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=cZEiDPTuCII
+DURATION:PT2H
+DTSTART:20210715T220000Z
+SUMMARY:🤖ロボ子さん: 【欲張りセット】朝ごはんを一緒にたべてAPEXしよおおおおおおお【ホロライブ/ロボ子さん】
+UID:cZEiDPTuCII
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ドラクエ11S】真のギャンブラーはどっちだ！ぺこらVSノエル カジノ王決定戦ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=Govg7onHkmQ
@@ -328,7 +349,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【KNOCKOUT CITY】Throwing Balls at Our Senpai! #holoMyth #hololiveEnglish\nhttps://www.youtube.com/watch?v=fAftpPR-qdY
 DURATION:PT2H
-DTSTART:20210717T100000Z
+DTSTART:20210717T100031Z
 SUMMARY:Calli: 【KNOCKOUT CITY】Throwing Balls at Our Senpai! #holoMyth #hololiveEnglish
 UID:fAftpPR-qdY
 END:VEVENT
@@ -389,10 +410,10 @@ SUMMARY:💫天音かなた: 【ゲリラ】今起きました【天音かなた
 UID:7RDVdxJXqN0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【KNOCKOUT CITY】EN VS JP DODGE BALL!!!!! lets assert our DOMINANCE #kfp #キアライブ\nhttps://www.youtube.com/watch?v=X3SoyzVtL2c
+DESCRIPTION:【KNOCKOUT CITY】EN VS JP DODGE BALL!!!!! lets assert our DOMINANCE #holododgeball\nhttps://www.youtube.com/watch?v=X3SoyzVtL2c
 DURATION:PT2H
-DTSTART:20210717T100000Z
-SUMMARY:Kiara: 【KNOCKOUT CITY】EN VS JP DODGE BALL!!!!! lets assert our DOMINANCE #kfp #キアライブ
+DTSTART:20210717T101500Z
+SUMMARY:Kiara: 【KNOCKOUT CITY】EN VS JP DODGE BALL!!!!! lets assert our DOMINANCE #holododgeball
 UID:X3SoyzVtL2c
 END:VEVENT
 BEGIN:VEVENT
@@ -466,18 +487,18 @@ SUMMARY:Reine: 【APEX】it's been a while\, let's do a short practice【hololiv
 UID:Zm5QYNPb8fY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】エンド準備まったりと～！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=qZSezvYTwuc
-DURATION:PT2H
-DTSTART:20210716T130000Z
-SUMMARY:雪花ラミィ: 【Minecraft】エンド準備まったりと～！【雪花ラミィ/ホロライブ】
-UID:qZSezvYTwuc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【TOURNAMENT ARC 2】OLLIE VS KIZZIE!! /OLLIE'S POINT OF VIEW【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=KddPUGt8mqk
 DURATION:PT2H
 DTSTART:20210716T234035Z
 SUMMARY:Ollie: 【TOURNAMENT ARC 2】OLLIE VS KIZZIE!! /OLLIE'S POINT OF VIEW【Hololive Indonesia 2nd Gen】
 UID:KddPUGt8mqk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】エンド準備まったりと～！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=qZSezvYTwuc
+DURATION:PT2H
+DTSTART:20210716T130000Z
+SUMMARY:雪花ラミィ: 【Minecraft】エンド準備まったりと～！【雪花ラミィ/ホロライブ】
+UID:qZSezvYTwuc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#01【ゼルダの伝説スカイウォードソードHD】新たな冒険の始まり【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=6rvO2CRFHqg
@@ -524,7 +545,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【KNOCKOUT CITY】 MOOOOVES LIKE TAKO!!! EN vs JP!!!\nhttps://www.youtube.com/watch?v=MpceLlmmU3k
 DURATION:PT2H
-DTSTART:20210717T100000Z
+DTSTART:20210717T101500Z
 SUMMARY:Ina: 【KNOCKOUT CITY】 MOOOOVES LIKE TAKO!!! EN vs JP!!!
 UID:MpceLlmmU3k
 END:VEVENT
