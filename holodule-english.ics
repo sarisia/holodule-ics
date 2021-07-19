@@ -4,18 +4,32 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【SIMS4】Raising Clara & TAKAMORI WEDDING!? #kfp #キアライブ\nhttps://www.youtube.com/watch?v=oBm92okKK-o
+DURATION:PT2H
+DTSTART:20210718T153000Z
+SUMMARY:Kiara: 【SIMS4】Raising Clara & TAKAMORI WEDDING!? #kfp #キアライブ
+UID:oBm92okKK-o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【One Hand Clapping】Clapping because my life depends on it\nhttps://www.youtube.com/watch?v=FtkbwkA2ggo
+DURATION:PT2H
+DTSTART:20210720T010000Z
+SUMMARY:IRyS: 【One Hand Clapping】Clapping because my life depends on it
+UID:FtkbwkA2ggo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DRAWING】 TONIGHT WE DRAW Pt.2\nhttps://www.youtube.com/watch?v=JpjETRZnGd8
+DURATION:PT2H
+DTSTART:20210718T200000Z
+SUMMARY:Ina: 【DRAWING】 TONIGHT WE DRAW Pt.2
+UID:JpjETRZnGd8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Supa Sunday】Chat & Apex reading!\nhttps://www.youtube.com/watch?v=9qT_PstD4ns
 DURATION:PT2H
 DTSTART:20210718T220500Z
 SUMMARY:Amelia: 【Supa Sunday】Chat & Apex reading!
 UID:9qT_PstD4ns
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SINGING STREAM】Karaoke Time! Singing My Reaper Heart Out. #hololiveEnglish\nhttps://www.youtube.com/watch?v=RXFm7HNg6Eo
-DURATION:PT2H
-DTSTART:20210719T032959Z
-SUMMARY:Calli: 【SINGING STREAM】Karaoke Time! Singing My Reaper Heart Out. #hololiveEnglish
-UID:RXFm7HNg6Eo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Mother Simulator】How to stop a baby from crying 101\nhttps://www.youtube.com/watch?v=_DTirJeZzl4
@@ -32,24 +46,17 @@ SUMMARY:Ina: 【THE WONDERFUL 101】 WAH-NDER...TAKO!!! 【#4】
 UID:K-5Shyp8Q8g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【One Hand Clapping】Clapping because my life depends on it\nhttps://www.youtube.com/watch?v=FtkbwkA2ggo
+DESCRIPTION:[One Hand Clapping] cl a p\nhttps://www.youtube.com/watch?v=4pmBp7C3C1E
 DURATION:PT2H
-DTSTART:20210720T010000Z
-SUMMARY:IRyS: 【One Hand Clapping】Clapping because my life depends on it
-UID:FtkbwkA2ggo
+DTSTART:20210719T230000Z
+SUMMARY:Gura: [One Hand Clapping] cl a p
+UID:4pmBp7C3C1E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SIMS4】Raising Clara & TAKAMORI WEDDING!? #kfp #キアライブ\nhttps://www.youtube.com/watch?v=oBm92okKK-o
+DESCRIPTION:【SINGING STREAM】Karaoke Time! Singing My Reaper Heart Out. #hololiveEnglish\nhttps://www.youtube.com/watch?v=RXFm7HNg6Eo
 DURATION:PT2H
-DTSTART:20210718T153000Z
-SUMMARY:Kiara: 【SIMS4】Raising Clara & TAKAMORI WEDDING!? #kfp #キアライブ
-UID:oBm92okKK-o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DRAWING】 TONIGHT WE DRAW Pt.2\nhttps://www.youtube.com/watch?v=JpjETRZnGd8
-DURATION:PT2H
-DTSTART:20210718T200000Z
-SUMMARY:Ina: 【DRAWING】 TONIGHT WE DRAW Pt.2
-UID:JpjETRZnGd8
+DTSTART:20210719T032959Z
+SUMMARY:Calli: 【SINGING STREAM】Karaoke Time! Singing My Reaper Heart Out. #hololiveEnglish
+UID:RXFm7HNg6Eo
 END:VEVENT
 END:VCALENDAR
