@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【One Hand Clapping】Clapping because my life depends on it\nhttps://www.youtube.com/watch?v=FtkbwkA2ggo
+DURATION:PT2H
+DTSTART:20210720T010000Z
+SUMMARY:IRyS: 【One Hand Clapping】Clapping because my life depends on it
+UID:FtkbwkA2ggo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【BPM】Rhythmical Bang Bang\nhttps://www.youtube.com/watch?v=BbgeCgep91g
+DURATION:PT2H
+DTSTART:20210721T020000Z
+SUMMARY:IRyS: 【BPM】Rhythmical Bang Bang
+UID:BbgeCgep91g
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Celeste】Let's Finish this!\nhttps://www.youtube.com/watch?v=CZG0-I0xoS4
 DURATION:PT2H
 DTSTART:20210719T220500Z
@@ -25,18 +39,11 @@ SUMMARY:Ina: 【Minecraft】 Last Bit of Prep!!
 UID:31TFFX_pkNA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【One Hand Clapping】Clapping because my life depends on it\nhttps://www.youtube.com/watch?v=FtkbwkA2ggo
+DESCRIPTION:【BLOODSTAINED: Ritual of the Night】A Pretty "OK" Night for a CURSE. #HololiveEnglish\nhttps://www.youtube.com/watch?v=f2Qv42N1LC0
 DURATION:PT2H
-DTSTART:20210720T010000Z
-SUMMARY:IRyS: 【One Hand Clapping】Clapping because my life depends on it
-UID:FtkbwkA2ggo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BPM】Rhythmical Bang Bang\nhttps://www.youtube.com/watch?v=BbgeCgep91g
-DURATION:PT2H
-DTSTART:20210721T020000Z
-SUMMARY:IRyS: 【BPM】Rhythmical Bang Bang
-UID:BbgeCgep91g
+DTSTART:20210720T135937Z
+SUMMARY:Calli: 【BLOODSTAINED: Ritual of the Night】A Pretty "OK" Night for a CURSE. #HololiveEnglish
+UID:f2Qv42N1LC0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[One Hand Clapping] cl a p\nhttps://www.youtube.com/watch?v=4pmBp7C3C1E
