@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【HololiveID】Risu playing Henry Stickmin - PART 2!!! 【Ayunda Risu】\nhttps://www.youtube.com/watch?v=oiDOtTecD6E
+DESCRIPTION:【Free Talk】Good Afternoon! Let's have a light chat【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=xrjnooMOAwc
 DURATION:PT2H
-DTSTART:20210719T120000Z
-SUMMARY:🐿Risu: 【HololiveID】Risu playing Henry Stickmin - PART 2!!! 【Ayunda Risu】
-UID:oiDOtTecD6E
+DTSTART:20210720T050000Z
+SUMMARY:Reine: 【Free Talk】Good Afternoon! Let's have a light chat【hololiveID 2nd generation】
+UID:xrjnooMOAwc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【AC IV : Black Flag】Let's play Assassins Creed IV Black Flag!【#GeeMoon】\nhttps://www.youtube.com/watch?v=fDGmzCyo7Ps
@@ -18,17 +18,24 @@ SUMMARY:🔮Moona: 【AC IV : Black Flag】Let's play Assassins Creed IV Black F
 UID:fDGmzCyo7Ps
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【HololiveID】Risu playing Henry Stickmin - PART 2!!! 【Ayunda Risu】\nhttps://www.youtube.com/watch?v=oiDOtTecD6E
+DURATION:PT2H
+DTSTART:20210719T120000Z
+SUMMARY:🐿Risu: 【HololiveID】Risu playing Henry Stickmin - PART 2!!! 【Ayunda Risu】
+UID:oiDOtTecD6E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HololiveID】One Hand Clapping with Extra Risu Singing - PART 2【Ayunda Risu】\nhttps://www.youtube.com/watch?v=1l8lvVqG7NM
+DURATION:PT2H
+DTSTART:20210720T120000Z
+SUMMARY:🐿Risu: 【HololiveID】One Hand Clapping with Extra Risu Singing - PART 2【Ayunda Risu】
+UID:1l8lvVqG7NM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX LEGENDS】GACHAGACHAGACHAGACHAGACHA!!【Hololive ID Generasi 2】\nhttps://www.youtube.com/watch?v=YgDHagCkxVY
 DURATION:PT2H
 DTSTART:20210719T082909Z
 SUMMARY:Ollie: 【APEX LEGENDS】GACHAGACHAGACHAGACHAGACHA!!【Hololive ID Generasi 2】
 UID:YgDHagCkxVY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Free Talk】Good Afternoon! Let's have a light chat【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=xrjnooMOAwc
-DURATION:PT2H
-DTSTART:20210720T050000Z
-SUMMARY:Reine: 【Free Talk】Good Afternoon! Let's have a light chat【hololiveID 2nd generation】
-UID:xrjnooMOAwc
 END:VEVENT
 END:VCALENDAR
