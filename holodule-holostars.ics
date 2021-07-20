@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【クズすぎ】クズな勇者を操作するRPG【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=3CLID4uegrY
-DURATION:PT2H
-DTSTART:20210719T090000Z
-SUMMARY:🍷夕刻ロベル: 【クズすぎ】クズな勇者を操作するRPG【ホロスターズ/夕刻ロベル】
-UID:3CLID4uegrY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Fall Guys】みんなでVFG運動会練習するぞ!!【花咲みやび/アルランディス/影山シエン/荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=kj1OAbwUT_c
 DURATION:PT2H
 DTSTART:20210719T110000Z
@@ -18,18 +11,32 @@ SUMMARY:🌺花咲みやび: 【Fall Guys】みんなでVFG運動会練習する
 UID:kj1OAbwUT_c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】二日間休んだ分働く。 CRカップに向けて練習\nhttps://www.youtube.com/watch?v=mhaaju0dWtY
-DURATION:PT2H
-DTSTART:20210720T021500Z
-SUMMARY:🎭アステル・レダ: 【APEX】二日間休んだ分働く。 CRカップに向けて練習
-UID:mhaaju0dWtY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【FallGuys】VFG運動会参加メンバー…見参！！！【アルランディス/影山シエン/荒咬オウガ/花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=BRdnpZwee_c
 DURATION:PT2H
 DTSTART:20210719T110000Z
 SUMMARY:🍕アルランディス: 【FallGuys】VFG運動会参加メンバー…見参！！！【アルランディス/影山シエン/荒咬オウガ/花咲みやび/ホロスターズ】
 UID:BRdnpZwee_c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【風雨来記4】旅をします【ホロスターズ/夕刻ロベル】#2\nhttps://www.youtube.com/watch?v=6Snbx4_d3no
+DURATION:PT2H
+DTSTART:20210720T080000Z
+SUMMARY:🍷夕刻ロベル: 【風雨来記4】旅をします【ホロスターズ/夕刻ロベル】#2
+UID:6Snbx4_d3no
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【クズすぎ】クズな勇者を操作するRPG【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=3CLID4uegrY
+DURATION:PT2H
+DTSTART:20210719T090000Z
+SUMMARY:🍷夕刻ロベル: 【クズすぎ】クズな勇者を操作するRPG【ホロスターズ/夕刻ロベル】
+UID:3CLID4uegrY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】二日間休んだ分働く。 CRカップに向けて練習\nhttps://www.youtube.com/watch?v=mhaaju0dWtY
+DURATION:PT2H
+DTSTART:20210720T021500Z
+SUMMARY:🎭アステル・レダ: 【APEX】二日間休んだ分働く。 CRカップに向けて練習
+UID:mhaaju0dWtY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】プラチナ１～!! ダイヤさん、こんにちわ！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=25ewCeteB4c
