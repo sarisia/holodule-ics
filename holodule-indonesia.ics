@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【DUOLINGO】TEACH ME KOREAN PLEASE!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=MgeC6-3U3rE
+DURATION:PT2H
+DTSTART:20210722T025721Z
+SUMMARY:Ollie: 【DUOLINGO】TEACH ME KOREAN PLEASE!!【Hololive Indonesia 2nd Gen】
+UID:MgeC6-3U3rE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【CHESS.COM】LET'S BEEG BRAIN THIS【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=3PDhgAsVLWs
 DURATION:PT2H
 DTSTART:20210721T035827Z
@@ -32,13 +39,6 @@ SUMMARY:Reine: 【APEX】NEW ROOM! WEDNESDAY LADIES NIGHT #Choroine【hololiveID
 UID:DHl4Ca46-qM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【World of Tanks】Reine-sensei's Special Field Trip... with Tanks!【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=AhbNuWqN_ls
-DURATION:PT2H
-DTSTART:20210722T140000Z
-SUMMARY:Reine: 【World of Tanks】Reine-sensei's Special Field Trip... with Tanks!【hololiveID 2nd gen】
-UID:AhbNuWqN_ls
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】WEDNESDAY LADIES NIGHT #Choroine【hololiveID 2nd generation】\nhttps://www.youtube.com/watch?v=6YfDEZ8iHLM
 DURATION:PT2H
 DTSTART:20210721T120000Z
@@ -51,5 +51,12 @@ DURATION:PT2H
 DTSTART:20210721T150000Z
 SUMMARY:🔮Moona: 【Freetalk】After Party! Let's Talk!【#MoonUtau】
 UID:BbKf-RN0qsM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【World of Tanks】Reine-sensei's Special Field Trip... with Tanks!【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=AhbNuWqN_ls
+DURATION:PT2H
+DTSTART:20210722T140000Z
+SUMMARY:Reine: 【World of Tanks】Reine-sensei's Special Field Trip... with Tanks!【hololiveID 2nd gen】
+UID:AhbNuWqN_ls
 END:VEVENT
 END:VCALENDAR
