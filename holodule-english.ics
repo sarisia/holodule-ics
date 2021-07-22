@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】 Ender Dragon Hunt with HoloEN!!!\nhttps://www.youtube.com/watch?v=yYutuz3I5FU
-DURATION:PT2H
-DTSTART:20210722T220000Z
-SUMMARY:Ina: 【Minecraft】 Ender Dragon Hunt with HoloEN!!!
-UID:yYutuz3I5FU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MYTHBREAKERS SESSION 1】Enter DARKNESS. Because It's the World of DARKNESS... ye #hololiveEnglish\nhttps://www.youtube.com/watch?v=2970h417AzI
 DURATION:PT2H
 DTSTART:20210721T210000Z
 SUMMARY:Calli: 【MYTHBREAKERS SESSION 1】Enter DARKNESS. Because It's the World of DARKNESS... ye #hololiveEnglish
 UID:2970h417AzI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DOOM】First time playing! Rip and Tear for HOPE\nhttps://www.youtube.com/watch?v=h5JEV-2NNm0
-DURATION:PT2H
-DTSTART:20210722T010000Z
-SUMMARY:IRyS: 【DOOM】First time playing! Rip and Tear for HOPE
-UID:h5JEV-2NNm0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】The End of the Ender Dragon with THE GIRLS #kfp #キアライブ\nhttps://www.youtube.com/watch?v=kauunWmEJmU
@@ -46,10 +32,31 @@ SUMMARY:Calli: 【MINECRAFT COLLAB】Calliope and HoloMyth's Long Awaited Ender 
 UID:BwL9-tqLF3I
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【DOOM】First time playing! Rip and Tear for HOPE\nhttps://www.youtube.com/watch?v=h5JEV-2NNm0
+DURATION:PT2H
+DTSTART:20210722T010000Z
+SUMMARY:IRyS: 【DOOM】First time playing! Rip and Tear for HOPE
+UID:h5JEV-2NNm0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】THE ENDER DRAGON IS GOIN' DOWN\nhttps://www.youtube.com/watch?v=GIRO-554Lbg
 DURATION:PT2H
 DTSTART:20210722T220000Z
 SUMMARY:Amelia: 【Minecraft】THE ENDER DRAGON IS GOIN' DOWN
 UID:GIRO-554Lbg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】 Ender Dragon Hunt with HoloEN!!!\nhttps://www.youtube.com/watch?v=yYutuz3I5FU
+DURATION:PT2H
+DTSTART:20210722T220000Z
+SUMMARY:Ina: 【Minecraft】 Ender Dragon Hunt with HoloEN!!!
+UID:yYutuz3I5FU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【LET'S DRAW HOOTLE!】With Art Specialist Ina!!! #HootleDoodle #TalesOfArise\nhttps://www.youtube.com/watch?v=HL8826phwI4
+DURATION:PT2H
+DTSTART:20210722T200000Z
+SUMMARY:Kiara: 【LET'S DRAW HOOTLE!】With Art Specialist Ina!!! #HootleDoodle #TalesOfArise
+UID:HL8826phwI4
 END:VEVENT
 END:VCALENDAR
