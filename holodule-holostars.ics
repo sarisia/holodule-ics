@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:ポケモンUNITE 遊んでみる。  /  アステル・レダ 奏手イヅル\nhttps://www.youtube.com/watch?v=tIGuvCnd9e8
-DURATION:PT2H
-DTSTART:20210722T090000Z
-SUMMARY:🎭アステル・レダ: ポケモンUNITE 遊んでみる。  /  アステル・レダ 奏手イヅル
-UID:tIGuvCnd9e8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#VFG運動会】#甲殻奇動ロブスターズWIN 俺たちゃ無敵のロブスターズ【荒咬オウガ視点　花咲みやび/アルランディス/影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=xtiBzgnUxDI
-DURATION:PT2H
-DTSTART:20210722T110000Z
-SUMMARY:荒咬オウガ: 【#VFG運動会】#甲殻奇動ロブスターズWIN 俺たちゃ無敵のロブスターズ【荒咬オウガ視点　花咲みやび/アルランディス/影山シエン/ホロスターズ】
-UID:xtiBzgnUxDI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#VFG運動会】第一話　天を見たらそれは網だった【#甲殻奇動ロブスターズWIN】\nhttps://www.youtube.com/watch?v=jxdCep81Iz0
 DURATION:PT2H
 DTSTART:20210722T110000Z
@@ -30,6 +16,55 @@ DURATION:PT2H
 DTSTART:20210723T080000Z
 SUMMARY:🍷夕刻ロベル: 【風雨来記4】果たして今日は旅先で出会えるのか不安な男【ホロスターズ/夕刻ロベル】#3
 UID:yhOXK7Effo4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポケモンUNITE】夏はこれやろ【奏手イヅル/アステル】\nhttps://www.youtube.com/watch?v=yXNmO3A90wI
+DURATION:PT2H
+DTSTART:20210722T091500Z
+SUMMARY:🎸奏手イヅル: 【ポケモンUNITE】夏はこれやろ【奏手イヅル/アステル】
+UID:yXNmO3A90wI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#VFG運動会】#甲殻奇動ロブスターズWIN チームワークは誰にも負けない!!【花咲みやび/アルランディス/影山シエン/荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=TvAsBo85R4w
+DURATION:PT2H
+DTSTART:20210722T110000Z
+SUMMARY:🌺花咲みやび: 【#VFG運動会】#甲殻奇動ロブスターズWIN チームワークは誰にも負けない!!【花咲みやび/アルランディス/影山シエン/荒咬オウガ/ホロスターズ】
+UID:TvAsBo85R4w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－今日も行われる朝活の雑談－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=QwmLOHifJRQ
+DURATION:PT2H
+DTSTART:20210723T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－今日も行われる朝活の雑談－【ホロスターズ/夕刻ロベル】
+UID:QwmLOHifJRQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【7/22】運動したし風呂も入ったしあとは雑談して寝るだけ【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=F3GXrfEWSWU
+DURATION:PT2H
+DTSTART:20210721T180000Z
+SUMMARY:荒咬オウガ: 【7/22】運動したし風呂も入ったしあとは雑談して寝るだけ【荒咬オウガ/ホロスターズ】
+UID:F3GXrfEWSWU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX LEGENDS】RIZPEX【律可/奏手イヅル】#RIZ生\nhttps://www.youtube.com/watch?v=62SrwA1QLiw
+DURATION:PT2H
+DTSTART:20210722T143000Z
+SUMMARY:⚙律可: 【APEX LEGENDS】RIZPEX【律可/奏手イヅル】#RIZ生
+UID:62SrwA1QLiw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ポケモンUNITE 遊んでみる。  /  アステル・レダ 奏手イヅル\nhttps://www.youtube.com/watch?v=tIGuvCnd9e8
+DURATION:PT2H
+DTSTART:20210722T090000Z
+SUMMARY:🎭アステル・レダ: ポケモンUNITE 遊んでみる。  /  アステル・レダ 奏手イヅル
+UID:tIGuvCnd9e8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#VFG運動会】#甲殻奇動ロブスターズWIN 俺たちゃ無敵のロブスターズ【荒咬オウガ視点　花咲みやび/アルランディス/影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=xtiBzgnUxDI
+DURATION:PT2H
+DTSTART:20210722T110000Z
+SUMMARY:荒咬オウガ: 【#VFG運動会】#甲殻奇動ロブスターズWIN 俺たちゃ無敵のロブスターズ【荒咬オウガ視点　花咲みやび/アルランディス/影山シエン/ホロスターズ】
+UID:xtiBzgnUxDI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#荒咬オウガ３D】背中で語る男の３Dお披露目【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=Hw7WqfV7H0c
@@ -58,34 +93,6 @@ DURATION:PT2H
 DTSTART:20210722T153000Z
 SUMMARY:🍕アルランディス: 【Minecraft 1.17】この流れで青ウーパーを出すということ【アルランディス/ホロスターズ】
 UID:dkpmcgVYz6w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンUNITE】夏はこれやろ【奏手イヅル/アステル】\nhttps://www.youtube.com/watch?v=yXNmO3A90wI
-DURATION:PT2H
-DTSTART:20210722T091500Z
-SUMMARY:🎸奏手イヅル: 【ポケモンUNITE】夏はこれやろ【奏手イヅル/アステル】
-UID:yXNmO3A90wI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#VFG運動会】#甲殻奇動ロブスターズWIN チームワークは誰にも負けない!!【花咲みやび/アルランディス/影山シエン/荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=TvAsBo85R4w
-DURATION:PT2H
-DTSTART:20210722T110000Z
-SUMMARY:🌺花咲みやび: 【#VFG運動会】#甲殻奇動ロブスターズWIN チームワークは誰にも負けない!!【花咲みやび/アルランディス/影山シエン/荒咬オウガ/ホロスターズ】
-UID:TvAsBo85R4w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX LEGENDS】RIZPEX【律可/奏手イヅル】#RIZ生\nhttps://www.youtube.com/watch?v=62SrwA1QLiw
-DURATION:PT2H
-DTSTART:20210722T143000Z
-SUMMARY:⚙律可: 【APEX LEGENDS】RIZPEX【律可/奏手イヅル】#RIZ生
-UID:62SrwA1QLiw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【7/22】運動したし風呂も入ったしあとは雑談して寝るだけ【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=F3GXrfEWSWU
-DURATION:PT2H
-DTSTART:20210721T180000Z
-SUMMARY:荒咬オウガ: 【7/22】運動したし風呂も入ったしあとは雑談して寝るだけ【荒咬オウガ/ホロスターズ】
-UID:F3GXrfEWSWU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【わちゃスタ #11】収録時間はまさかの3時間超え…！ 覚醒した天真、怒涛の追い上げ！ 白熱のクイズ対決の結末は…！？\nhttps://www.youtube.com/watch?v=bTk7w-ClgpQ
