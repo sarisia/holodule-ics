@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【DEATH STRANDING】No More Illegal Parking This Time!! Hopefully...【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=b8fHszHmRMI
-DURATION:PT2H
-DTSTART:20210723T140000Z
-SUMMARY:Anya: 【DEATH STRANDING】No More Illegal Parking This Time!! Hopefully...【hololive Indonesia 2nd Generation】
-UID:b8fHszHmRMI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Freetalk】Let's Talk!【Moona】\nhttps://www.youtube.com/watch?v=CqTmBxvGzqE
 DURATION:PT2H
 DTSTART:20210723T130000Z
@@ -18,11 +11,18 @@ SUMMARY:🔮Moona: 【Freetalk】Let's Talk!【Moona】
 UID:CqTmBxvGzqE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【TOURNAMENT ARC 2】OLLIE Vs RUSTAGE!! // OLLIE'S POINT OF VIEW【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=1Gmp-g3wsBo
+DESCRIPTION:【TOURNAMENT ARC 2】OLLIE Vs CONNOR!! // OLLIE'S POINT OF VIEW【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=lLX_xELsLU0
 DURATION:PT2H
-DTSTART:20210722T233914Z
-SUMMARY:Ollie: 【TOURNAMENT ARC 2】OLLIE Vs RUSTAGE!! // OLLIE'S POINT OF VIEW【Hololive Indonesia 2nd Gen】
-UID:1Gmp-g3wsBo
+DTSTART:20210723T234000Z
+SUMMARY:Ollie: 【TOURNAMENT ARC 2】OLLIE Vs CONNOR!! // OLLIE'S POINT OF VIEW【Hololive Indonesia 2nd Gen】
+UID:lLX_xELsLU0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEATH STRANDING】No More Illegal Parking This Time!! Hopefully...【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=b8fHszHmRMI
+DURATION:PT2H
+DTSTART:20210723T140000Z
+SUMMARY:Anya: 【DEATH STRANDING】No More Illegal Parking This Time!! Hopefully...【hololive Indonesia 2nd Generation】
+UID:b8fHszHmRMI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【COVER】可愛くなりたい - HoneyWorks【Moona ft @Pavolia Reine Ch. hololive-ID 】\nhttps://www.youtube.com/watch?v=Hya6rBRCd6Y
@@ -30,5 +30,12 @@ DURATION:PT2H
 DTSTART:20210723T120000Z
 SUMMARY:🔮Moona: 【COVER】可愛くなりたい - HoneyWorks【Moona ft @Pavolia Reine Ch. hololive-ID 】
 UID:Hya6rBRCd6Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【TOURNAMENT ARC 2】OLLIE Vs RUSTAGE!! // OLLIE'S POINT OF VIEW【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=1Gmp-g3wsBo
+DURATION:PT2H
+DTSTART:20210722T233914Z
+SUMMARY:Ollie: 【TOURNAMENT ARC 2】OLLIE Vs RUSTAGE!! // OLLIE'S POINT OF VIEW【Hololive Indonesia 2nd Gen】
+UID:1Gmp-g3wsBo
 END:VEVENT
 END:VCALENDAR
