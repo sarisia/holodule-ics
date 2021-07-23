@@ -18,13 +18,6 @@ SUMMARY:影山シエン: 【同時視聴】夏だしサマウォ一緒に見よ�
 UID:Se9Rb9ryKOE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 高級クラブルーナ 】みんなお待たせ！✨クラブ開店なのらっ…！【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=UdTtcPy1kOM
-DURATION:PT2H
-DTSTART:20210723T140000Z
-SUMMARY:🍬姫森ルーナ: 【 高級クラブルーナ 】みんなお待たせ！✨クラブ開店なのらっ…！【#姫森ルーナ/ホロライブ】
-UID:UdTtcPy1kOM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ステルス出勤！スプリンターセル ブラックリスト（Splinter Cell Blacklist）【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=IXwavN_htUQ
 DURATION:PT2H
 DTSTART:20210723T130000Z
@@ -65,13 +58,6 @@ DURATION:PT2H
 DTSTART:20210722T220000Z
 SUMMARY:Ina: 【Minecraft】 Ender Dragon Hunt with HoloEN!!!
 UID:yYutuz3I5FU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Gartic Phone】まつりすとお絵かき伝言ゲーム！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=q6fC2_ywBVk
-DURATION:PT2H
-DTSTART:20210724T140000Z
-SUMMARY:🏮夏色まつり: 【Gartic Phone】まつりすとお絵かき伝言ゲーム！【ホロライブ/夏色まつり】
-UID:q6fC2_ywBVk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Subnautica】知らないところにレッツゴー！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=7J-GkAFMcfY
@@ -319,6 +305,13 @@ SUMMARY:🍙猫又おかゆ: 【ポケモンユナイト】ハイパーランク
 UID:7x6gdJArGck
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ポケモンユナイト】アブソル VS Aキューコン【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=qkZ-hCf3W7M
+DURATION:PT2H
+DTSTART:20210724T050000Z
+SUMMARY:🤖ロボ子さん: 【ポケモンユナイト】アブソル VS Aキューコン【ホロライブ/ロボ子さん】
+UID:qkZ-hCf3W7M
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【TOURNAMENT ARC 2】OLLIE Vs RUSTAGE!! // OLLIE'S POINT OF VIEW【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=1Gmp-g3wsBo
 DURATION:PT2H
 DTSTART:20210722T233914Z
@@ -368,11 +361,11 @@ SUMMARY:雪花ラミィ: 【Gartic Phone】やかまし娘。のお絵描き伝�
 UID:fO9ETU_2N2M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SP雑談】SP読み雑談✨夏バテdownの話とかtokatoka【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=Qhiw0JLPwuY
+DESCRIPTION:【雑談枠】だんだん話題がずれていくことに定評がある【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=Zll0MZkDkWg
 DURATION:PT2H
-DTSTART:20210723T140000Z
-SUMMARY:🤖ロボ子さん: 【SP雑談】SP読み雑談✨夏バテdownの話とかtokatoka【ホロライブ/ロボ子さん】
-UID:Qhiw0JLPwuY
+DTSTART:20210723T143000Z
+SUMMARY:⚙律可: 【雑談枠】だんだん話題がずれていくことに定評がある【律可/ホロスターズ】#りつすた
+UID:Zll0MZkDkWg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 マリオカート8DX 】耐久１位を取るまで終われまてん開幕🏆！！！！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=9_oc4fi_VJQ
@@ -382,18 +375,18 @@ SUMMARY:🌸さくらみこ: 【 マリオカート8DX 】耐久１位を取る�
 UID:9_oc4fi_VJQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談枠】だんだん話題がずれていくことに定評がある【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=Zll0MZkDkWg
-DURATION:PT2H
-DTSTART:20210723T143000Z
-SUMMARY:⚙律可: 【雑談枠】だんだん話題がずれていくことに定評がある【律可/ホロスターズ】#りつすた
-UID:Zll0MZkDkWg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Gartic Phone】国境を越えて以心伝心！！The picture Message game💕【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=PzIXvCPWepM
 DURATION:PT2H
 DTSTART:20210724T130000Z
 SUMMARY:🤖ロボ子さん: 【Gartic Phone】国境を越えて以心伝心！！The picture Message game💕【ホロライブ/ロボ子さん】
 UID:PzIXvCPWepM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Gartic Phone】まつりすとお絵かき伝言ゲーム！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=q6fC2_ywBVk
+DURATION:PT2H
+DTSTART:20210724T140000Z
+SUMMARY:🏮夏色まつり: 【Gartic Phone】まつりすとお絵かき伝言ゲーム！【ホロライブ/夏色まつり】
+UID:q6fC2_ywBVk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ドラクエ5】全モンスターを仲間にする！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=uQIIjmFC26k
