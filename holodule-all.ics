@@ -158,18 +158,18 @@ SUMMARY:🐏角巻わため: 【ネタバレあり】クレヨンしんちゃん
 UID:iUPugOtsnp8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ポケモンUNITE】夏はこれやろ【奏手イヅル/アステル】\nhttps://www.youtube.com/watch?v=yXNmO3A90wI
-DURATION:PT2H
-DTSTART:20210722T091500Z
-SUMMARY:🎸奏手イヅル: 【ポケモンUNITE】夏はこれやろ【奏手イヅル/アステル】
-UID:yXNmO3A90wI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【２３時か２４時】メンバー限定、まだまだ練習中なASMR予定地【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=IOLyp5tPp6g
 DURATION:PT2H
 DTSTART:20210723T140000Z
 SUMMARY:🥐戌神ころね: 【２３時か２４時】メンバー限定、まだまだ練習中なASMR予定地【戌神ころね/ホロライブ】
 UID:IOLyp5tPp6g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポケモンUNITE】夏はこれやろ【奏手イヅル/アステル】\nhttps://www.youtube.com/watch?v=yXNmO3A90wI
+DURATION:PT2H
+DTSTART:20210722T091500Z
+SUMMARY:🎸奏手イヅル: 【ポケモンUNITE】夏はこれやろ【奏手イヅル/アステル】
+UID:yXNmO3A90wI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】水流式の植林場、仕上げていく～！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=gszGu8sAULo
@@ -270,6 +270,13 @@ SUMMARY:影山シエン: 【#VFG運動会】第一話　天を見たらそれは
 UID:jxdCep81Iz0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 高級クラブルーナ 】みんなお待たせ！✨クラブ開店なのらっ…！【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=UdTtcPy1kOM
+DURATION:PT2H
+DTSTART:20210723T140000Z
+SUMMARY:🍬姫森ルーナ: 【 高級クラブルーナ 】みんなお待たせ！✨クラブ開店なのらっ…！【#姫森ルーナ/ホロライブ】
+UID:UdTtcPy1kOM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【GUILTY GEAR -STRIVE-】私にだって悩みくらいありますよ！獅白ぼたんの成長編【ホロライブ #まるヤマ駅前】\nhttps://www.youtube.com/watch?v=qXGx766PuNc
 DURATION:PT2H
 DTSTART:20210722T110000Z
@@ -312,13 +319,6 @@ SUMMARY:🏮夏色まつり: 【オリジナル曲】HiHiハイテンション!
 UID:-ivI-Vb920I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MYTHBREAKERS SESSION 1】Enter DARKNESS. Because It's the World of DARKNESS... ye #hololiveEnglish\nhttps://www.youtube.com/watch?v=2970h417AzI
-DURATION:PT2H
-DTSTART:20210721T210000Z
-SUMMARY:Calli: 【MYTHBREAKERS SESSION 1】Enter DARKNESS. Because It's the World of DARKNESS... ye #hololiveEnglish
-UID:2970h417AzI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ポケモンユナイト】朝活！ランクがあるらしい！！！！！！！！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=Jqe8SgF2-m8
 DURATION:PT2H
 DTSTART:20210722T220000Z
@@ -326,18 +326,25 @@ SUMMARY:🤖ロボ子さん: 【ポケモンユナイト】朝活！ランクが
 UID:Jqe8SgF2-m8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#VFG運動会】#甲殻奇動ロブスターズWIN 俺たちゃ無敵のロブスターズ【荒咬オウガ視点　花咲みやび/アルランディス/影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=xtiBzgnUxDI
-DURATION:PT2H
-DTSTART:20210722T110000Z
-SUMMARY:荒咬オウガ: 【#VFG運動会】#甲殻奇動ロブスターズWIN 俺たちゃ無敵のロブスターズ【荒咬オウガ視点　花咲みやび/アルランディス/影山シエン/ホロスターズ】
-UID:xtiBzgnUxDI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Freetalk】Let's Talk!【Moona】\nhttps://www.youtube.com/watch?v=CqTmBxvGzqE
 DURATION:PT2H
 DTSTART:20210723T130000Z
 SUMMARY:🔮Moona: 【Freetalk】Let's Talk!【Moona】
 UID:CqTmBxvGzqE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MYTHBREAKERS SESSION 1】Enter DARKNESS. Because It's the World of DARKNESS... ye #hololiveEnglish\nhttps://www.youtube.com/watch?v=2970h417AzI
+DURATION:PT2H
+DTSTART:20210721T210000Z
+SUMMARY:Calli: 【MYTHBREAKERS SESSION 1】Enter DARKNESS. Because It's the World of DARKNESS... ye #hololiveEnglish
+UID:2970h417AzI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#VFG運動会】#甲殻奇動ロブスターズWIN 俺たちゃ無敵のロブスターズ【荒咬オウガ視点　花咲みやび/アルランディス/影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=xtiBzgnUxDI
+DURATION:PT2H
+DTSTART:20210722T110000Z
+SUMMARY:荒咬オウガ: 【#VFG運動会】#甲殻奇動ロブスターズWIN 俺たちゃ無敵のロブスターズ【荒咬オウガ視点　花咲みやび/アルランディス/影山シエン/ホロスターズ】
+UID:xtiBzgnUxDI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT COLLAB】Calliope and HoloMyth's Long Awaited Ender Dragon Battle! #hololiveEnglish\nhttps://www.youtube.com/watch?v=BwL9-tqLF3I
@@ -387,6 +394,13 @@ DURATION:PT2H
 DTSTART:20210722T110000Z
 SUMMARY:🍕アルランディス: 【FallGuys】#VFG運動会 本番！ #甲殻奇動ロブスターズWIN  【アルランディス/影山シエン/荒咬オウガ/花咲みやび/ホロスターズ】
 UID:MgDr6XnW7m4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポケモンユナイト】カイリキーで頑張ります【アルランディス/アステル・レダ/奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=1-4ilR1pdDs
+DURATION:PT2H
+DTSTART:20210723T060000Z
+SUMMARY:🍕アルランディス: 【ポケモンユナイト】カイリキーで頑張ります【アルランディス/アステル・レダ/奏手イヅル/ホロスターズ】
+UID:1-4ilR1pdDs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】たまには頑張って早起きがんばりまっするるる💪✨【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=YkztgIhE5eE
