@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【メンバー限定 / member only】雑談するYO!!!【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=HVj_6O-CJYI
-DURATION:PT2H
-DTSTART:20210724T130000Z
-SUMMARY:☄星街すいせい: 【メンバー限定 / member only】雑談するYO!!!【ホロライブ / 星街すいせい】
-UID:HVj_6O-CJYI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【同時視聴】夏だしサマウォ一緒に見ようぜ【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=Se9Rb9ryKOE
 DURATION:PT2H
 DTSTART:20210723T140000Z
@@ -53,6 +46,13 @@ SUMMARY:🎭アステル・レダ: 【#CypherCUP祭】最後のホロスター�
 UID:Rq15tJD3TmU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【】【】\nhttps://www.youtube.com/watch?v=FrIeQGmkY58
+DURATION:PT2H
+DTSTART:20210725T050000Z
+SUMMARY:🚑大空スバル: 【】【】
+UID:FrIeQGmkY58
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Subnautica】知らないところにレッツゴー！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=7J-GkAFMcfY
 DURATION:PT2H
 DTSTART:20210723T133000Z
@@ -79,13 +79,6 @@ DURATION:PT2H
 DTSTART:20210724T110000Z
 SUMMARY:荒咬オウガ: 【#荒咬オウガ３D】背中で語る男の３Dお披露目【荒咬オウガ/ホロスターズ】
 UID:Hw7WqfV7H0c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Apex】Cypher CUP 祭 最終試合【奏手イヅル/アステル/天真】\nhttps://www.youtube.com/watch?v=Cn0kWK3s62M
-DURATION:PT2H
-DTSTART:20210724T120500Z
-SUMMARY:🎸奏手イヅル: 【Apex】Cypher CUP 祭 最終試合【奏手イヅル/アステル/天真】
-UID:Cn0kWK3s62M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#クリア後裏ルート】DQシリーズ完全初見！裏ルートいくぞ！！！ドラゴンクエスト8！！！【ホロライブ/大空スバル】※ネタバレあり\nhttps://www.youtube.com/watch?v=YhRKFUCooik
@@ -149,6 +142,13 @@ DURATION:PT2H
 DTSTART:20210723T080000Z
 SUMMARY:🍷夕刻ロベル: 【風雨来記4】果たして今日は旅先で出会えるのか不安な男【ホロスターズ/夕刻ロベル】#3
 UID:yhOXK7Effo4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FF7R】はじめてのFF7やってみる！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=CoA9zi7iV6o
+DURATION:PT2H
+DTSTART:20210724T050000Z
+SUMMARY:👯兎田ぺこら: 【FF7R】はじめてのFF7やってみる！！！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:CoA9zi7iV6o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DRAWING MY SENPAI #2】Late-Night Drawing My Senpai\, Suisei!  #holoMyth #deathstar\nhttps://www.youtube.com/watch?v=LeBdrt4HLAs
@@ -513,13 +513,6 @@ DURATION:PT2H
 DTSTART:20210722T220000Z
 SUMMARY:Kiara: 【MINECRAFT】The End of the Ender Dragon with THE GIRLS #kfp #キアライブ
 UID:kauunWmEJmU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】Cypher Cup 祭 天真視点 初めての大会!! #STARSWIN その２【岸堂天真/奏手イヅル/アステル】\nhttps://www.youtube.com/watch?v=fTBo7-IVE68
-DURATION:PT2H
-DTSTART:20210724T120000Z
-SUMMARY:🦔💨岸堂天真: 【APEX】Cypher Cup 祭 天真視点 初めての大会!! #STARSWIN その２【岸堂天真/奏手イヅル/アステル】
-UID:fTBo7-IVE68
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】本日APEX大会!!エイムあわせするぞ!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=gub9h1-jHQI
