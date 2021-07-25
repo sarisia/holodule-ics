@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:#03【ゼルダの伝説スカイウォードソードHD】大地の神殿攻略から！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=6e4JwNokVGc
-DURATION:PT2H
-DTSTART:20210725T010000Z
-SUMMARY:⚔白銀ノエル: #03【ゼルダの伝説スカイウォードソードHD】大地の神殿攻略から！【白銀ノエル/ホロライブ】
-UID:6e4JwNokVGc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【同時視聴】DISPATCHERS vol.2一緒に観よう！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=ThfY-Du0RVI
 DURATION:PT2H
 DTSTART:20210725T094500Z
@@ -165,10 +158,10 @@ SUMMARY:🚑大空スバル: 【#生スバル】おきれますように！！�
 UID:Zdy7fPogJvI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【はいしんよてい？】【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=wh0qATKFpOo
+DESCRIPTION:【代理実況が来てくれる！】【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=wh0qATKFpOo
 DURATION:PT2H
 DTSTART:20210725T130000Z
-SUMMARY:🏴☠宝鐘マリン: 【はいしんよてい？】【ホロライブ/宝鐘マリン】
+SUMMARY:🏴☠宝鐘マリン: 【代理実況が来てくれる！】【ホロライブ/宝鐘マリン】
 UID:wh0qATKFpOo
 END:VEVENT
 BEGIN:VEVENT
@@ -242,13 +235,6 @@ SUMMARY:Amelia: 【WATCHALONG】Lupin III: The Castle of Cagliostro (1979)
 UID:VNv0EE9Fc84
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【メン限】９割雑談とお知らせ【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=YYHYMOsEmp0
-DURATION:PT2H
-DTSTART:20210725T090000Z
-SUMMARY:🌽白上フブキ: 【メン限】９割雑談とお知らせ【ホロライブ/白上フブキ】
-UID:YYHYMOsEmp0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Deep Sea Review】Ocean Creatures of the Abyss!\nhttps://www.youtube.com/watch?v=QpDf8Mcukoc
 DURATION:PT2H
 DTSTART:20210723T223000Z
@@ -282,6 +268,13 @@ DURATION:PT2H
 DTSTART:20210725T120000Z
 SUMMARY:🌽白上フブキ: 【＃３】BIOHAZARD RE:2【ホロライブ/白上フブキ】
 UID:MYkCw8gMSWg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【アニメ】七夕を終わらせない！\nhttps://www.youtube.com/watch?v=IVxllrBa6ek
+DURATION:PT2H
+DTSTART:20210725T092416Z
+SUMMARY:ホロライブ: 【アニメ】七夕を終わらせない！
+UID:IVxllrBa6ek
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】Cypher Cup 祭 天真視点 初めての大会!! #STARSWIN【岸堂天真/奏手イヅル/アステル】\nhttps://www.youtube.com/watch?v=16fYRRZa5_c
