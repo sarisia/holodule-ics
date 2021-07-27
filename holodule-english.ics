@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【COMFY MORNING CHAT】Sipping Coffee and Talking with You! #hololiveEnglish\nhttps://www.youtube.com/watch?v=gE8GlwYDg1g
-DURATION:PT2H
-DTSTART:20210726T005947Z
-SUMMARY:Calli: 【COMFY MORNING CHAT】Sipping Coffee and Talking with You! #hololiveEnglish
-UID:gE8GlwYDg1g
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Night Delivery / 例外配達】Hope in the face of Horror\nhttps://www.youtube.com/watch?v=INeroWWrGDE
 DURATION:PT2H
 DTSTART:20210727T120000Z
@@ -30,6 +23,20 @@ DURATION:PT2H
 DTSTART:20210725T220500Z
 SUMMARY:Amelia: 【Supa Sunday】Catchin' up~
 UID:-fdng69nqR8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【WE WERE HERE TOGETHER】A Rare Ametori Has Appeared! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=b9-iggvRWXw
+DURATION:PT2H
+DTSTART:20210727T190000Z
+SUMMARY:Kiara: 【WE WERE HERE TOGETHER】A Rare Ametori Has Appeared! #kfp #キアライブ
+UID:b9-iggvRWXw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【COMFY MORNING CHAT】Sipping Coffee and Talking with You! #hololiveEnglish\nhttps://www.youtube.com/watch?v=gE8GlwYDg1g
+DURATION:PT2H
+DTSTART:20210726T005947Z
+SUMMARY:Calli: 【COMFY MORNING CHAT】Sipping Coffee and Talking with You! #hololiveEnglish
+UID:gE8GlwYDg1g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TLOZ: SKYWARD SWORD】How It All Began...! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=6MO81KCYz-k
