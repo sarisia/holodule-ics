@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Resident Evil 7: Biohazard】 143 【#2】\nhttps://www.youtube.com/watch?v=fIO0V-BdlVQ
+DESCRIPTION:【Night Delivery / 例外配達】Hope in the face of Horror\nhttps://www.youtube.com/watch?v=INeroWWrGDE
 DURATION:PT2H
-DTSTART:20210727T200000Z
-SUMMARY:Ina: 【Resident Evil 7: Biohazard】 143 【#2】
-UID:fIO0V-BdlVQ
+DTSTART:20210727T120000Z
+SUMMARY:IRyS: 【Night Delivery / 例外配達】Hope in the face of Horror
+UID:INeroWWrGDE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Resident Evil 7: Biohazard】 W-W-WAH 【#1】\nhttps://www.youtube.com/watch?v=mzR5CjLXZtE
+DURATION:PT2H
+DTSTART:20210726T190000Z
+SUMMARY:Ina: 【Resident Evil 7: Biohazard】 W-W-WAH 【#1】
+UID:mzR5CjLXZtE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TLOZ: SKYWARD SWORD】How It All Began...! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=6MO81KCYz-k
@@ -18,11 +25,11 @@ SUMMARY:Kiara: 【TLOZ: SKYWARD SWORD】How It All Began...! #kfp #キアライ�
 UID:6MO81KCYz-k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Resident Evil 7: Biohazard】 W-W-WAH 【#1】\nhttps://www.youtube.com/watch?v=mzR5CjLXZtE
+DESCRIPTION:【Resident Evil 7: Biohazard】 143 【#2】\nhttps://www.youtube.com/watch?v=fIO0V-BdlVQ
 DURATION:PT2H
-DTSTART:20210726T190000Z
-SUMMARY:Ina: 【Resident Evil 7: Biohazard】 W-W-WAH 【#1】
-UID:mzR5CjLXZtE
+DTSTART:20210727T200000Z
+SUMMARY:Ina: 【Resident Evil 7: Biohazard】 143 【#2】
+UID:fIO0V-BdlVQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【WE WERE HERE TOGETHER】A Rare Ametori Has Appeared! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=b9-iggvRWXw
