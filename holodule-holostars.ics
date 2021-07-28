@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－7月が終わろうとしている－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=1R7co-mXRo8
-DURATION:PT2H
-DTSTART:20210729T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－7月が終わろうとしている－【ホロスターズ/夕刻ロベル】
-UID:1R7co-mXRo8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】#無知クラ ハードコアでトラップ作るってマジ!?【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=hnK8JNB7dMQ
 DURATION:PT2H
 DTSTART:20210727T150000Z
@@ -30,5 +23,26 @@ DURATION:PT2H
 DTSTART:20210728T060000Z
 SUMMARY:🍕アルランディス: 【DJ ARN】夏っぽい曲をかけたいけど夏っぽいってそもそも何？って話【アルランディス/ホロスターズ】
 UID:AD4ENinbQeU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－7月が終わろうとしている－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=1R7co-mXRo8
+DURATION:PT2H
+DTSTART:20210729T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－7月が終わろうとしている－【ホロスターズ/夕刻ロベル】
+UID:1R7co-mXRo8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【egg is broken. heart is too.】卵運びのロベが今日も行く【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=O3G0pipJFH0
+DURATION:PT2H
+DTSTART:20210729T040000Z
+SUMMARY:🍷夕刻ロベル: 【egg is broken. heart is too.】卵運びのロベが今日も行く【ホロスターズ/夕刻ロベル】
+UID:O3G0pipJFH0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】スペシャルゲストとAPEXやってみる。\nhttps://www.youtube.com/watch?v=krzoHgSSMwM
+DURATION:PT2H
+DTSTART:20210728T130000Z
+SUMMARY:🎭アステル・レダ: 【APEX】スペシャルゲストとAPEXやってみる。
+UID:krzoHgSSMwM
 END:VEVENT
 END:VCALENDAR
