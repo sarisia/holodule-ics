@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#ばぶ魔ヶ刻でVer2】俺2.0【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=Yx1GbpCr1us
-DURATION:PT2H
-DTSTART:20210731T110000Z
-SUMMARY:荒咬オウガ: 【#ばぶ魔ヶ刻でVer2】俺2.0【荒咬オウガ/ホロスターズ】
-UID:Yx1GbpCr1us
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【耐久】80万人いくまで歌う！！！！！！いっくぞおおおお\nhttps://www.youtube.com/watch?v=9vif97naFK0
 DURATION:PT2H
 DTSTART:20210730T133000Z
 SUMMARY:🌲大神ミオ: 【耐久】80万人いくまで歌う！！！！！！いっくぞおおおお
 UID:9vif97naFK0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ばぶ魔ヶ刻でVer2】俺2.0【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=Yx1GbpCr1us
+DURATION:PT2H
+DTSTART:20210731T110000Z
+SUMMARY:荒咬オウガ: 【#ばぶ魔ヶ刻でVer2】俺2.0【荒咬オウガ/ホロスターズ】
+UID:Yx1GbpCr1us
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝雑】OHAPOL🌞TIME【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=5y_86kGq794
@@ -123,18 +123,18 @@ SUMMARY:🐏角巻わため: 【Minecraft】そらちゃんハウスの下準備
 UID:1cAvIqTVFZU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#11【YABE S2】No title but by the way KING cover hit 3M views wooo【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=cn5jHGL8l58
-DURATION:PT2H
-DTSTART:20210731T040000Z
-SUMMARY:Reine: #11【YABE S2】No title but by the way KING cover hit 3M views wooo【hololiveID 2nd gen】
-UID:cn5jHGL8l58
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DEATH STRANDING】I TOTALLY DID NOT FORGET TO FETCH MY BIKE LAST TIME【hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=7KKBuCWpPmc
 DURATION:PT2H
 DTSTART:20210730T140000Z
 SUMMARY:Anya: 【DEATH STRANDING】I TOTALLY DID NOT FORGET TO FETCH MY BIKE LAST TIME【hololive ID 2nd Generation】
 UID:7KKBuCWpPmc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#11【YABE S2】No title but by the way KING cover hit 3M views wooo【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=cn5jHGL8l58
+DURATION:PT2H
+DTSTART:20210731T040000Z
+SUMMARY:Reine: #11【YABE S2】No title but by the way KING cover hit 3M views wooo【hololiveID 2nd gen】
+UID:cn5jHGL8l58
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【料理配信】ラーメンぺこ二郎開店します！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=C0Oje80l7Js
@@ -186,13 +186,6 @@ SUMMARY:🎭アステル・レダ: 【戦場のフーガ】 ｹﾓﾉがだぁ�
 UID:UDMh2-sKuIs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【A Short Hike】自由気ままに夏の思い出つくろう【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=khzyAA1FV8o
-DURATION:PT2H
-DTSTART:20210731T070000Z
-SUMMARY:🍕アルランディス: 【A Short Hike】自由気ままに夏の思い出つくろう【アルランディス/ホロスターズ】
-UID:khzyAA1FV8o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】帰ってきたホロ鯖！【Hololive/Akaihaato】\nhttps://www.youtube.com/watch?v=GGcs4ussEnI
 DURATION:PT2H
 DTSTART:20210730T150000Z
@@ -221,18 +214,18 @@ SUMMARY:🌟夜空メル: 【ASMR/メン限】KU100/ひんやり涼しい夏のA
 UID:PW2BNS6v56c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】STARS、キャラ決めたりチーム力を高めたりするぞ!!【岸堂天真/律可/奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=-kPrOq13c5k
-DURATION:PT2H
-DTSTART:20210731T073000Z
-SUMMARY:🦔💨岸堂天真: 【APEX】STARS、キャラ決めたりチーム力を高めたりするぞ!!【岸堂天真/律可/奏手イヅル/ホロスターズ】
-UID:-kPrOq13c5k
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:TACO BELL: THE STREAM\nhttps://www.youtube.com/watch?v=zuIDDWQlUWg
 DURATION:PT2H
 DTSTART:20210731T000035Z
 SUMMARY:Gura: TACO BELL: THE STREAM
 UID:zuIDDWQlUWg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】STARS、キャラ決めたりチーム力を高めたりするぞ!!【岸堂天真/律可/奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=-kPrOq13c5k
+DURATION:PT2H
+DTSTART:20210731T073000Z
+SUMMARY:🦔💨岸堂天真: 【APEX】STARS、キャラ決めたりチーム力を高めたりするぞ!!【岸堂天真/律可/奏手イヅル/ホロスターズ】
+UID:-kPrOq13c5k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ハードコア！！生存！？死んだら終了【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=QwhXY_WE8rM
