@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【POKEMON UNITE】LET THIS BE MY NEW ADDICTION【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=qZl7Ybm0P7o
-DURATION:PT2H
-DTSTART:20210801T082705Z
-SUMMARY:Ollie: 【POKEMON UNITE】LET THIS BE MY NEW ADDICTION【Hololive Indonesia 2nd Gen】
-UID:qZl7Ybm0P7o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【CHESS.COM】CHESS IS THE NEW APEX【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=VgvdeUZeKt8
 DURATION:PT2H
 DTSTART:20210802T025850Z
@@ -18,24 +11,17 @@ SUMMARY:Ollie: 【CHESS.COM】CHESS IS THE NEW APEX【Hololive Indonesia 2nd Gen
 UID:VgvdeUZeKt8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【hololiveID】Free Talk : Welcome August ~!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=5BESeKucwHA
-DURATION:PT2H
-DTSTART:20210802T120000Z
-SUMMARY:🐿Risu: 【hololiveID】Free Talk : Welcome August ~!!!【Ayunda Risu】
-UID:5BESeKucwHA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【KARAOKE】WELCOMING AUGUST WITH YOU【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=v9sJ9aR9Hkk
-DURATION:PT2H
-DTSTART:20210801T140000Z
-SUMMARY:Reine: 【KARAOKE】WELCOMING AUGUST WITH YOU【Pavolia Reine/hololiveID 2nd gen】
-UID:v9sJ9aR9Hkk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【GARTIC PHONE】SKADADDLE SKADOODLE~!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=zBwBYh4QFDY
 DURATION:PT2H
 DTSTART:20210802T135839Z
 SUMMARY:Ollie: 【GARTIC PHONE】SKADADDLE SKADOODLE~!!【Hololive Indonesia 2nd Gen】
 UID:zBwBYh4QFDY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololiveID】Free Talk : Welcome August ~!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=5BESeKucwHA
+DURATION:PT2H
+DTSTART:20210802T120000Z
+SUMMARY:🐿Risu: 【hololiveID】Free Talk : Welcome August ~!!!【Ayunda Risu】
+UID:5BESeKucwHA
 END:VEVENT
 END:VCALENDAR
