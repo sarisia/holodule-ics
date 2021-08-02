@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【思考の館】「語彙力×推理力」コードネーム!! ホロスタあにまーれコラボ【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=arqUCWlb23M
+DURATION:PT2H
+DTSTART:20210802T130000Z
+SUMMARY:🦔💨岸堂天真: 【思考の館】「語彙力×推理力」コードネーム!! ホロスタあにまーれコラボ【岸堂天真/ホロスターズ】
+UID:arqUCWlb23M
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【戦場のフーガ】 どうしてこんな重くなっちまったんだ！  /  アステル・レダ\nhttps://www.youtube.com/watch?v=e9LC1CdUrzA
 DURATION:PT2H
 DTSTART:20210801T160000Z
@@ -58,5 +65,12 @@ DURATION:PT2H
 DTSTART:20210802T040000Z
 SUMMARY:🍷夕刻ロベル: 【Bus Simulator 18】運転手ロベル【ホロスターズ/夕刻ロベル】
 UID:wrbfbt9_3mE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－暑い中雑談をする男－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=dwJHiplHx6Y
+DURATION:PT2H
+DTSTART:20210803T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－暑い中雑談をする男－【ホロスターズ/夕刻ロベル】
+UID:dwJHiplHx6Y
 END:VEVENT
 END:VCALENDAR
