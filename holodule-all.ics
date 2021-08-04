@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【APEX】NEW SEASON... Checking out all the new things【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=uRZtR4_SJL4
+DURATION:PT2H
+DTSTART:20210804T070000Z
+SUMMARY:Reine: 【APEX】NEW SEASON... Checking out all the new things【hololiveID 2nd gen】
+UID:uRZtR4_SJL4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 雑談/お礼 】にぇ～～～～～！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=vyF_BTP27i8
 DURATION:PT2H
 DTSTART:20210804T080000Z
@@ -37,13 +44,6 @@ DURATION:PT2H
 DTSTART:20210803T130000Z
 SUMMARY:雪花ラミィ: 【Minecraft】ハードコア生活に挑戦！何分生き残れる？【雪花ラミィ/ホロライブ】
 UID:uGu-i1i2Ppo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#3【 Minecraft Hardcore 】ハードコアで夏休みを生き残る！🌻 みこのなつやすみ～おわらない全ロスとの戦い～【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=1FXhj4qFOf0
-DURATION:PT2H
-DTSTART:20210804T030000Z
-SUMMARY:🌸さくらみこ: #3【 Minecraft Hardcore 】ハードコアで夏休みを生き残る！🌻 みこのなつやすみ～おわらない全ロスとの戦い～【ホロライブ/さくらみこ】
-UID:1FXhj4qFOf0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MATH CHALLENGE】 LET'S TRY OUR BEST TO SOLVE ALL OF THE EQUATIONS!!【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=GqeGU6itn_8
@@ -345,6 +345,13 @@ DURATION:PT2H
 DTSTART:20210803T070000Z
 SUMMARY:💋癒月ちょこ: 【Minecraft】ChocoHouse完成させる！【ホロライブ/癒月ちょこ】
 UID:2aGZ3Et7zE8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 マリオゴルフ スーパーラッシュ】え～～トワ様が一番強い世界戦ってここですか？【#ホロゴルフ部】\nhttps://www.youtube.com/watch?v=MQgZvolC6bM
+DURATION:PT2H
+DTSTART:20210804T130000Z
+SUMMARY:👾常闇トワ: 【 マリオゴルフ スーパーラッシュ】え～～トワ様が一番強い世界戦ってここですか？【#ホロゴルフ部】
+UID:MQgZvolC6bM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】KARAOKE!! プチ告知もあり！！【ホロライブ / 常闇トワ】\nhttps://www.youtube.com/watch?v=BgDvseOC4Ks
