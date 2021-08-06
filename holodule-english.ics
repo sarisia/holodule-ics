@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Monkey Review】Learning About Monkeys!\nhttps://www.youtube.com/watch?v=0AI7J0uxKv0
+DURATION:PT2H
+DTSTART:20210806T230500Z
+SUMMARY:Amelia: 【Monkey Review】Learning About Monkeys!
+UID:0AI7J0uxKv0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Penguin's Dogma】Penguins aren't allowed to be scary\nhttps://www.youtube.com/watch?v=_40EDEqIV7k
 DURATION:PT2H
 DTSTART:20210806T030000Z
