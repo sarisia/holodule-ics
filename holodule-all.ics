@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】作業BGMに如何ですか？【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=y9rzXCtmBSk
-DURATION:PT2H
-DTSTART:20210805T000000Z
-SUMMARY:雪花ラミィ: 【Minecraft】作業BGMに如何ですか？【雪花ラミィ/ホロライブ】
-UID:y9rzXCtmBSk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Outlast2】やばすぎていろいろ視聴注意なホラー【律可/ホロスターズ】＃りつすた\nhttps://www.youtube.com/watch?v=VpfXFc1PMyA
 DURATION:PT2H
 DTSTART:20210805T140000Z
@@ -23,6 +16,13 @@ DURATION:PT2H
 DTSTART:20210806T063000Z
 SUMMARY:獅白ぼたん: 【Minecraft】雨が降ったら配信終了【獅白ぼたん/ホロライブ】
 UID:18acYev10fM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】作業BGMに如何ですか？【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=y9rzXCtmBSk
+DURATION:PT2H
+DTSTART:20210805T000000Z
+SUMMARY:雪花ラミィ: 【Minecraft】作業BGMに如何ですか？【雪花ラミィ/ホロライブ】
+UID:y9rzXCtmBSk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【影廊 -Shadow Corridor-】1時間経ったら即終了‼1時間以内にクリアを目指す‼ / time attack horror【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=yfQgdrtO_5w
@@ -39,18 +39,18 @@ SUMMARY:🤖ロボ子さん: 【APEX】V最協S3顔合わせDAYOーーーーー�
 UID:MvHlpBhg4TM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【THE HENRY STICKMIN COLLECTION】FINALE. #HololiveEnglish\nhttps://www.youtube.com/watch?v=Xl6pDllXK_k
-DURATION:PT2H
-DTSTART:20210805T035910Z
-SUMMARY:Calli: 【THE HENRY STICKMIN COLLECTION】FINALE. #HololiveEnglish
-UID:Xl6pDllXK_k
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【  部屋紹介 】夏のリスナー部屋探偵さくらみこ！Listener Room Visit【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=aHuJnS338yc
 DURATION:PT2H
 DTSTART:20210805T110000Z
 SUMMARY:🌸さくらみこ: 【  部屋紹介 】夏のリスナー部屋探偵さくらみこ！Listener Room Visit【ホロライブ/さくらみこ】
 UID:aHuJnS338yc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【THE HENRY STICKMIN COLLECTION】FINALE. #HololiveEnglish\nhttps://www.youtube.com/watch?v=Xl6pDllXK_k
+DURATION:PT2H
+DTSTART:20210805T035910Z
+SUMMARY:Calli: 【THE HENRY STICKMIN COLLECTION】FINALE. #HololiveEnglish
+UID:Xl6pDllXK_k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:駆けろ / 星街すいせい(official)\nhttps://www.youtube.com/watch?v=IqT6cHCT1TE
@@ -95,18 +95,18 @@ SUMMARY:👯兎田ぺこら: 【Minecraft】ハイパーアスレチック、PES
 UID:9gXB0-dsn1c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 姫のお話 】睡眠BGMを流しながら…zzz(・o・🍬)【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=JHKafp-iSy8
-DURATION:PT2H
-DTSTART:20210805T145500Z
-SUMMARY:🍬姫森ルーナ: 【 姫のお話 】睡眠BGMを流しながら…zzz(・o・🍬)【#姫森ルーナ/ホロライブ】
-UID:JHKafp-iSy8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[Here Comes Niko!] Comfy game for sleepy shark\nhttps://www.youtube.com/watch?v=IFK-GNj8Fts
 DURATION:PT2H
 DTSTART:20210806T000128Z
 SUMMARY:Gura: [Here Comes Niko!] Comfy game for sleepy shark
 UID:IFK-GNj8Fts
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 姫のお話 】睡眠BGMを流しながら…zzz(・o・🍬)【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=JHKafp-iSy8
+DURATION:PT2H
+DTSTART:20210805T145500Z
+SUMMARY:🍬姫森ルーナ: 【 姫のお話 】睡眠BGMを流しながら…zzz(・o・🍬)【#姫森ルーナ/ホロライブ】
+UID:JHKafp-iSy8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【帰ってきた魔界村】いけいけ進め～～！🐈＃2【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=D4a7jNJrfeA
@@ -193,18 +193,18 @@ SUMMARY:🍕アルランディス: 【飲酒雑談】居酒屋ARNでかく語り
 UID:VYfkZHveM3M
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【風雨来記4】度々、旅をする男【ホロスターズ/夕刻ロベル】#6\nhttps://www.youtube.com/watch?v=gpFlK-a3bSE
+DURATION:PT2H
+DTSTART:20210806T080000Z
+SUMMARY:🍷夕刻ロベル: 【風雨来記4】度々、旅をする男【ホロスターズ/夕刻ロベル】#6
+UID:gpFlK-a3bSE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【わちゃスタ #12】わちゃスタ人気シーンを一気にプレイバック！【復習動画】\nhttps://www.youtube.com/watch?v=bPxGu-GcaBk
 DURATION:PT2H
 DTSTART:20210805T100000Z
 SUMMARY:ホロスターズ: 【わちゃスタ #12】わちゃスタ人気シーンを一気にプレイバック！【復習動画】
 UID:bPxGu-GcaBk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】チーム名絶対決める！構成も決める！ランクもプラチナ行く！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=iASc_DmqQNw
-DURATION:PT2H
-DTSTART:20210805T030000Z
-SUMMARY:🦔💨岸堂天真: 【APEX】チーム名絶対決める！構成も決める！ランクもプラチナ行く！【岸堂天真/ホロスターズ】
-UID:iASc_DmqQNw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【CORE GAMES】THE BOOMING FREE GAMES PLATFORM...?!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=U1u4YHq4XBw
@@ -219,6 +219,13 @@ DURATION:PT2H
 DTSTART:20210806T040000Z
 SUMMARY:🍷夕刻ロベル: 【eBASEBALL プロ野球スピリッツ2021 グランドスラム】甲子園優勝を目指す男【ホロスターズ/夕刻ロベル】
 UID:Uw-ukOovJZ4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】チーム名絶対決める！構成も決める！ランクもプラチナ行く！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=iASc_DmqQNw
+DURATION:PT2H
+DTSTART:20210805T030000Z
+SUMMARY:🦔💨岸堂天真: 【APEX】チーム名絶対決める！構成も決める！ランクもプラチナ行く！【岸堂天真/ホロスターズ】
+UID:iASc_DmqQNw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】V最協 初顔合わせ\nhttps://www.youtube.com/watch?v=0ndg8ZMCMNc
@@ -305,6 +312,13 @@ SUMMARY:🌺花咲みやび: 【Minecraft】キレイになってもどこがキ
 UID:JrIL37k6ngg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】【】\nhttps://www.youtube.com/watch?v=oZedeiZYJy0
+DURATION:PT2H
+DTSTART:20210806T150000Z
+SUMMARY:❤赤井はあと: 【Minecraft】【】
+UID:oZedeiZYJy0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－週末だということに驚いてる男－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=99c5twKFzRA
 DURATION:PT2H
 DTSTART:20210806T010000Z
@@ -352,6 +366,13 @@ DURATION:PT2H
 DTSTART:20210805T100000Z
 SUMMARY:尾丸ポルカ: 【ポルカの伝説】マネージャーとスタッフのリークが止まらない！？
 UID:EME5lsUKMYE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マイクラ】ちぇりお整理しながら雑談【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=T6tvimMZRks
+DURATION:PT2H
+DTSTART:20210806T060000Z
+SUMMARY:影山シエン: 【マイクラ】ちぇりお整理しながら雑談【影山シエン/ホロスターズ】
+UID:T6tvimMZRks
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【笛吹きのそら】部屋で笛見つけたから吹いてみる【＃ときのそら生放送】\nhttps://www.youtube.com/watch?v=VYkDgkUMVIA
@@ -424,10 +445,10 @@ SUMMARY:🚑大空スバル: 【#生スバル】第１１回ソーセージレ�
 UID:H_jf6Z-6C3Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【コラボだ！】【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=bC19nODiJR8
+DESCRIPTION:【Gartic Phone】天才画伯集う。#ホロお絵描き伝言 【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=bC19nODiJR8
 DURATION:PT2H
 DTSTART:20210806T120000Z
-SUMMARY:🏴☠宝鐘マリン: 【コラボだ！】【ホロライブ/宝鐘マリン】
+SUMMARY:🏴☠宝鐘マリン: 【Gartic Phone】天才画伯集う。#ホロお絵描き伝言 【ホロライブ/宝鐘マリン】
 UID:bC19nODiJR8
 END:VEVENT
 BEGIN:VEVENT
