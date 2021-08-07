@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:ロボティックガール - robocosan cover\nhttps://www.youtube.com/watch?v=ydprczRfM48
+DURATION:PT2H
+DTSTART:20210807T080000Z
+SUMMARY:🤖ロボ子さん: ロボティックガール - robocosan cover
+UID:ydprczRfM48
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】久しぶりにログイン！これから何しようかな！【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=lezMEBmDB_M
+DURATION:PT2H
+DTSTART:20210807T100000Z
+SUMMARY:👾常闇トワ: 【Minecraft】久しぶりにログイン！これから何しようかな！【常闇トワ/ホロライブ】
+UID:lezMEBmDB_M
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 高級クラブルーナ 】23:00～OPEN🥃🌃【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=VVcuuohsmSw
 DURATION:PT2H
 DTSTART:20210807T140000Z
@@ -23,6 +37,13 @@ DURATION:PT2H
 DTSTART:20210806T150000Z
 SUMMARY:❤赤井はあと: 【Minecraft】おやすみマイクラ【Hololive/Akaihaato】
 UID:oZedeiZYJy0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:マリ虐はたすからない【hololive/宝鐘マリン】\nhttps://www.youtube.com/watch?v=NsWom3HiN7s
+DURATION:PT2H
+DTSTART:20210807T132428Z
+SUMMARY:🏴☠宝鐘マリン: マリ虐はたすからない【hololive/宝鐘マリン】
+UID:NsWom3HiN7s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ロマサガ3】カタリナ主人公で進めていきます！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=QaKgoFyHPzg
@@ -46,11 +67,32 @@ SUMMARY:🔥不知火フレア: 怪物／不知火フレア(Cover)
 UID:u5r8B1fDB8g
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】マイクラ1年生！目指せ初エンドラ討伐に向けて【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=lioS-IaBx9Q
+DURATION:PT2H
+DTSTART:20210807T140000Z
+SUMMARY:🍎アキロゼ: 【Minecraft】マイクラ1年生！目指せ初エンドラ討伐に向けて【ホロライブ/アキロゼ】
+UID:lioS-IaBx9Q
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【FF7R】ついに最終回 はじめてのFF7やってみる！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=oL86PM0QIrE
 DURATION:PT2H
 DTSTART:20210808T040000Z
 SUMMARY:👯兎田ぺこら: 【FF7R】ついに最終回 はじめてのFF7やってみる！！！！！ぺこ！【ホロライブ/兎田ぺこら】
 UID:oL86PM0QIrE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#常闇トワ生誕祭2021】ゲストもいっぱい！楽しんじゃお！✨【3DLIVE】\nhttps://www.youtube.com/watch?v=NuOJhtBC7R4
+DURATION:PT2H
+DTSTART:20210808T110000Z
+SUMMARY:👾常闇トワ: 【#常闇トワ生誕祭2021】ゲストもいっぱい！楽しんじゃお！✨【3DLIVE】
+UID:NuOJhtBC7R4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Booooooooooooooooooooooooooom\nhttps://www.youtube.com/watch?v=RLfFcVMdzVc
+DURATION:PT2H
+DTSTART:20210806T153804Z
+SUMMARY:🐏角巻わため: Booooooooooooooooooooooooooom
+UID:RLfFcVMdzVc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FF7R】はじめてのFF7やってみる！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=LcTY9lu5VSE
@@ -67,10 +109,10 @@ SUMMARY:💫天音かなた: 夢ならたくさんみたかなた
 UID:woubC07dkVI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【3DLIVE/アンコール】「オツキミリサイタル」歌ってみた🌕 【＃不知火フレア2周年記念ライブ\nhttps://www.youtube.com/watch?v=r_3n1KNNigI
+DESCRIPTION:【3DLIVE/アンコール】「オツキミリサイタル」歌ってみた🌕 【＃不知火フレア2周年記念ライブ】\nhttps://www.youtube.com/watch?v=r_3n1KNNigI
 DURATION:PT2H
 DTSTART:20210807T131500Z
-SUMMARY:🔥不知火フレア: 【3DLIVE/アンコール】「オツキミリサイタル」歌ってみた🌕 【＃不知火フレア2周年記念ライブ
+SUMMARY:🔥不知火フレア: 【3DLIVE/アンコール】「オツキミリサイタル」歌ってみた🌕 【＃不知火フレア2周年記念ライブ】
 UID:r_3n1KNNigI
 END:VEVENT
 BEGIN:VEVENT
@@ -102,90 +144,6 @@ SUMMARY:🏮夏色まつり: 【雑談】激レア雑談！いろいろはなそ
 UID:kMXEpTAlVcA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【晩酌】今夜もマイクラ夜釣り晩酌～ウィスキーを添えて～【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=wxK6Ub-5C9U
-DURATION:PT2H
-DTSTART:20210807T130000Z
-SUMMARY:雪花ラミィ: 【晩酌】今夜もマイクラ夜釣り晩酌～ウィスキーを添えて～【雪花ラミィ/ホロライブ】
-UID:wxK6Ub-5C9U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【2周年カウントダウン】今日だけは初期団長を顧みつつ省みるッッ！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=PB0oFoi6rNs
-DURATION:PT2H
-DTSTART:20210807T143000Z
-SUMMARY:⚔白銀ノエル: 【2周年カウントダウン】今日だけは初期団長を顧みつつ省みるッッ！【白銀ノエル/ホロライブ】
-UID:PB0oFoi6rNs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】V最協S3練習IKZ【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=V7YhiFh3Dts
-DURATION:PT2H
-DTSTART:20210807T040000Z
-SUMMARY:🤖ロボ子さん: 【APEX】V最協S3練習IKZ【ホロライブ/ロボ子さん】
-UID:V7YhiFh3Dts
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】森の洋館探索するよ！！！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=YUv2KBae8UM
-DURATION:PT2H
-DTSTART:20210807T080000Z
-SUMMARY:🌟夜空メル: 【Minecraft】森の洋館探索するよ！！！【ホロライブ/夜空メル】
-UID:YUv2KBae8UM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】AKUKIN社長のホロ鯖お忍び計画【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=PAVE5ykNRBs
-DURATION:PT2H
-DTSTART:20210807T130000Z
-SUMMARY:⚓湊あくあ: 【Minecraft】AKUKIN社長のホロ鯖お忍び計画【湊あくあ/ホロライブ】
-UID:PAVE5ykNRBs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】第６０回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=-u-4j9xzeHw
-DURATION:PT2H
-DTSTART:20210807T130000Z
-SUMMARY:🐏角巻わため: 【歌枠】第６０回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】
-UID:-u-4j9xzeHw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ロボティックガール - robocosan cover\nhttps://www.youtube.com/watch?v=ydprczRfM48
-DURATION:PT2H
-DTSTART:20210807T080000Z
-SUMMARY:🤖ロボ子さん: ロボティックガール - robocosan cover
-UID:ydprczRfM48
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】久しぶりにログイン！これから何しようかな！【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=lezMEBmDB_M
-DURATION:PT2H
-DTSTART:20210807T100000Z
-SUMMARY:👾常闇トワ: 【Minecraft】久しぶりにログイン！これから何しようかな！【常闇トワ/ホロライブ】
-UID:lezMEBmDB_M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:マリ虐はたすからない【hololive/宝鐘マリン】\nhttps://www.youtube.com/watch?v=NsWom3HiN7s
-DURATION:PT2H
-DTSTART:20210807T132428Z
-SUMMARY:🏴☠宝鐘マリン: マリ虐はたすからない【hololive/宝鐘マリン】
-UID:NsWom3HiN7s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】マイクラ1年生！目指せ初エンドラ討伐に向けて【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=lioS-IaBx9Q
-DURATION:PT2H
-DTSTART:20210807T140000Z
-SUMMARY:🍎アキロゼ: 【Minecraft】マイクラ1年生！目指せ初エンドラ討伐に向けて【ホロライブ/アキロゼ】
-UID:lioS-IaBx9Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#常闇トワ生誕祭2021】ゲストもいっぱい！楽しんじゃお！✨【3DLIVE】\nhttps://www.youtube.com/watch?v=NuOJhtBC7R4
-DURATION:PT2H
-DTSTART:20210808T110000Z
-SUMMARY:👾常闇トワ: 【#常闇トワ生誕祭2021】ゲストもいっぱい！楽しんじゃお！✨【3DLIVE】
-UID:NuOJhtBC7R4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Minecraft 】はあちゃまとおデートをする【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=5LofBO8Ezbk
-DURATION:PT2H
-DTSTART:20210807T130000Z
-SUMMARY:🌸さくらみこ: 【 Minecraft 】はあちゃまとおデートをする【ホロライブ/さくらみこ】
-UID:5LofBO8Ezbk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【7日目】オラと博士とフブキとすこん部の夏休み【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=hNZ4YyluBRA
 DURATION:PT2H
 DTSTART:20210806T220000Z
@@ -193,11 +151,25 @@ SUMMARY:🌽白上フブキ: 【7日目】オラと博士とフブキとすこ�
 UID:hNZ4YyluBRA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【晩酌】今夜もマイクラ夜釣り晩酌～ウィスキーを添えて～【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=wxK6Ub-5C9U
+DURATION:PT2H
+DTSTART:20210807T130000Z
+SUMMARY:雪花ラミィ: 【晩酌】今夜もマイクラ夜釣り晩酌～ウィスキーを添えて～【雪花ラミィ/ホロライブ】
+UID:wxK6Ub-5C9U
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#5【FF9】生まれてはじめてのファイナルファンタジー９【ホロライブ/戌神ころね】\nhttps://www.youtube.com/watch?v=fZpgsceyLsA
 DURATION:PT2H
 DTSTART:20210807T140000Z
 SUMMARY:🥐戌神ころね: #5【FF9】生まれてはじめてのファイナルファンタジー９【ホロライブ/戌神ころね】
 UID:fZpgsceyLsA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【2周年カウントダウン】今日だけは初期団長を顧みつつ省みるッッ！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=PB0oFoi6rNs
+DURATION:PT2H
+DTSTART:20210807T143000Z
+SUMMARY:⚔白銀ノエル: 【2周年カウントダウン】今日だけは初期団長を顧みつつ省みるッッ！【白銀ノエル/ホロライブ】
+UID:PB0oFoi6rNs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#生スバル】夏休みスペシャル！ゲスト有！？おはスバ！/FREE TALK【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=tLzXVo8ZCIM
@@ -221,10 +193,31 @@ SUMMARY:🍙猫又おかゆ: 【歌枠】ちょっと久しぶりかも！歌う
 UID:_hIwZ4-a2mE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Booooooooooooooooooooooooooom\nhttps://www.youtube.com/watch?v=RLfFcVMdzVc
+DESCRIPTION:【Minecraft】森の洋館探索するよ！！！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=YUv2KBae8UM
 DURATION:PT2H
-DTSTART:20210806T153804Z
-SUMMARY:🐏角巻わため: Booooooooooooooooooooooooooom
-UID:RLfFcVMdzVc
+DTSTART:20210807T080000Z
+SUMMARY:🌟夜空メル: 【Minecraft】森の洋館探索するよ！！！【ホロライブ/夜空メル】
+UID:YUv2KBae8UM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】V最協S3練習IKZ【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=V7YhiFh3Dts
+DURATION:PT2H
+DTSTART:20210807T040000Z
+SUMMARY:🤖ロボ子さん: 【APEX】V最協S3練習IKZ【ホロライブ/ロボ子さん】
+UID:V7YhiFh3Dts
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】AKUKIN社長のホロ鯖お忍び計画【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=PAVE5ykNRBs
+DURATION:PT2H
+DTSTART:20210807T130000Z
+SUMMARY:⚓湊あくあ: 【Minecraft】AKUKIN社長のホロ鯖お忍び計画【湊あくあ/ホロライブ】
+UID:PAVE5ykNRBs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】第６０回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=-u-4j9xzeHw
+DURATION:PT2H
+DTSTART:20210807T130000Z
+SUMMARY:🐏角巻わため: 【歌枠】第６０回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】
+UID:-u-4j9xzeHw
 END:VEVENT
 END:VCALENDAR
