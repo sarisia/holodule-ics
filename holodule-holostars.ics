@@ -4,32 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】天真村の整理整頓に重い腰を上げた男【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=-BxJTHq_JB8
-DURATION:PT2H
-DTSTART:20210806T150000Z
-SUMMARY:🍕アルランディス: 【Minecraft】天真村の整理整頓に重い腰を上げた男【アルランディス/ホロスターズ】
-UID:-BxJTHq_JB8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Subnautica: Below Zero】夏だし！深海いこう！【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=BSpgKMYoFfs
-DURATION:PT2H
-DTSTART:20210807T130000Z
-SUMMARY:🌺花咲みやび: 【Subnautica: Below Zero】夏だし！深海いこう！【花咲みやび/ホロスターズ】
-UID:BSpgKMYoFfs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【セリフ枠】部下達の欲望を発散させる配信【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=NP8aypSLQow
 DURATION:PT2H
 DTSTART:20210807T110000Z
 SUMMARY:影山シエン: 【セリフ枠】部下達の欲望を発散させる配信【影山シエン/ホロスターズ】
 UID:NP8aypSLQow
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Bus Simulator 18】全員乗せます【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=LGHTfxAk4hQ
-DURATION:PT2H
-DTSTART:20210807T100000Z
-SUMMARY:🍕アルランディス: 【Bus Simulator 18】全員乗せます【アルランディス/ホロスターズ】
-UID:LGHTfxAk4hQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】全自動毛刈り装置!?!?!?【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Z1usqhnO6Y0
@@ -39,6 +18,34 @@ SUMMARY:🍕アルランディス: 【Minecraft】全自動毛刈り装置!?!?!?
 UID:Z1usqhnO6Y0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Among Us】言い訳がうまい人にわたしはなりたい【律可/ホロスターズ】 #宇宙人狼雑魚決定戦S2\nhttps://www.youtube.com/watch?v=0YQIzG6dn1I
+DURATION:PT2H
+DTSTART:20210808T110000Z
+SUMMARY:⚙律可: 【Among Us】言い訳がうまい人にわたしはなりたい【律可/ホロスターズ】 #宇宙人狼雑魚決定戦S2
+UID:0YQIzG6dn1I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Subnautica: Below Zero】夏だし！深海いこう！【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=BSpgKMYoFfs
+DURATION:PT2H
+DTSTART:20210807T130000Z
+SUMMARY:🌺花咲みやび: 【Subnautica: Below Zero】夏だし！深海いこう！【花咲みやび/ホロスターズ】
+UID:BSpgKMYoFfs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Bus Simulator 18】全員乗せます【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=LGHTfxAk4hQ
+DURATION:PT2H
+DTSTART:20210807T100000Z
+SUMMARY:🍕アルランディス: 【Bus Simulator 18】全員乗せます【アルランディス/ホロスターズ】
+UID:LGHTfxAk4hQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Apex】実はシア一回も使ったことない【奏手イヅル】\nhttps://www.youtube.com/watch?v=Q8vaDFAfM-I
+DURATION:PT2H
+DTSTART:20210807T160000Z
+SUMMARY:🎸奏手イヅル: 【Apex】実はシア一回も使ったことない【奏手イヅル】
+UID:Q8vaDFAfM-I
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】V最協 最強練習 アステル ロボ子さん ちょこ先生\nhttps://www.youtube.com/watch?v=GJ55GD98tRY
 DURATION:PT2H
 DTSTART:20210807T040000Z
@@ -46,10 +53,10 @@ SUMMARY:🎭アステル・レダ: 【APEX】V最協 最強練習 アステル �
 UID:GJ55GD98tRY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Among Us】言い訳がうまい人にわたしはなりたい【律可/ホロスターズ】 #宇宙人狼雑魚決定戦S2\nhttps://www.youtube.com/watch?v=0YQIzG6dn1I
+DESCRIPTION:【Minecraft】天真村の整理整頓に重い腰を上げた男【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=-BxJTHq_JB8
 DURATION:PT2H
-DTSTART:20210808T110000Z
-SUMMARY:⚙律可: 【Among Us】言い訳がうまい人にわたしはなりたい【律可/ホロスターズ】 #宇宙人狼雑魚決定戦S2
-UID:0YQIzG6dn1I
+DTSTART:20210806T150000Z
+SUMMARY:🍕アルランディス: 【Minecraft】天真村の整理整頓に重い腰を上げた男【アルランディス/ホロスターズ】
+UID:-BxJTHq_JB8
 END:VEVENT
 END:VCALENDAR
