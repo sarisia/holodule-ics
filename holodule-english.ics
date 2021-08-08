@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:[CRAZY TAXI] BEEP BEEP your ubershark is here\nhttps://www.youtube.com/watch?v=_7b01SjiiBE
+DESCRIPTION:【IRyS】 Shiny Smily Story  / hololive IDOL PROJECT 【COVER】\nhttps://www.youtube.com/watch?v=mDN9o6GQdm4
 DURATION:PT2H
-DTSTART:20210807T001227Z
-SUMMARY:Gura: [CRAZY TAXI] BEEP BEEP your ubershark is here
-UID:_7b01SjiiBE
+DTSTART:20210808T010008Z
+SUMMARY:IRyS: 【IRyS】 Shiny Smily Story  / hololive IDOL PROJECT 【COVER】
+UID:mDN9o6GQdm4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:am owl\nhttps://www.youtube.com/watch?v=Ewc5E0b74GU
@@ -23,6 +23,13 @@ DURATION:PT2H
 DTSTART:20210807T220500Z
 SUMMARY:Amelia: ame stream
 UID:E4fol47EM50
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[CRAZY TAXI] BEEP BEEP your ubershark is here\nhttps://www.youtube.com/watch?v=_7b01SjiiBE
+DURATION:PT2H
+DTSTART:20210807T001227Z
+SUMMARY:Gura: [CRAZY TAXI] BEEP BEEP your ubershark is here
+UID:_7b01SjiiBE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Singing Stream】Another day for some fun Karaoke!\nhttps://www.youtube.com/watch?v=4WJCjPlw5P4
