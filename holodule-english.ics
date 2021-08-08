@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:am elephant\nhttps://www.youtube.com/watch?v=Ahs-wk179_o
+DURATION:PT2H
+DTSTART:20210808T100000Z
+SUMMARY:Kiara: am elephant
+UID:Ahs-wk179_o
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【IRyS】 Shiny Smily Story  / hololive IDOL PROJECT 【COVER】\nhttps://www.youtube.com/watch?v=mDN9o6GQdm4
 DURATION:PT2H
 DTSTART:20210808T010008Z
