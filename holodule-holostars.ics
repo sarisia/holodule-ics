@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:『Karaoke/歌枠』おかえり、SC  /  アステル・レダ\nhttps://www.youtube.com/watch?v=aqFRg_jQOLc
-DURATION:PT2H
-DTSTART:20210809T100000Z
-SUMMARY:🎭アステル・レダ: 『Karaoke/歌枠』おかえり、SC  /  アステル・レダ
-UID:aqFRg_jQOLc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】メンテフリーの鉄トラップを天真村に作ろう【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=jXwus2ewIns
 DURATION:PT2H
 DTSTART:20210808T160000Z
@@ -65,6 +58,13 @@ DURATION:PT2H
 DTSTART:20210808T150000Z
 SUMMARY:荒咬オウガ: 【8/9】終わらない作業枠【荒咬オウガ/ホロスターズ】
 UID:KGJQet_bTNY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:『Karaoke/歌枠』残らない方  /  アステル・レダ\nhttps://www.youtube.com/watch?v=5Z2L1IN-OLg
+DURATION:PT2H
+DTSTART:20210809T114000Z
+SUMMARY:🎭アステル・レダ: 『Karaoke/歌枠』残らない方  /  アステル・レダ
+UID:5Z2L1IN-OLg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【初心者Minecraft】りっかリゾート建築構想編【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=H7Pm3tOWBhA
