@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【DEAD SPACE】Ame in SPaaaace (w/ Aliens~)\nhttps://www.youtube.com/watch?v=5NEUn1zgMME
+DESCRIPTION:[MINECRAFT] Axlotl TUBE build\nhttps://www.youtube.com/watch?v=VhM4FoxqdZ8
 DURATION:PT2H
-DTSTART:20210810T020500Z
-SUMMARY:Amelia: 【DEAD SPACE】Ame in SPaaaace (w/ Aliens~)
-UID:5NEUn1zgMME
+DTSTART:20210811T000339Z
+SUMMARY:Gura: [MINECRAFT] Axlotl TUBE build
+UID:VhM4FoxqdZ8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【LO-FI&CHILL KARAOKE】HOLOLIVE ORIGINALS ONLY #kfp #キアライブ\nhttps://www.youtube.com/watch?v=AKCUPiA5OUs
+DURATION:PT2H
+DTSTART:20210811T200000Z
+SUMMARY:Kiara: 【LO-FI&CHILL KARAOKE】HOLOLIVE ORIGINALS ONLY #kfp #キアライブ
+UID:AKCUPiA5OUs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Chatting & Celebrating】Can't believe it's already been a month!\nhttps://www.youtube.com/watch?v=tvLEiNK_G8I
@@ -18,34 +25,6 @@ SUMMARY:IRyS: 【Chatting & Celebrating】Can't believe it's already been a mont
 UID:tvLEiNK_G8I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】WOODLAND MANSION CONQUERER!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=elyWAmaYLms
-DURATION:PT2H
-DTSTART:20210810T190000Z
-SUMMARY:Kiara: 【MINECRAFT】WOODLAND MANSION CONQUERER!! #kfp #キアライブ
-UID:elyWAmaYLms
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MANGA READING COLLAB】"Bloom Into You" with Takanashi Kiara! #hololiveEnglish\nhttps://www.youtube.com/watch?v=ZshHgTtCJag
-DURATION:PT2H
-DTSTART:20210810T135946Z
-SUMMARY:Calli: 【MANGA READING COLLAB】"Bloom Into You" with Takanashi Kiara! #hololiveEnglish
-UID:ZshHgTtCJag
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[MINECRAFT] Axlotl TUBE build\nhttps://www.youtube.com/watch?v=VhM4FoxqdZ8
-DURATION:PT2H
-DTSTART:20210811T000339Z
-SUMMARY:Gura: [MINECRAFT] Axlotl TUBE build
-UID:VhM4FoxqdZ8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Henry Stickmin Collection】how many more references are there?\nhttps://www.youtube.com/watch?v=4BThBR7F2KQ
-DURATION:PT2H
-DTSTART:20210810T030000Z
-SUMMARY:IRyS: 【The Henry Stickmin Collection】how many more references are there?
-UID:4BThBR7F2KQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Sonic Mania】I love Chili Dogs!\nhttps://www.youtube.com/watch?v=UhG_BItojWg
 DURATION:PT2H
 DTSTART:20210810T220500Z
@@ -53,10 +32,10 @@ SUMMARY:Amelia: 【Sonic Mania】I love Chili Dogs!
 UID:UhG_BItojWg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【I'M BACK!】Germany Trip - DOKOMI Memories! #KFP #キアライブ\nhttps://www.youtube.com/watch?v=GEwWlfM7K2o
+DESCRIPTION:【MINECRAFT】WOODLAND MANSION CONQUERER!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=elyWAmaYLms
 DURATION:PT2H
-DTSTART:20210809T180000Z
-SUMMARY:Kiara: 【I'M BACK!】Germany Trip - DOKOMI Memories! #KFP #キアライブ
-UID:GEwWlfM7K2o
+DTSTART:20210810T190000Z
+SUMMARY:Kiara: 【MINECRAFT】WOODLAND MANSION CONQUERER!! #kfp #キアライブ
+UID:elyWAmaYLms
 END:VEVENT
 END:VCALENDAR
