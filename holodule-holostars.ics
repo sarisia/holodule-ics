@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【APEX】今日はコーチもいるしいつもの5倍集中します。【ReTIcle/岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=wTLlFAvQvUY
+DURATION:PT2H
+DTSTART:20210812T030000Z
+SUMMARY:🦔💨岸堂天真: 【APEX】今日はコーチもいるしいつもの5倍集中します。【ReTIcle/岸堂天真/ホロスターズ】
+UID:wTLlFAvQvUY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:祝え！ 20歳！【奏手イヅル】\nhttps://www.youtube.com/watch?v=doEPriZRTWE
 DURATION:PT2H
 DTSTART:20210812T100000Z
@@ -11,18 +18,11 @@ SUMMARY:🎸奏手イヅル: 祝え！ 20歳！【奏手イヅル】
 UID:doEPriZRTWE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】オベロン出すまで【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=pCfooVMQdTQ
+DESCRIPTION:【CoD Mobile ゾンビモード】ゾンビモードは人生。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=BqfIF_l9XqY
 DURATION:PT2H
-DTSTART:20210811T092500Z
-SUMMARY:🌺花咲みやび: 【雑談】オベロン出すまで【花咲みやび/ホロスターズ】
-UID:pCfooVMQdTQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【弾き語り枠】動画があがるまで歌う！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=iXj4sUwMy7M
-DURATION:PT2H
-DTSTART:20210811T120000Z
-SUMMARY:⚙律可: 【弾き語り枠】動画があがるまで歌う！【律可/ホロスターズ】#りつすた
-UID:iXj4sUwMy7M
+DTSTART:20210812T070000Z
+SUMMARY:🌺花咲みやび: 【CoD Mobile ゾンビモード】ゾンビモードは人生。【花咲みやび/ホロスターズ】
+UID:BqfIF_l9XqY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－8月真ん中男－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=loU3CV1EgCA
@@ -30,6 +30,13 @@ DURATION:PT2H
 DTSTART:20210812T010000Z
 SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－8月真ん中男－【ホロスターズ/夕刻ロベル】
 UID:loU3CV1EgCA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】資材集め!!!ブランチマイニング!!!【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=tk_GZ56ev0I
+DURATION:PT2H
+DTSTART:20210812T150000Z
+SUMMARY:🍕アルランディス: 【Minecraft】資材集め!!!ブランチマイニング!!!【アルランディス/ホロスターズ】
+UID:tk_GZ56ev0I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【CoD Mobile ゾンビモード】ゾンビモードで大脱走！！ /  アステル・レダ\nhttps://www.youtube.com/watch?v=LTJz2a8bTV4
@@ -46,11 +53,25 @@ SUMMARY:🦔💨岸堂天真: 【CoD Mobile ゾンビモード】この中の誰
 UID:4vxF0QIUh5w
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Apex Legends】最初ソロランクからのチーム練習【律可/岸堂天真/奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=XKUCIR_QDJQ
+DURATION:PT2H
+DTSTART:20210812T014000Z
+SUMMARY:⚙律可: 【Apex Legends】最初ソロランクからのチーム練習【律可/岸堂天真/奏手イヅル/ホロスターズ】
+UID:XKUCIR_QDJQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】渋ハルカスタム、ヌンボラさんとレイドくんと！アステル\nhttps://www.youtube.com/watch?v=x5dLkCP4lY8
 DURATION:PT2H
 DTSTART:20210812T121500Z
 SUMMARY:🎭アステル・レダ: 【APEX】渋ハルカスタム、ヌンボラさんとレイドくんと！アステル
 UID:x5dLkCP4lY8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【The Greatest Penguin Heist of All Time】ペンギンがペンギンからもの盗むやつ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=1ZBL-khYaGE
+DURATION:PT2H
+DTSTART:20210812T120000Z
+SUMMARY:🍕アルランディス: 【The Greatest Penguin Heist of All Time】ペンギンがペンギンからもの盗むやつ【アルランディス/ホロスターズ】
+UID:1ZBL-khYaGE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【俺を見ろ】夏衣装をじっくり楽しむ枠【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=EX9odZxO2fc
@@ -67,83 +88,6 @@ SUMMARY:🍕アルランディス: 【Minecraft】シュルカーボックスく
 UID:3gVx0dOk_hA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】今日はコーチもいるしいつもの5倍集中します。【ReTIcle/岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=wTLlFAvQvUY
-DURATION:PT2H
-DTSTART:20210812T030000Z
-SUMMARY:🦔💨岸堂天真: 【APEX】今日はコーチもいるしいつもの5倍集中します。【ReTIcle/岸堂天真/ホロスターズ】
-UID:wTLlFAvQvUY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CoD Mobile ゾンビモード】ゾンビモードは人生。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=BqfIF_l9XqY
-DURATION:PT2H
-DTSTART:20210812T070000Z
-SUMMARY:🌺花咲みやび: 【CoD Mobile ゾンビモード】ゾンビモードは人生。【花咲みやび/ホロスターズ】
-UID:BqfIF_l9XqY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】異世界転生してエイムが100倍になればいいのに【ReTIcle/岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=qjqtGko_d9g
-DURATION:PT2H
-DTSTART:20210811T060000Z
-SUMMARY:🦔💨岸堂天真: 【APEX】異世界転生してエイムが100倍になればいいのに【ReTIcle/岸堂天真/ホロスターズ】
-UID:qjqtGko_d9g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DJ ARN】自由気ままな初心者【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=WYm1NsutY20
-DURATION:PT2H
-DTSTART:20210811T060000Z
-SUMMARY:🍕アルランディス: 【DJ ARN】自由気ままな初心者【アルランディス/ホロスターズ】
-UID:WYm1NsutY20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】資材集め!!!ブランチマイニング!!!【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=tk_GZ56ev0I
-DURATION:PT2H
-DTSTART:20210812T150000Z
-SUMMARY:🍕アルランディス: 【Minecraft】資材集め!!!ブランチマイニング!!!【アルランディス/ホロスターズ】
-UID:tk_GZ56ev0I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【赤マント】Re:Re:赤マント【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=IwCgElHQB6g
-DURATION:PT2H
-DTSTART:20210811T080000Z
-SUMMARY:🍷夕刻ロベル: 【赤マント】Re:Re:赤マント【ホロスターズ/夕刻ロベル】
-UID:IwCgElHQB6g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Apex Legends】最初ソロランクからのチーム練習【律可/岸堂天真/奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=XKUCIR_QDJQ
-DURATION:PT2H
-DTSTART:20210812T014000Z
-SUMMARY:⚙律可: 【Apex Legends】最初ソロランクからのチーム練習【律可/岸堂天真/奏手イヅル/ホロスターズ】
-UID:XKUCIR_QDJQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【思考の館】にじ×ホロ コードネーム!! ゆるスタの絆みせちゃうか～笑【岸堂天真/ホロスターズ】#岸堂天真の思考の館\nhttps://www.youtube.com/watch?v=sEiRBq_eJeE
-DURATION:PT2H
-DTSTART:20210811T130000Z
-SUMMARY:🦔💨岸堂天真: 【思考の館】にじ×ホロ コードネーム!! ゆるスタの絆みせちゃうか～笑【岸堂天真/ホロスターズ】#岸堂天真の思考の館
-UID:sEiRBq_eJeE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Greatest Penguin Heist of All Time】ペンギンがペンギンからもの盗むやつ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=1ZBL-khYaGE
-DURATION:PT2H
-DTSTART:20210812T120000Z
-SUMMARY:🍕アルランディス: 【The Greatest Penguin Heist of All Time】ペンギンがペンギンからもの盗むやつ【アルランディス/ホロスターズ】
-UID:1ZBL-khYaGE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】無限鉄工場完成編【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=jb1CfeyBWe8
-DURATION:PT2H
-DTSTART:20210810T150000Z
-SUMMARY:🍕アルランディス: 【Minecraft】無限鉄工場完成編【アルランディス/ホロスターズ】
-UID:jb1CfeyBWe8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Apex】僕と夏とあぺ練習【奏手イヅル/岸堂天真】\nhttps://www.youtube.com/watch?v=Gds0fY3Knvk
-DURATION:PT2H
-DTSTART:20210811T062000Z
-SUMMARY:🎸奏手イヅル: 【Apex】僕と夏とあぺ練習【奏手イヅル/岸堂天真】
-UID:Gds0fY3Knvk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#2【Minecraft】りっかリゾート建築編【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=K6_aOiOkGNc
 DURATION:PT2H
 DTSTART:20210812T140000Z
@@ -156,12 +100,5 @@ DURATION:PT2H
 DTSTART:20210812T070000Z
 SUMMARY:🍕アルランディス: 【CoD Mobile ゾンビモード】ゾンビはびこる世界を4人で生き延びる【アルランディス/花咲みやび/岸堂天真/アステル・レダ/ホロスターズ】
 UID:rbbks-setkw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#4【THE RIKKA TONE】春を告げる ピアノバージョン / yama covered by 律可\nhttps://www.youtube.com/watch?v=u89TjSF9z9A
-DURATION:PT2H
-DTSTART:20210811T130000Z
-SUMMARY:⚙律可: #4【THE RIKKA TONE】春を告げる ピアノバージョン / yama covered by 律可
-UID:u89TjSF9z9A
 END:VEVENT
 END:VCALENDAR
