@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【TLOZ: SKYWARD SWORD】 THE SKY HAS NO LIMIT! (spoiler: it does) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=T3-pXhDtekQ
-DURATION:PT2H
-DTSTART:20210814T140000Z
-SUMMARY:Kiara: 【TLOZ: SKYWARD SWORD】 THE SKY HAS NO LIMIT! (spoiler: it does) #kfp #キアライブ
-UID:T3-pXhDtekQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】 END EXPLORATION Pt.2\nhttps://www.youtube.com/watch?v=S630gqcJ0CQ
 DURATION:PT2H
 DTSTART:20210813T200000Z
@@ -60,11 +53,18 @@ SUMMARY:Amelia: what the ame doin(minecraft)
 UID:cSHMqA9zfkA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【KARAOKE COLLAB】Calliope Mori X Milky Queen! (ARCHIVED) #hololiveEnglish\nhttps://www.youtube.com/watch?v=QPK2gk2WNrw
+DESCRIPTION:【UNARCHIVED KARAOKE COLLAB】Calliope Mori X Milky Queen! #hololiveEnglish\nhttps://www.youtube.com/watch?v=qi3HiWNWY4M
 DURATION:PT2H
-DTSTART:20210814T135910Z
-SUMMARY:Calli: 【KARAOKE COLLAB】Calliope Mori X Milky Queen! (ARCHIVED) #hololiveEnglish
-UID:QPK2gk2WNrw
+DTSTART:20210814T160000Z
+SUMMARY:Calli: 【UNARCHIVED KARAOKE COLLAB】Calliope Mori X Milky Queen! #hololiveEnglish
+UID:qi3HiWNWY4M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【TLOZ: SKYWARD SWORD】 THE SKY HAS NO LIMIT! (spoiler: it does) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=T3-pXhDtekQ
+DURATION:PT2H
+DTSTART:20210814T140000Z
+SUMMARY:Kiara: 【TLOZ: SKYWARD SWORD】 THE SKY HAS NO LIMIT! (spoiler: it does) #kfp #キアライブ
+UID:T3-pXhDtekQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Mario 64】BAI BAI BOWSER\nhttps://www.youtube.com/watch?v=Nn9AGOrDNDQ
