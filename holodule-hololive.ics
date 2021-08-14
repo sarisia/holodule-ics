@@ -109,18 +109,18 @@ SUMMARY:🤖ロボ子さん: 【APEX】プラチナ耐【ホロライブ/ロボ�
 UID:EaSMAk5I0Ho
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:はいしんよていち！\nhttps://www.youtube.com/watch?v=GgN3ZmYxOJQ
-DURATION:PT2H
-DTSTART:20210814T130000Z
-SUMMARY:🥐戌神ころね: はいしんよていち！
-UID:GgN3ZmYxOJQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【はあみこまふぃあ】GTAやるっちゃまにぇ～～～～！？！？\nhttps://www.youtube.com/watch?v=ZbXbqbOu1Y8
 DURATION:PT2H
 DTSTART:20210814T130000Z
 SUMMARY:❤赤井はあと: 【はあみこまふぃあ】GTAやるっちゃまにぇ～～～～！？！？
 UID:ZbXbqbOu1Y8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:はいしんよていち！\nhttps://www.youtube.com/watch?v=GgN3ZmYxOJQ
+DURATION:PT2H
+DTSTART:20210814T130000Z
+SUMMARY:🥐戌神ころね: はいしんよていち！
+UID:GgN3ZmYxOJQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 はあみこまふぃあ 】GTAやるっちゃまにぇ～？！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=sM2M-TluwMc
@@ -149,6 +149,13 @@ DURATION:PT2H
 DTSTART:20210814T033000Z
 SUMMARY:🥐戌神ころね: 【夏休み昼配信】絵を描きながらちょこっと雑談したいな～。
 UID:EXWaAnZo-TA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】プラチナ耐【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=7i8rWHavxPA
+DURATION:PT2H
+DTSTART:20210814T071500Z
+SUMMARY:🤖ロボ子さん: 【APEX】プラチナ耐【ホロライブ/ロボ子さん】
+UID:7i8rWHavxPA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【BIOHAZARD RE:2】初見バイオRE:2！レオン編…#2【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=0SjI2V08g5s
@@ -212,20 +219,6 @@ DURATION:PT2H
 DTSTART:20210813T220000Z
 SUMMARY:🌽白上フブキ: 【１４日目】オラと博士とフブキとすこん部の夏休み【ホロライブ/白上フブキ】
 UID:yIV--cxqZdM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】るしあとフレアとハードコアやる！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=Lb1jDyMp9fU
-DURATION:PT2H
-DTSTART:20210814T080000Z
-SUMMARY:👯兎田ぺこら: 【Minecraft】るしあとフレアとハードコアやる！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:Lb1jDyMp9fU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マインクラフト/Minecraft】ぺこら＆るしあと一緒にハードコア試走！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=Ic9g5tSZBE8
-DURATION:PT2H
-DTSTART:20210814T080000Z
-SUMMARY:🔥不知火フレア: 【マインクラフト/Minecraft】ぺこら＆るしあと一緒にハードコア試走！【不知火フレア/ホロライブ】
-UID:Ic9g5tSZBE8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】雨に降られず藤木くんを連れて行けるのか...？！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=xcVV75uOeYU
@@ -340,10 +333,10 @@ SUMMARY:🌸さくらみこ: 【 マリオカート8DX 】ぶるぶるマシン�
 UID:flPmQCICeRI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【】１３５万人行くまで〇〇する【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=QripqC2di60
+DESCRIPTION:【カメラ枠】１３５万人行くまでホットケーキを焼く…【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=QripqC2di60
 DURATION:PT2H
 DTSTART:20210814T140000Z
-SUMMARY:🦋潤羽るしあ: 【】１３５万人行くまで〇〇する【潤羽るしあ/ホロライブ】
+SUMMARY:🦋潤羽るしあ: 【カメラ枠】１３５万人行くまでホットケーキを焼く…【潤羽るしあ/ホロライブ】
 UID:QripqC2di60
 END:VEVENT
 BEGIN:VEVENT
