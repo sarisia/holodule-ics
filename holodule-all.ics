@@ -67,18 +67,18 @@ SUMMARY:🥐戌神ころね: #6【FF9】生まれてはじめてのファイナ�
 UID:GgN3ZmYxOJQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Karaoke!!】Casually singing!\nhttps://www.youtube.com/watch?v=nndLjEBzFFA
-DURATION:PT2H
-DTSTART:20210815T040000Z
-SUMMARY:IRyS: 【Karaoke!!】Casually singing!
-UID:nndLjEBzFFA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:SUPERインドネシア語クラスルーム withねねち【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=-xPB9ivpKoQ
 DURATION:PT2H
 DTSTART:20210815T040000Z
 SUMMARY:Reine: SUPERインドネシア語クラスルーム withねねち【hololiveID 2nd gen】
 UID:-xPB9ivpKoQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Karaoke!!】Casually singing!\nhttps://www.youtube.com/watch?v=nndLjEBzFFA
+DURATION:PT2H
+DTSTART:20210815T040000Z
+SUMMARY:IRyS: 【Karaoke!!】Casually singing!
+UID:nndLjEBzFFA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌ってみた】くたばろうぜ/岸堂天真 アステルレダ\nhttps://www.youtube.com/watch?v=wixYwLCSyjs
@@ -163,13 +163,6 @@ DURATION:PT2H
 DTSTART:20210814T080000Z
 SUMMARY:🔥不知火フレア: 【マインクラフト/Minecraft】ぺこら＆るしあと一緒にハードコア試走！【不知火フレア/ホロライブ】
 UID:Ic9g5tSZBE8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】雨に降られず藤木くんを連れて行けるのか...？！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=xcVV75uOeYU
-DURATION:PT2H
-DTSTART:20210814T140000Z
-SUMMARY:🐏角巻わため: 【Minecraft】雨に降られず藤木くんを連れて行けるのか...？！【角巻わため/ホロライブ４期生】
-UID:xcVV75uOeYU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ようこそジャパリパークへ / Covered by ねぽらぼ【歌ってみた】\nhttps://www.youtube.com/watch?v=mO0s9WTI-eU
@@ -305,6 +298,13 @@ SUMMARY:🤖ロボ子さん: 【APEX】プラチナ耐【ホロライブ/ロボ�
 UID:EaSMAk5I0Ho
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】ハードコアで生き残れ！2世界目#2【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=wbC_svUAXPY
+DURATION:PT2H
+DTSTART:20210816T060000Z
+SUMMARY:🏮夏色まつり: 【Minecraft】ハードコアで生き残れ！2世界目#2【ホロライブ/夏色まつり】
+UID:wbC_svUAXPY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マリオゴルフ スーパーラッシュ】最近のゴルフは走るらしい。【花咲みやび/岸堂天真/夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=ozJLKL5DWJo
 DURATION:PT2H
 DTSTART:20210815T090000Z
@@ -366,13 +366,6 @@ DURATION:PT2H
 DTSTART:20210814T080000Z
 SUMMARY:🍷夕刻ロベル: 【Idol Manager】輝け、アイドル【ホロスターズ/夕刻ロベル】
 UID:RizsiuCXoT0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【TLOZ: SKYWARD SWORD】 THE SKY HAS NO LIMIT! (spoiler: it does) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=T3-pXhDtekQ
-DURATION:PT2H
-DTSTART:20210814T140000Z
-SUMMARY:Kiara: 【TLOZ: SKYWARD SWORD】 THE SKY HAS NO LIMIT! (spoiler: it does) #kfp #キアライブ
-UID:T3-pXhDtekQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#最終回【 Minecraft Hardcore 】ハードコアでエンドラ挑戦！🌻 みこのなつやすみ～おわらない全ロスとの戦い～【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=WzvvttEG2es
