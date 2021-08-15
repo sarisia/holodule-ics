@@ -4,18 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:[DEVIL MAY CRY 3] Nice try\, Vergil. WAHOOWAHOO\nhttps://www.youtube.com/watch?v=aAPSCyFo6Ks
+DURATION:PT2H
+DTSTART:20210815T003249Z
+SUMMARY:Gura: [DEVIL MAY CRY 3] Nice try\, Vergil. WAHOOWAHOO
+UID:aAPSCyFo6Ks
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Ame in The A.M.】Happy Sunday!\nhttps://www.youtube.com/watch?v=wSmNK842gs8
+DURATION:PT2H
+DTSTART:20210815T150500Z
+SUMMARY:Amelia: 【Ame in The A.M.】Happy Sunday!
+UID:wSmNK842gs8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Omen｜#holoENOmen\nhttps://www.youtube.com/watch?v=BOWi6Pclr48
 DURATION:PT2H
 DTSTART:20210815T010000Z
 SUMMARY:ENholo: Omen｜#holoENOmen
 UID:BOWi6Pclr48
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MEMBERSHIP GRAND OPENING!!】Come On In!!\nhttps://www.youtube.com/watch?v=ict9WsQuzCA
-DURATION:PT2H
-DTSTART:20210814T010000Z
-SUMMARY:IRyS: 【MEMBERSHIP GRAND OPENING!!】Come On In!!
-UID:ict9WsQuzCA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:兆し｜#holoENOmen\nhttps://www.youtube.com/watch?v=xAp6QzMlTEY
@@ -39,48 +46,6 @@ SUMMARY:Calli: 【GUILTY GEAR STRIVE】STRIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 UID:1dlWRiPeeic
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[MINECRAFT] Gawr Gura Demolition Derby Inc\nhttps://www.youtube.com/watch?v=S_wquDzkCvw
-DURATION:PT2H
-DTSTART:20210814T000336Z
-SUMMARY:Gura: [MINECRAFT] Gawr Gura Demolition Derby Inc
-UID:S_wquDzkCvw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【KARAOKE COLLAB】Calliope Mori X Milky Queen! (ARCHIVED) #hololiveEnglish\nhttps://www.youtube.com/watch?v=QPK2gk2WNrw
-DURATION:PT2H
-DTSTART:20210814T135910Z
-SUMMARY:Calli: 【KARAOKE COLLAB】Calliope Mori X Milky Queen! (ARCHIVED) #hololiveEnglish
-UID:QPK2gk2WNrw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[DEVIL MAY CRY 3] Nice try\, Vergil. WAHOOWAHOO\nhttps://www.youtube.com/watch?v=aAPSCyFo6Ks
-DURATION:PT2H
-DTSTART:20210815T003249Z
-SUMMARY:Gura: [DEVIL MAY CRY 3] Nice try\, Vergil. WAHOOWAHOO
-UID:aAPSCyFo6Ks
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Ame in The A.M.】Happy Sunday!\nhttps://www.youtube.com/watch?v=wSmNK842gs8
-DURATION:PT2H
-DTSTART:20210815T150500Z
-SUMMARY:Amelia: 【Ame in The A.M.】Happy Sunday!
-UID:wSmNK842gs8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】 END EXPLORATION Pt.2\nhttps://www.youtube.com/watch?v=S630gqcJ0CQ
-DURATION:PT2H
-DTSTART:20210813T200000Z
-SUMMARY:Ina: 【Minecraft】 END EXPLORATION Pt.2
-UID:S630gqcJ0CQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Ring Fit Adventure】Journey to become FitRyS\nhttps://www.youtube.com/watch?v=udjf6fpb8q0
-DURATION:PT2H
-DTSTART:20210814T030000Z
-SUMMARY:IRyS: 【Ring Fit Adventure】Journey to become FitRyS
-UID:udjf6fpb8q0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DRAWING】 Drawing Something\nhttps://www.youtube.com/watch?v=nqa9EqZR3XY
 DURATION:PT2H
 DTSTART:20210814T200000Z
@@ -88,25 +53,11 @@ SUMMARY:Ina: 【DRAWING】 Drawing Something
 UID:nqa9EqZR3XY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:what the ame doin(minecraft)\nhttps://www.youtube.com/watch?v=cSHMqA9zfkA
-DURATION:PT2H
-DTSTART:20210814T010500Z
-SUMMARY:Amelia: what the ame doin(minecraft)
-UID:cSHMqA9zfkA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【SPIRAL TONES REMIX PARTY】Let's Check Out Our Top 30 of YOUR Remixes! #spiraltones #morikka_st\nhttps://www.youtube.com/watch?v=RUZZd0q1cGQ
 DURATION:PT2H
 DTSTART:20210816T090000Z
 SUMMARY:Calli: 【SPIRAL TONES REMIX PARTY】Let's Check Out Our Top 30 of YOUR Remixes! #spiraltones #morikka_st
 UID:RUZZd0q1cGQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【TLOZ: SKYWARD SWORD】 THE SKY HAS NO LIMIT! (spoiler: it does) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=T3-pXhDtekQ
-DURATION:PT2H
-DTSTART:20210814T140000Z
-SUMMARY:Kiara: 【TLOZ: SKYWARD SWORD】 THE SKY HAS NO LIMIT! (spoiler: it does) #kfp #キアライブ
-UID:T3-pXhDtekQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Mario 64】BAI BAI BOWSER\nhttps://www.youtube.com/watch?v=Nn9AGOrDNDQ
