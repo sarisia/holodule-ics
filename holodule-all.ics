@@ -11,18 +11,18 @@ SUMMARY:❤赤井はあと: じーーーーーーっ。【メン限/Membership o
 UID:ftUUURC4WDE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝活】１０万円の目覚ましで起きられるのか！？検証【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=0C4z5Y8329Y
-DURATION:PT2H
-DTSTART:20210817T210000Z
-SUMMARY:💫天音かなた: 【朝活】１０万円の目覚ましで起きられるのか！？検証【天音かなた/ホロライブ】
-UID:0C4z5Y8329Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【AMONG US】IMPOSTOR...【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=fIKlmu0G-Tg
 DURATION:PT2H
 DTSTART:20210818T112708Z
 SUMMARY:Ollie: 【AMONG US】IMPOSTOR...【Hololive Indonesia 2nd Gen】
 UID:fIKlmu0G-Tg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】１０万円の目覚ましで起きられるのか！？検証【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=0C4z5Y8329Y
+DURATION:PT2H
+DTSTART:20210817T210000Z
+SUMMARY:💫天音かなた: 【朝活】１０万円の目覚ましで起きられるのか！？検証【天音かなた/ホロライブ】
+UID:0C4z5Y8329Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Ender Lilies】 Begin! 【#1】\nhttps://www.youtube.com/watch?v=1fOMSWjxsAw
@@ -137,6 +137,13 @@ SUMMARY:🌸さくらみこ: 【 リングフィットアドベンチャー 】�
 UID:5YHZADTYPiE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ポルカの伝説】オーディション開催！新しい風を吹かせよう！\nhttps://www.youtube.com/watch?v=PSvSuOpQGOw
+DURATION:PT2H
+DTSTART:20210819T100000Z
+SUMMARY:尾丸ポルカ: 【ポルカの伝説】オーディション開催！新しい風を吹かせよう！
+UID:PSvSuOpQGOw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【おしおママ】ママがイラスト描いてくれる！！サプライズも？【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=An59vklhHIw
 DURATION:PT2H
 DTSTART:20210819T100000Z
@@ -193,11 +200,11 @@ SUMMARY:🏮夏色まつり: 【Minecraft】ハードコアで生き残れ！2�
 UID:b748TNCX7Bk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #わため3D重大告知 】わため史上たぶん最大で最強の告知！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=VYk1zdGfPzI
+DESCRIPTION:【 CoD:BOCW 】姫と一緒にゾンビ討伐に出陣なのらよっ…！🔫【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=tTbXmzjIeI4
 DURATION:PT2H
-DTSTART:20210819T120000Z
-SUMMARY:🐏角巻わため: 【 #わため3D重大告知 】わため史上たぶん最大で最強の告知！【角巻わため/ホロライブ４期生】
-UID:VYk1zdGfPzI
+DTSTART:20210818T110000Z
+SUMMARY:🍬姫森ルーナ: 【 CoD:BOCW 】姫と一緒にゾンビ討伐に出陣なのらよっ…！🔫【#姫森ルーナ/ホロライブ】
+UID:tTbXmzjIeI4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft Hardcore】心だけは騎士。【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=hjVjNIhgEns
@@ -207,11 +214,11 @@ SUMMARY:⚔白銀ノエル: 【Minecraft Hardcore】心だけは騎士。【白�
 UID:hjVjNIhgEns
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 CoD:BOCW 】姫と一緒にゾンビ討伐に出陣なのらよっ…！🔫【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=tTbXmzjIeI4
+DESCRIPTION:【 #わため3D重大告知 】わため史上たぶん最大で最強の告知！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=VYk1zdGfPzI
 DURATION:PT2H
-DTSTART:20210818T110000Z
-SUMMARY:🍬姫森ルーナ: 【 CoD:BOCW 】姫と一緒にゾンビ討伐に出陣なのらよっ…！🔫【#姫森ルーナ/ホロライブ】
-UID:tTbXmzjIeI4
+DTSTART:20210819T120000Z
+SUMMARY:🐏角巻わため: 【 #わため3D重大告知 】わため史上たぶん最大で最強の告知！【角巻わため/ホロライブ４期生】
+UID:VYk1zdGfPzI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】初！エンドラ討伐しよおお！エンドポータルどこやろか！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=KdON77lUI-g
