@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】NETHERITE MISSION with MAMATORI! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=hyJFOYkMMog
-DURATION:PT2H
-DTSTART:20210818T180000Z
-SUMMARY:Kiara: 【MINECRAFT】NETHERITE MISSION with MAMATORI! #kfp #キアライブ
-UID:hyJFOYkMMog
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【TLOZ: SKYWARD SWORD】 3RD DUNGEON DOMINATION #kfp #キアライブ\nhttps://www.youtube.com/watch?v=6ExAr438hzM
 DURATION:PT2H
 DTSTART:20210819T140000Z
@@ -18,17 +11,31 @@ SUMMARY:Kiara: 【TLOZ: SKYWARD SWORD】 3RD DUNGEON DOMINATION #kfp #キアラ�
 UID:6ExAr438hzM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【NieR Re[in]carnation】 The Cage Beckons...\nhttps://www.youtube.com/watch?v=5eDBKUq2bz4
-DURATION:PT2H
-DTSTART:20210819T040000Z
-SUMMARY:Ina: 【NieR Re[in]carnation】 The Cage Beckons...
-UID:5eDBKUq2bz4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DOOM ETERNAL + BBQ PARTY】Grilling Demons and Slaying Meat! #HololiveEnglish\nhttps://www.youtube.com/watch?v=hPRoh9XPxn4
 DURATION:PT2H
 DTSTART:20210819T035853Z
 SUMMARY:Calli: 【DOOM ETERNAL + BBQ PARTY】Grilling Demons and Slaying Meat! #HololiveEnglish
 UID:hPRoh9XPxn4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Mario Kart 8DX】The Legendary Training Arc\nhttps://www.youtube.com/watch?v=jZCBPcYLkFQ
+DURATION:PT2H
+DTSTART:20210820T030000Z
+SUMMARY:IRyS: 【Mario Kart 8DX】The Legendary Training Arc
+UID:jZCBPcYLkFQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】NETHERITE MISSION with MAMATORI! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=hyJFOYkMMog
+DURATION:PT2H
+DTSTART:20210818T180000Z
+SUMMARY:Kiara: 【MINECRAFT】NETHERITE MISSION with MAMATORI! #kfp #キアライブ
+UID:hyJFOYkMMog
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【NieR Re[in]carnation】 The Cage Beckons...\nhttps://www.youtube.com/watch?v=5eDBKUq2bz4
+DURATION:PT2H
+DTSTART:20210819T040000Z
+SUMMARY:Ina: 【NieR Re[in]carnation】 The Cage Beckons...
+UID:5eDBKUq2bz4
 END:VEVENT
 END:VCALENDAR
