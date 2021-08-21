@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:[MINECRAFT] CONDUIT HOUSE BUILD gao\nhttps://www.youtube.com/watch?v=34qwR8XmkiI
+DESCRIPTION:《DEBUT STREAM》- LET'S GET THIS PARTY STARTED! #hololiveEnglish #holoCouncil\nhttps://www.youtube.com/watch?v=mJwpVT1WvLg
 DURATION:PT2H
-DTSTART:20210821T000157Z
-SUMMARY:Gura: [MINECRAFT] CONDUIT HOUSE BUILD gao
-UID:34qwR8XmkiI
+DTSTART:20210821T230000Z
+SUMMARY:Baelz: 《DEBUT STREAM》- LET'S GET THIS PARTY STARTED! #hololiveEnglish #holoCouncil
+UID:mJwpVT1WvLg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【THE WONDERFUL 101】 TAKODACHIS UNITE...UNLIMITED...FORM? 【#6】\nhttps://www.youtube.com/watch?v=60AzXNCJIgk
@@ -16,13 +16,6 @@ DURATION:PT2H
 DTSTART:20210820T200000Z
 SUMMARY:Ina: 【THE WONDERFUL 101】 TAKODACHIS UNITE...UNLIMITED...FORM? 【#6】
 UID:60AzXNCJIgk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DEBUT STREAM】The Time Has Come #hololiveEnglish #holoCouncil\nhttps://www.youtube.com/watch?v=W3oVrq94mGM
-DURATION:PT2H
-DTSTART:20210821T200000Z
-SUMMARY:Kronii: 【DEBUT STREAM】The Time Has Come #hololiveEnglish #holoCouncil
-UID:W3oVrq94mGM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Mario Kart 8DX】The Legendary Training Arc\nhttps://www.youtube.com/watch?v=jZCBPcYLkFQ
@@ -37,6 +30,20 @@ DURATION:PT2H
 DTSTART:20210821T140000Z
 SUMMARY:Kiara: 【HOLOTALK】With our 14th guest: HAACHAMA!  #HOLOTALK #ホロトーク
 UID:XV3MPp6xBIA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[MINECRAFT] CONDUIT HOUSE BUILD gao\nhttps://www.youtube.com/watch?v=34qwR8XmkiI
+DURATION:PT2H
+DTSTART:20210821T000157Z
+SUMMARY:Gura: [MINECRAFT] CONDUIT HOUSE BUILD gao
+UID:34qwR8XmkiI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEBUT STREAM】The Time Has Come #hololiveEnglish #holoCouncil\nhttps://www.youtube.com/watch?v=W3oVrq94mGM
+DURATION:PT2H
+DTSTART:20210821T200000Z
+SUMMARY:Kronii: 【DEBUT STREAM】The Time Has Come #hololiveEnglish #holoCouncil
+UID:W3oVrq94mGM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DEBUT STREAM】BIG STREAM🪐 #holoCouncil #hololiveEnglish\nhttps://www.youtube.com/watch?v=3Tv5GyebhQo
