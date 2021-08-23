@@ -4,34 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:《DEBUT STREAM》- LET'S GET THIS PARTY STARTED! #hololiveEnglish #holoCouncil\nhttps://www.youtube.com/watch?v=mJwpVT1WvLg
-DURATION:PT2H
-DTSTART:20210822T230000Z
-SUMMARY:Baelz: 《DEBUT STREAM》- LET'S GET THIS PARTY STARTED! #hololiveEnglish #holoCouncil
-UID:mJwpVT1WvLg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DEBUT STREAM】Mama Nature 🌿 #hololiveEnglish #holoCouncil\nhttps://www.youtube.com/watch?v=iICu7NcUK4o
-DURATION:PT2H
-DTSTART:20210822T183000Z
-SUMMARY:Fauna: 【DEBUT STREAM】Mama Nature 🌿 #hololiveEnglish #holoCouncil
-UID:iICu7NcUK4o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DEBUT STREAM】Oh? OH!  #holoCouncil #hololiveEnglish\nhttps://www.youtube.com/watch?v=M2gwJ-7s0Zo
-DURATION:PT2H
-DTSTART:20210822T213000Z
-SUMMARY:Mumei: 【DEBUT STREAM】Oh? OH!  #holoCouncil #hololiveEnglish
-UID:M2gwJ-7s0Zo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PHASMOPHOBIA】GORILLA GIRLS NO CHICKENS #kfp #キアライブ\nhttps://www.youtube.com/watch?v=B4fqSU-kHZ8
-DURATION:PT2H
-DTSTART:20210821T193000Z
-SUMMARY:Kiara: 【PHASMOPHOBIA】GORILLA GIRLS NO CHICKENS #kfp #キアライブ
-UID:B4fqSU-kHZ8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:《CHIT-CHAT》- POST DEBUT Q&A\nhttps://www.youtube.com/watch?v=W9rAtIytnHk
 DURATION:PT2H
 DTSTART:20210823T103000Z
@@ -39,25 +11,11 @@ SUMMARY:Baelz: 《CHIT-CHAT》- POST DEBUT Q&A
 UID:W9rAtIytnHk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【COUNCIL MEETING】The Council is in SESSION! + HUGE ANNOUNCEMENTS  #holoCouncil #hololiveEnglish\nhttps://www.youtube.com/watch?v=7S9QhFeGw60
+DESCRIPTION:【TWELVE MINUTES】Time Is Relative\nhttps://www.youtube.com/watch?v=UdYwlQtCgr4
 DURATION:PT2H
-DTSTART:20210823T010000Z
-SUMMARY:Baelz: 【COUNCIL MEETING】The Council is in SESSION! + HUGE ANNOUNCEMENTS  #holoCouncil #hololiveEnglish
-UID:7S9QhFeGw60
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Advent of Omegaα\nhttps://www.youtube.com/watch?v=fLAcgHX160k
-DURATION:PT2H
-DTSTART:20210823T020926Z
-SUMMARY:ENholo: The Advent of Omegaα
-UID:fLAcgHX160k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DEBUT STREAM】The Time Has Come⌛ #hololiveEnglish #holoCouncil\nhttps://www.youtube.com/watch?v=W3oVrq94mGM
-DURATION:PT2H
-DTSTART:20210822T200000Z
-SUMMARY:Kronii: 【DEBUT STREAM】The Time Has Come⌛ #hololiveEnglish #holoCouncil
-UID:W3oVrq94mGM
+DTSTART:20210823T180000Z
+SUMMARY:Kronii: 【TWELVE MINUTES】Time Is Relative
+UID:UdYwlQtCgr4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Zatsudan Q&A】Let's chat! 🍵 #hololiveEnglish #holoCouncil\nhttps://www.youtube.com/watch?v=x55Sskx7QCc
@@ -100,6 +58,55 @@ DURATION:PT2H
 DTSTART:20210822T030000Z
 SUMMARY:IRyS: 【Subnautica】Into the deep blue sea
 UID:jG7MNf_-IRo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:《DEBUT STREAM》- LET'S GET THIS PARTY STARTED! #hololiveEnglish #holoCouncil\nhttps://www.youtube.com/watch?v=mJwpVT1WvLg
+DURATION:PT2H
+DTSTART:20210822T230000Z
+SUMMARY:Baelz: 《DEBUT STREAM》- LET'S GET THIS PARTY STARTED! #hololiveEnglish #holoCouncil
+UID:mJwpVT1WvLg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEBUT STREAM】Oh? OH!  #holoCouncil #hololiveEnglish\nhttps://www.youtube.com/watch?v=M2gwJ-7s0Zo
+DURATION:PT2H
+DTSTART:20210822T213000Z
+SUMMARY:Mumei: 【DEBUT STREAM】Oh? OH!  #holoCouncil #hololiveEnglish
+UID:M2gwJ-7s0Zo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PHASMOPHOBIA】GORILLA GIRLS NO CHICKENS #kfp #キアライブ\nhttps://www.youtube.com/watch?v=B4fqSU-kHZ8
+DURATION:PT2H
+DTSTART:20210821T193000Z
+SUMMARY:Kiara: 【PHASMOPHOBIA】GORILLA GIRLS NO CHICKENS #kfp #キアライブ
+UID:B4fqSU-kHZ8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Advent of Omegaα\nhttps://www.youtube.com/watch?v=fLAcgHX160k
+DURATION:PT2H
+DTSTART:20210823T020926Z
+SUMMARY:ENholo: The Advent of Omegaα
+UID:fLAcgHX160k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEBUT STREAM】The Time Has Come⌛ #hololiveEnglish #holoCouncil\nhttps://www.youtube.com/watch?v=W3oVrq94mGM
+DURATION:PT2H
+DTSTART:20210822T200000Z
+SUMMARY:Kronii: 【DEBUT STREAM】The Time Has Come⌛ #hololiveEnglish #holoCouncil
+UID:W3oVrq94mGM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEBUT STREAM】Mama Nature 🌿 #hololiveEnglish #holoCouncil\nhttps://www.youtube.com/watch?v=iICu7NcUK4o
+DURATION:PT2H
+DTSTART:20210822T183000Z
+SUMMARY:Fauna: 【DEBUT STREAM】Mama Nature 🌿 #hololiveEnglish #holoCouncil
+UID:iICu7NcUK4o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【COUNCIL MEETING】The Council is in SESSION! + HUGE ANNOUNCEMENTS  #holoCouncil #hololiveEnglish\nhttps://www.youtube.com/watch?v=7S9QhFeGw60
+DURATION:PT2H
+DTSTART:20210823T010000Z
+SUMMARY:Baelz: 【COUNCIL MEETING】The Council is in SESSION! + HUGE ANNOUNCEMENTS  #holoCouncil #hololiveEnglish
+UID:7S9QhFeGw60
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GARTIC PHONE】INTERNATIONAL GARTIC PHONE! #KFP #キアライブ\nhttps://www.youtube.com/watch?v=_8ddLou4Crg
