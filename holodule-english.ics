@@ -4,6 +4,27 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:《DEBUT STREAM》- LET'S GET THIS PARTY STARTED! #hololiveEnglish #holoCouncil\nhttps://www.youtube.com/watch?v=mJwpVT1WvLg
+DURATION:PT2H
+DTSTART:20210822T230000Z
+SUMMARY:Baelz: 《DEBUT STREAM》- LET'S GET THIS PARTY STARTED! #hololiveEnglish #holoCouncil
+UID:mJwpVT1WvLg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEBUT STREAM】Mama Nature 🌿 #hololiveEnglish #holoCouncil\nhttps://www.youtube.com/watch?v=iICu7NcUK4o
+DURATION:PT2H
+DTSTART:20210822T183000Z
+SUMMARY:Fauna: 【DEBUT STREAM】Mama Nature 🌿 #hololiveEnglish #holoCouncil
+UID:iICu7NcUK4o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEBUT STREAM】Oh? OH!  #holoCouncil #hololiveEnglish\nhttps://www.youtube.com/watch?v=M2gwJ-7s0Zo
+DURATION:PT2H
+DTSTART:20210822T213000Z
+SUMMARY:Mumei: 【DEBUT STREAM】Oh? OH!  #holoCouncil #hololiveEnglish
+UID:M2gwJ-7s0Zo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:《CHIT-CHAT》- POST DEBUT Q&A\nhttps://www.youtube.com/watch?v=W9rAtIytnHk
 DURATION:PT2H
 DTSTART:20210823T103000Z
@@ -16,76 +37,6 @@ DURATION:PT2H
 DTSTART:20210823T200000Z
 SUMMARY:Kiara: 【MARIO KART 8DX】PRACTICE ARC #kfp #キアライブ
 UID:yIez_vjM2_c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【TWELVE MINUTES】Time Is Relative\nhttps://www.youtube.com/watch?v=UdYwlQtCgr4
-DURATION:PT2H
-DTSTART:20210823T180000Z
-SUMMARY:Kronii: 【TWELVE MINUTES】Time Is Relative
-UID:UdYwlQtCgr4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Zatsudan Q&A】Let's chat! 🍵 #hololiveEnglish #holoCouncil\nhttps://www.youtube.com/watch?v=x55Sskx7QCc
-DURATION:PT2H
-DTSTART:20210823T220000Z
-SUMMARY:Fauna: 【Zatsudan Q&A】Let's chat! 🍵 #hololiveEnglish #holoCouncil
-UID:x55Sskx7QCc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Gartic Phone】Global Drawing PARTY\nhttps://www.youtube.com/watch?v=vHUdeRjc0u8
-DURATION:PT2H
-DTSTART:20210822T130000Z
-SUMMARY:IRyS: 【Gartic Phone】Global Drawing PARTY
-UID:vHUdeRjc0u8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DEBUT STREAM】BIG STREAM🪐 #holoCouncil #hololiveEnglish\nhttps://www.youtube.com/watch?v=3Tv5GyebhQo
-DURATION:PT2H
-DTSTART:20210822T170000Z
-SUMMARY:Sana: 【DEBUT STREAM】BIG STREAM🪐 #holoCouncil #hololiveEnglish
-UID:3Tv5GyebhQo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sana Landing\nhttps://www.youtube.com/watch?v=qaEkfdFSxvs
-DURATION:PT2H
-DTSTART:20210822T080527Z
-SUMMARY:Sana: Sana Landing
-UID:qaEkfdFSxvs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SUMMER POOL PARTY】Pool-side Chilling with You! #HololiveEnglish\nhttps://www.youtube.com/watch?v=EawC9vslIw8
-DURATION:PT2H
-DTSTART:20210823T145500Z
-SUMMARY:Calli: 【SUMMER POOL PARTY】Pool-side Chilling with You! #HololiveEnglish
-UID:EawC9vslIw8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Subnautica】Into the deep blue sea\nhttps://www.youtube.com/watch?v=jG7MNf_-IRo
-DURATION:PT2H
-DTSTART:20210822T030000Z
-SUMMARY:IRyS: 【Subnautica】Into the deep blue sea
-UID:jG7MNf_-IRo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:《DEBUT STREAM》- LET'S GET THIS PARTY STARTED! #hololiveEnglish #holoCouncil\nhttps://www.youtube.com/watch?v=mJwpVT1WvLg
-DURATION:PT2H
-DTSTART:20210822T230000Z
-SUMMARY:Baelz: 《DEBUT STREAM》- LET'S GET THIS PARTY STARTED! #hololiveEnglish #holoCouncil
-UID:mJwpVT1WvLg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DEBUT STREAM】Oh? OH!  #holoCouncil #hololiveEnglish\nhttps://www.youtube.com/watch?v=M2gwJ-7s0Zo
-DURATION:PT2H
-DTSTART:20210822T213000Z
-SUMMARY:Mumei: 【DEBUT STREAM】Oh? OH!  #holoCouncil #hololiveEnglish
-UID:M2gwJ-7s0Zo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PHASMOPHOBIA】GORILLA GIRLS NO CHICKENS #kfp #キアライブ\nhttps://www.youtube.com/watch?v=B4fqSU-kHZ8
-DURATION:PT2H
-DTSTART:20210821T193000Z
-SUMMARY:Kiara: 【PHASMOPHOBIA】GORILLA GIRLS NO CHICKENS #kfp #キアライブ
-UID:B4fqSU-kHZ8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Ender Lilies】 Takofication Ritual 【#2】\nhttps://www.youtube.com/watch?v=yoYaAVixPg8
@@ -109,11 +60,32 @@ SUMMARY:Kronii: 【DEBUT STREAM】The Time Has Come⌛ #hololiveEnglish #holoCou
 UID:W3oVrq94mGM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DEBUT STREAM】Mama Nature 🌿 #hololiveEnglish #holoCouncil\nhttps://www.youtube.com/watch?v=iICu7NcUK4o
+DESCRIPTION:【TWELVE MINUTES】Time Is Relative\nhttps://www.youtube.com/watch?v=UdYwlQtCgr4
 DURATION:PT2H
-DTSTART:20210822T183000Z
-SUMMARY:Fauna: 【DEBUT STREAM】Mama Nature 🌿 #hololiveEnglish #holoCouncil
-UID:iICu7NcUK4o
+DTSTART:20210823T180000Z
+SUMMARY:Kronii: 【TWELVE MINUTES】Time Is Relative
+UID:UdYwlQtCgr4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Zatsudan Q&A】Let's chat! 🍵 #hololiveEnglish #holoCouncil\nhttps://www.youtube.com/watch?v=x55Sskx7QCc
+DURATION:PT2H
+DTSTART:20210823T220000Z
+SUMMARY:Fauna: 【Zatsudan Q&A】Let's chat! 🍵 #hololiveEnglish #holoCouncil
+UID:x55Sskx7QCc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEBUT STREAM】BIG STREAM🪐 #holoCouncil #hololiveEnglish\nhttps://www.youtube.com/watch?v=3Tv5GyebhQo
+DURATION:PT2H
+DTSTART:20210822T170000Z
+SUMMARY:Sana: 【DEBUT STREAM】BIG STREAM🪐 #holoCouncil #hololiveEnglish
+UID:3Tv5GyebhQo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SUMMER POOL PARTY】Pool-side Chilling with You! #HololiveEnglish\nhttps://www.youtube.com/watch?v=EawC9vslIw8
+DURATION:PT2H
+DTSTART:20210823T145912Z
+SUMMARY:Calli: 【SUMMER POOL PARTY】Pool-side Chilling with You! #HololiveEnglish
+UID:EawC9vslIw8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【COUNCIL MEETING】The Council is in SESSION! + HUGE ANNOUNCEMENTS  #holoCouncil #hololiveEnglish\nhttps://www.youtube.com/watch?v=7S9QhFeGw60
@@ -121,12 +93,5 @@ DURATION:PT2H
 DTSTART:20210823T010000Z
 SUMMARY:Baelz: 【COUNCIL MEETING】The Council is in SESSION! + HUGE ANNOUNCEMENTS  #holoCouncil #hololiveEnglish
 UID:7S9QhFeGw60
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【GARTIC PHONE】INTERNATIONAL GARTIC PHONE! #KFP #キアライブ\nhttps://www.youtube.com/watch?v=_8ddLou4Crg
-DURATION:PT2H
-DTSTART:20210822T130000Z
-SUMMARY:Kiara: 【GARTIC PHONE】INTERNATIONAL GARTIC PHONE! #KFP #キアライブ
-UID:_8ddLou4Crg
 END:VEVENT
 END:VCALENDAR
