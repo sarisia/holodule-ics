@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【同時視聴】劇場版すみっコぐらしを観る【ホロライブ/尾丸ポルカ】\nhttps://www.youtube.com/watch?v=nlSrvSz_Dsw
-DURATION:PT2H
-DTSTART:20210825T140000Z
-SUMMARY:尾丸ポルカ: 【同時視聴】劇場版すみっコぐらしを観る【ホロライブ/尾丸ポルカ】
-UID:nlSrvSz_Dsw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 エリート自由工作 】さくらみこ夏の自由工作大賞2021🌻【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=70nJdSFzWgE
 DURATION:PT2H
 DTSTART:20210825T110000Z
@@ -93,13 +86,6 @@ DURATION:PT2H
 DTSTART:20210824T150000Z
 SUMMARY:🌙紫咲シオン: 【歌枠】まったり歌う～～！！深夜のお歌🎤【ホロライブ/紫咲シオン】
 UID:7YvhFQOu9aY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 マリオカート8DX 】みっころねマリカPOINT対決！！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=eWhaOCmmXlI
-DURATION:PT2H
-DTSTART:20210825T130000Z
-SUMMARY:🌸さくらみこ: 【 マリオカート8DX 】みっころねマリカPOINT対決！！！！！【ホロライブ/さくらみこ】
-UID:eWhaOCmmXlI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】まったりえぺっくしゅ/音量変えたからきいてみて【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=lqhYHycrsHk
@@ -212,6 +198,13 @@ DURATION:PT2H
 DTSTART:20210825T130000Z
 SUMMARY:🥐戌神ころね: 【#みっころね】マリカだでなにぇ！！【戌神ころね/ホロライブ】
 UID:Cmb2YvA8_bo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポケモンユナイト】初心者練習頑張ります！！🔰🔰\nhttps://www.youtube.com/watch?v=qtHoQ71M9ok
+DURATION:PT2H
+DTSTART:20210825T123000Z
+SUMMARY:👿百鬼あやめ: 【ポケモンユナイト】初心者練習頑張ります！！🔰🔰
+UID:qtHoQ71M9ok
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:罵倒配信【ホロライブ/はあちゃま】\nhttps://www.youtube.com/watch?v=KNPGMJUPZ_A
