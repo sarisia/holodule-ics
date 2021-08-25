@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【hololiveID】~ 500K special : Make a wish before midnight ~【Ayunda Risu】\nhttps://www.youtube.com/watch?v=JY8Gpmx9nUw
+DURATION:PT2H
+DTSTART:20210823T163000Z
+SUMMARY:🐿Risu: 【hololiveID】~ 500K special : Make a wish before midnight ~【Ayunda Risu】
+UID:JY8Gpmx9nUw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【FREETALK】OWO WHAT'S THIS???【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=H16kUawBKy4
 DURATION:PT2H
 DTSTART:20210825T113000Z
@@ -25,10 +32,10 @@ SUMMARY:Reine: 【Mario Kart 8 Deluxe】When I say practice I mean learn from 0�
 UID:J_uv96U9yp4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【hololiveID】~ 500K special : Make a wish before midnight ~【Ayunda Risu】\nhttps://www.youtube.com/watch?v=JY8Gpmx9nUw
+DESCRIPTION:【PagiMoona!】Asa with moona! let's talk about anything!!【Freetalk】\nhttps://www.youtube.com/watch?v=eI-Dmgdpyic
 DURATION:PT2H
-DTSTART:20210823T163000Z
-SUMMARY:🐿Risu: 【hololiveID】~ 500K special : Make a wish before midnight ~【Ayunda Risu】
-UID:JY8Gpmx9nUw
+DTSTART:20210825T000000Z
+SUMMARY:🔮Moona: 【PagiMoona!】Asa with moona! let's talk about anything!!【Freetalk】
+UID:eI-Dmgdpyic
 END:VEVENT
 END:VCALENDAR
