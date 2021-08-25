@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Oblivion】Can you SMELL what the BOWSON is cooking????\nhttps://www.youtube.com/watch?v=5efPwIA_PQQ
-DURATION:PT2H
-DTSTART:20210825T050500Z
-SUMMARY:Amelia: 【Oblivion】Can you SMELL what the BOWSON is cooking????
-UID:5efPwIA_PQQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【GTA:V】Grand Theft AME\nhttps://www.youtube.com/watch?v=19KsAtg-pR0
 DURATION:PT2H
 DTSTART:20210825T220500Z
 SUMMARY:Amelia: 【GTA:V】Grand Theft AME
 UID:19KsAtg-pR0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【TTRPG & Gartic Phone】 HUNTERS PARTY HARD with GARTIC PHONE\nhttps://www.youtube.com/watch?v=n7VGI7x9F0s
-DURATION:PT2H
-DTSTART:20210824T213000Z
-SUMMARY:Ina: 【TTRPG & Gartic Phone】 HUNTERS PARTY HARD with GARTIC PHONE
-UID:n7VGI7x9F0s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【JOURNEY】Where are we going?  #holoCouncil\nhttps://www.youtube.com/watch?v=wNMW87foNAI
@@ -32,11 +18,11 @@ SUMMARY:Mumei: 【JOURNEY】Where are we going?  #holoCouncil
 UID:wNMW87foNAI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SUPERHOT】That's Hot\nhttps://www.youtube.com/watch?v=6WFU2wzPKfA
+DESCRIPTION:【Mario Kart】 Tako Eats Delivery Simulator\nhttps://www.youtube.com/watch?v=gxyXtMTFYDs
 DURATION:PT2H
-DTSTART:20210825T040000Z
-SUMMARY:Kronii: 【SUPERHOT】That's Hot
-UID:6WFU2wzPKfA
+DTSTART:20210825T200000Z
+SUMMARY:Ina: 【Mario Kart】 Tako Eats Delivery Simulator
+UID:gxyXtMTFYDs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[MINECRAFT] TEMPLE gao\nhttps://www.youtube.com/watch?v=zNadRmlBn4k
@@ -46,25 +32,11 @@ SUMMARY:Gura: [MINECRAFT] TEMPLE gao
 UID:zNadRmlBn4k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:《RAT SIMULATOR》- i am one true rat.\nhttps://www.youtube.com/watch?v=sfxIojed54Q
-DURATION:PT2H
-DTSTART:20210825T060000Z
-SUMMARY:Baelz: 《RAT SIMULATOR》- i am one true rat.
-UID:sfxIojed54Q
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[MV] いじめっ子 Bully- Calliope Mori #HololiveEnglish #HoloMyth\nhttps://www.youtube.com/watch?v=PluDFsVo3z0
 DURATION:PT2H
 DTSTART:20210826T140000Z
 SUMMARY:Calli: [MV] いじめっ子 Bully- Calliope Mori #HololiveEnglish #HoloMyth
 UID:PluDFsVo3z0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SPORE】not cursed life-simulation #hololiveEnglish #holoCouncil\nhttps://www.youtube.com/watch?v=nQO56Kt-AUo
-DURATION:PT2H
-DTSTART:20210824T220000Z
-SUMMARY:Fauna: 【SPORE】not cursed life-simulation #hololiveEnglish #holoCouncil
-UID:nQO56Kt-AUo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[RIMWORLD] let us create  MADNESS 🔰\nhttps://www.youtube.com/watch?v=yGnIulwq8dI
@@ -81,6 +53,13 @@ SUMMARY:Sana: 【Beat the Beat: Rhythm Paradise】Idol training arc! #holoCounci
 UID:SfZ1DxRaqnc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【DON'T STARVE TOGETHER】 Surviving in the wilderness with Mumei! #hololiveEnglish #holoCouncil\nhttps://www.youtube.com/watch?v=dqtrM2o4BnU
+DURATION:PT2H
+DTSTART:20210825T190000Z
+SUMMARY:Fauna: 【DON'T STARVE TOGETHER】 Surviving in the wilderness with Mumei! #hololiveEnglish #holoCouncil
+UID:dqtrM2o4BnU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Celeste】BIG MOUNTAIN #holoCouncil\nhttps://www.youtube.com/watch?v=32qr8wO1mV4
 DURATION:PT2H
 DTSTART:20210825T000000Z
@@ -88,18 +67,46 @@ SUMMARY:Sana: 【Celeste】BIG MOUNTAIN #holoCouncil
 UID:32qr8wO1mV4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【TTRPG & Gartic Phone】 HUNTERS PARTY HARD with GARTIC PHONE\nhttps://www.youtube.com/watch?v=n7VGI7x9F0s
+DURATION:PT2H
+DTSTART:20210824T213000Z
+SUMMARY:Ina: 【TTRPG & Gartic Phone】 HUNTERS PARTY HARD with GARTIC PHONE
+UID:n7VGI7x9F0s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SUPERHOT】That's Hot\nhttps://www.youtube.com/watch?v=6WFU2wzPKfA
+DURATION:PT2H
+DTSTART:20210825T040000Z
+SUMMARY:Kronii: 【SUPERHOT】That's Hot
+UID:6WFU2wzPKfA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:《RAT SIMULATOR》- i am one true rat.\nhttps://www.youtube.com/watch?v=sfxIojed54Q
+DURATION:PT2H
+DTSTART:20210825T060000Z
+SUMMARY:Baelz: 《RAT SIMULATOR》- i am one true rat.
+UID:sfxIojed54Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SPORE】not cursed life-simulation #hololiveEnglish #holoCouncil\nhttps://www.youtube.com/watch?v=nQO56Kt-AUo
+DURATION:PT2H
+DTSTART:20210824T220000Z
+SUMMARY:Fauna: 【SPORE】not cursed life-simulation #hololiveEnglish #holoCouncil
+UID:nQO56Kt-AUo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Oblivion】Can you SMELL what the BOWSON is cooking????\nhttps://www.youtube.com/watch?v=5efPwIA_PQQ
+DURATION:PT2H
+DTSTART:20210825T050500Z
+SUMMARY:Amelia: 【Oblivion】Can you SMELL what the BOWSON is cooking????
+UID:5efPwIA_PQQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Ring Fit Adventure】Behold\, more ExercIRyS\nhttps://www.youtube.com/watch?v=fk1DFWD29lw
 DURATION:PT2H
 DTSTART:20210826T020000Z
 SUMMARY:IRyS: 【Ring Fit Adventure】Behold\, more ExercIRyS
 UID:fk1DFWD29lw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DON'T STARVE TOGETHER】 Surviving in the wilderness with Mumei! #hololiveEnglish #holoCouncil\nhttps://www.youtube.com/watch?v=dqtrM2o4BnU
-DURATION:PT2H
-DTSTART:20210825T190000Z
-SUMMARY:Fauna: 【DON'T STARVE TOGETHER】 Surviving in the wilderness with Mumei! #hololiveEnglish #holoCouncil
-UID:dqtrM2o4BnU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【COOKING LASAGNA!】The End Of Frozen Lasagna Is Near #kfp #キアライブ\nhttps://www.youtube.com/watch?v=Uf6DWemSxVo
