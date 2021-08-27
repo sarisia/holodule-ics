@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Frog Detective】ame frog\nhttps://www.youtube.com/watch?v=lebB0-8IWtA
-DURATION:PT2H
-DTSTART:20210827T220500Z
-SUMMARY:Amelia: 【Frog Detective】ame frog
-UID:lebB0-8IWtA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【CONSTRUCTION SIMULATOR 2015】What am I doing  #holoCouncil\nhttps://www.youtube.com/watch?v=rbiOz1mPJlI
 DURATION:PT2H
 DTSTART:20210827T200000Z
@@ -46,18 +39,11 @@ SUMMARY:Ina: 【Mario Kart 8DX Tournament】 LET'S GET DOWN TO BUSINESS EN x ID 
 UID:Tw5Ft4VDkfk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MARIO KART 8DX TOURNAMENT】nyooooom PRO RACING SHARK gao\nhttps://www.youtube.com/watch?v=000D-wUx7kQ
+DESCRIPTION:【MARIO KART 8DX】TOURNAMENT TIMEEEE #ENxIDKart\nhttps://www.youtube.com/watch?v=OxdEabuXAig
 DURATION:PT2H
-DTSTART:20210827T130017Z
-SUMMARY:Gura: 【MARIO KART 8DX TOURNAMENT】nyooooom PRO RACING SHARK gao
-UID:000D-wUx7kQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【WATCHALONG】 Interstellar (2014) with Kronini! #holoCouncil\nhttps://www.youtube.com/watch?v=u4nwWrLMkvg
-DURATION:PT2H
-DTSTART:20210827T010000Z
-SUMMARY:Sana: 【WATCHALONG】 Interstellar (2014) with Kronini! #holoCouncil
-UID:u4nwWrLMkvg
+DTSTART:20210827T130000Z
+SUMMARY:Kiara: 【MARIO KART 8DX】TOURNAMENT TIMEEEE #ENxIDKart
+UID:OxdEabuXAig
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ENGLISH LEARNING】Teaching Haachama BAD WORDS. 英会話 #HololiveEnglish\nhttps://www.youtube.com/watch?v=Ei7-riVCeYs
@@ -81,6 +67,13 @@ SUMMARY:IRyS: 【Mario Kart 8DX TOURNAMENT】Hope for VICTORY!【IRyS POV】
 UID:j8zt6QeB07s
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【MARIO KART 8DX TOURNAMENT】nyooooom PRO RACING SHARK gao\nhttps://www.youtube.com/watch?v=000D-wUx7kQ
+DURATION:PT2H
+DTSTART:20210827T130017Z
+SUMMARY:Gura: 【MARIO KART 8DX TOURNAMENT】nyooooom PRO RACING SHARK gao
+UID:000D-wUx7kQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MARIO KART 8DX TOURNAMENT】The Road to Not Placing DEAD Last! EN x ID Tournament!  #hololiveenglish\nhttps://www.youtube.com/watch?v=fgakXTZdtvo
 DURATION:PT2H
 DTSTART:20210827T130851Z
@@ -102,11 +95,11 @@ SUMMARY:Ina: 【It Takes Two】 Hope for Teamwork!! 【#1】
 UID:Uykz_Q3-Kq4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MARIO KART 8DX】TOURNAMENT TIMEEEE #ENxIDKart\nhttps://www.youtube.com/watch?v=OxdEabuXAig
+DESCRIPTION:【WATCHALONG】 Interstellar (2014) with Kronini! #holoCouncil\nhttps://www.youtube.com/watch?v=u4nwWrLMkvg
 DURATION:PT2H
-DTSTART:20210827T130000Z
-SUMMARY:Kiara: 【MARIO KART 8DX】TOURNAMENT TIMEEEE #ENxIDKart
-UID:OxdEabuXAig
+DTSTART:20210827T010000Z
+SUMMARY:Sana: 【WATCHALONG】 Interstellar (2014) with Kronini! #holoCouncil
+UID:u4nwWrLMkvg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DRAWING】 Draw\nhttps://www.youtube.com/watch?v=rzUFk0yovKI
@@ -114,12 +107,5 @@ DURATION:PT2H
 DTSTART:20210826T200000Z
 SUMMARY:Ina: 【DRAWING】 Draw
 UID:rzUFk0yovKI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ASMR】 Fauna's first ASMR stream! 🌿 comfy whispers and assorted ASMR triggers  #holoCouncil\nhttps://www.youtube.com/watch?v=le9AAt8B5Gc
-DURATION:PT2H
-DTSTART:20210827T220000Z
-SUMMARY:Fauna: 【ASMR】 Fauna's first ASMR stream! 🌿 comfy whispers and assorted ASMR triggers  #holoCouncil
-UID:le9AAt8B5Gc
 END:VEVENT
 END:VCALENDAR
