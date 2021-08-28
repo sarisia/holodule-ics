@@ -263,13 +263,6 @@ SUMMARY:🍷夕刻ロベル: 【テイルズオブアライズ/ネタバレあ�
 UID:xxgCBiMPbdg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#14【YABE S2】YABE POOL PARTY... let's enjoy the summer【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=LM70DvI8r-o
-DURATION:PT2H
-DTSTART:20210828T040000Z
-SUMMARY:Reine: #14【YABE S2】YABE POOL PARTY... let's enjoy the summer【hololiveID 2nd gen】
-UID:LM70DvI8r-o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【バイオハザードRe3】初見！！極限の世界から脱出する！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=u6jKNPjMi78
 DURATION:PT2H
 DTSTART:20210828T080000Z
@@ -277,18 +270,18 @@ SUMMARY:👯兎田ぺこら: 【バイオハザードRe3】初見！！極限の
 UID:u6jKNPjMi78
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【クギ（雪花ラミィ）視点】 呪説『堕トシモノ』 【＃ホロライブミステリー劇場2】\nhttps://www.youtube.com/watch?v=byMLrku8zP8
-DURATION:PT2H
-DTSTART:20210827T100000Z
-SUMMARY:雪花ラミィ: 【クギ（雪花ラミィ）視点】 呪説『堕トシモノ』 【＃ホロライブミステリー劇場2】
-UID:byMLrku8zP8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】🍑見えたぜ５位圏内！！！🍑 【ホロライブ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=z1Jo99yjwHk
 DURATION:PT2H
 DTSTART:20210827T110000Z
 SUMMARY:桃鈴ねね: 【マリオカート8DX】🍑見えたぜ５位圏内！！！🍑 【ホロライブ/桃鈴ねね】
 UID:z1Jo99yjwHk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【クギ（雪花ラミィ）視点】 呪説『堕トシモノ』 【＃ホロライブミステリー劇場2】\nhttps://www.youtube.com/watch?v=byMLrku8zP8
+DURATION:PT2H
+DTSTART:20210827T100000Z
+SUMMARY:雪花ラミィ: 【クギ（雪花ラミィ）視点】 呪説『堕トシモノ』 【＃ホロライブミステリー劇場2】
+UID:byMLrku8zP8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【聖剣伝説3 トライアルズ オブ マナ】はじめての聖剣伝説…！😽✨＃4【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=nIfaOeb2oWQ
@@ -419,7 +412,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】1st life HARDCORE 【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=hPcTUKOc51c
 DURATION:PT2H
-DTSTART:20210828T065000Z
+DTSTART:20210828T100000Z
 SUMMARY:🤖ロボ子さん: 【Minecraft】1st life HARDCORE 【ホロライブ/ロボ子さん】
 UID:hPcTUKOc51c
 END:VEVENT
@@ -527,6 +520,13 @@ DURATION:PT2H
 DTSTART:20210828T100000Z
 SUMMARY:🌸さくらみこ: 【 １２０万人耐久 】１２０万人いくまでぶるぶるする！？みんなと見守りたいにぇ！💓【ホロライブ/さくらみこ】
 UID:M7DWLoqQGRE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】今日の夜ご飯は豪華！？貧相！？運命はボクの手に！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=cxAxSC1v20M
+DURATION:PT2H
+DTSTART:20210828T072000Z
+SUMMARY:🤖ロボ子さん: 【APEX】今日の夜ご飯は豪華！？貧相！？運命はボクの手に！！【ホロライブ/ロボ子さん】
+UID:cxAxSC1v20M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 ガン(星街すいせい)視点 】マーダーミステリー：呪説『堕トシモノ』【＃ホロライブミステリー劇場2】\nhttps://www.youtube.com/watch?v=0jR5oSY4tcc
