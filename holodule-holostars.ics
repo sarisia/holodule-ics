@@ -4,32 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:#5【THE RIKKA TONE】花に亡霊ピアノバージョン / ヨルシカ covered by 律可\nhttps://www.youtube.com/watch?v=58UIngF4pHs
-DURATION:PT2H
-DTSTART:20210828T110000Z
-SUMMARY:⚙律可: #5【THE RIKKA TONE】花に亡霊ピアノバージョン / ヨルシカ covered by 律可
-UID:58UIngF4pHs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】リスナー参加企画！第1回 #アランの姫プハードコアエンドラ 【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=stpg0awyTRA
 DURATION:PT2H
 DTSTART:20210828T134500Z
 SUMMARY:🍕アルランディス: 【Minecraft】リスナー参加企画！第1回 #アランの姫プハードコアエンドラ 【アルランディス/ホロスターズ】
 UID:stpg0awyTRA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:敏腕 Idol Manager【奏手イヅル】\nhttps://www.youtube.com/watch?v=q_cYAEyy150
-DURATION:PT2H
-DTSTART:20210829T010000Z
-SUMMARY:🎸奏手イヅル: 敏腕 Idol Manager【奏手イヅル】
-UID:q_cYAEyy150
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【10万人記念】花咲みやびをこれからもすこっていけ!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=jrO5SAPaF04
-DURATION:PT2H
-DTSTART:20210828T130000Z
-SUMMARY:🌺花咲みやび: 【10万人記念】花咲みやびをこれからもすこっていけ!【花咲みやび/ホロスターズ】
-UID:jrO5SAPaF04
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【モーリーオンライン】私の名前は岸堂・RANKAKU・天真である【 岸堂天真 /ホロスターズ】\nhttps://www.youtube.com/watch?v=elpoCI7qkO0
@@ -51,5 +30,33 @@ DURATION:PT2H
 DTSTART:20210830T010000Z
 SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－　3　0　日　雑　談　－【ホロスターズ/夕刻ロベル】
 UID:DgLuJWAy9U8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #アルランディス3D 】アルランディス3Dお披露目会場はこちらです【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=sG70guLZNEk
+DURATION:PT2H
+DTSTART:20210829T110000Z
+SUMMARY:🍕アルランディス: 【 #アルランディス3D 】アルランディス3Dお披露目会場はこちらです【アルランディス/ホロスターズ】
+UID:sG70guLZNEk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#5【THE RIKKA TONE】花に亡霊ピアノバージョン / ヨルシカ covered by 律可\nhttps://www.youtube.com/watch?v=58UIngF4pHs
+DURATION:PT2H
+DTSTART:20210828T110000Z
+SUMMARY:⚙律可: #5【THE RIKKA TONE】花に亡霊ピアノバージョン / ヨルシカ covered by 律可
+UID:58UIngF4pHs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:敏腕 Idol Manager【奏手イヅル】\nhttps://www.youtube.com/watch?v=q_cYAEyy150
+DURATION:PT2H
+DTSTART:20210829T010000Z
+SUMMARY:🎸奏手イヅル: 敏腕 Idol Manager【奏手イヅル】
+UID:q_cYAEyy150
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【10万人記念】花咲みやびをこれからもすこっていけ!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=jrO5SAPaF04
+DURATION:PT2H
+DTSTART:20210828T130000Z
+SUMMARY:🌺花咲みやび: 【10万人記念】花咲みやびをこれからもすこっていけ!【花咲みやび/ホロスターズ】
+UID:jrO5SAPaF04
 END:VEVENT
 END:VCALENDAR
