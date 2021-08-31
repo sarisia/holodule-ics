@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【KARAOKE】WHAT WILL WE BE SINGING TONIGHT???【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=ymgnGVgIk84
+DURATION:PT2H
+DTSTART:20210831T123000Z
+SUMMARY:Ollie: 【KARAOKE】WHAT WILL WE BE SINGING TONIGHT???【Hololive Indonesia 2nd Gen】
+UID:ymgnGVgIk84
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:[ TMI ニュース ] 　ホロライブメンバーの日常！アイドルの日常とは...?　[ iofi / イオフィ ]\nhttps://www.youtube.com/watch?v=6JMRHjRgSR0
 DURATION:PT2H
 DTSTART:20210831T120000Z
@@ -67,6 +74,13 @@ SUMMARY:🦋潤羽るしあ: 【雑談/talk】ゲリラ【潤羽るしあ/ホロ
 UID:t6Jmh1Aajts
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:AD #1\nhttps://www.youtube.com/watch?v=A3gNb5PGdKA
+DURATION:PT2H
+DTSTART:20210829T161716Z
+SUMMARY:Amelia: AD #1
+UID:A3gNb5PGdKA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【＃ド深夜UNO】✨LET’S  GO ENJOY UNO ✨ 【ホロライブ/ロボ子さん/常闇トワ/尾丸ポルカ/Ollie】\nhttps://www.youtube.com/watch?v=97NsNJyeFls
 DURATION:PT2H
 DTSTART:20210830T150000Z
@@ -114,6 +128,13 @@ DURATION:PT2H
 DTSTART:20210829T220000Z
 SUMMARY:🌽白上フブキ: 【朝活】UNDERTALE：GルートRTA練習　６日目【 ホロライブ/白上フブキ 】
 UID:b3u6ZeM0M68
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【リングフィットアドベンチャー】1年前のズボンを履きたい【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=fSm46R4e2YY
+DURATION:PT2H
+DTSTART:20210831T090000Z
+SUMMARY:🌺花咲みやび: 【リングフィットアドベンチャー】1年前のズボンを履きたい【花咲みやび/ホロスターズ】
+UID:fSm46R4e2YY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】2ND HARDCORE#2/ダイヤを集めて相棒をつくる！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=Rhi9nsM3zas
@@ -480,11 +501,11 @@ SUMMARY:Reine: 【Free Talk】I Want to Show You Guys Something :D【Pavolia Rei
 UID:Gd4EVG1_G-g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:AD #1\nhttps://www.youtube.com/watch?v=A3gNb5PGdKA
+DESCRIPTION:【ウマ娘】来たれ！！！マチカネフクキタル！！！【 ホロライブ / 大神ミオ 】\nhttps://www.youtube.com/watch?v=tCafuVznPQA
 DURATION:PT2H
-DTSTART:20210829T161716Z
-SUMMARY:Amelia: AD #1
-UID:A3gNb5PGdKA
+DTSTART:20210831T100000Z
+SUMMARY:🌲大神ミオ: 【ウマ娘】来たれ！！！マチカネフクキタル！！！【 ホロライブ / 大神ミオ 】
+UID:tCafuVznPQA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Dead By Daylight】A fun game of tag anyone...?\nhttps://www.youtube.com/watch?v=v_xhmYzGbxw
@@ -494,10 +515,10 @@ SUMMARY:IRyS: 【Dead By Daylight】A fun game of tag anyone...?
 UID:v_xhmYzGbxw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【リングフィットアドベンチャー】1年前のズボンを履きたい【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=fSm46R4e2YY
+DESCRIPTION:【配信予定】ぺぺぺぺっこっぺっこぺこぺこぺっこぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=LfmqMsxA0Kc
 DURATION:PT2H
-DTSTART:20210831T090000Z
-SUMMARY:🌺花咲みやび: 【リングフィットアドベンチャー】1年前のズボンを履きたい【花咲みやび/ホロスターズ】
-UID:fSm46R4e2YY
+DTSTART:20210831T120000Z
+SUMMARY:👯兎田ぺこら: 【配信予定】ぺぺぺぺっこっぺっこぺこぺこぺっこぺこ！【ホロライブ/兎田ぺこら】
+UID:LfmqMsxA0Kc
 END:VEVENT
 END:VCALENDAR
