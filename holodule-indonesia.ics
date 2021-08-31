@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#MoonUtau】Let's sing freely!【Unarchive】\nhttps://www.youtube.com/watch?v=u0UpoiO3SdQ
+DESCRIPTION:【Sing+Talk】After Party! Let's Sing and Talk a little bit!【#MoonUtau】\nhttps://www.youtube.com/watch?v=z80mWoPiZUc
 DURATION:PT2H
-DTSTART:20210831T130000Z
-SUMMARY:🔮Moona: 【#MoonUtau】Let's sing freely!【Unarchive】
-UID:u0UpoiO3SdQ
+DTSTART:20210831T150000Z
+SUMMARY:🔮Moona: 【Sing+Talk】After Party! Let's Sing and Talk a little bit!【#MoonUtau】
+UID:z80mWoPiZUc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CHESS.COM】WHAT'S FOR LUNCH???【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=eZqH82QVKRs
+DURATION:PT2H
+DTSTART:20210831T035743Z
+SUMMARY:Ollie: 【CHESS.COM】WHAT'S FOR LUNCH???【Hololive Indonesia 2nd Gen】
+UID:eZqH82QVKRs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Idol Manager】You WILL join Halulive.【hololiveID 2nd Generation】\nhttps://www.youtube.com/watch?v=ahUggogrPKo
@@ -18,11 +25,11 @@ SUMMARY:Anya: 【Idol Manager】You WILL join Halulive.【hololiveID 2nd Generat
 UID:ahUggogrPKo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Sing+Talk】After Party! Let's Sing and Talk a little bit!【#MoonUtau】\nhttps://www.youtube.com/watch?v=z80mWoPiZUc
+DESCRIPTION:【#MoonUtau】Let's sing freely!【Unarchive】\nhttps://www.youtube.com/watch?v=u0UpoiO3SdQ
 DURATION:PT2H
-DTSTART:20210831T150000Z
-SUMMARY:🔮Moona: 【Sing+Talk】After Party! Let's Sing and Talk a little bit!【#MoonUtau】
-UID:z80mWoPiZUc
+DTSTART:20210831T130000Z
+SUMMARY:🔮Moona: 【#MoonUtau】Let's sing freely!【Unarchive】
+UID:u0UpoiO3SdQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【We Were Here Together】First Meeting - How Will Our Teamwork Be!?【hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=JlWWo7-q0ps
