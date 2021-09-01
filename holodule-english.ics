@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【JOURNEY】Finale.. right? #holoCouncil\nhttps://www.youtube.com/watch?v=yPi_ZG1VgHE
-DURATION:PT2H
-DTSTART:20210831T200000Z
-SUMMARY:Mumei: 【JOURNEY】Finale.. right? #holoCouncil
-UID:yPi_ZG1VgHE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪PORTAL 2≫ TIME FOR CHAOS! ft. @Ouro Kronii Ch. hololive-EN\nhttps://www.youtube.com/watch?v=MJW9uVWLYs0
 DURATION:PT2H
 DTSTART:20210901T040000Z
@@ -18,39 +11,11 @@ SUMMARY:Baelz: ≪PORTAL 2≫ TIME FOR CHAOS! ft. @Ouro Kronii Ch. hololive-EN
 UID:MJW9uVWLYs0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Passpartout】 I AM AN ARTIST #holoCouncil\nhttps://www.youtube.com/watch?v=eufkdjY4HyM
+DESCRIPTION:【Dead By Daylight】A fun game of tag anyone...?\nhttps://www.youtube.com/watch?v=v_xhmYzGbxw
 DURATION:PT2H
-DTSTART:20210831T220000Z
-SUMMARY:Fauna: 【Passpartout】 I AM AN ARTIST #holoCouncil
-UID:eufkdjY4HyM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Ring Fit Adventure】I like to move it move it\nhttps://www.youtube.com/watch?v=my-5C5LsMI4
-DURATION:PT2H
-DTSTART:20210901T020000Z
-SUMMARY:IRyS: 【Ring Fit Adventure】I like to move it move it
-UID:my-5C5LsMI4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【TWELVE MINUTES】Bye\, Honey | END\nhttps://www.youtube.com/watch?v=cxpGWc_uSvw
-DURATION:PT2H
-DTSTART:20210830T190000Z
-SUMMARY:Kronii: 【TWELVE MINUTES】Bye\, Honey | END
-UID:cxpGWc_uSvw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Universe Sandbox】FINALLY my banana galaxy #holoCouncil\nhttps://www.youtube.com/watch?v=N0HaVLKIoyA
-DURATION:PT2H
-DTSTART:20210901T060000Z
-SUMMARY:Sana: 【Universe Sandbox】FINALLY my banana galaxy #holoCouncil
-UID:N0HaVLKIoyA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PART TIME UFO】Unidentified Fried Object!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=FNwQWEfT1bI
-DURATION:PT2H
-DTSTART:20210831T170000Z
-SUMMARY:Kiara: 【PART TIME UFO】Unidentified Fried Object!!! #kfp #キアライブ
-UID:FNwQWEfT1bI
+DTSTART:20210831T030000Z
+SUMMARY:IRyS: 【Dead By Daylight】A fun game of tag anyone...?
+UID:v_xhmYzGbxw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SOMA】 oh no #holoCouncil\nhttps://www.youtube.com/watch?v=64CdwsrmID0
@@ -95,17 +60,59 @@ SUMMARY:Mumei: 【DRAWING】BIRBS  #holoCouncil
 UID:_WCG3s4bXPo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Dead By Daylight】A fun game of tag anyone...?\nhttps://www.youtube.com/watch?v=v_xhmYzGbxw
-DURATION:PT2H
-DTSTART:20210831T030000Z
-SUMMARY:IRyS: 【Dead By Daylight】A fun game of tag anyone...?
-UID:v_xhmYzGbxw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:KING / Gawr Gura x Calliope Mori (Cover)\nhttps://www.youtube.com/watch?v=qNIhngowViI
 DURATION:PT2H
 DTSTART:20210901T030000Z
 SUMMARY:Gura: KING / Gawr Gura x Calliope Mori (Cover)
 UID:qNIhngowViI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【JOURNEY】Finale.. right? #holoCouncil\nhttps://www.youtube.com/watch?v=yPi_ZG1VgHE
+DURATION:PT2H
+DTSTART:20210831T200000Z
+SUMMARY:Mumei: 【JOURNEY】Finale.. right? #holoCouncil
+UID:yPi_ZG1VgHE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Passpartout】 I AM AN ARTIST #holoCouncil\nhttps://www.youtube.com/watch?v=eufkdjY4HyM
+DURATION:PT2H
+DTSTART:20210831T220000Z
+SUMMARY:Fauna: 【Passpartout】 I AM AN ARTIST #holoCouncil
+UID:eufkdjY4HyM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Ring Fit Adventure】I like to move it move it\nhttps://www.youtube.com/watch?v=my-5C5LsMI4
+DURATION:PT2H
+DTSTART:20210901T020000Z
+SUMMARY:IRyS: 【Ring Fit Adventure】I like to move it move it
+UID:my-5C5LsMI4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【TWELVE MINUTES】Bye\, Honey | END\nhttps://www.youtube.com/watch?v=cxpGWc_uSvw
+DURATION:PT2H
+DTSTART:20210830T190000Z
+SUMMARY:Kronii: 【TWELVE MINUTES】Bye\, Honey | END
+UID:cxpGWc_uSvw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PART TIME UFO】Unidentified Fried Object!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=FNwQWEfT1bI
+DURATION:PT2H
+DTSTART:20210831T170000Z
+SUMMARY:Kiara: 【PART TIME UFO】Unidentified Fried Object!!! #kfp #キアライブ
+UID:FNwQWEfT1bI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Universe Sandbox】FINALLY my banana galaxy #holoCouncil\nhttps://www.youtube.com/watch?v=N0HaVLKIoyA
+DURATION:PT2H
+DTSTART:20210901T060000Z
+SUMMARY:Sana: 【Universe Sandbox】FINALLY my banana galaxy #holoCouncil
+UID:N0HaVLKIoyA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【TLOZ: SKYWARD SWORD】 SWORD EXTENSION GETTO!!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=0SpY6yP-xT8
+DURATION:PT2H
+DTSTART:20210901T140000Z
+SUMMARY:Kiara: 【TLOZ: SKYWARD SWORD】 SWORD EXTENSION GETTO!!!! #kfp #キアライブ
+UID:0SpY6yP-xT8
 END:VEVENT
 END:VCALENDAR
