@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【JOURNEY】Finale.. right? #holoCouncil\nhttps://www.youtube.com/watch?v=yPi_ZG1VgHE
+DURATION:PT2H
+DTSTART:20210831T200000Z
+SUMMARY:Mumei: 【JOURNEY】Finale.. right? #holoCouncil
+UID:yPi_ZG1VgHE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:≪PORTAL 2≫ TIME FOR CHAOS! ft. @Ouro Kronii Ch. hololive-EN\nhttps://www.youtube.com/watch?v=MJW9uVWLYs0
 DURATION:PT2H
 DTSTART:20210901T040000Z
@@ -11,74 +18,11 @@ SUMMARY:Baelz: ≪PORTAL 2≫ TIME FOR CHAOS! ft. @Ouro Kronii Ch. hololive-EN
 UID:MJW9uVWLYs0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Universe Sandbox】FINALLY my banana galaxy #holoCouncil\nhttps://www.youtube.com/watch?v=N0HaVLKIoyA
-DURATION:PT2H
-DTSTART:20210901T060000Z
-SUMMARY:Sana: 【Universe Sandbox】FINALLY my banana galaxy #holoCouncil
-UID:N0HaVLKIoyA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SOMA】 oh no #holoCouncil\nhttps://www.youtube.com/watch?v=64CdwsrmID0
-DURATION:PT2H
-DTSTART:20210831T110000Z
-SUMMARY:Sana: 【SOMA】 oh no #holoCouncil
-UID:64CdwsrmID0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Unfinished Swan】 Add Some JIBUN WO to the World\nhttps://www.youtube.com/watch?v=KYDQU26upM4
-DURATION:PT2H
-DTSTART:20210831T200000Z
-SUMMARY:Ina: 【The Unfinished Swan】 Add Some JIBUN WO to the World
-UID:KYDQU26upM4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】 Learning to SPEEDrun!! Slowly... #holoCouncil\nhttps://www.youtube.com/watch?v=aeOY4j8KSAo
-DURATION:PT2H
-DTSTART:20210830T220000Z
-SUMMARY:Fauna: 【MINECRAFT】 Learning to SPEEDrun!! Slowly... #holoCouncil
-UID:aeOY4j8KSAo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【LET'S TALK】Chill Vacation Chatting! #HololiveEnglish #holomyth\nhttps://www.youtube.com/watch?v=Rv2dR9uXrmw
-DURATION:PT2H
-DTSTART:20210901T160000Z
-SUMMARY:Calli: 【LET'S TALK】Chill Vacation Chatting! #HololiveEnglish #holomyth
-UID:Rv2dR9uXrmw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#AD】Le'ts Play C O R E\nhttps://www.youtube.com/watch?v=q1fipTr_OsI
-DURATION:PT2H
-DTSTART:20210831T010500Z
-SUMMARY:Amelia: 【#AD】Le'ts Play C O R E
-UID:q1fipTr_OsI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DRAWING】BIRBS  #holoCouncil\nhttps://www.youtube.com/watch?v=_WCG3s4bXPo
-DURATION:PT2H
-DTSTART:20210831T020000Z
-SUMMARY:Mumei: 【DRAWING】BIRBS  #holoCouncil
-UID:_WCG3s4bXPo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】What a wonderful cube world♪\nhttps://www.youtube.com/watch?v=N-wctcyzkgY
 DURATION:PT2H
 DTSTART:20210902T030000Z
 SUMMARY:IRyS: 【MINECRAFT】What a wonderful cube world♪
 UID:N-wctcyzkgY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:KING / Gawr Gura x Calliope Mori (Cover)\nhttps://www.youtube.com/watch?v=qNIhngowViI
-DURATION:PT2H
-DTSTART:20210901T030000Z
-SUMMARY:Gura: KING / Gawr Gura x Calliope Mori (Cover)
-UID:qNIhngowViI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【JOURNEY】Finale.. right? #holoCouncil\nhttps://www.youtube.com/watch?v=yPi_ZG1VgHE
-DURATION:PT2H
-DTSTART:20210831T200000Z
-SUMMARY:Mumei: 【JOURNEY】Finale.. right? #holoCouncil
-UID:yPi_ZG1VgHE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Passpartout】 I AM AN ARTIST #holoCouncil\nhttps://www.youtube.com/watch?v=eufkdjY4HyM
@@ -93,13 +37,6 @@ DURATION:PT2H
 DTSTART:20210901T020000Z
 SUMMARY:IRyS: 【Ring Fit Adventure】I like to move it move it
 UID:my-5C5LsMI4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【TWELVE MINUTES】Bye\, Honey | END\nhttps://www.youtube.com/watch?v=cxpGWc_uSvw
-DURATION:PT2H
-DTSTART:20210830T190000Z
-SUMMARY:Kronii: 【TWELVE MINUTES】Bye\, Honey | END
-UID:cxpGWc_uSvw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Frostpunk】Did I Stutter | #2\nhttps://www.youtube.com/watch?v=rfXNWT4u95Q
@@ -130,11 +67,32 @@ SUMMARY:Kiara: 【PART TIME UFO】Unidentified Fried Object!!! #kfp #キアラ�
 UID:FNwQWEfT1bI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Dead By Daylight】A fun game of tag anyone...?\nhttps://www.youtube.com/watch?v=v_xhmYzGbxw
+DESCRIPTION:【The Unfinished Swan】 Add Some JIBUN WO to the World\nhttps://www.youtube.com/watch?v=KYDQU26upM4
 DURATION:PT2H
-DTSTART:20210831T030000Z
-SUMMARY:IRyS: 【Dead By Daylight】A fun game of tag anyone...?
-UID:v_xhmYzGbxw
+DTSTART:20210831T200000Z
+SUMMARY:Ina: 【The Unfinished Swan】 Add Some JIBUN WO to the World
+UID:KYDQU26upM4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【LET'S TALK】Chill Vacation Chatting! #HololiveEnglish #holomyth\nhttps://www.youtube.com/watch?v=Rv2dR9uXrmw
+DURATION:PT2H
+DTSTART:20210901T160000Z
+SUMMARY:Calli: 【LET'S TALK】Chill Vacation Chatting! #HololiveEnglish #holomyth
+UID:Rv2dR9uXrmw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Universe Sandbox】FINALLY my banana galaxy #holoCouncil\nhttps://www.youtube.com/watch?v=N0HaVLKIoyA
+DURATION:PT2H
+DTSTART:20210901T060000Z
+SUMMARY:Sana: 【Universe Sandbox】FINALLY my banana galaxy #holoCouncil
+UID:N0HaVLKIoyA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:KING / Gawr Gura x Calliope Mori (Cover)\nhttps://www.youtube.com/watch?v=qNIhngowViI
+DURATION:PT2H
+DTSTART:20210901T030000Z
+SUMMARY:Gura: KING / Gawr Gura x Calliope Mori (Cover)
+UID:qNIhngowViI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TLOZ: SKYWARD SWORD】 SWORD EXTENSION GETTO!!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=0SpY6yP-xT8
