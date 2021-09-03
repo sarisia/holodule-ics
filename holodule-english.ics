@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【SUPERPARTY】 🍾 Drinking and reviewing memes & fanart to celebrate superchats! #holoCouncil\nhttps://www.youtube.com/watch?v=ztuyKI3yHj0
-DURATION:PT2H
-DTSTART:20210902T230000Z
-SUMMARY:Fauna: 【SUPERPARTY】 🍾 Drinking and reviewing memes & fanart to celebrate superchats! #holoCouncil
-UID:ztuyKI3yHj0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪MINECRAFT≫ LET'S EXPLORE!!!\nhttps://www.youtube.com/watch?v=Qud3gcINOiU
 DURATION:PT2H
 DTSTART:20210903T040000Z
@@ -32,39 +25,11 @@ SUMMARY:Sana: 【#Holoscopes】02. Virgo Review! #holoCouncil
 UID:HjqAajgwNRM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【KFP KITCHEN】Cooking An AUSTRIAN Dish! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=kc1DdfBqVhU
-DURATION:PT2H
-DTSTART:20210902T180000Z
-SUMMARY:Kiara: 【KFP KITCHEN】Cooking An AUSTRIAN Dish! #kfp #キアライブ
-UID:kc1DdfBqVhU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】 Chillin\nhttps://www.youtube.com/watch?v=BBxqxNLChGk
-DURATION:PT2H
-DTSTART:20210902T200000Z
-SUMMARY:Ina: 【Minecraft】 Chillin
-UID:BBxqxNLChGk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Abex】maybe\nhttps://www.youtube.com/watch?v=dlDhy0q8n0s
 DURATION:PT2H
 DTSTART:20210903T200500Z
 SUMMARY:Amelia: 【Abex】maybe
 UID:dlDhy0q8n0s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[WEST OF LOATHING] M'HOWDY\nhttps://www.youtube.com/watch?v=ySJslFpo91U
-DURATION:PT2H
-DTSTART:20210904T000000Z
-SUMMARY:Gura: [WEST OF LOATHING] M'HOWDY
-UID:ySJslFpo91U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【It Takes Two】 It Takes Tako & Hope【#2】\nhttps://www.youtube.com/watch?v=RstEjhhy3Qw
-DURATION:PT2H
-DTSTART:20210904T030000Z
-SUMMARY:IRyS: 【It Takes Two】 It Takes Tako & Hope【#2】
-UID:RstEjhhy3Qw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪CELEBRATION!!≫ Let's have a SUPER fun time!!!\nhttps://www.youtube.com/watch?v=oopPkDyBXcA
@@ -100,5 +65,54 @@ DURATION:PT2H
 DTSTART:20210903T021059Z
 SUMMARY:Calli: 【WATCH-A-LONG】The Matrix (1999) Time to Red Pill Gura! #HololiveEnglish #holomyth
 UID:XpFitmfIXqU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SUPERPARTY】 🍾 Drinking and reviewing memes & fanart to celebrate superchats! #holoCouncil\nhttps://www.youtube.com/watch?v=ztuyKI3yHj0
+DURATION:PT2H
+DTSTART:20210902T230000Z
+SUMMARY:Fauna: 【SUPERPARTY】 🍾 Drinking and reviewing memes & fanart to celebrate superchats! #holoCouncil
+UID:ztuyKI3yHj0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[WEST OF LOATHING] M'HOWDY\nhttps://www.youtube.com/watch?v=ySJslFpo91U
+DURATION:PT2H
+DTSTART:20210904T000000Z
+SUMMARY:Gura: [WEST OF LOATHING] M'HOWDY
+UID:ySJslFpo91U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【KFP KITCHEN】Cooking An AUSTRIAN Dish! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=kc1DdfBqVhU
+DURATION:PT2H
+DTSTART:20210902T180000Z
+SUMMARY:Kiara: 【KFP KITCHEN】Cooking An AUSTRIAN Dish! #kfp #キアライブ
+UID:kc1DdfBqVhU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】 Chillin\nhttps://www.youtube.com/watch?v=BBxqxNLChGk
+DURATION:PT2H
+DTSTART:20210902T200000Z
+SUMMARY:Ina: 【Minecraft】 Chillin
+UID:BBxqxNLChGk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PASSPARTOUT】 I am a painter\, you see!  #holoCouncil\nhttps://www.youtube.com/watch?v=jBpUdH6eVk0
+DURATION:PT2H
+DTSTART:20210904T020000Z
+SUMMARY:Mumei: 【PASSPARTOUT】 I am a painter\, you see!  #holoCouncil
+UID:jBpUdH6eVk0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【It Takes Two】 It Takes Tako & Hope【#2】\nhttps://www.youtube.com/watch?v=RstEjhhy3Qw
+DURATION:PT2H
+DTSTART:20210904T030000Z
+SUMMARY:IRyS: 【It Takes Two】 It Takes Tako & Hope【#2】
+UID:RstEjhhy3Qw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】RESOURCE FARMING~~~ #kfp #キアライブ\nhttps://www.youtube.com/watch?v=yBTw8ilSa4I
+DURATION:PT2H
+DTSTART:20210903T150000Z
+SUMMARY:Kiara: 【MINECRAFT】RESOURCE FARMING~~~ #kfp #キアライブ
+UID:yBTw8ilSa4I
 END:VEVENT
 END:VCALENDAR
