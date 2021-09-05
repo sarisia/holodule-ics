@@ -46,18 +46,18 @@ SUMMARY:獅白ぼたん: 【#ホロAmongUs】近くの人の断末魔をきき�
 UID:6ANhjm-8O7k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Undertale】アンダーテールやっていくよ～！（Nルート）【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=H012SBSbau8
-DURATION:PT2H
-DTSTART:20210906T000000Z
-SUMMARY:雪花ラミィ: 【Undertale】アンダーテールやっていくよ～！（Nルート）【雪花ラミィ/ホロライブ】
-UID:H012SBSbau8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－月曜日を迎えた俺と朝－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=pHqkwAjF_BI
 DURATION:PT2H
 DTSTART:20210906T010000Z
 SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－月曜日を迎えた俺と朝－【ホロスターズ/夕刻ロベル】
 UID:pHqkwAjF_BI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Undertale】アンダーテールやっていくよ～！（Nルート）【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=H012SBSbau8
+DURATION:PT2H
+DTSTART:20210906T000000Z
+SUMMARY:雪花ラミィ: 【Undertale】アンダーテールやっていくよ～！（Nルート）【雪花ラミィ/ホロライブ】
+UID:H012SBSbau8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Outer Wilds - End!】What do you see at the end of our journey?【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=uzstJjOG5cQ
@@ -95,18 +95,18 @@ SUMMARY:🌲大神ミオ: 【 #朝ミオ 】９月一発目の朝みおーん！
 UID:6Hsrgci3wQQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【オリジナル曲】ChocoLove/癒月ちょこ【３周年記念配信】\nhttps://www.youtube.com/watch?v=njeUgc0a5ko
-DURATION:PT2H
-DTSTART:20210904T150000Z
-SUMMARY:💋癒月ちょこ: 【オリジナル曲】ChocoLove/癒月ちょこ【３周年記念配信】
-UID:njeUgc0a5ko
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌/sing】深夜のゆるゆるうたわく🎵【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=6ddJVuUYtBk
 DURATION:PT2H
 DTSTART:20210904T150000Z
 SUMMARY:💫天音かなた: 【歌/sing】深夜のゆるゆるうたわく🎵【天音かなた/ホロライブ】
 UID:6ddJVuUYtBk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【オリジナル曲】ChocoLove/癒月ちょこ【３周年記念配信】\nhttps://www.youtube.com/watch?v=njeUgc0a5ko
+DURATION:PT2H
+DTSTART:20210904T150000Z
+SUMMARY:💋癒月ちょこ: 【オリジナル曲】ChocoLove/癒月ちょこ【３周年記念配信】
+UID:njeUgc0a5ko
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【80万人耐久歌枠】KARAOKE🎤reach to 800\,000【ホロライブ / 常闇トワ】\nhttps://www.youtube.com/watch?v=AIMfk5uQ65Q
@@ -165,13 +165,6 @@ SUMMARY:👯兎田ぺこら: 【エンディングまで】人喰いの大鷲ト
 UID:uGKPFRgOq3I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【3D配信】４周年記念ミニライブ【＃ときのそら4周年】\nhttps://www.youtube.com/watch?v=s7hakOSsU-I
-DURATION:PT2H
-DTSTART:20210907T120000Z
-SUMMARY:🐻ときのそら: 【3D配信】４周年記念ミニライブ【＃ときのそら4周年】
-UID:s7hakOSsU-I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪KILL IT WITH FIRE≫ everything must BURNNNN\nhttps://www.youtube.com/watch?v=nHzm9IuEH50
 DURATION:PT2H
 DTSTART:20210906T010000Z
@@ -179,11 +172,11 @@ SUMMARY:Baelz: ≪KILL IT WITH FIRE≫ everything must BURNNNN
 UID:nHzm9IuEH50
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Ender Lilies】 Tiro Finale! 【#5】\nhttps://www.youtube.com/watch?v=DmmRtze0KKE
+DESCRIPTION:【3D配信】４周年記念ミニライブ【＃ときのそら4周年】\nhttps://www.youtube.com/watch?v=s7hakOSsU-I
 DURATION:PT2H
-DTSTART:20210905T011000Z
-SUMMARY:Ina: 【Ender Lilies】 Tiro Finale! 【#5】
-UID:DmmRtze0KKE
+DTSTART:20210907T120000Z
+SUMMARY:🐻ときのそら: 【3D配信】４周年記念ミニライブ【＃ときのそら4周年】
+UID:s7hakOSsU-I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【WE WERE HERE TOGETHER】Riddles for Dummies #kfp #キアライブ\nhttps://www.youtube.com/watch?v=dFQNsmjNwsA
@@ -191,6 +184,13 @@ DURATION:PT2H
 DTSTART:20210904T180000Z
 SUMMARY:Kiara: 【WE WERE HERE TOGETHER】Riddles for Dummies #kfp #キアライブ
 UID:dFQNsmjNwsA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Ender Lilies】 Tiro Finale! 【#5】\nhttps://www.youtube.com/watch?v=DmmRtze0KKE
+DURATION:PT2H
+DTSTART:20210905T011000Z
+SUMMARY:Ina: 【Ender Lilies】 Tiro Finale! 【#5】
+UID:DmmRtze0KKE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Alba Wildlife Adventure】朝から幼女は野生生物を救う！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=FLTNpft-G-g
@@ -319,13 +319,6 @@ SUMMARY:Fauna: 【Plug & Play】 Top right game for a top right idol! #holoCounc
 UID:3ylyjrzsBss
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ウマ娘】きたぜ、ぬるりとアオハル杯育成しょ～【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=SqPr9v_4_kw
-DURATION:PT2H
-DTSTART:20210905T050000Z
-SUMMARY:尾丸ポルカ: 【ウマ娘】きたぜ、ぬるりとアオハル杯育成しょ～【尾丸ポルカ/ホロライブ】
-UID:SqPr9v_4_kw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Freetalk】Donation Reading for this week!!! and also Talkin talkie!!【Moona】\nhttps://www.youtube.com/watch?v=jLYKPahJ6Mg
 DURATION:PT2H
 DTSTART:20210905T020000Z
@@ -338,6 +331,13 @@ DURATION:PT2H
 DTSTART:20210905T090000Z
 SUMMARY:🍬姫森ルーナ: 【スーパーマリオワールド】全クリ達成？！全96コース制覇するぞっ…！⭐【#姫森ルーナ/ホロライブ】
 UID:CZ8NsaQ4PCQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【アニメ】このあと口から……\nhttps://www.youtube.com/watch?v=KCyeZFxrYKs
+DURATION:PT2H
+DTSTART:20210905T090005Z
+SUMMARY:ホロライブ: 【アニメ】このあと口から……
+UID:KCyeZFxrYKs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【フルアニメーションMV】フェリシア / AZKi【#アニAZ】\nhttps://www.youtube.com/watch?v=Lt7KxY8V4jM
@@ -387,6 +387,13 @@ DURATION:PT2H
 DTSTART:20210905T120000Z
 SUMMARY:⚓湊あくあ: 【#あくシオ3Dライブ】おうたのはっぴょうかい！【ホロライブ/湊あくあ・紫咲シオン】
 UID:_xL58zG9k5k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Supa Sunday】Hangin' Out!\nhttps://www.youtube.com/watch?v=bv4iYNwOBvw
+DURATION:PT2H
+DTSTART:20210905T230500Z
+SUMMARY:Amelia: 【Supa Sunday】Hangin' Out!
+UID:bv4iYNwOBvw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[MINECRAFT] FIELD TRIP gao !\nhttps://www.youtube.com/watch?v=X4Bw7YurCpo
@@ -522,11 +529,11 @@ SUMMARY:🤖ロボ子さん: 【APEX】pad練習！～すべてを忘れて１�
 UID:TSqYOqM-BlE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【アニメ】このあと口から……\nhttps://www.youtube.com/watch?v=KCyeZFxrYKs
+DESCRIPTION:【ウマ娘】きたぜ、ぬるりとアオハル杯育成しょ～【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=SqPr9v_4_kw
 DURATION:PT2H
-DTSTART:20210905T090005Z
-SUMMARY:ホロライブ: 【アニメ】このあと口から……
-UID:KCyeZFxrYKs
+DTSTART:20210905T050000Z
+SUMMARY:尾丸ポルカ: 【ウマ娘】きたぜ、ぬるりとアオハル杯育成しょ～【尾丸ポルカ/ホロライブ】
+UID:SqPr9v_4_kw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#アルロベゾンビ討伐隊】ゾンビ倒す俺たち【夕刻ロベル/アルランディス】\nhttps://www.youtube.com/watch?v=6bDYRxKXQAQ
