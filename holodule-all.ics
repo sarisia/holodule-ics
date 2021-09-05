@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【デレステ】祝！6周年アニバーサリーパーティーガシャで発狂する【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=hwvPtVeSskw
+DURATION:PT2H
+DTSTART:20210905T090000Z
+SUMMARY:🔥不知火フレア: 【デレステ】祝！6周年アニバーサリーパーティーガシャで発狂する【不知火フレア/ホロライブ】
+UID:hwvPtVeSskw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 ASMR 】いっぱい癒したい！甘々/囁き/耳かき【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=t_8Qb5plgBo
 DURATION:PT2H
 DTSTART:20210904T140000Z
@@ -198,13 +205,6 @@ DURATION:PT2H
 DTSTART:20210905T090000Z
 SUMMARY:🌽白上フブキ: 【アテレコ漫画】なぁミオ、バンドやろうぜ！【白上フブキ/大神ミオ/ホロライブ】
 UID:RJ7tZ4LuJHk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【エンディングまで】人喰いの大鷲トリコとVtuber兎田ぺこら。ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=uGKPFRgOq3I
-DURATION:PT2H
-DTSTART:20210905T040000Z
-SUMMARY:👯兎田ぺこら: 【エンディングまで】人喰いの大鷲トリコとVtuber兎田ぺこら。ぺこ！【ホロライブ/兎田ぺこら】
-UID:uGKPFRgOq3I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX LEGENDS】AUGUST HAS PASSED AND THE BAN IS LIFTED【Hololive ID Generasi 2】\nhttps://www.youtube.com/watch?v=vtoImUN8Y8k
@@ -450,6 +450,13 @@ DURATION:PT2H
 DTSTART:20210904T220000Z
 SUMMARY:👾常闇トワ: 12【Hollow Knight】前回精神がすり減ったのが立ち直ったので…！【#常闇トワ​/ホロライブ】
 UID:EFdsiaOeYwI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】ゲリラコンクリ雑談【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=-d6UbmSL1_I
+DURATION:PT2H
+DTSTART:20210905T110000Z
+SUMMARY:🐻ときのそら: 【Minecraft】ゲリラコンクリ雑談【#ときのそら生放送】
+UID:-d6UbmSL1_I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 APEX 】iofi and IRyS Joined The Team For Ollie's APEX Endurance Stream !【 iofi / IRyS / Ollie 】\nhttps://www.youtube.com/watch?v=eTf5hL6b6NU
