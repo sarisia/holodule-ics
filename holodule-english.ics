@@ -4,32 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Superchat Reading】Continued!  #holoCouncil\nhttps://www.youtube.com/watch?v=dip1794Rd54
-DURATION:PT2H
-DTSTART:20210905T210000Z
-SUMMARY:Mumei: 【Superchat Reading】Continued!  #holoCouncil
-UID:dip1794Rd54
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Superchat Reading】Reading The Rest From Celebration\nhttps://www.youtube.com/watch?v=SG8ehOJxeL0
 DURATION:PT2H
 DTSTART:20210906T190000Z
 SUMMARY:Kronii: 【Superchat Reading】Reading The Rest From Celebration
 UID:SG8ehOJxeL0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Superchat Reading】 Thank you \;v\; 💚 #holoCouncil\nhttps://www.youtube.com/watch?v=EMSLvLGWGaw
-DURATION:PT2H
-DTSTART:20210905T190000Z
-SUMMARY:Fauna: 【Superchat Reading】 Thank you \;v\; 💚 #holoCouncil
-UID:EMSLvLGWGaw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Supa Sunday】Hangin' Out!\nhttps://www.youtube.com/watch?v=bv4iYNwOBvw
-DURATION:PT2H
-DTSTART:20210905T230500Z
-SUMMARY:Amelia: 【Supa Sunday】Hangin' Out!
-UID:bv4iYNwOBvw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Celeste+Suparty readings!】Will I Everest #holocouncil\nhttps://www.youtube.com/watch?v=Ff3h_U6PPDU
@@ -39,46 +18,18 @@ SUMMARY:Sana: 【Celeste+Suparty readings!】Will I Everest #holocouncil
 UID:Ff3h_U6PPDU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪West of Loathing≫ will the west be wild?\nhttps://www.youtube.com/watch?v=kHattCKERl4
-DURATION:PT2H
-DTSTART:20210908T040000Z
-SUMMARY:Baelz: ≪West of Loathing≫ will the west be wild?
-UID:kHattCKERl4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Don't mined me!  #holoCouncil\nhttps://www.youtube.com/watch?v=jPte2WmZI54
-DURATION:PT2H
-DTSTART:20210907T000000Z
-SUMMARY:Mumei: 【Minecraft】Don't mined me!  #holoCouncil
-UID:jPte2WmZI54
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft w/Fauna!】 be mine #holocouncil\nhttps://www.youtube.com/watch?v=GyljjShHMNk
-DURATION:PT2H
-DTSTART:20210907T230000Z
-SUMMARY:Sana: 【Minecraft w/Fauna!】 be mine #holocouncil
-UID:GyljjShHMNk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪KILL IT WITH FIRE≫ everything must BURNNNN\nhttps://www.youtube.com/watch?v=nHzm9IuEH50
-DURATION:PT2H
-DTSTART:20210906T010000Z
-SUMMARY:Baelz: ≪KILL IT WITH FIRE≫ everything must BURNNNN
-UID:nHzm9IuEH50
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ame vs the Sun\nhttps://www.youtube.com/watch?v=DB4w8q9Iohc
-DURATION:PT2H
-DTSTART:20210907T092600Z
-SUMMARY:Amelia: Ame vs the Sun
-UID:DB4w8q9Iohc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】 SAUNA #holoCouncil\nhttps://www.youtube.com/watch?v=0FBq9C52M4Y
 DURATION:PT2H
 DTSTART:20210907T230000Z
 SUMMARY:Fauna: 【MINECRAFT】 SAUNA #holoCouncil
 UID:0FBq9C52M4Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪West of Loathing≫ will the west be wild?\nhttps://www.youtube.com/watch?v=kHattCKERl4
+DURATION:PT2H
+DTSTART:20210908T040000Z
+SUMMARY:Baelz: ≪West of Loathing≫ will the west be wild?
+UID:kHattCKERl4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TITANFALL 2】Getting in the Robot\nhttps://www.youtube.com/watch?v=WchjFArhh3U
@@ -95,6 +46,13 @@ SUMMARY:Kronii: 【Stories Untold】It's Storytime | #1
 UID:Ui69JdmAQiY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Don't mined me!  #holoCouncil\nhttps://www.youtube.com/watch?v=jPte2WmZI54
+DURATION:PT2H
+DTSTART:20210907T000000Z
+SUMMARY:Mumei: 【Minecraft】Don't mined me!  #holoCouncil
+UID:jPte2WmZI54
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【TLOZ: SKYWARD SWORD】I'VE GOT THE POWAH #kfp #キアライブ\nhttps://www.youtube.com/watch?v=UGoki9bUBaI
 DURATION:PT2H
 DTSTART:20210907T140000Z
@@ -109,10 +67,24 @@ SUMMARY:Fauna: 【Fauna's ASMR】 Relaxing with Cooling Summertime ASMR 🧊 #ho
 UID:8-rKCWmlfJw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft w/Fauna!】 be mine #holocouncil\nhttps://www.youtube.com/watch?v=GyljjShHMNk
+DURATION:PT2H
+DTSTART:20210907T230000Z
+SUMMARY:Sana: 【Minecraft w/Fauna!】 be mine #holocouncil
+UID:GyljjShHMNk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:[MINECRAFT] smells like MISCHIEF\nhttps://www.youtube.com/watch?v=l5V-osH1vJ8
 DURATION:PT2H
 DTSTART:20210907T000106Z
 SUMMARY:Gura: [MINECRAFT] smells like MISCHIEF
 UID:l5V-osH1vJ8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ame vs the Sun\nhttps://www.youtube.com/watch?v=DB4w8q9Iohc
+DURATION:PT2H
+DTSTART:20210907T092600Z
+SUMMARY:Amelia: Ame vs the Sun
+UID:DB4w8q9Iohc
 END:VEVENT
 END:VCALENDAR
