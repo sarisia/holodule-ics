@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【hololiveID】Free Talk Bahasa Indonesia : Ngobrol Santai Bareng Risu ~【Ayunda Risu】\nhttps://www.youtube.com/watch?v=4oLz6CKgbKE
+DESCRIPTION:【MV+Full Ver.】 Gate Open: START! - Pavolia Reine (Original Song)\nhttps://www.youtube.com/watch?v=VFpOBazE3rs
 DURATION:PT2H
-DTSTART:20210908T130000Z
-SUMMARY:🐿Risu: 【hololiveID】Free Talk Bahasa Indonesia : Ngobrol Santai Bareng Risu ~【Ayunda Risu】
-UID:4oLz6CKgbKE
+DTSTART:20210909T110000Z
+SUMMARY:Reine: 【MV+Full Ver.】 Gate Open: START! - Pavolia Reine (Original Song)
+UID:VFpOBazE3rs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINI KARAOKE】BIRBDAY COUNTDOWN TIME #ReineMEPtember2021【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=GWGelUrFLO4
+DURATION:PT2H
+DTSTART:20210908T163000Z
+SUMMARY:Reine: 【MINI KARAOKE】BIRBDAY COUNTDOWN TIME #ReineMEPtember2021【Pavolia Reine/hololiveID 2nd gen】
+UID:GWGelUrFLO4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SMOL AME】PLATFORMS AND IN-GAME ZOMBIE?!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=P7E6I9PXSis
@@ -25,27 +32,6 @@ SUMMARY:Anya: 【Hide and Shriek】BOO! I'm behiRyS you... 後輩をワカラせ
 UID:xLjxdFliHiI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【PagiMoona!】Asa with moona! let's talk about anything!!【Freetalk】\nhttps://www.youtube.com/watch?v=xVjbHMe7Ph8
-DURATION:PT2H
-DTSTART:20210908T000000Z
-SUMMARY:🔮Moona: 【PagiMoona!】Asa with moona! let's talk about anything!!【Freetalk】
-UID:xVjbHMe7Ph8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MV+Full Ver.】 Gate Open: START! - Pavolia Reine (Original Song)\nhttps://www.youtube.com/watch?v=VFpOBazE3rs
-DURATION:PT2H
-DTSTART:20210909T110000Z
-SUMMARY:Reine: 【MV+Full Ver.】 Gate Open: START! - Pavolia Reine (Original Song)
-UID:VFpOBazE3rs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINI KARAOKE】BIRBDAY COUNTDOWN TIME #ReineMEPtember2021【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=GWGelUrFLO4
-DURATION:PT2H
-DTSTART:20210908T163000Z
-SUMMARY:Reine: 【MINI KARAOKE】BIRBDAY COUNTDOWN TIME #ReineMEPtember2021【Pavolia Reine/hololiveID 2nd gen】
-UID:GWGelUrFLO4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DONATION READING + FREETALK】THANK YOU!! LET'S CHAT WHILE WE'RE AT IT!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=-xouE_ZlAlw
 DURATION:PT2H
 DTSTART:20210908T085640Z
@@ -58,5 +44,12 @@ DURATION:PT2H
 DTSTART:20210908T120000Z
 SUMMARY:🎨Iofi: 【 Phasmophobia 】Ghost Huntingって \, 楽しいよね【 イオフィ / 白上フブキ 】
 UID:ob2k9i5qBBA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PagiMoona!】Asa with moona! let's talk about anything!!【Freetalk】\nhttps://www.youtube.com/watch?v=xVjbHMe7Ph8
+DURATION:PT2H
+DTSTART:20210908T000000Z
+SUMMARY:🔮Moona: 【PagiMoona!】Asa with moona! let's talk about anything!!【Freetalk】
+UID:xVjbHMe7Ph8
 END:VEVENT
 END:VCALENDAR
