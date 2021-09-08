@@ -4,18 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Superchat Reading】Reading The Rest From Celebration\nhttps://www.youtube.com/watch?v=SG8ehOJxeL0
+DESCRIPTION:【MINECRAFT】 SAUNA #holoCouncil\nhttps://www.youtube.com/watch?v=0FBq9C52M4Y
 DURATION:PT2H
-DTSTART:20210906T190000Z
-SUMMARY:Kronii: 【Superchat Reading】Reading The Rest From Celebration
-UID:SG8ehOJxeL0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Celeste+Suparty readings!】Will I Everest #holocouncil\nhttps://www.youtube.com/watch?v=Ff3h_U6PPDU
-DURATION:PT2H
-DTSTART:20210907T030000Z
-SUMMARY:Sana: 【Celeste+Suparty readings!】Will I Everest #holocouncil
-UID:Ff3h_U6PPDU
+DTSTART:20210907T230000Z
+SUMMARY:Fauna: 【MINECRAFT】 SAUNA #holoCouncil
+UID:0FBq9C52M4Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪West of Loathing≫ will the west be wild?\nhttps://www.youtube.com/watch?v=kHattCKERl4
@@ -23,6 +16,13 @@ DURATION:PT2H
 DTSTART:20210908T040000Z
 SUMMARY:Baelz: ≪West of Loathing≫ will the west be wild?
 UID:kHattCKERl4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】PHOENIXTON RENOVATION with MAMATORI! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=t-wK5vET8WM
+DURATION:PT2H
+DTSTART:20210908T120000Z
+SUMMARY:Kiara: 【MINECRAFT】PHOENIXTON RENOVATION with MAMATORI! #kfp #キアライブ
+UID:t-wK5vET8WM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Bastion】 BONK 【#1】\nhttps://www.youtube.com/watch?v=sawfn4moRYI
@@ -39,6 +39,20 @@ SUMMARY:Sana: 【Drawing】I draw big emote #holocouncil
 UID:kOw07wkXV3w
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Stories Untold】It's Storytime\nhttps://www.youtube.com/watch?v=Ui69JdmAQiY
+DURATION:PT2H
+DTSTART:20210908T010000Z
+SUMMARY:Kronii: 【Stories Untold】It's Storytime
+UID:Ui69JdmAQiY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【12 Minutes】Time TraveleRyS?\nhttps://www.youtube.com/watch?v=l0Pr08Vf4JA
+DURATION:PT2H
+DTSTART:20210908T030000Z
+SUMMARY:IRyS: 【12 Minutes】Time TraveleRyS?
+UID:l0Pr08Vf4JA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【GTA:V】Grand Theft AME\nhttps://www.youtube.com/watch?v=2tQlSBCGwxg
 DURATION:PT2H
 DTSTART:20210908T220500Z
@@ -46,11 +60,11 @@ SUMMARY:Amelia: 【GTA:V】Grand Theft AME
 UID:2tQlSBCGwxg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Don't mined me!  #holoCouncil\nhttps://www.youtube.com/watch?v=jPte2WmZI54
+DESCRIPTION:【PASSPARTOUT】 I have PASSION  #holoCouncil\nhttps://www.youtube.com/watch?v=X9bQpWFjxlQ
 DURATION:PT2H
-DTSTART:20210907T000000Z
-SUMMARY:Mumei: 【Minecraft】Don't mined me!  #holoCouncil
-UID:jPte2WmZI54
+DTSTART:20210908T020000Z
+SUMMARY:Mumei: 【PASSPARTOUT】 I have PASSION  #holoCouncil
+UID:X9bQpWFjxlQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【The Shore】 H-hey Gramps\nhttps://www.youtube.com/watch?v=9-2X_n9uVLg
@@ -60,11 +74,18 @@ SUMMARY:Ina: 【The Shore】 H-hey Gramps
 UID:9-2X_n9uVLg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【PASSPARTOUT】 I have PASSION  #holoCouncil\nhttps://www.youtube.com/watch?v=X9bQpWFjxlQ
+DESCRIPTION:≪COFFEEnCHILL≫ catching up with SUPERCHATS!\nhttps://www.youtube.com/watch?v=BF8OP-D1SCI
 DURATION:PT2H
-DTSTART:20210908T020000Z
-SUMMARY:Mumei: 【PASSPARTOUT】 I have PASSION  #holoCouncil
-UID:X9bQpWFjxlQ
+DTSTART:20210909T000000Z
+SUMMARY:Baelz: ≪COFFEEnCHILL≫ catching up with SUPERCHATS!
+UID:BF8OP-D1SCI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SUNSET ASMR】Pool-side Chatting with You #HololiveEnglish #holomyth\nhttps://www.youtube.com/watch?v=AUOuCbS0_Ww
+DURATION:PT2H
+DTSTART:20210909T040000Z
+SUMMARY:Calli: 【SUNSET ASMR】Pool-side Chatting with You #HololiveEnglish #holomyth
+UID:AUOuCbS0_Ww
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft w/Fauna!】 be mine #holocouncil\nhttps://www.youtube.com/watch?v=GyljjShHMNk
@@ -81,87 +102,10 @@ SUMMARY:Amelia: 【Papers\, Please】DENIED
 UID:6oiquuSV3Ic
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪COFFEEnCHILL≫ catching up with SUPERCHATS!\nhttps://www.youtube.com/watch?v=BF8OP-D1SCI
-DURATION:PT2H
-DTSTART:20210909T000000Z
-SUMMARY:Baelz: ≪COFFEEnCHILL≫ catching up with SUPERCHATS!
-UID:BF8OP-D1SCI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ame vs the Sun\nhttps://www.youtube.com/watch?v=DB4w8q9Iohc
-DURATION:PT2H
-DTSTART:20210907T092600Z
-SUMMARY:Amelia: Ame vs the Sun
-UID:DB4w8q9Iohc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】 SAUNA #holoCouncil\nhttps://www.youtube.com/watch?v=0FBq9C52M4Y
-DURATION:PT2H
-DTSTART:20210907T230000Z
-SUMMARY:Fauna: 【MINECRAFT】 SAUNA #holoCouncil
-UID:0FBq9C52M4Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Hide and Shriek】Pls protect me Ancient Weapon Anya(´；ω；`)\nhttps://www.youtube.com/watch?v=GoScrOyZLwA
 DURATION:PT2H
 DTSTART:20210908T130000Z
 SUMMARY:IRyS: 【Hide and Shriek】Pls protect me Ancient Weapon Anya(´；ω；`)
 UID:GoScrOyZLwA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】PHOENIXTON RENOVATION with MAMATORI! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=t-wK5vET8WM
-DURATION:PT2H
-DTSTART:20210908T120000Z
-SUMMARY:Kiara: 【MINECRAFT】PHOENIXTON RENOVATION with MAMATORI! #kfp #キアライブ
-UID:t-wK5vET8WM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【TITANFALL 2】Getting in the Robot\nhttps://www.youtube.com/watch?v=WchjFArhh3U
-DURATION:PT2H
-DTSTART:20210907T030000Z
-SUMMARY:IRyS: 【TITANFALL 2】Getting in the Robot
-UID:WchjFArhh3U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Stories Untold】It's Storytime\nhttps://www.youtube.com/watch?v=Ui69JdmAQiY
-DURATION:PT2H
-DTSTART:20210908T010000Z
-SUMMARY:Kronii: 【Stories Untold】It's Storytime
-UID:Ui69JdmAQiY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【12 Minutes】Time TraveleRyS?\nhttps://www.youtube.com/watch?v=l0Pr08Vf4JA
-DURATION:PT2H
-DTSTART:20210908T030000Z
-SUMMARY:IRyS: 【12 Minutes】Time TraveleRyS?
-UID:l0Pr08Vf4JA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SUNSET ASMR】Pool-side Chatting with You #HololiveEnglish #holomyth\nhttps://www.youtube.com/watch?v=AUOuCbS0_Ww
-DURATION:PT2H
-DTSTART:20210909T040000Z
-SUMMARY:Calli: 【SUNSET ASMR】Pool-side Chatting with You #HololiveEnglish #holomyth
-UID:AUOuCbS0_Ww
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【TLOZ: SKYWARD SWORD】I'VE GOT THE POWAH #kfp #キアライブ\nhttps://www.youtube.com/watch?v=UGoki9bUBaI
-DURATION:PT2H
-DTSTART:20210907T140000Z
-SUMMARY:Kiara: 【TLOZ: SKYWARD SWORD】I'VE GOT THE POWAH #kfp #キアライブ
-UID:UGoki9bUBaI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Fauna's ASMR】 Relaxing with Cooling Summertime ASMR 🧊 #holoCouncil\nhttps://www.youtube.com/watch?v=8-rKCWmlfJw
-DURATION:PT2H
-DTSTART:20210906T220000Z
-SUMMARY:Fauna: 【Fauna's ASMR】 Relaxing with Cooling Summertime ASMR 🧊 #holoCouncil
-UID:8-rKCWmlfJw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[MINECRAFT] smells like MISCHIEF\nhttps://www.youtube.com/watch?v=l5V-osH1vJ8
-DURATION:PT2H
-DTSTART:20210907T000106Z
-SUMMARY:Gura: [MINECRAFT] smells like MISCHIEF
-UID:l5V-osH1vJ8
 END:VEVENT
 END:VCALENDAR
