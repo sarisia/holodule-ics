@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:『Karaoke/歌枠』えもちえもちはげちはげち  /  アステル・レダ\nhttps://www.youtube.com/watch?v=bGM84lFjVmY
-DURATION:PT2H
-DTSTART:20210909T140000Z
-SUMMARY:🎭アステル・レダ: 『Karaoke/歌枠』えもちえもちはげちはげち  /  アステル・レダ
-UID:bGM84lFjVmY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 ロックマンX 】ロックマンの操作を覚えていくぞ～！Mega Man【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=fwr22EnCgF4
 DURATION:PT2H
 DTSTART:20210909T110000Z
 SUMMARY:🍬姫森ルーナ: 【 ロックマンX 】ロックマンの操作を覚えていくぞ～！Mega Man【#姫森ルーナ/ホロライブ】
 UID:fwr22EnCgF4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:『Karaoke/歌枠』えもちえもちはげちはげち  /  アステル・レダ\nhttps://www.youtube.com/watch?v=bGM84lFjVmY
+DURATION:PT2H
+DTSTART:20210909T140000Z
+SUMMARY:🎭アステル・レダ: 『Karaoke/歌枠』えもちえもちはげちはげち  /  アステル・レダ
+UID:bGM84lFjVmY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】天真村、道路を整備したい。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=DclH0ELqzxw
@@ -130,13 +130,6 @@ SUMMARY:Kronii: 【Frostpunk】The City Better Survive | #3
 UID:hH039lSc4vU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Hollow Knight】Haha I'm In Danger | #3\nhttps://www.youtube.com/watch?v=d3oBs5TljNE
-DURATION:PT2H
-DTSTART:20210909T210000Z
-SUMMARY:Kronii: 【Hollow Knight】Haha I'm In Danger | #3
-UID:d3oBs5TljNE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[SIMS 4] my little holo-house\nhttps://www.youtube.com/watch?v=Ww29p-WZ6dg
 DURATION:PT2H
 DTSTART:20210910T000152Z
@@ -235,20 +228,6 @@ SUMMARY:🍕アルランディス: 【飲酒雑談】居酒屋ARNでかく語り
 UID:eFY0jjI68no
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【メン限／Member Only】肌寒い夜は一緒にイチャイチャ添い寝しよっか...💓【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=TANVxjcgJ9k
-DURATION:PT2H
-DTSTART:20210910T140000Z
-SUMMARY:⚔白銀ノエル: 【メン限／Member Only】肌寒い夜は一緒にイチャイチャ添い寝しよっか...💓【白銀ノエル/ホロライブ】
-UID:TANVxjcgJ9k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Twelve Minutes】抜け出すぞ！！このループから！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=XQ-0yM4C4go
-DURATION:PT2H
-DTSTART:20210909T153000Z
-SUMMARY:🍕アルランディス: 【Twelve Minutes】抜け出すぞ！！このループから！【アルランディス/ホロスターズ】
-UID:XQ-0yM4C4go
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】深夜の安眠マイクラ！！だよ！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=VrIM-yKnl34
 DURATION:PT2H
 DTSTART:20210909T153000Z
@@ -261,6 +240,20 @@ DURATION:PT2H
 DTSTART:20210911T110000Z
 SUMMARY:ホロライブ: #マドロミライブ Presented by SQUARE ENIX
 UID:gNziHtkliOo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メン限／Member Only】肌寒い夜は一緒にイチャイチャ添い寝しよっか...💓【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=TANVxjcgJ9k
+DURATION:PT2H
+DTSTART:20210910T140000Z
+SUMMARY:⚔白銀ノエル: 【メン限／Member Only】肌寒い夜は一緒にイチャイチャ添い寝しよっか...💓【白銀ノエル/ホロライブ】
+UID:TANVxjcgJ9k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Twelve Minutes】抜け出すぞ！！このループから！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=XQ-0yM4C4go
+DURATION:PT2H
+DTSTART:20210909T153000Z
+SUMMARY:🍕アルランディス: 【Twelve Minutes】抜け出すぞ！！このループから！【アルランディス/ホロスターズ】
+UID:XQ-0yM4C4go
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ポルカの伝説】バッグの中身、真実。\nhttps://www.youtube.com/watch?v=6GHYXEQ9nKc
@@ -452,18 +445,18 @@ SUMMARY:🍙猫又おかゆ: 【 Fall Guys 】久しぶり～～～！優勝し�
 UID:aSwuFl3Dt-Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SPORE】 The Not Pickle Strikes Back #holoCouncil\nhttps://www.youtube.com/watch?v=aWx7zLf6CSo
-DURATION:PT2H
-DTSTART:20210909T190000Z
-SUMMARY:Fauna: 【SPORE】 The Not Pickle Strikes Back #holoCouncil
-UID:aWx7zLf6CSo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【RE:BROADCAST】AZKi 5th LiVE R.I.P AZHOOD #開拓者全滅 【2021.9.12まで公開】\nhttps://www.youtube.com/watch?v=G1zWt-Xv0vY
 DURATION:PT2H
 DTSTART:20210909T120000Z
 SUMMARY:⚒AZKi: 【RE:BROADCAST】AZKi 5th LiVE R.I.P AZHOOD #開拓者全滅 【2021.9.12まで公開】
 UID:G1zWt-Xv0vY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SPORE】 The Not Pickle Strikes Back #holoCouncil\nhttps://www.youtube.com/watch?v=aWx7zLf6CSo
+DURATION:PT2H
+DTSTART:20210909T190000Z
+SUMMARY:Fauna: 【SPORE】 The Not Pickle Strikes Back #holoCouncil
+UID:aWx7zLf6CSo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－木曜日らしい－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=gGbnTnSivhE
