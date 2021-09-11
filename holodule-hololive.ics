@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 高級クラブルーナ 】「どぶろく」飲みながらお喋りしませんか…？🍶【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=TQ_z3DNsICU
-DURATION:PT2H
-DTSTART:20210911T140000Z
-SUMMARY:🍬姫森ルーナ: 【 高級クラブルーナ 】「どぶろく」飲みながらお喋りしませんか…？🍶【#姫森ルーナ/ホロライブ】
-UID:TQ_z3DNsICU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:寝る前のバラード歌枠  ～たまにウクレレもあるかも～\nhttps://www.youtube.com/watch?v=Tm7Bf7xcT-k
 DURATION:PT2H
 DTSTART:20210910T133000Z
@@ -30,6 +23,13 @@ DURATION:PT2H
 DTSTART:20210910T140000Z
 SUMMARY:尾丸ポルカ: 【TERAVIT】俺は新作ゲームのαテスターだ！生きてみせる！この世界で！【尾丸ポルカ/ホロライブ】
 UID:JT2OAqysbjw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Phasmophobia】ホラゲビビり組の悲鳴無限連鎖編【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=tRwvJA8eyxQ
+DURATION:PT2H
+DTSTART:20210911T150000Z
+SUMMARY:🍎アキロゼ: 【Phasmophobia】ホラゲビビり組の悲鳴無限連鎖編【ホロライブ/アキロゼ】
+UID:tRwvJA8eyxQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【UNDERTALE】息抜き、ジェノサイダーがNルートで平和に過ごす。【 ホロライブ/白上フブキ 】\nhttps://www.youtube.com/watch?v=ItfobXuBMjo
@@ -151,10 +151,10 @@ SUMMARY:🌸さくらみこ: 【 開封/カメラ枠 】購入品全部開けま
 UID:UGtFbdU7Z9U
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#HAACHAMAENGLISH】LET'S STUDY SLANG!!! #HoloEN0\nhttps://www.youtube.com/watch?v=IB0gLerrmFw
+DESCRIPTION:OMG\, Finally I got slangs!! [HAACHAMA English]\nhttps://www.youtube.com/watch?v=IB0gLerrmFw
 DURATION:PT2H
 DTSTART:20210911T140000Z
-SUMMARY:❤赤井はあと: 【#HAACHAMAENGLISH】LET'S STUDY SLANG!!! #HoloEN0
+SUMMARY:❤赤井はあと: OMG\, Finally I got slangs!! [HAACHAMA English]
 UID:IB0gLerrmFw
 END:VEVENT
 BEGIN:VEVENT
@@ -228,13 +228,6 @@ SUMMARY:桃鈴ねね: 【 #桃鈴ねね新衣装 】🍑SUPER KAWAII NENE🍑 �
 UID:AbxFdk5Go-E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MemberOnly】カイジ　人生逆転ゲーム #かなたんロードショー【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=LpS0vSbkdzE
-DURATION:PT2H
-DTSTART:20210911T140000Z
-SUMMARY:💫天音かなた: 【MemberOnly】カイジ　人生逆転ゲーム #かなたんロードショー【天音かなた/ホロライブ】
-UID:LpS0vSbkdzE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】わためろん or ラムチョップ？？？【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=ZyRdo7ERg0w
 DURATION:PT2H
 DTSTART:20210911T133000Z
@@ -268,6 +261,13 @@ DURATION:PT2H
 DTSTART:20210911T100000Z
 SUMMARY:🏴☠宝鐘マリン: 【歌ってみた】やっぱ結局アニソンを歌ってしまうんだよな / singing anime song【ホロライブ/宝鐘マリン】
 UID:hFb9pUUlU40
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Members only】お休み明けの雑談配信！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=OJYOvXKBivU
+DURATION:PT2H
+DTSTART:20210912T130000Z
+SUMMARY:雪花ラミィ: 【Members only】お休み明けの雑談配信！【雪花ラミィ/ホロライブ】
+UID:OJYOvXKBivU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Alba Wildlife Adventure】#2 日曜の朝から野生生物を救う！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=x3_CCKrrgR8
