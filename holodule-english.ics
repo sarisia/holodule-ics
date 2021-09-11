@@ -25,41 +25,6 @@ SUMMARY:Gura: [SIMS 4] my little holo-house
 UID:Ww29p-WZ6dg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DRAWING】 TakoEats Beauty Division\nhttps://www.youtube.com/watch?v=CpbCaWmyLdE
-DURATION:PT2H
-DTSTART:20210909T200000Z
-SUMMARY:Ina: 【DRAWING】 TakoEats Beauty Division
-UID:CpbCaWmyLdE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【TWELVE MINUTES】Wow\, This Must Be a Short Game\, Then! #hololiveEnglish #holomyth\nhttps://www.youtube.com/watch?v=p9jB_S4t8k0
-DURATION:PT2H
-DTSTART:20210910T141344Z
-SUMMARY:Calli: 【TWELVE MINUTES】Wow\, This Must Be a Short Game\, Then! #hololiveEnglish #holomyth
-UID:p9jB_S4t8k0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Mario Kart 8 Deluxe】 Let's race together!! 🏁 #holoCouncil\nhttps://www.youtube.com/watch?v=07OGC-EtBas
-DURATION:PT2H
-DTSTART:20210911T010000Z
-SUMMARY:Fauna: 【Mario Kart 8 Deluxe】 Let's race together!! 🏁 #holoCouncil
-UID:07OGC-EtBas
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SPORE】 The Not Pickle Strikes Back #holoCouncil\nhttps://www.youtube.com/watch?v=aWx7zLf6CSo
-DURATION:PT2H
-DTSTART:20210909T190000Z
-SUMMARY:Fauna: 【SPORE】 The Not Pickle Strikes Back #holoCouncil
-UID:aWx7zLf6CSo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【WATCHALONG】Sci-fi September~ Snowpiercer(2013)\nhttps://www.youtube.com/watch?v=SgQFnJFQmnw
-DURATION:PT2H
-DTSTART:20210911T030500Z
-SUMMARY:Amelia: 【WATCHALONG】Sci-fi September~ Snowpiercer(2013)
-UID:SgQFnJFQmnw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【BOOMERANG X】Oi\, Mate ( ་ ⍸ ་ )\nhttps://www.youtube.com/watch?v=kcrr1IwaY8s
 DURATION:PT2H
 DTSTART:20210910T050000Z
@@ -72,6 +37,13 @@ DURATION:PT2H
 DTSTART:20210910T110000Z
 SUMMARY:Sana: 【#Holoscopes】03. Survivor Edition! #holoCouncil
 UID:uCFuXlerAkE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DRAWING】 TakoEats Beauty Division\nhttps://www.youtube.com/watch?v=CpbCaWmyLdE
+DURATION:PT2H
+DTSTART:20210909T200000Z
+SUMMARY:Ina: 【DRAWING】 TakoEats Beauty Division
+UID:CpbCaWmyLdE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MAD-LIB THEATRE】Hoo-Haa! Theatre! ft. @Hakos Baelz Ch. hololive-EN  #holoCouncil\nhttps://www.youtube.com/watch?v=p_vaBM3sjro
@@ -95,6 +67,20 @@ SUMMARY:Kiara: 【Tales of Arise】STARTING THE JOURNEY! Part 1  #TalesOfArise #
 UID:EMDCH5sVpa0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【TWELVE MINUTES】Wow\, This Must Be a Short Game\, Then! #hololiveEnglish #holomyth\nhttps://www.youtube.com/watch?v=p9jB_S4t8k0
+DURATION:PT2H
+DTSTART:20210910T141344Z
+SUMMARY:Calli: 【TWELVE MINUTES】Wow\, This Must Be a Short Game\, Then! #hololiveEnglish #holomyth
+UID:p9jB_S4t8k0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Mario Kart 8 Deluxe】 Let's race together!! 🏁 #holoCouncil\nhttps://www.youtube.com/watch?v=07OGC-EtBas
+DURATION:PT2H
+DTSTART:20210911T010000Z
+SUMMARY:Fauna: 【Mario Kart 8 Deluxe】 Let's race together!! 🏁 #holoCouncil
+UID:07OGC-EtBas
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【WarioWare: Get It Together!】IT'S ME! SANANA #holoCouncil\nhttps://www.youtube.com/watch?v=--5dh3oS8bk
 DURATION:PT2H
 DTSTART:20210910T220000Z
@@ -109,10 +95,17 @@ SUMMARY:IRyS: 【Bus Simulator】Next Stop is...Hope
 UID:wpBhGC0aNt8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【It Takes Two】 Hope 3.33 【#3】\nhttps://www.youtube.com/watch?v=fxixCZU5aoY
+DESCRIPTION:【SPORE】 The Not Pickle Strikes Back #holoCouncil\nhttps://www.youtube.com/watch?v=aWx7zLf6CSo
 DURATION:PT2H
-DTSTART:20210911T030000Z
-SUMMARY:Ina: 【It Takes Two】 Hope 3.33 【#3】
-UID:fxixCZU5aoY
+DTSTART:20210909T190000Z
+SUMMARY:Fauna: 【SPORE】 The Not Pickle Strikes Back #holoCouncil
+UID:aWx7zLf6CSo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【WATCHALONG】Sci-fi September~ Snowpiercer(2013)\nhttps://www.youtube.com/watch?v=SgQFnJFQmnw
+DURATION:PT2H
+DTSTART:20210911T030500Z
+SUMMARY:Amelia: 【WATCHALONG】Sci-fi September~ Snowpiercer(2013)
+UID:SgQFnJFQmnw
 END:VEVENT
 END:VCALENDAR
