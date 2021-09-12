@@ -4,11 +4,32 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【つぐのひ】霊刻の踏切 やる【奏手イヅル】\nhttps://www.youtube.com/watch?v=1dbTaBv5S90
+DESCRIPTION:【つぐのひ】霊刻の踏切 アイの亡き声 やる【奏手イヅル】\nhttps://www.youtube.com/watch?v=1dbTaBv5S90
 DURATION:PT2H
 DTSTART:20210912T053000Z
-SUMMARY:🎸奏手イヅル: 【つぐのひ】霊刻の踏切 やる【奏手イヅル】
+SUMMARY:🎸奏手イヅル: 【つぐのひ】霊刻の踏切 アイの亡き声 やる【奏手イヅル】
 UID:1dbTaBv5S90
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】リスナー参加企画！第３回 #アランの姫プハードコアエンドラ討伐 【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=IqVDASK9KRI
+DURATION:PT2H
+DTSTART:20210911T134500Z
+SUMMARY:🍕アルランディス: 【Minecraft】リスナー参加企画！第３回 #アランの姫プハードコアエンドラ討伐 【アルランディス/ホロスターズ】
+UID:IqVDASK9KRI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【弾き語り枠】フォニイアップしたし歌う！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=eGUX6B1ImtE
+DURATION:PT2H
+DTSTART:20210912T083000Z
+SUMMARY:⚙律可: 【弾き語り枠】フォニイアップしたし歌う！【律可/ホロスターズ】#りつすた
+UID:eGUX6B1ImtE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】レンガが足りない！！掘らなきゃ！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=0AxD_Mar2GE
+DURATION:PT2H
+DTSTART:20210911T063500Z
+SUMMARY:🦔💨岸堂天真: 【MINECRAFT】レンガが足りない！！掘らなきゃ！！【岸堂天真/ホロスターズ】
+UID:0AxD_Mar2GE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:スーパーバニーマン！【荒咬オウガ　Airani Iofifteen】\nhttps://www.youtube.com/watch?v=9I_nj0voDYY
@@ -25,13 +46,6 @@ SUMMARY:⚙律可: 【歌ってみた】フォニイ / ツミキ『covered by �
 UID:fOhjEjn-hY8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】リスナー参加企画！第３回 #アランの姫プハードコアエンドラ討伐 【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=IqVDASK9KRI
-DURATION:PT2H
-DTSTART:20210911T134500Z
-SUMMARY:🍕アルランディス: 【Minecraft】リスナー参加企画！第３回 #アランの姫プハードコアエンドラ討伐 【アルランディス/ホロスターズ】
-UID:IqVDASK9KRI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【おすそわけるメイドインワリオ】おれも本当はおすそわけたい【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=E1mGMA-IXeM
 DURATION:PT2H
 DTSTART:20210911T080000Z
@@ -39,17 +53,10 @@ SUMMARY:⚙律可: 【おすそわけるメイドインワリオ】おれも本�
 UID:E1mGMA-IXeM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【弾き語り枠】フォニイアップしたし歌う！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=eGUX6B1ImtE
+DESCRIPTION:【歌枠】日曜午後なのでまったり静か系歌枠【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=XZOjhaqNjkk
 DURATION:PT2H
-DTSTART:20210912T083000Z
-SUMMARY:⚙律可: 【弾き語り枠】フォニイアップしたし歌う！【律可/ホロスターズ】#りつすた
-UID:eGUX6B1ImtE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】レンガが足りない！！掘らなきゃ！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=0AxD_Mar2GE
-DURATION:PT2H
-DTSTART:20210911T063500Z
-SUMMARY:🦔💨岸堂天真: 【MINECRAFT】レンガが足りない！！掘らなきゃ！！【岸堂天真/ホロスターズ】
-UID:0AxD_Mar2GE
+DTSTART:20210912T070000Z
+SUMMARY:🦔💨岸堂天真: 【歌枠】日曜午後なのでまったり静か系歌枠【岸堂天真/ホロスターズ】
+UID:XZOjhaqNjkk
 END:VEVENT
 END:VCALENDAR
