@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【歌ってみた】MONSTER DANCE / アステル 奏手イヅル 律可 影山シエン\nhttps://www.youtube.com/watch?v=FKDjjVwb1dU
+DURATION:PT2H
+DTSTART:20210914T110000Z
+SUMMARY:🎭アステル・レダ: 【歌ってみた】MONSTER DANCE / アステル 奏手イヅル 律可 影山シエン
+UID:FKDjjVwb1dU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【つぐのひ】霊刻の踏切 アイの亡き声 やる【奏手イヅル】\nhttps://www.youtube.com/watch?v=1dbTaBv5S90
 DURATION:PT2H
 DTSTART:20210912T053000Z
@@ -25,18 +32,18 @@ SUMMARY:🍕アルランディス: 【Minecraft】影MOD導入！天真村はど
 UID:bKNaISGAdZU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】日曜午後なのでまったり静か系歌枠【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=XZOjhaqNjkk
-DURATION:PT2H
-DTSTART:20210912T070000Z
-SUMMARY:🦔💨岸堂天真: 【歌枠】日曜午後なのでまったり静か系歌枠【岸堂天真/ホロスターズ】
-UID:XZOjhaqNjkk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【弾き語り枠】フォニイアップしたし歌う！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=eGUX6B1ImtE
 DURATION:PT2H
 DTSTART:20210912T083000Z
 SUMMARY:⚙律可: 【弾き語り枠】フォニイアップしたし歌う！【律可/ホロスターズ】#りつすた
 UID:eGUX6B1ImtE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】日曜午後なのでまったり静か系歌枠【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=XZOjhaqNjkk
+DURATION:PT2H
+DTSTART:20210912T070000Z
+SUMMARY:🦔💨岸堂天真: 【歌枠】日曜午後なのでまったり静か系歌枠【岸堂天真/ホロスターズ】
+UID:XZOjhaqNjkk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－そしてまた月曜日を迎える俺－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=IwYsP6qWSH8
