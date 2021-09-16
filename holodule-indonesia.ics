@@ -4,6 +4,34 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【hololiveID】WARNING : THIS STREAM CONTAINS A DANGEROUS LEVEL OF HALU【Ayunda Risu】\nhttps://www.youtube.com/watch?v=C5Ai6oz7iiU
+DURATION:PT2H
+DTSTART:20210916T120000Z
+SUMMARY:🐿Risu: 【hololiveID】WARNING : THIS STREAM CONTAINS A DANGEROUS LEVEL OF HALU【Ayunda Risu】
+UID:C5Ai6oz7iiU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#3【It Takes Two】#PAVOLLIE REANIMATED Can We Get a Happy End?【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=fHBlizh9r4g
+DURATION:PT2H
+DTSTART:20210916T120000Z
+SUMMARY:Reine: #3【It Takes Two】#PAVOLLIE REANIMATED Can We Get a Happy End?【Pavolia Reine/hololiveID 2nd gen】
+UID:fHBlizh9r4g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Twelve Minutes】And so we loop our fate again【hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=UTF0Qe3oQVM
+DURATION:PT2H
+DTSTART:20210915T140000Z
+SUMMARY:Anya: 【Twelve Minutes】And so we loop our fate again【hololive ID 2nd Generation】
+UID:UTF0Qe3oQVM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Area 15】WHAT IF...WE HAVE A HAIR LIKE THIS!?【hololiveID】\nhttps://www.youtube.com/watch?v=QldvV4G_YFo
+DURATION:PT2H
+DTSTART:20210915T140000Z
+SUMMARY:🔮Moona: 【Area 15】WHAT IF...WE HAVE A HAIR LIKE THIS!?【hololiveID】
+UID:QldvV4G_YFo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#MoonUtau】Let's sing a JP song!!!【ARCHIVE JP ONLY】\nhttps://www.youtube.com/watch?v=Tw1p-UUugpA
 DURATION:PT2H
 DTSTART:20210916T130000Z
@@ -30,26 +58,5 @@ DURATION:PT2H
 DTSTART:20210915T120000Z
 SUMMARY:🔮Moona: 【Tales of Arise】WHAT IS THIS NEW GAME!?【#TalesofArise】
 UID:18LqatvkcfM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#3【It Takes Two】#PAVOLLIE REANIMATED Can We Get a Happy End?【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=fHBlizh9r4g
-DURATION:PT2H
-DTSTART:20210916T120000Z
-SUMMARY:Reine: #3【It Takes Two】#PAVOLLIE REANIMATED Can We Get a Happy End?【Pavolia Reine/hololiveID 2nd gen】
-UID:fHBlizh9r4g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Twelve Minutes】And so we loop our fate again【hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=UTF0Qe3oQVM
-DURATION:PT2H
-DTSTART:20210915T140000Z
-SUMMARY:Anya: 【Twelve Minutes】And so we loop our fate again【hololive ID 2nd Generation】
-UID:UTF0Qe3oQVM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Area 15】WHAT IF...WE HAVE A HAIR LIKE THIS!?【hololiveID】\nhttps://www.youtube.com/watch?v=QldvV4G_YFo
-DURATION:PT2H
-DTSTART:20210915T140000Z
-SUMMARY:🔮Moona: 【Area 15】WHAT IF...WE HAVE A HAIR LIKE THIS!?【hololiveID】
-UID:QldvV4G_YFo
 END:VEVENT
 END:VCALENDAR
