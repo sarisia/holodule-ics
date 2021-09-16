@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Phasmophobia】ソロでも無敵説でてきてます！レベ上げ【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=HH1LDj4e1Hg
-DURATION:PT2H
-DTSTART:20210914T160000Z
-SUMMARY:🏮夏色まつり: 【Phasmophobia】ソロでも無敵説でてきてます！レベ上げ【ホロライブ/夏色まつり】
-UID:HH1LDj4e1Hg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【アソビ大全】ガチンコ対決！はあ虐？それともすい虐？【ホロライブ/#赤星】\nhttps://www.youtube.com/watch?v=uB7MzL1HtXs
 DURATION:PT2H
 DTSTART:20210915T130000Z
@@ -18,11 +11,25 @@ SUMMARY:❤赤井はあと: 【アソビ大全】ガチンコ対決！はあ虐�
 UID:uB7MzL1HtXs
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Phasmophobia】ソロでも無敵説でてきてます！レベ上げ【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=HH1LDj4e1Hg
+DURATION:PT2H
+DTSTART:20210914T160000Z
+SUMMARY:🏮夏色まつり: 【Phasmophobia】ソロでも無敵説でてきてます！レベ上げ【ホロライブ/夏色まつり】
+UID:HH1LDj4e1Hg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マンガ】生きろ！【#UMISEA 02】\nhttps://www.youtube.com/watch?v=ja05GiJ6UW8
 DURATION:PT2H
 DTSTART:20210916T100031Z
 SUMMARY:ホロライブ: 【マンガ】生きろ！【#UMISEA 02】
 UID:ja05GiJ6UW8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【おすそわけるメイドインワリオ】俺様のゲームが完成したらしい【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=xvuUayC7fbM
+DURATION:PT2H
+DTSTART:20210916T120000Z
+SUMMARY:☄星街すいせい: 【おすそわけるメイドインワリオ】俺様のゲームが完成したらしい【ホロライブ / 星街すいせい】
+UID:xvuUayC7fbM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】どんな夜をおすごしですか？【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=XFZ0qKdWxuA
@@ -60,18 +67,18 @@ SUMMARY:🌲大神ミオ: 視聴者参加型！マリカ訓練所、こちらで
 UID:eV7LzCsg6Ro
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ENDER LILIES】絶望の世界で呪いの運命にあらがってみせるぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=um8nfH6_aRY
-DURATION:PT2H
-DTSTART:20210915T120000Z
-SUMMARY:👯兎田ぺこら: 【ENDER LILIES】絶望の世界で呪いの運命にあらがってみせるぺこ！【ホロライブ/兎田ぺこら】
-UID:um8nfH6_aRY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【FF9】#8 ピナックルロックスから！ラムウとラムって似てるね！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=tP9H0wDzytc
 DURATION:PT2H
 DTSTART:20210915T134000Z
 SUMMARY:🐏角巻わため: 【FF9】#8 ピナックルロックスから！ラムウとラムって似てるね！【角巻わため/ホロライブ４期生】
 UID:tP9H0wDzytc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ENDER LILIES】絶望の世界で呪いの運命にあらがってみせるぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=um8nfH6_aRY
+DURATION:PT2H
+DTSTART:20210915T120000Z
+SUMMARY:👯兎田ぺこら: 【ENDER LILIES】絶望の世界で呪いの運命にあらがってみせるぺこ！【ホロライブ/兎田ぺこら】
+UID:um8nfH6_aRY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:シンデレラ / 湊あくあ(cover)\nhttps://www.youtube.com/watch?v=uBS7xpLWSNM
@@ -114,6 +121,13 @@ DURATION:PT2H
 DTSTART:20210915T000000Z
 SUMMARY:雪花ラミィ: 【Undertale】めちゃヤバぉ！手ﾐｰｱｰﾏｰでﾗｸｼｮｰPルート！？【雪花ラミィ/ホロライブ】
 UID:86VFJhEJjR8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【つぐのひ】ホラー苦手だけど、つづきが気になって・・\nhttps://www.youtube.com/watch?v=ATjCNg3CZDE
+DURATION:PT2H
+DTSTART:20210916T103000Z
+SUMMARY:🌲大神ミオ: 【つぐのひ】ホラー苦手だけど、つづきが気になって・・
+UID:ATjCNg3CZDE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PagiMoona!】Asa with moona! Let's talk with me!【Freetalk】\nhttps://www.youtube.com/watch?v=v7-k3coeOC8
@@ -291,18 +305,18 @@ SUMMARY:🦋潤羽るしあ: ・・・・！///
 UID:f22brQeJfoM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:グッバイ宣言／不知火フレア(Cover)［ #shorts ］\nhttps://www.youtube.com/watch?v=BBkJnXwJ3Ig
-DURATION:PT2H
-DTSTART:20210915T181829Z
-SUMMARY:🔥不知火フレア: グッバイ宣言／不知火フレア(Cover)［ #shorts ］
-UID:BBkJnXwJ3Ig
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】 INA INA INAA\nhttps://www.youtube.com/watch?v=TuCC873jdcg
 DURATION:PT2H
 DTSTART:20210915T200000Z
 SUMMARY:Ina: 【Minecraft】 INA INA INAA
 UID:TuCC873jdcg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:グッバイ宣言／不知火フレア(Cover)［ #shorts ］\nhttps://www.youtube.com/watch?v=BBkJnXwJ3Ig
+DURATION:PT2H
+DTSTART:20210915T181829Z
+SUMMARY:🔥不知火フレア: グッバイ宣言／不知火フレア(Cover)［ #shorts ］
+UID:BBkJnXwJ3Ig
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪GUERILLA≫ hi\nhttps://www.youtube.com/watch?v=JgHoCs5nU3c
@@ -340,6 +354,13 @@ SUMMARY:🚑大空スバル: 【#生スバル】スバルの素！1時間ノー�
 UID:bWXmTyubBeE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【大魔界村】まじで3時間でクリアします！！（したい）ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=6Yju5v4-aZc
+DURATION:PT2H
+DTSTART:20210916T120000Z
+SUMMARY:👯兎田ぺこら: 【大魔界村】まじで3時間でクリアします！！（したい）ぺこ！【ホロライブ/兎田ぺこら】
+UID:6Yju5v4-aZc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Tales of Arise】Rinwell Has Joined The Team! Part 3  (SPOILER ALERT) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=HCTcA5SbF-c
 DURATION:PT2H
 DTSTART:20210916T140000Z
@@ -375,18 +396,18 @@ SUMMARY:🏴☠宝鐘マリン: 【Minecraft】ときどき喋るあくあと何
 UID:gp9Q9j8fRr0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】🍑MESAROAD本日、完成🍑 【ホロライブ/桃鈴ねね/ #ねねいろらいぶ 】\nhttps://www.youtube.com/watch?v=8ATVVAa2Dp8
-DURATION:PT2H
-DTSTART:20210915T100000Z
-SUMMARY:桃鈴ねね: 【Minecraft】🍑MESAROAD本日、完成🍑 【ホロライブ/桃鈴ねね/ #ねねいろらいぶ 】
-UID:8ATVVAa2Dp8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#MoonUtau】Let's sing a JP song!!!【ARCHIVE JP ONLY】\nhttps://www.youtube.com/watch?v=Tw1p-UUugpA
 DURATION:PT2H
 DTSTART:20210916T130000Z
 SUMMARY:🔮Moona: 【#MoonUtau】Let's sing a JP song!!!【ARCHIVE JP ONLY】
 UID:Tw1p-UUugpA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】🍑MESAROAD本日、完成🍑 【ホロライブ/桃鈴ねね/ #ねねいろらいぶ 】\nhttps://www.youtube.com/watch?v=8ATVVAa2Dp8
+DURATION:PT2H
+DTSTART:20210915T100000Z
+SUMMARY:桃鈴ねね: 【Minecraft】🍑MESAROAD本日、完成🍑 【ホロライブ/桃鈴ねね/ #ねねいろらいぶ 】
+UID:8ATVVAa2Dp8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【食レポ】ケンタッキーの月見サンド初見！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=5WKdikdf6c4
@@ -424,6 +445,13 @@ SUMMARY:荒咬オウガ: 【グランブルーファンタジー】リッチの�
 UID:cyk2Lwq3Xvc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:#3【It Takes Two】#PAVOLLIE REANIMATED Can We Get a Happy End?【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=fHBlizh9r4g
+DURATION:PT2H
+DTSTART:20210916T120000Z
+SUMMARY:Reine: #3【It Takes Two】#PAVOLLIE REANIMATED Can We Get a Happy End?【Pavolia Reine/hololiveID 2nd gen】
+UID:fHBlizh9r4g
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【SPORE】 Scilicet\, Civilization was formed (and corrupted by nature) #holoCouncil\nhttps://www.youtube.com/watch?v=au52DD_SaWg
 DURATION:PT2H
 DTSTART:20210914T210000Z
@@ -436,13 +464,6 @@ DURATION:PT2H
 DTSTART:20210916T100000Z
 SUMMARY:ホロスターズ: 【わちゃスタ#15】運営から急遽用意されたきわど過ぎるトークテーマ企画！NG質問炸裂！
 UID:9KJ9PiqzWKo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#3【It Takes Two】#PAVOLLIE REANIMATED Can We Get a Happy End?【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=fHBlizh9r4g
-DURATION:PT2H
-DTSTART:20210916T120000Z
-SUMMARY:Reine: #3【It Takes Two】#PAVOLLIE REANIMATED Can We Get a Happy End?【Pavolia Reine/hololiveID 2nd gen】
-UID:fHBlizh9r4g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SUPER MARIO PARTY】OCEAN PARTY! パーティータイム ! 🌊 #UMISEA\nhttps://www.youtube.com/watch?v=UKKpA1vQlqM
