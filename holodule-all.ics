@@ -60,6 +60,13 @@ SUMMARY:⚓湊あくあ: シンデレラ / 湊あくあ(cover)
 UID:uBS7xpLWSNM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【雑談枠】わたしのお話聞いて？【＃ときのそら生放送】\nhttps://www.youtube.com/watch?v=wIHMmSnD9p0
+DURATION:PT2H
+DTSTART:20210917T120000Z
+SUMMARY:🐻ときのそら: 【雑談枠】わたしのお話聞いて？【＃ときのそら生放送】
+UID:wIHMmSnD9p0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マリオカート】30回3位以内に入るまで終われません修行マリカ！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=oDPaG-zgUdA
 DURATION:PT2H
 DTSTART:20210917T120000Z
@@ -158,25 +165,11 @@ SUMMARY:🔥不知火フレア: グッバイ宣言／不知火フレア(Cover)
 UID:Tm28179erkY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロ地球防衛隊 】EDF！EDF！うおおおおおおおおおおお！【獅白ぼたん視点/ホロライブ】\nhttps://www.youtube.com/watch?v=24NR0pfgRp4
-DURATION:PT2H
-DTSTART:20210917T100000Z
-SUMMARY:獅白ぼたん: 【#ホロ地球防衛隊 】EDF！EDF！うおおおおおおおおおおお！【獅白ぼたん視点/ホロライブ】
-UID:24NR0pfgRp4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【SUPERCHATS】1 Year Anniversary Supers and More! With a Tiny Twist... #HololiveEnglish #holomyth\nhttps://www.youtube.com/watch?v=Q6dOqX8Dfsw
 DURATION:PT2H
 DTSTART:20210917T030948Z
 SUMMARY:Calli: 【SUPERCHATS】1 Year Anniversary Supers and More! With a Tiny Twist... #HololiveEnglish #holomyth
 UID:Q6dOqX8Dfsw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #ホロ地球防衛隊】地球防衛軍5みんなでするしゅばあああああああ！！！！！：Earth Defense Force 5【大空スバル視点】\nhttps://www.youtube.com/watch?v=iQYCu_a6eSo
-DURATION:PT2H
-DTSTART:20210917T100000Z
-SUMMARY:🚑大空スバル: 【 #ホロ地球防衛隊】地球防衛軍5みんなでするしゅばあああああああ！！！！！：Earth Defense Force 5【大空スバル視点】
-UID:iQYCu_a6eSo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 クリア＊ドンキーコング２】ラスボスまで行くのらああ！🍌【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=MMipZCZXbZo
@@ -242,11 +235,11 @@ SUMMARY:🎸奏手イヅル: 5億年ぶりのピアノ弾き語り【奏手イ�
 UID:_FV4yQK9Se8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マリカ8DX】深夜ドライブ！ゆるホロ大会まで時間がない！団員さんと練習だーッ！！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=a-874n8y-gE
+DESCRIPTION:【Minecraft】ホロ鯖を映えスポットにするぞ～～～【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=CX3rwydoGaE
 DURATION:PT2H
-DTSTART:20210916T140000Z
-SUMMARY:⚔白銀ノエル: 【マリカ8DX】深夜ドライブ！ゆるホロ大会まで時間がない！団員さんと練習だーッ！！【白銀ノエル/ホロライブ】
-UID:a-874n8y-gE
+DTSTART:20210917T090000Z
+SUMMARY:👾常闇トワ: 【Minecraft】ホロ鯖を映えスポットにするぞ～～～【常闇トワ/ホロライブ】
+UID:CX3rwydoGaE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 メン限＊晩酌 】作ったお料理をつまみながら晩酌なのらよっ！🥃✨【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=2HJHWtV5Vl4
@@ -254,6 +247,13 @@ DURATION:PT2H
 DTSTART:20210918T140000Z
 SUMMARY:🍬姫森ルーナ: 【 メン限＊晩酌 】作ったお料理をつまみながら晩酌なのらよっ！🥃✨【#姫森ルーナ/ホロライブ】
 UID:2HJHWtV5Vl4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マリカ8DX】深夜ドライブ！ゆるホロ大会まで時間がない！団員さんと練習だーッ！！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=a-874n8y-gE
+DURATION:PT2H
+DTSTART:20210916T140000Z
+SUMMARY:⚔白銀ノエル: 【マリカ8DX】深夜ドライブ！ゆるホロ大会まで時間がない！団員さんと練習だーッ！！【白銀ノエル/ホロライブ】
+UID:a-874n8y-gE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#MoonUtau】Let's sing a JP song!!!【ARCHIVE JP ONLY】\nhttps://www.youtube.com/watch?v=pYMZQ7bgb3s
@@ -443,13 +443,6 @@ DURATION:PT2H
 DTSTART:20210916T230000Z
 SUMMARY:Kronii: 【We Were Here Together】Trying To Survive With @Nanashi Mumei Ch. hololive-EN
 UID:IlLbvqyH_Zk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #ホロ地球防衛隊 】新人３人とともに、地球を守る！！！【大神ミオ視点】\nhttps://www.youtube.com/watch?v=g5PobJdAO1E
-DURATION:PT2H
-DTSTART:20210917T100000Z
-SUMMARY:🌲大神ミオ: 【 #ホロ地球防衛隊 】新人３人とともに、地球を守る！！！【大神ミオ視点】
-UID:g5PobJdAO1E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【星のカービィSDX】100%目指したい配信\nhttps://www.youtube.com/watch?v=1Un9ZtxsqTk
