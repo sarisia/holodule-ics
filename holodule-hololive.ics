@@ -67,18 +67,18 @@ SUMMARY:ホロライブ: 私だけ？価値観ズレチェック！
 UID:iN65pq8GIYo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #ゆるホロチームカート 】んなっ！ゆるっと勝利しちゃうのらぞ～！🚙 マリオカート8DX【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=6rktX8LwBpg
-DURATION:PT2H
-DTSTART:20210919T110000Z
-SUMMARY:🍬姫森ルーナ: 【 #ゆるホロチームカート 】んなっ！ゆるっと勝利しちゃうのらぞ～！🚙 マリオカート8DX【#姫森ルーナ/ホロライブ】
-UID:6rktX8LwBpg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ゆるホロチームカート】今日はどんなメンバーになるのでしょうか！✨【常闇トワ視点】\nhttps://www.youtube.com/watch?v=M6oJXUQl01Y
 DURATION:PT2H
 DTSTART:20210919T110000Z
 SUMMARY:👾常闇トワ: 【#ゆるホロチームカート】今日はどんなメンバーになるのでしょうか！✨【常闇トワ視点】
 UID:M6oJXUQl01Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #ゆるホロチームカート 】んなっ！ゆるっと勝利しちゃうのらぞ～！🚙 マリオカート8DX【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=6rktX8LwBpg
+DURATION:PT2H
+DTSTART:20210919T110000Z
+SUMMARY:🍬姫森ルーナ: 【 #ゆるホロチームカート 】んなっ！ゆるっと勝利しちゃうのらぞ～！🚙 マリオカート8DX【#姫森ルーナ/ホロライブ】
+UID:6rktX8LwBpg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【drawing】おえかき！！水着のIna’nis描きます【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=69rsLr7KoYE
@@ -88,13 +88,6 @@ SUMMARY:🏴☠宝鐘マリン: 【drawing】おえかき！！水着のIna’ni
 UID:69rsLr7KoYE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ゆるホロチームカート】【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=FiHN9tLEZbE
-DURATION:PT2H
-DTSTART:20210919T110000Z
-SUMMARY:☄星街すいせい: 【#ゆるホロチームカート】【ホロライブ / 星街すいせい】
-UID:FiHN9tLEZbE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ゆるホロチームカート】チームで勝利を掴むのだ！【マリカ8DX／雪花ラミィ】\nhttps://www.youtube.com/watch?v=RhSFogTuj14
 DURATION:PT2H
 DTSTART:20210919T110000Z
@@ -102,11 +95,25 @@ SUMMARY:雪花ラミィ: 【#ゆるホロチームカート】チームで勝利
 UID:RhSFogTuj14
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#ゆるホロチームカート】【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=FiHN9tLEZbE
+DURATION:PT2H
+DTSTART:20210919T110000Z
+SUMMARY:☄星街すいせい: 【#ゆるホロチームカート】【ホロライブ / 星街すいせい】
+UID:FiHN9tLEZbE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Phasmophobia】キャリーします✌【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=jnEfOYS9aDo
 DURATION:PT2H
 DTSTART:20210919T140000Z
 SUMMARY:🏮夏色まつり: 【Phasmophobia】キャリーします✌【ホロライブ/夏色まつり】
 UID:jnEfOYS9aDo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Slither.io】はじめての！Slither.io！にょろ～～【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=cYoveDQMRFQ
+DURATION:PT2H
+DTSTART:20210919T130000Z
+SUMMARY:🍙猫又おかゆ: 【Slither.io】はじめての！Slither.io！にょろ～～【猫又おかゆ/ホロライブ】
+UID:cYoveDQMRFQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Minecraft 】LET'S！ホロ鯖であそぼ～～～♪【ホロライブ/はあちゃま】\nhttps://www.youtube.com/watch?v=a1T7W71N4gA
@@ -293,7 +300,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GTAV】Let's go GTA!! 今日も大暴れロスサントス生活！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=aM5OAspQCjs
 DURATION:PT2H
-DTSTART:20210919T050000Z
+DTSTART:20210919T053000Z
 SUMMARY:👯兎田ぺこら: 【GTAV】Let's go GTA!! 今日も大暴れロスサントス生活！！！！！ぺこ！【ホロライブ/兎田ぺこら】
 UID:aM5OAspQCjs
 END:VEVENT
