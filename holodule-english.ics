@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【There is No Game: Wrong Dimension】There is No Stream\, I Swear\nhttps://www.youtube.com/watch?v=vByE_RTHxGg
-DURATION:PT2H
-DTSTART:20210921T030000Z
-SUMMARY:IRyS: 【There is No Game: Wrong Dimension】There is No Stream\, I Swear
-UID:vByE_RTHxGg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】 Speedrun Practice!!! #holoCouncil\nhttps://www.youtube.com/watch?v=5BKM6UwOguU
-DURATION:PT2H
-DTSTART:20210920T190000Z
-SUMMARY:Fauna: 【MINECRAFT】 Speedrun Practice!!! #holoCouncil
-UID:5BKM6UwOguU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Supa Sunday】Catchin' up on Anniversary Superchats~\nhttps://www.youtube.com/watch?v=QdvztyoHTBk
 DURATION:PT2H
 DTSTART:20210919T190500Z
@@ -32,13 +18,6 @@ SUMMARY:Ina: 【Minecraft】 What Happens when Takotime Ends?
 UID:0tVhT-m6Eq4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【PASSPARTOUT】 Hungry Hungry Owl #holoCouncil\nhttps://www.youtube.com/watch?v=m42h-F5zhng
-DURATION:PT2H
-DTSTART:20210920T210000Z
-SUMMARY:Mumei: 【PASSPARTOUT】 Hungry Hungry Owl #holoCouncil
-UID:m42h-F5zhng
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【TITANFALL 2】Who knew the inside of a robot was so comfy and maybe some apex\nhttps://www.youtube.com/watch?v=bTkAGPunipg
 DURATION:PT2H
 DTSTART:20210920T030000Z
@@ -46,10 +25,38 @@ SUMMARY:IRyS: 【TITANFALL 2】Who knew the inside of a robot was so comfy and m
 UID:bTkAGPunipg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【There is No Game: Wrong Dimension】There is No Stream\, I Swear\nhttps://www.youtube.com/watch?v=vByE_RTHxGg
+DURATION:PT2H
+DTSTART:20210921T030000Z
+SUMMARY:IRyS: 【There is No Game: Wrong Dimension】There is No Stream\, I Swear
+UID:vByE_RTHxGg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】 Speedrun Practice!!! #holoCouncil\nhttps://www.youtube.com/watch?v=5BKM6UwOguU
+DURATION:PT2H
+DTSTART:20210920T190000Z
+SUMMARY:Fauna: 【MINECRAFT】 Speedrun Practice!!! #holoCouncil
+UID:5BKM6UwOguU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PASSPARTOUT】 Hungry Hungry Owl #holoCouncil\nhttps://www.youtube.com/watch?v=m42h-F5zhng
+DURATION:PT2H
+DTSTART:20210920T210000Z
+SUMMARY:Mumei: 【PASSPARTOUT】 Hungry Hungry Owl #holoCouncil
+UID:m42h-F5zhng
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Celebration Stream】Membership Unlocked! 🎊\nhttps://www.youtube.com/watch?v=yZNNkrJ6F6g
 DURATION:PT2H
 DTSTART:20210921T010000Z
 SUMMARY:Kronii: 【Celebration Stream】Membership Unlocked! 🎊
 UID:yZNNkrJ6F6g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Tales of Arise】Something smells fishy... Part 4  (SPOILER ALERT) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=MUj7S42UpM8
+DURATION:PT2H
+DTSTART:20210921T130000Z
+SUMMARY:Kiara: 【Tales of Arise】Something smells fishy... Part 4  (SPOILER ALERT) #kfp #キアライブ
+UID:MUj7S42UpM8
 END:VEVENT
 END:VCALENDAR
