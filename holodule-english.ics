@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:≪SUPERCHAT READING≫ THANK YOU BRATS!!!\nhttps://www.youtube.com/watch?v=g5X2j8m4dPY
-DURATION:PT2H
-DTSTART:20210919T070000Z
-SUMMARY:Baelz: ≪SUPERCHAT READING≫ THANK YOU BRATS!!!
-UID:g5X2j8m4dPY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【COUNCIL MEETING】Our bonds will pull us through! #holocouncil\nhttps://www.youtube.com/watch?v=vkiJQXIDFew
 DURATION:PT2H
 DTSTART:20210919T020000Z
@@ -44,5 +37,26 @@ DURATION:PT2H
 DTSTART:20210918T190000Z
 SUMMARY:Sana: 【Drawing】Universe Creation! #holocouncil
 UID:lP9YU3PDe8c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪SUPERCHAT READING≫ THANK YOU BRATS!!!\nhttps://www.youtube.com/watch?v=g5X2j8m4dPY
+DURATION:PT2H
+DTSTART:20210919T070000Z
+SUMMARY:Baelz: ≪SUPERCHAT READING≫ THANK YOU BRATS!!!
+UID:g5X2j8m4dPY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】 Speedrun Practice!!! #holoCouncil\nhttps://www.youtube.com/watch?v=5BKM6UwOguU
+DURATION:PT2H
+DTSTART:20210920T190000Z
+SUMMARY:Fauna: 【MINECRAFT】 Speedrun Practice!!! #holoCouncil
+UID:5BKM6UwOguU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Celebration Stream】Membership Unlocked! 🎊\nhttps://www.youtube.com/watch?v=yZNNkrJ6F6g
+DURATION:PT2H
+DTSTART:20210921T010000Z
+SUMMARY:Kronii: 【Celebration Stream】Membership Unlocked! 🎊
+UID:yZNNkrJ6F6g
 END:VEVENT
 END:VCALENDAR
