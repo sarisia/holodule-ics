@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:最終回(？)【ゼルダの伝説スカイウォードソードHD】ゼルダを永い眠りから覚まさせる！！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=o6aTA1KQL3E
+DURATION:PT2H
+DTSTART:20210923T020000Z
+SUMMARY:⚔白銀ノエル: 最終回(？)【ゼルダの伝説スカイウォードソードHD】ゼルダを永い眠りから覚まさせる！！【白銀ノエル/ホロライブ】
+UID:o6aTA1KQL3E
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【TTRPG】 HUNTERS PARTY HARD Pt.2\nhttps://www.youtube.com/watch?v=hPQGyyPQEHI
 DURATION:PT2H
 DTSTART:20210921T210000Z
@@ -58,13 +65,6 @@ DURATION:PT2H
 DTSTART:20210922T110000Z
 SUMMARY:🍬姫森ルーナ: 【 プリコネR 】クレジッタを無課金で迎える試練💎【#姫森ルーナ/ホロライブ】
 UID:bZGUUxMEkqU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ただいまあああああああああああああああああぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=PpXbfeWmpGw
-DURATION:PT2H
-DTSTART:20210922T123000Z
-SUMMARY:👯兎田ぺこら: 【Minecraft】ただいまあああああああああああああああああぺこ！【ホロライブ/兎田ぺこら】
-UID:PpXbfeWmpGw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Fauna's ASMR】 Cozy Autumn ASMR 🍂 Crinkley & Comfy #holoCouncil\nhttps://www.youtube.com/watch?v=2hgwPt5kmZc
@@ -317,5 +317,12 @@ DURATION:PT2H
 DTSTART:20210922T130000Z
 SUMMARY:🌸さくらみこ: 【  Undertale 】ついにアンダーテールGルートをやる、にぇ！【ホロライブ/さくらみこ】
 UID:n3R-zn0dj9g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】そろそろ湖完成させよう？【花咲みやび視点/ホロスターズ】\nhttps://www.youtube.com/watch?v=0J-jJHsNOx8
+DURATION:PT2H
+DTSTART:20210922T130000Z
+SUMMARY:🌺花咲みやび: 【Minecraft】そろそろ湖完成させよう？【花咲みやび視点/ホロスターズ】
+UID:0J-jJHsNOx8
 END:VEVENT
 END:VCALENDAR
