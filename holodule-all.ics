@@ -4,10 +4,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【DEAD SPACE】lets beat this!\nhttps://www.youtube.com/watch?v=Zx5b-_fmA8M
+DESCRIPTION:【DEAD SPACE】lets beat this!(pt. 1)\nhttps://www.youtube.com/watch?v=Zx5b-_fmA8M
 DURATION:PT2H
 DTSTART:20210922T223000Z
-SUMMARY:Amelia: 【DEAD SPACE】lets beat this!
+SUMMARY:Amelia: 【DEAD SPACE】lets beat this!(pt. 1)
 UID:Zx5b-_fmA8M
 END:VEVENT
 BEGIN:VEVENT
@@ -74,13 +74,6 @@ SUMMARY:Ina: 【Minecraft】 You Can't Spell Minecraft Without INA
 UID:e24Qsr3qLQA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Behind the Frame】Exploring A Dazzling World Filled With Mysteries & Puzzles【holoID 2nd Generation】\nhttps://www.youtube.com/watch?v=MfoRTacehFc
-DURATION:PT2H
-DTSTART:20210923T003000Z
-SUMMARY:Anya: 【Behind the Frame】Exploring A Dazzling World Filled With Mysteries & Puzzles【holoID 2nd Generation】
-UID:MfoRTacehFc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】I am the (sand) man!  #holoCouncil\nhttps://www.youtube.com/watch?v=gvEqnqflFHE
 DURATION:PT2H
 DTSTART:20210922T230500Z
@@ -93,6 +86,13 @@ DURATION:PT2H
 DTSTART:20210923T090000Z
 SUMMARY:🦋潤羽るしあ: 【カメラ枠】お料理作る！！cooking！！【潤羽るしあ/ホロライブ】
 UID:tNd716YqwZ4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポルカの伝説】YAGOO作！？このゲームやばすぎるｗｗｗ\nhttps://www.youtube.com/watch?v=v-ZVCNkgyoI
+DURATION:PT2H
+DTSTART:20210923T100000Z
+SUMMARY:尾丸ポルカ: 【ポルカの伝説】YAGOO作！？このゲームやばすぎるｗｗｗ
+UID:v-ZVCNkgyoI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪OVERCOOKED 2≫ i will try not burn anything ft. @Ceres Fauna Ch. hololive-EN\nhttps://www.youtube.com/watch?v=YwzyR5qYVGo
@@ -177,6 +177,13 @@ DURATION:PT2H
 DTSTART:20210922T121500Z
 SUMMARY:🌙紫咲シオン: ご報告【ホロライブ/紫咲シオン】
 UID:gOcGYd9pyX4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】1 Month Anniversary Announcements! A BIG TALK #holoCouncil\nhttps://www.youtube.com/watch?v=jG0GKIXFdHw
+DURATION:PT2H
+DTSTART:20210922T220000Z
+SUMMARY:Sana: 【Minecraft】1 Month Anniversary Announcements! A BIG TALK #holoCouncil
+UID:jG0GKIXFdHw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Bunkeronii Boogaloo\nhttps://www.youtube.com/watch?v=y5vFC3Q0XWs
