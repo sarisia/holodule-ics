@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【karaoke】ノクターナルソング【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=Gb4druGVfbY
-DURATION:PT2H
-DTSTART:20210923T181000Z
-SUMMARY:影山シエン: 【karaoke】ノクターナルソング【影山シエン/ホロスターズ】
-UID:Gb4druGVfbY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【UNDERTALE】不殺のPルート　#02【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=0Xf7KSQ_Gfg
-DURATION:PT2H
-DTSTART:20210923T130000Z
-SUMMARY:影山シエン: 【UNDERTALE】不殺のPルート　#02【影山シエン/ホロスターズ】
-UID:0Xf7KSQ_Gfg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】海底神殿更地化計画進行中【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=p1CcwaBYmhI
 DURATION:PT2H
 DTSTART:20210922T150000Z
@@ -32,13 +18,6 @@ SUMMARY:⚙律可: 【Apex Legends】スシマスカスタムに出させてい�
 UID:-BOfCaMY2_g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】たんじかん【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=T7-1mRLxCFU
-DURATION:PT2H
-DTSTART:20210923T120500Z
-SUMMARY:🍷夕刻ロベル: 【雑談】たんじかん【ホロスターズ/夕刻ロベル】
-UID:T7-1mRLxCFU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#岸堂天真3D】最強の騎士への大きな1歩を踏み出す日【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=_TahpWRbMDU
 DURATION:PT2H
 DTSTART:20210923T110000Z
@@ -46,10 +25,38 @@ SUMMARY:🦔💨岸堂天真: 【#岸堂天真3D】最強の騎士への大き�
 UID:_TahpWRbMDU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【UNDERTALE】不殺のPルート　#03【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=e8yYfWC41W4
+DURATION:PT2H
+DTSTART:20210924T090000Z
+SUMMARY:影山シエン: 【UNDERTALE】不殺のPルート　#03【影山シエン/ホロスターズ】
+UID:e8yYfWC41W4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【9/24】家３D【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=G0iEVjLTpyg
 DURATION:PT2H
 DTSTART:20210923T153000Z
 SUMMARY:荒咬オウガ: 【9/24】家３D【荒咬オウガ/ホロスターズ】
 UID:G0iEVjLTpyg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【karaoke】ノクターナルソング【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=Gb4druGVfbY
+DURATION:PT2H
+DTSTART:20210923T181000Z
+SUMMARY:影山シエン: 【karaoke】ノクターナルソング【影山シエン/ホロスターズ】
+UID:Gb4druGVfbY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】たんじかん【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=T7-1mRLxCFU
+DURATION:PT2H
+DTSTART:20210923T120500Z
+SUMMARY:🍷夕刻ロベル: 【雑談】たんじかん【ホロスターズ/夕刻ロベル】
+UID:T7-1mRLxCFU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【UNDERTALE】不殺のPルート　#02【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=0Xf7KSQ_Gfg
+DURATION:PT2H
+DTSTART:20210923T130000Z
+SUMMARY:影山シエン: 【UNDERTALE】不殺のPルート　#02【影山シエン/ホロスターズ】
+UID:0Xf7KSQ_Gfg
 END:VEVENT
 END:VCALENDAR
