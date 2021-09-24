@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:Risu Bukan Anak Meme!\nhttps://www.youtube.com/watch?v=JXOGQg7ksp0
-DURATION:PT2H
-DTSTART:20210924T073002Z
-SUMMARY:IDholo: Risu Bukan Anak Meme!
-UID:JXOGQg7ksp0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Uji Kerja Sama di PICO PARK! Sukses Atau Bencana?\nhttps://www.youtube.com/watch?v=d69UgYdFlqs
 DURATION:PT2H
 DTSTART:20210924T120000Z
@@ -32,10 +25,24 @@ SUMMARY:Ollie: 【Clubhouse Games: 51 Worldwide Classics】LEARNING SHOGI TOGETH
 UID:B8tDl8CU8Sc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Risu Bukan Anak Meme!\nhttps://www.youtube.com/watch?v=JXOGQg7ksp0
+DURATION:PT2H
+DTSTART:20210924T073002Z
+SUMMARY:IDholo: Risu Bukan Anak Meme!
+UID:JXOGQg7ksp0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Casual Drawing】Which hololive members am I drawing today...?【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=3nx6RwNWog8
 DURATION:PT2H
 DTSTART:20210924T050000Z
 SUMMARY:Reine: 【Casual Drawing】Which hololive members am I drawing today...?【Pavolia Reine/hololiveID 2nd gen】
 UID:3nx6RwNWog8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#17【YABE S2】GOING BACK TO HEALTHY EATING【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=sg9UAGUtvHQ
+DURATION:PT2H
+DTSTART:20210925T040000Z
+SUMMARY:Reine: #17【YABE S2】GOING BACK TO HEALTHY EATING【hololiveID 2nd gen】
+UID:sg9UAGUtvHQ
 END:VEVENT
 END:VCALENDAR
