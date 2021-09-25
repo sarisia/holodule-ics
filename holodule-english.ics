@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Ib】 Nostalgic RPGMaker Horror... I won't be scared!! #holoCouncil\nhttps://www.youtube.com/watch?v=C-8XCngUD5s
-DURATION:PT2H
-DTSTART:20210924T190000Z
-SUMMARY:Fauna: 【Ib】 Nostalgic RPGMaker Horror... I won't be scared!! #holoCouncil
-UID:C-8XCngUD5s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【WATCHALONG】Dredd(2012)\nhttps://www.youtube.com/watch?v=oNABZg2pOcQ
 DURATION:PT2H
 DTSTART:20210925T190500Z
@@ -18,18 +11,11 @@ SUMMARY:Amelia: 【WATCHALONG】Dredd(2012)
 UID:oNABZg2pOcQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RAP AFTER PARTY】Rap Karaoke Celebration! Was That Even Real... #Holomyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=Xzyjp26hS88
+DESCRIPTION:【MINECRAFT】LAST PHOENIXTON RENOVATION with MAMATORI! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=9nfZOVbtPD0
 DURATION:PT2H
-DTSTART:20210926T020000Z
-SUMMARY:Calli: 【RAP AFTER PARTY】Rap Karaoke Celebration! Was That Even Real... #Holomyth #HololiveEnglish
-UID:Xzyjp26hS88
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MEMBERSHIPS OPEN】A Little Announcement! #holoCouncil\nhttps://www.youtube.com/watch?v=KkCx6ZClADg
-DURATION:PT2H
-DTSTART:20210924T203500Z
-SUMMARY:Mumei: 【MEMBERSHIPS OPEN】A Little Announcement! #holoCouncil
-UID:KkCx6ZClADg
+DTSTART:20210925T153000Z
+SUMMARY:Kiara: 【MINECRAFT】LAST PHOENIXTON RENOVATION with MAMATORI! #kfp #キアライブ
+UID:9nfZOVbtPD0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Karaoke!!】It's my favorite time of the week!\nhttps://www.youtube.com/watch?v=2Y5uFZllX8o
@@ -39,17 +25,38 @@ SUMMARY:IRyS: 【Karaoke!!】It's my favorite time of the week!
 UID:2Y5uFZllX8o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪UNARCHIVED KARAOKE≫ singing stuff\nhttps://www.youtube.com/watch?v=Uy-WSkfZHoo
-DURATION:PT2H
-DTSTART:20210926T003000Z
-SUMMARY:Baelz: ≪UNARCHIVED KARAOKE≫ singing stuff
-UID:Uy-WSkfZHoo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Super Bunny Man】 OI OI OI\nhttps://www.youtube.com/watch?v=s4M7quMcnnI
 DURATION:PT2H
 DTSTART:20210925T220000Z
 SUMMARY:Ina: 【Super Bunny Man】 OI OI OI
 UID:s4M7quMcnnI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MEMBERSHIPS OPEN】A Little Announcement! #holoCouncil\nhttps://www.youtube.com/watch?v=KkCx6ZClADg
+DURATION:PT2H
+DTSTART:20210924T203500Z
+SUMMARY:Mumei: 【MEMBERSHIPS OPEN】A Little Announcement! #holoCouncil
+UID:KkCx6ZClADg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Ib】 Nostalgic RPGMaker Horror... I won't be scared!! #holoCouncil\nhttps://www.youtube.com/watch?v=C-8XCngUD5s
+DURATION:PT2H
+DTSTART:20210924T190000Z
+SUMMARY:Fauna: 【Ib】 Nostalgic RPGMaker Horror... I won't be scared!! #holoCouncil
+UID:C-8XCngUD5s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RAP AFTER PARTY】Rap Karaoke Celebration! Was That Even Real... #Holomyth #HololiveEnglish\nhttps://www.youtube.com/watch?v=Xzyjp26hS88
+DURATION:PT2H
+DTSTART:20210926T020000Z
+SUMMARY:Calli: 【RAP AFTER PARTY】Rap Karaoke Celebration! Was That Even Real... #Holomyth #HololiveEnglish
+UID:Xzyjp26hS88
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪UNARCHIVED KARAOKE≫ singing stuff\nhttps://www.youtube.com/watch?v=Uy-WSkfZHoo
+DURATION:PT2H
+DTSTART:20210926T003000Z
+SUMMARY:Baelz: ≪UNARCHIVED KARAOKE≫ singing stuff
+UID:Uy-WSkfZHoo
 END:VEVENT
 END:VCALENDAR
