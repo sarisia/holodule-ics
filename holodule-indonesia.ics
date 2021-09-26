@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Gnosia】The wheel of Fortune seems to be more wicked than usual today...【hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=ZA87MfuVD_o
-DURATION:PT2H
-DTSTART:20210925T140000Z
-SUMMARY:Anya: 【Gnosia】The wheel of Fortune seems to be more wicked than usual today...【hololive ID 2nd Generation】
-UID:ZA87MfuVD_o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Gate Open: START!】TL to EN: let's dissect the lyrics!【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=ZeyGhvLw2eo
 DURATION:PT2H
 DTSTART:20210926T050000Z
@@ -44,6 +37,20 @@ DURATION:PT2H
 DTSTART:20210925T040000Z
 SUMMARY:Reine: #17【YABE S2】GOING BACK TO HEALTHY EATING【hololiveID 2nd gen】
 UID:sg9UAGUtvHQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Gnosia】The wheel of Fortune seems to be more wicked than usual today...【hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=ZA87MfuVD_o
+DURATION:PT2H
+DTSTART:20210925T140000Z
+SUMMARY:Anya: 【Gnosia】The wheel of Fortune seems to be more wicked than usual today...【hololive ID 2nd Generation】
+UID:ZA87MfuVD_o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【OMORI】Part 5: BACK TO DREAM LAND!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=ty-uGcfTNA0
+DURATION:PT2H
+DTSTART:20210926T082902Z
+SUMMARY:Ollie: 【OMORI】Part 5: BACK TO DREAM LAND!!【Hololive Indonesia 2nd Gen】
+UID:ty-uGcfTNA0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#2【PORTAL 2】With IRyS! Will the brain cells descend?【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=Z4qdYj6_YaM
