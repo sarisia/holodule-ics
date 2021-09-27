@@ -4,69 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Splatoon2】いか【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=9tmE-TGtsQ4
-DURATION:PT2H
-DTSTART:20210927T080000Z
-SUMMARY:🍷夕刻ロベル: 【Splatoon2】いか【ホロスターズ/夕刻ロベル】
-UID:9tmE-TGtsQ4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ド深夜大工事-海底神殿露天掘り大作戦-【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=54jBlidvzio
-DURATION:PT2H
-DTSTART:20210925T171500Z
-SUMMARY:🍕アルランディス: 【Minecraft】ド深夜大工事-海底神殿露天掘り大作戦-【アルランディス/ホロスターズ】
-UID:54jBlidvzio
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ラジオ配信 】#アル律ごっこ  第5回9月は秋の魅力編 【律可/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=YiWW_sgydQk
-DURATION:PT2H
-DTSTART:20210927T130000Z
-SUMMARY:🍕アルランディス: 【 ラジオ配信 】#アル律ごっこ  第5回9月は秋の魅力編 【律可/アルランディス/ホロスターズ】
-UID:YiWW_sgydQk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:だんごむしごっこ Pill bug Game\nhttps://www.youtube.com/watch?v=lUIl-L_e8Og
-DURATION:PT2H
-DTSTART:20210926T140043Z
-SUMMARY:🦔💨岸堂天真: だんごむしごっこ Pill bug Game
-UID:lUIl-L_e8Og
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談枠】近況とかもろもろ！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=L6DwLtVYdJU
-DURATION:PT2H
-DTSTART:20210926T153000Z
-SUMMARY:⚙律可: 【雑談枠】近況とかもろもろ！【律可/ホロスターズ】#りつすた
-UID:L6DwLtVYdJU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】らしさ / Covered by 夕刻ロベル\nhttps://www.youtube.com/watch?v=B0-mDEzbzl4
-DURATION:PT2H
-DTSTART:20210926T140000Z
-SUMMARY:🍷夕刻ロベル: 【歌ってみた】らしさ / Covered by 夕刻ロベル
-UID:B0-mDEzbzl4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】海底神殿露天掘りしようとしたら海溝見つけた男【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=VsGyFcpvQAM
-DURATION:PT2H
-DTSTART:20210926T130000Z
-SUMMARY:🍕アルランディス: 【Minecraft】海底神殿露天掘りしようとしたら海溝見つけた男【アルランディス/ホロスターズ】
-UID:VsGyFcpvQAM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【記念枠】夕刻ロベルの誕生日（残り1時間）を全力で祝う枠【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=rNz4snBiPJ8
-DURATION:PT2H
-DTSTART:20210926T141000Z
-SUMMARY:🍷夕刻ロベル: 【記念枠】夕刻ロベルの誕生日（残り1時間）を全力で祝う枠【ホロスターズ/夕刻ロベル】
-UID:rNz4snBiPJ8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX Legends】何となくで始めたけど遊べるよね？【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=JpVJ7NW0SMc
-DURATION:PT2H
-DTSTART:20210927T100000Z
-SUMMARY:🍕アルランディス: 【APEX Legends】何となくで始めたけど遊べるよね？【アルランディス/ホロスターズ】
-UID:JpVJ7NW0SMc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【切り抜き】皆さん、コーヒーメーカーって知ってますか？『爆弾解体』\nhttps://www.youtube.com/watch?v=mvdv_JAr9AU
 DURATION:PT2H
 DTSTART:20210927T100020Z
@@ -74,11 +11,25 @@ SUMMARY:🎭アステル・レダ: 【切り抜き】皆さん、コーヒーメ
 UID:mvdv_JAr9AU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Splatoon2】いか【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=9tmE-TGtsQ4
+DURATION:PT2H
+DTSTART:20210927T080000Z
+SUMMARY:🍷夕刻ロベル: 【Splatoon2】いか【ホロスターズ/夕刻ロベル】
+UID:9tmE-TGtsQ4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マリオカート】７位以下即終了マリカで１時間を超えたい騎士【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=BiRyx1YldQk
 DURATION:PT2H
 DTSTART:20210927T060500Z
 SUMMARY:🦔💨岸堂天真: 【マリオカート】７位以下即終了マリカで１時間を超えたい騎士【岸堂天真/ホロスターズ】
 UID:BiRyx1YldQk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 ラジオ配信 】#アル律ごっこ  第5回9月は秋の魅力編 【律可/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=YiWW_sgydQk
+DURATION:PT2H
+DTSTART:20210927T130000Z
+SUMMARY:🍕アルランディス: 【 ラジオ配信 】#アル律ごっこ  第5回9月は秋の魅力編 【律可/アルランディス/ホロスターズ】
+UID:YiWW_sgydQk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スーパーマリオワールド】ヨースター島は俺の庭【荒咬オウガ　ホロスターズ】\nhttps://www.youtube.com/watch?v=M_wk-AOpDt8
@@ -95,6 +46,13 @@ SUMMARY:🍷夕刻ロベル: 【Slither.io】昼ザリオ【ホロスターズ/�
 UID:nTF25ELA_Sw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【雑談枠】近況とかもろもろ！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=L6DwLtVYdJU
+DURATION:PT2H
+DTSTART:20210926T153000Z
+SUMMARY:⚙律可: 【雑談枠】近況とかもろもろ！【律可/ホロスターズ】#りつすた
+UID:L6DwLtVYdJU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－29歳初めての朝活－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=XBqDYBV5cBI
 DURATION:PT2H
 DTSTART:20210927T010000Z
@@ -102,17 +60,10 @@ SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－29歳�
 UID:XBqDYBV5cBI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【切り抜き】花子さんとか正直もう終わった妖怪WWWWびびらんWWW『花子さん』\nhttps://www.youtube.com/watch?v=ROpnX4BZnZg
+DESCRIPTION:【APEX Legends】何となくで始めたけど遊べるよね？【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=JpVJ7NW0SMc
 DURATION:PT2H
-DTSTART:20210926T100009Z
-SUMMARY:🎭アステル・レダ: 【切り抜き】花子さんとか正直もう終わった妖怪WWWWびびらんWWW『花子さん』
-UID:ROpnX4BZnZg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DELTARUNE Chapter２】4年ぶりの新章初プレイ…後半戦【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=9bgmblgobFI
-DURATION:PT2H
-DTSTART:20210926T070000Z
-SUMMARY:🍕アルランディス: 【DELTARUNE Chapter２】4年ぶりの新章初プレイ…後半戦【アルランディス/ホロスターズ】
-UID:9bgmblgobFI
+DTSTART:20210927T100000Z
+SUMMARY:🍕アルランディス: 【APEX Legends】何となくで始めたけど遊べるよね？【アルランディス/ホロスターズ】
+UID:JpVJ7NW0SMc
 END:VEVENT
 END:VCALENDAR
