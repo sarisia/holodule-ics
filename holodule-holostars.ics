@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Splatoon2】いか【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=9tmE-TGtsQ4
-DURATION:PT2H
-DTSTART:20210927T080000Z
-SUMMARY:🍷夕刻ロベル: 【Splatoon2】いか【ホロスターズ/夕刻ロベル】
-UID:9tmE-TGtsQ4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【マリオカート】７位以下即終了マリカで１時間を超えたい騎士【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=BiRyx1YldQk
 DURATION:PT2H
 DTSTART:20210927T060500Z
@@ -93,5 +86,12 @@ DURATION:PT2H
 DTSTART:20210926T070000Z
 SUMMARY:🍕アルランディス: 【DELTARUNE Chapter２】4年ぶりの新章初プレイ…後半戦【アルランディス/ホロスターズ】
 UID:9bgmblgobFI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX Legends】何となくで始めたけど遊べるよね？【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=JpVJ7NW0SMc
+DURATION:PT2H
+DTSTART:20210927T100000Z
+SUMMARY:🍕アルランディス: 【APEX Legends】何となくで始めたけど遊べるよね？【アルランディス/ホロスターズ】
+UID:JpVJ7NW0SMc
 END:VEVENT
 END:VCALENDAR
