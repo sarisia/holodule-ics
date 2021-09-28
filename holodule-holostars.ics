@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【切り抜き】皆さん、コーヒーメーカーって知ってますか？『爆弾解体』\nhttps://www.youtube.com/watch?v=mvdv_JAr9AU
+DURATION:PT2H
+DTSTART:20210927T100020Z
+SUMMARY:🎭アステル・レダ: 【切り抜き】皆さん、コーヒーメーカーって知ってますか？『爆弾解体』
+UID:mvdv_JAr9AU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【切り抜き】人を信じる気持ちを失いました。『Paper\,Please』\nhttps://www.youtube.com/watch?v=s67FIwUkQbQ
 DURATION:PT2H
 DTSTART:20210928T100033Z
@@ -25,11 +32,11 @@ SUMMARY:🍷夕刻ロベル: 【Splatoon2】いか【ホロスターズ/夕刻�
 UID:9tmE-TGtsQ4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:歌！ギター！弾き語り！【奏手イヅル】\nhttps://www.youtube.com/watch?v=j3zBr9SpiRc
+DESCRIPTION:【マリオカート】７位以下即終了マリカで１時間を超えたい騎士【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=BiRyx1YldQk
 DURATION:PT2H
-DTSTART:20210928T120000Z
-SUMMARY:🎸奏手イヅル: 歌！ギター！弾き語り！【奏手イヅル】
-UID:j3zBr9SpiRc
+DTSTART:20210927T060500Z
+SUMMARY:🦔💨岸堂天真: 【マリオカート】７位以下即終了マリカで１時間を超えたい騎士【岸堂天真/ホロスターズ】
+UID:BiRyx1YldQk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－朝活をする夕刻ロベルという男です－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=WfRZ8n-sn2E
@@ -46,41 +53,6 @@ SUMMARY:🍕アルランディス: 【 ラジオ配信 】#アル律ごっこ  �
 UID:YiWW_sgydQk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談枠】近況とかもろもろ！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=L6DwLtVYdJU
-DURATION:PT2H
-DTSTART:20210926T153000Z
-SUMMARY:⚙律可: 【雑談枠】近況とかもろもろ！【律可/ホロスターズ】#りつすた
-UID:L6DwLtVYdJU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX Legends】何となくで始めたけど遊べるよね？【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=JpVJ7NW0SMc
-DURATION:PT2H
-DTSTART:20210927T100000Z
-SUMMARY:🍕アルランディス: 【APEX Legends】何となくで始めたけど遊べるよね？【アルランディス/ホロスターズ】
-UID:JpVJ7NW0SMc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スマブラSP】任天堂さんいつもありがとうございます好きです【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=nHx3psgnmJw
-DURATION:PT2H
-DTSTART:20210928T083000Z
-SUMMARY:🦔💨岸堂天真: 【スマブラSP】任天堂さんいつもありがとうございます好きです【岸堂天真/ホロスターズ】
-UID:nHx3psgnmJw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【切り抜き】皆さん、コーヒーメーカーって知ってますか？『爆弾解体』\nhttps://www.youtube.com/watch?v=mvdv_JAr9AU
-DURATION:PT2H
-DTSTART:20210927T100020Z
-SUMMARY:🎭アステル・レダ: 【切り抜き】皆さん、コーヒーメーカーって知ってますか？『爆弾解体』
-UID:mvdv_JAr9AU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオカート】７位以下即終了マリカで１時間を超えたい騎士【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=BiRyx1YldQk
-DURATION:PT2H
-DTSTART:20210927T060500Z
-SUMMARY:🦔💨岸堂天真: 【マリオカート】７位以下即終了マリカで１時間を超えたい騎士【岸堂天真/ホロスターズ】
-UID:BiRyx1YldQk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【スーパーマリオワールド】ヨースター島は俺の庭【荒咬オウガ　ホロスターズ】\nhttps://www.youtube.com/watch?v=M_wk-AOpDt8
 DURATION:PT2H
 DTSTART:20210927T140000Z
@@ -95,11 +67,11 @@ SUMMARY:🍷夕刻ロベル: 【Slither.io】昼ザリオ【ホロスターズ/�
 UID:nTF25ELA_Sw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】バンジーやってきた【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=8loNVEDjF5w
+DESCRIPTION:【雑談枠】近況とかもろもろ！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=L6DwLtVYdJU
 DURATION:PT2H
-DTSTART:20210927T151000Z
-SUMMARY:影山シエン: 【雑談】バンジーやってきた【影山シエン/ホロスターズ】
-UID:8loNVEDjF5w
+DTSTART:20210926T153000Z
+SUMMARY:⚙律可: 【雑談枠】近況とかもろもろ！【律可/ホロスターズ】#りつすた
+UID:L6DwLtVYdJU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－29歳初めての朝活－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=XBqDYBV5cBI
@@ -109,10 +81,31 @@ SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－29歳�
 UID:XBqDYBV5cBI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【雑談】バンジーやってきた【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=8loNVEDjF5w
+DURATION:PT2H
+DTSTART:20210927T151000Z
+SUMMARY:影山シエン: 【雑談】バンジーやってきた【影山シエン/ホロスターズ】
+UID:8loNVEDjF5w
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【DELTARUNE Chapter２】裏ボスに会おう!!!【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=AG8mBIZxcqE
 DURATION:PT2H
 DTSTART:20210928T110000Z
 SUMMARY:🍕アルランディス: 【DELTARUNE Chapter２】裏ボスに会おう!!!【アルランディス/ホロスターズ】
 UID:AG8mBIZxcqE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX Legends】何となくで始めたけど遊べるよね？【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=JpVJ7NW0SMc
+DURATION:PT2H
+DTSTART:20210927T100000Z
+SUMMARY:🍕アルランディス: 【APEX Legends】何となくで始めたけど遊べるよね？【アルランディス/ホロスターズ】
+UID:JpVJ7NW0SMc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スマブラSP】任天堂さんいつもありがとうございます好きです【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=nHx3psgnmJw
+DURATION:PT2H
+DTSTART:20210928T083000Z
+SUMMARY:🦔💨岸堂天真: 【スマブラSP】任天堂さんいつもありがとうございます好きです【岸堂天真/ホロスターズ】
+UID:nHx3psgnmJw
 END:VEVENT
 END:VCALENDAR
