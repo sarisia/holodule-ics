@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:Defusing bombs with Kronii but we can only speak in ASMR #holoCouncil\nhttps://www.youtube.com/watch?v=oRN_5TPDdhI
+DESCRIPTION:[MV] end of a life - Calliope Mori (Original Song)\nhttps://www.youtube.com/watch?v=BXB26PzV31k
 DURATION:PT2H
-DTSTART:20210928T223000Z
-SUMMARY:Fauna: Defusing bombs with Kronii but we can only speak in ASMR #holoCouncil
-UID:oRN_5TPDdhI
+DTSTART:20211001T010000Z
+SUMMARY:Calli: [MV] end of a life - Calliope Mori (Original Song)
+UID:BXB26PzV31k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Hades】I'm Outta Here | #1\nhttps://www.youtube.com/watch?v=98OvwbqCaKE
+DURATION:PT2H
+DTSTART:20211001T020000Z
+SUMMARY:Kronii: 【Hades】I'm Outta Here | #1
+UID:98OvwbqCaKE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Superchat Reading】 Let's catch up! #holoCouncil\nhttps://www.youtube.com/watch?v=UUjskNTdiok
@@ -16,13 +23,6 @@ DURATION:PT2H
 DTSTART:20210929T230000Z
 SUMMARY:Fauna: 【Superchat Reading】 Let's catch up! #holoCouncil
 UID:UUjskNTdiok
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪MINECRAFT≫ trying to finish my homework - part 2\nhttps://www.youtube.com/watch?v=Nr5nhXf_wOE
-DURATION:PT2H
-DTSTART:20210929T103000Z
-SUMMARY:Baelz: ≪MINECRAFT≫ trying to finish my homework - part 2
-UID:Nr5nhXf_wOE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【EGG IS BROKEN ENDURANCE耐久】I WILL SAVE ALL THE EGGS #kfp #キアライブ\nhttps://www.youtube.com/watch?v=0C1KC6cApB8
@@ -37,6 +37,13 @@ DURATION:PT2H
 DTSTART:20210930T002940Z
 SUMMARY:Calli: 【UNO COLLAB】YOU HAVE UNO. feat. Calli\, Gura\, Kronii and Baelz!
 UID:tuJbF5fSUNo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】MINE YA BUSINESS\nhttps://www.youtube.com/watch?v=NuMBNglZByo
+DURATION:PT2H
+DTSTART:20210930T030500Z
+SUMMARY:Amelia: 【MINECRAFT】MINE YA BUSINESS
+UID:NuMBNglZByo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【CELEBRATION】Membership CELEBRATION Part II! #holoCouncil\nhttps://www.youtube.com/watch?v=wpXxZMSHOTA
@@ -72,54 +79,5 @@ DURATION:PT2H
 DTSTART:20211001T010500Z
 SUMMARY:Amelia: 【WATCHALONG】Bee
 UID:DFFZgpZv-JQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪MINECRAFT≫ new friends + more portal building - part 1\nhttps://www.youtube.com/watch?v=ozSK5q4Fys0
-DURATION:PT2H
-DTSTART:20210929T020000Z
-SUMMARY:Baelz: ≪MINECRAFT≫ new friends + more portal building - part 1
-UID:ozSK5q4Fys0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Hades】I'm Outta Here | #1\nhttps://www.youtube.com/watch?v=98OvwbqCaKE
-DURATION:PT2H
-DTSTART:20211001T020000Z
-SUMMARY:Kronii: 【Hades】I'm Outta Here | #1
-UID:98OvwbqCaKE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】Building stuff for Portal!! (finally?)\nhttps://www.youtube.com/watch?v=9psi8k9bUV8
-DURATION:PT2H
-DTSTART:20210929T030000Z
-SUMMARY:IRyS: 【MINECRAFT】Building stuff for Portal!! (finally?)
-UID:9psi8k9bUV8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】Reaper is BUILDING. (feat. friends?) #hololiveenglish\nhttps://www.youtube.com/watch?v=TxepfYOKHNQ
-DURATION:PT2H
-DTSTART:20210929T130030Z
-SUMMARY:Calli: 【MINECRAFT】Reaper is BUILDING. (feat. friends?) #hololiveenglish
-UID:TxepfYOKHNQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】MINE YA BUSINESS\nhttps://www.youtube.com/watch?v=NuMBNglZByo
-DURATION:PT2H
-DTSTART:20210930T030500Z
-SUMMARY:Amelia: 【MINECRAFT】MINE YA BUSINESS
-UID:NuMBNglZByo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【D4DJ】 DJ TAKO IN THE HOUSE\nhttps://www.youtube.com/watch?v=wljQ6ad5PJ8
-DURATION:PT2H
-DTSTART:20210929T030000Z
-SUMMARY:Ina: 【D4DJ】 DJ TAKO IN THE HOUSE
-UID:wljQ6ad5PJ8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Bastion】 Setting Sail! Coming Home! 【#3】\nhttps://www.youtube.com/watch?v=ljn7Ms86rho
-DURATION:PT2H
-DTSTART:20210928T200000Z
-SUMMARY:Ina: 【Bastion】 Setting Sail! Coming Home! 【#3】
-UID:ljn7Ms86rho
 END:VEVENT
 END:VCALENDAR
