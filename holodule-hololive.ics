@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 モンスターハンターダブルクロス 】一狩り💗【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=Oiiu4TOcNYI
-DURATION:PT2H
-DTSTART:20211007T140000Z
-SUMMARY:🍬姫森ルーナ: 【 モンスターハンターダブルクロス 】一狩り💗【#姫森ルーナ/ホロライブ】
-UID:Oiiu4TOcNYI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【マイクラ】カボチャ畑を作ってパンプキンパイ食べたい！【ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=Viq5XCkB1lY
 DURATION:PT2H
 DTSTART:20211007T103000Z
@@ -67,13 +60,6 @@ SUMMARY:☄星街すいせい: Stellar Stellar / 星街すいせい(official)
 UID:a51VH9BYzZA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:DAY5【APEX】秋のCRカップカスタム🌟👾🧸【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=kIDrKT2pGo0
-DURATION:PT2H
-DTSTART:20211007T121500Z
-SUMMARY:👾常闇トワ: DAY5【APEX】秋のCRカップカスタム🌟👾🧸【常闇トワ/ホロライブ】
-UID:kIDrKT2pGo0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Diablo II: Resurrected】ディアブロ2 リザレクテッド ～ACT2～【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=u9hoIK-QmoE
 DURATION:PT2H
 DTSTART:20211007T130000Z
@@ -95,6 +81,13 @@ SUMMARY:🐻ときのそら: 【Minecraft】ENサーバー見てみたい！！�
 UID:D90jptI_ilE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】スーパーゲリラ！地獄のネザー要塞再び！タスケテ【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=rlXznIzQN54
+DURATION:PT2H
+DTSTART:20211007T150000Z
+SUMMARY:🍎アキロゼ: 【Minecraft】スーパーゲリラ！地獄のネザー要塞再び！タスケテ【ホロライブ/アキロゼ】
+UID:rlXznIzQN54
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌枠】お久しぶりのお歌！！お話もする！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=eJJuy5rY57w
 DURATION:PT2H
 DTSTART:20211007T140000Z
@@ -102,18 +95,18 @@ SUMMARY:🌙紫咲シオン: 【歌枠】お久しぶりのお歌！！お話も
 UID:eJJuy5rY57w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Let's gooooo to the EN server with Kiara！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=O5y8_MFpO9k
-DURATION:PT2H
-DTSTART:20211008T140000Z
-SUMMARY:🐏角巻わため: 【Minecraft】Let's gooooo to the EN server with Kiara！！！【角巻わため/ホロライブ４期生】
-UID:O5y8_MFpO9k
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ポルカラジオカ】#04 ～プレゼント何が欲しい？～\nhttps://www.youtube.com/watch?v=WgsAAGrf8wc
 DURATION:PT2H
 DTSTART:20211008T140000Z
 SUMMARY:尾丸ポルカ: 【ポルカラジオカ】#04 ～プレゼント何が欲しい？～
 UID:WgsAAGrf8wc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Let's gooooo to the EN server with Kiara！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=O5y8_MFpO9k
+DURATION:PT2H
+DTSTART:20211008T140000Z
+SUMMARY:🐏角巻わため: 【Minecraft】Let's gooooo to the EN server with Kiara！！！【角巻わため/ホロライブ４期生】
+UID:O5y8_MFpO9k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】直下堀りダイヤモンドブロック大戦【#バカタレサーカス】\nhttps://www.youtube.com/watch?v=Z6aIttfCnq0
@@ -151,11 +144,11 @@ SUMMARY:🏮夏色まつり: 【歌枠】ねれない人のためのまったり
 UID:se257gE8M9M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】スーパーゲリラ！地獄のネザー要塞再び！タスケテ【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=rlXznIzQN54
+DESCRIPTION:DAY5【APEX】秋のCRカップカスタム🌟👾🧸【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=kIDrKT2pGo0
 DURATION:PT2H
-DTSTART:20211007T150000Z
-SUMMARY:🍎アキロゼ: 【Minecraft】スーパーゲリラ！地獄のネザー要塞再び！タスケテ【ホロライブ/アキロゼ】
-UID:rlXznIzQN54
+DTSTART:20211007T121500Z
+SUMMARY:👾常闇トワ: DAY5【APEX】秋のCRカップカスタム🌟👾🧸【常闇トワ/ホロライブ】
+UID:kIDrKT2pGo0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マインクラフト/Minecraft】#バカタレサーカス で直下掘りして先にダイヤブロックを作ったやつが優勝【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=9d9TgGh0cd0
