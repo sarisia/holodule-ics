@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】The Grim Adventures of Mumei and Kronii! @Ouro Kronii Ch. hololive-EN  #holoCouncil\nhttps://www.youtube.com/watch?v=fMK4GmM4WT8
-DURATION:PT2H
-DTSTART:20211006T010000Z
-SUMMARY:Mumei: 【Minecraft】The Grim Adventures of Mumei and Kronii! @Ouro Kronii Ch. hololive-EN  #holoCouncil
-UID:fMK4GmM4WT8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Outer Wilds】Space Detective back on the case\nhttps://www.youtube.com/watch?v=yzdYdFCm9Yg
 DURATION:PT2H
 DTSTART:20211006T220500Z
 SUMMARY:Amelia: 【Outer Wilds】Space Detective back on the case
 UID:yzdYdFCm9Yg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Guilty Gear -Strive-】 TAKOGEKI\nhttps://www.youtube.com/watch?v=FzarWmLOgM8
+DURATION:PT2H
+DTSTART:20211006T200000Z
+SUMMARY:Ina: 【Guilty Gear -Strive-】 TAKOGEKI
+UID:FzarWmLOgM8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Fauna's ASMR】 Comfy Ear Cleaning\, Oil Massage\, and ASMR Triggers by Fauna 💚 #holoCouncil\nhttps://www.youtube.com/watch?v=TLZPeOw1eAI
@@ -30,6 +30,13 @@ DURATION:PT2H
 DTSTART:20211007T000104Z
 SUMMARY:Gura: [MINECRAFT] building haunted house
 UID:p-I_GFm_FNE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【I'M BACK!】Did you miss me? #KFP #キアライブ\nhttps://www.youtube.com/watch?v=-tR-tC9Xx00
+DURATION:PT2H
+DTSTART:20211007T200000Z
+SUMMARY:Kiara: 【I'M BACK!】Did you miss me? #KFP #キアライブ
+UID:-tR-tC9Xx00
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Hades】How Far Can I Go | #2\nhttps://www.youtube.com/watch?v=6Bp8fYOASXg
@@ -51,76 +58,6 @@ DURATION:PT2H
 DTSTART:20211008T013000Z
 SUMMARY:Baelz: ≪MAD RAT DEAD≫ LET'S KEEP HEAD BANGIN' THROUGH!!
 UID:q5biMUDZqJk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ASMR Microphone Arrived】Fiddling with my First Binaural\nhttps://www.youtube.com/watch?v=qNmDjU7ZE-A
-DURATION:PT2H
-DTSTART:20211006T024500Z
-SUMMARY:IRyS: 【ASMR Microphone Arrived】Fiddling with my First Binaural
-UID:qNmDjU7ZE-A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DEAD SPACE】the FINALE\nhttps://www.youtube.com/watch?v=P-MKXDNVO3g
-DURATION:PT2H
-DTSTART:20211005T223000Z
-SUMMARY:Amelia: 【DEAD SPACE】the FINALE
-UID:P-MKXDNVO3g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Mario Kart 8DX】 ZOOM\nhttps://www.youtube.com/watch?v=2A723PL6hQw
-DURATION:PT2H
-DTSTART:20211005T200000Z
-SUMMARY:Ina: 【Mario Kart 8DX】 ZOOM
-UID:2A723PL6hQw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DOOM ETERNAL #07】SLAYING UNTIL WE S U F F E R.\nhttps://www.youtube.com/watch?v=cm1pOvc-owQ
-DURATION:PT2H
-DTSTART:20211005T235914Z
-SUMMARY:Calli: 【DOOM ETERNAL #07】SLAYING UNTIL WE S U F F E R.
-UID:cm1pOvc-owQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Guilty Gear -Strive-】 TAKOGEKI\nhttps://www.youtube.com/watch?v=FzarWmLOgM8
-DURATION:PT2H
-DTSTART:20211006T200000Z
-SUMMARY:Ina: 【Guilty Gear -Strive-】 TAKOGEKI
-UID:FzarWmLOgM8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[MINECRAFT] minecraft!! build or else\nhttps://www.youtube.com/watch?v=cpAIDVE7DhM
-DURATION:PT2H
-DTSTART:20211006T000448Z
-SUMMARY:Gura: [MINECRAFT] minecraft!! build or else
-UID:cpAIDVE7DhM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【I'M BACK!】Did you miss me? #KFP #キアライブ\nhttps://www.youtube.com/watch?v=-tR-tC9Xx00
-DURATION:PT2H
-DTSTART:20211007T200000Z
-SUMMARY:Kiara: 【I'M BACK!】Did you miss me? #KFP #キアライブ
-UID:-tR-tC9Xx00
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:am snek\nhttps://www.youtube.com/watch?v=8_lI-HwTbsc
-DURATION:PT2H
-DTSTART:20211006T080000Z
-SUMMARY:Kiara: am snek
-UID:8_lI-HwTbsc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Equilinox】 Watching grass grow but I am the god of the universe #holoCouncil\nhttps://www.youtube.com/watch?v=aAVF7h4-CgI
-DURATION:PT2H
-DTSTART:20211005T220000Z
-SUMMARY:Fauna: 【Equilinox】 Watching grass grow but I am the god of the universe #holoCouncil
-UID:aAVF7h4-CgI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Exploring The JP Server With @Nanashi Mumei Ch. hololive-EN\nhttps://www.youtube.com/watch?v=pm8lEsDMcCE
-DURATION:PT2H
-DTSTART:20211006T010000Z
-SUMMARY:Kronii: 【Minecraft】Exploring The JP Server With @Nanashi Mumei Ch. hololive-EN
-UID:pm8lEsDMcCE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Clubhouse 51】Settling the score with Bae!! 【COLLAB】\nhttps://www.youtube.com/watch?v=HuD3IBU4shw
