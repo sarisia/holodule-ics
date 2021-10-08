@@ -4,10 +4,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【配信予定地】かなたそなにする【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=uH-5DD2ae9Q
+DESCRIPTION:【やられた】ママにゲーム隠された！２【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=uH-5DD2ae9Q
 DURATION:PT2H
 DTSTART:20211008T100000Z
-SUMMARY:💫天音かなた: 【配信予定地】かなたそなにする【天音かなた/ホロライブ】
+SUMMARY:💫天音かなた: 【やられた】ママにゲーム隠された！２【天音かなた/ホロライブ】
 UID:uH-5DD2ae9Q
 END:VEVENT
 BEGIN:VEVENT
@@ -23,6 +23,13 @@ DURATION:PT2H
 DTSTART:20211006T160000Z
 SUMMARY:🍬姫森ルーナ: 【 夜遊び 】Golf It ! 全クリ⭐オンライン対決！【#姫森ルーナ/ホロライブ】
 UID:WqlK4o0jy3w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【同時視聴】「結城友奈は勇者である -大満開の章-」一緒に見よう🌟【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=mHlfbWLkSI0
+DURATION:PT2H
+DTSTART:20211008T120000Z
+SUMMARY:🌟夜空メル: 【同時視聴】「結城友奈は勇者である -大満開の章-」一緒に見よう🌟【ホロライブ/夜空メル】
+UID:mHlfbWLkSI0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【そっくりMii🎨】大空スバル先輩作るよ～～！！！Miitopia【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=Y2wlM0ObmOI
@@ -179,18 +186,18 @@ SUMMARY:🌙紫咲シオン: 【歌枠】お久しぶりのお歌！！お話も
 UID:eJJuy5rY57w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ポルカラジオカ】#04 ～プレゼント何が欲しい？～\nhttps://www.youtube.com/watch?v=WgsAAGrf8wc
-DURATION:PT2H
-DTSTART:20211008T140000Z
-SUMMARY:尾丸ポルカ: 【ポルカラジオカ】#04 ～プレゼント何が欲しい？～
-UID:WgsAAGrf8wc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Let's gooooo to the EN server with Kiara！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=O5y8_MFpO9k
 DURATION:PT2H
 DTSTART:20211008T140000Z
 SUMMARY:🐏角巻わため: 【Minecraft】Let's gooooo to the EN server with Kiara！！！【角巻わため/ホロライブ４期生】
 UID:O5y8_MFpO9k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポルカラジオカ】#04 ～プレゼント何が欲しい？～\nhttps://www.youtube.com/watch?v=WgsAAGrf8wc
+DURATION:PT2H
+DTSTART:20211008T140000Z
+SUMMARY:尾丸ポルカ: 【ポルカラジオカ】#04 ～プレゼント何が欲しい？～
+UID:WgsAAGrf8wc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】直下堀りダイヤモンドブロック大戦【#バカタレサーカス】\nhttps://www.youtube.com/watch?v=Z6aIttfCnq0
