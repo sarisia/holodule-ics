@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【歌ったり喋ったり】Talk＆Sing 元気になったアルランディスです【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=fNq1qSlrLQM
-DURATION:PT2H
-DTSTART:20211009T040000Z
-SUMMARY:🍕アルランディス: 【歌ったり喋ったり】Talk＆Sing 元気になったアルランディスです【アルランディス/ホロスターズ】
-UID:fNq1qSlrLQM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【開封配信】ヴァイスシュヴァルツ！！ホロメンのサインカード当てたい！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=CnqjvPr5GG8
 DURATION:PT2H
 DTSTART:20211009T090000Z
@@ -79,6 +72,13 @@ DURATION:PT2H
 DTSTART:20211008T120000Z
 SUMMARY:Reine: 【#holoIDServerGORelay】GRAND OPENING RELAY! Welcome to holoID Server! 【hololiveID 2nd gen】
 UID:6ieEzuCWFjs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪LITTLE NIGHTMARES≫ im not scared im not scared [SPOILERS]\nhttps://www.youtube.com/watch?v=Z9a9GevpJ0U
+DURATION:PT2H
+DTSTART:20211009T010000Z
+SUMMARY:Baelz: ≪LITTLE NIGHTMARES≫ im not scared im not scared [SPOILERS]
+UID:Z9a9GevpJ0U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【I'M BACK!】Did you miss me? #KFP #キアライブ\nhttps://www.youtube.com/watch?v=-tR-tC9Xx00
@@ -373,6 +373,13 @@ DURATION:PT2H
 DTSTART:20211009T031713Z
 SUMMARY:🌸さくらみこ: 腹筋０回 0 sit-ups【ホロライブ/さくらみこ】
 UID:rYXROpaFPuE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DELTARUNE】The end of Furniture Touching Simulator\nhttps://www.youtube.com/watch?v=Od183KK09GY
+DURATION:PT2H
+DTSTART:20211010T043000Z
+SUMMARY:Sana: 【DELTARUNE】The end of Furniture Touching Simulator
+UID:Od183KK09GY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Let's Get Beesy @Watson Amelia Ch. hololive-EN ​\nhttps://www.youtube.com/watch?v=yJbwwfbV4EE
