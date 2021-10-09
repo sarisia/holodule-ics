@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【歌ったり喋ったり】Talk＆Sing 元気になったアルランディスです【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=fNq1qSlrLQM
+DURATION:PT2H
+DTSTART:20211009T040000Z
+SUMMARY:🍕アルランディス: 【歌ったり喋ったり】Talk＆Sing 元気になったアルランディスです【アルランディス/ホロスターズ】
+UID:fNq1qSlrLQM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【開封配信】ヴァイスシュヴァルツ！！ホロメンのサインカード当てたい！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=CnqjvPr5GG8
 DURATION:PT2H
 DTSTART:20211009T090000Z
@@ -102,6 +109,13 @@ SUMMARY:⚓湊あくあ: 【雑☆談】たいへんなことがおきた！【�
 UID:7F6_vyyMMrE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】そらちゃんのマグマで新たな隠し部屋と隠しスポットを作りたい✨【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=vTg7t2w8Kdo
+DURATION:PT2H
+DTSTART:20211009T040000Z
+SUMMARY:🤖ロボ子さん: 【Minecraft】そらちゃんのマグマで新たな隠し部屋と隠しスポットを作りたい✨【ホロライブ/ロボ子さん】
+UID:vTg7t2w8Kdo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】いよいよ初心者のエンダードラゴン挑戦がはじまる！！【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=wY4ptBSga5Y
 DURATION:PT2H
 DTSTART:20211008T020000Z
@@ -174,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:METROID DREAD\nhttps://www.youtube.com/watch?v=y8JEGqgFlQA
 DURATION:PT2H
-DTSTART:20211009T030000Z
+DTSTART:20211009T032000Z
 SUMMARY:Gura: METROID DREAD
 UID:y8JEGqgFlQA
 END:VEVENT
