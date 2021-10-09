@@ -4,32 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Dead By Daylight COLLAB】I Am Running #holoCouncil\nhttps://www.youtube.com/watch?v=UDl7mNlikAU
-DURATION:PT2H
-DTSTART:20211009T002000Z
-SUMMARY:Mumei: 【Dead By Daylight COLLAB】I Am Running #holoCouncil
-UID:UDl7mNlikAU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MV】HERE COMES HOPE -IRyS【Original Song】\nhttps://www.youtube.com/watch?v=-t8Za0T1T8M
-DURATION:PT2H
-DTSTART:20211010T030000Z
-SUMMARY:IRyS: 【MV】HERE COMES HOPE -IRyS【Original Song】
-UID:-t8Za0T1T8M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】 Late Night Minecraft\nhttps://www.youtube.com/watch?v=uGC-aO-pUnA
-DURATION:PT2H
-DTSTART:20211009T060000Z
-SUMMARY:Ina: 【Minecraft】 Late Night Minecraft
-UID:uGC-aO-pUnA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[DEVIL MAY CRY 4] DANTEEEE\nhttps://www.youtube.com/watch?v=BJm9wpttSO8
 DURATION:PT2H
 DTSTART:20211008T003129Z
 SUMMARY:Gura: [DEVIL MAY CRY 4] DANTEEEE
 UID:BJm9wpttSO8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Dead By Daylight COLLAB】I Am Running #holoCouncil\nhttps://www.youtube.com/watch?v=UDl7mNlikAU
+DURATION:PT2H
+DTSTART:20211009T002000Z
+SUMMARY:Mumei: 【Dead By Daylight COLLAB】I Am Running #holoCouncil
+UID:UDl7mNlikAU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪RAT REVIEWS≫ ROOM REVIEW WITH @Mori Calliope Ch. hololive-EN\nhttps://www.youtube.com/watch?v=CstZsBWV3j8
@@ -39,11 +25,25 @@ SUMMARY:Baelz: ≪RAT REVIEWS≫ ROOM REVIEW WITH @Mori Calliope Ch. hololive-EN
 UID:CstZsBWV3j8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】 Late Night Minecraft\nhttps://www.youtube.com/watch?v=uGC-aO-pUnA
+DURATION:PT2H
+DTSTART:20211009T060000Z
+SUMMARY:Ina: 【Minecraft】 Late Night Minecraft
+UID:uGC-aO-pUnA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Let's Get Beesy @Watson Amelia Ch. hololive-EN ​\nhttps://www.youtube.com/watch?v=yJbwwfbV4EE
 DURATION:PT2H
 DTSTART:20211008T033000Z
 SUMMARY:Kronii: 【Minecraft】Let's Get Beesy @Watson Amelia Ch. hololive-EN ​
 UID:yJbwwfbV4EE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MV】HERE COMES HOPE -IRyS【Original Song】\nhttps://www.youtube.com/watch?v=-t8Za0T1T8M
+DURATION:PT2H
+DTSTART:20211010T030000Z
+SUMMARY:IRyS: 【MV】HERE COMES HOPE -IRyS【Original Song】
+UID:-t8Za0T1T8M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪MAD RAT DEAD≫ LET'S KEEP HEAD BANGIN' THROUGH!!\nhttps://www.youtube.com/watch?v=q5biMUDZqJk
@@ -107,13 +107,6 @@ DURATION:PT2H
 DTSTART:20211007T210000Z
 SUMMARY:Kiara: 【I'M BACK!】Did you miss me? #KFP #キアライブ
 UID:-tR-tC9Xx00
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:METROID DREAD\nhttps://www.youtube.com/watch?v=y8JEGqgFlQA
-DURATION:PT2H
-DTSTART:20211009T032611Z
-SUMMARY:Gura: METROID DREAD
-UID:y8JEGqgFlQA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】Time to MINE\nhttps://www.youtube.com/watch?v=ZSrU5DnCnLs
