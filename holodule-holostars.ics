@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【雑談】尻が筋肉痛になる事なんてあるんだね【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=VJje6iChmv0
-DURATION:PT2H
-DTSTART:20211011T150000Z
-SUMMARY:影山シエン: 【雑談】尻が筋肉痛になる事なんてあるんだね【影山シエン/ホロスターズ】
-UID:VJje6iChmv0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】今日で湧き層完成！(予定)回収層の作業量えぐいてぇ！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=tIWXnH65_4w
 DURATION:PT2H
 DTSTART:20211010T153000Z
@@ -25,18 +18,39 @@ SUMMARY:🦔💨岸堂天真: 【スマブラSP】花岸スマブラ！ソラが
 UID:cdp7PbvSjZU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:花岸でダンゴムシごっこ\nhttps://www.youtube.com/watch?v=JNpk6jNNgnw
+DURATION:PT2H
+DTSTART:20211010T170000Z
+SUMMARY:🌺花咲みやび: 花岸でダンゴムシごっこ
+UID:JNpk6jNNgnw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メン限】メン限予定地【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=jNVmzw9tHe0
+DURATION:PT2H
+DTSTART:20211012T150000Z
+SUMMARY:🍷夕刻ロベル: 【メン限】メン限予定地【ホロスターズ/夕刻ロベル】
+UID:jNVmzw9tHe0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】尻が筋肉痛になる事なんてあるんだね【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=VJje6iChmv0
+DURATION:PT2H
+DTSTART:20211011T150000Z
+SUMMARY:影山シエン: 【雑談】尻が筋肉痛になる事なんてあるんだね【影山シエン/ホロスターズ】
+UID:VJje6iChmv0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－ああ、火曜日の匂い－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=YJGR3aXWwqg
+DURATION:PT2H
+DTSTART:20211012T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－ああ、火曜日の匂い－【ホロスターズ/夕刻ロベル】
+UID:YJGR3aXWwqg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:花咲みやびとお出かけ！\nhttps://www.youtube.com/watch?v=7NSCn8rRYIE
 DURATION:PT2H
 DTSTART:20211011T090000Z
 SUMMARY:🌺花咲みやび: 花咲みやびとお出かけ！
 UID:7NSCn8rRYIE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】雑談【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=uccc_P-iKso
-DURATION:PT2H
-DTSTART:20211010T150000Z
-SUMMARY:荒咬オウガ: 【雑談】雑談【荒咬オウガ/ホロスターズ】
-UID:uccc_P-iKso
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－月曜の朝です－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=QA0BvOFE1IQ
@@ -46,10 +60,10 @@ SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－月曜
 UID:QA0BvOFE1IQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:花岸でダンゴムシごっこ\nhttps://www.youtube.com/watch?v=JNpk6jNNgnw
+DESCRIPTION:【雑談】雑談【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=uccc_P-iKso
 DURATION:PT2H
-DTSTART:20211010T170000Z
-SUMMARY:🌺花咲みやび: 花岸でダンゴムシごっこ
-UID:JNpk6jNNgnw
+DTSTART:20211010T150000Z
+SUMMARY:荒咬オウガ: 【雑談】雑談【荒咬オウガ/ホロスターズ】
+UID:uccc_P-iKso
 END:VEVENT
 END:VCALENDAR
