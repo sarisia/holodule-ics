@@ -53,18 +53,18 @@ SUMMARY:🐏角巻わため: 【雑談】もうすぐソロライブだで...！
 UID:jQQqJCRQNUE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】建築の時間じゃい！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=E3iKfy7VX8s
-DURATION:PT2H
-DTSTART:20211011T133000Z
-SUMMARY:雪花ラミィ: 【Minecraft】建築の時間じゃい！！【雪花ラミィ/ホロライブ】
-UID:E3iKfy7VX8s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】作るよ！ペコランド前駅！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=kw5jnbFqarc
 DURATION:PT2H
 DTSTART:20211011T133000Z
 SUMMARY:🐻ときのそら: 【Minecraft】作るよ！ペコランド前駅！！【#ときのそら生放送】
 UID:kw5jnbFqarc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】建築の時間じゃい！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=E3iKfy7VX8s
+DURATION:PT2H
+DTSTART:20211011T133000Z
+SUMMARY:雪花ラミィ: 【Minecraft】建築の時間じゃい！！【雪花ラミィ/ホロライブ】
+UID:E3iKfy7VX8s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FF10】脳筋女騎士の人生初ファイナルファンタジー【白銀ノエル/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=-Pkp-35Gtgk
@@ -123,18 +123,18 @@ SUMMARY:🍬姫森ルーナ: 【 お披露目 】22時…生えます…🍙そ�
 UID:RJvtcNCuwno
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ポケカ開封】10000円☓５枚の高額オリパを開封して爆アドになれるか！？【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=3qC33HE2xuI
-DURATION:PT2H
-DTSTART:20211011T110000Z
-SUMMARY:🌽白上フブキ: 【ポケカ開封】10000円☓５枚の高額オリパを開封して爆アドになれるか！？【ホロライブ/白上フブキ】
-UID:3qC33HE2xuI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－月曜の朝です－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=QA0BvOFE1IQ
 DURATION:PT2H
 DTSTART:20211011T010000Z
 SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－月曜の朝です－【ホロスターズ/夕刻ロベル】
 UID:QA0BvOFE1IQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポケカ開封】10000円☓５枚の高額オリパを開封して爆アドになれるか！？【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=3qC33HE2xuI
+DURATION:PT2H
+DTSTART:20211011T110000Z
+SUMMARY:🌽白上フブキ: 【ポケカ開封】10000円☓５枚の高額オリパを開封して爆アドになれるか！？【ホロライブ/白上フブキ】
+UID:3qC33HE2xuI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪COFFEE N CHILL≫ RISE AND SHINE!!\nhttps://www.youtube.com/watch?v=PlZE-TaOpDo
@@ -312,13 +312,6 @@ SUMMARY:⚓湊あくあ: 【Minecraft】ゲリラああああああああああ�
 UID:1OrAfIm7W4E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SPOILERS || LITTLE NIGHTMARES】YELLOW HOODIE SURVIVAL TIME!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=yCjw93VfKHc
-DURATION:PT2H
-DTSTART:20211011T130000Z
-SUMMARY:Ollie: 【SPOILERS || LITTLE NIGHTMARES】YELLOW HOODIE SURVIVAL TIME!!【Hololive Indonesia 2nd Gen】
-UID:yCjw93VfKHc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Celeste B-sides】floor doko\nhttps://www.youtube.com/watch?v=SqXnQ8jSGBk
 DURATION:PT2H
 DTSTART:20211011T010000Z
@@ -347,6 +340,13 @@ SUMMARY:Kiara: 【Tales of Arise】The Thorny Truth... Part 7  (SPOILER ALERT) #
 UID:Xjrjfkqt-5w
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 #朝ミオ 】１０月初めての朝みおーん！あれ？おかしいな・・\nhttps://www.youtube.com/watch?v=onghreweOGw
+DURATION:PT2H
+DTSTART:20211010T223000Z
+SUMMARY:🌲大神ミオ: 【 #朝ミオ 】１０月初めての朝みおーん！あれ？おかしいな・・
+UID:onghreweOGw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:花咲みやびとお出かけ！\nhttps://www.youtube.com/watch?v=7NSCn8rRYIE
 DURATION:PT2H
 DTSTART:20211011T090000Z
@@ -359,13 +359,6 @@ DURATION:PT2H
 DTSTART:20211011T110000Z
 SUMMARY:👯兎田ぺこら: 【壺男】10分切りチャレンジ -気合の4日目- ぺこ！【ホロライブ/兎田ぺこら】
 UID:Na9wlyQX82M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #朝ミオ 】１０月初めての朝みおーん！あれ？おかしいな・・\nhttps://www.youtube.com/watch?v=onghreweOGw
-DURATION:PT2H
-DTSTART:20211010T223000Z
-SUMMARY:🌲大神ミオ: 【 #朝ミオ 】１０月初めての朝みおーん！あれ？おかしいな・・
-UID:onghreweOGw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】本気の全新曲！！/KARAOKE【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=KQUbjAcxBFE
