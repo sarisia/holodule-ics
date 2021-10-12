@@ -221,18 +221,18 @@ SUMMARY:👯兎田ぺこら: 【凸待ち】世界のアソビ大全 気合い�
 UID:a1x7toPCtC0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:日本をよく知らないナンシーが作った和風ホラーゲームをする男【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=iXDdmCDaM0g
-DURATION:PT2H
-DTSTART:20211012T080000Z
-SUMMARY:🍷夕刻ロベル: 日本をよく知らないナンシーが作った和風ホラーゲームをする男【ホロスターズ/夕刻ロベル】
-UID:iXDdmCDaM0g
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ASMR】疲れたときはいつでも来てね…♡ 耳かき/囁き/Ear cleaning【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=9hGSWgJIo7M
 DURATION:PT2H
 DTSTART:20211012T140000Z
 SUMMARY:🍙猫又おかゆ: 【ASMR】疲れたときはいつでも来てね…♡ 耳かき/囁き/Ear cleaning【猫又おかゆ/ホロライブ】
 UID:9hGSWgJIo7M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:日本をよく知らないナンシーが作った和風ホラーゲームをする男【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=iXDdmCDaM0g
+DURATION:PT2H
+DTSTART:20211012T080000Z
+SUMMARY:🍷夕刻ロベル: 日本をよく知らないナンシーが作った和風ホラーゲームをする男【ホロスターズ/夕刻ロベル】
+UID:iXDdmCDaM0g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PagiMoona!】Asa with moona! Let's talk with me!【Freetalk】\nhttps://www.youtube.com/watch?v=9rkL3SUTAws
@@ -291,18 +291,18 @@ SUMMARY:🍎アキロゼ: 【#アキロゼ新衣装】ゲーム？スポーテ�
 UID:z6D1hB-LlTY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Karaoke!!】Isn’t it time for some more Karaoke Night?\nhttps://www.youtube.com/watch?v=UdDZ1MR1omA
-DURATION:PT2H
-DTSTART:20211012T104000Z
-SUMMARY:IRyS: 【Karaoke!!】Isn’t it time for some more Karaoke Night?
-UID:UdDZ1MR1omA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【マインクラフト/Minecraft】拝見！EN鯖！go to see\, EN server👀💕【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=352MT2Im9b4
 DURATION:PT2H
 DTSTART:20211012T130000Z
 SUMMARY:🔥不知火フレア: 【マインクラフト/Minecraft】拝見！EN鯖！go to see\, EN server👀💕【不知火フレア/ホロライブ】
 UID:352MT2Im9b4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Karaoke!!】Isn’t it time for some more Karaoke Night?\nhttps://www.youtube.com/watch?v=UdDZ1MR1omA
+DURATION:PT2H
+DTSTART:20211012T104000Z
+SUMMARY:IRyS: 【Karaoke!!】Isn’t it time for some more Karaoke Night?
+UID:UdDZ1MR1omA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活雑談】最近のお話し色々～！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=XRUHSfWJwoU
@@ -382,10 +382,10 @@ SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－ああ
 UID:YJGR3aXWwqg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【】開封かマリカかマイクラ【】\nhttps://www.youtube.com/watch?v=EGgV3ZxzY48
+DESCRIPTION:【#スバルーナ】ヴァイスシュヴァルツ初開封対決！！！！！！！：Subaluna Card Opening Showdown【ホロライブ】\nhttps://www.youtube.com/watch?v=EGgV3ZxzY48
 DURATION:PT2H
 DTSTART:20211012T110000Z
-SUMMARY:🚑大空スバル: 【】開封かマリカかマイクラ【】
+SUMMARY:🚑大空スバル: 【#スバルーナ】ヴァイスシュヴァルツ初開封対決！！！！！！！：Subaluna Card Opening Showdown【ホロライブ】
 UID:EGgV3ZxzY48
 END:VEVENT
 BEGIN:VEVENT
@@ -415,6 +415,13 @@ DURATION:PT2H
 DTSTART:20211012T070000Z
 SUMMARY:尾丸ポルカ: 【世界のアソビ大全51】ひま🌻ぽる🎪であそびつくす～～！！ #ひまぽる 【尾丸ポルカ/本間ひまわり】
 UID:wXJZQJO-p8Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スプラ２】行くか・・・バイト・・・・【影山シエン視点】\nhttps://www.youtube.com/watch?v=lI8u6_C9dq8
+DURATION:PT2H
+DTSTART:20211012T120000Z
+SUMMARY:影山シエン: 【スプラ２】行くか・・・バイト・・・・【影山シエン視点】
+UID:lI8u6_C9dq8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【コント】60年後の花岸夫妻【花岸3D】\nhttps://www.youtube.com/watch?v=ii1E7-scvQg
@@ -513,6 +520,13 @@ DURATION:PT2H
 DTSTART:20211012T100000Z
 SUMMARY:桃鈴ねね: 【マリオカート８DX】🍑4位以上獲ったら即終了！！！！🍑 【ホロライブ/桃鈴ねね/ #ねねいろらいぶ 】
 UID:EP2w9KnUiL0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Apex】💉接種後 見守り配信【ホロスターズ/奏手イヅル】\nhttps://www.youtube.com/watch?v=JpJcbO940TA
+DURATION:PT2H
+DTSTART:20211012T093000Z
+SUMMARY:🎸奏手イヅル: 【Apex】💉接種後 見守り配信【ホロスターズ/奏手イヅル】
+UID:JpJcbO940TA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:＃２【 モンハンダブルクロス 】村クエ★２💗【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=W70AGUa8_JM
