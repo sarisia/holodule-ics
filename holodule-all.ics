@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:A little chat...!\nhttps://www.youtube.com/watch?v=Bzn-Ayu5CYQ
-DURATION:PT2H
-DTSTART:20211013T010000Z
-SUMMARY:Sana: A little chat...!
-UID:Bzn-Ayu5CYQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Dead by Daylight】CUSTOM Game！！ BABY'S FIRST DBD please help【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=sJCQ_bqsEkQ
 DURATION:PT2H
 DTSTART:20211013T083000Z
 SUMMARY:Reine: 【Dead by Daylight】CUSTOM Game！！ BABY'S FIRST DBD please help【hololiveID 2nd gen】
 UID:sJCQ_bqsEkQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A little chat...!\nhttps://www.youtube.com/watch?v=Bzn-Ayu5CYQ
+DURATION:PT2H
+DTSTART:20211013T010000Z
+SUMMARY:Sana: A little chat...!
+UID:Bzn-Ayu5CYQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 ヴァイスシュバルツ 】１０箱！開封💗【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=1E-RI7vsZFs
@@ -32,6 +32,13 @@ SUMMARY:Calli: 【MINECRAFT COLLAB】HOLODEATH's First Adventure! with Rushia an
 UID:eXcLUe--2mE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【雑談/FreeTalk】企画の内容を決めたり、企画考えたり…！【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=PMG3GLxWJGs
+DURATION:PT2H
+DTSTART:20211012T143000Z
+SUMMARY:👾常闇トワ: 【雑談/FreeTalk】企画の内容を決めたり、企画考えたり…！【常闇トワ/ホロライブ】
+UID:PMG3GLxWJGs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】発作APEX【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=5pv_MKGFWLs
 DURATION:PT2H
 DTSTART:20211012T040000Z
@@ -44,13 +51,6 @@ DURATION:PT2H
 DTSTART:20211012T050000Z
 SUMMARY:Amelia: 【MINECRAFT】EN Server Tour with Roboco-senpai!!!
 UID:-su7x7Crkh8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談/FreeTalk】企画の内容を決めたり、企画考えたり…！【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=PMG3GLxWJGs
-DURATION:PT2H
-DTSTART:20211012T143000Z
-SUMMARY:👾常闇トワ: 【雑談/FreeTalk】企画の内容を決めたり、企画考えたり…！【常闇トワ/ホロライブ】
-UID:PMG3GLxWJGs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【CONCERT WATCHALONG】Watame Night Fever!!!!!!! #KFP #キアライブ\nhttps://www.youtube.com/watch?v=KeJYX0AvHPM
@@ -67,13 +67,6 @@ SUMMARY:Fauna: 【hello】 chatting & reading supas & showing you my minecraft h
 UID:xygdPAO_kZ0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ママにゲーム隠された！】だいたいタンスの上とか親の書斎とかにあるよね【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=fpn2LqcHYQM
-DURATION:PT2H
-DTSTART:20211012T090000Z
-SUMMARY:🍕アルランディス: 【ママにゲーム隠された！】だいたいタンスの上とか親の書斎とかにあるよね【アルランディス/ホロスターズ】
-UID:fpn2LqcHYQM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】８位以下即終了！！！長引いちゃったらどうしよおお(^。^)！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=JAPGwSG4WEI
 DURATION:PT2H
 DTSTART:20211012T103000Z
@@ -81,11 +74,25 @@ SUMMARY:💫天音かなた: 【マリオカート8DX】８位以下即終了！
 UID:JAPGwSG4WEI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ママにゲーム隠された！】だいたいタンスの上とか親の書斎とかにあるよね【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=fpn2LqcHYQM
+DURATION:PT2H
+DTSTART:20211012T090000Z
+SUMMARY:🍕アルランディス: 【ママにゲーム隠された！】だいたいタンスの上とか親の書斎とかにあるよね【アルランディス/ホロスターズ】
+UID:fpn2LqcHYQM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 Minecraft 】#不知火建設 のお通りにぇ～～！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=edyf0O3JKgY
 DURATION:PT2H
 DTSTART:20211013T130000Z
 SUMMARY:🌸さくらみこ: 【 Minecraft 】#不知火建設 のお通りにぇ～～！！！！【ホロライブ/さくらみこ】
 UID:edyf0O3JKgY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】Sing a song～歌っちゃうぞ！！～【＃ときのそら生放送】\nhttps://www.youtube.com/watch?v=poECGIoZC0s
+DURATION:PT2H
+DTSTART:20211013T110000Z
+SUMMARY:🐻ときのそら: 【歌枠】Sing a song～歌っちゃうぞ！！～【＃ときのそら生放送】
+UID:poECGIoZC0s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【お礼雑談】忙しい日々だから団員さんチャージする⚡【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=ZEY2a2_KIp0
@@ -179,18 +186,18 @@ SUMMARY:Baelz: ≪MINECRAFT≫ Let's build a creeper farm!
 UID:GpZHPOjrqPA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:日本をよく知らないナンシーが作った和風ホラーゲームをする男【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=iXDdmCDaM0g
-DURATION:PT2H
-DTSTART:20211012T080000Z
-SUMMARY:🍷夕刻ロベル: 日本をよく知らないナンシーが作った和風ホラーゲームをする男【ホロスターズ/夕刻ロベル】
-UID:iXDdmCDaM0g
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ASMR】疲れたときはいつでも来てね…♡ 耳かき/囁き/Ear cleaning【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=9hGSWgJIo7M
 DURATION:PT2H
 DTSTART:20211012T140000Z
 SUMMARY:🍙猫又おかゆ: 【ASMR】疲れたときはいつでも来てね…♡ 耳かき/囁き/Ear cleaning【猫又おかゆ/ホロライブ】
 UID:9hGSWgJIo7M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:日本をよく知らないナンシーが作った和風ホラーゲームをする男【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=iXDdmCDaM0g
+DURATION:PT2H
+DTSTART:20211012T080000Z
+SUMMARY:🍷夕刻ロベル: 日本をよく知らないナンシーが作った和風ホラーゲームをする男【ホロスターズ/夕刻ロベル】
+UID:iXDdmCDaM0g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Dead by Daylight】DBD with The Gang... but now CUSTOM【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=_48OyVG6j_4
@@ -340,18 +347,18 @@ SUMMARY:🏮夏色まつり: 【開封/カメラ枠】ヴァイスシュヴァ�
 UID:n1nKfEI32Po
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Dead by Daylight】カスタムで殺しあっちゃうよ～ん🔪☺【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=Mhl8XaqqHuU
-DURATION:PT2H
-DTSTART:20211013T083000Z
-SUMMARY:🤖ロボ子さん: 【Dead by Daylight】カスタムで殺しあっちゃうよ～ん🔪☺【ホロライブ/ロボ子さん】
-UID:Mhl8XaqqHuU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:なにしよ～っかな～【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=93R_0H-_5IA
 DURATION:PT2H
 DTSTART:20211013T110000Z
 SUMMARY:☄星街すいせい: なにしよ～っかな～【ホロライブ / 星街すいせい】
 UID:93R_0H-_5IA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Dead by Daylight】カスタムで殺しあっちゃうよ～ん🔪☺【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=Mhl8XaqqHuU
+DURATION:PT2H
+DTSTART:20211013T083000Z
+SUMMARY:🤖ロボ子さん: 【Dead by Daylight】カスタムで殺しあっちゃうよ～ん🔪☺【ホロライブ/ロボ子さん】
+UID:Mhl8XaqqHuU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－ああ、火曜日の匂い－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=YJGR3aXWwqg
