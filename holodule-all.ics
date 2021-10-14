@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Dead by Daylight】CUSTOM Game！！ BABY'S FIRST DBD please help【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=sJCQ_bqsEkQ
-DURATION:PT2H
-DTSTART:20211013T083000Z
-SUMMARY:Reine: 【Dead by Daylight】CUSTOM Game！！ BABY'S FIRST DBD please help【hololiveID 2nd gen】
-UID:sJCQ_bqsEkQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:A little chat...!\nhttps://www.youtube.com/watch?v=Bzn-Ayu5CYQ
 DURATION:PT2H
 DTSTART:20211013T010000Z
 SUMMARY:Sana: A little chat...!
 UID:Bzn-Ayu5CYQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Dead by Daylight】CUSTOM Game！！ BABY'S FIRST DBD please help【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=sJCQ_bqsEkQ
+DURATION:PT2H
+DTSTART:20211013T083000Z
+SUMMARY:Reine: 【Dead by Daylight】CUSTOM Game！！ BABY'S FIRST DBD please help【hololiveID 2nd gen】
+UID:sJCQ_bqsEkQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[MINECRAFT] spawn camping\nhttps://www.youtube.com/watch?v=s0Tae_MdgPQ
@@ -53,18 +53,18 @@ SUMMARY:🌸さくらみこ: 【 Minecraft 】#不知火建設 のお通りに�
 UID:edyf0O3JKgY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ゲリラ歌枠】歌う！！！！singingKARAOKE【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=bchJQfUii-U
-DURATION:PT2H
-DTSTART:20211014T103000Z
-SUMMARY:💫天音かなた: 【ゲリラ歌枠】歌う！！！！singingKARAOKE【天音かなた/ホロライブ】
-UID:bchJQfUii-U
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【弾き語りASMR】究極の癒し歌枠で睡眠導入【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=KyZJoJm04KI
 DURATION:PT2H
 DTSTART:20211013T150000Z
 SUMMARY:⚙律可: 【弾き語りASMR】究極の癒し歌枠で睡眠導入【律可/ホロスターズ】#りつすた
 UID:KyZJoJm04KI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゲリラ歌枠】歌う！！！！singingKARAOKE【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=bchJQfUii-U
+DURATION:PT2H
+DTSTART:20211014T103000Z
+SUMMARY:💫天音かなた: 【ゲリラ歌枠】歌う！！！！singingKARAOKE【天音かなた/ホロライブ】
+UID:bchJQfUii-U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】Sing a song～歌っちゃうぞ！！～【＃ときのそら生放送】\nhttps://www.youtube.com/watch?v=poECGIoZC0s
@@ -151,6 +151,13 @@ SUMMARY:🐏角巻わため: 1stソロライブ打ち上げ会場はこちらで
 UID:ZfJJZoWyfJQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】海底神殿露天掘りトラップ処理層とか作るよ編【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=xL1DMd-mN-o
+DURATION:PT2H
+DTSTART:20211013T133000Z
+SUMMARY:🍕アルランディス: 【Minecraft】海底神殿露天掘りトラップ処理層とか作るよ編【アルランディス/ホロスターズ】
+UID:xL1DMd-mN-o
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:15秒で分かる影山シエン【影山シエン/ホロスターズ】#shorts\nhttps://www.youtube.com/watch?v=16P5YMiWS9s
 DURATION:PT2H
 DTSTART:20211014T101937Z
@@ -163,13 +170,6 @@ DURATION:PT2H
 DTSTART:20211015T110000Z
 SUMMARY:ホロスターズ: [怒涛の告知] ホロスタ食レポ選手権！ [#ホロスタ食レポ王]
 UID:rlCo8jiwupg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】海底神殿露天掘りトラップ処理層とか作るよ編【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=xL1DMd-mN-o
-DURATION:PT2H
-DTSTART:20211013T133000Z
-SUMMARY:🍕アルランディス: 【Minecraft】海底神殿露天掘りトラップ処理層とか作るよ編【アルランディス/ホロスターズ】
-UID:xL1DMd-mN-o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MV】マドロミ / 天音かなた・常闇トワ【ディープインサニティ アサイラム ゲーム主題歌】\nhttps://www.youtube.com/watch?v=23nEnPOXLEk
@@ -298,13 +298,6 @@ SUMMARY:🌺花咲みやび: 【みんなの常識力テレビ】ホロスタ1�
 UID:x-cBCYoxaGE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】prepping for food supplies (ID server)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=z2_VImcozVQ
-DURATION:PT2H
-DTSTART:20211014T070000Z
-SUMMARY:Reine: 【Minecraft】prepping for food supplies (ID server)【Pavolia Reine/hololiveID 2nd gen】
-UID:z2_VImcozVQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】雑談【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=wRHNHcI1qJk
 DURATION:PT2H
 DTSTART:20211013T160000Z
@@ -375,13 +368,6 @@ SUMMARY:🏮夏色まつり: 【開封/カメラ枠】ヴァイスシュヴァ�
 UID:n1nKfEI32Po
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【デレステ】狂った譜面を狂いながらプレイする！！🎵【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=93R_0H-_5IA
-DURATION:PT2H
-DTSTART:20211013T110000Z
-SUMMARY:☄星街すいせい: 【デレステ】狂った譜面を狂いながらプレイする！！🎵【ホロライブ / 星街すいせい】
-UID:93R_0H-_5IA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Dead by Daylight】カスタムで殺しあっちゃうよ～ん🔪☺【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=Mhl8XaqqHuU
 DURATION:PT2H
 DTSTART:20211013T083000Z
@@ -394,6 +380,13 @@ DURATION:PT2H
 DTSTART:20211013T103242Z
 SUMMARY:🤖ロボ子さん: 【👻】trick or treat 💕🔪【ホロライブ/ロボ子さん】
 UID:nPpBLhorCWE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【デレステ】狂った譜面を狂いながらプレイする！！🎵【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=93R_0H-_5IA
+DURATION:PT2H
+DTSTART:20211013T110000Z
+SUMMARY:☄星街すいせい: 【デレステ】狂った譜面を狂いながらプレイする！！🎵【ホロライブ / 星街すいせい】
+UID:93R_0H-_5IA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #DJARN 】急に寒くなってきたけどアゲていこうぜ編-作業のおともにもどうぞ-【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Eq-SMn48SYk
@@ -508,18 +501,18 @@ SUMMARY:Amelia: 【TTRPG】The Circus Comes to TOWN  -  EP. 4
 UID:aC-cJ3WI-HU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【JUMP KING】E N D U R E. #HololiveEnglish\nhttps://www.youtube.com/watch?v=ekQdwNU_GAE
-DURATION:PT2H
-DTSTART:20211015T023000Z
-SUMMARY:Calli: 【JUMP KING】E N D U R E. #HololiveEnglish
-UID:ekQdwNU_GAE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】🍑ENサーバーに遊びに行ってみる！🍑 【ホロライブ/桃鈴ねね/ Kiara 】\nhttps://www.youtube.com/watch?v=NQFOlnRtyEk
 DURATION:PT2H
 DTSTART:20211014T130000Z
 SUMMARY:桃鈴ねね: 【Minecraft】🍑ENサーバーに遊びに行ってみる！🍑 【ホロライブ/桃鈴ねね/ Kiara 】
 UID:NQFOlnRtyEk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【JUMP KING】E N D U R E. #HololiveEnglish\nhttps://www.youtube.com/watch?v=ekQdwNU_GAE
+DURATION:PT2H
+DTSTART:20211015T023000Z
+SUMMARY:Calli: 【JUMP KING】E N D U R E. #HololiveEnglish
+UID:ekQdwNU_GAE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】今度の社員旅行はEN鯖だ！ #不知火建設 【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=hgLJv7_iqBM
