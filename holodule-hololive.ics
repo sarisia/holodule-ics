@@ -53,18 +53,18 @@ SUMMARY:🍙猫又おかゆ: 【朝活】お昼寝してたら次の日になっ
 UID:mY7bS3u1rRo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】アニソン歌うしかねぇよなぁ！？ / singing anime song【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=RXGH7TXZSqE
-DURATION:PT2H
-DTSTART:20211015T140000Z
-SUMMARY:🏮夏色まつり: 【歌枠】アニソン歌うしかねぇよなぁ！？ / singing anime song【ホロライブ/夏色まつり】
-UID:RXGH7TXZSqE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠】KARAOKE～好きな曲を歌う！🎤【常闇トワ】\nhttps://www.youtube.com/watch?v=0BBfB9N_VFs
 DURATION:PT2H
 DTSTART:20211014T120000Z
 SUMMARY:👾常闇トワ: 【歌枠】KARAOKE～好きな曲を歌う！🎤【常闇トワ】
 UID:0BBfB9N_VFs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】アニソン歌うしかねぇよなぁ！？ / singing anime song【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=RXGH7TXZSqE
+DURATION:PT2H
+DTSTART:20211015T140000Z
+SUMMARY:🏮夏色まつり: 【歌枠】アニソン歌うしかねぇよなぁ！？ / singing anime song【ホロライブ/夏色まつり】
+UID:RXGH7TXZSqE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ゲリラ歌枠】歌う！！！！singingKARAOKE【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=bchJQfUii-U
@@ -135,5 +135,12 @@ DURATION:PT2H
 DTSTART:20211014T093000Z
 SUMMARY:💋癒月ちょこ: 【歌枠】ゲリラ悪魔の滅びのバーストストリーム【ホロライブ/癒月ちょこ】
 UID:Mm9dLLkqYrw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スマブラSP】参加型スマブラ！おか虐はあります/Super Smash Bros.【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=qywC0_fevOE
+DURATION:PT2H
+DTSTART:20211015T090000Z
+SUMMARY:🍙猫又おかゆ: 【スマブラSP】参加型スマブラ！おか虐はあります/Super Smash Bros.【ホロライブ/猫又おかゆ】
+UID:qywC0_fevOE
 END:VEVENT
 END:VCALENDAR
