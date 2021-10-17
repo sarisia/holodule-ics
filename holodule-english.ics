@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【DRAWING】 Oh Nyo\nhttps://www.youtube.com/watch?v=esgESgYGTzA
-DURATION:PT2H
-DTSTART:20211015T200000Z
-SUMMARY:Ina: 【DRAWING】 Oh Nyo
-UID:esgESgYGTzA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Hollow Knight】The Grind Continues | #6\nhttps://www.youtube.com/watch?v=kVpOzgqySJs
 DURATION:PT2H
 DTSTART:20211017T030000Z
@@ -60,10 +53,10 @@ SUMMARY:IRyS: 【Luigi's Mansion 3】Why is Luigi so Cute
 UID:8G8hAIi_Hfk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Mario Kart 8DX】GOOWA FWANA RACING #holoCouncil\nhttps://www.youtube.com/watch?v=-YdluR5bn1Y
+DESCRIPTION:【DRAWING】 Oh Nyo\nhttps://www.youtube.com/watch?v=esgESgYGTzA
 DURATION:PT2H
-DTSTART:20211017T000000Z
-SUMMARY:Fauna: 【Mario Kart 8DX】GOOWA FWANA RACING #holoCouncil
-UID:-YdluR5bn1Y
+DTSTART:20211015T200000Z
+SUMMARY:Ina: 【DRAWING】 Oh Nyo
+UID:esgESgYGTzA
 END:VEVENT
 END:VCALENDAR
