@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】 C\nhttps://www.youtube.com/watch?v=PbPEYNeWo5I
+DURATION:PT2H
+DTSTART:20211019T200000Z
+SUMMARY:Ina: 【Minecraft】 C
+UID:PbPEYNeWo5I
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:RESIDENT EVIL 7: BIOHAZARD   shark play game\nhttps://www.youtube.com/watch?v=sQyDvzyXJVE
 DURATION:PT2H
 DTSTART:20211019T000436Z
@@ -25,13 +32,6 @@ SUMMARY:IRyS: 【KARAOKE COLLAB】IRyS x Calliope Mori!!
 UID:ZhZOywPYLNE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】I Am Staying Home\nhttps://www.youtube.com/watch?v=isG0MuTTi3M
-DURATION:PT2H
-DTSTART:20211020T010000Z
-SUMMARY:Kronii: 【Minecraft】I Am Staying Home
-UID:isG0MuTTi3M
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】MESA BIOME DOKO (spoiler: we found it) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=hkCxCcRcbZo
 DURATION:PT2H
 DTSTART:20211019T160000Z
@@ -44,20 +44,6 @@ DURATION:PT2H
 DTSTART:20211020T030000Z
 SUMMARY:Baelz: ≪CREEPYPASTA STORY-TIME≫ spooky times
 UID:GgkQjfNzkQQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】 C\nhttps://www.youtube.com/watch?v=PbPEYNeWo5I
-DURATION:PT2H
-DTSTART:20211019T200000Z
-SUMMARY:Ina: 【Minecraft】 C
-UID:PbPEYNeWo5I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CHATTING WITH YOU!】Lots of Things Happening Lately! #HololiveEnglish #holomyth\nhttps://www.youtube.com/watch?v=fJnnoaARpyY
-DURATION:PT2H
-DTSTART:20211020T020011Z
-SUMMARY:Calli: 【CHATTING WITH YOU!】Lots of Things Happening Lately! #HololiveEnglish #holomyth
-UID:fJnnoaARpyY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【The Legend of Zelda: BOTW】Swords and Apples #holoCouncil\nhttps://www.youtube.com/watch?v=pkNKECWb8tc
