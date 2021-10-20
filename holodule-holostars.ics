@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【スーパーマリオギャラクシー】宇宙に花は咲くのだろうか。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=fVoyD7Wdb2k
-DURATION:PT2H
-DTSTART:20211020T130000Z
-SUMMARY:🌺花咲みやび: 【スーパーマリオギャラクシー】宇宙に花は咲くのだろうか。【花咲みやび/ホロスターズ】
-UID:fVoyD7Wdb2k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Apex】一番おいしいプラチナ１をたしなむ【ホロスターズ/奏手イヅル】\nhttps://www.youtube.com/watch?v=0Xsuvx54Nkk
-DURATION:PT2H
-DTSTART:20211020T143500Z
-SUMMARY:🎸奏手イヅル: 【Apex】一番おいしいプラチナ１をたしなむ【ホロスターズ/奏手イヅル】
-UID:0Xsuvx54Nkk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－水曜らしいぞ今日は－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=_A6mnkUyVlI
 DURATION:PT2H
 DTSTART:20211020T010000Z
@@ -44,5 +30,12 @@ DURATION:PT2H
 DTSTART:20211020T110000Z
 SUMMARY:⚙律可: 【#律可2周年】3D配信で祝う！ゲストあり！試練もあり？【律可/ホロスターズ】#りつすた
 UID:w9XRiGkRoyQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Apex】一番おいしいプラチナ１をたしなむ【ホロスターズ/奏手イヅル】\nhttps://www.youtube.com/watch?v=0Xsuvx54Nkk
+DURATION:PT2H
+DTSTART:20211020T143500Z
+SUMMARY:🎸奏手イヅル: 【Apex】一番おいしいプラチナ１をたしなむ【ホロスターズ/奏手イヅル】
+UID:0Xsuvx54Nkk
 END:VEVENT
 END:VCALENDAR
