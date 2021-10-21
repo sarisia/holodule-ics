@@ -165,18 +165,18 @@ SUMMARY:ホロスターズ: 【#律可2周年 記念3D配信】アフター動�
 UID:SCyUZngb0yQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】わためとメルのEN鯖探検！【ホロライブ/夜空メル＆角巻わため】\nhttps://www.youtube.com/watch?v=LRSeRaO02XI
-DURATION:PT2H
-DTSTART:20211020T130000Z
-SUMMARY:🌟夜空メル: 【Minecraft】わためとメルのEN鯖探検！【ホロライブ/夜空メル＆角巻わため】
-UID:LRSeRaO02XI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【東方地霊殿】Normalクリアを目指すといいつつ様子を見に行く男【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=aYPsaq3J1o4
 DURATION:PT2H
 DTSTART:20211021T113000Z
 SUMMARY:🍕アルランディス: 【東方地霊殿】Normalクリアを目指すといいつつ様子を見に行く男【アルランディス/ホロスターズ】
 UID:aYPsaq3J1o4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】わためとメルのEN鯖探検！【ホロライブ/夜空メル＆角巻わため】\nhttps://www.youtube.com/watch?v=LRSeRaO02XI
+DURATION:PT2H
+DTSTART:20211020T130000Z
+SUMMARY:🌟夜空メル: 【Minecraft】わためとメルのEN鯖探検！【ホロライブ/夜空メル＆角巻わため】
+UID:LRSeRaO02XI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【KARAOKE PARTY】100 Day Celebration Karaoke!!\nhttps://www.youtube.com/watch?v=ij9XQH-0Hl0
@@ -347,6 +347,13 @@ SUMMARY:ホロスターズ: 【わちゃスタ＃17】謎のゲストたちの�
 UID:mzAaDtpnlJE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【メンバー限定】最近のお話とかまったり限定雑談💛【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=xVS8a670hLI
+DURATION:PT2H
+DTSTART:20211021T140000Z
+SUMMARY:🌟夜空メル: 【メンバー限定】最近のお話とかまったり限定雑談💛【ホロライブ/夜空メル】
+UID:xVS8a670hLI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【OVERCOOKED 2】FAMILY RESTO OPEN!! ORDER UP!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=zAc8nI2xtoE
 DURATION:PT2H
 DTSTART:20211021T090245Z
@@ -466,6 +473,13 @@ SUMMARY:🌸さくらみこ: 【 GTAV 】はじめてのPS4版GTAに殴り込み
 UID:vaHDkt6baP4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ルイージマンション】そろそろハロウィンだし、お化け退治しよっか。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=FYVIGGlmpMg
+DURATION:PT2H
+DTSTART:20211021T130000Z
+SUMMARY:🌺花咲みやび: 【ルイージマンション】そろそろハロウィンだし、お化け退治しよっか。【花咲みやび/ホロスターズ】
+UID:FYVIGGlmpMg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【作業用BGM】Summer Nostalgia 【#UMISEA】\nhttps://www.youtube.com/watch?v=qyPmRNKmxBI
 DURATION:PT2H
 DTSTART:20211020T100034Z
@@ -501,13 +515,6 @@ SUMMARY:🏮夏色まつり: 【PICO PARK】え！本当に協力できるんで
 UID:tBtZPbJTTrY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】メル先輩と癒しのEN鯖旅行！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=Pac9AiEPWig
-DURATION:PT2H
-DTSTART:20211020T130000Z
-SUMMARY:🐏角巻わため: 【Minecraft】メル先輩と癒しのEN鯖旅行！【角巻わため/ホロライブ４期生】
-UID:Pac9AiEPWig
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【👻】むにゃむにゃ💤・・・！？【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=iMA3op8tv7w
 DURATION:PT2H
 DTSTART:20211021T115843Z
@@ -515,10 +522,17 @@ SUMMARY:🤖ロボ子さん: 【👻】むにゃむにゃ💤・・・！？【�
 UID:iMA3op8tv7w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Resident Evil 7】PAVOLIA REAL ESTATE. Finally checking out the prequel! 【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=MeN4t8RlyO0
+DESCRIPTION:【Minecraft】メル先輩と癒しのEN鯖旅行！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=Pac9AiEPWig
+DURATION:PT2H
+DTSTART:20211020T130000Z
+SUMMARY:🐏角巻わため: 【Minecraft】メル先輩と癒しのEN鯖旅行！【角巻わため/ホロライブ４期生】
+UID:Pac9AiEPWig
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Resident Evil 7】PAVO REAL ESTATE. Finally checking out the prequel! 【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=MeN4t8RlyO0
 DURATION:PT2H
 DTSTART:20211021T140000Z
-SUMMARY:Reine: 【Resident Evil 7】PAVOLIA REAL ESTATE. Finally checking out the prequel! 【hololiveID 2nd gen】
+SUMMARY:Reine: 【Resident Evil 7】PAVO REAL ESTATE. Finally checking out the prequel! 【hololiveID 2nd gen】
 UID:MeN4t8RlyO0
 END:VEVENT
 BEGIN:VEVENT
