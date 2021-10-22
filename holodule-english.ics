@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Studying the JP Server #holoCouncil\nhttps://www.youtube.com/watch?v=fWgjNSQLiuY
-DURATION:PT2H
-DTSTART:20211023T020000Z
-SUMMARY:Mumei: 【Minecraft】Studying the JP Server #holoCouncil
-UID:fWgjNSQLiuY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【The Talos Principle】 THINK INA THINK\nhttps://www.youtube.com/watch?v=eVMqFMNdcfI
 DURATION:PT2H
 DTSTART:20211021T200000Z
@@ -37,6 +30,20 @@ DURATION:PT2H
 DTSTART:20211021T200000Z
 SUMMARY:Kiara: 【WARIOWARE】STRESSLEVEL OVER 9000 #kfp #キアライブ
 UID:S66mI7Sku74
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HoloEN】Among Us FULL EN COLLAB~ #HoloENAmongUs\nhttps://www.youtube.com/watch?v=Dtj-Hkc7R0Y
+DURATION:PT2H
+DTSTART:20211024T010000Z
+SUMMARY:Amelia: 【HoloEN】Among Us FULL EN COLLAB~ #HoloENAmongUs
+UID:Dtj-Hkc7R0Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Studying the JP Server #holoCouncil\nhttps://www.youtube.com/watch?v=fWgjNSQLiuY
+DURATION:PT2H
+DTSTART:20211023T020000Z
+SUMMARY:Mumei: 【Minecraft】Studying the JP Server #holoCouncil
+UID:fWgjNSQLiuY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Outer Wilds】Solving this Space Mystery~ Take 2\nhttps://www.youtube.com/watch?v=w4auNHelA-k
