@@ -4,18 +4,32 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【告知！】告知【ホロスターズ/奏手イヅル】\nhttps://www.youtube.com/watch?v=HWIjd7I3vIM
-DURATION:PT2H
-DTSTART:20211023T100000Z
-SUMMARY:🎸奏手イヅル: 【告知！】告知【ホロスターズ/奏手イヅル】
-UID:HWIjd7I3vIM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Apex Legends】これがほんとのバウンティハンター～食事代縛りペクス～【花咲みやび/岸堂天真/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=RNd2eZadvl4
 DURATION:PT2H
 DTSTART:20211022T080000Z
 SUMMARY:🍕アルランディス: 【Apex Legends】これがほんとのバウンティハンター～食事代縛りペクス～【花咲みやび/岸堂天真/アルランディス/ホロスターズ】
 UID:RNd2eZadvl4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】自宅潰します【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=2txTDv7CS7o
+DURATION:PT2H
+DTSTART:20211021T150000Z
+SUMMARY:🍕アルランディス: 【Minecraft】自宅潰します【アルランディス/ホロスターズ】
+UID:2txTDv7CS7o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】そうだ、土地探そう【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Y-RPywz8Stk
+DURATION:PT2H
+DTSTART:20211022T150000Z
+SUMMARY:🍕アルランディス: 【Minecraft】そうだ、土地探そう【アルランディス/ホロスターズ】
+UID:Y-RPywz8Stk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【告知！】告知【ホロスターズ/奏手イヅル】\nhttps://www.youtube.com/watch?v=HWIjd7I3vIM
+DURATION:PT2H
+DTSTART:20211023T100000Z
+SUMMARY:🎸奏手イヅル: 【告知！】告知【ホロスターズ/奏手イヅル】
+UID:HWIjd7I3vIM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:狩り #shorts\nhttps://www.youtube.com/watch?v=TVEZigQgpgE
@@ -32,24 +46,17 @@ SUMMARY:🍕アルランディス: 律可2周年を全力でお祝いするイ�
 UID:BPaM7XYRoo0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】雑談【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=he-SjYjrRjo
-DURATION:PT2H
-DTSTART:20211022T150000Z
-SUMMARY:荒咬オウガ: 【雑談】雑談【荒咬オウガ/ホロスターズ】
-UID:he-SjYjrRjo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】自宅潰します【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=2txTDv7CS7o
-DURATION:PT2H
-DTSTART:20211021T150000Z
-SUMMARY:🍕アルランディス: 【Minecraft】自宅潰します【アルランディス/ホロスターズ】
-UID:2txTDv7CS7o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【重大告知あり！】ホロスタ3Dすごろく開催！【＃ホロスタすごろく】\nhttps://www.youtube.com/watch?v=A15BxGLFjKA
 DURATION:PT2H
 DTSTART:20211024T110000Z
 SUMMARY:ホロスターズ: 【重大告知あり！】ホロスタ3Dすごろく開催！【＃ホロスタすごろく】
 UID:A15BxGLFjKA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】雑談【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=he-SjYjrRjo
+DURATION:PT2H
+DTSTART:20211022T150000Z
+SUMMARY:荒咬オウガ: 【雑談】雑談【荒咬オウガ/ホロスターズ】
+UID:he-SjYjrRjo
 END:VEVENT
 END:VCALENDAR
