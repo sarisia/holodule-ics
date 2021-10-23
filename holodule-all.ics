@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【雑談】１年で２回くらしかしない雑談のうち、２回目【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=z4wB9jYdn6A
+DURATION:PT2H
+DTSTART:20211023T162000Z
+SUMMARY:🦔💨岸堂天真: 【雑談】１年で２回くらしかしない雑談のうち、２回目【岸堂天真/ホロスターズ】
+UID:z4wB9jYdn6A
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【お礼雑談】Superchat Reading！まったり読みます！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=M6yNHpcZt1g
 DURATION:PT2H
 DTSTART:20211022T150000Z
@@ -214,13 +221,6 @@ SUMMARY:Gura: [ AMONG US ] among us
 UID:al8l8J2qDRA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Gnosia】And thus\, the loop ends and everything goes back to normal... or does it?【holoID 2nd Gen】\nhttps://www.youtube.com/watch?v=meor8m33_hs
-DURATION:PT2H
-DTSTART:20211023T140000Z
-SUMMARY:Anya: 【Gnosia】And thus\, the loop ends and everything goes back to normal... or does it?【holoID 2nd Gen】
-UID:meor8m33_hs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】寝起きの悪魔のゴールド耐久APEX【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=QJ9QMi8qQ28
 DURATION:PT2H
 DTSTART:20211023T050000Z
@@ -340,11 +340,25 @@ SUMMARY:Baelz: ≪HOLO EN AMONGUS≫  SUS!? #HoloENAmongUs
 UID:SjqX3rr9JKI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【HOLOTALK】With our 17th guest: MINATO AQUA! #HOLOTALK #ホロトーク\nhttps://www.youtube.com/watch?v=LQcQyLum3Q0
+DURATION:PT2H
+DTSTART:20211023T140000Z
+SUMMARY:Kiara: 【HOLOTALK】With our 17th guest: MINATO AQUA! #HOLOTALK #ホロトーク
+UID:LQcQyLum3Q0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:シェアハピ～♪\nhttps://www.youtube.com/watch?v=XhfuYtpfF9c
 DURATION:PT2H
 DTSTART:20211023T111505Z
 SUMMARY:❤赤井はあと: シェアハピ～♪
 UID:XhfuYtpfF9c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HOLOEN AMONGUS】THE FULL CREW IS READY FOR TAKE OFF! #HoloENAmongUs\nhttps://www.youtube.com/watch?v=qazuzvxL0e4
+DURATION:PT2H
+DTSTART:20211024T010000Z
+SUMMARY:Kiara: 【HOLOEN AMONGUS】THE FULL CREW IS READY FOR TAKE OFF! #HoloENAmongUs
+UID:qazuzvxL0e4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#生スバル】おはすば/free talk【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=mIVZ2RbcMLY
