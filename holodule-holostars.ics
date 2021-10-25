@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【雑談】１年で２回くらしかしない雑談のうち、２回目【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=z4wB9jYdn6A
+DESCRIPTION:【囁き】月曜深夜のASMR【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=-bPAAYRzbBU
 DURATION:PT2H
-DTSTART:20211023T162000Z
-SUMMARY:🦔💨岸堂天真: 【雑談】１年で２回くらしかしない雑談のうち、２回目【岸堂天真/ホロスターズ】
-UID:z4wB9jYdn6A
+DTSTART:20211024T173000Z
+SUMMARY:荒咬オウガ: 【囁き】月曜深夜のASMR【荒咬オウガ/ホロスターズ】
+UID:-bPAAYRzbBU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【お披露目雑談枠！】ただの雑談枠だけど…だけど！！！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=TL9ryS87BMo
+DURATION:PT2H
+DTSTART:20211027T120000Z
+SUMMARY:🍕アルランディス: 【お披露目雑談枠！】ただの雑談枠だけど…だけど！！！【アルランディス/ホロスターズ】
+UID:TL9ryS87BMo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－月曜日がやってきました雑談－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=CxzIQPJd9KI
@@ -16,27 +23,6 @@ DURATION:PT2H
 DTSTART:20211025T010000Z
 SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－月曜日がやってきました雑談－【ホロスターズ/夕刻ロベル】
 UID:CxzIQPJd9KI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】1日1回は配信しないとエンジンかからねぇ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=j6oK1JsbN54
-DURATION:PT2H
-DTSTART:20211025T020000Z
-SUMMARY:🍕アルランディス: 【雑談】1日1回は配信しないとエンジンかからねぇ【アルランディス/ホロスターズ】
-UID:j6oK1JsbN54
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【発作】発作【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=j4MWyj7YxNg
-DURATION:PT2H
-DTSTART:20211024T130000Z
-SUMMARY:🍷夕刻ロベル: 【発作】発作【ホロスターズ/夕刻ロベル】
-UID:j4MWyj7YxNg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【囁き】月曜深夜のASMR【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=-bPAAYRzbBU
-DURATION:PT2H
-DTSTART:20211024T173000Z
-SUMMARY:荒咬オウガ: 【囁き】月曜深夜のASMR【荒咬オウガ/ホロスターズ】
-UID:-bPAAYRzbBU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スマブラSP】アステルよ、スマブラは神ゲーだぞ。教えます。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=n3FHGjSCb8o
@@ -53,18 +39,11 @@ SUMMARY:ホロスターズ: 【Phasmophobia】煽って霊を炙り出せ！ル�
 UID:wWHz4iQT1Ms
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】鬼KYOKAN  / アステル 奏手イヅル\nhttps://www.youtube.com/watch?v=OITs4Q6QpdM
+DESCRIPTION:【雑談】1日1回は配信しないとエンジンかからねぇ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=j6oK1JsbN54
 DURATION:PT2H
-DTSTART:20211024T100000Z
-SUMMARY:🎭アステル・レダ: 【歌ってみた】鬼KYOKAN  / アステル 奏手イヅル
-UID:OITs4Q6QpdM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【重大告知あり！】ホロスタ3Dすごろく開催！【＃ホロスタすごろく】\nhttps://www.youtube.com/watch?v=A15BxGLFjKA
-DURATION:PT2H
-DTSTART:20211024T110000Z
-SUMMARY:ホロスターズ: 【重大告知あり！】ホロスタ3Dすごろく開催！【＃ホロスタすごろく】
-UID:A15BxGLFjKA
+DTSTART:20211025T020000Z
+SUMMARY:🍕アルランディス: 【雑談】1日1回は配信しないとエンジンかからねぇ【アルランディス/ホロスターズ】
+UID:j6oK1JsbN54
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:みやび！キャストオフ!! - Cast Off !!(Failure) -【花咲みやび/アルランディス/ホロスターズ】 #shorts\nhttps://www.youtube.com/watch?v=bCLgy-B0Sjs
