@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Just Chatting】Curious Eh?\nhttps://www.youtube.com/watch?v=-SulpnHwlLk
+DURATION:PT2H
+DTSTART:20211026T230000Z
+SUMMARY:Kronii: 【Just Chatting】Curious Eh?
+UID:-SulpnHwlLk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【PHASMOPHOBIA COLLAB】zombie goasts leave this place\nhttps://www.youtube.com/watch?v=oZmvnEFGfw8
 DURATION:PT2H
 DTSTART:20211024T230235Z
@@ -46,18 +53,18 @@ SUMMARY:Amelia: 【Oblivion】GOOOOD MORNING
 UID:jiOMr4Kx7oQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[MARIOKART 8 DX] with Shion !\nhttps://www.youtube.com/watch?v=O7YfM0WzKdQ
-DURATION:PT2H
-DTSTART:20211025T130140Z
-SUMMARY:Gura: [MARIOKART 8 DX] with Shion !
-UID:O7YfM0WzKdQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【WATCH-A-LONG-COLLAB】Resident Evil: Degeneration & Silent Hill w/ Gura and Ina! Sunday Scream #4\nhttps://www.youtube.com/watch?v=qLWAUX-sH7Q
 DURATION:PT2H
 DTSTART:20211025T015935Z
 SUMMARY:Calli: 【WATCH-A-LONG-COLLAB】Resident Evil: Degeneration & Silent Hill w/ Gura and Ina! Sunday Scream #4
 UID:qLWAUX-sH7Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[MARIOKART 8 DX] with Shion !\nhttps://www.youtube.com/watch?v=O7YfM0WzKdQ
+DURATION:PT2H
+DTSTART:20211025T130140Z
+SUMMARY:Gura: [MARIOKART 8 DX] with Shion !
+UID:O7YfM0WzKdQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Alice: Madness Returns】1 Ticket To Wonderland Please...! 🎃 #kfp #キアライブ\nhttps://www.youtube.com/watch?v=b_UHXg45EJE
