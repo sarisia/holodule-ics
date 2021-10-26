@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Alice: Madness Returns】1 Ticket To Wonderland Please...! 🎃 #kfp #キアライブ\nhttps://www.youtube.com/watch?v=b_UHXg45EJE
+DURATION:PT2H
+DTSTART:20211026T151000Z
+SUMMARY:Kiara: 【Alice: Madness Returns】1 Ticket To Wonderland Please...! 🎃 #kfp #キアライブ
+UID:b_UHXg45EJE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Marshmallow Q&A + Just Chatting】Curious Eh?\nhttps://www.youtube.com/watch?v=-SulpnHwlLk
 DURATION:PT2H
 DTSTART:20211026T230000Z
@@ -51,12 +58,5 @@ DURATION:PT2H
 DTSTART:20211025T220000Z
 SUMMARY:Ina: 【Resident Evil 7: Biohazard】 DLC Time!
 UID:1iHB6Kfa-MQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Oblivion】GOOOOD MORNING\nhttps://www.youtube.com/watch?v=jiOMr4Kx7oQ
-DURATION:PT2H
-DTSTART:20211026T180000Z
-SUMMARY:Amelia: 【Oblivion】GOOOOD MORNING
-UID:jiOMr4Kx7oQ
 END:VEVENT
 END:VCALENDAR
