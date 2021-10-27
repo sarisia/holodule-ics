@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Alice: Madness Returns】1 Ticket To Wonderland Please...! 🎃 #kfp #キアライブ\nhttps://www.youtube.com/watch?v=b_UHXg45EJE
-DURATION:PT2H
-DTSTART:20211026T151000Z
-SUMMARY:Kiara: 【Alice: Madness Returns】1 Ticket To Wonderland Please...! 🎃 #kfp #キアライブ
-UID:b_UHXg45EJE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DEVOUR】What's For Supper? #HoloENAmongUs\nhttps://www.youtube.com/watch?v=BSRgIs6O3xo
 DURATION:PT2H
 DTSTART:20211028T000000Z
 SUMMARY:Mumei: 【DEVOUR】What's For Supper? #HoloENAmongUs
 UID:BSRgIs6O3xo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Dead by Daylight】 mom says it's my turn to be the killer #holoCouncil\nhttps://www.youtube.com/watch?v=XKO-SNO6Wys
+DURATION:PT2H
+DTSTART:20211028T030000Z
+SUMMARY:Fauna: 【Dead by Daylight】 mom says it's my turn to be the killer #holoCouncil
+UID:XKO-SNO6Wys
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Marshmallow Q&A + Just Chatting】Curious Eh?\nhttps://www.youtube.com/watch?v=-SulpnHwlLk
@@ -25,32 +25,11 @@ SUMMARY:Kronii: 【Marshmallow Q&A + Just Chatting】Curious Eh?
 UID:-SulpnHwlLk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DEVOUR】 mogu mogu #holoCouncil\nhttps://www.youtube.com/watch?v=XYmyCjTGDRs
-DURATION:PT2H
-DTSTART:20211028T000000Z
-SUMMARY:Fauna: 【DEVOUR】 mogu mogu #holoCouncil
-UID:XYmyCjTGDRs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DEAD BY DAYLIGHT COLLAB】HoloEN Girls SLAY...Again.\nhttps://www.youtube.com/watch?v=QdwhytouMQA
 DURATION:PT2H
 DTSTART:20211028T030000Z
 SUMMARY:Calli: 【DEAD BY DAYLIGHT COLLAB】HoloEN Girls SLAY...Again.
 UID:QdwhytouMQA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[DBD] chasing my friends !\nhttps://www.youtube.com/watch?v=gEr9Is2tja4
-DURATION:PT2H
-DTSTART:20211028T030000Z
-SUMMARY:Gura: [DBD] chasing my friends !
-UID:gEr9Is2tja4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Little Nightmare 2】SpoOoOOoky Ame\nhttps://www.youtube.com/watch?v=elnwDuGqc3I
-DURATION:PT2H
-DTSTART:20211027T220000Z
-SUMMARY:Amelia: 【Little Nightmare 2】SpoOoOOoky Ame
-UID:elnwDuGqc3I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[DEVOUR] deez\nhttps://www.youtube.com/watch?v=pFn4gJ3VBVI
@@ -60,32 +39,11 @@ SUMMARY:Gura: [DEVOUR] deez
 UID:pFn4gJ3VBVI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Resident Evil Village】 MAMMA MIA 【#1】\nhttps://www.youtube.com/watch?v=umyaBSdxboo
-DURATION:PT2H
-DTSTART:20211027T200000Z
-SUMMARY:Ina: 【Resident Evil Village】 MAMMA MIA 【#1】
-UID:umyaBSdxboo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Dead By Daylight Collab】Hope is coming for you #HololiveEnglish\nhttps://www.youtube.com/watch?v=_CIxv9TtRKM
 DURATION:PT2H
 DTSTART:20211028T030000Z
 SUMMARY:IRyS: 【Dead By Daylight Collab】Hope is coming for you #HololiveEnglish
 UID:_CIxv9TtRKM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【TTRPG】MYTHBREAKERS EP 5: Seeing Double\nhttps://www.youtube.com/watch?v=h58GDofFy_8
-DURATION:PT2H
-DTSTART:20211026T210000Z
-SUMMARY:Gura: 【TTRPG】MYTHBREAKERS EP 5: Seeing Double
-UID:h58GDofFy_8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】LET'S GET THIS GIRL SOME WINGS #kfp #キアライブ\nhttps://www.youtube.com/watch?v=qFYS43HzkbA
-DURATION:PT2H
-DTSTART:20211027T140000Z
-SUMMARY:Kiara: 【MINECRAFT】LET'S GET THIS GIRL SOME WINGS #kfp #キアライブ
-UID:qFYS43HzkbA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Oblivion】GOOOOD MORNING\nhttps://www.youtube.com/watch?v=jiOMr4Kx7oQ
@@ -107,5 +65,54 @@ DURATION:PT2H
 DTSTART:20211028T030000Z
 SUMMARY:Baelz: ≪DEAD BY DAYLIGHT≫  interesting..
 UID:c_KtefuSU1A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Alice: Madness Returns】1 Ticket To Wonderland Please...! 🎃 #kfp #キアライブ\nhttps://www.youtube.com/watch?v=b_UHXg45EJE
+DURATION:PT2H
+DTSTART:20211026T151000Z
+SUMMARY:Kiara: 【Alice: Madness Returns】1 Ticket To Wonderland Please...! 🎃 #kfp #キアライブ
+UID:b_UHXg45EJE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEVOUR】 mogu mogu #holoCouncil\nhttps://www.youtube.com/watch?v=XYmyCjTGDRs
+DURATION:PT2H
+DTSTART:20211028T000000Z
+SUMMARY:Fauna: 【DEVOUR】 mogu mogu #holoCouncil
+UID:XYmyCjTGDRs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[DBD] chasing my friends !\nhttps://www.youtube.com/watch?v=gEr9Is2tja4
+DURATION:PT2H
+DTSTART:20211028T030000Z
+SUMMARY:Gura: [DBD] chasing my friends !
+UID:gEr9Is2tja4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Little Nightmare 2】SpoOoOOoky Ame\nhttps://www.youtube.com/watch?v=elnwDuGqc3I
+DURATION:PT2H
+DTSTART:20211027T220000Z
+SUMMARY:Amelia: 【Little Nightmare 2】SpoOoOOoky Ame
+UID:elnwDuGqc3I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Resident Evil Village】 MAMMA MIA 【#1】\nhttps://www.youtube.com/watch?v=umyaBSdxboo
+DURATION:PT2H
+DTSTART:20211027T200000Z
+SUMMARY:Ina: 【Resident Evil Village】 MAMMA MIA 【#1】
+UID:umyaBSdxboo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【TTRPG】MYTHBREAKERS EP 5: Seeing Double\nhttps://www.youtube.com/watch?v=h58GDofFy_8
+DURATION:PT2H
+DTSTART:20211026T210000Z
+SUMMARY:Gura: 【TTRPG】MYTHBREAKERS EP 5: Seeing Double
+UID:h58GDofFy_8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】LET'S GET THIS GIRL SOME WINGS #kfp #キアライブ\nhttps://www.youtube.com/watch?v=qFYS43HzkbA
+DURATION:PT2H
+DTSTART:20211027T140000Z
+SUMMARY:Kiara: 【MINECRAFT】LET'S GET THIS GIRL SOME WINGS #kfp #キアライブ
+UID:qFYS43HzkbA
 END:VEVENT
 END:VCALENDAR
