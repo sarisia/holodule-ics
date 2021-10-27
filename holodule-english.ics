@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【DEVOUR】What's For Supper? #HoloENAmongUs\nhttps://www.youtube.com/watch?v=BSRgIs6O3xo
+DESCRIPTION:【DEVOUR】nutrients\nhttps://www.youtube.com/watch?v=BSRgIs6O3xo
 DURATION:PT2H
 DTSTART:20211028T000000Z
-SUMMARY:Mumei: 【DEVOUR】What's For Supper? #HoloENAmongUs
+SUMMARY:Mumei: 【DEVOUR】nutrients
 UID:BSRgIs6O3xo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Dead By Daylight】I Am Adapting\nhttps://www.youtube.com/watch?v=0TssTjENIEg
+DURATION:PT2H
+DTSTART:20211028T030000Z
+SUMMARY:Kronii: 【Dead By Daylight】I Am Adapting
+UID:0TssTjENIEg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Dead by Daylight】 mom says it's my turn to be the killer #holoCouncil\nhttps://www.youtube.com/watch?v=XKO-SNO6Wys
