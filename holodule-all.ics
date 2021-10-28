@@ -27,7 +27,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【配信予定】ぺっこちゅぺっこちゅぺっこぺこぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=xcJ4P3BGw3k
 DURATION:PT2H
-DTSTART:20211028T110000Z
+DTSTART:20211028T120000Z
 SUMMARY:👯兎田ぺこら: 【配信予定】ぺっこちゅぺっこちゅぺっこぺこぺこ！【ホロライブ/兎田ぺこら】
 UID:xcJ4P3BGw3k
 END:VEVENT
@@ -81,13 +81,6 @@ SUMMARY:🌽白上フブキ: 【Phasmophobia】ソロ/ナイトメア幽霊調�
 UID:mI6mcUddYQc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Little Nightmare 2】SpoOoOOoky Ame (SPOILERS)\nhttps://www.youtube.com/watch?v=elnwDuGqc3I
-DURATION:PT2H
-DTSTART:20211027T220000Z
-SUMMARY:Amelia: 【Little Nightmare 2】SpoOoOOoky Ame (SPOILERS)
-UID:elnwDuGqc3I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ピアノ弾き語り ギターどっかいった【ホロスターズ/奏手イヅル】\nhttps://www.youtube.com/watch?v=v2bzZDZruyA
 DURATION:PT2H
 DTSTART:20211028T090000Z
@@ -100,6 +93,13 @@ DURATION:PT2H
 DTSTART:20211028T130000Z
 SUMMARY:🤖ロボ子さん: 【70万人記念凸待ち】ご主人！あの装備が遂にアップデートされたにゃん！？【ホロライブ/ロボ子さん】
 UID:Use-5bvidbM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Little Nightmare 2】SpoOoOOoky Ame (SPOILERS)\nhttps://www.youtube.com/watch?v=elnwDuGqc3I
+DURATION:PT2H
+DTSTART:20211027T220000Z
+SUMMARY:Amelia: 【Little Nightmare 2】SpoOoOOoky Ame (SPOILERS)
+UID:elnwDuGqc3I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Missing Children | 行方不明】Oh boy\, they're what?【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=_eYZ1NE59Qw
@@ -151,11 +151,11 @@ SUMMARY:🍬姫森ルーナ: 【 深夜のたこ焼き 】ハロウィン部屋�
 UID:XDV5xzXPkVc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Dead By Daylight Collab】Hope is coming for you #HololiveEnglish\nhttps://www.youtube.com/watch?v=_CIxv9TtRKM
+DESCRIPTION:【#生スバル】マイクラするしゅばあああああああああああああああああああ！！！！！：MINECRAFT【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=g05bmY0mkG4
 DURATION:PT2H
-DTSTART:20211028T033000Z
-SUMMARY:IRyS: 【Dead By Daylight Collab】Hope is coming for you #HololiveEnglish
-UID:_CIxv9TtRKM
+DTSTART:20211028T110000Z
+SUMMARY:🚑大空スバル: 【#生スバル】マイクラするしゅばあああああああああああああああああああ！！！！！：MINECRAFT【ホロライブ/大空スバル】
+UID:g05bmY0mkG4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【思考の館】ホロスタコードネーム、私の語彙力は53万です【影山シエン視点】\nhttps://www.youtube.com/watch?v=c7idZYZSG4k
@@ -163,6 +163,13 @@ DURATION:PT2H
 DTSTART:20211027T130000Z
 SUMMARY:影山シエン: 【思考の館】ホロスタコードネーム、私の語彙力は53万です【影山シエン視点】
 UID:c7idZYZSG4k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Dead By Daylight Collab】Hope is coming for you #HololiveEnglish\nhttps://www.youtube.com/watch?v=_CIxv9TtRKM
+DURATION:PT2H
+DTSTART:20211028T033000Z
+SUMMARY:IRyS: 【Dead By Daylight Collab】Hope is coming for you #HololiveEnglish
+UID:_CIxv9TtRKM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Oblivion】GOOOOD MORNING\nhttps://www.youtube.com/watch?v=jiOMr4Kx7oQ
@@ -277,18 +284,18 @@ SUMMARY:尾丸ポルカ: 【Clubhouse Games: 51 Worldwide Classics/世界のア�
 UID:0dPnuQx8Sxo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:花岸アル律でダンゴムシごっこ\nhttps://www.youtube.com/watch?v=mQhKTaHeT1E
-DURATION:PT2H
-DTSTART:20211026T174500Z
-SUMMARY:🌺花咲みやび: 花岸アル律でダンゴムシごっこ
-UID:mQhKTaHeT1E
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【JUMP KING】Jump Kast. feat. Friends...?\nhttps://www.youtube.com/watch?v=kJZNrgw2COg
 DURATION:PT2H
 DTSTART:20211029T070000Z
 SUMMARY:Calli: 【JUMP KING】Jump Kast. feat. Friends...?
 UID:kJZNrgw2COg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:花岸アル律でダンゴムシごっこ\nhttps://www.youtube.com/watch?v=mQhKTaHeT1E
+DURATION:PT2H
+DTSTART:20211026T174500Z
+SUMMARY:🌺花咲みやび: 花岸アル律でダンゴムシごっこ
+UID:mQhKTaHeT1E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ロベくっく】帰ってきたうるさい幽霊調査【夕刻ロベル/風見くく】\nhttps://www.youtube.com/watch?v=Kxldv9s457U
@@ -312,18 +319,18 @@ SUMMARY:🔥不知火フレア: 【 ウマ娘 プリティーダービー】フ�
 UID:XZ0A6yH8xoo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【サイスタ】想いはETERNITYイベをしなければいけない男【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=Qxm20eWPg30
-DURATION:PT2H
-DTSTART:20211027T030000Z
-SUMMARY:🍷夕刻ロベル: 【サイスタ】想いはETERNITYイベをしなければいけない男【ホロスターズ/夕刻ロベル】
-UID:Qxm20eWPg30
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【UNDERTALE】殺戮のGルート　#05【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=ZFjcWlsBrdM
 DURATION:PT2H
 DTSTART:20211028T110000Z
 SUMMARY:影山シエン: 【UNDERTALE】殺戮のGルート　#05【影山シエン/ホロスターズ】
 UID:ZFjcWlsBrdM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【サイスタ】想いはETERNITYイベをしなければいけない男【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=Qxm20eWPg30
+DURATION:PT2H
+DTSTART:20211027T030000Z
+SUMMARY:🍷夕刻ロベル: 【サイスタ】想いはETERNITYイベをしなければいけない男【ホロスターズ/夕刻ロベル】
+UID:Qxm20eWPg30
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【2021.10.27】お休み２日目のメッセージ【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=N0nODfEFARU
