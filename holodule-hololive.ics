@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:こらぼ予定地！\nhttps://www.youtube.com/watch?v=T7me9EFZ9nE
+DURATION:PT2H
+DTSTART:20211029T100000Z
+SUMMARY:獅白ぼたん: こらぼ予定地！
+UID:T7me9EFZ9nE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】もうすぐHalloween！ハコスちゃんとパイをお届け♡【ホロライブ/夜空メル＆Beelz Hakos】\nhttps://www.youtube.com/watch?v=uOl2yweng1g
 DURATION:PT2H
 DTSTART:20211029T040000Z
