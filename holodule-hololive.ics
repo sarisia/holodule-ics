@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】マイクラしよおお！ホロ運動会たのしみ！！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=vwtpXP0P03M
-DURATION:PT2H
-DTSTART:20211101T090000Z
-SUMMARY:🦋潤羽るしあ: 【Minecraft】マイクラしよおお！ホロ運動会たのしみ！！【潤羽るしあ/ホロライブ】
-UID:vwtpXP0P03M
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Dark Deception】trick or trea..!?YABA女がいます！助けてください！！！TT【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=XWLt-xC_JT8
 DURATION:PT2H
 DTSTART:20211031T060000Z
@@ -137,11 +130,11 @@ SUMMARY:桃鈴ねね: 【Minecraft】🍑年内城建設を諦めてないねね
 UID:VMGI7cFz3tI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】９０万人目指して！！KARAOKE！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=I_Ta19b-fwU
+DESCRIPTION:【もちどる】wake up roboco 🐈【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=_Y6X3122XBA
 DURATION:PT2H
-DTSTART:20211101T140000Z
-SUMMARY:🌙紫咲シオン: 【歌枠】９０万人目指して！！KARAOKE！！【ホロライブ/紫咲シオン】
-UID:I_Ta19b-fwU
+DTSTART:20211101T132836Z
+SUMMARY:🤖ロボ子さん: 【もちどる】wake up roboco 🐈【ホロライブ/ロボ子さん】
+UID:_Y6X3122XBA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【逆凸】深夜のロリちょこおねだり企画【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=5YfWZc8dB6w
@@ -158,11 +151,11 @@ SUMMARY:🌸さくらみこ: 【 Minecraft 】運動会場のリメイクして�
 UID:eAHD5uny1DQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#６】カスタムロボV2やるしゅばああああああああああああああ/CUSTOM ROBO V2【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=seJ0RcOWbOw
+DESCRIPTION:【歌枠】９０万人目指して！！KARAOKE！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=I_Ta19b-fwU
 DURATION:PT2H
-DTSTART:20211102T130000Z
-SUMMARY:🚑大空スバル: 【#６】カスタムロボV2やるしゅばああああああああああああああ/CUSTOM ROBO V2【ホロライブ/大空スバル】
-UID:seJ0RcOWbOw
+DTSTART:20211101T140000Z
+SUMMARY:🌙紫咲シオン: 【歌枠】９０万人目指して！！KARAOKE！！【ホロライブ/紫咲シオン】
+UID:I_Ta19b-fwU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #ホロハロウィンAmongUs 】怪しくないよ！Trick or SUS！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=KfZzhjXQRds
@@ -233,6 +226,13 @@ DURATION:PT2H
 DTSTART:20211031T120000Z
 SUMMARY:🌸さくらみこ: 【 #ホロハロウィンAmongUs 】👻ハロウィンにみんなと近くで話せるAmongUs👻【ホロライブ/さくらみこ】
 UID:QT4fYk6aR9k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#６】カスタムロボV2やるしゅばああああああああああああああ/CUSTOM ROBO V2【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=seJ0RcOWbOw
+DURATION:PT2H
+DTSTART:20211102T130000Z
+SUMMARY:🚑大空スバル: 【#６】カスタムロボV2やるしゅばああああああああああああああ/CUSTOM ROBO V2【ホロライブ/大空スバル】
+UID:seJ0RcOWbOw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【お礼雑談】まったりお喋りしながらSuperchat Reading！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=O9iVpgAsx0U
