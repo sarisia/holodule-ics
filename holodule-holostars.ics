@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:お誘い\nhttps://www.youtube.com/watch?v=BNDTOVtEAGw
+DURATION:PT2H
+DTSTART:20211101T161225Z
+SUMMARY:荒咬オウガ: お誘い
+UID:BNDTOVtEAGw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【深夜放送 The Radio Station】超絶イケボ配信者が送る、月曜夜のイケラジオ / astelleda\nhttps://www.youtube.com/watch?v=IaFu3wvehiM
 DURATION:PT2H
 DTSTART:20211101T160000Z
