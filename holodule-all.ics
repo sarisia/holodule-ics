@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【マリオパーティスーパースターズ】ほぼ2日連続 #ホロスタマリパ はっじまるよ～【アルランディス/奏手イヅル/岸堂天真/花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=6293NdigKlg
+DURATION:PT2H
+DTSTART:20211102T120000Z
+SUMMARY:🍕アルランディス: 【マリオパーティスーパースターズ】ほぼ2日連続 #ホロスタマリパ はっじまるよ～【アルランディス/奏手イヅル/岸堂天真/花咲みやび/ホロスターズ】
+UID:6293NdigKlg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】マイクラしよおお！ホロ運動会たのしみ！！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=vwtpXP0P03M
 DURATION:PT2H
 DTSTART:20211101T090000Z
@@ -32,18 +39,18 @@ SUMMARY:🤖ロボ子さん: 【歌枠】眠れない悪い子は～このボク
 UID:sHKjevLQvH4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【テイルズ オブ ルミナリア】21の生き様の一つ/アウグストルート【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=sPkyN0MknT4
-DURATION:PT2H
-DTSTART:20211101T023500Z
-SUMMARY:🌽白上フブキ: 【テイルズ オブ ルミナリア】21の生き様の一つ/アウグストルート【ホロライブ/白上フブキ】
-UID:sPkyN0MknT4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】深夜にまったり資源集めだYO！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=g6qfUv4xCXw
 DURATION:PT2H
 DTSTART:20211101T150000Z
 SUMMARY:🌟夜空メル: 【Minecraft】深夜にまったり資源集めだYO！【ホロライブ/夜空メル】
 UID:g6qfUv4xCXw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【テイルズ オブ ルミナリア】21の生き様の一つ/アウグストルート【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=sPkyN0MknT4
+DURATION:PT2H
+DTSTART:20211102T110000Z
+SUMMARY:🌽白上フブキ: 【テイルズ オブ ルミナリア】21の生き様の一つ/アウグストルート【ホロライブ/白上フブキ】
+UID:sPkyN0MknT4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活雑談】おはまっする太郎☀【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=-CTlxUx40G0
