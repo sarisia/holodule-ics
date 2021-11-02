@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【深夜放送】深夜に配信！？任せろﾊﾞﾘﾊﾞﾘｰ【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=_rXCPMlTWtg
+DURATION:PT2H
+DTSTART:20211102T130000Z
+SUMMARY:影山シエン: 【深夜放送】深夜に配信！？任せろﾊﾞﾘﾊﾞﾘｰ【影山シエン/ホロスターズ】
+UID:_rXCPMlTWtg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】深夜にまったり資源集めだYO！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=g6qfUv4xCXw
 DURATION:PT2H
 DTSTART:20211101T150000Z
@@ -121,13 +128,6 @@ DURATION:PT2H
 DTSTART:20211101T105500Z
 SUMMARY:雪花ラミィ: 【Minecraft】ソロで運動会の練習をしてみた【雪花ラミィ/ホロライブ】
 UID:yBY9doLp_uQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Phasmophobia】今日はソロで幽霊調査DA👻色々変わったらしい！？【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=kx0UN5N1fe0
-DURATION:PT2H
-DTSTART:20211102T090000Z
-SUMMARY:🤖ロボ子さん: 【Phasmophobia】今日はソロで幽霊調査DA👻色々変わったらしい！？【ホロライブ/ロボ子さん】
-UID:kx0UN5N1fe0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ASMR Roleplay】 Yandere Fauna Wants You to Stay Forever ♡ [Horror ASMR?]\nhttps://www.youtube.com/watch?v=PNDaXycPDZM
