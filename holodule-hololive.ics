@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】みんなで運動会練習～！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=a3fVEio6suA
-DURATION:PT2H
-DTSTART:20211103T120000Z
-SUMMARY:雪花ラミィ: 【Minecraft】みんなで運動会練習～！！【雪花ラミィ/ホロライブ】
-UID:a3fVEio6suA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】深夜にまったり資源集めだYO！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=g6qfUv4xCXw
 DURATION:PT2H
 DTSTART:20211101T150000Z
@@ -81,10 +74,10 @@ SUMMARY:雪花ラミィ: 【ゼルダの伝説 ブレス オブ ザ ワイルド
 UID:q4uyOR7PM4w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:???\nhttps://www.youtube.com/watch?v=AvKT-gU5Ijg
+DESCRIPTION:サウナで整う配信 -BATH STREAM-\nhttps://www.youtube.com/watch?v=AvKT-gU5Ijg
 DURATION:PT2H
 DTSTART:20211103T150000Z
-SUMMARY:❤赤井はあと: ???
+SUMMARY:❤赤井はあと: サウナで整う配信 -BATH STREAM-
 UID:AvKT-gU5Ijg
 END:VEVENT
 BEGIN:VEVENT
@@ -156,6 +149,13 @@ DURATION:PT2H
 DTSTART:20211102T090000Z
 SUMMARY:🤖ロボ子さん: 【Phasmophobia】今日はソロで幽霊調査DA👻色々変わったらしい！？【ホロライブ/ロボ子さん】
 UID:kx0UN5N1fe0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】運動会まであと2⃣日！合同練習会！from 白Bチーム【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=ySQpPqc6OMA
+DURATION:PT2H
+DTSTART:20211103T120000Z
+SUMMARY:☄星街すいせい: 【Minecraft】運動会まであと2⃣日！合同練習会！from 白Bチーム【ホロライブ / 星街すいせい】
+UID:ySQpPqc6OMA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】任せて！最終日に足掻くのは得意なんだ！？【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=M3Ql84AnOy4
@@ -240,6 +240,13 @@ DURATION:PT2H
 DTSTART:20211101T150000Z
 SUMMARY:❤赤井はあと: ハロウィンなのでもんじゃ焼く！#HAACHAMACOOKING
 UID:TpPg8ZgZmzM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#生スバル】みんなでゆる練習するしゅばあああああああああ！！！！！！/MINE CFAFT【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=rlpDf4q_zNY
+DURATION:PT2H
+DTSTART:20211103T120000Z
+SUMMARY:🚑大空スバル: 【#生スバル】みんなでゆる練習するしゅばあああああああああ！！！！！！/MINE CFAFT【ホロライブ/大空スバル】
+UID:rlpDf4q_zNY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオパーティ スーパースターズ】みんなでバトルだぁ！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=r7Dsg5nF-cE
