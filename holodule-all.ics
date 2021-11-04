@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ゼルダの伝説 ブレス オブ ザ ワイルド】夜に癒しのゼルダ｜完全初見のBotW ＃3【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=DOj_fp6yBMc
+DURATION:PT2H
+DTSTART:20211104T130000Z
+SUMMARY:雪花ラミィ: 【ゼルダの伝説 ブレス オブ ザ ワイルド】夜に癒しのゼルダ｜完全初見のBotW ＃3【雪花ラミィ/ホロライブ】
+UID:DOj_fp6yBMc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】みんなで運動会練習～！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=a3fVEio6suA
 DURATION:PT2H
 DTSTART:20211103T120000Z
@@ -114,6 +121,13 @@ DURATION:PT2H
 DTSTART:20211103T080000Z
 SUMMARY:🐿Risu: 【hololiveID】~ Donation Catch-up Reading ~【Ayunda Risu】
 UID:0ADGaExJauk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Opus: Echo of Starsong】Pretty Puzzles\nhttps://www.youtube.com/watch?v=HF8_oW2yqUY
+DURATION:PT2H
+DTSTART:20211104T030000Z
+SUMMARY:Kronii: 【Opus: Echo of Starsong】Pretty Puzzles
+UID:HF8_oW2yqUY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【hololiveID】~ Welcome November : Free Talk ~【Ayunda Risu】\nhttps://www.youtube.com/watch?v=0eDRFESe89E
@@ -249,6 +263,13 @@ SUMMARY:Ina: 【HATSUNE MIKU: COLORFUL STAGE!】 Global Release Sneak Peek + Liv
 UID:0m6fJ6uFuFc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】運動会の練習だ！！！【#SorAZ/#ときのそら生放送】\nhttps://www.youtube.com/watch?v=VB5pImi9_IM
+DURATION:PT2H
+DTSTART:20211104T130000Z
+SUMMARY:🐻ときのそら: 【Minecraft】運動会の練習だ！！！【#SorAZ/#ときのそら生放送】
+UID:VB5pImi9_IM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】鼻声の調子の進捗どうですか【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=_vO52Jkj1WU
 DURATION:PT2H
 DTSTART:20211102T230000Z
@@ -277,11 +298,11 @@ SUMMARY:IRyS: 【MINECRAFT Guerrilla】Practice for the Sports Festival!
 UID:8ExKG__0Gy0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪LATE-NIGHT SNACKS≫ November Natters\nhttps://www.youtube.com/watch?v=6aXY3aN_3Wc
+DESCRIPTION:【ポルカの伝説】ひまちゃんと一緒に子供の悩みを解決！？\nhttps://www.youtube.com/watch?v=XpvVJORJIwA
 DURATION:PT2H
-DTSTART:20211104T120000Z
-SUMMARY:Baelz: ≪LATE-NIGHT SNACKS≫ November Natters
-UID:6aXY3aN_3Wc
+DTSTART:20211104T100000Z
+SUMMARY:尾丸ポルカ: 【ポルカの伝説】ひまちゃんと一緒に子供の悩みを解決！？
+UID:XpvVJORJIwA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオパーティ スーパースターズ】みんなでバトルだぁ！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=r7Dsg5nF-cE
@@ -289,6 +310,13 @@ DURATION:PT2H
 DTSTART:20211103T140000Z
 SUMMARY:🌙紫咲シオン: 【マリオパーティ スーパースターズ】みんなでバトルだぁ！！【ホロライブ/紫咲シオン】
 UID:r7Dsg5nF-cE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪LATE-NIGHT SNACKS≫ November Natters\nhttps://www.youtube.com/watch?v=6aXY3aN_3Wc
+DURATION:PT2H
+DTSTART:20211104T120000Z
+SUMMARY:Baelz: ≪LATE-NIGHT SNACKS≫ November Natters
+UID:6aXY3aN_3Wc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【AmongUs】トンデモメンバーと #アモかくれ鬼 でEnjoyいぇいいぇいいぇい【アルランディス視点/ホロスターズ】\nhttps://www.youtube.com/watch?v=2xiToLBnu9Q
