@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【雑談】何か最近色々あったね【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=C16LUX3OI8Y
-DURATION:PT2H
-DTSTART:20211103T150000Z
-SUMMARY:荒咬オウガ: 【雑談】何か最近色々あったね【荒咬オウガ/ホロスターズ】
-UID:C16LUX3OI8Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX LEGENDS】団地妻はトロンボーンで-戦国時代【アステル・レダ/奏手イヅル/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Tss00r43q1M
 DURATION:PT2H
 DTSTART:20211102T185500Z
@@ -25,13 +18,6 @@ SUMMARY:🍷夕刻ロベル: 【サイスタ】Plus 1 Good Day! イベをやら�
 UID:T1rpXHIkl04
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 第1回 】ホロスタライブグッズキャッチコピー選手権！【 #ホロスタ1stACT 】\nhttps://www.youtube.com/watch?v=57uc_iwOKqU
-DURATION:PT2H
-DTSTART:20211105T110000Z
-SUMMARY:ホロスターズ: 【 第1回 】ホロスタライブグッズキャッチコピー選手権！【 #ホロスタ1stACT 】
-UID:57uc_iwOKqU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【AmongUs】トンデモメンバーと #アモかくれ鬼 でEnjoyいぇいいぇいいぇい【アルランディス視点/ホロスターズ】\nhttps://www.youtube.com/watch?v=2xiToLBnu9Q
 DURATION:PT2H
 DTSTART:20211104T120000Z
@@ -39,11 +25,18 @@ SUMMARY:🍕アルランディス: 【AmongUs】トンデモメンバーと #ア
 UID:2xiToLBnu9Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【抜き打ち！】英語の先生、現る…！【#わちゃスタ 18】\nhttps://www.youtube.com/watch?v=acAUnUEF7GI
+DESCRIPTION:【アランとご飯】昼飯だ!昼飯があるぞ!食べるぞ！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=RrUJdXyYH1U
 DURATION:PT2H
-DTSTART:20211104T100000Z
-SUMMARY:ホロスターズ: 【抜き打ち！】英語の先生、現る…！【#わちゃスタ 18】
-UID:acAUnUEF7GI
+DTSTART:20211104T030000Z
+SUMMARY:🍕アルランディス: 【アランとご飯】昼飯だ!昼飯があるぞ!食べるぞ！【アルランディス/ホロスターズ】
+UID:RrUJdXyYH1U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】何か最近色々あったね【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=C16LUX3OI8Y
+DURATION:PT2H
+DTSTART:20211103T150000Z
+SUMMARY:荒咬オウガ: 【雑談】何か最近色々あったね【荒咬オウガ/ホロスターズ】
+UID:C16LUX3OI8Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】#近代都市アルランディス 都市の基礎工事完了が目標【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=8yA9AOtuytk
@@ -51,5 +44,19 @@ DURATION:PT2H
 DTSTART:20211102T160000Z
 SUMMARY:🍕アルランディス: 【Minecraft】#近代都市アルランディス 都市の基礎工事完了が目標【アルランディス/ホロスターズ】
 UID:8yA9AOtuytk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 第1回 】ホロスタライブグッズキャッチコピー選手権！【 #ホロスタ1stACT 】\nhttps://www.youtube.com/watch?v=57uc_iwOKqU
+DURATION:PT2H
+DTSTART:20211105T110000Z
+SUMMARY:ホロスターズ: 【 第1回 】ホロスタライブグッズキャッチコピー選手権！【 #ホロスタ1stACT 】
+UID:57uc_iwOKqU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【抜き打ち！】英語の先生、現る…！【#わちゃスタ 18】\nhttps://www.youtube.com/watch?v=acAUnUEF7GI
+DURATION:PT2H
+DTSTART:20211104T100000Z
+SUMMARY:ホロスターズ: 【抜き打ち！】英語の先生、現る…！【#わちゃスタ 18】
+UID:acAUnUEF7GI
 END:VEVENT
 END:VCALENDAR
