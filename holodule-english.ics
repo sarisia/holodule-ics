@@ -4,34 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ANIMAL CROSSING 2.0】UPDATE UPDATE UPDATE #kfp #キアライブ\nhttps://www.youtube.com/watch?v=v8zbFe5QzP8
-DURATION:PT2H
-DTSTART:20211104T190000Z
-SUMMARY:Kiara: 【ANIMAL CROSSING 2.0】UPDATE UPDATE UPDATE #kfp #キアライブ
-UID:v8zbFe5QzP8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【A Way Out】ESCAPE! ft. @Hakos Baelz Ch. hololive-EN  #holoCouncil\nhttps://www.youtube.com/watch?v=7mbweI-dp5g
-DURATION:PT2H
-DTSTART:20211105T010500Z
-SUMMARY:Mumei: 【A Way Out】ESCAPE! ft. @Hakos Baelz Ch. hololive-EN  #holoCouncil
-UID:7mbweI-dp5g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】SportsFes Practice~\nhttps://www.youtube.com/watch?v=A8vq_XkX5bM
-DURATION:PT2H
-DTSTART:20211105T050000Z
-SUMMARY:Amelia: 【MINECRAFT】SportsFes Practice~
-UID:A8vq_XkX5bM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DOOM ETERNAL FINALE PT. 1】Until it is PRETTY MUCH DONE.\nhttps://www.youtube.com/watch?v=mcrXgIZvbuY
-DURATION:PT2H
-DTSTART:20211105T005903Z
-SUMMARY:Calli: 【DOOM ETERNAL FINALE PT. 1】Until it is PRETTY MUCH DONE.
-UID:mcrXgIZvbuY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MARIO PARTY SUPERSTARS】Sportsfes Hangover Included! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=bNdMAqaW4no
 DURATION:PT2H
 DTSTART:20211106T200000Z
@@ -39,11 +11,25 @@ SUMMARY:Kiara: 【MARIO PARTY SUPERSTARS】Sportsfes Hangover Included! #kfp #�
 UID:bNdMAqaW4no
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:≪MINECRAFT | HOLO SPORTS FESTIVAL≫ MAY THE BEST TEAM WIN! #holoSportsfestival\nhttps://www.youtube.com/watch?v=D6T6_UIJoc0
+DURATION:PT2H
+DTSTART:20211106T040000Z
+SUMMARY:Baelz: ≪MINECRAFT | HOLO SPORTS FESTIVAL≫ MAY THE BEST TEAM WIN! #holoSportsfestival
+UID:D6T6_UIJoc0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【DOOM ETERNAL FINALE PT. 2】Until it is ACTUALLY DONE. (with Heart Rate Monitor!)\nhttps://www.youtube.com/watch?v=hYQTgdUu_E0
 DURATION:PT2H
 DTSTART:20211106T011520Z
 SUMMARY:Calli: 【DOOM ETERNAL FINALE PT. 2】Until it is ACTUALLY DONE. (with Heart Rate Monitor!)
 UID:hYQTgdUu_E0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ASMR】SPA DAY! Water Sounds\, Ear Massages\, Finding Peace Together!\nhttps://www.youtube.com/watch?v=LwzNCrrVcu0
+DURATION:PT2H
+DTSTART:20211107T130000Z
+SUMMARY:Calli: 【ASMR】SPA DAY! Water Sounds\, Ear Massages\, Finding Peace Together!
+UID:LwzNCrrVcu0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Mcfankies Friday】Catchin' up on Supas and Practice\nhttps://www.youtube.com/watch?v=WdsFFm5XD0Q
@@ -58,26 +44,5 @@ DURATION:PT2H
 DTSTART:20211106T040000Z
 SUMMARY:IRyS: ≪MINECRAFT | HOLO SPORTS FESTIVAL≫ LET'S GO RED TEAM C!! #holoSportsfestival
 UID:ceG1wBO9l5o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Getting Over It】 I was too scared to play RE7 so we're climbing a mountain instead #holoCouncil\nhttps://www.youtube.com/watch?v=W6yVqWyrl9g
-DURATION:PT2H
-DTSTART:20211104T220000Z
-SUMMARY:Fauna: 【Getting Over It】 I was too scared to play RE7 so we're climbing a mountain instead #holoCouncil
-UID:W6yVqWyrl9g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪MINECRAFT | HOLO SPORTS FESTIVAL≫ MAY THE BEST TEAM WIN! #holoSportsfestival\nhttps://www.youtube.com/watch?v=D6T6_UIJoc0
-DURATION:PT2H
-DTSTART:20211106T040000Z
-SUMMARY:Baelz: ≪MINECRAFT | HOLO SPORTS FESTIVAL≫ MAY THE BEST TEAM WIN! #holoSportsfestival
-UID:D6T6_UIJoc0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ASMR】SPA DAY! Water Sounds\, Ear Massages\, Finding Peace Together!\nhttps://www.youtube.com/watch?v=LwzNCrrVcu0
-DURATION:PT2H
-DTSTART:20211107T130000Z
-SUMMARY:Calli: 【ASMR】SPA DAY! Water Sounds\, Ear Massages\, Finding Peace Together!
-UID:LwzNCrrVcu0
 END:VEVENT
 END:VCALENDAR
