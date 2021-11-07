@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【雑談枠】AGFありがとうを伝えたい【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=8S_MkR6y1_0
+DURATION:PT2H
+DTSTART:20211107T140000Z
+SUMMARY:⚙律可: 【雑談枠】AGFありがとうを伝えたい【律可/ホロスターズ】#りつすた
+UID:8S_MkR6y1_0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－始まってしまった11月を迎え入れる朝－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=Y1WjjO2r3CY
 DURATION:PT2H
 DTSTART:20211108T010000Z
@@ -58,5 +65,12 @@ DURATION:PT2H
 DTSTART:20211107T130000Z
 SUMMARY:🦔💨岸堂天真: 【オーバークック2】配信時間ですが、誰も来ませんでした。【岸堂天真/ホロスターズ】
 UID:YiRB-JPB1mM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】深夜雑談　AGFの話とか【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=WJmtUHGL5Lk
+DURATION:PT2H
+DTSTART:20211107T160000Z
+SUMMARY:荒咬オウガ: 【雑談】深夜雑談　AGFの話とか【荒咬オウガ/ホロスターズ】
+UID:WJmtUHGL5Lk
 END:VEVENT
 END:VCALENDAR
