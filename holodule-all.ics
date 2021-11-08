@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【APEX】ゆるスタぺクスに向けてランクを上げなきゃ！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=XcawdfgRTTo
+DESCRIPTION:【Eternal Return】May The Best Win With @Hakos Baelz Ch. hololive-EN\nhttps://www.youtube.com/watch?v=Hx2WpeyKGOU
 DURATION:PT2H
-DTSTART:20211108T085000Z
-SUMMARY:🦔💨岸堂天真: 【APEX】ゆるスタぺクスに向けてランクを上げなきゃ！！【岸堂天真/ホロスターズ】
-UID:XcawdfgRTTo
+DTSTART:20211108T040000Z
+SUMMARY:Kronii: 【Eternal Return】May The Best Win With @Hakos Baelz Ch. hololive-EN
+UID:Hx2WpeyKGOU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【深夜放送】今回怖すぎるってマジ…？【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=GyNMhNoudtI
+DURATION:PT2H
+DTSTART:20211107T070000Z
+SUMMARY:🔥不知火フレア: 【深夜放送】今回怖すぎるってマジ…？【不知火フレア/ホロライブ】
+UID:GyNMhNoudtI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】寝てました【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=sUqvqzpO150
+DURATION:PT2H
+DTSTART:20211106T155500Z
+SUMMARY:🌺花咲みやび: 【雑談】寝てました【花咲みやび/ホロスターズ】
+UID:sUqvqzpO150
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:『銀河的お悩み相談室 』今年もあと2か月切ったんだって。オワリW /  アステル・レダ\nhttps://www.youtube.com/watch?v=Vg1hhp904sY
@@ -18,11 +32,46 @@ SUMMARY:🎭アステル・レダ: 『銀河的お悩み相談室 』今年も�
 UID:Vg1hhp904sY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【シャニマス】『Run 4 ???』に触れる男【ホロスターズ/夕刻ロベル】※ネタバレあり\nhttps://www.youtube.com/watch?v=jcctL5RSVs0
+DURATION:PT2H
+DTSTART:20211108T040000Z
+SUMMARY:🍷夕刻ロベル: 【シャニマス】『Run 4 ???』に触れる男【ホロスターズ/夕刻ロベル】※ネタバレあり
+UID:jcctL5RSVs0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#08【FF10】脳筋女騎士の人生初ファイナルファンタジー⚔【白銀ノエル/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=PwQLk1f7IPc
+DURATION:PT2H
+DTSTART:20211107T020000Z
+SUMMARY:⚔白銀ノエル: #08【FF10】脳筋女騎士の人生初ファイナルファンタジー⚔【白銀ノエル/ホロライブ】※ネタバレあり
+UID:PwQLk1f7IPc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:話が通じない恐怖【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=1RzbpQ3WI7k
 DURATION:PT2H
 DTSTART:20211108T090000Z
 SUMMARY:🍷夕刻ロベル: 話が通じない恐怖【ホロスターズ/夕刻ロベル】
 UID:1RzbpQ3WI7k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【あつまれどうぶつの森】500000億年ぶりに帰ってきました。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=3YrCgzzQn7w
+DURATION:PT2H
+DTSTART:20211106T210000Z
+SUMMARY:🌺花咲みやび: 【あつまれどうぶつの森】500000億年ぶりに帰ってきました。【花咲みやび/ホロスターズ】
+UID:3YrCgzzQn7w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Members only】最近の事とかご報告など…！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=ihXtecLUBxc
+DURATION:PT2H
+DTSTART:20211108T133000Z
+SUMMARY:雪花ラミィ: 【Members only】最近の事とかご報告など…！【雪花ラミィ/ホロライブ】
+UID:ihXtecLUBxc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#かなトワVRホラー】ゾンビ村から脱出せよ！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=6lGvLvtx5jw
+DURATION:PT2H
+DTSTART:20211107T100000Z
+SUMMARY:💫天音かなた: 【#かなトワVRホラー】ゾンビ村から脱出せよ！！！！【天音かなた/ホロライブ】
+UID:6lGvLvtx5jw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【The Legend of Zelda: BOTW】BEAST #holoCouncil\nhttps://www.youtube.com/watch?v=FqqgW4Iw2qc
@@ -37,13 +86,6 @@ DURATION:PT2H
 DTSTART:20211107T151510Z
 SUMMARY:Calli: 【SUPERCHATS】Feeling SUPER. #HololiveEnglish #holomyth
 UID:wfC35FCMPiA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#湊あくあ重大発表】3DLIVE！！重大発表！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=0kGVDYAKcGc
-DURATION:PT2H
-DTSTART:20211108T120000Z
-SUMMARY:⚓湊あくあ: 【#湊あくあ重大発表】3DLIVE！！重大発表！！【湊あくあ/ホロライブ】
-UID:0kGVDYAKcGc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 邪神ころね 】ころにぇがつぐのひに！？やってみるにぇ･･･【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=WmuMU5u-LDo
@@ -67,6 +109,13 @@ SUMMARY:🌸さくらみこ: 【 邪神ころね(二周目) 】二周目がも�
 UID:eA4S-BESfdc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【雑談】また英語レッスンしてきたので復習も兼ねて雑談【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=dAVpcCLmxbA
+DURATION:PT2H
+DTSTART:20211108T043000Z
+SUMMARY:🦔💨岸堂天真: 【雑談】また英語レッスンしてきたので復習も兼ねて雑談【岸堂天真/ホロスターズ】
+UID:dAVpcCLmxbA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談枠】AGFありがとうを伝えたい【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=8S_MkR6y1_0
 DURATION:PT2H
 DTSTART:20211107T140000Z
@@ -81,6 +130,20 @@ SUMMARY:🍕アルランディス: 【Minecraft】#近代都市アルランデ�
 UID:S8gF997gq60
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【邪神ころね】同期がゲームになりました【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=lK305MeAcno
+DURATION:PT2H
+DTSTART:20211108T100000Z
+SUMMARY:🍙猫又おかゆ: 【邪神ころね】同期がゲームになりました【猫又おかゆ/ホロライブ】
+UID:lK305MeAcno
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【あつまれどうぶつの森】深夜にまったり遊ぼう🌕✨【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=rAZt_b-SScw
+DURATION:PT2H
+DTSTART:20211107T140000Z
+SUMMARY:🍙猫又おかゆ: 【あつまれどうぶつの森】深夜にまったり遊ぼう🌕✨【猫又おかゆ/ホロライブ】
+UID:rAZt_b-SScw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】MIDNIGHT MINECRAFT AND CHILLING~【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=8lOfEgXVRTU
 DURATION:PT2H
 DTSTART:20211107T171410Z
@@ -88,11 +151,11 @@ SUMMARY:Ollie: 【MINECRAFT】MIDNIGHT MINECRAFT AND CHILLING~【Hololive Indone
 UID:8lOfEgXVRTU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪Eternal Return≫  Dominating in STYLE!!! ft. Kronii\nhttps://www.youtube.com/watch?v=ncOWK_Ay_aI
+DESCRIPTION:【深夜放送】ホラー…深夜の放送の闇【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=SOFPaDH6piU
 DURATION:PT2H
-DTSTART:20211108T040000Z
-SUMMARY:Baelz: ≪Eternal Return≫  Dominating in STYLE!!! ft. Kronii
-UID:ncOWK_Ay_aI
+DTSTART:20211107T110000Z
+SUMMARY:🏴☠宝鐘マリン: 【深夜放送】ホラー…深夜の放送の闇【ホロライブ/宝鐘マリン】
+UID:SOFPaDH6piU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:恋の宅配便 / 瀬名航 feat. AZKi【2021年12月22日 EPリリース】\nhttps://www.youtube.com/watch?v=hYUBjfxfzIk
@@ -109,11 +172,18 @@ SUMMARY:獅白ぼたん: 【CoD:V】運動会の振り返り＆CODやるぞい�
 UID:XgzOJp1_OG0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】運動会感謝☆記念に漢のロマンを作る！！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=__jmEGM8W4E
+DESCRIPTION:≪Eternal Return≫  Dominating in STYLE!!! ft. Kronii\nhttps://www.youtube.com/watch?v=ncOWK_Ay_aI
 DURATION:PT2H
-DTSTART:20211108T090000Z
-SUMMARY:🦋潤羽るしあ: 【Minecraft】運動会感謝☆記念に漢のロマンを作る！！【潤羽るしあ/ホロライブ】
-UID:__jmEGM8W4E
+DTSTART:20211108T040000Z
+SUMMARY:Baelz: ≪Eternal Return≫  Dominating in STYLE!!! ft. Kronii
+UID:ncOWK_Ay_aI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Zatsudan】Light zatsudan! Talking about Sports Fes & Others【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=uyxm4PtVtWs
+DURATION:PT2H
+DTSTART:20211108T140000Z
+SUMMARY:Anya: 【Zatsudan】Light zatsudan! Talking about Sports Fes & Others【hololive Indonesia 2nd Generation】
+UID:uyxm4PtVtWs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #朝ミオ 】月曜日の朝放送☀今週も月曜日がやってきたー！\nhttps://www.youtube.com/watch?v=kQ1GgNk0nwM
@@ -128,6 +198,13 @@ DURATION:PT2H
 DTSTART:20211107T030000Z
 SUMMARY:Kronii: 【GRIS】Paint The World With Color
 UID:vpJ6u-okdIM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 凸待ち / Minecraft 】ホロライブ大運動会後夜祭🏳【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=6xS3u53q26g
+DURATION:PT2H
+DTSTART:20211107T130000Z
+SUMMARY:🌸さくらみこ: 【 凸待ち / Minecraft 】ホロライブ大運動会後夜祭🏳【ホロライブ/さくらみこ】
+UID:6xS3u53q26g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】🦄ゆめきゃわわ～～で新シーズン🦄【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=nYttZySFjoA
@@ -165,6 +242,13 @@ SUMMARY:尾丸ポルカ: 怪物さん - 尾丸ポルカ&雪花ラミィ(cover/4K
 UID:6N6kY2_W37k
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】運動会場でLet's play!!【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=BVl_oFTbnIY
+DURATION:PT2H
+DTSTART:20211108T140000Z
+SUMMARY:🍎アキロゼ: 【Minecraft】運動会場でLet's play!!【ホロライブ/アキロゼ】
+UID:BVl_oFTbnIY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【あつ森】別荘がつくれる！？早速やっていかないと！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=KJdDlwzvDC8
 DURATION:PT2H
 DTSTART:20211107T020000Z
@@ -172,11 +256,25 @@ SUMMARY:🐻ときのそら: 【あつ森】別荘がつくれる！？早速や
 UID:KJdDlwzvDC8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT ENDURANCE】Building Day! Carnival and Onsen Work.\nhttps://www.youtube.com/watch?v=QF4coiP2xIs
+DURATION:PT2H
+DTSTART:20211108T020033Z
+SUMMARY:Calli: 【MINECRAFT ENDURANCE】Building Day! Carnival and Onsen Work.
+UID:QF4coiP2xIs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#５】シリーズ初見！！！龍が如く極するしゅばああああああああああああ！！！！！！：YAKUZA KIWAMI【※ネタバレあり】\nhttps://www.youtube.com/watch?v=iEte0-sMB1g
 DURATION:PT2H
 DTSTART:20211107T040000Z
 SUMMARY:🚑大空スバル: 【#５】シリーズ初見！！！龍が如く極するしゅばああああああああああああ！！！！！！：YAKUZA KIWAMI【※ネタバレあり】
 UID:iEte0-sMB1g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【お礼雑談】ゆるっとお喋りしながらSuperchat Reading！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=W3TRRZL0bGw
+DURATION:PT2H
+DTSTART:20211107T150000Z
+SUMMARY:🐏角巻わため: 【お礼雑談】ゆるっとお喋りしながらSuperchat Reading！【角巻わため/ホロライブ４期生】
+UID:W3TRRZL0bGw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【NNN2021】NNN DAY 8 !! Nuts Before Sleep !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=YaZMXH6XZAM
@@ -207,10 +305,10 @@ SUMMARY:❤赤井はあと: 【カメラ枠】本物のロボットつくる！�
 UID:j-Kh0CEa0c4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 夜遊び 】ドキドキ💖【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=FyQTKeTkmtQ
+DESCRIPTION:【 夜遊び 】ドキドキ文芸部!💖DDLCで遊んでみるのら✨【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=FyQTKeTkmtQ
 DURATION:PT2H
 DTSTART:20211108T150000Z
-SUMMARY:🍬姫森ルーナ: 【 夜遊び 】ドキドキ💖【#姫森ルーナ/ホロライブ】
+SUMMARY:🍬姫森ルーナ: 【 夜遊び 】ドキドキ文芸部!💖DDLCで遊んでみるのら✨【#姫森ルーナ/ホロライブ】
 UID:FyQTKeTkmtQ
 END:VEVENT
 BEGIN:VEVENT
@@ -219,174 +317,6 @@ DURATION:PT2H
 DTSTART:20211108T130000Z
 SUMMARY:👯兎田ぺこら: 【邪神ころね】ころ…ｻ…ね…先輩！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
 UID:5EevPsKmHPo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】運動会お疲れ様～カラオケで打ち上げしよかな～🎶【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=ywu8ztHLaVc
-DURATION:PT2H
-DTSTART:20211107T150000Z
-SUMMARY:🤖ロボ子さん: 【歌枠】運動会お疲れ様～カラオケで打ち上げしよかな～🎶【ホロライブ/ロボ子さん】
-UID:ywu8ztHLaVc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ASMR】SPA DAY! Water Sounds\, Ear Massages\, Finding Peace Together!\nhttps://www.youtube.com/watch?v=LwzNCrrVcu0
-DURATION:PT2H
-DTSTART:20211107T125829Z
-SUMMARY:Calli: 【ASMR】SPA DAY! Water Sounds\, Ear Massages\, Finding Peace Together!
-UID:LwzNCrrVcu0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[ACNH: Happy Home Paradise DLC] let me in\nhttps://www.youtube.com/watch?v=IiBHT6yc_wE
-DURATION:PT2H
-DTSTART:20211108T000251Z
-SUMMARY:Gura: [ACNH: Happy Home Paradise DLC] let me in
-UID:IiBHT6yc_wE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－始まってしまった11月を迎え入れる朝－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=Y1WjjO2r3CY
-DURATION:PT2H
-DTSTART:20211108T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－始まってしまった11月を迎え入れる朝－【ホロスターズ/夕刻ロベル】
-UID:Y1WjjO2r3CY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 MemberOnly 】お疲れさま会🍶ひさしぶりの晩酌【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=L3B3822gBO8
-DURATION:PT2H
-DTSTART:20211108T140000Z
-SUMMARY:🌸さくらみこ: 【 MemberOnly 】お疲れさま会🍶ひさしぶりの晩酌【ホロライブ/さくらみこ】
-UID:L3B3822gBO8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【零～濡鴉ノ巫女～リマスター版】幽霊までセクシーになってしまうHD版が怖すぎる。第1夜【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=wk8hKyMz5X4
-DURATION:PT2H
-DTSTART:20211108T133000Z
-SUMMARY:🌺花咲みやび: 【零～濡鴉ノ巫女～リマスター版】幽霊までセクシーになってしまうHD版が怖すぎる。第1夜【花咲みやび/ホロスターズ】
-UID:wk8hKyMz5X4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】ちょっとしたお知らせ！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=5-7gdKYfY1Q
-DURATION:PT2H
-DTSTART:20211108T130000Z
-SUMMARY:雪花ラミィ: 【雑談】ちょっとしたお知らせ！【雪花ラミィ/ホロライブ】
-UID:5-7gdKYfY1Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【hololiveID】555K SUBS SPECIAL : SPICY NOODLE PART 2 ?!?!?【Ayunda Risu】\nhttps://www.youtube.com/watch?v=OjUCbpm-BFE
-DURATION:PT2H
-DTSTART:20211108T120000Z
-SUMMARY:🐿Risu: 【hololiveID】555K SUBS SPECIAL : SPICY NOODLE PART 2 ?!?!?【Ayunda Risu】
-UID:OjUCbpm-BFE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Eternal Return】May The Best Win With @Hakos Baelz Ch. hololive-EN\nhttps://www.youtube.com/watch?v=Hx2WpeyKGOU
-DURATION:PT2H
-DTSTART:20211108T040000Z
-SUMMARY:Kronii: 【Eternal Return】May The Best Win With @Hakos Baelz Ch. hololive-EN
-UID:Hx2WpeyKGOU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【深夜放送】今回怖すぎるってマジ…？【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=GyNMhNoudtI
-DURATION:PT2H
-DTSTART:20211107T070000Z
-SUMMARY:🔥不知火フレア: 【深夜放送】今回怖すぎるってマジ…？【不知火フレア/ホロライブ】
-UID:GyNMhNoudtI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】寝てました【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=sUqvqzpO150
-DURATION:PT2H
-DTSTART:20211106T155500Z
-SUMMARY:🌺花咲みやび: 【雑談】寝てました【花咲みやび/ホロスターズ】
-UID:sUqvqzpO150
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【シャニマス】『Run 4 ???』に触れる男【ホロスターズ/夕刻ロベル】※ネタバレあり\nhttps://www.youtube.com/watch?v=jcctL5RSVs0
-DURATION:PT2H
-DTSTART:20211108T040000Z
-SUMMARY:🍷夕刻ロベル: 【シャニマス】『Run 4 ???』に触れる男【ホロスターズ/夕刻ロベル】※ネタバレあり
-UID:jcctL5RSVs0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#08【FF10】脳筋女騎士の人生初ファイナルファンタジー⚔【白銀ノエル/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=PwQLk1f7IPc
-DURATION:PT2H
-DTSTART:20211107T020000Z
-SUMMARY:⚔白銀ノエル: #08【FF10】脳筋女騎士の人生初ファイナルファンタジー⚔【白銀ノエル/ホロライブ】※ネタバレあり
-UID:PwQLk1f7IPc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【あつまれどうぶつの森】500000億年ぶりに帰ってきました。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=3YrCgzzQn7w
-DURATION:PT2H
-DTSTART:20211106T210000Z
-SUMMARY:🌺花咲みやび: 【あつまれどうぶつの森】500000億年ぶりに帰ってきました。【花咲みやび/ホロスターズ】
-UID:3YrCgzzQn7w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Members only】最近の事とかご報告など…！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=ihXtecLUBxc
-DURATION:PT2H
-DTSTART:20211108T133000Z
-SUMMARY:雪花ラミィ: 【Members only】最近の事とかご報告など…！【雪花ラミィ/ホロライブ】
-UID:ihXtecLUBxc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#かなトワVRホラー】ゾンビ村から脱出せよ！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=6lGvLvtx5jw
-DURATION:PT2H
-DTSTART:20211107T100000Z
-SUMMARY:💫天音かなた: 【#かなトワVRホラー】ゾンビ村から脱出せよ！！！！【天音かなた/ホロライブ】
-UID:6lGvLvtx5jw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】また英語レッスンしてきたので復習も兼ねて雑談【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=dAVpcCLmxbA
-DURATION:PT2H
-DTSTART:20211108T043000Z
-SUMMARY:🦔💨岸堂天真: 【雑談】また英語レッスンしてきたので復習も兼ねて雑談【岸堂天真/ホロスターズ】
-UID:dAVpcCLmxbA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【邪神ころね】同期がゲームになりました【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=lK305MeAcno
-DURATION:PT2H
-DTSTART:20211108T100000Z
-SUMMARY:🍙猫又おかゆ: 【邪神ころね】同期がゲームになりました【猫又おかゆ/ホロライブ】
-UID:lK305MeAcno
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【あつまれどうぶつの森】深夜にまったり遊ぼう🌕✨【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=rAZt_b-SScw
-DURATION:PT2H
-DTSTART:20211107T140000Z
-SUMMARY:🍙猫又おかゆ: 【あつまれどうぶつの森】深夜にまったり遊ぼう🌕✨【猫又おかゆ/ホロライブ】
-UID:rAZt_b-SScw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【深夜放送】ホラー…深夜の放送の闇【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=SOFPaDH6piU
-DURATION:PT2H
-DTSTART:20211107T110000Z
-SUMMARY:🏴☠宝鐘マリン: 【深夜放送】ホラー…深夜の放送の闇【ホロライブ/宝鐘マリン】
-UID:SOFPaDH6piU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Zatsudan】Light zatsudan! Talking about Sports Fes & Others【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=uyxm4PtVtWs
-DURATION:PT2H
-DTSTART:20211108T140000Z
-SUMMARY:Anya: 【Zatsudan】Light zatsudan! Talking about Sports Fes & Others【hololive Indonesia 2nd Generation】
-UID:uyxm4PtVtWs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 凸待ち / Minecraft 】ホロライブ大運動会後夜祭🏳【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=6xS3u53q26g
-DURATION:PT2H
-DTSTART:20211107T130000Z
-SUMMARY:🌸さくらみこ: 【 凸待ち / Minecraft 】ホロライブ大運動会後夜祭🏳【ホロライブ/さくらみこ】
-UID:6xS3u53q26g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】運動会場でLet's play!!【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=BVl_oFTbnIY
-DURATION:PT2H
-DTSTART:20211108T140000Z
-SUMMARY:🍎アキロゼ: 【Minecraft】運動会場でLet's play!!【ホロライブ/アキロゼ】
-UID:BVl_oFTbnIY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【お礼雑談】ゆるっとお喋りしながらSuperchat Reading！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=W3TRRZL0bGw
-DURATION:PT2H
-DTSTART:20211107T150000Z
-SUMMARY:🐏角巻わため: 【お礼雑談】ゆるっとお喋りしながらSuperchat Reading！【角巻わため/ホロライブ４期生】
-UID:W3TRRZL0bGw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【オーバークック2】配信時間ですが、誰も来ませんでした。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=YiRB-JPB1mM
@@ -424,6 +354,20 @@ SUMMARY:🌽白上フブキ: 【マリパ】仲良し！？マリオパーティ
 UID:i_VMFZuZJP8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【歌枠】運動会お疲れ様～カラオケで打ち上げしよかな～🎶【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=ywu8ztHLaVc
+DURATION:PT2H
+DTSTART:20211107T150000Z
+SUMMARY:🤖ロボ子さん: 【歌枠】運動会お疲れ様～カラオケで打ち上げしよかな～🎶【ホロライブ/ロボ子さん】
+UID:ywu8ztHLaVc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ASMR】SPA DAY! Water Sounds\, Ear Massages\, Finding Peace Together!\nhttps://www.youtube.com/watch?v=LwzNCrrVcu0
+DURATION:PT2H
+DTSTART:20211107T125829Z
+SUMMARY:Calli: 【ASMR】SPA DAY! Water Sounds\, Ear Massages\, Finding Peace Together!
+UID:LwzNCrrVcu0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MARIO PARTY SUPERSTARS】Sportsfes Hangover Included! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=bNdMAqaW4no
 DURATION:PT2H
 DTSTART:20211106T203000Z
@@ -431,11 +375,39 @@ SUMMARY:Kiara: 【MARIO PARTY SUPERSTARS】Sportsfes Hangover Included! #kfp #�
 UID:bNdMAqaW4no
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:[ACNH: Happy Home Paradise DLC] let me in\nhttps://www.youtube.com/watch?v=IiBHT6yc_wE
+DURATION:PT2H
+DTSTART:20211108T000251Z
+SUMMARY:Gura: [ACNH: Happy Home Paradise DLC] let me in
+UID:IiBHT6yc_wE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－始まってしまった11月を迎え入れる朝－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=Y1WjjO2r3CY
+DURATION:PT2H
+DTSTART:20211108T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－始まってしまった11月を迎え入れる朝－【ホロスターズ/夕刻ロベル】
+UID:Y1WjjO2r3CY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】運動場貸し切り！一人でも楽しめるもん！！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=UfbKM6ZKLO0
 DURATION:PT2H
 DTSTART:20211108T140000Z
 SUMMARY:🏮夏色まつり: 【Minecraft】運動場貸し切り！一人でも楽しめるもん！！【ホロライブ/夏色まつり】
 UID:UfbKM6ZKLO0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 MemberOnly 】お疲れさま会🍶ひさしぶりの晩酌【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=L3B3822gBO8
+DURATION:PT2H
+DTSTART:20211108T140000Z
+SUMMARY:🌸さくらみこ: 【 MemberOnly 】お疲れさま会🍶ひさしぶりの晩酌【ホロライブ/さくらみこ】
+UID:L3B3822gBO8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【零～濡鴉ノ巫女～リマスター版】幽霊までセクシーになってしまうHD版が怖すぎる。第1夜【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=wk8hKyMz5X4
+DURATION:PT2H
+DTSTART:20211108T133000Z
+SUMMARY:🌺花咲みやび: 【零～濡鴉ノ巫女～リマスター版】幽霊までセクシーになってしまうHD版が怖すぎる。第1夜【花咲みやび/ホロスターズ】
+UID:wk8hKyMz5X4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ロストジャッジメント】やるよおおおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=6z70j7VpVz0
@@ -450,5 +422,19 @@ DURATION:PT2H
 DTSTART:20211107T111408Z
 SUMMARY:🐿Risu: 【NNN2021】NNN DAY 7 !! Stun Seed !!!【Ayunda Risu】
 UID:Oim3nUT44l8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】ちょっとしたお知らせ！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=5-7gdKYfY1Q
+DURATION:PT2H
+DTSTART:20211108T130000Z
+SUMMARY:雪花ラミィ: 【雑談】ちょっとしたお知らせ！【雪花ラミィ/ホロライブ】
+UID:5-7gdKYfY1Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololiveID】555K SUBS SPECIAL : SPICY NOODLE PART 2 ?!?!?【Ayunda Risu】\nhttps://www.youtube.com/watch?v=OjUCbpm-BFE
+DURATION:PT2H
+DTSTART:20211108T120000Z
+SUMMARY:🐿Risu: 【hololiveID】555K SUBS SPECIAL : SPICY NOODLE PART 2 ?!?!?【Ayunda Risu】
+UID:OjUCbpm-BFE
 END:VEVENT
 END:VCALENDAR
