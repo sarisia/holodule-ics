@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【WATCH-A-LONG】GHOST RIDER (2007)\nhttps://www.youtube.com/watch?v=TFkun5Csvzg
-DURATION:PT2H
-DTSTART:20211109T135904Z
-SUMMARY:Calli: 【WATCH-A-LONG】GHOST RIDER (2007)
-UID:TFkun5Csvzg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Animal Crossing: New Horizons】Deserted Island Life Let's Go!!\nhttps://www.youtube.com/watch?v=1XCpFGMqBI4
 DURATION:PT2H
 DTSTART:20211109T030000Z
@@ -18,11 +11,11 @@ SUMMARY:IRyS: 【Animal Crossing: New Horizons】Deserted Island Life Let's Go!!
 UID:1XCpFGMqBI4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ENDURANCE】KARAOKE UNTIL 1.25 MILLION (archived part) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=zWkfx8wx-QY
+DESCRIPTION:【Sana Landing】Look! Up in the sky!\nhttps://www.youtube.com/watch?v=5SvarR1zE74
 DURATION:PT2H
-DTSTART:20211109T220000Z
-SUMMARY:Kiara: 【ENDURANCE】KARAOKE UNTIL 1.25 MILLION (archived part) #kfp #キアライブ
-UID:zWkfx8wx-QY
+DTSTART:20211110T160000Z
+SUMMARY:Sana: 【Sana Landing】Look! Up in the sky!
+UID:5SvarR1zE74
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Unarchived Karaoke】Sana is BACK\nhttps://www.youtube.com/watch?v=EiIgE6RZ7gE
@@ -51,5 +44,19 @@ DURATION:PT2H
 DTSTART:20211109T023000Z
 SUMMARY:Mumei: 【The Legend of Zelda: BOTW】BEAST #holoCouncil
 UID:FqqgW4Iw2qc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ENDURANCE】KARAOKE UNTIL 1.25 MILLION (archived part) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=zWkfx8wx-QY
+DURATION:PT2H
+DTSTART:20211109T220000Z
+SUMMARY:Kiara: 【ENDURANCE】KARAOKE UNTIL 1.25 MILLION (archived part) #kfp #キアライブ
+UID:zWkfx8wx-QY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【WATCH-A-LONG】GHOST RIDER (2007)\nhttps://www.youtube.com/watch?v=TFkun5Csvzg
+DURATION:PT2H
+DTSTART:20211109T135904Z
+SUMMARY:Calli: 【WATCH-A-LONG】GHOST RIDER (2007)
+UID:TFkun5Csvzg
 END:VEVENT
 END:VCALENDAR
