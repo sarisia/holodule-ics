@@ -4,18 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【DUOLINGO】REVIEWING BACK HANGUL ALPHABETS!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=HDg3IBHClZY
+DESCRIPTION:【邪神ころね】キミもころねすきーになるか…？【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=YQ3AbItcDOo
 DURATION:PT2H
-DTSTART:20211111T082712Z
-SUMMARY:Ollie: 【DUOLINGO】REVIEWING BACK HANGUL ALPHABETS!!【Hololive Indonesia 2nd Gen】
-UID:HDg3IBHClZY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PHASMOPHOBIA】APABILA TIDAK KUAT LAMBAIKAN TANGAN KE ARAH KAMERA【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=-kOj9RfA97A
-DURATION:PT2H
-DTSTART:20211111T095911Z
-SUMMARY:Ollie: 【PHASMOPHOBIA】APABILA TIDAK KUAT LAMBAIKAN TANGAN KE ARAH KAMERA【Hololive Indonesia 2nd Gen】
-UID:-kOj9RfA97A
+DTSTART:20211111T140000Z
+SUMMARY:Anya: 【邪神ころね】キミもころねすきーになるか…？【hololive Indonesia 2nd Generation】
+UID:YQ3AbItcDOo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】BRANCHING OUT【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=qNpDf6vCNN8
@@ -39,17 +32,31 @@ SUMMARY:🐿Risu: 【NNN2021】NNN DAY 10 !! DREAM BIG NUTS !!!【Ayunda Risu】
 UID:zwBA32lesfo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】DONE WITH OUTERIOR NOW WE'RE DOING INTERIOR!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=gMXnyevALaw
-DURATION:PT2H
-DTSTART:20211110T062631Z
-SUMMARY:Ollie: 【MINECRAFT】DONE WITH OUTERIOR NOW WE'RE DOING INTERIOR!!【Hololive Indonesia 2nd Gen】
-UID:gMXnyevALaw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Spoiler Alert】Nier Replicant : The Journey Continues... (3) 【Ayunda Risu】\nhttps://www.youtube.com/watch?v=Qdo1yESOS3E
 DURATION:PT2H
 DTSTART:20211110T110000Z
 SUMMARY:🐿Risu: 【Spoiler Alert】Nier Replicant : The Journey Continues... (3) 【Ayunda Risu】
 UID:Qdo1yESOS3E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DUOLINGO】REVIEWING BACK HANGUL ALPHABETS!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=HDg3IBHClZY
+DURATION:PT2H
+DTSTART:20211111T082712Z
+SUMMARY:Ollie: 【DUOLINGO】REVIEWING BACK HANGUL ALPHABETS!!【Hololive Indonesia 2nd Gen】
+UID:HDg3IBHClZY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PHASMOPHOBIA】APABILA TIDAK KUAT LAMBAIKAN TANGAN KE ARAH KAMERA【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=-kOj9RfA97A
+DURATION:PT2H
+DTSTART:20211111T095911Z
+SUMMARY:Ollie: 【PHASMOPHOBIA】APABILA TIDAK KUAT LAMBAIKAN TANGAN KE ARAH KAMERA【Hololive Indonesia 2nd Gen】
+UID:-kOj9RfA97A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】DONE WITH OUTERIOR NOW WE'RE DOING INTERIOR!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=gMXnyevALaw
+DURATION:PT2H
+DTSTART:20211110T062631Z
+SUMMARY:Ollie: 【MINECRAFT】DONE WITH OUTERIOR NOW WE'RE DOING INTERIOR!!【Hololive Indonesia 2nd Gen】
+UID:gMXnyevALaw
 END:VEVENT
 END:VCALENDAR
