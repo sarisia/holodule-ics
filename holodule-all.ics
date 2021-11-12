@@ -53,18 +53,18 @@ SUMMARY:Kronii: 【Blue Archive】Cute Girls? I Gacha​
 UID:h0df4bFHSZk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ACNH】sleepy crossing\nhttps://www.youtube.com/watch?v=ZfE66rwqc68
-DURATION:PT2H
-DTSTART:20211112T020000Z
-SUMMARY:Sana: 【ACNH】sleepy crossing
-UID:ZfE66rwqc68
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【UNARCHIVED】So this is sugar ooowooowowowoo\nhttps://www.youtube.com/watch?v=1X4JqW7ftuc
 DURATION:PT2H
 DTSTART:20211112T075000Z
 SUMMARY:Mumei: 【UNARCHIVED】So this is sugar ooowooowowowoo
 UID:1X4JqW7ftuc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ACNH】sleepy crossing\nhttps://www.youtube.com/watch?v=ZfE66rwqc68
+DURATION:PT2H
+DTSTART:20211112T020000Z
+SUMMARY:Sana: 【ACNH】sleepy crossing
+UID:ZfE66rwqc68
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】🍑お知らせあり！？お披露目あり！？話そうじゃないか🍑 【ホロライブ/桃鈴ねね/ #ねねいろらいぶ】\nhttps://www.youtube.com/watch?v=G455djjwpXM
@@ -137,18 +137,18 @@ SUMMARY:💫天音かなた: 【マリオカート8DX】2時間以内に2人同�
 UID:fYsbyFUcvJc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【BF2042】きたわね…IKUZO！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=PVDG7tbQhO0
-DURATION:PT2H
-DTSTART:20211112T120000Z
-SUMMARY:獅白ぼたん: 【BF2042】きたわね…IKUZO！【獅白ぼたん/ホロライブ】
-UID:PVDG7tbQhO0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Freetalk】i think it's been a while isn't?【Moona】\nhttps://www.youtube.com/watch?v=iO98trObsis
 DURATION:PT2H
 DTSTART:20211112T120000Z
 SUMMARY:🔮Moona: 【Freetalk】i think it's been a while isn't?【Moona】
 UID:iO98trObsis
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【BF2042】きたわね…IKUZO！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=PVDG7tbQhO0
+DURATION:PT2H
+DTSTART:20211112T120000Z
+SUMMARY:獅白ぼたん: 【BF2042】きたわね…IKUZO！【獅白ぼたん/ホロライブ】
+UID:PVDG7tbQhO0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】🍑罰ゲームあり！リスナーVSかなねね対決！！🍑 【桃鈴ねね/ホロライブ/ #かなねね天使杯 】\nhttps://www.youtube.com/watch?v=kte0ZTBEuFE
@@ -396,13 +396,6 @@ SUMMARY:Sana: 【Sana Landing】Look! Up in the sky!
 UID:5SvarR1zE74
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX Legends】祝砲ペクス(ソロ？)【アルランディス/岸堂天真/花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=U_6Gx1XdaUE
-DURATION:PT2H
-DTSTART:20211111T013000Z
-SUMMARY:🍕アルランディス: 【APEX Legends】祝砲ペクス(ソロ？)【アルランディス/岸堂天真/花咲みやび/ホロスターズ】
-UID:U_6Gx1XdaUE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【邪神ころね】ゆびだけは…勘弁してください…🦴【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=CceUYQu8wgE
 DURATION:PT2H
 DTSTART:20211111T083000Z
@@ -415,6 +408,13 @@ DURATION:PT2H
 DTSTART:20211111T110000Z
 SUMMARY:🚑大空スバル: 【#すばおかみょーん】カービィのエアライドこらぼ　Kirby Airride【ホロライブ】
 UID:KHPgVajIF90
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX Legends】祝砲ペクス(ソロ？)【アルランディス/岸堂天真/花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=U_6Gx1XdaUE
+DURATION:PT2H
+DTSTART:20211111T013000Z
+SUMMARY:🍕アルランディス: 【APEX Legends】祝砲ペクス(ソロ？)【アルランディス/岸堂天真/花咲みやび/ホロスターズ】
+UID:U_6Gx1XdaUE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Apex】しごおわご褒美ペク→ w/律可【ホロスターズ/奏手イヅル】\nhttps://www.youtube.com/watch?v=SWdAGBMNd80
@@ -520,6 +520,13 @@ DURATION:PT2H
 DTSTART:20211111T100000Z
 SUMMARY:尾丸ポルカ: 【ポルカの伝説】オレとおまえとぽの大喜利か
 UID:_Dqj1Qgf7dU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Phasmophobia】幽霊？調査？ん？？？？？トワし～～～らね(´；ω；`)💦【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=7G_2D8T1oGQ
+DURATION:PT2H
+DTSTART:20211112T120000Z
+SUMMARY:👾常闇トワ: 【Phasmophobia】幽霊？調査？ん？？？？？トワし～～～らね(´；ω；`)💦【常闇トワ/ホロライブ】
+UID:7G_2D8T1oGQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ネタバレあり】FF14/漆黒のヴィランズをパッチ5.1まで駆け抜けたのでヒカセンと語りたい【ホロライブ/白上フブキ/】\nhttps://www.youtube.com/watch?v=UQWT7YrCXlM
