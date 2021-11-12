@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－11月も半分が過ぎようとしている－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=km6e165YbOk
-DURATION:PT2H
-DTSTART:20211112T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－11月も半分が過ぎようとしている－【ホロスターズ/夕刻ロベル】
-UID:km6e165YbOk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Apex】しごおわご褒美ペク【ホロスターズ/奏手イヅル】\nhttps://www.youtube.com/watch?v=SWdAGBMNd80
-DURATION:PT2H
-DTSTART:20211112T033000Z
-SUMMARY:🎸奏手イヅル: 【Apex】しごおわご褒美ペク【ホロスターズ/奏手イヅル】
-UID:SWdAGBMNd80
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX Legends】祝砲ペクス(ソロ？)【アルランディス/岸堂天真/花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=U_6Gx1XdaUE
 DURATION:PT2H
 DTSTART:20211111T013000Z
@@ -30,5 +16,26 @@ DURATION:PT2H
 DTSTART:20211111T110000Z
 SUMMARY:🍕アルランディス: 【誕生日記念枠】#アルランディス生誕祭2021 俺からみんなにプレゼントもあるよ！【アルランディス/ホロスターズ】
 UID:tLn20qqf3UY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Apex】しごおわご褒美ペク【ホロスターズ/奏手イヅル】\nhttps://www.youtube.com/watch?v=SWdAGBMNd80
+DURATION:PT2H
+DTSTART:20211112T033000Z
+SUMMARY:🎸奏手イヅル: 【Apex】しごおわご褒美ペク【ホロスターズ/奏手イヅル】
+UID:SWdAGBMNd80
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－11月も半分が過ぎようとしている－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=km6e165YbOk
+DURATION:PT2H
+DTSTART:20211112T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－11月も半分が過ぎようとしている－【ホロスターズ/夕刻ロベル】
+UID:km6e165YbOk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #ロベル先生のサイスタ講座 】ホロスタにサイスタを"布教させていただく男"\nhttps://www.youtube.com/watch?v=VG71KctnxYU
+DURATION:PT2H
+DTSTART:20211112T100000Z
+SUMMARY:ホロスターズ: 【 #ロベル先生のサイスタ講座 】ホロスタにサイスタを"布教させていただく男"
+UID:VG71KctnxYU
 END:VEVENT
 END:VCALENDAR
