@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Metroid Dread】metroid bread\nhttps://www.youtube.com/watch?v=JkYlLL0O6zc
+DURATION:PT2H
+DTSTART:20211113T010000Z
+SUMMARY:Sana: 【Metroid Dread】metroid bread
+UID:JkYlLL0O6zc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Chatting & Reading Supas】 Early stream ⛅ konfauna! #holoCouncil\nhttps://www.youtube.com/watch?v=ZWU6_j82wGU
 DURATION:PT2H
 DTSTART:20211112T180000Z
@@ -114,13 +121,6 @@ DURATION:PT2H
 DTSTART:20211112T110000Z
 SUMMARY:Kiara: 【SHIN MEGAMI TENSEI V】Releasing Today! A Look Into The First 2 Hours~ #kfp #キアライブ
 UID:awDNuy0xS3U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Evil God Korone】My Yubi's are in danger\nhttps://www.youtube.com/watch?v=Y_zSoyNsB10
-DURATION:PT2H
-DTSTART:20211113T023000Z
-SUMMARY:IRyS: 【Evil God Korone】My Yubi's are in danger
-UID:Y_zSoyNsB10
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SINGING PRACTICE】Key word is practice\nhttps://www.youtube.com/watch?v=vgKVv8Saywc
