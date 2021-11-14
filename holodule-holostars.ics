@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Apex】俺なりのダイアモンド w/アステル【ホロスターズ/奏手イヅル】\nhttps://www.youtube.com/watch?v=K-C3vBnsFiU
-DURATION:PT2H
-DTSTART:20211113T140000Z
-SUMMARY:🎸奏手イヅル: 【Apex】俺なりのダイアモンド w/アステル【ホロスターズ/奏手イヅル】
-UID:K-C3vBnsFiU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】アスイヅダイヤモンド計画 / astelleda\nhttps://www.youtube.com/watch?v=do3zS6yUwC8
 DURATION:PT2H
 DTSTART:20211113T140000Z
@@ -25,10 +18,24 @@ SUMMARY:🎭アステル・レダ: 【APEX】mildom 2nd Anniversory CUP / astell
 UID:YxpRtX5xgBM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Apex】俺なりのダイアモンド w/アステル【ホロスターズ/奏手イヅル】\nhttps://www.youtube.com/watch?v=K-C3vBnsFiU
+DURATION:PT2H
+DTSTART:20211113T140000Z
+SUMMARY:🎸奏手イヅル: 【Apex】俺なりのダイアモンド w/アステル【ホロスターズ/奏手イヅル】
+UID:K-C3vBnsFiU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】ソロペた民 / astelleda\nhttps://www.youtube.com/watch?v=Ju4W_0VhbJs
 DURATION:PT2H
 DTSTART:20211113T060000Z
 SUMMARY:🎭アステル・レダ: 【APEX】ソロペた民 / astelleda
 UID:Ju4W_0VhbJs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【世界のアソビ大全51】チェス以外なら勝てるかも!?色んなゲームで勝負する!!【花咲みやび/Kureiji Ollie/ホロスターズ】\nhttps://www.youtube.com/watch?v=jtsNuaAPJf0
+DURATION:PT2H
+DTSTART:20211114T120000Z
+SUMMARY:🌺花咲みやび: 【世界のアソビ大全51】チェス以外なら勝てるかも!?色んなゲームで勝負する!!【花咲みやび/Kureiji Ollie/ホロスターズ】
+UID:jtsNuaAPJf0
 END:VEVENT
 END:VCALENDAR
