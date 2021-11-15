@@ -4,27 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【FREETALK】HEY~ HOW'S IT GOING~【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=nIWq8O1BfIk
-DURATION:PT2H
-DTSTART:20211115T115725Z
-SUMMARY:Ollie: 【FREETALK】HEY~ HOW'S IT GOING~【Hololive Indonesia 2nd Gen】
-UID:nIWq8O1BfIk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【NNN2021】NNN DAY 15 !!! NUT SHOOTING CONTEST !!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=Dwf02kb_vMg
-DURATION:PT2H
-DTSTART:20211115T124726Z
-SUMMARY:🐿Risu: 【NNN2021】NNN DAY 15 !!! NUT SHOOTING CONTEST !!【Ayunda Risu】
-UID:Dwf02kb_vMg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【NNN2021】NNN DAY 14 !! TRADE OFFER !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=FMfTD_E2ViQ
-DURATION:PT2H
-DTSTART:20211114T134910Z
-SUMMARY:🐿Risu: 【NNN2021】NNN DAY 14 !! TRADE OFFER !!!【Ayunda Risu】
-UID:FMfTD_E2ViQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Evil God Korone】Offer your yubis and everything will be daijoukay【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=2oqruQ7e7qs
 DURATION:PT2H
 DTSTART:20211115T130000Z
@@ -37,5 +16,19 @@ DURATION:PT2H
 DTSTART:20211115T130000Z
 SUMMARY:🐿Risu: 【Area15】UNTITLED GOOSE GAME di AREA 15 Kali Ini !!!【HololiveID gen 1】
 UID:KauL8ZpAGvg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FREETALK】HEY~ HOW'S IT GOING~【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=nIWq8O1BfIk
+DURATION:PT2H
+DTSTART:20211115T115725Z
+SUMMARY:Ollie: 【FREETALK】HEY~ HOW'S IT GOING~【Hololive Indonesia 2nd Gen】
+UID:nIWq8O1BfIk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【NNN2021】NNN DAY 15 !!! NUT SHOOTING CONTEST !!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=Dwf02kb_vMg
+DURATION:PT2H
+DTSTART:20211115T124726Z
+SUMMARY:🐿Risu: 【NNN2021】NNN DAY 15 !!! NUT SHOOTING CONTEST !!【Ayunda Risu】
+UID:Dwf02kb_vMg
 END:VEVENT
 END:VCALENDAR
