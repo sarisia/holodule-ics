@@ -116,18 +116,18 @@ SUMMARY:🐻ときのそら: 【プロセカ】久々にやりたくなったの
 UID:iPFFQNDcHYA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】おひさしぶり！まったりとマイクラやります🐈【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=7KbPF1zZFsU
-DURATION:PT2H
-DTSTART:20211116T140000Z
-SUMMARY:👾常闇トワ: 【Minecraft】おひさしぶり！まったりとマイクラやります🐈【常闇トワ/ホロライブ】
-UID:7KbPF1zZFsU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】今日だけは仲良くやろうよ！圧テルくん！？【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=cInZ3urAIiY
 DURATION:PT2H
 DTSTART:20211117T110000Z
 SUMMARY:🏮夏色まつり: 【APEX】今日だけは仲良くやろうよ！圧テルくん！？【ホロライブ/夏色まつり】
 UID:cInZ3urAIiY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】おひさしぶり！まったりとマイクラやります🐈【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=7KbPF1zZFsU
+DURATION:PT2H
+DTSTART:20211116T140000Z
+SUMMARY:👾常闇トワ: 【Minecraft】おひさしぶり！まったりとマイクラやります🐈【常闇トワ/ホロライブ】
+UID:7KbPF1zZFsU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】WHAT ELSE SHOULD WE BUILD??【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=BVU3JcT8fnk
@@ -221,13 +221,6 @@ SUMMARY:🍬姫森ルーナ: 【 夜遊び 】「ポケモンでパネポン」�
 UID:2enf89_Ah3g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌】なが〜く歌ったもん勝ち！見せつけてやる選手権【新競技】\nhttps://www.youtube.com/watch?v=bEhr-8LxkWU
-DURATION:PT2H
-DTSTART:20211116T100010Z
-SUMMARY:ホロライブ: 【歌】なが〜く歌ったもん勝ち！見せつけてやる選手権【新競技】
-UID:bEhr-8LxkWU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Bus Simulator 18】地獄のバスツアー天国へ出航！【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=pAe4y2_T-U4
 DURATION:PT2H
 DTSTART:20211117T120000Z
@@ -240,6 +233,13 @@ DURATION:PT2H
 DTSTART:20211117T120000Z
 SUMMARY:Reine: 【Mario Kart 8 Deluxe】UNBAELIEVABLE im good at titles BIRD & RAT GO REICING【hololiveID 2nd gen】
 UID:zMGnYh6vjdQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌】なが〜く歌ったもん勝ち！見せつけてやる選手権【新競技】\nhttps://www.youtube.com/watch?v=bEhr-8LxkWU
+DURATION:PT2H
+DTSTART:20211116T100010Z
+SUMMARY:ホロライブ: 【歌】なが〜く歌ったもん勝ち！見せつけてやる選手権【新競技】
+UID:bEhr-8LxkWU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談/Free talk】あのね！最近ね！！【Aki Rosenthal/ホロライブ】\nhttps://www.youtube.com/watch?v=Iggf-g24JbQ
@@ -270,11 +270,11 @@ SUMMARY:💋癒月ちょこ: 【Minecraft】お宝を釣りあげたい悪魔の
 UID:A3Q36k0XbHU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 歌枠 】可愛いく歌うのら～🎵【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=FojL8-50JtA
+DESCRIPTION:Free Talk! Lama Tak Jumpa! What I've Been Doing This Past 2 Weeks\nhttps://www.youtube.com/watch?v=34LWkfQUDTs
 DURATION:PT2H
-DTSTART:20211116T150500Z
-SUMMARY:🍬姫森ルーナ: 【 歌枠 】可愛いく歌うのら～🎵【#姫森ルーナ/ホロライブ】
-UID:FojL8-50JtA
+DTSTART:20211117T120000Z
+SUMMARY:🎨Iofi: Free Talk! Lama Tak Jumpa! What I've Been Doing This Past 2 Weeks
+UID:34LWkfQUDTs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【視聴者参加】方言スマブラで大暴れしゅばああああああああああああああああああ！！！！/Super Smash Bros.【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=PrnIOGFWyf4
@@ -289,6 +289,13 @@ DURATION:PT2H
 DTSTART:20211117T130000Z
 SUMMARY:🔮Moona: 【#MoonUtau】Sudden Karaoke【Unarchive EN Song only】
 UID:iVNXeJL2WlA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 歌枠 】可愛いく歌うのら～🎵【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=FojL8-50JtA
+DURATION:PT2H
+DTSTART:20211116T150500Z
+SUMMARY:🍬姫森ルーナ: 【 歌枠 】可愛いく歌うのら～🎵【#姫森ルーナ/ホロライブ】
+UID:FojL8-50JtA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【バビロンズフォール】4人マルチ対応のハクスラARPGらしいよ！CBTに突撃～！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=XZDxWVa3YWY
@@ -312,6 +319,13 @@ SUMMARY:👯兎田ぺこら: 【サルゲッチュ3】シリーズ初見でサ�
 UID:1N0FbvR6JJw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】#近代都市アルランディス  ピザ窯駅建築中【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=AezPKPrPMlk
+DURATION:PT2H
+DTSTART:20211117T141500Z
+SUMMARY:🍕アルランディス: 【Minecraft】#近代都市アルランディス  ピザ窯駅建築中【アルランディス/ホロスターズ】
+UID:AezPKPrPMlk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【あつまれどうぶつの森】ひゃっはー！アプデたのしみいいい！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=jxexJEVN60Y
 DURATION:PT2H
 DTSTART:20211117T130000Z
@@ -319,18 +333,18 @@ SUMMARY:🐏角巻わため: 【あつまれどうぶつの森】ひゃっはー
 UID:jxexJEVN60Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－火曜日の朝活、略して朝活－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=gY8mdIA3XlM
-DURATION:PT2H
-DTSTART:20211116T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－火曜日の朝活、略して朝活－【ホロスターズ/夕刻ロベル】
-UID:gY8mdIA3XlM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】アスイヅ Load to Master  / astelleda\nhttps://www.youtube.com/watch?v=qHGX_yj-SV4
 DURATION:PT2H
 DTSTART:20211117T013000Z
 SUMMARY:🎭アステル・レダ: 【APEX】アスイヅ Load to Master  / astelleda
 UID:qHGX_yj-SV4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－火曜日の朝活、略して朝活－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=gY8mdIA3XlM
+DURATION:PT2H
+DTSTART:20211116T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－火曜日の朝活、略して朝活－【ホロスターズ/夕刻ロベル】
+UID:gY8mdIA3XlM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【NNN2021】NNN DAY 17 !! You had Nuts !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=8R_r7uAPiAA
@@ -445,6 +459,13 @@ SUMMARY:🌺花咲みやび: 【深夜放送】深夜だしまったりしよ�
 UID:nPyhIkp5HWA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【JUMP KING】These Rain Drops are Definitely Not Tears of Pain. (feat. Crying in Alone in Voice Chat)\nhttps://www.youtube.com/watch?v=j-QtsaCscyI
+DURATION:PT2H
+DTSTART:20211117T055924Z
+SUMMARY:Calli: 【JUMP KING】These Rain Drops are Definitely Not Tears of Pain. (feat. Crying in Alone in Voice Chat)
+UID:j-QtsaCscyI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【あつまれどうぶつの森】解放！別荘！施設！広場！【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=AuglZjucY8I
 DURATION:PT2H
 DTSTART:20211116T130000Z
@@ -457,13 +478,6 @@ DURATION:PT2H
 DTSTART:20211116T160000Z
 SUMMARY:Kiara: 【Superchat Reading】Superchill Supercats  #kfp #キアライブ
 UID:DlI9Wvk7RgY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【JUMP KING】These Rain Drops are Definitely Not Tears of Pain. (feat. Crying in Alone in Voice Chat)\nhttps://www.youtube.com/watch?v=j-QtsaCscyI
-DURATION:PT2H
-DTSTART:20211117T055924Z
-SUMMARY:Calli: 【JUMP KING】These Rain Drops are Definitely Not Tears of Pain. (feat. Crying in Alone in Voice Chat)
-UID:j-QtsaCscyI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ASMR】耳かきしてさ、一緒に寝ようか / Ear cleaning【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=CFJTXtW9tPc
