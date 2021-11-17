@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【あつまれどうぶつの森】あつまれ！ おれの島 #5【荒咬オウガ　ホロスターズ】\nhttps://www.youtube.com/watch?v=bsTwkor8Z_c
+DURATION:PT2H
+DTSTART:20211117T030000Z
+SUMMARY:荒咬オウガ: 【あつまれどうぶつの森】あつまれ！ おれの島 #5【荒咬オウガ　ホロスターズ】
+UID:bsTwkor8Z_c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#猛者と新人幽霊調査】猛者に囲まれる幽霊調査【夕刻ロベル/ガッチマンV/風見くく/白上フブキ】\nhttps://www.youtube.com/watch?v=yS37aAXA4Tg
 DURATION:PT2H
 DTSTART:20211117T120000Z
@@ -370,7 +377,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【JUMP KING】These Rain Drops are Definitely Not Tears of Pain. (feat. Crying in Alone in Voice Chat)\nhttps://www.youtube.com/watch?v=j-QtsaCscyI
 DURATION:PT2H
-DTSTART:20211117T060000Z
+DTSTART:20211117T055924Z
 SUMMARY:Calli: 【JUMP KING】These Rain Drops are Definitely Not Tears of Pain. (feat. Crying in Alone in Voice Chat)
 UID:j-QtsaCscyI
 END:VEVENT
