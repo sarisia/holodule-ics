@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【スマブラSP】視聴者参加型！！野蛮なゴリラで優勝！！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=_gt1vfdqBPw
-DURATION:PT2H
-DTSTART:20211118T100000Z
-SUMMARY:💫天音かなた: 【スマブラSP】視聴者参加型！！野蛮なゴリラで優勝！！！！！【天音かなた/ホロライブ】
-UID:_gt1vfdqBPw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:UwU\nhttps://www.youtube.com/watch?v=UOFSCbraOnY
 DURATION:PT2H
 DTSTART:20211119T150000Z
 SUMMARY:❤赤井はあと: UwU
 UID:UOFSCbraOnY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スマブラSP】視聴者参加型！！野蛮なゴリラで優勝！！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=_gt1vfdqBPw
+DURATION:PT2H
+DTSTART:20211118T100000Z
+SUMMARY:💫天音かなた: 【スマブラSP】視聴者参加型！！野蛮なゴリラで優勝！！！！！【天音かなた/ホロライブ】
+UID:_gt1vfdqBPw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Phasmophobia】みんなで考えるナイトメア幽霊調査【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=u6jsJ0avWgs
@@ -25,11 +25,11 @@ SUMMARY:🌽白上フブキ: 【Phasmophobia】みんなで考えるナイトメ
 UID:u6jsJ0avWgs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【BIOHAZARD 0】初見バイオ０！そしてエンディング（予定） #4【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=-R9Uos8I_yw
+DESCRIPTION:【＃ぺこマリ1ブロック】1ブロックしかない世界で生き残る。ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=E53D9tfVi4E
 DURATION:PT2H
-DTSTART:20211118T140000Z
-SUMMARY:🔥不知火フレア: 【BIOHAZARD 0】初見バイオ０！そしてエンディング（予定） #4【不知火フレア/ホロライブ】
-UID:-R9Uos8I_yw
+DTSTART:20211118T120000Z
+SUMMARY:👯兎田ぺこら: 【＃ぺこマリ1ブロック】1ブロックしかない世界で生き残る。ぺこ！【ホロライブ/兎田ぺこら】
+UID:E53D9tfVi4E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ポルカの伝説】リプライストラックアウトォ！？\nhttps://www.youtube.com/watch?v=kVmuRI8PElQ
@@ -37,6 +37,13 @@ DURATION:PT2H
 DTSTART:20211118T100000Z
 SUMMARY:尾丸ポルカ: 【ポルカの伝説】リプライストラックアウトォ！？
 UID:kVmuRI8PElQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【深夜放送】多分だいじょうぶではない、帰りたい。【 大空スバル / 大神ミオ 】\nhttps://www.youtube.com/watch?v=cvWfG1TR2fU
+DURATION:PT2H
+DTSTART:20211118T140000Z
+SUMMARY:🌲大神ミオ: 【深夜放送】多分だいじょうぶではない、帰りたい。【 大空スバル / 大神ミオ 】
+UID:cvWfG1TR2fU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【シャイニングパール】念願のダイパリメイクやるぞ！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=hNUpi17Genw
