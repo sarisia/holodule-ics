@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Resident Evil 7】 Calling for backup... send help #holoCouncil\nhttps://www.youtube.com/watch?v=JngX4p9VD8g
-DURATION:PT2H
-DTSTART:20211119T040000Z
-SUMMARY:Fauna: 【Resident Evil 7】 Calling for backup... send help #holoCouncil
-UID:JngX4p9VD8g
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【LET'S CHAT】Superchat Catch-up! #holoCouncil\nhttps://www.youtube.com/watch?v=Py3uLUT-Q1A
 DURATION:PT2H
 DTSTART:20211118T020500Z
@@ -93,5 +86,12 @@ DURATION:PT2H
 DTSTART:20211119T140000Z
 SUMMARY:Kiara: 【POKÉMON SHINING PEARL】Going Blind Into Sinnoh! #kfp #キアライブ
 UID:9rpRAuQzTHs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【EARTHBOUND #03】STEVE Gets the JOB Done!\nhttps://www.youtube.com/watch?v=l-F751HVlLM
+DURATION:PT2H
+DTSTART:20211119T015928Z
+SUMMARY:Calli: 【EARTHBOUND #03】STEVE Gets the JOB Done!
+UID:l-F751HVlLM
 END:VEVENT
 END:VCALENDAR
