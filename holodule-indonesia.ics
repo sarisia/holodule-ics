@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【APEX】WE'RE UNSTOPPABLE TOGETHER!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=EtgqwWIHtYE
-DURATION:PT2H
-DTSTART:20211119T130000Z
-SUMMARY:Ollie: 【APEX】WE'RE UNSTOPPABLE TOGETHER!!【Hololive Indonesia 2nd Gen】
-UID:EtgqwWIHtYE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【NNN2021】NNN DAY 18 !! No nuts ?? GEESE CHAMBER !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=mcfsoDl4OPo
 DURATION:PT2H
 DTSTART:20211118T145455Z
 SUMMARY:🐿Risu: 【NNN2021】NNN DAY 18 !! No nuts ?? GEESE CHAMBER !!!【Ayunda Risu】
 UID:mcfsoDl4OPo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Dead by Daylight】Another Very FUN DBD Bonding Time!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=VfDiFoxHbdI
-DURATION:PT2H
-DTSTART:20211118T130000Z
-SUMMARY:Anya: 【Dead by Daylight】Another Very FUN DBD Bonding Time!【hololive Indonesia 2nd Generation】
-UID:VfDiFoxHbdI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】MOOOO-RNING MINECRAFT【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=rYi3cbZT2-o
@@ -39,6 +25,20 @@ SUMMARY:🐿Risu: 【Minecraft】MINECRRRRRRRRRR【Ayunda Risu】
 UID:qjRCBUm7Tfo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Dead by Daylight】NIJI ID x HOLO ID! We will survive【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=bE-9l0hdzVY
+DURATION:PT2H
+DTSTART:20211118T130000Z
+SUMMARY:Reine: 【Dead by Daylight】NIJI ID x HOLO ID! We will survive【Pavolia Reine/hololiveID 2nd gen】
+UID:bE-9l0hdzVY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】WE'RE UNSTOPPABLE TOGETHER!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=EtgqwWIHtYE
+DURATION:PT2H
+DTSTART:20211119T130000Z
+SUMMARY:Ollie: 【APEX】WE'RE UNSTOPPABLE TOGETHER!!【Hololive Indonesia 2nd Gen】
+UID:EtgqwWIHtYE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Chilling and making storage room for Balai Desa【#MoonArchitect】\nhttps://www.youtube.com/watch?v=DozD74bfhSk
 DURATION:PT2H
 DTSTART:20211118T130000Z
@@ -46,10 +46,17 @@ SUMMARY:🔮Moona: 【Minecraft】Chilling and making storage room for Balai Des
 UID:DozD74bfhSk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Dead by Daylight】NIJI ID x HOLO ID! We will survive【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=bE-9l0hdzVY
+DESCRIPTION:【Dead by Daylight】Another Very FUN DBD Bonding Time!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=VfDiFoxHbdI
 DURATION:PT2H
 DTSTART:20211118T130000Z
-SUMMARY:Reine: 【Dead by Daylight】NIJI ID x HOLO ID! We will survive【Pavolia Reine/hololiveID 2nd gen】
-UID:bE-9l0hdzVY
+SUMMARY:Anya: 【Dead by Daylight】Another Very FUN DBD Bonding Time!【hololive Indonesia 2nd Generation】
+UID:VfDiFoxHbdI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Anya Tidak Jago Gombal\nhttps://www.youtube.com/watch?v=sc7TTtTnzb0
+DURATION:PT2H
+DTSTART:20211119T060839Z
+SUMMARY:IDholo: Anya Tidak Jago Gombal
+UID:sc7TTtTnzb0
 END:VEVENT
 END:VCALENDAR
