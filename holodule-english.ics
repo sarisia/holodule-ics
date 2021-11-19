@@ -4,32 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Resident Evil 7】 Calling for backup... send help #holoCouncil\nhttps://www.youtube.com/watch?v=JngX4p9VD8g
+DURATION:PT2H
+DTSTART:20211119T040000Z
+SUMMARY:Fauna: 【Resident Evil 7】 Calling for backup... send help #holoCouncil
+UID:JngX4p9VD8g
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【DKC: Tropical FREEZE】CANT SPELL FREEZE WITHOUT E Z             B]\nhttps://www.youtube.com/watch?v=_92nbvxRi8g
 DURATION:PT2H
 DTSTART:20211119T230000Z
 SUMMARY:Amelia: 【DKC: Tropical FREEZE】CANT SPELL FREEZE WITHOUT E Z             B]
 UID:_92nbvxRi8g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【LET'S CHAT】Superchat Catch-up! #holoCouncil\nhttps://www.youtube.com/watch?v=Py3uLUT-Q1A
-DURATION:PT2H
-DTSTART:20211118T020500Z
-SUMMARY:Mumei: 【LET'S CHAT】Superchat Catch-up! #holoCouncil
-UID:Py3uLUT-Q1A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ANIMAL CROSSING 2.0】Hanging Out With Ina!!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=EKpDivJY1GA
-DURATION:PT2H
-DTSTART:20211117T210000Z
-SUMMARY:Kiara: 【ANIMAL CROSSING 2.0】Hanging Out With Ina!!!! #kfp #キアライブ
-UID:EKpDivJY1GA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Resident Evil Village】More zombies go boom w/ heartrate monitor 【PART 2】\nhttps://www.youtube.com/watch?v=trIgahERXeQ
-DURATION:PT2H
-DTSTART:20211118T033500Z
-SUMMARY:IRyS: 【Resident Evil Village】More zombies go boom w/ heartrate monitor 【PART 2】
-UID:trIgahERXeQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#Holoscopes】Scorpio Review\nhttps://www.youtube.com/watch?v=7DreuJc_hDM
@@ -39,11 +25,18 @@ SUMMARY:Sana: 【#Holoscopes】Scorpio Review
 UID:7DreuJc_hDM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【POKÉMON SHINING PEARL】Going Blind Into Sinnoh! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=9rpRAuQzTHs
+DESCRIPTION:【Call of Duty®: Vanguard】 Poi...?\nhttps://www.youtube.com/watch?v=sV73WpieOl8
 DURATION:PT2H
-DTSTART:20211119T140000Z
-SUMMARY:Kiara: 【POKÉMON SHINING PEARL】Going Blind Into Sinnoh! #kfp #キアライブ
-UID:9rpRAuQzTHs
+DTSTART:20211118T210000Z
+SUMMARY:Ina: 【Call of Duty®: Vanguard】 Poi...?
+UID:sV73WpieOl8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Ghost Runner】SLICE SLICE\nhttps://www.youtube.com/watch?v=F92OE63cG-U
+DURATION:PT2H
+DTSTART:20211119T020000Z
+SUMMARY:Amelia: 【Ghost Runner】SLICE SLICE
+UID:F92OE63cG-U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【The Legend of Zelda: BOTW】Remember Who You Are Link #holoCouncil\nhttps://www.youtube.com/watch?v=qmnpGysmwmw
@@ -67,46 +60,11 @@ SUMMARY:Gura: its shark!  shark shark shark
 UID:aeNcc6RNFUY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SKYRIM】 I AM THE KIRINBORN #holoCouncil\nhttps://www.youtube.com/watch?v=7cRWumoiTts
+DESCRIPTION:【POKÉMON SHINING PEARL】Going Blind Into Sinnoh! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=9rpRAuQzTHs
 DURATION:PT2H
-DTSTART:20211117T230000Z
-SUMMARY:Fauna: 【SKYRIM】 I AM THE KIRINBORN #holoCouncil
-UID:7cRWumoiTts
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【WATCHALONG】Laputa: Castle in the Sky~\nhttps://www.youtube.com/watch?v=YGzAP4fvG1g
-DURATION:PT2H
-DTSTART:20211120T040000Z
-SUMMARY:Amelia: 【WATCHALONG】Laputa: Castle in the Sky~
-UID:YGzAP4fvG1g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Resident Evil 7】 Calling for backup... send help #holoCouncil\nhttps://www.youtube.com/watch?v=JngX4p9VD8g
-DURATION:PT2H
-DTSTART:20211119T040000Z
-SUMMARY:Fauna: 【Resident Evil 7】 Calling for backup... send help #holoCouncil
-UID:JngX4p9VD8g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Call of Duty®: Vanguard】 Poi...?\nhttps://www.youtube.com/watch?v=sV73WpieOl8
-DURATION:PT2H
-DTSTART:20211118T210000Z
-SUMMARY:Ina: 【Call of Duty®: Vanguard】 Poi...?
-UID:sV73WpieOl8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】TEST RUN\nhttps://www.youtube.com/watch?v=Hq9BBxGqyCY
-DURATION:PT2H
-DTSTART:20211118T044000Z
-SUMMARY:Amelia: 【APEX】TEST RUN
-UID:Hq9BBxGqyCY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Ghost Runner】SLICE SLICE\nhttps://www.youtube.com/watch?v=F92OE63cG-U
-DURATION:PT2H
-DTSTART:20211119T020000Z
-SUMMARY:Amelia: 【Ghost Runner】SLICE SLICE
-UID:F92OE63cG-U
+DTSTART:20211119T140000Z
+SUMMARY:Kiara: 【POKÉMON SHINING PEARL】Going Blind Into Sinnoh! #kfp #キアライブ
+UID:9rpRAuQzTHs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【EARTHBOUND #03】STEVE Gets the JOB Done!\nhttps://www.youtube.com/watch?v=l-F751HVlLM
@@ -114,5 +72,12 @@ DURATION:PT2H
 DTSTART:20211119T015928Z
 SUMMARY:Calli: 【EARTHBOUND #03】STEVE Gets the JOB Done!
 UID:l-F751HVlLM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【WATCHALONG】Laputa: Castle in the Sky~\nhttps://www.youtube.com/watch?v=YGzAP4fvG1g
+DURATION:PT2H
+DTSTART:20211120T040000Z
+SUMMARY:Amelia: 【WATCHALONG】Laputa: Castle in the Sky~
+UID:YGzAP4fvG1g
 END:VEVENT
 END:VCALENDAR
