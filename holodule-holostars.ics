@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【あつまれどうぶつの森】今から始める島クリエイト!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=CB5eyDLJYJ8
-DURATION:PT2H
-DTSTART:20211120T160000Z
-SUMMARY:🌺花咲みやび: 【あつまれどうぶつの森】今から始める島クリエイト!!【花咲みやび/ホロスターズ】
-UID:CB5eyDLJYJ8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MV感想枠】W.I.M.のMV見た？感想言い合おうぜ！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=iwrSR7N_9dg
 DURATION:PT2H
 DTSTART:20211120T145500Z
 SUMMARY:🍕アルランディス: 【MV感想枠】W.I.M.のMV見た？感想言い合おうぜ！【アルランディス/ホロスターズ】
 UID:iwrSR7N_9dg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】謎メンツのAPEX【夕刻ロベル/白百合リリィ/Leia】\nhttps://www.youtube.com/watch?v=0PPp56oZ1qw
-DURATION:PT2H
-DTSTART:20211121T060000Z
-SUMMARY:🍷夕刻ロベル: 【APEX】謎メンツのAPEX【夕刻ロベル/白百合リリィ/Leia】
-UID:0PPp56oZ1qw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:W.I.M. / アルランディス【オリジナルMV】\nhttps://www.youtube.com/watch?v=n7SHBurxQzc
@@ -32,13 +18,6 @@ SUMMARY:🍕アルランディス: W.I.M. / アルランディス【オリジナ
 UID:n7SHBurxQzc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:壁の中にいる!?!?!? #shorts\nhttps://www.youtube.com/watch?v=Z2Ngmae8FC0
-DURATION:PT2H
-DTSTART:20211120T051115Z
-SUMMARY:🍕アルランディス: 壁の中にいる!?!?!? #shorts
-UID:Z2Ngmae8FC0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【弾き語り】緑のおじさんもピアノはじめたのうれしい！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=qQFuCReZrBM
 DURATION:PT2H
 DTSTART:20211120T083000Z
@@ -46,10 +25,38 @@ SUMMARY:🦔💨岸堂天真: 【弾き語り】緑のおじさんもピアノ�
 UID:qQFuCReZrBM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【あつまれどうぶつの森】今から始める島クリエイト!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=CB5eyDLJYJ8
+DURATION:PT2H
+DTSTART:20211120T160000Z
+SUMMARY:🌺花咲みやび: 【あつまれどうぶつの森】今から始める島クリエイト!!【花咲みやび/ホロスターズ】
+UID:CB5eyDLJYJ8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】謎メンツのAPEX【夕刻ロベル/白百合リリィ/Leia】\nhttps://www.youtube.com/watch?v=0PPp56oZ1qw
+DURATION:PT2H
+DTSTART:20211121T060000Z
+SUMMARY:🍷夕刻ロベル: 【APEX】謎メンツのAPEX【夕刻ロベル/白百合リリィ/Leia】
+UID:0PPp56oZ1qw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:壁の中にいる!?!?!? #shorts\nhttps://www.youtube.com/watch?v=Z2Ngmae8FC0
+DURATION:PT2H
+DTSTART:20211120T051115Z
+SUMMARY:🍕アルランディス: 壁の中にいる!?!?!? #shorts
+UID:Z2Ngmae8FC0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Battlefield2042】豪華メンバーによる大会に出させていただく！【そあら/シャークん/スマイル/律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=kwxzzqOqyP4
 DURATION:PT2H
 DTSTART:20211120T132000Z
 SUMMARY:⚙律可: 【Battlefield2042】豪華メンバーによる大会に出させていただく！【そあら/シャークん/スマイル/律可/ホロスターズ】#りつすた
 UID:kwxzzqOqyP4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ブリリアントダイヤモンド】マジで、地下から抜け出せなくて沼。 / アステル\nhttps://www.youtube.com/watch?v=Sv45_QhaiQ4
+DURATION:PT2H
+DTSTART:20211120T173000Z
+SUMMARY:🎭アステル・レダ: 【ブリリアントダイヤモンド】マジで、地下から抜け出せなくて沼。 / アステル
+UID:Sv45_QhaiQ4
 END:VEVENT
 END:VCALENDAR
