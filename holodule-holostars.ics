@@ -4,27 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ブリリアントダイヤモンド】完全初見でダイパリメイクをプレイする男【ホロスターズ/夕刻ロベル】#3\nhttps://www.youtube.com/watch?v=FwRwJ85tEng
-DURATION:PT2H
-DTSTART:20211123T040000Z
-SUMMARY:🍷夕刻ロベル: 【ブリリアントダイヤモンド】完全初見でダイパリメイクをプレイする男【ホロスターズ/夕刻ロベル】#3
-UID:FwRwJ85tEng
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【あつまれどうぶつの森】あつまれ！ おれの島 #7【荒咬オウガ　ホロスターズ】\nhttps://www.youtube.com/watch?v=u26mf14c93A
-DURATION:PT2H
-DTSTART:20211122T154500Z
-SUMMARY:荒咬オウガ: 【あつまれどうぶつの森】あつまれ！ おれの島 #7【荒咬オウガ　ホロスターズ】
-UID:u26mf14c93A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモン ブリリアントダイヤモンド】#3 ポケモン界の百獣の王に俺はなる【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=OVkkAm8Ufu8
-DURATION:PT2H
-DTSTART:20211123T093000Z
-SUMMARY:🍕アルランディス: 【ポケモン ブリリアントダイヤモンド】#3 ポケモン界の百獣の王に俺はなる【アルランディス/ホロスターズ】
-UID:OVkkAm8Ufu8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【朝活】夕刻ロベルの朝活雑談－気づいたらさ、もう11月が終わりを迎えようとしている訳よ－【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=TQuxzxoDJCo
 DURATION:PT2H
 DTSTART:20211124T010000Z
@@ -32,10 +11,24 @@ SUMMARY:🍷夕刻ロベル: 【朝活】夕刻ロベルの朝活雑談－気づ
 UID:TQuxzxoDJCo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ブリリアントダイヤモンド】完全初見でダイパリメイクをプレイする男【ホロスターズ/夕刻ロベル】#3\nhttps://www.youtube.com/watch?v=FwRwJ85tEng
+DURATION:PT2H
+DTSTART:20211123T040000Z
+SUMMARY:🍷夕刻ロベル: 【ブリリアントダイヤモンド】完全初見でダイパリメイクをプレイする男【ホロスターズ/夕刻ロベル】#3
+UID:FwRwJ85tEng
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【昼雑談】アランと一緒にお昼ご飯食べない？ 11/23【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=AlkJGLZCc5A
 DURATION:PT2H
 DTSTART:20211123T030000Z
 SUMMARY:🍕アルランディス: 【昼雑談】アランと一緒にお昼ご飯食べない？ 11/23【アルランディス/ホロスターズ】
 UID:AlkJGLZCc5A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【あつまれどうぶつの森】あつまれ！ おれの島 #7【荒咬オウガ　ホロスターズ】\nhttps://www.youtube.com/watch?v=u26mf14c93A
+DURATION:PT2H
+DTSTART:20211122T154500Z
+SUMMARY:荒咬オウガ: 【あつまれどうぶつの森】あつまれ！ おれの島 #7【荒咬オウガ　ホロスターズ】
+UID:u26mf14c93A
 END:VEVENT
 END:VCALENDAR
