@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【POKEMON: BRILLIANT DIAMOND】FINALE. Fighting For Our Lives at the League. (Nuzlocke Lite Challenge)\nhttps://www.youtube.com/watch?v=UZf1N6fd4vw
+DURATION:PT2H
+DTSTART:20211128T125943Z
+SUMMARY:Calli: 【POKEMON: BRILLIANT DIAMOND】FINALE. Fighting For Our Lives at the League. (Nuzlocke Lite Challenge)
+UID:UZf1N6fd4vw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【初配信振り返り】反省会会場【ラプラスとルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=55N_-HJaFoc
 DURATION:PT2H
 DTSTART:20211127T150000Z
@@ -25,13 +32,6 @@ SUMMARY:👾常闇トワ: 【公式ミラー】Rainbow Six Japan League 昇格�
 UID:4ICF8MQFjVE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ポケモンBDSP】縛り＆並走プレイでシャイニングパール！【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=0pX3Ss-JYEU
-DURATION:PT2H
-DTSTART:20211128T130000Z
-SUMMARY:🏴☠宝鐘マリン: 【ポケモンBDSP】縛り＆並走プレイでシャイニングパール！【ホロライブ/宝鐘マリン】
-UID:0pX3Ss-JYEU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Shortcake SONG #shorts\nhttps://www.youtube.com/watch?v=pbZYQDRMs6g
 DURATION:PT2H
 DTSTART:20211128T162941Z
@@ -51,13 +51,6 @@ DURATION:PT2H
 DTSTART:20211128T150000Z
 SUMMARY:🍬姫森ルーナ: 【 シャイニングパール／ポケモンBDSP 】バッジ４つ目行くのらぞ！💜Pokémon【#姫森ルーナ/ホロライブ】
 UID:5fNb3TFx5JQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンBD】初見！！マリンと並走＆縛りありポケモンだ！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=1EN-7c59YkA
-DURATION:PT2H
-DTSTART:20211128T130000Z
-SUMMARY:💫天音かなた: 【ポケモンBD】初見！！マリンと並走＆縛りありポケモンだ！！【天音かなた/ホロライブ】
-UID:1EN-7c59YkA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:(EN) It's TIME for Class!!! Reine Indonesian Classroom with Kronii #KREINE【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=kIb5mdTFK1I
@@ -100,6 +93,13 @@ DURATION:PT2H
 DTSTART:20211128T090000Z
 SUMMARY:🍬姫森ルーナ: リズムゲームで大暴れ？！｟ヘクステックメイヘム：リーグ・オブ・レジェンド ストーリー｠【#姫森ルーナ/ホロライブ】
 UID:j3jrqI25eYg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】11月最後の月曜日だぁ～！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=9TYZ2vXl1Ps
+DURATION:PT2H
+DTSTART:20211129T000000Z
+SUMMARY:雪花ラミィ: 【雑談】11月最後の月曜日だぁ～！！【雪花ラミィ/ホロライブ】
+UID:9TYZ2vXl1Ps
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ポケモンBD】いつまで地下に潜ってるんですか！出てきなさい！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=yV_PsooyW5k
@@ -228,11 +228,11 @@ SUMMARY:ホロライブ: 【ロボ子先輩しぶといね】ホロのご機嫌�
 UID:i3WZKpM3riE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】11月最後の月曜日だぁ～！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=9TYZ2vXl1Ps
+DESCRIPTION:R.I.P HAACHAMA\nhttps://www.youtube.com/watch?v=6hpNgAa9pq0
 DURATION:PT2H
-DTSTART:20211129T000000Z
-SUMMARY:雪花ラミィ: 【雑談】11月最後の月曜日だぁ～！！【雪花ラミィ/ホロライブ】
-UID:9TYZ2vXl1Ps
+DTSTART:20211128T160444Z
+SUMMARY:❤赤井はあと: R.I.P HAACHAMA
+UID:6hpNgAa9pq0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ロマサガ3】久々の旅、思い出していこう【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=VvekYr86DS4
