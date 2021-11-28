@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【競馬同時視聴】　ジ　ャ　パ　ン　カ　ッ　プ　【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=oZaLliSA96I
+DURATION:PT2H
+DTSTART:20211128T060000Z
+SUMMARY:🍷夕刻ロベル: 【競馬同時視聴】　ジ　ャ　パ　ン　カ　ッ　プ　【ホロスターズ/夕刻ロベル】
+UID:oZaLliSA96I
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】#近代都市アルランディス  今度は何を作ろうかな！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=gorXkzasuDY
 DURATION:PT2H
 DTSTART:20211126T151500Z
