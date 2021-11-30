@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【KARAOKE Re-Broadcast】So this is SUGAR!\nhttps://www.youtube.com/watch?v=ba-M5pqvQ_M
-DURATION:PT2H
-DTSTART:20211130T203000Z
-SUMMARY:Mumei: 【KARAOKE Re-Broadcast】So this is SUGAR!
-UID:ba-M5pqvQ_M
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:FASTEST SMOL AME IN THE WEST\nhttps://www.youtube.com/watch?v=meBHqOOS6LY
 DURATION:PT2H
 DTSTART:20211129T180030Z
@@ -23,6 +16,13 @@ DURATION:PT2H
 DTSTART:20211130T031000Z
 SUMMARY:Mumei: 【Minecraft】Messin Around in Minecraft
 UID:LDbnBmYbOuY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【UNARCHIVED】(rebroadcast) So this is sugar ooowooowowowoo\nhttps://www.youtube.com/watch?v=eKThroIPjv8
+DURATION:PT2H
+DTSTART:20211130T203000Z
+SUMMARY:Mumei: 【UNARCHIVED】(rebroadcast) So this is sugar ooowooowowowoo
+UID:eKThroIPjv8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:wacky inflateable ame\nhttps://www.youtube.com/watch?v=W1pzmL5jQ-0
