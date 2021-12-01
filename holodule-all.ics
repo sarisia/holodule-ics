@@ -144,18 +144,18 @@ SUMMARY:🔥不知火フレア: 【ポケモンBDSP】色違い御三家耐久3�
 UID:gn-Yo17qN7Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【singing】歌【沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=lHlmqbIXMPU
-DURATION:PT2H
-DTSTART:20211201T110000Z
-SUMMARY:沙花叉クロヱ: 【singing】歌【沙花叉クロヱ】
-UID:lHlmqbIXMPU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】たすけて【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=_O1l-4qyCUY
 DURATION:PT2H
 DTSTART:20211201T151500Z
 SUMMARY:荒咬オウガ: 【雑談】たすけて【荒咬オウガ/ホロスターズ】
 UID:_O1l-4qyCUY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【singing】歌【沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=lHlmqbIXMPU
+DURATION:PT2H
+DTSTART:20211201T110000Z
+SUMMARY:沙花叉クロヱ: 【singing】歌【沙花叉クロヱ】
+UID:lHlmqbIXMPU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Lunch Time雑談】ルイを知ってほしいな☆【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=J2Sh82XRwjw
@@ -235,11 +235,11 @@ SUMMARY:🍕アルランディス: 【ポケモン ブリリアントダイア�
 UID:8hHE5ALzlLQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ポケモンBDSP】色違い旅パ/金コイ耐久６日目シーズン２【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=SuSKk6KfHFk
+DESCRIPTION:【 ポケモンBDSP 】バッジ７つ目行くのらぞ！💜Pokémon【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=koU0Ul5ql1A
 DURATION:PT2H
-DTSTART:20211201T143000Z
-SUMMARY:🌽白上フブキ: 【ポケモンBDSP】色違い旅パ/金コイ耐久６日目シーズン２【ホロライブ/白上フブキ】
-UID:SuSKk6KfHFk
+DTSTART:20211201T150000Z
+SUMMARY:🍬姫森ルーナ: 【 ポケモンBDSP 】バッジ７つ目行くのらぞ！💜Pokémon【#姫森ルーナ/ホロライブ】
+UID:koU0Ul5ql1A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ポケモンBDSP】色違い旅パ/金コイ耐久６日目【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=YKvyEb4E07c
@@ -249,11 +249,11 @@ SUMMARY:🌽白上フブキ: 【ポケモンBDSP】色違い旅パ/金コイ耐�
 UID:YKvyEb4E07c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 ポケモンBDSP 】バッジ７つ目行くのらぞ！💜Pokémon【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=koU0Ul5ql1A
+DESCRIPTION:#5 【POKEMON SHINING PEARL】GETTING TO THE SPICY PART.... :O【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=rmlXM1mnmko
 DURATION:PT2H
-DTSTART:20211201T150000Z
-SUMMARY:🍬姫森ルーナ: 【 ポケモンBDSP 】バッジ７つ目行くのらぞ！💜Pokémon【#姫森ルーナ/ホロライブ】
-UID:koU0Ul5ql1A
+DTSTART:20211202T020000Z
+SUMMARY:Reine: #5 【POKEMON SHINING PEARL】GETTING TO THE SPICY PART.... :O【Pavolia Reine/hololiveID 2nd gen】
+UID:rmlXM1mnmko
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【51 Worldwide Classics】HOW WILL OUR CHESS MATCH GO? ONLY TIME WILL TELL【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=FWF_UO9lgHY
@@ -275,13 +275,6 @@ DURATION:PT2H
 DTSTART:20211130T154500Z
 SUMMARY:ラプラス: 雑談
 UID:gV2HOEE5DfQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#5 【POKEMON SHINING PEARL】GETTING TO THE SPICY PART.... :O【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=rmlXM1mnmko
-DURATION:PT2H
-DTSTART:20211202T020000Z
-SUMMARY:Reine: #5 【POKEMON SHINING PEARL】GETTING TO THE SPICY PART.... :O【Pavolia Reine/hololiveID 2nd gen】
-UID:rmlXM1mnmko
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ポケモンBDSP】かなたんと並走！！1/4096の色違い金コイキング耐久！！！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=DkyqZBuYa6s
@@ -506,6 +499,13 @@ DURATION:PT2H
 DTSTART:20211201T070000Z
 SUMMARY:⚔白銀ノエル: #02【ポケモンBDSP】どんどん辛くなる、運も実力のうち【白銀ノエル/ホロライブ】
 UID:u7UCSnLr4yM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DDLC】初見プレイ！文芸部での刺激的な恋！？【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=g-jKInHCMfk
+DURATION:PT2H
+DTSTART:20211201T130000Z
+SUMMARY:鷹嶺ルイ: 【DDLC】初見プレイ！文芸部での刺激的な恋！？【鷹嶺ルイ/ホロライブ】
+UID:g-jKInHCMfk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【お礼雑談】雑談とSuperchat Reading！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=NLSMxm_uLv8
