@@ -74,18 +74,18 @@ SUMMARY:Ina: 【Chatting】 Tabi no Tochuu Behind the Scenes + Chatting!
 UID:aVwrmvyPZuI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝活】金曜日ですけれどもねぇ！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=tpW-TPazMgc
-DURATION:PT2H
-DTSTART:20211203T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】金曜日ですけれどもねぇ！【ホロスターズ/夕刻ロベル】
-UID:tpW-TPazMgc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT DISNEY DLC】A FAMILY FIELD TRIP WITH LAMAMA AND ANIKI!!! 【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=eMUPL0mlx0E
 DURATION:PT2H
 DTSTART:20211203T110000Z
 SUMMARY:Ollie: 【MINECRAFT DISNEY DLC】A FAMILY FIELD TRIP WITH LAMAMA AND ANIKI!!! 【Hololive Indonesia 2nd Gen】
 UID:eMUPL0mlx0E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】金曜日ですけれどもねぇ！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=tpW-TPazMgc
+DURATION:PT2H
+DTSTART:20211203T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】金曜日ですけれどもねぇ！【ホロスターズ/夕刻ロベル】
+UID:tpW-TPazMgc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】１位耐久！！！VS リスナー！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=D2tjfs_Dn7A
@@ -137,6 +137,13 @@ SUMMARY:👾常闇トワ: 【Minecraft】朝活、それはとてもいいこと
 UID:2WRbzIBX9Mo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【重大発表】重大発表アリ！！そして歌う～～～！！KARAOKE！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=rE8bRM6CNls
+DURATION:PT2H
+DTSTART:20211202T150000Z
+SUMMARY:🌙紫咲シオン: 【重大発表】重大発表アリ！！そして歌う～～～！！KARAOKE！【ホロライブ/紫咲シオン】
+UID:rE8bRM6CNls
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ブリリアントダイヤモンド】マフィアのボスが進めるダイパほぼ初見プレイ！ #02【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=-vWTUv-wfaY
 DURATION:PT2H
 DTSTART:20211202T140000Z
@@ -156,13 +163,6 @@ DURATION:PT2H
 DTSTART:20211202T130000Z
 SUMMARY:👯兎田ぺこら: 【#ぺこマリ1ブロック】ウィザーに勝つぞ！！装備を整えよう！！！ぺこ！【ホロライブ/兎田ぺこら】
 UID:5SNYA4jNmZY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【重大発表】重大発表アリ！！そして歌う～～～！！KARAOKE！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=rE8bRM6CNls
-DURATION:PT2H
-DTSTART:20211202T150000Z
-SUMMARY:🌙紫咲シオン: 【重大発表】重大発表アリ！！そして歌う～～～！！KARAOKE！【ホロライブ/紫咲シオン】
-UID:rE8bRM6CNls
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【東武動物公園】初ロケ！晴天！動物大好き！【わちゃスタ#20】\nhttps://www.youtube.com/watch?v=3EwidCqVG-Q
@@ -214,18 +214,18 @@ SUMMARY:Ollie: 【51 Worldwide Classics】HOW WILL OUR CHESS MATCH GO? ONLY TIME
 UID:FWF_UO9lgHY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【深夜放送】深夜の放送はドッキドキ！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=HoQGmyTnuJs
-DURATION:PT2H
-DTSTART:20211202T150000Z
-SUMMARY:🌟夜空メル: 【深夜放送】深夜の放送はドッキドキ！【ホロライブ/夜空メル】
-UID:HoQGmyTnuJs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠】あさうた MorningMorning Guerrilla UTAAAA【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=TclrHbctZuM
 DURATION:PT2H
 DTSTART:20211202T210000Z
 SUMMARY:尾丸ポルカ: 【歌枠】あさうた MorningMorning Guerrilla UTAAAA【尾丸ポルカ/ホロライブ】
 UID:TclrHbctZuM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【深夜放送】深夜の放送はドッキドキ！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=HoQGmyTnuJs
+DURATION:PT2H
+DTSTART:20211202T150000Z
+SUMMARY:🌟夜空メル: 【深夜放送】深夜の放送はドッキドキ！【ホロライブ/夜空メル】
+UID:HoQGmyTnuJs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【IRyS】    【Youtube Music Weekend】\nhttps://www.youtube.com/watch?v=D7Kyu8aL_y8
@@ -319,6 +319,13 @@ SUMMARY:Calli: 【GUILTY GEAR STRIVE】FLAMING HOT Battles With Ina! #HololiveEn
 UID:G8pRBDRftYw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:[ASMR] 高音質であまあま睡眠導入💙いっぱい甘やかしてあげる💙Ear Massage/Sleep Whispering【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=W_oeKQKIG-o
+DURATION:PT2H
+DTSTART:20211203T140000Z
+SUMMARY:💫天音かなた: [ASMR] 高音質であまあま睡眠導入💙いっぱい甘やかしてあげる💙Ear Massage/Sleep Whispering【天音かなた/ホロライブ】
+UID:W_oeKQKIG-o
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Lunch Time雑談】突発！沢山お話しませんか？【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=x7faNcXramQ
 DURATION:PT2H
 DTSTART:20211203T030500Z
@@ -375,18 +382,18 @@ SUMMARY:沙花叉クロヱ: 【雑談】ねぇ、はなそ？【沙花叉クロ�
 UID:tyNvojO4dAo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ブリリアントダイヤモンド】クリア後も楽しむ男【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=LK6lcq7lGRQ
-DURATION:PT2H
-DTSTART:20211202T060000Z
-SUMMARY:🍷夕刻ロベル: 【ブリリアントダイヤモンド】クリア後も楽しむ男【ホロスターズ/夕刻ロベル】
-UID:LK6lcq7lGRQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【FF14】今日は漆黒最後の日!!暁月前にやりのこした事をやりたい!!!!!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=s0EOnh5Cgw8
 DURATION:PT2H
 DTSTART:20211202T070000Z
 SUMMARY:🌺花咲みやび: 【FF14】今日は漆黒最後の日!!暁月前にやりのこした事をやりたい!!!!!!【花咲みやび/ホロスターズ】
 UID:s0EOnh5Cgw8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ブリリアントダイヤモンド】クリア後も楽しむ男【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=LK6lcq7lGRQ
+DURATION:PT2H
+DTSTART:20211202T060000Z
+SUMMARY:🍷夕刻ロベル: 【ブリリアントダイヤモンド】クリア後も楽しむ男【ホロスターズ/夕刻ロベル】
+UID:LK6lcq7lGRQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 OUTLAST 】水こぼして即終了ってマ！？リベンジさせてください【ホロライブ/鷹嶺ルイ】\nhttps://www.youtube.com/watch?v=jNcBiJsEfyw
