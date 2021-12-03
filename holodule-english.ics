@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【GUILTY GEAR STRIVE】FLAMING HOT Battles With Ina! #HololiveEnglish\nhttps://www.youtube.com/watch?v=G8pRBDRftYw
+DURATION:PT2H
+DTSTART:20211203T015932Z
+SUMMARY:Calli: 【GUILTY GEAR STRIVE】FLAMING HOT Battles With Ina! #HololiveEnglish
+UID:G8pRBDRftYw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【HITMAN 2】 slap to kill #holoCouncil\nhttps://www.youtube.com/watch?v=tVjI7AGLel8
 DURATION:PT2H
 DTSTART:20211202T220500Z
 SUMMARY:Fauna: 【HITMAN 2】 slap to kill #holoCouncil
 UID:tVjI7AGLel8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SUPERLIMINAL】BIG BRAIN BIRB 🧠  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=HaePJBOHf8s
+DURATION:PT2H
+DTSTART:20211203T200000Z
+SUMMARY:Kiara: 【SUPERLIMINAL】BIG BRAIN BIRB 🧠  #kfp #キアライブ
+UID:HaePJBOHf8s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:IRyS - YouTube Music Weekend\nhttps://www.youtube.com/watch?v=D7Kyu8aL_y8
@@ -18,18 +32,18 @@ SUMMARY:IRyS: IRyS - YouTube Music Weekend
 UID:D7Kyu8aL_y8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Pokemon: Shining Pearl】Sinnoh Expedition! #5\nhttps://www.youtube.com/watch?v=uEwqAMt-tlM
-DURATION:PT2H
-DTSTART:20211202T024000Z
-SUMMARY:Mumei: 【Pokemon: Shining Pearl】Sinnoh Expedition! #5
-UID:uEwqAMt-tlM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:GTA V  unhinged car yoink gaming shark\nhttps://www.youtube.com/watch?v=4kUKOKIMG9o
 DURATION:PT2H
 DTSTART:20211203T000146Z
 SUMMARY:Gura: GTA V  unhinged car yoink gaming shark
 UID:4kUKOKIMG9o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Grim Reaper’s Live Show Case! Calliope Mori’s YouTube Music Weekend Winter Concert!\nhttps://www.youtube.com/watch?v=-qbtTYZztx8
+DURATION:PT2H
+DTSTART:20211204T180000Z
+SUMMARY:Calli: The Grim Reaper’s Live Show Case! Calliope Mori’s YouTube Music Weekend Winter Concert!
+UID:-qbtTYZztx8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Pokémon Shining Pearl】POKEMON MY BELOVED\nhttps://www.youtube.com/watch?v=HY2U-KpFCRg
@@ -60,48 +74,6 @@ SUMMARY:Amelia: 【Minecraft】1 BLOCK 1 AME
 UID:ltBu2XKnIKI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ORI】Saving The Forest!!! At All Cost! 【And The Blind Forest】#kfp #キアライブ\nhttps://www.youtube.com/watch?v=5Am_1K5HKpM
-DURATION:PT2H
-DTSTART:20211201T151500Z
-SUMMARY:Kiara: 【ORI】Saving The Forest!!! At All Cost! 【And The Blind Forest】#kfp #キアライブ
-UID:5Am_1K5HKpM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】 NEW UPDATE EXPLORATION #holoCouncil\nhttps://www.youtube.com/watch?v=G03BACaqQso
-DURATION:PT2H
-DTSTART:20211201T230000Z
-SUMMARY:Fauna: 【MINECRAFT】 NEW UPDATE EXPLORATION #holoCouncil
-UID:G03BACaqQso
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SUPERLIMINAL】BIG BRAIN BIRB 🧠  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=HaePJBOHf8s
-DURATION:PT2H
-DTSTART:20211203T200000Z
-SUMMARY:Kiara: 【SUPERLIMINAL】BIG BRAIN BIRB 🧠  #kfp #キアライブ
-UID:HaePJBOHf8s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Chatting】 Tabi no Tochuu Behind the Scenes + Chatting!\nhttps://www.youtube.com/watch?v=aVwrmvyPZuI
-DURATION:PT2H
-DTSTART:20211202T211500Z
-SUMMARY:Ina: 【Chatting】 Tabi no Tochuu Behind the Scenes + Chatting!
-UID:aVwrmvyPZuI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Pokémon Shining Pearl】 Every End Marks a New Beginning 【#6】\nhttps://www.youtube.com/watch?v=OzNkRMz0BhY
-DURATION:PT2H
-DTSTART:20211201T210000Z
-SUMMARY:Ina: 【Pokémon Shining Pearl】 Every End Marks a New Beginning 【#6】
-UID:OzNkRMz0BhY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DKC: Tropical FREEZE】Chillin' w/ DK\nhttps://www.youtube.com/watch?v=VIdtsPO30vs
-DURATION:PT2H
-DTSTART:20211202T040500Z
-SUMMARY:Amelia: 【DKC: Tropical FREEZE】Chillin' w/ DK
-UID:VIdtsPO30vs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Frostpunk: The Last Autumn】The City Is Back | #1\nhttps://www.youtube.com/watch?v=ppsywk7BNsY
 DURATION:PT2H
 DTSTART:20211203T040000Z
@@ -109,17 +81,10 @@ SUMMARY:Kronii: 【Frostpunk: The Last Autumn】The City Is Back | #1
 UID:ppsywk7BNsY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【GUILTY GEAR STRIVE】FLAMING HOT Battles With Ina! #HololiveEnglish\nhttps://www.youtube.com/watch?v=G8pRBDRftYw
+DESCRIPTION:【Chatting】 Tabi no Tochuu Behind the Scenes + Chatting!\nhttps://www.youtube.com/watch?v=aVwrmvyPZuI
 DURATION:PT2H
-DTSTART:20211203T015932Z
-SUMMARY:Calli: 【GUILTY GEAR STRIVE】FLAMING HOT Battles With Ina! #HololiveEnglish
-UID:G8pRBDRftYw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Pokémon Shining Pearl】DID SOMEONE SAY POKEMON\nhttps://www.youtube.com/watch?v=OQg20dxMKxI
-DURATION:PT2H
-DTSTART:20211202T000000Z
-SUMMARY:Sana: 【Pokémon Shining Pearl】DID SOMEONE SAY POKEMON
-UID:OQg20dxMKxI
+DTSTART:20211202T211500Z
+SUMMARY:Ina: 【Chatting】 Tabi no Tochuu Behind the Scenes + Chatting!
+UID:aVwrmvyPZuI
 END:VEVENT
 END:VCALENDAR
