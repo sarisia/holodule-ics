@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【GUILTY GEAR STRIVE】FLAMING HOT Battles With Ina! #HololiveEnglish\nhttps://www.youtube.com/watch?v=G8pRBDRftYw
-DURATION:PT2H
-DTSTART:20211203T015932Z
-SUMMARY:Calli: 【GUILTY GEAR STRIVE】FLAMING HOT Battles With Ina! #HololiveEnglish
-UID:G8pRBDRftYw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【HITMAN 2】 slap to kill #holoCouncil\nhttps://www.youtube.com/watch?v=tVjI7AGLel8
 DURATION:PT2H
 DTSTART:20211202T220500Z
 SUMMARY:Fauna: 【HITMAN 2】 slap to kill #holoCouncil
 UID:tVjI7AGLel8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SUPERLIMINAL】BIG BRAIN BIRB 🧠  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=HaePJBOHf8s
-DURATION:PT2H
-DTSTART:20211203T200000Z
-SUMMARY:Kiara: 【SUPERLIMINAL】BIG BRAIN BIRB 🧠  #kfp #キアライブ
-UID:HaePJBOHf8s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PHASMOPHOBIA】Scurryyy\nhttps://www.youtube.com/watch?v=kgWIyD6FVZM
@@ -67,13 +53,6 @@ SUMMARY:Ina: 『旅の途中』  Ninomae Ina'nis (Cover)
 UID:NIv_yYKl9tQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:IRyS  #YouTubeMusicWeekend #Shorts\nhttps://www.youtube.com/watch?v=7ajzieDzR-Y
-DURATION:PT2H
-DTSTART:20211203T192440Z
-SUMMARY:IRyS: IRyS  #YouTubeMusicWeekend #Shorts
-UID:7ajzieDzR-Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】1 BLOCK 1 AME\nhttps://www.youtube.com/watch?v=ltBu2XKnIKI
 DURATION:PT2H
 DTSTART:20211203T230000Z
@@ -86,6 +65,34 @@ DURATION:PT2H
 DTSTART:20211204T025000Z
 SUMMARY:Fauna: 【PHASMOPHOBIA】 Hunt ghosts or hunted by ghosts? #holoCouncil
 UID:ggOc3Zw-tRA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Megaman 2】Can Hope Defeat Airman?! First time playing classic retro platformers!!\nhttps://www.youtube.com/watch?v=lQPNjXLS1Ks
+DURATION:PT2H
+DTSTART:20211204T050000Z
+SUMMARY:IRyS: 【Megaman 2】Can Hope Defeat Airman?! First time playing classic retro platformers!!
+UID:lQPNjXLS1Ks
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SUPERLIMINAL】BIG BRAIN BIRB 🧠  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=HaePJBOHf8s
+DURATION:PT2H
+DTSTART:20211203T200000Z
+SUMMARY:Kiara: 【SUPERLIMINAL】BIG BRAIN BIRB 🧠  #kfp #キアライブ
+UID:HaePJBOHf8s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Chatting】 Tabi no Tochuu Behind the Scenes + Chatting!\nhttps://www.youtube.com/watch?v=aVwrmvyPZuI
+DURATION:PT2H
+DTSTART:20211202T211500Z
+SUMMARY:Ina: 【Chatting】 Tabi no Tochuu Behind the Scenes + Chatting!
+UID:aVwrmvyPZuI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:IRyS  #YouTubeMusicWeekend #Shorts\nhttps://www.youtube.com/watch?v=7ajzieDzR-Y
+DURATION:PT2H
+DTSTART:20211203T192440Z
+SUMMARY:IRyS: IRyS  #YouTubeMusicWeekend #Shorts
+UID:7ajzieDzR-Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】It's been 84 years...  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=ok-2Wr1X-9U
@@ -102,10 +109,10 @@ SUMMARY:Kronii: 【Frostpunk: The Last Autumn】The City Is Back | #1
 UID:ppsywk7BNsY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Chatting】 Tabi no Tochuu Behind the Scenes + Chatting!\nhttps://www.youtube.com/watch?v=aVwrmvyPZuI
+DESCRIPTION:【GUILTY GEAR STRIVE】FLAMING HOT Battles With Ina! #HololiveEnglish\nhttps://www.youtube.com/watch?v=G8pRBDRftYw
 DURATION:PT2H
-DTSTART:20211202T211500Z
-SUMMARY:Ina: 【Chatting】 Tabi no Tochuu Behind the Scenes + Chatting!
-UID:aVwrmvyPZuI
+DTSTART:20211203T015932Z
+SUMMARY:Calli: 【GUILTY GEAR STRIVE】FLAMING HOT Battles With Ina! #HololiveEnglish
+UID:G8pRBDRftYw
 END:VEVENT
 END:VCALENDAR
