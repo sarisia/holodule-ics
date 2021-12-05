@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:『歌ってみた振り返り！』今年は沢山歌ってみたを出しました！！ /  アステル・レダ\nhttps://www.youtube.com/watch?v=JJhneNaM1_Y
+DESCRIPTION:【歌ってみた】Booo! / TOKOTOKO（西沢さんP）covered byアステル&花咲みやび【HOLOSTARS】\nhttps://www.youtube.com/watch?v=TqxrS4mxPew
 DURATION:PT2H
-DTSTART:20211205T160000Z
-SUMMARY:🎭アステル・レダ: 『歌ってみた振り返り！』今年は沢山歌ってみたを出しました！！ /  アステル・レダ
-UID:JJhneNaM1_Y
+DTSTART:20211205T090000Z
+SUMMARY:🌺花咲みやび: 【歌ってみた】Booo! / TOKOTOKO（西沢さんP）covered byアステル&花咲みやび【HOLOSTARS】
+UID:TqxrS4mxPew
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:弾き語りするぜ【奏手イヅル】\nhttps://www.youtube.com/watch?v=0DeVokOPfF0
@@ -39,24 +39,17 @@ SUMMARY:🎭アステル・レダ: 『#アステルレダ3D』未来へ、One Tw
 UID:qNRR8cyGMaY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝活】朝活のお時間です【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=hVOjujQiVHc
-DURATION:PT2H
-DTSTART:20211206T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】朝活のお時間です【ホロスターズ/夕刻ロベル】
-UID:hVOjujQiVHc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】Booo! / TOKOTOKO（西沢さんP）covered byアステル&花咲みやび【HOLOSTARS】\nhttps://www.youtube.com/watch?v=TqxrS4mxPew
-DURATION:PT2H
-DTSTART:20211205T090000Z
-SUMMARY:🌺花咲みやび: 【歌ってみた】Booo! / TOKOTOKO（西沢さんP）covered byアステル&花咲みやび【HOLOSTARS】
-UID:TqxrS4mxPew
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【サイスタ】ネタバレあり！Pavé Étoilesのイベストやエピソード０を見ていく【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=N3hDshsv8YM
 DURATION:PT2H
 DTSTART:20211205T093000Z
 SUMMARY:影山シエン: 【サイスタ】ネタバレあり！Pavé Étoilesのイベストやエピソード０を見ていく【影山シエン/ホロスターズ】
 UID:N3hDshsv8YM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】朝活のお時間です【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=hVOjujQiVHc
+DURATION:PT2H
+DTSTART:20211206T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】朝活のお時間です【ホロスターズ/夕刻ロベル】
+UID:hVOjujQiVHc
 END:VEVENT
 END:VCALENDAR
