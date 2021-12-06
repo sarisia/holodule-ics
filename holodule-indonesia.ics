@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#1stAnyaversary】Thank you\, everyone!!! Party + Exciting Stuffs~【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=qW3q3v504hg
-DURATION:PT2H
-DTSTART:20211205T130000Z
-SUMMARY:Anya: 【#1stAnyaversary】Thank you\, everyone!!! Party + Exciting Stuffs~【hololive Indonesia 2nd Generation】
-UID:qW3q3v504hg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:(day 5) padoru but I pretend to sing it like it’s the ‘80s\nhttps://www.youtube.com/watch?v=wXlMgn9pkj4
 DURATION:PT2H
 DTSTART:20211205T141430Z
@@ -18,11 +11,11 @@ SUMMARY:🐿Risu: (day 5) padoru but I pretend to sing it like it’s the ‘80s
 UID:wXlMgn9pkj4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Rocket League Sideswipe】SOCCER\, ROCKETS\, AND EXPLOSIONS!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=3mb_lxdfNbI
+DESCRIPTION:【#1stAnyaversary】Thank you\, everyone!!! Party + Exciting Stuffs~【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=qW3q3v504hg
 DURATION:PT2H
-DTSTART:20211206T015836Z
-SUMMARY:Ollie: 【Rocket League Sideswipe】SOCCER\, ROCKETS\, AND EXPLOSIONS!!【Hololive Indonesia 2nd Gen】
-UID:3mb_lxdfNbI
+DTSTART:20211205T130000Z
+SUMMARY:Anya: 【#1stAnyaversary】Thank you\, everyone!!! Party + Exciting Stuffs~【hololive Indonesia 2nd Generation】
+UID:qW3q3v504hg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MV】あの青空のせいだ (Ano Aozora no Sei da) ／ Pavolia Reine【Original Song】\nhttps://www.youtube.com/watch?v=dzUfNQaaemk
@@ -30,5 +23,19 @@ DURATION:PT2H
 DTSTART:20211206T120000Z
 SUMMARY:Reine: 【MV】あの青空のせいだ (Ano Aozora no Sei da) ／ Pavolia Reine【Original Song】
 UID:dzUfNQaaemk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#RE1NEversary】It's time to rewatch the debut... AND CELEBRATE【Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=9YI3Kr5B3CA
+DURATION:PT2H
+DTSTART:20211206T130000Z
+SUMMARY:Reine: 【#RE1NEversary】It's time to rewatch the debut... AND CELEBRATE【Reine/hololiveID 2nd gen】
+UID:9YI3Kr5B3CA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Rocket League Sideswipe】SOCCER\, ROCKETS\, AND EXPLOSIONS!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=3mb_lxdfNbI
+DURATION:PT2H
+DTSTART:20211206T015836Z
+SUMMARY:Ollie: 【Rocket League Sideswipe】SOCCER\, ROCKETS\, AND EXPLOSIONS!!【Hololive Indonesia 2nd Gen】
+UID:3mb_lxdfNbI
 END:VEVENT
 END:VCALENDAR
