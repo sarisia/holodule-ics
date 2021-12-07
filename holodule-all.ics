@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:(day 7) padoru but it gets higher that it hits the ceiling\nhttps://www.youtube.com/watch?v=RI8a07y2UqA
+DURATION:PT2H
+DTSTART:20211207T134755Z
+SUMMARY:🐿Risu: (day 7) padoru but it gets higher that it hits the ceiling
+UID:RI8a07y2UqA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【あつまれどうぶつの森】あつまれ！ おれの島 #11【荒咬オウガ　ホロスターズ】\nhttps://www.youtube.com/watch?v=U5mc_5Nz3rA
 DURATION:PT2H
 DTSTART:20211206T161500Z
@@ -613,13 +620,6 @@ SUMMARY:🏴☠宝鐘マリン: 【スマブラSP】リハビリの5勝耐久…
 UID:K5dhZrImq78
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ハンバーガー】第2回マック実食会「グラコロ HappyLive🎶」ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=GmiUuErAEqg
-DURATION:PT2H
-DTSTART:20211207T120000Z
-SUMMARY:👯兎田ぺこら: 【ハンバーガー】第2回マック実食会「グラコロ HappyLive🎶」ぺこ！【ホロライブ/兎田ぺこら】
-UID:GmiUuErAEqg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ポケモンBD】ストーリー一気に進めます！！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=GSEPCWHDtaU
 DURATION:PT2H
 DTSTART:20211206T060000Z
@@ -762,7 +762,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【UNARCHIVED KARAOKE】Musical Numbers I Love! #holomyth\nhttps://www.youtube.com/watch?v=XYs43CYNUgE
 DURATION:PT2H
-DTSTART:20211207T140000Z
+DTSTART:20211207T140500Z
 SUMMARY:Calli: 【UNARCHIVED KARAOKE】Musical Numbers I Love! #holomyth
 UID:XYs43CYNUgE
 END:VEVENT
