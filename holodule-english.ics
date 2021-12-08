@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Drawing Collab】Drawing with Faufau and Meimei!\nhttps://www.youtube.com/watch?v=NeMufnra_GQ
-DURATION:PT2H
-DTSTART:20211208T000000Z
-SUMMARY:Sana: 【Drawing Collab】Drawing with Faufau and Meimei!
-UID:NeMufnra_GQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【IT'S MIDNIGHT】Little Chats and Midnight Supers! #holomyth\nhttps://www.youtube.com/watch?v=JFAkojHSeHE
 DURATION:PT2H
 DTSTART:20211206T150028Z
@@ -44,6 +37,13 @@ DURATION:PT2H
 DTSTART:20211207T020000Z
 SUMMARY:Mumei: I went to the dentist
 UID:IkLgFDGfjNk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【UNARCHIVED】Noise!\nhttps://www.youtube.com/watch?v=lSL77qv-UbQ
+DURATION:PT2H
+DTSTART:20211208T033000Z
+SUMMARY:Mumei: 【UNARCHIVED】Noise!
+UID:lSL77qv-UbQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TTRPG】MYTHBREAKERS EP 6: Hello\, Neighbors.\nhttps://www.youtube.com/watch?v=NRiBYjApl2A
