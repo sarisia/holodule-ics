@@ -4,48 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【朝活】今日も行われる朝活【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=tNE6TJlFsnc
-DURATION:PT2H
-DTSTART:20211209T010000Z
-SUMMARY:🍷夕刻ロベル: 【朝活】今日も行われる朝活【ホロスターズ/夕刻ロベル】
-UID:tNE6TJlFsnc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【お昼に雑談】12/10 実は人間はご飯を食べると元気になる【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=u6sNKq1fbWI
-DURATION:PT2H
-DTSTART:20211210T030000Z
-SUMMARY:🍕アルランディス: 【お昼に雑談】12/10 実は人間はご飯を食べると元気になる【アルランディス/ホロスターズ】
-UID:u6sNKq1fbWI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Apex】ランクやったりやらなかったり【奏手イヅル】\nhttps://www.youtube.com/watch?v=_Zlrrsg96l0
-DURATION:PT2H
-DTSTART:20211209T073000Z
-SUMMARY:🎸奏手イヅル: 【Apex】ランクやったりやらなかったり【奏手イヅル】
-UID:_Zlrrsg96l0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft One Block】もうすでに残機0!!!クリアまで走りきれるのか！? #4【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=MNpadaGZEGk
-DURATION:PT2H
-DTSTART:20211209T140000Z
-SUMMARY:🍕アルランディス: 【Minecraft One Block】もうすでに残機0!!!クリアまで走りきれるのか！? #4【アルランディス/ホロスターズ】
-UID:MNpadaGZEGk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ネタバレ有り】岸堂天真が乙女心を知る日、1日目【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=8VFmj8C88gc
-DURATION:PT2H
-DTSTART:20211210T070000Z
-SUMMARY:🦔💨岸堂天真: 【ネタバレ有り】岸堂天真が乙女心を知る日、1日目【岸堂天真/ホロスターズ】
-UID:8VFmj8C88gc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #ゆるスタキャンプ 】キャンプ帰りのゆるゆる3人衆の会話【花咲みやび/岸堂天真/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=obMjmE71W4E
-DURATION:PT2H
-DTSTART:20211211T100000Z
-SUMMARY:🍕アルランディス: 【 #ゆるスタキャンプ 】キャンプ帰りのゆるゆる3人衆の会話【花咲みやび/岸堂天真/アルランディス/ホロスターズ】
-UID:obMjmE71W4E
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ブリリアントダイヤモンド】マフィアのボスが進めるダイパほぼ初見プレイ！ #03【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=IZpN1m8cYLE
 DURATION:PT2H
 DTSTART:20211209T060000Z
@@ -53,11 +11,25 @@ SUMMARY:影山シエン: 【ブリリアントダイヤモンド】マフィア�
 UID:IZpN1m8cYLE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【朝活】今日も行われる朝活【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=tNE6TJlFsnc
+DURATION:PT2H
+DTSTART:20211209T010000Z
+SUMMARY:🍷夕刻ロベル: 【朝活】今日も行われる朝活【ホロスターズ/夕刻ロベル】
+UID:tNE6TJlFsnc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#17【RiTunes Labo】セッション歌枠：ゲスト『 ＿＿（アンダーバー）』【律可/ホロスターズ 】#りちゅらぼ\nhttps://www.youtube.com/watch?v=HcpryasvV1Y
 DURATION:PT2H
 DTSTART:20211209T120000Z
 SUMMARY:⚙律可: #17【RiTunes Labo】セッション歌枠：ゲスト『 ＿＿（アンダーバー）』【律可/ホロスターズ 】#りちゅらぼ
 UID:HcpryasvV1Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【お昼に雑談】12/10 実は人間はご飯を食べると元気になる【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=u6sNKq1fbWI
+DURATION:PT2H
+DTSTART:20211210T030000Z
+SUMMARY:🍕アルランディス: 【お昼に雑談】12/10 実は人間はご飯を食べると元気になる【アルランディス/ホロスターズ】
+UID:u6sNKq1fbWI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【グランブルーファンタジー】ドラえもんコラボ遊んで見る【ホロスターズ/荒咬オウガ】\nhttps://www.youtube.com/watch?v=I6HTWIOMS_s
@@ -95,11 +67,32 @@ SUMMARY:🍷夕刻ロベル: 【対決枠】夕刻ロベル　VS　ASMR【ホロ
 UID:yMAeohEIm0s
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Apex】ランクやったりやらなかったり【奏手イヅル】\nhttps://www.youtube.com/watch?v=_Zlrrsg96l0
+DURATION:PT2H
+DTSTART:20211209T073000Z
+SUMMARY:🎸奏手イヅル: 【Apex】ランクやったりやらなかったり【奏手イヅル】
+UID:_Zlrrsg96l0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft One Block】もうすでに残機0!!!クリアまで走りきれるのか！? #4【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=MNpadaGZEGk
+DURATION:PT2H
+DTSTART:20211209T140000Z
+SUMMARY:🍕アルランディス: 【Minecraft One Block】もうすでに残機0!!!クリアまで走りきれるのか！? #4【アルランディス/ホロスターズ】
+UID:MNpadaGZEGk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft Disney】オタク君の日常。ソロ編 / アステル\nhttps://www.youtube.com/watch?v=A0_iocueJEY
 DURATION:PT2H
 DTSTART:20211209T090000Z
 SUMMARY:🎭アステル・レダ: 【Minecraft Disney】オタク君の日常。ソロ編 / アステル
 UID:A0_iocueJEY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #ゆるスタキャンプ 】キャンプ帰りのゆるゆる3人衆の会話【花咲みやび/岸堂天真/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=obMjmE71W4E
+DURATION:PT2H
+DTSTART:20211211T100000Z
+SUMMARY:🍕アルランディス: 【 #ゆるスタキャンプ 】キャンプ帰りのゆるゆる3人衆の会話【花咲みやび/岸堂天真/アルランディス/ホロスターズ】
+UID:obMjmE71W4E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【お昼に雑談】見せてもらおうか…アマノフーズの実力とやらを【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Uj6NUao-kpY
