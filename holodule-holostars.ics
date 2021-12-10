@@ -4,18 +4,32 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【お昼に雑談】12/10 実は人間はご飯を食べると元気になる【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=u6sNKq1fbWI
+DURATION:PT2H
+DTSTART:20211210T030000Z
+SUMMARY:🍕アルランディス: 【お昼に雑談】12/10 実は人間はご飯を食べると元気になる【アルランディス/ホロスターズ】
+UID:u6sNKq1fbWI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【オリジナル楽曲MV】Pentas【ホロスターズ】\nhttps://www.youtube.com/watch?v=D5_ktqaiaPw
+DURATION:PT2H
+DTSTART:20211210T110000Z
+SUMMARY:ホロスターズ: 【オリジナル楽曲MV】Pentas【ホロスターズ】
+UID:D5_ktqaiaPw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゆるボスタ夢の国へ】うおおおお！！！案内してくれぇ！！！-Minecraft統合版-【花咲みやび/岸堂天真/影山シエン/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=nVVQH-2XW-g
+DURATION:PT2H
+DTSTART:20211211T110000Z
+SUMMARY:🍕アルランディス: 【ゆるボスタ夢の国へ】うおおおお！！！案内してくれぇ！！！-Minecraft統合版-【花咲みやび/岸堂天真/影山シエン/アルランディス/ホロスターズ】
+UID:nVVQH-2XW-g
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 雑談 】雑talk【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=n_YCqIxAmRg
 DURATION:PT2H
 DTSTART:20211210T150000Z
 SUMMARY:荒咬オウガ: 【 雑談 】雑talk【荒咬オウガ/ホロスターズ】
 UID:n_YCqIxAmRg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft One Block】残機とは何だったのか…ここからが地獄！かも？ #5【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=8uf5rMH2lCI
-DURATION:PT2H
-DTSTART:20211210T140000Z
-SUMMARY:🍕アルランディス: 【Minecraft One Block】残機とは何だったのか…ここからが地獄！かも？ #5【アルランディス/ホロスターズ】
-UID:8uf5rMH2lCI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #ゆるスタキャンプ 】キャンプ帰りのゆるゆる3人衆の会話【花咲みやび/岸堂天真/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=obMjmE71W4E
@@ -32,11 +46,11 @@ SUMMARY:🦔💨岸堂天真: 【ネタバレ有り】岸堂天真が乙女心�
 UID:8VFmj8C88gc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【お昼に雑談】12/10 実は人間はご飯を食べると元気になる【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=u6sNKq1fbWI
+DESCRIPTION:【Minecraft One Block】残機とは何だったのか…ここからが地獄！かも？ #5【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=8uf5rMH2lCI
 DURATION:PT2H
-DTSTART:20211210T030000Z
-SUMMARY:🍕アルランディス: 【お昼に雑談】12/10 実は人間はご飯を食べると元気になる【アルランディス/ホロスターズ】
-UID:u6sNKq1fbWI
+DTSTART:20211210T140000Z
+SUMMARY:🍕アルランディス: 【Minecraft One Block】残機とは何だったのか…ここからが地獄！かも？ #5【アルランディス/ホロスターズ】
+UID:8uf5rMH2lCI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【パワポケR】-ネタバレあり- 実はパワポケ大好き男【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=KthjAn5cYw4
@@ -44,12 +58,5 @@ DURATION:PT2H
 DTSTART:20211210T100000Z
 SUMMARY:🍕アルランディス: 【パワポケR】-ネタバレあり- 実はパワポケ大好き男【アルランディス/ホロスターズ】
 UID:KthjAn5cYw4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【オリジナル楽曲MV】Pentas【ホロスターズ】\nhttps://www.youtube.com/watch?v=D5_ktqaiaPw
-DURATION:PT2H
-DTSTART:20211210T110000Z
-SUMMARY:ホロスターズ: 【オリジナル楽曲MV】Pentas【ホロスターズ】
-UID:D5_ktqaiaPw
 END:VEVENT
 END:VCALENDAR
