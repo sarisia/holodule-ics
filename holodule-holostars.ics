@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft Disney】ホロスタでマイクラディズニーランドに行こう!!!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=kCxkgjkJi_c
+DURATION:PT2H
+DTSTART:20211211T110000Z
+SUMMARY:🌺花咲みやび: 【Minecraft Disney】ホロスタでマイクラディズニーランドに行こう!!!!【花咲みやび/ホロスターズ】
+UID:kCxkgjkJi_c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 #ゆるボスタ夢の国へ 】うおおおお！！！案内してくれぇ！！！-Minecraft統合版-【花咲みやび/岸堂天真/影山シエン/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=nVVQH-2XW-g
 DURATION:PT2H
 DTSTART:20211211T110000Z
 SUMMARY:🍕アルランディス: 【 #ゆるボスタ夢の国へ 】うおおおお！！！案内してくれぇ！！！-Minecraft統合版-【花咲みやび/岸堂天真/影山シエン/アルランディス/ホロスターズ】
 UID:nVVQH-2XW-g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談枠】聞きたいこともある【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=HzCnXq1SVdg
+DURATION:PT2H
+DTSTART:20211211T143000Z
+SUMMARY:⚙律可: 【雑談枠】聞きたいこともある【律可/ホロスターズ】#りつすた
+UID:HzCnXq1SVdg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 雑談 】雑talk【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=n_YCqIxAmRg
@@ -44,12 +58,5 @@ DURATION:PT2H
 DTSTART:20211211T130000Z
 SUMMARY:🎸奏手イヅル: #3 初見で ちびロボ！ やるぞ 【奏手イヅル】
 UID:OaGr0v8Uowo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft Disney】ホロスタでマイクラディズニーランドに行こう!!!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=kCxkgjkJi_c
-DURATION:PT2H
-DTSTART:20211211T110000Z
-SUMMARY:🌺花咲みやび: 【Minecraft Disney】ホロスタでマイクラディズニーランドに行こう!!!!【花咲みやび/ホロスターズ】
-UID:kCxkgjkJi_c
 END:VEVENT
 END:VCALENDAR
