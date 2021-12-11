@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Dead by Daylight】そして産まれ、キラーとなり時々サバイバーとなりたい。それは願望であり、使命。【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=vIr7RqYQrVs
+DURATION:PT2H
+DTSTART:20211211T070000Z
+SUMMARY:ラプラス: 【Dead by Daylight】そして産まれ、キラーとなり時々サバイバーとなりたい。それは願望であり、使命。【ラプラス・ダークネス/ホロライブ】
+UID:vIr7RqYQrVs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【モーリーオンライン】あやめとミオのコラボグッズ！！！二人で全部GET！！！【百鬼あやめ / 大神ミオ】\nhttps://www.youtube.com/watch?v=JQW2D1pz564
 DURATION:PT2H
 DTSTART:20211210T110000Z
@@ -86,13 +93,6 @@ DURATION:PT2H
 DTSTART:20211211T050000Z
 SUMMARY:🐻ときのそら: 【ポケモンBD】図鑑を埋める旅をしていこう！【#ときのそら生放送】
 UID:NtX4k5fOaTM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】寝起きの悪魔のゴールド耐久APEX【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=39UjFH9Uku0
-DURATION:PT2H
-DTSTART:20211211T020000Z
-SUMMARY:💋癒月ちょこ: 【APEX】寝起きの悪魔のゴールド耐久APEX【ホロライブ/癒月ちょこ】
-UID:39UjFH9Uku0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SMOL CALLI CONCERT】Jamming Out in 3D! #holomyth\nhttps://www.youtube.com/watch?v=iLg8GmSv6_o
@@ -604,6 +604,13 @@ DURATION:PT2H
 DTSTART:20211211T110000Z
 SUMMARY:⚔白銀ノエル: 【アナザーエデン】ホロライブ×アナザーエデンWeek３日目ッ💪✨【ホロライブ/白銀ノエル】
 UID:U9GnNgfjpIQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#3 初見で ちびロボ！ やるぞ 【奏手イヅル】\nhttps://www.youtube.com/watch?v=OaGr0v8Uowo
+DURATION:PT2H
+DTSTART:20211211T130000Z
+SUMMARY:🎸奏手イヅル: #3 初見で ちびロボ！ やるぞ 【奏手イヅル】
+UID:OaGr0v8Uowo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#6】龍が如く零やるしゅばあああああああああああああああああ！！！！：YAKUZA ZERO【※ネタバレ有り】\nhttps://www.youtube.com/watch?v=s2Fiq8wGHpw
