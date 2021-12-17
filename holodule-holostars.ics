@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ネタバレ有り】学年1位の女の高校生活最後の1年【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=AzBBHbTAlCQ
+DURATION:PT2H
+DTSTART:20211217T060000Z
+SUMMARY:🦔💨岸堂天真: 【ネタバレ有り】学年1位の女の高校生活最後の1年【岸堂天真/ホロスターズ】
+UID:AzBBHbTAlCQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ポケカしよポケカ #shorts\nhttps://www.youtube.com/watch?v=vFtQEAmgpwM
 DURATION:PT2H
 DTSTART:20211217T030753Z
 SUMMARY:🍕アルランディス: ポケカしよポケカ #shorts
 UID:vFtQEAmgpwM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ドキドキ文芸部】これから始まるんだ、俺の青春ライフ / アステル\nhttps://www.youtube.com/watch?v=NcgqArxEFF4
-DURATION:PT2H
-DTSTART:20211216T130000Z
-SUMMARY:🎭アステル・レダ: 【ドキドキ文芸部】これから始まるんだ、俺の青春ライフ / アステル
-UID:NcgqArxEFF4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【弾き語り枠】うたええええええええ【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=KGnK6T5YaVI
@@ -25,13 +25,6 @@ SUMMARY:⚙律可: 【弾き語り枠】うたええええええええ【律可/
 UID:KGnK6T5YaVI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マリオストーリー】久しぶりに神ゲーをプレイします!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=CNOGWVYFT-U
-DURATION:PT2H
-DTSTART:20211216T141500Z
-SUMMARY:🌺花咲みやび: 【マリオストーリー】久しぶりに神ゲーをプレイします!!【花咲みやび/ホロスターズ】
-UID:CNOGWVYFT-U
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【3D】ライブ直前！ホロスタ体力測定！【 #ホロスタ1stACT 】\nhttps://www.youtube.com/watch?v=BF2c-5aHG4E
 DURATION:PT2H
 DTSTART:20211218T110000Z
@@ -39,17 +32,38 @@ SUMMARY:ホロスターズ: 【3D】ライブ直前！ホロスタ体力測定�
 UID:BF2c-5aHG4E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【圧巻！】梅田サイファーからの刺客！【#わちゃスタ 21】\nhttps://www.youtube.com/watch?v=-Az4vjFoEqY
-DURATION:PT2H
-DTSTART:20211216T100000Z
-SUMMARY:ホロスターズ: 【圧巻！】梅田サイファーからの刺客！【#わちゃスタ 21】
-UID:-Az4vjFoEqY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Emily Wants to Play】VRじゃなくなったのでエミリーちゃんと遊べるはず！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=15wox6lk-bU
 DURATION:PT2H
 DTSTART:20211216T110000Z
 SUMMARY:🍕アルランディス: 【Emily Wants to Play】VRじゃなくなったのでエミリーちゃんと遊べるはず！【アルランディス/ホロスターズ】
 UID:15wox6lk-bU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ドキドキ文芸部】これから始まるんだ、俺の青春ライフ / アステル\nhttps://www.youtube.com/watch?v=NcgqArxEFF4
+DURATION:PT2H
+DTSTART:20211216T130000Z
+SUMMARY:🎭アステル・レダ: 【ドキドキ文芸部】これから始まるんだ、俺の青春ライフ / アステル
+UID:NcgqArxEFF4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX Legends】イベントとか遊ぶぅ～～～～【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=s7EZXIZRgnI
+DURATION:PT2H
+DTSTART:20211217T063000Z
+SUMMARY:🍕アルランディス: 【APEX Legends】イベントとか遊ぶぅ～～～～【アルランディス/ホロスターズ】
+UID:s7EZXIZRgnI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マリオストーリー】久しぶりに神ゲーをプレイします!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=CNOGWVYFT-U
+DURATION:PT2H
+DTSTART:20211216T141500Z
+SUMMARY:🌺花咲みやび: 【マリオストーリー】久しぶりに神ゲーをプレイします!!【花咲みやび/ホロスターズ】
+UID:CNOGWVYFT-U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【圧巻！】梅田サイファーからの刺客！【#わちゃスタ 21】\nhttps://www.youtube.com/watch?v=-Az4vjFoEqY
+DURATION:PT2H
+DTSTART:20211216T100000Z
+SUMMARY:ホロスターズ: 【圧巻！】梅田サイファーからの刺客！【#わちゃスタ 21】
+UID:-Az4vjFoEqY
 END:VEVENT
 END:VCALENDAR
