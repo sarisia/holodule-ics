@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【あつまれどうぶつの森】あつまれ！ おれの島 #13【荒咬オウガ　ホロスターズ】\nhttps://www.youtube.com/watch?v=8iFkWoQnuog
-DURATION:PT2H
-DTSTART:20211217T153000Z
-SUMMARY:荒咬オウガ: 【あつまれどうぶつの森】あつまれ！ おれの島 #13【荒咬オウガ　ホロスターズ】
-UID:8iFkWoQnuog
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ブリリアントダイヤモンド】なーーーーんもでぇへん！！なんも！！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=wR8tlnuWWAw
 DURATION:PT2H
 DTSTART:20211217T154500Z
@@ -18,11 +11,11 @@ SUMMARY:🍷夕刻ロベル: 【ブリリアントダイヤモンド】なーー
 UID:wR8tlnuWWAw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:VRホラーゲームリベンジ #shorts\nhttps://www.youtube.com/watch?v=LIoc4hisbsM
+DESCRIPTION:【深夜雑談】喋るやつ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=965MopxYQWA
 DURATION:PT2H
-DTSTART:20211218T030007Z
-SUMMARY:🍕アルランディス: VRホラーゲームリベンジ #shorts
-UID:LIoc4hisbsM
+DTSTART:20211218T153000Z
+SUMMARY:🍕アルランディス: 【深夜雑談】喋るやつ【アルランディス/ホロスターズ】
+UID:965MopxYQWA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スマブラ】600万から増えません。VIPチャレンジ6日目【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=Qb0yXij_J-8
@@ -30,13 +23,6 @@ DURATION:PT2H
 DTSTART:20211218T053500Z
 SUMMARY:🦔💨岸堂天真: 【スマブラ】600万から増えません。VIPチャレンジ6日目【岸堂天真/ホロスターズ】
 UID:Qb0yXij_J-8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】走れ  / アステル 夕刻ロベル\nhttps://www.youtube.com/watch?v=-gJOyj7Qz0I
-DURATION:PT2H
-DTSTART:20211218T090000Z
-SUMMARY:🎭アステル・レダ: 【歌ってみた】走れ  / アステル 夕刻ロベル
-UID:-gJOyj7Qz0I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【3D】ライブ直前！ホロスタ体力測定！【 #ホロスタ1stACT 】\nhttps://www.youtube.com/watch?v=BF2c-5aHG4E
@@ -51,5 +37,26 @@ DURATION:PT2H
 DTSTART:20211217T150000Z
 SUMMARY:🍕アルランディス: 【Minecraft】村人ガチャ継続中！！！【アルランディス/ホロスターズ】
 UID:G8_P9X3-dl8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【あつまれどうぶつの森】あつまれ！ おれの島 #13【荒咬オウガ　ホロスターズ】\nhttps://www.youtube.com/watch?v=8iFkWoQnuog
+DURATION:PT2H
+DTSTART:20211217T153000Z
+SUMMARY:荒咬オウガ: 【あつまれどうぶつの森】あつまれ！ おれの島 #13【荒咬オウガ　ホロスターズ】
+UID:8iFkWoQnuog
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:VRホラーゲームリベンジ #shorts\nhttps://www.youtube.com/watch?v=LIoc4hisbsM
+DURATION:PT2H
+DTSTART:20211218T030007Z
+SUMMARY:🍕アルランディス: VRホラーゲームリベンジ #shorts
+UID:LIoc4hisbsM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌ってみた】走れ  / アステル 夕刻ロベル\nhttps://www.youtube.com/watch?v=-gJOyj7Qz0I
+DURATION:PT2H
+DTSTART:20211218T090000Z
+SUMMARY:🎭アステル・レダ: 【歌ってみた】走れ  / アステル 夕刻ロベル
+UID:-gJOyj7Qz0I
 END:VEVENT
 END:VCALENDAR
