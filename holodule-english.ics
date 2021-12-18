@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Guilty Gear -Strive-】 TAKOGEKIIIII!!!!\nhttps://www.youtube.com/watch?v=HdlvJJBOY2Y
-DURATION:PT2H
-DTSTART:20211218T220000Z
-SUMMARY:Ina: 【Guilty Gear -Strive-】 TAKOGEKIIIII!!!!
-UID:HdlvJJBOY2Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Blue Archive】Get the girl if I draw!\nhttps://www.youtube.com/watch?v=UJtvyUni-eQ
 DURATION:PT2H
 DTSTART:20211218T230000Z
 SUMMARY:Sana: 【Blue Archive】Get the girl if I draw!
 UID:UJtvyUni-eQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【TEA PARTY】Inviting Some Friends Over For Tea...?! Chatting Collab!\nhttps://www.youtube.com/watch?v=TCg7TY1fNdw
-DURATION:PT2H
-DTSTART:20211219T030000Z
-SUMMARY:Calli: 【TEA PARTY】Inviting Some Friends Over For Tea...?! Chatting Collab!
-UID:TCg7TY1fNdw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Mario Party Superstars】Viewers Vs. YOUR BOSS #kfp #キアライブ\nhttps://www.youtube.com/watch?v=P-UzzDksEWE
@@ -39,11 +25,11 @@ SUMMARY:Fauna: 【Getting Over It】 STREAM DOESN'T END UNTIL I WIN #holoCouncil
 UID:Dtupys1isYc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[GROOVE COASTER: WAI WAI PARTY!!!!] IM IN THE GAME! #GAWRGURA\nhttps://www.youtube.com/watch?v=F3Mx3-2W164
+DESCRIPTION:【Hollow Knight】And We Are Back | #7\nhttps://www.youtube.com/watch?v=FUiOVgRVpb4
 DURATION:PT2H
-DTSTART:20211218T010137Z
-SUMMARY:Gura: [GROOVE COASTER: WAI WAI PARTY!!!!] IM IN THE GAME! #GAWRGURA
-UID:F3Mx3-2W164
+DTSTART:20211219T040000Z
+SUMMARY:Kronii: 【Hollow Knight】And We Are Back | #7
+UID:FUiOVgRVpb4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】berry lovers only\nhttps://www.youtube.com/watch?v=pTmR-A7NXbY
@@ -51,5 +37,26 @@ DURATION:PT2H
 DTSTART:20211218T031500Z
 SUMMARY:Mumei: 【Minecraft】berry lovers only
 UID:pTmR-A7NXbY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[GROOVE COASTER: WAI WAI PARTY!!!!] IM IN THE GAME! #GAWRGURA\nhttps://www.youtube.com/watch?v=F3Mx3-2W164
+DURATION:PT2H
+DTSTART:20211218T010137Z
+SUMMARY:Gura: [GROOVE COASTER: WAI WAI PARTY!!!!] IM IN THE GAME! #GAWRGURA
+UID:F3Mx3-2W164
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【TEA PARTY】Inviting Some Friends Over For Tea...?! Chatting Collab!\nhttps://www.youtube.com/watch?v=TCg7TY1fNdw
+DURATION:PT2H
+DTSTART:20211219T030000Z
+SUMMARY:Calli: 【TEA PARTY】Inviting Some Friends Over For Tea...?! Chatting Collab!
+UID:TCg7TY1fNdw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Guilty Gear -Strive-】 TAKOGEKIIIII!!!!\nhttps://www.youtube.com/watch?v=HdlvJJBOY2Y
+DURATION:PT2H
+DTSTART:20211218T220000Z
+SUMMARY:Ina: 【Guilty Gear -Strive-】 TAKOGEKIIIII!!!!
+UID:HdlvJJBOY2Y
 END:VEVENT
 END:VCALENDAR
