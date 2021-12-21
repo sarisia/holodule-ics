@@ -11,13 +11,6 @@ SUMMARY:🍷夕刻ロベル: 【朝活】どうも、月曜日を迎えた人で
 UID:g4qNFe-btpg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Emily】3D配信で倒せなかった敵を討つ。【 岸堂天真/花咲みやび /ホロスターズ】\nhttps://www.youtube.com/watch?v=oEEPkfVGzX4
-DURATION:PT2H
-DTSTART:20211220T110000Z
-SUMMARY:🦔💨岸堂天真: 【Emily】3D配信で倒せなかった敵を討つ。【 岸堂天真/花咲みやび /ホロスターズ】
-UID:oEEPkfVGzX4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ーーーーー】ーーーーーーーーー\nhttps://www.youtube.com/watch?v=98aqmvP2-xk
 DURATION:PT2H
 DTSTART:20211222T100000Z
@@ -30,27 +23,6 @@ DURATION:PT2H
 DTSTART:20211221T120000Z
 SUMMARY:荒咬オウガ: 【あつまれどうぶつの森】あつまれ！ おれの島 #14【荒咬オウガ　ホロスターズ】
 UID:DmDR4qzPIXs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【飲酒雑談】居酒屋ARNでかく語りき-GUEST：アンジュ・カトリーナ様【アンジュ・カトリーナ/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=xbMiZmyL28Y
-DURATION:PT2H
-DTSTART:20211220T120000Z
-SUMMARY:🍕アルランディス: 【飲酒雑談】居酒屋ARNでかく語りき-GUEST：アンジュ・カトリーナ様【アンジュ・カトリーナ/アルランディス/ホロスターズ】
-UID:xbMiZmyL28Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:決して戻れない戦いに挑むやつの最後のセリフ選手権 #shorts\nhttps://www.youtube.com/watch?v=VkQz2qt1nVk
-DURATION:PT2H
-DTSTART:20211220T030017Z
-SUMMARY:🍕アルランディス: 決して戻れない戦いに挑むやつの最後のセリフ選手権 #shorts
-UID:VkQz2qt1nVk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【告知】嬉しいポロリ有り【奏手イヅル/アステル・レダ/花咲みやび/岸堂天真】\nhttps://www.youtube.com/watch?v=F0HYncCxSgg
-DURATION:PT2H
-DTSTART:20211220T143000Z
-SUMMARY:🎸奏手イヅル: 【告知】嬉しいポロリ有り【奏手イヅル/アステル・レダ/花咲みやび/岸堂天真】
-UID:F0HYncCxSgg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ネタバレあり】【ときメモ最終回】本多くん、大好きです。【岸堂天真/ホロスターズ】【告白シーンあり】\nhttps://www.youtube.com/watch?v=59P5PFRfjoU
@@ -88,11 +60,32 @@ SUMMARY:⚙律可: 【弾き語り枠】あと６日だし歌っておく！【�
 UID:RalSMqwy1Zw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】もう少しでライブなので歌う!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=zX1o5CipO3c
+DESCRIPTION:『karaoke_歌枠』寝起きです。寝起き！？！？！？？  /  アステル・レダ\nhttps://www.youtube.com/watch?v=yJ0UAcCKw2M
 DURATION:PT2H
-DTSTART:20211221T080000Z
-SUMMARY:🌺花咲みやび: 【歌枠】もう少しでライブなので歌う!!【花咲みやび/ホロスターズ】
-UID:zX1o5CipO3c
+DTSTART:20211221T123000Z
+SUMMARY:🎭アステル・レダ: 『karaoke_歌枠』寝起きです。寝起き！？！？！？？  /  アステル・レダ
+UID:yJ0UAcCKw2M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Emily】3D配信で倒せなかった敵を討つ。【 岸堂天真/花咲みやび /ホロスターズ】\nhttps://www.youtube.com/watch?v=oEEPkfVGzX4
+DURATION:PT2H
+DTSTART:20211220T110000Z
+SUMMARY:🦔💨岸堂天真: 【Emily】3D配信で倒せなかった敵を討つ。【 岸堂天真/花咲みやび /ホロスターズ】
+UID:oEEPkfVGzX4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【飲酒雑談】居酒屋ARNでかく語りき-GUEST：アンジュ・カトリーナ様【アンジュ・カトリーナ/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=xbMiZmyL28Y
+DURATION:PT2H
+DTSTART:20211220T120000Z
+SUMMARY:🍕アルランディス: 【飲酒雑談】居酒屋ARNでかく語りき-GUEST：アンジュ・カトリーナ様【アンジュ・カトリーナ/アルランディス/ホロスターズ】
+UID:xbMiZmyL28Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:決して戻れない戦いに挑むやつの最後のセリフ選手権 #shorts\nhttps://www.youtube.com/watch?v=VkQz2qt1nVk
+DURATION:PT2H
+DTSTART:20211220T030017Z
+SUMMARY:🍕アルランディス: 決して戻れない戦いに挑むやつの最後のセリフ選手権 #shorts
+UID:VkQz2qt1nVk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロスタ占い】ゆるっと！ホロスタ占い【アルランディス】#ホロスタ占い #Shorts\nhttps://www.youtube.com/watch?v=oT2a2y8PnS8
@@ -100,6 +93,27 @@ DURATION:PT2H
 DTSTART:20211219T230032Z
 SUMMARY:ホロスターズ: 【#ホロスタ占い】ゆるっと！ホロスタ占い【アルランディス】#ホロスタ占い #Shorts
 UID:oT2a2y8PnS8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】もう少しでライブなので歌う!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=zX1o5CipO3c
+DURATION:PT2H
+DTSTART:20211221T080000Z
+SUMMARY:🌺花咲みやび: 【歌枠】もう少しでライブなので歌う!!【花咲みやび/ホロスターズ】
+UID:zX1o5CipO3c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【告知】嬉しいポロリ有り【奏手イヅル/アステル・レダ/花咲みやび/岸堂天真】\nhttps://www.youtube.com/watch?v=F0HYncCxSgg
+DURATION:PT2H
+DTSTART:20211220T143000Z
+SUMMARY:🎸奏手イヅル: 【告知】嬉しいポロリ有り【奏手イヅル/アステル・レダ/花咲みやび/岸堂天真】
+UID:F0HYncCxSgg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ロベまり地下バトル】 地 下 1 0 分 バ ト ル V S 兎 鞠 ま り【夕刻ロベル/兎鞠まり】\nhttps://www.youtube.com/watch?v=8h4xkGoqG-M
+DURATION:PT2H
+DTSTART:20211221T100000Z
+SUMMARY:🍷夕刻ロベル: 【#ロベまり地下バトル】 地 下 1 0 分 バ ト ル V S 兎 鞠 ま り【夕刻ロベル/兎鞠まり】
+UID:8h4xkGoqG-M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】畑ビル建設中だよ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=UJgSeUW7zKI
