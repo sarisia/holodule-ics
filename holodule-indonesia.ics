@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:(day 21) I tried singing padoru but I think I sang an entirely different song\nhttps://www.youtube.com/watch?v=ExpXGEFwUtM
+DURATION:PT2H
+DTSTART:20211221T142958Z
+SUMMARY:🐿Risu: (day 21) I tried singing padoru but I think I sang an entirely different song
+UID:ExpXGEFwUtM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Pokemon Brilliant Diamond】WHERE DID WE LEFT OFF AGAIN?? ANYWAYS\, NUZLOCKE!!【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=Pg7HjQ8gcCQ
 DURATION:PT2H
 DTSTART:20211221T020016Z
@@ -18,11 +25,11 @@ SUMMARY:Anya: 【Lost in Random】Roll the dice\, and let the wheel of fortune d
 UID:OdXYCSeJZF4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#holoIDWeek2021 ! Senin Produktif Special Mengenang Momen Bersama holoID + Announcement\nhttps://www.youtube.com/watch?v=7dzgzTa5TGU
+DESCRIPTION:【#MoonUtau】SINGING IN After Party!!!【Unarchive】\nhttps://www.youtube.com/watch?v=4wp22E_HEfg
 DURATION:PT2H
-DTSTART:20211220T120000Z
-SUMMARY:🎨Iofi: #holoIDWeek2021 ! Senin Produktif Special Mengenang Momen Bersama holoID + Announcement
-UID:7dzgzTa5TGU
+DTSTART:20211221T150000Z
+SUMMARY:🔮Moona: 【#MoonUtau】SINGING IN After Party!!!【Unarchive】
+UID:4wp22E_HEfg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【holoIDWeek 2021】Let's sings hololive songs!【#MoonUtau】\nhttps://www.youtube.com/watch?v=RaTUYtv-Egw
@@ -32,24 +39,17 @@ SUMMARY:🔮Moona: 【holoIDWeek 2021】Let's sings hololive songs!【#MoonUtau�
 UID:RaTUYtv-Egw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:(day 20) RISU ??? BRO ??????? WISNU ???? NO ???\nhttps://www.youtube.com/watch?v=UOiEt9dOcrs
-DURATION:PT2H
-DTSTART:20211220T143557Z
-SUMMARY:🐿Risu: (day 20) RISU ??? BRO ??????? WISNU ???? NO ???
-UID:UOiEt9dOcrs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】HANGIN IN THE SERVER!! LET'S TRY TO BUILD STUFFS!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=RtZgCrwlpTk
-DURATION:PT2H
-DTSTART:20211220T135945Z
-SUMMARY:Ollie: 【MINECRAFT】HANGIN IN THE SERVER!! LET'S TRY TO BUILD STUFFS!!【Hololive Indonesia 2nd Gen】
-UID:RtZgCrwlpTk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#7 【POKEMON SHINING PEARL】H U N T I N G【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=GLtuYp1s5kM
 DURATION:PT2H
 DTSTART:20211221T020000Z
 SUMMARY:Reine: #7 【POKEMON SHINING PEARL】H U N T I N G【Pavolia Reine/hololiveID 2nd gen】
 UID:GLtuYp1s5kM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#holoIDWeek2021】HOLOID WEEK SPECIAL : VS RISU DELUXE EDITION【VSRisu】\nhttps://www.youtube.com/watch?v=sjf90YcMAmk
+DURATION:PT2H
+DTSTART:20211223T120000Z
+SUMMARY:🐿Risu: 【#holoIDWeek2021】HOLOID WEEK SPECIAL : VS RISU DELUXE EDITION【VSRisu】
+UID:sjf90YcMAmk
 END:VEVENT
 END:VCALENDAR
