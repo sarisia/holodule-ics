@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【あつまれどうぶつの森】あつまれ！ おれの島 #14【荒咬オウガ　ホロスターズ】\nhttps://www.youtube.com/watch?v=DmDR4qzPIXs
-DURATION:PT2H
-DTSTART:20211221T120000Z
-SUMMARY:荒咬オウガ: 【あつまれどうぶつの森】あつまれ！ おれの島 #14【荒咬オウガ　ホロスターズ】
-UID:DmDR4qzPIXs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ゼルダの伝説 ブレス オブ ザ ワイルド】脳を活性化して癒しを与える最強のゼルダ｜完全初見のBotW ＃9【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=LJDZiP4BIeI
 DURATION:PT2H
 DTSTART:20211220T000000Z
@@ -60,6 +53,13 @@ SUMMARY:💫天音かなた: 【アソビ大全】１時間自分を「にゃん
 UID:DzOscca4plM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【歌枠】バブ【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=9pjdvXE_ND0
+DURATION:PT2H
+DTSTART:20211221T143000Z
+SUMMARY:ラプラス: 【歌枠】バブ【ラプラス・ダークネス/ホロライブ】
+UID:9pjdvXE_ND0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【世界のアソビ大全51】どちらが真の様にふさわしいのかゲームで決めよう！【常闇トワ&ラプラス・ダークネス】\nhttps://www.youtube.com/watch?v=0QbqMUQDuEo
 DURATION:PT2H
 DTSTART:20211222T133000Z
@@ -93,6 +93,13 @@ DURATION:PT2H
 DTSTART:20211221T120000Z
 SUMMARY:桃鈴ねね: 【3DLIVE】桃鈴ねね x 星街すいせい x 常闇トワ　Christmas Live【 #ねねすいトワクリスマスライブ 】
 UID:VVQQcI6r3NU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【クリスマスじゃん？】もうすぐね！！！お披露目【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=sZBRtA0XBms
+DURATION:PT2H
+DTSTART:20211221T130000Z
+SUMMARY:🐻ときのそら: 【クリスマスじゃん？】もうすぐね！！！お披露目【#ときのそら生放送】
+UID:sZBRtA0XBms
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリカ８】よちよち歩きの修行！リスナー参加型マリカ！【ホロライブ / 大神ミオ】\nhttps://www.youtube.com/watch?v=f-xWJjD3mIA
@@ -256,6 +263,13 @@ SUMMARY:博衣こより: 【朝こよ#6】寝坊しなくてえらい！【博�
 UID:XsifYL990c8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【SIMS4】XMAS WITH COUNCIL (and Myth maybe?) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=ulCbP2Zk1hA
+DURATION:PT2H
+DTSTART:20211221T180000Z
+SUMMARY:Kiara: 【SIMS4】XMAS WITH COUNCIL (and Myth maybe?) #kfp #キアライブ
+UID:ulCbP2Zk1hA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Lost in Random】Roll the dice\, and let the wheel of fortune decide! 【hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=OdXYCSeJZF4
 DURATION:PT2H
 DTSTART:20211221T143000Z
@@ -268,6 +282,13 @@ DURATION:PT2H
 DTSTART:20211220T100000Z
 SUMMARY:⚔白銀ノエル: 【雑談】ただいま！！バーチャル九州から戻っ太郎～✨【白銀ノエル/ホロライブ】
 UID:Oz5tnn8zKU0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #神岡家​ 】神岡家の気まぐれにゃじお クリスマスオフ会🎅【椎名唯華と猫又おかゆ】\nhttps://www.youtube.com/watch?v=V82ktyhWXDE
+DURATION:PT2H
+DTSTART:20211221T130000Z
+SUMMARY:🍙猫又おかゆ: 【 #神岡家​ 】神岡家の気まぐれにゃじお クリスマスオフ会🎅【椎名唯華と猫又おかゆ】
+UID:V82ktyhWXDE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】もう少しでライブなので歌う!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=zX1o5CipO3c
@@ -347,10 +368,10 @@ SUMMARY:荒咬オウガ: 【 雑談 】寝起きASMR【荒咬オウガ/ホロス
 UID:isuoMDU14ks
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【速報】はあちゃま実写、かわいくね？？？？？\nhttps://www.youtube.com/watch?v=sy62AHZwOE8
+DESCRIPTION:【速報】はあちゃま実写、かわいくね？？？？？ #REALCHAMA\nhttps://www.youtube.com/watch?v=sy62AHZwOE8
 DURATION:PT2H
 DTSTART:20211221T150000Z
-SUMMARY:❤赤井はあと: 【速報】はあちゃま実写、かわいくね？？？？？
+SUMMARY:❤赤井はあと: 【速報】はあちゃま実写、かわいくね？？？？？ #REALCHAMA
 UID:sy62AHZwOE8
 END:VEVENT
 BEGIN:VEVENT
@@ -417,6 +438,13 @@ SUMMARY:博衣こより: 【やわらかあたま塾】朝から頭の体操だ�
 UID:aWd1HswsLz4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#新スバせか】新すばらしきこのせかいするしゅばああああああああああああああああああ！！！！！！！！【】\nhttps://www.youtube.com/watch?v=oWa0mJ7QqaU
+DURATION:PT2H
+DTSTART:20211222T140000Z
+SUMMARY:🚑大空スバル: 【#新スバせか】新すばらしきこのせかいするしゅばああああああああああああああああああ！！！！！！！！【】
+UID:oWa0mJ7QqaU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:深夜朗読会《人間失格》太宰治💤😪🌙Whisper Bed Time Story【ホロライブ/尾丸ポルカ】\nhttps://www.youtube.com/watch?v=tullRA3-GOs
 DURATION:PT2H
 DTSTART:20211220T160000Z
@@ -478,6 +506,13 @@ DURATION:PT2H
 DTSTART:20211220T125000Z
 SUMMARY:☄星街すいせい: ※リベンジ【マリカ8DX】我こそは、武士街彗星。外来語を喋らぬ武士。【ホロライブ / 星街すいせい】
 UID:mFJNapmzcQU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SuperChat御礼】今日の配信の御礼と収益化記念配信の御礼続きから！※この配信はスパチャオフにさせていただきます【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=2fBE-cLp7b0
+DURATION:PT2H
+DTSTART:20211221T153000Z
+SUMMARY:博衣こより: 【SuperChat御礼】今日の配信の御礼と収益化記念配信の御礼続きから！※この配信はスパチャオフにさせていただきます【博衣こより/ホロライブ】
+UID:2fBE-cLp7b0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【告知】嬉しいポロリ有り【奏手イヅル/アステル・レダ/花咲みやび/岸堂天真】\nhttps://www.youtube.com/watch?v=F0HYncCxSgg
