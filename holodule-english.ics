@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【WATCH-ALONG】ELF with BAE\nhttps://www.youtube.com/watch?v=wBdFX-EVbRs
-DURATION:PT2H
-DTSTART:20211221T230523Z
-SUMMARY:Mumei: 【WATCH-ALONG】ELF with BAE
-UID:wBdFX-EVbRs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HOLOEN XMAS】HoHoHoHoly Phoenix POV #HoloHolidays\nhttps://www.youtube.com/watch?v=D4Z59YvMmiY
-DURATION:PT2H
-DTSTART:20211220T230000Z
-SUMMARY:Kiara: 【HOLOEN XMAS】HoHoHoHoly Phoenix POV #HoloHolidays
-UID:D4Z59YvMmiY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【HoloEN Xmas!】HOlo HOlo HOlo\nhttps://www.youtube.com/watch?v=ejuKoCAKs_Q
 DURATION:PT2H
 DTSTART:20211220T230000Z
@@ -32,18 +18,11 @@ SUMMARY:Baelz: hi
 UID:3wZ3LCRer5o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SIMS4】XMAS WITH COUNCIL (and Myth maybe?) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=ulCbP2Zk1hA
+DESCRIPTION:Mumei Says Merry Christmas!\nhttps://www.youtube.com/watch?v=YxRJ1i5HV6k
 DURATION:PT2H
-DTSTART:20211221T180000Z
-SUMMARY:Kiara: 【SIMS4】XMAS WITH COUNCIL (and Myth maybe?) #kfp #キアライブ
-UID:ulCbP2Zk1hA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Finishing Touches For Gingerbread House\nhttps://www.youtube.com/watch?v=qTPUVevG6bI
-DURATION:PT2H
-DTSTART:20211221T040000Z
-SUMMARY:Kronii: 【Minecraft】Finishing Touches For Gingerbread House
-UID:qTPUVevG6bI
+DTSTART:20211222T033530Z
+SUMMARY:Mumei: Mumei Says Merry Christmas!
+UID:YxRJ1i5HV6k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【WATCH-A-LONG + ANNOUNCEMENT】Adam Sandler's 8 Crazy Nights ft. Gura\nhttps://www.youtube.com/watch?v=hpRHTfhL9h8
@@ -51,13 +30,6 @@ DURATION:PT2H
 DTSTART:20211222T010014Z
 SUMMARY:Calli: 【WATCH-A-LONG + ANNOUNCEMENT】Adam Sandler's 8 Crazy Nights ft. Gura
 UID:hpRHTfhL9h8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mumei Says Merry Christmas!\nhttps://www.youtube.com/watch?v=YxRJ1i5HV6k
-DURATION:PT2H
-DTSTART:20211222T033530Z
-SUMMARY:Mumei: Mumei Says Merry Christmas!
-UID:YxRJ1i5HV6k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【POKEMON: BRILLIANT DIAMOND】SHINY GIRATINA GET IN THE BALL!!!\nhttps://www.youtube.com/watch?v=fzS16Ln8ANQ
@@ -81,18 +53,53 @@ SUMMARY:Kiara: 【NEW SONG COVER】Celebrating\, Chatting\, sCribbling!!  #kfp #
 UID:ZHpPnFfYxt0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Pokémon Shining Pearl】For Xmas I want a Shiny Rayquaza!!!\nhttps://www.youtube.com/watch?v=2S6sImgYqQc
-DURATION:PT2H
-DTSTART:20211221T030000Z
-SUMMARY:Sana: 【Pokémon Shining Pearl】For Xmas I want a Shiny Rayquaza!!!
-UID:2S6sImgYqQc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:The Twelve Days of Christmas - hololive English Cover\nhttps://www.youtube.com/watch?v=kPyLnwSXqkA
 DURATION:PT2H
 DTSTART:20211221T011500Z
 SUMMARY:ENholo: The Twelve Days of Christmas - hololive English Cover
 UID:kPyLnwSXqkA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Finishing Touches For Gingerbread House\nhttps://www.youtube.com/watch?v=qTPUVevG6bI
+DURATION:PT2H
+DTSTART:20211221T040000Z
+SUMMARY:Kronii: 【Minecraft】Finishing Touches For Gingerbread House
+UID:qTPUVevG6bI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【WATCH-ALONG】ELF with BAE\nhttps://www.youtube.com/watch?v=wBdFX-EVbRs
+DURATION:PT2H
+DTSTART:20211221T230523Z
+SUMMARY:Mumei: 【WATCH-ALONG】ELF with BAE
+UID:wBdFX-EVbRs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Oblivion】DETECTIVE BOWSON ON THE CASE\nhttps://www.youtube.com/watch?v=m0u7OsyXUGk
+DURATION:PT2H
+DTSTART:20211222T060000Z
+SUMMARY:Amelia: 【Oblivion】DETECTIVE BOWSON ON THE CASE
+UID:m0u7OsyXUGk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HOLOEN XMAS】HoHoHoHoly Phoenix POV #HoloHolidays\nhttps://www.youtube.com/watch?v=D4Z59YvMmiY
+DURATION:PT2H
+DTSTART:20211220T230000Z
+SUMMARY:Kiara: 【HOLOEN XMAS】HoHoHoHoly Phoenix POV #HoloHolidays
+UID:D4Z59YvMmiY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SIMS4】XMAS WITH COUNCIL (and Myth maybe?) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=ulCbP2Zk1hA
+DURATION:PT2H
+DTSTART:20211221T180000Z
+SUMMARY:Kiara: 【SIMS4】XMAS WITH COUNCIL (and Myth maybe?) #kfp #キアライブ
+UID:ulCbP2Zk1hA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Pokémon Shining Pearl】For Xmas I want a Shiny Rayquaza!!!\nhttps://www.youtube.com/watch?v=2S6sImgYqQc
+DURATION:PT2H
+DTSTART:20211221T030000Z
+SUMMARY:Sana: 【Pokémon Shining Pearl】For Xmas I want a Shiny Rayquaza!!!
+UID:2S6sImgYqQc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Another Eden】 Playing the Main StoRyS!\nhttps://www.youtube.com/watch?v=vISRubUW7xY
