@@ -4,69 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【HoloEN Xmas!】HOlo HOlo HOlo\nhttps://www.youtube.com/watch?v=ejuKoCAKs_Q
-DURATION:PT2H
-DTSTART:20211220T230000Z
-SUMMARY:Sana: 【HoloEN Xmas!】HOlo HOlo HOlo
-UID:ejuKoCAKs_Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:hi\nhttps://www.youtube.com/watch?v=3wZ3LCRer5o
-DURATION:PT2H
-DTSTART:20211221T125000Z
-SUMMARY:Baelz: hi
-UID:3wZ3LCRer5o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mumei Says Merry Christmas!\nhttps://www.youtube.com/watch?v=YxRJ1i5HV6k
-DURATION:PT2H
-DTSTART:20211222T033530Z
-SUMMARY:Mumei: Mumei Says Merry Christmas!
-UID:YxRJ1i5HV6k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【WATCH-A-LONG + ANNOUNCEMENT】Adam Sandler's 8 Crazy Nights ft. Gura\nhttps://www.youtube.com/watch?v=hpRHTfhL9h8
-DURATION:PT2H
-DTSTART:20211222T010014Z
-SUMMARY:Calli: 【WATCH-A-LONG + ANNOUNCEMENT】Adam Sandler's 8 Crazy Nights ft. Gura
-UID:hpRHTfhL9h8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【POKEMON: BRILLIANT DIAMOND】SHINY GIRATINA GET IN THE BALL!!!\nhttps://www.youtube.com/watch?v=fzS16Ln8ANQ
-DURATION:PT2H
-DTSTART:20211221T030252Z
-SUMMARY:Calli: 【POKEMON: BRILLIANT DIAMOND】SHINY GIRATINA GET IN THE BALL!!!
-UID:fzS16Ln8ANQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【NEW SONG COVER】Celebrating\, Chatting\, sCribbling!!  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=ZHpPnFfYxt0
-DURATION:PT2H
-DTSTART:20211222T211500Z
-SUMMARY:Kiara: 【NEW SONG COVER】Celebrating\, Chatting\, sCribbling!!  #kfp #キアライブ
-UID:ZHpPnFfYxt0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:い〜やい〜やい〜や(Whatever whatever whatever) / Takanashi Kiara & Ninomae Ina'nis (COVER)\nhttps://www.youtube.com/watch?v=R5yfM_UlucY
-DURATION:PT2H
-DTSTART:20211222T210000Z
-SUMMARY:Kiara: い〜やい〜やい〜や(Whatever whatever whatever) / Takanashi Kiara & Ninomae Ina'nis (COVER)
-UID:R5yfM_UlucY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Twelve Days of Christmas - hololive English Cover\nhttps://www.youtube.com/watch?v=kPyLnwSXqkA
-DURATION:PT2H
-DTSTART:20211221T011500Z
-SUMMARY:ENholo: The Twelve Days of Christmas - hololive English Cover
-UID:kPyLnwSXqkA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Finishing Touches For Gingerbread House\nhttps://www.youtube.com/watch?v=qTPUVevG6bI
-DURATION:PT2H
-DTSTART:20211221T040000Z
-SUMMARY:Kronii: 【Minecraft】Finishing Touches For Gingerbread House
-UID:qTPUVevG6bI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪Mario Party: SUPER STARS ≫  Spending Christmas with family!\nhttps://www.youtube.com/watch?v=PoAqBOqGBxU
 DURATION:PT2H
 DTSTART:20211222T110000Z
@@ -88,11 +25,11 @@ SUMMARY:Amelia: 【Oblivion】DETECTIVE BOWSON ON THE CASE
 UID:m0u7OsyXUGk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HOLOEN XMAS】HoHoHoHoly Phoenix POV #HoloHolidays\nhttps://www.youtube.com/watch?v=D4Z59YvMmiY
+DESCRIPTION:Mumei Says Merry Christmas!\nhttps://www.youtube.com/watch?v=YxRJ1i5HV6k
 DURATION:PT2H
-DTSTART:20211220T230000Z
-SUMMARY:Kiara: 【HOLOEN XMAS】HoHoHoHoly Phoenix POV #HoloHolidays
-UID:D4Z59YvMmiY
+DTSTART:20211222T033530Z
+SUMMARY:Mumei: Mumei Says Merry Christmas!
+UID:YxRJ1i5HV6k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SIMS4】XMAS WITH COUNCIL (and Myth maybe?) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=ulCbP2Zk1hA
@@ -102,6 +39,13 @@ SUMMARY:Kiara: 【SIMS4】XMAS WITH COUNCIL (and Myth maybe?) #kfp #キアライ
 UID:ulCbP2Zk1hA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【WATCH-A-LONG + ANNOUNCEMENT】Adam Sandler's 8 Crazy Nights ft. Gura\nhttps://www.youtube.com/watch?v=hpRHTfhL9h8
+DURATION:PT2H
+DTSTART:20211222T010014Z
+SUMMARY:Calli: 【WATCH-A-LONG + ANNOUNCEMENT】Adam Sandler's 8 Crazy Nights ft. Gura
+UID:hpRHTfhL9h8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【HOLIDAY PARTY】Karaoke\, Tree Decorating\, Sweater Reviewing\, Announcements! Merry Merry!\nhttps://www.youtube.com/watch?v=-oEGOnWakrA
 DURATION:PT2H
 DTSTART:20211222T133107Z
@@ -109,11 +53,18 @@ SUMMARY:Calli: 【HOLIDAY PARTY】Karaoke\, Tree Decorating\, Sweater Reviewing\
 UID:-oEGOnWakrA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Pokémon Shining Pearl】For Xmas I want a Shiny Rayquaza!!!\nhttps://www.youtube.com/watch?v=2S6sImgYqQc
+DESCRIPTION:い〜やい〜やい〜や(Whatever whatever whatever) / Takanashi Kiara & Ninomae Ina'nis (COVER)\nhttps://www.youtube.com/watch?v=R5yfM_UlucY
 DURATION:PT2H
-DTSTART:20211221T030000Z
-SUMMARY:Sana: 【Pokémon Shining Pearl】For Xmas I want a Shiny Rayquaza!!!
-UID:2S6sImgYqQc
+DTSTART:20211222T210000Z
+SUMMARY:Kiara: い〜やい〜やい〜や(Whatever whatever whatever) / Takanashi Kiara & Ninomae Ina'nis (COVER)
+UID:R5yfM_UlucY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【NEW SONG COVER】Celebrating\, Chatting\, sCribbling!!  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=ZHpPnFfYxt0
+DURATION:PT2H
+DTSTART:20211222T211500Z
+SUMMARY:Kiara: 【NEW SONG COVER】Celebrating\, Chatting\, sCribbling!!  #kfp #キアライブ
+UID:ZHpPnFfYxt0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Big Brain Academy】Biggus Brainus\nhttps://www.youtube.com/watch?v=8qY2beydTOY
@@ -128,12 +79,5 @@ DURATION:PT2H
 DTSTART:20211222T040000Z
 SUMMARY:IRyS: 【Another Eden】 Playing the Main StoRyS!
 UID:vISRubUW7xY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HoloEN】Christmas Party~ #HoloHolidays\nhttps://www.youtube.com/watch?v=2iXo0YDhoCA
-DURATION:PT2H
-DTSTART:20211220T230000Z
-SUMMARY:Amelia: 【HoloEN】Christmas Party~ #HoloHolidays
-UID:2iXo0YDhoCA
 END:VEVENT
 END:VCALENDAR
