@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【メン限 / member only】クリスマスパーティーすっぞ！(雑談するだけ)【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=TqtY3wwQhHs
+DURATION:PT2H
+DTSTART:20211224T150000Z
+SUMMARY:☄星街すいせい: 【メン限 / member only】クリスマスパーティーすっぞ！(雑談するだけ)【ホロライブ / 星街すいせい】
+UID:TqtY3wwQhHs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【COMIC VIDEO】Calli's Christmas Catastrophe #01\nhttps://www.youtube.com/watch?v=IKxssi7l3a8
 DURATION:PT2H
 DTSTART:20211223T150000Z
@@ -18,39 +25,18 @@ SUMMARY:👯兎田ぺこら: しょーもなクリスマス【hololive/兎田ぺ
 UID:gEVI5PGl-Bk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Dead by Daylight】雪だるまイベントで生着替えできるってがちぃ？【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=ZevY_VHsR2c
-DURATION:PT2H
-DTSTART:20211223T100000Z
-SUMMARY:💋癒月ちょこ: 【Dead by Daylight】雪だるまイベントで生着替えできるってがちぃ？【ホロライブ/癒月ちょこ】
-UID:ZevY_VHsR2c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MONSTER HUNTER RISE】イベクエで暴れ散らかすスラアクハンター！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=U8eFp5ylMCQ
-DURATION:PT2H
-DTSTART:20211223T110000Z
-SUMMARY:🌽白上フブキ: 【MONSTER HUNTER RISE】イベクエで暴れ散らかすスラアクハンター！【ホロライブ/白上フブキ】
-UID:U8eFp5ylMCQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケカ開封】すでに13BOXあけてました。ユウリはでません。【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=wHCUhrwJNZw
-DURATION:PT2H
-DTSTART:20211223T130000Z
-SUMMARY:🏮夏色まつり: 【ポケカ開封】すでに13BOXあけてました。ユウリはでません。【ホロライブ/夏色まつり】
-UID:wHCUhrwJNZw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポルカの伝説】クリスマスじゃん！プレゼント選手権！！！\nhttps://www.youtube.com/watch?v=cnca52rscQ4
-DURATION:PT2H
-DTSTART:20211223T100000Z
-SUMMARY:尾丸ポルカ: 【ポルカの伝説】クリスマスじゃん！プレゼント選手権！！！
-UID:cnca52rscQ4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【カメラ枠】メルキスクッキングのお時間♡【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=Spvcbh-bWaU
 DURATION:PT2H
 DTSTART:20211224T100000Z
 SUMMARY:🌟夜空メル: 【カメラ枠】メルキスクッキングのお時間♡【ホロライブ/夜空メル】
 UID:Spvcbh-bWaU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロクリスマス歌枠リレー】クリスマスは冬だけじゃありません！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=cZxU1znGQZc
+DURATION:PT2H
+DTSTART:20211225T104500Z
+SUMMARY:🏮夏色まつり: 【#ホロクリスマス歌枠リレー】クリスマスは冬だけじゃありません！【ホロライブ/夏色まつり】
+UID:cZxU1znGQZc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリカ8DX】#Däsupi でガチマリカ特訓‼【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=Rk5RWzIYePU
@@ -67,13 +53,6 @@ SUMMARY:🦋潤羽るしあ: 【cooking/カメラ】プチお披露目！！ク�
 UID:WZNf3pqZRO0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロクリスマス歌枠リレー】クリスマスは冬だけじゃありません！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=cZxU1znGQZc
-DURATION:PT2H
-DTSTART:20211225T104500Z
-SUMMARY:🏮夏色まつり: 【#ホロクリスマス歌枠リレー】クリスマスは冬だけじゃありません！【ホロライブ/夏色まつり】
-UID:cZxU1znGQZc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ポケモンBD】クリスマスに。色違い赤ウパ、​1/4096耐久！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=-cuIJrvren0
 DURATION:PT2H
 DTSTART:20211224T140000Z
@@ -81,46 +60,11 @@ SUMMARY:💫天音かなた: 【ポケモンBD】クリスマスに。色違い�
 UID:-cuIJrvren0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#hololiveERROR 】青上高校 05 過去編 「学校の怪談」 【ホロライブ 360度動画】\nhttps://www.youtube.com/watch?v=AB1VXJNT3LI
-DURATION:PT2H
-DTSTART:20211223T100003Z
-SUMMARY:ホロライブ: 【#hololiveERROR 】青上高校 05 過去編 「学校の怪談」 【ホロライブ 360度動画】
-UID:AB1VXJNT3LI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【メンバーシップ解禁】歌うよ！お知らせもあるよ！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=Ed0pkQSTfDY
-DURATION:PT2H
-DTSTART:20211223T130000Z
-SUMMARY:博衣こより: 【メンバーシップ解禁】歌うよ！お知らせもあるよ！【博衣こより/ホロライブ】
-UID:Ed0pkQSTfDY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【お昼に雑談】12/23 このくらいの時間帯はぎりぎり朝だと思ってます【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=jgupCljshjo
-DURATION:PT2H
-DTSTART:20211223T030000Z
-SUMMARY:🍕アルランディス: 【お昼に雑談】12/23 このくらいの時間帯はぎりぎり朝だと思ってます【アルランディス/ホロスターズ】
-UID:jgupCljshjo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【凸待ち】1st ACT 前日にホロスタメンバーは来るのか！？【 #ホロスタ1stACT 】\nhttps://www.youtube.com/watch?v=bvZwS3RNV4k
 DURATION:PT2H
 DTSTART:20211225T130000Z
 SUMMARY:ホロスターズ: 【凸待ち】1st ACT 前日にホロスタメンバーは来るのか！？【 #ホロスタ1stACT 】
 UID:bvZwS3RNV4k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】４期生でマリカ🚙練習会！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=lUCmpIk6TPc
-DURATION:PT2H
-DTSTART:20211223T130000Z
-SUMMARY:💫天音かなた: 【マリオカート8DX】４期生でマリカ🚙練習会！！！【天音かなた/ホロライブ】
-UID:lUCmpIk6TPc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#holoIDWeek2021】HOLOID WEEK SPECIAL : VS RISU DELUXE EDITION【VSRisu】\nhttps://www.youtube.com/watch?v=sjf90YcMAmk
-DURATION:PT2H
-DTSTART:20211223T120000Z
-SUMMARY:🐿Risu: 【#holoIDWeek2021】HOLOID WEEK SPECIAL : VS RISU DELUXE EDITION【VSRisu】
-UID:sjf90YcMAmk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ロブスターズでダンゴムシごっこ #shorts\nhttps://www.youtube.com/watch?v=JUU98JbUW5k
@@ -144,11 +88,11 @@ SUMMARY:🍎アキロゼ: 【歌おう】リクエスト歌枠【アキ・ロー
 UID:z7KK0OxygXQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Among Us】初対面の人もいるから優しく◯していくね【律可/ホロスターズ】 #イブイブパーティー\nhttps://www.youtube.com/watch?v=oYcb04LT5aM
+DESCRIPTION:【マリオカート8DX】ただマリカーを練習するだけのひつじ６日目【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=kyC9cNFQChY
 DURATION:PT2H
-DTSTART:20211223T120000Z
-SUMMARY:⚙律可: 【Among Us】初対面の人もいるから優しく◯していくね【律可/ホロスターズ】 #イブイブパーティー
-UID:oYcb04LT5aM
+DTSTART:20211224T091500Z
+SUMMARY:🐏角巻わため: 【マリオカート8DX】ただマリカーを練習するだけのひつじ６日目【角巻わため/ホロライブ４期生】
+UID:kyC9cNFQChY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ポケモンBDSP】色違いポケモン達との冒険：クロガネシティ　【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=xZ8u6-k-Hf0
@@ -158,13 +102,6 @@ SUMMARY:🌽白上フブキ: 【ポケモンBDSP】色違いポケモン達と�
 UID:xZ8u6-k-Hf0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】ただマリカーを練習するだけのひつじ６日目【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=kyC9cNFQChY
-DURATION:PT2H
-DTSTART:20211224T091500Z
-SUMMARY:🐏角巻わため: 【マリオカート8DX】ただマリカーを練習するだけのひつじ６日目【角巻わため/ホロライブ４期生】
-UID:kyC9cNFQChY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ポケモンBDSP】色違い御三家耐久13日目、クリスマスには終わりたい人生！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=_0vfUpXDtAI
 DURATION:PT2H
 DTSTART:20211224T130000Z
@@ -172,32 +109,11 @@ SUMMARY:🔥不知火フレア: 【ポケモンBDSP】色違い御三家耐久13
 UID:_0vfUpXDtAI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スマブラ】今日で終わらせてやる。VIPまであと10連勝。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=aw3CRvd8-WI
-DURATION:PT2H
-DTSTART:20211223T092500Z
-SUMMARY:🦔💨岸堂天真: 【スマブラ】今日で終わらせてやる。VIPまであと10連勝。【岸堂天真/ホロスターズ】
-UID:aw3CRvd8-WI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MK8DX】BIG TOURNAMENT PRACTICE LETS GO ( + surprise present?) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=OvOvQNCaE80
-DURATION:PT2H
-DTSTART:20211223T130000Z
-SUMMARY:Kiara: 【MK8DX】BIG TOURNAMENT PRACTICE LETS GO ( + surprise present?) #kfp #キアライブ
-UID:OvOvQNCaE80
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【モンハンライズ 】12月24日！百竜夜行を行う！参加型の楽園を築こう！【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=i0KbHB_RwyY
 DURATION:PT2H
 DTSTART:20211224T073000Z
 SUMMARY:尾丸ポルカ: 【モンハンライズ 】12月24日！百竜夜行を行う！参加型の楽園を築こう！【尾丸ポルカ/ホロライブ】
 UID:i0KbHB_RwyY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:オウガさんに修業をつけてもらうみやび #shorts\nhttps://www.youtube.com/watch?v=d8sanBg9aN4
-DURATION:PT2H
-DTSTART:20211223T090000Z
-SUMMARY:🌺花咲みやび: オウガさんに修業をつけてもらうみやび #shorts
-UID:d8sanBg9aN4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【superchat】今日もありがとう！スパチャ読み！※スパチャオフでの読み上げです【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=Pl3pTz8qwPg
@@ -228,20 +144,6 @@ SUMMARY:🎸奏手イヅル: アルティメット孤独雑談【奏手イヅル
 UID:xz8X5NCmaPo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マリカ8DX】視聴者参加型！1時間半の間に運命が決まる・・・【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=_se323ZDM3w
-DURATION:PT2H
-DTSTART:20211223T133000Z
-SUMMARY:鷹嶺ルイ: 【マリカ8DX】視聴者参加型！1時間半の間に運命が決まる・・・【鷹嶺ルイ/ホロライブ】
-UID:_se323ZDM3w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MARIO KART 8DX 】tournament practice\nhttps://www.youtube.com/watch?v=tQGy7KUhcUE
-DURATION:PT2H
-DTSTART:20211223T010328Z
-SUMMARY:Gura: 【MARIO KART 8DX 】tournament practice
-UID:tQGy7KUhcUE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【恒例】みんなとMerry Christmas！！お披露目だああああ！！【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=Si-wycFYuCc
 DURATION:PT2H
 DTSTART:20211224T140000Z
@@ -249,32 +151,18 @@ SUMMARY:🥐戌神ころね: 【恒例】みんなとMerry Christmas！！お披
 UID:Si-wycFYuCc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 マリオカート8DX 】うまい人に囲まれて上手くなる【 桃鈴ねね / 星街すいせい / 常闇トワ / ホロライブ 】\nhttps://www.youtube.com/watch?v=Cmxpni3QbAs
+DURATION:PT2H
+DTSTART:20211224T130000Z
+SUMMARY:桃鈴ねね: 【 マリオカート8DX 】うまい人に囲まれて上手くなる【 桃鈴ねね / 星街すいせい / 常闇トワ / ホロライブ 】
+UID:Cmxpni3QbAs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 #みっころね 】みっころねからの重大発表あり！最恐凸待ちShow🎄☆彡【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=cUmWnHrZ6GI
 DURATION:PT2H
 DTSTART:20211224T120000Z
 SUMMARY:🌸さくらみこ: 【 #みっころね 】みっころねからの重大発表あり！最恐凸待ちShow🎄☆彡【ホロライブ/さくらみこ】
 UID:cUmWnHrZ6GI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【オリジナル楽曲MV】JOURNEY to FIND STARS（ショートVer.）【ホロスターズ】\nhttps://www.youtube.com/watch?v=Jp71je_aNv4
-DURATION:PT2H
-DTSTART:20211223T100007Z
-SUMMARY:ホロスターズ: 【オリジナル楽曲MV】JOURNEY to FIND STARS（ショートVer.）【ホロスターズ】
-UID:Jp71je_aNv4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:灰色と青/常闇トワ×星街すいせい(cover)\nhttps://www.youtube.com/watch?v=0firv69LkgI
-DURATION:PT2H
-DTSTART:20211223T100000Z
-SUMMARY:👾常闇トワ: 灰色と青/常闇トワ×星街すいせい(cover)
-UID:0firv69LkgI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンBD】初見プレイ！運PT作りつつバッジ3個目めざす！#4【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=0CP2tV62Ook
-DURATION:PT2H
-DTSTART:20211223T120000Z
-SUMMARY:沙花叉クロヱ: 【ポケモンBD】初見プレイ！運PT作りつつバッジ3個目めざす！#4【沙花叉クロヱ/ホロライブ】
-UID:0CP2tV62Ook
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:holoID Rewind 2021\nhttps://www.youtube.com/watch?v=-ZKv_7Ku4Pg
@@ -291,39 +179,11 @@ SUMMARY:🏴☠宝鐘マリン: 【#シスターマリンの懺悔室】with hol
 UID:qIUUvRsnscE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:キミたちが撮影した渾身のお写真コンテスト  in  キャラスト【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=CrXgG-mpTFk
-DURATION:PT2H
-DTSTART:20211223T120000Z
-SUMMARY:🏴☠宝鐘マリン: キミたちが撮影した渾身のお写真コンテスト  in  キャラスト【ホロライブ/宝鐘マリン】
-UID:CrXgG-mpTFk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【WATCHALONG】Scrooged\nhttps://www.youtube.com/watch?v=a85qBNgWFJM
 DURATION:PT2H
 DTSTART:20211223T230000Z
 SUMMARY:Amelia: 【WATCHALONG】Scrooged
 UID:a85qBNgWFJM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【初コラボ】ミオ先輩とイヌ科コラボ！不憫なこよを占ってくださいぃぃ！！ #大こよ神 【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=xOQF27v15i8
-DURATION:PT2H
-DTSTART:20211223T100000Z
-SUMMARY:博衣こより: 【初コラボ】ミオ先輩とイヌ科コラボ！不憫なこよを占ってくださいぃぃ！！ #大こよ神 【博衣こより/ホロライブ】
-UID:xOQF27v15i8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:い〜やい〜やい〜や(Whatever whatever whatever) / Takanashi Kiara & Ninomae Ina'nis (COVER)\nhttps://www.youtube.com/watch?v=R5yfM_UlucY
-DURATION:PT2H
-DTSTART:20211222T210000Z
-SUMMARY:Kiara: い〜やい〜やい〜や(Whatever whatever whatever) / Takanashi Kiara & Ninomae Ina'nis (COVER)
-UID:R5yfM_UlucY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ネタバリ有り】あーちゃんの幻の高校生活が明らかに…！ -ときめきメモリアル Girl's Side 4th Heart-【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=HGWQ3-xYyPo
-DURATION:PT2H
-DTSTART:20211223T110000Z
-SUMMARY:🍕アルランディス: 【ネタバリ有り】あーちゃんの幻の高校生活が明らかに…！ -ときめきメモリアル Girl's Side 4th Heart-【アルランディス/ホロスターズ】
-UID:HGWQ3-xYyPo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】チャマ文明をつくる！【ホロライブ/はあちゃま】\nhttps://www.youtube.com/watch?v=R1yVtuB4yhw
@@ -389,13 +249,6 @@ SUMMARY:💋癒月ちょこ: 【original】Choco♡Melty【ホロライブ/癒�
 UID:QaEW5hhLxuk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Big Brain Academy】BULGING BUMUNGOUS BRAIN\nhttps://www.youtube.com/watch?v=FUPHqZT-Tkg
-DURATION:PT2H
-DTSTART:20211222T230000Z
-SUMMARY:Amelia: 【Big Brain Academy】BULGING BUMUNGOUS BRAIN
-UID:FUPHqZT-Tkg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Cooking Simulator】クリスマスディナー作るよ🎄【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=6vmXsuUR12o
 DURATION:PT2H
 DTSTART:20211224T130000Z
@@ -417,11 +270,11 @@ SUMMARY:桃鈴ねね: 【雑談/FreeTalk】え！？！？ねね昼！？！？�
 UID:wZmsvmSdE-8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 4期マリカコラボ 】Mario Kart 8DX 🚦🚗💨💨【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=v84Wem5Wshg
+DESCRIPTION:【マリオカート8DX】Däsup! でマリカガチる！【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=zZVKmTAdslg
 DURATION:PT2H
-DTSTART:20211223T130000Z
-SUMMARY:🍬姫森ルーナ: 【 4期マリカコラボ 】Mario Kart 8DX 🚦🚗💨💨【#姫森ルーナ/ホロライブ】
-UID:v84Wem5Wshg
+DTSTART:20211224T130000Z
+SUMMARY:👾常闇トワ: 【マリオカート8DX】Däsup! でマリカガチる！【常闇トワ/ホロライブ】
+UID:zZVKmTAdslg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】クリスマスイブは一緒に初めての晩酌、しよ？【沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=I9TiA-EFEsc
@@ -431,11 +284,18 @@ SUMMARY:沙花叉クロヱ: 【雑談】クリスマスイブは一緒に初め�
 UID:I9TiA-EFEsc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ほぼ毎日ショート#26】沙花叉が私に送った愛 #shorts\nhttps://www.youtube.com/watch?v=h4ea9fxR1go
+DESCRIPTION:【Duolingo】🎅Christmas Learn english time yeah 🎄💕【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=gcO6fG44u5s
 DURATION:PT2H
-DTSTART:20211223T080025Z
-SUMMARY:鷹嶺ルイ: 【ほぼ毎日ショート#26】沙花叉が私に送った愛 #shorts
-UID:h4ea9fxR1go
+DTSTART:20211223T220000Z
+SUMMARY:🤖ロボ子さん: 【Duolingo】🎅Christmas Learn english time yeah 🎄💕【ホロライブ/ロボ子さん】
+UID:gcO6fG44u5s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Merry Kikkerikristmas! (日本語字幕あり）\nhttps://www.youtube.com/watch?v=ct2-SfNUSzo
+DURATION:PT2H
+DTSTART:20211224T143006Z
+SUMMARY:Kiara: Merry Kikkerikristmas! (日本語字幕あり）
+UID:ct2-SfNUSzo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【晩酌】メリクリ！24日の出来事を1時間くらい話しながら呑む【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=K9aUtPIHdO8
@@ -445,32 +305,11 @@ SUMMARY:鷹嶺ルイ: 【晩酌】メリクリ！24日の出来事を1時間く�
 UID:K9aUtPIHdO8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Duolingo】🎅Christmas Learn english time yeah 🎄💕【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=gcO6fG44u5s
-DURATION:PT2H
-DTSTART:20211223T220000Z
-SUMMARY:🤖ロボ子さん: 【Duolingo】🎅Christmas Learn english time yeah 🎄💕【ホロライブ/ロボ子さん】
-UID:gcO6fG44u5s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 #ホロクリスマス歌枠リレー 】クリスマスだし歌っちゃう！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=_wroO3JR0BE
 DURATION:PT2H
 DTSTART:20211225T110000Z
 SUMMARY:👯兎田ぺこら: 【 #ホロクリスマス歌枠リレー 】クリスマスだし歌っちゃう！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
 UID:_wroO3JR0BE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:あぶぶぁABABABABABABAAAAAAAAAAAA\nhttps://www.youtube.com/watch?v=5h_KXJwu47A
-DURATION:PT2H
-DTSTART:20211222T150000Z
-SUMMARY:❤赤井はあと: あぶぶぁABABABABABABAAAAAAAAAAAA
-UID:5h_KXJwu47A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】キセキの世代が集まったら…？【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=8mljU52HW9U
-DURATION:PT2H
-DTSTART:20211223T130000Z
-SUMMARY:👾常闇トワ: 【マリオカート8DX】キセキの世代が集まったら…？【常闇トワ/ホロライブ】
-UID:8mljU52HW9U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロクリスマス歌枠リレー】めりくり🎄かなたそ歌上手になったかな？？【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=l5mFJWdL9l4
@@ -494,18 +333,11 @@ SUMMARY:🌸さくらみこ: 【 MemberOnly 】Xmas特別🎄｢ハリー・ポ�
 UID:JdttYhnQqC4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#2【The Watchers】シスターズの絆があれば何も怖くない　はず with子兎音 #ファッションシスターズ 【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=mBFkmr0w6tk
+DESCRIPTION:【歌枠】元気を分ける週1歌枠！最後にお知らせもあり✨【風真いろは/ホロライブ6期生】\nhttps://www.youtube.com/watch?v=5-XGvRdHuEU
 DURATION:PT2H
-DTSTART:20211223T090000Z
-SUMMARY:Reine: #2【The Watchers】シスターズの絆があれば何も怖くない　はず with子兎音 #ファッションシスターズ 【Pavolia Reine/hololiveID 2nd gen】
-UID:mBFkmr0w6tk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【NEW SONG COVER】Celebrating\, Chatting\, sCribbling!!  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=ZHpPnFfYxt0
-DURATION:PT2H
-DTSTART:20211222T211500Z
-SUMMARY:Kiara: 【NEW SONG COVER】Celebrating\, Chatting\, sCribbling!!  #kfp #キアライブ
-UID:ZHpPnFfYxt0
+DTSTART:20211224T133000Z
+SUMMARY:風真いろは: 【歌枠】元気を分ける週1歌枠！最後にお知らせもあり✨【風真いろは/ホロライブ6期生】
+UID:5-XGvRdHuEU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft ハードコア】ハードコアソロエンドラ討伐耐久inメリークリスマス【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=8YvY84V7sbM
@@ -520,13 +352,6 @@ DURATION:PT2H
 DTSTART:20211224T140000Z
 SUMMARY:博衣こより: 【立体音響晩酌】聖夜を一緒にすごそっ♡～TALK ONLY ASMR～【博衣こより/ホロライブ】
 UID:uiUC_lW1z30
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】色々みんなに話さねば！だよ〜〜！✨【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=Xcs5G_wq5SY
-DURATION:PT2H
-DTSTART:20211223T100000Z
-SUMMARY:🍙猫又おかゆ: 【雑談】色々みんなに話さねば！だよ〜〜！✨【猫又おかゆ/ホロライブ】
-UID:Xcs5G_wq5SY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Cooking】 Making Cheesecake!!!\nhttps://www.youtube.com/watch?v=YL6L7zbJtZk
@@ -550,25 +375,18 @@ SUMMARY:鷹嶺ルイ: 【CHATTING】Is my English improving?!【鷹嶺ルイ/ホ
 UID:I9aErN5Q_kU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談/FREETALK】最近の振り返りとかいろいろお話しよ【常闇トワ】\nhttps://www.youtube.com/watch?v=zqKPH_ukDeg
-DURATION:PT2H
-DTSTART:20211223T090000Z
-SUMMARY:👾常闇トワ: 【雑談/FREETALK】最近の振り返りとかいろいろお話しよ【常闇トワ】
-UID:zqKPH_ukDeg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝こよ#7】初コラボとメンシ解禁のある朝～！！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=yKPq0e5DsiU
-DURATION:PT2H
-DTSTART:20211222T220000Z
-SUMMARY:博衣こより: 【朝こよ#7】初コラボとメンシ解禁のある朝～！！！【博衣こより/ホロライブ】
-UID:yKPq0e5DsiU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Dead by Daylight】アーニャ様と雪だるまイベント参戦！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=bD7ol15yJSk
 DURATION:PT2H
 DTSTART:20211224T020000Z
 SUMMARY:💋癒月ちょこ: 【Dead by Daylight】アーニャ様と雪だるまイベント参戦！【ホロライブ/癒月ちょこ】
 UID:bD7ol15yJSk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #ホロクリスマス歌枠リレー 】ご案内用のフリーチャット\nhttps://www.youtube.com/watch?v=lxStaKGoQnM
+DURATION:PT2H
+DTSTART:20211226T144500Z
+SUMMARY:🌲大神ミオ: 【 #ホロクリスマス歌枠リレー 】ご案内用のフリーチャット
+UID:lxStaKGoQnM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪POKEMON: BRILLIANT DIAMOND≫  fifth step to getting over trauma.\nhttps://www.youtube.com/watch?v=W80z9V8PI64
@@ -578,18 +396,11 @@ SUMMARY:Baelz: ≪POKEMON: BRILLIANT DIAMOND≫  fifth step to getting over trau
 UID:W80z9V8PI64
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【JUMP KING】雪国からその先へ！今日も元気に飛ぶでござる🔥【風真いろは/ホロライブ6期生】\nhttps://www.youtube.com/watch?v=dNvFxRnrx_c
+DESCRIPTION:クリスマスもし暇だったらやります(笑)\nhttps://www.youtube.com/watch?v=OC8wQ2NtVHc
 DURATION:PT2H
-DTSTART:20211223T090000Z
-SUMMARY:風真いろは: 【JUMP KING】雪国からその先へ！今日も元気に飛ぶでござる🔥【風真いろは/ホロライブ6期生】
-UID:dNvFxRnrx_c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【クリスマス会】陽キャが家にやってきた #地獄のねぎゆー【湊あくあ/大空スバル/桃鈴ねね】\nhttps://www.youtube.com/watch?v=sU2RJ6S2FT4
-DURATION:PT2H
-DTSTART:20211223T140000Z
-SUMMARY:⚓湊あくあ: 【クリスマス会】陽キャが家にやってきた #地獄のねぎゆー【湊あくあ/大空スバル/桃鈴ねね】
-UID:sU2RJ6S2FT4
+DTSTART:20211224T143000Z
+SUMMARY:ラプラス: クリスマスもし暇だったらやります(笑)
+UID:OC8wQ2NtVHc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪CHRISTMAS PARTY≫ MERRY CHRISTMAS!!!!\nhttps://www.youtube.com/watch?v=myDHYbXrgsw
@@ -597,13 +408,6 @@ DURATION:PT2H
 DTSTART:20211225T030000Z
 SUMMARY:Baelz: ≪CHRISTMAS PARTY≫ MERRY CHRISTMAS!!!!
 UID:myDHYbXrgsw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】参加型✨ホロお正月カップに向けて練習だああああ！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=nGcWh-0i8cw
-DURATION:PT2H
-DTSTART:20211222T143000Z
-SUMMARY:🤖ロボ子さん: 【マリオカート8DX】参加型✨ホロお正月カップに向けて練習だああああ！【ホロライブ/ロボ子さん】
-UID:nGcWh-0i8cw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【singing】クリスマス歌枠リレー！冬Songでバトンたっち！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=HRHpGVX24WQ
@@ -627,11 +431,11 @@ SUMMARY:博衣こより: 『んっあっあっ。』/SLAVE.V-V-R covered by 博�
 UID:R3OxEcOpT0M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:(day 23) I tried to sing padoru but I practice my scream instead...kinda scuffed but alright\nhttps://www.youtube.com/watch?v=ifUvi38F_Hk
+DESCRIPTION:【 #ホロクリスマス歌枠リレー 】トップバッター！歌枠リレーはっじまっるよー！【大神ミオ / ホロライブ】\nhttps://www.youtube.com/watch?v=2MFKt0aOSEI
 DURATION:PT2H
-DTSTART:20211223T101721Z
-SUMMARY:🐿Risu: (day 23) I tried to sing padoru but I practice my scream instead...kinda scuffed but alright
-UID:ifUvi38F_Hk
+DTSTART:20211225T060000Z
+SUMMARY:🌲大神ミオ: 【 #ホロクリスマス歌枠リレー 】トップバッター！歌枠リレーはっじまっるよー！【大神ミオ / ホロライブ】
+UID:2MFKt0aOSEI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Apex Legends 】２次会変則チームカスタム！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=tNOrs7UzXuk
@@ -648,20 +452,6 @@ SUMMARY:雪花ラミィ: 【ASMR｜高音質】甘々彼女の囁き・心音・
 UID:d4K8csi1AwM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】プチお披露目＆参加型マリカ練習！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=Cb9443WQcuI
-DURATION:PT2H
-DTSTART:20211223T140000Z
-SUMMARY:雪花ラミィ: 【マリオカート8DX】プチお披露目＆参加型マリカ練習！【雪花ラミィ/ホロライブ】
-UID:Cb9443WQcuI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #ホロクリスマス歌枠リレー 】トップバッター！歌枠リレーはっじまっるよー！【大神ミオ / ホロライブ】\nhttps://www.youtube.com/watch?v=2MFKt0aOSEI
-DURATION:PT2H
-DTSTART:20211225T060000Z
-SUMMARY:🌲大神ミオ: 【 #ホロクリスマス歌枠リレー 】トップバッター！歌枠リレーはっじまっるよー！【大神ミオ / ホロライブ】
-UID:2MFKt0aOSEI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【オフコラボ】メンヘラ三銃士のクリスマスケーキ作り！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=eqc6L7ookIE
 DURATION:PT2H
 DTSTART:20211224T110000Z
@@ -669,18 +459,18 @@ SUMMARY:🏮夏色まつり: 【オフコラボ】メンヘラ三銃士のクリ
 UID:eqc6L7ookIE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【中継】ホロクリスマスツリー ライブカメラ Day1 【#ホロクリスマスツリー】\nhttps://www.youtube.com/watch?v=7CYhBEuScps
-DURATION:PT2H
-DTSTART:20211223T030000Z
-SUMMARY:ホロライブ: 【中継】ホロクリスマスツリー ライブカメラ Day1 【#ホロクリスマスツリー】
-UID:7CYhBEuScps
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【COMIC VIDEO】Calli's Christmas Catastrophe #02\nhttps://www.youtube.com/watch?v=NbfECtkWiJk
 DURATION:PT2H
 DTSTART:20211224T140000Z
 SUMMARY:Calli: 【COMIC VIDEO】Calli's Christmas Catastrophe #02
 UID:NbfECtkWiJk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【JOURNEY TO FIND STARS: WATCHALONG】CHEERING THE STARS!! w/Iofi-senpai & Baelz♡【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=ymTH8b525DE
+DURATION:PT2H
+DTSTART:20211226T083000Z
+SUMMARY:Ollie: 【JOURNEY TO FIND STARS: WATCHALONG】CHEERING THE STARS!! w/Iofi-senpai & Baelz♡【Hololive ID 2nd Gen】
+UID:ymTH8b525DE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【オリジナル楽曲】POP-TALK / 夕刻ロベル【HOLOSTARS】\nhttps://www.youtube.com/watch?v=oazCXvy6Rvs
@@ -704,39 +494,11 @@ SUMMARY:🍕アルランディス: 【お披露目と雑談】解き放つ俺の
 UID:RyLo1mWpeIU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:サンタ衣装　お　ま　た　せ　💖【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=F-_qfzmQd7A
-DURATION:PT2H
-DTSTART:20211222T150000Z
-SUMMARY:🍎アキロゼ: サンタ衣装　お　ま　た　せ　💖【アキ・ローゼンタール/ホロライブ】
-UID:F-_qfzmQd7A
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ASMR】最初で最後のメリクリバイノーラル配信【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=DN24TqRPcMg
 DURATION:PT2H
 DTSTART:20211224T150000Z
 SUMMARY:🌙紫咲シオン: 【ASMR】最初で最後のメリクリバイノーラル配信【ホロライブ/紫咲シオン】
 UID:DN24TqRPcMg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Gartic Phone】お絵描き伝言ゲームは面白い！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=okLmjZckbuI
-DURATION:PT2H
-DTSTART:20211223T123000Z
-SUMMARY:👯兎田ぺこら: 【Gartic Phone】お絵描き伝言ゲームは面白い！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:okLmjZckbuI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】ライブ前に声出していこう【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=aME3YTO0go0
-DURATION:PT2H
-DTSTART:20211223T130000Z
-SUMMARY:影山シエン: 【歌枠】ライブ前に声出していこう【影山シエン/ホロスターズ】
-UID:aME3YTO0go0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロスタ1stACT】ライブまであと3日！【#ホロスタShorts】#Shorts\nhttps://www.youtube.com/watch?v=pJG_PIUH7vA
-DURATION:PT2H
-DTSTART:20211223T040025Z
-SUMMARY:ホロスターズ: 【#ホロスタ1stACT】ライブまであと3日！【#ホロスタShorts】#Shorts
-UID:pJG_PIUH7vA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【料理】カメラ有/Xmas SP🎄初めてのチュロス作っちゃおおお💕【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=z5nL4ZCoxlo
@@ -746,32 +508,11 @@ SUMMARY:🤖ロボ子さん: 【料理】カメラ有/Xmas SP🎄初めてのチ
 UID:z5nL4ZCoxlo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#生スバル】クリスマス？ソセレするけど？視聴者参加型＆ホロメン凸待ち：Sausage Legend【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=xSAKDhyy87M
-DURATION:PT2H
-DTSTART:20211224T110000Z
-SUMMARY:🚑大空スバル: 【#生スバル】クリスマス？ソセレするけど？視聴者参加型＆ホロメン凸待ち：Sausage Legend【ホロライブ/大空スバル】
-UID:xSAKDhyy87M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:2周年を間もなく迎える男【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=GgqUQAB93Lo
-DURATION:PT2H
-DTSTART:20211223T143000Z
-SUMMARY:🍷夕刻ロベル: 2周年を間もなく迎える男【ホロスターズ/夕刻ロベル】
-UID:GgqUQAB93Lo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【お昼に雑談】12/24 クリスマスイブ!!!なんかそれっぽいもの食べよう!!!【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Cmxj9GroXrk
 DURATION:PT2H
 DTSTART:20211224T030000Z
 SUMMARY:🍕アルランディス: 【お昼に雑談】12/24 クリスマスイブ!!!なんかそれっぽいもの食べよう!!!【アルランディス/ホロスターズ】
 UID:Cmxj9GroXrk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪MINECRAFT≫ CHRISTMAS MINING!!\nhttps://www.youtube.com/watch?v=eWXjCZD_HBg
-DURATION:PT2H
-DTSTART:20211223T040000Z
-SUMMARY:Baelz: ≪MINECRAFT≫ CHRISTMAS MINING!!
-UID:eWXjCZD_HBg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【みんなのリズム天国】吾輩は強い、いかなる時においても強い。しかし安易に振りまく強さは本当の強さとは言わない。今日は特別に見せてやろう…【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=zuLRKtfH1n4
@@ -786,68 +527,5 @@ DURATION:PT2H
 DTSTART:20211224T030021Z
 SUMMARY:鷹嶺ルイ: 【ほぼ毎日ショート#27】クリスマスイヴの悲劇？ #shorts
 UID:yamZK0okyHQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【リングフィットアドベンチャー】久々の朝活RFA！！🔥しっかり運動するでござる！【風真いろは/ホロライブ6期生】\nhttps://www.youtube.com/watch?v=y9Qfs-z8p8M
-DURATION:PT2H
-DTSTART:20211222T230000Z
-SUMMARY:風真いろは: 【リングフィットアドベンチャー】久々の朝活RFA！！🔥しっかり運動するでござる！【風真いろは/ホロライブ6期生】
-UID:y9Qfs-z8p8M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】１ブロックの世界での新生活・・・【ホロライブ/紫咲シオン/ラプラス・ダークネス】\nhttps://www.youtube.com/watch?v=Sglm1zgbDP4
-DURATION:PT2H
-DTSTART:20211223T110000Z
-SUMMARY:🌙紫咲シオン: 【Minecraft】１ブロックの世界での新生活・・・【ホロライブ/紫咲シオン/ラプラス・ダークネス】
-UID:Sglm1zgbDP4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】４期生そろってマリカ練習🚗💨【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=m_uatDAURgk
-DURATION:PT2H
-DTSTART:20211223T130000Z
-SUMMARY:🐏角巻わため: 【マリオカート8DX】４期生そろってマリカ練習🚗💨【角巻わため/ホロライブ４期生】
-UID:m_uatDAURgk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンBDSP】色違い旅パ/金コイ耐久２７日目【#白上フブキ金コイ耐久27】\nhttps://www.youtube.com/watch?v=yd-y-p900pg
-DURATION:PT2H
-DTSTART:20211223T150000Z
-SUMMARY:🌽白上フブキ: 【ポケモンBDSP】色違い旅パ/金コイ耐久２７日目【#白上フブキ金コイ耐久27】
-UID:yd-y-p900pg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【復活！歌枠】クリスマス衣装お披露目 / SINGING in Christmas outfit!!!【#あずきんち】\nhttps://www.youtube.com/watch?v=EsJIsLmUmX8
-DURATION:PT2H
-DTSTART:20211223T110000Z
-SUMMARY:⚒AZKi: 【復活！歌枠】クリスマス衣装お披露目 / SINGING in Christmas outfit!!!【#あずきんち】
-UID:EsJIsLmUmX8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アサツグトリ】誰も殺させない #1【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=VL3te4YLgVs
-DURATION:PT2H
-DTSTART:20211223T090000Z
-SUMMARY:🔥不知火フレア: 【アサツグトリ】誰も殺させない #1【不知火フレア/ホロライブ】
-UID:VL3te4YLgVs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【オンラインクレーンゲーム】ミオママと余のコラボグッズ取りたい！！！！！！\nhttps://www.youtube.com/watch?v=JU5oiEYkbmE
-DURATION:PT2H
-DTSTART:20211223T120000Z
-SUMMARY:👿百鬼あやめ: 【オンラインクレーンゲーム】ミオママと余のコラボグッズ取りたい！！！！！！
-UID:JU5oiEYkbmE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX LEGENDS】HHH HH HHHHH H H HHH HHHHH NO MORE APEX BAN PLEASE【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=ewZ64QaoJbQ
-DURATION:PT2H
-DTSTART:20211223T082833Z
-SUMMARY:Ollie: 【APEX LEGENDS】HHH HH HHHHH H H HHH HHHHH NO MORE APEX BAN PLEASE【Hololive Indonesia 2nd Gen】
-UID:ewZ64QaoJbQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#hololiveERROR 】青上高校 06 過去編 「肝試し」 【ホロライブ 360度動画】\nhttps://www.youtube.com/watch?v=G9SAOg947tE
-DURATION:PT2H
-DTSTART:20211223T100006Z
-SUMMARY:ホロライブ: 【#hololiveERROR 】青上高校 06 過去編 「肝試し」 【ホロライブ 360度動画】
-UID:G9SAOg947tE
 END:VEVENT
 END:VCALENDAR
