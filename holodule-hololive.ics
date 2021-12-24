@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:しょーもなクリスマス【hololive/兎田ぺこら】\nhttps://www.youtube.com/watch?v=gEVI5PGl-Bk
+DURATION:PT2H
+DTSTART:20211224T094546Z
+SUMMARY:👯兎田ぺこら: しょーもなクリスマス【hololive/兎田ぺこら】
+UID:gEVI5PGl-Bk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Dead by Daylight】雪だるまイベントで生着替えできるってがちぃ？【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=ZevY_VHsR2c
 DURATION:PT2H
 DTSTART:20211223T100000Z
@@ -55,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ポケモンBD】クリスマスに。色違い赤ウパ、​1/4096耐久！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=-cuIJrvren0
 DURATION:PT2H
-DTSTART:20211224T100000Z
+DTSTART:20211224T140000Z
 SUMMARY:💫天音かなた: 【ポケモンBD】クリスマスに。色違い赤ウパ、​1/4096耐久！！！【天音かなた/ホロライブ】
 UID:-cuIJrvren0
 END:VEVENT
@@ -100,13 +107,6 @@ DURATION:PT2H
 DTSTART:20211224T091500Z
 SUMMARY:🐏角巻わため: 【マリオカート8DX】ただマリカーを練習するだけのひつじ６日目【角巻わため/ホロライブ４期生】
 UID:kyC9cNFQChY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンBDSP】色違いポケモン達との冒険：クロガネシティ　【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=xZ8u6-k-Hf0
-DURATION:PT2H
-DTSTART:20211224T074500Z
-SUMMARY:🌽白上フブキ: 【ポケモンBDSP】色違いポケモン達との冒険：クロガネシティ　【ホロライブ/白上フブキ】
-UID:xZ8u6-k-Hf0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【配信予定地】めりくり！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=_0vfUpXDtAI
@@ -506,6 +506,13 @@ DURATION:PT2H
 DTSTART:20211223T120000Z
 SUMMARY:👿百鬼あやめ: 【オンラインクレーンゲーム】ミオママと余のコラボグッズ取りたい！！！！！！
 UID:JU5oiEYkbmE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#シスターマリン懺悔ASMR】逃げる可能性あり【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=0RleErSjAio
+DURATION:PT2H
+DTSTART:20211224T140000Z
+SUMMARY:🏴☠宝鐘マリン: 【#シスターマリン懺悔ASMR】逃げる可能性あり【ホロライブ/宝鐘マリン】
+UID:0RleErSjAio
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#hololiveERROR 】青上高校 06 過去編 「肝試し」 【ホロライブ 360度動画】\nhttps://www.youtube.com/watch?v=G9SAOg947tE
