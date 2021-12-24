@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【メン限 / member only】クリスマスパーティーすっぞ！(雑談するだけ)【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=TqtY3wwQhHs
-DURATION:PT2H
-DTSTART:20211224T150000Z
-SUMMARY:☄星街すいせい: 【メン限 / member only】クリスマスパーティーすっぞ！(雑談するだけ)【ホロライブ / 星街すいせい】
-UID:TqtY3wwQhHs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【COMIC VIDEO】Calli's Christmas Catastrophe #01\nhttps://www.youtube.com/watch?v=IKxssi7l3a8
 DURATION:PT2H
 DTSTART:20211223T150000Z
@@ -326,13 +319,6 @@ SUMMARY:🍷夕刻ロベル: 【#夕刻ロベル2周年】お祝い3D配信や�
 UID:3yako7BGSO4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 MemberOnly 】Xmas特別🎄｢ハリー・ポッターと賢者の石」同時視聴会【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=JdttYhnQqC4
-DURATION:PT2H
-DTSTART:20211224T150000Z
-SUMMARY:🌸さくらみこ: 【 MemberOnly 】Xmas特別🎄｢ハリー・ポッターと賢者の石」同時視聴会【ホロライブ/さくらみこ】
-UID:JdttYhnQqC4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠】元気を分ける週1歌枠！最後にお知らせもあり✨【風真いろは/ホロライブ6期生】\nhttps://www.youtube.com/watch?v=5-XGvRdHuEU
 DURATION:PT2H
 DTSTART:20211224T133000Z
@@ -459,6 +445,13 @@ SUMMARY:🏮夏色まつり: 【オフコラボ】メンヘラ三銃士のクリ
 UID:eqc6L7ookIE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【中継】ホロクリスマスツリー ライブカメラ Day2 【#ホロクリスマスツリー】\nhttps://www.youtube.com/watch?v=hdrBWKi72Uo
+DURATION:PT2H
+DTSTART:20211224T030000Z
+SUMMARY:ホロライブ: 【中継】ホロクリスマスツリー ライブカメラ Day2 【#ホロクリスマスツリー】
+UID:hdrBWKi72Uo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【COMIC VIDEO】Calli's Christmas Catastrophe #02\nhttps://www.youtube.com/watch?v=NbfECtkWiJk
 DURATION:PT2H
 DTSTART:20211224T140000Z
@@ -501,11 +494,25 @@ SUMMARY:🌙紫咲シオン: 【ASMR】最初で最後のメリクリバイノ�
 UID:DN24TqRPcMg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:『karaoke_歌枠』クリスマスプレゼントみとく？？？？？？ /  アステル・レダ\nhttps://www.youtube.com/watch?v=LILfF0_zRJc
+DURATION:PT2H
+DTSTART:20211224T150000Z
+SUMMARY:🎭アステル・レダ: 『karaoke_歌枠』クリスマスプレゼントみとく？？？？？？ /  アステル・レダ
+UID:LILfF0_zRJc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【料理】カメラ有/Xmas SP🎄初めてのチュロス作っちゃおおお💕【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=z5nL4ZCoxlo
 DURATION:PT2H
 DTSTART:20211224T090000Z
 SUMMARY:🤖ロボ子さん: 【料理】カメラ有/Xmas SP🎄初めてのチュロス作っちゃおおお💕【ホロライブ/ロボ子さん】
 UID:z5nL4ZCoxlo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#生スバル】クリスマス？ソセレするけど？視聴者参加型＆ホロメン凸待ち：Sausage Legend【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=xSAKDhyy87M
+DURATION:PT2H
+DTSTART:20211224T110000Z
+SUMMARY:🚑大空スバル: 【#生スバル】クリスマス？ソセレするけど？視聴者参加型＆ホロメン凸待ち：Sausage Legend【ホロライブ/大空スバル】
+UID:xSAKDhyy87M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【お昼に雑談】12/24 クリスマスイブ!!!なんかそれっぽいもの食べよう!!!【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Cmxj9GroXrk

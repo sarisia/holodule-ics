@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【メン限 / member only】クリスマスパーティーすっぞ！(雑談するだけ)【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=TqtY3wwQhHs
-DURATION:PT2H
-DTSTART:20211224T150000Z
-SUMMARY:☄星街すいせい: 【メン限 / member only】クリスマスパーティーすっぞ！(雑談するだけ)【ホロライブ / 星街すいせい】
-UID:TqtY3wwQhHs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:しょーもなクリスマス【hololive/兎田ぺこら】\nhttps://www.youtube.com/watch?v=gEVI5PGl-Bk
 DURATION:PT2H
 DTSTART:20211224T094546Z
@@ -74,18 +67,18 @@ SUMMARY:💫天音かなた: 【#ホロクリスマス歌枠リレー】めり�
 UID:l5mFJWdL9l4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 MemberOnly 】Xmas特別🎄｢ハリー・ポッターと賢者の石」同時視聴会【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=JdttYhnQqC4
-DURATION:PT2H
-DTSTART:20211224T150000Z
-SUMMARY:🌸さくらみこ: 【 MemberOnly 】Xmas特別🎄｢ハリー・ポッターと賢者の石」同時視聴会【ホロライブ/さくらみこ】
-UID:JdttYhnQqC4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ポケモンBD】クリスマスに。色違い赤ウパ、​1/4096耐久！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=-cuIJrvren0
 DURATION:PT2H
 DTSTART:20211224T140000Z
 SUMMARY:💫天音かなた: 【ポケモンBD】クリスマスに。色違い赤ウパ、​1/4096耐久！！！【天音かなた/ホロライブ】
 UID:-cuIJrvren0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】元気を分ける週1歌枠！最後にお知らせもあり✨【風真いろは/ホロライブ6期生】\nhttps://www.youtube.com/watch?v=5-XGvRdHuEU
+DURATION:PT2H
+DTSTART:20211224T133000Z
+SUMMARY:風真いろは: 【歌枠】元気を分ける週1歌枠！最後にお知らせもあり✨【風真いろは/ホロライブ6期生】
+UID:5-XGvRdHuEU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【立体音響晩酌】聖夜を一緒にすごそっ♡～TALK ONLY ASMR～【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=uiUC_lW1z30
@@ -242,6 +235,13 @@ SUMMARY:🌸さくらみこ: 【 #みっころね 】みっころねからの重
 UID:cUmWnHrZ6GI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【中継】ホロクリスマスツリー ライブカメラ Day2 【#ホロクリスマスツリー】\nhttps://www.youtube.com/watch?v=hdrBWKi72Uo
+DURATION:PT2H
+DTSTART:20211224T030000Z
+SUMMARY:ホロライブ: 【中継】ホロクリスマスツリー ライブカメラ Day2 【#ホロクリスマスツリー】
+UID:hdrBWKi72Uo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】団長とクリスマス！ドライブデートする？💕【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=MSABXmSKXaA
 DURATION:PT2H
 DTSTART:20211224T100000Z
@@ -275,6 +275,13 @@ DURATION:PT2H
 DTSTART:20211223T150000Z
 SUMMARY:❤赤井はあと: 【Minecraft】チャマ文明をつくる！【ホロライブ/はあちゃま】
 UID:R1yVtuB4yhw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#生スバル】クリスマス？ソセレするけど？視聴者参加型＆ホロメン凸待ち：Sausage Legend【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=xSAKDhyy87M
+DURATION:PT2H
+DTSTART:20211224T110000Z
+SUMMARY:🚑大空スバル: 【#生スバル】クリスマス？ソセレするけど？視聴者参加型＆ホロメン凸待ち：Sausage Legend【ホロライブ/大空スバル】
+UID:xSAKDhyy87M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【みんなのリズム天国】吾輩は強い、いかなる時においても強い。しかし安易に振りまく強さは本当の強さとは言わない。今日は特別に見せてやろう…【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=zuLRKtfH1n4
