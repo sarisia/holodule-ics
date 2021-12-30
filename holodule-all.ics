@@ -179,13 +179,6 @@ SUMMARY:Amelia: 【Superchat Readin'】CATCHIN UP
 UID:huaoaKsAXwI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝活】デビュー1カ月経ちました！１時間だけお話しよ？【沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=1Opi4Nqt_HY
-DURATION:PT2H
-DTSTART:20211228T220000Z
-SUMMARY:沙花叉クロヱ: 【朝活】デビュー1カ月経ちました！１時間だけお話しよ？【沙花叉クロヱ】
-UID:1Opi4Nqt_HY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ポケモンBD】２時間でヒンバスは出るのか？【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=N0TcuAiJEOc
 DURATION:PT2H
 DTSTART:20211229T100000Z
@@ -198,6 +191,13 @@ DURATION:PT2H
 DTSTART:20211230T131500Z
 SUMMARY:ホロライブ: 【ホロのこしかけ 08】仕事納めた子はいねが〜！👹いくぞ年末年始 / 12月まとめ【友人A・えーちゃん】hololive FM
 UID:osc_mWH6C3Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】デビュー1カ月経ちました！１時間だけお話しよ？【沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=1Opi4Nqt_HY
+DURATION:PT2H
+DTSTART:20211228T220000Z
+SUMMARY:沙花叉クロヱ: 【朝活】デビュー1カ月経ちました！１時間だけお話しよ？【沙花叉クロヱ】
+UID:1Opi4Nqt_HY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#アルランディス20万人到達耐久24時間放送 その①【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=JFs08ZF9x-I
@@ -242,11 +242,11 @@ SUMMARY:🔥不知火フレア: 【アサツグトリ】時を戻して全員で
 UID:Cu9IXkezpcU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft ハードコア】DAY3 ハードコアソロエンドラ討伐【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=dII8TU1XMLA
+DESCRIPTION:#アルランディス20万人到達耐久24時間放送 その②【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=ysbm6DkAjJ0
 DURATION:PT2H
-DTSTART:20211229T150000Z
-SUMMARY:🍕アルランディス: 【Minecraft ハードコア】DAY3 ハードコアソロエンドラ討伐【アルランディス/ホロスターズ】
-UID:dII8TU1XMLA
+DTSTART:20211230T200000Z
+SUMMARY:🍕アルランディス: #アルランディス20万人到達耐久24時間放送 その②【アルランディス/ホロスターズ】
+UID:ysbm6DkAjJ0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[MINECRAFT] shrimp shrine! and chat\nhttps://www.youtube.com/watch?v=UbWBCjw5zJA
@@ -254,6 +254,13 @@ DURATION:PT2H
 DTSTART:20211229T010200Z
 SUMMARY:Gura: [MINECRAFT] shrimp shrine! and chat
 UID:UbWBCjw5zJA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft ハードコア】DAY3 ハードコアソロエンドラ討伐【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=dII8TU1XMLA
+DURATION:PT2H
+DTSTART:20211229T150000Z
+SUMMARY:🍕アルランディス: 【Minecraft ハードコア】DAY3 ハードコアソロエンドラ討伐【アルランディス/ホロスターズ】
+UID:dII8TU1XMLA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ポケモンBDSP】いくぞポケモンリーグ！四天王&シロナに挑戦じゃ～！ #10【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=BoX8_x56weg
@@ -268,13 +275,6 @@ DURATION:PT2H
 DTSTART:20211229T144247Z
 SUMMARY:🐏角巻わため: 角巻わため 2nd Album『わためのうた vol.2』全曲視聴クロスフェード
 UID:_273RBCcnhk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#アルランディス20万人到達耐久24時間放送 その②【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=ysbm6DkAjJ0
-DURATION:PT2H
-DTSTART:20211230T200000Z
-SUMMARY:🍕アルランディス: #アルランディス20万人到達耐久24時間放送 その②【アルランディス/ホロスターズ】
-UID:ysbm6DkAjJ0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#生スバル】グロ注意！冬ホラーOUT LAST 2うわああああああああああああああああああああ！！！！：Grotesque expression attention【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=5JoVRH05Wi0
@@ -324,6 +324,13 @@ DURATION:PT2H
 DTSTART:20211229T151500Z
 SUMMARY:🌽白上フブキ: 【ポケモンBDSP】色違い旅パ/ロストタワー～トバリシティ【ホロライブ/白上フブキ】
 UID:f37Lwy_em6A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:タレントアンケバラエティー!!「ホロメンしりたい」答えてもらいました!?【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=HXe8xQPbDTY
+DURATION:PT2H
+DTSTART:20211230T140000Z
+SUMMARY:尾丸ポルカ: タレントアンケバラエティー!!「ホロメンしりたい」答えてもらいました!?【尾丸ポルカ/ホロライブ】
+UID:HXe8xQPbDTY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Getting Over It】AAAAAAAUHSDFJSEOA\nhttps://www.youtube.com/watch?v=-ICVxiPrbtk
@@ -429,6 +436,13 @@ DURATION:PT2H
 DTSTART:20211229T130000Z
 SUMMARY:沙花叉クロヱ: 【AmongUs】全員お掃除☆アモングアス！ホロ宇宙人狼【沙花叉クロヱ/ホロライブ】
 UID:nsC7yksOg5Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ブリリアントダイヤモンド】Helpme！ 縛りプレイ最後の四天王戦。【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=33pjHPfYJIk
+DURATION:PT2H
+DTSTART:20211230T090000Z
+SUMMARY:🦋潤羽るしあ: 【ブリリアントダイヤモンド】Helpme！ 縛りプレイ最後の四天王戦。【潤羽るしあ/ホロライブ】
+UID:33pjHPfYJIk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Mario Kart 8DX】Vroom Vroom\nhttps://www.youtube.com/watch?v=VxwfWm2K1hc
