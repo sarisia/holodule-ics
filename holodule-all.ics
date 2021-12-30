@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【マリオカート8DX】ただマリカーを練習するだけのひつじ７日目【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=QsRTi28GIQg
+DURATION:PT2H
+DTSTART:20211230T090000Z
+SUMMARY:🐏角巻わため: 【マリオカート8DX】ただマリカーを練習するだけのひつじ７日目【角巻わため/ホロライブ４期生】
+UID:QsRTi28GIQg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【忘年会】初めての初配信振り返り...！ひえええ【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=n-z2d_UPwwQ
 DURATION:PT2H
 DTSTART:20211230T140000Z
@@ -354,13 +361,6 @@ SUMMARY:尾丸ポルカ: 【ASMR】Member Only/黒3Dio/今年最後おつかれ�
 UID:XVsC5WKCbxI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【弾き語り枠】２０２１年ありがとうの歌【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=5GvHkBn9bUw
-DURATION:PT2H
-DTSTART:20211230T110000Z
-SUMMARY:⚙律可: 【弾き語り枠】２０２１年ありがとうの歌【律可/ホロスターズ】#りつすた
-UID:5GvHkBn9bUw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:年末ホロライブ　～ゆくホロくるホロ2021～【#ゆくホロくるホロ2021】\nhttps://www.youtube.com/watch?v=fuuLvt16aDQ
 DURATION:PT2H
 DTSTART:20211231T090000Z
@@ -375,18 +375,18 @@ SUMMARY:🐏角巻わため: 角巻わため 2nd Album『わためのうた vol.
 UID:_273RBCcnhk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【AmongUs】初めての先輩とのあもあす！！ #ホロ宇宙人狼【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=BvvqCbw6HEo
-DURATION:PT2H
-DTSTART:20211229T130000Z
-SUMMARY:博衣こより: 【AmongUs】初めての先輩とのあもあす！！ #ホロ宇宙人狼【博衣こより/ホロライブ】
-UID:BvvqCbw6HEo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ツイステ】サバナクロー寮にいそうな奴がプレイするツイステッドワンダーランド#18【ホロスターズ/影山シエン】\nhttps://www.youtube.com/watch?v=vXO6ZySjCMM
 DURATION:PT2H
 DTSTART:20211229T100000Z
 SUMMARY:影山シエン: 【ツイステ】サバナクロー寮にいそうな奴がプレイするツイステッドワンダーランド#18【ホロスターズ/影山シエン】
 UID:vXO6ZySjCMM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【AmongUs】初めての先輩とのあもあす！！ #ホロ宇宙人狼【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=BvvqCbw6HEo
+DURATION:PT2H
+DTSTART:20211229T130000Z
+SUMMARY:博衣こより: 【AmongUs】初めての先輩とのあもあす！！ #ホロ宇宙人狼【博衣こより/ホロライブ】
+UID:BvvqCbw6HEo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリカ8DX】本気、見せちゃおっかなｗ【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=HLJGuyQNCRc
@@ -688,6 +688,13 @@ DURATION:PT2H
 DTSTART:20211229T064301Z
 SUMMARY:鷹嶺ルイ: 【ほぼ毎日ショート#32】質問への返答3連発 #shorts
 UID:CXVlCWdmEB8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スバちょこルーナ】BAN回避できるか！ぎりちょこ企画⚡【ホロライブ/癒月ちょこ/大空スバル/姫森ルーナ】\nhttps://www.youtube.com/watch?v=pL8T_egKnvI
+DURATION:PT2H
+DTSTART:20211230T110000Z
+SUMMARY:💋癒月ちょこ: 【スバちょこルーナ】BAN回避できるか！ぎりちょこ企画⚡【ホロライブ/癒月ちょこ/大空スバル/姫森ルーナ】
+UID:pL8T_egKnvI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ライブの感想　今年最後の雑談【奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=s3Ti9Ys3EZg
