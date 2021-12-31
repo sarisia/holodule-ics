@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【弾き語り枠】２０２１年ありがとうの歌【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=5GvHkBn9bUw
-DURATION:PT2H
-DTSTART:20211230T110000Z
-SUMMARY:⚙律可: 【弾き語り枠】２０２１年ありがとうの歌【律可/ホロスターズ】#りつすた
-UID:5GvHkBn9bUw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#アルランディス20万人到達耐久24時間放送 その③【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=89v4irZHlJs
 DURATION:PT2H
 DTSTART:20211231T040000Z
@@ -39,18 +32,11 @@ SUMMARY:🍷夕刻ロベル: 【煩悩】煩悩を振り払う枠【ホロスタ
 UID:sCOknLBgUPw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【あつまれどうぶつの森】あつまれ！ おれの島 #15【荒咬オウガ　ホロスターズ】\nhttps://www.youtube.com/watch?v=wnwKI9qwLoE
+DESCRIPTION:#アルランディス20万人到達耐久24時間放送 その②【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=ysbm6DkAjJ0
 DURATION:PT2H
-DTSTART:20211229T170000Z
-SUMMARY:荒咬オウガ: 【あつまれどうぶつの森】あつまれ！ おれの島 #15【荒咬オウガ　ホロスターズ】
-UID:wnwKI9qwLoE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#アルランディス20万人到達耐久24時間放送 その①【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=JFs08ZF9x-I
-DURATION:PT2H
-DTSTART:20211230T120000Z
-SUMMARY:🍕アルランディス: #アルランディス20万人到達耐久24時間放送 その①【アルランディス/ホロスターズ】
-UID:JFs08ZF9x-I
+DTSTART:20211230T200000Z
+SUMMARY:🍕アルランディス: #アルランディス20万人到達耐久24時間放送 その②【アルランディス/ホロスターズ】
+UID:ysbm6DkAjJ0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:『karaoke_歌枠』2021年最後の歌枠!! 18万人行くまで歌い続けろ!! /  アステル・レダ\nhttps://www.youtube.com/watch?v=xYIny_yJK-E
@@ -65,19 +51,5 @@ DURATION:PT2H
 DTSTART:20211231T140000Z
 SUMMARY:ホロスターズ: 【ホロスタと年越し】〜New Year's Eve With HOLOSTARS！2021→2022〜　【＃ホロスタと年越し】
 UID:7X0FPFsWSAU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft ハードコア】DAY3 ハードコアソロエンドラ討伐【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=dII8TU1XMLA
-DURATION:PT2H
-DTSTART:20211229T150000Z
-SUMMARY:🍕アルランディス: 【Minecraft ハードコア】DAY3 ハードコアソロエンドラ討伐【アルランディス/ホロスターズ】
-UID:dII8TU1XMLA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#アルランディス20万人到達耐久24時間放送 その②【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=ysbm6DkAjJ0
-DURATION:PT2H
-DTSTART:20211230T200000Z
-SUMMARY:🍕アルランディス: #アルランディス20万人到達耐久24時間放送 その②【アルランディス/ホロスターズ】
-UID:ysbm6DkAjJ0
 END:VEVENT
 END:VCALENDAR
