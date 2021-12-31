@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:忘年会【2021封印の儀】\nhttps://www.youtube.com/watch?v=QWXpMucaneI
+DURATION:PT2H
+DTSTART:20211231T110000Z
+SUMMARY:🥐戌神ころね: 忘年会【2021封印の儀】
+UID:QWXpMucaneI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】ただマリカーを練習するだけのひつじ７日目【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=QsRTi28GIQg
 DURATION:PT2H
 DTSTART:20211230T090000Z
@@ -137,18 +144,18 @@ SUMMARY:🌲大神ミオ: 【２０２２年】毎年恒例、勝手にホロメ
 UID:ynatEk-xcG8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マリカ8DX】みんなでつよ杯を目指すための合同練習会✨【鷹嶺ルイ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=UHfPMAJ8wsM
-DURATION:PT2H
-DTSTART:20211230T050000Z
-SUMMARY:鷹嶺ルイ: 【マリカ8DX】みんなでつよ杯を目指すための合同練習会✨【鷹嶺ルイ視点/ホロライブ】
-UID:UHfPMAJ8wsM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ホロのこしかけ 08】仕事納めた子はいねが〜！👹いくぞ年末年始 / 12月まとめ【友人A・えーちゃん】hololive FM\nhttps://www.youtube.com/watch?v=osc_mWH6C3Y
 DURATION:PT2H
 DTSTART:20211230T131500Z
 SUMMARY:ホロライブ: 【ホロのこしかけ 08】仕事納めた子はいねが〜！👹いくぞ年末年始 / 12月まとめ【友人A・えーちゃん】hololive FM
 UID:osc_mWH6C3Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マリカ8DX】みんなでつよ杯を目指すための合同練習会✨【鷹嶺ルイ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=UHfPMAJ8wsM
+DURATION:PT2H
+DTSTART:20211230T050000Z
+SUMMARY:鷹嶺ルイ: 【マリカ8DX】みんなでつよ杯を目指すための合同練習会✨【鷹嶺ルイ視点/ホロライブ】
+UID:UHfPMAJ8wsM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#生スバル】あけましておめでとうスバル：HAPPY NEW YEAR!!! FREE TALK【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=MDbfNeKsXeg
@@ -361,6 +368,13 @@ SUMMARY:ラプラス: 【#ホロライブ正月衣装】刮目セヨ【ラプラ
 UID:VCHMamMb-_A
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【スパチャ読み上げ動画】今年頂いた分のスパチャ読み💐Super chat reading 【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=MC0MUYM8cnY
+DURATION:PT2H
+DTSTART:20211231T122000Z
+SUMMARY:🔥不知火フレア: 【スパチャ読み上げ動画】今年頂いた分のスパチャ読み💐Super chat reading 【不知火フレア/ホロライブ】
+UID:MC0MUYM8cnY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【振り返り雑談】今年も一年ありがとうございました！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=tKSVtTimBe0
 DURATION:PT2H
 DTSTART:20211230T110000Z
@@ -417,13 +431,6 @@ SUMMARY:🏮夏色まつり: 【マリオカート8DX】各チーム１人ずつ
 UID:zO7wYhQqfLU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝活】今年最後の配信！！ちゃんと起きてる～？？【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=rj42ZQ3p53A
-DURATION:PT2H
-DTSTART:20211230T223000Z
-SUMMARY:🌙紫咲シオン: 【朝活】今年最後の配信！！ちゃんと起きてる～？？【ホロライブ/紫咲シオン】
-UID:rj42ZQ3p53A
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【RPG】勇者がクズだとこうなります【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=0Go_Srmw1KE
 DURATION:PT2H
 DTSTART:20211231T030000Z
@@ -431,11 +438,11 @@ SUMMARY:沙花叉クロヱ: 【RPG】勇者がクズだとこうなります【�
 UID:0Go_Srmw1KE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スバちょこルーナ】BAN回避できるか！ぎりちょこ企画⚡【ホロライブ/癒月ちょこ/大空スバル/姫森ルーナ】\nhttps://www.youtube.com/watch?v=pL8T_egKnvI
+DESCRIPTION:【朝活】今年最後の配信！！ちゃんと起きてる～？？【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=rj42ZQ3p53A
 DURATION:PT2H
-DTSTART:20211230T110000Z
-SUMMARY:💋癒月ちょこ: 【スバちょこルーナ】BAN回避できるか！ぎりちょこ企画⚡【ホロライブ/癒月ちょこ/大空スバル/姫森ルーナ】
-UID:pL8T_egKnvI
+DTSTART:20211230T223000Z
+SUMMARY:🌙紫咲シオン: 【朝活】今年最後の配信！！ちゃんと起きてる～？？【ホロライブ/紫咲シオン】
+UID:rj42ZQ3p53A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Have a closer look【hololive/宝鐘マリン】\nhttps://www.youtube.com/watch?v=azVwW2so0Ps
@@ -443,6 +450,13 @@ DURATION:PT2H
 DTSTART:20211231T095442Z
 SUMMARY:🏴☠宝鐘マリン: Have a closer look【hololive/宝鐘マリン】
 UID:azVwW2so0Ps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スバちょこルーナ】BAN回避できるか！ぎりちょこ企画⚡【ホロライブ/癒月ちょこ/大空スバル/姫森ルーナ】\nhttps://www.youtube.com/watch?v=pL8T_egKnvI
+DURATION:PT2H
+DTSTART:20211230T110000Z
+SUMMARY:💋癒月ちょこ: 【スバちょこルーナ】BAN回避できるか！ぎりちょこ企画⚡【ホロライブ/癒月ちょこ/大空スバル/姫森ルーナ】
+UID:pL8T_egKnvI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ぺこマリ1ブロック】最終決戦！！エンドラとウィザー倒す！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=2y3En0HVJbo
