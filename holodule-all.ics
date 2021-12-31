@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:忘年会【2021封印の儀】\nhttps://www.youtube.com/watch?v=QWXpMucaneI
+DURATION:PT2H
+DTSTART:20211231T110000Z
+SUMMARY:🥐戌神ころね: 忘年会【2021封印の儀】
+UID:QWXpMucaneI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】ただマリカーを練習するだけのひつじ７日目【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=QsRTi28GIQg
 DURATION:PT2H
 DTSTART:20211230T090000Z
@@ -403,11 +410,11 @@ SUMMARY:博衣こより: 【朝こよ#9】2021年最後の朝こよRadioだよ�
 UID:pAc5qAd7yhs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ホロスタと年越し】〜New Year's Eve With HOLOSTARS！2021→2022〜　【＃ホロスタと年越し】\nhttps://www.youtube.com/watch?v=7X0FPFsWSAU
+DESCRIPTION:【superchat】今年最後のありがとう！スパチャ読み！※スパチャオフでの読み上げです【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=dgTEKCYf64c
 DURATION:PT2H
-DTSTART:20211231T140000Z
-SUMMARY:ホロスターズ: 【ホロスタと年越し】〜New Year's Eve With HOLOSTARS！2021→2022〜　【＃ホロスタと年越し】
-UID:7X0FPFsWSAU
+DTSTART:20211231T060000Z
+SUMMARY:沙花叉クロヱ: 【superchat】今年最後のありがとう！スパチャ読み！※スパチャオフでの読み上げです【沙花叉クロヱ/ホロライブ】
+UID:dgTEKCYf64c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】毎年最下位だけど強くなりたい悪魔のマリカ練習⚡【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=kaK0DBoBxcI
@@ -422,6 +429,13 @@ DURATION:PT2H
 DTSTART:20211231T233000Z
 SUMMARY:Fauna: 【KARAOKE】 New Years Karaoke RELAY 🎊 HAPPY 2022 #HoloENNYRelay
 UID:d1C-at0rh-I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ホロスタと年越し】〜New Year's Eve With HOLOSTARS！2021→2022〜　【＃ホロスタと年越し】\nhttps://www.youtube.com/watch?v=7X0FPFsWSAU
+DURATION:PT2H
+DTSTART:20211231T140000Z
+SUMMARY:ホロスターズ: 【ホロスタと年越し】〜New Year's Eve With HOLOSTARS！2021→2022〜　【＃ホロスタと年越し】
+UID:7X0FPFsWSAU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【２０２１年さいごの】雑談＆正月占いで占う事決める【今年もお世話になりました】\nhttps://www.youtube.com/watch?v=Lg4mHEreJMM
