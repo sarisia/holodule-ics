@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:New Year stream !\nhttps://www.youtube.com/watch?v=vlafJgBMrYk
+DURATION:PT2H
+DTSTART:20220101T010000Z
+SUMMARY:Gura: New Year stream !
+UID:vlafJgBMrYk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Mario Party Superstars】 Let's Play a Game\nhttps://www.youtube.com/watch?v=De9YvehoMqs
 DURATION:PT2H
 DTSTART:20211230T210000Z
