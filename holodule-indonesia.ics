@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【2021 MOMENTS】 YOUR FAVOURITE  OLLIE CLIPS!!【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=5A3FXiRSEmA
+DURATION:PT2H
+DTSTART:20211231T120000Z
+SUMMARY:Ollie: 【2021 MOMENTS】 YOUR FAVOURITE  OLLIE CLIPS!!【Hololive ID 2nd Generation】
+UID:5A3FXiRSEmA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Blue Archive】SO MANY CUTE GIRLS... Am I In Heaven? 【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=olMG-lRKltk
 DURATION:PT2H
 DTSTART:20211230T030000Z
@@ -16,13 +23,6 @@ DURATION:PT2H
 DTSTART:20211230T112752Z
 SUMMARY:Ollie: 【DRAWING】NEW YEARS DRAWING??? WHAT TO DRAW???【Hololive Indonesia 2nd Gen】
 UID:bPjUSFkwjTc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Free Talk-ish】LET'S DO SOME NEW YEARS SHOPPING!!!【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=NEBVD2QY5_k
-DURATION:PT2H
-DTSTART:20211230T133000Z
-SUMMARY:Reine: 【Free Talk-ish】LET'S DO SOME NEW YEARS SHOPPING!!!【Pavolia Reine/hololiveID 2nd gen】
-UID:NEBVD2QY5_k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Mario Kart 8DX】A Race Into The Labyrinth of Pure Love UwU OwO xD ^^【Reine/Ollie/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=ZhjN4KNa8tw
@@ -46,17 +46,10 @@ SUMMARY:🎨Iofi: 【 日本語雑談 】さあ！聞くがよい！イオフィ
 UID:D9I3I2Qc8bE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【2021 MOMENTS】 YOUR FAVOURITE  OLLIE CLIPS!!【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=5A3FXiRSEmA
+DESCRIPTION:【Free Talk-ish】LET'S DO SOME NEW YEARS SHOPPING!!!【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=NEBVD2QY5_k
 DURATION:PT2H
-DTSTART:20211231T120000Z
-SUMMARY:Ollie: 【2021 MOMENTS】 YOUR FAVOURITE  OLLIE CLIPS!!【Hololive ID 2nd Generation】
-UID:5A3FXiRSEmA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Mario Kart 8 Deluxe】A WEEK BEFORE TOURNAMENT AND I'M ON TEAM B【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=C3KCjWvVkcU
-DURATION:PT2H
-DTSTART:20211231T030038Z
-SUMMARY:Ollie: 【Mario Kart 8 Deluxe】A WEEK BEFORE TOURNAMENT AND I'M ON TEAM B【Hololive ID 2nd Gen】
-UID:C3KCjWvVkcU
+DTSTART:20211230T133000Z
+SUMMARY:Reine: 【Free Talk-ish】LET'S DO SOME NEW YEARS SHOPPING!!!【Pavolia Reine/hololiveID 2nd gen】
+UID:NEBVD2QY5_k
 END:VEVENT
 END:VCALENDAR
