@@ -4,10 +4,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:Ochame Kinou - hololive English Cover (Live2D Ver.)\nhttps://www.youtube.com/watch?v=uFJHdT_ie9U
+DESCRIPTION:Ochame Kinou - hololive English Cover\nhttps://www.youtube.com/watch?v=uFJHdT_ie9U
 DURATION:PT2H
 DTSTART:20220101T080000Z
-SUMMARY:ENholo: Ochame Kinou - hololive English Cover (Live2D Ver.)
+SUMMARY:ENholo: Ochame Kinou - hololive English Cover
 UID:uFJHdT_ie9U
 END:VEVENT
 BEGIN:VEVENT
@@ -100,5 +100,12 @@ DURATION:PT2H
 DTSTART:20220101T020000Z
 SUMMARY:Amelia: 【NEW YEAR'S EVE】c e l e b r a t e
 UID:eXQK45AcMoU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ACNH】I STILL KEEP FISHING\nhttps://www.youtube.com/watch?v=2ug7ZmRuwws
+DURATION:PT2H
+DTSTART:20220101T091500Z
+SUMMARY:Sana: 【ACNH】I STILL KEEP FISHING
+UID:2ug7ZmRuwws
 END:VEVENT
 END:VCALENDAR
