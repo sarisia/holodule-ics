@@ -74,13 +74,6 @@ SUMMARY:博衣こより: 【JumpKing】12時間耐久の末、消えたLast5分�
 UID:kyPb3-8bLMY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【告知あり】初めての新衣装お披露目＆遂に解禁…！沙花叉のかわいくなったとこ見て？#ホロライブ正月衣装【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=wbe3Vbt4Rj8
-DURATION:PT2H
-DTSTART:20220101T053000Z
-SUMMARY:沙花叉クロヱ: 【告知あり】初めての新衣装お披露目＆遂に解禁…！沙花叉のかわいくなったとこ見て？#ホロライブ正月衣装【沙花叉クロヱ/ホロライブ】
-UID:wbe3Vbt4Rj8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【年末雑談】今年は終わるが、始まりが終わったに過ぎない【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=HzFTY0m-yCg
 DURATION:PT2H
 DTSTART:20211231T123000Z
@@ -226,6 +219,13 @@ DURATION:PT2H
 DTSTART:20211231T050221Z
 SUMMARY:❤赤井はあと: THE LAST OF 2021
 UID:dNRlWDPYbgc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ochame Kinou - hololive English Cover\nhttps://www.youtube.com/watch?v=uFJHdT_ie9U
+DURATION:PT2H
+DTSTART:20220101T080000Z
+SUMMARY:ENholo: Ochame Kinou - hololive English Cover
+UID:uFJHdT_ie9U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:年末ホロライブ　～ゆくホロくるホロ2021～【#ゆくホロくるホロ2021】\nhttps://www.youtube.com/watch?v=fuuLvt16aDQ
@@ -433,7 +433,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【お正月/あけおめ】さゆりに会ってきた【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=nzofnqxihiA
 DURATION:PT2H
-DTSTART:20220101T070000Z
+DTSTART:20220101T080000Z
 SUMMARY:💫天音かなた: 【お正月/あけおめ】さゆりに会ってきた【天音かなた/ホロライブ】
 UID:nzofnqxihiA
 END:VEVENT
