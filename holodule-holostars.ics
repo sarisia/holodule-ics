@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【2022初配信】あけましておめでとうございます配信【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=jDwuoLwwgaA
+DURATION:PT2H
+DTSTART:20220101T150000Z
+SUMMARY:🍕アルランディス: 【2022初配信】あけましておめでとうございます配信【アルランディス/ホロスターズ】
+UID:jDwuoLwwgaA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【お披露目枠】正月衣装が2.0になったぞ！！【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=uVOhpdy_AMY
 DURATION:PT2H
 DTSTART:20220102T090000Z
@@ -53,11 +60,11 @@ SUMMARY:🍷夕刻ロベル: 【デレステ】1/1の無料10連【夕刻ロベ�
 UID:G78IluIXmRc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【お正月衣装2.0】新年あけましておめでとうございます!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=_xekGC9n52I
+DESCRIPTION:【2022】Happy New Year【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=VRyu_DuwGAU
 DURATION:PT2H
-DTSTART:20220101T130000Z
-SUMMARY:🌺花咲みやび: 【お正月衣装2.0】新年あけましておめでとうございます!!【花咲みやび/ホロスターズ】
-UID:_xekGC9n52I
+DTSTART:20220101T153000Z
+SUMMARY:荒咬オウガ: 【2022】Happy New Year【荒咬オウガ/ホロスターズ】
+UID:VRyu_DuwGAU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:『karaoke_歌枠』2021年最後の歌枠!! 18万人行くまで歌い続けろ!! /  アステル・レダ\nhttps://www.youtube.com/watch?v=xYIny_yJK-E
