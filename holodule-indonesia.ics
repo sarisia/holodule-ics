@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Mario Kart 8DX】SERIOUS TRAINING【Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=lACjH1p5thI
+DURATION:PT2H
+DTSTART:20220103T070000Z
+SUMMARY:Reine: 【Mario Kart 8DX】SERIOUS TRAINING【Reine/hololiveID 2nd gen】
+UID:lACjH1p5thI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Pokemon: Brilliant Diamond】2nd Badge Get! Progressing Slowly But Surely【hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=kIUejpJZQQw
 DURATION:PT2H
 DTSTART:20220103T140000Z
@@ -11,11 +18,11 @@ SUMMARY:Anya: 【Pokemon: Brilliant Diamond】2nd Badge Get! Progressing Slowly 
 UID:kIUejpJZQQw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:LET'S COUNT RICE TOGETHER! iofi Gabut Kalian Juga Gabut\nhttps://www.youtube.com/watch?v=mRJotQJG-OA
+DESCRIPTION:【Mario Kart 8 Deluxe】BABY OLLIE ON THE WHEELS PLEASE NO SHELLS【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=oJeWZaC2vNc
 DURATION:PT2H
-DTSTART:20220103T120000Z
-SUMMARY:🎨Iofi: LET'S COUNT RICE TOGETHER! iofi Gabut Kalian Juga Gabut
-UID:mRJotQJG-OA
+DTSTART:20220104T020000Z
+SUMMARY:Ollie: 【Mario Kart 8 Deluxe】BABY OLLIE ON THE WHEELS PLEASE NO SHELLS【Hololive ID 2nd Gen】
+UID:oJeWZaC2vNc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#4【The Great Ace Attorney】UPGRADED DESK SLAM but not for me※SPOILER ALERT 【Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=3-9ANTrvHHk
@@ -25,10 +32,10 @@ SUMMARY:Reine: #4【The Great Ace Attorney】UPGRADED DESK SLAM but not for me�
 UID:3-9ANTrvHHk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Mario Kart 8DX】SERIOUS TRAINING【Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=lACjH1p5thI
+DESCRIPTION:LET'S COUNT RICE TOGETHER! iofi Gabut Kalian Juga Gabut\nhttps://www.youtube.com/watch?v=mRJotQJG-OA
 DURATION:PT2H
-DTSTART:20220103T070000Z
-SUMMARY:Reine: 【Mario Kart 8DX】SERIOUS TRAINING【Reine/hololiveID 2nd gen】
-UID:lACjH1p5thI
+DTSTART:20220103T120000Z
+SUMMARY:🎨Iofi: LET'S COUNT RICE TOGETHER! iofi Gabut Kalian Juga Gabut
+UID:mRJotQJG-OA
 END:VEVENT
 END:VCALENDAR
