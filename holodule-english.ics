@@ -39,18 +39,18 @@ SUMMARY:Kiara: 【NEW YEARS KIMONO REVEAL】Tenchou In Formal\, Traditional Japa
 UID:iLU4AU36FYA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HITMAN 2】 pass a fist #holoCouncil\nhttps://www.youtube.com/watch?v=0n_TX8x5nUM
-DURATION:PT2H
-DTSTART:20220107T200000Z
-SUMMARY:Fauna: 【HITMAN 2】 pass a fist #holoCouncil
-UID:0n_TX8x5nUM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:See A Sea\nhttps://www.youtube.com/watch?v=0sJ5oL7YT88
 DURATION:PT2H
 DTSTART:20220108T023504Z
 SUMMARY:Mumei: See A Sea
 UID:0sJ5oL7YT88
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HITMAN 2】 pass a fist #holoCouncil\nhttps://www.youtube.com/watch?v=0n_TX8x5nUM
+DURATION:PT2H
+DTSTART:20220107T200000Z
+SUMMARY:Fauna: 【HITMAN 2】 pass a fist #holoCouncil
+UID:0n_TX8x5nUM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【NEW OUTFIT】Ame Kimono! #HoloENKimonoRelay\nhttps://www.youtube.com/watch?v=H6AqJ4ocIFk
@@ -88,11 +88,11 @@ SUMMARY:Calli: 【KIMONO REVEAL 正月衣装】Welcome To The Mountain Top... #c
 UID:8McYGxUKxc0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MARIO KART 8DX 】After race chat + games !\nhttps://www.youtube.com/watch?v=khNeta1CsAg
+DESCRIPTION:【Inscryption】WOLF GOD | #2\nhttps://www.youtube.com/watch?v=sYF3SiX5-WY
 DURATION:PT2H
-DTSTART:20220108T010255Z
-SUMMARY:Gura: 【MARIO KART 8DX 】After race chat + games !
-UID:khNeta1CsAg
+DTSTART:20220109T023000Z
+SUMMARY:Kronii: 【Inscryption】WOLF GOD | #2
+UID:sYF3SiX5-WY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【WORMS】New Years Collab with HoloMyth + Announcement!?!?! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=Wa5oysnMfII
@@ -102,11 +102,11 @@ SUMMARY:Kiara: 【WORMS】New Years Collab with HoloMyth + Announcement!?!?! #kf
 UID:Wa5oysnMfII
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Inscryption】WOLF GOD | #2\nhttps://www.youtube.com/watch?v=sYF3SiX5-WY
+DESCRIPTION:【MARIO KART 8DX 】After race chat + games !\nhttps://www.youtube.com/watch?v=khNeta1CsAg
 DURATION:PT2H
-DTSTART:20220109T023000Z
-SUMMARY:Kronii: 【Inscryption】WOLF GOD | #2
-UID:sYF3SiX5-WY
+DTSTART:20220108T010255Z
+SUMMARY:Gura: 【MARIO KART 8DX 】After race chat + games !
+UID:khNeta1CsAg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MV】 Journey Like a Thousand Years 【hololive English -Myth- Original Song】\nhttps://www.youtube.com/watch?v=pKJErsN-ylU
@@ -128,5 +128,12 @@ DURATION:PT2H
 DTSTART:20220108T220208Z
 SUMMARY:Gura: . . . ?
 UID:nA_dh5agT78
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【WATCHALONG】Porco Rosso!\nhttps://www.youtube.com/watch?v=E8VqyJYCTtc
+DURATION:PT2H
+DTSTART:20220109T043000Z
+SUMMARY:Amelia: 【WATCHALONG】Porco Rosso!
+UID:E8VqyJYCTtc
 END:VEVENT
 END:VCALENDAR
