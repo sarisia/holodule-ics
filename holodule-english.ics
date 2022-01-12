@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Oblivion】ʙ ᴏ ᴡ s ᴏ ɴ\nhttps://www.youtube.com/watch?v=9H84jHYgvHE
-DURATION:PT2H
-DTSTART:20220111T060000Z
-SUMMARY:Amelia: 【Oblivion】ʙ ᴏ ᴡ s ᴏ ɴ
-UID:9H84jHYgvHE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Terraria】We're descending to the underworld!!\nhttps://www.youtube.com/watch?v=Ke59CC3gBA0
 DURATION:PT2H
 DTSTART:20220112T030000Z
@@ -25,53 +18,11 @@ SUMMARY:Kronii: 【Frostpunk: The Last Autumn】Ruling With An Iron Fist | #3
 UID:QjRf30n4od4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DRAWING】Chill Drawing!\nhttps://www.youtube.com/watch?v=TmyfPojqg9Q
-DURATION:PT2H
-DTSTART:20220112T130048Z
-SUMMARY:Calli: 【DRAWING】Chill Drawing!
-UID:TmyfPojqg9Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:What if we played Mario Kart 8DX for an hour together haha?\nhttps://www.youtube.com/watch?v=ZJfPW-90QEA
-DURATION:PT2H
-DTSTART:20220111T015018Z
-SUMMARY:Mumei: What if we played Mario Kart 8DX for an hour together haha?
-UID:ZJfPW-90QEA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Monster Hunter Rise PC】HUNTING MONSTERS\nhttps://www.youtube.com/watch?v=4ImvqtjtGkI
 DURATION:PT2H
 DTSTART:20220113T000000Z
 SUMMARY:Sana: 【Monster Hunter Rise PC】HUNTING MONSTERS
 UID:4ImvqtjtGkI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Monster Hunter Rise PC】Joining The Hunt With Friends\nhttps://www.youtube.com/watch?v=UnboO4XOD4I
-DURATION:PT2H
-DTSTART:20220113T000000Z
-SUMMARY:Kronii: 【Monster Hunter Rise PC】Joining The Hunt With Friends
-UID:UnboO4XOD4I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Chatting】 New Year's Resolutions and Chatting!\nhttps://www.youtube.com/watch?v=QM0ImlXC5Eo
-DURATION:PT2H
-DTSTART:20220110T210000Z
-SUMMARY:Ina: 【Chatting】 New Year's Resolutions and Chatting!
-UID:QM0ImlXC5Eo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪COFFEEnCHILL≫ GOOD MORNING WORLD\nhttps://www.youtube.com/watch?v=RVNGFdIiSfw
-DURATION:PT2H
-DTSTART:20220110T230000Z
-SUMMARY:Baelz: ≪COFFEEnCHILL≫ GOOD MORNING WORLD
-UID:RVNGFdIiSfw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IRyS  2nd EP ｢Journey｣ Trailer\nhttps://www.youtube.com/watch?v=-HZ9gAiIoAw
-DURATION:PT2H
-DTSTART:20220111T050943Z
-SUMMARY:IRyS: IRyS  2nd EP ｢Journey｣ Trailer
-UID:-HZ9gAiIoAw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Superchat Reading】Undercover Shrinemaiden Reads Your Superchats #kfp #キアライブ\nhttps://www.youtube.com/watch?v=1R-kQWOjWLU
@@ -81,10 +32,17 @@ SUMMARY:Kiara: 【Superchat Reading】Undercover Shrinemaiden Reads Your Superch
 UID:1R-kQWOjWLU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【6 MONTH ANNIVERSARY】SINGING and ANNOUNCEMENTS!!💎\nhttps://www.youtube.com/watch?v=c_gZHcV4SxE
+DESCRIPTION:【DRAWING】Chill Drawing!\nhttps://www.youtube.com/watch?v=TmyfPojqg9Q
 DURATION:PT2H
-DTSTART:20220111T030000Z
-SUMMARY:IRyS: 【6 MONTH ANNIVERSARY】SINGING and ANNOUNCEMENTS!!💎
-UID:c_gZHcV4SxE
+DTSTART:20220112T130048Z
+SUMMARY:Calli: 【DRAWING】Chill Drawing!
+UID:TmyfPojqg9Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Monster Hunter Rise PC】Joining The Hunt With Friends\nhttps://www.youtube.com/watch?v=UnboO4XOD4I
+DURATION:PT2H
+DTSTART:20220113T000000Z
+SUMMARY:Kronii: 【Monster Hunter Rise PC】Joining The Hunt With Friends
+UID:UnboO4XOD4I
 END:VEVENT
 END:VCALENDAR
