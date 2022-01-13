@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【JUMP KING】REACH STAGE 5 LETS GO!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=vWtV_cKNiyE
+DESCRIPTION:【hololiveID】ORIGINAL SONG : Discussion before the release【Ayunda Risu】\nhttps://www.youtube.com/watch?v=k6CkgrvJQ6M
 DURATION:PT2H
-DTSTART:20220113T030125Z
-SUMMARY:Ollie: 【JUMP KING】REACH STAGE 5 LETS GO!!【Hololive Indonesia 2nd Gen】
-UID:vWtV_cKNiyE
+DTSTART:20220112T110000Z
+SUMMARY:🐿Risu: 【hololiveID】ORIGINAL SONG : Discussion before the release【Ayunda Risu】
+UID:k6CkgrvJQ6M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Live Draw 】ちょっと遅くなった？LET'S MAKE NEW YEAR CARD【 iofi / イオフィ 】\nhttps://www.youtube.com/watch?v=yYctbCw_2v8
@@ -16,34 +16,6 @@ DURATION:PT2H
 DTSTART:20220112T130000Z
 SUMMARY:🎨Iofi: 【 Live Draw 】ちょっと遅くなった？LET'S MAKE NEW YEAR CARD【 iofi / イオフィ 】
 UID:yYctbCw_2v8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【WarioWare: Get It Together!】MABAR OFFCOLLAB SKUY!  #PavoNova【Reine/Moona/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=eRP1TIT-FVU
-DURATION:PT2H
-DTSTART:20220112T140000Z
-SUMMARY:Reine: 【WarioWare: Get It Together!】MABAR OFFCOLLAB SKUY!  #PavoNova【Reine/Moona/hololiveID 2nd gen】
-UID:eRP1TIT-FVU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX LEGENDS】WE'LL SHOOT YOUR HEARTS!!! PEW PEW!!!【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=BzeWOmBUf40
-DURATION:PT2H
-DTSTART:20220112T085905Z
-SUMMARY:Ollie: 【APEX LEGENDS】WE'LL SHOOT YOUR HEARTS!!! PEW PEW!!!【Hololive ID 2nd Gen】
-UID:BzeWOmBUf40
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#MoonaCraft】Unboxing my Harry Potter Hogwarts Collection Edition Lego!【PART 2】\nhttps://www.youtube.com/watch?v=2CI1c29sQ4U
-DURATION:PT2H
-DTSTART:20220114T060000Z
-SUMMARY:🔮Moona: 【#MoonaCraft】Unboxing my Harry Potter Hogwarts Collection Edition Lego!【PART 2】
-UID:2CI1c29sQ4U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【hololiveID】ORIGINAL SONG : Discussion before the release【Ayunda Risu】\nhttps://www.youtube.com/watch?v=k6CkgrvJQ6M
-DURATION:PT2H
-DTSTART:20220112T110000Z
-SUMMARY:🐿Risu: 【hololiveID】ORIGINAL SONG : Discussion before the release【Ayunda Risu】
-UID:k6CkgrvJQ6M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Dead by Daylight】初挑戦！素敵なゲームが始まる【 iofi / イオフィ 】\nhttps://www.youtube.com/watch?v=lpC-ZwVveLk
@@ -58,5 +30,26 @@ DURATION:PT2H
 DTSTART:20220112T140000Z
 SUMMARY:Anya: 【Pokemon: Brilliant Diamond】More PROGRESS【hololive ID 2nd Generation】
 UID:JcaNs9iRJW4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#MoonaCraft】Unboxing my Harry Potter Hogwarts Collection Edition Lego!【PART 2】\nhttps://www.youtube.com/watch?v=2CI1c29sQ4U
+DURATION:PT2H
+DTSTART:20220114T060000Z
+SUMMARY:🔮Moona: 【#MoonaCraft】Unboxing my Harry Potter Hogwarts Collection Edition Lego!【PART 2】
+UID:2CI1c29sQ4U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【WarioWare: Get It Together!】MABAR OFFCOLLAB SKUY!  #PavoNova【Reine/Moona/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=eRP1TIT-FVU
+DURATION:PT2H
+DTSTART:20220112T140000Z
+SUMMARY:Reine: 【WarioWare: Get It Together!】MABAR OFFCOLLAB SKUY!  #PavoNova【Reine/Moona/hololiveID 2nd gen】
+UID:eRP1TIT-FVU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX LEGENDS】WE'LL SHOOT YOUR HEARTS!!! PEW PEW!!!【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=BzeWOmBUf40
+DURATION:PT2H
+DTSTART:20220112T085905Z
+SUMMARY:Ollie: 【APEX LEGENDS】WE'LL SHOOT YOUR HEARTS!!! PEW PEW!!!【Hololive ID 2nd Gen】
+UID:BzeWOmBUf40
 END:VEVENT
 END:VCALENDAR
