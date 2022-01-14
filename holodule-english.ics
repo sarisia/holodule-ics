@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Resident Evil 7 DLC】 the monsters don't stand a chance #holoCouncil\nhttps://www.youtube.com/watch?v=OsB-eCzT7Sk
-DURATION:PT2H
-DTSTART:20220114T040000Z
-SUMMARY:Fauna: 【Resident Evil 7 DLC】 the monsters don't stand a chance #holoCouncil
-UID:OsB-eCzT7Sk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Planet Zoo】Paws Claws Mauls\nhttps://www.youtube.com/watch?v=tW9iFo-6J8M
-DURATION:PT2H
-DTSTART:20220114T033000Z
-SUMMARY:Mumei: 【Planet Zoo】Paws Claws Mauls
-UID:tW9iFo-6J8M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[MINECRAFT] magic mouse castle world\nhttps://www.youtube.com/watch?v=NdczOAVJgsI
+DESCRIPTION:【Minecraft】 I Demand Churros\nhttps://www.youtube.com/watch?v=LIRpasEpKcI
 DURATION:PT2H
 DTSTART:20220114T210000Z
-SUMMARY:Gura: [MINECRAFT] magic mouse castle world
-UID:NdczOAVJgsI
+SUMMARY:Ina: 【Minecraft】 I Demand Churros
+UID:LIRpasEpKcI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Members Only】 Need for SPEED INITIAL-D Watchalong PART 3\nhttps://www.youtube.com/watch?v=3ER_55rTrTs
@@ -46,10 +32,31 @@ SUMMARY:Ina: 【Minecraft】 M-my House...
 UID:XkbKNPf0pLQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Resident Evil 7 DLC】 the monsters don't stand a chance #holoCouncil\nhttps://www.youtube.com/watch?v=OsB-eCzT7Sk
+DURATION:PT2H
+DTSTART:20220114T040000Z
+SUMMARY:Fauna: 【Resident Evil 7 DLC】 the monsters don't stand a chance #holoCouncil
+UID:OsB-eCzT7Sk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[MINECRAFT] magic mouse castle world\nhttps://www.youtube.com/watch?v=NdczOAVJgsI
+DURATION:PT2H
+DTSTART:20220114T210000Z
+SUMMARY:Gura: [MINECRAFT] magic mouse castle world
+UID:NdczOAVJgsI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【SKYRIM】Fight for Hope\nhttps://www.youtube.com/watch?v=nwH92DhcmDw
 DURATION:PT2H
 DTSTART:20220114T030000Z
 SUMMARY:IRyS: 【SKYRIM】Fight for Hope
 UID:nwH92DhcmDw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Planet Zoo】Paws Claws Mauls\nhttps://www.youtube.com/watch?v=tW9iFo-6J8M
+DURATION:PT2H
+DTSTART:20220114T033000Z
+SUMMARY:Mumei: 【Planet Zoo】Paws Claws Mauls
+UID:tW9iFo-6J8M
 END:VEVENT
 END:VCALENDAR
