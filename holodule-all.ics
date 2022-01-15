@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Phasmophobia】はじめて幽霊調査やる👻【#夏街すいり】\nhttps://www.youtube.com/watch?v=h5NGZuFLa0c
-DURATION:PT2H
-DTSTART:20220115T120000Z
-SUMMARY:☄星街すいせい: 【Phasmophobia】はじめて幽霊調査やる👻【#夏街すいり】
-UID:h5NGZuFLa0c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 ARK 】初心者、参戦します！！！！！【 桃鈴ねね / ホロライブ / #ねねいろらいぶ  】\nhttps://www.youtube.com/watch?v=L0LvZaZSo3g
 DURATION:PT2H
 DTSTART:20220114T130000Z
@@ -291,6 +284,13 @@ SUMMARY:🍬姫森ルーナ: 【 夜遊び 】深夜の安眠導入！ルーナ�
 UID:F-u8KiPjJ_A
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【hololiveID】AREA15 : EDISI RISU ULTAH !!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=MB8gySsZJuQ
+DURATION:PT2H
+DTSTART:20220115T140000Z
+SUMMARY:🐿Risu: 【hololiveID】AREA15 : EDISI RISU ULTAH !!!!【Ayunda Risu】
+UID:MB8gySsZJuQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:≪NEW OUTFIT REVEAL≫ RAT IN KIMONO FORM!!! #HoloENKimonoRelay\nhttps://www.youtube.com/watch?v=rIDpLX_bGow
 DURATION:PT2H
 DTSTART:20220115T230000Z
@@ -298,18 +298,18 @@ SUMMARY:Baelz: ≪NEW OUTFIT REVEAL≫ RAT IN KIMONO FORM!!! #HoloENKimonoRelay
 UID:rIDpLX_bGow
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ドラクエ8】ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=Dioe5ppxHks
-DURATION:PT2H
-DTSTART:20220116T040000Z
-SUMMARY:👯兎田ぺこら: 【ドラクエ8】ぺこ！【ホロライブ/兎田ぺこら】
-UID:Dioe5ppxHks
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:HEY！！！！！！！！！！！！！！！！ /  アステル・レダ\nhttps://www.youtube.com/watch?v=GNDTVl6LX2Q
 DURATION:PT2H
 DTSTART:20220114T133000Z
 SUMMARY:🎭アステル・レダ: HEY！！！！！！！！！！！！！！！！ /  アステル・レダ
 UID:GNDTVl6LX2Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ドラクエ8】ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=Dioe5ppxHks
+DURATION:PT2H
+DTSTART:20220116T040000Z
+SUMMARY:👯兎田ぺこら: 【ドラクエ8】ぺこ！【ホロライブ/兎田ぺこら】
+UID:Dioe5ppxHks
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【NEW OUTFIT REVEAL】 Kimono Kirin! #HoloENKimonoRelay\nhttps://www.youtube.com/watch?v=j-xC8cYxFbw
