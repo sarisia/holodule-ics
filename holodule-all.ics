@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【世界のアソビ大全51】いっぱい遊ぼうZE！！！【ホロライブ/夜空メル＆鷹嶺ルイ】\nhttps://www.youtube.com/watch?v=-FlADWHDZxg
+DURATION:PT2H
+DTSTART:20220117T140000Z
+SUMMARY:🌟夜空メル: 【世界のアソビ大全51】いっぱい遊ぼうZE！！！【ホロライブ/夜空メル＆鷹嶺ルイ】
+UID:-FlADWHDZxg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【PHOGS!】PHOGS! CONTINUED !!! 【荒咬オウガ  Ayunda Risu】\nhttps://www.youtube.com/watch?v=wI-aN26Azbs
 DURATION:PT2H
 DTSTART:20220116T130000Z
 SUMMARY:🐿Risu: 【PHOGS!】PHOGS! CONTINUED !!! 【荒咬オウガ  Ayunda Risu】
 UID:wI-aN26Azbs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MONSTER HUNTER RISE】半年ぶりに一狩りいこうぜ！【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=ULdtu_GQs6Q
+DURATION:PT2H
+DTSTART:20220116T130000Z
+SUMMARY:🔥不知火フレア: 【MONSTER HUNTER RISE】半年ぶりに一狩りいこうぜ！【ホロライブ/不知火フレア】
+UID:ULdtu_GQs6Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【モーリーオンライン】ぺこぼたグッズをGETするぞい！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=SZpKVKo7o5s
@@ -25,11 +39,11 @@ SUMMARY:🚑大空スバル: 【#生スバル】龍が如く極２やるしゅ�
 UID:WChoKbAI7XU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】まじで鍛えます【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=7wTSSwSP7bE
+DESCRIPTION:#2【 ドラクエV 】ドラクエ完全初見！青年へ･･本当の冒険がいまはじまる、にぇ！【ホロライブ/さくらみこ】※ネタバレあり\nhttps://www.youtube.com/watch?v=PBBOBDRr9KM
 DURATION:PT2H
-DTSTART:20220116T113000Z
-SUMMARY:ラプラス: 【雑談】まじで鍛えます【ラプラス・ダークネス/ホロライブ】
-UID:7wTSSwSP7bE
+DTSTART:20220116T040000Z
+SUMMARY:🌸さくらみこ: #2【 ドラクエV 】ドラクエ完全初見！青年へ･･本当の冒険がいまはじまる、にぇ！【ホロライブ/さくらみこ】※ネタバレあり
+UID:PBBOBDRr9KM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【KIMONO COLLAB】 Council Plays PICTIONARY #HoloENKimonoRelay\nhttps://www.youtube.com/watch?v=DNhPtuL_VQ4
@@ -53,11 +67,11 @@ SUMMARY:🐻ときのそら: 【ポケモンBD】今日で最終回！？リー�
 UID:dO6Wr9KKMrQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ゼルダの伝説 ブレス オブ ザ ワイルド】ただただ寄り道する朝活ゼルダ！｜完全初見のBotW ＃14【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=WTK1w7IBJXA
+DESCRIPTION:【雑談】まじで鍛えます【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=7wTSSwSP7bE
 DURATION:PT2H
-DTSTART:20220117T000000Z
-SUMMARY:雪花ラミィ: 【ゼルダの伝説 ブレス オブ ザ ワイルド】ただただ寄り道する朝活ゼルダ！｜完全初見のBotW ＃14【雪花ラミィ/ホロライブ】
-UID:WTK1w7IBJXA
+DTSTART:20220116T113000Z
+SUMMARY:ラプラス: 【雑談】まじで鍛えます【ラプラス・ダークネス/ホロライブ】
+UID:7wTSSwSP7bE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【料理/cook】カメラ有🍓苺飴を初めて作ってみる🍓✨Strawberry candymake✨【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=ynvbf6g8PHg
@@ -65,6 +79,13 @@ DURATION:PT2H
 DTSTART:20220116T100000Z
 SUMMARY:🤖ロボ子さん: 【料理/cook】カメラ有🍓苺飴を初めて作ってみる🍓✨Strawberry candymake✨【ホロライブ/ロボ子さん】
 UID:ynvbf6g8PHg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゼルダの伝説 ブレス オブ ザ ワイルド】ただただ寄り道する朝活ゼルダ！｜完全初見のBotW ＃14【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=WTK1w7IBJXA
+DURATION:PT2H
+DTSTART:20220117T000000Z
+SUMMARY:雪花ラミィ: 【ゼルダの伝説 ブレス オブ ザ ワイルド】ただただ寄り道する朝活ゼルダ！｜完全初見のBotW ＃14【雪花ラミィ/ホロライブ】
+UID:WTK1w7IBJXA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【アニメ】チョコまみれにしてやんよ！\nhttps://www.youtube.com/watch?v=Ez2n-qKqrxc
@@ -114,6 +135,13 @@ DURATION:PT2H
 DTSTART:20220116T133000Z
 SUMMARY:🌺花咲みやび: 【OMORI】心がぐちゃぐちゃになる引きこもりホラーRPG #1【花咲みやび/ホロスターズ】
 UID:yMIRHOB5bUY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】第７４回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=KCwDErzg8rs
+DURATION:PT2H
+DTSTART:20220116T140000Z
+SUMMARY:🐏角巻わため: 【歌枠】第７４回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】
+UID:KCwDErzg8rs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TLOZ: LINKS AWAKENING】Okite Okite Okiteeeeeee LINK!!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=8Flzv4pZUak
