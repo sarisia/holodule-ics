@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【PHOGS!】PHOGS! CONTINUED !!! 【荒咬オウガ  Ayunda Risu】\nhttps://www.youtube.com/watch?v=wI-aN26Azbs
+DURATION:PT2H
+DTSTART:20220116T130000Z
+SUMMARY:🐿Risu: 【PHOGS!】PHOGS! CONTINUED !!! 【荒咬オウガ  Ayunda Risu】
+UID:wI-aN26Azbs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Phasmophobia】はじめて幽霊調査やる👻【#夏街すいり】\nhttps://www.youtube.com/watch?v=h5NGZuFLa0c
 DURATION:PT2H
 DTSTART:20220115T120000Z
@@ -284,18 +291,18 @@ SUMMARY:🍬姫森ルーナ: 【 真砂楼 】コワクナイ…コワクナイ�
 UID:i8S7blcqi80
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】1月の最近いろいろあった話とか【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=h7q-AwdIx2M
-DURATION:PT2H
-DTSTART:20220116T130000Z
-SUMMARY:獅白ぼたん: 【雑談】1月の最近いろいろあった話とか【獅白ぼたん/ホロライブ】
-UID:h7q-AwdIx2M
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Phasmophobia】久しぶりにおばけ見に行くョ【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=092thNLy3uU
 DURATION:PT2H
 DTSTART:20220115T120000Z
 SUMMARY:🏮夏色まつり: 【Phasmophobia】久しぶりにおばけ見に行くョ【ホロライブ/夏色まつり】
 UID:092thNLy3uU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】1月の最近いろいろあった話とか【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=h7q-AwdIx2M
+DURATION:PT2H
+DTSTART:20220116T130000Z
+SUMMARY:獅白ぼたん: 【雑談】1月の最近いろいろあった話とか【獅白ぼたん/ホロライブ】
+UID:h7q-AwdIx2M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スターバース開封！】ポケカ買えた～～！デッキ組むの楽しみ！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=H-GXqEybwoY
