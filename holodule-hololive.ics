@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【歌枠】 歌いたい衝動にかられて / singing KARAOKE【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=jgPfb5_Qy3A
+DURATION:PT2H
+DTSTART:20220120T140000Z
+SUMMARY:🏮夏色まつり: 【歌枠】 歌いたい衝動にかられて / singing KARAOKE【ホロライブ/夏色まつり】
+UID:jgPfb5_Qy3A
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ARK】深夜の大冒険！！まだ見ぬ世界に行きたい！＜5日目＞【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=PGUdi05siaw
 DURATION:PT2H
 DTSTART:20220119T140000Z
@@ -18,32 +25,11 @@ SUMMARY:鷹嶺ルイ: 【Lunch Time雑談】楽しかったオフコラボの話
 UID:uiPZ8mY3A3I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #バカタレ共 】バカタレ共のARK生活…この周辺はYABE【ホロライブ/白上フブキ/不知火フレア/角巻わため】\nhttps://www.youtube.com/watch?v=VUvi8_KDrFQ
-DURATION:PT2H
-DTSTART:20220119T040000Z
-SUMMARY:🌽白上フブキ: 【 #バカタレ共 】バカタレ共のARK生活…この周辺はYABE【ホロライブ/白上フブキ/不知火フレア/角巻わため】
-UID:VUvi8_KDrFQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【THE WATCHERS】超絶怖そうなホラゲも、アーニャ先輩がいればこわくない！？【Anya Melfissa/博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=zvqijT6YigU
 DURATION:PT2H
 DTSTART:20220120T130000Z
 SUMMARY:博衣こより: 【THE WATCHERS】超絶怖そうなホラゲも、アーニャ先輩がいればこわくない！？【Anya Melfissa/博衣こより/ホロライブ】
 UID:zvqijT6YigU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンBDSP】視聴者参加型 2vs2で大会練習！！あと交換会するッツ！【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=EyCedTEek4g
-DURATION:PT2H
-DTSTART:20220120T120000Z
-SUMMARY:ラプラス: 【ポケモンBDSP】視聴者参加型 2vs2で大会練習！！あと交換会するッツ！【ラプラス・ダークネス/ホロライブ】
-UID:EyCedTEek4g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#エッちゃまASMR するはずだった・・・。\nhttps://www.youtube.com/watch?v=jNrs14FCBMk
-DURATION:PT2H
-DTSTART:20220119T150000Z
-SUMMARY:❤赤井はあと: #エッちゃまASMR するはずだった・・・。
-UID:jNrs14FCBMk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VALORANT】ヴぁ～～～～～～～【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=F1T-Dp1kFBk
@@ -67,18 +53,74 @@ SUMMARY:雪花ラミィ: 【#ホロARK】引っ越しするぞぉ～！ARK生活
 UID:oj0CFn1er5w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ASMR】煽りを頑張るASMR～耳かき・梵天・囁き・スライム～【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=wRyXGqJHPwk
-DURATION:PT2H
-DTSTART:20220119T150000Z
-SUMMARY:博衣こより: 【ASMR】煽りを頑張るASMR～耳かき・梵天・囁き・スライム～【博衣こより/ホロライブ】
-UID:wRyXGqJHPwk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ARK：Lost Island】起きれたらバカタレ共でARKです！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=QXvDSi3lLbA
 DURATION:PT2H
 DTSTART:20220119T040000Z
 SUMMARY:🐏角巻わため: 【ARK：Lost Island】起きれたらバカタレ共でARKです！【角巻わため/ホロライブ４期生】
 UID:QXvDSi3lLbA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【シャイニングパール】最終決戦！！！！勝負だ！！！！【＃スバおか対決 /ホロライブ】\nhttps://www.youtube.com/watch?v=SnAjNkO0WKM
+DURATION:PT2H
+DTSTART:20220119T110000Z
+SUMMARY:🍙猫又おかゆ: 【シャイニングパール】最終決戦！！！！勝負だ！！！！【＃スバおか対決 /ホロライブ】
+UID:SnAjNkO0WKM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#つながるホロライブ】お題にLink！カードでつながるホロライブ【#お題にLink】\nhttps://www.youtube.com/watch?v=MMynD8MxeIE
+DURATION:PT2H
+DTSTART:20220121T110000Z
+SUMMARY:ホロライブ: 【#つながるホロライブ】お題にLink！カードでつながるホロライブ【#お題にLink】
+UID:MMynD8MxeIE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK】本格始動！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=zzNmnGF20to
+DURATION:PT2H
+DTSTART:20220119T120000Z
+SUMMARY:👯兎田ぺこら: 【ARK】本格始動！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:zzNmnGF20to
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】国際交流APEX！！チャンピオンとるぞ！！【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=ikHlQBIIwb4
+DURATION:PT2H
+DTSTART:20220120T040000Z
+SUMMARY:鷹嶺ルイ: 【APEX】国際交流APEX！！チャンピオンとるぞ！！【鷹嶺ルイ/ホロライブ】
+UID:ikHlQBIIwb4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ほぼ毎日ショート#42】鷹嶺ルイのタイ語講座　#shorts\nhttps://www.youtube.com/watch?v=2Ea5FKpqtfY
+DURATION:PT2H
+DTSTART:20220119T103004Z
+SUMMARY:鷹嶺ルイ: 【ほぼ毎日ショート#42】鷹嶺ルイのタイ語講座　#shorts
+UID:2Ea5FKpqtfY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #バカタレ共 】バカタレ共のARK生活…この周辺はYABE【ホロライブ/白上フブキ/不知火フレア/角巻わため】\nhttps://www.youtube.com/watch?v=VUvi8_KDrFQ
+DURATION:PT2H
+DTSTART:20220119T040000Z
+SUMMARY:🌽白上フブキ: 【 #バカタレ共 】バカタレ共のARK生活…この周辺はYABE【ホロライブ/白上フブキ/不知火フレア/角巻わため】
+UID:VUvi8_KDrFQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポケモンBDSP】視聴者参加型 2vs2で大会練習！！あと交換会するッツ！【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=EyCedTEek4g
+DURATION:PT2H
+DTSTART:20220120T120000Z
+SUMMARY:ラプラス: 【ポケモンBDSP】視聴者参加型 2vs2で大会練習！！あと交換会するッツ！【ラプラス・ダークネス/ホロライブ】
+UID:EyCedTEek4g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#エッちゃまASMR するはずだった・・・。\nhttps://www.youtube.com/watch?v=jNrs14FCBMk
+DURATION:PT2H
+DTSTART:20220119T150000Z
+SUMMARY:❤赤井はあと: #エッちゃまASMR するはずだった・・・。
+UID:jNrs14FCBMk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ASMR】煽りを頑張るASMR～耳かき・梵天・囁き・スライム～【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=wRyXGqJHPwk
+DURATION:PT2H
+DTSTART:20220119T150000Z
+SUMMARY:博衣こより: 【ASMR】煽りを頑張るASMR～耳かき・梵天・囁き・スライム～【博衣こより/ホロライブ】
+UID:wRyXGqJHPwk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】ちょこっと歌いたい枠【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=pbDc8m7E_fA
@@ -93,13 +135,6 @@ DURATION:PT2H
 DTSTART:20220119T130000Z
 SUMMARY:🏮夏色まつり: 【APEXランク】ソロランクチャレンジ💎【ホロライブ/夏色まつり】
 UID:K0vfObwCJYk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【シャイニングパール】最終決戦！！！！勝負だ！！！！【＃スバおか対決 /ホロライブ】\nhttps://www.youtube.com/watch?v=SnAjNkO0WKM
-DURATION:PT2H
-DTSTART:20220119T110000Z
-SUMMARY:🍙猫又おかゆ: 【シャイニングパール】最終決戦！！！！勝負だ！！！！【＃スバおか対決 /ホロライブ】
-UID:SnAjNkO0WKM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Limbo Challenge【hololive/宝鐘マリン】\nhttps://www.youtube.com/watch?v=CYtT8hKwXsk
@@ -137,13 +172,6 @@ SUMMARY:獅白ぼたん: 【ARK】弊社なら年内施工も可能です！【�
 UID:g6W5bBRdGVU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#つながるホロライブ】お題にLink！カードでつながるホロライブ【#お題にLink】\nhttps://www.youtube.com/watch?v=MMynD8MxeIE
-DURATION:PT2H
-DTSTART:20220121T110000Z
-SUMMARY:ホロライブ: 【#つながるホロライブ】お題にLink！カードでつながるホロライブ【#お題にLink】
-UID:MMynD8MxeIE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【＃スバおか対決 】これが本当の最終決戦しゅばあああああ！！！！：pokemon【ホロライブ】\nhttps://www.youtube.com/watch?v=zsYfT6T4V6A
 DURATION:PT2H
 DTSTART:20220119T110000Z
@@ -172,27 +200,6 @@ SUMMARY:💫天音かなた: 【#軽井沢別荘合宿】カレーづくりす�
 UID:-82x93u7rUA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】朝活！まったりおしゃべりしよ～！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=aGf1dnM_dfM
-DURATION:PT2H
-DTSTART:20220118T220000Z
-SUMMARY:博衣こより: 【雑談】朝活！まったりおしゃべりしよ～！【博衣こより/ホロライブ】
-UID:aGf1dnM_dfM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARK】本格始動！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=zzNmnGF20to
-DURATION:PT2H
-DTSTART:20220119T120000Z
-SUMMARY:👯兎田ぺこら: 【ARK】本格始動！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:zzNmnGF20to
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】国際交流APEX！！チャンピオンとるぞ！！【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=ikHlQBIIwb4
-DURATION:PT2H
-DTSTART:20220120T040000Z
-SUMMARY:鷹嶺ルイ: 【APEX】国際交流APEX！！チャンピオンとるぞ！！【鷹嶺ルイ/ホロライブ】
-UID:ikHlQBIIwb4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【SMOK】４人でナワバリバトルでわちゃわちゃ遊ぶ！【スプラ２】\nhttps://www.youtube.com/watch?v=PS5xRIgyTSg
 DURATION:PT2H
 DTSTART:20220119T140000Z
@@ -207,11 +214,11 @@ SUMMARY:博衣こより: 【メンバーシップ限定】お悩み相談Q.E.D.�
 UID:aygGphKhGFw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ほぼ毎日ショート#42】鷹嶺ルイのタイ語講座　#shorts\nhttps://www.youtube.com/watch?v=2Ea5FKpqtfY
+DESCRIPTION:【雑談】朝活！まったりおしゃべりしよ～！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=aGf1dnM_dfM
 DURATION:PT2H
-DTSTART:20220119T103004Z
-SUMMARY:鷹嶺ルイ: 【ほぼ毎日ショート#42】鷹嶺ルイのタイ語講座　#shorts
-UID:2Ea5FKpqtfY
+DTSTART:20220118T220000Z
+SUMMARY:博衣こより: 【雑談】朝活！まったりおしゃべりしよ～！【博衣こより/ホロライブ】
+UID:aGf1dnM_dfM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ホロライブ身体測定】噂の風真いろは様診察いたします！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=qIZFX7hfv78
