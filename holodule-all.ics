@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ARK】深夜の大冒険！！まだ見ぬ世界に行きたい！＜5日目＞【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=PGUdi05siaw
+DURATION:PT2H
+DTSTART:20220119T140000Z
+SUMMARY:⚔白銀ノエル: 【ARK】深夜の大冒険！！まだ見ぬ世界に行きたい！＜5日目＞【白銀ノエル/ホロライブ】
+UID:PGUdi05siaw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Apex Legends】LET'S GO GET THE CHAMPION~! Devote Your Life to Devotion【 iofi / イオフィ 】\nhttps://www.youtube.com/watch?v=axLyj1N9CiA
 DURATION:PT2H
 DTSTART:20220120T040000Z
 SUMMARY:🎨Iofi: 【Apex Legends】LET'S GO GET THE CHAMPION~! Devote Your Life to Devotion【 iofi / イオフィ 】
 UID:axLyj1N9CiA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PAYDAY 2】THE ULTIMATE GANG 【Reine/Anya/IRyS/Kronii】\nhttps://www.youtube.com/watch?v=jOZpcBn5bxY
-DURATION:PT2H
-DTSTART:20220118T050000Z
-SUMMARY:IRyS: 【PAYDAY 2】THE ULTIMATE GANG 【Reine/Anya/IRyS/Kronii】
-UID:jOZpcBn5bxY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝こよ#14】おはこよおおおお！！コヨリニウム摂取の時間だよー！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=KPucdhKdtHw
@@ -30,6 +30,13 @@ DURATION:PT2H
 DTSTART:20220119T030523Z
 SUMMARY:鷹嶺ルイ: 【Lunch Time雑談】楽しかったオフコラボの話など…！【鷹嶺ルイ/ホロライブ】
 UID:uiPZ8mY3A3I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PAYDAY 2】THE ULTIMATE GANG 【Reine/Anya/IRyS/Kronii】\nhttps://www.youtube.com/watch?v=jOZpcBn5bxY
+DURATION:PT2H
+DTSTART:20220118T050000Z
+SUMMARY:IRyS: 【PAYDAY 2】THE ULTIMATE GANG 【Reine/Anya/IRyS/Kronii】
+UID:jOZpcBn5bxY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TLOZ: LINKS AWAKENING】I AM MAKING A BAND!!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=SVybGcZiESQ
@@ -207,10 +214,10 @@ SUMMARY:🦔💨岸堂天真: 【Ark LostIsland】温泉から帰宅して超元
 UID:KXaOtqgD4B8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#SMOK】４人でリグマやるで！！！【Splatoon2】\nhttps://www.youtube.com/watch?v=XHaVG9hX1Rc
+DESCRIPTION:【#SMOK】４人でナワバリやるで！！！【Splatoon2】\nhttps://www.youtube.com/watch?v=XHaVG9hX1Rc
 DURATION:PT2H
 DTSTART:20220119T140000Z
-SUMMARY:🥐戌神ころね: 【#SMOK】４人でリグマやるで！！！【Splatoon2】
+SUMMARY:🥐戌神ころね: 【#SMOK】４人でナワバリやるで！！！【Splatoon2】
 UID:XHaVG9hX1Rc
 END:VEVENT
 BEGIN:VEVENT
@@ -233,13 +240,6 @@ DURATION:PT2H
 DTSTART:20220118T104855Z
 SUMMARY:影山シエン: 終わってる滑舌 #short
 UID:M7q21MY2ijo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】ちょこっと歌いたい枠【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=pbDc8m7E_fA
-DURATION:PT2H
-DTSTART:20220119T120000Z
-SUMMARY:🐻ときのそら: 【歌枠】ちょこっと歌いたい枠【#ときのそら生放送】
-UID:pbDc8m7E_fA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 ARK 】アイスワイバーンと新恐竜をげっつしたいにぇ！の巻【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=SGnlO6UQ1dk
@@ -366,13 +366,6 @@ DURATION:PT2H
 DTSTART:20220118T033000Z
 SUMMARY:Mumei: 【SONG RELEASE AFTER PARTY】Part II
 UID:efHD5NpaWMY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【メン限/Memberonly】公式HPの内容を詰めよう！！助けて眷属【常闇トワ】\nhttps://www.youtube.com/watch?v=jVdB7M1AAdY
-DURATION:PT2H
-DTSTART:20220119T130000Z
-SUMMARY:👾常闇トワ: 【メン限/Memberonly】公式HPの内容を詰めよう！！助けて眷属【常闇トワ】
-UID:jVdB7M1AAdY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】スバおか後夜祭🚑🍙【#スバおかおっぱっぴー /ホロライブ】\nhttps://www.youtube.com/watch?v=tY4--v4YmdU
