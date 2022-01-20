@@ -249,18 +249,18 @@ SUMMARY:🌽白上フブキ: 【phasmophobia】特定失敗で即放送終了幽
 UID:0mYZMXdh3AY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Catch Up! Kimono +_ Song Release\nhttps://www.youtube.com/watch?v=JqieL3hVAwk
-DURATION:PT2H
-DTSTART:20220120T031945Z
-SUMMARY:Mumei: Catch Up! Kimono +_ Song Release
-UID:JqieL3hVAwk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:世にも恐ろしい視聴者さんの汚部屋に行く ※最後にお知らせ有【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=W0x2M_7fJDU
 DURATION:PT2H
 DTSTART:20220120T093000Z
 SUMMARY:🦋潤羽るしあ: 世にも恐ろしい視聴者さんの汚部屋に行く ※最後にお知らせ有【潤羽るしあ/ホロライブ】
 UID:W0x2M_7fJDU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Catch Up! Kimono +_ Song Release\nhttps://www.youtube.com/watch?v=JqieL3hVAwk
+DURATION:PT2H
+DTSTART:20220120T031945Z
+SUMMARY:Mumei: Catch Up! Kimono +_ Song Release
+UID:JqieL3hVAwk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARK】弊社なら年内施工も可能です！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=g6W5bBRdGVU
@@ -291,6 +291,13 @@ SUMMARY:ホロライブ: 【MV】おにけもだんす / いろはにほへ�
 UID:4Hg0Nchl3HU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:≪歌枠≫ 久しぶりに日本語だけ配信！\nhttps://www.youtube.com/watch?v=KP1SRImu5r0
+DURATION:PT2H
+DTSTART:20220120T110000Z
+SUMMARY:Baelz: ≪歌枠≫ 久しぶりに日本語だけ配信！
+UID:KP1SRImu5r0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Superchat Catchup】What We Do Here Is Go Back\nhttps://www.youtube.com/watch?v=gR2KaHe6Xcw
 DURATION:PT2H
 DTSTART:20220119T040000Z
@@ -298,11 +305,18 @@ SUMMARY:Kronii: 【Superchat Catchup】What We Do Here Is Go Back
 UID:gR2KaHe6Xcw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪歌枠≫ 久しぶりに日本語だけ配信！\nhttps://www.youtube.com/watch?v=KP1SRImu5r0
+DESCRIPTION:【OMORI】完全初見で遊ぶOMORI#3【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=30RaMJkv4QM
 DURATION:PT2H
-DTSTART:20220120T110000Z
-SUMMARY:Baelz: ≪歌枠≫ 久しぶりに日本語だけ配信！
-UID:KP1SRImu5r0
+DTSTART:20220120T130000Z
+SUMMARY:🍙猫又おかゆ: 【OMORI】完全初見で遊ぶOMORI#3【猫又おかゆ/ホロライブ】
+UID:30RaMJkv4QM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#軽井沢別荘合宿】カレーづくりすぺーすのアーカイブ【ホロライブ】\nhttps://www.youtube.com/watch?v=-82x93u7rUA
+DURATION:PT2H
+DTSTART:20220120T100000Z
+SUMMARY:💫天音かなた: 【#軽井沢別荘合宿】カレーづくりすぺーすのアーカイブ【ホロライブ】
+UID:-82x93u7rUA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】Shootin' w/ Iofi and Lui!\nhttps://www.youtube.com/watch?v=Mory0I9vXtI
@@ -317,20 +331,6 @@ DURATION:PT2H
 DTSTART:20220118T163000Z
 SUMMARY:🔥不知火フレア: 【ARK Lost Island】わわわわワイバーン！？からの笑撃のラスト【不知火フレア/ホロライブ】
 UID:uhyqNbP9Ia8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#軽井沢別荘合宿】カレーづくりすぺーすのアーカイブ【ホロライブ】\nhttps://www.youtube.com/watch?v=-82x93u7rUA
-DURATION:PT2H
-DTSTART:20220120T100000Z
-SUMMARY:💫天音かなた: 【#軽井沢別荘合宿】カレーづくりすぺーすのアーカイブ【ホロライブ】
-UID:-82x93u7rUA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【OMORI】完全初見で遊ぶOMORI#3【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=30RaMJkv4QM
-DURATION:PT2H
-DTSTART:20220120T130000Z
-SUMMARY:🍙猫又おかゆ: 【OMORI】完全初見で遊ぶOMORI#3【猫又おかゆ/ホロライブ】
-UID:30RaMJkv4QM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SMOK】４人でナワバリバトルでわちゃわちゃ遊ぶ！【スプラ２】\nhttps://www.youtube.com/watch?v=PS5xRIgyTSg
@@ -438,6 +438,13 @@ SUMMARY:Fauna: 【JUMP KING】 Time to Suffer? #holoCouncil
 UID:-RIbQVhArzw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Inscryption】Showdown With The Mastermind | #3\nhttps://www.youtube.com/watch?v=c6xrOE7k_lI
+DURATION:PT2H
+DTSTART:20220120T040000Z
+SUMMARY:Kronii: 【Inscryption】Showdown With The Mastermind | #3
+UID:c6xrOE7k_lI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#神楽めあがROBELに来店】来店よりも襲来という言葉の方が似合うかもしれない…！神楽めあさんの来店じゃい！【夕刻ロベル/神楽めあ】\nhttps://www.youtube.com/watch?v=lS-fPRvmUUg
 DURATION:PT2H
 DTSTART:20220119T120000Z
@@ -464,6 +471,13 @@ DURATION:PT2H
 DTSTART:20220119T150000Z
 SUMMARY:❤赤井はあと: #エッちゃまASMR するはずだった・・・。
 UID:jNrs14FCBMk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポルカの伝説】生で井筒さんとしゃべろう第一回！\nhttps://www.youtube.com/watch?v=TAc8Z3BaqXg
+DURATION:PT2H
+DTSTART:20220120T100000Z
+SUMMARY:尾丸ポルカ: 【ポルカの伝説】生で井筒さんとしゃべろう第一回！
+UID:TAc8Z3BaqXg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【WADUH】The Inevitable Late Night Free Talk【Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=u3OGg6huh78
