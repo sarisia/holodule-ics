@@ -305,13 +305,6 @@ SUMMARY:ホロライブ: 【MV】おにけもだんす / いろはにほへ�
 UID:4Hg0Nchl3HU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪歌枠≫ 久しぶりに日本語だけ配信！\nhttps://www.youtube.com/watch?v=KP1SRImu5r0
-DURATION:PT2H
-DTSTART:20220120T110000Z
-SUMMARY:Baelz: ≪歌枠≫ 久しぶりに日本語だけ配信！
-UID:KP1SRImu5r0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Superchat Catchup】What We Do Here Is Go Back\nhttps://www.youtube.com/watch?v=gR2KaHe6Xcw
 DURATION:PT2H
 DTSTART:20220119T040000Z
@@ -422,6 +415,13 @@ DURATION:PT2H
 DTSTART:20220120T120000Z
 SUMMARY:👯兎田ぺこら: 【#hololiveERROR】ホロライブ×ホラゲー！？【ホロライブ/兎田ぺこら】
 UID:uSA3BVw6MZI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪歌枠≫ 久しぶりに日本語だけ配信！PART 2\nhttps://www.youtube.com/watch?v=glZupagODT4
+DURATION:PT2H
+DTSTART:20220120T125500Z
+SUMMARY:Baelz: ≪歌枠≫ 久しぶりに日本語だけ配信！PART 2
+UID:glZupagODT4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【OMORI】手探りで挑む、話題作【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=ui_xMXF8LG4
@@ -594,7 +594,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HANAKO】WHY WAS THIS IN MY SCHEDULE【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=GHjp6ydZBXk
 DURATION:PT2H
-DTSTART:20220120T130000Z
+DTSTART:20220120T130120Z
 SUMMARY:Ollie: 【HANAKO】WHY WAS THIS IN MY SCHEDULE【Hololive Indonesia 2nd Gen】
 UID:GHjp6ydZBXk
 END:VEVENT
