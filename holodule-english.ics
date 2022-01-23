@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Crypt of the NecroDancer】hop to the beat!\nhttps://www.youtube.com/watch?v=NytRuJWwU-w
+DURATION:PT2H
+DTSTART:20220123T010638Z
+SUMMARY:Gura: 【Crypt of the NecroDancer】hop to the beat!
+UID:NytRuJWwU-w
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 ARK 】 shARK\nhttps://www.youtube.com/watch?v=ZKN4N7ED3X8
 DURATION:PT2H
 DTSTART:20220123T043629Z
@@ -23,19 +30,5 @@ DURATION:PT2H
 DTSTART:20220122T231500Z
 SUMMARY:Baelz: ≪COFFEEnCHILL≫ OOOOOOOOO hi
 UID:CLZdsXwJAwU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Crypt of the NecroDancer】hop to the beat!\nhttps://www.youtube.com/watch?v=NytRuJWwU-w
-DURATION:PT2H
-DTSTART:20220123T010638Z
-SUMMARY:Gura: 【Crypt of the NecroDancer】hop to the beat!
-UID:NytRuJWwU-w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HOLOTALK】With our 20th guest: YAGOO #HOLOTALK #ホロトーク\nhttps://www.youtube.com/watch?v=EW68UJ_b3Yk
-DURATION:PT2H
-DTSTART:20220123T140000Z
-SUMMARY:Kiara: 【HOLOTALK】With our 20th guest: YAGOO #HOLOTALK #ホロトーク
-UID:EW68UJ_b3Yk
 END:VEVENT
 END:VCALENDAR
