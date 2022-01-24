@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【弾き語り枠】ただいまの歌【律可/ホロスターズ】 #りつすた\nhttps://www.youtube.com/watch?v=Xg93QwOE6NA
+DURATION:PT2H
+DTSTART:20220124T130000Z
+SUMMARY:⚙律可: 【弾き語り枠】ただいまの歌【律可/ホロスターズ】 #りつすた
+UID:Xg93QwOE6NA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【OMORI】手探りで挑む、話題作 #3【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=iEgM7PiIjL0
 DURATION:PT2H
 DTSTART:20220123T050000Z
@@ -51,6 +58,13 @@ DURATION:PT2H
 DTSTART:20220123T023000Z
 SUMMARY:🎭アステル・レダ: 『karaoke_歌枠』昼活！！ハムカツ！！ドン勝つ！！！ /  アステル・レダ
 UID:5oB0eiKp8og
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌ってみた】ロウワー / ぬゆり『covered by 律可』\nhttps://www.youtube.com/watch?v=pELP7sBBIJU
+DURATION:PT2H
+DTSTART:20220124T141500Z
+SUMMARY:⚙律可: 【歌ってみた】ロウワー / ぬゆり『covered by 律可』
+UID:pELP7sBBIJU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Ark LostIsland】今日はみやびアランが助けに来てくれました。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=_iQbhM995ZA
