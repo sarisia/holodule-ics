@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 ARK 】 shARK\nhttps://www.youtube.com/watch?v=ZKN4N7ED3X8
-DURATION:PT2H
-DTSTART:20220123T043629Z
-SUMMARY:Gura: 【 ARK 】 shARK
-UID:ZKN4N7ED3X8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【BULLY】on your knees\, nerd!\nhttps://www.youtube.com/watch?v=SC47pvmL9Yk
 DURATION:PT2H
 DTSTART:20220124T010320Z
 SUMMARY:Gura: 【BULLY】on your knees\, nerd!
 UID:SC47pvmL9Yk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Short Notice!\nhttps://www.youtube.com/watch?v=RR6-jLTBZwU
-DURATION:PT2H
-DTSTART:20220122T220000Z
-SUMMARY:Ina: A Short Notice!
-UID:RR6-jLTBZwU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪COFFEEnCHILL≫ OOOOOOOOO hi\nhttps://www.youtube.com/watch?v=CLZdsXwJAwU
@@ -51,5 +37,26 @@ DURATION:PT2H
 DTSTART:20220123T140000Z
 SUMMARY:Kiara: 【HOLOTALK】With our 20th guest: YAGOO #HOLOTALK #ホロトーク
 UID:EW68UJ_b3Yk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪Big Brain Academy: Brain vs. Brain≫  how does the rat brain operate at 5am?\nhttps://www.youtube.com/watch?v=-tyCdKCCOtc
+DURATION:PT2H
+DTSTART:20220124T180000Z
+SUMMARY:Baelz: ≪Big Brain Academy: Brain vs. Brain≫  how does the rat brain operate at 5am?
+UID:-tyCdKCCOtc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 ARK 】 shARK\nhttps://www.youtube.com/watch?v=ZKN4N7ED3X8
+DURATION:PT2H
+DTSTART:20220123T043629Z
+SUMMARY:Gura: 【 ARK 】 shARK
+UID:ZKN4N7ED3X8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A Short Notice!\nhttps://www.youtube.com/watch?v=RR6-jLTBZwU
+DURATION:PT2H
+DTSTART:20220122T220000Z
+SUMMARY:Ina: A Short Notice!
+UID:RR6-jLTBZwU
 END:VEVENT
 END:VCALENDAR
