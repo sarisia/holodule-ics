@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】みんなで遊ぶかっ！【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=lUmjXHhRaIA
-DURATION:PT2H
-DTSTART:20220124T130000Z
-SUMMARY:🔥不知火フレア: 【マリオカート8DX】みんなで遊ぶかっ！【ホロライブ/不知火フレア】
-UID:lUmjXHhRaIA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠】練習会会場🎤\nhttps://www.youtube.com/watch?v=3enlAJJriIE
 DURATION:PT2H
 DTSTART:20220123T150000Z
@@ -53,13 +46,6 @@ SUMMARY:🏮夏色まつり: 【ARK】のえたんに最強ティラノを！【
 UID:g5RMVdasVtg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ゲームソフト紹介🎮｜ルーナたんのPlayStationソフト公開なのら！💜Part.2【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=9iMZKFsFHfQ
-DURATION:PT2H
-DTSTART:20220124T140000Z
-SUMMARY:🍬姫森ルーナ: ゲームソフト紹介🎮｜ルーナたんのPlayStationソフト公開なのら！💜Part.2【#姫森ルーナ/ホロライブ】
-UID:9iMZKFsFHfQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【＃２】COUNTER: SIDE/カウンターサイド【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=KpToniwN9Mw
 DURATION:PT2H
 DTSTART:20220125T110000Z
@@ -95,11 +81,11 @@ SUMMARY:🌽白上フブキ: 【ポケモンBDSP】色違い旅パ /金コイキ
 UID:27QFNBxjvtQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝こよ#16】シルヴプレの話とかオフコラボの話とかコーナーも！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=dBN3EyfK8zE
+DESCRIPTION:【R6E】やるしかね～～～～～～～～～～【常闇トワ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=fbv7ABqKseA
 DURATION:PT2H
-DTSTART:20220124T220000Z
-SUMMARY:博衣こより: 【朝こよ#16】シルヴプレの話とかオフコラボの話とかコーナーも！【博衣こより/ホロライブ】
-UID:dBN3EyfK8zE
+DTSTART:20220124T130000Z
+SUMMARY:👾常闇トワ: 【R6E】やるしかね～～～～～～～～～～【常闇トワ視点/ホロライブ】
+UID:fbv7ABqKseA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロARK】あーーーーーーーーーーーく！ARK生活9日目【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=FTx6OGBJp_I
@@ -107,6 +93,13 @@ DURATION:PT2H
 DTSTART:20220124T130000Z
 SUMMARY:雪花ラミィ: 【#ホロARK】あーーーーーーーーーーーく！ARK生活9日目【雪花ラミィ/ホロライブ】
 UID:FTx6OGBJp_I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝こよ#16】シルヴプレの話とかオフコラボの話とかコーナーも！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=dBN3EyfK8zE
+DURATION:PT2H
+DTSTART:20220124T220000Z
+SUMMARY:博衣こより: 【朝こよ#16】シルヴプレの話とかオフコラボの話とかコーナーも！【博衣こより/ホロライブ】
+UID:dBN3EyfK8zE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】事故！！！下手ぴが突如えいぺっくすやるぞおお【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=V6wPdy-Y7bA
@@ -163,5 +156,12 @@ DURATION:PT2H
 DTSTART:20220124T130000Z
 SUMMARY:鷹嶺ルイ: 【R6E】先輩達と任務へ…！レインボーシックスエクストラクション【鷹嶺ルイ視点/ホロライブ】
 UID:0b7F60flFCc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】ホロ鯖で拠点作りの続き✨外装完成させて内装やるでござる🔥【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=8zaEl8ecnqA
+DURATION:PT2H
+DTSTART:20220124T113000Z
+SUMMARY:風真いろは: 【Minecraft】ホロ鯖で拠点作りの続き✨外装完成させて内装やるでござる🔥【風真いろは/ホロライブ】
+UID:8zaEl8ecnqA
 END:VEVENT
 END:VCALENDAR
