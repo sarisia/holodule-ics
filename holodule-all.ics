@@ -46,18 +46,18 @@ SUMMARY:桃鈴ねね: 【 ARK 】まったりテンションでまったり日�
 UID:Onn6la2RR9o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【PALADINS】with THE FAMOUS PALADINS ANNOUNCER AMELIA WATSON #kfp #キアライブ\nhttps://www.youtube.com/watch?v=9JfKSPXny2k
-DURATION:PT2H
-DTSTART:20220124T210000Z
-SUMMARY:Kiara: 【PALADINS】with THE FAMOUS PALADINS ANNOUNCER AMELIA WATSON #kfp #キアライブ
-UID:9JfKSPXny2k
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【録画はメン限】悪魔の永眠ASMR【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=4qSSlNpr19c
 DURATION:PT2H
 DTSTART:20220125T140000Z
 SUMMARY:💋癒月ちょこ: 【録画はメン限】悪魔の永眠ASMR【ホロライブ/癒月ちょこ】
 UID:4qSSlNpr19c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PALADINS】with THE FAMOUS PALADINS ANNOUNCER AMELIA WATSON #kfp #キアライブ\nhttps://www.youtube.com/watch?v=9JfKSPXny2k
+DURATION:PT2H
+DTSTART:20220124T210000Z
+SUMMARY:Kiara: 【PALADINS】with THE FAMOUS PALADINS ANNOUNCER AMELIA WATSON #kfp #キアライブ
+UID:9JfKSPXny2k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【NEEDY STREAMER OVERLOAD】M-chan Simulator!?!? LET'S GOOOOOO【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=X1-2Qwbk02k
@@ -114,13 +114,6 @@ DURATION:PT2H
 DTSTART:20220125T123000Z
 SUMMARY:ラプラス: 【歌枠】リクエスト求！頑張る！！！【ラプラス・ダークネス/ホロライブ】
 UID:owU94Kl6dog
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#hololiveERROR】そらちゃん…？子兎音様とホロライブ×ホラーゲーム【#あずきんち】\nhttps://www.youtube.com/watch?v=ZAx4878mrIU
-DURATION:PT2H
-DTSTART:20220124T130000Z
-SUMMARY:⚒AZKi: 【#hololiveERROR】そらちゃん…？子兎音様とホロライブ×ホラーゲーム【#あずきんち】
-UID:ZAx4878mrIU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【実写版クソゲーRPG】なんだこれ！？【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=f5Xp3APYIXE
@@ -221,6 +214,13 @@ SUMMARY:🌲大神ミオ: 【 #朝ミオ 】ちょっとお久しぶりのおは
 UID:Yuck9sBGjCU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【凸待ち】８０万人記念✨フリースタイル凸待ち🎉告知つき💕【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=kUkxMhl4tyk
+DURATION:PT2H
+DTSTART:20220126T110000Z
+SUMMARY:🤖ロボ子さん: 【凸待ち】８０万人記念✨フリースタイル凸待ち🎉告知つき💕【ホロライブ/ロボ子さん】
+UID:kUkxMhl4tyk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ARK】復活のARKなのだ！！！！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=nvu8j6tOsJM
 DURATION:PT2H
 DTSTART:20220124T110000Z
@@ -261,6 +261,27 @@ DURATION:PT2H
 DTSTART:20220125T090000Z
 SUMMARY:🍕アルランディス: 【Jump King】落下すなわち潰れます※手動【アルランディス/ホロスターズ】
 UID:314qsiyeHis
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ひとくち、ちょうだい？ / 瀬名航 feat. AZKi\nhttps://www.youtube.com/watch?v=6OHFULja-4s
+DURATION:PT2H
+DTSTART:20220126T110000Z
+SUMMARY:⚒AZKi: ひとくち、ちょうだい？ / 瀬名航 feat. AZKi
+UID:6OHFULja-4s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Ib】美術館大好き！いくぞおお！！！！【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=ipsZekHckOM
+DURATION:PT2H
+DTSTART:20220125T093000Z
+SUMMARY:ラプラス: 【Ib】美術館大好き！いくぞおお！！！！【ラプラス・ダークネス/ホロライブ】
+UID:ipsZekHckOM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】久しぶりの雑談配信じゃないか？【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=YFPs8Sss1ns
+DURATION:PT2H
+DTSTART:20220126T083000Z
+SUMMARY:ラプラス: 【雑談】久しぶりの雑談配信じゃないか？【ラプラス・ダークネス/ホロライブ】
+UID:YFPs8Sss1ns
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 ARK 】スバおか引率の先生に、みこはなるらしい、にぇ！！！！！【ホロライブ/さくらみこ視点】\nhttps://www.youtube.com/watch?v=udCfOlrTxk0
@@ -445,18 +466,18 @@ SUMMARY:博衣こより: シル・ヴ・プレジデント／博衣こより Cov
 UID:2ON2ZZHarMw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ARK Lost Island】真珠探しながら雑談するマン！天真くんが途中から来る【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=qhjQ5rFU9eE
-DURATION:PT2H
-DTSTART:20220124T140000Z
-SUMMARY:🍕アルランディス: 【ARK Lost Island】真珠探しながら雑談するマン！天真くんが途中から来る【アルランディス/ホロスターズ】
-UID:qhjQ5rFU9eE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Pokemon: Shining Pearl】SHINY HOOTHOOT PLEASE!\nhttps://www.youtube.com/watch?v=_cySgaPf1-0
 DURATION:PT2H
 DTSTART:20220125T020547Z
 SUMMARY:Mumei: 【Pokemon: Shining Pearl】SHINY HOOTHOOT PLEASE!
 UID:_cySgaPf1-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK Lost Island】真珠探しながら雑談するマン！天真くんが途中から来る【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=qhjQ5rFU9eE
+DURATION:PT2H
+DTSTART:20220124T140000Z
+SUMMARY:🍕アルランディス: 【ARK Lost Island】真珠探しながら雑談するマン！天真くんが途中から来る【アルランディス/ホロスターズ】
+UID:qhjQ5rFU9eE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#生スバル】なんとかして生き残りたい！！！！！：ARK【ホロライブ】\nhttps://www.youtube.com/watch?v=ks6KoxWnkdk
@@ -480,18 +501,18 @@ SUMMARY:Fauna: kirin streaming #holoCouncil
 UID:PD2LnnBBkuk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【はっちゃけすぎ】予告して逆凸したらとんでもないことになりました【カオス】\nhttps://www.youtube.com/watch?v=xh4emFXTp-g
+DURATION:PT2H
+DTSTART:20220125T100000Z
+SUMMARY:ホロライブ: 【はっちゃけすぎ】予告して逆凸したらとんでもないことになりました【カオス】
+UID:xh4emFXTp-g
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#iofi_QnAE Senin Produktif ! Base Color + Coloring Tips and Tricks\nhttps://www.youtube.com/watch?v=2BHuP5uSMco
 DURATION:PT2H
 DTSTART:20220124T120000Z
 SUMMARY:🎨Iofi: #iofi_QnAE Senin Produktif ! Base Color + Coloring Tips and Tricks
 UID:2BHuP5uSMco
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】ロウワー / ぬゆり『covered by 律可』\nhttps://www.youtube.com/watch?v=pELP7sBBIJU
-DURATION:PT2H
-DTSTART:20220124T141500Z
-SUMMARY:⚙律可: 【歌ってみた】ロウワー / ぬゆり『covered by 律可』
-UID:pELP7sBBIJU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 KARAOKE 】新年初歌枠！いっぱい歌うぞ！✨【 桃鈴ねね / ホロライブ / #ねねいろらいぶ  】\nhttps://www.youtube.com/watch?v=iOigcBI5wSY
@@ -501,11 +522,11 @@ SUMMARY:桃鈴ねね: 【 KARAOKE 】新年初歌枠！いっぱい歌うぞ！�
 UID:iOigcBI5wSY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【はっちゃけすぎ】予告して逆凸したらとんでもないことになりました【カオス】\nhttps://www.youtube.com/watch?v=xh4emFXTp-g
+DESCRIPTION:【歌ってみた】ロウワー / ぬゆり『covered by 律可』\nhttps://www.youtube.com/watch?v=pELP7sBBIJU
 DURATION:PT2H
-DTSTART:20220125T100000Z
-SUMMARY:ホロライブ: 【はっちゃけすぎ】予告して逆凸したらとんでもないことになりました【カオス】
-UID:xh4emFXTp-g
+DTSTART:20220124T141500Z
+SUMMARY:⚙律可: 【歌ってみた】ロウワー / ぬゆり『covered by 律可』
+UID:pELP7sBBIJU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARK】ついに計画実行！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=I7uhp6GgSpM
@@ -522,17 +543,10 @@ SUMMARY:鷹嶺ルイ: 【R6E】先輩達と任務へ…！レインボーシッ�
 UID:0b7F60flFCc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ホロライブ身体測定】博衣こより様診察いたします！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=YpU_GOF4-RQ
+DESCRIPTION:【#hololiveERROR】そらちゃん…？子兎音様とホロライブ×ホラーゲーム【#あずきんち】\nhttps://www.youtube.com/watch?v=ZAx4878mrIU
 DURATION:PT2H
-DTSTART:20220125T100000Z
-SUMMARY:💋癒月ちょこ: 【ホロライブ身体測定】博衣こより様診察いたします！【ホロライブ/癒月ちょこ】
-UID:YpU_GOF4-RQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【凸待ち】８０万人記念✨フリースタイル凸待ち🎉告知つき💕【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=kUkxMhl4tyk
-DURATION:PT2H
-DTSTART:20220126T110000Z
-SUMMARY:🤖ロボ子さん: 【凸待ち】８０万人記念✨フリースタイル凸待ち🎉告知つき💕【ホロライブ/ロボ子さん】
-UID:kUkxMhl4tyk
+DTSTART:20220124T130000Z
+SUMMARY:⚒AZKi: 【#hololiveERROR】そらちゃん…？子兎音様とホロライブ×ホラーゲーム【#あずきんち】
+UID:ZAx4878mrIU
 END:VEVENT
 END:VCALENDAR
