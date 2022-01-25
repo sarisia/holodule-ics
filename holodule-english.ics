@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:kirin streaming #holoCouncil\nhttps://www.youtube.com/watch?v=PD2LnnBBkuk
+DURATION:PT2H
+DTSTART:20220125T050000Z
+SUMMARY:Fauna: kirin streaming #holoCouncil
+UID:PD2LnnBBkuk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【BULLY】on your knees\, nerd!\nhttps://www.youtube.com/watch?v=SC47pvmL9Yk
 DURATION:PT2H
 DTSTART:20220124T010320Z
@@ -18,6 +25,20 @@ SUMMARY:Amelia: 【Paladins】Teaching Kiara FPS~
 UID:upZqhkVq5iA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【PALADINS】with THE FAMOUS PALADINS ANNOUNCER AMELIA WATSON #kfp #キアライブ\nhttps://www.youtube.com/watch?v=9JfKSPXny2k
+DURATION:PT2H
+DTSTART:20220124T210000Z
+SUMMARY:Kiara: 【PALADINS】with THE FAMOUS PALADINS ANNOUNCER AMELIA WATSON #kfp #キアライブ
+UID:9JfKSPXny2k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Superchats】feelin GENKI today~\nhttps://www.youtube.com/watch?v=VOO8GlUje4U
+DURATION:PT2H
+DTSTART:20220124T001500Z
+SUMMARY:Amelia: 【Superchats】feelin GENKI today~
+UID:VOO8GlUje4U
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:≪MONSTER HUNTER RISE PC≫  training to be best hunter\nhttps://www.youtube.com/watch?v=gQSFoZI-_Mo
 DURATION:PT2H
 DTSTART:20220125T020000Z
@@ -30,33 +51,5 @@ DURATION:PT2H
 DTSTART:20220124T180000Z
 SUMMARY:Baelz: ≪Big Brain Academy: Brain vs. Brain≫  how does the rat brain operate at 5am?
 UID:-tyCdKCCOtc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Superchats】feelin GENKI today~\nhttps://www.youtube.com/watch?v=VOO8GlUje4U
-DURATION:PT2H
-DTSTART:20220124T001500Z
-SUMMARY:Amelia: 【Superchats】feelin GENKI today~
-UID:VOO8GlUje4U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:kirin streaming #holoCouncil\nhttps://www.youtube.com/watch?v=PD2LnnBBkuk
-DURATION:PT2H
-DTSTART:20220125T050000Z
-SUMMARY:Fauna: kirin streaming #holoCouncil
-UID:PD2LnnBBkuk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PALADINS】with THE FAMOUS PALADINS ANNOUNCER AMELIA WATSON #kfp #キアライブ\nhttps://www.youtube.com/watch?v=9JfKSPXny2k
-DURATION:PT2H
-DTSTART:20220124T210000Z
-SUMMARY:Kiara: 【PALADINS】with THE FAMOUS PALADINS ANNOUNCER AMELIA WATSON #kfp #キアライブ
-UID:9JfKSPXny2k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Pokemon: Shining Pearl】SHINY HOOTHOOT PLEASE!\nhttps://www.youtube.com/watch?v=_cySgaPf1-0
-DURATION:PT2H
-DTSTART:20220125T020547Z
-SUMMARY:Mumei: 【Pokemon: Shining Pearl】SHINY HOOTHOOT PLEASE!
-UID:_cySgaPf1-0
 END:VEVENT
 END:VCALENDAR
