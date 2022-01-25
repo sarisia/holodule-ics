@@ -4,11 +4,32 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【マリオカート8DX】みんなで遊ぶかっ！【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=lUmjXHhRaIA
+DURATION:PT2H
+DTSTART:20220124T130000Z
+SUMMARY:🔥不知火フレア: 【マリオカート8DX】みんなで遊ぶかっ！【ホロライブ/不知火フレア】
+UID:lUmjXHhRaIA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ラジオ配信】#アル律ごっこ 新年初！今年もよろしくお願いします編【律可/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=RVTdH7tV5hU
+DURATION:PT2H
+DTSTART:20220125T120000Z
+SUMMARY:🍕アルランディス: 【ラジオ配信】#アル律ごっこ 新年初！今年もよろしくお願いします編【律可/アルランディス/ホロスターズ】
+UID:RVTdH7tV5hU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【NEEDY GIRL OVERDOSE】インターネットに夢見てる奴は見てはいけない配信。/ Astelleda\nhttps://www.youtube.com/watch?v=8CxKqUPNnyQ
 DURATION:PT2H
 DTSTART:20220124T040000Z
 SUMMARY:🎭アステル・レダ: 【NEEDY GIRL OVERDOSE】インターネットに夢見てる奴は見てはいけない配信。/ Astelleda
 UID:8CxKqUPNnyQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololiveID】Catching-up on reading the past donos ~!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=1xiem0WJpDs
+DURATION:PT2H
+DTSTART:20220125T100000Z
+SUMMARY:🐿Risu: 【hololiveID】Catching-up on reading the past donos ~!【Ayunda Risu】
+UID:1xiem0WJpDs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[INSANE PHOTO] 天才すぎ!?明らかにヤバイ集・・・！？ｗ #PHOTOCHAMA\nhttps://www.youtube.com/watch?v=AUWSDf-yyj0
@@ -18,18 +39,25 @@ SUMMARY:❤赤井はあと: [INSANE PHOTO] 天才すぎ!?明らかにヤバイ�
 UID:AUWSDf-yyj0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ほぼ毎日ショート#45】役に立つかわからない雑学第３弾 #shorts\nhttps://www.youtube.com/watch?v=Lzd_0r-57_Q
+DURATION:PT2H
+DTSTART:20220124T100012Z
+SUMMARY:鷹嶺ルイ: 【ほぼ毎日ショート#45】役に立つかわからない雑学第３弾 #shorts
+UID:Lzd_0r-57_Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪Big Brain Academy: Brain vs. Brain≫  how does the rat brain operate at 5am?\nhttps://www.youtube.com/watch?v=-tyCdKCCOtc
+DURATION:PT2H
+DTSTART:20220124T180000Z
+SUMMARY:Baelz: ≪Big Brain Academy: Brain vs. Brain≫  how does the rat brain operate at 5am?
+UID:-tyCdKCCOtc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:≪MONSTER HUNTER RISE PC≫  training to be best hunter\nhttps://www.youtube.com/watch?v=gQSFoZI-_Mo
 DURATION:PT2H
 DTSTART:20220125T020000Z
 SUMMARY:Baelz: ≪MONSTER HUNTER RISE PC≫  training to be best hunter
 UID:gQSFoZI-_Mo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【お昼雑談】久々な気がするし多分声はがびがび【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=pDbkcsxt17I
-DURATION:PT2H
-DTSTART:20220125T030000Z
-SUMMARY:🍕アルランディス: 【お昼雑談】久々な気がするし多分声はがびがび【アルランディス/ホロスターズ】
-UID:pDbkcsxt17I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARK】炎と氷の恐竜を捕まえて最強になりたい！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=L9fsiCjDj6E
@@ -39,11 +67,39 @@ SUMMARY:👯兎田ぺこら: 【ARK】炎と氷の恐竜を捕まえて最強に
 UID:L9fsiCjDj6E
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【お昼雑談】久々な気がするし多分声はがびがび【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=pDbkcsxt17I
+DURATION:PT2H
+DTSTART:20220125T030000Z
+SUMMARY:🍕アルランディス: 【お昼雑談】久々な気がするし多分声はがびがび【アルランディス/ホロスターズ】
+UID:pDbkcsxt17I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポケモンBDSP】タマゴ交換会！何が産まれるかな？？？【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=pvzZ6AQ2i-o
+DURATION:PT2H
+DTSTART:20220125T130000Z
+SUMMARY:🐏角巻わため: 【ポケモンBDSP】タマゴ交換会！何が産まれるかな？？？【角巻わため/ホロライブ４期生】
+UID:pvzZ6AQ2i-o
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【PALADINS】with THE FAMOUS PALADINS ANNOUNCER AMELIA WATSON #kfp #キアライブ\nhttps://www.youtube.com/watch?v=9JfKSPXny2k
 DURATION:PT2H
 DTSTART:20220124T210000Z
 SUMMARY:Kiara: 【PALADINS】with THE FAMOUS PALADINS ANNOUNCER AMELIA WATSON #kfp #キアライブ
 UID:9JfKSPXny2k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【リトルナイトメア2】　続　・　夕　刻　リ　ト　ル　【ホロスターズ/夕刻ロベル】※ネタバレあり\nhttps://www.youtube.com/watch?v=9lcUhtJHJQc
+DURATION:PT2H
+DTSTART:20220125T080000Z
+SUMMARY:🍷夕刻ロベル: 【リトルナイトメア2】　続　・　夕　刻　リ　ト　ル　【ホロスターズ/夕刻ロベル】※ネタバレあり
+UID:9lcUhtJHJQc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【＃２】COUNTER: SIDE/カウンターサイド【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=KpToniwN9Mw
+DURATION:PT2H
+DTSTART:20220125T110000Z
+SUMMARY:🌽白上フブキ: 【＃２】COUNTER: SIDE/カウンターサイド【ホロライブ/白上フブキ】
+UID:KpToniwN9Mw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【録画はメン限】悪魔の永眠ASMR【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=4qSSlNpr19c
@@ -53,6 +109,27 @@ SUMMARY:💋癒月ちょこ: 【録画はメン限】悪魔の永眠ASMR【ホ�
 UID:4qSSlNpr19c
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【R6E】3人でGOOOOOOOOOOO！【獅白ぼたん視点/ホロライブ】\nhttps://www.youtube.com/watch?v=ZiRV9vtpXQ0
+DURATION:PT2H
+DTSTART:20220124T130000Z
+SUMMARY:獅白ぼたん: 【R6E】3人でGOOOOOOOOOOO！【獅白ぼたん視点/ホロライブ】
+UID:ZiRV9vtpXQ0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポケモンBDSP】色違い旅パ /金コイキングvsチャンピオン：シロナ戦【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=27QFNBxjvtQ
+DURATION:PT2H
+DTSTART:20220124T120000Z
+SUMMARY:🌽白上フブキ: 【ポケモンBDSP】色違い旅パ /金コイキングvsチャンピオン：シロナ戦【ホロライブ/白上フブキ】
+UID:27QFNBxjvtQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【弾き語り枠】ただいまの歌【律可/ホロスターズ】 #りつすた\nhttps://www.youtube.com/watch?v=Xg93QwOE6NA
+DURATION:PT2H
+DTSTART:20220124T130000Z
+SUMMARY:⚙律可: 【弾き語り枠】ただいまの歌【律可/ホロスターズ】 #りつすた
+UID:Xg93QwOE6NA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【R6E】やるしかね～～～～～～～～～～【常闇トワ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=fbv7ABqKseA
 DURATION:PT2H
 DTSTART:20220124T130000Z
@@ -60,11 +137,11 @@ SUMMARY:👾常闇トワ: 【R6E】やるしかね～～～～～～～～～～
 UID:fbv7ABqKseA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#hololiveERROR】そらちゃん…？子兎音様とホロライブ×ホラーゲーム【#あずきんち】\nhttps://www.youtube.com/watch?v=ZAx4878mrIU
+DESCRIPTION:【#ホロARK】あーーーーーーーーーーーく！ARK生活9日目【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=FTx6OGBJp_I
 DURATION:PT2H
 DTSTART:20220124T130000Z
-SUMMARY:⚒AZKi: 【#hololiveERROR】そらちゃん…？子兎音様とホロライブ×ホラーゲーム【#あずきんち】
-UID:ZAx4878mrIU
+SUMMARY:雪花ラミィ: 【#ホロARK】あーーーーーーーーーーーく！ARK生活9日目【雪花ラミィ/ホロライブ】
+UID:FTx6OGBJp_I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【荒神2】今日も忍ぶでござる#3【荒咬オウガ　ホロスターズ】\nhttps://www.youtube.com/watch?v=Pwz3akTsLiA
@@ -81,11 +158,25 @@ SUMMARY:ラプラス: 【歌枠】リクエスト求！頑張る！！！【ラ�
 UID:owU94Kl6dog
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ゲリラ【 Raft 】漂　流　解　禁　🦈｟睡眠導入｠※限定公開になるかもデス【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=bP2H0bxN3k0
+DURATION:PT2H
+DTSTART:20220124T164500Z
+SUMMARY:🍬姫森ルーナ: ゲリラ【 Raft 】漂　流　解　禁　🦈｟睡眠導入｠※限定公開になるかもデス【#姫森ルーナ/ホロライブ】
+UID:bP2H0bxN3k0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【実写版クソゲーRPG】なんだこれ！？【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=f5Xp3APYIXE
 DURATION:PT2H
 DTSTART:20220124T080000Z
 SUMMARY:🍷夕刻ロベル: 【実写版クソゲーRPG】なんだこれ！？【ホロスターズ/夕刻ロベル】
 UID:f5Xp3APYIXE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【壺男】未クリアです。語尾にニャンを言えば汚い言葉も許される【ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=pKkbNWd_OP0
+DURATION:PT2H
+DTSTART:20220124T100000Z
+SUMMARY:🌲大神ミオ: 【壺男】未クリアです。語尾にニャンを言えば汚い言葉も許される【ホロライブ/大神ミオ】
+UID:pKkbNWd_OP0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Bus Simulator 18】安心安全！バスツアーの時間♪【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=6NQ-ZILH3iU
@@ -137,11 +228,25 @@ SUMMARY:博衣こより: 【ARK】ひさびさ！いろんなことやりたい�
 UID:usDnwEk3nKc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【APEX】第一章 目覚め。  / Astel Izuru  Leia\nhttps://www.youtube.com/watch?v=-NzBzDO3O_8
+DURATION:PT2H
+DTSTART:20220125T040000Z
+SUMMARY:🎭アステル・レダ: 【APEX】第一章 目覚め。  / Astel Izuru  Leia
+UID:-NzBzDO3O_8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌枠】練習会会場🎤\nhttps://www.youtube.com/watch?v=3enlAJJriIE
 DURATION:PT2H
 DTSTART:20220123T150000Z
 SUMMARY:👿百鬼あやめ: 【歌枠】練習会会場🎤
 UID:3enlAJJriIE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゼルダの伝説 ブレス オブ ザ ワイルド】祠攻略していくよ～！｜完全初見のBotW ＃16【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=bjDFLotUYtE
+DURATION:PT2H
+DTSTART:20220125T000000Z
+SUMMARY:雪花ラミィ: 【ゼルダの伝説 ブレス オブ ザ ワイルド】祠攻略していくよ～！｜完全初見のBotW ＃16【雪花ラミィ/ホロライブ】
+UID:bjDFLotUYtE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Superchats】feelin GENKI today~\nhttps://www.youtube.com/watch?v=VOO8GlUje4U
@@ -151,11 +256,53 @@ SUMMARY:Amelia: 【Superchats】feelin GENKI today~
 UID:VOO8GlUje4U
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ARK】まつり先輩！！団長、ティラノをGETしたいです！！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=rwus5yeafWk
+DURATION:PT2H
+DTSTART:20220124T120000Z
+SUMMARY:⚔白銀ノエル: 【ARK】まつり先輩！！団長、ティラノをGETしたいです！！【白銀ノエル/ホロライブ】
+UID:rwus5yeafWk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK】のえたんに最強ティラノを！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=g5RMVdasVtg
+DURATION:PT2H
+DTSTART:20220124T120000Z
+SUMMARY:🏮夏色まつり: 【ARK】のえたんに最強ティラノを！【ホロライブ/夏色まつり】
+UID:g5RMVdasVtg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK】はじめてのロストアイランド！〜先生と一緒〜【猫又おかゆ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=bW69eU_46I8
+DURATION:PT2H
+DTSTART:20220125T110000Z
+SUMMARY:🍙猫又おかゆ: 【ARK】はじめてのロストアイランド！〜先生と一緒〜【猫又おかゆ視点/ホロライブ】
+UID:bW69eU_46I8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ゲームソフト紹介🎮｜ルーナたんのPlayStationソフト公開なのら！💜Part.2【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=9iMZKFsFHfQ
 DURATION:PT2H
 DTSTART:20220124T140000Z
 SUMMARY:🍬姫森ルーナ: ゲームソフト紹介🎮｜ルーナたんのPlayStationソフト公開なのら！💜Part.2【#姫森ルーナ/ホロライブ】
 UID:9iMZKFsFHfQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:シル・ヴ・プレジデント／博衣こより Cover【歌ってみた】\nhttps://www.youtube.com/watch?v=2ON2ZZHarMw
+DURATION:PT2H
+DTSTART:20220124T110000Z
+SUMMARY:博衣こより: シル・ヴ・プレジデント／博衣こより Cover【歌ってみた】
+UID:2ON2ZZHarMw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK Lost Island】真珠探しながら雑談するマン！天真くんが途中から来る【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=qhjQ5rFU9eE
+DURATION:PT2H
+DTSTART:20220124T140000Z
+SUMMARY:🍕アルランディス: 【ARK Lost Island】真珠探しながら雑談するマン！天真くんが途中から来る【アルランディス/ホロスターズ】
+UID:qhjQ5rFU9eE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Pokemon: Shining Pearl】SHINY HOOTHOOT PLEASE!\nhttps://www.youtube.com/watch?v=_cySgaPf1-0
+DURATION:PT2H
+DTSTART:20220125T020547Z
+SUMMARY:Mumei: 【Pokemon: Shining Pearl】SHINY HOOTHOOT PLEASE!
+UID:_cySgaPf1-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARK】Back to ark! let's play this game again!【Moona】\nhttps://www.youtube.com/watch?v=J7FgSQZSZRw
@@ -172,6 +319,13 @@ SUMMARY:🌲大神ミオ: 【 #朝ミオ 】ちょっとお久しぶりのおは
 UID:Yuck9sBGjCU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【凸待ち】８０万人記念✨フリースタイル凸待ち🎉告知つき💕【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=kUkxMhl4tyk
+DURATION:PT2H
+DTSTART:20220126T100000Z
+SUMMARY:🤖ロボ子さん: 【凸待ち】８０万人記念✨フリースタイル凸待ち🎉告知つき💕【ホロライブ/ロボ子さん】
+UID:kUkxMhl4tyk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ARK】復活のARKなのだ！！！！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=nvu8j6tOsJM
 DURATION:PT2H
 DTSTART:20220124T110000Z
@@ -184,6 +338,13 @@ DURATION:PT2H
 DTSTART:20220124T220000Z
 SUMMARY:博衣こより: 【朝こよ#16】シルヴプレの話とかオフコラボの話とかコーナーも！【博衣こより/ホロライブ】
 UID:dBN3EyfK8zE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Paladins】Teaching Kiara FPS~\nhttps://www.youtube.com/watch?v=upZqhkVq5iA
+DURATION:PT2H
+DTSTART:20220124T210000Z
+SUMMARY:Amelia: 【Paladins】Teaching Kiara FPS~
+UID:upZqhkVq5iA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】事故！！！下手ぴが突如えいぺっくすやるぞおお【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=V6wPdy-Y7bA
@@ -221,195 +382,6 @@ SUMMARY:ラプラス: 【Ib】美術館大好き！いくぞおお！！！！�
 UID:ipsZekHckOM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】ボカロ曲多めでお届けします～～！🎶【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=jb0EWwLdfwY
-DURATION:PT2H
-DTSTART:20220124T110000Z
-SUMMARY:🍙猫又おかゆ: 【歌枠】ボカロ曲多めでお届けします～～！🎶【猫又おかゆ/ホロライブ】
-UID:jb0EWwLdfwY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEXランク】ゆるゆるソロランク～✌【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=_-ZKUp08D2w
-DURATION:PT2H
-DTSTART:20220124T010000Z
-SUMMARY:🏮夏色まつり: 【APEXランク】ゆるゆるソロランク～✌【ホロライブ/夏色まつり】
-UID:_-ZKUp08D2w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【R6E】3人でGOOOOOOOOOOO！【獅白ぼたん視点/ホロライブ】\nhttps://www.youtube.com/watch?v=ZiRV9vtpXQ0
-DURATION:PT2H
-DTSTART:20220124T130000Z
-SUMMARY:獅白ぼたん: 【R6E】3人でGOOOOOOOOOOO！【獅白ぼたん視点/ホロライブ】
-UID:ZiRV9vtpXQ0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ゼルダの伝説 ブレス オブ ザ ワイルド】祠攻略していくよ～！｜完全初見のBotW ＃16【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=bjDFLotUYtE
-DURATION:PT2H
-DTSTART:20220125T000000Z
-SUMMARY:雪花ラミィ: 【ゼルダの伝説 ブレス オブ ザ ワイルド】祠攻略していくよ～！｜完全初見のBotW ＃16【雪花ラミィ/ホロライブ】
-UID:bjDFLotUYtE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】みんなで遊ぶかっ！【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=lUmjXHhRaIA
-DURATION:PT2H
-DTSTART:20220124T130000Z
-SUMMARY:🔥不知火フレア: 【マリオカート8DX】みんなで遊ぶかっ！【ホロライブ/不知火フレア】
-UID:lUmjXHhRaIA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【壺おじ】キレたら配信終了、アイドルが壺おじ♡まだ見ぬ世界が見たい！！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=arI440OomZk
-DURATION:PT2H
-DTSTART:20220125T090000Z
-SUMMARY:🦋潤羽るしあ: 【壺おじ】キレたら配信終了、アイドルが壺おじ♡まだ見ぬ世界が見たい！！【潤羽るしあ/ホロライブ】
-UID:arI440OomZk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ラジオ配信】#アル律ごっこ 新年初！今年もよろしくお願いします編【律可/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=RVTdH7tV5hU
-DURATION:PT2H
-DTSTART:20220125T120000Z
-SUMMARY:🍕アルランディス: 【ラジオ配信】#アル律ごっこ 新年初！今年もよろしくお願いします編【律可/アルランディス/ホロスターズ】
-UID:RVTdH7tV5hU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【hololiveID】Catching-up on reading the past donos ~!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=1xiem0WJpDs
-DURATION:PT2H
-DTSTART:20220125T100000Z
-SUMMARY:🐿Risu: 【hololiveID】Catching-up on reading the past donos ~!【Ayunda Risu】
-UID:1xiem0WJpDs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ほぼ毎日ショート#45】役に立つかわからない雑学第３弾 #shorts\nhttps://www.youtube.com/watch?v=Lzd_0r-57_Q
-DURATION:PT2H
-DTSTART:20220124T100012Z
-SUMMARY:鷹嶺ルイ: 【ほぼ毎日ショート#45】役に立つかわからない雑学第３弾 #shorts
-UID:Lzd_0r-57_Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪Big Brain Academy: Brain vs. Brain≫  how does the rat brain operate at 5am?\nhttps://www.youtube.com/watch?v=-tyCdKCCOtc
-DURATION:PT2H
-DTSTART:20220124T180000Z
-SUMMARY:Baelz: ≪Big Brain Academy: Brain vs. Brain≫  how does the rat brain operate at 5am?
-UID:-tyCdKCCOtc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンBDSP】タマゴ交換会！何が産まれるかな？？？【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=pvzZ6AQ2i-o
-DURATION:PT2H
-DTSTART:20220125T130000Z
-SUMMARY:🐏角巻わため: 【ポケモンBDSP】タマゴ交換会！何が産まれるかな？？？【角巻わため/ホロライブ４期生】
-UID:pvzZ6AQ2i-o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【リトルナイトメア2】　続　・　夕　刻　リ　ト　ル　【ホロスターズ/夕刻ロベル】※ネタバレあり\nhttps://www.youtube.com/watch?v=9lcUhtJHJQc
-DURATION:PT2H
-DTSTART:20220125T080000Z
-SUMMARY:🍷夕刻ロベル: 【リトルナイトメア2】　続　・　夕　刻　リ　ト　ル　【ホロスターズ/夕刻ロベル】※ネタバレあり
-UID:9lcUhtJHJQc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【＃２】COUNTER: SIDE/カウンターサイド【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=KpToniwN9Mw
-DURATION:PT2H
-DTSTART:20220125T110000Z
-SUMMARY:🌽白上フブキ: 【＃２】COUNTER: SIDE/カウンターサイド【ホロライブ/白上フブキ】
-UID:KpToniwN9Mw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンBDSP】色違い旅パ /金コイキングvsチャンピオン：シロナ戦【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=27QFNBxjvtQ
-DURATION:PT2H
-DTSTART:20220124T120000Z
-SUMMARY:🌽白上フブキ: 【ポケモンBDSP】色違い旅パ /金コイキングvsチャンピオン：シロナ戦【ホロライブ/白上フブキ】
-UID:27QFNBxjvtQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【弾き語り枠】ただいまの歌【律可/ホロスターズ】 #りつすた\nhttps://www.youtube.com/watch?v=Xg93QwOE6NA
-DURATION:PT2H
-DTSTART:20220124T130000Z
-SUMMARY:⚙律可: 【弾き語り枠】ただいまの歌【律可/ホロスターズ】 #りつすた
-UID:Xg93QwOE6NA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロARK】あーーーーーーーーーーーく！ARK生活9日目【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=FTx6OGBJp_I
-DURATION:PT2H
-DTSTART:20220124T130000Z
-SUMMARY:雪花ラミィ: 【#ホロARK】あーーーーーーーーーーーく！ARK生活9日目【雪花ラミィ/ホロライブ】
-UID:FTx6OGBJp_I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ゲリラ【 Raft 】漂　流　解　禁　🦈｟睡眠導入｠※限定公開になるかもデス【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=bP2H0bxN3k0
-DURATION:PT2H
-DTSTART:20220124T164500Z
-SUMMARY:🍬姫森ルーナ: ゲリラ【 Raft 】漂　流　解　禁　🦈｟睡眠導入｠※限定公開になるかもデス【#姫森ルーナ/ホロライブ】
-UID:bP2H0bxN3k0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【壺男】未クリアです。語尾にニャンを言えば汚い言葉も許される【ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=pKkbNWd_OP0
-DURATION:PT2H
-DTSTART:20220124T100000Z
-SUMMARY:🌲大神ミオ: 【壺男】未クリアです。語尾にニャンを言えば汚い言葉も許される【ホロライブ/大神ミオ】
-UID:pKkbNWd_OP0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】第一章 目覚め。  / Astel Izuru  Leia\nhttps://www.youtube.com/watch?v=-NzBzDO3O_8
-DURATION:PT2H
-DTSTART:20220125T040000Z
-SUMMARY:🎭アステル・レダ: 【APEX】第一章 目覚め。  / Astel Izuru  Leia
-UID:-NzBzDO3O_8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARK】まつり先輩！！団長、ティラノをGETしたいです！！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=rwus5yeafWk
-DURATION:PT2H
-DTSTART:20220124T120000Z
-SUMMARY:⚔白銀ノエル: 【ARK】まつり先輩！！団長、ティラノをGETしたいです！！【白銀ノエル/ホロライブ】
-UID:rwus5yeafWk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARK】のえたんに最強ティラノを！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=g5RMVdasVtg
-DURATION:PT2H
-DTSTART:20220124T120000Z
-SUMMARY:🏮夏色まつり: 【ARK】のえたんに最強ティラノを！【ホロライブ/夏色まつり】
-UID:g5RMVdasVtg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARK】はじめてのロストアイランド！〜先生と一緒〜【猫又おかゆ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=bW69eU_46I8
-DURATION:PT2H
-DTSTART:20220125T110000Z
-SUMMARY:🍙猫又おかゆ: 【ARK】はじめてのロストアイランド！〜先生と一緒〜【猫又おかゆ視点/ホロライブ】
-UID:bW69eU_46I8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:シル・ヴ・プレジデント／博衣こより Cover【歌ってみた】\nhttps://www.youtube.com/watch?v=2ON2ZZHarMw
-DURATION:PT2H
-DTSTART:20220124T110000Z
-SUMMARY:博衣こより: シル・ヴ・プレジデント／博衣こより Cover【歌ってみた】
-UID:2ON2ZZHarMw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARK Lost Island】真珠探しながら雑談するマン！天真くんが途中から来る【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=qhjQ5rFU9eE
-DURATION:PT2H
-DTSTART:20220124T140000Z
-SUMMARY:🍕アルランディス: 【ARK Lost Island】真珠探しながら雑談するマン！天真くんが途中から来る【アルランディス/ホロスターズ】
-UID:qhjQ5rFU9eE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Pokemon: Shining Pearl】SHINY HOOTHOOT PLEASE!\nhttps://www.youtube.com/watch?v=_cySgaPf1-0
-DURATION:PT2H
-DTSTART:20220125T020547Z
-SUMMARY:Mumei: 【Pokemon: Shining Pearl】SHINY HOOTHOOT PLEASE!
-UID:_cySgaPf1-0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Paladins】Teaching Kiara FPS~\nhttps://www.youtube.com/watch?v=upZqhkVq5iA
-DURATION:PT2H
-DTSTART:20220124T210000Z
-SUMMARY:Amelia: 【Paladins】Teaching Kiara FPS~
-UID:upZqhkVq5iA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:kirin streaming #holoCouncil\nhttps://www.youtube.com/watch?v=PD2LnnBBkuk
-DURATION:PT2H
-DTSTART:20220125T050000Z
-SUMMARY:Fauna: kirin streaming #holoCouncil
-UID:PD2LnnBBkuk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#iofi_QnAE Senin Produktif ! Base Color + Coloring Tips and Tricks\nhttps://www.youtube.com/watch?v=2BHuP5uSMco
 DURATION:PT2H
 DTSTART:20220124T120000Z
@@ -431,11 +403,25 @@ SUMMARY:桃鈴ねね: 【 KARAOKE 】新年初歌枠！いっぱい歌うぞ！�
 UID:iOigcBI5wSY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【歌枠】ボカロ曲多めでお届けします～～！🎶【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=jb0EWwLdfwY
+DURATION:PT2H
+DTSTART:20220124T110000Z
+SUMMARY:🍙猫又おかゆ: 【歌枠】ボカロ曲多めでお届けします～～！🎶【猫又おかゆ/ホロライブ】
+UID:jb0EWwLdfwY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【はっちゃけすぎ】予告して逆凸したらとんでもないことになりました【カオス】\nhttps://www.youtube.com/watch?v=xh4emFXTp-g
 DURATION:PT2H
 DTSTART:20220125T100000Z
 SUMMARY:ホロライブ: 【はっちゃけすぎ】予告して逆凸したらとんでもないことになりました【カオス】
 UID:xh4emFXTp-g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEXランク】ゆるゆるソロランク～✌【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=_-ZKUp08D2w
+DURATION:PT2H
+DTSTART:20220124T010000Z
+SUMMARY:🏮夏色まつり: 【APEXランク】ゆるゆるソロランク～✌【ホロライブ/夏色まつり】
+UID:_-ZKUp08D2w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【R6E】先輩達と任務へ…！レインボーシックスエクストラクション【鷹嶺ルイ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=0b7F60flFCc
@@ -452,10 +438,10 @@ SUMMARY:💋癒月ちょこ: 【ホロライブ身体測定】博衣こより様
 UID:YpU_GOF4-RQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【凸待ち】８０万人記念✨フリースタイル凸待ち🎉告知つき💕【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=kUkxMhl4tyk
+DESCRIPTION:【#hololiveERROR】そらちゃん…？子兎音様とホロライブ×ホラーゲーム【#あずきんち】\nhttps://www.youtube.com/watch?v=ZAx4878mrIU
 DURATION:PT2H
-DTSTART:20220126T100000Z
-SUMMARY:🤖ロボ子さん: 【凸待ち】８０万人記念✨フリースタイル凸待ち🎉告知つき💕【ホロライブ/ロボ子さん】
-UID:kUkxMhl4tyk
+DTSTART:20220124T130000Z
+SUMMARY:⚒AZKi: 【#hololiveERROR】そらちゃん…？子兎音様とホロライブ×ホラーゲーム【#あずきんち】
+UID:ZAx4878mrIU
 END:VEVENT
 END:VCALENDAR
