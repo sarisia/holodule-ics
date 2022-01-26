@@ -60,18 +60,18 @@ SUMMARY:桃鈴ねね: 【 ARK 】まったりテンションでまったり日�
 UID:Onn6la2RR9o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【PALADINS】with THE FAMOUS PALADINS ANNOUNCER AMELIA WATSON #kfp #キアライブ\nhttps://www.youtube.com/watch?v=9JfKSPXny2k
-DURATION:PT2H
-DTSTART:20220124T210000Z
-SUMMARY:Kiara: 【PALADINS】with THE FAMOUS PALADINS ANNOUNCER AMELIA WATSON #kfp #キアライブ
-UID:9JfKSPXny2k
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Apex】俺たちはマスターになる【奏手イヅル w/ LEIA アステル・レダ】\nhttps://www.youtube.com/watch?v=8W5Bq0j9enY
 DURATION:PT2H
 DTSTART:20220126T043000Z
 SUMMARY:🎸奏手イヅル: 【Apex】俺たちはマスターになる【奏手イヅル w/ LEIA アステル・レダ】
 UID:8W5Bq0j9enY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PALADINS】with THE FAMOUS PALADINS ANNOUNCER AMELIA WATSON #kfp #キアライブ\nhttps://www.youtube.com/watch?v=9JfKSPXny2k
+DURATION:PT2H
+DTSTART:20220124T210000Z
+SUMMARY:Kiara: 【PALADINS】with THE FAMOUS PALADINS ANNOUNCER AMELIA WATSON #kfp #キアライブ
+UID:9JfKSPXny2k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VALORANT】ろ～～～～～～～～～～～～～～～【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=KFuSGQ17-hg
@@ -158,6 +158,13 @@ SUMMARY:Kronii: Harbinger | #holopposite
 UID:6cDggGQT-0M
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【APEX】や～～～る【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=WTo8Ww4u_1Y
+DURATION:PT2H
+DTSTART:20220126T054500Z
+SUMMARY:👾常闇トワ: 【APEX】や～～～る【常闇トワ/ホロライブ】
+UID:WTo8Ww4u_1Y
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【リングフィットアドベンチャー】久々朝活✨お出かけ前に運動するでござる🔥【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=pERgMc1Lm5A
 DURATION:PT2H
 DTSTART:20220124T230000Z
@@ -228,13 +235,6 @@ SUMMARY:🍕アルランディス: 【Jump King】落下すなわち潰れます
 UID:314qsiyeHis
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ホロスターズ】何かがはじまる！？ #スタこれ\nhttps://www.youtube.com/watch?v=Y9ES7RY2uAU
-DURATION:PT2H
-DTSTART:20220126T033013Z
-SUMMARY:ホロスターズ: 【ホロスターズ】何かがはじまる！？ #スタこれ
-UID:Y9ES7RY2uAU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ひとくち、ちょうだい？ / 瀬名航 feat. AZKi\nhttps://www.youtube.com/watch?v=6OHFULja-4s
 DURATION:PT2H
 DTSTART:20220126T110000Z
@@ -247,6 +247,13 @@ DURATION:PT2H
 DTSTART:20220126T140000Z
 SUMMARY:🐏角巻わため: 【お礼雑談】雑談とSuperchat Reading！【角巻わため/ホロライブ４期生】
 UID:UTkVagbBstI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ホロスターズ】何かがはじまる！？ #スタこれ\nhttps://www.youtube.com/watch?v=Y9ES7RY2uAU
+DURATION:PT2H
+DTSTART:20220126T033013Z
+SUMMARY:ホロスターズ: 【ホロスターズ】何かがはじまる！？ #スタこれ
+UID:Y9ES7RY2uAU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Ib】美術館大好き！いくぞおお！！！！【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=ipsZekHckOM
@@ -424,18 +431,18 @@ SUMMARY:Calli: 【TERRARIA】Adventuring With My Friends in a New World?!
 UID:8ZiNmfUCEt4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ポケカ開封】スターバース２BOX開封対決！！フライゴンSR来い！！！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=ogOOYotMO6Y
-DURATION:PT2H
-DTSTART:20220125T131500Z
-SUMMARY:🌽白上フブキ: 【ポケカ開封】スターバース２BOX開封対決！！フライゴンSR来い！！！【ホロライブ/白上フブキ】
-UID:ogOOYotMO6Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】ゲリラ！最近のこととか！26日でおそらくメンシ開始1か月らしいでござる✨【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=J0Cp1AntipA
 DURATION:PT2H
 DTSTART:20220125T140000Z
 SUMMARY:風真いろは: 【雑談】ゲリラ！最近のこととか！26日でおそらくメンシ開始1か月らしいでござる✨【風真いろは/ホロライブ】
 UID:J0Cp1AntipA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポケカ開封】スターバース２BOX開封対決！！フライゴンSR来い！！！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=ogOOYotMO6Y
+DURATION:PT2H
+DTSTART:20220125T131500Z
+SUMMARY:🌽白上フブキ: 【ポケカ開封】スターバース２BOX開封対決！！フライゴンSR来い！！！【ホロライブ/白上フブキ】
+UID:ogOOYotMO6Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARK】はじめてのロストアイランド！〜先生と一緒〜【猫又おかゆ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=bW69eU_46I8
@@ -501,18 +508,18 @@ SUMMARY:ホロライブ: 【はっちゃけすぎ】予告して逆凸したら�
 UID:xh4emFXTp-g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ARK】NPCムキロゼの拠点を突き止めて全てをいただこうと思ったら…！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=I7uhp6GgSpM
-DURATION:PT2H
-DTSTART:20220125T120000Z
-SUMMARY:👯兎田ぺこら: 【ARK】NPCムキロゼの拠点を突き止めて全てをいただこうと思ったら…！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:I7uhp6GgSpM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MINISTRY MEETING】Ministry |  #holoMinistry\nhttps://www.youtube.com/watch?v=OgEsyuN8oKY
 DURATION:PT2H
 DTSTART:20220125T231500Z
 SUMMARY:Kronii: 【MINISTRY MEETING】Ministry |  #holoMinistry
 UID:OgEsyuN8oKY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK】NPCムキロゼの拠点を突き止めて全てをいただこうと思ったら…！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=I7uhp6GgSpM
+DURATION:PT2H
+DTSTART:20220125T120000Z
+SUMMARY:👯兎田ぺこら: 【ARK】NPCムキロゼの拠点を突き止めて全てをいただこうと思ったら…！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:I7uhp6GgSpM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【お昼雑談】起きてる!?!?ご飯準備できてる!?!?!?【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=6keejDyLJ5U
