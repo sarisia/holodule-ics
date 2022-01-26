@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【あつまれどうぶつの森】あつまれ！ おれの島 #21【荒咬オウガ　ホロスターズ】\nhttps://www.youtube.com/watch?v=oEimFjbB8bs
-DURATION:PT2H
-DTSTART:20220125T093000Z
-SUMMARY:荒咬オウガ: 【あつまれどうぶつの森】あつまれ！ おれの島 #21【荒咬オウガ　ホロスターズ】
-UID:oEimFjbB8bs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】第一章 目覚め。  / Astel Izuru  Leia\nhttps://www.youtube.com/watch?v=-NzBzDO3O_8
 DURATION:PT2H
 DTSTART:20220125T040000Z
@@ -23,34 +16,6 @@ DURATION:PT2H
 DTSTART:20220125T120000Z
 SUMMARY:🍕アルランディス: 【ラジオ配信】#アル律ごっこ 新年初！今年もよろしくお願いします編【律可/アルランディス/ホロスターズ】
 UID:RVTdH7tV5hU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】やっとまともに喋れるようになりまして【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=25kc7EELCIM
-DURATION:PT2H
-DTSTART:20220125T140000Z
-SUMMARY:影山シエン: 【雑談】やっとまともに喋れるようになりまして【影山シエン/ホロスターズ】
-UID:25kc7EELCIM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:「俺たちの始業式、始めようぜ」【※誰のセリフ？】\nhttps://www.youtube.com/watch?v=2Jl2yrN8y5k
-DURATION:PT2H
-DTSTART:20220127T110034Z
-SUMMARY:ホロスターズ: 「俺たちの始業式、始めようぜ」【※誰のセリフ？】
-UID:2Jl2yrN8y5k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【変な枠】オタマトーンで遊びながら雑談【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=rivCQKXdKAs
-DURATION:PT2H
-DTSTART:20220125T040000Z
-SUMMARY:🍷夕刻ロベル: 【変な枠】オタマトーンで遊びながら雑談【ホロスターズ/夕刻ロベル】
-UID:rivCQKXdKAs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Jump King】落下すなわち潰れます※手動【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=314qsiyeHis
-DURATION:PT2H
-DTSTART:20220125T090000Z
-SUMMARY:🍕アルランディス: 【Jump King】落下すなわち潰れます※手動【アルランディス/ホロスターズ】
-UID:314qsiyeHis
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Ark LostIsland】400レべ越えのティラノサウルスに会いに行く。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=sliAbycXdFQ
@@ -67,11 +32,11 @@ SUMMARY:🍕アルランディス: 【お昼雑談】久々な気がするし多
 UID:pDbkcsxt17I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【OMORI】手探りで挑む、話題作 #4【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=t-vWfPJFlIo
+DESCRIPTION:【雑談】お昼の雑談が今始まってしまう【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=Cmvu_zxDxfg
 DURATION:PT2H
-DTSTART:20220126T100000Z
-SUMMARY:🍕アルランディス: 【OMORI】手探りで挑む、話題作 #4【アルランディス/ホロスターズ】
-UID:t-vWfPJFlIo
+DTSTART:20220126T053000Z
+SUMMARY:🍷夕刻ロベル: 【雑談】お昼の雑談が今始まってしまう【ホロスターズ/夕刻ロベル】
+UID:Cmvu_zxDxfg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】みんなで遊べるゴルフ場作り-整地続行編-【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=YS8dsNFA2Z4
@@ -93,6 +58,48 @@ DURATION:PT2H
 DTSTART:20220125T080000Z
 SUMMARY:🍷夕刻ロベル: 【リトルナイトメア2】　続　・　夕　刻　リ　ト　ル　【ホロスターズ/夕刻ロベル】※ネタバレあり
 UID:9lcUhtJHJQc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:「俺たちの始業式、始めようぜ」【※誰のセリフ？】\nhttps://www.youtube.com/watch?v=2Jl2yrN8y5k
+DURATION:PT2H
+DTSTART:20220127T110034Z
+SUMMARY:ホロスターズ: 「俺たちの始業式、始めようぜ」【※誰のセリフ？】
+UID:2Jl2yrN8y5k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【あつまれどうぶつの森】あつまれ！ おれの島 #21【荒咬オウガ　ホロスターズ】\nhttps://www.youtube.com/watch?v=oEimFjbB8bs
+DURATION:PT2H
+DTSTART:20220125T093000Z
+SUMMARY:荒咬オウガ: 【あつまれどうぶつの森】あつまれ！ おれの島 #21【荒咬オウガ　ホロスターズ】
+UID:oEimFjbB8bs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】やっとまともに喋れるようになりまして【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=25kc7EELCIM
+DURATION:PT2H
+DTSTART:20220125T140000Z
+SUMMARY:影山シエン: 【雑談】やっとまともに喋れるようになりまして【影山シエン/ホロスターズ】
+UID:25kc7EELCIM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【変な枠】オタマトーンで遊びながら雑談【ホロスターズ/夕刻ロベル】\nhttps://www.youtube.com/watch?v=rivCQKXdKAs
+DURATION:PT2H
+DTSTART:20220125T040000Z
+SUMMARY:🍷夕刻ロベル: 【変な枠】オタマトーンで遊びながら雑談【ホロスターズ/夕刻ロベル】
+UID:rivCQKXdKAs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Jump King】落下すなわち潰れます※手動【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=314qsiyeHis
+DURATION:PT2H
+DTSTART:20220125T090000Z
+SUMMARY:🍕アルランディス: 【Jump King】落下すなわち潰れます※手動【アルランディス/ホロスターズ】
+UID:314qsiyeHis
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【OMORI】手探りで挑む、話題作 #4【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=t-vWfPJFlIo
+DURATION:PT2H
+DTSTART:20220126T100000Z
+SUMMARY:🍕アルランディス: 【OMORI】手探りで挑む、話題作 #4【アルランディス/ホロスターズ】
+UID:t-vWfPJFlIo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【お昼雑談】起きてる!?!?ご飯準備できてる!?!?!?【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=6keejDyLJ5U
