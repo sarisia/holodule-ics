@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【MINISTRY MEETING】Ministry |  #holoMinistry\nhttps://www.youtube.com/watch?v=OgEsyuN8oKY
+DESCRIPTION:【Last Labyrinth】horror puzzle VR\nhttps://www.youtube.com/watch?v=Swr-O8K85a0
 DURATION:PT2H
-DTSTART:20220125T231500Z
-SUMMARY:Kronii: 【MINISTRY MEETING】Ministry |  #holoMinistry
-UID:OgEsyuN8oKY
+DTSTART:20220127T010000Z
+SUMMARY:Gura: 【Last Labyrinth】horror puzzle VR
+UID:Swr-O8K85a0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Pokémon ENxID Tournament】EGGSupremacy #holothrowdown\nhttps://www.youtube.com/watch?v=KNZi4VYhbRE
@@ -32,11 +32,18 @@ SUMMARY:Kiara: 【TLOZ: LINKS AWAKENING】UNTIL THE ENDDDD #kfp #キアライブ
 UID:uY1owZW8KFA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[TERRARIA] terraria with frends\nhttps://www.youtube.com/watch?v=QDGaF6WxD5o
+DESCRIPTION:【TERRARIA】Adventuring With My Friends in a New World?!\nhttps://www.youtube.com/watch?v=8ZiNmfUCEt4
 DURATION:PT2H
-DTSTART:20220126T011705Z
-SUMMARY:Gura: [TERRARIA] terraria with frends
-UID:QDGaF6WxD5o
+DTSTART:20220126T011601Z
+SUMMARY:Calli: 【TERRARIA】Adventuring With My Friends in a New World?!
+UID:8ZiNmfUCEt4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINISTRY MEETING】Ministry |  #holoMinistry\nhttps://www.youtube.com/watch?v=OgEsyuN8oKY
+DURATION:PT2H
+DTSTART:20220125T231500Z
+SUMMARY:Kronii: 【MINISTRY MEETING】Ministry |  #holoMinistry
+UID:OgEsyuN8oKY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Harbinger | #holopposite\nhttps://www.youtube.com/watch?v=6cDggGQT-0M
@@ -46,10 +53,10 @@ SUMMARY:Kronii: Harbinger | #holopposite
 UID:6cDggGQT-0M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【TERRARIA】Adventuring With My Friends in a New World?!\nhttps://www.youtube.com/watch?v=8ZiNmfUCEt4
+DESCRIPTION:[TERRARIA] terraria with frends\nhttps://www.youtube.com/watch?v=QDGaF6WxD5o
 DURATION:PT2H
-DTSTART:20220126T011601Z
-SUMMARY:Calli: 【TERRARIA】Adventuring With My Friends in a New World?!
-UID:8ZiNmfUCEt4
+DTSTART:20220126T011705Z
+SUMMARY:Gura: [TERRARIA] terraria with frends
+UID:QDGaF6WxD5o
 END:VEVENT
 END:VCALENDAR
