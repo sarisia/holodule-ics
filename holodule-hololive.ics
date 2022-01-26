@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【100曲】hololive Medley mix by IOSYS 【ホロライブオリジナル楽曲】\nhttps://www.youtube.com/watch?v=BTeMv4jydEw
+DURATION:PT2H
+DTSTART:20220126T100011Z
+SUMMARY:ホロライブ: 【100曲】hololive Medley mix by IOSYS 【ホロライブオリジナル楽曲】
+UID:BTeMv4jydEw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Super Bunny Man】#ダークネスるしあ 阿吽の呼吸ばにめえええ！！！【潤羽るしあ/ホロライブ】\nhttps://www.youtube.com/watch?v=vg34GCMhp1Y
 DURATION:PT2H
 DTSTART:20220126T130000Z
@@ -118,7 +125,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】復活のソロマスターちゃれんじっ！三日目【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=4ucFQzVTSrE
 DURATION:PT2H
-DTSTART:20220126T101500Z
+DTSTART:20220126T103000Z
 SUMMARY:⚓湊あくあ: 【APEX】復活のソロマスターちゃれんじっ！三日目【湊あくあ/ホロライブ】
 UID:4ucFQzVTSrE
 END:VEVENT
