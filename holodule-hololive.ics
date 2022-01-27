@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#hololiveERROR】hololiveERRORにやって来ました♪【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=mje244VOdqg
+DURATION:PT2H
+DTSTART:20220127T140000Z
+SUMMARY:🌟夜空メル: 【#hololiveERROR】hololiveERRORにやって来ました♪【ホロライブ/夜空メル】
+UID:mje244VOdqg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【superchat】スパチャ読み雑談！※スパチャオフでの読み上げ【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=4FvyMjQdCyg
 DURATION:PT2H
 DTSTART:20220127T010000Z
@@ -81,13 +88,6 @@ SUMMARY:🍙猫又おかゆ: 【NEEDY GIRL OVERDOSE】メンヘラVS猫！？！
 UID:32oy62s42vY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【音質注意】先日寿命を迎えたASMRマイク #shorts\nhttps://www.youtube.com/watch?v=NG_d4tPX5rg
-DURATION:PT2H
-DTSTART:20220127T143006Z
-SUMMARY:ラプラス: 【音質注意】先日寿命を迎えたASMRマイク #shorts
-UID:NG_d4tPX5rg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【朝活】喉の病院に行って声帯を見てきたら驚きの結果が…！など雑談【沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=taU4uvAilGg
 DURATION:PT2H
 DTSTART:20220126T220000Z
@@ -102,18 +102,18 @@ SUMMARY:💫天音かなた: 【マリオカート8DX】8位以下即終了！�
 UID:JePlykZt6M4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【音質注意】先日寿命を迎えたASMRマイク #shorts\nhttps://www.youtube.com/watch?v=NG_d4tPX5rg
+DURATION:PT2H
+DTSTART:20220127T143006Z
+SUMMARY:ラプラス: 【音質注意】先日寿命を迎えたASMRマイク #shorts
+UID:NG_d4tPX5rg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:💜#３│ラプラス・ダークネスのダークナイトラジオ公開収録編！【ホロライブ】🛸\nhttps://www.youtube.com/watch?v=kEbfGlg9jn4
 DURATION:PT2H
 DTSTART:20220129T133000Z
 SUMMARY:ラプラス: 💜#３│ラプラス・ダークネスのダークナイトラジオ公開収録編！【ホロライブ】🛸
 UID:kEbfGlg9jn4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Raft】おまいらと漂流しながらサバイバルするぞ【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=2fyLYY6EHf0
-DURATION:PT2H
-DTSTART:20220127T130000Z
-SUMMARY:獅白ぼたん: 【Raft】おまいらと漂流しながらサバイバルするぞ【獅白ぼたん/ホロライブ】
-UID:2fyLYY6EHf0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ポケモンBDSP】最終回:色違いディアルガ耐久【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=8g73MX_rLc0
@@ -142,13 +142,6 @@ DURATION:PT2H
 DTSTART:20220127T123000Z
 SUMMARY:🌸さくらみこ: 【 壺おじ 】壺おじ初クリア１時間ちゃれんじ１日目【ホロライブ/さくらみこ】
 UID:gzXXCCLtmfE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ママにゲーム隠された２！！！！！！！！！！！！！！！！！！！\nhttps://www.youtube.com/watch?v=r2hRrE24KDo
-DURATION:PT2H
-DTSTART:20220127T140000Z
-SUMMARY:🥐戌神ころね: ママにゲーム隠された２！！！！！！！！！！！！！！！！！！！
-UID:r2hRrE24KDo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 龍が如く 極 】第3話、メスキングのカードがもっと欲しい【 桃鈴ねね  / ホロライブ / #ねねいろらいぶ 】※ネタバレあり\nhttps://www.youtube.com/watch?v=SXLmc-trQM0
