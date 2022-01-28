@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#hololiveERROR】hololiveERRORにやって来ました♪【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=mje244VOdqg
-DURATION:PT2H
-DTSTART:20220127T140000Z
-SUMMARY:🌟夜空メル: 【#hololiveERROR】hololiveERRORにやって来ました♪【ホロライブ/夜空メル】
-UID:mje244VOdqg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【晩酌】引っ越ししたよ！新しいお部屋、見て～っ！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=2voKLAo2lXI
 DURATION:PT2H
 DTSTART:20220129T130000Z
@@ -25,39 +18,11 @@ SUMMARY:👾常闇トワ: 【R6E】トワのキャラクターレベルアップ
 UID:YrLIxyNDO3o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】今年最初の雑談！プチお知らせもあるよ！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=FfnipzlXPaw
-DURATION:PT2H
-DTSTART:20220127T130000Z
-SUMMARY:🔥不知火フレア: 【雑談】今年最初の雑談！プチお知らせもあるよ！【不知火フレア/ホロライブ】
-UID:FfnipzlXPaw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:アニマル / miComet(cover)\nhttps://www.youtube.com/watch?v=9yBLZKFKXyg
-DURATION:PT2H
-DTSTART:20220127T110000Z
-SUMMARY:☄星街すいせい: アニマル / miComet(cover)
-UID:9yBLZKFKXyg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【はあちゃまは孫みたい】ホロのご機嫌うるわしゅう#21 見どころまとめ動画【会員限定公式番組】\nhttps://www.youtube.com/watch?v=tOr-67mCRnY
 DURATION:PT2H
 DTSTART:20220128T080022Z
 SUMMARY:ホロライブ: 【はあちゃまは孫みたい】ホロのご機嫌うるわしゅう#21 見どころまとめ動画【会員限定公式番組】
 UID:tOr-67mCRnY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ホロのこしかけ 09】2022年初回！あなたの推し活豆知識は？ / 1月まとめ【友人A・えーちゃん】hololive FM\nhttps://www.youtube.com/watch?v=8tM93OAmVIk
-DURATION:PT2H
-DTSTART:20220127T131500Z
-SUMMARY:ホロライブ: 【ホロのこしかけ 09】2022年初回！あなたの推し活豆知識は？ / 1月まとめ【友人A・えーちゃん】hololive FM
-UID:8tM93OAmVIk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】好きな音の歌をうたうよ～【ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=V5ovi1MdJiY
-DURATION:PT2H
-DTSTART:20220127T100000Z
-SUMMARY:🌲大神ミオ: 【歌枠】好きな音の歌をうたうよ～【ホロライブ/大神ミオ】
-UID:V5ovi1MdJiY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【晩酌】プチお知らせあり✨あの…！『雪夜月』で乾杯♡【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=jzsbC34Ix0I
@@ -116,6 +81,13 @@ SUMMARY:博衣こより: 【Pokémon LEGENDS アルセウス】新しい冒険�
 UID:xyPDq5f3ic8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【マシュマロ雑談】あずきちと一緒に質問答えちゃうYO！！【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=4cmbSTSkuyg
+DURATION:PT2H
+DTSTART:20220129T100000Z
+SUMMARY:🤖ロボ子さん: 【マシュマロ雑談】あずきちと一緒に質問答えちゃうYO！！【ホロライブ/ロボ子さん】
+UID:4cmbSTSkuyg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ARK】ねぽらぼvsワイバーンチャレンジ【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=RiwIgY4AheQ
 DURATION:PT2H
 DTSTART:20220128T130000Z
@@ -128,27 +100,6 @@ DURATION:PT2H
 DTSTART:20220128T130000Z
 SUMMARY:尾丸ポルカ: 【ARK Lost Island】落ちてたものを拾っただけなんです！ #ねぽらぼ #ホロARK【尾丸ポルカ視点/ホロライブ】
 UID:fZ5tYw3Pin0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Raft】おまいらと漂流しながらサバイバルするぞ【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=2fyLYY6EHf0
-DURATION:PT2H
-DTSTART:20220127T130000Z
-SUMMARY:獅白ぼたん: 【Raft】おまいらと漂流しながらサバイバルするぞ【獅白ぼたん/ホロライブ】
-UID:2fyLYY6EHf0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンBDSP】最終回:色違いディアルガ耐久【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=8g73MX_rLc0
-DURATION:PT2H
-DTSTART:20220126T150000Z
-SUMMARY:🌽白上フブキ: 【ポケモンBDSP】最終回:色違いディアルガ耐久【ホロライブ/白上フブキ】
-UID:8g73MX_rLc0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ゼルダの伝説 ブレス オブ ザ ワイルド】MAPで謎な3か所に行ってみる！｜完全初見のBotW ＃17【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=XzCi44NRyqA
-DURATION:PT2H
-DTSTART:20220127T000000Z
-SUMMARY:雪花ラミィ: 【ゼルダの伝説 ブレス オブ ザ ワイルド】MAPで謎な3か所に行ってみる！｜完全初見のBotW ＃17【雪花ラミィ/ホロライブ】
-UID:XzCi44NRyqA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARK】群衆の洞窟リベンジ！1時間チャレンジなのだ！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=1oIdoWsbRRE
@@ -165,11 +116,11 @@ SUMMARY:🌽白上フブキ: 【同時視聴】MCUアニメ「What If…？」�
 UID:jDhzK4-DEOw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロARK】ねぽらぼワイバーンチャレンジの準備！ARK生活11日目【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=QaT6yGoOAvU
+DESCRIPTION:【#YAGOO王】この中でYAGOO王になるのは誰だ！？【ホロライブ】\nhttps://www.youtube.com/watch?v=R4yKnSLArBs
 DURATION:PT2H
-DTSTART:20220127T130000Z
-SUMMARY:雪花ラミィ: 【#ホロARK】ねぽらぼワイバーンチャレンジの準備！ARK生活11日目【雪花ラミィ/ホロライブ】
-UID:QaT6yGoOAvU
+DTSTART:20220130T130000Z
+SUMMARY:鷹嶺ルイ: 【#YAGOO王】この中でYAGOO王になるのは誰だ！？【ホロライブ】
+UID:R4yKnSLArBs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【チラ見せ枠】湊あくあ ワンマンライブ2022「あくあ色 in わんだ～☆らんど♪」【＃湊あくあソロライブ】\nhttps://www.youtube.com/watch?v=8D6bGLucsYM
@@ -186,25 +137,11 @@ SUMMARY:🤖ロボ子さん: 【ARK】今日は仲間を増やすんだ…ねぇ
 UID:pzFewe0p8U0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【superchat】スパチャ読み雑談！※スパチャオフでの読み上げ【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=4FvyMjQdCyg
-DURATION:PT2H
-DTSTART:20220127T010000Z
-SUMMARY:沙花叉クロヱ: 【superchat】スパチャ読み雑談！※スパチャオフでの読み上げ【沙花叉クロヱ/ホロライブ】
-UID:4FvyMjQdCyg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#生スバル】おはすば！スバル：FREE TALK【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=56d1YI8ObFU
 DURATION:PT2H
 DTSTART:20220129T010000Z
 SUMMARY:🚑大空スバル: 【#生スバル】おはすば！スバル：FREE TALK【ホロライブ/大空スバル】
 UID:56d1YI8ObFU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】ブロンズⅣ→？⚡３時間でどこまでいけるかチャレンジ✨※PONで２時間ｗ【ホロライブ/ロボ子さん】\nhttps://www.youtube.com/watch?v=ZvX1nkF_8Uo
-DURATION:PT2H
-DTSTART:20220127T120000Z
-SUMMARY:🤖ロボ子さん: 【APEX】ブロンズⅣ→？⚡３時間でどこまでいけるかチャレンジ✨※PONで２時間ｗ【ホロライブ/ロボ子さん】
-UID:ZvX1nkF_8Uo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ときのそら、異世界をつくりたい【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=EG2qPf1uGmM
@@ -235,11 +172,11 @@ SUMMARY:博衣こより: 【朝こよ#17】朝だよ～！ホロポケカップ�
 UID:jJBf30M6vr0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【NEEDY GIRL OVERDOSE】メンヘラVS猫！？！？！【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=32oy62s42vY
+DESCRIPTION:【プロセカ】ほぼ初見で音ゲー楽しむぞいッ！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=5KdQyI6DUxI
 DURATION:PT2H
-DTSTART:20220127T090000Z
-SUMMARY:🍙猫又おかゆ: 【NEEDY GIRL OVERDOSE】メンヘラVS猫！？！？！【猫又おかゆ/ホロライブ】
-UID:32oy62s42vY
+DTSTART:20220128T130000Z
+SUMMARY:🏮夏色まつり: 【プロセカ】ほぼ初見で音ゲー楽しむぞいッ！【ホロライブ/夏色まつり】
+UID:5KdQyI6DUxI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ホロメンとハグをした時にさりげなくぺぇを堪能するわため【ギリギリわるくないわため】#Shorts\nhttps://www.youtube.com/watch?v=Pbqw4D_oNeU
@@ -270,39 +207,11 @@ SUMMARY:👾常闇トワ: 【Minecraft】いったんリセットして考えて
 UID:DXcNpjhP1Es
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Silver Chains 】廃墟に迷い込みました・・・のら・・・【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=UW6rpr9pBxM
-DURATION:PT2H
-DTSTART:20220128T150000Z
-SUMMARY:🍬姫森ルーナ: 【 Silver Chains 】廃墟に迷い込みました・・・のら・・・【#姫森ルーナ/ホロライブ】
-UID:UW6rpr9pBxM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ほぼ毎日ショート#47】アットホーム！？ルイラプの日常　#shorts\nhttps://www.youtube.com/watch?v=E3XtGQdZSnQ
 DURATION:PT2H
 DTSTART:20220128T114250Z
 SUMMARY:鷹嶺ルイ: 【ほぼ毎日ショート#47】アットホーム！？ルイラプの日常　#shorts
 UID:E3XtGQdZSnQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【音質注意】先日寿命を迎えたASMRマイク #shorts\nhttps://www.youtube.com/watch?v=NG_d4tPX5rg
-DURATION:PT2H
-DTSTART:20220127T143006Z
-SUMMARY:ラプラス: 【音質注意】先日寿命を迎えたASMRマイク #shorts
-UID:NG_d4tPX5rg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活】喉の病院に行って声帯を見てきたら驚きの結果が…！など雑談【沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=taU4uvAilGg
-DURATION:PT2H
-DTSTART:20220126T220000Z
-SUMMARY:沙花叉クロヱ: 【朝活】喉の病院に行って声帯を見てきたら驚きの結果が…！など雑談【沙花叉クロヱ】
-UID:taU4uvAilGg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】8位以下即終了！！2回罰ゲーム制！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=JePlykZt6M4
-DURATION:PT2H
-DTSTART:20220127T120000Z
-SUMMARY:💫天音かなた: 【マリオカート8DX】8位以下即終了！！2回罰ゲーム制！！【天音かなた/ホロライブ】
-UID:JePlykZt6M4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Pokémon LEGENDS アルセウス】新　世　界【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=UD51ml70dv8
@@ -312,11 +221,11 @@ SUMMARY:🌙紫咲シオン: 【Pokémon LEGENDS アルセウス】新　世　�
 UID:UD51ml70dv8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ポケモンアルセウス】新しいポケモンの世界やったー！！！【ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=izF5V48WFQo
+DESCRIPTION:💜#３│ラプラス・ダークネスのダークナイトラジオ公開収録編！【ホロライブ】🛸\nhttps://www.youtube.com/watch?v=kEbfGlg9jn4
 DURATION:PT2H
-DTSTART:20220128T101500Z
-SUMMARY:🌲大神ミオ: 【ポケモンアルセウス】新しいポケモンの世界やったー！！！【ホロライブ/大神ミオ】
-UID:izF5V48WFQo
+DTSTART:20220129T133000Z
+SUMMARY:ラプラス: 💜#３│ラプラス・ダークネスのダークナイトラジオ公開収録編！【ホロライブ】🛸
+UID:kEbfGlg9jn4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【セリフ枠】恥ずかしぬ！！最初で最後（だと思う）セリフ枠！※概要欄にセリフ募集リンクがあります！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=ZeapDtiTng4
@@ -333,11 +242,18 @@ SUMMARY:🥐戌神ころね: 【N64】バンジョーとカズーイの大冒険
 UID:ksRHE7jzzbQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:💜#３│ラプラス・ダークネスのダークナイトラジオ公開収録編！【ホロライブ】🛸\nhttps://www.youtube.com/watch?v=kEbfGlg9jn4
+DESCRIPTION:【ポケモンアルセウス】新しいポケモンの世界やったー！！！【ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=izF5V48WFQo
 DURATION:PT2H
-DTSTART:20220129T133000Z
-SUMMARY:ラプラス: 💜#３│ラプラス・ダークネスのダークナイトラジオ公開収録編！【ホロライブ】🛸
-UID:kEbfGlg9jn4
+DTSTART:20220128T101500Z
+SUMMARY:🌲大神ミオ: 【ポケモンアルセウス】新しいポケモンの世界やったー！！！【ホロライブ/大神ミオ】
+UID:izF5V48WFQo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ホロライブ身体測定】噂のラプラス・ダークネス様診察いたします！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=UnyuiAl7kfA
+DURATION:PT2H
+DTSTART:20220130T100000Z
+SUMMARY:💋癒月ちょこ: 【ホロライブ身体測定】噂のラプラス・ダークネス様診察いたします！【ホロライブ/癒月ちょこ】
+UID:UnyuiAl7kfA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ドラクエ8】ドルマゲスにリベンジしてボッコボコにする！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=qrLJFPeziwo
@@ -347,25 +263,11 @@ SUMMARY:👯兎田ぺこら: 【ドラクエ8】ドルマゲスにリベンジ�
 UID:qrLJFPeziwo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 壺おじ 】壺おじ初クリア１時間ちゃれんじ１日目【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=gzXXCCLtmfE
+DESCRIPTION:【 Silver Chains 】廃墟に迷い込みました・・・のら・・・【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=UW6rpr9pBxM
 DURATION:PT2H
-DTSTART:20220127T123000Z
-SUMMARY:🌸さくらみこ: 【 壺おじ 】壺おじ初クリア１時間ちゃれんじ１日目【ホロライブ/さくらみこ】
-UID:gzXXCCLtmfE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ママにゲーム隠された２！！！！！！！！！！！！！！！！！！！\nhttps://www.youtube.com/watch?v=r2hRrE24KDo
-DURATION:PT2H
-DTSTART:20220127T140000Z
-SUMMARY:🥐戌神ころね: ママにゲーム隠された２！！！！！！！！！！！！！！！！！！！
-UID:r2hRrE24KDo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 龍が如く 極 】第3話、メスキングのカードがもっと欲しい【 桃鈴ねね  / ホロライブ / #ねねいろらいぶ 】※ネタバレあり\nhttps://www.youtube.com/watch?v=SXLmc-trQM0
-DURATION:PT2H
-DTSTART:20220127T100000Z
-SUMMARY:桃鈴ねね: 【 龍が如く 極 】第3話、メスキングのカードがもっと欲しい【 桃鈴ねね  / ホロライブ / #ねねいろらいぶ 】※ネタバレあり
-UID:SXLmc-trQM0
+DTSTART:20220128T150000Z
+SUMMARY:🍬姫森ルーナ: 【 Silver Chains 】廃墟に迷い込みました・・・のら・・・【#姫森ルーナ/ホロライブ】
+UID:UW6rpr9pBxM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Pokémon LEGENDS アルセウス】新しい冒険のはじまりだ！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=B1MjIMKlkSY
