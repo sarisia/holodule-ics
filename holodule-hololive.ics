@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【晩酌】引っ越ししたよ！新しいお部屋、見て～っ！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=2voKLAo2lXI
-DURATION:PT2H
-DTSTART:20220129T130000Z
-SUMMARY:雪花ラミィ: 【晩酌】引っ越ししたよ！新しいお部屋、見て～っ！！【雪花ラミィ/ホロライブ】
-UID:2voKLAo2lXI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ドラクエ8】ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=gEJ4z4Ikp7g
 DURATION:PT2H
 DTSTART:20220130T040000Z
@@ -289,5 +282,12 @@ DURATION:PT2H
 DTSTART:20220129T040000Z
 SUMMARY:👯兎田ぺこら: 【ドラクエ8】ドルマゲスにリベンジしてボッコボコにする！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり
 UID:qrLJFPeziwo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Pokémon LEGENDS アルセウス】ストーリーがんがんやるよ～！#2【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=BZleMmHuaLk
+DURATION:PT2H
+DTSTART:20220130T010000Z
+SUMMARY:博衣こより: 【Pokémon LEGENDS アルセウス】ストーリーがんがんやるよ～！#2【博衣こより/ホロライブ】
+UID:BZleMmHuaLk
 END:VEVENT
 END:VCALENDAR
