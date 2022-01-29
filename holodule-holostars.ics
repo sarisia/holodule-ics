@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【スパチャ感謝雑談枠】これからの話とかもしたい気がする【律可/ホロスターズ】 #りつすた\nhttps://www.youtube.com/watch?v=bNzfuLMXfT8
+DESCRIPTION:【雑談】視聴者の懺悔を聞き、「バカモーン！！」する配信【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=JXCT9-Lp-Uk
 DURATION:PT2H
-DTSTART:20220129T140000Z
-SUMMARY:⚙律可: 【スパチャ感謝雑談枠】これからの話とかもしたい気がする【律可/ホロスターズ】 #りつすた
-UID:bNzfuLMXfT8
+DTSTART:20220129T093006Z
+SUMMARY:🦔💨岸堂天真: 【雑談】視聴者の懺悔を聞き、「バカモーン！！」する配信【岸堂天真/ホロスターズ】
+UID:JXCT9-Lp-Uk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #アルランディス新衣装お披露目 】一足お先に、俺脱ぎます【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=4r5hdJbAUMc
+DURATION:PT2H
+DTSTART:20220130T110000Z
+SUMMARY:🍕アルランディス: 【 #アルランディス新衣装お披露目 】一足お先に、俺脱ぎます【アルランディス/ホロスターズ】
+UID:4r5hdJbAUMc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ポケモンアルセウス】このゲームやりこみ度はんぱなくなぁい？ / アステルレダ\nhttps://www.youtube.com/watch?v=xsr22FYDTFs
@@ -16,6 +23,13 @@ DURATION:PT2H
 DTSTART:20220129T020000Z
 SUMMARY:🎭アステル・レダ: 【ポケモンアルセウス】このゲームやりこみ度はんぱなくなぁい？ / アステルレダ
 UID:xsr22FYDTFs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ロックマン クラシックス コレクション 2】ゴリ押しロックマン7【荒咬オウガ　ホロスターズ】\nhttps://www.youtube.com/watch?v=0fPo2wB6Vlk
+DURATION:PT2H
+DTSTART:20220129T143000Z
+SUMMARY:荒咬オウガ: 【ロックマン クラシックス コレクション 2】ゴリ押しロックマン7【荒咬オウガ　ホロスターズ】
+UID:0fPo2wB6Vlk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Pokémon LEGENDS アルセウス】初見で挑むアルセウス【夕刻ロベル/ホロスターズ】#2\nhttps://www.youtube.com/watch?v=TLNOKSUyBO4
@@ -32,11 +46,11 @@ SUMMARY:🍷夕刻ロベル: 【Pokémon LEGENDS アルセウス】初見で挑�
 UID:Y3RFe4DG2cY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】視聴者の懺悔を聞き、「バカモーン！！」する配信【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=JXCT9-Lp-Uk
+DESCRIPTION:【スパチャ感謝雑談枠】これからの話とかもしたい気がする【律可/ホロスターズ】 #りつすた\nhttps://www.youtube.com/watch?v=bNzfuLMXfT8
 DURATION:PT2H
-DTSTART:20220129T093006Z
-SUMMARY:🦔💨岸堂天真: 【雑談】視聴者の懺悔を聞き、「バカモーン！！」する配信【岸堂天真/ホロスターズ】
-UID:JXCT9-Lp-Uk
+DTSTART:20220129T140000Z
+SUMMARY:⚙律可: 【スパチャ感謝雑談枠】これからの話とかもしたい気がする【律可/ホロスターズ】 #りつすた
+UID:bNzfuLMXfT8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】また野良チェスト増えてるやんけぇ!!!【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=vTOTEmxMX8w
@@ -44,12 +58,5 @@ DURATION:PT2H
 DTSTART:20220129T053000Z
 SUMMARY:🍕アルランディス: 【Minecraft】また野良チェスト増えてるやんけぇ!!!【アルランディス/ホロスターズ】
 UID:vTOTEmxMX8w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #アルランディス新衣装お披露目 】一足お先に、俺脱ぎます【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=4r5hdJbAUMc
-DURATION:PT2H
-DTSTART:20220130T110000Z
-SUMMARY:🍕アルランディス: 【 #アルランディス新衣装お披露目 】一足お先に、俺脱ぎます【アルランディス/ホロスターズ】
-UID:4r5hdJbAUMc
 END:VEVENT
 END:VCALENDAR
