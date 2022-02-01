@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ARK】NOT HOMELESS ANYMORE【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=zrOysnlo3jM
-DURATION:PT2H
-DTSTART:20220201T140000Z
-SUMMARY:Anya: 【ARK】NOT HOMELESS ANYMORE【hololive Indonesia 2nd Generation】
-UID:zrOysnlo3jM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【JUMP KING】IT ONLY GOES UP FROM HERE!! ... I HOPE【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=83-iQ7IBSaw
 DURATION:PT2H
 DTSTART:20220201T030218Z
@@ -18,11 +11,18 @@ SUMMARY:Ollie: 【JUMP KING】IT ONLY GOES UP FROM HERE!! ... I HOPE【Hololive 
 UID:83-iQ7IBSaw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#ioAppreciate You've Done A Great Job\, You're Amazing\nhttps://www.youtube.com/watch?v=4Wm81z9MnTE
+DESCRIPTION:【ARK】NOT HOMELESS ANYMORE【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=zrOysnlo3jM
+DURATION:PT2H
+DTSTART:20220201T140000Z
+SUMMARY:Anya: 【ARK】NOT HOMELESS ANYMORE【hololive Indonesia 2nd Generation】
+UID:zrOysnlo3jM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#2【OUTLAST】kalm (w/ Heart Rate Monitor)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=CESBlO6BQ4s
 DURATION:PT2H
 DTSTART:20220201T130000Z
-SUMMARY:🎨Iofi: #ioAppreciate You've Done A Great Job\, You're Amazing
-UID:4Wm81z9MnTE
+SUMMARY:Reine: #2【OUTLAST】kalm (w/ Heart Rate Monitor)【Pavolia Reine/hololiveID 2nd gen】
+UID:CESBlO6BQ4s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Unpacking】WAKE UP BABE New Reine Cleaning Stream【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=5e5tdjH3VAE
@@ -30,5 +30,12 @@ DURATION:PT2H
 DTSTART:20220131T130000Z
 SUMMARY:Reine: 【Unpacking】WAKE UP BABE New Reine Cleaning Stream【Pavolia Reine/hololiveID 2nd gen】
 UID:5e5tdjH3VAE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#ioAppreciate You've Done A Great Job\, You're Amazing\nhttps://www.youtube.com/watch?v=4Wm81z9MnTE
+DURATION:PT2H
+DTSTART:20220201T130000Z
+SUMMARY:🎨Iofi: #ioAppreciate You've Done A Great Job\, You're Amazing
+UID:4Wm81z9MnTE
 END:VEVENT
 END:VCALENDAR
