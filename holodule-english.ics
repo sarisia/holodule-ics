@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ART & CHAT】Comfy Coloring Time #kfp #キアライブ\nhttps://www.youtube.com/watch?v=YixF9uTjY-Q
-DURATION:PT2H
-DTSTART:20220202T130000Z
-SUMMARY:Kiara: 【ART & CHAT】Comfy Coloring Time #kfp #キアライブ
-UID:YixF9uTjY-Q
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【CS:GO】PRAY FOR ME\nhttps://www.youtube.com/watch?v=vW0ZHW64Vtk
 DURATION:PT2H
 DTSTART:20220202T060000Z
@@ -18,32 +11,18 @@ SUMMARY:Amelia: 【CS:GO】PRAY FOR ME
 UID:vW0ZHW64Vtk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪Resident Evil: Village≫ i will be okay ft. Fauna\nhttps://www.youtube.com/watch?v=hS-hnpHKDmc
-DURATION:PT2H
-DTSTART:20220203T020000Z
-SUMMARY:Baelz: ≪Resident Evil: Village≫ i will be okay ft. Fauna
-UID:hS-hnpHKDmc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SERIOUS SAM: SIBERIAN MAYHEM】COMRADE! #gawrgura\nhttps://www.youtube.com/watch?v=Gzsa_B-9mOc
-DURATION:PT2H
-DTSTART:20220202T010117Z
-SUMMARY:Gura: 【SERIOUS SAM: SIBERIAN MAYHEM】COMRADE! #gawrgura
-UID:Gzsa_B-9mOc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪Cooking Simulator≫ RECIPE MEMORY CHALLENGE\nhttps://www.youtube.com/watch?v=T5A9uIuN93k
-DURATION:PT2H
-DTSTART:20220202T020000Z
-SUMMARY:Baelz: ≪Cooking Simulator≫ RECIPE MEMORY CHALLENGE
-UID:T5A9uIuN93k
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Pokémon Legends: Arceus】 Big Bidoof Search Party Pt.2 【#3】\nhttps://www.youtube.com/watch?v=BKNEj9iQ7iM
 DURATION:PT2H
 DTSTART:20220202T223000Z
 SUMMARY:Ina: 【Pokémon Legends: Arceus】 Big Bidoof Search Party Pt.2 【#3】
 UID:BKNEj9iQ7iM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪Resident Evil: Village≫ i will be okay ft. Fauna\nhttps://www.youtube.com/watch?v=hS-hnpHKDmc
+DURATION:PT2H
+DTSTART:20220203T020000Z
+SUMMARY:Baelz: ≪Resident Evil: Village≫ i will be okay ft. Fauna
+UID:hS-hnpHKDmc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【NEEDY GIRL OVERDOSE】I can fix her\nhttps://www.youtube.com/watch?v=z0SNjfTsABA
@@ -58,5 +37,19 @@ DURATION:PT2H
 DTSTART:20220201T210000Z
 SUMMARY:Ina: 【NEEDY GIRL OVERDOSE】 UWU
 UID:rrrAsNxxNdQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SERIOUS SAM: SIBERIAN MAYHEM】COMRADE! #gawrgura\nhttps://www.youtube.com/watch?v=Gzsa_B-9mOc
+DURATION:PT2H
+DTSTART:20220202T010117Z
+SUMMARY:Gura: 【SERIOUS SAM: SIBERIAN MAYHEM】COMRADE! #gawrgura
+UID:Gzsa_B-9mOc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪Cooking Simulator≫ RECIPE MEMORY CHALLENGE\nhttps://www.youtube.com/watch?v=T5A9uIuN93k
+DURATION:PT2H
+DTSTART:20220202T020000Z
+SUMMARY:Baelz: ≪Cooking Simulator≫ RECIPE MEMORY CHALLENGE
+UID:T5A9uIuN93k
 END:VEVENT
 END:VCALENDAR
