@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:HELLO ICEBORNE! Saatnya Datang ke Seliana\nhttps://www.youtube.com/watch?v=nGkVg6Kvf9Y
+DURATION:PT2H
+DTSTART:20220203T120000Z
+SUMMARY:🎨Iofi: HELLO ICEBORNE! Saatnya Datang ke Seliana
+UID:nGkVg6Kvf9Y
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Chatting】It's The Weekend?!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=cD9XOamLJ3c
 DURATION:PT2H
 DTSTART:20220205T000000Z
@@ -16,13 +23,6 @@ DURATION:PT2H
 DTSTART:20220203T070000Z
 SUMMARY:Anya: 【Unpacking】We Moved Out!【hololive Indonesia 2nd Generation】
 UID:YB9Jl2b_328
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】OMG Blocks Gaming With The Ganggggg【hololiveID 2nd Generation】\nhttps://www.youtube.com/watch?v=lWg9XC-tyA4
-DURATION:PT2H
-DTSTART:20220204T130000Z
-SUMMARY:Anya: 【Minecraft】OMG Blocks Gaming With The Ganggggg【hololiveID 2nd Generation】
-UID:lWg9XC-tyA4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARK】can i have my own dino? i want to tame a dino!!【Moona】\nhttps://www.youtube.com/watch?v=AgKm4oeksIA
@@ -44,6 +44,13 @@ DURATION:PT2H
 DTSTART:20220203T130000Z
 SUMMARY:Reine: 【Cover】 シンデレラ (Cinderella) ／ Pavolia Reine
 UID:o6C7-azdU7I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】OMG Blocks Gaming With The Ganggggg【hololiveID 2nd Generation】\nhttps://www.youtube.com/watch?v=lWg9XC-tyA4
+DURATION:PT2H
+DTSTART:20220204T130000Z
+SUMMARY:Anya: 【Minecraft】OMG Blocks Gaming With The Ganggggg【hololiveID 2nd Generation】
+UID:lWg9XC-tyA4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】(JP/EN server) bird【Reine/Mumei/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=65THoah3ckU
