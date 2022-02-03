@@ -32,18 +32,18 @@ SUMMARY:👯兎田ぺこら: 【メンバー限定】魔法少女まどか☆マ
 UID:ida0dch8vvY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【】寿司屋昴しゅばあああああああああああああああああ！！！！！Cooking Sushi 【】\nhttps://www.youtube.com/watch?v=FXaV1tbQZg0
-DURATION:PT2H
-DTSTART:20220203T130000Z
-SUMMARY:🚑大空スバル: 【】寿司屋昴しゅばあああああああああああああああああ！！！！！Cooking Sushi 【】
-UID:FXaV1tbQZg0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 アンチャーテッド 海賊王と最後の秘宝(PS5) 】車にも乗れるんですか！？！？ | アンチャーテッド トレジャーハンターコレクション(PS5)【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=NyI6JILCjVA
 DURATION:PT2H
 DTSTART:20220203T130000Z
 SUMMARY:🌸さくらみこ: 【 アンチャーテッド 海賊王と最後の秘宝(PS5) 】車にも乗れるんですか！？！？ | アンチャーテッド トレジャーハンターコレクション(PS5)【ホロライブ/さくらみこ】
 UID:NyI6JILCjVA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【】寿司屋昴しゅばあああああああああああああああああ！！！！！Cooking Sushi 【】\nhttps://www.youtube.com/watch?v=FXaV1tbQZg0
+DURATION:PT2H
+DTSTART:20220203T130000Z
+SUMMARY:🚑大空スバル: 【】寿司屋昴しゅばあああああああああああああああああ！！！！！Cooking Sushi 【】
+UID:FXaV1tbQZg0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 壺おじ 】余裕だが？壺おじ初クリア１時間ちゃれんじ２日目【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=c5mrtgYadvU
@@ -305,6 +305,13 @@ SUMMARY:🏴☠宝鐘マリン: 【#ホロ天才画伯】画力あふれるお�
 UID:uPRaiWL_BVw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【R6E】レベルアップと調査を進める【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=3ZztTaxr1zs
+DURATION:PT2H
+DTSTART:20220203T080000Z
+SUMMARY:👾常闇トワ: 【R6E】レベルアップと調査を進める【常闇トワ/ホロライブ】
+UID:3ZztTaxr1zs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【晩酌】membership限定！日本のワインを飲んでいく☺【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=s2Co6w89fNs
 DURATION:PT2H
 DTSTART:20220203T150000Z
@@ -340,11 +347,25 @@ SUMMARY:🐻ときのそら: 【Original song】歌枠しちゃうぞ～【#と�
 UID:3YfI8tPsfS4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 Raft 】攻　略　す　る　🦈【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=ZEDr9HaiDGo
+DURATION:PT2H
+DTSTART:20220203T140000Z
+SUMMARY:🍬姫森ルーナ: 【 Raft 】攻　略　す　る　🦈【#姫森ルーナ/ホロライブ】
+UID:ZEDr9HaiDGo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ARK】我ら酒飲みPON銃士！！雪フクロウテイムするの巻ッ！ 【#酒飲みPON/ホロライブ】\nhttps://www.youtube.com/watch?v=T7mOWKvfD0c
 DURATION:PT2H
 DTSTART:20220202T130000Z
 SUMMARY:⚔白銀ノエル: 【ARK】我ら酒飲みPON銃士！！雪フクロウテイムするの巻ッ！ 【#酒飲みPON/ホロライブ】
 UID:T7mOWKvfD0c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【アソビ大全】僕もリスナーとプロレスしてみたい！！！！【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=KYq2frL81bU
+DURATION:PT2H
+DTSTART:20220203T090000Z
+SUMMARY:🍙猫又おかゆ: 【アソビ大全】僕もリスナーとプロレスしてみたい！！！！【猫又おかゆ/ホロライブ】
+UID:KYq2frL81bU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:アニマル/沙花叉クロヱ(cover)\nhttps://www.youtube.com/watch?v=s-wDgxGCj4g
