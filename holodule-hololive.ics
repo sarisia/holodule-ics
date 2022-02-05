@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:アベ・チャママ【SINGCHAMA】\nhttps://www.youtube.com/watch?v=Ru0v6YfXNuw
+DURATION:PT2H
+DTSTART:20220205T130000Z
+SUMMARY:❤赤井はあと: アベ・チャママ【SINGCHAMA】
+UID:Ru0v6YfXNuw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【世界のアソビ大全51】ダーツやばいに今日こそかつ！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=S9_1144kixo
 DURATION:PT2H
 DTSTART:20220205T073000Z
@@ -74,18 +81,18 @@ SUMMARY:❤赤井はあと: はあちゃま復活おめでとう！
 UID:yr7aThLX4S4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ARK】#かなりあ で洞窟攻略しにいくぞっ！🦖【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=1no_XdBeGl0
+DURATION:PT2H
+DTSTART:20220205T110000Z
+SUMMARY:🔥不知火フレア: 【ARK】#かなりあ で洞窟攻略しにいくぞっ！🦖【不知火フレア/ホロライブ】
+UID:1no_XdBeGl0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ARK】#かなりあ　３人で洞窟に出発だ！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=iGjr5Lsta1E
 DURATION:PT2H
 DTSTART:20220205T110000Z
 SUMMARY:💫天音かなた: 【ARK】#かなりあ　３人で洞窟に出発だ！！！【天音かなた/ホロライブ】
 UID:iGjr5Lsta1E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Dying Light 2】終末まで生き残ってやる！！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=OJpaM2_EhjE
-DURATION:PT2H
-DTSTART:20220205T120000Z
-SUMMARY:獅白ぼたん: 【Dying Light 2】終末まで生き残ってやる！！【獅白ぼたん/ホロライブ】
-UID:OJpaM2_EhjE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロARK】引っ越しの前に、お供を見つけよう、ユタラプトル君に決めたでござる【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=To_gkYYQ8Cg
@@ -102,11 +109,11 @@ SUMMARY:❤赤井はあと: 【復活】I'M BACK.
 UID:eqWKypA3PMY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 メンバー限定 】はいしんよてち💘【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=VbxlUY3EvRQ
+DESCRIPTION:【Dying Light 2】終末まで生き残ってやる！！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=OJpaM2_EhjE
 DURATION:PT2H
-DTSTART:20220205T130000Z
-SUMMARY:🌸さくらみこ: 【 メンバー限定 】はいしんよてち💘【ホロライブ/さくらみこ】
-UID:VbxlUY3EvRQ
+DTSTART:20220205T120000Z
+SUMMARY:獅白ぼたん: 【Dying Light 2】終末まで生き残ってやる！！【獅白ぼたん/ホロライブ】
+UID:OJpaM2_EhjE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ゲリラARK】拠点がαレックスLv145に襲われたようです【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=fmRfY3V9buQ
@@ -170,13 +177,6 @@ DURATION:PT2H
 DTSTART:20220206T120000Z
 SUMMARY:🍙猫又おかゆ: 【メン限】第5回 セリフ読み大会！KU-100使うよ！【セリフ読み】
 UID:aZbbrLRp8hg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ドラクエ8】最後の七賢者を絶対に守るぞ！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=oUVU4qKeiRc
-DURATION:PT2H
-DTSTART:20220205T040000Z
-SUMMARY:👯兎田ぺこら: 【ドラクエ8】最後の七賢者を絶対に守るぞ！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり
-UID:oUVU4qKeiRc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:猫になれば何をやっても大体許してもらえる説【 大神ミオ / ホロライブ 】\nhttps://www.youtube.com/watch?v=2VuxKH3zaNE
@@ -282,6 +282,13 @@ DURATION:PT2H
 DTSTART:20220204T100032Z
 SUMMARY:尾丸ポルカ: 【それが私たちのサガだから】徒花ネクロマンシー／COVER LIVE Ver.【ポルカプロデュース】
 UID:mFLu8TKDsrk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 メンバー限定 】はいしんよてち💘【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=VbxlUY3EvRQ
+DURATION:PT2H
+DTSTART:20220205T130000Z
+SUMMARY:🌸さくらみこ: 【 メンバー限定 】はいしんよてち💘【ホロライブ/さくらみこ】
+UID:VbxlUY3EvRQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Getting Over It】メンタルpart2【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=ClBebkVzXcQ
