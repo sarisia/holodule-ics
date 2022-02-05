@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【世界のアソビ大全51】ダーツやばいに今日こそかつ！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=S9_1144kixo
-DURATION:PT2H
-DTSTART:20220205T073000Z
-SUMMARY:🐻ときのそら: 【世界のアソビ大全51】ダーツやばいに今日こそかつ！！【#ときのそら生放送】
-UID:S9_1144kixo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ARK】げりら！！！フレア先輩と洞窟準備！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=O-BYbJNsPeE
 DURATION:PT2H
 DTSTART:20220204T060000Z
@@ -179,18 +172,18 @@ SUMMARY:🍬姫森ルーナ: 【 Raft 】終　末　世　界　を　旅　す
 UID:EXl2kTW08EY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】バラードとか【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=e9xHNzNfSXU
-DURATION:PT2H
-DTSTART:20220205T090000Z
-SUMMARY:🏮夏色まつり: 【歌枠】バラードとか【ホロライブ/夏色まつり】
-UID:e9xHNzNfSXU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【晩酌】ぽしゃけけけ〜〜【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=ljvZ15VfFV4
 DURATION:PT2H
 DTSTART:20220204T110000Z
 SUMMARY:🍙猫又おかゆ: 【晩酌】ぽしゃけけけ〜〜【猫又おかゆ/ホロライブ】
 UID:ljvZ15VfFV4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Pokémon LEGENDS アルセウス】はじめてのポケモン🍃#1【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=70Tz-t4LevU
+DURATION:PT2H
+DTSTART:20220205T060000Z
+SUMMARY:風真いろは: 【Pokémon LEGENDS アルセウス】はじめてのポケモン🍃#1【風真いろは/ホロライブ】
+UID:70Tz-t4LevU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GREENHELL】アマゾンの奥地でサバイバル生活！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=RoUW43iMLgQ
@@ -219,6 +212,13 @@ DURATION:PT2H
 DTSTART:20220205T000000Z
 SUMMARY:🤖ロボ子さん: 【朝活】熟睡アキちゃんを傍に…おはろーぼ💕【ホロライブ/ #ロボ子生放送】
 UID:tZ4SfbQHJ8Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK】初めての洞窟探検！ #かなりあ で行くよ～！【不知火フレア/天音かなた/博衣こより視点/ホロライブ】\nhttps://www.youtube.com/watch?v=5zfuTQ8SXxc
+DURATION:PT2H
+DTSTART:20220205T110000Z
+SUMMARY:博衣こより: 【ARK】初めての洞窟探検！ #かなりあ で行くよ～！【不知火フレア/天音かなた/博衣こより視点/ホロライブ】
+UID:5zfuTQ8SXxc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GREENHELL】アマゾンの奥地で究極のサバイバル！#2【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=8MSVgT3_KVo
