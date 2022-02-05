@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】アベ・チャママ ♡天使の歌声♡【SINGCHAMA】\nhttps://www.youtube.com/watch?v=Ru0v6YfXNuw
-DURATION:PT2H
-DTSTART:20220205T130000Z
-SUMMARY:❤赤井はあと: 【歌枠】アベ・チャママ ♡天使の歌声♡【SINGCHAMA】
-UID:Ru0v6YfXNuw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【世界のアソビ大全51】ダーツやばいに今日こそかつ！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=S9_1144kixo
 DURATION:PT2H
 DTSTART:20220205T073000Z
@@ -107,6 +100,13 @@ DURATION:PT2H
 DTSTART:20220205T110000Z
 SUMMARY:❤赤井はあと: 【復活】I'M BACK.
 UID:eqWKypA3PMY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Dying Light 2】終末まで生き残ってやる！！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=OJpaM2_EhjE
+DURATION:PT2H
+DTSTART:20220205T120000Z
+SUMMARY:獅白ぼたん: 【Dying Light 2】終末まで生き残ってやる！！【獅白ぼたん/ホロライブ】
+UID:OJpaM2_EhjE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ゲリラARK】拠点がαレックスLv145に襲われたようです【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=fmRfY3V9buQ
@@ -296,6 +296,13 @@ DURATION:PT2H
 DTSTART:20220205T141500Z
 SUMMARY:👾常闇トワ: 【Getting Over It】メンタルpart2【常闇トワ/ホロライブ】
 UID:ClBebkVzXcQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK】先生・・・水晶がほしいです・・・。【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=LAvGCOJHtI8
+DURATION:PT2H
+DTSTART:20220205T150000Z
+SUMMARY:鷹嶺ルイ: 【ARK】先生・・・水晶がほしいです・・・。【鷹嶺ルイ/ホロライブ】
+UID:LAvGCOJHtI8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 We Went Back 】宇宙からお届けしますのらっ…！！！【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=0T_zSTxCwDU
