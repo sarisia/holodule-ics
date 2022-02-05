@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【世界のアソビ大全51】ダーツやばいに今日こそかつ！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=S9_1144kixo
+DURATION:PT2H
+DTSTART:20220205T073000Z
+SUMMARY:🐻ときのそら: 【世界のアソビ大全51】ダーツやばいに今日こそかつ！！【#ときのそら生放送】
+UID:S9_1144kixo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ARK】げりら！！！フレア先輩と洞窟準備！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=O-BYbJNsPeE
 DURATION:PT2H
 DTSTART:20220204T060000Z
@@ -207,11 +214,11 @@ SUMMARY:🌸さくらみこ: #6【 ドラクエV 】ドラクエ完全初見！�
 UID:Agc6Y5eZlCE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 We Went Back 】宇宙からお届けしますのらっ…！！！【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=0T_zSTxCwDU
+DESCRIPTION:MinatoAqua | Apex SoloMaster Montage\nhttps://www.youtube.com/watch?v=NLPMrKgcI8E
 DURATION:PT2H
-DTSTART:20220205T150000Z
-SUMMARY:🍬姫森ルーナ: 【 We Went Back 】宇宙からお届けしますのらっ…！！！【#姫森ルーナ/ホロライブ】
-UID:0T_zSTxCwDU
+DTSTART:20220205T052203Z
+SUMMARY:⚓湊あくあ: MinatoAqua | Apex SoloMaster Montage
+UID:NLPMrKgcI8E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【それが私たちのサガだから】徒花ネクロマンシー／COVER LIVE Ver.【ポルカプロデュース】\nhttps://www.youtube.com/watch?v=mFLu8TKDsrk
@@ -219,6 +226,13 @@ DURATION:PT2H
 DTSTART:20220204T100032Z
 SUMMARY:尾丸ポルカ: 【それが私たちのサガだから】徒花ネクロマンシー／COVER LIVE Ver.【ポルカプロデュース】
 UID:mFLu8TKDsrk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 We Went Back 】宇宙からお届けしますのらっ…！！！【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=0T_zSTxCwDU
+DURATION:PT2H
+DTSTART:20220205T150000Z
+SUMMARY:🍬姫森ルーナ: 【 We Went Back 】宇宙からお届けしますのらっ…！！！【#姫森ルーナ/ホロライブ】
+UID:0T_zSTxCwDU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】ソロマスターいくまで耐久！！！！！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=aGlY6Ueaco0
