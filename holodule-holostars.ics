@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【VALORANT】記憶喪失してるから優しくしてください。  / Holostars Astelleda\nhttps://www.youtube.com/watch?v=RzIWjDoBH1E
-DURATION:PT2H
-DTSTART:20220203T160000Z
-SUMMARY:🎭アステル・レダ: 【VALORANT】記憶喪失してるから優しくしてください。  / Holostars Astelleda
-UID:RzIWjDoBH1E
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Apex Legends】プレマス帯にて殴られ屋【奏手イヅル】\nhttps://www.youtube.com/watch?v=DQwZRTvbUoo
 DURATION:PT2H
 DTSTART:20220205T063535Z
@@ -32,13 +25,6 @@ SUMMARY:🎸奏手イヅル: 【歌枠】一週間お疲れ弾き語り【奏手
 UID:rr3hYq5Z80c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【バイオハザード8】バイオハザード ヴィレッジ 初見プレイ その２ 【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=HqBFiXD57Kc
-DURATION:PT2H
-DTSTART:20220205T080000Z
-SUMMARY:🦔💨岸堂天真: 【バイオハザード8】バイオハザード ヴィレッジ 初見プレイ その２ 【岸堂天真/ホロスターズ】
-UID:HqBFiXD57Kc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【HackTag】最高に最強な俺たちの潜入ミッション【律可/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=nEiyz-0LwHE
 DURATION:PT2H
 DTSTART:20220204T110000Z
@@ -46,11 +32,11 @@ SUMMARY:🍕アルランディス: 【HackTag】最高に最強な俺たちの�
 UID:nEiyz-0LwHE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【アニメ】これが漢の1分クッキング【#スタこれ】\nhttps://www.youtube.com/watch?v=ecitJS77LnA
+DESCRIPTION:Silent Night Requiem\nhttps://www.youtube.com/watch?v=sG8yKByxSR0
 DURATION:PT2H
-DTSTART:20220204T100016Z
-SUMMARY:ホロスターズ: 【アニメ】これが漢の1分クッキング【#スタこれ】
-UID:ecitJS77LnA
+DTSTART:20220205T110000Z
+SUMMARY:荒咬オウガ: Silent Night Requiem
+UID:sG8yKByxSR0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【バイオハザード8】バイオハザード ヴィレッジ 初見プレイ 【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=FbuLr2iUtSk
@@ -58,20 +44,6 @@ DURATION:PT2H
 DTSTART:20220204T153000Z
 SUMMARY:🦔💨岸堂天真: 【バイオハザード8】バイオハザード ヴィレッジ 初見プレイ 【岸堂天真/ホロスターズ】
 UID:FbuLr2iUtSk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【シャドバ】新しいカードが出た時の喜び足るや否や【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=4-8SqE2F8QQ
-DURATION:PT2H
-DTSTART:20220205T100000Z
-SUMMARY:影山シエン: 【シャドバ】新しいカードが出た時の喜び足るや否や【影山シエン/ホロスターズ】
-UID:4-8SqE2F8QQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Silent Night Requiem\nhttps://www.youtube.com/watch?v=sG8yKByxSR0
-DURATION:PT2H
-DTSTART:20220205T110000Z
-SUMMARY:荒咬オウガ: Silent Night Requiem
-UID:sG8yKByxSR0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Pokémon LEGENDS アルセウス】#6 伝説のポケモンを探して【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=fohd1PtRyEI
@@ -95,6 +67,34 @@ SUMMARY:荒咬オウガ: 【雑談】Free talk【荒咬オウガ/ホロスター
 UID:-mVFXVKj6pI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【VALORANT】記憶喪失してるから優しくしてください。  / Holostars Astelleda\nhttps://www.youtube.com/watch?v=RzIWjDoBH1E
+DURATION:PT2H
+DTSTART:20220203T160000Z
+SUMMARY:🎭アステル・レダ: 【VALORANT】記憶喪失してるから優しくしてください。  / Holostars Astelleda
+UID:RzIWjDoBH1E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【シャドバ】新しいカードが出た時の喜び足るや否や【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=4-8SqE2F8QQ
+DURATION:PT2H
+DTSTART:20220205T100000Z
+SUMMARY:影山シエン: 【シャドバ】新しいカードが出た時の喜び足るや否や【影山シエン/ホロスターズ】
+UID:4-8SqE2F8QQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【バイオハザード8】バイオハザード ヴィレッジ 初見プレイ その２ 【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=HqBFiXD57Kc
+DURATION:PT2H
+DTSTART:20220205T080000Z
+SUMMARY:🦔💨岸堂天真: 【バイオハザード8】バイオハザード ヴィレッジ 初見プレイ その２ 【岸堂天真/ホロスターズ】
+UID:HqBFiXD57Kc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【アニメ】これが漢の1分クッキング【#スタこれ】\nhttps://www.youtube.com/watch?v=ecitJS77LnA
+DURATION:PT2H
+DTSTART:20220204T100016Z
+SUMMARY:ホロスターズ: 【アニメ】これが漢の1分クッキング【#スタこれ】
+UID:ecitJS77LnA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】ほっさざつだん【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=Oe91fwongb0
 DURATION:PT2H
 DTSTART:20220204T044000Z
@@ -107,5 +107,12 @@ DURATION:PT2H
 DTSTART:20220204T080000Z
 SUMMARY:🍷夕刻ロベル: 【シャニマス】限定めぐるを是が非でも手に入れたい男【夕刻ロベル/ホロスターズ】
 UID:3_TDbFPtUso
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:修正版【unpacking】荷ほどきで読み解ける人間模様【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=tirA2Pms6uU
+DURATION:PT2H
+DTSTART:20220205T075614Z
+SUMMARY:🍕アルランディス: 修正版【unpacking】荷ほどきで読み解ける人間模様【アルランディス/ホロスターズ】
+UID:tirA2Pms6uU
 END:VEVENT
 END:VCALENDAR
