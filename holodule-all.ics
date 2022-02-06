@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【DYINGLIGHT2】みんなでマルチ！ダイイングライト2 ステイ ヒューマン（PS5）≪ラミィ視点≫【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=Hs-RmhPTFps
-DURATION:PT2H
-DTSTART:20220206T120000Z
-SUMMARY:雪花ラミィ: 【DYINGLIGHT2】みんなでマルチ！ダイイングライト2 ステイ ヒューマン（PS5）≪ラミィ視点≫【雪花ラミィ/ホロライブ】
-UID:Hs-RmhPTFps
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【テトリス99】そう……これはテト雑【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=yYFtAUmqlgI
 DURATION:PT2H
 DTSTART:20220206T110000Z
@@ -298,13 +291,6 @@ SUMMARY:Baelz: ≪NEEDY STREAMER OVERLOAD≫  smash that subscribe button
 UID:mc41WtCNats
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Dying Light 2】終末世界も皆がいれば怖くない？IKUZO！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=3WALKGEece4
-DURATION:PT2H
-DTSTART:20220206T120000Z
-SUMMARY:獅白ぼたん: 【Dying Light 2】終末世界も皆がいれば怖くない？IKUZO！【獅白ぼたん/ホロライブ】
-UID:3WALKGEece4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ゲリラ】ソロマス達成！まったりいろいろはなす！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=so992B_VLU4
 DURATION:PT2H
 DTSTART:20220205T123044Z
@@ -415,6 +401,13 @@ DURATION:PT2H
 DTSTART:20220206T223000Z
 SUMMARY:🌲大神ミオ: 【 #朝ミオ 】2月だよ～今日はぜったいに寝坊したくない。
 UID:4cuY_h4qEGY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】週末雑談✨ファンレターが手元にたくさん届いたでござる！！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=t5crQhncAwQ
+DURATION:PT2H
+DTSTART:20220206T140000Z
+SUMMARY:風真いろは: 【雑談】週末雑談✨ファンレターが手元にたくさん届いたでござる！！【風真いろは/ホロライブ】
+UID:t5crQhncAwQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Phasmophobia】幽霊調査隊まいります！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=jlbjnWJUu3g
@@ -597,13 +590,6 @@ DURATION:PT2H
 DTSTART:20220205T110000Z
 SUMMARY:🌽白上フブキ: 【#ホロけも】４人全員で生還を目指したい幽霊調査【Phasmophobia】
 UID:ywhn2pNjcy4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Dying Light 2】ころね支店。マルチの楽しさを伝えたいと思う【#ししらみっころね】\nhttps://www.youtube.com/watch?v=5K0RvhTS9kY
-DURATION:PT2H
-DTSTART:20220206T120000Z
-SUMMARY:🥐戌神ころね: 【Dying Light 2】ころね支店。マルチの楽しさを伝えたいと思う【#ししらみっころね】
-UID:5K0RvhTS9kY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【シャドバ】新しいカードが出た時の喜び足るや否や【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=4-8SqE2F8QQ
