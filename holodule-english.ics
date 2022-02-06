@@ -4,18 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【BULLY】I'm a physical specimen!\nhttps://www.youtube.com/watch?v=ysm_eZW-urw
+DESCRIPTION:【FISHING CONTEST】Cute Idol Fishers!! Clubhouse 51 with Reine!\nhttps://www.youtube.com/watch?v=gYKLcjUz0sA
 DURATION:PT2H
-DTSTART:20220206T010402Z
-SUMMARY:Gura: 【BULLY】I'm a physical specimen!
-UID:ysm_eZW-urw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DOOM ETERNAL】RIPPING and TEARING(until it is done)\nhttps://www.youtube.com/watch?v=eALSNrEkQY0
-DURATION:PT2H
-DTSTART:20220206T040000Z
-SUMMARY:Amelia: 【DOOM ETERNAL】RIPPING and TEARING(until it is done)
-UID:eALSNrEkQY0
+DTSTART:20220207T130000Z
+SUMMARY:Calli: 【FISHING CONTEST】Cute Idol Fishers!! Clubhouse 51 with Reine!
+UID:gYKLcjUz0sA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪JUMP KING≫  we finally jumping ft. VC ???\nhttps://www.youtube.com/watch?v=tdgvup0Nnv0
@@ -30,5 +23,19 @@ DURATION:PT2H
 DTSTART:20220206T020000Z
 SUMMARY:Baelz: ≪NEEDY STREAMER OVERLOAD≫  smash that subscribe button
 UID:mc41WtCNats
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【BULLY】I'm a physical specimen!\nhttps://www.youtube.com/watch?v=ysm_eZW-urw
+DURATION:PT2H
+DTSTART:20220206T010402Z
+SUMMARY:Gura: 【BULLY】I'm a physical specimen!
+UID:ysm_eZW-urw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DOOM ETERNAL】RIPPING and TEARING(until it is done)\nhttps://www.youtube.com/watch?v=eALSNrEkQY0
+DURATION:PT2H
+DTSTART:20220206T040000Z
+SUMMARY:Amelia: 【DOOM ETERNAL】RIPPING and TEARING(until it is done)
+UID:eALSNrEkQY0
 END:VEVENT
 END:VCALENDAR
