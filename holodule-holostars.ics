@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【RAFT】#3 イカダ内植物園が始まりました。【岸堂天真/奏手イヅル/夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=G_dPUP4z5XI
+DURATION:PT2H
+DTSTART:20220206T120000Z
+SUMMARY:🦔💨岸堂天真: 【RAFT】#3 イカダ内植物園が始まりました。【岸堂天真/奏手イヅル/夕刻ロベル/ホロスターズ】
+UID:G_dPUP4z5XI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【NEEDY GIRL OVERDOSE】正論パンチマンと行く配信者育成【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=HewDWmB9ke8
+DURATION:PT2H
+DTSTART:20220206T080000Z
+SUMMARY:🍷夕刻ロベル: 【NEEDY GIRL OVERDOSE】正論パンチマンと行く配信者育成【夕刻ロベル/ホロスターズ】
+UID:HewDWmB9ke8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Pokémon LEGENDS アルセウス】#7 オヤブンポリゴン耐久!?!?【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=2-EuJvAJR9Q
 DURATION:PT2H
 DTSTART:20220206T153000Z
@@ -18,10 +32,10 @@ SUMMARY:🍕アルランディス: 【unpacking】#2 荷ほどきで読み解け
 UID:wGx4ZnEs9Ys
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【NEEDY GIRL OVERDOSE】正論パンチマンと行く配信者育成【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=HewDWmB9ke8
+DESCRIPTION:【弾き語り枠】睡眠導入歌【律可/ホロスターズ】 #りつすた\nhttps://www.youtube.com/watch?v=MrPT72R8j2A
 DURATION:PT2H
-DTSTART:20220206T080000Z
-SUMMARY:🍷夕刻ロベル: 【NEEDY GIRL OVERDOSE】正論パンチマンと行く配信者育成【夕刻ロベル/ホロスターズ】
-UID:HewDWmB9ke8
+DTSTART:20220206T140000Z
+SUMMARY:⚙律可: 【弾き語り枠】睡眠導入歌【律可/ホロスターズ】 #りつすた
+UID:MrPT72R8j2A
 END:VEVENT
 END:VCALENDAR
