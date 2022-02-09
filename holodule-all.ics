@@ -223,7 +223,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:hello fellow\nhttps://www.youtube.com/watch?v=43hPZMAdH7Q
 DURATION:PT2H
-DTSTART:20220209T043000Z
+DTSTART:20220209T050000Z
 SUMMARY:Mumei: hello fellow
 UID:43hPZMAdH7Q
 END:VEVENT
@@ -361,18 +361,18 @@ SUMMARY:Kiara: KFP HIRING!
 UID:YQPAphawZCY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Daydream Afterparty】Improvise\, Adapt\, Overcome\nhttps://www.youtube.com/watch?v=6coXuw58lu8
+DURATION:PT2H
+DTSTART:20220209T040000Z
+SUMMARY:Kronii: 【Daydream Afterparty】Improvise\, Adapt\, Overcome
+UID:6coXuw58lu8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】団員さん、ただいまっする🍀【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=POS3YHRD1FQ
 DURATION:PT2H
 DTSTART:20220209T100000Z
 SUMMARY:⚔白銀ノエル: 【雑談】団員さん、ただいまっする🍀【白銀ノエル/ホロライブ】
 UID:POS3YHRD1FQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CODM】ルイルイと一緒にCoDモバイルに乗り込むぞい！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=ecEDLqdtyUM
-DURATION:PT2H
-DTSTART:20220209T110000Z
-SUMMARY:獅白ぼたん: 【CODM】ルイルイと一緒にCoDモバイルに乗り込むぞい！【獅白ぼたん/ホロライブ】
-UID:ecEDLqdtyUM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARK Lost Island】バレンタインイベのために準備したり洞窟のぞき見！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=qpI51DuvLXM
@@ -382,11 +382,25 @@ SUMMARY:🔥不知火フレア: 【ARK Lost Island】バレンタインイベの
 UID:qpI51DuvLXM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【CODM】ルイルイと一緒にCoDモバイルに乗り込むぞい！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=ecEDLqdtyUM
+DURATION:PT2H
+DTSTART:20220209T110000Z
+SUMMARY:獅白ぼたん: 【CODM】ルイルイと一緒にCoDモバイルに乗り込むぞい！【獅白ぼたん/ホロライブ】
+UID:ecEDLqdtyUM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【シャドバ】100連ガチャ！ギャンブラーの本気魅せちゃうぞ～！！【沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=TvcDgzNmCJk
 DURATION:PT2H
 DTSTART:20220208T110000Z
 SUMMARY:沙花叉クロヱ: 【シャドバ】100連ガチャ！ギャンブラーの本気魅せちゃうぞ～！！【沙花叉クロヱ】
 UID:TvcDgzNmCJk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MAKING CHOCOLATE】Happy Early Valentines Day! Let's Make Homie Chocolate!\nhttps://www.youtube.com/watch?v=0WshLMuaCBI
+DURATION:PT2H
+DTSTART:20220209T140000Z
+SUMMARY:Calli: 【MAKING CHOCOLATE】Happy Early Valentines Day! Let's Make Homie Chocolate!
+UID:0WshLMuaCBI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:W A H\nhttps://www.youtube.com/watch?v=AqaTnv_KQgY
