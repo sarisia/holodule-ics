@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:hello fellow\nhttps://www.youtube.com/watch?v=43hPZMAdH7Q
+DURATION:PT2H
+DTSTART:20220209T033000Z
+SUMMARY:Mumei: hello fellow
+UID:43hPZMAdH7Q
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:≪JUMP KING≫  chill jumpin + reading superchats!\nhttps://www.youtube.com/watch?v=NXeE7mjDOz0
 DURATION:PT2H
 DTSTART:20220208T120000Z
