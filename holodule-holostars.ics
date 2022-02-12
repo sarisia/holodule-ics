@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【飲酒雑談】居酒屋ARNでかく語りき-GUEST：歌衣メイカ様【歌衣メイカ/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Kf0ASBGgGio
-DURATION:PT2H
-DTSTART:20220211T120000Z
-SUMMARY:🍕アルランディス: 【飲酒雑談】居酒屋ARNでかく語りき-GUEST：歌衣メイカ様【歌衣メイカ/アルランディス/ホロスターズ】
-UID:Kf0ASBGgGio
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】妖怪突発お喋り男【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=6Ot9dgZ70n8
-DURATION:PT2H
-DTSTART:20220212T051500Z
-SUMMARY:🍷夕刻ロベル: 【雑談】妖怪突発お喋り男【夕刻ロベル/ホロスターズ】
-UID:6Ot9dgZ70n8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【弾き語り枠】２３時の弾き語り【律可/ホロスターズ】 #りつすた\nhttps://www.youtube.com/watch?v=KT_45pYJrHQ
 DURATION:PT2H
 DTSTART:20220211T140000Z
@@ -39,20 +25,6 @@ SUMMARY:🍕アルランディス: 【Besiege】#1 常識を打ち破るトン�
 UID:OcZD51q4qQ4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】誇り高きアイドル / アステル\nhttps://www.youtube.com/watch?v=m1VuEIVLM7Y
-DURATION:PT2H
-DTSTART:20220211T114500Z
-SUMMARY:🎭アステル・レダ: 【歌ってみた】誇り高きアイドル / アステル
-UID:m1VuEIVLM7Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PowerWash Simulator】洗う男【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=7O5Omq9JwX4
-DURATION:PT2H
-DTSTART:20220211T040000Z
-SUMMARY:🍷夕刻ロベル: 【PowerWash Simulator】洗う男【夕刻ロベル/ホロスターズ】
-UID:7O5Omq9JwX4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Sing a Song】歌う枠【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Vuf8IQY1PXw
 DURATION:PT2H
 DTSTART:20220212T073000Z
@@ -67,13 +39,6 @@ SUMMARY:🎸奏手イヅル: 【Re】BUMP OF CHICKENのみのカラオケ【奏�
 UID:fi7vxM9sdkU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【お昼雑談】2/11 そういえばポテトのL復活したし食べたいなぁと思いながら立てた枠【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=6Nlvf6VsiDk
-DURATION:PT2H
-DTSTART:20220211T030000Z
-SUMMARY:🍕アルランディス: 【お昼雑談】2/11 そういえばポテトのL復活したし食べたいなぁと思いながら立てた枠【アルランディス/ホロスターズ】
-UID:6Nlvf6VsiDk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【アニメ】本当に怒られました【#スタこれ】\nhttps://www.youtube.com/watch?v=9ROwIVUWwPU
 DURATION:PT2H
 DTSTART:20220211T100006Z
@@ -81,11 +46,11 @@ SUMMARY:ホロスターズ: 【アニメ】本当に怒られました【#スタ
 UID:9ROwIVUWwPU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Terraria】テラリア 初見プレイ その１ 【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=EFne_VgwcFQ
+DESCRIPTION:【PowerWash Simulator】洗う男【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=7O5Omq9JwX4
 DURATION:PT2H
-DTSTART:20220210T163000Z
-SUMMARY:🦔💨岸堂天真: 【Terraria】テラリア 初見プレイ その１ 【岸堂天真/ホロスターズ】
-UID:EFne_VgwcFQ
+DTSTART:20220211T040000Z
+SUMMARY:🍷夕刻ロベル: 【PowerWash Simulator】洗う男【夕刻ロベル/ホロスターズ】
+UID:7O5Omq9JwX4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:『新衣装お披露目ちゃん』未来銀河と汽笛のメロディ /  アステル・レダ\nhttps://www.youtube.com/watch?v=_z8buCqHAR0
@@ -95,17 +60,59 @@ SUMMARY:🎭アステル・レダ: 『新衣装お披露目ちゃん』未来銀
 UID:_z8buCqHAR0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【A Short Hike】動物達の住む島でのんびり登山【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=juf9AAEgaKM
-DURATION:PT2H
-DTSTART:20220211T060000Z
-SUMMARY:影山シエン: 【A Short Hike】動物達の住む島でのんびり登山【影山シエン/ホロスターズ】
-UID:juf9AAEgaKM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【サイン会】2周年記念のサインを書いていく配信【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=T2o7Uoa4VYc
 DURATION:PT2H
 DTSTART:20220211T150000Z
 SUMMARY:🍷夕刻ロベル: 【サイン会】2周年記念のサインを書いていく配信【夕刻ロベル/ホロスターズ】
 UID:T2o7Uoa4VYc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Besiege】#2 今日は作ったマシーンのスクショを取るぞ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=4RfnLq5QGpc
+DURATION:PT2H
+DTSTART:20220212T130000Z
+SUMMARY:🍕アルランディス: 【Besiege】#2 今日は作ったマシーンのスクショを取るぞ【アルランディス/ホロスターズ】
+UID:4RfnLq5QGpc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【飲酒雑談】居酒屋ARNでかく語りき-GUEST：歌衣メイカ様【歌衣メイカ/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Kf0ASBGgGio
+DURATION:PT2H
+DTSTART:20220211T120000Z
+SUMMARY:🍕アルランディス: 【飲酒雑談】居酒屋ARNでかく語りき-GUEST：歌衣メイカ様【歌衣メイカ/アルランディス/ホロスターズ】
+UID:Kf0ASBGgGio
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】妖怪突発お喋り男【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=6Ot9dgZ70n8
+DURATION:PT2H
+DTSTART:20220212T051500Z
+SUMMARY:🍷夕刻ロベル: 【雑談】妖怪突発お喋り男【夕刻ロベル/ホロスターズ】
+UID:6Ot9dgZ70n8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌ってみた】誇り高きアイドル / アステル\nhttps://www.youtube.com/watch?v=m1VuEIVLM7Y
+DURATION:PT2H
+DTSTART:20220211T114500Z
+SUMMARY:🎭アステル・レダ: 【歌ってみた】誇り高きアイドル / アステル
+UID:m1VuEIVLM7Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【お昼雑談】2/11 そういえばポテトのL復活したし食べたいなぁと思いながら立てた枠【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=6Nlvf6VsiDk
+DURATION:PT2H
+DTSTART:20220211T030000Z
+SUMMARY:🍕アルランディス: 【お昼雑談】2/11 そういえばポテトのL復活したし食べたいなぁと思いながら立てた枠【アルランディス/ホロスターズ】
+UID:6Nlvf6VsiDk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Terraria】テラリア 初見プレイ その１ 【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=EFne_VgwcFQ
+DURATION:PT2H
+DTSTART:20220210T163000Z
+SUMMARY:🦔💨岸堂天真: 【Terraria】テラリア 初見プレイ その１ 【岸堂天真/ホロスターズ】
+UID:EFne_VgwcFQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【A Short Hike】動物達の住む島でのんびり登山【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=juf9AAEgaKM
+DURATION:PT2H
+DTSTART:20220211T060000Z
+SUMMARY:影山シエン: 【A Short Hike】動物達の住む島でのんびり登山【影山シエン/ホロスターズ】
+UID:juf9AAEgaKM
 END:VEVENT
 END:VCALENDAR
