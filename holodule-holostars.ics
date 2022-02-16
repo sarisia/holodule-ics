@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【サイン会】2周年記念のサインを書いていく配信【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=BML0EiJJ9Lo
-DURATION:PT2H
-DTSTART:20220214T150000Z
-SUMMARY:🍷夕刻ロベル: 【サイン会】2周年記念のサインを書いていく配信【夕刻ロベル/ホロスターズ】
-UID:BML0EiJJ9Lo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ゼルダの伝説 ブレスオブザワイルド】#3 強くなりたいオブザワイルド【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=brQAVvBKmt8
 DURATION:PT2H
 DTSTART:20220215T080000Z
 SUMMARY:🍕アルランディス: 【ゼルダの伝説 ブレスオブザワイルド】#3 強くなりたいオブザワイルド【アルランディス/ホロスターズ】
 UID:brQAVvBKmt8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【お昼雑談】2/16  ファミマのウマ娘コラボドリンクは売り切れてましたって話【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=iHR4Dg7EE6w
-DURATION:PT2H
-DTSTART:20220216T030000Z
-SUMMARY:🍕アルランディス: 【お昼雑談】2/16  ファミマのウマ娘コラボドリンクは売り切れてましたって話【アルランディス/ホロスターズ】
-UID:iHR4Dg7EE6w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PowerWash Simulator】洗う男【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=NuCsdIi9-ws
@@ -51,5 +37,26 @@ DURATION:PT2H
 DTSTART:20220215T120000Z
 SUMMARY:荒咬オウガ: 【グランブルーファンタジー】バレンタインガチャ【ホロスターズ/荒咬オウガ】
 UID:4gtcQ6DSwCA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【サイン会】2周年記念のサインを書いていく配信【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=BML0EiJJ9Lo
+DURATION:PT2H
+DTSTART:20220214T150000Z
+SUMMARY:🍷夕刻ロベル: 【サイン会】2周年記念のサインを書いていく配信【夕刻ロベル/ホロスターズ】
+UID:BML0EiJJ9Lo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【お昼雑談】2/16  ファミマのウマ娘コラボドリンクは売り切れてましたって話【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=iHR4Dg7EE6w
+DURATION:PT2H
+DTSTART:20220216T030000Z
+SUMMARY:🍕アルランディス: 【お昼雑談】2/16  ファミマのウマ娘コラボドリンクは売り切れてましたって話【アルランディス/ホロスターズ】
+UID:iHR4Dg7EE6w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DJ ARN】おててが！動くよ！ DJ配信！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=lewWAn0sAl8
+DURATION:PT2H
+DTSTART:20220216T060000Z
+SUMMARY:🍕アルランディス: 【DJ ARN】おててが！動くよ！ DJ配信！【アルランディス/ホロスターズ】
+UID:lewWAn0sAl8
 END:VEVENT
 END:VCALENDAR
