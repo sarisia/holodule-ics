@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【GTA V】I feel invincible right now\nhttps://www.youtube.com/watch?v=BS63BB6t4DA
+DESCRIPTION:【Chat】 Eating Brunch & Chatting!\nhttps://www.youtube.com/watch?v=X3IPoDarA74
 DURATION:PT2H
-DTSTART:20220217T033043Z
-SUMMARY:IRyS: 【GTA V】I feel invincible right now
-UID:BS63BB6t4DA
+DTSTART:20220218T210000Z
+SUMMARY:Ina: 【Chat】 Eating Brunch & Chatting!
+UID:X3IPoDarA74
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Hidden Through Time】I Spy With My (Beautiful Sapphire) Eyes...\nhttps://www.youtube.com/watch?v=kUyXq9hYplA
+DURATION:PT2H
+DTSTART:20220218T040000Z
+SUMMARY:Kronii: 【Hidden Through Time】I Spy With My (Beautiful Sapphire) Eyes...
+UID:kUyXq9hYplA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪JUMP KING≫  we will reach new screens today.\nhttps://www.youtube.com/watch?v=pMS7jO68ucE
@@ -25,59 +32,10 @@ SUMMARY:Mumei: 【ASMR】 Study Stream
 UID:Kt45oQP-7yU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Chat】 Eating Brunch & Chatting!\nhttps://www.youtube.com/watch?v=X3IPoDarA74
-DURATION:PT2H
-DTSTART:20220218T210000Z
-SUMMARY:Ina: 【Chat】 Eating Brunch & Chatting!
-UID:X3IPoDarA74
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Hidden Through Time】I Spy With My (Beautiful Sapphire) Eyes...\nhttps://www.youtube.com/watch?v=kUyXq9hYplA
-DURATION:PT2H
-DTSTART:20220218T040000Z
-SUMMARY:Kronii: 【Hidden Through Time】I Spy With My (Beautiful Sapphire) Eyes...
-UID:kUyXq9hYplA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SKYRIM】 so you're finally awake...\nhttps://www.youtube.com/watch?v=63PNWDDpdQM
-DURATION:PT2H
-DTSTART:20220217T000000Z
-SUMMARY:Fauna: 【SKYRIM】 so you're finally awake...
-UID:63PNWDDpdQM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Operation: Tango】Let's Finish this Dance【COLLAB】\nhttps://www.youtube.com/watch?v=krlH8nb4O0E
-DURATION:PT2H
-DTSTART:20220217T130000Z
-SUMMARY:IRyS: 【Operation: Tango】Let's Finish this Dance【COLLAB】
-UID:krlH8nb4O0E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[DBD] RINGU\nhttps://www.youtube.com/watch?v=-xZ2BAUD7DA
-DURATION:PT2H
-DTSTART:20220217T010210Z
-SUMMARY:Gura: [DBD] RINGU
-UID:-xZ2BAUD7DA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MONOPOLY】Stonks over Friendships! With Gura\, Fauna & Ina! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=8qiZ2fJXXxU
 DURATION:PT2H
 DTSTART:20220217T180000Z
 SUMMARY:Kiara: 【MONOPOLY】Stonks over Friendships! With Gura\, Fauna & Ina! #kfp #キアライブ
 UID:8qiZ2fJXXxU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Pokémon Legends: Arceus】Could this be the FINALE!?  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=3E1I9ej-Gfg
-DURATION:PT2H
-DTSTART:20220216T150000Z
-SUMMARY:Kiara: 【Pokémon Legends: Arceus】Could this be the FINALE!?  #kfp #キアライブ
-UID:3E1I9ej-Gfg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪YASUHATI / WITH YOUR VOICE!≫  LA LA LA LA LA LA LA LA LASDMFAKSDJFLAKUSWEHF\nhttps://www.youtube.com/watch?v=df4G3mL38FI
-DURATION:PT2H
-DTSTART:20220217T103000Z
-SUMMARY:Baelz: ≪YASUHATI / WITH YOUR VOICE!≫  LA LA LA LA LA LA LA LA LASDMFAKSDJFLAKUSWEHF
-UID:df4G3mL38FI
 END:VEVENT
 END:VCALENDAR
