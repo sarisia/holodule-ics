@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Chat】 Eating Brunch & Chatting!\nhttps://www.youtube.com/watch?v=X3IPoDarA74
-DURATION:PT2H
-DTSTART:20220218T210000Z
-SUMMARY:Ina: 【Chat】 Eating Brunch & Chatting!
-UID:X3IPoDarA74
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Chatting】SC Reading + Zatsu\nhttps://www.youtube.com/watch?v=GFBvpje065E
-DURATION:PT2H
-DTSTART:20220219T223000Z
-SUMMARY:Mumei: 【Chatting】SC Reading + Zatsu
-UID:GFBvpje065E
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪JUMP KING≫  we will reach new screens today.\nhttps://www.youtube.com/watch?v=pMS7jO68ucE
 DURATION:PT2H
 DTSTART:20220219T020000Z
@@ -39,6 +25,20 @@ SUMMARY:Kiara: 【HOLOTALK】With our 21st guest: SHIRANUI FLARE #HOLOTALK #ホ�
 UID:ygXxGpjSMWo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【HOLO ENGLISH LESSON #01】Holo Minna No Eikaiwa! Let's Speak English! ft. Ina\, Fubuki\, Marine\nhttps://www.youtube.com/watch?v=bfUEbp3xk4o
+DURATION:PT2H
+DTSTART:20220219T131652Z
+SUMMARY:Calli: 【HOLO ENGLISH LESSON #01】Holo Minna No Eikaiwa! Let's Speak English! ft. Ina\, Fubuki\, Marine
+UID:bfUEbp3xk4o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Chat】 Eating Brunch & Chatting!\nhttps://www.youtube.com/watch?v=X3IPoDarA74
+DURATION:PT2H
+DTSTART:20220218T210000Z
+SUMMARY:Ina: 【Chat】 Eating Brunch & Chatting!
+UID:X3IPoDarA74
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】I have friends to play Apex with\nhttps://www.youtube.com/watch?v=AO8yflT6aCM
 DURATION:PT2H
 DTSTART:20220219T044500Z
@@ -46,10 +46,17 @@ SUMMARY:IRyS: 【APEX】I have friends to play Apex with
 UID:AO8yflT6aCM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HOLO ENGLISH LESSON #01】Holo Minna No Eikaiwa! Let's Speak English! ft. Ina\, Fubuki\, Marine\nhttps://www.youtube.com/watch?v=bfUEbp3xk4o
+DESCRIPTION:【Chatting】SC Reading + Zatsu\nhttps://www.youtube.com/watch?v=GFBvpje065E
 DURATION:PT2H
-DTSTART:20220219T131652Z
-SUMMARY:Calli: 【HOLO ENGLISH LESSON #01】Holo Minna No Eikaiwa! Let's Speak English! ft. Ina\, Fubuki\, Marine
-UID:bfUEbp3xk4o
+DTSTART:20220219T223000Z
+SUMMARY:Mumei: 【Chatting】SC Reading + Zatsu
+UID:GFBvpje065E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Members Only】 Chat & Chill\nhttps://www.youtube.com/watch?v=aPz1ld4Byd8
+DURATION:PT2H
+DTSTART:20220220T040000Z
+SUMMARY:IRyS: 【Members Only】 Chat & Chill
+UID:aPz1ld4Byd8
 END:VEVENT
 END:VCALENDAR
