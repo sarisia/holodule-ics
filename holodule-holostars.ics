@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:『karaoke_歌枠』No Archive /  アステル・レダ\nhttps://www.youtube.com/watch?v=nlD9BbPAJ9I
+DURATION:PT2H
+DTSTART:20220220T060000Z
+SUMMARY:🎭アステル・レダ: 『karaoke_歌枠』No Archive /  アステル・レダ
+UID:nlD9BbPAJ9I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゼルダの伝説 ブレスオブザワイルド】#5 神獣オブザワイルド【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=VL6JoUk4WoM
+DURATION:PT2H
+DTSTART:20220220T060000Z
+SUMMARY:🍕アルランディス: 【ゼルダの伝説 ブレスオブザワイルド】#5 神獣オブザワイルド【アルランディス/ホロスターズ】
+UID:VL6JoUk4WoM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【リスナー参加型配信】俺に勝てるかなぁ!?!?!-世界のアソビ大全51-【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=0741ZwB33jQ
 DURATION:PT2H
 DTSTART:20220220T130000Z
@@ -18,11 +32,11 @@ SUMMARY:影山シエン: 【NEEDY GIRL OVERDOES】インターネットマフィ
 UID:fjQqNfIEYuw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ゼルダの伝説 ブレスオブザワイルド】#5 神獣オブザワイルド【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=VL6JoUk4WoM
+DESCRIPTION:【雑談】よるざつだん【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=bDDsq0DmXBA
 DURATION:PT2H
-DTSTART:20220220T060000Z
-SUMMARY:🍕アルランディス: 【ゼルダの伝説 ブレスオブザワイルド】#5 神獣オブザワイルド【アルランディス/ホロスターズ】
-UID:VL6JoUk4WoM
+DTSTART:20220219T133500Z
+SUMMARY:🍷夕刻ロベル: 【雑談】よるざつだん【夕刻ロベル/ホロスターズ】
+UID:bDDsq0DmXBA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Raft】漂流先で見た!!伝説の超狂暴サメとお宝の山!!　#まとまらない四人 【成瀬鳴/風見くく/ヒラ/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=lMAMos0itZs
@@ -32,13 +46,6 @@ SUMMARY:🍕アルランディス: 【Raft】漂流先で見た!!伝説の超狂
 UID:lMAMos0itZs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【弾き語り】好きなだけ歌う男【奏手イヅル】\nhttps://www.youtube.com/watch?v=q1oIpdE4QOM
-DURATION:PT2H
-DTSTART:20220219T100000Z
-SUMMARY:🎸奏手イヅル: 【弾き語り】好きなだけ歌う男【奏手イヅル】
-UID:q1oIpdE4QOM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ゼルダの伝説 ブレスオブザワイルド】#4 結局寄り道オブザワイルド【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=9FCB5ECDnak
 DURATION:PT2H
 DTSTART:20220219T060000Z
@@ -46,10 +53,10 @@ SUMMARY:🍕アルランディス: 【ゼルダの伝説 ブレスオブザワ�
 UID:9FCB5ECDnak
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】よるざつだん【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=bDDsq0DmXBA
+DESCRIPTION:【弾き語り】好きなだけ歌う男【奏手イヅル】\nhttps://www.youtube.com/watch?v=q1oIpdE4QOM
 DURATION:PT2H
-DTSTART:20220219T133500Z
-SUMMARY:🍷夕刻ロベル: 【雑談】よるざつだん【夕刻ロベル/ホロスターズ】
-UID:bDDsq0DmXBA
+DTSTART:20220219T100000Z
+SUMMARY:🎸奏手イヅル: 【弾き語り】好きなだけ歌う男【奏手イヅル】
+UID:q1oIpdE4QOM
 END:VEVENT
 END:VCALENDAR
