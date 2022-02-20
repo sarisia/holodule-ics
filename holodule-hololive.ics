@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【晩酌】プチ晩酌でまったりお話！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=BidQYXm7_0M
+DURATION:PT2H
+DTSTART:20220220T130000Z
+SUMMARY:雪花ラミィ: 【晩酌】プチ晩酌でまったりお話！【雪花ラミィ/ホロライブ】
+UID:BidQYXm7_0M
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 VALORANT 】トワちと一緒にヴぁろらんと～～～～😊 ＃あやトワ\nhttps://www.youtube.com/watch?v=mJxiSWb2q1M
 DURATION:PT2H
 DTSTART:20220219T130000Z
@@ -58,13 +65,6 @@ DURATION:PT2H
 DTSTART:20220219T130000Z
 SUMMARY:🥐戌神ころね: 【N64】バンジョーとカズーイところねの大冒険【サビサビみなとクリアまで】
 UID:0wFkqctcRmU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ヘブンバーンズレッド】約束された麻枝准さんの切なさの世界へ――【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=zRW87a9Mxh4
-DURATION:PT2H
-DTSTART:20220221T110000Z
-SUMMARY:博衣こより: 【ヘブンバーンズレッド】約束された麻枝准さんの切なさの世界へ――【博衣こより/ホロライブ】
-UID:zRW87a9Mxh4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ちょこっとクッキング】深夜に手羽中の照り焼き作る⚡【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=OLMYvZ2ONjI
