@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【晩酌】プチ晩酌でまったりお話！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=BidQYXm7_0M
+DURATION:PT2H
+DTSTART:20220220T130000Z
+SUMMARY:雪花ラミィ: 【晩酌】プチ晩酌でまったりお話！【雪花ラミィ/ホロライブ】
+UID:BidQYXm7_0M
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 APEX 】イベントありがとう～～！！感想しつつ撃つ～！【 桃鈴ねね / #ねねいろらいぶ 】\nhttps://www.youtube.com/watch?v=p_37neXg-7E
 DURATION:PT2H
 DTSTART:20220220T070000Z
@@ -464,6 +471,13 @@ DURATION:PT2H
 DTSTART:20220219T233000Z
 SUMMARY:Mumei: 【Chatting】SC Reading + Zatsu
 UID:GFBvpje065E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Ghost Exorcism INC.】ハーモニカの音でホラーを誤魔化す１時間放送【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=1pFzb23PNZY
+DURATION:PT2H
+DTSTART:20220220T130000Z
+SUMMARY:🌽白上フブキ: 【Ghost Exorcism INC.】ハーモニカの音でホラーを誤魔化す１時間放送【ホロライブ/白上フブキ】
+UID:1pFzb23PNZY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】オリンパスの神々  / Astel\nhttps://www.youtube.com/watch?v=H6iVb3yUqw0
