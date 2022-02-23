@@ -4,27 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Valorant】シルバー目指しソロ朝活【奏手イヅル】\nhttps://www.youtube.com/watch?v=qeCYVIykpgg
-DURATION:PT2H
-DTSTART:20220222T131704Z
-SUMMARY:🎸奏手イヅル: 【Valorant】シルバー目指しソロ朝活【奏手イヅル】
-UID:qeCYVIykpgg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ゼルダの伝説 ブレスオブザワイルド】#6 ジャスガうますぎ男オブザワイルド【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=pwLnCjC9VGM
-DURATION:PT2H
-DTSTART:20220222T060000Z
-SUMMARY:🍕アルランディス: 【ゼルダの伝説 ブレスオブザワイルド】#6 ジャスガうますぎ男オブザワイルド【アルランディス/ホロスターズ】
-UID:pwLnCjC9VGM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【お昼雑談】2/22  にゃんにゃんにゃーーーーーーーーん！久々の雑談！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=DjjMOS-1050
-DURATION:PT2H
-DTSTART:20220222T030000Z
-SUMMARY:🍕アルランディス: 【お昼雑談】2/22  にゃんにゃんにゃーーーーーーーーん！久々の雑談！【アルランディス/ホロスターズ】
-UID:DjjMOS-1050
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【20万人記念枠】#律可リク歌祭 でリクエスト募集!!【律可/ホロスターズ】\nhttps://www.youtube.com/watch?v=A6qCTd3HUUU
 DURATION:PT2H
 DTSTART:20220224T120000Z
@@ -39,11 +18,18 @@ SUMMARY:ホロスターズ: あれ…？こんな緊張する企画だっけ…�
 UID:kVSmhhUiFEE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【お昼雑談】2/23 今日は祝日だよって話をすると実装されてないよって返事するものな～～～んだ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=eXOuOWNPuTs
+DESCRIPTION:【Valorant】シルバー目指しソロ朝活【奏手イヅル】\nhttps://www.youtube.com/watch?v=qeCYVIykpgg
 DURATION:PT2H
-DTSTART:20220223T030000Z
-SUMMARY:🍕アルランディス: 【お昼雑談】2/23 今日は祝日だよって話をすると実装されてないよって返事するものな～～～んだ【アルランディス/ホロスターズ】
-UID:eXOuOWNPuTs
+DTSTART:20220222T131704Z
+SUMMARY:🎸奏手イヅル: 【Valorant】シルバー目指しソロ朝活【奏手イヅル】
+UID:qeCYVIykpgg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゼルダの伝説 ブレスオブザワイルド】#6 ジャスガうますぎ男オブザワイルド【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=pwLnCjC9VGM
+DURATION:PT2H
+DTSTART:20220222T060000Z
+SUMMARY:🍕アルランディス: 【ゼルダの伝説 ブレスオブザワイルド】#6 ジャスガうますぎ男オブザワイルド【アルランディス/ホロスターズ】
+UID:pwLnCjC9VGM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【vampire survivors】#2 豪　運　サ　バ　イ　バ　ー【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=idCvSllqPOU
@@ -51,6 +37,13 @@ DURATION:PT2H
 DTSTART:20220222T140000Z
 SUMMARY:🍕アルランディス: 【vampire survivors】#2 豪　運　サ　バ　イ　バ　ー【アルランディス/ホロスターズ】
 UID:idCvSllqPOU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【お昼雑談】2/22  にゃんにゃんにゃーーーーーーーーん！久々の雑談！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=DjjMOS-1050
+DURATION:PT2H
+DTSTART:20220222T030000Z
+SUMMARY:🍕アルランディス: 【お昼雑談】2/22  にゃんにゃんにゃーーーーーーーーん！久々の雑談！【アルランディス/ホロスターズ】
+UID:DjjMOS-1050
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PowerWash Simulator】洗う男【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=SqMsNVCYZtk
