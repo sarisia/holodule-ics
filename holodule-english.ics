@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Mario Kart 8DX】 zoooooooooooooom!\nhttps://www.youtube.com/watch?v=8FX-IpFFXA0
+DURATION:PT2H
+DTSTART:20220222T220000Z
+SUMMARY:Fauna: 【Mario Kart 8DX】 zoooooooooooooom!
+UID:8FX-IpFFXA0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【CRAFTING】Egg. Chicken. Glue. Failure. #kfp #キアライブ\nhttps://www.youtube.com/watch?v=HrsQ_taL9L8
 DURATION:PT2H
 DTSTART:20220223T190000Z
@@ -20,7 +27,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【WIFE DUBS MY STREAM】 PUZZLE GAME EDITION\nhttps://www.youtube.com/watch?v=MA50DolAp_4
 DURATION:PT2H
-DTSTART:20220224T041500Z
+DTSTART:20220224T044500Z
 SUMMARY:IRyS: 【WIFE DUBS MY STREAM】 PUZZLE GAME EDITION
 UID:MA50DolAp_4
 END:VEVENT
@@ -32,20 +39,6 @@ SUMMARY:Baelz: ≪WIFE DUBS MY STREAM≫ RAGE GAME EDITION
 UID:BuhkaF84ptg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HoloCouncil】 Hikaru Nara / 光るなら COVER\nhttps://www.youtube.com/watch?v=U-9M-BjFYMc
-DURATION:PT2H
-DTSTART:20220223T060000Z
-SUMMARY:Mumei: 【HoloCouncil】 Hikaru Nara / 光るなら COVER
-UID:U-9M-BjFYMc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VTraveler】HELLO ON THE GO\nhttps://www.youtube.com/watch?v=acVWFbVrpN0
-DURATION:PT2H
-DTSTART:20220224T033000Z
-SUMMARY:Amelia: 【VTraveler】HELLO ON THE GO
-UID:acVWFbVrpN0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【GARTIC PHONE】Birbs of a feather flock together! #holotori #ホロ鳥\nhttps://www.youtube.com/watch?v=IsSpt_sf0C8
 DURATION:PT2H
 DTSTART:20220224T140000Z
@@ -53,10 +46,10 @@ SUMMARY:Kiara: 【GARTIC PHONE】Birbs of a feather flock together! #holotori #�
 UID:IsSpt_sf0C8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Mario Kart 8DX】 zoooooooooooooom!\nhttps://www.youtube.com/watch?v=8FX-IpFFXA0
+DESCRIPTION:【HoloCouncil】 Hikaru Nara / 光るなら COVER\nhttps://www.youtube.com/watch?v=U-9M-BjFYMc
 DURATION:PT2H
-DTSTART:20220222T220000Z
-SUMMARY:Fauna: 【Mario Kart 8DX】 zoooooooooooooom!
-UID:8FX-IpFFXA0
+DTSTART:20220223T060000Z
+SUMMARY:Mumei: 【HoloCouncil】 Hikaru Nara / 光るなら COVER
+UID:U-9M-BjFYMc
 END:VEVENT
 END:VCALENDAR
