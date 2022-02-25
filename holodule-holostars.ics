@@ -4,11 +4,39 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:お題のくじを引いた3秒後に即演技…！【5W1H】#Shorts\nhttps://www.youtube.com/watch?v=KYnc-M_cuzM
+DURATION:PT2H
+DTSTART:20220225T034656Z
+SUMMARY:ホロスターズ: お題のくじを引いた3秒後に即演技…！【5W1H】#Shorts
+UID:KYnc-M_cuzM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】ひる男【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=3rVE5umaNPY
 DURATION:PT2H
 DTSTART:20220225T040000Z
 SUMMARY:🍷夕刻ロベル: 【雑談】ひる男【夕刻ロベル/ホロスターズ】
 UID:3rVE5umaNPY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#shorts【歌ってみた】夜撫でるメノウ / Ayase『covered by 律可』\nhttps://www.youtube.com/watch?v=pjP0ZgPixbs
+DURATION:PT2H
+DTSTART:20220225T093449Z
+SUMMARY:⚙律可: #shorts【歌ってみた】夜撫でるメノウ / Ayase『covered by 律可』
+UID:pjP0ZgPixbs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【アニメ】全部間違えちゃった人【#スタこれ】\nhttps://www.youtube.com/watch?v=2v3K18VKkds
+DURATION:PT2H
+DTSTART:20220225T100001Z
+SUMMARY:ホロスターズ: 【アニメ】全部間違えちゃった人【#スタこれ】
+UID:2v3K18VKkds
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】Mr.Childrenのみのカラオケ(イヤホン非推奨)【奏手イヅル】\nhttps://www.youtube.com/watch?v=UHR-oCD_-6I
+DURATION:PT2H
+DTSTART:20220225T103000Z
+SUMMARY:🎸奏手イヅル: 【歌枠】Mr.Childrenのみのカラオケ(イヤホン非推奨)【奏手イヅル】
+UID:UHR-oCD_-6I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#影山シエンバースデー2022】誕生日３Dライブ！楽しんでけ～～～～！【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=WLyYpHLu7sQ
@@ -25,31 +53,10 @@ SUMMARY:⚙律可: #18【RiTunes Labo】生セッション歌枠：ゲスト『H
 UID:Qc121c8O4lo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】Mr.Childrenのみのカラオケ(イヤホン非推奨)【奏手イヅル】\nhttps://www.youtube.com/watch?v=UHR-oCD_-6I
+DESCRIPTION:【Cover】街灯がさびたまま(シロムーン) / 奏手イヅル\nhttps://www.youtube.com/watch?v=TTfkhz6cwHQ
 DURATION:PT2H
-DTSTART:20220225T103000Z
-SUMMARY:🎸奏手イヅル: 【歌枠】Mr.Childrenのみのカラオケ(イヤホン非推奨)【奏手イヅル】
-UID:UHR-oCD_-6I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#shorts【歌ってみた】夜撫でるメノウ / Ayase『covered by 律可』\nhttps://www.youtube.com/watch?v=pjP0ZgPixbs
-DURATION:PT2H
-DTSTART:20220225T093449Z
-SUMMARY:⚙律可: #shorts【歌ってみた】夜撫でるメノウ / Ayase『covered by 律可』
-UID:pjP0ZgPixbs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:お題のくじを引いた3秒後に即演技…！【5W1H】#Shorts\nhttps://www.youtube.com/watch?v=KYnc-M_cuzM
-DURATION:PT2H
-DTSTART:20220225T034656Z
-SUMMARY:ホロスターズ: お題のくじを引いた3秒後に即演技…！【5W1H】#Shorts
-UID:KYnc-M_cuzM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アニメ】全部間違えちゃった人【#スタこれ】\nhttps://www.youtube.com/watch?v=2v3K18VKkds
-DURATION:PT2H
-DTSTART:20220225T100001Z
-SUMMARY:ホロスターズ: 【アニメ】全部間違えちゃった人【#スタこれ】
-UID:2v3K18VKkds
+DTSTART:20220227T103031Z
+SUMMARY:🎸奏手イヅル: 【Cover】街灯がさびたまま(シロムーン) / 奏手イヅル
+UID:TTfkhz6cwHQ
 END:VEVENT
 END:VCALENDAR
