@@ -4,18 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING】TIME TO GET DESTROYED LET'S GOOOOOO【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=ham8W79AOnc
+DESCRIPTION:【KARAOKE】I THINK I GOT BETTER AT SINGING!! MAYBE!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=83mvA3x9998
 DURATION:PT2H
-DTSTART:20220301T130000Z
-SUMMARY:Reine: 【ELDEN RING】TIME TO GET DESTROYED LET'S GOOOOOO【Pavolia Reine/hololiveID 2nd gen】
-UID:ham8W79AOnc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【UNARCHIVE KARAOKE】pt.2 THE NIGHT IS STILL YOUNG!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=CZxp8g2amzU
-DURATION:PT2H
-DTSTART:20220301T122920Z
-SUMMARY:Ollie: 【UNARCHIVE KARAOKE】pt.2 THE NIGHT IS STILL YOUNG!!【Hololive Indonesia 2nd Gen】
-UID:CZxp8g2amzU
+DTSTART:20220301T113017Z
+SUMMARY:Ollie: 【KARAOKE】I THINK I GOT BETTER AT SINGING!! MAYBE!!【Hololive Indonesia 2nd Gen】
+UID:83mvA3x9998
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Black Mesa】Do you read me\, Professor?【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=zlIMjVvLp9M
@@ -32,13 +25,6 @@ SUMMARY:🔮Moona: 【Monster Hunter World】I want to try this game【Moona】
 UID:ERqOlv5RowM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 S̶e̶n̶i̶n̶ Selasa Produktif 】Tema Baru Gacha Baru! Let's go!【 iofi / イオフィ 】\nhttps://www.youtube.com/watch?v=336Vv7jTJ3c
-DURATION:PT2H
-DTSTART:20220301T120000Z
-SUMMARY:🎨Iofi: 【 S̶e̶n̶i̶n̶ Selasa Produktif 】Tema Baru Gacha Baru! Let's go!【 iofi / イオフィ 】
-UID:336Vv7jTJ3c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ELDEN RING】I AM THE TARNISHED WHO WILL SET THEIR FIRST JOURNEY【Ayunda Risu】\nhttps://www.youtube.com/watch?v=7VWlEzDmMVI
 DURATION:PT2H
 DTSTART:20220301T130000Z
@@ -51,5 +37,26 @@ DURATION:PT2H
 DTSTART:20220228T140000Z
 SUMMARY:Reine: 【Free Talk】Late Night Chat (+ supers from last week)【Pavolia Reine/hololiveID 2nd gen】
 UID:cyt_onudq-M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ELDEN RING】TIME TO GET DESTROYED LET'S GOOOOOO【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=ham8W79AOnc
+DURATION:PT2H
+DTSTART:20220301T130000Z
+SUMMARY:Reine: 【ELDEN RING】TIME TO GET DESTROYED LET'S GOOOOOO【Pavolia Reine/hololiveID 2nd gen】
+UID:ham8W79AOnc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【UNARCHIVE KARAOKE】pt.2 THE NIGHT IS STILL YOUNG!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=CZxp8g2amzU
+DURATION:PT2H
+DTSTART:20220301T122920Z
+SUMMARY:Ollie: 【UNARCHIVE KARAOKE】pt.2 THE NIGHT IS STILL YOUNG!!【Hololive Indonesia 2nd Gen】
+UID:CZxp8g2amzU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 S̶e̶n̶i̶n̶ Selasa Produktif 】Tema Baru Gacha Baru! Let's go!【 iofi / イオフィ 】\nhttps://www.youtube.com/watch?v=336Vv7jTJ3c
+DURATION:PT2H
+DTSTART:20220301T120000Z
+SUMMARY:🎨Iofi: 【 S̶e̶n̶i̶n̶ Selasa Produktif 】Tema Baru Gacha Baru! Let's go!【 iofi / イオフィ 】
+UID:336Vv7jTJ3c
 END:VEVENT
 END:VCALENDAR
