@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING】It can't be that hard...right? [Spoiler Alert]\nhttps://www.youtube.com/watch?v=ocQSSdsrFN8
+DESCRIPTION:【Later Alligator】Save Pat before Kronii runs out!  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=GiQSUNa989Y
 DURATION:PT2H
-DTSTART:20220304T040000Z
-SUMMARY:IRyS: 【ELDEN RING】It can't be that hard...right? [Spoiler Alert]
-UID:ocQSSdsrFN8
+DTSTART:20220303T160000Z
+SUMMARY:Kiara: 【Later Alligator】Save Pat before Kronii runs out!  #kfp #キアライブ
+UID:GiQSUNa989Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DUOLINGO】日本語！Class in session!\nhttps://www.youtube.com/watch?v=sV6sIwf6J5o
@@ -16,6 +16,13 @@ DURATION:PT2H
 DTSTART:20220304T010000Z
 SUMMARY:Gura: 【DUOLINGO】日本語！Class in session!
 UID:sV6sIwf6J5o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ELDEN RING】It can't be that hard...right? [Spoiler Alert]\nhttps://www.youtube.com/watch?v=ocQSSdsrFN8
+DURATION:PT2H
+DTSTART:20220304T040000Z
+SUMMARY:IRyS: 【ELDEN RING】It can't be that hard...right? [Spoiler Alert]
+UID:ocQSSdsrFN8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ELDEN RING】ha ha uh oh  [spoiler alert]\nhttps://www.youtube.com/watch?v=i67BoIctAMk
@@ -32,18 +39,18 @@ SUMMARY:Ina: 【Elden Ring】 Hi I'm New 【SPOILER WARNING】【#1】
 UID:QJ0KSljk_jE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SKYRIM】 da da dun da da dun da da dun dun dun DUN\nhttps://www.youtube.com/watch?v=TAoqOMeEryo
-DURATION:PT2H
-DTSTART:20220303T230000Z
-SUMMARY:Fauna: 【SKYRIM】 da da dun da da dun da da dun dun dun DUN
-UID:TAoqOMeEryo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【CHAT】Let's talk\, and then read some Caraoke Supers!\nhttps://www.youtube.com/watch?v=Mmw96_VYNyE
 DURATION:PT2H
 DTSTART:20220303T043000Z
 SUMMARY:IRyS: 【CHAT】Let's talk\, and then read some Caraoke Supers!
 UID:Mmw96_VYNyE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SKYRIM】 da da dun da da dun da da dun dun dun DUN\nhttps://www.youtube.com/watch?v=TAoqOMeEryo
+DURATION:PT2H
+DTSTART:20220303T230000Z
+SUMMARY:Fauna: 【SKYRIM】 da da dun da da dun da da dun dun dun DUN
+UID:TAoqOMeEryo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ELDEN RING #01】Onion Rings. 【SPOILER WARNING】\nhttps://www.youtube.com/watch?v=dy2QjA5TLSU
