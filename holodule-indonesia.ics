@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【DEATH STRANDING】Yes\, Mountain Hiking Is My Passion【hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=rYj3IYyLKHY
+DESCRIPTION:【AMONG US】ZOMILY PARTICIPATION!! WHO'S SUS NOW HUH?!?!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=PIt9_0LHIWo
 DURATION:PT2H
-DTSTART:20220304T140000Z
-SUMMARY:Anya: 【DEATH STRANDING】Yes\, Mountain Hiking Is My Passion【hololive ID 2nd Generation】
-UID:rYj3IYyLKHY
+DTSTART:20220305T130000Z
+SUMMARY:Ollie: 【AMONG US】ZOMILY PARTICIPATION!! WHO'S SUS NOW HUH?!?!【Hololive Indonesia 2nd Gen】
+UID:PIt9_0LHIWo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Vampire Survivors】PEW PEW PEW【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=lLxVUsBmtmw
@@ -16,13 +16,6 @@ DURATION:PT2H
 DTSTART:20220304T130000Z
 SUMMARY:Reine: 【Vampire Survivors】PEW PEW PEW【Pavolia Reine/hololiveID 2nd gen】
 UID:lLxVUsBmtmw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【AMONG US】ZOMILY PARTICIPATION!! NEW UPDATE GON BE BOMB【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=bgHHj194gAo
-DURATION:PT2H
-DTSTART:20220305T130000Z
-SUMMARY:Ollie: 【AMONG US】ZOMILY PARTICIPATION!! NEW UPDATE GON BE BOMB【Hololive Indonesia 2nd Gen】
-UID:bgHHj194gAo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PagiMoona!】selamat pagi...【Freetalk】\nhttps://www.youtube.com/watch?v=GhQcQCBtDKA
@@ -39,17 +32,31 @@ SUMMARY:🎨Iofi: 【Sea of Thieves】That Time When I Was Reincarnated As A Pir
 UID:em8xXsOs8cU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Working Stream】Members Only Celebration Later Tonight!【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=yjbU3kUqcxY
-DURATION:PT2H
-DTSTART:20220305T070000Z
-SUMMARY:Reine: 【Working Stream】Members Only Celebration Later Tonight!【Pavolia Reine/hololiveID 2nd gen】
-UID:yjbU3kUqcxY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DONATION READING】HEY HEY LISTEN HEY LISTEN HEY LISTEN LISTEN HEY LISTEN【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=ZopNri5WXFY
 DURATION:PT2H
 DTSTART:20220305T083000Z
 SUMMARY:Ollie: 【DONATION READING】HEY HEY LISTEN HEY LISTEN HEY LISTEN LISTEN HEY LISTEN【Hololive Indonesia 2nd Gen】
 UID:ZopNri5WXFY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEATH STRANDING】Yes\, Mountain Hiking Is My Passion【hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=rYj3IYyLKHY
+DURATION:PT2H
+DTSTART:20220304T140000Z
+SUMMARY:Anya: 【DEATH STRANDING】Yes\, Mountain Hiking Is My Passion【hololive ID 2nd Generation】
+UID:rYj3IYyLKHY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【AMONG US】ZOMILY PARTICIPATION!! NEW UPDATE GON BE BOMB【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=bgHHj194gAo
+DURATION:PT2H
+DTSTART:20220305T130000Z
+SUMMARY:Ollie: 【AMONG US】ZOMILY PARTICIPATION!! NEW UPDATE GON BE BOMB【Hololive Indonesia 2nd Gen】
+UID:bgHHj194gAo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Working Stream】Members Only Celebration Later Tonight!【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=yjbU3kUqcxY
+DURATION:PT2H
+DTSTART:20220305T070000Z
+SUMMARY:Reine: 【Working Stream】Members Only Celebration Later Tonight!【Pavolia Reine/hololiveID 2nd gen】
+UID:yjbU3kUqcxY
 END:VEVENT
 END:VCALENDAR
