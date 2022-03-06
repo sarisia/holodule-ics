@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【マリカ】久しぶりに走りたくなっちゃった！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=z0aMetn2kKk
+DURATION:PT2H
+DTSTART:20220306T160000Z
+SUMMARY:🦔💨岸堂天真: 【マリカ】久しぶりに走りたくなっちゃった！【岸堂天真/ホロスターズ】
+UID:z0aMetn2kKk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ELDEN RING】-ネタバレあり-  エルデンさんぽリング【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=jxyDD0N68N8
 DURATION:PT2H
 DTSTART:20220306T070000Z
@@ -18,17 +25,17 @@ SUMMARY:荒咬オウガ: 【雑談】サイン描く配信【荒咬オウガ/ホ
 UID:lFgbe_EjfwU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談枠】もうすぐアレもあるし話そう【律可/ホロスターズ】 #りつすた\nhttps://www.youtube.com/watch?v=pYjwiss9vnw
-DURATION:PT2H
-DTSTART:20220306T130000Z
-SUMMARY:⚙律可: 【雑談枠】もうすぐアレもあるし話そう【律可/ホロスターズ】 #りつすた
-UID:pYjwiss9vnw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】山は崩すためにあるんだよ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=78uobSCvnQ4
 DURATION:PT2H
 DTSTART:20220306T154500Z
 SUMMARY:🍕アルランディス: 【Minecraft】山は崩すためにあるんだよ【アルランディス/ホロスターズ】
 UID:78uobSCvnQ4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談枠】もうすぐアレもあるし話そう【律可/ホロスターズ】 #りつすた\nhttps://www.youtube.com/watch?v=pYjwiss9vnw
+DURATION:PT2H
+DTSTART:20220306T130000Z
+SUMMARY:⚙律可: 【雑談枠】もうすぐアレもあるし話そう【律可/ホロスターズ】 #りつすた
+UID:pYjwiss9vnw
 END:VEVENT
 END:VCALENDAR
