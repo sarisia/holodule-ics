@@ -4,6 +4,27 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Identity】IRyS Song Cover『アイデンティティ』\nhttps://www.youtube.com/watch?v=SqrwHmo_sGg
+DURATION:PT2H
+DTSTART:20220307T020000Z
+SUMMARY:IRyS: 【Identity】IRyS Song Cover『アイデンティティ』
+UID:SqrwHmo_sGg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VR Cooking】Chef Buffson in the Kitchen\nhttps://www.youtube.com/watch?v=Um1YIqEG9W4
+DURATION:PT2H
+DTSTART:20220306T020000Z
+SUMMARY:Amelia: 【VR Cooking】Chef Buffson in the Kitchen
+UID:Um1YIqEG9W4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【UNARCHIVED KARAOKE】 EMO NOSTALGIA NIGHT 🥀\nhttps://www.youtube.com/watch?v=e3WVi7azMAo
+DURATION:PT2H
+DTSTART:20220306T230000Z
+SUMMARY:Fauna: 【UNARCHIVED KARAOKE】 EMO NOSTALGIA NIGHT 🥀
+UID:e3WVi7azMAo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Vampire Survivors】New map and we progress\nhttps://www.youtube.com/watch?v=QYKZqiIQ0rY
 DURATION:PT2H
 DTSTART:20220306T030000Z
@@ -18,13 +39,6 @@ SUMMARY:Gura: 【Within Skerry】very scary
 UID:vHLYLNNoa6o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【VR Cooking】Chef Buffson in the Kitchen\nhttps://www.youtube.com/watch?v=Um1YIqEG9W4
-DURATION:PT2H
-DTSTART:20220306T020000Z
-SUMMARY:Amelia: 【VR Cooking】Chef Buffson in the Kitchen
-UID:Um1YIqEG9W4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【KU100 Manga Reading】 catmaid nya!\nhttps://www.youtube.com/watch?v=IpRMNPdH-Po
 DURATION:PT2H
 DTSTART:20220305T220000Z
@@ -37,13 +51,6 @@ DURATION:PT2H
 DTSTART:20220306T040003Z
 SUMMARY:Calli: 【ELDEN RING #03】Smellden Ring. 【SPOILER WARNING】
 UID:H6glaFahk6w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【UNARCHIVED KARAOKE】 EMO NOSTALGIA NIGHT 🥀\nhttps://www.youtube.com/watch?v=e3WVi7azMAo
-DURATION:PT2H
-DTSTART:20220306T230000Z
-SUMMARY:Fauna: 【UNARCHIVED KARAOKE】 EMO NOSTALGIA NIGHT 🥀
-UID:e3WVi7azMAo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ELDEN RING】The Episode Where I Kill Margit (SPOILER ALERT) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=m_xtBV_TNSU
