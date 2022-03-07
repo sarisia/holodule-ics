@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【雑談】嬉しいお話もあるよ！！よるざつだん【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=qb2I9L7gWw8
+DURATION:PT2H
+DTSTART:20220307T130000Z
+SUMMARY:雪花ラミィ: 【雑談】嬉しいお話もあるよ！！よるざつだん【雪花ラミィ/ホロライブ】
+UID:qb2I9L7gWw8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】４周年記念ライブ振り返りTALK！！【ホロライブ/ #ロボ子生放送 】\nhttps://www.youtube.com/watch?v=_On_QdAgYX4
 DURATION:PT2H
 DTSTART:20220306T140000Z
@@ -23,13 +30,6 @@ DURATION:PT2H
 DTSTART:20220307T090000Z
 SUMMARY:🌟夜空メル: 【お絵かき】メンバースタンプを作りながら雑談✨【ホロライブ/夜空メル】
 UID:LjT1wiXszQY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【晩酌】membership限定！お取り寄せしたチーズとピクルスを食べる【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=BVnX338RszM
-DURATION:PT2H
-DTSTART:20220307T140000Z
-SUMMARY:鷹嶺ルイ: 【晩酌】membership限定！お取り寄せしたチーズとピクルスを食べる【鷹嶺ルイ/ホロライブ】
-UID:BVnX338RszM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SEKIRO】葦名弦一郎から逃げないSEKIRO【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=V6D9FymmvT4
@@ -191,6 +191,13 @@ DURATION:PT2H
 DTSTART:20220307T064125Z
 SUMMARY:💫天音かなた: 【#かなたそ生存報告】新型コロナウイルス発症２２日目/Day 22 in COVID-19.【天音かなた/ホロライブ】
 UID:ydIpkEEMyww
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PowerWash Simulator】部屋の掃除より先にやらなきゃいけないことがある。【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=hj8TiJ7MHTE
+DURATION:PT2H
+DTSTART:20220308T100000Z
+SUMMARY:ラプラス: 【PowerWash Simulator】部屋の掃除より先にやらなきゃいけないことがある。【ラプラス・ダークネス/ホロライブ】
+UID:hj8TiJ7MHTE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Cyberpunk2077 | #1】サイバーパンク2077 の世界へレッツゴー！【ホロライブ/アキロゼAkirose】\nhttps://www.youtube.com/watch?v=PVPsyPNeZ0c
