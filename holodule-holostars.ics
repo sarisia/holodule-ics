@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【雑談】時間つぶし雑談男【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=LlOKnVwNX5E
-DURATION:PT2H
-DTSTART:20220308T045000Z
-SUMMARY:🍷夕刻ロベル: 【雑談】時間つぶし雑談男【夕刻ロベル/ホロスターズ】
-UID:LlOKnVwNX5E
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】V最協に出たい、プラチナ３～ダイヤ4までの方を探しています  / Astel\nhttps://www.youtube.com/watch?v=-04tYZNu_MQ
 DURATION:PT2H
 DTSTART:20220307T124500Z
 SUMMARY:🎭アステル・レダ: 【APEX】V最協に出たい、プラチナ３～ダイヤ4までの方を探しています  / Astel
 UID:-04tYZNu_MQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】時間つぶし雑談男【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=LlOKnVwNX5E
+DURATION:PT2H
+DTSTART:20220308T045000Z
+SUMMARY:🍷夕刻ロベル: 【雑談】時間つぶし雑談男【夕刻ロベル/ホロスターズ】
+UID:LlOKnVwNX5E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Dying Light 2】今度の冒険はzombie world!! #ホロスタ生き残り隊【岸堂天真/奏手イヅル/夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=MjliHXahpMo
@@ -46,18 +46,11 @@ SUMMARY:🍕アルランディス: 【Minecraft】山は崩すためにあるん
 UID:78uobSCvnQ4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】ひたすらサイン描く　#2【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=2MZeAS6ZwlI
+DESCRIPTION:【ARK Lost Island】恐竜よ、今までありがとう【花咲みやび/岸堂天真/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=7EECVAsvsFI
 DURATION:PT2H
-DTSTART:20220308T130000Z
-SUMMARY:荒咬オウガ: 【雑談】ひたすらサイン描く　#2【荒咬オウガ/ホロスターズ】
-UID:2MZeAS6ZwlI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】おしゃべり【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=0gMT02Bmdnk
-DURATION:PT2H
-DTSTART:20220307T091500Z
-SUMMARY:🍷夕刻ロベル: 【雑談】おしゃべり【夕刻ロベル/ホロスターズ】
-UID:0gMT02Bmdnk
+DTSTART:20220307T100000Z
+SUMMARY:🍕アルランディス: 【ARK Lost Island】恐竜よ、今までありがとう【花咲みやび/岸堂天真/アルランディス/ホロスターズ】
+UID:7EECVAsvsFI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ロベルないとめあ】マシュマロを読む我々【夕刻ロベル/神楽めあ】\nhttps://www.youtube.com/watch?v=BtjnBUo5P6g
@@ -67,11 +60,11 @@ SUMMARY:🍷夕刻ロベル: 【#ロベルないとめあ】マシュマロを�
 UID:BtjnBUo5P6g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ARK Lost Island】恐竜よ、今までありがとう【花咲みやび/岸堂天真/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=7EECVAsvsFI
+DESCRIPTION:【雑談】おしゃべり【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=0gMT02Bmdnk
 DURATION:PT2H
-DTSTART:20220307T100000Z
-SUMMARY:🍕アルランディス: 【ARK Lost Island】恐竜よ、今までありがとう【花咲みやび/岸堂天真/アルランディス/ホロスターズ】
-UID:7EECVAsvsFI
+DTSTART:20220307T091500Z
+SUMMARY:🍷夕刻ロベル: 【雑談】おしゃべり【夕刻ロベル/ホロスターズ】
+UID:0gMT02Bmdnk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリカ】久しぶりに走りたくなっちゃった！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=z0aMetn2kKk
