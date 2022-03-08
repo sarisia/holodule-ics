@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ELDEN RING #04】Well\, Then...Ring. 【SPOILER WARNING】\nhttps://www.youtube.com/watch?v=rJrwNqV3na0
+DURATION:PT2H
+DTSTART:20220308T133011Z
+SUMMARY:Calli: 【ELDEN RING #04】Well\, Then...Ring. 【SPOILER WARNING】
+UID:rJrwNqV3na0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】時間つぶし雑談男【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=LlOKnVwNX5E
 DURATION:PT2H
 DTSTART:20220308T045000Z
@@ -30,6 +37,13 @@ DURATION:PT2H
 DTSTART:20220308T100000Z
 SUMMARY:桃鈴ねね: 【 歌枠 】気持ちを込めて、歌います！【 桃鈴ねね / ホロライブ 】
 UID:PlxmkrOyo2s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MONSTER HUNTER RISE】#フレルーナ 一狩いくぞ～！🍬🔥【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=YtfxEz-MPzU
+DURATION:PT2H
+DTSTART:20220309T130000Z
+SUMMARY:🔥不知火フレア: 【MONSTER HUNTER RISE】#フレルーナ 一狩いくぞ～！🍬🔥【ホロライブ/不知火フレア】
+UID:YtfxEz-MPzU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【こだわりラーメン館】作るより食べる派【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=A3pwZwqWhlg
@@ -123,13 +137,6 @@ SUMMARY:ホロスターズ: 【収録一時中断】ロベル、人生初ドッ�
 UID:S2dSYq4wU3g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Vampire Survivors】TAKE 2【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=VipxsUD1AoM
-DURATION:PT2H
-DTSTART:20220308T144000Z
-SUMMARY:Reine: 【Vampire Survivors】TAKE 2【Pavolia Reine/hololiveID 2nd gen】
-UID:VipxsUD1AoM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【vampire survivors】巷で流行ってるけど実は完全初見なんです。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=yWpWl2LRLFs
 DURATION:PT2H
 DTSTART:20220308T130000Z
@@ -205,13 +212,6 @@ DURATION:PT2H
 DTSTART:20220308T171500Z
 SUMMARY:🦔💨岸堂天真: 【深夜の歌枠】春が近いのでそういった爽やかな歌【岸堂天真/ホロスターズ】
 UID:fjG-Jftq5t4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ゆけむり温泉郷】はじめてのカイロソフト♡温泉でかっぽーん♡【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=hNQYVV1WI2Y
-DURATION:PT2H
-DTSTART:20220308T090000Z
-SUMMARY:博衣こより: 【ゆけむり温泉郷】はじめてのカイロソフト♡温泉でかっぽーん♡【博衣こより/ホロライブ】
-UID:hNQYVV1WI2Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#かなたそ生存報告】新型コロナウイルス発症２３日目/Day 23 in COVID-19.【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=LxPcrmYj6RY
