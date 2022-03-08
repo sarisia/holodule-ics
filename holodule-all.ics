@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ELDEN RING #04】Well\, Then...Ring. 【SPOILER WARNING】\nhttps://www.youtube.com/watch?v=rJrwNqV3na0
+DURATION:PT2H
+DTSTART:20220308T130000Z
+SUMMARY:Calli: 【ELDEN RING #04】Well\, Then...Ring. 【SPOILER WARNING】
+UID:rJrwNqV3na0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】嬉しいお話もあるよ！！よるざつだん【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=qb2I9L7gWw8
 DURATION:PT2H
 DTSTART:20220307T130000Z
 SUMMARY:雪花ラミィ: 【雑談】嬉しいお話もあるよ！！よるざつだん【雪花ラミィ/ホロライブ】
 UID:qb2I9L7gWw8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】時間つぶし雑談男【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=LlOKnVwNX5E
-DURATION:PT2H
-DTSTART:20220308T045000Z
-SUMMARY:🍷夕刻ロベル: 【雑談】時間つぶし雑談男【夕刻ロベル/ホロスターズ】
-UID:LlOKnVwNX5E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】RENOVATING MY HOUSE IN THE JP SERVER【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=s33hMed4Ies
@@ -32,18 +32,18 @@ SUMMARY:IRyS: 【IRyS】アイデンティティ / Identity【COVER】
 UID:SqrwHmo_sGg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【雑談】時間つぶし雑談男【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=LlOKnVwNX5E
+DURATION:PT2H
+DTSTART:20220308T045000Z
+SUMMARY:🍷夕刻ロベル: 【雑談】時間つぶし雑談男【夕刻ロベル/ホロスターズ】
+UID:LlOKnVwNX5E
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【PROJECT DIVA: MEGA MIX】 SAME DAYO\nhttps://www.youtube.com/watch?v=jbmUs-eFjrA
 DURATION:PT2H
 DTSTART:20220308T120000Z
 SUMMARY:Gura: 【PROJECT DIVA: MEGA MIX】 SAME DAYO
 UID:jbmUs-eFjrA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING #04】Well\, Then...Ring. 【SPOILER WARNING】\nhttps://www.youtube.com/watch?v=rJrwNqV3na0
-DURATION:PT2H
-DTSTART:20220308T130000Z
-SUMMARY:Calli: 【ELDEN RING #04】Well\, Then...Ring. 【SPOILER WARNING】
-UID:rJrwNqV3na0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SEKIRO】葦名弦一郎から逃げないSEKIRO【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=V6D9FymmvT4
@@ -116,18 +116,18 @@ SUMMARY:🦔💨岸堂天真: 【マリカ】久しぶりに走りたくなっ�
 UID:z0aMetn2kKk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SEKIRO】まぼろしお蝶から逃げないSEKIRO【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=gTJlFp35Wpk
-DURATION:PT2H
-DTSTART:20220308T110000Z
-SUMMARY:👯兎田ぺこら: 【SEKIRO】まぼろしお蝶から逃げないSEKIRO【ホロライブ/兎田ぺこら】※ネタバレあり
-UID:gTJlFp35Wpk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【お礼雑談】めり乃さんコラボ始まったでぇぇぇ！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=gYBM0ihrb2w
 DURATION:PT2H
 DTSTART:20220308T130000Z
 SUMMARY:🐏角巻わため: 【お礼雑談】めり乃さんコラボ始まったでぇぇぇ！【角巻わため/ホロライブ４期生】
 UID:gYBM0ihrb2w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SEKIRO】まぼろしお蝶から逃げないSEKIRO【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=gTJlFp35Wpk
+DURATION:PT2H
+DTSTART:20220308T110000Z
+SUMMARY:👯兎田ぺこら: 【SEKIRO】まぼろしお蝶から逃げないSEKIRO【ホロライブ/兎田ぺこら】※ネタバレあり
+UID:gTJlFp35Wpk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【大神ミオ視点】ホロライブゲーマーズで行く幽霊調査【ビビり視点】\nhttps://www.youtube.com/watch?v=CJSpZ2r3GfY
@@ -156,6 +156,13 @@ DURATION:PT2H
 DTSTART:20220308T090000Z
 SUMMARY:⚔白銀ノエル: #05【ELDEN RING】脳筋女騎士、魔術学院に行く。【白銀ノエル/ホロライブ】※ネタバレあり
 UID:pAYT4PkqzUU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Fortnite】ラプラス・ダークネス(１２)建築キッズいきま～すW【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=x7a-pW_8YnA
+DURATION:PT2H
+DTSTART:20220308T100000Z
+SUMMARY:ラプラス: 【Fortnite】ラプラス・ダークネス(１２)建築キッズいきま～すW【ラプラス・ダークネス/ホロライブ】
+UID:x7a-pW_8YnA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 ウマ娘 プリティーダービー】ガチャ！ついにサトちゃんきちゃ！絶対お迎えするぞ！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=XASk3CHsQBw
@@ -319,6 +326,13 @@ SUMMARY:博衣こより: 【Vampire Survivors】新PC始動！森クリア耐久
 UID:PdeOaP6PKcI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 歌枠 】気持ちを込めて、歌います！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=PlxmkrOyo2s
+DURATION:PT2H
+DTSTART:20220308T100000Z
+SUMMARY:桃鈴ねね: 【 歌枠 】気持ちを込めて、歌います！【 桃鈴ねね / ホロライブ 】
+UID:PlxmkrOyo2s
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ARK】深夜のスピノ子育てする！！！！！！！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=mQp_uhn59OM
 DURATION:PT2H
 DTSTART:20220307T141500Z
@@ -347,18 +361,18 @@ SUMMARY:風真いろは: 【雑談】近況報告でござる【風真いろは/
 UID:i9yzgC_KsgI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Vampire Survivors】FIRST TIME PLAYING ON STREAM !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=0xmYbBCPgCA
-DURATION:PT2H
-DTSTART:20220308T063000Z
-SUMMARY:🐿Risu: 【Vampire Survivors】FIRST TIME PLAYING ON STREAM !!!【Ayunda Risu】
-UID:0xmYbBCPgCA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【精神崩壊】いやだ・・・！壊れたくないいいい！！！(発狂)【Egg is broken heart is too】\nhttps://www.youtube.com/watch?v=EYYizyYe5GY
 DURATION:PT2H
 DTSTART:20220308T110000Z
 SUMMARY:❤赤井はあと: 【精神崩壊】いやだ・・・！壊れたくないいいい！！！(発狂)【Egg is broken heart is too】
 UID:EYYizyYe5GY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Vampire Survivors】FIRST TIME PLAYING ON STREAM !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=0xmYbBCPgCA
+DURATION:PT2H
+DTSTART:20220308T063000Z
+SUMMARY:🐿Risu: 【Vampire Survivors】FIRST TIME PLAYING ON STREAM !!!【Ayunda Risu】
+UID:0xmYbBCPgCA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Ghostrunner】Hack n' Tear\nhttps://www.youtube.com/watch?v=EiyZJu8itw8
@@ -410,6 +424,13 @@ SUMMARY:🎭アステル・レダ: 【APEX】V最協に出たい、プラチナ�
 UID:-04tYZNu_MQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ゆけむり温泉郷】はじめてのカイロソフト♡温泉でかっぽーん♡【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=hNQYVV1WI2Y
+DURATION:PT2H
+DTSTART:20220308T090000Z
+SUMMARY:博衣こより: 【ゆけむり温泉郷】はじめてのカイロソフト♡温泉でかっぽーん♡【博衣こより/ホロライブ】
+UID:hNQYVV1WI2Y
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 #朝ミオ 】もう３月🌸もう春だ！おはみぉーん！\nhttps://www.youtube.com/watch?v=11ZMDeMZALw
 DURATION:PT2H
 DTSTART:20220306T223000Z
@@ -422,13 +443,6 @@ DURATION:PT2H
 DTSTART:20220307T144500Z
 SUMMARY:Kiara: 【YAKUZA 0】Time To Meet Legends.  SPOILER ALERT #kfp #キアライブ
 UID:9LPvzXXm5-s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ゆけむり温泉郷】はじめてのカイロソフト♡温泉でかっぽーん♡【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=hNQYVV1WI2Y
-DURATION:PT2H
-DTSTART:20220308T090000Z
-SUMMARY:博衣こより: 【ゆけむり温泉郷】はじめてのカイロソフト♡温泉でかっぽーん♡【博衣こより/ホロライブ】
-UID:hNQYVV1WI2Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Vampire Survivors】NOT STREAM : I finished first stage of Vampire Survivors【Ayunda Risu】\nhttps://www.youtube.com/watch?v=xdqwVjnSrGY
@@ -480,6 +494,13 @@ SUMMARY:Reine: 【Vampire Survivors】u guessed it Let's Clear Dairy Plant on St
 UID:N03iuq9hfVs
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【写るんです】恐怖の森の作者が送る和風ホラーゲームに悪魔が挑戦！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=mQhc6vX37Hg
+DURATION:PT2H
+DTSTART:20220308T120000Z
+SUMMARY:💋癒月ちょこ: 【写るんです】恐怖の森の作者が送る和風ホラーゲームに悪魔が挑戦！【ホロライブ/癒月ちょこ】
+UID:mQhc6vX37Hg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【DRAWING】AN ATTEMPT TO MAKE SHORT COMICS!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=TYHUx-w5QS8
 DURATION:PT2H
 DTSTART:20220308T120000Z
@@ -492,6 +513,13 @@ DURATION:PT2H
 DTSTART:20220307T123000Z
 SUMMARY:ラプラス: 【JUMP KING】ブチ切れたら吾輩がジャンプする【ラプラス・ダークネス/ホロライブ】
 UID:rQnfxLirQ8I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:歌枠 / SINGING STREAM【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=dC6MzWrLee0
+DURATION:PT2H
+DTSTART:20220308T130000Z
+SUMMARY:☄星街すいせい: 歌枠 / SINGING STREAM【ホロライブ / 星街すいせい】
+UID:dC6MzWrLee0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪AFTER-PARTY≫ HEWWO\nhttps://www.youtube.com/watch?v=dQKei2mtbOY
