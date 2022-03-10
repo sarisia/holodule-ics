@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【PAYDAY 2】お給料もらえると聞いて！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=lc24FhA91Z4
+DURATION:PT2H
+DTSTART:20220310T130000Z
+SUMMARY:🐏角巻わため: 【PAYDAY 2】お給料もらえると聞いて！【角巻わため/ホロライブ４期生】
+UID:lc24FhA91Z4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#生スバル】復活のおはすば！スバル：FREE TALK【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=ABZ--Z-rdc4
 DURATION:PT2H
 DTSTART:20220312T010000Z
@@ -67,6 +74,13 @@ SUMMARY:🍬姫森ルーナ: 【 重大告知と重大発表 】夢みたいな�
 UID:90dP1ePIPcA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【FFオリジン】先行プレイで討伐チャレンジ！土のカオス「リッチ」に挑戦【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=ZukRF8sA0Tw
+DURATION:PT2H
+DTSTART:20220312T083000Z
+SUMMARY:獅白ぼたん: 【FFオリジン】先行プレイで討伐チャレンジ！土のカオス「リッチ」に挑戦【獅白ぼたん/ホロライブ】
+UID:ZukRF8sA0Tw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:僕は初音ミクとキスをした / 星街すいせい(cover)\nhttps://www.youtube.com/watch?v=o9r6lFYK9SE
 DURATION:PT2H
 DTSTART:20220310T090000Z
@@ -79,13 +93,6 @@ DURATION:PT2H
 DTSTART:20220310T140000Z
 SUMMARY:🌲大神ミオ: ついにあと３９回・・寝る前金壺チャレンジ【 ホロライブ / 大神ミオ 】
 UID:ZBuvpR6mUUw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Dead by Daylight】貞子に会えるまで終われないDBD【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=6etELtHkkQY
-DURATION:PT2H
-DTSTART:20220310T090000Z
-SUMMARY:💋癒月ちょこ: 【Dead by Daylight】貞子に会えるまで終われないDBD【ホロライブ/癒月ちょこ】
-UID:6etELtHkkQY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【くにおくんの三国志だよ全員集合！】絶対そうなると思った・・・雪花ラミィのライジングサン編【ホロライブ #まるヤマ駅前】\nhttps://www.youtube.com/watch?v=ZRs8bfUCSoI
@@ -135,13 +142,6 @@ DURATION:PT2H
 DTSTART:20220311T100000Z
 SUMMARY:⚔白銀ノエル: 【FFオリジン】新作先行プレイ！一時間で火のカオス 「マリリス」討伐チャレンジしまっする💪🔥【ホロライブ/白銀ノエル】
 UID:50PETo1OkaI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【カイロソフト】週刊サタデー連載目指す！まんが一本道〆#3【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=XxEkIjfGnVk
-DURATION:PT2H
-DTSTART:20220310T130000Z
-SUMMARY:沙花叉クロヱ: 【カイロソフト】週刊サタデー連載目指す！まんが一本道〆#3【沙花叉クロヱ/ホロライブ】
-UID:XxEkIjfGnVk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝こよ#29】絆をつないでいきたい、朝こよ【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=Di-Fx5Oj8RQ
@@ -214,10 +214,10 @@ SUMMARY:🌟夜空メル: 【朝メル#１】おはかぷっ！木曜日の朝�
 UID:RtBwk-tcc2M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【録画はメン限】悪魔の永眠ASMR【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=fh96h3EWaIA
+DESCRIPTION:【Dead by Daylight】貞子に会えるまで終われないDBD【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=6etELtHkkQY
 DURATION:PT2H
-DTSTART:20220310T153000Z
-SUMMARY:💋癒月ちょこ: 【録画はメン限】悪魔の永眠ASMR【ホロライブ/癒月ちょこ】
-UID:fh96h3EWaIA
+DTSTART:20220310T090000Z
+SUMMARY:💋癒月ちょこ: 【Dead by Daylight】貞子に会えるまで終われないDBD【ホロライブ/癒月ちょこ】
+UID:6etELtHkkQY
 END:VEVENT
 END:VCALENDAR
