@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Vampire Survivors】SCUFF SURVIVORS (gonna finish hyper mode)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=bqAxcy-v_9E
-DURATION:PT2H
-DTSTART:20220311T140000Z
-SUMMARY:Reine: 【Vampire Survivors】SCUFF SURVIVORS (gonna finish hyper mode)【Pavolia Reine/hololiveID 2nd gen】
-UID:bqAxcy-v_9E
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Birthday Countdown】It's here! Counting Down To My Birthday With Everyone!【hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=28tbQHTRJY4
 DURATION:PT2H
 DTSTART:20220311T163000Z
@@ -25,10 +18,17 @@ SUMMARY:🔮Moona: 【MoonUtau】Sing! because i need it.【Unarchive】
 UID:gYQzEv9xEIM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SPOILER ALERT】ELDEN RING : I will continue my journey ~!!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=BRwHEZ8pW1M
+DESCRIPTION:【Vampire Survivors】SCUFF SURVIVORS (gonna finish hyper mode)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=bqAxcy-v_9E
+DURATION:PT2H
+DTSTART:20220311T140000Z
+SUMMARY:Reine: 【Vampire Survivors】SCUFF SURVIVORS (gonna finish hyper mode)【Pavolia Reine/hololiveID 2nd gen】
+UID:bqAxcy-v_9E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Monthly Karaoke! Anime Song Edition\nhttps://www.youtube.com/watch?v=EXLV8DVtWUE
 DURATION:PT2H
 DTSTART:20220311T130000Z
-SUMMARY:🐿Risu: 【SPOILER ALERT】ELDEN RING : I will continue my journey ~!!!!【Ayunda Risu】
-UID:BRwHEZ8pW1M
+SUMMARY:🎨Iofi: Monthly Karaoke! Anime Song Edition
+UID:EXLV8DVtWUE
 END:VEVENT
 END:VCALENDAR
