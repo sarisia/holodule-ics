@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Getting Over It】は～～～こちらについては正直負ける気しかしないです。【常闇トワ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=BG8tolUDzMA
+DURATION:PT2H
+DTSTART:20220312T110000Z
+SUMMARY:👾常闇トワ: 【Getting Over It】は～～～こちらについては正直負ける気しかしないです。【常闇トワ視点/ホロライブ】
+UID:BG8tolUDzMA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【JUMP KING】Jumpity jump #Holojump\nhttps://www.youtube.com/watch?v=Dluq9C_IZBE
 DURATION:PT2H
 DTSTART:20220312T030000Z
@@ -177,6 +184,13 @@ DURATION:PT2H
 DTSTART:20220311T150000Z
 SUMMARY:💋癒月ちょこ: 【ARK】深夜のボス戦準備！【ホロライブ/癒月ちょこ】
 UID:vtsxmqfEkP8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【JUMP KING】ENDURANCE! JUMPING! #holoJUMP\nhttps://www.youtube.com/watch?v=oqplzSHHbP8
+DURATION:PT2H
+DTSTART:20220312T033041Z
+SUMMARY:Calli: 【JUMP KING】ENDURANCE! JUMPING! #holoJUMP
+UID:oqplzSHHbP8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SPOILER ALERT】ELDEN RING : I will continue my journey ~!!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=BRwHEZ8pW1M
@@ -424,6 +438,13 @@ SUMMARY:Anya: 【Birthday Countdown】It's here! Counting Down To My Birthday Wi
 UID:28tbQHTRJY4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:うんたらかんたら【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=TYd9K1akhNc
+DURATION:PT2H
+DTSTART:20220312T130000Z
+SUMMARY:☄星街すいせい: うんたらかんたら【ホロライブ / 星街すいせい】
+UID:TYd9K1akhNc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ARK】アーティファクトが欲しいARK廃人ムキ兄弟【ホロライブ/Akirose】\nhttps://www.youtube.com/watch?v=tX8u2YZ_r4c
 DURATION:PT2H
 DTSTART:20220311T140000Z
@@ -450,13 +471,6 @@ DURATION:PT2H
 DTSTART:20220310T231026Z
 SUMMARY:Amelia: 【DOOM ETERNAL】RIP- PC
 UID:UNNPX4QAztU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#2 ヘブンバーンズレッド 初見プレイ！続きから！【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=lu6HwBucdSA
-DURATION:PT2H
-DTSTART:20220312T080000Z
-SUMMARY:ラプラス: #2 ヘブンバーンズレッド 初見プレイ！続きから！【ラプラス・ダークネス/ホロライブ】
-UID:lu6HwBucdSA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:professional mouthplay\nhttps://www.youtube.com/watch?v=AirNqTtIuE4
@@ -597,5 +611,12 @@ DURATION:PT2H
 DTSTART:20220311T120000Z
 SUMMARY:🌸さくらみこ: 【マリオカート8DX 】８位以下３残機で生き延びてみせるマリカ【ホロライブ/さくらみこ】
 UID:6ulwcCVXlm4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【配信予定】ぺこおおおおおおおおおおおおおおおおおお！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=1y6NAGYlf4g
+DURATION:PT2H
+DTSTART:20220312T130000Z
+SUMMARY:👯兎田ぺこら: 【配信予定】ぺこおおおおおおおおおおおおおおおおおお！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:1y6NAGYlf4g
 END:VEVENT
 END:VCALENDAR
