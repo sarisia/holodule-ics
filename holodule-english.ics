@@ -4,46 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#kromedetou】Thank You 💙\nhttps://www.youtube.com/watch?v=RGzQ6zuSJRA
-DURATION:PT2H
-DTSTART:20220314T010000Z
-SUMMARY:Kronii: 【#kromedetou】Thank You 💙
-UID:RGzQ6zuSJRA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【JUMP KING】CLOSING CEREMONY! #holoJUMP\nhttps://www.youtube.com/watch?v=fsPQP5Z1-2U
-DURATION:PT2H
-DTSTART:20220314T010000Z
-SUMMARY:Calli: 【JUMP KING】CLOSING CEREMONY! #holoJUMP
-UID:fsPQP5Z1-2U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING】✨✨Elden Bling✨✨ (SPOILER ALERT) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=XK9Rf96UCDw
-DURATION:PT2H
-DTSTART:20220313T141000Z
-SUMMARY:Kiara: 【ELDEN RING】✨✨Elden Bling✨✨ (SPOILER ALERT) #kfp #キアライブ
-UID:XK9Rf96UCDw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING】I want to get gud [Spoiler Alert]\nhttps://www.youtube.com/watch?v=vMgV8lPN5ik
-DURATION:PT2H
-DTSTART:20220314T040000Z
-SUMMARY:IRyS: 【ELDEN RING】I want to get gud [Spoiler Alert]
-UID:vMgV8lPN5ik
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Elden Ring】 I Had a Title in Mind but I Forgot  【SPOILER WARNING】【#5】\nhttps://www.youtube.com/watch?v=dCU_ODm6TPw
-DURATION:PT2H
-DTSTART:20220312T210000Z
-SUMMARY:Ina: 【Elden Ring】 I Had a Title in Mind but I Forgot  【SPOILER WARNING】【#5】
-UID:dCU_ODm6TPw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ELDEN RING】how the HECK do you play this\nhttps://www.youtube.com/watch?v=xotb0PQ93z0
 DURATION:PT2H
 DTSTART:20220313T013000Z
 SUMMARY:Amelia: 【ELDEN RING】how the HECK do you play this
 UID:xotb0PQ93z0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#kromedetou】Thank You 💙\nhttps://www.youtube.com/watch?v=RGzQ6zuSJRA
+DURATION:PT2H
+DTSTART:20220314T010000Z
+SUMMARY:Kronii: 【#kromedetou】Thank You 💙
+UID:RGzQ6zuSJRA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【UNO】IT'S TIME TO D-D-D-DUEL ! ft. Ina\, Gura\, Mumei and Bae\nhttps://www.youtube.com/watch?v=i3LGQfRa6Kg
@@ -53,10 +25,31 @@ SUMMARY:Mumei: 【UNO】IT'S TIME TO D-D-D-DUEL ! ft. Ina\, Gura\, Mumei and Bae
 UID:i3LGQfRa6Kg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【JUMP KING】CLOSING CEREMONY! #holoJUMP\nhttps://www.youtube.com/watch?v=fsPQP5Z1-2U
+DURATION:PT2H
+DTSTART:20220314T010000Z
+SUMMARY:Calli: 【JUMP KING】CLOSING CEREMONY! #holoJUMP
+UID:fsPQP5Z1-2U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ELDEN RING】I want to get gud [Spoiler Alert]\nhttps://www.youtube.com/watch?v=vMgV8lPN5ik
+DURATION:PT2H
+DTSTART:20220314T040000Z
+SUMMARY:IRyS: 【ELDEN RING】I want to get gud [Spoiler Alert]
+UID:vMgV8lPN5ik
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Elden Ring】 E 【SPOILER WARNING】【#6】\nhttps://www.youtube.com/watch?v=Lg0twjUVIDQ
 DURATION:PT2H
 DTSTART:20220313T200000Z
 SUMMARY:Ina: 【Elden Ring】 E 【SPOILER WARNING】【#6】
 UID:Lg0twjUVIDQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Elden Ring】 I Had a Title in Mind but I Forgot  【SPOILER WARNING】【#5】\nhttps://www.youtube.com/watch?v=dCU_ODm6TPw
+DURATION:PT2H
+DTSTART:20220312T210000Z
+SUMMARY:Ina: 【Elden Ring】 I Had a Title in Mind but I Forgot  【SPOILER WARNING】【#5】
+UID:dCU_ODm6TPw
 END:VEVENT
 END:VCALENDAR
