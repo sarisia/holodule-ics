@@ -32,18 +32,18 @@ SUMMARY:🐻ときのそら: 【ヘッドセットもらった】お披露目告
 UID:sL36baNYFxU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【カウントダウン】誕生日をみんなで迎えたい！タイムカプセルも一緒につくろ！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=2vSHe075Kwc
-DURATION:PT2H
-DTSTART:20220314T143000Z
-SUMMARY:博衣こより: 【カウントダウン】誕生日をみんなで迎えたい！タイムカプセルも一緒につくろ！【博衣こより/ホロライブ】
-UID:2vSHe075Kwc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ちょっと晩酌】アイドル衣装お披露目の感想会【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=cenkSlgUZRk
 DURATION:PT2H
 DTSTART:20220314T130000Z
 SUMMARY:雪花ラミィ: 【ちょっと晩酌】アイドル衣装お披露目の感想会【雪花ラミィ/ホロライブ】
 UID:cenkSlgUZRk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝こよ#30】誕生日の朝だよ～！！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=XHLP1LxJBPM
+DURATION:PT2H
+DTSTART:20220314T220000Z
+SUMMARY:博衣こより: 【朝こよ#30】誕生日の朝だよ～！！！【博衣こより/ホロライブ】
+UID:XHLP1LxJBPM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】白縛り？！バレンタインに引き続き！愛をこめて歌います💝✨【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=WJi1B8MSeQs
@@ -123,13 +123,6 @@ SUMMARY:博衣こより: 【Cooking Simulator】ホワイトデーだからお�
 UID:yncL97oPV98
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【WhiteDay雑談】3Dで雑談！お披露目もあるわよ！！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=PIob9DNDNj8
-DURATION:PT2H
-DTSTART:20220314T130000Z
-SUMMARY:🍕アルランディス: 【WhiteDay雑談】3Dで雑談！お披露目もあるわよ！！【アルランディス/ホロスターズ】
-UID:PIob9DNDNj8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ELDEN RING】-ネタバレあり-  世界デカすぎ問題【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=gHX52i1LrU8
 DURATION:PT2H
 DTSTART:20220314T030000Z
@@ -151,11 +144,25 @@ SUMMARY:獅白ぼたん: 【雑談&お礼もかねて】アイドル衣装お披
 UID:vJRgL31SMcI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【雑談】新しい地方に行くときに相棒が毎回Lv1になっちゃう現象にかかりました【花咲みやび /ホロスターズ】\nhttps://www.youtube.com/watch?v=Bztwi5Ec2Sg
+DURATION:PT2H
+DTSTART:20220314T134500Z
+SUMMARY:🌺花咲みやび: 【雑談】新しい地方に行くときに相棒が毎回Lv1になっちゃう現象にかかりました【花咲みやび /ホロスターズ】
+UID:Bztwi5Ec2Sg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【八月のシンデレラナイン】最強で激カワなチームの監督になれるって本当ですか！？【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=ZWUx4TTtp8o
 DURATION:PT2H
 DTSTART:20220314T120000Z
 SUMMARY:鷹嶺ルイ: 【八月のシンデレラナイン】最強で激カワなチームの監督になれるって本当ですか！？【鷹嶺ルイ/ホロライブ】
 UID:ZWUx4TTtp8o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【購入】リスナーのおすすめ商品レビューしまくる！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=eKQPqYMNFRo
+DURATION:PT2H
+DTSTART:20220314T120000Z
+SUMMARY:👯兎田ぺこら: 【購入】リスナーのおすすめ商品レビューしまくる！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:eKQPqYMNFRo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARK】免疫のアーティファクトとボス戦準備！【ホロライブ/Akirose】\nhttps://www.youtube.com/watch?v=agRA8IKjFHo
