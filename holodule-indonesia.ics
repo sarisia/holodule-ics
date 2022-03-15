@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 Original Song 】 Q&A=E | Kyawaii 【 Airani Iofifteen | イオフィ 】\nhttps://www.youtube.com/watch?v=Rd6kufQ7ONc
+DESCRIPTION:【Sea of Thieves】AHOY~! LET'S SAIL BESTIEEE~! 【iofi / ホロライブID】\nhttps://www.youtube.com/watch?v=HNSVxBVvAvc
 DURATION:PT2H
-DTSTART:20220314T120000Z
-SUMMARY:🎨Iofi: 【 Original Song 】 Q&A=E | Kyawaii 【 Airani Iofifteen | イオフィ 】
-UID:Rd6kufQ7ONc
+DTSTART:20220315T130000Z
+SUMMARY:🎨Iofi: 【Sea of Thieves】AHOY~! LET'S SAIL BESTIEEE~! 【iofi / ホロライブID】
+UID:HNSVxBVvAvc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Sea of Thieves】Continue our journey! AREA15 Here!【Area15】\nhttps://www.youtube.com/watch?v=NsmxEfCDt1k
+DURATION:PT2H
+DTSTART:20220315T130000Z
+SUMMARY:🔮Moona: 【Sea of Thieves】Continue our journey! AREA15 Here!【Area15】
+UID:NsmxEfCDt1k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Supareading】Reading Birthday & Collab Superchats+Donations! スパチャ感謝枠雑談！【hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=is9FUhAZ1xw
@@ -30,33 +37,5 @@ DURATION:PT2H
 DTSTART:20220315T133000Z
 SUMMARY:Reine: 【Kardboard Kings】Welcome to REINE CARD SHOP!!!【Pavolia Reine/hololiveID 2nd gen】
 UID:s6WCdnTVYKE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Sea of Thieves】Continue our journey! AREA15 Here!【Area15】\nhttps://www.youtube.com/watch?v=NsmxEfCDt1k
-DURATION:PT2H
-DTSTART:20220315T130000Z
-SUMMARY:🔮Moona: 【Sea of Thieves】Continue our journey! AREA15 Here!【Area15】
-UID:NsmxEfCDt1k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Sea of Thieves】AHOY~! LET'S SAIL BESTIEEE~! 【iofi / ホロライブID】\nhttps://www.youtube.com/watch?v=HNSVxBVvAvc
-DURATION:PT2H
-DTSTART:20220315T130000Z
-SUMMARY:🎨Iofi: 【Sea of Thieves】AHOY~! LET'S SAIL BESTIEEE~! 【iofi / ホロライブID】
-UID:HNSVxBVvAvc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Sucker for Love: First Date】READY FOR ELDRITCH LADIES【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=YYV6-QoVWgg
-DURATION:PT2H
-DTSTART:20220314T140000Z
-SUMMARY:Reine: 【Sucker for Love: First Date】READY FOR ELDRITCH LADIES【Pavolia Reine/hololiveID 2nd gen】
-UID:YYV6-QoVWgg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#iofi_QnAE Original Songs Freetalk +Risu +Moona\nhttps://www.youtube.com/watch?v=ueMQzq_13oI
-DURATION:PT2H
-DTSTART:20220314T130000Z
-SUMMARY:🎨Iofi: #iofi_QnAE Original Songs Freetalk +Risu +Moona
-UID:ueMQzq_13oI
 END:VEVENT
 END:VCALENDAR
