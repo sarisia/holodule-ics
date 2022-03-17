@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Sea of Thieves】What if Area15 meet Holoro on SoT?!【Moona】\nhttps://www.youtube.com/watch?v=xv9hEyE-KwU
+DURATION:PT2H
+DTSTART:20220316T130000Z
+SUMMARY:🔮Moona: 【Sea of Thieves】What if Area15 meet Holoro on SoT?!【Moona】
+UID:xv9hEyE-KwU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Vampire Survivors】SELF-IMPOSED CHALLENGES【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=kE8RC7RV_9Y
+DURATION:PT2H
+DTSTART:20220317T073000Z
+SUMMARY:Reine: 【Vampire Survivors】SELF-IMPOSED CHALLENGES【Pavolia Reine/hololiveID 2nd gen】
+UID:kE8RC7RV_9Y
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【SEA OF THIEVES】HOPING THIS WORKS【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=1SVhEGHcURs
 DURATION:PT2H
 DTSTART:20220316T131952Z
@@ -11,11 +25,11 @@ SUMMARY:Ollie: 【SEA OF THIEVES】HOPING THIS WORKS【Hololive ID 2nd Gen】
 UID:1SVhEGHcURs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX LEGENDS】WE WILL RANK UP!! ... TO SILVER!! HECK YEAH!!【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=xRh5fW7sgek
+DESCRIPTION:【ELDEN RING】AHHHHHHHHHHHHH (spoiler warning)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=jEnBc077iaQ
 DURATION:PT2H
-DTSTART:20220317T082758Z
-SUMMARY:Ollie: 【APEX LEGENDS】WE WILL RANK UP!! ... TO SILVER!! HECK YEAH!!【Hololive ID 2nd Gen】
-UID:xRh5fW7sgek
+DTSTART:20220316T040000Z
+SUMMARY:Reine: 【ELDEN RING】AHHHHHHHHHHHHH (spoiler warning)【Pavolia Reine/hololiveID 2nd gen】
+UID:jEnBc077iaQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Sea of Thieves】So do we become thieves or pirates?【hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=9-ACYK_X1jk
@@ -23,13 +37,6 @@ DURATION:PT2H
 DTSTART:20220316T130000Z
 SUMMARY:Anya: 【Sea of Thieves】So do we become thieves or pirates?【hololive ID 2nd Generation】
 UID:9-ACYK_X1jk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX LEGENDS】WE WILL RANK UP!! ... TO SILVER!! HECK YEAH!!【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=u6lngg6DrJg
-DURATION:PT2H
-DTSTART:20220317T083248Z
-SUMMARY:Ollie: 【APEX LEGENDS】WE WILL RANK UP!! ... TO SILVER!! HECK YEAH!!【Hololive ID 2nd Gen】
-UID:u6lngg6DrJg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Sea of Thieves】Time to make alliance! 【iofi / ホロライブID】\nhttps://www.youtube.com/watch?v=l4ltkIPweac
@@ -44,26 +51,5 @@ DURATION:PT2H
 DTSTART:20220316T130000Z
 SUMMARY:🐿Risu: 【Sea Of Thieves】C'MON PIRATES ~!!! WE'RE GONNA SAIL AGAIN ~!!!【Ayunda Risu】
 UID:myA2zQglv3w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Sea of Thieves】What if Area15 meet Holoro on SoT?!【Moona】\nhttps://www.youtube.com/watch?v=xv9hEyE-KwU
-DURATION:PT2H
-DTSTART:20220316T130000Z
-SUMMARY:🔮Moona: 【Sea of Thieves】What if Area15 meet Holoro on SoT?!【Moona】
-UID:xv9hEyE-KwU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING】AHHHHHHHHHHHHH (spoiler warning)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=jEnBc077iaQ
-DURATION:PT2H
-DTSTART:20220316T040000Z
-SUMMARY:Reine: 【ELDEN RING】AHHHHHHHHHHHHH (spoiler warning)【Pavolia Reine/hololiveID 2nd gen】
-UID:jEnBc077iaQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Vampire Survivors】SELF-IMPOSED CHALLENGES【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=kE8RC7RV_9Y
-DURATION:PT2H
-DTSTART:20220317T073000Z
-SUMMARY:Reine: 【Vampire Survivors】SELF-IMPOSED CHALLENGES【Pavolia Reine/hololiveID 2nd gen】
-UID:kE8RC7RV_9Y
 END:VEVENT
 END:VCALENDAR
