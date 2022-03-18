@@ -4,62 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【SPONGEBOB: BATTLE FOR BIKINI BOTTOM】Meyohimeyoi\nhttps://www.youtube.com/watch?v=z4Pi9fQhctQ
-DURATION:PT2H
-DTSTART:20220317T021018Z
-SUMMARY:Mumei: 【SPONGEBOB: BATTLE FOR BIKINI BOTTOM】Meyohimeyoi
-UID:z4Pi9fQhctQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【KFP DANCE SCHOOL】MYTH GET DOWN ON THE DANCEFLOOR #kfp #キアライブ\nhttps://www.youtube.com/watch?v=ZYg0VmLfvBo
-DURATION:PT2H
-DTSTART:20220316T211500Z
-SUMMARY:Kiara: 【KFP DANCE SCHOOL】MYTH GET DOWN ON THE DANCEFLOOR #kfp #キアライブ
-UID:ZYg0VmLfvBo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING】I want to gud git [Spoiler Alert]\nhttps://www.youtube.com/watch?v=T1XsV7rLJyM
-DURATION:PT2H
-DTSTART:20220317T025001Z
-SUMMARY:IRyS: 【ELDEN RING】I want to gud git [Spoiler Alert]
-UID:T1XsV7rLJyM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【YAKUZA 0】Hold my beer Majima\, KIRYU IS BACK - SPOILER ALERT #kfp #キアライブ\nhttps://www.youtube.com/watch?v=2nDYW3fxSig
-DURATION:PT2H
-DTSTART:20220318T140000Z
-SUMMARY:Kiara: 【YAKUZA 0】Hold my beer Majima\, KIRYU IS BACK - SPOILER ALERT #kfp #キアライブ
-UID:2nDYW3fxSig
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Supa Reading!】 Let's chat and catch up!\nhttps://www.youtube.com/watch?v=4lpHV4Co8-4
-DURATION:PT2H
-DTSTART:20220317T020000Z
-SUMMARY:Fauna: 【Supa Reading!】 Let's chat and catch up!
-UID:4lpHV4Co8-4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BIG ANNOUNCEMENT】Revealing Huge News...and Then Chatting!\nhttps://www.youtube.com/watch?v=b8qAi0AfK9U
-DURATION:PT2H
-DTSTART:20220318T120119Z
-SUMMARY:Calli: 【BIG ANNOUNCEMENT】Revealing Huge News...and Then Chatting!
-UID:b8qAi0AfK9U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Elden Ring】 Oh What a Day\, What a Festive Day 【SPOILER WARNING】【#8】\nhttps://www.youtube.com/watch?v=vdqqlomV22U
-DURATION:PT2H
-DTSTART:20220317T210000Z
-SUMMARY:Ina: 【Elden Ring】 Oh What a Day\, What a Festive Day 【SPOILER WARNING】【#8】
-UID:vdqqlomV22U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Powerwash Simulator】Brace Yourself\, Filth\nhttps://www.youtube.com/watch?v=kay32mA4eUc
-DURATION:PT2H
-DTSTART:20220317T030000Z
-SUMMARY:Kronii: 【Powerwash Simulator】Brace Yourself\, Filth
-UID:kay32mA4eUc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Mother Simulator】lets eat!\nhttps://www.youtube.com/watch?v=tFMab8RJH2U
 DURATION:PT2H
 DTSTART:20220318T000304Z
@@ -74,11 +18,18 @@ SUMMARY:Mumei: 【GETTING OVER IT】Over What
 UID:IvnWdt6Gp3A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING #07】I Am An Addict Ring. 【SPOILER WARNING】\nhttps://www.youtube.com/watch?v=egOx3-Zxfhc
+DESCRIPTION:【YAKUZA 0】Hold my beer Majima\, KIRYU IS BACK - SPOILER ALERT #kfp #キアライブ\nhttps://www.youtube.com/watch?v=2nDYW3fxSig
 DURATION:PT2H
-DTSTART:20220317T131516Z
-SUMMARY:Calli: 【ELDEN RING #07】I Am An Addict Ring. 【SPOILER WARNING】
-UID:egOx3-Zxfhc
+DTSTART:20220318T140000Z
+SUMMARY:Kiara: 【YAKUZA 0】Hold my beer Majima\, KIRYU IS BACK - SPOILER ALERT #kfp #キアライブ
+UID:2nDYW3fxSig
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【BIG ANNOUNCEMENT】Revealing Huge News...and Then Chatting!\nhttps://www.youtube.com/watch?v=b8qAi0AfK9U
+DURATION:PT2H
+DTSTART:20220318T120119Z
+SUMMARY:Calli: 【BIG ANNOUNCEMENT】Revealing Huge News...and Then Chatting!
+UID:b8qAi0AfK9U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Elden Ring】 What A Thrill 【SPOILER WARNING】\nhttps://www.youtube.com/watch?v=qsEBRLhKXRU
@@ -86,5 +37,12 @@ DURATION:PT2H
 DTSTART:20220318T030000Z
 SUMMARY:Kronii: 【Elden Ring】 What A Thrill 【SPOILER WARNING】
 UID:qsEBRLhKXRU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Elden Ring】 Oh What a Day\, What a Festive Day 【SPOILER WARNING】【#8】\nhttps://www.youtube.com/watch?v=vdqqlomV22U
+DURATION:PT2H
+DTSTART:20220317T210000Z
+SUMMARY:Ina: 【Elden Ring】 Oh What a Day\, What a Festive Day 【SPOILER WARNING】【#8】
+UID:vdqqlomV22U
 END:VEVENT
 END:VCALENDAR
