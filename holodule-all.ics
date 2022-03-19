@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#つながるホロライブ】LIVE・イベント 一味の感想応援場【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=C7JlM4txcZs
+DURATION:PT2H
+DTSTART:20220320T130000Z
+SUMMARY:🏴☠宝鐘マリン: 【#つながるホロライブ】LIVE・イベント 一味の感想応援場【ホロライブ/宝鐘マリン】
+UID:C7JlM4txcZs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【3rd Fes Watchalong】LINK YOUR WISH DAY 1 WHOOOOOO #kfp #キアライブ #つながるホロライブDAY1\nhttps://www.youtube.com/watch?v=GiSwoX1K9x8
 DURATION:PT2H
 DTSTART:20220319T073000Z
@@ -163,13 +170,6 @@ DURATION:PT2H
 DTSTART:20220318T090000Z
 SUMMARY:博衣こより: 【ELDEN RING】#01 初フロムゲー！アクションへたっぴでも王になれ…る？【博衣こより/ホロライブ】※ネタバレあり
 UID:IGpMCnArAYM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING #04】ライブ時間までにストームヴィル城を抜けろ！【鷹嶺ルイ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=B739RIazeLU
-DURATION:PT2H
-DTSTART:20220319T030000Z
-SUMMARY:鷹嶺ルイ: 【ELDEN RING #04】ライブ時間までにストームヴィル城を抜けろ！【鷹嶺ルイ/ホロライブ】※ネタバレあり
-UID:B739RIazeLU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PowerWash Simulator】睡眠導入…沢山お話しながら汚れを落とす！！！！【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=0bHy1IZov_Q
