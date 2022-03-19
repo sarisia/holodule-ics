@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:Smol Adventures: Link Your Wish!\nhttps://www.youtube.com/watch?v=ZyuAdljyvoc
+DESCRIPTION:【3rd Fes Watchalong】LINK YOUR WISH DAY 1 WHOOOOOO #kfp #キアライブ #つながるホロライブDAY1\nhttps://www.youtube.com/watch?v=GiSwoX1K9x8
 DURATION:PT2H
-DTSTART:20220319T034500Z
-SUMMARY:Amelia: Smol Adventures: Link Your Wish!
-UID:ZyuAdljyvoc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Mother Simulator】lets eat!\nhttps://www.youtube.com/watch?v=tFMab8RJH2U
-DURATION:PT2H
-DTSTART:20220318T000304Z
-SUMMARY:Gura: 【Mother Simulator】lets eat!
-UID:tFMab8RJH2U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【GETTING OVER IT】Over What\nhttps://www.youtube.com/watch?v=IvnWdt6Gp3A
-DURATION:PT2H
-DTSTART:20220318T022050Z
-SUMMARY:Mumei: 【GETTING OVER IT】Over What
-UID:IvnWdt6Gp3A
+DTSTART:20220319T073000Z
+SUMMARY:Kiara: 【3rd Fes Watchalong】LINK YOUR WISH DAY 1 WHOOOOOO #kfp #キアライブ #つながるホロライブDAY1
+UID:GiSwoX1K9x8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【YAKUZA 0】Hold my beer Majima\, KIRYU IS BACK - SPOILER ALERT #kfp #キアライブ\nhttps://www.youtube.com/watch?v=2nDYW3fxSig
@@ -39,6 +25,27 @@ SUMMARY:Calli: 【BIG ANNOUNCEMENT】Revealing Huge News...and Then Chatting!
 UID:b8qAi0AfK9U
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Elden Ring】 Oh What a Day\, What a Festive Day 【SPOILER WARNING】【#8】\nhttps://www.youtube.com/watch?v=vdqqlomV22U
+DURATION:PT2H
+DTSTART:20220317T210000Z
+SUMMARY:Ina: 【Elden Ring】 Oh What a Day\, What a Festive Day 【SPOILER WARNING】【#8】
+UID:vdqqlomV22U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Mother Simulator】lets eat!\nhttps://www.youtube.com/watch?v=tFMab8RJH2U
+DURATION:PT2H
+DTSTART:20220318T000304Z
+SUMMARY:Gura: 【Mother Simulator】lets eat!
+UID:tFMab8RJH2U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【GETTING OVER IT】Over What\nhttps://www.youtube.com/watch?v=IvnWdt6Gp3A
+DURATION:PT2H
+DTSTART:20220318T022050Z
+SUMMARY:Mumei: 【GETTING OVER IT】Over What
+UID:IvnWdt6Gp3A
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Elden Ring】 What A Thrill 【SPOILER WARNING】\nhttps://www.youtube.com/watch?v=qsEBRLhKXRU
 DURATION:PT2H
 DTSTART:20220318T030000Z
@@ -46,10 +53,10 @@ SUMMARY:Kronii: 【Elden Ring】 What A Thrill 【SPOILER WARNING】
 UID:qsEBRLhKXRU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Elden Ring】 Oh What a Day\, What a Festive Day 【SPOILER WARNING】【#8】\nhttps://www.youtube.com/watch?v=vdqqlomV22U
+DESCRIPTION:Smol Adventures: Link Your Wish!\nhttps://www.youtube.com/watch?v=ZyuAdljyvoc
 DURATION:PT2H
-DTSTART:20220317T210000Z
-SUMMARY:Ina: 【Elden Ring】 Oh What a Day\, What a Festive Day 【SPOILER WARNING】【#8】
-UID:vdqqlomV22U
+DTSTART:20220319T034500Z
+SUMMARY:Amelia: Smol Adventures: Link Your Wish!
+UID:ZyuAdljyvoc
 END:VEVENT
 END:VCALENDAR
