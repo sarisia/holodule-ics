@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#つながるホロライブDAY2】holoXとhololive 3rd fes. Link Your Wish同時視聴【ラプラス・ダークネス/鷹嶺ルイ/博衣こより/沙花叉クロヱ/風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=uG1Vt158bfo
+DURATION:PT2H
+DTSTART:20220320T074528Z
+SUMMARY:鷹嶺ルイ: 【#つながるホロライブDAY2】holoXとhololive 3rd fes. Link Your Wish同時視聴【ラプラス・ダークネス/鷹嶺ルイ/博衣こより/沙花叉クロヱ/風真いろは/ホロライブ】
+UID:uG1Vt158bfo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#つながるホロライブ】LIVEで新曲をお披露目しちゃった///【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=C7JlM4txcZs
 DURATION:PT2H
 DTSTART:20220320T130000Z
@@ -16,13 +23,6 @@ DURATION:PT2H
 DTSTART:20220320T021500Z
 SUMMARY:ホロスターズ: 【#つながるホロライブDAY2】「わちゃスタ」出張版『一致団結！プレッシャーホロスターズ！』
 UID:zRDDJDv3Dqk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Hololive 3rd Fes. Link Your Wish - DAY 1 WATCHALONG】GET YOUR LIGHTSTICKS OUT!!【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=ySfXG9AsXVc
-DURATION:PT2H
-DTSTART:20220319T072529Z
-SUMMARY:Ollie: 【Hololive 3rd Fes. Link Your Wish - DAY 1 WATCHALONG】GET YOUR LIGHTSTICKS OUT!!【Hololive ID 2nd Gen】
-UID:ySfXG9AsXVc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Hololive 3rd Fes. Link Your Wish - DAY 2 WATCHALONG】THE HYPE DOESN'T STOP!!【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=ZHkGrASHlt4
@@ -39,214 +39,18 @@ SUMMARY:ホロライブ: 【#つながるホロライブDAY2】hololive 3rd fes.
 UID:LgyXzn0k0MA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Vampire Survivors】sleepy guerrilla just for an hour i promise【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=YmdebQMDNoc
-DURATION:PT2H
-DTSTART:20220318T161500Z
-SUMMARY:Reine: 【Vampire Survivors】sleepy guerrilla just for an hour i promise【Pavolia Reine/hololiveID 2nd gen】
-UID:YmdebQMDNoc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【リングフィットアドベンチャー】負荷最大で #つながるホロライブDAY2 勝手に成功祈願！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=qP-qZGLS7PI
-DURATION:PT2H
-DTSTART:20220320T000000Z
-SUMMARY:博衣こより: 【リングフィットアドベンチャー】負荷最大で #つながるホロライブDAY2 勝手に成功祈願！【博衣こより/ホロライブ】
-UID:qP-qZGLS7PI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【TALK】#つながるホロライブDAY1 感想と生誕祭・同時視聴枠のSuperChat御礼！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=DHIR3UFWPVg
-DURATION:PT2H
-DTSTART:20220319T130000Z
-SUMMARY:博衣こより: 【TALK】#つながるホロライブDAY1 感想と生誕祭・同時視聴枠のSuperChat御礼！【博衣こより/ホロライブ】
-UID:DHIR3UFWPVg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#つながるホロライブDAY1】hololive SUPER EXPO 2022 イベントステージ\nhttps://www.youtube.com/watch?v=mmXtTru8g8E
-DURATION:PT2H
-DTSTART:20220319T010000Z
-SUMMARY:ホロライブ: 【#つながるホロライブDAY1】hololive SUPER EXPO 2022 イベントステージ
-UID:mmXtTru8g8E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪Cyberpunk 2077≫  oh?? #1\nhttps://www.youtube.com/watch?v=9WFPm9k-GWw
-DURATION:PT2H
-DTSTART:20220321T010000Z
-SUMMARY:Baelz: ≪Cyberpunk 2077≫  oh?? #1
-UID:9WFPm9k-GWw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【LINK YOUR WISH】Hololive 3rd Fes.DAY１ 同時視聴【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=VbckQWrIuSg
-DURATION:PT2H
-DTSTART:20220319T075051Z
-SUMMARY:荒咬オウガ: 【LINK YOUR WISH】Hololive 3rd Fes.DAY１ 同時視聴【荒咬オウガ/ホロスターズ】
-UID:VbckQWrIuSg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#つながるホロライブDAY2】ライブ当日だよ！≪ FREE CHAT ≫ | hololive 3rd fes. Link Your Wish【#アキロゼ】\nhttps://www.youtube.com/watch?v=9cKccXjer44
-DURATION:PT2H
-DTSTART:20220320T141500Z
-SUMMARY:🍎アキロゼ: 【#つながるホロライブDAY2】ライブ当日だよ！≪ FREE CHAT ≫ | hololive 3rd fes. Link Your Wish【#アキロゼ】
-UID:9cKccXjer44
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【リスナー参加型】マリオカート8DX追加コースを遊ぶぞー!!【花咲みやび/岸堂天真/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=DeLbfxncrIk
-DURATION:PT2H
-DTSTART:20220319T120000Z
-SUMMARY:🌺花咲みやび: 【リスナー参加型】マリオカート8DX追加コースを遊ぶぞー!!【花咲みやび/岸堂天真/アルランディス/ホロスターズ】
-UID:DeLbfxncrIk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DEATH STRANDING】So... No More Delivery?【hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=4Uh0GbuHYLU
-DURATION:PT2H
-DTSTART:20220319T140000Z
-SUMMARY:Anya: 【DEATH STRANDING】So... No More Delivery?【hololive ID 2nd Generation】
-UID:4Uh0GbuHYLU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【LINK YOUR WISH】Hololive 3rd Fes.DAY2 同時視聴【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=sYBIYiOFlm0
-DURATION:PT2H
-DTSTART:20220320T075032Z
-SUMMARY:荒咬オウガ: 【LINK YOUR WISH】Hololive 3rd Fes.DAY2 同時視聴【荒咬オウガ/ホロスターズ】
-UID:sYBIYiOFlm0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ひざプルプル】組体操をするアイドル…！【 #つながるホロライブ 】#Shorts\nhttps://www.youtube.com/watch?v=Qqv-xvUlZj8
-DURATION:PT2H
-DTSTART:20220320T024321Z
-SUMMARY:ホロスターズ: 【ひざプルプル】組体操をするアイドル…！【 #つながるホロライブ 】#Shorts
-UID:Qqv-xvUlZj8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING #04】ライブ時間までにストームヴィル城を抜けろ！【鷹嶺ルイ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=B739RIazeLU
-DURATION:PT2H
-DTSTART:20220319T030000Z
-SUMMARY:鷹嶺ルイ: 【ELDEN RING #04】ライブ時間までにストームヴィル城を抜けろ！【鷹嶺ルイ/ホロライブ】※ネタバレあり
-UID:B739RIazeLU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【3rd fes楽しもー！】わためぇが笑顔で帰ってくる場所【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=NHoTNBQg_qU
-DURATION:PT2H
-DTSTART:20220320T140000Z
-SUMMARY:🐏角巻わため: 【3rd fes楽しもー！】わためぇが笑顔で帰ってくる場所【角巻わため/ホロライブ４期生】
-UID:NHoTNBQg_qU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ホロライブ3rd Fes.　夏色まつり応援スレ#1\nhttps://www.youtube.com/watch?v=CLMB8NrIqDs
-DURATION:PT2H
-DTSTART:20220321T130000Z
-SUMMARY:🏮夏色まつり: ホロライブ3rd Fes.　夏色まつり応援スレ#1
-UID:CLMB8NrIqDs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Universe Sandbox】I will destroy gravity\nhttps://www.youtube.com/watch?v=ahHpBE-j9BY
-DURATION:PT2H
-DTSTART:20220320T180000Z
-SUMMARY:Sana: 【Universe Sandbox】I will destroy gravity
-UID:ahHpBE-j9BY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#つながるホロライブDAY2】hololive SUPER EXPO 2022 イベントステージ\nhttps://www.youtube.com/watch?v=TtB0GZLum1w
-DURATION:PT2H
-DTSTART:20220320T010000Z
-SUMMARY:ホロライブ: 【#つながるホロライブDAY2】hololive SUPER EXPO 2022 イベントステージ
-UID:TtB0GZLum1w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#つながるホロライブ】おつかれさま～！みんなと繋がれた配信【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=HJfS8ap3Dcs
-DURATION:PT2H
-DTSTART:20220320T140052Z
-SUMMARY:獅白ぼたん: 【#つながるホロライブ】おつかれさま～！みんなと繋がれた配信【獅白ぼたん/ホロライブ】
-UID:HJfS8ap3Dcs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】#つながるホロライブDAY2 おつかれさまでござる✨【風真いろは/ホロライブ6期生】\nhttps://www.youtube.com/watch?v=q6IRdf8wEIY
-DURATION:PT2H
-DTSTART:20220320T140000Z
-SUMMARY:風真いろは: 【歌枠】#つながるホロライブDAY2 おつかれさまでござる✨【風真いろは/ホロライブ6期生】
-UID:q6IRdf8wEIY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】はじめようぜ…俺たちのフェスを【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=wEeOuxLEa6Q
-DURATION:PT2H
-DTSTART:20220318T150000Z
-SUMMARY:荒咬オウガ: 【雑談】はじめようぜ…俺たちのフェスを【荒咬オウガ/ホロスターズ】
-UID:wEeOuxLEa6Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#つながるホロライブDAY1】hololive 3rd fes. Link Your Wish【チラ見せ】\nhttps://www.youtube.com/watch?v=zkXvWvTX_BE
-DURATION:PT2H
-DTSTART:20220319T070000Z
-SUMMARY:ホロライブ: 【#つながるホロライブDAY1】hololive 3rd fes. Link Your Wish【チラ見せ】
-UID:zkXvWvTX_BE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #つながるホロライブ 】ねねはアイドルになれてた？✨【 桃鈴ねね  / ホロライブ 】\nhttps://www.youtube.com/watch?v=8aMxZGE7yIE
-DURATION:PT2H
-DTSTART:20220320T130000Z
-SUMMARY:桃鈴ねね: 【 #つながるホロライブ 】ねねはアイドルになれてた？✨【 桃鈴ねね  / ホロライブ 】
-UID:8aMxZGE7yIE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mumei Draws HOLOLIVE\nhttps://www.youtube.com/watch?v=2eQKb3YCfSc
-DURATION:PT2H
-DTSTART:20220321T010000Z
-SUMMARY:Mumei: Mumei Draws HOLOLIVE
-UID:2eQKb3YCfSc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING】1デス腹筋3回縛り！リボ払いを覚えた#2【沙花叉クロヱ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=8QMWKbIr5sw
-DURATION:PT2H
-DTSTART:20220319T130000Z
-SUMMARY:沙花叉クロヱ: 【ELDEN RING】1デス腹筋3回縛り！リボ払いを覚えた#2【沙花叉クロヱ/ホロライブ】※ネタバレあり
-UID:8QMWKbIr5sw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#つながるホロライブ】復活！！！ライブ！！大会！！話すぞ！【ホロライブ/常闇トワ】\nhttps://www.youtube.com/watch?v=QGderD9upfo
-DURATION:PT2H
-DTSTART:20220320T130000Z
-SUMMARY:👾常闇トワ: 【#つながるホロライブ】復活！！！ライブ！！大会！！話すぞ！【ホロライブ/常闇トワ】
-UID:QGderD9upfo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アニメ】あたしゃ止めたんだけどねぇ\nhttps://www.youtube.com/watch?v=vaKSDxyIcj8
-DURATION:PT2H
-DTSTART:20220320T070014Z
-SUMMARY:ホロライブ: 【アニメ】あたしゃ止めたんだけどねぇ
-UID:vaKSDxyIcj8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Smol Adventures: Link Your Wish!\nhttps://www.youtube.com/watch?v=ZyuAdljyvoc
-DURATION:PT2H
-DTSTART:20220319T034500Z
-SUMMARY:Amelia: Smol Adventures: Link Your Wish!
-UID:ZyuAdljyvoc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#つながるホロライブDAY2】holoXとhololive 3rd fes. Link Your Wish同時視聴【ラプラス・ダークネス/鷹嶺ルイ/博衣こより/沙花叉クロヱ/風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=uG1Vt158bfo
-DURATION:PT2H
-DTSTART:20220320T074528Z
-SUMMARY:鷹嶺ルイ: 【#つながるホロライブDAY2】holoXとhololive 3rd fes. Link Your Wish同時視聴【ラプラス・ダークネス/鷹嶺ルイ/博衣こより/沙花叉クロヱ/風真いろは/ホロライブ】
-UID:uG1Vt158bfo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【3rd Fes Watchalong】LINK YOUR WISH DAY 1 WHOOOOOO #kfp #キアライブ #つながるホロライブDAY1\nhttps://www.youtube.com/watch?v=GiSwoX1K9x8
-DURATION:PT2H
-DTSTART:20220319T073000Z
-SUMMARY:Kiara: 【3rd Fes Watchalong】LINK YOUR WISH DAY 1 WHOOOOOO #kfp #キアライブ #つながるホロライブDAY1
-UID:GiSwoX1K9x8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】本当にいた!?!?妖怪山ナクシの生態に迫る!!!【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=r3kQ2RySFMQ
-DURATION:PT2H
-DTSTART:20220318T153000Z
-SUMMARY:🍕アルランディス: 【Minecraft】本当にいた!?!?妖怪山ナクシの生態に迫る!!!【アルランディス/ホロスターズ】
-UID:r3kQ2RySFMQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:3rd fes最高だった！！！！！！！！！！！！【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=yydLvFXNKtg
 DURATION:PT2H
 DTSTART:20220320T130000Z
 SUMMARY:☄星街すいせい: 3rd fes最高だった！！！！！！！！！！！！【ホロライブ / 星街すいせい】
 UID:yydLvFXNKtg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Free Chat】3rd fes！楽しもう！【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=nDHza2EdV7g
+DURATION:PT2H
+DTSTART:20220322T140000Z
+SUMMARY:🔥不知火フレア: 【Free Chat】3rd fes！楽しもう！【ホロライブ/不知火フレア】
+UID:nDHza2EdV7g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【1st Full Album】“UnAlive” Calliope Mori Releasing 3.21.2022\nhttps://www.youtube.com/watch?v=4SssgZg8rpY
@@ -256,11 +60,11 @@ SUMMARY:Calli: 【1st Full Album】“UnAlive” Calliope Mori Releasing 3.21.20
 UID:4SssgZg8rpY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】#つながるホロライブDAY1 のタグをみながら雑談するでござる✨【風真いろは/ホロライブ6期生】\nhttps://www.youtube.com/watch?v=XWfKsEUikT0
+DESCRIPTION:【リングフィットアドベンチャー】負荷最大で #つながるホロライブDAY2 勝手に成功祈願！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=qP-qZGLS7PI
 DURATION:PT2H
-DTSTART:20220319T140000Z
-SUMMARY:風真いろは: 【雑談】#つながるホロライブDAY1 のタグをみながら雑談するでござる✨【風真いろは/ホロライブ6期生】
-UID:XWfKsEUikT0
+DTSTART:20220320T000000Z
+SUMMARY:博衣こより: 【リングフィットアドベンチャー】負荷最大で #つながるホロライブDAY2 勝手に成功祈願！【博衣こより/ホロライブ】
+UID:qP-qZGLS7PI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【3D MV】「UnAlive」- Calliope Mori (Original Song)\nhttps://www.youtube.com/watch?v=HSC3BheJuhU
@@ -270,18 +74,18 @@ SUMMARY:Calli: 【3D MV】「UnAlive」- Calliope Mori (Original Song)
 UID:HSC3BheJuhU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#つながるホロライブDAY1 】hololive 3rd fes. ただいま！！！ありがとうございました！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=1WNKLqBAZdo
+DESCRIPTION:≪Cyberpunk 2077≫  oh?? #1\nhttps://www.youtube.com/watch?v=9WFPm9k-GWw
 DURATION:PT2H
-DTSTART:20220319T133000Z
-SUMMARY:🌸さくらみこ: 【#つながるホロライブDAY1 】hololive 3rd fes. ただいま！！！ありがとうございました！！【ホロライブ/さくらみこ】
-UID:1WNKLqBAZdo
+DTSTART:20220321T010000Z
+SUMMARY:Baelz: ≪Cyberpunk 2077≫  oh?? #1
+UID:9WFPm9k-GWw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#つながるホロライブDAY1】お疲れ様！みんなありがとう！！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=Nee7gzI4wpk
+DESCRIPTION:【#つながるホロライブDAY2】ライブ当日だよ！≪ FREE CHAT ≫ | hololive 3rd fes. Link Your Wish【#アキロゼ】\nhttps://www.youtube.com/watch?v=9cKccXjer44
 DURATION:PT2H
-DTSTART:20220319T133056Z
-SUMMARY:🌽白上フブキ: 【#つながるホロライブDAY1】お疲れ様！みんなありがとう！！【ホロライブ/白上フブキ】
-UID:Nee7gzI4wpk
+DTSTART:20220320T141500Z
+SUMMARY:🍎アキロゼ: 【#つながるホロライブDAY2】ライブ当日だよ！≪ FREE CHAT ≫ | hololive 3rd fes. Link Your Wish【#アキロゼ】
+UID:9cKccXjer44
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】鼻の出が過去最高に良いのですわよ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=1tU6jgxPDfU
@@ -298,32 +102,11 @@ SUMMARY:🚑大空スバル: 【#生スバル】おはすば！スバル：FREE 
 UID:cYFfCrDo854
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【乾杯しよ！】サードフェスお疲れさま会！みんなありがとう！！【ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=2CnneniMCZI
+DESCRIPTION:【LINK YOUR WISH】Hololive 3rd Fes.DAY2 同時視聴【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=sYBIYiOFlm0
 DURATION:PT2H
-DTSTART:20220320T140000Z
-SUMMARY:🌲大神ミオ: 【乾杯しよ！】サードフェスお疲れさま会！みんなありがとう！！【ホロライブ/大神ミオ】
-UID:2CnneniMCZI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#つながるホロライブDAY1】「わちゃスタ」出張版『ホロスターズ✕YAGOO　本音対談！』\nhttps://www.youtube.com/watch?v=hG9EjmQhliY
-DURATION:PT2H
-DTSTART:20220319T030000Z
-SUMMARY:ホロスターズ: 【#つながるホロライブDAY1】「わちゃスタ」出張版『ホロスターズ✕YAGOO　本音対談！』
-UID:hG9EjmQhliY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#つながるホロライブ】ライブ感想会！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=0i_S6UITNnE
-DURATION:PT2H
-DTSTART:20220319T133000Z
-SUMMARY:🏮夏色まつり: 【#つながるホロライブ】ライブ感想会！【ホロライブ/夏色まつり】
-UID:0i_S6UITNnE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【リスナー参加型】マリオカート8デラックスの追加コースを遊ぶゆるスタ【花咲みやび/岸堂天真/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=xF4vVMvoy6s
-DURATION:PT2H
-DTSTART:20220319T120000Z
-SUMMARY:🍕アルランディス: 【リスナー参加型】マリオカート8デラックスの追加コースを遊ぶゆるスタ【花咲みやび/岸堂天真/アルランディス/ホロスターズ】
-UID:xF4vVMvoy6s
+DTSTART:20220320T075032Z
+SUMMARY:荒咬オウガ: 【LINK YOUR WISH】Hololive 3rd Fes.DAY2 同時視聴【荒咬オウガ/ホロスターズ】
+UID:sYBIYiOFlm0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:hololive 3rd fes. Link Your Wish　DAY2　うるさい応援枠【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=B6M5-VfcRH4
@@ -331,6 +114,13 @@ DURATION:PT2H
 DTSTART:20220320T074500Z
 SUMMARY:🌽白上フブキ: hololive 3rd fes. Link Your Wish　DAY2　うるさい応援枠【ホロライブ/白上フブキ】
 UID:B6M5-VfcRH4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ひざプルプル】組体操をするアイドル…！【 #つながるホロライブ 】#Shorts\nhttps://www.youtube.com/watch?v=Qqv-xvUlZj8
+DURATION:PT2H
+DTSTART:20220320T024321Z
+SUMMARY:ホロスターズ: 【ひざプルプル】組体操をするアイドル…！【 #つながるホロライブ 】#Shorts
+UID:Qqv-xvUlZj8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FreeChat】Hololive 3rd Fes.DAY2🌟ライブ応援してね！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=1cAQlSFC2-U
@@ -368,32 +158,18 @@ SUMMARY:🚑大空スバル: 【#生スバル】完全初見のCLANNAD同時試�
 UID:E9VAkJTaLPE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【3rd fes楽しもー！】わためぇが笑顔で帰ってくる場所【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=NHoTNBQg_qU
+DURATION:PT2H
+DTSTART:20220320T140000Z
+SUMMARY:🐏角巻わため: 【3rd fes楽しもー！】わためぇが笑顔で帰ってくる場所【角巻わため/ホロライブ４期生】
+UID:NHoTNBQg_qU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【FreeChat／応援枠】期間限定！イベント＆ライブ応援チャット🌟ノエちゃん頑張るね💪💕【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=zWE2C_Q9GeM
 DURATION:PT2H
 DTSTART:20220321T100000Z
 SUMMARY:⚔白銀ノエル: 【FreeChat／応援枠】期間限定！イベント＆ライブ応援チャット🌟ノエちゃん頑張るね💪💕【白銀ノエル/ホロライブ】
 UID:zWE2C_Q9GeM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【同時視聴】Hololive 3rd Fes.DAY１🌟一緒に見よう～！！！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=ml9yNVS6VIA
-DURATION:PT2H
-DTSTART:20220319T074500Z
-SUMMARY:🌟夜空メル: 【同時視聴】Hololive 3rd Fes.DAY１🌟一緒に見よう～！！！【ホロライブ/夜空メル】
-UID:ml9yNVS6VIA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】新コース！1位獲って勝手にライブ成功祈願！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=_VUMkQ4ac14
-DURATION:PT2H
-DTSTART:20220319T000000Z
-SUMMARY:博衣こより: 【マリオカート8DX】新コース！1位獲って勝手にライブ成功祈願！！【博衣こより/ホロライブ】
-UID:_VUMkQ4ac14
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#つながるホロライブDAY1】holoXとhololive 3rd fes. Link Your Wish同時視聴【ラプラス・ダークネス/鷹嶺ルイ/博衣こより/沙花叉クロヱ/風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=EhH3Boy9OfE
-DURATION:PT2H
-DTSTART:20220319T074500Z
-SUMMARY:博衣こより: 【#つながるホロライブDAY1】holoXとhololive 3rd fes. Link Your Wish同時視聴【ラプラス・ダークネス/鷹嶺ルイ/博衣こより/沙花叉クロヱ/風真いろは/ホロライブ】
-UID:EhH3Boy9OfE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ホワイトデー衣装2.0お披露目＆カカオ豆からチョコ試食会【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=FirmoHuT7xs
@@ -403,13 +179,6 @@ SUMMARY:🌺花咲みやび: ホワイトデー衣装2.0お披露目＆カカオ
 UID:FirmoHuT7xs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マリカ】ゆるスタでマリオカート新コース！格の違いを見せます。【ゆるスタ/ホロスターズ】\nhttps://www.youtube.com/watch?v=4ND5hyA3zgY
-DURATION:PT2H
-DTSTART:20220319T120000Z
-SUMMARY:🦔💨岸堂天真: 【マリカ】ゆるスタでマリオカート新コース！格の違いを見せます。【ゆるスタ/ホロスターズ】
-UID:4ND5hyA3zgY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠】ライブで高まった気持ちを歌に込めます！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=PHyU5tZy3nE
 DURATION:PT2H
 DTSTART:20220320T130000Z
@@ -417,11 +186,18 @@ SUMMARY:沙花叉クロヱ: 【歌枠】ライブで高まった気持ちを歌�
 UID:PHyU5tZy3nE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【晩酌】3rd Fes＆EXPOお疲れ様！感想晩酌【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=hDCdPCXMrsw
+DESCRIPTION:ホロライブ3rd Fes.　夏色まつり応援スレ#1\nhttps://www.youtube.com/watch?v=CLMB8NrIqDs
 DURATION:PT2H
 DTSTART:20220321T130000Z
-SUMMARY:雪花ラミィ: 【晩酌】3rd Fes＆EXPOお疲れ様！感想晩酌【雪花ラミィ/ホロライブ】
-UID:hDCdPCXMrsw
+SUMMARY:🏮夏色まつり: ホロライブ3rd Fes.　夏色まつり応援スレ#1
+UID:CLMB8NrIqDs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Universe Sandbox】I will destroy gravity\nhttps://www.youtube.com/watch?v=ahHpBE-j9BY
+DURATION:PT2H
+DTSTART:20220320T180000Z
+SUMMARY:Sana: 【Universe Sandbox】I will destroy gravity
+UID:ahHpBE-j9BY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Talk&Singing】 #つながるホロライブDAY2 オタクの早口感想と限界歌枠【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=TJEkQ_O2DxA
@@ -429,6 +205,13 @@ DURATION:PT2H
 DTSTART:20220320T130000Z
 SUMMARY:博衣こより: 【Talk&Singing】 #つながるホロライブDAY2 オタクの早口感想と限界歌枠【博衣こより/ホロライブ】
 UID:TJEkQ_O2DxA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【晩酌】3rd Fes＆EXPOお疲れ様！感想晩酌【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=hDCdPCXMrsw
+DURATION:PT2H
+DTSTART:20220321T130000Z
+SUMMARY:雪花ラミィ: 【晩酌】3rd Fes＆EXPOお疲れ様！感想晩酌【雪花ラミィ/ホロライブ】
+UID:hDCdPCXMrsw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ネタバレあり】ファイナルファンタジー2やってく【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=vBZU_y5rgYU
@@ -445,10 +228,59 @@ SUMMARY:ホロスターズ: 【NGなし】YAGOO とホロスタ本音対談！�
 UID:kfvWWDhKb34
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#つながるホロライブDAY2】hololive SUPER EXPO 2022 イベントステージ\nhttps://www.youtube.com/watch?v=TtB0GZLum1w
+DURATION:PT2H
+DTSTART:20220320T010000Z
+SUMMARY:ホロライブ: 【#つながるホロライブDAY2】hololive SUPER EXPO 2022 イベントステージ
+UID:TtB0GZLum1w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#つながるホロライブ】おつかれさま～！みんなと繋がれた配信【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=HJfS8ap3Dcs
+DURATION:PT2H
+DTSTART:20220320T140052Z
+SUMMARY:獅白ぼたん: 【#つながるホロライブ】おつかれさま～！みんなと繋がれた配信【獅白ぼたん/ホロライブ】
+UID:HJfS8ap3Dcs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】#つながるホロライブDAY2 おつかれさまでござる✨【風真いろは/ホロライブ6期生】\nhttps://www.youtube.com/watch?v=q6IRdf8wEIY
+DURATION:PT2H
+DTSTART:20220320T140000Z
+SUMMARY:風真いろは: 【歌枠】#つながるホロライブDAY2 おつかれさまでござる✨【風真いろは/ホロライブ6期生】
+UID:q6IRdf8wEIY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Cooking Simulator】KU100で囁きながらゲーム内料理すればどんな料理も囁き補正で美味しく見える説。【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=vL3yVGggExs
 DURATION:PT2H
 DTSTART:20220319T230000Z
 SUMMARY:🌽白上フブキ: 【Cooking Simulator】KU100で囁きながらゲーム内料理すればどんな料理も囁き補正で美味しく見える説。【ホロライブ/白上フブキ】
 UID:vL3yVGggExs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #つながるホロライブ 】ねねはアイドルになれてた？✨【 桃鈴ねね  / ホロライブ 】\nhttps://www.youtube.com/watch?v=8aMxZGE7yIE
+DURATION:PT2H
+DTSTART:20220320T130000Z
+SUMMARY:桃鈴ねね: 【 #つながるホロライブ 】ねねはアイドルになれてた？✨【 桃鈴ねね  / ホロライブ 】
+UID:8aMxZGE7yIE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mumei Draws HOLOLIVE\nhttps://www.youtube.com/watch?v=2eQKb3YCfSc
+DURATION:PT2H
+DTSTART:20220321T010000Z
+SUMMARY:Mumei: Mumei Draws HOLOLIVE
+UID:2eQKb3YCfSc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#つながるホロライブ】復活！！！ライブ！！大会！！話すぞ！【ホロライブ/常闇トワ】\nhttps://www.youtube.com/watch?v=QGderD9upfo
+DURATION:PT2H
+DTSTART:20220320T130000Z
+SUMMARY:👾常闇トワ: 【#つながるホロライブ】復活！！！ライブ！！大会！！話すぞ！【ホロライブ/常闇トワ】
+UID:QGderD9upfo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【アニメ】あたしゃ止めたんだけどねぇ\nhttps://www.youtube.com/watch?v=vaKSDxyIcj8
+DURATION:PT2H
+DTSTART:20220320T070014Z
+SUMMARY:ホロライブ: 【アニメ】あたしゃ止めたんだけどねぇ
+UID:vaKSDxyIcj8
 END:VEVENT
 END:VCALENDAR
