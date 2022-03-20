@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ネタバレあり】ファイナルファンタジー2やってく【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=vBZU_y5rgYU
-DURATION:PT2H
-DTSTART:20220320T130000Z
-SUMMARY:荒咬オウガ: 【ネタバレあり】ファイナルファンタジー2やってく【荒咬オウガ/ホロスターズ】
-UID:vBZU_y5rgYU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【NGなし】YAGOO とホロスタ本音対談！【 #つながるホロライブ 】#Shorts\nhttps://www.youtube.com/watch?v=kfvWWDhKb34
 DURATION:PT2H
 DTSTART:20220319T153356Z
@@ -25,18 +18,18 @@ SUMMARY:ホロスターズ: 【ひざプルプル】組体操をするアイド�
 UID:Qqv-xvUlZj8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#つながるホロライブDAY2】「わちゃスタ」出張版『一致団結！プレッシャーホロスターズ！』\nhttps://www.youtube.com/watch?v=zRDDJDv3Dqk
-DURATION:PT2H
-DTSTART:20220320T021500Z
-SUMMARY:ホロスターズ: 【#つながるホロライブDAY2】「わちゃスタ」出張版『一致団結！プレッシャーホロスターズ！』
-UID:zRDDJDv3Dqk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ホワイトデー衣装2.0お披露目＆カカオ豆からチョコ試食会【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=FirmoHuT7xs
 DURATION:PT2H
 DTSTART:20220320T130000Z
 SUMMARY:🌺花咲みやび: ホワイトデー衣装2.0お披露目＆カカオ豆からチョコ試食会【花咲みやび/ホロスターズ】
 UID:FirmoHuT7xs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#つながるホロライブDAY2】「わちゃスタ」出張版『一致団結！プレッシャーホロスターズ！』\nhttps://www.youtube.com/watch?v=zRDDJDv3Dqk
+DURATION:PT2H
+DTSTART:20220320T021500Z
+SUMMARY:ホロスターズ: 【#つながるホロライブDAY2】「わちゃスタ」出張版『一致団結！プレッシャーホロスターズ！』
+UID:zRDDJDv3Dqk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】鼻の出が過去最高に良いのですわよ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=1tU6jgxPDfU
