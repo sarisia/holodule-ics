@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【POWER WASH】DIRT IS DIRTY【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=bXhVy7JkHmk
+DURATION:PT2H
+DTSTART:20220322T083000Z
+SUMMARY:Ollie: 【POWER WASH】DIRT IS DIRTY【Hololive Indonesia 2nd Gen】
+UID:bXhVy7JkHmk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ELDEN RING】Ahh\, bird... (spoiler warning)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=0fO5J8kEYPM
 DURATION:PT2H
 DTSTART:20220321T083000Z
@@ -11,18 +18,18 @@ SUMMARY:Reine: 【ELDEN RING】Ahh\, bird... (spoiler warning)【Pavolia Reine/h
 UID:0fO5J8kEYPM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DEATH STRANDING】最終回 FINAL! Will It Be A Happy Ending?【hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=OBbK3rpR0Uc
-DURATION:PT2H
-DTSTART:20220321T140000Z
-SUMMARY:Anya: 【DEATH STRANDING】最終回 FINAL! Will It Be A Happy Ending?【hololive ID 2nd Generation】
-UID:OBbK3rpR0Uc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【HoloID】DONATION READING + AFTER PARTY 3RD FES TALK【Ayunda Risu】\nhttps://www.youtube.com/watch?v=jS_8ENNXNOg
 DURATION:PT2H
 DTSTART:20220321T120056Z
 SUMMARY:🐿Risu: 【HoloID】DONATION READING + AFTER PARTY 3RD FES TALK【Ayunda Risu】
 UID:jS_8ENNXNOg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEATH STRANDING】最終回 FINAL! Will It Be A Happy Ending?【hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=OBbK3rpR0Uc
+DURATION:PT2H
+DTSTART:20220321T140000Z
+SUMMARY:Anya: 【DEATH STRANDING】最終回 FINAL! Will It Be A Happy Ending?【hololive ID 2nd Generation】
+UID:OBbK3rpR0Uc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Hololive 3rd Fes After Party Free Talk!\nhttps://www.youtube.com/watch?v=x2wS05DwV8U
