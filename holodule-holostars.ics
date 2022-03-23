@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ネタバレあり】ファイナルファンタジー2やってく#2【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=YvwnSytcUoc
+DURATION:PT2H
+DTSTART:20220323T070000Z
+SUMMARY:荒咬オウガ: 【ネタバレあり】ファイナルファンタジー2やってく#2【荒咬オウガ/ホロスターズ】
+UID:YvwnSytcUoc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【KeyWe】#アル律 これって郵便局員の仕事かね！？【律可/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=ISmouHvVr9o
 DURATION:PT2H
 DTSTART:20220323T110000Z
@@ -53,10 +60,24 @@ SUMMARY:ホロスターズ: 【※最後にネタバラシ】ほんとに”未�
 UID:3l_zMNN3TPs
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:#6【ELDEN RING】※ネタバレあり　クリアまでいけるかもしれない【律可/ホロスターズ】 #りつすた\nhttps://www.youtube.com/watch?v=NVCLOxzRfpo
+DURATION:PT2H
+DTSTART:20220323T063000Z
+SUMMARY:⚙律可: #6【ELDEN RING】※ネタバレあり　クリアまでいけるかもしれない【律可/ホロスターズ】 #りつすた
+UID:NVCLOxzRfpo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】V最協に出ることになったので顔合わせをします【夕刻ロベル/花芽すみれ/英リサ】\nhttps://www.youtube.com/watch?v=6cJ6JVvesm4
 DURATION:PT2H
 DTSTART:20220323T110000Z
 SUMMARY:🍷夕刻ロベル: 【APEX】V最協に出ることになったので顔合わせをします【夕刻ロベル/花芽すみれ/英リサ】
 UID:6cJ6JVvesm4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【閉店事件】 驚かさないで！頼むから！！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=ZPghZjUatZ8
+DURATION:PT2H
+DTSTART:20220323T120000Z
+SUMMARY:🦔💨岸堂天真: 【閉店事件】 驚かさないで！頼むから！！！【岸堂天真/ホロスターズ】
+UID:ZPghZjUatZ8
 END:VEVENT
 END:VCALENDAR
