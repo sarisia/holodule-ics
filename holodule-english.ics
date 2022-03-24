@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:≪Cyberpunk 2077≫  RIFF RAFF STREET RAT #2\nhttps://www.youtube.com/watch?v=tJyekr7BeBQ
-DURATION:PT2H
-DTSTART:20220325T010000Z
-SUMMARY:Baelz: ≪Cyberpunk 2077≫  RIFF RAFF STREET RAT #2
-UID:tJyekr7BeBQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【SUPER CHATS AND CHILL】Late Night "Thank You" Vibes!\nhttps://www.youtube.com/watch?v=bfMwTrUqdz0
 DURATION:PT2H
 DTSTART:20220324T135948Z
 SUMMARY:Calli: 【SUPER CHATS AND CHILL】Late Night "Thank You" Vibes!
 UID:bfMwTrUqdz0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MARIO KART 8DX 】new DLC ! race me\nhttps://www.youtube.com/watch?v=Dstd2LK3QZo
-DURATION:PT2H
-DTSTART:20220324T000248Z
-SUMMARY:Gura: 【MARIO KART 8DX 】new DLC ! race me
-UID:Dstd2LK3QZo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【BAD END THEATER】 Choose Your Own Bad End\nhttps://www.youtube.com/watch?v=_1MEL3P4_1E
@@ -39,17 +25,38 @@ SUMMARY:Kronii: 【Superchat Catchup】Birthday Soup-a 🎂
 UID:vTEJiKpQHIg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Elden Ring】 Ah\, We're Still Cookieless 【SPOILER WARNING】【#9】\nhttps://www.youtube.com/watch?v=Pb3QXTS9FmA
-DURATION:PT2H
-DTSTART:20220323T210000Z
-SUMMARY:Ina: 【Elden Ring】 Ah\, We're Still Cookieless 【SPOILER WARNING】【#9】
-UID:Pb3QXTS9FmA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【BLOODBORNE #02】Hoonters Gotta Hoont.【SPOILER WARNING】\nhttps://www.youtube.com/watch?v=DCFwVZXuet0
 DURATION:PT2H
 DTSTART:20220324T085737Z
 SUMMARY:Calli: 【BLOODBORNE #02】Hoonters Gotta Hoont.【SPOILER WARNING】
 UID:DCFwVZXuet0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪Cyberpunk 2077≫  RIFF RAFF STREET RAT #2\nhttps://www.youtube.com/watch?v=tJyekr7BeBQ
+DURATION:PT2H
+DTSTART:20220325T010000Z
+SUMMARY:Baelz: ≪Cyberpunk 2077≫  RIFF RAFF STREET RAT #2
+UID:tJyekr7BeBQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Birthday Supas!】 Chatting & Catching Up!\nhttps://www.youtube.com/watch?v=mevAoy37kI0
+DURATION:PT2H
+DTSTART:20220324T220000Z
+SUMMARY:Fauna: 【Birthday Supas!】 Chatting & Catching Up!
+UID:mevAoy37kI0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MARIO KART 8DX 】new DLC ! race me\nhttps://www.youtube.com/watch?v=Dstd2LK3QZo
+DURATION:PT2H
+DTSTART:20220324T000248Z
+SUMMARY:Gura: 【MARIO KART 8DX 】new DLC ! race me
+UID:Dstd2LK3QZo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Elden Ring】 Ah\, We're Still Cookieless 【SPOILER WARNING】【#9】\nhttps://www.youtube.com/watch?v=Pb3QXTS9FmA
+DURATION:PT2H
+DTSTART:20220323T210000Z
+SUMMARY:Ina: 【Elden Ring】 Ah\, We're Still Cookieless 【SPOILER WARNING】【#9】
+UID:Pb3QXTS9FmA
 END:VEVENT
 END:VCALENDAR
