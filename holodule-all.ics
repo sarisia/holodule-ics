@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Manga Reading】Reading With @Mori Calliope Ch. hololive-EN!\nhttps://www.youtube.com/watch?v=4guuk2_-_Q0
-DURATION:PT2H
-DTSTART:20220325T030000Z
-SUMMARY:Kronii: 【Manga Reading】Reading With @Mori Calliope Ch. hololive-EN!
-UID:4guuk2_-_Q0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#7【ELDEN RING】※ネタバレあり　クリア耐久！！！！！！！！【律可/ホロスターズ】 #りつすた\nhttps://www.youtube.com/watch?v=p9KPXm07cHw
 DURATION:PT2H
 DTSTART:20220324T141500Z
@@ -79,6 +72,13 @@ DURATION:PT2H
 DTSTART:20220324T121500Z
 SUMMARY:🚑大空スバル: 【#生スバル】ライトニングウィンナー出すしゅばあああああああ！！！！！！/Sausage Legend2【ホロライブ/大空スバル】
 UID:abs2Kvd_JkE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:フクロウさん / 鷹嶺ルイ(cover)\nhttps://www.youtube.com/watch?v=5t60NWXXkQI
+DURATION:PT2H
+DTSTART:20220325T090000Z
+SUMMARY:鷹嶺ルイ: フクロウさん / 鷹嶺ルイ(cover)
+UID:5t60NWXXkQI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[#holoID03] Kaela Kovalskia - Journey Begin! [hololive Indonesia Gen 3 Debut Teaser]\nhttps://www.youtube.com/watch?v=or5_1vfE6fQ
@@ -354,6 +354,13 @@ SUMMARY:Kiara: 【YAKUZA 0】KIKKERIKICK YO BUTT - SPOILER ALERT #kfp #キアラ
 UID:H8xyiSjQUrU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ソロランク】一人でプレマス帯に遊びにきました～('ω')【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=QEP2L9BUvmc
+DURATION:PT2H
+DTSTART:20220325T053000Z
+SUMMARY:🏮夏色まつり: 【ソロランク】一人でプレマス帯に遊びにきました～('ω')【ホロライブ/夏色まつり】
+UID:QEP2L9BUvmc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【DEBUT STREAM】First Mission: Start!【Hololive Indonesia 3rd Gen】\nhttps://www.youtube.com/watch?v=FbTMYv7B0Ag
 DURATION:PT2H
 DTSTART:20220325T130000Z
@@ -480,10 +487,10 @@ SUMMARY:🍷夕刻ロベル: 【閉店事件】開けてやぁ！！【夕刻ロ
 UID:agRbv1RuOyY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MANGA READING】Diving Into A Fantasy Journey with Ouro Kronii!\nhttps://www.youtube.com/watch?v=KYL4asaVsNc
+DESCRIPTION:【MANGA READING】Diving Into A Fantasy Journey with Ouro Kronii! #ad\nhttps://www.youtube.com/watch?v=KYL4asaVsNc
 DURATION:PT2H
 DTSTART:20220325T030046Z
-SUMMARY:Calli: 【MANGA READING】Diving Into A Fantasy Journey with Ouro Kronii!
+SUMMARY:Calli: 【MANGA READING】Diving Into A Fantasy Journey with Ouro Kronii! #ad
 UID:KYL4asaVsNc
 END:VEVENT
 BEGIN:VEVENT
