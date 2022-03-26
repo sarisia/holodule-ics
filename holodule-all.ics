@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ELDEN RING】#03 初フロムゲー赤ちゃん、魔術学院を目指す【博衣こより/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=eOfU_MOP7Lw
+DURATION:PT2H
+DTSTART:20220327T010000Z
+SUMMARY:博衣こより: 【ELDEN RING】#03 初フロムゲー赤ちゃん、魔術学院を目指す【博衣こより/ホロライブ】※ネタバレあり
+UID:eOfU_MOP7Lw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【世界のアソビ大全51】今日勝てばなんとLAST1、力を見せてもらおう！【常闇トワ&風真いろは】\nhttps://www.youtube.com/watch?v=J45Chf7D_po
 DURATION:PT2H
 DTSTART:20220325T100000Z
@@ -51,13 +58,6 @@ DURATION:PT2H
 DTSTART:20220325T090000Z
 SUMMARY:🐿Risu: 【HoloID】Donation Reading After Karaoke Stream !!!【Ayunda Risu】
 UID:mvNKTDyOATY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#はあちゃまぼっち】ぼっち選手権！真のぼっちは誰だ・・・！？【ホロライブ/はあちゃま】\nhttps://www.youtube.com/watch?v=p39vuyBWzDk
-DURATION:PT2H
-DTSTART:20220326T120000Z
-SUMMARY:❤赤井はあと: 【#はあちゃまぼっち】ぼっち選手権！真のぼっちは誰だ・・・！？【ホロライブ/はあちゃま】
-UID:p39vuyBWzDk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Vampire Survivors】so sad the vampires died of ligma【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=UXqP6DMSBHQ
@@ -135,6 +135,13 @@ DURATION:PT2H
 DTSTART:20220326T110000Z
 SUMMARY:🐏角巻わため: 【グルーヴコースター ワイワイパーティー!!!!】わっほー！初めて遊ぶぞい！【角巻わため/ホロライブ４期生】
 UID:ybK2_j56Qec
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ロリこより】開発した薬を飲んだらよぅじょになったわ！何か質問ある？【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=4R4Yizem9O0
+DURATION:PT2H
+DTSTART:20220326T120000Z
+SUMMARY:博衣こより: 【#ロリこより】開発した薬を飲んだらよぅじょになったわ！何か質問ある？【博衣こより/ホロライブ】
+UID:4R4Yizem9O0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【???】\nhttps://www.youtube.com/watch?v=psjPl3nc9ug
@@ -312,6 +319,13 @@ SUMMARY:👾常闇トワ: 【#オールスター大運動会 】結果発表待�
 UID:JfHIJUlU64k
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【シャニマス】あさひフィギュア登場‼魅力を語る会✨【ホロライブ / 星街すいせい・雪花ラミィ】\nhttps://www.youtube.com/watch?v=G_EszTyUIig
+DURATION:PT2H
+DTSTART:20220326T120000Z
+SUMMARY:☄星街すいせい: 【シャニマス】あさひフィギュア登場‼魅力を語る会✨【ホロライブ / 星街すいせい・雪花ラミィ】
+UID:G_EszTyUIig
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#10【ELDEN RING】脳筋女騎士、ラダーンの先へ！！大冒険！【白銀ノエル/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=CY3qUcbjURI
 DURATION:PT2H
 DTSTART:20220326T020000Z
@@ -347,10 +361,10 @@ SUMMARY:🏮夏色まつり: 【閉店事件】閉店してるのに働くんで
 UID:AJ5IpMrFtOM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:配信予定！！！！やるぞ～～～～！！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=1CafXcHV8UI
+DESCRIPTION:【歌枠＆雑談】いろいろお疲れ様でした！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=1CafXcHV8UI
 DURATION:PT2H
 DTSTART:20220326T140000Z
-SUMMARY:🌙紫咲シオン: 配信予定！！！！やるぞ～～～～！！！【ホロライブ/紫咲シオン】
+SUMMARY:🌙紫咲シオン: 【歌枠＆雑談】いろいろお疲れ様でした！！【ホロライブ/紫咲シオン】
 UID:1CafXcHV8UI
 END:VEVENT
 BEGIN:VEVENT
@@ -359,13 +373,6 @@ DURATION:PT2H
 DTSTART:20220326T040000Z
 SUMMARY:🌸さくらみこ: 【 アンチャーテッド 砂漠に眠るアトランティス 】相棒との出会い、そして冒険･･にぇ！【ホロライブ/さくらみこ】
 UID:xI28vMLu7XQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】夕方のんびりゴルフ場建築雑談【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=yLW2XBTZOno
-DURATION:PT2H
-DTSTART:20220326T100000Z
-SUMMARY:🍕アルランディス: 【Minecraft】夕方のんびりゴルフ場建築雑談【アルランディス/ホロスターズ】
-UID:yLW2XBTZOno
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Dying Light 2】ドロップキックを覚えたい #ホロスタ生き残り隊【岸堂天真/奏手イヅル/夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=F3anMwwSKGU
@@ -681,12 +688,5 @@ DURATION:PT2H
 DTSTART:20220326T110000Z
 SUMMARY:🏴☠宝鐘マリン: 【閉店事件】怖いお店へ出勤──…お局として──【ホロライブ/宝鐘マリン】
 UID:-0_oib3ebK8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】楽しく歌う！-karaoke-【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=jmSvhE6HHNY
-DURATION:PT2H
-DTSTART:20220326T120000Z
-SUMMARY:🔥不知火フレア: 【歌枠】楽しく歌う！-karaoke-【不知火フレア/ホロライブ】
-UID:jmSvhE6HHNY
 END:VEVENT
 END:VCALENDAR
