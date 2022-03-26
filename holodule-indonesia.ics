@@ -4,39 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#AANSD_Showcase】Watching Select Entries! LET'S PARTY!!!【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=yBg5SkXb-hw
-DURATION:PT2H
-DTSTART:20220326T040000Z
-SUMMARY:Reine: 【#AANSD_Showcase】Watching Select Entries! LET'S PARTY!!!【Pavolia Reine/hololiveID 2nd gen】
-UID:yBg5SkXb-hw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DEBUT STREAM】Now Smithing...【Hololive Indonesia 3rd Gen】\nhttps://www.youtube.com/watch?v=dDM8e_eMKBI
-DURATION:PT2H
-DTSTART:20220326T130012Z
-SUMMARY:Kaela: 【DEBUT STREAM】Now Smithing...【Hololive Indonesia 3rd Gen】
-UID:dDM8e_eMKBI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【POST-DEBUT TALK】Let's Talk More with Zeta【Hololive ID 3rd Generation】\nhttps://www.youtube.com/watch?v=KCDT-eSLhAs
-DURATION:PT2H
-DTSTART:20220326T151703Z
-SUMMARY:Kaela: 【POST-DEBUT TALK】Let's Talk More with Zeta【Hololive ID 3rd Generation】
-UID:KCDT-eSLhAs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【POST-DEBUT TALK】So\, tell me your secrets? 【Hololive ID 3rd Generation】\nhttps://www.youtube.com/watch?v=T-alNwyYY8w
-DURATION:PT2H
-DTSTART:20220325T150000Z
-SUMMARY:Zeta: 【POST-DEBUT TALK】So\, tell me your secrets? 【Hololive ID 3rd Generation】
-UID:T-alNwyYY8w
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Black Mesa】Stealth Stealth STEALTH【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=3qTOj4pdAE8
 DURATION:PT2H
 DTSTART:20220326T141500Z
 SUMMARY:Anya: 【Black Mesa】Stealth Stealth STEALTH【hololive Indonesia 2nd Generation】
 UID:3qTOj4pdAE8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#AANSD_Showcase】Watching Select Entries! LET'S PARTY!!!【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=yBg5SkXb-hw
+DURATION:PT2H
+DTSTART:20220326T040000Z
+SUMMARY:Reine: 【#AANSD_Showcase】Watching Select Entries! LET'S PARTY!!!【Pavolia Reine/hololiveID 2nd gen】
+UID:yBg5SkXb-hw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#10【The Great Ace Attorney】TIME TO REFRESH MEMORY ※SPOILER ALERT【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=7izWvsEabug
@@ -46,11 +25,11 @@ SUMMARY:Reine: #10【The Great Ace Attorney】TIME TO REFRESH MEMORY ※SPOILER 
 UID:7izWvsEabug
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#MILLIOLLIE】【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=xn5Ym8OJtus
+DESCRIPTION:【DEBUT STREAM】Now Smithing...【Hololive Indonesia 3rd Gen】\nhttps://www.youtube.com/watch?v=dDM8e_eMKBI
 DURATION:PT2H
-DTSTART:20220328T110000Z
-SUMMARY:Ollie: 【#MILLIOLLIE】【hololive Indonesia 2nd Generation】
-UID:xn5Ym8OJtus
+DTSTART:20220326T130012Z
+SUMMARY:Kaela: 【DEBUT STREAM】Now Smithing...【Hololive Indonesia 3rd Gen】
+UID:dDM8e_eMKBI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VOD】OH\, IS THAT THE RAREST MATERIAL?!【Hololive ID 3rd Generation】\nhttps://www.youtube.com/watch?v=eJnwXRefDDo
@@ -58,5 +37,19 @@ DURATION:PT2H
 DTSTART:20220326T143105Z
 SUMMARY:Kaela: 【VOD】OH\, IS THAT THE RAREST MATERIAL?!【Hololive ID 3rd Generation】
 UID:eJnwXRefDDo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#MILLIOLLIE】【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=xn5Ym8OJtus
+DURATION:PT2H
+DTSTART:20220328T110000Z
+SUMMARY:Ollie: 【#MILLIOLLIE】【hololive Indonesia 2nd Generation】
+UID:xn5Ym8OJtus
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【POST-DEBUT TALK】So\, tell me your secrets? 【Hololive ID 3rd Generation】\nhttps://www.youtube.com/watch?v=T-alNwyYY8w
+DURATION:PT2H
+DTSTART:20220325T150000Z
+SUMMARY:Zeta: 【POST-DEBUT TALK】So\, tell me your secrets? 【Hololive ID 3rd Generation】
+UID:T-alNwyYY8w
 END:VEVENT
 END:VCALENDAR
