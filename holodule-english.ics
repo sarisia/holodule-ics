@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【AME】1hr Unpacking Stream~\nhttps://www.youtube.com/watch?v=AFDKegTb6Js
+DESCRIPTION:【Kirby and the Forgotten Land】consume poyo\nhttps://www.youtube.com/watch?v=a2P165r6_sM
 DURATION:PT2H
-DTSTART:20220326T191500Z
-SUMMARY:Amelia: 【AME】1hr Unpacking Stream~
-UID:AFDKegTb6Js
+DTSTART:20220326T000127Z
+SUMMARY:Gura: 【Kirby and the Forgotten Land】consume poyo
+UID:a2P165r6_sM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GETTING OVER IT】From The Top (Sitting in VC)\nhttps://www.youtube.com/watch?v=9S63icQFYko
@@ -16,6 +16,13 @@ DURATION:PT2H
 DTSTART:20220326T023554Z
 SUMMARY:Mumei: 【GETTING OVER IT】From The Top (Sitting in VC)
 UID:9S63icQFYko
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【COLLAB】Surprise! Draw & Guess with EN! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=zrbQhFqtFAM
+DURATION:PT2H
+DTSTART:20220326T210000Z
+SUMMARY:Kiara: 【COLLAB】Surprise! Draw & Guess with EN! #kfp #キアライブ
+UID:zrbQhFqtFAM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【2 MILLION SUBS】I Just Wanna Sing For You.\nhttps://www.youtube.com/watch?v=1TrQUHsqd4Y
@@ -44,19 +51,5 @@ DURATION:PT2H
 DTSTART:20220326T033042Z
 SUMMARY:IRyS: 【The Closing Shift】I'd like some extra fear in my coffee please with hr monitor
 UID:luOQ_Y7SsgI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Kirby and the Forgotten Land】consume poyo\nhttps://www.youtube.com/watch?v=a2P165r6_sM
-DURATION:PT2H
-DTSTART:20220326T000127Z
-SUMMARY:Gura: 【Kirby and the Forgotten Land】consume poyo
-UID:a2P165r6_sM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【COLLAB】Surprise! Draw & Guess with EN! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=zrbQhFqtFAM
-DURATION:PT2H
-DTSTART:20220326T210000Z
-SUMMARY:Kiara: 【COLLAB】Surprise! Draw & Guess with EN! #kfp #キアライブ
-UID:zrbQhFqtFAM
 END:VEVENT
 END:VCALENDAR
