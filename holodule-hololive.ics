@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ELDEN RING】#03 初フロムゲー赤ちゃん、魔術学院を目指す【博衣こより/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=eOfU_MOP7Lw
+DURATION:PT2H
+DTSTART:20220327T010000Z
+SUMMARY:博衣こより: 【ELDEN RING】#03 初フロムゲー赤ちゃん、魔術学院を目指す【博衣こより/ホロライブ】※ネタバレあり
+UID:eOfU_MOP7Lw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌枠＆雑談】いろいろお疲れ様でした！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=1CafXcHV8UI
 DURATION:PT2H
 DTSTART:20220326T140000Z
@@ -186,10 +193,10 @@ SUMMARY:鷹嶺ルイ: 【晩酌】本当に少しだけ・・・わかったか�
 UID:H5Y4aicYvGE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【鷹嶺ルイとコラボ】【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=YLjiWJv6lhA
+DESCRIPTION:【#マリルイ】鷹嶺ルイ...好きなんだろ？【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=YLjiWJv6lhA
 DURATION:PT2H
 DTSTART:20220327T120000Z
-SUMMARY:🏴☠宝鐘マリン: 【鷹嶺ルイとコラボ】【ホロライブ/宝鐘マリン】
+SUMMARY:🏴☠宝鐘マリン: 【#マリルイ】鷹嶺ルイ...好きなんだろ？【ホロライブ/宝鐘マリン】
 UID:YLjiWJv6lhA
 END:VEVENT
 BEGIN:VEVENT
@@ -221,10 +228,10 @@ SUMMARY:ホロライブ: 【#ホロとシンクロ】重大発表がしたい特
 UID:HDJivz8jMXk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【星のカービィ ディスカバリー】今日は！クリア耐久！ぽよ！【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=NIbsM0f8ehs
+DESCRIPTION:【星のカービィ ディスカバリー】今日は！クリア耐久！ぽよ！前半！【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=NIbsM0f8ehs
 DURATION:PT2H
 DTSTART:20220327T090000Z
-SUMMARY:🍙猫又おかゆ: 【星のカービィ ディスカバリー】今日は！クリア耐久！ぽよ！【猫又おかゆ/ホロライブ】
+SUMMARY:🍙猫又おかゆ: 【星のカービィ ディスカバリー】今日は！クリア耐久！ぽよ！前半！【猫又おかゆ/ホロライブ】
 UID:NIbsM0f8ehs
 END:VEVENT
 BEGIN:VEVENT
@@ -261,13 +268,6 @@ DURATION:PT2H
 DTSTART:20220327T110000Z
 SUMMARY:🌙紫咲シオン: ねぇねぇねぇ。／Covered by紫咲シオン＆湊あくあ【歌ってみた】
 UID:0oMT_6Zu4a4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Cyberpunk2077 | #3】 脳内に別人がいる！？サイバーパンク2077【ホロライブ/アキロゼAkirose】\nhttps://www.youtube.com/watch?v=CmDwTNzjgqk
-DURATION:PT2H
-DTSTART:20220327T010000Z
-SUMMARY:🍎アキロゼ: 【Cyberpunk2077 | #3】 脳内に別人がいる！？サイバーパンク2077【ホロライブ/アキロゼAkirose】
-UID:CmDwTNzjgqk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【オリ曲歌枠】Dreaming!デビューから3年も経ったの！？【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=2k_J2gB3yZ8
@@ -326,11 +326,11 @@ SUMMARY:🚑大空スバル: 【#生スバル】クライシスコアやるし�
 UID:DZ6brFJUMD4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】この地でだれが最強の存在かわからせる時が来たようだ…【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=_hMV70oRJj0
+DESCRIPTION:【Within Skerry】怖くても立ち向かわなきゃいけない時がある…。【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=qn8nkwCRlZM
 DURATION:PT2H
-DTSTART:20220327T103000Z
-SUMMARY:ラプラス: 【APEX】この地でだれが最強の存在かわからせる時が来たようだ…【ラプラス・ダークネス/ホロライブ】
-UID:_hMV70oRJj0
+DTSTART:20220327T073009Z
+SUMMARY:💋癒月ちょこ: 【Within Skerry】怖くても立ち向かわなきゃいけない時がある…。【ホロライブ/癒月ちょこ】
+UID:qn8nkwCRlZM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#オールスター大運動会 】結果発表待ち　チーム:青チーム【常闇トワ】\nhttps://www.youtube.com/watch?v=JfHIJUlU64k
@@ -338,6 +338,13 @@ DURATION:PT2H
 DTSTART:20220326T113000Z
 SUMMARY:👾常闇トワ: 【#オールスター大運動会 】結果発表待ち　チーム:青チーム【常闇トワ】
 UID:JfHIJUlU64k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】この地でだれが最強の存在かわからせる時が来たようだ…【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=_hMV70oRJj0
+DURATION:PT2H
+DTSTART:20220327T103000Z
+SUMMARY:ラプラス: 【APEX】この地でだれが最強の存在かわからせる時が来たようだ…【ラプラス・ダークネス/ホロライブ】
+UID:_hMV70oRJj0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【シャニマス】あさひフィギュア登場‼魅力を語る会✨【ホロライブ / 星街すいせい・雪花ラミィ】\nhttps://www.youtube.com/watch?v=G_EszTyUIig
