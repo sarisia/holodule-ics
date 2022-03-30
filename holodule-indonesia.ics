@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Getting Over It】i see hammer\, i play.【Hololive Indonesia 3rd Gen】\nhttps://www.youtube.com/watch?v=8nTURptK3V4
-DURATION:PT2H
-DTSTART:20220329T070051Z
-SUMMARY:Kaela: 【Getting Over It】i see hammer\, i play.【Hololive Indonesia 3rd Gen】
-UID:8nTURptK3V4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠KARAOKE】This is a singing stream【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=LWEE38QLw_k
 DURATION:PT2H
 DTSTART:20220329T141500Z
@@ -25,13 +18,6 @@ SUMMARY:Ollie: 【APEX LEGENDS】SWIPING MY CARD FASTER THAN OCTANE【Hololive I
 UID:ZpPOEPSUPIM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Black Mesa】XEEEEEEEEEEEENNNNN【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=g7jVP_vZOUg
-DURATION:PT2H
-DTSTART:20220329T142056Z
-SUMMARY:Anya: 【Black Mesa】XEEEEEEEEEEEENNNNN【hololive Indonesia 2nd Generation】
-UID:g7jVP_vZOUg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【RAFT】I'M NOT SHARK BAIT!!! :'(【Hololive Indonesia 3rd Gen】\nhttps://www.youtube.com/watch?v=MsiD77hszZ8
 DURATION:PT2H
 DTSTART:20220330T130000Z
@@ -39,11 +25,11 @@ SUMMARY:Zeta: 【RAFT】I'M NOT SHARK BAIT!!! :'(【Hololive Indonesia 3rd Gen�
 UID:MsiD77hszZ8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:guess what i'm saying\nhttps://www.youtube.com/watch?v=ewY7eicBJsw
+DESCRIPTION:【RAFT】Taking care of Zeta and Kobo. Can I survive?!【Hololive Indonesia 3rd Gen】\nhttps://www.youtube.com/watch?v=J1vSP2XMBVY
 DURATION:PT2H
-DTSTART:20220329T150207Z
-SUMMARY:Zeta: guess what i'm saying
-UID:ewY7eicBJsw
+DTSTART:20220330T130014Z
+SUMMARY:Kaela: 【RAFT】Taking care of Zeta and Kobo. Can I survive?!【Hololive Indonesia 3rd Gen】
+UID:J1vSP2XMBVY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Bad End Theater】Behold\, bedtime story! Be wary of bad ends【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=w0-ps_41k-E
@@ -51,5 +37,26 @@ DURATION:PT2H
 DTSTART:20220328T151500Z
 SUMMARY:Reine: 【Bad End Theater】Behold\, bedtime story! Be wary of bad ends【Pavolia Reine/hololiveID 2nd gen】
 UID:w0-ps_41k-E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Getting Over It】i see hammer\, i play.【Hololive Indonesia 3rd Gen】\nhttps://www.youtube.com/watch?v=8nTURptK3V4
+DURATION:PT2H
+DTSTART:20220329T070051Z
+SUMMARY:Kaela: 【Getting Over It】i see hammer\, i play.【Hololive Indonesia 3rd Gen】
+UID:8nTURptK3V4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Black Mesa】XEEEEEEEEEEEENNNNN【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=g7jVP_vZOUg
+DURATION:PT2H
+DTSTART:20220329T142056Z
+SUMMARY:Anya: 【Black Mesa】XEEEEEEEEEEEENNNNN【hololive Indonesia 2nd Generation】
+UID:g7jVP_vZOUg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:guess what i'm saying\nhttps://www.youtube.com/watch?v=ewY7eicBJsw
+DURATION:PT2H
+DTSTART:20220329T150207Z
+SUMMARY:Zeta: guess what i'm saying
+UID:ewY7eicBJsw
 END:VEVENT
 END:VCALENDAR
