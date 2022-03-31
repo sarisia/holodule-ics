@@ -67,18 +67,18 @@ SUMMARY:🍷夕刻ロベル: 【APEX】お昼の静かなAPEX【夕刻ロベル/
 UID:SoprvbwAhec
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【仕切り直し雑談】お疲れ寝起きにつきオガメロモードです【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=o-DVmMFM8eI
-DURATION:PT2H
-DTSTART:20220329T164500Z
-SUMMARY:荒咬オウガ: 【仕切り直し雑談】お疲れ寝起きにつきオガメロモードです【荒咬オウガ/ホロスターズ】
-UID:o-DVmMFM8eI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【初コラボ】UPROAR!!、4人大集合！！！！！夜十神封魔【 #アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=EFeXMXqxpYg
 DURATION:PT2H
 DTSTART:20220331T130000Z
 SUMMARY:夜十神封魔: 【初コラボ】UPROAR!!、4人大集合！！！！！夜十神封魔【 #アップロー / #ホロスターズ】
 UID:EFeXMXqxpYg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【仕切り直し雑談】お疲れ寝起きにつきオガメロモードです【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=o-DVmMFM8eI
+DURATION:PT2H
+DTSTART:20220329T164500Z
+SUMMARY:荒咬オウガ: 【仕切り直し雑談】お疲れ寝起きにつきオガメロモードです【荒咬オウガ/ホロスターズ】
+UID:o-DVmMFM8eI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【弾き語り枠】アップローもデビューしたし！アルゴナビスコラボあったし歌う！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=7PDl2fqkvrI
@@ -100,6 +100,13 @@ DURATION:PT2H
 DTSTART:20220330T090049Z
 SUMMARY:羽継烏有: 【振り返り】初配信振り返りと、ガンマと燐央のデビュー配信まで話す枠【羽継烏有/アップロー】
 UID:I__rOYxNZ0M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【お昼雑談】今日もみやび君から貰った冷凍食品食べます【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=38iL6YmGrZU
+DURATION:PT2H
+DTSTART:20220331T030000Z
+SUMMARY:🍕アルランディス: 【お昼雑談】今日もみやび君から貰った冷凍食品食べます【アルランディス/ホロスターズ】
+UID:38iL6YmGrZU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【初配信】幽霊アイドル！うまれた！/水無世燐央【 #アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=kEmz1bLVUNk
