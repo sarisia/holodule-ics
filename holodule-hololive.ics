@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Phasmophobia】敵側っぽく見えるけど味方だよ！幽霊調査IKZ！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=Q9riVP0sNws
+DURATION:PT2H
+DTSTART:20220402T130000Z
+SUMMARY:獅白ぼたん: 【Phasmophobia】敵側っぽく見えるけど味方だよ！幽霊調査IKZ！【獅白ぼたん/ホロライブ】
+UID:Q9riVP0sNws
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#生スバル】おはすば！スバル：FREE TALK【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=GRDVLbr1XVQ
 DURATION:PT2H
 DTSTART:20220402T010000Z
@@ -30,13 +37,6 @@ DURATION:PT2H
 DTSTART:20220402T100000Z
 SUMMARY:🌟夜空メル: 【シン・クロニクル】一度きりの選択！？自分の運命は自分で決める🌟【ホロライブ/夜空メル】
 UID:ix0hIx3QNZA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Phasmophobia】強者とこわがりによる #ホロ幽霊調査隊 ！【角巻わため・獅白ぼたん・アーニャメルフィッサ・博衣こより視点/ホロライブ】\nhttps://www.youtube.com/watch?v=0OJ0tZ2kdnc
-DURATION:PT2H
-DTSTART:20220402T130000Z
-SUMMARY:博衣こより: 【Phasmophobia】強者とこわがりによる #ホロ幽霊調査隊 ！【角巻わため・獅白ぼたん・アーニャメルフィッサ・博衣こより視点/ホロライブ】
-UID:0OJ0tZ2kdnc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:あと１７回！ちょっと金になってきた！深夜の金壺チャレンジ【 ホロライブ / 大神ミオ 】\nhttps://www.youtube.com/watch?v=3Hckql9CwYQ
@@ -72,6 +72,13 @@ DURATION:PT2H
 DTSTART:20220402T130000Z
 SUMMARY:☄星街すいせい: 【APEX】あぺぺぺぺぺぺぺぺカスタム【 #Startend 】
 UID:pFZ_-sUEoo4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【duolingo】Study English!! Will Koyori's English work!?【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=Y1BX0UOqqrg
+DURATION:PT2H
+DTSTART:20220403T030000Z
+SUMMARY:博衣こより: 【duolingo】Study English!! Will Koyori's English work!?【博衣こより/ホロライブ】
+UID:Y1BX0UOqqrg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ASMR】月末定期ASMR（だった）すやすやオフトゥン編【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=ZwM8_hQITrw
@@ -165,25 +172,11 @@ SUMMARY:🌽白上フブキ: 【APEX】英語禁止APEXに参戦したミラー�
 UID:jbGepleoQjk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Phasmophobia】この中で一番先輩らしいけど、怖いので先頭は歩けません【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=Jdxmn7gvZx0
-DURATION:PT2H
-DTSTART:20220402T130000Z
-SUMMARY:🐏角巻わため: 【Phasmophobia】この中で一番先輩らしいけど、怖いので先頭は歩けません【角巻わため/ホロライブ４期生】
-UID:Jdxmn7gvZx0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ぴかフェスWIN】カスタム行きますわよ！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=VRLurq3XkW8
 DURATION:PT2H
 DTSTART:20220402T120000Z
 SUMMARY:🏮夏色まつり: 【#ぴかフェスWIN】カスタム行きますわよ！【ホロライブ/夏色まつり】
 UID:VRLurq3XkW8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】癒しのおやすみマイクラっ！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=hpkwepHrJPk
-DURATION:PT2H
-DTSTART:20220402T130000Z
-SUMMARY:❤赤井はあと: 【Minecraft】癒しのおやすみマイクラっ！【ホロライブ/赤井はあと】
-UID:hpkwepHrJPk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【シャドバ】総帥VSインターン アンリミがちバトル！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=bQDoYqf57L8
