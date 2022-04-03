@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Viscera Cleanup Detail】Who Made This Mess\nhttps://www.youtube.com/watch?v=bDMKHvGGZ8U
+DURATION:PT2H
+DTSTART:20220404T043000Z
+SUMMARY:Kronii: 【Viscera Cleanup Detail】Who Made This Mess
+UID:bDMKHvGGZ8U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【3D LIVE】Calliope Mori's First 3D Birthday Concert! #calli3DBD\nhttps://www.youtube.com/watch?v=hrcZEjdrkRg
+DURATION:PT2H
+DTSTART:20220404T110000Z
+SUMMARY:Calli: 【3D LIVE】Calliope Mori's First 3D Birthday Concert! #calli3DBD
+UID:hrcZEjdrkRg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Kirby and the Forgotten Land】Poyoyoyon\nhttps://www.youtube.com/watch?v=djoShBFXzkE
 DURATION:PT2H
 DTSTART:20220402T170000Z
@@ -30,12 +44,5 @@ DURATION:PT2H
 DTSTART:20220403T180005Z
 SUMMARY:Kiara: 【UNARCHIVED】1970-2010 CLASSICS KIARAOKE  #kfp #キアライブ
 UID:ffa2u5uJzvQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BIRTHDAY COUNT-DOWN】Calling My Friends and Chilling!\nhttps://www.youtube.com/watch?v=WcvGVVwIRfk
-DURATION:PT2H
-DTSTART:20220403T135847Z
-SUMMARY:Calli: 【BIRTHDAY COUNT-DOWN】Calling My Friends and Chilling!
-UID:WcvGVVwIRfk
 END:VEVENT
 END:VCALENDAR
