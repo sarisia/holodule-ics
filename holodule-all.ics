@@ -4,27 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Viscera Cleanup Detail】Who Made This Mess\nhttps://www.youtube.com/watch?v=bDMKHvGGZ8U
-DURATION:PT2H
-DTSTART:20220404T043000Z
-SUMMARY:Kronii: 【Viscera Cleanup Detail】Who Made This Mess
-UID:bDMKHvGGZ8U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【NEEDY GIRL OVERDOSE】メンブレ💕病みツイ💕全部上書きしてあげる💕【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=u5u3IRUyubM
-DURATION:PT2H
-DTSTART:20220404T150000Z
-SUMMARY:尾丸ポルカ: 【NEEDY GIRL OVERDOSE】メンブレ💕病みツイ💕全部上書きしてあげる💕【尾丸ポルカ/ホロライブ】
-UID:u5u3IRUyubM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 プロセカ 】久々のプロセカ！！！遊ぶ！！！！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=ucZ3OnDNSj0
-DURATION:PT2H
-DTSTART:20220404T090000Z
-SUMMARY:桃鈴ねね: 【 プロセカ 】久々のプロセカ！！！遊ぶ！！！！【 桃鈴ねね / ホロライブ 】
-UID:ucZ3OnDNSj0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ELDEN RING】#4.5 魔術学院レナラ戦リベンジ！！！【博衣こより/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=BrpS39pckRY
 DURATION:PT2H
 DTSTART:20220404T120000Z
@@ -37,6 +16,13 @@ DURATION:PT2H
 DTSTART:20220404T120000Z
 SUMMARY:🐻ときのそら: 【星のカービィ ディスカバリー】次のステージへ！！【#ときのそら生放送】
 UID:A1U4RGYZTww
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 ASMR＊メンバー限定 】ふふっ…ペロペロしちゃうなのらぞ💓【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=RhyNueA4DnM
+DURATION:PT2H
+DTSTART:20220405T130000Z
+SUMMARY:🍬姫森ルーナ: 【 ASMR＊メンバー限定 】ふふっ…ペロペロしちゃうなのらぞ💓【#姫森ルーナ/ホロライブ】
+UID:RhyNueA4DnM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Viscera Cleanup Detail】OMG We Cleaning!!! HASHTAG NOT CLICKBAIT【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=cOCkWXK-V1I
@@ -60,25 +46,11 @@ SUMMARY:水無世燐央: 【初見OMORI②】友達を探す/水無世燐央【 
 UID:YGd75RCJQbY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 閉店事件 】カフェバイト中に何かが起きるのらっ…？！【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=TrrIrLM3kRk
-DURATION:PT2H
-DTSTART:20220404T140000Z
-SUMMARY:🍬姫森ルーナ: 【 閉店事件 】カフェバイト中に何かが起きるのらっ…？！【#姫森ルーナ/ホロライブ】
-UID:TrrIrLM3kRk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠】センパイ！おうたでたくさん癒されてね💓【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=rraBhhq2VKA
 DURATION:PT2H
 DTSTART:20220404T140000Z
 SUMMARY:❤赤井はあと: 【歌枠】センパイ！おうたでたくさん癒されてね💓【ホロライブ/赤井はあと】
 UID:rraBhhq2VKA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ASMR＊メンバー限定 】ふふっ…ペロペロしちゃうなのらぞ💓【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=RhyNueA4DnM
-DURATION:PT2H
-DTSTART:20220405T130000Z
-SUMMARY:🍬姫森ルーナ: 【 ASMR＊メンバー限定 】ふふっ…ペロペロしちゃうなのらぞ💓【#姫森ルーナ/ホロライブ】
-UID:RhyNueA4DnM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】もうこれで終わってもいい…だから雑談を…！！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=bFpgXiQzByo
@@ -130,13 +102,6 @@ SUMMARY:🎨Iofi: 【 Senin Produktif 】Lihatlah Banyak Onee-san Cantik Pakai B
 UID:Ccfz2DVgh9U
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝活/雑談】ハイパーパリピ漫画家がみんなを朝から元気づける【イラストメイキング/緋崎ガンマ/#アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=250wUEDjuSk
-DURATION:PT2H
-DTSTART:20220404T214500Z
-SUMMARY:緋崎ガンマ: 【朝活/雑談】ハイパーパリピ漫画家がみんなを朝から元気づける【イラストメイキング/緋崎ガンマ/#アップロー / #ホロスターズ】
-UID:250wUEDjuSk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【まんが一本道〆】ハイパーパリピ漫画家なら爆売れするっしょ【 緋崎ガンマ/#アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=E1DnpxueQC8
 DURATION:PT2H
 DTSTART:20220404T120000Z
@@ -156,20 +121,6 @@ DURATION:PT2H
 DTSTART:20220404T230000Z
 SUMMARY:Baelz: ≪Resident Evil: Village≫ will we finish today? ft. Fauna
 UID:IYQ3ZPo2x3I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Membership／同時視聴】ファンタスティック・ビーストと黒い魔法使いの誕生／Fantastic Beasts: The Crimes of Grindelwald【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=F7niW_3u2Nc
-DURATION:PT2H
-DTSTART:20220405T140000Z
-SUMMARY:鷹嶺ルイ: 【Membership／同時視聴】ファンタスティック・ビーストと黒い魔法使いの誕生／Fantastic Beasts: The Crimes of Grindelwald【鷹嶺ルイ/ホロライブ】
-UID:F7niW_3u2Nc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#13【ELDEN RING】脳筋女騎士、永遠の都へ...【白銀ノエル/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=d2vRCUpCO3Q
-DURATION:PT2H
-DTSTART:20220405T100000Z
-SUMMARY:⚔白銀ノエル: #13【ELDEN RING】脳筋女騎士、永遠の都へ...【白銀ノエル/ホロライブ】※ネタバレあり
-UID:d2vRCUpCO3Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ゼルダの伝説 ブレス オブ ザ ワイルド】最後の神獣に会いに行く!!【花咲みやび /ホロスターズ】\nhttps://www.youtube.com/watch?v=CXfo0MhyyAg
@@ -200,18 +151,11 @@ SUMMARY:Reine: 【ELDEN RING】No sleep ahead\, Time for Elden Ring (spoiler war
 UID:NCUstd_n7wo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[ORIGINAL SONG] CapSule - Mori Calliope x 星街すいせい\nhttps://www.youtube.com/watch?v=M85xU-tbQ6c
+DESCRIPTION:【ELDEN RING】#5 レナラ戦に向けて探索する！！【博衣こより/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=6VzcsUXPy3s
 DURATION:PT2H
-DTSTART:20220404T121500Z
-SUMMARY:Calli: [ORIGINAL SONG] CapSule - Mori Calliope x 星街すいせい
-UID:M85xU-tbQ6c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:My 24 hours!!!!⏰【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=tS8N7RUB3OA
-DURATION:PT2H
-DTSTART:20220404T072909Z
-SUMMARY:🍙猫又おかゆ: My 24 hours!!!!⏰【猫又おかゆ/ホロライブ】
-UID:tS8N7RUB3OA
+DTSTART:20220405T000000Z
+SUMMARY:博衣こより: 【ELDEN RING】#5 レナラ戦に向けて探索する！！【博衣こより/ホロライブ】※ネタバレあり
+UID:6VzcsUXPy3s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【宇宙人狼】帰ってきた！漢気Among Us チャキチャキ行くぞ！ - #漢気アムアス - 【アルランディス視点/ホロスターズ】\nhttps://www.youtube.com/watch?v=v29X-U32W94
@@ -226,6 +170,174 @@ DURATION:PT2H
 DTSTART:20220404T130000Z
 SUMMARY:風真いろは: 【JUMPKING】1時間チャレンジ🔥心がなくならない程度にタイム縮めるでござる！【風真いろは/ホロライブ6期生】
 UID:UhOTGjWxRY8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【  ELDEN RING 】ゴドリック先生を撃破リベンジしないと先に進めないポンデンリング【ホロライブ/さくらみこ】※ネタバレあり\nhttps://www.youtube.com/watch?v=RkaTkpPNHW0
+DURATION:PT2H
+DTSTART:20220405T100000Z
+SUMMARY:🌸さくらみこ: 【  ELDEN RING 】ゴドリック先生を撃破リベンジしないと先に進めないポンデンリング【ホロライブ/さくらみこ】※ネタバレあり
+UID:RkaTkpPNHW0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【イラストメイキング】髪形オールバックにしてみた【緋崎ガンマ/ホロスターズ/UPROAR‼︎】#Shorts\nhttps://www.youtube.com/watch?v=b_EmpkHNojM
+DURATION:PT2H
+DTSTART:20220404T150322Z
+SUMMARY:緋崎ガンマ: 【イラストメイキング】髪形オールバックにしてみた【緋崎ガンマ/ホロスターズ/UPROAR‼︎】#Shorts
+UID:b_EmpkHNojM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【カイロソフト／ミリオン行進曲 #02】絶対売れっ子にしてやるからな。【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=wUWq_zjxvps
+DURATION:PT2H
+DTSTART:20220405T110000Z
+SUMMARY:鷹嶺ルイ: 【カイロソフト／ミリオン行進曲 #02】絶対売れっ子にしてやるからな。【鷹嶺ルイ/ホロライブ】
+UID:wUWq_zjxvps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Freetalk】i finally came home【Moona】\nhttps://www.youtube.com/watch?v=HGDdXVvtP-c
+DURATION:PT2H
+DTSTART:20220404T060000Z
+SUMMARY:🔮Moona: 【Freetalk】i finally came home【Moona】
+UID:HGDdXVvtP-c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【王様ランキング(Ranking of Kings)】18～最終話まで同時視聴(Watchalong)しよう！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=pGM3IM8cFO0
+DURATION:PT2H
+DTSTART:20220405T130000Z
+SUMMARY:🐏角巻わため: 【王様ランキング(Ranking of Kings)】18～最終話まで同時視聴(Watchalong)しよう！【角巻わため/ホロライブ４期生】
+UID:pGM3IM8cFO0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ライフ イズ ストレンジ トゥルー カラーズ】お兄ちゃんの事故の真相を探る！！＃02【雪花ラミィ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=8ae9Pw0uCCI
+DURATION:PT2H
+DTSTART:20220404T000000Z
+SUMMARY:雪花ラミィ: 【ライフ イズ ストレンジ トゥルー カラーズ】お兄ちゃんの事故の真相を探る！！＃02【雪花ラミィ/ホロライブ】※ネタバレあり
+UID:8ae9Pw0uCCI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ELDEN RING】#04 赤ちゃん、魔術学院卒業を目指す！？え、本気？？？【博衣こより/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=zLAWiiYIqu4
+DURATION:PT2H
+DTSTART:20220404T090000Z
+SUMMARY:博衣こより: 【ELDEN RING】#04 赤ちゃん、魔術学院卒業を目指す！？え、本気？？？【博衣こより/ホロライブ】※ネタバレあり
+UID:zLAWiiYIqu4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #朝ミオ 】４月の朝みぉーん！もうすっかり春だね～🌸\nhttps://www.youtube.com/watch?v=42Cu2MltIBo
+DURATION:PT2H
+DTSTART:20220403T223000Z
+SUMMARY:🌲大神ミオ: 【 #朝ミオ 】４月の朝みぉーん！もうすっかり春だね～🌸
+UID:42Cu2MltIBo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【お礼雑談】最近なんかバタバタだった！ドドド怒涛のSuperchat Reading！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=MTlKbrwy8QU
+DURATION:PT2H
+DTSTART:20220403T160000Z
+SUMMARY:🐏角巻わため: 【お礼雑談】最近なんかバタバタだった！ドドド怒涛のSuperchat Reading！【角巻わため/ホロライブ４期生】
+UID:MTlKbrwy8QU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#01【星のカービィ ディスカバリー】ぽよぽよ～！いっぱい食べる君が好きっ！【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=snH-MRCRABU
+DURATION:PT2H
+DTSTART:20220405T130022Z
+SUMMARY:🔥不知火フレア: #01【星のカービィ ディスカバリー】ぽよぽよ～！いっぱい食べる君が好きっ！【ホロライブ/不知火フレア】
+UID:snH-MRCRABU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ELDEN RING】#09 モーゴット倒して次に向かうぞい！【獅白ぼたん/ホロライブ】 ※ネタバレ注意\nhttps://www.youtube.com/watch?v=yS7mdeR6GKw
+DURATION:PT2H
+DTSTART:20220404T120000Z
+SUMMARY:獅白ぼたん: 【ELDEN RING】#09 モーゴット倒して次に向かうぞい！【獅白ぼたん/ホロライブ】 ※ネタバレ注意
+UID:yS7mdeR6GKw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ELDENRING】 魔導士で行くALL BOSS CHALLENGE!! Part9【岸堂天真/ホロスターズ】※ネタバレ有り\nhttps://www.youtube.com/watch?v=1Lzbgnh2otk
+DURATION:PT2H
+DTSTART:20220404T030000Z
+SUMMARY:🦔💨岸堂天真: 【ELDENRING】 魔導士で行くALL BOSS CHALLENGE!! Part9【岸堂天真/ホロスターズ】※ネタバレ有り
+UID:1Lzbgnh2otk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【3D LIVE】Calliope Mori's First 3D Birthday Concert! #calli3DBD\nhttps://www.youtube.com/watch?v=hrcZEjdrkRg
+DURATION:PT2H
+DTSTART:20220404T110000Z
+SUMMARY:Calli: 【3D LIVE】Calliope Mori's First 3D Birthday Concert! #calli3DBD
+UID:hrcZEjdrkRg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:あと１３回・・！早さにこだわりたい深夜の金壺チャレンジ【 ホロライブ / 大神ミオ 】\nhttps://www.youtube.com/watch?v=8vIDQSwH-cM
+DURATION:PT2H
+DTSTART:20220404T150000Z
+SUMMARY:🌲大神ミオ: あと１３回・・！早さにこだわりたい深夜の金壺チャレンジ【 ホロライブ / 大神ミオ 】
+UID:8vIDQSwH-cM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】起床しご飯を食べ機嫌のいい男の雑談【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=RGCnu1G2ios
+DURATION:PT2H
+DTSTART:20220404T043500Z
+SUMMARY:🍷夕刻ロベル: 【雑談】起床しご飯を食べ機嫌のいい男の雑談【夕刻ロベル/ホロスターズ】
+UID:RGCnu1G2ios
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Viscera Cleanup Detail】Who Made This Mess\nhttps://www.youtube.com/watch?v=bDMKHvGGZ8U
+DURATION:PT2H
+DTSTART:20220404T043000Z
+SUMMARY:Kronii: 【Viscera Cleanup Detail】Who Made This Mess
+UID:bDMKHvGGZ8U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【NEEDY GIRL OVERDOSE】メンブレ💕病みツイ💕全部上書きしてあげる💕【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=u5u3IRUyubM
+DURATION:PT2H
+DTSTART:20220404T150000Z
+SUMMARY:尾丸ポルカ: 【NEEDY GIRL OVERDOSE】メンブレ💕病みツイ💕全部上書きしてあげる💕【尾丸ポルカ/ホロライブ】
+UID:u5u3IRUyubM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 プロセカ 】久々のプロセカ！！！遊ぶ！！！！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=ucZ3OnDNSj0
+DURATION:PT2H
+DTSTART:20220404T090000Z
+SUMMARY:桃鈴ねね: 【 プロセカ 】久々のプロセカ！！！遊ぶ！！！！【 桃鈴ねね / ホロライブ 】
+UID:ucZ3OnDNSj0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 閉店事件 】カフェバイト中に何かが起きるのらっ…？！【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=TrrIrLM3kRk
+DURATION:PT2H
+DTSTART:20220404T140000Z
+SUMMARY:🍬姫森ルーナ: 【 閉店事件 】カフェバイト中に何かが起きるのらっ…？！【#姫森ルーナ/ホロライブ】
+UID:TrrIrLM3kRk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活/雑談】ハイパーパリピ漫画家がみんなを朝から元気づける【イラストメイキング/緋崎ガンマ/#アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=250wUEDjuSk
+DURATION:PT2H
+DTSTART:20220404T214500Z
+SUMMARY:緋崎ガンマ: 【朝活/雑談】ハイパーパリピ漫画家がみんなを朝から元気づける【イラストメイキング/緋崎ガンマ/#アップロー / #ホロスターズ】
+UID:250wUEDjuSk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Membership／同時視聴】ファンタスティック・ビーストと黒い魔法使いの誕生／Fantastic Beasts: The Crimes of Grindelwald【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=F7niW_3u2Nc
+DURATION:PT2H
+DTSTART:20220405T140000Z
+SUMMARY:鷹嶺ルイ: 【Membership／同時視聴】ファンタスティック・ビーストと黒い魔法使いの誕生／Fantastic Beasts: The Crimes of Grindelwald【鷹嶺ルイ/ホロライブ】
+UID:F7niW_3u2Nc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#13【ELDEN RING】脳筋女騎士、永遠の都へ...【白銀ノエル/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=d2vRCUpCO3Q
+DURATION:PT2H
+DTSTART:20220405T100000Z
+SUMMARY:⚔白銀ノエル: #13【ELDEN RING】脳筋女騎士、永遠の都へ...【白銀ノエル/ホロライブ】※ネタバレあり
+UID:d2vRCUpCO3Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[ORIGINAL SONG] CapSule - Mori Calliope x 星街すいせい\nhttps://www.youtube.com/watch?v=M85xU-tbQ6c
+DURATION:PT2H
+DTSTART:20220404T121500Z
+SUMMARY:Calli: [ORIGINAL SONG] CapSule - Mori Calliope x 星街すいせい
+UID:M85xU-tbQ6c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:My 24 hours!!!!⏰【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=tS8N7RUB3OA
+DURATION:PT2H
+DTSTART:20220404T072909Z
+SUMMARY:🍙猫又おかゆ: My 24 hours!!!!⏰【猫又おかゆ/ホロライブ】
+UID:tS8N7RUB3OA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ライフ イズ ストレンジ トゥルー カラーズ】タイフォン社の闇が深すぎる＃03【雪花ラミィ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=jMgFwMrps1A
@@ -284,27 +396,6 @@ SUMMARY:ラプラス: 【星のカービィ ディスカバリー】#3 いっぱ
 UID:lZTcVjPlpOg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【イラストメイキング】髪形オールバックにしてみた【緋崎ガンマ/ホロスターズ/UPROAR‼︎】#Shorts\nhttps://www.youtube.com/watch?v=b_EmpkHNojM
-DURATION:PT2H
-DTSTART:20220404T150322Z
-SUMMARY:緋崎ガンマ: 【イラストメイキング】髪形オールバックにしてみた【緋崎ガンマ/ホロスターズ/UPROAR‼︎】#Shorts
-UID:b_EmpkHNojM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Freetalk】i finally came home【Moona】\nhttps://www.youtube.com/watch?v=HGDdXVvtP-c
-DURATION:PT2H
-DTSTART:20220404T060000Z
-SUMMARY:🔮Moona: 【Freetalk】i finally came home【Moona】
-UID:HGDdXVvtP-c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【  ELDEN RING 】ゴドリック先生を撃破リベンジしないと先に進めないポンデンリング【ホロライブ/さくらみこ】※ネタバレあり\nhttps://www.youtube.com/watch?v=RkaTkpPNHW0
-DURATION:PT2H
-DTSTART:20220405T100000Z
-SUMMARY:🌸さくらみこ: 【  ELDEN RING 】ゴドリック先生を撃破リベンジしないと先に進めないポンデンリング【ホロライブ/さくらみこ】※ネタバレあり
-UID:RkaTkpPNHW0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#朝こよ】#36 生〇〇！？新・朝こよ見参ッ！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=hAU6ysKNNnU
 DURATION:PT2H
 DTSTART:20220404T220000Z
@@ -312,60 +403,11 @@ SUMMARY:博衣こより: 【#朝こよ】#36 生〇〇！？新・朝こよ見�
 UID:hAU6ysKNNnU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【カイロソフト／ミリオン行進曲 #02】絶対売れっ子にしてやるからな。【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=wUWq_zjxvps
-DURATION:PT2H
-DTSTART:20220405T110000Z
-SUMMARY:鷹嶺ルイ: 【カイロソフト／ミリオン行進曲 #02】絶対売れっ子にしてやるからな。【鷹嶺ルイ/ホロライブ】
-UID:wUWq_zjxvps
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【王様ランキング(Ranking of Kings)】18～最終話まで同時視聴(Watchalong)しよう！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=pGM3IM8cFO0
-DURATION:PT2H
-DTSTART:20220405T130000Z
-SUMMARY:🐏角巻わため: 【王様ランキング(Ranking of Kings)】18～最終話まで同時視聴(Watchalong)しよう！【角巻わため/ホロライブ４期生】
-UID:pGM3IM8cFO0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ライフ イズ ストレンジ トゥルー カラーズ】お兄ちゃんの事故の真相を探る！！＃02【雪花ラミィ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=8ae9Pw0uCCI
-DURATION:PT2H
-DTSTART:20220404T000000Z
-SUMMARY:雪花ラミィ: 【ライフ イズ ストレンジ トゥルー カラーズ】お兄ちゃんの事故の真相を探る！！＃02【雪花ラミィ/ホロライブ】※ネタバレあり
-UID:8ae9Pw0uCCI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING】#04 赤ちゃん、魔術学院卒業を目指す！？え、本気？？？【博衣こより/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=zLAWiiYIqu4
-DURATION:PT2H
-DTSTART:20220404T090000Z
-SUMMARY:博衣こより: 【ELDEN RING】#04 赤ちゃん、魔術学院卒業を目指す！？え、本気？？？【博衣こより/ホロライブ】※ネタバレあり
-UID:zLAWiiYIqu4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#02【ELDEN RING】新たな沼に向かって…【不知火フレア/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=HUjqpCqemvk
 DURATION:PT2H
 DTSTART:20220404T130000Z
 SUMMARY:🔥不知火フレア: #02【ELDEN RING】新たな沼に向かって…【不知火フレア/ホロライブ】※ネタバレあり
 UID:HUjqpCqemvk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #朝ミオ 】４月の朝みぉーん！もうすっかり春だね～🌸\nhttps://www.youtube.com/watch?v=42Cu2MltIBo
-DURATION:PT2H
-DTSTART:20220403T223000Z
-SUMMARY:🌲大神ミオ: 【 #朝ミオ 】４月の朝みぉーん！もうすっかり春だね～🌸
-UID:42Cu2MltIBo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【お礼雑談】最近なんかバタバタだった！ドドド怒涛のSuperchat Reading！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=MTlKbrwy8QU
-DURATION:PT2H
-DTSTART:20220403T160000Z
-SUMMARY:🐏角巻わため: 【お礼雑談】最近なんかバタバタだった！ドドド怒涛のSuperchat Reading！【角巻わため/ホロライブ４期生】
-UID:MTlKbrwy8QU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#01【星のカービィ ディスカバリー】ぽよぽよ～！いっぱい食べる君が好きっ！【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=snH-MRCRABU
-DURATION:PT2H
-DTSTART:20220405T130022Z
-SUMMARY:🔥不知火フレア: #01【星のカービィ ディスカバリー】ぽよぽよ～！いっぱい食べる君が好きっ！【ホロライブ/不知火フレア】
-UID:snH-MRCRABU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【超ゲリラ雑談】とんでも上機嫌な団長のFreeTalk🌸【白銀ノエル／ホロライブ】\nhttps://www.youtube.com/watch?v=dF5vqDl_8ZE
@@ -389,32 +431,11 @@ SUMMARY:夜十神封魔: 【スプラトゥーン2】イベント出演発表さ
 UID:1X0CEUQSkFM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING】#09 モーゴット倒して次に向かうぞい！【獅白ぼたん/ホロライブ】 ※ネタバレ注意\nhttps://www.youtube.com/watch?v=yS7mdeR6GKw
-DURATION:PT2H
-DTSTART:20220404T120000Z
-SUMMARY:獅白ぼたん: 【ELDEN RING】#09 モーゴット倒して次に向かうぞい！【獅白ぼたん/ホロライブ】 ※ネタバレ注意
-UID:yS7mdeR6GKw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ELDENRING】 魔導士で行くALL BOSS CHALLENGE!! Part9【岸堂天真/ホロスターズ】※ネタバレ有り\nhttps://www.youtube.com/watch?v=1Lzbgnh2otk
-DURATION:PT2H
-DTSTART:20220404T030000Z
-SUMMARY:🦔💨岸堂天真: 【ELDENRING】 魔導士で行くALL BOSS CHALLENGE!! Part9【岸堂天真/ホロスターズ】※ネタバレ有り
-UID:1Lzbgnh2otk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DONATION READING】Calling a meeting w/ Zecretary!【Vestia Zeta / Hololive Indonesia 3rd Gen】\nhttps://www.youtube.com/watch?v=vhX0pKm0Xio
 DURATION:PT2H
 DTSTART:20220404T130000Z
 SUMMARY:Zeta: 【DONATION READING】Calling a meeting w/ Zecretary!【Vestia Zeta / Hololive Indonesia 3rd Gen】
 UID:vhX0pKm0Xio
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【3D LIVE】Calliope Mori's First 3D Birthday Concert! #calli3DBD\nhttps://www.youtube.com/watch?v=hrcZEjdrkRg
-DURATION:PT2H
-DTSTART:20220404T110000Z
-SUMMARY:Calli: 【3D LIVE】Calliope Mori's First 3D Birthday Concert! #calli3DBD
-UID:hrcZEjdrkRg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【フードデリバリーサービス】私は、奇妙な町の配達員。【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=lOa-ILz4PgA
@@ -424,24 +445,10 @@ SUMMARY:鷹嶺ルイ: 【フードデリバリーサービス】私は、奇妙�
 UID:lOa-ILz4PgA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:あと１３回・・！早さにこだわりたい深夜の金壺チャレンジ【 ホロライブ / 大神ミオ 】\nhttps://www.youtube.com/watch?v=8vIDQSwH-cM
-DURATION:PT2H
-DTSTART:20220404T150000Z
-SUMMARY:🌲大神ミオ: あと１３回・・！早さにこだわりたい深夜の金壺チャレンジ【 ホロライブ / 大神ミオ 】
-UID:8vIDQSwH-cM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【星のカービィ ディスカバリー】大冒険はじめる！ぽよ！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=iVtaW-n4ZcM
 DURATION:PT2H
 DTSTART:20220404T130000Z
 SUMMARY:🐏角巻わため: 【星のカービィ ディスカバリー】大冒険はじめる！ぽよ！【角巻わため/ホロライブ４期生】
 UID:iVtaW-n4ZcM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】起床しご飯を食べ機嫌のいい男の雑談【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=RGCnu1G2ios
-DURATION:PT2H
-DTSTART:20220404T043500Z
-SUMMARY:🍷夕刻ロベル: 【雑談】起床しご飯を食べ機嫌のいい男の雑談【夕刻ロベル/ホロスターズ】
-UID:RGCnu1G2ios
 END:VEVENT
 END:VCALENDAR
