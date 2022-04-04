@@ -130,11 +130,11 @@ SUMMARY:🤖ロボ子さん: 【Core Keeper】神げーをやるぞおおおお�
 UID:s6Mec6PCa1o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ネタバレあり】 SEKIRO葦名の狐狼　-その８-  【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=k0JtBmYsAlA
+DESCRIPTION:【Sucker for Love: First Date】Love is in the Tentacles?\nhttps://www.youtube.com/watch?v=TrFzUUIgjIs
 DURATION:PT2H
-DTSTART:20220403T143000Z
-SUMMARY:🌽白上フブキ: 【ネタバレあり】 SEKIRO葦名の狐狼　-その８-  【ホロライブ/白上フブキ】
-UID:k0JtBmYsAlA
+DTSTART:20220404T041015Z
+SUMMARY:IRyS: 【Sucker for Love: First Date】Love is in the Tentacles?
+UID:TrFzUUIgjIs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ゴルフ場がざっくり完成したのでみやびくんとテストプレイ！【花咲みやび/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=hDTFMHf3K3M
@@ -158,25 +158,18 @@ SUMMARY:🐏角巻わため: 【王様ランキング(Ranking of Kings)】12～1
 UID:Swd7WhVsFwU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ネタバレあり】 SEKIRO葦名の狐狼　-その８-  【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=k0JtBmYsAlA
+DURATION:PT2H
+DTSTART:20220403T143000Z
+SUMMARY:🌽白上フブキ: 【ネタバレあり】 SEKIRO葦名の狐狼　-その８-  【ホロライブ/白上フブキ】
+UID:k0JtBmYsAlA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【イラストメイキング】野球のユニフォーム着てみた【緋崎ガンマ/ホロスターズ/UPROAR‼︎】#Shorts\nhttps://www.youtube.com/watch?v=DWQbfB87M8Q
 DURATION:PT2H
 DTSTART:20220403T101509Z
 SUMMARY:緋崎ガンマ: 【イラストメイキング】野球のユニフォーム着てみた【緋崎ガンマ/ホロスターズ/UPROAR‼︎】#Shorts
 UID:DWQbfB87M8Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX LEGENDS】I'M HERE TO GET MY MOZAMBIQUE【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=zYLhUc66BRs
-DURATION:PT2H
-DTSTART:20220403T062912Z
-SUMMARY:Ollie: 【APEX LEGENDS】I'M HERE TO GET MY MOZAMBIQUE【Hololive ID 2nd Gen】
-UID:zYLhUc66BRs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Sucker for Love: First Date】Love is in the Tentacles?\nhttps://www.youtube.com/watch?v=TrFzUUIgjIs
-DURATION:PT2H
-DTSTART:20220404T041015Z
-SUMMARY:IRyS: 【Sucker for Love: First Date】Love is in the Tentacles?
-UID:TrFzUUIgjIs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【宇宙人狼】帰ってきた！漢気Among Us チャキチャキ行くぞ！ - #漢気アムアス - 【アルランディス視点/ホロスターズ】\nhttps://www.youtube.com/watch?v=v29X-U32W94
@@ -186,18 +179,25 @@ SUMMARY:🍕アルランディス: 【宇宙人狼】帰ってきた！漢気Amo
 UID:v29X-U32W94
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Kirby and the Forgotten Land】 poyo... or else 🔫\nhttps://www.youtube.com/watch?v=SIU9OarHD4U
-DURATION:PT2H
-DTSTART:20220402T220000Z
-SUMMARY:Fauna: 【Kirby and the Forgotten Land】 poyo... or else 🔫
-UID:SIU9OarHD4U
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【JUMPKING】1時間チャレンジ🔥心がなくならない程度にタイム縮めるでござる！【風真いろは/ホロライブ6期生】\nhttps://www.youtube.com/watch?v=UhOTGjWxRY8
 DURATION:PT2H
 DTSTART:20220404T130000Z
 SUMMARY:風真いろは: 【JUMPKING】1時間チャレンジ🔥心がなくならない程度にタイム縮めるでござる！【風真いろは/ホロライブ6期生】
 UID:UhOTGjWxRY8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX LEGENDS】I'M HERE TO GET MY MOZAMBIQUE【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=zYLhUc66BRs
+DURATION:PT2H
+DTSTART:20220403T062912Z
+SUMMARY:Ollie: 【APEX LEGENDS】I'M HERE TO GET MY MOZAMBIQUE【Hololive ID 2nd Gen】
+UID:zYLhUc66BRs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Kirby and the Forgotten Land】 poyo... or else 🔫\nhttps://www.youtube.com/watch?v=SIU9OarHD4U
+DURATION:PT2H
+DTSTART:20220402T220000Z
+SUMMARY:Fauna: 【Kirby and the Forgotten Land】 poyo... or else 🔫
+UID:SIU9OarHD4U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【YAGOO絶賛！？】UPROAR!!誕生秘話マンガを描いた本人が振り返る！【雑談/ 緋崎ガンマ/#アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=Aat95IjUqc4
@@ -382,6 +382,13 @@ SUMMARY:💋癒月ちょこ: 【Core Keeper】虫たちを殲滅いたします�
 UID:Gk-swlED2jQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:My 24 hours!!!!⏰【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=tS8N7RUB3OA
+DURATION:PT2H
+DTSTART:20220404T072909Z
+SUMMARY:🍙猫又おかゆ: My 24 hours!!!!⏰【猫又おかゆ/ホロライブ】
+UID:tS8N7RUB3OA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ライフ イズ ストレンジ トゥルー カラーズ】タイフォン社の闇が深すぎる＃03【雪花ラミィ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=jMgFwMrps1A
 DURATION:PT2H
 DTSTART:20220405T000000Z
@@ -396,18 +403,18 @@ SUMMARY:沙花叉クロヱ: 【プロセカ】カラフェスガチャ100連！�
 UID:GmcrugDt3HQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【雑談】Free talk【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=q-jkT7ohsDI
+DURATION:PT2H
+DTSTART:20220403T150000Z
+SUMMARY:荒咬オウガ: 【雑談】Free talk【荒咬オウガ/ホロスターズ】
+UID:q-jkT7ohsDI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【シン・クロニクル】一度きりの物語、選んでいくぞい！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=C_1RVNmOWp0
 DURATION:PT2H
 DTSTART:20220403T120000Z
 SUMMARY:獅白ぼたん: 【シン・クロニクル】一度きりの物語、選んでいくぞい！【獅白ぼたん/ホロライブ】
 UID:C_1RVNmOWp0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【カメラ配信】レーザー彫刻機でYAGOO焼く！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=m8b-HZpu71I
-DURATION:PT2H
-DTSTART:20220403T110000Z
-SUMMARY:❤赤井はあと: 【カメラ配信】レーザー彫刻機でYAGOO焼く！【ホロライブ/赤井はあと】
-UID:m8b-HZpu71I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】ただ、それだけ。 / アステル\nhttps://www.youtube.com/watch?v=SSQ_Nb1K_K4
@@ -417,11 +424,11 @@ SUMMARY:🎭アステル・レダ: 【APEX】ただ、それだけ。 / アス�
 UID:SSQ_Nb1K_K4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】Free talk【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=q-jkT7ohsDI
+DESCRIPTION:【カメラ配信】レーザー彫刻機でYAGOO焼く！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=m8b-HZpu71I
 DURATION:PT2H
-DTSTART:20220403T150000Z
-SUMMARY:荒咬オウガ: 【雑談】Free talk【荒咬オウガ/ホロスターズ】
-UID:q-jkT7ohsDI
+DTSTART:20220403T110000Z
+SUMMARY:❤赤井はあと: 【カメラ配信】レーザー彫刻機でYAGOO焼く！【ホロライブ/赤井はあと】
+UID:m8b-HZpu71I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【singing】睡眠導入？ピアノ版歌枠／KARAOKE【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=tVuAh843vKg
@@ -501,18 +508,18 @@ SUMMARY:🔥不知火フレア: #01【ELDEN RING】時は来た…新たなフ�
 UID:WBbhysMp-sQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#02【  ELDEN RING 】マルギット先生を撃破しないと先に進めないポンデンリング【ホロライブ/さくらみこ】※ネタバレあり\nhttps://www.youtube.com/watch?v=v5H3a7gPHAI
-DURATION:PT2H
-DTSTART:20220403T110000Z
-SUMMARY:🌸さくらみこ: #02【  ELDEN RING 】マルギット先生を撃破しないと先に進めないポンデンリング【ホロライブ/さくらみこ】※ネタバレあり
-UID:v5H3a7gPHAI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】家燃えてるけどこれ大丈夫ぺこですか？ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=TewxGnJCa5Q
 DURATION:PT2H
 DTSTART:20220403T130000Z
 SUMMARY:👯兎田ぺこら: 【Minecraft】家燃えてるけどこれ大丈夫ぺこですか？ぺこ！【ホロライブ/兎田ぺこら】
 UID:TewxGnJCa5Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#02【  ELDEN RING 】マルギット先生を撃破しないと先に進めないポンデンリング【ホロライブ/さくらみこ】※ネタバレあり\nhttps://www.youtube.com/watch?v=v5H3a7gPHAI
+DURATION:PT2H
+DTSTART:20220403T110000Z
+SUMMARY:🌸さくらみこ: #02【  ELDEN RING 】マルギット先生を撃破しないと先に進めないポンデンリング【ホロライブ/さくらみこ】※ネタバレあり
+UID:v5H3a7gPHAI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#12【ELDEN RING】強くなるために！！！探索太郎！！！【白銀ノエル/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=nRHbm2Qffk8
