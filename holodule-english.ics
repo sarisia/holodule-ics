@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Viscera Cleanup Detail】Who Made This Mess\nhttps://www.youtube.com/watch?v=bDMKHvGGZ8U
+DESCRIPTION:【3D LIVE】Calliope Mori's First 3D Birthday Concert! #calli3DBD\nhttps://www.youtube.com/watch?v=hrcZEjdrkRg
+DURATION:PT2H
+DTSTART:20220404T110000Z
+SUMMARY:Calli: 【3D LIVE】Calliope Mori's First 3D Birthday Concert! #calli3DBD
+UID:hrcZEjdrkRg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:unarchived noise brr\nhttps://www.youtube.com/watch?v=WsraSXxELuQ
 DURATION:PT2H
 DTSTART:20220404T043000Z
-SUMMARY:Kronii: 【Viscera Cleanup Detail】Who Made This Mess
-UID:bDMKHvGGZ8U
+SUMMARY:Mumei: unarchived noise brr
+UID:WsraSXxELuQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Kirby and the Forgotten Land】Poyoyoyon\nhttps://www.youtube.com/watch?v=djoShBFXzkE
@@ -32,31 +39,17 @@ SUMMARY:Amelia: 【COVER】Ookami Blues ~
 UID:NOrfhrL0D9k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Sucker for Love: First Date】Love is in the Tentacles?\nhttps://www.youtube.com/watch?v=TrFzUUIgjIs
-DURATION:PT2H
-DTSTART:20220404T041015Z
-SUMMARY:IRyS: 【Sucker for Love: First Date】Love is in the Tentacles?
-UID:TrFzUUIgjIs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【3D LIVE】Calliope Mori's First 3D Birthday Concert! #calli3DBD\nhttps://www.youtube.com/watch?v=hrcZEjdrkRg
-DURATION:PT2H
-DTSTART:20220404T110000Z
-SUMMARY:Calli: 【3D LIVE】Calliope Mori's First 3D Birthday Concert! #calli3DBD
-UID:hrcZEjdrkRg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:unarchived noise brr\nhttps://www.youtube.com/watch?v=WsraSXxELuQ
-DURATION:PT2H
-DTSTART:20220404T043000Z
-SUMMARY:Mumei: unarchived noise brr
-UID:WsraSXxELuQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【BIRTHDAY COUNT-DOWN】Calling My Friends and Chilling!\nhttps://www.youtube.com/watch?v=WcvGVVwIRfk
 DURATION:PT2H
 DTSTART:20220403T135847Z
 SUMMARY:Calli: 【BIRTHDAY COUNT-DOWN】Calling My Friends and Chilling!
 UID:WcvGVVwIRfk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Sucker for Love: First Date】Love is in the Tentacles?\nhttps://www.youtube.com/watch?v=TrFzUUIgjIs
+DURATION:PT2H
+DTSTART:20220404T041015Z
+SUMMARY:IRyS: 【Sucker for Love: First Date】Love is in the Tentacles?
+UID:TrFzUUIgjIs
 END:VEVENT
 END:VCALENDAR
