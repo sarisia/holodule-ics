@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【イラストメイキング】野球のユニフォーム着てみた【緋崎ガンマ/ホロスターズ/UPROAR‼︎】#Shorts\nhttps://www.youtube.com/watch?v=DWQbfB87M8Q
-DURATION:PT2H
-DTSTART:20220403T101509Z
-SUMMARY:緋崎ガンマ: 【イラストメイキング】野球のユニフォーム着てみた【緋崎ガンマ/ホロスターズ/UPROAR‼︎】#Shorts
-UID:DWQbfB87M8Q
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】たのしい たのしい えいぺっくす【羽継烏有/#アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=iy7AzNb-3Hk
 DURATION:PT2H
 DTSTART:20220403T130049Z
 SUMMARY:羽継烏有: 【APEX】たのしい たのしい えいぺっくす【羽継烏有/#アップロー / #ホロスターズ】
 UID:iy7AzNb-3Hk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【イラストメイキング】野球のユニフォーム着てみた【緋崎ガンマ/ホロスターズ/UPROAR‼︎】#Shorts\nhttps://www.youtube.com/watch?v=DWQbfB87M8Q
+DURATION:PT2H
+DTSTART:20220403T101509Z
+SUMMARY:緋崎ガンマ: 【イラストメイキング】野球のユニフォーム着てみた【緋崎ガンマ/ホロスターズ/UPROAR‼︎】#Shorts
+UID:DWQbfB87M8Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】新マップ、走る【夜十神封魔】#アップロー #ホロスターズ\nhttps://www.youtube.com/watch?v=9_dwbFy8lfA
@@ -39,13 +39,6 @@ SUMMARY:荒咬オウガ: 【雑談】Free talk【荒咬オウガ/ホロスター
 UID:q-jkT7ohsDI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】ただ、それだけ。 / アステル\nhttps://www.youtube.com/watch?v=SSQ_Nb1K_K4
-DURATION:PT2H
-DTSTART:20220402T160000Z
-SUMMARY:🎭アステル・レダ: 【APEX】ただ、それだけ。 / アステル
-UID:SSQ_Nb1K_K4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【初見OMORI②】友達を探す/水無世燐央【 #アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=YGd75RCJQbY
 DURATION:PT2H
 DTSTART:20220404T130000Z
@@ -53,11 +46,11 @@ SUMMARY:水無世燐央: 【初見OMORI②】友達を探す/水無世燐央【 
 UID:YGd75RCJQbY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【YAGOO絶賛！？】UPROAR!!誕生秘話マンガを描いた本人が振り返る！【雑談/ 緋崎ガンマ/#アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=Aat95IjUqc4
+DESCRIPTION:【APEX】ただ、それだけ。 / アステル\nhttps://www.youtube.com/watch?v=SSQ_Nb1K_K4
 DURATION:PT2H
-DTSTART:20220403T080000Z
-SUMMARY:緋崎ガンマ: 【YAGOO絶賛！？】UPROAR!!誕生秘話マンガを描いた本人が振り返る！【雑談/ 緋崎ガンマ/#アップロー / #ホロスターズ】
-UID:Aat95IjUqc4
+DTSTART:20220402T160000Z
+SUMMARY:🎭アステル・レダ: 【APEX】ただ、それだけ。 / アステル
+UID:SSQ_Nb1K_K4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PAYDAY2】喫茶店の店長、時々強盗なんかをやってます【羽継烏有/#アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=8pXrmuYBwlc
@@ -65,6 +58,13 @@ DURATION:PT2H
 DTSTART:20220404T130000Z
 SUMMARY:羽継烏有: 【PAYDAY2】喫茶店の店長、時々強盗なんかをやってます【羽継烏有/#アップロー / #ホロスターズ】
 UID:8pXrmuYBwlc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【YAGOO絶賛！？】UPROAR!!誕生秘話マンガを描いた本人が振り返る！【雑談/ 緋崎ガンマ/#アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=Aat95IjUqc4
+DURATION:PT2H
+DTSTART:20220403T080000Z
+SUMMARY:緋崎ガンマ: 【YAGOO絶賛！？】UPROAR!!誕生秘話マンガを描いた本人が振り返る！【雑談/ 緋崎ガンマ/#アップロー / #ホロスターズ】
+UID:Aat95IjUqc4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【初見OMORI①】運命を選ぶ/水無世燐央【 #アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=9TEt4o5M8lg
@@ -100,6 +100,13 @@ DURATION:PT2H
 DTSTART:20220404T030000Z
 SUMMARY:🦔💨岸堂天真: 【ELDENRING】 魔導士で行くALL BOSS CHALLENGE!! Part9【岸堂天真/ホロスターズ】※ネタバレ有り
 UID:1Lzbgnh2otk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゼルダの伝説 ブレス オブ ザ ワイルド】最後の神獣に会いに行く!!【花咲みやび /ホロスターズ】\nhttps://www.youtube.com/watch?v=CXfo0MhyyAg
+DURATION:PT2H
+DTSTART:20220404T090000Z
+SUMMARY:🌺花咲みやび: 【ゼルダの伝説 ブレス オブ ザ ワイルド】最後の神獣に会いに行く!!【花咲みやび /ホロスターズ】
+UID:CXfo0MhyyAg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【イラストメイキング】色々な自分を描いてみるパリピ漫画家【 緋崎ガンマ/ #アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=yHyw_C5j3os
