@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】トレイン繋ぐ簡単な作業【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=FPW7VvkguDk
+DURATION:PT2H
+DTSTART:20220405T120000Z
+SUMMARY:🐻ときのそら: 【Minecraft】トレイン繋ぐ簡単な作業【#ときのそら生放送】
+UID:FPW7VvkguDk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【お歌】ちょっくら歌声改造してもらおう【＃わちゃスタ 27】\nhttps://www.youtube.com/watch?v=XuAs75CA3BY
 DURATION:PT2H
 DTSTART:20220407T100000Z
@@ -249,25 +256,11 @@ SUMMARY:博衣こより: 【#朝こよ】#36 生〇〇！？新・朝こよ見�
 UID:hAU6ysKNNnU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【  ELDEN RING 】ゴドリック先生を撃破リベンジしないと先に進めないポンデンリング【ホロライブ/さくらみこ】※ネタバレあり\nhttps://www.youtube.com/watch?v=RkaTkpPNHW0
-DURATION:PT2H
-DTSTART:20220405T110000Z
-SUMMARY:🌸さくらみこ: 【  ELDEN RING 】ゴドリック先生を撃破リベンジしないと先に進めないポンデンリング【ホロライブ/さくらみこ】※ネタバレあり
-UID:RkaTkpPNHW0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【イラストメイキング】超至近距離でお礼を言うパリピ漫画家【緋崎ガンマ/ホロスターズ/UPROAR‼︎】#Shorts\nhttps://www.youtube.com/watch?v=LL6BI0XPeH8
 DURATION:PT2H
 DTSTART:20220405T130010Z
 SUMMARY:緋崎ガンマ: 【イラストメイキング】超至近距離でお礼を言うパリピ漫画家【緋崎ガンマ/ホロスターズ/UPROAR‼︎】#Shorts
 UID:LL6BI0XPeH8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING】#6 レナラ戦完全リベンジ！操作は赤ちゃん！【博衣こより/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=9cbxKrMteXo
-DURATION:PT2H
-DTSTART:20220405T090000Z
-SUMMARY:博衣こより: 【ELDEN RING】#6 レナラ戦完全リベンジ！操作は赤ちゃん！【博衣こより/ホロライブ】※ネタバレあり
-UID:9cbxKrMteXo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ぴかフェスWIN】カスタムで今日もがんばるやさん開店【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=JKnqzOUze3A
@@ -277,18 +270,18 @@ SUMMARY:🏮夏色まつり: 【#ぴかフェスWIN】カスタムで今日も�
 UID:JKnqzOUze3A
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ELDEN RING】#6 レナラ戦完全リベンジ！操作は赤ちゃん！【博衣こより/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=9cbxKrMteXo
+DURATION:PT2H
+DTSTART:20220405T090000Z
+SUMMARY:博衣こより: 【ELDEN RING】#6 レナラ戦完全リベンジ！操作は赤ちゃん！【博衣こより/ホロライブ】※ネタバレあり
+UID:9cbxKrMteXo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【王様ランキング(Ranking of Kings)】18～最終話まで同時視聴(Watchalong)しよう！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=pGM3IM8cFO0
 DURATION:PT2H
 DTSTART:20220405T130000Z
 SUMMARY:🐏角巻わため: 【王様ランキング(Ranking of Kings)】18～最終話まで同時視聴(Watchalong)しよう！【角巻わため/ホロライブ４期生】
 UID:pGM3IM8cFO0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Raft】#海犬フレンズ めちゃめちゃ文明が進化した！？#3【博衣こより視点/ホロライブ】\nhttps://www.youtube.com/watch?v=r_qZGF7HCv0
-DURATION:PT2H
-DTSTART:20220405T120000Z
-SUMMARY:博衣こより: 【Raft】#海犬フレンズ めちゃめちゃ文明が進化した！？#3【博衣こより視点/ホロライブ】
-UID:r_qZGF7HCv0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VALORANT】ok【Kobo Kanaeru x Vestia Zeta】\nhttps://www.youtube.com/watch?v=CqVFJBPPVKY
@@ -298,11 +291,11 @@ SUMMARY:Kobo: 【VALORANT】ok【Kobo Kanaeru x Vestia Zeta】
 UID:CqVFJBPPVKY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[holoID 2 tahun!] Hari Hari #holoID2mpengan + Pengumuman?\nhttps://www.youtube.com/watch?v=ip7gg8SqQWg
+DESCRIPTION:【Raft】#海犬フレンズ めちゃめちゃ文明が進化した！？#3【博衣こより視点/ホロライブ】\nhttps://www.youtube.com/watch?v=r_qZGF7HCv0
 DURATION:PT2H
-DTSTART:20220406T090000Z
-SUMMARY:IDholo: [holoID 2 tahun!] Hari Hari #holoID2mpengan + Pengumuman?
-UID:ip7gg8SqQWg
+DTSTART:20220405T120000Z
+SUMMARY:博衣こより: 【Raft】#海犬フレンズ めちゃめちゃ文明が進化した！？#3【博衣こより視点/ホロライブ】
+UID:r_qZGF7HCv0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロカラ覗き見】ホロメンのカラオケ覗き見！？ / 3Dstream【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=JQbVDqEZ2og
@@ -310,6 +303,13 @@ DURATION:PT2H
 DTSTART:20220406T100000Z
 SUMMARY:🏮夏色まつり: 【#ホロカラ覗き見】ホロメンのカラオケ覗き見！？ / 3Dstream【ホロライブ/夏色まつり】
 UID:JQbVDqEZ2og
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[holoID 2 tahun!] Hari Hari #holoID2mpengan + Pengumuman?\nhttps://www.youtube.com/watch?v=ip7gg8SqQWg
+DURATION:PT2H
+DTSTART:20220406T090000Z
+SUMMARY:IDholo: [holoID 2 tahun!] Hari Hari #holoID2mpengan + Pengumuman?
+UID:ip7gg8SqQWg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【地球滅亡60秒前!】もうすぐ地球が滅びます。ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=5ZkNvZXiFxI
