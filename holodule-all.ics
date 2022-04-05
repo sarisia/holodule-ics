@@ -67,18 +67,18 @@ SUMMARY:Ollie: 【JUMP KING】RESTARTING AND SPEEDRUNNING... MY FALLS【Hololive
 UID:45NGhUOfAvo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Viscera Cleanup Detail】Cleaning with Friends【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=EWMSN-p618Y
-DURATION:PT2H
-DTSTART:20220404T043000Z
-SUMMARY:Reine: 【Viscera Cleanup Detail】Cleaning with Friends【Pavolia Reine/hololiveID 2nd gen】
-UID:EWMSN-p618Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 雑談 】昼ごはん、食べるかぁ！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=LIwY0okXPIE
 DURATION:PT2H
 DTSTART:20220405T030000Z
 SUMMARY:桃鈴ねね: 【 雑談 】昼ごはん、食べるかぁ！【 桃鈴ねね / ホロライブ 】
 UID:LIwY0okXPIE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Viscera Cleanup Detail】Cleaning with Friends【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=EWMSN-p618Y
+DURATION:PT2H
+DTSTART:20220404T043000Z
+SUMMARY:Reine: 【Viscera Cleanup Detail】Cleaning with Friends【Pavolia Reine/hololiveID 2nd gen】
+UID:EWMSN-p618Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【OUTLAST】hope I make a lot of progress....【Kobo Kanaeru / hololive ID】\nhttps://www.youtube.com/watch?v=iWKarnfdKhg
@@ -207,6 +207,13 @@ SUMMARY:緋崎ガンマ: 【イラストメイキング】髪形オールバッ�
 UID:b_EmpkHNojM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【カイロソフト／ミリオン行進曲 #02】絶対売れっ子にしてやるからな。【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=wUWq_zjxvps
+DURATION:PT2H
+DTSTART:20220405T110000Z
+SUMMARY:鷹嶺ルイ: 【カイロソフト／ミリオン行進曲 #02】絶対売れっ子にしてやるからな。【鷹嶺ルイ/ホロライブ】
+UID:wUWq_zjxvps
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】もうすぐ花岸デュオぺクス【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=DUNDdF7PFp4
 DURATION:PT2H
 DTSTART:20220405T030000Z
@@ -219,13 +226,6 @@ DURATION:PT2H
 DTSTART:20220404T060000Z
 SUMMARY:🔮Moona: 【Freetalk】i finally came home【Moona】
 UID:HGDdXVvtP-c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【カイロソフト／ミリオン行進曲 #02】絶対売れっ子にしてやるからな。【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=wUWq_zjxvps
-DURATION:PT2H
-DTSTART:20220405T110000Z
-SUMMARY:鷹嶺ルイ: 【カイロソフト／ミリオン行進曲 #02】絶対売れっ子にしてやるからな。【鷹嶺ルイ/ホロライブ】
-UID:wUWq_zjxvps
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【王様ランキング(Ranking of Kings)】18～最終話まで同時視聴(Watchalong)しよう！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=pGM3IM8cFO0
@@ -310,6 +310,13 @@ DURATION:PT2H
 DTSTART:20220404T043500Z
 SUMMARY:🍷夕刻ロベル: 【雑談】起床しご飯を食べ機嫌のいい男の雑談【夕刻ロベル/ホロスターズ】
 UID:RGCnu1G2ios
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CELEBRATE!】I Signed to a Major Label! Let's Chat About It!?\nhttps://www.youtube.com/watch?v=JGi73gIgXCo
+DURATION:PT2H
+DTSTART:20220406T050000Z
+SUMMARY:Calli: 【CELEBRATE!】I Signed to a Major Label! Let's Chat About It!?
+UID:JGi73gIgXCo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Viscera Cleanup Detail】Who Made This Mess\nhttps://www.youtube.com/watch?v=bDMKHvGGZ8U
