@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【PagiMoona!】Good Morning!【Freetalk】\nhttps://www.youtube.com/watch?v=nqYD35BLzHE
+DESCRIPTION:【VALORANT】ok【Kobo Kanaeru x Vestia Zeta】\nhttps://www.youtube.com/watch?v=CqVFJBPPVKY
 DURATION:PT2H
-DTSTART:20220406T020000Z
-SUMMARY:🔮Moona: 【PagiMoona!】Good Morning!【Freetalk】
-UID:nqYD35BLzHE
+DTSTART:20220405T140000Z
+SUMMARY:Kobo: 【VALORANT】ok【Kobo Kanaeru x Vestia Zeta】
+UID:CqVFJBPPVKY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Monopoly Plus 】BAERYS + IOLLIE?!?!?! THE LONG AWAITED CHAOS MONOPOLY【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=kZ1ncHR1X_Q
+DURATION:PT2H
+DTSTART:20220406T040000Z
+SUMMARY:🎨Iofi: 【 Monopoly Plus 】BAERYS + IOLLIE?!?!?! THE LONG AWAITED CHAOS MONOPOLY【 iofi / ホロライブ 】
+UID:kZ1ncHR1X_Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[holoID 2 tahun!] Hari Hari #holoID2mpengan + Pengumuman?\nhttps://www.youtube.com/watch?v=ip7gg8SqQWg
@@ -16,5 +23,12 @@ DURATION:PT2H
 DTSTART:20220406T090000Z
 SUMMARY:IDholo: [holoID 2 tahun!] Hari Hari #holoID2mpengan + Pengumuman?
 UID:ip7gg8SqQWg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PagiMoona!】Good Morning!【Freetalk】\nhttps://www.youtube.com/watch?v=nqYD35BLzHE
+DURATION:PT2H
+DTSTART:20220406T020000Z
+SUMMARY:🔮Moona: 【PagiMoona!】Good Morning!【Freetalk】
+UID:nqYD35BLzHE
 END:VEVENT
 END:VCALENDAR
