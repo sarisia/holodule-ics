@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン2】さらなる高みへ！X帯ガチマ【夜十神封魔】#アップロー #ホロスターズ\nhttps://www.youtube.com/watch?v=eMGSWJk6rZI
-DURATION:PT2H
-DTSTART:20220405T110000Z
-SUMMARY:夜十神封魔: 【スプラトゥーン2】さらなる高みへ！X帯ガチマ【夜十神封魔】#アップロー #ホロスターズ
-UID:eMGSWJk6rZI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Within Skerry】とんでもなく怖いらしいので助っ人を呼びました。【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=rkOfEICgZRg
 DURATION:PT2H
 DTSTART:20220405T120000Z
@@ -23,6 +16,13 @@ DURATION:PT2H
 DTSTART:20220406T120000Z
 SUMMARY:獅白ぼたん: 【ELDEN RING】#10 聖樹の謎を解明すべく、我々は雪原の奥地へと向かった…【獅白ぼたん/ホロライブ】 ※ネタバレ注意
 UID:kYsMNOdbaio
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スプラトゥーン2】さらなる高みへ！X帯ガチマ【夜十神封魔】#アップロー #ホロスターズ\nhttps://www.youtube.com/watch?v=eMGSWJk6rZI
+DURATION:PT2H
+DTSTART:20220405T110000Z
+SUMMARY:夜十神封魔: 【スプラトゥーン2】さらなる高みへ！X帯ガチマ【夜十神封魔】#アップロー #ホロスターズ
+UID:eMGSWJk6rZI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【KeyWe】#あやトワ　でかわいい鳥になって謎解き協力【常闇トワ&百鬼あやめ】\nhttps://www.youtube.com/watch?v=OxG5Ukqv8OY
@@ -144,20 +144,6 @@ SUMMARY:🚑大空スバル: 【】【】
 UID:zxBkcRq0P8g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【イラストメイキング】髪形オールバックにしてみた【緋崎ガンマ/ホロスターズ/UPROAR‼︎】#Shorts\nhttps://www.youtube.com/watch?v=b_EmpkHNojM
-DURATION:PT2H
-DTSTART:20220404T150322Z
-SUMMARY:緋崎ガンマ: 【イラストメイキング】髪形オールバックにしてみた【緋崎ガンマ/ホロスターズ/UPROAR‼︎】#Shorts
-UID:b_EmpkHNojM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】もうすぐ花岸デュオぺクス【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=DUNDdF7PFp4
-DURATION:PT2H
-DTSTART:20220405T030000Z
-SUMMARY:🦔💨岸堂天真: 【APEX】もうすぐ花岸デュオぺクス【岸堂天真/ホロスターズ】
-UID:DUNDdF7PFp4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】マウス充電雑談おじさん→ソロ練習→20時からチーム練【夕刻ロベル/花芽すみれ/英リサ】\nhttps://www.youtube.com/watch?v=29gHl65jQHw
 DURATION:PT2H
 DTSTART:20220405T084000Z
@@ -170,6 +156,20 @@ DURATION:PT2H
 DTSTART:20220405T110000Z
 SUMMARY:鷹嶺ルイ: 【カイロソフト／ミリオン行進曲 #02】絶対売れっ子にしてやるからな。【鷹嶺ルイ/ホロライブ】
 UID:wUWq_zjxvps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【イラストメイキング】髪形オールバックにしてみた【緋崎ガンマ/ホロスターズ/UPROAR‼︎】#Shorts\nhttps://www.youtube.com/watch?v=b_EmpkHNojM
+DURATION:PT2H
+DTSTART:20220404T150322Z
+SUMMARY:緋崎ガンマ: 【イラストメイキング】髪形オールバックにしてみた【緋崎ガンマ/ホロスターズ/UPROAR‼︎】#Shorts
+UID:b_EmpkHNojM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】もうすぐ花岸デュオぺクス【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=DUNDdF7PFp4
+DURATION:PT2H
+DTSTART:20220405T030000Z
+SUMMARY:🦔💨岸堂天真: 【APEX】もうすぐ花岸デュオぺクス【岸堂天真/ホロスターズ】
+UID:DUNDdF7PFp4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ぴかフェスWIN】カスタムで今日もがんばるやさん開店【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=JKnqzOUze3A
@@ -263,18 +263,18 @@ SUMMARY:💋癒月ちょこ: 【シン・クロニクル】一度きりの物語
 UID:lSO7epXGONY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【リングフィットアドベンチャー】今年最後だと思われるRFA。【花咲みやび /ホロスターズ】\nhttps://www.youtube.com/watch?v=Ux1Zom-1Bg8
-DURATION:PT2H
-DTSTART:20220406T080000Z
-SUMMARY:🌺花咲みやび: 【リングフィットアドベンチャー】今年最後だと思われるRFA。【花咲みやび /ホロスターズ】
-UID:Ux1Zom-1Bg8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【お歌】ちょっくら歌声改造してもらおう【＃わちゃスタ 27】\nhttps://www.youtube.com/watch?v=XuAs75CA3BY
 DURATION:PT2H
 DTSTART:20220407T100000Z
 SUMMARY:ホロスターズ: 【お歌】ちょっくら歌声改造してもらおう【＃わちゃスタ 27】
 UID:XuAs75CA3BY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【リングフィットアドベンチャー】今年最後だと思われるRFA。【花咲みやび /ホロスターズ】\nhttps://www.youtube.com/watch?v=Ux1Zom-1Bg8
+DURATION:PT2H
+DTSTART:20220406T080000Z
+SUMMARY:🌺花咲みやび: 【リングフィットアドベンチャー】今年最後だと思われるRFA。【花咲みやび /ホロスターズ】
+UID:Ux1Zom-1Bg8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#08【ELDEN RING】ラダーン祭り開催じゃい！！！！！【雪花ラミィ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=7hpw7TyyVeo
@@ -354,18 +354,18 @@ SUMMARY:🐏角巻わため: 【KeyWe】ルイちゃんと一緒にお仕事で�
 UID:mTXjyh_743I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#13【ELDEN RING】脳筋女騎士、永遠の都へ...【白銀ノエル/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=d2vRCUpCO3Q
-DURATION:PT2H
-DTSTART:20220405T100000Z
-SUMMARY:⚔白銀ノエル: #13【ELDEN RING】脳筋女騎士、永遠の都へ...【白銀ノエル/ホロライブ】※ネタバレあり
-UID:d2vRCUpCO3Q
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Escape Simulator】 Let me out! Let me out!! #CeReines\nhttps://www.youtube.com/watch?v=_4Adt7KUaqM
 DURATION:PT2H
 DTSTART:20220406T030000Z
 SUMMARY:Fauna: 【Escape Simulator】 Let me out! Let me out!! #CeReines
 UID:_4Adt7KUaqM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#13【ELDEN RING】脳筋女騎士、永遠の都へ...【白銀ノエル/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=d2vRCUpCO3Q
+DURATION:PT2H
+DTSTART:20220405T100000Z
+SUMMARY:⚔白銀ノエル: #13【ELDEN RING】脳筋女騎士、永遠の都へ...【白銀ノエル/ホロライブ】※ネタバレあり
+UID:d2vRCUpCO3Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【A WAY OUT】脱獄ならまかせろー！！！【#ろぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=vsrbQKSzU0k
@@ -396,18 +396,11 @@ SUMMARY:雪花ラミィ: 【ライフ イズ ストレンジ トゥルー カラ
 UID:jMgFwMrps1A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】はじめて歌う曲もいっぱいある！ドキドキ…【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=3LlJ6n-zXuA
+DESCRIPTION:【ELDEN RING #09】TOUCH GRACE.【SPOILER WARNING】\nhttps://www.youtube.com/watch?v=sZ5sJavurd8
 DURATION:PT2H
-DTSTART:20220405T100000Z
-SUMMARY:🍙猫又おかゆ: 【歌枠】はじめて歌う曲もいっぱいある！ドキドキ…【猫又おかゆ/ホロライブ】
-UID:3LlJ6n-zXuA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活/雑談】ハイパーパリピ漫画家は早起き【イラストメイキング/緋崎ガンマ/#アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=pvUQFGCl21k
-DURATION:PT2H
-DTSTART:20220405T230514Z
-SUMMARY:緋崎ガンマ: 【朝活/雑談】ハイパーパリピ漫画家は早起き【イラストメイキング/緋崎ガンマ/#アップロー / #ホロスターズ】
-UID:pvUQFGCl21k
+DTSTART:20220406T035952Z
+SUMMARY:Calli: 【ELDEN RING #09】TOUCH GRACE.【SPOILER WARNING】
+UID:sZ5sJavurd8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VALORANT】いつメン！UPROAR!!コラボ！【夜十神封魔・視点】#アップロー #ホロスターズ\nhttps://www.youtube.com/watch?v=_Xz3GDYr1c8
@@ -415,6 +408,27 @@ DURATION:PT2H
 DTSTART:20220406T090000Z
 SUMMARY:夜十神封魔: 【VALORANT】いつメン！UPROAR!!コラボ！【夜十神封魔・視点】#アップロー #ホロスターズ
 UID:_Xz3GDYr1c8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】はじめて歌う曲もいっぱいある！ドキドキ…【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=3LlJ6n-zXuA
+DURATION:PT2H
+DTSTART:20220405T100000Z
+SUMMARY:🍙猫又おかゆ: 【歌枠】はじめて歌う曲もいっぱいある！ドキドキ…【猫又おかゆ/ホロライブ】
+UID:3LlJ6n-zXuA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#09【ELDEN RING】聖杯の雫を求めに彷徨う【雪花ラミィ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=FIu5z2EPkkw
+DURATION:PT2H
+DTSTART:20220406T090000Z
+SUMMARY:雪花ラミィ: #09【ELDEN RING】聖杯の雫を求めに彷徨う【雪花ラミィ/ホロライブ】※ネタバレあり
+UID:FIu5z2EPkkw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活/雑談】ハイパーパリピ漫画家は早起き【イラストメイキング/緋崎ガンマ/#アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=pvUQFGCl21k
+DURATION:PT2H
+DTSTART:20220405T230514Z
+SUMMARY:緋崎ガンマ: 【朝活/雑談】ハイパーパリピ漫画家は早起き【イラストメイキング/緋崎ガンマ/#アップロー / #ホロスターズ】
+UID:pvUQFGCl21k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【夜勤事件】叫んだら即終了...喫茶店の店長がコンビニでバイトする【羽継烏有/#アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=DOZnuV6SOAk
@@ -459,18 +473,18 @@ SUMMARY:Calli: [Universal Music Debut] Shinigami Note EP and Solo Concert Teaser
 UID:V2ebwqUM8IY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING】#6 レナラ戦完全リベンジ！操作は赤ちゃん！【博衣こより/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=9cbxKrMteXo
-DURATION:PT2H
-DTSTART:20220405T090000Z
-SUMMARY:博衣こより: 【ELDEN RING】#6 レナラ戦完全リベンジ！操作は赤ちゃん！【博衣こより/ホロライブ】※ネタバレあり
-UID:9cbxKrMteXo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ホロカラ覗き見】ホロメンのカラオケ覗き見！？ / 3Dstream【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=JQbVDqEZ2og
 DURATION:PT2H
 DTSTART:20220406T100000Z
 SUMMARY:🏮夏色まつり: 【#ホロカラ覗き見】ホロメンのカラオケ覗き見！？ / 3Dstream【ホロライブ/夏色まつり】
 UID:JQbVDqEZ2og
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ELDEN RING】#6 レナラ戦完全リベンジ！操作は赤ちゃん！【博衣こより/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=9cbxKrMteXo
+DURATION:PT2H
+DTSTART:20220405T090000Z
+SUMMARY:博衣こより: 【ELDEN RING】#6 レナラ戦完全リベンジ！操作は赤ちゃん！【博衣こより/ホロライブ】※ネタバレあり
+UID:9cbxKrMteXo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Raft】#海犬フレンズ めちゃめちゃ文明が進化した！？#3【博衣こより視点/ホロライブ】\nhttps://www.youtube.com/watch?v=r_qZGF7HCv0
@@ -494,6 +508,13 @@ SUMMARY:Reine: 【Escape Simulator】It is hidden\, but an exit can be found... 
 UID:jW5R823B-TQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【星のカービィ ディスカバリー】#4 敵強くなってきた！わにゃ！【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=mNmH2n9NC1U
+DURATION:PT2H
+DTSTART:20220406T093000Z
+SUMMARY:ラプラス: 【星のカービィ ディスカバリー】#4 敵強くなってきた！わにゃ！【ラプラス・ダークネス/ホロライブ】
+UID:mNmH2n9NC1U
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【フードデリバリーサービス】私は、奇妙な町の配達員。【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=lOa-ILz4PgA
 DURATION:PT2H
 DTSTART:20220404T150000Z
@@ -506,13 +527,6 @@ DURATION:PT2H
 DTSTART:20220406T090000Z
 SUMMARY:博衣こより: 【Papers\, Please】#2 神ゲーすぎてハマった頭脳の入国審査つづきから！【博衣こより/ホロライブ】
 UID:Srpi5JI3TIA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【星のカービィ ディスカバリー】#4 敵強くなってきた！わにゃ！【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=mNmH2n9NC1U
-DURATION:PT2H
-DTSTART:20220406T093000Z
-SUMMARY:ラプラス: 【星のカービィ ディスカバリー】#4 敵強くなってきた！わにゃ！【ラプラス・ダークネス/ホロライブ】
-UID:mNmH2n9NC1U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【弾き語り枠】ゆっくり眠る前の歌【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=AOzt8-9bX3c
