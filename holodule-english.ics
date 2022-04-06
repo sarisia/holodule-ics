@@ -4,39 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:≪Resident Evil: Village≫ will we finish today? ft. Fauna\nhttps://www.youtube.com/watch?v=IYQ3ZPo2x3I
-DURATION:PT2H
-DTSTART:20220404T230000Z
-SUMMARY:Baelz: ≪Resident Evil: Village≫ will we finish today? ft. Fauna
-UID:IYQ3ZPo2x3I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PASSPARTOUT】how much for hololive\nhttps://www.youtube.com/watch?v=NY2hgaSgmmA
-DURATION:PT2H
-DTSTART:20220406T000204Z
-SUMMARY:Gura: 【PASSPARTOUT】how much for hololive
-UID:NY2hgaSgmmA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ELDEN RING #09】TOUCH GRACE.【SPOILER WARNING】\nhttps://www.youtube.com/watch?v=sZ5sJavurd8
 DURATION:PT2H
 DTSTART:20220406T035952Z
 SUMMARY:Calli: 【ELDEN RING #09】TOUCH GRACE.【SPOILER WARNING】
 UID:sZ5sJavurd8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Escape Simulator】 Let me out! Let me out!! #CeReines\nhttps://www.youtube.com/watch?v=_4Adt7KUaqM
-DURATION:PT2H
-DTSTART:20220406T030000Z
-SUMMARY:Fauna: 【Escape Simulator】 Let me out! Let me out!! #CeReines
-UID:_4Adt7KUaqM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Chatting】I Am Bored So Let's Chit Chat\nhttps://www.youtube.com/watch?v=sLx0N8Fjcbo
-DURATION:PT2H
-DTSTART:20220405T024019Z
-SUMMARY:Mumei: 【Chatting】I Am Bored So Let's Chit Chat
-UID:sLx0N8Fjcbo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【KEYWE】Kiwawa & Mumeiwi\nhttps://www.youtube.com/watch?v=Nllze52PrPY
@@ -46,18 +18,11 @@ SUMMARY:Mumei: 【KEYWE】Kiwawa & Mumeiwi
 UID:Nllze52PrPY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[Universal Music Debut] Shinigami Note EP and Solo Concert Teaser\nhttps://www.youtube.com/watch?v=V2ebwqUM8IY
+DESCRIPTION:【PASSPARTOUT】how much for hololive\nhttps://www.youtube.com/watch?v=NY2hgaSgmmA
 DURATION:PT2H
-DTSTART:20220405T175811Z
-SUMMARY:Calli: [Universal Music Debut] Shinigami Note EP and Solo Concert Teaser
-UID:V2ebwqUM8IY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CELEBRATE!】I Signed to a Major Label! Let's Chat About It!?\nhttps://www.youtube.com/watch?v=JGi73gIgXCo
-DURATION:PT2H
-DTSTART:20220405T130017Z
-SUMMARY:Calli: 【CELEBRATE!】I Signed to a Major Label! Let's Chat About It!?
-UID:JGi73gIgXCo
+DTSTART:20220406T000204Z
+SUMMARY:Gura: 【PASSPARTOUT】how much for hololive
+UID:NY2hgaSgmmA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【YAKUZA 0】SMACKTUS but pls dont take my yubi - SPOILER ALERT #kfp #キアライブ\nhttps://www.youtube.com/watch?v=VDU2O59-Bms
@@ -65,5 +30,19 @@ DURATION:PT2H
 DTSTART:20220406T130000Z
 SUMMARY:Kiara: 【YAKUZA 0】SMACKTUS but pls dont take my yubi - SPOILER ALERT #kfp #キアライブ
 UID:VDU2O59-Bms
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Escape Simulator】 Let me out! Let me out!! #CeReines\nhttps://www.youtube.com/watch?v=_4Adt7KUaqM
+DURATION:PT2H
+DTSTART:20220406T030000Z
+SUMMARY:Fauna: 【Escape Simulator】 Let me out! Let me out!! #CeReines
+UID:_4Adt7KUaqM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Universal Music Debut] Shinigami Note EP and Solo Concert Teaser\nhttps://www.youtube.com/watch?v=V2ebwqUM8IY
+DURATION:PT2H
+DTSTART:20220405T175811Z
+SUMMARY:Calli: [Universal Music Debut] Shinigami Note EP and Solo Concert Teaser
+UID:V2ebwqUM8IY
 END:VEVENT
 END:VCALENDAR
