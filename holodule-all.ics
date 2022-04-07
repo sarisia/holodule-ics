@@ -46,13 +46,6 @@ SUMMARY:桃鈴ねね: 【 歌研究 】息多めに歌えるようになりた�
 UID:8xGh_0o6iTQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【飲酒雑談】みんな1週間おつかれ晩酌配信【緋崎ガンマ/#アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=gzYGO2eSh8o
-DURATION:PT2H
-DTSTART:20220408T120000Z
-SUMMARY:緋崎ガンマ: 【飲酒雑談】みんな1週間おつかれ晩酌配信【緋崎ガンマ/#アップロー / #ホロスターズ】
-UID:gzYGO2eSh8o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ポルカの伝説】コンビニで急に何か買う\nhttps://www.youtube.com/watch?v=7n-SV7oaHSA
 DURATION:PT2H
 DTSTART:20220407T100000Z
@@ -151,6 +144,13 @@ SUMMARY:Reine: 【Papers\, Please】or else【Pavolia Reine/hololiveID 2nd gen�
 UID:ta3zsoMP2LE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【NieR Replicant ver.1.22474487139…②】夏に降る雪/水無世燐央　※ネタバレあり【#アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=obFdDf3JewM
+DURATION:PT2H
+DTSTART:20220407T120000Z
+SUMMARY:水無世燐央: 【NieR Replicant ver.1.22474487139…②】夏に降る雪/水無世燐央　※ネタバレあり【#アップロー / #ホロスターズ】
+UID:obFdDf3JewM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ネタバレあり】 ララ狐は竜騎士になりたい　＃３ 【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=igEOHWmgakc
 DURATION:PT2H
 DTSTART:20220407T130000Z
@@ -172,11 +172,11 @@ SUMMARY:Amelia: 【DOOM Eternal】FINAL 2 Chapters~
 UID:pYlub3EIqeU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Vampire survivors】きれいな花火見せてやんよ【荒咬オウガ　ホロスターズ】\nhttps://www.youtube.com/watch?v=bBI9xQYTh50
+DESCRIPTION:【お仕事の悩み相談会場】元ブラック企業の営業がみんなのお悩みを解決！【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=aQMZJPksDlY
 DURATION:PT2H
-DTSTART:20220407T150000Z
-SUMMARY:荒咬オウガ: 【Vampire survivors】きれいな花火見せてやんよ【荒咬オウガ　ホロスターズ】
-UID:bBI9xQYTh50
+DTSTART:20220407T140000Z
+SUMMARY:鷹嶺ルイ: 【お仕事の悩み相談会場】元ブラック企業の営業がみんなのお悩みを解決！【鷹嶺ルイ/ホロライブ】
+UID:aQMZJPksDlY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】本当に少しだけおしゃべりする 【羽継烏有/#アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=iQcfU7B5REU
@@ -184,6 +184,13 @@ DURATION:PT2H
 DTSTART:20220406T183056Z
 SUMMARY:羽継烏有: 【雑談】本当に少しだけおしゃべりする 【羽継烏有/#アップロー / #ホロスターズ】
 UID:iQcfU7B5REU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Vampire survivors】きれいな花火見せてやんよ【荒咬オウガ　ホロスターズ】\nhttps://www.youtube.com/watch?v=bBI9xQYTh50
+DURATION:PT2H
+DTSTART:20220407T150000Z
+SUMMARY:荒咬オウガ: 【Vampire survivors】きれいな花火見せてやんよ【荒咬オウガ　ホロスターズ】
+UID:bBI9xQYTh50
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪PowerWash Simulator≫ pp time\nhttps://www.youtube.com/watch?v=llMnRQTm4Nk
@@ -212,13 +219,6 @@ DURATION:PT2H
 DTSTART:20220406T153000Z
 SUMMARY:🌽白上フブキ: 【ネタバレあり】 ララ狐は竜騎士になりたい　＃２ 【ホロライブ/白上フブキ】
 UID:tbEqhja4XVw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【晩酌雑談】レアなまったり雑談枠！ゆっくりすごそっ【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=E64FM9tZrgY
-DURATION:PT2H
-DTSTART:20220407T133000Z
-SUMMARY:博衣こより: 【晩酌雑談】レアなまったり雑談枠！ゆっくりすごそっ【博衣こより/ホロライブ】
-UID:E64FM9tZrgY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#02【星のカービィ ディスカバリー】それと合体するの！？可愛いけど仕事選んで！？【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=cdoaIlruxXk
@@ -361,20 +361,6 @@ SUMMARY:💋癒月ちょこ: 【Core Keeper】ちょろぼコラボ⚡ロボ子�
 UID:u4Jx08LejwQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】お、おい…気がつけば4月なんだが【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=Kx_zuqywJzA
-DURATION:PT2H
-DTSTART:20220407T130000Z
-SUMMARY:獅白ぼたん: 【雑談】お、おい…気がつけば4月なんだが【獅白ぼたん/ホロライブ】
-UID:Kx_zuqywJzA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MOTHER SIMULATOR】what should I do with.. baby?!【Hololive Indonesia 3rd Gen】\nhttps://www.youtube.com/watch?v=TkdDYAJyYD0
-DURATION:PT2H
-DTSTART:20220407T133048Z
-SUMMARY:Kaela: 【MOTHER SIMULATOR】what should I do with.. baby?!【Hololive Indonesia 3rd Gen】
-UID:TkdDYAJyYD0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#14【ELDEN RING】脳筋女騎士、王都ローデイルへ...【白銀ノエル/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=iN4lnxo1Kek
 DURATION:PT2H
 DTSTART:20220407T124008Z
@@ -396,10 +382,10 @@ SUMMARY:🌟夜空メル: 【PowerWash Simulator】ふたりでお掃除大作�
 UID:GkFjVjRxsow
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FF10】まったりやるでござる🍃気になりすぎて身動き取れないのでがっつり進めたい🔥※配信内容にネタバレあり【風真いろは/ホロライブ6期生】\nhttps://www.youtube.com/watch?v=f29jEJJbf0o
+DESCRIPTION:【飲酒雑談】みんな1週間おつかれ晩酌配信【緋崎ガンマ/#アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=gzYGO2eSh8o
 DURATION:PT2H
-DTSTART:20220407T120000Z
-SUMMARY:風真いろは: 【FF10】まったりやるでござる🍃気になりすぎて身動き取れないのでがっつり進めたい🔥※配信内容にネタバレあり【風真いろは/ホロライブ6期生】
-UID:f29jEJJbf0o
+DTSTART:20220408T120000Z
+SUMMARY:緋崎ガンマ: 【飲酒雑談】みんな1週間おつかれ晩酌配信【緋崎ガンマ/#アップロー / #ホロスターズ】
+UID:gzYGO2eSh8o
 END:VEVENT
 END:VCALENDAR
