@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【星のカービィ ディスカバリー】いざ！エバーブルグ海岸へ！#2【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=LubtLUBLXA0
+DURATION:PT2H
+DTSTART:20220407T140000Z
+SUMMARY:🐏角巻わため: 【星のカービィ ディスカバリー】いざ！エバーブルグ海岸へ！#2【角巻わため/ホロライブ４期生】
+UID:LubtLUBLXA0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【朝活/雑談】寝ぼけてるハイパーパリピ漫画家【イラストメイキング/緋崎ガンマ/#アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=r0ImgaRas8s
 DURATION:PT2H
 DTSTART:20220406T230000Z
@@ -74,13 +81,6 @@ SUMMARY:🦔💨岸堂天真: 【ENGLISH】ヲタク専用英語を学びます�
 UID:xZ4fsqlnkkg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】もちべ すごい えいぺっくす【羽継烏有/#アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=JyqgdWojRa4
-DURATION:PT2H
-DTSTART:20220407T140030Z
-SUMMARY:羽継烏有: 【APEX】もちべ すごい えいぺっくす【羽継烏有/#アップロー / #ホロスターズ】
-UID:JyqgdWojRa4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【推理】目隠し食レポ！バカ舌探偵はこの人です【混乱】\nhttps://www.youtube.com/watch?v=DciOCMAUhRE
 DURATION:PT2H
 DTSTART:20220407T110000Z
@@ -102,11 +102,11 @@ SUMMARY:🎭アステル・レダ: 【VALORANT】りはヴぃり / アステル
 UID:j8_DJGo0Uz4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【八月のシンデレラナイン】ハチナイ×マッスル？！アキ先輩と一緒に青春の世界へ⚾✨【#ハチナイ_ホロマッスル /ホロライブ】\nhttps://www.youtube.com/watch?v=WKA3He1_9Xw
+DESCRIPTION:【ネタバレあり】 ララ狐は竜騎士になりたい　＃４ 【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=e0Sa2QkXdoU
 DURATION:PT2H
-DTSTART:20220408T100027Z
-SUMMARY:⚔白銀ノエル: 【八月のシンデレラナイン】ハチナイ×マッスル？！アキ先輩と一緒に青春の世界へ⚾✨【#ハチナイ_ホロマッスル /ホロライブ】
-UID:WKA3He1_9Xw
+DTSTART:20220407T163000Z
+SUMMARY:🌽白上フブキ: 【ネタバレあり】 ララ狐は竜騎士になりたい　＃４ 【ホロライブ/白上フブキ】
+UID:e0Sa2QkXdoU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Kirby and the Forgotten Land】YOUR LAST POYO\nhttps://www.youtube.com/watch?v=8XiwapsWPU4
@@ -121,6 +121,13 @@ DURATION:PT2H
 DTSTART:20220407T160000Z
 SUMMARY:Kobo: 【KOBOO】Spooky Night with Kobo #2【Kobo Kanaeru / Hololive Indonesia 3rd Gen】
 UID:kjm2STqRehY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【八月のシンデレラナイン】ハチナイ×マッスル？！アキ先輩と一緒に青春の世界へ⚾✨【#ハチナイ_ホロマッスル /ホロライブ】\nhttps://www.youtube.com/watch?v=WKA3He1_9Xw
+DURATION:PT2H
+DTSTART:20220408T100027Z
+SUMMARY:⚔白銀ノエル: 【八月のシンデレラナイン】ハチナイ×マッスル？！アキ先輩と一緒に青春の世界へ⚾✨【#ハチナイ_ホロマッスル /ホロライブ】
+UID:WKA3He1_9Xw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 みんなのリズム天国 】寝起きでリズムを刻むのら！💗【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=9vvsBkQc-a8
@@ -268,6 +275,13 @@ DURATION:PT2H
 DTSTART:20220407T034500Z
 SUMMARY:💋癒月ちょこ: 【Core Keeper】１時間以内に資源拠点作り上げる⚡【ホロライブ/癒月ちょこ】
 UID:RXGElgXU4RQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】本当に一瞬だけおしゃべりする【羽継烏有/#アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=BAIT-YyC8Pg
+DURATION:PT2H
+DTSTART:20220407T193000Z
+SUMMARY:羽継烏有: 【雑談】本当に一瞬だけおしゃべりする【羽継烏有/#アップロー / #ホロスターズ】
+UID:BAIT-YyC8Pg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Core Keeper】初心者とガチ勢！ちょろぼで共同サバイバル！！【ホロライブ/ #ロボ子生放送】\nhttps://www.youtube.com/watch?v=DQ2zLzqfUIE
