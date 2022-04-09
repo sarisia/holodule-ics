@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【APEX】寝起きの小声ぼそぼそ練習【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=_8dtJyqK7tA
-DURATION:PT2H
-DTSTART:20220409T030000Z
-SUMMARY:🍷夕刻ロベル: 【APEX】寝起きの小声ぼそぼそ練習【夕刻ロベル/ホロスターズ】
-UID:_8dtJyqK7tA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】FPS初心者の本気だ…！/水無世燐央【#アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=UEZEsJvNrgw
 DURATION:PT2H
 DTSTART:20220408T100000Z
@@ -32,6 +25,13 @@ SUMMARY:羽継烏有: 【雑談】本当に一瞬だけおしゃべりする【�
 UID:BAIT-YyC8Pg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【イラストメイキング】色んなYAGOOをパリピ漫画家が描いてみる【緋崎ガンマ/#アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=HLO9uNtKHLI
+DURATION:PT2H
+DTSTART:20220410T030022Z
+SUMMARY:緋崎ガンマ: 【イラストメイキング】色んなYAGOOをパリピ漫画家が描いてみる【緋崎ガンマ/#アップロー / #ホロスターズ】
+UID:HLO9uNtKHLI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ENGLISH】ヲタク専用英語を学びます。otaku/geek/buff ENGLISH【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=xZ4fsqlnkkg
 DURATION:PT2H
 DTSTART:20220407T220000Z
@@ -44,6 +44,13 @@ DURATION:PT2H
 DTSTART:20220408T100000Z
 SUMMARY:ホロスターズ: 【アニメ】闇に煌めくモノクロの饗宴【#スタこれ】
 UID:-3VdClDL93k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【リングフィットアドベンチャー】俺は昔筋肉を裏切っちまった…ごめんな【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=h1dLFvb9q9A
+DURATION:PT2H
+DTSTART:20220409T064500Z
+SUMMARY:🍕アルランディス: 【リングフィットアドベンチャー】俺は昔筋肉を裏切っちまった…ごめんな【アルランディス/ホロスターズ】
+UID:h1dLFvb9q9A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ネタバレあり】FFXIVシナリオを最高に楽しむ光の戦士【羽継烏有/アップロー】\nhttps://www.youtube.com/watch?v=I_EDDso1KCk
@@ -151,11 +158,11 @@ SUMMARY:緋崎ガンマ: 【Raft】4人で漂流生活するぞおおおおお�
 UID:wyaKcroGZRI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【イラストメイキング】色んなYAGOOをパリピ漫画家が描いてみる【緋崎ガンマ/#アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=HLO9uNtKHLI
+DESCRIPTION:【RAFT】ほのぼの漂流生活【羽継烏有/アップロー/#放課後アップロー】\nhttps://www.youtube.com/watch?v=gLR-kwen8tk
 DURATION:PT2H
-DTSTART:20220410T030022Z
-SUMMARY:緋崎ガンマ: 【イラストメイキング】色んなYAGOOをパリピ漫画家が描いてみる【緋崎ガンマ/#アップロー / #ホロスターズ】
-UID:HLO9uNtKHLI
+DTSTART:20220409T090048Z
+SUMMARY:羽継烏有: 【RAFT】ほのぼの漂流生活【羽継烏有/アップロー/#放課後アップロー】
+UID:gLR-kwen8tk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【星のカービィ ディスカバリー】#1　妖、ピンクの悪魔と契約する。【#夜十神封魔 #アップロー #ホロスターズ】\nhttps://www.youtube.com/watch?v=P2yraQ3vtlo
