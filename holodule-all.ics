@@ -60,18 +60,18 @@ SUMMARY:💫天音かなた: ちょっとあざとい／天音かなた(cover)
 UID:rmWKzc_Nmvs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Talk&(Sing)】引越し完了！新居から配信です！(時間があれば歌うかも)【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=VuKtq8FW7Ak
-DURATION:PT2H
-DTSTART:20220409T040000Z
-SUMMARY:🍕アルランディス: 【Talk&(Sing)】引越し完了！新居から配信です！(時間があれば歌うかも)【アルランディス/ホロスターズ】
-UID:VuKtq8FW7Ak
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】突発シャドウギアぺっくす【影山シエン/律可】#シャドウギア\nhttps://www.youtube.com/watch?v=wbiacfpTkpE
 DURATION:PT2H
 DTSTART:20220409T130000Z
 SUMMARY:影山シエン: 【APEX】突発シャドウギアぺっくす【影山シエン/律可】#シャドウギア
 UID:wbiacfpTkpE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Talk&(Sing)】引越し完了！新居から配信です！(時間があれば歌うかも)【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=VuKtq8FW7Ak
+DURATION:PT2H
+DTSTART:20220409T040000Z
+SUMMARY:🍕アルランディス: 【Talk&(Sing)】引越し完了！新居から配信です！(時間があれば歌うかも)【アルランディス/ホロスターズ】
+UID:VuKtq8FW7Ak
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【REDDIT SHITPOST REVIEW】OH YEAH...! BOOM!!!【#HololiveEN0】\nhttps://www.youtube.com/watch?v=snLYkP92Qos
@@ -156,6 +156,13 @@ DURATION:PT2H
 DTSTART:20220409T020000Z
 SUMMARY:Mumei: 【FOOD REVIEW】RATatOWLle Recipes
 UID:oHLM2ZkhaF0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PotionCraft】時間泥棒ゲー！オクスリを錬成するアトリエ系シミュレーション！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=EYTAKeXFTpY
+DURATION:PT2H
+DTSTART:20220410T130000Z
+SUMMARY:沙花叉クロヱ: 【PotionCraft】時間泥棒ゲー！オクスリを錬成するアトリエ系シミュレーション！【沙花叉クロヱ/ホロライブ】
+UID:EYTAKeXFTpY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【リングフィットアドベンチャー】俺は昔筋肉を裏切っちまった…ごめんな【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=h1dLFvb9q9A
@@ -258,9 +265,16 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【OVERWATCH】full stack cute girl team\nhttps://www.youtube.com/watch?v=BJnOn8_H_Z4
 DURATION:PT2H
-DTSTART:20220410T010000Z
+DTSTART:20220410T010130Z
 SUMMARY:Gura: 【OVERWATCH】full stack cute girl team
 UID:BJnOn8_H_Z4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 歌枠 】#ねねあず オフコラボ！【 桃鈴ねね / AZKi / ホロライブ 】\nhttps://www.youtube.com/watch?v=PjtKGRTvH7c
+DURATION:PT2H
+DTSTART:20220410T100000Z
+SUMMARY:桃鈴ねね: 【 歌枠 】#ねねあず オフコラボ！【 桃鈴ねね / AZKi / ホロライブ 】
+UID:PjtKGRTvH7c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【singing】ゲリラ！ちょっとだけ歌う！／KARAOKE【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=ql72dI6lF3E
@@ -312,18 +326,18 @@ SUMMARY:鷹嶺ルイ: 【ELDEN RING #07】噂のラダーンさんに会いに�
 UID:q2pj4jsZwF8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#01【ELDEN RING】今日から始めるエルデンリング！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=aEop9s9urX4
-DURATION:PT2H
-DTSTART:20220409T110000Z
-SUMMARY:👯兎田ぺこら: #01【ELDEN RING】今日から始めるエルデンリング！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり
-UID:aEop9s9urX4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【WATCHALONG】Megamind\nhttps://www.youtube.com/watch?v=NaFsDf8PRK4
 DURATION:PT2H
 DTSTART:20220409T210521Z
 SUMMARY:Amelia: 【WATCHALONG】Megamind
 UID:NaFsDf8PRK4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#01【ELDEN RING】今日から始めるエルデンリング！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=aEop9s9urX4
+DURATION:PT2H
+DTSTART:20220409T110000Z
+SUMMARY:👯兎田ぺこら: #01【ELDEN RING】今日から始めるエルデンリング！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり
+UID:aEop9s9urX4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#04【ELDEN RING】ゴドリック戦そして魔法学校入学？【不知火フレア/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=ZpJgTbtVDMk
@@ -347,6 +361,13 @@ SUMMARY:荒咬オウガ: 【雑談】夜桜ASMR【荒咬オウガ/ホロスタ�
 UID:Hdlnj1rMtcE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ELDEN RING】#11 聖樹探索しながら放置してたラニのイベントも進めたい【獅白ぼたん/ホロライブ】 ※ネタバレ注意\nhttps://www.youtube.com/watch?v=nJB16lAKTXc
+DURATION:PT2H
+DTSTART:20220410T120000Z
+SUMMARY:獅白ぼたん: 【ELDEN RING】#11 聖樹探索しながら放置してたラニのイベントも進めたい【獅白ぼたん/ホロライブ】 ※ネタバレ注意
+UID:nJB16lAKTXc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【HoloID】COUNTDOWN TO 2ND YEAR DEBUT ANNIVERSARY !!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=bwtBXdx3DZE
 DURATION:PT2H
 DTSTART:20220409T160010Z
@@ -366,13 +387,6 @@ DURATION:PT2H
 DTSTART:20220410T030022Z
 SUMMARY:緋崎ガンマ: 【イラストメイキング】色んなYAGOOをパリピ漫画家が描いてみる【緋崎ガンマ/#アップロー / #ホロスターズ】
 UID:HLO9uNtKHLI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING】#11 聖樹探索しながら放置してたラニのイベントも進めたい【獅白ぼたん/ホロライブ】 ※ネタバレ注意\nhttps://www.youtube.com/watch?v=nJB16lAKTXc
-DURATION:PT2H
-DTSTART:20220410T120000Z
-SUMMARY:獅白ぼたん: 【ELDEN RING】#11 聖樹探索しながら放置してたラニのイベントも進めたい【獅白ぼたん/ホロライブ】 ※ネタバレ注意
-UID:nJB16lAKTXc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ELDEN RING】Be wary of zzz\, therefore Try coffee (spoiler warning)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=M42U2SuAJVA
@@ -438,18 +452,18 @@ SUMMARY:🚑大空スバル: 【#1】FF7リメイクするしゅばああああ�
 UID:jUoMzohASVA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:何度でも観たい！3rd fes. DAY1&2まるっと1日同時視聴【Watchalong 友人A / 春先のどか】\nhttps://www.youtube.com/watch?v=V1OzY9Z8vqY
-DURATION:PT2H
-DTSTART:20220409T030000Z
-SUMMARY:ホロライブ: 何度でも観たい！3rd fes. DAY1&2まるっと1日同時視聴【Watchalong 友人A / 春先のどか】
-UID:V1OzY9Z8vqY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】エンドでシュルカー(とエリトラ)がたくさんほしい！ので準備します！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=V0gJTyrEGV4
 DURATION:PT2H
 DTSTART:20220409T150000Z
 SUMMARY:🍕アルランディス: 【Minecraft】エンドでシュルカー(とエリトラ)がたくさんほしい！ので準備します！【アルランディス/ホロスターズ】
 UID:V0gJTyrEGV4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:何度でも観たい！3rd fes. DAY1&2まるっと1日同時視聴【Watchalong 友人A / 春先のどか】\nhttps://www.youtube.com/watch?v=V1OzY9Z8vqY
+DURATION:PT2H
+DTSTART:20220409T030000Z
+SUMMARY:ホロライブ: 何度でも観たい！3rd fes. DAY1&2まるっと1日同時視聴【Watchalong 友人A / 春先のどか】
+UID:V1OzY9Z8vqY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ELDEN RING】Let there be progress 【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=LEd5U9uBU1Q
@@ -466,18 +480,18 @@ SUMMARY:🌲大神ミオ: 【Potion Craft】狼のお薬屋さん、開店です
 UID:calgajWXwbk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【YAKUZA 0】FINALE. - SPOILER ALERT #kfp #キアライブ\nhttps://www.youtube.com/watch?v=v3m5HCtXmdE
-DURATION:PT2H
-DTSTART:20220409T130000Z
-SUMMARY:Kiara: 【YAKUZA 0】FINALE. - SPOILER ALERT #kfp #キアライブ
-UID:v3m5HCtXmdE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ELDEN RING】本当に始まるよエルデンリング！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=swL2D1I-NgA
 DURATION:PT2H
 DTSTART:20220410T100000Z
 SUMMARY:👯兎田ぺこら: 【ELDEN RING】本当に始まるよエルデンリング！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり
 UID:swL2D1I-NgA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【YAKUZA 0】FINALE. - SPOILER ALERT #kfp #キアライブ\nhttps://www.youtube.com/watch?v=v3m5HCtXmdE
+DURATION:PT2H
+DTSTART:20220409T130000Z
+SUMMARY:Kiara: 【YAKUZA 0】FINALE. - SPOILER ALERT #kfp #キアライブ
+UID:v3m5HCtXmdE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【初見OMORI③】真実はひとつ/水無世燐央【 #アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=SH6Pd1RZ08I
