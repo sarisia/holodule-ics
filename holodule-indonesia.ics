@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:(EN) HARAPAN has Descended. Reine Indonesian Classroom w/ IRyS! #ReiRyS 【Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=wsoCTHLgfek
+DESCRIPTION:【MoonUtau】Debut Countdown and Karaoke! IKZ!!!【Moona】\nhttps://www.youtube.com/watch?v=VzvfC-9kyDs
 DURATION:PT2H
-DTSTART:20220409T040000Z
-SUMMARY:Reine: (EN) HARAPAN has Descended. Reine Indonesian Classroom w/ IRyS! #ReiRyS 【Reine/hololiveID 2nd gen】
-UID:wsoCTHLgfek
+DTSTART:20220410T160000Z
+SUMMARY:🔮Moona: 【MoonUtau】Debut Countdown and Karaoke! IKZ!!!【Moona】
+UID:VzvfC-9kyDs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Gartic Phone】HOLOTORI NOW DRAWING【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=S1Jh_1TkGTE
+DURATION:PT2H
+DTSTART:20220410T133038Z
+SUMMARY:Reine: 【Gartic Phone】HOLOTORI NOW DRAWING【Pavolia Reine/hololiveID 2nd gen】
+UID:S1Jh_1TkGTE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【THE CLOSING SHIFT】ORDER UP!! DID YOU WANT KETCHUP WITH YOUR COFFEE?【HoloID 2ndGen】\nhttps://www.youtube.com/watch?v=uEdIOJPVEcw
@@ -16,13 +23,6 @@ DURATION:PT2H
 DTSTART:20220410T133021Z
 SUMMARY:Ollie: 【THE CLOSING SHIFT】ORDER UP!! DID YOU WANT KETCHUP WITH YOUR COFFEE?【HoloID 2ndGen】
 UID:uEdIOJPVEcw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FORTUNE TELLING】MIO-SENPAI WILL BE READING HOLOID WITH TAROT CARDS!! 【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=ENSnKaD0Rz0
-DURATION:PT2H
-DTSTART:20220409T133712Z
-SUMMARY:Ollie: 【FORTUNE TELLING】MIO-SENPAI WILL BE READING HOLOID WITH TAROT CARDS!! 【Hololive Indonesia 2nd Gen】
-UID:ENSnKaD0Rz0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【To The Moon】feeling nostalgic yet?【Vestia Zeta / Hololive Indonesia Gen 3】\nhttps://www.youtube.com/watch?v=_gmXlFhiBSs
@@ -39,48 +39,6 @@ SUMMARY:🐿Risu: 【HoloID】MEME REVIEW SPECIAL 2ND YEAR ANNIVERSARY !!!!【Ay
 UID:rfu1_17DY08
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING】Let there be progress 【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=LEd5U9uBU1Q
-DURATION:PT2H
-DTSTART:20220409T163000Z
-SUMMARY:Reine: 【ELDEN RING】Let there be progress 【Pavolia Reine/hololiveID 2nd gen】
-UID:LEd5U9uBU1Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FREETALK】what's your Sunday activities?~【Kaelaboration】\nhttps://www.youtube.com/watch?v=z3M-gsNLovI
-DURATION:PT2H
-DTSTART:20220410T070131Z
-SUMMARY:Kaela: 【FREETALK】what's your Sunday activities?~【Kaelaboration】
-UID:z3M-gsNLovI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MoonUtau】Debut Countdown and Karaoke! IKZ!!!【Moona】\nhttps://www.youtube.com/watch?v=VzvfC-9kyDs
-DURATION:PT2H
-DTSTART:20220410T160000Z
-SUMMARY:🔮Moona: 【MoonUtau】Debut Countdown and Karaoke! IKZ!!!【Moona】
-UID:VzvfC-9kyDs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PASSPARTOUT】totally not cursed wow【Vestia Zeta / Hololive Indonesia Gen 3】\nhttps://www.youtube.com/watch?v=pAmQ0_YlwDo
-DURATION:PT2H
-DTSTART:20220409T120000Z
-SUMMARY:Zeta: 【PASSPARTOUT】totally not cursed wow【Vestia Zeta / Hololive Indonesia Gen 3】
-UID:pAmQ0_YlwDo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Gartic Phone】HOLOTORI NOW DRAWING【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=S1Jh_1TkGTE
-DURATION:PT2H
-DTSTART:20220410T133038Z
-SUMMARY:Reine: 【Gartic Phone】HOLOTORI NOW DRAWING【Pavolia Reine/hololiveID 2nd gen】
-UID:S1Jh_1TkGTE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Black Mesa】LAST BONK?【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=AXicYIU9kqs
-DURATION:PT2H
-DTSTART:20220409T060000Z
-SUMMARY:Anya: 【Black Mesa】LAST BONK?【hololive Indonesia 2nd Generation】
-UID:AXicYIU9kqs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DONATION READING】THERE'S A LOT TO CATCH-UP!!【HoloID 2ndGen】\nhttps://www.youtube.com/watch?v=2fTz8yXRo-4
 DURATION:PT2H
 DTSTART:20220410T082922Z
@@ -88,11 +46,11 @@ SUMMARY:Ollie: 【DONATION READING】THERE'S A LOT TO CATCH-UP!!【HoloID 2ndGen
 UID:2fTz8yXRo-4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【LOL: WILD RIFT】warming up a little bit..【ElaOnDuty】\nhttps://www.youtube.com/watch?v=sswvp9pXxdM
+DESCRIPTION:【ELDEN RING】Let there be progress 【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=LEd5U9uBU1Q
 DURATION:PT2H
-DTSTART:20220409T140703Z
-SUMMARY:Kaela: 【LOL: WILD RIFT】warming up a little bit..【ElaOnDuty】
-UID:sswvp9pXxdM
+DTSTART:20220409T163000Z
+SUMMARY:Reine: 【ELDEN RING】Let there be progress 【Pavolia Reine/hololiveID 2nd gen】
+UID:LEd5U9uBU1Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HoloID】COUNTDOWN TO 2ND YEAR DEBUT ANNIVERSARY !!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=bwtBXdx3DZE
@@ -102,13 +60,6 @@ SUMMARY:🐿Risu: 【HoloID】COUNTDOWN TO 2ND YEAR DEBUT ANNIVERSARY !!!!【Ayu
 UID:bwtBXdx3DZE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Live Draw 】Let's Draw UPROAR!! + holoID Gen 3! iofi Feat @Oga Ch.荒咬オウガ\nhttps://www.youtube.com/watch?v=43E_Z6Eb6lg
-DURATION:PT2H
-DTSTART:20220409T140000Z
-SUMMARY:🎨Iofi: 【 Live Draw 】Let's Draw UPROAR!! + holoID Gen 3! iofi Feat @Oga Ch.荒咬オウガ
-UID:43E_Z6Eb6lg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DONATION READING + FREETALK】Wakey wakey~【Kobo Kanaeru / hololive ID】\nhttps://www.youtube.com/watch?v=5bINO8WBiLk
 DURATION:PT2H
 DTSTART:20220410T020000Z
@@ -116,10 +67,10 @@ SUMMARY:Kobo: 【DONATION READING + FREETALK】Wakey wakey~【Kobo Kanaeru / hol
 UID:5bINO8WBiLk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING】Be wary of zzz\, therefore Try coffee (spoiler warning)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=M42U2SuAJVA
+DESCRIPTION:【FREETALK】what's your Sunday activities?~【Kaelaboration】\nhttps://www.youtube.com/watch?v=z3M-gsNLovI
 DURATION:PT2H
-DTSTART:20220408T173000Z
-SUMMARY:Reine: 【ELDEN RING】Be wary of zzz\, therefore Try coffee (spoiler warning)【Pavolia Reine/hololiveID 2nd gen】
-UID:M42U2SuAJVA
+DTSTART:20220410T070131Z
+SUMMARY:Kaela: 【FREETALK】what's your Sunday activities?~【Kaelaboration】
+UID:z3M-gsNLovI
 END:VEVENT
 END:VCALENDAR
