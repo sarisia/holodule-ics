@@ -4,6 +4,27 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【DRAWING】Doodles with IOFI ~\nhttps://www.youtube.com/watch?v=2dWx7xg48xc
+DURATION:PT2H
+DTSTART:20220414T160550Z
+SUMMARY:Mumei: 【DRAWING】Doodles with IOFI ~
+UID:2dWx7xg48xc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Clubhouse 51】 KIWAWA vs FAWNA 🐔🌳\nhttps://www.youtube.com/watch?v=NyIqYW0r_5w
+DURATION:PT2H
+DTSTART:20220414T200000Z
+SUMMARY:Fauna: 【Clubhouse 51】 KIWAWA vs FAWNA 🐔🌳
+UID:NyIqYW0r_5w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Show Me The Way With @Moona Hoshinova hololive-ID\nhttps://www.youtube.com/watch?v=QLOeMyfidc8
+DURATION:PT2H
+DTSTART:20220414T040000Z
+SUMMARY:Kronii: 【Minecraft】Show Me The Way With @Moona Hoshinova hololive-ID
+UID:QLOeMyfidc8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【SIMS4】SPRING IS HERE let's start a FARM! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=c4R3bqQ7MRk
 DURATION:PT2H
 DTSTART:20220413T170000Z
@@ -25,20 +46,6 @@ SUMMARY:Amelia: 【ELDEN RING】Bowson's Lake Vacation (Spoilers Ahead)
 UID:0WQeS_HC9Fw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Digest Movie】hololive 3rd fes. Link Your Wish English ver.【#つながるホロライブ】\nhttps://www.youtube.com/watch?v=cnhS--RGwvE
-DURATION:PT2H
-DTSTART:20220415T030000Z
-SUMMARY:ENholo: 【Digest Movie】hololive 3rd fes. Link Your Wish English ver.【#つながるホロライブ】
-UID:cnhS--RGwvE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Clubhouse 51】 KIWAWA vs FAWNA 🐔🌳\nhttps://www.youtube.com/watch?v=NyIqYW0r_5w
-DURATION:PT2H
-DTSTART:20220414T200000Z
-SUMMARY:Fauna: 【Clubhouse 51】 KIWAWA vs FAWNA 🐔🌳
-UID:NyIqYW0r_5w
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【RAFT COLLAB】Stranded with DaiSenpai【#IRySora】\nhttps://www.youtube.com/watch?v=pv19rFUFE_E
 DURATION:PT2H
 DTSTART:20220414T133000Z
@@ -46,10 +53,10 @@ SUMMARY:IRyS: 【RAFT COLLAB】Stranded with DaiSenpai【#IRySora】
 UID:pv19rFUFE_E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Show Me The Way With @Moona Hoshinova hololive-ID\nhttps://www.youtube.com/watch?v=QLOeMyfidc8
+DESCRIPTION:【Digest Movie】hololive 3rd fes. Link Your Wish English ver.【#つながるホロライブ】\nhttps://www.youtube.com/watch?v=cnhS--RGwvE
 DURATION:PT2H
-DTSTART:20220414T040000Z
-SUMMARY:Kronii: 【Minecraft】Show Me The Way With @Moona Hoshinova hololive-ID
-UID:QLOeMyfidc8
+DTSTART:20220415T030000Z
+SUMMARY:ENholo: 【Digest Movie】hololive 3rd fes. Link Your Wish English ver.【#つながるホロライブ】
+UID:cnhS--RGwvE
 END:VEVENT
 END:VCALENDAR
