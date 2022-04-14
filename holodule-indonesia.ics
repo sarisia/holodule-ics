@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ORIGINAL 3DMV】 HI-15 - hololive Indonesia 1st Generation (Risu\, Moona\, Iofi)\nhttps://www.youtube.com/watch?v=XSZNNbbVuho
+DURATION:PT2H
+DTSTART:20220415T134513Z
+SUMMARY:IDholo: 【ORIGINAL 3DMV】 HI-15 - hololive Indonesia 1st Generation (Risu\, Moona\, Iofi)
+UID:XSZNNbbVuho
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Let's upgrade bunkeronii!!!【GeeMoon】\nhttps://www.youtube.com/watch?v=DLqcXYkEMbw
 DURATION:PT2H
 DTSTART:20220414T040000Z
@@ -32,18 +39,18 @@ SUMMARY:Kaela: 【CRASH BANDICOOT™ N. SANE TRILOGY】run jump spin\, repeat~�
 UID:b0vp4p_044s
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RAFT】WE ARE #HOLOCHAOS WE ARE DAIJOUBU【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=Wf9v4_bJr6I
-DURATION:PT2H
-DTSTART:20220414T132951Z
-SUMMARY:Ollie: 【RAFT】WE ARE #HOLOCHAOS WE ARE DAIJOUBU【Hololive Indonesia 2nd Gen】
-UID:Wf9v4_bJr6I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【KOBOO】Spooky Night with Kobo #3【Kobo Kanaeru / Hololive Indonesia 3rd Gen】\nhttps://www.youtube.com/watch?v=0fg8lYHvTp8
 DURATION:PT2H
 DTSTART:20220414T150000Z
 SUMMARY:Kobo: 【KOBOO】Spooky Night with Kobo #3【Kobo Kanaeru / Hololive Indonesia 3rd Gen】
 UID:0fg8lYHvTp8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Monopoly】Rebutan lokasi bersama AREA15!【2 Years AREA15!】\nhttps://www.youtube.com/watch?v=GnHeNtD-8a4
+DURATION:PT2H
+DTSTART:20220415T060000Z
+SUMMARY:🔮Moona: 【Monopoly】Rebutan lokasi bersama AREA15!【2 Years AREA15!】
+UID:GnHeNtD-8a4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Digest Movie】hololive 3rd fes. Link Your Wish Indonesia ver.【#つながるホロライブ】\nhttps://www.youtube.com/watch?v=GmQFZeUkKlI
