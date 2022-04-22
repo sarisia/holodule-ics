@@ -4,32 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:≪SUPERCHAT≫ ok.. time to read what you guys wrote.\nhttps://www.youtube.com/watch?v=p7oVevJRWLo
+DESCRIPTION:【ELDEN RING】To Caelid~ (spoilers)\nhttps://www.youtube.com/watch?v=3mKLxLPA2X8
 DURATION:PT2H
-DTSTART:20220421T010000Z
-SUMMARY:Baelz: ≪SUPERCHAT≫ ok.. time to read what you guys wrote.
-UID:p7oVevJRWLo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING】Explorin' the Lands Between (spoilers)\nhttps://www.youtube.com/watch?v=g7Zyg11ka1E
-DURATION:PT2H
-DTSTART:20220421T033000Z
-SUMMARY:Amelia: 【ELDEN RING】Explorin' the Lands Between (spoilers)
-UID:g7Zyg11ka1E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ranking your FOOD #GuraFood\nhttps://www.youtube.com/watch?v=pkos8GMAEjE
-DURATION:PT2H
-DTSTART:20220422T000456Z
-SUMMARY:Gura: Ranking your FOOD #GuraFood
-UID:pkos8GMAEjE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】i want a house ft. OPEN VC\nhttps://www.youtube.com/watch?v=V60eZETUArg
-DURATION:PT2H
-DTSTART:20220423T013000Z
-SUMMARY:Mumei: 【MINECRAFT】i want a house ft. OPEN VC
-UID:V60eZETUArg
+DTSTART:20220422T051500Z
+SUMMARY:Amelia: 【ELDEN RING】To Caelid~ (spoilers)
+UID:3mKLxLPA2X8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DUOLINGO】Korean Part Two!! I came prepared...파이팅! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=JQiKHDz6oy8
@@ -39,13 +18,6 @@ SUMMARY:Kiara: 【DUOLINGO】Korean Part Two!! I came prepared...파이팅! #kfp
 UID:JQiKHDz6oy8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:DEVOUR\nhttps://www.youtube.com/watch?v=WM4cyuUqa_c
-DURATION:PT2H
-DTSTART:20220421T002008Z
-SUMMARY:Gura: DEVOUR
-UID:WM4cyuUqa_c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Devour】Surprise\nhttps://www.youtube.com/watch?v=hw1ojCMnACQ
 DURATION:PT2H
 DTSTART:20220421T001500Z
@@ -53,18 +25,18 @@ SUMMARY:Kronii: 【Devour】Surprise
 UID:hw1ojCMnACQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪MINECRAFT≫ whatabae is back\nhttps://www.youtube.com/watch?v=fuBJR0RidEI
-DURATION:PT2H
-DTSTART:20220422T030000Z
-SUMMARY:Baelz: ≪MINECRAFT≫ whatabae is back
-UID:fuBJR0RidEI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Ghost Exorcism INC.】Begone Ghosts\nhttps://www.youtube.com/watch?v=TmyXSJdZ4dM
 DURATION:PT2H
 DTSTART:20220422T040000Z
 SUMMARY:Kronii: 【Ghost Exorcism INC.】Begone Ghosts
 UID:TmyXSJdZ4dM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ELDEN RING】Explorin' the Lands Between (spoilers)\nhttps://www.youtube.com/watch?v=g7Zyg11ka1E
+DURATION:PT2H
+DTSTART:20220421T033000Z
+SUMMARY:Amelia: 【ELDEN RING】Explorin' the Lands Between (spoilers)
+UID:g7Zyg11ka1E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DEVOUR】 oh no (oh yes)\nhttps://www.youtube.com/watch?v=AxZvGEsvguw
@@ -100,5 +72,47 @@ DURATION:PT2H
 DTSTART:20220421T002033Z
 SUMMARY:Mumei: 【DEVOUR】Spooky with GURA\, FAUNA\, KRONII
 UID:f2POsyHFEmo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MAFIA】Amelia Mobson~ FUGETTA ABOUT IT\nhttps://www.youtube.com/watch?v=Wnl_oQMYkVQ
+DURATION:PT2H
+DTSTART:20220422T220526Z
+SUMMARY:Amelia: 【MAFIA】Amelia Mobson~ FUGETTA ABOUT IT
+UID:Wnl_oQMYkVQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪SUPERCHAT≫ ok.. time to read what you guys wrote.\nhttps://www.youtube.com/watch?v=p7oVevJRWLo
+DURATION:PT2H
+DTSTART:20220421T010000Z
+SUMMARY:Baelz: ≪SUPERCHAT≫ ok.. time to read what you guys wrote.
+UID:p7oVevJRWLo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】i want a house ft. OPEN VC\nhttps://www.youtube.com/watch?v=V60eZETUArg
+DURATION:PT2H
+DTSTART:20220423T013000Z
+SUMMARY:Mumei: 【MINECRAFT】i want a house ft. OPEN VC
+UID:V60eZETUArg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:DEVOUR\nhttps://www.youtube.com/watch?v=WM4cyuUqa_c
+DURATION:PT2H
+DTSTART:20220421T002008Z
+SUMMARY:Gura: DEVOUR
+UID:WM4cyuUqa_c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪MINECRAFT≫ whatabae is back\nhttps://www.youtube.com/watch?v=fuBJR0RidEI
+DURATION:PT2H
+DTSTART:20220422T030000Z
+SUMMARY:Baelz: ≪MINECRAFT≫ whatabae is back
+UID:fuBJR0RidEI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ranking your FOOD #GuraFood\nhttps://www.youtube.com/watch?v=pkos8GMAEjE
+DURATION:PT2H
+DTSTART:20220422T000456Z
+SUMMARY:Gura: Ranking your FOOD #GuraFood
+UID:pkos8GMAEjE
 END:VEVENT
 END:VCALENDAR
