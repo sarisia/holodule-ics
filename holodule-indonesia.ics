@@ -4,34 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【League of Legends: Wild Rift】ranked for fun.【ElaOnDuty】\nhttps://www.youtube.com/watch?v=qFjSj242yhE
-DURATION:PT2H
-DTSTART:20220421T133414Z
-SUMMARY:Kaela: 【League of Legends: Wild Rift】ranked for fun.【ElaOnDuty】
-UID:qFjSj242yhE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:vestia zeta in a nutshell\nhttps://www.youtube.com/watch?v=eYYMGJMCxVA
-DURATION:PT2H
-DTSTART:20220422T052410Z
-SUMMARY:Zeta: vestia zeta in a nutshell
-UID:eYYMGJMCxVA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MATH STREAM】WE'LL STUDY LINEAR ALGEBRA AND I'LL MAKE SURE OF THAT【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=gZhY5pBJoG0
-DURATION:PT2H
-DTSTART:20220420T150635Z
-SUMMARY:Ollie: 【MATH STREAM】WE'LL STUDY LINEAR ALGEBRA AND I'LL MAKE SURE OF THAT【Hololive Indonesia 2nd Gen】
-UID:gZhY5pBJoG0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VALORANT】AGENT WIN【Vestia Zeta / Hololive ID】\nhttps://www.youtube.com/watch?v=rIjsfylR6Sk
-DURATION:PT2H
-DTSTART:20220422T130000Z
-SUMMARY:Zeta: 【VALORANT】AGENT WIN【Vestia Zeta / Hololive ID】
-UID:rIjsfylR6Sk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【FREETALK】MAY OR MAY HAVE NOT LOST MY VOICE【HoloID 2ndGen】\nhttps://www.youtube.com/watch?v=6q02ioEh15E
 DURATION:PT2H
 DTSTART:20220422T131140Z
@@ -39,11 +11,11 @@ SUMMARY:Ollie: 【FREETALK】MAY OR MAY HAVE NOT LOST MY VOICE【HoloID 2ndGen�
 UID:6q02ioEh15E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Vampire Survivors】Nut and Chill (?)【Ayunda Risu】\nhttps://www.youtube.com/watch?v=8JQ5kFm_daI
+DESCRIPTION:【VALORANT】AGENT WIN【Vestia Zeta / Hololive ID】\nhttps://www.youtube.com/watch?v=rIjsfylR6Sk
 DURATION:PT2H
-DTSTART:20220420T153000Z
-SUMMARY:🐿Risu: 【Vampire Survivors】Nut and Chill (?)【Ayunda Risu】
-UID:8JQ5kFm_daI
+DTSTART:20220422T130000Z
+SUMMARY:Zeta: 【VALORANT】AGENT WIN【Vestia Zeta / Hololive ID】
+UID:rIjsfylR6Sk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【League of Legends: Wild Rift】hope the game goes smoothly...【Kobo Kanaeru / hololive ID】\nhttps://www.youtube.com/watch?v=PIH08skAcYA
@@ -60,25 +32,11 @@ SUMMARY:Reine: 【Cover】Beat Eater / calliope × reine × suisei
 UID:nbB3KsFRv4U
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Foundation】Village Girl Anya Buildin' Stuffs【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=vzDcvcxF8EA
-DURATION:PT2H
-DTSTART:20220421T140000Z
-SUMMARY:Anya: 【Foundation】Village Girl Anya Buildin' Stuffs【hololive Indonesia 2nd Generation】
-UID:vzDcvcxF8EA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Ghost Exorcism INC.】Pro Exorcists In The House【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=XncsB-wgTBg
 DURATION:PT2H
 DTSTART:20220422T040000Z
 SUMMARY:Anya: 【Ghost Exorcism INC.】Pro Exorcists In The House【hololive Indonesia 2nd Generation】
 UID:XncsB-wgTBg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Ghost Exorcism INC.】O K F A I R 【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=7QMfHQKAMnY
-DURATION:PT2H
-DTSTART:20220422T040000Z
-SUMMARY:Reine: 【Ghost Exorcism INC.】O K F A I R 【Pavolia Reine/hololiveID 2nd gen】
-UID:7QMfHQKAMnY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Spoiler Alert】NIER REPLICANT I AM BACCCCCCCCCCK【Ayunda Risu】\nhttps://www.youtube.com/watch?v=rTOiiuQ5qTQ
@@ -88,6 +46,13 @@ SUMMARY:🐿Risu: 【Spoiler Alert】NIER REPLICANT I AM BACCCCCCCCCCK【Ayunda 
 UID:rTOiiuQ5qTQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Ghost Exorcism INC.】O K F A I R 【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=7QMfHQKAMnY
+DURATION:PT2H
+DTSTART:20220422T040000Z
+SUMMARY:Reine: 【Ghost Exorcism INC.】O K F A I R 【Pavolia Reine/hololiveID 2nd gen】
+UID:7QMfHQKAMnY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【THIEF SIMULATOR】don't try this anywhere.【Hololive Indonesia 3rd Gen】\nhttps://www.youtube.com/watch?v=88-dLT7osR0
 DURATION:PT2H
 DTSTART:20220422T130044Z
@@ -95,17 +60,17 @@ SUMMARY:Kaela: 【THIEF SIMULATOR】don't try this anywhere.【Hololive Indonesi
 UID:88-dLT7osR0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Papers\, Please】midnight stamping. you will be detained 【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=C6WJh7VzWfc
+DESCRIPTION:vestia zeta in a nutshell\nhttps://www.youtube.com/watch?v=eYYMGJMCxVA
 DURATION:PT2H
-DTSTART:20220420T174500Z
-SUMMARY:Reine: 【Papers\, Please】midnight stamping. you will be detained 【Pavolia Reine/hololiveID 2nd gen】
-UID:C6WJh7VzWfc
+DTSTART:20220422T052410Z
+SUMMARY:Zeta: vestia zeta in a nutshell
+UID:eYYMGJMCxVA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【KOBOO】Spooky Night with Kobo #4【Kobo Kanaeru / Hololive Indonesia 3rd Gen】\nhttps://www.youtube.com/watch?v=LpJtkzQflRg
+DESCRIPTION:【Spoiler Alert】HAPPY 12 YEARS ANNIV FOR NIER SERIES !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=xQ6mosqWVgA
 DURATION:PT2H
-DTSTART:20220421T140000Z
-SUMMARY:Kobo: 【KOBOO】Spooky Night with Kobo #4【Kobo Kanaeru / Hololive Indonesia 3rd Gen】
-UID:LpJtkzQflRg
+DTSTART:20220422T160000Z
+SUMMARY:🐿Risu: 【Spoiler Alert】HAPPY 12 YEARS ANNIV FOR NIER SERIES !!!【Ayunda Risu】
+UID:xQ6mosqWVgA
 END:VEVENT
 END:VCALENDAR
