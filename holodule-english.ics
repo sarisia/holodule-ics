@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【KARAOKE】Practice with me! (unarchived)\nhttps://www.youtube.com/watch?v=R68-Sp2U6WM
-DURATION:PT2H
-DTSTART:20220424T030000Z
-SUMMARY:Amelia: 【KARAOKE】Practice with me! (unarchived)
-UID:R68-Sp2U6WM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Sayonara Wild Hearts】Goodbye Love\, Hello Rhythm\nhttps://www.youtube.com/watch?v=2BUWNbghnOU
 DURATION:PT2H
 DTSTART:20220422T220000Z
@@ -23,13 +16,6 @@ DURATION:PT2H
 DTSTART:20220422T221500Z
 SUMMARY:Amelia: 【MAFIA】Amelia Mobson~ FUGETTA ABOUT IT
 UID:Wnl_oQMYkVQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Kirby and the Forgotten Land】What happens when the poyo ends?\nhttps://www.youtube.com/watch?v=xzI8lPgH9Qg
-DURATION:PT2H
-DTSTART:20220422T210000Z
-SUMMARY:Sana: 【Kirby and the Forgotten Land】What happens when the poyo ends?
-UID:xzI8lPgH9Qg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Assassin's Creed IV: Black Flag】 AHOY MATEYS 🏴‍☠️\nhttps://www.youtube.com/watch?v=dwohGrS6z1s
@@ -51,5 +37,26 @@ DURATION:PT2H
 DTSTART:20220422T220000Z
 SUMMARY:Fauna: 【SKYRIM】 Turning My Skyrim Follower Into a Dark Lord Simulator
 UID:MYAW3cRG9UA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Kirby and the Forgotten Land】What happens when the poyo ends?\nhttps://www.youtube.com/watch?v=xzI8lPgH9Qg
+DURATION:PT2H
+DTSTART:20220422T210000Z
+SUMMARY:Sana: 【Kirby and the Forgotten Land】What happens when the poyo ends?
+UID:xzI8lPgH9Qg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【The Pathless】No Paths?\nhttps://www.youtube.com/watch?v=7aos02eiTb0
+DURATION:PT2H
+DTSTART:20220424T030000Z
+SUMMARY:Kronii: 【The Pathless】No Paths?
+UID:7aos02eiTb0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【KARAOKE】Practice with me! (unarchived)\nhttps://www.youtube.com/watch?v=R68-Sp2U6WM
+DURATION:PT2H
+DTSTART:20220424T030000Z
+SUMMARY:Amelia: 【KARAOKE】Practice with me! (unarchived)
+UID:R68-Sp2U6WM
 END:VEVENT
 END:VCALENDAR
