@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:[重大告知あり]フラッグ争奪戦！ホロスタ旗王に俺はなる…！[＃ホロスタ旗王3D]\nhttps://www.youtube.com/watch?v=uuHZ--zcNls
-DURATION:PT2H
-DTSTART:20220424T110000Z
-SUMMARY:ホロスターズ: [重大告知あり]フラッグ争奪戦！ホロスタ旗王に俺はなる…！[＃ホロスタ旗王3D]
-UID:uuHZ--zcNls
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【収益化記念】いつもUPROAR!!を応援してくれてありがとう！【 #羽継烏有 / #アップロー / #ホロスターズ  】\nhttps://www.youtube.com/watch?v=LkqKoTuHwwc
 DURATION:PT2H
 DTSTART:20220426T110000Z
@@ -23,6 +16,13 @@ DURATION:PT2H
 DTSTART:20220425T110000Z
 SUMMARY:影山シエン: 【PowerWash Simulator】洗え洗え洗え洗え洗え洗え洗え洗え洗え洗え洗え洗え【黒瀬浩介/影山シエン/アルランディス #クロスターズ】
 UID:jgTS0BHSpVY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ママにゲーム隠された】ママあああああああああああああああああああああ！！！！！！！！！！？？？【緋崎ガンマ/アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=JGHf0Pc67Fc
+DURATION:PT2H
+DTSTART:20220426T090000Z
+SUMMARY:緋崎ガンマ: 【ママにゲーム隠された】ママあああああああああああああああああああああ！！！！！！！！！！？？？【緋崎ガンマ/アップロー/ホロスターズ】
+UID:JGHf0Pc67Fc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】続・資材を集めましょう配信【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=CLwsiVWNvcs
@@ -74,53 +74,11 @@ SUMMARY:水無世燐央: 【雑談】はてしなくまったりの予定/水無
 UID:5CWDGCCOZxg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Raft】第2章　漂流生活2日目「生魚はもう嫌だ」　【#夜十神封魔 #放課後アップロー #ホロスターズ】\nhttps://www.youtube.com/watch?v=wMjG-y0EQSc
-DURATION:PT2H
-DTSTART:20220424T070000Z
-SUMMARY:夜十神封魔: 【Raft】第2章　漂流生活2日目「生魚はもう嫌だ」　【#夜十神封魔 #放課後アップロー #ホロスターズ】
-UID:wMjG-y0EQSc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【PowerWash Simulator】#クロスターズ 登場！汚れを落として深まる友情…！【黒瀬浩介/影山シエン/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=ojoB7NIWlis
 DURATION:PT2H
 DTSTART:20220425T110000Z
 SUMMARY:🍕アルランディス: 【PowerWash Simulator】#クロスターズ 登場！汚れを落として深まる友情…！【黒瀬浩介/影山シエン/アルランディス/ホロスターズ】
 UID:ojoB7NIWlis
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Raft】いかだ生活の続きするぞおおおおおおお！！！！【緋崎ガンマ/#アップロー / #ホロスターズ/ #放課後アップロー】\nhttps://www.youtube.com/watch?v=hIHvQLqm2eU
-DURATION:PT2H
-DTSTART:20220424T070000Z
-SUMMARY:緋崎ガンマ: 【Raft】いかだ生活の続きするぞおおおおおおお！！！！【緋崎ガンマ/#アップロー / #ホロスターズ/ #放課後アップロー】
-UID:hIHvQLqm2eU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ママにゲーム隠された】ママあああああああああああああああああああああ！！！！！！！！！！？？？【緋崎ガンマ/アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=JGHf0Pc67Fc
-DURATION:PT2H
-DTSTART:20220426T090000Z
-SUMMARY:緋崎ガンマ: 【ママにゲーム隠された】ママあああああああああああああああああああああ！！！！！！！！！！？？？【緋崎ガンマ/アップロー/ホロスターズ】
-UID:JGHf0Pc67Fc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RAFT】ほのぼの漂流生活 ２日目【羽継烏有/アップロー/#放課後アップロー】\nhttps://www.youtube.com/watch?v=rQsXiSN_5pU
-DURATION:PT2H
-DTSTART:20220424T070000Z
-SUMMARY:羽継烏有: 【RAFT】ほのぼの漂流生活 ２日目【羽継烏有/アップロー/#放課後アップロー】
-UID:rQsXiSN_5pU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Apex Legends】ローバ専でダイヤ耐久！！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=BkYhgBQu7WE
-DURATION:PT2H
-DTSTART:20220424T120000Z
-SUMMARY:⚙律可: 【Apex Legends】ローバ専でダイヤ耐久！！【律可/ホロスターズ】#りつすた
-UID:BkYhgBQu7WE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【祝】収益化＆5万人記念配信！みんな、本当にありがとう！！！【#夜十神封魔 #アップロー #ホロスターズ 】\nhttps://www.youtube.com/watch?v=WBhd8n4Yqgc
-DURATION:PT2H
-DTSTART:20220425T120000Z
-SUMMARY:夜十神封魔: 【祝】収益化＆5万人記念配信！みんな、本当にありがとう！！！【#夜十神封魔 #アップロー #ホロスターズ 】
-UID:WBhd8n4Yqgc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DBD】でっどばいでいらいと すないぷかもん【羽継烏有/アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=gKBJzFB672I
@@ -130,31 +88,10 @@ SUMMARY:羽継烏有: 【DBD】でっどばいでいらいと すないぷかも
 UID:gKBJzFB672I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝活/イラストメイキング】リスナーと一緒にサイン考えてみる⇒終わったらお絵描き【緋崎ガンマ/アップロー /ホロスターズ- Illustration Making】\nhttps://www.youtube.com/watch?v=3HFR2ZIsA1U
+DESCRIPTION:【祝】収益化＆5万人記念配信！みんな、本当にありがとう！！！【#夜十神封魔 #アップロー #ホロスターズ 】\nhttps://www.youtube.com/watch?v=WBhd8n4Yqgc
 DURATION:PT2H
-DTSTART:20220424T010000Z
-SUMMARY:緋崎ガンマ: 【朝活/イラストメイキング】リスナーと一緒にサイン考えてみる⇒終わったらお絵描き【緋崎ガンマ/アップロー /ホロスターズ- Illustration Making】
-UID:3HFR2ZIsA1U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Raftコラボ②】4人で漂流生活/水無世燐央【 #放課後アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=SP2LAHAPWZw
-DURATION:PT2H
-DTSTART:20220424T070000Z
-SUMMARY:水無世燐央: 【Raftコラボ②】4人で漂流生活/水無世燐央【 #放課後アップロー / #ホロスターズ】
-UID:SP2LAHAPWZw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ELDENRING】 魔導士で行くALL BOSS CHALLENGE!! Part12【岸堂天真/ホロスターズ】※ネタバレ有り\nhttps://www.youtube.com/watch?v=J5NYnO4D7Y0
-DURATION:PT2H
-DTSTART:20220424T080000Z
-SUMMARY:🦔💨岸堂天真: 【ELDENRING】 魔導士で行くALL BOSS CHALLENGE!! Part12【岸堂天真/ホロスターズ】※ネタバレ有り
-UID:J5NYnO4D7Y0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】今年最後の歌なので頑張ります!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=gAtnDUvSX9s
-DURATION:PT2H
-DTSTART:20220424T090000Z
-SUMMARY:🌺花咲みやび: 【歌枠】今年最後の歌なので頑張ります!!【花咲みやび/ホロスターズ】
-UID:gAtnDUvSX9s
+DTSTART:20220425T120000Z
+SUMMARY:夜十神封魔: 【祝】収益化＆5万人記念配信！みんな、本当にありがとう！！！【#夜十神封魔 #アップロー #ホロスターズ 】
+UID:WBhd8n4Yqgc
 END:VEVENT
 END:VCALENDAR
