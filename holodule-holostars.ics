@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Splatoon2】スプラ3に向けて！X帯ガチマ！【#夜十神封魔 #ホロスターズ #アップロー】\nhttps://www.youtube.com/watch?v=lUBRCp8sA0k
+DURATION:PT2H
+DTSTART:20220426T130000Z
+SUMMARY:夜十神封魔: 【Splatoon2】スプラ3に向けて！X帯ガチマ！【#夜十神封魔 #ホロスターズ #アップロー】
+UID:lUBRCp8sA0k
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【収益化記念】いつもUPROAR!!を応援してくれてありがとう！【 #羽継烏有 / #アップロー / #ホロスターズ  】\nhttps://www.youtube.com/watch?v=LkqKoTuHwwc
 DURATION:PT2H
 DTSTART:20220426T110000Z
@@ -149,5 +156,12 @@ DURATION:PT2H
 DTSTART:20220426T003000Z
 SUMMARY:緋崎ガンマ: 【朝活/イラストメイキング】羽継烏有を描いてみるPart2【緋崎ガンマ/アップロー /ホロスターズ- Illustration Making】
 UID:HlYN6MfTCLM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【祝!!収益化記念】感謝のイラストメイキング配信！！！【緋崎ガンマ/アップロー /ホロスターズ】\nhttps://www.youtube.com/watch?v=hlNCrkR26RY
+DURATION:PT2H
+DTSTART:20220427T090000Z
+SUMMARY:緋崎ガンマ: 【祝!!収益化記念】感謝のイラストメイキング配信！！！【緋崎ガンマ/アップロー /ホロスターズ】
+UID:hlNCrkR26RY
 END:VEVENT
 END:VCALENDAR
