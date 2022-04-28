@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【PORTAL 2】Portalbrain RETURNS #kfp #キアライブ\nhttps://www.youtube.com/watch?v=pv6WndTSb8M
+DESCRIPTION:【Exit From】Running awayRyS from a Creepy Old Man\nhttps://www.youtube.com/watch?v=rTxxEYdedQ4
 DURATION:PT2H
-DTSTART:20220426T160000Z
-SUMMARY:Kiara: 【PORTAL 2】Portalbrain RETURNS #kfp #キアライブ
-UID:pv6WndTSb8M
+DTSTART:20220428T030000Z
+SUMMARY:IRyS: 【Exit From】Running awayRyS from a Creepy Old Man
+UID:rTxxEYdedQ4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Jump King】 Jumping for her...\nhttps://www.youtube.com/watch?v=slkP9n3f7O0
+DURATION:PT2H
+DTSTART:20220427T010000Z
+SUMMARY:Fauna: 【Jump King】 Jumping for her...
+UID:slkP9n3f7O0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PORTAL 2】Now I Am Thinking With Portals (TILL THE END) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=PvTprpPtXvI
+DURATION:PT2H
+DTSTART:20220427T160000Z
+SUMMARY:Kiara: 【PORTAL 2】Now I Am Thinking With Portals (TILL THE END) #kfp #キアライブ
+UID:PvTprpPtXvI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Opus: Echo of Starsong】 Next Chapter! 【#2】\nhttps://www.youtube.com/watch?v=adnWNyVWM_I
@@ -16,6 +30,13 @@ DURATION:PT2H
 DTSTART:20220426T210000Z
 SUMMARY:Ina: 【Opus: Echo of Starsong】 Next Chapter! 【#2】
 UID:adnWNyVWM_I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PORTAL 2】Portalbrain RETURNS #kfp #キアライブ\nhttps://www.youtube.com/watch?v=pv6WndTSb8M
+DURATION:PT2H
+DTSTART:20220426T160000Z
+SUMMARY:Kiara: 【PORTAL 2】Portalbrain RETURNS #kfp #キアライブ
+UID:pv6WndTSb8M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DOOM】MEI #1\nhttps://www.youtube.com/watch?v=DClndSMhDDM
@@ -37,19 +58,5 @@ DURATION:PT2H
 DTSTART:20220427T210000Z
 SUMMARY:Ina: 【Elden Ring】 No Maidens? 【SPOILER WARNING】【#15】
 UID:RbEwi_GY7O0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Jump King】 Jumping for her...\nhttps://www.youtube.com/watch?v=slkP9n3f7O0
-DURATION:PT2H
-DTSTART:20220427T010000Z
-SUMMARY:Fauna: 【Jump King】 Jumping for her...
-UID:slkP9n3f7O0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PORTAL 2】Now I Am Thinking With Portals (TILL THE END) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=PvTprpPtXvI
-DURATION:PT2H
-DTSTART:20220427T160000Z
-SUMMARY:Kiara: 【PORTAL 2】Now I Am Thinking With Portals (TILL THE END) #kfp #キアライブ
-UID:PvTprpPtXvI
 END:VEVENT
 END:VCALENDAR
