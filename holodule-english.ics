@@ -4,34 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:≪Vampire Survivors ≫ yes yes yes\nhttps://www.youtube.com/watch?v=zT3HgiahISM
-DURATION:PT2H
-DTSTART:20220429T030000Z
-SUMMARY:Baelz: ≪Vampire Survivors ≫ yes yes yes
-UID:zT3HgiahISM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Kirby and the Forgotten Land】Ho-Kago Poyo Time\nhttps://www.youtube.com/watch?v=xOcufDFh-vQ
-DURATION:PT2H
-DTSTART:20220428T233000Z
-SUMMARY:Sana: 【Kirby and the Forgotten Land】Ho-Kago Poyo Time
-UID:xOcufDFh-vQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪WATCH-A-LONG≫ Violet Evergarden: The Movie\nhttps://www.youtube.com/watch?v=_UtALWKv1zI
-DURATION:PT2H
-DTSTART:20220428T120000Z
-SUMMARY:Baelz: ≪WATCH-A-LONG≫ Violet Evergarden: The Movie
-UID:_UtALWKv1zI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Elden Ring】 No Maidens? 【SPOILER WARNING】【#15】\nhttps://www.youtube.com/watch?v=RbEwi_GY7O0
-DURATION:PT2H
-DTSTART:20220427T210000Z
-SUMMARY:Ina: 【Elden Ring】 No Maidens? 【SPOILER WARNING】【#15】
-UID:RbEwi_GY7O0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Exit From】Running awayRyS from a Creepy Old Man\nhttps://www.youtube.com/watch?v=rTxxEYdedQ4
 DURATION:PT2H
 DTSTART:20220428T030000Z
@@ -51,5 +23,40 @@ DURATION:PT2H
 DTSTART:20220428T220000Z
 SUMMARY:Fauna: 【The Convenience Store】 You are not alone...
 UID:6OEf1BlCwqY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】What's On The To Do List !! ft. Open VC\nhttps://www.youtube.com/watch?v=m2xh71Qhirk
+DURATION:PT2H
+DTSTART:20220429T023000Z
+SUMMARY:Mumei: 【MINECRAFT】What's On The To Do List !! ft. Open VC
+UID:m2xh71Qhirk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪WATCH-A-LONG≫ Violet Evergarden: The Movie\nhttps://www.youtube.com/watch?v=_UtALWKv1zI
+DURATION:PT2H
+DTSTART:20220428T120000Z
+SUMMARY:Baelz: ≪WATCH-A-LONG≫ Violet Evergarden: The Movie
+UID:_UtALWKv1zI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Elden Ring】 No Maidens? 【SPOILER WARNING】【#15】\nhttps://www.youtube.com/watch?v=RbEwi_GY7O0
+DURATION:PT2H
+DTSTART:20220427T210000Z
+SUMMARY:Ina: 【Elden Ring】 No Maidens? 【SPOILER WARNING】【#15】
+UID:RbEwi_GY7O0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Kirby and the Forgotten Land】Ho-Kago Poyo Time\nhttps://www.youtube.com/watch?v=xOcufDFh-vQ
+DURATION:PT2H
+DTSTART:20220428T233000Z
+SUMMARY:Sana: 【Kirby and the Forgotten Land】Ho-Kago Poyo Time
+UID:xOcufDFh-vQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪Vampire Survivors ≫ yes yes yes\nhttps://www.youtube.com/watch?v=zT3HgiahISM
+DURATION:PT2H
+DTSTART:20220429T030000Z
+SUMMARY:Baelz: ≪Vampire Survivors ≫ yes yes yes
+UID:zT3HgiahISM
 END:VEVENT
 END:VCALENDAR
