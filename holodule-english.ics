@@ -4,6 +4,27 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【REACTION】VTUBER REACTS OMG\nhttps://www.youtube.com/watch?v=N5rq3MBB1_g
+DURATION:PT2H
+DTSTART:20220430T011500Z
+SUMMARY:Amelia: 【REACTION】VTUBER REACTS OMG
+UID:N5rq3MBB1_g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DRAWING】 Chill Beats and Drawing _(:3/ L)_\nhttps://www.youtube.com/watch?v=n-xG1as906g
+DURATION:PT2H
+DTSTART:20220429T210000Z
+SUMMARY:Ina: 【DRAWING】 Chill Beats and Drawing _(:3/ L)_
+UID:n-xG1as906g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【The Convenience Store】 You are not alone...\nhttps://www.youtube.com/watch?v=6OEf1BlCwqY
+DURATION:PT2H
+DTSTART:20220428T220000Z
+SUMMARY:Fauna: 【The Convenience Store】 You are not alone...
+UID:6OEf1BlCwqY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】What's On The To Do List !! ft. Open VC\nhttps://www.youtube.com/watch?v=m2xh71Qhirk
 DURATION:PT2H
 DTSTART:20220429T023000Z
@@ -37,19 +58,5 @@ DURATION:PT2H
 DTSTART:20220429T230000Z
 SUMMARY:Amelia: 【HELLO】Chatting & then Catching up on Superchats
 UID:3V5reLfPsek
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DRAWING】 Chill Beats and Drawing _(:3/ L)_\nhttps://www.youtube.com/watch?v=n-xG1as906g
-DURATION:PT2H
-DTSTART:20220429T210000Z
-SUMMARY:Ina: 【DRAWING】 Chill Beats and Drawing _(:3/ L)_
-UID:n-xG1as906g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Convenience Store】 You are not alone...\nhttps://www.youtube.com/watch?v=6OEf1BlCwqY
-DURATION:PT2H
-DTSTART:20220428T220000Z
-SUMMARY:Fauna: 【The Convenience Store】 You are not alone...
-UID:6OEf1BlCwqY
 END:VEVENT
 END:VCALENDAR
