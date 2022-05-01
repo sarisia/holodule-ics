@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#KoPaSu】BERMAIN MINECRAFT WITH KOPASU【Ayunda Risu】\nhttps://www.youtube.com/watch?v=6uYaMrKMAno
+DURATION:PT2H
+DTSTART:20220501T153000Z
+SUMMARY:🐿Risu: 【#KoPaSu】BERMAIN MINECRAFT WITH KOPASU【Ayunda Risu】
+UID:6uYaMrKMAno
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】KoPaSu【Kobo x Pavo x Risu】\nhttps://www.youtube.com/watch?v=8AH5-ttJpCQ
 DURATION:PT2H
 DTSTART:20220501T153000Z
@@ -18,25 +25,18 @@ SUMMARY:Reine: 【Minecraft】KOPASUCRAFT (Kobo\, Pavo\, Risu)【Pavolia Reine/h
 UID:3MuCYxnesrk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【DONATION READING + FREETALK】starting a month with a chit chat stream :D【Kobo Kanaeru / hololive ID】\nhttps://www.youtube.com/watch?v=EwQ-8_nO968
+DURATION:PT2H
+DTSTART:20220501T080000Z
+SUMMARY:Kobo: 【DONATION READING + FREETALK】starting a month with a chit chat stream :D【Kobo Kanaeru / hololive ID】
+UID:EwQ-8_nO968
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【League of Legends: Wild Rift】PMA ranked #6【ElaOnDuty】\nhttps://www.youtube.com/watch?v=qOiO-pc55pU
 DURATION:PT2H
 DTSTART:20220501T040043Z
 SUMMARY:Kaela: 【League of Legends: Wild Rift】PMA ranked #6【ElaOnDuty】
 UID:qOiO-pc55pU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING】I am Pavolia\, bird of hololive Indonesia  【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=hEPxxdyWvHM
-DURATION:PT2H
-DTSTART:20220430T173000Z
-SUMMARY:Reine: 【ELDEN RING】I am Pavolia\, bird of hololive Indonesia  【Pavolia Reine/hololiveID 2nd gen】
-UID:hEPxxdyWvHM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#KoPaSu】BERMAIN MINECRAFT WITH KOPASU【Ayunda Risu】\nhttps://www.youtube.com/watch?v=6uYaMrKMAno
-DURATION:PT2H
-DTSTART:20220501T153000Z
-SUMMARY:🐿Risu: 【#KoPaSu】BERMAIN MINECRAFT WITH KOPASU【Ayunda Risu】
-UID:6uYaMrKMAno
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ART STREAM】comfy times【Vestia Zeta / Hololive ID】\nhttps://www.youtube.com/watch?v=iEX68oQfs7E
@@ -46,17 +46,10 @@ SUMMARY:Zeta: 【ART STREAM】comfy times【Vestia Zeta / Hololive ID】
 UID:iEX68oQfs7E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MAFIA】yea i'm the boss【Vestia Zeta / Hololive ID】\nhttps://www.youtube.com/watch?v=wipBW-MqMK8
+DESCRIPTION:【ELDEN RING】I am Pavolia\, bird of hololive Indonesia  【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=hEPxxdyWvHM
 DURATION:PT2H
-DTSTART:20220501T130022Z
-SUMMARY:Zeta: 【MAFIA】yea i'm the boss【Vestia Zeta / Hololive ID】
-UID:wipBW-MqMK8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DONATION READING + FREETALK】starting a month with a chit chat stream :D【Kobo Kanaeru / hololive ID】\nhttps://www.youtube.com/watch?v=EwQ-8_nO968
-DURATION:PT2H
-DTSTART:20220501T080000Z
-SUMMARY:Kobo: 【DONATION READING + FREETALK】starting a month with a chit chat stream :D【Kobo Kanaeru / hololive ID】
-UID:EwQ-8_nO968
+DTSTART:20220430T173000Z
+SUMMARY:Reine: 【ELDEN RING】I am Pavolia\, bird of hololive Indonesia  【Pavolia Reine/hololiveID 2nd gen】
+UID:hEPxxdyWvHM
 END:VEVENT
 END:VCALENDAR
