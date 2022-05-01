@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【League of Legends: Wild Rift】PMA ranked #6【ElaOnDuty】\nhttps://www.youtube.com/watch?v=qOiO-pc55pU
-DURATION:PT2H
-DTSTART:20220501T040043Z
-SUMMARY:Kaela: 【League of Legends: Wild Rift】PMA ranked #6【ElaOnDuty】
-UID:qOiO-pc55pU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【マイクラ】アステルパイセンの試練をサクッとクリアする【 #羽継烏有 / #アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=wTjRSF6Xfy0
 DURATION:PT2H
 DTSTART:20220501T130000Z
 SUMMARY:羽継烏有: 【マイクラ】アステルパイセンの試練をサクッとクリアする【 #羽継烏有 / #アップロー / #ホロスターズ】
 UID:wTjRSF6Xfy0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【League of Legends: Wild Rift】PMA ranked #6【ElaOnDuty】\nhttps://www.youtube.com/watch?v=qOiO-pc55pU
+DURATION:PT2H
+DTSTART:20220501T040043Z
+SUMMARY:Kaela: 【League of Legends: Wild Rift】PMA ranked #6【ElaOnDuty】
+UID:qOiO-pc55pU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【BioShock Remastered】#01 恐縮だがプレイする【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=QYhMVf79flo
@@ -46,11 +46,11 @@ SUMMARY:緋崎ガンマ: 【Minecraft】ゆるスタの先輩方にホロスタ�
 UID:8Q5I-cbE3K0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談 / 告知】GW、話題がありすぎではないか？【ホロライブ / 星街すいせい 】\nhttps://www.youtube.com/watch?v=AXU0hMyL-M4
+DESCRIPTION:When you wake up too early and can't go back to sleep #shorts\nhttps://www.youtube.com/watch?v=CZ3yAa-_8ME
 DURATION:PT2H
-DTSTART:20220501T100000Z
-SUMMARY:☄星街すいせい: 【雑談 / 告知】GW、話題がありすぎではないか？【ホロライブ / 星街すいせい 】
-UID:AXU0hMyL-M4
+DTSTART:20220501T212043Z
+SUMMARY:Kronii: When you wake up too early and can't go back to sleep #shorts
+UID:CZ3yAa-_8ME
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【AEPX】突発！花岸APEX！！\nhttps://www.youtube.com/watch?v=JXdACd_xc-g
@@ -58,6 +58,13 @@ DURATION:PT2H
 DTSTART:20220501T153000Z
 SUMMARY:🦔💨岸堂天真: 【AEPX】突発！花岸APEX！！
 UID:JXdACd_xc-g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談 / 告知】GW、話題がありすぎではないか？【ホロライブ / 星街すいせい 】\nhttps://www.youtube.com/watch?v=AXU0hMyL-M4
+DURATION:PT2H
+DTSTART:20220501T100000Z
+SUMMARY:☄星街すいせい: 【雑談 / 告知】GW、話題がありすぎではないか？【ホロライブ / 星街すいせい 】
+UID:AXU0hMyL-M4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Duolingo】ASAKATSU English START!!!/水無世燐央【 アップロー / ホロスターズ】\nhttps://www.youtube.com/watch?v=wUgB1ZxFzi8
@@ -221,18 +228,18 @@ SUMMARY:🍕アルランディス: 【Minecraft】アップロー!!×ゆるス�
 UID:1JK4uF2xIfc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING】I am Pavolia\, bird of hololive Indonesia  【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=hEPxxdyWvHM
-DURATION:PT2H
-DTSTART:20220430T173000Z
-SUMMARY:Reine: 【ELDEN RING】I am Pavolia\, bird of hololive Indonesia  【Pavolia Reine/hololiveID 2nd gen】
-UID:hEPxxdyWvHM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ヤンデレナース/Yandere nurse【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=_h1AVLrzP10
 DURATION:PT2H
 DTSTART:20220501T143628Z
 SUMMARY:💫天音かなた: ヤンデレナース/Yandere nurse【天音かなた/ホロライブ】
 UID:_h1AVLrzP10
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ELDEN RING】I am Pavolia\, bird of hololive Indonesia  【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=hEPxxdyWvHM
+DURATION:PT2H
+DTSTART:20220430T173000Z
+SUMMARY:Reine: 【ELDEN RING】I am Pavolia\, bird of hololive Indonesia  【Pavolia Reine/hololiveID 2nd gen】
+UID:hEPxxdyWvHM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#天音かなた新衣装】新衣装お披露目会💙NEW OUTFIT【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=BToKPiYqib0
@@ -263,6 +270,13 @@ SUMMARY:Fauna: 【SKYRIM】 It's SKYRIM SUNDAY
 UID:uwxRUzBFUKY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【シン・クロニクル】期間限定！メイスきちゃああああ！！絶対にゲットせねばッ！！！✨【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=CJ1-sIeJJYk
+DURATION:PT2H
+DTSTART:20220502T110000Z
+SUMMARY:⚔白銀ノエル: 【シン・クロニクル】期間限定！メイスきちゃああああ！！絶対にゲットせねばッ！！！✨【白銀ノエル/ホロライブ】
+UID:CJ1-sIeJJYk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】超大作！超感動！！アステル先輩からのサプライズ！？...夜十神封魔視点【#夜十神封魔 #アステルレダ #アップロー】\nhttps://www.youtube.com/watch?v=4eU_5wfDT-M
 DURATION:PT2H
 DTSTART:20220501T130000Z
@@ -275,13 +289,6 @@ DURATION:PT2H
 DTSTART:20220502T030000Z
 SUMMARY:Calli: 【MEET MAMA MORI】!!!!!! #mamamori
 UID:Q7-Aujdc6JE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【シン・クロニクル】期間限定！メイスきちゃああああ！！絶対にゲットせねばッ！！！✨【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=CJ1-sIeJJYk
-DURATION:PT2H
-DTSTART:20220502T110000Z
-SUMMARY:⚔白銀ノエル: 【シン・クロニクル】期間限定！メイスきちゃああああ！！絶対にゲットせねばッ！！！✨【白銀ノエル/ホロライブ】
-UID:CJ1-sIeJJYk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【カイロソフト／ミリオン行進曲】最終回！ホロルイズプロダクションの運命は！？【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=YlZB_yPueuw
@@ -354,18 +361,18 @@ SUMMARY:沙花叉クロヱ: 【エルデンリング】腹筋縛り！ラニイ�
 UID:CTR78LW941U
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ホロスタ鯖にアップロー参戦!!天真村を紹介する。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=hw2cSSFD1Fs
-DURATION:PT2H
-DTSTART:20220501T050000Z
-SUMMARY:🌺花咲みやび: 【Minecraft】ホロスタ鯖にアップロー参戦!!天真村を紹介する。【花咲みやび/ホロスターズ】
-UID:hw2cSSFD1Fs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【天皇賞 春2022】人生二度目の競馬で大予想する！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=MxYx8UdS6JQ
 DURATION:PT2H
 DTSTART:20220501T053000Z
 SUMMARY:👯兎田ぺこら: 【天皇賞 春2022】人生二度目の競馬で大予想する！！！！！ぺこ！【ホロライブ/兎田ぺこら】
 UID:MxYx8UdS6JQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】ホロスタ鯖にアップロー参戦!!天真村を紹介する。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=hw2cSSFD1Fs
+DURATION:PT2H
+DTSTART:20220501T050000Z
+SUMMARY:🌺花咲みやび: 【Minecraft】ホロスタ鯖にアップロー参戦!!天真村を紹介する。【花咲みやび/ホロスターズ】
+UID:hw2cSSFD1Fs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#3【Ghostwire: Tokyo】第三章：縁を進めていくよ～！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=2U-OYwV-vhw
@@ -396,18 +403,18 @@ SUMMARY:博衣こより: 【春ゆきてレトロチカ】先行プレイ！ス�
 UID:DEtl-sdvcoU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【＃Oga2nd_anniversary】荒咬オウガ2nd　anniversary　HEARTFUL LOVE【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=Kirv-3VdPcg
-DURATION:PT2H
-DTSTART:20220501T110000Z
-SUMMARY:荒咬オウガ: 【＃Oga2nd_anniversary】荒咬オウガ2nd　anniversary　HEARTFUL LOVE【荒咬オウガ/ホロスターズ】
-UID:Kirv-3VdPcg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【配信予定地】サムネイルとタイトルはあとでかえます！！【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=Jap3kFzy60Q
 DURATION:PT2H
 DTSTART:20220502T140000Z
 SUMMARY:鷹嶺ルイ: 【配信予定地】サムネイルとタイトルはあとでかえます！！【鷹嶺ルイ/ホロライブ】
 UID:Jap3kFzy60Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【＃Oga2nd_anniversary】荒咬オウガ2nd　anniversary　HEARTFUL LOVE【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=Kirv-3VdPcg
+DURATION:PT2H
+DTSTART:20220501T110000Z
+SUMMARY:荒咬オウガ: 【＃Oga2nd_anniversary】荒咬オウガ2nd　anniversary　HEARTFUL LOVE【荒咬オウガ/ホロスターズ】
+UID:Kirv-3VdPcg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ネタバレあり】#2　未知の言語を話す彼女との7日間 -7 Days to End with You-【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=XLxUP26lFTQ
@@ -466,18 +473,18 @@ SUMMARY:Baelz: ≪CHATTING≫ catch up with me~
 UID:MEWOUb2lMxA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#夜十神封魔がROBELに来店】遂にこの時がやってきたなぁ…！アップローちゃんの封魔が来店じゃい！【夕刻ロベル/夜十神封魔】\nhttps://www.youtube.com/watch?v=0NP3cq6S8pY
-DURATION:PT2H
-DTSTART:20220501T090000Z
-SUMMARY:🍷夕刻ロベル: 【#夜十神封魔がROBELに来店】遂にこの時がやってきたなぁ…！アップローちゃんの封魔が来店じゃい！【夕刻ロベル/夜十神封魔】
-UID:0NP3cq6S8pY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【記念枠】正装衣装が２．０にバージョンアップ！！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=-DzkcbcsQ5g
 DURATION:PT2H
 DTSTART:20220503T120000Z
 SUMMARY:⚙律可: 【記念枠】正装衣装が２．０にバージョンアップ！！【律可/ホロスターズ】#りつすた
 UID:-DzkcbcsQ5g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#夜十神封魔がROBELに来店】遂にこの時がやってきたなぁ…！アップローちゃんの封魔が来店じゃい！【夕刻ロベル/夜十神封魔】\nhttps://www.youtube.com/watch?v=0NP3cq6S8pY
+DURATION:PT2H
+DTSTART:20220501T090000Z
+SUMMARY:🍷夕刻ロベル: 【#夜十神封魔がROBELに来店】遂にこの時がやってきたなぁ…！アップローちゃんの封魔が来店じゃい！【夕刻ロベル/夜十神封魔】
+UID:0NP3cq6S8pY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#羽継烏有がROBELに来店】ぼこぼこにする時が来たかもしれません。羽継烏有の来店じゃい！【夕刻ロベル/羽継烏有】\nhttps://www.youtube.com/watch?v=IuLkOQUmWpo
