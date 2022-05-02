@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#KoPaSu】BERMAIN MINECRAFT WITH KOPASU【Ayunda Risu】\nhttps://www.youtube.com/watch?v=6uYaMrKMAno
+DESCRIPTION:【Minecraft】KOPASUCRAFT (Kobo\, Pavo\, Risu)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=3MuCYxnesrk
 DURATION:PT2H
 DTSTART:20220501T153000Z
-SUMMARY:🐿Risu: 【#KoPaSu】BERMAIN MINECRAFT WITH KOPASU【Ayunda Risu】
-UID:6uYaMrKMAno
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【A Dance of Fire and Ice】vibing night【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=IlvIYLSgKfo
-DURATION:PT2H
-DTSTART:20220502T140158Z
-SUMMARY:Kaela: 【A Dance of Fire and Ice】vibing night【Kaela Kovalskia / hololive ID】
-UID:IlvIYLSgKfo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】KoPaSu【Kobo x Pavo x Risu】\nhttps://www.youtube.com/watch?v=8AH5-ttJpCQ
-DURATION:PT2H
-DTSTART:20220501T153000Z
-SUMMARY:Kobo: 【Minecraft】KoPaSu【Kobo x Pavo x Risu】
-UID:8AH5-ttJpCQ
+SUMMARY:Reine: 【Minecraft】KOPASUCRAFT (Kobo\, Pavo\, Risu)【Pavolia Reine/hololiveID 2nd gen】
+UID:3MuCYxnesrk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DOOM ETERNAL】PC-kun ganbare!! 【Vestia Zeta / Hololive ID】\nhttps://www.youtube.com/watch?v=Mx5cukxDaro
@@ -32,10 +18,17 @@ SUMMARY:Zeta: 【DOOM ETERNAL】PC-kun ganbare!! 【Vestia Zeta / Hololive ID】
 UID:Mx5cukxDaro
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】KOPASUCRAFT (Kobo\, Pavo\, Risu)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=3MuCYxnesrk
+DESCRIPTION:【Minecraft】KoPaSu【Kobo x Pavo x Risu】\nhttps://www.youtube.com/watch?v=8AH5-ttJpCQ
 DURATION:PT2H
 DTSTART:20220501T153000Z
-SUMMARY:Reine: 【Minecraft】KOPASUCRAFT (Kobo\, Pavo\, Risu)【Pavolia Reine/hololiveID 2nd gen】
-UID:3MuCYxnesrk
+SUMMARY:Kobo: 【Minecraft】KoPaSu【Kobo x Pavo x Risu】
+UID:8AH5-ttJpCQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#KoPaSu】BERMAIN MINECRAFT WITH KOPASU【Ayunda Risu】\nhttps://www.youtube.com/watch?v=6uYaMrKMAno
+DURATION:PT2H
+DTSTART:20220501T153000Z
+SUMMARY:🐿Risu: 【#KoPaSu】BERMAIN MINECRAFT WITH KOPASU【Ayunda Risu】
+UID:6uYaMrKMAno
 END:VEVENT
 END:VCALENDAR
