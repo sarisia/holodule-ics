@@ -4,60 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】KoPaSu【Kobo x Pavo x Risu】\nhttps://www.youtube.com/watch?v=8AH5-ttJpCQ
-DURATION:PT2H
-DTSTART:20220501T153000Z
-SUMMARY:Kobo: 【Minecraft】KoPaSu【Kobo x Pavo x Risu】
-UID:8AH5-ttJpCQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DOOM ETERNAL】PC-kun ganbare!! 【Vestia Zeta / Hololive ID】\nhttps://www.youtube.com/watch?v=Mx5cukxDaro
-DURATION:PT2H
-DTSTART:20220502T120016Z
-SUMMARY:Zeta: 【DOOM ETERNAL】PC-kun ganbare!! 【Vestia Zeta / Hololive ID】
-UID:Mx5cukxDaro
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】KOPASUCRAFT (Kobo\, Pavo\, Risu)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=3MuCYxnesrk
-DURATION:PT2H
-DTSTART:20220501T153000Z
-SUMMARY:Reine: 【Minecraft】KOPASUCRAFT (Kobo\, Pavo\, Risu)【Pavolia Reine/hololiveID 2nd gen】
-UID:3MuCYxnesrk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RAFT】endurance?! no more flowers? hmm..【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=ql1V3ktRm5o
-DURATION:PT2H
-DTSTART:20220503T130124Z
-SUMMARY:Kaela: 【RAFT】endurance?! no more flowers? hmm..【Kaela Kovalskia / hololive ID】
-UID:ql1V3ktRm5o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#KoPaSu】BERMAIN MINECRAFT WITH KOPASU【Ayunda Risu】\nhttps://www.youtube.com/watch?v=6uYaMrKMAno
-DURATION:PT2H
-DTSTART:20220501T153000Z
-SUMMARY:🐿Risu: 【#KoPaSu】BERMAIN MINECRAFT WITH KOPASU【Ayunda Risu】
-UID:6uYaMrKMAno
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Red Rose or Blue Rose? | ib 2022 Remake【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=JUX6c3arTbc
 DURATION:PT2H
 DTSTART:20220503T140000Z
 SUMMARY:🎨Iofi: Red Rose or Blue Rose? | ib 2022 Remake【 iofi / ホロライブ 】
 UID:JUX6c3arTbc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【A Dance of Fire and Ice】vibing night【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=IlvIYLSgKfo
-DURATION:PT2H
-DTSTART:20220502T140158Z
-SUMMARY:Kaela: 【A Dance of Fire and Ice】vibing night【Kaela Kovalskia / hololive ID】
-UID:IlvIYLSgKfo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CHILL】Sleeping in the Streets\, Sleeping in the Sheets #holoturpai【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=NTPKcrA6uzU
-DURATION:PT2H
-DTSTART:20220503T120000Z
-SUMMARY:Reine: 【CHILL】Sleeping in the Streets\, Sleeping in the Sheets #holoturpai【Pavolia Reine/hololiveID 2nd gen】
-UID:NTPKcrA6uzU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PORTAL 2】I’LL DO MY VERY BEST\, MOMMY PHOENIX!!【Kobo x Kiara】\nhttps://www.youtube.com/watch?v=oI0bcxjj8Vg
@@ -67,10 +18,24 @@ SUMMARY:Kobo: 【PORTAL 2】I’LL DO MY VERY BEST\, MOMMY PHOENIX!!【Kobo x Ki
 UID:oI0bcxjj8Vg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【CHILL】Sleeping in the Streets\, Sleeping in the Sheets #holoturpai【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=NTPKcrA6uzU
+DURATION:PT2H
+DTSTART:20220503T120000Z
+SUMMARY:Reine: 【CHILL】Sleeping in the Streets\, Sleeping in the Sheets #holoturpai【Pavolia Reine/hololiveID 2nd gen】
+UID:NTPKcrA6uzU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】sat set sat set 【Vestia Zeta x Kureiji Ollie】\nhttps://www.youtube.com/watch?v=A0hJJcQHspA
 DURATION:PT2H
 DTSTART:20220503T120020Z
 SUMMARY:Zeta: 【APEX】sat set sat set 【Vestia Zeta x Kureiji Ollie】
 UID:A0hJJcQHspA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RAFT】endurance?! no more flowers? hmm..【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=ql1V3ktRm5o
+DURATION:PT2H
+DTSTART:20220503T130124Z
+SUMMARY:Kaela: 【RAFT】endurance?! no more flowers? hmm..【Kaela Kovalskia / hololive ID】
+UID:ql1V3ktRm5o
 END:VEVENT
 END:VCALENDAR
