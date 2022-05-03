@@ -4,6 +4,27 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】KoPaSu【Kobo x Pavo x Risu】\nhttps://www.youtube.com/watch?v=8AH5-ttJpCQ
+DURATION:PT2H
+DTSTART:20220501T153000Z
+SUMMARY:Kobo: 【Minecraft】KoPaSu【Kobo x Pavo x Risu】
+UID:8AH5-ttJpCQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DOOM ETERNAL】PC-kun ganbare!! 【Vestia Zeta / Hololive ID】\nhttps://www.youtube.com/watch?v=Mx5cukxDaro
+DURATION:PT2H
+DTSTART:20220502T120016Z
+SUMMARY:Zeta: 【DOOM ETERNAL】PC-kun ganbare!! 【Vestia Zeta / Hololive ID】
+UID:Mx5cukxDaro
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】KOPASUCRAFT (Kobo\, Pavo\, Risu)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=3MuCYxnesrk
+DURATION:PT2H
+DTSTART:20220501T153000Z
+SUMMARY:Reine: 【Minecraft】KOPASUCRAFT (Kobo\, Pavo\, Risu)【Pavolia Reine/hololiveID 2nd gen】
+UID:3MuCYxnesrk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#KoPaSu】BERMAIN MINECRAFT WITH KOPASU【Ayunda Risu】\nhttps://www.youtube.com/watch?v=6uYaMrKMAno
 DURATION:PT2H
 DTSTART:20220501T153000Z
@@ -32,24 +53,10 @@ SUMMARY:Kobo: 【PORTAL 2】I’LL DO MY VERY BEST\, MOMMY PHOENIX!!【Kobo x Ki
 UID:oI0bcxjj8Vg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】KoPaSu【Kobo x Pavo x Risu】\nhttps://www.youtube.com/watch?v=8AH5-ttJpCQ
+DESCRIPTION:【APEX】sat set sat set 【Vestia Zeta x Kureiji Ollie】\nhttps://www.youtube.com/watch?v=A0hJJcQHspA
 DURATION:PT2H
-DTSTART:20220501T153000Z
-SUMMARY:Kobo: 【Minecraft】KoPaSu【Kobo x Pavo x Risu】
-UID:8AH5-ttJpCQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DOOM ETERNAL】PC-kun ganbare!! 【Vestia Zeta / Hololive ID】\nhttps://www.youtube.com/watch?v=Mx5cukxDaro
-DURATION:PT2H
-DTSTART:20220502T120016Z
-SUMMARY:Zeta: 【DOOM ETERNAL】PC-kun ganbare!! 【Vestia Zeta / Hololive ID】
-UID:Mx5cukxDaro
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】KOPASUCRAFT (Kobo\, Pavo\, Risu)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=3MuCYxnesrk
-DURATION:PT2H
-DTSTART:20220501T153000Z
-SUMMARY:Reine: 【Minecraft】KOPASUCRAFT (Kobo\, Pavo\, Risu)【Pavolia Reine/hololiveID 2nd gen】
-UID:3MuCYxnesrk
+DTSTART:20220503T120020Z
+SUMMARY:Zeta: 【APEX】sat set sat set 【Vestia Zeta x Kureiji Ollie】
+UID:A0hJJcQHspA
 END:VEVENT
 END:VCALENDAR
