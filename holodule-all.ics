@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【LEGO Star Wars: The Skywalker Saga】 The May 4th Special!!!\nhttps://www.youtube.com/watch?v=hnLzQhslQSo
+DURATION:PT2H
+DTSTART:20220504T210000Z
+SUMMARY:Ina: 【LEGO Star Wars: The Skywalker Saga】 The May 4th Special!!!
+UID:hnLzQhslQSo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ELDEN RING #13】I'M BACK RING.【SPOILER WARNING】\nhttps://www.youtube.com/watch?v=grnRqh5kGSU
 DURATION:PT2H
 DTSTART:20220504T125957Z
@@ -128,6 +135,13 @@ DURATION:PT2H
 DTSTART:20220504T130000Z
 SUMMARY:Anya: 【Operation: Tango】Mission: Start?😎【hololive Indonesia 2nd Generation】
 UID:XrTWagylxuQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:革命デュアリズム / AZKi × 律可 (Cover)\nhttps://www.youtube.com/watch?v=aWSaIdLUE0Y
+DURATION:PT2H
+DTSTART:20220505T120000Z
+SUMMARY:⚒AZKi: 革命デュアリズム / AZKi × 律可 (Cover)
+UID:aWSaIdLUE0Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】4人でホロスタサーバー散策＆整地？【夜十神封魔/ホロスターズ/アップロー】\nhttps://www.youtube.com/watch?v=z7MeCYMN8hc
@@ -641,13 +655,6 @@ SUMMARY:🍷夕刻ロベル: 【#水無世燐央がROBELに来店】幽霊…な
 UID:eVycrk9PFcg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【OW2】ホロスタOW2部【奏手イヅル🔰 w/🍕🌺🎭🟣】\nhttps://www.youtube.com/watch?v=s2ynaqh99zI
-DURATION:PT2H
-DTSTART:20220504T120000Z
-SUMMARY:🎸奏手イヅル: 【OW2】ホロスタOW2部【奏手イヅル🔰 w/🍕🌺🎭🟣】
-UID:s2ynaqh99zI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ホロGGW】練習するしゅばああああああああああああああ！！！！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=hC2jsfIfSwQ
 DURATION:PT2H
 DTSTART:20220504T120000Z
@@ -739,13 +746,6 @@ SUMMARY:影山シエン: 【#魔フィア】2周年を迎えた我々【影山�
 UID:iqeVTWhkpzY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【OverWatch2 CBT 】ホロスタフルパオーバーウォッチ2の予感…!?!?【花咲みやび/奏手イヅル/アステル･レダ/影山シエン/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=nJwig7Dan_E
-DURATION:PT2H
-DTSTART:20220504T120000Z
-SUMMARY:🍕アルランディス: 【OverWatch2 CBT 】ホロスタフルパオーバーウォッチ2の予感…!?!?【花咲みやび/奏手イヅル/アステル･レダ/影山シエン/アルランディス/ホロスターズ】
-UID:nJwig7Dan_E
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【switch sports】あの神ゲーの新作がswitch発売したらしいので遊んでみる！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=xM8k0AoEb5k
 DURATION:PT2H
 DTSTART:20220503T120000Z
@@ -753,18 +753,18 @@ SUMMARY:👯兎田ぺこら: 【switch sports】あの神ゲーの新作がswitc
 UID:xM8k0AoEb5k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Big Brain Academy】k\, my brain is not ready for this【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=mzMF1fkzgy0
-DURATION:PT2H
-DTSTART:20220504T090029Z
-SUMMARY:Kaela: 【Big Brain Academy】k\, my brain is not ready for this【Kaela Kovalskia / hololive ID】
-UID:mzMF1fkzgy0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#1【NOSTALGIC TRAIN】ロベル先輩からの推薦！人間が居なくなったらしい・・・。【夜十神封魔/ホロスターズ/アップロー】\nhttps://www.youtube.com/watch?v=sH16WnWEl8g
 DURATION:PT2H
 DTSTART:20220503T100000Z
 SUMMARY:夜十神封魔: #1【NOSTALGIC TRAIN】ロベル先輩からの推薦！人間が居なくなったらしい・・・。【夜十神封魔/ホロスターズ/アップロー】
 UID:sH16WnWEl8g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Big Brain Academy】k\, my brain is not ready for this【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=mzMF1fkzgy0
+DURATION:PT2H
+DTSTART:20220504T090029Z
+SUMMARY:Kaela: 【Big Brain Academy】k\, my brain is not ready for this【Kaela Kovalskia / hololive ID】
+UID:mzMF1fkzgy0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪SPLATOON 2 ≫ roller is the way baby\nhttps://www.youtube.com/watch?v=Fc_jvI4ePRg
@@ -781,13 +781,6 @@ SUMMARY:羽継烏有: 【APEX】すこしだけやる えいぺっくす【羽�
 UID:SjtF19UhT2A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【飲酒雑談】みんなからおすすめ貰ったおつまみと共に【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=lZZNwBkCKjg
-DURATION:PT2H
-DTSTART:20220504T150000Z
-SUMMARY:🍕アルランディス: 【飲酒雑談】みんなからおすすめ貰ったおつまみと共に【アルランディス/ホロスターズ】
-UID:lZZNwBkCKjg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Enter the Gungeon】Bullet hell FUN\nhttps://www.youtube.com/watch?v=siy5A6oDNLA
 DURATION:PT2H
 DTSTART:20220504T030000Z
@@ -795,11 +788,11 @@ SUMMARY:IRyS: 【Enter the Gungeon】Bullet hell FUN
 UID:siy5A6oDNLA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロストレンジ】”超越の世界が、開かれる。” ドクター・ストレンジをホロライブメンバーが語る！\nhttps://www.youtube.com/watch?v=xqWE0UYb1zM
+DESCRIPTION:【飲酒雑談】みんなからおすすめ貰ったおつまみと共に【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=lZZNwBkCKjg
 DURATION:PT2H
-DTSTART:20220503T100000Z
-SUMMARY:ホロライブ: 【#ホロストレンジ】”超越の世界が、開かれる。” ドクター・ストレンジをホロライブメンバーが語る！
-UID:xqWE0UYb1zM
+DTSTART:20220504T150000Z
+SUMMARY:🍕アルランディス: 【飲酒雑談】みんなからおすすめ貰ったおつまみと共に【アルランディス/ホロスターズ】
+UID:lZZNwBkCKjg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#2【NOSTALGIC TRAIN】ここから伏線回収？この町から脱出する。【夜十神封魔/ホロスターズ/アップロー】\nhttps://www.youtube.com/watch?v=iliMpEMMXkc
@@ -807,6 +800,13 @@ DURATION:PT2H
 DTSTART:20220503T210000Z
 SUMMARY:夜十神封魔: #2【NOSTALGIC TRAIN】ここから伏線回収？この町から脱出する。【夜十神封魔/ホロスターズ/アップロー】
 UID:iliMpEMMXkc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロストレンジ】”超越の世界が、開かれる。” ドクター・ストレンジをホロライブメンバーが語る！\nhttps://www.youtube.com/watch?v=xqWE0UYb1zM
+DURATION:PT2H
+DTSTART:20220503T100000Z
+SUMMARY:ホロライブ: 【#ホロストレンジ】”超越の世界が、開かれる。” ドクター・ストレンジをホロライブメンバーが語る！
+UID:xqWE0UYb1zM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#緋崎ガンマがROBELに来店】野球好きらしいですね…？緋崎ガンマの来店じゃい！！【夕刻ロベル/緋崎ガンマ】\nhttps://www.youtube.com/watch?v=YI6DCp_XwFQ
