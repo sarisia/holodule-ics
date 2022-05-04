@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【LEGO Star Wars: The Skywalker Saga】 The May 4th Special!!!\nhttps://www.youtube.com/watch?v=hnLzQhslQSo
-DURATION:PT2H
-DTSTART:20220504T210000Z
-SUMMARY:Ina: 【LEGO Star Wars: The Skywalker Saga】 The May 4th Special!!!
-UID:hnLzQhslQSo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ELDEN RING #13】I'M BACK RING.【SPOILER WARNING】\nhttps://www.youtube.com/watch?v=grnRqh5kGSU
 DURATION:PT2H
 DTSTART:20220504T125957Z
 SUMMARY:Calli: 【ELDEN RING #13】I'M BACK RING.【SPOILER WARNING】
 UID:grnRqh5kGSU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【LEGO Star Wars: The Skywalker Saga】 The May 4th Special!!!\nhttps://www.youtube.com/watch?v=hnLzQhslQSo
+DURATION:PT2H
+DTSTART:20220504T210000Z
+SUMMARY:Ina: 【LEGO Star Wars: The Skywalker Saga】 The May 4th Special!!!
+UID:hnLzQhslQSo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MARK YOUR CALENDARS!! Ollie’s #YouTubeMusicWeekend #Shorts\nhttps://www.youtube.com/watch?v=c_YdLlfoVo4
@@ -32,10 +32,10 @@ SUMMARY:羽継烏有: 【マイクラ】アップローの拠点つくる！！�
 UID:Y4KKc4ORIZM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【】星のカービィスーパーデラックス２人クリア耐久：Kirby Super Star Clear Durability【】\nhttps://www.youtube.com/watch?v=FXCn3sf9LZU
+DESCRIPTION:【#ホロライブレトロゲーム部】星のカービィスーパーデラックスクリア耐久：Kirby Super Star Clear Durability【ホロライブ】\nhttps://www.youtube.com/watch?v=FXCn3sf9LZU
 DURATION:PT2H
 DTSTART:20220505T040000Z
-SUMMARY:🚑大空スバル: 【】星のカービィスーパーデラックス２人クリア耐久：Kirby Super Star Clear Durability【】
+SUMMARY:🚑大空スバル: 【#ホロライブレトロゲーム部】星のカービィスーパーデラックスクリア耐久：Kirby Super Star Clear Durability【ホロライブ】
 UID:FXCn3sf9LZU
 END:VEVENT
 BEGIN:VEVENT
@@ -179,13 +179,6 @@ SUMMARY:ホロライブ: 【#いろはにコラボ】祝！鬼灯日和リリー
 UID:uUfqhM6zNoQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Ib REMAKE】2周目！また不思議な美術館に… (SPOILER＆Japanglish WARNING)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=Bo3mX2yQLwo
-DURATION:PT2H
-DTSTART:20220504T140000Z
-SUMMARY:Reine: 【Ib REMAKE】2周目！また不思議な美術館に… (SPOILER＆Japanglish WARNING)【Pavolia Reine/hololiveID 2nd gen】
-UID:Bo3mX2yQLwo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【同時視聴】「スタこれ」最新15話公開！＆これまでの作品をイッキ見してワイワイ語ろうSP！【＃スタこれ】\nhttps://www.youtube.com/watch?v=Q5rDo0-o_ME
 DURATION:PT2H
 DTSTART:20220506T100000Z
@@ -289,13 +282,6 @@ DURATION:PT2H
 DTSTART:20220503T150048Z
 SUMMARY:🎭アステル・レダ: 超絶テクニックで100人抜くまで終わりまAPEX
 UID:u2OwFZksuyw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING】今日はどこ行こうかな〜〜〜！#05【猫又おかゆ/ホロライブ】 ※ネタバレ注意\nhttps://www.youtube.com/watch?v=L7J3GlS3uZw
-DURATION:PT2H
-DTSTART:20220504T130000Z
-SUMMARY:🍙猫又おかゆ: 【ELDEN RING】今日はどこ行こうかな〜〜〜！#05【猫又おかゆ/ホロライブ】 ※ネタバレ注意
-UID:L7J3GlS3uZw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ネタバレあり】Ib 美術館に遊びに来たやさん～【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=_-RdpoIjbTU
@@ -527,13 +513,6 @@ DURATION:PT2H
 DTSTART:20220503T210000Z
 SUMMARY:夜十神封魔: #2【NOSTALGIC TRAIN】ここから伏線回収？この町から脱出する。【夜十神封魔/ホロスターズ/アップロー】
 UID:iliMpEMMXkc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【飲酒雑談】みんなからおすすめ貰ったおつまみと共に【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=lZZNwBkCKjg
-DURATION:PT2H
-DTSTART:20220504T150000Z
-SUMMARY:🍕アルランディス: 【飲酒雑談】みんなからおすすめ貰ったおつまみと共に【アルランディス/ホロスターズ】
-UID:lZZNwBkCKjg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MoonUtau】100 Songs with Moona【REBROADCAST DAY】\nhttps://www.youtube.com/watch?v=LUbWm6EG6QU
