@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:マウスパッドでぺぇ相撲を開催しているわためぇ【ギリギリわるくないわため】#Shorts　#ギリわる\nhttps://www.youtube.com/watch?v=Z2RYzmU6pV0
-DURATION:PT2H
-DTSTART:20220506T093011Z
-SUMMARY:🐏角巻わため: マウスパッドでぺぇ相撲を開催しているわためぇ【ギリギリわるくないわため】#Shorts　#ギリわる
-UID:Z2RYzmU6pV0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 #ホロGGW】相撲は誰がやるのか！みんなで力試し！【常闇トワチーム】\nhttps://www.youtube.com/watch?v=DvwtcmA4-BI
 DURATION:PT2H
 DTSTART:20220506T130000Z
 SUMMARY:👾常闇トワ: 【 #ホロGGW】相撲は誰がやるのか！みんなで力試し！【常闇トワチーム】
 UID:DvwtcmA4-BI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:マウスパッドでぺぇ相撲を開催しているわためぇ【ギリギリわるくないわため】#Shorts　#ギリわる\nhttps://www.youtube.com/watch?v=Z2RYzmU6pV0
+DURATION:PT2H
+DTSTART:20220506T093011Z
+SUMMARY:🐏角巻わため: マウスパッドでぺぇ相撲を開催しているわためぇ【ギリギリわるくないわため】#Shorts　#ギリわる
+UID:Z2RYzmU6pV0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【地球防衛軍5】EDF！EDF！うおおおおおおおおおおおお！【獅白ぼたん視点/ホロライブ】\nhttps://www.youtube.com/watch?v=QVd47xRPq1w
@@ -74,11 +74,11 @@ SUMMARY:🍷夕刻ロベル: 【雑談】寝る前のお雑談【夕刻ロベル
 UID:igSAoOleuIg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RAFT】getting closer to end the game【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=aqVY_M355oE
+DESCRIPTION:【Raft】ついに最終回！？フレわた漂流記【不知火フレア/角巻わため/ホロライブ】\nhttps://www.youtube.com/watch?v=P2nnNgfHXM4
 DURATION:PT2H
-DTSTART:20220506T083045Z
-SUMMARY:Kaela: 【RAFT】getting closer to end the game【Kaela Kovalskia / hololive ID】
-UID:aqVY_M355oE
+DTSTART:20220506T130000Z
+SUMMARY:🔥不知火フレア: 【Raft】ついに最終回！？フレわた漂流記【不知火フレア/角巻わため/ホロライブ】
+UID:P2nnNgfHXM4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】tunnel ft. OPEN VC\nhttps://www.youtube.com/watch?v=_iF1muUwJRE
@@ -95,11 +95,11 @@ SUMMARY:鷹嶺ルイ: 【夜廻】こわいこわいこわい・・・でも気�
 UID:iAQO9jmpgik
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Raft】ついに最終回！？フレわた漂流記【不知火フレア/角巻わため/ホロライブ】\nhttps://www.youtube.com/watch?v=P2nnNgfHXM4
+DESCRIPTION:【RAFT】getting closer to end the game【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=aqVY_M355oE
 DURATION:PT2H
-DTSTART:20220506T130000Z
-SUMMARY:🔥不知火フレア: 【Raft】ついに最終回！？フレわた漂流記【不知火フレア/角巻わため/ホロライブ】
-UID:P2nnNgfHXM4
+DTSTART:20220506T083045Z
+SUMMARY:Kaela: 【RAFT】getting closer to end the game【Kaela Kovalskia / hololive ID】
+UID:aqVY_M355oE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ネタバレあり】 ララ狐は竜騎士となりエオルゼアを救う　紅蓮編4.0　＃23 【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=ZCU2php4754
@@ -263,6 +263,13 @@ SUMMARY:博衣こより: 【#朝こよ】#45 GW真っ最中！金曜日の朝こ
 UID:NO3eS6FbOQY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ELDEN RING】やるぞ！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=b6EnY_tcdlc
+DURATION:PT2H
+DTSTART:20220506T130000Z
+SUMMARY:👯兎田ぺこら: 【ELDEN RING】やるぞ！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり
+UID:b6EnY_tcdlc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MoonUtau】100 Songs with Moona【REBROADCAST NIGHT】\nhttps://www.youtube.com/watch?v=McxZAgP2YNU
 DURATION:PT2H
 DTSTART:20220506T120000Z
@@ -305,18 +312,25 @@ SUMMARY:🚑大空スバル: 【#ホロGGW】合同練習するしゅばああ�
 UID:aaGLEQdby2Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Pavolia Reine - ROYAL PARTY TIME! Pavolia Reine’s hololive DJ×Karaoke Night (YouTube Music Weekend)\nhttps://www.youtube.com/watch?v=Q6ApyF4NUhM
-DURATION:PT2H
-DTSTART:20220506T163555Z
-SUMMARY:Reine: Pavolia Reine - ROYAL PARTY TIME! Pavolia Reine’s hololive DJ×Karaoke Night (YouTube Music Weekend)
-UID:Q6ApyF4NUhM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】フラトラ戻ってくるから、今から練習しとく【夜十神封魔/ホロスターズ/アップロー】\nhttps://www.youtube.com/watch?v=3T15emCKoR4
 DURATION:PT2H
 DTSTART:20220507T090000Z
 SUMMARY:夜十神封魔: 【APEX】フラトラ戻ってくるから、今から練習しとく【夜十神封魔/ホロスターズ/アップロー】
 UID:3T15emCKoR4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【太鼓の達人】さいたま2000を背負えるのか #ホロGGW の特訓開始！！\nhttps://www.youtube.com/watch?v=g3QV6Af6l_Q
+DURATION:PT2H
+DTSTART:20220506T140000Z
+SUMMARY:🍎アキロゼ: 【太鼓の達人】さいたま2000を背負えるのか #ホロGGW の特訓開始！！
+UID:g3QV6Af6l_Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pavolia Reine - ROYAL PARTY TIME! Pavolia Reine’s hololive DJ×Karaoke Night (YouTube Music Weekend)\nhttps://www.youtube.com/watch?v=Q6ApyF4NUhM
+DURATION:PT2H
+DTSTART:20220506T163555Z
+SUMMARY:Reine: Pavolia Reine - ROYAL PARTY TIME! Pavolia Reine’s hololive DJ×Karaoke Night (YouTube Music Weekend)
+UID:Q6ApyF4NUhM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【おまけ動画】広瀬香美さんとのコラボ後の雑談【ときのそら】\nhttps://www.youtube.com/watch?v=TQqFoLc0B3o
@@ -534,5 +548,12 @@ DURATION:PT2H
 DTSTART:20220506T064550Z
 SUMMARY:🎭アステル・レダ: 【APEX】AIMAIMAIMAIMAIMAIMAIMAIMAIMAIMAIMAIMAIMAIMAIMAIMAIMAIMAIMAIM
 UID:QWqkApUSrF0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スプラトゥーン2】先輩達と”イクラ狩り”する【羽継烏有/夜十神封魔/アルランディス/影山シエン】\nhttps://www.youtube.com/watch?v=dg_Awn468Ko
+DURATION:PT2H
+DTSTART:20220508T100000Z
+SUMMARY:羽継烏有: 【スプラトゥーン2】先輩達と”イクラ狩り”する【羽継烏有/夜十神封魔/アルランディス/影山シエン】
+UID:dg_Awn468Ko
 END:VEVENT
 END:VCALENDAR
