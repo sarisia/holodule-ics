@@ -165,18 +165,18 @@ SUMMARY:Fauna: 【Hypnospace Outlaw】 I saw your browser history\, you're under
 UID:6wz61DsUYvw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【TLOZ: The Wind Waker HD 2】WINDWAKER WEEKENDS STARTO #kfp #キアライブ\nhttps://www.youtube.com/watch?v=DCBmU2X3jyY
-DURATION:PT2H
-DTSTART:20220507T140000Z
-SUMMARY:Kiara: 【TLOZ: The Wind Waker HD 2】WINDWAKER WEEKENDS STARTO #kfp #キアライブ
-UID:DCBmU2X3jyY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【メンバーシップ限定】お悩み相談Q.E.D.第2回【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=5mXmU96vGUU
 DURATION:PT2H
 DTSTART:20220507T140000Z
 SUMMARY:博衣こより: 【メンバーシップ限定】お悩み相談Q.E.D.第2回【博衣こより/ホロライブ】
 UID:5mXmU96vGUU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【TLOZ: The Wind Waker HD 2】WINDWAKER WEEKENDS STARTO #kfp #キアライブ\nhttps://www.youtube.com/watch?v=DCBmU2X3jyY
+DURATION:PT2H
+DTSTART:20220507T140000Z
+SUMMARY:Kiara: 【TLOZ: The Wind Waker HD 2】WINDWAKER WEEKENDS STARTO #kfp #キアライブ
+UID:DCBmU2X3jyY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン２】1万年と2000年ぶり！18時までサーモンランする！【羽継烏有/アップロー】\nhttps://www.youtube.com/watch?v=B4uUsrVgH7Y
@@ -277,13 +277,6 @@ SUMMARY:🐏角巻わため: 【Raft】野生児フレアとド畜生わため�
 UID:Uhddwoy46Vc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】久しぶり・・！リハビリ歌枠〜〜【ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=gRxv-c0hi_U
-DURATION:PT2H
-DTSTART:20220507T090000Z
-SUMMARY:🌲大神ミオ: 【歌枠】久しぶり・・！リハビリ歌枠〜〜【ホロライブ/大神ミオ】
-UID:gRxv-c0hi_U
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【地球防衛軍5】初めて地球を守る！得意なのは大声で助けを求めることです！【博衣こより視点/ホロライブ】\nhttps://www.youtube.com/watch?v=rOUIhQs061M
 DURATION:PT2H
 DTSTART:20220506T090000Z
@@ -310,6 +303,13 @@ DURATION:PT2H
 DTSTART:20220506T060127Z
 SUMMARY:Kaela: 【TETRIS 99】some colorful blocks【Kaela Kovalskia / hololive ID】
 UID:kQlly5KJo30
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【弾き語り】気絶せずに歌う【奏手イヅル】\nhttps://www.youtube.com/watch?v=HtsUo5XmfQE
+DURATION:PT2H
+DTSTART:20220507T110000Z
+SUMMARY:🎸奏手イヅル: 【弾き語り】気絶せずに歌う【奏手イヅル】
+UID:HtsUo5XmfQE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】今日は僕が部隊リーダーになる！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=HTY5GRHjVKU
@@ -359,6 +359,13 @@ DURATION:PT2H
 DTSTART:20220506T050000Z
 SUMMARY:羽継烏有: 【ネタバレあり】③ DLC  リトルナイトメア / LITTLE NIGHTMARES【羽継烏有/#アップロー / #ホロスターズ】
 UID:znJIt1r750k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ネタバレあり】 ララ狐は竜騎士となりエオルゼアを救う　紅蓮編4.0　＃24 【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=SmLUNwtIRYY
+DURATION:PT2H
+DTSTART:20220507T050000Z
+SUMMARY:🌽白上フブキ: 【ネタバレあり】 ララ狐は竜騎士となりエオルゼアを救う　紅蓮編4.0　＃24 【ホロライブ/白上フブキ】
+UID:SmLUNwtIRYY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【太鼓の達人】太鼓組で集合！！大会直前に実力テスト！？#ホロGGW\nhttps://www.youtube.com/watch?v=EFz4YWJUgrM
@@ -856,5 +863,12 @@ DURATION:PT2H
 DTSTART:20220507T084500Z
 SUMMARY:Sana: 【Minecraft】The world is mine
 UID:9hwPs73LRc0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Core Keeper】虫スキンを求めて悪魔のボス召喚⚡【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=MrubpNPqgAI
+DURATION:PT2H
+DTSTART:20220507T103000Z
+SUMMARY:💋癒月ちょこ: 【Core Keeper】虫スキンを求めて悪魔のボス召喚⚡【ホロライブ/癒月ちょこ】
+UID:MrubpNPqgAI
 END:VEVENT
 END:VCALENDAR
