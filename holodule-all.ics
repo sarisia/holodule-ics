@@ -165,18 +165,18 @@ SUMMARY:Fauna: 【Hypnospace Outlaw】 I saw your browser history\, you're under
 UID:6wz61DsUYvw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【メンバーシップ限定】お悩み相談Q.E.D.第2回【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=5mXmU96vGUU
-DURATION:PT2H
-DTSTART:20220507T140000Z
-SUMMARY:博衣こより: 【メンバーシップ限定】お悩み相談Q.E.D.第2回【博衣こより/ホロライブ】
-UID:5mXmU96vGUU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【TLOZ: The Wind Waker HD 2】WINDWAKER WEEKENDS STARTO #kfp #キアライブ\nhttps://www.youtube.com/watch?v=DCBmU2X3jyY
 DURATION:PT2H
 DTSTART:20220507T140000Z
 SUMMARY:Kiara: 【TLOZ: The Wind Waker HD 2】WINDWAKER WEEKENDS STARTO #kfp #キアライブ
 UID:DCBmU2X3jyY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メンバーシップ限定】お悩み相談Q.E.D.第2回【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=5mXmU96vGUU
+DURATION:PT2H
+DTSTART:20220507T140000Z
+SUMMARY:博衣こより: 【メンバーシップ限定】お悩み相談Q.E.D.第2回【博衣こより/ホロライブ】
+UID:5mXmU96vGUU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン２】1万年と2000年ぶり！18時までサーモンランする！【羽継烏有/アップロー】\nhttps://www.youtube.com/watch?v=B4uUsrVgH7Y
@@ -275,6 +275,13 @@ DURATION:PT2H
 DTSTART:20220506T130000Z
 SUMMARY:🐏角巻わため: 【Raft】野生児フレアとド畜生わための漂流生活！その７【角巻わため/ホロライブ４期生】
 UID:Uhddwoy46Vc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】久しぶり・・！リハビリ歌枠〜〜【ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=gRxv-c0hi_U
+DURATION:PT2H
+DTSTART:20220507T090000Z
+SUMMARY:🌲大神ミオ: 【歌枠】久しぶり・・！リハビリ歌枠〜〜【ホロライブ/大神ミオ】
+UID:gRxv-c0hi_U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【地球防衛軍5】初めて地球を守る！得意なのは大声で助けを求めることです！【博衣こより視点/ホロライブ】\nhttps://www.youtube.com/watch?v=rOUIhQs061M
@@ -809,13 +816,6 @@ SUMMARY:Kaela: 【League of Legends: Wild Rift】 f for fun #7【ElaOnDuty】
 UID:KE2CvlwQPyg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 メンバー限定 】高級クラブルーナ～呑みながら語りましょう🍶【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=Ln9yZDtfcWg
-DURATION:PT2H
-DTSTART:20220507T110000Z
-SUMMARY:🍬姫森ルーナ: 【 メンバー限定 】高級クラブルーナ～呑みながら語りましょう🍶【#姫森ルーナ/ホロライブ】
-UID:Ln9yZDtfcWg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】Wみなせの初邂逅　w/水無瀬くん（ネオポルテ）/水無世燐央【アップロー /ホロスターズ/#燐央顕現中】\nhttps://www.youtube.com/watch?v=A6Oz_WWhH3Q
 DURATION:PT2H
 DTSTART:20220506T110000Z
@@ -856,13 +856,6 @@ DURATION:PT2H
 DTSTART:20220508T100000Z
 SUMMARY:羽継烏有: 【スプラトゥーン2】先輩達と”イクラ狩り”する【羽継烏有/夜十神封魔/アルランディス/影山シエン】
 UID:dg_Awn468Ko
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】The world is mine\nhttps://www.youtube.com/watch?v=9hwPs73LRc0
-DURATION:PT2H
-DTSTART:20220507T084500Z
-SUMMARY:Sana: 【Minecraft】The world is mine
-UID:9hwPs73LRc0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Core Keeper】虫スキンを求めて悪魔のボス召喚⚡【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=MrubpNPqgAI
