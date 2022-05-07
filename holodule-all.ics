@@ -18,18 +18,18 @@ SUMMARY:👾常闇トワ: 【 #ホロGGW】相撲は誰がやるのか！みん�
 UID:DvwtcmA4-BI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #ホロGGW】太鼓の達人！大会前最後の練習だドン！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=zFCDvef1H3Q
-DURATION:PT2H
-DTSTART:20220507T130000Z
-SUMMARY:🔥不知火フレア: 【 #ホロGGW】太鼓の達人！大会前最後の練習だドン！【不知火フレア/ホロライブ】
-UID:zFCDvef1H3Q
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ELDEN RING】#21 頭のキノコが疼く…！モーグウィン王朝へ【獅白ぼたん/ホロライブ】 ※ネタバレ注意\nhttps://www.youtube.com/watch?v=H4UmktGv_QI
 DURATION:PT2H
 DTSTART:20220507T130000Z
 SUMMARY:獅白ぼたん: 【ELDEN RING】#21 頭のキノコが疼く…！モーグウィン王朝へ【獅白ぼたん/ホロライブ】 ※ネタバレ注意
 UID:H4UmktGv_QI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #ホロGGW】太鼓の達人！大会前最後の練習だドン！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=zFCDvef1H3Q
+DURATION:PT2H
+DTSTART:20220507T130000Z
+SUMMARY:🔥不知火フレア: 【 #ホロGGW】太鼓の達人！大会前最後の練習だドン！【不知火フレア/ホロライブ】
+UID:zFCDvef1H3Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:マウスパッドでぺぇ相撲を開催しているわためぇ【ギリギリわるくないわため】#Shorts　#ギリわる\nhttps://www.youtube.com/watch?v=Z2RYzmU6pV0
@@ -445,11 +445,25 @@ SUMMARY:鷹嶺ルイ: 【#ホロAmongUs】嘘はダ・・・ダメだと思い�
 UID:WlUnFGvWgqg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Portal】穴に入れたり出したり…健全です！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=klORyVXK6F4
+DURATION:PT2H
+DTSTART:20220507T143000Z
+SUMMARY:沙花叉クロヱ: 【Portal】穴に入れたり出したり…健全です！【沙花叉クロヱ/ホロライブ】
+UID:klORyVXK6F4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【漫画】hololiveERROR 第12話「私じゃない」\nhttps://www.youtube.com/watch?v=VNX_EOB_tMY
 DURATION:PT2H
 DTSTART:20220506T150000Z
 SUMMARY:ホロライブ: 【漫画】hololiveERROR 第12話「私じゃない」
 UID:VNX_EOB_tMY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【＃ホロAmongUs】久しぶり！！あもあす！！ごーるでんうぃーく！！【風真いろは/ホロライブ6期生】\nhttps://www.youtube.com/watch?v=dhYXW5HBBOo
+DURATION:PT2H
+DTSTART:20220507T120000Z
+SUMMARY:風真いろは: 【＃ホロAmongUs】久しぶり！！あもあす！！ごーるでんうぃーく！！【風真いろは/ホロライブ6期生】
+UID:dhYXW5HBBOo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【＃ホロAmongUs】パンピー担当☆ミ【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=rHZ0hg5XdHs
@@ -564,11 +578,11 @@ SUMMARY:👾常闇トワ: 【太鼓の達人　#ホロGGW】ちょいとやっ�
 UID:hKpTj2t60gk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Splatoon2/サーモンラン】ホロスタ×アップロー!!でバイトバイトバイトバイトォ!!!【夜十神封魔/羽継鳥有/影山シエン/アルランディス】\nhttps://www.youtube.com/watch?v=h8LFbuyljjM
+DESCRIPTION:≪Vampire Survivors≫ can i successfully sing anything?\nhttps://www.youtube.com/watch?v=5U6uqEOPPhk
 DURATION:PT2H
-DTSTART:20220508T100000Z
-SUMMARY:🍕アルランディス: 【Splatoon2/サーモンラン】ホロスタ×アップロー!!でバイトバイトバイトバイトォ!!!【夜十神封魔/羽継鳥有/影山シエン/アルランディス】
-UID:h8LFbuyljjM
+DTSTART:20220508T000000Z
+SUMMARY:Baelz: ≪Vampire Survivors≫ can i successfully sing anything?
+UID:5U6uqEOPPhk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【unpacking】i need to chill\nhttps://www.youtube.com/watch?v=XtcwGVyxA14
@@ -576,6 +590,13 @@ DURATION:PT2H
 DTSTART:20220506T131718Z
 SUMMARY:Calli: 【unpacking】i need to chill
 UID:XtcwGVyxA14
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Splatoon2/サーモンラン】ホロスタ×アップロー!!でバイトバイトバイトバイトォ!!!【夜十神封魔/羽継鳥有/影山シエン/アルランディス】\nhttps://www.youtube.com/watch?v=h8LFbuyljjM
+DURATION:PT2H
+DTSTART:20220508T100000Z
+SUMMARY:🍕アルランディス: 【Splatoon2/サーモンラン】ホロスタ×アップロー!!でバイトバイトバイトバイトォ!!!【夜十神封魔/羽継鳥有/影山シエン/アルランディス】
+UID:h8LFbuyljjM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロGGW】朝練5日目🥁太鼓の達人 Nintendo Switch ば～じょん！【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=zmIsM9pAYdo
