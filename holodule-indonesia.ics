@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【PEJUANG SENIN】#5 holiday has ended. wake up!【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=F-uAe5oDpZo
+DESCRIPTION:【 Senin Produktif 】Tema Baru untuk Senin Baru【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=HA3IdSNwbuc
 DURATION:PT2H
-DTSTART:20220508T223008Z
-SUMMARY:Kaela: 【PEJUANG SENIN】#5 holiday has ended. wake up!【Kaela's Monday Warrior】
-UID:F-uAe5oDpZo
+DTSTART:20220509T130000Z
+SUMMARY:🎨Iofi: 【 Senin Produktif 】Tema Baru untuk Senin Baru【 iofi / ホロライブ 】
+UID:HA3IdSNwbuc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FREETALK】GUESS WHO'S HOME? HAVE YOU GUYS BEEN GOOD?【HoloID 2ndGen】\nhttps://www.youtube.com/watch?v=xOiW4dhmJkc
@@ -18,11 +18,11 @@ SUMMARY:Ollie: 【FREETALK】GUESS WHO'S HOME? HAVE YOU GUYS BEEN GOOD?【HoloID
 UID:xOiW4dhmJkc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Senin Produktif 】Tema Baru untuk Senin Baru【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=HA3IdSNwbuc
+DESCRIPTION:【GUERILLA NIGHT TALK】ehe~【Kobo Kanaeru / hololive ID】\nhttps://www.youtube.com/watch?v=6luQR2otJCI
 DURATION:PT2H
-DTSTART:20220509T130000Z
-SUMMARY:🎨Iofi: 【 Senin Produktif 】Tema Baru untuk Senin Baru【 iofi / ホロライブ 】
-UID:HA3IdSNwbuc
+DTSTART:20220509T150000Z
+SUMMARY:Kobo: 【GUERILLA NIGHT TALK】ehe~【Kobo Kanaeru / hololive ID】
+UID:6luQR2otJCI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Ghostwire: Tokyo】Saving Shibuya With My COOL HAT【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=aHgGkjQdpHk
@@ -30,5 +30,12 @@ DURATION:PT2H
 DTSTART:20220509T140000Z
 SUMMARY:Anya: 【Ghostwire: Tokyo】Saving Shibuya With My COOL HAT【hololive Indonesia 2nd Generation】
 UID:aHgGkjQdpHk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PEJUANG SENIN】#5 holiday has ended. wake up!【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=F-uAe5oDpZo
+DURATION:PT2H
+DTSTART:20220508T223008Z
+SUMMARY:Kaela: 【PEJUANG SENIN】#5 holiday has ended. wake up!【Kaela's Monday Warrior】
+UID:F-uAe5oDpZo
 END:VEVENT
 END:VCALENDAR
