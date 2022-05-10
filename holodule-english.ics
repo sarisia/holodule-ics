@@ -4,39 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【VAMPIRE SURVIVORS】WHAT IS A MAN. *throws wine glass*\nhttps://www.youtube.com/watch?v=7vwhKv9C3e0
-DURATION:PT2H
-DTSTART:20220510T015959Z
-SUMMARY:Calli: 【VAMPIRE SURVIVORS】WHAT IS A MAN. *throws wine glass*
-UID:7vwhKv9C3e0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Closing Shift】Sorry We're Closed\nhttps://www.youtube.com/watch?v=4D92FxKDcXM
-DURATION:PT2H
-DTSTART:20220510T030000Z
-SUMMARY:Kronii: 【The Closing Shift】Sorry We're Closed
-UID:4D92FxKDcXM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【WORLD SNACKS】ITALY Snackbox BELLISSIMOOOO #kfp #キアライブ\nhttps://www.youtube.com/watch?v=01PKrap9jr4
 DURATION:PT2H
 DTSTART:20220510T180000Z
 SUMMARY:Kiara: 【WORLD SNACKS】ITALY Snackbox BELLISSIMOOOO #kfp #キアライブ
 UID:01PKrap9jr4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:New PC\, Hoo's This?\nhttps://www.youtube.com/watch?v=tyEwRsf8FSo
-DURATION:PT2H
-DTSTART:20220510T010009Z
-SUMMARY:Mumei: New PC\, Hoo's This?
-UID:tyEwRsf8FSo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Mario Galaxy 2】NEW WIIMOTE\nhttps://www.youtube.com/watch?v=T1x1TFgzFao
-DURATION:PT2H
-DTSTART:20220509T023000Z
-SUMMARY:Amelia: 【Mario Galaxy 2】NEW WIIMOTE
-UID:T1x1TFgzFao
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Happy's Humble Burger Farm】BUTAAA\nhttps://www.youtube.com/watch?v=udCh1Bz966A
@@ -46,6 +18,13 @@ SUMMARY:Gura: 【Happy's Humble Burger Farm】BUTAAA
 UID:udCh1Bz966A
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【VAMPIRE SURVIVORS】WHAT IS A MAN. *throws wine glass*\nhttps://www.youtube.com/watch?v=7vwhKv9C3e0
+DURATION:PT2H
+DTSTART:20220510T015959Z
+SUMMARY:Calli: 【VAMPIRE SURVIVORS】WHAT IS A MAN. *throws wine glass*
+UID:7vwhKv9C3e0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Assassin's Creed IV: Black Flag】 WEIGH HAY AND UP SHE RISES\nhttps://www.youtube.com/watch?v=bN033vXoEpU
 DURATION:PT2H
 DTSTART:20220509T220000Z
@@ -53,11 +32,18 @@ SUMMARY:Fauna: 【Assassin's Creed IV: Black Flag】 WEIGH HAY AND UP SHE RISES
 UID:bN033vXoEpU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】 How Long Since Minecraft\nhttps://www.youtube.com/watch?v=aqIN-NItaHk
+DESCRIPTION:【The Closing Shift】Sorry We're Closed\nhttps://www.youtube.com/watch?v=4D92FxKDcXM
 DURATION:PT2H
-DTSTART:20220508T210000Z
-SUMMARY:Ina: 【Minecraft】 How Long Since Minecraft
-UID:aqIN-NItaHk
+DTSTART:20220510T030000Z
+SUMMARY:Kronii: 【The Closing Shift】Sorry We're Closed
+UID:4D92FxKDcXM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:New PC\, Hoo's This?\nhttps://www.youtube.com/watch?v=tyEwRsf8FSo
+DURATION:PT2H
+DTSTART:20220510T010009Z
+SUMMARY:Mumei: New PC\, Hoo's This?
+UID:tyEwRsf8FSo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪CHATTING≫ just apples\nhttps://www.youtube.com/watch?v=h_XLRPj47k8
