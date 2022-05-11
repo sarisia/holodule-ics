@@ -4,48 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【VAMPIRE SURVIVORS】WHAT IS A MAN. *throws wine glass*\nhttps://www.youtube.com/watch?v=7vwhKv9C3e0
-DURATION:PT2H
-DTSTART:20220510T015959Z
-SUMMARY:Calli: 【VAMPIRE SURVIVORS】WHAT IS A MAN. *throws wine glass*
-UID:7vwhKv9C3e0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Closing Shift】Sorry We're Closed\nhttps://www.youtube.com/watch?v=4D92FxKDcXM
-DURATION:PT2H
-DTSTART:20220510T030000Z
-SUMMARY:Kronii: 【The Closing Shift】Sorry We're Closed
-UID:4D92FxKDcXM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【WORLD SNACKS】ITALY Snackbox BELLISSIMOOOO #kfp #キアライブ\nhttps://www.youtube.com/watch?v=01PKrap9jr4
-DURATION:PT2H
-DTSTART:20220510T180000Z
-SUMMARY:Kiara: 【WORLD SNACKS】ITALY Snackbox BELLISSIMOOOO #kfp #キアライブ
-UID:01PKrap9jr4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:New PC\, Hoo's This?\nhttps://www.youtube.com/watch?v=tyEwRsf8FSo
-DURATION:PT2H
-DTSTART:20220510T010009Z
-SUMMARY:Mumei: New PC\, Hoo's This?
-UID:tyEwRsf8FSo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Mario Galaxy 2】Very Relaxing Game!\nhttps://www.youtube.com/watch?v=uYSwN57lSBM
-DURATION:PT2H
-DTSTART:20220511T021500Z
-SUMMARY:Amelia: 【Mario Galaxy 2】Very Relaxing Game!
-UID:uYSwN57lSBM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】wow! what this game?\nhttps://www.youtube.com/watch?v=RE3AU0oSEHc
-DURATION:PT2H
-DTSTART:20220511T000251Z
-SUMMARY:Gura: 【MINECRAFT】wow! what this game?
-UID:RE3AU0oSEHc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】BUILDING DANGO\nhttps://www.youtube.com/watch?v=trsa_NNnSSQ
 DURATION:PT2H
 DTSTART:20220510T230000Z
@@ -60,13 +18,6 @@ SUMMARY:Baelz: ≪JACKBOX 3≫ party time
 UID:YdDxgbKWeDk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Happy's Humble Burger Farm】BUTAAA\nhttps://www.youtube.com/watch?v=udCh1Bz966A
-DURATION:PT2H
-DTSTART:20220510T000426Z
-SUMMARY:Gura: 【Happy's Humble Burger Farm】BUTAAA
-UID:udCh1Bz966A
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【The Pathless】Pathfinder Finds Path (maybe) | #2\nhttps://www.youtube.com/watch?v=Rd1FKtKNL5U
 DURATION:PT2H
 DTSTART:20220511T030000Z
@@ -74,11 +25,11 @@ SUMMARY:Kronii: 【The Pathless】Pathfinder Finds Path (maybe) | #2
 UID:Rd1FKtKNL5U
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Assassin's Creed IV: Black Flag】 WEIGH HAY AND UP SHE RISES\nhttps://www.youtube.com/watch?v=bN033vXoEpU
+DESCRIPTION:【WORLD SNACKS】ITALY Snackbox BELLISSIMOOOO #kfp #キアライブ\nhttps://www.youtube.com/watch?v=01PKrap9jr4
 DURATION:PT2H
-DTSTART:20220509T220000Z
-SUMMARY:Fauna: 【Assassin's Creed IV: Black Flag】 WEIGH HAY AND UP SHE RISES
-UID:bN033vXoEpU
+DTSTART:20220510T180000Z
+SUMMARY:Kiara: 【WORLD SNACKS】ITALY Snackbox BELLISSIMOOOO #kfp #キアライブ
+UID:01PKrap9jr4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DRAWING】 Wait\, I'm Not Left-Handed......Who Is This On the Thumbnail?\nhttps://www.youtube.com/watch?v=tFslqsMiblc
@@ -88,10 +39,17 @@ SUMMARY:Ina: 【DRAWING】 Wait\, I'm Not Left-Handed......Who Is This On the Th
 UID:tFslqsMiblc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪CHATTING≫ just apples\nhttps://www.youtube.com/watch?v=h_XLRPj47k8
+DESCRIPTION:【Mario Galaxy 2】Very Relaxing Game!\nhttps://www.youtube.com/watch?v=uYSwN57lSBM
 DURATION:PT2H
-DTSTART:20220510T030000Z
-SUMMARY:Baelz: ≪CHATTING≫ just apples
-UID:h_XLRPj47k8
+DTSTART:20220511T021500Z
+SUMMARY:Amelia: 【Mario Galaxy 2】Very Relaxing Game!
+UID:uYSwN57lSBM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】wow! what this game?\nhttps://www.youtube.com/watch?v=RE3AU0oSEHc
+DURATION:PT2H
+DTSTART:20220511T000251Z
+SUMMARY:Gura: 【MINECRAFT】wow! what this game?
+UID:RE3AU0oSEHc
 END:VEVENT
 END:VCALENDAR
