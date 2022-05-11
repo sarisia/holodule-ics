@@ -256,18 +256,18 @@ SUMMARY:博衣こより: 【#朝こよ】#46 もろだし一本！火曜日の�
 UID:kOibKyajQ9s
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】雑談をする人【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=BDBOv7h_uUs
-DURATION:PT2H
-DTSTART:20220511T062500Z
-SUMMARY:🍷夕刻ロベル: 【雑談】雑談をする人【夕刻ロベル/ホロスターズ】
-UID:BDBOv7h_uUs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【公認ミラー配信 】モンスターハンターライズ：サンブレイクの新情報をまたみんなでみるぞ！【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=kq39lskHv6w
 DURATION:PT2H
 DTSTART:20220510T134500Z
 SUMMARY:🔥不知火フレア: 【公認ミラー配信 】モンスターハンターライズ：サンブレイクの新情報をまたみんなでみるぞ！【ホロライブ/不知火フレア】
 UID:kq39lskHv6w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】雑談をする人【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=BDBOv7h_uUs
+DURATION:PT2H
+DTSTART:20220511T062500Z
+SUMMARY:🍷夕刻ロベル: 【雑談】雑談をする人【夕刻ロベル/ホロスターズ】
+UID:BDBOv7h_uUs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活/イラストメイキング】誕生日だった同期にイラストを描く【羽継烏有/緋崎ガンマ/アップロー /ホロスターズ- Illustration Making】\nhttps://www.youtube.com/watch?v=0yWrpW17_Yo
@@ -452,13 +452,6 @@ SUMMARY:🌺花咲みやび: 【5月10日】第6回 #花岸れいでぃお【花
 UID:Dg4WmAv5tmc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】建築に手を出してみたい/水無世燐央【アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=dRD4ZAdSLx4
-DURATION:PT2H
-DTSTART:20220510T133000Z
-SUMMARY:水無世燐央: 【Minecraft】建築に手を出してみたい/水無世燐央【アップロー/ホロスターズ】
-UID:dRD4ZAdSLx4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【PagiMoona!】Sudden Pagimoona!【Freetalk】\nhttps://www.youtube.com/watch?v=3w2XyvvAsaE
 DURATION:PT2H
 DTSTART:20220510T020000Z
@@ -473,6 +466,13 @@ SUMMARY:羽継烏有: 【雑談】誕生日配信振り返り #羽継烏有誕�
 UID:8sz_Lc6Lu8o
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】建築に手を出してみたい/水無世燐央【アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=dRD4ZAdSLx4
+DURATION:PT2H
+DTSTART:20220510T133000Z
+SUMMARY:水無世燐央: 【Minecraft】建築に手を出してみたい/水無世燐央【アップロー/ホロスターズ】
+UID:dRD4ZAdSLx4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】劇場版APEX最終回 ゆるスタ全員でダイヤへ！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=aT-hJEkoqn8
 DURATION:PT2H
 DTSTART:20220510T050000Z
@@ -480,18 +480,18 @@ SUMMARY:🦔💨岸堂天真: 【APEX】劇場版APEX最終回 ゆるスタ全�
 UID:aT-hJEkoqn8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【未公開音声】あと10分で初配信！デビュー直前の会話を収録！【夜十神封魔/羽継烏有/アップロー】\nhttps://www.youtube.com/watch?v=PPdexJ2lcB4
-DURATION:PT2H
-DTSTART:20220510T100020Z
-SUMMARY:夜十神封魔: 【未公開音声】あと10分で初配信！デビュー直前の会話を収録！【夜十神封魔/羽継烏有/アップロー】
-UID:PPdexJ2lcB4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【HoloID】HOT - PANAS - あつい【Ayunda Risu】\nhttps://www.youtube.com/watch?v=pfE8fVhibrM
 DURATION:PT2H
 DTSTART:20220510T093000Z
 SUMMARY:🐿Risu: 【HoloID】HOT - PANAS - あつい【Ayunda Risu】
 UID:pfE8fVhibrM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【未公開音声】あと10分で初配信！デビュー直前の会話を収録！【夜十神封魔/羽継烏有/アップロー】\nhttps://www.youtube.com/watch?v=PPdexJ2lcB4
+DURATION:PT2H
+DTSTART:20220510T100020Z
+SUMMARY:夜十神封魔: 【未公開音声】あと10分で初配信！デビュー直前の会話を収録！【夜十神封魔/羽継烏有/アップロー】
+UID:PPdexJ2lcB4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【誕生日配信振り返り】スパチャ読み＆誕生日タグ巡回する【羽継烏有/アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=Knt1aMDaJ78
@@ -520,13 +520,6 @@ DURATION:PT2H
 DTSTART:20220510T130000Z
 SUMMARY:🚑大空スバル: 【#生スバル】ファン対抗！？視聴者参加お絵描きの森するしゅばあああああああああああああああああ！！！！！【ホロライブ/大空スバル】
 UID:C1gBBrwUu-M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪JACKBOX 3≫ party time\nhttps://www.youtube.com/watch?v=YdDxgbKWeDk
-DURATION:PT2H
-DTSTART:20220511T050000Z
-SUMMARY:Baelz: ≪JACKBOX 3≫ party time
-UID:YdDxgbKWeDk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX Legends】ダイヤ行くまで終われねぇ！ついに始まる耐久ゆるスタペクス【花咲みやび/岸堂天真/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Rq7xp_AsHyo
