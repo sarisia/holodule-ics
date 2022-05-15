@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【AME】GAMIN\nhttps://www.youtube.com/watch?v=ZV7jJdI9VEo
-DURATION:PT2H
-DTSTART:20220515T040000Z
-SUMMARY:Amelia: 【AME】GAMIN
-UID:ZV7jJdI9VEo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪VA-11 Hall-A≫  karmotrine\nhttps://www.youtube.com/watch?v=Nd0ve-FK5ms
-DURATION:PT2H
-DTSTART:20220515T053000Z
-SUMMARY:Baelz: ≪VA-11 Hall-A≫  karmotrine
-UID:Nd0ve-FK5ms
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Original Song MV】 Let Me Stay Here - Ceres Fauna\nhttps://www.youtube.com/watch?v=0RMVJTLZOzQ
 DURATION:PT2H
 DTSTART:20220514T220000Z
@@ -32,13 +18,6 @@ SUMMARY:Baelz: ≪APEX≫  please carry ft. Towa-sama and Mumei-shi
 UID:h8GrEGsrSKI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Song Release After Party】 AHHHHHHH\nhttps://www.youtube.com/watch?v=QAMuo4cqXAc
-DURATION:PT2H
-DTSTART:20220514T221500Z
-SUMMARY:Fauna: 【Song Release After Party】 AHHHHHHH
-UID:QAMuo4cqXAc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪APEX≫  baeby rat playing baeby apex in baeby lobbies cuz im a baeby\nhttps://www.youtube.com/watch?v=w0qovCYxwTg
 DURATION:PT2H
 DTSTART:20220515T005521Z
@@ -51,5 +30,33 @@ DURATION:PT2H
 DTSTART:20220514T234500Z
 SUMMARY:Amelia: 【RATE THE AME】Smol Ame is HERE(again)
 UID:RsSLMDxBpdA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PRETRAVEL】Short Chitchat\, Hangout and some superchattos! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=YbyeXMTmcNw
+DURATION:PT2H
+DTSTART:20220515T140000Z
+SUMMARY:Kiara: 【PRETRAVEL】Short Chitchat\, Hangout and some superchattos! #kfp #キアライブ
+UID:YbyeXMTmcNw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪VA-11 Hall-A≫  karmotrine\nhttps://www.youtube.com/watch?v=Nd0ve-FK5ms
+DURATION:PT2H
+DTSTART:20220515T053000Z
+SUMMARY:Baelz: ≪VA-11 Hall-A≫  karmotrine
+UID:Nd0ve-FK5ms
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Song Release After Party】 AHHHHHHH\nhttps://www.youtube.com/watch?v=QAMuo4cqXAc
+DURATION:PT2H
+DTSTART:20220514T221500Z
+SUMMARY:Fauna: 【Song Release After Party】 AHHHHHHH
+UID:QAMuo4cqXAc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【AME】GAMIN\nhttps://www.youtube.com/watch?v=ZV7jJdI9VEo
+DURATION:PT2H
+DTSTART:20220515T040000Z
+SUMMARY:Amelia: 【AME】GAMIN
+UID:ZV7jJdI9VEo
 END:VEVENT
 END:VCALENDAR
