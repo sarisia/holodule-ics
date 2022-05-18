@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【弾き語りASMR】究極の癒し枠【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=YwVf_VMcL7c
-DURATION:PT2H
-DTSTART:20220519T140000Z
-SUMMARY:⚙律可: 【弾き語りASMR】究極の癒し枠【律可/ホロスターズ】#りつすた
-UID:YwVf_VMcL7c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】UPROAR!!オフコラボ、振り返り雑談【夜十神封魔/アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=NjtGluXmh5c
 DURATION:PT2H
 DTSTART:20220519T090000Z
 SUMMARY:夜十神封魔: 【Minecraft】UPROAR!!オフコラボ、振り返り雑談【夜十神封魔/アップロー/ホロスターズ】
 UID:NjtGluXmh5c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】深夜TALK【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=CpP1sH8QlTI
+DURATION:PT2H
+DTSTART:20220518T160000Z
+SUMMARY:荒咬オウガ: 【雑談】深夜TALK【荒咬オウガ/ホロスターズ】
+UID:CpP1sH8QlTI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:特に何も聞かされずスタジオに呼ばれた、無邪気な「UPROAR!!」【＃放課後アップロー】\nhttps://www.youtube.com/watch?v=-BO_HlkRldU
@@ -32,13 +32,6 @@ SUMMARY:ホロスターズ: 【整いました！】 学ぼう！日本の伝統
 UID:ziSdnQWY21w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【桃太郎電鉄】ホロスターズ×アルゴナビス　桃鉄大決戦編！！！【#スタゴナビス桃鉄】\nhttps://www.youtube.com/watch?v=km5DIr7qHE8
-DURATION:PT2H
-DTSTART:20220519T110000Z
-SUMMARY:影山シエン: 【桃太郎電鉄】ホロスターズ×アルゴナビス　桃鉄大決戦編！！！【#スタゴナビス桃鉄】
-UID:km5DIr7qHE8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DBD】ゲリラ！PTB 新キラーに会いに行く 2試合だけ！ 【羽継烏有/アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=4quiAAV90nA
 DURATION:PT2H
 DTSTART:20220517T224500Z
@@ -51,5 +44,26 @@ DURATION:PT2H
 DTSTART:20220518T230000Z
 SUMMARY:緋崎ガンマ: 【朝活】憂鬱な平日の朝の空気を吹き飛ばす！！最高負荷30でリングフィットアドベンチャー【緋崎ガンマ/アップロー /ホロスターズ】
 UID:QaMQwwFu9Ng
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【弾き語りASMR】究極の癒し枠【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=YwVf_VMcL7c
+DURATION:PT2H
+DTSTART:20220519T140000Z
+SUMMARY:⚙律可: 【弾き語りASMR】究極の癒し枠【律可/ホロスターズ】#りつすた
+UID:YwVf_VMcL7c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【桃太郎電鉄】ホロスターズ×アルゴナビス　桃鉄大決戦編！！！【#スタゴナビス桃鉄】\nhttps://www.youtube.com/watch?v=km5DIr7qHE8
+DURATION:PT2H
+DTSTART:20220519T110000Z
+SUMMARY:影山シエン: 【桃太郎電鉄】ホロスターズ×アルゴナビス　桃鉄大決戦編！！！【#スタゴナビス桃鉄】
+UID:km5DIr7qHE8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】旅から帰ってきた男は普段通りの生活を取り戻すべく雑談マイクラを始める【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=j9VOGBr6Rm0
+DURATION:PT2H
+DTSTART:20220518T140000Z
+SUMMARY:🍕アルランディス: 【Minecraft】旅から帰ってきた男は普段通りの生活を取り戻すべく雑談マイクラを始める【アルランディス/ホロスターズ】
+UID:j9VOGBr6Rm0
 END:VEVENT
 END:VCALENDAR
