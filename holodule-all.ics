@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:今日のポルカの伝説！ マネージャーカードバトル！！！#Shorts\nhttps://www.youtube.com/watch?v=M6nhhijkCxo
-DURATION:PT2H
-DTSTART:20220518T165404Z
-SUMMARY:尾丸ポルカ: 今日のポルカの伝説！ マネージャーカードバトル！！！#Shorts
-UID:M6nhhijkCxo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】CRカップカスタム3日目 / #しらすフェス【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=A2ZW5LlCNJA
 DURATION:PT2H
 DTSTART:20220520T110000Z
 SUMMARY:🏮夏色まつり: 【APEX】CRカップカスタム3日目 / #しらすフェス【ホロライブ/夏色まつり】
 UID:A2ZW5LlCNJA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:今日のポルカの伝説！ マネージャーカードバトル！！！#Shorts\nhttps://www.youtube.com/watch?v=M6nhhijkCxo
+DURATION:PT2H
+DTSTART:20220518T165404Z
+SUMMARY:尾丸ポルカ: 今日のポルカの伝説！ マネージャーカードバトル！！！#Shorts
+UID:M6nhhijkCxo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】UPROAR!!オフコラボ、振り返り雑談【夜十神封魔/アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=NjtGluXmh5c
@@ -100,6 +100,13 @@ DURATION:PT2H
 DTSTART:20220519T204500Z
 SUMMARY:Ina: 『ないない』  Ninomae Ina'nis (Cover)
 UID:injd7gHrIGU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【The Closing Shift】Coffee or Green Tea?\nhttps://www.youtube.com/watch?v=qKjKUSZHrcA
+DURATION:PT2H
+DTSTART:20220520T000000Z
+SUMMARY:Gura: 【The Closing Shift】Coffee or Green Tea?
+UID:qKjKUSZHrcA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン2】目指せ！4時間以内にYAGOO（850）キル！【夜十神封魔/アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=N-vn4MpZ1Qs
@@ -200,18 +207,18 @@ SUMMARY:🔮Moona: 【ELDEN RING】First time play! is this fun? SPOILER ALERT�
 UID:_Ht_ZUj2i00
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ローラー】スプラ３発売までにウデマエＸを目指すスプラテゥン【６日目】\nhttps://www.youtube.com/watch?v=oqRE0fiHqAU
-DURATION:PT2H
-DTSTART:20220519T140000Z
-SUMMARY:🥐戌神ころね: 【ローラー】スプラ３発売までにウデマエＸを目指すスプラテゥン【６日目】
-UID:oqRE0fiHqAU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【写るんです】あの「恐怖の森」の作者さんによる新作ホラゲーをやります👻【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=vbMsofHlKn4
 DURATION:PT2H
 DTSTART:20220519T140000Z
 SUMMARY:Anya: 【写るんです】あの「恐怖の森」の作者さんによる新作ホラゲーをやります👻【hololive Indonesia 2nd Generation】
 UID:vbMsofHlKn4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ローラー】スプラ３発売までにウデマエＸを目指すスプラテゥン【６日目】\nhttps://www.youtube.com/watch?v=oqRE0fiHqAU
+DURATION:PT2H
+DTSTART:20220519T140000Z
+SUMMARY:🥐戌神ころね: 【ローラー】スプラ３発売までにウデマエＸを目指すスプラテゥン【６日目】
+UID:oqRE0fiHqAU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【NEEDY GIRL OVERDOSE】メンヘラに騎士道を叩き込む【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=oehppIBry4s
@@ -277,18 +284,18 @@ SUMMARY:影山シエン: 【桃太郎電鉄】ホロスターズ×アルゴナ�
 UID:km5DIr7qHE8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】Vestia Zeta's Dungeon\nhttps://www.youtube.com/watch?v=hYsG6E6wbHM
-DURATION:PT2H
-DTSTART:20220519T040056Z
-SUMMARY:Zeta: 【MINECRAFT】Vestia Zeta's Dungeon
-UID:hYsG6E6wbHM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】CRカップカスタム2日目 / #しらすフェス【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=BtzS61Z7oP0
 DURATION:PT2H
 DTSTART:20220519T110000Z
 SUMMARY:🏮夏色まつり: 【APEX】CRカップカスタム2日目 / #しらすフェス【ホロライブ/夏色まつり】
 UID:BtzS61Z7oP0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】Vestia Zeta's Dungeon\nhttps://www.youtube.com/watch?v=hYsG6E6wbHM
+DURATION:PT2H
+DTSTART:20220519T040056Z
+SUMMARY:Zeta: 【MINECRAFT】Vestia Zeta's Dungeon
+UID:hYsG6E6wbHM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【弾き語りASMR】究極の癒し枠【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=YwVf_VMcL7c
@@ -312,20 +319,6 @@ SUMMARY:👾常闇トワ: 【APEX】CRカップDAY2【常闇トワ/ホロライ�
 UID:K0oJdGpbVLI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Knightfall】Hoo Is The Trusty Steed ft. FAUNA\nhttps://www.youtube.com/watch?v=ew_AAfIKHkQ
-DURATION:PT2H
-DTSTART:20220519T220000Z
-SUMMARY:Mumei: 【Knightfall】Hoo Is The Trusty Steed ft. FAUNA
-UID:ew_AAfIKHkQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Nintendo Switch Sports】 playing sports to fuel my virtual clothing gacha addiction\nhttps://www.youtube.com/watch?v=SijP1rcoI2M
-DURATION:PT2H
-DTSTART:20220518T223000Z
-SUMMARY:Fauna: 【Nintendo Switch Sports】 playing sports to fuel my virtual clothing gacha addiction
-UID:SijP1rcoI2M
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Operation Tango】Become a partner with Bae? PART 3!【GeeMoon】\nhttps://www.youtube.com/watch?v=pemBA8aUfsw
 DURATION:PT2H
 DTSTART:20220520T030058Z
@@ -333,11 +326,25 @@ SUMMARY:🔮Moona: 【Operation Tango】Become a partner with Bae? PART 3!【Gee
 UID:pemBA8aUfsw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Knightfall】Hoo Is The Trusty Steed ft. FAUNA\nhttps://www.youtube.com/watch?v=ew_AAfIKHkQ
+DURATION:PT2H
+DTSTART:20220519T220000Z
+SUMMARY:Mumei: 【Knightfall】Hoo Is The Trusty Steed ft. FAUNA
+UID:ew_AAfIKHkQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【パワプロ2022】おい頼むパワフェス達人をクリアさせて下さい本当にお願いします【夕刻ロベル/ホロスターズ】※ネタバレあり\nhttps://www.youtube.com/watch?v=mk0rSnxTYgk
 DURATION:PT2H
 DTSTART:20220521T040000Z
 SUMMARY:🍷夕刻ロベル: 【パワプロ2022】おい頼むパワフェス達人をクリアさせて下さい本当にお願いします【夕刻ロベル/ホロスターズ】※ネタバレあり
 UID:mk0rSnxTYgk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Nintendo Switch Sports】 playing sports to fuel my virtual clothing gacha addiction\nhttps://www.youtube.com/watch?v=SijP1rcoI2M
+DURATION:PT2H
+DTSTART:20220518T223000Z
+SUMMARY:Fauna: 【Nintendo Switch Sports】 playing sports to fuel my virtual clothing gacha addiction
+UID:SijP1rcoI2M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DBD】新キラーがきたらしい🚪【ホロライブ/ #ロボ子生放送】\nhttps://www.youtube.com/watch?v=INHGQelxhg4
@@ -452,13 +459,6 @@ SUMMARY:緋崎ガンマ: 【朝活】憂鬱な平日の朝の空気を吹き飛�
 UID:QaMQwwFu9Ng
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ネタバレあり】テイルズ最新作「Tales of ARISE」を初見プレイ！#ダイジェスト【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=7dykPxWfH8A
-DURATION:PT2H
-DTSTART:20220519T110000Z
-SUMMARY:☄星街すいせい: 【ネタバレあり】テイルズ最新作「Tales of ARISE」を初見プレイ！#ダイジェスト【ホロライブ / 星街すいせい】
-UID:7dykPxWfH8A
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【朝こよ#49 アフタートーク】雑談＆SuperChat御礼！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=TD8jPxQtrJI
 DURATION:PT2H
 DTSTART:20220519T230000Z
@@ -466,11 +466,11 @@ SUMMARY:博衣こより: 【朝こよ#49 アフタートーク】雑談＆SuperC
 UID:TD8jPxQtrJI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Fall Guys】Wみなせセカンド　w/水無瀬くん（ネオポルテ）/水無世燐央【アップロー /ホロスターズ/#燐央顕現中】\nhttps://www.youtube.com/watch?v=8sDJIG_Szzo
+DESCRIPTION:【ネタバレあり】テイルズ最新作「Tales of ARISE」を初見プレイ！#ダイジェスト【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=7dykPxWfH8A
 DURATION:PT2H
 DTSTART:20220519T110000Z
-SUMMARY:水無世燐央: 【Fall Guys】Wみなせセカンド　w/水無瀬くん（ネオポルテ）/水無世燐央【アップロー /ホロスターズ/#燐央顕現中】
-UID:8sDJIG_Szzo
+SUMMARY:☄星街すいせい: 【ネタバレあり】テイルズ最新作「Tales of ARISE」を初見プレイ！#ダイジェスト【ホロライブ / 星街すいせい】
+UID:7dykPxWfH8A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kyak ! #PavoliaReine #Shorts\nhttps://www.youtube.com/watch?v=cCKL9P9dKNM
@@ -478,6 +478,13 @@ DURATION:PT2H
 DTSTART:20220519T151514Z
 SUMMARY:Reine: Kyak ! #PavoliaReine #Shorts
 UID:cCKL9P9dKNM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Fall Guys】Wみなせセカンド　w/水無瀬くん（ネオポルテ）/水無世燐央【アップロー /ホロスターズ/#燐央顕現中】\nhttps://www.youtube.com/watch?v=8sDJIG_Szzo
+DURATION:PT2H
+DTSTART:20220519T110000Z
+SUMMARY:水無世燐央: 【Fall Guys】Wみなせセカンド　w/水無瀬くん（ネオポルテ）/水無世燐央【アップロー /ホロスターズ/#燐央顕現中】
+UID:8sDJIG_Szzo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Nintendo Switch Sports】運動するぞ！体力だけには自信があります🔥【風真いろは/ホロライブ6期生】\nhttps://www.youtube.com/watch?v=8bnBnVNFOPI
@@ -492,6 +499,13 @@ DURATION:PT2H
 DTSTART:20220519T110000Z
 SUMMARY:雪花ラミィ: 【 #おかラ 】質問に答えながら親睦を深める会【猫又おかゆ・雪花ラミィ/ホロライブ】
 UID:e45oxyTipAg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MemberOnly/同時視聴】ガチ初見「ファンタスティック・ビーストと魔法使いの旅」【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=mtThr8AOPzA
+DURATION:PT2H
+DTSTART:20220520T150000Z
+SUMMARY:🔥不知火フレア: 【MemberOnly/同時視聴】ガチ初見「ファンタスティック・ビーストと魔法使いの旅」【不知火フレア/ホロライブ】
+UID:mtThr8AOPzA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】初オフコラボが終わったことを受け入れられない/水無世燐央【アップロー/ホロスターズ/#燐央顕現中】\nhttps://www.youtube.com/watch?v=O4-gUER4opk
