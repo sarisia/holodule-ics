@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Nintendo Switch Sports】SWING THOSE ARMS\nhttps://www.youtube.com/watch?v=HTPLo6F-M3Q
-DURATION:PT2H
-DTSTART:20220520T030000Z
-SUMMARY:IRyS: 【Nintendo Switch Sports】SWING THOSE ARMS
-UID:HTPLo6F-M3Q
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪Operation: Tango≫ yes i know what an IP address is now.\nhttps://www.youtube.com/watch?v=G3RLwaVHEks
 DURATION:PT2H
 DTSTART:20220520T030000Z
 SUMMARY:Baelz: ≪Operation: Tango≫ yes i know what an IP address is now.
 UID:G3RLwaVHEks
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Nintendo Switch Sports】SWING THOSE ARMS\nhttps://www.youtube.com/watch?v=HTPLo6F-M3Q
+DURATION:PT2H
+DTSTART:20220520T030000Z
+SUMMARY:IRyS: 【Nintendo Switch Sports】SWING THOSE ARMS
+UID:HTPLo6F-M3Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Knightfall】 The Only Battle Royale with Horse Drifting (ft MUMEI)\nhttps://www.youtube.com/watch?v=TXFR_Mrby7k
@@ -32,18 +32,11 @@ SUMMARY:IRyS: 【RESIDENT EVIL: 2】Zombies go boom
 UID:vYbHIQTX9Fk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Superchat Catchup】Super Time\nhttps://www.youtube.com/watch?v=pSrLzYC3xQI
+DESCRIPTION:【Superchat Catchup】Soooup\nhttps://www.youtube.com/watch?v=pSrLzYC3xQI
 DURATION:PT2H
 DTSTART:20220520T030000Z
-SUMMARY:Kronii: 【Superchat Catchup】Super Time
+SUMMARY:Kronii: 【Superchat Catchup】Soooup
 UID:pSrLzYC3xQI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Closing Shift】Coffee or Green Tea?\nhttps://www.youtube.com/watch?v=qKjKUSZHrcA
-DURATION:PT2H
-DTSTART:20220520T000112Z
-SUMMARY:Gura: 【The Closing Shift】Coffee or Green Tea?
-UID:qKjKUSZHrcA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Kirby 64】RETRO POYO\nhttps://www.youtube.com/watch?v=dmHmjrVAyAE
