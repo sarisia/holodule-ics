@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【APEX】CRカップカスタム3日目 / #しらすフェス【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=A2ZW5LlCNJA
+DURATION:PT2H
+DTSTART:20220520T110000Z
+SUMMARY:🏮夏色まつり: 【APEX】CRカップカスタム3日目 / #しらすフェス【ホロライブ/夏色まつり】
+UID:A2ZW5LlCNJA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:丸ノ内サディスティック/Cover by 水無世燐央 #Shorts\nhttps://www.youtube.com/watch?v=2rJrLzhsEMs
 DURATION:PT2H
 DTSTART:20220520T100001Z
@@ -20,7 +27,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Q&A and KARAOKE】Pavonashi TeeTee #kfp #pavolive\nhttps://www.youtube.com/watch?v=25SFDT87SeA
 DURATION:PT2H
-DTSTART:20220520T163041Z
+DTSTART:20220520T170000Z
 SUMMARY:Kiara: 【Q&A and KARAOKE】Pavonashi TeeTee #kfp #pavolive
 UID:25SFDT87SeA
 END:VEVENT
@@ -235,13 +242,6 @@ SUMMARY:🍕アルランディス: 【APEX Legends】パソコンを新調した
 UID:ZToQh-HDGc8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】池を大地にしてしまおう！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=rdVPHfuk8rE
-DURATION:PT2H
-DTSTART:20220520T123000Z
-SUMMARY:🐻ときのそら: 【Minecraft】池を大地にしてしまおう！！【#ときのそら生放送】
-UID:rdVPHfuk8rE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Yomawari: Night Alone - 夜廻】Let's Go Home...?【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=NSqbDl0ptvg
 DURATION:PT2H
 DTSTART:20220520T140000Z
@@ -303,13 +303,6 @@ DURATION:PT2H
 DTSTART:20220520T000933Z
 SUMMARY:👯兎田ぺこら: 今日の天気は～？/Weather girl pekora #shorts
 UID:TJdRLqv27Sg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#MoonUtau】Heal myself with a Sing!【Unarchive】\nhttps://www.youtube.com/watch?v=OSgf7FGbrls
-DURATION:PT2H
-DTSTART:20220520T133000Z
-SUMMARY:🔮Moona: 【#MoonUtau】Heal myself with a Sing!【Unarchive】
-UID:OSgf7FGbrls
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【LEGO Star Wars】レゴ スターウォーズ：エピソード6 ジェダイの帰還【Episode 6.Return of the Jedi】\nhttps://www.youtube.com/watch?v=7g31aDZJVPM
