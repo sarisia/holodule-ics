@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【VALORANT】I wanna open my rank【Kobo Kanaeru / Hololive Indonesia 3rd Gen】\nhttps://www.youtube.com/watch?v=G9pwxePu7Hs
-DURATION:PT2H
-DTSTART:20220521T100000Z
-SUMMARY:Kobo: 【VALORANT】I wanna open my rank【Kobo Kanaeru / Hololive Indonesia 3rd Gen】
-UID:G9pwxePu7Hs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Donation Reading & Free Talk】how r u doin?【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=aDs1VAnlwrs
-DURATION:PT2H
-DTSTART:20220521T133112Z
-SUMMARY:Kaela: 【Donation Reading & Free Talk】how r u doin?【Kaela Kovalskia / hololive ID】
-UID:aDs1VAnlwrs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:this is a random video\, thank you【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=b44QCZ16vSc
 DURATION:PT2H
 DTSTART:20220520T151755Z
@@ -30,6 +16,13 @@ DURATION:PT2H
 DTSTART:20220521T150000Z
 SUMMARY:Zeta: 【ZecretDialog】#4 where are we going today?
 UID:uy_DdETiHoc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Donation Reading & Free Talk】how r u doin?【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=aDs1VAnlwrs
+DURATION:PT2H
+DTSTART:20220521T133112Z
+SUMMARY:Kaela: 【Donation Reading & Free Talk】how r u doin?【Kaela Kovalskia / hololive ID】
+UID:aDs1VAnlwrs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MEMBERSHIP】A Very Motivational Video 【Kobo Kanaeru / hololive ID】\nhttps://www.youtube.com/watch?v=ugT2VCTPGSI
