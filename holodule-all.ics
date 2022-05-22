@@ -46,18 +46,18 @@ SUMMARY:🍕アルランディス: 【Minecraft】トライデントはかっこ
 UID:--otiq_TWaI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ユフィ編】FF7リメイク ユフィ編するしゅばあああああああああああああ！！！：FINAL FANTASY VII REMAKE YUFFIE DLC【※ネタバレあり】\nhttps://www.youtube.com/watch?v=pzc8Fg4Viwk
-DURATION:PT2H
-DTSTART:20220521T040000Z
-SUMMARY:🚑大空スバル: 【#ユフィ編】FF7リメイク ユフィ編するしゅばあああああああああああああ！！！：FINAL FANTASY VII REMAKE YUFFIE DLC【※ネタバレあり】
-UID:pzc8Fg4Viwk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【おはコンFOX】みんなの子供の頃やったことあるある【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=2BkzOlZdR6Y
 DURATION:PT2H
 DTSTART:20220521T223000Z
 SUMMARY:🌽白上フブキ: 【おはコンFOX】みんなの子供の頃やったことあるある【ホロライブ/白上フブキ】
 UID:2BkzOlZdR6Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ユフィ編】FF7リメイク ユフィ編するしゅばあああああああああああああ！！！：FINAL FANTASY VII REMAKE YUFFIE DLC【※ネタバレあり】\nhttps://www.youtube.com/watch?v=pzc8Fg4Viwk
+DURATION:PT2H
+DTSTART:20220521T040000Z
+SUMMARY:🚑大空スバル: 【#ユフィ編】FF7リメイク ユフィ編するしゅばあああああああああああああ！！！：FINAL FANTASY VII REMAKE YUFFIE DLC【※ネタバレあり】
+UID:pzc8Fg4Viwk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【  重大告知 】休暇頂いておりました！重大告知あるにぇ！/ GOOD major announcement【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=yFVoIhcVI98
@@ -207,13 +207,6 @@ SUMMARY:🌽白上フブキ: 【ネタバレあり】 ララ狐は竜騎士と�
 UID:Re-nP6x-3nk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Kirby 64】RETRO POYO\nhttps://www.youtube.com/watch?v=dmHmjrVAyAE
-DURATION:PT2H
-DTSTART:20220520T170000Z
-SUMMARY:Sana: 【Kirby 64】RETRO POYO
-UID:dmHmjrVAyAE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ホロ腹筋マリカ】本気勝負VS腹筋マリカ！！！人増えました。【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=uVhak_M3jYk
 DURATION:PT2H
 DTSTART:20220521T100000Z
@@ -228,6 +221,13 @@ SUMMARY:博衣こより: 【パワプロ2022】ホロメンONLY栄冠ナイン�
 UID:8Cagup2qBI8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Kirby 64】RETRO POYO\nhttps://www.youtube.com/watch?v=dmHmjrVAyAE
+DURATION:PT2H
+DTSTART:20220520T170000Z
+SUMMARY:Sana: 【Kirby 64】RETRO POYO
+UID:dmHmjrVAyAE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】CRカップDAY4×スパイス一家！【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=HCAD3ow_E8E
 DURATION:PT2H
 DTSTART:20220521T120000Z
@@ -235,18 +235,18 @@ SUMMARY:👾常闇トワ: 【APEX】CRカップDAY4×スパイス一家！【常
 UID:HCAD3ow_E8E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Apex】ハイテンション悪魔のAPEX⚡【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=3oc-fcbyyog
-DURATION:PT2H
-DTSTART:20220521T070000Z
-SUMMARY:💋癒月ちょこ: 【Apex】ハイテンション悪魔のAPEX⚡【ホロライブ/癒月ちょこ】
-UID:3oc-fcbyyog
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Donation Reading & Free Talk】how r u doin?【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=aDs1VAnlwrs
 DURATION:PT2H
 DTSTART:20220521T133112Z
 SUMMARY:Kaela: 【Donation Reading & Free Talk】how r u doin?【Kaela Kovalskia / hololive ID】
 UID:aDs1VAnlwrs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Apex】ハイテンション悪魔のAPEX⚡【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=3oc-fcbyyog
+DURATION:PT2H
+DTSTART:20220521T070000Z
+SUMMARY:💋癒月ちょこ: 【Apex】ハイテンション悪魔のAPEX⚡【ホロライブ/癒月ちょこ】
+UID:3oc-fcbyyog
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DIY選手権】あらゆるプロがやってきた・・・！？ #HAACHAMASUNDAY\nhttps://www.youtube.com/watch?v=79Qw7Kgn7gU
@@ -340,13 +340,6 @@ SUMMARY:鷹嶺ルイ: 【メン限】歌うぞおおおおおおおおおおお�
 UID:uUBOSrO2KEg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【パワプロ2022】おい頼むパワフェス達人をクリアさせて下さい本当にお願いします【夕刻ロベル/ホロスターズ】※ネタバレあり\nhttps://www.youtube.com/watch?v=mk0rSnxTYgk
-DURATION:PT2H
-DTSTART:20220521T040000Z
-SUMMARY:🍷夕刻ロベル: 【パワプロ2022】おい頼むパワフェス達人をクリアさせて下さい本当にお願いします【夕刻ロベル/ホロスターズ】※ネタバレあり
-UID:mk0rSnxTYgk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Ib/リメイク】美術館にやってきたけどなにかおかしい？完全初見＃2【ホロライブ/ #ロボ子生放送】\nhttps://www.youtube.com/watch?v=NvbaaGRG8Uc
 DURATION:PT2H
 DTSTART:20220521T120000Z
@@ -359,6 +352,20 @@ DURATION:PT2H
 DTSTART:20220522T140000Z
 SUMMARY:鷹嶺ルイ: 【ELDEN RING】山嶺を攻略したい鷹嶺。【鷹嶺ルイ/ホロライブ】※ネタバレあり
 UID:7SC1woxqQJo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【パワプロ2022】おい頼むパワフェス達人をクリアさせて下さい本当にお願いします【夕刻ロベル/ホロスターズ】※ネタバレあり\nhttps://www.youtube.com/watch?v=mk0rSnxTYgk
+DURATION:PT2H
+DTSTART:20220521T040000Z
+SUMMARY:🍷夕刻ロベル: 【パワプロ2022】おい頼むパワフェス達人をクリアさせて下さい本当にお願いします【夕刻ロベル/ホロスターズ】※ネタバレあり
+UID:mk0rSnxTYgk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【星のカービィ ディスカバリー】カービィ初実況ぽよ！！！#０１【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=3RfeV868QDw
+DURATION:PT2H
+DTSTART:20220522T010000Z
+SUMMARY:🌟夜空メル: 【星のカービィ ディスカバリー】カービィ初実況ぽよ！！！#０１【ホロライブ/夜空メル】
+UID:3RfeV868QDw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【パワプロ2022】頼むから恋をさせてくれ！！！！！！！！サクセス【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=fFKiXzWIlxk
@@ -382,18 +389,18 @@ SUMMARY:Kaela: 【League of Legends: Wild Rift】#9 just woke up\, ehe【ElaOnDu
 UID:QpZJj---3XM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:04【 零 ～濡鴉ノ巫女～ 】初めての零シリーズで遊ぶのらあああ！PROJECT ZERO MAIDEN OF BLACK WATER【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=v517zlDkIkk
-DURATION:PT2H
-DTSTART:20220521T153000Z
-SUMMARY:🍬姫森ルーナ: 04【 零 ～濡鴉ノ巫女～ 】初めての零シリーズで遊ぶのらあああ！PROJECT ZERO MAIDEN OF BLACK WATER【#姫森ルーナ/ホロライブ】
-UID:v517zlDkIkk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MV】Till the end of me / IRyS【Original Song】\nhttps://www.youtube.com/watch?v=eM3QQXzOzVE
 DURATION:PT2H
 DTSTART:20220522T010000Z
 SUMMARY:IRyS: 【MV】Till the end of me / IRyS【Original Song】
 UID:eM3QQXzOzVE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:04【 零 ～濡鴉ノ巫女～ 】初めての零シリーズで遊ぶのらあああ！PROJECT ZERO MAIDEN OF BLACK WATER【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=v517zlDkIkk
+DURATION:PT2H
+DTSTART:20220521T153000Z
+SUMMARY:🍬姫森ルーナ: 04【 零 ～濡鴉ノ巫女～ 】初めての零シリーズで遊ぶのらあああ！PROJECT ZERO MAIDEN OF BLACK WATER【#姫森ルーナ/ホロライブ】
+UID:v517zlDkIkk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】ラミィのチャンネル登録100万人耐久！喋り倒します。【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=JI2Xjqf_mzc
@@ -403,11 +410,11 @@ SUMMARY:雪花ラミィ: 【雑談】ラミィのチャンネル登録100万人�
 UID:JI2Xjqf_mzc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】成人男性の近況【奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=qG67_cz-vLs
+DESCRIPTION:【Minecraft】Defeating the Ender Dragon【GeeMoon】\nhttps://www.youtube.com/watch?v=zEhoEuAMYhk
 DURATION:PT2H
-DTSTART:20220521T133000Z
-SUMMARY:🎸奏手イヅル: 【雑談】成人男性の近況【奏手イヅル/ホロスターズ】
-UID:qG67_cz-vLs
+DTSTART:20220522T130000Z
+SUMMARY:🔮Moona: 【Minecraft】Defeating the Ender Dragon【GeeMoon】
+UID:zEhoEuAMYhk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ユフィ編完結】FF7リメイク ユフィ編するしゅばあああああああああああああ！！！：FINAL FANTASY VII REMAKE YUFFIE DLC【※ネタバレあり】\nhttps://www.youtube.com/watch?v=GGNABUe5bU0
@@ -415,6 +422,13 @@ DURATION:PT2H
 DTSTART:20220522T040000Z
 SUMMARY:🚑大空スバル: 【#ユフィ編完結】FF7リメイク ユフィ編するしゅばあああああああああああああ！！！：FINAL FANTASY VII REMAKE YUFFIE DLC【※ネタバレあり】
 UID:GGNABUe5bU0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】成人男性の近況【奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=qG67_cz-vLs
+DURATION:PT2H
+DTSTART:20220521T133000Z
+SUMMARY:🎸奏手イヅル: 【雑談】成人男性の近況【奏手イヅル/ホロスターズ】
+UID:qG67_cz-vLs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VALORANT】I wanna open my rank【Kobo Kanaeru / Hololive Indonesia 3rd Gen】\nhttps://www.youtube.com/watch?v=G9pwxePu7Hs
