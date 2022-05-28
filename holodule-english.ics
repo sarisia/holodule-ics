@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:Fever Night - Takanashi Kiara (Official Music Video)\nhttps://www.youtube.com/watch?v=SF4rteXN57w
-DURATION:PT2H
-DTSTART:20220528T140000Z
-SUMMARY:Kiara: Fever Night - Takanashi Kiara (Official Music Video)
-UID:SF4rteXN57w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Absolute Zoo Animal Tier List\nhttps://www.youtube.com/watch?v=tWlVJP-Ft0c
-DURATION:PT2H
-DTSTART:20220527T030000Z
-SUMMARY:IRyS: The Absolute Zoo Animal Tier List
-UID:tWlVJP-Ft0c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】Laying down the Groundwork\nhttps://www.youtube.com/watch?v=KnVIyQQ24VA
 DURATION:PT2H
 DTSTART:20220527T001500Z
@@ -46,13 +32,6 @@ SUMMARY:Calli: 【SOUP】er... (i'm FUNNY.)
 UID:lON1LYE3LUc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:"Fever Night" - Takanashi Kiara MV TEASER\nhttps://www.youtube.com/watch?v=iR9xShsBK1U
-DURATION:PT2H
-DTSTART:20220527T064915Z
-SUMMARY:Kiara: "Fever Night" - Takanashi Kiara MV TEASER
-UID:iR9xShsBK1U
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:I'll Be Back!\nhttps://www.youtube.com/watch?v=w3GHk5lEqxU
 DURATION:PT2H
 DTSTART:20220526T223000Z
@@ -67,13 +46,6 @@ SUMMARY:Sana: 【Kirby 64】LETS GO CRYS
 UID:_HwjxE_D19Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【WATCHALONG】Sci-fi w/ BRUCE WILLIS\nhttps://www.youtube.com/watch?v=i83ZUAmOi5s
-DURATION:PT2H
-DTSTART:20220527T030000Z
-SUMMARY:Amelia: 【WATCHALONG】Sci-fi w/ BRUCE WILLIS
-UID:i83ZUAmOi5s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Nintendo Switch Sports】 Strap in your joycons\, it's switch sports time\nhttps://www.youtube.com/watch?v=uJ58YmnOWZM
 DURATION:PT2H
 DTSTART:20220526T200000Z
@@ -81,11 +53,11 @@ SUMMARY:Fauna: 【Nintendo Switch Sports】 Strap in your joycons\, it's switch 
 UID:uJ58YmnOWZM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:「Cover」Dilemma / ジレンマ - Nanashi Mumei\nhttps://www.youtube.com/watch?v=x_MPvKf0IDE
+DESCRIPTION:≪Ib: Remake≫  classic gameplay time ft. IRyS\nhttps://www.youtube.com/watch?v=_Kt0nQusiLg
 DURATION:PT2H
-DTSTART:20220526T220000Z
-SUMMARY:Mumei: 「Cover」Dilemma / ジレンマ - Nanashi Mumei
-UID:x_MPvKf0IDE
+DTSTART:20220528T030000Z
+SUMMARY:Baelz: ≪Ib: Remake≫  classic gameplay time ft. IRyS
+UID:_Kt0nQusiLg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TLOZ: The Wind Waker HD 4】Friday Is The Weekend Too! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=81RfpmEgb64
@@ -95,17 +67,52 @@ SUMMARY:Kiara: 【TLOZ: The Wind Waker HD 4】Friday Is The Weekend Too! #kfp #�
 UID:81RfpmEgb64
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Project DIVA Meg Mix+】  PC RELEASE!!\nhttps://www.youtube.com/watch?v=k49Yn5n6NrE
-DURATION:PT2H
-DTSTART:20220527T000128Z
-SUMMARY:Gura: 【Project DIVA Meg Mix+】  PC RELEASE!!
-UID:k49Yn5n6NrE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【KARAOKE】LET THERE BE PARTY\nhttps://www.youtube.com/watch?v=jqPRIsO-SSY
 DURATION:PT2H
 DTSTART:20220528T051500Z
 SUMMARY:Amelia: 【KARAOKE】LET THERE BE PARTY
 UID:jqPRIsO-SSY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fever Night - Takanashi Kiara (Official Music Video)\nhttps://www.youtube.com/watch?v=SF4rteXN57w
+DURATION:PT2H
+DTSTART:20220528T140000Z
+SUMMARY:Kiara: Fever Night - Takanashi Kiara (Official Music Video)
+UID:SF4rteXN57w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Absolute Zoo Animal Tier List\nhttps://www.youtube.com/watch?v=tWlVJP-Ft0c
+DURATION:PT2H
+DTSTART:20220527T030000Z
+SUMMARY:IRyS: The Absolute Zoo Animal Tier List
+UID:tWlVJP-Ft0c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:"Fever Night" - Takanashi Kiara MV TEASER\nhttps://www.youtube.com/watch?v=iR9xShsBK1U
+DURATION:PT2H
+DTSTART:20220527T064915Z
+SUMMARY:Kiara: "Fever Night" - Takanashi Kiara MV TEASER
+UID:iR9xShsBK1U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【WATCHALONG】Sci-fi w/ BRUCE WILLIS\nhttps://www.youtube.com/watch?v=i83ZUAmOi5s
+DURATION:PT2H
+DTSTART:20220527T030000Z
+SUMMARY:Amelia: 【WATCHALONG】Sci-fi w/ BRUCE WILLIS
+UID:i83ZUAmOi5s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:「Cover」Dilemma / ジレンマ - Nanashi Mumei\nhttps://www.youtube.com/watch?v=x_MPvKf0IDE
+DURATION:PT2H
+DTSTART:20220526T220000Z
+SUMMARY:Mumei: 「Cover」Dilemma / ジレンマ - Nanashi Mumei
+UID:x_MPvKf0IDE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Project DIVA Meg Mix+】  PC RELEASE!!\nhttps://www.youtube.com/watch?v=k49Yn5n6NrE
+DURATION:PT2H
+DTSTART:20220527T000128Z
+SUMMARY:Gura: 【Project DIVA Meg Mix+】  PC RELEASE!!
+UID:k49Yn5n6NrE
 END:VEVENT
 END:VCALENDAR
