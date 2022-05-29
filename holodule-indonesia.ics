@@ -4,53 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Escape Simulator】Let Us OUT【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=pAsWxH4ecys
-DURATION:PT2H
-DTSTART:20220529T130000Z
-SUMMARY:Anya: 【Escape Simulator】Let Us OUT【hololive Indonesia 2nd Generation】
-UID:pAsWxH4ecys
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Escape Simulator】-1000 IQ pov【Vestia Zeta | Hololive ID】\nhttps://www.youtube.com/watch?v=SIAX6mgopwU
-DURATION:PT2H
-DTSTART:20220529T130000Z
-SUMMARY:Zeta: 【Escape Simulator】-1000 IQ pov【Vestia Zeta | Hololive ID】
-UID:SIAX6mgopwU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PUBGM】Wait what? PUBGM x Evangelion? IKZETA!【Vestia Zeta】\nhttps://www.youtube.com/watch?v=Zn6pvQ4gOSk
-DURATION:PT2H
-DTSTART:20220528T125825Z
-SUMMARY:Zeta: 【PUBGM】Wait what? PUBGM x Evangelion? IKZETA!【Vestia Zeta】
-UID:Zn6pvQ4gOSk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【holoID】ESCAPE SIMULATOR : try not to panic with us!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=xi1fWw0HNW4
-DURATION:PT2H
-DTSTART:20220529T130000Z
-SUMMARY:🐿Risu: 【holoID】ESCAPE SIMULATOR : try not to panic with us!【Ayunda Risu】
-UID:xi1fWw0HNW4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RAFT】#7 lets talk while im hunting for planks【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=CG5FXnlmCwg
-DURATION:PT2H
-DTSTART:20220528T140733Z
-SUMMARY:Kaela: 【RAFT】#7 lets talk while im hunting for planks【Kaela Kovalskia / hololive ID】
-UID:CG5FXnlmCwg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Insaniquarium Deluxe!】i'm morbin into a fish【Vestia Zeta | Hololive ID】\nhttps://www.youtube.com/watch?v=nuu0qmldyMw
 DURATION:PT2H
 DTSTART:20220528T230026Z
 SUMMARY:Zeta: 【Insaniquarium Deluxe!】i'm morbin into a fish【Vestia Zeta | Hololive ID】
 UID:nuu0qmldyMw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Monster Hunter RISE Switch 】ヌシを挑む！！！Pray For Our Goodluck【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=T0-COPfCr1g
-DURATION:PT2H
-DTSTART:20220528T130000Z
-SUMMARY:🎨Iofi: 【 Monster Hunter RISE Switch 】ヌシを挑む！！！Pray For Our Goodluck【 iofi / ホロライブ 】
-UID:T0-COPfCr1g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:I AM BEEG【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=b3p7kvoWuro
@@ -60,13 +18,6 @@ SUMMARY:Kaela: I AM BEEG【Kaela Kovalskia / hololive ID】
 UID:b3p7kvoWuro
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Who's Lila?】Using My Breine Power to Make Not-sussy Faces【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=wjnCLB9pB1s
-DURATION:PT2H
-DTSTART:20220528T081528Z
-SUMMARY:Reine: 【Who's Lila?】Using My Breine Power to Make Not-sussy Faces【Pavolia Reine/hololiveID 2nd gen】
-UID:wjnCLB9pB1s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 Live Drawing 】お絵描きとおしゃべり！May Chaos Be Upon Us【 iofi / オウガ / ガンマ 】\nhttps://www.youtube.com/watch?v=He9EujS20PE
 DURATION:PT2H
 DTSTART:20220529T120000Z
@@ -74,17 +25,24 @@ SUMMARY:🎨Iofi: 【 Live Drawing 】お絵描きとおしゃべり！May Chaos
 UID:He9EujS20PE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Escape Simulator】trapped together n we need brains【Kaela x Anya x Risu x Zeta / hololiveID】\nhttps://www.youtube.com/watch?v=ISuCKxXyLnI
-DURATION:PT2H
-DTSTART:20220529T130400Z
-SUMMARY:Kaela: 【Escape Simulator】trapped together n we need brains【Kaela x Anya x Risu x Zeta / hololiveID】
-UID:ISuCKxXyLnI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DONATION READING + FREETALK】sore~【Kobo Kanaeru / hololive ID】\nhttps://www.youtube.com/watch?v=lm5L-1xtEwA
 DURATION:PT2H
 DTSTART:20220529T090000Z
 SUMMARY:Kobo: 【DONATION READING + FREETALK】sore~【Kobo Kanaeru / hololive ID】
 UID:lm5L-1xtEwA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【holoID】ESCAPE SIMULATOR : try not to panic with us!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=xi1fWw0HNW4
+DURATION:PT2H
+DTSTART:20220529T130000Z
+SUMMARY:🐿Risu: 【holoID】ESCAPE SIMULATOR : try not to panic with us!【Ayunda Risu】
+UID:xi1fWw0HNW4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Escape Simulator】trapped together n we need brains【Kaela x Anya x Risu x Zeta / hololiveID】\nhttps://www.youtube.com/watch?v=ISuCKxXyLnI
+DURATION:PT2H
+DTSTART:20220529T130400Z
+SUMMARY:Kaela: 【Escape Simulator】trapped together n we need brains【Kaela x Anya x Risu x Zeta / hololiveID】
+UID:ISuCKxXyLnI
 END:VEVENT
 END:VCALENDAR
