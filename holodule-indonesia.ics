@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【PUBGM】Wait what? PUBGM x Evangelion? IKZETA!【Vestia Zeta】\nhttps://www.youtube.com/watch?v=Zn6pvQ4gOSk
+DURATION:PT2H
+DTSTART:20220528T125825Z
+SUMMARY:Zeta: 【PUBGM】Wait what? PUBGM x Evangelion? IKZETA!【Vestia Zeta】
+UID:Zn6pvQ4gOSk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RAFT】#7 lets talk while im hunting for planks【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=CG5FXnlmCwg
+DURATION:PT2H
+DTSTART:20220528T140733Z
+SUMMARY:Kaela: 【RAFT】#7 lets talk while im hunting for planks【Kaela Kovalskia / hololive ID】
+UID:CG5FXnlmCwg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Insaniquarium Deluxe!】i'm morbin into a fish【Vestia Zeta | Hololive ID】\nhttps://www.youtube.com/watch?v=nuu0qmldyMw
 DURATION:PT2H
 DTSTART:20220528T230026Z
@@ -16,6 +30,13 @@ DURATION:PT2H
 DTSTART:20220528T130000Z
 SUMMARY:🎨Iofi: 【 Monster Hunter RISE Switch 】ヌシを挑む！！！Pray For Our Goodluck【 iofi / ホロライブ 】
 UID:T0-COPfCr1g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:I AM BEEG【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=b3p7kvoWuro
+DURATION:PT2H
+DTSTART:20220529T100602Z
+SUMMARY:Kaela: I AM BEEG【Kaela Kovalskia / hololive ID】
+UID:b3p7kvoWuro
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Who's Lila?】Using My Breine Power to Make Not-sussy Faces【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=wjnCLB9pB1s
@@ -37,19 +58,5 @@ DURATION:PT2H
 DTSTART:20220529T090000Z
 SUMMARY:Kobo: 【DONATION READING + FREETALK】sore~【Kobo Kanaeru / hololive ID】
 UID:lm5L-1xtEwA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PUBGM】Wait what? PUBGM x Evangelion? IKZETA!【Vestia Zeta】\nhttps://www.youtube.com/watch?v=Zn6pvQ4gOSk
-DURATION:PT2H
-DTSTART:20220528T125825Z
-SUMMARY:Zeta: 【PUBGM】Wait what? PUBGM x Evangelion? IKZETA!【Vestia Zeta】
-UID:Zn6pvQ4gOSk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RAFT】#7 lets talk while im hunting for planks【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=CG5FXnlmCwg
-DURATION:PT2H
-DTSTART:20220528T140733Z
-SUMMARY:Kaela: 【RAFT】#7 lets talk while im hunting for planks【Kaela Kovalskia / hololive ID】
-UID:CG5FXnlmCwg
 END:VEVENT
 END:VCALENDAR
