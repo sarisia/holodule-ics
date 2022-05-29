@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:フクロウさん / 沙花叉クロヱ(cover)\nhttps://www.youtube.com/watch?v=LI8TNKPuk3w
+DURATION:PT2H
+DTSTART:20220529T100000Z
+SUMMARY:沙花叉クロヱ: フクロウさん / 沙花叉クロヱ(cover)
+UID:LI8TNKPuk3w
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【A Short Hike】都会を離れてのんびりハイキング！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=92ZaBJzuReg
 DURATION:PT2H
 DTSTART:20220528T230000Z
@@ -41,7 +48,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【モーリーオンライン】余、いっぱいお菓子とか色々欲しい！！！！！！！！！！！！！\nhttps://www.youtube.com/watch?v=l-hgfjVN7BM
 DURATION:PT2H
-DTSTART:20220529T130000Z
+DTSTART:20220529T110000Z
 SUMMARY:👿百鬼あやめ: 【モーリーオンライン】余、いっぱいお菓子とか色々欲しい！！！！！！！！！！！！！
 UID:l-hgfjVN7BM
 END:VEVENT
@@ -107,6 +114,13 @@ DURATION:PT2H
 DTSTART:20220527T150000Z
 SUMMARY:🌽白上フブキ: 【MONSTER HUNTER RISE】ディア事変＆強化マガドと戯れる【ホロライブ/白上フブキ】
 UID:jnhI0NU4cUo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MemberShip Only】初めての黒3Dio！ASMRでいちゃいちゃしよ？♡【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=7RXvOSN556M
+DURATION:PT2H
+DTSTART:20220529T120000Z
+SUMMARY:博衣こより: 【MemberShip Only】初めての黒3Dio！ASMRでいちゃいちゃしよ？♡【博衣こより/ホロライブ】
+UID:7RXvOSN556M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】第８５回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=5OJOogjnk6s
@@ -228,6 +242,13 @@ SUMMARY:🏴☠宝鐘マリン: 【10 sneezes in a row】船長、くしゃみ10
 UID:RrvYil42S1A
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【singing】デビュー半年ありがとう！アカペラあり歌枠【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=wo-tD47me1o
+DURATION:PT2H
+DTSTART:20220529T090000Z
+SUMMARY:沙花叉クロヱ: 【singing】デビュー半年ありがとう！アカペラあり歌枠【沙花叉クロヱ/ホロライブ】
+UID:wo-tD47me1o
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【はあちゃま相談室】恋の悩みはイチコロよっ♪まっかせなさ～い！【ホロライブ/はあちゃま】\nhttps://www.youtube.com/watch?v=c8Nweu_TTnM
 DURATION:PT2H
 DTSTART:20220528T090000Z
@@ -326,10 +347,10 @@ SUMMARY:博衣こより: 【感謝】デビュー半年に浸りながらSuperCh
 UID:coU_W2QoXlI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【singing】デビュー半年ありがとう！アカペラあり歌枠【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=wo-tD47me1o
+DESCRIPTION:#08【ドラクエ8】脳筋女騎士、新たな冒険に出る！！【白銀ノエル/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=rmAYfglGt6Y
 DURATION:PT2H
-DTSTART:20220529T090000Z
-SUMMARY:沙花叉クロヱ: 【singing】デビュー半年ありがとう！アカペラあり歌枠【沙花叉クロヱ/ホロライブ】
-UID:wo-tD47me1o
+DTSTART:20220529T020000Z
+SUMMARY:⚔白銀ノエル: #08【ドラクエ8】脳筋女騎士、新たな冒険に出る！！【白銀ノエル/ホロライブ】※ネタバレあり
+UID:rmAYfglGt6Y
 END:VEVENT
 END:VCALENDAR
