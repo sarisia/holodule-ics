@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【MHR】今日もハント！明日もハント！？狩猟狩猟狩猟！ #フレポル【尾丸ポルカ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=p5eYTsUiLto
-DURATION:PT2H
-DTSTART:20220530T130000Z
-SUMMARY:尾丸ポルカ: 【MHR】今日もハント！明日もハント！？狩猟狩猟狩猟！ #フレポル【尾丸ポルカ視点/ホロライブ】
-UID:p5eYTsUiLto
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】らんちたいむざつだん【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=ApICxXmf-tc
 DURATION:PT2H
 DTSTART:20220530T040000Z
@@ -151,11 +144,11 @@ SUMMARY:🔥不知火フレア: 【MONSTER HUNTER RISE】フレポル二人で�
 UID:b04nxcn8e5o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】おひさしぶりでござる🍃【風真いろは/ホロライブ6期生】\nhttps://www.youtube.com/watch?v=bUWOng6yl5Q
+DESCRIPTION:【ELDEN RING】ラニかわいいよラニ #10【猫又おかゆ/ホロライブ】 ※ネタバレ注意\nhttps://www.youtube.com/watch?v=-Glt2iVJNJM
 DURATION:PT2H
-DTSTART:20220530T140000Z
-SUMMARY:風真いろは: 【雑談】おひさしぶりでござる🍃【風真いろは/ホロライブ6期生】
-UID:bUWOng6yl5Q
+DTSTART:20220530T130000Z
+SUMMARY:🍙猫又おかゆ: 【ELDEN RING】ラニかわいいよラニ #10【猫又おかゆ/ホロライブ】 ※ネタバレ注意
+UID:-Glt2iVJNJM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:最近あった事をゆるーく雑談する。【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=L8vM3wkKCPo
@@ -163,12 +156,5 @@ DURATION:PT2H
 DTSTART:20220530T100000Z
 SUMMARY:🌽白上フブキ: 最近あった事をゆるーく雑談する。【ホロライブ/白上フブキ】
 UID:L8vM3wkKCPo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING】ラニかわいいよラニ #10【猫又おかゆ/ホロライブ】 ※ネタバレ注意\nhttps://www.youtube.com/watch?v=-Glt2iVJNJM
-DURATION:PT2H
-DTSTART:20220530T130000Z
-SUMMARY:🍙猫又おかゆ: 【ELDEN RING】ラニかわいいよラニ #10【猫又おかゆ/ホロライブ】 ※ネタバレ注意
-UID:-Glt2iVJNJM
 END:VEVENT
 END:VCALENDAR
