@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【PEJUANG SENIN】#7 it's mondaeeeee【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=I1Z-zKUmlvM
+DURATION:PT2H
+DTSTART:20220529T230000Z
+SUMMARY:Kaela: 【PEJUANG SENIN】#7 it's mondaeeeee【Kaela's Monday Warrior】
+UID:I1Z-zKUmlvM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Escape Simulator】Refreshing My Brain For Monday【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=wr8isvA8B98
 DURATION:PT2H
 DTSTART:20220530T072007Z
@@ -25,27 +32,6 @@ SUMMARY:🎨Iofi: 【 Senin Produktif 】GACHAAAAAAAAAAAAAAAAA UWOOOOGHHHHHHHHHH
 UID:mQ_ZYUfGyF0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【We Were Here Forever】forever and ever and ever【Vestia Zeta | Hololive ID】\nhttps://www.youtube.com/watch?v=A6Ef3PSJw_E
-DURATION:PT2H
-DTSTART:20220530T130037Z
-SUMMARY:Zeta: 【We Were Here Forever】forever and ever and ever【Vestia Zeta | Hololive ID】
-UID:A6Ef3PSJw_E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Death and Taxes】Reine is in control... WHO GETS TO LIVE?【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=VbygJqxWTgU
-DURATION:PT2H
-DTSTART:20220529T183000Z
-SUMMARY:Reine: 【Death and Taxes】Reine is in control... WHO GETS TO LIVE?【Pavolia Reine/hololiveID 2nd gen】
-UID:VbygJqxWTgU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PEJUANG SENIN】#7 it's mondaeeeee【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=I1Z-zKUmlvM
-DURATION:PT2H
-DTSTART:20220529T230000Z
-SUMMARY:Kaela: 【PEJUANG SENIN】#7 it's mondaeeeee【Kaela's Monday Warrior】
-UID:I1Z-zKUmlvM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【We Were Here Forever】That Sounds Ominous【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=qkSSSvxWExM
 DURATION:PT2H
 DTSTART:20220530T130000Z
@@ -58,5 +44,12 @@ DURATION:PT2H
 DTSTART:20220530T160000Z
 SUMMARY:Kaela: 【Flying Gorilla】wow\, legendary【Kaela Kovalskia / hololive ID】
 UID:910_N98Mer8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Death and Taxes】Reine is in control... WHO GETS TO LIVE?【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=VbygJqxWTgU
+DURATION:PT2H
+DTSTART:20220529T183000Z
+SUMMARY:Reine: 【Death and Taxes】Reine is in control... WHO GETS TO LIVE?【Pavolia Reine/hololiveID 2nd gen】
+UID:VbygJqxWTgU
 END:VEVENT
 END:VCALENDAR
