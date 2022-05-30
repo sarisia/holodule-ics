@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【MHR】今日もハント！明日もハント！？狩猟狩猟狩猟！ #フレポル【尾丸ポルカ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=p5eYTsUiLto
+DURATION:PT2H
+DTSTART:20220530T130000Z
+SUMMARY:尾丸ポルカ: 【MHR】今日もハント！明日もハント！？狩猟狩猟狩猟！ #フレポル【尾丸ポルカ視点/ホロライブ】
+UID:p5eYTsUiLto
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】らんちたいむざつだん【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=ApICxXmf-tc
 DURATION:PT2H
 DTSTART:20220530T040000Z
@@ -79,6 +86,13 @@ DURATION:PT2H
 DTSTART:20220530T120000Z
 SUMMARY:🎨Iofi: 【 Senin Produktif 】GACHAAAAAAAAAAAAAAAAA UWOOOOGHHHHHHHHHHHHHHHHHHH【 iofi / ホロライブ 】
 UID:mQ_ZYUfGyF0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】おひさしぶりでござる🍃【風真いろは/ホロライブ6期生】\nhttps://www.youtube.com/watch?v=bUWOng6yl5Q
+DURATION:PT2H
+DTSTART:20220530T140000Z
+SUMMARY:風真いろは: 【雑談】おひさしぶりでござる🍃【風真いろは/ホロライブ6期生】
+UID:bUWOng6yl5Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活雑談】５月最終日って本気ですか？【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=o5pvfWCDSxU
@@ -165,10 +179,10 @@ SUMMARY:獅白ぼたん: 【Vampire Survivors】隠しキャラとりにいく�
 UID:MImJe2AA9ZU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Flying Gorilla】wow【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=910_N98Mer8
+DESCRIPTION:【Flying Gorilla】wow\, legendary【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=910_N98Mer8
 DURATION:PT2H
 DTSTART:20220530T160000Z
-SUMMARY:Kaela: 【Flying Gorilla】wow【Kaela Kovalskia / hololive ID】
+SUMMARY:Kaela: 【Flying Gorilla】wow\, legendary【Kaela Kovalskia / hololive ID】
 UID:910_N98Mer8
 END:VEVENT
 BEGIN:VEVENT
@@ -242,25 +256,11 @@ SUMMARY:博衣こより: 【パワプロ2022】ホロメンONLY栄冠ナイン�
 UID:fI7ricEZO4s
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:マッチングアプリで出会い厨してみたｗｗｗ【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=kJClTjX3qCU
-DURATION:PT2H
-DTSTART:20220530T130000Z
-SUMMARY:🏮夏色まつり: マッチングアプリで出会い厨してみたｗｗｗ【ホロライブ/夏色まつり】
-UID:kJClTjX3qCU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 Is Simon There? 】死の電話？！新作ホラゲーやってみる、にぇ･･･【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=UFyd1Lbqjso
 DURATION:PT2H
 DTSTART:20220530T130000Z
 SUMMARY:🌸さくらみこ: 【 Is Simon There? 】死の電話？！新作ホラゲーやってみる、にぇ･･･【ホロライブ/さくらみこ】
 UID:UFyd1Lbqjso
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MONSTER HUNTER RISE】フレポル二人で一狩り🔥🎪【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=b04nxcn8e5o
-DURATION:PT2H
-DTSTART:20220530T130000Z
-SUMMARY:🔥不知火フレア: 【MONSTER HUNTER RISE】フレポル二人で一狩り🔥🎪【ホロライブ/不知火フレア】
-UID:b04nxcn8e5o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ELDEN RING】ラニかわいいよラニ #10【猫又おかゆ/ホロライブ】 ※ネタバレ注意\nhttps://www.youtube.com/watch?v=-Glt2iVJNJM
