@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【MHR】今日もハント！明日もハント！？狩猟狩猟狩猟！ #フレポル【尾丸ポルカ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=p5eYTsUiLto
+DURATION:PT2H
+DTSTART:20220530T130000Z
+SUMMARY:尾丸ポルカ: 【MHR】今日もハント！明日もハント！？狩猟狩猟狩猟！ #フレポル【尾丸ポルカ視点/ホロライブ】
+UID:p5eYTsUiLto
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:フクロウさん / 沙花叉クロヱ(cover)\nhttps://www.youtube.com/watch?v=LI8TNKPuk3w
 DURATION:PT2H
 DTSTART:20220529T100000Z
@@ -102,13 +109,6 @@ SUMMARY:👾常闇トワ: 【APEX】振り落とされない！今日からジ�
 UID:cvFtzdXx1rM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 おじさんと遊ぼう 】おじで学んだ文章をTwitterでみんなに送り付ける会【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=eV7g6IxFhmQ
-DURATION:PT2H
-DTSTART:20220530T100000Z
-SUMMARY:桃鈴ねね: 【 おじさんと遊ぼう 】おじで学んだ文章をTwitterでみんなに送り付ける会【 桃鈴ねね / ホロライブ 】
-UID:eV7g6IxFhmQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】おひさしぶりでござる🍃【風真いろは/ホロライブ6期生】\nhttps://www.youtube.com/watch?v=bUWOng6yl5Q
 DURATION:PT2H
 DTSTART:20220530T140000Z
@@ -135,6 +135,13 @@ DURATION:PT2H
 DTSTART:20220529T030000Z
 SUMMARY:🍎アキロゼ: 【Cyberpunk2077 | #11】ジョニーの恋愛編 | サイバーパンク2077【ホロライブ/アキロゼAkirose】
 UID:afEfvZcI1o8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ライブでお披露目した新曲！いいわけバニー/Live ver. #Shorts\nhttps://www.youtube.com/watch?v=Z33ebmFopbY
+DURATION:PT2H
+DTSTART:20220530T123202Z
+SUMMARY:👯兎田ぺこら: ライブでお披露目した新曲！いいわけバニー/Live ver. #Shorts
+UID:Z33ebmFopbY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝枠】早起き悪魔の奇跡の朝枠【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=qqjc6lTUnUQ
