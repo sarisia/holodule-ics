@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【アソビ大全】燐央はボドゲが好きなのか。ほーーーーーう？？？わからせます。【岸堂天真/水無瀬燐央/ホロスターズ】\nhttps://www.youtube.com/watch?v=D622yfjA2xY
-DURATION:PT2H
-DTSTART:20220530T080000Z
-SUMMARY:🦔💨岸堂天真: 【アソビ大全】燐央はボドゲが好きなのか。ほーーーーーう？？？わからせます。【岸堂天真/水無瀬燐央/ホロスターズ】
-UID:D622yfjA2xY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【飲酒雑談 】居酒屋ARNでかく語りき-GUEST：水無世燐央様【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=n3K8AGAl5Oo
 DURATION:PT2H
 DTSTART:20220530T110000Z
 SUMMARY:🍕アルランディス: 【飲酒雑談 】居酒屋ARNでかく語りき-GUEST：水無世燐央様【アルランディス/ホロスターズ】
 UID:n3K8AGAl5Oo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【飲酒雑談】コラボを振り返りながらお酒を飲む/水無世燐央【アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=5DhC8XxPnmc
+DURATION:PT2H
+DTSTART:20220530T133000Z
+SUMMARY:水無世燐央: 【飲酒雑談】コラボを振り返りながらお酒を飲む/水無世燐央【アップロー/ホロスターズ】
+UID:5DhC8XxPnmc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【弾き語りアーカイブ】ゆったり歌枠【奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=dltFSFgKPmI
@@ -30,6 +30,13 @@ DURATION:PT2H
 DTSTART:20220530T040500Z
 SUMMARY:🍷夕刻ロベル: 【雑談】お昼時のお雑談【夕刻ロベル/ホロスターズ】
 UID:makzVX2xa4w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【アソビ大全】燐央はボドゲが好きなのか。ほーーーーーう？？？わからせます。【岸堂天真/水無瀬燐央/ホロスターズ】\nhttps://www.youtube.com/watch?v=D622yfjA2xY
+DURATION:PT2H
+DTSTART:20220530T080000Z
+SUMMARY:🦔💨岸堂天真: 【アソビ大全】燐央はボドゲが好きなのか。ほーーーーーう？？？わからせます。【岸堂天真/水無瀬燐央/ホロスターズ】
+UID:D622yfjA2xY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活/イラストメイキング】ディープブリザードさんを描いてプレゼントする＆デビュー2か月振り返り【緋崎ガンマ/アップロー /ホロスターズ- Illustration Making/描いてみた】\nhttps://www.youtube.com/watch?v=PIYQyOk-TxU
