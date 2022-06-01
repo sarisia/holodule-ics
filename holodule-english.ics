@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】Prepping Materials~!\nhttps://www.youtube.com/watch?v=lnwAx2uD0g0
+DESCRIPTION:【Gorogoa】Look Into Mine Fine Eyes\nhttps://www.youtube.com/watch?v=RVocR9d9f14
 DURATION:PT2H
-DTSTART:20220601T033000Z
-SUMMARY:Amelia: 【MINECRAFT】Prepping Materials~!
-UID:lnwAx2uD0g0
+DTSTART:20220601T030000Z
+SUMMARY:Kronii: 【Gorogoa】Look Into Mine Fine Eyes
+UID:RVocR9d9f14
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Thought Of Train\nhttps://www.youtube.com/watch?v=H02ky4k1iAw
+DURATION:PT2H
+DTSTART:20220531T182445Z
+SUMMARY:Kiara: Thought Of Train
+UID:H02ky4k1iAw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Just Chatting】Chattea Time\nhttps://www.youtube.com/watch?v=i3TjFypOglE
@@ -32,25 +39,11 @@ SUMMARY:Gura: 【The Stanley Parable: Ultra Deluxe】owo what dis
 UID:D0Dy1CfuEtw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Gorogoa】Look Into Mine Fine Eyes\nhttps://www.youtube.com/watch?v=RVocR9d9f14
-DURATION:PT2H
-DTSTART:20220601T030000Z
-SUMMARY:Kronii: 【Gorogoa】Look Into Mine Fine Eyes
-UID:RVocR9d9f14
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【CHAT】OMG!!! (ò_ó) ............. hi\nhttps://www.youtube.com/watch?v=oEP9SJOf9B4
 DURATION:PT2H
 DTSTART:20220531T223000Z
 SUMMARY:Amelia: 【CHAT】OMG!!! (ò_ó) ............. hi
 UID:oEP9SJOf9B4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Thought Of Train\nhttps://www.youtube.com/watch?v=H02ky4k1iAw
-DURATION:PT2H
-DTSTART:20220531T182445Z
-SUMMARY:Kiara: Thought Of Train
-UID:H02ky4k1iAw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【NEW COVER RELEASED】AFTERPARTY KARAOKE!\nhttps://www.youtube.com/watch?v=z_jRGSbooPQ
