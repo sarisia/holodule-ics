@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【APEX】CRカップDAY5×スパイス一家！【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=_ao_yeXwbdY
+DURATION:PT2H
+DTSTART:20220602T130000Z
+SUMMARY:👾常闇トワ: 【APEX】CRカップDAY5×スパイス一家！【常闇トワ/ホロライブ】
+UID:_ao_yeXwbdY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【感謝】生誕祭お祝いスパチャ感謝！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=kHVU9iTQK8s
 DURATION:PT2H
 DTSTART:20220602T030000Z
@@ -23,13 +30,6 @@ DURATION:PT2H
 DTSTART:20220602T220000Z
 SUMMARY:博衣こより: 【#朝こよ】シーズン3初回！週刊朝こよ、動きます。 #53【博衣こより/ホロライブ】
 UID:biGdt3seCkI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【お礼雑談】6月だねぇ…👀【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=_Q8_sBTF_p8
-DURATION:PT2H
-DTSTART:20220602T130000Z
-SUMMARY:獅白ぼたん: 【お礼雑談】6月だねぇ…👀【獅白ぼたん/ホロライブ】
-UID:_Q8_sBTF_p8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:紫咲シオンとしゃべるます　#ムラサキイーロデスに質問 【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=TczjD7JX_jA
@@ -74,11 +74,11 @@ SUMMARY:博衣こより: 【おじさんと遊ぼう】今話題の超神バカ�
 UID:i-5qTuUoofI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ライブ振り返り枠！制作秘話などはなしちゃう！【アキ・ローゼンタール/ホロライブ】#アキロゼ4周年LIVE\nhttps://www.youtube.com/watch?v=JWe3kpuzR3I
+DESCRIPTION:【漫画】hololiveERROR 第16話「本当の私」\nhttps://www.youtube.com/watch?v=At7j9dtoeqk
 DURATION:PT2H
-DTSTART:20220602T133000Z
-SUMMARY:🍎アキロゼ: ライブ振り返り枠！制作秘話などはなしちゃう！【アキ・ローゼンタール/ホロライブ】#アキロゼ4周年LIVE
-UID:JWe3kpuzR3I
+DTSTART:20220603T150000Z
+SUMMARY:ホロライブ: 【漫画】hololiveERROR 第16話「本当の私」
+UID:At7j9dtoeqk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Newbie【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=cLz8lZgtp2w
@@ -88,11 +88,11 @@ SUMMARY:獅白ぼたん: Newbie【獅白ぼたん/ホロライブ】
 UID:cLz8lZgtp2w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【漫画】hololiveERROR 第16話「本当の私」\nhttps://www.youtube.com/watch?v=At7j9dtoeqk
+DESCRIPTION:【APEX】お久しぶりだなぁ！？CRカップカスタムよ！！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=cctYWoCu-sE
 DURATION:PT2H
-DTSTART:20220603T150000Z
-SUMMARY:ホロライブ: 【漫画】hololiveERROR 第16話「本当の私」
-UID:At7j9dtoeqk
+DTSTART:20220602T130000Z
+SUMMARY:🏮夏色まつり: 【APEX】お久しぶりだなぁ！？CRカップカスタムよ！！【ホロライブ/夏色まつり】
+UID:cctYWoCu-sE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【あつ森】自分の部屋の完全再現を目指す配信【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=k2eJG2HEV0o
