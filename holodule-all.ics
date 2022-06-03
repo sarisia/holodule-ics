@@ -46,18 +46,18 @@ SUMMARY:博衣こより: 【ASMR】初公開★黒3Dio！照れないように�
 UID:pU_7uvxe7qE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Powerwash Simulator】Duty Calls\nhttps://www.youtube.com/watch?v=njF81k7SGzo
-DURATION:PT2H
-DTSTART:20220603T030000Z
-SUMMARY:Kronii: 【Powerwash Simulator】Duty Calls
-UID:njF81k7SGzo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:15秒で野うさぎ作ってみたＷ/#Shorts\nhttps://www.youtube.com/watch?v=nT3CG52vWAY
 DURATION:PT2H
 DTSTART:20220603T042102Z
 SUMMARY:👯兎田ぺこら: 15秒で野うさぎ作ってみたＷ/#Shorts
 UID:nT3CG52vWAY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Powerwash Simulator】Duty Calls\nhttps://www.youtube.com/watch?v=njF81k7SGzo
+DURATION:PT2H
+DTSTART:20220603T030000Z
+SUMMARY:Kronii: 【Powerwash Simulator】Duty Calls
+UID:njF81k7SGzo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Grounded：# 3】俺 ちっさ【奏手イヅル w/ 🍷 🦔💨】\nhttps://www.youtube.com/watch?v=SYuAmzP8RfQ
@@ -123,13 +123,6 @@ SUMMARY:夜十神封魔: 【APEX】いつものソロPEX。ランク行きます
 UID:OlZ1t1By-m8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【holoID】MEME REVIEW WITH @Kobo Kanaeru Ch. hololive-ID 【Ayunda Risu】\nhttps://www.youtube.com/watch?v=Mp4o2t6-ojw
-DURATION:PT2H
-DTSTART:20220603T140000Z
-SUMMARY:🐿Risu: 【holoID】MEME REVIEW WITH @Kobo Kanaeru Ch. hololive-ID 【Ayunda Risu】
-UID:Mp4o2t6-ojw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【新曲あり！？】hololive IDOL PROJECTユニット初集合LIVE！\nhttps://www.youtube.com/watch?v=FWXAnb08CPg
 DURATION:PT2H
 DTSTART:20220605T110000Z
@@ -156,6 +149,13 @@ DURATION:PT2H
 DTSTART:20220602T153000Z
 SUMMARY:🌟夜空メル: 【ごく普通の鹿のゲーム DEEEER Simulator】どうも、鹿になりました【ホロライブ/夜空メル】
 UID:sqwoOPvv4QE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RFA】祝！デビュー1000日目！感謝の1000kcal消費耐久配信！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=gAQDqRPOxXA
+DURATION:PT2H
+DTSTART:20220604T080000Z
+SUMMARY:🍕アルランディス: 【RFA】祝！デビュー1000日目！感謝の1000kcal消費耐久配信！【アルランディス/ホロスターズ】
+UID:gAQDqRPOxXA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DEATH AND TAXES】Only Two Things Are Certain in Life\, yeah?\nhttps://www.youtube.com/watch?v=14j8NnpaBtA
@@ -207,6 +207,13 @@ SUMMARY:💋癒月ちょこ: 【ARK】甦れ！立ち上がれ！悪魔の恐竜
 UID:LKyhtz0vK28
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【エルデンリング】腹筋縛り！ローデイルから巨人たちの山嶺へ！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=eUV0dLzivt4
+DURATION:PT2H
+DTSTART:20220604T040000Z
+SUMMARY:沙花叉クロヱ: 【エルデンリング】腹筋縛り！ローデイルから巨人たちの山嶺へ！【沙花叉クロヱ/ホロライブ】
+UID:eUV0dLzivt4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Ruined King: A League of Legends Story】#1 here it begins...【ElaOnDuty】\nhttps://www.youtube.com/watch?v=czdBZs67hI8
 DURATION:PT2H
 DTSTART:20220603T130000Z
@@ -221,6 +228,13 @@ SUMMARY:👾常闇トワ: 【Fall Guys】スパイス一家でれっつごー！
 UID:0hsD9GOwXMQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#生スバル】おはすば！スバル：FREE TALK【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=nxsELnSlRB8
+DURATION:PT2H
+DTSTART:20220604T010000Z
+SUMMARY:🚑大空スバル: 【#生スバル】おはすば！スバル：FREE TALK【ホロライブ/大空スバル】
+UID:nxsELnSlRB8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【coffee talk】1杯のコーヒーと、だれかの生活。#2/水無世燐央【アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=uMdtxZ9H-IQ
 DURATION:PT2H
 DTSTART:20220603T150000Z
@@ -228,11 +242,11 @@ SUMMARY:水無世燐央: 【coffee talk】1杯のコーヒーと、だれかの�
 UID:uMdtxZ9H-IQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#生スバル】おはすば！スバル：FREE TALK【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=nxsELnSlRB8
+DESCRIPTION:【Jump King】今さら初見でJump Kingやる!!【 #羽継烏有 / #アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=l6s96qYmirc
 DURATION:PT2H
-DTSTART:20220604T010000Z
-SUMMARY:🚑大空スバル: 【#生スバル】おはすば！スバル：FREE TALK【ホロライブ/大空スバル】
-UID:nxsELnSlRB8
+DTSTART:20220604T130000Z
+SUMMARY:羽継烏有: 【Jump King】今さら初見でJump Kingやる!!【 #羽継烏有 / #アップロー / #ホロスターズ】
+UID:l6s96qYmirc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Switch Sports】パリピ漫画家を限界まで運動させて健康にしてやる【岸堂天真/緋崎ガンマ/ホロスターズ】\nhttps://www.youtube.com/watch?v=biXg_xklzqM
@@ -247,13 +261,6 @@ DURATION:PT2H
 DTSTART:20220604T020000Z
 SUMMARY:⚔白銀ノエル: #09【ドラクエ8】脳筋女騎士、新たな冒険に出る！！【白銀ノエル/ホロライブ】※ネタバレあり
 UID:ME4NeMZ8S9g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Jump King】今さら初見でJump Kingやる!!【 #羽継烏有 / #アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=l6s96qYmirc
-DURATION:PT2H
-DTSTART:20220604T130000Z
-SUMMARY:羽継烏有: 【Jump King】今さら初見でJump Kingやる!!【 #羽継烏有 / #アップロー / #ホロスターズ】
-UID:l6s96qYmirc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】悪魔のAPEX【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=eil89EDQqfc
@@ -333,6 +340,13 @@ SUMMARY:Kiara: HINOTORI LIVE CHEERING GUIDE by Takanashi Eggiara
 UID:jBdNclCGHHw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Playable Mockup】推理編のイッツ・ミーを倒したい【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=8csjKI8to3I
+DURATION:PT2H
+DTSTART:20220603T153013Z
+SUMMARY:🌽白上フブキ: 【Playable Mockup】推理編のイッツ・ミーを倒したい【ホロライブ/白上フブキ】
+UID:8csjKI8to3I
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【朝活/イラストメイキング】色んなYAGOOをパリピ漫画家が描いてみる！6月編【緋崎ガンマ/#アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=esRwzJJFpnw
 DURATION:PT2H
 DTSTART:20220605T010000Z
@@ -366,13 +380,6 @@ DURATION:PT2H
 DTSTART:20220603T030000Z
 SUMMARY:🦔💨岸堂天真: 【Grounded】現状最強生物「蚊」しばき隊　その３【岸堂天真/奏手イヅル/夕刻ロベル/ホロスターズ】
 UID:XaH25wlMSPY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】お話とお歌の時間ですよ～～！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=-bVJSZvDfh0
-DURATION:PT2H
-DTSTART:20220603T140000Z
-SUMMARY:🌙紫咲シオン: 【歌枠】お話とお歌の時間ですよ～～！！【ホロライブ/紫咲シオン】
-UID:-bVJSZvDfh0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【3D DJ配信】ホロスタ3周年だ！これからもよろしくノリノリで行くよ！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=4MaDa2_m7ZI
@@ -438,6 +445,13 @@ SUMMARY:🐏角巻わため: 【Human: Fall Flat】国際ふにゃふにゃコ�
 UID:jkUqi9Vmx8E
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#生スバル】アニメグレンラガン同時試聴会第10話～：anime GURREN LAGANN watch party episode10【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=J8m1FgA6PpQ
+DURATION:PT2H
+DTSTART:20220603T130000Z
+SUMMARY:🚑大空スバル: 【#生スバル】アニメグレンラガン同時試聴会第10話～：anime GURREN LAGANN watch party episode10【ホロライブ/大空スバル】
+UID:J8m1FgA6PpQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【PACIFY】 SCARY GAME + CUTE KOHAI = ???\nhttps://www.youtube.com/watch?v=81CIA9Cg2oE
 DURATION:PT2H
 DTSTART:20220603T050000Z
@@ -450,6 +464,20 @@ DURATION:PT2H
 DTSTART:20220602T202554Z
 SUMMARY:Kiara: HEART CHALLENGER LIVE CHEERING GUIDE by Takanashi Eggiara
 UID:fAZNeq15A_E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【TUNIC】#5 完全クリアパーフェクトTrueEndを見に行くんだコン【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=0h6-eJQ9emw
+DURATION:PT2H
+DTSTART:20220603T113000Z
+SUMMARY:🍕アルランディス: 【TUNIC】#5 完全クリアパーフェクトTrueEndを見に行くんだコン【アルランディス/ホロスターズ】
+UID:0h6-eJQ9emw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】深夜TALK【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=hhDB_8Dzt28
+DURATION:PT2H
+DTSTART:20220603T140000Z
+SUMMARY:荒咬オウガ: 【雑談】深夜TALK【荒咬オウガ/ホロスターズ】
+UID:hhDB_8Dzt28
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【星のカービィ ディスカバリー】長期戦！達成率100％にする！【夜十神封魔/ホロスターズ/アップロー】\nhttps://www.youtube.com/watch?v=7U1n67nzW5s
@@ -487,11 +515,11 @@ SUMMARY:ホロスターズ: 【アニメ】最近はキーボードでさえ防�
 UID:D1vPECHlZSg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【KODE KERAS COWOK DARI CEWEK】#2 WOMAN SCARY... BUT IT'S DATE EPISODE【HoloID 2ndGen】\nhttps://www.youtube.com/watch?v=0DkypnfUOe8
+DESCRIPTION:【凸待ち】4周年記念！お披露目＆凸待ち！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=vebSLR2aK1A
 DURATION:PT2H
-DTSTART:20220603T082941Z
-SUMMARY:Ollie: 【KODE KERAS COWOK DARI CEWEK】#2 WOMAN SCARY... BUT IT'S DATE EPISODE【HoloID 2ndGen】
-UID:0DkypnfUOe8
+DTSTART:20220604T140000Z
+SUMMARY:🏮夏色まつり: 【凸待ち】4周年記念！お披露目＆凸待ち！【ホロライブ/夏色まつり】
+UID:vebSLR2aK1A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【夜活/イラストメイキング】岸堂天真先輩を描いてみる！！【緋崎ガンマ/#アップロー /#ホロスターズ】- Illustration Making\nhttps://www.youtube.com/watch?v=Nf50XHMYaOA
@@ -501,11 +529,11 @@ SUMMARY:緋崎ガンマ: 【夜活/イラストメイキング】岸堂天真先
 UID:Nf50XHMYaOA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【凸待ち】4周年記念！お披露目＆凸待ち！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=vebSLR2aK1A
+DESCRIPTION:【KODE KERAS COWOK DARI CEWEK】#2 WOMAN SCARY... BUT IT'S DATE EPISODE【HoloID 2ndGen】\nhttps://www.youtube.com/watch?v=0DkypnfUOe8
 DURATION:PT2H
-DTSTART:20220604T140000Z
-SUMMARY:🏮夏色まつり: 【凸待ち】4周年記念！お披露目＆凸待ち！【ホロライブ/夏色まつり】
-UID:vebSLR2aK1A
+DTSTART:20220603T082941Z
+SUMMARY:Ollie: 【KODE KERAS COWOK DARI CEWEK】#2 WOMAN SCARY... BUT IT'S DATE EPISODE【HoloID 2ndGen】
+UID:0DkypnfUOe8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン2】青道アカトさんと、リグマで熱血コラボ！？【夜十神封魔/ホロスターズ/アップロー】\nhttps://www.youtube.com/watch?v=3MCSdEVWRH8
