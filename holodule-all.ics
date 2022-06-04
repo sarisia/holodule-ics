@@ -32,18 +32,18 @@ SUMMARY:🏮夏色まつり: 【CRカップ】こんな大会初めてっ！勝�
 UID:iObUrEvBiDw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】僕には家がない/水無世燐央【アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=soIWGUAqbJg
-DURATION:PT2H
-DTSTART:20220604T120000Z
-SUMMARY:水無世燐央: 【Minecraft】僕には家がない/水無世燐央【アップロー/ホロスターズ】
-UID:soIWGUAqbJg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ゼルダの伝説/風のタクト】＃０２ 新たな島へLet'sGo!!!!!!【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=YHvLo7200gU
 DURATION:PT2H
 DTSTART:20220604T150000Z
 SUMMARY:🌟夜空メル: 【ゼルダの伝説/風のタクト】＃０２ 新たな島へLet'sGo!!!!!!【ホロライブ/夜空メル】
 UID:YHvLo7200gU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】僕には家がない/水無世燐央【アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=soIWGUAqbJg
+DURATION:PT2H
+DTSTART:20220604T120000Z
+SUMMARY:水無世燐央: 【Minecraft】僕には家がない/水無世燐央【アップロー/ホロスターズ】
+UID:soIWGUAqbJg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MONSTER HUNTER RISE】へたっぴハンター、新たな武器にも挑戦したい！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=8qv2nlaoe2M
@@ -88,13 +88,6 @@ SUMMARY:🍎アキロゼ: 【3D LIVE映像】幸せになれる隠しコマン�
 UID:Ywld5Y1_ruI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】朝活ランク。ゴールドIKZ。【夜十神封魔/ホロスターズ/アップロー】\nhttps://www.youtube.com/watch?v=OlZ1t1By-m8
-DURATION:PT2H
-DTSTART:20220604T000000Z
-SUMMARY:夜十神封魔: 【APEX】朝活ランク。ゴールドIKZ。【夜十神封魔/ホロスターズ/アップロー】
-UID:OlZ1t1By-m8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠】告知あるよおお！楽しく歌うよおおおお！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=wP4EcA2s4is
 DURATION:PT2H
 DTSTART:20220604T120000Z
@@ -107,6 +100,13 @@ DURATION:PT2H
 DTSTART:20220605T110000Z
 SUMMARY:ホロライブ: 【新曲あり！？】hololive IDOL PROJECTユニット初集合LIVE！
 UID:FWXAnb08CPg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】朝活ランク。ゴールドIKZ。【夜十神封魔/ホロスターズ/アップロー】\nhttps://www.youtube.com/watch?v=OlZ1t1By-m8
+DURATION:PT2H
+DTSTART:20220604T000000Z
+SUMMARY:夜十神封魔: 【APEX】朝活ランク。ゴールドIKZ。【夜十神封魔/ホロスターズ/アップロー】
+UID:OlZ1t1By-m8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【漫画】hololiveERROR 第16話「本当の私」\nhttps://www.youtube.com/watch?v=At7j9dtoeqk
@@ -172,6 +172,13 @@ SUMMARY:🐏角巻わため: 【#ホロ地球防衛隊】地球を守る使命�
 UID:W47Sni4ee98
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:#10【ドラクエ8】脳筋女騎士、新たな冒険に出る！！【白銀ノエル/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=MwJQQiJaEkA
+DURATION:PT2H
+DTSTART:20220605T020000Z
+SUMMARY:⚔白銀ノエル: #10【ドラクエ8】脳筋女騎士、新たな冒険に出る！！【白銀ノエル/ホロライブ】※ネタバレあり
+UID:MwJQQiJaEkA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 ASTRONEER -アストロニーア- 】深夜の睡眠動画💤宇宙探検へ出発なのら～！！【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=kASD5861758
 DURATION:PT2H
 DTSTART:20220603T150000Z
@@ -221,18 +228,18 @@ SUMMARY:🍎アキロゼ: 【3D LIVE映像】Here   TVアニメ「魔法使い�
 UID:7Ar8HnHegMA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Clash of Chefs VR】VR COOKING by CHEF REINE just a grill enjoyer 【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=uxc8twhirIQ
+DURATION:PT2H
+DTSTART:20220604T160000Z
+SUMMARY:Reine: 【Clash of Chefs VR】VR COOKING by CHEF REINE just a grill enjoyer 【Pavolia Reine/hololiveID 2nd gen】
+UID:uxc8twhirIQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【銀河的お悩み相談室】相談者に寄り添わない相談室\nhttps://www.youtube.com/watch?v=rwbQPVUGZ3s
 DURATION:PT2H
 DTSTART:20220604T144500Z
 SUMMARY:🎭アステル・レダ: 【銀河的お悩み相談室】相談者に寄り添わない相談室
 UID:rwbQPVUGZ3s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Jump King】今さら初見でJump Kingやる!!【 #羽継烏有 / #アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=l6s96qYmirc
-DURATION:PT2H
-DTSTART:20220604T130000Z
-SUMMARY:羽継烏有: 【Jump King】今さら初見でJump Kingやる!!【 #羽継烏有 / #アップロー / #ホロスターズ】
-UID:l6s96qYmirc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#生スバル】おはすば！スバル：FREE TALK【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=nxsELnSlRB8
@@ -256,18 +263,18 @@ SUMMARY:🍎アキロゼ: 【3D LIVE映像】色彩のブルース-雨の街で�
 UID:GyWPn8ADczQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Jump King】今さら初見でJump Kingやる!!【 #羽継烏有 / #アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=l6s96qYmirc
+DURATION:PT2H
+DTSTART:20220604T130000Z
+SUMMARY:羽継烏有: 【Jump King】今さら初見でJump Kingやる!!【 #羽継烏有 / #アップロー / #ホロスターズ】
+UID:l6s96qYmirc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#09【ドラクエ8】脳筋女騎士、新たな冒険に出る！！【白銀ノエル/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=ME4NeMZ8S9g
 DURATION:PT2H
 DTSTART:20220604T020000Z
 SUMMARY:⚔白銀ノエル: #09【ドラクエ8】脳筋女騎士、新たな冒険に出る！！【白銀ノエル/ホロライブ】※ネタバレあり
 UID:ME4NeMZ8S9g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Clash of Chefs VR】VR COOKING by CHEF REINE just a grill enjoyer 【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=uxc8twhirIQ
-DURATION:PT2H
-DTSTART:20220604T160000Z
-SUMMARY:Reine: 【Clash of Chefs VR】VR COOKING by CHEF REINE just a grill enjoyer 【Pavolia Reine/hololiveID 2nd gen】
-UID:uxc8twhirIQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【3D LIVE映像】OP ACT ーAKIROSE WORLDー【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=mVHIH5Uj6mA
@@ -417,6 +424,13 @@ SUMMARY:鷹嶺ルイ: 【深夜ラジオ】鷹嶺ルイのミッドナイトラ�
 UID:2VNKskE82jw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【VALORANT】w/ Iroha and Kobo~\nhttps://www.youtube.com/watch?v=tGVhLibbYL0
+DURATION:PT2H
+DTSTART:20220604T140000Z
+SUMMARY:Amelia: 【VALORANT】w/ Iroha and Kobo~
+UID:tGVhLibbYL0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【FRIDAY NIGHT FUNKIN】BEEP BOOP SKADOOSH SKADOOSH【Hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=tT4Vl3Ni8uU
 DURATION:PT2H
 DTSTART:20220604T130003Z
@@ -478,6 +492,13 @@ DURATION:PT2H
 DTSTART:20220604T103000Z
 SUMMARY:荒咬オウガ: 【MOTHER】エンディングまで泣かない #3【荒咬オウガ　ホロスターズ】
 UID:qYDL1DP14uw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VALORANT】pew pew with two beautiful blondes【Komeha / Kobo Ame Iroha】\nhttps://www.youtube.com/watch?v=C-McN920LSo
+DURATION:PT2H
+DTSTART:20220604T140000Z
+SUMMARY:Kobo: 【VALORANT】pew pew with two beautiful blondes【Komeha / Kobo Ame Iroha】
+UID:C-McN920LSo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DOKOMI WAITING ROOM】Please watch the stream on Twitch! #KfpAtDokomi22\nhttps://www.youtube.com/watch?v=xXqVWX5NQgI
