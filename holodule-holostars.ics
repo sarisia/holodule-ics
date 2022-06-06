@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【男性キー】酔いどれ知らず / Kanaria『covered by 律可』歌ってみた\nhttps://www.youtube.com/watch?v=x5H2kX6zuWY
-DURATION:PT2H
-DTSTART:20220605T110000Z
-SUMMARY:⚙律可: 【男性キー】酔いどれ知らず / Kanaria『covered by 律可』歌ってみた
-UID:x5H2kX6zuWY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】角作るマン！！！！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=lj8Tda1GO2Q
 DURATION:PT2H
 DTSTART:20220606T150000Z
 SUMMARY:🍕アルランディス: 【Minecraft】角作るマン！！！！【アルランディス/ホロスターズ】
 UID:lj8Tda1GO2Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】内装作るための素材集め！！/水無世燐央【アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=yIYrQHdMIt4
-DURATION:PT2H
-DTSTART:20220605T153000Z
-SUMMARY:水無世燐央: 【Minecraft】内装作るための素材集め！！/水無世燐央【アップロー/ホロスターズ】
-UID:yIYrQHdMIt4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】ゲリラ！１時間だけ！！【羽継烏有/アップロー】\nhttps://www.youtube.com/watch?v=Xjs8jarkhD8
@@ -32,11 +18,25 @@ SUMMARY:羽継烏有: 【APEX】ゲリラ！１時間だけ！！【羽継烏有
 UID:Xjs8jarkhD8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【弾き語り歌枠】HAPPYにするぞ！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=VQYqdE7PKXg
+DESCRIPTION:【Minecraft】内装作るための素材集め！！/水無世燐央【アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=yIYrQHdMIt4
 DURATION:PT2H
-DTSTART:20220605T120000Z
-SUMMARY:⚙律可: 【弾き語り歌枠】HAPPYにするぞ！【律可/ホロスターズ】#りつすた
-UID:VQYqdE7PKXg
+DTSTART:20220605T153000Z
+SUMMARY:水無世燐央: 【Minecraft】内装作るための素材集め！！/水無世燐央【アップロー/ホロスターズ】
+UID:yIYrQHdMIt4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活/イラストメイキング】夕刻ロベル先輩を描いてみる！【緋崎ガンマ/#アップロー /#ホロスターズ】- Illustration Making\nhttps://www.youtube.com/watch?v=U_1RyJ3Esyw
+DURATION:PT2H
+DTSTART:20220607T000000Z
+SUMMARY:緋崎ガンマ: 【朝活/イラストメイキング】夕刻ロベル先輩を描いてみる！【緋崎ガンマ/#アップロー /#ホロスターズ】- Illustration Making
+UID:U_1RyJ3Esyw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#録音マリパ】録音してきた音声のみで進行するマリパって地獄どうなんの！？ｗ【岸堂天真/アルランディス/花咲みやび/影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=9WjirsD9HX0
+DURATION:PT2H
+DTSTART:20220606T130000Z
+SUMMARY:🦔💨岸堂天真: 【#録音マリパ】録音してきた音声のみで進行するマリパって地獄どうなんの！？ｗ【岸堂天真/アルランディス/花咲みやび/影山シエン/ホロスターズ】
+UID:9WjirsD9HX0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【終焉介護 / The Caregiver】どうも、介護のプロです。【 #羽継烏有 / #アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=iL_Xeznnwuc
@@ -44,6 +44,41 @@ DURATION:PT2H
 DTSTART:20220606T150000Z
 SUMMARY:羽継烏有: 【終焉介護 / The Caregiver】どうも、介護のプロです。【 #羽継烏有 / #アップロー / #ホロスターズ】
 UID:iL_Xeznnwuc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#21【RiTunes Labo】生セッション歌枠：ゲスト『トゥライ』【律可/ホロスターズ 】#りちゅらぼ\nhttps://www.youtube.com/watch?v=VQGj4KckZK0
+DURATION:PT2H
+DTSTART:20220607T110000Z
+SUMMARY:⚙律可: #21【RiTunes Labo】生セッション歌枠：ゲスト『トゥライ』【律可/ホロスターズ 】#りちゅらぼ
+UID:VQGj4KckZK0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:花咲劇場in3D/ダイブ・トゥ・ワールド【#花咲みやび3周年 /ホロスターズ】\nhttps://www.youtube.com/watch?v=4Q7d41GXE9c
+DURATION:PT2H
+DTSTART:20220608T110000Z
+SUMMARY:🌺花咲みやび: 花咲劇場in3D/ダイブ・トゥ・ワールド【#花咲みやび3周年 /ホロスターズ】
+UID:4Q7d41GXE9c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活/イラストメイキング】岸堂天真先輩を描いてみる！Part②【緋崎ガンマ/#アップロー /#ホロスターズ】- Illustration Making\nhttps://www.youtube.com/watch?v=SeeDt-5yud8
+DURATION:PT2H
+DTSTART:20220606T000000Z
+SUMMARY:緋崎ガンマ: 【朝活/イラストメイキング】岸堂天真先輩を描いてみる！Part②【緋崎ガンマ/#アップロー /#ホロスターズ】- Illustration Making
+UID:SeeDt-5yud8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌ってみた】僕は今日も / アステル\nhttps://www.youtube.com/watch?v=wj4_wSyiqME
+DURATION:PT2H
+DTSTART:20220606T140000Z
+SUMMARY:🎭アステル・レダ: 【歌ってみた】僕は今日も / アステル
+UID:wj4_wSyiqME
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【3D】Hope of universe / Astel's birthday Program #アステルコード #アステル誕生祭2022\nhttps://www.youtube.com/watch?v=vvH8WweqFlE
+DURATION:PT2H
+DTSTART:20220606T120000Z
+SUMMARY:🎭アステル・レダ: 【3D】Hope of universe / Astel's birthday Program #アステルコード #アステル誕生祭2022
+UID:vvH8WweqFlE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】協力して勝て！模擬タッグ戦！w/岸堂天真【夜十神封魔/ホロスターズ/アップロー】\nhttps://www.youtube.com/watch?v=31-TCahdilU
@@ -58,103 +93,5 @@ DURATION:PT2H
 DTSTART:20220606T080000Z
 SUMMARY:🍷夕刻ロベル: 【パワプロ2022】パワプロで対峙する男たち【夕刻ロベル/緋崎ガンマ】
 UID:prfwlW8GPLM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Overcooked! 2】敏腕新米シェフ４人衆/水無世燐央【放課後アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=Kfl7GV5uixQ
-DURATION:PT2H
-DTSTART:20220605T090000Z
-SUMMARY:水無世燐央: 【Overcooked! 2】敏腕新米シェフ４人衆/水無世燐央【放課後アップロー/ホロスターズ】
-UID:Kfl7GV5uixQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】この羊毛の像はだんだんあーちゃんになるのだよ。【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Vxhq4Jt-l8k
-DURATION:PT2H
-DTSTART:20220605T140000Z
-SUMMARY:🍕アルランディス: 【Minecraft】この羊毛の像はだんだんあーちゃんになるのだよ。【アルランディス/ホロスターズ】
-UID:Vxhq4Jt-l8k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:『誕生日前 Sing』 To the future #アステル誕生祭2022 /  Astel Leda\nhttps://www.youtube.com/watch?v=M3447cNHuwg
-DURATION:PT2H
-DTSTART:20220605T143000Z
-SUMMARY:🎭アステル・レダ: 『誕生日前 Sing』 To the future #アステル誕生祭2022 /  Astel Leda
-UID:M3447cNHuwg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン2】青道アカトさんと、リグマで熱血コラボ！？【夜十神封魔/ホロスターズ/アップロー】\nhttps://www.youtube.com/watch?v=3MCSdEVWRH8
-DURATION:PT2H
-DTSTART:20220605T040000Z
-SUMMARY:夜十神封魔: 【スプラトゥーン2】青道アカトさんと、リグマで熱血コラボ！？【夜十神封魔/ホロスターズ/アップロー】
-UID:3MCSdEVWRH8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活/イラストメイキング】夕刻ロベル先輩を描いてみる！【緋崎ガンマ/#アップロー /#ホロスターズ】- Illustration Making\nhttps://www.youtube.com/watch?v=U_1RyJ3Esyw
-DURATION:PT2H
-DTSTART:20220607T000000Z
-SUMMARY:緋崎ガンマ: 【朝活/イラストメイキング】夕刻ロベル先輩を描いてみる！【緋崎ガンマ/#アップロー /#ホロスターズ】- Illustration Making
-UID:U_1RyJ3Esyw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#21【RiTunes Labo】生セッション歌枠：ゲスト『トゥライ』【律可/ホロスターズ 】#りちゅらぼ\nhttps://www.youtube.com/watch?v=VQGj4KckZK0
-DURATION:PT2H
-DTSTART:20220607T110000Z
-SUMMARY:⚙律可: #21【RiTunes Labo】生セッション歌枠：ゲスト『トゥライ』【律可/ホロスターズ 】#りちゅらぼ
-UID:VQGj4KckZK0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活/イラストメイキング】岸堂天真先輩を描いてみる！Part②【緋崎ガンマ/#アップロー /#ホロスターズ】- Illustration Making\nhttps://www.youtube.com/watch?v=SeeDt-5yud8
-DURATION:PT2H
-DTSTART:20220606T000000Z
-SUMMARY:緋崎ガンマ: 【朝活/イラストメイキング】岸堂天真先輩を描いてみる！Part②【緋崎ガンマ/#アップロー /#ホロスターズ】- Illustration Making
-UID:SeeDt-5yud8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Stanley Parable: Ultra Deluxe】男はこのゲームが面白いことを知っていた。しかし全編英語なのは知らなかった。【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=yEi8JE-JhR8
-DURATION:PT2H
-DTSTART:20220605T070000Z
-SUMMARY:🍕アルランディス: 【The Stanley Parable: Ultra Deluxe】男はこのゲームが面白いことを知っていた。しかし全編英語なのは知らなかった。【アルランディス/ホロスターズ】
-UID:yEi8JE-JhR8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】僕は今日も / アステル\nhttps://www.youtube.com/watch?v=wj4_wSyiqME
-DURATION:PT2H
-DTSTART:20220606T140000Z
-SUMMARY:🎭アステル・レダ: 【歌ってみた】僕は今日も / アステル
-UID:wj4_wSyiqME
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MOTHER】エンディングまで泣かない #4【荒咬オウガ　ホロスターズ】\nhttps://www.youtube.com/watch?v=pN4JOg2fi_s
-DURATION:PT2H
-DTSTART:20220605T050000Z
-SUMMARY:荒咬オウガ: 【MOTHER】エンディングまで泣かない #4【荒咬オウガ　ホロスターズ】
-UID:pN4JOg2fi_s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【3D】Hope of universe / Astel's birthday Program #アステルコード #アステル誕生祭2022\nhttps://www.youtube.com/watch?v=vvH8WweqFlE
-DURATION:PT2H
-DTSTART:20220606T120000Z
-SUMMARY:🎭アステル・レダ: 【3D】Hope of universe / Astel's birthday Program #アステルコード #アステル誕生祭2022
-UID:vvH8WweqFlE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【NEEDY GIRL OVERDOSE】パリピVSメンヘラ頂上決戦！？※初見プレイ【緋崎ガンマ/#アップロー /#ホロスターズ/神ゲー】\nhttps://www.youtube.com/watch?v=mAX_KKfpDZ8
-DURATION:PT2H
-DTSTART:20220605T013000Z
-SUMMARY:緋崎ガンマ: 【NEEDY GIRL OVERDOSE】パリピVSメンヘラ頂上決戦！？※初見プレイ【緋崎ガンマ/#アップロー /#ホロスターズ/神ゲー】
-UID:mAX_KKfpDZ8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】４日間ブロッコリー生活をしてみたんです。【花咲みやび /ホロスターズ】\nhttps://www.youtube.com/watch?v=2px7ZMDYUn4
-DURATION:PT2H
-DTSTART:20220605T130000Z
-SUMMARY:🌺花咲みやび: 【雑談】４日間ブロッコリー生活をしてみたんです。【花咲みやび /ホロスターズ】
-UID:2px7ZMDYUn4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】ゲリラ！ 少しだけ えいぺっくす！！【#羽継烏有/#アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=-j4qmWQ1y58
-DURATION:PT2H
-DTSTART:20220604T163000Z
-SUMMARY:羽継烏有: 【APEX】ゲリラ！ 少しだけ えいぺっくす！！【#羽継烏有/#アップロー / #ホロスターズ】
-UID:-j4qmWQ1y58
 END:VEVENT
 END:VCALENDAR
