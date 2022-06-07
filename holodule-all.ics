@@ -18,18 +18,18 @@ SUMMARY:羽継烏有: 【APEX】ゲリラ！１時間だけ！！【羽継烏有
 UID:Xjs8jarkhD8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:心霊映像で間違い探し！－I'm on Observation Duty 5【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=XAKaGL-E_B4
-DURATION:PT2H
-DTSTART:20220606T120000Z
-SUMMARY:獅白ぼたん: 心霊映像で間違い探し！－I'm on Observation Duty 5【獅白ぼたん/ホロライブ】
-UID:XAKaGL-E_B4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【絶叫死人】最新ホラー！次の舞台は実況者・・・！？！？【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=Yge1jd2wFlo
 DURATION:PT2H
 DTSTART:20220606T140000Z
 SUMMARY:鷹嶺ルイ: 【絶叫死人】最新ホラー！次の舞台は実況者・・・！？！？【鷹嶺ルイ/ホロライブ】
 UID:Yge1jd2wFlo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:心霊映像で間違い探し！－I'm on Observation Duty 5【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=XAKaGL-E_B4
+DURATION:PT2H
+DTSTART:20220606T120000Z
+SUMMARY:獅白ぼたん: 心霊映像で間違い探し！－I'm on Observation Duty 5【獅白ぼたん/ホロライブ】
+UID:XAKaGL-E_B4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【終焉介護 / The Caregiver】どうも、介護のプロです。【 #羽継烏有 / #アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=iL_Xeznnwuc
@@ -340,18 +340,18 @@ SUMMARY:🍷夕刻ロベル: 【パワプロ2022】パワプロで対峙する�
 UID:prfwlW8GPLM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MONSTER HUNTER RISE】わちゃわちゃモンハン！ナルハタ！！！！【ホロライブ/アキロゼ視点】\nhttps://www.youtube.com/watch?v=8U_mkeZZAfQ
-DURATION:PT2H
-DTSTART:20220606T130000Z
-SUMMARY:🍎アキロゼ: 【MONSTER HUNTER RISE】わちゃわちゃモンハン！ナルハタ！！！！【ホロライブ/アキロゼ視点】
-UID:8U_mkeZZAfQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ELDEN RING】ファルムアズラのボス戦IKZ！！！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=ZR8Snm9LBIY
 DURATION:PT2H
 DTSTART:20220607T140000Z
 SUMMARY:鷹嶺ルイ: 【ELDEN RING】ファルムアズラのボス戦IKZ！！！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり
 UID:ZR8Snm9LBIY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MONSTER HUNTER RISE】わちゃわちゃモンハン！ナルハタ！！！！【ホロライブ/アキロゼ視点】\nhttps://www.youtube.com/watch?v=8U_mkeZZAfQ
+DURATION:PT2H
+DTSTART:20220606T130000Z
+SUMMARY:🍎アキロゼ: 【MONSTER HUNTER RISE】わちゃわちゃモンハン！ナルハタ！！！！【ホロライブ/アキロゼ視点】
+UID:8U_mkeZZAfQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#4【Ghostwire: Tokyo】最終回！！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=LkR4edylAao
@@ -464,6 +464,13 @@ DURATION:PT2H
 DTSTART:20220607T061000Z
 SUMMARY:🍕アルランディス: 【The Stanley Parable: Ultra Deluxe】男はこのゲームの英語が読めなかった。しかし男はコメントに仲間たちがいることを知った【アルランディス/ホロスターズ】
 UID:GJf3s5cU4ns
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】突如行われる夕刻ロベルの雑談【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=SXEigPaRDms
+DURATION:PT2H
+DTSTART:20220607T071000Z
+SUMMARY:🍷夕刻ロベル: 【雑談】突如行われる夕刻ロベルの雑談【夕刻ロベル/ホロスターズ】
+UID:SXEigPaRDms
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【モンハンライズ】新作にむけて「姫プ」でキークエ消化する！②【※ネタバレ有り/羽継烏有/アップロー】\nhttps://www.youtube.com/watch?v=z4sNPk9GUmU
