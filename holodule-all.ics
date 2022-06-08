@@ -4,10 +4,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:はいしんよてい～～～！！今日は特別っ【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=5p8R0dgrpaE
+DESCRIPTION:【晩酌配信】初めての飲酒配信！！一緒に飲もう～～っ【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=5p8R0dgrpaE
 DURATION:PT2H
 DTSTART:20220608T140000Z
-SUMMARY:🌙紫咲シオン: はいしんよてい～～～！！今日は特別っ【ホロライブ/紫咲シオン】
+SUMMARY:🌙紫咲シオン: 【晩酌配信】初めての飲酒配信！！一緒に飲もう～～っ【ホロライブ/紫咲シオン】
 UID:5p8R0dgrpaE
 END:VEVENT
 BEGIN:VEVENT
@@ -116,6 +116,13 @@ SUMMARY:Zeta: This is peak nostalgia!【The Witch's House MV】+ Ending
 UID:paG0JM8y6N0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【MEMBERSHIP】Secret Unit! 【Vestia Zeta / Hololive ID】\nhttps://www.youtube.com/watch?v=7SiSaCEQuA0
+DURATION:PT2H
+DTSTART:20220608T125531Z
+SUMMARY:Zeta: 【MEMBERSHIP】Secret Unit! 【Vestia Zeta / Hololive ID】
+UID:7SiSaCEQuA0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 ioSalon 】NOW OPEN FOR GENTLEMEN!【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=hghY3aUT_rs
 DURATION:PT2H
 DTSTART:20220608T120000Z
@@ -146,7 +153,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Mario Kart 8 Deluxe】WE GOT NEW TRACKS BABY~!!【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=BCZT0LpVR0w
 DURATION:PT2H
-DTSTART:20220608T130000Z
+DTSTART:20220608T125727Z
 SUMMARY:Ollie: 【Mario Kart 8 Deluxe】WE GOT NEW TRACKS BABY~!!【Hololive ID 2nd Gen】
 UID:BCZT0LpVR0w
 END:VEVENT
@@ -284,11 +291,11 @@ SUMMARY:🍷夕刻ロベル: 【Yakiniku Simulation】肉を焼いて食べま�
 UID:XxefpNip6Wg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Off Collab】Reunion & Gaming!! #takamori\nhttps://www.youtube.com/watch?v=ZIvO-792X2k
+DESCRIPTION:【RAFT】#9 beeg brain 🧠⛵【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=r9eciJqlGKA
 DURATION:PT2H
-DTSTART:20220608T200000Z
-SUMMARY:Kiara: 【Off Collab】Reunion & Gaming!! #takamori
-UID:ZIvO-792X2k
+DTSTART:20220608T130000Z
+SUMMARY:Kaela: 【RAFT】#9 beeg brain 🧠⛵【Kaela Kovalskia / hololive ID】
+UID:r9eciJqlGKA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 夜遊び 】The Henry Stickmin Collection これは面白そうなのら！【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=dq6gqI2l6d0
@@ -296,6 +303,13 @@ DURATION:PT2H
 DTSTART:20220608T130000Z
 SUMMARY:🍬姫森ルーナ: 【 夜遊び 】The Henry Stickmin Collection これは面白そうなのら！【#姫森ルーナ/ホロライブ】
 UID:dq6gqI2l6d0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Off Collab】Reunion & Gaming!! #takamori\nhttps://www.youtube.com/watch?v=ZIvO-792X2k
+DURATION:PT2H
+DTSTART:20220608T200000Z
+SUMMARY:Kiara: 【Off Collab】Reunion & Gaming!! #takamori
+UID:ZIvO-792X2k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】pon pon pon\nhttps://www.youtube.com/watch?v=heA_fcPrSV0
@@ -618,6 +632,13 @@ DURATION:PT2H
 DTSTART:20220608T082927Z
 SUMMARY:Ollie: 【CHESS.COM】WE'RE AIMING FOR KUREIJI GAMBIT【Hololive Indonesia 2nd Gen】
 UID:kycyjRzI_oA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【漫画】#hololiveERROR 1~16話を同時視聴で一気見！/Watchalong [ 現代編・過去編・電車編 ]\nhttps://www.youtube.com/watch?v=U2Zy9_OAdEs
+DURATION:PT2H
+DTSTART:20220608T110000Z
+SUMMARY:ホロライブ: 【漫画】#hololiveERROR 1~16話を同時視聴で一気見！/Watchalong [ 現代編・過去編・電車編 ]
+UID:U2Zy9_OAdEs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【十三機兵防衛圏】#3 崩壊、南と鷹宮の場合。＜ネタバレあり＞【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=AEgygp7wICI
