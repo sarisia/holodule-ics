@@ -81,18 +81,18 @@ SUMMARY:ラプラス: 【APEX】声だけでかい えぺメンタル【ラプ�
 UID:kRT8vInCSMU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 ioSalon 】NOW OPEN FOR GENTLEMEN!【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=hghY3aUT_rs
-DURATION:PT2H
-DTSTART:20220608T120000Z
-SUMMARY:🎨Iofi: 【 ioSalon 】NOW OPEN FOR GENTLEMEN!【 iofi / ホロライブ 】
-UID:hghY3aUT_rs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MEMBERSHIP】Secret Unit! 【Vestia Zeta / Hololive ID】\nhttps://www.youtube.com/watch?v=7SiSaCEQuA0
 DURATION:PT2H
 DTSTART:20220608T125531Z
 SUMMARY:Zeta: 【MEMBERSHIP】Secret Unit! 【Vestia Zeta / Hololive ID】
 UID:7SiSaCEQuA0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【アーカイブなし】English KARAOKE! 洋楽歌枠！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=XChUTud4fDs
+DURATION:PT2H
+DTSTART:20220609T120000Z
+SUMMARY:沙花叉クロヱ: 【アーカイブなし】English KARAOKE! 洋楽歌枠！【沙花叉クロヱ/ホロライブ】
+UID:XChUTud4fDs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MONSTER HUNTER RISE】視聴者さん参加型|ゲリラ！眠いけど百竜夜行～！！【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=n_PJBtxvQ6g
@@ -109,18 +109,18 @@ SUMMARY:🍕アルランディス: 【Minecraft 1.19】新要素きたーーー!
 UID:_I-MhwHOS_8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 ioSalon 】NOW OPEN FOR GENTLEMEN!【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=hghY3aUT_rs
+DURATION:PT2H
+DTSTART:20220608T120000Z
+SUMMARY:🎨Iofi: 【 ioSalon 】NOW OPEN FOR GENTLEMEN!【 iofi / ホロライブ 】
+UID:hghY3aUT_rs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MEMBERSHIP OPEN】UNLOCK THE DLC\, NOW! 🔨【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=0Mjf67V-_5Q
 DURATION:PT2H
 DTSTART:20220609T120000Z
 SUMMARY:Kaela: 【MEMBERSHIP OPEN】UNLOCK THE DLC\, NOW! 🔨【Kaela Kovalskia / hololive ID】
 UID:0Mjf67V-_5Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アーカイブなし】English KARAOKE! 洋楽歌枠！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=XChUTud4fDs
-DURATION:PT2H
-DTSTART:20220609T120000Z
-SUMMARY:沙花叉クロヱ: 【アーカイブなし】English KARAOKE! 洋楽歌枠！【沙花叉クロヱ/ホロライブ】
-UID:XChUTud4fDs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【パワプロ2022】初心者鬼畜監督！1年目九州地区大会出場したつよつよチームで甲子園目指す！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=Rx1uaxNAGzQ
@@ -137,18 +137,18 @@ SUMMARY:🐏角巻わため: 【メンバー限定配信】開設2年3ヶ月目�
 UID:jbdVzcx4fe4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:花咲劇場in3D/ダイブ・トゥ・ワールド【#花咲みやび3周年 /ホロスターズ】\nhttps://www.youtube.com/watch?v=4Q7d41GXE9c
-DURATION:PT2H
-DTSTART:20220608T110000Z
-SUMMARY:🌺花咲みやび: 花咲劇場in3D/ダイブ・トゥ・ワールド【#花咲みやび3周年 /ホロスターズ】
-UID:4Q7d41GXE9c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:おじさんが集う場所に心霊現象あり－I'm on Observation Duty 5【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=HgHVC863OWk
 DURATION:PT2H
 DTSTART:20220608T120000Z
 SUMMARY:獅白ぼたん: おじさんが集う場所に心霊現象あり－I'm on Observation Duty 5【獅白ぼたん/ホロライブ】
 UID:HgHVC863OWk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:花咲劇場in3D/ダイブ・トゥ・ワールド【#花咲みやび3周年 /ホロスターズ】\nhttps://www.youtube.com/watch?v=4Q7d41GXE9c
+DURATION:PT2H
+DTSTART:20220608T110000Z
+SUMMARY:🌺花咲みやび: 花咲劇場in3D/ダイブ・トゥ・ワールド【#花咲みやび3周年 /ホロスターズ】
+UID:4Q7d41GXE9c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【I'm on Observation Duty 4】The City House【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=S08SnLo0Qh0
@@ -361,13 +361,6 @@ SUMMARY:🎨Iofi: 【 BanG DREAM 】LET'S GO! BANG DREAM!【 Iofi イオフィ�
 UID:UhPLdD57KSE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【筋トレ】腹筋５００回するまで眠れない昼夜逆転不健康悪の秘密結社総帥の配信です【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=9gvkY-YYogI
-DURATION:PT2H
-DTSTART:20220607T203000Z
-SUMMARY:ラプラス: 【筋トレ】腹筋５００回するまで眠れない昼夜逆転不健康悪の秘密結社総帥の配信です【ラプラス・ダークネス/ホロライブ】
-UID:9gvkY-YYogI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Elden Ring】Ms. LORD BOWSON\nhttps://www.youtube.com/watch?v=qq7YSjqdkqs
 DURATION:PT2H
 DTSTART:20220607T231518Z
@@ -375,11 +368,32 @@ SUMMARY:Amelia: 【Elden Ring】Ms. LORD BOWSON
 UID:qq7YSjqdkqs
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【筋トレ】腹筋５００回するまで眠れない昼夜逆転不健康悪の秘密結社総帥の配信です【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=9gvkY-YYogI
+DURATION:PT2H
+DTSTART:20220607T203000Z
+SUMMARY:ラプラス: 【筋トレ】腹筋５００回するまで眠れない昼夜逆転不健康悪の秘密結社総帥の配信です【ラプラス・ダークネス/ホロライブ】
+UID:9gvkY-YYogI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:こちらがスタッフさん達の準備待ちをしている６歳児（羊）の姿です。\nhttps://www.youtube.com/watch?v=MXLQUMpgmbc
 DURATION:PT2H
 DTSTART:20220607T205840Z
 SUMMARY:🐏角巻わため: こちらがスタッフさん達の準備待ちをしている６歳児（羊）の姿です。
 UID:MXLQUMpgmbc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】お昼休み一緒に過ごそう【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=Bo3blZdAZow
+DURATION:PT2H
+DTSTART:20220608T030000Z
+SUMMARY:雪花ラミィ: 【雑談】お昼休み一緒に過ごそう【雪花ラミィ/ホロライブ】
+UID:Bo3blZdAZow
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Dreadout 2】#1 THE REAL HORROR IS COMING BACK TO SCHOOL??【Hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=f4h__ji_p6s
+DURATION:PT2H
+DTSTART:20220609T130000Z
+SUMMARY:Ollie: 【Dreadout 2】#1 THE REAL HORROR IS COMING BACK TO SCHOOL??【Hololive Indonesia 2nd Generation】
+UID:f4h__ji_p6s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sleeping Vtuber...???😴\nhttps://www.youtube.com/watch?v=6PVi4BK8CAk
@@ -466,13 +480,6 @@ SUMMARY:🏮夏色まつり: 【Minecraft】ゴルフ場の整地させろくだ
 UID:B2LcUYWYeh4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【十三機兵防衛圏】#3 崩壊、南と鷹宮の場合。＜ネタバレあり＞【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=AEgygp7wICI
-DURATION:PT2H
-DTSTART:20220608T040000Z
-SUMMARY:尾丸ポルカ: 【十三機兵防衛圏】#3 崩壊、南と鷹宮の場合。＜ネタバレあり＞【尾丸ポルカ/ホロライブ】
-UID:AEgygp7wICI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Age of Empires II】i want to learn this game【#GeeMoon】\nhttps://www.youtube.com/watch?v=K6seo_8MaVo
 DURATION:PT2H
 DTSTART:20220608T130000Z
@@ -508,11 +515,11 @@ SUMMARY:ENholo: Sana is Big #Shorts
 UID:b3Z7MbXO1Zs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】お昼休み一緒に過ごそう【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=Bo3blZdAZow
+DESCRIPTION:【十三機兵防衛圏】#3 崩壊、南と鷹宮の場合。＜ネタバレあり＞【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=AEgygp7wICI
 DURATION:PT2H
-DTSTART:20220608T030000Z
-SUMMARY:雪花ラミィ: 【雑談】お昼休み一緒に過ごそう【雪花ラミィ/ホロライブ】
-UID:Bo3blZdAZow
+DTSTART:20220608T040000Z
+SUMMARY:尾丸ポルカ: 【十三機兵防衛圏】#3 崩壊、南と鷹宮の場合。＜ネタバレあり＞【尾丸ポルカ/ホロライブ】
+UID:AEgygp7wICI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】カラオケでよく歌う曲を歌ってみようの枠【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=kFg0dJ22UIE
