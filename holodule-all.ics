@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 GTAV 企画 】１曲歌い終わるまで視聴者から逃げ切れ・・・【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=Ahcda1F76vg
-DURATION:PT2H
-DTSTART:20220613T130000Z
-SUMMARY:🌸さくらみこ: 【 GTAV 企画 】１曲歌い終わるまで視聴者から逃げ切れ・・・【ホロライブ/さくらみこ】
-UID:Ahcda1F76vg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠】バラード / Ballad only KARAOKE【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=KG4uZgC-0rM
 DURATION:PT2H
 DTSTART:20220612T100000Z
@@ -69,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 公認ミラー配信 】 カプコンショーケース！新たなるモンハン新情報が楽しみなのら！Capcom Showcase【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=L5nvunxnrbk
 DURATION:PT2H
-DTSTART:20220613T215049Z
+DTSTART:20220613T214500Z
 SUMMARY:🍬姫森ルーナ: 【 公認ミラー配信 】 カプコンショーケース！新たなるモンハン新情報が楽しみなのら！Capcom Showcase【#姫森ルーナ/ホロライブ】
 UID:L5nvunxnrbk
 END:VEVENT
@@ -681,6 +674,13 @@ DURATION:PT2H
 DTSTART:20220612T150000Z
 SUMMARY:🎭アステル・レダ: 【I'm on Observation Duty】オタク君、こんなことしてんだぁ☺ / アステル
 UID:_1oyjGsOaew
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【House Flipper】lemme fix your house【#GeeMoon】\nhttps://www.youtube.com/watch?v=jxJf8O3-kbQ
+DURATION:PT2H
+DTSTART:20220613T143000Z
+SUMMARY:🔮Moona: 【House Flipper】lemme fix your house【#GeeMoon】
+UID:jxJf8O3-kbQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft 1.19】ソロで探すぞ！ウォーデン！古代都市！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Iecr7OrRzlQ
