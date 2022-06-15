@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【FREETALK】BUT SOMETHING FEELS DIFFERENT??【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=pAMW3lmO6DA
+DURATION:PT2H
+DTSTART:20220615T140000Z
+SUMMARY:Ollie: 【FREETALK】BUT SOMETHING FEELS DIFFERENT??【Hololive ID 2nd Generation】
+UID:pAMW3lmO6DA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【飲酒雑談 】居酒屋ARNでかく語りき-GUEST：まとまらない四人様【ヒラ/成瀬鳴/風見くく/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=kEpepZXOf1Q
 DURATION:PT2H
 DTSTART:20220615T110000Z
@@ -72,13 +79,6 @@ DURATION:PT2H
 DTSTART:20220615T040015Z
 SUMMARY:Zeta: Guerilla Cozy morning\, let's unpack!♡
 UID:J_1y4EB0Qm0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#05【FF14】パッチ6.1であたらしくなった新生編をみにいこう👀※ネタバレあり【風真いろは/ホロライブ6期生】\nhttps://www.youtube.com/watch?v=gpByCN_UJ2M
-DURATION:PT2H
-DTSTART:20220615T110000Z
-SUMMARY:風真いろは: #05【FF14】パッチ6.1であたらしくなった新生編をみにいこう👀※ネタバレあり【風真いろは/ホロライブ6期生】
-UID:gpByCN_UJ2M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 公認ミラー配信 】 カプコンショーケース！新たなるモンハン新情報が楽しみなのら！Capcom Showcase【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=L5nvunxnrbk
@@ -375,13 +375,6 @@ SUMMARY:🐻ときのそら: 【マリオカート８ デラックス】視聴�
 UID:72fPn81reMM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX LEGENDS】WE'RE ALREADY WINNING!! w/Zeta & RPR【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=dLpoOmGvsI0
-DURATION:PT2H
-DTSTART:20220615T100013Z
-SUMMARY:Ollie: 【APEX LEGENDS】WE'RE ALREADY WINNING!! w/Zeta & RPR【Hololive Indonesia 2nd Gen】
-UID:dLpoOmGvsI0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Mom\, I'm becoming anime!【Sakura School Simulator】#1\nhttps://www.youtube.com/watch?v=gc8HDam027o
 DURATION:PT2H
 DTSTART:20220614T120020Z
@@ -552,7 +545,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【おじさんと遊ぼう】ずっと前から君のパパのルイおじです。（帰宅時間によって24時に変更あり）【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=TYdJD9fyrZY
 DURATION:PT2H
-DTSTART:20220615T140000Z
+DTSTART:20220615T150000Z
 SUMMARY:鷹嶺ルイ: 【おじさんと遊ぼう】ずっと前から君のパパのルイおじです。（帰宅時間によって24時に変更あり）【鷹嶺ルイ/ホロライブ】
 UID:TYdJD9fyrZY
 END:VEVENT
@@ -667,5 +660,12 @@ DURATION:PT2H
 DTSTART:20220614T130000Z
 SUMMARY:羽継烏有: 【モンハンライズ】③新作にむけて「姫プ」でキークエ消化する！【※ネタバレ有り/#羽継烏有 /#アップロー /#ホロスターズ 】
 UID:ofmBsfwaxnk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ばぶどん】我々ばぶどんによる『Goonect』【夕刻ロベル/影山シエン】\nhttps://www.youtube.com/watch?v=uDFe0enbQgE
+DURATION:PT2H
+DTSTART:20220615T110000Z
+SUMMARY:🍷夕刻ロベル: 【#ばぶどん】我々ばぶどんによる『Goonect』【夕刻ロベル/影山シエン】
+UID:uDFe0enbQgE
 END:VEVENT
 END:VCALENDAR
