@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【I'm on Observation Duty】不思議な現象が起こる部屋を監視する【#羽継烏有 /#アップロー /#ホロスターズ 】\nhttps://www.youtube.com/watch?v=2fd7IJDch4I
+DURATION:PT2H
+DTSTART:20220615T130000Z
+SUMMARY:羽継烏有: 【I'm on Observation Duty】不思議な現象が起こる部屋を監視する【#羽継烏有 /#アップロー /#ホロスターズ 】
+UID:2fd7IJDch4I
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談枠】激レア！1期生集合！飲みつつゆるっと喋る【律可/花咲みやび/奏手イヅル/アルランディス/ホロスターズ】#1期生雑談\nhttps://www.youtube.com/watch?v=BUGdpAmTD0g
 DURATION:PT2H
 DTSTART:20220616T130000Z
@@ -18,18 +25,18 @@ SUMMARY:🍕アルランディス: 【飲酒雑談 】居酒屋ARNでかく語�
 UID:kEpepZXOf1Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【OUTLAST】ハーモニカで爆音10回鳴らしたら即終了！？最恐ホラーゲームに挑む【緋崎ガンマ/#アップロー /#ホロスターズ /神ゲー】\nhttps://www.youtube.com/watch?v=jK5BZEwhpLc
-DURATION:PT2H
-DTSTART:20220615T090000Z
-SUMMARY:緋崎ガンマ: 【OUTLAST】ハーモニカで爆音10回鳴らしたら即終了！？最恐ホラーゲームに挑む【緋崎ガンマ/#アップロー /#ホロスターズ /神ゲー】
-UID:jK5BZEwhpLc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【朝活/イラストメイキング】ゴリラになったオレを描いてみる！！【緋崎ガンマ/#アップロー /#ホロスターズ /描いてみた】- Illustration Making\nhttps://www.youtube.com/watch?v=fKa2-NN4Uhg
 DURATION:PT2H
 DTSTART:20220616T003000Z
 SUMMARY:緋崎ガンマ: 【朝活/イラストメイキング】ゴリラになったオレを描いてみる！！【緋崎ガンマ/#アップロー /#ホロスターズ /描いてみた】- Illustration Making
 UID:fKa2-NN4Uhg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【BIOHAZARD 7】ガチビビリ幽霊が挑む初見バイオ7/水無世燐央【アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=JwxGmHCHu10
+DURATION:PT2H
+DTSTART:20220616T120000Z
+SUMMARY:水無世燐央: 【BIOHAZARD 7】ガチビビリ幽霊が挑む初見バイオ7/水無世燐央【アップロー/ホロスターズ】
+UID:JwxGmHCHu10
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ロックマン ゼロ&ゼクス ダブルヒーローコレクション】ゴリ押しロックマンゼロ【荒咬オウガ　ホロスターズ】\nhttps://www.youtube.com/watch?v=LDGav0J6RDM
@@ -102,11 +109,11 @@ SUMMARY:🍕アルランディス: 【Minecraft 1.19】ウォーデンさんこ�
 UID:OkkznzOBCUY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【I'm on Observation Duty】不思議な現象が起こる部屋を監視する【#羽継烏有 /#アップロー /#ホロスターズ 】\nhttps://www.youtube.com/watch?v=2fd7IJDch4I
+DESCRIPTION:【OUTLAST】ハーモニカで爆音10回鳴らしたら即終了！？最恐ホラーゲームに挑む【緋崎ガンマ/#アップロー /#ホロスターズ /神ゲー】\nhttps://www.youtube.com/watch?v=jK5BZEwhpLc
 DURATION:PT2H
-DTSTART:20220615T130000Z
-SUMMARY:羽継烏有: 【I'm on Observation Duty】不思議な現象が起こる部屋を監視する【#羽継烏有 /#アップロー /#ホロスターズ 】
-UID:2fd7IJDch4I
+DTSTART:20220615T090000Z
+SUMMARY:緋崎ガンマ: 【OUTLAST】ハーモニカで爆音10回鳴らしたら即終了！？最恐ホラーゲームに挑む【緋崎ガンマ/#アップロー /#ホロスターズ /神ゲー】
+UID:jK5BZEwhpLc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】１ディビジョン上げて寝る枠 & チャーライ祭り【羽継烏有/#アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=afJeogGUo3E
