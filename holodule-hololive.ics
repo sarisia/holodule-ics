@@ -4,10 +4,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【はいしんよていち】3Dお披露目前日だ！！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=kfPCXSkADx0
+DESCRIPTION:【TALK】3Dお披露目前日！ホロメンにたくさん会った話と明日への気合い入れ！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=kfPCXSkADx0
 DURATION:PT2H
 DTSTART:20220615T130000Z
-SUMMARY:博衣こより: 【はいしんよていち】3Dお披露目前日だ！！！【博衣こより/ホロライブ】
+SUMMARY:博衣こより: 【TALK】3Dお披露目前日！ホロメンにたくさん会った話と明日への気合い入れ！【博衣こより/ホロライブ】
 UID:kfPCXSkADx0
 END:VEVENT
 BEGIN:VEVENT
@@ -128,6 +128,13 @@ DURATION:PT2H
 DTSTART:20220614T130000Z
 SUMMARY:⚓湊あくあ: 【おじさんと遊ぼう】変な人からリプライがきて困っています。【湊あくあ/ホロライブ】
 UID:81EYhdvNMms
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#博衣こより3D】歌います！踊ります！体を張ります！アイドルです！！！【ホロライブ】\nhttps://www.youtube.com/watch?v=yOZxZy1HcJg
+DURATION:PT2H
+DTSTART:20220616T110000Z
+SUMMARY:博衣こより: 【#博衣こより3D】歌います！踊ります！体を張ります！アイドルです！！！【ホロライブ】
+UID:yOZxZy1HcJg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Golf It!】打って打って打ちまくれ！トワisNO1！【常闇トワ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=F7NEDiMyCNk
@@ -251,7 +258,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Passpartout 2】わたぱるとぅー、スタジオを買う！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=Wk-0jWknWz4
 DURATION:PT2H
-DTSTART:20220615T130000Z
+DTSTART:20220615T140000Z
 SUMMARY:🐏角巻わため: 【Passpartout 2】わたぱるとぅー、スタジオを買う！【角巻わため/ホロライブ４期生】
 UID:Wk-0jWknWz4
 END:VEVENT
