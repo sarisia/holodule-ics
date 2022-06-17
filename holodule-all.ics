@@ -53,18 +53,18 @@ SUMMARY:鷹嶺ルイ: 【晩酌】飲みながらただただおしゃべりす�
 UID:O4TM20byo14
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING】深夜のまったり鍛石探し📚 #12【猫又おかゆ/ホロライブ】 ※ネタバレ注意\nhttps://www.youtube.com/watch?v=ehs1_Oe7H-0
-DURATION:PT2H
-DTSTART:20220616T140000Z
-SUMMARY:🍙猫又おかゆ: 【ELDEN RING】深夜のまったり鍛石探し📚 #12【猫又おかゆ/ホロライブ】 ※ネタバレ注意
-UID:ehs1_Oe7H-0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【漫画】hololiveERROR 第18話「森の記憶」\nhttps://www.youtube.com/watch?v=QAfOqTIdpw0
 DURATION:PT2H
 DTSTART:20220617T150000Z
 SUMMARY:ホロライブ: 【漫画】hololiveERROR 第18話「森の記憶」
 UID:QAfOqTIdpw0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ELDEN RING】深夜のまったり鍛石探し📚 #12【猫又おかゆ/ホロライブ】 ※ネタバレ注意\nhttps://www.youtube.com/watch?v=ehs1_Oe7H-0
+DURATION:PT2H
+DTSTART:20220616T140000Z
+SUMMARY:🍙猫又おかゆ: 【ELDEN RING】深夜のまったり鍛石探し📚 #12【猫又おかゆ/ホロライブ】 ※ネタバレ注意
+UID:ehs1_Oe7H-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ハコス・ベールズがROBELに来店】ホロライブENからのお客様！べーちゃんの来店や！【夕刻ロベル/ハコス・ベールズ】\nhttps://www.youtube.com/watch?v=BDVCdwYVmWQ
@@ -86,6 +86,13 @@ DURATION:PT2H
 DTSTART:20220616T130000Z
 SUMMARY:影山シエン: 【MHRサンブレイク】いよいよ来た体験版！ソロ狩りでガンス【影山シエン/ホロスターズ】
 UID:XUWqc1f7QpM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:2【We Were Here Forever】変なトランプマークがたくさんのところｶﾗ?【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=uKiXiWbjI8k
+DURATION:PT2H
+DTSTART:20220617T130000Z
+SUMMARY:👾常闇トワ: 2【We Were Here Forever】変なトランプマークがたくさんのところｶﾗ?【常闇トワ/ホロライブ】
+UID:uKiXiWbjI8k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 PEC-MEN(ペックメン) 】ねねとマッチョの大冒険【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=8CYadJaw5cs
@@ -123,18 +130,18 @@ SUMMARY:☄星街すいせい: 🎊１５０万人見守り配信🎊【ホロ�
 UID:JvxMbuL9AKY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Manga Reading】Story Time 📖 #ad\nhttps://www.youtube.com/watch?v=_IFcjZeOfss
+DURATION:PT2H
+DTSTART:20220617T030000Z
+SUMMARY:Kronii: 【Manga Reading】Story Time 📖 #ad
+UID:_IFcjZeOfss
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:≪WATCH-A-LONG≫ REDLINE 2009\nhttps://www.youtube.com/watch?v=aqFATYdk4nQ
 DURATION:PT2H
 DTSTART:20220616T020000Z
 SUMMARY:Baelz: ≪WATCH-A-LONG≫ REDLINE 2009
 UID:aqFATYdk4nQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VA-11 Hall-A】Welcome to Bar Mori. (Part 1)\nhttps://www.youtube.com/watch?v=HS0TMG5PLPU
-DURATION:PT2H
-DTSTART:20220617T130000Z
-SUMMARY:Calli: 【VA-11 Hall-A】Welcome to Bar Mori. (Part 1)
-UID:HS0TMG5PLPU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】毛刈り会じょ...散髪屋さん作るぞ～！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=F7tWP_JYoHU
@@ -144,13 +151,6 @@ SUMMARY:🐏角巻わため: 【Minecraft】毛刈り会じょ...散髪屋さん
 UID:F7tWP_JYoHU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Mother Simulator】癒月、子供ができました。【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=tuY8sxg3G0w
-DURATION:PT2H
-DTSTART:20220616T020000Z
-SUMMARY:💋癒月ちょこ: 【Mother Simulator】癒月、子供ができました。【ホロライブ/癒月ちょこ】
-UID:tuY8sxg3G0w
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【BIOHAZARD 7】ガチビビリ幽霊が挑む初見バイオ7/水無世燐央【アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=JwxGmHCHu10
 DURATION:PT2H
 DTSTART:20220616T120000Z
@@ -158,11 +158,25 @@ SUMMARY:水無世燐央: 【BIOHAZARD 7】ガチビビリ幽霊が挑む初見�
 UID:JwxGmHCHu10
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【VA-11 Hall-A】Welcome to Bar Mori. (Part 1)\nhttps://www.youtube.com/watch?v=HS0TMG5PLPU
+DURATION:PT2H
+DTSTART:20220617T130000Z
+SUMMARY:Calli: 【VA-11 Hall-A】Welcome to Bar Mori. (Part 1)
+UID:HS0TMG5PLPU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【To The Moon】Feels Sad\nhttps://www.youtube.com/watch?v=jPZO9KahTeo
 DURATION:PT2H
 DTSTART:20220617T015850Z
 SUMMARY:Mumei: 【To The Moon】Feels Sad
 UID:jPZO9KahTeo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Mother Simulator】癒月、子供ができました。【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=tuY8sxg3G0w
+DURATION:PT2H
+DTSTART:20220616T020000Z
+SUMMARY:💋癒月ちょこ: 【Mother Simulator】癒月、子供ができました。【ホロライブ/癒月ちょこ】
+UID:tuY8sxg3G0w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Drain／天音かなた(cover)\nhttps://www.youtube.com/watch?v=PyAixTkD4YY
@@ -263,18 +277,18 @@ SUMMARY:Ollie: 【PHASMOPHOBIA】英語で叫ぶ方法、教えます、くく�
 UID:F8bFxZCR-7w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 エレクトーン 】お稽古の時間！午後のＢＧＭを聴いてってなのらね！🎹🎶 Playing tha Electone【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=Jw1OPmUq6E4
-DURATION:PT2H
-DTSTART:20220617T050000Z
-SUMMARY:🍬姫森ルーナ: 【 エレクトーン 】お稽古の時間！午後のＢＧＭを聴いてってなのらね！🎹🎶 Playing tha Electone【#姫森ルーナ/ホロライブ】
-UID:Jw1OPmUq6E4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 Gartic Phone/視聴者参加型 】パリピ漫画家とお絵描きしようぜ？？【緋崎ガンマ/#アップロー /#ホロスターズ /イラストメイキング /描いてみた /ガーティックフォン】\nhttps://www.youtube.com/watch?v=E9-0ew4WARk
 DURATION:PT2H
 DTSTART:20220617T110000Z
 SUMMARY:緋崎ガンマ: 【 Gartic Phone/視聴者参加型 】パリピ漫画家とお絵描きしようぜ？？【緋崎ガンマ/#アップロー /#ホロスターズ /イラストメイキング /描いてみた /ガーティックフォン】
 UID:E9-0ew4WARk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 エレクトーン 】お稽古の時間！午後のＢＧＭを聴いてってなのらね！🎹🎶 Playing tha Electone【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=Jw1OPmUq6E4
+DURATION:PT2H
+DTSTART:20220617T050000Z
+SUMMARY:🍬姫森ルーナ: 【 エレクトーン 】お稽古の時間！午後のＢＧＭを聴いてってなのらね！🎹🎶 Playing tha Electone【#姫森ルーナ/ホロライブ】
+UID:Jw1OPmUq6E4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft 1.19】ホロスタサーバーもついにアプデ！ウォーデンよ…今こそリベンジの時！ #ホロスタウォーデン討伐 【花咲みやび/岸堂天真/水無世燐央/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=RuAyFpinob8
@@ -317,6 +331,13 @@ DURATION:PT2H
 DTSTART:20220616T220000Z
 SUMMARY:博衣こより: 【#朝こよ】初！おうち3Dで朝こよ！お披露目翌日だよ～！！ #57【博衣こより/ホロライブ】
 UID:geywT7t4a9E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Metroid Dread】I BROUGHT MY ARMY\nhttps://www.youtube.com/watch?v=-tToGs-jm70
+DURATION:PT2H
+DTSTART:20220617T011500Z
+SUMMARY:Sana: 【Metroid Dread】I BROUGHT MY ARMY
+UID:-tToGs-jm70
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【LOST EGG】eggselent rolling\, rolling\, and rolling 🥚 【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=VHhGsu4rXaA
@@ -494,18 +515,18 @@ SUMMARY:Kronii: 【Propnight】It's Morbin' Time
 UID:8QWsjjfD-CM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 WWE2K22 】MYTH NIGHT #MythNight\nhttps://www.youtube.com/watch?v=mNq4d4vpe0I
-DURATION:PT2H
-DTSTART:20220616T001228Z
-SUMMARY:Gura: 【 WWE2K22 】MYTH NIGHT #MythNight
-UID:mNq4d4vpe0I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Dorfromantik】#1 what a relaxing night~【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=8Sqe0Fo23EQ
 DURATION:PT2H
 DTSTART:20220616T130017Z
 SUMMARY:Kaela: 【Dorfromantik】#1 what a relaxing night~【Kaela Kovalskia / hololive ID】
 UID:8Sqe0Fo23EQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 WWE2K22 】MYTH NIGHT #MythNight\nhttps://www.youtube.com/watch?v=mNq4d4vpe0I
+DURATION:PT2H
+DTSTART:20220616T001228Z
+SUMMARY:Gura: 【 WWE2K22 】MYTH NIGHT #MythNight
+UID:mNq4d4vpe0I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Miitopia】 I Am Not Building A Harem In Miitopia\nhttps://www.youtube.com/watch?v=aPv95CldJWI
