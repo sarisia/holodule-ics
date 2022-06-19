@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:≪Chicory: A Colorful Tale≫ Telling a story with colours!\nhttps://www.youtube.com/watch?v=WrI3xC_961o
-DURATION:PT2H
-DTSTART:20220620T050000Z
-SUMMARY:Baelz: ≪Chicory: A Colorful Tale≫ Telling a story with colours!
-UID:WrI3xC_961o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【The Legend of Zelda: BOTW】I Forgot About The Princess\nhttps://www.youtube.com/watch?v=Jc0EA9cbDHg
 DURATION:PT2H
 DTSTART:20220619T210000Z
@@ -18,11 +11,18 @@ SUMMARY:Mumei: 【The Legend of Zelda: BOTW】I Forgot About The Princess
 UID:Jc0EA9cbDHg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HOLO ENGLISH LESSON #06】Summer Special! With Sana\, Miko and Roboco!\nhttps://www.youtube.com/watch?v=3hkrt5YJrD8
+DESCRIPTION:Takanashi Kiara PERFORMS 「Heart Challenger」 Live @Dokomi 2022\nhttps://www.youtube.com/watch?v=-8QcF1vZ0CY
 DURATION:PT2H
-DTSTART:20220620T120000Z
-SUMMARY:Calli: 【HOLO ENGLISH LESSON #06】Summer Special! With Sana\, Miko and Roboco!
-UID:3hkrt5YJrD8
+DTSTART:20220619T210000Z
+SUMMARY:Kiara: Takanashi Kiara PERFORMS 「Heart Challenger」 Live @Dokomi 2022
+UID:-8QcF1vZ0CY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪Chicory: A Colorful Tale≫ Telling a story with colours!\nhttps://www.youtube.com/watch?v=WrI3xC_961o
+DURATION:PT2H
+DTSTART:20220620T050000Z
+SUMMARY:Baelz: ≪Chicory: A Colorful Tale≫ Telling a story with colours!
+UID:WrI3xC_961o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SHINIGAMI NIGHT】GETTING OVER IT! with Special EP Promotion~!\nhttps://www.youtube.com/watch?v=aK27uNcX9g0
@@ -30,5 +30,12 @@ DURATION:PT2H
 DTSTART:20220619T040040Z
 SUMMARY:Calli: 【SHINIGAMI NIGHT】GETTING OVER IT! with Special EP Promotion~!
 UID:aK27uNcX9g0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HOLO ENGLISH LESSON #06】Summer Special! With Sana\, Miko and Roboco!\nhttps://www.youtube.com/watch?v=3hkrt5YJrD8
+DURATION:PT2H
+DTSTART:20220620T120000Z
+SUMMARY:Calli: 【HOLO ENGLISH LESSON #06】Summer Special! With Sana\, Miko and Roboco!
+UID:3hkrt5YJrD8
 END:VEVENT
 END:VCALENDAR
