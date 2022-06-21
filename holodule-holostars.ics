@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【MHRサンブレイク】新モンスターを狩りに行くぜ!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=n2xLTqjP628
-DURATION:PT2H
-DTSTART:20220621T140000Z
-SUMMARY:🌺花咲みやび: 【MHRサンブレイク】新モンスターを狩りに行くぜ!!【花咲みやび/ホロスターズ】
-UID:n2xLTqjP628
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Fall Guys: Ultimate Knockout】クロスプラットフォーム！無料化！遊ぶなら今がチャンスだよなぁ！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=tUoMRsk5vFc
 DURATION:PT2H
 DTSTART:20220621T123000Z
 SUMMARY:🍕アルランディス: 【Fall Guys: Ultimate Knockout】クロスプラットフォーム！無料化！遊ぶなら今がチャンスだよなぁ！【アルランディス/ホロスターズ】
 UID:tUoMRsk5vFc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MHRサンブレイク】新モンスターを狩りに行くぜ!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=n2xLTqjP628
+DURATION:PT2H
+DTSTART:20220621T140000Z
+SUMMARY:🌺花咲みやび: 【MHRサンブレイク】新モンスターを狩りに行くぜ!!【花咲みやび/ホロスターズ】
+UID:n2xLTqjP628
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【BIOHAZARD 7】ガチビビリ幽霊が挑む初見バイオ7 #2/水無世燐央【アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=o2VfEETpkcI
@@ -53,6 +53,13 @@ SUMMARY:緋崎ガンマ: 【Apex Legends】ハーモニカ咥えながらチャ�
 UID:PHx-PDR5gEc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft 1.19】カエルを全種類集めておこう！あとはネザーを探検したい！ 【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=eHb4lK5i-H8
+DURATION:PT2H
+DTSTART:20220620T150000Z
+SUMMARY:🍕アルランディス: 【Minecraft 1.19】カエルを全種類集めておこう！あとはネザーを探検したい！ 【アルランディス/ホロスターズ】
+UID:eHb4lK5i-H8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】でかけるまで軽くしゃべる【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=RKC1meWFGQA
 DURATION:PT2H
 DTSTART:20220621T034500Z
@@ -88,13 +95,6 @@ SUMMARY:🍕アルランディス: 【Minecraft 1.19】カエルランプトラ�
 UID:65ax9snZQzo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ゆるゆるまいくら/水無世燐央【アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=tmkwyPCfyBA
-DURATION:PT2H
-DTSTART:20220621T180000Z
-SUMMARY:水無世燐央: 【Minecraft】ゆるゆるまいくら/水無世燐央【アップロー/ホロスターズ】
-UID:tmkwyPCfyBA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Deeeer Simulator】ジャッカル、鹿になる【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=S1oiK3jV5zA
 DURATION:PT2H
 DTSTART:20220621T130000Z
@@ -116,13 +116,6 @@ SUMMARY:羽継烏有: 【 NEEDY GIRL OVERDOSE 】① 令和を照らす いん�
 UID:aa11NKcqELY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】雨を好きになりたいあなたへ/水無世燐央【アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=h8jjDMrkNZA
-DURATION:PT2H
-DTSTART:20220622T130000Z
-SUMMARY:水無世燐央: 【歌枠】雨を好きになりたいあなたへ/水無世燐央【アップロー/ホロスターズ】
-UID:h8jjDMrkNZA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【イラストメイキング】イオフィ先輩を描いてみる！Part②【緋崎ガンマ / アップロー / ホロスターズ / iofi / ホロライブID 】\nhttps://www.youtube.com/watch?v=dIGkhDR7Ns8
 DURATION:PT2H
 DTSTART:20220623T003000Z
@@ -130,10 +123,10 @@ SUMMARY:緋崎ガンマ: 【イラストメイキング】イオフィ先輩を�
 UID:dIGkhDR7Ns8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft 1.19】カエルを全種類集めておこう！あとはネザーを探検したい！ 【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=eHb4lK5i-H8
+DESCRIPTION:【歌枠】雨を好きになりたいあなたへ/水無世燐央【アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=h8jjDMrkNZA
 DURATION:PT2H
-DTSTART:20220620T150000Z
-SUMMARY:🍕アルランディス: 【Minecraft 1.19】カエルを全種類集めておこう！あとはネザーを探検したい！ 【アルランディス/ホロスターズ】
-UID:eHb4lK5i-H8
+DTSTART:20220622T130000Z
+SUMMARY:水無世燐央: 【歌枠】雨を好きになりたいあなたへ/水無世燐央【アップロー/ホロスターズ】
+UID:h8jjDMrkNZA
 END:VEVENT
 END:VCALENDAR
