@@ -53,11 +53,11 @@ SUMMARY:🎨Iofi: 【 Monster Hunter RISE Switch 】Hunting With  @黒瀬浩介 
 UID:ote5xEv0gTU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Sorry neighbor-san\, I'm going to play my drums.【Taiko no Tatsujin: Drum 'n' Fun!】\nhttps://www.youtube.com/watch?v=iANd9bYqVVs
+DESCRIPTION:濁雨 / ラプラス・ダークネス cover\nhttps://www.youtube.com/watch?v=OPu4poR35Dw
 DURATION:PT2H
-DTSTART:20220622T120005Z
-SUMMARY:Zeta: Sorry neighbor-san\, I'm going to play my drums.【Taiko no Tatsujin: Drum 'n' Fun!】
-UID:iANd9bYqVVs
+DTSTART:20220622T113000Z
+SUMMARY:ラプラス: 濁雨 / ラプラス・ダークネス cover
+UID:OPu4poR35Dw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RAFT】#11 finally new update!⛵ (part. 2) 【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=zo9YRsyfX9k
@@ -65,6 +65,13 @@ DURATION:PT2H
 DTSTART:20220622T013000Z
 SUMMARY:Kaela: 【RAFT】#11 finally new update!⛵ (part. 2) 【Kaela Kovalskia / hololive ID】
 UID:zo9YRsyfX9k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sorry neighbor-san\, I'm going to play my drums.【Taiko no Tatsujin: Drum 'n' Fun!】\nhttps://www.youtube.com/watch?v=iANd9bYqVVs
+DURATION:PT2H
+DTSTART:20220622T120005Z
+SUMMARY:Zeta: Sorry neighbor-san\, I'm going to play my drums.【Taiko no Tatsujin: Drum 'n' Fun!】
+UID:iANd9bYqVVs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【おじさんと遊ぼう】ええ…【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=Jb7d2zW0R8o
@@ -347,13 +354,6 @@ SUMMARY:🏴☠宝鐘マリン: 【#ホロシチュエーションAmongUs】白�
 UID:D26t1ZyZlzk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】雨を好きになりたいあなたへ/水無世燐央【アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=h8jjDMrkNZA
-DURATION:PT2H
-DTSTART:20220622T130000Z
-SUMMARY:水無世燐央: 【歌枠】雨を好きになりたいあなたへ/水無世燐央【アップロー/ホロスターズ】
-UID:h8jjDMrkNZA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【世界のアソビ大全51】はあちゃまが来た…！？様コラボしたいってどゆこと？！【常闇トワ&赤井はあと】\nhttps://www.youtube.com/watch?v=_gpLfRVigEo
 DURATION:PT2H
 DTSTART:20220622T130000Z
@@ -550,6 +550,13 @@ SUMMARY:🍕アルランディス: 【Minecraft 1.19】カエルランプトラ�
 UID:65ax9snZQzo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Cuphead】SOLO PRACTICE【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=GvMSEVj2OGk
+DURATION:PT2H
+DTSTART:20220622T040000Z
+SUMMARY:Reine: 【Cuphead】SOLO PRACTICE【Pavolia Reine/hololiveID 2nd gen】
+UID:GvMSEVj2OGk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ホロシチュエーションAmongUs】インポスターになって食べちゃうぞ♡【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=xt3GLpc8T6o
 DURATION:PT2H
 DTSTART:20220622T120000Z
@@ -592,11 +599,11 @@ SUMMARY:🏮夏色まつり: 【APEX LEGENDS】なんですかこのメンツは
 UID:VsibeR2iqcI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Cuphead】SOLO PRACTICE【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=GvMSEVj2OGk
+DESCRIPTION:【歌枠】雨を好きになりたいあなたへ/水無世燐央【アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=h8jjDMrkNZA
 DURATION:PT2H
-DTSTART:20220622T040000Z
-SUMMARY:Reine: 【Cuphead】SOLO PRACTICE【Pavolia Reine/hololiveID 2nd gen】
-UID:GvMSEVj2OGk
+DTSTART:20220622T130000Z
+SUMMARY:水無世燐央: 【歌枠】雨を好きになりたいあなたへ/水無世燐央【アップロー/ホロスターズ】
+UID:h8jjDMrkNZA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロシチュエーションAmongUs】ホロアモアス初参戦！【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=ZiWm3MtODQg
