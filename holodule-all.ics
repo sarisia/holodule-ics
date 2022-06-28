@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#ホロスタ3周年】3周年イベント感想会!!みんな感想聞かせて!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=APtJOCpgHWk
-DURATION:PT2H
-DTSTART:20220628T130000Z
-SUMMARY:🌺花咲みやび: 【#ホロスタ3周年】3周年イベント感想会!!みんな感想聞かせて!!【花咲みやび/ホロスターズ】
-UID:APtJOCpgHWk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 R-Type Dimension EX 】シューティングゲームやっちゃうぞ！なのら！【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=YcNa8qRKnLE
 DURATION:PT2H
 DTSTART:20220628T130000Z
@@ -18,11 +11,11 @@ SUMMARY:🍬姫森ルーナ: 【 R-Type Dimension EX 】シューティングゲ
 UID:YcNa8qRKnLE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【同時視聴】Nintendo Direct mini 一緒に観よ！！！【※ミラーではありません】\nhttps://www.youtube.com/watch?v=oDolU-MsX_I
+DESCRIPTION:【I'm on Observation Duty 5】THE APARTMENT【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=WGtuCMfTPt0
 DURATION:PT2H
-DTSTART:20220628T125000Z
-SUMMARY:🥐戌神ころね: 【同時視聴】Nintendo Direct mini 一緒に観よ！！！【※ミラーではありません】
-UID:oDolU-MsX_I
+DTSTART:20220628T120000Z
+SUMMARY:🌽白上フブキ: 【I'm on Observation Duty 5】THE APARTMENT【ホロライブ/白上フブキ】
+UID:WGtuCMfTPt0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Raft】アーニャちゃんと漂流生活！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=vPzZwDAf3w4
@@ -277,13 +270,6 @@ SUMMARY:🍬姫森ルーナ: 【 Raft 】深夜にヒソヒソまったりアッ
 UID:oyoU7YJcGo8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HoloCure】超話題のゲームがファンメイド！？初見ホロキュア！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=m0rpbbuFVUY
-DURATION:PT2H
-DTSTART:20220628T100000Z
-SUMMARY:💫天音かなた: 【HoloCure】超話題のゲームがファンメイド！？初見ホロキュア！！【天音かなた/ホロライブ】
-UID:m0rpbbuFVUY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 Minecraft 】カエルを連れて帰る、なんちゃって(笑)【 ホロライブ / 桃鈴ねね 】\nhttps://www.youtube.com/watch?v=SsDAWtidOL8
 DURATION:PT2H
 DTSTART:20220627T080000Z
@@ -310,6 +296,13 @@ DURATION:PT2H
 DTSTART:20220628T050000Z
 SUMMARY:🎭アステル・レダ: 【Youtubers Life 2】プンプンハローユーチューブ😡 /  Astel Leda
 UID:tu03-6KMSHo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Fall Guys】ガイザー２人によるクラウン強奪パーティ【#ボスチキン】\nhttps://www.youtube.com/watch?v=I7lnbubJCnU
+DURATION:PT2H
+DTSTART:20220628T120000Z
+SUMMARY:影山シエン: 【Fall Guys】ガイザー２人によるクラウン強奪パーティ【#ボスチキン】
+UID:I7lnbubJCnU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MHR】漫画家と漫画家とボスと幽霊がモンスターに挑む！ w/黒瀬浩介・影山シエン・緋崎ガンマ/水無世燐央【アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=3rDjwuRowD4
