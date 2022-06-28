@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Holocure】My Oshi Doko\nhttps://www.youtube.com/watch?v=rhCEubxY5sg
-DURATION:PT2H
-DTSTART:20220628T003000Z
-SUMMARY:Kronii: 【Holocure】My Oshi Doko
-UID:rhCEubxY5sg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Metroid Dread】May the breadtroid be with you\nhttps://www.youtube.com/watch?v=5VmLW97khC4
 DURATION:PT2H
 DTSTART:20220628T150000Z
 SUMMARY:Sana: 【Metroid Dread】May the breadtroid be with you
 UID:5VmLW97khC4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Holocure】My Oshi Doko\nhttps://www.youtube.com/watch?v=rhCEubxY5sg
+DURATION:PT2H
+DTSTART:20220628T003000Z
+SUMMARY:Kronii: 【Holocure】My Oshi Doko
+UID:rhCEubxY5sg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Miitopia】 Turning Myth Into Cursed Miis\nhttps://www.youtube.com/watch?v=ygSTyUkQjaE
@@ -30,26 +30,5 @@ DURATION:PT2H
 DTSTART:20220627T173000Z
 SUMMARY:Amelia: 【OFF COLLAB】AmeTori Quizzes & Chatting~
 UID:fqJXi79QnQY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[ORIGINAL SONG] Holy嫉妬 - Mori Calliope\nhttps://www.youtube.com/watch?v=krlr_ucg2YU
-DURATION:PT2H
-DTSTART:20220627T040000Z
-SUMMARY:Calli: [ORIGINAL SONG] Holy嫉妬 - Mori Calliope
-UID:krlr_ucg2YU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【NEW SONG PARTY】I'm Trapped in the Closet.\nhttps://www.youtube.com/watch?v=CQF46f6e9NY
-DURATION:PT2H
-DTSTART:20220627T031500Z
-SUMMARY:Calli: 【NEW SONG PARTY】I'm Trapped in the Closet.
-UID:CQF46f6e9NY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HOLOCURE】Come Watch Your Oshis Survive Or Die\nhttps://www.youtube.com/watch?v=c93zuvz12uU
-DURATION:PT2H
-DTSTART:20220627T013000Z
-SUMMARY:Mumei: 【HOLOCURE】Come Watch Your Oshis Survive Or Die
-UID:c93zuvz12uU
 END:VEVENT
 END:VCALENDAR
