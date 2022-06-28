@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Holocure】My Oshi Doko\nhttps://www.youtube.com/watch?v=rhCEubxY5sg
+DURATION:PT2H
+DTSTART:20220628T003000Z
+SUMMARY:Kronii: 【Holocure】My Oshi Doko
+UID:rhCEubxY5sg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Miitopia】 Turning Myth Into Cursed Miis\nhttps://www.youtube.com/watch?v=ygSTyUkQjaE
 DURATION:PT2H
 DTSTART:20220627T220000Z
