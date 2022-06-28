@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【unarchive】はげしくゆるいお歌/水無世燐央【アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=3Wuv9J0tipI
-DURATION:PT2H
-DTSTART:20220628T180000Z
-SUMMARY:水無世燐央: 【unarchive】はげしくゆるいお歌/水無世燐央【アップロー/ホロスターズ】
-UID:3Wuv9J0tipI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ホロスタ3周年】3周年イベント感想会!!みんな感想聞かせて!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=APtJOCpgHWk
 DURATION:PT2H
 DTSTART:20220628T130000Z
@@ -23,13 +16,6 @@ DURATION:PT2H
 DTSTART:20220628T130000Z
 SUMMARY:🍬姫森ルーナ: 【 R-Type Dimension EX 】ノーミスでクリア目指してみた！なのら！【#姫森ルーナ/ホロライブ】
 UID:YcNa8qRKnLE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HOLOMYTH】Together At Last.\nhttps://www.youtube.com/watch?v=n8hiq_IVZjs
-DURATION:PT2H
-DTSTART:20220629T010000Z
-SUMMARY:Calli: 【HOLOMYTH】Together At Last.
-UID:n8hiq_IVZjs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【おじさんと遊ぼう】おじさんと、おじさん。 /  Astel Leda\nhttps://www.youtube.com/watch?v=KINC6asn8vk
@@ -86,6 +72,13 @@ DURATION:PT2H
 DTSTART:20220628T133546Z
 SUMMARY:🍙猫又おかゆ: No one is here🥺【猫又おかゆ/ホロライブ】
 UID:h-bqYRzxROQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ranking Animals By Their Power Levels\nhttps://www.youtube.com/watch?v=qQKVfKahHQU
+DURATION:PT2H
+DTSTART:20220630T000000Z
+SUMMARY:Fauna: Ranking Animals By Their Power Levels
+UID:qQKVfKahHQU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】イベント振り返りTALK【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=hgez8-vPskw
@@ -361,11 +354,11 @@ SUMMARY:尾丸ポルカ: 【 モンスターハンターライズ:サンブレ�
 UID:XKdwI36p4pQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ranking Animals By Their Power Levels\nhttps://www.youtube.com/watch?v=qQKVfKahHQU
+DESCRIPTION:【HOLOMYTH】Together At Last.\nhttps://www.youtube.com/watch?v=n8hiq_IVZjs
 DURATION:PT2H
-DTSTART:20220629T000000Z
-SUMMARY:Fauna: Ranking Animals By Their Power Levels
-UID:qQKVfKahHQU
+DTSTART:20220629T010000Z
+SUMMARY:Calli: 【HOLOMYTH】Together At Last.
+UID:n8hiq_IVZjs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】KUREIJI KENSETSU: ROAD CONSTRUCTION【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=uELztrbWUbQ
