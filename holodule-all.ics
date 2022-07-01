@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:無言ランクの巻(・x・)\nhttps://www.youtube.com/watch?v=nuiO1LGaUUI
+DURATION:PT2H
+DTSTART:20220701T075653Z
+SUMMARY:🏮夏色まつり: 無言ランクの巻(・x・)
+UID:nuiO1LGaUUI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【HoloCure】FARM 4 GACHA & Free talk in this fanmade hololive game!【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=olAmtV1fDd0
 DURATION:PT2H
 DTSTART:20220630T163000Z
@@ -123,18 +130,18 @@ SUMMARY:🍬姫森ルーナ: 【 モンハンサンブレイク 】M★２狩猟
 UID:SBkwE3WxqcE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】HOLOTALL MINECRAFT【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=1U38BCdes8w
-DURATION:PT2H
-DTSTART:20220701T060000Z
-SUMMARY:Reine: 【Minecraft】HOLOTALL MINECRAFT【Pavolia Reine/hololiveID 2nd gen】
-UID:1U38BCdes8w
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 日清3DLIVE 】Palette/常闇トワ full covered by 桃鈴ねね【 ちらみせ  】\nhttps://www.youtube.com/watch?v=ODdak8_0DCs
 DURATION:PT2H
 DTSTART:20220630T120500Z
 SUMMARY:桃鈴ねね: 【 日清3DLIVE 】Palette/常闇トワ full covered by 桃鈴ねね【 ちらみせ  】
 UID:ODdak8_0DCs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MONSTER HUNTER RISE:SUNBREAK】サンブレイク狩猟解禁！★8でも通用しますか～！？【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=Y5nw-b2FC0o
+DURATION:PT2H
+DTSTART:20220701T090000Z
+SUMMARY:博衣こより: 【MONSTER HUNTER RISE:SUNBREAK】サンブレイク狩猟解禁！★8でも通用しますか～！？【博衣こより/ホロライブ】
+UID:Y5nw-b2FC0o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ZATSU】Today We Shall CHAT~\nhttps://www.youtube.com/watch?v=BTCy_B3g3KM
@@ -296,13 +303,6 @@ DURATION:PT2H
 DTSTART:20220630T140000Z
 SUMMARY:Kobo: 【DreadOut】candy man Part 2【Kobo Kanaeru / hololive ID】
 UID:2rdsfzxiU6c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】wandering around【Kaela x Reine / hololive ID】\nhttps://www.youtube.com/watch?v=ShEI71KNJSM
-DURATION:PT2H
-DTSTART:20220701T061500Z
-SUMMARY:Kaela: 【Minecraft】wandering around【Kaela x Reine / hololive ID】
-UID:ShEI71KNJSM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【カメラ枠】エボルヴ新弾開封するぞおおおお！！！！！【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=37RhRrvJxHw
