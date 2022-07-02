@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【I'm on Observation Duty 5】 Going Ghost with Fauna\nhttps://www.youtube.com/watch?v=yOQ97dAPCMg
-DURATION:PT2H
-DTSTART:20220701T023500Z
-SUMMARY:Mumei: 【I'm on Observation Duty 5】 Going Ghost with Fauna
-UID:yOQ97dAPCMg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CHITCHAT】BACK FROM USA LETS TALK ABOOT IT+ ANNOUNCEMENT  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=oSACbUz2hEU
-DURATION:PT2H
-DTSTART:20220630T154500Z
-SUMMARY:Kiara: 【CHITCHAT】BACK FROM USA LETS TALK ABOOT IT+ ANNOUNCEMENT  #kfp #キアライブ
-UID:oSACbUz2hEU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【English Cover】Animal by Takanashi Kiara & Pavolia Reine\nhttps://www.youtube.com/watch?v=KNBdITatp8Y
 DURATION:PT2H
 DTSTART:20220701T200000Z
@@ -32,34 +18,6 @@ SUMMARY:Sana: 【Minecraft】I've been bakin
 UID:x_WzFxemAZM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SKYRIM】 puts your soul in a gem\nhttps://www.youtube.com/watch?v=_I4I4qDPI9s
-DURATION:PT2H
-DTSTART:20220630T220000Z
-SUMMARY:Fauna: 【SKYRIM】 puts your soul in a gem
-UID:_I4I4qDPI9s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SMOL AME SHUFFLE\nhttps://www.youtube.com/watch?v=VmE_ujikl5w
-DURATION:PT2H
-DTSTART:20220701T025146Z
-SUMMARY:Amelia: SMOL AME SHUFFLE
-UID:VmE_ujikl5w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SUPERCHAT READING】and the award for the superchicken goes to... #kfp #キアライブ\nhttps://www.youtube.com/watch?v=XLowkpk5Hfg
-DURATION:PT2H
-DTSTART:20220701T140000Z
-SUMMARY:Kiara: 【SUPERCHAT READING】and the award for the superchicken goes to... #kfp #キアライブ
-UID:XLowkpk5Hfg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:I'm Back!!!!!!\nhttps://www.youtube.com/watch?v=HlGZfrFZuRs
-DURATION:PT2H
-DTSTART:20220701T210000Z
-SUMMARY:Ina: I'm Back!!!!!!
-UID:HlGZfrFZuRs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【OVERWATCH 2 BETA】 im not a towl\nhttps://www.youtube.com/watch?v=mEYmf1CW058
 DURATION:PT2H
 DTSTART:20220702T030500Z
@@ -72,5 +30,12 @@ DURATION:PT2H
 DTSTART:20220701T210000Z
 SUMMARY:Fauna: 【Kirby 64 ENDURANCE】 Playing Until I Beat the Game with BATSU WHEEL
 UID:foYdk4K2I6o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:I'm Back!!!!!!\nhttps://www.youtube.com/watch?v=HlGZfrFZuRs
+DURATION:PT2H
+DTSTART:20220701T210000Z
+SUMMARY:Ina: I'm Back!!!!!!
+UID:HlGZfrFZuRs
 END:VEVENT
 END:VCALENDAR
