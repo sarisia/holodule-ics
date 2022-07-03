@@ -4,18 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【DRAWING】SUMMER = SWIMSUITS\, CHANGE MY MIND【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=Wb2wHt0p2cg
+DESCRIPTION:【PEJUANG SENIN】#10 beautiful Monday ☀️【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=fOnNctrqcRI
 DURATION:PT2H
-DTSTART:20220703T083044Z
-SUMMARY:Ollie: 【DRAWING】SUMMER = SWIMSUITS\, CHANGE MY MIND【Hololive ID 2nd Generation】
-UID:Wb2wHt0p2cg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HoloCure】NEW OSHIS WHERE【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=vP-ZmqVppaQ
-DURATION:PT2H
-DTSTART:20220703T133000Z
-SUMMARY:Anya: 【HoloCure】NEW OSHIS WHERE【hololive Indonesia 2nd Generation】
-UID:vP-ZmqVppaQ
+DTSTART:20220703T230000Z
+SUMMARY:Kaela: 【PEJUANG SENIN】#10 beautiful Monday ☀️【Kaela's Monday Warrior】
+UID:fOnNctrqcRI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【League of Legends: Wild Rift】#16 ohohoho【ElaOnDuty】\nhttps://www.youtube.com/watch?v=00KhyrIdRDw
@@ -30,5 +23,19 @@ DURATION:PT2H
 DTSTART:20220703T120000Z
 SUMMARY:🐿Risu: 【PROPNIGHT BIG COLLAB】CILUK BA !!! w/ Zen\, Mika\, Siska\, Bobon【Ayunda Risu】
 UID:Ito-DTbwOqo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HoloCure】NEW OSHIS WHERE【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=vP-ZmqVppaQ
+DURATION:PT2H
+DTSTART:20220703T133000Z
+SUMMARY:Anya: 【HoloCure】NEW OSHIS WHERE【hololive Indonesia 2nd Generation】
+UID:vP-ZmqVppaQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DRAWING】SUMMER = SWIMSUITS\, CHANGE MY MIND【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=Wb2wHt0p2cg
+DURATION:PT2H
+DTSTART:20220703T083044Z
+SUMMARY:Ollie: 【DRAWING】SUMMER = SWIMSUITS\, CHANGE MY MIND【Hololive ID 2nd Generation】
+UID:Wb2wHt0p2cg
 END:VEVENT
 END:VCALENDAR
