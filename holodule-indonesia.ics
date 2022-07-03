@@ -4,27 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【League of Legends: Wild Rift】#16 ohohoho【ElaOnDuty】\nhttps://www.youtube.com/watch?v=00KhyrIdRDw
-DURATION:PT2H
-DTSTART:20220703T051500Z
-SUMMARY:Kaela: 【League of Legends: Wild Rift】#16 ohohoho【ElaOnDuty】
-UID:00KhyrIdRDw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PROPNIGHT BIG COLLAB】CILUK BA !!! w/ Zen\, Mika\, Siska\, Bobon【Ayunda Risu】\nhttps://www.youtube.com/watch?v=Ito-DTbwOqo
-DURATION:PT2H
-DTSTART:20220703T120000Z
-SUMMARY:🐿Risu: 【PROPNIGHT BIG COLLAB】CILUK BA !!! w/ Zen\, Mika\, Siska\, Bobon【Ayunda Risu】
-UID:Ito-DTbwOqo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HoloCure】NEW OSHIS WHERE【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=vP-ZmqVppaQ
-DURATION:PT2H
-DTSTART:20220703T133000Z
-SUMMARY:Anya: 【HoloCure】NEW OSHIS WHERE【hololive Indonesia 2nd Generation】
-UID:vP-ZmqVppaQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【UNARCHIVED KARAOKE】toilet【Kobo Kanaeru】\nhttps://www.youtube.com/watch?v=tXce9tjPwtY
 DURATION:PT2H
 DTSTART:20220703T130000Z
@@ -37,5 +16,19 @@ DURATION:PT2H
 DTSTART:20220703T083044Z
 SUMMARY:Ollie: 【DRAWING】SUMMER = SWIMSUITS\, CHANGE MY MIND【Hololive ID 2nd Generation】
 UID:Wb2wHt0p2cg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【League of Legends: Wild Rift】#16 ohohoho【ElaOnDuty】\nhttps://www.youtube.com/watch?v=00KhyrIdRDw
+DURATION:PT2H
+DTSTART:20220703T051500Z
+SUMMARY:Kaela: 【League of Legends: Wild Rift】#16 ohohoho【ElaOnDuty】
+UID:00KhyrIdRDw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HoloCure】NEW OSHIS WHERE【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=vP-ZmqVppaQ
+DURATION:PT2H
+DTSTART:20220703T133000Z
+SUMMARY:Anya: 【HoloCure】NEW OSHIS WHERE【hololive Indonesia 2nd Generation】
+UID:vP-ZmqVppaQ
 END:VEVENT
 END:VCALENDAR
