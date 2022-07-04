@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【HoloCure】#2 gacha for lyfe【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=TRRKAXMmbIU
+DURATION:PT2H
+DTSTART:20220704T005000Z
+SUMMARY:Kaela: 【HoloCure】#2 gacha for lyfe【Kaela Kovalskia / hololive ID】
+UID:TRRKAXMmbIU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【PEJUANG SENIN】#10 beautiful Monday ☀️【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=fOnNctrqcRI
 DURATION:PT2H
 DTSTART:20220703T230000Z
 SUMMARY:Kaela: 【PEJUANG SENIN】#10 beautiful Monday ☀️【Kaela's Monday Warrior】
 UID:fOnNctrqcRI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Senin Produktif 】LETS MAKE NEW THEME LIST?! LET'S GO【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=7yGk404a8WA
+DURATION:PT2H
+DTSTART:20220704T120000Z
+SUMMARY:🎨Iofi: 【 Senin Produktif 】LETS MAKE NEW THEME LIST?! LET'S GO【 iofi / ホロライブ 】
+UID:7yGk404a8WA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SUPER MARIO PARTY SUPERSTARS】FAMILY BONDING TIME!!... OR NOT • 兄妹で遊んでいる！！とか、口げんか？！【HoloID 2nd Gen】\nhttps://www.youtube.com/watch?v=TzIbtYryrks
@@ -18,17 +32,10 @@ SUMMARY:Ollie: 【SUPER MARIO PARTY SUPERSTARS】FAMILY BONDING TIME!!... OR NOT
 UID:TzIbtYryrks
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HoloCure】#2 gacha for lyfe【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=TRRKAXMmbIU
+DESCRIPTION:【Yakiniku Simulation】A Secret Meat-ing at Midnight... SPICY【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=Mzh69b8jL7M
 DURATION:PT2H
-DTSTART:20220704T005000Z
-SUMMARY:Kaela: 【HoloCure】#2 gacha for lyfe【Kaela Kovalskia / hololive ID】
-UID:TRRKAXMmbIU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Senin Produktif 】LETS MAKE NEW THEME LIST?! LET'S GO【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=7yGk404a8WA
-DURATION:PT2H
-DTSTART:20220704T120000Z
-SUMMARY:🎨Iofi: 【 Senin Produktif 】LETS MAKE NEW THEME LIST?! LET'S GO【 iofi / ホロライブ 】
-UID:7yGk404a8WA
+DTSTART:20220704T170000Z
+SUMMARY:Reine: 【Yakiniku Simulation】A Secret Meat-ing at Midnight... SPICY【Pavolia Reine/hololiveID 2nd gen】
+UID:Mzh69b8jL7M
 END:VEVENT
 END:VCALENDAR
