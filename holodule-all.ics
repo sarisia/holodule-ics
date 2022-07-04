@@ -32,18 +32,18 @@ SUMMARY:🍙猫又おかゆ: 【スーパーペーパーマリオ】ピュアハ
 UID:pm6qb1UOiXo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Monster Hunter Rise】リオレウス、まさかの初見【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=YHaIAvN-0KA
-DURATION:PT2H
-DTSTART:20220703T053000Z
-SUMMARY:🦔💨岸堂天真: 【Monster Hunter Rise】リオレウス、まさかの初見【岸堂天真/ホロスターズ】
-UID:YHaIAvN-0KA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】最近のお話したりする～【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=3RVKxDTSWWA
 DURATION:PT2H
 DTSTART:20220704T130000Z
 SUMMARY:🐻ときのそら: 【雑談】最近のお話したりする～【#ときのそら生放送】
 UID:3RVKxDTSWWA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Monster Hunter Rise】リオレウス、まさかの初見【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=YHaIAvN-0KA
+DURATION:PT2H
+DTSTART:20220703T053000Z
+SUMMARY:🦔💨岸堂天真: 【Monster Hunter Rise】リオレウス、まさかの初見【岸堂天真/ホロスターズ】
+UID:YHaIAvN-0KA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARK Fjordur】新MAPがきたぞ！どんなとこだってんだ！？【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=rAouD-XZ72A
@@ -81,18 +81,18 @@ SUMMARY:🐿Risu: 【PROPNIGHT BIG COLLAB】CILUK BA !!! w/ Zen\, Mika\, Siska\,
 UID:Ito-DTbwOqo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】第８８回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=ibFZKRlobVo
-DURATION:PT2H
-DTSTART:20220703T140000Z
-SUMMARY:🐏角巻わため: 【歌枠】第８８回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】
-UID:ibFZKRlobVo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【花岸れいでぃお】気合のトークを朝から披露するぞ！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=ZghSUQq5VlA
 DURATION:PT2H
 DTSTART:20220703T220000Z
 SUMMARY:🦔💨岸堂天真: 【花岸れいでぃお】気合のトークを朝から披露するぞ！！【岸堂天真/ホロスターズ】
 UID:ZghSUQq5VlA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】第８８回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=ibFZKRlobVo
+DURATION:PT2H
+DTSTART:20220703T140000Z
+SUMMARY:🐏角巻わため: 【歌枠】第８８回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】
+UID:ibFZKRlobVo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MONSTER HUNTER RISE:SUNBREAK】マスターランク２いくぞー！【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=W2k4bu-FEiw
@@ -137,18 +137,18 @@ SUMMARY:Kiara: 【TLOZ: The Wind Waker HD FINALE】Ganondorf is going DOWN. #kfp
 UID:izGAAYZ2yHY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【晩酌コラボ】オフコラボで飲むぞ！！一体どうなっちゃうの…！？【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=y3_rUXQRwpY
-DURATION:PT2H
-DTSTART:20220703T130000Z
-SUMMARY:🌙紫咲シオン: 【晩酌コラボ】オフコラボで飲むぞ！！一体どうなっちゃうの…！？【ホロライブ/紫咲シオン】
-UID:y3_rUXQRwpY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】初めての一人暮らし始めました!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=soLobFAOkIc
 DURATION:PT2H
 DTSTART:20220703T130000Z
 SUMMARY:🌺花咲みやび: 【雑談】初めての一人暮らし始めました!!【花咲みやび/ホロスターズ】
 UID:soLobFAOkIc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft1.19】さぁさぁ今日もハーフブロックを敷き詰める時間ですよ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=WfCm5zciz7M
+DURATION:PT2H
+DTSTART:20220703T143000Z
+SUMMARY:🍕アルランディス: 【Minecraft1.19】さぁさぁ今日もハーフブロックを敷き詰める時間ですよ【アルランディス/ホロスターズ】
+UID:WfCm5zciz7M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【3D LIVE】#AZKi生誕祭2022 【ゲスト：ときのそら / 星街すいせい】\nhttps://www.youtube.com/watch?v=y3Ed1eCwuOA
@@ -158,11 +158,18 @@ SUMMARY:⚒AZKi: 【3D LIVE】#AZKi生誕祭2022 【ゲスト：ときのそら 
 UID:y3Ed1eCwuOA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft1.19】さぁさぁ今日もハーフブロックを敷き詰める時間ですよ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=WfCm5zciz7M
+DESCRIPTION:【晩酌コラボ】オフコラボで飲むぞ！！一体どうなっちゃうの…！？【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=y3_rUXQRwpY
 DURATION:PT2H
-DTSTART:20220703T143000Z
-SUMMARY:🍕アルランディス: 【Minecraft1.19】さぁさぁ今日もハーフブロックを敷き詰める時間ですよ【アルランディス/ホロスターズ】
-UID:WfCm5zciz7M
+DTSTART:20220703T130000Z
+SUMMARY:🌙紫咲シオン: 【晩酌コラボ】オフコラボで飲むぞ！！一体どうなっちゃうの…！？【ホロライブ/紫咲シオン】
+UID:y3_rUXQRwpY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 ARK 】景観のいい家でまったり長く暮らすのんびりライフ🌸【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=m27aoRYMlCI
+DURATION:PT2H
+DTSTART:20220704T100000Z
+SUMMARY:桃鈴ねね: 【 ARK 】景観のいい家でまったり長く暮らすのんびりライフ🌸【 桃鈴ねね / ホロライブ 】
+UID:m27aoRYMlCI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】地下探索して新バイオーム探したいでござる🔥【風真いろは/ホロライブ6期生】\nhttps://www.youtube.com/watch?v=i-6CVZ68YBc
@@ -340,6 +347,13 @@ SUMMARY:獅白ぼたん: 【HoloCure】30分目指してIKZ【獅白ぼたん/�
 UID:Tfklxi5pM6A
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#朝こよ】エモ発掘！火曜日の朝は朝こよ～！！ #62【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=CNWakvk2bB8
+DURATION:PT2H
+DTSTART:20220704T220000Z
+SUMMARY:博衣こより: 【#朝こよ】エモ発掘！火曜日の朝は朝こよ～！！ #62【博衣こより/ホロライブ】
+UID:CNWakvk2bB8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Monster Hunter Rise: Sunbreak】 DANGO HUNTER IS BACK\nhttps://www.youtube.com/watch?v=C4Uzlfa9bds
 DURATION:PT2H
 DTSTART:20220703T210000Z
@@ -410,10 +424,10 @@ SUMMARY:🍕アルランディス: 【モンスターハンターライズ:サ�
 UID:YEGLDXQv-AI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】お昼のランク配信\nhttps://www.youtube.com/watch?v=x3S7pv_cFgo
+DESCRIPTION:【APEX】お昼のランク配信　w/奏手イヅルさん 律可さん\nhttps://www.youtube.com/watch?v=x3S7pv_cFgo
 DURATION:PT2H
 DTSTART:20220704T050000Z
-SUMMARY:夜十神封魔: 【APEX】お昼のランク配信
+SUMMARY:夜十神封魔: 【APEX】お昼のランク配信　w/奏手イヅルさん 律可さん
 UID:x3S7pv_cFgo
 END:VEVENT
 BEGIN:VEVENT
