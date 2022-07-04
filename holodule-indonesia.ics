@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【HoloCure】#2 gacha for lyfe【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=TRRKAXMmbIU
-DURATION:PT2H
-DTSTART:20220704T005000Z
-SUMMARY:Kaela: 【HoloCure】#2 gacha for lyfe【Kaela Kovalskia / hololive ID】
-UID:TRRKAXMmbIU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【PEJUANG SENIN】#10 beautiful Monday ☀️【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=fOnNctrqcRI
 DURATION:PT2H
 DTSTART:20220703T230000Z
@@ -18,18 +11,11 @@ SUMMARY:Kaela: 【PEJUANG SENIN】#10 beautiful Monday ☀️【Kaela's Monday W
 UID:fOnNctrqcRI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Senin Produktif 】LETS MAKE NEW THEME LIST?! LET'S GO【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=7yGk404a8WA
+DESCRIPTION:【HoloCure】#2 gacha for lyfe【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=TRRKAXMmbIU
 DURATION:PT2H
-DTSTART:20220704T120000Z
-SUMMARY:🎨Iofi: 【 Senin Produktif 】LETS MAKE NEW THEME LIST?! LET'S GO【 iofi / ホロライブ 】
-UID:7yGk404a8WA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SUPER MARIO PARTY SUPERSTARS】FAMILY BONDING TIME!!... OR NOT • 兄妹で遊んでいる！！とか、口げんか？！【HoloID 2nd Gen】\nhttps://www.youtube.com/watch?v=TzIbtYryrks
-DURATION:PT2H
-DTSTART:20220705T110000Z
-SUMMARY:Ollie: 【SUPER MARIO PARTY SUPERSTARS】FAMILY BONDING TIME!!... OR NOT • 兄妹で遊んでいる！！とか、口げんか？！【HoloID 2nd Gen】
-UID:TzIbtYryrks
+DTSTART:20220704T005000Z
+SUMMARY:Kaela: 【HoloCure】#2 gacha for lyfe【Kaela Kovalskia / hololive ID】
+UID:TRRKAXMmbIU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#MoonUtau】Singing in the middle of the night after kerokan【Unarchive】\nhttps://www.youtube.com/watch?v=ynJ7GwxIna8
@@ -37,5 +23,12 @@ DURATION:PT2H
 DTSTART:20220704T160000Z
 SUMMARY:🔮Moona: 【#MoonUtau】Singing in the middle of the night after kerokan【Unarchive】
 UID:ynJ7GwxIna8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SUPER MARIO PARTY SUPERSTARS】FAMILY BONDING TIME!!... OR NOT • 兄妹で遊んでいる！！とか、口げんか？！【HoloID 2nd Gen】\nhttps://www.youtube.com/watch?v=TzIbtYryrks
+DURATION:PT2H
+DTSTART:20220705T110000Z
+SUMMARY:Ollie: 【SUPER MARIO PARTY SUPERSTARS】FAMILY BONDING TIME!!... OR NOT • 兄妹で遊んでいる！！とか、口げんか？！【HoloID 2nd Gen】
+UID:TzIbtYryrks
 END:VEVENT
 END:VCALENDAR
