@@ -11,13 +11,6 @@ SUMMARY:🔮Moona: 【We were here forever】Stuck with risu\,forever.【GeeMoon
 UID:kPZfJpxIms4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【holoID】We Were Here Forever with @Moona Hoshinova hololive-ID 【Ayunda Risu】\nhttps://www.youtube.com/watch?v=Aj6FmSXWaCM
-DURATION:PT2H
-DTSTART:20220706T130000Z
-SUMMARY:🐿Risu: 【holoID】We Were Here Forever with @Moona Hoshinova hololive-ID 【Ayunda Risu】
-UID:Aj6FmSXWaCM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#3【Cuphead】MMMMMMM I LOVE PAIN【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=Mm58fkEjXCY
 DURATION:PT2H
 DTSTART:20220706T040000Z
@@ -25,11 +18,18 @@ SUMMARY:Reine: #3【Cuphead】MMMMMMM I LOVE PAIN【Pavolia Reine/hololiveID 2nd
 UID:Mm58fkEjXCY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Late Night Building\, Mari Bangun Fujiki + iofi di ID server!【イオフィ/ホロライブID】\nhttps://www.youtube.com/watch?v=rv-xjntZ258
+DESCRIPTION:【Visage】KOBO PENAKLUK ATAU PENAKUT ??【Kobo Kanaeru / hololive ID】\nhttps://www.youtube.com/watch?v=gfUTTMDtlXY
 DURATION:PT2H
 DTSTART:20220706T140000Z
-SUMMARY:🎨Iofi: 【Minecraft】Late Night Building\, Mari Bangun Fujiki + iofi di ID server!【イオフィ/ホロライブID】
-UID:rv-xjntZ258
+SUMMARY:Kobo: 【Visage】KOBO PENAKLUK ATAU PENAKUT ??【Kobo Kanaeru / hololive ID】
+UID:gfUTTMDtlXY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VALORANT】serious play\, I wanna learn 【Kobo Kanaeru / Hololive Indonesia 3rd Gen】\nhttps://www.youtube.com/watch?v=h-Ajz4csVZc
+DURATION:PT2H
+DTSTART:20220706T160500Z
+SUMMARY:Kobo: 【VALORANT】serious play\, I wanna learn 【Kobo Kanaeru / Hololive Indonesia 3rd Gen】
+UID:h-Ajz4csVZc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Cuphead】janji ga gila【Kobo Kanaeru / Hololive Indonesia 3rd Gen】\nhttps://www.youtube.com/watch?v=NkThKIyS24o
@@ -51,5 +51,19 @@ DURATION:PT2H
 DTSTART:20220706T082940Z
 SUMMARY:Ollie: 【APEX LEGENDS】TRAINING FOR TZ CUP: DAY 1【Hololive Indonesia 2nd Gen】
 UID:NkNcMfv4FjA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Late Night Building\, Mari Bangun Fujiki + iofi di ID server!【イオフィ/ホロライブID】\nhttps://www.youtube.com/watch?v=rv-xjntZ258
+DURATION:PT2H
+DTSTART:20220706T140000Z
+SUMMARY:🎨Iofi: 【Minecraft】Late Night Building\, Mari Bangun Fujiki + iofi di ID server!【イオフィ/ホロライブID】
+UID:rv-xjntZ258
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【holoID】We Were Here Forever with @Moona Hoshinova hololive-ID 【Ayunda Risu】\nhttps://www.youtube.com/watch?v=Aj6FmSXWaCM
+DURATION:PT2H
+DTSTART:20220706T130000Z
+SUMMARY:🐿Risu: 【holoID】We Were Here Forever with @Moona Hoshinova hololive-ID 【Ayunda Risu】
+UID:Aj6FmSXWaCM
 END:VEVENT
 END:VCALENDAR
