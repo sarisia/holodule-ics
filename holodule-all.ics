@@ -18,20 +18,6 @@ SUMMARY:Ina: 【Peglin】 Luck Is a Skill...?
 UID:zgJI1dK4NE0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HoloCure】クリアします。【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=-Qb9q1fAWFM
-DURATION:PT2H
-DTSTART:20220705T110000Z
-SUMMARY:🏴☠宝鐘マリン: 【HoloCure】クリアします。【ホロライブ/宝鐘マリン】
-UID:-Qb9q1fAWFM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Dorfromantik】ここをキャンプ地とする！パズル村づくりゲーム【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=TUK__xAMor0
-DURATION:PT2H
-DTSTART:20220705T120000Z
-SUMMARY:獅白ぼたん: 【Dorfromantik】ここをキャンプ地とする！パズル村づくりゲーム【獅白ぼたん/ホロライブ】
-UID:TUK__xAMor0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#11【TGAA 2: Resolve】WE'RE AT THE FINAL ※SPOILER ALERT【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=TuEw7dOQcgU
 DURATION:PT2H
 DTSTART:20220705T130000Z
@@ -39,11 +25,25 @@ SUMMARY:Reine: #11【TGAA 2: Resolve】WE'RE AT THE FINAL ※SPOILER ALERT【Pav
 UID:TuEw7dOQcgU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【HoloCure】クリアします。【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=-Qb9q1fAWFM
+DURATION:PT2H
+DTSTART:20220705T110000Z
+SUMMARY:🏴☠宝鐘マリン: 【HoloCure】クリアします。【ホロライブ/宝鐘マリン】
+UID:-Qb9q1fAWFM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MONSTER HUNTER RISE：SUNBREAK】今度こそ元気に耕すぞ！！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=UEV8H0LoelQ
 DURATION:PT2H
 DTSTART:20220706T130000Z
 SUMMARY:⚔白銀ノエル: 【MONSTER HUNTER RISE：SUNBREAK】今度こそ元気に耕すぞ！！【白銀ノエル/ホロライブ】
 UID:UEV8H0LoelQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Dorfromantik】ここをキャンプ地とする！パズル村づくりゲーム【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=TUK__xAMor0
+DURATION:PT2H
+DTSTART:20220705T120000Z
+SUMMARY:獅白ぼたん: 【Dorfromantik】ここをキャンプ地とする！パズル村づくりゲーム【獅白ぼたん/ホロライブ】
+UID:TUK__xAMor0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MHR:SUNBREAK】コラボの振り返りしながらサンブレイクをあそぶ！！/水無世燐央【アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=lEJl5YfLqVM
@@ -191,6 +191,13 @@ DURATION:PT2H
 DTSTART:20220705T120827Z
 SUMMARY:風真いろは: Color of Drops- 40mp / Covered 風真いろは
 UID:ANRmj96j1ew
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 はいしんよてち！ 】みこ畜【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=TOZYwji3_7o
+DURATION:PT2H
+DTSTART:20220706T140000Z
+SUMMARY:🌸さくらみこ: 【 はいしんよてち！ 】みこ畜【ホロライブ/さくらみこ】
+UID:TOZYwji3_7o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Chat】Tadaima!! story time!\nhttps://www.youtube.com/watch?v=k_skfzMMyso
@@ -466,18 +473,18 @@ SUMMARY:尾丸ポルカ: 【モンスターハンターライズ:サンブレイ
 UID:dTx5rRSZPes
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【料理】幻のスイーツ「三不粘（サンプーチャン）」を作るで！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=Zk8L5ONGoNk
-DURATION:PT2H
-DTSTART:20220705T130000Z
-SUMMARY:👯兎田ぺこら: 【料理】幻のスイーツ「三不粘（サンプーチャン）」を作るで！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:Zk8L5ONGoNk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【リズム天国】ノリノリの猫だYeah…😽👍🎶 【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=-GWXMY7G0Jw
 DURATION:PT2H
 DTSTART:20220706T100000Z
 SUMMARY:🍙猫又おかゆ: 【リズム天国】ノリノリの猫だYeah…😽👍🎶 【猫又おかゆ/ホロライブ】
 UID:-GWXMY7G0Jw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【料理】幻のスイーツ「三不粘（サンプーチャン）」を作るで！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=Zk8L5ONGoNk
+DURATION:PT2H
+DTSTART:20220705T130000Z
+SUMMARY:👯兎田ぺこら: 【料理】幻のスイーツ「三不粘（サンプーチャン）」を作るで！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:Zk8L5ONGoNk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Sign収録】そらのとき(Short ver.)MV【ときのそらオリジナル楽曲】\nhttps://www.youtube.com/watch?v=z9XrUUek01c
