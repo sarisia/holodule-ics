@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【HOLOCURE】JUMPIN' on this Train\, CHOO ChoO\nhttps://www.youtube.com/watch?v=zDGVtItJZiA
+DURATION:PT2H
+DTSTART:20220707T030000Z
+SUMMARY:Amelia: 【HOLOCURE】JUMPIN' on this Train\, CHOO ChoO
+UID:zDGVtItJZiA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#Kiara3DBirbday COUNTDOWN DAY 3\nhttps://www.youtube.com/watch?v=hom5OIDSvUQ
 DURATION:PT2H
 DTSTART:20220705T214348Z
@@ -39,17 +46,10 @@ SUMMARY:Kiara: 【#Kiara3DBirbday】DANCING TILL DAWN! 3D Birthday Concert!✨�
 UID:W0lICCjnuDs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HOLOCURE】JUMPIN' on this Train\, CHOO ChoO\nhttps://www.youtube.com/watch?v=zDGVtItJZiA
-DURATION:PT2H
-DTSTART:20220707T030000Z
-SUMMARY:Amelia: 【HOLOCURE】JUMPIN' on this Train\, CHOO ChoO
-UID:zDGVtItJZiA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Find Frog Yes\nhttps://www.youtube.com/watch?v=2Gu1RLtLRQw
+DESCRIPTION:【HOLOCURE】Save All Those Mother F-Words.\nhttps://www.youtube.com/watch?v=MNYKAkTVOQk
 DURATION:PT2H
 DTSTART:20220706T210000Z
-SUMMARY:Ina: 【Minecraft】Find Frog Yes
-UID:2Gu1RLtLRQw
+SUMMARY:Calli: 【HOLOCURE】Save All Those Mother F-Words.
+UID:MNYKAkTVOQk
 END:VEVENT
 END:VCALENDAR
