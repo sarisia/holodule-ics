@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Supareading】Supadonoreading and Some Chatting!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=uV0a6tCa8SI
-DURATION:PT2H
-DTSTART:20220707T133000Z
-SUMMARY:Anya: 【Supareading】Supadonoreading and Some Chatting!【hololive Indonesia 2nd Generation】
-UID:uV0a6tCa8SI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Ghostwire: Tokyo】KOBO SANG DUKUN HUJAN RILL 100% MENJELAJAHI TOKYO ??【Kobo Kanaeru】\nhttps://www.youtube.com/watch?v=6bEjOKWLpOM
 DURATION:PT2H
 DTSTART:20220707T120000Z
@@ -18,25 +11,25 @@ SUMMARY:Kobo: 【Ghostwire: Tokyo】KOBO SANG DUKUN HUJAN RILL 100% MENJELAJAHI 
 UID:6bEjOKWLpOM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Shotgun King: The Final Checkmate】how far can i go? ♟️🔫【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=cJBhdFLCyKQ
-DURATION:PT2H
-DTSTART:20220707T060000Z
-SUMMARY:Kaela: 【Shotgun King: The Final Checkmate】how far can i go? ♟️🔫【Kaela Kovalskia / hololive ID】
-UID:cJBhdFLCyKQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 KARAOKE 】July Karaoke~! SSR KARAOKE STREAM【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=mXYIY1N8HHY
-DURATION:PT2H
-DTSTART:20220707T140000Z
-SUMMARY:🎨Iofi: 【 KARAOKE 】July Karaoke~! SSR KARAOKE STREAM【 iofi / ホロライブ 】
-UID:mXYIY1N8HHY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】underground\, IKZ!【Kaela x Moona / hololive ID】\nhttps://www.youtube.com/watch?v=ELW37nfDjpI
 DURATION:PT2H
 DTSTART:20220707T130000Z
 SUMMARY:Kaela: 【Minecraft】underground\, IKZ!【Kaela x Moona / hololive ID】
 UID:ELW37nfDjpI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RAT SIMULATOR】KOBO JADI TIKUS TAMBAH KECIL【Kobo Kanaeru / Hololive Indonesia 3rd Gen】\nhttps://www.youtube.com/watch?v=YA4-LdQ25oU
+DURATION:PT2H
+DTSTART:20220707T063000Z
+SUMMARY:Kobo: 【RAT SIMULATOR】KOBO JADI TIKUS TAMBAH KECIL【Kobo Kanaeru / Hololive Indonesia 3rd Gen】
+UID:YA4-LdQ25oU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Shotgun King: The Final Checkmate】how far can i go? ♟️🔫【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=cJBhdFLCyKQ
+DURATION:PT2H
+DTSTART:20220707T060000Z
+SUMMARY:Kaela: 【Shotgun King: The Final Checkmate】how far can i go? ♟️🔫【Kaela Kovalskia / hololive ID】
+UID:cJBhdFLCyKQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】 Huh? Adventure with @Kaela Kovalskia Ch. hololive-ID ?【GeeMoon】\nhttps://www.youtube.com/watch?v=Fe3C-oWfajI
@@ -53,10 +46,10 @@ SUMMARY:Ollie: 【APEX LEGENDS】TRAINING FOR TZ CUP: DAY 2【Hololive Indonesia
 UID:dyIgWPTRwMk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RAT SIMULATOR】KOBO JADI TIKUS TAMBAH KECIL【Kobo Kanaeru / Hololive Indonesia 3rd Gen】\nhttps://www.youtube.com/watch?v=YA4-LdQ25oU
+DESCRIPTION:【 KARAOKE 】July Karaoke~! SSR KARAOKE STREAM【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=mXYIY1N8HHY
 DURATION:PT2H
-DTSTART:20220707T063000Z
-SUMMARY:Kobo: 【RAT SIMULATOR】KOBO JADI TIKUS TAMBAH KECIL【Kobo Kanaeru / Hololive Indonesia 3rd Gen】
-UID:YA4-LdQ25oU
+DTSTART:20220707T140000Z
+SUMMARY:🎨Iofi: 【 KARAOKE 】July Karaoke~! SSR KARAOKE STREAM【 iofi / ホロライブ 】
+UID:mXYIY1N8HHY
 END:VEVENT
 END:VCALENDAR
