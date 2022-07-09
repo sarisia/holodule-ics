@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【雑談】作業の合間に聞けるまったり雑談…お土産話やくだらん話沢山したい【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=6FKc5MZl0lM
-DURATION:PT2H
-DTSTART:20220708T090000Z
-SUMMARY:鷹嶺ルイ: 【雑談】作業の合間に聞けるまったり雑談…お土産話やくだらん話沢山したい【鷹嶺ルイ/ホロライブ】
-UID:6FKc5MZl0lM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【RECAP AND SC's】AAAAAAAAAH✨✨ #kfp  #キアライブ\nhttps://www.youtube.com/watch?v=SWZo6DK86Ko
 DURATION:PT2H
 DTSTART:20220708T151500Z
 SUMMARY:Kiara: 【RECAP AND SC's】AAAAAAAAAH✨✨ #kfp  #キアライブ
 UID:SWZo6DK86Ko
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】作業の合間に聞けるまったり雑談…お土産話やくだらん話沢山したい【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=6FKc5MZl0lM
+DURATION:PT2H
+DTSTART:20220708T090000Z
+SUMMARY:鷹嶺ルイ: 【雑談】作業の合間に聞けるまったり雑談…お土産話やくだらん話沢山したい【鷹嶺ルイ/ホロライブ】
+UID:6FKc5MZl0lM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【モンスターハンターライズ】サンブレイクするために初心者ハンターよ強くなれ！！【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=9zB_7S1iMWo
@@ -116,6 +116,13 @@ SUMMARY:🚑大空スバル: 【#生スバル】STEINS\;GATE同時視聴会し�
 UID:yyz1iq3cQOU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:はいしんよてい～～～！！サ、サマ～？【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=HLJyyGFIWpE
+DURATION:PT2H
+DTSTART:20220709T140000Z
+SUMMARY:🌙紫咲シオン: はいしんよてい～～～！！サ、サマ～？【ホロライブ/紫咲シオン】
+UID:HLJyyGFIWpE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【第3走者・夏色まつり】1期生Live2Dver3.0お披露目リレー【ホロライブ/hololive】\nhttps://www.youtube.com/watch?v=KiFOcZA6QvQ
 DURATION:PT2H
 DTSTART:20220709T112000Z
@@ -144,6 +151,13 @@ SUMMARY:博衣こより: 【MONSTER HUNTER RISE:SUNBREAK】敵が強くなって
 UID:rOP_9fXleoo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Vampire Survivors】リミットブレイクとラスボス（？）が追加されたらしい【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=YYCXIGp2FJ4
+DURATION:PT2H
+DTSTART:20220709T120000Z
+SUMMARY:獅白ぼたん: 【Vampire Survivors】リミットブレイクとラスボス（？）が追加されたらしい【獅白ぼたん/ホロライブ】
+UID:YYCXIGp2FJ4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【PowerWash】 Clean n' Chill with  @Pavolia Reine Ch. hololive-ID  【GeeMoon】\nhttps://www.youtube.com/watch?v=avWF0nouZtY
 DURATION:PT2H
 DTSTART:20220708T130000Z
@@ -151,11 +165,11 @@ SUMMARY:🔮Moona: 【PowerWash】 Clean n' Chill with  @Pavolia Reine Ch. holol
 UID:avWF0nouZtY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Vampire Survivors】リミットブレイクとラスボス（？）が追加されたらしい【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=YYCXIGp2FJ4
+DESCRIPTION:なにかすえる\nhttps://www.youtube.com/watch?v=o2AjcOkXH8U
 DURATION:PT2H
-DTSTART:20220709T120000Z
-SUMMARY:獅白ぼたん: 【Vampire Survivors】リミットブレイクとラスボス（？）が追加されたらしい【獅白ぼたん/ホロライブ】
-UID:YYCXIGp2FJ4
+DTSTART:20220709T130000Z
+SUMMARY:🥐戌神ころね: なにかすえる
+UID:o2AjcOkXH8U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:最近のマリン【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=SLnwqxgNlcY
@@ -193,18 +207,18 @@ SUMMARY:⚔白銀ノエル: 最終回？【ドラクエ8】脳筋女騎士、世
 UID:3EzwvEjxjLw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX LEGENDS】TRAINING FOR TZ CUP: DAY 3【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=fTRGknlO8TU
-DURATION:PT2H
-DTSTART:20220708T083002Z
-SUMMARY:Ollie: 【APEX LEGENDS】TRAINING FOR TZ CUP: DAY 3【Hololive ID 2nd Gen】
-UID:fTRGknlO8TU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【NEW YABE】yes I will eat eggs on stream and talk to you【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=oCjp_oFcUEI
 DURATION:PT2H
 DTSTART:20220709T040000Z
 SUMMARY:Reine: 【NEW YABE】yes I will eat eggs on stream and talk to you【Pavolia Reine/hololiveID 2nd gen】
 UID:oCjp_oFcUEI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX LEGENDS】TRAINING FOR TZ CUP: DAY 3【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=fTRGknlO8TU
+DURATION:PT2H
+DTSTART:20220708T083002Z
+SUMMARY:Ollie: 【APEX LEGENDS】TRAINING FOR TZ CUP: DAY 3【Hololive ID 2nd Gen】
+UID:fTRGknlO8TU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Dono Reading + Free Talk】i won't get distracted 🥸【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=A98TPdJWbgU
@@ -240,6 +254,13 @@ DURATION:PT2H
 DTSTART:20220709T103000Z
 SUMMARY:🌽白上フブキ: 【第1走者・白上フブキ】1期生Live2Dver3.0お披露目リレー【ホロライブ/hololive】
 UID:7kVz6p-3vQc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【空気読み。オンライン】みんなって空気読めるんですか～？？ｗｗｗｗ【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=G-4IQJIHB44
+DURATION:PT2H
+DTSTART:20220709T090000Z
+SUMMARY:沙花叉クロヱ: 【空気読み。オンライン】みんなって空気読めるんですか～？？ｗｗｗｗ【沙花叉クロヱ/ホロライブ】
+UID:G-4IQJIHB44
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スーパーペーパーマリオ】伯爵絶対訳アリであ～～る😩 #04【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=3PB33u_VCAs
@@ -333,13 +354,6 @@ SUMMARY:💫天音かなた: 【状況報告！！】急遽お引っ越しする
 UID:yBmoY-m64so
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Raft】Continuing Solo Run!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=Vf1uXSpc1Qc
-DURATION:PT2H
-DTSTART:20220708T160000Z
-SUMMARY:Anya: 【Raft】Continuing Solo Run!【hololive Indonesia 2nd Generation】
-UID:Vf1uXSpc1Qc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【FF7】人生初FF！Ⅶオリジナル版！～ビーチだ！観光地だ！～ #3 【博衣こより/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=Ao850_W0AiI
 DURATION:PT2H
 DTSTART:20220710T020000Z
@@ -347,18 +361,18 @@ SUMMARY:博衣こより: 【FF7】人生初FF！Ⅶオリジナル版！～ビ�
 UID:Ao850_W0AiI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Raft】Continuing Solo Run!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=Vf1uXSpc1Qc
+DURATION:PT2H
+DTSTART:20220708T160000Z
+SUMMARY:Anya: 【Raft】Continuing Solo Run!【hololive Indonesia 2nd Generation】
+UID:Vf1uXSpc1Qc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#朝こよ】様々な七夕──を超えて、金曜日は朝こよ！ #63【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=aMdBM_ravi8
 DURATION:PT2H
 DTSTART:20220707T220000Z
 SUMMARY:博衣こより: 【#朝こよ】様々な七夕──を超えて、金曜日は朝こよ！ #63【博衣こより/ホロライブ】
 UID:aMdBM_ravi8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CHATTING】Sit. Take a Load Off.\nhttps://www.youtube.com/watch?v=iPuMQ2YWWhc
-DURATION:PT2H
-DTSTART:20220708T050000Z
-SUMMARY:Calli: 【CHATTING】Sit. Take a Load Off.
-UID:iPuMQ2YWWhc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#PAVONOVA】OH YEAH SUMMERTIME - PowerWash Simulator【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=ExKC4d4ka34
@@ -373,6 +387,13 @@ DURATION:PT2H
 DTSTART:20220708T140000Z
 SUMMARY:🌽白上フブキ: 【#フブミオ】ザザミぉーんってことぉ！?２人でサンブレイクで狩りまくるぞ！【モンスターハンターライズ：サンブレイク】
 UID:cP69ucLBt30
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CHATTING】Sit. Take a Load Off.\nhttps://www.youtube.com/watch?v=iPuMQ2YWWhc
+DURATION:PT2H
+DTSTART:20220708T050000Z
+SUMMARY:Calli: 【CHATTING】Sit. Take a Load Off.
+UID:iPuMQ2YWWhc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 晩酌＊メンバー限定 】高級クラブルーナOPENなのら！！🍷✨Let's have an evening drink【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=-8IfL90PXEk
@@ -424,6 +445,13 @@ SUMMARY:🏴☠宝鐘マリン: 【#マリフレオフ】絆の歌枠【ホロ�
 UID:NswPv5U7N-Y
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】finding more elytras 🪰【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=50IMHTelHSA
+DURATION:PT2H
+DTSTART:20220709T130000Z
+SUMMARY:Kaela: 【Minecraft】finding more elytras 🪰【Kaela Kovalskia / hololive ID】
+UID:50IMHTelHSA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【I AM FISH】the last fish\nhttps://www.youtube.com/watch?v=vlSHzNvoNNM
 DURATION:PT2H
 DTSTART:20220708T000341Z
@@ -445,13 +473,6 @@ SUMMARY:🎭アステル・レダ: 『風のクロノア1&2 アンコール』�
 UID:2al1s4VuhaY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX LEGENDS】TRAINING FOR TZ CUP: DAY 4【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=xeKRzH6jorI
-DURATION:PT2H
-DTSTART:20220709T083318Z
-SUMMARY:Ollie: 【APEX LEGENDS】TRAINING FOR TZ CUP: DAY 4【Hololive ID 2nd Gen】
-UID:xeKRzH6jorI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#10】テイルズ オブ ジアビス するしゅばあああああああああああああ！！！！！！：TALES OF THE ABYSS【ネタバレあり】\nhttps://www.youtube.com/watch?v=k1MMRPiTVKs
 DURATION:PT2H
 DTSTART:20220709T040000Z
@@ -459,18 +480,18 @@ SUMMARY:🚑大空スバル: 【#10】テイルズ オブ ジアビス するし
 UID:k1MMRPiTVKs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【アニメ】宇宙人にも悩みはあったりする【#スタこれ 】\nhttps://www.youtube.com/watch?v=I2JcK3OCMW0
-DURATION:PT2H
-DTSTART:20220708T100020Z
-SUMMARY:ホロスターズ: 【アニメ】宇宙人にも悩みはあったりする【#スタこれ 】
-UID:I2JcK3OCMW0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【風のクロノア １＆２アンコール】コロコロで漫画やってたやつ～～～！という知識しかない男の風のクロノア【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=kkrHTX4hGlw
 DURATION:PT2H
 DTSTART:20220708T100000Z
 SUMMARY:🍕アルランディス: 【風のクロノア １＆２アンコール】コロコロで漫画やってたやつ～～～！という知識しかない男の風のクロノア【アルランディス/ホロスターズ】
 UID:kkrHTX4hGlw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【アニメ】宇宙人にも悩みはあったりする【#スタこれ 】\nhttps://www.youtube.com/watch?v=I2JcK3OCMW0
+DURATION:PT2H
+DTSTART:20220708T100020Z
+SUMMARY:ホロスターズ: 【アニメ】宇宙人にも悩みはあったりする【#スタこれ 】
+UID:I2JcK3OCMW0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:そう、これも１つの愛のカタチ......【ギリギリわるくないわため】 #ギリわる\nhttps://www.youtube.com/watch?v=2-i1gzWeeOI
