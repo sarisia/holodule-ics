@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【 #朝ミオ 】月曜日の朝みおーーーーん！！！！暑いねぇ・・\nhttps://www.youtube.com/watch?v=3hO5XZXCqbU
+DURATION:PT2H
+DTSTART:20220710T223000Z
+SUMMARY:🌲大神ミオ: 【 #朝ミオ 】月曜日の朝みおーーーーん！！！！暑いねぇ・・
+UID:3hO5XZXCqbU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【深夜ラジオ】鷹嶺ルイのミッドナイトラジオ #04【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=S7-ROVqE2HU
 DURATION:PT2H
 DTSTART:20220709T151500Z
@@ -37,13 +44,6 @@ DURATION:PT2H
 DTSTART:20220710T100000Z
 SUMMARY:🌸さくらみこ: 【 Minecraft 1.19 】叫んでも助けは来ないにぇ！角笛もぎ取り隊【ホロライブ/さくらみこ】
 UID:bzeLvF1ygqI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【凸待ち】１００万人記念！！誰が来てくれるかな！？【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=y_t_wbDpNFM
-DURATION:PT2H
-DTSTART:20220710T120000Z
-SUMMARY:🌙紫咲シオン: 【凸待ち】１００万人記念！！誰が来てくれるかな！？【ホロライブ/紫咲シオン】
-UID:y_t_wbDpNFM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Fall Guys】アップデートでどうなったか見てみたい【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=AcOgYrp0J-M
@@ -289,13 +289,6 @@ DURATION:PT2H
 DTSTART:20220709T131500Z
 SUMMARY:🐻ときのそら: 【あつ森】島を大きくリフォームしたい【#ときのそら生放送】
 UID:QK7P6M3jP6w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【モンハンサンブレイク】MR★4「ルナガロン」と「ライゼクス」倒したい！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=iKHPikqFsfM
-DURATION:PT2H
-DTSTART:20220710T100000Z
-SUMMARY:👯兎田ぺこら: 【モンハンサンブレイク】MR★4「ルナガロン」と「ライゼクス」倒したい！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:iKHPikqFsfM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スーパーペーパーマリオ】伯爵絶対訳アリであ～～る😩 #04【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=3PB33u_VCAs
