@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:IRyS 3rd EP「Quarter Bravery」Trailer\nhttps://www.youtube.com/watch?v=O_a1qGcnfiI
-DURATION:PT2H
-DTSTART:20220711T070000Z
-SUMMARY:IRyS: IRyS 3rd EP「Quarter Bravery」Trailer
-UID:O_a1qGcnfiI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Working Stream】Catching Up\nhttps://www.youtube.com/watch?v=cx1EwFJepiY
 DURATION:PT2H
 DTSTART:20220711T030000Z
@@ -32,11 +25,11 @@ SUMMARY:Ina: 【Elden Ring】 HOW DO I PARRY 【SPOILER WARNING】【#19】
 UID:teYuoMiLm0k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【POWERWASH SIMULATOR】washing.\nhttps://www.youtube.com/watch?v=4-FzoEQdmgo
+DESCRIPTION:I have something to say!\nhttps://www.youtube.com/watch?v=UbqJ7JObVBM
 DURATION:PT2H
-DTSTART:20220710T160000Z
-SUMMARY:Calli: 【POWERWASH SIMULATOR】washing.
-UID:4-FzoEQdmgo
+DTSTART:20220711T230000Z
+SUMMARY:Sana: I have something to say!
+UID:UbqJ7JObVBM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:『#1stAnniversaRyS』One Year Since Hope Descended【1 YEAR ANNIVERSARY STREAM】\nhttps://www.youtube.com/watch?v=Xq9JWIf9zOY
@@ -44,6 +37,20 @@ DURATION:PT2H
 DTSTART:20220711T030000Z
 SUMMARY:IRyS: 『#1stAnniversaRyS』One Year Since Hope Descended【1 YEAR ANNIVERSARY STREAM】
 UID:Xq9JWIf9zOY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:IRyS 3rd EP「Quarter Bravery」Trailer\nhttps://www.youtube.com/watch?v=O_a1qGcnfiI
+DURATION:PT2H
+DTSTART:20220711T070000Z
+SUMMARY:IRyS: IRyS 3rd EP「Quarter Bravery」Trailer
+UID:O_a1qGcnfiI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【POWERWASH SIMULATOR】washing.\nhttps://www.youtube.com/watch?v=4-FzoEQdmgo
+DURATION:PT2H
+DTSTART:20220710T160000Z
+SUMMARY:Calli: 【POWERWASH SIMULATOR】washing.
+UID:4-FzoEQdmgo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HOLOCURE】MU MEI TA\nhttps://www.youtube.com/watch?v=WT-vuCsiaj8
