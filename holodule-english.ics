@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Working Stream】Catching Up\nhttps://www.youtube.com/watch?v=cx1EwFJepiY
-DURATION:PT2H
-DTSTART:20220711T030000Z
-SUMMARY:Kronii: 【Working Stream】Catching Up
-UID:cx1EwFJepiY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CHATTIN'】well howdy there\nhttps://www.youtube.com/watch?v=paAa2rVX-LY
-DURATION:PT2H
-DTSTART:20220710T220000Z
-SUMMARY:Amelia: 【CHATTIN'】well howdy there
-UID:paAa2rVX-LY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Elden Ring】 HOW DO I PARRY 【SPOILER WARNING】【#19】\nhttps://www.youtube.com/watch?v=teYuoMiLm0k
 DURATION:PT2H
 DTSTART:20220711T210000Z
@@ -32,11 +18,11 @@ SUMMARY:Sana: I have something to say!
 UID:UbqJ7JObVBM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:『#1stAnniversaRyS』One Year Since Hope Descended【1 YEAR ANNIVERSARY STREAM】\nhttps://www.youtube.com/watch?v=Xq9JWIf9zOY
+DESCRIPTION:Variety Mumei Stream\nhttps://www.youtube.com/watch?v=zDo7a_t4rAo
 DURATION:PT2H
-DTSTART:20220711T030000Z
-SUMMARY:IRyS: 『#1stAnniversaRyS』One Year Since Hope Descended【1 YEAR ANNIVERSARY STREAM】
-UID:Xq9JWIf9zOY
+DTSTART:20220712T021500Z
+SUMMARY:Mumei: Variety Mumei Stream
+UID:zDo7a_t4rAo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】FROG\nhttps://www.youtube.com/watch?v=j5ON7VsPZPk
@@ -46,38 +32,10 @@ SUMMARY:Amelia: 【Minecraft】FROG
 UID:j5ON7VsPZPk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:IRyS 3rd EP「Quarter Bravery」Trailer\nhttps://www.youtube.com/watch?v=O_a1qGcnfiI
-DURATION:PT2H
-DTSTART:20220711T070000Z
-SUMMARY:IRyS: IRyS 3rd EP「Quarter Bravery」Trailer
-UID:O_a1qGcnfiI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【HOLOCURE】The One Where I Win #kfp #キアライブ\nhttps://www.youtube.com/watch?v=bOYySjyGZiw
 DURATION:PT2H
 DTSTART:20220712T160000Z
 SUMMARY:Kiara: 【HOLOCURE】The One Where I Win #kfp #キアライブ
 UID:bOYySjyGZiw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【POWERWASH SIMULATOR】washing.\nhttps://www.youtube.com/watch?v=4-FzoEQdmgo
-DURATION:PT2H
-DTSTART:20220710T160000Z
-SUMMARY:Calli: 【POWERWASH SIMULATOR】washing.
-UID:4-FzoEQdmgo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HOLOCURE】MU MEI TA\nhttps://www.youtube.com/watch?v=WT-vuCsiaj8
-DURATION:PT2H
-DTSTART:20220711T010000Z
-SUMMARY:Mumei: 【HOLOCURE】MU MEI TA
-UID:WT-vuCsiaj8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Variety Mumei Stream\nhttps://www.youtube.com/watch?v=zDo7a_t4rAo
-DURATION:PT2H
-DTSTART:20220712T021500Z
-SUMMARY:Mumei: Variety Mumei Stream
-UID:zDo7a_t4rAo
 END:VEVENT
 END:VCALENDAR
