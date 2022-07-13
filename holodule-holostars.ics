@@ -4,18 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【MHRサンブレイク】突発モンハンコラボ！チャアクブンブン丸視点【影山シエン/荒咬オウガ/アルランディス】\nhttps://www.youtube.com/watch?v=-y-uQ-BxgNc
-DURATION:PT2H
-DTSTART:20220712T120000Z
-SUMMARY:影山シエン: 【MHRサンブレイク】突発モンハンコラボ！チャアクブンブン丸視点【影山シエン/荒咬オウガ/アルランディス】
-UID:-y-uQ-BxgNc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 Is Simon There? 】怖すぎるので電話をかけるのはやめてください【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=izzDWVjGO8w
 DURATION:PT2H
 DTSTART:20220713T140000Z
 SUMMARY:⚙律可: 【 Is Simon There? 】怖すぎるので電話をかけるのはやめてください【律可/ホロスターズ】#りつすた
 UID:izzDWVjGO8w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DBD】まったり(´ω｀)【#羽継烏有 /#アップロー /#holostars 】\nhttps://www.youtube.com/watch?v=SIeu97zaSiA
+DURATION:PT2H
+DTSTART:20220713T144500Z
+SUMMARY:羽継烏有: 【DBD】まったり(´ω｀)【#羽継烏有 /#アップロー /#holostars 】
+UID:SIeu97zaSiA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【イラストメイキング】オリ―先輩を描いてみる！【緋崎ガンマ / アップロー / ホロスターズ / Kureiji Ollie / ホロライブID 】\nhttps://www.youtube.com/watch?v=l0PHsWLqRQM
+DURATION:PT2H
+DTSTART:20220715T130000Z
+SUMMARY:緋崎ガンマ: 【イラストメイキング】オリ―先輩を描いてみる！【緋崎ガンマ / アップロー / ホロスターズ / Kureiji Ollie / ホロライブID 】
+UID:l0PHsWLqRQM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】平日の昼間からごろごろ～ごろごろ～【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=je_aaDSrwns
@@ -25,18 +32,11 @@ SUMMARY:🦔💨岸堂天真: 【雑談】平日の昼間からごろごろ～�
 UID:je_aaDSrwns
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【モンスターハンターライズ　サンブレイク】でかけもサンブレイク【荒咬オウガ　影山シエン　アルランディス】\nhttps://www.youtube.com/watch?v=IV-nIIAOPGQ
+DESCRIPTION:【#夜十神封魔生誕祭2022】HAPPY BIRTHDAY 俺!! ～妖だって褒められたい～【ホロスターズ/アップロー】\nhttps://www.youtube.com/watch?v=QqC_J4Fsl8k
 DURATION:PT2H
-DTSTART:20220712T120000Z
-SUMMARY:荒咬オウガ: 【モンスターハンターライズ　サンブレイク】でかけもサンブレイク【荒咬オウガ　影山シエン　アルランディス】
-UID:IV-nIIAOPGQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【前夜祭】誕生日を0時ピッタリ祝う！【夜十神封魔/アップロー】\nhttps://www.youtube.com/watch?v=IpzhxZZOLQg
-DURATION:PT2H
-DTSTART:20220712T140000Z
-SUMMARY:夜十神封魔: 【前夜祭】誕生日を0時ピッタリ祝う！【夜十神封魔/アップロー】
-UID:IpzhxZZOLQg
+DTSTART:20220713T120000Z
+SUMMARY:夜十神封魔: 【#夜十神封魔生誕祭2022】HAPPY BIRTHDAY 俺!! ～妖だって褒められたい～【ホロスターズ/アップロー】
+UID:QqC_J4Fsl8k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【イラストメイキング】誕生日の夜十神封魔リーダーにイラスト描く！【緋崎ガンマ/#アップロー /#ホロスターズ 】- Illustration Making\nhttps://www.youtube.com/watch?v=eGgSCg3PLsQ
@@ -44,13 +44,6 @@ DURATION:PT2H
 DTSTART:20220713T003000Z
 SUMMARY:緋崎ガンマ: 【イラストメイキング】誕生日の夜十神封魔リーダーにイラスト描く！【緋崎ガンマ/#アップロー /#ホロスターズ 】- Illustration Making
 UID:eGgSCg3PLsQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#夜十神封魔生誕祭2022】HAPPY BIRTHDAY 俺!! ～妖だって褒められたい～【ホロスターズ/アップロー】\nhttps://www.youtube.com/watch?v=QqC_J4Fsl8k
-DURATION:PT2H
-DTSTART:20220713T120000Z
-SUMMARY:夜十神封魔: 【#夜十神封魔生誕祭2022】HAPPY BIRTHDAY 俺!! ～妖だって褒められたい～【ホロスターズ/アップロー】
-UID:QqC_J4Fsl8k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:シャンティ(SHANTI) - wotaku / Covered by 夜十神封魔\nhttps://www.youtube.com/watch?v=6VAC-LmZ2-E
@@ -67,13 +60,6 @@ SUMMARY:🎸奏手イヅル: 汚部屋から歌おう！【奏手イヅル】
 UID:tZnBvzt-ZkU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【おしゃぶり縛り】赤ちゃん視点のホラーゲームをおしゃぶりつけたままクリア目指す！！【緋崎ガンマ/#アップロー /#ホロスターズ / Among the Sleep】\nhttps://www.youtube.com/watch?v=wO4WCFkef8s
-DURATION:PT2H
-DTSTART:20220712T090000Z
-SUMMARY:緋崎ガンマ: 【おしゃぶり縛り】赤ちゃん視点のホラーゲームをおしゃぶりつけたままクリア目指す！！【緋崎ガンマ/#アップロー /#ホロスターズ / Among the Sleep】
-UID:wO4WCFkef8s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【FF15】顔が良い男達と旅をする顔が良い男 part1【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=J66PJdsmNtk
 DURATION:PT2H
 DTSTART:20220713T130000Z
@@ -88,17 +74,17 @@ SUMMARY:🍷夕刻ロベル: 【2.0お披露目】夏衣装が2.0になったそ
 UID:QxRvY_X-guM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 #ゆるボスタの旅 】4人で静岡に遊びに行ったよ!! Part1【花咲みやび/アルランディス/岸堂天真/影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=P5hFwzbDeY0
+DURATION:PT2H
+DTSTART:20220715T103000Z
+SUMMARY:🌺花咲みやび: 【 #ゆるボスタの旅 】4人で静岡に遊びに行ったよ!! Part1【花咲みやび/アルランディス/岸堂天真/影山シエン/ホロスターズ】
+UID:P5hFwzbDeY0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft1.19】出現率2%のヤギから手に入る角笛を全種類コンプする【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Y9K_CPbZA1o
 DURATION:PT2H
 DTSTART:20220713T140000Z
 SUMMARY:🍕アルランディス: 【Minecraft1.19】出現率2%のヤギから手に入る角笛を全種類コンプする【アルランディス/ホロスターズ】
 UID:Y9K_CPbZA1o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft1.19】2%ヤギから出てくる激レア角笛コンプするだよなぁ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=xcb_uZ9ogPk
-DURATION:PT2H
-DTSTART:20220712T140000Z
-SUMMARY:🍕アルランディス: 【Minecraft1.19】2%ヤギから出てくる激レア角笛コンプするだよなぁ【アルランディス/ホロスターズ】
-UID:xcb_uZ9ogPk
 END:VEVENT
 END:VCALENDAR
