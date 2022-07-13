@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【COLLAB】Bread Review & Tasting w/ SANA~\nhttps://www.youtube.com/watch?v=7pkbVQT6J8A
-DURATION:PT2H
-DTSTART:20220714T010000Z
-SUMMARY:Amelia: 【COLLAB】Bread Review & Tasting w/ SANA~
-UID:7pkbVQT6J8A
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Pathologic 2】Just Live (Please)\nhttps://www.youtube.com/watch?v=XWAYWuSAxs0
 DURATION:PT2H
 DTSTART:20220713T010000Z
@@ -18,11 +11,11 @@ SUMMARY:Kronii: 【Pathologic 2】Just Live (Please)
 UID:XWAYWuSAxs0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RESIDENT EVIL: 3】Extreme Extermination\nhttps://www.youtube.com/watch?v=FRJmUeEb6Bg
+DESCRIPTION:【COLLAB】Bread Review & Tasting w/ SANA~\nhttps://www.youtube.com/watch?v=7pkbVQT6J8A
 DURATION:PT2H
-DTSTART:20220713T030000Z
-SUMMARY:IRyS: 【RESIDENT EVIL: 3】Extreme Extermination
-UID:FRJmUeEb6Bg
+DTSTART:20220714T010000Z
+SUMMARY:Amelia: 【COLLAB】Bread Review & Tasting w/ SANA~
+UID:7pkbVQT6J8A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HOLOCURE】The One Where I Win #kfp #キアライブ\nhttps://www.youtube.com/watch?v=bOYySjyGZiw
@@ -32,10 +25,10 @@ SUMMARY:Kiara: 【HOLOCURE】The One Where I Win #kfp #キアライブ
 UID:bOYySjyGZiw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【PORTAL 2 CO-OP】KOboOP~~~!! We are back at it again! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=3zttB54w7YA
+DESCRIPTION:【RESIDENT EVIL: 3】Extreme Extermination\nhttps://www.youtube.com/watch?v=FRJmUeEb6Bg
 DURATION:PT2H
-DTSTART:20220713T120000Z
-SUMMARY:Kiara: 【PORTAL 2 CO-OP】KOboOP~~~!! We are back at it again! #kfp #キアライブ
-UID:3zttB54w7YA
+DTSTART:20220713T030000Z
+SUMMARY:IRyS: 【RESIDENT EVIL: 3】Extreme Extermination
+UID:FRJmUeEb6Bg
 END:VEVENT
 END:VCALENDAR
