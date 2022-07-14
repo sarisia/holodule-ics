@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【】【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=PJ6V70t1ol0
+DURATION:PT2H
+DTSTART:20220714T130000Z
+SUMMARY:🍬姫森ルーナ: 【】【#姫森ルーナ/ホロライブ】
+UID:PJ6V70t1ol0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【2.0お披露目】夏衣装が2.0になったそうです【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=QxRvY_X-guM
 DURATION:PT2H
 DTSTART:20220713T090000Z
@@ -95,18 +102,18 @@ SUMMARY:👯兎田ぺこら: 【＃ぺっころね】初代マリオどっちが
 UID:A_WpkWV07e4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ARK Fjordur】深夜のまったりARKはいかが？【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=QB8HDTVQmoQ
-DURATION:PT2H
-DTSTART:20220713T130000Z
-SUMMARY:🔥不知火フレア: 【ARK Fjordur】深夜のまったりARKはいかが？【ホロライブ/不知火フレア】
-UID:QB8HDTVQmoQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【モンスターハンターライズ：サンブレイク】武器種がまとまらないのは利点ですか？ #まとまらない四人 【ヒラ/成瀬鳴/風見くく/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=YMApPCULlEY
 DURATION:PT2H
 DTSTART:20220714T110000Z
 SUMMARY:🍕アルランディス: 【モンスターハンターライズ：サンブレイク】武器種がまとまらないのは利点ですか？ #まとまらない四人 【ヒラ/成瀬鳴/風見くく/アルランディス/ホロスターズ】
 UID:YMApPCULlEY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK Fjordur】深夜のまったりARKはいかが？【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=QB8HDTVQmoQ
+DURATION:PT2H
+DTSTART:20220713T130000Z
+SUMMARY:🔥不知火フレア: 【ARK Fjordur】深夜のまったりARKはいかが？【ホロライブ/不知火フレア】
+UID:QB8HDTVQmoQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Pathologic 2】Just Live (Please)\nhttps://www.youtube.com/watch?v=XWAYWuSAxs0
@@ -200,6 +207,13 @@ SUMMARY:Anya: 【#sananabananya Collab!】We Are GAMING!!!【hololive Indonesia 
 UID:a84KBWg86pU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【APEX】渋ハルカスタムteamジブラーpart2　w/ぷてち、あれる【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=rkoah-ANp90
+DURATION:PT2H
+DTSTART:20220714T121500Z
+SUMMARY:👾常闇トワ: 【APEX】渋ハルカスタムteamジブラーpart2　w/ぷてち、あれる【常闇トワ/ホロライブ】
+UID:rkoah-ANp90
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【SoreMoona】Good Afternoon ♡【Freetalk】\nhttps://www.youtube.com/watch?v=XNmm5VIOztI
 DURATION:PT2H
 DTSTART:20220713T100000Z
@@ -214,11 +228,25 @@ SUMMARY:🔮Moona: 【We were here forever】BEEG BRAIN TIME【PART 2】
 UID:1z68apYFFms
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#ぺっころね】初代マリオどっちが先までいけるか対決！！！ころ！【ホロライブ/戌神ころね/兎田ぺこら】\nhttps://www.youtube.com/watch?v=2EB5RY6Ak6M
+DURATION:PT2H
+DTSTART:20220714T120000Z
+SUMMARY:🥐戌神ころね: 【#ぺっころね】初代マリオどっちが先までいけるか対決！！！ころ！【ホロライブ/戌神ころね/兎田ぺこら】
+UID:2EB5RY6Ak6M
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:寝起きデスマッチャレンジ！【VALORANT】\nhttps://www.youtube.com/watch?v=j7cX8nvgsN0
 DURATION:PT2H
 DTSTART:20220712T213000Z
 SUMMARY:❤赤井はあと: 寝起きデスマッチャレンジ！【VALORANT】
 UID:j7cX8nvgsN0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ダイジェストムービー】HOLOSTARS 3RISE SUPER FAN MEETING ～FLAGSHIP～【#ホロスタ3周年】\nhttps://www.youtube.com/watch?v=CLsewesyrxE
+DURATION:PT2H
+DTSTART:20220714T100007Z
+SUMMARY:ホロスターズ: 【ダイジェストムービー】HOLOSTARS 3RISE SUPER FAN MEETING ～FLAGSHIP～【#ホロスタ3周年】
+UID:CLsewesyrxE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Shotgun King: The Final Checkmate】#2 what a fun "chess"【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=7NVlK9wnTeo
@@ -277,6 +305,13 @@ SUMMARY:Kiara: 【HOLOCURE】The One Where I Win #kfp #キアライブ
 UID:bOYySjyGZiw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【PSO2NGS】よぉ…久しぶりだなぁ…という事で帰還致しました【モンスターハンターライズ：サンブレイク】\nhttps://www.youtube.com/watch?v=cxDz6nnP2Xo
+DURATION:PT2H
+DTSTART:20220714T130000Z
+SUMMARY:🌽白上フブキ: 【PSO2NGS】よぉ…久しぶりだなぁ…という事で帰還致しました【モンスターハンターライズ：サンブレイク】
+UID:cxDz6nnP2Xo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【朝活SINGING】うたう～～～～～～～～～【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=VzpExz2vZpI
 DURATION:PT2H
 DTSTART:20220713T220000Z
@@ -319,6 +354,13 @@ SUMMARY:沙花叉クロヱ: 【singing】アカペラあり歌枠！ボカロ多
 UID:ZaYFep110_o
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【APEX LEGENDS】SHIBUYAHAL CUSTOM - DOT Team /i'll do my best \;\;w\;\; 【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=kUIucaqwm0M
+DURATION:PT2H
+DTSTART:20220714T120000Z
+SUMMARY:Ollie: 【APEX LEGENDS】SHIBUYAHAL CUSTOM - DOT Team /i'll do my best \;\;w\;\; 【Hololive ID 2nd Gen】
+UID:kUIucaqwm0M
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#12【TGAA 2: Resolve】(not) FIIIIIIIIINAAAAAAAAAAAAL ※SPOILER ALERT【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=Jqr6QBj9DoI
 DURATION:PT2H
 DTSTART:20220713T130000Z
@@ -331,6 +373,13 @@ DURATION:PT2H
 DTSTART:20220713T120000Z
 SUMMARY:風真いろは: 【Minecraft】エリトラチャレンジ🔥エンドいくでござる！！【風真いろは/ホロライブ6期生】
 UID:x1UuYCFMi1E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【風のクロノア １＆２アンコール】クロノア１のエンディングに衝撃を受けたので2をやります【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=-mneIgPXqGM
+DURATION:PT2H
+DTSTART:20220714T050000Z
+SUMMARY:🍕アルランディス: 【風のクロノア １＆２アンコール】クロノア１のエンディングに衝撃を受けたので2をやります【アルランディス/ホロスターズ】
+UID:-mneIgPXqGM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】 GRINDING TIME!!!【GeeMoon】\nhttps://www.youtube.com/watch?v=lqVRmCG35e4
@@ -382,13 +431,6 @@ SUMMARY:⚔白銀ノエル: 【同時視聴】伝説回！？BASTARD!! -暗黒�
 UID:7AvjfdC_i0k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Tiny Tina's Wonderlands】#2 why are you running? 🔫【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=hmuhH7uPSrU
-DURATION:PT2H
-DTSTART:20220713T130000Z
-SUMMARY:Kaela: 【Tiny Tina's Wonderlands】#2 why are you running? 🔫【Kaela Kovalskia / hololive ID】
-UID:hmuhH7uPSrU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:シャンティ(SHANTI) - wotaku / Covered by 夜十神封魔\nhttps://www.youtube.com/watch?v=6VAC-LmZ2-E
 DURATION:PT2H
 DTSTART:20220713T130926Z
@@ -396,11 +438,11 @@ SUMMARY:夜十神封魔: シャンティ(SHANTI) - wotaku / Covered by 夜十神
 UID:6VAC-LmZ2-E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ネタバレあり】牧場で夏を過ごすわたし・・・【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=2raEYLkluGc
+DESCRIPTION:【Tiny Tina's Wonderlands】#2 why are you running? 🔫【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=hmuhH7uPSrU
 DURATION:PT2H
 DTSTART:20220713T130000Z
-SUMMARY:🐻ときのそら: 【ネタバレあり】牧場で夏を過ごすわたし・・・【#ときのそら生放送】
-UID:2raEYLkluGc
+SUMMARY:Kaela: 【Tiny Tina's Wonderlands】#2 why are you running? 🔫【Kaela Kovalskia / hololive ID】
+UID:hmuhH7uPSrU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【生誕祭・振り返り】スパチャ感謝！紹介できなかった動画も紹介！【#夜十神封魔 #HOLOSTARS #Vtuber】\nhttps://www.youtube.com/watch?v=2OIxH45yWZ0
@@ -408,6 +450,13 @@ DURATION:PT2H
 DTSTART:20220714T100000Z
 SUMMARY:夜十神封魔: 【生誕祭・振り返り】スパチャ感謝！紹介できなかった動画も紹介！【#夜十神封魔 #HOLOSTARS #Vtuber】
 UID:2OIxH45yWZ0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ネタバレあり】牧場で夏を過ごすわたし・・・【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=2raEYLkluGc
+DURATION:PT2H
+DTSTART:20220713T130000Z
+SUMMARY:🐻ときのそら: 【ネタバレあり】牧場で夏を過ごすわたし・・・【#ときのそら生放送】
+UID:2raEYLkluGc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #ゆるボスタの旅 】4人で静岡に遊びに行ったよ!! Part1【花咲みやび/アルランディス/岸堂天真/影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=P5hFwzbDeY0
