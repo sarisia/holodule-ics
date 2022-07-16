@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【NEW YABE】RISE OF THE EGG VTUBER i mean free talk【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=ca7EC4snAHA
-DURATION:PT2H
-DTSTART:20220716T040000Z
-SUMMARY:Reine: 【NEW YABE】RISE OF THE EGG VTUBER i mean free talk【Pavolia Reine/hololiveID 2nd gen】
-UID:ca7EC4snAHA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【holoID】EURO TRUCK SIMULATOR 2 : chill trucker【Ayunda Risu】\nhttps://www.youtube.com/watch?v=abO7bcTxqQo
 DURATION:PT2H
 DTSTART:20220715T141500Z
@@ -65,5 +58,12 @@ DURATION:PT2H
 DTSTART:20220716T100000Z
 SUMMARY:Ollie: 【APEX LEGENDS】TZ CUP - kuso GG Team 【Hololive ID 2nd Gen】
 UID:YamYvW6gYCc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RUST】 I want to play this so badly【GeeMoon】\nhttps://www.youtube.com/watch?v=pq5Xk-3JhiI
+DURATION:PT2H
+DTSTART:20220716T090000Z
+SUMMARY:🔮Moona: 【RUST】 I want to play this so badly【GeeMoon】
+UID:pq5Xk-3JhiI
 END:VEVENT
 END:VCALENDAR
