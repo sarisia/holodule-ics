@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【DUOLINGO】oui oui baguette\nhttps://www.youtube.com/watch?v=Qgv_1oP0up8
+DESCRIPTION:【League of Legends: Wild Rift】AAAAAAAAAAAAA【Kobo Kanaeru / hololive ID】\nhttps://www.youtube.com/watch?v=XVGDbzEef-A
 DURATION:PT2H
-DTSTART:20220717T080000Z
-SUMMARY:Kobo: 【DUOLINGO】oui oui baguette
-UID:Qgv_1oP0up8
+DTSTART:20220717T130000Z
+SUMMARY:Kobo: 【League of Legends: Wild Rift】AAAAAAAAAAAAA【Kobo Kanaeru / hololive ID】
+UID:XVGDbzEef-A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】 JP-ID now Connected?!【GeeMoon】\nhttps://www.youtube.com/watch?v=1dekQn1IW2g
@@ -18,17 +18,24 @@ SUMMARY:🔮Moona: 【Minecraft】 JP-ID now Connected?!【GeeMoon】
 UID:1dekQn1IW2g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】OUR SERVERS ARE CONNECTED NOW!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=lE2X7VapOfA
-DURATION:PT2H
-DTSTART:20220717T130001Z
-SUMMARY:Ollie: 【MINECRAFT】OUR SERVERS ARE CONNECTED NOW!!【Hololive Indonesia 2nd Gen】
-UID:lE2X7VapOfA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Teardown】ngeeeeeeng~【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=lXoTD8xL1_o
 DURATION:PT2H
 DTSTART:20220717T060000Z
 SUMMARY:Kaela: 【Teardown】ngeeeeeeng~【Kaela Kovalskia / hololive ID】
 UID:lXoTD8xL1_o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DUOLINGO】oui oui baguette\nhttps://www.youtube.com/watch?v=Qgv_1oP0up8
+DURATION:PT2H
+DTSTART:20220717T080000Z
+SUMMARY:Kobo: 【DUOLINGO】oui oui baguette
+UID:Qgv_1oP0up8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】OUR SERVERS ARE CONNECTED NOW!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=lE2X7VapOfA
+DURATION:PT2H
+DTSTART:20220717T130001Z
+SUMMARY:Ollie: 【MINECRAFT】OUR SERVERS ARE CONNECTED NOW!!【Hololive Indonesia 2nd Gen】
+UID:lE2X7VapOfA
 END:VEVENT
 END:VCALENDAR
