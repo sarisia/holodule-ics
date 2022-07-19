@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:hi\, welcome to the guild!\nhttps://www.youtube.com/watch?v=gt1TGiN9J04
+DURATION:PT2H
+DTSTART:20220718T010100Z
+SUMMARY:Altare: hi\, welcome to the guild!
+UID:gt1TGiN9J04
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MONSTER HUNTER RISE:SUNBREAK】MR5になりたい！休日の阿鼻叫喚モンハン【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=nJBd9KM8ZsM
 DURATION:PT2H
 DTSTART:20220718T020000Z
@@ -44,6 +51,13 @@ DURATION:PT2H
 DTSTART:20220718T061500Z
 SUMMARY:Ina: 【272727】  1
 UID:JONJ3uqvhcs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:POV: You Fall In Love At First Sight\nhttps://www.youtube.com/watch?v=7NsChSGkobo
+DURATION:PT2H
+DTSTART:20220718T010100Z
+SUMMARY:Dezmond: POV: You Fall In Love At First Sight
+UID:7NsChSGkobo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VALORANT】ホロIDの先輩＆同期でフルパヴァロラント【#Kureiji_Ollie #Kobo_Kanaeru #緋崎ガンマ #水無世燐央#夜十神封魔  / ホロスターズ / ホロライブID】\nhttps://www.youtube.com/watch?v=-ZNxBRR_ciI
@@ -109,11 +123,11 @@ SUMMARY:博衣こより: 【朝こよ#66 アフタートーク】雑談＆SuperC
 UID:mhDAjRUtQro
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【告知あり！】夏！夏！夏！夏！夏休み直前SP！【#ホロスタに夏がきた】\nhttps://www.youtube.com/watch?v=bl3IPAIdX2Q
+DESCRIPTION:Server Reboot Sequence: Complete｜#holoTEMPUS\nhttps://www.youtube.com/watch?v=A8i5Uxf4TAU
 DURATION:PT2H
-DTSTART:20220720T120000Z
-SUMMARY:ホロスターズ: 【告知あり！】夏！夏！夏！夏！夏休み直前SP！【#ホロスタに夏がきた】
-UID:bl3IPAIdX2Q
+DTSTART:20220718T005946Z
+SUMMARY:ENHOLOSTARS: Server Reboot Sequence: Complete｜#holoTEMPUS
+UID:A8i5Uxf4TAU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】飛べるようになりました！！古代都市チャレンジ🔥3度目の正直！！今日こそは見つけたい！！ 【風真いろは/ホロライブ6期生】\nhttps://www.youtube.com/watch?v=RSehISh1ShU
@@ -121,6 +135,13 @@ DURATION:PT2H
 DTSTART:20220718T110000Z
 SUMMARY:風真いろは: 【Minecraft】飛べるようになりました！！古代都市チャレンジ🔥3度目の正直！！今日こそは見つけたい！！ 【風真いろは/ホロライブ6期生】
 UID:RSehISh1ShU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【告知あり！】夏！夏！夏！夏！夏休み直前SP！【#ホロスタに夏がきた】\nhttps://www.youtube.com/watch?v=bl3IPAIdX2Q
+DURATION:PT2H
+DTSTART:20220720T120000Z
+SUMMARY:ホロスターズ: 【告知あり！】夏！夏！夏！夏！夏休み直前SP！【#ホロスタに夏がきた】
+UID:bl3IPAIdX2Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX LEGENDS】JUST ME\, MY CHARGE RIFLE\, THE BOIS\, AND HARMONICA 【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=8MaCxNkXaHM
@@ -139,7 +160,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】Ender Dragon Defeat Caught On Tape\nhttps://www.youtube.com/watch?v=ufLiBwJSqwo
 DURATION:PT2H
-DTSTART:20220719T030000Z
+DTSTART:20220719T032000Z
 SUMMARY:Mumei: 【MINECRAFT】Ender Dragon Defeat Caught On Tape
 UID:ufLiBwJSqwo
 END:VEVENT
@@ -193,6 +214,20 @@ SUMMARY:🍕アルランディス: 【Minecraft1.19】今日はトラップを�
 UID:22iIUulGAAM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Bad mood\, until you showed up\nhttps://www.youtube.com/watch?v=TCL31NZdPVI
+DURATION:PT2H
+DTSTART:20220718T010100Z
+SUMMARY:Vesper: Bad mood\, until you showed up
+UID:TCL31NZdPVI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【デビューPV】冒険者ギルドTEMPUS【#holoTEMPUS】\nhttps://www.youtube.com/watch?v=3zLGRAtY4n0
+DURATION:PT2H
+DTSTART:20220718T005930Z
+SUMMARY:ENHOLOSTARS: 【デビューPV】冒険者ギルドTEMPUS【#holoTEMPUS】
+UID:3zLGRAtY4n0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【HOLOTYPING】if you like keyboard sounds WATCH THE STREAM【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=Xmi3-d54xqQ
 DURATION:PT2H
 DTSTART:20220717T171500Z
@@ -235,10 +270,17 @@ SUMMARY:博衣こより: 【#朝こよ】〇〇〇を食べた…！？火曜日
 UID:G0CHliA6f5Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】23日にむけて、CPU相手にショトカ確認するよ！【 羽継烏有/#アップロー / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=cm08zaDEPVw
+DESCRIPTION:【 重大告知 】2022.7.20 (水) 19:00～💗💗💗💗💗💗【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=eqov7QAQZ54
+DURATION:PT2H
+DTSTART:20220720T100000Z
+SUMMARY:🍬姫森ルーナ: 【 重大告知 】2022.7.20 (水) 19:00～💗💗💗💗💗💗【姫森ルーナ/ホロライブ】
+UID:eqov7QAQZ54
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マリオカート8DX】23日にむけて、ショトカ確認するよ！【 羽継烏有/#アップロー / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=cm08zaDEPVw
 DURATION:PT2H
 DTSTART:20220719T033000Z
-SUMMARY:羽継烏有: 【マリオカート8DX】23日にむけて、CPU相手にショトカ確認するよ！【 羽継烏有/#アップロー / #ホロスターズ 】
+SUMMARY:羽継烏有: 【マリオカート8DX】23日にむけて、ショトカ確認するよ！【 羽継烏有/#アップロー / #ホロスターズ 】
 UID:cm08zaDEPVw
 END:VEVENT
 BEGIN:VEVENT
@@ -284,11 +326,11 @@ SUMMARY:Zeta: 【ART】doodles with 𝒷𝑒𝑒𝑔 space senpai @Tsukumo Sana 
 UID:bExqWH2Ugz0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Superchats】Catchin' Up(w. Bubb4bot)\nhttps://www.youtube.com/watch?v=iUd1QLtpvzQ
+DESCRIPTION:ANATOMY REVIEW with Calli + Sana + Mumei\nhttps://www.youtube.com/watch?v=60r1O06S4jo
 DURATION:PT2H
-DTSTART:20220718T230500Z
-SUMMARY:Amelia: 【Superchats】Catchin' Up(w. Bubb4bot)
-UID:iUd1QLtpvzQ
+DTSTART:20220719T010000Z
+SUMMARY:Mumei: ANATOMY REVIEW with Calli + Sana + Mumei
+UID:60r1O06S4jo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VA-11 Hall-A】Mixing Changes and Living Drinks. (Part 3)\nhttps://www.youtube.com/watch?v=37duppH7mCw
@@ -326,6 +368,13 @@ SUMMARY:羽継烏有: 【 LoL 】 神ゲーやるよ【#羽継烏有 /#uproar / 
 UID:la1dg-Jyi0Y
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Watching Yagoo-san's dream fly away\nhttps://www.youtube.com/watch?v=u1mEOrsBsLs
+DURATION:PT2H
+DTSTART:20220718T010100Z
+SUMMARY:Syrios: Watching Yagoo-san's dream fly away
+UID:u1mEOrsBsLs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌枠】第８９回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=jwi0GyTiLEc
 DURATION:PT2H
 DTSTART:20220718T140000Z
@@ -359,6 +408,13 @@ DURATION:PT2H
 DTSTART:20220719T031500Z
 SUMMARY:Sana: 【Minecraft】COUNCIRYS WILL DECIDE YOUR FATE
 UID:8irDdE1YUYw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:サーバー再起動：完了｜#holoTEMPUS\nhttps://www.youtube.com/watch?v=nNQsooK7hsg
+DURATION:PT2H
+DTSTART:20220718T005915Z
+SUMMARY:ENHOLOSTARS: サーバー再起動：完了｜#holoTEMPUS
+UID:nNQsooK7hsg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】ホロスタ大会チームB練習！w/花咲みやび・ 奏手イヅル・夕刻ロベル/水無世燐央【アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=EbwA38N7RtI
@@ -405,7 +461,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪MINECRAFT≫ ENDER DRAGON BOSS BATTLE ft. best friends\nhttps://www.youtube.com/watch?v=LqivRJqwhl0
 DURATION:PT2H
-DTSTART:20220719T030000Z
+DTSTART:20220719T032000Z
 SUMMARY:Baelz: ≪MINECRAFT≫ ENDER DRAGON BOSS BATTLE ft. best friends
 UID:LqivRJqwhl0
 END:VEVENT
@@ -424,6 +480,13 @@ SUMMARY:Sana: 【Minecraft】SAUNA!!!! v2
 UID:oWDk4g_bUiA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Debut PV】Adventurer's Guild TEMPUS【#holoTEMPUS】\nhttps://www.youtube.com/watch?v=Jar19J3HXQY
+DURATION:PT2H
+DTSTART:20220718T005959Z
+SUMMARY:ENHOLOSTARS: 【Debut PV】Adventurer's Guild TEMPUS【#holoTEMPUS】
+UID:Jar19J3HXQY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ゲーム発売記念】3Dで怪談コンテスト＆ゲーム世界最速実況！【#hololiveERROR】\nhttps://www.youtube.com/watch?v=Qh4NGMdDSyw
 DURATION:PT2H
 DTSTART:20220718T110000Z
@@ -438,10 +501,10 @@ SUMMARY:🍙猫又おかゆ: 【TETRIS 99】Midnight Tetris🌃🌟【猫又お�
 UID:Z0Bp7OlFklE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Ender Dragon With Council\nhttps://www.youtube.com/watch?v=agQYsqcuc7s
+DESCRIPTION:【Minecraft】Ender Dragon With CouncilIRyS\nhttps://www.youtube.com/watch?v=agQYsqcuc7s
 DURATION:PT2H
 DTSTART:20220719T031500Z
-SUMMARY:Kronii: 【Minecraft】Ender Dragon With Council
+SUMMARY:Kronii: 【Minecraft】Ender Dragon With CouncilIRyS
 UID:agQYsqcuc7s
 END:VEVENT
 BEGIN:VEVENT
@@ -510,7 +573,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ENDER DRAGON FIGHT】 where were you when ender dragon is kill\nhttps://www.youtube.com/watch?v=8ytiNeSr4_o
 DURATION:PT2H
-DTSTART:20220719T031500Z
+DTSTART:20220719T032000Z
 SUMMARY:Fauna: 【ENDER DRAGON FIGHT】 where were you when ender dragon is kill
 UID:8ytiNeSr4_o
 END:VEVENT
