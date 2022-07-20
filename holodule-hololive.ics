@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【配信予定地】なにしよう？なにかする！【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=kz3-AVWkKj0
+DURATION:PT2H
+DTSTART:20220721T130000Z
+SUMMARY:鷹嶺ルイ: 【配信予定地】なにしよう？なにかする！【鷹嶺ルイ/ホロライブ】
+UID:kz3-AVWkKj0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【モンスターハンターライズ】先生俺・・・つよくなりたいです・・・【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=-OfFnpgKmMo
+DURATION:PT2H
+DTSTART:20220720T140000Z
+SUMMARY:鷹嶺ルイ: 【モンスターハンターライズ】先生俺・・・つよくなりたいです・・・【鷹嶺ルイ/ホロライブ】
+UID:-OfFnpgKmMo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【重大告知】7月22日わかりますよね？詳しく話します！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=UL9eJh0R0T4
 DURATION:PT2H
 DTSTART:20220720T090000Z
@@ -30,6 +44,13 @@ DURATION:PT2H
 DTSTART:20220720T103000Z
 SUMMARY:ラプラス: 【Vampire Survivors】逆張り配信者初見プレイ吸血鬼になります【ラプラス・ダークネス/ホロライブ】
 UID:0S4O9CtBtNY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RUST】混沌とした世界を生き抜く！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=IL74_VskqPQ
+DURATION:PT2H
+DTSTART:20220720T120000Z
+SUMMARY:👯兎田ぺこら: 【RUST】混沌とした世界を生き抜く！！！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:IL74_VskqPQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARK/Fjordur】ぐっすり寝たら突発になった😲洞窟いく？ #フレポル 【尾丸ポルカ/不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=YzHkagmGg-4
@@ -67,6 +88,13 @@ SUMMARY:🍙猫又おかゆ: 【TETRIS 99】朝テトリス おはよ～～～�
 UID:fXwF_W5fjn8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 重大告知 】嬉しい告知がいっぱいいっぱいあるのら！！！💗💗💗【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=eqov7QAQZ54
+DURATION:PT2H
+DTSTART:20220720T100000Z
+SUMMARY:🍬姫森ルーナ: 【 重大告知 】嬉しい告知がいっぱいいっぱいあるのら！！！💗💗💗【姫森ルーナ/ホロライブ】
+UID:eqov7QAQZ54
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:7月22日20:00～ 告知動画\nhttps://www.youtube.com/watch?v=jBYZuglgpJM
 DURATION:PT2H
 DTSTART:20220720T093325Z
@@ -79,6 +107,13 @@ DURATION:PT2H
 DTSTART:20220720T110000Z
 SUMMARY:🍙猫又おかゆ: 【カプコンアーケード2ndスタジアム】はじめてのカプスタ2！！✨【 #ホロライブレトロゲーム部】
 UID:cVITgnpVi4g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 マリオブラザーズ３ 】クリア耐久に挑戦してみるーな！！MARIO BROS.【#姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=-COCzxt1Cvo
+DURATION:PT2H
+DTSTART:20220720T130000Z
+SUMMARY:🍬姫森ルーナ: 【 マリオブラザーズ３ 】クリア耐久に挑戦してみるーな！！MARIO BROS.【#姫森ルーナ/ホロライブ】
+UID:-COCzxt1Cvo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MV】よくばりキュートガール / NEGI☆U【湊あくあ・大空スバル・桃鈴ねね】\nhttps://www.youtube.com/watch?v=WCJ22SU5sBs
@@ -158,10 +193,10 @@ SUMMARY:🤖ロボ子さん: 【hololiveERROR】夏といえばホラー👻え�
 UID:R7vpoSKMk18
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 重大告知 】嬉しい告知がいっぱいいっぱいあるのら！！！💗💗💗【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=eqov7QAQZ54
+DESCRIPTION:【 #常闇トワ新衣装 】あ～なんだろうな～楽しみだな～どんな衣装なんだろうな～【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=72aeCvtESH0
 DURATION:PT2H
-DTSTART:20220720T100000Z
-SUMMARY:🍬姫森ルーナ: 【 重大告知 】嬉しい告知がいっぱいいっぱいあるのら！！！💗💗💗【姫森ルーナ/ホロライブ】
-UID:eqov7QAQZ54
+DTSTART:20220721T110000Z
+SUMMARY:👾常闇トワ: 【 #常闇トワ新衣装 】あ～なんだろうな～楽しみだな～どんな衣装なんだろうな～【常闇トワ/ホロライブ】
+UID:72aeCvtESH0
 END:VEVENT
 END:VCALENDAR
