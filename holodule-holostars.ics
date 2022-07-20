@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【雑談】おなかいっぱい雑談【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=A8t7SIHsc6Q
+DURATION:PT2H
+DTSTART:20220720T062000Z
+SUMMARY:🍷夕刻ロベル: 【雑談】おなかいっぱい雑談【夕刻ロベル/ホロスターズ】
+UID:A8t7SIHsc6Q
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【最新相関図】ホロスターズ最新の関係性を覗いてみよう【＃わちゃスタ 34】\nhttps://www.youtube.com/watch?v=gID4qYMMAfE
 DURATION:PT2H
 DTSTART:20220721T100000Z
@@ -18,11 +25,18 @@ SUMMARY:水無世燐央: 【VALORANT】hololiveID &  UPROAR!! collab!! w/Ollie/K
 UID:RtrtBQ_TQC8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【告知あり！】夏！夏！夏！夏！夏休み直前SP！【#ホロスタに夏がきた】\nhttps://www.youtube.com/watch?v=bl3IPAIdX2Q
+DESCRIPTION:【イラストメイキング】渋谷ハルさん描かさせていただく！！【緋崎ガンマ / アップロー / ホロスターズ / Vtuber】\nhttps://www.youtube.com/watch?v=09yzag3WfTY
+DURATION:PT2H
+DTSTART:20220721T090000Z
+SUMMARY:緋崎ガンマ: 【イラストメイキング】渋谷ハルさん描かさせていただく！！【緋崎ガンマ / アップロー / ホロスターズ / Vtuber】
+UID:09yzag3WfTY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VALORANT】フルパヴァロ　w／#Kureiji_Ollie #Kobo_Kanaeru #緋崎ガンマ #水無世燐央【#夜十神封魔】\nhttps://www.youtube.com/watch?v=6dZsCq9l4AE
 DURATION:PT2H
 DTSTART:20220720T120000Z
-SUMMARY:ホロスターズ: 【告知あり！】夏！夏！夏！夏！夏休み直前SP！【#ホロスタに夏がきた】
-UID:bl3IPAIdX2Q
+SUMMARY:夜十神封魔: 【VALORANT】フルパヴァロ　w／#Kureiji_Ollie #Kobo_Kanaeru #緋崎ガンマ #水無世燐央【#夜十神封魔】
+UID:6dZsCq9l4AE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Monster Hunter Rise】ダメだ・・・もうやめられないよ・・・。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=209i2_xmwLg
@@ -32,17 +46,17 @@ SUMMARY:🦔💨岸堂天真: 【Monster Hunter Rise】ダメだ・・・もう�
 UID:209i2_xmwLg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】おなかいっぱい雑談【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=A8t7SIHsc6Q
+DESCRIPTION:【告知あり！】夏！夏！夏！夏！夏休み直前SP！【#ホロスタに夏がきた】\nhttps://www.youtube.com/watch?v=bl3IPAIdX2Q
 DURATION:PT2H
-DTSTART:20220720T062000Z
-SUMMARY:🍷夕刻ロベル: 【雑談】おなかいっぱい雑談【夕刻ロベル/ホロスターズ】
-UID:A8t7SIHsc6Q
+DTSTART:20220720T120000Z
+SUMMARY:ホロスターズ: 【告知あり！】夏！夏！夏！夏！夏休み直前SP！【#ホロスタに夏がきた】
+UID:bl3IPAIdX2Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【イラストメイキング】渋谷ハルさん描かさせていただく！！【緋崎ガンマ / アップロー / ホロスターズ / Vtuber】\nhttps://www.youtube.com/watch?v=09yzag3WfTY
+DESCRIPTION:【VALORANT】ホロIDの先輩＆同期でフルパヴァロラント【#Kureiji_Ollie #Kobo_Kanaeru #緋崎ガンマ #水無世燐央#夜十神封魔  / ホロスターズ / ホロライブID】\nhttps://www.youtube.com/watch?v=-ZNxBRR_ciI
 DURATION:PT2H
-DTSTART:20220721T090000Z
-SUMMARY:緋崎ガンマ: 【イラストメイキング】渋谷ハルさん描かさせていただく！！【緋崎ガンマ / アップロー / ホロスターズ / Vtuber】
-UID:09yzag3WfTY
+DTSTART:20220720T120000Z
+SUMMARY:緋崎ガンマ: 【VALORANT】ホロIDの先輩＆同期でフルパヴァロラント【#Kureiji_Ollie #Kobo_Kanaeru #緋崎ガンマ #水無世燐央#夜十神封魔  / ホロスターズ / ホロライブID】
+UID:-ZNxBRR_ciI
 END:VEVENT
 END:VCALENDAR
