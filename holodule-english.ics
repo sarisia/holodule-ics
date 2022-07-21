@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Stray】Orange Cat plays Orange Cat #kfp #キアライブ\nhttps://www.youtube.com/watch?v=Dod56zPIXg4
-DURATION:PT2H
-DTSTART:20220719T163000Z
-SUMMARY:Kiara: 【Stray】Orange Cat plays Orange Cat #kfp #キアライブ
-UID:Dod56zPIXg4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【TERRARIUM REVIEW】Let's Look at JARS! #AmeCraft\nhttps://www.youtube.com/watch?v=SfOlXHezzRo
 DURATION:PT2H
 DTSTART:20220721T030000Z
@@ -25,32 +18,11 @@ SUMMARY:Kiara: 【SUPERCHAT READING】It's over\, sc's. You're going down. #kfp 
 UID:qEPw2vxjTaw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Elden Ring】TOGETHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\nhttps://www.youtube.com/watch?v=St_GOEXshlc
+DESCRIPTION:≪HOLOCURE≫ FINALLY\nhttps://www.youtube.com/watch?v=dtwGLf5zd8k
 DURATION:PT2H
-DTSTART:20220719T221500Z
-SUMMARY:Amelia: 【Elden Ring】TOGETHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-UID:St_GOEXshlc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Me Help Sana Tower\nhttps://www.youtube.com/watch?v=r-9CRTqMYb8
-DURATION:PT2H
-DTSTART:20220720T010000Z
-SUMMARY:Kronii: 【Minecraft】Me Help Sana Tower
-UID:r-9CRTqMYb8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【NEON WHITE】Neon waaaaat!?! |  pt. 1\nhttps://www.youtube.com/watch?v=qj8l0UfKKH8
-DURATION:PT2H
-DTSTART:20220721T220500Z
-SUMMARY:Amelia: 【NEON WHITE】Neon waaaaat!?! |  pt. 1
-UID:qj8l0UfKKH8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[Sneak Peek] Mori Calliope Major Debut Concert “New Underworld Order”\nhttps://www.youtube.com/watch?v=tY8_Qm8kTPM
-DURATION:PT2H
-DTSTART:20220721T100000Z
-SUMMARY:Calli: [Sneak Peek] Mori Calliope Major Debut Concert “New Underworld Order”
-UID:tY8_Qm8kTPM
+DTSTART:20220722T030000Z
+SUMMARY:Baelz: ≪HOLOCURE≫ FINALLY
+UID:dtwGLf5zd8k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】 Frog Find Home\nhttps://www.youtube.com/watch?v=kOnisHc6Qv8
@@ -74,6 +46,55 @@ SUMMARY:Ina: 【Stray】 CAT
 UID:NxByUYRzj8Y
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:[ORIGINAL SONG] Make ‘Em Afraid - Mori Calliope\nhttps://www.youtube.com/watch?v=tzOXIHGfVFc
+DURATION:PT2H
+DTSTART:20220720T040000Z
+SUMMARY:Calli: [ORIGINAL SONG] Make ‘Em Afraid - Mori Calliope
+UID:tzOXIHGfVFc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Universe Sandbox】Hello little one! You're cute!\nhttps://www.youtube.com/watch?v=TyZ3rE1kY-Y
+DURATION:PT2H
+DTSTART:20220720T120000Z
+SUMMARY:Sana: 【Universe Sandbox】Hello little one! You're cute!
+UID:TyZ3rE1kY-Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Stray】 Can I pet every cat?\nhttps://www.youtube.com/watch?v=QK51RgbyXVA
+DURATION:PT2H
+DTSTART:20220719T230000Z
+SUMMARY:Fauna: 【Stray】 Can I pet every cat?
+UID:QK51RgbyXVA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Stray】Orange Cat plays Orange Cat #kfp #キアライブ\nhttps://www.youtube.com/watch?v=Dod56zPIXg4
+DURATION:PT2H
+DTSTART:20220719T163000Z
+SUMMARY:Kiara: 【Stray】Orange Cat plays Orange Cat #kfp #キアライブ
+UID:Dod56zPIXg4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Elden Ring】TOGETHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\nhttps://www.youtube.com/watch?v=St_GOEXshlc
+DURATION:PT2H
+DTSTART:20220719T221500Z
+SUMMARY:Amelia: 【Elden Ring】TOGETHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+UID:St_GOEXshlc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Me Help Sana Tower\nhttps://www.youtube.com/watch?v=r-9CRTqMYb8
+DURATION:PT2H
+DTSTART:20220720T010000Z
+SUMMARY:Kronii: 【Minecraft】Me Help Sana Tower
+UID:r-9CRTqMYb8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Sneak Peek] Mori Calliope Major Debut Concert “New Underworld Order”\nhttps://www.youtube.com/watch?v=tY8_Qm8kTPM
+DURATION:PT2H
+DTSTART:20220721T100000Z
+SUMMARY:Calli: [Sneak Peek] Mori Calliope Major Debut Concert “New Underworld Order”
+UID:tY8_Qm8kTPM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】The tower will be completed!!!\nhttps://www.youtube.com/watch?v=gawUszEwpnY
 DURATION:PT2H
 DTSTART:20220720T010000Z
@@ -88,24 +109,10 @@ SUMMARY:Mumei: 【COUNCIL+IRYS】??! DEBUT
 UID:bFjuKhG2Hzc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[ORIGINAL SONG] Make ‘Em Afraid - Mori Calliope\nhttps://www.youtube.com/watch?v=tzOXIHGfVFc
+DESCRIPTION:【NEON WHITE】Neon waaaaat!?! |  pt. 1\nhttps://www.youtube.com/watch?v=qj8l0UfKKH8
 DURATION:PT2H
-DTSTART:20220720T040000Z
-SUMMARY:Calli: [ORIGINAL SONG] Make ‘Em Afraid - Mori Calliope
-UID:tzOXIHGfVFc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Stray】 Can I pet every cat?\nhttps://www.youtube.com/watch?v=QK51RgbyXVA
-DURATION:PT2H
-DTSTART:20220719T230000Z
-SUMMARY:Fauna: 【Stray】 Can I pet every cat?
-UID:QK51RgbyXVA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Universe Sandbox】Hello little one! You're cute!\nhttps://www.youtube.com/watch?v=TyZ3rE1kY-Y
-DURATION:PT2H
-DTSTART:20220720T120000Z
-SUMMARY:Sana: 【Universe Sandbox】Hello little one! You're cute!
-UID:TyZ3rE1kY-Y
+DTSTART:20220721T220500Z
+SUMMARY:Amelia: 【NEON WHITE】Neon waaaaat!?! |  pt. 1
+UID:qj8l0UfKKH8
 END:VEVENT
 END:VCALENDAR
