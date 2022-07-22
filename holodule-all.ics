@@ -11,18 +11,18 @@ SUMMARY:🤖ロボ子さん: 【Project Winter】サバイバルが・・・い�
 UID:47IZiPiB_Nw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【TERRARIUM REVIEW】Let's Look at JARS! #AmeCraft\nhttps://www.youtube.com/watch?v=SfOlXHezzRo
-DURATION:PT2H
-DTSTART:20220721T030000Z
-SUMMARY:Amelia: 【TERRARIUM REVIEW】Let's Look at JARS! #AmeCraft
-UID:SfOlXHezzRo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ルーナ姫VSぺーこ姫 可愛さ勝負勃発！【ホロライブ/兎田ぺこら/姫森ルーナ】\nhttps://www.youtube.com/watch?v=7pB8Z3p09AU
 DURATION:PT2H
 DTSTART:20220721T094352Z
 SUMMARY:👯兎田ぺこら: ルーナ姫VSぺーこ姫 可愛さ勝負勃発！【ホロライブ/兎田ぺこら/姫森ルーナ】
 UID:7pB8Z3p09AU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【TERRARIUM REVIEW】Let's Look at JARS! #AmeCraft\nhttps://www.youtube.com/watch?v=SfOlXHezzRo
+DURATION:PT2H
+DTSTART:20220721T030000Z
+SUMMARY:Amelia: 【TERRARIUM REVIEW】Let's Look at JARS! #AmeCraft
+UID:SfOlXHezzRo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#夏色ReSTART】BIRTHDAY 3DLIVE🎂~今日はまつりが主役~【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=oFn0ZypcaM8
@@ -109,18 +109,18 @@ SUMMARY:緋崎ガンマ: 【イラストメイキング】渋谷ハルさん描�
 UID:09yzag3WfTY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【風撰組隊士募集】紡げ！心震わせる物語【アットホームな職場です】\nhttps://www.youtube.com/watch?v=F_4125XGiQo
-DURATION:PT2H
-DTSTART:20220721T103000Z
-SUMMARY:ホロライブ: 【風撰組隊士募集】紡げ！心震わせる物語【アットホームな職場です】
-UID:F_4125XGiQo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【パネルでポン】お正月になるとみんなで集まって遊んでたパネポン🎍【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=6rVP8A-tDUo
 DURATION:PT2H
 DTSTART:20220721T120000Z
 SUMMARY:🍙猫又おかゆ: 【パネルでポン】お正月になるとみんなで集まって遊んでたパネポン🎍【猫又おかゆ/ホロライブ】
 UID:6rVP8A-tDUo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【風撰組隊士募集】紡げ！心震わせる物語【アットホームな職場です】\nhttps://www.youtube.com/watch?v=F_4125XGiQo
+DURATION:PT2H
+DTSTART:20220721T103000Z
+SUMMARY:ホロライブ: 【風撰組隊士募集】紡げ！心震わせる物語【アットホームな職場です】
+UID:F_4125XGiQo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 マリオカート8DX 】初心者だけど大会で波乱起こすわ！！【#ホロスタマリカ最強カルテット選手権】【#緋崎ガンマ  #アップロー #ホロスターズ】\nhttps://www.youtube.com/watch?v=WahDAYW9tDg
@@ -177,6 +177,13 @@ DURATION:PT2H
 DTSTART:20220721T130000Z
 SUMMARY:鷹嶺ルイ: 【モンスターハンターライズ】視聴者参加型！姫プと言われないようにがんばる！【鷹嶺ルイ/ホロライブ】
 UID:kz3-AVWkKj0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【モンハンサンブレイク】かざまは弓で行く🔥やっとサンブレイクまで来た！！【風真いろは/ホロライブ6期生】\nhttps://www.youtube.com/watch?v=7TagblNQFhY
+DURATION:PT2H
+DTSTART:20220722T133000Z
+SUMMARY:風真いろは: 【モンハンサンブレイク】かざまは弓で行く🔥やっとサンブレイクまで来た！！【風真いろは/ホロライブ6期生】
+UID:7TagblNQFhY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:It's a secret\, aight?\nhttps://www.youtube.com/watch?v=dVZYxWDjbXQ
@@ -298,6 +305,13 @@ SUMMARY:羽継烏有: 【DBD】全キラー全滅する【#羽継烏有 /#アッ
 UID:163Tgp3SGrc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#ホロスタマリカ最強カルテット選手権】本番！「TEAM C」夜十神封魔・視点【マリオカート8DX】\nhttps://www.youtube.com/watch?v=HJRzLRzZ-KE
+DURATION:PT2H
+DTSTART:20220723T100000Z
+SUMMARY:夜十神封魔: 【#ホロスタマリカ最強カルテット選手権】本番！「TEAM C」夜十神封魔・視点【マリオカート8DX】
+UID:HJRzLRzZ-KE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【SUPERCHAT READING】It's over\, sc's. You're going down. #kfp #キアライブ\nhttps://www.youtube.com/watch?v=qEPw2vxjTaw
 DURATION:PT2H
 DTSTART:20220721T150000Z
@@ -310,13 +324,6 @@ DURATION:PT2H
 DTSTART:20220721T070035Z
 SUMMARY:ラプラス: ダーリンダンス 踊ってみた💜#shorts
 UID:xS6ZcjXDEpM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロスタマリカ最強カルテット選手権】本番！「TEAM C」夜十神封魔・視点【マリオカート8DX】\nhttps://www.youtube.com/watch?v=HJRzLRzZ-KE
-DURATION:PT2H
-DTSTART:20220723T100000Z
-SUMMARY:夜十神封魔: 【#ホロスタマリカ最強カルテット選手権】本番！「TEAM C」夜十神封魔・視点【マリオカート8DX】
-UID:HJRzLRzZ-KE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:勝つぞ！team「戦慄の蟹浅草」【#ホロスタマリカ最強カルテット選手権】【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=xklsZG0jiTU
@@ -501,13 +508,6 @@ SUMMARY:風真いろは: 【RFA】サマーに向けて運動するでござる�
 UID:Vh6EZLv1tIk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Monster Hunter Rise】納刀術で気持ちよくなってるところを見てください。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=XlOfqHOxs3o
-DURATION:PT2H
-DTSTART:20220721T044500Z
-SUMMARY:🦔💨岸堂天真: 【Monster Hunter Rise】納刀術で気持ちよくなってるところを見てください。【岸堂天真/ホロスターズ】
-UID:XlOfqHOxs3o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【マインクラフト/Minecraft】ID鯖とつながったらしい！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=O8uQ9hYYNWQ
 DURATION:PT2H
 DTSTART:20220721T130000Z
@@ -520,6 +520,13 @@ DURATION:PT2H
 DTSTART:20220721T140000Z
 SUMMARY:🏴☠宝鐘マリン: 約一年ぶり、シナジーは生まれたのか？【ホロライブ/宝鐘マリン・大空スバル】
 UID:Upt5c8FVGXs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Monster Hunter Rise】納刀術で気持ちよくなってるところを見てください。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=XlOfqHOxs3o
+DURATION:PT2H
+DTSTART:20220721T044500Z
+SUMMARY:🦔💨岸堂天真: 【Monster Hunter Rise】納刀術で気持ちよくなってるところを見てください。【岸堂天真/ホロスターズ】
+UID:XlOfqHOxs3o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【メンバーシップ限定】暑い日はキンキンに冷えた水が一番うまい【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=gVNElzqeOqM
