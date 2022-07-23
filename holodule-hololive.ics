@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【FF7】人生初FF！Ⅶオリジナル版！～増えた仲間、パーティは2席～ #5【博衣こより/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=_fHXM_WLJr4
-DURATION:PT2H
-DTSTART:20220723T020000Z
-SUMMARY:博衣こより: 【FF7】人生初FF！Ⅶオリジナル版！～増えた仲間、パーティは2席～ #5【博衣こより/ホロライブ】※ネタバレあり
-UID:_fHXM_WLJr4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#夏色ReSTART】BIRTHDAY 3DLIVE🎂~今日はまつりが主役~【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=oFn0ZypcaM8
 DURATION:PT2H
 DTSTART:20220722T110000Z
@@ -193,11 +186,11 @@ SUMMARY:🍬姫森ルーナ: 【 #姫森ルーナ新衣装 】Loyaltyな新衣�
 UID:Xgb-52TwUJU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Stray】ネコ科の異世界ネコ歩き【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=dGPqM9W15uU
+DESCRIPTION:【２１時か２２時】やああああああああああ！【】\nhttps://www.youtube.com/watch?v=3gAF0mfGP_4
 DURATION:PT2H
 DTSTART:20220723T120000Z
-SUMMARY:獅白ぼたん: 【Stray】ネコ科の異世界ネコ歩き【獅白ぼたん/ホロライブ】
-UID:dGPqM9W15uU
+SUMMARY:🥐戌神ころね: 【２１時か２２時】やああああああああああ！【】
+UID:3gAF0mfGP_4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【stray】猫になって大冒険するゲーム？！【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=EG_bvfUeicE
@@ -205,6 +198,13 @@ DURATION:PT2H
 DTSTART:20220722T120000Z
 SUMMARY:🥐戌神ころね: 【stray】猫になって大冒険するゲーム？！【戌神ころね/ホロライブ】
 UID:EG_bvfUeicE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Stray】ネコ科の異世界ネコ歩き【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=dGPqM9W15uU
+DURATION:PT2H
+DTSTART:20220723T120000Z
+SUMMARY:獅白ぼたん: 【Stray】ネコ科の異世界ネコ歩き【獅白ぼたん/ホロライブ】
+UID:dGPqM9W15uU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ホロライブERROR】聞いてた話と違います。怖くないんですよね？【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=_OibYqDwpfU
@@ -275,5 +275,12 @@ DURATION:PT2H
 DTSTART:20220723T040000Z
 SUMMARY:🐻ときのそら: 【百英雄伝 Rising】仲良し3人旅に【#ときのそら生放送】
 UID:h7MoQFX3jwI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【配信予定】ぺこぺこぺえええええええええええこぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=Ah9-mZV6zfM
+DURATION:PT2H
+DTSTART:20220723T130000Z
+SUMMARY:👯兎田ぺこら: 【配信予定】ぺこぺこぺえええええええええええこぺこ！【ホロライブ/兎田ぺこら】
+UID:Ah9-mZV6zfM
 END:VEVENT
 END:VCALENDAR
