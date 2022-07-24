@@ -4,32 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#Kiara3DBirbday】3D Birthday Concert! ✨DIRECTOR'S CUT✨\nhttps://www.youtube.com/watch?v=rHMZxQxnp8Q
-DURATION:PT2H
-DTSTART:20220724T140000Z
-SUMMARY:Kiara: 【#Kiara3DBirbday】3D Birthday Concert! ✨DIRECTOR'S CUT✨
-UID:rHMZxQxnp8Q
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Elden Ring】 Story Time....? 【SPOILER WARNING】【#21】\nhttps://www.youtube.com/watch?v=LAaKx9FLBjA
 DURATION:PT2H
 DTSTART:20220724T210000Z
 SUMMARY:Ina: 【Elden Ring】 Story Time....? 【SPOILER WARNING】【#21】
 UID:LAaKx9FLBjA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Day 2】HOLOSTARS English Debut Watch-along! #Syrios_Debut #Vesper_Debut #holoTEMPUS\nhttps://www.youtube.com/watch?v=Y_8NBITAdgM
-DURATION:PT2H
-DTSTART:20220724T004500Z
-SUMMARY:ENholo: 【Day 2】HOLOSTARS English Debut Watch-along! #Syrios_Debut #Vesper_Debut #holoTEMPUS
-UID:Y_8NBITAdgM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【KFP 101】Ep. 03: #WOKE #YOLK\nhttps://www.youtube.com/watch?v=3aie_i5Er8s
-DURATION:PT2H
-DTSTART:20220723T190000Z
-SUMMARY:Kiara: 【KFP 101】Ep. 03: #WOKE #YOLK
-UID:3aie_i5Er8s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Superchat Catchup】Pick It Up\nhttps://www.youtube.com/watch?v=q3_MAef-oPA
@@ -51,5 +30,33 @@ DURATION:PT2H
 DTSTART:20220723T221500Z
 SUMMARY:Fauna: 【KU100 ASMR】 Summer Spa Treatment ASMR ♡
 UID:vpWsXk4fqqA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#Kiara3DBirbday】3D Birthday Concert! ✨DIRECTOR'S CUT✨\nhttps://www.youtube.com/watch?v=rHMZxQxnp8Q
+DURATION:PT2H
+DTSTART:20220724T140000Z
+SUMMARY:Kiara: 【#Kiara3DBirbday】3D Birthday Concert! ✨DIRECTOR'S CUT✨
+UID:rHMZxQxnp8Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Day 2】HOLOSTARS English Debut Watch-along! #Syrios_Debut #Vesper_Debut #holoTEMPUS\nhttps://www.youtube.com/watch?v=Y_8NBITAdgM
+DURATION:PT2H
+DTSTART:20220724T004500Z
+SUMMARY:ENholo: 【Day 2】HOLOSTARS English Debut Watch-along! #Syrios_Debut #Vesper_Debut #holoTEMPUS
+UID:Y_8NBITAdgM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【KFP 101】Ep. 03: #WOKE #YOLK\nhttps://www.youtube.com/watch?v=3aie_i5Er8s
+DURATION:PT2H
+DTSTART:20220723T190000Z
+SUMMARY:Kiara: 【KFP 101】Ep. 03: #WOKE #YOLK
+UID:3aie_i5Er8s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】ID server !\nhttps://www.youtube.com/watch?v=6puvpOmoqZY
+DURATION:PT2H
+DTSTART:20220725T000000Z
+SUMMARY:Gura: 【MINECRAFT】ID server !
+UID:6puvpOmoqZY
 END:VEVENT
 END:VCALENDAR
