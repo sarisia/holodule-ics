@@ -4,6 +4,27 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Stray】I'm Cat | #1\nhttps://www.youtube.com/watch?v=4lqxD29mnVQ
+DURATION:PT2H
+DTSTART:20220726T010000Z
+SUMMARY:Kronii: 【Stray】I'm Cat | #1
+UID:4lqxD29mnVQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪STRAY≫ im a rat i mean cat\nhttps://www.youtube.com/watch?v=QsBUMXJkKB0
+DURATION:PT2H
+DTSTART:20220727T020000Z
+SUMMARY:Baelz: ≪STRAY≫ im a rat i mean cat
+UID:QsBUMXJkKB0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Move or Die】 PARTY GAME INSANITY\nhttps://www.youtube.com/watch?v=gqxiQbFk_gs
+DURATION:PT2H
+DTSTART:20220726T030000Z
+SUMMARY:Fauna: 【Move or Die】 PARTY GAME INSANITY
+UID:gqxiQbFk_gs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:≪CHAT≫ sleep talks\nhttps://www.youtube.com/watch?v=d906yDVruoI
 DURATION:PT2H
 DTSTART:20220726T010000Z
@@ -32,24 +53,10 @@ SUMMARY:Calli: 【ELDEN RING #18】I'm Back\, Silly Bakas. (SPOILER ALERT)
 UID:PoLCbBTqlww
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Stray】I'm Cat | #1\nhttps://www.youtube.com/watch?v=4lqxD29mnVQ
+DESCRIPTION:【RUST】release the shark\nhttps://www.youtube.com/watch?v=H9Ycp5JRR88
 DURATION:PT2H
-DTSTART:20220726T010000Z
-SUMMARY:Kronii: 【Stray】I'm Cat | #1
-UID:4lqxD29mnVQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪STRAY≫ im a rat i mean cat\nhttps://www.youtube.com/watch?v=QsBUMXJkKB0
-DURATION:PT2H
-DTSTART:20220727T020000Z
-SUMMARY:Baelz: ≪STRAY≫ im a rat i mean cat
-UID:QsBUMXJkKB0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Move or Die】 PARTY GAME INSANITY\nhttps://www.youtube.com/watch?v=gqxiQbFk_gs
-DURATION:PT2H
-DTSTART:20220726T030000Z
-SUMMARY:Fauna: 【Move or Die】 PARTY GAME INSANITY
-UID:gqxiQbFk_gs
+DTSTART:20220727T000000Z
+SUMMARY:Gura: 【RUST】release the shark
+UID:H9Ycp5JRR88
 END:VEVENT
 END:VCALENDAR
