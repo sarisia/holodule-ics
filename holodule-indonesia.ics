@@ -4,10 +4,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Stray】meow for me\, chat🐱\nhttps://www.youtube.com/watch?v=Kf41cpDysLc
+DESCRIPTION:STRAY • meow for me\, chat🐱\nhttps://www.youtube.com/watch?v=Kf41cpDysLc
 DURATION:PT2H
 DTSTART:20220725T120000Z
-SUMMARY:Zeta: 【Stray】meow for me\, chat🐱
+SUMMARY:Zeta: STRAY • meow for me\, chat🐱
 UID:Kf41cpDysLc
 END:VEVENT
 BEGIN:VEVENT
@@ -39,11 +39,18 @@ SUMMARY:Anya: 【RUST】It's HAPPENING. アーニャさんも遂にRustホロ鯖
 UID:0u9MJkjwP6s
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Building A Railway to Nether Portal\nhttps://www.youtube.com/watch?v=CKKpDKX0BYY
+DESCRIPTION:MINECRAFT • Building A Railway to Nether Portal\nhttps://www.youtube.com/watch?v=CKKpDKX0BYY
 DURATION:PT2H
 DTSTART:20220726T130000Z
-SUMMARY:Zeta: 【Minecraft】Building A Railway to Nether Portal
+SUMMARY:Zeta: MINECRAFT • Building A Railway to Nether Portal
 UID:CKKpDKX0BYY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Quartz (netherite hehe) Grinding  ⛏️【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=AFFkGo7eYXk
+DURATION:PT2H
+DTSTART:20220726T070000Z
+SUMMARY:Kaela: 【Minecraft】Quartz (netherite hehe) Grinding  ⛏️【Kaela Kovalskia / hololive ID】
+UID:AFFkGo7eYXk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】OMG august is near! need to finish this!!【GeeMoon】\nhttps://www.youtube.com/watch?v=YpubdYLkIZo
