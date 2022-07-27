@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【テスト返し】返却ロベル【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=4nO117CHE7I
+DURATION:PT2H
+DTSTART:20220727T080000Z
+SUMMARY:🍷夕刻ロベル: 【テスト返し】返却ロベル【夕刻ロベル/ホロスターズ】
+UID:4nO117CHE7I
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】生まれたことに感謝する幽霊/水無世燐央【アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=rhtz2jHDqq8
 DURATION:PT2H
 DTSTART:20220726T140000Z
@@ -81,13 +88,6 @@ SUMMARY:水無世燐央: 「【雑談】誕生日の瞬間をみんなと/水無
 UID:ofgpp-SK66U
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:『TFT』作業しながらプレイしてるから、君たちが僕を完全操作してくれ!!!!! /  Astel Leda\nhttps://www.youtube.com/watch?v=FApJRaDZAUI
-DURATION:PT2H
-DTSTART:20220727T004500Z
-SUMMARY:🎭アステル・レダ: 『TFT』作業しながらプレイしてるから、君たちが僕を完全操作してくれ!!!!! /  Astel Leda
-UID:FApJRaDZAUI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌ってみた】CH4NGE / Giga 【covered by 水無世燐央 Minase rio】\nhttps://www.youtube.com/watch?v=JgIiJ2HDg1w
 DURATION:PT2H
 DTSTART:20220726T120000Z
@@ -95,18 +95,18 @@ SUMMARY:水無世燐央: 【歌ってみた】CH4NGE / Giga 【covered by 水無
 UID:JgIiJ2HDg1w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Cuphead DLC 】 カップヘッドDLC、６時間以内にクリアする枠 【 羽継烏有  / 夜十神封魔  / はねがみ 】\nhttps://www.youtube.com/watch?v=HaROGK3483A
-DURATION:PT2H
-DTSTART:20220727T010000Z
-SUMMARY:羽継烏有: 【 Cuphead DLC 】 カップヘッドDLC、６時間以内にクリアする枠 【 羽継烏有  / 夜十神封魔  / はねがみ 】
-UID:HaROGK3483A
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【FreeTalk】寝れない夜の雑談配信【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=8Qi1Qc-AmMo
 DURATION:PT2H
 DTSTART:20220726T154500Z
 SUMMARY:🍕アルランディス: 【FreeTalk】寝れない夜の雑談配信【アルランディス/ホロスターズ】
 UID:8Qi1Qc-AmMo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VALORANT】紅戯らるさんとエンジョイヴァロ！！【#holostars #緋崎ガンマ  / ホロスターズ 】\nhttps://www.youtube.com/watch?v=sHK2adZRH0E
+DURATION:PT2H
+DTSTART:20220727T070000Z
+SUMMARY:緋崎ガンマ: 【VALORANT】紅戯らるさんとエンジョイヴァロ！！【#holostars #緋崎ガンマ  / ホロスターズ 】
+UID:sHK2adZRH0E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【モンスターハンターライズ:サンブレイク】みんなモンハン大好きです【風見くく/ヒラ/成瀬鳴/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=ZPZqjpr0Tf0
