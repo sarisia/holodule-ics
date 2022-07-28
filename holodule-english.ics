@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Kirby And The Forgotten Land】Kirb Stomp Boss | #4\nhttps://www.youtube.com/watch?v=BnbiJbZa3TU
+DURATION:PT2H
+DTSTART:20220727T020000Z
+SUMMARY:Kronii: 【Kirby And The Forgotten Land】Kirb Stomp Boss | #4
+UID:BnbiJbZa3TU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】CAN WATSON IMPROVE?(can u guys teach me how to gitgud ty)\nhttps://www.youtube.com/watch?v=kd3-nE7uzq8
 DURATION:PT2H
 DTSTART:20220726T221500Z
 SUMMARY:Amelia: 【APEX】CAN WATSON IMPROVE?(can u guys teach me how to gitgud ty)
 UID:kd3-nE7uzq8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Stray】If You Thought the Title Would Be CAT CAT CAT You Are Correct 【#3】\nhttps://www.youtube.com/watch?v=zgM5Of1rOJk
+DURATION:PT2H
+DTSTART:20220726T210000Z
+SUMMARY:Ina: 【Stray】If You Thought the Title Would Be CAT CAT CAT You Are Correct 【#3】
+UID:zgM5Of1rOJk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】 that's metal\nhttps://www.youtube.com/watch?v=9b5Hj5bc354
@@ -18,18 +32,18 @@ SUMMARY:Mumei: 【RUST】 that's metal
 UID:9b5Hj5bc354
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】ID Server?\nhttps://www.youtube.com/watch?v=6uTNjxChxWw
-DURATION:PT2H
-DTSTART:20220728T020000Z
-SUMMARY:Mumei: 【MINECRAFT】ID Server?
-UID:6uTNjxChxWw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪STRAY≫ im a rat i mean cat\nhttps://www.youtube.com/watch?v=QsBUMXJkKB0
 DURATION:PT2H
 DTSTART:20220727T020000Z
 SUMMARY:Baelz: ≪STRAY≫ im a rat i mean cat
 UID:QsBUMXJkKB0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】ID Server?\nhttps://www.youtube.com/watch?v=6uTNjxChxWw
+DURATION:PT2H
+DTSTART:20220728T020000Z
+SUMMARY:Mumei: 【MINECRAFT】ID Server?
+UID:6uTNjxChxWw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【THE QUARRY - FINALE】pee pee peanut butter butter pops. (Part 2)\nhttps://www.youtube.com/watch?v=Yqts40iciiA
@@ -53,6 +67,27 @@ SUMMARY:Kiara: Learning Korean with NABI MAMA! 가르쳐주세요! #kfp #キア�
 UID:v0P66wRbIWo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Stray】FINYALE! Reunion with friends soon!? #kfp #キアライブ\nhttps://www.youtube.com/watch?v=JERtlyQZGU8
+DURATION:PT2H
+DTSTART:20220726T160000Z
+SUMMARY:Kiara: 【Stray】FINYALE! Reunion with friends soon!? #kfp #キアライブ
+UID:JERtlyQZGU8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Powerwash Simulator】Just Washing But No Pressure\nhttps://www.youtube.com/watch?v=Cpgfp5L-kT4
+DURATION:PT2H
+DTSTART:20220727T220000Z
+SUMMARY:Kronii: 【Powerwash Simulator】Just Washing But No Pressure
+UID:Cpgfp5L-kT4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Elden Ring】ITS COLD AT THE TOP (spoilers) brrrr\nhttps://www.youtube.com/watch?v=HaJCmGrxzzs
+DURATION:PT2H
+DTSTART:20220727T033000Z
+SUMMARY:Amelia: 【Elden Ring】ITS COLD AT THE TOP (spoilers) brrrr
+UID:HaJCmGrxzzs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【RUST】release the shark\nhttps://www.youtube.com/watch?v=H9Ycp5JRR88
 DURATION:PT2H
 DTSTART:20220727T001057Z
@@ -65,48 +100,6 @@ DURATION:PT2H
 DTSTART:20220728T011500Z
 SUMMARY:Baelz: ≪MINECRAFT≫ little rat in block world
 UID:6Onu1dX7riI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Powerwash Simulator】Just Washing But No Pressure\nhttps://www.youtube.com/watch?v=Cpgfp5L-kT4
-DURATION:PT2H
-DTSTART:20220727T220000Z
-SUMMARY:Kronii: 【Powerwash Simulator】Just Washing But No Pressure
-UID:Cpgfp5L-kT4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Kirby And The Forgotten Land】Kirb Stomp Boss | #4\nhttps://www.youtube.com/watch?v=BnbiJbZa3TU
-DURATION:PT2H
-DTSTART:20220727T020000Z
-SUMMARY:Kronii: 【Kirby And The Forgotten Land】Kirb Stomp Boss | #4
-UID:BnbiJbZa3TU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Stray】If You Thought the Title Would Be CAT CAT CAT You Are Correct 【#3】\nhttps://www.youtube.com/watch?v=zgM5Of1rOJk
-DURATION:PT2H
-DTSTART:20220726T210000Z
-SUMMARY:Ina: 【Stray】If You Thought the Title Would Be CAT CAT CAT You Are Correct 【#3】
-UID:zgM5Of1rOJk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Elden Ring】EXTRA SPICE ON MY ERD TREE (spoilers)\nhttps://www.youtube.com/watch?v=y2fLDEglIL8
-DURATION:PT2H
-DTSTART:20220728T012000Z
-SUMMARY:Amelia: 【Elden Ring】EXTRA SPICE ON MY ERD TREE (spoilers)
-UID:y2fLDEglIL8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Stray】FINYALE! Reunion with friends soon!? #kfp #キアライブ\nhttps://www.youtube.com/watch?v=JERtlyQZGU8
-DURATION:PT2H
-DTSTART:20220726T160000Z
-SUMMARY:Kiara: 【Stray】FINYALE! Reunion with friends soon!? #kfp #キアライブ
-UID:JERtlyQZGU8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Elden Ring】ITS COLD AT THE TOP (spoilers) brrrr\nhttps://www.youtube.com/watch?v=HaJCmGrxzzs
-DURATION:PT2H
-DTSTART:20220727T033000Z
-SUMMARY:Amelia: 【Elden Ring】ITS COLD AT THE TOP (spoilers) brrrr
-UID:HaJCmGrxzzs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[ORIGINAL SONG] Kamouflage - Mori Calliope\nhttps://www.youtube.com/watch?v=KlWzYgXfvgU
