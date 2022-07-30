@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【夜の】のんびり雑談枠【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=TTsMlDMaN80
-DURATION:PT2H
-DTSTART:20220730T134500Z
-SUMMARY:🐻ときのそら: 【夜の】のんびり雑談枠【#ときのそら生放送】
-UID:TTsMlDMaN80
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ド初心者】２回目のモンスターハンターライズ！まったり村クエ進めるよ～【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=g2FNvJIVYjc
 DURATION:PT2H
 DTSTART:20220730T130000Z
@@ -149,6 +142,13 @@ DURATION:PT2H
 DTSTART:20220730T090000Z
 SUMMARY:🍬姫森ルーナ: 【 Frog Bath 】カエルの王様に石鹸やシャンプーを届けるゲコ！なのら！🐸【姫森ルーナ/ホロライブ】
 UID:eHzyORydQKE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ガチ最終回】テイルズ オブ ジアビス するしゅばあああああああああああああ！！！！！！：TALES OF THE ABYSS【ネタバレあり】\nhttps://www.youtube.com/watch?v=zw-86QLwP20
+DURATION:PT2H
+DTSTART:20220731T040000Z
+SUMMARY:🚑大空スバル: 【#ガチ最終回】テイルズ オブ ジアビス するしゅばあああああああああああああ！！！！！！：TALES OF THE ABYSS【ネタバレあり】
+UID:zw-86QLwP20
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】ギャンブルじゃないRUSTする為にスモールオイルリグへ【白上フブキ】\nhttps://www.youtube.com/watch?v=RaJOGn7ml3k

@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【夜の】のんびり雑談枠【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=TTsMlDMaN80
-DURATION:PT2H
-DTSTART:20220730T134500Z
-SUMMARY:🐻ときのそら: 【夜の】のんびり雑談枠【#ときのそら生放送】
-UID:TTsMlDMaN80
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【SPORE】EVOLVE. ADAPT. SURVIVE. | PT 2\nhttps://www.youtube.com/watch?v=9Oi3fZwGpKc
 DURATION:PT2H
 DTSTART:20220801T030000Z
@@ -51,6 +44,13 @@ DURATION:PT2H
 DTSTART:20220730T230000Z
 SUMMARY:Sana: Sana is ETERNAL!
 UID:t8vPcBsVIqY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#2【ドラゴンクエストXI S】全てを失った...。ドン底からのリスタート...！【#夜十神封魔/#ホロスターズ/#アップロー】※ネタバレあり\nhttps://www.youtube.com/watch?v=BgJK3WuYVZI
+DURATION:PT2H
+DTSTART:20220730T100000Z
+SUMMARY:夜十神封魔: #2【ドラゴンクエストXI S】全てを失った...。ドン底からのリスタート...！【#夜十神封魔/#ホロスターズ/#アップロー】※ネタバレあり
+UID:BgJK3WuYVZI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Cuphead】#2 continuing the so-called chill game【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=J5PE1Ne_ub8
@@ -373,6 +373,13 @@ DURATION:PT2H
 DTSTART:20220730T021000Z
 SUMMARY:Mumei: 【COOKING SIMULATOR】I'm A Chef\, You See
 UID:r--FPAlgkFQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ガチ最終回】テイルズ オブ ジアビス するしゅばあああああああああああああ！！！！！！：TALES OF THE ABYSS【ネタバレあり】\nhttps://www.youtube.com/watch?v=zw-86QLwP20
+DURATION:PT2H
+DTSTART:20220731T040000Z
+SUMMARY:🚑大空スバル: 【#ガチ最終回】テイルズ オブ ジアビス するしゅばあああああああああああああ！！！！！！：TALES OF THE ABYSS【ネタバレあり】
+UID:zw-86QLwP20
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】ギャンブルじゃないRUSTする為にスモールオイルリグへ【白上フブキ】\nhttps://www.youtube.com/watch?v=RaJOGn7ml3k
