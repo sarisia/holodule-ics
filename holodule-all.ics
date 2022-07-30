@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【夜の】のんびり雑談枠【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=TTsMlDMaN80
+DURATION:PT2H
+DTSTART:20220730T134500Z
+SUMMARY:🐻ときのそら: 【夜の】のんびり雑談枠【#ときのそら生放送】
+UID:TTsMlDMaN80
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【SPORE】EVOLVE. ADAPT. SURVIVE. | PT 2\nhttps://www.youtube.com/watch?v=9Oi3fZwGpKc
 DURATION:PT2H
 DTSTART:20220801T030000Z
@@ -221,10 +228,10 @@ SUMMARY:👾常闇トワ: 【スプラトゥーン2】スプラトゥーン2ス�
 UID:h-Bp-UtS1U4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ASMR】Deep Sleep : Whisper\, Ear cleaning\, Relax\nhttps://www.youtube.com/watch?v=WdLhFP1usMA
+DESCRIPTION:【ASMR】Relax Sleep : Whisper\, Ear cleaning\, Ear Oil Massage\nhttps://www.youtube.com/watch?v=WdLhFP1usMA
 DURATION:PT2H
 DTSTART:20220730T140000Z
-SUMMARY:Zeta: 【ASMR】Deep Sleep : Whisper\, Ear cleaning\, Relax
+SUMMARY:Zeta: 【ASMR】Relax Sleep : Whisper\, Ear cleaning\, Ear Oil Massage
 UID:WdLhFP1usMA
 END:VEVENT
 BEGIN:VEVENT
