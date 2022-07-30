@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Duolingo】learning spanish from ABC 📚【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=i2CqvZz149I
-DURATION:PT2H
-DTSTART:20220729T130000Z
-SUMMARY:Kaela: 【Duolingo】learning spanish from ABC 📚【Kaela Kovalskia / hololive ID】
-UID:i2CqvZz149I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#6【AI: THE SOMNIUM FILES – nirvanA Initiative】IN JUST 6 MINUTES YOU TOO CAN UNTRAUMA【Pavolia Reine】\nhttps://www.youtube.com/watch?v=vd2EGNt9GUw
 DURATION:PT2H
 DTSTART:20220729T130000Z
@@ -32,13 +25,6 @@ SUMMARY:Anya: 【RUST】It's HAPPENING. アーニャさんも遂にRustホロ鯖
 UID:fqt2Cjc8F-4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【League of Legends: Wild Rift】moba and chill\nhttps://www.youtube.com/watch?v=x1k0wLx9xdI
-DURATION:PT2H
-DTSTART:20220729T171500Z
-SUMMARY:Kobo: 【League of Legends: Wild Rift】moba and chill
-UID:x1k0wLx9xdI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【HOLOTYPING】HOW FAST CAN YOU TYPE YOUR OSHI'S NAME?!【Hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=O8nqUkWcbO8
 DURATION:PT2H
 DTSTART:20220729T132932Z
@@ -46,10 +32,31 @@ SUMMARY:Ollie: 【HOLOTYPING】HOW FAST CAN YOU TYPE YOUR OSHI'S NAME?!【Hololi
 UID:O8nqUkWcbO8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【League of Legends: Wild Rift】moba and chill\nhttps://www.youtube.com/watch?v=x1k0wLx9xdI
+DURATION:PT2H
+DTSTART:20220729T171500Z
+SUMMARY:Kobo: 【League of Legends: Wild Rift】moba and chill
+UID:x1k0wLx9xdI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【The Mortuary Assistant Demo】Mari menjaga situasi kamar mayat tetap kondusif !\nhttps://www.youtube.com/watch?v=ttkT_m0cevg
 DURATION:PT2H
 DTSTART:20220729T140000Z
 SUMMARY:Kobo: 【The Mortuary Assistant Demo】Mari menjaga situasi kamar mayat tetap kondusif !
 UID:ttkT_m0cevg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Monster Hunter RISE 】YOPI LEVELING UP! LET'S GO!【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=nHUwg7iortA
+DURATION:PT2H
+DTSTART:20220730T120000Z
+SUMMARY:🎨Iofi: 【 Monster Hunter RISE 】YOPI LEVELING UP! LET'S GO!【 iofi / ホロライブ 】
+UID:nHUwg7iortA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Duolingo】learning spanish from ABC 📚【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=i2CqvZz149I
+DURATION:PT2H
+DTSTART:20220729T130000Z
+SUMMARY:Kaela: 【Duolingo】learning spanish from ABC 📚【Kaela Kovalskia / hololive ID】
+UID:i2CqvZz149I
 END:VEVENT
 END:VCALENDAR
