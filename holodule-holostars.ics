@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【同時視聴で振り返り】#ゆるボスタの旅 思い出語らい配信！【花咲みやび/岸堂天真/影山シエン/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=mNPHGoqx_iE
+DESCRIPTION:【弾き語り #歌枠 】午後のまったりタイムや作業のおともに【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=2W897aMDIX8
 DURATION:PT2H
-DTSTART:20220801T100000Z
-SUMMARY:🍕アルランディス: 【同時視聴で振り返り】#ゆるボスタの旅 思い出語らい配信！【花咲みやび/岸堂天真/影山シエン/アルランディス/ホロスターズ】
-UID:mNPHGoqx_iE
+DTSTART:20220731T060000Z
+SUMMARY:⚙律可: 【弾き語り #歌枠 】午後のまったりタイムや作業のおともに【律可/ホロスターズ】#りつすた
+UID:2W897aMDIX8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Apex Legends】深夜の突発えいぺっくす！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=pRkO4xS-Q0I
+DURATION:PT2H
+DTSTART:20220730T171500Z
+SUMMARY:⚙律可: 【Apex Legends】深夜の突発えいぺっくす！【律可/ホロスターズ】#りつすた
+UID:pRkO4xS-Q0I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Apex Legends】右斜め45度出陣します！【律可/みかんGG/わず/ホロスターズ】#OZCUP\nhttps://www.youtube.com/watch?v=mHrTuJ4n3aI
@@ -25,66 +32,17 @@ SUMMARY:🎭アステル・レダ: 『Sing』夏ってかんじじゃん。 /  A
 UID:8uHR8PsTiSQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【弾き語り #歌枠 】午後のまったりタイムや作業のおともに【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=2W897aMDIX8
+DESCRIPTION:【Stray】猫ちゃんになって冒険ができるゲーム？！/水無世燐央【アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=t24s89FVPVo
 DURATION:PT2H
-DTSTART:20220731T060000Z
-SUMMARY:⚙律可: 【弾き語り #歌枠 】午後のまったりタイムや作業のおともに【律可/ホロスターズ】#りつすた
-UID:2W897aMDIX8
+DTSTART:20220802T120000Z
+SUMMARY:水無世燐央: 【Stray】猫ちゃんになって冒険ができるゲーム？！/水無世燐央【アップロー/ホロスターズ】
+UID:t24s89FVPVo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#2【ドラゴンクエストXI S】全てを失った...。ドン底からのリスタート...！【#夜十神封魔/#ホロスターズ/#アップロー】※ネタバレあり\nhttps://www.youtube.com/watch?v=BgJK3WuYVZI
+DESCRIPTION:【同時視聴で振り返り】#ゆるボスタの旅 思い出語らい配信！【花咲みやび/岸堂天真/影山シエン/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=mNPHGoqx_iE
 DURATION:PT2H
-DTSTART:20220730T100000Z
-SUMMARY:夜十神封魔: #2【ドラゴンクエストXI S】全てを失った...。ドン底からのリスタート...！【#夜十神封魔/#ホロスターズ/#アップロー】※ネタバレあり
-UID:BgJK3WuYVZI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Apex Legends】深夜の突発えいぺっくす！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=pRkO4xS-Q0I
-DURATION:PT2H
-DTSTART:20220730T171500Z
-SUMMARY:⚙律可: 【Apex Legends】深夜の突発えいぺっくす！【律可/ホロスターズ】#りつすた
-UID:pRkO4xS-Q0I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Oxide Room 104 】 まったく怖がらない男が、不気味なモーテルから脱出する 【#羽継烏有 /#アップロー /#holostars 】\nhttps://www.youtube.com/watch?v=__BGmFRXpdA
-DURATION:PT2H
-DTSTART:20220730T120000Z
-SUMMARY:羽継烏有: 【 Oxide Room 104 】 まったく怖がらない男が、不気味なモーテルから脱出する 【#羽継烏有 /#アップロー /#holostars 】
-UID:__BGmFRXpdA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Illustration Making】ホロスターズENの4人の集合絵を完成させる！【緋崎ガンマ ホロスターズ / イラストメイキング】#holotempus\nhttps://www.youtube.com/watch?v=uPfbkF2e0M0
-DURATION:PT2H
-DTSTART:20220730T040000Z
-SUMMARY:緋崎ガンマ: 【Illustration Making】ホロスターズENの4人の集合絵を完成させる！【緋崎ガンマ ホロスターズ / イラストメイキング】#holotempus
-UID:uPfbkF2e0M0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CUPHEAD DLC】花岸はゲームが上手いので2時間でクリアしちゃいます❤【花咲みやび/岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=g3i0CvkRS14
-DURATION:PT2H
-DTSTART:20220730T100000Z
-SUMMARY:🌺花咲みやび: 【CUPHEAD DLC】花岸はゲームが上手いので2時間でクリアしちゃいます❤【花咲みやび/岸堂天真/ホロスターズ】
-UID:g3i0CvkRS14
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】ここ最近の影山シエン【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=WHZJUDn88Vs
-DURATION:PT2H
-DTSTART:20220729T150000Z
-SUMMARY:影山シエン: 【雑談】ここ最近の影山シエン【影山シエン/ホロスターズ】
-UID:WHZJUDn88Vs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PIEN-ぴえん-】叫んだら終了？！ビビリ幽霊がぴえんから逃げる/水無世燐央【アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=ayo0ce75hzo
-DURATION:PT2H
-DTSTART:20220730T110000Z
-SUMMARY:水無世燐央: 【PIEN-ぴえん-】叫んだら終了？！ビビリ幽霊がぴえんから逃げる/水無世燐央【アップロー/ホロスターズ】
-UID:ayo0ce75hzo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Monster Hunter Rise】花咲みやびとモンハンで遊ぶ日が来るとはね！【岸堂天真/花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=1J2rkHMkx9A
-DURATION:PT2H
-DTSTART:20220730T124500Z
-SUMMARY:🦔💨岸堂天真: 【Monster Hunter Rise】花咲みやびとモンハンで遊ぶ日が来るとはね！【岸堂天真/花咲みやび/ホロスターズ】
-UID:1J2rkHMkx9A
+DTSTART:20220801T100000Z
+SUMMARY:🍕アルランディス: 【同時視聴で振り返り】#ゆるボスタの旅 思い出語らい配信！【花咲みやび/岸堂天真/影山シエン/アルランディス/ホロスターズ】
+UID:mNPHGoqx_iE
 END:VEVENT
 END:VCALENDAR
