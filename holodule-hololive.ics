@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:ドラゴンクエストⅩを語る会～企画告知アリ！～【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=7x1pbYR4LDo
+DURATION:PT2H
+DTSTART:20220801T110000Z
+SUMMARY:博衣こより: ドラゴンクエストⅩを語る会～企画告知アリ！～【博衣こより/ホロライブ】
+UID:7x1pbYR4LDo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【パワプロ2022】3年卒業…新たなチームで高みへ！！全ホロメンで行く栄冠ナイン3年目秋～！【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=bwYAUf7_peQ
 DURATION:PT2H
 DTSTART:20220731T040000Z
@@ -149,13 +156,6 @@ DURATION:PT2H
 DTSTART:20220730T171500Z
 SUMMARY:🏮夏色まつり: 【RUST】急遽みんなでラージオイルリグいく！【ホロライブ/夏色まつり】
 UID:dfOjpZbMc6c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【にゃんこ大戦争】にゃんこ大戦争というゲームをクリアまで遊びます！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=hLYm3_L9_VM
-DURATION:PT2H
-DTSTART:20220731T120000Z
-SUMMARY:👯兎田ぺこら: 【にゃんこ大戦争】にゃんこ大戦争というゲームをクリアまで遊びます！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:hLYm3_L9_VM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:新衣装おうち3D！振り返りや、サプライズがあった話【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=BZvTGdsQLxc
