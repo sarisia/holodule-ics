@@ -4,18 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:Sana is ETERNAL!\nhttps://www.youtube.com/watch?v=t8vPcBsVIqY
+DESCRIPTION:【Delivering Hope】One Hope to Go?\nhttps://www.youtube.com/watch?v=RjK-B0bjZRc
 DURATION:PT2H
-DTSTART:20220730T230000Z
-SUMMARY:Sana: Sana is ETERNAL!
-UID:t8vPcBsVIqY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CHAT】Armando's Redemption(maybe) also reading superchats\nhttps://www.youtube.com/watch?v=fcIMSCDGZVM
-DURATION:PT2H
-DTSTART:20220731T220500Z
-SUMMARY:Amelia: 【CHAT】Armando's Redemption(maybe) also reading superchats
-UID:fcIMSCDGZVM
+DTSTART:20220802T020000Z
+SUMMARY:IRyS: 【Delivering Hope】One Hope to Go?
+UID:RjK-B0bjZRc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【STORYTIME】Travel To Italy With Friends!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=TBNOH7LKDmc
@@ -23,20 +16,6 @@ DURATION:PT2H
 DTSTART:20220731T150000Z
 SUMMARY:Kiara: 【STORYTIME】Travel To Italy With Friends!!! #kfp #キアライブ
 UID:TBNOH7LKDmc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】h-hewwo...quartz...\nhttps://www.youtube.com/watch?v=pPHmidTM_sE
-DURATION:PT2H
-DTSTART:20220731T020504Z
-SUMMARY:Gura: 【MINECRAFT】h-hewwo...quartz...
-UID:pPHmidTM_sE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[LIVE A LIVE] The Greatest Story Ever Told. ft. Baki & UNGA BUNGA CAVE MAN (Part 1) SPOILERS!!\nhttps://www.youtube.com/watch?v=rXynCq8s_Jg
-DURATION:PT2H
-DTSTART:20220802T030000Z
-SUMMARY:Calli: [LIVE A LIVE] The Greatest Story Ever Told. ft. Baki & UNGA BUNGA CAVE MAN (Part 1) SPOILERS!!
-UID:rXynCq8s_Jg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪STRAY≫ ACQUIRE FRIENDS.\nhttps://www.youtube.com/watch?v=ZIPeYonfbaI
@@ -51,5 +30,33 @@ DURATION:PT2H
 DTSTART:20220801T013500Z
 SUMMARY:Mumei: 【GETTING OVER IT】Hello again with FAUNA
 UID:b_JOfE3tArk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sana is ETERNAL!\nhttps://www.youtube.com/watch?v=t8vPcBsVIqY
+DURATION:PT2H
+DTSTART:20220730T230000Z
+SUMMARY:Sana: Sana is ETERNAL!
+UID:t8vPcBsVIqY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CHAT】Armando's Redemption(maybe) also reading superchats\nhttps://www.youtube.com/watch?v=fcIMSCDGZVM
+DURATION:PT2H
+DTSTART:20220731T220500Z
+SUMMARY:Amelia: 【CHAT】Armando's Redemption(maybe) also reading superchats
+UID:fcIMSCDGZVM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】h-hewwo...quartz...\nhttps://www.youtube.com/watch?v=pPHmidTM_sE
+DURATION:PT2H
+DTSTART:20220731T020504Z
+SUMMARY:Gura: 【MINECRAFT】h-hewwo...quartz...
+UID:pPHmidTM_sE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[LIVE A LIVE] The Greatest Story Ever Told. ft. Baki & UNGA BUNGA CAVE MAN (Part 1) SPOILERS!!\nhttps://www.youtube.com/watch?v=rXynCq8s_Jg
+DURATION:PT2H
+DTSTART:20220802T030000Z
+SUMMARY:Calli: [LIVE A LIVE] The Greatest Story Ever Told. ft. Baki & UNGA BUNGA CAVE MAN (Part 1) SPOILERS!!
+UID:rXynCq8s_Jg
 END:VEVENT
 END:VCALENDAR
