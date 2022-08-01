@@ -4,32 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【弾き語り #歌枠 】午後のまったりタイムや作業のおともに【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=2W897aMDIX8
-DURATION:PT2H
-DTSTART:20220731T060000Z
-SUMMARY:⚙律可: 【弾き語り #歌枠 】午後のまったりタイムや作業のおともに【律可/ホロスターズ】#りつすた
-UID:2W897aMDIX8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Apex Legends】深夜の突発えいぺっくす！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=pRkO4xS-Q0I
-DURATION:PT2H
-DTSTART:20220730T171500Z
-SUMMARY:⚙律可: 【Apex Legends】深夜の突発えいぺっくす！【律可/ホロスターズ】#りつすた
-UID:pRkO4xS-Q0I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【同時視聴で振り返り】#ゆるボスタの旅 思い出語らい配信！【花咲みやび/岸堂天真/影山シエン/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=mNPHGoqx_iE
-DURATION:PT2H
-DTSTART:20220801T100000Z
-SUMMARY:🍕アルランディス: 【同時視聴で振り返り】#ゆるボスタの旅 思い出語らい配信！【花咲みやび/岸堂天真/影山シエン/アルランディス/ホロスターズ】
-UID:mNPHGoqx_iE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Apex Legends】右斜め45度出陣します！【律可/みかんGG/わず/ホロスターズ】#OZCUP\nhttps://www.youtube.com/watch?v=mHrTuJ4n3aI
 DURATION:PT2H
 DTSTART:20220731T120000Z
 SUMMARY:⚙律可: 【Apex Legends】右斜め45度出陣します！【律可/みかんGG/わず/ホロスターズ】#OZCUP
 UID:mHrTuJ4n3aI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】夏真っ盛り雑談【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=nOq0og_O_i4
+DURATION:PT2H
+DTSTART:20220801T045000Z
+SUMMARY:🍷夕刻ロベル: 【雑談】夏真っ盛り雑談【夕刻ロベル/ホロスターズ】
+UID:nOq0og_O_i4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Illustration Making】Kobo Kanaeruさん描いてみる！！【緋崎ガンマ ホロスターズ / イラストメイキング/ ホロライブID】\nhttps://www.youtube.com/watch?v=o3oxmId_NtQ
@@ -51,5 +37,26 @@ DURATION:PT2H
 DTSTART:20220801T060000Z
 SUMMARY:水無世燐央: 【Minecraft】あぷろ村に帰ろう/水無世燐央【アップロー/ホロスターズ】
 UID:WlO-vXRPCkY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【弾き語り #歌枠 】午後のまったりタイムや作業のおともに【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=2W897aMDIX8
+DURATION:PT2H
+DTSTART:20220731T060000Z
+SUMMARY:⚙律可: 【弾き語り #歌枠 】午後のまったりタイムや作業のおともに【律可/ホロスターズ】#りつすた
+UID:2W897aMDIX8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Apex Legends】深夜の突発えいぺっくす！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=pRkO4xS-Q0I
+DURATION:PT2H
+DTSTART:20220730T171500Z
+SUMMARY:⚙律可: 【Apex Legends】深夜の突発えいぺっくす！【律可/ホロスターズ】#りつすた
+UID:pRkO4xS-Q0I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【同時視聴で振り返り】#ゆるボスタの旅 思い出語らい配信！【花咲みやび/岸堂天真/影山シエン/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=mNPHGoqx_iE
+DURATION:PT2H
+DTSTART:20220801T100000Z
+SUMMARY:🍕アルランディス: 【同時視聴で振り返り】#ゆるボスタの旅 思い出語らい配信！【花咲みやび/岸堂天真/影山シエン/アルランディス/ホロスターズ】
+UID:mNPHGoqx_iE
 END:VEVENT
 END:VCALENDAR
