@@ -74,13 +74,6 @@ SUMMARY:🌸さくらみこ: ４周年ライブアフタートークするぞ！
 UID:PCLWZuxW29E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RUST】スクラップを集めるために旅へと出かける。【白上フブキ】\nhttps://www.youtube.com/watch?v=YfBm88x-2iU
-DURATION:PT2H
-DTSTART:20220802T120000Z
-SUMMARY:🌽白上フブキ: 【RUST】スクラップを集めるために旅へと出かける。【白上フブキ】
-UID:YfBm88x-2iU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#生スバル】STEINS\;GATE同時視聴会しゅばああああああああ！！！！：STEINS\;GATE watch party【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=EvtLAOqI-50
 DURATION:PT2H
 DTSTART:20220802T130000Z
@@ -142,6 +135,13 @@ DURATION:PT2H
 DTSTART:20220802T090000Z
 SUMMARY:👾常闇トワ: 【R6S】ちょいとシージシージシージ🌈【常闇トワ/ホロライブ】
 UID:fDoityTFSuI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 DJ配信】ひさびさ～～～～～DJしちゃうYO～～～～～【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=FLX_6WuQdgo
+DURATION:PT2H
+DTSTART:20220803T030000Z
+SUMMARY:🍕アルランディス: 【 DJ配信】ひさびさ～～～～～DJしちゃうYO～～～～～【アルランディス/ホロスターズ】
+UID:FLX_6WuQdgo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SIMS4 HIGH SCHOOL】Turducken Goes To School!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=UJr88zQDREE
@@ -207,6 +207,13 @@ SUMMARY:🚑大空スバル: 【#生スバル】おさんぽマイクラしゅ�
 UID:_3VqdZxO_ZM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【holoID】hololive ERROR : First time playing !! WAKU WAKU【Ayunda Risu】\nhttps://www.youtube.com/watch?v=Rp2401k5xyM
+DURATION:PT2H
+DTSTART:20220802T130000Z
+SUMMARY:🐿Risu: 【holoID】hololive ERROR : First time playing !! WAKU WAKU【Ayunda Risu】
+UID:Rp2401k5xyM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Phantasy Star Online 2 New Genesis】 MEEP\nhttps://www.youtube.com/watch?v=SWzlauBrZNo
 DURATION:PT2H
 DTSTART:20220802T210000Z
@@ -270,20 +277,6 @@ SUMMARY:👯兎田ぺこら: 【ぷにぷに】ホロライブコラボガチャ
 UID:blosl-GzX-Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【NOSTALGIC TRAIN】そうだ、田舎に行こう。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=6IM0dCN5vIc
-DURATION:PT2H
-DTSTART:20220802T130000Z
-SUMMARY:🌺花咲みやび: 【NOSTALGIC TRAIN】そうだ、田舎に行こう。【花咲みやび/ホロスターズ】
-UID:6IM0dCN5vIc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌謡曲縛り歌枠】第3夜 | アキロゼの #火曜に歌謡曲 /Japanese old CITY POP【Aki Rosenthal/ホロライブ】\nhttps://www.youtube.com/watch?v=YBFSEFf5YZk
-DURATION:PT2H
-DTSTART:20220802T131500Z
-SUMMARY:🍎アキロゼ: 【歌謡曲縛り歌枠】第3夜 | アキロゼの #火曜に歌謡曲 /Japanese old CITY POP【Aki Rosenthal/ホロライブ】
-UID:YBFSEFf5YZk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 RUST 】リベンジやるどどどどどっど！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=tnKeiZEGQOg
 DURATION:PT2H
 DTSTART:20220803T110000Z
@@ -291,11 +284,11 @@ SUMMARY:🌸さくらみこ: 【 RUST 】リベンジやるどどどどどっど
 UID:tnKeiZEGQOg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【BIOHAZARD RE:3】自分から囮になったことを今は少し後悔してるわ！ #2【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=oxf00E81Uu0
+DESCRIPTION:【歌謡曲縛り歌枠】第3夜 | アキロゼの #火曜に歌謡曲 /Japanese old CITY POP【Aki Rosenthal/ホロライブ】\nhttps://www.youtube.com/watch?v=YBFSEFf5YZk
 DURATION:PT2H
-DTSTART:20220802T130000Z
-SUMMARY:🔥不知火フレア: 【BIOHAZARD RE:3】自分から囮になったことを今は少し後悔してるわ！ #2【不知火フレア/ホロライブ】
-UID:oxf00E81Uu0
+DTSTART:20220802T131500Z
+SUMMARY:🍎アキロゼ: 【歌謡曲縛り歌枠】第3夜 | アキロゼの #火曜に歌謡曲 /Japanese old CITY POP【Aki Rosenthal/ホロライブ】
+UID:YBFSEFf5YZk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:『APEX』Restiaさん と dtto.さん と マスターを目指していく /  Astel Leda\nhttps://www.youtube.com/watch?v=UFYaPPfOsUo
@@ -373,6 +366,13 @@ DURATION:PT2H
 DTSTART:20220802T080019Z
 SUMMARY:鷹嶺ルイ: Which one is the real Marin?【hololive/鷹嶺ルイ】
 UID:cxkSAcHbpSA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】 i wake up\, i grind【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=9r5r0Pmy8VU
+DURATION:PT2H
+DTSTART:20220802T230000Z
+SUMMARY:Kaela: 【Minecraft】 i wake up\, i grind【Kaela Kovalskia / hololive ID】
+UID:9r5r0Pmy8VU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Feist】a beautiful game【Kaela Kovalskia / hololive】\nhttps://www.youtube.com/watch?v=bY1W1oMr39g
