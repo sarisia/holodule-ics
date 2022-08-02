@@ -32,13 +32,6 @@ SUMMARY:Syrios: 【TEMPUS】Time for some TEMPUS nihongo jouzu session #1
 UID:vCB2gAYZlZM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【プレイバック3Dストリーム】連なるモノローグ/ 奏手イヅル\nhttps://www.youtube.com/watch?v=1qMu1sAyQS4
-DURATION:PT2H
-DTSTART:20220801T090002Z
-SUMMARY:ホロスターズ: 【プレイバック3Dストリーム】連なるモノローグ/ 奏手イヅル
-UID:1qMu1sAyQS4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Night Delivery | 例外配達】パリピ漫画家がみんなにお届けしちゃう【緋崎ガンマ/#アップロー /#ホロスターズ / ホラーゲーム】\nhttps://www.youtube.com/watch?v=8M_IoLazIKY
 DURATION:PT2H
 DTSTART:20220803T120000Z
@@ -46,11 +39,11 @@ SUMMARY:緋崎ガンマ: 【Night Delivery | 例外配達】パリピ漫画家�
 UID:8M_IoLazIKY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#3【ドラゴンクエストXI S】船を手に入れて、いざ出航！【#夜十神封魔/#ホロスターズ/#アップロー】※ネタバレあり\nhttps://www.youtube.com/watch?v=hwuTquTKqlc
+DESCRIPTION:【プレイバック3Dストリーム】連なるモノローグ/ 奏手イヅル\nhttps://www.youtube.com/watch?v=1qMu1sAyQS4
 DURATION:PT2H
-DTSTART:20220801T003000Z
-SUMMARY:夜十神封魔: #3【ドラゴンクエストXI S】船を手に入れて、いざ出航！【#夜十神封魔/#ホロスターズ/#アップロー】※ネタバレあり
-UID:hwuTquTKqlc
+DTSTART:20220801T090002Z
+SUMMARY:ホロスターズ: 【プレイバック3Dストリーム】連なるモノローグ/ 奏手イヅル
+UID:1qMu1sAyQS4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ぷにぷに】妖怪ウォッチ ぷにぷに ホロライブコラボきたー！！！【#おかころ】\nhttps://www.youtube.com/watch?v=5jt3L1qqSJM
@@ -58,6 +51,13 @@ DURATION:PT2H
 DTSTART:20220801T130000Z
 SUMMARY:🥐戌神ころね: 【#ぷにぷに】妖怪ウォッチ ぷにぷに ホロライブコラボきたー！！！【#おかころ】
 UID:5jt3L1qqSJM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#3【ドラゴンクエストXI S】船を手に入れて、いざ出航！【#夜十神封魔/#ホロスターズ/#アップロー】※ネタバレあり\nhttps://www.youtube.com/watch?v=hwuTquTKqlc
+DURATION:PT2H
+DTSTART:20220801T003000Z
+SUMMARY:夜十神封魔: #3【ドラゴンクエストXI S】船を手に入れて、いざ出航！【#夜十神封魔/#ホロスターズ/#アップロー】※ネタバレあり
+UID:hwuTquTKqlc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Before The Night 】動物の町の真実を知る...【#羽継烏有 /#アップロー /#holostars 】\nhttps://www.youtube.com/watch?v=qaF3idBcSOM
@@ -107,6 +107,13 @@ DURATION:PT2H
 DTSTART:20220802T110000Z
 SUMMARY:🏮夏色まつり: 【歌枠】想いを歌にのせて.../Singing KARAOKE【ホロライブ/夏色まつり】
 UID:Cm-LTQhI7YM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【R6S】ちょいとシージシージシージ🌈【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=fDoityTFSuI
+DURATION:PT2H
+DTSTART:20220802T090000Z
+SUMMARY:👾常闇トワ: 【R6S】ちょいとシージシージシージ🌈【常闇トワ/ホロライブ】
+UID:fDoityTFSuI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【hololiveERROR】horror【Kaela Kovalskia / hololive】\nhttps://www.youtube.com/watch?v=WgMM0HUAlwU
@@ -200,18 +207,18 @@ SUMMARY:夜十神封魔: 【APEX】ソロランク。次のシーズンはEN(TEM
 UID:TiKuQsqdhtE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Zelda: Twilight Princess HD】 ain't nothing but a hound dog~ 【3】\nhttps://www.youtube.com/watch?v=Rh_qQZiiwxI
-DURATION:PT2H
-DTSTART:20220801T020000Z
-SUMMARY:Altare: 【Zelda: Twilight Princess HD】 ain't nothing but a hound dog~ 【3】
-UID:Rh_qQZiiwxI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[LIVE A LIVE] The Greatest Story Ever Told. ft. Baki & UNGA BUNGA CAVE MAN (Part 1) SPOILERS!!\nhttps://www.youtube.com/watch?v=rXynCq8s_Jg
 DURATION:PT2H
 DTSTART:20220802T025933Z
 SUMMARY:Calli: [LIVE A LIVE] The Greatest Story Ever Told. ft. Baki & UNGA BUNGA CAVE MAN (Part 1) SPOILERS!!
 UID:rXynCq8s_Jg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Zelda: Twilight Princess HD】 ain't nothing but a hound dog~ 【3】\nhttps://www.youtube.com/watch?v=Rh_qQZiiwxI
+DURATION:PT2H
+DTSTART:20220801T020000Z
+SUMMARY:Altare: 【Zelda: Twilight Princess HD】 ain't nothing but a hound dog~ 【3】
+UID:Rh_qQZiiwxI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Let's talk about games\, books\, art\, and life while I sip on this fine matcha tea (it's soo good)\nhttps://www.youtube.com/watch?v=iGYjoFESPoA
@@ -221,11 +228,25 @@ SUMMARY:Zeta: Let's talk about games\, books\, art\, and life while I sip on thi
 UID:iGYjoFESPoA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【RUST】スモールオイルリグ攻略に挑戦してみる！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=jJ-VxLP42OY
+DURATION:PT2H
+DTSTART:20220802T110000Z
+SUMMARY:博衣こより: 【RUST】スモールオイルリグ攻略に挑戦してみる！！【博衣こより/ホロライブ】
+UID:jJ-VxLP42OY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Monster Hunter Rise】企画のために全モンスターと戦える状態にしないといけない。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=TsLeF1se3Fk
 DURATION:PT2H
 DTSTART:20220801T053000Z
 SUMMARY:🦔💨岸堂天真: 【Monster Hunter Rise】企画のために全モンスターと戦える状態にしないといけない。【岸堂天真/ホロスターズ】
 UID:TsLeF1se3Fk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MHRサンブレイク】集えハンター、MR上げ手伝ってください【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=jNA1j4up-2A
+DURATION:PT2H
+DTSTART:20220802T100000Z
+SUMMARY:影山シエン: 【MHRサンブレイク】集えハンター、MR上げ手伝ってください【影山シエン/ホロスターズ】
+UID:jNA1j4up-2A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】hmmmm\nhttps://www.youtube.com/watch?v=mXEUQVSqSyA
@@ -340,6 +361,13 @@ SUMMARY:🎨Iofi: 【 Senin Produktif 】STRINGS?! SUCCUBUS?! STRIIINGGGGGSSSSS�
 UID:z1747C9w8Eg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【COOKING SIMULATOR】BONE APPLE TEETH 👨‍🍳\nhttps://www.youtube.com/watch?v=lMTkBhoWfks
+DURATION:PT2H
+DTSTART:20220803T030000Z
+SUMMARY:Dezmond: 【COOKING SIMULATOR】BONE APPLE TEETH 👨‍🍳
+UID:lMTkBhoWfks
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】夏真っ盛り雑談【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=nOq0og_O_i4
 DURATION:PT2H
 DTSTART:20220801T045000Z
@@ -347,18 +375,18 @@ SUMMARY:🍷夕刻ロベル: 【雑談】夏真っ盛り雑談【夕刻ロベル
 UID:nOq0og_O_i4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #朝ミオ 】８月だよ～！月曜日だよ～～～！\nhttps://www.youtube.com/watch?v=GRQDr2LZJzo
-DURATION:PT2H
-DTSTART:20220731T223000Z
-SUMMARY:🌲大神ミオ: 【 #朝ミオ 】８月だよ～！月曜日だよ～～～！
-UID:GRQDr2LZJzo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【GETTING OVER IT】Hello again with FAUNA\nhttps://www.youtube.com/watch?v=b_JOfE3tArk
 DURATION:PT2H
 DTSTART:20220801T013500Z
 SUMMARY:Mumei: 【GETTING OVER IT】Hello again with FAUNA
 UID:b_JOfE3tArk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #朝ミオ 】８月だよ～！月曜日だよ～～～！\nhttps://www.youtube.com/watch?v=GRQDr2LZJzo
+DURATION:PT2H
+DTSTART:20220731T223000Z
+SUMMARY:🌲大神ミオ: 【 #朝ミオ 】８月だよ～！月曜日だよ～～～！
+UID:GRQDr2LZJzo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 UNBOXING 】Hololive Card Choco! さあ！！運の女神よ！！！【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=wbXIZmwPjS8
@@ -394,6 +422,13 @@ DURATION:PT2H
 DTSTART:20220802T020000Z
 SUMMARY:Zeta: Thank you\, Zecretary. ありがとう。 Will read all the donations today (no crying this time haha)
 UID:VbuVAe8oSa8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HoloCure】遂にやるぞ！ファンが作ったホロライブゲーム！！✨【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=Aml7mhqsi3I
+DURATION:PT2H
+DTSTART:20220802T100000Z
+SUMMARY:🌟夜空メル: 【HoloCure】遂にやるぞ！ファンが作ったホロライブゲーム！！✨【ホロライブ/夜空メル】
+UID:Aml7mhqsi3I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【嬉しいお知らせあり♡】ラミィ、配信復活します！【ホロライブ/雪花ラミィ】\nhttps://www.youtube.com/watch?v=jgY_hxPa_dg
@@ -452,6 +487,13 @@ SUMMARY:緋崎ガンマ: 【Illustration Making】Kobo Kanaeruさんのイラス
 UID:HUEEUuqQGQw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ぷにぷに】ホロライブコラボガチャ１１１連でホロメン全員出したい！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=blosl-GzX-Q
+DURATION:PT2H
+DTSTART:20220802T120000Z
+SUMMARY:👯兎田ぺこら: 【ぷにぷに】ホロライブコラボガチャ１１１連でホロメン全員出したい！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:blosl-GzX-Q
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:『APEX』Restiaさん と dtto.さん と マスターを目指していく /  Astel Leda\nhttps://www.youtube.com/watch?v=4NEwer7h--M
 DURATION:PT2H
 DTSTART:20220801T080000Z
@@ -459,11 +501,11 @@ SUMMARY:🎭アステル・レダ: 『APEX』Restiaさん と dtto.さん と �
 UID:4NEwer7h--M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ぷにぷに】ホロライブコラボガチャ１１１連でホロメン全員出したい！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=blosl-GzX-Q
+DESCRIPTION:【歌謡曲縛り歌枠】第3夜 | アキロゼの #火曜に歌謡曲 /Japanese old CITY POP【Aki Rosenthal/ホロライブ】\nhttps://www.youtube.com/watch?v=YBFSEFf5YZk
 DURATION:PT2H
-DTSTART:20220802T120000Z
-SUMMARY:👯兎田ぺこら: 【ぷにぷに】ホロライブコラボガチャ１１１連でホロメン全員出したい！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:blosl-GzX-Q
+DTSTART:20220802T130000Z
+SUMMARY:🍎アキロゼ: 【歌謡曲縛り歌枠】第3夜 | アキロゼの #火曜に歌謡曲 /Japanese old CITY POP【Aki Rosenthal/ホロライブ】
+UID:YBFSEFf5YZk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Digimon Survive】How To Survive With @Hakos Baelz Ch. hololive-EN\nhttps://www.youtube.com/watch?v=GUYOjNJV8n0
@@ -487,11 +529,25 @@ SUMMARY:荒咬オウガ: 【ペット可】最強作業部屋作る【荒咬オ�
 UID:jdtcHHd0GKY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 Just Chatting 】 Peaceful\, seiso morning zatsudan  #holoTEMPUS\nhttps://www.youtube.com/watch?v=42uo2gpvGLI
+DURATION:PT2H
+DTSTART:20220802T170000Z
+SUMMARY:Vesper: 【 Just Chatting 】 Peaceful\, seiso morning zatsudan  #holoTEMPUS
+UID:42uo2gpvGLI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【song】スクールソングうたっちゃお？？？（かも）　【ホロライブ/ #ロボ子生放送】\nhttps://www.youtube.com/watch?v=EvBARM6FxGU
 DURATION:PT2H
 DTSTART:20220802T090000Z
 SUMMARY:🤖ロボ子さん: 【song】スクールソングうたっちゃお？？？（かも）　【ホロライブ/ #ロボ子生放送】
 UID:EvBARM6FxGU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Stray】吾輩は猫である、名前はラミィ #01【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=DIfywo7ddlE
+DURATION:PT2H
+DTSTART:20220802T100000Z
+SUMMARY:雪花ラミィ: 【Stray】吾輩は猫である、名前はラミィ #01【雪花ラミィ/ホロライブ】
+UID:DIfywo7ddlE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DRAMATIC READING】SPICY in One Sentence...【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=cOJFTbJhoTs
@@ -508,10 +564,24 @@ SUMMARY:👾常闇トワ: 【7 Days to Die】2：ゾンビを恐怖に貶める�
 UID:_tZ7Q5tBfV4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【旅行から帰ってきたよ】お土産話とかしつつの深夜の雑談【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=-PH1nx9qrmM
+DURATION:PT2H
+DTSTART:20220802T140000Z
+SUMMARY:🍕アルランディス: 【旅行から帰ってきたよ】お土産話とかしつつの深夜の雑談【アルランディス/ホロスターズ】
+UID:-PH1nx9qrmM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【7 Days to Die】びびってないです・・・だいじょぶます・・・。遂にゾンビとの大乱闘！？【 #べーこんれたすとまと /ホロライブ】\nhttps://www.youtube.com/watch?v=SA04khAPvSw
 DURATION:PT2H
 DTSTART:20220801T130000Z
 SUMMARY:鷹嶺ルイ: 【7 Days to Die】びびってないです・・・だいじょぶます・・・。遂にゾンビとの大乱闘！？【 #べーこんれたすとまと /ホロライブ】
 UID:SA04khAPvSw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【モンスターハンターライズ:サンブレイク】リスナー参加型でMRゴリゴリに上げる作戦【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=evAqAQiZLBo
+DURATION:PT2H
+DTSTART:20220802T100000Z
+SUMMARY:🍕アルランディス: 【モンスターハンターライズ:サンブレイク】リスナー参加型でMRゴリゴリに上げる作戦【アルランディス/ホロスターズ】
+UID:evAqAQiZLBo
 END:VEVENT
 END:VCALENDAR
