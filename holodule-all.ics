@@ -39,18 +39,18 @@ SUMMARY:雪花ラミィ: 【Stray】人が絶滅した後に残された者た�
 UID:5oBaGb4MLcI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RUST】ホロライブ花火大会！綺麗にデザインするやさん～！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=2A2fyFvXaEg
-DURATION:PT2H
-DTSTART:20220803T100000Z
-SUMMARY:🏮夏色まつり: 【RUST】ホロライブ花火大会！綺麗にデザインするやさん～！【ホロライブ/夏色まつり】
-UID:2A2fyFvXaEg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Fall Guys】はじめましての絆でクラウン目指せ！ w/セフィナ・ナセラ・夜十神封魔 / 水無世燐央【アップロー/ホロスターズ】\nhttps://www.youtube.com/watch?v=z20_pslcSvM
 DURATION:PT2H
 DTSTART:20220803T100000Z
 SUMMARY:水無世燐央: 【Fall Guys】はじめましての絆でクラウン目指せ！ w/セフィナ・ナセラ・夜十神封魔 / 水無世燐央【アップロー/ホロスターズ】
 UID:z20_pslcSvM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RUST】ホロライブ花火大会！綺麗にデザインするやさん～！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=2A2fyFvXaEg
+DURATION:PT2H
+DTSTART:20220803T100000Z
+SUMMARY:🏮夏色まつり: 【RUST】ホロライブ花火大会！綺麗にデザインするやさん～！【ホロライブ/夏色まつり】
+UID:2A2fyFvXaEg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ソニころ2022​​​​​​​​​​​】ソニックオリジンズを遊ぶよ～！！【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=e7Sr5T32tQk
@@ -193,10 +193,10 @@ SUMMARY:Dezmond: 【COOKING SIMULATOR】BONE APPLE TEETH 👨‍🍳
 UID:U4Y8NXDgR54
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RUST】ぺこぺーここぺーぺぺぺここ！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=z-qHpuiykRc
+DESCRIPTION:【RUST】花火大会やらなにやらあるらしい！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=z-qHpuiykRc
 DURATION:PT2H
 DTSTART:20220803T110000Z
-SUMMARY:👯兎田ぺこら: 【RUST】ぺこぺーここぺーぺぺぺここ！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
+SUMMARY:👯兎田ぺこら: 【RUST】花火大会やらなにやらあるらしい！！！ぺこ！【ホロライブ/兎田ぺこら】
 UID:z-qHpuiykRc
 END:VEVENT
 BEGIN:VEVENT
@@ -275,6 +275,13 @@ DURATION:PT2H
 DTSTART:20220802T125911Z
 SUMMARY:Ollie: 【DRAWING】DRAWING MY CRINGE CHILDHOOD OCs【Hololive ID 2nd Generation】
 UID:TqxGPTtnhTI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】JUST A LITTLE BIT MORE!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=gOLzLvkHEUc
+DURATION:PT2H
+DTSTART:20220803T055901Z
+SUMMARY:Ollie: 【MINECRAFT】JUST A LITTLE BIT MORE!!【Hololive Indonesia 2nd Gen】
+UID:gOLzLvkHEUc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Just Chatting 】 Scrapping a PC I found in my closet\nhttps://www.youtube.com/watch?v=_AQ6oGzC8yk
@@ -368,17 +375,17 @@ SUMMARY:Altare: 【60 Seconds! Reatomized】 surviving a nuclear apocalypse... w
 UID:-apreMH6oHQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RUST】リセット前のお祭り！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=CxCK2XNFXqE
+DESCRIPTION:【RUST】花火大会が開催されるみたいだよ！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=CxCK2XNFXqE
 DURATION:PT2H
 DTSTART:20220803T100000Z
-SUMMARY:博衣こより: 【RUST】リセット前のお祭り！【博衣こより/ホロライブ】
+SUMMARY:博衣こより: 【RUST】花火大会が開催されるみたいだよ！【博衣こより/ホロライブ】
 UID:CxCK2XNFXqE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Stray】i want to be a cat【#1】\nhttps://www.youtube.com/watch?v=mMGz_C8qe2A
+DESCRIPTION:【Stray】i want to be a cat【GeeMoon】\nhttps://www.youtube.com/watch?v=mMGz_C8qe2A
 DURATION:PT2H
 DTSTART:20220802T123000Z
-SUMMARY:🔮Moona: 【Stray】i want to be a cat【#1】
+SUMMARY:🔮Moona: 【Stray】i want to be a cat【GeeMoon】
 UID:mMGz_C8qe2A
 END:VEVENT
 BEGIN:VEVENT
