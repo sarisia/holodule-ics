@@ -4,32 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Cooking Simulator】Time to eat human meat. Btw\, I burnt my kitchen once.\nhttps://www.youtube.com/watch?v=d0IWnP6q7Tc
+DESCRIPTION:【Dono Reading + Chit Chat】 pagi hari adalah hari paling semangatnya akuh\nhttps://www.youtube.com/watch?v=ACKpXBso9ZE
 DURATION:PT2H
-DTSTART:20220804T050000Z
-SUMMARY:Zeta: 【Cooking Simulator】Time to eat human meat. Btw\, I burnt my kitchen once.
-UID:d0IWnP6q7Tc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【holoID】HOLOCURE : PEW PEW IN THE AFTERNOON【Ayunda Risu】\nhttps://www.youtube.com/watch?v=zYIp5gYKbbw
-DURATION:PT2H
-DTSTART:20220803T060000Z
-SUMMARY:🐿Risu: 【holoID】HOLOCURE : PEW PEW IN THE AFTERNOON【Ayunda Risu】
-UID:zYIp5gYKbbw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Boxman's Struggle】WOW ANOTHER CHILL GAME【Kaela Kovalskia / hololive】\nhttps://www.youtube.com/watch?v=sC1aZVQ0mL8
-DURATION:PT2H
-DTSTART:20220803T131500Z
-SUMMARY:Kaela: 【Boxman's Struggle】WOW ANOTHER CHILL GAME【Kaela Kovalskia / hololive】
-UID:sC1aZVQ0mL8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】FIREWORKS FESTIVAL BEFORE SERVER RESET【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=PN6aAi-Im_k
-DURATION:PT2H
-DTSTART:20220803T111000Z
-SUMMARY:Anya: 【RUST】FIREWORKS FESTIVAL BEFORE SERVER RESET【hololive Indonesia 2nd Generation】
-UID:PN6aAi-Im_k
+DTSTART:20220804T030000Z
+SUMMARY:Kobo: 【Dono Reading + Chit Chat】 pagi hari adalah hari paling semangatnya akuh
+UID:ACKpXBso9ZE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Guided Sleep Meditation | Deep Relaxation | 10+ Minutes\nhttps://www.youtube.com/watch?v=v07VtKEVM6A
@@ -51,5 +30,33 @@ DURATION:PT2H
 DTSTART:20220802T230000Z
 SUMMARY:Kaela: 【Minecraft】 i wake up\, i grind【Kaela Kovalskia / hololive ID】
 UID:9r5r0Pmy8VU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Cooking Simulator】Time to eat human meat. Btw\, I burnt my kitchen once.\nhttps://www.youtube.com/watch?v=d0IWnP6q7Tc
+DURATION:PT2H
+DTSTART:20220804T050000Z
+SUMMARY:Zeta: 【Cooking Simulator】Time to eat human meat. Btw\, I burnt my kitchen once.
+UID:d0IWnP6q7Tc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【holoID】HOLOCURE : PEW PEW IN THE AFTERNOON【Ayunda Risu】\nhttps://www.youtube.com/watch?v=zYIp5gYKbbw
+DURATION:PT2H
+DTSTART:20220803T060000Z
+SUMMARY:🐿Risu: 【holoID】HOLOCURE : PEW PEW IN THE AFTERNOON【Ayunda Risu】
+UID:zYIp5gYKbbw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RUST】FIREWORKS FESTIVAL BEFORE SERVER RESET【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=PN6aAi-Im_k
+DURATION:PT2H
+DTSTART:20220803T111000Z
+SUMMARY:Anya: 【RUST】FIREWORKS FESTIVAL BEFORE SERVER RESET【hololive Indonesia 2nd Generation】
+UID:PN6aAi-Im_k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Boxman's Struggle】WOW ANOTHER CHILL GAME【Kaela Kovalskia / hololive】\nhttps://www.youtube.com/watch?v=sC1aZVQ0mL8
+DURATION:PT2H
+DTSTART:20220803T131500Z
+SUMMARY:Kaela: 【Boxman's Struggle】WOW ANOTHER CHILL GAME【Kaela Kovalskia / hololive】
+UID:sC1aZVQ0mL8
 END:VEVENT
 END:VCALENDAR
