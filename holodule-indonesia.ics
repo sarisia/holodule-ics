@@ -4,27 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】JUST A LITTLE BIT MORE!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=gOLzLvkHEUc
-DURATION:PT2H
-DTSTART:20220803T055901Z
-SUMMARY:Ollie: 【MINECRAFT】JUST A LITTLE BIT MORE!!【Hololive Indonesia 2nd Gen】
-UID:gOLzLvkHEUc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【holoID】HOLOCURE : PEW PEW IN THE AFTERNOON【Ayunda Risu】\nhttps://www.youtube.com/watch?v=zYIp5gYKbbw
-DURATION:PT2H
-DTSTART:20220803T060000Z
-SUMMARY:🐿Risu: 【holoID】HOLOCURE : PEW PEW IN THE AFTERNOON【Ayunda Risu】
-UID:zYIp5gYKbbw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Monster Hunter RISE SWITCH VER 】A Date With Scorned Magnamalo【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=0Hk_8gYYNkA
-DURATION:PT2H
-DTSTART:20220804T120000Z
-SUMMARY:🎨Iofi: 【 Monster Hunter RISE SWITCH VER 】A Date With Scorned Magnamalo【 iofi / ホロライブ 】
-UID:0Hk_8gYYNkA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【SCUFF DRAWING】LOVE MY MOUSE AND ZERO DESK SPACE. draw holomem + free talk【Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=uSthivPVnN0
 DURATION:PT2H
 DTSTART:20220803T180000Z
@@ -46,11 +25,11 @@ SUMMARY:Zeta: Guided Sleep Meditation | Deep Relaxation | 10+ Minutes
 UID:v07VtKEVM6A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Need for Speed™ Heat】ngeeeeeeeng 🏎️【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=SIQxQ7GhHTE
+DESCRIPTION:【MINECRAFT】JUST A LITTLE BIT MORE!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=gOLzLvkHEUc
 DURATION:PT2H
-DTSTART:20220804T131500Z
-SUMMARY:Kaela: 【Need for Speed™ Heat】ngeeeeeeeng 🏎️【Kaela Kovalskia / hololiveID】
-UID:SIQxQ7GhHTE
+DTSTART:20220803T055901Z
+SUMMARY:Ollie: 【MINECRAFT】JUST A LITTLE BIT MORE!!【Hololive Indonesia 2nd Gen】
+UID:gOLzLvkHEUc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Valheim】#2 ikz next chapter!🪓【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=-RS-awsqs6c
@@ -88,6 +67,13 @@ SUMMARY:Anya: 【RUST】I Have A Dream and Scraps to Protect【hololive Indonesi
 UID:I7hzeoVLIF8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【holoID】HOLOCURE : PEW PEW IN THE AFTERNOON【Ayunda Risu】\nhttps://www.youtube.com/watch?v=zYIp5gYKbbw
+DURATION:PT2H
+DTSTART:20220803T060000Z
+SUMMARY:🐿Risu: 【holoID】HOLOCURE : PEW PEW IN THE AFTERNOON【Ayunda Risu】
+UID:zYIp5gYKbbw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【RUST】FIREWORKS FESTIVAL BEFORE SERVER RESET【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=PN6aAi-Im_k
 DURATION:PT2H
 DTSTART:20220803T111000Z
@@ -114,5 +100,12 @@ DURATION:PT2H
 DTSTART:20220804T160000Z
 SUMMARY:Reine: 【EN KARAOKE REBROADCAST】*insert pink and black house next to each other*【Reine/hololiveID 2nd gen】
 UID:IRuOnJuUIJ8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Monster Hunter RISE SWITCH VER 】A Date With Scorned Magnamalo【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=0Hk_8gYYNkA
+DURATION:PT2H
+DTSTART:20220804T120000Z
+SUMMARY:🎨Iofi: 【 Monster Hunter RISE SWITCH VER 】A Date With Scorned Magnamalo【 iofi / ホロライブ 】
+UID:0Hk_8gYYNkA
 END:VEVENT
 END:VCALENDAR
