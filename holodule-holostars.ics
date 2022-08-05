@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Monster Hunter Rise】メインモンスターBINGO☆ 【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=AvEdP55PZ78
-DURATION:PT2H
-DTSTART:20220804T090000Z
-SUMMARY:🦔💨岸堂天真: 【Monster Hunter Rise】メインモンスターBINGO☆ 【岸堂天真/ホロスターズ】
-UID:AvEdP55PZ78
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Illustration Making】尾丸ポルカさんを描いてみる！！【緋崎ガンマ ホロスターズ / イラストメイキング/ ホロライブプロダクション】\nhttps://www.youtube.com/watch?v=cVrveuUvrF8
 DURATION:PT2H
 DTSTART:20220806T080000Z
@@ -18,11 +11,25 @@ SUMMARY:緋崎ガンマ: 【Illustration Making】尾丸ポルカさんを描い
 UID:cVrveuUvrF8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【アニメ】とうとう我慢できなくなりました。【＃スタこれ】\nhttps://www.youtube.com/watch?v=IPUSYj5zE0Y
+DURATION:PT2H
+DTSTART:20220805T100021Z
+SUMMARY:ホロスターズ: 【アニメ】とうとう我慢できなくなりました。【＃スタこれ】
+UID:IPUSYj5zE0Y
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Stray：2】猫になるやつ【奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=vxKWQPH_B04
 DURATION:PT2H
 DTSTART:20220805T070000Z
 SUMMARY:🎸奏手イヅル: 【Stray：2】猫になるやつ【奏手イヅル/ホロスターズ】
 UID:vxKWQPH_B04
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【7 Days to End with You】言語の裏に隠された真実を探す物語 #2 ※ネタバレあり【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=OuoKlGdML4c
+DURATION:PT2H
+DTSTART:20220805T040000Z
+SUMMARY:影山シエン: 【7 Days to End with You】言語の裏に隠された真実を探す物語 #2 ※ネタバレあり【影山シエン/ホロスターズ】
+UID:OuoKlGdML4c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】新コースを走ってみようじゃあないか【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=uT3Q2cSrVfI
@@ -46,74 +53,11 @@ SUMMARY:水無世燐央: 【#水無世燐央夏衣装 お披露目】夏を感�
 UID:-w4B3mCD5ck
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【廃村巡り】巡る巡るよ廃村を巡る【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=Ih4-Fc38YCc
-DURATION:PT2H
-DTSTART:20220804T080000Z
-SUMMARY:🍷夕刻ロベル: 【廃村巡り】巡る巡るよ廃村を巡る【夕刻ロベル/ホロスターズ】
-UID:Ih4-Fc38YCc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 里帰り 】みんなで里帰りするよ！【#羽継烏有 /#アップロー /#holostars 】\nhttps://www.youtube.com/watch?v=sLilCeu6zy0
-DURATION:PT2H
-DTSTART:20220804T140000Z
-SUMMARY:羽継烏有: 【 里帰り 】みんなで里帰りするよ！【#羽継烏有 /#アップロー /#holostars 】
-UID:sLilCeu6zy0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft1.19】天真村の地下渓谷ありすぎ問題【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Lb78KcXOTHc
-DURATION:PT2H
-DTSTART:20220804T140000Z
-SUMMARY:🍕アルランディス: 【Minecraft1.19】天真村の地下渓谷ありすぎ問題【アルランディス/ホロスターズ】
-UID:Lb78KcXOTHc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SUPER BUNNY MAN】#ぴざらしーズ の絆はウサギになっても健在です【マーナ・ポプリ/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=5mjhKUuGpi4
-DURATION:PT2H
-DTSTART:20220804T110000Z
-SUMMARY:🍕アルランディス: 【SUPER BUNNY MAN】#ぴざらしーズ の絆はウサギになっても健在です【マーナ・ポプリ/アルランディス/ホロスターズ】
-UID:5mjhKUuGpi4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スーパー野田ゲーWORLD】2人プレイで絆を見せる(！？)【律可/影山シエン/ホロスターズ】#シャドウギア\nhttps://www.youtube.com/watch?v=n50oHmoDjLU
-DURATION:PT2H
-DTSTART:20220804T120000Z
-SUMMARY:⚙律可: 【スーパー野田ゲーWORLD】2人プレイで絆を見せる(！？)【律可/影山シエン/ホロスターズ】#シャドウギア
-UID:n50oHmoDjLU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Monster Hunter Rise】４ｘ４のBINGOのために特訓する！！（作業枠です）【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=Zqrlb1oY3Co
-DURATION:PT2H
-DTSTART:20220804T143000Z
-SUMMARY:🦔💨岸堂天真: 【Monster Hunter Rise】４ｘ４のBINGOのために特訓する！！（作業枠です）【岸堂天真/ホロスターズ】
-UID:Zqrlb1oY3Co
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アニメ】とうとう我慢できなくなりました。【＃スタこれ】\nhttps://www.youtube.com/watch?v=IPUSYj5zE0Y
-DURATION:PT2H
-DTSTART:20220805T100021Z
-SUMMARY:ホロスターズ: 【アニメ】とうとう我慢できなくなりました。【＃スタこれ】
-UID:IPUSYj5zE0Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【7 Days to End with You】言語の裏に隠された真実を探す物語 #2 ※ネタバレあり【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=OuoKlGdML4c
-DURATION:PT2H
-DTSTART:20220805T040000Z
-SUMMARY:影山シエン: 【7 Days to End with You】言語の裏に隠された真実を探す物語 #2 ※ネタバレあり【影山シエン/ホロスターズ】
-UID:OuoKlGdML4c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#夜十神封魔夏衣装 お披露目】NEW OUTFIT!!　夏！夏！！夏！！！【夜十神封魔/UPROAR!!/#アップロー】\nhttps://www.youtube.com/watch?v=VgHGW0pB1Q8
 DURATION:PT2H
 DTSTART:20220806T110000Z
 SUMMARY:夜十神封魔: 【#夜十神封魔夏衣装 お披露目】NEW OUTFIT!!　夏！夏！！夏！！！【夜十神封魔/UPROAR!!/#アップロー】
 UID:VgHGW0pB1Q8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MOTHER2 ギーグの逆襲】魔人も子供もおねーさんも#3【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=A5rrG8eWwu0
-DURATION:PT2H
-DTSTART:20220804T130000Z
-SUMMARY:荒咬オウガ: 【MOTHER2 ギーグの逆襲】魔人も子供もおねーさんも#3【荒咬オウガ/ホロスターズ】
-UID:A5rrG8eWwu0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Cooking Simulator】料理には自信あります！ / 水無世燐央【UPROAR!!/アップロー】\nhttps://www.youtube.com/watch?v=3CdJk5a6P6A
@@ -123,11 +67,18 @@ SUMMARY:水無世燐央: 【Cooking Simulator】料理には自信あります�
 UID:3CdJk5a6P6A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Stray：1】猫になるやつ【奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=0hYHDUJr2T0
+DESCRIPTION:【初見ペルソナ4 ザ・ゴールデン #6】束の間の平穏/水無世燐央　※ネタバレあり！【UPROAR!!/アップロー】\nhttps://www.youtube.com/watch?v=eW0VnSVjfLw
 DURATION:PT2H
-DTSTART:20220804T113000Z
-SUMMARY:🎸奏手イヅル: 【Stray：1】猫になるやつ【奏手イヅル/ホロスターズ】
-UID:0hYHDUJr2T0
+DTSTART:20220806T150000Z
+SUMMARY:水無世燐央: 【初見ペルソナ4 ザ・ゴールデン #6】束の間の平穏/水無世燐央　※ネタバレあり！【UPROAR!!/アップロー】
+UID:eW0VnSVjfLw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 夏衣装お披露目 】夏だ！新衣装だ！お披露目だ！！【#羽継烏有 /#アップロー /#holostars 】\nhttps://www.youtube.com/watch?v=rZCLnHY41wc
+DURATION:PT2H
+DTSTART:20220807T110000Z
+SUMMARY:羽継烏有: 【 夏衣装お披露目 】夏だ！新衣装だ！お披露目だ！！【#羽継烏有 /#アップロー /#holostars 】
+UID:rZCLnHY41wc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#4【ドラゴンクエストXI S】海底に、いざ出発！【#夜十神封魔/#ホロスターズ/#アップロー】※ネタバレあり\nhttps://www.youtube.com/watch?v=P3VTzZ2DsQQ
@@ -137,18 +88,11 @@ SUMMARY:夜十神封魔: #4【ドラゴンクエストXI S】海底に、いざ�
 UID:P3VTzZ2DsQQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:さぎょうがえいえんにおわらないひと /  Astel Leda\nhttps://www.youtube.com/watch?v=LhVSWeoQzBM
+DESCRIPTION:【Monster Hunter Rise】モンスターを気絶させる方法がない・・・。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=DePQAgHRoS4
 DURATION:PT2H
-DTSTART:20220803T171500Z
-SUMMARY:🎭アステル・レダ: さぎょうがえいえんにおわらないひと /  Astel Leda
-UID:LhVSWeoQzBM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【0秒翻訳】見た瞬間！英語に即変換！【＃わちゃスタ 35】\nhttps://www.youtube.com/watch?v=jV6KzhkJkRA
-DURATION:PT2H
-DTSTART:20220804T100000Z
-SUMMARY:ホロスターズ: 【0秒翻訳】見た瞬間！英語に即変換！【＃わちゃスタ 35】
-UID:jV6KzhkJkRA
+DTSTART:20220805T145500Z
+SUMMARY:🦔💨岸堂天真: 【Monster Hunter Rise】モンスターを気絶させる方法がない・・・。【岸堂天真/ホロスターズ】
+UID:DePQAgHRoS4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【イラスト付きオフレポ】バンジージャンプロケの裏話を絵で描いて振り返る！【＃ジャンプロ 緋崎ガンマ / ホロスターズ / イラストメイキング】\nhttps://www.youtube.com/watch?v=gnzYKODkA8E
@@ -158,10 +102,10 @@ SUMMARY:緋崎ガンマ: 【イラスト付きオフレポ】バンジージャ�
 UID:gnzYKODkA8E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft1.19】地底湖の中心に家を作りたい男【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Vwc54vX-BtI
+DESCRIPTION:【Minecraft】整地整地整地ィ！！ / 水無世燐央【UPROAR!!/アップロー】\nhttps://www.youtube.com/watch?v=KTMRyYK5wBU
 DURATION:PT2H
-DTSTART:20220803T150000Z
-SUMMARY:🍕アルランディス: 【Minecraft1.19】地底湖の中心に家を作りたい男【アルランディス/ホロスターズ】
-UID:Vwc54vX-BtI
+DTSTART:20220807T130000Z
+SUMMARY:水無世燐央: 【Minecraft】整地整地整地ィ！！ / 水無世燐央【UPROAR!!/アップロー】
+UID:KTMRyYK5wBU
 END:VEVENT
 END:VCALENDAR
