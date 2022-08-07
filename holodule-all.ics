@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】2022夏祭りのための整地するぞ～！【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=qAf7LO_Ve7E
-DURATION:PT2H
-DTSTART:20220807T093000Z
-SUMMARY:👾常闇トワ: 【Minecraft】2022夏祭りのための整地するぞ～！【常闇トワ/ホロライブ】
-UID:qAf7LO_Ve7E
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Illustration Making】尾丸ポルカさんを描いてみる！！【緋崎ガンマ ホロスターズ / イラストメイキング/ ホロライブプロダクション】\nhttps://www.youtube.com/watch?v=cVrveuUvrF8
 DURATION:PT2H
 DTSTART:20220806T080000Z
@@ -193,13 +186,6 @@ SUMMARY:桃鈴ねね: 【 VALORANT 】最近興味が高めのゲームをやっ
 UID:oP-HjWAGg5g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 夏衣装お披露目 】夏だ！新衣装だ！お披露目だ！！【#羽継烏有 /#アップロー /#holostars 】\nhttps://www.youtube.com/watch?v=rZCLnHY41wc
-DURATION:PT2H
-DTSTART:20220807T110000Z
-SUMMARY:羽継烏有: 【 夏衣装お披露目 】夏だ！新衣装だ！お披露目だ！！【#羽継烏有 /#アップロー /#holostars 】
-UID:rZCLnHY41wc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Fall Guys】キレたら即終了フォールガイズ【#黒上フブキ】\nhttps://www.youtube.com/watch?v=_y8qRM_Vttc
 DURATION:PT2H
 DTSTART:20220806T090000Z
@@ -368,11 +354,11 @@ SUMMARY:🌟夜空メル: 【星のカービィ ディスカバリー】ピン�
 UID:YzrqS_LAZ10
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【映画同時視聴】竜とそばかすの姫を一緒に見よう🐉💖-メンバー限定-　【ホロライブ/ #ロボ子生放送】\nhttps://www.youtube.com/watch?v=Eb6OAHJ4GG8
+DESCRIPTION:【#八月のシンデレラナイン】新コンテンツ『シンデレラアドベンチャー』を遊びつくす！！【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=ems08eJfkpw
 DURATION:PT2H
-DTSTART:20220807T140000Z
-SUMMARY:🤖ロボ子さん: 【映画同時視聴】竜とそばかすの姫を一緒に見よう🐉💖-メンバー限定-　【ホロライブ/ #ロボ子生放送】
-UID:Eb6OAHJ4GG8
+DTSTART:20220807T100000Z
+SUMMARY:鷹嶺ルイ: 【#八月のシンデレラナイン】新コンテンツ『シンデレラアドベンチャー』を遊びつくす！！【鷹嶺ルイ/ホロライブ】
+UID:ems08eJfkpw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#不知火フレア3周年記念LIVE】大感謝祭！今日もバカみたいに騒ごう！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=twAfWd7qSWQ
@@ -380,6 +366,20 @@ DURATION:PT2H
 DTSTART:20220807T120000Z
 SUMMARY:🔥不知火フレア: 【#不知火フレア3周年記念LIVE】大感謝祭！今日もバカみたいに騒ごう！【不知火フレア/ホロライブ】
 UID:twAfWd7qSWQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【映画同時視聴】竜とそばかすの姫を一緒に見よう🐉💖-メンバー限定-　【ホロライブ/ #ロボ子生放送】\nhttps://www.youtube.com/watch?v=Eb6OAHJ4GG8
+DURATION:PT2H
+DTSTART:20220807T140000Z
+SUMMARY:🤖ロボ子さん: 【映画同時視聴】竜とそばかすの姫を一緒に見よう🐉💖-メンバー限定-　【ホロライブ/ #ロボ子生放送】
+UID:Eb6OAHJ4GG8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】明日はトワの誕生日！！歌いながらカウントダウン！【常闇トワ】\nhttps://www.youtube.com/watch?v=mIIFSyxKN0Q
+DURATION:PT2H
+DTSTART:20220807T143000Z
+SUMMARY:👾常闇トワ: 【歌枠】明日はトワの誕生日！！歌いながらカウントダウン！【常闇トワ】
+UID:mIIFSyxKN0Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】おはよ～！！夏休みでも早起きすべし！！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=PWt1sVJmsUs
@@ -576,6 +576,13 @@ DURATION:PT2H
 DTSTART:20220807T130000Z
 SUMMARY:🐏角巻わため: 【メンバー限定配信】開設2年5ヶ月目！同時視聴『サマーウォーズ』一緒に観よう！【角巻わため/ホロライブ４期生】
 UID:je0pXl9EAlY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Stray】ミッドタウンに到着にゃん！ #04【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=dnPdfN3F7YE
+DURATION:PT2H
+DTSTART:20220808T100000Z
+SUMMARY:雪花ラミィ: 【Stray】ミッドタウンに到着にゃん！ #04【雪花ラミィ/ホロライブ】
+UID:dnPdfN3F7YE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SPY PARTY】POV: You're about to get assassinated feat. @Regis Altare Ch. HOLOSTARS-EN\nhttps://www.youtube.com/watch?v=cnZgTSsKSe4
