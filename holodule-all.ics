@@ -18,18 +18,18 @@ SUMMARY:尾丸ポルカ: 【Stray/2】猫だから平日になったってミャ
 UID:mylSEKYnoe8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SPORE】Time to seek revenge on this lil Maglord\nhttps://www.youtube.com/watch?v=sf1VojqT7TQ
-DURATION:PT2H
-DTSTART:20220808T060000Z
-SUMMARY:Syrios: 【SPORE】Time to seek revenge on this lil Maglord
-UID:sf1VojqT7TQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Enter the Gungeon】 welcome to the morning roguelike sessions!  【2】\nhttps://www.youtube.com/watch?v=T5cq3KSU4Fk
 DURATION:PT2H
 DTSTART:20220808T140000Z
 SUMMARY:Altare: 【Enter the Gungeon】 welcome to the morning roguelike sessions!  【2】
 UID:T5cq3KSU4Fk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SPORE】Time to seek revenge on this lil Maglord\nhttps://www.youtube.com/watch?v=sf1VojqT7TQ
+DURATION:PT2H
+DTSTART:20220808T060000Z
+SUMMARY:Syrios: 【SPORE】Time to seek revenge on this lil Maglord
+UID:sf1VojqT7TQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【NGなし！】全ての質問に5秒で即レスせよ…！！【＃ ジャンプロ】\nhttps://www.youtube.com/watch?v=tmsBEMgJUz8
@@ -144,6 +144,13 @@ SUMMARY:🐿Risu: 【holoID】STRAY : I AM CAT ??????【Ayunda Risu】
 UID:fWwGn3mQtMw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【雑談】お昼時の雑談【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=yFlXKL7vzLg
+DURATION:PT2H
+DTSTART:20220809T033000Z
+SUMMARY:🍷夕刻ロベル: 【雑談】お昼時の雑談【夕刻ロベル/ホロスターズ】
+UID:yFlXKL7vzLg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】新コースIKZZZZZZZ！！！！！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=F9Qd3JuZC8Y
 DURATION:PT2H
 DTSTART:20220808T090000Z
@@ -214,6 +221,13 @@ SUMMARY:🍬姫森ルーナ: 【 里帰り 】もうすぐお盆なのらね…�
 UID:SzD0q1jYswk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【TEMPUS】4 Guys 1 Raft #1\nhttps://www.youtube.com/watch?v=iA-13RWaEJo
+DURATION:PT2H
+DTSTART:20220809T022857Z
+SUMMARY:Syrios: 【TEMPUS】4 Guys 1 Raft #1
+UID:iA-13RWaEJo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#1【KLONOA 2】WAHOO (with the intention of playing the sequel)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=b_dQFehgJmU
 DURATION:PT2H
 DTSTART:20220808T151500Z
@@ -226,6 +240,13 @@ DURATION:PT2H
 DTSTART:20220808T000000Z
 SUMMARY:夜十神封魔: 【Duolingo】Become an English-speaking yokai!! / 英語を話せる妖怪になる。【#YatogamiFuma #UPROAR #holostars】
 UID:3L9p-nPXtn8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 LiEat 初見 】詐欺師とドラゴンの少女が探す真実 / 水無世燐央【UPROAR!!/アップロー】\nhttps://www.youtube.com/watch?v=Y07dg8UeKAU
+DURATION:PT2H
+DTSTART:20220809T140000Z
+SUMMARY:水無世燐央: 【 LiEat 初見 】詐欺師とドラゴンの少女が探す真実 / 水無世燐央【UPROAR!!/アップロー】
+UID:Y07dg8UeKAU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【配信予定】お家帰ったら速攻で準備する！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=ugqOOpg6WHY
@@ -268,13 +289,6 @@ DURATION:PT2H
 DTSTART:20220809T130000Z
 SUMMARY:博衣こより: 【お披露目＆歌】博衣の日記念！いろいろお披露目しながら歌う＆重大告知！！遂にあの姿が・・・！？【博衣こより/ホロライブ】
 UID:GkLZbe8KxZo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Elden Ring】I Like Trees!(spoilers)\nhttps://www.youtube.com/watch?v=20_ZRUcedwc
-DURATION:PT2H
-DTSTART:20220808T233000Z
-SUMMARY:Amelia: 【Elden Ring】I Like Trees!(spoilers)
-UID:20_ZRUcedwc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SC Catchup】Thank you !!\nhttps://www.youtube.com/watch?v=YFLztUOVk84
@@ -331,6 +345,13 @@ DURATION:PT2H
 DTSTART:20220808T110000Z
 SUMMARY:👾常闇トワ: 【#常闇トワ生誕祭2022】MIX -私の存在証明- 【3DLIVE】
 UID:KyURvb-eIU8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】整地に魅せられた男 / 水無世燐央【UPROAR!!/アップロー】\nhttps://www.youtube.com/watch?v=T4adisadzn4
+DURATION:PT2H
+DTSTART:20220809T033000Z
+SUMMARY:水無世燐央: 【Minecraft】整地に魅せられた男 / 水無世燐央【UPROAR!!/アップロー】
+UID:T4adisadzn4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 English Homework 】 Study English！英語のお勉強よ！【#羽継烏有 /#アップロー /#holostars 】\nhttps://www.youtube.com/watch?v=FxcYJs3Y06M
@@ -459,18 +480,18 @@ SUMMARY:水無世燐央: 【Minecraft】整地…ﾀﾉｼｲ… / 水無世燐�
 UID:FnlzCOuto-o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【TUNIC】Gimme All The Cheese Cubes Or Else!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=2vPwkiI6zLw
-DURATION:PT2H
-DTSTART:20220808T133000Z
-SUMMARY:Kiara: 【TUNIC】Gimme All The Cheese Cubes Or Else!! #kfp #キアライブ
-UID:2vPwkiI6zLw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#4【 Minecraft Hardcore 】ハードコア100DAYS🌻みこのなつやすみ～おわらない全ロスとの戦い～【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=qUktdtIM_Pc
 DURATION:PT2H
 DTSTART:20220809T030000Z
 SUMMARY:🌸さくらみこ: #4【 Minecraft Hardcore 】ハードコア100DAYS🌻みこのなつやすみ～おわらない全ロスとの戦い～【ホロライブ/さくらみこ】
 UID:qUktdtIM_Pc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【TUNIC】Gimme All The Cheese Cubes Or Else!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=2vPwkiI6zLw
+DURATION:PT2H
+DTSTART:20220808T133000Z
+SUMMARY:Kiara: 【TUNIC】Gimme All The Cheese Cubes Or Else!! #kfp #キアライブ
+UID:2vPwkiI6zLw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】第９０回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=BIYYQUpTcuw
