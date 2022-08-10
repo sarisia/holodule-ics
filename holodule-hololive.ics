@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Sign収録】ピッとして！マーマレード(Short ver.)MV【ときのそらオリジナル楽曲】\nhttps://www.youtube.com/watch?v=Fvto9EgmR2A
+DURATION:PT2H
+DTSTART:20220810T110017Z
+SUMMARY:🐻ときのそら: 【Sign収録】ピッとして！マーマレード(Short ver.)MV【ときのそらオリジナル楽曲】
+UID:Fvto9EgmR2A
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 RUST 】ホロ鯖RUST シーズン２のはじまりじゃあああああああ！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=M3i1hKHqsPg
 DURATION:PT2H
 DTSTART:20220809T110000Z
@@ -18,18 +25,18 @@ SUMMARY:博衣こより: 【#朝こよ】8/9、博衣の日…そしてハグの
 UID:jfYFH9R9t1o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【】初RUST【】\nhttps://www.youtube.com/watch?v=XOpVHH83y-k
-DURATION:PT2H
-DTSTART:20220810T130000Z
-SUMMARY:🚑大空スバル: 【】初RUST【】
-UID:XOpVHH83y-k
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ファイアーエムブレム 蒼炎の軌跡】ヨファくんは俺が育てる( 予定 ) #04【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=J-3hmlkWkbc
 DURATION:PT2H
 DTSTART:20220810T130000Z
 SUMMARY:🍙猫又おかゆ: 【ファイアーエムブレム 蒼炎の軌跡】ヨファくんは俺が育てる( 予定 ) #04【猫又おかゆ/ホロライブ】
 UID:J-3hmlkWkbc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【】初RUST【】\nhttps://www.youtube.com/watch?v=XOpVHH83y-k
+DURATION:PT2H
+DTSTART:20220810T130000Z
+SUMMARY:🚑大空スバル: 【】初RUST【】
+UID:XOpVHH83y-k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【同時視聴】雑談しながら『スプラトゥーン3 Direct』 を一緒に見よう！！【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=osgqXfhWkAE
