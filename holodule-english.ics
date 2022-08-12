@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【RUST】HoloRust SEASON 2\nhttps://www.youtube.com/watch?v=ScZy5gEw374
+DURATION:PT2H
+DTSTART:20220812T005940Z
+SUMMARY:Gura: 【RUST】HoloRust SEASON 2
+UID:ScZy5gEw374
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【RUST】Eating Rocks 😎 Newbie 🤙\nhttps://www.youtube.com/watch?v=tb1LpRz0TDs
 DURATION:PT2H
 DTSTART:20220811T223000Z
@@ -18,32 +25,11 @@ SUMMARY:Baelz: ≪MINECRAFT≫ mornin minecrafters
 UID:ItIrW4nahGw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RUST】How Rusty is it?\nhttps://www.youtube.com/watch?v=-dkDh4gGqtg
-DURATION:PT2H
-DTSTART:20220812T140000Z
-SUMMARY:IRyS: 【RUST】How Rusty is it?
-UID:-dkDh4gGqtg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Gura the Alarm Clock #shorts\nhttps://www.youtube.com/watch?v=a_OQTG4Eb9A
 DURATION:PT2H
 DTSTART:20220812T040000Z
 SUMMARY:ENholo: Gura the Alarm Clock #shorts
 UID:a_OQTG4Eb9A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:when you tell the girl at the bar you won't play skyrim with her #shorts\nhttps://www.youtube.com/watch?v=8hRDqv85r0A
-DURATION:PT2H
-DTSTART:20220811T220002Z
-SUMMARY:Fauna: when you tell the girl at the bar you won't play skyrim with her #shorts
-UID:8hRDqv85r0A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】HoloRust SEASON 2\nhttps://www.youtube.com/watch?v=ScZy5gEw374
-DURATION:PT2H
-DTSTART:20220812T005940Z
-SUMMARY:Gura: 【RUST】HoloRust SEASON 2
-UID:ScZy5gEw374
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VA-11 Hall-A】Living Changes and Drinking Mixes. (Part 4)\nhttps://www.youtube.com/watch?v=F5rV1N25ewY
@@ -58,5 +44,12 @@ DURATION:PT2H
 DTSTART:20220813T030000Z
 SUMMARY:Baelz: ≪NARUTO KARAOKE≫ NAAAARUUUUUUUUUTOOOO
 UID:Y34ywdqH8Yw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:when you tell the girl at the bar you won't play skyrim with her #shorts\nhttps://www.youtube.com/watch?v=8hRDqv85r0A
+DURATION:PT2H
+DTSTART:20220811T220002Z
+SUMMARY:Fauna: when you tell the girl at the bar you won't play skyrim with her #shorts
+UID:8hRDqv85r0A
 END:VEVENT
 END:VCALENDAR
