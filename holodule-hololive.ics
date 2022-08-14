@@ -46,13 +46,6 @@ SUMMARY:🌟夜空メル: 【同時視聴】ムーン・フォールいっしょ
 UID:5hG7dMumvRE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【バイオ7】#こよ夏バイオ7 Day4！悲鳴VS罵声【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=RB1mfdrBig4
-DURATION:PT2H
-DTSTART:20220814T080000Z
-SUMMARY:博衣こより: 【バイオ7】#こよ夏バイオ7 Day4！悲鳴VS罵声【博衣こより/ホロライブ】
-UID:RB1mfdrBig4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【RUST】ゆるく素材集めとかする朝配信【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=zcQnZ2i3MEc
 DURATION:PT2H
 DTSTART:20220812T230000Z
@@ -114,6 +107,13 @@ DURATION:PT2H
 DTSTART:20220814T130000Z
 SUMMARY:雪花ラミィ: 【 #ゴリラの肝臓 】握力合わせて95Kg！オフコラボ晩酌だぁ【雪花ラミィ・天音かなた/ホロライブ】
 UID:AGUloL4T9dw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#4】ペルソナ４ザ・ゴールデンやるしゅばあああああああああああああああああああ！！！！：Persona4 The golden【ネタバレ有り】\nhttps://www.youtube.com/watch?v=gyOdvC871M4
+DURATION:PT2H
+DTSTART:20220814T040000Z
+SUMMARY:🚑大空スバル: 【#4】ペルソナ４ザ・ゴールデンやるしゅばあああああああああああああああああああ！！！！：Persona4 The golden【ネタバレ有り】
+UID:gyOdvC871M4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 はいしんよてち 】【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=uNw-1HmUL54
@@ -284,11 +284,11 @@ SUMMARY:獅白ぼたん: 【Minecraft】ホロ鯖夏祭りに関しての連絡�
 UID:5egW2MY_3Ds
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SFC】ドラクエ6、懐かしみながらプレイしていく【ドラゴンクエストⅥ】※ネタバレあり\nhttps://www.youtube.com/watch?v=ONNMKuEoyIQ
+DESCRIPTION:【同時視聴】ついに見るのか「ヱヴァンゲリヲン新劇場版：序・破」【不知火フレア/尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=3JhC9YbuzUE
 DURATION:PT2H
-DTSTART:20220814T120000Z
-SUMMARY:🥐戌神ころね: 【SFC】ドラクエ6、懐かしみながらプレイしていく【ドラゴンクエストⅥ】※ネタバレあり
-UID:ONNMKuEoyIQ
+DTSTART:20220814T060000Z
+SUMMARY:🔥不知火フレア: 【同時視聴】ついに見るのか「ヱヴァンゲリヲン新劇場版：序・破」【不知火フレア/尾丸ポルカ/ホロライブ】
+UID:3JhC9YbuzUE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】強さへの階段！！飛行場へ！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=yfmItwjXod0
@@ -298,11 +298,11 @@ SUMMARY:💫天音かなた: 【RUST】強さへの階段！！飛行場へ！�
 UID:yfmItwjXod0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 ASMR】今日一緒に寝てもいい？？ NO ARCHIVE【ホロライブ/ ロボ子さん】\nhttps://www.youtube.com/watch?v=jdJaRJFnaTQ
+DESCRIPTION:【SFC】ドラクエ6、懐かしみながらプレイしていく【ドラゴンクエストⅥ】※ネタバレあり\nhttps://www.youtube.com/watch?v=ONNMKuEoyIQ
 DURATION:PT2H
-DTSTART:20220814T133000Z
-SUMMARY:🤖ロボ子さん: 【 ASMR】今日一緒に寝てもいい？？ NO ARCHIVE【ホロライブ/ ロボ子さん】
-UID:jdJaRJFnaTQ
+DTSTART:20220814T120000Z
+SUMMARY:🥐戌神ころね: 【SFC】ドラクエ6、懐かしみながらプレイしていく【ドラゴンクエストⅥ】※ネタバレあり
+UID:ONNMKuEoyIQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】人生リセットボタンぽちーｗリリース記念に歌います！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=mV4OYgSVBYw
@@ -310,6 +310,13 @@ DURATION:PT2H
 DTSTART:20220814T123000Z
 SUMMARY:沙花叉クロヱ: 【歌枠】人生リセットボタンぽちーｗリリース記念に歌います！【沙花叉クロヱ/ホロライブ】
 UID:mV4OYgSVBYw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 ASMR】今日一緒に寝てもいい？？ NO ARCHIVE【ホロライブ/ ロボ子さん】\nhttps://www.youtube.com/watch?v=jdJaRJFnaTQ
+DURATION:PT2H
+DTSTART:20220814T133000Z
+SUMMARY:🤖ロボ子さん: 【 ASMR】今日一緒に寝てもいい？？ NO ARCHIVE【ホロライブ/ ロボ子さん】
+UID:jdJaRJFnaTQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【モンハンサンブレイク】メルゼナ初見チャレンジいくぞおおおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=g8mXdQKcjr0
