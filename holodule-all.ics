@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【 Project: Zomboid 】 The Ballad of Chad Thuddington  #holoTEMPUS\nhttps://www.youtube.com/watch?v=ZRsncOfPcw4
+DURATION:PT2H
+DTSTART:20220814T050000Z
+SUMMARY:Vesper: 【 Project: Zomboid 】 The Ballad of Chad Thuddington  #holoTEMPUS
+UID:ZRsncOfPcw4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マリン王は誰だ!?】#マリンわかりて選手権【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=eVcDKsEcsbQ
 DURATION:PT2H
 DTSTART:20220813T120000Z
@@ -765,5 +772,12 @@ DURATION:PT2H
 DTSTART:20220814T090000Z
 SUMMARY:👾常闇トワ: 【 #オールスター大運動会】2部：青組、！【常闇トワ / ホロライブ】
 UID:5DP_-AKytYE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SPORE】STRONGER. BETTER. FASTER. AXEL. | PT 4\nhttps://www.youtube.com/watch?v=cawE90TCv3U
+DURATION:PT2H
+DTSTART:20220814T220000Z
+SUMMARY:Dezmond: 【SPORE】STRONGER. BETTER. FASTER. AXEL. | PT 4
+UID:cawE90TCv3U
 END:VEVENT
 END:VCALENDAR
