@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:≪Digimon Survive≫ takronii and agubae back again\nhttps://www.youtube.com/watch?v=RuQZZlU0Vag
+DESCRIPTION:≪CHAT≫ what a super day\nhttps://www.youtube.com/watch?v=LV4EBBUzsQg
 DURATION:PT2H
-DTSTART:20220814T020000Z
-SUMMARY:Baelz: ≪Digimon Survive≫ takronii and agubae back again
-UID:RuQZZlU0Vag
+DTSTART:20220815T020000Z
+SUMMARY:Baelz: ≪CHAT≫ what a super day
+UID:LV4EBBUzsQg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪MINECRAFT≫ MORE BLOCK GAME\nhttps://www.youtube.com/watch?v=OTD_4Pnn9oU
+DURATION:PT2H
+DTSTART:20220815T050000Z
+SUMMARY:Baelz: ≪MINECRAFT≫ MORE BLOCK GAME
+UID:OTD_4Pnn9oU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[LIVE A LIVE] fuuuuuuuuuuture. Akira and Cube's Stories! (Part 3) SPOILERS!!\nhttps://www.youtube.com/watch?v=R4Bjk91dvbc
@@ -16,6 +23,13 @@ DURATION:PT2H
 DTSTART:20220815T020000Z
 SUMMARY:Calli: [LIVE A LIVE] fuuuuuuuuuuture. Akira and Cube's Stories! (Part 3) SPOILERS!!
 UID:R4Bjk91dvbc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CHILL】Sleepy Ame~ Listening to Bubb4Bot 🎵 Reading Superchats\nhttps://www.youtube.com/watch?v=n_uy-q1mdlg
+DURATION:PT2H
+DTSTART:20220814T231500Z
+SUMMARY:Amelia: 【CHILL】Sleepy Ame~ Listening to Bubb4Bot 🎵 Reading Superchats
+UID:n_uy-q1mdlg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】HoloRust addiction\nhttps://www.youtube.com/watch?v=-R21KSUg8Og
@@ -37,54 +51,5 @@ DURATION:PT2H
 DTSTART:20220815T021500Z
 SUMMARY:Amelia: 【RUST】Let the WAR BEGIN!
 UID:cV3SlC3tm-Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪CHAT≫ what a super day\nhttps://www.youtube.com/watch?v=LV4EBBUzsQg
-DURATION:PT2H
-DTSTART:20220815T020000Z
-SUMMARY:Baelz: ≪CHAT≫ what a super day
-UID:LV4EBBUzsQg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【GOLF TRIP!!】Uncle Dad Versus...Other Dad. with Vesper Noir!\nhttps://www.youtube.com/watch?v=JuI-itObQdQ
-DURATION:PT2H
-DTSTART:20220813T180000Z
-SUMMARY:Calli: 【GOLF TRIP!!】Uncle Dad Versus...Other Dad. with Vesper Noir!
-UID:JuI-itObQdQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CHILL】Sleepy Ame~ Listening to Bubb4Bot 🎵 Reading Superchats\nhttps://www.youtube.com/watch?v=n_uy-q1mdlg
-DURATION:PT2H
-DTSTART:20220814T231500Z
-SUMMARY:Amelia: 【CHILL】Sleepy Ame~ Listening to Bubb4Bot 🎵 Reading Superchats
-UID:n_uy-q1mdlg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FAN-MADE GAME】 Mumei's Memory Juggling\nhttps://www.youtube.com/watch?v=J9BDwjxh17E
-DURATION:PT2H
-DTSTART:20220814T010000Z
-SUMMARY:Mumei: 【FAN-MADE GAME】 Mumei's Memory Juggling
-UID:J9BDwjxh17E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【WATCHALONG】Spider-Man 2~ 🕷️ 🔍\nhttps://www.youtube.com/watch?v=7JsMh9sYiJo
-DURATION:PT2H
-DTSTART:20220813T220500Z
-SUMMARY:Amelia: 【WATCHALONG】Spider-Man 2~ 🕷️ 🔍
-UID:7JsMh9sYiJo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SEOUL NOW】STORYTIMEEEEE #kfp #キアライブ\nhttps://www.youtube.com/watch?v=fBTNhoXDn-s
-DURATION:PT2H
-DTSTART:20220814T133000Z
-SUMMARY:Kiara: 【SEOUL NOW】STORYTIMEEEEE #kfp #キアライブ
-UID:fBTNhoXDn-s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪MINECRAFT≫ MORE BLOCK GAME\nhttps://www.youtube.com/watch?v=OTD_4Pnn9oU
-DURATION:PT2H
-DTSTART:20220815T050000Z
-SUMMARY:Baelz: ≪MINECRAFT≫ MORE BLOCK GAME
-UID:OTD_4Pnn9oU
 END:VEVENT
 END:VCALENDAR
