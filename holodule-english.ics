@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【CHAT】 What Is the Tako Up To?\nhttps://www.youtube.com/watch?v=-wV6ZqiPIt0
+DESCRIPTION:[ORIGINAL SONG] Let's End the World - Mori Calliope\nhttps://www.youtube.com/watch?v=etW-seMBfeE
 DURATION:PT2H
-DTSTART:20220816T210000Z
-SUMMARY:Ina: 【CHAT】 What Is the Tako Up To?
-UID:-wV6ZqiPIt0
+DTSTART:20220817T180000Z
+SUMMARY:Calli: [ORIGINAL SONG] Let's End the World - Mori Calliope
+UID:etW-seMBfeE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[DRAWING] HOLOEN SWIMSUIT DESIGNS!!\nhttps://www.youtube.com/watch?v=m5AYZ9FYXao
@@ -25,13 +25,6 @@ SUMMARY:Kiara: YOU LITTLE SHIT (The Song)
 UID:urOtTBtY7Ww
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[ORIGINAL SONG] Let's End the World - Mori Calliope\nhttps://www.youtube.com/watch?v=etW-seMBfeE
-DURATION:PT2H
-DTSTART:20220817T180000Z
-SUMMARY:Calli: [ORIGINAL SONG] Let's End the World - Mori Calliope
-UID:etW-seMBfeE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:How Dere Types Confess Their Love #shorts\nhttps://www.youtube.com/watch?v=6KHlJMGH-O0
 DURATION:PT2H
 DTSTART:20220815T220004Z
@@ -39,17 +32,31 @@ SUMMARY:Fauna: How Dere Types Confess Their Love #shorts
 UID:6KHlJMGH-O0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 REBROADCAST 600k SAPLINGS PARTY】 SINGING FOR 600k 🥳 THANK YOU!\nhttps://www.youtube.com/watch?v=ilv0SdOLYKg
-DURATION:PT2H
-DTSTART:20220816T220000Z
-SUMMARY:Fauna: 【 REBROADCAST 600k SAPLINGS PARTY】 SINGING FOR 600k 🥳 THANK YOU!
-UID:ilv0SdOLYKg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】 Finishing Fauna's Funny Fish Farm\nhttps://www.youtube.com/watch?v=LhbzlyeGzOw
 DURATION:PT2H
 DTSTART:20220816T040000Z
 SUMMARY:Fauna: 【MINECRAFT】 Finishing Fauna's Funny Fish Farm
 UID:LhbzlyeGzOw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CHAT】 What Is the Tako Up To?\nhttps://www.youtube.com/watch?v=-wV6ZqiPIt0
+DURATION:PT2H
+DTSTART:20220816T210000Z
+SUMMARY:Ina: 【CHAT】 What Is the Tako Up To?
+UID:-wV6ZqiPIt0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Cover】MAFIA / マフィア - Ouro Kronii\nhttps://www.youtube.com/watch?v=iEr1aBephZ8
+DURATION:PT2H
+DTSTART:20220817T030000Z
+SUMMARY:Kronii: 【Cover】MAFIA / マフィア - Ouro Kronii
+UID:iEr1aBephZ8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 REBROADCAST 600k SAPLINGS PARTY】 SINGING FOR 600k 🥳 THANK YOU!\nhttps://www.youtube.com/watch?v=ilv0SdOLYKg
+DURATION:PT2H
+DTSTART:20220816T220000Z
+SUMMARY:Fauna: 【 REBROADCAST 600k SAPLINGS PARTY】 SINGING FOR 600k 🥳 THANK YOU!
+UID:ilv0SdOLYKg
 END:VEVENT
 END:VCALENDAR
