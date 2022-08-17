@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】part 1 today【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=VNlzRi_bPTo
+DURATION:PT2H
+DTSTART:20220817T213000Z
+SUMMARY:Kaela: 【Minecraft】part 1 today【Kaela Kovalskia / hololive ID】
+UID:VNlzRi_bPTo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Rust】#5 i need stones【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=NQc9v8KobMQ
 DURATION:PT2H
 DTSTART:20220817T024500Z
@@ -23,13 +30,6 @@ DURATION:PT2H
 DTSTART:20220817T000153Z
 SUMMARY:Gura: 【RUST】HoloRust SEASON 2
 UID:bZmMvX-KZUQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Rust 】RUSTの洗礼…？！サバイバルに挑戦なのら！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=TJLyDDMryZ0
-DURATION:PT2H
-DTSTART:20220817T130000Z
-SUMMARY:🍬姫森ルーナ: 【 Rust 】RUSTの洗礼…？！サバイバルに挑戦なのら！【姫森ルーナ/ホロライブ】
-UID:TJLyDDMryZ0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】整地じゃ〜〜〜！！ / 水無世燐央【UPROAR!!/アップロー】\nhttps://www.youtube.com/watch?v=5AT1ka-uqnI
@@ -158,6 +158,13 @@ SUMMARY:👯兎田ぺこら: 【Cult of the Lamb】宗教団体しあわせの�
 UID:aT4dhjVC9tw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Cult of the Lamb】おらにみんなの祈りを分けてくれ！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=FmnLMF78HmQ
+DURATION:PT2H
+DTSTART:20220817T130000Z
+SUMMARY:⚙律可: 【Cult of the Lamb】おらにみんなの祈りを分けてくれ！【律可/ホロスターズ】#りつすた
+UID:FmnLMF78HmQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 Minecraft 】夏祭りに3人で出店だ～～！【 ホロライブ / 桃鈴ねね / はあちゃま / 夏色まつり 】\nhttps://www.youtube.com/watch?v=tHZ0fxUmCfU
 DURATION:PT2H
 DTSTART:20220817T140000Z
@@ -242,6 +249,20 @@ SUMMARY:🍕アルランディス: 【Minecraft1.19】天真村にTEMPUSメン�
 UID:Y8CDQ_7VM7A
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:≪HOLOCURE≫ BAE BAE BAE\nhttps://www.youtube.com/watch?v=LOlkuKa0o1o
+DURATION:PT2H
+DTSTART:20220817T130000Z
+SUMMARY:Baelz: ≪HOLOCURE≫ BAE BAE BAE
+UID:LOlkuKa0o1o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[JUMP KING] e\nhttps://www.youtube.com/watch?v=cfk_fEhwsM8
+DURATION:PT2H
+DTSTART:20220817T210000Z
+SUMMARY:Calli: [JUMP KING] e
+UID:cfk_fEhwsM8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【RUST】 shhhhhhh\nhttps://www.youtube.com/watch?v=Pke26y7l-Ks
 DURATION:PT2H
 DTSTART:20220817T053000Z
@@ -284,10 +305,10 @@ SUMMARY:Vesper: 【 Just Chatting 】I said hey\, what's going on?  #holoTEMPUS
 UID:xSdSeW-cj5g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#生スバル】メル先輩がレイドにくるらしいからヤベえしゅばああああああああああ！！！！！！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=4p526WgrsYA
+DESCRIPTION:【#生スバル】銃をうつれんしゅう【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=4p526WgrsYA
 DURATION:PT2H
 DTSTART:20220818T130000Z
-SUMMARY:🚑大空スバル: 【#生スバル】メル先輩がレイドにくるらしいからヤベえしゅばああああああああああ！！！！！！！【ホロライブ/大空スバル】
+SUMMARY:🚑大空スバル: 【#生スバル】銃をうつれんしゅう【ホロライブ/大空スバル】
 UID:4p526WgrsYA
 END:VEVENT
 BEGIN:VEVENT
@@ -422,6 +443,13 @@ DURATION:PT2H
 DTSTART:20220817T130000Z
 SUMMARY:羽継烏有: 【 APEX 】にゅーしーずん すこしだけする えいぺっくす！【 羽継烏有/#アップロー / #ホロスターズ 】
 UID:myUAjV_pT6Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bebas - hololive ID [Cover]\nhttps://www.youtube.com/watch?v=wlyRGXUwjVA
+DURATION:PT2H
+DTSTART:20220818T050000Z
+SUMMARY:IDholo: Bebas - hololive ID [Cover]
+UID:wlyRGXUwjVA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】夏祭り会場に何かを設営しに行きたい。【風真いろは/ホロライブ6期生】\nhttps://www.youtube.com/watch?v=KjznHKdZXvs
