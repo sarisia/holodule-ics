@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Rust】#5 i need stones【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=NQc9v8KobMQ
+DURATION:PT2H
+DTSTART:20220817T024500Z
+SUMMARY:Kaela: 【Rust】#5 i need stones【Kaela Kovalskia / hololiveID】
+UID:NQc9v8KobMQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【バイオ7】#こよ夏バイオ7 特別編！ルーカスのDLCやるよー！～NOT A HERO～【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=lUE1bOcx4ls
 DURATION:PT2H
 DTSTART:20220817T080000Z
@@ -86,6 +93,13 @@ DURATION:PT2H
 DTSTART:20220816T080000Z
 SUMMARY:🐿Risu: 【holoID】Free Talk + Dono Reading !!!!!!!【Ayunda Risu】
 UID:tSz-dEVk8Kw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【カスタムロボV2】22年前！旅立ち編の続きやっていくぞ～！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=7bnd3XOpt1U
+DURATION:PT2H
+DTSTART:20220817T050000Z
+SUMMARY:🍕アルランディス: 【カスタムロボV2】22年前！旅立ち編の続きやっていくぞ～！【アルランディス/ホロスターズ】
+UID:7bnd3XOpt1U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】#AZHACHI コラボ歌枠！SINGING STREAM【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=tl_cVdFVkGQ
@@ -228,6 +242,13 @@ SUMMARY:尾丸ポルカ: 【振り返り】2周年記念ありがとうござい
 UID:s1SkxUQQPbY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【MAFIA Afterparty】Woohooo\nhttps://www.youtube.com/watch?v=DCvtpgeXwrc
+DURATION:PT2H
+DTSTART:20220817T033000Z
+SUMMARY:Kronii: 【MAFIA Afterparty】Woohooo
+UID:DCvtpgeXwrc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:[Art Stream] DA VINCI SHAKING. MICHAELANGELO RATIO'D. PICASSO RETIRED.🎨\nhttps://www.youtube.com/watch?v=q774s03bo7I
 DURATION:PT2H
 DTSTART:20220816T030000Z
@@ -289,6 +310,13 @@ DURATION:PT2H
 DTSTART:20220816T123000Z
 SUMMARY:緋崎ガンマ: 【モンハンサンブレイク】防具禁止！？全員裸でマスタークエのクリア目指す！！【緋崎ガンマ / ホロスターズ/ MONSTER HUNTER RISE SUNBREAK / 視聴者参加型】
 UID:0JuH-GabSkw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ホロライブ・サマー2022 #4】笑わない羊VS笑わせるアイドル【#笑顔のホロサマ】\nhttps://www.youtube.com/watch?v=jUfcyVhTdx8
+DURATION:PT2H
+DTSTART:20220818T100000Z
+SUMMARY:ホロライブ: 【ホロライブ・サマー2022 #4】笑わない羊VS笑わせるアイドル【#笑顔のホロサマ】
+UID:jUfcyVhTdx8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】 Finishing Fauna's Funny Fish Farm\nhttps://www.youtube.com/watch?v=LhbzlyeGzOw
@@ -459,20 +487,6 @@ SUMMARY:🍕アルランディス: 【カスタムロボV2】22年前！あの�
 UID:3cWzuu373yA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【幽霊列車：The Ghost Train】夏だし列車で旅行行ってくるわ＾＾【緋崎ガンマ/#アップロー /#ホロスターズ / ホラーゲーム / Chilla's Art】\nhttps://www.youtube.com/watch?v=4iMbVum9hLI
-DURATION:PT2H
-DTSTART:20220817T090000Z
-SUMMARY:緋崎ガンマ: 【幽霊列車：The Ghost Train】夏だし列車で旅行行ってくるわ＾＾【緋崎ガンマ/#アップロー /#ホロスターズ / ホラーゲーム / Chilla's Art】
-UID:4iMbVum9hLI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraftコラボ】マイクラ人狼！村を守るんだ / 水無世燐央【UPROAR!!/アップロー】\nhttps://www.youtube.com/watch?v=SOUO4FXEJA0
-DURATION:PT2H
-DTSTART:20220818T110000Z
-SUMMARY:水無世燐央: 【Minecraftコラボ】マイクラ人狼！村を守るんだ / 水無世燐央【UPROAR!!/アップロー】
-UID:SOUO4FXEJA0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Stray】ミッドタウンに到着にゃん！ #04【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=dnPdfN3F7YE
 DURATION:PT2H
 DTSTART:20220816T070000Z
@@ -499,6 +513,20 @@ DURATION:PT2H
 DTSTART:20220816T130000Z
 SUMMARY:Reine: 【CAMERAMAN'S STORY】🏆GARUDA BIRDS VICTORIOUS!!!🏆  #BigGarudaEnergy #holoIDCup2022【Pavolia Reine】
 UID:gK7XogryREo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FOREWARNED】遺跡調査にIKZ！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=GNNhhc__SZM
+DURATION:PT2H
+DTSTART:20220816T130000Z
+SUMMARY:獅白ぼたん: 【FOREWARNED】遺跡調査にIKZ！【獅白ぼたん/ホロライブ】
+UID:GNNhhc__SZM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Before The Night】ペット人間になって狂気の動物から逃げろ！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=tZGuyqNnOhE
+DURATION:PT2H
+DTSTART:20220817T030000Z
+SUMMARY:雪花ラミィ: 【Before The Night】ペット人間になって狂気の動物から逃げろ！【雪花ラミィ/ホロライブ】
+UID:tZGuyqNnOhE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】競馬場作る！整地やいろいろ考えるぞ～【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=zMOABiszC2s
@@ -550,10 +578,10 @@ SUMMARY:Calli: [SMASHING SUPERS] get IN HERE.
 UID:WqMr8tQDpJM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FOREWARNED】遺跡調査にIKZ！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=GNNhhc__SZM
+DESCRIPTION:【Minecraftコラボ】マイクラ人狼！村を守るんだ / 水無世燐央【UPROAR!!/アップロー】\nhttps://www.youtube.com/watch?v=SOUO4FXEJA0
 DURATION:PT2H
-DTSTART:20220816T130000Z
-SUMMARY:獅白ぼたん: 【FOREWARNED】遺跡調査にIKZ！【獅白ぼたん/ホロライブ】
-UID:GNNhhc__SZM
+DTSTART:20220818T110000Z
+SUMMARY:水無世燐央: 【Minecraftコラボ】マイクラ人狼！村を守るんだ / 水無世燐央【UPROAR!!/アップロー】
+UID:SOUO4FXEJA0
 END:VEVENT
 END:VCALENDAR
