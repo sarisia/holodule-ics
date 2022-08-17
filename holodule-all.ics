@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Rust】#5 i need stones【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=NQc9v8KobMQ
-DURATION:PT2H
-DTSTART:20220817T024500Z
-SUMMARY:Kaela: 【Rust】#5 i need stones【Kaela Kovalskia / hololiveID】
-UID:NQc9v8KobMQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【バイオ7】#こよ夏バイオ7 特別編！ルーカスのDLCやるよー！～NOT A HERO～【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=lUE1bOcx4ls
 DURATION:PT2H
 DTSTART:20220817T080000Z
@@ -221,10 +214,10 @@ SUMMARY:Fauna: 【RUST】 How do I play again??
 UID:uzqh7exCbtU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【配信予定】ぺここーこ・ぺーここ！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=aT4dhjVC9tw
+DESCRIPTION:【Cult of the Lamb】宗教団体しあわせの家 信者募集中です！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=aT4dhjVC9tw
 DURATION:PT2H
 DTSTART:20220817T130000Z
-SUMMARY:👯兎田ぺこら: 【配信予定】ぺここーこ・ぺーここ！！！ぺこ！【ホロライブ/兎田ぺこら】
+SUMMARY:👯兎田ぺこら: 【Cult of the Lamb】宗教団体しあわせの家 信者募集中です！！ぺこ！【ホロライブ/兎田ぺこら】
 UID:aT4dhjVC9tw
 END:VEVENT
 BEGIN:VEVENT
@@ -312,6 +305,13 @@ SUMMARY:Kronii: 【MAFIA Afterparty】Woohooo
 UID:DCvtpgeXwrc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Phasmophobia】遺伝子…じゃねぇ！これは幽霊調査！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=F2arfKvEKgU
+DURATION:PT2H
+DTSTART:20220817T130000Z
+SUMMARY:🌽白上フブキ: 【Phasmophobia】遺伝子…じゃねぇ！これは幽霊調査！【ホロライブ/白上フブキ】
+UID:F2arfKvEKgU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:[Art Stream] DA VINCI SHAKING. MICHAELANGELO RATIO'D. PICASSO RETIRED.🎨\nhttps://www.youtube.com/watch?v=q774s03bo7I
 DURATION:PT2H
 DTSTART:20220816T030000Z
@@ -331,6 +331,13 @@ DURATION:PT2H
 DTSTART:20220816T040000Z
 SUMMARY:Reine: 【MINECRAFT | #holoIDCup2022】HOLOID CUP TIME! GO GO GARUDA GO!!!【Pavolia Reine/hololiveID 2nd gen】
 UID:f21Zx5QF0zk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪HOLOCURE≫ BAE BAE BAE\nhttps://www.youtube.com/watch?v=LOlkuKa0o1o
+DURATION:PT2H
+DTSTART:20220817T130000Z
+SUMMARY:Baelz: ≪HOLOCURE≫ BAE BAE BAE
+UID:LOlkuKa0o1o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談＆お礼】みんないつもありがと～！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=BK_0HhxkQfw
@@ -606,11 +613,11 @@ SUMMARY:👯兎田ぺこら: 【Cult of the Lamb】信者を集めて最強の�
 UID:WhyRDqxmB-A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#生スバル】メル先輩がレイドにくるらしいからヤベえしゅばああああああああああ！！！！！！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=xpUxUx3hlRA
+DESCRIPTION:【#ガルパホロライブサマー】28日に向けてチームで大会練習！！！！【ホロライブ/ ロボ子さん】\nhttps://www.youtube.com/watch?v=eXV3284JNXU
 DURATION:PT2H
-DTSTART:20220817T100000Z
-SUMMARY:🚑大空スバル: 【#生スバル】メル先輩がレイドにくるらしいからヤベえしゅばああああああああああ！！！！！！！【ホロライブ/大空スバル】
-UID:xpUxUx3hlRA
+DTSTART:20220817T081500Z
+SUMMARY:🤖ロボ子さん: 【#ガルパホロライブサマー】28日に向けてチームで大会練習！！！！【ホロライブ/ ロボ子さん】
+UID:eXV3284JNXU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 APEX 】にゅーしーずん すこしだけする えいぺっくす！【 羽継烏有/#アップロー / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=myUAjV_pT6Q
@@ -618,6 +625,13 @@ DURATION:PT2H
 DTSTART:20220817T110000Z
 SUMMARY:羽継烏有: 【 APEX 】にゅーしーずん すこしだけする えいぺっくす！【 羽継烏有/#アップロー / #ホロスターズ 】
 UID:myUAjV_pT6Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#生スバル】メル先輩がレイドにくるらしいからヤベえしゅばああああああああああ！！！！！！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=xpUxUx3hlRA
+DURATION:PT2H
+DTSTART:20220817T100000Z
+SUMMARY:🚑大空スバル: 【#生スバル】メル先輩がレイドにくるらしいからヤベえしゅばああああああああああ！！！！！！！【ホロライブ/大空スバル】
+UID:xpUxUx3hlRA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【CAMERAMAN'S STORY】🏆GARUDA BIRDS VICTORIOUS!!!🏆  #BigGarudaEnergy #holoIDCup2022【Pavolia Reine】\nhttps://www.youtube.com/watch?v=gK7XogryREo
@@ -636,7 +650,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】夏祭り会場に何かを設営しに行きたい。【風真いろは/ホロライブ6期生】\nhttps://www.youtube.com/watch?v=KjznHKdZXvs
 DURATION:PT2H
-DTSTART:20220817T090000Z
+DTSTART:20220817T102000Z
 SUMMARY:風真いろは: 【Minecraft】夏祭り会場に何かを設営しに行きたい。【風真いろは/ホロライブ6期生】
 UID:KjznHKdZXvs
 END:VEVENT
@@ -655,11 +669,11 @@ SUMMARY:💫天音かなた: 【RUST】初ギャンブル！！！スクラッ�
 UID:idM8S2lT_k8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Post #holoIDCup2022 Talk while working~~【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=87V_532ekGg
+DESCRIPTION:【パーカー姿で】アルバムのトレーラー同時視聴しよう！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=_iMaAn6K0V0
 DURATION:PT2H
-DTSTART:20220816T144500Z
-SUMMARY:Kaela: 【Minecraft】Post #holoIDCup2022 Talk while working~~【Kaela Kovalskia / hololive ID】
-UID:87V_532ekGg
+DTSTART:20220817T110000Z
+SUMMARY:🐻ときのそら: 【パーカー姿で】アルバムのトレーラー同時視聴しよう！！【#ときのそら生放送】
+UID:_iMaAn6K0V0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】5000スクラップで大成長なのだ！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=irgpeo7DM_w
@@ -674,6 +688,13 @@ DURATION:PT2H
 DTSTART:20220816T143000Z
 SUMMARY:🍕アルランディス: 【Minecraft1.19】天真村にTEMPUSの顔を作ろうの会【アルランディス/ホロスターズ】
 UID:-HnFjcZVBbE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Post #holoIDCup2022 Talk while working~~【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=87V_532ekGg
+DURATION:PT2H
+DTSTART:20220816T144500Z
+SUMMARY:Kaela: 【Minecraft】Post #holoIDCup2022 Talk while working~~【Kaela Kovalskia / hololive ID】
+UID:87V_532ekGg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Apex】激ゆるソロランク→ w/ 律可＆アステル【奏手イヅル】\nhttps://www.youtube.com/watch?v=xGmVlRfG3sY
