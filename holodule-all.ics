@@ -132,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 RUST 】みこ、空を飛びたい。そして挑む。【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=KN6gY-kOKuE
 DURATION:PT2H
-DTSTART:20220818T110000Z
+DTSTART:20220818T100000Z
 SUMMARY:🌸さくらみこ: 【 RUST 】みこ、空を飛びたい。そして挑む。【ホロライブ/さくらみこ】
 UID:KN6gY-kOKuE
 END:VEVENT
@@ -380,6 +380,13 @@ DURATION:PT2H
 DTSTART:20220817T130000Z
 SUMMARY:🐏角巻わため: 【廃村巡り】夏だから一緒に涼しいとこ行こう！！！【角巻わため/ホロライブ４期生】
 UID:qSXgxuv00Ls
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【同時視聴/Amazonプライム】一緒に『ソニック・ザ・ムービー』を見よう！！【WATCHALONG】\nhttps://www.youtube.com/watch?v=w_zewwTG8QM
+DURATION:PT2H
+DTSTART:20220819T110000Z
+SUMMARY:🥐戌神ころね: 【同時視聴/Amazonプライム】一緒に『ソニック・ザ・ムービー』を見よう！！【WATCHALONG】
+UID:w_zewwTG8QM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TEMPUS】4 Guys 1 Raft #2\nhttps://www.youtube.com/watch?v=UZz_XaxRAtQ
@@ -641,11 +648,11 @@ SUMMARY:🐻ときのそら: 【パーカー姿で】アルバムのトレーラ
 UID:_iMaAn6K0V0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[cursed drawing collab] turning holos into........\nhttps://www.youtube.com/watch?v=uhNrvHFmN_E
+DESCRIPTION:【#朝こよ】金曜日のおはこよ～！朝こよの時間だよ～！ #75【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=XecoBUs10mQ
 DURATION:PT2H
-DTSTART:20220819T030000Z
-SUMMARY:Calli: [cursed drawing collab] turning holos into........
-UID:uhNrvHFmN_E
+DTSTART:20220818T220000Z
+SUMMARY:博衣こより: 【#朝こよ】金曜日のおはこよ～！朝こよの時間だよ～！ #75【博衣こより/ホロライブ】
+UID:XecoBUs10mQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】5000スクラップで大成長なのだ！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=irgpeo7DM_w
@@ -653,6 +660,13 @@ DURATION:PT2H
 DTSTART:20220817T100000Z
 SUMMARY:💫天音かなた: 【RUST】5000スクラップで大成長なのだ！！！！【天音かなた/ホロライブ】
 UID:irgpeo7DM_w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[cursed drawing collab] turning holos into........\nhttps://www.youtube.com/watch?v=uhNrvHFmN_E
+DURATION:PT2H
+DTSTART:20220819T030000Z
+SUMMARY:Calli: [cursed drawing collab] turning holos into........
+UID:uhNrvHFmN_E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】楽しいギャンブルの時間！家が風化する前に素材も集めたい！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=6BpFaWl5rz4
