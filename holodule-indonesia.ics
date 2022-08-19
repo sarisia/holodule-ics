@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Raft】we sail hard.【Kaela x Anya / hololiveID】\nhttps://www.youtube.com/watch?v=0LEju5Up0Yc
+DURATION:PT2H
+DTSTART:20220819T130000Z
+SUMMARY:Kaela: 【Raft】we sail hard.【Kaela x Anya / hololiveID】
+UID:0LEju5Up0Yc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Arcade Paradise】THE SOMETIMES LAUNDROMAT SIMULATOR【Pavolia Reine/hololive ID gen2】\nhttps://www.youtube.com/watch?v=s7aPkKwMJKA
 DURATION:PT2H
 DTSTART:20220818T164500Z
@@ -37,13 +44,6 @@ DURATION:PT2H
 DTSTART:20220819T130000Z
 SUMMARY:Anya: 【Raft】This Sea Goes HARD【hololive Indonesia 2nd Generation】
 UID:jBh8jhLyAEg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VA-11 Hall-A】When the Karmotrine is perhaps optional【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=K9JF5PrO1SE
-DURATION:PT2H
-DTSTART:20220819T143000Z
-SUMMARY:Reine: 【VA-11 Hall-A】When the Karmotrine is perhaps optional【Pavolia Reine/hololiveID 2nd gen】
-UID:K9JF5PrO1SE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Stray】C-Cat!?【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=7VcdMs0haVs
