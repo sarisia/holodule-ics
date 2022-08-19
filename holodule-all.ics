@@ -137,13 +137,6 @@ SUMMARY:鷹嶺ルイ: 【怨枉】 ホラゲウィーク2夜目。次は夜の�
 UID:zgIIEmqycRs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RUST】 The Adventures Continue!\nhttps://www.youtube.com/watch?v=PEKNAfQpLhw
-DURATION:PT2H
-DTSTART:20220819T053000Z
-SUMMARY:Mumei: 【RUST】 The Adventures Continue!
-UID:PEKNAfQpLhw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【RUST】攻略かレイド行きたい！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=11i_Ysf0f78
 DURATION:PT2H
 DTSTART:20220818T110000Z
@@ -158,10 +151,10 @@ SUMMARY:Dezmond: [ART STREAM] Their early work is a little too new wave for my t
 UID:HZlRxK4k9e0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【よてい】【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=3GRLAYiyrwI
+DESCRIPTION:【浴衣３Dお披露目】老人会歌枠【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=3GRLAYiyrwI
 DURATION:PT2H
 DTSTART:20220819T110000Z
-SUMMARY:🏴☠宝鐘マリン: 【よてい】【ホロライブ/宝鐘マリン】
+SUMMARY:🏴☠宝鐘マリン: 【浴衣３Dお披露目】老人会歌枠【ホロライブ/宝鐘マリン】
 UID:3GRLAYiyrwI
 END:VEVENT
 BEGIN:VEVENT
@@ -179,10 +172,17 @@ SUMMARY:Kaela: 【Minecraft】part 2 today【Kaela Kovalskia / hololive ID】
 UID:mQv1obgDwro
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【腹筋マリカ】4位以下で順位分腹筋！！！！浴衣お披露目も！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=wsuon9Mwt74
+DESCRIPTION:【Valorant】プラチナにいきたい！【奏手イヅル】\nhttps://www.youtube.com/watch?v=lTRg51jWy8Q
+DURATION:PT2H
+DTSTART:20220819T093000Z
+SUMMARY:🎸奏手イヅル: 【Valorant】プラチナにいきたい！【奏手イヅル】
+UID:lTRg51jWy8Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【腹筋マリカ】8位以下で順位分腹筋！！！！浴衣お披露目も！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=wsuon9Mwt74
 DURATION:PT2H
 DTSTART:20220819T100000Z
-SUMMARY:💫天音かなた: 【腹筋マリカ】4位以下で順位分腹筋！！！！浴衣お披露目も！！！！【天音かなた/ホロライブ】
+SUMMARY:💫天音かなた: 【腹筋マリカ】8位以下で順位分腹筋！！！！浴衣お披露目も！！！！【天音かなた/ホロライブ】
 UID:wsuon9Mwt74
 END:VEVENT
 BEGIN:VEVENT
@@ -361,11 +361,11 @@ SUMMARY:Calli: [ORIGINAL SONG] Let's End the World - Mori Calliope\, Giga & Tedd
 UID:etW-seMBfeE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Stray】C-Cat!?【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=7VcdMs0haVs
+DESCRIPTION:【Slay the Spire】時間がめちゃめちゃ溶ける伝説の神ゲーで遊ぶ！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=8UW0H08MAgQ
 DURATION:PT2H
-DTSTART:20220819T060000Z
-SUMMARY:Anya: 【Stray】C-Cat!?【hololive Indonesia 2nd Generation】
-UID:7VcdMs0haVs
+DTSTART:20220819T133000Z
+SUMMARY:沙花叉クロヱ: 【Slay the Spire】時間がめちゃめちゃ溶ける伝説の神ゲーで遊ぶ！【沙花叉クロヱ/ホロライブ】
+UID:8UW0H08MAgQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】 prime grind time\nhttps://www.youtube.com/watch?v=Flb659QU1no
@@ -373,6 +373,13 @@ DURATION:PT2H
 DTSTART:20220818T020000Z
 SUMMARY:Mumei: 【RUST】 prime grind time
 UID:Flb659QU1no
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Stray】C-Cat!?【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=7VcdMs0haVs
+DURATION:PT2H
+DTSTART:20220819T060000Z
+SUMMARY:Anya: 【Stray】C-Cat!?【hololive Indonesia 2nd Generation】
+UID:7VcdMs0haVs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【空気読み。オンライン】#キラキラコラボ 世界をまたにかける空気の読みあい、始まる【Risu/iofi/荒咬オウガ/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=7p_uecF_3L8
