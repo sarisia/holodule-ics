@@ -4,60 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【RUST】Some Gentle Upkeep\nhttps://www.youtube.com/watch?v=_38YJ9_vz-s
-DURATION:PT2H
-DTSTART:20220820T050000Z
-SUMMARY:Amelia: 【RUST】Some Gentle Upkeep
-UID:_38YJ9_vz-s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪Nintendo Sports≫ I will be victorious.\nhttps://www.youtube.com/watch?v=hAxjVJDpWrI
 DURATION:PT2H
 DTSTART:20220819T020000Z
 SUMMARY:Baelz: ≪Nintendo Sports≫ I will be victorious.
 UID:hAxjVJDpWrI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】 The Adventures Continue!\nhttps://www.youtube.com/watch?v=PEKNAfQpLhw
-DURATION:PT2H
-DTSTART:20220819T053000Z
-SUMMARY:Mumei: 【RUST】 The Adventures Continue!
-UID:PEKNAfQpLhw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪CHAD CAST #08≫  Summertime Happiness\nhttps://www.youtube.com/watch?v=5Hjqw-hVQKM
-DURATION:PT2H
-DTSTART:20220819T130000Z
-SUMMARY:Baelz: ≪CHAD CAST #08≫  Summertime Happiness
-UID:5Hjqw-hVQKM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪CONCERT WATCH-A-LONG≫  THIS IS THE NEW UNDERWORLD ORDER ft. Ina and IRyS\nhttps://www.youtube.com/watch?v=ZHpSPkIs5MA
-DURATION:PT2H
-DTSTART:20220820T030000Z
-SUMMARY:Baelz: ≪CONCERT WATCH-A-LONG≫  THIS IS THE NEW UNDERWORLD ORDER ft. Ina and IRyS
-UID:ZHpSPkIs5MA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[NEW UNDERWORLD ORDER] Wicked - Hoshimachi Suisei feat. Mori Calliope (First Solo Concert)\nhttps://www.youtube.com/watch?v=w-3kPLHNn5I
-DURATION:PT2H
-DTSTART:20220819T100332Z
-SUMMARY:Calli: [NEW UNDERWORLD ORDER] Wicked - Hoshimachi Suisei feat. Mori Calliope (First Solo Concert)
-UID:w-3kPLHNn5I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Kirby's Dream Buffet】CUTEST Kirby Party!!!!!  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=M1KWm0dNJFk
-DURATION:PT2H
-DTSTART:20220818T210000Z
-SUMMARY:Kiara: 【Kirby's Dream Buffet】CUTEST Kirby Party!!!!!  #kfp #キアライブ
-UID:M1KWm0dNJFk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[cursed drawing collab] turning holos into........\nhttps://www.youtube.com/watch?v=uhNrvHFmN_E
-DURATION:PT2H
-DTSTART:20220819T030000Z
-SUMMARY:Calli: [cursed drawing collab] turning holos into........
-UID:uhNrvHFmN_E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Cult of the Lamb】 Not A Cult BTW 【#1】\nhttps://www.youtube.com/watch?v=z5RbPPGnGY8
@@ -102,6 +53,13 @@ SUMMARY:Fauna: 【Kirby's Dream Buffet】 Kirby but it's Fall Guys + Mario Party
 UID:SfB7x-j4siY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【RUST】 The Adventures Continue!\nhttps://www.youtube.com/watch?v=PEKNAfQpLhw
+DURATION:PT2H
+DTSTART:20220819T053000Z
+SUMMARY:Mumei: 【RUST】 The Adventures Continue!
+UID:PEKNAfQpLhw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【TUNIC】ALL THE WAY UNTIL THE END! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=kr_UYg9YkN8
 DURATION:PT2H
 DTSTART:20220820T140000Z
@@ -109,10 +67,45 @@ SUMMARY:Kiara: 【TUNIC】ALL THE WAY UNTIL THE END! #kfp #キアライブ
 UID:kr_UYg9YkN8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:≪CONCERT WATCH-A-LONG≫  THIS IS THE NEW UNDERWORLD ORDER ft. Ina and IRyS\nhttps://www.youtube.com/watch?v=ZHpSPkIs5MA
+DURATION:PT2H
+DTSTART:20220820T030000Z
+SUMMARY:Baelz: ≪CONCERT WATCH-A-LONG≫  THIS IS THE NEW UNDERWORLD ORDER ft. Ina and IRyS
+UID:ZHpSPkIs5MA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:「Cover」The Forgotten Song - Nanashi Mumei\nhttps://www.youtube.com/watch?v=P-bBKa8Bb_Q
 DURATION:PT2H
 DTSTART:20220820T010000Z
 SUMMARY:Mumei: 「Cover」The Forgotten Song - Nanashi Mumei
 UID:P-bBKa8Bb_Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[NEW UNDERWORLD ORDER] Wicked - Hoshimachi Suisei feat. Mori Calliope (First Solo Concert)\nhttps://www.youtube.com/watch?v=w-3kPLHNn5I
+DURATION:PT2H
+DTSTART:20220819T100332Z
+SUMMARY:Calli: [NEW UNDERWORLD ORDER] Wicked - Hoshimachi Suisei feat. Mori Calliope (First Solo Concert)
+UID:w-3kPLHNn5I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Kirby's Dream Buffet】CUTEST Kirby Party!!!!!  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=M1KWm0dNJFk
+DURATION:PT2H
+DTSTART:20220818T210000Z
+SUMMARY:Kiara: 【Kirby's Dream Buffet】CUTEST Kirby Party!!!!!  #kfp #キアライブ
+UID:M1KWm0dNJFk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[cursed drawing collab] turning holos into........\nhttps://www.youtube.com/watch?v=uhNrvHFmN_E
+DURATION:PT2H
+DTSTART:20220819T030000Z
+SUMMARY:Calli: [cursed drawing collab] turning holos into........
+UID:uhNrvHFmN_E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪CHAD CAST #08≫  Summertime Happiness\nhttps://www.youtube.com/watch?v=5Hjqw-hVQKM
+DURATION:PT2H
+DTSTART:20220819T130000Z
+SUMMARY:Baelz: ≪CHAD CAST #08≫  Summertime Happiness
+UID:5Hjqw-hVQKM
 END:VEVENT
 END:VCALENDAR
