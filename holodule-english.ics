@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【RUST】Some Gentle Upkeep\nhttps://www.youtube.com/watch?v=_38YJ9_vz-s
+DURATION:PT2H
+DTSTART:20220820T050000Z
+SUMMARY:Amelia: 【RUST】Some Gentle Upkeep
+UID:_38YJ9_vz-s
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:≪Nintendo Sports≫ I will be victorious.\nhttps://www.youtube.com/watch?v=hAxjVJDpWrI
 DURATION:PT2H
 DTSTART:20220819T020000Z
@@ -16,13 +23,6 @@ DURATION:PT2H
 DTSTART:20220818T210000Z
 SUMMARY:Ina: 【Cult of the Lamb】 Not A Cult BTW 【#1】
 UID:z5RbPPGnGY8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Cover Release】After Party !!\nhttps://www.youtube.com/watch?v=oSVq79ChvqY
-DURATION:PT2H
-DTSTART:20220820T014500Z
-SUMMARY:Mumei: 【Cover Release】After Party !!
-UID:oSVq79ChvqY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Superchat Catchup】Look Ma\, I Can Read\nhttps://www.youtube.com/watch?v=M3hr6K6SGhM
