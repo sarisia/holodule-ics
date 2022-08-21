@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Free Talk】\nhttps://www.youtube.com/watch?v=tg4j4FQmcLI
+DURATION:PT2H
+DTSTART:20220821T140000Z
+SUMMARY:Kobo: 【Free Talk】
+UID:tg4j4FQmcLI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:『Deadspace』Huh? Am I dead?\nhttps://www.youtube.com/watch?v=Na2ZLXmCHcw
 DURATION:PT2H
 DTSTART:20220819T153000Z
@@ -58,13 +65,6 @@ DURATION:PT2H
 DTSTART:20220821T082851Z
 SUMMARY:Ollie: 【DRAWING GIJINKAs】DESIGNING INANIMATE OBJECTS BUT AS FAIRIES【Hololive ID 2nd Generation】
 UID:SSrd-FU5Tgs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【League of Legends: Wild Rift】#21 chill and fun day【ElaOnDuty】\nhttps://www.youtube.com/watch?v=-icYO138I58
-DURATION:PT2H
-DTSTART:20220821T040000Z
-SUMMARY:Kaela: 【League of Legends: Wild Rift】#21 chill and fun day【ElaOnDuty】
-UID:-icYO138I58
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】OH NO MY HOUSE【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=Cw8Mjkp87nY
