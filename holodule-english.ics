@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【RUST】Ima SurviRyS\nhttps://www.youtube.com/watch?v=0wAup2r0s1Q
-DURATION:PT2H
-DTSTART:20220822T010000Z
-SUMMARY:IRyS: 【RUST】Ima SurviRyS
-UID:0wAup2r0s1Q
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【RUST】BIGFISH??\nhttps://www.youtube.com/watch?v=3D96coBQZAo
 DURATION:PT2H
 DTSTART:20220822T010000Z
 SUMMARY:Gura: 【RUST】BIGFISH??
 UID:3D96coBQZAo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RUST】Ima SurviRyS\nhttps://www.youtube.com/watch?v=0wAup2r0s1Q
+DURATION:PT2H
+DTSTART:20220822T010000Z
+SUMMARY:IRyS: 【RUST】Ima SurviRyS
+UID:0wAup2r0s1Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪MR SQUEAKS DEBUT≫ Hello\nhttps://www.youtube.com/watch?v=NBscfZz7Fkg
@@ -51,6 +51,13 @@ DURATION:PT2H
 DTSTART:20220820T220000Z
 SUMMARY:Fauna: 【Spooky's Jump Scare Mansion】 Just 500 more rooms...
 UID:spR0fEp77KM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RUST】First Time with mental support by Ame!?  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=OIylAqPpuOY
+DURATION:PT2H
+DTSTART:20220821T170000Z
+SUMMARY:Kiara: 【RUST】First Time with mental support by Ame!?  #kfp #キアライブ
+UID:OIylAqPpuOY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RESIDENT EVIL HD Remaster】Time for a Jill sandwi-\nhttps://www.youtube.com/watch?v=Upn7jlImUbE
