@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【RUST】Ima SurviRyS\nhttps://www.youtube.com/watch?v=0wAup2r0s1Q
+DURATION:PT2H
+DTSTART:20220822T010000Z
+SUMMARY:IRyS: 【RUST】Ima SurviRyS
+UID:0wAup2r0s1Q
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Spooky's Jump Scare Mansion】 Just 500 more rooms...\nhttps://www.youtube.com/watch?v=spR0fEp77KM
 DURATION:PT2H
 DTSTART:20220820T220000Z

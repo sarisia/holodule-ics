@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【RUST】Ima SurviRyS\nhttps://www.youtube.com/watch?v=0wAup2r0s1Q
+DURATION:PT2H
+DTSTART:20220822T010000Z
+SUMMARY:IRyS: 【RUST】Ima SurviRyS
+UID:0wAup2r0s1Q
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Age of Empires II】STUDY TIME【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=llW1QsB-sOA
 DURATION:PT2H
 DTSTART:20220821T030000Z
