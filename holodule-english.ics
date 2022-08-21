@@ -4,67 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【RUST】Some Gentle Upkeep\nhttps://www.youtube.com/watch?v=_38YJ9_vz-s
-DURATION:PT2H
-DTSTART:20220820T050000Z
-SUMMARY:Amelia: 【RUST】Some Gentle Upkeep
-UID:_38YJ9_vz-s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Cover Release】After Party !!\nhttps://www.youtube.com/watch?v=oSVq79ChvqY
-DURATION:PT2H
-DTSTART:20220820T015000Z
-SUMMARY:Mumei: 【Cover Release】After Party !!
-UID:oSVq79ChvqY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Superchat Catchup】Look Ma\, I Can Read\nhttps://www.youtube.com/watch?v=M3hr6K6SGhM
-DURATION:PT2H
-DTSTART:20220819T211500Z
-SUMMARY:Kronii: 【Superchat Catchup】Look Ma\, I Can Read
-UID:M3hr6K6SGhM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Cult Of The Lamb】You Mean "Phoenix"! Become As God... #kfp #キアライブ\nhttps://www.youtube.com/watch?v=uX_SgwJmZFw
-DURATION:PT2H
-DTSTART:20220819T163000Z
-SUMMARY:Kiara: 【Cult Of The Lamb】You Mean "Phoenix"! Become As God... #kfp #キアライブ
-UID:uX_SgwJmZFw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪URBAN DICTIONARY CHALLENGE≫  the internet is a great place w/ Kronii\, Mumei and Gura\nhttps://www.youtube.com/watch?v=jWvpe0Hs5wI
-DURATION:PT2H
-DTSTART:20220821T030000Z
-SUMMARY:Baelz: ≪URBAN DICTIONARY CHALLENGE≫  the internet is a great place w/ Kronii\, Mumei and Gura
-UID:jWvpe0Hs5wI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪MR SQUEAKS DEBUT≫ Hello\nhttps://www.youtube.com/watch?v=NBscfZz7Fkg
-DURATION:PT2H
-DTSTART:20220822T000000Z
-SUMMARY:Baelz: ≪MR SQUEAKS DEBUT≫ Hello
-UID:NBscfZz7Fkg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【TUNIC】the spooky episode!  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=kr_UYg9YkN8
-DURATION:PT2H
-DTSTART:20220820T140000Z
-SUMMARY:Kiara: 【TUNIC】the spooky episode!  #kfp #キアライブ
-UID:kr_UYg9YkN8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Spooky's Jump Scare Mansion】 Just 500 more rooms...\nhttps://www.youtube.com/watch?v=spR0fEp77KM
 DURATION:PT2H
 DTSTART:20220820T220000Z
 SUMMARY:Fauna: 【Spooky's Jump Scare Mansion】 Just 500 more rooms...
 UID:spR0fEp77KM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪CONCERT WATCH-A-LONG≫  THIS IS THE NEW UNDERWORLD ORDER ft. Ina and IRyS\nhttps://www.youtube.com/watch?v=ZHpSPkIs5MA
-DURATION:PT2H
-DTSTART:20220820T030000Z
-SUMMARY:Baelz: ≪CONCERT WATCH-A-LONG≫  THIS IS THE NEW UNDERWORLD ORDER ft. Ina and IRyS
-UID:ZHpSPkIs5MA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】First Time with mental support by Ame!?  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=OIylAqPpuOY
@@ -81,17 +25,24 @@ SUMMARY:IRyS: 【RESIDENT EVIL HD Remaster】Time for a Jill sandwi-
 UID:Upn7jlImUbE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:≪MR SQUEAKS DEBUT≫ Hello\nhttps://www.youtube.com/watch?v=NBscfZz7Fkg
+DURATION:PT2H
+DTSTART:20220822T000000Z
+SUMMARY:Baelz: ≪MR SQUEAKS DEBUT≫ Hello
+UID:NBscfZz7Fkg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪URBAN DICTIONARY CHALLENGE≫  the internet is a great place w/ Kronii\, Mumei and Gura\nhttps://www.youtube.com/watch?v=jWvpe0Hs5wI
+DURATION:PT2H
+DTSTART:20220821T030000Z
+SUMMARY:Baelz: ≪URBAN DICTIONARY CHALLENGE≫  the internet is a great place w/ Kronii\, Mumei and Gura
+UID:jWvpe0Hs5wI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【RUST】I Seek The Thrill\nhttps://www.youtube.com/watch?v=djLpwbIXGuU
 DURATION:PT2H
 DTSTART:20220822T020000Z
 SUMMARY:Mumei: 【RUST】I Seek The Thrill
 UID:djLpwbIXGuU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:「Cover」The Forgotten Song - Nanashi Mumei\nhttps://www.youtube.com/watch?v=P-bBKa8Bb_Q
-DURATION:PT2H
-DTSTART:20220820T010000Z
-SUMMARY:Mumei: 「Cover」The Forgotten Song - Nanashi Mumei
-UID:P-bBKa8Bb_Q
 END:VEVENT
 END:VCALENDAR
