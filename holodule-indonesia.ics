@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Rust】#6 i lost all things but whatever just grind it again【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=-v0_l2_4deY
+DURATION:PT2H
+DTSTART:20220823T143500Z
+SUMMARY:Kaela: 【Rust】#6 i lost all things but whatever just grind it again【Kaela Kovalskia / hololiveID】
+UID:-v0_l2_4deY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【RUST】Teaching Baby Birb The Way of Survival【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=IOn4z1Ux79E
 DURATION:PT2H
 DTSTART:20220823T140000Z
@@ -67,9 +74,16 @@ SUMMARY:🔮Moona: 【RUST】i think i want to be a farmer.【GeeMoon】
 UID:bb1KQuaF9cM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【CULT OF THE LAMB】WORSHIP THY SUPER KAWAII ZOMBIE MAFIA PRINCESS\, MORTALS【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=2j3haEty6SI
+DURATION:PT2H
+DTSTART:20220824T030000Z
+SUMMARY:Ollie: 【CULT OF THE LAMB】WORSHIP THY SUPER KAWAII ZOMBIE MAFIA PRINCESS\, MORTALS【Hololive ID 2nd Gen】
+UID:2j3haEty6SI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【RUST】Peafowl Joins the HoloRUST Experience!【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=24RkdT3OMAE
 DURATION:PT2H
-DTSTART:20220823T150000Z
+DTSTART:20220824T140000Z
 SUMMARY:Reine: 【RUST】Peafowl Joins the HoloRUST Experience!【Pavolia Reine/hololiveID 2nd gen】
 UID:24RkdT3OMAE
 END:VEVENT
