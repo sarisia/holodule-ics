@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【RUST】I Am FINALLY Looting Boxes On Stream(Not Clickbait!)【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=IOn4z1Ux79E
+DESCRIPTION:【 Stray】Nya?? Nya nya? NYA! 今日ぬこになるにゃ～！【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=iFDChlKn5Xc
 DURATION:PT2H
-DTSTART:20220823T140000Z
-SUMMARY:Anya: 【RUST】I Am FINALLY Looting Boxes On Stream(Not Clickbait!)【hololive Indonesia 2nd Generation】
-UID:IOn4z1Ux79E
+DTSTART:20220823T130000Z
+SUMMARY:🎨Iofi: 【 Stray】Nya?? Nya nya? NYA! 今日ぬこになるにゃ～！【 iofi / ホロライブ 】
+UID:iFDChlKn5Xc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】BUILDING FOR SUMMER FESTIVAL!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=LQsYUU0YSYc
@@ -16,20 +16,6 @@ DURATION:PT2H
 DTSTART:20220823T082934Z
 SUMMARY:Ollie: 【MINECRAFT】BUILDING FOR SUMMER FESTIVAL!!【Hololive Indonesia 2nd Gen】
 UID:LQsYUU0YSYc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:『RUST』Horse doko?\nhttps://www.youtube.com/watch?v=kvBeQf4i8Y8
-DURATION:PT2H
-DTSTART:20220823T070000Z
-SUMMARY:Zeta: 『RUST』Horse doko?
-UID:kvBeQf4i8Y8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Stray】Nya?? Nya nya? NYA! 今日ぬこになるにゃ～！【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=iFDChlKn5Xc
-DURATION:PT2H
-DTSTART:20220823T130000Z
-SUMMARY:🎨Iofi: 【 Stray】Nya?? Nya nya? NYA! 今日ぬこになるにゃ～！【 iofi / ホロライブ 】
-UID:iFDChlKn5Xc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】BABYS FIRST RUST BUT IM MAKING A NEW WAITING ROOM【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=Lsdt95qrRZM
@@ -46,13 +32,6 @@ SUMMARY:Ollie: 【CULT OF THE LAMB】WORSHIP THY SUPER KAWAII ZOMBIE MAFIA PRINC
 UID:2j3haEty6SI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Rust】#6 i lost all things but whatever just grind it again【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=-v0_l2_4deY
-DURATION:PT2H
-DTSTART:20220823T143500Z
-SUMMARY:Kaela: 【Rust】#6 i lost all things but whatever just grind it again【Kaela Kovalskia / hololiveID】
-UID:-v0_l2_4deY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Bukan Mading Terakhir Babak 2 - hololive ID [Audio Drama]\nhttps://www.youtube.com/watch?v=fCNm6Zfly2Y
 DURATION:PT2H
 DTSTART:20220824T090000Z
@@ -65,5 +44,12 @@ DURATION:PT2H
 DTSTART:20220823T013500Z
 SUMMARY:Kaela: 【Raft】#12 Ice Temperance Island 🧊❄️【Kaela Kovalskia / hololiveID】
 UID:0e5R8GuaEsc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:『RUST』Horse doko?\nhttps://www.youtube.com/watch?v=kvBeQf4i8Y8
+DURATION:PT2H
+DTSTART:20220823T070000Z
+SUMMARY:Zeta: 『RUST』Horse doko?
+UID:kvBeQf4i8Y8
 END:VEVENT
 END:VCALENDAR
