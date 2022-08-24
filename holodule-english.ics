@@ -4,48 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【RUST】 FEESH\nhttps://www.youtube.com/watch?v=W5Pu-aM0Uto
-DURATION:PT2H
-DTSTART:20220822T210000Z
-SUMMARY:Ina: 【RUST】 FEESH
-UID:W5Pu-aM0Uto
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#kroniiversary】Love Forever 💙 (Debut React & Reading Messages From You!)\nhttps://www.youtube.com/watch?v=FmAswbRDM6M
-DURATION:PT2H
-DTSTART:20220824T020000Z
-SUMMARY:Kronii: 【#kroniiversary】Love Forever 💙 (Debut React & Reading Messages From You!)
-UID:FmAswbRDM6M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[RUST] Grim Reaper JOINS THE FRAY.\nhttps://www.youtube.com/watch?v=YhVS7XtKqmw
-DURATION:PT2H
-DTSTART:20220823T031011Z
-SUMMARY:Calli: [RUST] Grim Reaper JOINS THE FRAY.
-UID:YhVS7XtKqmw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MV】 Rise 【hololive English -Council- Original Song】\nhttps://www.youtube.com/watch?v=jHibTDJlTJw
-DURATION:PT2H
-DTSTART:20220823T030000Z
-SUMMARY:ENholo: 【MV】 Rise 【hololive English -Council- Original Song】
-UID:jHibTDJlTJw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:You Can See the Universe in Calliope's Eyes #shorts\nhttps://www.youtube.com/watch?v=FeW-3V2TD9g
-DURATION:PT2H
-DTSTART:20220823T040005Z
-SUMMARY:ENholo: You Can See the Universe in Calliope's Eyes #shorts
-UID:FeW-3V2TD9g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪1 YEAR ANNIVERSARY≫ One year later... #councilTHEfirst\nhttps://www.youtube.com/watch?v=-3ZfeLpr-v8
-DURATION:PT2H
-DTSTART:20220823T011000Z
-SUMMARY:Baelz: ≪1 YEAR ANNIVERSARY≫ One year later... #councilTHEfirst
-UID:-3ZfeLpr-v8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Cult Of The Lamb】🙏Let Me Guide You To A Better Life🙏 #kfp #キアライブ\nhttps://www.youtube.com/watch?v=L21t00ZJxvM
 DURATION:PT2H
 DTSTART:20220824T153000Z
@@ -58,6 +16,13 @@ DURATION:PT2H
 DTSTART:20220825T020000Z
 SUMMARY:Mumei: 【1 YEAR ANNIVERSARY】 Nanashi Mumei\, the Debut (and more!) #itsMEIanniversary
 UID:yJgDuD4gxG0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#kroniiversary】Love Forever 💙 (Debut React & Reading Messages From You!)\nhttps://www.youtube.com/watch?v=FmAswbRDM6M
+DURATION:PT2H
+DTSTART:20220824T020000Z
+SUMMARY:Kronii: 【#kroniiversary】Love Forever 💙 (Debut React & Reading Messages From You!)
+UID:FmAswbRDM6M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪MINECRAFT ENDURANCE≫ The Ultimate Test\nhttps://www.youtube.com/watch?v=48KD6aOF_ds
@@ -76,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[UNARCHIVED KARAOKE] Japanese Karaoke! 日本語で歌ってみる！\nhttps://www.youtube.com/watch?v=haPWpty413c
 DURATION:PT2H
-DTSTART:20220824T140000Z
+DTSTART:20220825T140000Z
 SUMMARY:Calli: [UNARCHIVED KARAOKE] Japanese Karaoke! 日本語で歌ってみる！
 UID:haPWpty413c
 END:VEVENT
