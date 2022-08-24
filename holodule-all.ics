@@ -102,18 +102,18 @@ SUMMARY:鷹嶺ルイ: 【Japanese Lesson】ルイ先生の日本語講座 ～生
 UID:SEfwtPk1fU0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ポルカの伝説】おつまみドラフトが帰ってきた！！\nhttps://www.youtube.com/watch?v=T3zeVhhZ3PM
-DURATION:PT2H
-DTSTART:20220825T100000Z
-SUMMARY:尾丸ポルカ: 【ポルカの伝説】おつまみドラフトが帰ってきた！！
-UID:T3zeVhhZ3PM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【SHOTGUN KING: THE FINAL CHECKMATE】TWO OF MY FAVORITE THINGS COMBINED【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=i4mg5yU9Iu8
 DURATION:PT2H
 DTSTART:20220825T030000Z
 SUMMARY:Ollie: 【SHOTGUN KING: THE FINAL CHECKMATE】TWO OF MY FAVORITE THINGS COMBINED【Hololive ID 2nd Gen】
 UID:i4mg5yU9Iu8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポルカの伝説】おつまみドラフトが帰ってきた！！\nhttps://www.youtube.com/watch?v=T3zeVhhZ3PM
+DURATION:PT2H
+DTSTART:20220825T100000Z
+SUMMARY:尾丸ポルカ: 【ポルカの伝説】おつまみドラフトが帰ってきた！！
+UID:T3zeVhhZ3PM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】ごめん、俺アイドル二人に囲まれながらAPEXするね♪【JP Stream】\nhttps://www.youtube.com/watch?v=64xaQs7OmIo
@@ -165,18 +165,18 @@ SUMMARY:Dezmond: 【SIMS 4】THE TEMPUS GAMER HOUSE 🏠 w/ @Noir Vesper Ch. HOL
 UID:7jz4pXq9jqE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【真夏ロケ】究極の〇〇を４人でDIY…🔥【#ジャンプロ】\nhttps://www.youtube.com/watch?v=i-V5jQWGjtk
-DURATION:PT2H
-DTSTART:20220824T110000Z
-SUMMARY:ホロスターズ: 【真夏ロケ】究極の〇〇を４人でDIY…🔥【#ジャンプロ】
-UID:i-V5jQWGjtk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】grinding some Zombies in JP server【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=RGTQrVIEjHk
 DURATION:PT2H
 DTSTART:20220824T020000Z
 SUMMARY:Kaela: 【Minecraft】grinding some Zombies in JP server【Kaela Kovalskia / hololive ID】
 UID:RGTQrVIEjHk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【真夏ロケ】究極の〇〇を４人でDIY…🔥【#ジャンプロ】\nhttps://www.youtube.com/watch?v=i-V5jQWGjtk
+DURATION:PT2H
+DTSTART:20220824T110000Z
+SUMMARY:ホロスターズ: 【真夏ロケ】究極の〇〇を４人でDIY…🔥【#ジャンプロ】
+UID:i-V5jQWGjtk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ファイアーエムブレム 蒼炎の軌跡】アイクの過去が見えてきて驚き #09【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=iSoYr7FcTTM
@@ -200,6 +200,13 @@ SUMMARY:ホロライブ: 【ホロライブ・サマー2022 #6】私たちの夏
 UID:4bDwk9fWDcE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 Faster Than Light 】 The stream where I embarrass myself\nhttps://www.youtube.com/watch?v=UQxEJmESXqY
+DURATION:PT2H
+DTSTART:20220824T170000Z
+SUMMARY:Vesper: 【 Faster Than Light 】 The stream where I embarrass myself
+UID:UQxEJmESXqY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:リモコン / 常闇トワ×桃鈴ねね(cover)\nhttps://www.youtube.com/watch?v=SVVyG36QwqI
 DURATION:PT2H
 DTSTART:20220825T111500Z
@@ -214,25 +221,18 @@ SUMMARY:博衣こより: 【麻雀】視聴者参加型！東風戦だよ～！�
 UID:SeuoSfmeSv8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[UNARCHIVED KARAOKE] Japanese Karaoke! 日本語で歌ってみる！\nhttps://www.youtube.com/watch?v=haPWpty413c
-DURATION:PT2H
-DTSTART:20220825T140000Z
-SUMMARY:Calli: [UNARCHIVED KARAOKE] Japanese Karaoke! 日本語で歌ってみる！
-UID:haPWpty413c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Faster Than Light 】 The stream where I embarrass myself\nhttps://www.youtube.com/watch?v=UQxEJmESXqY
-DURATION:PT2H
-DTSTART:20220824T170000Z
-SUMMARY:Vesper: 【 Faster Than Light 】 The stream where I embarrass myself
-UID:UQxEJmESXqY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:『APEX』アクセルといづちゃまとペペペ /  Astel Izuru Axel\nhttps://www.youtube.com/watch?v=fDP40BsQIes
 DURATION:PT2H
 DTSTART:20220824T130000Z
 SUMMARY:🎭アステル・レダ: 『APEX』アクセルといづちゃまとペペペ /  Astel Izuru Axel
 UID:fDP40BsQIes
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[UNARCHIVED KARAOKE] Japanese Karaoke! 日本語で歌ってみる！\nhttps://www.youtube.com/watch?v=haPWpty413c
+DURATION:PT2H
+DTSTART:20220825T140000Z
+SUMMARY:Calli: [UNARCHIVED KARAOKE] Japanese Karaoke! 日本語で歌ってみる！
+UID:haPWpty413c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝雑談】寝起きですがいざおはよう【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=9454OKIHMc4
@@ -298,13 +298,6 @@ SUMMARY:Mumei: 【1 YEAR ANNIVERSARY】 Nanashi Mumei\, the Debut (and more!) #i
 UID:yJgDuD4gxG0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Cult of the Lamb】 Peekaaboo 【#2】\nhttps://www.youtube.com/watch?v=TEMrVQ8lAh0
-DURATION:PT2H
-DTSTART:20220823T210000Z
-SUMMARY:Ina: 【Cult of the Lamb】 Peekaaboo 【#2】
-UID:TEMrVQ8lAh0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Sign収録】ポラリスソラリスMusic Video【ときのそらオリジナル楽曲】\nhttps://www.youtube.com/watch?v=xMfI4Opu5Qo
 DURATION:PT2H
 DTSTART:20220823T150000Z
@@ -317,6 +310,13 @@ DURATION:PT2H
 DTSTART:20220825T030000Z
 SUMMARY:Syrios: 【TEMPUS】4 Guys 1 Raft #3
 UID:T-mcvaeFb0g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Cult of the Lamb】 Peekaaboo 【#2】\nhttps://www.youtube.com/watch?v=TEMrVQ8lAh0
+DURATION:PT2H
+DTSTART:20220823T210000Z
+SUMMARY:Ina: 【Cult of the Lamb】 Peekaaboo 【#2】
+UID:TEMrVQ8lAh0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Just Chatting】 POV: you called me short\nhttps://www.youtube.com/watch?v=7L10Z2-1F48
@@ -333,18 +333,18 @@ SUMMARY:Dezmond: [Art Stream] DRAWING WITH A MOUSE CUZ TABLET BROKE.🎨
 UID:ftOeLWeTBOg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【カービィのグルメフェス】めちゃめちゃ食う男達【影山シエン/アルランディス/花咲みやび/荒咬オウガ】\nhttps://www.youtube.com/watch?v=0c0wVlBiwYQ
-DURATION:PT2H
-DTSTART:20220824T130000Z
-SUMMARY:影山シエン: 【カービィのグルメフェス】めちゃめちゃ食う男達【影山シエン/アルランディス/花咲みやび/荒咬オウガ】
-UID:0c0wVlBiwYQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪MINECRAFT ENDURANCE≫ The Ultimate Test\nhttps://www.youtube.com/watch?v=48KD6aOF_ds
 DURATION:PT2H
 DTSTART:20220824T050000Z
 SUMMARY:Baelz: ≪MINECRAFT ENDURANCE≫ The Ultimate Test
 UID:48KD6aOF_ds
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【カービィのグルメフェス】めちゃめちゃ食う男達【影山シエン/アルランディス/花咲みやび/荒咬オウガ】\nhttps://www.youtube.com/watch?v=0c0wVlBiwYQ
+DURATION:PT2H
+DTSTART:20220824T130000Z
+SUMMARY:影山シエン: 【カービィのグルメフェス】めちゃめちゃ食う男達【影山シエン/アルランディス/花咲みやび/荒咬オウガ】
+UID:0c0wVlBiwYQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Bukan Mading Terakhir Babak 2 - hololive ID [Audio Drama]\nhttps://www.youtube.com/watch?v=fCNm6Zfly2Y
@@ -375,18 +375,18 @@ SUMMARY:Reine: 【RUST】Let's Learn as Much as We Can【Pavolia Reine/hololiveI
 UID:lItKDZgA5jQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ホロライブ・サマー2022 MV第3弾】『Sparklers』ショートMV【ホロライブ】\nhttps://www.youtube.com/watch?v=6Cf9PHFJ094
-DURATION:PT2H
-DTSTART:20220825T120000Z
-SUMMARY:ホロライブ: 【ホロライブ・サマー2022 MV第3弾】『Sparklers』ショートMV【ホロライブ】
-UID:6Cf9PHFJ094
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【グロホラー注意】肉塊蠢く狂気の実験空間…Oxide Room 104【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=kbFVtxNFwao
 DURATION:PT2H
 DTSTART:20220824T110000Z
 SUMMARY:🌽白上フブキ: 【グロホラー注意】肉塊蠢く狂気の実験空間…Oxide Room 104【ホロライブ/白上フブキ】
 UID:kbFVtxNFwao
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ホロライブ・サマー2022 MV第3弾】『Sparklers』ショートMV【ホロライブ】\nhttps://www.youtube.com/watch?v=6Cf9PHFJ094
+DURATION:PT2H
+DTSTART:20220825T120000Z
+SUMMARY:ホロライブ: 【ホロライブ・サマー2022 MV第3弾】『Sparklers』ショートMV【ホロライブ】
+UID:6Cf9PHFJ094
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:『APEX』ホロスターズENとゲリラAPEX！？！？ /  Astel Leda Regis Altare Noir Vesper\nhttps://www.youtube.com/watch?v=gcW2zjqqQPc
@@ -485,13 +485,6 @@ DURATION:PT2H
 DTSTART:20220824T140000Z
 SUMMARY:🌽白上フブキ: 【カービィのグルメフェス】カービィになってすべてを食い散らかす！【#バカタレサーカス】
 UID:hqBe6wAC1cw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【NieR:Automata 初見 #2】これは呪いか。それとも罰か。 / 水無世燐央　※ネタバレあり【UPROAR!!/アップロー】\nhttps://www.youtube.com/watch?v=eniXorAVjsI
-DURATION:PT2H
-DTSTART:20220824T150000Z
-SUMMARY:水無世燐央: 【NieR:Automata 初見 #2】これは呪いか。それとも罰か。 / 水無世燐央　※ネタバレあり【UPROAR!!/アップロー】
-UID:eniXorAVjsI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【CULT OF THE LAMB】WORSHIP THY SUPER KAWAII ZOMBIE MAFIA PRINCESS\, MORTALS【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=2j3haEty6SI
