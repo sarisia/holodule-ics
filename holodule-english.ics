@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Powerwash Simulator】ShowINA You A Good TIME With @Ninomae Ina'nis Ch. hololive-EN\nhttps://www.youtube.com/watch?v=AJJF7MVILlI
+DURATION:PT2H
+DTSTART:20220824T220000Z
+SUMMARY:Kronii: 【Powerwash Simulator】ShowINA You A Good TIME With @Ninomae Ina'nis Ch. hololive-EN
+UID:AJJF7MVILlI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【1 YEAR ANNIVERSARY】 UNARCHIVED KARAOKE #faunaversary\nhttps://www.youtube.com/watch?v=uweyV92_owo
 DURATION:PT2H
 DTSTART:20220826T050000Z
 SUMMARY:Fauna: 【1 YEAR ANNIVERSARY】 UNARCHIVED KARAOKE #faunaversary
 UID:uweyV92_owo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#kroniiversary】Love Forever 💙 (Debut React & Reading Messages From You!)\nhttps://www.youtube.com/watch?v=FmAswbRDM6M
-DURATION:PT2H
-DTSTART:20220824T020000Z
-SUMMARY:Kronii: 【#kroniiversary】Love Forever 💙 (Debut React & Reading Messages From You!)
-UID:FmAswbRDM6M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】Rockets? ROCKETS\nhttps://www.youtube.com/watch?v=pi1a-D6ADoM
@@ -37,13 +37,6 @@ DURATION:PT2H
 DTSTART:20220824T153000Z
 SUMMARY:Kiara: 【Cult Of The Lamb】🙏Let Me Guide You To A Better Life🙏 #kfp #キアライブ
 UID:L21t00ZJxvM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Drawing】OOOOOOOOOHAYOOOOOOOOO\nhttps://www.youtube.com/watch?v=e9Qez1TJYao
-DURATION:PT2H
-DTSTART:20220824T221700Z
-SUMMARY:Amelia: 【Drawing】OOOOOOOOOHAYOOOOOOOOO
-UID:e9Qez1TJYao
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Elden Ring】RESPECC M'LADY(spoilers)\nhttps://www.youtube.com/watch?v=BWzBELIIiu0
@@ -74,31 +67,10 @@ SUMMARY:Fauna: 【Nintendo Switch Sports】 IRyS VS FAUNA SWITCH SPORTS BATTLE O
 UID:5-9YHKhP2lY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Powerwash Simulator】ShowINA You A Good TIME With @Ninomae Ina'nis Ch. hololive-EN\nhttps://www.youtube.com/watch?v=AJJF7MVILlI
+DESCRIPTION:【Drawing】OOOOOOOOOHAYOOOOOOOOO\nhttps://www.youtube.com/watch?v=e9Qez1TJYao
 DURATION:PT2H
-DTSTART:20220824T220000Z
-SUMMARY:Kronii: 【Powerwash Simulator】ShowINA You A Good TIME With @Ninomae Ina'nis Ch. hololive-EN
-UID:AJJF7MVILlI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪MINECRAFT ENDURANCE≫ The Ultimate Test\nhttps://www.youtube.com/watch?v=48KD6aOF_ds
-DURATION:PT2H
-DTSTART:20220824T050000Z
-SUMMARY:Baelz: ≪MINECRAFT ENDURANCE≫ The Ultimate Test
-UID:48KD6aOF_ds
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Cult of the Lamb】 Peekaaboo 【#2】\nhttps://www.youtube.com/watch?v=TEMrVQ8lAh0
-DURATION:PT2H
-DTSTART:20220823T210000Z
-SUMMARY:Ina: 【Cult of the Lamb】 Peekaaboo 【#2】
-UID:TEMrVQ8lAh0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Chatting & Superchats】Chill Chat!\nhttps://www.youtube.com/watch?v=jgw0uXluROA
-DURATION:PT2H
-DTSTART:20220824T050000Z
-SUMMARY:IRyS: 【Chatting & Superchats】Chill Chat!
-UID:jgw0uXluROA
+DTSTART:20220824T221700Z
+SUMMARY:Amelia: 【Drawing】OOOOOOOOOHAYOOOOOOOOO
+UID:e9Qez1TJYao
 END:VEVENT
 END:VCALENDAR
