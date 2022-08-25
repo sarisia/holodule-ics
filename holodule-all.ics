@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Powerwash Simulator】ShowINA You A Good TIME With @Ninomae Ina'nis Ch. hololive-EN\nhttps://www.youtube.com/watch?v=AJJF7MVILlI
-DURATION:PT2H
-DTSTART:20220824T220000Z
-SUMMARY:Kronii: 【Powerwash Simulator】ShowINA You A Good TIME With @Ninomae Ina'nis Ch. hololive-EN
-UID:AJJF7MVILlI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Apex Legends】i smell weakness w/ @Noir Vesper Ch. HOLOSTARS-EN @astel ch.アステル ​\nhttps://www.youtube.com/watch?v=DRoMpcb4txc
 DURATION:PT2H
 DTSTART:20220823T230000Z
@@ -23,13 +16,6 @@ DURATION:PT2H
 DTSTART:20220824T110000Z
 SUMMARY:☄星街すいせい: 【Gartic Phone】スターアニマル復活‼今日は獣になる【ホロライブ / 星街すいせい】
 UID:4_G7UuchCD8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#シャドウギア周年記念】我らシャドウギア、周年で互いを祝う者達也【影山シエン/律可】\nhttps://www.youtube.com/watch?v=HLywMgpQjBk
-DURATION:PT2H
-DTSTART:20220825T080000Z
-SUMMARY:影山シエン: 【#シャドウギア周年記念】我らシャドウギア、周年で互いを祝う者達也【影山シエン/律可】
-UID:HLywMgpQjBk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【２】I'm on Observation Duty【戌神ころね/ホロライブ】※グルグルしたので枠とり直し\nhttps://www.youtube.com/watch?v=6lo8zTQ4xTs
@@ -172,6 +158,13 @@ SUMMARY:Syrios: 【APEX】ごめん、俺アイドル二人に囲まれながら
 UID:64xaQs7OmIo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Overcooked! 2】cooking and gaming【Kaela x Kobo / hololiveID】\nhttps://www.youtube.com/watch?v=QlOqYGYDb8g
+DURATION:PT2H
+DTSTART:20220825T071500Z
+SUMMARY:Kaela: 【Overcooked! 2】cooking and gaming【Kaela x Kobo / hololiveID】
+UID:QlOqYGYDb8g
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】コラボの余韻が抜けない幽霊 / 水無世燐央【UPROAR!!/アップロー】\nhttps://www.youtube.com/watch?v=0VVBBC-tkik
 DURATION:PT2H
 DTSTART:20220823T170000Z
@@ -214,10 +207,10 @@ SUMMARY:Dezmond: 【SIMS 4】THE TEMPUS GAMER HOUSE 🏠 w/ @Noir Vesper Ch. HOL
 UID:7jz4pXq9jqE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#カプとれ】トワ様を手に入れる【ラプラス・ダークネス / 常闇トワ / ホロライブ】\nhttps://www.youtube.com/watch?v=hvwTALDWHio
+DESCRIPTION:【#カプとれ】トワ様を手に入れる💜【ラプラス・ダークネス / 常闇トワ / ホロライブ】\nhttps://www.youtube.com/watch?v=hvwTALDWHio
 DURATION:PT2H
 DTSTART:20220826T110000Z
-SUMMARY:ラプラス: 【#カプとれ】トワ様を手に入れる【ラプラス・ダークネス / 常闇トワ / ホロライブ】
+SUMMARY:ラプラス: 【#カプとれ】トワ様を手に入れる💜【ラプラス・ダークネス / 常闇トワ / ホロライブ】
 UID:hvwTALDWHio
 END:VEVENT
 BEGIN:VEVENT
@@ -240,6 +233,13 @@ DURATION:PT2H
 DTSTART:20220824T020000Z
 SUMMARY:Kaela: 【Minecraft】grinding some Zombies in JP server【Kaela Kovalskia / hololive ID】
 UID:RGTQrVIEjHk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【カービィのグルメフェス】今日もお腹いっぱい食べるぞ!!【花咲みやび/アルランディス/岸堂天真/夜十神封魔/ホロスターズ】\nhttps://www.youtube.com/watch?v=NTzr4aa0O3M
+DURATION:PT2H
+DTSTART:20220825T100000Z
+SUMMARY:🌺花咲みやび: 【カービィのグルメフェス】今日もお腹いっぱい食べるぞ!!【花咲みやび/アルランディス/岸堂天真/夜十神封魔/ホロスターズ】
+UID:NTzr4aa0O3M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ファイアーエムブレム 蒼炎の軌跡】アイクの過去が見えてきて驚き #09【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=iSoYr7FcTTM
@@ -697,18 +697,18 @@ SUMMARY:Amelia: 【YOI】Chatting & Nature Docs~
 UID:vFEp0oO6uQM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 ダイエット 】昼食に！色んなゲテモノ食べ比べ！【2日目】\nhttps://www.youtube.com/watch?v=u2hHMYql6Bs
-DURATION:PT2H
-DTSTART:20220825T080000Z
-SUMMARY:❤赤井はあと: 【 ダイエット 】昼食に！色んなゲテモノ食べ比べ！【2日目】
-UID:u2hHMYql6Bs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【NieR:Automata 初見 #2】これは呪いか。それとも罰か。 / 水無世燐央　※ネタバレあり【UPROAR!!/アップロー】\nhttps://www.youtube.com/watch?v=eniXorAVjsI
 DURATION:PT2H
 DTSTART:20220824T150000Z
 SUMMARY:水無世燐央: 【NieR:Automata 初見 #2】これは呪いか。それとも罰か。 / 水無世燐央　※ネタバレあり【UPROAR!!/アップロー】
 UID:eniXorAVjsI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CULT OF THE LAMB】WORSHIP THY SUPER KAWAII ZOMBIE MAFIA PRINCESS\, MORTALS【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=2j3haEty6SI
+DURATION:PT2H
+DTSTART:20220824T030031Z
+SUMMARY:Ollie: 【CULT OF THE LAMB】WORSHIP THY SUPER KAWAII ZOMBIE MAFIA PRINCESS\, MORTALS【Hololive ID 2nd Gen】
+UID:2j3haEty6SI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#10【 Minecraft Hardcore 】ハードコアでみこのなつやすみ～おわらない全ロスとの戦い～【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=XFapswEEVpE
@@ -718,11 +718,11 @@ SUMMARY:🌸さくらみこ: #10【 Minecraft Hardcore 】ハードコアでみ�
 UID:XFapswEEVpE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【CULT OF THE LAMB】WORSHIP THY SUPER KAWAII ZOMBIE MAFIA PRINCESS\, MORTALS【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=2j3haEty6SI
+DESCRIPTION:【Powerwash Simulator】ShowINA You A Good TIME With @Ninomae Ina'nis Ch. hololive-EN\nhttps://www.youtube.com/watch?v=AJJF7MVILlI
 DURATION:PT2H
-DTSTART:20220824T030031Z
-SUMMARY:Ollie: 【CULT OF THE LAMB】WORSHIP THY SUPER KAWAII ZOMBIE MAFIA PRINCESS\, MORTALS【Hololive ID 2nd Gen】
-UID:2j3haEty6SI
+DTSTART:20220824T220000Z
+SUMMARY:Kronii: 【Powerwash Simulator】ShowINA You A Good TIME With @Ninomae Ina'nis Ch. hololive-EN
+UID:AJJF7MVILlI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】お化け屋敷がんばる、にぇ🌸【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=Qkru7cjeIyY
