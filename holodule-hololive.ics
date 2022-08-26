@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】水着&浴衣お披露目！AZKi SUMMER Singing Stream【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=93GLEm5QC8Y
-DURATION:PT2H
-DTSTART:20220825T130000Z
-SUMMARY:⚒AZKi: 【歌枠】水着&浴衣お披露目！AZKi SUMMER Singing Stream【ホロライブ / AZKi】
-UID:93GLEm5QC8Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#トワとムメイの仲良くなりたい！】第二回：FPSで使える言葉を覚えよう！/Let's learn some FPS vocabulary!【常闇トワ・七詩ムメイ】\nhttps://www.youtube.com/watch?v=HyQIN32Gpos
 DURATION:PT2H
 DTSTART:20220826T020000Z
@@ -18,18 +11,18 @@ SUMMARY:👾常闇トワ: 【#トワとムメイの仲良くなりたい！】�
 UID:HyQIN32Gpos
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Rust】RUST上陸4日目⚡悪魔はカードキーがほしい【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=jR2hW_MnW6w
-DURATION:PT2H
-DTSTART:20220824T231500Z
-SUMMARY:💋癒月ちょこ: 【Rust】RUST上陸4日目⚡悪魔はカードキーがほしい【ホロライブ/癒月ちょこ】
-UID:jR2hW_MnW6w
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEXガチャ】クラフトメタルしかでない・・・【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=I9iaFc6aIWw
 DURATION:PT2H
 DTSTART:20220826T100000Z
 SUMMARY:🏮夏色まつり: 【APEXガチャ】クラフトメタルしかでない・・・【ホロライブ/夏色まつり】
 UID:I9iaFc6aIWw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sleeping cat? coyote.【hololive/博衣こより】#shorts\nhttps://www.youtube.com/watch?v=qShS3i_InRk
+DURATION:PT2H
+DTSTART:20220826T090029Z
+SUMMARY:博衣こより: Sleeping cat? coyote.【hololive/博衣こより】#shorts
+UID:qShS3i_InRk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【EDF6】地球を守るため、大勢の戦士が必要だ！！！！！！【祝・発売】\nhttps://www.youtube.com/watch?v=5ZMIAi3bve4
@@ -67,32 +60,11 @@ SUMMARY:雪花ラミィ: 【昼活雑談】まったりひるざつ。【雪花�
 UID:NwZeVOpFG8I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ステージ制作用の資材集とかやるぞ！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=J6v3O0-bwsg
-DURATION:PT2H
-DTSTART:20220825T120000Z
-SUMMARY:獅白ぼたん: 【Minecraft】ステージ制作用の資材集とかやるぞ！【獅白ぼたん/ホロライブ】
-UID:J6v3O0-bwsg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】夏祭りに出店するビアガーデンスペースの続き作るぞ✨【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=VA176IE5f7g
 DURATION:PT2H
 DTSTART:20220826T090000Z
 SUMMARY:鷹嶺ルイ: 【Minecraft】夏祭りに出店するビアガーデンスペースの続き作るぞ✨【鷹嶺ルイ/ホロライブ】
 UID:VA176IE5f7g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 RUST 】夜遊び、ラミィの背後狙ってるからな【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=g4LlQsZEQ6o
-DURATION:PT2H
-DTSTART:20220825T130000Z
-SUMMARY:桃鈴ねね: 【 RUST 】夜遊び、ラミィの背後狙ってるからな【 桃鈴ねね / ホロライブ 】
-UID:g4LlQsZEQ6o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【初見】ドラゴンクエストモンスターズ ジョーカー 人生縛りでやる！！！＃4 ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=xa02M0nkADw
-DURATION:PT2H
-DTSTART:20220825T120000Z
-SUMMARY:👯兎田ぺこら: 【初見】ドラゴンクエストモンスターズ ジョーカー 人生縛りでやる！！！＃4 ぺこ！【ホロライブ/兎田ぺこら】
-UID:xa02M0nkADw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【最終回】ありがとう、インドのみんな。【はあちゃまクッキング・改】\nhttps://www.youtube.com/watch?v=R_z7gpC9wO8
@@ -109,39 +81,11 @@ SUMMARY:鷹嶺ルイ: 【パワプロ2022】夏の甲子園‼春夏連覇すっ
 UID:Jdar6YwTmmk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ちゃまたんなのら】負けたら腹筋マリカ？余裕だなぁ！！！【はあちゃま/ホロライブ】\nhttps://www.youtube.com/watch?v=dkeKvo4OBwY
+DESCRIPTION:ガルパホロライブカップinホロライブサマー【#ガルパホロライブサマー】\nhttps://www.youtube.com/watch?v=Ordk4xfoNmE
 DURATION:PT2H
-DTSTART:20220825T100000Z
-SUMMARY:❤赤井はあと: 【#ちゃまたんなのら】負けたら腹筋マリカ？余裕だなぁ！！！【はあちゃま/ホロライブ】
-UID:dkeKvo4OBwY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポルカの伝説】おつまみドラフトが帰ってきた！！\nhttps://www.youtube.com/watch?v=T3zeVhhZ3PM
-DURATION:PT2H
-DTSTART:20220825T100000Z
-SUMMARY:尾丸ポルカ: 【ポルカの伝説】おつまみドラフトが帰ってきた！！
-UID:T3zeVhhZ3PM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【カービィのグルメフェス】#ねねねトワワ　でグルメフェス！【常闇トワ/桃鈴ねね】\nhttps://www.youtube.com/watch?v=gROBsVuRsiU
-DURATION:PT2H
-DTSTART:20220825T100000Z
-SUMMARY:👾常闇トワ: 【カービィのグルメフェス】#ねねねトワワ　でグルメフェス！【常闇トワ/桃鈴ねね】
-UID:gROBsVuRsiU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ホロライブ・サマー2022 MV第3弾】『Sparklers』ショートMV【ホロライブ】\nhttps://www.youtube.com/watch?v=6Cf9PHFJ094
-DURATION:PT2H
-DTSTART:20220825T120000Z
-SUMMARY:ホロライブ: 【ホロライブ・サマー2022 MV第3弾】『Sparklers』ショートMV【ホロライブ】
-UID:6Cf9PHFJ094
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 お披露目】浴衣お披露目雑談✨最近あったことやSP読みも💖【ホロライブ/ ロボ子さん】\nhttps://www.youtube.com/watch?v=d54fczxwnR4
-DURATION:PT2H
-DTSTART:20220826T130000Z
-SUMMARY:🤖ロボ子さん: 【 お披露目】浴衣お披露目雑談✨最近あったことやSP読みも💖【ホロライブ/ ロボ子さん】
-UID:d54fczxwnR4
+DTSTART:20220828T090000Z
+SUMMARY:ホロライブ: ガルパホロライブカップinホロライブサマー【#ガルパホロライブサマー】
+UID:Ordk4xfoNmE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#生スバル】コードギアス反逆のルルーシュ同時試聴：CODE GEASS Lelouch of the Rebellion【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=ou3CIVxwpHU
@@ -149,13 +93,6 @@ DURATION:PT2H
 DTSTART:20220826T130000Z
 SUMMARY:🚑大空スバル: 【#生スバル】コードギアス反逆のルルーシュ同時試聴：CODE GEASS Lelouch of the Rebellion【ホロライブ/大空スバル】
 UID:ou3CIVxwpHU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】釣り堀復活したらしいけど…？【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=8G6jXAotwHo
-DURATION:PT2H
-DTSTART:20220825T131500Z
-SUMMARY:🔥不知火フレア: 【RUST】釣り堀復活したらしいけど…？【不知火フレア/ホロライブ】
-UID:8G6jXAotwHo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【コラボ記念】ホロライブメンバーがダーツライブに挑戦！！【#ホロダーツ】\nhttps://www.youtube.com/watch?v=1xbq9WkspiQ
@@ -172,46 +109,11 @@ SUMMARY:💋癒月ちょこ: 【 Occult 】スバちょこるなたん で恐怖
 UID:nmul7fi4AkM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談＋スパチャお礼】深夜のゆるふわ時間🌙✨【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=zB_crRIjGBs
-DURATION:PT2H
-DTSTART:20220825T130000Z
-SUMMARY:⚔白銀ノエル: 【雑談＋スパチャお礼】深夜のゆるふわ時間🌙✨【白銀ノエル/ホロライブ】
-UID:zB_crRIjGBs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【あくありうむ。】本人が本人を攻略するゲームやるってまじ？【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=gVP3vlN0D8o
-DURATION:PT2H
-DTSTART:20220827T130000Z
-SUMMARY:⚓湊あくあ: 【あくありうむ。】本人が本人を攻略するゲームやるってまじ？【湊あくあ/ホロライブ】
-UID:gVP3vlN0D8o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#カプとれ】トワ様を手に入れる💜【ラプラス・ダークネス / 常闇トワ / ホロライブ】\nhttps://www.youtube.com/watch?v=hvwTALDWHio
 DURATION:PT2H
 DTSTART:20220826T110000Z
 SUMMARY:ラプラス: 【#カプとれ】トワ様を手に入れる💜【ラプラス・ダークネス / 常闇トワ / ホロライブ】
 UID:hvwTALDWHio
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #ちゃまたんなのら 】マリカで負けたら腹筋っ…！！！勝負なのらあああ！！！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=PW38ZZMW9hg
-DURATION:PT2H
-DTSTART:20220825T100000Z
-SUMMARY:🍬姫森ルーナ: 【 #ちゃまたんなのら 】マリカで負けたら腹筋っ…！！！勝負なのらあああ！！！【姫森ルーナ/ホロライブ】
-UID:PW38ZZMW9hg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】初めての渋ハルチーム！がんばりますっ！【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=OFVYcd58Eco
-DURATION:PT2H
-DTSTART:20220825T120000Z
-SUMMARY:👾常闇トワ: 【APEX】初めての渋ハルチーム！がんばりますっ！【常闇トワ/ホロライブ】
-UID:OFVYcd58Eco
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CREATION / 白上フブキ(cover)\nhttps://www.youtube.com/watch?v=NDH4KgXxyGA
-DURATION:PT2H
-DTSTART:20220825T110000Z
-SUMMARY:🌽白上フブキ: CREATION / 白上フブキ(cover)
-UID:NDH4KgXxyGA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【メンバー限定】同時視聴前にちょっとお話しよっ【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=8r2KEH1J4jQ
@@ -228,20 +130,6 @@ SUMMARY:獅白ぼたん: 【Occult】呪われた病院から脱出するぞ！�
 UID:kwm2eSSVif4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】浴衣お披露目しながらかわいく歌うッ！！/Singing KARAOKE【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=2z7dEtmh8Cg
-DURATION:PT2H
-DTSTART:20220825T110000Z
-SUMMARY:🏮夏色まつり: 【歌枠】浴衣お披露目しながらかわいく歌うッ！！/Singing KARAOKE【ホロライブ/夏色まつり】
-UID:2z7dEtmh8Cg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 RUST -Season 2- 】スクラップスクラップスクラップ【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=yCWw6x0DF80
-DURATION:PT2H
-DTSTART:20220825T120000Z
-SUMMARY:雪花ラミィ: 【 RUST -Season 2- 】スクラップスクラップスクラップ【雪花ラミィ/ホロライブ】
-UID:yCWw6x0DF80
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【桃太郎電鉄】平和な平和な桃太郎電鉄…だよね？＾＾；【#おかるいぽるーな/ホロライブ】\nhttps://www.youtube.com/watch?v=qGpy_bewtAk
 DURATION:PT2H
 DTSTART:20220827T130000Z
@@ -256,32 +144,11 @@ SUMMARY:博衣こより: #2【龍が如く極2】完全初見✨5章～！神室
 UID:0pSGsFZYWIg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ホロライブ・サマー2022 #6】私たちの夏物語はここからだ！【#物語のホロサマ】\nhttps://www.youtube.com/watch?v=4bDwk9fWDcE
+DESCRIPTION:わためがホットソースを飲んだ結果･･･【ギリギリわるくないわため】 #ギリわる\nhttps://www.youtube.com/watch?v=AJ-CYG5z9wc
 DURATION:PT2H
-DTSTART:20220825T110000Z
-SUMMARY:ホロライブ: 【ホロライブ・サマー2022 #6】私たちの夏物語はここからだ！【#物語のホロサマ】
-UID:4bDwk9fWDcE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:リモコン / 常闇トワ×桃鈴ねね(cover)\nhttps://www.youtube.com/watch?v=SVVyG36QwqI
-DURATION:PT2H
-DTSTART:20220825T111500Z
-SUMMARY:👾常闇トワ: リモコン / 常闇トワ×桃鈴ねね(cover)
-UID:SVVyG36QwqI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:つかまえてごら～ん！きゃっきゃ～！\nhttps://www.youtube.com/watch?v=76b6cBkjE6I
-DURATION:PT2H
-DTSTART:20220825T024500Z
-SUMMARY:尾丸ポルカ: つかまえてごら～ん！きゃっきゃ～！
-UID:76b6cBkjE6I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【麻雀】視聴者参加型！東風戦だよ～！🀄-セガネット麻雀MJモバイル-【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=SeuoSfmeSv8
-DURATION:PT2H
-DTSTART:20220825T120000Z
-SUMMARY:博衣こより: 【麻雀】視聴者参加型！東風戦だよ～！🀄-セガネット麻雀MJモバイル-【博衣こより/ホロライブ】
-UID:SeuoSfmeSv8
+DTSTART:20220826T100005Z
+SUMMARY:🐏角巻わため: わためがホットソースを飲んだ結果･･･【ギリギリわるくないわため】 #ギリわる
+UID:AJ-CYG5z9wc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#11【 Minecraft Hardcore 】ハードコアでみこのなつやすみ～おわらない全ロスとの戦い～【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=1uCNgiXK90M
@@ -291,25 +158,25 @@ SUMMARY:🌸さくらみこ: #11【 Minecraft Hardcore 】ハードコアでみ�
 UID:1uCNgiXK90M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:わためがホットソースを飲んだ結果･･･【ギリギリわるくないわため】 #ギリわる\nhttps://www.youtube.com/watch?v=AJ-CYG5z9wc
-DURATION:PT2H
-DTSTART:20220826T100005Z
-SUMMARY:🐏角巻わため: わためがホットソースを飲んだ結果･･･【ギリギリわるくないわため】 #ギリわる
-UID:AJ-CYG5z9wc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】RAGEの顔合わせ？チーム青です！！！【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=-GOAtj3dghw
-DURATION:PT2H
-DTSTART:20220825T030000Z
-SUMMARY:👾常闇トワ: 【APEX】RAGEの顔合わせ？チーム青です！！！【常闇トワ/ホロライブ】
-UID:-GOAtj3dghw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 #スバちょこるなたん 】Occult…【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=i261gdeLH_g
 DURATION:PT2H
 DTSTART:20220826T110000Z
 SUMMARY:🍬姫森ルーナ: 【 #スバちょこるなたん 】Occult…【姫森ルーナ/ホロライブ】
 UID:i261gdeLH_g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【あくありうむ。】本人が本人を攻略するゲームやるってまじ？【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=gVP3vlN0D8o
+DURATION:PT2H
+DTSTART:20220827T130000Z
+SUMMARY:⚓湊あくあ: 【あくありうむ。】本人が本人を攻略するゲームやるってまじ？【湊あくあ/ホロライブ】
+UID:gVP3vlN0D8o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#白銀ノエル3周年記念】ゲストあり！夏の思い出LIVE！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=UtSY7tOqr4k
+DURATION:PT2H
+DTSTART:20220827T120000Z
+SUMMARY:⚔白銀ノエル: 【#白銀ノエル3周年記念】ゲストあり！夏の思い出LIVE！【白銀ノエル/ホロライブ】
+UID:UtSY7tOqr4k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#朝こよ】金曜日のおはこよ～！ #77【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=EagUsfGggO4
@@ -319,46 +186,11 @@ SUMMARY:博衣こより: 【#朝こよ】金曜日のおはこよ～！ #77【�
 UID:EagUsfGggO4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【緊急雑談】( ^)o(^ )b【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=imDETBnZn3Y
-DURATION:PT2H
-DTSTART:20220826T130000Z
-SUMMARY:⚓湊あくあ: 【緊急雑談】( ^)o(^ )b【湊あくあ/ホロライブ】
-UID:imDETBnZn3Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#生スバル】テイルズ オブ ジアビス 裏ボス攻略するしゅばあああああああああああああ！！！！！！：TALES OF THE ABYSS【ネタバレあり】\nhttps://www.youtube.com/watch?v=Bw3uU1jvv-c
-DURATION:PT2H
-DTSTART:20220825T120000Z
-SUMMARY:🚑大空スバル: 【#生スバル】テイルズ オブ ジアビス 裏ボス攻略するしゅばあああああああああああああ！！！！！！：TALES OF THE ABYSS【ネタバレあり】
-UID:Bw3uU1jvv-c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【バイオ7】バイオハザード7の最後の物語…DLC「End  of Zoe」やるよ～！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=KTFKtJrvdj0
-DURATION:PT2H
-DTSTART:20220825T080000Z
-SUMMARY:博衣こより: 【バイオ7】バイオハザード7の最後の物語…DLC「End  of Zoe」やるよ～！【博衣こより/ホロライブ】
-UID:KTFKtJrvdj0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 RUST 】エリートボックスってなんぞや？？？にぇ！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=mlOVhR8-F_I
-DURATION:PT2H
-DTSTART:20220826T110000Z
-SUMMARY:🌸さくらみこ: 【 RUST 】エリートボックスってなんぞや？？？にぇ！！！【ホロライブ/さくらみこ】
-UID:mlOVhR8-F_I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#かなりあ】オフコラボ晩酌💙僕のおうちへようこそ。【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=MyMUzmtFqNI
 DURATION:PT2H
 DTSTART:20220826T120000Z
 SUMMARY:💫天音かなた: 【#かなりあ】オフコラボ晩酌💙僕のおうちへようこそ。【天音かなた/ホロライブ】
 UID:MyMUzmtFqNI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】深夜のまったりマイクラ‼夏祭りの出店作る✨【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=Om_41Ui_ngs
-DURATION:PT2H
-DTSTART:20220824T154500Z
-SUMMARY:鷹嶺ルイ: 【Minecraft】深夜のまったりマイクラ‼夏祭りの出店作る✨【鷹嶺ルイ/ホロライブ】
-UID:Om_41Ui_ngs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】釣りか？PvEか？C4量産か？ポルカおるか？ #ホロ鯖RUST 【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=rzy06iMCJJY
@@ -368,13 +200,6 @@ SUMMARY:尾丸ポルカ: 【RUST】釣りか？PvEか？C4量産か？ポルカ�
 UID:rzy06iMCJJY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#りっちしょこら】今回のゲストは白銀ノエル様⚡今宵もご堪能あれ！【ホロライブ/癒月ちょこ/鷹嶺ルイ/白銀ノエル】\nhttps://www.youtube.com/watch?v=w4qx-o1PfW8
-DURATION:PT2H
-DTSTART:20220826T140000Z
-SUMMARY:💋癒月ちょこ: 【#りっちしょこら】今回のゲストは白銀ノエル様⚡今宵もご堪能あれ！【ホロライブ/癒月ちょこ/鷹嶺ルイ/白銀ノエル】
-UID:w4qx-o1PfW8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ホロ鯖RUST】禁断症状間近！？ルーレットを回さないと…回さないと…【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=uttlxwdMYIk
 DURATION:PT2H
 DTSTART:20220826T144500Z
@@ -382,11 +207,11 @@ SUMMARY:🌽白上フブキ: 【#ホロ鯖RUST】禁断症状間近！？ルー�
 UID:uttlxwdMYIk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#白銀ノエル3周年記念】ゲストあり！夏の思い出LIVE！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=UtSY7tOqr4k
+DESCRIPTION:【#りっちしょこら】今回のゲストは白銀ノエル様⚡今宵もご堪能あれ！【ホロライブ/癒月ちょこ/鷹嶺ルイ/白銀ノエル】\nhttps://www.youtube.com/watch?v=w4qx-o1PfW8
 DURATION:PT2H
-DTSTART:20220827T120000Z
-SUMMARY:⚔白銀ノエル: 【#白銀ノエル3周年記念】ゲストあり！夏の思い出LIVE！【白銀ノエル/ホロライブ】
-UID:UtSY7tOqr4k
+DTSTART:20220826T140000Z
+SUMMARY:💋癒月ちょこ: 【#りっちしょこら】今回のゲストは白銀ノエル様⚡今宵もご堪能あれ！【ホロライブ/癒月ちょこ/鷹嶺ルイ/白銀ノエル】
+UID:w4qx-o1PfW8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談＆お礼】サマーminiライブお疲れ様会🍵🍡【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=RjCpRMg8v2Q
@@ -403,13 +228,6 @@ SUMMARY:🍙猫又おかゆ: 【グルーヴコースター ワイワイパー�
 UID:GVvbVj1zZ0w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 ダイエット 】昼食に！色んなゲテモノ食べ比べ！【2日目】\nhttps://www.youtube.com/watch?v=u2hHMYql6Bs
-DURATION:PT2H
-DTSTART:20220825T080000Z
-SUMMARY:❤赤井はあと: 【 ダイエット 】昼食に！色んなゲテモノ食べ比べ！【2日目】
-UID:u2hHMYql6Bs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【3Dメン限】初めての生3Dメン限！秘密の撮影会しよう～🌙✨【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=54QT275YNlc
 DURATION:PT2H
 DTSTART:20220827T131500Z
@@ -417,31 +235,17 @@ SUMMARY:⚔白銀ノエル: 【3Dメン限】初めての生3Dメン限！秘密
 UID:54QT275YNlc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#10【 Minecraft Hardcore 】ハードコアでみこのなつやすみ～おわらない全ロスとの戦い～【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=XFapswEEVpE
+DESCRIPTION:【緊急雑談】( ^)o(^ )b【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=imDETBnZn3Y
 DURATION:PT2H
-DTSTART:20220825T030000Z
-SUMMARY:🌸さくらみこ: #10【 Minecraft Hardcore 】ハードコアでみこのなつやすみ～おわらない全ロスとの戦い～【ホロライブ/さくらみこ】
-UID:XFapswEEVpE
+DTSTART:20220826T130000Z
+SUMMARY:⚓湊あくあ: 【緊急雑談】( ^)o(^ )b【湊あくあ/ホロライブ】
+UID:imDETBnZn3Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ちゃまたんなのら】負けたら腹筋マリカ！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=VmjBuWNPmjo
+DESCRIPTION:【 RUST 】エリートボックスってなんぞや？？？にぇ！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=mlOVhR8-F_I
 DURATION:PT2H
-DTSTART:20220825T100000Z
-SUMMARY:💫天音かなた: 【#ちゃまたんなのら】負けたら腹筋マリカ！！！！【天音かなた/ホロライブ】
-UID:VmjBuWNPmjo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 モンハンサンブレイク 】"MR70" 緊急クエストやるのらぞ！！！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=xKC30Bh6GaQ
-DURATION:PT2H
-DTSTART:20220825T130000Z
-SUMMARY:🍬姫森ルーナ: 【 モンハンサンブレイク 】"MR70" 緊急クエストやるのらぞ！！！【姫森ルーナ/ホロライブ】
-UID:xKC30Bh6GaQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Sleeping cat? coyote.【hololive/博衣こより】#shorts\nhttps://www.youtube.com/watch?v=qShS3i_InRk
-DURATION:PT2H
-DTSTART:20220826T090029Z
-SUMMARY:博衣こより: Sleeping cat? coyote.【hololive/博衣こより】#shorts
-UID:qShS3i_InRk
+DTSTART:20220826T110000Z
+SUMMARY:🌸さくらみこ: 【 RUST 】エリートボックスってなんぞや？？？にぇ！！！【ホロライブ/さくらみこ】
+UID:mlOVhR8-F_I
 END:VEVENT
 END:VCALENDAR
