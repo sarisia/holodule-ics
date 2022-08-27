@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【APEX LEGENDS】HOLORO COLLAB EVERYONE'S BEEN WAITING FOR【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=MY_pTi6-oDw
-DURATION:PT2H
-DTSTART:20220826T125938Z
-SUMMARY:Ollie: 【APEX LEGENDS】HOLORO COLLAB EVERYONE'S BEEN WAITING FOR【Hololive ID 2nd Gen】
-UID:MY_pTi6-oDw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【RUST】short stream【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=4zImNJUdaxU
 DURATION:PT2H
 DTSTART:20220827T083000Z
@@ -18,25 +11,11 @@ SUMMARY:Reine: 【RUST】short stream【Pavolia Reine/hololiveID 2nd gen】
 UID:4zImNJUdaxU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Chess and Rubik's Cube with @Kureiji Ollie Ch. hololive-ID  ?!!!??!!111!!? :0\nhttps://www.youtube.com/watch?v=NkPJ4wxdALI
+DESCRIPTION:『TITANFALL 2』Lower voice zeta today #2\nhttps://www.youtube.com/watch?v=5U98hpEQnSM
 DURATION:PT2H
-DTSTART:20220826T090000Z
-SUMMARY:Kobo: Chess and Rubik's Cube with @Kureiji Ollie Ch. hololive-ID  ?!!!??!!111!!? :0
-UID:NkPJ4wxdALI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【holoro APEX】I forgot how to play【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=YHDfKnYG1II
-DURATION:PT2H
-DTSTART:20220826T130000Z
-SUMMARY:Reine: 【holoro APEX】I forgot how to play【Pavolia Reine/hololiveID 2nd gen】
-UID:YHDfKnYG1II
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX LEGENDS】Shooting【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=psZYPcsAqUs
-DURATION:PT2H
-DTSTART:20220826T130000Z
-SUMMARY:Anya: 【APEX LEGENDS】Shooting【hololive Indonesia 2nd Generation】
-UID:psZYPcsAqUs
+DTSTART:20220827T150000Z
+SUMMARY:Zeta: 『TITANFALL 2』Lower voice zeta today #2
+UID:5U98hpEQnSM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Zeta's School Experience\nhttps://www.youtube.com/watch?v=wEXXkb8iyYs
@@ -44,13 +23,6 @@ DURATION:PT2H
 DTSTART:20220826T155139Z
 SUMMARY:Zeta: Zeta's School Experience
 UID:wEXXkb8iyYs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Mortuary Assistant】DAPET ENDING APA YA MALAM INI??\nhttps://www.youtube.com/watch?v=xMvlhDe9mrg
-DURATION:PT2H
-DTSTART:20220827T123000Z
-SUMMARY:Kobo: 【The Mortuary Assistant】DAPET ENDING APA YA MALAM INI??
-UID:xMvlhDe9mrg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Need for Speed™ Most Wanted】ngeeeeeeeng 🏎️【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=SIQxQ7GhHTE
@@ -67,24 +39,17 @@ SUMMARY:Reine: #9【AI: THE SOMNIUM FILES – nirvanA Initiative】Stepped in gu
 UID:-Tb5QRfhAV4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Donation Reading + Random Talk】morning talk~ 💪【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=cuvX--2okAw
-DURATION:PT2H
-DTSTART:20220826T020000Z
-SUMMARY:Kaela: 【Donation Reading + Random Talk】morning talk~ 💪【Kaela Kovalskia / hololiveID】
-UID:cuvX--2okAw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:『TITANFALL 2』Lower voice zeta today #2\nhttps://www.youtube.com/watch?v=5U98hpEQnSM
-DURATION:PT2H
-DTSTART:20220827T150000Z
-SUMMARY:Zeta: 『TITANFALL 2』Lower voice zeta today #2
-UID:5U98hpEQnSM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ASMR】Ear Cleaning\nhttps://www.youtube.com/watch?v=5bsiPsnTIdg
 DURATION:PT2H
 DTSTART:20220827T080000Z
 SUMMARY:Kobo: 【ASMR】Ear Cleaning
 UID:5bsiPsnTIdg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【The Mortuary Assistant】DAPET ENDING APA YA MALAM INI??\nhttps://www.youtube.com/watch?v=xMvlhDe9mrg
+DURATION:PT2H
+DTSTART:20220827T123000Z
+SUMMARY:Kobo: 【The Mortuary Assistant】DAPET ENDING APA YA MALAM INI??
+UID:xMvlhDe9mrg
 END:VEVENT
 END:VCALENDAR
