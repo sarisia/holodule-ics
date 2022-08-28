@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【RUST】short stream【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=4zImNJUdaxU
-DURATION:PT2H
-DTSTART:20220827T083000Z
-SUMMARY:Reine: 【RUST】short stream【Pavolia Reine/hololiveID 2nd gen】
-UID:4zImNJUdaxU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【RUST】Raiding Oil Rig!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=NbATzmX-8v4
 DURATION:PT2H
 DTSTART:20220828T010000Z
@@ -25,18 +18,11 @@ SUMMARY:Kobo: 【Valorant】Regis is shid. w/ @Regis Altare Ch. HOLOSTARS-EN
 UID:h002DcZodpw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Zeta's School Experience\nhttps://www.youtube.com/watch?v=wEXXkb8iyYs
+DESCRIPTION:【League of Legends: Wild Rift】#22 u gud?【ElaOnDuty】\nhttps://www.youtube.com/watch?v=7IMhtxO6dl0
 DURATION:PT2H
-DTSTART:20220826T155139Z
-SUMMARY:Zeta: Zeta's School Experience
-UID:wEXXkb8iyYs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Mortuary Assistant】DAPET ENDING APA YA MALAM INI??\nhttps://www.youtube.com/watch?v=xMvlhDe9mrg
-DURATION:PT2H
-DTSTART:20220827T123000Z
-SUMMARY:Kobo: 【The Mortuary Assistant】DAPET ENDING APA YA MALAM INI??
-UID:xMvlhDe9mrg
+DTSTART:20220828T041500Z
+SUMMARY:Kaela: 【League of Legends: Wild Rift】#22 u gud?【ElaOnDuty】
+UID:7IMhtxO6dl0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】joining my sharp friend in the morning【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=yHHf227AQCA
@@ -44,27 +30,6 @@ DURATION:PT2H
 DTSTART:20220828T010000Z
 SUMMARY:Reine: 【RUST】joining my sharp friend in the morning【Pavolia Reine/hololiveID 2nd gen】
 UID:yHHf227AQCA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Need for Speed™ Most Wanted】ngeeeeeeeng 🏎️【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=SIQxQ7GhHTE
-DURATION:PT2H
-DTSTART:20220827T140000Z
-SUMMARY:Kaela: 【Need for Speed™ Most Wanted】ngeeeeeeeng 🏎️【Kaela Kovalskia / hololiveID】
-UID:SIQxQ7GhHTE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#9【AI: THE SOMNIUM FILES – nirvanA Initiative】Stepped in gum on my way to the freezer【Pavolia Reine】\nhttps://www.youtube.com/watch?v=-Tb5QRfhAV4
-DURATION:PT2H
-DTSTART:20220827T130000Z
-SUMMARY:Reine: #9【AI: THE SOMNIUM FILES – nirvanA Initiative】Stepped in gum on my way to the freezer【Pavolia Reine】
-UID:-Tb5QRfhAV4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【League of Legends: Wild Rift】#22 u gud?【ElaOnDuty】\nhttps://www.youtube.com/watch?v=7IMhtxO6dl0
-DURATION:PT2H
-DTSTART:20220828T041500Z
-SUMMARY:Kaela: 【League of Legends: Wild Rift】#22 u gud?【ElaOnDuty】
-UID:7IMhtxO6dl0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:『TITANFALL 2』Lower voice zeta today #2\nhttps://www.youtube.com/watch?v=5U98hpEQnSM
@@ -93,12 +58,5 @@ DURATION:PT2H
 DTSTART:20220828T070305Z
 SUMMARY:IDholo: Kesan Reine tentang 17-an hololive Indonesia 2022 [Interview]
 UID:CdbwcJnnArk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ASMR】Ear Cleaning\nhttps://www.youtube.com/watch?v=5bsiPsnTIdg
-DURATION:PT2H
-DTSTART:20220827T080000Z
-SUMMARY:Kobo: 【ASMR】Ear Cleaning
-UID:5bsiPsnTIdg
 END:VEVENT
 END:VCALENDAR
