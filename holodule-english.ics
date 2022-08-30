@@ -4,6 +4,27 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【MEMBERS ONLY】Blue Planet II Watch-Along EPISODE 1\nhttps://www.youtube.com/watch?v=gBXLOho8Eoo
+DURATION:PT2H
+DTSTART:20220831T010000Z
+SUMMARY:Mumei: 【MEMBERS ONLY】Blue Planet II Watch-Along EPISODE 1
+UID:gBXLOho8Eoo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【superchat time!】 sleepily reading many superchats !\nhttps://www.youtube.com/watch?v=tiDeLV3y1SI
+DURATION:PT2H
+DTSTART:20220829T230000Z
+SUMMARY:Fauna: 【superchat time!】 sleepily reading many superchats !
+UID:tiDeLV3y1SI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MV】One Step at a Time / IRyS【Original Song】\nhttps://www.youtube.com/watch?v=HY6OVi3q9F8
+DURATION:PT2H
+DTSTART:20220830T010000Z
+SUMMARY:IRyS: 【MV】One Step at a Time / IRyS【Original Song】
+UID:HY6OVi3q9F8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Singing】Let's Karaokeeeeyyyy\nhttps://www.youtube.com/watch?v=XlOdjjsV80I
 DURATION:PT2H
 DTSTART:20220830T050000Z
@@ -16,13 +37,6 @@ DURATION:PT2H
 DTSTART:20220830T030044Z
 SUMMARY:Calli: [DEAD BY DAYLIGHT] Straight Outta Horror. Collab with Kronii\, Bae\, Altare and Vesper!
 UID:x_AmcAqxbh4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【superchat time!】 sleepily reading many superchats !\nhttps://www.youtube.com/watch?v=tiDeLV3y1SI
-DURATION:PT2H
-DTSTART:20220829T230000Z
-SUMMARY:Fauna: 【superchat time!】 sleepily reading many superchats !
-UID:tiDeLV3y1SI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【The Last Campfire】Why Is It Last Though | #1\nhttps://www.youtube.com/watch?v=QUPjHbpJ0YY
@@ -44,12 +58,5 @@ DURATION:PT2H
 DTSTART:20220831T030000Z
 SUMMARY:Calli: [RUST] ...no one is going to show up to the peace bbq are they
 UID:A6gjEoPGmfs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MV】One Step at a Time / IRyS【Original Song】\nhttps://www.youtube.com/watch?v=HY6OVi3q9F8
-DURATION:PT2H
-DTSTART:20220830T010000Z
-SUMMARY:IRyS: 【MV】One Step at a Time / IRyS【Original Song】
-UID:HY6OVi3q9F8
 END:VEVENT
 END:VCALENDAR
