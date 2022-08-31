@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【お絵描き】コメント安価でイケメンを描いてみる【#緋崎ガンマ  / #ホロスターズ  / #イラスト / #illustration  Making】\nhttps://www.youtube.com/watch?v=55KeeAEug_U
+DURATION:PT2H
+DTSTART:20220901T090000Z
+SUMMARY:緋崎ガンマ: 【お絵描き】コメント安価でイケメンを描いてみる【#緋崎ガンマ  / #ホロスターズ  / #イラスト / #illustration  Making】
+UID:55KeeAEug_U
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Cult of the Lamb】騎士崇拝教の教祖として生きていく。【岸堂天真 /ホロスターズ】\nhttps://www.youtube.com/watch?v=xFANijNXIkM
 DURATION:PT2H
 DTSTART:20220830T060000Z
@@ -18,18 +25,18 @@ SUMMARY:水無世燐央: 【ANONYMOUS\;CODE】神をハッキングせよ！  / 
 UID:0uXqzLOOdpI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Overcooked!2】有能２，無能１の過酷な厨房！【#ゆるスタ /ホロスターズ】\nhttps://www.youtube.com/watch?v=dVxRtwjtRnM
-DURATION:PT2H
-DTSTART:20220829T150000Z
-SUMMARY:🦔💨岸堂天真: 【Overcooked!2】有能２，無能１の過酷な厨房！【#ゆるスタ /ホロスターズ】
-UID:dVxRtwjtRnM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Freetalk】雑談するだけ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Ac0iQDT-dVQ
 DURATION:PT2H
 DTSTART:20220830T143000Z
 SUMMARY:🍕アルランディス: 【Freetalk】雑談するだけ【アルランディス/ホロスターズ】
 UID:Ac0iQDT-dVQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Overcooked!2】有能２，無能１の過酷な厨房！【#ゆるスタ /ホロスターズ】\nhttps://www.youtube.com/watch?v=dVxRtwjtRnM
+DURATION:PT2H
+DTSTART:20220829T150000Z
+SUMMARY:🦔💨岸堂天真: 【Overcooked!2】有能２，無能１の過酷な厨房！【#ゆるスタ /ホロスターズ】
+UID:dVxRtwjtRnM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【重大告知あり！】緊急授業！？ホロスタ学園開校！【#ホロスタ学園3D】\nhttps://www.youtube.com/watch?v=fXT8iBOfweY
