@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:NEXT MANGA AWARDS 2022 with  @Gigguk  ! #NextMangaAwards\nhttps://www.youtube.com/watch?v=qn9FRzhFhlQ
-DURATION:PT2H
-DTSTART:20220831T120202Z
-SUMMARY:Calli: NEXT MANGA AWARDS 2022 with  @Gigguk  ! #NextMangaAwards
-UID:qn9FRzhFhlQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Cult Of The Lamb】🙏How To Lead A Cult (Easy)🙏 #kfp #キアライブ\nhttps://www.youtube.com/watch?v=jjskIKgW79w
-DURATION:PT2H
-DTSTART:20220831T150000Z
-SUMMARY:Kiara: 【Cult Of The Lamb】🙏How To Lead A Cult (Easy)🙏 #kfp #キアライブ
-UID:jjskIKgW79w
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【The Last Campfire】Why Is It Last Though | #1\nhttps://www.youtube.com/watch?v=QUPjHbpJ0YY
 DURATION:PT2H
 DTSTART:20220831T020000Z
@@ -32,11 +18,11 @@ SUMMARY:Amelia: 【90s Tech Tierlist】WE HAD IT SO GOOD
 UID:6u--nm-cFdU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[RUST] ...no one is going to show up to the peace bbq are they\nhttps://www.youtube.com/watch?v=A6gjEoPGmfs
+DESCRIPTION:NEXT MANGA AWARDS 2022 with  @Gigguk  ! #NextMangaAwards\nhttps://www.youtube.com/watch?v=qn9FRzhFhlQ
 DURATION:PT2H
-DTSTART:20220831T030754Z
-SUMMARY:Calli: [RUST] ...no one is going to show up to the peace bbq are they
-UID:A6gjEoPGmfs
+DTSTART:20220831T120202Z
+SUMMARY:Calli: NEXT MANGA AWARDS 2022 with  @Gigguk  ! #NextMangaAwards
+UID:qn9FRzhFhlQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TWILIGHT WATCHALONG】 hold on tight\, spider monkey with MUMEI\nhttps://www.youtube.com/watch?v=c4fAF2N9R_s
@@ -44,6 +30,13 @@ DURATION:PT2H
 DTSTART:20220831T220000Z
 SUMMARY:Fauna: 【TWILIGHT WATCHALONG】 hold on tight\, spider monkey with MUMEI
 UID:c4fAF2N9R_s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[RUST] ...no one is going to show up to the peace bbq are they\nhttps://www.youtube.com/watch?v=A6gjEoPGmfs
+DURATION:PT2H
+DTSTART:20220831T030754Z
+SUMMARY:Calli: [RUST] ...no one is going to show up to the peace bbq are they
+UID:A6gjEoPGmfs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RESIDENT EVIL HD Remaster】Officer IRyS is Goin In!!\nhttps://www.youtube.com/watch?v=FtVhxeRhkyk
