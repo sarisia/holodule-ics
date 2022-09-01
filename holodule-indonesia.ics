@@ -4,32 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【RUST】SEASON 2 LAST NIGHT【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=043Q0vVw6SI
-DURATION:PT2H
-DTSTART:20220901T123000Z
-SUMMARY:Anya: 【RUST】SEASON 2 LAST NIGHT【hololive Indonesia 2nd Generation】
-UID:043Q0vVw6SI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Chill Free Talk】Summer\, don't end just yet【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=QunpJONRrGs
-DURATION:PT2H
-DTSTART:20220830T173000Z
-SUMMARY:Reine: 【Chill Free Talk】Summer\, don't end just yet【Pavolia Reine/hololiveID 2nd gen】
-UID:QunpJONRrGs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】Prep Work for New Project!!!【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=COMoFSsFZQA
 DURATION:PT2H
 DTSTART:20220901T120000Z
 SUMMARY:Reine: 【MINECRAFT】Prep Work for New Project!!!【Pavolia Reine/hololiveID 2nd gen】
 UID:COMoFSsFZQA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#KaelemaoDay2022】post bday talk and dono reading ❤️【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=s5j-7UrVxEg
-DURATION:PT2H
-DTSTART:20220831T065000Z
-SUMMARY:Kaela: 【#KaelemaoDay2022】post bday talk and dono reading ❤️【Kaela Kovalskia / hololiveID】
-UID:s5j-7UrVxEg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Anvil Saga】#2 hello Arthur & Stone! 🔨【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=1SPCNppNlXs
@@ -39,32 +18,25 @@ SUMMARY:Kaela: 【Anvil Saga】#2 hello Arthur & Stone! 🔨【Kaela Kovalskia /
 UID:1SPCNppNlXs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:『RUST』War doko?\nhttps://www.youtube.com/watch?v=gjoTwNR9Pfs
-DURATION:PT2H
-DTSTART:20220901T110000Z
-SUMMARY:Zeta: 『RUST』War doko?
-UID:gjoTwNR9Pfs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Anvil Saga】#1 chilling as a blacksmith 🔨【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=cIpAXFkE8gk
-DURATION:PT2H
-DTSTART:20220831T143300Z
-SUMMARY:Kaela: 【Anvil Saga】#1 chilling as a blacksmith 🔨【Kaela Kovalskia / hololiveID】
-UID:cIpAXFkE8gk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Bukan Mading Terakhir Babak Akhir - hololive ID [Audio Drama]\nhttps://www.youtube.com/watch?v=pNW97lMERxw
-DURATION:PT2H
-DTSTART:20220831T110000Z
-SUMMARY:IDholo: Bukan Mading Terakhir Babak Akhir - hololive ID [Audio Drama]
-UID:pNW97lMERxw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Cuphead】KAPAN YAH PENDERITAAN INI BERAKHIR\nhttps://www.youtube.com/watch?v=ObeIRGomvLI
 DURATION:PT2H
 DTSTART:20220901T080000Z
 SUMMARY:Kobo: 【Cuphead】KAPAN YAH PENDERITAAN INI BERAKHIR
 UID:ObeIRGomvLI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RUST】SEASON 2 LAST NIGHT【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=043Q0vVw6SI
+DURATION:PT2H
+DTSTART:20220901T123000Z
+SUMMARY:Anya: 【RUST】SEASON 2 LAST NIGHT【hololive Indonesia 2nd Generation】
+UID:043Q0vVw6SI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:『RUST』War doko?\nhttps://www.youtube.com/watch?v=gjoTwNR9Pfs
+DURATION:PT2H
+DTSTART:20220901T110000Z
+SUMMARY:Zeta: 『RUST』War doko?
+UID:gjoTwNR9Pfs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】grinding together with Reine!!【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=4F9UsYQKYFM
