@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【SuperChat感謝】スパチャ御礼しつつ雑談～！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=R0YShV6iR-0
-DURATION:PT2H
-DTSTART:20220901T030000Z
-SUMMARY:博衣こより: 【SuperChat感謝】スパチャ御礼しつつ雑談～！【博衣こより/ホロライブ】
-UID:R0YShV6iR-0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#皆で観ようホロサマライブ / 3DLIVE】水着と浴衣で夏の最後を！Climax Story Live【ホロライブJP35名】\nhttps://www.youtube.com/watch?v=zQuFRSi5ebc
 DURATION:PT2H
 DTSTART:20220831T120000Z
@@ -58,6 +51,13 @@ DURATION:PT2H
 DTSTART:20220831T110035Z
 SUMMARY:☄星街すいせい: 星街すいせい - STELLAR into the GALAXYダイジェスト映像
 UID:ri19Mh6Kz2I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RUST】シーズン２最終戦！どこに鉛を打ち込むべきですか？【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=ZX1JJd4WOys
+DURATION:PT2H
+DTSTART:20220901T103000Z
+SUMMARY:🏮夏色まつり: 【RUST】シーズン２最終戦！どこに鉛を打ち込むべきですか？【ホロライブ/夏色まつり】
+UID:ZX1JJd4WOys
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ポルカの伝説】不健康VTuberが足つぼマッサージ受けた結果\nhttps://www.youtube.com/watch?v=hxxcRoum2hs
