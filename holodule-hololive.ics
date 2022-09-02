@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【 重大企画 】【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=Tjx1JYasT8k
+DURATION:PT2H
+DTSTART:20220903T150000Z
+SUMMARY:🍬姫森ルーナ: 【 重大企画 】【姫森ルーナ/ホロライブ】
+UID:Tjx1JYasT8k
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Valheim】冒険！したい！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=ayd4LpuSY2Q
 DURATION:PT2H
 DTSTART:20220902T130000Z
@@ -44,6 +51,13 @@ DURATION:PT2H
 DTSTART:20220902T100007Z
 SUMMARY:🐏角巻わため: わためのY字バランスを見ろぉーーー！...ハッ！！！【ギリギリわるくないわため】 #ギリわる
 UID:BYUCe2K73t8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 廃村巡り 】お酒飲んだらホラゲーなのらね！みんなで心霊写真を撮りに行くのら👻【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=kYl2IQkcG4s
+DURATION:PT2H
+DTSTART:20220902T160000Z
+SUMMARY:🍬姫森ルーナ: 【 廃村巡り 】お酒飲んだらホラゲーなのらね！みんなで心霊写真を撮りに行くのら👻【姫森ルーナ/ホロライブ】
+UID:kYl2IQkcG4s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ASMR】まだ８月３３日だよね？　月末定期ASMR　そうめん編【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=ApDKiqyrEBI
@@ -158,6 +172,13 @@ SUMMARY:👯兎田ぺこら: 【初見】ドラゴンクエストモンスター
 UID:Oi08ct5K9Iw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【深夜ラジオ】鷹嶺ルイのミッドナイトラジオ #06【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=3qTW6j5l8eY
+DURATION:PT2H
+DTSTART:20220903T150000Z
+SUMMARY:鷹嶺ルイ: 【深夜ラジオ】鷹嶺ルイのミッドナイトラジオ #06【鷹嶺ルイ/ホロライブ】
+UID:3qTW6j5l8eY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#生スバル】コードギアス反逆のルルーシュ同時試聴：CODE GEASS Lelouch of the Rebellion【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=GBqR3Py852I
 DURATION:PT2H
 DTSTART:20220902T130000Z
@@ -170,5 +191,12 @@ DURATION:PT2H
 DTSTART:20220902T120000Z
 SUMMARY:雪花ラミィ: 【Before The Night】クリアまでやる！！！（最終回）#02 【雪花ラミィ/ホロライブ】
 UID:44z9w0Cd4IQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【パワプロ2022】春2連覇なるか⁉ID2期生・Council・総帥と幹部が入学！／全ホロメンで行く栄冠ナイン6年目～！【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=wM0VxZwscqc
+DURATION:PT2H
+DTSTART:20220903T030000Z
+SUMMARY:鷹嶺ルイ: 【パワプロ2022】春2連覇なるか⁉ID2期生・Council・総帥と幹部が入学！／全ホロメンで行く栄冠ナイン6年目～！【鷹嶺ルイ/ホロライブ】
+UID:wM0VxZwscqc
 END:VEVENT
 END:VCALENDAR
