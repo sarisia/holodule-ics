@@ -4,32 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:[UNARCHIVED KARAOKE] Japanese Karaoke! 日本語で歌ってみる！(REBROADCAST)\nhttps://www.youtube.com/watch?v=NQIzAA3pBgA
-DURATION:PT2H
-DTSTART:20220904T030000Z
-SUMMARY:Calli: [UNARCHIVED KARAOKE] Japanese Karaoke! 日本語で歌ってみる！(REBROADCAST)
-UID:NQIzAA3pBgA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Gura's Big Brain Games】🧠\nhttps://www.youtube.com/watch?v=B_JOXosJVNo
 DURATION:PT2H
 DTSTART:20220904T000000Z
 SUMMARY:Gura: 【Gura's Big Brain Games】🧠
 UID:B_JOXosJVNo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪Delivering Hope≫ kek\nhttps://www.youtube.com/watch?v=OfcuzNDLSqU
-DURATION:PT2H
-DTSTART:20220904T020000Z
-SUMMARY:Baelz: ≪Delivering Hope≫ kek
-UID:OfcuzNDLSqU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【OVERWATCH】Ame Teach Me!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=3sSJQyIvQaM
-DURATION:PT2H
-DTSTART:20220902T190000Z
-SUMMARY:Kiara: 【OVERWATCH】Ame Teach Me!!! #kfp #キアライブ
-UID:3sSJQyIvQaM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[LIVE A LIVE] ni ni ninja!!! (Part 4) SPOILERS!!\nhttps://www.youtube.com/watch?v=VfnL7T3shNI
@@ -44,6 +23,34 @@ DURATION:PT2H
 DTSTART:20220903T000000Z
 SUMMARY:IRyS: 【The Mortuary Assistant】Let the bodies hit the floor
 UID:QByEdpokRSo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[UNARCHIVED KARAOKE] Japanese Karaoke! 日本語で歌ってみる！(REBROADCAST)\nhttps://www.youtube.com/watch?v=NQIzAA3pBgA
+DURATION:PT2H
+DTSTART:20220904T030000Z
+SUMMARY:Calli: [UNARCHIVED KARAOKE] Japanese Karaoke! 日本語で歌ってみる！(REBROADCAST)
+UID:NQIzAA3pBgA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪Delivering Hope≫ kek\nhttps://www.youtube.com/watch?v=OfcuzNDLSqU
+DURATION:PT2H
+DTSTART:20220904T020000Z
+SUMMARY:Baelz: ≪Delivering Hope≫ kek
+UID:OfcuzNDLSqU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Cult Of The Lamb】PEACE OR POWER? #kfp #キアライブ\nhttps://www.youtube.com/watch?v=sRej0OJtVL4
+DURATION:PT2H
+DTSTART:20220903T153000Z
+SUMMARY:Kiara: 【Cult Of The Lamb】PEACE OR POWER? #kfp #キアライブ
+UID:sRej0OJtVL4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【OVERWATCH】Ame Teach Me!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=3sSJQyIvQaM
+DURATION:PT2H
+DTSTART:20220902T190000Z
+SUMMARY:Kiara: 【OVERWATCH】Ame Teach Me!!! #kfp #キアライブ
+UID:3sSJQyIvQaM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Dan Dan Don Don\nhttps://www.youtube.com/watch?v=RRq4-uktHiI
