@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【CULT OF THE LAMB】HELLO ARE YOU INTERESTED IN JOINING MY CULT?? #2 【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=5EL8JDGDf9s
-DURATION:PT2H
-DTSTART:20220905T113204Z
-SUMMARY:Ollie: 【CULT OF THE LAMB】HELLO ARE YOU INTERESTED IN JOINING MY CULT?? #2 【Hololive ID 2nd Gen】
-UID:5EL8JDGDf9s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【PEJUANG SENIN】#18 Hello\, September!! ☀️【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=iDStPtLatyA
 DURATION:PT2H
 DTSTART:20220904T231500Z
 SUMMARY:Kaela: 【PEJUANG SENIN】#18 Hello\, September!! ☀️【Kaela's Monday Warrior】
 UID:iDStPtLatyA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VALORANT】I CAN ALREADY HEAR THE BICKERING【Hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=k1-pCeYrS9Y
+DURATION:PT2H
+DTSTART:20220904T231918Z
+SUMMARY:Ollie: 【VALORANT】I CAN ALREADY HEAR THE BICKERING【Hololive Indonesia 2nd Generation】
+UID:k1-pCeYrS9Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】I might be late but lets enjoy this moment!【#MoonArchitect】\nhttps://www.youtube.com/watch?v=OJINBniofr4
@@ -25,10 +25,17 @@ SUMMARY:🔮Moona: 【Minecraft】I might be late but lets enjoy this moment!【
 UID:OJINBniofr4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【VALORANT】I CAN ALREADY HEAR THE BICKERING【Hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=k1-pCeYrS9Y
+DESCRIPTION:【CULT OF THE LAMB】HELLO ARE YOU INTERESTED IN JOINING MY CULT?? #2 【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=5EL8JDGDf9s
 DURATION:PT2H
-DTSTART:20220904T231918Z
-SUMMARY:Ollie: 【VALORANT】I CAN ALREADY HEAR THE BICKERING【Hololive Indonesia 2nd Generation】
-UID:k1-pCeYrS9Y
+DTSTART:20220905T113204Z
+SUMMARY:Ollie: 【CULT OF THE LAMB】HELLO ARE YOU INTERESTED IN JOINING MY CULT?? #2 【Hololive ID 2nd Gen】
+UID:5EL8JDGDf9s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Anvil Saga】#3 will we get an ending? 🔨【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=nHtN8W8PmXc
+DURATION:PT2H
+DTSTART:20220905T130000Z
+SUMMARY:Kaela: 【Anvil Saga】#3 will we get an ending? 🔨【Kaela Kovalskia / hololiveID】
+UID:nHtN8W8PmXc
 END:VEVENT
 END:VCALENDAR
