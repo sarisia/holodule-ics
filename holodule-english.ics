@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【HITMAN 2】 Return of the Slap King\nhttps://www.youtube.com/watch?v=hYzj3ElzBLQ
+DESCRIPTION:≪Plants VS Zombies≫ lawn mower who? #1\nhttps://www.youtube.com/watch?v=fwJw9ACnkWs
 DURATION:PT2H
-DTSTART:20220904T220000Z
-SUMMARY:Fauna: 【HITMAN 2】 Return of the Slap King
-UID:hYzj3ElzBLQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Gura's Big Brain Games】🧠\nhttps://www.youtube.com/watch?v=B_JOXosJVNo
-DURATION:PT2H
-DTSTART:20220904T001147Z
-SUMMARY:Gura: 【Gura's Big Brain Games】🧠
-UID:B_JOXosJVNo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DRAWING】Making Stuff For Myself !!!\nhttps://www.youtube.com/watch?v=gF-9O9B8DFs
-DURATION:PT2H
-DTSTART:20220904T043000Z
-SUMMARY:Mumei: 【DRAWING】Making Stuff For Myself !!!
-UID:gF-9O9B8DFs
+DTSTART:20220906T020000Z
+SUMMARY:Baelz: ≪Plants VS Zombies≫ lawn mower who? #1
+UID:fwJw9ACnkWs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SUPASUNDAE】Listenin' to Radio - Catching up on Superchats!\nhttps://www.youtube.com/watch?v=n9IOW0X9g9Q
@@ -32,31 +18,17 @@ SUMMARY:Amelia: 【SUPASUNDAE】Listenin' to Radio - Catching up on Superchats!
 UID:n9IOW0X9g9Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【VA-11 Hall-A】MAKING DRINKS From the Game! Then\, REAL FINALE!\nhttps://www.youtube.com/watch?v=RAifjoBqyXU
-DURATION:PT2H
-DTSTART:20220904T131349Z
-SUMMARY:Calli: 【VA-11 Hall-A】MAKING DRINKS From the Game! Then\, REAL FINALE!
-UID:RAifjoBqyXU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪Delivering Hope≫ mission: eventually hit 12k\nhttps://www.youtube.com/watch?v=OfcuzNDLSqU
-DURATION:PT2H
-DTSTART:20220904T020000Z
-SUMMARY:Baelz: ≪Delivering Hope≫ mission: eventually hit 12k
-UID:OfcuzNDLSqU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Cult Of The Lamb】PEACE OR POWER? #kfp #キアライブ\nhttps://www.youtube.com/watch?v=sRej0OJtVL4
-DURATION:PT2H
-DTSTART:20220903T153000Z
-SUMMARY:Kiara: 【Cult Of The Lamb】PEACE OR POWER? #kfp #キアライブ
-UID:sRej0OJtVL4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【HANDCAM】MOAR IRONBEADS FOR THE IRONGOD #kfp #キアライブ\nhttps://www.youtube.com/watch?v=Hz5DUFjU6Xg
 DURATION:PT2H
 DTSTART:20220904T150000Z
 SUMMARY:Kiara: 【HANDCAM】MOAR IRONBEADS FOR THE IRONGOD #kfp #キアライブ
 UID:Hz5DUFjU6Xg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HITMAN 2】 Return of the Slap King\nhttps://www.youtube.com/watch?v=hYzj3ElzBLQ
+DURATION:PT2H
+DTSTART:20220904T220000Z
+SUMMARY:Fauna: 【HITMAN 2】 Return of the Slap King
+UID:hYzj3ElzBLQ
 END:VEVENT
 END:VCALENDAR
