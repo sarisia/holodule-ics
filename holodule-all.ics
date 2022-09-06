@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【YAGOOと歴史を振り返る！】ホロライブプロダクション5周年記念特番『ときのかけはし』【#ホロライブプロ5周年】\nhttps://www.youtube.com/watch?v=aVSEJ_Qs2Gk
-DURATION:PT2H
-DTSTART:20220907T120000Z
-SUMMARY:ホロライブ: 【YAGOOと歴史を振り返る！】ホロライブプロダクション5周年記念特番『ときのかけはし』【#ホロライブプロ5周年】
-UID:aVSEJ_Qs2Gk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【お絵かき】今月のメン限用スタンプ描きつつ雑談＆ぷち告知あり 【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=zGhJfDd4s5M
 DURATION:PT2H
 DTSTART:20220905T120000Z
@@ -95,6 +88,13 @@ SUMMARY:ホロライブ: 【師弟愛】継承されしセクシー奥義！新�
 UID:lM3XrttKthw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【徹底解説】ミッション : 猫又おかゆはアルバムの解説をできるのか【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=uGrGOeOd7Js
+DURATION:PT2H
+DTSTART:20220906T110000Z
+SUMMARY:🍙猫又おかゆ: 【徹底解説】ミッション : 猫又おかゆはアルバムの解説をできるのか【猫又おかゆ/ホロライブ】
+UID:uGrGOeOd7Js
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ときのそら５周年記念】想いをこめて届ける3D配信！\nhttps://www.youtube.com/watch?v=TjGC7Jzc5ns
 DURATION:PT2H
 DTSTART:20220907T110000Z
@@ -142,6 +142,13 @@ DURATION:PT2H
 DTSTART:20220905T113204Z
 SUMMARY:Ollie: 【CULT OF THE LAMB】HELLO ARE YOU INTERESTED IN JOINING MY CULT?? #2 【Hololive ID 2nd Gen】
 UID:5EL8JDGDf9s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロスタ生き残り隊】Re:Raft【夕刻ロベル/奏手イヅル/岸堂天真】#3\nhttps://www.youtube.com/watch?v=VXeI_qHXYMQ
+DURATION:PT2H
+DTSTART:20220906T143000Z
+SUMMARY:🍷夕刻ロベル: 【#ホロスタ生き残り隊】Re:Raft【夕刻ロベル/奏手イヅル/岸堂天真】#3
+UID:VXeI_qHXYMQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Project: Zomboid】POV: THE TRUE SURVIVAL BEGINS!!!!\nhttps://www.youtube.com/watch?v=WaO6HZGpulY
@@ -368,6 +375,13 @@ SUMMARY:Mumei: A Stream From Nanashi Mumei
 UID:UTCDDhBPNDo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Enter the Gungeon】 i only get hit because i look at chat :^) 【8】\nhttps://www.youtube.com/watch?v=aqEzBFNtIqA
+DURATION:PT2H
+DTSTART:20220906T140000Z
+SUMMARY:Altare: 【Enter the Gungeon】 i only get hit because i look at chat :^) 【8】
+UID:aqEzBFNtIqA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【プレイバック3Dストリーム】BEGINNING/影山シエン\nhttps://www.youtube.com/watch?v=lLbKbvUWZIk
 DURATION:PT2H
 DTSTART:20220905T083014Z
@@ -461,7 +475,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪Plants VS Zombies≫ lawn mower who? #1\nhttps://www.youtube.com/watch?v=fwJw9ACnkWs
 DURATION:PT2H
-DTSTART:20220906T020000Z
+DTSTART:20220906T022000Z
 SUMMARY:Baelz: ≪Plants VS Zombies≫ lawn mower who? #1
 UID:fwJw9ACnkWs
 END:VEVENT
