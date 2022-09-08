@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【】【】\nhttps://www.youtube.com/watch?v=5e53guRFNf4
+DURATION:PT2H
+DTSTART:20220908T110000Z
+SUMMARY:🥐戌神ころね: 【】【】
+UID:5e53guRFNf4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【YAGOOと歴史を振り返る！】ホロライブプロダクション5周年記念特番『ときのかけはし』【#ホロライブプロ5周年】\nhttps://www.youtube.com/watch?v=aVSEJ_Qs2Gk
 DURATION:PT2H
 DTSTART:20220907T120000Z
@@ -44,6 +51,13 @@ DURATION:PT2H
 DTSTART:20220908T003000Z
 SUMMARY:💋癒月ちょこ: 【Rust】RUST2日目⚡悪魔は銃が欲しい【ホロライブ/癒月ちょこ】
 UID:sm9q5YZRmoo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#生スバル】はなしきけよ～～～～～～～～～～～～～～～～～～～：member only stream【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=p6WxJzYKfHc
+DURATION:PT2H
+DTSTART:20220908T110000Z
+SUMMARY:🚑大空スバル: 【#生スバル】はなしきけよ～～～～～～～～～～～～～～～～～～～：member only stream【ホロライブ/大空スバル】
+UID:p6WxJzYKfHc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ファイアーエムブレム 蒼炎の軌跡】ついに最終回ダアアアア#13【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=oeviEKO6Pjk
@@ -107,6 +121,13 @@ DURATION:PT2H
 DTSTART:20220907T120000Z
 SUMMARY:🚑大空スバル: 【#生スバル】タイタンフォール２させてください：Titanfall 2【ホロライブ/大空スバル】
 UID:AXMtC56Wc_c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VALORANT】スペクター最強！スペクター最強！#shorts\nhttps://www.youtube.com/watch?v=Pq_wXTrlVtQ
+DURATION:PT2H
+DTSTART:20220908T100021Z
+SUMMARY:ラプラス: 【VALORANT】スペクター最強！スペクター最強！#shorts
+UID:Pq_wXTrlVtQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#生スバル】大空スバルは萌えてみたい：【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=sDLAJQDUsn8
@@ -275,5 +296,12 @@ DURATION:PT2H
 DTSTART:20220907T140000Z
 SUMMARY:沙花叉クロヱ: 【Rust】シーズン3に沙花叉参戦！【沙花叉クロヱ/ホロライブ】
 UID:UFQcsZFOjTA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】90万人ありがとう！好きな曲を歌うKARAOKE！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=Tgizx99-Fvc
+DURATION:PT2H
+DTSTART:20220908T133000Z
+SUMMARY:沙花叉クロヱ: 【歌枠】90万人ありがとう！好きな曲を歌うKARAOKE！【沙花叉クロヱ/ホロライブ】
+UID:Tgizx99-Fvc
 END:VEVENT
 END:VCALENDAR
