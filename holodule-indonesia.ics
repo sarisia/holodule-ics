@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【RUST】HELLO Season 3!!!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=OwmqIsOBMTA
-DURATION:PT2H
-DTSTART:20220908T130000Z
-SUMMARY:Anya: 【RUST】HELLO Season 3!!!【hololive Indonesia 2nd Generation】
-UID:OwmqIsOBMTA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Cult of the Lamb】come join me! your life will be blessing with my cult!【#GeeMoon】\nhttps://www.youtube.com/watch?v=uZN5tFi-mmY
 DURATION:PT2H
 DTSTART:20220907T000000Z
@@ -44,6 +37,13 @@ DURATION:PT2H
 DTSTART:20220907T123000Z
 SUMMARY:🔮Moona: 【RUST】 Season 3! here we goooo!!!【GeeMoon】
 UID:rMtnxIshI3I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARCHIVED】#Reine2ndMEPtember BIRTHDAY COUNTDOWN MINI KARAOKE【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=flyfzzaXEA4
+DURATION:PT2H
+DTSTART:20220908T163000Z
+SUMMARY:Reine: 【ARCHIVED】#Reine2ndMEPtember BIRTHDAY COUNTDOWN MINI KARAOKE【Pavolia Reine/hololiveID 2nd gen】
+UID:flyfzzaXEA4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ART】Live2D Bazo Model part.1\nhttps://www.youtube.com/watch?v=5FfvgRB_IGc
@@ -90,7 +90,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:『RUST』Secret base doko?\nhttps://www.youtube.com/watch?v=vaje7yLDLeg
 DURATION:PT2H
-DTSTART:20220908T140000Z
+DTSTART:20220908T141000Z
 SUMMARY:Zeta: 『RUST』Secret base doko?
 UID:vaje7yLDLeg
 END:VEVENT
@@ -100,6 +100,13 @@ DURATION:PT2H
 DTSTART:20220907T131500Z
 SUMMARY:Kobo: 【CS:GO】Tutorial CS:GO dong kak
 UID:FnpBM5dykWA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Random Talk】4AM: holomie time 🍜【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=3U5RAgtyWBo
+DURATION:PT2H
+DTSTART:20220907T210000Z
+SUMMARY:Kaela: 【Random Talk】4AM: holomie time 🍜【Kaela Kovalskia / hololiveID】
+UID:3U5RAgtyWBo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【holoID】EURO TRUCK SIMULATOR 2 : TRUCKING IS MY LYFE !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=QfVSIff79cg
@@ -116,17 +123,17 @@ SUMMARY:Kobo: 【Overcooked! 2】APAKAH AKAN TAMAT DI STREAM INI??【Holoh3ro】
 UID:2CpcyYyDrL0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Random Talk】4AM: holomie time 🍜【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=3U5RAgtyWBo
-DURATION:PT2H
-DTSTART:20220907T210000Z
-SUMMARY:Kaela: 【Random Talk】4AM: holomie time 🍜【Kaela Kovalskia / hololiveID】
-UID:3U5RAgtyWBo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】 Grinding: Diamond\, Ancient Debris\, Warden 💪【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=twGqVUAHI0I
 DURATION:PT2H
 DTSTART:20220907T010000Z
 SUMMARY:Kaela: 【Minecraft】 Grinding: Diamond\, Ancient Debris\, Warden 💪【Kaela Kovalskia / hololive ID】
 UID:twGqVUAHI0I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RUST】HELLO Season 3!!!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=OwmqIsOBMTA
+DURATION:PT2H
+DTSTART:20220908T130000Z
+SUMMARY:Anya: 【RUST】HELLO Season 3!!!【hololive Indonesia 2nd Generation】
+UID:OwmqIsOBMTA
 END:VEVENT
 END:VCALENDAR
