@@ -4,39 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【RUST】 Let's prepare before we get into the business【GeeMoon】\nhttps://www.youtube.com/watch?v=_4zquoE0z-Y
-DURATION:PT2H
-DTSTART:20220909T040000Z
-SUMMARY:🔮Moona: 【RUST】 Let's prepare before we get into the business【GeeMoon】
-UID:_4zquoE0z-Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SPLATOON 3】WE'RE PAINTING THE TOWN HOT PINK!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=bxQfpwZdEdY
-DURATION:PT2H
-DTSTART:20220910T015950Z
-SUMMARY:Ollie: 【SPLATOON 3】WE'RE PAINTING THE TOWN HOT PINK!!【Hololive Indonesia 2nd Gen】
-UID:bxQfpwZdEdY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#Reine2ndMEPtember】REINE MERAKETING ACADEMY!!! WHO WILL CALL?【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=lYN1JQ2HlmI
-DURATION:PT2H
-DTSTART:20220910T030000Z
-SUMMARY:Reine: 【#Reine2ndMEPtember】REINE MERAKETING ACADEMY!!! WHO WILL CALL?【Pavolia Reine/hololiveID 2nd gen】
-UID:lYN1JQ2HlmI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Story Of Seasons: Friends of Mineral Town】 KOBO JADI TUKANG KEBON???\nhttps://www.youtube.com/watch?v=fVtBfaNP0mM
 DURATION:PT2H
 DTSTART:20220909T080000Z
 SUMMARY:Kobo: 【Story Of Seasons: Friends of Mineral Town】 KOBO JADI TUKANG KEBON???
 UID:fVtBfaNP0mM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Need for Speed™ Hot Pursuit Remastered】brummbrummm 🏎️【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=prdI5WXYwL8
-DURATION:PT2H
-DTSTART:20220910T140900Z
-SUMMARY:Kaela: 【Need for Speed™ Hot Pursuit Remastered】brummbrummm 🏎️【Kaela Kovalskia / hololiveID】
-UID:prdI5WXYwL8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】Let's Start A Shop!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=sjE0t-BR8rY
@@ -53,27 +25,6 @@ SUMMARY:Kobo: 【Resident Evil Village】Kobo akan bertemu ibunya??? #1
 UID:4Q4VhQvtwRE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#Reine2ndMEPtember】BABY 3D BIRTHDAY CONCERT!!! (Surprises Inside)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=Tmg_zSjOTtc
-DURATION:PT2H
-DTSTART:20220909T130000Z
-SUMMARY:Reine: 【#Reine2ndMEPtember】BABY 3D BIRTHDAY CONCERT!!! (Surprises Inside)【Pavolia Reine/hololiveID 2nd gen】
-UID:Tmg_zSjOTtc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HoloCure】#5 NEW UPDATES!!! (new gacha)✨【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=WpWBPbLJ6CE
-DURATION:PT2H
-DTSTART:20220909T143000Z
-SUMMARY:Kaela: 【HoloCure】#5 NEW UPDATES!!! (new gacha)✨【Kaela Kovalskia / hololive ID】
-UID:WpWBPbLJ6CE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HoloCure】#6 HARD MODE\, HERE I COME!!!! 😎【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=2se8707MmM8
-DURATION:PT2H
-DTSTART:20220910T061500Z
-SUMMARY:Kaela: 【HoloCure】#6 HARD MODE\, HERE I COME!!!! 😎【Kaela Kovalskia / hololive ID】
-UID:2se8707MmM8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:『SpyParty』catch me if you can (Amelia x Zeta)\nhttps://www.youtube.com/watch?v=3wJ6NqEQQ4Q
 DURATION:PT2H
 DTSTART:20220909T040000Z
@@ -88,6 +39,13 @@ SUMMARY:Reine: 【ARCHIVED】#Reine2ndMEPtember BIRTHDAY COUNTDOWN MINI KARAOKE�
 UID:flyfzzaXEA4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【HoloCure】#5 NEW UPDATES!!! (new gacha)✨【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=WpWBPbLJ6CE
+DURATION:PT2H
+DTSTART:20220909T143000Z
+SUMMARY:Kaela: 【HoloCure】#5 NEW UPDATES!!! (new gacha)✨【Kaela Kovalskia / hololive ID】
+UID:WpWBPbLJ6CE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Half-Life 2】It's All About Safe Driving... Right!?【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=zRzoeA-xyRc
 DURATION:PT2H
 DTSTART:20220909T060000Z
@@ -100,6 +58,55 @@ DURATION:PT2H
 DTSTART:20220909T145908Z
 SUMMARY:Ollie: 【SPLATOON 3】MY FIRST EVER SPLATOON!! AM I A ZOMBIE\, A SQUID\, OR A KID?!【Hololive Indonesia 2nd Gen】
 UID:1OBB4XGmm4E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RUST】 Let's prepare before we get into the business【GeeMoon】\nhttps://www.youtube.com/watch?v=_4zquoE0z-Y
+DURATION:PT2H
+DTSTART:20220909T040000Z
+SUMMARY:🔮Moona: 【RUST】 Let's prepare before we get into the business【GeeMoon】
+UID:_4zquoE0z-Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#Reine2ndMEPtember】REINE MERAKETING ACADEMY!!! WHO WILL CALL?【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=lYN1JQ2HlmI
+DURATION:PT2H
+DTSTART:20220910T030000Z
+SUMMARY:Reine: 【#Reine2ndMEPtember】REINE MERAKETING ACADEMY!!! WHO WILL CALL?【Pavolia Reine/hololiveID 2nd gen】
+UID:lYN1JQ2HlmI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Need for Speed™ Hot Pursuit Remastered】brummbrummm 🏎️【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=prdI5WXYwL8
+DURATION:PT2H
+DTSTART:20220910T140900Z
+SUMMARY:Kaela: 【Need for Speed™ Hot Pursuit Remastered】brummbrummm 🏎️【Kaela Kovalskia / hololiveID】
+UID:prdI5WXYwL8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#Reine2ndMEPtember】BABY 3D BIRTHDAY CONCERT!!! (Surprises Inside)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=Tmg_zSjOTtc
+DURATION:PT2H
+DTSTART:20220909T130000Z
+SUMMARY:Reine: 【#Reine2ndMEPtember】BABY 3D BIRTHDAY CONCERT!!! (Surprises Inside)【Pavolia Reine/hololiveID 2nd gen】
+UID:Tmg_zSjOTtc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HoloCure】#6 HARD MODE\, HERE I COME!!!! 😎【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=2se8707MmM8
+DURATION:PT2H
+DTSTART:20220910T061500Z
+SUMMARY:Kaela: 【HoloCure】#6 HARD MODE\, HERE I COME!!!! 😎【Kaela Kovalskia / hololive ID】
+UID:2se8707MmM8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:『Nintendo Switch Sports』oh look\, i'm working out\nhttps://www.youtube.com/watch?v=Cg02Ng5duuo
+DURATION:PT2H
+DTSTART:20220910T150000Z
+SUMMARY:Zeta: 『Nintendo Switch Sports』oh look\, i'm working out
+UID:Cg02Ng5duuo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SPLATOON 3】WE'RE PAINTING THE TOWN HOT PINK!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=bxQfpwZdEdY
+DURATION:PT2H
+DTSTART:20220910T015950Z
+SUMMARY:Ollie: 【SPLATOON 3】WE'RE PAINTING THE TOWN HOT PINK!!【Hololive Indonesia 2nd Gen】
+UID:bxQfpwZdEdY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【AREA15】♡We got something for you♡【hololiveID】\nhttps://www.youtube.com/watch?v=F8AjENJAY9k
