@@ -4,25 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Need for Speed™ Hot Pursuit Remastered】brummbrummm 🏎️【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=prdI5WXYwL8
-DURATION:PT2H
-DTSTART:20220910T140900Z
-SUMMARY:Kaela: 【Need for Speed™ Hot Pursuit Remastered】brummbrummm 🏎️【Kaela Kovalskia / hololiveID】
-UID:prdI5WXYwL8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#Reine2ndMEPtember】REINE MERAKETING ACADEMY!!! WHO WILL CALL?【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=lYN1JQ2HlmI
-DURATION:PT2H
-DTSTART:20220910T030000Z
-SUMMARY:Reine: 【#Reine2ndMEPtember】REINE MERAKETING ACADEMY!!! WHO WILL CALL?【Pavolia Reine/hololiveID 2nd gen】
-UID:lYN1JQ2HlmI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【League of Legends: Wild Rift】#24 morning brain goes brrr【ElaOnDuty】\nhttps://www.youtube.com/watch?v=pIB8ophoJlw
 DURATION:PT2H
 DTSTART:20220911T035100Z
 SUMMARY:Kaela: 【League of Legends: Wild Rift】#24 morning brain goes brrr【ElaOnDuty】
 UID:pIB8ophoJlw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Holocure】NEW CHARACTERS【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=v5p8eHiO0ks
+DURATION:PT2H
+DTSTART:20220911T090000Z
+SUMMARY:Reine: 【Holocure】NEW CHARACTERS【Pavolia Reine/hololiveID 2nd gen】
+UID:v5p8eHiO0ks
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】Let's Start A Shop!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=sjE0t-BR8rY
@@ -37,6 +30,27 @@ DURATION:PT2H
 DTSTART:20220910T131500Z
 SUMMARY:Kobo: 【Resident Evil Village】Kobo akan bertemu ibunya??? #1
 UID:4Q4VhQvtwRE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HOLOCURE】HELLO NEW UPDATES\, I'M OLLIE【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=uVMF5GHywdQ
+DURATION:PT2H
+DTSTART:20220911T020506Z
+SUMMARY:Ollie: 【HOLOCURE】HELLO NEW UPDATES\, I'M OLLIE【Hololive Indonesia 2nd Gen】
+UID:uVMF5GHywdQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Need for Speed™ Hot Pursuit Remastered】brummbrummm 🏎️【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=prdI5WXYwL8
+DURATION:PT2H
+DTSTART:20220910T140900Z
+SUMMARY:Kaela: 【Need for Speed™ Hot Pursuit Remastered】brummbrummm 🏎️【Kaela Kovalskia / hololiveID】
+UID:prdI5WXYwL8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#Reine2ndMEPtember】REINE MERAKETING ACADEMY!!! WHO WILL CALL?【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=lYN1JQ2HlmI
+DURATION:PT2H
+DTSTART:20220910T030000Z
+SUMMARY:Reine: 【#Reine2ndMEPtember】REINE MERAKETING ACADEMY!!! WHO WILL CALL?【Pavolia Reine/hololiveID 2nd gen】
+UID:lYN1JQ2HlmI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HoloCure】#6 HARD MODE\, HERE I COME!!!! 😎【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=2se8707MmM8
@@ -74,6 +88,13 @@ SUMMARY:Anya: 【Catizens】BUILDING MY OWN CAT KINGDOM【hololive Indonesia 2nd
 UID:hKVM6gmt_j0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【holoID】Santuy【Ayunda Risu】\nhttps://www.youtube.com/watch?v=HqXnPYgML-0
+DURATION:PT2H
+DTSTART:20220911T130000Z
+SUMMARY:🐿Risu: 【holoID】Santuy【Ayunda Risu】
+UID:HqXnPYgML-0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【SPLATOON 3】WE'RE PAINTING THE TOWN HOT PINK!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=bxQfpwZdEdY
 DURATION:PT2H
 DTSTART:20220910T015950Z
@@ -93,12 +114,5 @@ DURATION:PT2H
 DTSTART:20220910T120000Z
 SUMMARY:🔮Moona: 【AREA15】♡We got something for you♡【hololiveID】
 UID:F8AjENJAY9k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HOLOCURE】HELLO NEW UPDATES\, I'M OLLIE【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=uVMF5GHywdQ
-DURATION:PT2H
-DTSTART:20220911T020506Z
-SUMMARY:Ollie: 【HOLOCURE】HELLO NEW UPDATES\, I'M OLLIE【Hololive Indonesia 2nd Gen】
-UID:uVMF5GHywdQ
 END:VEVENT
 END:VCALENDAR
