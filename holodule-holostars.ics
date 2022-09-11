@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【マーダーミステリー】記憶を脱ぐ日【岸堂天真/花咲みやび/アルランディス/奏手イヅル/夕刻ロベル/ホロスターズ】 #ホロスタ記憶を脱ぐ日\nhttps://www.youtube.com/watch?v=v9R7_Pmgt7o
+DURATION:PT2H
+DTSTART:20220912T110000Z
+SUMMARY:🎸奏手イヅル: 【マーダーミステリー】記憶を脱ぐ日【岸堂天真/花咲みやび/アルランディス/奏手イヅル/夕刻ロベル/ホロスターズ】 #ホロスタ記憶を脱ぐ日
+UID:v9R7_Pmgt7o
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Splatoon3】さあ始まる対人戦【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=GhW4eyt3lGM
 DURATION:PT2H
 DTSTART:20220911T060000Z
@@ -107,12 +114,5 @@ DURATION:PT2H
 DTSTART:20220911T070000Z
 SUMMARY:緋崎ガンマ: 【イラストメイキング】ときのそら先輩を描いてみる！！【#緋崎ガンマ / #ホロスターズ  / #イラスト / #お絵描き / ホロライブプロダクション】
 UID:5JVwE0d6tHo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:スプラトゥーン３ 雑魚丸水産。\nhttps://www.youtube.com/watch?v=TCPm3X21Gw4
-DURATION:PT2H
-DTSTART:20220911T140000Z
-SUMMARY:🎭アステル・レダ: スプラトゥーン３ 雑魚丸水産。
-UID:TCPm3X21Gw4
 END:VEVENT
 END:VCALENDAR
