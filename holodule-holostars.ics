@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 Cult of the Lamb 】 子羊達を導く宗教はじめます＃２【#羽継烏有 /#アップロー /#holostars 】\nhttps://www.youtube.com/watch?v=yp5se6aIA3w
-DURATION:PT2H
-DTSTART:20220912T133000Z
-SUMMARY:羽継烏有: 【 Cult of the Lamb 】 子羊達を導く宗教はじめます＃２【#羽継烏有 /#アップロー /#holostars 】
-UID:yp5se6aIA3w
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【マーダーミステリー】記憶を脱ぐ日【奏手イヅル/花咲みやび/アルランディス/岸堂天真/夕刻ロベル/ホロスターズ】 #ホロスタ記憶を脱ぐ日\nhttps://www.youtube.com/watch?v=v9R7_Pmgt7o
 DURATION:PT2H
 DTSTART:20220912T110000Z
@@ -18,53 +11,11 @@ SUMMARY:🎸奏手イヅル: 【マーダーミステリー】記憶を脱ぐ日
 UID:v9R7_Pmgt7o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン３】ザップウウウウウウウウウウウウウウウン【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=xkPLcICiJ6I
-DURATION:PT2H
-DTSTART:20220912T130000Z
-SUMMARY:影山シエン: 【スプラトゥーン３】ザップウウウウウウウウウウウウウウウン【影山シエン/ホロスターズ】
-UID:xkPLcICiJ6I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Splatoon3】平日昼間のガチマッチは非常にレベルが高い気がするのでやべぇってなったらシャケバイトする枠【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=K2MMNMZYBZs
 DURATION:PT2H
 DTSTART:20220912T060000Z
 SUMMARY:🍕アルランディス: 【Splatoon3】平日昼間のガチマッチは非常にレベルが高い気がするのでやべぇってなったらシャケバイトする枠【アルランディス/ホロスターズ】
 UID:K2MMNMZYBZs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3】今日は命に代えてもAの世界に入りたい！！！4日目【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=QImlVZMp6mY
-DURATION:PT2H
-DTSTART:20220911T224500Z
-SUMMARY:🦔💨岸堂天真: 【スプラトゥーン3】今日は命に代えてもAの世界に入りたい！！！4日目【岸堂天真/ホロスターズ】
-UID:QImlVZMp6mY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Vampire survivors】久々のヴァンパイア狩り【荒咬オウガ　ホロスターズ】\nhttps://www.youtube.com/watch?v=RH0Kmfch8wA
-DURATION:PT2H
-DTSTART:20220912T140000Z
-SUMMARY:荒咬オウガ: 【Vampire survivors】久々のヴァンパイア狩り【荒咬オウガ　ホロスターズ】
-UID:RH0Kmfch8wA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ネザライトがほ゛し゛い゛ / 水無世燐央【UPROAR!!/アップロー】\nhttps://www.youtube.com/watch?v=m9jBMnHq_2s
-DURATION:PT2H
-DTSTART:20220912T030000Z
-SUMMARY:水無世燐央: 【Minecraft】ネザライトがほ゛し゛い゛ / 水無世燐央【UPROAR!!/アップロー】
-UID:m9jBMnHq_2s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【耐久歌枠】登録者8万人達成するまで歌いながら最大負荷リングフィットアドベンチャー【#緋崎ガンマ / #ホロスターズ  #アップロー 】\nhttps://www.youtube.com/watch?v=3HasSvwhP2k
-DURATION:PT2H
-DTSTART:20220913T090000Z
-SUMMARY:緋崎ガンマ: 【耐久歌枠】登録者8万人達成するまで歌いながら最大負荷リングフィットアドベンチャー【#緋崎ガンマ / #ホロスターズ  #アップロー 】
-UID:3HasSvwhP2k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【プレイバック3Dストリーム】世界の真ん中を歩く/岸堂天真\nhttps://www.youtube.com/watch?v=lQTWBoXQKr4
-DURATION:PT2H
-DTSTART:20220912T090022Z
-SUMMARY:ホロスターズ: 【プレイバック3Dストリーム】世界の真ん中を歩く/岸堂天真
-UID:lQTWBoXQKr4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【9月12日】第14回 #花岸れいでぃお【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=ojvyavCZD60
@@ -81,11 +32,25 @@ SUMMARY:🍷夕刻ロベル: 【#ホロスタ記憶を脱ぐ日】マーダー�
 UID:FbU5GYupTDo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【手描き切り抜き】メルカリでカーテン買ってやらかした話【Vtuberあるある】 #shorts  #イラスト  #vtuber\nhttps://www.youtube.com/watch?v=pxbYqf2tIJo
+DESCRIPTION:【Vampire survivors】久々のヴァンパイア狩り【荒咬オウガ　ホロスターズ】\nhttps://www.youtube.com/watch?v=RH0Kmfch8wA
 DURATION:PT2H
-DTSTART:20220912T142013Z
-SUMMARY:緋崎ガンマ: 【手描き切り抜き】メルカリでカーテン買ってやらかした話【Vtuberあるある】 #shorts  #イラスト  #vtuber
-UID:pxbYqf2tIJo
+DTSTART:20220912T140000Z
+SUMMARY:荒咬オウガ: 【Vampire survivors】久々のヴァンパイア狩り【荒咬オウガ　ホロスターズ】
+UID:RH0Kmfch8wA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】ネザライトがほ゛し゛い゛ / 水無世燐央【UPROAR!!/アップロー】\nhttps://www.youtube.com/watch?v=m9jBMnHq_2s
+DURATION:PT2H
+DTSTART:20220912T030000Z
+SUMMARY:水無世燐央: 【Minecraft】ネザライトがほ゛し゛い゛ / 水無世燐央【UPROAR!!/アップロー】
+UID:m9jBMnHq_2s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マーダーミステリー】記憶を脱ぐ日 カルテ視点【花咲みやび/ホロスターズ】 #ホロスタ記憶を脱ぐ日\nhttps://www.youtube.com/watch?v=fg6TqypcPuE
+DURATION:PT2H
+DTSTART:20220912T110000Z
+SUMMARY:🌺花咲みやび: 【マーダーミステリー】記憶を脱ぐ日 カルテ視点【花咲みやび/ホロスターズ】 #ホロスタ記憶を脱ぐ日
+UID:fg6TqypcPuE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ロベルないとめあ】『スプラトゥーン3』を楽しむ我々【夕刻ロベル/神楽めあ】\nhttps://www.youtube.com/watch?v=12ErPSM50iA
@@ -107,5 +72,61 @@ DURATION:PT2H
 DTSTART:20220914T110000Z
 SUMMARY:ホロスターズ: 【緊急！？】UPROAR!!企画会議！！【#ジャンプロ】
 UID:ouGNhGz2qr4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Cult of the Lamb 】 子羊達を導く宗教はじめます＃２【#羽継烏有 /#アップロー /#holostars 】\nhttps://www.youtube.com/watch?v=yp5se6aIA3w
+DURATION:PT2H
+DTSTART:20220912T133000Z
+SUMMARY:羽継烏有: 【 Cult of the Lamb 】 子羊達を導く宗教はじめます＃２【#羽継烏有 /#アップロー /#holostars 】
+UID:yp5se6aIA3w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スプラトゥーン３】ザップウウウウウウウウウウウウウウウン【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=xkPLcICiJ6I
+DURATION:PT2H
+DTSTART:20220912T130000Z
+SUMMARY:影山シエン: 【スプラトゥーン３】ザップウウウウウウウウウウウウウウウン【影山シエン/ホロスターズ】
+UID:xkPLcICiJ6I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スプラトゥーン3】今日は命に代えてもAの世界に入りたい！！！4日目【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=QImlVZMp6mY
+DURATION:PT2H
+DTSTART:20220911T224500Z
+SUMMARY:🦔💨岸堂天真: 【スプラトゥーン3】今日は命に代えてもAの世界に入りたい！！！4日目【岸堂天真/ホロスターズ】
+UID:QImlVZMp6mY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【耐久歌枠】登録者8万人達成するまで歌いながら最大負荷リングフィットアドベンチャー【#緋崎ガンマ / #ホロスターズ  #アップロー 】\nhttps://www.youtube.com/watch?v=3HasSvwhP2k
+DURATION:PT2H
+DTSTART:20220913T090000Z
+SUMMARY:緋崎ガンマ: 【耐久歌枠】登録者8万人達成するまで歌いながら最大負荷リングフィットアドベンチャー【#緋崎ガンマ / #ホロスターズ  #アップロー 】
+UID:3HasSvwhP2k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【プレイバック3Dストリーム】世界の真ん中を歩く/岸堂天真\nhttps://www.youtube.com/watch?v=lQTWBoXQKr4
+DURATION:PT2H
+DTSTART:20220912T090022Z
+SUMMARY:ホロスターズ: 【プレイバック3Dストリーム】世界の真ん中を歩く/岸堂天真
+UID:lQTWBoXQKr4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マーダーミステリー】記憶を脱ぐ日【岸堂天真/花咲みやび/アルランディス/奏手イヅル/夕刻ロベル/ホロスターズ】 #ホロスタ記憶を脱ぐ日\nhttps://www.youtube.com/watch?v=EjCxbvZWBdI
+DURATION:PT2H
+DTSTART:20220912T110000Z
+SUMMARY:🦔💨岸堂天真: 【マーダーミステリー】記憶を脱ぐ日【岸堂天真/花咲みやび/アルランディス/奏手イヅル/夕刻ロベル/ホロスターズ】 #ホロスタ記憶を脱ぐ日
+UID:EjCxbvZWBdI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マーダーミステリー】記憶を脱ぐ日【岸堂天真/花咲みやび/奏手イヅル/夕刻ロベル/アルランディス/ホロスターズ】 #ホロスタ記憶を脱ぐ日\nhttps://www.youtube.com/watch?v=znhtF3OC1_o
+DURATION:PT2H
+DTSTART:20220912T110000Z
+SUMMARY:🍕アルランディス: 【マーダーミステリー】記憶を脱ぐ日【岸堂天真/花咲みやび/奏手イヅル/夕刻ロベル/アルランディス/ホロスターズ】 #ホロスタ記憶を脱ぐ日
+UID:znhtF3OC1_o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【手描き切り抜き】メルカリでカーテン買ってやらかした話【Vtuberあるある】 #shorts  #イラスト  #vtuber\nhttps://www.youtube.com/watch?v=pxbYqf2tIJo
+DURATION:PT2H
+DTSTART:20220912T142013Z
+SUMMARY:緋崎ガンマ: 【手描き切り抜き】メルカリでカーテン買ってやらかした話【Vtuberあるある】 #shorts  #イラスト  #vtuber
+UID:pxbYqf2tIJo
 END:VEVENT
 END:VCALENDAR
