@@ -4,11 +4,32 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:FROGIARA ATTACK\nhttps://www.youtube.com/watch?v=iM61H0KRD2Y
+DURATION:PT2H
+DTSTART:20220912T160332Z
+SUMMARY:Kiara: FROGIARA ATTACK
+UID:iM61H0KRD2Y
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Takanashi Kiara "DO U" MV TEASER\nhttps://www.youtube.com/watch?v=N_7Vx3gQx7A
 DURATION:PT2H
 DTSTART:20220911T221555Z
 SUMMARY:Kiara: Takanashi Kiara "DO U" MV TEASER
 UID:N_7Vx3gQx7A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Cult of the Lamb】 Will you join my cult?\nhttps://www.youtube.com/watch?v=OFEc6KLDxVQ
+DURATION:PT2H
+DTSTART:20220913T020000Z
+SUMMARY:Fauna: 【Cult of the Lamb】 Will you join my cult?
+UID:OFEc6KLDxVQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SUPA RUSTDAY】Fixin' Cars n Readin' Supachats\nhttps://www.youtube.com/watch?v=iG3EfvgBY44
+DURATION:PT2H
+DTSTART:20220912T023000Z
+SUMMARY:Amelia: 【SUPA RUSTDAY】Fixin' Cars n Readin' Supachats
+UID:iG3EfvgBY44
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HOLOCURE】Lvl 5 Halu CHALLENGE !!\nhttps://www.youtube.com/watch?v=GP_0SSBMsCo
@@ -53,34 +74,6 @@ SUMMARY:Amelia: ‧͙⁺˚*･༓【MYTH ANNIVERSARY】༓･*˚⁺‧͙ ・
 UID:LTgoqNDkLkM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:FROGIARA ATTACK\nhttps://www.youtube.com/watch?v=iM61H0KRD2Y
-DURATION:PT2H
-DTSTART:20220912T160332Z
-SUMMARY:Kiara: FROGIARA ATTACK
-UID:iM61H0KRD2Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Cult of the Lamb】 Will you join my cult?\nhttps://www.youtube.com/watch?v=OFEc6KLDxVQ
-DURATION:PT2H
-DTSTART:20220913T020000Z
-SUMMARY:Fauna: 【Cult of the Lamb】 Will you join my cult?
-UID:OFEc6KLDxVQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SUPA RUSTDAY】Fixin' Cars n Readin' Supachats\nhttps://www.youtube.com/watch?v=iG3EfvgBY44
-DURATION:PT2H
-DTSTART:20220912T023000Z
-SUMMARY:Amelia: 【SUPA RUSTDAY】Fixin' Cars n Readin' Supachats
-UID:iG3EfvgBY44
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DEBUT STREAM】Sprechen Sie Deutsch? #kfp #キアライブ\nhttps://www.youtube.com/watch?v=XNnDHVbOBas
-DURATION:PT2H
-DTSTART:20220913T180000Z
-SUMMARY:SubKiara: 【DEBUT STREAM】Sprechen Sie Deutsch? #kfp #キアライブ
-UID:XNnDHVbOBas
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Holocure】NEW UPDATE & CHARACTERS!!\nhttps://www.youtube.com/watch?v=Tivn6IV_P_A
 DURATION:PT2H
 DTSTART:20220912T003500Z
@@ -88,11 +81,11 @@ SUMMARY:IRyS: 【Holocure】NEW UPDATE & CHARACTERS!!
 UID:Tivn6IV_P_A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Splatoon 3】SPLATTING MAKES ME FEEL GOoD\nhttps://www.youtube.com/watch?v=-r2gt_9x4Sg
+DESCRIPTION:【DEBUT STREAM】Sprechen Sie Deutsch? #kfp #キアライブ\nhttps://www.youtube.com/watch?v=XNnDHVbOBas
 DURATION:PT2H
-DTSTART:20220913T010000Z
-SUMMARY:IRyS: 【Splatoon 3】SPLATTING MAKES ME FEEL GOoD
-UID:-r2gt_9x4Sg
+DTSTART:20220913T180000Z
+SUMMARY:SubKiara: 【DEBUT STREAM】Sprechen Sie Deutsch? #kfp #キアライブ
+UID:XNnDHVbOBas
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【COOKING SIMULATOR】There's A Rat Under Her Hat!!! with @Hakos Baelz Ch. hololive-EN\nhttps://www.youtube.com/watch?v=qMu-VgpgTqc
