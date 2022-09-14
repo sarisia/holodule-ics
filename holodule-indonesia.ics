@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】WE MADE IT TO THE TOP OF THE WORLD【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=l5rLrKGNRpI
-DURATION:PT2H
-DTSTART:20220912T212300Z
-SUMMARY:Kaela: 【Minecraft】WE MADE IT TO THE TOP OF THE WORLD【Kaela Kovalskia / hololive ID】
-UID:l5rLrKGNRpI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【RUST】 Prepare everything!【GeeMoon】\nhttps://www.youtube.com/watch?v=LqlsfwJ1N5E
 DURATION:PT2H
 DTSTART:20220913T000000Z
@@ -25,11 +18,11 @@ SUMMARY:Kobo: 【The Mortuary Assistant】gatau dapet ending apa TAPI FIX TIDAK 
 UID:-f0nADv4bfw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:『SPONGEBOB』Battle for bikini bottom!\nhttps://www.youtube.com/watch?v=kKI4dp2nr7M
+DESCRIPTION:【Rust】#8 wake up and Rust【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=JO9FdmTqa9Q
 DURATION:PT2H
-DTSTART:20220913T150000Z
-SUMMARY:Zeta: 『SPONGEBOB』Battle for bikini bottom!
-UID:kKI4dp2nr7M
+DTSTART:20220914T003000Z
+SUMMARY:Kaela: 【Rust】#8 wake up and Rust【Kaela Kovalskia / hololiveID】
+UID:JO9FdmTqa9Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:『CULT OF THE LAMB』you dare defy me? i am zeta sama! #3\nhttps://www.youtube.com/watch?v=CIdvI--YOOU
@@ -39,17 +32,31 @@ SUMMARY:Zeta: 『CULT OF THE LAMB』you dare defy me? i am zeta sama! #3
 UID:CIdvI--YOOU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HoloCure】NEW OFFICEEEEE (both game and me too)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=dAEEMpkAXMA
-DURATION:PT2H
-DTSTART:20220913T131500Z
-SUMMARY:Reine: 【HoloCure】NEW OFFICEEEEE (both game and me too)【Pavolia Reine/hololiveID 2nd gen】
-UID:dAEEMpkAXMA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Cheap Golf】hole【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=PbJ6W5s2UuM
 DURATION:PT2H
 DTSTART:20220913T143600Z
 SUMMARY:Kaela: 【Cheap Golf】hole【Kaela Kovalskia / hololiveID】
 UID:PbJ6W5s2UuM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】WE MADE IT TO THE TOP OF THE WORLD【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=l5rLrKGNRpI
+DURATION:PT2H
+DTSTART:20220912T212300Z
+SUMMARY:Kaela: 【Minecraft】WE MADE IT TO THE TOP OF THE WORLD【Kaela Kovalskia / hololive ID】
+UID:l5rLrKGNRpI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:『SPONGEBOB』Battle for bikini bottom!\nhttps://www.youtube.com/watch?v=kKI4dp2nr7M
+DURATION:PT2H
+DTSTART:20220913T150000Z
+SUMMARY:Zeta: 『SPONGEBOB』Battle for bikini bottom!
+UID:kKI4dp2nr7M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HoloCure】NEW OFFICEEEEE (both game and me too)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=dAEEMpkAXMA
+DURATION:PT2H
+DTSTART:20220913T131500Z
+SUMMARY:Reine: 【HoloCure】NEW OFFICEEEEE (both game and me too)【Pavolia Reine/hololiveID 2nd gen】
+UID:dAEEMpkAXMA
 END:VEVENT
 END:VCALENDAR
