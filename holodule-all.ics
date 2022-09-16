@@ -41,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【もろだし相撲】あまりにも健全なゲームをやらさせていただく！！【#緋崎ガンマ / #ホロスターズ  / #アップロー  】\nhttps://www.youtube.com/watch?v=DOJ1-yZPFlw
 DURATION:PT2H
-DTSTART:20220916T093000Z
+DTSTART:20220916T091500Z
 SUMMARY:緋崎ガンマ: 【もろだし相撲】あまりにも健全なゲームをやらさせていただく！！【#緋崎ガンマ / #ホロスターズ  / #アップロー  】
 UID:DOJ1-yZPFlw
 END:VEVENT
@@ -58,13 +58,6 @@ DURATION:PT2H
 DTSTART:20220915T133000Z
 SUMMARY:Kobo: 【Super Bunny Man】Bunny unchi ojiisan w/ @Gamma Ch. 緋崎ガンマ - UPROAR!! -
 UID:BOhjAPTeBQk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】 PANDA PART 2 【9】\nhttps://www.youtube.com/watch?v=-OCN1K5scLI
-DURATION:PT2H
-DTSTART:20220915T230000Z
-SUMMARY:Altare: 【MINECRAFT】 PANDA PART 2 【9】
-UID:-OCN1K5scLI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Raft】Omet Adventures【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=tnxqtNunuOU
@@ -151,6 +144,13 @@ SUMMARY:Zeta: 『AMNESIA: The Dark Descent』i dont remember
 UID:t4Y1LdrvoM8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Rust】RUST6日目⚡ちょこ先生の戦車ガチャ【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=V0gSNAJCYpQ
+DURATION:PT2H
+DTSTART:20220916T010000Z
+SUMMARY:💋癒月ちょこ: 【Rust】RUST6日目⚡ちょこ先生の戦車ガチャ【ホロライブ/癒月ちょこ】
+UID:V0gSNAJCYpQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Kagome - かごめ | Airani Iofifteen Cover 「歌ってみた」\nhttps://www.youtube.com/watch?v=EO4RrOyLoU4
 DURATION:PT2H
 DTSTART:20220915T120000Z
@@ -226,6 +226,13 @@ DURATION:PT2H
 DTSTART:20220915T140000Z
 SUMMARY:🌙紫咲シオン: 【歌枠/雑談】おひさしぶり～～～歌う！！【ホロライブ/紫咲シオン】
 UID:7XqmMABktUg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【公認ミラー配信】TGS2022カプコンオンラインプログラムを一緒に観よう！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=PoCVNeb5cZw
+DURATION:PT2H
+DTSTART:20220915T134500Z
+SUMMARY:博衣こより: 【公認ミラー配信】TGS2022カプコンオンラインプログラムを一緒に観よう！【博衣こより/ホロライブ】
+UID:PoCVNeb5cZw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【グロホラー注意】バケモノが徘徊するモーテル…Oxide Room 104【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=Y37nblwO4UQ
@@ -319,13 +326,6 @@ SUMMARY:Syrios: 【APEX】アステル先輩と@1を求める旅【JP Stream】
 UID:Q-DMA4Ugk_4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RUST SEASON 3】NO POLAR BEARS ALLOWED. FIX MY HOUSE in the morning【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=e_w9v3WiHtw
-DURATION:PT2H
-DTSTART:20220915T040000Z
-SUMMARY:Reine: 【RUST SEASON 3】NO POLAR BEARS ALLOWED. FIX MY HOUSE in the morning【Pavolia Reine/hololiveID 2nd gen】
-UID:e_w9v3WiHtw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#最終回】コードギアス反逆のルルーシュ同時試聴：CODE GEASS Lelouch of the Rebellion【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=o-V3-2PDknA
 DURATION:PT2H
 DTSTART:20220915T120000Z
@@ -333,11 +333,25 @@ SUMMARY:🚑大空スバル: 【#最終回】コードギアス反逆のルル�
 UID:o-V3-2PDknA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【RUST SEASON 3】NO POLAR BEARS ALLOWED. FIX MY HOUSE in the morning【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=e_w9v3WiHtw
+DURATION:PT2H
+DTSTART:20220915T040000Z
+SUMMARY:Reine: 【RUST SEASON 3】NO POLAR BEARS ALLOWED. FIX MY HOUSE in the morning【Pavolia Reine/hololiveID 2nd gen】
+UID:e_w9v3WiHtw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Splatoon 3】 STAY FRESH EAT FEESH\nhttps://www.youtube.com/watch?v=u92WrHnuZQE
 DURATION:PT2H
 DTSTART:20220915T210000Z
 SUMMARY:Ina: 【Splatoon 3】 STAY FRESH EAT FEESH
 UID:u92WrHnuZQE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【配信予定】プレゼント作りをする枠【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=m4VOPIVZdyQ
+DURATION:PT2H
+DTSTART:20220916T120000Z
+SUMMARY:👯兎田ぺこら: 【配信予定】プレゼント作りをする枠【ホロライブ/兎田ぺこら】
+UID:m4VOPIVZdyQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン３】もうちょいでS行くザップマン【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=cI3s4YpDlP0
@@ -382,6 +396,13 @@ SUMMARY:🍕アルランディス: 【Minecraft1.19】土地広げるけどそ�
 UID:AKB2W9vF174
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 Minecraft 】Oh\, hello. I didn't see you there. Like what you see?\nhttps://www.youtube.com/watch?v=O4HZle4I7Qg
+DURATION:PT2H
+DTSTART:20220915T170000Z
+SUMMARY:Vesper: 【 Minecraft 】Oh\, hello. I didn't see you there. Like what you see?
+UID:O4HZle4I7Qg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Sucker for Love: First Date】 Please Let Me Date the Eldritch Catgirl\nhttps://www.youtube.com/watch?v=fO13arQBv1k
 DURATION:PT2H
 DTSTART:20220915T220000Z
@@ -424,13 +445,6 @@ SUMMARY:🍷夕刻ロベル: 【スプラトゥーン3】俺は弱いし皆は�
 UID:gTur8yrcul0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Ame Tierlist】I CANT HOLD ALL THESE VARIANTS\nhttps://www.youtube.com/watch?v=czROWwUEWJQ
-DURATION:PT2H
-DTSTART:20220915T013000Z
-SUMMARY:Amelia: 【Ame Tierlist】I CANT HOLD ALL THESE VARIANTS
-UID:czROWwUEWJQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【たこぱサバイバル】生き残りをかけて同期とたこ焼きを奪い合う【#緋崎ガンマ / #夜十神封魔  / #羽継烏有  / #水無世燐央  / #ホロスターズ  / #放課後アップロー】\nhttps://www.youtube.com/watch?v=qWIT5VH2iYc
 DURATION:PT2H
 DTSTART:20220917T090000Z
@@ -445,10 +459,10 @@ SUMMARY:ホロライブ: 【ムダ？】アレってこう使うのか！【ム�
 UID:Eq276JK6C40
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ホロライブプロダクションのオーディションで合格するために実践したこと【Vtuberあるある】 #shorts    #イラスト  #vtuber\nhttps://www.youtube.com/watch?v=7O2V5PEXjsc
+DESCRIPTION:ホロライブプロダクションのオーディションで合格するために実践したこと3選【Vtuberあるある】 #shorts    #イラスト  #vtuber\nhttps://www.youtube.com/watch?v=7O2V5PEXjsc
 DURATION:PT2H
 DTSTART:20220915T104901Z
-SUMMARY:緋崎ガンマ: ホロライブプロダクションのオーディションで合格するために実践したこと【Vtuberあるある】 #shorts    #イラスト  #vtuber
+SUMMARY:緋崎ガンマ: ホロライブプロダクションのオーディションで合格するために実践したこと3選【Vtuberあるある】 #shorts    #イラスト  #vtuber
 UID:7O2V5PEXjsc
 END:VEVENT
 BEGIN:VEVENT
@@ -515,11 +529,11 @@ SUMMARY:Syrios: 【The Legend Of Zelda: BOTW】Saving Princess Maguni and Defeat
 UID:XCesbxMAhq8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【公認ミラー配信】TGS2022カプコンオンラインプログラムを一緒に観よう！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=PoCVNeb5cZw
+DESCRIPTION:【Ame Tierlist】I CANT HOLD ALL THESE VARIANTS\nhttps://www.youtube.com/watch?v=czROWwUEWJQ
 DURATION:PT2H
-DTSTART:20220915T134500Z
-SUMMARY:博衣こより: 【公認ミラー配信】TGS2022カプコンオンラインプログラムを一緒に観よう！【博衣こより/ホロライブ】
-UID:PoCVNeb5cZw
+DTSTART:20220915T013000Z
+SUMMARY:Amelia: 【Ame Tierlist】I CANT HOLD ALL THESE VARIANTS
+UID:czROWwUEWJQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ポルカの伝説】ゾッとする体験談・・・座員の怖い話\nhttps://www.youtube.com/watch?v=89T6ZnX2OGE
