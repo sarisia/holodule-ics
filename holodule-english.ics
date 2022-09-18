@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:[ORIGINAL ANIMATION] Gawr Gura - Shark'd 🦈 #GawrGura\nhttps://www.youtube.com/watch?v=kJGsWORSg-4
-DURATION:PT2H
-DTSTART:20220918T020000Z
-SUMMARY:Gura: [ORIGINAL ANIMATION] Gawr Gura - Shark'd 🦈 #GawrGura
-UID:kJGsWORSg-4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪Insaniquarium: Deluxe≫ SHAKETARO RETURNS\nhttps://www.youtube.com/watch?v=2dfkwwX5-VA
 DURATION:PT2H
 DTSTART:20220918T050000Z
@@ -18,18 +11,25 @@ SUMMARY:Baelz: ≪Insaniquarium: Deluxe≫ SHAKETARO RETURNS
 UID:2dfkwwX5-VA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【3D LIVE !】SHARK 3D LIVE! #Gura3DLive 💦\nhttps://www.youtube.com/watch?v=5-hwTE_O8WY
+DESCRIPTION:【CHAT】EVERYTHING!! 3D Live!! Animation watch along !\nhttps://www.youtube.com/watch?v=llPUpqK2qNY
 DURATION:PT2H
-DTSTART:20220918T010000Z
-SUMMARY:Gura: 【3D LIVE !】SHARK 3D LIVE! #Gura3DLive 💦
-UID:5-hwTE_O8WY
+DTSTART:20220919T000000Z
+SUMMARY:Gura: 【CHAT】EVERYTHING!! 3D Live!! Animation watch along !
+UID:llPUpqK2qNY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:DO U - Takanashi Kiara (Official Music Video)\nhttps://www.youtube.com/watch?v=QI96hnhcr2E
+DESCRIPTION:【RUST】MOUNTAIN TOP BABY  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=jajPoZPHyAE
 DURATION:PT2H
-DTSTART:20220918T150000Z
-SUMMARY:Kiara: DO U - Takanashi Kiara (Official Music Video)
-UID:QI96hnhcr2E
+DTSTART:20220917T150000Z
+SUMMARY:Kiara: 【RUST】MOUNTAIN TOP BABY  #kfp #キアライブ
+UID:jajPoZPHyAE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[ORIGINAL ANIMATION] Gawr Gura - Shark'd 🦈 #GawrGura\nhttps://www.youtube.com/watch?v=kJGsWORSg-4
+DURATION:PT2H
+DTSTART:20220918T020000Z
+SUMMARY:Gura: [ORIGINAL ANIMATION] Gawr Gura - Shark'd 🦈 #GawrGura
+UID:kJGsWORSg-4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mein Erstes Mal In RUST.... Aller Anfang Ist SCHWER!\nhttps://www.youtube.com/watch?v=NyohqdmfaAY
@@ -39,6 +39,13 @@ SUMMARY:SubKiara: Mein Erstes Mal In RUST.... Aller Anfang Ist SCHWER!
 UID:NyohqdmfaAY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:DO U - Takanashi Kiara (Official Music Video)\nhttps://www.youtube.com/watch?v=QI96hnhcr2E
+DURATION:PT2H
+DTSTART:20220918T150000Z
+SUMMARY:Kiara: DO U - Takanashi Kiara (Official Music Video)
+UID:QI96hnhcr2E
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【2HR DO U】DO U ENDURANCE #kfp #キアライブ\nhttps://www.youtube.com/watch?v=G0ANMI5OmUY
 DURATION:PT2H
 DTSTART:20220918T200000Z
@@ -46,10 +53,10 @@ SUMMARY:Kiara: 【2HR DO U】DO U ENDURANCE #kfp #キアライブ
 UID:G0ANMI5OmUY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RUST】MOUNTAIN TOP BABY  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=jajPoZPHyAE
+DESCRIPTION:【3D LIVE !】SHARK 3D LIVE! #Gura3DLive 💦\nhttps://www.youtube.com/watch?v=5-hwTE_O8WY
 DURATION:PT2H
-DTSTART:20220917T150000Z
-SUMMARY:Kiara: 【RUST】MOUNTAIN TOP BABY  #kfp #キアライブ
-UID:jajPoZPHyAE
+DTSTART:20220918T010000Z
+SUMMARY:Gura: 【3D LIVE !】SHARK 3D LIVE! #Gura3DLive 💦
+UID:5-hwTE_O8WY
 END:VEVENT
 END:VCALENDAR
