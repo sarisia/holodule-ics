@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Rust】#10 business - scraps - research - repeat【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=tzCxcItZYz8
+DURATION:PT2H
+DTSTART:20220918T021500Z
+SUMMARY:Kaela: 【Rust】#10 business - scraps - research - repeat【Kaela Kovalskia / hololiveID】
+UID:tzCxcItZYz8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【パワプロ2022】秋神宮制覇して最後のメンバーゲットしにいくぞ！！／全ホロメンで行く栄冠ナイン6年目秋～！【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=4LLbCBsdj9Q
 DURATION:PT2H
 DTSTART:20220917T030000Z
@@ -72,6 +79,13 @@ DURATION:PT2H
 DTSTART:20220918T170000Z
 SUMMARY:Vesper: 【 Spore 】Observing an apex predator in its natural habitat
 UID:13EAzY82sEs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:『Splatoon 3』it's woomy time! yummy!\nhttps://www.youtube.com/watch?v=OGi5riiOCEI
+DURATION:PT2H
+DTSTART:20220918T072200Z
+SUMMARY:Zeta: 『Splatoon 3』it's woomy time! yummy!
+UID:OGi5riiOCEI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Moonlighter】冒険してお店して冒険してお店するやつ！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=GGxR0Yw21S0
@@ -401,13 +415,6 @@ DURATION:PT2H
 DTSTART:20220917T100000Z
 SUMMARY:👾常闇トワ: 【スパイス一家】明日はCRカップらしいけど…いったん帰ろうか！【常闇トワ/ホロライブ】
 UID:rw4oGLCnKdA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HoloCure】アップデートした！新キャラ登場だ！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=7tvHwRNuG6E
-DURATION:PT2H
-DTSTART:20220918T083000Z
-SUMMARY:🐻ときのそら: 【HoloCure】アップデートした！新キャラ登場だ！！【#ときのそら生放送】
-UID:7tvHwRNuG6E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 RUST 】みこちの闘技場でバイト生活！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=_DfKn4HAfw4
