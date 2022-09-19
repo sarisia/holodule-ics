@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Rust】#10 business - scraps - research - repeat【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=tzCxcItZYz8
+DESCRIPTION:【Rust】#11 business - scraps - new car【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=6x07TWSCYB0
 DURATION:PT2H
-DTSTART:20220918T021500Z
-SUMMARY:Kaela: 【Rust】#10 business - scraps - research - repeat【Kaela Kovalskia / hololiveID】
-UID:tzCxcItZYz8
+DTSTART:20220919T131800Z
+SUMMARY:Kaela: 【Rust】#11 business - scraps - new car【Kaela Kovalskia / hololiveID】
+UID:6x07TWSCYB0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Rust】ホロRUSTバトロワちょこ参戦！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=HxWmbWBsOgo
@@ -18,11 +18,18 @@ SUMMARY:💋癒月ちょこ: 【Rust】ホロRUSTバトロワちょこ参戦！�
 UID:HxWmbWBsOgo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【初見】ドラゴンクエストモンスターズ ジョーカー２P やるぞ！！！＃4 ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=GAO5a8YiRNs
+DESCRIPTION:【雑談】たいへんいまおきました【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=_1g3rkwKrhI
 DURATION:PT2H
-DTSTART:20220918T100000Z
-SUMMARY:👯兎田ぺこら: 【初見】ドラゴンクエストモンスターズ ジョーカー２P やるぞ！！！＃4 ぺこ！【ホロライブ/兎田ぺこら】
-UID:GAO5a8YiRNs
+DTSTART:20220919T050000Z
+SUMMARY:沙花叉クロヱ: 【雑談】たいへんいまおきました【沙花叉クロヱ/ホロライブ】
+UID:_1g3rkwKrhI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RUST】今から皆さんには●し合いをしてもらいます！ #ホロRUSTバトロワ GM視点【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=OiNJ2csTCa8
+DURATION:PT2H
+DTSTART:20220919T030000Z
+SUMMARY:尾丸ポルカ: 【RUST】今から皆さんには●し合いをしてもらいます！ #ホロRUSTバトロワ GM視点【尾丸ポルカ/ホロライブ】
+UID:OiNJ2csTCa8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン3】ヒーローモード裏ステージ挑戦だ～～！【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=OMFNbcegVq0
@@ -32,11 +39,18 @@ SUMMARY:🍙猫又おかゆ: 【スプラトゥーン3】ヒーローモード�
 UID:OMFNbcegVq0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3】ゆるスタサーモンラン!!初めてのヨコヅナ討伐!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=tVKcqSJL8KU
+DESCRIPTION:HOLLOW HUNGER / 角巻わため(Cover)\nhttps://www.youtube.com/watch?v=4oxVyAXTJJw
 DURATION:PT2H
-DTSTART:20220918T140000Z
-SUMMARY:🌺花咲みやび: 【スプラトゥーン3】ゆるスタサーモンラン!!初めてのヨコヅナ討伐!!【花咲みやび/ホロスターズ】
-UID:tVKcqSJL8KU
+DTSTART:20220920T100000Z
+SUMMARY:🐏角巻わため: HOLLOW HUNGER / 角巻わため(Cover)
+UID:4oxVyAXTJJw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スプラトゥーン３】４人でぬりぬりぬりぬり【#ホロスプラ部】\nhttps://www.youtube.com/watch?v=boKPhO1Y39g
+DURATION:PT2H
+DTSTART:20220919T090000Z
+SUMMARY:🌽白上フブキ: 【スプラトゥーン３】４人でぬりぬりぬりぬり【#ホロスプラ部】
+UID:boKPhO1Y39g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#最終回【 Minecraft Hardcore 】エンドラ討伐！！！！！ハードコアでみこのなつやすみ～おわらない全ロスとの戦い～【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=u_Uj2MLSaa0
@@ -44,20 +58,6 @@ DURATION:PT2H
 DTSTART:20220919T090000Z
 SUMMARY:🌸さくらみこ: #最終回【 Minecraft Hardcore 】エンドラ討伐！！！！！ハードコアでみこのなつやすみ～おわらない全ロスとの戦い～【ホロライブ/さくらみこ】
 UID:u_Uj2MLSaa0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【パワプロ2022】#05 神回の大勝利！！！甲子園目指してホロメン学園で栄冠ナイン！！！！【天音かなた/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=NepClgz7G6Q
-DURATION:PT2H
-DTSTART:20220918T100000Z
-SUMMARY:💫天音かなた: 【パワプロ2022】#05 神回の大勝利！！！甲子園目指してホロメン学園で栄冠ナイン！！！！【天音かなた/ホロライブ】※ネタバレあり
-UID:NepClgz7G6Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Vtuberあるある】寝起きあるある【手描き切り抜き】 #shorts #イラスト   #vtuber\nhttps://www.youtube.com/watch?v=2tzPquoTUzU
-DURATION:PT2H
-DTSTART:20220918T051742Z
-SUMMARY:緋崎ガンマ: 【Vtuberあるある】寝起きあるある【手描き切り抜き】 #shorts #イラスト   #vtuber
-UID:2tzPquoTUzU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【プレイバック３Dストリーム】空へ / 夕刻ロベル\nhttps://www.youtube.com/watch?v=GIWF9im6c3M
@@ -74,32 +74,25 @@ SUMMARY:SubKiara: Mein Erstes Mal In RUST.... Aller Anfang Ist SCHWER!
 UID:NyohqdmfaAY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン３】４人で夜勤です【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=K_lN8uItikk
+DESCRIPTION:【RUST】頭脳が最強ってトコ魅せてあげましょう #ホロRUSTバトロワ【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=H30sWQ_eOuw
 DURATION:PT2H
-DTSTART:20220918T140000Z
-SUMMARY:🌽白上フブキ: 【スプラトゥーン３】４人で夜勤です【ホロライブ/白上フブキ】
-UID:K_lN8uItikk
+DTSTART:20220919T030000Z
+SUMMARY:博衣こより: 【RUST】頭脳が最強ってトコ魅せてあげましょう #ホロRUSTバトロワ【博衣こより/ホロライブ】
+UID:H30sWQ_eOuw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【パワプロ2022】残り1年！最終メンバー入学！！／全ホロメンで行く栄冠ナイン7年目～！【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=t9o1EXQIBK8
+DESCRIPTION:【RUST】FIGHT N BE MEATS【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=HvFbaLqntso
 DURATION:PT2H
-DTSTART:20220918T030000Z
-SUMMARY:鷹嶺ルイ: 【パワプロ2022】残り1年！最終メンバー入学！！／全ホロメンで行く栄冠ナイン7年目～！【鷹嶺ルイ/ホロライブ】
-UID:t9o1EXQIBK8
+DTSTART:20220919T030000Z
+SUMMARY:Anya: 【RUST】FIGHT N BE MEATS【hololive Indonesia 2nd Generation】
+UID:HvFbaLqntso
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ドラクエ9】団長、守護天使に戻りたい...ʚ(\,\,･ω･\,\,)ɞ‬【白銀ノエル/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=prPy4mWPTY4
+DESCRIPTION:【スプラトゥーン３】再びバイトのお時間です！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=CsGw9D7WXlw
 DURATION:PT2H
-DTSTART:20220918T020000Z
-SUMMARY:⚔白銀ノエル: 【ドラクエ9】団長、守護天使に戻りたい...ʚ(\,\,･ω･\,\,)ɞ‬【白銀ノエル/ホロライブ】※ネタバレあり
-UID:prPy4mWPTY4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:『Splatoon 3』it's woomy time! yummy!\nhttps://www.youtube.com/watch?v=OGi5riiOCEI
-DURATION:PT2H
-DTSTART:20220918T072200Z
-SUMMARY:Zeta: 『Splatoon 3』it's woomy time! yummy!
-UID:OGi5riiOCEI
+DTSTART:20220918T153000Z
+SUMMARY:🌽白上フブキ: 【スプラトゥーン３】再びバイトのお時間です！【ホロライブ/白上フブキ】
+UID:CsGw9D7WXlw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スプラ３】バンカラマッチ、４人で頑張るぞい【 大神ミオ視点 】\nhttps://www.youtube.com/watch?v=kWLbRFPVKyY
@@ -109,11 +102,11 @@ SUMMARY:🌲大神ミオ: 【スプラ３】バンカラマッチ、４人で頑
 UID:kWLbRFPVKyY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HoloCure】強化して最高のクリアを！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=He-1S3AgIZE
+DESCRIPTION:【MINECRAFT】BIRCH【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=Igb-H_nb56g
 DURATION:PT2H
-DTSTART:20220919T120000Z
-SUMMARY:🐻ときのそら: 【HoloCure】強化して最高のクリアを！！【#ときのそら生放送】
-UID:He-1S3AgIZE
+DTSTART:20220919T105845Z
+SUMMARY:Ollie: 【MINECRAFT】BIRCH【Hololive Indonesia 2nd Gen】
+UID:Igb-H_nb56g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HoloCure】HARD絶対クリアする！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=S68R0xqbhZg
@@ -137,11 +130,11 @@ SUMMARY:Calli: soup before flying away
 UID:dtvGfQtJFD8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スプラ３】深夜のバイト、４人で頑張るぞい【 大神ミオ視点 】\nhttps://www.youtube.com/watch?v=5-IQip3YWdg
+DESCRIPTION:#4【真・女神転生Ⅲ NOCTURNE HD REMASTER】初見プレイ！合体！合体！！みんなで合体！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=0oUMG5UsqhU
 DURATION:PT2H
-DTSTART:20220918T140000Z
-SUMMARY:🌲大神ミオ: 【スプラ３】深夜のバイト、４人で頑張るぞい【 大神ミオ視点 】
-UID:5-IQip3YWdg
+DTSTART:20220919T130000Z
+SUMMARY:鷹嶺ルイ: #4【真・女神転生Ⅲ NOCTURNE HD REMASTER】初見プレイ！合体！合体！！みんなで合体！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり
+UID:0oUMG5UsqhU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Enter the Gungeon】 i am going to unlock the Gunslinger 【11】\nhttps://www.youtube.com/watch?v=egdRCPF43Lw
@@ -158,6 +151,13 @@ SUMMARY:緋崎ガンマ: 【お絵描き】粛正罰丸さんとオレを描い�
 UID:ZkXZz4ndanQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【holoID】post 3D showcase sleepy talk【Ayunda Risu】\nhttps://www.youtube.com/watch?v=qCM4I6N5Qo0
+DURATION:PT2H
+DTSTART:20220918T160000Z
+SUMMARY:🐿Risu: 【holoID】post 3D showcase sleepy talk【Ayunda Risu】
+UID:qCM4I6N5Qo0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ranking The Best Kronii\nhttps://www.youtube.com/watch?v=1MVf7DYfbi8
 DURATION:PT2H
 DTSTART:20220918T203400Z
@@ -172,389 +172,11 @@ SUMMARY:Kiara: 【2HR DO U】DO U ENDURANCE #kfp #キアライブ
 UID:G0ANMI5OmUY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SUPA Sunday】WATBOT 9000\nhttps://www.youtube.com/watch?v=idJZbyFdyHc
+DESCRIPTION:【FREE CHAT】期間限定フリ～チャット！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=qqZyc6DPTgA
 DURATION:PT2H
-DTSTART:20220918T223000Z
-SUMMARY:Amelia: 【SUPA Sunday】WATBOT 9000
-UID:idJZbyFdyHc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Splatoon3】ウデマエA+ にいきたい！！【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=c7wzrVZv9qU
-DURATION:PT2H
-DTSTART:20220918T090000Z
-SUMMARY:🍎アキロゼ: 【Splatoon3】ウデマエA+ にいきたい！！【ホロライブ/アキ・ローゼンタール】
-UID:c7wzrVZv9qU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #ホロRUSTバトロワ 】戦わなければ生き残れないらしい【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=BOoDDlGPsSo
-DURATION:PT2H
-DTSTART:20220919T031000Z
-SUMMARY:🌽白上フブキ: 【 #ホロRUSTバトロワ 】戦わなければ生き残れないらしい【ホロライブ/白上フブキ】
-UID:BOoDDlGPsSo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 85万人見守り隊 】NNAAAAAAAAA！！！(・o・🍬)【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=HVOVgM7ikC0
-DURATION:PT2H
-DTSTART:20220919T073000Z
-SUMMARY:🍬姫森ルーナ: 【 85万人見守り隊 】NNAAAAAAAAA！！！(・o・🍬)【姫森ルーナ/ホロライブ】
-UID:HVOVgM7ikC0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[Art Stream] DRAWING AROUND AT THE SPEED OF SOUND🎨\nhttps://www.youtube.com/watch?v=uMnMpvoNV4c
-DURATION:PT2H
-DTSTART:20220920T030000Z
-SUMMARY:Dezmond: [Art Stream] DRAWING AROUND AT THE SPEED OF SOUND🎨
-UID:uMnMpvoNV4c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 RUST 】やめましょうよ‼命が勿体な―  #ホロRUSTバトロワ【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=eDsTEBJdXbE
-DURATION:PT2H
-DTSTART:20220919T030000Z
-SUMMARY:🌸さくらみこ: 【 RUST 】やめましょうよ‼命が勿体な―  #ホロRUSTバトロワ【ホロライブ/さくらみこ】
-UID:eDsTEBJdXbE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HoloCure】色々なホロメン使ってハードチャレンジ‼【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=p7mU9Ax6SlE
-DURATION:PT2H
-DTSTART:20220918T140000Z
-SUMMARY:鷹嶺ルイ: 【HoloCure】色々なホロメン使ってハードチャレンジ‼【鷹嶺ルイ/ホロライブ】
-UID:p7mU9Ax6SlE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CRカップ】ヴァルキリー専になりました？【#しらすフェスWIN】\nhttps://www.youtube.com/watch?v=ZlxfoWtbEd0
-DURATION:PT2H
-DTSTART:20220918T100000Z
-SUMMARY:🏮夏色まつり: 【CRカップ】ヴァルキリー専になりました？【#しらすフェスWIN】
-UID:ZlxfoWtbEd0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】I. AM. KILL. U!!!!!!!!!!!!!!!!!!!!\nhttps://www.youtube.com/watch?v=tZsjKXvysd4
-DURATION:PT2H
-DTSTART:20220919T030100Z
-SUMMARY:Amelia: 【RUST】I. AM. KILL. U!!!!!!!!!!!!!!!!!!!!
-UID:tZsjKXvysd4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:THE TOKYO GAME SHOW VR 2022 EXPERIENCE\nhttps://www.youtube.com/watch?v=Q3Sl0XOHkuA
-DURATION:PT2H
-DTSTART:20220917T220000Z
-SUMMARY:Altare: THE TOKYO GAME SHOW VR 2022 EXPERIENCE
-UID:Q3Sl0XOHkuA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SUPERCHAT READING】DO U wanna read more superchats? #kfp #キアライブ\nhttps://www.youtube.com/watch?v=hxVmOiJGkyE
-DURATION:PT2H
-DTSTART:20220919T170000Z
-SUMMARY:Kiara: 【SUPERCHAT READING】DO U wanna read more superchats? #kfp #キアライブ
-UID:hxVmOiJGkyE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MV】Scuffed Up Age - Mori Calliope (Original Song)\nhttps://www.youtube.com/watch?v=8bc1GW-zsPY
-DURATION:PT2H
-DTSTART:20220920T020000Z
-SUMMARY:Calli: 【MV】Scuffed Up Age - Mori Calliope (Original Song)
-UID:8bc1GW-zsPY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:『RUST』Gun doko?\nhttps://www.youtube.com/watch?v=dZ5SvcrdBaU
-DURATION:PT2H
-DTSTART:20220918T143000Z
-SUMMARY:Zeta: 『RUST』Gun doko?
-UID:dZ5SvcrdBaU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 スプラトゥーン３ 】腕前あげるもん！！！！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=mm1pSqtfjEU
-DURATION:PT2H
-DTSTART:20220919T120000Z
-SUMMARY:桃鈴ねね: 【 スプラトゥーン３ 】腕前あげるもん！！！！【 桃鈴ねね / ホロライブ 】
-UID:mm1pSqtfjEU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#2【ドラクエⅩオフライン】オンラインプレイ済！こよリポ、2つ目の街へ！【博衣こより/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=p7TM1u4sTK8
-DURATION:PT2H
-DTSTART:20220918T020000Z
-SUMMARY:博衣こより: #2【ドラクエⅩオフライン】オンラインプレイ済！こよリポ、2つ目の街へ！【博衣こより/ホロライブ】※ネタバレあり
-UID:p7TM1u4sTK8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#Splatoon3】貧乏たこはSを夢見ながらお金を貯める【ホロライブ/ ロボ子さん】\nhttps://www.youtube.com/watch?v=85NrAfh4aec
-DURATION:PT2H
-DTSTART:20220917T150000Z
-SUMMARY:🤖ロボ子さん: 【#Splatoon3】貧乏たこはSを夢見ながらお金を貯める【ホロライブ/ ロボ子さん】
-UID:85NrAfh4aec
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3】フェスまで時間がない！S+50への道！S+18～【#夜十神封魔 #ホロスターズ #アップロー】\nhttps://www.youtube.com/watch?v=GUnbW8fjDoI
-DURATION:PT2H
-DTSTART:20220918T230000Z
-SUMMARY:夜十神封魔: 【スプラトゥーン3】フェスまで時間がない！S+50への道！S+18～【#夜十神封魔 #ホロスターズ #アップロー】
-UID:GUnbW8fjDoI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】Afternoon RUST!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=f_TW0xn1m_A
-DURATION:PT2H
-DTSTART:20220919T070000Z
-SUMMARY:Anya: 【RUST】Afternoon RUST!【hololive Indonesia 2nd Generation】
-UID:f_TW0xn1m_A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】Doing fun stuff with a kris【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=-HZ-6MOXSbY
-DURATION:PT2H
-DTSTART:20220919T070000Z
-SUMMARY:Reine: 【RUST】Doing fun stuff with a kris【Pavolia Reine/hololiveID 2nd gen】
-UID:-HZ-6MOXSbY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FallGuys】新シーズン！宇宙がお前を覗いてる時宇宙もまた俺を覗いている【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=FoTJ7RePqjE
-DURATION:PT2H
-DTSTART:20220919T080000Z
-SUMMARY:影山シエン: 【FallGuys】新シーズン！宇宙がお前を覗いてる時宇宙もまた俺を覗いている【影山シエン/ホロスターズ】
-UID:FoTJ7RePqjE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3】新人バイトわため、出勤です...！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=xFVxoTpkgyE
-DURATION:PT2H
-DTSTART:20220918T154500Z
-SUMMARY:🐏角巻わため: 【スプラトゥーン3】新人バイトわため、出勤です...！！！【角巻わため/ホロライブ４期生】
-UID:xFVxoTpkgyE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3】初心者！強くな゛り゛た゛い゛ / 水無世燐央【UPROAR!!/アップロー】\nhttps://www.youtube.com/watch?v=TInPLco1mkU
-DURATION:PT2H
-DTSTART:20220919T130000Z
-SUMMARY:水無世燐央: 【スプラトゥーン3】初心者！強くな゛り゛た゛い゛ / 水無世燐央【UPROAR!!/アップロー】
-UID:TInPLco1mkU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン３】献上スプラトゥーン・・・！？【影山シエン/白雪巴/柚原いづみ/風見くく】\nhttps://www.youtube.com/watch?v=GxEbaPMA3sU
-DURATION:PT2H
-DTSTART:20220918T120000Z
-SUMMARY:影山シエン: 【スプラトゥーン３】献上スプラトゥーン・・・！？【影山シエン/白雪巴/柚原いづみ/風見くく】
-UID:GxEbaPMA3sU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#朝こよ】連休明けも朝こよを見て元気に始めよう！ #84【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=RM8VzHAOmcY
-DURATION:PT2H
-DTSTART:20220919T220000Z
-SUMMARY:博衣こより: 【#朝こよ】連休明けも朝こよを見て元気に始めよう！ #84【博衣こより/ホロライブ】
-UID:RM8VzHAOmcY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪Insaniquarium: Deluxe≫ SHAKETARO RETURNS\nhttps://www.youtube.com/watch?v=2dfkwwX5-VA
-DURATION:PT2H
-DTSTART:20220918T050000Z
-SUMMARY:Baelz: ≪Insaniquarium: Deluxe≫ SHAKETARO RETURNS
-UID:2dfkwwX5-VA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Splatoon3】ぬわーーーーんどどどどどどばばばばばばばばﾊﾟﾁｭｰｰｰﾝ！！！【花咲みやび/岸堂天真/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=m26J0o0sCRI
-DURATION:PT2H
-DTSTART:20220918T140000Z
-SUMMARY:🍕アルランディス: 【Splatoon3】ぬわーーーーんどどどどどどばばばばばばばばﾊﾟﾁｭｰｰｰﾝ！！！【花咲みやび/岸堂天真/アルランディス/ホロスターズ】
-UID:m26J0o0sCRI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#14】ペルソナ４ザ・ゴールデンやるしゅばあああああああああああああああああああ！！！！：Persona4 The golden【ネタバレ有り】\nhttps://www.youtube.com/watch?v=uwmW5pxCSwQ
-DURATION:PT2H
-DTSTART:20220918T040000Z
-SUMMARY:🚑大空スバル: 【#14】ペルソナ４ザ・ゴールデンやるしゅばあああああああああああああああああああ！！！！：Persona4 The golden【ネタバレ有り】
-UID:uwmW5pxCSwQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Rust】#11 business - scraps - new car【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=6x07TWSCYB0
-DURATION:PT2H
-DTSTART:20220919T131800Z
-SUMMARY:Kaela: 【Rust】#11 business - scraps - new car【Kaela Kovalskia / hololiveID】
-UID:6x07TWSCYB0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3】ゲーマーズに紛れ込むひつじ...！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=osNT8D0hqiE
-DURATION:PT2H
-DTSTART:20220918T140000Z
-SUMMARY:🐏角巻わため: 【スプラトゥーン3】ゲーマーズに紛れ込むひつじ...！！！【角巻わため/ホロライブ４期生】
-UID:osNT8D0hqiE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【切り抜き】月刊アルランディス 8月号 #切り抜きナンディス【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=zSIbAP2-QYg
-DURATION:PT2H
-DTSTART:20220918T110000Z
-SUMMARY:🍕アルランディス: 【切り抜き】月刊アルランディス 8月号 #切り抜きナンディス【アルランディス/ホロスターズ】
-UID:zSIbAP2-QYg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Cult of the Lamb】釣りバカ教会【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=VwSdPiWuVpY
-DURATION:PT2H
-DTSTART:20220918T040000Z
-SUMMARY:獅白ぼたん: 【Cult of the Lamb】釣りバカ教会【獅白ぼたん/ホロライブ】
-UID:VwSdPiWuVpY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【深夜ラジオ】鷹嶺ルイのミッドナイトラジオ #07【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=TJ-UhnHZwgg
-DURATION:PT2H
-DTSTART:20220917T150000Z
-SUMMARY:鷹嶺ルイ: 【深夜ラジオ】鷹嶺ルイのミッドナイトラジオ #07【鷹嶺ルイ/ホロライブ】
-UID:TJ-UhnHZwgg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】たいへんいまおきました【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=_1g3rkwKrhI
-DURATION:PT2H
-DTSTART:20220919T050000Z
-SUMMARY:沙花叉クロヱ: 【雑談】たいへんいまおきました【沙花叉クロヱ/ホロライブ】
-UID:_1g3rkwKrhI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】今から皆さんには●し合いをしてもらいます！ #ホロRUSTバトロワ GM視点【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=OiNJ2csTCa8
-DURATION:PT2H
-DTSTART:20220919T030000Z
-SUMMARY:尾丸ポルカ: 【RUST】今から皆さんには●し合いをしてもらいます！ #ホロRUSTバトロワ GM視点【尾丸ポルカ/ホロライブ】
-UID:OiNJ2csTCa8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:HOLLOW HUNGER / 角巻わため(Cover)\nhttps://www.youtube.com/watch?v=4oxVyAXTJJw
-DURATION:PT2H
-DTSTART:20220920T100000Z
-SUMMARY:🐏角巻わため: HOLLOW HUNGER / 角巻わため(Cover)
-UID:4oxVyAXTJJw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[ORIGINAL ANIMATION] Gawr Gura - Shark'd 🦈 #GawrGura\nhttps://www.youtube.com/watch?v=kJGsWORSg-4
-DURATION:PT2H
-DTSTART:20220918T020000Z
-SUMMARY:Gura: [ORIGINAL ANIMATION] Gawr Gura - Shark'd 🦈 #GawrGura
-UID:kJGsWORSg-4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン３】４人でぬりぬりぬりぬり【#ホロスプラ部】\nhttps://www.youtube.com/watch?v=boKPhO1Y39g
-DURATION:PT2H
-DTSTART:20220919T090000Z
-SUMMARY:🌽白上フブキ: 【スプラトゥーン３】４人でぬりぬりぬりぬり【#ホロスプラ部】
-UID:boKPhO1Y39g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3】ゆるスタでサーモンラン！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=5JxRZLfindY
-DURATION:PT2H
-DTSTART:20220918T140500Z
-SUMMARY:🦔💨岸堂天真: 【スプラトゥーン3】ゆるスタでサーモンラン！【岸堂天真/ホロスターズ】
-UID:5JxRZLfindY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Witch's House MV】HOUSE TOUR STREAM (not mine) (gone wrong)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=s3K6QvU0Qho
-DURATION:PT2H
-DTSTART:20220918T143000Z
-SUMMARY:Reine: 【The Witch's House MV】HOUSE TOUR STREAM (not mine) (gone wrong)【Pavolia Reine/hololiveID 2nd gen】
-UID:s3K6QvU0Qho
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】頭脳が最強ってトコ魅せてあげましょう #ホロRUSTバトロワ【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=H30sWQ_eOuw
-DURATION:PT2H
-DTSTART:20220919T030000Z
-SUMMARY:博衣こより: 【RUST】頭脳が最強ってトコ魅せてあげましょう #ホロRUSTバトロワ【博衣こより/ホロライブ】
-UID:H30sWQ_eOuw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】FIGHT N BE MEATS【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=HvFbaLqntso
-DURATION:PT2H
-DTSTART:20220919T030000Z
-SUMMARY:Anya: 【RUST】FIGHT N BE MEATS【hololive Indonesia 2nd Generation】
-UID:HvFbaLqntso
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Moonlighter】お店が大きくなりました！今日は1つ目のダンジョンクリアしたい！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=m9L4vi8W-hg
-DURATION:PT2H
-DTSTART:20220918T073000Z
-SUMMARY:🍕アルランディス: 【Moonlighter】お店が大きくなりました！今日は1つ目のダンジョンクリアしたい！【アルランディス/ホロスターズ】
-UID:m9L4vi8W-hg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:I love you 🤟❤️#AiraniIofifteen3D\nhttps://www.youtube.com/watch?v=_T5JANhjHxw
-DURATION:PT2H
-DTSTART:20220918T010316Z
-SUMMARY:🎨Iofi: I love you 🤟❤️#AiraniIofifteen3D
-UID:_T5JANhjHxw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【お絵描きコラボ】粛正罰丸さんとお絵描きコラボするぞおおおお！！！【#緋崎ガンマ / #ホロスターズ  / #イラスト】\nhttps://www.youtube.com/watch?v=7W_tFWQDarc
-DURATION:PT2H
-DTSTART:20220918T070000Z
-SUMMARY:緋崎ガンマ: 【お絵描きコラボ】粛正罰丸さんとお絵描きコラボするぞおおおお！！！【#緋崎ガンマ / #ホロスターズ  / #イラスト】
-UID:7W_tFWQDarc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HoloCure】アップデートした！新キャラ登場だ！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=7tvHwRNuG6E
-DURATION:PT2H
-DTSTART:20220918T083000Z
-SUMMARY:🐻ときのそら: 【HoloCure】アップデートした！新キャラ登場だ！！【#ときのそら生放送】
-UID:7tvHwRNuG6E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン３】再びバイトのお時間です！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=CsGw9D7WXlw
-DURATION:PT2H
-DTSTART:20220918T153000Z
-SUMMARY:🌽白上フブキ: 【スプラトゥーン３】再びバイトのお時間です！【ホロライブ/白上フブキ】
-UID:CsGw9D7WXlw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 RUST 】みこちの闘技場でバイト生活！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=_DfKn4HAfw4
-DURATION:PT2H
-DTSTART:20220918T070000Z
-SUMMARY:❤赤井はあと: 【 RUST 】みこちの闘技場でバイト生活！【ホロライブ/赤井はあと】
-UID:_DfKn4HAfw4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スプラ3】みんなで深夜に楽しくバイトだ～～～～！🌕【猫又おかゆ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=STRKNclbvBg
-DURATION:PT2H
-DTSTART:20220918T140000Z
-SUMMARY:🍙猫又おかゆ: 【スプラ3】みんなで深夜に楽しくバイトだ～～～～！🌕【猫又おかゆ視点/ホロライブ】
-UID:STRKNclbvBg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】歌いたい歌をうたうほうそう【 ホロライブ / 大神ミオ 】\nhttps://www.youtube.com/watch?v=MdLDrSP9Cn8
-DURATION:PT2H
-DTSTART:20220918T100000Z
-SUMMARY:🌲大神ミオ: 【歌枠】歌いたい歌をうたうほうそう【 ホロライブ / 大神ミオ 】
-UID:MdLDrSP9Cn8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【弾き語り歌枠】台風に負けんな！癒しの弾き語り【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=gedWB97jbkc
-DURATION:PT2H
-DTSTART:20220918T120000Z
-SUMMARY:⚙律可: 【弾き語り歌枠】台風に負けんな！癒しの弾き語り【律可/ホロスターズ】#りつすた
-UID:gedWB97jbkc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】BIRCH【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=Igb-H_nb56g
-DURATION:PT2H
-DTSTART:20220919T105845Z
-SUMMARY:Ollie: 【MINECRAFT】BIRCH【Hololive Indonesia 2nd Gen】
-UID:Igb-H_nb56g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スーパーマリオRPG】スーファミの神ゲーで遊ぶ！完全初見のマリオRPG✨【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=RYSd-N4MQK4
-DURATION:PT2H
-DTSTART:20220919T100000Z
-SUMMARY:博衣こより: 【スーパーマリオRPG】スーファミの神ゲーで遊ぶ！完全初見のマリオRPG✨【博衣こより/ホロライブ】
-UID:RYSd-N4MQK4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#4【真・女神転生Ⅲ NOCTURNE HD REMASTER】初見プレイ！合体！合体！！みんなで合体！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=0oUMG5UsqhU
-DURATION:PT2H
-DTSTART:20220919T130000Z
-SUMMARY:鷹嶺ルイ: #4【真・女神転生Ⅲ NOCTURNE HD REMASTER】初見プレイ！合体！合体！！みんなで合体！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり
-UID:0oUMG5UsqhU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:DO U - Takanashi Kiara (Official Music Video)\nhttps://www.youtube.com/watch?v=QI96hnhcr2E
-DURATION:PT2H
-DTSTART:20220918T150000Z
-SUMMARY:Kiara: DO U - Takanashi Kiara (Official Music Video)
-UID:QI96hnhcr2E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【holoID】post 3D showcase sleepy talk【Ayunda Risu】\nhttps://www.youtube.com/watch?v=qCM4I6N5Qo0
-DURATION:PT2H
-DTSTART:20220918T160000Z
-SUMMARY:🐿Risu: 【holoID】post 3D showcase sleepy talk【Ayunda Risu】
-UID:qCM4I6N5Qo0
+DTSTART:20220921T144500Z
+SUMMARY:🔥不知火フレア: 【FREE CHAT】期間限定フリ～チャット！【不知火フレア/ホロライブ】
+UID:qqZyc6DPTgA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Splatoon3】バイトの時間ですよ【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=LaOzM9TjeYg
@@ -562,6 +184,13 @@ DURATION:PT2H
 DTSTART:20220918T155000Z
 SUMMARY:🍎アキロゼ: 【Splatoon3】バイトの時間ですよ【ホロライブ/アキ・ローゼンタール】
 UID:LaOzM9TjeYg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SUPA Sunday】WATBOT 9000\nhttps://www.youtube.com/watch?v=idJZbyFdyHc
+DURATION:PT2H
+DTSTART:20220918T223000Z
+SUMMARY:Amelia: 【SUPA Sunday】WATBOT 9000
+UID:idJZbyFdyHc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #朝ミオ 】月曜日の朝ミオーん！９月も後半・・だと？！\nhttps://www.youtube.com/watch?v=WiQh5XGkWLY
@@ -578,11 +207,32 @@ SUMMARY:ホロライブ: 【最先端トレンド】倍速視聴に対応する�
 UID:6rtll70C28I
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 #ホロRUSTバトロワ 】戦わなければ生き残れないらしい【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=BOoDDlGPsSo
+DURATION:PT2H
+DTSTART:20220919T031000Z
+SUMMARY:🌽白上フブキ: 【 #ホロRUSTバトロワ 】戦わなければ生き残れないらしい【ホロライブ/白上フブキ】
+UID:BOoDDlGPsSo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 Rust 】カボチャハウスを改良していくのら！🎃 #ホロ鯖RUST【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=CtWDwXCWESU
 DURATION:PT2H
 DTSTART:20220919T000000Z
 SUMMARY:🍬姫森ルーナ: 【 Rust 】カボチャハウスを改良していくのら！🎃 #ホロ鯖RUST【姫森ルーナ/ホロライブ】
 UID:CtWDwXCWESU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 RUST 】やめましょうよ‼命が勿体な―  #ホロRUSTバトロワ【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=eDsTEBJdXbE
+DURATION:PT2H
+DTSTART:20220919T030000Z
+SUMMARY:🌸さくらみこ: 【 RUST 】やめましょうよ‼命が勿体な―  #ホロRUSTバトロワ【ホロライブ/さくらみこ】
+UID:eDsTEBJdXbE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 85万人見守り隊 】NNAAAAAAAAA！！！(・o・🍬)【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=HVOVgM7ikC0
+DURATION:PT2H
+DTSTART:20220919T073000Z
+SUMMARY:🍬姫森ルーナ: 【 85万人見守り隊 】NNAAAAAAAAA！！！(・o・🍬)【姫森ルーナ/ホロライブ】
+UID:HVOVgM7ikC0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】深夜TALK【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=4PWwqGlydbo
@@ -592,25 +242,18 @@ SUMMARY:荒咬オウガ: 【雑談】深夜TALK【荒咬オウガ/ホロスタ�
 UID:4PWwqGlydbo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HoloCure】プレイはじめてでも入れる保険はありますか！？【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=b8G0MS_onu0
+DESCRIPTION:【#朝こよ】連休明けも朝こよを見て元気に始めよう！ #84【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=RM8VzHAOmcY
 DURATION:PT2H
-DTSTART:20220918T110000Z
-SUMMARY:風真いろは: 【HoloCure】プレイはじめてでも入れる保険はありますか！？【風真いろは/ホロライブ】
-UID:b8G0MS_onu0
+DTSTART:20220919T220000Z
+SUMMARY:博衣こより: 【#朝こよ】連休明けも朝こよを見て元気に始めよう！ #84【博衣こより/ホロライブ】
+UID:RM8VzHAOmcY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【AGF&ドラマCD続報】突然届いたニュース原稿、ちゃんと読める？【#ホロスタニュース速報】\nhttps://www.youtube.com/watch?v=rcCyFEkd_oc
+DESCRIPTION:[Art Stream] DRAWING AROUND AT THE SPEED OF SOUND🎨\nhttps://www.youtube.com/watch?v=uMnMpvoNV4c
 DURATION:PT2H
-DTSTART:20220918T100000Z
-SUMMARY:ホロスターズ: 【AGF&ドラマCD続報】突然届いたニュース原稿、ちゃんと読める？【#ホロスタニュース速報】
-UID:rcCyFEkd_oc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CRカップ9.5】#スパイス一家WIN　楽しむしかないっ！【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=Bxf9gJQxq7U
-DURATION:PT2H
-DTSTART:20220918T100000Z
-SUMMARY:👾常闇トワ: 【CRカップ9.5】#スパイス一家WIN　楽しむしかないっ！【常闇トワ/ホロライブ】
-UID:Bxf9gJQxq7U
+DTSTART:20220920T030000Z
+SUMMARY:Dezmond: [Art Stream] DRAWING AROUND AT THE SPEED OF SOUND🎨
+UID:uMnMpvoNV4c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #ギリわる 】ギリギリわるくないわため３期制作決定です！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=LDLJtMXohqY
@@ -620,32 +263,11 @@ SUMMARY:🐏角巻わため: 【 #ギリわる 】ギリギリわるくないわ
 UID:LDLJtMXohqY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RUST】MOUNTAIN TOP BABY  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=jajPoZPHyAE
-DURATION:PT2H
-DTSTART:20220917T150000Z
-SUMMARY:Kiara: 【RUST】MOUNTAIN TOP BABY  #kfp #キアライブ
-UID:jajPoZPHyAE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ネタバレあり】 ララ狐は竜騎士となりエオルゼアを救う　漆黒編5.0　＃40 【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=nPgGdgA_I0Q
-DURATION:PT2H
-DTSTART:20220918T050000Z
-SUMMARY:🌽白上フブキ: 【ネタバレあり】 ララ狐は竜騎士となりエオルゼアを救う　漆黒編5.0　＃40 【ホロライブ/白上フブキ】
-UID:nPgGdgA_I0Q
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft1.19】ゆるゆる穴掘り雑談【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=N9lAJiDDVUE
 DURATION:PT2H
 DTSTART:20220919T150000Z
 SUMMARY:🍕アルランディス: 【Minecraft1.19】ゆるゆる穴掘り雑談【アルランディス/ホロスターズ】
 UID:N9lAJiDDVUE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Guess what it says!【hololive/宝鐘マリン】#shorts\nhttps://www.youtube.com/watch?v=6bJ27ELV5fU
-DURATION:PT2H
-DTSTART:20220918T105356Z
-SUMMARY:🏴☠宝鐘マリン: Guess what it says!【hololive/宝鐘マリン】#shorts
-UID:6bJ27ELV5fU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Board Game Arena】アスイヅ花岸アル律でボドゲじゃああああああ！！！【ホロスターズ】\nhttps://www.youtube.com/watch?v=f5ssenBOSmo
@@ -662,11 +284,11 @@ SUMMARY:Fauna: 【SKYRIM】 NOOOOO DON'T SEND ME TO SKYRIM PRISON I'LL GIVE YOU 
 UID:-zsyEoCPhbQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#Splatoon3】S帯いくまで耐久！いったのでフブキとあきちゃんとバイトやオープン！！！Let's go ！！！【ホロライブ/ ロボ子さん】\nhttps://www.youtube.com/watch?v=aLMu4cZwAfw
+DESCRIPTION:【FGO】はじめての Fate/Grand Order !!!!!!!!!!!!!!!!!!!!!ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=NSeTUJyAC3Y
 DURATION:PT2H
-DTSTART:20220918T140000Z
-SUMMARY:🤖ロボ子さん: 【#Splatoon3】S帯いくまで耐久！いったのでフブキとあきちゃんとバイトやオープン！！！Let's go ！！！【ホロライブ/ ロボ子さん】
-UID:aLMu4cZwAfw
+DTSTART:20220919T110000Z
+SUMMARY:👯兎田ぺこら: 【FGO】はじめての Fate/Grand Order !!!!!!!!!!!!!!!!!!!!!ぺこ！【ホロライブ/兎田ぺこら】
+UID:NSeTUJyAC3Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】tonjok【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=rfIcGt-eAFI
@@ -676,18 +298,32 @@ SUMMARY:Reine: 【RUST】tonjok【Pavolia Reine/hololiveID 2nd gen】
 UID:rfIcGt-eAFI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Free Talk + Dono Reading】sore semuwah\nhttps://www.youtube.com/watch?v=b1MxDbqhbbg
+DESCRIPTION:【RUST】I. AM. KILL. U!!!!!!!!!!!!!!!!!!!!\nhttps://www.youtube.com/watch?v=tZsjKXvysd4
 DURATION:PT2H
-DTSTART:20220918T080000Z
-SUMMARY:Kobo: 【Free Talk + Dono Reading】sore semuwah
-UID:b1MxDbqhbbg
+DTSTART:20220919T030100Z
+SUMMARY:Amelia: 【RUST】I. AM. KILL. U!!!!!!!!!!!!!!!!!!!!
+UID:tZsjKXvysd4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 GTA5 】１曲歌い終わるまで視聴者から逃げ切るぜ！！！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=BYBnHVsyN6s
+DESCRIPTION:【SUPERCHAT READING】DO U wanna read more superchats? #kfp #キアライブ\nhttps://www.youtube.com/watch?v=hxVmOiJGkyE
 DURATION:PT2H
-DTSTART:20220918T113000Z
-SUMMARY:🌸さくらみこ: 【 GTA5 】１曲歌い終わるまで視聴者から逃げ切るぜ！！！！！！【ホロライブ/さくらみこ】
-UID:BYBnHVsyN6s
+DTSTART:20220919T170000Z
+SUMMARY:Kiara: 【SUPERCHAT READING】DO U wanna read more superchats? #kfp #キアライブ
+UID:hxVmOiJGkyE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MV】Scuffed Up Age - Mori Calliope (Original Song)\nhttps://www.youtube.com/watch?v=8bc1GW-zsPY
+DURATION:PT2H
+DTSTART:20220920T020000Z
+SUMMARY:Calli: 【MV】Scuffed Up Age - Mori Calliope (Original Song)
+UID:8bc1GW-zsPY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 スプラトゥーン３ 】腕前あげるもん！！！！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=mm1pSqtfjEU
+DURATION:PT2H
+DTSTART:20220919T120000Z
+SUMMARY:桃鈴ねね: 【 スプラトゥーン３ 】腕前あげるもん！！！！【 桃鈴ねね / ホロライブ 】
+UID:mm1pSqtfjEU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 AREA15 】Otsukaresama AREA15 3D Showcase !【 iofi / Moona / Risu 】\nhttps://www.youtube.com/watch?v=8G-H2iB9CWM
@@ -697,25 +333,11 @@ SUMMARY:🎨Iofi: 【 AREA15 】Otsukaresama AREA15 3D Showcase !【 iofi / Moon
 UID:8G-H2iB9CWM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 スプラトゥーン3 】発狂やいやいsplatoon3が始まるのら～！！！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=IbcaybVlpnc
+DESCRIPTION:【スプラトゥーン3】フェスまで時間がない！S+50への道！S+18～【#夜十神封魔 #ホロスターズ #アップロー】\nhttps://www.youtube.com/watch?v=GUnbW8fjDoI
 DURATION:PT2H
-DTSTART:20220918T030000Z
-SUMMARY:🍬姫森ルーナ: 【 スプラトゥーン3 】発狂やいやいsplatoon3が始まるのら～！！！【姫森ルーナ/ホロライブ】
-UID:IbcaybVlpnc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【3D Showcase】 Yes\, a squirrel can be an Idol\, too #AyundaRisu3D【Ayunda Risu / hololive ID 】\nhttps://www.youtube.com/watch?v=VxnwBm49egM
-DURATION:PT2H
-DTSTART:20220918T130000Z
-SUMMARY:🐿Risu: 【3D Showcase】 Yes\, a squirrel can be an Idol\, too #AyundaRisu3D【Ayunda Risu / hololive ID 】
-UID:VxnwBm49egM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アニメ】今日から野菜生活！\nhttps://www.youtube.com/watch?v=QWlxvSWIt7w
-DURATION:PT2H
-DTSTART:20220918T090012Z
-SUMMARY:ホロライブ: 【アニメ】今日から野菜生活！
-UID:QWlxvSWIt7w
+DTSTART:20220918T230000Z
+SUMMARY:夜十神封魔: 【スプラトゥーン3】フェスまで時間がない！S+50への道！S+18～【#夜十神封魔 #ホロスターズ #アップロー】
+UID:GUnbW8fjDoI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Splatoon3】大迫力！劇場版音割れSplatoon3!!【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=C18UHfCzuNI
@@ -725,13 +347,6 @@ SUMMARY:🍕アルランディス: 【Splatoon3】大迫力！劇場版音割れ
 UID:C18UHfCzuNI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Half-Life 2】Gotta Go FAST【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=ZpFU1SRgPlk
-DURATION:PT2H
-DTSTART:20220918T060000Z
-SUMMARY:Anya: 【Half-Life 2】Gotta Go FAST【hololive Indonesia 2nd Generation】
-UID:ZpFU1SRgPlk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【PEJUANG SENIN】#20 just talk since its a special Monday【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=31m6z_vFIMI
 DURATION:PT2H
 DTSTART:20220918T230000Z
@@ -739,11 +354,25 @@ SUMMARY:Kaela: 【PEJUANG SENIN】#20 just talk since its a special Monday【Kae
 UID:31m6z_vFIMI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロスプラ部】ころね支店【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=_VhBRl8hBTI
+DESCRIPTION:【RUST】Afternoon RUST!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=f_TW0xn1m_A
 DURATION:PT2H
-DTSTART:20220919T090000Z
-SUMMARY:🥐戌神ころね: 【#ホロスプラ部】ころね支店【戌神ころね/ホロライブ】
-UID:_VhBRl8hBTI
+DTSTART:20220919T070000Z
+SUMMARY:Anya: 【RUST】Afternoon RUST!【hololive Indonesia 2nd Generation】
+UID:f_TW0xn1m_A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RUST】Doing fun stuff with a kris【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=-HZ-6MOXSbY
+DURATION:PT2H
+DTSTART:20220919T070000Z
+SUMMARY:Reine: 【RUST】Doing fun stuff with a kris【Pavolia Reine/hololiveID 2nd gen】
+UID:-HZ-6MOXSbY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スプラトゥーン3】新人バイトわため、出勤です...！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=xFVxoTpkgyE
+DURATION:PT2H
+DTSTART:20220918T154500Z
+SUMMARY:🐏角巻わため: 【スプラトゥーン3】新人バイトわため、出勤です...！！！【角巻わため/ホロライブ４期生】
+UID:xFVxoTpkgyE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【The Legend Of Zelda: BOTW】Saving Princess Maguni and Defeating Calamity Ragus feat. Nowa oji #5\nhttps://www.youtube.com/watch?v=CWb1N3y3l3A
@@ -753,11 +382,18 @@ SUMMARY:Syrios: 【The Legend Of Zelda: BOTW】Saving Princess Maguni and Defeat
 UID:CWb1N3y3l3A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ゼルダの伝説 ブレス オブ ザ ワイルド】いよいよラスト！勝つぞ！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=k0Md1FmxSlo
+DESCRIPTION:【FallGuys】新シーズン！宇宙がお前を覗いてる時宇宙もまた俺を覗いている【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=FoTJ7RePqjE
 DURATION:PT2H
-DTSTART:20220918T040000Z
-SUMMARY:🐻ときのそら: 【ゼルダの伝説 ブレス オブ ザ ワイルド】いよいよラスト！勝つぞ！！【#ときのそら生放送】
-UID:k0Md1FmxSlo
+DTSTART:20220919T080000Z
+SUMMARY:影山シエン: 【FallGuys】新シーズン！宇宙がお前を覗いてる時宇宙もまた俺を覗いている【影山シエン/ホロスターズ】
+UID:FoTJ7RePqjE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロスプラ部】ころね支店【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=_VhBRl8hBTI
+DURATION:PT2H
+DTSTART:20220919T090000Z
+SUMMARY:🥐戌神ころね: 【#ホロスプラ部】ころね支店【戌神ころね/ホロライブ】
+UID:_VhBRl8hBTI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スプラ3】先輩方とがちまっち🔥頑張りますでござる！！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=pLQ4IfgFbNM
@@ -767,17 +403,10 @@ SUMMARY:風真いろは: 【スプラ3】先輩方とがちまっち🔥頑張�
 UID:pLQ4IfgFbNM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【3D LIVE !】SHARK 3D LIVE! #Gura3DLive 💦\nhttps://www.youtube.com/watch?v=5-hwTE_O8WY
+DESCRIPTION:DO U - Takanashi Kiara (Official Music Video)\nhttps://www.youtube.com/watch?v=QI96hnhcr2E
 DURATION:PT2H
-DTSTART:20220918T010000Z
-SUMMARY:Gura: 【3D LIVE !】SHARK 3D LIVE! #Gura3DLive 💦
-UID:5-hwTE_O8WY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】Where's My L96【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=9qkbe8e56k8
-DURATION:PT2H
-DTSTART:20220917T231500Z
-SUMMARY:Anya: 【RUST】Where's My L96【hololive Indonesia 2nd Generation】
-UID:9qkbe8e56k8
+DTSTART:20220918T150000Z
+SUMMARY:Kiara: DO U - Takanashi Kiara (Official Music Video)
+UID:QI96hnhcr2E
 END:VEVENT
 END:VCALENDAR
