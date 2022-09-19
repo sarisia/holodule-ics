@@ -4,46 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Rust】#10 business - scraps - research - repeat【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=tzCxcItZYz8
-DURATION:PT2H
-DTSTART:20220918T021500Z
-SUMMARY:Kaela: 【Rust】#10 business - scraps - research - repeat【Kaela Kovalskia / hololiveID】
-UID:tzCxcItZYz8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】tonjok【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=rfIcGt-eAFI
-DURATION:PT2H
-DTSTART:20220919T030000Z
-SUMMARY:Reine: 【RUST】tonjok【Pavolia Reine/hololiveID 2nd gen】
-UID:rfIcGt-eAFI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Witch's House MV】HOUSE TOUR STREAM (not mine) (gone wrong)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=s3K6QvU0Qho
-DURATION:PT2H
-DTSTART:20220918T143000Z
-SUMMARY:Reine: 【The Witch's House MV】HOUSE TOUR STREAM (not mine) (gone wrong)【Pavolia Reine/hololiveID 2nd gen】
-UID:s3K6QvU0Qho
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Free Talk + Dono Reading】sore semuwah\nhttps://www.youtube.com/watch?v=b1MxDbqhbbg
-DURATION:PT2H
-DTSTART:20220918T080000Z
-SUMMARY:Kobo: 【Free Talk + Dono Reading】sore semuwah
-UID:b1MxDbqhbbg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】FIGHT N BE MEATS【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=HvFbaLqntso
-DURATION:PT2H
-DTSTART:20220919T030000Z
-SUMMARY:Anya: 【RUST】FIGHT N BE MEATS【hololive Indonesia 2nd Generation】
-UID:HvFbaLqntso
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:I love you 🤟❤️#AiraniIofifteen3D\nhttps://www.youtube.com/watch?v=_T5JANhjHxw
 DURATION:PT2H
 DTSTART:20220918T010316Z
 SUMMARY:🎨Iofi: I love you 🤟❤️#AiraniIofifteen3D
 UID:_T5JANhjHxw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Rust】#10 business - scraps - research - repeat【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=tzCxcItZYz8
+DURATION:PT2H
+DTSTART:20220918T021500Z
+SUMMARY:Kaela: 【Rust】#10 business - scraps - research - repeat【Kaela Kovalskia / hololiveID】
+UID:tzCxcItZYz8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:『Splatoon 3』it's woomy time! yummy!\nhttps://www.youtube.com/watch?v=OGi5riiOCEI
@@ -62,7 +34,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】BIRCH【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=Igb-H_nb56g
 DURATION:PT2H
-DTSTART:20220919T110000Z
+DTSTART:20220919T105845Z
 SUMMARY:Ollie: 【MINECRAFT】BIRCH【Hololive Indonesia 2nd Gen】
 UID:Igb-H_nb56g
 END:VEVENT
@@ -88,18 +60,11 @@ SUMMARY:Kaela: 【PEJUANG SENIN】#20 just talk since its a special Monday【Kae
 UID:31m6z_vFIMI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RUST】Afternoon RUST!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=f_TW0xn1m_A
+DESCRIPTION:【RUST】tonjok【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=rfIcGt-eAFI
 DURATION:PT2H
-DTSTART:20220919T070000Z
-SUMMARY:Anya: 【RUST】Afternoon RUST!【hololive Indonesia 2nd Generation】
-UID:f_TW0xn1m_A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】Doing fun stuff with a kris【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=-HZ-6MOXSbY
-DURATION:PT2H
-DTSTART:20220919T070000Z
-SUMMARY:Reine: 【RUST】Doing fun stuff with a kris【Pavolia Reine/hololiveID 2nd gen】
-UID:-HZ-6MOXSbY
+DTSTART:20220919T030000Z
+SUMMARY:Reine: 【RUST】tonjok【Pavolia Reine/hololiveID 2nd gen】
+UID:rfIcGt-eAFI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【holoID】post 3D showcase sleepy talk【Ayunda Risu】\nhttps://www.youtube.com/watch?v=qCM4I6N5Qo0
@@ -107,6 +72,27 @@ DURATION:PT2H
 DTSTART:20220918T160000Z
 SUMMARY:🐿Risu: 【holoID】post 3D showcase sleepy talk【Ayunda Risu】
 UID:qCM4I6N5Qo0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【The Witch's House MV】HOUSE TOUR STREAM (not mine) (gone wrong)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=s3K6QvU0Qho
+DURATION:PT2H
+DTSTART:20220918T143000Z
+SUMMARY:Reine: 【The Witch's House MV】HOUSE TOUR STREAM (not mine) (gone wrong)【Pavolia Reine/hololiveID 2nd gen】
+UID:s3K6QvU0Qho
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Free Talk + Dono Reading】sore semuwah\nhttps://www.youtube.com/watch?v=b1MxDbqhbbg
+DURATION:PT2H
+DTSTART:20220918T080000Z
+SUMMARY:Kobo: 【Free Talk + Dono Reading】sore semuwah
+UID:b1MxDbqhbbg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RUST】FIGHT N BE MEATS【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=HvFbaLqntso
+DURATION:PT2H
+DTSTART:20220919T030000Z
+SUMMARY:Anya: 【RUST】FIGHT N BE MEATS【hololive Indonesia 2nd Generation】
+UID:HvFbaLqntso
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】Where's My L96【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=9qkbe8e56k8
