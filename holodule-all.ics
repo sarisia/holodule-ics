@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【🟣雑談】さいきんのはなし！いろいろ！する！【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=9j8f86fygy8
+DURATION:PT2H
+DTSTART:20220920T130000Z
+SUMMARY:🍙猫又おかゆ: 【🟣雑談】さいきんのはなし！いろいろ！する！【猫又おかゆ/ホロライブ】
+UID:9j8f86fygy8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Rust】ホロRUSTバトロワちょこ参戦！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=HxWmbWBsOgo
 DURATION:PT2H
 DTSTART:20220919T030000Z
@@ -20,7 +27,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【CHAT】3D Live!! Animation watch along !\nhttps://www.youtube.com/watch?v=GCP1ERiN0hc
 DURATION:PT2H
-DTSTART:20220920T000000Z
+DTSTART:20220920T000009Z
 SUMMARY:Gura: 【CHAT】3D Live!! Animation watch along !
 UID:GCP1ERiN0hc
 END:VEVENT
@@ -193,6 +200,13 @@ SUMMARY:Calli: 【MV】Scuffed Up Age - Mori Calliope (Original Song)
 UID:8bc1GW-zsPY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【GTA5】ROB BANK GET CASH\, EASY #kfp #キアライブ\nhttps://www.youtube.com/watch?v=t5tNN45jE0U
+DURATION:PT2H
+DTSTART:20220920T150000Z
+SUMMARY:Kiara: 【GTA5】ROB BANK GET CASH\, EASY #kfp #キアライブ
+UID:t5tNN45jE0U
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 スプラトゥーン３ 】腕前あげるもん！！！！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=mm1pSqtfjEU
 DURATION:PT2H
 DTSTART:20220919T120000Z
@@ -205,6 +219,13 @@ DURATION:PT2H
 DTSTART:20220918T230000Z
 SUMMARY:夜十神封魔: 【スプラトゥーン3】フェスまで時間がない！S+50への道！S+18～【#夜十神封魔 #ホロスターズ #アップロー】
 UID:GUnbW8fjDoI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololive ERROR】ホロライブ作のホラゲ!?挑戦してみる〜♪【ホロライブ /赤井はあと】\nhttps://www.youtube.com/watch?v=ARVpfe_aEvE
+DURATION:PT2H
+DTSTART:20220920T100000Z
+SUMMARY:❤赤井はあと: 【hololive ERROR】ホロライブ作のホラゲ!?挑戦してみる〜♪【ホロライブ /赤井はあと】
+UID:ARVpfe_aEvE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】Afternoon RUST!【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=f_TW0xn1m_A
@@ -436,13 +457,6 @@ DURATION:PT2H
 DTSTART:20220919T030000Z
 SUMMARY:Reine: 【RUST】tonjok【Pavolia Reine/hololiveID 2nd gen】
 UID:rfIcGt-eAFI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Stream Meant For Today\nhttps://www.youtube.com/watch?v=hKX-mQ9KhRY
-DURATION:PT2H
-DTSTART:20220919T224500Z
-SUMMARY:Mumei: A Stream Meant For Today
-UID:hKX-mQ9KhRY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 AREA15 】Otsukaresama AREA15 3D Showcase !【 iofi / Moona / Risu 】\nhttps://www.youtube.com/watch?v=8G-H2iB9CWM
