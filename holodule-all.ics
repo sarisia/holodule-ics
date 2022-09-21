@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【HoloCure HARD STAGE】即終了いたしません。私、失敗しないので。目指すはゲマズ全員クリア‼【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=mRIi4C-WPS8
-DURATION:PT2H
-DTSTART:20220921T130000Z
-SUMMARY:鷹嶺ルイ: 【HoloCure HARD STAGE】即終了いたしません。私、失敗しないので。目指すはゲマズ全員クリア‼【鷹嶺ルイ/ホロライブ】
-UID:mRIi4C-WPS8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【🟣雑談】さいきんのはなし！いろいろ！する！【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=9j8f86fygy8
 DURATION:PT2H
 DTSTART:20220920T140000Z
@@ -30,6 +23,13 @@ DURATION:PT2H
 DTSTART:20220920T163000Z
 SUMMARY:Reine: 【HoloCure】l PROMISE I WILL MAKE GOOD USE OF THE HOLOCOINS.【Pavolia Reine/hololiveID 2nd gen】
 UID:Tf-bej-6sbY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【League of Legends: Wild Rift】#26 hi【ElaOnDuty】\nhttps://www.youtube.com/watch?v=f29yvhtujog
+DURATION:PT2H
+DTSTART:20220921T133000Z
+SUMMARY:Kaela: 【League of Legends: Wild Rift】#26 hi【ElaOnDuty】
+UID:f29yvhtujog
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【UNDERTALE】MAGGINLOVANIA\nhttps://www.youtube.com/watch?v=X-cz0tSbEjo
@@ -198,6 +198,13 @@ DURATION:PT2H
 DTSTART:20220919T210000Z
 SUMMARY:Ina: 【ROOM REVIEW】 #TakoTakover Progress Check!!!! 【Pt.1】
 UID:IpTyv3vG1xM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HoloCure HARD STAGE】すみませんでした。もう1度だけチャンスをください。目指すはゲマズ全員クリア‼【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=23kLCg5OMyw
+DURATION:PT2H
+DTSTART:20220921T134000Z
+SUMMARY:鷹嶺ルイ: 【HoloCure HARD STAGE】すみませんでした。もう1度だけチャンスをください。目指すはゲマズ全員クリア‼【鷹嶺ルイ/ホロライブ】
+UID:23kLCg5OMyw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Rust】オイルリグ襲撃～～！withかなた先輩ラミィ先輩【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=z55R0Z8_qk0
@@ -496,7 +503,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PHOGS!】 Kabob is pretty cool i guess w/ @Kobo Kanaeru Ch. hololive-ID  【2】\nhttps://www.youtube.com/watch?v=0tC_X1cjr2M
 DURATION:PT2H
-DTSTART:20220921T140000Z
+DTSTART:20220921T133000Z
 SUMMARY:Altare: 【PHOGS!】 Kabob is pretty cool i guess w/ @Kobo Kanaeru Ch. hololive-ID  【2】
 UID:0tC_X1cjr2M
 END:VEVENT
