@@ -4,32 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Important Announcement】\nhttps://www.youtube.com/watch?v=AbiKRzytO3c
-DURATION:PT2H
-DTSTART:20220920T180000Z
-SUMMARY:Amelia: 【Important Announcement】
-UID:AbiKRzytO3c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FIELD TRIP】Fishies!!!!! 𓆟 𓆝 𓆜 𓆞 𓆛 (Ame Cameraman POV)\nhttps://www.youtube.com/watch?v=oQBFMEIInIo
-DURATION:PT2H
-DTSTART:20220920T230500Z
-SUMMARY:Amelia: 【FIELD TRIP】Fishies!!!!! 𓆟 𓆝 𓆜 𓆞 𓆛 (Ame Cameraman POV)
-UID:oQBFMEIInIo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【We Were Here Forever】This Is The One With @Nanashi Mumei Ch. hololive-EN | #1\nhttps://www.youtube.com/watch?v=BLLvW0VSO4g
 DURATION:PT2H
 DTSTART:20220921T030000Z
 SUMMARY:Kronii: 【We Were Here Forever】This Is The One With @Nanashi Mumei Ch. hololive-EN | #1
 UID:BLLvW0VSO4g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VR】Under The Sea FIELD TRIP with (MUMEI POV)​\nhttps://www.youtube.com/watch?v=BjHCnQY9QfQ
-DURATION:PT2H
-DTSTART:20220920T231000Z
-SUMMARY:Mumei: 【VR】Under The Sea FIELD TRIP with (MUMEI POV)​
-UID:BjHCnQY9QfQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RESIDENT EVIL HD Remaster】come here zombebehs\nhttps://www.youtube.com/watch?v=cQmtAjLTYmA
@@ -51,5 +30,33 @@ DURATION:PT2H
 DTSTART:20220920T230000Z
 SUMMARY:Fauna: 【MINECRAFT】 Villager Management Simulator
 UID:DBX6lfmydeo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Important Announcement】\nhttps://www.youtube.com/watch?v=AbiKRzytO3c
+DURATION:PT2H
+DTSTART:20220920T180000Z
+SUMMARY:Amelia: 【Important Announcement】
+UID:AbiKRzytO3c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FIELD TRIP】Fishies!!!!! 𓆟 𓆝 𓆜 𓆞 𓆛 (Ame Cameraman POV)\nhttps://www.youtube.com/watch?v=oQBFMEIInIo
+DURATION:PT2H
+DTSTART:20220920T230500Z
+SUMMARY:Amelia: 【FIELD TRIP】Fishies!!!!! 𓆟 𓆝 𓆜 𓆞 𓆛 (Ame Cameraman POV)
+UID:oQBFMEIInIo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VR】Under The Sea FIELD TRIP with (MUMEI POV)​\nhttps://www.youtube.com/watch?v=BjHCnQY9QfQ
+DURATION:PT2H
+DTSTART:20220920T231000Z
+SUMMARY:Mumei: 【VR】Under The Sea FIELD TRIP with (MUMEI POV)​
+UID:BjHCnQY9QfQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DRAWING】 Eh\nhttps://www.youtube.com/watch?v=oK5w7ltrdA4
+DURATION:PT2H
+DTSTART:20220921T200000Z
+SUMMARY:Ina: 【DRAWING】 Eh
+UID:oK5w7ltrdA4
 END:VEVENT
 END:VCALENDAR
