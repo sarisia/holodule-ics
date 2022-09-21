@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【HoloCure HARD STAGE】即終了いたしません。私、失敗しないので。目指すはゲマズ全員クリア‼【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=mRIi4C-WPS8
+DURATION:PT2H
+DTSTART:20220921T130000Z
+SUMMARY:鷹嶺ルイ: 【HoloCure HARD STAGE】即終了いたしません。私、失敗しないので。目指すはゲマズ全員クリア‼【鷹嶺ルイ/ホロライブ】
+UID:mRIi4C-WPS8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【🟣雑談】さいきんのはなし！いろいろ！する！【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=9j8f86fygy8
 DURATION:PT2H
 DTSTART:20220920T140000Z
@@ -11,18 +18,11 @@ SUMMARY:🍙猫又おかゆ: 【🟣雑談】さいきんのはなし！いろ�
 UID:9j8f86fygy8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FGO】復帰ライト勢！卑弥呼PUガチャ引くよおお＆教えてください！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=AZf0fzYv-NQ
+DESCRIPTION:【Fate/Grand Order】なぁに…推しを宝具５にするだけだ…かすり傷さ…【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=iBAee11urZw
 DURATION:PT2H
-DTSTART:20220921T080000Z
-SUMMARY:博衣こより: 【FGO】復帰ライト勢！卑弥呼PUガチャ引くよおお＆教えてください！！【博衣こより/ホロライブ】
-UID:AZf0fzYv-NQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】ラミィとさかまたとラージオイルリグ！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=najfZKgXW6s
-DURATION:PT2H
-DTSTART:20220920T140000Z
-SUMMARY:💫天音かなた: 【RUST】ラミィとさかまたとラージオイルリグ！！！【天音かなた/ホロライブ】
-UID:najfZKgXW6s
+DTSTART:20220921T120000Z
+SUMMARY:🌽白上フブキ: 【Fate/Grand Order】なぁに…推しを宝具５にするだけだ…かすり傷さ…【ホロライブ/白上フブキ】
+UID:iBAee11urZw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Apex】楽しみたい悪魔のAPEX⚡【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=8tjGr-Filas
@@ -46,13 +46,6 @@ SUMMARY:🐏角巻わため: HOLLOW HUNGER / 角巻わため(Cover)
 UID:4oxVyAXTJJw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ホラー/#hololiveERROR 】解説しつつ遊んでいくERRORの世界【ときのそら/人生つみこ/#ときのそら生放送】\nhttps://www.youtube.com/watch?v=xNYFusps4I8
-DURATION:PT2H
-DTSTART:20220920T120000Z
-SUMMARY:🐻ときのそら: 【ホラー/#hololiveERROR 】解説しつつ遊んでいくERRORの世界【ときのそら/人生つみこ/#ときのそら生放送】
-UID:xNYFusps4I8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌謡曲縛り歌枠】第5夜 | スナックアキロゼの #火曜に歌謡曲 /Japanese old CITY POP【Aki Rosenthal/ホロライブ】\nhttps://www.youtube.com/watch?v=EcrM25HLqlI
 DURATION:PT2H
 DTSTART:20220920T140000Z
@@ -60,32 +53,11 @@ SUMMARY:🍎アキロゼ: 【歌謡曲縛り歌枠】第5夜 | スナックア�
 UID:EcrM25HLqlI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Rust】オイルリグ襲撃～～！withかなた先輩ラミィ先輩【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=z55R0Z8_qk0
-DURATION:PT2H
-DTSTART:20220920T140000Z
-SUMMARY:沙花叉クロヱ: 【Rust】オイルリグ襲撃～～！withかなた先輩ラミィ先輩【沙花叉クロヱ/ホロライブ】
-UID:z55R0Z8_qk0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン3】みんなでわちゃわちゃスプラするぞ～～！🦑🐙【#SMOK/ホロライブ】\nhttps://www.youtube.com/watch?v=Ovi9kesN7jg
 DURATION:PT2H
 DTSTART:20220921T140000Z
 SUMMARY:🍙猫又おかゆ: 【スプラトゥーン3】みんなでわちゃわちゃスプラするぞ～～！🦑🐙【#SMOK/ホロライブ】
 UID:Ovi9kesN7jg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ちゃまぽる】最強コンビ爆誕！？タイマンコラボだ！！【ホロライブ/尾丸ポルカ/赤井はあと】\nhttps://www.youtube.com/watch?v=BdPT8IiPQ0k
-DURATION:PT2H
-DTSTART:20220921T100000Z
-SUMMARY:❤赤井はあと: 【#ちゃまぽる】最強コンビ爆誕！？タイマンコラボだ！！【ホロライブ/尾丸ポルカ/赤井はあと】
-UID:BdPT8IiPQ0k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スプラ3】S昇格戦、参るでござる🔥【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=2optmx0Q4C4
-DURATION:PT2H
-DTSTART:20220920T090000Z
-SUMMARY:風真いろは: 【スプラ3】S昇格戦、参るでござる🔥【風真いろは/ホロライブ】
-UID:2optmx0Q4C4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:デイバイデイズ / 沙花叉クロヱ ラプラス・ダークネス(cover)\nhttps://www.youtube.com/watch?v=wLQQD3Ok0Uk
@@ -130,18 +102,11 @@ SUMMARY:獅白ぼたん: しゃべべ！【Member only / メンバー限定】
 UID:GlqrWqEtfrk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DeadbyDaylight】寝起き悪魔の追いかけっこ【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=EHMKqWUr1uQ
+DESCRIPTION:【Splatoon3】ウデマエS+耐久配信！！ 【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=R-45lVn1Z0Q
 DURATION:PT2H
-DTSTART:20220921T013000Z
-SUMMARY:💋癒月ちょこ: 【DeadbyDaylight】寝起き悪魔の追いかけっこ【ホロライブ/癒月ちょこ】
-UID:EHMKqWUr1uQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スーパーマリオRPG】ガチの神ゲー完全初見！スター2つGETした後から🌟 #2【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=bUUt4GU8L48
-DURATION:PT2H
-DTSTART:20220920T100000Z
-SUMMARY:博衣こより: 【スーパーマリオRPG】ガチの神ゲー完全初見！スター2つGETした後から🌟 #2【博衣こより/ホロライブ】
-UID:bUUt4GU8L48
+DTSTART:20220921T110000Z
+SUMMARY:🍎アキロゼ: 【Splatoon3】ウデマエS+耐久配信！！ 【ホロライブ/アキ・ローゼンタール】
+UID:R-45lVn1Z0Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#SMOK】ころね支店【スプラ３】\nhttps://www.youtube.com/watch?v=qYqvfMKR16c
@@ -156,6 +121,83 @@ DURATION:PT2H
 DTSTART:20220921T130000Z
 SUMMARY:🔥不知火フレア: 【復活！】焼肉しながらお休みの時の話とかする【不知火フレア/ホロライブ】
 UID:mn3e4HRADO4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mandragora? #Shorts ※音量注意【博衣こより/hololive】\nhttps://www.youtube.com/watch?v=9KrWj6JpFBA
+DURATION:PT2H
+DTSTART:20220920T082911Z
+SUMMARY:博衣こより: Mandragora? #Shorts ※音量注意【博衣こより/hololive】
+UID:9KrWj6JpFBA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スプラ3】S昇格戦、参るでござる🔥【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=2optmx0Q4C4
+DURATION:PT2H
+DTSTART:20220920T090000Z
+SUMMARY:風真いろは: 【スプラ3】S昇格戦、参るでござる🔥【風真いろは/ホロライブ】
+UID:2optmx0Q4C4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【配信予定】ぺこら今日なにすんだよ！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=38vLWVsCRB4
+DURATION:PT2H
+DTSTART:20220921T120000Z
+SUMMARY:👯兎田ぺこら: 【配信予定】ぺこら今日なにすんだよ！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:38vLWVsCRB4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FREE CHAT】期間限定フリ～チャット！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=qqZyc6DPTgA
+DURATION:PT2H
+DTSTART:20220921T144500Z
+SUMMARY:🔥不知火フレア: 【FREE CHAT】期間限定フリ～チャット！【不知火フレア/ホロライブ】
+UID:qqZyc6DPTgA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:光るなら / 常闇トワ×ロボ子さん×夜空メル×鷹嶺ルイ×沙花叉クロヱ(cover)\nhttps://www.youtube.com/watch?v=zu0DHyWBwpM
+DURATION:PT2H
+DTSTART:20220920T120000Z
+SUMMARY:👾常闇トワ: 光るなら / 常闇トワ×ロボ子さん×夜空メル×鷹嶺ルイ×沙花叉クロヱ(cover)
+UID:zu0DHyWBwpM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RUST】ラミィとさかまたとラージオイルリグ！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=najfZKgXW6s
+DURATION:PT2H
+DTSTART:20220920T140000Z
+SUMMARY:💫天音かなた: 【RUST】ラミィとさかまたとラージオイルリグ！！！【天音かなた/ホロライブ】
+UID:najfZKgXW6s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ホラー/#hololiveERROR 】解説しつつ遊んでいくERRORの世界【ときのそら/人生つみこ/#ときのそら生放送】\nhttps://www.youtube.com/watch?v=xNYFusps4I8
+DURATION:PT2H
+DTSTART:20220920T120000Z
+SUMMARY:🐻ときのそら: 【ホラー/#hololiveERROR 】解説しつつ遊んでいくERRORの世界【ときのそら/人生つみこ/#ときのそら生放送】
+UID:xNYFusps4I8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Rust】オイルリグ襲撃～～！withかなた先輩ラミィ先輩【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=z55R0Z8_qk0
+DURATION:PT2H
+DTSTART:20220920T140000Z
+SUMMARY:沙花叉クロヱ: 【Rust】オイルリグ襲撃～～！withかなた先輩ラミィ先輩【沙花叉クロヱ/ホロライブ】
+UID:z55R0Z8_qk0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ぽるちゃま】最強コンビ爆誕！？タイマンコラボだ！！【ホロライブ/尾丸ポルカ/赤井はあと】\nhttps://www.youtube.com/watch?v=BdPT8IiPQ0k
+DURATION:PT2H
+DTSTART:20220921T100000Z
+SUMMARY:❤赤井はあと: 【#ぽるちゃま】最強コンビ爆誕！？タイマンコラボだ！！【ホロライブ/尾丸ポルカ/赤井はあと】
+UID:BdPT8IiPQ0k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DeadbyDaylight】寝起き悪魔の追いかけっこ【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=EHMKqWUr1uQ
+DURATION:PT2H
+DTSTART:20220921T013000Z
+SUMMARY:💋癒月ちょこ: 【DeadbyDaylight】寝起き悪魔の追いかけっこ【ホロライブ/癒月ちょこ】
+UID:EHMKqWUr1uQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スーパーマリオRPG】ガチの神ゲー完全初見！スター2つGETした後から🌟 #2【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=bUUt4GU8L48
+DURATION:PT2H
+DTSTART:20220920T100000Z
+SUMMARY:博衣こより: 【スーパーマリオRPG】ガチの神ゲー完全初見！スター2つGETした後から🌟 #2【博衣こより/ホロライブ】
+UID:bUUt4GU8L48
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【】ANIME Song☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻☻sing【】\nhttps://www.youtube.com/watch?v=9KvAxqwO524
@@ -179,13 +221,6 @@ SUMMARY:🚑大空スバル: 【#生スバル】フリーやりたい放題雑�
 UID:cHxU5t4VWyI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【配信予定】ぺこら今日なにすんだよ！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=38vLWVsCRB4
-DURATION:PT2H
-DTSTART:20220921T120000Z
-SUMMARY:👯兎田ぺこら: 【配信予定】ぺこら今日なにすんだよ！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:38vLWVsCRB4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠】ラプクロ歌みた公開まで歌います！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=SkzXOBR1mXE
 DURATION:PT2H
 DTSTART:20220920T100000Z
@@ -193,31 +228,10 @@ SUMMARY:沙花叉クロヱ: 【歌枠】ラプクロ歌みた公開まで歌い�
 UID:SkzXOBR1mXE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mandragora? #Shorts ※音量注意【博衣こより/hololive】\nhttps://www.youtube.com/watch?v=9KrWj6JpFBA
-DURATION:PT2H
-DTSTART:20220920T082911Z
-SUMMARY:博衣こより: Mandragora? #Shorts ※音量注意【博衣こより/hololive】
-UID:9KrWj6JpFBA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FREE CHAT】期間限定フリ～チャット！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=qqZyc6DPTgA
-DURATION:PT2H
-DTSTART:20220921T144500Z
-SUMMARY:🔥不知火フレア: 【FREE CHAT】期間限定フリ～チャット！【不知火フレア/ホロライブ】
-UID:qqZyc6DPTgA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#朝こよ】連休明けも朝こよを見て元気に始めよう！ #84【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=RM8VzHAOmcY
 DURATION:PT2H
 DTSTART:20220919T220000Z
 SUMMARY:博衣こより: 【#朝こよ】連休明けも朝こよを見て元気に始めよう！ #84【博衣こより/ホロライブ】
 UID:RM8VzHAOmcY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:光るなら / 常闇トワ×ロボ子さん×夜空メル×鷹嶺ルイ×沙花叉クロヱ(cover)\nhttps://www.youtube.com/watch?v=zu0DHyWBwpM
-DURATION:PT2H
-DTSTART:20220920T120000Z
-SUMMARY:👾常闇トワ: 光るなら / 常闇トワ×ロボ子さん×夜空メル×鷹嶺ルイ×沙花叉クロヱ(cover)
-UID:zu0DHyWBwpM
 END:VEVENT
 END:VCALENDAR

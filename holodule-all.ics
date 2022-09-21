@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【HoloCure HARD STAGE】即終了いたしません。私、失敗しないので。目指すはゲマズ全員クリア‼【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=mRIi4C-WPS8
+DURATION:PT2H
+DTSTART:20220921T130000Z
+SUMMARY:鷹嶺ルイ: 【HoloCure HARD STAGE】即終了いたしません。私、失敗しないので。目指すはゲマズ全員クリア‼【鷹嶺ルイ/ホロライブ】
+UID:mRIi4C-WPS8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【🟣雑談】さいきんのはなし！いろいろ！する！【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=9j8f86fygy8
 DURATION:PT2H
 DTSTART:20220920T140000Z
@@ -18,25 +25,11 @@ SUMMARY:Reine: 【HoloCure】l PROMISE I WILL MAKE GOOD USE OF THE HOLOCOINS.【
 UID:Tf-bej-6sbY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FGO】復帰ライト勢！卑弥呼PUガチャ引くよおお＆教えてください！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=AZf0fzYv-NQ
-DURATION:PT2H
-DTSTART:20220921T080000Z
-SUMMARY:博衣こより: 【FGO】復帰ライト勢！卑弥呼PUガチャ引くよおお＆教えてください！！【博衣こより/ホロライブ】
-UID:AZf0fzYv-NQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【UNDERTALE】MAGGINLOVANIA\nhttps://www.youtube.com/watch?v=X-cz0tSbEjo
 DURATION:PT2H
 DTSTART:20220922T020000Z
 SUMMARY:Dezmond: 【UNDERTALE】MAGGINLOVANIA
 UID:X-cz0tSbEjo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】昼に雑談をする男です【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=x2WwkHEzkMA
-DURATION:PT2H
-DTSTART:20220920T052500Z
-SUMMARY:🍷夕刻ロベル: 【雑談】昼に雑談をする男です【夕刻ロベル/ホロスターズ】
-UID:x2WwkHEzkMA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:I take 16d6 zoomer damage (critical)\nhttps://www.youtube.com/watch?v=1qJ4NqIW0Ek
@@ -46,6 +39,13 @@ SUMMARY:Vesper: I take 16d6 zoomer damage (critical)
 UID:1qJ4NqIW0Ek
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【雑談】昼に雑談をする男です【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=x2WwkHEzkMA
+DURATION:PT2H
+DTSTART:20220920T052500Z
+SUMMARY:🍷夕刻ロベル: 【雑談】昼に雑談をする男です【夕刻ロベル/ホロスターズ】
+UID:x2WwkHEzkMA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Moonlighter】経営が軌道に乗りすぎてバイトまで雇ってしまったよ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=S8-jxkSUTZs
 DURATION:PT2H
 DTSTART:20220920T070000Z
@@ -53,11 +53,11 @@ SUMMARY:🍕アルランディス: 【Moonlighter】経営が軌道に乗りす�
 UID:S8-jxkSUTZs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】 Villager Management Simulator\nhttps://www.youtube.com/watch?v=DBX6lfmydeo
+DESCRIPTION:【Apex】楽しみたい悪魔のAPEX⚡【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=8tjGr-Filas
 DURATION:PT2H
-DTSTART:20220920T230000Z
-SUMMARY:Fauna: 【MINECRAFT】 Villager Management Simulator
-UID:DBX6lfmydeo
+DTSTART:20220921T041500Z
+SUMMARY:💋癒月ちょこ: 【Apex】楽しみたい悪魔のAPEX⚡【ホロライブ/癒月ちょこ】
+UID:8tjGr-Filas
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FIELD TRIP】Fishies!!!!! 𓆟 𓆝 𓆜 𓆞 𓆛 (Ame Cameraman POV)\nhttps://www.youtube.com/watch?v=oQBFMEIInIo
@@ -67,11 +67,11 @@ SUMMARY:Amelia: 【FIELD TRIP】Fishies!!!!! 𓆟 𓆝 𓆜 𓆞 𓆛 (Ame Camer
 UID:oQBFMEIInIo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Apex】楽しみたい悪魔のAPEX⚡【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=8tjGr-Filas
+DESCRIPTION:【MINECRAFT】 Villager Management Simulator\nhttps://www.youtube.com/watch?v=DBX6lfmydeo
 DURATION:PT2H
-DTSTART:20220921T041500Z
-SUMMARY:💋癒月ちょこ: 【Apex】楽しみたい悪魔のAPEX⚡【ホロライブ/癒月ちょこ】
-UID:8tjGr-Filas
+DTSTART:20220920T230000Z
+SUMMARY:Fauna: 【MINECRAFT】 Villager Management Simulator
+UID:DBX6lfmydeo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【CHAT】3D Live!! Animation watch along !\nhttps://www.youtube.com/watch?v=GCP1ERiN0hc
@@ -291,6 +291,13 @@ SUMMARY:Dezmond: [HUMAN FALL FLAT] FLOPPING AROUND w/ @Rio Ch. 水無世燐央 -
 UID:znplqdbZZZw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Fate/Grand Order】なぁに…推しを宝具５にするだけだ…かすり傷さ…【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=iBAee11urZw
+DURATION:PT2H
+DTSTART:20220921T120000Z
+SUMMARY:🌽白上フブキ: 【Fate/Grand Order】なぁに…推しを宝具５にするだけだ…かすり傷さ…【ホロライブ/白上フブキ】
+UID:iBAee11urZw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【HoloCure】#10 all characters hard mode ikz【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=XNT97DfdNt4
 DURATION:PT2H
 DTSTART:20220920T051500Z
@@ -375,6 +382,13 @@ SUMMARY:獅白ぼたん: しゃべべ！【Member only / メンバー限定】
 UID:GlqrWqEtfrk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Splatoon3】ウデマエS+耐久配信！！ 【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=R-45lVn1Z0Q
+DURATION:PT2H
+DTSTART:20220921T110000Z
+SUMMARY:🍎アキロゼ: 【Splatoon3】ウデマエS+耐久配信！！ 【ホロライブ/アキ・ローゼンタール】
+UID:R-45lVn1Z0Q
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:『ART』hololive members in 90s anime style\nhttps://www.youtube.com/watch?v=D7h9cDEMPak
 DURATION:PT2H
 DTSTART:20220920T150000Z
@@ -382,18 +396,18 @@ SUMMARY:Zeta: 『ART』hololive members in 90s anime style
 UID:D7h9cDEMPak
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mandragora? #Shorts ※音量注意【博衣こより/hololive】\nhttps://www.youtube.com/watch?v=9KrWj6JpFBA
-DURATION:PT2H
-DTSTART:20220920T082911Z
-SUMMARY:博衣こより: Mandragora? #Shorts ※音量注意【博衣こより/hololive】
-UID:9KrWj6JpFBA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【スプラ3】S昇格戦、参るでござる🔥【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=2optmx0Q4C4
 DURATION:PT2H
 DTSTART:20220920T090000Z
 SUMMARY:風真いろは: 【スプラ3】S昇格戦、参るでござる🔥【風真いろは/ホロライブ】
 UID:2optmx0Q4C4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mandragora? #Shorts ※音量注意【博衣こより/hololive】\nhttps://www.youtube.com/watch?v=9KrWj6JpFBA
+DURATION:PT2H
+DTSTART:20220920T082911Z
+SUMMARY:博衣こより: Mandragora? #Shorts ※音量注意【博衣こより/hololive】
+UID:9KrWj6JpFBA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Unpacking】I Unpack That's It\nhttps://www.youtube.com/watch?v=Egwq8dQUCvs
@@ -473,11 +487,11 @@ SUMMARY:🐻ときのそら: 【ホラー/#hololiveERROR 】解説しつつ遊�
 UID:xNYFusps4I8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Story Of Seasons: Friends of Mineral Town】 KAPAN DAPET HATI GRAYYYY part #3\nhttps://www.youtube.com/watch?v=p3T1gwl12ME
+DESCRIPTION:【#ぽるちゃま】最強コンビ爆誕！？タイマンコラボだ！！【ホロライブ/尾丸ポルカ/赤井はあと】\nhttps://www.youtube.com/watch?v=BdPT8IiPQ0k
 DURATION:PT2H
-DTSTART:20220921T080000Z
-SUMMARY:Kobo: 【Story Of Seasons: Friends of Mineral Town】 KAPAN DAPET HATI GRAYYYY part #3
-UID:p3T1gwl12ME
+DTSTART:20220921T100000Z
+SUMMARY:❤赤井はあと: 【#ぽるちゃま】最強コンビ爆誕！？タイマンコラボだ！！【ホロライブ/尾丸ポルカ/赤井はあと】
+UID:BdPT8IiPQ0k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A Stream Meant For Today\nhttps://www.youtube.com/watch?v=hKX-mQ9KhRY
@@ -485,13 +499,6 @@ DURATION:PT2H
 DTSTART:20220919T224500Z
 SUMMARY:Mumei: A Stream Meant For Today
 UID:hKX-mQ9KhRY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ちゃまぽる】最強コンビ爆誕！？タイマンコラボだ！！【ホロライブ/尾丸ポルカ/赤井はあと】\nhttps://www.youtube.com/watch?v=BdPT8IiPQ0k
-DURATION:PT2H
-DTSTART:20220921T100000Z
-SUMMARY:❤赤井はあと: 【#ちゃまぽる】最強コンビ爆誕！？タイマンコラボだ！！【ホロライブ/尾丸ポルカ/赤井はあと】
-UID:BdPT8IiPQ0k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【We Were Here Forever】This Is The One With @Nanashi Mumei Ch. hololive-EN | #1\nhttps://www.youtube.com/watch?v=BLLvW0VSO4g
