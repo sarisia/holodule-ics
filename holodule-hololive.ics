@@ -4,6 +4,34 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Sing/歌枠】楽しく歌っていこうの枠【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=2eVDXPb3AMo
+DURATION:PT2H
+DTSTART:20220922T120000Z
+SUMMARY:🐻ときのそら: 【Sing/歌枠】楽しく歌っていこうの枠【#ときのそら生放送】
+UID:2eVDXPb3AMo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HoloCure】クリア目指して🔥がんばるでござる！！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=2MxAY9O-coo
+DURATION:PT2H
+DTSTART:20220922T130000Z
+SUMMARY:風真いろは: 【HoloCure】クリア目指して🔥がんばるでござる！！【風真いろは/ホロライブ】
+UID:2MxAY9O-coo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スプラトゥーン３】深夜バイト～イクラ添え～【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=OhClFIG78Ow
+DURATION:PT2H
+DTSTART:20220921T164500Z
+SUMMARY:🌽白上フブキ: 【スプラトゥーン３】深夜バイト～イクラ添え～【ホロライブ/白上フブキ】
+UID:OhClFIG78Ow
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】散髪屋さん完成させたい！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=jKhM7fklYHc
+DURATION:PT2H
+DTSTART:20220922T130000Z
+SUMMARY:🐏角巻わため: 【Minecraft】散髪屋さん完成させたい！！！【角巻わため/ホロライブ４期生】
+UID:jKhM7fklYHc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#06【ゼルダの伝説 ムジュラの仮面】超難関なのに久々って沼不可避すぎるッ🔥【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=hPgFktgv6nU
 DURATION:PT2H
 DTSTART:20220923T020000Z
@@ -11,18 +39,18 @@ SUMMARY:⚔白銀ノエル: #06【ゼルダの伝説 ムジュラの仮面】超
 UID:hPgFktgv6nU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【歌枠/Singing】新環境だが新感覚ではない新境地で新天地のKARAOKE🎤【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=X8H1z6nWfH8
+DURATION:PT2H
+DTSTART:20220922T140000Z
+SUMMARY:尾丸ポルカ: 【歌枠/Singing】新環境だが新感覚ではない新境地で新天地のKARAOKE🎤【尾丸ポルカ/ホロライブ】
+UID:X8H1z6nWfH8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 プリコネR 】新キャラ「ネア」を手にいれるのらっ！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=3kUPltccy44
 DURATION:PT2H
 DTSTART:20220922T110000Z
 SUMMARY:🍬姫森ルーナ: 【 プリコネR 】新キャラ「ネア」を手にいれるのらっ！【姫森ルーナ/ホロライブ】
 UID:3kUPltccy44
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Splatoon3】ウデマエS+耐久配信！！ 続き！【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=XaFqJAmS7hY
-DURATION:PT2H
-DTSTART:20220922T093000Z
-SUMMARY:🍎アキロゼ: 【Splatoon3】ウデマエS+耐久配信！！ 続き！【ホロライブ/アキ・ローゼンタール】
-UID:XaFqJAmS7hY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 RUST 】ヘリよ、お前と戦いたい―――。【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=MZH2B1d-2gw
@@ -53,6 +81,20 @@ SUMMARY:👯兎田ぺこら: 【同時視聴】Fate/Zeroみんなで観よう！
 UID:u9sD2z09ATQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【朝メル#15】食欲の秋！！！かぷかぷかぷかｐ🍄【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=vgZ_fsUgYZI
+DURATION:PT2H
+DTSTART:20220921T220000Z
+SUMMARY:🌟夜空メル: 【朝メル#15】食欲の秋！！！かぷかぷかぷかｐ🍄【ホロライブ/夜空メル】
+UID:vgZ_fsUgYZI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポルカの伝説】運勢がよくなる名前なんてあるんですか！？\nhttps://www.youtube.com/watch?v=eHtov5_GFf4
+DURATION:PT2H
+DTSTART:20220922T100000Z
+SUMMARY:尾丸ポルカ: 【ポルカの伝説】運勢がよくなる名前なんてあるんですか！？
+UID:eHtov5_GFf4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 そろそろ寿司を食べないと死ぬぜ！ 】寿司がないと生きていけないんだ…【 桃鈴ねね / ホロライブ  】\nhttps://www.youtube.com/watch?v=mv8BZHdD6OY
 DURATION:PT2H
 DTSTART:20220923T010000Z
@@ -72,90 +114,6 @@ DURATION:PT2H
 DTSTART:20220922T140000Z
 SUMMARY:鷹嶺ルイ: 【雑談】いろいろなお話しつつ…61万人感謝のスパチャ読み～✨【鷹嶺ルイ/ホロライブ】
 UID:9UTR85-Jt_o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【EDF6】EDF隊員集まれ～～！今日も地球守るぞ！！！【 ホロライブ / 大神ミオ 】\nhttps://www.youtube.com/watch?v=pXRV3wB73BE
-DURATION:PT2H
-DTSTART:20220922T103000Z
-SUMMARY:🌲大神ミオ: 【EDF6】EDF隊員集まれ～～！今日も地球守るぞ！！！【 ホロライブ / 大神ミオ 】
-UID:pXRV3wB73BE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】襲われた！？かなタワー公開だ！！戦車とEV設置！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=kNacYR5aqM8
-DURATION:PT2H
-DTSTART:20220922T100000Z
-SUMMARY:💫天音かなた: 【RUST】襲われた！？かなタワー公開だ！！戦車とEV設置！！！【天音かなた/ホロライブ】
-UID:kNacYR5aqM8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Phasmophobia】久しぶりの修行【ホラゲー】\nhttps://www.youtube.com/watch?v=PbDA0NWr_tM
-DURATION:PT2H
-DTSTART:20220922T120000Z
-SUMMARY:🥐戌神ころね: 【Phasmophobia】久しぶりの修行【ホラゲー】
-UID:PbDA0NWr_tM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【聖塔神記 トリニティトリガー】さぁ、一緒に出掛けよう！！‬【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=pLm3h1Aanb4
-DURATION:PT2H
-DTSTART:20220922T120000Z
-SUMMARY:⚔白銀ノエル: 【聖塔神記 トリニティトリガー】さぁ、一緒に出掛けよう！！‬【白銀ノエル/ホロライブ】
-UID:pLm3h1Aanb4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 HoloCure 】初めてのホロキュアやってみるのら！✨【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=eXBcOtXcztU
-DURATION:PT2H
-DTSTART:20220922T130000Z
-SUMMARY:🍬姫森ルーナ: 【 HoloCure 】初めてのホロキュアやってみるのら！✨【姫森ルーナ/ホロライブ】
-UID:eXBcOtXcztU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Sing/歌枠】楽しく歌っていこうの枠【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=2eVDXPb3AMo
-DURATION:PT2H
-DTSTART:20220922T120000Z
-SUMMARY:🐻ときのそら: 【Sing/歌枠】楽しく歌っていこうの枠【#ときのそら生放送】
-UID:2eVDXPb3AMo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HoloCure】クリア目指して🔥がんばるでござる！！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=2MxAY9O-coo
-DURATION:PT2H
-DTSTART:20220922T130000Z
-SUMMARY:風真いろは: 【HoloCure】クリア目指して🔥がんばるでござる！！【風真いろは/ホロライブ】
-UID:2MxAY9O-coo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン３】深夜バイト～イクラ添え～【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=OhClFIG78Ow
-DURATION:PT2H
-DTSTART:20220921T164500Z
-SUMMARY:🌽白上フブキ: 【スプラトゥーン３】深夜バイト～イクラ添え～【ホロライブ/白上フブキ】
-UID:OhClFIG78Ow
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】散髪屋さん完成させたい！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=jKhM7fklYHc
-DURATION:PT2H
-DTSTART:20220922T130000Z
-SUMMARY:🐏角巻わため: 【Minecraft】散髪屋さん完成させたい！！！【角巻わため/ホロライブ４期生】
-UID:jKhM7fklYHc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠/Singing】新環境だが新感覚ではない新境地で新天地のKARAOKE🎤【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=X8H1z6nWfH8
-DURATION:PT2H
-DTSTART:20220922T140000Z
-SUMMARY:尾丸ポルカ: 【歌枠/Singing】新環境だが新感覚ではない新境地で新天地のKARAOKE🎤【尾丸ポルカ/ホロライブ】
-UID:X8H1z6nWfH8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝メル#15】食欲の秋！！！かぷかぷかぷかｐ🍄【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=vgZ_fsUgYZI
-DURATION:PT2H
-DTSTART:20220921T220000Z
-SUMMARY:🌟夜空メル: 【朝メル#15】食欲の秋！！！かぷかぷかぷかｐ🍄【ホロライブ/夜空メル】
-UID:vgZ_fsUgYZI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポルカの伝説】運勢がよくなる名前なんてあるんですか！？\nhttps://www.youtube.com/watch?v=eHtov5_GFf4
-DURATION:PT2H
-DTSTART:20220922T100000Z
-SUMMARY:尾丸ポルカ: 【ポルカの伝説】運勢がよくなる名前なんてあるんですか！？
-UID:eHtov5_GFf4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【体験版/PS5】スターオーシャン 6 THE DIVINE FORCE【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=BsdUkLNvD2Y
@@ -226,5 +184,40 @@ DURATION:PT2H
 DTSTART:20220922T130000Z
 SUMMARY:🌟夜空メル: 【Splatoon3】ぬりぬりするでゲソ～～～！！！！【ホロライブ/夜空メル】
 UID:tymDmGV9-y8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【EDF6】EDF隊員集まれ～～！今日も地球守るぞ！！！【 ホロライブ / 大神ミオ 】\nhttps://www.youtube.com/watch?v=pXRV3wB73BE
+DURATION:PT2H
+DTSTART:20220922T103000Z
+SUMMARY:🌲大神ミオ: 【EDF6】EDF隊員集まれ～～！今日も地球守るぞ！！！【 ホロライブ / 大神ミオ 】
+UID:pXRV3wB73BE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RUST】襲われた！？かなタワー公開だ！！戦車とEV設置！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=kNacYR5aqM8
+DURATION:PT2H
+DTSTART:20220922T100000Z
+SUMMARY:💫天音かなた: 【RUST】襲われた！？かなタワー公開だ！！戦車とEV設置！！！【天音かなた/ホロライブ】
+UID:kNacYR5aqM8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Phasmophobia】久しぶりの修行【ホラゲー】\nhttps://www.youtube.com/watch?v=PbDA0NWr_tM
+DURATION:PT2H
+DTSTART:20220922T120000Z
+SUMMARY:🥐戌神ころね: 【Phasmophobia】久しぶりの修行【ホラゲー】
+UID:PbDA0NWr_tM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【聖塔神記 トリニティトリガー】さぁ、一緒に出掛けよう！！‬【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=pLm3h1Aanb4
+DURATION:PT2H
+DTSTART:20220922T120000Z
+SUMMARY:⚔白銀ノエル: 【聖塔神記 トリニティトリガー】さぁ、一緒に出掛けよう！！‬【白銀ノエル/ホロライブ】
+UID:pLm3h1Aanb4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 HoloCure 】初めてのホロキュアやってみるのら！✨【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=eXBcOtXcztU
+DURATION:PT2H
+DTSTART:20220922T130000Z
+SUMMARY:🍬姫森ルーナ: 【 HoloCure 】初めてのホロキュアやってみるのら！✨【姫森ルーナ/ホロライブ】
+UID:eXBcOtXcztU
 END:VEVENT
 END:VCALENDAR
