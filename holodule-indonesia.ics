@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:『RUST』Stream doko?\nhttps://www.youtube.com/watch?v=htrv9r1dlAQ
+DESCRIPTION:【Rust】#12 rushing the tech tree【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=LAdC_oaFD5o
 DURATION:PT2H
-DTSTART:20220922T130000Z
-SUMMARY:Zeta: 『RUST』Stream doko?
-UID:htrv9r1dlAQ
+DTSTART:20220922T040000Z
+SUMMARY:Kaela: 【Rust】#12 rushing the tech tree【Kaela Kovalskia / hololiveID】
+UID:LAdC_oaFD5o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:(EN) BIG BREINE SHARK! Reine Indonesian Classroom feeturing Gura #sharpea 【Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=iX8WRcP4NX0
@@ -32,39 +32,11 @@ SUMMARY:Kaela: 【League of Legends: Wild Rift】#26 hi【ElaOnDuty】
 UID:f29yvhtujog
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Jump King】Kobo's sleepy\, Eru's gonna play\nhttps://www.youtube.com/watch?v=YSnUsPQ_uqc
-DURATION:PT2H
-DTSTART:20220922T080000Z
-SUMMARY:Kobo: 【Jump King】Kobo's sleepy\, Eru's gonna play
-UID:YSnUsPQ_uqc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX LEGENDS】LOBA U【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=Lf5QHJVU-TU
-DURATION:PT2H
-DTSTART:20220921T112940Z
-SUMMARY:Ollie: 【APEX LEGENDS】LOBA U【Hololive ID 2nd Gen】
-UID:Lf5QHJVU-TU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:『ART』hololive members in 90s anime style\nhttps://www.youtube.com/watch?v=D7h9cDEMPak
-DURATION:PT2H
-DTSTART:20220920T150000Z
-SUMMARY:Zeta: 『ART』hololive members in 90s anime style
-UID:D7h9cDEMPak
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[ redacted ]\nhttps://www.youtube.com/watch?v=za9GuznyYwo
 DURATION:PT2H
 DTSTART:20220922T110000Z
 SUMMARY:Zeta: [ redacted ]
 UID:za9GuznyYwo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Tinykin】#2 lets continue~ 👀【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=hy6d6yB8xoo
-DURATION:PT2H
-DTSTART:20220921T041100Z
-SUMMARY:Kaela: 【Tinykin】#2 lets continue~ 👀【Kaela Kovalskia / hololiveID】
-UID:hy6d6yB8xoo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Valorant Aim Doko? 『Twitch VOD』\nhttps://www.youtube.com/watch?v=6wjjlpTYjtQ
@@ -107,5 +79,40 @@ DURATION:PT2H
 DTSTART:20220921T130000Z
 SUMMARY:Reine: 【NEW SONG TALK & READ MEPZINE】Curtain Call’s at dawn\, darling! Showtime!【Reine/hololiveID 2nd gen】
 UID:1_MBX8O3nmg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:『RUST』Stream doko?\nhttps://www.youtube.com/watch?v=htrv9r1dlAQ
+DURATION:PT2H
+DTSTART:20220922T130000Z
+SUMMARY:Zeta: 『RUST』Stream doko?
+UID:htrv9r1dlAQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX LEGENDS】LOBA U【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=Lf5QHJVU-TU
+DURATION:PT2H
+DTSTART:20220921T112940Z
+SUMMARY:Ollie: 【APEX LEGENDS】LOBA U【Hololive ID 2nd Gen】
+UID:Lf5QHJVU-TU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:『ART』hololive members in 90s anime style\nhttps://www.youtube.com/watch?v=D7h9cDEMPak
+DURATION:PT2H
+DTSTART:20220920T150000Z
+SUMMARY:Zeta: 『ART』hololive members in 90s anime style
+UID:D7h9cDEMPak
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Tinykin】#2 lets continue~ 👀【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=hy6d6yB8xoo
+DURATION:PT2H
+DTSTART:20220921T041100Z
+SUMMARY:Kaela: 【Tinykin】#2 lets continue~ 👀【Kaela Kovalskia / hololiveID】
+UID:hy6d6yB8xoo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Jump King】Kobo's sleepy\, Eru's gonna play\nhttps://www.youtube.com/watch?v=YSnUsPQ_uqc
+DURATION:PT2H
+DTSTART:20220922T080000Z
+SUMMARY:Kobo: 【Jump King】Kobo's sleepy\, Eru's gonna play
+UID:YSnUsPQ_uqc
 END:VEVENT
 END:VCALENDAR
