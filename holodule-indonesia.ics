@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:『RUST』Stream doko?\nhttps://www.youtube.com/watch?v=htrv9r1dlAQ
-DURATION:PT2H
-DTSTART:20220922T130000Z
-SUMMARY:Zeta: 『RUST』Stream doko?
-UID:htrv9r1dlAQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Rust】#12 rushing the tech tree【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=LAdC_oaFD5o
 DURATION:PT2H
 DTSTART:20220922T040000Z
@@ -18,11 +11,25 @@ SUMMARY:Kaela: 【Rust】#12 rushing the tech tree【Kaela Kovalskia / hololiveI
 UID:LAdC_oaFD5o
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:『RUST』Stream doko?\nhttps://www.youtube.com/watch?v=htrv9r1dlAQ
+DURATION:PT2H
+DTSTART:20220922T130000Z
+SUMMARY:Zeta: 『RUST』Stream doko?
+UID:htrv9r1dlAQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:[ redacted ]\nhttps://www.youtube.com/watch?v=za9GuznyYwo
 DURATION:PT2H
 DTSTART:20220922T110000Z
 SUMMARY:Zeta: [ redacted ]
 UID:za9GuznyYwo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Resident Evil Village】Let's defeat Lady Dimitrescu  #2\nhttps://www.youtube.com/watch?v=hRdVs98TWwI
+DURATION:PT2H
+DTSTART:20220922T124500Z
+SUMMARY:Kobo: 【Resident Evil Village】Let's defeat Lady Dimitrescu  #2
+UID:hRdVs98TWwI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Valorant Aim Doko? 『Twitch VOD』\nhttps://www.youtube.com/watch?v=6wjjlpTYjtQ
