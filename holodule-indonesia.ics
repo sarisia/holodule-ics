@@ -4,32 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:『RUST』Stream doko?\nhttps://www.youtube.com/watch?v=htrv9r1dlAQ
+DURATION:PT2H
+DTSTART:20220922T130000Z
+SUMMARY:Zeta: 『RUST』Stream doko?
+UID:htrv9r1dlAQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Rust】#12 rushing the tech tree【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=LAdC_oaFD5o
 DURATION:PT2H
 DTSTART:20220922T040000Z
 SUMMARY:Kaela: 【Rust】#12 rushing the tech tree【Kaela Kovalskia / hololiveID】
 UID:LAdC_oaFD5o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:(EN) BIG BREINE SHARK! Reine Indonesian Classroom feeturing Gura #sharpea 【Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=iX8WRcP4NX0
-DURATION:PT2H
-DTSTART:20220921T030000Z
-SUMMARY:Reine: (EN) BIG BREINE SHARK! Reine Indonesian Classroom feeturing Gura #sharpea 【Reine/hololiveID 2nd gen】
-UID:iX8WRcP4NX0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HoloCure】l PROMISE I WILL MAKE GOOD USE OF THE HOLOCOINS.【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=Tf-bej-6sbY
-DURATION:PT2H
-DTSTART:20220920T163000Z
-SUMMARY:Reine: 【HoloCure】l PROMISE I WILL MAKE GOOD USE OF THE HOLOCOINS.【Pavolia Reine/hololiveID 2nd gen】
-UID:Tf-bej-6sbY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【League of Legends: Wild Rift】#26 hi【ElaOnDuty】\nhttps://www.youtube.com/watch?v=f29yvhtujog
-DURATION:PT2H
-DTSTART:20220921T133000Z
-SUMMARY:Kaela: 【League of Legends: Wild Rift】#26 hi【ElaOnDuty】
-UID:f29yvhtujog
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[ redacted ]\nhttps://www.youtube.com/watch?v=za9GuznyYwo
@@ -44,69 +30,6 @@ DURATION:PT2H
 DTSTART:20220922T043802Z
 SUMMARY:Zeta: Valorant Aim Doko? 『Twitch VOD』
 UID:6wjjlpTYjtQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Resident Evil Village】Let's defeat Lady Dimitrescu  #2\nhttps://www.youtube.com/watch?v=hRdVs98TWwI
-DURATION:PT2H
-DTSTART:20220922T124500Z
-SUMMARY:Kobo: 【Resident Evil Village】Let's defeat Lady Dimitrescu  #2
-UID:hRdVs98TWwI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Half-Life 2】The Fun Begins Now【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=GBVM7xShvm8
-DURATION:PT2H
-DTSTART:20220921T140000Z
-SUMMARY:Anya: 【Half-Life 2】The Fun Begins Now【hololive Indonesia 2nd Generation】
-UID:GBVM7xShvm8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Story Of Seasons: Friends of Mineral Town】 KAPAN DAPET HATI GRAYYYY part #3\nhttps://www.youtube.com/watch?v=p3T1gwl12ME
-DURATION:PT2H
-DTSTART:20220921T080000Z
-SUMMARY:Kobo: 【Story Of Seasons: Friends of Mineral Town】 KAPAN DAPET HATI GRAYYYY part #3
-UID:p3T1gwl12ME
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:RIP umami #shorts\nhttps://www.youtube.com/watch?v=KxEpX_YJMmk
-DURATION:PT2H
-DTSTART:20220921T113532Z
-SUMMARY:Zeta: RIP umami #shorts
-UID:KxEpX_YJMmk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【NEW SONG TALK & READ MEPZINE】Curtain Call’s at dawn\, darling! Showtime!【Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=1_MBX8O3nmg
-DURATION:PT2H
-DTSTART:20220921T130000Z
-SUMMARY:Reine: 【NEW SONG TALK & READ MEPZINE】Curtain Call’s at dawn\, darling! Showtime!【Reine/hololiveID 2nd gen】
-UID:1_MBX8O3nmg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:『RUST』Stream doko?\nhttps://www.youtube.com/watch?v=htrv9r1dlAQ
-DURATION:PT2H
-DTSTART:20220922T130000Z
-SUMMARY:Zeta: 『RUST』Stream doko?
-UID:htrv9r1dlAQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX LEGENDS】LOBA U【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=Lf5QHJVU-TU
-DURATION:PT2H
-DTSTART:20220921T112940Z
-SUMMARY:Ollie: 【APEX LEGENDS】LOBA U【Hololive ID 2nd Gen】
-UID:Lf5QHJVU-TU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:『ART』hololive members in 90s anime style\nhttps://www.youtube.com/watch?v=D7h9cDEMPak
-DURATION:PT2H
-DTSTART:20220920T150000Z
-SUMMARY:Zeta: 『ART』hololive members in 90s anime style
-UID:D7h9cDEMPak
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Tinykin】#2 lets continue~ 👀【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=hy6d6yB8xoo
-DURATION:PT2H
-DTSTART:20220921T041100Z
-SUMMARY:Kaela: 【Tinykin】#2 lets continue~ 👀【Kaela Kovalskia / hololiveID】
-UID:hy6d6yB8xoo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mysterious Melody.. #shorts\nhttps://www.youtube.com/watch?v=tRSG_LzCDXw

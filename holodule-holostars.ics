@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【FreeTalk】雑談する人【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=va6zOF6iPYU
-DURATION:PT2H
-DTSTART:20220921T123000Z
-SUMMARY:🍕アルランディス: 【FreeTalk】雑談する人【アルランディス/ホロスターズ】
-UID:va6zOF6iPYU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】深夜TALK【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=fef-3dGBgQY
 DURATION:PT2H
 DTSTART:20220922T133000Z
@@ -18,11 +11,11 @@ SUMMARY:荒咬オウガ: 【雑談】深夜TALK【荒咬オウガ/ホロスタ�
 UID:fef-3dGBgQY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3】「S+27」から！S+50への道！【#夜十神封魔 #ホロスターズ #アップロー】\nhttps://www.youtube.com/watch?v=Ck217raI8BI
+DESCRIPTION:【Minecraft】ネザライト乱獲計画２ / 水無世燐央【UPROAR!!/アップロー】\nhttps://www.youtube.com/watch?v=TZ7LEGhgxoY
 DURATION:PT2H
-DTSTART:20220921T094500Z
-SUMMARY:夜十神封魔: 【スプラトゥーン3】「S+27」から！S+50への道！【#夜十神封魔 #ホロスターズ #アップロー】
-UID:Ck217raI8BI
+DTSTART:20220922T145000Z
+SUMMARY:水無世燐央: 【Minecraft】ネザライト乱獲計画２ / 水無世燐央【UPROAR!!/アップロー】
+UID:TZ7LEGhgxoY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【お絵描き】朝活!!パーカー着たオレを描いてみる!!【#緋崎ガンマ / #ホロスターズ  / イラストメイキング / Illustration Making】\nhttps://www.youtube.com/watch?v=2jNvJYfNE58
@@ -39,11 +32,11 @@ SUMMARY:水無世燐央: 【スプラトゥーン3】初心者！ガチの楽し
 UID:te5fuIe54pw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Drawing!!】料理を沢山つくってくれる子を紹介します /  Astel Leda\nhttps://www.youtube.com/watch?v=YPLxfjJwkUY
+DESCRIPTION:【イラストメイキング】白上フブキ先輩を描いてみる！！【#緋崎ガンマ / #ホロスターズ  / #イラスト / #お絵描き / ホロライブプロダクション】\nhttps://www.youtube.com/watch?v=g7-VqlQQ4TA
 DURATION:PT2H
-DTSTART:20220921T123000Z
-SUMMARY:🎭アステル・レダ: 【Drawing!!】料理を沢山つくってくれる子を紹介します /  Astel Leda
-UID:YPLxfjJwkUY
+DTSTART:20220924T053000Z
+SUMMARY:緋崎ガンマ: 【イラストメイキング】白上フブキ先輩を描いてみる！！【#緋崎ガンマ / #ホロスターズ  / #イラスト / #お絵描き / ホロライブプロダクション】
+UID:g7-VqlQQ4TA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft1.19】サーバー中の砂をかき集める配信【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=U2cwg_-7H9k
@@ -60,6 +53,13 @@ SUMMARY:緋崎ガンマ: 【漫画】後輩力あいうえお【Vtuberあるあ�
 UID:aZtvn2ONCCk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:初見スプラ３【奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=JQ23ILsdHhM
+DURATION:PT2H
+DTSTART:20220922T113000Z
+SUMMARY:🎸奏手イヅル: 初見スプラ３【奏手イヅル/ホロスターズ】
+UID:JQ23ILsdHhM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Apex Legends】ローバ専！スパレジェ出たって聞いたから課金する！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=nwJfnpbzEnE
 DURATION:PT2H
 DTSTART:20220922T130000Z
@@ -72,12 +72,5 @@ DURATION:PT2H
 DTSTART:20220923T100000Z
 SUMMARY:⚙律可: #22【RiTunes Laboスペシャル】HOLOSTARS×from ARGONAVISコラボ【律可/影山シエン/秋谷啓斗/小笠原仁/ホロスターズ 】#りちゅらぼ
 UID:uBqVCvGQBws
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3】いいギアを集める段階に入った騎士【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=FmbWxv0XsHY
-DURATION:PT2H
-DTSTART:20220921T083000Z
-SUMMARY:🦔💨岸堂天真: 【スプラトゥーン3】いいギアを集める段階に入った騎士【岸堂天真/ホロスターズ】
-UID:FmbWxv0XsHY
 END:VEVENT
 END:VCALENDAR
