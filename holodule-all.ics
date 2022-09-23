@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【晩酌 】久々に日本酒飲むよ～【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=J78d8-qum1U
+DURATION:PT2H
+DTSTART:20220923T130000Z
+SUMMARY:雪花ラミィ: 【晩酌 】久々に日本酒飲むよ～【雪花ラミィ/ホロライブ】
+UID:J78d8-qum1U
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【UNDERTALE】MAGGINLOVANIA\nhttps://www.youtube.com/watch?v=X-cz0tSbEjo
 DURATION:PT2H
 DTSTART:20220922T020000Z
@@ -221,11 +228,11 @@ SUMMARY:🍕アルランディス: 【Minecraft1.19】サーバー中の砂を�
 UID:U2cwg_-7H9k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 スプラトゥーン3 】発狂やいやい！闇のゲームが始まるのら！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=Ff_LgPue5l0
+DESCRIPTION:【  】はいしんよてち！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=drNENggOpKc
 DURATION:PT2H
-DTSTART:20220923T030000Z
-SUMMARY:🍬姫森ルーナ: 【 スプラトゥーン3 】発狂やいやい！闇のゲームが始まるのら！【姫森ルーナ/ホロライブ】
-UID:Ff_LgPue5l0
+DTSTART:20220923T100000Z
+SUMMARY:🌸さくらみこ: 【  】はいしんよてち！【ホロライブ/さくらみこ】
+UID:drNENggOpKc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン3】ガチエリアにおかころでGOGO！🍙🥐【#おかころ/ホロライブ】\nhttps://www.youtube.com/watch?v=ySEpbQlgjhc
@@ -326,13 +333,6 @@ SUMMARY:Kaela: 【Rust】#12 rushing the tech tree【Kaela Kovalskia / hololiveI
 UID:LAdC_oaFD5o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#06【ゼルダの伝説 ムジュラの仮面】超難関なのに久々って沼不可避すぎるッ🔥【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=hPgFktgv6nU
-DURATION:PT2H
-DTSTART:20220923T020000Z
-SUMMARY:⚔白銀ノエル: #06【ゼルダの伝説 ムジュラの仮面】超難関なのに久々って沼不可避すぎるッ🔥【白銀ノエル/ホロライブ】
-UID:hPgFktgv6nU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 RUST 】ヘリよ、お前と戦いたい―――。【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=MZH2B1d-2gw
 DURATION:PT2H
 DTSTART:20220922T110000Z
@@ -396,11 +396,25 @@ SUMMARY:Kobo: 【Resident Evil Village】Let's defeat Lady Dimitrescu  #2
 UID:hRdVs98TWwI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【R2】コードギアス反逆のルルーシュR２同時試聴：CODE GEASS Lelouch of the Rebellion【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=zEhrRlv0CyQ
+DURATION:PT2H
+DTSTART:20220923T130000Z
+SUMMARY:🚑大空スバル: 【R2】コードギアス反逆のルルーシュR２同時試聴：CODE GEASS Lelouch of the Rebellion【ホロライブ/大空スバル】
+UID:zEhrRlv0CyQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【The Legend Of Zelda: BOTW】Saving Princess Maguni and Defeating Calamity Ragus feat. Nowa oji #6\nhttps://www.youtube.com/watch?v=KzHWUyR3Tds
 DURATION:PT2H
 DTSTART:20220922T110000Z
 SUMMARY:Syrios: 【The Legend Of Zelda: BOTW】Saving Princess Maguni and Defeating Calamity Ragus feat. Nowa oji #6
 UID:KzHWUyR3Tds
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【理想と現実】Vtuberの食事【Vtuberあるある】 #shorts #漫画 #vtuber\nhttps://www.youtube.com/watch?v=6sOj3qrgtTM
+DURATION:PT2H
+DTSTART:20220923T083001Z
+SUMMARY:緋崎ガンマ: 【理想と現実】Vtuberの食事【Vtuberあるある】 #shorts #漫画 #vtuber
+UID:6sOj3qrgtTM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マキオカスタム】人生初APEXカスタムをひたすら楽しむ視点【#緋崎ガンマ / #ホロスターズ 】@Izuru Ch. 奏手イヅル @Fuma Ch. 夜十神封魔 - UPROAR!! -\nhttps://www.youtube.com/watch?v=WZGwaHiKsHs
