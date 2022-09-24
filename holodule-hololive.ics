@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【雑談】わりと珍しい雑談枠です。【ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=53jKtOAuZQI
+DURATION:PT2H
+DTSTART:20220924T050000Z
+SUMMARY:🌲大神ミオ: 【雑談】わりと珍しい雑談枠です。【ホロライブ/大神ミオ】
+UID:53jKtOAuZQI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【晩酌 】久々に日本酒飲むよ～【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=J78d8-qum1U
 DURATION:PT2H
 DTSTART:20220923T130000Z
@@ -163,6 +170,13 @@ DURATION:PT2H
 DTSTART:20220924T120000Z
 SUMMARY:獅白ぼたん: 【CoD:MWll】新しいCoD:MW2のベータテスト版に参加するぞい！【獅白ぼたん/ホロライブ】
 UID:lA-WR0qFyX8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌】休日のカラオケっていいよね、るんっ【ホロライブ/ ロボ子さん】\nhttps://www.youtube.com/watch?v=H0LR1tK3PRk
+DURATION:PT2H
+DTSTART:20220924T053000Z
+SUMMARY:🤖ロボ子さん: 【歌】休日のカラオケっていいよね、るんっ【ホロライブ/ ロボ子さん】
+UID:H0LR1tK3PRk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 スプラトゥーン3 】発狂やいやい！闇のゲームが始まるのら！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=Ff_LgPue5l0
