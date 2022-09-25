@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【HOLO EN x ID AMONG US】pls i don't wanna be the impostor #HololiveCosmicube\nhttps://www.youtube.com/watch?v=zbqZvuaoSjg
-DURATION:PT2H
-DTSTART:20220925T171500Z
-SUMMARY:Kobo: 【HOLO EN x ID AMONG US】pls i don't wanna be the impostor #HololiveCosmicube
-UID:zbqZvuaoSjg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【HOLO EN x ID AMONG US】i'm the third impostor #HololiveCosmicube 【Vestia Zeta】\nhttps://www.youtube.com/watch?v=leMDY0iKzeU
 DURATION:PT2H
 DTSTART:20220925T171500Z
 SUMMARY:Zeta: 【HOLO EN x ID AMONG US】i'm the third impostor #HololiveCosmicube 【Vestia Zeta】
 UID:leMDY0iKzeU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】the special building part 2【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=BhUG1RVY69Y
+DURATION:PT2H
+DTSTART:20220926T013800Z
+SUMMARY:Kaela: 【Minecraft】the special building part 2【Kaela Kovalskia / hololive ID】
+UID:BhUG1RVY69Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#Splatoon3】フルパフェス！【ホロライブ/ ロボ子さん】\nhttps://www.youtube.com/watch?v=nFpUafoN3LY
@@ -284,13 +284,6 @@ SUMMARY:🔥不知火フレア: 【スプラトゥーン3】道具チーム負�
 UID:wwQOo-zIKG0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Among Us EN x ID Collab】Melfissus But Also Melfistylish #HololiveCosmicube【hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=KDNTOJ0p0Yg
-DURATION:PT2H
-DTSTART:20220925T171500Z
-SUMMARY:Anya: 【Among Us EN x ID Collab】Melfissus But Also Melfistylish #HololiveCosmicube【hololive ID 2nd Gen】
-UID:KDNTOJ0p0Yg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠】うたたたたたたた【水無世燐央 / UPROAR!! / アップロー 】\nhttps://www.youtube.com/watch?v=Gob1jLf628U
 DURATION:PT2H
 DTSTART:20220925T060000Z
@@ -338,13 +331,6 @@ DURATION:PT2H
 DTSTART:20220925T090000Z
 SUMMARY:水無世燐央: 【スプラトゥーン3】ブルー系3人で初コラボ！w/ @春崎エアル  @空星きらめ/Sorahoshi Kirame【にじさんじ】 【 水無世燐央 / UPROAR!! / アップロー 】
 UID:eGrd5nihqHQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【AMONG US】Shark in AmongUs #HololiveCosmicube\nhttps://www.youtube.com/watch?v=-TPkX7tLj3Q
-DURATION:PT2H
-DTSTART:20220925T171520Z
-SUMMARY:Gura: 【AMONG US】Shark in AmongUs #HololiveCosmicube
-UID:-TPkX7tLj3Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 RUST -Season 3- 】初めてのエスポワール号！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=Vni8gaetqJY
