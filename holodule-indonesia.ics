@@ -6,9 +6,16 @@ PRODID:holodule-ical
 BEGIN:VEVENT
 DESCRIPTION:【#HololiveCosmicube】HELLO FELLOW SUSSY BAKAS 【Hololive ID x EN】\nhttps://www.youtube.com/watch?v=POC82ijA83Q
 DURATION:PT2H
-DTSTART:20220925T170000Z
+DTSTART:20220925T171500Z
 SUMMARY:Ollie: 【#HololiveCosmicube】HELLO FELLOW SUSSY BAKAS 【Hololive ID x EN】
 UID:POC82ijA83Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Free Talk】just reached home\, chill talk~【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=N0ZBySl6xLU
+DURATION:PT2H
+DTSTART:20220925T143000Z
+SUMMARY:Kaela: 【Free Talk】just reached home\, chill talk~【Kaela Kovalskia / hololiveID】
+UID:N0ZBySl6xLU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Im On Observation Duty】ACTUAL VOICE NIGHT. I HAVE RETURNED【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=RAwJm6CE0OQ
@@ -32,13 +39,6 @@ SUMMARY:Kobo: 【HOLO EN x ID AMONG US】pls i don't wanna be the impostor #Holo
 UID:zbqZvuaoSjg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Among Us EN x ID Collab】Melfissus But Also Melstylish #HololiveCosmicube【hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=KDNTOJ0p0Yg
-DURATION:PT2H
-DTSTART:20220925T170000Z
-SUMMARY:Anya: 【Among Us EN x ID Collab】Melfissus But Also Melstylish #HololiveCosmicube【hololive ID 2nd Gen】
-UID:KDNTOJ0p0Yg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【HOLO EN x ID AMONG US】I CAN SHOW UP IN COSPLAY :OOO!? #HololiveCosmicube【Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=1NegASNwacc
 DURATION:PT2H
 DTSTART:20220925T170000Z
@@ -48,8 +48,15 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HOLO EN x ID AMONG US】i'm the third impostor #HololiveCosmicube 【Vestia Zeta】\nhttps://www.youtube.com/watch?v=leMDY0iKzeU
 DURATION:PT2H
-DTSTART:20220925T170000Z
+DTSTART:20220925T171500Z
 SUMMARY:Zeta: 【HOLO EN x ID AMONG US】i'm the third impostor #HololiveCosmicube 【Vestia Zeta】
 UID:leMDY0iKzeU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Among Us EN x ID Collab】Melfissus But Also Melstylish #HololiveCosmicube【hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=KDNTOJ0p0Yg
+DURATION:PT2H
+DTSTART:20220925T170000Z
+SUMMARY:Anya: 【Among Us EN x ID Collab】Melfissus But Also Melstylish #HololiveCosmicube【hololive ID 2nd Gen】
+UID:KDNTOJ0p0Yg
 END:VEVENT
 END:VCALENDAR
