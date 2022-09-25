@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【HOLO EN x ID AMONG US】Cosmicube & Proximity VC Version! #HololiveCosmicube #kfp\nhttps://www.youtube.com/watch?v=2AmhOZHSEcw
+DURATION:PT2H
+DTSTART:20220925T170000Z
+SUMMARY:Kiara: 【HOLO EN x ID AMONG US】Cosmicube & Proximity VC Version! #HololiveCosmicube #kfp
+UID:2AmhOZHSEcw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【WORMS W.M.D】HoloWorm Match 2 Commentator's Desk w/ @Amelia Watson\nhttps://www.youtube.com/watch?v=qVMXGuIznvk
 DURATION:PT2H
 DTSTART:20220924T030000Z
@@ -62,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ANIMAL Tier Lists\nhttps://www.youtube.com/watch?v=CO2cVh1HTAQ
 DURATION:PT2H
-DTSTART:20220925T003000Z
+DTSTART:20220925T005000Z
 SUMMARY:Mumei: ANIMAL Tier Lists
 UID:CO2cVh1HTAQ
 END:VEVENT
