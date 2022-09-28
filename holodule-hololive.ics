@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【EDF6】またタイムリープ・・？！でもなんかおかしいよー！！！【 ホロライブ / 大神ミオ 】\nhttps://www.youtube.com/watch?v=9N9Hoq7AaeM
-DURATION:PT2H
-DTSTART:20220927T103000Z
-SUMMARY:🌲大神ミオ: 【EDF6】またタイムリープ・・？！でもなんかおかしいよー！！！【 ホロライブ / 大神ミオ 】
-UID:9N9Hoq7AaeM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【もろだし相撲】こよのこよがこんこよ～！？深夜の相撲の時間だ！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=j2Y9IWnacL4
 DURATION:PT2H
 DTSTART:20220927T140000Z
@@ -25,18 +18,18 @@ SUMMARY:💫天音かなた: 【パワプロ2022】#06 ホロメン学園で連�
 UID:BIJr-E68GVc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#生スバル】祭壇？！痛バッグ？！自作グッズ？！！みんなのオタ活大集合しゅばあああああああああ！！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=oUFZ7551X3c
-DURATION:PT2H
-DTSTART:20220927T120000Z
-SUMMARY:🚑大空スバル: 【#生スバル】祭壇？！痛バッグ？！自作グッズ？！！みんなのオタ活大集合しゅばあああああああああ！！！【ホロライブ/大空スバル】
-UID:oUFZ7551X3c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【案件じゃない】「C」を消すだけで医療に貢献しちゃおう！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=4QubT5PreIY
 DURATION:PT2H
 DTSTART:20220927T110000Z
 SUMMARY:👯兎田ぺこら: 【案件じゃない】「C」を消すだけで医療に貢献しちゃおう！！！！！ぺこ！【ホロライブ/兎田ぺこら】
 UID:4QubT5PreIY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】眠さの境地を超えたへなちょこお歌会🎶【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=NtK-JFOMWIc
+DURATION:PT2H
+DTSTART:20220928T130000Z
+SUMMARY:⚔白銀ノエル: 【歌枠】眠さの境地を超えたへなちょこお歌会🎶【白銀ノエル/ホロライブ】
+UID:NtK-JFOMWIc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 VALORANT 】ランクいくど～～～～～～～～！\nhttps://www.youtube.com/watch?v=4doa3Ongv_Q
@@ -46,34 +39,6 @@ SUMMARY:👿百鬼あやめ: 【 VALORANT 】ランクいくど～～～～～�
 UID:4doa3Ongv_Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ちょこっとクッキング】悪魔飯⚡トンテキ作る！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=AQTGxTAAWM8
-DURATION:PT2H
-DTSTART:20220928T120000Z
-SUMMARY:💋癒月ちょこ: 【#ちょこっとクッキング】悪魔飯⚡トンテキ作る！【ホロライブ/癒月ちょこ】
-UID:AQTGxTAAWM8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:腐れ外道とチョコレゐト/白上フブキ(cover)\nhttps://www.youtube.com/watch?v=SoKUnV6ktqA
-DURATION:PT2H
-DTSTART:20220929T110000Z
-SUMMARY:🌽白上フブキ: 腐れ外道とチョコレゐト/白上フブキ(cover)
-UID:SoKUnV6ktqA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 スプラトゥーン３ 】ウデマエあげるもん！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=B5PyQGqFskc
-DURATION:PT2H
-DTSTART:20220928T083000Z
-SUMMARY:桃鈴ねね: 【 スプラトゥーン３ 】ウデマエあげるもん！【 桃鈴ねね / ホロライブ 】
-UID:B5PyQGqFskc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【検証】スマブラでくそ雑魚同士対決したら決着ってつくの？/初心者限定参加型！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=zKA20DOI0PE
-DURATION:PT2H
-DTSTART:20220928T110000Z
-SUMMARY:沙花叉クロヱ: 【検証】スマブラでくそ雑魚同士対決したら決着ってつくの？/初心者限定参加型！【沙花叉クロヱ/ホロライブ】
-UID:zKA20DOI0PE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Holocure】HARDモード！ぜったいクリアしたい！！！🔥【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=Np1dvGEiEGI
 DURATION:PT2H
 DTSTART:20220927T100000Z
@@ -81,18 +46,11 @@ SUMMARY:❤赤井はあと: 【Holocure】HARDモード！ぜったいクリア�
 UID:Np1dvGEiEGI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RUST】WHERE AM I GOING??? #Hololive0 #englishstream\nhttps://www.youtube.com/watch?v=4H3YpRFt6RY
+DESCRIPTION:【 プロセカ 】極めていきたいのでご指導お願いします！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=Y65hGl0jmi4
 DURATION:PT2H
-DTSTART:20220928T050000Z
-SUMMARY:❤赤井はあと: 【RUST】WHERE AM I GOING??? #Hololive0 #englishstream
-UID:4H3YpRFt6RY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【心理戦】 #ホロスパイアカデミー 卒業試験【NGワードゲーム 】\nhttps://www.youtube.com/watch?v=NABQ5qE8Lkk
-DURATION:PT2H
-DTSTART:20220929T110000Z
-SUMMARY:ホロライブ: 【心理戦】 #ホロスパイアカデミー 卒業試験【NGワードゲーム 】
-UID:NABQ5qE8Lkk
+DTSTART:20220927T100500Z
+SUMMARY:桃鈴ねね: 【 プロセカ 】極めていきたいのでご指導お願いします！【 桃鈴ねね / ホロライブ 】
+UID:Y65hGl0jmi4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FCスーパーマリオブラザーズ3】遂にワールド7！へたっぴマリオ出動！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=vIJcBvkhTWA
@@ -102,10 +60,10 @@ SUMMARY:博衣こより: 【FCスーパーマリオブラザーズ3】遂にワ�
 UID:vIJcBvkhTWA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【はいしんよてち 】にぇ～～～～～～～～～ん【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=0HSQwWAk1RY
+DESCRIPTION:【 RUST 】ヘリでエスポワール号攻略するど！！！にぇ！！！！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=0HSQwWAk1RY
 DURATION:PT2H
 DTSTART:20220928T130000Z
-SUMMARY:🌸さくらみこ: 【はいしんよてち 】にぇ～～～～～～～～～ん【ホロライブ/さくらみこ】
+SUMMARY:🌸さくらみこ: 【 RUST 】ヘリでエスポワール号攻略するど！！！にぇ！！！！！！！【ホロライブ/さくらみこ】
 UID:0HSQwWAk1RY
 END:VEVENT
 BEGIN:VEVENT
@@ -114,13 +72,6 @@ DURATION:PT2H
 DTSTART:20220927T140000Z
 SUMMARY:🍙猫又おかゆ: 【スプラトゥーン3】S＋目指して楽しくれっつご～～～～🌠【猫又おかゆ/ホロライブ】
 UID:ACEhiLT3H6I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【料理】朝ごはん作るYO！【ホロライブ/ ロボ子さん】\nhttps://www.youtube.com/watch?v=TO4XFPlh4eY
-DURATION:PT2H
-DTSTART:20220927T220000Z
-SUMMARY:🤖ロボ子さん: 【料理】朝ごはん作るYO！【ホロライブ/ ロボ子さん】
-UID:TO4XFPlh4eY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#Splatoon3】お金を稼ぎながらS＋目指したい！！！！【ホロライブ/ #ロボ子生放送 】\nhttps://www.youtube.com/watch?v=1qz6-MyqCpM
@@ -137,25 +88,11 @@ SUMMARY:風真いろは: 【スプラ３】ヒーローモード！すすめる�
 UID:z1UXjHr1w2Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:シカバネーゼ / 鷹嶺ルイ(cover)\nhttps://www.youtube.com/watch?v=7Ab2bezqvdU
-DURATION:PT2H
-DTSTART:20220928T110000Z
-SUMMARY:鷹嶺ルイ: シカバネーゼ / 鷹嶺ルイ(cover)
-UID:7Ab2bezqvdU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 スプラトゥーン３ 】バンカラマッチにいく！！腕前Bです。【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=PMhU82XVTV8
 DURATION:PT2H
 DTSTART:20220927T140000Z
 SUMMARY:🌙紫咲シオン: 【 スプラトゥーン３ 】バンカラマッチにいく！！腕前Bです。【ホロライブ/紫咲シオン】
 UID:PMhU82XVTV8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#朝こよ】ハロー！86回目！火曜日の朝は朝こよ～！！ #86【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=pba9-yik7nY
-DURATION:PT2H
-DTSTART:20220926T220000Z
-SUMMARY:博衣こより: 【#朝こよ】ハロー！86回目！火曜日の朝は朝こよ～！！ #86【博衣こより/ホロライブ】
-UID:pba9-yik7nY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン3】逆バリのナワバリ、突然のフルパコラボ【尾丸ポルカ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=QWLa9VszMtc
@@ -186,11 +123,81 @@ SUMMARY:👯兎田ぺこら: 【スマブラSP】みんなに４回勝つまで�
 UID:QVmvFBbUAgM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 プロセカ 】極めていきたいのでご指導お願いします！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=Y65hGl0jmi4
+DESCRIPTION:【The Backrooms: 1998】音や声に反応するホラーゲーム？！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=dJJABevMAI0
 DURATION:PT2H
-DTSTART:20220927T100500Z
-SUMMARY:桃鈴ねね: 【 プロセカ 】極めていきたいのでご指導お願いします！【 桃鈴ねね / ホロライブ 】
-UID:Y65hGl0jmi4
+DTSTART:20220928T140000Z
+SUMMARY:🐏角巻わため: 【The Backrooms: 1998】音や声に反応するホラーゲーム？！【角巻わため/ホロライブ４期生】
+UID:dJJABevMAI0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【EDF6】またタイムリープ・・？！でもなんかおかしいよー！！！【 ホロライブ / 大神ミオ 】\nhttps://www.youtube.com/watch?v=9N9Hoq7AaeM
+DURATION:PT2H
+DTSTART:20220927T103000Z
+SUMMARY:🌲大神ミオ: 【EDF6】またタイムリープ・・？！でもなんかおかしいよー！！！【 ホロライブ / 大神ミオ 】
+UID:9N9Hoq7AaeM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#生スバル】祭壇？！痛バッグ？！自作グッズ？！！みんなのオタ活大集合しゅばあああああああああ！！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=oUFZ7551X3c
+DURATION:PT2H
+DTSTART:20220927T120000Z
+SUMMARY:🚑大空スバル: 【#生スバル】祭壇？！痛バッグ？！自作グッズ？！！みんなのオタ活大集合しゅばあああああああああ！！！【ホロライブ/大空スバル】
+UID:oUFZ7551X3c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ちょこっとクッキング】悪魔飯⚡トンテキ作る！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=AQTGxTAAWM8
+DURATION:PT2H
+DTSTART:20220928T120000Z
+SUMMARY:💋癒月ちょこ: 【#ちょこっとクッキング】悪魔飯⚡トンテキ作る！【ホロライブ/癒月ちょこ】
+UID:AQTGxTAAWM8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:腐れ外道とチョコレゐト/白上フブキ(cover)\nhttps://www.youtube.com/watch?v=SoKUnV6ktqA
+DURATION:PT2H
+DTSTART:20220929T110000Z
+SUMMARY:🌽白上フブキ: 腐れ外道とチョコレゐト/白上フブキ(cover)
+UID:SoKUnV6ktqA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【検証】スマブラでくそ雑魚同士対決したら決着ってつくの？/初心者限定参加型！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=zKA20DOI0PE
+DURATION:PT2H
+DTSTART:20220928T110000Z
+SUMMARY:沙花叉クロヱ: 【検証】スマブラでくそ雑魚同士対決したら決着ってつくの？/初心者限定参加型！【沙花叉クロヱ/ホロライブ】
+UID:zKA20DOI0PE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RUST】WHERE AM I GOING??? #Hololive0 #englishstream\nhttps://www.youtube.com/watch?v=4H3YpRFt6RY
+DURATION:PT2H
+DTSTART:20220928T050000Z
+SUMMARY:❤赤井はあと: 【RUST】WHERE AM I GOING??? #Hololive0 #englishstream
+UID:4H3YpRFt6RY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【心理戦】 #ホロスパイアカデミー 卒業試験【NGワードゲーム 】\nhttps://www.youtube.com/watch?v=NABQ5qE8Lkk
+DURATION:PT2H
+DTSTART:20220929T110000Z
+SUMMARY:ホロライブ: 【心理戦】 #ホロスパイアカデミー 卒業試験【NGワードゲーム 】
+UID:NABQ5qE8Lkk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【料理】朝ごはん作るYO！【ホロライブ/ ロボ子さん】\nhttps://www.youtube.com/watch?v=TO4XFPlh4eY
+DURATION:PT2H
+DTSTART:20220927T220000Z
+SUMMARY:🤖ロボ子さん: 【料理】朝ごはん作るYO！【ホロライブ/ ロボ子さん】
+UID:TO4XFPlh4eY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:シカバネーゼ / 鷹嶺ルイ(cover)\nhttps://www.youtube.com/watch?v=7Ab2bezqvdU
+DURATION:PT2H
+DTSTART:20220928T110000Z
+SUMMARY:鷹嶺ルイ: シカバネーゼ / 鷹嶺ルイ(cover)
+UID:7Ab2bezqvdU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#朝こよ】ハロー！86回目！火曜日の朝は朝こよ～！！ #86【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=pba9-yik7nY
+DURATION:PT2H
+DTSTART:20220926T220000Z
+SUMMARY:博衣こより: 【#朝こよ】ハロー！86回目！火曜日の朝は朝こよ～！！ #86【博衣こより/ホロライブ】
+UID:pba9-yik7nY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン３】フェス終わったし、バイトするしかないよね！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=mtmcbC8m184
@@ -198,6 +205,13 @@ DURATION:PT2H
 DTSTART:20220928T120000Z
 SUMMARY:🌽白上フブキ: 【スプラトゥーン３】フェス終わったし、バイトするしかないよね！【ホロライブ/白上フブキ】
 UID:mtmcbC8m184
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 スプラトゥーン３ 】ウデマエあげるもん！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=B5PyQGqFskc
+DURATION:PT2H
+DTSTART:20220928T083000Z
+SUMMARY:桃鈴ねね: 【 スプラトゥーン３ 】ウデマエあげるもん！【 桃鈴ねね / ホロライブ 】
+UID:B5PyQGqFskc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ちゃまたんなのら】ウチらの絆なら、脱出よゆ〜！「Quest Rooms」やる！【ホロライブ/天音かなた/姫森ルーナ/赤井はあと】\nhttps://www.youtube.com/watch?v=tkKsn4RTdpU
@@ -212,12 +226,5 @@ DURATION:PT2H
 DTSTART:20220929T131500Z
 SUMMARY:ホロライブ: 【ホロのこしかけ 16】5周年！あなたのホロはどこから？/9月NEWSまとめ【友人A・A-chan】hololive FM
 UID:oRKMDgf6ac8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Backrooms: 1998】音や声に反応するホラーゲーム？！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=dJJABevMAI0
-DURATION:PT2H
-DTSTART:20220928T140000Z
-SUMMARY:🐏角巻わため: 【The Backrooms: 1998】音や声に反応するホラーゲーム？！【角巻わため/ホロライブ４期生】
-UID:dJJABevMAI0
 END:VEVENT
 END:VCALENDAR

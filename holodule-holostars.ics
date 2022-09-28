@@ -32,18 +32,18 @@ SUMMARY:🍷夕刻ロベル: 【ネクロムンダ：ハイヤードガン】ネ
 UID:zfo49o9Ug20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】深夜TALK【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=HKPYCMJOcFA
-DURATION:PT2H
-DTSTART:20220926T150000Z
-SUMMARY:荒咬オウガ: 【雑談】深夜TALK【荒咬オウガ/ホロスターズ】
-UID:HKPYCMJOcFA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン3】カナレダと一緒に練習する！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=jnEq5yJgbHo
 DURATION:PT2H
 DTSTART:20220928T143000Z
 SUMMARY:🦔💨岸堂天真: 【スプラトゥーン3】カナレダと一緒に練習する！【岸堂天真/ホロスターズ】
 UID:jnEq5yJgbHo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】深夜TALK【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=HKPYCMJOcFA
+DURATION:PT2H
+DTSTART:20220926T150000Z
+SUMMARY:荒咬オウガ: 【雑談】深夜TALK【荒咬オウガ/ホロスターズ】
+UID:HKPYCMJOcFA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #アップローハーフアニバ 】デビュー半年記念枠！！重大告知あり！【 ホロスターズ / UPROAR!! 】\nhttps://www.youtube.com/watch?v=7hvQxZ_UZ2Q
@@ -95,13 +95,6 @@ SUMMARY:🍕アルランディス: 【Moonlighter】DLCのダンジョンに挑�
 UID:a8wtBUOf_u8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Splatoon3】S+38～スタート！いつだってスパッタリー！ / S+50への道！【#夜十神封魔 #ホロスターズ #アップロー】\nhttps://www.youtube.com/watch?v=J_qo-WI_le4
-DURATION:PT2H
-DTSTART:20220927T120000Z
-SUMMARY:夜十神封魔: 【Splatoon3】S+38～スタート！いつだってスパッタリー！ / S+50への道！【#夜十神封魔 #ホロスターズ #アップロー】
-UID:J_qo-WI_le4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【hololive ERROR】所属企業が発売したホラーゲームにビビリ幽霊が挑む【 水無世燐央 / UPROAR!! / アップロー 】\nhttps://www.youtube.com/watch?v=giqs2Y4RsQY
 DURATION:PT2H
 DTSTART:20220928T120000Z
@@ -109,11 +102,25 @@ SUMMARY:水無世燐央: 【hololive ERROR】所属企業が発売したホラ�
 UID:giqs2Y4RsQY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Splatoon3】S+38～スタート！いつだってスパッタリー！ / S+50への道！【#夜十神封魔 #ホロスターズ #アップロー】\nhttps://www.youtube.com/watch?v=J_qo-WI_le4
+DURATION:PT2H
+DTSTART:20220927T120000Z
+SUMMARY:夜十神封魔: 【Splatoon3】S+38～スタート！いつだってスパッタリー！ / S+50への道！【#夜十神封魔 #ホロスターズ #アップロー】
+UID:J_qo-WI_le4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】今日も一日お疲れ様雑談【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Opp48vSv1FM
 DURATION:PT2H
 DTSTART:20220927T150000Z
 SUMMARY:🍕アルランディス: 【雑談】今日も一日お疲れ様雑談【アルランディス/ホロスターズ】
 UID:Opp48vSv1FM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Vlog】レンタルキッチンで萌え断サンドイッチ作り🥪🥤【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=jSbS9bEOasc
+DURATION:PT2H
+DTSTART:20220929T130000Z
+SUMMARY:🌺花咲みやび: 【Vlog】レンタルキッチンで萌え断サンドイッチ作り🥪🥤【花咲みやび/ホロスターズ】
+UID:jSbS9bEOasc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【イラストメイキング】朝活!!白上フブキ先輩を描いてみる！（カラー編）【#緋崎ガンマ / #ホロスターズ  / #イラスト / #お絵描き / ホロライブプロダクション】\nhttps://www.youtube.com/watch?v=4Z3Maf4mohI
