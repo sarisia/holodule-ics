@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:好きな曲流しながらしゃべる【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=kCBdgntXGYs
+DURATION:PT2H
+DTSTART:20220928T153000Z
+SUMMARY:🍕アルランディス: 好きな曲流しながらしゃべる【アルランディス/ホロスターズ】
+UID:kCBdgntXGYs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Moonlighter】DLCのダンジョンに挑む！本当のラスボスを…倒す！！！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=a8wtBUOf_u8
 DURATION:PT2H
 DTSTART:20220928T100000Z
@@ -16,13 +23,6 @@ DURATION:PT2H
 DTSTART:20220928T110000Z
 SUMMARY:ホロスターズ: 【ビビリ2人が絶叫！！】触って中身はなんでしょう！？【#ジャンプロ】
 UID:8jd8XANxbjQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【hololive ERROR】所属企業が発売したホラーゲームにビビリ幽霊が挑む【 水無世燐央 / UPROAR!! / アップロー 】\nhttps://www.youtube.com/watch?v=giqs2Y4RsQY
-DURATION:PT2H
-DTSTART:20220928T120000Z
-SUMMARY:水無世燐央: 【hololive ERROR】所属企業が発売したホラーゲームにビビリ幽霊が挑む【 水無世燐央 / UPROAR!! / アップロー 】
-UID:giqs2Y4RsQY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ネクロムンダ：ハイヤードガン】ネクロムンダを楽しむんだ俺というもんは【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=zfo49o9Ug20
