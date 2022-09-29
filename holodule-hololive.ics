@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#朝こよ】金曜日の朝の、おはこよ～！ #87【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=TaloJ_Kkd54
+DURATION:PT2H
+DTSTART:20220929T220000Z
+SUMMARY:博衣こより: 【#朝こよ】金曜日の朝の、おはこよ～！ #87【博衣こより/ホロライブ】
+UID:TaloJ_Kkd54
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【パワプロ2022】#06 ホロメン学園で連勝記録だ！！栄冠ナイン！！！！【天音かなた/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=BIJr-E68GVc
 DURATION:PT2H
 DTSTART:20220929T100000Z
@@ -39,10 +46,17 @@ SUMMARY:桃鈴ねね: 【 スプラトゥーン３ 】ウデマエあげるも�
 UID:B5PyQGqFskc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【】【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=Tzbt0Yxyc5k
+DESCRIPTION:【 Slime Rancher2 】可愛いぷにぷにスライムをいっぱい吸引しちゃうのら～！CIJ💗【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=GpzZre2Czw4
+DURATION:PT2H
+DTSTART:20220929T160000Z
+SUMMARY:🍬姫森ルーナ: 【 Slime Rancher2 】可愛いぷにぷにスライムをいっぱい吸引しちゃうのら～！CIJ💗【姫森ルーナ/ホロライブ】
+UID:GpzZre2Czw4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Dead by Daylight 】生き残りたい初心者のDbDなのら！🔰【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=Tzbt0Yxyc5k
 DURATION:PT2H
 DTSTART:20220929T130000Z
-SUMMARY:🍬姫森ルーナ: 【】【姫森ルーナ/ホロライブ】
+SUMMARY:🍬姫森ルーナ: 【 Dead by Daylight 】生き残りたい初心者のDbDなのら！🔰【姫森ルーナ/ホロライブ】
 UID:Tzbt0Yxyc5k
 END:VEVENT
 BEGIN:VEVENT
@@ -212,6 +226,13 @@ DURATION:PT2H
 DTSTART:20220928T110000Z
 SUMMARY:鷹嶺ルイ: シカバネーゼ / 鷹嶺ルイ(cover)
 UID:7Ab2bezqvdU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スプラトゥーン３】遅れて参戦バンカラマッチ…！【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=u5vvG_zVrWc
+DURATION:PT2H
+DTSTART:20220929T140000Z
+SUMMARY:鷹嶺ルイ: 【スプラトゥーン３】遅れて参戦バンカラマッチ…！【鷹嶺ルイ/ホロライブ】
+UID:u5vvG_zVrWc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HoloCure】がっつり攻略していこうと思ってる！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=JRedfTnYF7c
