@@ -11,18 +11,18 @@ SUMMARY:尾丸ポルカ: 【ポルカの伝説】コラボだ井筒さん、ス�
 UID:endCVMMzIe8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【手描き切り抜き】仕事のONとOFFの差が激しいサラリーマン【ホロライブプロダクション】 #shorts #vtuber #あるある\nhttps://www.youtube.com/watch?v=F3C4mz90FQ0
-DURATION:PT2H
-DTSTART:20220929T083006Z
-SUMMARY:緋崎ガンマ: 【手描き切り抜き】仕事のONとOFFの差が激しいサラリーマン【ホロライブプロダクション】 #shorts #vtuber #あるある
-UID:F3C4mz90FQ0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#朝こよ】金曜日の朝の、おはこよ～！ #87【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=TaloJ_Kkd54
 DURATION:PT2H
 DTSTART:20220929T220000Z
 SUMMARY:博衣こより: 【#朝こよ】金曜日の朝の、おはこよ～！ #87【博衣こより/ホロライブ】
 UID:TaloJ_Kkd54
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【手描き切り抜き】仕事のONとOFFの差が激しいサラリーマン【ホロライブプロダクション】 #shorts #vtuber #あるある\nhttps://www.youtube.com/watch?v=F3C4mz90FQ0
+DURATION:PT2H
+DTSTART:20220929T083006Z
+SUMMARY:緋崎ガンマ: 【手描き切り抜き】仕事のONとOFFの差が激しいサラリーマン【ホロライブプロダクション】 #shorts #vtuber #あるある
+UID:F3C4mz90FQ0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 KARAOKE 】The Universe Said So【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=3mNexcimAEY
@@ -39,6 +39,13 @@ SUMMARY:💫天音かなた: 【パワプロ2022】#06 ホロメン学園で連�
 UID:BIJr-E68GVc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【朝活雑談】朝ごはん食べながら色々話す【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=j1VpXFQtEsE
+DURATION:PT2H
+DTSTART:20220930T000000Z
+SUMMARY:🌺花咲みやび: 【朝活雑談】朝ごはん食べながら色々話す【花咲みやび/ホロスターズ】
+UID:j1VpXFQtEsE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 スプラトゥーン３ 】よっぱらいすぷらとぅ～～～～～～ん【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=Zh9o5DDn61s
 DURATION:PT2H
 DTSTART:20220929T150000Z
@@ -53,13 +60,6 @@ SUMMARY:🍕アルランディス: 帽子かえしてよ！！！(38歳独身) #
 UID:_VKC_L0Z5zc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Phasmophobia】大型アプデでYABEな事になった幽霊調査【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=Bs0SPxrg7DU
-DURATION:PT2H
-DTSTART:20220929T130000Z
-SUMMARY:🌽白上フブキ: 【Phasmophobia】大型アプデでYABEな事になった幽霊調査【ホロライブ/白上フブキ】
-UID:Bs0SPxrg7DU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】ナイト ライト サイドリリースされたね雑談【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=Nym3ldmAsgI
 DURATION:PT2H
 DTSTART:20220929T140000Z
@@ -67,11 +67,32 @@ SUMMARY:影山シエン: 【雑談】ナイト ライト サイドリリース�
 UID:Nym3ldmAsgI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 #おかゆソロライブ 】猫又おかゆ 1st Live.『ぽいずにゃ〜しんどろーむ』Supported By Bushiroad 【チラ見せ枠】\nhttps://www.youtube.com/watch?v=PQR1ph490UE
+DURATION:PT2H
+DTSTART:20220930T093000Z
+SUMMARY:🍙猫又おかゆ: 【 #おかゆソロライブ 】猫又おかゆ 1st Live.『ぽいずにゃ〜しんどろーむ』Supported By Bushiroad 【チラ見せ枠】
+UID:PQR1ph490UE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Phasmophobia】大型アプデでYABEな事になった幽霊調査【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=Bs0SPxrg7DU
+DURATION:PT2H
+DTSTART:20220929T130000Z
+SUMMARY:🌽白上フブキ: 【Phasmophobia】大型アプデでYABEな事になった幽霊調査【ホロライブ/白上フブキ】
+UID:Bs0SPxrg7DU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【弾き語り歌枠】九月歌い納めの会【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=RfvZ4ISnO9c
 DURATION:PT2H
 DTSTART:20220929T130000Z
 SUMMARY:⚙律可: 【弾き語り歌枠】九月歌い納めの会【律可/ホロスターズ】#りつすた
 UID:RfvZ4ISnO9c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:late night GAMING 【Valorant】\nhttps://www.youtube.com/watch?v=34xMlTfP-eM
+DURATION:PT2H
+DTSTART:20220930T050000Z
+SUMMARY:Altare: late night GAMING 【Valorant】
+UID:34xMlTfP-eM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Dead by Daylight 】生き残りたい初心者のDbDなのら！🔰【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=Tzbt0Yxyc5k
@@ -165,6 +186,13 @@ SUMMARY:Baelz: ≪VALORANT≫ aim doko
 UID:1V0vsqNJsjU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【めんげん】MemberOnly\nhttps://www.youtube.com/watch?v=vjFr1bu8zNk
+DURATION:PT2H
+DTSTART:20220930T140000Z
+SUMMARY:尾丸ポルカ: 【めんげん】MemberOnly
+UID:vjFr1bu8zNk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Sherlock Holmes】A Sailor's End - Case #1\nhttps://www.youtube.com/watch?v=gfUMWE7Iebc
 DURATION:PT2H
 DTSTART:20220928T223500Z
@@ -249,6 +277,13 @@ SUMMARY:鷹嶺ルイ: 【スプラトゥーン３】遅れて参戦バンカラ�
 UID:u5vvG_zVrWc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【R2】コードギアス反逆のルルーシュR２同時試聴：CODE GEASS Lelouch of the Rebellion【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=j4yVt0n1YPs
+DURATION:PT2H
+DTSTART:20220930T130000Z
+SUMMARY:🚑大空スバル: 【R2】コードギアス反逆のルルーシュR２同時試聴：CODE GEASS Lelouch of the Rebellion【ホロライブ/大空スバル】
+UID:j4yVt0n1YPs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:『VALORANT』horror game (with Bae)\nhttps://www.youtube.com/watch?v=1oF7rusbl_4
 DURATION:PT2H
 DTSTART:20220929T050000Z
@@ -261,6 +296,13 @@ DURATION:PT2H
 DTSTART:20220929T131500Z
 SUMMARY:ホロライブ: 【ホロのこしかけ 16】5周年！あなたのホロはどこから？/9月NEWSまとめ【友人A・A-chan】hololive FM
 UID:oRKMDgf6ac8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Aishite Aishite Aishite / 愛して愛して愛して 【Cover by Vestia Zeta】\nhttps://www.youtube.com/watch?v=Q2GSUd-rhlE
+DURATION:PT2H
+DTSTART:20220930T140000Z
+SUMMARY:Zeta: Aishite Aishite Aishite / 愛して愛して愛して 【Cover by Vestia Zeta】
+UID:Q2GSUd-rhlE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Rust】#13 nooooo\, season 3 will be ended soon【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=53Xk3jv3oYc
@@ -314,16 +356,9 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【憶えてる？】わちゃスタ本編からクイズ出題！【＃わちゃスタ 38】\nhttps://www.youtube.com/watch?v=8scw-tu83lc
 DURATION:PT2H
-DTSTART:20220930T100000Z
+DTSTART:20220930T110000Z
 SUMMARY:ホロスターズ: 【憶えてる？】わちゃスタ本編からクイズ出題！【＃わちゃスタ 38】
 UID:8scw-tu83lc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【鬼畜ゲー】しょぼんのるきみん！やってみます！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=ByQYvE1iA-o
-DURATION:PT2H
-DTSTART:20220929T110000Z
-SUMMARY:👯兎田ぺこら: 【鬼畜ゲー】しょぼんのるきみん！やってみます！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:ByQYvE1iA-o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン3】ヒーローモードを進めたい！🔰【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=Q4Lx_0NSev8
@@ -331,6 +366,13 @@ DURATION:PT2H
 DTSTART:20220929T130000Z
 SUMMARY:🔥不知火フレア: 【スプラトゥーン3】ヒーローモードを進めたい！🔰【不知火フレア/ホロライブ】
 UID:Q4Lx_0NSev8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【鬼畜ゲー】しょぼんのるきみん！やってみます！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=ByQYvE1iA-o
+DURATION:PT2H
+DTSTART:20220929T110000Z
+SUMMARY:👯兎田ぺこら: 【鬼畜ゲー】しょぼんのるきみん！やってみます！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:ByQYvE1iA-o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Fall Guys: Ultimate Knockout】やばくなったと噂の新シーズンを遊んでみよう【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=lHP1MeHYaGA
@@ -347,10 +389,10 @@ SUMMARY:桃鈴ねね: 【 スプラトゥーン３ 】今日はガチるもん�
 UID:nM0ONqU5rlE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【イラストメイキング】デビュー半年記念!!同期全員の集合絵描く!!（夜十神封魔/羽継烏有/水無世燐央）【#緋崎ガンマ / #ホロスターズ /  #アップロー 】\nhttps://www.youtube.com/watch?v=MhIaKksmBGM
+DESCRIPTION:【イラストメイキング】デビュー半年記念!!同期全員の集合絵描く!!（#夜十神封魔/#羽継烏有/#水無世燐央）【#緋崎ガンマ / #ホロスターズ /  #アップロー 】\nhttps://www.youtube.com/watch?v=MhIaKksmBGM
 DURATION:PT2H
 DTSTART:20220930T080000Z
-SUMMARY:緋崎ガンマ: 【イラストメイキング】デビュー半年記念!!同期全員の集合絵描く!!（夜十神封魔/羽継烏有/水無世燐央）【#緋崎ガンマ / #ホロスターズ /  #アップロー 】
+SUMMARY:緋崎ガンマ: 【イラストメイキング】デビュー半年記念!!同期全員の集合絵描く!!（#夜十神封魔/#羽継烏有/#水無世燐央）【#緋崎ガンマ / #ホロスターズ /  #アップロー 】
 UID:MhIaKksmBGM
 END:VEVENT
 BEGIN:VEVENT
