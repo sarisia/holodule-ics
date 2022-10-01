@@ -4,27 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:#holoctober DAY 1 | イラストメイキング - Nun【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=7PhHZquw8A8
-DURATION:PT2H
-DTSTART:20221001T151007Z
-SUMMARY:🎨Iofi: #holoctober DAY 1 | イラストメイキング - Nun【 iofi / ホロライブ 】
-UID:7PhHZquw8A8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:『Book Review📚』life lessons\, i guess\nhttps://www.youtube.com/watch?v=TXv8b_uIszU
-DURATION:PT2H
-DTSTART:20221001T150000Z
-SUMMARY:Zeta: 『Book Review📚』life lessons\, i guess
-UID:TXv8b_uIszU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Slime Rancher 2】#3 upgrade upgrade upgrade【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=YDja7LlKl_Y
-DURATION:PT2H
-DTSTART:20221001T031000Z
-SUMMARY:Kaela: 【Slime Rancher 2】#3 upgrade upgrade upgrade【Kaela Kovalskia / hololiveID】
-UID:YDja7LlKl_Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Valorant】HEHE【holoID】\nhttps://www.youtube.com/watch?v=JSHIt0qHDik
 DURATION:PT2H
 DTSTART:20220930T153500Z
@@ -39,11 +18,18 @@ SUMMARY:Reine: #4【Cult of the Lamb】RITUAL RESPONSIBLY【Pavolia Reine/hololi
 UID:e5IG75Jrc_c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Need for Speed™ Hot Pursuit Remastered】goldgoldgold【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=E7OpeWEk4g0
+DESCRIPTION:#holoctober DAY 1 | イラストメイキング - Nun【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=7PhHZquw8A8
 DURATION:PT2H
-DTSTART:20221001T142100Z
-SUMMARY:Kaela: 【Need for Speed™ Hot Pursuit Remastered】goldgoldgold【Kaela Kovalskia / hololiveID】
-UID:E7OpeWEk4g0
+DTSTART:20221001T151007Z
+SUMMARY:🎨Iofi: #holoctober DAY 1 | イラストメイキング - Nun【 iofi / ホロライブ 】
+UID:7PhHZquw8A8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:『Book Review📚』life lessons\, i guess\nhttps://www.youtube.com/watch?v=TXv8b_uIszU
+DURATION:PT2H
+DTSTART:20221001T150000Z
+SUMMARY:Zeta: 『Book Review📚』life lessons\, i guess
+UID:TXv8b_uIszU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MONSTER PROM 2: MONSTER CAMP】WOOING ME MORE MONSTER DATES【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=U3YfTQWncOU
@@ -58,5 +44,12 @@ DURATION:PT2H
 DTSTART:20221001T130000Z
 SUMMARY:🎨Iofi: 【 Live Drawing 】FIRST DAY OF #holoctober ! Semoga Bukan WIP Abadi【 iofi / ホロライブ 】
 UID:VAaHhJMYEAE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Slime Rancher 2】#3 upgrade upgrade upgrade【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=YDja7LlKl_Y
+DURATION:PT2H
+DTSTART:20221001T031000Z
+SUMMARY:Kaela: 【Slime Rancher 2】#3 upgrade upgrade upgrade【Kaela Kovalskia / hololiveID】
+UID:YDja7LlKl_Y
 END:VEVENT
 END:VCALENDAR
