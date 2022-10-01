@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【GUNDAM EVOLUTION】Sazabi Main 😎\nhttps://www.youtube.com/watch?v=RvdAcseRuW8
+DURATION:PT2H
+DTSTART:20221002T030000Z
+SUMMARY:Amelia: 【GUNDAM EVOLUTION】Sazabi Main 😎
+UID:RvdAcseRuW8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Splatoon 3】 SPLAT WITH @Ouro Kronii Ch. hololive-EN &@IRyS Ch. hololive-EN\nhttps://www.youtube.com/watch?v=RyUUTqlfoh8
+DURATION:PT2H
+DTSTART:20221002T020000Z
+SUMMARY:Ina: 【Splatoon 3】 SPLAT WITH @Ouro Kronii Ch. hololive-EN &@IRyS Ch. hololive-EN
+UID:RyUUTqlfoh8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【CARTO】Start From 0 To Gather The Pieces💖 #kfp #キアライブ\nhttps://www.youtube.com/watch?v=AvMEMxucLRU
 DURATION:PT2H
 DTSTART:20220930T180000Z
@@ -23,12 +37,5 @@ DURATION:PT2H
 DTSTART:20221001T220000Z
 SUMMARY:Fauna: 【DRAWING HALLOWEEN COUNCILRyS】 IT'S SPOOKY MONTH 🎃🦇🍭
 UID:EYPHpmgRInY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【GUNDAM EVOLUTION】Sazabi Main 😎\nhttps://www.youtube.com/watch?v=RvdAcseRuW8
-DURATION:PT2H
-DTSTART:20221002T030000Z
-SUMMARY:Amelia: 【GUNDAM EVOLUTION】Sazabi Main 😎
-UID:RvdAcseRuW8
 END:VEVENT
 END:VCALENDAR
