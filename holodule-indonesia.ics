@@ -4,32 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:#holoctober DAY 1 | イラストメイキング - Nun【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=7PhHZquw8A8
+DURATION:PT2H
+DTSTART:20221001T151007Z
+SUMMARY:🎨Iofi: #holoctober DAY 1 | イラストメイキング - Nun【 iofi / ホロライブ 】
+UID:7PhHZquw8A8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:『Book Review📚』life lessons\, i guess\nhttps://www.youtube.com/watch?v=TXv8b_uIszU
 DURATION:PT2H
 DTSTART:20221001T150000Z
 SUMMARY:Zeta: 『Book Review📚』life lessons\, i guess
 UID:TXv8b_uIszU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:WHY IS THE SKY BLUE\nhttps://www.youtube.com/watch?v=ejOkWDUOYq0
-DURATION:PT2H
-DTSTART:20220930T095927Z
-SUMMARY:Ollie: WHY IS THE SKY BLUE
-UID:ejOkWDUOYq0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【KOBOO】Baca cerita horror kalian\, ada yang serem ga yaaa Part #7\nhttps://www.youtube.com/watch?v=RW3Rs-6K1Dg
-DURATION:PT2H
-DTSTART:20220929T160000Z
-SUMMARY:Kobo: 【KOBOO】Baca cerita horror kalian\, ada yang serem ga yaaa Part #7
-UID:RW3Rs-6K1Dg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Fishing Adventure】chill & comfy night【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=FCF2pU6gjzs
-DURATION:PT2H
-DTSTART:20220929T150500Z
-SUMMARY:Kaela: 【Fishing Adventure】chill & comfy night【Kaela Kovalskia / hololiveID】
-UID:FCF2pU6gjzs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Slime Rancher 2】#3 upgrade upgrade upgrade【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=YDja7LlKl_Y
@@ -60,13 +46,6 @@ SUMMARY:Kaela: 【Need for Speed™ Hot Pursuit Remastered】goldgoldgold【Kael
 UID:E7OpeWEk4g0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Cooking Simulator】YES\, CHEF!! 👩‍🍳【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=pKO3R0ZttF8
-DURATION:PT2H
-DTSTART:20220930T130000Z
-SUMMARY:Kaela: 【Cooking Simulator】YES\, CHEF!! 👩‍🍳【Kaela Kovalskia / hololive ID】
-UID:pKO3R0ZttF8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MONSTER PROM 2: MONSTER CAMP】WOOING ME MORE MONSTER DATES【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=U3YfTQWncOU
 DURATION:PT2H
 DTSTART:20221001T125857Z
@@ -74,24 +53,10 @@ SUMMARY:Ollie: 【MONSTER PROM 2: MONSTER CAMP】WOOING ME MORE MONSTER DATES【
 UID:U3YfTQWncOU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FREETALK+DONO READING】 WE HAVE A LOT OF CATCHING UP TO DO!!【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=coNAafX9fcQ
-DURATION:PT2H
-DTSTART:20220930T125942Z
-SUMMARY:Ollie: 【FREETALK+DONO READING】 WE HAVE A LOT OF CATCHING UP TO DO!!【Hololive ID 2nd Generation】
-UID:coNAafX9fcQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 Live Drawing 】FIRST DAY OF #holoctober ! Semoga Bukan WIP Abadi【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=VAaHhJMYEAE
 DURATION:PT2H
 DTSTART:20221001T130000Z
 SUMMARY:🎨Iofi: 【 Live Drawing 】FIRST DAY OF #holoctober ! Semoga Bukan WIP Abadi【 iofi / ホロライブ 】
 UID:VAaHhJMYEAE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Aishite Aishite Aishite / 愛して愛して愛して 【Cover by Vestia Zeta】\nhttps://www.youtube.com/watch?v=Q2GSUd-rhlE
-DURATION:PT2H
-DTSTART:20220930T140000Z
-SUMMARY:Zeta: Aishite Aishite Aishite / 愛して愛して愛して 【Cover by Vestia Zeta】
-UID:Q2GSUd-rhlE
 END:VEVENT
 END:VCALENDAR
