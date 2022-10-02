@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Splatoon 3】 SPLAT WITH @Ouro Kronii Ch. hololive-EN &@IRyS Ch. hololive-EN\nhttps://www.youtube.com/watch?v=RyUUTqlfoh8
+DURATION:PT2H
+DTSTART:20221002T020000Z
+SUMMARY:Ina: 【Splatoon 3】 SPLAT WITH @Ouro Kronii Ch. hololive-EN &@IRyS Ch. hololive-EN
+UID:RyUUTqlfoh8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DRAWING HALLOWEEN COUNCILRyS】 IT'S SPOOKY MONTH 🎃🦇🍭\nhttps://www.youtube.com/watch?v=EYPHpmgRInY
+DURATION:PT2H
+DTSTART:20221001T220000Z
+SUMMARY:Fauna: 【DRAWING HALLOWEEN COUNCILRyS】 IT'S SPOOKY MONTH 🎃🦇🍭
+UID:EYPHpmgRInY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【GUNDAM EVOLUTION】Asshimar Main 😎🛸🍩\nhttps://www.youtube.com/watch?v=RvdAcseRuW8
 DURATION:PT2H
 DTSTART:20221002T030000Z
@@ -11,11 +25,11 @@ SUMMARY:Amelia: 【GUNDAM EVOLUTION】Asshimar Main 😎🛸🍩
 UID:RvdAcseRuW8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Splatoon 3】 SPLAT WITH @Ouro Kronii Ch. hololive-EN &@IRyS Ch. hololive-EN\nhttps://www.youtube.com/watch?v=RyUUTqlfoh8
+DESCRIPTION:≪MINECRAFT≫ Exploring Sana's Tower\nhttps://www.youtube.com/watch?v=C3WQPCvZq1I
 DURATION:PT2H
-DTSTART:20221002T020000Z
-SUMMARY:Ina: 【Splatoon 3】 SPLAT WITH @Ouro Kronii Ch. hololive-EN &@IRyS Ch. hololive-EN
-UID:RyUUTqlfoh8
+DTSTART:20221003T000000Z
+SUMMARY:Baelz: ≪MINECRAFT≫ Exploring Sana's Tower
+UID:C3WQPCvZq1I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】Sana's Tower Visit with CouncilRyS\nhttps://www.youtube.com/watch?v=kTU4Aht2Fis
@@ -44,12 +58,5 @@ DURATION:PT2H
 DTSTART:20220930T220000Z
 SUMMARY:Fauna: 【Civilization V】 Taking Over the World One Sapling at a Time
 UID:0xDc-WvMR4U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DRAWING HALLOWEEN COUNCILRyS】 IT'S SPOOKY MONTH 🎃🦇🍭\nhttps://www.youtube.com/watch?v=EYPHpmgRInY
-DURATION:PT2H
-DTSTART:20221001T220000Z
-SUMMARY:Fauna: 【DRAWING HALLOWEEN COUNCILRyS】 IT'S SPOOKY MONTH 🎃🦇🍭
-UID:EYPHpmgRInY
 END:VEVENT
 END:VCALENDAR
