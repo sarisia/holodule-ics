@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【GUNDAM EVOLUTION】Asshimar Main 😎🛸🍩\nhttps://www.youtube.com/watch?v=RvdAcseRuW8
+DESCRIPTION:【SUPASUNDAY】Listenin' to Radio - Catching up on Superchats!\nhttps://www.youtube.com/watch?v=mhUblpYZMkE
 DURATION:PT2H
-DTSTART:20221002T030000Z
-SUMMARY:Amelia: 【GUNDAM EVOLUTION】Asshimar Main 😎🛸🍩
-UID:RvdAcseRuW8
+DTSTART:20221003T000500Z
+SUMMARY:Amelia: 【SUPASUNDAY】Listenin' to Radio - Catching up on Superchats!
+UID:mhUblpYZMkE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Splatoon 3】 SPLAT WITH @Ouro Kronii Ch. hololive-EN &@IRyS Ch. hololive-EN\nhttps://www.youtube.com/watch?v=RyUUTqlfoh8
@@ -16,6 +16,20 @@ DURATION:PT2H
 DTSTART:20221002T020000Z
 SUMMARY:Ina: 【Splatoon 3】 SPLAT WITH @Ouro Kronii Ch. hololive-EN &@IRyS Ch. hololive-EN
 UID:RyUUTqlfoh8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DRAWING HALLOWEEN COUNCILRyS】 IT'S SPOOKY MONTH 🎃🦇🍭\nhttps://www.youtube.com/watch?v=EYPHpmgRInY
+DURATION:PT2H
+DTSTART:20221001T220000Z
+SUMMARY:Fauna: 【DRAWING HALLOWEEN COUNCILRyS】 IT'S SPOOKY MONTH 🎃🦇🍭
+UID:EYPHpmgRInY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【GUNDAM EVOLUTION】Asshimar Main 😎🛸🍩\nhttps://www.youtube.com/watch?v=RvdAcseRuW8
+DURATION:PT2H
+DTSTART:20221002T030000Z
+SUMMARY:Amelia: 【GUNDAM EVOLUTION】Asshimar Main 😎🛸🍩
+UID:RvdAcseRuW8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】Sana's Tower Visit with CouncilRyS\nhttps://www.youtube.com/watch?v=kTU4Aht2Fis
@@ -44,12 +58,5 @@ DURATION:PT2H
 DTSTART:20221002T003000Z
 SUMMARY:Mumei: 【PLANET COASTER】 wee !!
 UID:GTpTS8oCJv8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DRAWING HALLOWEEN COUNCILRyS】 IT'S SPOOKY MONTH 🎃🦇🍭\nhttps://www.youtube.com/watch?v=EYPHpmgRInY
-DURATION:PT2H
-DTSTART:20221001T220000Z
-SUMMARY:Fauna: 【DRAWING HALLOWEEN COUNCILRyS】 IT'S SPOOKY MONTH 🎃🦇🍭
-UID:EYPHpmgRInY
 END:VEVENT
 END:VCALENDAR
