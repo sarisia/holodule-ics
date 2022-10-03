@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:4k test and talking SMACK.\nhttps://www.youtube.com/watch?v=5HnHdu3r918
+DURATION:PT2H
+DTSTART:20221003T051417Z
+SUMMARY:Calli: 4k test and talking SMACK.
+UID:5HnHdu3r918
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【SUPASUNDAY】Listenin' to Radio - Catching up on Superchats!\nhttps://www.youtube.com/watch?v=mhUblpYZMkE
 DURATION:PT2H
 DTSTART:20221003T000500Z
