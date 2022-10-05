@@ -81,18 +81,18 @@ SUMMARY:🍬姫森ルーナ: 【 Rust 】これで終わりなのらあああ！
 UID:9iVx4Jkfr7M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ルイころ】２人で「リング」同時視聴します。♪心拍数付き♪【オフコラボ】\nhttps://www.youtube.com/watch?v=0xGKKYehcKE
-DURATION:PT2H
-DTSTART:20221005T130000Z
-SUMMARY:🥐戌神ころね: 【#ルイころ】２人で「リング」同時視聴します。♪心拍数付き♪【オフコラボ】
-UID:0xGKKYehcKE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ASMR】ヘイヘスヘムハールトーク【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=V-Z_PGsJ3I4
 DURATION:PT2H
 DTSTART:20221005T140000Z
 SUMMARY:影山シエン: 【ASMR】ヘイヘスヘムハールトーク【影山シエン/ホロスターズ】
 UID:V-Z_PGsJ3I4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【OW2】に！！！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=TeeYxbXkICo
+DURATION:PT2H
+DTSTART:20221007T120000Z
+SUMMARY:獅白ぼたん: 【OW2】に！！！【獅白ぼたん/ホロライブ】
+UID:TeeYxbXkICo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【51 WORLDWIDE CLASSICS】#iollie ZOMBILIEN SHOWDOWN IS BACK BABY【Hololive Indonesia】\nhttps://www.youtube.com/watch?v=BN-D-cqgZ3Q
@@ -130,11 +130,11 @@ SUMMARY:🍷夕刻ロベル: 【#ロベルないとめあ】『スプラトゥ�
 UID:mjUrqBMPCfE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【OW2】に！！！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=TeeYxbXkICo
+DESCRIPTION:【holoID】TEARDOWN : I AM RISU THE NUT CRUSHER【Ayunda Risu】\nhttps://www.youtube.com/watch?v=4Ud8B3D6At8
 DURATION:PT2H
-DTSTART:20221007T120000Z
-SUMMARY:獅白ぼたん: 【OW2】に！！！【獅白ぼたん/ホロライブ】
-UID:TeeYxbXkICo
+DTSTART:20221005T130000Z
+SUMMARY:🐿Risu: 【holoID】TEARDOWN : I AM RISU THE NUT CRUSHER【Ayunda Risu】
+UID:4Ud8B3D6At8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【お誕生日】アフタートーク＆MV同時視聴＆ぷちお披露目！【#白上フブキ生誕祭2022】\nhttps://www.youtube.com/watch?v=SgNcZUgkOIg
@@ -184,6 +184,13 @@ DURATION:PT2H
 DTSTART:20221005T140000Z
 SUMMARY:Reine: 【Physical Exorcism Case 01】INVESTIGATE & FIGHT EVIL :O!!!【Pavolia Reine/hololiveID 2nd gen】
 UID:gnYoiInQEHY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#holoctober DAY 5| Zombie Ft. Anya Melfissa【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=0vDIbEGM7qI
+DURATION:PT2H
+DTSTART:20221005T150938Z
+SUMMARY:🎨Iofi: #holoctober DAY 5| Zombie Ft. Anya Melfissa【 iofi / ホロライブ 】
+UID:0vDIbEGM7qI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【2022年誕生日企画】白上フブキのすこんなばらえてぃ！【#すこんなばらえてぃ】\nhttps://www.youtube.com/watch?v=tdaMQAL-6Ww
