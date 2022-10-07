@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【MADiSON】 VERY scaredy shark + PROOF\nhttps://www.youtube.com/watch?v=HA8tMr5cDO0
+DURATION:PT2H
+DTSTART:20221006T230005Z
+SUMMARY:Gura: 【MADiSON】 VERY scaredy shark + PROOF
+UID:HA8tMr5cDO0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MEMBERS】✨🎉2 YEARS 🎉✨ Let's Celebrate~!\nhttps://www.youtube.com/watch?v=-LSnmaQ_HPc
 DURATION:PT2H
 DTSTART:20221007T200000Z
@@ -16,62 +23,6 @@ DURATION:PT2H
 DTSTART:20221006T230500Z
 SUMMARY:Amelia: Smol Ame A.I.
 UID:ef7u-YmtNM8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Sandwich Smoothie】B L E N D\nhttps://www.youtube.com/watch?v=JPw60Re7EK4
-DURATION:PT2H
-DTSTART:20221006T040000Z
-SUMMARY:Kronii: 【Sandwich Smoothie】B L E N D
-UID:JPw60Re7EK4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DRAWING HALLOWEEN COUNCILRyS】 Alice in Wonderland Version!\nhttps://www.youtube.com/watch?v=H5jE8vWzDcU
-DURATION:PT2H
-DTSTART:20221006T220000Z
-SUMMARY:Fauna: 【DRAWING HALLOWEEN COUNCILRyS】 Alice in Wonderland Version!
-UID:H5jE8vWzDcU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Superchat Catchup】...Oh Dear\nhttps://www.youtube.com/watch?v=Oo6XQr74JD0
-DURATION:PT2H
-DTSTART:20221007T033000Z
-SUMMARY:Kronii: 【Superchat Catchup】...Oh Dear
-UID:Oo6XQr74JD0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Overwatch 2】New MAPS???????????\nhttps://www.youtube.com/watch?v=FOTh9eF582k
-DURATION:PT2H
-DTSTART:20221005T231000Z
-SUMMARY:Amelia: 【Overwatch 2】New MAPS???????????
-UID:FOTh9eF582k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Kronii’s Korean Will Blow You Away  #shorts\nhttps://www.youtube.com/watch?v=o03BiGUrjOE
-DURATION:PT2H
-DTSTART:20221007T030018Z
-SUMMARY:ENholo: Kronii’s Korean Will Blow You Away  #shorts
-UID:o03BiGUrjOE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Mega Man X4】IRyS will make Iris happy\nhttps://www.youtube.com/watch?v=KxWnZp8mZ7I
-DURATION:PT2H
-DTSTART:20221007T020000Z
-SUMMARY:IRyS: 【Mega Man X4】IRyS will make Iris happy
-UID:KxWnZp8mZ7I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【GTA5】OVERKILL BABY #kfp #キアライブ\nhttps://www.youtube.com/watch?v=R1u8X4C7e_A
-DURATION:PT2H
-DTSTART:20221007T133000Z
-SUMMARY:Kiara: 【GTA5】OVERKILL BABY #kfp #キアライブ
-UID:R1u8X4C7e_A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MADiSON】 VERY scaredy shark + PROOF\nhttps://www.youtube.com/watch?v=HA8tMr5cDO0
-DURATION:PT2H
-DTSTART:20221006T230005Z
-SUMMARY:Gura: 【MADiSON】 VERY scaredy shark + PROOF
-UID:HA8tMr5cDO0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MK8DX】Or I will eat you #kfp #キアライブ\nhttps://www.youtube.com/watch?v=yvoyW4nA_60
@@ -88,18 +39,25 @@ SUMMARY:Mumei: 【GUNDAM EVOLUTION】Space Pew Pew
 UID:klAarMevFng
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪しょぼんのるきみん！≫ SICK WITH RAGE\nhttps://www.youtube.com/watch?v=J4sbgPF51XA
+DESCRIPTION:【DRAWING HALLOWEEN COUNCILRyS】 Alice in Wonderland Version!\nhttps://www.youtube.com/watch?v=H5jE8vWzDcU
 DURATION:PT2H
-DTSTART:20221006T120000Z
-SUMMARY:Baelz: ≪しょぼんのるきみん！≫ SICK WITH RAGE
-UID:J4sbgPF51XA
+DTSTART:20221006T220000Z
+SUMMARY:Fauna: 【DRAWING HALLOWEEN COUNCILRyS】 Alice in Wonderland Version!
+UID:H5jE8vWzDcU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Elden Ring】FINALE - ELDEN LORD BOWSON\nhttps://www.youtube.com/watch?v=s5du9dv-15c
+DESCRIPTION:Kronii’s Korean Will Blow You Away  #shorts\nhttps://www.youtube.com/watch?v=o03BiGUrjOE
 DURATION:PT2H
-DTSTART:20221006T023000Z
-SUMMARY:Amelia: 【Elden Ring】FINALE - ELDEN LORD BOWSON
-UID:s5du9dv-15c
+DTSTART:20221007T030018Z
+SUMMARY:ENholo: Kronii’s Korean Will Blow You Away  #shorts
+UID:o03BiGUrjOE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Superchat Catchup】...Oh Dear\nhttps://www.youtube.com/watch?v=Oo6XQr74JD0
+DURATION:PT2H
+DTSTART:20221007T033000Z
+SUMMARY:Kronii: 【Superchat Catchup】...Oh Dear
+UID:Oo6XQr74JD0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪What Remains of Edith Finch≫ baby steps guys baby steps ft. FAUNA\nhttps://www.youtube.com/watch?v=xhpFGxEzm8Q
@@ -116,10 +74,17 @@ SUMMARY:Baelz: ≪Bejeweled 3≫ GLIT-- SHINY!
 UID:NOk993ZnlIE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【The Backrooms: 1998】where..\nhttps://www.youtube.com/watch?v=-ZODF4v8TGw
+DESCRIPTION:【Mega Man X4】IRyS will make Iris happy\nhttps://www.youtube.com/watch?v=KxWnZp8mZ7I
 DURATION:PT2H
-DTSTART:20221005T230110Z
-SUMMARY:Gura: 【The Backrooms: 1998】where..
-UID:-ZODF4v8TGw
+DTSTART:20221007T020000Z
+SUMMARY:IRyS: 【Mega Man X4】IRyS will make Iris happy
+UID:KxWnZp8mZ7I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【GTA5】OVERKILL BABY #kfp #キアライブ\nhttps://www.youtube.com/watch?v=R1u8X4C7e_A
+DURATION:PT2H
+DTSTART:20221007T133000Z
+SUMMARY:Kiara: 【GTA5】OVERKILL BABY #kfp #キアライブ
+UID:R1u8X4C7e_A
 END:VEVENT
 END:VCALENDAR

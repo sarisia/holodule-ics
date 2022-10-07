@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【アニメ】心当たりが多すぎる【#スタこれ】\nhttps://www.youtube.com/watch?v=IbVOP-_MnmM
-DURATION:PT2H
-DTSTART:20221007T100024Z
-SUMMARY:ホロスターズ: 【アニメ】心当たりが多すぎる【#スタこれ】
-UID:IbVOP-_MnmM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#holoctober DAY 5 | Flight Attendant Ft. Pavolia Reine【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=s_JiSS-Yq_M
 DURATION:PT2H
 DTSTART:20221006T154754Z
 SUMMARY:🎨Iofi: #holoctober DAY 5 | Flight Attendant Ft. Pavolia Reine【 iofi / ホロライブ 】
 UID:s_JiSS-Yq_M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【アニメ】心当たりが多すぎる【#スタこれ】\nhttps://www.youtube.com/watch?v=IbVOP-_MnmM
+DURATION:PT2H
+DTSTART:20221007T100024Z
+SUMMARY:ホロスターズ: 【アニメ】心当たりが多すぎる【#スタこれ】
+UID:IbVOP-_MnmM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Smol Ame A.I.\nhttps://www.youtube.com/watch?v=ef7u-YmtNM8
@@ -25,46 +25,11 @@ SUMMARY:Amelia: Smol Ame A.I.
 UID:ef7u-YmtNM8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Your Turn To Die / キミガシネ】Will we LIVE or DIE? #1\nhttps://www.youtube.com/watch?v=cPXiW-ZlIB8
-DURATION:PT2H
-DTSTART:20221006T010000Z
-SUMMARY:Syrios: 【Your Turn To Die / キミガシネ】Will we LIVE or DIE? #1
-UID:cPXiW-ZlIB8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Sandwich Smoothie】B L E N D\nhttps://www.youtube.com/watch?v=JPw60Re7EK4
-DURATION:PT2H
-DTSTART:20221006T040000Z
-SUMMARY:Kronii: 【Sandwich Smoothie】B L E N D
-UID:JPw60Re7EK4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3】封魔とスプラトゥーン3をやるぞ！【夕刻ロベル/夜十神封魔】\nhttps://www.youtube.com/watch?v=2kzlEXO2iSM
-DURATION:PT2H
-DTSTART:20221007T120000Z
-SUMMARY:🍷夕刻ロベル: 【スプラトゥーン3】封魔とスプラトゥーン3をやるぞ！【夕刻ロベル/夜十神封魔】
-UID:2kzlEXO2iSM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Apex Legends 】Janji ga Janji Penuh Jokes Bapak-bapak Lagi #iollie【 iofi / Ollie  ホロライブ 】\nhttps://www.youtube.com/watch?v=nVa1C_DFMvs
-DURATION:PT2H
-DTSTART:20221006T120000Z
-SUMMARY:🎨Iofi: 【 Apex Legends 】Janji ga Janji Penuh Jokes Bapak-bapak Lagi #iollie【 iofi / Ollie  ホロライブ 】
-UID:nVa1C_DFMvs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Starcraft 2】this is my first time playing this game【Moona | Geemoon】\nhttps://www.youtube.com/watch?v=F60R01MYErg
 DURATION:PT2H
 DTSTART:20221007T080000Z
 SUMMARY:🔮Moona: 【Starcraft 2】this is my first time playing this game【Moona | Geemoon】
 UID:F60R01MYErg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Rust】RUST最終日⚡まつり様と全てを破壊する【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=CIWuQLXx2dw
-DURATION:PT2H
-DTSTART:20221006T120000Z
-SUMMARY:💋癒月ちょこ: 【Rust】RUST最終日⚡まつり様と全てを破壊する【ホロライブ/癒月ちょこ】
-UID:CIWuQLXx2dw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】MEMBANGUN RUMAH TANGGA BERSAMA IOFI-SENPAI #iollie 【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=iMocMcgHgFk
@@ -74,53 +39,11 @@ SUMMARY:Ollie: 【MINECRAFT】MEMBANGUN RUMAH TANGGA BERSAMA IOFI-SENPAI #iollie
 UID:iMocMcgHgFk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロスタ生き残り隊】Re:Raft【夕刻ロベル/奏手イヅル/岸堂天真】#4\nhttps://www.youtube.com/watch?v=PqMtiRGY16U
-DURATION:PT2H
-DTSTART:20221006T143000Z
-SUMMARY:🍷夕刻ロベル: 【#ホロスタ生き残り隊】Re:Raft【夕刻ロベル/奏手イヅル/岸堂天真】#4
-UID:PqMtiRGY16U
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DRAWING HALLOWEEN COUNCILRyS】 Alice in Wonderland Version!\nhttps://www.youtube.com/watch?v=H5jE8vWzDcU
 DURATION:PT2H
 DTSTART:20221006T220000Z
 SUMMARY:Fauna: 【DRAWING HALLOWEEN COUNCILRyS】 Alice in Wonderland Version!
 UID:H5jE8vWzDcU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】relaxing【Kaela Kovalskia / hololive ID】\nhttps://www.youtube.com/watch?v=xYQVTumRAcI
-DURATION:PT2H
-DTSTART:20221006T030000Z
-SUMMARY:Kaela: 【Minecraft】relaxing【Kaela Kovalskia / hololive ID】
-UID:xYQVTumRAcI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【holoID】Cult of the Lamb : KUMBAYAYAYA【Ayunda Risu】\nhttps://www.youtube.com/watch?v=eljG1H_tVbo
-DURATION:PT2H
-DTSTART:20221006T063000Z
-SUMMARY:🐿Risu: 【holoID】Cult of the Lamb : KUMBAYAYAYA【Ayunda Risu】
-UID:eljG1H_tVbo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:I'm Traveling! 【Chatting】\nhttps://www.youtube.com/watch?v=sPyH9px08CE
-DURATION:PT2H
-DTSTART:20221005T230000Z
-SUMMARY:Altare: I'm Traveling! 【Chatting】
-UID:sPyH9px08CE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Zatsudan】Come chat with just a lil guy\nhttps://www.youtube.com/watch?v=F3GURkFf2HM
-DURATION:PT2H
-DTSTART:20221006T120000Z
-SUMMARY:Syrios: 【Zatsudan】Come chat with just a lil guy
-UID:F3GURkFf2HM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Omega Strikers】3VS3のぶん殴りエアホッケー！に一人でチャレンジする男【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=GBy3hORpAXg
-DURATION:PT2H
-DTSTART:20221006T060000Z
-SUMMARY:🍕アルランディス: 【Omega Strikers】3VS3のぶん殴りエアホッケー！に一人でチャレンジする男【アルランディス/ホロスターズ】
-UID:GBy3hORpAXg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Kronii’s Korean Will Blow You Away  #shorts\nhttps://www.youtube.com/watch?v=o03BiGUrjOE
@@ -144,39 +67,11 @@ SUMMARY:雪花ラミィ: 【#カプとれ】めっちゃ可愛いグッズをGET
 UID:hBdHxJtZmNw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Propnight】スリリングかくれんぼvsゲラ【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=sZfsNwFOSp0
-DURATION:PT2H
-DTSTART:20221006T130000Z
-SUMMARY:獅白ぼたん: 【Propnight】スリリングかくれんぼvsゲラ【獅白ぼたん/ホロライブ】
-UID:sZfsNwFOSp0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Splatoon3】借金生活？いえ、投資です。ウデマエS+への道【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=j5rDgeNw12Y
-DURATION:PT2H
-DTSTART:20221005T153000Z
-SUMMARY:🍎アキロゼ: 【Splatoon3】借金生活？いえ、投資です。ウデマエS+への道【ホロライブ/アキ・ローゼンタール】
-UID:j5rDgeNw12Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【OverWatch2】OW2がきた～～！！やっていくぜっ！【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=SMmhj_etLJo
-DURATION:PT2H
-DTSTART:20221006T090000Z
-SUMMARY:👾常闇トワ: 【OverWatch2】OW2がきた～～！！やっていくぜっ！【常闇トワ/ホロライブ】
-UID:SMmhj_etLJo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:KONKONbeats　踊ってみた🎵\nhttps://www.youtube.com/watch?v=FcF63iNOvlk
 DURATION:PT2H
 DTSTART:20221007T030006Z
 SUMMARY:🌽白上フブキ: KONKONbeats　踊ってみた🎵
 UID:FcF63iNOvlk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【R2】コードギアス反逆のルルーシュR２同時試聴：CODE GEASS Lelouch of the Rebellion【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=X1lM2ch4uF8
-DURATION:PT2H
-DTSTART:20221006T130000Z
-SUMMARY:🚑大空スバル: 【R2】コードギアス反逆のルルーシュR２同時試聴：CODE GEASS Lelouch of the Rebellion【ホロライブ/大空スバル】
-UID:X1lM2ch4uF8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MoonUtau】Can anime girl sing good?【Unarchive】\nhttps://www.youtube.com/watch?v=n-wHBvH9aGk
@@ -186,25 +81,11 @@ SUMMARY:🔮Moona: 【MoonUtau】Can anime girl sing good?【Unarchive】
 UID:n-wHBvH9aGk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Planet Zoo】ここから自由に！動物園が作れるはず！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=lNGin1D9dp4
+DESCRIPTION:Street Fighter 6 » Beta Testing!\nhttps://www.youtube.com/watch?v=IJhX6vRhzAk
 DURATION:PT2H
-DTSTART:20221006T143000Z
-SUMMARY:🍕アルランディス: 【Planet Zoo】ここから自由に！動物園が作れるはず！【アルランディス/ホロスターズ】
-UID:lNGin1D9dp4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】SEASON 3 FINALE... Let The Banquet Begin. シーズン3の最後の夜！！！【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=DnXInpuWDsM
-DURATION:PT2H
-DTSTART:20221006T120000Z
-SUMMARY:Anya: 【RUST】SEASON 3 FINALE... Let The Banquet Begin. シーズン3の最後の夜！！！【hololive Indonesia 2nd Generation】
-UID:DnXInpuWDsM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪しょぼんのるきみん！≫ SICK WITH RAGE\nhttps://www.youtube.com/watch?v=J4sbgPF51XA
-DURATION:PT2H
-DTSTART:20221006T120000Z
-SUMMARY:Baelz: ≪しょぼんのるきみん！≫ SICK WITH RAGE
-UID:J4sbgPF51XA
+DTSTART:20221008T150000Z
+SUMMARY:Zeta: Street Fighter 6 » Beta Testing!
+UID:IJhX6vRhzAk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【OverWatch2】やっぱりオーバーウォッチしか勝たんのかもしれん。【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=71xi54FFtjo
@@ -221,34 +102,6 @@ SUMMARY:羽継烏有: 【Pummel Party】友情崩壊！？ " なかよし " パ�
 UID:2a2jt81RPpk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Among Us】SAYA TIDAK TAKUT【MEMBERSHIP】\nhttps://www.youtube.com/watch?v=dOZFI5uh3Lc
-DURATION:PT2H
-DTSTART:20221005T151500Z
-SUMMARY:Kobo: 【Among Us】SAYA TIDAK TAKUT【MEMBERSHIP】
-UID:dOZFI5uh3Lc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Rust】こんこよのサバゲーに凸ります！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=CefTAil6oN4
-DURATION:PT2H
-DTSTART:20221006T100000Z
-SUMMARY:沙花叉クロヱ: 【Rust】こんこよのサバゲーに凸ります！【沙花叉クロヱ/ホロライブ】
-UID:CefTAil6oN4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ガーディアンテイルズ for NINTENDO SWITCH】サクサク過ぎてすぐ進むドットxRPG！！【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=CZDiDPHqjRU
-DURATION:PT2H
-DTSTART:20221006T110000Z
-SUMMARY:尾丸ポルカ: 【ガーディアンテイルズ for NINTENDO SWITCH】サクサク過ぎてすぐ進むドットxRPG！！【尾丸ポルカ/ホロライブ】
-UID:CZDiDPHqjRU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Splatoon3】対抗戦お疲れ様！ロベル先輩とコラボスプラ！ w/@Roberu Ch. 夕刻ロベル 【#夜十神封魔 #夕刻ロベル  #ホロスターズ #アップロー】\nhttps://www.youtube.com/watch?v=Ma7Xajqkw1E
-DURATION:PT2H
-DTSTART:20221007T120000Z
-SUMMARY:夜十神封魔: 【Splatoon3】対抗戦お疲れ様！ロベル先輩とコラボスプラ！ w/@Roberu Ch. 夕刻ロベル 【#夜十神封魔 #夕刻ロベル  #ホロスターズ #アップロー】
-UID:Ma7Xajqkw1E
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【メンバー限定配信】開設2年7ヶ月目！同時視聴『竜とそばかすの姫／Belle』一緒に観よう！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=2v-BbwStqBA
 DURATION:PT2H
 DTSTART:20221008T130000Z
@@ -256,53 +109,11 @@ SUMMARY:🐏角巻わため: 【メンバー限定配信】開設2年7ヶ月目�
 UID:2v-BbwStqBA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【EDF6】リスナー参加型！あと何回飛べば、地球は守れるの・・？【 ホロライブ / 大神ミオ 】\nhttps://www.youtube.com/watch?v=0NoTwkBjTbo
+DESCRIPTION:【Splatoon3】借金を返しましょう。ウデマエS+への道【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=tkeB8h733Mw
 DURATION:PT2H
-DTSTART:20221006T150000Z
-SUMMARY:🌲大神ミオ: 【EDF6】リスナー参加型！あと何回飛べば、地球は守れるの・・？【 ホロライブ / 大神ミオ 】
-UID:0NoTwkBjTbo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:今日のポルカの伝説！意外と知らないマリオブラザーズの世界 #Shorts\nhttps://www.youtube.com/watch?v=cWcxkXbRdDw
-DURATION:PT2H
-DTSTART:20221006T061235Z
-SUMMARY:尾丸ポルカ: 今日のポルカの伝説！意外と知らないマリオブラザーズの世界 #Shorts
-UID:cWcxkXbRdDw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【弾き語り歌枠】激しめの歌をギターで歌う【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=0D3-wLH8Eog
-DURATION:PT2H
-DTSTART:20221006T100000Z
-SUMMARY:⚙律可: 【弾き語り歌枠】激しめの歌をギターで歌う【律可/ホロスターズ】#りつすた
-UID:0D3-wLH8Eog
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】シーズン3最後の闘い！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=jjY8jPIUrv4
-DURATION:PT2H
-DTSTART:20221006T120000Z
-SUMMARY:博衣こより: 【RUST】シーズン3最後の闘い！！【博衣こより/ホロライブ】
-UID:jjY8jPIUrv4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Splatoon3】借金いえ、収支黒字です。ウデマエS+への道【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=acJ2PJ0aqug
-DURATION:PT2H
-DTSTART:20221006T090000Z
-SUMMARY:🍎アキロゼ: 【Splatoon3】借金いえ、収支黒字です。ウデマエS+への道【ホロライブ/アキ・ローゼンタール】
-UID:acJ2PJ0aqug
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RAFT : 2章 その4】終幕【奏手イヅル/夕刻ロベル/岸堂天真】\nhttps://www.youtube.com/watch?v=uQ82CF-5F44
-DURATION:PT2H
-DTSTART:20221006T143000Z
-SUMMARY:🎸奏手イヅル: 【RAFT : 2章 その4】終幕【奏手イヅル/夕刻ロベル/岸堂天真】
-UID:uQ82CF-5F44
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロゲラかくれんぼ】ころね支店【Propnight】\nhttps://www.youtube.com/watch?v=RY0L5px-Kms
-DURATION:PT2H
-DTSTART:20221006T130000Z
-SUMMARY:🥐戌神ころね: 【#ホロゲラかくれんぼ】ころね支店【Propnight】
-UID:RY0L5px-Kms
+DTSTART:20221007T153000Z
+SUMMARY:🍎アキロゼ: 【Splatoon3】借金を返しましょう。ウデマエS+への道【ホロライブ/アキ・ローゼンタール】
+UID:tkeB8h733Mw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スプラ３】ヒーローモードクリアするぞおおお！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=OzI8Nfd65Po
@@ -310,13 +121,6 @@ DURATION:PT2H
 DTSTART:20221007T120000Z
 SUMMARY:風真いろは: 【スプラ３】ヒーローモードクリアするぞおおお！【風真いろは/ホロライブ】
 UID:OzI8Nfd65Po
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Propnight】爆笑かくれんぼが始まる。#ホロゲラかくれんぼ【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=LovuhSDGjP4
-DURATION:PT2H
-DTSTART:20221006T130000Z
-SUMMARY:鷹嶺ルイ: 【Propnight】爆笑かくれんぼが始まる。#ホロゲラかくれんぼ【鷹嶺ルイ/ホロライブ】
-UID:LovuhSDGjP4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Devil May Cry 3】AWAKENING.\nhttps://www.youtube.com/watch?v=j6wVAySoU-k
@@ -354,13 +158,6 @@ SUMMARY:⚙律可: 【ストリートファイター6】クローズドβテス�
 UID:t4DGIo72pZg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【GTA V】pengen naik helikopter gimana\nhttps://www.youtube.com/watch?v=18Xi80YFkeM
-DURATION:PT2H
-DTSTART:20221006T143000Z
-SUMMARY:Kobo: 【GTA V】pengen naik helikopter gimana
-UID:18Xi80YFkeM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ホロスプラ部】スプラトゥーン３やるしゅばああああああああああああああああああああああああああああああああああああああ！！！！！！：Splatoon3【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=26mahROBKmk
 DURATION:PT2H
 DTSTART:20221007T120000Z
@@ -380,13 +177,6 @@ DURATION:PT2H
 DTSTART:20221007T141000Z
 SUMMARY:🤖ロボ子さん: 【#Splatoon3】プラべ企画おつかれさま！➡闇OR光バンカラマッチ！【ホロライブ/#ロボ子生放送 】
 UID:7tfUZoUI3Zw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Ultimate Fishing Simulator 2】釣り4【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=8XrJ_y-FGTI
-DURATION:PT2H
-DTSTART:20221006T130000Z
-SUMMARY:荒咬オウガ: 【Ultimate Fishing Simulator 2】釣り4【荒咬オウガ/ホロスターズ】
-UID:8XrJ_y-FGTI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【全体新曲解禁！】ホロスタ2ndライブの楽しみ方教えます！1stライブ振り返り＆最新情報あり！【#ホロスタ2ndACT】\nhttps://www.youtube.com/watch?v=fOxvuH1IJVk
@@ -417,32 +207,11 @@ SUMMARY:Anya: 【Raft】FINALE Speedrun!? Wait For Us\, Utopia!【hololive Indon
 UID:iDGAJMiByZw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【臨時企画】コメントの質問ぶったぎる雑な雑談配信【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=kH678FOJ6fc
-DURATION:PT2H
-DTSTART:20221007T150000Z
-SUMMARY:博衣こより: 【臨時企画】コメントの質問ぶったぎる雑な雑談配信【博衣こより/ホロライブ】
-UID:kH678FOJ6fc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】NOT SAD its the final day n i lost my house and all my items【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=OL6Bxe_BwYM
-DURATION:PT2H
-DTSTART:20221006T120000Z
-SUMMARY:Reine: 【RUST】NOT SAD its the final day n i lost my house and all my items【Pavolia Reine/hololiveID 2nd gen】
-UID:OL6Bxe_BwYM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ストリートファイター6】スト６クローズドβ遊んでいく【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=PCa1d2yzfz0
 DURATION:PT2H
 DTSTART:20221007T130000Z
 SUMMARY:荒咬オウガ: 【ストリートファイター6】スト６クローズドβ遊んでいく【荒咬オウガ/ホロスターズ】
 UID:PCa1d2yzfz0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Elden Ring】FINALE - ELDEN LORD BOWSON\nhttps://www.youtube.com/watch?v=s5du9dv-15c
-DURATION:PT2H
-DTSTART:20221006T023000Z
-SUMMARY:Amelia: 【Elden Ring】FINALE - ELDEN LORD BOWSON
-UID:s5du9dv-15c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪What Remains of Edith Finch≫ baby steps guys baby steps ft. FAUNA\nhttps://www.youtube.com/watch?v=xhpFGxEzm8Q
@@ -487,48 +256,6 @@ SUMMARY:Vesper: 【 Minecraft 】Just exploring\, please teach me more about thi
 UID:VpqncTe3bA4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】はい、雑談だよ～～～【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=56w23NSZHgE
-DURATION:PT2H
-DTSTART:20221006T061500Z
-SUMMARY:🍷夕刻ロベル: 【雑談】はい、雑談だよ～～～【夕刻ロベル/ホロスターズ】
-UID:56w23NSZHgE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Bathhouse | 地獄銭湯♨️】祝!!パリピ漫画家が銭湯に就職!!【#緋崎ガンマ / #ホロスターズ / ホラーゲーム】\nhttps://www.youtube.com/watch?v=fS2Y0r5tDMs
-DURATION:PT2H
-DTSTART:20221006T090000Z
-SUMMARY:緋崎ガンマ: 【The Bathhouse | 地獄銭湯♨️】祝!!パリピ漫画家が銭湯に就職!!【#緋崎ガンマ / #ホロスターズ / ホラーゲーム】
-UID:fS2Y0r5tDMs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【鬼畜ゲー】しょぼんのるきみん！発狂なんてするわけないない！！＞＜【ホロライブ/ #ロボ子生放送 】\nhttps://www.youtube.com/watch?v=MKVIvZzDm_c
-DURATION:PT2H
-DTSTART:20221006T090000Z
-SUMMARY:🤖ロボ子さん: 【鬼畜ゲー】しょぼんのるきみん！発狂なんてするわけないない！！＞＜【ホロライブ/ #ロボ子生放送 】
-UID:MKVIvZzDm_c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ラインすれすれモノマネVtuber #shorts\nhttps://www.youtube.com/watch?v=z5u2_ob4akI
-DURATION:PT2H
-DTSTART:20221006T142250Z
-SUMMARY:ラプラス: ラインすれすれモノマネVtuber #shorts
-UID:z5u2_ob4akI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】さよならSeason3！！脆い…脆い！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=G5y8j4AuEPA
-DURATION:PT2H
-DTSTART:20221006T110000Z
-SUMMARY:💫天音かなた: 【RUST】さよならSeason3！！脆い…脆い！！！！【天音かなた/ホロライブ】
-UID:G5y8j4AuEPA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【星のカービィ64】めちゃくちゃ懐かしいゲーム【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=OygPvRPqQJQ
-DURATION:PT2H
-DTSTART:20221006T110000Z
-SUMMARY:🍕アルランディス: 【星のカービィ64】めちゃくちゃ懐かしいゲーム【アルランディス/ホロスターズ】
-UID:OygPvRPqQJQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Superchat Catchup】...Oh Dear\nhttps://www.youtube.com/watch?v=Oo6XQr74JD0
 DURATION:PT2H
 DTSTART:20221007T033000Z
@@ -543,20 +270,6 @@ SUMMARY:緋崎ガンマ: 【お絵描きコラボ/Drawing collab】飯田ぽち�
 UID:niU5znALnHY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【地獄銭湯】誕生日後の慰安旅行と聞いて来たのですが。【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=luLNRXrMPP8
-DURATION:PT2H
-DTSTART:20221006T150000Z
-SUMMARY:🌽白上フブキ: 【地獄銭湯】誕生日後の慰安旅行と聞いて来たのですが。【ホロライブ/白上フブキ】
-UID:luLNRXrMPP8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 RUST 】最後のRUSTで終末旅行に逝こう――――【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=WW38wU3WQy4
-DURATION:PT2H
-DTSTART:20221006T130000Z
-SUMMARY:🌸さくらみこ: 【 RUST 】最後のRUSTで終末旅行に逝こう――――【ホロライブ/さくらみこ】
-UID:WW38wU3WQy4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【The Bathhouse | 地獄銭湯♨️】風呂に入れ、でなければ帰れ。【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=Zn_Ss9r84tA
 DURATION:PT2H
 DTSTART:20221007T140000Z
@@ -564,32 +277,11 @@ SUMMARY:尾丸ポルカ: 【The Bathhouse | 地獄銭湯♨️】風呂に入れ
 UID:Zn_Ss9r84tA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RAFT】目指せ、Utopia!!【岸堂天真/夕刻ロベル/奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=ia9JeeB4xAA
-DURATION:PT2H
-DTSTART:20221006T143000Z
-SUMMARY:🦔💨岸堂天真: 【RAFT】目指せ、Utopia!!【岸堂天真/夕刻ロベル/奏手イヅル/ホロスターズ】
-UID:ia9JeeB4xAA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:organizing cats =( ^ w ^ )=\nhttps://www.youtube.com/watch?v=Zy62DAiB_jk
-DURATION:PT2H
-DTSTART:20221005T150000Z
-SUMMARY:Zeta: organizing cats =( ^ w ^ )=
-UID:Zy62DAiB_jk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【OFF COLLAB】ALTARE + DEZMOND HANGOUT\nhttps://www.youtube.com/watch?v=iZ53JttrmUk
 DURATION:PT2H
 DTSTART:20221007T010000Z
 SUMMARY:Altare: 【OFF COLLAB】ALTARE + DEZMOND HANGOUT
 UID:iZ53JttrmUk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】何が始まるんです？ばきゅーん❤【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=E3zMHBih8uM
-DURATION:PT2H
-DTSTART:20221006T120000Z
-SUMMARY:🏮夏色まつり: 【RUST】何が始まるんです？ばきゅーん❤【ホロライブ/夏色まつり】
-UID:E3zMHBih8uM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Home or Love Nest?【イオフィ/ホロライブID】\nhttps://www.youtube.com/watch?v=Fgad6oC0Fg0
@@ -606,39 +298,18 @@ SUMMARY:🤖ロボ子さん: 【#Splatoon3】プラべ企画おつかれさま�
 UID:erhyawfv5-Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ゼルダの伝説 時のオカリナ】ハート3つ縛りで挑む時オカ❤❤❤ #1【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=jK1bSarbHWw
+DESCRIPTION:#5【ドラクエⅩオフライン】こよリポの大冒険！キーエンブレム9個目いくぞおお！！【博衣こより/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=1GG212FtmIk
 DURATION:PT2H
-DTSTART:20221006T090000Z
-SUMMARY:🌺花咲みやび: 【ゼルダの伝説 時のオカリナ】ハート3つ縛りで挑む時オカ❤❤❤ #1【花咲みやび/ホロスターズ】
-UID:jK1bSarbHWw
+DTSTART:20221008T020000Z
+SUMMARY:博衣こより: #5【ドラクエⅩオフライン】こよリポの大冒険！キーエンブレム9個目いくぞおお！！【博衣こより/ホロライブ】※ネタバレあり
+UID:1GG212FtmIk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【The Backrooms: 1998】where..\nhttps://www.youtube.com/watch?v=-ZODF4v8TGw
+DESCRIPTION:【valorant】ナイトマーケット３１５０ #shorts\nhttps://www.youtube.com/watch?v=Vb_61aT1dJs
 DURATION:PT2H
-DTSTART:20221005T230110Z
-SUMMARY:Gura: 【The Backrooms: 1998】where..
-UID:-ZODF4v8TGw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#holoctober DAY 5| Zombie Ft. Anya Melfissa【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=0vDIbEGM7qI
-DURATION:PT2H
-DTSTART:20221005T150938Z
-SUMMARY:🎨Iofi: #holoctober DAY 5| Zombie Ft. Anya Melfissa【 iofi / ホロライブ 】
-UID:0vDIbEGM7qI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Propnight】わちゃわちゃ！！かくれんぼ！？鬼ごっこ！？【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=DUmDpp4fAuA
-DURATION:PT2H
-DTSTART:20221006T130000Z
-SUMMARY:風真いろは: 【Propnight】わちゃわちゃ！！かくれんぼ！？鬼ごっこ！？【風真いろは/ホロライブ】
-UID:DUmDpp4fAuA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】忙しいといえば忙しいし・・・【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=Hu4kzYF2dIg
-DURATION:PT2H
-DTSTART:20221006T140000Z
-SUMMARY:🐻ときのそら: 【雑談】忙しいといえば忙しいし・・・【#ときのそら生放送】
-UID:Hu4kzYF2dIg
+DTSTART:20221007T144821Z
+SUMMARY:ラプラス: 【valorant】ナイトマーケット３１５０ #shorts
+UID:Vb_61aT1dJs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン3】みんなでわちゃわちゃプラべだ～～！✨【猫又おかゆ視点👀/#ホロスプラ部】\nhttps://www.youtube.com/watch?v=M5c3zsdN9Qc
@@ -648,25 +319,11 @@ SUMMARY:🍙猫又おかゆ: 【スプラトゥーン3】みんなでわちゃ�
 UID:M5c3zsdN9Qc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Wobbly Life 】ニートだけど外出れるもん！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=QWtOH643otA
-DURATION:PT2H
-DTSTART:20221006T120000Z
-SUMMARY:桃鈴ねね: 【 Wobbly Life 】ニートだけど外出れるもん！【 桃鈴ねね / ホロライブ 】
-UID:QWtOH643otA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MEMBERS】✨🎉2 YEARS 🎉✨ Let's Celebrate~!\nhttps://www.youtube.com/watch?v=-LSnmaQ_HPc
 DURATION:PT2H
 DTSTART:20221007T200000Z
 SUMMARY:Amelia: 【MEMBERS】✨🎉2 YEARS 🎉✨ Let's Celebrate~!
 UID:-LSnmaQ_HPc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Rust】最終日！ぜ～んぶお掃除しちゃうぞ♡【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=UYokcMEwxAE
-DURATION:PT2H
-DTSTART:20221006T120000Z
-SUMMARY:沙花叉クロヱ: 【Rust】最終日！ぜ～んぶお掃除しちゃうぞ♡【沙花叉クロヱ/ホロライブ】
-UID:UYokcMEwxAE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft1.19】さてと、俺がいない間に何が変わったかな【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=rcKfW1plzd8
@@ -683,6 +340,27 @@ SUMMARY:沙花叉クロヱ: 【Plants vs. Zombies】時間泥棒ゲーやるぞ�
 UID:RhSMNG05HYU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 スプラトゥーン3 】闇のゲームをホロメンと遊んだら発狂しません！なのら！🔫【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=zxHrgRgm_Tw
+DURATION:PT2H
+DTSTART:20221007T120000Z
+SUMMARY:🍬姫森ルーナ: 【 スプラトゥーン3 】闇のゲームをホロメンと遊んだら発狂しません！なのら！🔫【姫森ルーナ/ホロライブ】
+UID:zxHrgRgm_Tw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Planet Zoo】最高ランク到達を目指す動物園経営【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=TWRrAcbKlio
+DURATION:PT2H
+DTSTART:20221007T150000Z
+SUMMARY:🍕アルランディス: 【Planet Zoo】最高ランク到達を目指す動物園経営【アルランディス/ホロスターズ】
+UID:TWRrAcbKlio
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スプラ３】ホロライブスプラ部！プラべを楽しむぞ！【 大神ミオ視点 】\nhttps://www.youtube.com/watch?v=jM2yEQ2jOEQ
+DURATION:PT2H
+DTSTART:20221007T120000Z
+SUMMARY:🌲大神ミオ: 【スプラ３】ホロライブスプラ部！プラべを楽しむぞ！【 大神ミオ視点 】
+UID:jM2yEQ2jOEQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Splatoon3】パブロ一本でS目指す！！🖌【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=Nat17dL3sFg
 DURATION:PT2H
 DTSTART:20221007T160000Z
@@ -695,41 +373,6 @@ DURATION:PT2H
 DTSTART:20221007T163000Z
 SUMMARY:鷹嶺ルイ: 【Membership／同時視聴】ハリー・ポッターと不死鳥の騎士団／Harry Potter and the Order of the Phoenix【鷹嶺ルイ/ホロライブ】
 UID:3IQYsNFUssE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 スプラトゥーン3 】闇のゲームをホロメンと遊んだら発狂しません！なのら！🔫【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=zxHrgRgm_Tw
-DURATION:PT2H
-DTSTART:20221007T120000Z
-SUMMARY:🍬姫森ルーナ: 【 スプラトゥーン3 】闇のゲームをホロメンと遊んだら発狂しません！なのら！🔫【姫森ルーナ/ホロライブ】
-UID:zxHrgRgm_Tw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポルカの伝説】マリオブラザーズ初見で100面！？それも2人で！？\nhttps://www.youtube.com/watch?v=I7hHhwVg5-k
-DURATION:PT2H
-DTSTART:20221006T100000Z
-SUMMARY:尾丸ポルカ: 【ポルカの伝説】マリオブラザーズ初見で100面！？それも2人で！？
-UID:I7hHhwVg5-k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スプラ３】ホロライブスプラ部！プラべを楽しむぞ！【 大神ミオ視点 】\nhttps://www.youtube.com/watch?v=jM2yEQ2jOEQ
-DURATION:PT2H
-DTSTART:20221007T120000Z
-SUMMARY:🌲大神ミオ: 【スプラ３】ホロライブスプラ部！プラべを楽しむぞ！【 大神ミオ視点 】
-UID:jM2yEQ2jOEQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Planet Zoo】最高ランク到達を目指す動物園経営【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=TWRrAcbKlio
-DURATION:PT2H
-DTSTART:20221007T150000Z
-SUMMARY:🍕アルランディス: 【Planet Zoo】最高ランク到達を目指す動物園経営【アルランディス/ホロスターズ】
-UID:TWRrAcbKlio
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Just Chatting 】This is a statement of fact not a cry for help\nhttps://www.youtube.com/watch?v=1DO0dlLqKq4
-DURATION:PT2H
-DTSTART:20221005T170000Z
-SUMMARY:Vesper: 【 Just Chatting 】This is a statement of fact not a cry for help
-UID:1DO0dlLqKq4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【お絵描き/Drawing】飯田ぽち。先生を描いてみる！！（コラボの振り返りも）【#緋崎ガンマ / #ホロスターズ / イラストメイキング】\nhttps://www.youtube.com/watch?v=LsIEDx4doRg
@@ -753,39 +396,11 @@ SUMMARY:🍎アキロゼ: 【#ホロスプラ部】かくれんぼ&武器縛り�
 UID:9SqDJt43Eto
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Overwatch 2】New MAPS???????????\nhttps://www.youtube.com/watch?v=FOTh9eF582k
-DURATION:PT2H
-DTSTART:20221005T231000Z
-SUMMARY:Amelia: 【Overwatch 2】New MAPS???????????
-UID:FOTh9eF582k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ホロライブ本社爆破してみた #shorts\nhttps://www.youtube.com/watch?v=RILE_hsZ7xA
-DURATION:PT2H
-DTSTART:20221006T120732Z
-SUMMARY:☄星街すいせい: ホロライブ本社爆破してみた #shorts
-UID:RILE_hsZ7xA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX LEGENDS】TAKUT STREAM INI PENUH JOKES BAPAK-BAPAK #iollie 【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=JjZ0SOy9rjs
-DURATION:PT2H
-DTSTART:20221006T115916Z
-SUMMARY:Ollie: 【APEX LEGENDS】TAKUT STREAM INI PENUH JOKES BAPAK-BAPAK #iollie 【Hololive ID 2nd Gen】
-UID:JjZ0SOy9rjs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【GTA5】OVERKILL BABY #kfp #キアライブ\nhttps://www.youtube.com/watch?v=R1u8X4C7e_A
 DURATION:PT2H
 DTSTART:20221007T133000Z
 SUMMARY:Kiara: 【GTA5】OVERKILL BABY #kfp #キアライブ
 UID:R1u8X4C7e_A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3】８人フルでプラべ大会だー！ひゅ～！！【角巻わため視点／#ホロスプラ部】\nhttps://www.youtube.com/watch?v=zj9Qn8VZ2jI
-DURATION:PT2H
-DTSTART:20221007T120000Z
-SUMMARY:🐏角巻わため: 【スプラトゥーン3】８人フルでプラべ大会だー！ひゅ～！！【角巻わため視点／#ホロスプラ部】
-UID:zj9Qn8VZ2jI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MADiSON】 VERY scaredy shark + PROOF\nhttps://www.youtube.com/watch?v=HA8tMr5cDO0
@@ -802,13 +417,6 @@ SUMMARY:🍕アルランディス: 【星のカービィ64】コレカラスタ�
 UID:SNKxuPLAuBg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RUST】あばよSeason3！暴れまくるぜ！！！！！！！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=G07p30vzxTE
-DURATION:PT2H
-DTSTART:20221006T120000Z
-SUMMARY:❤赤井はあと: 【RUST】あばよSeason3！暴れまくるぜ！！！！！！！【ホロライブ/赤井はあと】
-UID:G07p30vzxTE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【お披露目】新髪型だよ？どうかな？？【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=lY9nNC3BWkc
 DURATION:PT2H
 DTSTART:20221007T110000Z
@@ -816,60 +424,11 @@ SUMMARY:🐻ときのそら: 【お披露目】新髪型だよ？どうかな？
 UID:lY9nNC3BWkc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【昼活雑談】おひさしぶり【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=-5JhEqqyryE
+DESCRIPTION:【スプラトゥーン3】８人フルでプラべ大会だー！ひゅ～！！【角巻わため視点／#ホロスプラ部】\nhttps://www.youtube.com/watch?v=zj9Qn8VZ2jI
 DURATION:PT2H
-DTSTART:20221006T030000Z
-SUMMARY:雪花ラミィ: 【昼活雑談】おひさしぶり【雪花ラミィ/ホロライブ】
-UID:-5JhEqqyryE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:む！なにやつ！！！【ギリギリわるくないわため】 #ギリわる\nhttps://www.youtube.com/watch?v=788Z3wnh3y0
-DURATION:PT2H
-DTSTART:20221007T100008Z
-SUMMARY:🐏角巻わため: む！なにやつ！！！【ギリギリわるくないわため】 #ギリわる
-UID:788Z3wnh3y0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】シーズン3最終日！サバゲー場で凸待ちしてみる！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=lVqdIhdMgt4
-DURATION:PT2H
-DTSTART:20221006T100000Z
-SUMMARY:博衣こより: 【RUST】シーズン3最終日！サバゲー場で凸待ちしてみる！【博衣こより/ホロライブ】
-UID:lVqdIhdMgt4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【地獄銭湯】♨　よ　う　こ　そ　♨【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=F8BrLyqygoI
-DURATION:PT2H
-DTSTART:20221006T130000Z
-SUMMARY:👾常闇トワ: 【地獄銭湯】♨　よ　う　こ　そ　♨【常闇トワ/ホロライブ】
-UID:F8BrLyqygoI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Propnight】みんなひつじを食べそうなメンバーで震える【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=VcTYWM_kc5g
-DURATION:PT2H
-DTSTART:20221006T130000Z
-SUMMARY:🐏角巻わため: 【Propnight】みんなひつじを食べそうなメンバーで震える【角巻わため/ホロライブ４期生】
-UID:VcTYWM_kc5g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3】スプラしたくて手が震えんだ【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=6GiJ_zLzQWo
-DURATION:PT2H
-DTSTART:20221006T140000Z
-SUMMARY:🔥不知火フレア: 【スプラトゥーン3】スプラしたくて手が震えんだ【不知火フレア/ホロライブ】
-UID:6GiJ_zLzQWo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【もろだし相撲】怒りのもろだし相撲！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=RoeOmCfjktg
-DURATION:PT2H
-DTSTART:20221007T130000Z
-SUMMARY:👯兎田ぺこら: 【もろだし相撲】怒りのもろだし相撲！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:RoeOmCfjktg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【食べ放題】理不尽をノリと勢いで乗り切るクイズ【 #ホロ果樹園 】\nhttps://www.youtube.com/watch?v=3Olq5EtM7zg
-DURATION:PT2H
-DTSTART:20221006T103000Z
-SUMMARY:ホロライブ: 【食べ放題】理不尽をノリと勢いで乗り切るクイズ【 #ホロ果樹園 】
-UID:3Olq5EtM7zg
+DTSTART:20221007T120000Z
+SUMMARY:🐏角巻わため: 【スプラトゥーン3】８人フルでプラべ大会だー！ひゅ～！！【角巻わため視点／#ホロスプラ部】
+UID:zj9Qn8VZ2jI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#朝こよ】金曜日の朝のおはこよ～！！ #89【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=syDGg86CxjA
@@ -879,10 +438,17 @@ SUMMARY:博衣こより: 【#朝こよ】金曜日の朝のおはこよ～！！
 UID:syDGg86CxjA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【手描き】元会社員のVtuberが苦手だったヤバすぎる先輩【ホロライブプロダクション】#shorts  #vtuber  #あるある\nhttps://www.youtube.com/watch?v=MQniBBM9vgI
+DESCRIPTION:む！なにやつ！！！【ギリギリわるくないわため】 #ギリわる\nhttps://www.youtube.com/watch?v=788Z3wnh3y0
 DURATION:PT2H
-DTSTART:20221006T122649Z
-SUMMARY:緋崎ガンマ: 【手描き】元会社員のVtuberが苦手だったヤバすぎる先輩【ホロライブプロダクション】#shorts  #vtuber  #あるある
-UID:MQniBBM9vgI
+DTSTART:20221007T100008Z
+SUMMARY:🐏角巻わため: む！なにやつ！！！【ギリギリわるくないわため】 #ギリわる
+UID:788Z3wnh3y0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【臨時企画】コメントの質問ぶったぎる雑な雑談配信【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=kH678FOJ6fc
+DURATION:PT2H
+DTSTART:20221007T150000Z
+SUMMARY:博衣こより: 【臨時企画】コメントの質問ぶったぎる雑な雑談配信【博衣こより/ホロライブ】
+UID:kH678FOJ6fc
 END:VEVENT
 END:VCALENDAR
