@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT Collab】Elytra Hunting w/ Lui\, Kronii\, & Kaela!\nhttps://www.youtube.com/watch?v=zp5nxAgi2dw
-DURATION:PT2H
-DTSTART:20221008T040000Z
-SUMMARY:IRyS: 【MINECRAFT Collab】Elytra Hunting w/ Lui\, Kronii\, & Kaela!
-UID:zp5nxAgi2dw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Mumei Draws HOLOLIVE #5\nhttps://www.youtube.com/watch?v=C9kwW65lO74
 DURATION:PT2H
 DTSTART:20221008T020000Z
@@ -32,16 +25,23 @@ SUMMARY:Kiara: 【HOLOTALK】With our 23rd guest: NAKIRI AYAME (Happy Season 2!)
 UID:h1EaCnoKhwk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【KARAOKE】sing!\nhttps://www.youtube.com/watch?v=Yd-Hd-dFCBk
+DESCRIPTION:【MINECRAFT Collab】Elytra Hunting w/ Lui\, Kronii\, & Kaela!\nhttps://www.youtube.com/watch?v=zp5nxAgi2dw
 DURATION:PT2H
-DTSTART:20221009T000247Z
-SUMMARY:Gura: 【KARAOKE】sing!
-UID:Yd-Hd-dFCBk
+DTSTART:20221008T040000Z
+SUMMARY:IRyS: 【MINECRAFT Collab】Elytra Hunting w/ Lui\, Kronii\, & Kaela!
+UID:zp5nxAgi2dw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【OVERWATCH 2 】Let's Take A Looksie\nhttps://www.youtube.com/watch?v=gEujo_7mDss
+DURATION:PT2H
+DTSTART:20221009T031500Z
+SUMMARY:Mumei: 【OVERWATCH 2 】Let's Take A Looksie
+UID:gEujo_7mDss
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪Plants vs Zombies: Garden Warfare 2≫ ZOMBIE HANDS IN THE AIR\nhttps://www.youtube.com/watch?v=K-Oa5L9o1Fk
 DURATION:PT2H
-DTSTART:20221009T020000Z
+DTSTART:20221009T021500Z
 SUMMARY:Baelz: ≪Plants vs Zombies: Garden Warfare 2≫ ZOMBIE HANDS IN THE AIR
 UID:K-Oa5L9o1Fk
 END:VEVENT
