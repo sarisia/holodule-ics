@@ -4,17 +4,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Gundam Evolution】Let me in the robot NOW\nhttps://www.youtube.com/watch?v=WkIv3S1C-yg
-DURATION:PT2H
-DTSTART:20221010T010000Z
-SUMMARY:IRyS: 【Gundam Evolution】Let me in the robot NOW
-UID:WkIv3S1C-yg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Assassin's Creed IV: Black Flag】 YO HO or YOOHOO?\nhttps://www.youtube.com/watch?v=Q46HMWMAvZU
+DESCRIPTION:【Assassin's Creed IV: Black Flag】 YO HO or YOOHOO? [FINALE]\nhttps://www.youtube.com/watch?v=Q46HMWMAvZU
 DURATION:PT2H
 DTSTART:20221009T220000Z
-SUMMARY:Fauna: 【Assassin's Creed IV: Black Flag】 YO HO or YOOHOO?
+SUMMARY:Fauna: 【Assassin's Creed IV: Black Flag】 YO HO or YOOHOO? [FINALE]
 UID:Q46HMWMAvZU
 END:VEVENT
 BEGIN:VEVENT
@@ -23,6 +16,13 @@ DURATION:PT2H
 DTSTART:20221010T030000Z
 SUMMARY:Amelia: hii
 UID:fQ0s-4lS-bQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Gundam Evolution】Let me in the robot NOW\nhttps://www.youtube.com/watch?v=WkIv3S1C-yg
+DURATION:PT2H
+DTSTART:20221010T010000Z
+SUMMARY:IRyS: 【Gundam Evolution】Let me in the robot NOW
+UID:WkIv3S1C-yg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【CHAT】 Ina Takobout Takotime\nhttps://www.youtube.com/watch?v=Q3FpRS-TYxI
@@ -37,6 +37,13 @@ DURATION:PT2H
 DTSTART:20221009T130000Z
 SUMMARY:Kiara: 【HOLOTALK】With our 23rd guest: NAKIRI AYAME (Happy Season 2!) #kfp #キアライブ
 UID:h1EaCnoKhwk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【KARAOKE】acoustic songs maybe?\nhttps://www.youtube.com/watch?v=HwdBaRemSzM
+DURATION:PT2H
+DTSTART:20221010T043500Z
+SUMMARY:Amelia: 【KARAOKE】acoustic songs maybe?
+UID:HwdBaRemSzM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【OVERWATCH 2 】Let's Take A Looksie\nhttps://www.youtube.com/watch?v=gEujo_7mDss

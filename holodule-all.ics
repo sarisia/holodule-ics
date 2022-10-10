@@ -67,13 +67,6 @@ SUMMARY:🎭アステル・レダ: 寝るまで
 UID:SwUmiEiPcww
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ストリートファイター6】スト６クローズドβで少しでも強くなりたい【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=vZveeF4oTio
-DURATION:PT2H
-DTSTART:20221009T130000Z
-SUMMARY:荒咬オウガ: 【ストリートファイター6】スト６クローズドβで少しでも強くなりたい【荒咬オウガ/ホロスターズ】
-UID:vZveeF4oTio
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:いまだに前略が現役のJKがAPEXにいた件 #shorts\nhttps://www.youtube.com/watch?v=sNSS5Qfb7Zk
 DURATION:PT2H
 DTSTART:20221010T010521Z
@@ -86,6 +79,13 @@ DURATION:PT2H
 DTSTART:20221010T130000Z
 SUMMARY:鷹嶺ルイ: 【スプラトゥーン３】謎メンバーでわいわいコラボ✨ドリンク配りまくるぞ！【鷹嶺ルイ視点/ホロライブ】
 UID:vmGJU1aZa6E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ストリートファイター6】スト６クローズドβで少しでも強くなりたい【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=vZveeF4oTio
+DURATION:PT2H
+DTSTART:20221009T130000Z
+SUMMARY:荒咬オウガ: 【ストリートファイター6】スト６クローズドβで少しでも強くなりたい【荒咬オウガ/ホロスターズ】
+UID:vZveeF4oTio
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Street Fighter 6 » Beta Testing!\nhttps://www.youtube.com/watch?v=IJhX6vRhzAk
@@ -114,6 +114,13 @@ DURATION:PT2H
 DTSTART:20221010T130000Z
 SUMMARY:沙花叉クロヱ: 【カメラあり】ぼえぼえ…(ゾンビになったのでゾンビバーガー作ります！)【沙花叉クロヱ/ホロライブ】
 UID:nQCIm6mAbdo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【KARAOKE】acoustic songs maybe?\nhttps://www.youtube.com/watch?v=HwdBaRemSzM
+DURATION:PT2H
+DTSTART:20221010T043500Z
+SUMMARY:Amelia: 【KARAOKE】acoustic songs maybe?
+UID:HwdBaRemSzM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【OVERWATCH 2 】Let's Take A Looksie\nhttps://www.youtube.com/watch?v=gEujo_7mDss
@@ -177,6 +184,13 @@ DURATION:PT2H
 DTSTART:20221010T080000Z
 SUMMARY:博衣こより: 【スーパーマリオワールド】へたっぴマリオ新シリーズ！こより、ヨッシーと出逢う！？【博衣こより/ホロライブ】
 UID:liH-1HcZKfA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【配信予定地】かなたそなにする【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=sU_PqDYF6jM
+DURATION:PT2H
+DTSTART:20221010T100000Z
+SUMMARY:💫天音かなた: 【配信予定地】かなたそなにする【天音かなた/ホロライブ】
+UID:sU_PqDYF6jM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【holoID】EURO TRUCK SIMULATOR 2 : ISEKAI DRIVER IS BACK !!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=Ka9ETHk8sOY
@@ -305,20 +319,6 @@ SUMMARY:🏮夏色まつり: 【朝活】日曜日の朝起きてますか！？
 UID:I4ZN3AwnLzE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:『Among Us』ASMR edition -w- (with Secret Unit)\nhttps://www.youtube.com/watch?v=FaqYa7TeR6s
-DURATION:PT2H
-DTSTART:20221009T160000Z
-SUMMARY:Zeta: 『Among Us』ASMR edition -w- (with Secret Unit)
-UID:FaqYa7TeR6s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Plants vs. Zombies】battle standby🔥鼻水ずるずるろちゃん【ホロライブ/#ロボ子生放送 】\nhttps://www.youtube.com/watch?v=VuEnDAxXfE4
-DURATION:PT2H
-DTSTART:20221009T050000Z
-SUMMARY:🤖ロボ子さん: 【Plants vs. Zombies】battle standby🔥鼻水ずるずるろちゃん【ホロライブ/#ロボ子生放送 】
-UID:VuEnDAxXfE4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【10月10日】第16回 #花岸れいでぃお【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=gjYQlwgCiEc
 DURATION:PT2H
 DTSTART:20221009T220000Z
@@ -333,18 +333,25 @@ SUMMARY:🍬姫森ルーナ: 【 #姫森ルーナ誕生祭2022 】Loyalty To Lun
 UID:vlqVuLuZl00
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:『Among Us』ASMR edition -w- (with Secret Unit)\nhttps://www.youtube.com/watch?v=FaqYa7TeR6s
+DURATION:PT2H
+DTSTART:20221009T160000Z
+SUMMARY:Zeta: 『Among Us』ASMR edition -w- (with Secret Unit)
+UID:FaqYa7TeR6s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Plants vs. Zombies】battle standby🔥鼻水ずるずるろちゃん【ホロライブ/#ロボ子生放送 】\nhttps://www.youtube.com/watch?v=VuEnDAxXfE4
+DURATION:PT2H
+DTSTART:20221009T050000Z
+SUMMARY:🤖ロボ子さん: 【Plants vs. Zombies】battle standby🔥鼻水ずるずるろちゃん【ホロライブ/#ロボ子生放送 】
+UID:VuEnDAxXfE4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX】KONO GLADIATOR DA!!\nhttps://www.youtube.com/watch?v=2PmKS-mEucQ
 DURATION:PT2H
 DTSTART:20221009T123000Z
 SUMMARY:Syrios: 【APEX】KONO GLADIATOR DA!!
 UID:2PmKS-mEucQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ネタバレあり】牧場物語 再会のミネラルタウン~そして始まる恋~【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=lV3B7ZDz7gs
-DURATION:PT2H
-DTSTART:20221009T063000Z
-SUMMARY:🐻ときのそら: 【ネタバレあり】牧場物語 再会のミネラルタウン~そして始まる恋~【#ときのそら生放送】
-UID:lV3B7ZDz7gs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#朝こよ】90回目！！火曜日のおはこよ～！！ #90【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=8YOeT_o2pyw
@@ -354,18 +361,18 @@ SUMMARY:博衣こより: 【#朝こよ】90回目！！火曜日のおはこよ�
 UID:8YOeT_o2pyw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ネタバレあり】牧場物語 再会のミネラルタウン~そして始まる恋~【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=lV3B7ZDz7gs
+DURATION:PT2H
+DTSTART:20221009T063000Z
+SUMMARY:🐻ときのそら: 【ネタバレあり】牧場物語 再会のミネラルタウン~そして始まる恋~【#ときのそら生放送】
+UID:lV3B7ZDz7gs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【アニメ】バットで殴って天使にしちゃうゾ！\nhttps://www.youtube.com/watch?v=79FenFDB_bI
 DURATION:PT2H
 DTSTART:20221009T090004Z
 SUMMARY:ホロライブ: 【アニメ】バットで殴って天使にしちゃうゾ！
 UID:79FenFDB_bI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【地獄銭湯】銭湯ってことは、美人おねーさんが...来る？！？【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=UckRex4kGMA
-DURATION:PT2H
-DTSTART:20221009T130000Z
-SUMMARY:🐏角巻わため: 【地獄銭湯】銭湯ってことは、美人おねーさんが...来る？！？【角巻わため/ホロライブ４期生】
-UID:UckRex4kGMA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#08【ドラクエ9】ガナン帝国城を探索！！クエストや宝の地図も！ʚ(\,\,･ω･\,\,)ɞ‬【白銀ノエル/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=1uxwp3zoeLQ
@@ -375,11 +382,25 @@ SUMMARY:⚔白銀ノエル: #08【ドラクエ9】ガナン帝国城を探索！
 UID:1uxwp3zoeLQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【地獄銭湯】銭湯ってことは、美人おねーさんが...来る？！？【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=UckRex4kGMA
+DURATION:PT2H
+DTSTART:20221009T130000Z
+SUMMARY:🐏角巻わため: 【地獄銭湯】銭湯ってことは、美人おねーさんが...来る？！？【角巻わため/ホロライブ４期生】
+UID:UckRex4kGMA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【HoloCure】事務所攻略したい！！！できるのか・・？！【ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=b9YDe28P2aA
 DURATION:PT2H
 DTSTART:20221009T060000Z
 SUMMARY:🌲大神ミオ: 【HoloCure】事務所攻略したい！！！できるのか・・？！【ホロライブ/大神ミオ】
 UID:b9YDe28P2aA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Diablo II: Resurrected】#2 WE'RE BACK!!【Kaela / Moona | hololiveID】\nhttps://www.youtube.com/watch?v=dDFuy6Tw2tc
+DURATION:PT2H
+DTSTART:20221010T013000Z
+SUMMARY:Kaela: 【Diablo II: Resurrected】#2 WE'RE BACK!!【Kaela / Moona | hololiveID】
+UID:dDFuy6Tw2tc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【花咲くお茶会】昼食にホットケーキを作るよ～！！【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=kKf-vtp0WT0
@@ -396,13 +417,6 @@ SUMMARY:🍕アルランディス: 【朝活雑談】GoodMorning！おはよう�
 UID:fkJ2FZ2EOp0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Diablo II: Resurrected】#2 WE'RE BACK!!【Kaela / Moona | hololiveID】\nhttps://www.youtube.com/watch?v=dDFuy6Tw2tc
-DURATION:PT2H
-DTSTART:20221010T013000Z
-SUMMARY:Kaela: 【Diablo II: Resurrected】#2 WE'RE BACK!!【Kaela / Moona | hololiveID】
-UID:dDFuy6Tw2tc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Valorant】Platinum 2 RP４~ DUOコンペ！ 【奏手イヅル w/アステル】\nhttps://www.youtube.com/watch?v=Qk1pgpXiWek
 DURATION:PT2H
 DTSTART:20221009T051500Z
@@ -410,10 +424,10 @@ SUMMARY:🎸奏手イヅル: 【Valorant】Platinum 2 RP４~ DUOコンペ！ 【
 UID:Qk1pgpXiWek
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Assassin's Creed IV: Black Flag】 YO HO or YOOHOO?\nhttps://www.youtube.com/watch?v=Q46HMWMAvZU
+DESCRIPTION:【Assassin's Creed IV: Black Flag】 YO HO or YOOHOO? [FINALE]\nhttps://www.youtube.com/watch?v=Q46HMWMAvZU
 DURATION:PT2H
 DTSTART:20221009T220000Z
-SUMMARY:Fauna: 【Assassin's Creed IV: Black Flag】 YO HO or YOOHOO?
+SUMMARY:Fauna: 【Assassin's Creed IV: Black Flag】 YO HO or YOOHOO? [FINALE]
 UID:Q46HMWMAvZU
 END:VEVENT
 BEGIN:VEVENT
@@ -452,18 +466,18 @@ SUMMARY:🤖ロボ子さん: 【#Splatoon3】クマミミが欲しい！ヒー�
 UID:gYips2NS25w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【鬼畜ゲー!?】しょぼんのるきみんに挑戦だあああ💣✨【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=82E7xi_zn6I
-DURATION:PT2H
-DTSTART:20221009T100000Z
-SUMMARY:🍙猫又おかゆ: 【鬼畜ゲー!?】しょぼんのるきみんに挑戦だあああ💣✨【猫又おかゆ/ホロライブ】
-UID:82E7xi_zn6I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【リスナー参加型】久々Splatoon3のシャケバイト！出勤の時間です！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=SK83OL3At5M
 DURATION:PT2H
 DTSTART:20221009T123000Z
 SUMMARY:🍕アルランディス: 【リスナー参加型】久々Splatoon3のシャケバイト！出勤の時間です！【アルランディス/ホロスターズ】
 UID:SK83OL3At5M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【鬼畜ゲー!?】しょぼんのるきみんに挑戦だあああ💣✨【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=82E7xi_zn6I
+DURATION:PT2H
+DTSTART:20221009T100000Z
+SUMMARY:🍙猫又おかゆ: 【鬼畜ゲー!?】しょぼんのるきみんに挑戦だあああ💣✨【猫又おかゆ/ホロライブ】
+UID:82E7xi_zn6I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【切り抜き】月刊アルランディス 9月号 #切り抜きナンディス【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=2Hqy4uNMwFQ
@@ -499,6 +513,13 @@ DURATION:PT2H
 DTSTART:20221009T140000Z
 SUMMARY:Anya: 【Is Simon There?】H-Hewwo OwO?【hololive Indonesia 2nd Generation | Anya Melfissa】
 UID:fiu4q--7uEc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【飲み雑】獣人とアンドロイドによる飲み配信【#シャドウギア】\nhttps://www.youtube.com/watch?v=JNtyHNL4yG8
+DURATION:PT2H
+DTSTART:20221010T130000Z
+SUMMARY:影山シエン: 【飲み雑】獣人とアンドロイドによる飲み配信【#シャドウギア】
+UID:JNtyHNL4yG8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HOLOTALK】With our 23rd guest: NAKIRI AYAME (Happy Season 2!) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=h1EaCnoKhwk
