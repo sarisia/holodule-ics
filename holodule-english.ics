@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Gundam Evolution】Let me in the robot NOW\nhttps://www.youtube.com/watch?v=WkIv3S1C-yg
+DURATION:PT2H
+DTSTART:20221010T010000Z
+SUMMARY:IRyS: 【Gundam Evolution】Let me in the robot NOW
+UID:WkIv3S1C-yg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【WHAT THE GOLF?】Time To Start A New Career #kfp #キアライブ\nhttps://www.youtube.com/watch?v=IPonPDR0ybU
 DURATION:PT2H
 DTSTART:20221010T170000Z
 SUMMARY:Kiara: 【WHAT THE GOLF?】Time To Start A New Career #kfp #キアライブ
 UID:IPonPDR0ybU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Assassin's Creed IV: Black Flag】 YO HO or YOOHOO? [FINALE]\nhttps://www.youtube.com/watch?v=Q46HMWMAvZU
-DURATION:PT2H
-DTSTART:20221009T220000Z
-SUMMARY:Fauna: 【Assassin's Creed IV: Black Flag】 YO HO or YOOHOO? [FINALE]
-UID:Q46HMWMAvZU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:hii\nhttps://www.youtube.com/watch?v=fQ0s-4lS-bQ
@@ -25,11 +25,11 @@ SUMMARY:Amelia: hii
 UID:fQ0s-4lS-bQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Gundam Evolution】Let me in the robot NOW\nhttps://www.youtube.com/watch?v=WkIv3S1C-yg
+DESCRIPTION:【Assassin's Creed IV: Black Flag】 YO HO or YOOHOO? [FINALE]\nhttps://www.youtube.com/watch?v=Q46HMWMAvZU
 DURATION:PT2H
-DTSTART:20221010T010000Z
-SUMMARY:IRyS: 【Gundam Evolution】Let me in the robot NOW
-UID:WkIv3S1C-yg
+DTSTART:20221009T220000Z
+SUMMARY:Fauna: 【Assassin's Creed IV: Black Flag】 YO HO or YOOHOO? [FINALE]
+UID:Q46HMWMAvZU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【CHAT】 Ina Takobout Takotime\nhttps://www.youtube.com/watch?v=Q3FpRS-TYxI
@@ -39,13 +39,6 @@ SUMMARY:Ina: 【CHAT】 Ina Takobout Takotime
 UID:Q3FpRS-TYxI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HOLOTALK】With our 23rd guest: NAKIRI AYAME (Happy Season 2!) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=h1EaCnoKhwk
-DURATION:PT2H
-DTSTART:20221009T130000Z
-SUMMARY:Kiara: 【HOLOTALK】With our 23rd guest: NAKIRI AYAME (Happy Season 2!) #kfp #キアライブ
-UID:h1EaCnoKhwk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪JUST CHATTING≫ 85% RAT CHAT\nhttps://www.youtube.com/watch?v=T7AUsSrN1qM
 DURATION:PT2H
 DTSTART:20221011T000000Z
@@ -53,17 +46,10 @@ SUMMARY:Baelz: ≪JUST CHATTING≫ 85% RAT CHAT
 UID:T7AUsSrN1qM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【OVERWATCH 2 】Let's Take A Looksie\nhttps://www.youtube.com/watch?v=gEujo_7mDss
+DESCRIPTION:【MARIO KART 8DX 】unhinged whoopery\nhttps://www.youtube.com/watch?v=jWuCYhuVBnc
 DURATION:PT2H
-DTSTART:20221009T031500Z
-SUMMARY:Mumei: 【OVERWATCH 2 】Let's Take A Looksie
-UID:gEujo_7mDss
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪Plants vs Zombies: Garden Warfare 2≫ ZOMBIE HANDS IN THE AIR\nhttps://www.youtube.com/watch?v=K-Oa5L9o1Fk
-DURATION:PT2H
-DTSTART:20221009T021500Z
-SUMMARY:Baelz: ≪Plants vs Zombies: Garden Warfare 2≫ ZOMBIE HANDS IN THE AIR
-UID:K-Oa5L9o1Fk
+DTSTART:20221011T000000Z
+SUMMARY:Gura: 【MARIO KART 8DX 】unhinged whoopery
+UID:jWuCYhuVBnc
 END:VEVENT
 END:VCALENDAR
