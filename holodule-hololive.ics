@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【歌謡曲縛り歌枠】第7夜 | スナックアキロゼの #火曜に歌謡曲 /Japanese old CITY POP【Aki Rosenthal/ホロライブ】\nhttps://www.youtube.com/watch?v=ghyKn9gVwGI
+DURATION:PT2H
+DTSTART:20221011T140000Z
+SUMMARY:🍎アキロゼ: 【歌謡曲縛り歌枠】第7夜 | スナックアキロゼの #火曜に歌謡曲 /Japanese old CITY POP【Aki Rosenthal/ホロライブ】
+UID:ghyKn9gVwGI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マニアック】紅葉に隠れたホロメンは誰だ！【#ホロ紅葉狩り】\nhttps://www.youtube.com/watch?v=vAJxlMrePDg
 DURATION:PT2H
 DTSTART:20221010T100000Z
 SUMMARY:ホロライブ: 【マニアック】紅葉に隠れたホロメンは誰だ！【#ホロ紅葉狩り】
 UID:vAJxlMrePDg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【鬼畜ゲー】今からが本編ってマ…？絶望のクリア耐久！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=g4dniTCt5Wo
+DURATION:PT2H
+DTSTART:20221011T140000Z
+SUMMARY:沙花叉クロヱ: 【鬼畜ゲー】今からが本編ってマ…？絶望のクリア耐久！【沙花叉クロヱ/ホロライブ】
+UID:g4dniTCt5Wo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】風邪をひいていても、私は歌を歌います【常闇トワ】\nhttps://www.youtube.com/watch?v=ppV5NsA9ABA
@@ -158,6 +172,13 @@ SUMMARY:👿百鬼あやめ: 【スプラトゥーン３】みんなでわいわ
 UID:h0zNvpONM_A
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】看板たくさん作って、そのあと運動会会場見に行く【#ときのそら生放送 】\nhttps://www.youtube.com/watch?v=umfHkPCM2Uk
+DURATION:PT2H
+DTSTART:20221011T130000Z
+SUMMARY:🐻ときのそら: 【Minecraft】看板たくさん作って、そのあと運動会会場見に行く【#ときのそら生放送 】
+UID:umfHkPCM2Uk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【スーパーマリオRPG】神ゲー完全初見！火山にいくよおおお🌋 #5【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=ezoXdBMCCdg
 DURATION:PT2H
 DTSTART:20221011T100000Z
@@ -170,13 +191,6 @@ DURATION:PT2H
 DTSTART:20221010T030000Z
 SUMMARY:🤖ロボ子さん: 【#Splatoon3】クマミミが欲しい！ヒーロー全クリア耐久！！！【ホロライブ/#ロボ子生放送 】
 UID:gYips2NS25w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ホロキュア】全アップグレードで最強を目指す【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=-3DoX_W3iC4
-DURATION:PT2H
-DTSTART:20221011T110000Z
-SUMMARY:雪花ラミィ: 【ホロキュア】全アップグレードで最強を目指す【雪花ラミィ/ホロライブ】
-UID:-3DoX_W3iC4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スーパーマリオワールド】へたっぴマリオ新シリーズ！こより、ヨッシーと出逢う！？【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=liH-1HcZKfA
