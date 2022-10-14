@@ -18,6 +18,13 @@ SUMMARY:緋崎ガンマ: 【あるある】Vtuberが配信中に焦ることあ�
 UID:1ORtcUrFRsc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:NEW PC!!【OVERWATCH2】通算50勝するまでやるます。あーにゃれだ /  Astel\nhttps://www.youtube.com/watch?v=IWP8ntDWdPA
+DURATION:PT2H
+DTSTART:20221014T123000Z
+SUMMARY:🎭アステル・レダ: NEW PC!!【OVERWATCH2】通算50勝するまでやるます。あーにゃれだ /  Astel
+UID:IWP8ntDWdPA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】深夜TALK【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=6DEcD09AhXc
 DURATION:PT2H
 DTSTART:20221012T150000Z
@@ -51,13 +58,6 @@ DURATION:PT2H
 DTSTART:20221013T110000Z
 SUMMARY:🍕アルランディス: 【Phasmophobia】何かあったら筋肉で解決します！とりあえず先行ってください！【天神子兎音/夏色まつり/アルランディス/ホロスターズ】
 UID:e3DtMl7W-6M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Factorio】何もしなくても組み立てれるようになりたい。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=G9GQiUCWM4k
-DURATION:PT2H
-DTSTART:20221014T060000Z
-SUMMARY:🦔💨岸堂天真: 【Factorio】何もしなくても組み立てれるようになりたい。【岸堂天真/ホロスターズ】
-UID:G9GQiUCWM4k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【魔界村】完全に初見の鬼畜(らしい)ゲーム【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=_k3yIXnciq8
@@ -116,11 +116,11 @@ SUMMARY:ホロスターズ: 【アニメ】俺たち、入れ替わってる〜�
 UID:0oTSlQ8uqSs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠切り抜き】透明感溢れるハイトーンボイス男性Vtuberの もののけ姫 / 米良美一 【水無世燐央】\nhttps://www.youtube.com/watch?v=4x285-fYRdM
+DESCRIPTION:【Factorio】何もしなくても組み立てれるようになりたい。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=G9GQiUCWM4k
 DURATION:PT2H
-DTSTART:20221013T214308Z
-SUMMARY:水無世燐央: 【歌枠切り抜き】透明感溢れるハイトーンボイス男性Vtuberの もののけ姫 / 米良美一 【水無世燐央】
-UID:4x285-fYRdM
+DTSTART:20221014T060000Z
+SUMMARY:🦔💨岸堂天真: 【Factorio】何もしなくても組み立てれるようになりたい。【岸堂天真/ホロスターズ】
+UID:G9GQiUCWM4k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Factorio】うわ！これ僕が好きそうなやつや！！工場を作るゲーム【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=ZSkCUsN2tXE
@@ -128,5 +128,12 @@ DURATION:PT2H
 DTSTART:20221013T043000Z
 SUMMARY:🦔💨岸堂天真: 【Factorio】うわ！これ僕が好きそうなやつや！！工場を作るゲーム【岸堂天真/ホロスターズ】
 UID:ZSkCUsN2tXE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠切り抜き】透明感溢れるハイトーンボイス男性Vtuberの もののけ姫 / 米良美一 【水無世燐央】\nhttps://www.youtube.com/watch?v=4x285-fYRdM
+DURATION:PT2H
+DTSTART:20221013T214308Z
+SUMMARY:水無世燐央: 【歌枠切り抜き】透明感溢れるハイトーンボイス男性Vtuberの もののけ姫 / 米良美一 【水無世燐央】
+UID:4x285-fYRdM
 END:VEVENT
 END:VCALENDAR
