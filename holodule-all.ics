@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【APEX】はじめてのDUO！？暴れていいですか～＾【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=v7VlL0ekxyc
+DURATION:PT2H
+DTSTART:20221016T110000Z
+SUMMARY:🏮夏色まつり: 【APEX】はじめてのDUO！？暴れていいですか～＾【ホロライブ/夏色まつり】
+UID:v7VlL0ekxyc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Dome Keeper】 Indie Roguelite Where You Must Protect Your Dome From Aliens Or Else\nhttps://www.youtube.com/watch?v=YTgWRGMqtlo
 DURATION:PT2H
 DTSTART:20221013T220000Z
@@ -130,13 +137,6 @@ SUMMARY:Anya: 【RUST】Knock Knock\, Who's There【hololive Indonesia 2nd Gener
 UID:BBfVOe3nmRw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】登録者90\,000人達成を独房作りながらみんなで見届ける枠【#緋崎ガンマ  /#アップロー  /#ホロスターズ   /#マイクラ  /#マインクラフト】\nhttps://www.youtube.com/watch?v=7UOdCfdHQxs
-DURATION:PT2H
-DTSTART:20221015T090000Z
-SUMMARY:緋崎ガンマ: 【Minecraft】登録者90\,000人達成を独房作りながらみんなで見届ける枠【#緋崎ガンマ  /#アップロー  /#ホロスターズ   /#マイクラ  /#マインクラフト】
-UID:7UOdCfdHQxs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ラプラス視点】殺人♡メイドカフェへようこそ！【ホロライブミステリー劇場4】\nhttps://www.youtube.com/watch?v=doLJ9Zmryak
 DURATION:PT2H
 DTSTART:20221015T100000Z
@@ -237,7 +237,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【AREA15】Wah? Apa nih? Ada yang Spesial?【イオフィ/ホロライブID 】\nhttps://www.youtube.com/watch?v=16RN3xpJ4uw
 DURATION:PT2H
-DTSTART:20221015T130000Z
+DTSTART:20221015T133000Z
 SUMMARY:🎨Iofi: 【AREA15】Wah? Apa nih? Ada yang Spesial?【イオフィ/ホロライブID 】
 UID:16RN3xpJ4uw
 END:VEVENT
@@ -247,6 +247,13 @@ DURATION:PT2H
 DTSTART:20221014T130000Z
 SUMMARY:Baelz: ≪Who's Your Daddy?≫ Baby Rat and Mama Ookami #NEZUKAMI
 UID:xOd4dMyUEG8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】えぺまつり本番！　#もりっとデビキャットWIN【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=lavm2hr8rQA
+DURATION:PT2H
+DTSTART:20221015T090000Z
+SUMMARY:👾常闇トワ: 【APEX】えぺまつり本番！　#もりっとデビキャットWIN【常闇トワ/ホロライブ】
+UID:lavm2hr8rQA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【魔界村】完全に初見の鬼畜(らしい)ゲーム【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=_k3yIXnciq8
@@ -450,13 +457,6 @@ DURATION:PT2H
 DTSTART:20221014T120000Z
 SUMMARY:獅白ぼたん: 【ガンエボ】俺はガンダムで行く！（UC）―GUNDAM EVOLUTION【獅白ぼたん/ホロライブ】
 UID:RZ-GHXtzi90
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【sing/歌枠】のんびり歌いますか～【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=0UqRDxBDgCM
-DURATION:PT2H
-DTSTART:20221015T130000Z
-SUMMARY:🐻ときのそら: 【sing/歌枠】のんびり歌いますか～【#ときのそら生放送】
-UID:0UqRDxBDgCM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【体験談】ホロライブプロダクションのオーディションで結果待ちをしたときの話【Vtuberあるある】#shorts   #あるある   #vtuber\nhttps://www.youtube.com/watch?v=nNB-raWPv2c
@@ -704,10 +704,10 @@ SUMMARY:Kiara: 【WATCHALONG】RINGS OF POWER FINAL EPISODE #kfp #キアライ�
 UID:ekXof6IGhDA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【耐久】SFC版ドラクエ6「はぐれメタル」と「キラーマシン２」を仲間にするまで終わらない配信【ドラゴンクエストⅥ】※ネタバレあり\nhttps://www.youtube.com/watch?v=8kDHHu-t_h8
+DESCRIPTION:【耐久】SFC版ドラクエ6「はぐれメタル」と「キラーマシン２」と「キングスライム」を仲間にするまで終わらない配信【ドラゴンクエストⅥ】※ネタバレあり\nhttps://www.youtube.com/watch?v=8kDHHu-t_h8
 DURATION:PT2H
 DTSTART:20221015T120000Z
-SUMMARY:🥐戌神ころね: 【耐久】SFC版ドラクエ6「はぐれメタル」と「キラーマシン２」を仲間にするまで終わらない配信【ドラゴンクエストⅥ】※ネタバレあり
+SUMMARY:🥐戌神ころね: 【耐久】SFC版ドラクエ6「はぐれメタル」と「キラーマシン２」と「キングスライム」を仲間にするまで終わらない配信【ドラゴンクエストⅥ】※ネタバレあり
 UID:8kDHHu-t_h8
 END:VEVENT
 BEGIN:VEVENT
