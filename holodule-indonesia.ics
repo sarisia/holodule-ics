@@ -11,18 +11,11 @@ SUMMARY:🎨Iofi: 【Ghost Watchers】..........................................
 UID:vuNagXJ-RnA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【stream】【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=9Gn6d5BHnyU
+DESCRIPTION:【Sherlock Holmes versus Jack the Ripper】TIME FOR GYM【Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=nAcEGy1Pqs0
 DURATION:PT2H
-DTSTART:20221015T060000Z
-SUMMARY:Reine: 【stream】【Pavolia Reine/hololiveID 2nd gen】
-UID:9Gn6d5BHnyU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SiangMoona + Dono Reading】Omiyage?What did i get?【holoID】\nhttps://www.youtube.com/watch?v=HwtXOg0eY6M
-DURATION:PT2H
-DTSTART:20221015T060000Z
-SUMMARY:🔮Moona: 【SiangMoona + Dono Reading】Omiyage?What did i get?【holoID】
-UID:HwtXOg0eY6M
+DTSTART:20221015T130000Z
+SUMMARY:Reine: 【Sherlock Holmes versus Jack the Ripper】TIME FOR GYM【Reine/hololiveID 2nd gen】
+UID:nAcEGy1Pqs0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】 Chill【GeeMoon】\nhttps://www.youtube.com/watch?v=6HvucV2hVXE
@@ -30,6 +23,13 @@ DURATION:PT2H
 DTSTART:20221014T090000Z
 SUMMARY:🔮Moona: 【RUST】 Chill【GeeMoon】
 UID:6HvucV2hVXE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Rust】#16 raiding NPC for fun👊【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=oLpVPb2DhLE
+DURATION:PT2H
+DTSTART:20221015T130000Z
+SUMMARY:Kaela: 【Rust】#16 raiding NPC for fun👊【Kaela Kovalskia / hololiveID】
+UID:oLpVPb2DhLE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Rust】#15 npc\, lets fight 👊【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=e4rubvCVqwo
@@ -46,27 +46,6 @@ SUMMARY:Zeta: I'M BACK ! ! !   still fixing my pc (kinda)  ⬦  chat & donno rea
 UID:6vZ1CTtjEwc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RUST】good morningu【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=3o4-03FVyQM
-DURATION:PT2H
-DTSTART:20221014T060000Z
-SUMMARY:Reine: 【RUST】good morningu【Pavolia Reine/hololiveID 2nd gen】
-UID:3o4-03FVyQM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】Knock Knock\, Who's There【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=BBfVOe3nmRw
-DURATION:PT2H
-DTSTART:20221014T140000Z
-SUMMARY:Anya: 【RUST】Knock Knock\, Who's There【hololive Indonesia 2nd Generation】
-UID:BBfVOe3nmRw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【POST-BIRTHDAY TALK】YOO THURSDAY NIGHT WAS LIT BRO #HOLL13DAY22【HoloID 2nd Gen】\nhttps://www.youtube.com/watch?v=dqQjmYxaGHo
-DURATION:PT2H
-DTSTART:20221015T105946Z
-SUMMARY:Ollie: 【POST-BIRTHDAY TALK】YOO THURSDAY NIGHT WAS LIT BRO #HOLL13DAY22【HoloID 2nd Gen】
-UID:dqQjmYxaGHo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【holoID】GHOST WATCHERS with Kaela and Iofi !!! 【Ayunda Risu】\nhttps://www.youtube.com/watch?v=nZupjlx28-w
 DURATION:PT2H
 DTSTART:20221014T130000Z
@@ -81,11 +60,39 @@ SUMMARY:Kaela: 【Ghost Watchers】wowowowowowowowowowow【Kaela / Iofi / Risu |
 UID:VTbgN19B2F0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Zeta plays Gundam Evolution\nhttps://www.youtube.com/watch?v=3NzDcBc4GZI
+DESCRIPTION:【AREA15】Wah? Apa nih? Ada yang Spesial?【イオフィ/ホロライブID 】\nhttps://www.youtube.com/watch?v=16RN3xpJ4uw
 DURATION:PT2H
-DTSTART:20221015T150000Z
-SUMMARY:Zeta: Zeta plays Gundam Evolution
-UID:3NzDcBc4GZI
+DTSTART:20221015T130000Z
+SUMMARY:🎨Iofi: 【AREA15】Wah? Apa nih? Ada yang Spesial?【イオフィ/ホロライブID 】
+UID:16RN3xpJ4uw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【stream】【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=9Gn6d5BHnyU
+DURATION:PT2H
+DTSTART:20221015T060000Z
+SUMMARY:Reine: 【stream】【Pavolia Reine/hololiveID 2nd gen】
+UID:9Gn6d5BHnyU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SiangMoona + Dono Reading】Omiyage?What did i get?【holoID】\nhttps://www.youtube.com/watch?v=HwtXOg0eY6M
+DURATION:PT2H
+DTSTART:20221015T060000Z
+SUMMARY:🔮Moona: 【SiangMoona + Dono Reading】Omiyage?What did i get?【holoID】
+UID:HwtXOg0eY6M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RUST】good morningu【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=3o4-03FVyQM
+DURATION:PT2H
+DTSTART:20221014T060000Z
+SUMMARY:Reine: 【RUST】good morningu【Pavolia Reine/hololiveID 2nd gen】
+UID:3o4-03FVyQM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RUST】Knock Knock\, Who's There【hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=BBfVOe3nmRw
+DURATION:PT2H
+DTSTART:20221014T140000Z
+SUMMARY:Anya: 【RUST】Knock Knock\, Who's There【hololive Indonesia 2nd Generation】
+UID:BBfVOe3nmRw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【We Were Here Forever】REINExSISKA is BACK :D BIG BRAIN TIME【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=-M-FXkeGZxA
@@ -95,11 +102,18 @@ SUMMARY:Reine: 【We Were Here Forever】REINExSISKA is BACK :D BIG BRAIN TIME�
 UID:-M-FXkeGZxA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【AREA15】Wah? Apa nih? Ada yang Spesial?【イオフィ/ホロライブID 】\nhttps://www.youtube.com/watch?v=16RN3xpJ4uw
+DESCRIPTION:Zeta plays Gundam Evolution\nhttps://www.youtube.com/watch?v=3NzDcBc4GZI
 DURATION:PT2H
-DTSTART:20221015T130000Z
-SUMMARY:🎨Iofi: 【AREA15】Wah? Apa nih? Ada yang Spesial?【イオフィ/ホロライブID 】
-UID:16RN3xpJ4uw
+DTSTART:20221015T150000Z
+SUMMARY:Zeta: Zeta plays Gundam Evolution
+UID:3NzDcBc4GZI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【POST-BIRTHDAY TALK】YOO THURSDAY NIGHT WAS LIT BRO #HOLL13DAY22【HoloID 2nd Gen】\nhttps://www.youtube.com/watch?v=dqQjmYxaGHo
+DURATION:PT2H
+DTSTART:20221015T105946Z
+SUMMARY:Ollie: 【POST-BIRTHDAY TALK】YOO THURSDAY NIGHT WAS LIT BRO #HOLL13DAY22【HoloID 2nd Gen】
+UID:dqQjmYxaGHo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】i just wanna make a singular furnace【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=l58-FG_okuQ
@@ -107,5 +121,12 @@ DURATION:PT2H
 DTSTART:20221013T173000Z
 SUMMARY:Reine: 【RUST】i just wanna make a singular furnace【Pavolia Reine/hololiveID 2nd gen】
 UID:l58-FG_okuQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Delivering Hope】NEW UPDATES!! what's new? 🤔【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=8IlO-ykx9p0
+DURATION:PT2H
+DTSTART:20221015T040000Z
+SUMMARY:Kaela: 【Delivering Hope】NEW UPDATES!! what's new? 🤔【Kaela Kovalskia / hololiveID】
+UID:8IlO-ykx9p0
 END:VEVENT
 END:VCALENDAR
