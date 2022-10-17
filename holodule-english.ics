@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【OVERWATCH 2 】with friends!!!\nhttps://www.youtube.com/watch?v=jhgl3VUMSOc
-DURATION:PT2H
-DTSTART:20221015T200000Z
-SUMMARY:Mumei: 【OVERWATCH 2 】with friends!!!
-UID:jhgl3VUMSOc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【GTA5】FINALE BABY! Can we get all endings? #kfp #キアライブ\nhttps://www.youtube.com/watch?v=LiravZx6zck
 DURATION:PT2H
 DTSTART:20221016T150000Z
 SUMMARY:Kiara: 【GTA5】FINALE BABY! Can we get all endings? #kfp #キアライブ
 UID:LiravZx6zck
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【COVER RELEASE AFTER PARTY】We Are All Queens!! with @Hakos Baelz Ch. hololive-EN\nhttps://www.youtube.com/watch?v=748x8rlb7Ds
-DURATION:PT2H
-DTSTART:20221015T233000Z
-SUMMARY:Mumei: 【COVER RELEASE AFTER PARTY】We Are All Queens!! with @Hakos Baelz Ch. hololive-EN
-UID:748x8rlb7Ds
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Civilization V】 Nice civilization you got there...\nhttps://www.youtube.com/watch?v=g6pOwxQVMyA
@@ -39,20 +25,6 @@ SUMMARY:ENholo: Gura Impersonates Calliope  #shorts
 UID:b6J5blznHUE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:「Cover」QUEEN - preYdator\nhttps://www.youtube.com/watch?v=lbnr0ReWfVQ
-DURATION:PT2H
-DTSTART:20221015T230000Z
-SUMMARY:Mumei: 「Cover」QUEEN - preYdator
-UID:lbnr0ReWfVQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Sherlock Sunday】WOTS THIS - Case #2\nhttps://www.youtube.com/watch?v=bRJmdLYDkNY
-DURATION:PT2H
-DTSTART:20221017T000000Z
-SUMMARY:Amelia: 【Sherlock Sunday】WOTS THIS - Case #2
-UID:bRJmdLYDkNY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Delivering Hope】NEW UPDATE!! Can we yeet further?\nhttps://www.youtube.com/watch?v=fYBO1Y2iw0w
 DURATION:PT2H
 DTSTART:20221017T033000Z
@@ -67,17 +39,17 @@ SUMMARY:Baelz: ≪VALORANT≫ she's got a gun
 UID:BwishmQXjdM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪AO ONI≫ 100% not scary ft. FAUNA\nhttps://www.youtube.com/watch?v=crGoBE0Skbc
-DURATION:PT2H
-DTSTART:20221016T020000Z
-SUMMARY:Baelz: ≪AO ONI≫ 100% not scary ft. FAUNA
-UID:crGoBE0Skbc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Superchat Catchup】i'M aBOUT TO mcLOSE IT\nhttps://www.youtube.com/watch?v=iFBOAzPoz9E
 DURATION:PT2H
 DTSTART:20221017T123000Z
 SUMMARY:Kronii: 【Superchat Catchup】i'M aBOUT TO mcLOSE IT
 UID:iFBOAzPoz9E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Sherlock Sunday】WOTS THIS - Case #2\nhttps://www.youtube.com/watch?v=bRJmdLYDkNY
+DURATION:PT2H
+DTSTART:20221017T000000Z
+SUMMARY:Amelia: 【Sherlock Sunday】WOTS THIS - Case #2
+UID:bRJmdLYDkNY
 END:VEVENT
 END:VCALENDAR
