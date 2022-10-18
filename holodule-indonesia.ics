@@ -4,18 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 Senin Produktif 】#holoctober DAY 17 "Maid"【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=bmJB0kQYvJw
-DURATION:PT2H
-DTSTART:20221017T120000Z
-SUMMARY:🎨Iofi: 【 Senin Produktif 】#holoctober DAY 17 "Maid"【 iofi / ホロライブ 】
-UID:bmJB0kQYvJw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【RUKIMIN's Disappointing Adventure!】HIYAAAAAA【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=GxrDV884stU
 DURATION:PT2H
 DTSTART:20221018T080000Z
 SUMMARY:Kaela: 【RUKIMIN's Disappointing Adventure!】HIYAAAAAA【Kaela Kovalskia / hololiveID】
 UID:GxrDV884stU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PAVOLLIE】MUKBANG WOULD YOU RATHER【Reine/Ollie/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=_vYuL4awi8c
+DURATION:PT2H
+DTSTART:20221018T120000Z
+SUMMARY:Reine: 【PAVOLLIE】MUKBANG WOULD YOU RATHER【Reine/Ollie/hololiveID 2nd gen】
+UID:_vYuL4awi8c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:『APEX』pew pew with Selen & Ollie  | Vestia Zeta\nhttps://www.youtube.com/watch?v=ghRHcUj_XtU
+DURATION:PT2H
+DTSTART:20221018T020000Z
+SUMMARY:Zeta: 『APEX』pew pew with Selen & Ollie  | Vestia Zeta
+UID:ghRHcUj_XtU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【holoID】STANLEY PARABLE ULTRA DELUXE : I am a working squrl【Ayunda Risu】\nhttps://www.youtube.com/watch?v=oeUYplgsquc
@@ -32,13 +39,6 @@ SUMMARY:🎨Iofi: 【 #ioSalon 】New Hairstyles for New Clients【 iofi / ホ�
 UID:iw5RY9nO_2Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【holoID】BACK 4 BLOOD COLLAB w/ Zeta\, Axel\, and Altare 【Ayunda Risu】\nhttps://www.youtube.com/watch?v=7LlliJevN2E
-DURATION:PT2H
-DTSTART:20221017T140000Z
-SUMMARY:🐿Risu: 【holoID】BACK 4 BLOOD COLLAB w/ Zeta\, Axel\, and Altare 【Ayunda Risu】
-UID:7LlliJevN2E
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX LEGENDS】THE TEAM IS HERE TO SLAY【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=PfzUp3A_DXc
 DURATION:PT2H
 DTSTART:20221018T020126Z
@@ -46,66 +46,10 @@ SUMMARY:Ollie: 【APEX LEGENDS】THE TEAM IS HERE TO SLAY【Hololive ID 2nd Gen�
 UID:PfzUp3A_DXc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:『APEX』pew pew with Selen & Ollie  | Vestia Zeta\nhttps://www.youtube.com/watch?v=ghRHcUj_XtU
-DURATION:PT2H
-DTSTART:20221018T020000Z
-SUMMARY:Zeta: 『APEX』pew pew with Selen & Ollie  | Vestia Zeta
-UID:ghRHcUj_XtU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Rust】#18 heli\, i ask for the rematch【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=Y8Dbjdl4HdQ
 DURATION:PT2H
 DTSTART:20221018T133800Z
 SUMMARY:Kaela: 【Rust】#18 heli\, i ask for the rematch【Kaela Kovalskia / hololiveID】
 UID:Y8Dbjdl4HdQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:2 humans & 2 animals play BACK 4 BLOOD\nhttps://www.youtube.com/watch?v=cNB6oeaacjA
-DURATION:PT2H
-DTSTART:20221017T140000Z
-SUMMARY:Zeta: 2 humans & 2 animals play BACK 4 BLOOD
-UID:cNB6oeaacjA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PAVOLLIE】MUKBANG WOULD YOU RATHER【Reine/Ollie/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=_vYuL4awi8c
-DURATION:PT2H
-DTSTART:20221018T120000Z
-SUMMARY:Reine: 【PAVOLLIE】MUKBANG WOULD YOU RATHER【Reine/Ollie/hololiveID 2nd gen】
-UID:_vYuL4awi8c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】fattening our stomach and the tc (an attempt)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=s-S2mqSa4Aw
-DURATION:PT2H
-DTSTART:20221017T073000Z
-SUMMARY:Reine: 【RUST】fattening our stomach and the tc (an attempt)【Pavolia Reine/hololiveID 2nd gen】
-UID:s-S2mqSa4Aw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PEJUANG SENIN】#24 hi\, good day!!🌞【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=Oiffs-ahAOQ
-DURATION:PT2H
-DTSTART:20221016T231500Z
-SUMMARY:Kaela: 【PEJUANG SENIN】#24 hi\, good day!!🌞【Kaela's Monday Warrior】
-UID:Oiffs-ahAOQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX LEGENDS】A COMBO NO ONE EXPECTED【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=UIdqiOVtie8
-DURATION:PT2H
-DTSTART:20221017T105903Z
-SUMMARY:Ollie: 【APEX LEGENDS】A COMBO NO ONE EXPECTED【Hololive ID 2nd Gen】
-UID:UIdqiOVtie8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【holoID】Arcade Paradise : IT'S LAUNDRY DAY【Ayunda Risu】\nhttps://www.youtube.com/watch?v=UE7hxy-1SKk
-DURATION:PT2H
-DTSTART:20221017T060000Z
-SUMMARY:🐿Risu: 【holoID】Arcade Paradise : IT'S LAUNDRY DAY【Ayunda Risu】
-UID:UE7hxy-1SKk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Rust】#17 Building\, Grinding\, Raiding NPC - repeat【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=jDZRIRGigdk
-DURATION:PT2H
-DTSTART:20221017T011500Z
-SUMMARY:Kaela: 【Rust】#17 Building\, Grinding\, Raiding NPC - repeat【Kaela Kovalskia / hololiveID】
-UID:jDZRIRGigdk
 END:VEVENT
 END:VCALENDAR
