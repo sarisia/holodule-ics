@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 Rust 】姫の朝活RUSTなのら(・o・🍬)！✨ #ホロ鯖RUST【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=_m9rbPfxRN4
-DURATION:PT2H
-DTSTART:20221018T230000Z
-SUMMARY:🍬姫森ルーナ: 【 Rust 】姫の朝活RUSTなのら(・o・🍬)！✨ #ホロ鯖RUST【姫森ルーナ/ホロライブ】
-UID:_m9rbPfxRN4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 重大発表 】YAMAHAコラボ第２弾！「LUNA」プロジェクト始動なのら！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=IMiusZKyhX4
 DURATION:PT2H
 DTSTART:20221018T110000Z
@@ -39,6 +32,13 @@ SUMMARY:🌟夜空メル: 【ハニスト/周防パトラ】パトラちゃん�
 UID:HGD6dlQU8Dg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#ホロ怖がり隊】ビビリだけの絶望的な「Phasmophobia」【戌神ころね】\nhttps://www.youtube.com/watch?v=jjR3pUrYTyg
+DURATION:PT2H
+DTSTART:20221019T120000Z
+SUMMARY:🥐戌神ころね: 【#ホロ怖がり隊】ビビリだけの絶望的な「Phasmophobia」【戌神ころね】
+UID:jjR3pUrYTyg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌枠】懐メロ多めにアニソンも歌っていくよ！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=m01m_o-K1So
 DURATION:PT2H
 DTSTART:20221018T130000Z
@@ -65,6 +65,13 @@ DURATION:PT2H
 DTSTART:20221019T070000Z
 SUMMARY:❤赤井はあと: 【UNACHIVED】English KARAOKE Party~~~♪
 UID:1aBtF-s4gZY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【☆明日発売☆】ウルトラ怪獣モンスターファームやるぞ～！！【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=kAqd3ynmuHw
+DURATION:PT2H
+DTSTART:20221019T140000Z
+SUMMARY:🥐戌神ころね: 【☆明日発売☆】ウルトラ怪獣モンスターファームやるぞ～！！【戌神ころね/ホロライブ】
+UID:kAqd3ynmuHw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Phasmophobia】最強の怖がり決定戦 #ホロ怖がり隊【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=97YVymIOaC0
@@ -137,6 +144,13 @@ SUMMARY:獅白ぼたん: 【Factorio】え、まだチュートリアルなん�
 UID:PeNIAG3AoRk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【OverWatch2】たくさん気が済むまでやるぞ～！【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=pQZAKYg_qeQ
+DURATION:PT2H
+DTSTART:20221019T090000Z
+SUMMARY:👾常闇トワ: 【OverWatch2】たくさん気が済むまでやるぞ～！【常闇トワ/ホロライブ】
+UID:pQZAKYg_qeQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談＆お礼】みんなと話したい！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=Fuejw5tbvpA
 DURATION:PT2H
 DTSTART:20221019T130000Z
@@ -163,6 +177,13 @@ DURATION:PT2H
 DTSTART:20221019T120000Z
 SUMMARY:鷹嶺ルイ: 【Phasmophobia】怖がりだらけの幽霊調査。視点ブレッブレでいきます。 #ホロ怖がり隊【鷹嶺ルイ/ホロライブ】
 UID:DSiJ62kJZ2s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 リズム天国 】オールパーフェクトを目指す！2回目 【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=iGbZra48DFA
+DURATION:PT2H
+DTSTART:20221019T090000Z
+SUMMARY:桃鈴ねね: 【 リズム天国 】オールパーフェクトを目指す！2回目 【 桃鈴ねね / ホロライブ 】
+UID:iGbZra48DFA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【お知らせあり歌枠‼】みんなお待たせ！あれが遂に…。／ KARAOKE＆NEW HAIR #鷹嶺ルイ新髪型【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=OtQIemx_Fqs
