@@ -4,25 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【RADIOLLIE】#0 HELLO GOOD MORNING!! THIS IS RADIOLLIE'S FIRST BROADCAST!!【HoloID 2nd Gen】\nhttps://www.youtube.com/watch?v=T1U7yKtgVQ0
+DURATION:PT2H
+DTSTART:20221018T225900Z
+SUMMARY:Ollie: 【RADIOLLIE】#0 HELLO GOOD MORNING!! THIS IS RADIOLLIE'S FIRST BROADCAST!!【HoloID 2nd Gen】
+UID:T1U7yKtgVQ0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【RUKIMIN's Disappointing Adventure!】HIYAAAAAA【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=GxrDV884stU
 DURATION:PT2H
 DTSTART:20221018T080000Z
 SUMMARY:Kaela: 【RUKIMIN's Disappointing Adventure!】HIYAAAAAA【Kaela Kovalskia / hololiveID】
 UID:GxrDV884stU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PAVOLLIE】MUKBANG WOULD YOU RATHER【Reine/Ollie/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=_vYuL4awi8c
-DURATION:PT2H
-DTSTART:20221018T120000Z
-SUMMARY:Reine: 【PAVOLLIE】MUKBANG WOULD YOU RATHER【Reine/Ollie/hololiveID 2nd gen】
-UID:_vYuL4awi8c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:『APEX』pew pew with Selen & Ollie  | Vestia Zeta\nhttps://www.youtube.com/watch?v=ghRHcUj_XtU
-DURATION:PT2H
-DTSTART:20221018T020000Z
-SUMMARY:Zeta: 『APEX』pew pew with Selen & Ollie  | Vestia Zeta
-UID:ghRHcUj_XtU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【holoID】STANLEY PARABLE ULTRA DELUXE : I am a working squrl【Ayunda Risu】\nhttps://www.youtube.com/watch?v=oeUYplgsquc
@@ -44,6 +37,27 @@ DURATION:PT2H
 DTSTART:20221018T020126Z
 SUMMARY:Ollie: 【APEX LEGENDS】THE TEAM IS HERE TO SLAY【Hololive ID 2nd Gen】
 UID:PfzUp3A_DXc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:『APEX』pew pew with Selen & Ollie  | Vestia Zeta\nhttps://www.youtube.com/watch?v=ghRHcUj_XtU
+DURATION:PT2H
+DTSTART:20221018T020000Z
+SUMMARY:Zeta: 『APEX』pew pew with Selen & Ollie  | Vestia Zeta
+UID:ghRHcUj_XtU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Sherlock Holmes】Loh loh? Apa ini? あれれ～おかしいぞお～？【イオフィ/ホロライブID 】\nhttps://www.youtube.com/watch?v=8QUhDpdUoBg
+DURATION:PT2H
+DTSTART:20221019T140000Z
+SUMMARY:🎨Iofi: 【Sherlock Holmes】Loh loh? Apa ini? あれれ～おかしいぞお～？【イオフィ/ホロライブID 】
+UID:8QUhDpdUoBg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PAVOLLIE】MUKBANG WOULD YOU RATHER【Reine/Ollie/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=_vYuL4awi8c
+DURATION:PT2H
+DTSTART:20221018T120000Z
+SUMMARY:Reine: 【PAVOLLIE】MUKBANG WOULD YOU RATHER【Reine/Ollie/hololiveID 2nd gen】
+UID:_vYuL4awi8c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Rust】#18 Large Oil Rig (with Moona)【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=Y8Dbjdl4HdQ
