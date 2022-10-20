@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3】朝活に裏ステージしてナワバリもしたい【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=MkjIBKo7rx0
-DURATION:PT2H
-DTSTART:20221019T224500Z
-SUMMARY:🔥不知火フレア: 【スプラトゥーン3】朝活に裏ステージしてナワバリもしたい【不知火フレア/ホロライブ】
-UID:MkjIBKo7rx0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Phasmophobia】最強の怖がり決定戦 #ホロ怖がり隊【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=97YVymIOaC0
 DURATION:PT2H
 DTSTART:20221019T120000Z
@@ -410,6 +403,13 @@ SUMMARY:🎨Iofi: 【Sherlock Holmes】Loh loh? Apa ini? あれれ～おかし�
 UID:8QUhDpdUoBg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【The Last Campfire】Oh The Places We'll Go | #2\nhttps://www.youtube.com/watch?v=GDrJvkG17do
+DURATION:PT2H
+DTSTART:20221020T031500Z
+SUMMARY:Kronii: 【The Last Campfire】Oh The Places We'll Go | #2
+UID:GDrJvkG17do
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ジントニックの日】プチお披露目あり！ノエルのポーション飲みつつお喋りしよ～！！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=oW3Uch5dAFU
 DURATION:PT2H
 DTSTART:20221019T130000Z
@@ -461,7 +461,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ちゃまポタ！大広間完成させるまでやる！！！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=s8EYwm7pHGk
 DURATION:PT2H
-DTSTART:20221020T040000Z
+DTSTART:20221020T041500Z
 SUMMARY:❤赤井はあと: 【Minecraft】ちゃまポタ！大広間完成させるまでやる！！！【ホロライブ/赤井はあと】
 UID:s8EYwm7pHGk
 END:VEVENT
@@ -499,6 +499,13 @@ DURATION:PT2H
 DTSTART:20221020T030000Z
 SUMMARY:Reine: 【Astroneer】WE ARE SPACE PEAFOWLS【Pavolia Reine/hololiveID 2nd gen】
 UID:ANIVD4DkfB0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ASTRONEER】SPAAAAACE【hololive Indonesia 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=-Nq4_5p7-i0
+DURATION:PT2H
+DTSTART:20221020T030000Z
+SUMMARY:Anya: 【ASTRONEER】SPAAAAACE【hololive Indonesia 2nd Generation | Anya Melfissa】
+UID:-Nq4_5p7-i0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン3】突発コラボですううううううううううう #ホロスプラ部【博衣こより視点/ホロライブ】\nhttps://www.youtube.com/watch?v=ZxDarFcKi2I
