@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【雑談】ライブお疲れさまでした！日常が戻ってきた！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=FIbhqe0X7pE
-DURATION:PT2H
-DTSTART:20221020T230000Z
-SUMMARY:🦔💨岸堂天真: 【雑談】ライブお疲れさまでした！日常が戻ってきた！【岸堂天真/ホロスターズ】
-UID:FIbhqe0X7pE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】今日も元気に金曜日【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=YKwptYGDSf0
 DURATION:PT2H
 DTSTART:20221021T063000Z
@@ -18,11 +11,11 @@ SUMMARY:🍷夕刻ロベル: 【雑談】今日も元気に金曜日【夕刻ロ
 UID:YKwptYGDSf0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【祝!!】3D化決定した件と先輩方のライブの感想を熱く語り合いたい【#緋崎ガンマ / #ホロスターズ / #ホロスタ2ndACT】\nhttps://www.youtube.com/watch?v=Tbk_nwoksxk
+DESCRIPTION:【雑談】ライブお疲れさまでした！日常が戻ってきた！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=FIbhqe0X7pE
 DURATION:PT2H
-DTSTART:20221022T080000Z
-SUMMARY:緋崎ガンマ: 【祝!!】3D化決定した件と先輩方のライブの感想を熱く語り合いたい【#緋崎ガンマ / #ホロスターズ / #ホロスタ2ndACT】
-UID:Tbk_nwoksxk
+DTSTART:20221020T230000Z
+SUMMARY:🦔💨岸堂天真: 【雑談】ライブお疲れさまでした！日常が戻ってきた！【岸堂天真/ホロスターズ】
+UID:FIbhqe0X7pE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談枠】ライブお疲れ様！裏話＆打ち上げ的な会【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=0XpVhRvnGjU
@@ -30,6 +23,20 @@ DURATION:PT2H
 DTSTART:20221021T133000Z
 SUMMARY:⚙律可: 【雑談枠】ライブお疲れ様！裏話＆打ち上げ的な会【律可/ホロスターズ】#りつすた
 UID:0XpVhRvnGjU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】喉、復活？！ ただいま！【 UPROAR!! / アップロー / 水無世燐央 】\nhttps://www.youtube.com/watch?v=V9hN9CrMT7Q
+DURATION:PT2H
+DTSTART:20221023T130000Z
+SUMMARY:水無世燐央: 【雑談】喉、復活？！ ただいま！【 UPROAR!! / アップロー / 水無世燐央 】
+UID:V9hN9CrMT7Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【GUILTY GEAR -STRIVE-】エンジョイ勢が全力で楽しむ【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=MnIP8GWkHac
+DURATION:PT2H
+DTSTART:20221021T130000Z
+SUMMARY:荒咬オウガ: 【GUILTY GEAR -STRIVE-】エンジョイ勢が全力で楽しむ【荒咬オウガ/ホロスターズ】
+UID:MnIP8GWkHac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【アニメ】アルランディスよ、永遠に【#スタこれ】\nhttps://www.youtube.com/watch?v=IdAgu1RIkew
@@ -102,11 +109,11 @@ SUMMARY:🍕アルランディス: 【 #デビュー0分で逆凸 】アルラ�
 UID:fbz7Ip3smEI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】喉、復活？！ ただいま！【 UPROAR!! / アップロー / 水無世燐央 】\nhttps://www.youtube.com/watch?v=V9hN9CrMT7Q
+DESCRIPTION:【祝!!】3D化決定した件と先輩方のライブの感想を熱く語り合いたい【#緋崎ガンマ / #ホロスターズ / #ホロスタ2ndACT】\nhttps://www.youtube.com/watch?v=Tbk_nwoksxk
 DURATION:PT2H
-DTSTART:20221023T130000Z
-SUMMARY:水無世燐央: 【雑談】喉、復活？！ ただいま！【 UPROAR!! / アップロー / 水無世燐央 】
-UID:V9hN9CrMT7Q
+DTSTART:20221022T080000Z
+SUMMARY:緋崎ガンマ: 【祝!!】3D化決定した件と先輩方のライブの感想を熱く語り合いたい【#緋崎ガンマ / #ホロスターズ / #ホロスタ2ndACT】
+UID:Tbk_nwoksxk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:2nd actの振り返りをすこしだけ！ / アステル\nhttps://www.youtube.com/watch?v=dyxmP0vSBk8
