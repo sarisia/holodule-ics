@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【雑談】ライブお疲れさまでした！日常が戻ってきた！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=FIbhqe0X7pE
-DURATION:PT2H
-DTSTART:20221020T230000Z
-SUMMARY:🦔💨岸堂天真: 【雑談】ライブお疲れさまでした！日常が戻ってきた！【岸堂天真/ホロスターズ】
-UID:FIbhqe0X7pE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】今日も元気に金曜日【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=YKwptYGDSf0
 DURATION:PT2H
 DTSTART:20221021T063000Z
@@ -18,11 +11,25 @@ SUMMARY:🍷夕刻ロベル: 【雑談】今日も元気に金曜日【夕刻ロ
 UID:YKwptYGDSf0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【雑談】ライブお疲れさまでした！日常が戻ってきた！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=FIbhqe0X7pE
+DURATION:PT2H
+DTSTART:20221020T230000Z
+SUMMARY:🦔💨岸堂天真: 【雑談】ライブお疲れさまでした！日常が戻ってきた！【岸堂天真/ホロスターズ】
+UID:FIbhqe0X7pE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ホロスタ2ndACT】HOLOSTARS 2nd ACT「GREAT VOYAGE to UNIVERSE!!」【チラ見せ】\nhttps://www.youtube.com/watch?v=SdBwBXVhhic
 DURATION:PT2H
 DTSTART:20221020T083000Z
 SUMMARY:ホロスターズ: 【#ホロスタ2ndACT】HOLOSTARS 2nd ACT「GREAT VOYAGE to UNIVERSE!!」【チラ見せ】
 UID:SdBwBXVhhic
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談枠】ライブお疲れ様！裏話＆打ち上げ的な会【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=0XpVhRvnGjU
+DURATION:PT2H
+DTSTART:20221021T130000Z
+SUMMARY:⚙律可: 【雑談枠】ライブお疲れ様！裏話＆打ち上げ的な会【律可/ホロスターズ】#りつすた
+UID:0XpVhRvnGjU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:明日の前に少しだけ、話す ※配信後アーカイブ一時非公開になります。/ アステル\nhttps://www.youtube.com/watch?v=VqhxU64d5YE
