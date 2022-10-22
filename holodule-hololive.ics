@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【はいしんよて】【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=ziLaV64Zw0Q
+DURATION:PT2H
+DTSTART:20221022T130000Z
+SUMMARY:🏴☠宝鐘マリン: 【はいしんよて】【ホロライブ/宝鐘マリン】
+UID:ziLaV64Zw0Q
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【最終回】みこちにうまい飯、食わせたい【はあちゃまクッキング・改】\nhttps://www.youtube.com/watch?v=VTpBrO77a8E
 DURATION:PT2H
 DTSTART:20221021T030000Z
@@ -30,13 +37,6 @@ DURATION:PT2H
 DTSTART:20221021T110000Z
 SUMMARY:💋癒月ちょこ: 【モンスターハンターライズ】人生初めてのモンハン4日目！里クエ全クリ目指す！【ホロライブ/癒月ちょこ】
 UID:SThmZoqBmt8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】大広間かんせいはできるのか～～～！？【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=gg_VmHB-A2c
-DURATION:PT2H
-DTSTART:20221022T080000Z
-SUMMARY:❤赤井はあと: 【Minecraft】大広間かんせいはできるのか～～～！？【ホロライブ/赤井はあと】
-UID:gg_VmHB-A2c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ゼットン倒す】ウルトラ怪獣モンスターファームやるぞ～！！【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=spPP7l7LmAc
@@ -144,6 +144,13 @@ SUMMARY:ラプラス: QUEEN / ラプラス・ダークネス cover
 UID:Y6RkFM3G9V4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:＃2【 ドラクエV 】６歳ラミィ、次なる冒険はどこへ！？【ホロライブ/雪花ラミィ】※ネタバレあり\nhttps://www.youtube.com/watch?v=azc6O0c_hk4
+DURATION:PT2H
+DTSTART:20221023T030000Z
+SUMMARY:雪花ラミィ: ＃2【 ドラクエV 】６歳ラミィ、次なる冒険はどこへ！？【ホロライブ/雪花ラミィ】※ネタバレあり
+UID:azc6O0c_hk4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#朝こよ】BHショーケース公認ミラーの後に始まる金曜日の朝こよ！ #93【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=-SDBR_DmvRg
 DURATION:PT2H
 DTSTART:20221020T224500Z
@@ -235,11 +242,25 @@ SUMMARY:🌸さくらみこ: 【 推しカメラ #Shorts 】負けず嫌い私�
 UID:afAoJnG1mgM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【MemberOnly】シン・ゴジラ観ようぜ～～～【同時視聴】\nhttps://www.youtube.com/watch?v=vIeM95skGGQ
+DURATION:PT2H
+DTSTART:20221022T140000Z
+SUMMARY:尾丸ポルカ: 【MemberOnly】シン・ゴジラ観ようぜ～～～【同時視聴】
+UID:vIeM95skGGQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【はあとなニュース】朝からほっこりをお届け♪【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=GSrUqO_3QLA
 DURATION:PT2H
 DTSTART:20221023T010000Z
 SUMMARY:❤赤井はあと: 【はあとなニュース】朝からほっこりをお届け♪【ホロライブ/赤井はあと】
 UID:GSrUqO_3QLA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【UNDERTALE】遂にきたよPルート！土日でクリア耐久！アンダーテール【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=arA8dig-S9o
+DURATION:PT2H
+DTSTART:20221022T130000Z
+SUMMARY:沙花叉クロヱ: 【UNDERTALE】遂にきたよPルート！土日でクリア耐久！アンダーテール【沙花叉クロヱ/ホロライブ】
+UID:arA8dig-S9o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Switch Sports】Mel VS Amelia！スポーツ対決！！！【ホロライブ/夜空メル&AmeliaWatoson】\nhttps://www.youtube.com/watch?v=XGqippxsR-k
