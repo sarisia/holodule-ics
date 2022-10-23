@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【OVERWATCH2】キーボードも新しくなった！！最強（最弱） /  Astel\nhttps://www.youtube.com/watch?v=swe6ea_9P2s
-DURATION:PT2H
-DTSTART:20221022T123000Z
-SUMMARY:🎭アステル・レダ: 【OVERWATCH2】キーボードも新しくなった！！最強（最弱） /  Astel
-UID:swe6ea_9P2s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ring-A-Linger / 桃鈴ねね（original）(Prod. ヒゲドライバー)\nhttps://www.youtube.com/watch?v=Z04gnUMlpwY
 DURATION:PT2H
 DTSTART:20221022T131500Z
@@ -102,6 +95,13 @@ SUMMARY:Zeta: hey stinky\, do u take baths?♨️ | the bathhouse
 UID:RW3ZXopQZwI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【歌枠】第９５回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=XJOLnRWFL8I
+DURATION:PT2H
+DTSTART:20221023T130000Z
+SUMMARY:🐏角巻わため: 【歌枠】第９５回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】
+UID:XJOLnRWFL8I
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Ultimate Fishing Simulator 2】グランダー吹雪の釣り生活　PART４【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=psn_p98rOMg
 DURATION:PT2H
 DTSTART:20221021T221500Z
@@ -137,6 +137,20 @@ SUMMARY:Dezmond: 【MV】Escape From The City - Sonic The Hedgehog || Magni Dezm
 UID:yhz2uQJDY30
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【告知します。】すべての始まりが、ここに。 / #アステルコード\nhttps://www.youtube.com/watch?v=2Ei_9B97ZRI
+DURATION:PT2H
+DTSTART:20221023T110000Z
+SUMMARY:🎭アステル・レダ: 【告知します。】すべての始まりが、ここに。 / #アステルコード
+UID:2Ei_9B97ZRI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【20時か21時から】【ウルトラ怪獣がおおおおおおおお！】\nhttps://www.youtube.com/watch?v=fSyDSgbKJ6Y
+DURATION:PT2H
+DTSTART:20221023T110000Z
+SUMMARY:🥐戌神ころね: 【20時か21時から】【ウルトラ怪獣がおおおおおおおお！】
+UID:fSyDSgbKJ6Y
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 Diablo II 】Diablo and Baal Must Die\nhttps://www.youtube.com/watch?v=gFYKQdDXsiA
 DURATION:PT2H
 DTSTART:20221021T170000Z
@@ -163,6 +177,13 @@ DURATION:PT2H
 DTSTART:20221022T015924Z
 SUMMARY:Ollie: 【DELIVERING HOPE】 IRyS?? MORE LIKE- IRYEET【Hololive ID 2nd Generation】
 UID:czClgd95xlY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Fall Guys】 LET'S WIN with HAACHAMA\, BAE\, & MUMEI\nhttps://www.youtube.com/watch?v=E_d89wb3p2U
+DURATION:PT2H
+DTSTART:20221023T040000Z
+SUMMARY:Fauna: 【Fall Guys】 LET'S WIN with HAACHAMA\, BAE\, & MUMEI
+UID:E_d89wb3p2U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#3【Minecraft】隠れ家作ったり話したり【律可/影山シエン/ホロスターズ】#シャドウギア\nhttps://www.youtube.com/watch?v=c4HX1zlg-aY
@@ -207,6 +228,13 @@ SUMMARY:🔮Moona: 【HOLO ID AMONG US】I am not SUS pt.2【Moona hololiveID】
 UID:qbsZmewZ5e0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 #なのらいぶ 】日曜朝のエレクトーン練習するのらっ！🎹🎶 「絶対忠誠♡なのなのら」「キセキ結び」【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=irxTyK1WjxM
+DURATION:PT2H
+DTSTART:20221023T013000Z
+SUMMARY:🍬姫森ルーナ: 【 #なのらいぶ 】日曜朝のエレクトーン練習するのらっ！🎹🎶 「絶対忠誠♡なのなのら」「キセキ結び」【姫森ルーナ/ホロライブ】
+UID:irxTyK1WjxM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【holoID】HOLOID AMONG US : who is the sussiest of them all ?【Ayunda Risu】\nhttps://www.youtube.com/watch?v=1tN2RX8Mrbg
 DURATION:PT2H
 DTSTART:20221022T141500Z
@@ -242,10 +270,10 @@ SUMMARY:🔮Moona: 【RUST】 Underwater Date with @Kaela Kovalskia Ch. hololive
 UID:iuASy8A7s_o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【はあとなニュース】朝からほっこりをお届け♪【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=GSrUqO_3QLA
+DESCRIPTION:【#はあとなニュース】朝からほっこりをお届け♪#2【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=GSrUqO_3QLA
 DURATION:PT2H
 DTSTART:20221023T010000Z
-SUMMARY:❤赤井はあと: 【はあとなニュース】朝からほっこりをお届け♪【ホロライブ/赤井はあと】
+SUMMARY:❤赤井はあと: 【#はあとなニュース】朝からほっこりをお届け♪#2【ホロライブ/赤井はあと】
 UID:GSrUqO_3QLA
 END:VEVENT
 BEGIN:VEVENT
