@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ライブ振り返り】2nd act振り返るぞ！【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=602zz9bESkY
-DURATION:PT2H
-DTSTART:20221024T120000Z
-SUMMARY:荒咬オウガ: 【ライブ振り返り】2nd act振り返るぞ！【荒咬オウガ/ホロスターズ】
-UID:602zz9bESkY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 #ホロスタ日英伝言ゲーム 】勝つのはどっちだ!?伝言ゲーム王決定戦【花咲みやび/夕刻ロベル/荒咬オウガ/Noir Vesper/Axel Syrios/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=HmOvP44dYBY
 DURATION:PT2H
 DTSTART:20221025T110000Z
@@ -18,25 +11,11 @@ SUMMARY:🍕アルランディス: 【 #ホロスタ日英伝言ゲーム 】勝
 UID:HmOvP44dYBY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 APEX 】ゲリラ！すこしだけ えいぺっくす する！！【 #vtuber /#羽継烏有 / #uproar  】\nhttps://www.youtube.com/watch?v=uybdGZSFqkw
-DURATION:PT2H
-DTSTART:20221023T234500Z
-SUMMARY:羽継烏有: 【 APEX 】ゲリラ！すこしだけ えいぺっくす する！！【 #vtuber /#羽継烏有 / #uproar  】
-UID:uybdGZSFqkw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】こんにちは、お昼に失礼します【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=sK8dEqLn88A
 DURATION:PT2H
 DTSTART:20221024T051500Z
 SUMMARY:🍷夕刻ロベル: 【雑談】こんにちは、お昼に失礼します【夕刻ロベル/ホロスターズ】
 UID:sK8dEqLn88A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【対決】見抜いて当てろ！UPROAR!!ダービー2022！！【#ジャンプロ】\nhttps://www.youtube.com/watch?v=cDWOcUioI6c
-DURATION:PT2H
-DTSTART:20221026T110000Z
-SUMMARY:ホロスターズ: 【対決】見抜いて当てろ！UPROAR!!ダービー2022！！【#ジャンプロ】
-UID:cDWOcUioI6c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ホロスタ検定】目指せ100点!!分かんない時は鉛筆コロコロ【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=m2U7Kk3n7aU
@@ -51,13 +30,6 @@ DURATION:PT2H
 DTSTART:20221024T100000Z
 SUMMARY:🍷夕刻ロベル: 【告知あり配信】楽しい感じの告知配信らしいですよ【夕刻ロベル/ホロスターズ】
 UID:FgN8Vx1ISUc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Drawing】朝活!!別次元のアルランディスを描いてみる!!【#緋崎ガンマ / #ホロスターズ / #イラストメイキング #illustration  】\nhttps://www.youtube.com/watch?v=nT5J3wz1ddI
-DURATION:PT2H
-DTSTART:20221025T000000Z
-SUMMARY:緋崎ガンマ: 【Drawing】朝活!!別次元のアルランディスを描いてみる!!【#緋崎ガンマ / #ホロスターズ / #イラストメイキング #illustration  】
-UID:nT5J3wz1ddI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#花岸れいでぃお】今日の花岸会議は何の話題でしょうか！！！【岸堂天真/花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=KTogvVtPuJw
@@ -81,13 +53,6 @@ SUMMARY:🍕アルランディス: JK3人しかいない空間に急に男の声
 UID:0g7sbOZesQI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【手描き】激痛で悶絶する瞬間あるある【ホロライブプロダクション】 #shorts\nhttps://www.youtube.com/watch?v=2PHPFPcGTPY
-DURATION:PT2H
-DTSTART:20221024T090003Z
-SUMMARY:緋崎ガンマ: 【手描き】激痛で悶絶する瞬間あるある【ホロライブプロダクション】 #shorts
-UID:2PHPFPcGTPY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Factorio】さらば、ファクトリオ。ロケット発射編【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=j5tLrYjopJc
 DURATION:PT2H
 DTSTART:20221024T003000Z
@@ -100,6 +65,48 @@ DURATION:PT2H
 DTSTART:20221024T143000Z
 SUMMARY:🍕アルランディス: 【Dome Keeper】現状最高難易度でのクリアを目論む男【アルランディス/ホロスターズ】
 UID:Qrhfd05akLA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ライブ振り返り】2nd act振り返るぞ！【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=602zz9bESkY
+DURATION:PT2H
+DTSTART:20221024T120000Z
+SUMMARY:荒咬オウガ: 【ライブ振り返り】2nd act振り返るぞ！【荒咬オウガ/ホロスターズ】
+UID:602zz9bESkY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 APEX 】ゲリラ！すこしだけ えいぺっくす する！！【 #vtuber /#羽継烏有 / #uproar  】\nhttps://www.youtube.com/watch?v=uybdGZSFqkw
+DURATION:PT2H
+DTSTART:20221023T234500Z
+SUMMARY:羽継烏有: 【 APEX 】ゲリラ！すこしだけ えいぺっくす する！！【 #vtuber /#羽継烏有 / #uproar  】
+UID:uybdGZSFqkw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Drawing】朝活!!別次元のアルランディスを描いてみる!!【#緋崎ガンマ / #ホロスターズ / #イラストメイキング #illustration  】\nhttps://www.youtube.com/watch?v=nT5J3wz1ddI
+DURATION:PT2H
+DTSTART:20221025T000000Z
+SUMMARY:緋崎ガンマ: 【Drawing】朝活!!別次元のアルランディスを描いてみる!!【#緋崎ガンマ / #ホロスターズ / #イラストメイキング #illustration  】
+UID:nT5J3wz1ddI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【手描き】激痛で悶絶する瞬間あるある【ホロライブプロダクション】 #shorts\nhttps://www.youtube.com/watch?v=2PHPFPcGTPY
+DURATION:PT2H
+DTSTART:20221024T090003Z
+SUMMARY:緋崎ガンマ: 【手描き】激痛で悶絶する瞬間あるある【ホロライブプロダクション】 #shorts
+UID:2PHPFPcGTPY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【対決】見抜いて当てろ！UPROAR!!ダービー2022！！【#ジャンプロ】\nhttps://www.youtube.com/watch?v=cDWOcUioI6c
+DURATION:PT2H
+DTSTART:20221026T110000Z
+SUMMARY:ホロスターズ: 【対決】見抜いて当てろ！UPROAR!!ダービー2022！！【#ジャンプロ】
+UID:cDWOcUioI6c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【OVERWATCH2】せ～～～～かいはざんこ～～～～～～くだ～～～～ /  Astel\nhttps://www.youtube.com/watch?v=QVht3Us_BrY
+DURATION:PT2H
+DTSTART:20221024T201500Z
+SUMMARY:🎭アステル・レダ: 【OVERWATCH2】せ～～～～かいはざんこ～～～～～～くだ～～～～ /  Astel
+UID:QVht3Us_BrY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活雑談】GoodMorning！おはようアルランディス第3回【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=MijlpdcvIDg
