@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Rhythm Sprout DEMO】testing a great game【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=bJ09-uaR-Ec
+DURATION:PT2H
+DTSTART:20221027T090000Z
+SUMMARY:Kaela: 【Rhythm Sprout DEMO】testing a great game【Kaela Kovalskia / hololiveID】
+UID:bJ09-uaR-Ec
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【RUST】HOPE I'M DOING THIS RIGHT【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=Yu_vknBQXR0
 DURATION:PT2H
 DTSTART:20221026T083056Z
