@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Rhythm Sprout DEMO】testing a great game【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=bJ09-uaR-Ec
-DURATION:PT2H
-DTSTART:20221027T090000Z
-SUMMARY:Kaela: 【Rhythm Sprout DEMO】testing a great game【Kaela Kovalskia / hololiveID】
-UID:bJ09-uaR-Ec
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【The Backrooms: 1998】超絶怖いらしいホラーゲーム「見守るよ！」って言われて「はい」って言っちゃった者【白上フブキ・博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=GfaX5hbFIzI
 DURATION:PT2H
 DTSTART:20221027T130000Z
 SUMMARY:博衣こより: 【The Backrooms: 1998】超絶怖いらしいホラーゲーム「見守るよ！」って言われて「はい」って言っちゃった者【白上フブキ・博衣こより/ホロライブ】
 UID:GfaX5hbFIzI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Rhythm Sprout DEMO】testing a great game【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=bJ09-uaR-Ec
+DURATION:PT2H
+DTSTART:20221027T090000Z
+SUMMARY:Kaela: 【Rhythm Sprout DEMO】testing a great game【Kaela Kovalskia / hololiveID】
+UID:bJ09-uaR-Ec
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TROMBONE CHAMP】trombone-ing with y'all\nhttps://www.youtube.com/watch?v=qoUIhGElIhQ
@@ -53,18 +53,18 @@ SUMMARY:⚙律可: 【#律可3周年】3DLive / A piece of parallel time【律�
 UID:89vaWoEcjeQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Valorant】プラチナ2 RP４０~ DUOコンペ！ 【奏手イヅル w/アステル】\nhttps://www.youtube.com/watch?v=xkZYJUHFNew
-DURATION:PT2H
-DTSTART:20221027T011500Z
-SUMMARY:🎸奏手イヅル: 【Valorant】プラチナ2 RP４０~ DUOコンペ！ 【奏手イヅル w/アステル】
-UID:xkZYJUHFNew
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【しょぼんのるきみん！】happy thoughts only\nhttps://www.youtube.com/watch?v=UrscwNc9Iyw
 DURATION:PT2H
 DTSTART:20221027T023000Z
 SUMMARY:Mumei: 【しょぼんのるきみん！】happy thoughts only
 UID:UrscwNc9Iyw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Valorant】プラチナ2 RP４０~ DUOコンペ！ 【奏手イヅル w/アステル】\nhttps://www.youtube.com/watch?v=xkZYJUHFNew
+DURATION:PT2H
+DTSTART:20221027T011500Z
+SUMMARY:🎸奏手イヅル: 【Valorant】プラチナ2 RP４０~ DUOコンペ！ 【奏手イヅル w/アステル】
+UID:xkZYJUHFNew
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ウルトラ怪獣モンスターファーム】怪獣を育てる魔人3【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=jwEGsrQmLqI
@@ -142,13 +142,6 @@ DURATION:PT2H
 DTSTART:20221027T174500Z
 SUMMARY:🎭アステル・レダ: 【VALORANT】今日も今日とてコンペティティ部 / アステル
 UID:O2b23DXQpNY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪STUDY STREAM≫ 문법과 단어\nhttps://www.youtube.com/watch?v=c2feM6BgClQ
-DURATION:PT2H
-DTSTART:20221027T110000Z
-SUMMARY:Baelz: ≪STUDY STREAM≫ 문법과 단어
-UID:c2feM6BgClQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 バイオ】地図カンニング！超絶ビビりのバイオハザードHDリマスター！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=3jIFKI3L5E0
@@ -249,6 +242,13 @@ SUMMARY:ENholo: Mumei Tries to Pronounce "Australia"  #shorts
 UID:l0wxHdTyRpU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【朝メル#19】もうすこしでハロウィン！！ということは…！！？【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=ASHMZVS7HQk
+DURATION:PT2H
+DTSTART:20221026T220000Z
+SUMMARY:🌟夜空メル: 【朝メル#19】もうすこしでハロウィン！！ということは…！！？【ホロライブ/夜空メル】
+UID:ASHMZVS7HQk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【スプラ１】人いるのか不安だけど初代スプラテゥンやるでな【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=DtQfosbTw74
 DURATION:PT2H
 DTSTART:20221027T140000Z
@@ -261,13 +261,6 @@ DURATION:PT2H
 DTSTART:20221028T130000Z
 SUMMARY:Reine: 【Cover】愛言葉Ⅳ (Ai Kotoba IV) / Pavolia Reine × Kobo Kanaeru
 UID:Ina1fe-sssg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝メル#19】もうすこしでハロウィン！！ということは…！！？【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=ASHMZVS7HQk
-DURATION:PT2H
-DTSTART:20221026T220000Z
-SUMMARY:🌟夜空メル: 【朝メル#19】もうすこしでハロウィン！！ということは…！！？【ホロライブ/夜空メル】
-UID:ASHMZVS7HQk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VAMPIRE SURVIVORS】Using new characters and playing new stages!!!\nhttps://www.youtube.com/watch?v=VK6YDAVt0xw
@@ -303,6 +296,13 @@ DURATION:PT2H
 DTSTART:20221027T170000Z
 SUMMARY:Vesper: 【 JP Study 】THESE TWEETS ARE FIRE! w/ @Gamma Ch. 緋崎ガンマ - UPROAR!! -
 UID:_6PMTs0ZazA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:デタバレネコ / 猫又おかゆ( #おかゆソロライブ ver)\nhttps://www.youtube.com/watch?v=TdUbfLF6gAY
+DURATION:PT2H
+DTSTART:20221028T100000Z
+SUMMARY:🍙猫又おかゆ: デタバレネコ / 猫又おかゆ( #おかゆソロライブ ver)
+UID:TdUbfLF6gAY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 壺おじ 】おじと仲良く、心穏やかに♡【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=TwvQRQ2G7sQ
@@ -382,6 +382,13 @@ SUMMARY:🥐戌神ころね: スプラ３
 UID:cV1_DMJoIOI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Unarchived KARAOKE】Singing before my break!\nhttps://www.youtube.com/watch?v=iZupvO2fTxc
+DURATION:PT2H
+DTSTART:20221028T040000Z
+SUMMARY:IRyS: 【Unarchived KARAOKE】Singing before my break!
+UID:iZupvO2fTxc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:『Forewarned』pls scare me\nhttps://www.youtube.com/watch?v=PYHjipE_l9A
 DURATION:PT2H
 DTSTART:20221027T040000Z
@@ -452,6 +459,13 @@ SUMMARY:👯兎田ぺこら: 【Trombone Champ】どうも、トロンボーン�
 UID:eKgX4m3cB84
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:転生林檎／Covered by紫咲シオン【歌ってみた】\nhttps://www.youtube.com/watch?v=27ErkjjIUlE
+DURATION:PT2H
+DTSTART:20221028T110000Z
+SUMMARY:🌙紫咲シオン: 転生林檎／Covered by紫咲シオン【歌ってみた】
+UID:27ErkjjIUlE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【3周年記念】ラブレター 歌ってみた / YOASOBI『covered by 律可』\nhttps://www.youtube.com/watch?v=gbq1Za6dq88
 DURATION:PT2H
 DTSTART:20221027T120246Z
@@ -464,13 +478,6 @@ DURATION:PT2H
 DTSTART:20221028T100000Z
 SUMMARY:🍷夕刻ロベル: 【バイオハザード ヴィレッジ ゴールドエディション】追加されたDLCを紹介させて頂くぞ！【夕刻ロベル/ホロスターズ】
 UID:7Sf1-UigTpY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:転生林檎／Covered by紫咲シオン【歌ってみた】\nhttps://www.youtube.com/watch?v=27ErkjjIUlE
-DURATION:PT2H
-DTSTART:20221028T110000Z
-SUMMARY:🌙紫咲シオン: 転生林檎／Covered by紫咲シオン【歌ってみた】
-UID:27ErkjjIUlE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【もろだし相撲】もろだすこともこれから先、きっとあるでしょう【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=7IxigN-WYKo
@@ -515,11 +522,11 @@ SUMMARY:博衣こより: 【#朝こよ】金曜日のおはこよ～！！朝こ
 UID:ETfTFn3NKY0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:デタバレネコ / 猫又おかゆ( #おかゆソロライブ ver)\nhttps://www.youtube.com/watch?v=TdUbfLF6gAY
+DESCRIPTION:≪STUDY STREAM≫ 문법과 단어\nhttps://www.youtube.com/watch?v=c2feM6BgClQ
 DURATION:PT2H
-DTSTART:20221028T100000Z
-SUMMARY:🍙猫又おかゆ: デタバレネコ / 猫又おかゆ( #おかゆソロライブ ver)
-UID:TdUbfLF6gAY
+DTSTART:20221027T110000Z
+SUMMARY:Baelz: ≪STUDY STREAM≫ 문법과 단어
+UID:c2feM6BgClQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】咳が収まったので朝雑！朝ごはん食べながら～【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=6b-7xtdWbB4
