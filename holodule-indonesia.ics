@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Case 00: The Cannibal Boy】What a Coincidence\, I'm Also Hungry【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=tfMuUsCQF1g
-DURATION:PT2H
-DTSTART:20221028T140000Z
-SUMMARY:Reine: 【Case 00: The Cannibal Boy】What a Coincidence\, I'm Also Hungry【Pavolia Reine/hololiveID 2nd gen】
-UID:tfMuUsCQF1g
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Rhythm Sprout DEMO】testing a great game【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=bJ09-uaR-Ec
 DURATION:PT2H
 DTSTART:20221027T090000Z
 SUMMARY:Kaela: 【Rhythm Sprout DEMO】testing a great game【Kaela Kovalskia / hololiveID】
 UID:bJ09-uaR-Ec
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Cover】愛言葉Ⅳ (Ai Kotoba IV) / Pavolia Reine × Kobo Kanaeru\nhttps://www.youtube.com/watch?v=Ina1fe-sssg
+DURATION:PT2H
+DTSTART:20221028T130000Z
+SUMMARY:Reine: 【Cover】愛言葉Ⅳ (Ai Kotoba IV) / Pavolia Reine × Kobo Kanaeru
+UID:Ina1fe-sssg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#holoIDNewCostume】New Costume?!【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=9zzfsEcQIsg
@@ -109,6 +109,20 @@ SUMMARY:Ollie: 【FREETALK+DONO READING】 JUST ME\, YOU\, AND DONO HISTORY【Ho
 UID:339OTGi0_no
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【APEX LEGENDS】GGC BOSS CUP // TEAM 13: AKATSUKI pt.2【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=iuJUYezdKpY
+DURATION:PT2H
+DTSTART:20221028T131053Z
+SUMMARY:Ollie: 【APEX LEGENDS】GGC BOSS CUP // TEAM 13: AKATSUKI pt.2【Hololive ID 2nd Gen】
+UID:iuJUYezdKpY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Resident Evil Village】Let's defeat Lady Dimitrescu (for real this time)  #3\nhttps://www.youtube.com/watch?v=I-MADVJgLWg
+DURATION:PT2H
+DTSTART:20221028T131500Z
+SUMMARY:Kobo: 【Resident Evil Village】Let's defeat Lady Dimitrescu (for real this time)  #3
+UID:I-MADVJgLWg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:『Forewarned』pls scare me\nhttps://www.youtube.com/watch?v=PYHjipE_l9A
 DURATION:PT2H
 DTSTART:20221027T040000Z
@@ -116,11 +130,11 @@ SUMMARY:Zeta: 『Forewarned』pls scare me
 UID:PYHjipE_l9A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Cover】愛言葉Ⅳ (Ai Kotoba IV) / Pavolia Reine × Kobo Kanaeru\nhttps://www.youtube.com/watch?v=Ina1fe-sssg
+DESCRIPTION:【Case 00: The Cannibal Boy】What a Coincidence\, I'm Also Hungry【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=tfMuUsCQF1g
 DURATION:PT2H
-DTSTART:20221028T130000Z
-SUMMARY:Reine: 【Cover】愛言葉Ⅳ (Ai Kotoba IV) / Pavolia Reine × Kobo Kanaeru
-UID:Ina1fe-sssg
+DTSTART:20221028T140000Z
+SUMMARY:Reine: 【Case 00: The Cannibal Boy】What a Coincidence\, I'm Also Hungry【Pavolia Reine/hololiveID 2nd gen】
+UID:tfMuUsCQF1g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【COVER】MIRA - Kanaria【Ayunda Risu】\nhttps://www.youtube.com/watch?v=meO4tAeMgHs
