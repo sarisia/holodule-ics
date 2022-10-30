@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#花岸お泊り会】みやびの家で花岸ハロウィンパーティ!!👻🍭🎃【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=JuJ2BJVLlOo
+DURATION:PT2H
+DTSTART:20221031T090000Z
+SUMMARY:🌺花咲みやび: 【#花岸お泊り会】みやびの家で花岸ハロウィンパーティ!!👻🍭🎃【花咲みやび/ホロスターズ】
+UID:JuJ2BJVLlOo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【バイオ8】完全初見「バイオハザードヴィレッジ：Resident Evil Village」最新TPS版でプレイ！イーサンの後ろ姿が観られる👀✨【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=ul9oAMF68og
 DURATION:PT2H
 DTSTART:20221030T020000Z
@@ -214,18 +221,18 @@ SUMMARY:雪花ラミィ: 【昼活雑談】ハロウィンだぁ～！お菓子�
 UID:ME4wAcvBC04
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Membership 】Otsukare! We all worked hard this week I'm happy with tempus content. Zatsudan btw\nhttps://www.youtube.com/watch?v=kq-N_gesAIM
-DURATION:PT2H
-DTSTART:20221030T220000Z
-SUMMARY:Vesper: 【 Membership 】Otsukare! We all worked hard this week I'm happy with tempus content. Zatsudan btw
-UID:kq-N_gesAIM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【マインクラフト/Minecraft】赤組で来れるメンバーで少し練習するらしい！！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=qcfgGTVaBRM
 DURATION:PT2H
 DTSTART:20221031T120000Z
 SUMMARY:🔥不知火フレア: 【マインクラフト/Minecraft】赤組で来れるメンバーで少し練習するらしい！！【不知火フレア/ホロライブ】
 UID:qcfgGTVaBRM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Drawing】さらば大道シノヴ…!!惜別イラストを描いてプレゼントする！【#緋崎ガンマ / #ホロスターズ / #イラストメイキング #illustration  】\nhttps://www.youtube.com/watch?v=IFV_XcGSH9Q
+DURATION:PT2H
+DTSTART:20221030T003000Z
+SUMMARY:緋崎ガンマ: 【Drawing】さらば大道シノヴ…!!惜別イラストを描いてプレゼントする！【#緋崎ガンマ / #ホロスターズ / #イラストメイキング #illustration  】
+UID:IFV_XcGSH9Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ホロのこしかけ 17】お菓子か残業か🎃 /10月NEWSまとめ【友人A・A-chan】hololive FM\nhttps://www.youtube.com/watch?v=-OLSTI7JFhk
@@ -235,11 +242,11 @@ SUMMARY:ホロライブ: 【ホロのこしかけ 17】お菓子か残業か🎃
 UID:-OLSTI7JFhk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Drawing】さらば大道シノヴ…!!惜別イラストを描いてプレゼントする！【#緋崎ガンマ / #ホロスターズ / #イラストメイキング #illustration  】\nhttps://www.youtube.com/watch?v=IFV_XcGSH9Q
+DESCRIPTION:【 Membership 】Otsukare! We all worked hard this week I'm happy with tempus content. Zatsudan btw\nhttps://www.youtube.com/watch?v=kq-N_gesAIM
 DURATION:PT2H
-DTSTART:20221030T003000Z
-SUMMARY:緋崎ガンマ: 【Drawing】さらば大道シノヴ…!!惜別イラストを描いてプレゼントする！【#緋崎ガンマ / #ホロスターズ / #イラストメイキング #illustration  】
-UID:IFV_XcGSH9Q
+DTSTART:20221030T220000Z
+SUMMARY:Vesper: 【 Membership 】Otsukare! We all worked hard this week I'm happy with tempus content. Zatsudan btw
+UID:kq-N_gesAIM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #なのらいぶ 】日曜朝のエレクトーン練習するのらっ！🎹🎶 「絶対忠誠♡なのなのら」「キセキ結び」【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=9bbYkt7oDtI
@@ -478,13 +485,6 @@ DURATION:PT2H
 DTSTART:20221030T193000Z
 SUMMARY:Kiara: 4BLOOD - Takanashi Kiara (SONG COVER)
 UID:Fwc-LH8IGj8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:please good aim\, let's go platinum (unarchived)\nhttps://www.youtube.com/watch?v=O7CFgs29Q-c
-DURATION:PT2H
-DTSTART:20221030T170500Z
-SUMMARY:Kobo: please good aim\, let's go platinum (unarchived)
-UID:O7CFgs29Q-c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【晩酌】配信予定地※帰宅後にサムネ変更します！【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=DNCPAbtAfbA
