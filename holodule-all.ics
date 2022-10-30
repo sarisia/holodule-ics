@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【バイオ8】完全初見「バイオハザードヴィレッジ：Resident Evil Village」最新TPS版でプレイ！イーサンの後ろ姿が観られる👀✨【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=ul9oAMF68og
-DURATION:PT2H
-DTSTART:20221030T020000Z
-SUMMARY:博衣こより: 【バイオ8】完全初見「バイオハザードヴィレッジ：Resident Evil Village」最新TPS版でプレイ！イーサンの後ろ姿が観られる👀✨【博衣こより/ホロライブ】
-UID:ul9oAMF68og
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Taste Test】 SNOT Reviews Halloween Snacks\nhttps://www.youtube.com/watch?v=Lmjg-GD4d_8
 DURATION:PT2H
 DTSTART:20221028T221500Z
@@ -39,18 +32,18 @@ SUMMARY:水無世燐央: 【Minecraft】同期とエンダードラゴン討伐�
 UID:U1M_oUcl6KM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】ゾンビ (Zombies) - COVER by Kureiji Ollie\nhttps://www.youtube.com/watch?v=hWr9Xj7MI0Y
-DURATION:PT2H
-DTSTART:20221029T090000Z
-SUMMARY:Ollie: 【歌ってみた】ゾンビ (Zombies) - COVER by Kureiji Ollie
-UID:hWr9Xj7MI0Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Settlement Survival】山を切り開き町を作れ！そして長生きしろ！なゲーム【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=GmPL_3kzRFI
 DURATION:PT2H
 DTSTART:20221030T080000Z
 SUMMARY:🍕アルランディス: 【Settlement Survival】山を切り開き町を作れ！そして長生きしろ！なゲーム【アルランディス/ホロスターズ】
 UID:GmPL_3kzRFI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌ってみた】ゾンビ (Zombies) - COVER by Kureiji Ollie\nhttps://www.youtube.com/watch?v=hWr9Xj7MI0Y
+DURATION:PT2H
+DTSTART:20221029T090000Z
+SUMMARY:Ollie: 【歌ってみた】ゾンビ (Zombies) - COVER by Kureiji Ollie
+UID:hWr9Xj7MI0Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[ORIGINAL SONG] I'm Greedy - Mori Calliope\nhttps://www.youtube.com/watch?v=DOJOaq22nug
@@ -368,6 +361,13 @@ SUMMARY:⚔白銀ノエル: 最終回！【ゼルダの伝説 ムジュラの仮
 UID:ZG1kXX7fkPc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【弾き語り歌枠】日曜日はまったり【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=DkcXcCsze58
+DURATION:PT2H
+DTSTART:20221030T130000Z
+SUMMARY:⚙律可: 【弾き語り歌枠】日曜日はまったり【律可/ホロスターズ】#りつすた
+UID:DkcXcCsze58
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【リスナー参加型Splatoon3】来たぞクマサン印のサーモンラン！打倒ヨコヅナの時間だ～！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=3rTyZoT_MqU
 DURATION:PT2H
 DTSTART:20221029T100000Z
@@ -501,11 +501,11 @@ SUMMARY:ホロライブ: 【重大発表あり】ホロのご機嫌うるわし�
 UID:xXigk3uL57Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Potion Craft】今夜も、お薬出しときますね💊 #3【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=guqNpoqlHaE
+DESCRIPTION:＃4【 ドラクエV 】ヘンリーと別れ、また新しい冒険へ。【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=TWUW8IOy3_U
 DURATION:PT2H
-DTSTART:20221028T150000Z
-SUMMARY:🐏角巻わため: 【Potion Craft】今夜も、お薬出しときますね💊 #3【角巻わため/ホロライブ４期生】
-UID:guqNpoqlHaE
+DTSTART:20221030T030000Z
+SUMMARY:雪花ラミィ: ＃4【 ドラクエV 】ヘンリーと別れ、また新しい冒険へ。【雪花ラミィ/ホロライブ】
+UID:TWUW8IOy3_U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:だいしきゅーだいしゅき/白上フブキ(cover)\nhttps://www.youtube.com/watch?v=sSIzlmDcywQ
@@ -592,6 +592,13 @@ SUMMARY:🎭アステル・レダ: 【VALORANT】おひるごはんたべたい 
 UID:__Fh3KypUTc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【監視カメラ】お部屋に異常がないかどうか見張るよ！！！【ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=JZ3jZwULHQQ
+DURATION:PT2H
+DTSTART:20221030T090000Z
+SUMMARY:🌲大神ミオ: 【監視カメラ】お部屋に異常がないかどうか見張るよ！！！【ホロライブ/大神ミオ】
+UID:JZ3jZwULHQQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【PHASMOPHOBIA】a new GHOST HUNTING agency is now open !【Ayunda Risu】\nhttps://www.youtube.com/watch?v=NzS_A_xzEIE
 DURATION:PT2H
 DTSTART:20221030T010000Z
@@ -620,10 +627,10 @@ SUMMARY:Zeta: 『Dicey Dungeons』seems oddly familiar (vestia's playing)
 UID:0by9OVpsRe4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Factorio】first chapter v2.【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=RoyxeSpuwEI
+DESCRIPTION:【Potion Craft】今夜も、お薬出しときますね💊 #3【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=guqNpoqlHaE
 DURATION:PT2H
-DTSTART:20221030T020900Z
-SUMMARY:Kaela: 【Factorio】first chapter v2.【Kaela Kovalskia / hololiveID】
-UID:RoyxeSpuwEI
+DTSTART:20221028T150000Z
+SUMMARY:🐏角巻わため: 【Potion Craft】今夜も、お薬出しときますね💊 #3【角巻わため/ホロライブ４期生】
+UID:guqNpoqlHaE
 END:VEVENT
 END:VCALENDAR
