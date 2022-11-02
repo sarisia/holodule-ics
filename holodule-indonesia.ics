@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:🐱「you got a quest!」\nhttps://www.youtube.com/watch?v=_tJmsSufS9I
+DURATION:PT2H
+DTSTART:20221103T050000Z
+SUMMARY:Zeta: 🐱「you got a quest!」
+UID:_tJmsSufS9I
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【RUST】Any Last Words\, Helicopter?【hololive Indonesia 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=9lP2lE0kH7M
 DURATION:PT2H
 DTSTART:20221102T140000Z
@@ -60,6 +67,13 @@ SUMMARY:Ollie: LEFT RIGH LEFT RIGHT
 UID:5s2PpAbiRok
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【PHOGS】LET'S END THIS!  w/ @Regis Altare Ch. HOLOSTARS-EN​\nhttps://www.youtube.com/watch?v=fPWfNFMvwPc
+DURATION:PT2H
+DTSTART:20221102T133000Z
+SUMMARY:Kobo: 【PHOGS】LET'S END THIS!  w/ @Regis Altare Ch. HOLOSTARS-EN​
+UID:fPWfNFMvwPc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【FREETALK】SORRY FOR THE WAIT\, MY PC IS FIXED!!【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=fMiMnI-s7eg
 DURATION:PT2H
 DTSTART:20221102T082942Z
@@ -67,17 +81,10 @@ SUMMARY:Ollie: 【FREETALK】SORRY FOR THE WAIT\, MY PC IS FIXED!!【Hololive ID
 UID:fMiMnI-s7eg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🐱「you got a quest!」\nhttps://www.youtube.com/watch?v=_tJmsSufS9I
+DESCRIPTION:【New YABE】ON A WEEKDAY【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=t3FL-WxxAfA
 DURATION:PT2H
-DTSTART:20221103T050000Z
-SUMMARY:Zeta: 🐱「you got a quest!」
-UID:_tJmsSufS9I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Extra Case: My Girlfriend's Secrets】(Un)fortunately\, I'm a Completionist【Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=3f-HZUpoQOc
-DURATION:PT2H
-DTSTART:20221102T143000Z
-SUMMARY:Reine: 【Extra Case: My Girlfriend's Secrets】(Un)fortunately\, I'm a Completionist【Reine/hololiveID 2nd gen】
-UID:3f-HZUpoQOc
+DTSTART:20221103T040000Z
+SUMMARY:Reine: 【New YABE】ON A WEEKDAY【Pavolia Reine/hololiveID 2nd gen】
+UID:t3FL-WxxAfA
 END:VEVENT
 END:VCALENDAR
