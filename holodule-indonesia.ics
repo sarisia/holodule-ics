@@ -18,18 +18,18 @@ SUMMARY:🐿Risu: #RisuNNN  NANI ?!?!?!? #NNN
 UID:UCeqCwv4MSs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Extra Case: My Girlfriend's Secrets】(Un)fortunately\, I'm a Completionist【Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=3f-HZUpoQOc
-DURATION:PT2H
-DTSTART:20221102T143000Z
-SUMMARY:Reine: 【Extra Case: My Girlfriend's Secrets】(Un)fortunately\, I'm a Completionist【Reine/hololiveID 2nd gen】
-UID:3f-HZUpoQOc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【RUST】Spending RUST Season 4 Last Day Without Regret! Pt.2【holoID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=9rsfAgm6f6k
 DURATION:PT2H
 DTSTART:20221103T130000Z
 SUMMARY:Anya: 【RUST】Spending RUST Season 4 Last Day Without Regret! Pt.2【holoID 2nd Generation | Anya Melfissa】
 UID:9rsfAgm6f6k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MoonMellowTalk】Trying not to laugh with your funny stories\, i swear.【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=bXcp0aLFuV8
+DURATION:PT2H
+DTSTART:20221103T120000Z
+SUMMARY:🔮Moona: 【MoonMellowTalk】Trying not to laugh with your funny stories\, i swear.【Moona Hoshinova】
+UID:bXcp0aLFuV8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Pikuniku】happy game【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=3H8qBkmaPcE
@@ -44,6 +44,13 @@ DURATION:PT2H
 DTSTART:20221103T082942Z
 SUMMARY:Ollie: 【The Caregiver | 終焉介護】ALRIGHT GRANDPA LET'S GET YOU TO BED【Hololive ID 2nd Gen】
 UID:vTv_10k6__M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Raft】chill night after a very busy day【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=YgWdUJ9HoOQ
+DURATION:PT2H
+DTSTART:20221103T142100Z
+SUMMARY:Kaela: 【Raft】chill night after a very busy day【Kaela Kovalskia / hololiveID】
+UID:YgWdUJ9HoOQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:LEFT RIGH LEFT RIGHT\nhttps://www.youtube.com/watch?v=5s2PpAbiRok
@@ -88,6 +95,13 @@ SUMMARY:Kobo: 【DOTA 2】Minggir\, pro pleyer mo main
 UID:AEvst2M1WJI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【New YABE】ON A WEEKDAY【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=t3FL-WxxAfA
+DURATION:PT2H
+DTSTART:20221103T040000Z
+SUMMARY:Reine: 【New YABE】ON A WEEKDAY【Pavolia Reine/hololiveID 2nd gen】
+UID:t3FL-WxxAfA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#RisuNNN  THIS IS WHAT HAPPEN IF YOU DON'T DO #NNN\nhttps://www.youtube.com/watch?v=80iJDGD8-v0
 DURATION:PT2H
 DTSTART:20221102T150009Z
@@ -123,10 +137,10 @@ SUMMARY:Zeta: 🐱「you got a quest!」
 UID:_tJmsSufS9I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【New YABE】ON A WEEKDAY【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=t3FL-WxxAfA
+DESCRIPTION:【Extra Case: My Girlfriend's Secrets】(Un)fortunately\, I'm a Completionist【Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=3f-HZUpoQOc
 DURATION:PT2H
-DTSTART:20221103T040000Z
-SUMMARY:Reine: 【New YABE】ON A WEEKDAY【Pavolia Reine/hololiveID 2nd gen】
-UID:t3FL-WxxAfA
+DTSTART:20221102T143000Z
+SUMMARY:Reine: 【Extra Case: My Girlfriend's Secrets】(Un)fortunately\, I'm a Completionist【Reine/hololiveID 2nd gen】
+UID:3f-HZUpoQOc
 END:VEVENT
 END:VCALENDAR
