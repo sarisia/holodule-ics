@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:#RisuNNN WE WELCOME THE MESSENGER OF #NNN\nhttps://www.youtube.com/watch?v=qQDdZllISGU
+DURATION:PT2H
+DTSTART:20221103T150036Z
+SUMMARY:🐿Risu: #RisuNNN WE WELCOME THE MESSENGER OF #NNN
+UID:qQDdZllISGU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【RUST】Spending RUST Season 4 Last Day Without Regret! Pt.1【holoID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=5SAFCbIlq48
 DURATION:PT2H
 DTSTART:20221103T105500Z
@@ -16,6 +23,20 @@ DURATION:PT2H
 DTSTART:20221103T142100Z
 SUMMARY:Kaela: 【Raft】chill night after a very busy day【Kaela Kovalskia / hololiveID】
 UID:YgWdUJ9HoOQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Celebration】Potato?Moontato? 1.23M Subs Celebration and Announcement!【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=EfImoJv6Ffk
+DURATION:PT2H
+DTSTART:20221104T130000Z
+SUMMARY:🔮Moona: 【Celebration】Potato?Moontato? 1.23M Subs Celebration and Announcement!【Moona Hoshinova】
+UID:EfImoJv6Ffk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DOTA 2】Minggir\, pro pleyer mo main\nhttps://www.youtube.com/watch?v=AEvst2M1WJI
+DURATION:PT2H
+DTSTART:20221103T130000Z
+SUMMARY:Kobo: 【DOTA 2】Minggir\, pro pleyer mo main
+UID:AEvst2M1WJI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】Spending RUST Season 4 Last Day Without Regret! Pt.2【holoID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=9rsfAgm6f6k
