@@ -4,10 +4,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【RUST】Spending RUST Season 4 Last Day Without Regret!【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=5SAFCbIlq48
+DESCRIPTION:【RUST】Spending RUST Season 4 Last Day Without Regret! Pt.1【holoID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=5SAFCbIlq48
 DURATION:PT2H
 DTSTART:20221103T105500Z
-SUMMARY:Anya: 【RUST】Spending RUST Season 4 Last Day Without Regret!【hololive ID 2nd Generation | Anya Melfissa】
+SUMMARY:Anya: 【RUST】Spending RUST Season 4 Last Day Without Regret! Pt.1【holoID 2nd Generation | Anya Melfissa】
 UID:5SAFCbIlq48
 END:VEVENT
 BEGIN:VEVENT
@@ -18,11 +18,11 @@ SUMMARY:🐿Risu: #RisuNNN  NANI ?!?!?!? #NNN
 UID:UCeqCwv4MSs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Extra Case: My Girlfriend's Secrets】(Un)fortunately\, I'm a Completionist【Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=3f-HZUpoQOc
+DESCRIPTION:【RUST】Spending RUST Season 4 Last Day Without Regret! Pt.2【holoID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=9rsfAgm6f6k
 DURATION:PT2H
-DTSTART:20221102T143000Z
-SUMMARY:Reine: 【Extra Case: My Girlfriend's Secrets】(Un)fortunately\, I'm a Completionist【Reine/hololiveID 2nd gen】
-UID:3f-HZUpoQOc
+DTSTART:20221103T130000Z
+SUMMARY:Anya: 【RUST】Spending RUST Season 4 Last Day Without Regret! Pt.2【holoID 2nd Generation | Anya Melfissa】
+UID:9rsfAgm6f6k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MoonMellowTalk】Trying not to laugh with your funny stories\, i swear.【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=bXcp0aLFuV8
@@ -30,13 +30,6 @@ DURATION:PT2H
 DTSTART:20221103T120000Z
 SUMMARY:🔮Moona: 【MoonMellowTalk】Trying not to laugh with your funny stories\, i swear.【Moona Hoshinova】
 UID:bXcp0aLFuV8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BACK4BLOOD】WE'RE BACK TO SLAY MORE ZOMBIES【Ayunda Risu】\nhttps://www.youtube.com/watch?v=GZWuz1ZAksU
-DURATION:PT2H
-DTSTART:20221103T140000Z
-SUMMARY:🐿Risu: 【BACK4BLOOD】WE'RE BACK TO SLAY MORE ZOMBIES【Ayunda Risu】
-UID:GZWuz1ZAksU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Pikuniku】happy game【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=3H8qBkmaPcE
@@ -88,6 +81,20 @@ SUMMARY:Anya: 【RUST】Any Last Words\, Helicopter?【hololive Indonesia 2nd Ge
 UID:9lP2lE0kH7M
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【DOTA 2】Minggir\, pro pleyer mo main\nhttps://www.youtube.com/watch?v=AEvst2M1WJI
+DURATION:PT2H
+DTSTART:20221103T130000Z
+SUMMARY:Kobo: 【DOTA 2】Minggir\, pro pleyer mo main
+UID:AEvst2M1WJI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【New YABE】ON A WEEKDAY【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=t3FL-WxxAfA
+DURATION:PT2H
+DTSTART:20221103T040000Z
+SUMMARY:Reine: 【New YABE】ON A WEEKDAY【Pavolia Reine/hololiveID 2nd gen】
+UID:t3FL-WxxAfA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#RisuNNN  THIS IS WHAT HAPPEN IF YOU DON'T DO #NNN\nhttps://www.youtube.com/watch?v=80iJDGD8-v0
 DURATION:PT2H
 DTSTART:20221102T150009Z
@@ -104,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】とりあえずエンダードラゴンを倒そう【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=3gMdFwepI28
 DURATION:PT2H
-DTSTART:20221103T120000Z
+DTSTART:20221103T115942Z
 SUMMARY:Ollie: 【MINECRAFT】とりあえずエンダードラゴンを倒そう【Hololive ID 2nd Gen】
 UID:3gMdFwepI28
 END:VEVENT
@@ -123,10 +130,10 @@ SUMMARY:Zeta: 🐱「you got a quest!」
 UID:_tJmsSufS9I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【New YABE】ON A WEEKDAY【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=t3FL-WxxAfA
+DESCRIPTION:【Extra Case: My Girlfriend's Secrets】(Un)fortunately\, I'm a Completionist【Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=3f-HZUpoQOc
 DURATION:PT2H
-DTSTART:20221103T040000Z
-SUMMARY:Reine: 【New YABE】ON A WEEKDAY【Pavolia Reine/hololiveID 2nd gen】
-UID:t3FL-WxxAfA
+DTSTART:20221102T143000Z
+SUMMARY:Reine: 【Extra Case: My Girlfriend's Secrets】(Un)fortunately\, I'm a Completionist【Reine/hololiveID 2nd gen】
+UID:3f-HZUpoQOc
 END:VEVENT
 END:VCALENDAR
