@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【It Takes Two】Bring It With @Kaela Kovalskia Ch. hololive-ID\nhttps://www.youtube.com/watch?v=VSObHANybk0
+DESCRIPTION:holoweEN Episode 3: Ophanim [Ninomae Ina'nis\, Nanashi Mumei\, Ouro Kronii]\nhttps://www.youtube.com/watch?v=OR9pvITHH24
 DURATION:PT2H
-DTSTART:20221103T030000Z
-SUMMARY:Kronii: 【It Takes Two】Bring It With @Kaela Kovalskia Ch. hololive-ID
-UID:VSObHANybk0
+DTSTART:20221104T030000Z
+SUMMARY:ENholo: holoweEN Episode 3: Ophanim [Ninomae Ina'nis\, Nanashi Mumei\, Ouro Kronii]
+UID:OR9pvITHH24
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RESIDENT EVIL VILLAGE: SHADOWS OF ROSE】mold...home\nhttps://www.youtube.com/watch?v=OKFm4d20NJU
@@ -30,5 +30,12 @@ DURATION:PT2H
 DTSTART:20221103T150000Z
 SUMMARY:Kiara: 【The Mortuary Assistant】Birbs inspect DEAD BODIES  #kfp #キアライブ
 UID:rHS_RXKNPBo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【It Takes Two】Bring It With @Kaela Kovalskia Ch. hololive-ID\nhttps://www.youtube.com/watch?v=VSObHANybk0
+DURATION:PT2H
+DTSTART:20221103T030000Z
+SUMMARY:Kronii: 【It Takes Two】Bring It With @Kaela Kovalskia Ch. hololive-ID
+UID:VSObHANybk0
 END:VEVENT
 END:VCALENDAR
