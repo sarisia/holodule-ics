@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:#RisuNNN WE WELCOME THE MESSENGER OF #NNN\nhttps://www.youtube.com/watch?v=qQDdZllISGU
-DURATION:PT2H
-DTSTART:20221103T150036Z
-SUMMARY:🐿Risu: #RisuNNN WE WELCOME THE MESSENGER OF #NNN
-UID:qQDdZllISGU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【RUST】Spending RUST Season 4 Last Day Without Regret! Pt.1【holoID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=5SAFCbIlq48
 DURATION:PT2H
 DTSTART:20221103T105500Z
@@ -18,25 +11,11 @@ SUMMARY:Anya: 【RUST】Spending RUST Season 4 Last Day Without Regret! Pt.1【h
 UID:5SAFCbIlq48
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Raft】chill night after a very busy day【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=YgWdUJ9HoOQ
+DESCRIPTION:【Delivering Hope】i play\, we do random talk【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=CKbR7kNpiTI
 DURATION:PT2H
-DTSTART:20221103T142100Z
-SUMMARY:Kaela: 【Raft】chill night after a very busy day【Kaela Kovalskia / hololiveID】
-UID:YgWdUJ9HoOQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Celebration】Potato?Moontato? 1.23M Subs Celebration and Announcement!【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=EfImoJv6Ffk
-DURATION:PT2H
-DTSTART:20221104T130000Z
-SUMMARY:🔮Moona: 【Celebration】Potato?Moontato? 1.23M Subs Celebration and Announcement!【Moona Hoshinova】
-UID:EfImoJv6Ffk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DOTA 2】Minggir\, pro pleyer mo main\nhttps://www.youtube.com/watch?v=AEvst2M1WJI
-DURATION:PT2H
-DTSTART:20221103T130000Z
-SUMMARY:Kobo: 【DOTA 2】Minggir\, pro pleyer mo main
-UID:AEvst2M1WJI
+DTSTART:20221104T063100Z
+SUMMARY:Kaela: 【Delivering Hope】i play\, we do random talk【Kaela Kovalskia / hololiveID】
+UID:CKbR7kNpiTI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】Spending RUST Season 4 Last Day Without Regret! Pt.2【holoID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=9rsfAgm6f6k
@@ -53,6 +32,55 @@ SUMMARY:🔮Moona: 【MoonMellowTalk】Trying not to laugh with your funny stori
 UID:bXcp0aLFuV8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Raft】chill night after a very busy day【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=YgWdUJ9HoOQ
+DURATION:PT2H
+DTSTART:20221103T142100Z
+SUMMARY:Kaela: 【Raft】chill night after a very busy day【Kaela Kovalskia / hololiveID】
+UID:YgWdUJ9HoOQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Celebration】Potato?Moontato? 1.23M Subs Celebration and Announcement!【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=EfImoJv6Ffk
+DURATION:PT2H
+DTSTART:20221104T130000Z
+SUMMARY:🔮Moona: 【Celebration】Potato?Moontato? 1.23M Subs Celebration and Announcement!【Moona Hoshinova】
+UID:EfImoJv6Ffk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【The Caregiver | 終焉介護】ALRIGHT GRANDPA LET'S GET YOU TO BED【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=vTv_10k6__M
+DURATION:PT2H
+DTSTART:20221103T082942Z
+SUMMARY:Ollie: 【The Caregiver | 終焉介護】ALRIGHT GRANDPA LET'S GET YOU TO BED【Hololive ID 2nd Gen】
+UID:vTv_10k6__M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PHASMOPHOBIA】怖くて先に死んじゃいそう w/Pochi\, Kuku\, Axel【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=QDPZyHiw3lE
+DURATION:PT2H
+DTSTART:20221104T110000Z
+SUMMARY:Ollie: 【PHASMOPHOBIA】怖くて先に死んじゃいそう w/Pochi\, Kuku\, Axel【Hololive ID 2nd Gen】
+UID:QDPZyHiw3lE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【WALKING】In The Void With Pavolia Reine (on VR)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=cJh3CPaG0Zg
+DURATION:PT2H
+DTSTART:20221103T114500Z
+SUMMARY:Reine: 【WALKING】In The Void With Pavolia Reine (on VR)【Pavolia Reine/hololiveID 2nd gen】
+UID:cJh3CPaG0Zg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#RisuNNN WE WELCOME THE MESSENGER OF #NNN\nhttps://www.youtube.com/watch?v=qQDdZllISGU
+DURATION:PT2H
+DTSTART:20221103T150036Z
+SUMMARY:🐿Risu: #RisuNNN WE WELCOME THE MESSENGER OF #NNN
+UID:qQDdZllISGU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DOTA 2】Minggir\, pro pleyer mo main\nhttps://www.youtube.com/watch?v=AEvst2M1WJI
+DURATION:PT2H
+DTSTART:20221103T130000Z
+SUMMARY:Kobo: 【DOTA 2】Minggir\, pro pleyer mo main
+UID:AEvst2M1WJI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#RisuNNN  THIS IS WHAT HAPPEN IF YOU DON'T DO #NNN\nhttps://www.youtube.com/watch?v=80iJDGD8-v0
 DURATION:PT2H
 DTSTART:20221102T150009Z
@@ -67,32 +95,11 @@ SUMMARY:Ollie: 【MINECRAFT】とりあえずエンダードラゴンを倒そ�
 UID:3gMdFwepI28
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【The Caregiver | 終焉介護】ALRIGHT GRANDPA LET'S GET YOU TO BED【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=vTv_10k6__M
-DURATION:PT2H
-DTSTART:20221103T082942Z
-SUMMARY:Ollie: 【The Caregiver | 終焉介護】ALRIGHT GRANDPA LET'S GET YOU TO BED【Hololive ID 2nd Gen】
-UID:vTv_10k6__M
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】H-1 PRACTICING FOR THE SPORTS FESTIVAL!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=y-siwFNmTxE
 DURATION:PT2H
 DTSTART:20221105T120000Z
 SUMMARY:Ollie: 【MINECRAFT】H-1 PRACTICING FOR THE SPORTS FESTIVAL!!【Hololive Indonesia 2nd Gen】
 UID:y-siwFNmTxE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【WALKING】In The Void With Pavolia Reine (on VR)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=cJh3CPaG0Zg
-DURATION:PT2H
-DTSTART:20221103T114500Z
-SUMMARY:Reine: 【WALKING】In The Void With Pavolia Reine (on VR)【Pavolia Reine/hololiveID 2nd gen】
-UID:cJh3CPaG0Zg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PHASMOPHOBIA】怖くて先に死んじゃいそう w/Pochi\, Kuku\, Axel【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=QDPZyHiw3lE
-DURATION:PT2H
-DTSTART:20221104T110000Z
-SUMMARY:Ollie: 【PHASMOPHOBIA】怖くて先に死んじゃいそう w/Pochi\, Kuku\, Axel【Hololive ID 2nd Gen】
-UID:QDPZyHiw3lE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🐱「you got a quest!」\nhttps://www.youtube.com/watch?v=_tJmsSufS9I
