@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:#RisuNNN WE WELCOME THE MESSENGER OF #NNN\nhttps://www.youtube.com/watch?v=qQDdZllISGU
+DURATION:PT2H
+DTSTART:20221103T150036Z
+SUMMARY:🐿Risu: #RisuNNN WE WELCOME THE MESSENGER OF #NNN
+UID:qQDdZllISGU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Raft】trying to build a tower【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=wvy_Z4uLAjQ
 DURATION:PT2H
 DTSTART:20221104T141500Z
@@ -11,11 +18,18 @@ SUMMARY:Kaela: 【Raft】trying to build a tower【Kaela Kovalskia / hololiveID�
 UID:wvy_Z4uLAjQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RUST】Spending RUST Season 4 Last Day Without Regret! Pt.1【holoID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=5SAFCbIlq48
+DESCRIPTION:【Overwatch 2】This Is My First OW【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=mJoKm6VsR5o
 DURATION:PT2H
-DTSTART:20221103T105500Z
-SUMMARY:Anya: 【RUST】Spending RUST Season 4 Last Day Without Regret! Pt.1【holoID 2nd Generation | Anya Melfissa】
-UID:5SAFCbIlq48
+DTSTART:20221104T150000Z
+SUMMARY:Anya: 【Overwatch 2】This Is My First OW【hololive ID 2nd Generation | Anya Melfissa】
+UID:mJoKm6VsR5o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Cyberpunk】First time playing this!【Moona | Geemoon】\nhttps://www.youtube.com/watch?v=3DRy8wDYbMA
+DURATION:PT2H
+DTSTART:20221105T070000Z
+SUMMARY:🔮Moona: 【Cyberpunk】First time playing this!【Moona | Geemoon】
+UID:3DRy8wDYbMA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Delivering Hope】i play\, we do random talk【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=CKbR7kNpiTI
@@ -32,23 +46,9 @@ SUMMARY:Zeta: 『Overwatch 2』with the gang
 UID:97azztOpwFg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RUST】Spending RUST Season 4 Last Day Without Regret! Pt.2【holoID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=9rsfAgm6f6k
-DURATION:PT2H
-DTSTART:20221103T130000Z
-SUMMARY:Anya: 【RUST】Spending RUST Season 4 Last Day Without Regret! Pt.2【holoID 2nd Generation | Anya Melfissa】
-UID:9rsfAgm6f6k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MoonMellowTalk】Trying not to laugh with your funny stories\, i swear.【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=bXcp0aLFuV8
-DURATION:PT2H
-DTSTART:20221103T120000Z
-SUMMARY:🔮Moona: 【MoonMellowTalk】Trying not to laugh with your funny stories\, i swear.【Moona Hoshinova】
-UID:bXcp0aLFuV8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【OVERWATCH 2】HEROES NEVER DIE!! ... they only respawn w/Anya\, Zeta\, Kobo【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=c0HEwNtq-yI
 DURATION:PT2H
-DTSTART:20221104T150000Z
+DTSTART:20221104T150215Z
 SUMMARY:Ollie: 【OVERWATCH 2】HEROES NEVER DIE!! ... they only respawn w/Anya\, Zeta\, Kobo【Hololive ID 2nd Gen】
 UID:c0HEwNtq-yI
 END:VEVENT
@@ -60,18 +60,11 @@ SUMMARY:Kobo: 【Overwatch 2】Nyoba-nyoba pew pew pew
 UID:Vql3Rk_ag7A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【The Caregiver | 終焉介護】ALRIGHT GRANDPA LET'S GET YOU TO BED【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=vTv_10k6__M
+DESCRIPTION:#RisuNNN D.N (Deez NutZ) : the movie trailer #NNN\nhttps://www.youtube.com/watch?v=8BBh0EPdtPU
 DURATION:PT2H
-DTSTART:20221103T082942Z
-SUMMARY:Ollie: 【The Caregiver | 終焉介護】ALRIGHT GRANDPA LET'S GET YOU TO BED【Hololive ID 2nd Gen】
-UID:vTv_10k6__M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Raft】chill night after a very busy day【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=YgWdUJ9HoOQ
-DURATION:PT2H
-DTSTART:20221103T142100Z
-SUMMARY:Kaela: 【Raft】chill night after a very busy day【Kaela Kovalskia / hololiveID】
-UID:YgWdUJ9HoOQ
+DTSTART:20221104T150004Z
+SUMMARY:🐿Risu: #RisuNNN D.N (Deez NutZ) : the movie trailer #NNN
+UID:8BBh0EPdtPU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Celebration】Potato?Moontato? 1.23M Subs Celebration and Announcement!【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=EfImoJv6Ffk
@@ -81,55 +74,6 @@ SUMMARY:🔮Moona: 【Celebration】Potato?Moontato? 1.23M Subs Celebration and 
 UID:EfImoJv6Ffk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【PHASMOPHOBIA】怖くて先に死んじゃいそう w/Pochi\, Kuku\, Axel【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=QDPZyHiw3lE
-DURATION:PT2H
-DTSTART:20221104T105939Z
-SUMMARY:Ollie: 【PHASMOPHOBIA】怖くて先に死んじゃいそう w/Pochi\, Kuku\, Axel【Hololive ID 2nd Gen】
-UID:QDPZyHiw3lE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【WALKING】In The Void With Pavolia Reine (on VR)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=cJh3CPaG0Zg
-DURATION:PT2H
-DTSTART:20221103T114500Z
-SUMMARY:Reine: 【WALKING】In The Void With Pavolia Reine (on VR)【Pavolia Reine/hololiveID 2nd gen】
-UID:cJh3CPaG0Zg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#RisuNNN WE WELCOME THE MESSENGER OF #NNN\nhttps://www.youtube.com/watch?v=qQDdZllISGU
-DURATION:PT2H
-DTSTART:20221103T150036Z
-SUMMARY:🐿Risu: #RisuNNN WE WELCOME THE MESSENGER OF #NNN
-UID:qQDdZllISGU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Overwatch 2】This Is My First OW【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=mJoKm6VsR5o
-DURATION:PT2H
-DTSTART:20221104T150000Z
-SUMMARY:Anya: 【Overwatch 2】This Is My First OW【hololive ID 2nd Generation | Anya Melfissa】
-UID:mJoKm6VsR5o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DOTA 2】Minggir\, pro pleyer mo main\nhttps://www.youtube.com/watch?v=AEvst2M1WJI
-DURATION:PT2H
-DTSTART:20221103T130000Z
-SUMMARY:Kobo: 【DOTA 2】Minggir\, pro pleyer mo main
-UID:AEvst2M1WJI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#RisuNNN  THIS IS WHAT HAPPEN IF YOU DON'T DO #NNN\nhttps://www.youtube.com/watch?v=80iJDGD8-v0
-DURATION:PT2H
-DTSTART:20221102T150009Z
-SUMMARY:🐿Risu: #RisuNNN  THIS IS WHAT HAPPEN IF YOU DON'T DO #NNN
-UID:80iJDGD8-v0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】とりあえずエンダードラゴンを倒そう【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=3gMdFwepI28
-DURATION:PT2H
-DTSTART:20221103T115942Z
-SUMMARY:Ollie: 【MINECRAFT】とりあえずエンダードラゴンを倒そう【Hololive ID 2nd Gen】
-UID:3gMdFwepI28
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】H-1 PRACTICING FOR THE SPORTS FESTIVAL!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=y-siwFNmTxE
 DURATION:PT2H
 DTSTART:20221105T120000Z
@@ -137,17 +81,10 @@ SUMMARY:Ollie: 【MINECRAFT】H-1 PRACTICING FOR THE SPORTS FESTIVAL!!【Hololiv
 UID:y-siwFNmTxE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🐱「you got a quest!」\nhttps://www.youtube.com/watch?v=_tJmsSufS9I
+DESCRIPTION:【PHASMOPHOBIA】怖くて先に死んじゃいそう w/Pochi\, Kuku\, Axel【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=QDPZyHiw3lE
 DURATION:PT2H
-DTSTART:20221103T050000Z
-SUMMARY:Zeta: 🐱「you got a quest!」
-UID:_tJmsSufS9I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【New YABE】ON A WEEKDAY【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=t3FL-WxxAfA
-DURATION:PT2H
-DTSTART:20221103T040000Z
-SUMMARY:Reine: 【New YABE】ON A WEEKDAY【Pavolia Reine/hololiveID 2nd gen】
-UID:t3FL-WxxAfA
+DTSTART:20221104T105939Z
+SUMMARY:Ollie: 【PHASMOPHOBIA】怖くて先に死んじゃいそう w/Pochi\, Kuku\, Axel【Hololive ID 2nd Gen】
+UID:QDPZyHiw3lE
 END:VEVENT
 END:VCALENDAR
