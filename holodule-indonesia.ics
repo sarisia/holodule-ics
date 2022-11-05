@@ -95,13 +95,6 @@ SUMMARY:Kobo: Pohon Willow
 UID:Od_qbACupKE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#RisuNNN D.N (Deez NutZ) : the movie trailer #NNN\nhttps://www.youtube.com/watch?v=8BBh0EPdtPU
-DURATION:PT2H
-DTSTART:20221104T150004Z
-SUMMARY:🐿Risu: #RisuNNN D.N (Deez NutZ) : the movie trailer #NNN
-UID:8BBh0EPdtPU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:FAQ#1: Do you sleep? 💤【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=Fj6PV5HVNw8
 DURATION:PT2H
 DTSTART:20221104T201606Z
@@ -109,9 +102,16 @@ SUMMARY:Kaela: FAQ#1: Do you sleep? 💤【Kaela Kovalskia / hololiveID】
 UID:Fj6PV5HVNw8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:#RisuNNN D.N (Deez NutZ) : the movie trailer #NNN\nhttps://www.youtube.com/watch?v=8BBh0EPdtPU
+DURATION:PT2H
+DTSTART:20221104T150004Z
+SUMMARY:🐿Risu: #RisuNNN D.N (Deez NutZ) : the movie trailer #NNN
+UID:8BBh0EPdtPU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】H-1 PRACTICING FOR THE SPORTS FESTIVAL!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=y-siwFNmTxE
 DURATION:PT2H
-DTSTART:20221105T120000Z
+DTSTART:20221105T120315Z
 SUMMARY:Ollie: 【MINECRAFT】H-1 PRACTICING FOR THE SPORTS FESTIVAL!!【Hololive Indonesia 2nd Gen】
 UID:y-siwFNmTxE
 END:VEVENT
@@ -121,6 +121,13 @@ DURATION:PT2H
 DTSTART:20221105T120000Z
 SUMMARY:Kaela: 【Minecraft】last training before the Day 🏃‍♀️【Kaela Kovalskia / hololiveID】
 UID:5PRIYnjV3AU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】SPORTS FESTIVAL IS COMING【Pavolia Reine/hololiveID】\nhttps://www.youtube.com/watch?v=KznwINTBkR0
+DURATION:PT2H
+DTSTART:20221105T120000Z
+SUMMARY:Reine: 【MINECRAFT】SPORTS FESTIVAL IS COMING【Pavolia Reine/hololiveID】
+UID:KznwINTBkR0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Membership】Training and have fun【MoonUtau】\nhttps://www.youtube.com/watch?v=fL4Q_6O55-M
