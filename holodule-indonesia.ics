@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:#RisuNNN WE WELCOME THE MESSENGER OF #NNN\nhttps://www.youtube.com/watch?v=qQDdZllISGU
-DURATION:PT2H
-DTSTART:20221103T150036Z
-SUMMARY:🐿Risu: #RisuNNN WE WELCOME THE MESSENGER OF #NNN
-UID:qQDdZllISGU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Raft】trying to build a tower【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=wvy_Z4uLAjQ
 DURATION:PT2H
 DTSTART:20221104T141500Z
 SUMMARY:Kaela: 【Raft】trying to build a tower【Kaela Kovalskia / hololiveID】
 UID:wvy_Z4uLAjQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Overwatch 2】This Is My First OW【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=mJoKm6VsR5o
-DURATION:PT2H
-DTSTART:20221104T150000Z
-SUMMARY:Anya: 【Overwatch 2】This Is My First OW【hololive ID 2nd Generation | Anya Melfissa】
-UID:mJoKm6VsR5o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Delivering Hope】i play\, we do random talk【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=CKbR7kNpiTI
@@ -60,18 +46,11 @@ SUMMARY:Kobo: 【Overwatch 2】Warm-Up Overwatch
 UID:Vql3Rk_ag7A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】H-1 PRACTICING FOR THE SPORTS FESTIVAL!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=y-siwFNmTxE
+DESCRIPTION:【Honey\, I Joined a Cult】let's see what we can do【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=pAJAGm_WkPY
 DURATION:PT2H
-DTSTART:20221105T120000Z
-SUMMARY:Ollie: 【MINECRAFT】H-1 PRACTICING FOR THE SPORTS FESTIVAL!!【Hololive Indonesia 2nd Gen】
-UID:y-siwFNmTxE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#RisuNNN D.N (Deez NutZ) : the movie trailer #NNN\nhttps://www.youtube.com/watch?v=8BBh0EPdtPU
-DURATION:PT2H
-DTSTART:20221104T150004Z
-SUMMARY:🐿Risu: #RisuNNN D.N (Deez NutZ) : the movie trailer #NNN
-UID:8BBh0EPdtPU
+DTSTART:20221105T080300Z
+SUMMARY:Kaela: 【Honey\, I Joined a Cult】let's see what we can do【Kaela Kovalskia / hololiveID】
+UID:pAJAGm_WkPY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Celebration】Potato?Moontato? 1.23M Subs Celebration and Announcement!【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=EfImoJv6Ffk
@@ -81,11 +60,25 @@ SUMMARY:🔮Moona: 【Celebration】Potato?Moontato? 1.23M Subs Celebration and 
 UID:EfImoJv6Ffk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:FAQ#1: Do you sleep? 💤【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=Fj6PV5HVNw8
+DESCRIPTION:【PHASMOPHOBIA】怖くて先に死んじゃいそう w/Pochi\, Kuku\, Axel【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=QDPZyHiw3lE
 DURATION:PT2H
-DTSTART:20221104T201606Z
-SUMMARY:Kaela: FAQ#1: Do you sleep? 💤【Kaela Kovalskia / hololiveID】
-UID:Fj6PV5HVNw8
+DTSTART:20221104T105939Z
+SUMMARY:Ollie: 【PHASMOPHOBIA】怖くて先に死んじゃいそう w/Pochi\, Kuku\, Axel【Hololive ID 2nd Gen】
+UID:QDPZyHiw3lE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#RisuNNN WE WELCOME THE MESSENGER OF #NNN\nhttps://www.youtube.com/watch?v=qQDdZllISGU
+DURATION:PT2H
+DTSTART:20221103T150036Z
+SUMMARY:🐿Risu: #RisuNNN WE WELCOME THE MESSENGER OF #NNN
+UID:qQDdZllISGU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Overwatch 2】This Is My First OW【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=mJoKm6VsR5o
+DURATION:PT2H
+DTSTART:20221104T150000Z
+SUMMARY:Anya: 【Overwatch 2】This Is My First OW【hololive ID 2nd Generation | Anya Melfissa】
+UID:mJoKm6VsR5o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Pohon Willow\nhttps://www.youtube.com/watch?v=Od_qbACupKE
@@ -95,10 +88,38 @@ SUMMARY:Kobo: Pohon Willow
 UID:Od_qbACupKE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【PHASMOPHOBIA】怖くて先に死んじゃいそう w/Pochi\, Kuku\, Axel【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=QDPZyHiw3lE
+DESCRIPTION:#RisuNNN D.N (Deez NutZ) : the movie trailer #NNN\nhttps://www.youtube.com/watch?v=8BBh0EPdtPU
 DURATION:PT2H
-DTSTART:20221104T105939Z
-SUMMARY:Ollie: 【PHASMOPHOBIA】怖くて先に死んじゃいそう w/Pochi\, Kuku\, Axel【Hololive ID 2nd Gen】
-UID:QDPZyHiw3lE
+DTSTART:20221104T150004Z
+SUMMARY:🐿Risu: #RisuNNN D.N (Deez NutZ) : the movie trailer #NNN
+UID:8BBh0EPdtPU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:FAQ#1: Do you sleep? 💤【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=Fj6PV5HVNw8
+DURATION:PT2H
+DTSTART:20221104T201606Z
+SUMMARY:Kaela: FAQ#1: Do you sleep? 💤【Kaela Kovalskia / hololiveID】
+UID:Fj6PV5HVNw8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】H-1 PRACTICING FOR THE SPORTS FESTIVAL!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=y-siwFNmTxE
+DURATION:PT2H
+DTSTART:20221105T120000Z
+SUMMARY:Ollie: 【MINECRAFT】H-1 PRACTICING FOR THE SPORTS FESTIVAL!!【Hololive Indonesia 2nd Gen】
+UID:y-siwFNmTxE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】last training before the Day 🏃‍♀️【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=5PRIYnjV3AU
+DURATION:PT2H
+DTSTART:20221105T120000Z
+SUMMARY:Kaela: 【Minecraft】last training before the Day 🏃‍♀️【Kaela Kovalskia / hololiveID】
+UID:5PRIYnjV3AU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Membership】Training and have fun【MoonUtau】\nhttps://www.youtube.com/watch?v=fL4Q_6O55-M
+DURATION:PT2H
+DTSTART:20221105T130000Z
+SUMMARY:🔮Moona: 【Membership】Training and have fun【MoonUtau】
+UID:fL4Q_6O55-M
 END:VEVENT
 END:VCALENDAR
