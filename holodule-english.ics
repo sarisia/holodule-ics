@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:holoweEN Episode 3: Ophanim [Ninomae Ina'nis\, Nanashi Mumei\, Ouro Kronii]\nhttps://www.youtube.com/watch?v=OR9pvITHH24
+DESCRIPTION:【SUPERS】smash smash smash smash smash\nhttps://www.youtube.com/watch?v=QtO34Ud1u2k
 DURATION:PT2H
-DTSTART:20221104T030000Z
-SUMMARY:ENholo: holoweEN Episode 3: Ophanim [Ninomae Ina'nis\, Nanashi Mumei\, Ouro Kronii]
-UID:OR9pvITHH24
+DTSTART:20221105T160000Z
+SUMMARY:Calli: 【SUPERS】smash smash smash smash smash
+UID:QtO34Ud1u2k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪MEMBERS ONLY≫ talking rat\nhttps://www.youtube.com/watch?v=SNFvaMJxrqU
@@ -25,13 +25,6 @@ SUMMARY:Kronii: 【Resident Evil Village】fear
 UID:bJCuw5w8pk4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mumei Rants Part 2\nhttps://www.youtube.com/watch?v=7Wp2XsR9b1M
-DURATION:PT2H
-DTSTART:20221105T021500Z
-SUMMARY:Mumei: Mumei Rants Part 2
-UID:7Wp2XsR9b1M
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【The Entropy Centre】Portal 3 but not really👀 Big Brain Activate (Free codes at the end!) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=HysSd172ZiM
 DURATION:PT2H
 DTSTART:20221104T150000Z
@@ -44,5 +37,26 @@ DURATION:PT2H
 DTSTART:20221103T150000Z
 SUMMARY:Kiara: 【The Mortuary Assistant】Birbs inspect DEAD BODIES  #kfp #キアライブ
 UID:rHS_RXKNPBo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hi】 let's catch up!\nhttps://www.youtube.com/watch?v=Oz8Y4o1ESRg
+DURATION:PT2H
+DTSTART:20221104T220000Z
+SUMMARY:Fauna: 【hi】 let's catch up!
+UID:Oz8Y4o1ESRg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mumei Rants Part 2\nhttps://www.youtube.com/watch?v=7Wp2XsR9b1M
+DURATION:PT2H
+DTSTART:20221105T021500Z
+SUMMARY:Mumei: Mumei Rants Part 2
+UID:7Wp2XsR9b1M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:holoweEN Episode 3: Ophanim [Ninomae Ina'nis\, Nanashi Mumei\, Ouro Kronii]\nhttps://www.youtube.com/watch?v=OR9pvITHH24
+DURATION:PT2H
+DTSTART:20221104T030000Z
+SUMMARY:ENholo: holoweEN Episode 3: Ophanim [Ninomae Ina'nis\, Nanashi Mumei\, Ouro Kronii]
+UID:OR9pvITHH24
 END:VEVENT
 END:VCALENDAR
