@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Splatoon3】ついにウデマエS+1になるか！？？バンカラマッチ！！【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=vQZkRsnlaIM
+DURATION:PT2H
+DTSTART:20221105T140000Z
+SUMMARY:🍎アキロゼ: 【Splatoon3】ついにウデマエS+1になるか！？？バンカラマッチ！！【ホロライブ/アキ・ローゼンタール】
+UID:vQZkRsnlaIM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 #ホロライブ運動会2022 】黄組前半戦：常闇トワ視点配信【ホロ黄組】\nhttps://www.youtube.com/watch?v=sBW4unsa9rk
 DURATION:PT2H
 DTSTART:20221106T040000Z
@@ -261,5 +268,12 @@ DURATION:PT2H
 DTSTART:20221105T100000Z
 SUMMARY:☄星街すいせい: 【雑談】休みが終わったみたいです【ホロライブ / 星街すいせい】
 UID:kGo1W_xm9Y0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロライブ運動会2022】白組後半戦：獅白ぼたん視点配信【ホロ白組/Minecraft】\nhttps://www.youtube.com/watch?v=wIEz4YHR9RM
+DURATION:PT2H
+DTSTART:20221106T053000Z
+SUMMARY:獅白ぼたん: 【#ホロライブ運動会2022】白組後半戦：獅白ぼたん視点配信【ホロ白組/Minecraft】
+UID:wIEz4YHR9RM
 END:VEVENT
 END:VCALENDAR
