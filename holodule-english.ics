@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【SETTLEMENT SURVIVAL】Your Guardian of Civilization Is Here To Help!!\nhttps://www.youtube.com/watch?v=vm_bB6gecIQ
-DURATION:PT2H
-DTSTART:20221109T031500Z
-SUMMARY:Mumei: 【SETTLEMENT SURVIVAL】Your Guardian of Civilization Is Here To Help!!
-UID:vm_bB6gecIQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪Taiko no Tatsujin: Drum 'n' Fun!≫ bang bang\nhttps://www.youtube.com/watch?v=DbLCOk8BLog
 DURATION:PT2H
 DTSTART:20221110T011500Z
 SUMMARY:Baelz: ≪Taiko no Tatsujin: Drum 'n' Fun!≫ bang bang
 UID:DbLCOk8BLog
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪Little Nightmares II≫ scaredy rat [SPOILERS]\nhttps://www.youtube.com/watch?v=nmXrZ66gUeg
+DURATION:PT2H
+DTSTART:20221111T010000Z
+SUMMARY:Baelz: ≪Little Nightmares II≫ scaredy rat [SPOILERS]
+UID:nmXrZ66gUeg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Kirby And The Forgotten Land】The End | END\nhttps://www.youtube.com/watch?v=wvcT76BdlWo
@@ -32,38 +32,24 @@ SUMMARY:Calli: 【WATCH-A-LONG】HOLOSTARS CONCERT!! with Magni Dezmond
 UID:CPFWdc89uQQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Overwatch 2】BANNED FROM COMP\nhttps://www.youtube.com/watch?v=YvkmbRH--uU
-DURATION:PT2H
-DTSTART:20221110T030500Z
-SUMMARY:Amelia: 【Overwatch 2】BANNED FROM COMP
-UID:YvkmbRH--uU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪SNACK TIME≫ Trying Austrian Snacks w/ Kiara\nhttps://www.youtube.com/watch?v=owO-TFLtz0s
-DURATION:PT2H
-DTSTART:20221109T090000Z
-SUMMARY:Baelz: ≪SNACK TIME≫ Trying Austrian Snacks w/ Kiara
-UID:owO-TFLtz0s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【TOEM】Taking Pictures\nhttps://www.youtube.com/watch?v=MCncFUKbh0c
-DURATION:PT2H
-DTSTART:20221109T040000Z
-SUMMARY:Kronii: 【TOEM】Taking Pictures
-UID:MCncFUKbh0c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪Little Nightmares II≫ scaredy rat [SPOILERS]\nhttps://www.youtube.com/watch?v=nmXrZ66gUeg
-DURATION:PT2H
-DTSTART:20221111T010000Z
-SUMMARY:Baelz: ≪Little Nightmares II≫ scaredy rat [SPOILERS]
-UID:nmXrZ66gUeg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Frog Detective 3】WILD WILD WEST\nhttps://www.youtube.com/watch?v=XrMHRPOzZmk
 DURATION:PT2H
 DTSTART:20221109T230000Z
 SUMMARY:Amelia: 【Frog Detective 3】WILD WILD WEST
 UID:XrMHRPOzZmk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【KATAMARI DAMACY REROLL】keep rollin' rollin' rollin' rollin' WHAT\nhttps://www.youtube.com/watch?v=N8SYCSway8k
+DURATION:PT2H
+DTSTART:20221111T010000Z
+SUMMARY:Calli: 【KATAMARI DAMACY REROLL】keep rollin' rollin' rollin' rollin' WHAT
+UID:N8SYCSway8k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Overwatch 2】BANNED FROM COMP\nhttps://www.youtube.com/watch?v=YvkmbRH--uU
+DURATION:PT2H
+DTSTART:20221110T030500Z
+SUMMARY:Amelia: 【Overwatch 2】BANNED FROM COMP
+UID:YvkmbRH--uU
 END:VEVENT
 END:VCALENDAR
