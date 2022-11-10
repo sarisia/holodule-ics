@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】メンタルパッションで作る大型建築！だい！ #20【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=r23XnW3wb1I
-DURATION:PT2H
-DTSTART:20221109T070000Z
-SUMMARY:❤赤井はあと: 【Minecraft】メンタルパッションで作る大型建築！だい！ #20【ホロライブ/赤井はあと】
-UID:r23XnW3wb1I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 壺おじ 】寝不足だからおじと一緒に寝よっかな～【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=a5vICLsdr6I
 DURATION:PT2H
 DTSTART:20221109T090000Z
 SUMMARY:桃鈴ねね: 【 壺おじ 】寝不足だからおじと一緒に寝よっかな～【 桃鈴ねね / ホロライブ 】
 UID:a5vICLsdr6I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】メンタルパッションで作る大型建築！だい！ #20【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=r23XnW3wb1I
+DURATION:PT2H
+DTSTART:20221109T070000Z
+SUMMARY:❤赤井はあと: 【Minecraft】メンタルパッションで作る大型建築！だい！ #20【ホロライブ/赤井はあと】
+UID:r23XnW3wb1I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【お釣り計算ゲーム】金数えのプロを見せるぞおおお！！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=G2syxvwFXC4
@@ -60,6 +60,20 @@ SUMMARY:博衣こより: 【同時視聴】劇場版Fate/grand order -神聖円�
 UID:6UgHZ05j2F8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#朝こよ】遂に99回目の朝こよだああああ！ #99【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=WJuBXsMPWvE
+DURATION:PT2H
+DTSTART:20221110T220000Z
+SUMMARY:博衣こより: 【#朝こよ】遂に99回目の朝こよだああああ！ #99【博衣こより/ホロライブ】
+UID:WJuBXsMPWvE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#生スバル】絶対にあくあを攻略したい あくありうむ。リベンジマッチしゅばあああああああああああ！！！/aquarium【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=GS8hzC-yXYg
+DURATION:PT2H
+DTSTART:20221109T110000Z
+SUMMARY:🚑大空スバル: 【#生スバル】絶対にあくあを攻略したい あくありうむ。リベンジマッチしゅばあああああああああああ！！！/aquarium【ホロライブ/大空スバル】
+UID:GS8hzC-yXYg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【あくありうむ。】俺はメイドにやましい想いを抱いていない立派なご主人様だ【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=k_1ET38Os0k
 DURATION:PT2H
 DTSTART:20221109T130000Z
@@ -79,13 +93,6 @@ DURATION:PT2H
 DTSTART:20221109T130000Z
 SUMMARY:鷹嶺ルイ: 【歌枠/singing】かっけ～曲を歌いたい！！！！！！！／ KARAOKE【鷹嶺ルイ/ホロライブ】
 UID:ggY9TkR9cOg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Chloe challenge Cartwheel!!! /沙花叉クロヱの側転チャレンジPart1 #Shorts\nhttps://www.youtube.com/watch?v=FzxHh7LUVIk
-DURATION:PT2H
-DTSTART:20221109T090000Z
-SUMMARY:沙花叉クロヱ: Chloe challenge Cartwheel!!! /沙花叉クロヱの側転チャレンジPart1 #Shorts
-UID:FzxHh7LUVIk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:みんなも一緒に！いぇ〜〜い🙌【ホロライブ/AZKi】#Shorts\nhttps://www.youtube.com/watch?v=DegjKFNsqYM
@@ -179,10 +186,10 @@ SUMMARY:沙花叉クロヱ: Chloe challenge Cartwheel!!! /沙花叉クロヱの�
 UID:zSjO9L6NlfU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#生スバル】絶対にあくあを攻略したい あくありうむ。リベンジマッチしゅばあああああああああああ！！！/aquarium【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=GS8hzC-yXYg
+DESCRIPTION:【Membership Only】雑談メン限♡ひみつのお話しよっ✨【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=Y52QCXog6_Y
 DURATION:PT2H
-DTSTART:20221109T110000Z
-SUMMARY:🚑大空スバル: 【#生スバル】絶対にあくあを攻略したい あくありうむ。リベンジマッチしゅばあああああああああああ！！！/aquarium【ホロライブ/大空スバル】
-UID:GS8hzC-yXYg
+DTSTART:20221110T140000Z
+SUMMARY:博衣こより: 【Membership Only】雑談メン限♡ひみつのお話しよっ✨【博衣こより/ホロライブ】
+UID:Y52QCXog6_Y
 END:VEVENT
 END:VCALENDAR
