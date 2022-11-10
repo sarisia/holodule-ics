@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Unpacking】organizing things【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=3YuwXNgsMaY
-DURATION:PT2H
-DTSTART:20221110T130800Z
-SUMMARY:Kaela: 【Unpacking】organizing things【Kaela Kovalskia / hololiveID】
-UID:3YuwXNgsMaY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 #ioSalon 】SALON PART 2 + IOFI CEPMEK【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=M-flJ0krwAc
 DURATION:PT2H
 DTSTART:20221109T120000Z
@@ -51,6 +44,13 @@ DURATION:PT2H
 DTSTART:20221109T081000Z
 SUMMARY:Kaela: 【Random Talk】no plan no topic huehue【Kaela Kovalskia / hololiveID】
 UID:B4CFMM94va8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Unpacking】organizing things【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=Pn58qDoNwrk
+DURATION:PT2H
+DTSTART:20221110T132000Z
+SUMMARY:Kaela: 【Unpacking】organizing things【Kaela Kovalskia / hololiveID】
+UID:Pn58qDoNwrk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#RisuNNN HOT BOILED NUTS #NNN\nhttps://www.youtube.com/watch?v=b-cPKJUDOUQ
