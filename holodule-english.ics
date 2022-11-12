@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【KATAMARI DAMACY REROLL】DADDY PLEASE LOVE ME (KataMarathon)\nhttps://www.youtube.com/watch?v=X2mhXfv2s64
+DURATION:PT2H
+DTSTART:20221113T020000Z
+SUMMARY:Calli: 【KATAMARI DAMACY REROLL】DADDY PLEASE LOVE ME (KataMarathon)
+UID:X2mhXfv2s64
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪KARAOKE≫ casual singing\nhttps://www.youtube.com/watch?v=MBgDVHFb5rg
+DURATION:PT2H
+DTSTART:20221113T010000Z
+SUMMARY:Baelz: ≪KARAOKE≫ casual singing
+UID:MBgDVHFb5rg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【RESIDENT EVIL 7: BIOHAZARD】Ghost Girl Caught On Camera - REAL!!!\nhttps://www.youtube.com/watch?v=8XK4MIcv6d4
 DURATION:PT2H
 DTSTART:20221112T040000Z
@@ -18,18 +32,18 @@ SUMMARY:Mumei: 【MEMBERS ONLY】Musical Karaoke !!!
 UID:cQoYAeZoQCY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【TROMBONE CHAMP】Austrian Musical Genius AKA Kiara Amadeus Mozart DESU #kfp #キアライブ\nhttps://www.youtube.com/watch?v=ow6YIDLAKpE
-DURATION:PT2H
-DTSTART:20221112T190000Z
-SUMMARY:Kiara: 【TROMBONE CHAMP】Austrian Musical Genius AKA Kiara Amadeus Mozart DESU #kfp #キアライブ
-UID:ow6YIDLAKpE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Katamari Damacy】BIGGEST BALLER #AME\nhttps://www.youtube.com/watch?v=XeKQ_ZFwpPg
 DURATION:PT2H
 DTSTART:20221111T220000Z
 SUMMARY:Amelia: 【Katamari Damacy】BIGGEST BALLER #AME
 UID:XeKQ_ZFwpPg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【KATAMARI DAMACY REROLL】 mines bigger! #gawrgura\nhttps://www.youtube.com/watch?v=4GGkDCAprEs
+DURATION:PT2H
+DTSTART:20221112T010000Z
+SUMMARY:Gura: 【KATAMARI DAMACY REROLL】 mines bigger! #gawrgura
+UID:4GGkDCAprEs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MV】Gravity / IRyS【Original Song】\nhttps://www.youtube.com/watch?v=fevB6h3-kfE
@@ -39,17 +53,10 @@ SUMMARY:IRyS: 【MV】Gravity / IRyS【Original Song】
 UID:fevB6h3-kfE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪KARAOKE≫ casual singing\nhttps://www.youtube.com/watch?v=MBgDVHFb5rg
+DESCRIPTION:【TROMBONE CHAMP】Austrian Musical Genius AKA Kiara Amadeus Mozart DESU #kfp #キアライブ\nhttps://www.youtube.com/watch?v=ow6YIDLAKpE
 DURATION:PT2H
-DTSTART:20221113T010000Z
-SUMMARY:Baelz: ≪KARAOKE≫ casual singing
-UID:MBgDVHFb5rg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【KATAMARI DAMACY REROLL】 mines bigger! #gawrgura\nhttps://www.youtube.com/watch?v=4GGkDCAprEs
-DURATION:PT2H
-DTSTART:20221112T010000Z
-SUMMARY:Gura: 【KATAMARI DAMACY REROLL】 mines bigger! #gawrgura
-UID:4GGkDCAprEs
+DTSTART:20221112T190000Z
+SUMMARY:Kiara: 【TROMBONE CHAMP】Austrian Musical Genius AKA Kiara Amadeus Mozart DESU #kfp #キアライブ
+UID:ow6YIDLAKpE
 END:VEVENT
 END:VCALENDAR
