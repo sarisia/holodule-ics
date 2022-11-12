@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#緋崎ガンマ3D お披露目振り返り】3D配信 反 省 会 会 場【#緋崎ガンマ / #ホロスターズ / #アップロー 】\nhttps://www.youtube.com/watch?v=F1fmG-V5qqk
+DURATION:PT2H
+DTSTART:20221112T130000Z
+SUMMARY:緋崎ガンマ: 【#緋崎ガンマ3D お披露目振り返り】3D配信 反 省 会 会 場【#緋崎ガンマ / #ホロスターズ / #アップロー 】
+UID:F1fmG-V5qqk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ペーパーマリオ オリガミキング】忍者体験だって！？うれしいいい！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=oEmoFjrgUkE
 DURATION:PT2H
 DTSTART:20221112T120000Z
 SUMMARY:🐻ときのそら: 【ペーパーマリオ オリガミキング】忍者体験だって！？うれしいいい！！【#ときのそら生放送】
 UID:oEmoFjrgUkE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スプラトゥーン3】#ホロライブ3期生 水陣営！初めてのフェスコラボ【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=iS9IQJh3EsU
+DURATION:PT2H
+DTSTART:20221112T080000Z
+SUMMARY:🔥不知火フレア: 【スプラトゥーン3】#ホロライブ3期生 水陣営！初めてのフェスコラボ【不知火フレア/ホロライブ】
+UID:iS9IQJh3EsU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DONATION READING+FREETALK】I GOT SOME STORIES TO TELL!【Hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=QqpTbOOJUss
@@ -95,6 +109,13 @@ SUMMARY:🍎アキロゼ: 【Splatoon3】くさタイプ優勝するぞおお！
 UID:v8YsAv6T9Eo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Phasmophobia】no Thaye\, no end stream... 𝘶𝘯𝘭𝘦𝘴𝘴..【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=FfIbVB-VxLo
+DURATION:PT2H
+DTSTART:20221112T072200Z
+SUMMARY:Kaela: 【Phasmophobia】no Thaye\, no end stream... 𝘶𝘯𝘭𝘦𝘴𝘴..【Kaela Kovalskia / hololiveID】
+UID:FfIbVB-VxLo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ゲリラマイクラ！エリトラ探しの旅【水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=1yz3ZjKSorU
 DURATION:PT2H
 DTSTART:20221111T163000Z
@@ -172,6 +193,13 @@ SUMMARY:沙花叉クロヱ: 【 歌枠】ゾロ目だし元気な曲多めで盛
 UID:8WY55-mIBE4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【MoonUtau】Testing out my soundproof studio with a song【Unarchive】\nhttps://www.youtube.com/watch?v=yMtmSiXkHII
+DURATION:PT2H
+DTSTART:20221112T130000Z
+SUMMARY:🔮Moona: 【MoonUtau】Testing out my soundproof studio with a song【Unarchive】
+UID:yMtmSiXkHII
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【案件】アニメ「ラブライブ！」1期1話をいっしょに観よう！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=Di40hu5V5F0
 DURATION:PT2H
 DTSTART:20221111T140000Z
@@ -240,6 +268,13 @@ DURATION:PT2H
 DTSTART:20221113T010000Z
 SUMMARY:IRyS: 【MV】Gravity / IRyS【Original Song】
 UID:fevB6h3-kfE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スプラトゥーン3】バカタレコメット？！🌌水チームは眠れない【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=-y-nsrKyQjk
+DURATION:PT2H
+DTSTART:20221112T130000Z
+SUMMARY:🔥不知火フレア: 【スプラトゥーン3】バカタレコメット？！🌌水チームは眠れない【不知火フレア/ホロライブ】
+UID:-y-nsrKyQjk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#3】JUDGE EYES：死神の遺言 Remasteredするしゅばあああああああああああああああああ！！！！！！【※ネタバレあり】\nhttps://www.youtube.com/watch?v=qm7ktppDi9g
@@ -375,13 +410,6 @@ SUMMARY:🐻ときのそら: 【躍動感がすごいリハーサル】ライブ
 UID:hblIq6RFcLc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 メン限 / 同時視聴 】ねねがオタクになる時間【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=NtyTQH5TFXs
-DURATION:PT2H
-DTSTART:20221112T120000Z
-SUMMARY:桃鈴ねね: 【 メン限 / 同時視聴 】ねねがオタクになる時間【 桃鈴ねね / ホロライブ 】
-UID:NtyTQH5TFXs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:they're getting fragged by an ANIME BOY 【Call of Duty: Modern Warfare II】\nhttps://www.youtube.com/watch?v=KM7C6x0n1xQ
 DURATION:PT2H
 DTSTART:20221111T000000Z
@@ -401,13 +429,6 @@ DURATION:PT2H
 DTSTART:20221111T130000Z
 SUMMARY:Kobo: 【RUKIMIN's Disappointing Adventure!】Game seru!!!
 UID:7IlN3s3meP4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #緋崎ガンマ3D お披露目】人 類 パ リ ピ 計 画 始 動【 #緋崎ガンマ/ #UPROAR!! / #アップロー / #ホロスターズ】\nhttps://www.youtube.com/watch?v=oCtnnrt0ViY
-DURATION:PT2H
-DTSTART:20221112T110000Z
-SUMMARY:緋崎ガンマ: 【 #緋崎ガンマ3D お披露目】人 類 パ リ ピ 計 画 始 動【 #緋崎ガンマ/ #UPROAR!! / #アップロー / #ホロスターズ】
-UID:oCtnnrt0ViY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【新3D＆誕生日感想配信】#アルランディスrebirthday　まだまだサプライズがある男【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=CADpqSkEC8s
@@ -592,6 +613,13 @@ SUMMARY:❤赤井はあと: 【第二話】板を掘って皿と箸つくった�
 UID:195Qlhxe4DQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【重大告知あり】雑談しながら " 嬉しいお知らせ " をするらしい枠【 #vtuber  /#羽継烏有 / #uproar  】\nhttps://www.youtube.com/watch?v=G_xa1b-KLLw
+DURATION:PT2H
+DTSTART:20221113T110000Z
+SUMMARY:羽継烏有: 【重大告知あり】雑談しながら " 嬉しいお知らせ " をするらしい枠【 #vtuber  /#羽継烏有 / #uproar  】
+UID:G_xa1b-KLLw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:2022年11月15日20時~新ビジュアルお披露目LIVE！！【ホロライブ/AZKi】#Shorts\nhttps://www.youtube.com/watch?v=k_Lub-gilb0
 DURATION:PT2H
 DTSTART:20221112T030032Z
@@ -683,10 +711,10 @@ SUMMARY:🌽白上フブキ: 【白猫GOLF】みんなでゴルフをあそぶ�
 UID:Rfq9c8h3LPY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MemberOnly】11/11のスパチャ全部読む！！！！！！ 【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=0nmoDrV-kdw
+DESCRIPTION:【アニメ】サイキョーを目指して【#スタこれ】\nhttps://www.youtube.com/watch?v=UP3t8WCtBe4
 DURATION:PT2H
-DTSTART:20221112T120000Z
-SUMMARY:💫天音かなた: 【MemberOnly】11/11のスパチャ全部読む！！！！！！ 【天音かなた/ホロライブ】
-UID:0nmoDrV-kdw
+DTSTART:20221112T121000Z
+SUMMARY:ホロスターズ: 【アニメ】サイキョーを目指して【#スタこれ】
+UID:UP3t8WCtBe4
 END:VEVENT
 END:VCALENDAR
