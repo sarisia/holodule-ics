@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#緋崎ガンマ3D お披露目振り返り】3D配信 反 省 会 会 場【#緋崎ガンマ / #ホロスターズ / #アップロー 】\nhttps://www.youtube.com/watch?v=F1fmG-V5qqk
+DESCRIPTION:【スプラトゥーン3】フェスですって。みずで。※あとで誰か途中参加あるかも【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=MtsGUUmyW6c
 DURATION:PT2H
-DTSTART:20221112T130000Z
-SUMMARY:緋崎ガンマ: 【#緋崎ガンマ3D お披露目振り返り】3D配信 反 省 会 会 場【#緋崎ガンマ / #ホロスターズ / #アップロー 】
-UID:F1fmG-V5qqk
+DTSTART:20221112T135500Z
+SUMMARY:🍷夕刻ロベル: 【スプラトゥーン3】フェスですって。みずで。※あとで誰か途中参加あるかも【夕刻ロベル/ホロスターズ】
+UID:MtsGUUmyW6c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ペーパーマリオ オリガミキング】忍者体験だって！？うれしいいい！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=oEmoFjrgUkE
@@ -18,18 +18,18 @@ SUMMARY:🐻ときのそら: 【ペーパーマリオ オリガミキング】�
 UID:oEmoFjrgUkE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3】フェスですって。みずで。※あとで誰か途中参加あるかも【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=MtsGUUmyW6c
-DURATION:PT2H
-DTSTART:20221112T135500Z
-SUMMARY:🍷夕刻ロベル: 【スプラトゥーン3】フェスですって。みずで。※あとで誰か途中参加あるかも【夕刻ロベル/ホロスターズ】
-UID:MtsGUUmyW6c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン3】#ホロライブ3期生 水陣営！初めてのフェスコラボ【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=iS9IQJh3EsU
 DURATION:PT2H
 DTSTART:20221112T080000Z
 SUMMARY:🔥不知火フレア: 【スプラトゥーン3】#ホロライブ3期生 水陣営！初めてのフェスコラボ【不知火フレア/ホロライブ】
 UID:iS9IQJh3EsU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】ゲリラマイクラ！エリトラが楽しすぎるのがいけない【水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=4nQOO5za_9w
+DURATION:PT2H
+DTSTART:20221112T150000Z
+SUMMARY:水無世燐央: 【Minecraft】ゲリラマイクラ！エリトラが楽しすぎるのがいけない【水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】
+UID:4nQOO5za_9w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DONATION READING+FREETALK】I GOT SOME STORIES TO TELL!【Hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=QqpTbOOJUss
@@ -212,6 +212,13 @@ DURATION:PT2H
 DTSTART:20221111T140000Z
 SUMMARY:沙花叉クロヱ: 【 歌枠】ゾロ目だし元気な曲多めで盛り上がってこ～～～！【沙花叉クロヱ/ホロライブ】
 UID:8WY55-mIBE4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪KARAOKE≫ casual singing\nhttps://www.youtube.com/watch?v=MBgDVHFb5rg
+DURATION:PT2H
+DTSTART:20221113T010000Z
+SUMMARY:Baelz: ≪KARAOKE≫ casual singing
+UID:MBgDVHFb5rg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MoonUtau】Testing out my soundproof studio with a song【Unarchive】\nhttps://www.youtube.com/watch?v=yMtmSiXkHII
@@ -506,13 +513,6 @@ DURATION:PT2H
 DTSTART:20221112T150000Z
 SUMMARY:🍕アルランディス: 【GREEN HELL】わんちゃん三人全員迷子【花咲みやび/岸堂天真/アルランディス/ホロスターズ】
 UID:_ZSOHers0Lw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3】コラボフェスはほのおチームで行くぞ!!🔥🔥🔥【花咲みやび/アルランディス/天神子兎音/柚原いづみ/ホロスターズ】\nhttps://www.youtube.com/watch?v=vEfA59Fmk7U
-DURATION:PT2H
-DTSTART:20221112T120000Z
-SUMMARY:🌺花咲みやび: 【スプラトゥーン3】コラボフェスはほのおチームで行くぞ!!🔥🔥🔥【花咲みやび/アルランディス/天神子兎音/柚原いづみ/ホロスターズ】
-UID:vEfA59Fmk7U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【パワプロ2022】#13 甲子園優勝まであと少し！？ホロメンで優勝する栄冠ナイン！！！【天音かなた/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=mTBzX_yZxfg
