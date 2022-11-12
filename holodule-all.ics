@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3】フェスですって。みずで。※あとで誰か途中参加あるかも【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=MtsGUUmyW6c
+DESCRIPTION:【#緋崎ガンマ3D お披露目振り返り】3D配信 反 省 会 会 場【#緋崎ガンマ / #ホロスターズ / #アップロー 】\nhttps://www.youtube.com/watch?v=F1fmG-V5qqk
 DURATION:PT2H
-DTSTART:20221112T135500Z
-SUMMARY:🍷夕刻ロベル: 【スプラトゥーン3】フェスですって。みずで。※あとで誰か途中参加あるかも【夕刻ロベル/ホロスターズ】
-UID:MtsGUUmyW6c
+DTSTART:20221112T130000Z
+SUMMARY:緋崎ガンマ: 【#緋崎ガンマ3D お披露目振り返り】3D配信 反 省 会 会 場【#緋崎ガンマ / #ホロスターズ / #アップロー 】
+UID:F1fmG-V5qqk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ペーパーマリオ オリガミキング】忍者体験だって！？うれしいいい！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=oEmoFjrgUkE
@@ -16,6 +16,13 @@ DURATION:PT2H
 DTSTART:20221112T120000Z
 SUMMARY:🐻ときのそら: 【ペーパーマリオ オリガミキング】忍者体験だって！？うれしいいい！！【#ときのそら生放送】
 UID:oEmoFjrgUkE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スプラトゥーン3】フェスですって。みずで。※あとで誰か途中参加あるかも【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=MtsGUUmyW6c
+DURATION:PT2H
+DTSTART:20221112T135500Z
+SUMMARY:🍷夕刻ロベル: 【スプラトゥーン3】フェスですって。みずで。※あとで誰か途中参加あるかも【夕刻ロベル/ホロスターズ】
+UID:MtsGUUmyW6c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン3】#ホロライブ3期生 水陣営！初めてのフェスコラボ【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=iS9IQJh3EsU
@@ -219,13 +226,6 @@ DURATION:PT2H
 DTSTART:20221113T010000Z
 SUMMARY:Baelz: ≪KARAOKE≫ casual singing
 UID:MBgDVHFb5rg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MoonUtau】Testing out my soundproof studio with a song【Unarchive】\nhttps://www.youtube.com/watch?v=yMtmSiXkHII
-DURATION:PT2H
-DTSTART:20221112T130000Z
-SUMMARY:🔮Moona: 【MoonUtau】Testing out my soundproof studio with a song【Unarchive】
-UID:yMtmSiXkHII
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【案件】アニメ「ラブライブ！」1期1話をいっしょに観よう！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=Di40hu5V5F0
@@ -571,11 +571,11 @@ SUMMARY:🐏角巻わため: まとめその２【ギリギリわるくないわ
 UID:9n3si2GxxyE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【メン限】くわたうんげんめ【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=ka2sR2Zdlu4
+DESCRIPTION:【バイオ8】完全初見「バイオハザードヴィレッジ：Resident Evil Village」TPS版でクリアまで！！🔥【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=7TwsTeHElRs
 DURATION:PT2H
-DTSTART:20221112T130000Z
-SUMMARY:影山シエン: 【メン限】くわたうんげんめ【影山シエン/ホロスターズ】
-UID:ka2sR2Zdlu4
+DTSTART:20221112T020000Z
+SUMMARY:博衣こより: 【バイオ8】完全初見「バイオハザードヴィレッジ：Resident Evil Village」TPS版でクリアまで！！🔥【博衣こより/ホロライブ】
+UID:7TwsTeHElRs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】AZKi楽曲の振り返り＆重大告知 /  Singing Stream【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=jW1jXlPRrjo
@@ -604,13 +604,6 @@ DURATION:PT2H
 DTSTART:20221112T040000Z
 SUMMARY:Mumei: 【RESIDENT EVIL 7: BIOHAZARD】Ghost Girl Caught On Camera - REAL!!!
 UID:8XK4MIcv6d4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【バイオ8】完全初見「バイオハザードヴィレッジ：Resident Evil Village」TPS版でクリアまで！！🔥【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=7TwsTeHElRs
-DURATION:PT2H
-DTSTART:20221112T020000Z
-SUMMARY:博衣こより: 【バイオ8】完全初見「バイオハザードヴィレッジ：Resident Evil Village」TPS版でクリアまで！！🔥【博衣こより/ホロライブ】
-UID:7TwsTeHElRs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【あくありうむ。】PART2:すべてをなくしちゃうかもしれないのに？【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=8fsPNnOXDqQ
