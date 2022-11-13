@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Overwatch 2】ngeeeeeng pewpew huphup duarrrrr【Kaela / Kobo / Zeta /Moona / Iofi | hololiveID】\nhttps://www.youtube.com/watch?v=WNNhhXvHURo
-DURATION:PT2H
-DTSTART:20221113T080000Z
-SUMMARY:Kaela: 【Overwatch 2】ngeeeeeng pewpew huphup duarrrrr【Kaela / Kobo / Zeta /Moona / Iofi | hololiveID】
-UID:WNNhhXvHURo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 Phasmophobia 】Nangkep Hantu Monyet【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=0_MNq9ZjGnI
 DURATION:PT2H
 DTSTART:20221112T130000Z
@@ -23,6 +16,13 @@ DURATION:PT2H
 DTSTART:20221112T141000Z
 SUMMARY:Anya: 【Half-Life 2】WAKE UP DR. FREEMAN\, WE'RE CLOSE【hololive ID 2nd Generation | Anya Melfissa】
 UID:X4EeucQtDKo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Overwatch 2 】i'm here【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=98NikjFTdXA
+DURATION:PT2H
+DTSTART:20221113T080000Z
+SUMMARY:🎨Iofi: 【 Overwatch 2 】i'm here【 iofi / ホロライブ 】
+UID:98NikjFTdXA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#RisuNNN HEMNLO  #NNN\nhttps://www.youtube.com/watch?v=hv9yehpTcbc
@@ -93,13 +93,6 @@ DURATION:PT2H
 DTSTART:20221113T050000Z
 SUMMARY:Reine: 【New YABE + SC】I AM BACK (and back hurty)【Pavolia Reine/hololiveID 2nd gen】
 UID:Emj73hriCt0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Overwatch】Heeeeeyy【 Geemoon】\nhttps://www.youtube.com/watch?v=rm4lzaWzdbE
-DURATION:PT2H
-DTSTART:20221113T080000Z
-SUMMARY:🔮Moona: 【Overwatch】Heeeeeyy【 Geemoon】
-UID:rm4lzaWzdbE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Fall Guys】maju lu kobolonimbus【MEMBERSHIP】\nhttps://www.youtube.com/watch?v=9tMdbdQJE0M
