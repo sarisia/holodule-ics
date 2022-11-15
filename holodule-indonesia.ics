@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 Senin Produktif + iorials 】NOVEMBER! I'll Show You Tips and Tricks【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=s8eFKjfa0Ag
-DURATION:PT2H
-DTSTART:20221114T120000Z
-SUMMARY:🎨Iofi: 【 Senin Produktif + iorials 】NOVEMBER! I'll Show You Tips and Tricks【 iofi / ホロライブ 】
-UID:s8eFKjfa0Ag
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【RUKIMIN's Disappointing Adventure!】no malding challenge\nhttps://www.youtube.com/watch?v=zxYdUwweqlU
 DURATION:PT2H
 DTSTART:20221115T070000Z
@@ -18,11 +11,18 @@ SUMMARY:Zeta: 【RUKIMIN's Disappointing Adventure!】no malding challenge
 UID:zxYdUwweqlU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FREETALK】I GOT SOME STORIES TO TELL!【Hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=QqpTbOOJUss
+DESCRIPTION:【Phasmophobia】ah... here we go again...【AREA15 | Geemoon】\nhttps://www.youtube.com/watch?v=EUXKadab7zo
 DURATION:PT2H
-DTSTART:20221114T112905Z
-SUMMARY:Ollie: 【FREETALK】I GOT SOME STORIES TO TELL!【Hololive Indonesia 2nd Generation】
-UID:QqpTbOOJUss
+DTSTART:20221115T142000Z
+SUMMARY:🔮Moona: 【Phasmophobia】ah... here we go again...【AREA15 | Geemoon】
+UID:EUXKadab7zo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HOLODIVE】KAELA IS NOT ALLOWED TO WATCH THIS STREAM【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=9FA473v3inc
+DURATION:PT2H
+DTSTART:20221115T082930Z
+SUMMARY:Ollie: 【HOLODIVE】KAELA IS NOT ALLOWED TO WATCH THIS STREAM【Hololive ID 2nd Gen】
+UID:9FA473v3inc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Phasmophobia】continue..【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=W4Pw91SYwkY
@@ -60,69 +60,6 @@ SUMMARY:🎨Iofi: 【 Phasmophobia 】Wah wah wah【 iofi / ホロライブ 】
 UID:5CtiCCOIeTo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HoloCure】#11 all data has gone. time to grind back【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=Dz5K1CJFxRs
-DURATION:PT2H
-DTSTART:20221115T043000Z
-SUMMARY:Kaela: 【HoloCure】#11 all data has gone. time to grind back【Kaela Kovalskia / hololiveID】
-UID:Dz5K1CJFxRs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Phasmophobia】ah... here we go again...【AREA15 | Geemoon】\nhttps://www.youtube.com/watch?v=rOr_D1letvw
-DURATION:PT2H
-DTSTART:20221115T140000Z
-SUMMARY:🔮Moona: 【Phasmophobia】ah... here we go again...【AREA15 | Geemoon】
-UID:rOr_D1letvw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Phasmophobia】ah... here we go again...【AREA15 | Geemoon】\nhttps://www.youtube.com/watch?v=EUXKadab7zo
-DURATION:PT2H
-DTSTART:20221115T142000Z
-SUMMARY:🔮Moona: 【Phasmophobia】ah... here we go again...【AREA15 | Geemoon】
-UID:EUXKadab7zo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PEJUANG SENIN】#28 morning talk☀️【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=WZAkAsUKUE4
-DURATION:PT2H
-DTSTART:20221113T231500Z
-SUMMARY:Kaela: 【PEJUANG SENIN】#28 morning talk☀️【Kaela's Monday Warrior】
-UID:WZAkAsUKUE4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HOLODIVE】KAELA IS NOT ALLOWED TO WATCH THIS STREAM【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=9FA473v3inc
-DURATION:PT2H
-DTSTART:20221115T082930Z
-SUMMARY:Ollie: 【HOLODIVE】KAELA IS NOT ALLOWED TO WATCH THIS STREAM【Hololive ID 2nd Gen】
-UID:9FA473v3inc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#RisuNNN Pls go out with me  #NNN\nhttps://www.youtube.com/watch?v=HxM0eSWs6f8
-DURATION:PT2H
-DTSTART:20221113T150008Z
-SUMMARY:🐿Risu: #RisuNNN Pls go out with me  #NNN
-UID:HxM0eSWs6f8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RESIDENT EVIL VILLAGE: SHADOWS OF ROSE】it's SLORPING time【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=NpoU7I8vPwU
-DURATION:PT2H
-DTSTART:20221115T130000Z
-SUMMARY:Reine: 【RESIDENT EVIL VILLAGE: SHADOWS OF ROSE】it's SLORPING time【Pavolia Reine/hololiveID 2nd gen】
-UID:NpoU7I8vPwU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Overwatch 2】i wanna unlock the ranked【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=qks6Z8g-ncU
-DURATION:PT2H
-DTSTART:20221114T020900Z
-SUMMARY:Kaela: 【Overwatch 2】i wanna unlock the ranked【Kaela Kovalskia / hololiveID】
-UID:qks6Z8g-ncU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Detective Grimoire】BIG BREINE WEEK【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=AZWfkNtg9LM
-DURATION:PT2H
-DTSTART:20221114T140000Z
-SUMMARY:Reine: 【Detective Grimoire】BIG BREINE WEEK【Pavolia Reine/hololiveID 2nd gen】
-UID:AZWfkNtg9LM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【PHASMOPHOBIA】AREA15 : HEHE BOI 【Ayunda Risu】\nhttps://www.youtube.com/watch?v=D1_el92nhbo
 DURATION:PT2H
 DTSTART:20221115T140000Z
@@ -142,5 +79,19 @@ DURATION:PT2H
 DTSTART:20221115T090000Z
 SUMMARY:Kaela: 【Overwatch 2】2 wins\, end stream【Kaela Kovalskia / hololiveID】
 UID:Lkj45nPxqlQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HoloCure】#11 all data has gone. time to grind back【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=Dz5K1CJFxRs
+DURATION:PT2H
+DTSTART:20221115T043000Z
+SUMMARY:Kaela: 【HoloCure】#11 all data has gone. time to grind back【Kaela Kovalskia / hololiveID】
+UID:Dz5K1CJFxRs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Phasmophobia】ah... here we go again...【AREA15 | Geemoon】\nhttps://www.youtube.com/watch?v=rOr_D1letvw
+DURATION:PT2H
+DTSTART:20221115T140000Z
+SUMMARY:🔮Moona: 【Phasmophobia】ah... here we go again...【AREA15 | Geemoon】
+UID:rOr_D1letvw
 END:VEVENT
 END:VCALENDAR
