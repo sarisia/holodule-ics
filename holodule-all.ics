@@ -67,18 +67,18 @@ SUMMARY:⚙律可: #2【Core Keeper】お気楽バランサー視点【律可/�
 UID:9fkPvJMlWt8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Cats Organized Neatly】おはようございます。猫ちゃんをパズルにします。【星街すいせい/ホロライブ】\nhttps://www.youtube.com/watch?v=oVwhJb368sY
-DURATION:PT2H
-DTSTART:20221116T180000Z
-SUMMARY:☄星街すいせい: 【Cats Organized Neatly】おはようございます。猫ちゃんをパズルにします。【星街すいせい/ホロライブ】
-UID:oVwhJb368sY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ご飯と雑談】コラボカフェ開催中～！なのでコラボメニューを食べるよ！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=pGgi7Aswf5U
 DURATION:PT2H
 DTSTART:20221117T060000Z
 SUMMARY:🍕アルランディス: 【ご飯と雑談】コラボカフェ開催中～！なのでコラボメニューを食べるよ！【アルランディス/ホロスターズ】
 UID:pGgi7Aswf5U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Cats Organized Neatly】おはようございます。猫ちゃんをパズルにします。【星街すいせい/ホロライブ】\nhttps://www.youtube.com/watch?v=oVwhJb368sY
+DURATION:PT2H
+DTSTART:20221116T180000Z
+SUMMARY:☄星街すいせい: 【Cats Organized Neatly】おはようございます。猫ちゃんをパズルにします。【星街すいせい/ホロライブ】
+UID:oVwhJb368sY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:WARZONE 2.0 RELEASE 【Call of Duty: Modern Warfare II】\nhttps://www.youtube.com/watch?v=-3Iw1SMP5n4
@@ -121,6 +121,13 @@ DURATION:PT2H
 DTSTART:20221116T080000Z
 SUMMARY:🌽白上フブキ: 【Photogenic Minds : Identity】受胎塔３階・・・。【ホロライブ/白上フブキ】
 UID:gWVvdERp3uw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Sonic Frontiers】They See Me Rolling | #1\nhttps://www.youtube.com/watch?v=s1YIMmnhqYM
+DURATION:PT2H
+DTSTART:20221117T020000Z
+SUMMARY:Kronii: 【Sonic Frontiers】They See Me Rolling | #1
+UID:s1YIMmnhqYM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【新作ポケモン】さぁ冒険だ！ニャオハ、立つな。こよクロ並走対決もあるよ！/ポケットモンスターバイオレット【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=WIP7aUBzp78
@@ -235,6 +242,13 @@ SUMMARY:Fauna: 【Trombone Champ】 The Greatest Rhythm Game of All Time
 UID:TYbC4iDAhzw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Splatoon3】現在：S+5 |ウデマエS+10を目指して！久しぶりバンカラマッチ！！【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=fWsDox5AZu8
+DURATION:PT2H
+DTSTART:20221116T140000Z
+SUMMARY:🍎アキロゼ: 【Splatoon3】現在：S+5 |ウデマエS+10を目指して！久しぶりバンカラマッチ！！【ホロライブ/アキ・ローゼンタール】
+UID:fWsDox5AZu8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【はいしんよていち】あれをやろうかなとおもいながらこよこよ【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=pL01UbBxotI
 DURATION:PT2H
 DTSTART:20221117T100000Z
@@ -249,18 +263,18 @@ SUMMARY:❤赤井はあと: 【Minecraft】酔い止め対策ばっちり！い�
 UID:i6oVDVNnMVo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HOLOCURE】WHOoooooooooooo.【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=Ol7WZXWx5kI
-DURATION:PT2H
-DTSTART:20221116T070000Z
-SUMMARY:Reine: 【HOLOCURE】WHOoooooooooooo.【Pavolia Reine/hololiveID 2nd gen】
-UID:Ol7WZXWx5kI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Factorio】#2 電気とコンベアが混ざり合ってスパゲッティ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=3bxsuc7CEgU
 DURATION:PT2H
 DTSTART:20221116T080000Z
 SUMMARY:🍕アルランディス: 【Factorio】#2 電気とコンベアが混ざり合ってスパゲッティ【アルランディス/ホロスターズ】
 UID:3bxsuc7CEgU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HOLOCURE】WHOoooooooooooo.【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=Ol7WZXWx5kI
+DURATION:PT2H
+DTSTART:20221116T070000Z
+SUMMARY:Reine: 【HOLOCURE】WHOoooooooooooo.【Pavolia Reine/hololiveID 2nd gen】
+UID:Ol7WZXWx5kI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Biohazard 6】ラミィちゃんとバイオ6協力プレイでやるぞ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=APkYgjVVgmQ
@@ -410,18 +424,18 @@ SUMMARY:🌽白上フブキ: 【Photogenic Minds : Identity】受胎塔４階・
 UID:20NAcarzUPA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#RisuNNN 10/10 #NNN\nhttps://www.youtube.com/watch?v=iZyCy7ltmPw
-DURATION:PT2H
-DTSTART:20221116T150034Z
-SUMMARY:🐿Risu: #RisuNNN 10/10 #NNN
-UID:iZyCy7ltmPw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【朝メル#22】朝メルに初ゲスト！朝からAmelトーク！【ホロライブ/夜空メル&Amelia Watson】\nhttps://www.youtube.com/watch?v=_CGRCiz-0pY
 DURATION:PT2H
 DTSTART:20221116T220000Z
 SUMMARY:🌟夜空メル: 【朝メル#22】朝メルに初ゲスト！朝からAmelトーク！【ホロライブ/夜空メル&Amelia Watson】
 UID:_CGRCiz-0pY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#RisuNNN 10/10 #NNN\nhttps://www.youtube.com/watch?v=iZyCy7ltmPw
+DURATION:PT2H
+DTSTART:20221116T150034Z
+SUMMARY:🐿Risu: #RisuNNN 10/10 #NNN
+UID:iZyCy7ltmPw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【OneShot】この世界はあなたを認知する!? 認知されてェ～～～#1【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=hX5o8L4i3EM
@@ -431,11 +445,25 @@ SUMMARY:🍙猫又おかゆ: 【OneShot】この世界はあなたを認知す�
 UID:hX5o8L4i3EM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Freetalk】悪魔の保健医の奇跡の朝枠【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=I2vpZ1Dojgw
+DURATION:PT2H
+DTSTART:20221116T233000Z
+SUMMARY:💋癒月ちょこ: 【Freetalk】悪魔の保健医の奇跡の朝枠【ホロライブ/癒月ちょこ】
+UID:I2vpZ1Dojgw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【塊魂アンコール】神ゲーをやります。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=b5eBOa077u4
 DURATION:PT2H
 DTSTART:20221116T090000Z
 SUMMARY:🌺花咲みやび: 【塊魂アンコール】神ゲーをやります。【花咲みやび/ホロスターズ】
 UID:b5eBOa077u4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Superchat Reading!!!】How have you all been doing? :3\nhttps://www.youtube.com/watch?v=joo9G3SBxf4
+DURATION:PT2H
+DTSTART:20221117T030000Z
+SUMMARY:Syrios: 【Superchat Reading!!!】How have you all been doing? :3
+UID:joo9G3SBxf4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ゲリラミニ歌枠】唐突に歌いたくなってしまった幽霊【水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=lOLS9caYibw
@@ -450,13 +478,6 @@ DURATION:PT2H
 DTSTART:20221116T120000Z
 SUMMARY:🚑大空スバル: 【#ミオみこスバ】ミオみこスバっと解決！！お悩み相談所！！！【ホロライブ】
 UID:_w-0dqNjYvo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Superchat Reading!!!】How have you all been doing? :3\nhttps://www.youtube.com/watch?v=joo9G3SBxf4
-DURATION:PT2H
-DTSTART:20221117T030000Z
-SUMMARY:Syrios: 【Superchat Reading!!!】How have you all been doing? :3
-UID:joo9G3SBxf4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ジャンプロ】絶対に許さない　#バンジー　#shorts\nhttps://www.youtube.com/watch?v=CGJyCQxugTk
