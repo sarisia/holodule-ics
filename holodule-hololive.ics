@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【歌枠】楽しく歌う！🎤 singing stream【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=rJnCuf00dN0
+DURATION:PT2H
+DTSTART:20221118T130000Z
+SUMMARY:🔥不知火フレア: 【歌枠】楽しく歌う！🎤 singing stream【不知火フレア/ホロライブ】
+UID:rJnCuf00dN0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ポケモンSV】最新作！五億年ぶりにポケモンやってみる！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=U2N0sUYPNyA
 DURATION:PT2H
 DTSTART:20221117T152500Z
@@ -46,18 +53,18 @@ SUMMARY:🚑大空スバル: 【#ノエスバ】ノエスバお泊り会【ホ�
 UID:oQJIYvOtr9M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:メン限でのんびりしよ💜【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=DMH6VTUtYdY
-DURATION:PT2H
-DTSTART:20221118T130000Z
-SUMMARY:🍙猫又おかゆ: メン限でのんびりしよ💜【猫又おかゆ/ホロライブ】
-UID:DMH6VTUtYdY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#生スバル】TIGER & BUNNY 同時視聴会/ TIGER & BUNNY watch party!【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=vM1wGPZDVfI
 DURATION:PT2H
 DTSTART:20221118T130000Z
 SUMMARY:🚑大空スバル: 【#生スバル】TIGER & BUNNY 同時視聴会/ TIGER & BUNNY watch party!【ホロライブ/大空スバル】
 UID:vM1wGPZDVfI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:メン限でのんびりしよ💜【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=DMH6VTUtYdY
+DURATION:PT2H
+DTSTART:20221118T130000Z
+SUMMARY:🍙猫又おかゆ: メン限でのんびりしよ💜【猫又おかゆ/ホロライブ】
+UID:DMH6VTUtYdY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:11月19日はいしんよていち！！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=ey4BVLwzBTs
@@ -118,7 +125,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ポケモンSV】最新作！ポケモンが辞められなくなった女の末路【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=btgB01tyMmQ
 DURATION:PT2H
-DTSTART:20221118T120000Z
+DTSTART:20221118T121000Z
 SUMMARY:⚓湊あくあ: 【ポケモンSV】最新作！ポケモンが辞められなくなった女の末路【湊あくあ/ホロライブ】
 UID:btgB01tyMmQ
 END:VEVENT
