@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】楽しく歌う！🎤 singing stream【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=rJnCuf00dN0
-DURATION:PT2H
-DTSTART:20221118T130000Z
-SUMMARY:🔥不知火フレア: 【歌枠】楽しく歌う！🎤 singing stream【不知火フレア/ホロライブ】
-UID:rJnCuf00dN0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ポケモンSV】最新作！五億年ぶりにポケモンやってみる！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=U2N0sUYPNyA
 DURATION:PT2H
 DTSTART:20221117T152500Z
@@ -74,13 +67,6 @@ SUMMARY:🌽白上フブキ: 【＃１】課外授業で白上だけ金コイキ
 UID:ZHYaY1xBrYk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ポケモンSV】今日こそは！登校します！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=TJDamJZ9siM
-DURATION:PT2H
-DTSTART:20221118T130000Z
-SUMMARY:🐏角巻わため: 【ポケモンSV】今日こそは！登校します！！！【角巻わため/ホロライブ４期生】
-UID:TJDamJZ9siM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ポケモンSV】ポケモン最新作！新たな冒険に出発！！！in人生縛りぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=fJyRSnyDeGo
 DURATION:PT2H
 DTSTART:20221119T040000Z
@@ -130,6 +116,13 @@ SUMMARY:🌽白上フブキ: 【＃２】金コイキングという宝を手に
 UID:OVaWZesvj-Y
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 Trombone Champ 】おでの音楽を聴け！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=h7yry_3vIkc
+DURATION:PT2H
+DTSTART:20221118T090000Z
+SUMMARY:桃鈴ねね: 【 Trombone Champ 】おでの音楽を聴け！【 桃鈴ねね / ホロライブ 】
+UID:h7yry_3vIkc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【モノクロームメビウス 刻ノ代贖】うたわれるものシリーズ最新作で出陣ぞ！？発売直後の初見参ります！【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=DjX3Dm2BOT0
 DURATION:PT2H
 DTSTART:20221118T110000Z
@@ -163,6 +156,13 @@ DURATION:PT2H
 DTSTART:20221118T090000Z
 SUMMARY:ラプラス: 【雑談】ノープラン雑談である。それこそが真の雑談であり、何物でもないのである。【ラプラス・ダークネス/ホロライブ】
 UID:BIvdAd-iXMY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑/Chatting】朝あああああああああああああああああああああ【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=0vYYpZ2fY0A
+DURATION:PT2H
+DTSTART:20221118T220000Z
+SUMMARY:尾丸ポルカ: 【雑/Chatting】朝あああああああああああああああああああああ【尾丸ポルカ/ホロライブ】
+UID:0vYYpZ2fY0A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ポケモンSV】ニャオハといく新作ポケモン！きっとニャオハはかっこよく立つ。【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=Zvb_7q_fVb0
@@ -270,10 +270,10 @@ SUMMARY:💫天音かなた: 【パワプロ2022】#15 ここで勝つ。糸井�
 UID:hcZqH85a9o4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Trombone Champ 】おでの音楽を聴け！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=h7yry_3vIkc
+DESCRIPTION:【歌枠】楽しく歌う！🎤 singing stream【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=rJnCuf00dN0
 DURATION:PT2H
-DTSTART:20221118T090000Z
-SUMMARY:桃鈴ねね: 【 Trombone Champ 】おでの音楽を聴け！【 桃鈴ねね / ホロライブ 】
-UID:h7yry_3vIkc
+DTSTART:20221118T130000Z
+SUMMARY:🔥不知火フレア: 【歌枠】楽しく歌う！🎤 singing stream【不知火フレア/ホロライブ】
+UID:rJnCuf00dN0
 END:VEVENT
 END:VCALENDAR
