@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】楽しく歌う！🎤 singing stream【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=rJnCuf00dN0
-DURATION:PT2H
-DTSTART:20221118T130000Z
-SUMMARY:🔥不知火フレア: 【歌枠】楽しく歌う！🎤 singing stream【不知火フレア/ホロライブ】
-UID:rJnCuf00dN0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ポケモンSV】最新作！五億年ぶりにポケモンやってみる！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=U2N0sUYPNyA
 DURATION:PT2H
 DTSTART:20221117T152500Z
@@ -88,13 +81,6 @@ SUMMARY:👯兎田ぺこら: 【ポケモンSV】ポケモン最新作！新た�
 UID:fJyRSnyDeGo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ポケモンSV】最新作！ポケモンが辞められなくなった女の末路【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=btgB01tyMmQ
-DURATION:PT2H
-DTSTART:20221118T121000Z
-SUMMARY:⚓湊あくあ: 【ポケモンSV】最新作！ポケモンが辞められなくなった女の末路【湊あくあ/ホロライブ】
-UID:btgB01tyMmQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ド初見】ポケットモンスター スカーレットやる…！【ポケモンSV】\nhttps://www.youtube.com/watch?v=J6j6Tt1BXDw
 DURATION:PT2H
 DTSTART:20221119T020000Z
@@ -128,6 +114,13 @@ DURATION:PT2H
 DTSTART:20221119T040000Z
 SUMMARY:🌽白上フブキ: 【＃２】金コイキングという宝を手に入れるのだ！【ポケットモンスターゴールドコイキング】
 UID:OVaWZesvj-Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Trombone Champ 】おでの音楽を聴け！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=h7yry_3vIkc
+DURATION:PT2H
+DTSTART:20221118T090000Z
+SUMMARY:桃鈴ねね: 【 Trombone Champ 】おでの音楽を聴け！【 桃鈴ねね / ホロライブ 】
+UID:h7yry_3vIkc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【モノクロームメビウス 刻ノ代贖】うたわれるものシリーズ最新作で出陣ぞ！？発売直後の初見参ります！【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=DjX3Dm2BOT0
@@ -188,7 +181,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #なのらいぶ 】 7 Days to Die ～ 農業があると聞いたのでやってみるのら！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=4XDvjsUrfrI
 DURATION:PT2H
-DTSTART:20221118T220000Z
+DTSTART:20221118T213000Z
 SUMMARY:🍬姫森ルーナ: 【 #なのらいぶ 】 7 Days to Die ～ 農業があると聞いたのでやってみるのら！【姫森ルーナ/ホロライブ】
 UID:4XDvjsUrfrI
 END:VEVENT
@@ -270,10 +263,10 @@ SUMMARY:💫天音かなた: 【パワプロ2022】#15 ここで勝つ。糸井�
 UID:hcZqH85a9o4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Trombone Champ 】おでの音楽を聴け！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=h7yry_3vIkc
+DESCRIPTION:【歌枠】楽しく歌う！🎤 singing stream【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=rJnCuf00dN0
 DURATION:PT2H
-DTSTART:20221118T090000Z
-SUMMARY:桃鈴ねね: 【 Trombone Champ 】おでの音楽を聴け！【 桃鈴ねね / ホロライブ 】
-UID:h7yry_3vIkc
+DTSTART:20221118T130000Z
+SUMMARY:🔥不知火フレア: 【歌枠】楽しく歌う！🎤 singing stream【不知火フレア/ホロライブ】
+UID:rJnCuf00dN0
 END:VEVENT
 END:VCALENDAR
