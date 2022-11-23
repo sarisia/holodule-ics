@@ -4,10 +4,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:≪Persona 5 ROYAL≫ zoomer education\nhttps://www.youtube.com/watch?v=bcyx-7p3bvU
+DESCRIPTION:≪Persona 5 ROYAL≫ zoomer education 【SPOILERS】\nhttps://www.youtube.com/watch?v=bcyx-7p3bvU
 DURATION:PT2H
 DTSTART:20221123T010000Z
-SUMMARY:Baelz: ≪Persona 5 ROYAL≫ zoomer education
+SUMMARY:Baelz: ≪Persona 5 ROYAL≫ zoomer education 【SPOILERS】
 UID:bcyx-7p3bvU
 END:VEVENT
 BEGIN:VEVENT
@@ -30,6 +30,13 @@ DURATION:PT2H
 DTSTART:20221122T010000Z
 SUMMARY:Mumei: 【CHIT CHAT】Time to Catch Up!
 UID:BwEYQD0HjIQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Pokemon Violet】vroom\nhttps://www.youtube.com/watch?v=bdTFpAI6Bng
+DURATION:PT2H
+DTSTART:20221123T020000Z
+SUMMARY:Kronii: 【Pokemon Violet】vroom
+UID:bdTFpAI6Bng
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】 building a snowy village trading hall ! (with open vc!)\nhttps://www.youtube.com/watch?v=4yE0K9txO9E
