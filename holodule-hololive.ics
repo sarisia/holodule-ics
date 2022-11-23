@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【まだまだ初心者】ポケットモンスター スカーレットやる…！【ポケモンSV】\nhttps://www.youtube.com/watch?v=J0izvUBlkHc
+DURATION:PT2H
+DTSTART:20221123T010000Z
+SUMMARY:🥐戌神ころね: 【まだまだ初心者】ポケットモンスター スカーレットやる…！【ポケモンSV】
+UID:J0izvUBlkHc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【スーパー野田ゲーPARTY】吉本興業の芸人さんが作ったゲーム!?こちらゲラ二人🌲🍙【#みおかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=_V_QI5d5qjY
 DURATION:PT2H
 DTSTART:20221123T120000Z
 SUMMARY:🍙猫又おかゆ: 【スーパー野田ゲーPARTY】吉本興業の芸人さんが作ったゲーム!?こちらゲラ二人🌲🍙【#みおかゆ/ホロライブ】
 UID:_V_QI5d5qjY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【コミケ出展記念】ホロライブクイズで情報をゲットせよ！【#C101ホロライブプロ】\nhttps://www.youtube.com/watch?v=VHlgVDAL1gE
+DURATION:PT2H
+DTSTART:20221123T100000Z
+SUMMARY:ホロライブ: 【コミケ出展記念】ホロライブクイズで情報をゲットせよ！【#C101ホロライブプロ】
+UID:VHlgVDAL1gE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【誕生日カウントダウン】24日はノエちゃんの誕生日！！ノエポで乾杯しよ～～～～！！！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=7j1VV8kEWUc
@@ -25,32 +39,18 @@ SUMMARY:❤赤井はあと: [ 51 club house ] Witch one is strong!? LET'S FIGHT!
 UID:A5Fq3tW2Yhw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#朝こよ】なんの暗号！？火曜日のおはこよ～☀ #102【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=EyOnN-ldFYg
+DESCRIPTION:【EXPO2022振り返り企画】静粛に！！！去年のEXPO大人気企画を「ホロライブ裁判所」体験‼【#新総部/ホロライブ】\nhttps://www.youtube.com/watch?v=MTCrHXLkMGA
 DURATION:PT2H
-DTSTART:20221121T220000Z
-SUMMARY:博衣こより: 【#朝こよ】なんの暗号！？火曜日のおはこよ～☀ #102【博衣こより/ホロライブ】
-UID:EyOnN-ldFYg
+DTSTART:20221123T110000Z
+SUMMARY:鷹嶺ルイ: 【EXPO2022振り返り企画】静粛に！！！去年のEXPO大人気企画を「ホロライブ裁判所」体験‼【#新総部/ホロライブ】
+UID:MTCrHXLkMGA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】みんなにお知らせ！スパチャお礼♡まったりトークも！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=mICLdCis2nQ
+DESCRIPTION:【ポケモンSV】全クリまで！四天王＆スター団ボス＆エリアゼロ！物語のラストまとめていくよ～！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=1F_ScAnPl58
 DURATION:PT2H
-DTSTART:20221122T090000Z
-SUMMARY:🌟夜空メル: 【雑談】みんなにお知らせ！スパチャお礼♡まったりトークも！【ホロライブ/夜空メル】
-UID:mICLdCis2nQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#生スバル】4周年ライブ生誕秘話しゅばああああああああ！！！！\nhttps://www.youtube.com/watch?v=ZDDKXO6A_xM
-DURATION:PT2H
-DTSTART:20221122T110000Z
-SUMMARY:🚑大空スバル: 【#生スバル】4周年ライブ生誕秘話しゅばああああああああ！！！！
-UID:ZDDKXO6A_xM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【3D LIVE】遅れたけど、誕生日3Dライブやります！ /  BIRTHDAY 3D LIVE！【#戌神ころね生誕祭2022】\nhttps://www.youtube.com/watch?v=Zvb8xKmP-9U
-DURATION:PT2H
-DTSTART:20221122T120000Z
-SUMMARY:🥐戌神ころね: 【3D LIVE】遅れたけど、誕生日3Dライブやります！ /  BIRTHDAY 3D LIVE！【#戌神ころね生誕祭2022】
-UID:Zvb8xKmP-9U
+DTSTART:20221123T020000Z
+SUMMARY:博衣こより: 【ポケモンSV】全クリまで！四天王＆スター団ボス＆エリアゼロ！物語のラストまとめていくよ～！【博衣こより/ホロライブ】
+UID:1F_ScAnPl58
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Splatoon3】現在：ウデマエS+9 急げ！バンカラマッチ！！【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=0iQ6Y9m1EW4
@@ -60,18 +60,25 @@ SUMMARY:🍎アキロゼ: 【Splatoon3】現在：ウデマエS+9 急げ！バ�
 UID:0iQ6Y9m1EW4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【＃５】金コイキング捜索５日目：今日は出るやろて！金コイキングCome ON!【ポケットモンスターゴールドコイキング】\nhttps://www.youtube.com/watch?v=eris4dTmek8
-DURATION:PT2H
-DTSTART:20221122T131000Z
-SUMMARY:🌽白上フブキ: 【＃５】金コイキング捜索５日目：今日は出るやろて！金コイキングCome ON!【ポケットモンスターゴールドコイキング】
-UID:eris4dTmek8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【同時視聴】カードキャプターさくら クロウカード編！！dアニメストアさんで一緒に見よう✨【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=fulW1R21pEs
 DURATION:PT2H
 DTSTART:20221124T100000Z
 SUMMARY:☄星街すいせい: 【同時視聴】カードキャプターさくら クロウカード編！！dアニメストアさんで一緒に見よう✨【ホロライブ / 星街すいせい】
 UID:fulW1R21pEs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【＃６】金コイキング捜索６日目：コイキング大量発生で勝確！！！対ありでした金コイキング！【ポケットモンスターゴールドコイキング】\nhttps://www.youtube.com/watch?v=kh9yCZA-JHM
+DURATION:PT2H
+DTSTART:20221123T130000Z
+SUMMARY:🌽白上フブキ: 【＃６】金コイキング捜索６日目：コイキング大量発生で勝確！！！対ありでした金コイキング！【ポケットモンスターゴールドコイキング】
+UID:kh9yCZA-JHM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【グロ注意!!】メイドインアビス：同時視聴 8~13話 / MADE IN ABYSS:Watch along【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=QQy4T3BdUFQ
+DURATION:PT2H
+DTSTART:20221123T060000Z
+SUMMARY:💫天音かなた: 【グロ注意!!】メイドインアビス：同時視聴 8~13話 / MADE IN ABYSS:Watch along【天音かなた/ホロライブ】
+UID:QQy4T3BdUFQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Splatoon3】現在：ウデマエS+9 タスケテ…バンカラマッチ！！【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=jhCV-d49mz0
@@ -88,11 +95,11 @@ SUMMARY:尾丸ポルカ: 【ポケモンSV/Pokémon】PART2 次はお前がネ�
 UID:_T_JinKwf1w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ポケモンSV】全目的地制覇する！ゴーストジム＆こおりジム＆最強スター団2か所だよ！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=bGEx38qixVk
+DESCRIPTION:【新作ポケモン】最終回！ラスボス倒して実りある最終回にするぞ！！/ポケットモンスターバイオレット【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=ik_rfbLg0Rc
 DURATION:PT2H
-DTSTART:20221122T090000Z
-SUMMARY:博衣こより: 【ポケモンSV】全目的地制覇する！ゴーストジム＆こおりジム＆最強スター団2か所だよ！【博衣こより/ホロライブ】
-UID:bGEx38qixVk
+DTSTART:20221123T130000Z
+SUMMARY:沙花叉クロヱ: 【新作ポケモン】最終回！ラスボス倒して実りある最終回にするぞ！！/ポケットモンスターバイオレット【沙花叉クロヱ/ホロライブ】
+UID:ik_rfbLg0Rc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【影廊】残り16個…。難関ルート攻略に必要なアイテムをゲットするまで終われません。【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=P7pFcSMUW98
@@ -100,146 +107,6 @@ DURATION:PT2H
 DTSTART:20221123T130000Z
 SUMMARY:鷹嶺ルイ: 【影廊】残り16個…。難関ルート攻略に必要なアイテムをゲットするまで終われません。【鷹嶺ルイ/ホロライブ】
 UID:P7pFcSMUW98
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Fall Guys】参加型…！！みんなで遊ぼう！もちろん。。。【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=9cQ3GEdtwOg
-DURATION:PT2H
-DTSTART:20221122T090000Z
-SUMMARY:👾常闇トワ: 【Fall Guys】参加型…！！みんなで遊ぼう！もちろん。。。【常闇トワ/ホロライブ】
-UID:9cQ3GEdtwOg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Nova Drift】ローグライク弾幕シューティングだって！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=Ys5uHT316KA
-DURATION:PT2H
-DTSTART:20221122T130000Z
-SUMMARY:獅白ぼたん: 【Nova Drift】ローグライク弾幕シューティングだって！【獅白ぼたん/ホロライブ】
-UID:Ys5uHT316KA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【あくありうむ。】あくあ先輩・・・かざまくんなら、きっと攻略できますよね・・・？💗【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=_pwLf_85i8k
-DURATION:PT2H
-DTSTART:20221123T090000Z
-SUMMARY:風真いろは: 【あくありうむ。】あくあ先輩・・・かざまくんなら、きっと攻略できますよね・・・？💗【風真いろは/ホロライブ】
-UID:_pwLf_85i8k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【影廊】最終夜。クリアするまで！この恐怖を終わらせる。 #秋のホラゲ祭り【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=KBcRrjcjjvs
-DURATION:PT2H
-DTSTART:20221121T150000Z
-SUMMARY:鷹嶺ルイ: 【影廊】最終夜。クリアするまで！この恐怖を終わらせる。 #秋のホラゲ祭り【鷹嶺ルイ/ホロライブ】
-UID:KBcRrjcjjvs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #なのらいぶ 】懐メロ歌枠なのら～！おぃたんホイホイ！(・o・🍬)【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=BonbXVcWltM
-DURATION:PT2H
-DTSTART:20221123T090000Z
-SUMMARY:🍬姫森ルーナ: 【 #なのらいぶ 】懐メロ歌枠なのら～！おぃたんホイホイ！(・o・🍬)【姫森ルーナ/ホロライブ】
-UID:BonbXVcWltM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Trombone Champ】宴じゃあああああああ🎺🎶【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=NQDT_DlXtf8
-DURATION:PT2H
-DTSTART:20221122T110000Z
-SUMMARY:🍙猫又おかゆ: 【Trombone Champ】宴じゃあああああああ🎺🎶【猫又おかゆ/ホロライブ】
-UID:NQDT_DlXtf8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【火夜歌枠】ちょっとセンチメンタルな秋🍁#4【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=Hh09jB3eOkw
-DURATION:PT2H
-DTSTART:20221122T100000Z
-SUMMARY:❤赤井はあと: 【火夜歌枠】ちょっとセンチメンタルな秋🍁#4【ホロライブ/赤井はあと】
-UID:Hh09jB3eOkw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スパチャ御礼】朝こよ！100回目＆102回目のSuperChat感謝！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=6lw_1xY5x_8
-DURATION:PT2H
-DTSTART:20221121T230000Z
-SUMMARY:博衣こより: 【スパチャ御礼】朝こよ！100回目＆102回目のSuperChat感謝！【博衣こより/ホロライブ】
-UID:6lw_1xY5x_8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【まだまだ初心者】ポケットモンスター スカーレットやる…！【ポケモンSV】\nhttps://www.youtube.com/watch?v=J0izvUBlkHc
-DURATION:PT2H
-DTSTART:20221123T010000Z
-SUMMARY:🥐戌神ころね: 【まだまだ初心者】ポケットモンスター スカーレットやる…！【ポケモンSV】
-UID:J0izvUBlkHc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【コミケ出展記念】ホロライブクイズで情報をゲットせよ！【#C101ホロライブプロ】\nhttps://www.youtube.com/watch?v=VHlgVDAL1gE
-DURATION:PT2H
-DTSTART:20221123T100000Z
-SUMMARY:ホロライブ: 【コミケ出展記念】ホロライブクイズで情報をゲットせよ！【#C101ホロライブプロ】
-UID:VHlgVDAL1gE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【EXPO2022振り返り企画】静粛に！！！去年のEXPO大人気企画を「ホロライブ裁判所」体験‼【#新総部/ホロライブ】\nhttps://www.youtube.com/watch?v=MTCrHXLkMGA
-DURATION:PT2H
-DTSTART:20221123T110000Z
-SUMMARY:鷹嶺ルイ: 【EXPO2022振り返り企画】静粛に！！！去年のEXPO大人気企画を「ホロライブ裁判所」体験‼【#新総部/ホロライブ】
-UID:MTCrHXLkMGA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】順位で罰ゲームが決まる地獄マリカ🚙【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=GGEeKIeB_k4
-DURATION:PT2H
-DTSTART:20221122T110000Z
-SUMMARY:風真いろは: 【マリオカート8DX】順位で罰ゲームが決まる地獄マリカ🚙【風真いろは/ホロライブ】
-UID:GGEeKIeB_k4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンSV】全クリまで！四天王＆スター団ボス＆エリアゼロ！物語のラストまとめていくよ～！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=1F_ScAnPl58
-DURATION:PT2H
-DTSTART:20221123T020000Z
-SUMMARY:博衣こより: 【ポケモンSV】全クリまで！四天王＆スター団ボス＆エリアゼロ！物語のラストまとめていくよ～！【博衣こより/ホロライブ】
-UID:1F_ScAnPl58
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談＆お礼】今日１日がんばって今日もお疲れ様をする！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=36ZhFt9pTAw
-DURATION:PT2H
-DTSTART:20221122T140000Z
-SUMMARY:🐏角巻わため: 【雑談＆お礼】今日１日がんばって今日もお疲れ様をする！【角巻わため/ホロライブ４期生】
-UID:36ZhFt9pTAw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンSV】視聴者参加型│サンドイッチスローライフ【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=sXst3oh6bDY
-DURATION:PT2H
-DTSTART:20221122T100000Z
-SUMMARY:🏮夏色まつり: 【ポケモンSV】視聴者参加型│サンドイッチスローライフ【ホロライブ/夏色まつり】
-UID:sXst3oh6bDY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【＃６】金コイキング捜索６日目：コイキング大量発生で勝確！！！対ありでした金コイキング！【ポケットモンスターゴールドコイキング】\nhttps://www.youtube.com/watch?v=kh9yCZA-JHM
-DURATION:PT2H
-DTSTART:20221123T130000Z
-SUMMARY:🌽白上フブキ: 【＃６】金コイキング捜索６日目：コイキング大量発生で勝確！！！対ありでした金コイキング！【ポケットモンスターゴールドコイキング】
-UID:kh9yCZA-JHM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #なのらいぶ 】酔いどれ「地獄銭湯」でしっぽりするのら～🍶♨　～The Bathhouse【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=eDSCLgf_RMI
-DURATION:PT2H
-DTSTART:20221122T140000Z
-SUMMARY:🍬姫森ルーナ: 【 #なのらいぶ 】酔いどれ「地獄銭湯」でしっぽりするのら～🍶♨　～The Bathhouse【姫森ルーナ/ホロライブ】
-UID:eDSCLgf_RMI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【釣りシミュ】いっぱい釣れたらいいな・・！初心者です！【ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=f1NVpVjyBns
-DURATION:PT2H
-DTSTART:20221122T140000Z
-SUMMARY:🌲大神ミオ: 【釣りシミュ】いっぱい釣れたらいいな・・！初心者です！【ホロライブ/大神ミオ】
-UID:f1NVpVjyBns
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【グロ注意!!】メイドインアビス：同時視聴 8~13話 / MADE IN ABYSS:Watch along【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=QQy4T3BdUFQ
-DURATION:PT2H
-DTSTART:20221123T060000Z
-SUMMARY:💫天音かなた: 【グロ注意!!】メイドインアビス：同時視聴 8~13話 / MADE IN ABYSS:Watch along【天音かなた/ホロライブ】
-UID:QQy4T3BdUFQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【新作ポケモン】最終回！ラスボス倒して実りある最終回にするぞ！！/ポケットモンスターバイオレット【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=ik_rfbLg0Rc
-DURATION:PT2H
-DTSTART:20221123T130000Z
-SUMMARY:沙花叉クロヱ: 【新作ポケモン】最終回！ラスボス倒して実りある最終回にするぞ！！/ポケットモンスターバイオレット【沙花叉クロヱ/ホロライブ】
-UID:ik_rfbLg0Rc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:生誕祭ありがとうございました～裏の片付け編～ #Shorts\nhttps://www.youtube.com/watch?v=DhnBTEmwGzE
@@ -270,6 +137,20 @@ SUMMARY:🤖ロボ子さん: 【ただいま】引っ越し完了！ただいま
 UID:LSBTywLtGIA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【あくありうむ。】あくあ先輩・・・かざまくんなら、きっと攻略できますよね・・・？💗【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=_pwLf_85i8k
+DURATION:PT2H
+DTSTART:20221123T090000Z
+SUMMARY:風真いろは: 【あくありうむ。】あくあ先輩・・・かざまくんなら、きっと攻略できますよね・・・？💗【風真いろは/ホロライブ】
+UID:_pwLf_85i8k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #なのらいぶ 】懐メロ歌枠なのら～！おぃたんホイホイ！(・o・🍬)【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=BonbXVcWltM
+DURATION:PT2H
+DTSTART:20221123T090000Z
+SUMMARY:🍬姫森ルーナ: 【 #なのらいぶ 】懐メロ歌枠なのら～！おぃたんホイホイ！(・o・🍬)【姫森ルーナ/ホロライブ】
+UID:BonbXVcWltM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 少しだけ 】さくらみこ、地上波でたってよ。【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=KDca4gRW7qc
 DURATION:PT2H
 DTSTART:20221123T123000Z
@@ -277,38 +158,10 @@ SUMMARY:🌸さくらみこ: 【 少しだけ 】さくらみこ、地上波で�
 UID:KDca4gRW7qc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【menber only】ろぼさーと💖【ホロライブ/#ロボ子生放送 】\nhttps://www.youtube.com/watch?v=lQJVqYhr2JA
-DURATION:PT2H
-DTSTART:20221123T130000Z
-SUMMARY:🤖ロボ子さん: 【menber only】ろぼさーと💖【ホロライブ/#ロボ子生放送 】
-UID:lQJVqYhr2JA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Trombone Champ】推しの得意楽器なので攻略するしかないと思った【ホロライブ/不知火フレア】\nhttps://www.youtube.com/watch?v=kIebxOgmENo
-DURATION:PT2H
-DTSTART:20221122T130000Z
-SUMMARY:🔥不知火フレア: 【Trombone Champ】推しの得意楽器なので攻略するしかないと思った【ホロライブ/不知火フレア】
-UID:kIebxOgmENo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンSV】バッジ２つめ目指して！！新作ポケモン初見プレイ！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=EpotEh67HpA
-DURATION:PT2H
-DTSTART:20221122T130000Z
-SUMMARY:⚔白銀ノエル: 【ポケモンSV】バッジ２つめ目指して！！新作ポケモン初見プレイ！【白銀ノエル/ホロライブ】
-UID:EpotEh67HpA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Trombone Champ】最高のトロンボーンを奏でます。【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=kSeHkGEh6HA
 DURATION:PT2H
 DTSTART:20221123T120000Z
 SUMMARY:🌙紫咲シオン: 【Trombone Champ】最高のトロンボーンを奏でます。【ホロライブ/紫咲シオン】
 UID:kSeHkGEh6HA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:『canopus』- AZKi #近距離カメラver【ホロライブ/AZKi】#Shorts\nhttps://www.youtube.com/watch?v=pXvQALZH-jc
-DURATION:PT2H
-DTSTART:20221122T110037Z
-SUMMARY:⚒AZKi: 『canopus』- AZKi #近距離カメラver【ホロライブ/AZKi】#Shorts
-UID:pXvQALZH-jc
 END:VEVENT
 END:VCALENDAR
