@@ -25,13 +25,6 @@ SUMMARY:⚔白銀ノエル: 【誕生日カウントダウン】24日はノエ�
 UID:7j1VV8kEWUc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【日本語】いっぱい話そう！おしゃべり練習配信 Japanese Practice Stream【Pavolia Reine/hololiveID】\nhttps://www.youtube.com/watch?v=MKIBMJb_jhM
-DURATION:PT2H
-DTSTART:20221123T140000Z
-SUMMARY:Reine: 【日本語】いっぱい話そう！おしゃべり練習配信 Japanese Practice Stream【Pavolia Reine/hololiveID】
-UID:MKIBMJb_jhM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#RisuNNN AGENT P(NUTS) #NNN\nhttps://www.youtube.com/watch?v=tetfr9yNd9k
 DURATION:PT2H
 DTSTART:20221123T150038Z
@@ -58,6 +51,13 @@ DURATION:PT2H
 DTSTART:20221123T143000Z
 SUMMARY:🦔💨岸堂天真: 【マリカ】レート9248~ マリッカモンスターです。【岸堂天真/ホロスターズ】
 UID:tAomMmPvyHQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポケモンスカーレット】#7 パルデアの大穴にヒマナッツを連れて挑む男【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=V8MMaAo6Zic
+DURATION:PT2H
+DTSTART:20221124T140000Z
+SUMMARY:🍕アルランディス: 【ポケモンスカーレット】#7 パルデアの大穴にヒマナッツを連れて挑む男【アルランディス/ホロスターズ】
+UID:V8MMaAo6Zic
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Splatoon3】現在：ウデマエS+9 急げ！バンカラマッチ！！【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=0iQ6Y9m1EW4
@@ -151,11 +151,11 @@ SUMMARY:緋崎ガンマ: 【 #スタ雑 第2回 】ホロスタメンバーが�
 UID:vjYsJ2mpvL0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロオフコーデ】アイドルファッションバトル!!【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=XSFn2ZaMRQA
+DESCRIPTION:Y A S !\nhttps://www.youtube.com/watch?v=Q-CkM4TTVoY
 DURATION:PT2H
-DTSTART:20221124T130000Z
-SUMMARY:🏴☠宝鐘マリン: 【#ホロオフコーデ】アイドルファッションバトル!!【ホロライブ/宝鐘マリン】
-UID:XSFn2ZaMRQA
+DTSTART:20221123T220000Z
+SUMMARY:Kiara: Y A S !
+UID:Q-CkM4TTVoY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DDLC】Going on a school festival date with Sayori!!! #3\nhttps://www.youtube.com/watch?v=zZD-fL4x3cM
@@ -163,6 +163,13 @@ DURATION:PT2H
 DTSTART:20221123T030000Z
 SUMMARY:Syrios: 【DDLC】Going on a school festival date with Sayori!!! #3
 UID:zZD-fL4x3cM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロオフコーデ】アイドルファッションバトル!!【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=XSFn2ZaMRQA
+DURATION:PT2H
+DTSTART:20221124T130000Z
+SUMMARY:🏴☠宝鐘マリン: 【#ホロオフコーデ】アイドルファッションバトル!!【ホロライブ/宝鐘マリン】
+UID:XSFn2ZaMRQA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】Mumei's Here To Help!! ~ (open VC)\nhttps://www.youtube.com/watch?v=PAL3HXPRlJM
@@ -298,13 +305,6 @@ SUMMARY:Altare: Prison Time. 【MINECRAFT】 【16】
 UID:D8X94u1j5Ew
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【新作ポケモン】最終回！ラスボス倒して実りある最終回にするぞ！！/ポケットモンスターバイオレット【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=ik_rfbLg0Rc
-DURATION:PT2H
-DTSTART:20221123T130000Z
-SUMMARY:沙花叉クロヱ: 【新作ポケモン】最終回！ラスボス倒して実りある最終回にするぞ！！/ポケットモンスターバイオレット【沙花叉クロヱ/ホロライブ】
-UID:ik_rfbLg0Rc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【HiRyS!】I'M BACK WITH BIG NEWS :D【Announcement】\nhttps://www.youtube.com/watch?v=mx1tixhhAPo
 DURATION:PT2H
 DTSTART:20221124T010000Z
@@ -415,12 +415,5 @@ DURATION:PT2H
 DTSTART:20221123T110000Z
 SUMMARY:ホロスターズ: 【ネタバレ厳禁】過去イチの騙し合いに収録大荒れ【#ジャンプロ】
 UID:B1EGOZEIsn0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンスカーレット】#6 全部のストーリーが終盤へ！コメント安価パーティでクリアなるか!?【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=huLbNAklTj8
-DURATION:PT2H
-DTSTART:20221123T123000Z
-SUMMARY:🍕アルランディス: 【ポケモンスカーレット】#6 全部のストーリーが終盤へ！コメント安価パーティでクリアなるか!?【アルランディス/ホロスターズ】
-UID:huLbNAklTj8
 END:VEVENT
 END:VCALENDAR
