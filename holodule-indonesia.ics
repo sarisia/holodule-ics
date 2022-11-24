@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】continuing the project 🎁【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=ejOtLTZIwm0
+DURATION:PT2H
+DTSTART:20221125T013800Z
+SUMMARY:Kaela: 【Minecraft】continuing the project 🎁【Kaela Kovalskia / hololiveID】
+UID:ejOtLTZIwm0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Resident Evil 6】#2 LEOOOOOOOONNNNN\nhttps://www.youtube.com/watch?v=UMjyT74H6Dk
 DURATION:PT2H
 DTSTART:20221124T130000Z
@@ -93,5 +100,12 @@ DURATION:PT2H
 DTSTART:20221124T130000Z
 SUMMARY:🔮Moona: 【Cooking】Today we'll cook something!【holoID】
 UID:csp1kxsm4kU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:pokemon emotes voice pack #shorts\nhttps://www.youtube.com/watch?v=lAYotoCEySw
+DURATION:PT2H
+DTSTART:20221124T191741Z
+SUMMARY:Zeta: pokemon emotes voice pack #shorts
+UID:lAYotoCEySw
 END:VEVENT
 END:VCALENDAR
