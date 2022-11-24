@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【POKEMON SCARLET】JUST A FEW MORE GYMS!!【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=Q7eQfA6yFow
+DURATION:PT2H
+DTSTART:20221124T111732Z
+SUMMARY:Ollie: 【POKEMON SCARLET】JUST A FEW MORE GYMS!!【Hololive ID 2nd Generation】
+UID:Q7eQfA6yFow
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】continuing the project 🎁【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=ejOtLTZIwm0
 DURATION:PT2H
 DTSTART:20221125T013800Z
@@ -18,25 +25,11 @@ SUMMARY:Zeta: 【Resident Evil 6】#2 LEOOOOOOOONNNNN
 UID:UMjyT74H6Dk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DOTA 2】PENASARAN!!! KOBO GENDONG @Zen Gunawan【MAHA5】 SAMA @Siska Leontyne 【NIJISANJI / にじさんじ】\nhttps://www.youtube.com/watch?v=X5vwBBwo2vQ
-DURATION:PT2H
-DTSTART:20221124T120000Z
-SUMMARY:Kobo: 【DOTA 2】PENASARAN!!! KOBO GENDONG @Zen Gunawan【MAHA5】 SAMA @Siska Leontyne 【NIJISANJI / にじさんじ】
-UID:X5vwBBwo2vQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DRAWING】literally drawing feet for like 2 hours【Pavolia Reine/hololiveID】\nhttps://www.youtube.com/watch?v=Lw8JuK1yX9E
 DURATION:PT2H
 DTSTART:20221124T040000Z
 SUMMARY:Reine: 【DRAWING】literally drawing feet for like 2 hours【Pavolia Reine/hololiveID】
 UID:Lw8JuK1yX9E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Resident Evil 6 バイオ6】Isekai Counter: 0【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=TBOje8t6zyM
-DURATION:PT2H
-DTSTART:20221124T130000Z
-SUMMARY:Anya: 【Resident Evil 6 バイオ6】Isekai Counter: 0【hololive ID 2nd Generation | Anya Melfissa】
-UID:TBOje8t6zyM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【POKEMON VIOLET】#1 FIRST TIME\nhttps://www.youtube.com/watch?v=2xxNXmOazeM
@@ -81,13 +74,6 @@ SUMMARY:Reine: #4【POKEMON SCARLET】GET ALL THE BADGES AND GOGOGO【Pavolia Re
 UID:vt0B9EmF884
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Freetalk ID 】Review Komentar Halu IOFORIA【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=1pjWr4Z2Soo
-DURATION:PT2H
-DTSTART:20221124T130000Z
-SUMMARY:🎨Iofi: 【 Freetalk ID 】Review Komentar Halu IOFORIA【 iofi / ホロライブ 】
-UID:1pjWr4Z2Soo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Moona Hoshinova - Jazzin' Up with The Moon...   (YouTube Music Weekend)\nhttps://www.youtube.com/watch?v=vdwaRnAeZyg
 DURATION:PT2H
 DTSTART:20221126T100000Z
@@ -107,5 +93,26 @@ DURATION:PT2H
 DTSTART:20221124T191741Z
 SUMMARY:Zeta: pokemon emotes voice pack #shorts
 UID:lAYotoCEySw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DOTA 2】PENASARAN!!! KOBO GENDONG @Zen Gunawan【MAHA5】 SAMA @Siska Leontyne 【NIJISANJI / にじさんじ】\nhttps://www.youtube.com/watch?v=X5vwBBwo2vQ
+DURATION:PT2H
+DTSTART:20221124T120000Z
+SUMMARY:Kobo: 【DOTA 2】PENASARAN!!! KOBO GENDONG @Zen Gunawan【MAHA5】 SAMA @Siska Leontyne 【NIJISANJI / にじさんじ】
+UID:X5vwBBwo2vQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Resident Evil 6 バイオ6】Isekai Counter: 0【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=TBOje8t6zyM
+DURATION:PT2H
+DTSTART:20221124T130000Z
+SUMMARY:Anya: 【Resident Evil 6 バイオ6】Isekai Counter: 0【hololive ID 2nd Generation | Anya Melfissa】
+UID:TBOje8t6zyM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Freetalk ID 】Review Komentar Halu IOFORIA【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=1pjWr4Z2Soo
+DURATION:PT2H
+DTSTART:20221124T130000Z
+SUMMARY:🎨Iofi: 【 Freetalk ID 】Review Komentar Halu IOFORIA【 iofi / ホロライブ 】
+UID:1pjWr4Z2Soo
 END:VEVENT
 END:VCALENDAR
