@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Pokemon Scarlet】focus raiding ⭐⭐⭐⭐⭐【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=j_ZDqDq00Ys
-DURATION:PT2H
-DTSTART:20221130T014500Z
-SUMMARY:Kaela: 【Pokemon Scarlet】focus raiding ⭐⭐⭐⭐⭐【Kaela Kovalskia / hololiveID】
-UID:j_ZDqDq00Ys
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#RisuNNN Nice Nuts ! #NNN\nhttps://www.youtube.com/watch?v=Si-mdfOE1QM
 DURATION:PT2H
 DTSTART:20221129T150028Z
@@ -25,20 +18,6 @@ SUMMARY:Anya: 【Resident Evil 6 バイオ6】※This Is An FPS Horror Game.【h
 UID:0W18aEsycZs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Pokemon Violet】Jalan jalan.【Moona | Geemoon】\nhttps://www.youtube.com/watch?v=lMtD_BvD3jU
-DURATION:PT2H
-DTSTART:20221130T120000Z
-SUMMARY:🔮Moona: 【Pokemon Violet】Jalan jalan.【Moona | Geemoon】
-UID:lMtD_BvD3jU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Pokémon Violet】Friends...? Who?【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=M_Wz3vCyWrk
-DURATION:PT2H
-DTSTART:20221201T060000Z
-SUMMARY:Anya: 【Pokémon Violet】Friends...? Who?【hololive ID 2nd Generation | Anya Melfissa】
-UID:M_Wz3vCyWrk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#RisuNNN YES OR NO ??? #NNN\nhttps://www.youtube.com/watch?v=vZo83B6aBsI
 DURATION:PT2H
 DTSTART:20221130T150035Z
@@ -51,5 +30,33 @@ DURATION:PT2H
 DTSTART:20221130T141500Z
 SUMMARY:Kaela: 【FIFA23】#3 the career must go on ⚽【Kaela Kovalskia / hololiveID】
 UID:5CyOAF16JE8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Pokemon Scarlet】focus raiding ⭐⭐⭐⭐⭐【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=j_ZDqDq00Ys
+DURATION:PT2H
+DTSTART:20221130T014500Z
+SUMMARY:Kaela: 【Pokemon Scarlet】focus raiding ⭐⭐⭐⭐⭐【Kaela Kovalskia / hololiveID】
+UID:j_ZDqDq00Ys
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【POKEMON SCARLET】IT'S VICTORY ROAD ALL OVER AGAIN【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=uS3zgkpotCI
+DURATION:PT2H
+DTSTART:20221130T110048Z
+SUMMARY:Ollie: 【POKEMON SCARLET】IT'S VICTORY ROAD ALL OVER AGAIN【Hololive ID 2nd Generation】
+UID:uS3zgkpotCI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#6【POKEMON SCARLET - POSTGAME】LET ME IN【Pavolia Reine/hololiveID】\nhttps://www.youtube.com/watch?v=9ozpVnmg8Rw
+DURATION:PT2H
+DTSTART:20221130T120000Z
+SUMMARY:Reine: #6【POKEMON SCARLET - POSTGAME】LET ME IN【Pavolia Reine/hololiveID】
+UID:9ozpVnmg8Rw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Pokémon Violet】Friends...? Who?【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=M_Wz3vCyWrk
+DURATION:PT2H
+DTSTART:20221201T060000Z
+SUMMARY:Anya: 【Pokémon Violet】Friends...? Who?【hololive ID 2nd Generation | Anya Melfissa】
+UID:M_Wz3vCyWrk
 END:VEVENT
 END:VCALENDAR
