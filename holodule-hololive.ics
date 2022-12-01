@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【歌Singing】1周年を迎えて、まだまだ伝えきれてない想いを込めて歌うよ！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=VudUhHtSAiw
+DURATION:PT2H
+DTSTART:20221201T100000Z
+SUMMARY:博衣こより: 【歌Singing】1周年を迎えて、まだまだ伝えきれてない想いを込めて歌うよ！【博衣こより/ホロライブ】
+UID:VudUhHtSAiw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【スパチャ御礼】1周年記念LiveのSuperChat感謝！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=WWjBfip537g
 DURATION:PT2H
 DTSTART:20221202T000000Z
@@ -76,7 +83,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【1周年スパチャ読み】色々な雑談しながら感謝祭り✨【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=EVfc5NQicz8
 DURATION:PT2H
-DTSTART:20221201T140000Z
+DTSTART:20221201T150000Z
 SUMMARY:鷹嶺ルイ: 【1周年スパチャ読み】色々な雑談しながら感謝祭り✨【鷹嶺ルイ/ホロライブ】
 UID:EVfc5NQicz8
 END:VEVENT
@@ -130,10 +137,10 @@ SUMMARY:雪花ラミィ: 【昼活】まったりお昼たいむ【雪花ラミ�
 UID:bu1fdHzCMVI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【F-ZERO X】磨いておきたぜ、その車ァ！【#レトロゲーム部/ホロライブ】\nhttps://www.youtube.com/watch?v=jHOL3rLAjQg
+DESCRIPTION:【F-ZERO X】磨いといたぜ、その車ァ！【#レトロゲーム部/ホロライブ】\nhttps://www.youtube.com/watch?v=jHOL3rLAjQg
 DURATION:PT2H
 DTSTART:20221201T140000Z
-SUMMARY:🍙猫又おかゆ: 【F-ZERO X】磨いておきたぜ、その車ァ！【#レトロゲーム部/ホロライブ】
+SUMMARY:🍙猫又おかゆ: 【F-ZERO X】磨いといたぜ、その車ァ！【#レトロゲーム部/ホロライブ】
 UID:jHOL3rLAjQg
 END:VEVENT
 BEGIN:VEVENT
@@ -228,13 +235,6 @@ SUMMARY:桃鈴ねね: 【 ポケモンSV 】虫ポケモン探したい２日目
 UID:yDsUA2DyC20
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【お披露目あり】1周年LIVE振り返り雑談✨そしてプチお披露目がいくつかあります！！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=db7lIKE0I6c
-DURATION:PT2H
-DTSTART:20221201T110000Z
-SUMMARY:風真いろは: 【お披露目あり】1周年LIVE振り返り雑談✨そしてプチお披露目がいくつかあります！！【風真いろは/ホロライブ】
-UID:db7lIKE0I6c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ポケモンスカーレット】ストーリ進めてくぞ！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=zyUOqy2TLC0
 DURATION:PT2H
 DTSTART:20221201T130000Z
@@ -324,12 +324,5 @@ DURATION:PT2H
 DTSTART:20221130T130000Z
 SUMMARY:🌲大神ミオ: サヨナラは、まだ / 大神ミオ  (Original)
 UID:824ZTZ06x1U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【案件歌枠】Spotifyまとめ公開記念！ホロ曲縛り歌枠✨【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=6VXi8oa_wXU
-DURATION:PT2H
-DTSTART:20221201T120000Z
-SUMMARY:☄星街すいせい: 【案件歌枠】Spotifyまとめ公開記念！ホロ曲縛り歌枠✨【ホロライブ / 星街すいせい】
-UID:6VXi8oa_wXU
 END:VEVENT
 END:VCALENDAR
