@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:桜ロック - AZKi × 風真いろは 【#風真いろは1周年LIVE】\nhttps://www.youtube.com/watch?v=SpZateJy6ss
+DURATION:PT2H
+DTSTART:20221202T114101Z
+SUMMARY:風真いろは: 桜ロック - AZKi × 風真いろは 【#風真いろは1周年LIVE】
+UID:SpZateJy6ss
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【CHATTING】yattta\nhttps://www.youtube.com/watch?v=n5GJK34cbYY
 DURATION:PT2H
 DTSTART:20221201T023000Z
@@ -65,13 +72,6 @@ DURATION:PT2H
 DTSTART:20221201T090000Z
 SUMMARY:緋崎ガンマ: 【Minecraft】ダイヤモンドを10個掘るまでマイクラする【#緋崎ガンマ  /#アップロー  /#ホロスターズ   /#マイクラ  /#マインクラフト】
 UID:CJzX9t9WBMQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 モーリーオンライン 】#miComet ビジネスきちゃあああああ！！！🌸☄【ホロライブ/さくらみこ/星街すいせい】\nhttps://www.youtube.com/watch?v=4fopQGWsjFM
-DURATION:PT2H
-DTSTART:20221202T110000Z
-SUMMARY:🌸さくらみこ: 【 モーリーオンライン 】#miComet ビジネスきちゃあああああ！！！🌸☄【ホロライブ/さくらみこ/星街すいせい】
-UID:4fopQGWsjFM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:まとめその5【ギリギリわるくないわため】 #ギリわる\nhttps://www.youtube.com/watch?v=9nlg0i5_mqc
@@ -611,6 +611,13 @@ DURATION:PT2H
 DTSTART:20221201T201500Z
 SUMMARY:Kiara: 【MINECRAFT】Hunting SKULLS for the WITHER FIGHT! #kfp #キアライブ
 UID:T0tUsFi6Osc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【晩酌】ねえ、ねえ一緒にぽ酒のも～～～～～💖【ホロライブ/#ロボ子生放送 】\nhttps://www.youtube.com/watch?v=NebD2eJfMEQ
+DURATION:PT2H
+DTSTART:20221202T140000Z
+SUMMARY:🤖ロボ子さん: 【晩酌】ねえ、ねえ一緒にぽ酒のも～～～～～💖【ホロライブ/#ロボ子生放送 】
+UID:NebD2eJfMEQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スーパーマリオワールド】絶・コインを取らなくても入れる保険があるんですか！？【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=Sya4bAZN_Dc
