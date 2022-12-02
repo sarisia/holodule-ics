@@ -4,11 +4,32 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:YTMW Highlights✨📷 #shorts #YouTubeMusicWeekend\nhttps://www.youtube.com/watch?v=Owq0hGWH_00
+DURATION:PT2H
+DTSTART:20221202T220556Z
+SUMMARY:Kiara: YTMW Highlights✨📷 #shorts #YouTubeMusicWeekend
+UID:Owq0hGWH_00
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MV】Moment of my life / IRyS【Original Song】\nhttps://www.youtube.com/watch?v=_4Rfg8R4lOU
 DURATION:PT2H
 DTSTART:20221204T030000Z
 SUMMARY:IRyS: 【MV】Moment of my life / IRyS【Original Song】
 UID:_4Rfg8R4lOU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【The Eminence in Shadow: Master of Garden】 Drawing a cute girl & rolling gacha!\nhttps://www.youtube.com/watch?v=ueqzQJ45tvM
+DURATION:PT2H
+DTSTART:20221202T230000Z
+SUMMARY:Fauna: 【The Eminence in Shadow: Master of Garden】 Drawing a cute girl & rolling gacha!
+UID:ueqzQJ45tvM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Ring Fit Adventure】A Nephilim's Morning Workout!!\nhttps://www.youtube.com/watch?v=3TCBoRzNC5I
+DURATION:PT2H
+DTSTART:20221203T000000Z
+SUMMARY:IRyS: 【Ring Fit Adventure】A Nephilim's Morning Workout!!
+UID:3TCBoRzNC5I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】 WITHER FIGHT PREPARATIONS with KIWAWA!\nhttps://www.youtube.com/watch?v=ecEjDJUVq4I
@@ -37,19 +58,5 @@ DURATION:PT2H
 DTSTART:20221202T030003Z
 SUMMARY:Calli: 【PERSONA 5 ROYAL】I Am IRREVEReNT. (SPOILER ALERT)
 UID:FKMMRzcnOKk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Eminence in Shadow: Master of Garden】 Drawing a cute girl & rolling gacha!\nhttps://www.youtube.com/watch?v=ueqzQJ45tvM
-DURATION:PT2H
-DTSTART:20221202T230000Z
-SUMMARY:Fauna: 【The Eminence in Shadow: Master of Garden】 Drawing a cute girl & rolling gacha!
-UID:ueqzQJ45tvM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Ring Fit Adventure】A Nephilim's Morning Workout!!\nhttps://www.youtube.com/watch?v=3TCBoRzNC5I
-DURATION:PT2H
-DTSTART:20221203T000000Z
-SUMMARY:IRyS: 【Ring Fit Adventure】A Nephilim's Morning Workout!!
-UID:3TCBoRzNC5I
 END:VEVENT
 END:VCALENDAR
