@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ZecretDialog】#10 WELCOME BACK\, HUMANS\nhttps://www.youtube.com/watch?v=iFVkFgZVVVo
-DURATION:PT2H
-DTSTART:20221203T150000Z
-SUMMARY:Zeta: 【ZecretDialog】#10 WELCOME BACK\, HUMANS
-UID:iFVkFgZVVVo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#AnniversOLLIE】OLLIE TEST!! TIME TO GRADE YOUR ANSWERS【Hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=Mp8OF7UfZzw
 DURATION:PT2H
 DTSTART:20221204T130000Z
@@ -25,18 +18,18 @@ SUMMARY:Kaela: 【Phasmophobia】this gonna be fun 😇【Kaela / Baelz / Fauna 
 UID:vVv7IWhdudA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【POKEMON SCARLET】TERA RAIDS\, FREETALK\, AND PAIN【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=Bt-odI2UQxc
+DURATION:PT2H
+DTSTART:20221203T115852Z
+SUMMARY:Ollie: 【POKEMON SCARLET】TERA RAIDS\, FREETALK\, AND PAIN【Hololive ID 2nd Generation】
+UID:Bt-odI2UQxc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【New YABE】Super Late New Cover TALK! Also What's Been Happening?!【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=ylEDzcOTaOU
 DURATION:PT2H
 DTSTART:20221203T060000Z
 SUMMARY:Reine: 【New YABE】Super Late New Cover TALK! Also What's Been Happening?!【Pavolia Reine/hololiveID 2nd gen】
 UID:ylEDzcOTaOU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#3【Your Turn To Die キミガシネ】Motherfeathers Can't Be Trusted【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=Ui4Q5kY2jd4
-DURATION:PT2H
-DTSTART:20221203T143000Z
-SUMMARY:Reine: #3【Your Turn To Die キミガシネ】Motherfeathers Can't Be Trusted【Pavolia Reine/hololiveID 2nd gen】
-UID:Ui4Q5kY2jd4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Project Sekai プロセカ 】WANDAHOI【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=CVM9Ghvu0Xg
@@ -51,5 +44,19 @@ DURATION:PT2H
 DTSTART:20221203T140000Z
 SUMMARY:Kaela: 【Pokemon Scarlet】shiny charmander\, shiny charm doko?【Kaela Kovalskia / hololiveID】
 UID:I_OWDrs8J-8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ZecretDialog】#10 WELCOME BACK\, HUMANS\nhttps://www.youtube.com/watch?v=iFVkFgZVVVo
+DURATION:PT2H
+DTSTART:20221203T150000Z
+SUMMARY:Zeta: 【ZecretDialog】#10 WELCOME BACK\, HUMANS
+UID:iFVkFgZVVVo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#3【Your Turn To Die キミガシネ】Motherfeathers Can't Be Trusted【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=Ui4Q5kY2jd4
+DURATION:PT2H
+DTSTART:20221203T143000Z
+SUMMARY:Reine: #3【Your Turn To Die キミガシネ】Motherfeathers Can't Be Trusted【Pavolia Reine/hololiveID 2nd gen】
+UID:Ui4Q5kY2jd4
 END:VEVENT
 END:VCALENDAR
