@@ -4,74 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【MUMEI'S GAME NIGHT】Crosswords n Trivia ! ~\nhttps://www.youtube.com/watch?v=FAAOliSDZUo
-DURATION:PT2H
-DTSTART:20221207T020000Z
-SUMMARY:Mumei: 【MUMEI'S GAME NIGHT】Crosswords n Trivia ! ~
-UID:FAAOliSDZUo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【POKEMON SCARLET NUZLOCKE】i don't know what the title do\nhttps://www.youtube.com/watch?v=rRfgaidu-Ug
 DURATION:PT2H
 DTSTART:20221208T001720Z
 SUMMARY:Calli: 【POKEMON SCARLET NUZLOCKE】i don't know what the title do
 UID:rRfgaidu-Ug
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【POKEMON VIOLET】Pokemon are my Best Friends and Weapons\nhttps://www.youtube.com/watch?v=B852Qi625k0
-DURATION:PT2H
-DTSTART:20221207T010000Z
-SUMMARY:IRyS: 【POKEMON VIOLET】Pokemon are my Best Friends and Weapons
-UID:B852Qi625k0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SLAY THE SPIRE】Slaying it. For real this time! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=8yj_eUAt_50
-DURATION:PT2H
-DTSTART:20221208T133000Z
-SUMMARY:Kiara: 【SLAY THE SPIRE】Slaying it. For real this time! #kfp #キアライブ
-UID:8yj_eUAt_50
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Mortuary Assistant】Ew\nhttps://www.youtube.com/watch?v=xnygoNMAEkA
-DURATION:PT2H
-DTSTART:20221207T030000Z
-SUMMARY:Kronii: 【The Mortuary Assistant】Ew
-UID:xnygoNMAEkA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪Persona 5 ROYAL≫ Onto the next palace! #3 【SPOILERS】\nhttps://www.youtube.com/watch?v=MkLRj0VzBbE
-DURATION:PT2H
-DTSTART:20221207T010000Z
-SUMMARY:Baelz: ≪Persona 5 ROYAL≫ Onto the next palace! #3 【SPOILERS】
-UID:MkLRj0VzBbE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【POKEMON SCARLET】WHATS COOLER THAN BEING COLD #kfp #キアライブ\nhttps://www.youtube.com/watch?v=yAObnb6FiMM
-DURATION:PT2H
-DTSTART:20221206T151000Z
-SUMMARY:Kiara: 【POKEMON SCARLET】WHATS COOLER THAN BEING COLD #kfp #キアライブ
-UID:yAObnb6FiMM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【3D RINGFIT】HOW LONG TILL I FAINT #kfp #キアライブ\nhttps://www.youtube.com/watch?v=LMsugfCwcwY
-DURATION:PT2H
-DTSTART:20221207T190000Z
-SUMMARY:Kiara: 【3D RINGFIT】HOW LONG TILL I FAINT #kfp #キアライブ
-UID:LMsugfCwcwY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Slice & Dice】 Dice Rolling\, Dungeon Crawling Indie Roguelite!\nhttps://www.youtube.com/watch?v=5-YcViiggI8
-DURATION:PT2H
-DTSTART:20221207T230000Z
-SUMMARY:Fauna: 【Slice & Dice】 Dice Rolling\, Dungeon Crawling Indie Roguelite!
-UID:5-YcViiggI8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Splatoon 3 Collab】Polishing my splat skills with senpai #フレアイリス\nhttps://www.youtube.com/watch?v=wUFeuuGBivo
-DURATION:PT2H
-DTSTART:20221207T131500Z
-SUMMARY:IRyS: 【Splatoon 3 Collab】Polishing my splat skills with senpai #フレアイリス
-UID:wUFeuuGBivo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪Persona 5 ROYAL≫ defeat MADARA #4 【SPOILERS】\nhttps://www.youtube.com/watch?v=4MR8BrscUaA
@@ -86,5 +23,26 @@ DURATION:PT2H
 DTSTART:20221208T005954Z
 SUMMARY:Gura: 【THE CALLISTO PROTOCOL】uhhhhhh
 UID:aHbiwZbmkuQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SLAY THE SPIRE】Slaying it. For real this time! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=8yj_eUAt_50
+DURATION:PT2H
+DTSTART:20221208T133000Z
+SUMMARY:Kiara: 【SLAY THE SPIRE】Slaying it. For real this time! #kfp #キアライブ
+UID:8yj_eUAt_50
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【3D RINGFIT】HOW LONG TILL I FAINT #kfp #キアライブ\nhttps://www.youtube.com/watch?v=LMsugfCwcwY
+DURATION:PT2H
+DTSTART:20221207T190000Z
+SUMMARY:Kiara: 【3D RINGFIT】HOW LONG TILL I FAINT #kfp #キアライブ
+UID:LMsugfCwcwY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Slice & Dice】 Dice Rolling\, Dungeon Crawling Indie Roguelite!\nhttps://www.youtube.com/watch?v=5-YcViiggI8
+DURATION:PT2H
+DTSTART:20221207T230000Z
+SUMMARY:Fauna: 【Slice & Dice】 Dice Rolling\, Dungeon Crawling Indie Roguelite!
+UID:5-YcViiggI8
 END:VEVENT
 END:VCALENDAR
