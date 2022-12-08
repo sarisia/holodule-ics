@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【 #なのらいぶ 】昼活！コインランドリービジネス始めるのら！ ～Arcade Paradise【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=zZBxu6208wE
+DURATION:PT2H
+DTSTART:20221208T020000Z
+SUMMARY:🍬姫森ルーナ: 【 #なのらいぶ 】昼活！コインランドリービジネス始めるのら！ ～Arcade Paradise【姫森ルーナ/ホロライブ】
+UID:zZBxu6208wE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:夜光通信 / 大神ミオ (Original)\nhttps://www.youtube.com/watch?v=eZWjYWcQ4Xo
 DURATION:PT2H
 DTSTART:20221207T124500Z
 SUMMARY:🌲大神ミオ: 夜光通信 / 大神ミオ (Original)
 UID:eZWjYWcQ4Xo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Rock\, scissors\, paper. One\, two\, three!【hololive/鷹嶺ルイ】#shorts\nhttps://www.youtube.com/watch?v=V8qWPtrUl9Q
-DURATION:PT2H
-DTSTART:20221207T040017Z
-SUMMARY:鷹嶺ルイ: Rock\, scissors\, paper. One\, two\, three!【hololive/鷹嶺ルイ】#shorts
-UID:V8qWPtrUl9Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ポケモンSV】バッジ４つめ目指して！！新作ポケモン初見プレイ！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=lO1V4S6b5LM
@@ -25,18 +25,109 @@ SUMMARY:⚔白銀ノエル: 【ポケモンSV】バッジ４つめ目指して�
 UID:lO1V4S6b5LM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ドライブ】ひよりんと茨城県を大満喫！ドライブ観光にレッツゴー！前編【茨ひより】\nhttps://www.youtube.com/watch?v=YdPXLxiv5EQ
-DURATION:PT2H
-DTSTART:20221207T090012Z
-SUMMARY:🍎アキロゼ: 【ドライブ】ひよりんと茨城県を大満喫！ドライブ観光にレッツゴー！前編【茨ひより】
-UID:YdPXLxiv5EQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 ポケモンSV 】９日目 みんなの運をオラに分けてくれ――ッ！～ ホゲータ色違いが欲しい旅 ～【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=vaq7BD35EJ8
 DURATION:PT2H
 DTSTART:20221207T120000Z
 SUMMARY:🌸さくらみこ: 【 ポケモンSV 】９日目 みんなの運をオラに分けてくれ――ッ！～ ホゲータ色違いが欲しい旅 ～【ホロライブ/さくらみこ】
 UID:vaq7BD35EJ8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スバころVSぺこマリ】メガトン級ムサシXをプレイするぞ～！！【ホロライブ】\nhttps://www.youtube.com/watch?v=O_yLPovYVhI
+DURATION:PT2H
+DTSTART:20221208T100000Z
+SUMMARY:🥐戌神ころね: 【スバころVSぺこマリ】メガトン級ムサシXをプレイするぞ～！！【ホロライブ】
+UID:O_yLPovYVhI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ババドナ】サクラ大戦～熱き血潮に～で遊んでみるしゅばあああああああああああああああああ！！！！！【※ネタバレあり】\nhttps://www.youtube.com/watch?v=FyYpyHpH9vE
+DURATION:PT2H
+DTSTART:20221207T120000Z
+SUMMARY:🚑大空スバル: 【#ババドナ】サクラ大戦～熱き血潮に～で遊んでみるしゅばあああああああああああああああああ！！！！！【※ネタバレあり】
+UID:FyYpyHpH9vE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【逆襲】ラプ様は圧力をかけたい！【#アンサープレッシャー】\nhttps://www.youtube.com/watch?v=qWogwfC3qA0
+DURATION:PT2H
+DTSTART:20221208T110000Z
+SUMMARY:ホロライブ: 【逆襲】ラプ様は圧力をかけたい！【#アンサープレッシャー】
+UID:qWogwfC3qA0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ぺこマリVSスバころ】メガトン級ムサシXで遊ぶぞ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=m85x4NmD_Ew
+DURATION:PT2H
+DTSTART:20221208T100000Z
+SUMMARY:👯兎田ぺこら: 【ぺこマリVSスバころ】メガトン級ムサシXで遊ぶぞ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:m85x4NmD_Ew
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ちゃまたんなのら】ほろ酔い🍷飲んで騒いで大暴れ！【マリオパーティスーパースターズ】\nhttps://www.youtube.com/watch?v=ga1rUeCifIY
+DURATION:PT2H
+DTSTART:20221207T120000Z
+SUMMARY:❤赤井はあと: 【#ちゃまたんなのら】ほろ酔い🍷飲んで騒いで大暴れ！【マリオパーティスーパースターズ】
+UID:ga1rUeCifIY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【晩酌雑談】誕生日を迎えたい！！カウントダウン配信！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=DjIUU347E78
+DURATION:PT2H
+DTSTART:20221207T143000Z
+SUMMARY:🌙紫咲シオン: 【晩酌雑談】誕生日を迎えたい！！カウントダウン配信！【ホロライブ/紫咲シオン】
+UID:DjIUU347E78
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メンバー限定配信】開設2年9ヶ月目！同時視聴『グリンチ/The GRINCH(2018)』一緒に観よう！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=lSbIlBY9xLQ
+DURATION:PT2H
+DTSTART:20221208T130000Z
+SUMMARY:🐏角巻わため: 【メンバー限定配信】開設2年9ヶ月目！同時視聴『グリンチ/The GRINCH(2018)』一緒に観よう！【角巻わため/ホロライブ４期生】
+UID:lSbIlBY9xLQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【BIOHAZARD VILLAGE】イーサンと人間観覧車の工場　＃９【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=NsFFwieAQdc
+DURATION:PT2H
+DTSTART:20221207T130000Z
+SUMMARY:🌽白上フブキ: 【BIOHAZARD VILLAGE】イーサンと人間観覧車の工場　＃９【ホロライブ/白上フブキ】
+UID:NsFFwieAQdc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マリオカート8DX】急に新コースきて草、だが、サムネ通り。【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=nwm5VnymJQM
+DURATION:PT2H
+DTSTART:20221207T130000Z
+SUMMARY:👾常闇トワ: 【マリオカート8DX】急に新コースきて草、だが、サムネ通り。【常闇トワ/ホロライブ】
+UID:nwm5VnymJQM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:睡眠導入/安眠用/囁きで眠りにつける/ぐっすり眠れる/リピート推奨 #shorts 【博衣こより/hololive】\nhttps://www.youtube.com/watch?v=vDO7bhAWcMM
+DURATION:PT2H
+DTSTART:20221207T172057Z
+SUMMARY:博衣こより: 睡眠導入/安眠用/囁きで眠りにつける/ぐっすり眠れる/リピート推奨 #shorts 【博衣こより/hololive】
+UID:vDO7bhAWcMM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ノンブレス・オブリージュ / 獅白ぼたん(cover)\nhttps://www.youtube.com/watch?v=vvGvqbAxp6s
+DURATION:PT2H
+DTSTART:20221207T090000Z
+SUMMARY:獅白ぼたん: ノンブレス・オブリージュ / 獅白ぼたん(cover)
+UID:vvGvqbAxp6s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポケモンSV】チャンプルジムに行きたいという気持ちはあります！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=8GiAWJE1j-I
+DURATION:PT2H
+DTSTART:20221207T130000Z
+SUMMARY:🐏角巻わため: 【ポケモンSV】チャンプルジムに行きたいという気持ちはあります！【角巻わため/ホロライブ４期生】
+UID:8GiAWJE1j-I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Rock\, scissors\, paper. One\, two\, three!【hololive/鷹嶺ルイ】#shorts\nhttps://www.youtube.com/watch?v=V8qWPtrUl9Q
+DURATION:PT2H
+DTSTART:20221207T040017Z
+SUMMARY:鷹嶺ルイ: Rock\, scissors\, paper. One\, two\, three!【hololive/鷹嶺ルイ】#shorts
+UID:V8qWPtrUl9Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ドライブ】ひよりんと茨城県を大満喫！ドライブ観光にレッツゴー！前編【茨ひより】\nhttps://www.youtube.com/watch?v=YdPXLxiv5EQ
+DURATION:PT2H
+DTSTART:20221207T090012Z
+SUMMARY:🍎アキロゼ: 【ドライブ】ひよりんと茨城県を大満喫！ドライブ観光にレッツゴー！前編【茨ひより】
+UID:YdPXLxiv5EQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Cats Organized Neatly 】ねこちゃんパズルでのんびり～～🐈\nhttps://www.youtube.com/watch?v=n64iaqGTNNc
@@ -51,13 +142,6 @@ DURATION:PT2H
 DTSTART:20221207T130000Z
 SUMMARY:博衣こより: 【オフコラボ】 #ホロいぬいぬ 初の雑談コラボ♡まったり過ごす！ 【博衣こより/ホロライブ】
 UID:c21Crx7Qeow
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ババドナ】サクラ大戦～熱き血潮に～で遊んでみるしゅばあああああああああああああああああ！！！！！【※ネタバレあり】\nhttps://www.youtube.com/watch?v=FyYpyHpH9vE
-DURATION:PT2H
-DTSTART:20221207T120000Z
-SUMMARY:🚑大空スバル: 【#ババドナ】サクラ大戦～熱き血潮に～で遊んでみるしゅばあああああああああああああああああ！！！！！【※ネタバレあり】
-UID:FyYpyHpH9vE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【オフコラボ】アキちゃんと深夜の女子会！食べるぞ！ゲームもするぞ！【ホロライブ/#ロボタール】\nhttps://www.youtube.com/watch?v=oQqDV3nUJv8
@@ -81,39 +165,11 @@ SUMMARY:❤赤井はあと: 【HoloDive】I'M BLACK HOOOOLE!!!!!! 【#HaachamaEn
 UID:bo3OjavDbn0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【逆襲】ラプ様は圧力をかけたい！【#アンサープレッシャー】\nhttps://www.youtube.com/watch?v=qWogwfC3qA0
-DURATION:PT2H
-DTSTART:20221208T110000Z
-SUMMARY:ホロライブ: 【逆襲】ラプ様は圧力をかけたい！【#アンサープレッシャー】
-UID:qWogwfC3qA0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ぺこマリVSスバころ】メガトン級ムサシXで遊ぶぞ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=m85x4NmD_Ew
-DURATION:PT2H
-DTSTART:20221208T100000Z
-SUMMARY:👯兎田ぺこら: 【ぺこマリVSスバころ】メガトン級ムサシXで遊ぶぞ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:m85x4NmD_Ew
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ポケモンSV】沙花叉のニャオハ色違い厳選が今始まる…！1日目/ポケットモンスターバイオレット【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=rAJ-2waX7Vc
 DURATION:PT2H
 DTSTART:20221207T120000Z
 SUMMARY:沙花叉クロヱ: 【ポケモンSV】沙花叉のニャオハ色違い厳選が今始まる…！1日目/ポケットモンスターバイオレット【沙花叉クロヱ/ホロライブ】
 UID:rAJ-2waX7Vc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ちゃまたんなのら】ほろ酔い🍷飲んで騒いで大暴れ！【マリオパーティスーパースターズ】\nhttps://www.youtube.com/watch?v=ga1rUeCifIY
-DURATION:PT2H
-DTSTART:20221207T120000Z
-SUMMARY:❤赤井はあと: 【#ちゃまたんなのら】ほろ酔い🍷飲んで騒いで大暴れ！【マリオパーティスーパースターズ】
-UID:ga1rUeCifIY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【晩酌雑談】誕生日を迎えたい！！カウントダウン配信！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=DjIUU347E78
-DURATION:PT2H
-DTSTART:20221207T143000Z
-SUMMARY:🌙紫咲シオン: 【晩酌雑談】誕生日を迎えたい！！カウントダウン配信！【ホロライブ/紫咲シオン】
-UID:DjIUU347E78
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【＃ロボ子さん新ビジュアル】更に高性能にアップデートされた姿で君に会いにきたよボクをみてて？【ロボ子さんホロライブ】\nhttps://www.youtube.com/watch?v=9yy1L7liIpU
@@ -123,25 +179,11 @@ SUMMARY:🤖ロボ子さん: 【＃ロボ子さん新ビジュアル】更に高
 UID:9yy1L7liIpU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【メンバー限定配信】開設2年9ヶ月目！同時視聴『グリンチ/The GRINCH(2018)』一緒に観よう！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=lSbIlBY9xLQ
-DURATION:PT2H
-DTSTART:20221208T130000Z
-SUMMARY:🐏角巻わため: 【メンバー限定配信】開設2年9ヶ月目！同時視聴『グリンチ/The GRINCH(2018)』一緒に観よう！【角巻わため/ホロライブ４期生】
-UID:lSbIlBY9xLQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:放送室 / 星街すいせい(official)\nhttps://www.youtube.com/watch?v=BP59Bm6T3_I
 DURATION:PT2H
 DTSTART:20221207T130000Z
 SUMMARY:☄星街すいせい: 放送室 / 星街すいせい(official)
 UID:BP59Bm6T3_I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンスカーレット】かわいいパーティーで強くなる！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=HARbKDHT1OQ
-DURATION:PT2H
-DTSTART:20221207T130000Z
-SUMMARY:🐻ときのそら: 【ポケモンスカーレット】かわいいパーティーで強くなる！！【#ときのそら生放送】
-UID:HARbKDHT1OQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【食費APEX】1ダメ1円で相手の食費を稼ぐ！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=vPww9-sY-l4
@@ -151,11 +193,11 @@ SUMMARY:🏮夏色まつり: 【食費APEX】1ダメ1円で相手の食費を稼
 UID:vPww9-sY-l4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【BIOHAZARD VILLAGE】イーサンと人間観覧車の工場　＃９【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=NsFFwieAQdc
+DESCRIPTION:【雑/Chatting】俺の昼【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=eP4RsapNL-4
 DURATION:PT2H
-DTSTART:20221207T130000Z
-SUMMARY:🌽白上フブキ: 【BIOHAZARD VILLAGE】イーサンと人間観覧車の工場　＃９【ホロライブ/白上フブキ】
-UID:NsFFwieAQdc
+DTSTART:20221208T030000Z
+SUMMARY:尾丸ポルカ: 【雑/Chatting】俺の昼【尾丸ポルカ/ホロライブ】
+UID:eP4RsapNL-4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン3】初コラボ！IRySと親睦を深める✨【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=WWiiNmfk7LU
@@ -172,13 +214,6 @@ SUMMARY:風真いろは: 【メン限】メン限雑談✨【風真いろは/ホ
 UID:Pvz6g7l9F4g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】急に新コースきて草、だが、サムネ通り。【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=nwm5VnymJQM
-DURATION:PT2H
-DTSTART:20221207T130000Z
-SUMMARY:👾常闇トワ: 【マリオカート8DX】急に新コースきて草、だが、サムネ通り。【常闇トワ/ホロライブ】
-UID:nwm5VnymJQM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 ポケモンSV 】シガロコを進化させたい6日目！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=TWp15fwqa1I
 DURATION:PT2H
 DTSTART:20221207T090000Z
@@ -186,18 +221,11 @@ SUMMARY:桃鈴ねね: 【 ポケモンSV 】シガロコを進化させたい6�
 UID:TWp15fwqa1I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:睡眠導入/安眠用/囁きで眠りにつける/ぐっすり眠れる/リピート推奨 #shorts 【博衣こより/hololive】\nhttps://www.youtube.com/watch?v=vDO7bhAWcMM
+DESCRIPTION:【ポケモンスカーレット】かわいいパーティーで強くなる！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=HARbKDHT1OQ
 DURATION:PT2H
-DTSTART:20221207T172057Z
-SUMMARY:博衣こより: 睡眠導入/安眠用/囁きで眠りにつける/ぐっすり眠れる/リピート推奨 #shorts 【博衣こより/hololive】
-UID:vDO7bhAWcMM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ノンブレス・オブリージュ / 獅白ぼたん(cover)\nhttps://www.youtube.com/watch?v=vvGvqbAxp6s
-DURATION:PT2H
-DTSTART:20221207T090000Z
-SUMMARY:獅白ぼたん: ノンブレス・オブリージュ / 獅白ぼたん(cover)
-UID:vvGvqbAxp6s
+DTSTART:20221207T130000Z
+SUMMARY:🐻ときのそら: 【ポケモンスカーレット】かわいいパーティーで強くなる！！【#ときのそら生放送】
+UID:HARbKDHT1OQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:雑談＋グッズの宣伝しろって言われた【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=rQtyjDrtBkE
@@ -212,12 +240,5 @@ DURATION:PT2H
 DTSTART:20221207T110000Z
 SUMMARY:🌲大神ミオ: 大神ミオ４周年記念ライブ - Mio Forest night party -
 UID:0WLlmgirGD8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンSV】チャンプルジムに行きたいという気持ちはあります！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=8GiAWJE1j-I
-DURATION:PT2H
-DTSTART:20221207T130000Z
-SUMMARY:🐏角巻わため: 【ポケモンSV】チャンプルジムに行きたいという気持ちはあります！【角巻わため/ホロライブ４期生】
-UID:8GiAWJE1j-I
 END:VEVENT
 END:VCALENDAR
