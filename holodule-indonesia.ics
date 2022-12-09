@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:i want my coffee #shorts\nhttps://www.youtube.com/watch?v=eXmxwOGo9mY
-DURATION:PT2H
-DTSTART:20221208T120619Z
-SUMMARY:Zeta: i want my coffee #shorts
-UID:eXmxwOGo9mY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MV PREMIERE AFTER TALK】Keep Your Eyes On Me? #ReineIllusionNight【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=MTgf-dWF3XM
 DURATION:PT2H
 DTSTART:20221209T141500Z
@@ -18,11 +11,11 @@ SUMMARY:Reine: 【MV PREMIERE AFTER TALK】Keep Your Eyes On Me? #ReineIllusionN
 UID:MTgf-dWF3XM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 APEX 】When Chaos Meets APEX【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=kCN5BqLYl0A
+DESCRIPTION:【HoloDive】checking on new update【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=5J6ShD_zWog
 DURATION:PT2H
-DTSTART:20221208T120000Z
-SUMMARY:🎨Iofi: 【 APEX 】When Chaos Meets APEX【 iofi / ホロライブ 】
-UID:kCN5BqLYl0A
+DTSTART:20221208T080000Z
+SUMMARY:Kaela: 【HoloDive】checking on new update【Kaela Kovalskia / hololiveID】
+UID:5J6ShD_zWog
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【EATING HANDCAM】TRYING NATTO FOR THE FIRST TIME!!!!\nhttps://www.youtube.com/watch?v=MEJ2xoTGU2M
@@ -39,13 +32,6 @@ SUMMARY:Ollie: 【OVERWATCH 2】ZETA... IKUT DONG【Hololive ID 2nd Gen】
 UID:Yd0pdPBZifQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Official Animated MV】Illusion Night ／ Pavolia Reine【Original Song】\nhttps://www.youtube.com/watch?v=gREPKQUoD4o
-DURATION:PT2H
-DTSTART:20221209T140000Z
-SUMMARY:Reine: 【Official Animated MV】Illusion Night ／ Pavolia Reine【Original Song】
-UID:gREPKQUoD4o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【OVERWATCH 2】YEET WORK LEMME BE AN IRRESPONSIBLE ADULT FOR TODAY【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=VzB1bSVtBYA
 DURATION:PT2H
 DTSTART:20221208T075931Z
@@ -60,32 +46,11 @@ SUMMARY:🐿Risu: 【holoID】Prisuners Night : blublub【Ayunda Risu】
 UID:ftFn1oa3jOM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Pokemon Scarlet】get that shiny【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=9j-HWxmzQT8
-DURATION:PT2H
-DTSTART:20221208T134000Z
-SUMMARY:Kaela: 【Pokemon Scarlet】get that shiny【Kaela Kovalskia / hololiveID】
-UID:9j-HWxmzQT8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Overwatch 2】endurance grind *unlocking rank* (OPEN VC)\nhttps://www.youtube.com/watch?v=0LWs-01Ia8U
 DURATION:PT2H
 DTSTART:20221208T150000Z
 SUMMARY:Zeta: 【Overwatch 2】endurance grind *unlocking rank* (OPEN VC)
 UID:0LWs-01Ia8U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Overwatch 2 】Pew Pew With Bestie【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=AbveGJqznj4
-DURATION:PT2H
-DTSTART:20221208T080000Z
-SUMMARY:🎨Iofi: 【 Overwatch 2 】Pew Pew With Bestie【 iofi / ホロライブ 】
-UID:AbveGJqznj4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HoloDive】checking on new update【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=5J6ShD_zWog
-DURATION:PT2H
-DTSTART:20221208T080000Z
-SUMMARY:Kaela: 【HoloDive】checking on new update【Kaela Kovalskia / hololiveID】
-UID:5J6ShD_zWog
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ラブライブ！】これはムーナのお気に入りの映画です! 一緒に見よう♥【hololive x Love Live!同時視聴会 #ホロライブラブライブ】\nhttps://www.youtube.com/watch?v=L00Pwuo2vSk
@@ -107,5 +72,47 @@ DURATION:PT2H
 DTSTART:20221209T091521Z
 SUMMARY:Kaela: PADORU
 UID:T9rUYbtefqY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:i want my coffee #shorts\nhttps://www.youtube.com/watch?v=eXmxwOGo9mY
+DURATION:PT2H
+DTSTART:20221208T120619Z
+SUMMARY:Zeta: i want my coffee #shorts
+UID:eXmxwOGo9mY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 APEX 】When Chaos Meets APEX【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=kCN5BqLYl0A
+DURATION:PT2H
+DTSTART:20221208T120000Z
+SUMMARY:🎨Iofi: 【 APEX 】When Chaos Meets APEX【 iofi / ホロライブ 】
+UID:kCN5BqLYl0A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Raft】missing the sea ⛵ 【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=H5dBoA6TUg4
+DURATION:PT2H
+DTSTART:20221209T140000Z
+SUMMARY:Kaela: 【Raft】missing the sea ⛵ 【Kaela Kovalskia / hololiveID】
+UID:H5dBoA6TUg4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Overwatch 2 】Pew Pew With Bestie【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=AbveGJqznj4
+DURATION:PT2H
+DTSTART:20221208T080000Z
+SUMMARY:🎨Iofi: 【 Overwatch 2 】Pew Pew With Bestie【 iofi / ホロライブ 】
+UID:AbveGJqznj4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Pokemon Scarlet】get that shiny【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=9j-HWxmzQT8
+DURATION:PT2H
+DTSTART:20221208T134000Z
+SUMMARY:Kaela: 【Pokemon Scarlet】get that shiny【Kaela Kovalskia / hololiveID】
+UID:9j-HWxmzQT8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Official Animated MV】Illusion Night ／ Pavolia Reine【Original Song】\nhttps://www.youtube.com/watch?v=gREPKQUoD4o
+DURATION:PT2H
+DTSTART:20221209T140000Z
+SUMMARY:Reine: 【Official Animated MV】Illusion Night ／ Pavolia Reine【Original Song】
+UID:gREPKQUoD4o
 END:VEVENT
 END:VCALENDAR
