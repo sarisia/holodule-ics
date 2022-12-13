@@ -74,18 +74,18 @@ SUMMARY:Calli: 【CATS ORGANIZED NEATLY】catlliope meowri
 UID:RE29mF1y2bo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Cats Organized Neatly】のんびりパズルする【#ときのそら生放送 】\nhttps://www.youtube.com/watch?v=Fd_3anCw9L8
-DURATION:PT2H
-DTSTART:20221212T133000Z
-SUMMARY:🐻ときのそら: 【Cats Organized Neatly】のんびりパズルする【#ときのそら生放送 】
-UID:Fd_3anCw9L8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】短いけど最近のことちょっとおはなしでござる🍃【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=Oz6fVOMp2c0
 DURATION:PT2H
 DTSTART:20221212T144500Z
 SUMMARY:風真いろは: 【雑談】短いけど最近のことちょっとおはなしでござる🍃【風真いろは/ホロライブ】
 UID:Oz6fVOMp2c0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Cats Organized Neatly】のんびりパズルする【#ときのそら生放送 】\nhttps://www.youtube.com/watch?v=Fd_3anCw9L8
+DURATION:PT2H
+DTSTART:20221212T133000Z
+SUMMARY:🐻ときのそら: 【Cats Organized Neatly】のんびりパズルする【#ときのそら生放送 】
+UID:Fd_3anCw9L8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【CASUAL ASMR】just sounds i like!!\nhttps://www.youtube.com/watch?v=CP7Ao2W68Hk
@@ -102,18 +102,18 @@ SUMMARY:🐏角巻わため: 【ポケモンSV】どく組のアジトをギッ�
 UID:XOLFaN4FM1g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【VALORANT】フルパでアセンダントへ行く男 / アステル3 AlphaAzur3 ぎる3 八雲べに3 西園チグサ3\nhttps://www.youtube.com/watch?v=0FyrsUGKRUk
-DURATION:PT2H
-DTSTART:20221212T090000Z
-SUMMARY:🎭アステル・レダ: 【VALORANT】フルパでアセンダントへ行く男 / アステル3 AlphaAzur3 ぎる3 八雲べに3 西園チグサ3
-UID:0FyrsUGKRUk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【晩酌】晩酌2次会のお知らせ【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=TBDF2SsMQcc
 DURATION:PT2H
 DTSTART:20221212T141500Z
 SUMMARY:雪花ラミィ: 【晩酌】晩酌2次会のお知らせ【雪花ラミィ/ホロライブ】
 UID:TBDF2SsMQcc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VALORANT】フルパでアセンダントへ行く男 / アステル3 AlphaAzur3 ぎる3 八雲べに3 西園チグサ3\nhttps://www.youtube.com/watch?v=0FyrsUGKRUk
+DURATION:PT2H
+DTSTART:20221212T090000Z
+SUMMARY:🎭アステル・レダ: 【VALORANT】フルパでアセンダントへ行く男 / アステル3 AlphaAzur3 ぎる3 八雲べに3 西園チグサ3
+UID:0FyrsUGKRUk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【CCFF7R 先行プレイ】FF7はここから始まった・・・ #02 ※ネタバレあり【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=fbfdgGvJq8o
@@ -158,18 +158,18 @@ SUMMARY:🔥不知火フレア: 【ポケモンSV】2日目！ブイズパで最
 UID:wjB7syaeI8Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マリカ】レート13601~ 年内の目標は15000‼【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=GD8Mam46TK4
-DURATION:PT2H
-DTSTART:20221212T141000Z
-SUMMARY:🦔💨岸堂天真: 【マリカ】レート13601~ 年内の目標は15000‼【岸堂天真/ホロスターズ】
-UID:GD8Mam46TK4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Cyberpunk】Ah... here we go again【Moona | Geemoon】\nhttps://www.youtube.com/watch?v=Xnq80CDldQs
 DURATION:PT2H
 DTSTART:20221213T070000Z
 SUMMARY:🔮Moona: 【Cyberpunk】Ah... here we go again【Moona | Geemoon】
 UID:Xnq80CDldQs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マリカ】レート13601~ 年内の目標は15000‼【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=GD8Mam46TK4
+DURATION:PT2H
+DTSTART:20221212T141000Z
+SUMMARY:🦔💨岸堂天真: 【マリカ】レート13601~ 年内の目標は15000‼【岸堂天真/ホロスターズ】
+UID:GD8Mam46TK4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PARTY HANDCAM】COUNTDOWN! WHAT DAY IS TOMORROW??\nhttps://www.youtube.com/watch?v=C1aqzsGajzo
@@ -200,6 +200,13 @@ SUMMARY:雪花ラミィ: 【晩酌】お知らせアリ！！ついにあの日�
 UID:4is213nUnaQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Fortnite】2日連続フォートナイトマン【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Bcpbcq_D0Rw
+DURATION:PT2H
+DTSTART:20221213T110000Z
+SUMMARY:🍕アルランディス: 【Fortnite】2日連続フォートナイトマン【アルランディス/ホロスターズ】
+UID:Bcpbcq_D0Rw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:先生、本気でASMR…したいです【ホロライブ/宝鐘マリン・白銀ノエル】\nhttps://www.youtube.com/watch?v=Kr7ogLQh4tc
 DURATION:PT2H
 DTSTART:20221213T130000Z
@@ -221,18 +228,18 @@ SUMMARY:🌺花咲みやび: 【ゼルダの伝説 時のオカリナ】ハー�
 UID:eSGfpyHn8Mo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:≪Persona 5 ROYAL≫ YUUSUKE BEST BOI #5 【SPOILERS】\nhttps://www.youtube.com/watch?v=Y11fY_C9E9Q
+DURATION:PT2H
+DTSTART:20221212T010000Z
+SUMMARY:Baelz: ≪Persona 5 ROYAL≫ YUUSUKE BEST BOI #5 【SPOILERS】
+UID:Y11fY_C9E9Q
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 ポケモンSV 】スター団を秒で更生させる女９日目！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=Y9fWGCn7oBs
 DURATION:PT2H
 DTSTART:20221213T090000Z
 SUMMARY:桃鈴ねね: 【 ポケモンSV 】スター団を秒で更生させる女９日目！【 桃鈴ねね / ホロライブ 】
 UID:Y9fWGCn7oBs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【公式愛】最もリプレイされている瞬間を当てろ！【#公式番組イントロクイズ】\nhttps://www.youtube.com/watch?v=UVzFpcDfv8E
-DURATION:PT2H
-DTSTART:20221212T100000Z
-SUMMARY:ホロライブ: 【公式愛】最もリプレイされている瞬間を当てろ！【#公式番組イントロクイズ】
-UID:UVzFpcDfv8E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Fortnite】突然のFortnite【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=AwWz_oY8A7U
@@ -242,11 +249,11 @@ SUMMARY:🍕アルランディス: 【Fortnite】突然のFortnite【アルラ�
 UID:AwWz_oY8A7U
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪Persona 5 ROYAL≫ YUUSUKE BEST BOI #5 【SPOILERS】\nhttps://www.youtube.com/watch?v=Y11fY_C9E9Q
+DESCRIPTION:【公式愛】最もリプレイされている瞬間を当てろ！【#公式番組イントロクイズ】\nhttps://www.youtube.com/watch?v=UVzFpcDfv8E
 DURATION:PT2H
-DTSTART:20221212T010000Z
-SUMMARY:Baelz: ≪Persona 5 ROYAL≫ YUUSUKE BEST BOI #5 【SPOILERS】
-UID:Y11fY_C9E9Q
+DTSTART:20221212T100000Z
+SUMMARY:ホロライブ: 【公式愛】最もリプレイされている瞬間を当てろ！【#公式番組イントロクイズ】
+UID:UVzFpcDfv8E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【トルネコの大冒険2】不思議のダンジョン絶対くりあ～～～！#3【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=5bpFveUzTrk
@@ -277,18 +284,18 @@ SUMMARY:Fauna: 【Nintendo Switch Sports】 You dare challenge me?
 UID:d0Ptfdfbu4k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スーパーマリオワールド】へたっぴマリオ🔥鬼ムズクリア後コース挑戦中！99残機なくなったら即終了！完全クリアなるか⁉【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=QMs09pyutUs
-DURATION:PT2H
-DTSTART:20221212T100000Z
-SUMMARY:博衣こより: 【スーパーマリオワールド】へたっぴマリオ🔥鬼ムズクリア後コース挑戦中！99残機なくなったら即終了！完全クリアなるか⁉【博衣こより/ホロライブ】
-UID:QMs09pyutUs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#KOBORNDAY2022】You have been invited to my ROYAL BIRTHDAY BALL! ✨\nhttps://www.youtube.com/watch?v=I7sPEEEopYY
 DURATION:PT2H
 DTSTART:20221212T120000Z
 SUMMARY:Kobo: 【#KOBORNDAY2022】You have been invited to my ROYAL BIRTHDAY BALL! ✨
 UID:I7sPEEEopYY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スーパーマリオワールド】へたっぴマリオ🔥鬼ムズクリア後コース挑戦中！99残機なくなったら即終了！完全クリアなるか⁉【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=QMs09pyutUs
+DURATION:PT2H
+DTSTART:20221212T100000Z
+SUMMARY:博衣こより: 【スーパーマリオワールド】へたっぴマリオ🔥鬼ムズクリア後コース挑戦中！99残機なくなったら即終了！完全クリアなるか⁉【博衣こより/ホロライブ】
+UID:QMs09pyutUs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 ポケモンSV 】勝手に行くな！ヘラクロス８日目！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=_j464FEtMLQ
@@ -298,18 +305,18 @@ SUMMARY:桃鈴ねね: 【 ポケモンSV 】勝手に行くな！ヘラクロス
 UID:_j464FEtMLQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MARIO KART 8DX】Testing the new tracks!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=LPoBQUJpXWE
-DURATION:PT2H
-DTSTART:20221212T200000Z
-SUMMARY:Kiara: 【MARIO KART 8DX】Testing the new tracks!!! #kfp #キアライブ
-UID:LPoBQUJpXWE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Pokémon Violet】 Lass Fauna wants to battle! | #5\nhttps://www.youtube.com/watch?v=s9hKu0QCrHA
 DURATION:PT2H
 DTSTART:20221212T230000Z
 SUMMARY:Fauna: 【Pokémon Violet】 Lass Fauna wants to battle! | #5
 UID:s9hKu0QCrHA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MARIO KART 8DX】Testing the new tracks!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=LPoBQUJpXWE
+DURATION:PT2H
+DTSTART:20221212T200000Z
+SUMMARY:Kiara: 【MARIO KART 8DX】Testing the new tracks!!! #kfp #キアライブ
+UID:LPoBQUJpXWE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SIGNALIS】#02 約束を思い出せ…消えた相棒を探して地下へ向かうぞい！ ※ネタバレあり【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=pYRKgqAAyXc
@@ -382,6 +389,13 @@ SUMMARY:Mumei: 【GETTING OVER IT】 On My Own\, In My Lonesome​
 UID:hDeObqjP21g
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【プチお知らせあり♡】引っ越し完了！！新居からただいま雑談！！！ママンの声はいる可能性ありけり。【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=ZWGcx_1Asgk
+DURATION:PT2H
+DTSTART:20221214T090000Z
+SUMMARY:鷹嶺ルイ: 【プチお知らせあり♡】引っ越し完了！！新居からただいま雑談！！！ママンの声はいる可能性ありけり。【鷹嶺ルイ/ホロライブ】
+UID:ZWGcx_1Asgk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【脳を鍛える大人のトレーニング】25歳独身パリピの脳のキレなめんなよ？？【#緋崎ガンマ / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=UXLj9g92sJI
 DURATION:PT2H
 DTSTART:20221213T130000Z
@@ -445,18 +459,18 @@ SUMMARY:🍷夕刻ロベル: 【雑談】16時まで何かする【夕刻ロベ�
 UID:_MgmGF1BQd0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:俺、ついにメガネ買う。買った事ある人教えて～✋【#夜十神封魔  #HOLOSTARS #アップロー】\nhttps://www.youtube.com/watch?v=JAFJfh7AgbU
-DURATION:PT2H
-DTSTART:20221212T110000Z
-SUMMARY:夜十神封魔: 俺、ついにメガネ買う。買った事ある人教えて～✋【#夜十神封魔  #HOLOSTARS #アップロー】
-UID:JAFJfh7AgbU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【カメラ/料理】激ウマ!! 至高のオムライスの作り方！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=4K5yIK7i4Ho
 DURATION:PT2H
 DTSTART:20221212T110000Z
 SUMMARY:👯兎田ぺこら: 【カメラ/料理】激ウマ!! 至高のオムライスの作り方！！！！！ぺこ！【ホロライブ/兎田ぺこら】
 UID:4K5yIK7i4Ho
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:俺、ついにメガネ買う。買った事ある人教えて～✋【#夜十神封魔  #HOLOSTARS #アップロー】\nhttps://www.youtube.com/watch?v=JAFJfh7AgbU
+DURATION:PT2H
+DTSTART:20221212T110000Z
+SUMMARY:夜十神封魔: 俺、ついにメガネ買う。買った事ある人教えて～✋【#夜十神封魔  #HOLOSTARS #アップロー】
+UID:JAFJfh7AgbU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SECRET ENDING FINALE 【Cyberpunk 2077】 【7】\nhttps://www.youtube.com/watch?v=zGy5J63XpVs
@@ -513,13 +527,6 @@ DURATION:PT2H
 DTSTART:20221213T100000Z
 SUMMARY:❤赤井はあと: 【 火夜歌枠 】しっとりバラードな気分...🌙#7【ホロライブ/赤井はあと】
 UID:QYXPtehv_1g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【里帰り】配信テストにつきあってくだひゃい…【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=WTcVD5b_ZQI
-DURATION:PT2H
-DTSTART:20221213T093000Z
-SUMMARY:雪花ラミィ: 【里帰り】配信テストにつきあってくだひゃい…【雪花ラミィ/ホロライブ】
-UID:WTcVD5b_ZQI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Phoenix Wright: Ace Attorney】 I AM ALWAYS RIGHT 【Spoilers Alert】\nhttps://www.youtube.com/watch?v=OwGgIuJkdl0
