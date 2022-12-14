@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【MEMBERS ONLY】A Place Further Than The Universe - PART 2\nhttps://www.youtube.com/watch?v=ZoIDVbRj38I
-DURATION:PT2H
-DTSTART:20221214T013000Z
-SUMMARY:Mumei: 【MEMBERS ONLY】A Place Further Than The Universe - PART 2
-UID:ZoIDVbRj38I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 #ホロ鯖RUST 】帰って来た…RUST…！マップ探索するぞっ！なのら♡【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=FsIJFodkHLc
 DURATION:PT2H
 DTSTART:20221212T153000Z
@@ -58,6 +51,13 @@ DURATION:PT2H
 DTSTART:20221212T194251Z
 SUMMARY:Zeta: Princess Kobo's Story
 UID:h69KyC3Rn_Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ゆるホロチームカート】新コースもでたことだし、ゆるっと協力バトルしちゃいますか【常闇トワ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=yfrm24s7DA0
+DURATION:PT2H
+DTSTART:20221214T130000Z
+SUMMARY:👾常闇トワ: 【#ゆるホロチームカート】新コースもでたことだし、ゆるっと協力バトルしちゃいますか【常闇トワ視点/ホロライブ】
+UID:yfrm24s7DA0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【KARAOKE】Singing This Reaper's Heart Out!\nhttps://www.youtube.com/watch?v=KXHUb3tvYLA
@@ -121,6 +121,13 @@ DURATION:PT2H
 DTSTART:20221212T220000Z
 SUMMARY:博衣こより: 【#朝こよ】先輩にテストされていた！？火曜日の朝のおはこよ～☀ #106【博衣こより/ホロライブ】
 UID:IedGNG8zbVg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Drawing】朝活!!誰に需要があるか不明なショタガンマを描いてみる!!【#緋崎ガンマ / #ホロスターズ / #イラストメイキング #illustration  】\nhttps://www.youtube.com/watch?v=1JD1S4uV8Q0
+DURATION:PT2H
+DTSTART:20221215T000000Z
+SUMMARY:緋崎ガンマ: 【Drawing】朝活!!誰に需要があるか不明なショタガンマを描いてみる!!【#緋崎ガンマ / #ホロスターズ / #イラストメイキング #illustration  】
+UID:1JD1S4uV8Q0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mumei Learns New Words and Phrases\nhttps://www.youtube.com/watch?v=B6QjT5BAj9I
@@ -417,6 +424,13 @@ SUMMARY:Reine: 【The Stanley Parable: Ultra Deluxe】So I'm a Salarypeafowl\, a
 UID:bc_jeK0H7rg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:クリスマスの予定は埋まってます。【#ホロスタクリスマス2022 /ホロスターズ/岸堂天真】#shorts\nhttps://www.youtube.com/watch?v=KAku8nXFHbk
+DURATION:PT2H
+DTSTART:20221214T025900Z
+SUMMARY:ホロスターズ: クリスマスの予定は埋まってます。【#ホロスタクリスマス2022 /ホロスターズ/岸堂天真】#shorts
+UID:KAku8nXFHbk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:≪Persona 5 ROYAL≫ TARGET: STUDENT BODY PRESIDENT #6 【SPOILERS】\nhttps://www.youtube.com/watch?v=5zs53EG_mNg
 DURATION:PT2H
 DTSTART:20221213T010000Z
@@ -450,5 +464,12 @@ DURATION:PT2H
 DTSTART:20221213T070000Z
 SUMMARY:Zeta: 【Phoenix Wright: Ace Attorney】 I AM ALWAYS RIGHT 【Spoilers Alert】
 UID:OwGgIuJkdl0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪MORNING CHATS≫ my internet better work\nhttps://www.youtube.com/watch?v=HmzcL-EJwbo
+DURATION:PT2H
+DTSTART:20221214T010000Z
+SUMMARY:Baelz: ≪MORNING CHATS≫ my internet better work
+UID:HmzcL-EJwbo
 END:VEVENT
 END:VCALENDAR
