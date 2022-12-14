@@ -46,18 +46,18 @@ SUMMARY:🍙猫又おかゆ: 【世界の遊び大全51】夜はみんなで大�
 UID:bYzkioPGg6w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Princess Kobo's Story\nhttps://www.youtube.com/watch?v=h69KyC3Rn_Q
-DURATION:PT2H
-DTSTART:20221212T194251Z
-SUMMARY:Zeta: Princess Kobo's Story
-UID:h69KyC3Rn_Q
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ゆるホロチームカート】新コースもでたことだし、ゆるっと協力バトルしちゃいますか【常闇トワ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=yfrm24s7DA0
 DURATION:PT2H
 DTSTART:20221214T130000Z
 SUMMARY:👾常闇トワ: 【#ゆるホロチームカート】新コースもでたことだし、ゆるっと協力バトルしちゃいますか【常闇トワ視点/ホロライブ】
 UID:yfrm24s7DA0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Princess Kobo's Story\nhttps://www.youtube.com/watch?v=h69KyC3Rn_Q
+DURATION:PT2H
+DTSTART:20221212T194251Z
+SUMMARY:Zeta: Princess Kobo's Story
+UID:h69KyC3Rn_Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【UNARCHIVED KARAOKE】Singing This Reaper's Heart Out! (RE-SCHEDULE PENDING)\nhttps://www.youtube.com/watch?v=KXHUb3tvYLA
@@ -88,11 +88,11 @@ SUMMARY:Dezmond: [SUPER MARIO SUNSHINE] GONNA DO THE YOSHI BOAT JUMPING
 UID:2iaYb7_9u58
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[MARIO PARTY SUPERSTARS] TEMPUS GROUP COLLAB\nhttps://www.youtube.com/watch?v=KKAHMZ8OvxQ
+DESCRIPTION:【企画の準備配信】ホロスタ好きなみんな～俺の企画手伝って～【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=iAA-Eo4hlCI
 DURATION:PT2H
-DTSTART:20221213T040000Z
-SUMMARY:Dezmond: [MARIO PARTY SUPERSTARS] TEMPUS GROUP COLLAB
-UID:KKAHMZ8OvxQ
+DTSTART:20221214T120000Z
+SUMMARY:🍕アルランディス: 【企画の準備配信】ホロスタ好きなみんな～俺の企画手伝って～【アルランディス/ホロスターズ】
+UID:iAA-Eo4hlCI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 MADiSON 】Super scary BATSU GAME..... #kobochama\nhttps://www.youtube.com/watch?v=jV4Cl0YxPbk
@@ -102,11 +102,11 @@ SUMMARY:❤赤井はあと: 【 MADiSON 】Super scary BATSU GAME..... #kobocham
 UID:jV4Cl0YxPbk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【企画の準備配信】ホロスタ好きなみんな～俺の企画手伝って～【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=iAA-Eo4hlCI
+DESCRIPTION:[MARIO PARTY SUPERSTARS] TEMPUS GROUP COLLAB\nhttps://www.youtube.com/watch?v=KKAHMZ8OvxQ
 DURATION:PT2H
-DTSTART:20221214T120000Z
-SUMMARY:🍕アルランディス: 【企画の準備配信】ホロスタ好きなみんな～俺の企画手伝って～【アルランディス/ホロスターズ】
-UID:iAA-Eo4hlCI
+DTSTART:20221213T040000Z
+SUMMARY:Dezmond: [MARIO PARTY SUPERSTARS] TEMPUS GROUP COLLAB
+UID:KKAHMZ8OvxQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【CASUAL ASMR】just sounds i like!!\nhttps://www.youtube.com/watch?v=CP7Ao2W68Hk
@@ -284,18 +284,18 @@ SUMMARY:👾常闇トワ: 【Getting Over It】今年の目標、壺おじをク
 UID:W11v_enwWS4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MARIO KART 8DX】Testing the new tracks!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=LPoBQUJpXWE
-DURATION:PT2H
-DTSTART:20221212T200000Z
-SUMMARY:Kiara: 【MARIO KART 8DX】Testing the new tracks!!! #kfp #キアライブ
-UID:LPoBQUJpXWE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Pokémon Violet】 Lass Fauna wants to battle! | #5\nhttps://www.youtube.com/watch?v=s9hKu0QCrHA
 DURATION:PT2H
 DTSTART:20221212T230000Z
 SUMMARY:Fauna: 【Pokémon Violet】 Lass Fauna wants to battle! | #5
 UID:s9hKu0QCrHA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MARIO KART 8DX】Testing the new tracks!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=LPoBQUJpXWE
+DURATION:PT2H
+DTSTART:20221212T200000Z
+SUMMARY:Kiara: 【MARIO KART 8DX】Testing the new tracks!!! #kfp #キアライブ
+UID:LPoBQUJpXWE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Valorant】つよつよ回線になったのでボクは強い！！！【ロボ子さん/ホロライブ】\nhttps://www.youtube.com/watch?v=iVWRQjtsPJk
@@ -403,6 +403,13 @@ SUMMARY:👾常闇トワ: 【リングフィットアドベンチャー】本日
 UID:rnl7XR5fpnA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Building my home UNDERWATER 【MINECRAFT】 【19】\nhttps://www.youtube.com/watch?v=6hHrsiIm8LU
+DURATION:PT2H
+DTSTART:20221214T150000Z
+SUMMARY:Altare: Building my home UNDERWATER 【MINECRAFT】 【19】
+UID:6hHrsiIm8LU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 OUTLAST 】元気に深夜の精神病院を探索する【#vtuber / #羽継烏有 / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=r-XYli_5GXI
 DURATION:PT2H
 DTSTART:20221213T140000Z
@@ -466,18 +473,18 @@ SUMMARY:Altare: DEAD THINGS IN SPACE 【The Callisto Protocol】
 UID:_xEtwN9bQsw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロライブ漫才ボイス 】ホロ-1グランプリ2022 始動！\nhttps://www.youtube.com/watch?v=vYN2VAsM0u8
-DURATION:PT2H
-DTSTART:20221213T090129Z
-SUMMARY:ホロライブ: 【#ホロライブ漫才ボイス 】ホロ-1グランプリ2022 始動！
-UID:vYN2VAsM0u8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【The Stanley Parable: Ultra Deluxe】So I'm a Salarypeafowl\, and...?【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=bc_jeK0H7rg
 DURATION:PT2H
 DTSTART:20221213T140000Z
 SUMMARY:Reine: 【The Stanley Parable: Ultra Deluxe】So I'm a Salarypeafowl\, and...?【Pavolia Reine/hololiveID 2nd gen】
 UID:bc_jeK0H7rg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロライブ漫才ボイス 】ホロ-1グランプリ2022 始動！\nhttps://www.youtube.com/watch?v=vYN2VAsM0u8
+DURATION:PT2H
+DTSTART:20221213T090129Z
+SUMMARY:ホロライブ: 【#ホロライブ漫才ボイス 】ホロ-1グランプリ2022 始動！
+UID:vYN2VAsM0u8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:クリスマスの予定は埋まってます。【#ホロスタクリスマス2022 /ホロスターズ/岸堂天真】#shorts\nhttps://www.youtube.com/watch?v=KAku8nXFHbk
