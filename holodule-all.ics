@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【VALORANT】視聴者ちゃん VS 視聴者ちゃん が見たい / アステル\nhttps://www.youtube.com/watch?v=3s7q8uxaKAk
-DURATION:PT2H
-DTSTART:20221213T150000Z
-SUMMARY:🎭アステル・レダ: 【VALORANT】視聴者ちゃん VS 視聴者ちゃん が見たい / アステル
-UID:3s7q8uxaKAk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】ショートカット覚える！強くなる！！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=5Chu3Yq9Hzo
 DURATION:PT2H
 DTSTART:20221216T040000Z
@@ -25,11 +18,18 @@ SUMMARY:Kiara: SUPER SAIYAN RINGFIT #shorts
 UID:KwoJu7iKIUI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【重大発表】重大告知をします！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=uB7QNNYSEKM
+DESCRIPTION:【３D生配信】ホロスタの「hololive SUPER EXPO」を考えよう！【#ひろがるホロライブ】\nhttps://www.youtube.com/watch?v=doO7FTAU9mY
 DURATION:PT2H
-DTSTART:20221214T120000Z
-SUMMARY:👯兎田ぺこら: 【重大発表】重大告知をします！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:uB7QNNYSEKM
+DTSTART:20221217T110000Z
+SUMMARY:ホロスターズ: 【３D生配信】ホロスタの「hololive SUPER EXPO」を考えよう！【#ひろがるホロライブ】
+UID:doO7FTAU9mY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Phasmophobia】べ、別に。ひ、一人でも余裕ですし。【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=82TfSPHyhY8
+DURATION:PT2H
+DTSTART:20221215T130000Z
+SUMMARY:鷹嶺ルイ: 【Phasmophobia】べ、別に。ひ、一人でも余裕ですし。【鷹嶺ルイ/ホロライブ】
+UID:82TfSPHyhY8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【録画はメン限】悪魔の永眠ASMR【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=_URkVujaHfs
@@ -39,25 +39,18 @@ SUMMARY:💋癒月ちょこ: 【録画はメン限】悪魔の永眠ASMR【ホ�
 UID:_URkVujaHfs
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Phoenix Wright: Ace Attorney】 SO\, WHAT'S THE WEAPON? 【Spoilers Alert】\nhttps://www.youtube.com/watch?v=ovE6IGydaNw
+DURATION:PT2H
+DTSTART:20221214T153000Z
+SUMMARY:Zeta: 【Phoenix Wright: Ace Attorney】 SO\, WHAT'S THE WEAPON? 【Spoilers Alert】
+UID:ovE6IGydaNw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【＃５】金コイキングだけで進むパルデア地方：ベイクジム編【ポケットモンスターゴールドコイキング/ジム戦編】\nhttps://www.youtube.com/watch?v=YakhFyhSBLM
 DURATION:PT2H
 DTSTART:20221215T120000Z
 SUMMARY:🌽白上フブキ: 【＃５】金コイキングだけで進むパルデア地方：ベイクジム編【ポケットモンスターゴールドコイキング/ジム戦編】
 UID:YakhFyhSBLM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:「ふゆびより」歌ってみた！【ホロライブ/AZKi】#Shorts\nhttps://www.youtube.com/watch?v=J-fsMDypznU
-DURATION:PT2H
-DTSTART:20221214T110022Z
-SUMMARY:⚒AZKi: 「ふゆびより」歌ってみた！【ホロライブ/AZKi】#Shorts
-UID:J-fsMDypznU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【急遽雑談】大富豪になれなかった者達の雑談🚑🌲🍙🥐【#SMOK/ホロライブ】\nhttps://www.youtube.com/watch?v=bYzkioPGg6w
-DURATION:PT2H
-DTSTART:20221214T133000Z
-SUMMARY:🍙猫又おかゆ: 【急遽雑談】大富豪になれなかった者達の雑談🚑🌲🍙🥐【#SMOK/ホロライブ】
-UID:bYzkioPGg6w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RADIOLLIE】#3 HAPPY THURSDAY MORNING!! HOW'S YOUR DECEMBER?【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=ayt3QeF9wis
@@ -74,25 +67,18 @@ SUMMARY:水無世燐央: 【Minecraft】ネザーの道路を整備！建材集�
 UID:VNv80EZ8Gcg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪日本語配信≫ 久しぶりー！\nhttps://www.youtube.com/watch?v=vnnPXlHNhEA
+DESCRIPTION:≪POKÉMON SCARLET≫ ruby #5\nhttps://www.youtube.com/watch?v=o0SJP0vtHj0
 DURATION:PT2H
-DTSTART:20221214T120000Z
-SUMMARY:Baelz: ≪日本語配信≫ 久しぶりー！
-UID:vnnPXlHNhEA
+DTSTART:20221216T010000Z
+SUMMARY:Baelz: ≪POKÉMON SCARLET≫ ruby #5
+UID:o0SJP0vtHj0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ゆるホロチームカート】新コースもでたことだし、ゆるっと協力バトルしちゃいますか【常闇トワ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=yfrm24s7DA0
+DESCRIPTION:【ポルカの伝説】ウミガメのスープしってる～？水平思考クイズ回！\nhttps://www.youtube.com/watch?v=jH20E_dZ44s
 DURATION:PT2H
-DTSTART:20221214T130000Z
-SUMMARY:👾常闇トワ: 【#ゆるホロチームカート】新コースもでたことだし、ゆるっと協力バトルしちゃいますか【常闇トワ視点/ホロライブ】
-UID:yfrm24s7DA0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンSV】1級迷子が行く、コレクレーのコイン集め💰#01【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=OivxNfCiZ6c
-DURATION:PT2H
-DTSTART:20221215T120000Z
-SUMMARY:風真いろは: 【ポケモンSV】1級迷子が行く、コレクレーのコイン集め💰#01【風真いろは/ホロライブ】
-UID:OivxNfCiZ6c
+DTSTART:20221215T100000Z
+SUMMARY:尾丸ポルカ: 【ポルカの伝説】ウミガメのスープしってる～？水平思考クイズ回！
+UID:jH20E_dZ44s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【モーリーオンライン】大人気のホロコラボmiCometを大人げなくフルコンプ！？！？！？！？？？？？？【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=egT6T7yKn0w
@@ -102,11 +88,18 @@ SUMMARY:尾丸ポルカ: 【モーリーオンライン】大人気のホロコ�
 UID:egT6T7yKn0w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】夕方に歌うは、好きな歌。【ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=lYXEiQLshgc
+DESCRIPTION:【ポケモンSV】1級迷子が行く、コレクレーのコイン集め💰#01【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=OivxNfCiZ6c
 DURATION:PT2H
-DTSTART:20221214T090000Z
-SUMMARY:🌲大神ミオ: 【歌枠】夕方に歌うは、好きな歌。【ホロライブ/大神ミオ】
-UID:lYXEiQLshgc
+DTSTART:20221215T120000Z
+SUMMARY:風真いろは: 【ポケモンSV】1級迷子が行く、コレクレーのコイン集め💰#01【風真いろは/ホロライブ】
+UID:OivxNfCiZ6c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK | Fjordur】㊗ムキロゼサーバー復活！みんなでワイワイ聖地作ろー！！【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=i5ZfnQW3sCs
+DURATION:PT2H
+DTSTART:20221215T150000Z
+SUMMARY:🍎アキロゼ: 【ARK | Fjordur】㊗ムキロゼサーバー復活！みんなでワイワイ聖地作ろー！！【ホロライブ/アキロゼ】
+UID:i5ZfnQW3sCs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【KARAOKE】Singing This Reaper's Heart Out!\nhttps://www.youtube.com/watch?v=KXHUb3tvYLA
@@ -116,60 +109,39 @@ SUMMARY:Calli: 【KARAOKE】Singing This Reaper's Heart Out!
 UID:KXHUb3tvYLA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スパチャ読み雑談】歌枠～今日までのすぱちゃ読みながら雑談！💭Free talk＆superchat【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=5buio5rITRs
+DESCRIPTION:今日のポルカの伝説！探偵を目指してウミガメのスープ！ #Shorts\nhttps://www.youtube.com/watch?v=-BuJvWAAbYM
 DURATION:PT2H
-DTSTART:20221213T150000Z
-SUMMARY:🔥不知火フレア: 【スパチャ読み雑談】歌枠～今日までのすぱちゃ読みながら雑談！💭Free talk＆superchat【不知火フレア/ホロライブ】
-UID:5buio5rITRs
+DTSTART:20221215T073828Z
+SUMMARY:尾丸ポルカ: 今日のポルカの伝説！探偵を目指してウミガメのスープ！ #Shorts
+UID:-BuJvWAAbYM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 マリカ8DX 】#ゆるホロチームカート で爆走すっぞ！！！！！！！にぇ！！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=NTtsbEiuZ50
+DESCRIPTION:【昼活】元気にランチタイム雑談！！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=5RWTp3wnNgI
 DURATION:PT2H
-DTSTART:20221214T130000Z
-SUMMARY:🌸さくらみこ: 【 マリカ8DX 】#ゆるホロチームカート で爆走すっぞ！！！！！！！にぇ！！！！！【ホロライブ/さくらみこ】
-UID:NTtsbEiuZ50
+DTSTART:20221215T030000Z
+SUMMARY:雪花ラミィ: 【昼活】元気にランチタイム雑談！！！【雪花ラミィ/ホロライブ】
+UID:5RWTp3wnNgI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[SUPER MARIO SUNSHINE] GONNA DO THE YOSHI BOAT JUMPING\nhttps://www.youtube.com/watch?v=2iaYb7_9u58
+DESCRIPTION:【3周年感想会】みんなお疲れ様！感想を聞かせてもらおうか！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=XZSRYEWGzAw
 DURATION:PT2H
-DTSTART:20221214T040000Z
-SUMMARY:Dezmond: [SUPER MARIO SUNSHINE] GONNA DO THE YOSHI BOAT JUMPING
-UID:2iaYb7_9u58
+DTSTART:20221215T110000Z
+SUMMARY:🦔💨岸堂天真: 【3周年感想会】みんなお疲れ様！感想を聞かせてもらおうか！！【岸堂天真/ホロスターズ】
+UID:XZSRYEWGzAw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【企画の準備配信】ホロスタ好きなみんな～俺の企画手伝って～【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=iAA-Eo4hlCI
+DESCRIPTION:【 Just Chatting 】Safety rice has been secured don't bother looking for it\nhttps://www.youtube.com/watch?v=saHFwslvMqA
 DURATION:PT2H
-DTSTART:20221214T120000Z
-SUMMARY:🍕アルランディス: 【企画の準備配信】ホロスタ好きなみんな～俺の企画手伝って～【アルランディス/ホロスターズ】
-UID:iAA-Eo4hlCI
+DTSTART:20221214T180000Z
+SUMMARY:Vesper: 【 Just Chatting 】Safety rice has been secured don't bother looking for it
+UID:saHFwslvMqA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ASMR｜広告なし】耳かきONLY♡ASMR（竹・綿棒・梵天・ブラシetc）/ear cleaningONLY♡cotton swabs\, Brahma\, brushes\, etc.【雪花ラミィ】\nhttps://www.youtube.com/watch?v=HNNb6SADmac
+DESCRIPTION:【マリオカート8 デラックス 】お気に入りを決めて練習しよう！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=58pCSa9UrmY
 DURATION:PT2H
-DTSTART:20221214T140000Z
-SUMMARY:雪花ラミィ: 【ASMR｜広告なし】耳かきONLY♡ASMR（竹・綿棒・梵天・ブラシetc）/ear cleaningONLY♡cotton swabs\, Brahma\, brushes\, etc.【雪花ラミィ】
-UID:HNNb6SADmac
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 MADiSON 】Super scary BATSU GAME..... #kobochama\nhttps://www.youtube.com/watch?v=jV4Cl0YxPbk
-DURATION:PT2H
-DTSTART:20221214T100000Z
-SUMMARY:❤赤井はあと: 【 MADiSON 】Super scary BATSU GAME..... #kobochama
-UID:jV4Cl0YxPbk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:＃02【#ラミィ姉ANU】ラミィ姉のオールナイトユニーリア【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=MGqgoZNoZC4
-DURATION:PT2H
-DTSTART:20221215T143000Z
-SUMMARY:雪花ラミィ: ＃02【#ラミィ姉ANU】ラミィ姉のオールナイトユニーリア【雪花ラミィ/ホロライブ】
-UID:MGqgoZNoZC4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FREETALK】OPENING GIFTS FROM YOU AND READING DONATIONS!!!!\nhttps://www.youtube.com/watch?v=n_Pb61i8oAA
-DURATION:PT2H
-DTSTART:20221214T141500Z
-SUMMARY:Kobo: 【FREETALK】OPENING GIFTS FROM YOU AND READING DONATIONS!!!!
-UID:n_Pb61i8oAA
+DTSTART:20221215T130000Z
+SUMMARY:🐻ときのそら: 【マリオカート8 デラックス 】お気に入りを決めて練習しよう！！【#ときのそら生放送】
+UID:58pCSa9UrmY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【男性Vtuberが】六等星の夜 / Aimer を歌枠で歌ってみたら…？！【#shorts】\nhttps://www.youtube.com/watch?v=8ywOODcOwoY
@@ -179,6 +151,20 @@ SUMMARY:水無世燐央: 【男性Vtuberが】六等星の夜 / Aimer を歌枠�
 UID:8ywOODcOwoY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 AREA15 】Halo Desember! Eh?! AREA 15 Terakhir?!【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=eShIq1NR_BU
+DURATION:PT2H
+DTSTART:20221215T130000Z
+SUMMARY:🎨Iofi: 【 AREA15 】Halo Desember! Eh?! AREA 15 Terakhir?!【 iofi / ホロライブ 】
+UID:eShIq1NR_BU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポケモンSV】チャンピオンの資格とりに行きます。【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=vK_z76d33y0
+DURATION:PT2H
+DTSTART:20221215T110000Z
+SUMMARY:☄星街すいせい: 【ポケモンSV】チャンピオンの資格とりに行きます。【ホロライブ / 星街すいせい】
+UID:vK_z76d33y0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#2【Persona 5 Royal】FOR REAL FOR REAL!?!?!? (SPOILER ALERT)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=lTY-CbIpQHs
 DURATION:PT2H
 DTSTART:20221215T130000Z
@@ -186,11 +172,11 @@ SUMMARY:Reine: #2【Persona 5 Royal】FOR REAL FOR REAL!?!?!? (SPOILER ALERT)【
 UID:lTY-CbIpQHs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 AREA15 】Halo Desember! Eh?! AREA 15 Terakhir?!【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=eShIq1NR_BU
+DESCRIPTION:＃02【#ラミィ姉ANU】ラミィ姉のオールナイトユニーリア【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=MGqgoZNoZC4
 DURATION:PT2H
-DTSTART:20221215T130000Z
-SUMMARY:🎨Iofi: 【 AREA15 】Halo Desember! Eh?! AREA 15 Terakhir?!【 iofi / ホロライブ 】
-UID:eShIq1NR_BU
+DTSTART:20221215T143000Z
+SUMMARY:雪花ラミィ: ＃02【#ラミィ姉ANU】ラミィ姉のオールナイトユニーリア【雪花ラミィ/ホロライブ】
+UID:MGqgoZNoZC4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ポケモンSV】ランクマ用色違いフルパ作る🔥キョジオーン国際孵化耐久START！ランクマ覗いた話も👀✨【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=n_xqBKyROcg
@@ -200,11 +186,39 @@ SUMMARY:博衣こより: 【ポケモンSV】ランクマ用色違いフルパ�
 UID:n_xqBKyROcg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ワンマンライブ】夜の部同時視聴の枠【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=7vn7i-VSVHc
+DESCRIPTION:【 ポケモンSV 】最強ねねの虫パーティー１１日目！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=tx4Cvjn5iYc
 DURATION:PT2H
-DTSTART:20221214T130000Z
-SUMMARY:🐻ときのそら: 【ワンマンライブ】夜の部同時視聴の枠【#ときのそら生放送】
-UID:7vn7i-VSVHc
+DTSTART:20221215T090000Z
+SUMMARY:桃鈴ねね: 【 ポケモンSV 】最強ねねの虫パーティー１１日目！【 桃鈴ねね / ホロライブ 】
+UID:tx4Cvjn5iYc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Building my home UNDERWATER 【MINECRAFT】 【19】\nhttps://www.youtube.com/watch?v=6hHrsiIm8LU
+DURATION:PT2H
+DTSTART:20221214T150000Z
+SUMMARY:Altare: Building my home UNDERWATER 【MINECRAFT】 【19】
+UID:6hHrsiIm8LU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【GarticPhone/視聴者参加型】パリピ漫画家とお絵描きして騒ごうや！！【#緋崎ガンマ  / #ホロスターズ / #イラストメイキング /ガーティックフォン】\nhttps://www.youtube.com/watch?v=rl0gu9Q51XU
+DURATION:PT2H
+DTSTART:20221216T090000Z
+SUMMARY:緋崎ガンマ: 【GarticPhone/視聴者参加型】パリピ漫画家とお絵描きして騒ごうや！！【#緋崎ガンマ  / #ホロスターズ / #イラストメイキング /ガーティックフォン】
+UID:rl0gu9Q51XU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ASMR】新衣装でASMR　どの子をご所望で？【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=bG8WfcZymC4
+DURATION:PT2H
+DTSTART:20221215T130000Z
+SUMMARY:影山シエン: 【ASMR】新衣装でASMR　どの子をご所望で？【影山シエン/ホロスターズ】
+UID:bG8WfcZymC4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#2【DAVE THE DIVER】ダイビングで命かけた後に寿司屋でバイトの毎日【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=Cc6s3S-2Rcw
+DURATION:PT2H
+DTSTART:20221214T150000Z
+SUMMARY:⚙律可: #2【DAVE THE DIVER】ダイビングで命かけた後に寿司屋でバイトの毎日【律可/ホロスターズ】#りつすた
+UID:Cc6s3S-2Rcw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】おしゃれな壁作りする！-Hogwarts in Minecraft-  #26【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=rUfegfEaAxE
@@ -235,11 +249,18 @@ SUMMARY:Anya: 【The Shrouded Isle】Find the HERETIC.【hololive ID 2nd Generat
 UID:JKwu7cCSMcw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【CoD:MW2】マルチっち！目指せ1位…無理そうなら20位ぐらい！Warzone2.0とか【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=H8EMUBIaVnI
+DESCRIPTION:【Lil Gator Game】not an Elagator 🐊【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=O0RckU4wssk
 DURATION:PT2H
-DTSTART:20221214T110000Z
-SUMMARY:獅白ぼたん: 【CoD:MW2】マルチっち！目指せ1位…無理そうなら20位ぐらい！Warzone2.0とか【獅白ぼたん/ホロライブ】
-UID:H8EMUBIaVnI
+DTSTART:20221215T133000Z
+SUMMARY:Kaela: 【Lil Gator Game】not an Elagator 🐊【Kaela Kovalskia / hololiveID】
+UID:O0RckU4wssk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:12/17 配信予定ち！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=73kdG_DGgJQ
+DURATION:PT2H
+DTSTART:20221217T090000Z
+SUMMARY:風真いろは: 12/17 配信予定ち！【風真いろは/ホロライブ】
+UID:73kdG_DGgJQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HER NAME WAS FIRE】 I Can't Fight This Feeling Anymore\nhttps://www.youtube.com/watch?v=_ZbuvXyqUTE
@@ -256,27 +277,6 @@ SUMMARY:緋崎ガンマ: 【Drawing】朝活!!誰に需要があるか不明な�
 UID:1JD1S4uV8Q0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】#ゆるホロチームカート で練習の成果を出せるかな！？？？【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=6qhFUWoash8
-DURATION:PT2H
-DTSTART:20221214T130000Z
-SUMMARY:博衣こより: 【マリオカート8DX】#ゆるホロチームカート で練習の成果を出せるかな！？？？【博衣こより/ホロライブ】
-UID:6qhFUWoash8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Rust】woooooo rust is back 💪【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=IUiimWYb06E
-DURATION:PT2H
-DTSTART:20221214T041500Z
-SUMMARY:Kaela: 【Rust】woooooo rust is back 💪【Kaela Kovalskia / hololiveID】
-UID:IUiimWYb06E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ポケモンSV バイオレット】ニンフィア色違いが欲しいので図鑑埋めを手伝ってくださいお願いします【水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=kneLixJEJ5k
-DURATION:PT2H
-DTSTART:20221214T130000Z
-SUMMARY:水無世燐央: 【 ポケモンSV バイオレット】ニンフィア色違いが欲しいので図鑑埋めを手伝ってくださいお願いします【水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】
-UID:kneLixJEJ5k
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談＆お礼】みんなお疲れ様！わためも歯医者お疲れ様！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=qA_JfqeOK6A
 DURATION:PT2H
 DTSTART:20221214T153000Z
@@ -289,6 +289,13 @@ DURATION:PT2H
 DTSTART:20221215T090025Z
 SUMMARY:緋崎ガンマ: 【手描き】漫画家VTuberが思う漫画家の〆切のあるある【描いてみた】#shorts
 UID:VtjEjCDTGow
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スパチャ御礼】1周年記念LiveのSuperChat感謝！名前の最初が「か行」～【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=Rx35oc-5N9U
+DURATION:PT2H
+DTSTART:20221216T000000Z
+SUMMARY:博衣こより: 【スパチャ御礼】1周年記念LiveのSuperChat感謝！名前の最初が「か行」～【博衣こより/ホロライブ】
+UID:Rx35oc-5N9U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SKYRIM】 Do NOT feed the Kirinborn\nhttps://www.youtube.com/watch?v=WoiFNXENdaM
@@ -305,382 +312,11 @@ SUMMARY:🚑大空スバル: 【#生スバル】JUDGE EYES：死神の遺言 Rem
 UID:XojVrO1P9bg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロいぬいぬ】こより＆ころねの漫才\nhttps://www.youtube.com/watch?v=hNqFWgDcvXM
-DURATION:PT2H
-DTSTART:20221215T121231Z
-SUMMARY:🥐戌神ころね: 【#ホロいぬいぬ】こより＆ころねの漫才
-UID:hNqFWgDcvXM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【録画はメン限】悪魔の永眠ASMR【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=6qRWGU8jIRc
-DURATION:PT2H
-DTSTART:20221213T161500Z
-SUMMARY:💋癒月ちょこ: 【録画はメン限】悪魔の永眠ASMR【ホロライブ/癒月ちょこ】
-UID:6qRWGU8jIRc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンSV 】はじめての色違い厳選配信！✨ころさんとの交換に備えて🥐【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=C4ZiLrqpmq8
-DURATION:PT2H
-DTSTART:20221215T100000Z
-SUMMARY:🍙猫又おかゆ: 【ポケモンSV 】はじめての色違い厳選配信！✨ころさんとの交換に備えて🥐【猫又おかゆ/ホロライブ】
-UID:C4ZiLrqpmq8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】む…無免許運転なわけないじゃないですか～～えっと…ふわふわ~~ #ゆるホロチームカート【ロボ子さん/ホロライブ】\nhttps://www.youtube.com/watch?v=Zd3lNv0uvWg
-DURATION:PT2H
-DTSTART:20221214T130000Z
-SUMMARY:🤖ロボ子さん: 【マリオカート8DX】む…無免許運転なわけないじゃないですか～～えっと…ふわふわ~~ #ゆるホロチームカート【ロボ子さん/ホロライブ】
-UID:Zd3lNv0uvWg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【いたずRUST】ホロ鯖復活！！ルーナ姫の家にドッキリ仕掛けよう(^^)【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=7I7VYBecxFA
-DURATION:PT2H
-DTSTART:20221215T140000Z
-SUMMARY:💫天音かなた: 【いたずRUST】ホロ鯖復活！！ルーナ姫の家にドッキリ仕掛けよう(^^)【天音かなた/ホロライブ】
-UID:7I7VYBecxFA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】 Will my COVER Corp PC blow up??\nhttps://www.youtube.com/watch?v=3JEKgtZKaUA
-DURATION:PT2H
-DTSTART:20221213T153000Z
-SUMMARY:Syrios: 【APEX】 Will my COVER Corp PC blow up??
-UID:3JEKgtZKaUA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ポケモンSV 】１２日目 信じるものはなんとやらっていうから･･にぇ！～ ホゲータ色違いが欲しい旅 ～【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=Y_Y0KYXME2U
-DURATION:PT2H
-DTSTART:20221214T110000Z
-SUMMARY:🌸さくらみこ: 【 ポケモンSV 】１２日目 信じるものはなんとやらっていうから･･にぇ！～ ホゲータ色違いが欲しい旅 ～【ホロライブ/さくらみこ】
-UID:Y_Y0KYXME2U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【同時視聴】Fate/stay night [HF] 2章みんなで観よう！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=X0Omq2ZQ5tU
-DURATION:PT2H
-DTSTART:20221215T120000Z
-SUMMARY:👯兎田ぺこら: 【同時視聴】Fate/stay night [HF] 2章みんなで観よう！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:X0Omq2ZQ5tU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Rust】building the simplest base ever. (part 2)【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=kR_V81qx2MY
-DURATION:PT2H
-DTSTART:20221214T133000Z
-SUMMARY:Kaela: 【Rust】building the simplest base ever. (part 2)【Kaela Kovalskia / hololiveID】
-UID:kR_V81qx2MY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ASMR】 Fluffy ASMR to heal your soul ♡ Ear cleaning & positive affirmations\nhttps://www.youtube.com/watch?v=IAGJ8lYl_5E
-DURATION:PT2H
-DTSTART:20221214T060000Z
-SUMMARY:Fauna: 【ASMR】 Fluffy ASMR to heal your soul ♡ Ear cleaning & positive affirmations
-UID:IAGJ8lYl_5E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】耐久のこととかまったり話したいっ☕💕【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=bvxxVGpCGdY
-DURATION:PT2H
-DTSTART:20221214T100000Z
-SUMMARY:博衣こより: 【雑談】耐久のこととかまったり話したいっ☕💕【博衣こより/ホロライブ】
-UID:bvxxVGpCGdY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【衝撃】ホロライブプロダクションのVTuberが母親にカミングアウトした結果…【マンガ動画】#shorts\nhttps://www.youtube.com/watch?v=a9ZG2EwComQ
-DURATION:PT2H
-DTSTART:20221214T090000Z
-SUMMARY:緋崎ガンマ: 【衝撃】ホロライブプロダクションのVTuberが母親にカミングアウトした結果…【マンガ動画】#shorts
-UID:a9ZG2EwComQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #ホロ鯖RUST 】んな姫は "かぼた畑" に癒されたいのら🎃【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=sHnxHqOOaQE
-DURATION:PT2H
-DTSTART:20221214T150000Z
-SUMMARY:🍬姫森ルーナ: 【 #ホロ鯖RUST 】んな姫は "かぼた畑" に癒されたいのら🎃【姫森ルーナ/ホロライブ】
-UID:sHnxHqOOaQE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【8位以下即終了マリオカート】練習の成果を見せます。かかってきてください。【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=KGjxk0eHvDA
-DURATION:PT2H
-DTSTART:20221214T120000Z
-SUMMARY:鷹嶺ルイ: 【8位以下即終了マリオカート】練習の成果を見せます。かかってきてください。【鷹嶺ルイ/ホロライブ】
-UID:KGjxk0eHvDA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【NEEDY GIRL OVERDOSE】UOHHHHHHH SEEEEEEEEEEEEEEE!!!!! #2\nhttps://www.youtube.com/watch?v=hNqnupdL7XU
-DURATION:PT2H
-DTSTART:20221214T061500Z
-SUMMARY:Syrios: 【NEEDY GIRL OVERDOSE】UOHHHHHHH SEEEEEEEEEEEEEEE!!!!! #2
-UID:hNqnupdL7XU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:いっしょに踊ろう！「乙女よ求めよQ.E.D.」～好きって＆QEDポーズ編～【博衣こより/hololive】 #shorts\nhttps://www.youtube.com/watch?v=E1Dd5TPV-JI
-DURATION:PT2H
-DTSTART:20221216T093000Z
-SUMMARY:博衣こより: いっしょに踊ろう！「乙女よ求めよQ.E.D.」～好きって＆QEDポーズ編～【博衣こより/hololive】 #shorts
-UID:E1Dd5TPV-JI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ゆるホロチームカート】みんなでエンジョイジョイ！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=DcLctaVMhUk
-DURATION:PT2H
-DTSTART:20221214T130000Z
-SUMMARY:🐏角巻わため: 【#ゆるホロチームカート】みんなでエンジョイジョイ！！！【角巻わため/ホロライブ４期生】
-UID:DcLctaVMhUk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【限界突破】24時間空腹クッキング！【#ジャンプロ】\nhttps://www.youtube.com/watch?v=6yczLb4FTiY
-DURATION:PT2H
-DTSTART:20221214T100000Z
-SUMMARY:ホロスターズ: 【限界突破】24時間空腹クッキング！【#ジャンプロ】
-UID:6yczLb4FTiY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Phasmophobia】べ、別に。ひ、一人でも余裕ですし。【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=82TfSPHyhY8
-DURATION:PT2H
-DTSTART:20221215T130000Z
-SUMMARY:鷹嶺ルイ: 【Phasmophobia】べ、別に。ひ、一人でも余裕ですし。【鷹嶺ルイ/ホロライブ】
-UID:82TfSPHyhY8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Phoenix Wright: Ace Attorney】 SO\, WHAT'S THE WEAPON? 【Spoilers Alert】\nhttps://www.youtube.com/watch?v=ovE6IGydaNw
-DURATION:PT2H
-DTSTART:20221214T153000Z
-SUMMARY:Zeta: 【Phoenix Wright: Ace Attorney】 SO\, WHAT'S THE WEAPON? 【Spoilers Alert】
-UID:ovE6IGydaNw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリカ8DX】ホロメンでチーム対抗勝負！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=giYJ3GFD-FI
-DURATION:PT2H
-DTSTART:20221214T130000Z
-SUMMARY:👯兎田ぺこら: 【マリカ8DX】ホロメンでチーム対抗勝負！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:giYJ3GFD-FI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪POKÉMON SCARLET≫ ruby #5\nhttps://www.youtube.com/watch?v=o0SJP0vtHj0
-DURATION:PT2H
-DTSTART:20221216T010000Z
-SUMMARY:Baelz: ≪POKÉMON SCARLET≫ ruby #5
-UID:o0SJP0vtHj0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Cities: Skylines】City of...?【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=TCam6XbASyk
-DURATION:PT2H
-DTSTART:20221214T140000Z
-SUMMARY:Anya: 【Cities: Skylines】City of...?【hololive ID 2nd Generation | Anya Melfissa】
-UID:TCam6XbASyk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポルカの伝説】ウミガメのスープしってる～？水平思考クイズ回！\nhttps://www.youtube.com/watch?v=jH20E_dZ44s
-DURATION:PT2H
-DTSTART:20221215T100000Z
-SUMMARY:尾丸ポルカ: 【ポルカの伝説】ウミガメのスープしってる～？水平思考クイズ回！
-UID:jH20E_dZ44s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARK | Fjordur】㊗ムキロゼサーバー復活！みんなでワイワイ聖地作ろー！！【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=i5ZfnQW3sCs
+DESCRIPTION:Drawing everyone from Birthday Totsu #ZETANISM2022\nhttps://www.youtube.com/watch?v=ewhr2ESJs7k
 DURATION:PT2H
 DTSTART:20221215T150000Z
-SUMMARY:🍎アキロゼ: 【ARK | Fjordur】㊗ムキロゼサーバー復活！みんなでワイワイ聖地作ろー！！【ホロライブ/アキロゼ】
-UID:i5ZfnQW3sCs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:今日のポルカの伝説！探偵を目指してウミガメのスープ！ #Shorts\nhttps://www.youtube.com/watch?v=-BuJvWAAbYM
-DURATION:PT2H
-DTSTART:20221215T073828Z
-SUMMARY:尾丸ポルカ: 今日のポルカの伝説！探偵を目指してウミガメのスープ！ #Shorts
-UID:-BuJvWAAbYM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Valorant】プラチナに上がる理由ができたボクはつよい【ロボ子さん/ホロライブ】\nhttps://www.youtube.com/watch?v=vWf74Yo3Cdw
-DURATION:PT2H
-DTSTART:20221214T100000Z
-SUMMARY:🤖ロボ子さん: 【Valorant】プラチナに上がる理由ができたボクはつよい【ロボ子さん/ホロライブ】
-UID:vWf74Yo3Cdw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【昼活】元気にランチタイム雑談！！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=5RWTp3wnNgI
-DURATION:PT2H
-DTSTART:20221215T030000Z
-SUMMARY:雪花ラミィ: 【昼活】元気にランチタイム雑談！！！【雪花ラミィ/ホロライブ】
-UID:5RWTp3wnNgI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【3周年感想会】みんなお疲れ様！感想を聞かせてもらおうか！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=XZSRYEWGzAw
-DURATION:PT2H
-DTSTART:20221215T110000Z
-SUMMARY:🦔💨岸堂天真: 【3周年感想会】みんなお疲れ様！感想を聞かせてもらおうか！！【岸堂天真/ホロスターズ】
-UID:XZSRYEWGzAw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【監視カメラ】変質者が出る部屋を深夜に監視する仕事…(´；ω；｀)ﾌﾞﾜｯ【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=s5VzxkApdVM
-DURATION:PT2H
-DTSTART:20221214T100000Z
-SUMMARY:💫天音かなた: 【監視カメラ】変質者が出る部屋を深夜に監視する仕事…(´；ω；｀)ﾌﾞﾜｯ【天音かなた/ホロライブ】
-UID:s5VzxkApdVM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:「雑談」お昼を食べながら雑談するのよ【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=Sp7kM8Ez_Jw
-DURATION:PT2H
-DTSTART:20221214T030000Z
-SUMMARY:🌺花咲みやび: 「雑談」お昼を食べながら雑談するのよ【花咲みやび/ホロスターズ】
-UID:Sp7kM8Ez_Jw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【プチお知らせあり♡】引っ越し完了！！新居からただいま雑談！！！ママンの声はいる可能性ありけり。【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=ZWGcx_1Asgk
-DURATION:PT2H
-DTSTART:20221214T090000Z
-SUMMARY:鷹嶺ルイ: 【プチお知らせあり♡】引っ越し完了！！新居からただいま雑談！！！ママンの声はいる可能性ありけり。【鷹嶺ルイ/ホロライブ】
-UID:ZWGcx_1Asgk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Just Chatting 】Safety rice has been secured don't bother looking for it\nhttps://www.youtube.com/watch?v=saHFwslvMqA
-DURATION:PT2H
-DTSTART:20221214T180000Z
-SUMMARY:Vesper: 【 Just Chatting 】Safety rice has been secured don't bother looking for it
-UID:saHFwslvMqA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオカート8 デラックス 】お気に入りを決めて練習しよう！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=58pCSa9UrmY
-DURATION:PT2H
-DTSTART:20221215T130000Z
-SUMMARY:🐻ときのそら: 【マリオカート8 デラックス 】お気に入りを決めて練習しよう！！【#ときのそら生放送】
-UID:58pCSa9UrmY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Vtuberによる、癒し度1000％の動画🍀　#short　#holostars　#アップロー【ホロライブプロダクション】\nhttps://www.youtube.com/watch?v=h_wKIn0A_ds
-DURATION:PT2H
-DTSTART:20221214T102223Z
-SUMMARY:夜十神封魔: Vtuberによる、癒し度1000％の動画🍀　#short　#holostars　#アップロー【ホロライブプロダクション】
-UID:h_wKIn0A_ds
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンSV】チャンピオンの資格とりに行きます。【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=vK_z76d33y0
-DURATION:PT2H
-DTSTART:20221215T110000Z
-SUMMARY:☄星街すいせい: 【ポケモンSV】チャンピオンの資格とりに行きます。【ホロライブ / 星街すいせい】
-UID:vK_z76d33y0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンSV】3日目！ブイズパで5つ目のバッジとっていくぞ！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=lbxXdJft-gc
-DURATION:PT2H
-DTSTART:20221214T130000Z
-SUMMARY:🔥不知火フレア: 【ポケモンSV】3日目！ブイズパで5つ目のバッジとっていくぞ！【不知火フレア/ホロライブ】
-UID:lbxXdJft-gc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【リングフィットアドベンチャー】本日1時間運動耐久、動きまくります。【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=rnl7XR5fpnA
-DURATION:PT2H
-DTSTART:20221214T080000Z
-SUMMARY:👾常闇トワ: 【リングフィットアドベンチャー】本日1時間運動耐久、動きまくります。【常闇トワ/ホロライブ】
-UID:rnl7XR5fpnA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ポケモンSV 】最強ねねの虫パーティー１１日目！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=tx4Cvjn5iYc
-DURATION:PT2H
-DTSTART:20221215T090000Z
-SUMMARY:桃鈴ねね: 【 ポケモンSV 】最強ねねの虫パーティー１１日目！【 桃鈴ねね / ホロライブ 】
-UID:tx4Cvjn5iYc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Building my home UNDERWATER 【MINECRAFT】 【19】\nhttps://www.youtube.com/watch?v=6hHrsiIm8LU
-DURATION:PT2H
-DTSTART:20221214T150000Z
-SUMMARY:Altare: Building my home UNDERWATER 【MINECRAFT】 【19】
-UID:6hHrsiIm8LU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【GarticPhone/視聴者参加型】パリピ漫画家とお絵描きして騒ごうや！！【#緋崎ガンマ  / #ホロスターズ / #イラストメイキング /ガーティックフォン】\nhttps://www.youtube.com/watch?v=rl0gu9Q51XU
-DURATION:PT2H
-DTSTART:20221216T090000Z
-SUMMARY:緋崎ガンマ: 【GarticPhone/視聴者参加型】パリピ漫画家とお絵描きして騒ごうや！！【#緋崎ガンマ  / #ホロスターズ / #イラストメイキング /ガーティックフォン】
-UID:rl0gu9Q51XU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ゆるホロチームカート 】コース増えすぎてませんか⁉【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=QXcjYRFfT2M
-DURATION:PT2H
-DTSTART:20221214T130000Z
-SUMMARY:☄星街すいせい: 【#ゆるホロチームカート 】コース増えすぎてませんか⁉【ホロライブ / 星街すいせい】
-UID:QXcjYRFfT2M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#2【DAVE THE DIVER】ダイビングで命かけた後に寿司屋でバイトの毎日【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=Cc6s3S-2Rcw
-DURATION:PT2H
-DTSTART:20221214T150000Z
-SUMMARY:⚙律可: #2【DAVE THE DIVER】ダイビングで命かけた後に寿司屋でバイトの毎日【律可/ホロスターズ】#りつすた
-UID:Cc6s3S-2Rcw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#岸堂天真3周年】岸堂天真の思考の館 in 3D【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=Ot0a8zPHyCM
-DURATION:PT2H
-DTSTART:20221214T110000Z
-SUMMARY:🦔💨岸堂天真: 【#岸堂天真3周年】岸堂天真の思考の館 in 3D【岸堂天真/ホロスターズ】
-UID:Ot0a8zPHyCM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Lil Gator Game】not an Elagator 🐊【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=O0RckU4wssk
-DURATION:PT2H
-DTSTART:20221215T133000Z
-SUMMARY:Kaela: 【Lil Gator Game】not an Elagator 🐊【Kaela Kovalskia / hololiveID】
-UID:O0RckU4wssk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Persona 5 Royal】FOR REAL!?!?!? (SPOILER ALERT)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=zcVinVd0K2g
-DURATION:PT2H
-DTSTART:20221214T130000Z
-SUMMARY:Reine: 【Persona 5 Royal】FOR REAL!?!?!? (SPOILER ALERT)【Pavolia Reine/hololiveID 2nd gen】
-UID:zcVinVd0K2g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Jump King 】I CAN FLY...\nhttps://www.youtube.com/watch?v=dU1ch5cV8PM
-DURATION:PT2H
-DTSTART:20221214T060000Z
-SUMMARY:❤赤井はあと: 【 Jump King 】I CAN FLY...
-UID:dU1ch5cV8PM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ポケモンSV 】全部虫です、ほんとです（多分）１０日目！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=8VUm5W8qnrA
-DURATION:PT2H
-DTSTART:20221214T090000Z
-SUMMARY:桃鈴ねね: 【 ポケモンSV 】全部虫です、ほんとです（多分）１０日目！【 桃鈴ねね / ホロライブ 】
-UID:8VUm5W8qnrA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【8位以下即終了マリオカート】ヘッドホンのせいです。リベンジです。【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=QvLtSk8hryA
-DURATION:PT2H
-DTSTART:20221214T121500Z
-SUMMARY:鷹嶺ルイ: 【8位以下即終了マリオカート】ヘッドホンのせいです。リベンジです。【鷹嶺ルイ/ホロライブ】
-UID:QvLtSk8hryA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Tiny Rogues】弾幕ダンジョンに挑む2【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=wvg4FqnYQR0
-DURATION:PT2H
-DTSTART:20221214T140000Z
-SUMMARY:荒咬オウガ: 【Tiny Rogues】弾幕ダンジョンに挑む2【荒咬オウガ/ホロスターズ】
-UID:wvg4FqnYQR0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:DEAD THINGS IN SPACE 【The Callisto Protocol】\nhttps://www.youtube.com/watch?v=_xEtwN9bQsw
-DURATION:PT2H
-DTSTART:20221214T000000Z
-SUMMARY:Altare: DEAD THINGS IN SPACE 【The Callisto Protocol】
-UID:_xEtwN9bQsw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スパチャ御礼】1周年記念LiveのSuperChat感謝！名前の最初が「か行」～【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=Rx35oc-5N9U
-DURATION:PT2H
-DTSTART:20221216T000000Z
-SUMMARY:博衣こより: 【スパチャ御礼】1周年記念LiveのSuperChat感謝！名前の最初が「か行」～【博衣こより/ホロライブ】
-UID:Rx35oc-5N9U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【男性Vtuberが】火炎 / 女王蜂 を歌枠で歌ってみたら…？！【#shorts】\nhttps://www.youtube.com/watch?v=Hzr7EqngmmI
-DURATION:PT2H
-DTSTART:20221214T090009Z
-SUMMARY:水無世燐央: 【男性Vtuberが】火炎 / 女王蜂 を歌枠で歌ってみたら…？！【#shorts】
-UID:Hzr7EqngmmI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:クリスマスの予定は埋まってます。【#ホロスタクリスマス2022 /ホロスターズ/岸堂天真】#shorts\nhttps://www.youtube.com/watch?v=KAku8nXFHbk
-DURATION:PT2H
-DTSTART:20221214T025900Z
-SUMMARY:ホロスターズ: クリスマスの予定は埋まってます。【#ホロスタクリスマス2022 /ホロスターズ/岸堂天真】#shorts
-UID:KAku8nXFHbk
+SUMMARY:Zeta: Drawing everyone from Birthday Totsu #ZETANISM2022
+UID:ewhr2ESJs7k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】金曜日のマリカ朝練🚗ホロお正月CUPつよ杯目指すぞおお🔥【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=OEIOrZimLwM
@@ -690,11 +326,18 @@ SUMMARY:博衣こより: 【マリオカート8DX】金曜日のマリカ朝練�
 UID:OEIOrZimLwM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Drawing everyone from Birthday Totsu #ZETANISM2022\nhttps://www.youtube.com/watch?v=ewhr2ESJs7k
+DESCRIPTION:【#ホロいぬいぬ】こより＆ころねの漫才\nhttps://www.youtube.com/watch?v=hNqFWgDcvXM
 DURATION:PT2H
-DTSTART:20221215T150000Z
-SUMMARY:Zeta: Drawing everyone from Birthday Totsu #ZETANISM2022
-UID:ewhr2ESJs7k
+DTSTART:20221215T121231Z
+SUMMARY:🥐戌神ころね: 【#ホロいぬいぬ】こより＆ころねの漫才
+UID:hNqFWgDcvXM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポケモンSV 】はじめての色違い厳選配信！✨ころさんとの交換に備えて🥐【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=C4ZiLrqpmq8
+DURATION:PT2H
+DTSTART:20221215T100000Z
+SUMMARY:🍙猫又おかゆ: 【ポケモンSV 】はじめての色違い厳選配信！✨ころさんとの交換に備えて🥐【猫又おかゆ/ホロライブ】
+UID:C4ZiLrqpmq8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FROSTPUNK】ロードなし1回勝負で氷河期を生き残る！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=KuzWhsQW9mw
@@ -704,11 +347,11 @@ SUMMARY:沙花叉クロヱ: 【FROSTPUNK】ロードなし1回勝負で氷河期
 UID:KuzWhsQW9mw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ゆるホロチームカート】チーム対抗勝負！？全力でたのしむぞおおお！わくわく～～～！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=MBUn_MS3Dtw
+DESCRIPTION:【いたずRUST】ホロ鯖復活！！ルーナ姫の家にドッキリ仕掛けよう(^^)【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=7I7VYBecxFA
 DURATION:PT2H
-DTSTART:20221214T130000Z
-SUMMARY:❤赤井はあと: 【#ゆるホロチームカート】チーム対抗勝負！？全力でたのしむぞおおお！わくわく～～～！【ホロライブ/赤井はあと】
-UID:MBUn_MS3Dtw
+DTSTART:20221215T140000Z
+SUMMARY:💫天音かなた: 【いたずRUST】ホロ鯖復活！！ルーナ姫の家にドッキリ仕掛けよう(^^)【天音かなた/ホロライブ】
+UID:7I7VYBecxFA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ねねに寝る前の時間使ってくれる人募集\nhttps://www.youtube.com/watch?v=G7dXO_Q2o-I
@@ -718,25 +361,11 @@ SUMMARY:桃鈴ねね: ねねに寝る前の時間使ってくれる人募集
 UID:G7dXO_Q2o-I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【PERSONA 5 ROYAL】time for BEST BOY. (SPOILER ALERT)\nhttps://www.youtube.com/watch?v=EYOCr_p1y9k
-DURATION:PT2H
-DTSTART:20221214T130043Z
-SUMMARY:Calli: 【PERSONA 5 ROYAL】time for BEST BOY. (SPOILER ALERT)
-UID:EYOCr_p1y9k
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ASMR／KU100】寒い日はポカポカお耳のリラクゼーション💊Ear Cleaning/Ear Massage/Sleep Whispering✨【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=99c-9f17i94
 DURATION:PT2H
 DTSTART:20221215T140000Z
 SUMMARY:⚔白銀ノエル: 【ASMR／KU100】寒い日はポカポカお耳のリラクゼーション💊Ear Cleaning/Ear Massage/Sleep Whispering✨【白銀ノエル/ホロライブ】
 UID:99c-9f17i94
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ゆるホロチームカート】トップスピードで走るのが白上の人生【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=wGyY_LOVNIY
-DURATION:PT2H
-DTSTART:20221214T130000Z
-SUMMARY:🌽白上フブキ: 【#ゆるホロチームカート】トップスピードで走るのが白上の人生【ホロライブ/白上フブキ】
-UID:wGyY_LOVNIY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:SINDERELLA is dropping soon...! #shorts\nhttps://www.youtube.com/watch?v=YJbKXd0AODs
@@ -753,6 +382,13 @@ SUMMARY:🤖ロボ子さん: 【マリオカート8DX】新MAPをみんなと練
 UID:LDSW1MaAsgo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【同時視聴】Fate/stay night [HF] 2章みんなで観よう！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=X0Omq2ZQ5tU
+DURATION:PT2H
+DTSTART:20221215T120000Z
+SUMMARY:👯兎田ぺこら: 【同時視聴】Fate/stay night [HF] 2章みんなで観よう！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:X0Omq2ZQ5tU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【SONIC FRONTIERS】I've run out of Sonic titles.\nhttps://www.youtube.com/watch?v=sMpo4DcSKJA
 DURATION:PT2H
 DTSTART:20221216T040000Z
@@ -767,11 +403,11 @@ SUMMARY:荒咬オウガ: 【雑談】深夜TALK【荒咬オウガ/ホロスタ�
 UID:Y_AHMIUJtt4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ゆるホロチームカート】マリオカート🚙力とパワーでがんばります🔥【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=BZRWtV2cY3s
+DESCRIPTION:【 #ホロ鯖RUST 】んな姫は "かぼた畑" に癒されたいのら🎃【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=sHnxHqOOaQE
 DURATION:PT2H
-DTSTART:20221214T130000Z
-SUMMARY:風真いろは: 【#ゆるホロチームカート】マリオカート🚙力とパワーでがんばります🔥【風真いろは/ホロライブ】
-UID:BZRWtV2cY3s
+DTSTART:20221214T150000Z
+SUMMARY:🍬姫森ルーナ: 【 #ホロ鯖RUST 】んな姫は "かぼた畑" に癒されたいのら🎃【姫森ルーナ/ホロライブ】
+UID:sHnxHqOOaQE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #1 】まったく怖がらない男の OUTLAST 2【#vtuber / #羽継烏有 / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=AGgP8NhA3Wk
@@ -788,10 +424,10 @@ SUMMARY:💋癒月ちょこ: 【ホロライブ身体測定】AZKi様診察い�
 UID:c7dRGluCRuI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪MORNING CHATS≫ my internet better work\nhttps://www.youtube.com/watch?v=HmzcL-EJwbo
+DESCRIPTION:いっしょに踊ろう！「乙女よ求めよQ.E.D.」～好きって＆QEDポーズ編～【博衣こより/hololive】 #shorts\nhttps://www.youtube.com/watch?v=E1Dd5TPV-JI
 DURATION:PT2H
-DTSTART:20221214T010000Z
-SUMMARY:Baelz: ≪MORNING CHATS≫ my internet better work
-UID:HmzcL-EJwbo
+DTSTART:20221216T093000Z
+SUMMARY:博衣こより: いっしょに踊ろう！「乙女よ求めよQ.E.D.」～好きって＆QEDポーズ編～【博衣こより/hololive】 #shorts
+UID:E1Dd5TPV-JI
 END:VEVENT
 END:VCALENDAR
