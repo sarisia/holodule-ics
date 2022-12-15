@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ASMR】新衣装でASMR　どの子をご所望で？【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=bG8WfcZymC4
+DURATION:PT2H
+DTSTART:20221215T130000Z
+SUMMARY:影山シエン: 【ASMR】新衣装でASMR　どの子をご所望で？【影山シエン/ホロスターズ】
+UID:bG8WfcZymC4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【VALORANT】視聴者ちゃん VS 視聴者ちゃん が見たい / アステル\nhttps://www.youtube.com/watch?v=3s7q8uxaKAk
 DURATION:PT2H
 DTSTART:20221213T150000Z
@@ -25,13 +32,6 @@ SUMMARY:⚙律可: #2【DAVE THE DIVER】ダイビングで命かけた後に寿
 UID:Cc6s3S-2Rcw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【3周年感想会】みんなお疲れ様！感想を聞かせてもらおうか！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=XZSRYEWGzAw
-DURATION:PT2H
-DTSTART:20221215T110000Z
-SUMMARY:🦔💨岸堂天真: 【3周年感想会】みんなお疲れ様！感想を聞かせてもらおうか！！【岸堂天真/ホロスターズ】
-UID:XZSRYEWGzAw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#岸堂天真3周年】岸堂天真の思考の館 in 3D【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=Ot0a8zPHyCM
 DURATION:PT2H
 DTSTART:20221214T110000Z
@@ -39,46 +39,11 @@ SUMMARY:🦔💨岸堂天真: 【#岸堂天真3周年】岸堂天真の思考の
 UID:Ot0a8zPHyCM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【企画の準備配信】ホロスタ好きなみんな～俺の企画手伝って～【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=iAA-Eo4hlCI
-DURATION:PT2H
-DTSTART:20221214T120000Z
-SUMMARY:🍕アルランディス: 【企画の準備配信】ホロスタ好きなみんな～俺の企画手伝って～【アルランディス/ホロスターズ】
-UID:iAA-Eo4hlCI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:「雑談」お昼を食べながら雑談するのよ【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=Sp7kM8Ez_Jw
-DURATION:PT2H
-DTSTART:20221214T030000Z
-SUMMARY:🌺花咲みやび: 「雑談」お昼を食べながら雑談するのよ【花咲みやび/ホロスターズ】
-UID:Sp7kM8Ez_Jw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Tiny Rogues】弾幕ダンジョンに挑む2【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=wvg4FqnYQR0
 DURATION:PT2H
 DTSTART:20221214T140000Z
 SUMMARY:荒咬オウガ: 【Tiny Rogues】弾幕ダンジョンに挑む2【荒咬オウガ/ホロスターズ】
 UID:wvg4FqnYQR0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:クリスマスの予定は埋まってます。【#ホロスタクリスマス2022 /ホロスターズ/岸堂天真】#shorts\nhttps://www.youtube.com/watch?v=KAku8nXFHbk
-DURATION:PT2H
-DTSTART:20221214T025900Z
-SUMMARY:ホロスターズ: クリスマスの予定は埋まってます。【#ホロスタクリスマス2022 /ホロスターズ/岸堂天真】#shorts
-UID:KAku8nXFHbk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【衝撃】ホロライブプロダクションのVTuberが母親にカミングアウトした結果…【マンガ動画】#shorts\nhttps://www.youtube.com/watch?v=a9ZG2EwComQ
-DURATION:PT2H
-DTSTART:20221214T090000Z
-SUMMARY:緋崎ガンマ: 【衝撃】ホロライブプロダクションのVTuberが母親にカミングアウトした結果…【マンガ動画】#shorts
-UID:a9ZG2EwComQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Vtuberによる、癒し度1000％の動画🍀　#short　#holostars　#アップロー【ホロライブプロダクション】\nhttps://www.youtube.com/watch?v=h_wKIn0A_ds
-DURATION:PT2H
-DTSTART:20221214T102223Z
-SUMMARY:夜十神封魔: Vtuberによる、癒し度1000％の動画🍀　#short　#holostars　#アップロー【ホロライブプロダクション】
-UID:h_wKIn0A_ds
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Drawing】朝活!!誰に需要があるか不明なショタガンマを描いてみる!!【#緋崎ガンマ / #ホロスターズ / #イラストメイキング #illustration  】\nhttps://www.youtube.com/watch?v=1JD1S4uV8Q0
@@ -95,11 +60,18 @@ SUMMARY:水無世燐央: 【 ポケモンSV バイオレット】ニンフィア
 UID:kneLixJEJ5k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【あるある】漫画家VTuberが思う漫画家の〆切の心境の変化を描いてみた【ホロライブプロダクション】#shorts\nhttps://www.youtube.com/watch?v=VtjEjCDTGow
+DESCRIPTION:【描いてみた】漫画家VTuberが思う漫画家の〆切のあるある【ホロライブプロダクション】#shorts\nhttps://www.youtube.com/watch?v=VtjEjCDTGow
 DURATION:PT2H
 DTSTART:20221215T090025Z
-SUMMARY:緋崎ガンマ: 【あるある】漫画家VTuberが思う漫画家の〆切の心境の変化を描いてみた【ホロライブプロダクション】#shorts
+SUMMARY:緋崎ガンマ: 【描いてみた】漫画家VTuberが思う漫画家の〆切のあるある【ホロライブプロダクション】#shorts
 UID:VtjEjCDTGow
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:クリスマスの予定は埋まってます。【#ホロスタクリスマス2022 /ホロスターズ/岸堂天真】#shorts\nhttps://www.youtube.com/watch?v=KAku8nXFHbk
+DURATION:PT2H
+DTSTART:20221214T025900Z
+SUMMARY:ホロスターズ: クリスマスの予定は埋まってます。【#ホロスタクリスマス2022 /ホロスターズ/岸堂天真】#shorts
+UID:KAku8nXFHbk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【男性Vtuberが】火炎 / 女王蜂 を歌枠で歌ってみたら…？！【#shorts】\nhttps://www.youtube.com/watch?v=Hzr7EqngmmI
@@ -107,5 +79,40 @@ DURATION:PT2H
 DTSTART:20221214T090009Z
 SUMMARY:水無世燐央: 【男性Vtuberが】火炎 / 女王蜂 を歌枠で歌ってみたら…？！【#shorts】
 UID:Hzr7EqngmmI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【3周年感想会】みんなお疲れ様！感想を聞かせてもらおうか！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=XZSRYEWGzAw
+DURATION:PT2H
+DTSTART:20221215T110000Z
+SUMMARY:🦔💨岸堂天真: 【3周年感想会】みんなお疲れ様！感想を聞かせてもらおうか！！【岸堂天真/ホロスターズ】
+UID:XZSRYEWGzAw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【企画の準備配信】ホロスタ好きなみんな～俺の企画手伝って～【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=iAA-Eo4hlCI
+DURATION:PT2H
+DTSTART:20221214T120000Z
+SUMMARY:🍕アルランディス: 【企画の準備配信】ホロスタ好きなみんな～俺の企画手伝って～【アルランディス/ホロスターズ】
+UID:iAA-Eo4hlCI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:「雑談」お昼を食べながら雑談するのよ【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=Sp7kM8Ez_Jw
+DURATION:PT2H
+DTSTART:20221214T030000Z
+SUMMARY:🌺花咲みやび: 「雑談」お昼を食べながら雑談するのよ【花咲みやび/ホロスターズ】
+UID:Sp7kM8Ez_Jw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【衝撃】ホロライブプロダクションのVTuberが母親にカミングアウトした結果…【マンガ動画】#shorts\nhttps://www.youtube.com/watch?v=a9ZG2EwComQ
+DURATION:PT2H
+DTSTART:20221214T090000Z
+SUMMARY:緋崎ガンマ: 【衝撃】ホロライブプロダクションのVTuberが母親にカミングアウトした結果…【マンガ動画】#shorts
+UID:a9ZG2EwComQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Vtuberによる、癒し度1000％の動画🍀　#short　#holostars　#アップロー【ホロライブプロダクション】\nhttps://www.youtube.com/watch?v=h_wKIn0A_ds
+DURATION:PT2H
+DTSTART:20221214T102223Z
+SUMMARY:夜十神封魔: Vtuberによる、癒し度1000％の動画🍀　#short　#holostars　#アップロー【ホロライブプロダクション】
+UID:h_wKIn0A_ds
 END:VEVENT
 END:VCALENDAR
