@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【CONCERT WATCHALONG】#SINDERELive: THERE'S NO WAY I'M MISSING THIS LIVE【Hololive ID Gen 2】\nhttps://www.youtube.com/watch?v=LTiWjD2-Oc4
+DURATION:PT2H
+DTSTART:20221218T033011Z
+SUMMARY:Ollie: 【CONCERT WATCHALONG】#SINDERELive: THERE'S NO WAY I'M MISSING THIS LIVE【Hololive ID Gen 2】
+UID:LTiWjD2-Oc4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Rust】just checking and let's see what we can do in 4 hours 🕓【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=gnL0F7nXOJo
 DURATION:PT2H
 DTSTART:20221218T050000Z
@@ -11,11 +18,11 @@ SUMMARY:Kaela: 【Rust】just checking and let's see what we can do in 4 hours �
 UID:gnL0F7nXOJo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【CONCERT WATCHALONG】#SINDERELive: THERE'S NO WAY I'M MISSING THIS LIVE【Hololive ID Gen 2】\nhttps://www.youtube.com/watch?v=LTiWjD2-Oc4
+DESCRIPTION:『Duolingo』Japanese Study! 日本語勉強！#3\nhttps://www.youtube.com/watch?v=50U_xoi-h6w
 DURATION:PT2H
-DTSTART:20221218T033011Z
-SUMMARY:Ollie: 【CONCERT WATCHALONG】#SINDERELive: THERE'S NO WAY I'M MISSING THIS LIVE【Hololive ID Gen 2】
-UID:LTiWjD2-Oc4
+DTSTART:20221218T140000Z
+SUMMARY:Zeta: 『Duolingo』Japanese Study! 日本語勉強！#3
+UID:50U_xoi-h6w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Pokémon Violet】How Much Can An Emo RTA?【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=100OGnTxsRU
