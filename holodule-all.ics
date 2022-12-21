@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ただいま】配信復帰します！まったりとお話しよう～～🌟【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=zSj4sfrWD38
+DURATION:PT2H
+DTSTART:20221222T100000Z
+SUMMARY:🌟夜空メル: 【ただいま】配信復帰します！まったりとお話しよう～～🌟【ホロライブ/夜空メル】
+UID:zSj4sfrWD38
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【FGO】はじめての Fate/Grand Order !! 絶対魔獣戦線バビロニアやる！！第十五節～ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=t1XLOOWF_ro
 DURATION:PT2H
 DTSTART:20221220T120000Z
 SUMMARY:👯兎田ぺこら: 【FGO】はじめての Fate/Grand Order !! 絶対魔獣戦線バビロニアやる！！第十五節～ぺこ！【ホロライブ/兎田ぺこら】
 UID:t1XLOOWF_ro
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【hololiveID】Vocal Warmup !! -Acapella singing-【Ayunda Risu】\nhttps://www.youtube.com/watch?v=JNGNAlr5xgU
-DURATION:PT2H
-DTSTART:20221220T063000Z
-SUMMARY:🐿Risu: 【hololiveID】Vocal Warmup !! -Acapella singing-【Ayunda Risu】
-UID:JNGNAlr5xgU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Phasmophobia】気づけばアプデ盛りだくさんらしい！？【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=fUYgsxaz9UE
@@ -25,13 +25,6 @@ SUMMARY:🌽白上フブキ: 【Phasmophobia】気づけばアプデ盛りだく
 UID:fUYgsxaz9UE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #ホロ鯖RUST 】見て見て～✨スプリンクラー回路完成なのらっ！🎃【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=a4pbo-CXQjE
-DURATION:PT2H
-DTSTART:20221220T133000Z
-SUMMARY:🍬姫森ルーナ: 【 #ホロ鯖RUST 】見て見て～✨スプリンクラー回路完成なのらっ！🎃【姫森ルーナ/ホロライブ】
-UID:a4pbo-CXQjE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【NEEDY GIRL OVERDOSE】I will save you Ame chan... #3\nhttps://www.youtube.com/watch?v=hPCn4gZl6-k
 DURATION:PT2H
 DTSTART:20221221T030000Z
@@ -39,11 +32,25 @@ SUMMARY:Syrios: 【NEEDY GIRL OVERDOSE】I will save you Ame chan... #3
 UID:hPCn4gZl6-k
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 #ホロ鯖RUST 】見て見て～✨スプリンクラー回路完成なのらっ！🎃【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=a4pbo-CXQjE
+DURATION:PT2H
+DTSTART:20221220T133000Z
+SUMMARY:🍬姫森ルーナ: 【 #ホロ鯖RUST 】見て見て～✨スプリンクラー回路完成なのらっ！🎃【姫森ルーナ/ホロライブ】
+UID:a4pbo-CXQjE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【重大告知】重大告知あるよ！告知するよ！告知だよ！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=Gn3xl_hXLHo
 DURATION:PT2H
 DTSTART:20221221T100000Z
 SUMMARY:💫天音かなた: 【重大告知】重大告知あるよ！告知するよ！告知だよ！！！【天音かなた/ホロライブ】
 UID:Gn3xl_hXLHo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololiveID】Vocal Warmup !! -Acapella singing-【Ayunda Risu】\nhttps://www.youtube.com/watch?v=JNGNAlr5xgU
+DURATION:PT2H
+DTSTART:20221220T063000Z
+SUMMARY:🐿Risu: 【hololiveID】Vocal Warmup !! -Acapella singing-【Ayunda Risu】
+UID:JNGNAlr5xgU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】みんなで練習！【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=LONb21gkZ-8
@@ -60,18 +67,18 @@ SUMMARY:💋癒月ちょこ: 【スプラトゥーン3】フレア様と一緒�
 UID:VHLDnrER70I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Schedule Making】Lovely Aniki feeding the Axelotls\nhttps://www.youtube.com/watch?v=MGyumSSxepM
-DURATION:PT2H
-DTSTART:20221220T050000Z
-SUMMARY:Syrios: 【Schedule Making】Lovely Aniki feeding the Axelotls
-UID:MGyumSSxepM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【実食雑談】サルミアッキを食べよう！【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=zrrTGAkQlwI
 DURATION:PT2H
 DTSTART:20221220T080000Z
 SUMMARY:🍷夕刻ロベル: 【実食雑談】サルミアッキを食べよう！【夕刻ロベル/ホロスターズ】
 UID:zrrTGAkQlwI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Schedule Making】Lovely Aniki feeding the Axelotls\nhttps://www.youtube.com/watch?v=MGyumSSxepM
+DURATION:PT2H
+DTSTART:20221220T050000Z
+SUMMARY:Syrios: 【Schedule Making】Lovely Aniki feeding the Axelotls
+UID:MGyumSSxepM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】MAGCRAFT ⛏️\nhttps://www.youtube.com/watch?v=tLIgX31uCYA
@@ -193,11 +200,11 @@ SUMMARY:荒咬オウガ: 【デイヴ・ザ・ダイバー】寿司#4【荒咬�
 UID:8Z3wY9aOXLU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【壺おじ】教え伝える者こそ鍛錬が必要【ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=kBUb6cWGPLA
+DESCRIPTION:【#最終回】TIGER & BUNNY 同時視聴会/ TIGER & BUNNY watch party!【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=cRS5-9QP-W4
 DURATION:PT2H
-DTSTART:20221221T100000Z
-SUMMARY:🌲大神ミオ: 【壺おじ】教え伝える者こそ鍛錬が必要【ホロライブ/大神ミオ】
-UID:kBUb6cWGPLA
+DTSTART:20221222T130000Z
+SUMMARY:🚑大空スバル: 【#最終回】TIGER & BUNNY 同時視聴会/ TIGER & BUNNY watch party!【ホロライブ/大空スバル】
+UID:cRS5-9QP-W4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】まったり雑談マリカ練習会♡～つよい3人とザコヨーテ編～【博衣こより視点/ホロライブ】\nhttps://www.youtube.com/watch?v=BMAehCE-ZFc
@@ -205,13 +212,6 @@ DURATION:PT2H
 DTSTART:20221220T130000Z
 SUMMARY:博衣こより: 【マリオカート8DX】まったり雑談マリカ練習会♡～つよい3人とザコヨーテ編～【博衣こより視点/ホロライブ】
 UID:BMAehCE-ZFc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#最終回】TIGER & BUNNY 同時視聴会/ TIGER & BUNNY watch party!【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=cRS5-9QP-W4
-DURATION:PT2H
-DTSTART:20221222T130000Z
-SUMMARY:🚑大空スバル: 【#最終回】TIGER & BUNNY 同時視聴会/ TIGER & BUNNY watch party!【ホロライブ/大空スバル】
-UID:cRS5-9QP-W4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #アランVSアップロー!! 】ホロスタ勝手にランキング当てまSHOW【夜十神封魔/緋崎ガンマ/羽継烏有/アルランディス/ホロスターズ/アップロー!!】\nhttps://www.youtube.com/watch?v=DXOtWN7eFhs
@@ -275,6 +275,13 @@ DURATION:PT2H
 DTSTART:20221221T110000Z
 SUMMARY:🌽白上フブキ: 【FORSPOKEN 体験版】最強の女と魔法アクションRPG！？【ホロライブ/白上フブキ】
 UID:FQsse8uXyio
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ジャンプロ】真夏にクーラボックスって欠かせないよね #shorts\nhttps://www.youtube.com/watch?v=4j2Ia90CqPQ
+DURATION:PT2H
+DTSTART:20221221T110005Z
+SUMMARY:ホロスターズ: 【#ジャンプロ】真夏にクーラボックスって欠かせないよね #shorts
+UID:4j2Ia90CqPQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 ポケモンSV 】ジム戦クリアまで！ネモ編 ジムバッチ全部集めるぞぉぉぉぉ‼【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=I-TcZ-XevAY
@@ -368,13 +375,6 @@ SUMMARY:🌙紫咲シオン: 【歌枠】耳の調子が悪いけど歌います
 UID:1HEPE388HCw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Pokemon Scarlet】Get Some Shiny ✨🧂【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=o68emwibz20
-DURATION:PT2H
-DTSTART:20221221T070000Z
-SUMMARY:Kaela: 【Pokemon Scarlet】Get Some Shiny ✨🧂【Kaela Kovalskia / hololiveID】
-UID:o68emwibz20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#朝こよ】クリスマス直前🎄火曜日の朝は朝こよ！☀ #107【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=QUXrroyGD_M
 DURATION:PT2H
 DTSTART:20221219T220000Z
@@ -401,13 +401,6 @@ DURATION:PT2H
 DTSTART:20221220T180000Z
 SUMMARY:🎭アステル・レダ: 【League of Legends】深夜のまったりゲームズ / アステル
 UID:v2zyUJ7nhQs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DONATION READING + FREETALK】GETTING COMFY WHILE READING SUPAS!!【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=VeWCzSeyDU4
-DURATION:PT2H
-DTSTART:20221221T083012Z
-SUMMARY:Ollie: 【DONATION READING + FREETALK】GETTING COMFY WHILE READING SUPAS!!【Hololive ID 2nd Generation】
-UID:VeWCzSeyDU4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【holo*27 MV】紫咲シオン x ラプラス・ダークネス - リップシンク【ホロライブ x DECO*27】\nhttps://www.youtube.com/watch?v=NjtIAuZQN_E
@@ -494,6 +487,13 @@ SUMMARY:IRyS: 【Persona 5 Royal】Joker looks so dang Chuuni
 UID:9XzZJ_XRmao
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【MARIO KART 8 DELUXE】HELP ME TRAIN!!【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=VZE4EYH9E1Q
+DURATION:PT2H
+DTSTART:20221221T112924Z
+SUMMARY:Ollie: 【MARIO KART 8 DELUXE】HELP ME TRAIN!!【Hololive ID 2nd Generation】
+UID:VZE4EYH9E1Q
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:POV: Ghost hunting with the quiet girl (Part 5)\nhttps://www.youtube.com/watch?v=8XrdPdLIPHo
 DURATION:PT2H
 DTSTART:20221220T230005Z
@@ -520,6 +520,13 @@ DURATION:PT2H
 DTSTART:20221221T060000Z
 SUMMARY:❤赤井はあと: Xmas MEAT PARTY🎄🎅🍖【HAACHAMA EN WED】#HaachamaEnglish #holoen0
 UID:7lLhIuITOkY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ロマンシング サガ -ミンストレルソング-  リマスター】ネタバレあり！初めてのロマサガ！＃3【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=S8AeN-BalXg
+DURATION:PT2H
+DTSTART:20221221T130000Z
+SUMMARY:荒咬オウガ: 【ロマンシング サガ -ミンストレルソング-  リマスター】ネタバレあり！初めてのロマサガ！＃3【荒咬オウガ/ホロスターズ】
+UID:S8AeN-BalXg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HOLODIVE】RECLAIMING MY THRONE【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=9A1IqxNu2VU
