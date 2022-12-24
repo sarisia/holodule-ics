@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#ホロクリスマス歌枠リレー】クリスマスの滅びのバーストストリーム【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=y41q06WzctU
+DURATION:PT2H
+DTSTART:20221225T061500Z
+SUMMARY:💋癒月ちょこ: 【#ホロクリスマス歌枠リレー】クリスマスの滅びのバーストストリーム【ホロライブ/癒月ちょこ】
+UID:y41q06WzctU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ホロクリスマス歌枠リレー】ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=AScAyfjBhqs
 DURATION:PT2H
 DTSTART:20221225T132000Z
@@ -51,13 +58,6 @@ DURATION:PT2H
 DTSTART:20221225T140000Z
 SUMMARY:🌟夜空メル: 【ASMR/KU100】クリスマスだから♡甘々な時間を過ごそうっ🎄✨【ホロライブ/夜空メル】
 UID:5-LaNVU-qWI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Phasmophobia】not a comedy night\, i guess..【Kaela / Iofi / Anya / Zeta | hololiveID】\nhttps://www.youtube.com/watch?v=FhP9LqaAjpw
-DURATION:PT2H
-DTSTART:20221224T130000Z
-SUMMARY:Kaela: 【Phasmophobia】not a comedy night\, i guess..【Kaela / Iofi / Anya / Zeta | hololiveID】
-UID:FhP9LqaAjpw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #ホロクリスマス歌枠リレー 】枕にプレゼントあるかなぁ🎄【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=1JPLMIOp9HU
@@ -151,13 +151,6 @@ SUMMARY:Syrios: 【Pokémon Violet】I need a strong FAIYAAAAAA Pokemon
 UID:mGYqSGo7ig8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【メンバーシップ限定】はじめてのASMRテスト【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=mGEVLz8I2UY
-DURATION:PT2H
-DTSTART:20221224T180000Z
-SUMMARY:鷹嶺ルイ: 【メンバーシップ限定】はじめてのASMRテスト【鷹嶺ルイ/ホロライブ】
-UID:mGEVLz8I2UY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【弾き語り】路上ライブしてｪ～【奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=H9QqiJw7-vw
 DURATION:PT2H
 DTSTART:20221224T124500Z
@@ -191,13 +184,6 @@ DURATION:PT2H
 DTSTART:20221224T000000Z
 SUMMARY:夜十神封魔: 【APEX】クリぼっちAPEX🌞【#夜十神封魔  #ホロスターズ #アップロー】
 UID:7kBN9o8ToaQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【晩酌ASMR】バイノーラルマイクで晩酌クリスマス🎄手作りケーキとコラボ日本酒と共に💖【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=0Aq6mN9AJ-I
-DURATION:PT2H
-DTSTART:20221224T140000Z
-SUMMARY:博衣こより: 【晩酌ASMR】バイノーラルマイクで晩酌クリスマス🎄手作りケーキとコラボ日本酒と共に💖【博衣こより/ホロライブ】
-UID:0Aq6mN9AJ-I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ASMR】め、めりーくりすます・・・🎄いやくるしみます・・・？※アーカイブはメン限です【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=5AHsPB44qaI
@@ -361,13 +347,6 @@ SUMMARY:⚒AZKi: 【歌枠】#ホロクリスマス歌枠リレー  / Xmas SINGI
 UID:AFuWd9mDaAg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Phasmophobia 】Holy Night\, Comedy Night【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=nVJEK6ag_m4
-DURATION:PT2H
-DTSTART:20221224T130000Z
-SUMMARY:🎨Iofi: 【 Phasmophobia 】Holy Night\, Comedy Night【 iofi / ホロライブ 】
-UID:nVJEK6ag_m4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】クリスマスイブにトワとまつりがなんかする！【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=14uO0gLNqMk
 DURATION:PT2H
 DTSTART:20221224T040000Z
@@ -375,11 +354,32 @@ SUMMARY:👾常闇トワ: 【APEX】クリスマスイブにトワとまつり�
 UID:14uO0gLNqMk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【KARAOKE 】SUPER DUPER RARE LEGENDARY KARAOKE STREAM【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=CwJZdlYFAAU
+DURATION:PT2H
+DTSTART:20221225T130000Z
+SUMMARY:🎨Iofi: 【KARAOKE 】SUPER DUPER RARE LEGENDARY KARAOKE STREAM【 iofi / ホロライブ 】
+UID:CwJZdlYFAAU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ホロクリスマス歌枠リレー 】23:40～ラスト！最後まで一緒に盛り上がろう～！【大神ミオ】\nhttps://www.youtube.com/watch?v=8vR8y5ck6Tg
 DURATION:PT2H
 DTSTART:20221225T143000Z
 SUMMARY:🌲大神ミオ: 【#ホロクリスマス歌枠リレー 】23:40～ラスト！最後まで一緒に盛り上がろう～！【大神ミオ】
 UID:8vR8y5ck6Tg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【UNARCHIVED Singing】It's Christmas KARAOKE♪\nhttps://www.youtube.com/watch?v=Kbs9aHI7aBc
+DURATION:PT2H
+DTSTART:20221225T010000Z
+SUMMARY:IRyS: 【UNARCHIVED Singing】It's Christmas KARAOKE♪
+UID:Kbs9aHI7aBc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【今日はクルシミマス】クリスマス中に完成させろ！絶対に揃わないルービックキューブ配信  -ルービックキューブインポッシブル-【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=L-U8vDz9PxA
+DURATION:PT2H
+DTSTART:20221225T120000Z
+SUMMARY:🍕アルランディス: 【今日はクルシミマス】クリスマス中に完成させろ！絶対に揃わないルービックキューブ配信  -ルービックキューブインポッシブル-【アルランディス/ホロスターズ】
+UID:L-U8vDz9PxA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#スバおかクリスマス】クリスマスだ！！RPGだ！！！！！！！ライブアライブリメイクだ！！！！！！！！！！！：LIVE A LIVE【※ネタバレ有】\nhttps://www.youtube.com/watch?v=ERilmwLQuPU
@@ -403,18 +403,18 @@ SUMMARY:Altare: ⛏️ ROCK AND STONE ⛏️ 【Deep Rock Galactic】
 UID:1-XawPsPb2I
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【リスナー参加型交換会】メリクリ～！いい子のみんなにはキラーメをプレゼントだ！ ポケモンSV【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=abBQjSzf7mU
+DURATION:PT2H
+DTSTART:20221224T120000Z
+SUMMARY:🍕アルランディス: 【リスナー参加型交換会】メリクリ～！いい子のみんなにはキラーメをプレゼントだ！ ポケモンSV【アルランディス/ホロスターズ】
+UID:abBQjSzf7mU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ASMR】Xmas特別massage💕キミのお耳・・貸して？【ロボ子さん/ホロライブ】\nhttps://www.youtube.com/watch?v=kVgFQlcHRU8
 DURATION:PT2H
 DTSTART:20221224T080000Z
 SUMMARY:🤖ロボ子さん: 【ASMR】Xmas特別massage💕キミのお耳・・貸して？【ロボ子さん/ホロライブ】
 UID:kVgFQlcHRU8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:maybe the ghosts are gone.....on a holiday?!\nhttps://www.youtube.com/watch?v=DG6iOCyi5p4
-DURATION:PT2H
-DTSTART:20221224T130000Z
-SUMMARY:Zeta: maybe the ghosts are gone.....on a holiday?!
-UID:DG6iOCyi5p4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Free chat】ししろんの射撃訓練場【ホロライブ/獅白ぼたん】\nhttps://www.youtube.com/watch?v=iX6VmSL1YOA
@@ -450,6 +450,13 @@ DURATION:PT2H
 DTSTART:20221225T103000Z
 SUMMARY:🌲大神ミオ: 【#ホロクリスマス歌枠リレー】19:40～はあちゃまの代わりに歌います！【大神ミオ】
 UID:fON5Ecw0BrM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロクリスマス歌枠リレー】今年の朗読納め🎄【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=BVqKMasKq5M
+DURATION:PT2H
+DTSTART:20221225T074000Z
+SUMMARY:⚔白銀ノエル: 【#ホロクリスマス歌枠リレー】今年の朗読納め🎄【白銀ノエル/ホロライブ】
+UID:BVqKMasKq5M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【企画】リスナーから募集した飾りで最強のクリスマスツリー作る！！！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=srv1SC_Uync
