@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】SO I HAVE ANOTHER PROJECT IN MIND【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=NVg3NcB5S6s
+DESCRIPTION:【Please Fix The Road】new game and it's relaxing【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=jRNiBYxvJsE
 DURATION:PT2H
-DTSTART:20221224T050857Z
-SUMMARY:Ollie: 【MINECRAFT】SO I HAVE ANOTHER PROJECT IN MIND【Hololive Indonesia 2nd Gen】
-UID:NVg3NcB5S6s
+DTSTART:20221225T040000Z
+SUMMARY:Kaela: 【Please Fix The Road】new game and it's relaxing【Kaela Kovalskia / hololiveID】
+UID:jRNiBYxvJsE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Pokemon Scarlet】Shiny Salt ✨🧂【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=6wcEFGWCnVc
@@ -25,13 +25,6 @@ SUMMARY:🎨Iofi: 【KARAOKE 】SUPER DUPER RARE LEGENDARY KARAOKE STREAM【 iof
 UID:CwJZdlYFAAU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Phasmophobia】GHO-HO-HO-ST【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=O_yHAb5-raY
-DURATION:PT2H
-DTSTART:20221224T130000Z
-SUMMARY:Anya: 【Phasmophobia】GHO-HO-HO-ST【hololive ID 2nd Generation | Anya Melfissa】
-UID:O_yHAb5-raY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MADiSON】 SINI LUW HANTU BOOGIL Part #2\nhttps://www.youtube.com/watch?v=PPp-6AVlNrg
 DURATION:PT2H
 DTSTART:20221224T150000Z
@@ -39,17 +32,38 @@ SUMMARY:Kobo: 【MADiSON】 SINI LUW HANTU BOOGIL Part #2
 UID:PPp-6AVlNrg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MARIO KART 8DX】newbie practice 🙇‍♀️【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=-iXUGFbdgZs
-DURATION:PT2H
-DTSTART:20221223T211500Z
-SUMMARY:Kaela: 【MARIO KART 8DX】newbie practice 🙇‍♀️【Kaela Kovalskia / hololiveID】
-UID:-iXUGFbdgZs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#6【Your Turn To Die キミガシネ】Outsmart a Green Man & You Live (maybe)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=-1IvdT9x5zE
 DURATION:PT2H
 DTSTART:20221224T120000Z
 SUMMARY:Reine: #6【Your Turn To Die キミガシネ】Outsmart a Green Man & You Live (maybe)【Pavolia Reine/hololiveID 2nd gen】
 UID:-1IvdT9x5zE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】SO I HAVE ANOTHER PROJECT IN MIND【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=NVg3NcB5S6s
+DURATION:PT2H
+DTSTART:20221224T050857Z
+SUMMARY:Ollie: 【MINECRAFT】SO I HAVE ANOTHER PROJECT IN MIND【Hololive Indonesia 2nd Gen】
+UID:NVg3NcB5S6s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Phasmophobia】not a comedy night\, i guess..【Kaela / Iofi / Anya / Zeta | hololiveID】\nhttps://www.youtube.com/watch?v=FhP9LqaAjpw
+DURATION:PT2H
+DTSTART:20221224T130000Z
+SUMMARY:Kaela: 【Phasmophobia】not a comedy night\, i guess..【Kaela / Iofi / Anya / Zeta | hololiveID】
+UID:FhP9LqaAjpw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Phasmophobia】GHO-HO-HO-ST【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=O_yHAb5-raY
+DURATION:PT2H
+DTSTART:20221224T130000Z
+SUMMARY:Anya: 【Phasmophobia】GHO-HO-HO-ST【hololive ID 2nd Generation | Anya Melfissa】
+UID:O_yHAb5-raY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MARIO KART 8DX】newbie practice 🙇‍♀️【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=-iXUGFbdgZs
+DURATION:PT2H
+DTSTART:20221223T211500Z
+SUMMARY:Kaela: 【MARIO KART 8DX】newbie practice 🙇‍♀️【Kaela Kovalskia / hololiveID】
+UID:-iXUGFbdgZs
 END:VEVENT
 END:VCALENDAR
