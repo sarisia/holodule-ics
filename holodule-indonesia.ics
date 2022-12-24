@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【 Phasmophobia 】Holy Night\, Comedy Night【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=nVJEK6ag_m4
+DURATION:PT2H
+DTSTART:20221224T130000Z
+SUMMARY:🎨Iofi: 【 Phasmophobia 】Holy Night\, Comedy Night【 iofi / ホロライブ 】
+UID:nVJEK6ag_m4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Please Fix The Road】new game and it's relaxing【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=jRNiBYxvJsE
 DURATION:PT2H
 DTSTART:20221225T040000Z
@@ -65,5 +72,12 @@ DURATION:PT2H
 DTSTART:20221223T211500Z
 SUMMARY:Kaela: 【MARIO KART 8DX】newbie practice 🙇‍♀️【Kaela Kovalskia / hololiveID】
 UID:-iXUGFbdgZs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:maybe the ghosts are gone.....on a holiday?!\nhttps://www.youtube.com/watch?v=DG6iOCyi5p4
+DURATION:PT2H
+DTSTART:20221224T130000Z
+SUMMARY:Zeta: maybe the ghosts are gone.....on a holiday?!
+UID:DG6iOCyi5p4
 END:VEVENT
 END:VCALENDAR
