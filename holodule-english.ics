@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【UNARCHIVED Singing】It's Christmas KARAOKE♪\nhttps://www.youtube.com/watch?v=Kbs9aHI7aBc
-DURATION:PT2H
-DTSTART:20221225T010000Z
-SUMMARY:IRyS: 【UNARCHIVED Singing】It's Christmas KARAOKE♪
-UID:Kbs9aHI7aBc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:A Winter's Dream - HAKOS BAELZ\nhttps://www.youtube.com/watch?v=4OzxYScGoqc
 DURATION:PT2H
 DTSTART:20221225T010000Z
@@ -18,11 +11,32 @@ SUMMARY:Baelz: A Winter's Dream - HAKOS BAELZ
 UID:4OzxYScGoqc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪CHRISTMAS KARAOKE≫ preface. this is not gonna be good.\nhttps://www.youtube.com/watch?v=1H0Sngat8Hw
+DESCRIPTION:【IRySanta】 Drawing Beautiful Icon Gifts letsgo!\nhttps://www.youtube.com/watch?v=hDK5ksxDzo0
 DURATION:PT2H
-DTSTART:20221225T013000Z
-SUMMARY:Baelz: ≪CHRISTMAS KARAOKE≫ preface. this is not gonna be good.
-UID:1H0Sngat8Hw
+DTSTART:20221224T030000Z
+SUMMARY:IRyS: 【IRySanta】 Drawing Beautiful Icon Gifts letsgo!
+UID:hDK5ksxDzo0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【UNARCHIVED Singing】It's Christmas KARAOKE♪\nhttps://www.youtube.com/watch?v=Kbs9aHI7aBc
+DURATION:PT2H
+DTSTART:20221225T010000Z
+SUMMARY:IRyS: 【UNARCHIVED Singing】It's Christmas KARAOKE♪
+UID:Kbs9aHI7aBc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MERRY XMAS】Am Healthy Again !! TANGENT TIME #kfp #キアライブ\nhttps://www.youtube.com/watch?v=9jXJgsGDwks
+DURATION:PT2H
+DTSTART:20221224T213000Z
+SUMMARY:Kiara: 【MERRY XMAS】Am Healthy Again !! TANGENT TIME #kfp #キアライブ
+UID:9jXJgsGDwks
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⋆⍋* Smol Ame's Christmas Special *⍋⋆\nhttps://www.youtube.com/watch?v=g7s3dTzt8sc
+DURATION:PT2H
+DTSTART:20221225T040000Z
+SUMMARY:Amelia: ⋆⍋* Smol Ame's Christmas Special *⍋⋆
+UID:g7s3dTzt8sc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪XMAS COUNTDOWN≫ not-sick Bae waiting for Santa\nhttps://www.youtube.com/watch?v=A4txk8rM3Zw
@@ -39,17 +53,10 @@ SUMMARY:ENholo: Holy Night - hololive English Cover [Ouro Kronii\, Hakos Baelz]
 UID:xvvjwhLG4Dw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【IRySanta】 Drawing Beautiful Icon Gifts letsgo!\nhttps://www.youtube.com/watch?v=hDK5ksxDzo0
+DESCRIPTION:≪CHRISTMAS KARAOKE≫ preface. this is not gonna be good.\nhttps://www.youtube.com/watch?v=1H0Sngat8Hw
 DURATION:PT2H
-DTSTART:20221224T030000Z
-SUMMARY:IRyS: 【IRySanta】 Drawing Beautiful Icon Gifts letsgo!
-UID:hDK5ksxDzo0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MERRY XMAS】Am Healthy Again !! TANGENT TIME #kfp #キアライブ\nhttps://www.youtube.com/watch?v=9jXJgsGDwks
-DURATION:PT2H
-DTSTART:20221224T213000Z
-SUMMARY:Kiara: 【MERRY XMAS】Am Healthy Again !! TANGENT TIME #kfp #キアライブ
-UID:9jXJgsGDwks
+DTSTART:20221225T013000Z
+SUMMARY:Baelz: ≪CHRISTMAS KARAOKE≫ preface. this is not gonna be good.
+UID:1H0Sngat8Hw
 END:VEVENT
 END:VCALENDAR
