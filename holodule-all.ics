@@ -489,9 +489,16 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロクリスマス歌枠リレー 】23:40～ラスト！最後まで一緒に盛り上がろう～！【大神ミオ】\nhttps://www.youtube.com/watch?v=8vR8y5ck6Tg
 DURATION:PT2H
-DTSTART:20221225T143000Z
+DTSTART:20221225T144000Z
 SUMMARY:🌲大神ミオ: 【#ホロクリスマス歌枠リレー 】23:40～ラスト！最後まで一緒に盛り上がろう～！【大神ミオ】
 UID:8vR8y5ck6Tg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Unarchived Karaoke】crismin\nhttps://www.youtube.com/watch?v=FYhJ75FucUE
+DURATION:PT2H
+DTSTART:20221225T050000Z
+SUMMARY:Kronii: 【Unarchived Karaoke】crismin
+UID:FYhJ75FucUE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【今日はクルシミマス】クリスマス中に完成させろ！絶対に揃わないルービックキューブ配信  -ルービックキューブインポッシブル-【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=L-U8vDz9PxA
@@ -594,7 +601,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロクリスマス歌枠リレー】19:40～はあちゃまの代わりに歌います！【大神ミオ】\nhttps://www.youtube.com/watch?v=fON5Ecw0BrM
 DURATION:PT2H
-DTSTART:20221225T103000Z
+DTSTART:20221225T104000Z
 SUMMARY:🌲大神ミオ: 【#ホロクリスマス歌枠リレー】19:40～はあちゃまの代わりに歌います！【大神ミオ】
 UID:fON5Ecw0BrM
 END:VEVENT
@@ -639,6 +646,13 @@ DURATION:PT2H
 DTSTART:20221226T100000Z
 SUMMARY:ホロライブ: 【年忘れ】今年の懺悔、今年のうちに…【#除や大反省会】
 UID:VTXtRl_6pKo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【AmongUs】ほろ酔い仕立てのシチュエーションカルパッチョ～ポルカを添えて～【ホロライブ/尾丸ポルカ】\nhttps://www.youtube.com/watch?v=McFkcOpAGu0
+DURATION:PT2H
+DTSTART:20221225T150000Z
+SUMMARY:尾丸ポルカ: 【AmongUs】ほろ酔い仕立てのシチュエーションカルパッチョ～ポルカを添えて～【ホロライブ/尾丸ポルカ】
+UID:McFkcOpAGu0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #ホロクリスマス歌枠リレー 】こよの歌をきけ～～～！🎄✨【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=_mog2sSopcQ
@@ -877,12 +891,5 @@ DURATION:PT2H
 DTSTART:20221225T110000Z
 SUMMARY:☄星街すいせい: 【#ホロクリスマス歌枠リレー】【ホロライブ / 星街すいせい】
 UID:7NBLkTqH904
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪CHRISTMAS KARAOKE≫ preface. this is not gonna be good.\nhttps://www.youtube.com/watch?v=1H0Sngat8Hw
-DURATION:PT2H
-DTSTART:20221225T013000Z
-SUMMARY:Baelz: ≪CHRISTMAS KARAOKE≫ preface. this is not gonna be good.
-UID:1H0Sngat8Hw
 END:VEVENT
 END:VCALENDAR
