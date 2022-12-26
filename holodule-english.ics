@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【UNARCHIVED KARAOKE】 Christmas Singing!!! Merry Christmas 🎄🤶🎁\nhttps://www.youtube.com/watch?v=XXDjNMBjBm0
-DURATION:PT2H
-DTSTART:20221225T230000Z
-SUMMARY:Fauna: 【UNARCHIVED KARAOKE】 Christmas Singing!!! Merry Christmas 🎄🤶🎁
-UID:XXDjNMBjBm0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:A Winter's Dream - HAKOS BAELZ\nhttps://www.youtube.com/watch?v=4OzxYScGoqc
 DURATION:PT2H
 DTSTART:20221225T010000Z
 SUMMARY:Baelz: A Winter's Dream - HAKOS BAELZ
 UID:4OzxYScGoqc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MV】Blooming in the Mud - ウォルピスカーター || HAKOS BAELZ X TOKOYAMI TOWA COVER\nhttps://www.youtube.com/watch?v=08J6WAmX100
-DURATION:PT2H
-DTSTART:20221226T030000Z
-SUMMARY:Baelz: 【MV】Blooming in the Mud - ウォルピスカーター || HAKOS BAELZ X TOKOYAMI TOWA COVER
-UID:08J6WAmX100
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【CHRISTMAS SINGING】Mori Family Caroling!! feat. My Mom\nhttps://www.youtube.com/watch?v=IBNRuwIvNA4
@@ -32,11 +18,11 @@ SUMMARY:Calli: 【CHRISTMAS SINGING】Mori Family Caroling!! feat. My Mom
 UID:IBNRuwIvNA4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Pittari Shitai X'mas - Kiara x Watame x Kobo 【COVER】\nhttps://www.youtube.com/watch?v=EW_0FOYCvjs
+DESCRIPTION:【POKEMON SCARLET】FINAL COUNTDOWN. (dudududuun\,dududududuuun) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=-3UXaYRgDYE
 DURATION:PT2H
-DTSTART:20221225T140000Z
-SUMMARY:Kiara: Pittari Shitai X'mas - Kiara x Watame x Kobo 【COVER】
-UID:EW_0FOYCvjs
+DTSTART:20221226T150000Z
+SUMMARY:Kiara: 【POKEMON SCARLET】FINAL COUNTDOWN. (dudududuun\,dududududuuun) #kfp #キアライブ
+UID:-3UXaYRgDYE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪CLUBHOUSE 51≫ tensions will arise w/ Towa-senpai\nhttps://www.youtube.com/watch?v=NZDkoMikcX0
@@ -46,10 +32,31 @@ SUMMARY:Baelz: ≪CLUBHOUSE 51≫ tensions will arise w/ Towa-senpai
 UID:NZDkoMikcX0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⋆⍋* ~Christmas Day~ *⍋⋆\nhttps://www.youtube.com/watch?v=UJCMCJ1PlKo
+DURATION:PT2H
+DTSTART:20221226T040500Z
+SUMMARY:Amelia: ⋆⍋* ~Christmas Day~ *⍋⋆
+UID:UJCMCJ1PlKo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MERRY XMAS】Am Healthy Again !! TANGENT TIME #kfp #キアライブ\nhttps://www.youtube.com/watch?v=9jXJgsGDwks
 DURATION:PT2H
 DTSTART:20221224T213000Z
 SUMMARY:Kiara: 【MERRY XMAS】Am Healthy Again !! TANGENT TIME #kfp #キアライブ
 UID:9jXJgsGDwks
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MV】Blooming in the Mud - ウォルピスカーター || HAKOS BAELZ X TOKOYAMI TOWA COVER\nhttps://www.youtube.com/watch?v=08J6WAmX100
+DURATION:PT2H
+DTSTART:20221226T030000Z
+SUMMARY:Baelz: 【MV】Blooming in the Mud - ウォルピスカーター || HAKOS BAELZ X TOKOYAMI TOWA COVER
+UID:08J6WAmX100
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pittari Shitai X'mas - Kiara x Watame x Kobo 【COVER】\nhttps://www.youtube.com/watch?v=EW_0FOYCvjs
+DURATION:PT2H
+DTSTART:20221225T140000Z
+SUMMARY:Kiara: Pittari Shitai X'mas - Kiara x Watame x Kobo 【COVER】
+UID:EW_0FOYCvjs
 END:VEVENT
 END:VCALENDAR
