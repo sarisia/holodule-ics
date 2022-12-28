@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【HOLOLIVE QUIZ】I'VE COME TO TEST MY SIMP LEVEL【Hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=Qa1X3KtQhWQ
+DURATION:PT2H
+DTSTART:20221228T082909Z
+SUMMARY:Ollie: 【HOLOLIVE QUIZ】I'VE COME TO TEST MY SIMP LEVEL【Hololive Indonesia 2nd Generation】
+UID:Qa1X3KtQhWQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Rust】checking bases and do things【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=An6VZDm7WnE
 DURATION:PT2H
 DTSTART:20221227T030000Z
@@ -32,13 +39,6 @@ SUMMARY:🎨Iofi: 【 DANGANRONPA 】????????? ?? ? ? ?????????【 iofi / ホロ
 UID:WL5XuvUj8_Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HOLOLIVE QUIZ】I'VE COME TO TEST MY SIMP LEVEL【Hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=Qa1X3KtQhWQ
-DURATION:PT2H
-DTSTART:20221228T082909Z
-SUMMARY:Ollie: 【HOLOLIVE QUIZ】I'VE COME TO TEST MY SIMP LEVEL【Hololive Indonesia 2nd Generation】
-UID:Qa1X3KtQhWQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【FIFA23】#4 GOAAAAALLLLL ⚽【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=Oym_Np1lnS8
 DURATION:PT2H
 DTSTART:20221228T030000Z
@@ -51,5 +51,12 @@ DURATION:PT2H
 DTSTART:20221228T070000Z
 SUMMARY:Zeta: 【Persona 5 Royal】 I'M NOT MORGANA. STOP IT. GET SOME HELP. ❗Spoilers Alert #2
 UID:wbRFSf2w9-c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MARIO KART 8 DELUXE】THE TRAINING DOES NOT STOP【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=E3YHTjsZkfY
+DURATION:PT2H
+DTSTART:20221228T130000Z
+SUMMARY:Ollie: 【MARIO KART 8 DELUXE】THE TRAINING DOES NOT STOP【Hololive ID 2nd Generation】
+UID:E3YHTjsZkfY
 END:VEVENT
 END:VCALENDAR
