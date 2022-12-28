@@ -4,34 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:≪OFF COLLAB≫ konbanwa minasan\nhttps://www.youtube.com/watch?v=lvyDjPu-Qi4
-DURATION:PT2H
-DTSTART:20221228T113000Z
-SUMMARY:Baelz: ≪OFF COLLAB≫ konbanwa minasan
-UID:lvyDjPu-Qi4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Relax & Chill】Late Night ﾟ☾ ﾟ‧ Animal Crossing\nhttps://www.youtube.com/watch?v=m1tD0_upcjs
-DURATION:PT2H
-DTSTART:20221227T080000Z
-SUMMARY:Amelia: 【Relax & Chill】Late Night ﾟ☾ ﾟ‧ Animal Crossing
-UID:m1tD0_upcjs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Nintendo Switch Sports】 This Kirin challenges you to a game of golf... What do you do?\nhttps://www.youtube.com/watch?v=YsF5yk-UzLI
-DURATION:PT2H
-DTSTART:20221226T230000Z
-SUMMARY:Fauna: 【Nintendo Switch Sports】 This Kirin challenges you to a game of golf... What do you do?
-UID:YsF5yk-UzLI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【POKEMON SCARLET】FINAL COUNTDOWN. (dudududuun\,dududududuuun) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=-3UXaYRgDYE
-DURATION:PT2H
-DTSTART:20221226T150000Z
-SUMMARY:Kiara: 【POKEMON SCARLET】FINAL COUNTDOWN. (dudududuun\,dududududuuun) #kfp #キアライブ
-UID:-3UXaYRgDYE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Speedrunners】I Didn't Want It To Come Down To This\nhttps://www.youtube.com/watch?v=ZH4wx-Zy8rQ
 DURATION:PT2H
 DTSTART:20221228T063000Z
@@ -44,5 +16,12 @@ DURATION:PT2H
 DTSTART:20221227T191500Z
 SUMMARY:Kiara: 【Handcam】SOCKPUPPET EN CONCERT !! PARTY PARTY #kfp #キアライブ
 UID:YgoyMGh7MPI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪OFF COLLAB≫ konbanwa minasan\nhttps://www.youtube.com/watch?v=lvyDjPu-Qi4
+DURATION:PT2H
+DTSTART:20221228T113000Z
+SUMMARY:Baelz: ≪OFF COLLAB≫ konbanwa minasan
+UID:lvyDjPu-Qi4
 END:VEVENT
 END:VCALENDAR
