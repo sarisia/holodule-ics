@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:≪OFF COLLAB≫ konbanwa minasan\nhttps://www.youtube.com/watch?v=lvyDjPu-Qi4
+DURATION:PT2H
+DTSTART:20221228T113000Z
+SUMMARY:Baelz: ≪OFF COLLAB≫ konbanwa minasan
+UID:lvyDjPu-Qi4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【New Outfit Reveal】Check This Out Yo 🕶️\nhttps://www.youtube.com/watch?v=mM2YshQh2j4
+DURATION:PT2H
+DTSTART:20221229T021000Z
+SUMMARY:Kronii: 【New Outfit Reveal】Check This Out Yo 🕶️
+UID:mM2YshQh2j4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Speedrunners】I Didn't Want It To Come Down To This\nhttps://www.youtube.com/watch?v=ZH4wx-Zy8rQ
 DURATION:PT2H
 DTSTART:20221228T063000Z
@@ -18,17 +32,10 @@ SUMMARY:Kiara: 【Handcam】SOCKPUPPET EN CONCERT !! PARTY PARTY #kfp #キアラ
 UID:YgoyMGh7MPI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【New Outfit Reveal】Check This Out Yo 🕶️\nhttps://www.youtube.com/watch?v=mM2YshQh2j4
+DESCRIPTION:【OFF COLLAB】Girl Sleepover Simulator\nhttps://www.youtube.com/watch?v=rQvQl_PEsBA
 DURATION:PT2H
-DTSTART:20221229T021000Z
-SUMMARY:Kronii: 【New Outfit Reveal】Check This Out Yo 🕶️
-UID:mM2YshQh2j4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪OFF COLLAB≫ konbanwa minasan\nhttps://www.youtube.com/watch?v=lvyDjPu-Qi4
-DURATION:PT2H
-DTSTART:20221228T113000Z
-SUMMARY:Baelz: ≪OFF COLLAB≫ konbanwa minasan
-UID:lvyDjPu-Qi4
+DTSTART:20221229T104500Z
+SUMMARY:Mumei: 【OFF COLLAB】Girl Sleepover Simulator
+UID:rQvQl_PEsBA
 END:VEVENT
 END:VCALENDAR
