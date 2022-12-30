@@ -172,18 +172,18 @@ SUMMARY:ホロスターズ: 【プレイバック3Dストリーム】怪盗 / �
 UID:XzpNPQC94Fs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【OFF COLLAB】Girl Sleepover Simulator\nhttps://www.youtube.com/watch?v=rQvQl_PEsBA
-DURATION:PT2H
-DTSTART:20221229T104500Z
-SUMMARY:Mumei: 【OFF COLLAB】Girl Sleepover Simulator
-UID:rQvQl_PEsBA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談枠】KICK BACKのアップ後シャギア雑談！【律可/影山シエン/ホロスターズ】#シャドウギア\nhttps://www.youtube.com/watch?v=666k11um4FQ
 DURATION:PT2H
 DTSTART:20221229T120000Z
 SUMMARY:⚙律可: 【雑談枠】KICK BACKのアップ後シャギア雑談！【律可/影山シエン/ホロスターズ】#シャドウギア
 UID:666k11um4FQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【OFF COLLAB】Girl Sleepover Simulator\nhttps://www.youtube.com/watch?v=rQvQl_PEsBA
+DURATION:PT2H
+DTSTART:20221229T104500Z
+SUMMARY:Mumei: 【OFF COLLAB】Girl Sleepover Simulator
+UID:rQvQl_PEsBA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HoloCure】#15 catching up before the updates【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=Js21DUlNVb4
@@ -228,6 +228,13 @@ SUMMARY:夜十神封魔: 【おうち3D】さよなら2022年…。飲酒忘年�
 UID:nC1NigpNWuA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Drawing】2022年描き納め!!デビュー初期に描いたイラストを描きなおして、成長を確かめる!!【#緋崎ガンマ / #ホロスターズ / #お絵描き  #illustration #イラスト  】\nhttps://www.youtube.com/watch?v=5gKxPfjcHw8
+DURATION:PT2H
+DTSTART:20221230T070000Z
+SUMMARY:緋崎ガンマ: 【Drawing】2022年描き納め!!デビュー初期に描いたイラストを描きなおして、成長を確かめる!!【#緋崎ガンマ / #ホロスターズ / #お絵描き  #illustration #イラスト  】
+UID:5gKxPfjcHw8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 Tempus DND 】Where the Sun Don't Shine: Episode 3\nhttps://www.youtube.com/watch?v=YsDQ6b_qSQs
 DURATION:PT2H
 DTSTART:20221230T180000Z
@@ -261,13 +268,6 @@ DURATION:PT2H
 DTSTART:20221229T100000Z
 SUMMARY:👯兎田ぺこら: 【ギャンブル】GOD引くまで終われません！！！！！！！！！！！２日目ぺこ！【ホロライブ/兎田ぺこら】
 UID:VkotkSYOnsg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:VTuber Tries MRE's 【Handcam】\nhttps://www.youtube.com/watch?v=TOl92Nt_AXo
-DURATION:PT2H
-DTSTART:20221230T000000Z
-SUMMARY:Altare: VTuber Tries MRE's 【Handcam】
-UID:TOl92Nt_AXo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MARIO KART 8DX】practice together part.2 🙇‍♀️【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=jOD_nJy_-Cs
@@ -389,18 +389,18 @@ SUMMARY:Vesper: 【 Tempus DND 】Where the Sun Don't Shine: Episode 2
 UID:Vx2-66W8Ci8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【COMMISSIONS OPEN】THE PERFECT DRAWING FOR @KureijiOllie\nhttps://www.youtube.com/watch?v=9MZfd-grMPU
-DURATION:PT2H
-DTSTART:20221229T040000Z
-SUMMARY:Dezmond: 【COMMISSIONS OPEN】THE PERFECT DRAWING FOR @KureijiOllie
-UID:9MZfd-grMPU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 #イオそら 】出会いのゲーム！2年ぶりだね～【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=2SjMLCXfijM
 DURATION:PT2H
 DTSTART:20221229T030000Z
 SUMMARY:🎨Iofi: 【 #イオそら 】出会いのゲーム！2年ぶりだね～【 iofi / ホロライブ 】
 UID:2SjMLCXfijM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【COMMISSIONS OPEN】THE PERFECT DRAWING FOR @KureijiOllie\nhttps://www.youtube.com/watch?v=9MZfd-grMPU
+DURATION:PT2H
+DTSTART:20221229T040000Z
+SUMMARY:Dezmond: 【COMMISSIONS OPEN】THE PERFECT DRAWING FOR @KureijiOllie
+UID:9MZfd-grMPU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ASMR/Binaural】あまあま♥とろとろ♥Relax for Sleep/Ear Cleaning/Ear Massage【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=T1NVbfefosU
@@ -424,18 +424,11 @@ SUMMARY:鷹嶺ルイ: 【8位以下即終了マリオカート】なんという
 UID:oUNHDdD_Lmc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:リドー - 尾丸ポルカ(cover)\nhttps://www.youtube.com/watch?v=09Px3t9B7yo
+DESCRIPTION:【Valorant 配信】年の瀬にコンペをやっている皆さん【奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=QNinItMmlsQ
 DURATION:PT2H
-DTSTART:20221229T100000Z
-SUMMARY:尾丸ポルカ: リドー - 尾丸ポルカ(cover)
-UID:09Px3t9B7yo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【隠し撮り】Vtuberの3D配信のリハーサル風景　#shorts #vtuber #隠し撮り【ホロライブプロダクション】【夜十神封魔】\nhttps://www.youtube.com/watch?v=zdQWqrcshJk
-DURATION:PT2H
-DTSTART:20221229T124532Z
-SUMMARY:夜十神封魔: 【隠し撮り】Vtuberの3D配信のリハーサル風景　#shorts #vtuber #隠し撮り【ホロライブプロダクション】【夜十神封魔】
-UID:zdQWqrcshJk
+DTSTART:20221230T020000Z
+SUMMARY:🎸奏手イヅル: 【Valorant 配信】年の瀬にコンペをやっている皆さん【奏手イヅル/ホロスターズ】
+UID:QNinItMmlsQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】 #独り紅白歌合戦 今年もやります！MV公開×2もあるよ！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=S9gRPdtoWcc
@@ -445,11 +438,25 @@ SUMMARY:博衣こより: 【歌枠】 #独り紅白歌合戦 今年もやりま�
 UID:S9gRPdtoWcc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:リドー - 尾丸ポルカ(cover)\nhttps://www.youtube.com/watch?v=09Px3t9B7yo
+DURATION:PT2H
+DTSTART:20221229T100000Z
+SUMMARY:尾丸ポルカ: リドー - 尾丸ポルカ(cover)
+UID:09Px3t9B7yo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ポケモンSV】ニャオハの色違いを孵化したい！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=9-JHbzvhCdE
 DURATION:PT2H
 DTSTART:20221229T130000Z
 SUMMARY:🔥不知火フレア: 【ポケモンSV】ニャオハの色違いを孵化したい！【不知火フレア/ホロライブ】
 UID:9-JHbzvhCdE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【隠し撮り】Vtuberの3D配信のリハーサル風景　#shorts #vtuber #隠し撮り【ホロライブプロダクション】【夜十神封魔】\nhttps://www.youtube.com/watch?v=zdQWqrcshJk
+DURATION:PT2H
+DTSTART:20221229T124532Z
+SUMMARY:夜十神封魔: 【隠し撮り】Vtuberの3D配信のリハーサル風景　#shorts #vtuber #隠し撮り【ホロライブプロダクション】【夜十神封魔】
+UID:zdQWqrcshJk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:年末年始も一緒に過ごそう！ホロプロ情報まとめ✨🎍【#ホロよいお正月】\nhttps://www.youtube.com/watch?v=p0t7Sos5qO0
