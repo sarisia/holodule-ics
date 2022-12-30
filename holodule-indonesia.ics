@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【RADIOLLIE】#4 ONLY A FEW DAYS 'TIL NEW YEAR!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=nCcKOf90g9A
+DESCRIPTION:【Mario Party Superstars】not a chaos party【Kaela / Kobo / Zeta | hololiveID】\nhttps://www.youtube.com/watch?v=pBQz8bCruXE
 DURATION:PT2H
-DTSTART:20221228T225917Z
-SUMMARY:Ollie: 【RADIOLLIE】#4 ONLY A FEW DAYS 'TIL NEW YEAR!!【Hololive Indonesia 2nd Gen】
-UID:nCcKOf90g9A
+DTSTART:20221230T140000Z
+SUMMARY:Kaela: 【Mario Party Superstars】not a chaos party【Kaela / Kobo / Zeta | hololiveID】
+UID:pBQz8bCruXE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【NEW YEAR COUNTDOWN】 with fireworks! WOOOHOOO YEA BABY LETS FKN GO YOROSHIKU ONEGAISHIMASU  2023!!!!\nhttps://www.youtube.com/watch?v=6tlXspxDq4g
+DURATION:PT2H
+DTSTART:20221231T160000Z
+SUMMARY:Zeta: 【NEW YEAR COUNTDOWN】 with fireworks! WOOOHOOO YEA BABY LETS FKN GO YOROSHIKU ONEGAISHIMASU  2023!!!!
+UID:6tlXspxDq4g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FIFA23】#5 time for the trophy!!! ⚽🏆【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=0YXPBvFmqmI
@@ -18,11 +25,60 @@ SUMMARY:Kaela: 【FIFA23】#5 time for the trophy!!! ⚽🏆【Kaela Kovalskia /
 UID:0YXPBvFmqmI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Outer Wilds】 blind first gameplay!\nhttps://www.youtube.com/watch?v=TCgiXLk1HIo
+DESCRIPTION:【New Year Countdown】waaaaa wiiiiii wuuuuuu weeee wooooo🎉【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=eEpvs00FKDg
 DURATION:PT2H
-DTSTART:20221229T140000Z
-SUMMARY:Zeta: 【Outer Wilds】 blind first gameplay!
-UID:TCgiXLk1HIo
+DTSTART:20221231T160000Z
+SUMMARY:Kaela: 【New Year Countdown】waaaaa wiiiiii wuuuuuu weeee wooooo🎉【Kaela Kovalskia / hololiveID】
+UID:eEpvs00FKDg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MARIO KART 8DX】practice #7【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=rLpDtg7AzpM
+DURATION:PT2H
+DTSTART:20230101T130000Z
+SUMMARY:Kaela: 【MARIO KART 8DX】practice #7【Kaela Kovalskia / hololiveID】
+UID:rLpDtg7AzpM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MARIO KART 8DX】practice #6【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=oGxeKMHoJIw
+DURATION:PT2H
+DTSTART:20221231T070000Z
+SUMMARY:Kaela: 【MARIO KART 8DX】practice #6【Kaela Kovalskia / hololiveID】
+UID:oGxeKMHoJIw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【JellyCar Worlds】OWWPENNNNNN.... KLOOOOSSS【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=jltMzo409LI
+DURATION:PT2H
+DTSTART:20230101T060000Z
+SUMMARY:Kaela: 【JellyCar Worlds】OWWPENNNNNN.... KLOOOOSSS【Kaela Kovalskia / hololiveID】
+UID:jltMzo409LI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Mario Kart 8DX】Wait.. i forgot how this one work【Moona | Geemoon】\nhttps://www.youtube.com/watch?v=ByDIftYbNlQ
+DURATION:PT2H
+DTSTART:20221230T130000Z
+SUMMARY:🔮Moona: 【Mario Kart 8DX】Wait.. i forgot how this one work【Moona | Geemoon】
+UID:ByDIftYbNlQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MoonUtau】Unarchive home3D sudden Karaoke【Unarchive】\nhttps://www.youtube.com/watch?v=pyHtS18BamQ
+DURATION:PT2H
+DTSTART:20221230T151500Z
+SUMMARY:🔮Moona: 【MoonUtau】Unarchive home3D sudden Karaoke【Unarchive】
+UID:pyHtS18BamQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Super Magbot】aaaaaaaaaaaaaaaaaa【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=ezVSMLZTvpI
+DURATION:PT2H
+DTSTART:20221231T030000Z
+SUMMARY:Kaela: 【Super Magbot】aaaaaaaaaaaaaaaaaa【Kaela Kovalskia / hololiveID】
+UID:ezVSMLZTvpI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Mario Party Superstars】FRIENDSHIP TEST 🤍💙💛\nhttps://www.youtube.com/watch?v=TTntmV07oCo
+DURATION:PT2H
+DTSTART:20221230T140000Z
+SUMMARY:Zeta: 【Mario Party Superstars】FRIENDSHIP TEST 🤍💙💛
+UID:TTntmV07oCo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FREETALK & karaoke?】NOT SURE WHAT WILL BE DOING IN THIS STREAM BUT VIBE【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=V_Am8PtgriQ
@@ -46,73 +102,10 @@ SUMMARY:Kaela: 【MARIO KART 8DX】practice #5【Kaela Kovalskia / hololiveID】
 UID:YN20cLg8rB8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MARIO KART 8DX】practice together part.2 🙇‍♀️【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=jOD_nJy_-Cs
+DESCRIPTION:【Donation Reading + Free Talk】HAPPY 2023 🥳🎉【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=J5tRFtGG-0E
 DURATION:PT2H
-DTSTART:20221229T090000Z
-SUMMARY:Kaela: 【MARIO KART 8DX】practice together part.2 🙇‍♀️【Kaela Kovalskia / hololiveID】
-UID:jOD_nJy_-Cs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #イオそら 】出会いのゲーム！2年ぶりだね～【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=2SjMLCXfijM
-DURATION:PT2H
-DTSTART:20221229T030000Z
-SUMMARY:🎨Iofi: 【 #イオそら 】出会いのゲーム！2年ぶりだね～【 iofi / ホロライブ 】
-UID:2SjMLCXfijM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RADIOLLIE】#4 ONLY A FEW DAYS 'TIL NEW YEAR!! pt.2【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=at5HxKZ3rzE
-DURATION:PT2H
-DTSTART:20221228T233847Z
-SUMMARY:Ollie: 【RADIOLLIE】#4 ONLY A FEW DAYS 'TIL NEW YEAR!! pt.2【Hololive Indonesia 2nd Gen】
-UID:at5HxKZ3rzE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Mario Party Superstars】not a chaos party【Kaela / Kobo / Zeta | hololiveID】\nhttps://www.youtube.com/watch?v=pBQz8bCruXE
-DURATION:PT2H
-DTSTART:20221230T140000Z
-SUMMARY:Kaela: 【Mario Party Superstars】not a chaos party【Kaela / Kobo / Zeta | hololiveID】
-UID:pBQz8bCruXE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Who's Who?】u\, sus. with Kaeluarga!!! 👀【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=RecrtCiymw0
-DURATION:PT2H
-DTSTART:20221229T130000Z
-SUMMARY:Kaela: 【Who's Who?】u\, sus. with Kaeluarga!!! 👀【Kaela Kovalskia / hololiveID】
-UID:RecrtCiymw0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HoloCure】#15 catching up before the updates【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=Js21DUlNVb4
-DURATION:PT2H
-DTSTART:20221229T033000Z
-SUMMARY:Kaela: 【HoloCure】#15 catching up before the updates【Kaela Kovalskia / hololiveID】
-UID:Js21DUlNVb4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Super Magbot】aaaaaaaaaaaaaaaaaa【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=ezVSMLZTvpI
-DURATION:PT2H
-DTSTART:20221231T030000Z
-SUMMARY:Kaela: 【Super Magbot】aaaaaaaaaaaaaaaaaa【Kaela Kovalskia / hololiveID】
-UID:ezVSMLZTvpI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Mario Party Superstars】FRIENDSHIP TEST 🤍💙💛\nhttps://www.youtube.com/watch?v=TTntmV07oCo
-DURATION:PT2H
-DTSTART:20221230T140000Z
-SUMMARY:Zeta: 【Mario Party Superstars】FRIENDSHIP TEST 🤍💙💛
-UID:TTntmV07oCo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Freetalk】doing homework and lil bit talk【holoID】\nhttps://www.youtube.com/watch?v=ujJvOAMOte4
-DURATION:PT2H
-DTSTART:20221229T070000Z
-SUMMARY:🔮Moona: 【Freetalk】doing homework and lil bit talk【holoID】
-UID:ujJvOAMOte4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MARIO KART 8DX】practice #6【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=oGxeKMHoJIw
-DURATION:PT2H
-DTSTART:20221231T070000Z
-SUMMARY:Kaela: 【MARIO KART 8DX】practice #6【Kaela Kovalskia / hololiveID】
-UID:oGxeKMHoJIw
+DTSTART:20230101T030000Z
+SUMMARY:Kaela: 【Donation Reading + Free Talk】HAPPY 2023 🥳🎉【Kaela Kovalskia / hololiveID】
+UID:J5tRFtGG-0E
 END:VEVENT
 END:VCALENDAR
