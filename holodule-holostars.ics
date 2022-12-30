@@ -39,18 +39,18 @@ SUMMARY:🍕アルランディス: 【同時視聴】一緒に2023を迎えよ�
 UID:Mvbl4F3yjjE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3 / Xマッチ】今年はスプラ3にお世話になりました。最後のSplatoon3！【#夜十神封魔  #アップロー  #HOLOSTARS】\nhttps://www.youtube.com/watch?v=CxzN15skaZQ
-DURATION:PT2H
-DTSTART:20221230T090000Z
-SUMMARY:夜十神封魔: 【スプラトゥーン3 / Xマッチ】今年はスプラ3にお世話になりました。最後のSplatoon3！【#夜十神封魔  #アップロー  #HOLOSTARS】
-UID:CxzN15skaZQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:hololive production COUNTDOWN LIVE 2022▷2023 -HOLOSTARS side-【#ホロライブカウントダウン】\nhttps://www.youtube.com/watch?v=ahntN7r1GIc
 DURATION:PT2H
 DTSTART:20221231T140000Z
 SUMMARY:ホロスターズ: hololive production COUNTDOWN LIVE 2022▷2023 -HOLOSTARS side-【#ホロライブカウントダウン】
 UID:ahntN7r1GIc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スプラトゥーン3 / Xマッチ】今年はスプラ3にお世話になりました。最後のSplatoon3！【#夜十神封魔  #アップロー  #HOLOSTARS】\nhttps://www.youtube.com/watch?v=CxzN15skaZQ
+DURATION:PT2H
+DTSTART:20221230T090000Z
+SUMMARY:夜十神封魔: 【スプラトゥーン3 / Xマッチ】今年はスプラ3にお世話になりました。最後のSplatoon3！【#夜十神封魔  #アップロー  #HOLOSTARS】
+UID:CxzN15skaZQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【直前告知】-HOLOSTARS side- part③ #ホロライブカウントダウン #アステル・レダ #ホロスターズ\nhttps://www.youtube.com/watch?v=zolfV0JYUkw
@@ -60,13 +60,6 @@ SUMMARY:ホロスターズ: 【直前告知】-HOLOSTARS side- part③ #ホロ�
 UID:zolfV0JYUkw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【プレイバック3Dストリーム】惑星ループ/ #夜十神封魔\nhttps://www.youtube.com/watch?v=9ZKtiZJj4VE
-DURATION:PT2H
-DTSTART:20221230T110011Z
-SUMMARY:ホロスターズ: 【プレイバック3Dストリーム】惑星ループ/ #夜十神封魔
-UID:9ZKtiZJj4VE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【FallGuys】今年も色々ありがとうございました雑談しながらFallguys納め【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=trDL0djJvpM
 DURATION:PT2H
 DTSTART:20221230T130000Z
@@ -74,11 +67,25 @@ SUMMARY:影山シエン: 【FallGuys】今年も色々ありがとうござい�
 UID:trDL0djJvpM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【プレイバック3Dストリーム】惑星ループ/ #夜十神封魔\nhttps://www.youtube.com/watch?v=9ZKtiZJj4VE
+DURATION:PT2H
+DTSTART:20221230T110011Z
+SUMMARY:ホロスターズ: 【プレイバック3Dストリーム】惑星ループ/ #夜十神封魔
+UID:9ZKtiZJj4VE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌枠 22万人耐久】チャンネル登録22万人いくまで歌い続ける。拡散頼んだ！！！！ / アステル・レダ\nhttps://www.youtube.com/watch?v=8KfdtrIBGIM
 DURATION:PT2H
 DTSTART:20221230T130000Z
 SUMMARY:🎭アステル・レダ: 【歌枠 22万人耐久】チャンネル登録22万人いくまで歌い続ける。拡散頼んだ！！！！ / アステル・レダ
 UID:8KfdtrIBGIM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 LoL 】参加型：サモナーレベル上げる枠【#vtuber / #羽継烏有 / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=pl0Rz4halU8
+DURATION:PT2H
+DTSTART:20221230T230000Z
+SUMMARY:羽継烏有: 【 LoL 】参加型：サモナーレベル上げる枠【#vtuber / #羽継烏有 / #ホロスターズ 】
+UID:pl0Rz4halU8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:KICK BACK 歌ってみた / 米津玄師『covered by 律可＆影山シエン』ホロスターズ #shorts\nhttps://www.youtube.com/watch?v=_mZj98qfMc8
