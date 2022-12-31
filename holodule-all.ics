@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【年納め雑談】雑談of雑談of雑談【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=57bNjC1EYqk
-DURATION:PT2H
-DTSTART:20221230T120000Z
-SUMMARY:☄星街すいせい: 【年納め雑談】雑談of雑談of雑談【ホロライブ / 星街すいせい】
-UID:57bNjC1EYqk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【GeoGuessr】GoogleMapの写真で自分が今どこにいるか当てるゲーム【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=v2ELtp4X_CM
-DURATION:PT2H
-DTSTART:20221230T130000Z
-SUMMARY:🌺花咲みやび: 【GeoGuessr】GoogleMapの写真で自分が今どこにいるか当てるゲーム【花咲みやび/ホロスターズ】
-UID:v2ELtp4X_CM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 大晦日カウントダウン＊メン限 】年越しそばは "赤いきつね" もぐもぐしてジャンプする習わしなのら(・o・🍬)【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=VuNl2XMKTS4
 DURATION:PT2H
 DTSTART:20221231T140000Z
@@ -25,11 +11,18 @@ SUMMARY:🍬姫森ルーナ: 【 大晦日カウントダウン＊メン限 】�
 UID:VuNl2XMKTS4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【お知らせ】2023年のメンバーシップ特典等について！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=QQd-OCtLpKs
+DESCRIPTION:【NEW YEAR COUNTDOWN】 with fireworks! WOOOHOOO YEA BABY LETS FKN GO YOROSHIKU ONEGAISHIMASU  2023!!!!\nhttps://www.youtube.com/watch?v=6tlXspxDq4g
 DURATION:PT2H
-DTSTART:20221230T120000Z
-SUMMARY:🍕アルランディス: 【お知らせ】2023年のメンバーシップ特典等について！【アルランディス/ホロスターズ】
-UID:QQd-OCtLpKs
+DTSTART:20221231T160000Z
+SUMMARY:Zeta: 【NEW YEAR COUNTDOWN】 with fireworks! WOOOHOOO YEA BABY LETS FKN GO YOROSHIKU ONEGAISHIMASU  2023!!!!
+UID:6tlXspxDq4g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Tempus DND 】Where the Sun Don't Shine: Episode 3\nhttps://www.youtube.com/watch?v=YsDQ6b_qSQs
+DURATION:PT2H
+DTSTART:20221230T180000Z
+SUMMARY:Vesper: 【 Tempus DND 】Where the Sun Don't Shine: Episode 3
+UID:YsDQ6b_qSQs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠！】２０２２の最後に告知させてください！！！【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=D6c0uVNTHWE
@@ -46,11 +39,11 @@ SUMMARY:Kaela: 【MARIO KART 8DX】practice #7【Kaela Kovalskia / hololiveID】
 UID:rLpDtg7AzpM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#shorts  】UPROAR!! BASEの日常【ホロスターズ / ホロライブプロダクション】#vtuber #3d #放課後アップロー3D\nhttps://www.youtube.com/watch?v=LMN3vR8WXO0
+DESCRIPTION:hololive production COUNTDOWN LIVE 2022▷2023 -HOLOSTARS side-【#ホロライブカウントダウン】\nhttps://www.youtube.com/watch?v=ahntN7r1GIc
 DURATION:PT2H
-DTSTART:20221230T084226Z
-SUMMARY:羽継烏有: 【#shorts  】UPROAR!! BASEの日常【ホロスターズ / ホロライブプロダクション】#vtuber #3d #放課後アップロー3D
-UID:LMN3vR8WXO0
+DTSTART:20221231T140000Z
+SUMMARY:ホロスターズ: hololive production COUNTDOWN LIVE 2022▷2023 -HOLOSTARS side-【#ホロライブカウントダウン】
+UID:ahntN7r1GIc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【同時視聴】一緒に2023を迎えよう！  #ホロライブカウントダウン ホロスターズSIDE見るぞ！ 【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Mvbl4F3yjjE
@@ -60,6 +53,13 @@ SUMMARY:🍕アルランディス: 【同時視聴】一緒に2023を迎えよ�
 UID:Mvbl4F3yjjE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 New Year Countdown 】Tahun Baru Bersama holoID【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=ixt-U3Opeic
+DURATION:PT2H
+DTSTART:20221231T160000Z
+SUMMARY:🎨Iofi: 【 New Year Countdown 】Tahun Baru Bersama holoID【 iofi / ホロライブ 】
+UID:ixt-U3Opeic
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】今年を振り返ります【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=it2TTDLvlbY
 DURATION:PT2H
 DTSTART:20221231T050000Z
@@ -67,18 +67,11 @@ SUMMARY:🍷夕刻ロベル: 【雑談】今年を振り返ります【夕刻ロ
 UID:it2TTDLvlbY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【直前告知】-HOLOSTARS side- part③ #ホロライブカウントダウン #アステル・レダ #ホロスターズ\nhttps://www.youtube.com/watch?v=zolfV0JYUkw
+DESCRIPTION:【SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated】TO THE INVISIBLE MAGMOBILE!\nhttps://www.youtube.com/watch?v=gIJN9SoSD0M
 DURATION:PT2H
-DTSTART:20221230T090029Z
-SUMMARY:ホロスターズ: 【直前告知】-HOLOSTARS side- part③ #ホロライブカウントダウン #アステル・レダ #ホロスターズ
-UID:zolfV0JYUkw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠 22万人耐久】チャンネル登録22万人いくまで歌い続ける。拡散頼んだ！！！！ / アステル・レダ\nhttps://www.youtube.com/watch?v=8KfdtrIBGIM
-DURATION:PT2H
-DTSTART:20221230T130000Z
-SUMMARY:🎭アステル・レダ: 【歌枠 22万人耐久】チャンネル登録22万人いくまで歌い続ける。拡散頼んだ！！！！ / アステル・レダ
-UID:8KfdtrIBGIM
+DTSTART:20221231T040000Z
+SUMMARY:Dezmond: 【SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated】TO THE INVISIBLE MAGMOBILE!
+UID:gIJN9SoSD0M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【LAST STREAM OF THE YR!!!】THANK YOU TEMPURAS FOR THE AMAZING YEAR!!!\nhttps://www.youtube.com/watch?v=NNdgCapvYaQ
@@ -88,11 +81,11 @@ SUMMARY:Syrios: 【LAST STREAM OF THE YR!!!】THANK YOU TEMPURAS FOR THE AMAZING
 UID:NNdgCapvYaQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:＃０1【 ドラクエIV 】完全初見！新しい旅へ…【雪花ラミィ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=LRWQrXxwUQQ
+DESCRIPTION:【PEJUANG SENIN】#33 FIRST MONDAY IN 2023!!!🌞【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=-5u5XHd7vMc
 DURATION:PT2H
-DTSTART:20221230T031500Z
-SUMMARY:雪花ラミィ: ＃０1【 ドラクエIV 】完全初見！新しい旅へ…【雪花ラミィ/ホロライブ】※ネタバレあり
-UID:LRWQrXxwUQQ
+DTSTART:20230101T231500Z
+SUMMARY:Kaela: 【PEJUANG SENIN】#33 FIRST MONDAY IN 2023!!!🌞【Kaela's Monday Warrior】
+UID:-5u5XHd7vMc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ポケモンスカーレット】かわいいは正義【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=z8ALSjp5q3Y
@@ -109,32 +102,18 @@ SUMMARY:🍷夕刻ロベル: 【#除夜のケツ】今年も終わるし最後�
 UID:4-VJpt4DSuo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【CONCERT WATCHALONG】 #ホロライブカウントダウン: TIME TO SIMP LIKE KUREIJI【Hololive ID Gen 2】\nhttps://www.youtube.com/watch?v=IoGWpcVxQRk
+DURATION:PT2H
+DTSTART:20221231T134835Z
+SUMMARY:Ollie: 【CONCERT WATCHALONG】 #ホロライブカウントダウン: TIME TO SIMP LIKE KUREIJI【Hololive ID Gen 2】
+UID:IoGWpcVxQRk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ホロライブ公式】＃全人類兎化計画【兎田ぺこら】\nhttps://www.youtube.com/watch?v=xfon1W9BCVs
 DURATION:PT2H
 DTSTART:20230101T100000Z
 SUMMARY:ホロライブ: 【ホロライブ公式】＃全人類兎化計画【兎田ぺこら】
 UID:xfon1W9BCVs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ASMR】たっぷり癒やしの耳かき\,お耳はむはむ\,マッサージ\,心音etc【ホロライブ/夜空メル】Whispered voice\,oil massage\,heartbeat\,eat ears\nhttps://www.youtube.com/watch?v=jx-lZXTDcng
-DURATION:PT2H
-DTSTART:20221230T143000Z
-SUMMARY:🌟夜空メル: 【ASMR】たっぷり癒やしの耳かき\,お耳はむはむ\,マッサージ\,心音etc【ホロライブ/夜空メル】Whispered voice\,oil massage\,heartbeat\,eat ears
-UID:jx-lZXTDcng
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【2面クリア耐久】絶対にイライラしない帰ってきた魔界村！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=3BIVJ_qoOZA
-DURATION:PT2H
-DTSTART:20221230T120000Z
-SUMMARY:沙花叉クロヱ: 【2面クリア耐久】絶対にイライラしない帰ってきた魔界村！【沙花叉クロヱ/ホロライブ】
-UID:3BIVJ_qoOZA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンSV】初心者がランクバトル、マスターボール級まで達成するまでやります！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=dAUIY6iD-SI
-DURATION:PT2H
-DTSTART:20221230T080000Z
-SUMMARY:👯兎田ぺこら: 【ポケモンSV】初心者がランクバトル、マスターボール級まで達成するまでやります！ぺこ！【ホロライブ/兎田ぺこら】
-UID:dAUIY6iD-SI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Super Magbot】aaaaaaaaaaaaaaaaaa【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=ezVSMLZTvpI
@@ -144,11 +123,18 @@ SUMMARY:Kaela: 【Super Magbot】aaaaaaaaaaaaaaaaaa【Kaela Kovalskia / hololive
 UID:ezVSMLZTvpI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:全人類に告ぐ　#全人類兎化計画　#兎田ぺこら\nhttps://www.youtube.com/watch?v=Kg-00-QobW8
+DESCRIPTION:【お正月新衣装お披露目】和の幽霊、爆誕【 #水無世燐央正月衣装 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=XFD-IvDE-Mw
 DURATION:PT2H
-DTSTART:20221230T110016Z
-SUMMARY:ホロライブ: 全人類に告ぐ　#全人類兎化計画　#兎田ぺこら
-UID:Kg-00-QobW8
+DTSTART:20230102T120000Z
+SUMMARY:水無世燐央: 【お正月新衣装お披露目】和の幽霊、爆誕【 #水無世燐央正月衣装 / UPROAR!! / アップロー / ホロスターズ 】
+UID:XFD-IvDE-Mw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【謹賀新年】HAPPY NEW YEAR！新機能でおみくじ出来るらしい！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=DaQc1nckwsA
+DURATION:PT2H
+DTSTART:20221231T153000Z
+SUMMARY:🐏角巻わため: 【謹賀新年】HAPPY NEW YEAR！新機能でおみくじ出来るらしい！【角巻わため/ホロライブ４期生】
+UID:DaQc1nckwsA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MARIO KART 8DX】practice #6【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=oGxeKMHoJIw
@@ -165,11 +151,11 @@ SUMMARY:Kaela: 【JellyCar Worlds】OWWPENNNNNN.... KLOOOOSSS【Kaela Kovalskia 
 UID:jltMzo409LI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ポケモンSVバイオレット】ギリギリで勝つロマンがそこにある！ストーリー攻略Part5【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=3vR1GYMZ-Pw
+DESCRIPTION:【Donation Reading + Free Talk】HAPPY 2023 🥳🎉【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=J5tRFtGG-0E
 DURATION:PT2H
-DTSTART:20221230T030000Z
-SUMMARY:🍎アキロゼ: 【ポケモンSVバイオレット】ギリギリで勝つロマンがそこにある！ストーリー攻略Part5【ホロライブ/アキ・ローゼンタール】
-UID:3vR1GYMZ-Pw
+DTSTART:20230101T030000Z
+SUMMARY:Kaela: 【Donation Reading + Free Talk】HAPPY 2023 🥳🎉【Kaela Kovalskia / hololiveID】
+UID:J5tRFtGG-0E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A Present For Me？\nhttps://www.youtube.com/watch?v=Ak6p1BMneQs
@@ -179,18 +165,18 @@ SUMMARY:🎨Iofi: A Present For Me？
 UID:Ak6p1BMneQs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:最終回【 ポケモンSV 】ついに最終回！エリアゼロへ行く、にぇ！！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=sVKegBDpoy8
-DURATION:PT2H
-DTSTART:20221230T120000Z
-SUMMARY:🌸さくらみこ: 最終回【 ポケモンSV 】ついに最終回！エリアゼロへ行く、にぇ！！！！！【ホロライブ/さくらみこ】
-UID:sVKegBDpoy8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:hololive production COUNTDOWN LIVE 2022▷2023 -hololive side-【#ホロライブカウントダウン】\nhttps://www.youtube.com/watch?v=n-fzN8-i3Qc
 DURATION:PT2H
 DTSTART:20221231T140000Z
 SUMMARY:ホロライブ: hololive production COUNTDOWN LIVE 2022▷2023 -hololive side-【#ホロライブカウントダウン】
 UID:n-fzN8-i3Qc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪JUST CHATTING≫ Rat flew to Japan!\nhttps://www.youtube.com/watch?v=OxTDM6NFyWM
+DURATION:PT2H
+DTSTART:20221231T020000Z
+SUMMARY:Baelz: ≪JUST CHATTING≫ Rat flew to Japan!
+UID:OxTDM6NFyWM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Tempus DND 】Where the Sun Don't Shine: Episode 4\nhttps://www.youtube.com/watch?v=YmfJ9CA946c
@@ -214,375 +200,11 @@ SUMMARY:🏮夏色まつり: 【APEXガチャ】⚠今年最後のスパレジ�
 UID:O3EbD5fCCL4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】今年最後の歌枠もやはりのんびり歌っていきます。【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=a73QamT190M
-DURATION:PT2H
-DTSTART:20221230T120000Z
-SUMMARY:🌽白上フブキ: 【歌枠】今年最後の歌枠もやはりのんびり歌っていきます。【ホロライブ/白上フブキ】
-UID:a73QamT190M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【プレイバック3Dストリーム】惑星ループ/ #夜十神封魔\nhttps://www.youtube.com/watch?v=9ZKtiZJj4VE
-DURATION:PT2H
-DTSTART:20221230T110011Z
-SUMMARY:ホロスターズ: 【プレイバック3Dストリーム】惑星ループ/ #夜十神封魔
-UID:9ZKtiZJj4VE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:12時間目～【ポケモンSV】マスターボール級まで達成するまでやります！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=gscJ19y5K6o
-DURATION:PT2H
-DTSTART:20221231T080000Z
-SUMMARY:👯兎田ぺこら: 12時間目～【ポケモンSV】マスターボール級まで達成するまでやります！ぺこ！【ホロライブ/兎田ぺこら】
-UID:gscJ19y5K6o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MARIO KART 8DX】practice #5【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=YN20cLg8rB8
-DURATION:PT2H
-DTSTART:20221230T090000Z
-SUMMARY:Kaela: 【MARIO KART 8DX】practice #5【Kaela Kovalskia / hololiveID】
-UID:YN20cLg8rB8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【New Year Countdown】CLAIM YOUR 2023 BOOSTER PACK HERE!!!! 🎉😮🎉😮🎉【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=eEpvs00FKDg
-DURATION:PT2H
-DTSTART:20221231T160000Z
-SUMMARY:Kaela: 【New Year Countdown】CLAIM YOUR 2023 BOOSTER PACK HERE!!!! 🎉😮🎉😮🎉【Kaela Kovalskia / hololiveID】
-UID:eEpvs00FKDg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Nade nade coyote!? #Shorts 【博衣こより/hololive】\nhttps://www.youtube.com/watch?v=KcAwuiB9Gqk
-DURATION:PT2H
-DTSTART:20221231T090000Z
-SUMMARY:博衣こより: Nade nade coyote!? #Shorts 【博衣こより/hololive】
-UID:KcAwuiB9Gqk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】みんなと走る練習。ガチの練習。【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=r7yS4UD1J8E
-DURATION:PT2H
-DTSTART:20221230T060000Z
-SUMMARY:鷹嶺ルイ: 【マリオカート8DX】みんなと走る練習。ガチの練習。【鷹嶺ルイ/ホロライブ】
-UID:r7yS4UD1J8E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【直前告知】 -hololive side- part③ #ホロライブカウントダウン　#沙花叉クロヱ\nhttps://www.youtube.com/watch?v=-QgxcOLQomA
-DURATION:PT2H
-DTSTART:20221230T090000Z
-SUMMARY:ホロライブ: 【直前告知】 -hololive side- part③ #ホロライブカウントダウン　#沙花叉クロヱ
-UID:-QgxcOLQomA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 晩酌 】みんなですっきりして年を越そう🍑【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=ey_h7QaVpMs
-DURATION:PT2H
-DTSTART:20221230T153000Z
-SUMMARY:桃鈴ねね: 【 晩酌 】みんなですっきりして年を越そう🍑【 桃鈴ねね / ホロライブ 】
-UID:ey_h7QaVpMs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Mario Party Superstars】not a chaos party【Kaela / Kobo / Zeta | hololiveID】\nhttps://www.youtube.com/watch?v=pBQz8bCruXE
-DURATION:PT2H
-DTSTART:20221230T140000Z
-SUMMARY:Kaela: 【Mario Party Superstars】not a chaos party【Kaela / Kobo / Zeta | hololiveID】
-UID:pBQz8bCruXE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【NEW YEAR COUNTDOWN】 with fireworks! WOOOHOOO YEA BABY LETS FKN GO YOROSHIKU ONEGAISHIMASU  2023!!!!\nhttps://www.youtube.com/watch?v=6tlXspxDq4g
-DURATION:PT2H
-DTSTART:20221231T160000Z
-SUMMARY:Zeta: 【NEW YEAR COUNTDOWN】 with fireworks! WOOOHOOO YEA BABY LETS FKN GO YOROSHIKU ONEGAISHIMASU  2023!!!!
-UID:6tlXspxDq4g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【直前告知】 -hololive side- part④ #ホロライブカウントダウン #さくらみこ #星街すいせい\nhttps://www.youtube.com/watch?v=DzirGzWQ5kM
-DURATION:PT2H
-DTSTART:20221231T090011Z
-SUMMARY:ホロライブ: 【直前告知】 -hololive side- part④ #ホロライブカウントダウン #さくらみこ #星街すいせい
-UID:DzirGzWQ5kM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンSVバイオレット】いざポケモンリーグ！ギリギリで勝つロマンがそこにある！ストーリー攻略Part6【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=Cvj-UVpdybY
-DURATION:PT2H
-DTSTART:20221231T010000Z
-SUMMARY:🍎アキロゼ: 【ポケモンSVバイオレット】いざポケモンリーグ！ギリギリで勝つロマンがそこにある！ストーリー攻略Part6【ホロライブ/アキ・ローゼンタール】
-UID:Cvj-UVpdybY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:＃０２【 ドラクエIV 】第二章、蜜探しの旅！【雪花ラミィ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=XG2xIsqn29I
-DURATION:PT2H
-DTSTART:20230101T030000Z
-SUMMARY:雪花ラミィ: ＃０２【 ドラクエIV 】第二章、蜜探しの旅！【雪花ラミィ/ホロライブ】※ネタバレあり
-UID:XG2xIsqn29I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【振り返り】わたフェスお疲れ様！アンコールライブもチラ見せ予定？！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=ai1-we1luJ0
-DURATION:PT2H
-DTSTART:20221230T130000Z
-SUMMARY:🐏角巻わため: 【振り返り】わたフェスお疲れ様！アンコールライブもチラ見せ予定？！【角巻わため/ホロライブ４期生】
-UID:ai1-we1luJ0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンSV】番外編:どろウパーの色違いを捕まえるまで終わらない大晦日！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=5lkiqFV1xFM
-DURATION:PT2H
-DTSTART:20221230T150000Z
-SUMMARY:💫天音かなた: 【ポケモンSV】番外編:どろウパーの色違いを捕まえるまで終わらない大晦日！！【天音かなた/ホロライブ】
-UID:5lkiqFV1xFM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】年納め！今年最後の雑談配信💭Free talk【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=6YGTb213adU
-DURATION:PT2H
-DTSTART:20221230T130000Z
-SUMMARY:🔥不知火フレア: 【雑談】年納め！今年最後の雑談配信💭Free talk【不知火フレア/ホロライブ】
-UID:6YGTb213adU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:年末ホロライブ  ～ゆくホロくるホロ 2022→2023～【#ゆくホロくるホロ2022】\nhttps://www.youtube.com/watch?v=8ysl5INNWjE
-DURATION:PT2H
-DTSTART:20221231T093000Z
-SUMMARY:ホロライブ: 年末ホロライブ  ～ゆくホロくるホロ 2022→2023～【#ゆくホロくるホロ2022】
-UID:8ysl5INNWjE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【カウントダウン】2022年から2023年になる瞬間を一緒に迎えよう！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=0Agl--a0qQc
-DURATION:PT2H
-DTSTART:20221231T144500Z
-SUMMARY:雪花ラミィ: 【カウントダウン】2022年から2023年になる瞬間を一緒に迎えよう！！【雪花ラミィ/ホロライブ】
-UID:0Agl--a0qQc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LUVORATORRRRRY! - Kobo Kanaeru + @KureijiOllie  (Cover)\nhttps://www.youtube.com/watch?v=oIzQmoz1bE4
-DURATION:PT2H
-DTSTART:20221231T165800Z
-SUMMARY:Kobo: LUVORATORRRRRY! - Kobo Kanaeru + @KureijiOllie  (Cover)
-UID:oIzQmoz1bE4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【おうち3D】さよなら2022年…。飲酒忘年会じゃあああああ！！【#夜十神封魔  #ホロスターズ #アップロー】\nhttps://www.youtube.com/watch?v=nC1NigpNWuA
-DURATION:PT2H
-DTSTART:20221231T090000Z
-SUMMARY:夜十神封魔: 【おうち3D】さよなら2022年…。飲酒忘年会じゃあああああ！！【#夜十神封魔  #ホロスターズ #アップロー】
-UID:nC1NigpNWuA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ホロスターズによるお疲れ様でスター 【#shorts 】\nhttps://www.youtube.com/watch?v=6hYQI2xlJ6U
-DURATION:PT2H
-DTSTART:20221231T092823Z
-SUMMARY:影山シエン: ホロスターズによるお疲れ様でスター 【#shorts 】
-UID:6hYQI2xlJ6U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【新年】🐯2022➡2023🐰ボクと一緒に年越しをしよおおおおおお！！！【ロボ子さん/ホロライブ】\nhttps://www.youtube.com/watch?v=fzK-TTtkQc4
-DURATION:PT2H
-DTSTART:20221231T143000Z
-SUMMARY:🤖ロボ子さん: 【新年】🐯2022➡2023🐰ボクと一緒に年越しをしよおおおおおお！！！【ロボ子さん/ホロライブ】
-UID:fzK-TTtkQc4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Drawing】2022年描き納め!!デビュー初期に描いたイラストを描きなおして、成長を確かめる!!【#緋崎ガンマ / #ホロスターズ / #お絵描き  #illustration #イラスト  】\nhttps://www.youtube.com/watch?v=5gKxPfjcHw8
-DURATION:PT2H
-DTSTART:20221230T070000Z
-SUMMARY:緋崎ガンマ: 【Drawing】2022年描き納め!!デビュー初期に描いたイラストを描きなおして、成長を確かめる!!【#緋崎ガンマ / #ホロスターズ / #お絵描き  #illustration #イラスト  】
-UID:5gKxPfjcHw8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Tempus DND 】Where the Sun Don't Shine: Episode 3\nhttps://www.youtube.com/watch?v=YsDQ6b_qSQs
-DURATION:PT2H
-DTSTART:20221230T180000Z
-SUMMARY:Vesper: 【 Tempus DND 】Where the Sun Don't Shine: Episode 3
-UID:YsDQ6b_qSQs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:hololive production COUNTDOWN LIVE 2022▷2023 -HOLOSTARS side-【#ホロライブカウントダウン】\nhttps://www.youtube.com/watch?v=ahntN7r1GIc
-DURATION:PT2H
-DTSTART:20221231T140000Z
-SUMMARY:ホロスターズ: hololive production COUNTDOWN LIVE 2022▷2023 -HOLOSTARS side-【#ホロライブカウントダウン】
-UID:ahntN7r1GIc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 New Year Countdown 】Tahun Baru Bersama holoID【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=ixt-U3Opeic
-DURATION:PT2H
-DTSTART:20221231T160000Z
-SUMMARY:🎨Iofi: 【 New Year Countdown 】Tahun Baru Bersama holoID【 iofi / ホロライブ 】
-UID:ixt-U3Opeic
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンSV】視聴者参加型ゆびをふる対決！！【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=9co_uamorL4
-DURATION:PT2H
-DTSTART:20221230T110000Z
-SUMMARY:🏴☠宝鐘マリン: 【ポケモンSV】視聴者参加型ゆびをふる対決！！【ホロライブ/宝鐘マリン】
-UID:9co_uamorL4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:VTuber Tries an MRE 【Handcam】\nhttps://www.youtube.com/watch?v=TOl92Nt_AXo
-DURATION:PT2H
-DTSTART:20221230T000000Z
-SUMMARY:Altare: VTuber Tries an MRE 【Handcam】
-UID:TOl92Nt_AXo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】飼い猫のプチ誕生会🍰とか最近あった話し～～～～！😽🎉【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=lhQmdCo8grg
-DURATION:PT2H
-DTSTART:20221230T100000Z
-SUMMARY:🍙猫又おかゆ: 【雑談】飼い猫のプチ誕生会🍰とか最近あった話し～～～～！😽🎉【猫又おかゆ/ホロライブ】
-UID:lhQmdCo8grg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FallGuys】今年も色々ありがとうございました雑談しながらFallguys納め【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=trDL0djJvpM
-DURATION:PT2H
-DTSTART:20221230T130000Z
-SUMMARY:影山シエン: 【FallGuys】今年も色々ありがとうございました雑談しながらFallguys納め【影山シエン/ホロスターズ】
-UID:trDL0djJvpM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated】TO THE INVISIBLE MAGMOBILE!\nhttps://www.youtube.com/watch?v=gIJN9SoSD0M
-DURATION:PT2H
-DTSTART:20221231T040000Z
-SUMMARY:Dezmond: 【SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated】TO THE INVISIBLE MAGMOBILE!
-UID:gIJN9SoSD0M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Mario Party Superstars】PARTY AKHIR TAHUN DENGAN JETA ELA 💙🤍💛【Holoh3ro】\nhttps://www.youtube.com/watch?v=9KgzK5UKYhk
-DURATION:PT2H
-DTSTART:20221230T140000Z
-SUMMARY:Kobo: 【Mario Party Superstars】PARTY AKHIR TAHUN DENGAN JETA ELA 💙🤍💛【Holoh3ro】
-UID:9KgzK5UKYhk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:KICK BACK 歌ってみた / 米津玄師『covered by 律可＆影山シエン』ホロスターズ #shorts\nhttps://www.youtube.com/watch?v=_mZj98qfMc8
-DURATION:PT2H
-DTSTART:20221230T065607Z
-SUMMARY:⚙律可: KICK BACK 歌ってみた / 米津玄師『covered by 律可＆影山シエン』ホロスターズ #shorts
-UID:_mZj98qfMc8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:アイデンティティ- Kanaria / Covered 博衣こより×沙花叉クロヱ【hololive】\nhttps://www.youtube.com/watch?v=Jf1FvquhbU4
-DURATION:PT2H
-DTSTART:20221230T110800Z
-SUMMARY:博衣こより: アイデンティティ- Kanaria / Covered 博衣こより×沙花叉クロヱ【hololive】
-UID:Jf1FvquhbU4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【＃生スバル】ガンソード同時視聴会しゅばああああああああああああああ：GUN×SWORD watch party【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=NJGOsk3Fkag
-DURATION:PT2H
-DTSTART:20221230T130000Z
-SUMMARY:🚑大空スバル: 【＃生スバル】ガンソード同時視聴会しゅばああああああああああああああ：GUN×SWORD watch party【ホロライブ/大空スバル】
-UID:NJGOsk3Fkag
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Original / 3D MV】乙女よ求めよQ.E.D. / 博衣こより 【hololive】\nhttps://www.youtube.com/watch?v=kvmDTbmal64
-DURATION:PT2H
-DTSTART:20221230T110000Z
-SUMMARY:博衣こより: 【Original / 3D MV】乙女よ求めよQ.E.D. / 博衣こより 【hololive】
-UID:kvmDTbmal64
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CONCERT WATCHALONG】 #ホロライブカウントダウン: TIME TO SIMP LIKE KUREIJI【Hololive ID Gen 2】\nhttps://www.youtube.com/watch?v=IoGWpcVxQRk
-DURATION:PT2H
-DTSTART:20221231T134835Z
-SUMMARY:Ollie: 【CONCERT WATCHALONG】 #ホロライブカウントダウン: TIME TO SIMP LIKE KUREIJI【Hololive ID Gen 2】
-UID:IoGWpcVxQRk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ししわた湯布院旅！前編【角巻わためのHave a nice day】#shorts\nhttps://www.youtube.com/watch?v=T5t_TYzQdxc
-DURATION:PT2H
-DTSTART:20221229T163223Z
-SUMMARY:🐏角巻わため: ししわた湯布院旅！前編【角巻わためのHave a nice day】#shorts
-UID:T5t_TYzQdxc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【謹賀新年】HAPPY NEW YEAR！新機能でおみくじ出来るらしい！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=DaQc1nckwsA
-DURATION:PT2H
-DTSTART:20221231T153000Z
-SUMMARY:🐏角巻わため: 【謹賀新年】HAPPY NEW YEAR！新機能でおみくじ出来るらしい！【角巻わため/ホロライブ４期生】
-UID:DaQc1nckwsA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】朝練！！全順位耐久を経たこよりは強い(ハズ)【博衣こより視点/ホロライブ】\nhttps://www.youtube.com/watch?v=VWMx3wWGNxs
-DURATION:PT2H
-DTSTART:20221229T220000Z
-SUMMARY:博衣こより: 【マリオカート8DX】朝練！！全順位耐久を経たこよりは強い(ハズ)【博衣こより視点/ホロライブ】
-UID:VWMx3wWGNxs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【発表会】新ころねすきーデザイン総選挙の会場はコチラ【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=US7LDxDsNVQ
-DURATION:PT2H
-DTSTART:20221230T130000Z
-SUMMARY:🥐戌神ころね: 【発表会】新ころねすきーデザイン総選挙の会場はコチラ【戌神ころね/ホロライブ】
-UID:US7LDxDsNVQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【陰キャが】可愛くてごめん／湊あくあ【歌ってみた】\nhttps://www.youtube.com/watch?v=UFKpgozTers
-DURATION:PT2H
-DTSTART:20221230T100000Z
-SUMMARY:⚓湊あくあ: 【陰キャが】可愛くてごめん／湊あくあ【歌ってみた】
-UID:UFKpgozTers
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Mario Party Superstars】FRIENDSHIP TEST 🤍💙💛\nhttps://www.youtube.com/watch?v=TTntmV07oCo
-DURATION:PT2H
-DTSTART:20221230T140000Z
-SUMMARY:Zeta: 【Mario Party Superstars】FRIENDSHIP TEST 🤍💙💛
-UID:TTntmV07oCo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FREETALK & karaoke?】NOT SURE WHAT WILL BE DOING IN THIS STREAM BUT VIBE【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=V_Am8PtgriQ
-DURATION:PT2H
-DTSTART:20221230T122939Z
-SUMMARY:Ollie: 【FREETALK & karaoke?】NOT SURE WHAT WILL BE DOING IN THIS STREAM BUT VIBE【Hololive ID 2nd Generation】
-UID:V_Am8PtgriQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Donation Reading + Free Talk】HAPPY 2023 🥳🎉【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=J5tRFtGG-0E
-DURATION:PT2H
-DTSTART:20230101T030000Z
-SUMMARY:Kaela: 【Donation Reading + Free Talk】HAPPY 2023 🥳🎉【Kaela Kovalskia / hololiveID】
-UID:J5tRFtGG-0E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DJ ARN】年内最後のDJ配信！！！！仕事納めていけ～～～【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=JcRoSi2YjH8
-DURATION:PT2H
-DTSTART:20221230T040000Z
-SUMMARY:🍕アルランディス: 【DJ ARN】年内最後のDJ配信！！！！仕事納めていけ～～～【アルランディス/ホロスターズ】
-UID:JcRoSi2YjH8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】テレビ出演してました！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=HCQ_XclJbWs
-DURATION:PT2H
-DTSTART:20221230T063000Z
-SUMMARY:🐻ときのそら: 【雑談】テレビ出演してました！！【#ときのそら生放送】
-UID:HCQ_XclJbWs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FIFA23】#5 time for the trophy!!! ⚽🏆【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=0YXPBvFmqmI
-DURATION:PT2H
-DTSTART:20221230T030000Z
-SUMMARY:Kaela: 【FIFA23】#5 time for the trophy!!! ⚽🏆【Kaela Kovalskia / hololiveID】
-UID:0YXPBvFmqmI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪JUST CHATTING≫ Rat flew to Japan!\nhttps://www.youtube.com/watch?v=OxTDM6NFyWM
-DURATION:PT2H
-DTSTART:20221231T020000Z
-SUMMARY:Baelz: ≪JUST CHATTING≫ Rat flew to Japan!
-UID:OxTDM6NFyWM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3 / Xマッチ】今年はスプラ3にお世話になりました。最後のSplatoon3！【#夜十神封魔  #アップロー  #HOLOSTARS】\nhttps://www.youtube.com/watch?v=CxzN15skaZQ
-DURATION:PT2H
-DTSTART:20221230T090000Z
-SUMMARY:夜十神封魔: 【スプラトゥーン3 / Xマッチ】今年はスプラ3にお世話になりました。最後のSplatoon3！【#夜十神封魔  #アップロー  #HOLOSTARS】
-UID:CxzN15skaZQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【年越し】COUNTDOWN LIVE見ながらみんなで年越し🎍【#すいメルフレこよ年越し】\nhttps://www.youtube.com/watch?v=0ijtMBi64OA
 DURATION:PT2H
 DTSTART:20221231T134500Z
 SUMMARY:☄星街すいせい: 【年越し】COUNTDOWN LIVE見ながらみんなで年越し🎍【#すいメルフレこよ年越し】
 UID:0ijtMBi64OA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Mario Kart 8DX】Wait.. i forgot how this one work【Moona | Geemoon】\nhttps://www.youtube.com/watch?v=ByDIftYbNlQ
-DURATION:PT2H
-DTSTART:20221230T130000Z
-SUMMARY:🔮Moona: 【Mario Kart 8DX】Wait.. i forgot how this one work【Moona | Geemoon】
-UID:ByDIftYbNlQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:❄️ THE HUNT BEGINS ❄️ 【Monster Hunter World: Iceborne】\nhttps://www.youtube.com/watch?v=gJtjabatm14
@@ -592,11 +214,18 @@ SUMMARY:Altare: ❄️ THE HUNT BEGINS ❄️ 【Monster Hunter World: Iceborne�
 UID:gJtjabatm14
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Tempus DND 】Where the Sun Don't Shine: Episode 2\nhttps://www.youtube.com/watch?v=Vx2-66W8Ci8
+DESCRIPTION:【 Tempus DND 】Where the Sun Don't Shine: Episode 5\nhttps://www.youtube.com/watch?v=Ti3S4XXxedA
 DURATION:PT2H
-DTSTART:20221229T180000Z
-SUMMARY:Vesper: 【 Tempus DND 】Where the Sun Don't Shine: Episode 2
-UID:Vx2-66W8Ci8
+DTSTART:20230101T180000Z
+SUMMARY:Vesper: 【 Tempus DND 】Where the Sun Don't Shine: Episode 5
+UID:Ti3S4XXxedA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#夜十神封魔正月衣装】妖、お正月衣装になる...！New Outfit Showcase!!【#夜十神封魔 #HOLOSTARS #アップロー】\nhttps://www.youtube.com/watch?v=8jZ-v7F_uuc
+DURATION:PT2H
+DTSTART:20230102T110000Z
+SUMMARY:夜十神封魔: 【#夜十神封魔正月衣装】妖、お正月衣装になる...！New Outfit Showcase!!【#夜十神封魔 #HOLOSTARS #アップロー】
+UID:8jZ-v7F_uuc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Please Fix The Road】Alright... Who BROKE The Road.【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=ZTjltzBv13Q
@@ -606,39 +235,11 @@ SUMMARY:Anya: 【Please Fix The Road】Alright... Who BROKE The Road.【hololive
 UID:ZTjltzBv13Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【グランブルーファンタジー】2022ガチャ納め【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=k_ZOIkf3PTo
-DURATION:PT2H
-DTSTART:20221231T080000Z
-SUMMARY:荒咬オウガ: 【グランブルーファンタジー】2022ガチャ納め【荒咬オウガ/ホロスターズ】
-UID:k_ZOIkf3PTo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:They are such a mischievous little kids.【hololive/鷹嶺ルイ】\nhttps://www.youtube.com/watch?v=eDtgmmZpR1k
 DURATION:PT2H
 DTSTART:20221231T070352Z
 SUMMARY:鷹嶺ルイ: They are such a mischievous little kids.【hololive/鷹嶺ルイ】
 UID:eDtgmmZpR1k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ASMR】2022年最後の甘々ASMR♡耳かき/梵天/ジェルボール/心音/囁きetc【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=M4hBybtnp_4
-DURATION:PT2H
-DTSTART:20221230T140000Z
-SUMMARY:博衣こより: 【ASMR】2022年最後の甘々ASMR♡耳かき/梵天/ジェルボール/心音/囁きetc【博衣こより/ホロライブ】
-UID:M4hBybtnp_4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Overdose／Covered by紫咲シオン【歌ってみた】\nhttps://www.youtube.com/watch?v=gbce3yRBuD8
-DURATION:PT2H
-DTSTART:20221230T110000Z
-SUMMARY:🌙紫咲シオン: Overdose／Covered by紫咲シオン【歌ってみた】
-UID:gbce3yRBuD8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:VTuberのサムネイルあるある3選【ホロライブプロダクション】 #shorts  #illustration  #漫画動画  #vtuber\nhttps://www.youtube.com/watch?v=t4jCoR3kl3s
-DURATION:PT2H
-DTSTART:20221231T060457Z
-SUMMARY:緋崎ガンマ: VTuberのサムネイルあるある3選【ホロライブプロダクション】 #shorts  #illustration  #漫画動画  #vtuber
-UID:t4jCoR3kl3s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ポケモンSV】色違いサザンドラ耐久6日目…今年中に産みたすぎてゲリラ😭🔥【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=2kvZ9zKwqbM
@@ -648,6 +249,34 @@ SUMMARY:博衣こより: 【ポケモンSV】色違いサザンドラ耐久6日�
 UID:2kvZ9zKwqbM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【グランブルーファンタジー】2022ガチャ納め【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=k_ZOIkf3PTo
+DURATION:PT2H
+DTSTART:20221231T080000Z
+SUMMARY:荒咬オウガ: 【グランブルーファンタジー】2022ガチャ納め【荒咬オウガ/ホロスターズ】
+UID:k_ZOIkf3PTo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:12時間目～【ポケモンSV】マスターボール級まで達成するまでやります！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=gscJ19y5K6o
+DURATION:PT2H
+DTSTART:20221231T080000Z
+SUMMARY:👯兎田ぺこら: 12時間目～【ポケモンSV】マスターボール級まで達成するまでやります！ぺこ！【ホロライブ/兎田ぺこら】
+UID:gscJ19y5K6o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:VTuberのサムネイルあるある3選【ホロライブプロダクション】 #shorts  #illustration  #漫画動画  #vtuber\nhttps://www.youtube.com/watch?v=t4jCoR3kl3s
+DURATION:PT2H
+DTSTART:20221231T060457Z
+SUMMARY:緋崎ガンマ: VTuberのサムネイルあるある3選【ホロライブプロダクション】 #shorts  #illustration  #漫画動画  #vtuber
+UID:t4jCoR3kl3s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nade nade coyote!? #Shorts 【博衣こより/hololive】\nhttps://www.youtube.com/watch?v=KcAwuiB9Gqk
+DURATION:PT2H
+DTSTART:20221231T090000Z
+SUMMARY:博衣こより: Nade nade coyote!? #Shorts 【博衣こより/hololive】
+UID:KcAwuiB9Gqk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Always With You (Epic Seven OST Project) - Takanashi Kiara and Ouro Kronii【COVER】\nhttps://www.youtube.com/watch?v=kJ0hczPwSnM
 DURATION:PT2H
 DTSTART:20221230T150000Z
@@ -655,25 +284,18 @@ SUMMARY:Kiara: Always With You (Epic Seven OST Project) - Takanashi Kiara and Ou
 UID:kJ0hczPwSnM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:年末年始も一緒に過ごそう！ホロプロ情報まとめ✨🎍【#ホロよいお正月】\nhttps://www.youtube.com/watch?v=p0t7Sos5qO0
+DESCRIPTION:【 晩酌 】みんなですっきりして年を越そう🍑【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=ey_h7QaVpMs
 DURATION:PT2H
-DTSTART:20221230T100000Z
-SUMMARY:ホロライブ: 年末年始も一緒に過ごそう！ホロプロ情報まとめ✨🎍【#ホロよいお正月】
-UID:p0t7Sos5qO0
+DTSTART:20221230T153000Z
+SUMMARY:桃鈴ねね: 【 晩酌 】みんなですっきりして年を越そう🍑【 桃鈴ねね / ホロライブ 】
+UID:ey_h7QaVpMs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Valorant 配信】年の瀬にコンペをやっている皆さん【奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=QNinItMmlsQ
+DESCRIPTION:【New Year Countdown】CLAIM YOUR 2023 BOOSTER PACK HERE!!!! 🎉😮🎉😮🎉【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=eEpvs00FKDg
 DURATION:PT2H
-DTSTART:20221230T020000Z
-SUMMARY:🎸奏手イヅル: 【Valorant 配信】年の瀬にコンペをやっている皆さん【奏手イヅル/ホロスターズ】
-UID:QNinItMmlsQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】 #独り紅白歌合戦 今年もやります！紅白合同曲あり⁉MV公開×2もあるよ！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=S9gRPdtoWcc
-DURATION:PT2H
-DTSTART:20221230T100000Z
-SUMMARY:博衣こより: 【歌枠】 #独り紅白歌合戦 今年もやります！紅白合同曲あり⁉MV公開×2もあるよ！【博衣こより/ホロライブ】
-UID:S9gRPdtoWcc
+DTSTART:20221231T160000Z
+SUMMARY:Kaela: 【New Year Countdown】CLAIM YOUR 2023 BOOSTER PACK HERE!!!! 🎉😮🎉😮🎉【Kaela Kovalskia / hololiveID】
+UID:eEpvs00FKDg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 大晦日 】２０２２年配信納め！みこと過ごそう大晦日【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=iTzwZ0fsfMI
@@ -690,6 +312,13 @@ SUMMARY:ホロスターズ: 【直前告知】 -HOLOSTARS side- part④ #ホロ�
 UID:3elB8heDit8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ポケモンSVバイオレット】いざポケモンリーグ！ギリギリで勝つロマンがそこにある！ストーリー攻略Part6【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=Cvj-UVpdybY
+DURATION:PT2H
+DTSTART:20221231T010000Z
+SUMMARY:🍎アキロゼ: 【ポケモンSVバイオレット】いざポケモンリーグ！ギリギリで勝つロマンがそこにある！ストーリー攻略Part6【ホロライブ/アキ・ローゼンタール】
+UID:Cvj-UVpdybY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】年末最後の雑談しましょ！振り返り配信！何があったのか２０２２【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=mY7ummOJI4w
 DURATION:PT2H
 DTSTART:20221231T044000Z
@@ -704,11 +333,39 @@ SUMMARY:🏴☠宝鐘マリン: 2022年最後の配信【ホロライブ/宝鐘�
 UID:qeOlwHsP_cA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【直前告知】 -hololive side- part④ #ホロライブカウントダウン #さくらみこ #星街すいせい\nhttps://www.youtube.com/watch?v=DzirGzWQ5kM
+DURATION:PT2H
+DTSTART:20221231T090011Z
+SUMMARY:ホロライブ: 【直前告知】 -hololive side- part④ #ホロライブカウントダウン #さくらみこ #星街すいせい
+UID:DzirGzWQ5kM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【役員会限定配信】12月のアルランディスバースどうだった？雑談【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=SqUKhnW2f_0
 DURATION:PT2H
 DTSTART:20221231T110000Z
 SUMMARY:🍕アルランディス: 【役員会限定配信】12月のアルランディスバースどうだった？雑談【アルランディス/ホロスターズ】
 UID:SqUKhnW2f_0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポケモンSV】番外編:どろウパーの色違いを捕まえるまで終わらない大晦日！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=5lkiqFV1xFM
+DURATION:PT2H
+DTSTART:20221230T150000Z
+SUMMARY:💫天音かなた: 【ポケモンSV】番外編:どろウパーの色違いを捕まえるまで終わらない大晦日！！【天音かなた/ホロライブ】
+UID:5lkiqFV1xFM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【カウントダウン】2022年から2023年になる瞬間を一緒に迎えよう！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=0Agl--a0qQc
+DURATION:PT2H
+DTSTART:20221231T144500Z
+SUMMARY:雪花ラミィ: 【カウントダウン】2022年から2023年になる瞬間を一緒に迎えよう！！【雪花ラミィ/ホロライブ】
+UID:0Agl--a0qQc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:年末ホロライブ  ～ゆくホロくるホロ 2022→2023～【#ゆくホロくるホロ2022】\nhttps://www.youtube.com/watch?v=8ysl5INNWjE
+DURATION:PT2H
+DTSTART:20221231T093000Z
+SUMMARY:ホロライブ: 年末ホロライブ  ～ゆくホロくるホロ 2022→2023～【#ゆくホロくるホロ2022】
+UID:8ysl5INNWjE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオパーティースーパースターズ】オフコラボで #ホロ新春マリパ ！元旦は夜更かししちゃうよね～！？【星街すいせい・夜空メル・不知火フレア・博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=5vMpZcBdI-k
@@ -718,18 +375,25 @@ SUMMARY:博衣こより: 【マリオパーティースーパースターズ】�
 UID:5vMpZcBdI-k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ししわた湯布院旅！前編【角巻わためのHave a nice day】#はばない\nhttps://www.youtube.com/watch?v=lUILf-iP4u4
+DESCRIPTION:LUVORATORRRRRY! - Kobo Kanaeru + @KureijiOllie  (Cover)\nhttps://www.youtube.com/watch?v=oIzQmoz1bE4
 DURATION:PT2H
-DTSTART:20221230T100000Z
-SUMMARY:🐏角巻わため: ししわた湯布院旅！前編【角巻わためのHave a nice day】#はばない
-UID:lUILf-iP4u4
+DTSTART:20221231T165800Z
+SUMMARY:Kobo: LUVORATORRRRRY! - Kobo Kanaeru + @KureijiOllie  (Cover)
+UID:oIzQmoz1bE4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#年末アベマで花咲くホロライブ 】期間限定でBloom\,が無料で見れる！？【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=LjTx42r1uww
+DESCRIPTION:＃０２【 ドラクエIV 】第二章、蜜探しの旅！【雪花ラミィ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=XG2xIsqn29I
 DURATION:PT2H
-DTSTART:20221230T050000Z
-SUMMARY:🏮夏色まつり: 【#年末アベマで花咲くホロライブ 】期間限定でBloom\,が無料で見れる！？【ホロライブ/夏色まつり】
-UID:LjTx42r1uww
+DTSTART:20230101T030000Z
+SUMMARY:雪花ラミィ: ＃０２【 ドラクエIV 】第二章、蜜探しの旅！【雪花ラミィ/ホロライブ】※ネタバレあり
+UID:XG2xIsqn29I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MARIO KART 8DX】practice #8【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=dho9ot6Au2k
+DURATION:PT2H
+DTSTART:20230102T030000Z
+SUMMARY:Kaela: 【MARIO KART 8DX】practice #8【Kaela Kovalskia / hololiveID】
+UID:dho9ot6Au2k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】今日も今日とて、ガチガチの練習。【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=6td4-AmkZuo
@@ -739,6 +403,13 @@ SUMMARY:鷹嶺ルイ: 【マリオカート8DX】今日も今日とて、ガチ�
 UID:6td4-AmkZuo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【おうち3D】さよなら2022年…。飲酒忘年会じゃあああああ！！【#夜十神封魔  #ホロスターズ #アップロー】\nhttps://www.youtube.com/watch?v=nC1NigpNWuA
+DURATION:PT2H
+DTSTART:20221231T090000Z
+SUMMARY:夜十神封魔: 【おうち3D】さよなら2022年…。飲酒忘年会じゃあああああ！！【#夜十神封魔  #ホロスターズ #アップロー】
+UID:nC1NigpNWuA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【holopro Countdown Live Watchalong】2023 IS ALMOST HERE【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=Yo5DQiqpz-M
 DURATION:PT2H
 DTSTART:20221231T135000Z
@@ -746,18 +417,11 @@ SUMMARY:Anya: 【holopro Countdown Live Watchalong】2023 IS ALMOST HERE【holol
 UID:Yo5DQiqpz-M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【＃生スバル】大空スバルアワード2022：Oozora Subaru Award 2022【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=ZaWtre_QPew
+DESCRIPTION:ホロスターズによるお疲れ様でスター 【#shorts 】\nhttps://www.youtube.com/watch?v=6hYQI2xlJ6U
 DURATION:PT2H
-DTSTART:20221230T110000Z
-SUMMARY:🚑大空スバル: 【＃生スバル】大空スバルアワード2022：Oozora Subaru Award 2022【ホロライブ/大空スバル】
-UID:ZaWtre_QPew
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】プチマリカ練習枠🚙💨成長を見届けよ👀【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=6lR40exoIMM
-DURATION:PT2H
-DTSTART:20221230T090000Z
-SUMMARY:風真いろは: 【マリオカート8DX】プチマリカ練習枠🚙💨成長を見届けよ👀【風真いろは/ホロライブ】
-UID:6lR40exoIMM
+DTSTART:20221231T092823Z
+SUMMARY:影山シエン: ホロスターズによるお疲れ様でスター 【#shorts 】
+UID:6hYQI2xlJ6U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【同時視聴】一緒にカウントダウンしよ？【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=mRP2_-4yrhQ
@@ -765,5 +429,12 @@ DURATION:PT2H
 DTSTART:20221231T134000Z
 SUMMARY:🐻ときのそら: 【同時視聴】一緒にカウントダウンしよ？【#ときのそら生放送】
 UID:mRP2_-4yrhQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【新年】🐯2022➡2023🐰ボクと一緒に年越しをしよおおおおおお！！！【ロボ子さん/ホロライブ】\nhttps://www.youtube.com/watch?v=fzK-TTtkQc4
+DURATION:PT2H
+DTSTART:20221231T143000Z
+SUMMARY:🤖ロボ子さん: 【新年】🐯2022➡2023🐰ボクと一緒に年越しをしよおおおおおお！！！【ロボ子さん/ホロライブ】
+UID:fzK-TTtkQc4
 END:VEVENT
 END:VCALENDAR
