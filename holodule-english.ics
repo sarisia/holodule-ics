@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:≪MARIO KART: OFF COLLAB≫ Tokyo Driftin w/ Mumei and Fauna\nhttps://www.youtube.com/watch?v=iPNZ11QFlyU
+DURATION:PT2H
+DTSTART:20230102T003000Z
+SUMMARY:Baelz: ≪MARIO KART: OFF COLLAB≫ Tokyo Driftin w/ Mumei and Fauna
+UID:iPNZ11QFlyU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【New Years Greeting】HiRyS 2023!!!\nhttps://www.youtube.com/watch?v=o5YzoNS7Gqw
+DURATION:PT2H
+DTSTART:20221231T160000Z
+SUMMARY:IRyS: 【New Years Greeting】HiRyS 2023!!!
+UID:o5YzoNS7Gqw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:NEW YEAR CHITCHAT & Rewatching my official program appearance!!! あけおめ！！！　#kfp #キアライブ `\nhttps://www.youtube.com/watch?v=hGsUovQ4N7Y
 DURATION:PT2H
 DTSTART:20230101T043000Z
@@ -18,17 +32,10 @@ SUMMARY:Calli: 【NEW YEARS PARTY】COUNTING DOWN 2023!
 UID:pSkMcQ14CFM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪MARIO KART: OFF COLLAB≫ Tokyo Driftin w/ Mumei and Fauna\nhttps://www.youtube.com/watch?v=iPNZ11QFlyU
+DESCRIPTION:【Gundam Evolution】New Year means riding New Robot\nhttps://www.youtube.com/watch?v=5dcYTMuL44U
 DURATION:PT2H
-DTSTART:20230102T003000Z
-SUMMARY:Baelz: ≪MARIO KART: OFF COLLAB≫ Tokyo Driftin w/ Mumei and Fauna
-UID:iPNZ11QFlyU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【New Years Greeting】HiRyS 2023!!!\nhttps://www.youtube.com/watch?v=o5YzoNS7Gqw
-DURATION:PT2H
-DTSTART:20221231T160000Z
-SUMMARY:IRyS: 【New Years Greeting】HiRyS 2023!!!
-UID:o5YzoNS7Gqw
+DTSTART:20230102T040000Z
+SUMMARY:IRyS: 【Gundam Evolution】New Year means riding New Robot
+UID:5dcYTMuL44U
 END:VEVENT
 END:VCALENDAR
