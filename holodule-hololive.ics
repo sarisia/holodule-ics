@@ -4,11 +4,32 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【 新春🎍書初め 】初詣行って来たのら～おみくじは「大吉」だでな…！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=jGOdGtLReMQ
+DURATION:PT2H
+DTSTART:20230101T140000Z
+SUMMARY:🍬姫森ルーナ: 【 新春🎍書初め 】初詣行って来たのら～おみくじは「大吉」だでな…！【姫森ルーナ/ホロライブ】
+UID:jGOdGtLReMQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】あけましておめでとうございます雑談。【ホロライブ/白上フブキ 】\nhttps://www.youtube.com/watch?v=ioHBrZ9SPBA
+DURATION:PT2H
+DTSTART:20230101T110000Z
+SUMMARY:🌽白上フブキ: 【雑談】あけましておめでとうございます雑談。【ホロライブ/白上フブキ 】
+UID:ioHBrZ9SPBA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#常闇トワ3周年記念LIVE】MIX2 - 私の居場所 - 【3DLIVE】\nhttps://www.youtube.com/watch?v=knb_mosTUvo
 DURATION:PT2H
 DTSTART:20230103T120000Z
 SUMMARY:👾常闇トワ: 【#常闇トワ3周年記念LIVE】MIX2 - 私の居場所 - 【3DLIVE】
 UID:knb_mosTUvo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロライブカウントダウン】『hololive shuffle medley』オリジナルMV\nhttps://www.youtube.com/watch?v=SirMcRmSEB4
+DURATION:PT2H
+DTSTART:20221231T153007Z
+SUMMARY:ホロライブ: 【#ホロライブカウントダウン】『hololive shuffle medley』オリジナルMV
+UID:SirMcRmSEB4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【筆おろし】君の名前も書かれちゃう！？デジタル書初め♡【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=WY5nHPYzQcA
@@ -18,11 +39,11 @@ SUMMARY:🏮夏色まつり: 【筆おろし】君の名前も書かれちゃう
 UID:WY5nHPYzQcA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロゆびをふる】豪運！？ゆびをふりまわすでござる🔥【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=k2kWGHezDjI
+DESCRIPTION:【1位とるまでマリカ耐久】さぁ。新年最初の耐久を始めよう。おみくじで運試しもしていって‼【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=LV3LfwUonMg
 DURATION:PT2H
-DTSTART:20230102T120000Z
-SUMMARY:風真いろは: 【#ホロゆびをふる】豪運！？ゆびをふりまわすでござる🔥【風真いろは/ホロライブ】
-UID:k2kWGHezDjI
+DTSTART:20230101T140000Z
+SUMMARY:鷹嶺ルイ: 【1位とるまでマリカ耐久】さぁ。新年最初の耐久を始めよう。おみくじで運試しもしていって‼【鷹嶺ルイ/ホロライブ】
+UID:LV3LfwUonMg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】正月衣装2.0お披露目！あけましておめでとう！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=tzl9oMCp9Gw
@@ -46,6 +67,34 @@ SUMMARY:風真いろは: 【オフコラボ】新春いろクロ晩酌🍶つく
 UID:qlSuFOL8-C8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【新春ホラゲー】つぐのひ新作やります！！しゃーせ～～【忌み夜の喰霊品店】\nhttps://www.youtube.com/watch?v=9oUZCM_9jrI
+DURATION:PT2H
+DTSTART:20230101T140000Z
+SUMMARY:🥐戌神ころね: 【新春ホラゲー】つぐのひ新作やります！！しゃーせ～～【忌み夜の喰霊品店】
+UID:9oUZCM_9jrI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロゆびをふる】豪運！？ゆびをふりまわすでござる🔥【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=k2kWGHezDjI
+DURATION:PT2H
+DTSTART:20230102T120000Z
+SUMMARY:風真いろは: 【#ホロゆびをふる】豪運！？ゆびをふりまわすでござる🔥【風真いろは/ホロライブ】
+UID:k2kWGHezDjI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロゆびをふる】Pokémonゆびをふるたいかい👆WIN👇だらけ室【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=H4kYGV2CqvM
+DURATION:PT2H
+DTSTART:20230102T123000Z
+SUMMARY:尾丸ポルカ: 【#ホロゆびをふる】Pokémonゆびをふるたいかい👆WIN👇だらけ室【尾丸ポルカ/ホロライブ】
+UID:H4kYGV2CqvM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロライブレトロゲーム部】正月だ！！RPGだ！！！！！！！ライブアライブリメイクだ！！！！！！近未来編だ！！！！！：LIVE A LIVE【※ネタバレ有】\nhttps://www.youtube.com/watch?v=IgTHshqyQT4
+DURATION:PT2H
+DTSTART:20230103T040000Z
+SUMMARY:🚑大空スバル: 【#ホロライブレトロゲーム部】正月だ！！RPGだ！！！！！！！ライブアライブリメイクだ！！！！！！近未来編だ！！！！！：LIVE A LIVE【※ネタバレ有】
+UID:IgTHshqyQT4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ホロゆびをふる】最近めちゃ運がイイと噂の脳筋女騎士【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=CkoJTcqIqkE
 DURATION:PT2H
 DTSTART:20230102T121000Z
@@ -60,6 +109,20 @@ SUMMARY:雪花ラミィ: ＃０３【 ドラクエIV 】第四章、モンバー
 UID:Cz5zKPZHBMQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ポケモンSV】＃ホロゆびをふる まさかの準決勝で枠をとる【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=Df-4paUusGo
+DURATION:PT2H
+DTSTART:20230102T140000Z
+SUMMARY:🍎アキロゼ: 【ポケモンSV】＃ホロゆびをふる まさかの準決勝で枠をとる【ホロライブ/アキ・ローゼンタール】
+UID:Df-4paUusGo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【2.0update/プチお披露目】お正月衣装が帰ってきたぞー！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=3VWo6B49pDA
+DURATION:PT2H
+DTSTART:20230101T090000Z
+SUMMARY:🔥不知火フレア: 【2.0update/プチお披露目】お正月衣装が帰ってきたぞー！【不知火フレア/ホロライブ】
+UID:3VWo6B49pDA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【書初め】謹賀新年♡君の名前も筆おろししてあげる！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=DvBE2mHytQA
 DURATION:PT2H
 DTSTART:20230102T140000Z
@@ -67,11 +130,32 @@ SUMMARY:🌟夜空メル: 【書初め】謹賀新年♡君の名前も筆おろ
 UID:DvBE2mHytQA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 #さくらみこ正月衣装 】新春！巫女様降臨🌸お正月衣装お披露目にぇ！～重大告知あり～【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=sgK6-DedVcI
+DURATION:PT2H
+DTSTART:20230102T110000Z
+SUMMARY:🌸さくらみこ: 【 #さくらみこ正月衣装 】新春！巫女様降臨🌸お正月衣装お披露目にぇ！～重大告知あり～【ホロライブ/さくらみこ】
+UID:sgK6-DedVcI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ホロゆびをふる】負けたら試合終了！初めてのゆびをふる参戦！！！【ポケモンSV】\nhttps://www.youtube.com/watch?v=rx-8aKvBNT0
 DURATION:PT2H
 DTSTART:20230102T133000Z
 SUMMARY:🐏角巻わため: 【#ホロゆびをふる】負けたら試合終了！初めてのゆびをふる参戦！！！【ポケモンSV】
 UID:rx-8aKvBNT0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:＃０４【 ドラクエIV 】第五章、洞窟…何があるのかわからない！【雪花ラミィ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=aX9hEdjXYVU
+DURATION:PT2H
+DTSTART:20230103T030000Z
+SUMMARY:雪花ラミィ: ＃０４【 ドラクエIV 】第五章、洞窟…何があるのかわからない！【雪花ラミィ/ホロライブ】※ネタバレあり
+UID:aX9hEdjXYVU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポケモンSV】視聴者参加のゆびふり大会！【ホロライブ/白上フブキ 】\nhttps://www.youtube.com/watch?v=yp1ED7nAEiI
+DURATION:PT2H
+DTSTART:20230102T090000Z
+SUMMARY:🌽白上フブキ: 【ポケモンSV】視聴者参加のゆびふり大会！【ホロライブ/白上フブキ 】
+UID:yp1ED7nAEiI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ホロライブ公式】＃全人類兎化計画【兎田ぺこら】\nhttps://www.youtube.com/watch?v=xfon1W9BCVs
@@ -102,95 +186,11 @@ SUMMARY:鷹嶺ルイ: 【#ホロゆびをふる】目指すは2連覇。今年�
 UID:w5b7jyc6ttQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】正月っぽいなにかを作る【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=vsVC2GNNwKk
-DURATION:PT2H
-DTSTART:20230102T133000Z
-SUMMARY:🐻ときのそら: 【Minecraft】正月っぽいなにかを作る【#ときのそら生放送】
-UID:vsVC2GNNwKk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【＃ホロゆびをふる】ポケモンSV 新春ゆびをふる大会 大抽選会！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=HJtvuofMysE
-DURATION:PT2H
-DTSTART:20230101T130000Z
-SUMMARY:👯兎田ぺこら: 【＃ホロゆびをふる】ポケモンSV 新春ゆびをふる大会 大抽選会！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:HJtvuofMysE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【新年初雑談】あけましておめでとうございます✨A HAPPY NEW YEAR‼【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=7lrppNij8vY
-DURATION:PT2H
-DTSTART:20230101T040000Z
-SUMMARY:鷹嶺ルイ: 【新年初雑談】あけましておめでとうございます✨A HAPPY NEW YEAR‼【鷹嶺ルイ/ホロライブ】
-UID:7lrppNij8vY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【達成で告知あり】96.8万人耐久歌枠！！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=L11GBYktuoc
+DESCRIPTION:【謹賀新年】HAPPY NEW YEAR！新機能でおみくじ出来るらしい！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=DaQc1nckwsA
 DURATION:PT2H
 DTSTART:20221231T153000Z
-SUMMARY:沙花叉クロヱ: 【達成で告知あり】96.8万人耐久歌枠！！【沙花叉クロヱ/ホロライブ】
-UID:L11GBYktuoc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#朝こよ】2023年最初の朝こよ☀今年もよろしくお願いします！ #109【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=YDdFTb4kD9M
-DURATION:PT2H
-DTSTART:20230102T220000Z
-SUMMARY:博衣こより: 【#朝こよ】2023年最初の朝こよ☀今年もよろしくお願いします！ #109【博衣こより/ホロライブ】
-UID:YDdFTb4kD9M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンSV】バッジ7つめ目指して！！新作ポケモン初見プレイ！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=SCE-F7Gd05M
-DURATION:PT2H
-DTSTART:20230102T010000Z
-SUMMARY:⚔白銀ノエル: 【ポケモンSV】バッジ7つめ目指して！！新作ポケモン初見プレイ！【白銀ノエル/ホロライブ】
-UID:SCE-F7Gd05M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロゆびをふる】ポットデスとこのゆびふりを終わらせに来た！！！ドンッ【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=oX6EzVIaSfc
-DURATION:PT2H
-DTSTART:20230102T131500Z
-SUMMARY:🌽白上フブキ: 【#ホロゆびをふる】ポットデスとこのゆびふりを終わらせに来た！！！ドンッ【ホロライブ/白上フブキ】
-UID:oX6EzVIaSfc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:＃０２【 ドラクエIV 】第二章、蜜探しの旅！【雪花ラミィ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=XG2xIsqn29I
-DURATION:PT2H
-DTSTART:20230101T030000Z
-SUMMARY:雪花ラミィ: ＃０２【 ドラクエIV 】第二章、蜜探しの旅！【雪花ラミィ/ホロライブ】※ネタバレあり
-UID:XG2xIsqn29I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #shorts 】あけましておめでとう！！のご挨拶\nhttps://www.youtube.com/watch?v=eDROzA6bR5A
-DURATION:PT2H
-DTSTART:20230101T121248Z
-SUMMARY:🐻ときのそら: 【 #shorts 】あけましておめでとう！！のご挨拶
-UID:eDROzA6bR5A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #ホロ鯖RUST 】仮眠後【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=infz_qw50-I
-DURATION:PT2H
-DTSTART:20230102T150000Z
-SUMMARY:🍬姫森ルーナ: 【 #ホロ鯖RUST 】仮眠後【姫森ルーナ/ホロライブ】
-UID:infz_qw50-I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンSV】新春ランクマッチ🎍マスボ級！色違いフルパ揃ったよおお！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=mQHXkPjQGeA
-DURATION:PT2H
-DTSTART:20230102T020000Z
-SUMMARY:博衣こより: 【ポケモンSV】新春ランクマッチ🎍マスボ級！色違いフルパ揃ったよおお！！【博衣こより/ホロライブ】
-UID:mQHXkPjQGeA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【新年】お正月だしおしゃべりしよう！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=Ba-ghgICywg
-DURATION:PT2H
-DTSTART:20230101T133000Z
-SUMMARY:🐻ときのそら: 【新年】お正月だしおしゃべりしよう！！【#ときのそら生放送】
-UID:Ba-ghgICywg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【＃生スバル】新年一発目のご挨拶？！？！？告知なし人徳凸待ちしゅばあああああああああああああ！！！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=Z9c6H_RhJ9o
-DURATION:PT2H
-DTSTART:20230101T120000Z
-SUMMARY:🚑大空スバル: 【＃生スバル】新年一発目のご挨拶？！？！？告知なし人徳凸待ちしゅばあああああああああああああ！！！！【ホロライブ/大空スバル】
-UID:Z9c6H_RhJ9o
+SUMMARY:🐏角巻わため: 【謹賀新年】HAPPY NEW YEAR！新機能でおみくじ出来るらしい！【角巻わため/ホロライブ４期生】
+UID:DaQc1nckwsA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:初日の出お出迎え配信２０２３\nhttps://www.youtube.com/watch?v=-UWa0KwAHUc
@@ -198,104 +198,6 @@ DURATION:PT2H
 DTSTART:20221231T213000Z
 SUMMARY:🌸さくらみこ: 初日の出お出迎え配信２０２３
 UID:-UWa0KwAHUc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【つぐのひ】新年初ホラゲーは苦手な和モノ⁉…もうスーパーでバイトできなくなっちゃう(ᐡ •̥ ̫ •̥ ᐡ)【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=XT-TB34G0bg
-DURATION:PT2H
-DTSTART:20230103T140000Z
-SUMMARY:博衣こより: 【つぐのひ】新年初ホラゲーは苦手な和モノ⁉…もうスーパーでバイトできなくなっちゃう(ᐡ •̥ ̫ •̥ ᐡ)【博衣こより/ホロライブ】
-UID:XT-TB34G0bg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 新春🎍書初め 】初詣行って来たのら～おみくじは「大吉」だでな…！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=jGOdGtLReMQ
-DURATION:PT2H
-DTSTART:20230101T140000Z
-SUMMARY:🍬姫森ルーナ: 【 新春🎍書初め 】初詣行って来たのら～おみくじは「大吉」だでな…！【姫森ルーナ/ホロライブ】
-UID:jGOdGtLReMQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】あけましておめでとうございます雑談。【ホロライブ/白上フブキ 】\nhttps://www.youtube.com/watch?v=ioHBrZ9SPBA
-DURATION:PT2H
-DTSTART:20230101T110000Z
-SUMMARY:🌽白上フブキ: 【雑談】あけましておめでとうございます雑談。【ホロライブ/白上フブキ 】
-UID:ioHBrZ9SPBA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロライブカウントダウン】『hololive shuffle medley』オリジナルMV\nhttps://www.youtube.com/watch?v=SirMcRmSEB4
-DURATION:PT2H
-DTSTART:20221231T153007Z
-SUMMARY:ホロライブ: 【#ホロライブカウントダウン】『hololive shuffle medley』オリジナルMV
-UID:SirMcRmSEB4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロライブレトロゲーム部】正月だ！！RPGだ！！！！！！！ライブアライブリメイクだ！！！！！！近未来編だ！！！！！：LIVE A LIVE【※ネタバレ有】\nhttps://www.youtube.com/watch?v=IgTHshqyQT4
-DURATION:PT2H
-DTSTART:20230103T040000Z
-SUMMARY:🚑大空スバル: 【#ホロライブレトロゲーム部】正月だ！！RPGだ！！！！！！！ライブアライブリメイクだ！！！！！！近未来編だ！！！！！：LIVE A LIVE【※ネタバレ有】
-UID:IgTHshqyQT4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【1位とるまでマリカ耐久】さぁ。新年最初の耐久を始めよう。おみくじで運試しもしていって‼【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=LV3LfwUonMg
-DURATION:PT2H
-DTSTART:20230101T140000Z
-SUMMARY:鷹嶺ルイ: 【1位とるまでマリカ耐久】さぁ。新年最初の耐久を始めよう。おみくじで運試しもしていって‼【鷹嶺ルイ/ホロライブ】
-UID:LV3LfwUonMg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【新春ホラゲー】つぐのひ新作やります！！しゃーせ～～【忌み夜の喰霊品店】\nhttps://www.youtube.com/watch?v=9oUZCM_9jrI
-DURATION:PT2H
-DTSTART:20230101T140000Z
-SUMMARY:🥐戌神ころね: 【新春ホラゲー】つぐのひ新作やります！！しゃーせ～～【忌み夜の喰霊品店】
-UID:9oUZCM_9jrI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロゆびをふる】Pokémonゆびをふるたいかい👆WIN👇だらけ室【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=H4kYGV2CqvM
-DURATION:PT2H
-DTSTART:20230102T123000Z
-SUMMARY:尾丸ポルカ: 【#ホロゆびをふる】Pokémonゆびをふるたいかい👆WIN👇だらけ室【尾丸ポルカ/ホロライブ】
-UID:H4kYGV2CqvM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンSV】＃ホロゆびをふる まさかの準決勝で枠をとる【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=Df-4paUusGo
-DURATION:PT2H
-DTSTART:20230102T140000Z
-SUMMARY:🍎アキロゼ: 【ポケモンSV】＃ホロゆびをふる まさかの準決勝で枠をとる【ホロライブ/アキ・ローゼンタール】
-UID:Df-4paUusGo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【2.0update/プチお披露目】お正月衣装が帰ってきたぞー！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=3VWo6B49pDA
-DURATION:PT2H
-DTSTART:20230101T090000Z
-SUMMARY:🔥不知火フレア: 【2.0update/プチお披露目】お正月衣装が帰ってきたぞー！【不知火フレア/ホロライブ】
-UID:3VWo6B49pDA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #さくらみこ正月衣装 】新春！巫女様降臨🌸お正月衣装お披露目にぇ！～重大告知あり～【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=sgK6-DedVcI
-DURATION:PT2H
-DTSTART:20230102T110000Z
-SUMMARY:🌸さくらみこ: 【 #さくらみこ正月衣装 】新春！巫女様降臨🌸お正月衣装お披露目にぇ！～重大告知あり～【ホロライブ/さくらみこ】
-UID:sgK6-DedVcI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:＃０４【 ドラクエIV 】第五章、洞窟…何があるのかわからない！【雪花ラミィ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=aX9hEdjXYVU
-DURATION:PT2H
-DTSTART:20230103T030000Z
-SUMMARY:雪花ラミィ: ＃０４【 ドラクエIV 】第五章、洞窟…何があるのかわからない！【雪花ラミィ/ホロライブ】※ネタバレあり
-UID:aX9hEdjXYVU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンSV】視聴者参加のゆびふり大会！【ホロライブ/白上フブキ 】\nhttps://www.youtube.com/watch?v=yp1ED7nAEiI
-DURATION:PT2H
-DTSTART:20230102T090000Z
-SUMMARY:🌽白上フブキ: 【ポケモンSV】視聴者参加のゆびふり大会！【ホロライブ/白上フブキ 】
-UID:yp1ED7nAEiI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【謹賀新年】HAPPY NEW YEAR！新機能でおみくじ出来るらしい！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=DaQc1nckwsA
-DURATION:PT2H
-DTSTART:20221231T153000Z
-SUMMARY:🐏角巻わため: 【謹賀新年】HAPPY NEW YEAR！新機能でおみくじ出来るらしい！【角巻わため/ホロライブ４期生】
-UID:DaQc1nckwsA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 歌枠 】お年玉くれなぁ～～～～い？ﾆﾔ～（冗談やで！）【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=uNL8-Le9Mbk
@@ -326,6 +228,13 @@ SUMMARY:🌽白上フブキ: 【Fate/Grand Order】お正月もやってくれ�
 UID:OnKPfBvSQag
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】正月っぽいなにかを作る【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=vsVC2GNNwKk
+DURATION:PT2H
+DTSTART:20230102T133000Z
+SUMMARY:🐻ときのそら: 【Minecraft】正月っぽいなにかを作る【#ときのそら生放送】
+UID:vsVC2GNNwKk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談/Free talk】麦ジュース飲みながらまったり今年の目標決める！【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=rXoQtnBFlVk
 DURATION:PT2H
 DTSTART:20230101T141000Z
@@ -347,6 +256,20 @@ SUMMARY:博衣こより: 【FGO】福袋＆ラスプーチン100連🎍新年一
 UID:gOo2jhBuBOs
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【＃ホロゆびをふる】ポケモンSV 新春ゆびをふる大会 大抽選会！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=HJtvuofMysE
+DURATION:PT2H
+DTSTART:20230101T130000Z
+SUMMARY:👯兎田ぺこら: 【＃ホロゆびをふる】ポケモンSV 新春ゆびをふる大会 大抽選会！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:HJtvuofMysE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【新年初雑談】あけましておめでとうございます✨A HAPPY NEW YEAR‼【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=7lrppNij8vY
+DURATION:PT2H
+DTSTART:20230101T040000Z
+SUMMARY:鷹嶺ルイ: 【新年初雑談】あけましておめでとうございます✨A HAPPY NEW YEAR‼【鷹嶺ルイ/ホロライブ】
+UID:7lrppNij8vY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】あけおめ～！！2023年もいっぱいはなそ！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=ddOVbCu_luk
 DURATION:PT2H
 DTSTART:20230101T140000Z
@@ -359,6 +282,27 @@ DURATION:PT2H
 DTSTART:20230102T160000Z
 SUMMARY:🐏角巻わため: 【マリオカート8DX】練習開始！１日目！！！【角巻わため/ホロライブ４期生】
 UID:OfPj0IYdMms
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【達成で告知あり】96.8万人耐久歌枠！！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=L11GBYktuoc
+DURATION:PT2H
+DTSTART:20221231T153000Z
+SUMMARY:沙花叉クロヱ: 【達成で告知あり】96.8万人耐久歌枠！！【沙花叉クロヱ/ホロライブ】
+UID:L11GBYktuoc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#朝こよ】2023年最初の朝こよ☀今年もよろしくお願いします！ #109【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=YDdFTb4kD9M
+DURATION:PT2H
+DTSTART:20230102T220000Z
+SUMMARY:博衣こより: 【#朝こよ】2023年最初の朝こよ☀今年もよろしくお願いします！ #109【博衣こより/ホロライブ】
+UID:YDdFTb4kD9M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポケモンSV】バッジ7つめ目指して！！新作ポケモン初見プレイ！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=SCE-F7Gd05M
+DURATION:PT2H
+DTSTART:20230102T010000Z
+SUMMARY:⚔白銀ノエル: 【ポケモンSV】バッジ7つめ目指して！！新作ポケモン初見プレイ！【白銀ノエル/ホロライブ】
+UID:SCE-F7Gd05M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【＃ホロゆびをふる】新春運試し!!ゆびをふる大会2023！！！！！！！【ポケモンSV】\nhttps://www.youtube.com/watch?v=UHXSfWeA1iE
@@ -375,11 +319,25 @@ SUMMARY:💫天音かなた: 【🎍2023年🎍】書道「段」持ちがマウ
 UID:b4ZvEgeyjbI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#ホロゆびをふる】ポットデスとこのゆびふりを終わらせに来た！！！ドンッ【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=oX6EzVIaSfc
+DURATION:PT2H
+DTSTART:20230102T131500Z
+SUMMARY:🌽白上フブキ: 【#ホロゆびをふる】ポットデスとこのゆびふりを終わらせに来た！！！ドンッ【ホロライブ/白上フブキ】
+UID:oX6EzVIaSfc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【新年初雑談】あけおめことよろ♡正月衣装2.0お披露目！2023年の目標も...？！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=6Y5lPEVevRo
 DURATION:PT2H
 DTSTART:20230101T020000Z
 SUMMARY:⚔白銀ノエル: 【新年初雑談】あけおめことよろ♡正月衣装2.0お披露目！2023年の目標も...？！【白銀ノエル/ホロライブ】
 UID:6Y5lPEVevRo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:＃０２【 ドラクエIV 】第二章、蜜探しの旅！【雪花ラミィ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=XG2xIsqn29I
+DURATION:PT2H
+DTSTART:20230101T030000Z
+SUMMARY:雪花ラミィ: ＃０２【 ドラクエIV 】第二章、蜜探しの旅！【雪花ラミィ/ホロライブ】※ネタバレあり
+UID:XG2xIsqn29I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオパーティースーパースターズ】オフコラボで #ホロ新春マリパ ！元旦は夜更かししちゃうよね～！？【星街すいせい・夜空メル・不知火フレア・博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=5vMpZcBdI-k
@@ -389,11 +347,11 @@ SUMMARY:博衣こより: 【マリオパーティースーパースターズ】�
 UID:5vMpZcBdI-k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MV】『全人類　兎化計画！』【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=Yzdie2uH0N4
+DESCRIPTION:【 #shorts 】あけましておめでとう！！のご挨拶\nhttps://www.youtube.com/watch?v=eDROzA6bR5A
 DURATION:PT2H
-DTSTART:20230101T123000Z
-SUMMARY:👯兎田ぺこら: 【MV】『全人類　兎化計画！』【ホロライブ/兎田ぺこら】
-UID:Yzdie2uH0N4
+DTSTART:20230101T121248Z
+SUMMARY:🐻ときのそら: 【 #shorts 】あけましておめでとう！！のご挨拶
+UID:eDROzA6bR5A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【カメラあり】いろクロでおせち作り対決！どっちがおいしそう？【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=ANyU7MQ3ZhI
@@ -403,6 +361,20 @@ SUMMARY:沙花叉クロヱ: 【カメラあり】いろクロでおせち作り�
 UID:ANyU7MQ3ZhI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【MV】『全人類　兎化計画！』【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=Yzdie2uH0N4
+DURATION:PT2H
+DTSTART:20230101T123000Z
+SUMMARY:👯兎田ぺこら: 【MV】『全人類　兎化計画！』【ホロライブ/兎田ぺこら】
+UID:Yzdie2uH0N4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポケモンSV】新春ランクマッチ🎍マスボ級！色違いフルパ揃ったよおお！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=mQHXkPjQGeA
+DURATION:PT2H
+DTSTART:20230102T020000Z
+SUMMARY:博衣こより: 【ポケモンSV】新春ランクマッチ🎍マスボ級！色違いフルパ揃ったよおお！！【博衣こより/ホロライブ】
+UID:mQHXkPjQGeA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【つぐのひ】新しいバイト始めたら新年から怖すぎた【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=34s2u85nwkE
 DURATION:PT2H
 DTSTART:20230102T093000Z
@@ -410,18 +382,18 @@ SUMMARY:🔥不知火フレア: 【つぐのひ】新しいバイト始めたら
 UID:34s2u85nwkE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロゆびをふる】今年の運試しいってみよ～！！！【ロボ子さん/ホロライブ】\nhttps://www.youtube.com/watch?v=BklFCcGJoXU
-DURATION:PT2H
-DTSTART:20230102T121500Z
-SUMMARY:🤖ロボ子さん: 【#ホロゆびをふる】今年の運試しいってみよ～！！！【ロボ子さん/ホロライブ】
-UID:BklFCcGJoXU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】あけましておめでとうございます；；ぐすん；；【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=MOVKBaQ0ydg
 DURATION:PT2H
 DTSTART:20230102T100000Z
 SUMMARY:🍙猫又おかゆ: 【雑談】あけましておめでとうございます；；ぐすん；；【猫又おかゆ/ホロライブ】
 UID:MOVKBaQ0ydg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #ホロ鯖RUST 】仮眠後【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=infz_qw50-I
+DURATION:PT2H
+DTSTART:20230102T150000Z
+SUMMARY:🍬姫森ルーナ: 【 #ホロ鯖RUST 】仮眠後【姫森ルーナ/ホロライブ】
+UID:infz_qw50-I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【今年初晩酌】おみくじ機能を使いつつ、今年最初の晩酌をキメる‼【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=7_fNvICcCLM
@@ -438,6 +410,20 @@ SUMMARY:ホロライブ: 【アニメ】ホロライブ全員集合！
 UID:-_VzPpAl_94
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【新年】お正月だしおしゃべりしよう！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=Ba-ghgICywg
+DURATION:PT2H
+DTSTART:20230101T133000Z
+SUMMARY:🐻ときのそら: 【新年】お正月だしおしゃべりしよう！！【#ときのそら生放送】
+UID:Ba-ghgICywg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【＃生スバル】新年一発目のご挨拶？！？！？告知なし人徳凸待ちしゅばあああああああああああああ！！！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=Z9c6H_RhJ9o
+DURATION:PT2H
+DTSTART:20230101T120000Z
+SUMMARY:🚑大空スバル: 【＃生スバル】新年一発目のご挨拶？！？！？告知なし人徳凸待ちしゅばあああああああああああああ！！！！【ホロライブ/大空スバル】
+UID:Z9c6H_RhJ9o
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【新年占い】2023年をタロットで占う！【大神ミオ】\nhttps://www.youtube.com/watch?v=m08hkCWxDHM
 DURATION:PT2H
 DTSTART:20230101T080000Z
@@ -450,5 +436,12 @@ DURATION:PT2H
 DTSTART:20230101T080000Z
 SUMMARY:沙花叉クロヱ: 【カメラあり】沙花叉クロヱ、あけおめ書初め致します。【沙花叉クロヱ/ホロライブ】
 UID:y3xDsa_r1Bw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【つぐのひ】新年初ホラゲーは苦手な和モノ⁉…もうスーパーでバイトできなくなっちゃう(ᐡ •̥ ̫ •̥ ᐡ)【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=XT-TB34G0bg
+DURATION:PT2H
+DTSTART:20230103T140000Z
+SUMMARY:博衣こより: 【つぐのひ】新年初ホラゲーは苦手な和モノ⁉…もうスーパーでバイトできなくなっちゃう(ᐡ •̥ ̫ •̥ ᐡ)【博衣こより/ホロライブ】
+UID:XT-TB34G0bg
 END:VEVENT
 END:VCALENDAR
