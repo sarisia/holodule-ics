@@ -60,13 +60,6 @@ SUMMARY:風真いろは: 【オフコラボ】新春いろクロ晩酌🍶つく
 UID:qlSuFOL8-C8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:＃０３【 ドラクエIV 】第四章、モンバーバラの姉妹【雪花ラミィ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=Cz5zKPZHBMQ
-DURATION:PT2H
-DTSTART:20230102T030000Z
-SUMMARY:雪花ラミィ: ＃０３【 ドラクエIV 】第四章、モンバーバラの姉妹【雪花ラミィ/ホロライブ】※ネタバレあり
-UID:Cz5zKPZHBMQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ホロゆびをふる】負けたら試合終了！初めてのゆびをふる参戦！！！【ポケモンSV】\nhttps://www.youtube.com/watch?v=rx-8aKvBNT0
 DURATION:PT2H
 DTSTART:20230102T134000Z
@@ -249,13 +242,6 @@ SUMMARY:Kobo: LUVORATORRRRRY! - Kobo Kanaeru + @KureijiOllie  (Cover)
 UID:oIzQmoz1bE4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ポケモンSV】新春ランクマッチ🎍マスボ級！色違いフルパ揃ったよおお！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=mQHXkPjQGeA
-DURATION:PT2H
-DTSTART:20230102T020000Z
-SUMMARY:博衣こより: 【ポケモンSV】新春ランクマッチ🎍マスボ級！色違いフルパ揃ったよおお！！【博衣こより/ホロライブ】
-UID:mQHXkPjQGeA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【JUST CHATTING】NEW YEAR RESOLUTION TALK + LOOPSTATION + WINTER MAG OUTFIT\nhttps://www.youtube.com/watch?v=rhlkF0Zo_AE
 DURATION:PT2H
 DTSTART:20230102T040000Z
@@ -436,6 +422,13 @@ DURATION:PT2H
 DTSTART:20230102T003000Z
 SUMMARY:Baelz: ≪MARIO KART: OFF COLLAB≫ Tokyo Driftin w/ Mumei and Fauna
 UID:iPNZ11QFlyU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポケモンSV】視聴者参加のゆびふり大会！【ホロライブ/白上フブキ 】\nhttps://www.youtube.com/watch?v=yp1ED7nAEiI
+DURATION:PT2H
+DTSTART:20230102T090000Z
+SUMMARY:🌽白上フブキ: 【ポケモンSV】視聴者参加のゆびふり大会！【ホロライブ/白上フブキ 】
+UID:yp1ED7nAEiI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Epic Seven】Talking About MV & Stuff\nhttps://www.youtube.com/watch?v=RVMQjBsXKO8
@@ -648,6 +641,13 @@ SUMMARY:🌺花咲みやび: 【FGO】2023年最初のガチャで運試し!!狙
 UID:oznTTLtVAJU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【つぐのひ】新しいバイト始めたら新年から怖すぎた【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=34s2u85nwkE
+DURATION:PT2H
+DTSTART:20230102T093000Z
+SUMMARY:🔥不知火フレア: 【つぐのひ】新しいバイト始めたら新年から怖すぎた【不知火フレア/ホロライブ】
+UID:34s2u85nwkE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マリオパーティースーパースターズ】オフコラボで #ホロ新春マリパ ！元旦は夜更かししちゃうよね～！？【星街すいせい・夜空メル・不知火フレア・博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=5vMpZcBdI-k
 DURATION:PT2H
 DTSTART:20221231T160000Z
@@ -669,18 +669,18 @@ SUMMARY:沙花叉クロヱ: 【カメラあり】いろクロでおせち作り�
 UID:ANyU7MQ3ZhI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロゆびをふる】今年の運試しいってみよ～！！！【ロボ子さん/ホロライブ】\nhttps://www.youtube.com/watch?v=BklFCcGJoXU
-DURATION:PT2H
-DTSTART:20230102T121500Z
-SUMMARY:🤖ロボ子さん: 【#ホロゆびをふる】今年の運試しいってみよ～！！！【ロボ子さん/ホロライブ】
-UID:BklFCcGJoXU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】あけましておめでとうございます；；ぐすん；；【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=MOVKBaQ0ydg
 DURATION:PT2H
 DTSTART:20230102T100000Z
 SUMMARY:🍙猫又おかゆ: 【雑談】あけましておめでとうございます；；ぐすん；；【猫又おかゆ/ホロライブ】
 UID:MOVKBaQ0ydg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロゆびをふる】今年の運試しいってみよ～！！！【ロボ子さん/ホロライブ】\nhttps://www.youtube.com/watch?v=BklFCcGJoXU
+DURATION:PT2H
+DTSTART:20230102T121500Z
+SUMMARY:🤖ロボ子さん: 【#ホロゆびをふる】今年の運試しいってみよ～！！！【ロボ子さん/ホロライブ】
+UID:BklFCcGJoXU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【アニメ】ホロライブ全員集合！\nhttps://www.youtube.com/watch?v=-_VzPpAl_94
