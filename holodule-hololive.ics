@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【EN&JPオフコラボ】3人が日本にやってきた✨初ヴィーガン料理をふるまう‼【ホロライブ】#holoENandJP\nhttps://www.youtube.com/watch?v=U5QUFt53efQ
-DURATION:PT2H
-DTSTART:20230103T130000Z
-SUMMARY:鷹嶺ルイ: 【EN&JPオフコラボ】3人が日本にやってきた✨初ヴィーガン料理をふるまう‼【ホロライブ】#holoENandJP
-UID:U5QUFt53efQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ポケモンSV】新年の運試し！金コイキングを孵化して今年の運気をあげたい！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=U5b2WIPb1_8
 DURATION:PT2H
 DTSTART:20230103T140000Z
@@ -18,11 +11,11 @@ SUMMARY:🔥不知火フレア: 【ポケモンSV】新年の運試し！金コ�
 UID:U5b2WIPb1_8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#常闇トワ3周年記念LIVE】MIX2 - 私の居場所 - 【3DLIVE】\nhttps://www.youtube.com/watch?v=knb_mosTUvo
+DESCRIPTION:QUEEN/常闇トワ(cover)\nhttps://www.youtube.com/watch?v=_8L2KJeoHGo
 DURATION:PT2H
-DTSTART:20230103T120000Z
-SUMMARY:👾常闇トワ: 【#常闇トワ3周年記念LIVE】MIX2 - 私の居場所 - 【3DLIVE】
-UID:knb_mosTUvo
+DTSTART:20230103T130024Z
+SUMMARY:👾常闇トワ: QUEEN/常闇トワ(cover)
+UID:_8L2KJeoHGo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロライブレトロゲーム部】正月だ！！RPGだ！！！！！！！ライブアライブリメイクだ！！！！！！近未来編だ！！！！！：LIVE A LIVE【※ネタバレ有】\nhttps://www.youtube.com/watch?v=IgTHshqyQT4
@@ -81,11 +74,11 @@ SUMMARY:⚒AZKi: 【新年歌枠】2023年 新年のご挨拶＆歌い初め！H
 UID:AB36J8slDXM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FGO】福袋＆ギルガメッシュPUガチャ！ギル様宝具５にします！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=Ire7wlAtHPw
+DESCRIPTION:【EN&JPオフコラボ】3人が日本にやってきた✨初ヴィーガン料理をふるまう‼【ホロライブ】#holoENandJP\nhttps://www.youtube.com/watch?v=U5QUFt53efQ
 DURATION:PT2H
 DTSTART:20230103T130000Z
-SUMMARY:👯兎田ぺこら: 【FGO】福袋＆ギルガメッシュPUガチャ！ギル様宝具５にします！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:Ire7wlAtHPw
+SUMMARY:鷹嶺ルイ: 【EN&JPオフコラボ】3人が日本にやってきた✨初ヴィーガン料理をふるまう‼【ホロライブ】#holoENandJP
+UID:U5QUFt53efQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【リスナー参加型】リスナーVSころね「ゆびをふる大会」やります！ホロメンとも戦う予定！【ポケモンSV】\nhttps://www.youtube.com/watch?v=sjwOdWaydM0
@@ -242,6 +235,13 @@ SUMMARY:🐏角巻わため: 【マリオカート8DX】練習開始！１日目
 UID:OfPj0IYdMms
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 サメと生きる七日間 】⚠18禁ゲーム⚠深夜だからキッズは寝て？？【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=JSu0aaIqFkM
+DURATION:PT2H
+DTSTART:20230103T140000Z
+SUMMARY:桃鈴ねね: 【 サメと生きる七日間 】⚠18禁ゲーム⚠深夜だからキッズは寝て？？【 桃鈴ねね / ホロライブ 】
+UID:JSu0aaIqFkM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 #姫森ルーナ3周年記念 】カウントダウン＆新髪型お披露目なのらあああああ！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=jhgeBIpeuHk
 DURATION:PT2H
 DTSTART:20230103T140000Z
@@ -373,6 +373,13 @@ DURATION:PT2H
 DTSTART:20230103T100000Z
 SUMMARY:🏴☠宝鐘マリン: 【ポケモンSV】視聴者＆ホロメン対戦！ゆびをふるバトル！【ホロライブ/宝鐘マリン】
 UID:QSi5VkBAEKs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FGO】福袋＆ギルガメッシュPUガチャ！ギル様宝具５にします！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=Ire7wlAtHPw
+DURATION:PT2H
+DTSTART:20230103T130000Z
+SUMMARY:👯兎田ぺこら: 【FGO】福袋＆ギルガメッシュPUガチャ！ギル様宝具５にします！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:Ire7wlAtHPw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】ざぁこはいやだ...ッ！！！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=brp56XdQ7lI
