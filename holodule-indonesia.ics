@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 Drawing 】Bikin Kartu Ucapan Tahun Baru【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=JEwUi5Szel8
+DESCRIPTION:【Persona 5 Royal】 SENSEI\, IT'S PUNISHMENT TIME FR❗Spoilers Alert #3\nhttps://www.youtube.com/watch?v=k6m8kWV-Wqk
 DURATION:PT2H
-DTSTART:20230102T080000Z
-SUMMARY:🎨Iofi: 【 Drawing 】Bikin Kartu Ucapan Tahun Baru【 iofi / ホロライブ 】
-UID:JEwUi5Szel8
+DTSTART:20230102T090000Z
+SUMMARY:Zeta: 【Persona 5 Royal】 SENSEI\, IT'S PUNISHMENT TIME FR❗Spoilers Alert #3
+UID:k6m8kWV-Wqk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MARIO KART 8DX】practice #8【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=dho9ot6Au2k
+DURATION:PT2H
+DTSTART:20230102T030000Z
+SUMMARY:Kaela: 【MARIO KART 8DX】practice #8【Kaela Kovalskia / hololiveID】
+UID:dho9ot6Au2k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【CONCERT WATCHALONG】 #ホロライブカウントダウン: AND NOW FOR THE BOIS【Hololive ID Gen 2】\nhttps://www.youtube.com/watch?v=-xRfOyaeQDE
@@ -18,18 +25,11 @@ SUMMARY:Ollie: 【CONCERT WATCHALONG】 #ホロライブカウントダウン: A
 UID:-xRfOyaeQDE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【PEJUANG SENIN】#33 FIRST MONDAY IN 2023!!!🌞【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=-5u5XHd7vMc
+DESCRIPTION:【 Drawing 】Bikin Kartu Ucapan Tahun Baru【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=JEwUi5Szel8
 DURATION:PT2H
-DTSTART:20230101T231500Z
-SUMMARY:Kaela: 【PEJUANG SENIN】#33 FIRST MONDAY IN 2023!!!🌞【Kaela's Monday Warrior】
-UID:-5u5XHd7vMc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Persona 5 Royal】 SENSEI\, IT'S PUNISHMENT TIME FR❗Spoilers Alert #3\nhttps://www.youtube.com/watch?v=k6m8kWV-Wqk
-DURATION:PT2H
-DTSTART:20230102T090000Z
-SUMMARY:Zeta: 【Persona 5 Royal】 SENSEI\, IT'S PUNISHMENT TIME FR❗Spoilers Alert #3
-UID:k6m8kWV-Wqk
+DTSTART:20230102T080000Z
+SUMMARY:🎨Iofi: 【 Drawing 】Bikin Kartu Ucapan Tahun Baru【 iofi / ホロライブ 】
+UID:JEwUi5Szel8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【JellyCar Worlds】lets complete this game😎【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=YXidDlh-qto
@@ -39,17 +39,24 @@ SUMMARY:Kaela: 【JellyCar Worlds】lets complete this game😎【Kaela Kovalski
 UID:YXidDlh-qto
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【hololiveID】TOWNSCAPER : I am Risu the Builder !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=QNPgTDc9Ga4
+DURATION:PT2H
+DTSTART:20230103T100000Z
+SUMMARY:🐿Risu: 【hololiveID】TOWNSCAPER : I am Risu the Builder !!!【Ayunda Risu】
+UID:QNPgTDc9Ga4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PEJUANG SENIN】#33 FIRST MONDAY IN 2023!!!🌞【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=-5u5XHd7vMc
+DURATION:PT2H
+DTSTART:20230101T231500Z
+SUMMARY:Kaela: 【PEJUANG SENIN】#33 FIRST MONDAY IN 2023!!!🌞【Kaela's Monday Warrior】
+UID:-5u5XHd7vMc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:how would you rank this insect? #shorts\nhttps://www.youtube.com/watch?v=bBoHpF2FIUY
 DURATION:PT2H
 DTSTART:20230101T191709Z
 SUMMARY:Zeta: how would you rank this insect? #shorts
 UID:bBoHpF2FIUY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MARIO KART 8DX】practice #8【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=dho9ot6Au2k
-DURATION:PT2H
-DTSTART:20230102T030000Z
-SUMMARY:Kaela: 【MARIO KART 8DX】practice #8【Kaela Kovalskia / hololiveID】
-UID:dho9ot6Au2k
 END:VEVENT
 END:VCALENDAR
