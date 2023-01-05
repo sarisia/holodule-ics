@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【マリオカート8DX】大会目前！！ド深夜練習会！【ロボ子さん/ホロライブ】\nhttps://www.youtube.com/watch?v=tfooA88jg3Y
+DURATION:PT2H
+DTSTART:20230105T150000Z
+SUMMARY:🤖ロボ子さん: 【マリオカート8DX】大会目前！！ド深夜練習会！【ロボ子さん/ホロライブ】
+UID:tfooA88jg3Y
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ポケモンSV】完全初見！ゴツい顔ポケモン縛り！！もうジムで負けたりしない！ #03【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=J72qLTzTWtw
 DURATION:PT2H
 DTSTART:20230105T100000Z
@@ -93,6 +100,13 @@ DURATION:PT2H
 DTSTART:20230105T140000Z
 SUMMARY:🐻ときのそら: 【マリオカート８ デラックス】参加型2回目！がんばるよ！！【#ときのそら生放送】
 UID:Wfio5Q2mAao
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マリオカート8DX】いよいよ前日！！ショトカの最終練習とレート戦いくぞ！！【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=yAecurNk760
+DURATION:PT2H
+DTSTART:20230106T030000Z
+SUMMARY:鷹嶺ルイ: 【マリオカート8DX】いよいよ前日！！ショトカの最終練習とレート戦いくぞ！！【鷹嶺ルイ/ホロライブ】
+UID:yAecurNk760
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝メル#24】おはかーぷ！！イチゴが美味しい季節🍓【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=B_2vjiQ4HlU
@@ -340,20 +354,6 @@ SUMMARY:🎭アステル・レダ: 【League of Legends】LoLやるぜ / アス�
 UID:RO-7JMs4MqA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【みんなのリズム天国】全ステージ解放したい！！！・・・行ける？？？【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=adqUtNz5gVo
-DURATION:PT2H
-DTSTART:20230105T100000Z
-SUMMARY:博衣こより: 【みんなのリズム天国】全ステージ解放したい！！！・・・行ける？？？【博衣こより/ホロライブ】
-UID:adqUtNz5gVo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MARIO KART 8DX】LATIHAN TERAKHIR\, H-2 TURNAMEN!!!!\nhttps://www.youtube.com/watch?v=5xgv6x__Zzk
-DURATION:PT2H
-DTSTART:20230105T151500Z
-SUMMARY:Kobo: 【MARIO KART 8DX】LATIHAN TERAKHIR\, H-2 TURNAMEN!!!!
-UID:5xgv6x__Zzk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【しょぼんのるきみん】こんな可愛い鬼畜ゲーがあってたまるか！！！！【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=Y5TK6oWGux4
 DURATION:PT2H
 DTSTART:20230105T143000Z
@@ -366,13 +366,6 @@ DURATION:PT2H
 DTSTART:20230105T130000Z
 SUMMARY:🐏角巻わため: 【世界のアソビ大全51】新春！！！運試しでやルドー！【#バカタレサーカス】
 UID:ICzJBTb2Owo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】みんなでガチ練習していく‼【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=MYqfHGVosrg
-DURATION:PT2H
-DTSTART:20230105T150000Z
-SUMMARY:鷹嶺ルイ: 【マリオカート8DX】みんなでガチ練習していく‼【鷹嶺ルイ/ホロライブ】
-UID:MYqfHGVosrg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:みんなで語ろう！怒涛のホロプロ年末年始振り返り【#ホロよい新年】\nhttps://www.youtube.com/watch?v=QUb2X79NKAw
@@ -459,13 +452,6 @@ SUMMARY:影山シエン: ラーメンタイマー動画
 UID:hzkxMs82GTs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マリカ８】不安になってきた・・特訓する！！！！！【ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=BfCojyA9w2Q
-DURATION:PT2H
-DTSTART:20230105T150000Z
-SUMMARY:🌲大神ミオ: 【マリカ８】不安になってきた・・特訓する！！！！！【ホロライブ/大神ミオ】
-UID:BfCojyA9w2Q
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 Tempus DND 】Where the Sun Don't Shine: Episode 6\nhttps://www.youtube.com/watch?v=x-mMX7QdgYY
 DURATION:PT2H
 DTSTART:20230104T180000Z
@@ -480,11 +466,25 @@ SUMMARY:🏮夏色まつり: 【マリオカート8DX】マリカ1位耐久い�
 UID:Gia9TFG2tRc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【歌枠】80万人目指して歌います！ #こより80万人 【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=vwiuTbhSZIs
+DURATION:PT2H
+DTSTART:20230106T100000Z
+SUMMARY:博衣こより: 【歌枠】80万人目指して歌います！ #こより80万人 【博衣こより/ホロライブ】
+UID:vwiuTbhSZIs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マリオパーティースーパースターズ】正月新衣装で4人でわちゃわちゃマリパ【#緋崎ガンマ / #夜十神封魔  / #羽継烏有  / #水無世燐央  / #放課後アップロー /#アップロー正月衣装】\nhttps://www.youtube.com/watch?v=eFfVY_nzQW4
 DURATION:PT2H
 DTSTART:20230107T100000Z
 SUMMARY:緋崎ガンマ: 【マリオパーティースーパースターズ】正月新衣装で4人でわちゃわちゃマリパ【#緋崎ガンマ / #夜十神封魔  / #羽継烏有  / #水無世燐央  / #放課後アップロー /#アップロー正月衣装】
 UID:eFfVY_nzQW4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:adios part. 3 🚀👋\nhttps://www.youtube.com/watch?v=wzny5FBkySo
+DURATION:PT2H
+DTSTART:20230105T173712Z
+SUMMARY:Kaela: adios part. 3 🚀👋
+UID:wzny5FBkySo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#2【SEKIRO】アクションへたっぴの挑戦～ #こよりSEKIRO ～大手門突破後から！逝けKOYORO【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=n11AI0wjDsk
