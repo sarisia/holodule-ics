@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【大神ミオ視点】大会間近！常MOSで練習会するぞ！【 #常MOS  】\nhttps://www.youtube.com/watch?v=INfNVq-pDHY
-DURATION:PT2H
-DTSTART:20230105T100000Z
-SUMMARY:🌲大神ミオ: 【大神ミオ視点】大会間近！常MOSで練習会するぞ！【 #常MOS  】
-UID:INfNVq-pDHY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=XHsVXxNGSAI
 DURATION:PT2H
 DTSTART:20230105T120000Z
@@ -144,6 +137,13 @@ SUMMARY:🍬姫森ルーナ: 【 ポケモンSV バイオレット 】岸壁の�
 UID:JgCl0RSp1Hw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 ポケモンSV 】参加型！一緒にポケモンしようよ～【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=JFgnFnPqEu4
+DURATION:PT2H
+DTSTART:20230105T090000Z
+SUMMARY:桃鈴ねね: 【 ポケモンSV 】参加型！一緒にポケモンしようよ～【 桃鈴ねね / ホロライブ 】
+UID:JFgnFnPqEu4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#3【SEKIRO】へたっぴ #こよりSEKIRO ～葦名弦一郎戦クリアしたい！！！～【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=4yMo9F7E-MA
 DURATION:PT2H
 DTSTART:20230106T020000Z
@@ -163,13 +163,6 @@ DURATION:PT2H
 DTSTART:20230105T090000Z
 SUMMARY:風真いろは: 【マリオカート8DX】プチマリカ練習枠🚙💨学んできたことをしっかり生かす🔥【風真いろは/ホロライブ】
 UID:g4flDaAFwrs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Memberships only】♡あけおめASMR♡【メンバー限定】\nhttps://www.youtube.com/watch?v=UAQxg-ga2xI
-DURATION:PT2H
-DTSTART:20230105T120000Z
-SUMMARY:🥐戌神ころね: 【Memberships only】♡あけおめASMR♡【メンバー限定】
-UID:UAQxg-ga2xI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #姫森ルーナ3周年記念 】3rd Anniversary 3D Live !!💓ゲストといっぱい遊んじゃおうなのら♪【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=Bgew21sLVxs
@@ -289,20 +282,6 @@ DURATION:PT2H
 DTSTART:20230104T060000Z
 SUMMARY:🌟夜空メル: 【ポケモンSV】２つ目バッジを目指して！ゴーストパーティーで挑む！＃02【ホロライブ/夜空メル】
 UID:vpt60Evc3KM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【大会に向けて】みんなで練習だあ～～～～🚑🌲🍙👾【#常MOS/ホロライブ】\nhttps://www.youtube.com/watch?v=ZjezFUtOemc
-DURATION:PT2H
-DTSTART:20230105T100000Z
-SUMMARY:🍙猫又おかゆ: 【大会に向けて】みんなで練習だあ～～～～🚑🌲🍙👾【#常MOS/ホロライブ】
-UID:ZjezFUtOemc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 振り返り 】色々あった３周年のお話なのら。【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=14FKJhGHAm8
-DURATION:PT2H
-DTSTART:20230105T100000Z
-SUMMARY:🍬姫森ルーナ: 【 振り返り 】色々あった３周年のお話なのら。【姫森ルーナ/ホロライブ】
-UID:14FKJhGHAm8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】新年早々ホロメンのオリ曲を歌っちゃお🎶【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=45h6DqQOu80
