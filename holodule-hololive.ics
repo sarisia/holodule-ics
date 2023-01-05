@@ -4,10 +4,17 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【配信予定地】かなたそなにする【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=J72qLTzTWtw
+DESCRIPTION:【大神ミオ視点】大会間近！常MOSで練習会するぞ！【 #常MOS  】\nhttps://www.youtube.com/watch?v=INfNVq-pDHY
 DURATION:PT2H
 DTSTART:20230105T100000Z
-SUMMARY:💫天音かなた: 【配信予定地】かなたそなにする【天音かなた/ホロライブ】
+SUMMARY:🌲大神ミオ: 【大神ミオ視点】大会間近！常MOSで練習会するぞ！【 #常MOS  】
+UID:INfNVq-pDHY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポケモンSV】完全初見！ゴツい顔ポケモン縛り！！もうジムで負けたりしない！ #03【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=J72qLTzTWtw
+DURATION:PT2H
+DTSTART:20230105T100000Z
+SUMMARY:💫天音かなた: 【ポケモンSV】完全初見！ゴツい顔ポケモン縛り！！もうジムで負けたりしない！ #03【天音かなた/ホロライブ】
 UID:J72qLTzTWtw
 END:VEVENT
 BEGIN:VEVENT
@@ -184,6 +191,13 @@ DURATION:PT2H
 DTSTART:20230104T130000Z
 SUMMARY:🐻ときのそら: 【ポケモンスカーレット】フェアリーかわいいよね【#ときのそら生放送】
 UID:xgkWB6LYgPY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#2【SEKIRO】アクションへたっぴの挑戦～ #こよりSEKIRO ～大手門突破後から！逝けKOYORO【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=n11AI0wjDsk
+DURATION:PT2H
+DTSTART:20230105T020000Z
+SUMMARY:博衣こより: #2【SEKIRO】アクションへたっぴの挑戦～ #こよりSEKIRO ～大手門突破後から！逝けKOYORO【博衣こより/ホロライブ】
+UID:n11AI0wjDsk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:＃０５【 ドラクエIV 】第五章、いざキングレオ！！目指せ瞬殺【雪花ラミィ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=mtI6kTzjEyQ
