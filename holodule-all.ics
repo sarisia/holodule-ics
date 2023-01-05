@@ -32,18 +32,18 @@ SUMMARY:Bettel: Another gift from an adoring fan! ＃Shorts
 UID:Meu8tyNFRaY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ミモザ先生可愛すぎないか？ｗｗ　#shorts\nhttps://www.youtube.com/watch?v=4X964DliHSU
-DURATION:PT2H
-DTSTART:20230105T031646Z
-SUMMARY:🍷夕刻ロベル: ミモザ先生可愛すぎないか？ｗｗ　#shorts
-UID:4X964DliHSU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【8位以下即終了マリオカート】本番枠：1位耐久達成した私、最強説‼【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=CVSIMLXJ7CM
 DURATION:PT2H
 DTSTART:20230105T131500Z
 SUMMARY:鷹嶺ルイ: 【8位以下即終了マリオカート】本番枠：1位耐久達成した私、最強説‼【鷹嶺ルイ/ホロライブ】
 UID:CVSIMLXJ7CM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ミモザ先生可愛すぎないか？ｗｗ　#shorts\nhttps://www.youtube.com/watch?v=4X964DliHSU
+DURATION:PT2H
+DTSTART:20230105T031646Z
+SUMMARY:🍷夕刻ロベル: ミモザ先生可愛すぎないか？ｗｗ　#shorts
+UID:4X964DliHSU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Cover】Bakushou / 爆笑 - Ouro Kronii\nhttps://www.youtube.com/watch?v=7HiAIzjTnxE
@@ -81,11 +81,11 @@ SUMMARY:鷹嶺ルイ: 【全シナリオ解禁‼】視聴者参加型推理！�
 UID:D67COmQtXeo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝メル#24】おはかーぷ！！イチゴが美味しい季節🍓【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=B_2vjiQ4HlU
+DESCRIPTION:【 #DJARN 】みんなのおススメのホロプロ楽曲を教えてください！～DJの裏側～【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=T_CkelWseJA
 DURATION:PT2H
-DTSTART:20230104T220000Z
-SUMMARY:🌟夜空メル: 【朝メル#24】おはかーぷ！！イチゴが美味しい季節🍓【ホロライブ/夜空メル】
-UID:B_2vjiQ4HlU
+DTSTART:20230106T040000Z
+SUMMARY:🍕アルランディス: 【 #DJARN 】みんなのおススメのホロプロ楽曲を教えてください！～DJの裏側～【アルランディス/ホロスターズ】
+UID:T_CkelWseJA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオカート８ デラックス】参加型2回目！がんばるよ！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=Wfio5Q2mAao
@@ -95,6 +95,13 @@ SUMMARY:🐻ときのそら: 【マリオカート８ デラックス】参加�
 UID:Wfio5Q2mAao
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【朝メル#24】おはかーぷ！！イチゴが美味しい季節🍓【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=B_2vjiQ4HlU
+DURATION:PT2H
+DTSTART:20230104T220000Z
+SUMMARY:🌟夜空メル: 【朝メル#24】おはかーぷ！！イチゴが美味しい季節🍓【ホロライブ/夜空メル】
+UID:B_2vjiQ4HlU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#6】ずっとやりたかったポケモンやるしゅばああああああああああああああああああああああああああああ！！！！！/Pokémon Scarlet【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=N3n46Y70Zc4
 DURATION:PT2H
 DTSTART:20230105T130000Z
@@ -102,18 +109,18 @@ SUMMARY:🚑大空スバル: 【#6】ずっとやりたかったポケモンや�
 UID:N3n46Y70Zc4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:POV: Hakka hears he's your new oshi #Shorts\nhttps://www.youtube.com/watch?v=KlhrrlLb8-s
-DURATION:PT2H
-DTSTART:20230105T030006Z
-SUMMARY:Hakka: POV: Hakka hears he's your new oshi #Shorts
-UID:KlhrrlLb8-s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Am I Yagoo's dream...? NO :3\nhttps://www.youtube.com/watch?v=xSsN6gE_lxQ
 DURATION:PT2H
 DTSTART:20230105T030030Z
 SUMMARY:Flayon: Am I Yagoo's dream...? NO :3
 UID:xSsN6gE_lxQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:POV: Hakka hears he's your new oshi #Shorts\nhttps://www.youtube.com/watch?v=KlhrrlLb8-s
+DURATION:PT2H
+DTSTART:20230105T030006Z
+SUMMARY:Hakka: POV: Hakka hears he's your new oshi #Shorts
+UID:KlhrrlLb8-s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#3【SEKIRO】へたっぴ #こよりSEKIRO ～葦名弦一郎戦クリアしたい！！！～【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=4yMo9F7E-MA
@@ -137,11 +144,25 @@ SUMMARY:🎨Iofi: 【KARAOKE 】Hadiah Untuk IOFORIA【 iofi / ホロライブ �
 UID:voUKZLGQE0U
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Mario Kart 8 DX】Joint Practice! え？大会あと2日なんですけど…？？？【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=3O6WH-vfHTg
+DURATION:PT2H
+DTSTART:20230105T130000Z
+SUMMARY:Anya: 【Mario Kart 8 DX】Joint Practice! え？大会あと2日なんですけど…？？？【hololive ID 2nd Generation | Anya Melfissa】
+UID:3O6WH-vfHTg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】プチマリカ練習枠🚙💨学んできたことをしっかり生かす🔥【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=g4flDaAFwrs
 DURATION:PT2H
 DTSTART:20230105T090000Z
 SUMMARY:風真いろは: 【マリオカート8DX】プチマリカ練習枠🚙💨学んできたことをしっかり生かす🔥【風真いろは/ホロライブ】
 UID:g4flDaAFwrs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Mario Kart 8 DX】Holoro & The Moon!!! Joint Practice Time :D【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=RJNjzlxU97Q
+DURATION:PT2H
+DTSTART:20230105T130000Z
+SUMMARY:Reine: 【Mario Kart 8 DX】Holoro & The Moon!!! Joint Practice Time :D【Pavolia Reine/hololiveID 2nd gen】
+UID:RJNjzlxU97Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Bakushou Afterparty】Explode\nhttps://www.youtube.com/watch?v=B13CQRRZ7Dw
@@ -170,13 +191,6 @@ DURATION:PT2H
 DTSTART:20230105T131500Z
 SUMMARY:Kaela: 【MARIO KART 8DX】two more days... #11【Kaela Kovalskia / hololiveID】
 UID:5UCdsfpZ60I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリカ8DX】大会前の1位耐久【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=IZ2JyMtZHQg
-DURATION:PT2H
-DTSTART:20230105T130000Z
-SUMMARY:🏴☠宝鐘マリン: 【マリカ8DX】大会前の1位耐久【ホロライブ/宝鐘マリン】
-UID:IZ2JyMtZHQg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Am I Yagoo's dream...? NO :3 #Shorts\nhttps://www.youtube.com/watch?v=yrSwq9DVko8
@@ -263,11 +277,11 @@ SUMMARY:🌲大神ミオ: 【大神ミオ視点】大会間近！常MOSで練習
 UID:INfNVq-pDHY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RIVER CITY GIRLS 2】Punching Literally Everyone with Monarch!\nhttps://www.youtube.com/watch?v=2Axo-TP-5So
+DESCRIPTION:【#ホロスタGeoGuessrバトル】地図の読み取り？任せてくださいよ【夕刻ロベル/花咲みやび/アルランディス/緋崎ガンマ】\nhttps://www.youtube.com/watch?v=gAemY_kymlc
 DURATION:PT2H
-DTSTART:20230106T030000Z
-SUMMARY:Calli: 【RIVER CITY GIRLS 2】Punching Literally Everyone with Monarch!
-UID:2Axo-TP-5So
+DTSTART:20230105T140000Z
+SUMMARY:🍷夕刻ロベル: 【#ホロスタGeoGuessrバトル】地図の読み取り？任せてくださいよ【夕刻ロベル/花咲みやび/アルランディス/緋崎ガンマ】
+UID:gAemY_kymlc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【WITCHER 3】I got this game on a steam sale years ago but never played so I get to stream it now\nhttps://www.youtube.com/watch?v=qhHd3phC_CM
@@ -282,6 +296,13 @@ DURATION:PT2H
 DTSTART:20230105T120000Z
 SUMMARY:Zeta: 【Mario Kart 8DX】excuse me! safe driving pls!😮‍💨 (practice & ID collab)
 UID:lT0C_fvE71w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RIVER CITY GIRLS 2】Punching Literally Everyone with Monarch!\nhttps://www.youtube.com/watch?v=2Axo-TP-5So
+DURATION:PT2H
+DTSTART:20230106T030000Z
+SUMMARY:Calli: 【RIVER CITY GIRLS 2】Punching Literally Everyone with Monarch!
+UID:2Axo-TP-5So
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリカ8DX】みこちと走った【ホロライブ / #micomet 】\nhttps://www.youtube.com/watch?v=XHsVXxNGSAI
@@ -438,18 +459,18 @@ SUMMARY:緋崎ガンマ: 【マリオパーティースーパースターズ】�
 UID:eFfVY_nzQW4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:STARTING SHADOWBRINGERS (Patch 5.0) 【Final Fantasy XIV】\nhttps://www.youtube.com/watch?v=_brazR6_0Y4
-DURATION:PT2H
-DTSTART:20230105T000000Z
-SUMMARY:Altare: STARTING SHADOWBRINGERS (Patch 5.0) 【Final Fantasy XIV】
-UID:_brazR6_0Y4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#2【SEKIRO】アクションへたっぴの挑戦～ #こよりSEKIRO ～大手門突破後から！逝けKOYORO【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=n11AI0wjDsk
 DURATION:PT2H
 DTSTART:20230105T020000Z
 SUMMARY:博衣こより: #2【SEKIRO】アクションへたっぴの挑戦～ #こよりSEKIRO ～大手門突破後から！逝けKOYORO【博衣こより/ホロライブ】
 UID:n11AI0wjDsk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:STARTING SHADOWBRINGERS (Patch 5.0) 【Final Fantasy XIV】\nhttps://www.youtube.com/watch?v=_brazR6_0Y4
+DURATION:PT2H
+DTSTART:20230105T000000Z
+SUMMARY:Altare: STARTING SHADOWBRINGERS (Patch 5.0) 【Final Fantasy XIV】
+UID:_brazR6_0Y4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Minecraft Hardcore 】目指せ168日生存🔥 #ござるマイクラハードコア🍖配信2日目！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=4AdncxXuWtU
@@ -459,11 +480,32 @@ SUMMARY:風真いろは: 【 Minecraft Hardcore 】目指せ168日生存🔥 #�
 UID:4AdncxXuWtU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Fit　Boxing　北斗の拳】VS南斗水鳥拳レイ【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=U0sOG1d-RHw
+DURATION:PT2H
+DTSTART:20230105T140000Z
+SUMMARY:荒咬オウガ: 【Fit　Boxing　北斗の拳】VS南斗水鳥拳レイ【荒咬オウガ/ホロスターズ】
+UID:U0sOG1d-RHw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MARIO KART 8DX】last game doko? #10【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=4dOq11Ttllo
 DURATION:PT2H
 DTSTART:20230104T161500Z
 SUMMARY:Kaela: 【MARIO KART 8DX】last game doko? #10【Kaela Kovalskia / hololiveID】
 UID:4dOq11Ttllo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MARIO KART 8 DELUXE】ID TRAINING SESSION!! LET'S NGEEENG GIRLS!!【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=P5ifdbr40pw
+DURATION:PT2H
+DTSTART:20230105T125953Z
+SUMMARY:Ollie: 【MARIO KART 8 DELUXE】ID TRAINING SESSION!! LET'S NGEEENG GIRLS!!【Hololive ID 2nd Generation】
+UID:P5ifdbr40pw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #ホロスタGeoGuessrバトル 】ついにホロスタ内で一番日本に詳しい男が明らかに…！【花咲みやび/夕刻ロベル/緋崎ガンマ/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=lZvPUrQFUo8
+DURATION:PT2H
+DTSTART:20230105T140000Z
+SUMMARY:🍕アルランディス: 【 #ホロスタGeoGuessrバトル 】ついにホロスタ内で一番日本に詳しい男が明らかに…！【花咲みやび/夕刻ロベル/緋崎ガンマ/アルランディス/ホロスターズ】
+UID:lZvPUrQFUo8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Satisfactory】花岸で大規模工場作るゲームを始めてみる！ Part1【岸堂天真/花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=HUiCccqM4Rg
