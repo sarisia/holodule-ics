@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【RIVER CITY GIRLS 2】Punching Literally Everyone with Monarch!\nhttps://www.youtube.com/watch?v=2Axo-TP-5So
-DURATION:PT2H
-DTSTART:20230106T025832Z
-SUMMARY:Calli: 【RIVER CITY GIRLS 2】Punching Literally Everyone with Monarch!
-UID:2Axo-TP-5So
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:🎉〘BDAY〙Mini LIVE & Party!\nhttps://www.youtube.com/watch?v=Vw8dZIA2Nfc
 DURATION:PT2H
 DTSTART:20230107T010000Z
@@ -18,32 +11,18 @@ SUMMARY:Amelia: 🎉〘BDAY〙Mini LIVE & Party!
 UID:Vw8dZIA2Nfc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Japan Trip Q&A #WanderingMumeiQAs\nhttps://www.youtube.com/watch?v=78rFBQ8kBzo
-DURATION:PT2H
-DTSTART:20230107T031000Z
-SUMMARY:Mumei: Japan Trip Q&A #WanderingMumeiQAs
-UID:78rFBQ8kBzo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[MV] Dance Past Midnight - Mori Calliope feat. AmaLee\nhttps://www.youtube.com/watch?v=mhIa8Vaj1HE
-DURATION:PT2H
-DTSTART:20230106T040000Z
-SUMMARY:Calli: [MV] Dance Past Midnight - Mori Calliope feat. AmaLee
-UID:mhIa8Vaj1HE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【GEOGUESSR】Doko TF am I !?(wow callis place is hella comfy)　#kfp #キアライブ\nhttps://www.youtube.com/watch?v=CmwHtaifdBE
-DURATION:PT2H
-DTSTART:20230106T091500Z
-SUMMARY:Kiara: 【GEOGUESSR】Doko TF am I !?(wow callis place is hella comfy)　#kfp #キアライブ
-UID:CmwHtaifdBE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#HOLONEWYEARCUP2023】Ganba\nhttps://www.youtube.com/watch?v=jBlharSVGfs
 DURATION:PT2H
 DTSTART:20230107T053000Z
 SUMMARY:Kronii: 【#HOLONEWYEARCUP2023】Ganba
 UID:jBlharSVGfs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Japan Trip Q&A #WanderingMumeiQAs\nhttps://www.youtube.com/watch?v=78rFBQ8kBzo
+DURATION:PT2H
+DTSTART:20230107T031000Z
+SUMMARY:Mumei: Japan Trip Q&A #WanderingMumeiQAs
+UID:78rFBQ8kBzo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【日本語でゲームやる！！】空気読み！いい日本人になりますように！！\nhttps://www.youtube.com/watch?v=fW1JUFuboYI
