@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【chatting】cats cats cats c\nhttps://www.youtube.com/watch?v=Lok5DAJ8u3A
+DESCRIPTION:【RESIDENT EVIL 7: BIOHAZARD】I finally have the courage\nhttps://www.youtube.com/watch?v=Ua9w0CPNATs
 DURATION:PT2H
-DTSTART:20230110T152929Z
-SUMMARY:Calli: 【chatting】cats cats cats c
-UID:Lok5DAJ8u3A
+DTSTART:20230111T020000Z
+SUMMARY:IRyS: 【RESIDENT EVIL 7: BIOHAZARD】I finally have the courage
+UID:Ua9w0CPNATs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【POKEMON VIOLET】 STREAM​\nhttps://www.youtube.com/watch?v=_gll4c7lxlw
@@ -30,5 +30,12 @@ DURATION:PT2H
 DTSTART:20230110T110000Z
 SUMMARY:Kiara: 【VALKYRIE CONNECT】Awaken!!!! New event starting from today! #HolokyrieConnect #kfp #キアライブ
 UID:JWsB7sHGGKo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【chatting】cats cats cats c\nhttps://www.youtube.com/watch?v=Lok5DAJ8u3A
+DURATION:PT2H
+DTSTART:20230110T152929Z
+SUMMARY:Calli: 【chatting】cats cats cats c
+UID:Lok5DAJ8u3A
 END:VEVENT
 END:VCALENDAR
