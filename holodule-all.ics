@@ -46,6 +46,13 @@ SUMMARY:Bettel: [Cooking Simulator] Allow me to cook a beautiful meal for you!  
 UID:1kTHJXpvsDo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【歌枠】新年初うた！歌っちゃうみょーん【ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=MCOQ_x-d5xg
+DURATION:PT2H
+DTSTART:20230111T110000Z
+SUMMARY:🌲大神ミオ: 【歌枠】新年初うた！歌っちゃうみょーん【ホロライブ/大神ミオ】
+UID:MCOQ_x-d5xg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【VALKYRIE CONNECT】Awaken!!!! New event starting from today! #HolokyrieConnect #kfp #キアライブ\nhttps://www.youtube.com/watch?v=JWsB7sHGGKo
 DURATION:PT2H
 DTSTART:20230110T110000Z
@@ -130,13 +137,6 @@ SUMMARY:影山シエン: 【 ジャックジャンヌ】秋公演へ向けてレ
 UID:ypRaws8uiuE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#7【SEKIRO】へたっぴ #こよりSEKIRO ～獅子猿リベンジ🔥制限時間2時間～【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=8inhvsb87TM
-DURATION:PT2H
-DTSTART:20230112T100000Z
-SUMMARY:博衣こより: #7【SEKIRO】へたっぴ #こよりSEKIRO ～獅子猿リベンジ🔥制限時間2時間～【博衣こより/ホロライブ】
-UID:8inhvsb87TM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【The Mortuary Assistant】 Hey demons it's me. Ya boi #JosuijiShinri #holoTEMPUS\nhttps://www.youtube.com/watch?v=I8qvERht_o0
 DURATION:PT2H
 DTSTART:20230110T040000Z
@@ -144,18 +144,25 @@ SUMMARY:Shinri: 【The Mortuary Assistant】 Hey demons it's me. Ya boi #Josuiji
 UID:I8qvERht_o0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Who's Who?】６人でNPCに紛れたりケイドロしたりのミニゲーム！！【#ホロだぁれ】\nhttps://www.youtube.com/watch?v=0KyPnkcbIfY
-DURATION:PT2H
-DTSTART:20230110T130000Z
-SUMMARY:🌽白上フブキ: 【Who's Who?】６人でNPCに紛れたりケイドロしたりのミニゲーム！！【#ホロだぁれ】
-UID:0KyPnkcbIfY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ALIENS vs DEMON GOD KING 【PREY】 【2】\nhttps://www.youtube.com/watch?v=Mq2-3vl9ffk
 DURATION:PT2H
 DTSTART:20230111T000000Z
 SUMMARY:Altare: ALIENS vs DEMON GOD KING 【PREY】 【2】
 UID:Mq2-3vl9ffk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#7【SEKIRO】へたっぴ #こよりSEKIRO ～獅子猿リベンジ🔥制限時間2時間～【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=8inhvsb87TM
+DURATION:PT2H
+DTSTART:20230112T100000Z
+SUMMARY:博衣こより: #7【SEKIRO】へたっぴ #こよりSEKIRO ～獅子猿リベンジ🔥制限時間2時間～【博衣こより/ホロライブ】
+UID:8inhvsb87TM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Who's Who?】６人でNPCに紛れたりケイドロしたりのミニゲーム！！【#ホロだぁれ】\nhttps://www.youtube.com/watch?v=0KyPnkcbIfY
+DURATION:PT2H
+DTSTART:20230110T130000Z
+SUMMARY:🌽白上フブキ: 【Who's Who?】６人でNPCに紛れたりケイドロしたりのミニゲーム！！【#ホロだぁれ】
+UID:0KyPnkcbIfY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:重大告知【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=nwZpeFIKCaY
@@ -228,18 +235,18 @@ SUMMARY:Reine: 【Tsugunohi | つぐのひ】Legendary Horror Where You…… Wa
 UID:10CLrk_ojRo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Minecraft Hardcore 】目指せ168日生存🔥 #ござるマイクラハードコア🍖配信4日目！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=Oyi3dHKEnMI
-DURATION:PT2H
-DTSTART:20230110T090000Z
-SUMMARY:風真いろは: 【 Minecraft Hardcore 】目指せ168日生存🔥 #ござるマイクラハードコア🍖配信4日目！【風真いろは/ホロライブ】
-UID:Oyi3dHKEnMI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Tsugunohi】knock knock\, who's there?\nhttps://www.youtube.com/watch?v=RyRVjw8Xpj0
 DURATION:PT2H
 DTSTART:20230110T150000Z
 SUMMARY:Zeta: 【Tsugunohi】knock knock\, who's there?
 UID:RyRVjw8Xpj0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Minecraft Hardcore 】目指せ168日生存🔥 #ござるマイクラハードコア🍖配信4日目！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=Oyi3dHKEnMI
+DURATION:PT2H
+DTSTART:20230110T090000Z
+SUMMARY:風真いろは: 【 Minecraft Hardcore 】目指せ168日生存🔥 #ござるマイクラハードコア🍖配信4日目！【風真いろは/ホロライブ】
+UID:Oyi3dHKEnMI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 ポケモンSV 】シガロコ色違い探しの旅にでます【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=NUiQSyE_h_g
@@ -333,18 +340,18 @@ SUMMARY:💫天音かなた: ぼっちと観る「ぼっち・ざ・ろっく！
 UID:BMPx81BpF8U
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Zatsudan】 I want to stream #JosuijiShinri #holoTEMPUS\nhttps://www.youtube.com/watch?v=WW3rZPjASKE
-DURATION:PT2H
-DTSTART:20230109T160000Z
-SUMMARY:Shinri: 【Zatsudan】 I want to stream #JosuijiShinri #holoTEMPUS
-UID:WW3rZPjASKE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 #アランの知的好奇心 】世界最強の辛み/旨み/苦味/酸味/甘味を混ぜるて食べると何が勝つ？【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=8oXND7X9pY8
 DURATION:PT2H
 DTSTART:20230111T110000Z
 SUMMARY:🍕アルランディス: 【 #アランの知的好奇心 】世界最強の辛み/旨み/苦味/酸味/甘味を混ぜるて食べると何が勝つ？【アルランディス/ホロスターズ】
 UID:8oXND7X9pY8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Zatsudan】 I want to stream #JosuijiShinri #holoTEMPUS\nhttps://www.youtube.com/watch?v=WW3rZPjASKE
+DURATION:PT2H
+DTSTART:20230109T160000Z
+SUMMARY:Shinri: 【Zatsudan】 I want to stream #JosuijiShinri #holoTEMPUS
+UID:WW3rZPjASKE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【JellyCar Worlds】VROOM VROOM MEP move aside now jellyreine is here【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=ruNg2xFwIys
@@ -361,13 +368,6 @@ SUMMARY:沙花叉クロヱ: 【ポケモンSV】ニャオハ色違い厳選2日�
 UID:ovvRVVwP4eU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Who's Who?】フレア視点【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=x8nPtcUi3y4
-DURATION:PT2H
-DTSTART:20230110T130000Z
-SUMMARY:🔥不知火フレア: 【Who's Who?】フレア視点【不知火フレア/ホロライブ】
-UID:x8nPtcUi3y4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【大神ミオ視点】NPCに紛れ込め？！存在感を消せ・・【 #ホロだぁれ 】\nhttps://www.youtube.com/watch?v=pLBRA32jz0c
 DURATION:PT2H
 DTSTART:20230110T130000Z
@@ -382,11 +382,25 @@ SUMMARY:🍷夕刻ロベル: 夕刻ロベル大賞 自画自賛部門ノミネ�
 UID:DZhkPqRGY9w
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Who's Who?】フレア視点【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=x8nPtcUi3y4
+DURATION:PT2H
+DTSTART:20230110T130000Z
+SUMMARY:🔥不知火フレア: 【Who's Who?】フレア視点【不知火フレア/ホロライブ】
+UID:x8nPtcUi3y4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ヨッシーアイランド】ほぼ初見🌟へたっぴマリオ、遂に赤ちゃんになる！！レトロゲーの時間だあああ！！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=1dHsH_rX2Cw
 DURATION:PT2H
 DTSTART:20230111T100000Z
 SUMMARY:博衣こより: 【ヨッシーアイランド】ほぼ初見🌟へたっぴマリオ、遂に赤ちゃんになる！！レトロゲーの時間だあああ！！！【博衣こより/ホロライブ】
 UID:1dHsH_rX2Cw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポケモンSV】ライムに会いにいくど！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=wq7FrVl6pE4
+DURATION:PT2H
+DTSTART:20230111T140000Z
+SUMMARY:🐏角巻わため: 【ポケモンSV】ライムに会いにいくど！【角巻わため/ホロライブ４期生】
+UID:wq7FrVl6pE4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 モンスターハンター：ワールド 】ゼロから始まるモンハン生活なのら！Monster Hunter：World【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=D1uAVhYkPi8
@@ -403,18 +417,18 @@ SUMMARY:Mumei: 【GEOGUESSR】Mumei Doko
 UID:Ogi9-VxIsV8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【星のカービィSDX】初見で遊ぶレトロカービィゲーム！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=sH3G_Z7ii94
-DURATION:PT2H
-DTSTART:20230109T150000Z
-SUMMARY:🌟夜空メル: 【星のカービィSDX】初見で遊ぶレトロカービィゲーム！【ホロライブ/夜空メル】
-UID:sH3G_Z7ii94
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Who's Who?】すんすん...これはNPCに紛れてかくれんぼする匂い！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=BLY6NBpxczw
 DURATION:PT2H
 DTSTART:20230110T130000Z
 SUMMARY:🐏角巻わため: 【Who's Who?】すんすん...これはNPCに紛れてかくれんぼする匂い！【角巻わため/ホロライブ４期生】
 UID:BLY6NBpxczw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【星のカービィSDX】初見で遊ぶレトロカービィゲーム！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=sH3G_Z7ii94
+DURATION:PT2H
+DTSTART:20230109T150000Z
+SUMMARY:🌟夜空メル: 【星のカービィSDX】初見で遊ぶレトロカービィゲーム！【ホロライブ/夜空メル】
+UID:sH3G_Z7ii94
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【油断禁物】いきなりバトルロワイヤル！【即電流！】\nhttps://www.youtube.com/watch?v=dJcvQtv39nA
@@ -501,18 +515,18 @@ SUMMARY:緋崎ガンマ: 【FPSゲームあるある】ボロ負けしたあと�
 UID:XlvjWkkwpA0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【POKEMON VIOLET】 STREAM​\nhttps://www.youtube.com/watch?v=_gll4c7lxlw
-DURATION:PT2H
-DTSTART:20230109T220000Z
-SUMMARY:Ina: 【POKEMON VIOLET】 STREAM​
-UID:_gll4c7lxlw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#朝こよ】火曜日の朝は朝こよ～☀正月ボケしてないか～⁉ #110【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=iioH4h-BY8A
 DURATION:PT2H
 DTSTART:20230109T220000Z
 SUMMARY:博衣こより: 【#朝こよ】火曜日の朝は朝こよ～☀正月ボケしてないか～⁉ #110【博衣こより/ホロライブ】
 UID:iioH4h-BY8A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【POKEMON VIOLET】 STREAM​\nhttps://www.youtube.com/watch?v=_gll4c7lxlw
+DURATION:PT2H
+DTSTART:20230109T220000Z
+SUMMARY:Ina: 【POKEMON VIOLET】 STREAM​
+UID:_gll4c7lxlw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #DJARN 】ちょうど180000人行きそうなので達成の瞬間を見ながらDJするぜ！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=y9B99Dy7mMg
