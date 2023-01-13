@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Sakuna: Of Rice And Ruin】Welcome To The Rice Fields\nhttps://www.youtube.com/watch?v=u38yU9oDOFc
+DESCRIPTION:≪JUST CHATTING≫ New Year Pocket Money Reading ft/ sneaky zatsu\nhttps://www.youtube.com/watch?v=1SG72NBkLnA
 DURATION:PT2H
 DTSTART:20230113T020000Z
-SUMMARY:Kronii: 【Sakuna: Of Rice And Ruin】Welcome To The Rice Fields
-UID:u38yU9oDOFc
+SUMMARY:Baelz: ≪JUST CHATTING≫ New Year Pocket Money Reading ft/ sneaky zatsu
+UID:1SG72NBkLnA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:sleepy owl time\nhttps://www.youtube.com/watch?v=4LC1ec3ORmk
+DURATION:PT2H
+DTSTART:20230112T033000Z
+SUMMARY:Mumei: sleepy owl time
+UID:4LC1ec3ORmk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Delivering Hope + ANNOUNCEMENT】Can I yeet far enough to deliver some Awesome News?!\nhttps://www.youtube.com/watch?v=oVvpZKbMvCs
+DURATION:PT2H
+DTSTART:20230112T010000Z
+SUMMARY:IRyS: 【Delivering Hope + ANNOUNCEMENT】Can I yeet far enough to deliver some Awesome News?!
+UID:oVvpZKbMvCs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【JUMP KING】 Remember Fauna? This is her now. Feel old yet?\nhttps://www.youtube.com/watch?v=jEWpLaY9Nsw
@@ -23,27 +37,6 @@ DURATION:PT2H
 DTSTART:20230111T220000Z
 SUMMARY:Ina: 【DRAWING】 = p=
 UID:q8JvpOL0k64
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪JUST CHATTING≫ New Year Pocket Money Reading ft/ sneaky zatsu\nhttps://www.youtube.com/watch?v=1SG72NBkLnA
-DURATION:PT2H
-DTSTART:20230113T020000Z
-SUMMARY:Baelz: ≪JUST CHATTING≫ New Year Pocket Money Reading ft/ sneaky zatsu
-UID:1SG72NBkLnA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Delivering Hope + ANNOUNCEMENT】Can I yeet far enough to deliver some Awesome News?!\nhttps://www.youtube.com/watch?v=oVvpZKbMvCs
-DURATION:PT2H
-DTSTART:20230112T010000Z
-SUMMARY:IRyS: 【Delivering Hope + ANNOUNCEMENT】Can I yeet far enough to deliver some Awesome News?!
-UID:oVvpZKbMvCs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:sleepy owl time\nhttps://www.youtube.com/watch?v=4LC1ec3ORmk
-DURATION:PT2H
-DTSTART:20230112T033000Z
-SUMMARY:Mumei: sleepy owl time
-UID:4LC1ec3ORmk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【A Little To The Left】Must... Clean...\nhttps://www.youtube.com/watch?v=3iTMNFNITRs
