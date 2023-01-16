@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【 Senin Produktif 】Trying to Make Hololive Swimsuit Design! 【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=XTVphHmSB4g
+DURATION:PT2H
+DTSTART:20230116T120000Z
+SUMMARY:🎨Iofi: 【 Senin Produktif 】Trying to Make Hololive Swimsuit Design! 【 iofi / ホロライブ 】
+UID:XTVphHmSB4g
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【プレイバック3Dストリーム】Find It/ UPROAR!!\nhttps://www.youtube.com/watch?v=5OcpzcZxX9E
 DURATION:PT2H
 DTSTART:20230116T090003Z
 SUMMARY:ホロスターズ: 【プレイバック3Dストリーム】Find It/ UPROAR!!
 UID:5OcpzcZxX9E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポケモンSV】フブポルVSリスナー　仲間と自爆！？ドキドキゆびふりマルチバトル【#フブポル】\nhttps://www.youtube.com/watch?v=rFGmMIeI85o
+DURATION:PT2H
+DTSTART:20230116T120000Z
+SUMMARY:🌽白上フブキ: 【ポケモンSV】フブポルVSリスナー　仲間と自爆！？ドキドキゆびふりマルチバトル【#フブポル】
+UID:rFGmMIeI85o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MONOPOLY】hahahahahahahaha!\nhttps://www.youtube.com/watch?v=rNXhyEwuDng
@@ -18,6 +32,13 @@ SUMMARY:Calli: 【MONOPOLY】hahahahahahahaha!
 UID:rNXhyEwuDng
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【APEX LEGENDS】WE CAN TRY OUT CUSTOM LOBBIES NOW!!【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=qZ-KZk_XNpc
+DURATION:PT2H
+DTSTART:20230117T110000Z
+SUMMARY:Ollie: 【APEX LEGENDS】WE CAN TRY OUT CUSTOM LOBBIES NOW!!【Hololive ID 2nd Generation】
+UID:qZ-KZk_XNpc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌】深夜の・お・う・た【ロボ子さん/ホロライブ】\nhttps://www.youtube.com/watch?v=wSzIQ0Ar31I
 DURATION:PT2H
 DTSTART:20230116T140000Z
@@ -25,11 +46,25 @@ SUMMARY:🤖ロボ子さん: 【歌】深夜の・お・う・た【ロボ子さ
 UID:wSzIQ0Ar31I
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 GeoGuessr 】Oレンズで世界旅行すっぞ！【 桃鈴ねね / Kiara 】\nhttps://www.youtube.com/watch?v=zRIVwKgU5Xw
+DURATION:PT2H
+DTSTART:20230117T090000Z
+SUMMARY:桃鈴ねね: 【 GeoGuessr 】Oレンズで世界旅行すっぞ！【 桃鈴ねね / Kiara 】
+UID:zRIVwKgU5Xw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Freetalk】Freetalk and Gossip【holoID】\nhttps://www.youtube.com/watch?v=VYj51AgrhQw
 DURATION:PT2H
 DTSTART:20230116T063000Z
 SUMMARY:🔮Moona: 【Freetalk】Freetalk and Gossip【holoID】
 UID:VYj51AgrhQw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【大魔界村】まじで3時間でクリアします！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=v4Fc8FHAPf0
+DURATION:PT2H
+DTSTART:20230116T120000Z
+SUMMARY:👯兎田ぺこら: 【大魔界村】まじで3時間でクリアします！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:v4Fc8FHAPf0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【同時視聴】BIRTHDAY IN HELL同時視聴&裏話【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=-DS09atcHiU
@@ -46,6 +81,20 @@ SUMMARY:🎭アステル・レダ: 【雑談】ひまやね【astelleda】
 UID:r-xWwJTXREU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Deeeer Simulator】2023年にモテるのは鹿男です【#緋崎ガンマ / #ホロスターズ /#vtuber / #holostars  】\nhttps://www.youtube.com/watch?v=gKJ7y6ZoObI
+DURATION:PT2H
+DTSTART:20230117T080000Z
+SUMMARY:緋崎ガンマ: 【Deeeer Simulator】2023年にモテるのは鹿男です【#緋崎ガンマ / #ホロスターズ /#vtuber / #holostars  】
+UID:gKJ7y6ZoObI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Zatsudan】 I want to chill #JosuijiShinri #holoTEMPUS\nhttps://www.youtube.com/watch?v=DfJIsZ-_h-A
+DURATION:PT2H
+DTSTART:20230117T160000Z
+SUMMARY:Shinri: 【Zatsudan】 I want to chill #JosuijiShinri #holoTEMPUS
+UID:DfJIsZ-_h-A
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:[Just Chatting] A WEEK IN REVIEW! #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=jTDTJbtm1fw
 DURATION:PT2H
 DTSTART:20230116T020000Z
@@ -60,11 +109,32 @@ SUMMARY:Kaela: 【PEJUANG SENIN】#34 wake up! it's Monday!!🌞【Kaela's Monda
 UID:_BYU5aCDZ7w
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Burger Bistro Story】i know the best burger recipe【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=WIQ-5NlObN8
+DURATION:PT2H
+DTSTART:20230116T150000Z
+SUMMARY:Kaela: 【Burger Bistro Story】i know the best burger recipe【Kaela Kovalskia / hololiveID】
+UID:WIQ-5NlObN8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Zatsudan】 I want to vibe #JosuijiShinri #holoTEMPUS\nhttps://www.youtube.com/watch?v=ENR7mLYgWkE
+DURATION:PT2H
+DTSTART:20230116T160000Z
+SUMMARY:Shinri: 【Zatsudan】 I want to vibe #JosuijiShinri #holoTEMPUS
+UID:ENR7mLYgWkE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ホロライブプロダクションの新人VTuberの配信環境 #shorts  #あるある #vtuber #ホロスターズ\nhttps://www.youtube.com/watch?v=tADZf4gNOv0
 DURATION:PT2H
 DTSTART:20230116T083018Z
 SUMMARY:緋崎ガンマ: ホロライブプロダクションの新人VTuberの配信環境 #shorts  #あるある #vtuber #ホロスターズ
 UID:tADZf4gNOv0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポケモンスカーレット】リーグにたのもー！！する。【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=J1zj7XoFiMo
+DURATION:PT2H
+DTSTART:20230116T133000Z
+SUMMARY:🐻ときのそら: 【ポケモンスカーレット】リーグにたのもー！！する。【#ときのそら生放送】
+UID:J1zj7XoFiMo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Overdose - なとり / Covered by 夜十神封魔\nhttps://www.youtube.com/watch?v=VCp5BRgH50s
@@ -81,11 +151,25 @@ SUMMARY:博衣こより: #9【SEKIRO】へたっぴ #こよりSEKIRO ～水生�
 UID:9s-foIW2MbI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【YABE】地獄のOMOTENASHI【荒咬オウガ HakosBaelz  友人A】\nhttps://www.youtube.com/watch?v=-MBAaMfRw4c
+DURATION:PT2H
+DTSTART:20230117T110000Z
+SUMMARY:荒咬オウガ: 【YABE】地獄のOMOTENASHI【荒咬オウガ HakosBaelz  友人A】
+UID:-MBAaMfRw4c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:同期敗北…ホロライブの清楚担当？まつり先輩に挑む、2人目の挑戦者：夜十神封魔 w/@NatsuiroMatsuri 【#夜十神封魔 #夏色まつり】\nhttps://www.youtube.com/watch?v=rBxQVBNTdZM
 DURATION:PT2H
 DTSTART:20230117T120000Z
 SUMMARY:夜十神封魔: 同期敗北…ホロライブの清楚担当？まつり先輩に挑む、2人目の挑戦者：夜十神封魔 w/@NatsuiroMatsuri 【#夜十神封魔 #夏色まつり】
 UID:rBxQVBNTdZM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【もろだし相撲】だしな！…テメーの"モロ"をよぉっ!!!【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=6alIxi5nEBc
+DURATION:PT2H
+DTSTART:20230116T103000Z
+SUMMARY:🍕アルランディス: 【もろだし相撲】だしな！…テメーの"モロ"をよぉっ!!!【アルランディス/ホロスターズ】
+UID:6alIxi5nEBc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【POKEMON VIOLET】 SURELY FIRST GYM TODAY 【#3】\nhttps://www.youtube.com/watch?v=byM5KKMz4ys
@@ -100,6 +184,13 @@ DURATION:PT2H
 DTSTART:20230116T120000Z
 SUMMARY:🥐戌神ころね: 【GC】ピクミン完全クリアとバッドエンド目指す配信【戌神ころね/ホロライブ】
 UID:j4cdHUH_PgY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Angels of Death】#2 |  I'm Pacing Myself Properly! | SPOILER ALERT | #machinaxflayon #holoTEMPUS\nhttps://www.youtube.com/watch?v=8wkPMFeb_j4
+DURATION:PT2H
+DTSTART:20230117T210000Z
+SUMMARY:Flayon: 【Angels of Death】#2 |  I'm Pacing Myself Properly! | SPOILER ALERT | #machinaxflayon #holoTEMPUS
+UID:8wkPMFeb_j4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Slice & Dice】 Is hard mode impossible?\nhttps://www.youtube.com/watch?v=FLagdbvt6CU
@@ -130,6 +221,13 @@ SUMMARY:👾常闇トワ: 【APEX】かじゅある【常闇トワ/ホロライ�
 UID:hDqNlAEcisA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Terraria】Collab w/ THE birb Banzoin Hakka #MachinaXFlayon | #holoTempus\nhttps://www.youtube.com/watch?v=s8AtblSwTmg
+DURATION:PT2H
+DTSTART:20230117T010000Z
+SUMMARY:Flayon: 【Terraria】Collab w/ THE birb Banzoin Hakka #MachinaXFlayon | #holoTempus
+UID:s8AtblSwTmg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:星街すいせい 2nd Album『SPECTER』先行クロスフェード\nhttps://www.youtube.com/watch?v=iR_r6qxZifY
 DURATION:PT2H
 DTSTART:20230116T120023Z
@@ -151,11 +249,18 @@ SUMMARY:🍙猫又おかゆ: 【ASMR】今年1年も頑張るためのASMR✨耳
 UID:nBjRxRm45NE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Terraria】Time to explore with my fav lil pilot boi Machi chan! #holoTEMPUS #Banzoinhakka【EN】\nhttps://www.youtube.com/watch?v=QugwccTMxOM
+DESCRIPTION:【晩酌】呑むわで【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=bzsEtxoFrf8
 DURATION:PT2H
-DTSTART:20230117T030000Z
-SUMMARY:Hakka: 【Terraria】Time to explore with my fav lil pilot boi Machi chan! #holoTEMPUS #Banzoinhakka【EN】
-UID:QugwccTMxOM
+DTSTART:20230116T120000Z
+SUMMARY:獅白ぼたん: 【晩酌】呑むわで【獅白ぼたん/ホロライブ】
+UID:bzsEtxoFrf8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【つぐのひ 忌み夜の喰霊品店】らっしゃっせー！深夜バイトはじめます！！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=JNGWvBnzRQ8
+DURATION:PT2H
+DTSTART:20230116T140000Z
+SUMMARY:🌟夜空メル: 【つぐのひ 忌み夜の喰霊品店】らっしゃっせー！深夜バイトはじめます！！【ホロライブ/夜空メル】
+UID:JNGWvBnzRQ8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【The Convenience Store】 where are my 30% off bentos? #JosuijiShinri #holoTEMPUS\nhttps://www.youtube.com/watch?v=km7vAjEqTRo
@@ -163,6 +268,27 @@ DURATION:PT2H
 DTSTART:20230116T040000Z
 SUMMARY:Shinri: 【The Convenience Store】 where are my 30% off bentos? #JosuijiShinri #holoTEMPUS
 UID:km7vAjEqTRo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#朝ミオ 】月曜日だよ～おはみぉーん！まだまだ正月気分～\nhttps://www.youtube.com/watch?v=slxIrQYQD9I
+DURATION:PT2H
+DTSTART:20230115T223000Z
+SUMMARY:🌲大神ミオ: 【#朝ミオ 】月曜日だよ～おはみぉーん！まだまだ正月気分～
+UID:slxIrQYQD9I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Superchat Reading】Thank you for your patience..! | Machina X Flayon | holoTempus |\nhttps://www.youtube.com/watch?v=sfyzCpl3gG8
+DURATION:PT2H
+DTSTART:20230116T210000Z
+SUMMARY:Flayon: 【Superchat Reading】Thank you for your patience..! | Machina X Flayon | holoTempus |
+UID:sfyzCpl3gG8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Terraria】Time to explore with my fav lil pilot boi Machi chan! #holoTEMPUS #Banzoinhakka【EN】\nhttps://www.youtube.com/watch?v=QugwccTMxOM
+DURATION:PT2H
+DTSTART:20230117T030000Z
+SUMMARY:Hakka: 【Terraria】Time to explore with my fav lil pilot boi Machi chan! #holoTEMPUS #Banzoinhakka【EN】
+UID:QugwccTMxOM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:つぐのひのキャラクターのCV絶対に間違えた人 #shorts  #Vtuber\nhttps://www.youtube.com/watch?v=fBHkbBBdfE4
@@ -228,11 +354,32 @@ SUMMARY:🍙猫又おかゆ: 【歌枠】アニソン縛りでいろいろ歌う
 UID:f_IZLhU5Fq8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【マリオカート8DX】レート上げいくでござる🔥スナイプOK✨6849スタート！！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=NmQidRNDlUM
+DURATION:PT2H
+DTSTART:20230116T090000Z
+SUMMARY:風真いろは: 【マリオカート8DX】レート上げいくでござる🔥スナイプOK✨6849スタート！！【風真いろは/ホロライブ】
+UID:NmQidRNDlUM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ASMR】メン限お試しメスガキASMR/KU100【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=qst77t-8yDE
 DURATION:PT2H
 DTSTART:20230118T130000Z
 SUMMARY:🏮夏色まつり: 【ASMR】メン限お試しメスガキASMR/KU100【ホロライブ/夏色まつり】
 UID:qst77t-8yDE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[21秒ロングトーン] unravel - 天音かなた 3DLIVE  "別世界" [Hololive]\nhttps://www.youtube.com/watch?v=m7MuUadCV90
+DURATION:PT2H
+DTSTART:20230117T090000Z
+SUMMARY:💫天音かなた: [21秒ロングトーン] unravel - 天音かなた 3DLIVE  "別世界" [Hololive]
+UID:m7MuUadCV90
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【130万人耐久】トークで130万人登録者耐久するぞ！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=_CmU5Xe384E
+DURATION:PT2H
+DTSTART:20230116T100000Z
+SUMMARY:💫天音かなた: 【130万人耐久】トークで130万人登録者耐久するぞ！！【天音かなた/ホロライブ】
+UID:_CmU5Xe384E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【CHICKEN FEET】Avian Footsies\nhttps://www.youtube.com/watch?v=RLPo4FEMrEM
@@ -256,6 +403,13 @@ SUMMARY:Shinri: 【What the Golf?】 Old man gets into golfing shenanigans #Josu
 UID:BfVNoX_-OPc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【GeoGuessr】フレアちゃんのPONKOTUさんぽ～此処何処～【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=JjGrcDvvBxE
+DURATION:PT2H
+DTSTART:20230116T130000Z
+SUMMARY:🔥不知火フレア: 【GeoGuessr】フレアちゃんのPONKOTUさんぽ～此処何処～【不知火フレア/ホロライブ】
+UID:JjGrcDvvBxE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ARCHIVED(?) KARAOKE】Let's Test My Stamina..!【Machina X Flayon | holoTempus】\nhttps://www.youtube.com/watch?v=itX5dmajl4g
 DURATION:PT2H
 DTSTART:20230116T010000Z
@@ -270,174 +424,6 @@ SUMMARY:夜十神封魔: 【10万人(+α)耐久】※目標達成で告知あり
 UID:pmJ66abHtSQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:LA HEE (Patch 5.0) 【Final Fantasy XIV】\nhttps://www.youtube.com/watch?v=U6eKTAKsJts
-DURATION:PT2H
-DTSTART:20230116T150000Z
-SUMMARY:Altare: LA HEE (Patch 5.0) 【Final Fantasy XIV】
-UID:U6eKTAKsJts
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Hello Neighbor 2 DLC】#3 本編クリア後の世界！未だ残る謎は解明されるのか…!?【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=nfcc6q9hbiQ
-DURATION:PT2H
-DTSTART:20230117T100000Z
-SUMMARY:🍕アルランディス: 【Hello Neighbor 2 DLC】#3 本編クリア後の世界！未だ残る謎は解明されるのか…!?【アルランディス/ホロスターズ】
-UID:nfcc6q9hbiQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Senin Produktif 】Trying to Make Hololive Swimsuit Design! 【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=XTVphHmSB4g
-DURATION:PT2H
-DTSTART:20230116T120000Z
-SUMMARY:🎨Iofi: 【 Senin Produktif 】Trying to Make Hololive Swimsuit Design! 【 iofi / ホロライブ 】
-UID:XTVphHmSB4g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンSV】フブポルVSリスナー　仲間と自爆！？ドキドキゆびふりマルチバトル【#フブポル】\nhttps://www.youtube.com/watch?v=rFGmMIeI85o
-DURATION:PT2H
-DTSTART:20230116T120000Z
-SUMMARY:🌽白上フブキ: 【ポケモンSV】フブポルVSリスナー　仲間と自爆！？ドキドキゆびふりマルチバトル【#フブポル】
-UID:rFGmMIeI85o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX LEGENDS】WE CAN TRY OUT CUSTOM LOBBIES NOW!!【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=qZ-KZk_XNpc
-DURATION:PT2H
-DTSTART:20230117T110000Z
-SUMMARY:Ollie: 【APEX LEGENDS】WE CAN TRY OUT CUSTOM LOBBIES NOW!!【Hololive ID 2nd Generation】
-UID:qZ-KZk_XNpc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 GeoGuessr 】Oレンズで世界旅行すっぞ！【 桃鈴ねね / Kiara 】\nhttps://www.youtube.com/watch?v=zRIVwKgU5Xw
-DURATION:PT2H
-DTSTART:20230117T090000Z
-SUMMARY:桃鈴ねね: 【 GeoGuessr 】Oレンズで世界旅行すっぞ！【 桃鈴ねね / Kiara 】
-UID:zRIVwKgU5Xw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【大魔界村】まじで3時間でクリアします！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=v4Fc8FHAPf0
-DURATION:PT2H
-DTSTART:20230116T120000Z
-SUMMARY:👯兎田ぺこら: 【大魔界村】まじで3時間でクリアします！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:v4Fc8FHAPf0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Deeeer Simulator】2023年にモテるのは鹿男です【#緋崎ガンマ / #ホロスターズ /#vtuber / #holostars  】\nhttps://www.youtube.com/watch?v=gKJ7y6ZoObI
-DURATION:PT2H
-DTSTART:20230117T080000Z
-SUMMARY:緋崎ガンマ: 【Deeeer Simulator】2023年にモテるのは鹿男です【#緋崎ガンマ / #ホロスターズ /#vtuber / #holostars  】
-UID:gKJ7y6ZoObI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【日本地図テスト】地理苦手が47都道府県テストに挑戦！先に謝ります。ごめんなさい。【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=1vPk-CmmPjo
-DURATION:PT2H
-DTSTART:20230116T140000Z
-SUMMARY:鷹嶺ルイ: 【日本地図テスト】地理苦手が47都道府県テストに挑戦！先に謝ります。ごめんなさい。【鷹嶺ルイ/ホロライブ】
-UID:1vPk-CmmPjo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Zatsudan】 I want to chill #JosuijiShinri #holoTEMPUS\nhttps://www.youtube.com/watch?v=DfJIsZ-_h-A
-DURATION:PT2H
-DTSTART:20230117T160000Z
-SUMMARY:Shinri: 【Zatsudan】 I want to chill #JosuijiShinri #holoTEMPUS
-UID:DfJIsZ-_h-A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Burger Bistro Story】i know the best burger recipe【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=WIQ-5NlObN8
-DURATION:PT2H
-DTSTART:20230116T150000Z
-SUMMARY:Kaela: 【Burger Bistro Story】i know the best burger recipe【Kaela Kovalskia / hololiveID】
-UID:WIQ-5NlObN8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Zatsudan】 I want to vibe #JosuijiShinri #holoTEMPUS\nhttps://www.youtube.com/watch?v=ENR7mLYgWkE
-DURATION:PT2H
-DTSTART:20230116T160000Z
-SUMMARY:Shinri: 【Zatsudan】 I want to vibe #JosuijiShinri #holoTEMPUS
-UID:ENR7mLYgWkE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンスカーレット】リーグにたのもー！！する。【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=J1zj7XoFiMo
-DURATION:PT2H
-DTSTART:20230116T133000Z
-SUMMARY:🐻ときのそら: 【ポケモンスカーレット】リーグにたのもー！！する。【#ときのそら生放送】
-UID:J1zj7XoFiMo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Angels of Death】#2 |  I'm Pacing Myself Properly! | SPOILER ALERT | #machinaxflayon #holoTEMPUS\nhttps://www.youtube.com/watch?v=8wkPMFeb_j4
-DURATION:PT2H
-DTSTART:20230117T210000Z
-SUMMARY:Flayon: 【Angels of Death】#2 |  I'm Pacing Myself Properly! | SPOILER ALERT | #machinaxflayon #holoTEMPUS
-UID:8wkPMFeb_j4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【YABE】地獄のOMOTENASHI【荒咬オウガ HakosBaelz  友人A】\nhttps://www.youtube.com/watch?v=-MBAaMfRw4c
-DURATION:PT2H
-DTSTART:20230117T110000Z
-SUMMARY:荒咬オウガ: 【YABE】地獄のOMOTENASHI【荒咬オウガ HakosBaelz  友人A】
-UID:-MBAaMfRw4c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【もろだし相撲】だしな！…テメーの"モロ"をよぉっ!!!【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=6alIxi5nEBc
-DURATION:PT2H
-DTSTART:20230116T103000Z
-SUMMARY:🍕アルランディス: 【もろだし相撲】だしな！…テメーの"モロ"をよぉっ!!!【アルランディス/ホロスターズ】
-UID:6alIxi5nEBc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Terraria】Collab w/ THE birb Banzoin Hakka #MachinaXFlayon | #holoTempus\nhttps://www.youtube.com/watch?v=s8AtblSwTmg
-DURATION:PT2H
-DTSTART:20230117T010000Z
-SUMMARY:Flayon: 【Terraria】Collab w/ THE birb Banzoin Hakka #MachinaXFlayon | #holoTempus
-UID:s8AtblSwTmg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【晩酌】呑むわで【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=bzsEtxoFrf8
-DURATION:PT2H
-DTSTART:20230116T120000Z
-SUMMARY:獅白ぼたん: 【晩酌】呑むわで【獅白ぼたん/ホロライブ】
-UID:bzsEtxoFrf8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【つぐのひ 忌み夜の喰霊品店】らっしゃっせー！深夜バイトはじめます！！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=JNGWvBnzRQ8
-DURATION:PT2H
-DTSTART:20230116T140000Z
-SUMMARY:🌟夜空メル: 【つぐのひ 忌み夜の喰霊品店】らっしゃっせー！深夜バイトはじめます！！【ホロライブ/夜空メル】
-UID:JNGWvBnzRQ8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Superchat Reading】Thank you for your patience..! | Machina X Flayon | holoTempus |\nhttps://www.youtube.com/watch?v=sfyzCpl3gG8
-DURATION:PT2H
-DTSTART:20230116T210000Z
-SUMMARY:Flayon: 【Superchat Reading】Thank you for your patience..! | Machina X Flayon | holoTempus |
-UID:sfyzCpl3gG8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#朝ミオ 】月曜日だよ～おはみぉーん！まだまだ正月気分～\nhttps://www.youtube.com/watch?v=slxIrQYQD9I
-DURATION:PT2H
-DTSTART:20230115T223000Z
-SUMMARY:🌲大神ミオ: 【#朝ミオ 】月曜日だよ～おはみぉーん！まだまだ正月気分～
-UID:slxIrQYQD9I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオカート8DX】レート上げいくでござる🔥スナイプOK✨6849スタート！！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=NmQidRNDlUM
-DURATION:PT2H
-DTSTART:20230116T090000Z
-SUMMARY:風真いろは: 【マリオカート8DX】レート上げいくでござる🔥スナイプOK✨6849スタート！！【風真いろは/ホロライブ】
-UID:NmQidRNDlUM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【130万人耐久】トークで130万人登録者耐久するぞ！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=_CmU5Xe384E
-DURATION:PT2H
-DTSTART:20230116T100000Z
-SUMMARY:💫天音かなた: 【130万人耐久】トークで130万人登録者耐久するぞ！！【天音かなた/ホロライブ】
-UID:_CmU5Xe384E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【GeoGuessr】フレアちゃんのPONKOTUさんぽ～此処何処～【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=JjGrcDvvBxE
-DURATION:PT2H
-DTSTART:20230116T130000Z
-SUMMARY:🔥不知火フレア: 【GeoGuessr】フレアちゃんのPONKOTUさんぽ～此処何処～【不知火フレア/ホロライブ】
-UID:JjGrcDvvBxE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【プレイバック3Dストリーム】Find It/ UPROAR!!【同時視聴副音声ver.】\nhttps://www.youtube.com/watch?v=sr4ltYA6a2Y
 DURATION:PT2H
 DTSTART:20230116T090021Z
@@ -450,5 +436,12 @@ DURATION:PT2H
 DTSTART:20230116T220000Z
 SUMMARY:博衣こより: 【#朝こよ】わんわんわん！の回！火曜日の朝は朝こよでキマリ☀ #111【博衣こより/ホロライブ】
 UID:zZJzHs-1zJ0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Hello Neighbor 2 DLC】#3 本編クリア後の世界！未だ残る謎は解明されるのか…!?【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=nfcc6q9hbiQ
+DURATION:PT2H
+DTSTART:20230117T100000Z
+SUMMARY:🍕アルランディス: 【Hello Neighbor 2 DLC】#3 本編クリア後の世界！未だ残る謎は解明されるのか…!?【アルランディス/ホロスターズ】
+UID:nfcc6q9hbiQ
 END:VEVENT
 END:VCALENDAR
