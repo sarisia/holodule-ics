@@ -4,18 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Geoguessr】Where am I-RyS?\nhttps://www.youtube.com/watch?v=KNRxBP_SW-4
+DESCRIPTION:【MONOPOLY】hahahahahahahaha!\nhttps://www.youtube.com/watch?v=rNXhyEwuDng
 DURATION:PT2H
-DTSTART:20230115T020000Z
-SUMMARY:IRyS: 【Geoguessr】Where am I-RyS?
-UID:KNRxBP_SW-4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CHITCHAT】Sharing Stories and Memories! ここまでの日本の思い出話など！　#kfp #キアライブ\nhttps://www.youtube.com/watch?v=ene9_qT9-0s
-DURATION:PT2H
-DTSTART:20230116T083000Z
-SUMMARY:Kiara: 【CHITCHAT】Sharing Stories and Memories! ここまでの日本の思い出話など！　#kfp #キアライブ
-UID:ene9_qT9-0s
+DTSTART:20230116T021500Z
+SUMMARY:Calli: 【MONOPOLY】hahahahahahahaha!
+UID:rNXhyEwuDng
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Off Collab】Wario Shenanigans with LUI! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=cVJefDjefUs
@@ -39,17 +32,31 @@ SUMMARY:Ina: 【POKEMON VIOLET】 SURELY FIRST GYM TODAY 【#3】
 UID:byM5KKMz4ys
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【supa catchup】 jetlagged deer chats and reads superchats 🤓\nhttps://www.youtube.com/watch?v=rdMoviDokOg
-DURATION:PT2H
-DTSTART:20230114T230000Z
-SUMMARY:Fauna: 【supa catchup】 jetlagged deer chats and reads superchats 🤓
-UID:rdMoviDokOg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Slice & Dice】 Is hard mode impossible?\nhttps://www.youtube.com/watch?v=FLagdbvt6CU
 DURATION:PT2H
 DTSTART:20230116T230000Z
 SUMMARY:Fauna: 【Slice & Dice】 Is hard mode impossible?
 UID:FLagdbvt6CU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Geoguessr】Where am I-RyS?\nhttps://www.youtube.com/watch?v=KNRxBP_SW-4
+DURATION:PT2H
+DTSTART:20230115T020000Z
+SUMMARY:IRyS: 【Geoguessr】Where am I-RyS?
+UID:KNRxBP_SW-4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CHITCHAT】Sharing Stories and Memories! ここまでの日本の思い出話など！　#kfp #キアライブ\nhttps://www.youtube.com/watch?v=ene9_qT9-0s
+DURATION:PT2H
+DTSTART:20230116T083000Z
+SUMMARY:Kiara: 【CHITCHAT】Sharing Stories and Memories! ここまでの日本の思い出話など！　#kfp #キアライブ
+UID:ene9_qT9-0s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【supa catchup】 jetlagged deer chats and reads superchats 🤓\nhttps://www.youtube.com/watch?v=rdMoviDokOg
+DURATION:PT2H
+DTSTART:20230114T230000Z
+SUMMARY:Fauna: 【supa catchup】 jetlagged deer chats and reads superchats 🤓
+UID:rdMoviDokOg
 END:VEVENT
 END:VCALENDAR
