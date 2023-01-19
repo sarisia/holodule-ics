@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Deep Rock Galactic】ROCK AND STONE\nhttps://www.youtube.com/watch?v=yXEEqMO5uyw
+DURATION:PT2H
+DTSTART:20230119T130000Z
+SUMMARY:Zeta: 【Deep Rock Galactic】ROCK AND STONE
+UID:yXEEqMO5uyw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 DANGANRONPA CH 2 】TH*NGS FOR BYAKUYA【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=wBD7YxO8XtI
 DURATION:PT2H
 DTSTART:20230118T120000Z
@@ -46,13 +53,6 @@ SUMMARY:Anya: 【Before The Night】More Lores\, More Mysteries... ストーリ�
 UID:JF0pwkapIrg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Golf It !】If there is a hole\, there is a GOAL !!! with @KureijiOllie  【Ayunda Risu】\nhttps://www.youtube.com/watch?v=jczK_Vzu7Ro
-DURATION:PT2H
-DTSTART:20230118T100000Z
-SUMMARY:🐿Risu: 【Golf It !】If there is a hole\, there is a GOAL !!! with @KureijiOllie  【Ayunda Risu】
-UID:jczK_Vzu7Ro
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Burger Bistro Story】the business must grow【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=WgK1HQnZPsg
 DURATION:PT2H
 DTSTART:20230118T070000Z
@@ -65,6 +65,13 @@ DURATION:PT2H
 DTSTART:20230119T025929Z
 SUMMARY:Ollie: 【GEOGUESSR】EXCUSE ME I SEEM TO BE LOST\, IN YOUR EYES~【Hololive Indonesia 2nd Gen】
 UID:YS1k2ftQTGg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DONO READING + FREETALK】EVER IMAGINED HOW IT FEELS LIKE TO LIVE AS A CORN?【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=XeLHFnZQMvU
+DURATION:PT2H
+DTSTART:20230120T113000Z
+SUMMARY:Ollie: 【DONO READING + FREETALK】EVER IMAGINED HOW IT FEELS LIKE TO LIVE AS A CORN?【Hololive ID 2nd Gen】
+UID:XeLHFnZQMvU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【JellyCar Worlds】game stress【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=RWZ9orpCNso
@@ -123,11 +130,11 @@ SUMMARY:Reine: 【日本語でホラゲ】つぐのひ新作！留学生レイ�
 UID:VMdTufViMJs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DONO READING + FREETALK】EVER IMAGINED HOW IT FEELS LIKE TO LIVE AS A CORN?【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=XeLHFnZQMvU
+DESCRIPTION:【Golf It !】If there is a hole\, there is a GOAL !!! with @KureijiOllie  【Ayunda Risu】\nhttps://www.youtube.com/watch?v=jczK_Vzu7Ro
 DURATION:PT2H
-DTSTART:20230120T113000Z
-SUMMARY:Ollie: 【DONO READING + FREETALK】EVER IMAGINED HOW IT FEELS LIKE TO LIVE AS A CORN?【Hololive ID 2nd Gen】
-UID:XeLHFnZQMvU
+DTSTART:20230118T100000Z
+SUMMARY:🐿Risu: 【Golf It !】If there is a hole\, there is a GOAL !!! with @KureijiOllie  【Ayunda Risu】
+UID:jczK_Vzu7Ro
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】new journey starts! learning minecraft... 📚【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=Cy9eKtfVCCw
