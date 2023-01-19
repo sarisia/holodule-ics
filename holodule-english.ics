@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【COLLAB】Drawing with INA !! yum yum\nhttps://www.youtube.com/watch?v=sdZSs87MXjo
-DURATION:PT2H
-DTSTART:20230119T010500Z
-SUMMARY:Mumei: 【COLLAB】Drawing with INA !! yum yum
-UID:sdZSs87MXjo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Off Collab】BIRBS SCREAMING IN LOCAL SUPERMARKET #kfp #キアライブ\nhttps://www.youtube.com/watch?v=81fm_ThsFys
 DURATION:PT2H
 DTSTART:20230118T073000Z
 SUMMARY:Kiara: 【Off Collab】BIRBS SCREAMING IN LOCAL SUPERMARKET #kfp #キアライブ
 UID:81fm_ThsFys
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ChikuTaku - Original Song ✨ チクタク - オリジナル曲\nhttps://www.youtube.com/watch?v=fYVweqOW31w
-DURATION:PT2H
-DTSTART:20230118T033000Z
-SUMMARY:Amelia: ChikuTaku - Original Song ✨ チクタク - オリジナル曲
-UID:fYVweqOW31w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Chill Build】Chatting and making a cat tower for Tutu!\nhttps://www.youtube.com/watch?v=BkghggEQzjo
@@ -32,11 +18,18 @@ SUMMARY:Calli: 【Chill Build】Chatting and making a cat tower for Tutu!
 UID:BkghggEQzjo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Pokémon Violet】 Ara ara\, who do we have here? | #6\nhttps://www.youtube.com/watch?v=-5FHkexckEE
+DESCRIPTION:ChikuTaku - Original Song ✨ チクタク - オリジナル曲\nhttps://www.youtube.com/watch?v=fYVweqOW31w
 DURATION:PT2H
-DTSTART:20230118T230000Z
-SUMMARY:Fauna: 【Pokémon Violet】 Ara ara\, who do we have here? | #6
-UID:-5FHkexckEE
+DTSTART:20230118T033000Z
+SUMMARY:Amelia: ChikuTaku - Original Song ✨ チクタク - オリジナル曲
+UID:fYVweqOW31w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【COLLAB】Drawing with INA !! yum yum\nhttps://www.youtube.com/watch?v=sdZSs87MXjo
+DURATION:PT2H
+DTSTART:20230119T010500Z
+SUMMARY:Mumei: 【COLLAB】Drawing with INA !! yum yum
+UID:sdZSs87MXjo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Geoguessr】Nice\nhttps://www.youtube.com/watch?v=WfPnfI6lAxw
