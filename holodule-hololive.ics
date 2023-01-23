@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【GeoGuessr】RTAチャレンジ！日本マップ【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=4iyKOmwzCP8
+DURATION:PT2H
+DTSTART:20230123T133000Z
+SUMMARY:⚒AZKi: 【GeoGuessr】RTAチャレンジ！日本マップ【ホロライブ / AZKi】
+UID:4iyKOmwzCP8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】遂にホロ鯖に侵略へ…。まずは拠点だ！！！ #SSholox 【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=ONcHnBnI84A
 DURATION:PT2H
 DTSTART:20230122T120000Z
 SUMMARY:鷹嶺ルイ: 【Minecraft】遂にホロ鯖に侵略へ…。まずは拠点だ！！！ #SSholox 【鷹嶺ルイ/ホロライブ】
 UID:ONcHnBnI84A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【重大告知】しながら歌います！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=kLaCHy7UxXY
+DURATION:PT2H
+DTSTART:20230123T120000Z
+SUMMARY:🐻ときのそら: 【重大告知】しながら歌います！！【#ときのそら生放送】
+UID:kLaCHy7UxXY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 FCスーパーマリオブラザーズ3 】完全初見で挑む騒がしいマリオブラザーズ３、にぇ！！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=t81SOMmgPYQ
@@ -79,13 +93,6 @@ DURATION:PT2H
 DTSTART:20230123T100000Z
 SUMMARY:💫天音かなた: 【ポケモンSV】完全初見！ゴツい顔ポケモン縛り！！ #06【天音かなた/ホロライブ】
 UID:Se-BxB9mmWw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Member Only 】＊直筆サイン書き＆スパチャ読み＊しながら雑談す～る♡メン限 【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=O8vzOF0ieew
-DURATION:PT2H
-DTSTART:20230123T110000Z
-SUMMARY:🍬姫森ルーナ: 【 Member Only 】＊直筆サイン書き＆スパチャ読み＊しながら雑談す～る♡メン限 【姫森ルーナ/ホロライブ】
-UID:O8vzOF0ieew
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【カメラ/料理】兎田家秘伝のハンバーグの作り方を大公開！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=tI3kVaMDAAc

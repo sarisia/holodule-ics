@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【GeoGuessr】RTAチャレンジ！日本マップ【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=4iyKOmwzCP8
+DURATION:PT2H
+DTSTART:20230123T133000Z
+SUMMARY:⚒AZKi: 【GeoGuessr】RTAチャレンジ！日本マップ【ホロライブ / AZKi】
+UID:4iyKOmwzCP8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】遂にホロ鯖に侵略へ…。まずは拠点だ！！！ #SSholox 【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=ONcHnBnI84A
 DURATION:PT2H
 DTSTART:20230122T120000Z
@@ -79,13 +86,6 @@ DURATION:PT2H
 DTSTART:20230122T030000Z
 SUMMARY:ENHOLOSTARS: YAGOO'S DREAM #holoTEMPUS
 UID:P4jkgwmYaLY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Member Only 】＊直筆サイン書き＆スパチャ読み＊しながら雑談す～る♡メン限 【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=O8vzOF0ieew
-DURATION:PT2H
-DTSTART:20230123T110000Z
-SUMMARY:🍬姫森ルーナ: 【 Member Only 】＊直筆サイン書き＆スパチャ読み＊しながら雑談す～る♡メン限 【姫森ルーナ/ホロライブ】
-UID:O8vzOF0ieew
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ネタバレあり】FF14☓ニーアコラボ/ YoRHa : Dark Apocalypse【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=asUX7gBYNrU
@@ -167,7 +167,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【A SPACE FOR THE UNBOUND】PIXEL GAME IN THE 90s RURAL INDONESIA【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=w7tu1F8HbDw
 DURATION:PT2H
-DTSTART:20230123T110000Z
+DTSTART:20230123T105936Z
 SUMMARY:Ollie: 【A SPACE FOR THE UNBOUND】PIXEL GAME IN THE 90s RURAL INDONESIA【Hololive Indonesia 2nd Gen】
 UID:w7tu1F8HbDw
 END:VEVENT
@@ -284,6 +284,13 @@ SUMMARY:博衣こより: 【ヨッシーアイランド】初見🌟へたっぴ
 UID:1WqklwtTF_8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【雑談】寒波来てるらしいぞおい【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=dn33kNzUnqc
+DURATION:PT2H
+DTSTART:20230123T080000Z
+SUMMARY:🍷夕刻ロベル: 【雑談】寒波来てるらしいぞおい【夕刻ロベル/ホロスターズ】
+UID:dn33kNzUnqc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談Minecraft】Welcome New TEMPUS bro!! TEMPUS新メンバーの顔を作ろう！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=eo8XGJysBuk
 DURATION:PT2H
 DTSTART:20230123T140000Z
@@ -303,6 +310,13 @@ DURATION:PT2H
 DTSTART:20230122T063000Z
 SUMMARY:🦔💨岸堂天真: 【マリカ】レート16266~ 2月の目標は17500!!【岸堂天真/ホロスターズ】
 UID:3gitaE5zCwA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【重大告知】しながら歌います！！【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=kLaCHy7UxXY
+DURATION:PT2H
+DTSTART:20230123T120000Z
+SUMMARY:🐻ときのそら: 【重大告知】しながら歌います！！【#ときのそら生放送】
+UID:kLaCHy7UxXY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】おはようカウンター！100人に「おはよう」言う。【夜十神封魔/UPROAR!!】\nhttps://www.youtube.com/watch?v=AhEFHtZQUX4
