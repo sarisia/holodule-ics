@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【GeoGuessr】RTAチャレンジ！日本マップ【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=4iyKOmwzCP8
+DURATION:PT2H
+DTSTART:20230123T133000Z
+SUMMARY:⚒AZKi: 【GeoGuessr】RTAチャレンジ！日本マップ【ホロライブ / AZKi】
+UID:4iyKOmwzCP8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#朝ミオ 】月曜日だよ！もう１月が終わっちゃいそう～おはみぉーん！\nhttps://www.youtube.com/watch?v=goUFWz8vF58
 DURATION:PT2H
 DTSTART:20230122T223000Z
@@ -121,13 +128,6 @@ DURATION:PT2H
 DTSTART:20230124T100000Z
 SUMMARY:博衣こより: 【ヨッシーアイランド】初見🌟へたっぴマリオシリーズ！できるだけ高得点を目指し頑張る赤ちゃん👶【博衣こより/ホロライブ】
 UID:1WqklwtTF_8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Minecraft Hardcore 】目指せ168日生存🔥 #ござるマイクラハードコア🍖配信8日目！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=y0ZL-SSmmlY
-DURATION:PT2H
-DTSTART:20230123T140000Z
-SUMMARY:風真いろは: 【 Minecraft Hardcore 】目指せ168日生存🔥 #ござるマイクラハードコア🍖配信8日目！【風真いろは/ホロライブ】
-UID:y0ZL-SSmmlY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【フラグ】おれ、この番組が終わったら…【テンプレ】\nhttps://www.youtube.com/watch?v=eP_gdUo4jsc
