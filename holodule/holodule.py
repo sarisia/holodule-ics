@@ -15,7 +15,6 @@ TARGET = [
     "all",
     "hololive",
     "holostars",
-    "innk",
     "indonesia",
     "english",
     "holostars_english",

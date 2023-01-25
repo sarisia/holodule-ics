@@ -14,7 +14,6 @@ to any calendar apps that supports `ics` format!
 | All | https://sarisia.cc/holodule-ics/holodule-all.ics |
 | Hololive | https://sarisia.cc/holodule-ics/holodule-hololive.ics |
 | Holostars | https://sarisia.cc/holodule-ics/holodule-holostars.ics |
-| INNK | https://sarisia.cc/holodule-ics/holodule-innk.ics |
 | Indonesia | https://sarisia.cc/holodule-ics/holodule-indonesia.ics |
 | English | https://sarisia.cc/holodule-ics/holodule-english.ics |
 | HOLOSTARS English | https://sarisia.cc/holodule-ics/holodule-holostars_english.ics |
