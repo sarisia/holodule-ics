@@ -17,16 +17,18 @@ TARGET = [
     "holostars",
     "innk",
     "indonesia",
-    "english"
+    "english",
+    "holostars_english",
 ]
 log = getLogger(__name__)
 
-class Holodule():
-    def __init__(self, holodule_page:str, youtube_key:str, save_dir:str) -> None:
+
+class Holodule:
+    def __init__(self, holodule_page: str, youtube_key: str, save_dir: str) -> None:
         self.page_url = holodule_page
         self.yt_key = youtube_key
         self.save_dir = save_dir
-        
+
         self.session = None
         self.videos = {}
 
@@ -36,7 +38,7 @@ class Holodule():
         # https://github.com/aio-libs/aiohttp/blob/fe647a08d1acb53404b703b46b37409602ab18b4/aiohttp/client.py#L986
         self.session = ClientSession(
             timeout=ClientTimeout(total=30),
-            headers={ "User-Agent": "sarisia/holodule-ics" }
+            headers={"User-Agent": "sarisia/holodule-ics"},
         )
 
         status = 0
@@ -62,7 +64,7 @@ class Holodule():
                 schedules[t] = Schedule(t, elem[0])
 
         # currently 'all' has all video ids so fetch this
-        video_ids = schedules['all'].video_ids
+        video_ids = schedules["all"].video_ids
         await self.get_videos(video_ids)
 
         for s in schedules.values():
@@ -75,7 +77,7 @@ class Holodule():
 
         log.info("Done!")
 
-    async def get_page(self, target:str="") -> Optional[Tuple[str, str]]:
+    async def get_page(self, target: str = "") -> Optional[Tuple[str, str]]:
         log.info(f"({target}) getting page...")
         try:
             async with self.session.get(f"{self.page_url}/{target}") as resp:
@@ -83,13 +85,13 @@ class Holodule():
                 if resp.status != 200:
                     log.error(f"({target}) failed to get: {resp.status} {text}'")
                     return
-                    
+
                 return target, text
         except:
             log.error(f"unhandled: ", exc_info=True)
 
-    async def get_pages(self, targets:Sequence[str]) -> Dict[str, str]:
-        pages: Dict[str, str] = {} # target: content
+    async def get_pages(self, targets: Sequence[str]) -> Dict[str, str]:
+        pages: Dict[str, str] = {}  # target: content
         tasks = [self.get_page(t) for t in targets]
         res = [r for r in await asyncio.gather(*tasks) if r]
         for r in res:
@@ -98,26 +100,30 @@ class Holodule():
 
         return pages
 
-    async def get_videos(self, video_ids:Set[str]) -> None:
+    async def get_videos(self, video_ids: Set[str]) -> None:
         # divide to chunks each contains 50 videos
         videos = list(video_ids)
         tasks = []
-        for i in range( ceil( len(videos)/CHUNK_SIZE ) ):
-            tasks.append(self.do_get_videos(videos[i*CHUNK_SIZE:min(len(videos), (i+1)*CHUNK_SIZE)]))
+        for i in range(ceil(len(videos) / CHUNK_SIZE)):
+            tasks.append(
+                self.do_get_videos(
+                    videos[i * CHUNK_SIZE : min(len(videos), (i + 1) * CHUNK_SIZE)]
+                )
+            )
 
         results = await asyncio.gather(*tasks)
         for resp in results:
             for item in resp["items"]:
                 self.videos[item["id"]] = item
 
-    async def do_get_videos(self, video_ids:Sequence[str]) -> dict:
+    async def do_get_videos(self, video_ids: Sequence[str]) -> dict:
         async with self.session.get(
             YOUTUBE_API,
             params={
                 "key": self.yt_key,
                 "part": "id,snippet,liveStreamingDetails",
-                "id": ",".join(video_ids)
-            }
+                "id": ",".join(video_ids),
+            },
         ) as resp:
             if resp.status != 200:
                 raise HTTPStatusError(resp.status)
