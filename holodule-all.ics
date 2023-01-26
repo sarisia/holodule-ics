@@ -221,13 +221,6 @@ SUMMARY:🌲大神ミオ: 【新ホロ鯖】あやめと一緒に拠点を作る
 UID:5TtD46pJNo8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】 *kirin joins your new minecraft server*\nhttps://www.youtube.com/watch?v=d5ekfuGWtyQ
-DURATION:PT2H
-DTSTART:20230126T030000Z
-SUMMARY:Fauna: 【MINECRAFT】 *kirin joins your new minecraft server*
-UID:d5ekfuGWtyQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【EAT】お腹にやさしいごはんもぐもぐっ！【 #ロボ子生放送 /ホロライブ】\nhttps://www.youtube.com/watch?v=SvR5m2FQhAM
 DURATION:PT2H
 DTSTART:20230125T030000Z
@@ -240,6 +233,13 @@ DURATION:PT2H
 DTSTART:20230125T100000Z
 SUMMARY:🎭アステル・レダ: 【League of Legends】代打待機
 UID:HOzM89DvpSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠/SING】夜にしっとりバラードはどう？【#ときのそら生放送】\nhttps://www.youtube.com/watch?v=Qfmxz7i_2Z4
+DURATION:PT2H
+DTSTART:20230126T120000Z
+SUMMARY:🐻ときのそら: 【歌枠/SING】夜にしっとりバラードはどう？【#ときのそら生放送】
+UID:Qfmxz7i_2Z4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【】十三機兵防衛圏：13 Sentinels: Aegis Rim【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=ZEgqraEAfOc
@@ -550,11 +550,25 @@ SUMMARY:Shinri: 【Mad Father】 What a lovely doll... #JosuijiShinri #holoTEMPU
 UID:lewFYIUP0fw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Deep Rock Galactic】Let's take all the stones!!!【holoID】\nhttps://www.youtube.com/watch?v=O9aq2lVWeH0
+DURATION:PT2H
+DTSTART:20230126T040000Z
+SUMMARY:🔮Moona: 【Deep Rock Galactic】Let's take all the stones!!!【holoID】
+UID:O9aq2lVWeH0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【DRAWING】I HAPPEN TO BE AN EXPERT IN THIS "SWIMSUIT" BUSINESS【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=cjA0d1g4MRE
 DURATION:PT2H
 DTSTART:20230127T113000Z
 SUMMARY:Ollie: 【DRAWING】I HAPPEN TO BE AN EXPERT IN THIS "SWIMSUIT" BUSINESS【Hololive ID 2nd Gen】
 UID:cjA0d1g4MRE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Hatoful Boyfriend】#3 Sakuya Only? KEEP SHUU AWAY\nhttps://www.youtube.com/watch?v=iY7fA_Dkxms
+DURATION:PT2H
+DTSTART:20230126T190000Z
+SUMMARY:Flayon: 【Hatoful Boyfriend】#3 Sakuya Only? KEEP SHUU AWAY
+UID:iY7fA_Dkxms
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪MINECRAFT≫ whatabae is back ft. Open VC\nhttps://www.youtube.com/watch?v=7j8znQ_39Xo
@@ -564,18 +578,18 @@ SUMMARY:Baelz: ≪MINECRAFT≫ whatabae is back ft. Open VC
 UID:7j8znQ_39Xo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ラジオ配信中に突然寝転がる自由魔人 #shorts #mocopi #Vtuber\nhttps://www.youtube.com/watch?v=11GSy67FNcQ
-DURATION:PT2H
-DTSTART:20230125T090002Z
-SUMMARY:🍕アルランディス: ラジオ配信中に突然寝転がる自由魔人 #shorts #mocopi #Vtuber
-UID:11GSy67FNcQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Zatsudan】 I want to hold #JosuijiShinri #holoTEMPUS\nhttps://www.youtube.com/watch?v=q827mG31hhQ
 DURATION:PT2H
 DTSTART:20230126T020000Z
 SUMMARY:Shinri: 【Zatsudan】 I want to hold #JosuijiShinri #holoTEMPUS
 UID:q827mG31hhQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ラジオ配信中に突然寝転がる自由魔人 #shorts #mocopi #Vtuber\nhttps://www.youtube.com/watch?v=11GSy67FNcQ
+DURATION:PT2H
+DTSTART:20230125T090002Z
+SUMMARY:🍕アルランディス: ラジオ配信中に突然寝転がる自由魔人 #shorts #mocopi #Vtuber
+UID:11GSy67FNcQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【A Little to the Left】効果音が気持ちいいパズルゲーム！😽【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=I3E83BG2u6Y
