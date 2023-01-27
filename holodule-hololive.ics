@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【】【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=KYFGtecz0RY
+DURATION:PT2H
+DTSTART:20230128T040000Z
+SUMMARY:🚑大空スバル: 【】【ホロライブ/大空スバル】
+UID:KYFGtecz0RY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#０１【Fire Emblem Engage 】ファイアーエムブレム エンゲージやってくぞ～！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=T_3QXrhmwVg
 DURATION:PT2H
 DTSTART:20230128T030000Z
 SUMMARY:雪花ラミィ: #０１【Fire Emblem Engage 】ファイアーエムブレム エンゲージやってくぞ～！！【雪花ラミィ/ホロライブ】
 UID:T_3QXrhmwVg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンSV】はじめてのレート戦！やるぞおお！！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=0zJQeFyt7mo
-DURATION:PT2H
-DTSTART:20230127T130000Z
-SUMMARY:⚓湊あくあ: 【ポケモンSV】はじめてのレート戦！やるぞおお！！！【湊あくあ/ホロライブ】
-UID:0zJQeFyt7mo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:《hololive SUPER EXPO 2023》＆《hololive 4th fes. Our Bright Parade》 PV\nhttps://www.youtube.com/watch?v=SYa5q4Yp7Ng
@@ -30,13 +30,6 @@ DURATION:PT2H
 DTSTART:20230127T100000Z
 SUMMARY:🌸さくらみこ: 【holo*27 MV】さくらみこ x 兎田ぺこら - モッシュレース【ホロライブ x DECO*27】
 UID:_ZJ8MrEXIio
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VALORANT】低気圧やばだけど負けない、ランクにも～！p1\nhttps://www.youtube.com/watch?v=L7AAFGBiaks
-DURATION:PT2H
-DTSTART:20230127T110000Z
-SUMMARY:👿百鬼あやめ: 【VALORANT】低気圧やばだけど負けない、ランクにも～！p1
-UID:L7AAFGBiaks
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#07【Demon's Souls】各3～ラスボスラッシュ？！初PS5＆完全初見！脳筋女騎士の物語【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=ymnAux7vOk8
@@ -60,11 +53,11 @@ SUMMARY:鷹嶺ルイ: 【Minecraft】睡眠導入…雑談しながらホロマ�
 UID:GphUciFHbKw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【あけおめ】今年初ソロ配信！ちょこ神様が占います！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=a48E5QnNa5E
+DESCRIPTION:【 Minecraft 】🔰マイクラ100億年ぶり！新ホロ鯖に降り立ってみたのら！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=4sVdIFfuTnI
 DURATION:PT2H
-DTSTART:20230127T140000Z
-SUMMARY:💋癒月ちょこ: 【あけおめ】今年初ソロ配信！ちょこ神様が占います！【ホロライブ/癒月ちょこ】
-UID:a48E5QnNa5E
+DTSTART:20230127T130000Z
+SUMMARY:🍬姫森ルーナ: 【 Minecraft 】🔰マイクラ100億年ぶり！新ホロ鯖に降り立ってみたのら！【姫森ルーナ/ホロライブ】
+UID:4sVdIFfuTnI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】新ホロ鯖で便利なものを出店していきたい✨役に立ちたいコヨーテ【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=YsDeaHIcQYI
@@ -72,13 +65,6 @@ DURATION:PT2H
 DTSTART:20230128T120000Z
 SUMMARY:博衣こより: 【Minecraft】新ホロ鯖で便利なものを出店していきたい✨役に立ちたいコヨーテ【博衣こより/ホロライブ】
 UID:YsDeaHIcQYI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Minecraft 】🔰マイクラ100億年ぶり！新ホロ鯖に降り立ってみたのら！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=4sVdIFfuTnI
-DURATION:PT2H
-DTSTART:20230127T130000Z
-SUMMARY:🍬姫森ルーナ: 【 Minecraft 】🔰マイクラ100億年ぶり！新ホロ鯖に降り立ってみたのら！【姫森ルーナ/ホロライブ】
-UID:4sVdIFfuTnI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マジカル交換バトル】激つよポケモン引くしかねぇえええ！！！！【大神ミオ視点】\nhttps://www.youtube.com/watch?v=u9TFH061tY4
@@ -170,6 +156,13 @@ DURATION:PT2H
 DTSTART:20230127T120000Z
 SUMMARY:👯兎田ぺこら: 【GeoGuessr】ぺこねねチームVSノエスバチームでジオゲッサー勝負！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
 UID:U0sicSRPHSo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#生スバル】おはスバしゅばああああああああああああああああああああああ！！！！/Free Talk【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=ZHGYq7PFxCc
+DURATION:PT2H
+DTSTART:20230128T010000Z
+SUMMARY:🚑大空スバル: 【#生スバル】おはスバしゅばああああああああああああああああああああああ！！！！/Free Talk【ホロライブ/大空スバル】
+UID:ZHGYq7PFxCc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【＃生スバル】ガンソード同時視聴会しゅばああああああああああああああ：GUN×SWORD watch party【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=QtbpN86qRxk
