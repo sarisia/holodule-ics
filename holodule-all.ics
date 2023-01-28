@@ -32,18 +32,18 @@ SUMMARY:🌺花咲みやび: 【花咲みやび視点】 ホロスターズミ�
 UID:uTFJXQaiosM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【hololiveID】#1 A Space for the Unbound : FINALLY LET'S PLAY THIS !!!  【Ayunda Risu】\nhttps://www.youtube.com/watch?v=OENtw4d1rgs
-DURATION:PT2H
-DTSTART:20230128T130000Z
-SUMMARY:🐿Risu: 【hololiveID】#1 A Space for the Unbound : FINALLY LET'S PLAY THIS !!!  【Ayunda Risu】
-UID:OENtw4d1rgs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MemberOnly】「言の葉の庭」同時視聴 #かなたんロードショー 【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=gKyMgolOxyQ
 DURATION:PT2H
 DTSTART:20230128T130000Z
 SUMMARY:💫天音かなた: 【MemberOnly】「言の葉の庭」同時視聴 #かなたんロードショー 【天音かなた/ホロライブ】
 UID:gKyMgolOxyQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololiveID】#1 A Space for the Unbound : FINALLY LET'S PLAY THIS !!!  【Ayunda Risu】\nhttps://www.youtube.com/watch?v=OENtw4d1rgs
+DURATION:PT2H
+DTSTART:20230128T130000Z
+SUMMARY:🐿Risu: 【hololiveID】#1 A Space for the Unbound : FINALLY LET'S PLAY THIS !!!  【Ayunda Risu】
+UID:OENtw4d1rgs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Chatting】 im home~!\nhttps://www.youtube.com/watch?v=DOXD4reQxp4
@@ -158,10 +158,10 @@ SUMMARY:🍬姫森ルーナ: 【 モンハンワールド：アイスボーン �
 UID:c-f3MJRbPi4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#07【Demon's Souls】最終回！！！脳筋女騎士から祝福女騎士へ...アンバサ🕊【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=w-Tx2sPvIBw
+DESCRIPTION:#08【Demon's Souls】最終回！！！脳筋女騎士から祝福女騎士へ...アンバサ🕊【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=w-Tx2sPvIBw
 DURATION:PT2H
 DTSTART:20230129T020000Z
-SUMMARY:⚔白銀ノエル: #07【Demon's Souls】最終回！！！脳筋女騎士から祝福女騎士へ...アンバサ🕊【白銀ノエル/ホロライブ】
+SUMMARY:⚔白銀ノエル: #08【Demon's Souls】最終回！！！脳筋女騎士から祝福女騎士へ...アンバサ🕊【白銀ノエル/ホロライブ】
 UID:w-Tx2sPvIBw
 END:VEVENT
 BEGIN:VEVENT
@@ -445,6 +445,13 @@ SUMMARY:🦔💨岸堂天真: 【岸堂天真視点】ホロスターズミス�
 UID:8D1b3WObRuQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#ガチ最終回】ずっとやりたかったポケモンやるしゅばああああああああああああああああああああああああああああ！！！真エンディング/Pokémon Scarlet【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=KYFGtecz0RY
+DURATION:PT2H
+DTSTART:20230128T040000Z
+SUMMARY:🚑大空スバル: 【#ガチ最終回】ずっとやりたかったポケモンやるしゅばああああああああああああああああああああああああああああ！！！真エンディング/Pokémon Scarlet【ホロライブ/大空スバル】
+UID:KYFGtecz0RY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【VOICE PACKS】*OLLIE NOISES*【Hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=gHcxmk5qSm0
 DURATION:PT2H
 DTSTART:20230127T025907Z
@@ -471,13 +478,6 @@ DURATION:PT2H
 DTSTART:20230128T000000Z
 SUMMARY:Hakka: 【Insaniquarium Deluxe】I FREAKING LOVE FEESH! #holoTEMPUS #Banzoinhakka【EN】
 UID:kZbsEO0FNfE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポケモンSV】ゴツ顔でチャンピオン！！回復なしドーピングなしでいってみる！！！！ #07【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=Hh5kC3O5RiY
-DURATION:PT2H
-DTSTART:20230128T110000Z
-SUMMARY:💫天音かなた: 【ポケモンSV】ゴツ顔でチャンピオン！！回復なしドーピングなしでいってみる！！！！ #07【天音かなた/ホロライブ】
-UID:Hh5kC3O5RiY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ゼルダの伝説 時のオカリナ】深夜レトロ、はじめました☕#06【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=84WlqwV67n4
@@ -583,13 +583,6 @@ DURATION:PT2H
 DTSTART:20230128T084914Z
 SUMMARY:Ollie: 【CONCERT WATCHALONG】SHOUT IN CRISIS - I BE SHOUTING THROUGHOUT【Hololive ID 2nd Gen】
 UID:XpN7y65hT-o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【律可視点】ホロスターズミステリー劇場 ＃ホロスタミステリー劇場\nhttps://www.youtube.com/watch?v=EIw2Iaku3zM
-DURATION:PT2H
-DTSTART:20230128T100000Z
-SUMMARY:⚙律可: 【律可視点】ホロスターズミステリー劇場 ＃ホロスタミステリー劇場
-UID:EIw2Iaku3zM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Late 90s Indonesian nostalgic\, slice of life game?!\nhttps://www.youtube.com/watch?v=ei0jadpLWQU
@@ -746,6 +739,13 @@ SUMMARY:Shinri: 【The Mortuary Assistant】 BUT IT'S LORE TIME! #JosuijiShinri 
 UID:udGe03qaygo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【VALORANT】ふるぱ  /  アステル ちぐさ3 がんま ふうま りお\nhttps://www.youtube.com/watch?v=zarItijAejY
+DURATION:PT2H
+DTSTART:20230128T130000Z
+SUMMARY:🎭アステル・レダ: 【VALORANT】ふるぱ  /  アステル ちぐさ3 がんま ふうま りお
+UID:zarItijAejY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:突然ケツを叩き出した挙句俺のケツは大臀筋だ!!!と豪語する男 #shorts #Vtuber\nhttps://www.youtube.com/watch?v=gVBWK53Tq4Q
 DURATION:PT2H
 DTSTART:20230128T090019Z
@@ -807,6 +807,13 @@ DURATION:PT2H
 DTSTART:20230127T020000Z
 SUMMARY:Shinri: 【Zatsudan】 I want to soak #JosuijiShinri #holoTEMPUS
 UID:vy7FPfrgq7A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メン限】アンチャーテッドみる！！！！！！！！！！member only\nhttps://www.youtube.com/watch?v=pFGXUVKFlUo
+DURATION:PT2H
+DTSTART:20230128T130000Z
+SUMMARY:👿百鬼あやめ: 【メン限】アンチャーテッドみる！！！！！！！！！！member only
+UID:pFGXUVKFlUo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【＃生スバル】ガンソード同時視聴会しゅばああああああああああああああ：GUN×SWORD watch party【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=QtbpN86qRxk
