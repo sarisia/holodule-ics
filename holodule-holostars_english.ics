@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Ring Fit Adventure】How Do You Think I'll Do? :)\nhttps://www.youtube.com/watch?v=ji6IRkY0w7w
-DURATION:PT2H
-DTSTART:20230129T190000Z
-SUMMARY:Flayon: 【Ring Fit Adventure】How Do You Think I'll Do? :)
-UID:ji6IRkY0w7w
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【日本語雑談】おい、喋ろうや！【Japanese Zatsudan】\nhttps://www.youtube.com/watch?v=hnLOdc17ve0
 DURATION:PT2H
 DTSTART:20230129T130000Z
@@ -37,6 +30,13 @@ DURATION:PT2H
 DTSTART:20230130T020000Z
 SUMMARY:Shinri: 【Slime Rancher 2】 SQUISH SQUISH
 UID:N06inSSj94Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Visage】 It's difficult to take care of a situation like this\, but you're still doing your best...\nhttps://www.youtube.com/watch?v=Vz9ALewJFYE
+DURATION:PT2H
+DTSTART:20230130T160000Z
+SUMMARY:Shinri: 【Visage】 It's difficult to take care of a situation like this\, but you're still doing your best...
+UID:Vz9ALewJFYE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】I'm New to The Mines of Crafting!【Machina X Flayon | holoTempus】\nhttps://www.youtube.com/watch?v=FNro_CPVmt8
