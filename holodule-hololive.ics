@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:KICKBACK / 天音かなた(cover)\nhttps://www.youtube.com/watch?v=c5czz3xhwTw
+DURATION:PT2H
+DTSTART:20230131T115500Z
+SUMMARY:💫天音かなた: KICKBACK / 天音かなた(cover)
+UID:c5czz3xhwTw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 Minecraft 】新ホロ鯖！ぼたん先輩の店の屋根作ります🏠【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=26w4y43sD8c
 DURATION:PT2H
 DTSTART:20230130T120000Z
@@ -158,13 +165,6 @@ SUMMARY:雪花ラミィ: 【夜雑談】最近あったいろんなお話～！�
 UID:oESQUgbZ_uo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【意味が分かると怖いマンガ】みんなはおかしなところに気づける？ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=0iRBLfrzR3Y
-DURATION:PT2H
-DTSTART:20230130T120000Z
-SUMMARY:👯兎田ぺこら: 【意味が分かると怖いマンガ】みんなはおかしなところに気づける？ぺこ！【ホロライブ/兎田ぺこら】
-UID:0iRBLfrzR3Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ポケモンSV】マスターボール級いくまで！やるぞおおお！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=g3bRW0CxHJ0
 DURATION:PT2H
 DTSTART:20230129T140000Z
@@ -228,6 +228,13 @@ SUMMARY:博衣こより: 【#朝こよ】火曜日だよ！おはこよーーー
 UID:Tj1HVyIcFcE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【歌枠】この後歌ってみた投稿しますのSINGING STREAM【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=wNAquJeenLM
+DURATION:PT2H
+DTSTART:20230131T110000Z
+SUMMARY:💫天音かなた: 【歌枠】この後歌ってみた投稿しますのSINGING STREAM【天音かなた/ホロライブ】
+UID:wNAquJeenLM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#4【ペルソナ3ポータブル】人生初ペルソナ！彼女を作りたいこよ狼🐺💖～Persona3 Portable～【博衣こより/hololive】※ネタバレあり\nhttps://www.youtube.com/watch?v=oU-CFRRjobA
 DURATION:PT2H
 DTSTART:20230129T020000Z
@@ -263,6 +270,13 @@ SUMMARY:🔥不知火フレア: 【マインクラフト/Minecraft】新ホロ�
 UID:n7XKNKWMBJ8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】仮拠点では狭すぎる！自分の拠点を作ろうの巻っ✨【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=3gOSye9b2EM
+DURATION:PT2H
+DTSTART:20230131T100000Z
+SUMMARY:博衣こより: 【Minecraft】仮拠点では狭すぎる！自分の拠点を作ろうの巻っ✨【博衣こより/ホロライブ】
+UID:3gOSye9b2EM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 料理＆告知 】たい焼き作るにぇ！！そして情報解禁＆告知🎉【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=5pf7lYYEgDU
 DURATION:PT2H
 DTSTART:20230129T110000Z
@@ -289,6 +303,13 @@ DURATION:PT2H
 DTSTART:20230130T140000Z
 SUMMARY:⚔白銀ノエル: 【雑談＆スパチャお礼】1月も終わっちゃう！！いつもありがとううう💘【白銀ノエル/ホロライブ】
 UID:IACSpuhL3vE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【GeoGuessr】みんなとのんびり深夜のジオゲッサー【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=QNv9uHH5piI
+DURATION:PT2H
+DTSTART:20230130T140000Z
+SUMMARY:⚒AZKi: 【GeoGuessr】みんなとのんびり深夜のジオゲッサー【ホロライブ / AZKi】
+UID:QNv9uHH5piI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【異議あり】このトークは！嘘をついている味だぜ…！【＃ウソホントーク】\nhttps://www.youtube.com/watch?v=S_TPv6j9IE8
