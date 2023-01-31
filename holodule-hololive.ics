@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【 ポケモンSV 】視聴者参加型！一緒にポケモンしよう！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=U5teUXAv4TY
+DURATION:PT2H
+DTSTART:20230131T090000Z
+SUMMARY:桃鈴ねね: 【 ポケモンSV 】視聴者参加型！一緒にポケモンしよう！【 桃鈴ねね / ホロライブ 】
+UID:U5teUXAv4TY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:KICKBACK / 天音かなた(cover)\nhttps://www.youtube.com/watch?v=c5czz3xhwTw
 DURATION:PT2H
 DTSTART:20230131T115500Z
@@ -23,6 +30,13 @@ DURATION:PT2H
 DTSTART:20230131T110000Z
 SUMMARY:鷹嶺ルイ: 【オフコラボ】初オフコラボ‼holoXの料理担当組で仲良くマフィン作り✨【風真いろは/鷹嶺ルイ/ホロライブ】#るいろは
 UID:dJ9DlFw9uIk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:今月もおつかれ～！だらっと喋っていっしょに1がつのお月さまをまたごう🌙【めんげん】\nhttps://www.youtube.com/watch?v=nErU5ojqL6M
+DURATION:PT2H
+DTSTART:20230131T143000Z
+SUMMARY:尾丸ポルカ: 今月もおつかれ～！だらっと喋っていっしょに1がつのお月さまをまたごう🌙【めんげん】
+UID:nErU5ojqL6M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 mocopi 】最新技術を試してみる✨お家で全身3D！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=JFtvu8ANzYc
@@ -109,11 +123,25 @@ SUMMARY:尾丸ポルカ: 【ORIGINAL SONG+MV】ペルソナ - Omaru Polka【尾�
 UID:g-K6PJi7b0o
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 ASMR 】板あめ / お菓子食べるのら💓【咀嚼音 / EATING SOUND】【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=nF3F-V31WuE
+DURATION:PT2H
+DTSTART:20230131T144500Z
+SUMMARY:🍬姫森ルーナ: 【 ASMR 】板あめ / お菓子食べるのら💓【咀嚼音 / EATING SOUND】【姫森ルーナ/ホロライブ】
+UID:nF3F-V31WuE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Freetalk】悪魔の保健医の深夜雑談【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=L1yB_nIixhw
 DURATION:PT2H
 DTSTART:20230131T150000Z
 SUMMARY:💋癒月ちょこ: 【Freetalk】悪魔の保健医の深夜雑談【ホロライブ/癒月ちょこ】
 UID:L1yB_nIixhw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:誕生日おわた＼(^o^)／振り返り感想会【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=LvdDCG2QVmI
+DURATION:PT2H
+DTSTART:20230131T130000Z
+SUMMARY:尾丸ポルカ: 誕生日おわた＼(^o^)／振り返り感想会【尾丸ポルカ/ホロライブ】
+UID:LvdDCG2QVmI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Doors: Paradox】お昼に一緒にまったり謎解きしよう～【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=YkxIkMXw7bc
