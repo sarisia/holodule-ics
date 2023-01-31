@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Drawing】アロハの日だから冬だけどアロハな俺描いてみる!!【#緋崎ガンマ / #ホロスターズ / #お絵描き  #illustration #イラスト  】\nhttps://www.youtube.com/watch?v=swBpFlHVtYs
+DURATION:PT2H
+DTSTART:20230131T053000Z
+SUMMARY:緋崎ガンマ: 【Drawing】アロハの日だから冬だけどアロハな俺描いてみる!!【#緋崎ガンマ / #ホロスターズ / #お絵描き  #illustration #イラスト  】
+UID:swBpFlHVtYs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ロベルないとめあ】あっち向いてホイや歌ってみたの振り返りをする我々【夕刻ロベル/神楽めあ】\nhttps://www.youtube.com/watch?v=edTbEzlSH8E
 DURATION:PT2H
 DTSTART:20230130T120000Z
@@ -11,11 +18,11 @@ SUMMARY:🍷夕刻ロベル: 【#ロベルないとめあ】あっち向いて�
 UID:edTbEzlSH8E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談Minecraft】お昼にのんびり整地作業【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=pRvHcgAiZ7U
+DESCRIPTION:【Minecraft】お昼…？Englishのあれこれ用意したりするよ！【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=ueG0SlROk7o
 DURATION:PT2H
-DTSTART:20230131T064500Z
-SUMMARY:🍕アルランディス: 【雑談Minecraft】お昼にのんびり整地作業【アルランディス/ホロスターズ】
-UID:pRvHcgAiZ7U
+DTSTART:20230131T081500Z
+SUMMARY:水無世燐央: 【Minecraft】お昼…？Englishのあれこれ用意したりするよ！【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】
+UID:ueG0SlROk7o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ファイアーエムブレム エンゲージ 】エンブレムが奪われた！！これどうなるの！？ｗ【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=c0RQa5XGXnE
@@ -23,20 +30,6 @@ DURATION:PT2H
 DTSTART:20230131T041500Z
 SUMMARY:🦔💨岸堂天真: 【ファイアーエムブレム エンゲージ 】エンブレムが奪われた！！これどうなるの！？ｗ【岸堂天真/ホロスターズ】
 UID:c0RQa5XGXnE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ドラマCD告知】ハイスクール・ホログラフィ 後編発売直前配信【＃惚れさせスターズ】\nhttps://www.youtube.com/watch?v=Z-BAmt-smnM
-DURATION:PT2H
-DTSTART:20230131T110000Z
-SUMMARY:ホロスターズ: 【ドラマCD告知】ハイスクール・ホログラフィ 後編発売直前配信【＃惚れさせスターズ】
-UID:Z-BAmt-smnM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【弾き語り枠】22時の癒し枠【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=XhT5MzALix0
-DURATION:PT2H
-DTSTART:20230131T130000Z
-SUMMARY:⚙律可: 【弾き語り枠】22時の癒し枠【律可/ホロスターズ】#りつすた
-UID:XhT5MzALix0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ネタバレあり】3DのFF3遊ぶぜ！＃3【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=g2IZRb-7mBw
@@ -53,18 +46,11 @@ SUMMARY:🎭アステル・レダ: 【Dead Space】ちょｗｗおまｗｗｗ�
 UID:Aslp7nTc60o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【皆がいないと不成立 / TABG】ふにゃふにゃの俺に勝てるやつ集合 Totally Accurate Battlegrounds【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=pNjzgT4_Vs4
+DESCRIPTION:【#花岸れいでぃお】第23回ゲスト：夜十神封魔回\nhttps://www.youtube.com/watch?v=PULTvQDOLMU
 DURATION:PT2H
-DTSTART:20230131T130000Z
-SUMMARY:🍕アルランディス: 【皆がいないと不成立 / TABG】ふにゃふにゃの俺に勝てるやつ集合 Totally Accurate Battlegrounds【アルランディス/ホロスターズ】
-UID:pNjzgT4_Vs4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【UPROAR!!】これまでの人気シーンを総まとめ！【#ジャンプロ 総集編】\nhttps://www.youtube.com/watch?v=RPri9rD_YaM
-DURATION:PT2H
-DTSTART:20230201T110000Z
-SUMMARY:ホロスターズ: 【UPROAR!!】これまでの人気シーンを総まとめ！【#ジャンプロ 総集編】
-UID:RPri9rD_YaM
+DTSTART:20230129T220000Z
+SUMMARY:🦔💨岸堂天真: 【#花岸れいでぃお】第23回ゲスト：夜十神封魔回
+UID:PULTvQDOLMU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ONE PIECE ODYSSEY】イタイタの実の全身イタリア人間【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=q8_0v0-QYJs
@@ -74,18 +60,39 @@ SUMMARY:🍕アルランディス: 【ONE PIECE ODYSSEY】イタイタの実の�
 UID:q8_0v0-QYJs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#花岸れいでぃお】第23回ゲスト：夜十神封魔回\nhttps://www.youtube.com/watch?v=PULTvQDOLMU
-DURATION:PT2H
-DTSTART:20230129T220000Z
-SUMMARY:🦔💨岸堂天真: 【#花岸れいでぃお】第23回ゲスト：夜十神封魔回
-UID:PULTvQDOLMU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:笑ってはいけないピザダンス #shorts  #Vtuber #pizza\nhttps://www.youtube.com/watch?v=jkyS8VNljHM
 DURATION:PT2H
 DTSTART:20230130T090023Z
 SUMMARY:🍕アルランディス: 笑ってはいけないピザダンス #shorts  #Vtuber #pizza
 UID:jkyS8VNljHM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談Minecraft】お昼にのんびり整地作業【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=pRvHcgAiZ7U
+DURATION:PT2H
+DTSTART:20230131T064500Z
+SUMMARY:🍕アルランディス: 【雑談Minecraft】お昼にのんびり整地作業【アルランディス/ホロスターズ】
+UID:pRvHcgAiZ7U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ドラマCD告知】ハイスクール・ホログラフィ 後編発売直前配信【＃惚れさせスターズ】\nhttps://www.youtube.com/watch?v=Z-BAmt-smnM
+DURATION:PT2H
+DTSTART:20230131T110000Z
+SUMMARY:ホロスターズ: 【ドラマCD告知】ハイスクール・ホログラフィ 後編発売直前配信【＃惚れさせスターズ】
+UID:Z-BAmt-smnM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【弾き語り枠】22時の癒し枠【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=XhT5MzALix0
+DURATION:PT2H
+DTSTART:20230131T130000Z
+SUMMARY:⚙律可: 【弾き語り枠】22時の癒し枠【律可/ホロスターズ】#りつすた
+UID:XhT5MzALix0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【UPROAR!!】これまでの人気シーンを総まとめ！【#ジャンプロ 総集編】\nhttps://www.youtube.com/watch?v=RPri9rD_YaM
+DURATION:PT2H
+DTSTART:20230201T110000Z
+SUMMARY:ホロスターズ: 【UPROAR!!】これまでの人気シーンを総まとめ！【#ジャンプロ 総集編】
+UID:RPri9rD_YaM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【実写】VTuberが罰ゲームで登山してきた!!【#緋崎ガンマ / #ホロスターズ / #放課後アップロー #vtuber 】\nhttps://www.youtube.com/watch?v=T9YNK5lxT7M
@@ -95,11 +102,11 @@ SUMMARY:緋崎ガンマ: 【実写】VTuberが罰ゲームで登山してきた!
 UID:T9YNK5lxT7M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Drawing】アロハの日だから冬だけどアロハな俺描いてみる!!【#緋崎ガンマ / #ホロスターズ / #お絵描き  #illustration #イラスト  】\nhttps://www.youtube.com/watch?v=swBpFlHVtYs
+DESCRIPTION:【皆がいないと不成立 / TABG】ふにゃふにゃの俺に勝てるやつ集合 Totally Accurate Battlegrounds【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=pNjzgT4_Vs4
 DURATION:PT2H
-DTSTART:20230131T053000Z
-SUMMARY:緋崎ガンマ: 【Drawing】アロハの日だから冬だけどアロハな俺描いてみる!!【#緋崎ガンマ / #ホロスターズ / #お絵描き  #illustration #イラスト  】
-UID:swBpFlHVtYs
+DTSTART:20230131T130000Z
+SUMMARY:🍕アルランディス: 【皆がいないと不成立 / TABG】ふにゃふにゃの俺に勝てるやつ集合 Totally Accurate Battlegrounds【アルランディス/ホロスターズ】
+UID:pNjzgT4_Vs4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【League of Legends】とりまやっとこ / アステル\nhttps://www.youtube.com/watch?v=pEqh7FOnBVg
