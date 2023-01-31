@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Drawing】アロハの日だから冬だけどアロハな俺描いてみる!!【#緋崎ガンマ / #ホロスターズ / #お絵描き  #illustration #イラスト  】\nhttps://www.youtube.com/watch?v=swBpFlHVtYs
+DURATION:PT2H
+DTSTART:20230131T053000Z
+SUMMARY:緋崎ガンマ: 【Drawing】アロハの日だから冬だけどアロハな俺描いてみる!!【#緋崎ガンマ / #ホロスターズ / #お絵描き  #illustration #イラスト  】
+UID:swBpFlHVtYs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】お昼…？Englishのあれこれ用意したりするよ！【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=ueG0SlROk7o
 DURATION:PT2H
 DTSTART:20230131T081500Z
@@ -11,18 +18,53 @@ SUMMARY:水無世燐央: 【Minecraft】お昼…？Englishのあれこれ用意
 UID:ueG0SlROk7o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談Minecraft】お昼にのんびり整地作業【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=pRvHcgAiZ7U
-DURATION:PT2H
-DTSTART:20230131T064500Z
-SUMMARY:🍕アルランディス: 【雑談Minecraft】お昼にのんびり整地作業【アルランディス/ホロスターズ】
-UID:pRvHcgAiZ7U
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ファイアーエムブレム エンゲージ 】エンブレムが奪われた！！これどうなるの！？ｗ【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=c0RQa5XGXnE
 DURATION:PT2H
 DTSTART:20230131T041500Z
 SUMMARY:🦔💨岸堂天真: 【ファイアーエムブレム エンゲージ 】エンブレムが奪われた！！これどうなるの！？ｗ【岸堂天真/ホロスターズ】
 UID:c0RQa5XGXnE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【EN×JPコラボ！】Welcome TEMPUS 2nd gen!! 一緒にサーバー観光しよう！【アルランディス視点/ホロスターズ】\nhttps://www.youtube.com/watch?v=f0-WvHjwKk8
+DURATION:PT2H
+DTSTART:20230201T030000Z
+SUMMARY:🍕アルランディス: 【EN×JPコラボ！】Welcome TEMPUS 2nd gen!! 一緒にサーバー観光しよう！【アルランディス視点/ホロスターズ】
+UID:f0-WvHjwKk8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【意味が分かると怖いマンガ】パリピ漫画家がチャレンジしてみる!!【#ホロスターズ #vtuber #緋崎ガンマ #holostars 】\nhttps://www.youtube.com/watch?v=-_cVRG-Kpqw
+DURATION:PT2H
+DTSTART:20230201T063000Z
+SUMMARY:緋崎ガンマ: 【意味が分かると怖いマンガ】パリピ漫画家がチャレンジしてみる!!【#ホロスターズ #vtuber #緋崎ガンマ #holostars 】
+UID:-_cVRG-Kpqw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MHR:SB】久方ぶりに狩猟を行う男【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=iXkQbEWMDO4
+DURATION:PT2H
+DTSTART:20230201T050000Z
+SUMMARY:🍷夕刻ロベル: 【MHR:SB】久方ぶりに狩猟を行う男【夕刻ロベル/ホロスターズ】
+UID:iXkQbEWMDO4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:英語の伝言ゲームがカオスすぎた #Vtuber #shorts\nhttps://www.youtube.com/watch?v=Ae9M7hEnIBY
+DURATION:PT2H
+DTSTART:20230131T090008Z
+SUMMARY:🍕アルランディス: 英語の伝言ゲームがカオスすぎた #Vtuber #shorts
+UID:Ae9M7hEnIBY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【League of Legends】あそぶ / アステル LEON代表3 メイカ3 乾どの うゆ\nhttps://www.youtube.com/watch?v=Pkv3e6__7Pc
+DURATION:PT2H
+DTSTART:20230131T120500Z
+SUMMARY:🎭アステル・レダ: 【League of Legends】あそぶ / アステル LEON代表3 メイカ3 乾どの うゆ
+UID:Pkv3e6__7Pc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談Minecraft】お昼にのんびり整地作業【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=pRvHcgAiZ7U
+DURATION:PT2H
+DTSTART:20230131T064500Z
+SUMMARY:🍕アルランディス: 【雑談Minecraft】お昼にのんびり整地作業【アルランディス/ホロスターズ】
+UID:pRvHcgAiZ7U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ドラマCD告知】ハイスクール・ホログラフィ 後編発売直前配信【＃惚れさせスターズ】\nhttps://www.youtube.com/watch?v=Z-BAmt-smnM
@@ -46,32 +88,11 @@ SUMMARY:⚙律可: 【弾き語り枠】22時の癒し枠【律可/ホロスタ�
 UID:XhT5MzALix0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【EN×JPコラボ！】Welcome TEMPUS 2nd gen!! 一緒にサーバー観光しよう！【アルランディス視点/ホロスターズ】\nhttps://www.youtube.com/watch?v=f0-WvHjwKk8
-DURATION:PT2H
-DTSTART:20230201T030000Z
-SUMMARY:🍕アルランディス: 【EN×JPコラボ！】Welcome TEMPUS 2nd gen!! 一緒にサーバー観光しよう！【アルランディス視点/ホロスターズ】
-UID:f0-WvHjwKk8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【皆がいないと不成立 / TABG】ふにゃふにゃの俺に勝てるやつ集合 Totally Accurate Battlegrounds【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=pNjzgT4_Vs4
-DURATION:PT2H
-DTSTART:20230131T130000Z
-SUMMARY:🍕アルランディス: 【皆がいないと不成立 / TABG】ふにゃふにゃの俺に勝てるやつ集合 Totally Accurate Battlegrounds【アルランディス/ホロスターズ】
-UID:pNjzgT4_Vs4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【UPROAR!!】これまでの人気シーンを総まとめ！【#ジャンプロ 総集編】\nhttps://www.youtube.com/watch?v=RPri9rD_YaM
 DURATION:PT2H
 DTSTART:20230201T110000Z
 SUMMARY:ホロスターズ: 【UPROAR!!】これまでの人気シーンを総まとめ！【#ジャンプロ 総集編】
 UID:RPri9rD_YaM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【意味が分かると怖いマンガ】パリピ漫画家がチャレンジしてみる!!【#ホロスターズ #vtuber #緋崎ガンマ #holostars 】\nhttps://www.youtube.com/watch?v=-_cVRG-Kpqw
-DURATION:PT2H
-DTSTART:20230201T063000Z
-SUMMARY:緋崎ガンマ: 【意味が分かると怖いマンガ】パリピ漫画家がチャレンジしてみる!!【#ホロスターズ #vtuber #緋崎ガンマ #holostars 】
-UID:-_cVRG-Kpqw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Satisfactory】ついに列車爆★誕【花咲みやび/岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=mK6LvW8PFP0
@@ -81,31 +102,17 @@ SUMMARY:🌺花咲みやび: 【Satisfactory】ついに列車爆★誕【花咲
 UID:mK6LvW8PFP0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MHR:SB】久方ぶりに狩猟を行う男【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=iXkQbEWMDO4
-DURATION:PT2H
-DTSTART:20230201T050000Z
-SUMMARY:🍷夕刻ロベル: 【MHR:SB】久方ぶりに狩猟を行う男【夕刻ロベル/ホロスターズ】
-UID:iXkQbEWMDO4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:英語の伝言ゲームがカオスすぎた #Vtuber #shorts\nhttps://www.youtube.com/watch?v=Ae9M7hEnIBY
-DURATION:PT2H
-DTSTART:20230131T090008Z
-SUMMARY:🍕アルランディス: 英語の伝言ゲームがカオスすぎた #Vtuber #shorts
-UID:Ae9M7hEnIBY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Drawing】アロハの日だから冬だけどアロハな俺描いてみる!!【#緋崎ガンマ / #ホロスターズ / #お絵描き  #illustration #イラスト  】\nhttps://www.youtube.com/watch?v=swBpFlHVtYs
-DURATION:PT2H
-DTSTART:20230131T053000Z
-SUMMARY:緋崎ガンマ: 【Drawing】アロハの日だから冬だけどアロハな俺描いてみる!!【#緋崎ガンマ / #ホロスターズ / #お絵描き  #illustration #イラスト  】
-UID:swBpFlHVtYs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【実写】VTuberが罰ゲームで登山してきた!!【#緋崎ガンマ / #ホロスターズ / #放課後アップロー #vtuber 】\nhttps://www.youtube.com/watch?v=T9YNK5lxT7M
 DURATION:PT2H
 DTSTART:20230131T120000Z
 SUMMARY:緋崎ガンマ: 【実写】VTuberが罰ゲームで登山してきた!!【#緋崎ガンマ / #ホロスターズ / #放課後アップロー #vtuber 】
 UID:T9YNK5lxT7M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【皆がいないと不成立 / TABG】ふにゃふにゃの俺に勝てるやつ集合 Totally Accurate Battlegrounds【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=pNjzgT4_Vs4
+DURATION:PT2H
+DTSTART:20230131T130000Z
+SUMMARY:🍕アルランディス: 【皆がいないと不成立 / TABG】ふにゃふにゃの俺に勝てるやつ集合 Totally Accurate Battlegrounds【アルランディス/ホロスターズ】
+UID:pNjzgT4_Vs4
 END:VEVENT
 END:VCALENDAR
