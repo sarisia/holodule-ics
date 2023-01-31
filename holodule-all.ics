@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【HOLOLIVE x PIXIV】SWIMSUITS!! with IOFI!\nhttps://www.youtube.com/watch?v=XCXF08GMUHY
+DESCRIPTION:【 ポケモンSV 】視聴者参加型！一緒にポケモンしよう！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=U5teUXAv4TY
 DURATION:PT2H
-DTSTART:20230131T040000Z
-SUMMARY:Mumei: 【HOLOLIVE x PIXIV】SWIMSUITS!! with IOFI!
-UID:XCXF08GMUHY
+DTSTART:20230131T090000Z
+SUMMARY:桃鈴ねね: 【 ポケモンSV 】視聴者参加型！一緒にポケモンしよう！【 桃鈴ねね / ホロライブ 】
+UID:U5teUXAv4TY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Super Chat Reading 】#3 Doing A Quick Catch Up!\nhttps://www.youtube.com/watch?v=PtbIw6Ze8bk
@@ -18,11 +18,11 @@ SUMMARY:Flayon: 【Super Chat Reading 】#3 Doing A Quick Catch Up!
 UID:PtbIw6Ze8bk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 ポケモンSV 】視聴者参加型！一緒にポケモンしよう！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=U5teUXAv4TY
+DESCRIPTION:【HOLOLIVE x PIXIV】SWIMSUITS!! with IOFI!\nhttps://www.youtube.com/watch?v=XCXF08GMUHY
 DURATION:PT2H
-DTSTART:20230131T090000Z
-SUMMARY:桃鈴ねね: 【 ポケモンSV 】視聴者参加型！一緒にポケモンしよう！【 桃鈴ねね / ホロライブ 】
-UID:U5teUXAv4TY
+DTSTART:20230131T040000Z
+SUMMARY:Mumei: 【HOLOLIVE x PIXIV】SWIMSUITS!! with IOFI!
+UID:XCXF08GMUHY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】お昼…？Englishのあれこれ用意したりするよ！【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=ueG0SlROk7o
@@ -121,6 +121,13 @@ DURATION:PT2H
 DTSTART:20230201T110000Z
 SUMMARY:ホロスターズ: 【UPROAR!!】これまでの人気シーンを総まとめ！【#ジャンプロ 総集編】
 UID:RPri9rD_YaM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FIRE EMBLEM ENGAGE】Weapon Triangle Brain Hort #kfp #キアライブ\nhttps://www.youtube.com/watch?v=mQuJi1hmXl4
+DURATION:PT2H
+DTSTART:20230131T151500Z
+SUMMARY:Kiara: 【FIRE EMBLEM ENGAGE】Weapon Triangle Brain Hort #kfp #キアライブ
+UID:mQuJi1hmXl4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Satisfactory】ついに列車爆★誕【花咲みやび/岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=mK6LvW8PFP0
@@ -235,13 +242,6 @@ SUMMARY:Bettel: [Just Chatting] MY THROAT HATES ME AFTER THIS WEEK #gavisbettel 
 UID:zQ7ArleLxYI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#朝こよ】火曜日だよ！おはこよーーー！！！☀ #113【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=Tj1HVyIcFcE
-DURATION:PT2H
-DTSTART:20230130T220000Z
-SUMMARY:博衣こより: 【#朝こよ】火曜日だよ！おはこよーーー！！！☀ #113【博衣こより/ホロライブ】
-UID:Tj1HVyIcFcE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【League of Legends】あそぶ / アステル LEON代表3 メイカ3 乾どの うゆ\nhttps://www.youtube.com/watch?v=Pkv3e6__7Pc
 DURATION:PT2H
 DTSTART:20230131T120500Z
@@ -256,11 +256,11 @@ SUMMARY:Reine: #7【Persona 5 Royal】FOR REAL BUT LUCKY (SPOILER ALERT)(clickba
 UID:6UbpYrj7H4k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】仮拠点では狭すぎる！自分の拠点を作ろうの巻っ✨【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=3gOSye9b2EM
+DESCRIPTION:【#朝こよ】火曜日だよ！おはこよーーー！！！☀ #113【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=Tj1HVyIcFcE
 DURATION:PT2H
-DTSTART:20230131T100000Z
-SUMMARY:博衣こより: 【Minecraft】仮拠点では狭すぎる！自分の拠点を作ろうの巻っ✨【博衣こより/ホロライブ】
-UID:3gOSye9b2EM
+DTSTART:20230130T220000Z
+SUMMARY:博衣こより: 【#朝こよ】火曜日だよ！おはこよーーー！！！☀ #113【博衣こより/ホロライブ】
+UID:Tj1HVyIcFcE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【弾き語り枠】22時の癒し枠【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=XhT5MzALix0
@@ -268,6 +268,13 @@ DURATION:PT2H
 DTSTART:20230131T130000Z
 SUMMARY:⚙律可: 【弾き語り枠】22時の癒し枠【律可/ホロスターズ】#りつすた
 UID:XhT5MzALix0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】仮拠点では狭すぎる！自分の拠点を作ろうの巻っ✨【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=3gOSye9b2EM
+DURATION:PT2H
+DTSTART:20230131T100000Z
+SUMMARY:博衣こより: 【Minecraft】仮拠点では狭すぎる！自分の拠点を作ろうの巻っ✨【博衣こより/ホロライブ】
+UID:3gOSye9b2EM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ライメイ / 常闇トワ(official)\nhttps://www.youtube.com/watch?v=TfOx00AOfKo
@@ -375,10 +382,10 @@ SUMMARY:🐏角巻わため: 【Raft】ついに最終回！ユートピアを�
 UID:LXKwQ8WiAt4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Doors: Paradox】☀朝に起きれたらやる！☀【常闇トワ / ホロライブ】\nhttps://www.youtube.com/watch?v=ZNc-OkKk61M
+DESCRIPTION:【Doors: Paradox】☀朝に起きれたらやる！→やるよん！☀【常闇トワ / ホロライブ】\nhttps://www.youtube.com/watch?v=ZNc-OkKk61M
 DURATION:PT2H
-DTSTART:20230131T230000Z
-SUMMARY:👾常闇トワ: 【Doors: Paradox】☀朝に起きれたらやる！☀【常闇トワ / ホロライブ】
+DTSTART:20230131T231500Z
+SUMMARY:👾常闇トワ: 【Doors: Paradox】☀朝に起きれたらやる！→やるよん！☀【常闇トワ / ホロライブ】
 UID:ZNc-OkKk61M
 END:VEVENT
 BEGIN:VEVENT
