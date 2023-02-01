@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【GeoGuessr/実況】ポルカに日本をおしえてくれないですか【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=L7weU5P84ik
-DURATION:PT2H
-DTSTART:20230201T140000Z
-SUMMARY:尾丸ポルカ: 【GeoGuessr/実況】ポルカに日本をおしえてくれないですか【尾丸ポルカ/ホロライブ】
-UID:L7weU5P84ik
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【プロセカ】Vtuberが3Dで「トンデモワンダーズ」踊って歌ってみた【ホロライブ】\nhttps://www.youtube.com/watch?v=-UfIliNTZDg
 DURATION:PT2H
 DTSTART:20230201T100000Z
@@ -23,6 +16,13 @@ DURATION:PT2H
 DTSTART:20230201T120000Z
 SUMMARY:🌲大神ミオ: 【ただいま！】旅行にいってきました！感想会だ～～！【ミオみこスバ】
 UID:UQMlaUQWRrU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #なのらいぶ 】GeoGuessr で目指せ０ｍなのら！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=ElyDv2VJO-o
+DURATION:PT2H
+DTSTART:20230201T140000Z
+SUMMARY:🍬姫森ルーナ: 【 #なのらいぶ 】GeoGuessr で目指せ０ｍなのら！【姫森ルーナ/ホロライブ】
+UID:ElyDv2VJO-o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【公認ミラー配信】モンハンライズ:サンブレイク新情報がくるよおお～～！！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=zfAhHh0kB-g
