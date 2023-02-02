@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:≪Ministry Host Club≫ The Lads Are Back  #holoMinistry\nhttps://www.youtube.com/watch?v=yDRBAzSors4
+DURATION:PT2H
+DTSTART:20230202T030000Z
+SUMMARY:Baelz: ≪Ministry Host Club≫ The Lads Are Back  #holoMinistry
+UID:yDRBAzSors4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:≪MINECRAFT≫ WE'RE OFF ON AN ADVENTURE! ft. Sora-senpai\nhttps://www.youtube.com/watch?v=pK9w5RqJlOM
 DURATION:PT2H
 DTSTART:20230203T010000Z
@@ -16,6 +23,13 @@ DURATION:PT2H
 DTSTART:20230203T130000Z
 SUMMARY:Calli: [PERSONA 3 PORTABLE] Did You See That Shinji (SPOILER ALERT)
 UID:rp9_Fy_U3Hk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Rhythm Sprout】CHOPPIN' up to COOK\nhttps://www.youtube.com/watch?v=kLa2mWKAhbY
+DURATION:PT2H
+DTSTART:20230202T003000Z
+SUMMARY:Amelia: 【Rhythm Sprout】CHOPPIN' up to COOK
+UID:kLa2mWKAhbY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GEOGUESSR】world traveler mori\nhttps://www.youtube.com/watch?v=q4JMbtjxneI
@@ -32,31 +46,10 @@ SUMMARY:Fauna: 【Pokémon Violet】 Beating the game so I can get a shiny sandw
 UID:f8vbfBwpCuU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FIRE EMBLEM ENGAGE】If Evil\, Why Hot? #kfp #キアライブ\nhttps://www.youtube.com/watch?v=tQmfanHj-QM
-DURATION:PT2H
-DTSTART:20230202T150000Z
-SUMMARY:Kiara: 【FIRE EMBLEM ENGAGE】If Evil\, Why Hot? #kfp #キアライブ
-UID:tQmfanHj-QM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DRAWING】Drawing something for #hololiveArtFestival #ホロライブアートフェス\nhttps://www.youtube.com/watch?v=FCuybS0J5Ec
 DURATION:PT2H
 DTSTART:20230202T230000Z
 SUMMARY:Ina: 【DRAWING】Drawing something for #hololiveArtFestival #ホロライブアートフェス
 UID:FCuybS0J5Ec
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Rhythm Sprout】CHOPPIN' up to COOK\nhttps://www.youtube.com/watch?v=kLa2mWKAhbY
-DURATION:PT2H
-DTSTART:20230202T003000Z
-SUMMARY:Amelia: 【Rhythm Sprout】CHOPPIN' up to COOK
-UID:kLa2mWKAhbY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪Ministry Host Club≫ The Lads Are Back  #holoMinistry\nhttps://www.youtube.com/watch?v=yDRBAzSors4
-DURATION:PT2H
-DTSTART:20230202T030000Z
-SUMMARY:Baelz: ≪Ministry Host Club≫ The Lads Are Back  #holoMinistry
-UID:yDRBAzSors4
 END:VEVENT
 END:VCALENDAR
