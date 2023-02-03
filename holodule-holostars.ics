@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ネタバレあり】3DのFF3遊ぶぜ！＃4【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=4oPcd9hznA4
-DURATION:PT2H
-DTSTART:20230203T140000Z
-SUMMARY:荒咬オウガ: 【ネタバレあり】3DのFF3遊ぶぜ！＃4【荒咬オウガ/ホロスターズ】
-UID:4oPcd9hznA4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ミニ歌枠】金曜の朝に元気いっぱい歌う！【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=Oir4lyArXUU
 DURATION:PT2H
 DTSTART:20230202T220000Z
@@ -18,18 +11,18 @@ SUMMARY:水無世燐央: 【ミニ歌枠】金曜の朝に元気いっぱい歌�
 UID:Oir4lyArXUU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ネタバレあり】3DのFF3遊ぶぜ！＃4【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=4oPcd9hznA4
+DURATION:PT2H
+DTSTART:20230203T140000Z
+SUMMARY:荒咬オウガ: 【ネタバレあり】3DのFF3遊ぶぜ！＃4【荒咬オウガ/ホロスターズ】
+UID:4oPcd9hznA4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【VALORANT】４人でわちゃわちゃヴァロラント！！【 #vtuber  /#放課後アップロー / #uproar  】\nhttps://www.youtube.com/watch?v=RVt8oUrtT_U
 DURATION:PT2H
 DTSTART:20230203T080000Z
 SUMMARY:羽継烏有: 【VALORANT】４人でわちゃわちゃヴァロラント！！【 #vtuber  /#放課後アップロー / #uproar  】
 UID:RVt8oUrtT_U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DBD】ゲリラ！ちょっとだけDBD！no archive【#羽継烏有 /#アップロー /#holostars 】\nhttps://www.youtube.com/watch?v=0AWEoZfENdI
-DURATION:PT2H
-DTSTART:20230203T155000Z
-SUMMARY:羽継烏有: 【DBD】ゲリラ！ちょっとだけDBD！no archive【#羽継烏有 /#アップロー /#holostars 】
-UID:0AWEoZfENdI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 LoL 】ノーマルでいろいろなチャンプ練習する！！【#vtuber / #羽継烏有 / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=Z2rpjyM-n94
@@ -58,13 +51,6 @@ DURATION:PT2H
 DTSTART:20230202T153000Z
 SUMMARY:🦔💨岸堂天真: 【マリカ】レート16504~ 2月の目標は17500!!【岸堂天真/ホロスターズ】
 UID:2W9AWl1Q7jA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】クオーツ乱獲計画【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=dU9cxfjXrEE
-DURATION:PT2H
-DTSTART:20230203T150000Z
-SUMMARY:水無世燐央: 【Minecraft】クオーツ乱獲計画【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】
-UID:dU9cxfjXrEE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【アニメ】とうとう捕まりました【＃スタこれ】\nhttps://www.youtube.com/watch?v=YZcjScMjyN4
@@ -102,13 +88,6 @@ SUMMARY:緋崎ガンマ: 【Drawing】節分の日だから恵方巻食べなが
 UID:ujS1Cxo9iJ4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【新部屋お披露目】空き部屋を改装した秘密基地！！！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=yvZR-rULXbc
-DURATION:PT2H
-DTSTART:20230204T100000Z
-SUMMARY:⚙律可: 【新部屋お披露目】空き部屋を改装した秘密基地！！！【律可/ホロスターズ】#りつすた
-UID:yvZR-rULXbc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談/FreeTalk】恵方巻食う！豆投げてこい！！！【夜十神封魔/UPROAR!!】\nhttps://www.youtube.com/watch?v=_S7CX_W33I8
 DURATION:PT2H
 DTSTART:20230203T010000Z
@@ -135,5 +114,12 @@ DURATION:PT2H
 DTSTART:20230204T090000Z
 SUMMARY:🍕アルランディス: 【ダンガンロンパ 希望の学園と絶望の高校生】超高校級の○○が集う学園に転校します！【アルランディス/ホロスターズ】
 UID:r-FdTbdiTsY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【新部屋お披露目】空き部屋を改装した秘密基地！！！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=yvZR-rULXbc
+DURATION:PT2H
+DTSTART:20230204T100000Z
+SUMMARY:⚙律可: 【新部屋お披露目】空き部屋を改装した秘密基地！！！【律可/ホロスターズ】#りつすた
+UID:yvZR-rULXbc
 END:VEVENT
 END:VCALENDAR
