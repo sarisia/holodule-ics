@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【GeoGuessr】ここはどこ？！わたしはだれ？【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=k8ItlhF-MVM
-DURATION:PT2H
-DTSTART:20230203T143000Z
-SUMMARY:🌟夜空メル: 【GeoGuessr】ここはどこ？！わたしはだれ？【ホロライブ/夜空メル】
-UID:k8ItlhF-MVM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【あざとく】可愛くてごめん/ロボ子さん【歌ってみた】\nhttps://www.youtube.com/watch?v=BvqttxHszE4
 DURATION:PT2H
 DTSTART:20230204T100000Z
@@ -102,13 +95,6 @@ SUMMARY:風真いろは: Rumor -  ポリスピカデリー/ Covered 風真いろ
 UID:cHgfFyyMXf4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ゼルダの伝説 時のオカリナ】深夜レトロ、はじめました☕#07【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=bIBZswf9iFA
-DURATION:PT2H
-DTSTART:20230203T130000Z
-SUMMARY:🍙猫又おかゆ: 【ゼルダの伝説 時のオカリナ】深夜レトロ、はじめました☕#07【猫又おかゆ/ホロライブ】
-UID:bIBZswf9iFA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ProLeague公認ミラー配信】Apex Legends Global Series Year 3：Split1 Playoffs Day2【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=IAJPI3ccElk
 DURATION:PT2H
 DTSTART:20230203T100000Z
@@ -130,18 +116,18 @@ SUMMARY:🌽白上フブキ: ｱﾑｱﾑｱﾑｱﾑｱﾑｱﾑｱﾑｱﾑｱ
 UID:PKmCXj4SHfM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ネタバレあり】ワンピース オデッセイ/ONE PIECE ODYSSEY ＃１【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=-H_rax3v-_o
-DURATION:PT2H
-DTSTART:20230204T040000Z
-SUMMARY:🌽白上フブキ: 【ネタバレあり】ワンピース オデッセイ/ONE PIECE ODYSSEY ＃１【ホロライブ/白上フブキ】
-UID:-H_rax3v-_o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:角巻わため謹賀新年配信のすーぱーちゃお礼動画🐏\nhttps://www.youtube.com/watch?v=hPe7BjYlQaM
 DURATION:PT2H
 DTSTART:20230203T102243Z
 SUMMARY:🐏角巻わため: 角巻わため謹賀新年配信のすーぱーちゃお礼動画🐏
 UID:hPe7BjYlQaM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ネタバレあり】ワンピース オデッセイ/ONE PIECE ODYSSEY ＃１【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=-H_rax3v-_o
+DURATION:PT2H
+DTSTART:20230204T040000Z
+SUMMARY:🌽白上フブキ: 【ネタバレあり】ワンピース オデッセイ/ONE PIECE ODYSSEY ＃１【ホロライブ/白上フブキ】
+UID:-H_rax3v-_o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:頑張るキミを応援してみた✨#mocopi #shorts 【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=V2SUVgAOQZw
@@ -179,11 +165,25 @@ SUMMARY:🐻ときのそら: 【minecraft】ENのお友達べーちゃんとマ�
 UID:gADdgOUMw4k
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 零 ～濡鴉ノ巫女～ 】私が狂えば幽霊も怖がっていなくなる説。 PROJECT ZERO MAIDEN OF BLACK WATER【鷹嶺ルイ/ホロライブ】#04\nhttps://www.youtube.com/watch?v=32GFoqzLTVU
+DURATION:PT2H
+DTSTART:20230204T030000Z
+SUMMARY:鷹嶺ルイ: 【 零 ～濡鴉ノ巫女～ 】私が狂えば幽霊も怖がっていなくなる説。 PROJECT ZERO MAIDEN OF BLACK WATER【鷹嶺ルイ/ホロライブ】#04
+UID:32GFoqzLTVU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【＃生スバル】ガンソード同時視聴会しゅばああああああああああああああ：GUN×SWORD watch party【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=sYJrfqhOKkk
 DURATION:PT2H
 DTSTART:20230203T130000Z
 SUMMARY:🚑大空スバル: 【＃生スバル】ガンソード同時視聴会しゅばああああああああああああああ：GUN×SWORD watch party【ホロライブ/大空スバル】
 UID:sYJrfqhOKkk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#3】ポルカに布教してもらった十三機兵防衛圏をプレイしてみるしゅばああああああああああああああああああ！！！！：13 Sentinels: Aegis Rim【ネタバレあり】\nhttps://www.youtube.com/watch?v=JQI3T5YfCRo
+DURATION:PT2H
+DTSTART:20230204T040000Z
+SUMMARY:🚑大空スバル: 【#3】ポルカに布教してもらった十三機兵防衛圏をプレイしてみるしゅばああああああああああああああああああ！！！！：13 Sentinels: Aegis Rim【ネタバレあり】
+UID:JQI3T5YfCRo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】３０分だけの朝歌枠【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=ZvgPwb2tu-U
@@ -200,10 +200,17 @@ SUMMARY:博衣こより: #5【ペルソナ3ポータブル】人生初ペルソ�
 UID:CceZBMiwF4w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Minecraft 】ダイヤフル装備つくるぞ！！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=CmWE7nOUwCs
+DESCRIPTION:【Minecraft】睡眠導入…アジトと豪邸の素材集めするぞするぞするぞ！！！【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=gLKO3GmLuuw
 DURATION:PT2H
 DTSTART:20230203T140000Z
-SUMMARY:🏮夏色まつり: 【 Minecraft 】ダイヤフル装備つくるぞ！！【ホロライブ/夏色まつり】
-UID:CmWE7nOUwCs
+SUMMARY:鷹嶺ルイ: 【Minecraft】睡眠導入…アジトと豪邸の素材集めするぞするぞするぞ！！！【鷹嶺ルイ/ホロライブ】
+UID:gLKO3GmLuuw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#生スバル】おはスバしゅばああああああああああああああああああああああ！！！！/Free Talk【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=PyU_pqrhLy0
+DURATION:PT2H
+DTSTART:20230204T010000Z
+SUMMARY:🚑大空スバル: 【#生スバル】おはスバしゅばああああああああああああああああああああああ！！！！/Free Talk【ホロライブ/大空スバル】
+UID:PyU_pqrhLy0
 END:VEVENT
 END:VCALENDAR
