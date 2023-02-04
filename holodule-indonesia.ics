@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#holoIDKimonoDAY1】Ohhh? New Kimono?【#KimonobaruMoona】\nhttps://www.youtube.com/watch?v=STqnX3bqaMM
-DURATION:PT2H
-DTSTART:20230203T140000Z
-SUMMARY:🔮Moona: 【#holoIDKimonoDAY1】Ohhh? New Kimono?【#KimonobaruMoona】
-UID:STqnX3bqaMM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#holoIDKimonoDAY1 Pre-show Kimono Showcase Relay Day 1\nhttps://www.youtube.com/watch?v=DX_El-p-R30
-DURATION:PT2H
-DTSTART:20230203T114500Z
-SUMMARY:IDholo: #holoIDKimonoDAY1 Pre-show Kimono Showcase Relay Day 1
-UID:DX_El-p-R30
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#kimonOLLIE】HOKAGE AFTERTALK COZ THAT MY NINDO WAY【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=eNqoiLkH1kE
 DURATION:PT2H
 DTSTART:20230204T082958Z
@@ -30,20 +16,6 @@ DURATION:PT2H
 DTSTART:20230204T081500Z
 SUMMARY:Kaela: 【Phasmophobia】kimono and the haunted house【Kaela Kovalskia / hololiveID】
 UID:PzUmwxCouvw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#holoIDKimonoDAY1】Why My Oshi Like This?【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=BuZMVcIR9P0
-DURATION:PT2H
-DTSTART:20230203T130000Z
-SUMMARY:Kaela: 【#holoIDKimonoDAY1】Why My Oshi Like This?【Kaela Kovalskia / hololiveID】
-UID:BuZMVcIR9P0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#holoIDKimonoDAY1】SHOWCASING MY BEAUTIFUL BOTANIC GARDEN ON MY BACK【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=7SBYu7dnrsM
-DURATION:PT2H
-DTSTART:20230203T115917Z
-SUMMARY:Ollie: 【#holoIDKimonoDAY1】SHOWCASING MY BEAUTIFUL BOTANIC GARDEN ON MY BACK【Hololive Indonesia 2nd Gen】
-UID:7SBYu7dnrsM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#holoIDKimonoDAY2】PRESS CONFERENCE & New iofi【#iofi_potongrambut】\nhttps://www.youtube.com/watch?v=OZntoooGC8o
@@ -60,13 +32,6 @@ SUMMARY:Zeta: 【#holoIDKimonoDAY2】Your Oshi Is Not A Grey Cat
 UID:xviKZPydPyU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:CKIA MADE THAT【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=33mB9-UwCvA
-DURATION:PT2H
-DTSTART:20230203T152933Z
-SUMMARY:Kaela: CKIA MADE THAT【Kaela Kovalskia / hololiveID】
-UID:33mB9-UwCvA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【SeriousKaemono】POST TALK JUST BECAUSE IM SO EXCITED【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=OjNAW64ZDD0
 DURATION:PT2H
 DTSTART:20230203T160000Z
@@ -74,11 +39,11 @@ SUMMARY:Kaela: 【SeriousKaemono】POST TALK JUST BECAUSE IM SO EXCITED【Kaela 
 UID:OjNAW64ZDD0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#holoIDKimonoDAY2】NEW KIMONO! Not a Magic Trick\, Not Witchcraft【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=1ZUNbLTtMjU
+DESCRIPTION:CKIA MADE THAT【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=33mB9-UwCvA
 DURATION:PT2H
-DTSTART:20230204T140000Z
-SUMMARY:Reine: 【#holoIDKimonoDAY2】NEW KIMONO! Not a Magic Trick\, Not Witchcraft【Pavolia Reine/hololiveID 2nd gen】
-UID:1ZUNbLTtMjU
+DTSTART:20230203T152933Z
+SUMMARY:Kaela: CKIA MADE THAT【Kaela Kovalskia / hololiveID】
+UID:33mB9-UwCvA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#holoIDKimonoDAY2 Pre-show Kimono Showcase Relay Day 2\nhttps://www.youtube.com/watch?v=8b1GvXEjFGk
@@ -86,5 +51,19 @@ DURATION:PT2H
 DTSTART:20230204T114500Z
 SUMMARY:IDholo: #holoIDKimonoDAY2 Pre-show Kimono Showcase Relay Day 2
 UID:8b1GvXEjFGk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Iklan hi:BANA Reine (from Kimono Showcase) ft. Ollie\, Kaela\nhttps://www.youtube.com/watch?v=L8uH1MeBt6k
+DURATION:PT2H
+DTSTART:20230204T150350Z
+SUMMARY:Reine: Iklan hi:BANA Reine (from Kimono Showcase) ft. Ollie\, Kaela
+UID:L8uH1MeBt6k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kembang Api Bersama iofi\nhttps://www.youtube.com/watch?v=DbPbDI_6JWA
+DURATION:PT2H
+DTSTART:20230204T144154Z
+SUMMARY:🎨Iofi: Kembang Api Bersama iofi
+UID:DbPbDI_6JWA
 END:VEVENT
 END:VCALENDAR
