@@ -18,18 +18,18 @@ SUMMARY:🐿Risu: Cute Squirrel New Kimono
 UID:3gm4Ej8jfgw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Burger Bistro Story】Yumm yumm BURGER【Moona Hoshinova / hololive Indonesia】\nhttps://www.youtube.com/watch?v=lcr1sXgSRl4
-DURATION:PT2H
-DTSTART:20230205T080000Z
-SUMMARY:🔮Moona: 【Burger Bistro Story】Yumm yumm BURGER【Moona Hoshinova / hololive Indonesia】
-UID:lcr1sXgSRl4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:The Agent's Wish\nhttps://www.youtube.com/watch?v=_7fB-7ZkQGQ
 DURATION:PT2H
 DTSTART:20230205T130435Z
 SUMMARY:Zeta: The Agent's Wish
 UID:_7fB-7ZkQGQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Burger Bistro Story】Yumm yumm BURGER【Moona Hoshinova / hololive Indonesia】\nhttps://www.youtube.com/watch?v=lcr1sXgSRl4
+DURATION:PT2H
+DTSTART:20230205T080000Z
+SUMMARY:🔮Moona: 【Burger Bistro Story】Yumm yumm BURGER【Moona Hoshinova / hololive Indonesia】
+UID:lcr1sXgSRl4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#holoIDKimonoDAY3】USED ASK????? TUPAI KIMONO OMG!!!! WHAT TRY【#AyundaRisuKimono】\nhttps://www.youtube.com/watch?v=b5JZxo6--Uw
@@ -44,13 +44,6 @@ DURATION:PT2H
 DTSTART:20230205T160000Z
 SUMMARY:Reine: (EN) BIRDS IN KIMONO Reine Indonesian Classroom w/Kiara #pavonashi【Pavolia Reine/hololiveID 2nd gen】
 UID:RYd690kstl4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【OVERWATCH 2】MIDNIGHT OVERWATCH // #iollie【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=eY8rFJvtPL4
-DURATION:PT2H
-DTSTART:20230204T152948Z
-SUMMARY:Ollie: 【OVERWATCH 2】MIDNIGHT OVERWATCH // #iollie【Hololive ID 2nd Gen】
-UID:eY8rFJvtPL4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#holoIDKimonoDAY3】OMG! KOBO NEW SKIN COYYYY!! JADI BELUT LISTRIK? GA MUNGKIN! viral masbro?【Kobo】\nhttps://www.youtube.com/watch?v=u-QKSIuw428
@@ -95,11 +88,32 @@ SUMMARY:Reine: 【ARCHIVED KARAOKE】Showcase Thank You!!! SINGING IN NEW KIMONO
 UID:7IjD9JbtpxU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Delivering Hope】WOOOO new update!!!💪【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=ejwbP8snifE
+DURATION:PT2H
+DTSTART:20230206T050000Z
+SUMMARY:Kaela: 【Delivering Hope】WOOOO new update!!!💪【Kaela Kovalskia / hololiveID】
+UID:ejwbP8snifE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#holoIDKimonoDAY3 Post-Talk】Suspicious? Elegant? Why Not Both?【hololive ID 2nd Gen | Anya Melfissa】\nhttps://www.youtube.com/watch?v=71n8Ok-gBrQ
 DURATION:PT2H
 DTSTART:20230205T151500Z
 SUMMARY:Anya: 【#holoIDKimonoDAY3 Post-Talk】Suspicious? Elegant? Why Not Both?【hololive ID 2nd Gen | Anya Melfissa】
 UID:71n8Ok-gBrQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【A Little Golf Journey】kimono and golf 🏌️⛳【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=wj3pSmMYwLI
+DURATION:PT2H
+DTSTART:20230205T083000Z
+SUMMARY:Kaela: 【A Little Golf Journey】kimono and golf 🏌️⛳【Kaela Kovalskia / hololiveID】
+UID:wj3pSmMYwLI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PEJUANG SENIN】WOOO IM BACK!!🌞 what's new?【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=GB6TwpyaLxA
+DURATION:PT2H
+DTSTART:20230205T231500Z
+SUMMARY:Kaela: 【PEJUANG SENIN】WOOO IM BACK!!🌞 what's new?【Kaela's Monday Warrior】
+UID:GB6TwpyaLxA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 OVERWATCH 2 】Game dan Ngobrol dengan Bestie【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=5t24vzY07AA
@@ -116,10 +130,10 @@ SUMMARY:🔮Moona: 【Minecraft】Minecraft is my Breakfast【holoID】
 UID:iWxWwQBT2iY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【A Little Golf Journey】kimono and golf 🏌️⛳【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=wj3pSmMYwLI
+DESCRIPTION:【OVERWATCH 2】MIDNIGHT OVERWATCH // #iollie【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=eY8rFJvtPL4
 DURATION:PT2H
-DTSTART:20230205T083000Z
-SUMMARY:Kaela: 【A Little Golf Journey】kimono and golf 🏌️⛳【Kaela Kovalskia / hololiveID】
-UID:wj3pSmMYwLI
+DTSTART:20230204T152948Z
+SUMMARY:Ollie: 【OVERWATCH 2】MIDNIGHT OVERWATCH // #iollie【Hololive ID 2nd Gen】
+UID:eY8rFJvtPL4
 END:VEVENT
 END:VCALENDAR
