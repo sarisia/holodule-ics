@@ -32,18 +32,18 @@ SUMMARY:🦔💨岸堂天真: 【ファイアーエムブレム エンゲージ 
 UID:PnqkUJqMoVg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ド屑】MIXを知らない男がほぼ素音源で歌ってみた / アステル #shorts\nhttps://www.youtube.com/watch?v=Dz6K5rAg7eU
-DURATION:PT2H
-DTSTART:20230205T102418Z
-SUMMARY:🎭アステル・レダ: 【ド屑】MIXを知らない男がほぼ素音源で歌ってみた / アステル #shorts
-UID:Dz6K5rAg7eU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:The Agent's Wish\nhttps://www.youtube.com/watch?v=_7fB-7ZkQGQ
 DURATION:PT2H
 DTSTART:20230205T130435Z
 SUMMARY:Zeta: The Agent's Wish
 UID:_7fB-7ZkQGQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ド屑】MIXを知らない男がほぼ素音源で歌ってみた / アステル #shorts\nhttps://www.youtube.com/watch?v=Dz6K5rAg7eU
+DURATION:PT2H
+DTSTART:20230205T102418Z
+SUMMARY:🎭アステル・レダ: 【ド屑】MIXを知らない男がほぼ素音源で歌ってみた / アステル #shorts
+UID:Dz6K5rAg7eU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】新ホロ鯖を旅する！マリフレちゃん【ホロライブ/宝鐘マリン・不知火フレア】\nhttps://www.youtube.com/watch?v=0n515Wq9V64
@@ -172,18 +172,18 @@ SUMMARY:🍬姫森ルーナ: 【 #なのらいぶ 】日曜朝のエレクトー
 UID:V5yvpYSsktA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【弾き語り枠】ゆるりと歌う癒し枠【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=aJLw4AuPCjQ
-DURATION:PT2H
-DTSTART:20230205T120000Z
-SUMMARY:⚙律可: 【弾き語り枠】ゆるりと歌う癒し枠【律可/ホロスターズ】#りつすた
-UID:aJLw4AuPCjQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ジャングルでクルージング出来そうな、カッケー船着き場作る!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=2tOjgz9OHxs
 DURATION:PT2H
 DTSTART:20230205T130000Z
 SUMMARY:🌺花咲みやび: 【Minecraft】ジャングルでクルージング出来そうな、カッケー船着き場作る!!【花咲みやび/ホロスターズ】
 UID:2tOjgz9OHxs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【弾き語り枠】ゆるりと歌う癒し枠【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=aJLw4AuPCjQ
+DURATION:PT2H
+DTSTART:20230205T120000Z
+SUMMARY:⚙律可: 【弾き語り枠】ゆるりと歌う癒し枠【律可/ホロスターズ】#りつすた
+UID:aJLw4AuPCjQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Dead Space Remake】SPACE ZOMBIES\nhttps://www.youtube.com/watch?v=-msuiNLHMGk
@@ -291,18 +291,18 @@ SUMMARY:雪花ラミィ: 【ヒトカラ】一人でカラオケ自体怖い。�
 UID:Su4EDiSkAx8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#holoIDKimonoDAY3】USED ASK????? TUPAI KIMONO OMG!!!! WHAT TRY【#AyundaRisuKimono】\nhttps://www.youtube.com/watch?v=b5JZxo6--Uw
-DURATION:PT2H
-DTSTART:20230205T120000Z
-SUMMARY:🐿Risu: 【#holoIDKimonoDAY3】USED ASK????? TUPAI KIMONO OMG!!!! WHAT TRY【#AyundaRisuKimono】
-UID:b5JZxo6--Uw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#15【SEKIRO】へたっぴ #こよりSEKIRO ～最終回の可能性あり⁉主を追え！～【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=X5B0SE8MrNc
 DURATION:PT2H
 DTSTART:20230207T100000Z
 SUMMARY:博衣こより: #15【SEKIRO】へたっぴ #こよりSEKIRO ～最終回の可能性あり⁉主を追え！～【博衣こより/ホロライブ】
 UID:X5B0SE8MrNc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#holoIDKimonoDAY3】USED ASK????? TUPAI KIMONO OMG!!!! WHAT TRY【#AyundaRisuKimono】\nhttps://www.youtube.com/watch?v=b5JZxo6--Uw
+DURATION:PT2H
+DTSTART:20230205T120000Z
+SUMMARY:🐿Risu: 【#holoIDKimonoDAY3】USED ASK????? TUPAI KIMONO OMG!!!! WHAT TRY【#AyundaRisuKimono】
+UID:b5JZxo6--Uw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:(EN) BIRDS IN KIMONO Reine Indonesian Classroom w/Kiara #pavonashi【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=RYd690kstl4
@@ -403,11 +403,25 @@ SUMMARY:緋崎ガンマ: 【Drawing】プロ野球の日だから俺＆ロベル
 UID:Wgva-XuWkUY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ヨッシーアイランド】初見🌟できるだけ高得点を目指すへたっぴマリオ！ステージ5へ突入だ～～～！！🔥【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=-3XjXAfChRY
+DURATION:PT2H
+DTSTART:20230205T100000Z
+SUMMARY:博衣こより: 【ヨッシーアイランド】初見🌟できるだけ高得点を目指すへたっぴマリオ！ステージ5へ突入だ～～～！！🔥【博衣こより/ホロライブ】
+UID:-3XjXAfChRY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Zatsudan】Buenas\, se puede? #holoTEMPUS #Banzoinhakka【ES】\nhttps://www.youtube.com/watch?v=z3EGRCsCIEE
 DURATION:PT2H
 DTSTART:20230205T160000Z
 SUMMARY:Hakka: 【Zatsudan】Buenas\, se puede? #holoTEMPUS #Banzoinhakka【ES】
 UID:z3EGRCsCIEE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Minecraft is my Breakfast【holoID】\nhttps://www.youtube.com/watch?v=iWxWwQBT2iY
+DURATION:PT2H
+DTSTART:20230206T020000Z
+SUMMARY:🔮Moona: 【Minecraft】Minecraft is my Breakfast【holoID】
+UID:iWxWwQBT2iY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Minecraft 】ゲリラ🔥無限丸石製造機作るでござる⛏【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=K7Nx7XEJE3g
@@ -438,18 +452,18 @@ SUMMARY:🔮Moona: 【Burger Bistro Story】Yumm yumm BURGER【Moona Hoshinova /
 UID:lcr1sXgSRl4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪JUST CHATTING≫ drinking soup\nhttps://www.youtube.com/watch?v=oiZSaY7Tmjg
-DURATION:PT2H
-DTSTART:20230205T011000Z
-SUMMARY:Baelz: ≪JUST CHATTING≫ drinking soup
-UID:oiZSaY7Tmjg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:コロナだったけど質問ある？【奏手イヅル】\nhttps://www.youtube.com/watch?v=WVLs2_ZneTU
 DURATION:PT2H
 DTSTART:20230205T100000Z
 SUMMARY:🎸奏手イヅル: コロナだったけど質問ある？【奏手イヅル】
 UID:WVLs2_ZneTU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪JUST CHATTING≫ drinking soup\nhttps://www.youtube.com/watch?v=oiZSaY7Tmjg
+DURATION:PT2H
+DTSTART:20230205T011000Z
+SUMMARY:Baelz: ≪JUST CHATTING≫ drinking soup
+UID:oiZSaY7Tmjg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#holoIDKimonoDAY3】OMG! KOBO NEW SKIN COYYYY!! JADI BELUT LISTRIK? GA MUNGKIN! viral masbro?【Kobo】\nhttps://www.youtube.com/watch?v=u-QKSIuw428
