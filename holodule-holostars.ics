@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【雑談】2月になりましたけども雑談【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=CllfvKdJFMM
-DURATION:PT2H
-DTSTART:20230207T070000Z
-SUMMARY:🍷夕刻ロベル: 【雑談】2月になりましたけども雑談【夕刻ロベル/ホロスターズ】
-UID:CllfvKdJFMM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【GeoGuessr】最終回！方向音痴の妖がする、ジオゲッサー【夜十神封魔/UPRAOR!!】\nhttps://www.youtube.com/watch?v=4EUGtfqasr4
 DURATION:PT2H
 DTSTART:20230209T090000Z
@@ -30,13 +23,6 @@ DURATION:PT2H
 DTSTART:20230207T100000Z
 SUMMARY:夜十神封魔: 【Chilla's Art / The Karaoke | ヒトカラ🎤】ヒトカラ常連の寂しい妖。【夜十神封魔/UPROAR!!】
 UID:O56CbSoDKmo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マンガ】本当にあった街で衝撃的な物を見たときの話【tiktok】 #shorts #illustration #イラスト #イラスト動画 #tiktok\nhttps://www.youtube.com/watch?v=EoG12bpe5pA
-DURATION:PT2H
-DTSTART:20230207T150007Z
-SUMMARY:緋崎ガンマ: 【マンガ】本当にあった街で衝撃的な物を見たときの話【tiktok】 #shorts #illustration #イラスト #イラスト動画 #tiktok
-UID:EoG12bpe5pA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Dark and Darker】埋蔵王に俺はなる！！  / アステル\nhttps://www.youtube.com/watch?v=yria1I0VvP4
@@ -60,25 +46,11 @@ SUMMARY:🍕アルランディス: 【ハードコアMinecraft】待ってろエ
 UID:ZDwIR5TK_L0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロスタJPアモアス2022】宇宙一騒がしいアモアスと、後輩に容赦がない先輩たち【ホロスターズ】\nhttps://www.youtube.com/watch?v=UBjtjN1oOZo
-DURATION:PT2H
-DTSTART:20230207T100014Z
-SUMMARY:ホロスターズ: 【#ホロスタJPアモアス2022】宇宙一騒がしいアモアスと、後輩に容赦がない先輩たち【ホロスターズ】
-UID:UBjtjN1oOZo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【モンスターハンターライズ：サンブレイク】ゆる狩り【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=UBbTPOqtROQ
 DURATION:PT2H
 DTSTART:20230207T130000Z
 SUMMARY:荒咬オウガ: 【モンスターハンターライズ：サンブレイク】ゆる狩り【荒咬オウガ/ホロスターズ】
 UID:UBbTPOqtROQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ホグワーツレガシー】ダンブルドアより偉大な魔法使いの配信  / アステル\nhttps://www.youtube.com/watch?v=QN3Uar8tyIM
-DURATION:PT2H
-DTSTART:20230208T040000Z
-SUMMARY:🎭アステル・レダ: 【ホグワーツレガシー】ダンブルドアより偉大な魔法使いの配信  / アステル
-UID:QN3Uar8tyIM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【誕生日カウントダウン】初の誕生日を迎えるパリピ漫画家Vtuberと暴れようや!!!!!【#緋崎ガンマ / #ホロスターズ / #vtuber / #holostars   】\nhttps://www.youtube.com/watch?v=7fTScLG5APM
@@ -107,5 +79,40 @@ DURATION:PT2H
 DTSTART:20230207T030000Z
 SUMMARY:🦔💨岸堂天真: 【マリカ】レート16714~ 2月の目標は17500!!【岸堂天真/ホロスターズ】
 UID:h6oJ6AuG0v8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】2月になりましたけども雑談【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=CllfvKdJFMM
+DURATION:PT2H
+DTSTART:20230207T070000Z
+SUMMARY:🍷夕刻ロベル: 【雑談】2月になりましたけども雑談【夕刻ロベル/ホロスターズ】
+UID:CllfvKdJFMM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マンガ】本当にあった街で衝撃的な物を見たときの話【tiktok】 #shorts #illustration #イラスト #イラスト動画 #tiktok\nhttps://www.youtube.com/watch?v=EoG12bpe5pA
+DURATION:PT2H
+DTSTART:20230207T150007Z
+SUMMARY:緋崎ガンマ: 【マンガ】本当にあった街で衝撃的な物を見たときの話【tiktok】 #shorts #illustration #イラスト #イラスト動画 #tiktok
+UID:EoG12bpe5pA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロスタJPアモアス2022】宇宙一騒がしいアモアスと、後輩に容赦がない先輩たち【ホロスターズ】\nhttps://www.youtube.com/watch?v=UBjtjN1oOZo
+DURATION:PT2H
+DTSTART:20230207T100014Z
+SUMMARY:ホロスターズ: 【#ホロスタJPアモアス2022】宇宙一騒がしいアモアスと、後輩に容赦がない先輩たち【ホロスターズ】
+UID:UBjtjN1oOZo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活】100人おはようカウンター🎰&いってらっしゃい【夜十神封魔/UPROAR!!】\nhttps://www.youtube.com/watch?v=8_X8vu4N9Yw
+DURATION:PT2H
+DTSTART:20230208T000000Z
+SUMMARY:夜十神封魔: 【朝活】100人おはようカウンター🎰&いってらっしゃい【夜十神封魔/UPROAR!!】
+UID:8_X8vu4N9Yw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ホグワーツレガシー】ダンブルドアより偉大な魔法使いの配信  / アステル\nhttps://www.youtube.com/watch?v=QN3Uar8tyIM
+DURATION:PT2H
+DTSTART:20230208T040000Z
+SUMMARY:🎭アステル・レダ: 【ホグワーツレガシー】ダンブルドアより偉大な魔法使いの配信  / アステル
+UID:QN3Uar8tyIM
 END:VEVENT
 END:VCALENDAR
