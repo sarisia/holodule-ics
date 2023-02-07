@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:#02【MOTHER】いざ次の街へ！🏠🌲【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=2Wu7aNQaLTU
-DURATION:PT2H
-DTSTART:20230207T130000Z
-SUMMARY:🔥不知火フレア: #02【MOTHER】いざ次の街へ！🏠🌲【不知火フレア/ホロライブ】
-UID:2Wu7aNQaLTU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 #なのらいぶ 】もぐもぐご飯配信なのら～🍚🍴(・o・🍬) ﾊﾟｸﾊﾟｸ　#２ オムライス作ったのら　Mogumogu Lunch【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=2yREZo9OxSs
 DURATION:PT2H
 DTSTART:20230207T030000Z
@@ -67,18 +60,18 @@ SUMMARY:🤖ロボ子さん: 【ヒトカラ】新作ホラー！ヒトカラ！
 UID:KGW70Q0its4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 FCスーパーマリオブラザーズ3 】クリアまで‼完全初見で挑む騒がしいマリオブラザーズ３、にぇ！！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=YrcTKMAqrNo
-DURATION:PT2H
-DTSTART:20230207T110000Z
-SUMMARY:🌸さくらみこ: 【 FCスーパーマリオブラザーズ3 】クリアまで‼完全初見で挑む騒がしいマリオブラザーズ３、にぇ！！！！！【ホロライブ/さくらみこ】
-UID:YrcTKMAqrNo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ヒトカラ】これカラオケがトラウマになりませんよね…？チラズアートさん新作！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=1NeDK8bjdqA
 DURATION:PT2H
 DTSTART:20230207T110000Z
 SUMMARY:沙花叉クロヱ: 【ヒトカラ】これカラオケがトラウマになりませんよね…？チラズアートさん新作！【沙花叉クロヱ/ホロライブ】
 UID:1NeDK8bjdqA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【】【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=Jl2GVm_OPsk
+DURATION:PT2H
+DTSTART:20230208T090000Z
+SUMMARY:🍬姫森ルーナ: 【】【姫森ルーナ/ホロライブ】
+UID:Jl2GVm_OPsk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【＃生スバル】初見！！！人生初アーマードコアフォーアンサーやってみるしゅばああああああああああああああああ！！！！！！：ARMORED CORE for Answer【ネタバレあり】\nhttps://www.youtube.com/watch?v=oCXeDh41WEo
@@ -151,6 +144,13 @@ SUMMARY:🐻ときのそら: 空ノ空 Band Live ver.【ときのそらオリジ
 UID:CY87iKc5zaM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 ポケモンSV バイオレット 】みんなの力を借りて進めてくポケモン配信なのら！ #04　Pokémon【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=UKk4HaLK7Nk
+DURATION:PT2H
+DTSTART:20230207T130000Z
+SUMMARY:🍬姫森ルーナ: 【 ポケモンSV バイオレット 】みんなの力を借りて進めてくポケモン配信なのら！ #04　Pokémon【姫森ルーナ/ホロライブ】
+UID:UKk4HaLK7Nk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ホグワーツ・レガシー】ホグワーツに入学だ！どの寮にする・・？！【 ホロライブ / 大神ミオ 】\nhttps://www.youtube.com/watch?v=JQYj7l85wl8
 DURATION:PT2H
 DTSTART:20230207T103000Z
@@ -170,5 +170,12 @@ DURATION:PT2H
 DTSTART:20230208T080000Z
 SUMMARY:鷹嶺ルイ: 【 ホグワーツ・レガシー 】早期アクセス‼遂にホグワーツに入学できる‼いくぞ‼ Hogwarts Legacy【鷹嶺ルイ/ホロライブ】#01
 UID:NbBXkt29jMA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【】【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=NwukkWaJGnI
+DURATION:PT2H
+DTSTART:20230208T130000Z
+SUMMARY:🍬姫森ルーナ: 【】【姫森ルーナ/ホロライブ】
+UID:NwukkWaJGnI
 END:VEVENT
 END:VCALENDAR
