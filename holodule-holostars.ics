@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【HADES】登り切って俺はこの地獄から家出するんだ！！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=ki5NX-OcX-Y
-DURATION:PT2H
-DTSTART:20230206T063000Z
-SUMMARY:🍕アルランディス: 【HADES】登り切って俺はこの地獄から家出するんだ！！【アルランディス/ホロスターズ】
-UID:ki5NX-OcX-Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 Dark and Darker 】神ゲーと噂のゲームをプレイさせていただく【#vtuber / #羽継烏有 / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=EYZtljDI7s4
 DURATION:PT2H
 DTSTART:20230206T133000Z
 SUMMARY:羽継烏有: 【 Dark and Darker 】神ゲーと噂のゲームをプレイさせていただく【#vtuber / #羽継烏有 / #ホロスターズ 】
 UID:EYZtljDI7s4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HADES】登り切って俺はこの地獄から家出するんだ！！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=ki5NX-OcX-Y
+DURATION:PT2H
+DTSTART:20230206T063000Z
+SUMMARY:🍕アルランディス: 【HADES】登り切って俺はこの地獄から家出するんだ！！【アルランディス/ホロスターズ】
+UID:ki5NX-OcX-Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GeoGuessr】最終回！方向音痴の妖がする、ジオゲッサー【夜十神封魔/UPRAOR!!】\nhttps://www.youtube.com/watch?v=4EUGtfqasr4
@@ -79,6 +79,13 @@ DURATION:PT2H
 DTSTART:20230207T060000Z
 SUMMARY:緋崎ガンマ: 【Drawing】荒咬オウガ先輩を荒咬オウカちゃんにして描いてみる!!【#緋崎ガンマ / #ホロスターズ / #お絵描き  #illustration #イラスト  】
 UID:E8aB2YRLUqw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マリカ】レート16714~ 2月の目標は17500!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=h6oJ6AuG0v8
+DURATION:PT2H
+DTSTART:20230207T030000Z
+SUMMARY:🦔💨岸堂天真: 【マリカ】レート16714~ 2月の目標は17500!!【岸堂天真/ホロスターズ】
+UID:h6oJ6AuG0v8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Valheim 】サバイバル大好き男たちの北欧神話サバイバルゲーム！Part1【岸堂天真/花咲みやび/アルランディス/奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=vTbEOqkIMZ4
