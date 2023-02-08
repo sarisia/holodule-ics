@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【晩酌】はじめての晩酌！いっしょにKPしよ？🎵【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=ioywaElg5PU
-DURATION:PT2H
-DTSTART:20230208T130000Z
-SUMMARY:🌟夜空メル: 【晩酌】はじめての晩酌！いっしょにKPしよ？🎵【ホロライブ/夜空メル】
-UID:ioywaElg5PU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【GeoGuessr】最終回！方向音痴の妖がする、ジオゲッサー【夜十神封魔/UPRAOR!!】\nhttps://www.youtube.com/watch?v=4EUGtfqasr4
 DURATION:PT2H
 DTSTART:20230209T090000Z
@@ -144,6 +137,13 @@ SUMMARY:🌲大神ミオ: 【 #常MOS 】たこパサバイバル！！！たこ
 UID:ewiOeFckaQQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Dark and Darker】話題のゲームで超絶レア武器を取りに行きたい！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=kc6dw7JuEQk
+DURATION:PT2H
+DTSTART:20230208T120000Z
+SUMMARY:👯兎田ぺこら: 【Dark and Darker】話題のゲームで超絶レア武器を取りに行きたい！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:kc6dw7JuEQk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【minecraft】そらトレイン新サーバー準備！！【#ときのそら生放送 /ホロライブ】\nhttps://www.youtube.com/watch?v=JScPWquNRSo
 DURATION:PT2H
 DTSTART:20230208T120000Z
@@ -177,6 +177,13 @@ DURATION:PT2H
 DTSTART:20230209T130000Z
 SUMMARY:Anya: 【Supadonoreading】Thanking Superchats & Donations【hololive ID 2nd Generation | Anya Melfissa】
 UID:0yFSl2zHEUk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】明日の準備もしなきゃいけないけど配信もしたい人【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Ot7poc3ly8E
+DURATION:PT2H
+DTSTART:20230208T153000Z
+SUMMARY:🍕アルランディス: 【雑談】明日の準備もしなきゃいけないけど配信もしたい人【アルランディス/ホロスターズ】
+UID:Ot7poc3ly8E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SC Reading Zatsu】May I offer you a cup of CAWfee? #holoTEMPUS #Banzoinhakka【EN】\nhttps://www.youtube.com/watch?v=TGaS_jTWW9w
@@ -270,11 +277,11 @@ SUMMARY:博衣こより: #16【SEKIRO】へたっぴ #こよりSEKIRO ～最終�
 UID:DI51SP6Z9SY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HoloCure】HoloCure 0.5のアーリーアクセスビルド版を先行プレイ！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=Dtlb1n4Sv7o
+DESCRIPTION:≪OFF COLLAB≫ WE WENT TO GISNEYLAND! #baerys\nhttps://www.youtube.com/watch?v=9G6sya73UTc
 DURATION:PT2H
 DTSTART:20230208T130000Z
-SUMMARY:雪花ラミィ: 【HoloCure】HoloCure 0.5のアーリーアクセスビルド版を先行プレイ！！【雪花ラミィ/ホロライブ】
-UID:Dtlb1n4Sv7o
+SUMMARY:Baelz: ≪OFF COLLAB≫ WE WENT TO GISNEYLAND! #baerys
+UID:9G6sya73UTc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ラブライブ！同時視聴】2期1～4話をいっしょに観よう！なんと1話は配信画面に映ります！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=6fQXREO3GdY
@@ -366,6 +373,13 @@ DURATION:PT2H
 DTSTART:20230207T150000Z
 SUMMARY:🐻ときのそら: 空ノ空 Band Live ver.【ときのそらオリジナル楽曲】
 UID:CY87iKc5zaM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 ホグワーツ・レガシー 】早期アクセス‼遂にホグワーツに入学できる‼いくぞ‼ Hogwarts Legacy【鷹嶺ルイ/ホロライブ】#01\nhttps://www.youtube.com/watch?v=NbBXkt29jMA
+DURATION:PT2H
+DTSTART:20230208T080000Z
+SUMMARY:鷹嶺ルイ: 【 ホグワーツ・レガシー 】早期アクセス‼遂にホグワーツに入学できる‼いくぞ‼ Hogwarts Legacy【鷹嶺ルイ/ホロライブ】#01
+UID:NbBXkt29jMA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Hogwarts Legacy】I will shine your day with my LUMOS【holoID】\nhttps://www.youtube.com/watch?v=aLVpy3mCqww

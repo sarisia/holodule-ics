@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【晩酌】はじめての晩酌！いっしょにKPしよ？🎵【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=ioywaElg5PU
-DURATION:PT2H
-DTSTART:20230208T130000Z
-SUMMARY:🌟夜空メル: 【晩酌】はじめての晩酌！いっしょにKPしよ？🎵【ホロライブ/夜空メル】
-UID:ioywaElg5PU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【同時視聴】Nintendo Direct 2023.2.9、 一緒に観よ！！！【※ミラーではありません】\nhttps://www.youtube.com/watch?v=OtZD4J_qay8
 DURATION:PT2H
 DTSTART:20230208T214500Z
@@ -67,11 +60,11 @@ SUMMARY:獅白ぼたん: 【HITMAN】エージェント446の華麗なるマッ�
 UID:-GdPvxw9IWI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HoloCure】HoloCure 0.5のアーリーアクセスビルド版を先行プレイ！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=Dtlb1n4Sv7o
+DESCRIPTION:#16【SEKIRO】へたっぴ #こよりSEKIRO ～最終回(のハズ)！ラスボスリベンジ🔥～【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=DI51SP6Z9SY
 DURATION:PT2H
-DTSTART:20230208T130000Z
-SUMMARY:雪花ラミィ: 【HoloCure】HoloCure 0.5のアーリーアクセスビルド版を先行プレイ！！【雪花ラミィ/ホロライブ】
-UID:Dtlb1n4Sv7o
+DTSTART:20230208T100000Z
+SUMMARY:博衣こより: #16【SEKIRO】へたっぴ #こよりSEKIRO ～最終回(のハズ)！ラスボスリベンジ🔥～【博衣こより/ホロライブ】
+UID:DI51SP6Z9SY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 宝くじ／カメラ 】宝くじで一攫千金を狙うのら！！！(・o・🍬)　I want to win the lottery【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=Jl2GVm_OPsk
@@ -79,13 +72,6 @@ DURATION:PT2H
 DTSTART:20230209T100000Z
 SUMMARY:🍬姫森ルーナ: 【 宝くじ／カメラ 】宝くじで一攫千金を狙うのら！！！(・o・🍬)　I want to win the lottery【姫森ルーナ/ホロライブ】
 UID:Jl2GVm_OPsk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#16【SEKIRO】へたっぴ #こよりSEKIRO ～最終回(のハズ)！ラスボスリベンジ🔥～【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=DI51SP6Z9SY
-DURATION:PT2H
-DTSTART:20230208T100000Z
-SUMMARY:博衣こより: #16【SEKIRO】へたっぴ #こよりSEKIRO ～最終回(のハズ)！ラスボスリベンジ🔥～【博衣こより/ホロライブ】
-UID:DI51SP6Z9SY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Duolingo】#かなたの英語学習  Let's study English together!! 英語を勉強するぞおおおおお！！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=n6onKS7XTLs
@@ -128,6 +114,20 @@ DURATION:PT2H
 DTSTART:20230209T110000Z
 SUMMARY:🌲大神ミオ: 【 #常MOS 】たこパサバイバル！！！たこパを制する者は誰だ？！【たこパ】
 UID:ewiOeFckaQQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Dark and Darker】話題のゲームで超絶レア武器を取りに行きたい！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=kc6dw7JuEQk
+DURATION:PT2H
+DTSTART:20230208T120000Z
+SUMMARY:👯兎田ぺこら: 【Dark and Darker】話題のゲームで超絶レア武器を取りに行きたい！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:kc6dw7JuEQk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 ホグワーツ・レガシー 】早期アクセス‼遂にホグワーツに入学できる‼いくぞ‼ Hogwarts Legacy【鷹嶺ルイ/ホロライブ】#01\nhttps://www.youtube.com/watch?v=NbBXkt29jMA
+DURATION:PT2H
+DTSTART:20230208T080000Z
+SUMMARY:鷹嶺ルイ: 【 ホグワーツ・レガシー 】早期アクセス‼遂にホグワーツに入学できる‼いくぞ‼ Hogwarts Legacy【鷹嶺ルイ/ホロライブ】#01
+UID:NbBXkt29jMA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ホロ新サーバーでおうちづくり！PART2【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=VNxAGLVEjIk
