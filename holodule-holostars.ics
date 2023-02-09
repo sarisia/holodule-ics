@@ -4,55 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【GeoGuessr】最終回！方向音痴の妖がする、ジオゲッサー【夜十神封魔/UPRAOR!!】\nhttps://www.youtube.com/watch?v=4EUGtfqasr4
-DURATION:PT2H
-DTSTART:20230209T090000Z
-SUMMARY:夜十神封魔: 【GeoGuessr】最終回！方向音痴の妖がする、ジオゲッサー【夜十神封魔/UPRAOR!!】
-UID:4EUGtfqasr4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:音量設定を間違えまくっている恵方巻配信 #Shorts\nhttps://www.youtube.com/watch?v=rC0xuGWJXhw
-DURATION:PT2H
-DTSTART:20230209T090023Z
-SUMMARY:🍕アルランディス: 音量設定を間違えまくっている恵方巻配信 #Shorts
-UID:rC0xuGWJXhw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#緋崎ガンマ生誕祭2023】🎉誕生日3D配信🎉歌って騒いでメチャクチャになろう!!ゲストも来るぞ…!!!/ BIRTHDAY 3D LIVE【#ホロスターズ / #vtuber 】\nhttps://www.youtube.com/watch?v=FgR7qkrfx6U
-DURATION:PT2H
-DTSTART:20230209T110000Z
-SUMMARY:緋崎ガンマ: 【#緋崎ガンマ生誕祭2023】🎉誕生日3D配信🎉歌って騒いでメチャクチャになろう!!ゲストも来るぞ…!!!/ BIRTHDAY 3D LIVE【#ホロスターズ / #vtuber 】
-UID:FgR7qkrfx6U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ホグワーツレガシー】12時間プレイして進捗20％ 光の戦士♰トムリドル  / アステル\nhttps://www.youtube.com/watch?v=w4o5XQs7iZs
-DURATION:PT2H
-DTSTART:20230208T160000Z
-SUMMARY:🎭アステル・レダ: 【ホグワーツレガシー】12時間プレイして進捗20％ 光の戦士♰トムリドル  / アステル
-UID:w4o5XQs7iZs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【メン限】「ハリーポッターと賢者の石」同時視聴【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=-kRHLQ0GbqQ
-DURATION:PT2H
-DTSTART:20230209T130000Z
-SUMMARY:🌺花咲みやび: 【メン限】「ハリーポッターと賢者の石」同時視聴【花咲みやび/ホロスターズ】
-UID:-kRHLQ0GbqQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Satisfactory】いよいよ最終ステージに突入する！！大規模工場だ！【岸堂天真/花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=Ls_Vb8pk8II
-DURATION:PT2H
-DTSTART:20230209T073000Z
-SUMMARY:🦔💨岸堂天真: 【Satisfactory】いよいよ最終ステージに突入する！！大規模工場だ！【岸堂天真/花咲みやび/ホロスターズ】
-UID:Ls_Vb8pk8II
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ヒトカラ】俺は歌わない【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=kUVw6gurhT0
-DURATION:PT2H
-DTSTART:20230209T080000Z
-SUMMARY:🍷夕刻ロベル: 【ヒトカラ】俺は歌わない【夕刻ロベル/ホロスターズ】
-UID:kUVw6gurhT0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【VALORANT】 w/夜十神封魔 柚原いづみ 森永千才 雪城眞尋【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=I0zCh7ZlrQ0
 DURATION:PT2H
 DTSTART:20230209T130000Z
@@ -65,6 +16,13 @@ DURATION:PT2H
 DTSTART:20230209T130000Z
 SUMMARY:夜十神封魔: 【VALORANT】わちゃVALO：封魔視点　w/柚原いづみさん 雪城眞尋さん 森永千才さん 水無世燐央さん【夜十神封魔/UPRAOR!!】
 UID:3chxRwJTpcc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【GeoGuessr】最終回！方向音痴の妖がする、ジオゲッサー【夜十神封魔/UPRAOR!!】\nhttps://www.youtube.com/watch?v=4EUGtfqasr4
+DURATION:PT2H
+DTSTART:20230209T090000Z
+SUMMARY:夜十神封魔: 【GeoGuessr】最終回！方向音痴の妖がする、ジオゲッサー【夜十神封魔/UPRAOR!!】
+UID:4EUGtfqasr4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ホグワーツレガシー】禁断の魔術を手に入れるかもしれない光の戦士トムリドル  / アステル\nhttps://www.youtube.com/watch?v=hVUDZGRNX6k
@@ -81,11 +39,32 @@ SUMMARY:🎭アステル・レダ: 【ホグワーツレガシー】このゲー
 UID:KEphIAU2w6g
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:音量設定を間違えまくっている恵方巻配信 #Shorts\nhttps://www.youtube.com/watch?v=rC0xuGWJXhw
+DURATION:PT2H
+DTSTART:20230209T090023Z
+SUMMARY:🍕アルランディス: 音量設定を間違えまくっている恵方巻配信 #Shorts
+UID:rC0xuGWJXhw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#緋崎ガンマ生誕祭2023】🎉誕生日3D配信🎉歌って騒いでメチャクチャになろう!!ゲストも来るぞ…!!!/ BIRTHDAY 3D LIVE【#ホロスターズ / #vtuber 】\nhttps://www.youtube.com/watch?v=FgR7qkrfx6U
+DURATION:PT2H
+DTSTART:20230209T110000Z
+SUMMARY:緋崎ガンマ: 【#緋崎ガンマ生誕祭2023】🎉誕生日3D配信🎉歌って騒いでメチャクチャになろう!!ゲストも来るぞ…!!!/ BIRTHDAY 3D LIVE【#ホロスターズ / #vtuber 】
+UID:FgR7qkrfx6U
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:自社のイベントとアイマスのライブが被っている男からの伝言ｗｗ　#shorts\nhttps://www.youtube.com/watch?v=6xR5z68ahP8
 DURATION:PT2H
 DTSTART:20230209T033008Z
 SUMMARY:🍷夕刻ロベル: 自社のイベントとアイマスのライブが被っている男からの伝言ｗｗ　#shorts
 UID:6xR5z68ahP8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ホグワーツレガシー】12時間プレイして進捗20％ 光の戦士♰トムリドル  / アステル\nhttps://www.youtube.com/watch?v=w4o5XQs7iZs
+DURATION:PT2H
+DTSTART:20230208T160000Z
+SUMMARY:🎭アステル・レダ: 【ホグワーツレガシー】12時間プレイして進捗20％ 光の戦士♰トムリドル  / アステル
+UID:w4o5XQs7iZs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Dark and Darker】右も左も分からない【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=NynidrqTl9Q
@@ -109,10 +88,24 @@ SUMMARY:🍕アルランディス: 【 #DJARN 】昼からノリノリ！DJタ�
 UID:yX5K_EBqJoc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Satisfactory】いよいよ最終ステージに突入する！！大規模工場だ！【岸堂天真/花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=Ls_Vb8pk8II
+DURATION:PT2H
+DTSTART:20230209T073000Z
+SUMMARY:🦔💨岸堂天真: 【Satisfactory】いよいよ最終ステージに突入する！！大規模工場だ！【岸堂天真/花咲みやび/ホロスターズ】
+UID:Ls_Vb8pk8II
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX Legends】渋谷ハルカスタムにでる  / アステル shomaru7さん おなつさん\nhttps://www.youtube.com/watch?v=0TMT4hivtM0
 DURATION:PT2H
 DTSTART:20230209T121500Z
 SUMMARY:🎭アステル・レダ: 【APEX Legends】渋谷ハルカスタムにでる  / アステル shomaru7さん おなつさん
 UID:0TMT4hivtM0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ヒトカラ】俺は歌わない【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=kUVw6gurhT0
+DURATION:PT2H
+DTSTART:20230209T080000Z
+SUMMARY:🍷夕刻ロベル: 【ヒトカラ】俺は歌わない【夕刻ロベル/ホロスターズ】
+UID:kUVw6gurhT0
 END:VEVENT
 END:VCALENDAR
