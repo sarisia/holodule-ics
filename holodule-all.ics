@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ホグワーツレガシー】ぜっったいに闇落ちするな！！！！！アバダケるな！！  / アステル\nhttps://www.youtube.com/watch?v=Ei9b00JUmZU
+DURATION:PT2H
+DTSTART:20230210T050000Z
+SUMMARY:🎭アステル・レダ: 【ホグワーツレガシー】ぜっったいに闇落ちするな！！！！！アバダケるな！！  / アステル
+UID:Ei9b00JUmZU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【HoloCure】本日最新アプデ！！1&2期生追加だああああ！！✨【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=fy_Ty89PtbU
 DURATION:PT2H
 DTSTART:20230210T113000Z
@@ -30,13 +37,6 @@ DURATION:PT2H
 DTSTART:20230211T100000Z
 SUMMARY:👾常闇トワ: U.F.O. - U Feel Overjoyed! - / 常闇トワ(official)
 UID:HBmss54l5zc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Dark Deception 】夜中なのでのんびり鬼ごっこゲームする！！【#vtuber / #羽継烏有 / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=fMwGiz7pxyY
-DURATION:PT2H
-DTSTART:20230210T143000Z
-SUMMARY:羽継烏有: 【 Dark Deception 】夜中なのでのんびり鬼ごっこゲームする！！【#vtuber / #羽継烏有 / #ホロスターズ 】
-UID:fMwGiz7pxyY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【  #ホロライブヘブバンWEEK 】あのAngel Beats!とコラボですって！？！？神作品×神作品で期待大！【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=U7l_FJtZcfE
@@ -205,6 +205,13 @@ DURATION:PT2H
 DTSTART:20230211T010000Z
 SUMMARY:Hakka: 【MINECRAFT 】TIME TO PAY BACK MY SENPAIS! #holoTEMPUS #Banzoinhakka【EN】
 UID:M0H8TKuGCIw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【モンスターハンターライズ：サンブレイク】無料DLCを堪能していきたい獣人【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=uhKv2GjPIjw
+DURATION:PT2H
+DTSTART:20230210T140000Z
+SUMMARY:影山シエン: 【モンスターハンターライズ：サンブレイク】無料DLCを堪能していきたい獣人【影山シエン/ホロスターズ】
+UID:uhKv2GjPIjw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Angels Of Death】FINAL  | SPOILER WARNING\nhttps://www.youtube.com/watch?v=PB8J2Po4fyE
@@ -459,18 +466,18 @@ SUMMARY:🐏角巻わため: 【Minecraft】こっそりアレ作っちゃうぞ
 UID:isd0czmhG2o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】話したいことがありすぎて逆に話せない時、あるよね？【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=QX1zmHSXyIo
-DURATION:PT2H
-DTSTART:20230210T150000Z
-SUMMARY:水無世燐央: 【雑談】話したいことがありすぎて逆に話せない時、あるよね？【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】
-UID:QX1zmHSXyIo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:驚き続けた結果ヘリウムガスを信じられない量吸った男 #shorts #Vtuber #ホラゲー\nhttps://www.youtube.com/watch?v=2up-lDGK_bg
 DURATION:PT2H
 DTSTART:20230210T090002Z
 SUMMARY:🍕アルランディス: 驚き続けた結果ヘリウムガスを信じられない量吸った男 #shorts #Vtuber #ホラゲー
 UID:2up-lDGK_bg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 APEX 】ゲリラ！１戦だけのAPEX！【 #vtuber /#羽継烏有 / #uproar  】\nhttps://www.youtube.com/watch?v=TUOvXgjM3l8
+DURATION:PT2H
+DTSTART:20230210T171500Z
+SUMMARY:羽継烏有: 【 APEX 】ゲリラ！１戦だけのAPEX！【 #vtuber /#羽継烏有 / #uproar  】
+UID:TUOvXgjM3l8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #ホロライブヘブバンWEEK 】Angel Beats!コラボコンテンツをプレイするよ～！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=5pH7893EpHw
