@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ホグワーツレガシー】ぜっったいに闇落ちするな！！！！！アバダケるな！！  / アステル\nhttps://www.youtube.com/watch?v=Ei9b00JUmZU
-DURATION:PT2H
-DTSTART:20230210T050000Z
-SUMMARY:🎭アステル・レダ: 【ホグワーツレガシー】ぜっったいに闇落ちするな！！！！！アバダケるな！！  / アステル
-UID:Ei9b00JUmZU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【HoloCure】本日最新アプデ！！1&2期生追加だああああ！！✨【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=fy_Ty89PtbU
 DURATION:PT2H
 DTSTART:20230210T113000Z
@@ -23,6 +16,13 @@ DURATION:PT2H
 DTSTART:20230210T120000Z
 SUMMARY:🎨Iofi: 【 Minecraft 】WARDENを素手で倒した後のそれから...【 #イオそら 】
 UID:xHlAOQ7RFQQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ホグワーツレガシー】衝撃の最終回を迎える面だけはしている  / アステル\nhttps://www.youtube.com/watch?v=x6I1ZV2QQus
+DURATION:PT2H
+DTSTART:20230210T153000Z
+SUMMARY:🎭アステル・レダ: 【ホグワーツレガシー】衝撃の最終回を迎える面だけはしている  / アステル
+UID:x6I1ZV2QQus
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Dark Deception 】夜中なのでのんびり鬼ごっこゲームする！！【#vtuber / #羽継烏有 / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=fMwGiz7pxyY
@@ -137,11 +137,11 @@ SUMMARY:IRyS: 【Dead Space Remake】Stomping is so much fun
 UID:dvm3w3m_jsA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】キャリーできません。キャリーされたいです。初心者です【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=pTyRt2MZ0zk
+DESCRIPTION:【 HoloCure 】アプデきちゃああああ！新キャラGETするぞおおおお🌟【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=gVIJGhGZ0rA
 DURATION:PT2H
 DTSTART:20230210T130000Z
-SUMMARY:👾常闇トワ: 【APEX】キャリーできません。キャリーされたいです。初心者です【常闇トワ/ホロライブ】
-UID:pTyRt2MZ0zk
+SUMMARY:🌸さくらみこ: 【 HoloCure 】アプデきちゃああああ！新キャラGETするぞおおおお🌟【ホロライブ/さくらみこ】
+UID:gVIJGhGZ0rA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Dark and Darker】右も左も分からない【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=NynidrqTl9Q
@@ -149,13 +149,6 @@ DURATION:PT2H
 DTSTART:20230209T153000Z
 SUMMARY:🍷夕刻ロベル: 【Dark and Darker】右も左も分からない【夕刻ロベル/ホロスターズ】
 UID:NynidrqTl9Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 HoloCure 】アプデきちゃああああ！新キャラGETするぞおおおお🌟【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=gVIJGhGZ0rA
-DURATION:PT2H
-DTSTART:20230210T130000Z
-SUMMARY:🌸さくらみこ: 【 HoloCure 】アプデきちゃああああ！新キャラGETするぞおおおお🌟【ホロライブ/さくらみこ】
-UID:gVIJGhGZ0rA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン3】甘いミルクの海に沈めます🍫【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=RWaBdljNnpI
@@ -177,6 +170,13 @@ DURATION:PT2H
 DTSTART:20230211T050000Z
 SUMMARY:雪花ラミィ: ＃１２【 ドラクエIV 】最終回（のはず）！行け！！デスピサロ戦！！【雪花ラミィ/ホロライブ】※ネタバレあり
 UID:k_iR4zI9fvs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【＃最終回】ガンソード同時視聴会しゅばああああああああああああああ：GUN×SWORD watch party【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=KHkVMqcGRUE
+DURATION:PT2H
+DTSTART:20230210T120000Z
+SUMMARY:🚑大空スバル: 【＃最終回】ガンソード同時視聴会しゅばああああああああああああああ：GUN×SWORD watch party【ホロライブ/大空スバル】
+UID:KHkVMqcGRUE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【モンスターハンターライズ：サンブレイク】無料DLCを堪能していきたい獣人【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=uhKv2GjPIjw
@@ -520,6 +520,13 @@ DURATION:PT2H
 DTSTART:20230210T100000Z
 SUMMARY:💫天音かなた: 【ポケモンSV/エリアゼロ】完全初見！いよいよアビスへ #09【天音かなた/ホロライブ】
 UID:viH1_U6hn2E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 APEX 】コラボ、もはやバブ【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=7pVn6NK9a5g
+DURATION:PT2H
+DTSTART:20230210T130000Z
+SUMMARY:桃鈴ねね: 【 APEX 】コラボ、もはやバブ【 桃鈴ねね / ホロライブ 】
+UID:7pVn6NK9a5g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 ホグワーツ・レガシー 】ストーリー中心回‼私は”勇敢な”グリフィンドール生です。 Hogwarts Legacy【鷹嶺ルイ/ホロライブ】#03\nhttps://www.youtube.com/watch?v=ykmfsqytfzw
