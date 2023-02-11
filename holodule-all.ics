@@ -46,18 +46,18 @@ SUMMARY:🎭アステル・レダ: 【ホグワーツレガシー】衝撃の最
 UID:x6I1ZV2QQus
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:U.F.O. - U Feel Overjoyed! - / 常闇トワ(official)\nhttps://www.youtube.com/watch?v=HBmss54l5zc
-DURATION:PT2H
-DTSTART:20230211T100000Z
-SUMMARY:👾常闇トワ: U.F.O. - U Feel Overjoyed! - / 常闇トワ(official)
-UID:HBmss54l5zc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Holocure】1期生＆2期生実装！アップデートきｔらああああああああああああああああああ！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=6dVZUNmMbi4
 DURATION:PT2H
 DTSTART:20230211T100000Z
 SUMMARY:👯兎田ぺこら: 【Holocure】1期生＆2期生実装！アップデートきｔらああああああああああああああああああ！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
 UID:6dVZUNmMbi4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:U.F.O. - U Feel Overjoyed! - / 常闇トワ(official)\nhttps://www.youtube.com/watch?v=HBmss54l5zc
+DURATION:PT2H
+DTSTART:20230211T100000Z
+SUMMARY:👾常闇トワ: U.F.O. - U Feel Overjoyed! - / 常闇トワ(official)
+UID:HBmss54l5zc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Dark Deception 】夜中なのでのんびり鬼ごっこゲームする！！【#vtuber / #羽継烏有 / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=fMwGiz7pxyY
@@ -550,11 +550,25 @@ SUMMARY:風真いろは: 【雑談】たくさん寝ちゃったでござる😢
 UID:x3-x1e1RNaE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Mega Man Zero 2】#2 Elpizo Pizza\nhttps://www.youtube.com/watch?v=PnjyLDOBeMs
+DURATION:PT2H
+DTSTART:20230211T190000Z
+SUMMARY:Flayon: 【Mega Man Zero 2】#2 Elpizo Pizza
+UID:PnjyLDOBeMs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:hiBANA day 1 trailer: MAID CAFE (w/ subtitle!)\nhttps://www.youtube.com/watch?v=rQQtUngcn1Y
 DURATION:PT2H
 DTSTART:20230210T072754Z
 SUMMARY:Zeta: hiBANA day 1 trailer: MAID CAFE (w/ subtitle!)
 UID:rQQtUngcn1Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#2】ドミトレスク討伐後、今時レアな完全初見プレイで神ストーリーと話題のバイオハザード ヴィレッジ！Resident Evil Village【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=5OEcEz4FsPw
+DURATION:PT2H
+DTSTART:20230211T040000Z
+SUMMARY:沙花叉クロヱ: 【#2】ドミトレスク討伐後、今時レアな完全初見プレイで神ストーリーと話題のバイオハザード ヴィレッジ！Resident Evil Village【沙花叉クロヱ/ホロライブ】
+UID:5OEcEz4FsPw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 ホグワーツレガシー 】ハリーポッターを1mmも知らない女が行く魔法学校1日目【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=k9rqdD95N04
@@ -760,6 +774,13 @@ SUMMARY:🤖ロボ子さん: 【＃ド深夜UNO】今年初のド深夜UNO【  �
 UID:C9JSAt4bd7g
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【HoloCure】最新アプデHARD新コースに挑む！！🔥【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=exW3YE1Ymss
+DURATION:PT2H
+DTSTART:20230212T080000Z
+SUMMARY:博衣こより: 【HoloCure】最新アプデHARD新コースに挑む！！🔥【博衣こより/ホロライブ】
+UID:exW3YE1Ymss
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ヨッシーアイランド】初見🌟最終ステージクリアまで‼クリア耐久いくぞおおお！🔥【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=lEeWejOJsUE
 DURATION:PT2H
 DTSTART:20230211T100000Z
@@ -849,13 +870,6 @@ DURATION:PT2H
 DTSTART:20230211T090000Z
 SUMMARY:風真いろは: 【 NieR:Automata 】初見プレイ🔥やってみるでござる！！【風真いろは/ホロライブ】※配信内容にゲームネタバレを含みます
 UID:gx7wwbu6Rak
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HoloCure】#19 chill grind until hi:bana【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=Nv_IHsLpSZg
-DURATION:PT2H
-DTSTART:20230211T054500Z
-SUMMARY:Kaela: 【HoloCure】#19 chill grind until hi:bana【Kaela Kovalskia / hololiveID】
-UID:Nv_IHsLpSZg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:〘Fallout: NV〙BOWSON BOJANGLES 👢 ⭐| #2\nhttps://www.youtube.com/watch?v=2UtQM5LMopI
