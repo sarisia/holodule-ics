@@ -88,18 +88,18 @@ SUMMARY:🤖ロボ子さん: 【お披露目】ロボ子さんV2別装備達が�
 UID:KSRUgGTp2sg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【女王降臨】ラミィ師範に渾身の作品を見せつけろ！【フラワーアレンジメント】\nhttps://www.youtube.com/watch?v=7DXH3id1jTM
-DURATION:PT2H
-DTSTART:20230213T100000Z
-SUMMARY:ホロライブ: 【女王降臨】ラミィ師範に渾身の作品を見せつけろ！【フラワーアレンジメント】
-UID:7DXH3id1jTM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 ホグワーツ・レガシー 】メインストーリー回‼戦闘〇飛行×勇敢さ◎のグリフィンドール生。 Hogwarts Legacy【鷹嶺ルイ/ホロライブ】#04\nhttps://www.youtube.com/watch?v=3eitjoNrz7U
 DURATION:PT2H
 DTSTART:20230213T100000Z
 SUMMARY:鷹嶺ルイ: 【 ホグワーツ・レガシー 】メインストーリー回‼戦闘〇飛行×勇敢さ◎のグリフィンドール生。 Hogwarts Legacy【鷹嶺ルイ/ホロライブ】#04
 UID:3eitjoNrz7U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【女王降臨】ラミィ師範に渾身の作品を見せつけろ！【フラワーアレンジメント】\nhttps://www.youtube.com/watch?v=7DXH3id1jTM
+DURATION:PT2H
+DTSTART:20230213T100000Z
+SUMMARY:ホロライブ: 【女王降臨】ラミィ師範に渾身の作品を見せつけろ！【フラワーアレンジメント】
+UID:7DXH3id1jTM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【カメラあり】うーばーござる🍫ガトーショコラつくるでござる～～！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=sdGyDE0--wM
@@ -163,13 +163,6 @@ DURATION:PT2H
 DTSTART:20230213T090000Z
 SUMMARY:👾常闇トワ: 【Minecraft】ホロ新サーバーでおうちづくり！PART3【常闇トワ/ホロライブ】
 UID:VUwpT3B-QcE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3/耐久】フェス ホワイト陣営🍫朝9時まで寝るな☀【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=i7oC-mBAwcE
-DURATION:PT2H
-DTSTART:20230212T130000Z
-SUMMARY:🔥不知火フレア: 【スプラトゥーン3/耐久】フェス ホワイト陣営🍫朝9時まで寝るな☀【不知火フレア/ホロライブ】
-UID:i7oC-mBAwcE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠/singing】重大告知あり‼バレンタインらしくバラードを歌っていく♡【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=XieMgaDgA4c
@@ -275,6 +268,13 @@ DURATION:PT2H
 DTSTART:20230212T140000Z
 SUMMARY:🌟夜空メル: 【スプラトゥーン3】チョコまみれにしてあげる！🍫❤【ホロライブ/夜空メル】
 UID:W_IuhQI_8Dc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】マイクラ！！！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=SpNeE5sSZAE
+DURATION:PT2H
+DTSTART:20230213T130000Z
+SUMMARY:👯兎田ぺこら: 【Minecraft】マイクラ！！！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:SpNeE5sSZAE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 mocopi 】おうち全身3Dで色々やってみたいにぇ！！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=Xk4vrEWjhek
