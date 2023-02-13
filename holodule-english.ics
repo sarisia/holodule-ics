@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【POKEMON VIOLET】 STORY...STORY....STORY 【#8】\nhttps://www.youtube.com/watch?v=gQoGK9YDcEY
-DURATION:PT2H
-DTSTART:20230211T230000Z
-SUMMARY:Ina: 【POKEMON VIOLET】 STORY...STORY....STORY 【#8】
-UID:gQoGK9YDcEY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【SKYRIM】 Where am I...?? Where is Faendal???\nhttps://www.youtube.com/watch?v=W5_zD05wgho
 DURATION:PT2H
 DTSTART:20230212T230000Z
@@ -25,18 +18,11 @@ SUMMARY:Calli: 【hi】hi.
 UID:S2kC5Crs5Qg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HOLOBAGS】 Episode 2! More peeking into BAGS! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=iFBKlhBNF7c
+DESCRIPTION:【POKEMON VIOLET】 IS THIS IT?!  【#9】\nhttps://www.youtube.com/watch?v=xZmAPTG6-1k
 DURATION:PT2H
-DTSTART:20230212T120000Z
-SUMMARY:Kiara: 【HOLOBAGS】 Episode 2! More peeking into BAGS! #kfp #キアライブ
-UID:iFBKlhBNF7c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪HOLOCURE≫ Stage 3 + GACHA\nhttps://www.youtube.com/watch?v=pfcGBEc22SA
-DURATION:PT2H
-DTSTART:20230213T010000Z
-SUMMARY:Baelz: ≪HOLOCURE≫ Stage 3 + GACHA
-UID:pfcGBEc22SA
+DTSTART:20230213T000000Z
+SUMMARY:Ina: 【POKEMON VIOLET】 IS THIS IT?!  【#9】
+UID:xZmAPTG6-1k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HOLOCURE】UP TO DATE !\nhttps://www.youtube.com/watch?v=nBdPbm9pqQA
@@ -51,5 +37,26 @@ DURATION:PT2H
 DTSTART:20230212T010000Z
 SUMMARY:Gura: 【GURA】WHERE IS GURA 🐟
 UID:vfsuo2Q1dEM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【POKEMON VIOLET】 STORY...STORY....STORY 【#8】\nhttps://www.youtube.com/watch?v=gQoGK9YDcEY
+DURATION:PT2H
+DTSTART:20230211T230000Z
+SUMMARY:Ina: 【POKEMON VIOLET】 STORY...STORY....STORY 【#8】
+UID:gQoGK9YDcEY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HOLOBAGS】 Episode 2! More peeking into BAGS! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=iFBKlhBNF7c
+DURATION:PT2H
+DTSTART:20230212T120000Z
+SUMMARY:Kiara: 【HOLOBAGS】 Episode 2! More peeking into BAGS! #kfp #キアライブ
+UID:iFBKlhBNF7c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪HOLOCURE≫ Stage 3 + GACHA\nhttps://www.youtube.com/watch?v=pfcGBEc22SA
+DURATION:PT2H
+DTSTART:20230213T010000Z
+SUMMARY:Baelz: ≪HOLOCURE≫ Stage 3 + GACHA
+UID:pfcGBEc22SA
 END:VEVENT
 END:VCALENDAR
