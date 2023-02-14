@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【HOLOCURE】NEW UPDATE HERE I COME!!! Trying Everyone Out!!!【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=-4K0lxgvrsc
-DURATION:PT2H
-DTSTART:20230213T133000Z
-SUMMARY:Reine: 【HOLOCURE】NEW UPDATE HERE I COME!!! Trying Everyone Out!!!【Pavolia Reine/hololiveID 2nd gen】
-UID:-4K0lxgvrsc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Pogostuck: Rage With Your Friends】how not to stuck【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=vPf8CAuLaI4
 DURATION:PT2H
 DTSTART:20230214T030000Z
@@ -23,13 +16,6 @@ DURATION:PT2H
 DTSTART:20230212T231500Z
 SUMMARY:Kaela: 【PEJUANG SENIN】#36 good morning! how are you today?🌞【Kaela's Monday Warrior】
 UID:E1Y7Vj-NCks
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HoloCure】#20 continue ikz【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=vH8vYyv3dmI
-DURATION:PT2H
-DTSTART:20230213T020000Z
-SUMMARY:Kaela: 【HoloCure】#20 continue ikz【Kaela Kovalskia / hololiveID】
-UID:vH8vYyv3dmI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 ioSalon 】マリン船長とノエル団長の新髪形！【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=oOBoqrn_p88
@@ -51,5 +37,26 @@ DURATION:PT2H
 DTSTART:20230212T160347Z
 SUMMARY:🎨Iofi: ❤️KISS ❤️ #shorts #airani_iofifteen #iofi #hololive
 UID:mcaQlmjnOOM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:可愛くてごめん / Kawaikute Gomen 【Cover ♡ Vestia Zeta】\nhttps://www.youtube.com/watch?v=WDueRRGIKzw
+DURATION:PT2H
+DTSTART:20230214T050000Z
+SUMMARY:Zeta: 可愛くてごめん / Kawaikute Gomen 【Cover ♡ Vestia Zeta】
+UID:WDueRRGIKzw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HOLOCURE】NEW UPDATE HERE I COME!!! Trying Everyone Out!!!【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=-4K0lxgvrsc
+DURATION:PT2H
+DTSTART:20230213T133000Z
+SUMMARY:Reine: 【HOLOCURE】NEW UPDATE HERE I COME!!! Trying Everyone Out!!!【Pavolia Reine/hololiveID 2nd gen】
+UID:-4K0lxgvrsc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HoloCure】#20 continue ikz【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=vH8vYyv3dmI
+DURATION:PT2H
+DTSTART:20230213T020000Z
+SUMMARY:Kaela: 【HoloCure】#20 continue ikz【Kaela Kovalskia / hololiveID】
+UID:vH8vYyv3dmI
 END:VEVENT
 END:VCALENDAR
