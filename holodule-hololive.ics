@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ホグワーツレガシー】ウサー・ペッコーと闇の魔法使いの誕生。ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=noNN8c8j9Nw
-DURATION:PT2H
-DTSTART:20230215T110000Z
-SUMMARY:👯兎田ぺこら: 【ホグワーツレガシー】ウサー・ペッコーと闇の魔法使いの誕生。ぺこ！【ホロライブ/兎田ぺこら】
-UID:noNN8c8j9Nw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 ホグワーツ・レガシー 】ねねとヴェンの青春魔法生活【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=DMk9QlxhQO4
 DURATION:PT2H
 DTSTART:20230215T083000Z
@@ -51,6 +44,13 @@ DURATION:PT2H
 DTSTART:20230217T120000Z
 SUMMARY:🍎アキロゼ: 【#アキロゼ生誕祭2023】ーStart your Journeyー【3DLIVE】
 UID:lqF7htng4l8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Dying Light】4人いれば無数のゾンビだってボコボコや！（フラグ）【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=TD2wQ7KE17g
+DURATION:PT2H
+DTSTART:20230215T130000Z
+SUMMARY:獅白ぼたん: 【Dying Light】4人いれば無数のゾンビだってボコボコや！（フラグ）【獅白ぼたん/ホロライブ】
+UID:TD2wQ7KE17g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 HoloCure 】自キャラ縛り！クリアぐらい簡単だよなああぁぁ！？？【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=jn3zUat1XYo
@@ -95,13 +95,6 @@ SUMMARY:🥐戌神ころね: 【】まいくらこらぼ【】
 UID:zNDbNjjIEc4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロライブヘブバンWEEK】Angel Beats!コラボ激アツ！！あそぶぞおお【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=MzpkYRYCb_s
-DURATION:PT2H
-DTSTART:20230215T130000Z
-SUMMARY:🌟夜空メル: 【#ホロライブヘブバンWEEK】Angel Beats!コラボ激アツ！！あそぶぞおお【ホロライブ/夜空メル】
-UID:MzpkYRYCb_s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Dying Light】みんなでわちゃわちゃゾンビ倒し!!【常闇トワ / ホロライブ】\nhttps://www.youtube.com/watch?v=a9C0j_AkTbY
 DURATION:PT2H
 DTSTART:20230215T130000Z
@@ -135,6 +128,13 @@ DURATION:PT2H
 DTSTART:20230215T151500Z
 SUMMARY:博衣こより: 【ゲリラ雑談】ホロポケカップ優勝！応援ありがとうございました！！【博衣こより/ホロライブ】
 UID:3Z8XJKaKB44
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【視聴者参加型】ついに来た…みんなで「いっき団結」する時が…！！！【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=F4S4S0CSpVo
+DURATION:PT2H
+DTSTART:20230215T120000Z
+SUMMARY:🥐戌神ころね: 【視聴者参加型】ついに来た…みんなで「いっき団結」する時が…！！！【戌神ころね/ホロライブ】
+UID:F4S4S0CSpVo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】レール繋げて秘密（になる予定）の場所まで繋げ！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=GwGkuHjFT8A
