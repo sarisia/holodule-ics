@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【メン限／ASMR】遅めのバレンタイン🍫💕とびっきりあまあま彼女と過ごそ🎁【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=nyU8-hPtbWo
-DURATION:PT2H
-DTSTART:20230216T140000Z
-SUMMARY:⚔白銀ノエル: 【メン限／ASMR】遅めのバレンタイン🍫💕とびっきりあまあま彼女と過ごそ🎁【白銀ノエル/ホロライブ】
-UID:nyU8-hPtbWo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ひろがるホロライブ】イベントまで1ヶ月！EXPO重大ニュースをお届け！【ホロライブ公式】\nhttps://www.youtube.com/watch?v=rxXjpThCgUY
 DURATION:PT2H
 DTSTART:20230218T110000Z
@@ -60,11 +53,11 @@ SUMMARY:🌸さくらみこ: 【 Minecraft 】たのしいマイクラのじか�
 UID:hyBMnyS5Duo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】塩パンで新ホロ鯖に乗り込むぞー！！【ホロライブ/紫咲シオン/戌神ころね】\nhttps://www.youtube.com/watch?v=bNf0lNiq7Fw
+DESCRIPTION:【 Minecraft 】エンドシティ探索✨建築マンにとってもエリトラは必要でござる🔥【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=m26F1jp3tQQ
 DURATION:PT2H
 DTSTART:20230216T120000Z
-SUMMARY:🌙紫咲シオン: 【Minecraft】塩パンで新ホロ鯖に乗り込むぞー！！【ホロライブ/紫咲シオン/戌神ころね】
-UID:bNf0lNiq7Fw
+SUMMARY:風真いろは: 【 Minecraft 】エンドシティ探索✨建築マンにとってもエリトラは必要でござる🔥【風真いろは/ホロライブ】
+UID:m26F1jp3tQQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】スライムトラップを作る！！！㊗チャンク特定！！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=8TXk25p_sWA
@@ -72,13 +65,6 @@ DURATION:PT2H
 DTSTART:20230216T130000Z
 SUMMARY:博衣こより: 【Minecraft】スライムトラップを作る！！！㊗チャンク特定！！！【博衣こより/ホロライブ】
 UID:8TXk25p_sWA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#塩んぱん】ふたりでまいくら！【Minecraft】\nhttps://www.youtube.com/watch?v=zNDbNjjIEc4
-DURATION:PT2H
-DTSTART:20230216T120000Z
-SUMMARY:🥐戌神ころね: 【#塩んぱん】ふたりでまいくら！【Minecraft】
-UID:zNDbNjjIEc4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【3D/リングフィットアドベンチャー】mocopiを使って全身トラッキング！こよの動き、丸見え…！？【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=uXH4kzAhXiA
@@ -151,18 +137,18 @@ SUMMARY:獅白ぼたん: 【HoloCure】アプデきちゃ！ガチャまわし�
 UID:CXnFyBj88Jw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロライブヘブバンWEEK】Angel Beats!コラボをプレイさせていただきます！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=sghp0z2vs5I
-DURATION:PT2H
-DTSTART:20230216T090000Z
-SUMMARY:博衣こより: 【#ホロライブヘブバンWEEK】Angel Beats!コラボをプレイさせていただきます！！【博衣こより/ホロライブ】
-UID:sghp0z2vs5I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Unpacking】深夜になると突然片付けしたくなるのなんでやろな【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=UgEWIA5ZBOY
 DURATION:PT2H
 DTSTART:20230216T140000Z
 SUMMARY:🔥不知火フレア: 【Unpacking】深夜になると突然片付けしたくなるのなんでやろな【不知火フレア/ホロライブ】
 UID:UgEWIA5ZBOY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロライブヘブバンWEEK】Angel Beats!コラボをプレイさせていただきます！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=sghp0z2vs5I
+DURATION:PT2H
+DTSTART:20230216T090000Z
+SUMMARY:博衣こより: 【#ホロライブヘブバンWEEK】Angel Beats!コラボをプレイさせていただきます！！【博衣こより/ホロライブ】
+UID:sghp0z2vs5I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #なのらいぶ 】んなたん錬金術師になるのらっ！Potion Craft【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=daguD5eqwVo
@@ -186,11 +172,25 @@ SUMMARY:❤赤井はあと: 【 Minecraft 】いろはちゃんとおデート�
 UID:T1KDSK5FgpM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【重大告知あり】100万人まで耐久歌枠！一緒にお祝いしてほしいな…！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=_AqzB06-HQI
+DURATION:PT2H
+DTSTART:20230218T090000Z
+SUMMARY:沙花叉クロヱ: 【重大告知あり】100万人まで耐久歌枠！一緒にお祝いしてほしいな…！【沙花叉クロヱ/ホロライブ】
+UID:_AqzB06-HQI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【HoloCure】アプデきちゃああ！一期生＆二期生実装✨ 遊ぶ～～！【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=JzOMnUjltgw
 DURATION:PT2H
 DTSTART:20230216T130000Z
 SUMMARY:🍙猫又おかゆ: 【HoloCure】アプデきちゃああ！一期生＆二期生実装✨ 遊ぶ～～！【猫又おかゆ/ホロライブ】
 UID:JzOMnUjltgw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Member only / メンバー限定】一緒にエスケープしよ❤Escape from Tarkov【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=DZBnWcu0mBk
+DURATION:PT2H
+DTSTART:20230217T120000Z
+SUMMARY:獅白ぼたん: 【Member only / メンバー限定】一緒にエスケープしよ❤Escape from Tarkov【獅白ぼたん/ホロライブ】
+UID:DZBnWcu0mBk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HoloCure】一期生＆二期生きちゃ！ガチャするぞおおお【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=J3KAcQVg1QQ
