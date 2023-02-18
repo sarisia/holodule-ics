@@ -277,18 +277,18 @@ SUMMARY:👾常闇トワ: 【APEX】 #KUREIJIARCADE /  HOLO APEX祭に参加す�
 UID:SuPhc5fQXX8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】かなクロ全ロスを超えてエリトラリベンジ！！！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=lsU86Si3aoI
-DURATION:PT2H
-DTSTART:20230219T040000Z
-SUMMARY:沙花叉クロヱ: 【Minecraft】かなクロ全ロスを超えてエリトラリベンジ！！！【沙花叉クロヱ/ホロライブ】
-UID:lsU86Si3aoI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX Legends】KUREIJI ARCADE  / アステル with Vesper Iofi (^_-)-☆\nhttps://www.youtube.com/watch?v=4spVLTCdvTY
 DURATION:PT2H
 DTSTART:20230218T120000Z
 SUMMARY:🎭アステル・レダ: 【APEX Legends】KUREIJI ARCADE  / アステル with Vesper Iofi (^_-)-☆
 UID:4spVLTCdvTY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】かなクロ全ロスを超えてエリトラリベンジ！！！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=lsU86Si3aoI
+DURATION:PT2H
+DTSTART:20230219T040000Z
+SUMMARY:沙花叉クロヱ: 【Minecraft】かなクロ全ロスを超えてエリトラリベンジ！！！【沙花叉クロヱ/ホロライブ】
+UID:lsU86Si3aoI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 MELATONIN 】おしゃれすぎるリズムゲー見つけました✨【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=WzbFIBLAf4U
@@ -361,6 +361,13 @@ SUMMARY:🍬姫森ルーナ: 【 #なのらいぶ 】＜DAY4＞日曜朝のエ�
 UID:OnXRvhbHkUY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【スプラトゥーン3/サーモンラン】クマフェス🐻君たちのために最高の武器を用意したからね【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=uAMYcXH8U2g
+DURATION:PT2H
+DTSTART:20230218T140000Z
+SUMMARY:🔥不知火フレア: 【スプラトゥーン3/サーモンラン】クマフェス🐻君たちのために最高の武器を用意したからね【不知火フレア/ホロライブ】
+UID:uAMYcXH8U2g
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 APEX 】打ち合いだけが楽しみのゲームじゃなかったんや・・・！✨【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=imk3-ToCFE0
 DURATION:PT2H
 DTSTART:20230218T100000Z
@@ -368,11 +375,11 @@ SUMMARY:桃鈴ねね: 【 APEX 】打ち合いだけが楽しみのゲームじ�
 UID:imk3-ToCFE0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:〘Off-Collab〙FIRST TIME MEETING AND...SINGING TOGETHER!?!?!?\nhttps://www.youtube.com/watch?v=2738RwKlKPk
+DESCRIPTION:【Valorant】ふるぱこんぺ！ピピ――！は、はぐきい！？【 #ロボ子生放送 /ホロライブ】\nhttps://www.youtube.com/watch?v=7GzCIpQCiBs
 DURATION:PT2H
-DTSTART:20230218T091500Z
-SUMMARY:Amelia: 〘Off-Collab〙FIRST TIME MEETING AND...SINGING TOGETHER!?!?!?
-UID:2738RwKlKPk
+DTSTART:20230219T070000Z
+SUMMARY:🤖ロボ子さん: 【Valorant】ふるぱこんぺ！ピピ――！は、はぐきい！？【 #ロボ子生放送 /ホロライブ】
+UID:7GzCIpQCiBs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Getting Over It】金壺チャレンジ　あと４３回【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=-7NQo_XHKkQ
@@ -387,6 +394,13 @@ DURATION:PT2H
 DTSTART:20230218T110000Z
 SUMMARY:👿百鬼あやめ: 【#ホロライブヘブバンWEEK】ヘブンバーンズレッド1周年記念！リベンジ・・！！いくぞおおおおお
 UID:6NVWbCRXRp8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:〘Off-Collab〙FIRST TIME MEETING AND...SINGING TOGETHER!?!?!?\nhttps://www.youtube.com/watch?v=2738RwKlKPk
+DURATION:PT2H
+DTSTART:20230218T091500Z
+SUMMARY:Amelia: 〘Off-Collab〙FIRST TIME MEETING AND...SINGING TOGETHER!?!?!?
+UID:2738RwKlKPk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VALORANT】コソ練　w/ガンマ　コーチ：アステルさん【夜十神封魔/UPROAR!!】\nhttps://www.youtube.com/watch?v=iow35N3t2-c
@@ -576,6 +590,13 @@ DURATION:PT2H
 DTSTART:20230218T090000Z
 SUMMARY:🍬姫森ルーナ: 【 WILD HEARTS 】新作和風ハンティングゲー『ワイルドハーツ』で遊んでみるのらっ！【姫森ルーナ/ホロライブ】
 UID:yA5FUfHoSj8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゼルダの伝説 トワイライトプリンセス】初見プレイ！夜中にまったり参る☕#02【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=xbUPEGNya2w
+DURATION:PT2H
+DTSTART:20230218T130000Z
+SUMMARY:🍙猫又おかゆ: 【ゼルダの伝説 トワイライトプリンセス】初見プレイ！夜中にまったり参る☕#02【猫又おかゆ/ホロライブ】
+UID:xbUPEGNya2w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Hogwarts Legacy 】私はスリザリンでフォイ　＃４【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=LObBJw5tNfQ
