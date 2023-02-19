@@ -4,41 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:≪#KUREIJIARCADE≫ i will be victorious\nhttps://www.youtube.com/watch?v=nDtbwncWKOk
-DURATION:PT2H
-DTSTART:20230218T100000Z
-SUMMARY:Baelz: ≪#KUREIJIARCADE≫ i will be victorious
-UID:nDtbwncWKOk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:〘Fallout: NV〙IN THE MOJAVE 🏜️⭐| #3\nhttps://www.youtube.com/watch?v=uRaFvb0oum8
-DURATION:PT2H
-DTSTART:20230219T210000Z
-SUMMARY:Amelia: 〘Fallout: NV〙IN THE MOJAVE 🏜️⭐| #3
-UID:uRaFvb0oum8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【REVEAL】new fish! 🐟 and . .\nhttps://www.youtube.com/watch?v=yp2wvsYGSyQ
-DURATION:PT2H
-DTSTART:20230218T010000Z
-SUMMARY:Gura: 【REVEAL】new fish! 🐟 and . .
-UID:yp2wvsYGSyQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:〘Off-Collab〙FIRST TIME MEETING AND...SINGING TOGETHER!?!?!?\nhttps://www.youtube.com/watch?v=2738RwKlKPk
-DURATION:PT2H
-DTSTART:20230218T091500Z
-SUMMARY:Amelia: 〘Off-Collab〙FIRST TIME MEETING AND...SINGING TOGETHER!?!?!?
-UID:2738RwKlKPk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【unarchived】valentine's karaoke!! (RE-BROADCAST)\nhttps://www.youtube.com/watch?v=C10V-rAcL4w
-DURATION:PT2H
-DTSTART:20230220T010000Z
-SUMMARY:Calli: 【unarchived】valentine's karaoke!! (RE-BROADCAST)
-UID:C10V-rAcL4w
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪Very Sleepy Chats≫ morning rambles + reacting to some fan gifts!\nhttps://www.youtube.com/watch?v=5vyIWT2gxUA
 DURATION:PT2H
 DTSTART:20230219T012000Z
@@ -46,11 +11,18 @@ SUMMARY:Baelz: ≪Very Sleepy Chats≫ morning rambles + reacting to some fan gi
 UID:5vyIWT2gxUA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:apex.\nhttps://www.youtube.com/watch?v=lBuf_mak_h8
+DESCRIPTION:【日本語、教えて！】JP BROS! 新しい言葉知りたいなぁ！\nhttps://www.youtube.com/watch?v=RzIemV5vHqA
 DURATION:PT2H
-DTSTART:20230218T095851Z
-SUMMARY:Calli: apex.
-UID:lBuf_mak_h8
+DTSTART:20230219T120316Z
+SUMMARY:Calli: 【日本語、教えて！】JP BROS! 新しい言葉知りたいなぁ！
+UID:RzIemV5vHqA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:〘Fallout: NV〙IN THE MOJAVE 🏜️⭐| #3\nhttps://www.youtube.com/watch?v=uRaFvb0oum8
+DURATION:PT2H
+DTSTART:20230219T210000Z
+SUMMARY:Amelia: 〘Fallout: NV〙IN THE MOJAVE 🏜️⭐| #3
+UID:uRaFvb0oum8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪Persona 5 ROYAL≫ 22 goddamn days #11 【SPOILERS】\nhttps://www.youtube.com/watch?v=GAYP0UKefNQ
@@ -65,5 +37,12 @@ DURATION:PT2H
 DTSTART:20230219T030000Z
 SUMMARY:Ina: 【3D SHOWCASE】IT'S FINALLY TIME!!!!!!!!!!!!!! #TakoTimes3 #Myth3Dkitaaa
 UID:9Cc16ZBW0GY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【unarchived】valentine's karaoke!! (RE-BROADCAST)\nhttps://www.youtube.com/watch?v=C10V-rAcL4w
+DURATION:PT2H
+DTSTART:20230220T010000Z
+SUMMARY:Calli: 【unarchived】valentine's karaoke!! (RE-BROADCAST)
+UID:C10V-rAcL4w
 END:VEVENT
 END:VCALENDAR
