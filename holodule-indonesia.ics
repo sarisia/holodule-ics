@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Phasmophobia】what a peaceful night【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=5rhmyQW3Crg
-DURATION:PT2H
-DTSTART:20230220T131500Z
-SUMMARY:Kaela: 【Phasmophobia】what a peaceful night【Kaela Kovalskia / hololiveID】
-UID:5rhmyQW3Crg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【PEJUANG SENIN】#37 good day\, everyone!! ☀️【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=byw2_-Aivo8
 DURATION:PT2H
 DTSTART:20230219T231500Z
@@ -18,18 +11,11 @@ SUMMARY:Kaela: 【PEJUANG SENIN】#37 good day\, everyone!! ☀️【Kaela's Mon
 UID:byw2_-Aivo8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:daily login stream yes its not 00.00 yet AAAAAAAAA\nhttps://www.youtube.com/watch?v=Jy8Xu_iC-0A
+DESCRIPTION:【Phasmophobia】what a peaceful night【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=5rhmyQW3Crg
 DURATION:PT2H
-DTSTART:20230219T165700Z
-SUMMARY:Kaela: daily login stream yes its not 00.00 yet AAAAAAAAA
-UID:Jy8Xu_iC-0A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Rhythm Doctor】MUSIC! A+ for "Aren't You Glad He's Alive Somehow"【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=Nq0dWNnCrRQ
-DURATION:PT2H
-DTSTART:20230220T140000Z
-SUMMARY:Reine: 【Rhythm Doctor】MUSIC! A+ for "Aren't You Glad He's Alive Somehow"【Pavolia Reine/hololiveID 2nd gen】
-UID:Nq0dWNnCrRQ
+DTSTART:20230220T131500Z
+SUMMARY:Kaela: 【Phasmophobia】what a peaceful night【Kaela Kovalskia / hololiveID】
+UID:5rhmyQW3Crg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GUERILLA #iollie】KARAOKE TAPI MABOK BOBA【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=c-1fRm62oQo
@@ -37,5 +23,12 @@ DURATION:PT2H
 DTSTART:20230220T095848Z
 SUMMARY:Ollie: 【GUERILLA #iollie】KARAOKE TAPI MABOK BOBA【Hololive Indonesia 2nd Gen】
 UID:c-1fRm62oQo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:daily login stream yes its not 00.00 yet AAAAAAAAA\nhttps://www.youtube.com/watch?v=Jy8Xu_iC-0A
+DURATION:PT2H
+DTSTART:20230219T165700Z
+SUMMARY:Kaela: daily login stream yes its not 00.00 yet AAAAAAAAA
+UID:Jy8Xu_iC-0A
 END:VEVENT
 END:VCALENDAR
