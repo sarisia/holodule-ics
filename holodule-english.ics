@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【HITMAN 3】 I WILL GET GOOD OR DIE TRYING\nhttps://www.youtube.com/watch?v=2Ysgvba_0mo
-DURATION:PT2H
-DTSTART:20230219T230000Z
-SUMMARY:Fauna: 【HITMAN 3】 I WILL GET GOOD OR DIE TRYING
-UID:2Ysgvba_0mo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【OFF COLLAB】Watching Suisei's 2nd Concert Together~!\nhttps://www.youtube.com/watch?v=2BKNJUd8B7A
 DURATION:PT2H
 DTSTART:20230220T125945Z
 SUMMARY:Calli: 【OFF COLLAB】Watching Suisei's 2nd Concert Together~!
 UID:2BKNJUd8B7A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HITMAN 3】 I WILL GET GOOD OR DIE TRYING\nhttps://www.youtube.com/watch?v=2Ysgvba_0mo
+DURATION:PT2H
+DTSTART:20230219T230000Z
+SUMMARY:Fauna: 【HITMAN 3】 I WILL GET GOOD OR DIE TRYING
+UID:2Ysgvba_0mo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【OFFCOLLAB】Comparing POTATO CHIPS feat. Watame senpai! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=ZxfYSbcrdZw
@@ -39,6 +39,13 @@ SUMMARY:IRyS: 【RESIDENT EVIL 7: BIOHAZARD】How many more zombies?
 UID:Hxhjvk8Anp4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:≪skribbl.io≫ LETS DRAW!! w/ my brats!\nhttps://www.youtube.com/watch?v=hlf2dVxOKjE
+DURATION:PT2H
+DTSTART:20230221T010000Z
+SUMMARY:Baelz: ≪skribbl.io≫ LETS DRAW!! w/ my brats!
+UID:hlf2dVxOKjE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【OFF COLLAB】Watching Suisei's 2nd Concert Together~!\nhttps://www.youtube.com/watch?v=UFej2ETuLO0
 DURATION:PT2H
 DTSTART:20230220T132821Z
@@ -46,31 +53,10 @@ SUMMARY:Calli: 【OFF COLLAB】Watching Suisei's 2nd Concert Together~!
 UID:UFej2ETuLO0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪Very Sleepy Chats≫ morning rambles + reacting to some fan gifts!\nhttps://www.youtube.com/watch?v=5vyIWT2gxUA
-DURATION:PT2H
-DTSTART:20230219T012000Z
-SUMMARY:Baelz: ≪Very Sleepy Chats≫ morning rambles + reacting to some fan gifts!
-UID:5vyIWT2gxUA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【日本語、教えて！】JP BROS! 新しい言葉知りたいなぁ！\nhttps://www.youtube.com/watch?v=RzIemV5vHqA
-DURATION:PT2H
-DTSTART:20230219T120316Z
-SUMMARY:Calli: 【日本語、教えて！】JP BROS! 新しい言葉知りたいなぁ！
-UID:RzIemV5vHqA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪Persona 5 ROYAL≫ 22 goddamn days #11 【SPOILERS】\nhttps://www.youtube.com/watch?v=GAYP0UKefNQ
 DURATION:PT2H
 DTSTART:20230220T010000Z
 SUMMARY:Baelz: ≪Persona 5 ROYAL≫ 22 goddamn days #11 【SPOILERS】
 UID:GAYP0UKefNQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【3D SHOWCASE】IT'S FINALLY TIME!!!!!!!!!!!!!! #TakoTimes3 #Myth3Dkitaaa\nhttps://www.youtube.com/watch?v=9Cc16ZBW0GY
-DURATION:PT2H
-DTSTART:20230219T030000Z
-SUMMARY:Ina: 【3D SHOWCASE】IT'S FINALLY TIME!!!!!!!!!!!!!! #TakoTimes3 #Myth3Dkitaaa
-UID:9Cc16ZBW0GY
 END:VEVENT
 END:VCALENDAR
