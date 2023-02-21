@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【OFFCOLLAB】SOCKPUPPETS IN ACTION #kfp #キアライブ\nhttps://www.youtube.com/watch?v=7LGgBUemuJQ
+DURATION:PT2H
+DTSTART:20230222T100000Z
+SUMMARY:Kiara: 【OFFCOLLAB】SOCKPUPPETS IN ACTION #kfp #キアライブ
+UID:7LGgBUemuJQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Euro Truck Simulator 2】 Just a girl\, her truck\, and her complete inability to drive a car\nhttps://www.youtube.com/watch?v=zVZzCLXC4Sw
 DURATION:PT2H
 DTSTART:20230220T230000Z
@@ -18,17 +25,17 @@ SUMMARY:IRyS: 【Dead Space Remake】Searching for my Imaginary Girlfriend
 UID:zPTFWbxp4ok
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【OFFCOLLAB】SOCKPUPPETS IN ACTION #kfp #キアライブ\nhttps://www.youtube.com/watch?v=7LGgBUemuJQ
-DURATION:PT2H
-DTSTART:20230222T100000Z
-SUMMARY:Kiara: 【OFFCOLLAB】SOCKPUPPETS IN ACTION #kfp #キアライブ
-UID:7LGgBUemuJQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【OFFCOLLAB】Comparing POTATO CHIPS feat. Watame senpai! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=ZxfYSbcrdZw
 DURATION:PT2H
 DTSTART:20230221T110000Z
 SUMMARY:Kiara: 【OFFCOLLAB】Comparing POTATO CHIPS feat. Watame senpai! #kfp #キアライブ
 UID:ZxfYSbcrdZw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪skribbl.io≫ LETS DRAW!! w/ my brats!\nhttps://www.youtube.com/watch?v=hlf2dVxOKjE
+DURATION:PT2H
+DTSTART:20230222T010000Z
+SUMMARY:Baelz: ≪skribbl.io≫ LETS DRAW!! w/ my brats!
+UID:hlf2dVxOKjE
 END:VEVENT
 END:VCALENDAR
