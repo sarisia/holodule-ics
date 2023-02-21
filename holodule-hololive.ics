@@ -4,32 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【2/22は猫の日】にゃんにゃんにゃん！ご自慢ねこちゃん鑑賞会！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=K6y8PnFFrl4
+DURATION:PT2H
+DTSTART:20230222T120000Z
+SUMMARY:👯兎田ぺこら: 【2/22は猫の日】にゃんにゃんにゃん！ご自慢ねこちゃん鑑賞会！ぺこ！【ホロライブ/兎田ぺこら】
+UID:K6y8PnFFrl4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Holocure】新ステージクリアしたい★ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=x1P85CaE1Mc
 DURATION:PT2H
 DTSTART:20230221T120000Z
 SUMMARY:👯兎田ぺこら: 【Holocure】新ステージクリアしたい★ぺこ！【ホロライブ/兎田ぺこら】
 UID:x1P85CaE1Mc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【はいしんよていち】こよよよよよよよおおおおおおおおお【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=ByqL4V38QS4
-DURATION:PT2H
-DTSTART:20230222T090000Z
-SUMMARY:博衣こより: 【はいしんよていち】こよよよよよよよおおおおおおおおお【博衣こより/ホロライブ】
-UID:ByqL4V38QS4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ときのそら「Beyond」/ TOKINOSORA - Beyond【Official Music Video】\nhttps://www.youtube.com/watch?v=PyQLRhwl018
-DURATION:PT2H
-DTSTART:20230221T150000Z
-SUMMARY:🐻ときのそら: ときのそら「Beyond」/ TOKINOSORA - Beyond【Official Music Video】
-UID:PyQLRhwl018
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 火夜歌枠 】2023年！初のおうた！#9【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=gyL4nq53AHc
-DURATION:PT2H
-DTSTART:20230221T110000Z
-SUMMARY:❤赤井はあと: 【 火夜歌枠 】2023年！初のおうた！#9【ホロライブ/赤井はあと】
-UID:gyL4nq53AHc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#朝こよ】火曜日の朝だよ～～～！！おはこよ！！☀ #116【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=JpPWvBjNoYw
@@ -60,13 +46,6 @@ SUMMARY:🌸さくらみこ: 【 Minecraft 】ダンジョンの難易度をど�
 UID:hwBOxFMjqMM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 FC版：スーパーマリオUSA 】最終回！！クリアちたいっ…！のら！！！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=tumoNlZS0ac
-DURATION:PT2H
-DTSTART:20230221T130000Z
-SUMMARY:🍬姫森ルーナ: 【 FC版：スーパーマリオUSA 】最終回！！クリアちたいっ…！のら！！！【姫森ルーナ/ホロライブ】
-UID:tumoNlZS0ac
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【飼い猫自慢】ホロライブで猫を一番愛してるのは誰だ！【#ホロ猫王】\nhttps://www.youtube.com/watch?v=cgVOEP86UqQ
 DURATION:PT2H
 DTSTART:20230223T110000Z
@@ -81,20 +60,6 @@ SUMMARY:尾丸ポルカ: 【ホグワーツレガシー/初見実況】ミリし
 UID:LTT88MvSSmA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Hogwarts in Minecraft 】深夜のまったりマイクラ♪【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=W1sn2dVGsCE
-DURATION:PT2H
-DTSTART:20230220T150000Z
-SUMMARY:❤赤井はあと: 【 Hogwarts in Minecraft 】深夜のまったりマイクラ♪【ホロライブ/赤井はあと】
-UID:W1sn2dVGsCE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DARK SOULS REMASTERED】#03 完全初見ダークソウル！初フロムゲー！！次のボスは誰や！！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=ja74KTUlAxQ
-DURATION:PT2H
-DTSTART:20230221T100000Z
-SUMMARY:💫天音かなた: 【DARK SOULS REMASTERED】#03 完全初見ダークソウル！初フロムゲー！！次のボスは誰や！！！！！【天音かなた/ホロライブ】
-UID:ja74KTUlAxQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【視聴者参加型】みんなで「いっき団結」リベンジや…！！！【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=bErBNMbV6nc
 DURATION:PT2H
 DTSTART:20230221T120000Z
@@ -102,39 +67,11 @@ SUMMARY:🥐戌神ころね: 【視聴者参加型】みんなで「いっき団
 UID:bErBNMbV6nc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【三十路が歌ってみた】可愛くてごめん【hololive/宝鐘マリン】#shorts\nhttps://www.youtube.com/watch?v=mJPqUO4TIQ8
-DURATION:PT2H
-DTSTART:20230221T091507Z
-SUMMARY:🏴☠宝鐘マリン: 【三十路が歌ってみた】可愛くてごめん【hololive/宝鐘マリン】#shorts
-UID:mJPqUO4TIQ8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ロックマン2】完全初見🔥噂のエアーマンに初めて会えるの楽しみだッ！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=EsuGRSjw0Fw
-DURATION:PT2H
-DTSTART:20230221T100000Z
-SUMMARY:博衣こより: 【ロックマン2】完全初見🔥噂のエアーマンに初めて会えるの楽しみだッ！！【博衣こより/ホロライブ】
-UID:EsuGRSjw0Fw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【カウントダウン】お 誕 生 日 目 前 ！ 告 知 も ！ あ る ！ 💜 💜 💜 【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=rllHPANsiCU
 DURATION:PT2H
 DTSTART:20230221T143000Z
 SUMMARY:🍙猫又おかゆ: 【カウントダウン】お 誕 生 日 目 前 ！ 告 知 も ！ あ る ！ 💜 💜 💜 【猫又おかゆ/ホロライブ】
 UID:rllHPANsiCU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】楽しい歌🎤 singing stream【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=IVdJIk8HB1U
-DURATION:PT2H
-DTSTART:20230221T130000Z
-SUMMARY:🔥不知火フレア: 【歌枠】楽しい歌🎤 singing stream【不知火フレア/ホロライブ】
-UID:IVdJIk8HB1U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アソビ大全】メルマリ！猫の日バトル！負けたら罰ゲーム！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=7U_jW9cJRvw
-DURATION:PT2H
-DTSTART:20230222T100000Z
-SUMMARY:🌟夜空メル: 【アソビ大全】メルマリ！猫の日バトル！負けたら罰ゲーム！【ホロライブ/夜空メル】
-UID:7U_jW9cJRvw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【WILD HEARTS】和風狩りゲー！どの武器使おうかな！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=kVlRSJz6fMY
@@ -165,20 +102,6 @@ SUMMARY:🌸さくらみこ: 【 アスファルト9 】コラボ実装！みこ
 UID:7zuBFEmu5Ss
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Shout in Crisis『灼熱にて純情』ライブ映像 #shorts\nhttps://www.youtube.com/watch?v=cs_pHxjEeeI
-DURATION:PT2H
-DTSTART:20230221T090032Z
-SUMMARY:☄星街すいせい: Shout in Crisis『灼熱にて純情』ライブ映像 #shorts
-UID:cs_pHxjEeeI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 アスファルト9：Legends 】【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=r6bTmcdGRwU
-DURATION:PT2H
-DTSTART:20230223T100000Z
-SUMMARY:🍬姫森ルーナ: 【 アスファルト9：Legends 】【姫森ルーナ/ホロライブ】
-UID:r6bTmcdGRwU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【お誕生日🍰】ゲスト盛り沢山✨日頃の感謝を込めて歌います！【 #猫又おかゆ2023生誕祭Live /ホロライブ】\nhttps://www.youtube.com/watch?v=Bb7UfPi8fhg
 DURATION:PT2H
 DTSTART:20230222T110000Z
@@ -200,6 +123,90 @@ SUMMARY:雪花ラミィ: 【Doors: Paradox】最終回！ラストまでやる�
 UID:xJTvzy0NLeM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ASMR】猫の日なので猫になる！？恥ずかしくて耐えられなくなったら即終了するASMRです🐈【博衣こより/ホロライブ】※アーカイブメン限の可能性有り\nhttps://www.youtube.com/watch?v=XsCJegOKTUc
+DURATION:PT2H
+DTSTART:20230222T140000Z
+SUMMARY:博衣こより: 【ASMR】猫の日なので猫になる！？恥ずかしくて耐えられなくなったら即終了するASMRです🐈【博衣こより/ホロライブ】※アーカイブメン限の可能性有り
+UID:XsCJegOKTUc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【はいしんよていち】こよよよよよよよおおおおおおおおお【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=ByqL4V38QS4
+DURATION:PT2H
+DTSTART:20230222T090000Z
+SUMMARY:博衣こより: 【はいしんよていち】こよよよよよよよおおおおおおおおお【博衣こより/ホロライブ】
+UID:ByqL4V38QS4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ときのそら「Beyond」/ TOKINOSORA - Beyond【Official Music Video】\nhttps://www.youtube.com/watch?v=PyQLRhwl018
+DURATION:PT2H
+DTSTART:20230221T150000Z
+SUMMARY:🐻ときのそら: ときのそら「Beyond」/ TOKINOSORA - Beyond【Official Music Video】
+UID:PyQLRhwl018
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 火夜歌枠 】2023年！初のおうた！#9【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=gyL4nq53AHc
+DURATION:PT2H
+DTSTART:20230221T110000Z
+SUMMARY:❤赤井はあと: 【 火夜歌枠 】2023年！初のおうた！#9【ホロライブ/赤井はあと】
+UID:gyL4nq53AHc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 FC版：スーパーマリオUSA 】最終回！！クリアちたいっ…！のら！！！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=tumoNlZS0ac
+DURATION:PT2H
+DTSTART:20230221T130000Z
+SUMMARY:🍬姫森ルーナ: 【 FC版：スーパーマリオUSA 】最終回！！クリアちたいっ…！のら！！！【姫森ルーナ/ホロライブ】
+UID:tumoNlZS0ac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Hogwarts in Minecraft 】深夜のまったりマイクラ♪【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=W1sn2dVGsCE
+DURATION:PT2H
+DTSTART:20230220T150000Z
+SUMMARY:❤赤井はあと: 【 Hogwarts in Minecraft 】深夜のまったりマイクラ♪【ホロライブ/赤井はあと】
+UID:W1sn2dVGsCE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DARK SOULS REMASTERED】#03 完全初見ダークソウル！初フロムゲー！！次のボスは誰や！！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=ja74KTUlAxQ
+DURATION:PT2H
+DTSTART:20230221T100000Z
+SUMMARY:💫天音かなた: 【DARK SOULS REMASTERED】#03 完全初見ダークソウル！初フロムゲー！！次のボスは誰や！！！！！【天音かなた/ホロライブ】
+UID:ja74KTUlAxQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【三十路が歌ってみた】可愛くてごめん【hololive/宝鐘マリン】#shorts\nhttps://www.youtube.com/watch?v=mJPqUO4TIQ8
+DURATION:PT2H
+DTSTART:20230221T091507Z
+SUMMARY:🏴☠宝鐘マリン: 【三十路が歌ってみた】可愛くてごめん【hololive/宝鐘マリン】#shorts
+UID:mJPqUO4TIQ8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】楽しい歌🎤 singing stream【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=IVdJIk8HB1U
+DURATION:PT2H
+DTSTART:20230221T130000Z
+SUMMARY:🔥不知火フレア: 【歌枠】楽しい歌🎤 singing stream【不知火フレア/ホロライブ】
+UID:IVdJIk8HB1U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【アソビ大全】メルマリ！猫の日バトル！負けたら罰ゲーム！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=7U_jW9cJRvw
+DURATION:PT2H
+DTSTART:20230222T100000Z
+SUMMARY:🌟夜空メル: 【アソビ大全】メルマリ！猫の日バトル！負けたら罰ゲーム！【ホロライブ/夜空メル】
+UID:7U_jW9cJRvw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Shout in Crisis『灼熱にて純情』ライブ映像 #shorts\nhttps://www.youtube.com/watch?v=cs_pHxjEeeI
+DURATION:PT2H
+DTSTART:20230221T090032Z
+SUMMARY:☄星街すいせい: Shout in Crisis『灼熱にて純情』ライブ映像 #shorts
+UID:cs_pHxjEeeI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 アスファルト9：Legends 】【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=r6bTmcdGRwU
+DURATION:PT2H
+DTSTART:20230223T100000Z
+SUMMARY:🍬姫森ルーナ: 【 アスファルト9：Legends 】【姫森ルーナ/ホロライブ】
+UID:r6bTmcdGRwU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:キャットラビング/沙花叉クロヱ(cover)\nhttps://www.youtube.com/watch?v=l2fKbktcyIs
 DURATION:PT2H
 DTSTART:20230222T130000Z
@@ -214,10 +221,10 @@ SUMMARY:🍙猫又おかゆ: 【MV】カミサマ・ネコサマ / 猫又おか�
 UID:gA6Qf7iu8SE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ASMR】猫の日なので猫になる！？恥ずかしくて耐えられなくなったら即終了するASMRです🐈【博衣こより/ホロライブ】※アーカイブメン限の可能性有り\nhttps://www.youtube.com/watch?v=XsCJegOKTUc
+DESCRIPTION:【ロックマン2】完全初見🔥噂のエアーマンに初めて会えるの楽しみだッ！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=EsuGRSjw0Fw
 DURATION:PT2H
-DTSTART:20230222T140000Z
-SUMMARY:博衣こより: 【ASMR】猫の日なので猫になる！？恥ずかしくて耐えられなくなったら即終了するASMRです🐈【博衣こより/ホロライブ】※アーカイブメン限の可能性有り
-UID:XsCJegOKTUc
+DTSTART:20230221T100000Z
+SUMMARY:博衣こより: 【ロックマン2】完全初見🔥噂のエアーマンに初めて会えるの楽しみだッ！！【博衣こより/ホロライブ】
+UID:EsuGRSjw0Fw
 END:VEVENT
 END:VCALENDAR
