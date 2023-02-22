@@ -4,18 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Melatonin】Dancing to the Dreamy Beats 夢の中での音ゲー生活。【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=uSotZN8o37g
+DESCRIPTION:【Free Talk】Hawayu?\nhttps://www.youtube.com/watch?v=sloU9qNoDSY
 DURATION:PT2H
 DTSTART:20230222T130000Z
-SUMMARY:Anya: 【Melatonin】Dancing to the Dreamy Beats 夢の中での音ゲー生活。【hololive ID 2nd Generation | Anya Melfissa】
-UID:uSotZN8o37g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Good Job!】im being the best worker ever【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=LNQEIuaF4ZU
-DURATION:PT2H
-DTSTART:20230222T140000Z
-SUMMARY:Kaela: 【Good Job!】im being the best worker ever【Kaela Kovalskia / hololiveID】
-UID:LNQEIuaF4ZU
+SUMMARY:Kobo: 【Free Talk】Hawayu?
+UID:sloU9qNoDSY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Aftertalk】POSITION ZERO! -Star Divine- finale Behind The Scenes【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=GrsTpwdFt5w
@@ -30,5 +23,19 @@ DURATION:PT2H
 DTSTART:20230221T151500Z
 SUMMARY:Kobo: 【DUOLINGO MATH】SERUNYA BELAJAR MATEMATIKA! AYO TONTON STREAM INI dan bantu aku
 UID:YUQMQcGcbb0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Melatonin】Dancing to the Dreamy Beats 夢の中での音ゲー生活。【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=uSotZN8o37g
+DURATION:PT2H
+DTSTART:20230222T130000Z
+SUMMARY:Anya: 【Melatonin】Dancing to the Dreamy Beats 夢の中での音ゲー生活。【hololive ID 2nd Generation | Anya Melfissa】
+UID:uSotZN8o37g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Good Job!】im being the best worker ever【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=LNQEIuaF4ZU
+DURATION:PT2H
+DTSTART:20230222T140000Z
+SUMMARY:Kaela: 【Good Job!】im being the best worker ever【Kaela Kovalskia / hololiveID】
+UID:LNQEIuaF4ZU
 END:VEVENT
 END:VCALENDAR
