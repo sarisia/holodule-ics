@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:≪Extremely Sleepy Chats≫ early chats to start the day!\nhttps://www.youtube.com/watch?v=4QkVwZACnBI
-DURATION:PT2H
-DTSTART:20230223T230000Z
-SUMMARY:Baelz: ≪Extremely Sleepy Chats≫ early chats to start the day!
-UID:4QkVwZACnBI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【KU100 ASMR】 Squishy & scratchy ASMR ♡ Cat girl ASMR\nhttps://www.youtube.com/watch?v=kjRNYm58PUM
 DURATION:PT2H
 DTSTART:20230223T050000Z
@@ -18,11 +11,25 @@ SUMMARY:Fauna: 【KU100 ASMR】 Squishy & scratchy ASMR ♡ Cat girl ASMR
 UID:kjRNYm58PUM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:≪Extremely Sleepy Chats≫ early chats to start the day!\nhttps://www.youtube.com/watch?v=4QkVwZACnBI
+DURATION:PT2H
+DTSTART:20230223T230000Z
+SUMMARY:Baelz: ≪Extremely Sleepy Chats≫ early chats to start the day!
+UID:4QkVwZACnBI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【CHAT】Yeaaaaaaaah\nhttps://www.youtube.com/watch?v=GUPIFtpONmw
 DURATION:PT2H
 DTSTART:20230223T003000Z
 SUMMARY:Ina: 【CHAT】Yeaaaaaaaah
 UID:GUPIFtpONmw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mori Calliope Major Debut Concert "New Underworld Order" Blu-ray Release Teaser\nhttps://www.youtube.com/watch?v=0frHO8ErYG4
+DURATION:PT2H
+DTSTART:20230224T020000Z
+SUMMARY:Calli: Mori Calliope Major Debut Concert "New Underworld Order" Blu-ray Release Teaser
+UID:0frHO8ErYG4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Little Witch Nobeta】NobetaRyS Casting Spells on You\nhttps://www.youtube.com/watch?v=Nbk0L5QqGGo
@@ -34,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DEAD SPACE REMAKE】hi i'm terrified (12 hour marathon)\nhttps://www.youtube.com/watch?v=87zy8ozifUI
 DURATION:PT2H
-DTSTART:20230224T020000Z
+DTSTART:20230224T015913Z
 SUMMARY:Calli: 【DEAD SPACE REMAKE】hi i'm terrified (12 hour marathon)
 UID:87zy8ozifUI
 END:VEVENT
