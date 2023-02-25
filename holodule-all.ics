@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【3D SHOWCASE】Super Special Party Time! ３Dお披露目！#Kiara3DParty\nhttps://www.youtube.com/watch?v=q3Z9dPHKS3Q
-DURATION:PT2H
-DTSTART:20230225T030000Z
-SUMMARY:Kiara: 【3D SHOWCASE】Super Special Party Time! ３Dお披露目！#Kiara3DParty
-UID:q3Z9dPHKS3Q
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【案件/カウンターサイド】COUNTER SIDE × hololiveMythコラボをご紹介！【博衣こより/hololive】\nhttps://www.youtube.com/watch?v=vwYEHwKFYUk
 DURATION:PT2H
 DTSTART:20230225T120000Z
 SUMMARY:博衣こより: 【案件/カウンターサイド】COUNTER SIDE × hololiveMythコラボをご紹介！【博衣こより/hololive】
 UID:vwYEHwKFYUk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Membership Only】映画「ジョーカー」同時視聴！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=HBlrKp0tObs
+DURATION:PT2H
+DTSTART:20230225T140000Z
+SUMMARY:博衣こより: 【Membership Only】映画「ジョーカー」同時視聴！【博衣こより/ホロライブ】
+UID:HBlrKp0tObs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【日清焼そばU.F.O.】アクマ的濃い濃いレシピ\nhttps://www.youtube.com/watch?v=k2zE_mXUNAg
@@ -30,13 +30,6 @@ DURATION:PT2H
 DTSTART:20230224T140000Z
 SUMMARY:🎨Iofi: iofi ASMR & Lullaby for Studying and Sleep
 UID:QqoaYtGhN_c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Membership Only】映画「ジョーカー」同時視聴！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=HBlrKp0tObs
-DURATION:PT2H
-DTSTART:20230225T140000Z
-SUMMARY:博衣こより: 【Membership Only】映画「ジョーカー」同時視聴！【博衣こより/ホロライブ】
-UID:HBlrKp0tObs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】金曜日に行われてしまう夕刻ロベルの雑談【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=znB2jV3r8uY
@@ -177,6 +170,13 @@ DURATION:PT2H
 DTSTART:20230224T112933Z
 SUMMARY:Ollie: 【CHATTING】KUREIJI ARCADE\, REST DAYS\, AND LIGHT TALKING!!【Hololive ID 2nd Generation】
 UID:6EOzQzyeaQg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Let's go back to the mine!  #holoTEMPUS #Banzoinhakka【EN】\nhttps://www.youtube.com/watch?v=olu3zneecWQ
+DURATION:PT2H
+DTSTART:20230225T010000Z
+SUMMARY:Hakka: 【Minecraft】Let's go back to the mine!  #holoTEMPUS #Banzoinhakka【EN】
+UID:olu3zneecWQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:音量設定を間違えてとんでもない動画になった白銀ノエル #shorts #ホロライブ #音割れ\nhttps://www.youtube.com/watch?v=O-y559snhxE
