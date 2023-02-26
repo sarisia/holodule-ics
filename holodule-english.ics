@@ -4,34 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【COUNTERSIDE】Better Late Than Never?! Checking Out the Myth Collab!!!\nhttps://www.youtube.com/watch?v=DC2qGCrC2ic
-DURATION:PT2H
-DTSTART:20230224T230000Z
-SUMMARY:Ina: 【COUNTERSIDE】Better Late Than Never?! Checking Out the Myth Collab!!!
-UID:DC2qGCrC2ic
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【3D SHOWCASE】Super Special Party Time! ３Dお披露目！#Kiara3DParty\nhttps://www.youtube.com/watch?v=q3Z9dPHKS3Q
-DURATION:PT2H
-DTSTART:20230225T030000Z
-SUMMARY:Kiara: 【3D SHOWCASE】Super Special Party Time! ３Dお披露目！#Kiara3DParty
-UID:q3Z9dPHKS3Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪COUNTERSIDE≫ 이게 뭐야 ~ ft. KOREAN BAE DOING HER BEST\nhttps://www.youtube.com/watch?v=9O9-oCrGXVE
-DURATION:PT2H
-DTSTART:20230226T020000Z
-SUMMARY:Baelz: ≪COUNTERSIDE≫ 이게 뭐야 ~ ft. KOREAN BAE DOING HER BEST
-UID:9O9-oCrGXVE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dancing Aggressively To Idol Music #shorts\nhttps://www.youtube.com/watch?v=XCuaFVhuhao
-DURATION:PT2H
-DTSTART:20230225T100210Z
-SUMMARY:Kiara: Dancing Aggressively To Idol Music #shorts
-UID:XCuaFVhuhao
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:〘MELATONIN〙shhh go back to sleep :) 🎶 Rhythm Game 💤\nhttps://www.youtube.com/watch?v=-2i0Z4AYyYI
 DURATION:PT2H
 DTSTART:20230224T210500Z
@@ -46,6 +18,20 @@ SUMMARY:IRyS: 【Little Witch Nobeta】Bibbidi Bobbidi
 UID:oTTV6Gic7C4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【COUNTERSIDE】Better Late Than Never?! Checking Out the Myth Collab!!!\nhttps://www.youtube.com/watch?v=DC2qGCrC2ic
+DURATION:PT2H
+DTSTART:20230224T230000Z
+SUMMARY:Ina: 【COUNTERSIDE】Better Late Than Never?! Checking Out the Myth Collab!!!
+UID:DC2qGCrC2ic
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【3D SHOWCASE】Super Special Party Time! ３Dお披露目！#Kiara3DParty\nhttps://www.youtube.com/watch?v=q3Z9dPHKS3Q
+DURATION:PT2H
+DTSTART:20230225T030000Z
+SUMMARY:Kiara: 【3D SHOWCASE】Super Special Party Time! ３Dお披露目！#Kiara3DParty
+UID:q3Z9dPHKS3Q
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【3D SHOWCASE】 I WILL NOW SHOW YOU MY BODY. 3Dお披露目 #Mori3D\nhttps://www.youtube.com/watch?v=maby2NKg7wI
 DURATION:PT2H
 DTSTART:20230226T030000Z
@@ -53,17 +39,17 @@ SUMMARY:Calli: 【3D SHOWCASE】 I WILL NOW SHOW YOU MY BODY. 3Dお披露目 #Mo
 UID:maby2NKg7wI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Penumbra: Black Plague】 You Are Trapped in an Underground Bunker And All the Dogs Are Gone\nhttps://www.youtube.com/watch?v=oJM1FxYPf2s
-DURATION:PT2H
-DTSTART:20230225T230000Z
-SUMMARY:Fauna: 【Penumbra: Black Plague】 You Are Trapped in an Underground Bunker And All the Dogs Are Gone
-UID:oJM1FxYPf2s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【UNARCHIVED】Mumei Radio Broadcast\nhttps://www.youtube.com/watch?v=AtAeRp6pPPE
 DURATION:PT2H
 DTSTART:20230226T043000Z
 SUMMARY:Mumei: 【UNARCHIVED】Mumei Radio Broadcast
 UID:AtAeRp6pPPE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dancing Aggressively To Idol Music #shorts\nhttps://www.youtube.com/watch?v=XCuaFVhuhao
+DURATION:PT2H
+DTSTART:20230225T100210Z
+SUMMARY:Kiara: Dancing Aggressively To Idol Music #shorts
+UID:XCuaFVhuhao
 END:VEVENT
 END:VCALENDAR
