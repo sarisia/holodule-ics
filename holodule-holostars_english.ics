@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 Just Chatting 】Oooh whee\, I'm gettin' a bit long in the tooth to game like that I tell you hwhat\nhttps://www.youtube.com/watch?v=9buvfAmsTO0
-DURATION:PT2H
-DTSTART:20230225T180000Z
-SUMMARY:Vesper: 【 Just Chatting 】Oooh whee\, I'm gettin' a bit long in the tooth to game like that I tell you hwhat
-UID:9buvfAmsTO0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Diffraction】Coming of Age Otome Visual Novel by Rain Droplet Atelier\nhttps://www.youtube.com/watch?v=Tvj4Yhs3aIc
-DURATION:PT2H
-DTSTART:20230225T203000Z
-SUMMARY:Flayon: 【Diffraction】Coming of Age Otome Visual Novel by Rain Droplet Atelier
-UID:Tvj4Yhs3aIc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 SOMA 】Scary games either have no effect or way too much effect on me\, nothing in-between\nhttps://www.youtube.com/watch?v=cdmnTl_1pYo
 DURATION:PT2H
 DTSTART:20230226T180000Z
@@ -32,18 +18,18 @@ SUMMARY:Hakka: 【Art Stream Zatsu】Let's draw my beloved senpais! #holoTEMPUS 
 UID:iS2Di1yNGYY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Savior of the Abyss】We both looked into the abyss\, but you blinked.\nhttps://www.youtube.com/watch?v=KLKoHvicBJ4
-DURATION:PT2H
-DTSTART:20230226T210000Z
-SUMMARY:Flayon: 【Savior of the Abyss】We both looked into the abyss\, but you blinked.
-UID:KLKoHvicBJ4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Kirby 64】Kirby My Beloved 2: The Electric Boogalo Reloaded #holoTEMPUS #Banzoinhakka【EN】\nhttps://www.youtube.com/watch?v=ttCPvKhhAo4
 DURATION:PT2H
 DTSTART:20230227T010000Z
 SUMMARY:Hakka: 【Kirby 64】Kirby My Beloved 2: The Electric Boogalo Reloaded #holoTEMPUS #Banzoinhakka【EN】
 UID:ttCPvKhhAo4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Just Chatting 】Oooh whee\, I'm gettin' a bit long in the tooth to game like that I tell you hwhat\nhttps://www.youtube.com/watch?v=9buvfAmsTO0
+DURATION:PT2H
+DTSTART:20230225T180000Z
+SUMMARY:Vesper: 【 Just Chatting 】Oooh whee\, I'm gettin' a bit long in the tooth to game like that I tell you hwhat
+UID:9buvfAmsTO0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[Sims 4] IS THE DEPRESSION ARC OVER? OR HAS IT JUST BEGUN #holotempus #gavisbettel\nhttps://www.youtube.com/watch?v=ASil8Z4qgSY
@@ -53,10 +39,17 @@ SUMMARY:Bettel: [Sims 4] IS THE DEPRESSION ARC OVER? OR HAS IT JUST BEGUN #holot
 UID:ASil8Z4qgSY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Zatsudan】Traiga paca\, diamante pal fri #holoTEMPUS #Banzoinhakka【ES】\nhttps://www.youtube.com/watch?v=bvR19n8LKI0
+DESCRIPTION:【Diffraction】Coming of Age Otome Visual Novel by Rain Droplet Atelier\nhttps://www.youtube.com/watch?v=Tvj4Yhs3aIc
 DURATION:PT2H
-DTSTART:20230226T160000Z
-SUMMARY:Hakka: 【Zatsudan】Traiga paca\, diamante pal fri #holoTEMPUS #Banzoinhakka【ES】
-UID:bvR19n8LKI0
+DTSTART:20230225T203000Z
+SUMMARY:Flayon: 【Diffraction】Coming of Age Otome Visual Novel by Rain Droplet Atelier
+UID:Tvj4Yhs3aIc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Savior of the Abyss】We both looked into the abyss\, but you blinked.\nhttps://www.youtube.com/watch?v=KLKoHvicBJ4
+DURATION:PT2H
+DTSTART:20230226T210000Z
+SUMMARY:Flayon: 【Savior of the Abyss】We both looked into the abyss\, but you blinked.
+UID:KLKoHvicBJ4
 END:VEVENT
 END:VCALENDAR
