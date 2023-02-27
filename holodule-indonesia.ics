@@ -4,27 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【PEJUANG SENIN】#38 what's up 😎 ☀️【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=YO_8ZXIBt0o
-DURATION:PT2H
-DTSTART:20230226T231500Z
-SUMMARY:Kaela: 【PEJUANG SENIN】#38 what's up 😎 ☀️【Kaela's Monday Warrior】
-UID:YO_8ZXIBt0o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ioBoutique! Winter Clothes For Beloved Clients！【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=Jd3jhv-NCnE
-DURATION:PT2H
-DTSTART:20230227T130000Z
-SUMMARY:🎨Iofi: ioBoutique! Winter Clothes For Beloved Clients！【 iofi / hololiveID 】
-UID:Jd3jhv-NCnE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PagiMoona】ini masih pagi kok.【Freetalk】\nhttps://www.youtube.com/watch?v=yIAEgrEX1rM
-DURATION:PT2H
-DTSTART:20230227T030000Z
-SUMMARY:🔮Moona: 【PagiMoona】ini masih pagi kok.【Freetalk】
-UID:yIAEgrEX1rM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】grinding the materials to build【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=uWqJuCKEX1s
 DURATION:PT2H
 DTSTART:20230227T020000Z
@@ -46,6 +25,13 @@ SUMMARY:Ollie: 【APEX LEGENDS】PASSION PASSION!! 日本語できない w/Anya 
 UID:txaJiZgEU38
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【PEJUANG SENIN】#38 what's up 😎 ☀️【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=YO_8ZXIBt0o
+DURATION:PT2H
+DTSTART:20230226T231500Z
+SUMMARY:Kaela: 【PEJUANG SENIN】#38 what's up 😎 ☀️【Kaela's Monday Warrior】
+UID:YO_8ZXIBt0o
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#11【Persona 5 Royal】DESERT ARC! TURNING OFF AC FOR REALISM (SPOILER ALERT)【Pavolia Reine/hololiveID】\nhttps://www.youtube.com/watch?v=Qi1jbJUxyKg
 DURATION:PT2H
 DTSTART:20230227T130000Z
@@ -58,5 +44,12 @@ DURATION:PT2H
 DTSTART:20230227T100000Z
 SUMMARY:Anya: 【APEX LEGENDS】MORE Anyapex とりあえず撃つだけでいいって聞きましたええ撃つのが上手いので問題ありません。ええ。【holoID 2nd Gen | Anya Melfissa】
 UID:tY5tFspvgOg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PagiMoona】ini masih pagi kok.【Freetalk】\nhttps://www.youtube.com/watch?v=yIAEgrEX1rM
+DURATION:PT2H
+DTSTART:20230227T030000Z
+SUMMARY:🔮Moona: 【PagiMoona】ini masih pagi kok.【Freetalk】
+UID:yIAEgrEX1rM
 END:VEVENT
 END:VCALENDAR
