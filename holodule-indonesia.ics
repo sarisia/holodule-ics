@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【HoloCure】#26 only several stage 2 hard runs tonight 🎺🎵【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=sxIBlldfDYw
+DURATION:PT2H
+DTSTART:20230302T142100Z
+SUMMARY:Kaela: 【HoloCure】#26 only several stage 2 hard runs tonight 🎺🎵【Kaela Kovalskia / hololiveID】
+UID:sxIBlldfDYw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Original Song】 NEW[zom]BIE!! 【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=CswOsZYY_zc
 DURATION:PT2H
 DTSTART:20230301T030000Z
@@ -156,5 +163,12 @@ DURATION:PT2H
 DTSTART:20230301T131500Z
 SUMMARY:Kaela: 【Minecraft】(PART 2) build that beeg diamond ore【Kaela Kovalskia / hololiveID】
 UID:Al2y3DtAsUk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Cyberpunk】Almost at the end? how bout doing side story instead?【Moona】\nhttps://www.youtube.com/watch?v=nQxZc7ASB_s
+DURATION:PT2H
+DTSTART:20230302T140000Z
+SUMMARY:🔮Moona: 【Cyberpunk】Almost at the end? how bout doing side story instead?【Moona】
+UID:nQxZc7ASB_s
 END:VEVENT
 END:VCALENDAR
