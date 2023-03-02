@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【minecraft】大きな樹のなかは遊び場がいっぱい【#ときのそら生放送/ホロライブ/ときのそら】\nhttps://www.youtube.com/watch?v=rkiEP8ZbzoE
+DURATION:PT2H
+DTSTART:20230302T130000Z
+SUMMARY:🐻ときのそら: 【minecraft】大きな樹のなかは遊び場がいっぱい【#ときのそら生放送/ホロライブ/ときのそら】
+UID:rkiEP8ZbzoE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ホロライブポンコツ麻雀部】麻雀ミリしらでいいって聞いて来ました【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=RPKK-vpkisw
 DURATION:PT2H
 DTSTART:20230302T110000Z
@@ -32,11 +39,25 @@ SUMMARY:鷹嶺ルイ: 【Minecraft】豪邸の外観完成まで頑張りたい�
 UID:Fq3K5B4svGA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【GeoGuessr/実況】ゲッサバンバン！ゲッサバンバン！忘れたころのゲッサバンバン！【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=cjES-NGiwV4
+DURATION:PT2H
+DTSTART:20230302T140000Z
+SUMMARY:尾丸ポルカ: 【GeoGuessr/実況】ゲッサバンバン！ゲッサバンバン！忘れたころのゲッサバンバン！【尾丸ポルカ/ホロライブ】
+UID:cjES-NGiwV4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ホロライブポンコツ麻雀部】ホロライブ初心者カオス麻雀【ホロライブ/大空スバル枠】\nhttps://www.youtube.com/watch?v=UuwK0TWxF-k
 DURATION:PT2H
 DTSTART:20230302T110000Z
 SUMMARY:🚑大空スバル: 【#ホロライブポンコツ麻雀部】ホロライブ初心者カオス麻雀【ホロライブ/大空スバル枠】
 UID:UuwK0TWxF-k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Melatonin】チルいリズムゲーで遊んでみる！【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=D0hIluk1yl8
+DURATION:PT2H
+DTSTART:20230302T130000Z
+SUMMARY:沙花叉クロヱ: 【Melatonin】チルいリズムゲーで遊んでみる！【沙花叉クロヱ/ホロライブ】
+UID:D0hIluk1yl8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【メイドインワリオGBA】switchオンラインにきちゃあああ！💣【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=Eb30flXmiCI
@@ -114,13 +135,6 @@ DURATION:PT2H
 DTSTART:20230302T220000Z
 SUMMARY:博衣こより: 【GEO GUESSR】起きたら日本のどこかに飛ばされた！？タイムを縮めていきたい🔥【博衣こより/ホロライブ】
 UID:0Plhqrt1mFU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 東方風神録 】初めての東方で遊んでみるのら～！💓 Mountain of Faith【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=d2oY51hDU8k
-DURATION:PT2H
-DTSTART:20230302T140000Z
-SUMMARY:🍬姫森ルーナ: 【 東方風神録 】初めての東方で遊んでみるのら～！💓 Mountain of Faith【姫森ルーナ/ホロライブ】
-UID:d2oY51hDU8k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 セガNET麻雀 MJ 】ホロライブ初心者カオス麻雀！ポンチー！！！！！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=fdfj-v1mYEs
