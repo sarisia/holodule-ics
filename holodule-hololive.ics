@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【minecraft】大きな樹のなかは遊び場がいっぱい【#ときのそら生放送/ホロライブ/ときのそら】\nhttps://www.youtube.com/watch?v=rkiEP8ZbzoE
+DURATION:PT2H
+DTSTART:20230302T130000Z
+SUMMARY:🐻ときのそら: 【minecraft】大きな樹のなかは遊び場がいっぱい【#ときのそら生放送/ホロライブ/ときのそら】
+UID:rkiEP8ZbzoE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【DARK SOULS REMASTERED】#06 強ボス！？オーンスタインとスモウに挑む！！！！完全初見ダークソウル！初フロムゲー！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=y0e32yD1BzU
 DURATION:PT2H
 DTSTART:20230301T100000Z
@@ -123,18 +130,18 @@ SUMMARY:風真いろは: 【 mocopi 】この侍・・・動くぞ！！おう�
 UID:_IvENGbIb6k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #ホロライブポンコツ麻雀部 】こちら、実況＆解説席となっております【神視点】\nhttps://www.youtube.com/watch?v=-Si2LfJDuwM
-DURATION:PT2H
-DTSTART:20230302T110000Z
-SUMMARY:🌲大神ミオ: 【 #ホロライブポンコツ麻雀部 】こちら、実況＆解説席となっております【神視点】
-UID:-Si2LfJDuwM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ホロライブポンコツ麻雀部】麻雀ミリしらでいいって聞いて来ました【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=RPKK-vpkisw
 DURATION:PT2H
 DTSTART:20230302T110000Z
 SUMMARY:雪花ラミィ: 【#ホロライブポンコツ麻雀部】麻雀ミリしらでいいって聞いて来ました【雪花ラミィ/ホロライブ】
 UID:RPKK-vpkisw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #ホロライブポンコツ麻雀部 】こちら、実況＆解説席となっております【神視点】\nhttps://www.youtube.com/watch?v=-Si2LfJDuwM
+DURATION:PT2H
+DTSTART:20230302T110000Z
+SUMMARY:🌲大神ミオ: 【 #ホロライブポンコツ麻雀部 】こちら、実況＆解説席となっております【神視点】
+UID:-Si2LfJDuwM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】豪邸の外観完成まで頑張りたい✨【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=Fq3K5B4svGA
@@ -172,10 +179,10 @@ SUMMARY:🍙猫又おかゆ: 【メイドインワリオGBA】switchオンライ
 UID:Eb30flXmiCI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【配信予定】こおおおおおおおおおおおおおおおぺええええええええええええええええええええええええええええええええええぺこおおおおおおおおおおおおおおおおおおぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=s3I-hMa4HXI
+DESCRIPTION:【こだわりラーメン館】ラーメンぺこ二郎 開店します！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=s3I-hMa4HXI
 DURATION:PT2H
 DTSTART:20230302T120000Z
-SUMMARY:👯兎田ぺこら: 【配信予定】こおおおおおおおおおおおおおおおぺええええええええええええええええええええええええええええええええええぺこおおおおおおおおおおおおおおおおおおぺこ！【ホロライブ/兎田ぺこら】
+SUMMARY:👯兎田ぺこら: 【こだわりラーメン館】ラーメンぺこ二郎 開店します！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
 UID:s3I-hMa4HXI
 END:VEVENT
 BEGIN:VEVENT
@@ -219,6 +226,13 @@ DURATION:PT2H
 DTSTART:20230302T130000Z
 SUMMARY:🌽白上フブキ: 【グロ注意】DEAD SPACE REMAKE　＃３【ホロライブ/白上フブキ】
 UID:0s8W5aOQOLc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Minecraft 】はいしんよていち！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=Y1ILvr7-hRI
+DURATION:PT2H
+DTSTART:20230302T140000Z
+SUMMARY:風真いろは: 【 Minecraft 】はいしんよていち！【風真いろは/ホロライブ】
+UID:Y1ILvr7-hRI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #桃鈴ねね誕生日 】3回目のお誕生日！！！！重大発表あります！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=TAa0PofEMjs
