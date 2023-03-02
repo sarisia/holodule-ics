@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【3D SHOWCASE】GURRRAAAAA 🐟  #GuraTV\nhttps://www.youtube.com/watch?v=pYutA8gUu-E
+DURATION:PT2H
+DTSTART:20230303T030000Z
+SUMMARY:Gura: 【3D SHOWCASE】GURRRAAAAA 🐟  #GuraTV
+UID:pYutA8gUu-E
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【SKYRIM】 When I google Serana all the results are about marrying her\nhttps://www.youtube.com/watch?v=6hv3lcMXqIE
 DURATION:PT2H
 DTSTART:20230301T230000Z
@@ -25,6 +32,13 @@ SUMMARY:Amelia: 〘Fallout: NV〙Smollest Iron in town 💥| #5
 UID:iEXvOhYNrPU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【MONOPOLY】what hath god wraught\nhttps://www.youtube.com/watch?v=x5UqA2PBflg
+DURATION:PT2H
+DTSTART:20230301T040000Z
+SUMMARY:Calli: 【MONOPOLY】what hath god wraught
+UID:x5UqA2PBflg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MEMBERS ONLY】Bocchi The Rock! Watch-Along\nhttps://www.youtube.com/watch?v=t2TEbfmmMgc
 DURATION:PT2H
 DTSTART:20230303T003000Z
@@ -37,26 +51,5 @@ DURATION:PT2H
 DTSTART:20230301T063225Z
 SUMMARY:Calli: monopoly #shorts
 UID:XvmS9uvAEQU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【3D SHOWCASE】GURRRAAAAA 🐟  #GuraTV\nhttps://www.youtube.com/watch?v=pYutA8gUu-E
-DURATION:PT2H
-DTSTART:20230303T030000Z
-SUMMARY:Gura: 【3D SHOWCASE】GURRRAAAAA 🐟  #GuraTV
-UID:pYutA8gUu-E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Earth Defense Force 5】Fighting Giant Bugs? for Humanity\nhttps://www.youtube.com/watch?v=QJRaAWNTw3g
-DURATION:PT2H
-DTSTART:20230302T030000Z
-SUMMARY:IRyS: 【Earth Defense Force 5】Fighting Giant Bugs? for Humanity
-UID:QJRaAWNTw3g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MONOPOLY】what hath god wraught\nhttps://www.youtube.com/watch?v=x5UqA2PBflg
-DURATION:PT2H
-DTSTART:20230301T040000Z
-SUMMARY:Calli: 【MONOPOLY】what hath god wraught
-UID:x5UqA2PBflg
 END:VEVENT
 END:VCALENDAR
