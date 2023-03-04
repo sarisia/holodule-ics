@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【弾き語り枠】相当ぶりの昼活【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=Gct1C-WFSQk
+DURATION:PT2H
+DTSTART:20230305T050000Z
+SUMMARY:⚙律可: 【弾き語り枠】相当ぶりの昼活【律可/ホロスターズ】#りつすた
+UID:Gct1C-WFSQk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【League of Legends】新たなLoLプレイヤーが現れました / アステル イヅル\nhttps://www.youtube.com/watch?v=J1IoqcRbk5w
 DURATION:PT2H
 DTSTART:20230304T073000Z
@@ -16,13 +23,6 @@ DURATION:PT2H
 DTSTART:20230304T150000Z
 SUMMARY:荒咬オウガ: 【雑談】English subtitles 穏やかな眠りへ誘うすやすや安眠トーク3/4【荒咬オウガ/ホロスターズ】
 UID:nvbfVsgjVJM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【弾き語り枠】相当ぶりの昼活【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=Gct1C-WFSQk
-DURATION:PT2H
-DTSTART:20230305T050000Z
-SUMMARY:⚙律可: 【弾き語り枠】相当ぶりの昼活【律可/ホロスターズ】#りつすた
-UID:Gct1C-WFSQk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリカ】レート17654~ 3月の目標は18750!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=XGFzxz5f1hI
@@ -39,11 +39,11 @@ SUMMARY:水無世燐央: 【歌ってみた】ダウナーウィッチ / 廉 【
 UID:7bKwA_jwhdk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Who's Your Daddy?】パリピ赤ちゃんVSパパ幽霊頂上決戦！！！！【#緋崎ガンマ / #ホロスターズ / #uproar / #vtuber 】\nhttps://www.youtube.com/watch?v=R_MLul8W8Cg
+DESCRIPTION:【WILD HEARTS】ただひたすらに火力を求める男の旅【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=1UubJOY7uKM
 DURATION:PT2H
-DTSTART:20230304T090000Z
-SUMMARY:緋崎ガンマ: 【Who's Your Daddy?】パリピ赤ちゃんVSパパ幽霊頂上決戦！！！！【#緋崎ガンマ / #ホロスターズ / #uproar / #vtuber 】
-UID:R_MLul8W8Cg
+DTSTART:20230304T080000Z
+SUMMARY:🍕アルランディス: 【WILD HEARTS】ただひたすらに火力を求める男の旅【アルランディス/ホロスターズ】
+UID:1UubJOY7uKM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【League of Legends】学び【奏手イヅル/アステル】\nhttps://www.youtube.com/watch?v=oplpWbwTw_Y
@@ -51,6 +51,13 @@ DURATION:PT2H
 DTSTART:20230304T071500Z
 SUMMARY:🎸奏手イヅル: 【League of Legends】学び【奏手イヅル/アステル】
 UID:oplpWbwTw_Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Who's Your Daddy?】パリピ赤ちゃんVSパパ幽霊頂上決戦！！！！【#緋崎ガンマ / #ホロスターズ / #uproar / #vtuber 】\nhttps://www.youtube.com/watch?v=R_MLul8W8Cg
+DURATION:PT2H
+DTSTART:20230304T090000Z
+SUMMARY:緋崎ガンマ: 【Who's Your Daddy?】パリピ赤ちゃんVSパパ幽霊頂上決戦！！！！【#緋崎ガンマ / #ホロスターズ / #uproar / #vtuber 】
+UID:R_MLul8W8Cg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【パラノマサイト FILE 23 本所七不思議】先行プレイさせていただくつゆだくだく / アステル\nhttps://www.youtube.com/watch?v=O_NOSKX2bLs
@@ -88,18 +95,18 @@ SUMMARY:⚙律可: 【Minecraft】実は全ロスしてたので装備作って�
 UID:LqlmNCcNznI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:音量設定を間違えてしまった(故意)恵方巻ASMR #shorts #vtuber\nhttps://www.youtube.com/watch?v=puFYJ8EAqsE
-DURATION:PT2H
-DTSTART:20230304T090026Z
-SUMMARY:🍕アルランディス: 音量設定を間違えてしまった(故意)恵方巻ASMR #shorts #vtuber
-UID:puFYJ8EAqsE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【レポ雑談】群馬に突然行って温泉に浸かりまくってきた！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=pRfC1rVcL20
 DURATION:PT2H
 DTSTART:20230305T130000Z
 SUMMARY:🍕アルランディス: 【レポ雑談】群馬に突然行って温泉に浸かりまくってきた！【アルランディス/ホロスターズ】
 UID:pRfC1rVcL20
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:音量設定を間違えてしまった(故意)恵方巻ASMR #shorts #vtuber\nhttps://www.youtube.com/watch?v=puFYJ8EAqsE
+DURATION:PT2H
+DTSTART:20230304T090026Z
+SUMMARY:🍕アルランディス: 音量設定を間違えてしまった(故意)恵方巻ASMR #shorts #vtuber
+UID:puFYJ8EAqsE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン3】ビッグラン発生！目指せ上位５％！【夜十神封魔/UPROAR!!】\nhttps://www.youtube.com/watch?v=PU0S_zk_-FU
