@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Splatoon3/スプラトゥーン3】視聴者参加型スプラ！ビッグランいくぞ！！！！【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=83TfdcTb3hg
+DURATION:PT2H
+DTSTART:20230305T130000Z
+SUMMARY:🍎アキロゼ: 【Splatoon3/スプラトゥーン3】視聴者参加型スプラ！ビッグランいくぞ！！！！【ホロライブ/アキ・ローゼンタール】
+UID:83TfdcTb3hg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【弾き語り枠】相当ぶりの昼活【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=Gct1C-WFSQk
 DURATION:PT2H
 DTSTART:20230305T050000Z
@@ -277,11 +284,11 @@ SUMMARY:Syrios: 【Weekly ReCap】Do "YOU" Kiss your homies good night???
 UID:mF-f-pLP2q4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Splatoon3】バ　イ　ト　狂　い　の　ビ　ッ　グ　ラ　ン【#かみぬい】\nhttps://www.youtube.com/watch?v=WlJOSb6u7EU
+DESCRIPTION:【Valheim # 7】俺たちは一度死んだ【奏手イヅル /天真/みやび/アルランディス】\nhttps://www.youtube.com/watch?v=bwe3Z-YsfAk
 DURATION:PT2H
-DTSTART:20230305T130000Z
-SUMMARY:🌽白上フブキ: 【Splatoon3】バ　イ　ト　狂　い　の　ビ　ッ　グ　ラ　ン【#かみぬい】
-UID:WlJOSb6u7EU
+DTSTART:20230305T143000Z
+SUMMARY:🎸奏手イヅル: 【Valheim # 7】俺たちは一度死んだ【奏手イヅル /天真/みやび/アルランディス】
+UID:bwe3Z-YsfAk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【みんなで空気読み。オンライン】一緒に空気読もうぜ！ホロライブってのがコラボしてんだよ！！【 尾丸ポルカ/ホロライブ 】\nhttps://www.youtube.com/watch?v=mSDdo5s-iKY
@@ -298,6 +305,13 @@ SUMMARY:🍕アルランディス: 【WILD HEARTS】ただひたすらに火力�
 UID:1UubJOY7uKM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Splatoon3】バ　イ　ト　狂　い　の　ビ　ッ　グ　ラ　ン【#かみぬい】\nhttps://www.youtube.com/watch?v=WlJOSb6u7EU
+DURATION:PT2H
+DTSTART:20230305T130000Z
+SUMMARY:🌽白上フブキ: 【Splatoon3】バ　イ　ト　狂　い　の　ビ　ッ　グ　ラ　ン【#かみぬい】
+UID:WlJOSb6u7EU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌ってみた】ダウナーウィッチ / 廉 【covered by 水無世燐央 Minase Rio 】\nhttps://www.youtube.com/watch?v=7bKwA_jwhdk
 DURATION:PT2H
 DTSTART:20230304T120000Z
@@ -305,18 +319,18 @@ SUMMARY:水無世燐央: 【歌ってみた】ダウナーウィッチ / 廉 【
 UID:7bKwA_jwhdk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【しょぼんのるきみん！】鬼畜ゲー？まぁ余裕ぺこかなｗ ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=_E64W4X5VOg
-DURATION:PT2H
-DTSTART:20230305T130000Z
-SUMMARY:👯兎田ぺこら: 【しょぼんのるきみん！】鬼畜ゲー？まぁ余裕ぺこかなｗ ぺこ！【ホロライブ/兎田ぺこら】
-UID:_E64W4X5VOg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【GUILTY GEAR STRIVE】w/Viewers?! I KNOW WHO I AM\nhttps://www.youtube.com/watch?v=x2eGpu9jkfE
 DURATION:PT2H
 DTSTART:20230304T003000Z
 SUMMARY:Flayon: 【GUILTY GEAR STRIVE】w/Viewers?! I KNOW WHO I AM
 UID:x2eGpu9jkfE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【しょぼんのるきみん！】鬼畜ゲー？まぁ余裕ぺこかなｗ ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=_E64W4X5VOg
+DURATION:PT2H
+DTSTART:20230305T130000Z
+SUMMARY:👯兎田ぺこら: 【しょぼんのるきみん！】鬼畜ゲー？まぁ余裕ぺこかなｗ ぺこ！【ホロライブ/兎田ぺこら】
+UID:_E64W4X5VOg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【アニメ】死神に魂を刈られてみる\nhttps://www.youtube.com/watch?v=7Z_OVu1vxrQ
@@ -459,11 +473,25 @@ SUMMARY:ホロライブ: holo*27 Covers Vol.1 XFD【ホロライブ x DECO*27】
 UID:ZtUNb1JlIRw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:#12【ペルソナ3ポータブル】最終回！！🔥ラスボス戦行くぞおおお！！！～Persona3 Portable～【博衣こより/hololive】※ネタバレあり\nhttps://www.youtube.com/watch?v=j32jwJUwkWI
+DURATION:PT2H
+DTSTART:20230305T130000Z
+SUMMARY:博衣こより: #12【ペルソナ3ポータブル】最終回！！🔥ラスボス戦行くぞおおお！！！～Persona3 Portable～【博衣こより/hololive】※ネタバレあり
+UID:j32jwJUwkWI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 Minecraft Hardcore 】目指せ168日生存🔥 #ござるマイクラハードコア🍖配信14日目！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=j9tLPbTAF4o
 DURATION:PT2H
 DTSTART:20230304T140000Z
 SUMMARY:風真いろは: 【 Minecraft Hardcore 】目指せ168日生存🔥 #ござるマイクラハードコア🍖配信14日目！【風真いろは/ホロライブ】
 UID:j9tLPbTAF4o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【地獄】ロリこより1周年⁉凸待ちしつつマシュマロ＆歌う地獄配信 #ロリこより【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=K-UY06-b7pc
+DURATION:PT2H
+DTSTART:20230306T100000Z
+SUMMARY:博衣こより: 【地獄】ロリこより1周年⁉凸待ちしつつマシュマロ＆歌う地獄配信 #ロリこより【博衣こより/ホロライブ】
+UID:K-UY06-b7pc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン3/サーモンラン】#かみぬい ビッグラン!ハイスコア更新しろ！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=wy1HWgw8IlI
@@ -520,6 +548,20 @@ DURATION:PT2H
 DTSTART:20230305T131000Z
 SUMMARY:🌸さくらみこ: 【 メンバー限定 】#さくらみこ生誕祭 メンバー限定🎂ガチ恋!?シチュエーションデート【ホロライブ/さくらみこ】
 UID:aamLjXnQp5U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪JUST CHATTING≫ no longer in HiBAEnation!!\nhttps://www.youtube.com/watch?v=UR6s77YiOpI
+DURATION:PT2H
+DTSTART:20230306T010000Z
+SUMMARY:Baelz: ≪JUST CHATTING≫ no longer in HiBAEnation!!
+UID:UR6s77YiOpI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【違う冬のぼくら】まがまがで旅に出よう（ラミィ視点）【#まがまがーず/ホロライブ】\nhttps://www.youtube.com/watch?v=Gra8yS6W8yc
+DURATION:PT2H
+DTSTART:20230305T050000Z
+SUMMARY:雪花ラミィ: 【違う冬のぼくら】まがまがで旅に出よう（ラミィ視点）【#まがまがーず/ホロライブ】
+UID:Gra8yS6W8yc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ホロ新サーバーでおうちづくり！PART6【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=3TP09_OGwa0
@@ -648,11 +690,11 @@ SUMMARY:🍬姫森ルーナ: #01【 ELDEN RING 】発売１周年記念に初め
 UID:GUSENp1-ac8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Who's Your Daddy?】パリピ赤ちゃんVSパパ幽霊頂上決戦！！！！【#緋崎ガンマ / #ホロスターズ / #uproar / #vtuber 】\nhttps://www.youtube.com/watch?v=R_MLul8W8Cg
+DESCRIPTION:#11【ペルソナ3ポータブル】人生初ペルソナ！12月後半から！～Persona3 Portable～【博衣こより/hololive】※ネタバレあり\nhttps://www.youtube.com/watch?v=hJ6xZkN-xFM
 DURATION:PT2H
-DTSTART:20230304T090000Z
-SUMMARY:緋崎ガンマ: 【Who's Your Daddy?】パリピ赤ちゃんVSパパ幽霊頂上決戦！！！！【#緋崎ガンマ / #ホロスターズ / #uproar / #vtuber 】
-UID:R_MLul8W8Cg
+DTSTART:20230305T040000Z
+SUMMARY:博衣こより: #11【ペルソナ3ポータブル】人生初ペルソナ！12月後半から！～Persona3 Portable～【博衣こより/hololive】※ネタバレあり
+UID:hJ6xZkN-xFM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【League of Legends】学び【奏手イヅル/アステル】\nhttps://www.youtube.com/watch?v=oplpWbwTw_Y
@@ -667,6 +709,13 @@ DURATION:PT2H
 DTSTART:20230305T130000Z
 SUMMARY:🌙紫咲シオン: 【Minecraft】ホロ鯖～～！！お家の建設準備がしたい！【ホロライブ/紫咲シオン】
 UID:rq4eTcxsvSc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Who's Your Daddy?】パリピ赤ちゃんVSパパ幽霊頂上決戦！！！！【#緋崎ガンマ / #ホロスターズ / #uproar / #vtuber 】\nhttps://www.youtube.com/watch?v=R_MLul8W8Cg
+DURATION:PT2H
+DTSTART:20230304T090000Z
+SUMMARY:緋崎ガンマ: 【Who's Your Daddy?】パリピ赤ちゃんVSパパ幽霊頂上決戦！！！！【#緋崎ガンマ / #ホロスターズ / #uproar / #vtuber 】
+UID:R_MLul8W8Cg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FIRE EMBLEM ENGAGE】WE FINALLY BACK IN THE GAME BABY #kfp #キアライブ\nhttps://www.youtube.com/watch?v=O-K5xPIt2yQ
