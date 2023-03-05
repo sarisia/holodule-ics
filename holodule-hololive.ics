@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【スプラトゥーン3/サーモンラン】#かみぬい ビッグラン!ハイスコア更新しろ！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=wy1HWgw8IlI
+DURATION:PT2H
+DTSTART:20230305T130000Z
+SUMMARY:🔥不知火フレア: 【スプラトゥーン3/サーモンラン】#かみぬい ビッグラン!ハイスコア更新しろ！【不知火フレア/ホロライブ】
+UID:wy1HWgw8IlI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#10【ペルソナ3ポータブル】人生初ペルソナ！11月後半から！～Persona3 Portable～【博衣こより/hololive】※ネタバレあり\nhttps://www.youtube.com/watch?v=fvH3W5lmIW8
 DURATION:PT2H
 DTSTART:20230304T040000Z
@@ -200,13 +207,6 @@ SUMMARY:尾丸ポルカ: 【みんなで空気読み。オンライン】一緒�
 UID:mSDdo5s-iKY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#11【ペルソナ3ポータブル】人生初ペルソナ！12月後半から！～Persona3 Portable～【博衣こより/hololive】※ネタバレあり\nhttps://www.youtube.com/watch?v=hJ6xZkN-xFM
-DURATION:PT2H
-DTSTART:20230305T040000Z
-SUMMARY:博衣こより: #11【ペルソナ3ポータブル】人生初ペルソナ！12月後半から！～Persona3 Portable～【博衣こより/hololive】※ネタバレあり
-UID:hJ6xZkN-xFM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【しょぼんのるきみん！】鬼畜ゲー？まぁ余裕ぺこかなｗ ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=_E64W4X5VOg
 DURATION:PT2H
 DTSTART:20230305T130000Z
@@ -214,10 +214,10 @@ SUMMARY:👯兎田ぺこら: 【しょぼんのるきみん！】鬼畜ゲー？
 UID:_E64W4X5VOg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:配信予定～～～～～！！むむ・・・【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=rq4eTcxsvSc
+DESCRIPTION:【Minecraft】ホロ鯖～～！！お家の建設準備がしたい！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=rq4eTcxsvSc
 DURATION:PT2H
 DTSTART:20230305T130000Z
-SUMMARY:🌙紫咲シオン: 配信予定～～～～～！！むむ・・・【ホロライブ/紫咲シオン】
+SUMMARY:🌙紫咲シオン: 【Minecraft】ホロ鯖～～！！お家の建設準備がしたい！【ホロライブ/紫咲シオン】
 UID:rq4eTcxsvSc
 END:VEVENT
 BEGIN:VEVENT
@@ -359,6 +359,13 @@ DURATION:PT2H
 DTSTART:20230304T040000Z
 SUMMARY:💫天音かなた: 【DARK SOULS REMASTERED】#08 何か発見！！地下墓地行くぞ！！！完全初見ダークソウル！初フロムゲー！！【天音かなた/ホロライブ】
 UID:YLEozmvVdiA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【1コーラスMIX】かいりきベア様の『ベノム』1コーラスMIXするでござる🎧【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=g5Rpb4LEkA0
+DURATION:PT2H
+DTSTART:20230305T090000Z
+SUMMARY:風真いろは: 【1コーラスMIX】かいりきベア様の『ベノム』1コーラスMIXするでござる🎧【風真いろは/ホロライブ】
+UID:g5Rpb4LEkA0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:holo*27 Covers Vol.1 XFD【ホロライブ x DECO*27】\nhttps://www.youtube.com/watch?v=ZtUNb1JlIRw
