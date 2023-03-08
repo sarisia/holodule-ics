@@ -193,18 +193,18 @@ SUMMARY:荒咬オウガ: 【雑談】Eng sub　すやすや安眠トーク3/6【
 UID:xP3NuxsSQ0I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】新ホロ鯖！団長と一緒に夜更かしマイクラ🌙✨【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=czuuoH5f9IU
-DURATION:PT2H
-DTSTART:20230307T140000Z
-SUMMARY:⚔白銀ノエル: 【Minecraft】新ホロ鯖！団長と一緒に夜更かしマイクラ🌙✨【白銀ノエル/ホロライブ】
-UID:czuuoH5f9IU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ただいま！】元気な復帰配信✨【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=DkPSVmZBDB0
 DURATION:PT2H
 DTSTART:20230309T090000Z
 SUMMARY:🏮夏色まつり: 【ただいま！】元気な復帰配信✨【ホロライブ/夏色まつり】
 UID:DkPSVmZBDB0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】新ホロ鯖！団長と一緒に夜更かしマイクラ🌙✨【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=czuuoH5f9IU
+DURATION:PT2H
+DTSTART:20230307T140000Z
+SUMMARY:⚔白銀ノエル: 【Minecraft】新ホロ鯖！団長と一緒に夜更かしマイクラ🌙✨【白銀ノエル/ホロライブ】
+UID:czuuoH5f9IU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Sing/歌枠】ノリノリな曲を歌っていこう♪【#ときのそら生放送 】\nhttps://www.youtube.com/watch?v=ZuVjmTdOwPE
@@ -242,18 +242,18 @@ SUMMARY:Syrios: 【Your Turn To Die / キミガシネ】Our First death game\, O
 UID:FKMpLsbRxd0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Minecraft 】まだバレてない！！！！！！！！！！！！！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=SAxfWj41RRo
-DURATION:PT2H
-DTSTART:20230307T130000Z
-SUMMARY:桃鈴ねね: 【 Minecraft 】まだバレてない！！！！！！！！！！！！！【 桃鈴ねね / ホロライブ 】
-UID:SAxfWj41RRo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Totally Reliable Delivery Service】the best delivery in town📦 any problem?😏【hololiveID】\nhttps://www.youtube.com/watch?v=yq3skqjl5aQ
 DURATION:PT2H
 DTSTART:20230307T130000Z
 SUMMARY:Kaela: 【Totally Reliable Delivery Service】the best delivery in town📦 any problem?😏【hololiveID】
 UID:yq3skqjl5aQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Minecraft 】まだバレてない！！！！！！！！！！！！！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=SAxfWj41RRo
+DURATION:PT2H
+DTSTART:20230307T130000Z
+SUMMARY:桃鈴ねね: 【 Minecraft 】まだバレてない！！！！！！！！！！！！！【 桃鈴ねね / ホロライブ 】
+UID:SAxfWj41RRo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:誕生日Vlogの振り返り＆スパチャ読みします！！！！【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=2c191hX75As
@@ -263,18 +263,18 @@ SUMMARY:🌺花咲みやび: 誕生日Vlogの振り返り＆スパチャ読み�
 UID:2c191hX75As
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:10 DAYS TILL IDOL RAT!! #ひろがるホロライブ\nhttps://www.youtube.com/watch?v=f3CbOXu2Vfw
-DURATION:PT2H
-DTSTART:20230307T230034Z
-SUMMARY:Baelz: 10 DAYS TILL IDOL RAT!! #ひろがるホロライブ
-UID:f3CbOXu2Vfw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:HololiveERRORで突然幽霊に襲われ、とっさに出た撃退法方がこちら #Vtuber #hololiveerror #shorts\nhttps://www.youtube.com/watch?v=P8gbbn_7M5o
 DURATION:PT2H
 DTSTART:20230307T090013Z
 SUMMARY:🍕アルランディス: HololiveERRORで突然幽霊に襲われ、とっさに出た撃退法方がこちら #Vtuber #hololiveerror #shorts
 UID:P8gbbn_7M5o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:10 DAYS TILL IDOL RAT!! #ひろがるホロライブ\nhttps://www.youtube.com/watch?v=f3CbOXu2Vfw
+DURATION:PT2H
+DTSTART:20230307T230034Z
+SUMMARY:Baelz: 10 DAYS TILL IDOL RAT!! #ひろがるホロライブ
+UID:f3CbOXu2Vfw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Clash of Chefs VR】REINE'S DINER ★★★★★ VR COOKING IS MY PASSION:) 【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=zQZRjr8vErc
@@ -338,6 +338,13 @@ DURATION:PT2H
 DTSTART:20230306T220000Z
 SUMMARY:Bettel: [Just Chatting] ANOTHER WEEK ANOTHER REVIEW #gavisbettel #holotempus
 UID:6FB5n_MNioQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DDLC】Sayori Sayori Sayori Sayori Sayori Sayori Sayori Sayori Sayori Sayori Sayori Sayori Sayori #4\nhttps://www.youtube.com/watch?v=MNtIXL0gByk
+DURATION:PT2H
+DTSTART:20230308T033000Z
+SUMMARY:Syrios: 【DDLC】Sayori Sayori Sayori Sayori Sayori Sayori Sayori Sayori Sayori Sayori Sayori Sayori Sayori #4
+UID:MNtIXL0gByk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Heart heart on the road\nhttps://www.youtube.com/watch?v=KoMh_GiwIUs
@@ -431,11 +438,11 @@ SUMMARY:🎨Iofi: IOFI SMOLL ADVENTURE IN HOLOLIVE COLLAB CAFE SINGAPORE!
 UID:UR5gcC-kOKQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】今日でリング完成させる...！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=NjxCyrMIWdM
+DESCRIPTION:【Katana Zero】TIME TO UNLOCK SOME SECRETS #holoTEMPUS #Banzoinhakka【EN】\nhttps://www.youtube.com/watch?v=NsH6SduPu18
 DURATION:PT2H
-DTSTART:20230308T130000Z
-SUMMARY:🐏角巻わため: 【Minecraft】今日でリング完成させる...！！！【角巻わため/ホロライブ４期生】
-UID:NjxCyrMIWdM
+DTSTART:20230308T010000Z
+SUMMARY:Hakka: 【Katana Zero】TIME TO UNLOCK SOME SECRETS #holoTEMPUS #Banzoinhakka【EN】
+UID:NsH6SduPu18
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】地獄トロッコ作る！！！🔥【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=nfywhIrEZas
@@ -445,18 +452,18 @@ SUMMARY:博衣こより: 【Minecraft】地獄トロッコ作る！！！🔥【
 UID:nfywhIrEZas
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】今日でリング完成させる...！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=NjxCyrMIWdM
+DURATION:PT2H
+DTSTART:20230308T130000Z
+SUMMARY:🐏角巻わため: 【Minecraft】今日でリング完成させる...！！！【角巻わため/ホロライブ４期生】
+UID:NjxCyrMIWdM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 雑談 / chating 】おしゃべりしてくれる人募集の枠【 #vtuber /#羽継烏有 / #uproar  】\nhttps://www.youtube.com/watch?v=Tdkcdjyih2o
 DURATION:PT2H
 DTSTART:20230307T143000Z
 SUMMARY:羽継烏有: 【 雑談 / chating 】おしゃべりしてくれる人募集の枠【 #vtuber /#羽継烏有 / #uproar  】
 UID:Tdkcdjyih2o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Night in the Woods】 Why are these cute animals living such relatable lives?\nhttps://www.youtube.com/watch?v=mYYKb-UP25M
-DURATION:PT2H
-DTSTART:20230307T160000Z
-SUMMARY:Shinri: 【Night in the Woods】 Why are these cute animals living such relatable lives?
-UID:mYYKb-UP25M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Totally Reliable Delivery Service】Don't worry! We will ship your holopackages!!!【holoID】\nhttps://www.youtube.com/watch?v=006zrfCtUPY
@@ -487,18 +494,18 @@ SUMMARY:🦔💨岸堂天真: 【Satisfactory】2\,000台の機械を支える�
 UID:iF6iJqHzYl4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【くるくるくるりん】しっぽり飲酒プレイ！せっかちが直りそうな予感🥂【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=LpPofBopCd8
-DURATION:PT2H
-DTSTART:20230308T130000Z
-SUMMARY:🍙猫又おかゆ: 【くるくるくるりん】しっぽり飲酒プレイ！せっかちが直りそうな予感🥂【猫又おかゆ/ホロライブ】
-UID:LpPofBopCd8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】W怪盗に挟まれし幽霊 #初ペクス【 羽継烏有 / 猫瀬乃しん / 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=K-RFnxZxM-Q
 DURATION:PT2H
 DTSTART:20230308T130000Z
 SUMMARY:水無世燐央: 【APEX】W怪盗に挟まれし幽霊 #初ペクス【 羽継烏有 / 猫瀬乃しん / 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】
 UID:K-RFnxZxM-Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【くるくるくるりん】しっぽり飲酒プレイ！せっかちが直りそうな予感🥂【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=LpPofBopCd8
+DURATION:PT2H
+DTSTART:20230308T130000Z
+SUMMARY:🍙猫又おかゆ: 【くるくるくるりん】しっぽり飲酒プレイ！せっかちが直りそうな予感🥂【猫又おかゆ/ホロライブ】
+UID:LpPofBopCd8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:『ハートオンライン』 #さくらみこ生誕祭 2023 推しカメラver. #shorts\nhttps://www.youtube.com/watch?v=kepxoM7zp5I
@@ -515,11 +522,11 @@ SUMMARY:Bettel: [Amnesia: The Dark Descent] WITNESS MY STUNNING VICTORY! #holote
 UID:P10Pjz2I9_8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DDLC】Sayori Sayori Sayori Sayori Sayori Sayori Sayori Sayori Sayori Sayori Sayori Sayori Sayori #4\nhttps://www.youtube.com/watch?v=MNtIXL0gByk
+DESCRIPTION:【Night in the Woods】 Why are these cute animals living such relatable lives?\nhttps://www.youtube.com/watch?v=mYYKb-UP25M
 DURATION:PT2H
-DTSTART:20230308T033000Z
-SUMMARY:Syrios: 【DDLC】Sayori Sayori Sayori Sayori Sayori Sayori Sayori Sayori Sayori Sayori Sayori Sayori Sayori #4
-UID:MNtIXL0gByk
+DTSTART:20230307T160000Z
+SUMMARY:Shinri: 【Night in the Woods】 Why are these cute animals living such relatable lives?
+UID:mYYKb-UP25M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】 The grind starts now\nhttps://www.youtube.com/watch?v=B9wk1OpXlbk
