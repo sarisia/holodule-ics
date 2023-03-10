@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】oh hi\nhttps://www.youtube.com/watch?v=ZxHVxhVxwJ0
-DURATION:PT2H
-DTSTART:20230309T010000Z
-SUMMARY:Mumei: 【MINECRAFT】oh hi
-UID:ZxHVxhVxwJ0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MIRROR STREAM & WATCHALONG】CAPCOM SPOTLIGHT OMG EXCITEMENT\nhttps://www.youtube.com/watch?v=HCBXU93bnoI
 DURATION:PT2H
 DTSTART:20230309T222500Z
@@ -25,18 +18,18 @@ SUMMARY:Baelz: 8 DAYS TILL IDOL RAT!! #ひろがるホロライブ
 UID:uqsVB96eK-E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:9 DAYS TILL IDOL RAT!! #ひろがるホロライブ\nhttps://www.youtube.com/watch?v=5Y9RIbaVJcQ
-DURATION:PT2H
-DTSTART:20230308T230002Z
-SUMMARY:Baelz: 9 DAYS TILL IDOL RAT!! #ひろがるホロライブ
-UID:5Y9RIbaVJcQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【BIG SURPRISE + PERSONA 3】You Aren't READY.\nhttps://www.youtube.com/watch?v=uAJdRwl06ls
 DURATION:PT2H
 DTSTART:20230309T235957Z
 SUMMARY:Calli: 【BIG SURPRISE + PERSONA 3】You Aren't READY.
 UID:uAJdRwl06ls
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FIRE EMBLEM ENGAGE】Dancing in the Desert! Unless I ditch him for a girl #kfp #キアライブ\nhttps://www.youtube.com/watch?v=2sRipFGRybs
+DURATION:PT2H
+DTSTART:20230311T010000Z
+SUMMARY:Kiara: 【FIRE EMBLEM ENGAGE】Dancing in the Desert! Unless I ditch him for a girl #kfp #キアライブ
+UID:2sRipFGRybs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪WATCHALONG≫ First time watching Chainsaw Man!\nhttps://www.youtube.com/watch?v=lmmUH01W9_w
@@ -46,32 +39,11 @@ SUMMARY:Baelz: ≪WATCHALONG≫ First time watching Chainsaw Man!
 UID:lmmUH01W9_w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Chitty Chitty Bang Bang with Subaru! #shorts\nhttps://www.youtube.com/watch?v=JH1AropcPeo
-DURATION:PT2H
-DTSTART:20230309T145907Z
-SUMMARY:Kiara: Chitty Chitty Bang Bang with Subaru! #shorts
-UID:JH1AropcPeo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】 World tree project IKZ!!!\nhttps://www.youtube.com/watch?v=nxXm14QmdmQ
 DURATION:PT2H
 DTSTART:20230309T230000Z
 SUMMARY:Fauna: 【MINECRAFT】 World tree project IKZ!!!
 UID:nxXm14QmdmQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】 I Like the Part Where I WAH and WAH All Over the Place\nhttps://www.youtube.com/watch?v=R34ow2ec_Yk
-DURATION:PT2H
-DTSTART:20230309T141500Z
-SUMMARY:Ina: 【Minecraft】 I Like the Part Where I WAH and WAH All Over the Place
-UID:R34ow2ec_Yk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Little Witch Nobeta】I'm a Full Grown Witch Now\nhttps://www.youtube.com/watch?v=bjWsQjBW2_A
-DURATION:PT2H
-DTSTART:20230310T020000Z
-SUMMARY:IRyS: 【Little Witch Nobeta】I'm a Full Grown Witch Now
-UID:bjWsQjBW2_A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪TIERLIST≫ Ranking FeBAErary Streams\nhttps://www.youtube.com/watch?v=Ls66mwUDCTs
@@ -81,11 +53,11 @@ SUMMARY:Baelz: ≪TIERLIST≫ Ranking FeBAErary Streams
 UID:Ls66mwUDCTs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪MINECRAFT≫ what treasures will we discover today? ft. Open VC\nhttps://www.youtube.com/watch?v=x6COcDUxIqo
+DESCRIPTION:【Little Witch Nobeta】I'm a Full Grown Witch Now\nhttps://www.youtube.com/watch?v=bjWsQjBW2_A
 DURATION:PT2H
-DTSTART:20230309T010000Z
-SUMMARY:Baelz: ≪MINECRAFT≫ what treasures will we discover today? ft. Open VC
-UID:x6COcDUxIqo
+DTSTART:20230310T020000Z
+SUMMARY:IRyS: 【Little Witch Nobeta】I'm a Full Grown Witch Now
+UID:bjWsQjBW2_A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Just Chatting】Can't Tell The Difference\nhttps://www.youtube.com/watch?v=vGATeTw5kQg
@@ -93,12 +65,5 @@ DURATION:PT2H
 DTSTART:20230310T081000Z
 SUMMARY:Kronii: 【Just Chatting】Can't Tell The Difference
 UID:vGATeTw5kQg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪GeoGuessr≫ no confidence ft. AZKI\nhttps://www.youtube.com/watch?v=T594r3CnuW8
-DURATION:PT2H
-DTSTART:20230309T110000Z
-SUMMARY:Baelz: ≪GeoGuessr≫ no confidence ft. AZKI
-UID:T594r3CnuW8
 END:VEVENT
 END:VCALENDAR
