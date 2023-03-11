@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【雑談】土曜の夜だし酒飲んで雑談をぶちかます！！！！【#緋崎ガンマ / #ホロスターズ  / #vtuber 】\nhttps://www.youtube.com/watch?v=nZYHS6KakeU
+DURATION:PT2H
+DTSTART:20230311T140000Z
+SUMMARY:緋崎ガンマ: 【雑談】土曜の夜だし酒飲んで雑談をぶちかます！！！！【#緋崎ガンマ / #ホロスターズ  / #vtuber 】
+UID:nZYHS6KakeU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Membership】Let's watch out first TMNT movie together Hakkitos! #holoTEMPUS #Banzoinhakka【EN】\nhttps://www.youtube.com/watch?v=igEQgQH2EUI
 DURATION:PT2H
 DTSTART:20230312T010000Z
@@ -319,13 +326,6 @@ SUMMARY:☄星街すいせい: #CHILLOUTプレゼンツ！CHILLOUT乾杯雑談�
 UID:fGh5hq1_lkA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【League of Legends】夜更かしカスタム / アステル\nhttps://www.youtube.com/watch?v=UcClGMygW30
-DURATION:PT2H
-DTSTART:20230311T131500Z
-SUMMARY:🎭アステル・レダ: 【League of Legends】夜更かしカスタム / アステル
-UID:UcClGMygW30
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Apex Legends】APEXのランクマッチを頑張りたいという気持ちがある配信【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=V8GeJueSSNE
 DURATION:PT2H
 DTSTART:20230311T063000Z
@@ -515,10 +515,10 @@ SUMMARY:🎨Iofi: A Space For The Unbound! Cerita Kita Berdua【 iofi / ホロ�
 UID:grrLdfvYWwk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:動画がバズってるときとバズってないときの違いあるある #shorts #vtuber #ホロスターズ #あるある\nhttps://www.youtube.com/watch?v=zpzqI8zYv_c
+DESCRIPTION:【あるある】動画がバズってるときとバズってないときの違いあるある #shorts #vtuber #ホロスターズ\nhttps://www.youtube.com/watch?v=zpzqI8zYv_c
 DURATION:PT2H
 DTSTART:20230311T113448Z
-SUMMARY:緋崎ガンマ: 動画がバズってるときとバズってないときの違いあるある #shorts #vtuber #ホロスターズ #あるある
+SUMMARY:緋崎ガンマ: 【あるある】動画がバズってるときとバズってないときの違いあるある #shorts #vtuber #ホロスターズ
 UID:zpzqI8zYv_c
 END:VEVENT
 BEGIN:VEVENT
@@ -590,6 +590,13 @@ DURATION:PT2H
 DTSTART:20230311T130000Z
 SUMMARY:風真いろは: 【Minecraft】防犯対策ばっちり✨フリーござる屋台づくり!内装もろもろやっていきますよ！！【風真いろは/ホロライブ】
 UID:d-liIalEcx0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【minecraft】夢だった冒険者にマイクラならなれるんだ【#ときのそら生放送/ホロライブ/ときのそら】\nhttps://www.youtube.com/watch?v=BwoH1vFlKFc
+DURATION:PT2H
+DTSTART:20230311T130000Z
+SUMMARY:🐻ときのそら: 【minecraft】夢だった冒険者にマイクラならなれるんだ【#ときのそら生放送/ホロライブ/ときのそら】
+UID:BwoH1vFlKFc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【アトランチスの謎】キレビンゴ揃ったら即終了！完全初見✨ころねぇオススメ鬼畜レトロゲー！🎮🔥【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=xytP4X8ARyI
