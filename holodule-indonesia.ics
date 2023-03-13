@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:1 hour of zetamin\nhttps://www.youtube.com/watch?v=gzCTA_-F-VY
+DURATION:PT2H
+DTSTART:20230313T150000Z
+SUMMARY:Zeta: 1 hour of zetamin
+UID:gzCTA_-F-VY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【BIRTHDAY COUNTDOWN #2023AnyaDay】It Is Here. 世界最強のカウントダウン。え？【hololive ID 2nd Gen | Anya Melfissa】\nhttps://www.youtube.com/watch?v=BHzz20qyGq8
 DURATION:PT2H
 DTSTART:20230311T165000Z
