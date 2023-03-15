@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【New YABE】Unexpected Weekday Brunch!!! YUM【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=Tz04nCHfJ5Q
+DURATION:PT2H
+DTSTART:20230316T040000Z
+SUMMARY:Reine: 【New YABE】Unexpected Weekday Brunch!!! YUM【Pavolia Reine/hololiveID 2nd gen】
+UID:Tz04nCHfJ5Q
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【FANCALL STREAM】DO YOU REMEMBER JOLLIE JOLLIE'S FANCHANT?【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=OOIx9jXv2aU
 DURATION:PT2H
 DTSTART:20230315T110340Z
@@ -58,13 +65,6 @@ DURATION:PT2H
 DTSTART:20230314T161500Z
 SUMMARY:Kaela: 【Delivering Hope】long time no play【Kaela Kovalskia / hololiveID】
 UID:FkdKsT_UgYI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HOLOCURE】WHO TO GACHIKOI NEXT? LET'S DO MORE WEIRD CHALLENGES【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=qFU-Bdv6QGY
-DURATION:PT2H
-DTSTART:20230315T120000Z
-SUMMARY:Reine: 【HOLOCURE】WHO TO GACHIKOI NEXT? LET'S DO MORE WEIRD CHALLENGES【Pavolia Reine/hololiveID 2nd gen】
-UID:qFU-Bdv6QGY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【BOKURA】COOPERATIVE OMET【Kaela & Anya / hololiveID】\nhttps://www.youtube.com/watch?v=UJLbjFDRx5s
