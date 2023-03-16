@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 雑談 / chating 】ホワイトデー！！おかえしください！！【 #vtuber /#羽継烏有 / #uproar  】\nhttps://www.youtube.com/watch?v=8YsodteNZog
-DURATION:PT2H
-DTSTART:20230314T150000Z
-SUMMARY:羽継烏有: 【 雑談 / chating 】ホワイトデー！！おかえしください！！【 #vtuber /#羽継烏有 / #uproar  】
-UID:8YsodteNZog
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ゲーム内でめちゃくちゃ警察にいじめられるアルランディス #shots #vtuber\nhttps://www.youtube.com/watch?v=lOX4cZAa4UQ
 DURATION:PT2H
 DTSTART:20230315T090026Z
@@ -18,11 +11,11 @@ SUMMARY:🍕アルランディス: ゲーム内でめちゃくちゃ警察にい
 UID:lOX4cZAa4UQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ゲリラ安眠マイクラ!!雑談しながら整地したり建築したり釣りしたりする【#緋崎ガンマ  /#アップロー  /#ホロスターズ   /#マイクラ  /#マインクラフト】\nhttps://www.youtube.com/watch?v=wbpY0J9sI50
+DESCRIPTION:【マリカ】レート18298~ 3月の目標は18750!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=UCpC1TWeJV0
 DURATION:PT2H
-DTSTART:20230315T141000Z
-SUMMARY:緋崎ガンマ: 【Minecraft】ゲリラ安眠マイクラ!!雑談しながら整地したり建築したり釣りしたりする【#緋崎ガンマ  /#アップロー  /#ホロスターズ   /#マイクラ  /#マインクラフト】
-UID:wbpY0J9sI50
+DTSTART:20230316T050000Z
+SUMMARY:🦔💨岸堂天真: 【マリカ】レート18298~ 3月の目標は18750!!【岸堂天真/ホロスターズ】
+UID:UCpC1TWeJV0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【危険】VTuberの機材は命より重い #vtuber #shorts #ホロスターズ\nhttps://www.youtube.com/watch?v=F4IjpI7klL4
@@ -30,6 +23,13 @@ DURATION:PT2H
 DTSTART:20230315T064520Z
 SUMMARY:緋崎ガンマ: 【危険】VTuberの機材は命より重い #vtuber #shorts #ホロスターズ
 UID:F4IjpI7klL4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】天真村にある施設って…なんかテーマパーク感、ないよね？【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=iwdMS9qkNgg
+DURATION:PT2H
+DTSTART:20230316T140000Z
+SUMMARY:🍕アルランディス: 【Minecraft】天真村にある施設って…なんかテーマパーク感、ないよね？【アルランディス/ホロスターズ】
+UID:iwdMS9qkNgg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スマブラSP】視聴者参加型!! 初心者だけど視聴者ボコボコにする!!!!【#緋崎ガンマ  /#アップロー  /#ホロスターズ 】\nhttps://www.youtube.com/watch?v=gl2Nqp9yVwQ
@@ -44,13 +44,6 @@ DURATION:PT2H
 DTSTART:20230315T090420Z
 SUMMARY:ホロスターズ: 失敗ばかりで凹んでいた私。天真さんが寄り添っていってくれた一言 #shorts #ホロスターズ
 UID:n8M8NjJiCDM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【好きなものを語ろう！】－おねショタについて－【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=_41ui90H-FI
-DURATION:PT2H
-DTSTART:20230315T080000Z
-SUMMARY:🍷夕刻ロベル: 【好きなものを語ろう！】－おねショタについて－【夕刻ロベル/ホロスターズ】
-UID:_41ui90H-FI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#エグゾプライマルOBT先行配信】恐竜と戦う夢のゲーム。 / アステル\nhttps://www.youtube.com/watch?v=912doRhOgXU
@@ -100,5 +93,26 @@ DURATION:PT2H
 DTSTART:20230315T081500Z
 SUMMARY:🦔💨岸堂天真: 【マリカ】レート18241~ 3月の目標は18750!!【岸堂天真/ホロスターズ】
 UID:nR6LZTuYp6k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 雑談 / chating 】ホワイトデー！！おかえしください！！【 #vtuber /#羽継烏有 / #uproar  】\nhttps://www.youtube.com/watch?v=8YsodteNZog
+DURATION:PT2H
+DTSTART:20230314T150000Z
+SUMMARY:羽継烏有: 【 雑談 / chating 】ホワイトデー！！おかえしください！！【 #vtuber /#羽継烏有 / #uproar  】
+UID:8YsodteNZog
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】ゲリラ安眠マイクラ!!雑談しながら整地したり建築したり釣りしたりする【#緋崎ガンマ  /#アップロー  /#ホロスターズ   /#マイクラ  /#マインクラフト】\nhttps://www.youtube.com/watch?v=wbpY0J9sI50
+DURATION:PT2H
+DTSTART:20230315T141000Z
+SUMMARY:緋崎ガンマ: 【Minecraft】ゲリラ安眠マイクラ!!雑談しながら整地したり建築したり釣りしたりする【#緋崎ガンマ  /#アップロー  /#ホロスターズ   /#マイクラ  /#マインクラフト】
+UID:wbpY0J9sI50
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【好きなものを語ろう！】－おねショタについて－【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=_41ui90H-FI
+DURATION:PT2H
+DTSTART:20230315T080000Z
+SUMMARY:🍷夕刻ロベル: 【好きなものを語ろう！】－おねショタについて－【夕刻ロベル/ホロスターズ】
+UID:_41ui90H-FI
 END:VEVENT
 END:VCALENDAR
