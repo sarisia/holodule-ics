@@ -354,13 +354,6 @@ SUMMARY:尾丸ポルカ: 【ポルカの伝説】もし祝日が増えたら何�
 UID:1DF-RaQM8Pg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【LIVE前最後の自枠！】寝る前にお話ししよう～！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=QNNWpJ6ToMo
-DURATION:PT2H
-DTSTART:20230316T130000Z
-SUMMARY:雪花ラミィ: 【LIVE前最後の自枠！】寝る前にお話ししよう～！【雪花ラミィ/ホロライブ】
-UID:QNNWpJ6ToMo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【OVERWATCH 2】ID and KR!! ...HOW DO I COMMUNICATE WITH THEM【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=Rb86vog01RY
 DURATION:PT2H
 DTSTART:20230316T105856Z
@@ -368,11 +361,18 @@ SUMMARY:Ollie: 【OVERWATCH 2】ID and KR!! ...HOW DO I COMMUNICATE WITH THEM【
 UID:Rb86vog01RY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ひろがるホロライブDAY1】hololive SUPER EXPO 2023 フリーステージ\nhttps://www.youtube.com/watch?v=SAYjyQPDR68
+DESCRIPTION:【LIVE前最後の自枠！】寝る前にお話ししよう～！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=QNNWpJ6ToMo
 DURATION:PT2H
-DTSTART:20230318T013000Z
-SUMMARY:ホロライブ: 【#ひろがるホロライブDAY1】hololive SUPER EXPO 2023 フリーステージ
-UID:SAYjyQPDR68
+DTSTART:20230316T130000Z
+SUMMARY:雪花ラミィ: 【LIVE前最後の自枠！】寝る前にお話ししよう～！【雪花ラミィ/ホロライブ】
+UID:QNNWpJ6ToMo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #DJARN 】ホロライブEXPO直前ノリノリDJ配信！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=-hwM55KzdUU
+DURATION:PT2H
+DTSTART:20230317T040000Z
+SUMMARY:🍕アルランディス: 【 #DJARN 】ホロライブEXPO直前ノリノリDJ配信！【アルランディス/ホロスターズ】
+UID:-hwM55KzdUU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】秘密結社ねぽらぼの基地増やしたいな～～～っ！！！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=BnbgX_UrOpY
@@ -389,11 +389,11 @@ SUMMARY:⚔白銀ノエル: 【ASMR】良く眠れる極上シャンプー💤�
 UID:dvJvHSiHqwA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #DJARN 】ホロライブEXPO直前ノリノリDJ配信！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=-hwM55KzdUU
+DESCRIPTION:【#ひろがるホロライブDAY1】hololive SUPER EXPO 2023 フリーステージ\nhttps://www.youtube.com/watch?v=SAYjyQPDR68
 DURATION:PT2H
-DTSTART:20230317T040000Z
-SUMMARY:🍕アルランディス: 【 #DJARN 】ホロライブEXPO直前ノリノリDJ配信！【アルランディス/ホロスターズ】
-UID:-hwM55KzdUU
+DTSTART:20230318T013000Z
+SUMMARY:ホロライブ: 【#ひろがるホロライブDAY1】hololive SUPER EXPO 2023 フリーステージ
+UID:SAYjyQPDR68
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #ひろがるホロライブ 】フェス前に心を和のパワーで清めます、習字 / 書道する【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=PJd721gWr5k
@@ -436,13 +436,6 @@ DURATION:PT2H
 DTSTART:20230316T122138Z
 SUMMARY:緋崎ガンマ: 【過酷】VTuberの収録現場あるあるwww #vtuber #shorts #ホロスターズ #あるある
 UID:eq2We_mCH5g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Titanfall 2 】Hold my beer I'm gonna to teach this robot how to fall in love\nhttps://www.youtube.com/watch?v=ymSj4ZMCauI
-DURATION:PT2H
-DTSTART:20230316T170000Z
-SUMMARY:Vesper: 【 Titanfall 2 】Hold my beer I'm gonna to teach this robot how to fall in love
-UID:ymSj4ZMCauI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Apex Legends】1200000年ぶりにゴールドランクに到達する俺【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=vHgb6jrSsgU
