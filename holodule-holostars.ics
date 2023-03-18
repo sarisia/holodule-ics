@@ -4,46 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#ひろがるホロライブDAY1】熱血！エクストリーム体力テスト\nhttps://www.youtube.com/watch?v=mCfN6g6ulOw
-DURATION:PT2H
-DTSTART:20230318T060000Z
-SUMMARY:ホロスターズ: 【#ひろがるホロライブDAY1】熱血！エクストリーム体力テスト
-UID:mCfN6g6ulOw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ひろがるホロライブDAY2】漢だらけの！？アニソンカラオケ大会！！\nhttps://www.youtube.com/watch?v=UP2zg5JkWfA
-DURATION:PT2H
-DTSTART:20230319T040000Z
-SUMMARY:ホロスターズ: 【#ひろがるホロライブDAY2】漢だらけの！？アニソンカラオケ大会！！
-UID:UP2zg5JkWfA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #DJARN 】ホロライブEXPO直前ノリノリDJ配信！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=-hwM55KzdUU
-DURATION:PT2H
-DTSTART:20230317T040000Z
-SUMMARY:🍕アルランディス: 【 #DJARN 】ホロライブEXPO直前ノリノリDJ配信！【アルランディス/ホロスターズ】
-UID:-hwM55KzdUU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【同時視聴】hololive 4th fes. Our Bright Parade Supported By Bushiroad DAY1　同時視聴【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=5VdDlNN-PT0
-DURATION:PT2H
-DTSTART:20230318T084500Z
-SUMMARY:荒咬オウガ: 【同時視聴】hololive 4th fes. Our Bright Parade Supported By Bushiroad DAY1　同時視聴【荒咬オウガ/ホロスターズ】
-UID:5VdDlNN-PT0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【アニメ】撮るよっ！ハイチーズ！！【#スタこれ】\nhttps://www.youtube.com/watch?v=6eX2hTbV5w8
 DURATION:PT2H
 DTSTART:20230317T100005Z
 SUMMARY:ホロスターズ: 【アニメ】撮るよっ！ハイチーズ！！【#スタこれ】
 UID:6eX2hTbV5w8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[#ひろがるホロライブ】EXPO直前！会話デッキ考えよう【夜十神封魔/UPROAR!!】\nhttps://www.youtube.com/watch?v=-sW297Zarck
-DURATION:PT2H
-DTSTART:20230317T143000Z
-SUMMARY:夜十神封魔: [#ひろがるホロライブ】EXPO直前！会話デッキ考えよう【夜十神封魔/UPROAR!!】
-UID:-sW297Zarck
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ひろがるホロライブDAY1】イヅル＆オウガと巡る！ホロスターズのEXPOさんぽ\nhttps://www.youtube.com/watch?v=g8OHTMuLB-8
@@ -74,20 +39,6 @@ SUMMARY:⚙律可: 2023.2.11 Contact record from  ??? #rebirthful #律可
 UID:HSBMaVrT5vQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【LOST EGG2】ホロライブEXPO直前なので卵を転がします【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=DjRCW19Mswg
-DURATION:PT2H
-DTSTART:20230317T144500Z
-SUMMARY:影山シエン: 【LOST EGG2】ホロライブEXPO直前なので卵を転がします【影山シエン/ホロスターズ】
-UID:DjRCW19Mswg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:全員の回答を一致させなければいけない配信で起きた優しい奇跡 #shorts #ホロスターズ  #Vtuber\nhttps://www.youtube.com/watch?v=2JvYp3y5FA0
-DURATION:PT2H
-DTSTART:20230317T090003Z
-SUMMARY:🍕アルランディス: 全員の回答を一致させなければいけない配信で起きた優しい奇跡 #shorts #ホロスターズ  #Vtuber
-UID:2JvYp3y5FA0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】Eng sub　安眠すやすやトーク&ホラー朗読一話中編3/17【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=6wJV0guH7VU
 DURATION:PT2H
 DTSTART:20230317T150000Z
@@ -107,5 +58,61 @@ DURATION:PT2H
 DTSTART:20230318T030005Z
 SUMMARY:🍕アルランディス: この配慮がお家3Dでもできちゃうんです。そう、mocopiならね #shorts #mocopi #vtuber
 UID:7_KCCtZ1hQ4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ひろがるホロライブDAY1】熱血！エクストリーム体力テスト\nhttps://www.youtube.com/watch?v=mCfN6g6ulOw
+DURATION:PT2H
+DTSTART:20230318T060000Z
+SUMMARY:ホロスターズ: 【#ひろがるホロライブDAY1】熱血！エクストリーム体力テスト
+UID:mCfN6g6ulOw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ひろがるホロライブDAY2】漢だらけの！？アニソンカラオケ大会！！\nhttps://www.youtube.com/watch?v=UP2zg5JkWfA
+DURATION:PT2H
+DTSTART:20230319T040000Z
+SUMMARY:ホロスターズ: 【#ひろがるホロライブDAY2】漢だらけの！？アニソンカラオケ大会！！
+UID:UP2zg5JkWfA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #DJARN 】ホロライブEXPO直前ノリノリDJ配信！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=-hwM55KzdUU
+DURATION:PT2H
+DTSTART:20230317T040000Z
+SUMMARY:🍕アルランディス: 【 #DJARN 】ホロライブEXPO直前ノリノリDJ配信！【アルランディス/ホロスターズ】
+UID:-hwM55KzdUU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【同時視聴】hololive 4th fes. Our Bright Parade Supported By Bushiroad DAY1　同時視聴【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=5VdDlNN-PT0
+DURATION:PT2H
+DTSTART:20230318T084500Z
+SUMMARY:荒咬オウガ: 【同時視聴】hololive 4th fes. Our Bright Parade Supported By Bushiroad DAY1　同時視聴【荒咬オウガ/ホロスターズ】
+UID:5VdDlNN-PT0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[#ひろがるホロライブ】EXPO直前！会話デッキ考えよう【夜十神封魔/UPROAR!!】\nhttps://www.youtube.com/watch?v=-sW297Zarck
+DURATION:PT2H
+DTSTART:20230317T143000Z
+SUMMARY:夜十神封魔: [#ひろがるホロライブ】EXPO直前！会話デッキ考えよう【夜十神封魔/UPROAR!!】
+UID:-sW297Zarck
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【LOST EGG2】ホロライブEXPO直前なので卵を転がします【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=DjRCW19Mswg
+DURATION:PT2H
+DTSTART:20230317T144500Z
+SUMMARY:影山シエン: 【LOST EGG2】ホロライブEXPO直前なので卵を転がします【影山シエン/ホロスターズ】
+UID:DjRCW19Mswg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:全員の回答を一致させなければいけない配信で起きた優しい奇跡 #shorts #ホロスターズ  #Vtuber\nhttps://www.youtube.com/watch?v=2JvYp3y5FA0
+DURATION:PT2H
+DTSTART:20230317T090003Z
+SUMMARY:🍕アルランディス: 全員の回答を一致させなければいけない配信で起きた優しい奇跡 #shorts #ホロスターズ  #Vtuber
+UID:2JvYp3y5FA0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ひろがるホロライブDAY1】アステル＆天真&ロベルと巡る！ホロスターズのEXPOさんぽ\nhttps://www.youtube.com/watch?v=Z1Z3NGHtmKo
+DURATION:PT2H
+DTSTART:20230318T030000Z
+SUMMARY:ホロスターズ: 【#ひろがるホロライブDAY1】アステル＆天真&ロベルと巡る！ホロスターズのEXPOさんぽ
+UID:Z1Z3NGHtmKo
 END:VEVENT
 END:VCALENDAR
