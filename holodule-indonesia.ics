@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【DAY 1: AFTERTALK】SO\, DID YOU CRY?【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=l4weFbiXtoE
+DURATION:PT2H
+DTSTART:20230318T150000Z
+SUMMARY:Ollie: 【DAY 1: AFTERTALK】SO\, DID YOU CRY?【Hololive ID 2nd Generation】
+UID:l4weFbiXtoE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ひろがるホロライブ 4TH FES. DAY 1 WATCHALONG 同時視聴会】I AM READY TO SCREAM-CRY【holoID 2nd Gen | Anya Melfissa】\nhttps://www.youtube.com/watch?v=rah91xrfMc0
 DURATION:PT2H
 DTSTART:20230318T085000Z
@@ -18,18 +25,25 @@ SUMMARY:Zeta: 【 Watchalong】Hololive 4th fes. DAY 1 ❗【#ひろがるホロ
 UID:NVCvDdTw-Wg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RDR2】HOWDEEZ #3\nhttps://www.youtube.com/watch?v=Xz_cqeXi-uc
-DURATION:PT2H
-DTSTART:20230317T150000Z
-SUMMARY:Zeta: 【RDR2】HOWDEEZ #3
-UID:Xz_cqeXi-uc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ada apa dibalik #holoIDhiBANA? Yuk\, kita ingat-ingat bersama! (+Pengumuman)\nhttps://www.youtube.com/watch?v=MO5amM_PEa0
 DURATION:PT2H
 DTSTART:20230317T091500Z
 SUMMARY:IDholo: Ada apa dibalik #holoIDhiBANA? Yuk\, kita ingat-ingat bersama! (+Pengumuman)
 UID:MO5amM_PEa0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【A Little Golf Journey】its not a 3am golf but ok 🏌️⛳【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=4ahS77Ubw-c
+DURATION:PT2H
+DTSTART:20230317T060000Z
+SUMMARY:Kaela: 【A Little Golf Journey】its not a 3am golf but ok 🏌️⛳【Kaela Kovalskia / hololiveID】
+UID:4ahS77Ubw-c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RDR2】HOWDEEZ #3\nhttps://www.youtube.com/watch?v=Xz_cqeXi-uc
+DURATION:PT2H
+DTSTART:20230317T150000Z
+SUMMARY:Zeta: 【RDR2】HOWDEEZ #3
+UID:Xz_cqeXi-uc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Diablo IV】#1 waited so long for this【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=8fyQuoT-aRQ
@@ -44,12 +58,5 @@ DURATION:PT2H
 DTSTART:20230317T130000Z
 SUMMARY:Reine: #7【DANGANRONPA】SOLVING A LOCKED ROOM MYSTERY【Pavolia Reine/hololiveID 2nd gen】
 UID:uCbOcQjQUPY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【A Little Golf Journey】its not a 3am golf but ok 🏌️⛳【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=4ahS77Ubw-c
-DURATION:PT2H
-DTSTART:20230317T060000Z
-SUMMARY:Kaela: 【A Little Golf Journey】its not a 3am golf but ok 🏌️⛳【Kaela Kovalskia / hololiveID】
-UID:4ahS77Ubw-c
 END:VEVENT
 END:VCALENDAR
