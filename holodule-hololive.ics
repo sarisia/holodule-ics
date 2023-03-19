@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 Member Only 】Expo & 4th Fes. お疲れ様会なのら！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=0ENMbJhEOvo
-DURATION:PT2H
-DTSTART:20230319T130000Z
-SUMMARY:🍬姫森ルーナ: 【 Member Only 】Expo & 4th Fes. お疲れ様会なのら！【姫森ルーナ/ホロライブ】
-UID:0ENMbJhEOvo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【応援フリチャ】hololive 4th fes. & EXPO 2023 アイドルぺこら応援会場ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=yVcl_Cbs5cs
 DURATION:PT2H
 DTSTART:20230320T120000Z
@@ -23,6 +16,13 @@ DURATION:PT2H
 DTSTART:20230318T140000Z
 SUMMARY:💫天音かなた: 【Minecraft】明日に向けて精神統一・・・夜のお散歩だ！！！！【天音かなた/ホロライブ】
 UID:3U-g8HLcwkM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【＃生スバル】人生初ジョジョ見てみるしゅばあああああああああああああああああああ！！！！！：watching party JOJO【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=V8hT4eil708
+DURATION:PT2H
+DTSTART:20230319T141500Z
+SUMMARY:🚑大空スバル: 【＃生スバル】人生初ジョジョ見てみるしゅばあああああああああああああああああああ！！！！！：watching party JOJO【ホロライブ/大空スバル】
+UID:V8hT4eil708
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ひろがるホロライブDAY2】hololive SUPER EXPO 2023 フリーステージ\nhttps://www.youtube.com/watch?v=CWCaIKiwU3U
@@ -132,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【かなたそ応援席】holo*27 stage & hololive 4th fes. DAY2【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=jlMw44f8osw
 DURATION:PT2H
-DTSTART:20230319T150000Z
+DTSTART:20230320T100000Z
 SUMMARY:💫天音かなた: 【かなたそ応援席】holo*27 stage & hololive 4th fes. DAY2【天音かなた/ホロライブ】
 UID:jlMw44f8osw
 END:VEVENT
@@ -179,13 +179,6 @@ SUMMARY:鷹嶺ルイ: 【 hololive 4th fes.＆EXPO応援会場 】DAY2いくぞ�
 UID:wkRuILMT67w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【コール💥ハイ！オンリー】別世界 / 天音かなた【マスク着用で声出し】\nhttps://www.youtube.com/watch?v=Au1Pg1oHPCk
-DURATION:PT2H
-DTSTART:20230319T005735Z
-SUMMARY:💫天音かなた: 【コール💥ハイ！オンリー】別世界 / 天音かなた【マスク着用で声出し】
-UID:Au1Pg1oHPCk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【仮】\nhttps://www.youtube.com/watch?v=f8jeoisZeFY
 DURATION:PT2H
 DTSTART:20230320T113000Z
@@ -216,7 +209,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【特別会場】hololive 4th fes. 特別応援席！#ひろがるホロライブDAY2\nhttps://www.youtube.com/watch?v=eRPMlb6IAiM
 DURATION:PT2H
-DTSTART:20230319T150000Z
+DTSTART:20230320T120000Z
 SUMMARY:👿百鬼あやめ: 【特別会場】hololive 4th fes. 特別応援席！#ひろがるホロライブDAY2
 UID:eRPMlb6IAiM
 END:VEVENT
