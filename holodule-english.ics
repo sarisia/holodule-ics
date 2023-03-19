@@ -4,27 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【CONCERT CHAT!!】Warming Up for Tomorrow!!\nhttps://www.youtube.com/watch?v=M4nFaIZpNp4
-DURATION:PT2H
-DTSTART:20230318T140027Z
-SUMMARY:Calli: 【CONCERT CHAT!!】Warming Up for Tomorrow!!
-UID:M4nFaIZpNp4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【AFTERTALK】AAAAAAAAAAAA DAY 1  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=TTY8C9kghDA
-DURATION:PT2H
-DTSTART:20230318T150000Z
-SUMMARY:Kiara: 【AFTERTALK】AAAAAAAAAAAA DAY 1  #kfp #キアライブ
-UID:TTY8C9kghDA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪#ひろがるホロライブDAY1≫ 4TH HOLO FES DAY 1 WATCHALONG\nhttps://www.youtube.com/watch?v=xxWRWaLGo3Y
-DURATION:PT2H
-DTSTART:20230318T083000Z
-SUMMARY:Baelz: ≪#ひろがるホロライブDAY1≫ 4TH HOLO FES DAY 1 WATCHALONG
-UID:xxWRWaLGo3Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【FREE TALK】Hololive 4th Fes\nhttps://www.youtube.com/watch?v=GyGTjsmw1-o
 DURATION:PT2H
 DTSTART:20230320T000000Z
@@ -39,17 +18,17 @@ SUMMARY:IRyS: 『hololive EXPO & 4th Fes』IRyS' Cheering Venue!!💎
 UID:HjLhSdJ0Ugo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:hololive English 1st Concert -Connect the World- Trailer\nhttps://www.youtube.com/watch?v=U0XJ33k52Bs
-DURATION:PT2H
-DTSTART:20230318T115711Z
-SUMMARY:ENholo: hololive English 1st Concert -Connect the World- Trailer
-UID:U0XJ33k52Bs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪hololive EXPO & 4th fes≫ off to be an idol #ひろがるホロライブDAY2\nhttps://www.youtube.com/watch?v=dRTOq0jzp0Y
 DURATION:PT2H
 DTSTART:20230319T150000Z
 SUMMARY:Baelz: ≪hololive EXPO & 4th fes≫ off to be an idol #ひろがるホロライブDAY2
 UID:dRTOq0jzp0Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【AFTERTALK】AAAAAAAAAAAA DAY 1  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=TTY8C9kghDA
+DURATION:PT2H
+DTSTART:20230318T150000Z
+SUMMARY:Kiara: 【AFTERTALK】AAAAAAAAAAAA DAY 1  #kfp #キアライブ
+UID:TTY8C9kghDA
 END:VEVENT
 END:VCALENDAR
