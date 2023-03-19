@@ -487,13 +487,6 @@ SUMMARY:ホロライブ: 【#ひろがるホロライブDAY1】hololive 4th fes.
 UID:Of2b9eBHFS4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ひろがるホロライブDAY2】HOLOLIVE 4TH FES: DAY 2 - WATCHALONG!!【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=hiTQI4cUXXQ
-DURATION:PT2H
-DTSTART:20230319T084500Z
-SUMMARY:Ollie: 【#ひろがるホロライブDAY2】HOLOLIVE 4TH FES: DAY 2 - WATCHALONG!!【Hololive ID 2nd Generation】
-UID:hiTQI4cUXXQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 hololive 4th fes.＆EXPO応援会場 】DAY2いくぞ‼holo*27ステージ応援してね✨帰宅後Membership配信するよん♪  #ひろがるホロライブ 【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=wkRuILMT67w
 DURATION:PT2H
 DTSTART:20230319T130000Z
@@ -508,18 +501,18 @@ SUMMARY:💫天音かなた: 【コール💥ハイ！オンリー】別世界 /
 UID:Au1Pg1oHPCk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:『hololive EXPO & 4th Fes』IRyS' Cheering Venue!!💎\nhttps://www.youtube.com/watch?v=HjLhSdJ0Ugo
-DURATION:PT2H
-DTSTART:20230319T150000Z
-SUMMARY:IRyS: 『hololive EXPO & 4th Fes』IRyS' Cheering Venue!!💎
-UID:HjLhSdJ0Ugo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ひろがるホロライブDAY2】Free Chat【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=eA6PJisfDYk
 DURATION:PT2H
 DTSTART:20230319T150000Z
 SUMMARY:Anya: 【#ひろがるホロライブDAY2】Free Chat【hololive ID 2nd Generation | Anya Melfissa】
 UID:eA6PJisfDYk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:『hololive EXPO & 4th Fes』IRyS' Cheering Venue!!💎\nhttps://www.youtube.com/watch?v=HjLhSdJ0Ugo
+DURATION:PT2H
+DTSTART:20230319T150000Z
+SUMMARY:IRyS: 『hololive EXPO & 4th Fes』IRyS' Cheering Venue!!💎
+UID:HjLhSdJ0Ugo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Papers\, Please 】The "please" is just formality. Give me your papers\, now.\nhttps://www.youtube.com/watch?v=8Cu5RPJ7Gdk
@@ -583,5 +576,12 @@ DURATION:PT2H
 DTSTART:20230317T161500Z
 SUMMARY:Kaela: 【Diablo IV】#1 waited so long for this【Kaela Kovalskia / hololiveID】
 UID:8fyQuoT-aRQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Drawing】朝活!! EXPO振り返りお絵描き雑談!!【#緋崎ガンマ / #ホロスターズ / #お絵描き  #illustration #イラスト #ひろがるホロライブ】\nhttps://www.youtube.com/watch?v=Ru7cyhcspdw
+DURATION:PT2H
+DTSTART:20230319T223000Z
+SUMMARY:緋崎ガンマ: 【Drawing】朝活!! EXPO振り返りお絵描き雑談!!【#緋崎ガンマ / #ホロスターズ / #お絵描き  #illustration #イラスト #ひろがるホロライブ】
+UID:Ru7cyhcspdw
 END:VEVENT
 END:VCALENDAR
