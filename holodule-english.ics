@@ -4,46 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:≪Getting Over It≫ I N H A L E\nhttps://www.youtube.com/watch?v=9aCftWAxZRI
-DURATION:PT2H
-DTSTART:20230322T010000Z
-SUMMARY:Baelz: ≪Getting Over It≫ I N H A L E
-UID:9aCftWAxZRI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PLANET COASTER】mr bones wild ride never ends\nhttps://www.youtube.com/watch?v=Z6w6YVZGSQo
-DURATION:PT2H
-DTSTART:20230320T025932Z
-SUMMARY:Calli: 【PLANET COASTER】mr bones wild ride never ends
-UID:Z6w6YVZGSQo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PERSONA 3】our usual nighttime mayhem!\nhttps://www.youtube.com/watch?v=UjPaLy-CnRo
-DURATION:PT2H
-DTSTART:20230321T042932Z
-SUMMARY:Calli: 【PERSONA 3】our usual nighttime mayhem!
-UID:UjPaLy-CnRo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:『hololive EXPO & 4th Fes』IRyS' Cheering Venue!!💎\nhttps://www.youtube.com/watch?v=HjLhSdJ0Ugo
-DURATION:PT2H
-DTSTART:20230319T150000Z
-SUMMARY:IRyS: 『hololive EXPO & 4th Fes』IRyS' Cheering Venue!!💎
-UID:HjLhSdJ0Ugo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:『Megaman Zero』Zero to Hero?\nhttps://www.youtube.com/watch?v=-MMMAGVcELI
-DURATION:PT2H
-DTSTART:20230322T020000Z
-SUMMARY:IRyS: 『Megaman Zero』Zero to Hero?
-UID:-MMMAGVcELI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【BIRTHDAY STREAM】 Birthday kirin on your screen!! #Faunjoubi2023\nhttps://www.youtube.com/watch?v=Dte5lhiMD7A
 DURATION:PT2H
 DTSTART:20230321T220000Z
 SUMMARY:Fauna: 【BIRTHDAY STREAM】 Birthday kirin on your screen!! #Faunjoubi2023
 UID:Dte5lhiMD7A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪Getting Over It≫ I N H A L E\nhttps://www.youtube.com/watch?v=9aCftWAxZRI
+DURATION:PT2H
+DTSTART:20230322T010000Z
+SUMMARY:Baelz: ≪Getting Over It≫ I N H A L E
+UID:9aCftWAxZRI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【METROID PRIME】remastered!!!!! orange armor woman!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=sOgAhteCfDw
@@ -53,6 +25,13 @@ SUMMARY:Kiara: 【METROID PRIME】remastered!!!!! orange armor woman!!! #kfp #�
 UID:sOgAhteCfDw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【PERSONA 3】our usual nighttime mayhem!\nhttps://www.youtube.com/watch?v=UjPaLy-CnRo
+DURATION:PT2H
+DTSTART:20230321T042932Z
+SUMMARY:Calli: 【PERSONA 3】our usual nighttime mayhem!
+UID:UjPaLy-CnRo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【NEW??】 Showing you a few new things!\nhttps://www.youtube.com/watch?v=I577YH2XwAY
 DURATION:PT2H
 DTSTART:20230322T000000Z
@@ -60,17 +39,17 @@ SUMMARY:Fauna: 【NEW??】 Showing you a few new things!
 UID:I577YH2XwAY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【hololive EXPO & 4th Fes】Idowl Mumei !!!\nhttps://www.youtube.com/watch?v=GyGTjsmw1-o
+DESCRIPTION:『Megaman Zero』Zero to Hero?\nhttps://www.youtube.com/watch?v=-MMMAGVcELI
 DURATION:PT2H
-DTSTART:20230320T014000Z
-SUMMARY:Mumei: 【hololive EXPO & 4th Fes】Idowl Mumei !!!
-UID:GyGTjsmw1-o
+DTSTART:20230322T020000Z
+SUMMARY:IRyS: 『Megaman Zero』Zero to Hero?
+UID:-MMMAGVcELI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪hololive EXPO & 4th fes≫ off to be an idol #ひろがるホロライブDAY2\nhttps://www.youtube.com/watch?v=dRTOq0jzp0Y
+DESCRIPTION:【MEMBER'S STREAM】FES Doodling Idol Mori!!\nhttps://www.youtube.com/watch?v=r3EImWwdeQ8
 DURATION:PT2H
-DTSTART:20230319T150000Z
-SUMMARY:Baelz: ≪hololive EXPO & 4th fes≫ off to be an idol #ひろがるホロライブDAY2
-UID:dRTOq0jzp0Y
+DTSTART:20230322T020000Z
+SUMMARY:Calli: 【MEMBER'S STREAM】FES Doodling Idol Mori!!
+UID:r3EImWwdeQ8
 END:VEVENT
 END:VCALENDAR
