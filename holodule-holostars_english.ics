@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】 punching a hole through a mountain\nhttps://www.youtube.com/watch?v=0qMjMCjVbB8
+DESCRIPTION:[Lore Video] The Koi and the Dragon's Gate\nhttps://www.youtube.com/watch?v=nzLOQrpDwbo
 DURATION:PT2H
-DTSTART:20230322T010000Z
-SUMMARY:Shinri: 【Minecraft】 punching a hole through a mountain
-UID:0qMjMCjVbB8
+DTSTART:20230323T024659Z
+SUMMARY:Shinri: [Lore Video] The Koi and the Dragon's Gate
+UID:nzLOQrpDwbo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【POCKET MIRROR ~ GoldenerTraum】DEMO | Very pretty looking...What's inside?\nhttps://www.youtube.com/watch?v=4yhWM8qdY6Q
@@ -18,18 +18,18 @@ SUMMARY:Flayon: 【POCKET MIRROR ~ GoldenerTraum】DEMO | Very pretty looking...
 UID:4yhWM8qdY6Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[Lore Video] The Koi and the Dragon's Gate\nhttps://www.youtube.com/watch?v=nzLOQrpDwbo
-DURATION:PT2H
-DTSTART:20230323T024659Z
-SUMMARY:Shinri: [Lore Video] The Koi and the Dragon's Gate
-UID:nzLOQrpDwbo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Left 4 Dead 2 】 L4D2 TEMPUS SHOWDOWN\, Headquarters vs Vanguard\nhttps://www.youtube.com/watch?v=PV5WU8llucs
 DURATION:PT2H
 DTSTART:20230324T030000Z
 SUMMARY:Shinri: 【Left 4 Dead 2 】 L4D2 TEMPUS SHOWDOWN\, Headquarters vs Vanguard
 UID:PV5WU8llucs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】 punching a hole through a mountain\nhttps://www.youtube.com/watch?v=0qMjMCjVbB8
+DURATION:PT2H
+DTSTART:20230322T010000Z
+SUMMARY:Shinri: 【Minecraft】 punching a hole through a mountain
+UID:0qMjMCjVbB8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DMC 5】V IS SO COOL\, AND HAS CAT AND BIRB!  #holoTEMPUS #Banzoinhakka【EN】\nhttps://www.youtube.com/watch?v=RDrmHZi0uRs
@@ -81,18 +81,18 @@ SUMMARY:Syrios: 【Left 4 Dead 2 】Time to settle things here in the guild... H
 UID:aUbRs-iONfI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[FORTNITE] ITS BEEN FAR TOO LONG\nhttps://www.youtube.com/watch?v=Wx6ExiPaRK4
-DURATION:PT2H
-DTSTART:20230322T030000Z
-SUMMARY:Dezmond: [FORTNITE] ITS BEEN FAR TOO LONG
-UID:Wx6ExiPaRK4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【渋ハルカスタム】 TSB - Would you help a bro out??【Shibu Hal Custom】\nhttps://www.youtube.com/watch?v=7SKQwXr7i0U
 DURATION:PT2H
 DTSTART:20230323T123000Z
 SUMMARY:Syrios: 【渋ハルカスタム】 TSB - Would you help a bro out??【Shibu Hal Custom】
 UID:7SKQwXr7i0U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[FORTNITE] ITS BEEN FAR TOO LONG\nhttps://www.youtube.com/watch?v=Wx6ExiPaRK4
+DURATION:PT2H
+DTSTART:20230322T030000Z
+SUMMARY:Dezmond: [FORTNITE] ITS BEEN FAR TOO LONG
+UID:Wx6ExiPaRK4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【13 SENTINELS AEGIS RIM】#1 | Visual Novel? MECHAS? GIVE. | Spoiler Alert\nhttps://www.youtube.com/watch?v=-1lvJzaK2ww
@@ -107,6 +107,13 @@ DURATION:PT2H
 DTSTART:20230322T150000Z
 SUMMARY:Shinri: 【Night in the Woods】 everything feels * * * bad * * *
 UID:LF5BCWtr8og
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RESIDENT EVIL 6】#2 w/ Gavis Bettel!!!! We're Nearing The End...!\nhttps://www.youtube.com/watch?v=F4D6sbFx6rY
+DURATION:PT2H
+DTSTART:20230323T233000Z
+SUMMARY:Flayon: 【RESIDENT EVIL 6】#2 w/ Gavis Bettel!!!! We're Nearing The End...!
+UID:F4D6sbFx6rY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[Green Hell] HOW LONG WILL I SURVIVE IN THE WILD? #holotempus #gavisbettel\nhttps://www.youtube.com/watch?v=izmVQlR38oM
