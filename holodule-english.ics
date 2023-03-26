@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】helloo! 🐟 🌸\nhttps://www.youtube.com/watch?v=0wArI3n7Qu4
-DURATION:PT2H
-DTSTART:20230326T000000Z
-SUMMARY:Gura: 【MINECRAFT】helloo! 🐟 🌸
-UID:0wArI3n7Qu4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DIABLO IV】Open Beta Baby! Inventory is BEEG i hear?! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=smUZLefJEpo
-DURATION:PT2H
-DTSTART:20230326T150000Z
-SUMMARY:Kiara: 【DIABLO IV】Open Beta Baby! Inventory is BEEG i hear?! #kfp #キアライブ
-UID:smUZLefJEpo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪Just Chatting≫ 20 questions with Bae\nhttps://www.youtube.com/watch?v=m7Z_HStALGs
 DURATION:PT2H
 DTSTART:20230327T010000Z
@@ -25,11 +11,11 @@ SUMMARY:Baelz: ≪Just Chatting≫ 20 questions with Bae
 UID:m7Z_HStALGs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Oblivion】Bowson Unmatched...THE HERO OF KVATCH\nhttps://www.youtube.com/watch?v=bk96NLG5u4Q
+DESCRIPTION:【RESIDENT EVIL 4 REMAKE】leon!!!! (SPOILER WARNING)\nhttps://www.youtube.com/watch?v=0UcBpNS8-P4
 DURATION:PT2H
-DTSTART:20230326T030500Z
-SUMMARY:Amelia: 【Oblivion】Bowson Unmatched...THE HERO OF KVATCH
-UID:bk96NLG5u4Q
+DTSTART:20230326T065815Z
+SUMMARY:Calli: 【RESIDENT EVIL 4 REMAKE】leon!!!! (SPOILER WARNING)
+UID:0UcBpNS8-P4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【WATCHALONG】 The Witch from Mercury...Oh My GUNDAM It's a Special Watchalong with  @IRyS !!!\nhttps://www.youtube.com/watch?v=OWqT53IpcY0
@@ -44,5 +30,33 @@ DURATION:PT2H
 DTSTART:20230325T230000Z
 SUMMARY:Baelz: ≪#ひろがるホロライブDAY2≫ hololive 4th Fes Day 2 WATCHALONG
 UID:yfbNZu33LZ8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:『UNARCHIVED Karaoke』Sing for me IRyS Sing!\nhttps://www.youtube.com/watch?v=G5kqsD-fUkg
+DURATION:PT2H
+DTSTART:20230327T030000Z
+SUMMARY:IRyS: 『UNARCHIVED Karaoke』Sing for me IRyS Sing!
+UID:G5kqsD-fUkg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Oblivion】Bowson Unmatched...THE HERO OF KVATCH\nhttps://www.youtube.com/watch?v=bk96NLG5u4Q
+DURATION:PT2H
+DTSTART:20230326T030500Z
+SUMMARY:Amelia: 【Oblivion】Bowson Unmatched...THE HERO OF KVATCH
+UID:bk96NLG5u4Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DIABLO IV】Open Beta Baby! Inventory is BEEG i hear?! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=smUZLefJEpo
+DURATION:PT2H
+DTSTART:20230326T150000Z
+SUMMARY:Kiara: 【DIABLO IV】Open Beta Baby! Inventory is BEEG i hear?! #kfp #キアライブ
+UID:smUZLefJEpo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】helloo! 🐟 🌸\nhttps://www.youtube.com/watch?v=0wArI3n7Qu4
+DURATION:PT2H
+DTSTART:20230326T000000Z
+SUMMARY:Gura: 【MINECRAFT】helloo! 🐟 🌸
+UID:0wArI3n7Qu4
 END:VEVENT
 END:VCALENDAR
