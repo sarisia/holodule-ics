@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】 Who up building they tree rn\nhttps://www.youtube.com/watch?v=SqVlUeeZg7o
-DURATION:PT2H
-DTSTART:20230327T220000Z
-SUMMARY:Fauna: 【MINECRAFT】 Who up building they tree rn
-UID:SqVlUeeZg7o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RESIDENT EVIL 4 REMAKE】oppai no pero pero sauce (SPOILER WARNING)\nhttps://www.youtube.com/watch?v=mTcHBKnzPQw
-DURATION:PT2H
-DTSTART:20230328T030047Z
-SUMMARY:Calli: 【RESIDENT EVIL 4 REMAKE】oppai no pero pero sauce (SPOILER WARNING)
-UID:mTcHBKnzPQw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪Just Chatting≫ 20 questions with Bae\nhttps://www.youtube.com/watch?v=m7Z_HStALGs
 DURATION:PT2H
 DTSTART:20230327T010000Z
@@ -37,5 +23,12 @@ DURATION:PT2H
 DTSTART:20230328T120000Z
 SUMMARY:Kiara: 【SUPERCHAT】Reading and hopefully only a little tangenting #kfp #キアライブ
 UID:YeV2NMHoCLQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】 Who up building they tree rn\nhttps://www.youtube.com/watch?v=SqVlUeeZg7o
+DURATION:PT2H
+DTSTART:20230327T220000Z
+SUMMARY:Fauna: 【MINECRAFT】 Who up building they tree rn
+UID:SqVlUeeZg7o
 END:VEVENT
 END:VCALENDAR
