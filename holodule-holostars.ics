@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【雑談】1周年記念歌枠🕯前夜祭じゃ！【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=QWWp5N3jLH0
+DURATION:PT2H
+DTSTART:20230329T150000Z
+SUMMARY:水無世燐央: 【雑談】1周年記念歌枠🕯前夜祭じゃ！【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】
+UID:QWWp5N3jLH0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ハイパーパリピラプソディ / 緋崎ガンマ 【オリジナルMV】 (short ver.)\nhttps://www.youtube.com/watch?v=X4uL2YpVpBg
 DURATION:PT2H
 DTSTART:20230329T080000Z
@@ -25,18 +32,11 @@ SUMMARY:ホロスターズ: 【直前告知】3/31(金) 20時～ UPROAR!! 1st An
 UID:eTTl7afFKKw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Q REMASTERED】コップからボール出すやつ【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=wc-3UNUi8ls
+DESCRIPTION:【#水無世燐央1周年 歌枠】1周年なのでゲストをたくさんお呼びして歌う！！【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=4X6wNg8VNH8
 DURATION:PT2H
-DTSTART:20230329T133000Z
-SUMMARY:荒咬オウガ: 【Q REMASTERED】コップからボール出すやつ【荒咬オウガ/ホロスターズ】
-UID:wc-3UNUi8ls
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マシュマロ雑談】お悩み相談が来ればガチで回答する深夜の雑談【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=hokn0Ve5utA
-DURATION:PT2H
-DTSTART:20230329T140000Z
-SUMMARY:🍕アルランディス: 【マシュマロ雑談】お悩み相談が来ればガチで回答する深夜の雑談【アルランディス/ホロスターズ】
-UID:hokn0Ve5utA
+DTSTART:20230330T080000Z
+SUMMARY:水無世燐央: 【#水無世燐央1周年 歌枠】1周年なのでゲストをたくさんお呼びして歌う！！【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】
+UID:4X6wNg8VNH8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Come Over / 水無世燐央 【オリジナルMV】 (short ver.)\nhttps://www.youtube.com/watch?v=HDtBHQAM37o
@@ -44,13 +44,6 @@ DURATION:PT2H
 DTSTART:20230330T070000Z
 SUMMARY:ホロスターズ: Come Over / 水無世燐央 【オリジナルMV】 (short ver.)
 UID:HDtBHQAM37o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#水無世燐央1周年 歌枠】1周年なのでゲストをたくさんお呼びして歌う！！【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=4X6wNg8VNH8
-DURATION:PT2H
-DTSTART:20230330T080000Z
-SUMMARY:水無世燐央: 【#水無世燐央1周年 歌枠】1周年なのでゲストをたくさんお呼びして歌う！！【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】
-UID:4X6wNg8VNH8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【飲酒雑談】#居酒屋ARN でかく語りき　Guest：ベルモンド・バンデラス 様 【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=vk8wgAoP5XA
@@ -93,6 +86,13 @@ DURATION:PT2H
 DTSTART:20230329T000000Z
 SUMMARY:夜十神封魔: 【朝活 | Zatu】トゥルー1周年｜REAL 1st Anniversary【夜十神封魔/UPROAR!!】
 UID:LLe8z_G6Oro
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #DJARN 】新曲と新機能を手に入れたので使ってみたいDJ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=7CpFZq1TO08
+DURATION:PT2H
+DTSTART:20230330T040000Z
+SUMMARY:🍕アルランディス: 【 #DJARN 】新曲と新機能を手に入れたので使ってみたいDJ【アルランディス/ホロスターズ】
+UID:7CpFZq1TO08
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【3D Live】UPROAR!! 1st Anniversary Super Live!!「BLAST OUT!!」【重大告知あり】#アップロー1周年\nhttps://www.youtube.com/watch?v=Mn3UcCIbjHI
