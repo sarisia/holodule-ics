@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【DONATION READING+FREETALK】WE'RE GOING TO READ EVERY SINGLE ONE!! pt.3【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=SQhVYsBlvxE
-DURATION:PT2H
-DTSTART:20230329T060019Z
-SUMMARY:Ollie: 【DONATION READING+FREETALK】WE'RE GOING TO READ EVERY SINGLE ONE!! pt.3【Hololive ID 2nd Gen】
-UID:SQhVYsBlvxE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 PUBG Battlegrounds 】Pew! Got Your Heart!【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=JqeTEPrt5bk
 DURATION:PT2H
 DTSTART:20230329T140000Z
 SUMMARY:🎨Iofi: 【 PUBG Battlegrounds 】Pew! Got Your Heart!【 iofi / ホロライブ 】
 UID:JqeTEPrt5bk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ketika Yopi Nyupir di PUBG #shorts #iofi #hololiveid\nhttps://www.youtube.com/watch?v=YUWBIR1uIGY
-DURATION:PT2H
-DTSTART:20230329T162918Z
-SUMMARY:🎨Iofi: Ketika Yopi Nyupir di PUBG #shorts #iofi #hololiveid
-UID:YUWBIR1uIGY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Ranch Simulator】Menanam Benih Cinta Bersama Bestie【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=TPFzfFlfhMA
@@ -37,13 +23,6 @@ DURATION:PT2H
 DTSTART:20230329T130000Z
 SUMMARY:Anya: 【Melatonin】Sleep to the Beats【hololive ID 2nd Generation | Anya Melfissa】
 UID:lGYR_qZl3iA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【THE SIMS 4】MAKING A NEW HOUSE... BIG PEAFOWL IS WATCHING【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=5aG0e_FSZdg
-DURATION:PT2H
-DTSTART:20230329T150000Z
-SUMMARY:Reine: 【THE SIMS 4】MAKING A NEW HOUSE... BIG PEAFOWL IS WATCHING【Pavolia Reine/hololiveID 2nd gen】
-UID:5aG0e_FSZdg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Ranch Simulator】Have fun with the girls!!!【holoID】\nhttps://www.youtube.com/watch?v=tYXQC44KyHM
@@ -65,20 +44,6 @@ DURATION:PT2H
 DTSTART:20230329T130000Z
 SUMMARY:Kaela: 【Minecraft】finishing the guardian farm road~ ⛏️🛣️【Kaela Kovalskia / hololiveID】
 UID:sGnTbcxkSUQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【A SPACE FOR THE UNBOUND】#4 RAYA OH RAYA KEMANA KAMU【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=FJ8GX22jXzw
-DURATION:PT2H
-DTSTART:20230330T120000Z
-SUMMARY:Ollie: 【A SPACE FOR THE UNBOUND】#4 RAYA OH RAYA KEMANA KAMU【Hololive Indonesia 2nd Gen】
-UID:FJ8GX22jXzw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Grind for home\, still lots of things to do. but here we go【holoID】\nhttps://www.youtube.com/watch?v=3syw061ZbKI
-DURATION:PT2H
-DTSTART:20230329T040000Z
-SUMMARY:🔮Moona: 【Minecraft】Grind for home\, still lots of things to do. but here we go【holoID】
-UID:3syw061ZbKI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 BanG DREAM】ただいまバンドリ！！！【 iofi / ホロライブ 】\nhttps://www.youtube.com/watch?v=usZQJC7kZlQ
@@ -107,5 +72,47 @@ DURATION:PT2H
 DTSTART:20230330T150000Z
 SUMMARY:Reine: 【HITMAN 3】IT'S BALDING TIME *balds all over those guys*【Pavolia Reine/hololiveID 2nd gen】
 UID:I6nIDlPYNV8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DONATION READING+FREETALK】WE'RE GOING TO READ EVERY SINGLE ONE!! pt.3【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=SQhVYsBlvxE
+DURATION:PT2H
+DTSTART:20230329T060019Z
+SUMMARY:Ollie: 【DONATION READING+FREETALK】WE'RE GOING TO READ EVERY SINGLE ONE!! pt.3【Hololive ID 2nd Gen】
+UID:SQhVYsBlvxE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ketika Yopi Nyupir di PUBG #shorts #iofi #hololiveid\nhttps://www.youtube.com/watch?v=YUWBIR1uIGY
+DURATION:PT2H
+DTSTART:20230329T162918Z
+SUMMARY:🎨Iofi: Ketika Yopi Nyupir di PUBG #shorts #iofi #hololiveid
+UID:YUWBIR1uIGY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【THE SIMS 4】MAKING A NEW HOUSE... BIG PEAFOWL IS WATCHING【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=5aG0e_FSZdg
+DURATION:PT2H
+DTSTART:20230329T150000Z
+SUMMARY:Reine: 【THE SIMS 4】MAKING A NEW HOUSE... BIG PEAFOWL IS WATCHING【Pavolia Reine/hololiveID 2nd gen】
+UID:5aG0e_FSZdg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【A SPACE FOR THE UNBOUND】#4 RAYA OH RAYA KEMANA KAMU【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=FJ8GX22jXzw
+DURATION:PT2H
+DTSTART:20230330T120000Z
+SUMMARY:Ollie: 【A SPACE FOR THE UNBOUND】#4 RAYA OH RAYA KEMANA KAMU【Hololive Indonesia 2nd Gen】
+UID:FJ8GX22jXzw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Grind for home\, still lots of things to do. but here we go【holoID】\nhttps://www.youtube.com/watch?v=3syw061ZbKI
+DURATION:PT2H
+DTSTART:20230329T040000Z
+SUMMARY:🔮Moona: 【Minecraft】Grind for home\, still lots of things to do. but here we go【holoID】
+UID:3syw061ZbKI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Ranch Simulator】im the woodwoman🪓🌾 let them do the rest【hololiveID】\nhttps://www.youtube.com/watch?v=Fl5SW6OY7PI
+DURATION:PT2H
+DTSTART:20230330T140000Z
+SUMMARY:Kaela: 【Ranch Simulator】im the woodwoman🪓🌾 let them do the rest【hololiveID】
+UID:Fl5SW6OY7PI
 END:VEVENT
 END:VCALENDAR
