@@ -55,7 +55,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 宝くじ開封／Member Only 】バレンタインジャンボ宝くじで３億円当選のビジョンが見えるのらっ！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=R7cLGO-ZkhM
 DURATION:PT2H
-DTSTART:20230330T120000Z
+DTSTART:20230330T110000Z
 SUMMARY:🍬姫森ルーナ: 【 宝くじ開封／Member Only 】バレンタインジャンボ宝くじで３億円当選のビジョンが見えるのらっ！【姫森ルーナ/ホロライブ】
 UID:R7cLGO-ZkhM
 END:VEVENT
@@ -65,6 +65,13 @@ DURATION:PT2H
 DTSTART:20230330T100000Z
 SUMMARY:尾丸ポルカ: 【ポルカの伝説】これを見た人はキャンプへ行きましょう
 UID:uW_nzrhgc8w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ホロライブ / #不知火建設 】\nhttps://www.youtube.com/watch?v=t-JVOPjZRQA
+DURATION:PT2H
+DTSTART:20230330T120000Z
+SUMMARY:☄星街すいせい: 【ホロライブ / #不知火建設 】
+UID:t-JVOPjZRQA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】自動倉庫に挑戦DAAAAA！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=4biykklRn38
@@ -102,11 +109,25 @@ SUMMARY:🌽白上フブキ: 【ASMR】激ウマ‼鳴門鯛焼本舗のたい�
 UID:gSpwiUayW2Y
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【】 Q REMASTERED【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=pyn_4RYyiR0
+DURATION:PT2H
+DTSTART:20230330T110000Z
+SUMMARY:🚑大空スバル: 【】 Q REMASTERED【ホロライブ/大空スバル】
+UID:pyn_4RYyiR0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ホスト凸待ち】新人こよ斗くん、NGワードゲームで接客の修行⁉～罰ゲーム遂に決行です～【博衣こより/ホロライブ】#こよりホスト\nhttps://www.youtube.com/watch?v=dcPyz6hcExY
 DURATION:PT2H
 DTSTART:20230329T100000Z
 SUMMARY:博衣こより: 【ホスト凸待ち】新人こよ斗くん、NGワードゲームで接客の修行⁉～罰ゲーム遂に決行です～【博衣こより/ホロライブ】#こよりホスト
 UID:dcPyz6hcExY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌って踊ってみた】アニマル【ホロライブ/夜空メル】#Shorts\nhttps://www.youtube.com/watch?v=yJDqGQ3yixw
+DURATION:PT2H
+DTSTART:20230330T100049Z
+SUMMARY:🌟夜空メル: 【歌って踊ってみた】アニマル【ホロライブ/夜空メル】#Shorts
+UID:yJDqGQ3yixw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ストリートファイターⅤ】お久しぶりなストVでランクマッチに挑戦！！【ロートジー！】\nhttps://www.youtube.com/watch?v=tOVF5FjTB-s
@@ -207,13 +228,6 @@ SUMMARY:🥐戌神ころね: 【Minecraft】まった～～～～りマイクラ
 UID:d7RRig5XsCM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【】【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=v5Sy82za4UY
-DURATION:PT2H
-DTSTART:20230330T140000Z
-SUMMARY:🍬姫森ルーナ: 【】【姫森ルーナ/ホロライブ】
-UID:v5Sy82za4UY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】地　下　帝　国　拡　大【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=Sdx8kCr9DvQ
 DURATION:PT2H
 DTSTART:20230330T140000Z
@@ -282,5 +296,12 @@ DURATION:PT2H
 DTSTART:20230330T090000Z
 SUMMARY:ホロライブ: 【新ボイス発表】4月から社会人の君へ
 UID:qLUM2AG_PJU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マイクラ】ホロ鯖のどこに拠点を築くべきか？【 ホロライブ / 大神ミオ 】\nhttps://www.youtube.com/watch?v=JVd8W5dmK8Q
+DURATION:PT2H
+DTSTART:20230330T110000Z
+SUMMARY:🌲大神ミオ: 【マイクラ】ホロ鯖のどこに拠点を築くべきか？【 ホロライブ / 大神ミオ 】
+UID:JVd8W5dmK8Q
 END:VEVENT
 END:VCALENDAR
