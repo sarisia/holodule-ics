@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】なにしよっか！【  水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=SMwNsn0B4wk
-DURATION:PT2H
-DTSTART:20230404T133000Z
-SUMMARY:水無世燐央: 【Minecraft】なにしよっか！【  水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】
-UID:SMwNsn0B4wk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】最協のシアを目指してV最協チーム練習🤟【#緋崎ガンマ / #ホロスターズ / #vtuber / 紫宮るなさん / 神成きゅぴさん / りんしゃんつかいさん】\nhttps://www.youtube.com/watch?v=9xv5bwHQy3A
 DURATION:PT2H
 DTSTART:20230404T133000Z
@@ -30,6 +23,13 @@ DURATION:PT2H
 DTSTART:20230404T070000Z
 SUMMARY:🦔💨岸堂天真: 【マリカ】レート19544~ 4月の目標は20000!!【岸堂天真/ホロスターズ】
 UID:d56UCJrPj-w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #DJARN 】平日昼間の作業はかどり担当DJ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=VylRzZasjh8
+DURATION:PT2H
+DTSTART:20230405T040000Z
+SUMMARY:🍕アルランディス: 【 #DJARN 】平日昼間の作業はかどり担当DJ【アルランディス/ホロスターズ】
+UID:VylRzZasjh8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【飲酒雑談】#居酒屋ARN でかく語りき　Guest：常闇トワ 様 【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=K3wisAfXNLA
@@ -72,5 +72,12 @@ DURATION:PT2H
 DTSTART:20230404T150000Z
 SUMMARY:🌺花咲みやび: 【メン限】グッズの話をしながらサイン会【花咲みやび/ホロスターズ】
 UID:FdBaaTDqPsA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メン限】タイピングASMRもどき【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=V5IgdBECnj0
+DURATION:PT2H
+DTSTART:20230404T170000Z
+SUMMARY:水無世燐央: 【メン限】タイピングASMRもどき【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】
+UID:V5IgdBECnj0
 END:VEVENT
 END:VCALENDAR
