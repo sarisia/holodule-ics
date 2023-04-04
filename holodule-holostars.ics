@@ -60,13 +60,6 @@ SUMMARY:⚙律可: 【Apex Legends】おれたちのランドマークは中継�
 UID:VMr88O0TNGk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【バイオハザード】初見で挑む『バイオハザード HDリマスター』【夕刻ロベル/ホロスターズ】#2\nhttps://www.youtube.com/watch?v=2a-W74Ojl1Q
-DURATION:PT2H
-DTSTART:20230404T093000Z
-SUMMARY:🍷夕刻ロベル: 【バイオハザード】初見で挑む『バイオハザード HDリマスター』【夕刻ロベル/ホロスターズ】#2
-UID:2a-W74Ojl1Q
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【mocopiで歌枠】うれしいお知らせもあるよ！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=19E5lp5dch0
 DURATION:PT2H
 DTSTART:20230403T120000Z
@@ -86,6 +79,13 @@ DURATION:PT2H
 DTSTART:20230403T140000Z
 SUMMARY:🍕アルランディス: 【Minecraft】ダイヤザクザク雑談マイクラ【アルランディス/ホロスターズ】
 UID:QhX7YGFcoB4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【バイオハザード】初見で挑む『バイオハザード HDリマスター』【夕刻ロベル/ホロスターズ】#2\nhttps://www.youtube.com/watch?v=2a-W74Ojl1Q
+DURATION:PT2H
+DTSTART:20230404T093000Z
+SUMMARY:🍷夕刻ロベル: 【バイオハザード】初見で挑む『バイオハザード HDリマスター』【夕刻ロベル/ホロスターズ】#2
+UID:2a-W74Ojl1Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【バイオハザード RE:4】早くアシュリーを抱きしめたい。※ネタバレ有り  / アステル\nhttps://www.youtube.com/watch?v=a-lSRVvmm-c
@@ -116,11 +116,11 @@ SUMMARY:水無世燐央: 【#shorts 】 僕たち4人組アイドルユニット
 UID:RyJFMSJPeOM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX Legends】カスタム / アステル\nhttps://www.youtube.com/watch?v=65c-AYVs7po
+DESCRIPTION:【マリカ】レート19544~ 4月の目標は20000!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=d56UCJrPj-w
 DURATION:PT2H
-DTSTART:20230403T131500Z
-SUMMARY:🎭アステル・レダ: 【APEX Legends】カスタム / アステル
-UID:65c-AYVs7po
+DTSTART:20230404T070000Z
+SUMMARY:🦔💨岸堂天真: 【マリカ】レート19544~ 4月の目標は20000!!【岸堂天真/ホロスターズ】
+UID:d56UCJrPj-w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【告知配信】ワーイ！ヤッター！な告知配信【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=NB7SdEUcI40
@@ -128,5 +128,12 @@ DURATION:PT2H
 DTSTART:20230404T080000Z
 SUMMARY:🍷夕刻ロベル: 【告知配信】ワーイ！ヤッター！な告知配信【夕刻ロベル/ホロスターズ】
 UID:NB7SdEUcI40
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX Legends】カスタム / アステル\nhttps://www.youtube.com/watch?v=65c-AYVs7po
+DURATION:PT2H
+DTSTART:20230403T131500Z
+SUMMARY:🎭アステル・レダ: 【APEX Legends】カスタム / アステル
+UID:65c-AYVs7po
 END:VEVENT
 END:VCALENDAR
