@@ -4,46 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:It's Moomin' Time\nhttps://www.youtube.com/watch?v=v0QBRuXPHr4
-DURATION:PT2H
-DTSTART:20230404T023500Z
-SUMMARY:Mumei: It's Moomin' Time
-UID:v0QBRuXPHr4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【WEISS SCHWARZ】Grand Card Packs opening ft. JENMA! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=VUXZdHQu8Yc
 DURATION:PT2H
 DTSTART:20230405T130000Z
 SUMMARY:Kiara: 【WEISS SCHWARZ】Grand Card Packs opening ft. JENMA! #kfp #キアライブ
 UID:VUXZdHQu8Yc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BIRTHDAY 3D】Karaoke Birthday Bash! #happymoriday\nhttps://www.youtube.com/watch?v=7y8yAKaBzZw
-DURATION:PT2H
-DTSTART:20230404T110000Z
-SUMMARY:Calli: 【BIRTHDAY 3D】Karaoke Birthday Bash! #happymoriday
-UID:7y8yAKaBzZw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪MINECRAFT≫ its 2023.\nhttps://www.youtube.com/watch?v=bTPP4IjyuAA
-DURATION:PT2H
-DTSTART:20230404T010000Z
-SUMMARY:Baelz: ≪MINECRAFT≫ its 2023.
-UID:bTPP4IjyuAA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Q REMASTERED】good brain\, good squish\nhttps://www.youtube.com/watch?v=uBGgYVJ1ZOk
-DURATION:PT2H
-DTSTART:20230405T023000Z
-SUMMARY:Mumei: 【Q REMASTERED】good brain\, good squish
-UID:uBGgYVJ1ZOk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:KORNKOB PIZZA BY KFP #shorts\nhttps://www.youtube.com/watch?v=kAzNJmRd5Dk
-DURATION:PT2H
-DTSTART:20230403T202913Z
-SUMMARY:Kiara: KORNKOB PIZZA BY KFP #shorts
-UID:kAzNJmRd5Dk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】I Want To Build Something Cool\nhttps://www.youtube.com/watch?v=4xUDLHjBv8U
@@ -60,25 +25,11 @@ SUMMARY:Kiara: 【SUPERCHAT】Spiraling into deeper into the Superchats #kfp #�
 UID:H6qNYSi9XGQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】 Behold\, the tree of life\nhttps://www.youtube.com/watch?v=ioXaunjUPQI
-DURATION:PT2H
-DTSTART:20230403T220000Z
-SUMMARY:Fauna: 【MINECRAFT】 Behold\, the tree of life
-UID:ioXaunjUPQI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:〘Yoshi's Island〙#2\nhttps://www.youtube.com/watch?v=altrJOWnA0A
 DURATION:PT2H
 DTSTART:20230405T203000Z
 SUMMARY:Amelia: 〘Yoshi's Island〙#2
 UID:altrJOWnA0A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Just Chatting】I Say Things\nhttps://www.youtube.com/watch?v=lA7uGUjsIps
-DURATION:PT2H
-DTSTART:20230404T013000Z
-SUMMARY:Kronii: 【Just Chatting】I Say Things
-UID:lA7uGUjsIps
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[Big Announcement] hololive English’s First-Ever “holo Trials”! With News About #holoENConnect ...?!\nhttps://www.youtube.com/watch?v=83gjn1_GYRc
@@ -88,6 +39,13 @@ SUMMARY:ENholo: [Big Announcement] hololive English’s First-Ever “holo Trial
 UID:83gjn1_GYRc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:≪Persona 5 ROYAL≫ next palace here we go #13【SPOILERS】\nhttps://www.youtube.com/watch?v=giG-wOkqsek
+DURATION:PT2H
+DTSTART:20230405T010000Z
+SUMMARY:Baelz: ≪Persona 5 ROYAL≫ next palace here we go #13【SPOILERS】
+UID:giG-wOkqsek
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【RESIDENT EVIL 4 REMAKE】ending this whole gosh darn thing (SPOILER WARNING)\nhttps://www.youtube.com/watch?v=eHS53K2fej0
 DURATION:PT2H
 DTSTART:20230405T230000Z
@@ -95,10 +53,10 @@ SUMMARY:Calli: 【RESIDENT EVIL 4 REMAKE】ending this whole gosh darn thing (SP
 UID:eHS53K2fej0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪Persona 5 ROYAL≫ next palace here we go #13【SPOILERS】\nhttps://www.youtube.com/watch?v=giG-wOkqsek
+DESCRIPTION:【Q REMASTERED】good brain\, good squish\nhttps://www.youtube.com/watch?v=uBGgYVJ1ZOk
 DURATION:PT2H
-DTSTART:20230405T010000Z
-SUMMARY:Baelz: ≪Persona 5 ROYAL≫ next palace here we go #13【SPOILERS】
-UID:giG-wOkqsek
+DTSTART:20230405T023000Z
+SUMMARY:Mumei: 【Q REMASTERED】good brain\, good squish
+UID:uBGgYVJ1ZOk
 END:VEVENT
 END:VCALENDAR
