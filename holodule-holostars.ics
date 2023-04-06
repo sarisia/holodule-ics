@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【バイオハザード HDリマスター】初見で挑むバイオハザード ＃3【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=yO8AT8YBQvg
+DURATION:PT2H
+DTSTART:20230406T080000Z
+SUMMARY:荒咬オウガ: 【バイオハザード HDリマスター】初見で挑むバイオハザード ＃3【荒咬オウガ/ホロスターズ】
+UID:yO8AT8YBQvg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:ホロライブプロダクションの歴史はモアイを動かす #shorts #qremastered  #ホロライブ #ホロスターズ #アルランディス  #vtuber\nhttps://www.youtube.com/watch?v=SqQsBomfMro
 DURATION:PT2H
 DTSTART:20230406T030019Z
@@ -37,13 +44,6 @@ DURATION:PT2H
 DTSTART:20230406T043700Z
 SUMMARY:緋崎ガンマ: 【醜態】Vtuberのウインクあるある #shorts #vtuber #ホロスターズ
 UID:lcWDcld5a4c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】V最協チームで渋ハルカスタム参加します！！🤟【#緋崎ガンマ / #ホロスターズ / #vtuber / 紫宮るなさん / 神成きゅぴさん / りんしゃんつかいさん】\nhttps://www.youtube.com/watch?v=LmuIrC49YQw
-DURATION:PT2H
-DTSTART:20230406T123000Z
-SUMMARY:緋崎ガンマ: 【APEX】V最協チームで渋ハルカスタム参加します！！🤟【#緋崎ガンマ / #ホロスターズ / #vtuber / 紫宮るなさん / 神成きゅぴさん / りんしゃんつかいさん】
-UID:LmuIrC49YQw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ストリートファイターV 】とりあえずいったんLUKE練習したいという気持ち【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=dTQQ6vtdQNE
@@ -81,25 +81,11 @@ SUMMARY:🍕アルランディス: 【パスパルトゥー２：あるアーテ
 UID:oUm7jRosZgM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:sleep mode / 律可【オリジナルMV】#rebirthful\nhttps://www.youtube.com/watch?v=B10PwzpNVYM
-DURATION:PT2H
-DTSTART:20230408T120000Z
-SUMMARY:⚙律可: sleep mode / 律可【オリジナルMV】#rebirthful
-UID:B10PwzpNVYM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#星街すいせい来店】本日のお客様は星街すいせいさんです！【夕刻ロベル/星街すいせい】\nhttps://www.youtube.com/watch?v=143FMTIUHOU
 DURATION:PT2H
 DTSTART:20230407T110000Z
 SUMMARY:🍷夕刻ロベル: 【#星街すいせい来店】本日のお客様は星街すいせいさんです！【夕刻ロベル/星街すいせい】
 UID:143FMTIUHOU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【飯枠】リスナーの飯ツイ見て腹空かす配信【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=dRLVL0jIe6w
-DURATION:PT2H
-DTSTART:20230406T133000Z
-SUMMARY:🌺花咲みやび: 【飯枠】リスナーの飯ツイ見て腹空かす配信【花咲みやび/ホロスターズ】
-UID:dRLVL0jIe6w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX Legends】渋谷ハルきゅんカスタム / アステル セナ太郎 アルス様\nhttps://www.youtube.com/watch?v=-Jz1eqnLgLE
@@ -137,11 +123,11 @@ SUMMARY:水無世燐央: 【くまのレストラン】記憶を元に、最後�
 UID:kZP6kRfindA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【バイオハザード HDリマスター】初見で挑むバイオハザード ＃3【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=yO8AT8YBQvg
+DESCRIPTION:sleep mode / 律可【オリジナルMV】#rebirthful\nhttps://www.youtube.com/watch?v=B10PwzpNVYM
 DURATION:PT2H
-DTSTART:20230406T080000Z
-SUMMARY:荒咬オウガ: 【バイオハザード HDリマスター】初見で挑むバイオハザード ＃3【荒咬オウガ/ホロスターズ】
-UID:yO8AT8YBQvg
+DTSTART:20230408T120000Z
+SUMMARY:⚙律可: sleep mode / 律可【オリジナルMV】#rebirthful
+UID:B10PwzpNVYM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】1周年記念ライブ「BLAST OUT!!」同時視聴＆裏話雑談【#緋崎ガンマ / #ホロスターズ  / #vtuber / #アップロー1周年 #放課後アップロー】\nhttps://www.youtube.com/watch?v=hRh_AzdRONk
