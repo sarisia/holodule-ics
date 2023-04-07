@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ぷよぷよテトリス2】今日も元気に練習会【#ときのそら生放送 】\nhttps://www.youtube.com/watch?v=kqfDFrCBmms
+DURATION:PT2H
+DTSTART:20230407T130000Z
+SUMMARY:🐻ときのそら: 【ぷよぷよテトリス2】今日も元気に練習会【#ときのそら生放送 】
+UID:kqfDFrCBmms
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【検証】突発アポなし凸待ち！ホロメンってこの時間に起きてるの？【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=cJI3c1kEs6k
 DURATION:PT2H
 DTSTART:20230405T220000Z
@@ -32,10 +39,10 @@ SUMMARY:🍙猫又おかゆ: 【Minecraft】ルイちゃん先生と一緒に！
 UID:BCrFYOQHQSU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 はいしんよてち 】にぇ～ん【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=wPtJoz3kNz8
+DESCRIPTION:【 歌枠 】激レアかもしれない歌枠 SINGING STREAM【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=wPtJoz3kNz8
 DURATION:PT2H
 DTSTART:20230407T120000Z
-SUMMARY:🌸さくらみこ: 【 はいしんよてち 】にぇ～ん【ホロライブ/さくらみこ】
+SUMMARY:🌸さくらみこ: 【 歌枠 】激レアかもしれない歌枠 SINGING STREAM【ホロライブ/さくらみこ】
 UID:wPtJoz3kNz8
 END:VEVENT
 BEGIN:VEVENT
@@ -102,6 +109,13 @@ SUMMARY:🌲大神ミオ: 【マイクラ】あやめと一緒におうちを建
 UID:tt68Dohr0fk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:配信予定～～～～～！！！わぁ～～！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=97fkzW87PfY
+DURATION:PT2H
+DTSTART:20230407T140000Z
+SUMMARY:🌙紫咲シオン: 配信予定～～～～～！！！わぁ～～！！【ホロライブ/紫咲シオン】
+UID:97fkzW87PfY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 APEX 】渋ハルカスタムに参戦！！/ wえる、藍沢エマ【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=VB57F-uaq6o
 DURATION:PT2H
 DTSTART:20230406T123000Z
@@ -149,6 +163,13 @@ DURATION:PT2H
 DTSTART:20230406T100000Z
 SUMMARY:尾丸ポルカ: 【ポルカの伝説】検証！名字徹底解剖シリーズ
 UID:ehwXz8syM0w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#クリア後【 ELDEN RING 】腐敗の女神、マレニア戦なのら！👑【姫森ルーナ/ホロライブ】ネタバレあり\nhttps://www.youtube.com/watch?v=j4Alve7YRkg
+DURATION:PT2H
+DTSTART:20230407T090000Z
+SUMMARY:🍬姫森ルーナ: #クリア後【 ELDEN RING 】腐敗の女神、マレニア戦なのら！👑【姫森ルーナ/ホロライブ】ネタバレあり
+UID:j4Alve7YRkg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 APEX 】頑張れ！頑張る！カスタム！/ wえる、藍沢エマ【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=wJHAeGX16xA
