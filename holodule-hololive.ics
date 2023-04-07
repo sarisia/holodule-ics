@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ぷよぷよテトリス2】今日も元気に練習会【#ときのそら生放送 】\nhttps://www.youtube.com/watch?v=kqfDFrCBmms
+DURATION:PT2H
+DTSTART:20230407T130000Z
+SUMMARY:🐻ときのそら: 【ぷよぷよテトリス2】今日も元気に練習会【#ときのそら生放送 】
+UID:kqfDFrCBmms
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ぷよテト２】大会に向けて！一緒にれんしゅ～～～！🍙🥐【#おかころ/ホロライブ】\nhttps://www.youtube.com/watch?v=YewodrZGHOI
 DURATION:PT2H
 DTSTART:20230406T150000Z
@@ -156,6 +163,13 @@ DURATION:PT2H
 DTSTART:20230407T095714Z
 SUMMARY:🏴☠宝鐘マリン: No skirt Marine NEW【hololive/宝鐘マリン】#shorts
 UID:-qMqpPFtBbY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Q REMASTERED】パワー is 正義【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=aM3_mBKmcoI
+DURATION:PT2H
+DTSTART:20230407T100000Z
+SUMMARY:⚔白銀ノエル: 【Q REMASTERED】パワー is 正義【白銀ノエル/ホロライブ】
+UID:aM3_mBKmcoI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ぷよぷよテトリス2】朝練！水色の棒が好きです【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=hI4yIGvsU_E
