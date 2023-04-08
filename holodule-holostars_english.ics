@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Membership】 sleepy guitar practice~ 🎸\nhttps://www.youtube.com/watch?v=oPXI6gReKc8
-DURATION:PT2H
-DTSTART:20230408T144500Z
-SUMMARY:Altare: 【Membership】 sleepy guitar practice~ 🎸
-UID:oPXI6gReKc8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#RE4】 Introducing a new Parry mechanic that brings more gameplay to the knife!\nhttps://www.youtube.com/watch?v=BXqden-H7Tw
 DURATION:PT2H
 DTSTART:20230407T150000Z
@@ -72,5 +65,12 @@ DURATION:PT2H
 DTSTART:20230408T013000Z
 SUMMARY:Flayon: 【100K CELEBRATION】MachiMaid & ...THAT VERY NICE BOARD!!
 UID:EyqMomaDWzc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】CAT CAFE BUILDING TIME BABY!【EN】\nhttps://www.youtube.com/watch?v=LgdFZOkyKV0
+DURATION:PT2H
+DTSTART:20230409T000000Z
+SUMMARY:Hakka: 【Minecraft】CAT CAFE BUILDING TIME BABY!【EN】
+UID:LgdFZOkyKV0
 END:VEVENT
 END:VCALENDAR
