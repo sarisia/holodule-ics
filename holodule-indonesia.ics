@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】YASSIFYING... STUFFS\, IDK owo【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=HqkV9kcwwoo
-DURATION:PT2H
-DTSTART:20230409T055917Z
-SUMMARY:Ollie: 【MINECRAFT】YASSIFYING... STUFFS\, IDK owo【Hololive Indonesia 2nd Gen】
-UID:HqkV9kcwwoo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:FUNGI TIER LIST 🍄\nhttps://www.youtube.com/watch?v=rvNJptWoNlI
 DURATION:PT2H
 DTSTART:20230408T160000Z
 SUMMARY:Zeta: FUNGI TIER LIST 🍄
 UID:rvNJptWoNlI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PEJUANG SENIN】#42 it's Monday again!!☀️【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=yWfeEE_09BE
+DURATION:PT2H
+DTSTART:20230409T231500Z
+SUMMARY:Kaela: 【PEJUANG SENIN】#42 it's Monday again!!☀️【Kaela's Monday Warrior】
+UID:yWfeEE_09BE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Just grinding.【holoID】\nhttps://www.youtube.com/watch?v=OsMn2wvWzT8
@@ -51,5 +51,19 @@ DURATION:PT2H
 DTSTART:20230409T060000Z
 SUMMARY:Anya: 【Troublemaker】We Meet Again.【hololive ID 2nd Generation | Anya Melfissa】
 UID:Fl_fWCvpeR4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】storage room for the Guild 📦🔨【Kaela & Sora / hololive】\nhttps://www.youtube.com/watch?v=CrG-opn-7Nw
+DURATION:PT2H
+DTSTART:20230410T120000Z
+SUMMARY:Kaela: 【Minecraft】storage room for the Guild 📦🔨【Kaela & Sora / hololive】
+UID:CrG-opn-7Nw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】YASSIFYING... STUFFS\, IDK owo【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=HqkV9kcwwoo
+DURATION:PT2H
+DTSTART:20230409T055917Z
+SUMMARY:Ollie: 【MINECRAFT】YASSIFYING... STUFFS\, IDK owo【Hololive Indonesia 2nd Gen】
+UID:HqkV9kcwwoo
 END:VEVENT
 END:VCALENDAR
