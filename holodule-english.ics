@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:≪Getting Over It≫ im getting over it today. ft. Open VC\nhttps://www.youtube.com/watch?v=AXo5cJmj7LE
-DURATION:PT2H
-DTSTART:20230414T010000Z
-SUMMARY:Baelz: ≪Getting Over It≫ im getting over it today. ft. Open VC
-UID:AXo5cJmj7LE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ZATSU】Q&A & Announcement??? #kfp #キアライブ\nhttps://www.youtube.com/watch?v=9p3UE6uuNqU
 DURATION:PT2H
 DTSTART:20230414T170000Z
@@ -25,11 +18,11 @@ SUMMARY:Baelz: 《BAE-GEMITE DOMINATION》Episode 3 w/ Shiranui Flare\, Tsunomak
 UID:K5xll5876j8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【PUYOPUYO TETRIS 2】 How Fast Can My Brain Go !!\nhttps://www.youtube.com/watch?v=AgqLOFHSt9E
+DESCRIPTION:【FAITH: The Unholy Trinity】 UNLOCKING THE TRUE END\nhttps://www.youtube.com/watch?v=rpM8_3h275Y
 DURATION:PT2H
-DTSTART:20230414T000000Z
-SUMMARY:Mumei: 【PUYOPUYO TETRIS 2】 How Fast Can My Brain Go !!
-UID:AgqLOFHSt9E
+DTSTART:20230414T220000Z
+SUMMARY:Fauna: 【FAITH: The Unholy Trinity】 UNLOCKING THE TRUE END
+UID:rpM8_3h275Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【2.0】Something's Different About Her...\nhttps://www.youtube.com/watch?v=O7l2dHsYHIA
@@ -51,5 +44,19 @@ DURATION:PT2H
 DTSTART:20230416T010000Z
 SUMMARY:Baelz: ≪NEW OUTFIT REVEAL≫ FRESH DRIP ACQUIRED #DRIPTARO
 UID:if1xwcpL6dQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪Getting Over It≫ im getting over it today. ft. Open VC\nhttps://www.youtube.com/watch?v=AXo5cJmj7LE
+DURATION:PT2H
+DTSTART:20230414T010000Z
+SUMMARY:Baelz: ≪Getting Over It≫ im getting over it today. ft. Open VC
+UID:AXo5cJmj7LE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PUYOPUYO TETRIS 2】 How Fast Can My Brain Go !!\nhttps://www.youtube.com/watch?v=AgqLOFHSt9E
+DURATION:PT2H
+DTSTART:20230414T000000Z
+SUMMARY:Mumei: 【PUYOPUYO TETRIS 2】 How Fast Can My Brain Go !!
+UID:AgqLOFHSt9E
 END:VEVENT
 END:VCALENDAR
