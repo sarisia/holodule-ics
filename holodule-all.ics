@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:rebirthful / 律可【オリジナルMV】#rebirthful\nhttps://www.youtube.com/watch?v=4G-TwKxjBnc
-DURATION:PT2H
-DTSTART:20230418T105200Z
-SUMMARY:⚙律可: rebirthful / 律可【オリジナルMV】#rebirthful
-UID:4G-TwKxjBnc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【バイオハザード0 HDリマスター】初見のバイオハザード0【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=j8so9doY8j8
 DURATION:PT2H
 DTSTART:20230418T120000Z
 SUMMARY:荒咬オウガ: 【バイオハザード0 HDリマスター】初見のバイオハザード0【荒咬オウガ/ホロスターズ】
 UID:j8so9doY8j8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:rebirthful / 律可【オリジナルMV】#rebirthful\nhttps://www.youtube.com/watch?v=4G-TwKxjBnc
+DURATION:PT2H
+DTSTART:20230418T105200Z
+SUMMARY:⚙律可: rebirthful / 律可【オリジナルMV】#rebirthful
+UID:4G-TwKxjBnc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【お絵描き心理テスト】パリピ漫画家の脳内大公開スペシャル！！！【#緋崎ガンマ / #ホロスターズ / #vtuber 】\nhttps://www.youtube.com/watch?v=-6UbhOAl7Bw
@@ -368,6 +368,13 @@ SUMMARY:Vesper: 【 Just Chatting 】Zatsudan stream ends if I swear
 UID:JPyCkPQz4gg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】Warming up for the WITHER #kfp #キアライブ\nhttps://www.youtube.com/watch?v=zzBaub1PxhM
+DURATION:PT2H
+DTSTART:20230418T161500Z
+SUMMARY:Kiara: 【MINECRAFT】Warming up for the WITHER #kfp #キアライブ
+UID:zzBaub1PxhM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【VALO】まったりコンペを少しだけ！！【#vtuber / #羽継烏有 / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=LxXEtAvuu3A
 DURATION:PT2H
 DTSTART:20230418T140000Z
@@ -375,11 +382,11 @@ SUMMARY:羽継烏有: 【VALO】まったりコンペを少しだけ！！【#vt
 UID:LxXEtAvuu3A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】Warming up for the WITHER #kfp #キアライブ\nhttps://www.youtube.com/watch?v=zzBaub1PxhM
+DESCRIPTION:【 PHASMOPHOBIA 】KKC Night! Carry Aku Atau...【 IOFI 】\nhttps://www.youtube.com/watch?v=9mcbmxDMbOQ
 DURATION:PT2H
-DTSTART:20230418T161500Z
-SUMMARY:Kiara: 【MINECRAFT】Warming up for the WITHER #kfp #キアライブ
-UID:zzBaub1PxhM
+DTSTART:20230419T130000Z
+SUMMARY:🎨Iofi: 【 PHASMOPHOBIA 】KKC Night! Carry Aku Atau...【 IOFI 】
+UID:9mcbmxDMbOQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】久しぶりのおうた🎵【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=7thgmRICLjU
@@ -389,11 +396,11 @@ SUMMARY:🏮夏色まつり: 【歌枠】久しぶりのおうた🎵【ホロ�
 UID:7thgmRICLjU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Hitman 3】#2 Stealth +100 pts\nhttps://www.youtube.com/watch?v=0IB_Ly5Zaac
+DESCRIPTION:Escape From The City - Sonic The Hedgehog - Magni Dezmond Shorts Ver.\nhttps://www.youtube.com/watch?v=rwDykUTZAuQ
 DURATION:PT2H
-DTSTART:20230418T150000Z
-SUMMARY:Zeta: 【Hitman 3】#2 Stealth +100 pts
-UID:0IB_Ly5Zaac
+DTSTART:20230419T020018Z
+SUMMARY:ENHOLOSTARS: Escape From The City - Sonic The Hedgehog - Magni Dezmond Shorts Ver.
+UID:rwDykUTZAuQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Minecraft 】ずっといきたかったネザー要塞をみんなで攻略‼【 #いぬたかししらむ /ホロライブ】\nhttps://www.youtube.com/watch?v=G-M6fJxofbE
@@ -403,11 +410,11 @@ SUMMARY:鷹嶺ルイ: 【 Minecraft 】ずっといきたかったネザー要�
 UID:G-M6fJxofbE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Escape From The City - Sonic The Hedgehog - Magni Dezmond Shorts Ver.\nhttps://www.youtube.com/watch?v=rwDykUTZAuQ
+DESCRIPTION:【Hitman 3】#2 Stealth +100 pts\nhttps://www.youtube.com/watch?v=0IB_Ly5Zaac
 DURATION:PT2H
-DTSTART:20230419T020018Z
-SUMMARY:ENHOLOSTARS: Escape From The City - Sonic The Hedgehog - Magni Dezmond Shorts Ver.
-UID:rwDykUTZAuQ
+DTSTART:20230418T150000Z
+SUMMARY:Zeta: 【Hitman 3】#2 Stealth +100 pts
+UID:0IB_Ly5Zaac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【グラブル】初めての古戦場直前！完全初心者に教えろください♡場合によりガチャ引く！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=mtKXMnrDPao
