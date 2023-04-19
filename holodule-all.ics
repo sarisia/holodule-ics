@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:rebirthful / 律可【オリジナルMV】#rebirthful\nhttps://www.youtube.com/watch?v=4G-TwKxjBnc
-DURATION:PT2H
-DTSTART:20230418T105200Z
-SUMMARY:⚙律可: rebirthful / 律可【オリジナルMV】#rebirthful
-UID:4G-TwKxjBnc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【バイオハザード0 HDリマスター】初見のバイオハザード0【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=j8so9doY8j8
 DURATION:PT2H
 DTSTART:20230418T120000Z
 SUMMARY:荒咬オウガ: 【バイオハザード0 HDリマスター】初見のバイオハザード0【荒咬オウガ/ホロスターズ】
 UID:j8so9doY8j8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:rebirthful / 律可【オリジナルMV】#rebirthful\nhttps://www.youtube.com/watch?v=4G-TwKxjBnc
+DURATION:PT2H
+DTSTART:20230418T105200Z
+SUMMARY:⚙律可: rebirthful / 律可【オリジナルMV】#rebirthful
+UID:4G-TwKxjBnc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【お絵描き心理テスト】パリピ漫画家の脳内大公開スペシャル！！！【#緋崎ガンマ / #ホロスターズ / #vtuber 】\nhttps://www.youtube.com/watch?v=-6UbhOAl7Bw
@@ -58,6 +58,13 @@ DURATION:PT2H
 DTSTART:20230419T000000Z
 SUMMARY:Hakka: 【MEGA MAN BATTLE NETWORK LEGACY COLLECTION】MEGAMAN TIME HAKKITOS\, JACK IN! #ad #sponsored
 UID:tTw05WohHhk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SONIC HEROES】 STARTING TEAM DARK PLAYTHROUGH\nhttps://www.youtube.com/watch?v=536da2d_oGA
+DURATION:PT2H
+DTSTART:20230419T030000Z
+SUMMARY:Dezmond: 【SONIC HEROES】 STARTING TEAM DARK PLAYTHROUGH
+UID:536da2d_oGA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#こよクロ】まさかの1年ぶりに再結成！WE WERE HERE TOGETHER【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=gpJGXG5fvQI
@@ -184,6 +191,13 @@ DURATION:PT2H
 DTSTART:20230419T040030Z
 SUMMARY:Kaela: Ckia - sanity check
 UID:hZRyEcQum68
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:誰かを待ってたら誰か来たww #shorts #ロベルないとめあ\nhttps://www.youtube.com/watch?v=aFXOYZqNhts
+DURATION:PT2H
+DTSTART:20230419T062836Z
+SUMMARY:🍷夕刻ロベル: 誰かを待ってたら誰か来たww #shorts #ロベルないとめあ
+UID:aFXOYZqNhts
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】うらしまござるのホロ鯖マイクラ⛏【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=ZlmqMDj4H8s
@@ -361,18 +375,18 @@ SUMMARY:Vesper: 【 Just Chatting 】Zatsudan stream ends if I swear
 UID:JPyCkPQz4gg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【VALO】まったりコンペを少しだけ！！【#vtuber / #羽継烏有 / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=LxXEtAvuu3A
-DURATION:PT2H
-DTSTART:20230418T140000Z
-SUMMARY:羽継烏有: 【VALO】まったりコンペを少しだけ！！【#vtuber / #羽継烏有 / #ホロスターズ 】
-UID:LxXEtAvuu3A
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】Warming up for the WITHER #kfp #キアライブ\nhttps://www.youtube.com/watch?v=zzBaub1PxhM
 DURATION:PT2H
 DTSTART:20230418T161500Z
 SUMMARY:Kiara: 【MINECRAFT】Warming up for the WITHER #kfp #キアライブ
 UID:zzBaub1PxhM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VALO】まったりコンペを少しだけ！！【#vtuber / #羽継烏有 / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=LxXEtAvuu3A
+DURATION:PT2H
+DTSTART:20230418T140000Z
+SUMMARY:羽継烏有: 【VALO】まったりコンペを少しだけ！！【#vtuber / #羽継烏有 / #ホロスターズ 】
+UID:LxXEtAvuu3A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 PHASMOPHOBIA 】KKC Night! Carry Aku Atau...【 IOFI 】\nhttps://www.youtube.com/watch?v=9mcbmxDMbOQ
@@ -389,11 +403,11 @@ SUMMARY:🏮夏色まつり: 【歌枠】久しぶりのおうた🎵【ホロ�
 UID:7thgmRICLjU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Hitman 3】#2 Stealth +100 pts\nhttps://www.youtube.com/watch?v=0IB_Ly5Zaac
+DESCRIPTION:Escape From The City - Sonic The Hedgehog - Magni Dezmond Shorts Ver.\nhttps://www.youtube.com/watch?v=rwDykUTZAuQ
 DURATION:PT2H
-DTSTART:20230418T150000Z
-SUMMARY:Zeta: 【Hitman 3】#2 Stealth +100 pts
-UID:0IB_Ly5Zaac
+DTSTART:20230419T020018Z
+SUMMARY:ENHOLOSTARS: Escape From The City - Sonic The Hedgehog - Magni Dezmond Shorts Ver.
+UID:rwDykUTZAuQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Minecraft 】ずっといきたかったネザー要塞をみんなで攻略‼【 #いぬたかししらむ /ホロライブ】\nhttps://www.youtube.com/watch?v=G-M6fJxofbE
@@ -403,11 +417,11 @@ SUMMARY:鷹嶺ルイ: 【 Minecraft 】ずっといきたかったネザー要�
 UID:G-M6fJxofbE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Escape From The City - Sonic The Hedgehog - Magni Dezmond Shorts Ver.\nhttps://www.youtube.com/watch?v=rwDykUTZAuQ
+DESCRIPTION:【Hitman 3】#2 Stealth +100 pts\nhttps://www.youtube.com/watch?v=0IB_Ly5Zaac
 DURATION:PT2H
-DTSTART:20230419T020018Z
-SUMMARY:ENHOLOSTARS: Escape From The City - Sonic The Hedgehog - Magni Dezmond Shorts Ver.
-UID:rwDykUTZAuQ
+DTSTART:20230418T150000Z
+SUMMARY:Zeta: 【Hitman 3】#2 Stealth +100 pts
+UID:0IB_Ly5Zaac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【グラブル】初めての古戦場直前！完全初心者に教えろください♡場合によりガチャ引く！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=mtKXMnrDPao
@@ -452,6 +466,13 @@ SUMMARY:Ollie: SAMSUL WILL NEVER LEAVE #ollieginal #kureiji_ollie #holoid #holol
 UID:wuny8JZca70
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【DreadOut 2】 PLACEHOLDER TITLE BECAUSE VOD WEIRDNESS\nhttps://www.youtube.com/watch?v=ZnWhRIhgBL0
+DURATION:PT2H
+DTSTART:20230419T040000Z
+SUMMARY:Shinri: 【DreadOut 2】 PLACEHOLDER TITLE BECAUSE VOD WEIRDNESS
+UID:ZnWhRIhgBL0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【FAN MADE GAMES】playing games made by you guys!!\nhttps://www.youtube.com/watch?v=F7xqO6KKqkQ
 DURATION:PT2H
 DTSTART:20230418T005931Z
@@ -492,6 +513,13 @@ DURATION:PT2H
 DTSTART:20230417T220000Z
 SUMMARY:Fauna: 【MINECRAFT】 And so my tree shall consume the world
 UID:dPmIvra5IVA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【】【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=OJaM_GWW1kU
+DURATION:PT2H
+DTSTART:20230419T110000Z
+SUMMARY:🚑大空スバル: 【】【ホロライブ/大空スバル】
+UID:OJaM_GWW1kU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【グラブル】スタレジェガチャ＆にじホロぶる団in闇古戦場に向けてグラブルやる！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=ecewk86J544
