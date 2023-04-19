@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【朝メル#32】花より団子🍡あったかくなってきて最高の朝！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=QX_30jDmXoE
+DURATION:PT2H
+DTSTART:20230419T220000Z
+SUMMARY:🌟夜空メル: 【朝メル#32】花より団子🍡あったかくなってきて最高の朝！【ホロライブ/夜空メル】
+UID:QX_30jDmXoE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MORI TIME】chatting and grinding through your messages!\nhttps://www.youtube.com/watch?v=19Q9LqqkDxU
 DURATION:PT2H
 DTSTART:20230419T041601Z
@@ -60,11 +67,11 @@ SUMMARY:⚔白銀ノエル: 【ゼルダ無双 厄災の黙示録】新作前に
 UID:lauoi2fRoLQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HOLOYOI || ホロヨイ】EPISODE #02 - Noel and Flare! #holoyoi\nhttps://www.youtube.com/watch?v=wyrLR1CC1Co
+DESCRIPTION:【重大告知！！】4/22って何の日～～～だっけ～～～？？₍ᐢ⑅•ᴗ•⑅ᐢ₎【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=7P7XSMcyIDM
 DURATION:PT2H
-DTSTART:20230420T120000Z
-SUMMARY:Calli: 【HOLOYOI || ホロヨイ】EPISODE #02 - Noel and Flare! #holoyoi
-UID:wyrLR1CC1Co
+DTSTART:20230420T100000Z
+SUMMARY:💫天音かなた: 【重大告知！！】4/22って何の日～～～だっけ～～～？？₍ᐢ⑅•ᴗ•⑅ᐢ₎【天音かなた/ホロライブ】
+UID:7P7XSMcyIDM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】let's continue the redstone!!【holoID】\nhttps://www.youtube.com/watch?v=-3GfCfDP6Jk
@@ -81,18 +88,11 @@ SUMMARY:緋崎ガンマ: 【APEX】パリピ漫画家の雑談昼活コソ練ペ
 UID:4PEEcnHHjX8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【公認ミラー配信】 #SF6公認ミラー配信 ストリートファイター6 ショーケース！最新情報を一緒に見よう！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=AHSeK1HhyHc
+DESCRIPTION:【HOLOYOI || ホロヨイ】EPISODE #02 - Noel and Flare! #holoyoi\nhttps://www.youtube.com/watch?v=wyrLR1CC1Co
 DURATION:PT2H
-DTSTART:20230420T220000Z
-SUMMARY:🍕アルランディス: 【公認ミラー配信】 #SF6公認ミラー配信 ストリートファイター6 ショーケース！最新情報を一緒に見よう！【アルランディス/ホロスターズ】
-UID:AHSeK1HhyHc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【メン限】「天気の子」いっしょにみよ～～～🌞watch a long【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=Mhv-cyWcb6I
-DURATION:PT2H
-DTSTART:20230419T130000Z
-SUMMARY:🌟夜空メル: 【メン限】「天気の子」いっしょにみよ～～～🌞watch a long【ホロライブ/夜空メル】
-UID:Mhv-cyWcb6I
+DTSTART:20230420T120000Z
+SUMMARY:Calli: 【HOLOYOI || ホロヨイ】EPISODE #02 - Noel and Flare! #holoyoi
+UID:wyrLR1CC1Co
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Just Chatting 】Zatsudan stream ends if I swear\nhttps://www.youtube.com/watch?v=JPyCkPQz4gg
@@ -303,6 +303,13 @@ DURATION:PT2H
 DTSTART:20230419T134500Z
 SUMMARY:荒咬オウガ: 【公認ミラー配信】モンハンのスペシャルプログラム一緒に見ようぜ【荒咬オウガ/ホロスターズ】
 UID:4uO7cWa7Fxw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【公認ミラー配信】 #SF6公認ミラー配信 ストリートファイター6 ショーケース！最新情報を一緒に見よう！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=AHSeK1HhyHc
+DURATION:PT2H
+DTSTART:20230420T220000Z
+SUMMARY:🍕アルランディス: 【公認ミラー配信】 #SF6公認ミラー配信 ストリートファイター6 ショーケース！最新情報を一緒に見よう！【アルランディス/ホロスターズ】
+UID:AHSeK1HhyHc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】げりらなだらだらトーク【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=4snJ7nF-9q4
