@@ -4,32 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:netherite beacon is calling\nhttps://www.youtube.com/watch?v=h-v_YUrigTw
-DURATION:PT2H
-DTSTART:20230421T140034Z
-SUMMARY:Kaela: netherite beacon is calling
-UID:h-v_YUrigTw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:I HEARD YOU LIKE CATGIRLS #ollieginal #kureiji_ollie #holoid #hololive\nhttps://www.youtube.com/watch?v=b6OIhQVMoy4
-DURATION:PT2H
-DTSTART:20230421T084741Z
-SUMMARY:Ollie: I HEARD YOU LIKE CATGIRLS #ollieginal #kureiji_ollie #holoid #hololive
-UID:b6OIhQVMoy4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ZecretDialog】#11 Let me stitch your eyes shut 👁️🧵\nhttps://www.youtube.com/watch?v=N4-N17ZAJmg
 DURATION:PT2H
 DTSTART:20230420T160000Z
 SUMMARY:Zeta: 【ZecretDialog】#11 Let me stitch your eyes shut 👁️🧵
 UID:N4-N17ZAJmg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ETS 2】WE DRIVE = WE HAPPI 【Ayunda Risu】\nhttps://www.youtube.com/watch?v=twfAQFcjnJw
-DURATION:PT2H
-DTSTART:20230421T130000Z
-SUMMARY:🐿Risu: 【ETS 2】WE DRIVE = WE HAPPI 【Ayunda Risu】
-UID:twfAQFcjnJw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Troublemaker】STUDENT COUNCIL? I'LL BEAT THEM UP【hololive ID | Anya Melfissa】\nhttps://www.youtube.com/watch?v=R5mMZSNePW8
@@ -46,17 +25,24 @@ SUMMARY:Zeta: Zeta (200 IQ) does SC READING
 UID:jMARGt5QjWA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:netherite beacon is calling\nhttps://www.youtube.com/watch?v=h-v_YUrigTw
+DURATION:PT2H
+DTSTART:20230421T140034Z
+SUMMARY:Kaela: netherite beacon is calling
+UID:h-v_YUrigTw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:I HEARD YOU LIKE CATGIRLS #ollieginal #kureiji_ollie #holoid #hololive\nhttps://www.youtube.com/watch?v=b6OIhQVMoy4
+DURATION:PT2H
+DTSTART:20230421T084741Z
+SUMMARY:Ollie: I HEARD YOU LIKE CATGIRLS #ollieginal #kureiji_ollie #holoid #hololive
+UID:b6OIhQVMoy4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:help her: PC-chan doko?\nhttps://www.youtube.com/watch?v=CIO-3oSV1Ls
 DURATION:PT2H
 DTSTART:20230421T040005Z
 SUMMARY:Kaela: help her: PC-chan doko?
 UID:CIO-3oSV1Ls
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】I AM AT PEACE【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=q6ybkYhKnpI
-DURATION:PT2H
-DTSTART:20230421T135911Z
-SUMMARY:Ollie: 【MINECRAFT】I AM AT PEACE【Hololive Indonesia 2nd Gen】
-UID:q6ybkYhKnpI
 END:VEVENT
 END:VCALENDAR
