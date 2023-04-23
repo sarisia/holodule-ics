@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:HoloFunkにまさかの特別出演を発見ｰ Friday Night Funkin MOD ｰ #shorts #holofunk #ホロライブ #ホロスターズ #アルランディス\nhttps://www.youtube.com/watch?v=gN34wlAese4
-DURATION:PT2H
-DTSTART:20230423T030015Z
-SUMMARY:🍕アルランディス: HoloFunkにまさかの特別出演を発見ｰ Friday Night Funkin MOD ｰ #shorts #holofunk #ホロライブ #ホロスターズ #アルランディス
-UID:gN34wlAese4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】朝からスト鯖RUST【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=VtSxPBdAJUA
-DURATION:PT2H
-DTSTART:20230423T010000Z
-SUMMARY:🍷夕刻ロベル: 【RUST】朝からスト鯖RUST【夕刻ロベル/ホロスターズ】
-UID:VtSxPBdAJUA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ネット炎上事件簿】新人Vtuber(2年目)、炎上について学ぶ【夜十神封魔/UPROAR!!】\nhttps://www.youtube.com/watch?v=gZZIupJGZeY
 DURATION:PT2H
 DTSTART:20230423T110000Z
@@ -39,20 +25,6 @@ SUMMARY:🎭アステル・レダ: 【歌枠 / Karaoke 】しっとりちょこ 
 UID:kYWUAOU1onc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RUST】そんなに長くは出来ないがRUSTする【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=8sEGh3VZAYQ
-DURATION:PT2H
-DTSTART:20230423T135500Z
-SUMMARY:🍷夕刻ロベル: 【RUST】そんなに長くは出来ないがRUSTする【夕刻ロベル/ホロスターズ】
-UID:8sEGh3VZAYQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Smalland Survive the Wilds】ゆるスタり隊再集結！今度は小さくなって大冒険！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=cmKj-GVsRPc
-DURATION:PT2H
-DTSTART:20230424T110000Z
-SUMMARY:🍕アルランディス: 【Smalland Survive the Wilds】ゆるスタり隊再集結！今度は小さくなって大冒険！【アルランディス/ホロスターズ】
-UID:cmKj-GVsRPc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【a pet shop after dark】消して明かりを消してはいけない不思議なペットショップの話【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=-f6XXuB17g8
 DURATION:PT2H
 DTSTART:20230423T080000Z
@@ -65,5 +37,19 @@ DURATION:PT2H
 DTSTART:20230423T030000Z
 SUMMARY:緋崎ガンマ: 【RUST】初心者パリピ漫画家のスト鯖3日目！依頼されたイラスト描いたり、探検したりする！【#緋崎ガンマ / #ホロスターズ / #vtuber 】
 UID:I2EtJ22jNxQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:HoloFunkにまさかの特別出演を発見ｰ Friday Night Funkin MOD ｰ #shorts #holofunk #ホロライブ #ホロスターズ #アルランディス\nhttps://www.youtube.com/watch?v=gN34wlAese4
+DURATION:PT2H
+DTSTART:20230423T030015Z
+SUMMARY:🍕アルランディス: HoloFunkにまさかの特別出演を発見ｰ Friday Night Funkin MOD ｰ #shorts #holofunk #ホロライブ #ホロスターズ #アルランディス
+UID:gN34wlAese4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RUST】朝からスト鯖RUST【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=VtSxPBdAJUA
+DURATION:PT2H
+DTSTART:20230423T010000Z
+SUMMARY:🍷夕刻ロベル: 【RUST】朝からスト鯖RUST【夕刻ロベル/ホロスターズ】
+UID:VtSxPBdAJUA
 END:VEVENT
 END:VCALENDAR
