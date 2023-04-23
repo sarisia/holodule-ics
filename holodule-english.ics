@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【MEMBERS ONLY】I am going to do something!\nhttps://www.youtube.com/watch?v=nvYN8MahkC0
+DURATION:PT2H
+DTSTART:20230423T180000Z
+SUMMARY:Kiara: 【MEMBERS ONLY】I am going to do something!
+UID:nvYN8MahkC0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Dying Light】LIVE With @CeresFauna\nhttps://www.youtube.com/watch?v=8vN0-eY9vRg
 DURATION:PT2H
 DTSTART:20230423T011500Z
