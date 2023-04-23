@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【アニメ】スマホなくしちゃった！！！！！\nhttps://www.youtube.com/watch?v=CWZG0HLGVUI
+DURATION:PT2H
+DTSTART:20230423T090011Z
+SUMMARY:ホロライブ: 【アニメ】スマホなくしちゃった！！！！！
+UID:CWZG0HLGVUI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】深夜のホロ鯖マイクラ！！わくわく！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=6Ry2OXscU68
 DURATION:PT2H
 DTSTART:20230422T140000Z
@@ -81,13 +88,6 @@ SUMMARY:🥐戌神ころね: 【現在１１５枚】ついに最終回…！？
 UID:kGzREi8n0WM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ペーパーマリオ オリガミキング】最高すぎる天空の冒険【#ときのそら生放送/ホロライブ/ときのそら】\nhttps://www.youtube.com/watch?v=esy-SgsRPg8
-DURATION:PT2H
-DTSTART:20230423T060000Z
-SUMMARY:🐻ときのそら: 【ペーパーマリオ オリガミキング】最高すぎる天空の冒険【#ときのそら生放送/ホロライブ/ときのそら】
-UID:esy-SgsRPg8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【＃13】テイルズオブシンフォニアするしゅばああああああああああああああああああああああああああ！！！！！！/ Tales of Symphonia Chronicles【ホロライブ/大空ス バル】\nhttps://www.youtube.com/watch?v=l06dT08YgiE
 DURATION:PT2H
 DTSTART:20230423T040000Z
@@ -95,18 +95,18 @@ SUMMARY:🚑大空スバル: 【＃13】テイルズオブシンフォニアす�
 UID:l06dT08YgiE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 楽器演奏 】＜DAY12＞日曜朝のエレクトーン練習するのらっ！🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=MNg1QHiqJfY
-DURATION:PT2H
-DTSTART:20230422T230000Z
-SUMMARY:🍬姫森ルーナ: 【 楽器演奏 】＜DAY12＞日曜朝のエレクトーン練習するのらっ！🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】
-UID:MNg1QHiqJfY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#04【MOTHER2】早く抜け出せ！屈指の沼ポイント『デパート』いくぞ🏠🌲【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=9b-JSb_mL70
 DURATION:PT2H
 DTSTART:20230422T130000Z
 SUMMARY:🔥不知火フレア: #04【MOTHER2】早く抜け出せ！屈指の沼ポイント『デパート』いくぞ🏠🌲【不知火フレア/ホロライブ】
 UID:9b-JSb_mL70
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 楽器演奏 】＜DAY12＞日曜朝のエレクトーン練習するのらっ！🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=MNg1QHiqJfY
+DURATION:PT2H
+DTSTART:20230422T230000Z
+SUMMARY:🍬姫森ルーナ: 【 楽器演奏 】＜DAY12＞日曜朝のエレクトーン練習するのらっ！🎹🎶 Playing the Electone【姫森ルーナ/ホロライブ】
+UID:MNg1QHiqJfY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【NEW OUTFIT REVEAL】 Hair Salon Doko?! #yuruINA\nhttps://www.youtube.com/watch?v=YRs00OvIUJM
@@ -352,6 +352,13 @@ DURATION:PT2H
 DTSTART:20230422T080000Z
 SUMMARY:🤖ロボ子さん: 【valorant】銃をボクは手に取った【ロボ子さん /ホロライブ】
 UID:nx2Opp7vUGU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:＃０3【 ドラクエVI】完全初見！ドラゴンクエストVI 幻の大地【雪花ラミィ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=cT85vA2xBdE
+DURATION:PT2H
+DTSTART:20230423T020000Z
+SUMMARY:雪花ラミィ: ＃０3【 ドラクエVI】完全初見！ドラゴンクエストVI 幻の大地【雪花ラミィ/ホロライブ】※ネタバレあり
+UID:cT85vA2xBdE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The "S" in "ASMR" Does Not Mean "Styrofoam" #holoEN3DRepeat\nhttps://www.youtube.com/watch?v=ysAIQmDWguI
@@ -646,6 +653,13 @@ DURATION:PT2H
 DTSTART:20230423T230000Z
 SUMMARY:Shinri: 【Observation Duty】 *Perceives*
 UID:xfQXxb9pvto
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【晩酌】余と一緒に飲もう～～！！！🍶\nhttps://www.youtube.com/watch?v=hgNaHOK-mcc
+DURATION:PT2H
+DTSTART:20230423T120000Z
+SUMMARY:👿百鬼あやめ: 【晩酌】余と一緒に飲もう～～！！！🍶
+UID:hgNaHOK-mcc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Papa's Freezeria Deluxe】 Serving milkshakes with a side of zoomer nostalgia bait\nhttps://www.youtube.com/watch?v=_DiIRc7nYOE
