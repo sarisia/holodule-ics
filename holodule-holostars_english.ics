@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【VCR RUST】仲間を見つけてボスとか倒すぞ❕❕❕【Day 3】\nhttps://www.youtube.com/watch?v=WOqfqvsKP8k
-DURATION:PT2H
-DTSTART:20230424T100000Z
-SUMMARY:Syrios: 【VCR RUST】仲間を見つけてボスとか倒すぞ❕❕❕【Day 3】
-UID:WOqfqvsKP8k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 F.E.A.R. 3 】Fear is the mind killer\, the little death that brings total obliteration\nhttps://www.youtube.com/watch?v=LZ7dtQAR1Vw
-DURATION:PT2H
-DTSTART:20230423T170000Z
-SUMMARY:Vesper: 【 F.E.A.R. 3 】Fear is the mind killer\, the little death that brings total obliteration
-UID:LZ7dtQAR1Vw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Observation Duty】 *Perceives*\nhttps://www.youtube.com/watch?v=xfQXxb9pvto
 DURATION:PT2H
 DTSTART:20230423T230000Z
@@ -44,6 +30,13 @@ DURATION:PT2H
 DTSTART:20230424T030000Z
 SUMMARY:Dezmond: [Spongebob SquarePants Battle for Bikini Bottom] SPONGEDEZ MAGPANTS
 UID:oaeH-5Ozxo4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 F.E.A.R. 3 】Fear is the mind killer\, the little death that brings total obliteration\nhttps://www.youtube.com/watch?v=LZ7dtQAR1Vw
+DURATION:PT2H
+DTSTART:20230423T170000Z
+SUMMARY:Vesper: 【 F.E.A.R. 3 】Fear is the mind killer\, the little death that brings total obliteration
+UID:LZ7dtQAR1Vw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🎉🎂【HAKKA BIRBDAY 2023】After Party! Thank you so much guys 💟【Zatsudan】🎂🎉\nhttps://www.youtube.com/watch?v=KnQIZ_TZpyc
