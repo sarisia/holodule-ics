@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】Early Bird Get The Work Done!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=6I-nwfxtlqA
-DURATION:PT2H
-DTSTART:20230426T110000Z
-SUMMARY:Kiara: 【MINECRAFT】Early Bird Get The Work Done!! #kfp #キアライブ
-UID:6I-nwfxtlqA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【KARAOKE】unarchived! EN AND KR songs 💖✨ #kfp #キアライブ\nhttps://www.youtube.com/watch?v=CgO7N3ck6eE
 DURATION:PT2H
 DTSTART:20230426T200000Z
@@ -18,11 +11,11 @@ SUMMARY:Kiara: 【KARAOKE】unarchived! EN AND KR songs 💖✨ #kfp #キアラ�
 UID:CgO7N3ck6eE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪JUST CHATTING≫ SHE HAS FLED\nhttps://www.youtube.com/watch?v=kK4JPwHmCBw
+DESCRIPTION:Live Again / end of a life - Mori Calliope [NEW UNDERWORLD ORDER]\nhttps://www.youtube.com/watch?v=legdkMwLklA
 DURATION:PT2H
-DTSTART:20230427T010000Z
-SUMMARY:Baelz: ≪JUST CHATTING≫ SHE HAS FLED
-UID:kK4JPwHmCBw
+DTSTART:20230427T000000Z
+SUMMARY:Calli: Live Again / end of a life - Mori Calliope [NEW UNDERWORLD ORDER]
+UID:legdkMwLklA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【One Hand Clapping】I Can Make Your Hands Clap | END\nhttps://www.youtube.com/watch?v=SUHom3AzNH0
@@ -32,18 +25,32 @@ SUMMARY:Kronii: 【One Hand Clapping】I Can Make Your Hands Clap | END
 UID:SUHom3AzNH0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SUPER MARIO BROS. U DELUXE】 WAHOOOOO\nhttps://www.youtube.com/watch?v=kjrJtKt470k
-DURATION:PT2H
-DTSTART:20230425T200000Z
-SUMMARY:Ina: 【SUPER MARIO BROS. U DELUXE】 WAHOOOOO
-UID:kjrJtKt470k
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Q Remastered】Brain. Hort. Pls. Help. #kfp #キアライブ\nhttps://www.youtube.com/watch?v=tkNxeoWTb1s
 DURATION:PT2H
 DTSTART:20230425T170000Z
 SUMMARY:Kiara: 【Q Remastered】Brain. Hort. Pls. Help. #kfp #キアライブ
 UID:tkNxeoWTb1s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】Early Bird Get The Work Done!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=6I-nwfxtlqA
+DURATION:PT2H
+DTSTART:20230426T110000Z
+SUMMARY:Kiara: 【MINECRAFT】Early Bird Get The Work Done!! #kfp #キアライブ
+UID:6I-nwfxtlqA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪JUST CHATTING≫ SHE HAS FLED\nhttps://www.youtube.com/watch?v=kK4JPwHmCBw
+DURATION:PT2H
+DTSTART:20230427T010000Z
+SUMMARY:Baelz: ≪JUST CHATTING≫ SHE HAS FLED
+UID:kK4JPwHmCBw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SUPER MARIO BROS. U DELUXE】 WAHOOOOO\nhttps://www.youtube.com/watch?v=kjrJtKt470k
+DURATION:PT2H
+DTSTART:20230425T200000Z
+SUMMARY:Ina: 【SUPER MARIO BROS. U DELUXE】 WAHOOOOO
+UID:kjrJtKt470k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【JUMP KING】ghost babe\nhttps://www.youtube.com/watch?v=dPLkKw1itwQ
