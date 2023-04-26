@@ -214,6 +214,13 @@ SUMMARY:🏮夏色まつり: 【歌枠】今宵はお歌を歌います！/Singi
 UID:yay60Ahkhhc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【PICO PARK】 #不知火建設 で遊ぶぞー！🔥🎪🌸☄⚔【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=3OSIJNsf-Aw
+DURATION:PT2H
+DTSTART:20230426T110000Z
+SUMMARY:🔥不知火フレア: 【PICO PARK】 #不知火建設 で遊ぶぞー！🔥🎪🌸☄⚔【不知火フレア/ホロライブ】
+UID:3OSIJNsf-Aw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#朝こよ】4月最後⁉火曜日の朝は朝こよ！☀ #125【博衣こより/hololive】\nhttps://www.youtube.com/watch?v=H7JTsljyDuE
 DURATION:PT2H
 DTSTART:20230424T220000Z
@@ -291,13 +298,6 @@ SUMMARY:🌽白上フブキ: おや…白上のようすが？【ホロライブ
 UID:aHqDq9uOUPY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【告知】兎田ぺこらから皆様に告知が2つあります！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=gXZCGWfuVHE
-DURATION:PT2H
-DTSTART:20230425T120000Z
-SUMMARY:👯兎田ぺこら: 【告知】兎田ぺこらから皆様に告知が2つあります！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:gXZCGWfuVHE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ミッション：ヤギを確保せよ！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=AIUJwEuryC0
 DURATION:PT2H
 DTSTART:20230425T130000Z
@@ -305,11 +305,18 @@ SUMMARY:🐏角巻わため: 【Minecraft】ミッション：ヤギを確保せ
 UID:AIUJwEuryC0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MELATONIN】 Hi I Just Woke Up Goodnight\nhttps://www.youtube.com/watch?v=dBsYDZ5JEYk
+DESCRIPTION:【23時】予定地【ロボ子さん /ホロライブ】\nhttps://www.youtube.com/watch?v=FjhiA2V3djY
 DURATION:PT2H
-DTSTART:20230424T210000Z
-SUMMARY:Ina: 【MELATONIN】 Hi I Just Woke Up Goodnight
-UID:dBsYDZ5JEYk
+DTSTART:20230426T140000Z
+SUMMARY:🤖ロボ子さん: 【23時】予定地【ロボ子さん /ホロライブ】
+UID:FjhiA2V3djY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【告知】兎田ぺこらから皆様に告知が2つあります！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=gXZCGWfuVHE
+DURATION:PT2H
+DTSTART:20230425T120000Z
+SUMMARY:👯兎田ぺこら: 【告知】兎田ぺこらから皆様に告知が2つあります！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:gXZCGWfuVHE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[Just Chatting] WEEK IN REVIEW: NIGHT EDITION #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=sE38zBWqArw
@@ -326,18 +333,11 @@ SUMMARY:博衣こより: 上目遣いでおねだりしたら車のエンジン�
 UID:HiVnxVzgZs4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【】【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=GoWTWxl0lWE
+DESCRIPTION:【MELATONIN】 Hi I Just Woke Up Goodnight\nhttps://www.youtube.com/watch?v=dBsYDZ5JEYk
 DURATION:PT2H
-DTSTART:20230426T110000Z
-SUMMARY:🚑大空スバル: 【】【ホロライブ/大空スバル】
-UID:GoWTWxl0lWE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【23時】予定地【ロボ子さん /ホロライブ】\nhttps://www.youtube.com/watch?v=FjhiA2V3djY
-DURATION:PT2H
-DTSTART:20230426T140000Z
-SUMMARY:🤖ロボ子さん: 【23時】予定地【ロボ子さん /ホロライブ】
-UID:FjhiA2V3djY
+DTSTART:20230424T210000Z
+SUMMARY:Ina: 【MELATONIN】 Hi I Just Woke Up Goodnight
+UID:dBsYDZ5JEYk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Rust / スト鯖】健全なRust【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=oxbycHoKqCQ
@@ -345,6 +345,13 @@ DURATION:PT2H
 DTSTART:20230426T150000Z
 SUMMARY:🏮夏色まつり: 【 Rust / スト鯖】健全なRust【ホロライブ/夏色まつり】
 UID:oxbycHoKqCQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【】【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=GoWTWxl0lWE
+DURATION:PT2H
+DTSTART:20230426T110000Z
+SUMMARY:🚑大空スバル: 【】【ホロライブ/大空スバル】
+UID:GoWTWxl0lWE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【重大告知！】告知します！！！！！！！！！騙されたと思って見てください！！！！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=eQ19_m0tXEk
@@ -429,6 +436,13 @@ DURATION:PT2H
 DTSTART:20230425T020002Z
 SUMMARY:ENHOLOSTARS: YATTA - TEMPANTSU Shorts Ver.
 UID:8OIN4Hccaug
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Rust】ぼすめぐり  / アステル\nhttps://www.youtube.com/watch?v=oGejvT5yW2k
+DURATION:PT2H
+DTSTART:20230425T230000Z
+SUMMARY:🎭アステル・レダ: 【Rust】ぼすめぐり  / アステル
+UID:oGejvT5yW2k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🎉🎂【HAKKA BIRBDAY 2023】Strategy Guide to the World of Elysium  PART 2💟【Hakkito Project Review】🎂🎉\nhttps://www.youtube.com/watch?v=7_g598aILBs
