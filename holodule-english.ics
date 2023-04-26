@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】Early Bird Get The Work Done!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=6I-nwfxtlqA
-DURATION:PT2H
-DTSTART:20230426T110000Z
-SUMMARY:Kiara: 【MINECRAFT】Early Bird Get The Work Done!! #kfp #キアライブ
-UID:6I-nwfxtlqA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【One Hand Clapping】I Can Make Your Hands Clap | END\nhttps://www.youtube.com/watch?v=SUHom3AzNH0
 DURATION:PT2H
 DTSTART:20230427T010000Z
@@ -25,13 +18,6 @@ SUMMARY:Calli: 【JUMP KING】jumping until my internet gives out (or even longe
 UID:M2VSiel7IBA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SUPER MARIO BROS. U DELUXE】 WAHOOOOO\nhttps://www.youtube.com/watch?v=kjrJtKt470k
-DURATION:PT2H
-DTSTART:20230425T200000Z
-SUMMARY:Ina: 【SUPER MARIO BROS. U DELUXE】 WAHOOOOO
-UID:kjrJtKt470k
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Q Remastered】Brain. Hort. Pls. Help. #kfp #キアライブ\nhttps://www.youtube.com/watch?v=tkNxeoWTb1s
 DURATION:PT2H
 DTSTART:20230425T170000Z
@@ -39,17 +25,38 @@ SUMMARY:Kiara: 【Q Remastered】Brain. Hort. Pls. Help. #kfp #キアライブ
 UID:tkNxeoWTb1s
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【JUMP KING】ghost babe\nhttps://www.youtube.com/watch?v=dPLkKw1itwQ
-DURATION:PT2H
-DTSTART:20230426T065655Z
-SUMMARY:Calli: 【JUMP KING】ghost babe
-UID:dPLkKw1itwQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MELATONIN】 Hi I Just Woke Up Goodnight\nhttps://www.youtube.com/watch?v=dBsYDZ5JEYk
 DURATION:PT2H
 DTSTART:20230424T210000Z
 SUMMARY:Ina: 【MELATONIN】 Hi I Just Woke Up Goodnight
 UID:dBsYDZ5JEYk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】Early Bird Get The Work Done!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=6I-nwfxtlqA
+DURATION:PT2H
+DTSTART:20230426T110000Z
+SUMMARY:Kiara: 【MINECRAFT】Early Bird Get The Work Done!! #kfp #キアライブ
+UID:6I-nwfxtlqA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪JUST CHATTING≫ SHE HAS FLED\nhttps://www.youtube.com/watch?v=kK4JPwHmCBw
+DURATION:PT2H
+DTSTART:20230427T010000Z
+SUMMARY:Baelz: ≪JUST CHATTING≫ SHE HAS FLED
+UID:kK4JPwHmCBw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SUPER MARIO BROS. U DELUXE】 WAHOOOOO\nhttps://www.youtube.com/watch?v=kjrJtKt470k
+DURATION:PT2H
+DTSTART:20230425T200000Z
+SUMMARY:Ina: 【SUPER MARIO BROS. U DELUXE】 WAHOOOOO
+UID:kjrJtKt470k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【JUMP KING】ghost babe\nhttps://www.youtube.com/watch?v=dPLkKw1itwQ
+DURATION:PT2H
+DTSTART:20230426T065655Z
+SUMMARY:Calli: 【JUMP KING】ghost babe
+UID:dPLkKw1itwQ
 END:VEVENT
 END:VCALENDAR
