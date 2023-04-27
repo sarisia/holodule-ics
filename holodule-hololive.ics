@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】浦島太郎【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=3q1dOEeyFm0
+DURATION:PT2H
+DTSTART:20230427T100000Z
+SUMMARY:☄星街すいせい: 【Minecraft】浦島太郎【ホロライブ / 星街すいせい】
+UID:3q1dOEeyFm0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 雑談 】久々にゆっくり話さない？【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=dNxnFNGE_wk
 DURATION:PT2H
 DTSTART:20230427T090000Z
@@ -18,18 +25,11 @@ SUMMARY:🏴☠宝鐘マリン: 海外ホロメンが選ぶ変な日本語Tシ�
 UID:s27oHMAu224
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #なのらいぶ 】New スーパーマリオブラザーズ U デラックス で遊ぶのらっ！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=8ANckS9Sdn0
+DESCRIPTION:【 GTA5 視聴者参加型】全力で●●！新検証企画を実行するにぇ！！！！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=EfPqqg8VxW4
 DURATION:PT2H
-DTSTART:20230426T130000Z
-SUMMARY:🍬姫森ルーナ: 【 #なのらいぶ 】New スーパーマリオブラザーズ U デラックス で遊ぶのらっ！【姫森ルーナ/ホロライブ】
-UID:8ANckS9Sdn0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【グラブル】古戦場本戦最終日！終わり良ければすべて良し！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=Yi_2IH4lc_k
-DURATION:PT2H
-DTSTART:20230426T140000Z
-SUMMARY:👯兎田ぺこら: 【グラブル】古戦場本戦最終日！終わり良ければすべて良し！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:Yi_2IH4lc_k
+DTSTART:20230427T110000Z
+SUMMARY:🌸さくらみこ: 【 GTA5 視聴者参加型】全力で●●！新検証企画を実行するにぇ！！！！！！！【ホロライブ/さくらみこ】
+UID:EfPqqg8VxW4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【昼雑】最近の事とかお話する～【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=m-oqdVSsaxo
@@ -37,160 +37,6 @@ DURATION:PT2H
 DTSTART:20230428T030000Z
 SUMMARY:雪花ラミィ: 【昼雑】最近の事とかお話する～【雪花ラミィ/ホロライブ】
 UID:m-oqdVSsaxo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#shorts 】キセキノセカイ\nhttps://www.youtube.com/watch?v=mhPnfGRA9ic
-DURATION:PT2H
-DTSTART:20230427T110026Z
-SUMMARY:🐻ときのそら: 【#shorts 】キセキノセカイ
-UID:mhPnfGRA9ic
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポルカの伝説】二周年となりました。あいや。#shorts\nhttps://www.youtube.com/watch?v=Hn8DJNgNYj8
-DURATION:PT2H
-DTSTART:20230427T013602Z
-SUMMARY:尾丸ポルカ: 【ポルカの伝説】二周年となりました。あいや。#shorts
-UID:Hn8DJNgNYj8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】#ホロドロケイ の牢屋作りをするこよ～！【博衣こより視点/ホロライブ】\nhttps://www.youtube.com/watch?v=I0GCpSPWiPc
-DURATION:PT2H
-DTSTART:20230427T130000Z
-SUMMARY:博衣こより: 【Minecraft】#ホロドロケイ の牢屋作りをするこよ～！【博衣こより視点/ホロライブ】
-UID:I0GCpSPWiPc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【＃生スバル】マイクラするしゅばあああああああああああああああああああああああああああああああああ！！！！！！/mine craft【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=3zg4RPvuevM
-DURATION:PT2H
-DTSTART:20230427T110000Z
-SUMMARY:🚑大空スバル: 【＃生スバル】マイクラするしゅばあああああああああああああああああああああああああああああああああ！！！！！！/mine craft【ホロライブ/大空スバル】
-UID:3zg4RPvuevM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スーパーマリオワールド】後半だ！！上手にできるかな？【#ときのそら生放送/ホロライブ/ときのそら】\nhttps://www.youtube.com/watch?v=tB4NBiB8aF0
-DURATION:PT2H
-DTSTART:20230426T120000Z
-SUMMARY:🐻ときのそら: 【スーパーマリオワールド】後半だ！！上手にできるかな？【#ときのそら生放送/ホロライブ/ときのそら】
-UID:tB4NBiB8aF0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ホロ鯖。おかゆんに誘われたので考えながら、とりあえず、ぼっちざ建築【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=mqG4cUeUi6s
-DURATION:PT2H
-DTSTART:20230427T140000Z
-SUMMARY:🌽白上フブキ: 【Minecraft】ホロ鯖。おかゆんに誘われたので考えながら、とりあえず、ぼっちざ建築【ホロライブ/白上フブキ】
-UID:mqG4cUeUi6s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【デレステ  ガシャ】渋谷凛、プロデュースさせてくれないか？これが吾輩のアストラルスカイ＿＿ 引けたらその後マルチするぞ！LIVEPARTY🥳【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=_xdBtV2ha9s
-DURATION:PT2H
-DTSTART:20230427T100000Z
-SUMMARY:ラプラス: 【デレステ  ガシャ】渋谷凛、プロデュースさせてくれないか？これが吾輩のアストラルスカイ＿＿ 引けたらその後マルチするぞ！LIVEPARTY🥳【ラプラス・ダークネス/ホロライブ】
-UID:_xdBtV2ha9s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【突然ポル対談】さくらみこさんいらっしゃいませ【尾丸ポルカ/さくらみこ/ホロライブ】\nhttps://www.youtube.com/watch?v=x3ZNTaJgVlk
-DURATION:PT2H
-DTSTART:20230427T150000Z
-SUMMARY:尾丸ポルカ: 【突然ポル対談】さくらみこさんいらっしゃいませ【尾丸ポルカ/さくらみこ/ホロライブ】
-UID:x3ZNTaJgVlk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】#ホロドロケイ 牢屋制作！✨ゲーム詳細情報解禁あり！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=IMM5ODZa9yA
-DURATION:PT2H
-DTSTART:20230427T130000Z
-SUMMARY:風真いろは: 【Minecraft】#ホロドロケイ 牢屋制作！✨ゲーム詳細情報解禁あり！【風真いろは/ホロライブ】
-UID:IMM5ODZa9yA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ポルカの伝説】ポルカの伝説、三年目。\nhttps://www.youtube.com/watch?v=ww9SQFm3L7Y
-DURATION:PT2H
-DTSTART:20230427T100000Z
-SUMMARY:尾丸ポルカ: 【ポルカの伝説】ポルカの伝説、三年目。
-UID:ww9SQFm3L7Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SONG】MIDNIGHT SING A SONG【ロボ子さん /ホロライブ】\nhttps://www.youtube.com/watch?v=FjhiA2V3djY
-DURATION:PT2H
-DTSTART:20230426T140000Z
-SUMMARY:🤖ロボ子さん: 【SONG】MIDNIGHT SING A SONG【ロボ子さん /ホロライブ】
-UID:FjhiA2V3djY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:上目遣いでおねだりしたら車のエンジン音のモノマネって言われたｗｗｗ #Shorts 【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=HiVnxVzgZs4
-DURATION:PT2H
-DTSTART:20230426T080013Z
-SUMMARY:博衣こより: 上目遣いでおねだりしたら車のエンジン音のモノマネって言われたｗｗｗ #Shorts 【博衣こより/ホロライブ】
-UID:HiVnxVzgZs4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Rust / スト鯖】健全なRust【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=oxbycHoKqCQ
-DURATION:PT2H
-DTSTART:20230426T170000Z
-SUMMARY:🏮夏色まつり: 【 Rust / スト鯖】健全なRust【ホロライブ/夏色まつり】
-UID:oxbycHoKqCQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:キャラメル・デビル #shorts #ホロライブ #ひろがるホロライブ #夜空メル #hololive\nhttps://www.youtube.com/watch?v=RDEHqqDSSHs
-DURATION:PT2H
-DTSTART:20230427T100010Z
-SUMMARY:ホロライブ: キャラメル・デビル #shorts #ホロライブ #ひろがるホロライブ #夜空メル #hololive
-UID:RDEHqqDSSHs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#にじホロぶる団 】古戦場最終日！！！みんな（？）で頑張るしゅばあああああああああああああああああああああああああああ！！！！！！！：Granblue Fantasy【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=GoWTWxl0lWE
-DURATION:PT2H
-DTSTART:20230426T120000Z
-SUMMARY:🚑大空スバル: 【#にじホロぶる団 】古戦場最終日！！！みんな（？）で頑張るしゅばあああああああああああああああああああああああああああ！！！！！！！：Granblue Fantasy【ホロライブ/大空スバル】
-UID:GoWTWxl0lWE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【重大告知！】告知します！！！！！！！！！騙されたと思って見てください！！！！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=eQ19_m0tXEk
-DURATION:PT2H
-DTSTART:20230427T110000Z
-SUMMARY:博衣こより: 【重大告知！】告知します！！！！！！！！！騙されたと思って見てください！！！！！【博衣こより/ホロライブ】
-UID:eQ19_m0tXEk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#あくおか真剣勝負】デートをかけた本気の戦い【湊あくあ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=4cWokwztucQ
-DURATION:PT2H
-DTSTART:20230426T110000Z
-SUMMARY:⚓湊あくあ: 【#あくおか真剣勝負】デートをかけた本気の戦い【湊あくあ/猫又おかゆ】
-UID:4cWokwztucQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 漫画動画 】しらないこと研究会　第六話「めんせつ！」#しらけん【ホロライブ/不知火建設】\nhttps://www.youtube.com/watch?v=pswX7zE1Ppg
-DURATION:PT2H
-DTSTART:20230426T120000Z
-SUMMARY:🔥不知火フレア: 【 漫画動画 】しらないこと研究会　第六話「めんせつ！」#しらけん【ホロライブ/不知火建設】
-UID:pswX7zE1Ppg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【重大告知】ホロライブシティってなんだ？【#ホロライブシティ】\nhttps://www.youtube.com/watch?v=l3DS-EhG-o0
-DURATION:PT2H
-DTSTART:20230428T100000Z
-SUMMARY:ホロライブ: 【重大告知】ホロライブシティってなんだ？【#ホロライブシティ】
-UID:l3DS-EhG-o0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】浦島太郎【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=3q1dOEeyFm0
-DURATION:PT2H
-DTSTART:20230427T100000Z
-SUMMARY:☄星街すいせい: 【Minecraft】浦島太郎【ホロライブ / 星街すいせい】
-UID:3q1dOEeyFm0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:彼女はアレを海賊船だと思っているのら #shorts #ホロぐら #ホロライブ #hololive #姫森ルーナ #宝鐘マリン #獅白ぼたん\nhttps://www.youtube.com/watch?v=TNfYgBKb1pY
-DURATION:PT2H
-DTSTART:20230426T100031Z
-SUMMARY:ホロライブ: 彼女はアレを海賊船だと思っているのら #shorts #ホロぐら #ホロライブ #hololive #姫森ルーナ #宝鐘マリン #獅白ぼたん
-UID:TNfYgBKb1pY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 GTA5 視聴者参加型】全力で●●！新検証企画を実行するにぇ！！！！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=EfPqqg8VxW4
-DURATION:PT2H
-DTSTART:20230427T110000Z
-SUMMARY:🌸さくらみこ: 【 GTA5 視聴者参加型】全力で●●！新検証企画を実行するにぇ！！！！！！！【ホロライブ/さくらみこ】
-UID:EfPqqg8VxW4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GWゲーム大会】スーパーホロライブワールド大抽選会！！！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=EU3KeMNYdyk
@@ -207,11 +53,25 @@ SUMMARY:ホロライブ: 【ホロのこしかけ 22】新年度進捗どうで�
 UID:fbT-D3lSrfo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 お悩み相談室 】五月病をのりこえるんだ…私がついてる…！！【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=vgH5rBGYjtM
+DESCRIPTION:【#shorts 】キセキノセカイ\nhttps://www.youtube.com/watch?v=mhPnfGRA9ic
 DURATION:PT2H
-DTSTART:20230426T130000Z
-SUMMARY:鷹嶺ルイ: 【 お悩み相談室 】五月病をのりこえるんだ…私がついてる…！！【鷹嶺ルイ/ホロライブ】
-UID:vgH5rBGYjtM
+DTSTART:20230427T110026Z
+SUMMARY:🐻ときのそら: 【#shorts 】キセキノセカイ
+UID:mhPnfGRA9ic
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポルカの伝説】二周年となりました。あいや。#shorts\nhttps://www.youtube.com/watch?v=Hn8DJNgNYj8
+DURATION:PT2H
+DTSTART:20230427T013602Z
+SUMMARY:尾丸ポルカ: 【ポルカの伝説】二周年となりました。あいや。#shorts
+UID:Hn8DJNgNYj8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【＃生スバル】マイクラするしゅばあああああああああああああああああああああああああああああああああ！！！！！！/mine craft【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=3zg4RPvuevM
+DURATION:PT2H
+DTSTART:20230427T110000Z
+SUMMARY:🚑大空スバル: 【＃生スバル】マイクラするしゅばあああああああああああああああああああああああああああああああああ！！！！！！/mine craft【ホロライブ/大空スバル】
+UID:3zg4RPvuevM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【A Building Full of Cats】おあよ～ニャン【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=0S0VxKQ0PGE
@@ -228,18 +88,18 @@ SUMMARY:🏮夏色まつり: 【 Rust / スト鯖】では、ギャンブルを�
 UID:Z0WefcR86RM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RUST】スト鯖RUST/注射器ほしい！💉そしてボスだれかいってくれるかな～【 常闇トワ / ホロライブ 】\nhttps://www.youtube.com/watch?v=BN-Wei3f_54
+DESCRIPTION:【Minecraft】ホロ鯖。おかゆんに誘われたので考えながら、とりあえず、ぼっちざ建築【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=mqG4cUeUi6s
 DURATION:PT2H
-DTSTART:20230426T110000Z
-SUMMARY:👾常闇トワ: 【RUST】スト鯖RUST/注射器ほしい！💉そしてボスだれかいってくれるかな～【 常闇トワ / ホロライブ 】
-UID:BN-Wei3f_54
+DTSTART:20230427T140000Z
+SUMMARY:🌽白上フブキ: 【Minecraft】ホロ鯖。おかゆんに誘われたので考えながら、とりあえず、ぼっちざ建築【ホロライブ/白上フブキ】
+UID:mqG4cUeUi6s
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DARK SOULS REMASTERED】完全初見ダークソウル！～鍛冶屋の地下の化け物に玉ねぎを添えて～【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=C7QGmZfuQ28
+DESCRIPTION:【デレステ  ガシャ】渋谷凛、プロデュースさせてくれないか？これが吾輩のアストラルスカイ＿＿ 引けたらその後マルチするぞ！LIVEPARTY🥳【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=_xdBtV2ha9s
 DURATION:PT2H
-DTSTART:20230426T100000Z
-SUMMARY:沙花叉クロヱ: 【DARK SOULS REMASTERED】完全初見ダークソウル！～鍛冶屋の地下の化け物に玉ねぎを添えて～【沙花叉クロヱ/ホロライブ】
-UID:C7QGmZfuQ28
+DTSTART:20230427T100000Z
+SUMMARY:ラプラス: 【デレステ  ガシャ】渋谷凛、プロデュースさせてくれないか？これが吾輩のアストラルスカイ＿＿ 引けたらその後マルチするぞ！LIVEPARTY🥳【ラプラス・ダークネス/ホロライブ】
+UID:_xdBtV2ha9s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】夜更かしマイクラ！！内装がないそうです。【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=k0s0b81MaBc
@@ -270,11 +130,25 @@ SUMMARY:🌲大神ミオ: 【マイクラ】どろ建設に貢献したい。い
 UID:CW8aXJF-tZE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ぷちお披露目】●●●がついに来た!?!?!どきどきお披露目✨【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=P7orTl7kvEg
+DESCRIPTION:【突然ポル対談】さくらみこさんいらっしゃいませ【尾丸ポルカ/さくらみこ/ホロライブ】\nhttps://www.youtube.com/watch?v=x3ZNTaJgVlk
 DURATION:PT2H
-DTSTART:20230426T130000Z
-SUMMARY:🍙猫又おかゆ: 【ぷちお披露目】●●●がついに来た!?!?!どきどきお披露目✨【猫又おかゆ/ホロライブ】
-UID:P7orTl7kvEg
+DTSTART:20230427T150000Z
+SUMMARY:尾丸ポルカ: 【突然ポル対談】さくらみこさんいらっしゃいませ【尾丸ポルカ/さくらみこ/ホロライブ】
+UID:x3ZNTaJgVlk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】#ホロドロケイ 牢屋制作！✨ゲーム詳細情報解禁あり！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=IMM5ODZa9yA
+DURATION:PT2H
+DTSTART:20230427T130000Z
+SUMMARY:風真いろは: 【Minecraft】#ホロドロケイ 牢屋制作！✨ゲーム詳細情報解禁あり！【風真いろは/ホロライブ】
+UID:IMM5ODZa9yA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポルカの伝説】ポルカの伝説、三年目。\nhttps://www.youtube.com/watch?v=ww9SQFm3L7Y
+DURATION:PT2H
+DTSTART:20230427T100000Z
+SUMMARY:尾丸ポルカ: 【ポルカの伝説】ポルカの伝説、三年目。
+UID:ww9SQFm3L7Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #アナザーエデン6周年 】アナザーエデンのメインストーリーを実況プレイ！＃02【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=yWse-epAlUA
@@ -284,38 +158,31 @@ SUMMARY:雪花ラミィ: 【 #アナザーエデン6周年 】アナザーエデ
 UID:yWse-epAlUA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MONSTER HUNTER RISE:SUNBREAK】乙ったら脱ぐアプデ狩り🔥アマツマガツチ＆傀異克服シャガルマガラにご挨拶！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=H_gUf9tTQ8c
+DESCRIPTION:【 Rust / スト鯖】健全なRust【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=oxbycHoKqCQ
 DURATION:PT2H
-DTSTART:20230426T100000Z
-SUMMARY:博衣こより: 【MONSTER HUNTER RISE:SUNBREAK】乙ったら脱ぐアプデ狩り🔥アマツマガツチ＆傀異克服シャガルマガラにご挨拶！【博衣こより/ホロライブ】
-UID:H_gUf9tTQ8c
+DTSTART:20230426T170000Z
+SUMMARY:🏮夏色まつり: 【 Rust / スト鯖】健全なRust【ホロライブ/夏色まつり】
+UID:oxbycHoKqCQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【＃３/ネタバレあり】ロックマンエグゼ3 BLACK【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=QcuoyV0u-_c
+DESCRIPTION:キャラメル・デビル #shorts #ホロライブ #ひろがるホロライブ #夜空メル #hololive\nhttps://www.youtube.com/watch?v=RDEHqqDSSHs
 DURATION:PT2H
-DTSTART:20230426T120000Z
-SUMMARY:🌽白上フブキ: 【＃３/ネタバレあり】ロックマンエグゼ3 BLACK【ホロライブ/白上フブキ】
-UID:QcuoyV0u-_c
+DTSTART:20230427T100010Z
+SUMMARY:ホロライブ: キャラメル・デビル #shorts #ホロライブ #ひろがるホロライブ #夜空メル #hololive
+UID:RDEHqqDSSHs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ﾐ.............................【ホロライブ/宝鐘マリン】#shorts\nhttps://www.youtube.com/watch?v=FmDM2RnwlzI
+DESCRIPTION:【重大告知！】告知します！！！！！！！！！騙されたと思って見てください！！！！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=eQ19_m0tXEk
 DURATION:PT2H
-DTSTART:20230426T095046Z
-SUMMARY:🏴☠宝鐘マリン: ﾐ.............................【ホロライブ/宝鐘マリン】#shorts
-UID:FmDM2RnwlzI
+DTSTART:20230427T110000Z
+SUMMARY:博衣こより: 【重大告知！】告知します！！！！！！！！！騙されたと思って見てください！！！！！【博衣こより/ホロライブ】
+UID:eQ19_m0tXEk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Melatonin】睡眠導入にもピッタリ？！癒しリズムゲーム！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=FgMrHBqVpFw
+DESCRIPTION:【重大告知】ホロライブシティってなんだ？【#ホロライブシティ】\nhttps://www.youtube.com/watch?v=l3DS-EhG-o0
 DURATION:PT2H
-DTSTART:20230426T140000Z
-SUMMARY:🐏角巻わため: 【Melatonin】睡眠導入にもピッタリ？！癒しリズムゲーム！！！【角巻わため/ホロライブ４期生】
-UID:FgMrHBqVpFw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PICO PARK】 #不知火建設 で遊ぶぞー！🔥🎪🌸☄⚔【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=3OSIJNsf-Aw
-DURATION:PT2H
-DTSTART:20230426T110000Z
-SUMMARY:🔥不知火フレア: 【PICO PARK】 #不知火建設 で遊ぶぞー！🔥🎪🌸☄⚔【不知火フレア/ホロライブ】
-UID:3OSIJNsf-Aw
+DTSTART:20230428T100000Z
+SUMMARY:ホロライブ: 【重大告知】ホロライブシティってなんだ？【#ホロライブシティ】
+UID:l3DS-EhG-o0
 END:VEVENT
 END:VCALENDAR

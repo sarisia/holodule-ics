@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:〘FRIDAY STREAM〙 tbd~\nhttps://www.youtube.com/watch?v=YElFSiCpWw4
+DURATION:PT2H
+DTSTART:20230428T210500Z
+SUMMARY:Amelia: 〘FRIDAY STREAM〙 tbd~
+UID:YElFSiCpWw4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Valkyrie Connect】What A Deal\nhttps://www.youtube.com/watch?v=ISBKVLUM77A
 DURATION:PT2H
 DTSTART:20230427T210000Z
@@ -25,13 +32,6 @@ SUMMARY:Ina: 【DRAWING】 The Completely Miscellaneous Doodling Stream
 UID:W-LRNcwVV10
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Live Again / end of a life - Mori Calliope [NEW UNDERWORLD ORDER]\nhttps://www.youtube.com/watch?v=legdkMwLklA
-DURATION:PT2H
-DTSTART:20230427T000000Z
-SUMMARY:Calli: Live Again / end of a life - Mori Calliope [NEW UNDERWORLD ORDER]
-UID:legdkMwLklA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【One Hand Clapping】I Can Make Your Hands Clap | END\nhttps://www.youtube.com/watch?v=SUHom3AzNH0
 DURATION:PT2H
 DTSTART:20230427T010500Z
@@ -39,25 +39,11 @@ SUMMARY:Kronii: 【One Hand Clapping】I Can Make Your Hands Clap | END
 UID:SUHom3AzNH0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Q Remastered】Brain. Hort. Pls. Help. #kfp #キアライブ\nhttps://www.youtube.com/watch?v=tkNxeoWTb1s
+DESCRIPTION:Live Again / end of a life - Mori Calliope [NEW UNDERWORLD ORDER]\nhttps://www.youtube.com/watch?v=legdkMwLklA
 DURATION:PT2H
-DTSTART:20230425T170000Z
-SUMMARY:Kiara: 【Q Remastered】Brain. Hort. Pls. Help. #kfp #キアライブ
-UID:tkNxeoWTb1s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】Early Bird Get The Work Done!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=6I-nwfxtlqA
-DURATION:PT2H
-DTSTART:20230426T110000Z
-SUMMARY:Kiara: 【MINECRAFT】Early Bird Get The Work Done!! #kfp #キアライブ
-UID:6I-nwfxtlqA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【UNBOXING】the holy grail of all collector's items\nhttps://www.youtube.com/watch?v=x1XjgSSTVGY
-DURATION:PT2H
-DTSTART:20230427T013021Z
-SUMMARY:Calli: 【UNBOXING】the holy grail of all collector's items
-UID:x1XjgSSTVGY
+DTSTART:20230427T000000Z
+SUMMARY:Calli: Live Again / end of a life - Mori Calliope [NEW UNDERWORLD ORDER]
+UID:legdkMwLklA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪JUST CHATTING≫ SHE HAS FLED\nhttps://www.youtube.com/watch?v=kK4JPwHmCBw
@@ -81,11 +67,11 @@ SUMMARY:Amelia: ✧ MEMBERS ✧ 🧠brain storm time
 UID:04PdvrIizG0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SUPER MARIO BROS. U DELUXE】 WAHOOOOO\nhttps://www.youtube.com/watch?v=kjrJtKt470k
+DESCRIPTION:【UNBOXING】the holy grail of all collector's items\nhttps://www.youtube.com/watch?v=x1XjgSSTVGY
 DURATION:PT2H
-DTSTART:20230425T200000Z
-SUMMARY:Ina: 【SUPER MARIO BROS. U DELUXE】 WAHOOOOO
-UID:kjrJtKt470k
+DTSTART:20230427T013021Z
+SUMMARY:Calli: 【UNBOXING】the holy grail of all collector's items
+UID:x1XjgSSTVGY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【KU100 ASMR】 Comfy ASMR for you! ♡ Ear cleaning\, heartbeats for sleep & relaxation ♡\nhttps://www.youtube.com/watch?v=oD3WKMmqUAk
@@ -93,12 +79,5 @@ DURATION:PT2H
 DTSTART:20230427T062810Z
 SUMMARY:Fauna: 【KU100 ASMR】 Comfy ASMR for you! ♡ Ear cleaning\, heartbeats for sleep & relaxation ♡
 UID:oD3WKMmqUAk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【JUMP KING】ghost babe\nhttps://www.youtube.com/watch?v=dPLkKw1itwQ
-DURATION:PT2H
-DTSTART:20230426T065655Z
-SUMMARY:Calli: 【JUMP KING】ghost babe
-UID:dPLkKw1itwQ
 END:VEVENT
 END:VCALENDAR

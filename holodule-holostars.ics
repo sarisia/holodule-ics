@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Rust】明日で終わりらしいぞ  / アステル\nhttps://www.youtube.com/watch?v=4uL0j_tPprw
+DURATION:PT2H
+DTSTART:20230427T140000Z
+SUMMARY:🎭アステル・レダ: 【Rust】明日で終わりらしいぞ  / アステル
+UID:4uL0j_tPprw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【マリカ】レート2567~ 4月の目標は3500!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=5cm15ddhKpw
 DURATION:PT2H
 DTSTART:20230427T141000Z
@@ -11,11 +18,11 @@ SUMMARY:🌺花咲みやび: 【マリカ】レート2567~ 4月の目標は3500!
 UID:5cm15ddhKpw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【サーモンラン】最　強　構　成！【スプラトゥーン3】【夜十神封魔/UPROAR!!】\nhttps://www.youtube.com/watch?v=Sh0kwHUQon8
+DESCRIPTION:【Apex Legends】 月火水！出陣【律可/天月/鱗水スイ/ホロスターズ】#渋ハルカスタム\nhttps://www.youtube.com/watch?v=A1_jXb9QGFY
 DURATION:PT2H
-DTSTART:20230426T074500Z
-SUMMARY:夜十神封魔: 【サーモンラン】最　強　構　成！【スプラトゥーン3】【夜十神封魔/UPROAR!!】
-UID:Sh0kwHUQon8
+DTSTART:20230427T110000Z
+SUMMARY:⚙律可: 【Apex Legends】 月火水！出陣【律可/天月/鱗水スイ/ホロスターズ】#渋ハルカスタム
+UID:A1_jXb9QGFY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RUST】初心者パリピ漫画家のスト鯖7日目！明日で終わりらしいからラストスパート【#緋崎ガンマ / #ホロスターズ / #vtuber 】\nhttps://www.youtube.com/watch?v=f0SGlAgzAVY
@@ -25,11 +32,11 @@ SUMMARY:緋崎ガンマ: 【RUST】初心者パリピ漫画家のスト鯖7日�
 UID:f0SGlAgzAVY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【耐久枠 #ディスまつり 】夏色まつりが化学の大学入試問題解けるまで終われない配信【夏色まつり/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=4FD47sjznd0
+DESCRIPTION:【雑談】お休みおわったゼ【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=U65XaTKUzck
 DURATION:PT2H
-DTSTART:20230426T120000Z
-SUMMARY:🍕アルランディス: 【耐久枠 #ディスまつり 】夏色まつりが化学の大学入試問題解けるまで終われない配信【夏色まつり/アルランディス/ホロスターズ】
-UID:4FD47sjznd0
+DTSTART:20230427T130000Z
+SUMMARY:荒咬オウガ: 【雑談】お休みおわったゼ【荒咬オウガ/ホロスターズ】
+UID:U65XaTKUzck
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】ちょっとしたブレイキング  / アステル\nhttps://www.youtube.com/watch?v=s896i7GFzQg
@@ -39,11 +46,25 @@ SUMMARY:🎭アステル・レダ: 【雑談】ちょっとしたブレイキン
 UID:s896i7GFzQg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【VALORANT】#放課後アップロー 初ゲスト！ w/奏手イヅル 夜十神封魔 羽継烏有 緋崎ガンマ【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=CKnpFL63U1c
+DURATION:PT2H
+DTSTART:20230429T090000Z
+SUMMARY:水無世燐央: 【VALORANT】#放課後アップロー 初ゲスト！ w/奏手イヅル 夜十神封魔 羽継烏有 緋崎ガンマ【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】
+UID:CKnpFL63U1c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:すごい量のダイヤモンド鉱石を掘り当てる豪運 #shorts #minecraft #vtuber #アルランディス\nhttps://www.youtube.com/watch?v=5r9fXnEjJlQ
 DURATION:PT2H
 DTSTART:20230427T030001Z
 SUMMARY:🍕アルランディス: すごい量のダイヤモンド鉱石を掘り当てる豪運 #shorts #minecraft #vtuber #アルランディス
 UID:5r9fXnEjJlQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #DJARN 】ひっさびさのぉ！DJ！YEAH！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=j6uHv5WPSis
+DURATION:PT2H
+DTSTART:20230427T040000Z
+SUMMARY:🍕アルランディス: 【 #DJARN 】ひっさびさのぉ！DJ！YEAH！【アルランディス/ホロスターズ】
+UID:j6uHv5WPSis
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#花岸れいでぃお】木曜日にやる花岸れいでぃおは一味違うぜ！【岸堂天真/花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=VbNF_GUDSo8
@@ -58,82 +79,5 @@ DURATION:PT2H
 DTSTART:20230426T184500Z
 SUMMARY:羽継烏有: 【DBD】朝活！！健康生活スタート！！【#羽継烏有 /#アップロー /#holostars 】
 UID:IoswJpnUrzU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【モンスターハンターライズ：サンブレイク】AMATUUUUUUUUUUUUUUUUUUUU【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=VxUulvno-tk
-DURATION:PT2H
-DTSTART:20230426T140000Z
-SUMMARY:影山シエン: 【モンスターハンターライズ：サンブレイク】AMATUUUUUUUUUUUUUUUUUUUU【影山シエン/ホロスターズ】
-UID:VxUulvno-tk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】初心者パリピ漫画家のスト鯖6日目！イラスト依頼進めるぞ！！【#緋崎ガンマ / #ホロスターズ / #vtuber 】\nhttps://www.youtube.com/watch?v=o5ii2vFBC7I
-DURATION:PT2H
-DTSTART:20230426T110000Z
-SUMMARY:緋崎ガンマ: 【RUST】初心者パリピ漫画家のスト鯖6日目！イラスト依頼進めるぞ！！【#緋崎ガンマ / #ホロスターズ / #vtuber 】
-UID:o5ii2vFBC7I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Rust】ぼすめぐり  / アステル\nhttps://www.youtube.com/watch?v=oGejvT5yW2k
-DURATION:PT2H
-DTSTART:20230425T230000Z
-SUMMARY:🎭アステル・レダ: 【Rust】ぼすめぐり  / アステル
-UID:oGejvT5yW2k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Rust】明日で終わりらしいぞ  / アステル\nhttps://www.youtube.com/watch?v=4uL0j_tPprw
-DURATION:PT2H
-DTSTART:20230427T140000Z
-SUMMARY:🎭アステル・レダ: 【Rust】明日で終わりらしいぞ  / アステル
-UID:4uL0j_tPprw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Rust】ぼすめぐり  / アステル\nhttps://www.youtube.com/watch?v=HO4DtdhfPVY
-DURATION:PT2H
-DTSTART:20230426T141500Z
-SUMMARY:🎭アステル・レダ: 【Rust】ぼすめぐり  / アステル
-UID:HO4DtdhfPVY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】お休みおわったゼ【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=U65XaTKUzck
-DURATION:PT2H
-DTSTART:20230427T130000Z
-SUMMARY:荒咬オウガ: 【雑談】お休みおわったゼ【荒咬オウガ/ホロスターズ】
-UID:U65XaTKUzck
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUSTスト鯖】一　攫　千　金　（予定）【  水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=6UNYiEVP9t4
-DURATION:PT2H
-DTSTART:20230426T120000Z
-SUMMARY:水無世燐央: 【RUSTスト鯖】一　攫　千　金　（予定）【  水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】
-UID:6UNYiEVP9t4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #DJARN 】ひっさびさのぉ！DJ！YEAH！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=j6uHv5WPSis
-DURATION:PT2H
-DTSTART:20230427T040000Z
-SUMMARY:🍕アルランディス: 【 #DJARN 】ひっさびさのぉ！DJ！YEAH！【アルランディス/ホロスターズ】
-UID:j6uHv5WPSis
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:３Dライブで命ばっかり 歌ってみた / ぬゆり『covered by 律可』#shorts\nhttps://www.youtube.com/watch?v=MszuofwTcEw
-DURATION:PT2H
-DTSTART:20230426T125258Z
-SUMMARY:⚙律可: ３Dライブで命ばっかり 歌ってみた / ぬゆり『covered by 律可』#shorts
-UID:MszuofwTcEw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX Legends】つどいしメンズ / アステル レイド 渋谷ハル\nhttps://www.youtube.com/watch?v=A453BO4Fsfw
-DURATION:PT2H
-DTSTART:20230426T110000Z
-SUMMARY:🎭アステル・レダ: 【APEX Legends】つどいしメンズ / アステル レイド 渋谷ハル
-UID:A453BO4Fsfw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:再翻訳した有名文庫本がカオスすぎる件 #shorts #アルランディス #再翻訳\nhttps://www.youtube.com/watch?v=tNvt8hbaU6g
-DURATION:PT2H
-DTSTART:20230426T030031Z
-SUMMARY:🍕アルランディス: 再翻訳した有名文庫本がカオスすぎる件 #shorts #アルランディス #再翻訳
-UID:tNvt8hbaU6g
 END:VEVENT
 END:VCALENDAR
