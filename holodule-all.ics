@@ -186,18 +186,18 @@ SUMMARY:Bettel: [CS:GO] RANKED CLIMB STARTS NOW! w/ Altare #gavisbettel #holotem
 UID:KHy5oIh57yg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【VALORANT】#放課後アップロー 初ゲスト！ w/奏手イヅル 夜十神封魔 羽継烏有 緋崎ガンマ【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=CKnpFL63U1c
-DURATION:PT2H
-DTSTART:20230429T090000Z
-SUMMARY:水無世燐央: 【VALORANT】#放課後アップロー 初ゲスト！ w/奏手イヅル 夜十神封魔 羽継烏有 緋崎ガンマ【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】
-UID:CKnpFL63U1c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【カラオケ歌枠】近況報告＆噂のカラオケアプリで【奏手イヅル】\nhttps://www.youtube.com/watch?v=ePglwy4m_Ho
 DURATION:PT2H
 DTSTART:20230428T120000Z
 SUMMARY:🎸奏手イヅル: 【カラオケ歌枠】近況報告＆噂のカラオケアプリで【奏手イヅル】
 UID:ePglwy4m_Ho
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VALORANT】#放課後アップロー 初ゲスト！ w/奏手イヅル 夜十神封魔 羽継烏有 緋崎ガンマ【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=CKnpFL63U1c
+DURATION:PT2H
+DTSTART:20230429T090000Z
+SUMMARY:水無世燐央: 【VALORANT】#放課後アップロー 初ゲスト！ w/奏手イヅル 夜十神封魔 羽継烏有 緋崎ガンマ【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】
+UID:CKnpFL63U1c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【＃ホロドロケイ】マイクラにて逃走中！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=xukzarJOHfM
@@ -277,10 +277,10 @@ SUMMARY:🎭アステル・レダ: 【Rust】RUSTロスに震えろ  / アステ
 UID:ADjdDrau23U
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【】【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=-5OCkK_yIDc
+DESCRIPTION:【歌枠】カラオケアプリで歌っちゃうマリンでした【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=-5OCkK_yIDc
 DURATION:PT2H
 DTSTART:20230429T090000Z
-SUMMARY:🏴☠宝鐘マリン: 【】【ホロライブ/宝鐘マリン】
+SUMMARY:🏴☠宝鐘マリン: 【歌枠】カラオケアプリで歌っちゃうマリンでした【ホロライブ/宝鐘マリン】
 UID:-5OCkK_yIDc
 END:VEVENT
 BEGIN:VEVENT
@@ -415,6 +415,13 @@ DURATION:PT2H
 DTSTART:20230428T220000Z
 SUMMARY:Fauna: 【DREDGE】 Something isn't right about these waters... (FINALE)
 UID:KiGsWBF19RY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:〘YOSHI'S ISLAND〙🥚 Endurance~ Play till END\nhttps://www.youtube.com/watch?v=YElFSiCpWw4
+DURATION:PT2H
+DTSTART:20230428T210500Z
+SUMMARY:Amelia: 〘YOSHI'S ISLAND〙🥚 Endurance~ Play till END
+UID:YElFSiCpWw4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #ホロドロケイ 】ハンターだぁ…。ホークアイで先輩達を逮捕します。【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=RSlNiqntxWg
@@ -681,6 +688,13 @@ DURATION:PT2H
 DTSTART:20230428T113000Z
 SUMMARY:Syrios: 【VCR RUST】ラスト。【LAST DAY】
 UID:amC-TgffWIw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:お絵描き心理テストで僕が素晴らしい人間だと証明する。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=x5hgCcxeOVY
+DURATION:PT2H
+DTSTART:20230429T071500Z
+SUMMARY:🦔💨岸堂天真: お絵描き心理テストで僕が素晴らしい人間だと証明する。【岸堂天真/ホロスターズ】
+UID:x5hgCcxeOVY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ホラー】Eng sub　深夜トーク&ホラー朗読　三話前編【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=Nbg0BSIp5wQ
