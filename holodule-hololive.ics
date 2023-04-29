@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:深夜のゆるふわカラオケまったりのやつ【ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=xtLk1_7Dxkc
+DURATION:PT2H
+DTSTART:20230429T140000Z
+SUMMARY:🌲大神ミオ: 深夜のゆるふわカラオケまったりのやつ【ホロライブ/大神ミオ】
+UID:xtLk1_7Dxkc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【スーパーマリオメーカー2】GWマリオ大会！へたっぴマリオ脱却のため早速練習するよ～！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=4OQ2OqdWv-s
 DURATION:PT2H
 DTSTART:20230428T100000Z
@@ -53,13 +60,6 @@ SUMMARY:ホロライブ: INTERNET YAMERO踊ってみた #ホロライブ #尾丸
 UID:U0WC5c8oPyk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロドロケイ】ドロボウですが無罪です。【ホロライブ / 星街すいせい】\nhttps://www.youtube.com/watch?v=sC2Ybfav5lQ
-DURATION:PT2H
-DTSTART:20230429T110000Z
-SUMMARY:☄星街すいせい: 【#ホロドロケイ】ドロボウですが無罪です。【ホロライブ / 星街すいせい】
-UID:sC2Ybfav5lQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 Rust / スト鯖】全財産でボイスリクエストする【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=UfkDjdxVp04
 DURATION:PT2H
 DTSTART:20230428T123000Z
@@ -67,18 +67,18 @@ SUMMARY:🏮夏色まつり: 【 Rust / スト鯖】全財産でボイスリク�
 UID:UfkDjdxVp04
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】逃がさないよ♡透明化で囚人をお掃除します！#ホロドロケイ【沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=eS5mwskZL8g
-DURATION:PT2H
-DTSTART:20230429T110000Z
-SUMMARY:沙花叉クロヱ: 【Minecraft】逃がさないよ♡透明化で囚人をお掃除します！#ホロドロケイ【沙花叉クロヱ/ホロライブ】
-UID:eS5mwskZL8g
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 #ホロドロケイ 】ハンターだぁ…。ホークアイで先輩達を逮捕します。【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=RSlNiqntxWg
 DURATION:PT2H
 DTSTART:20230429T110000Z
 SUMMARY:鷹嶺ルイ: 【 #ホロドロケイ 】ハンターだぁ…。ホークアイで先輩達を逮捕します。【鷹嶺ルイ/ホロライブ】
 UID:RSlNiqntxWg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【＃ホロドロケイ】ドロケイするしゅばあああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=q-nfWrq_nhw
+DURATION:PT2H
+DTSTART:20230429T110000Z
+SUMMARY:🚑大空スバル: 【＃ホロドロケイ】ドロケイするしゅばあああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】
+UID:q-nfWrq_nhw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【突然ポル対談】さくらみこさんいらっしゃいませ【尾丸ポルカ/さくらみこ/ホロライブ】\nhttps://www.youtube.com/watch?v=x3ZNTaJgVlk
@@ -123,6 +123,13 @@ SUMMARY:🍬姫森ルーナ: 【 #なのらいぶ 】天国か地獄か。クリ
 UID:VAs6kgUHYLw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 #ホロドロケイ 】エリート逃走中！！にぇ～～～～！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=Jv8CKtDfvAM
+DURATION:PT2H
+DTSTART:20230429T110000Z
+SUMMARY:🌸さくらみこ: 【 #ホロドロケイ 】エリート逃走中！！にぇ～～～～！！！！【ホロライブ/さくらみこ】
+UID:Jv8CKtDfvAM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【クリア耐久】ド★初見！スーパーワギャンランド２あそぶ！！【SFC】\nhttps://www.youtube.com/watch?v=BDg0pfskmo0
 DURATION:PT2H
 DTSTART:20230429T120000Z
@@ -165,6 +172,27 @@ SUMMARY:雪花ラミィ: 【Minecraft】#ホロドロケイ 最強の泥棒に�
 UID:aPYtOLIgois
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【＃最終回】テイルズオブシンフォニアするしゅばああああああああああああああああああああああああああ！！！！！！/ Tales of Symphonia Chronicles【ホロライブ/大空ス バル】\nhttps://www.youtube.com/watch?v=YisP4zQR_co
+DURATION:PT2H
+DTSTART:20230430T040000Z
+SUMMARY:🚑大空スバル: 【＃最終回】テイルズオブシンフォニアするしゅばああああああああああああああああああああああああああ！！！！！！/ Tales of Symphonia Chronicles【ホロライブ/大空ス バル】
+UID:YisP4zQR_co
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #ホロドロケイ 】holoXの上に立ってるのは誰か忘れた・・・カナ？【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=a6QKQ0MsjV0
+DURATION:PT2H
+DTSTART:20230429T110000Z
+SUMMARY:👾常闇トワ: 【 #ホロドロケイ 】holoXの上に立ってるのは誰か忘れた・・・カナ？【常闇トワ/ホロライブ】
+UID:a6QKQ0MsjV0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #ホロドロケイ後夜祭 】集まれるメンバーで後夜祭じゃい！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=bmYMFh-0xG0
+DURATION:PT2H
+DTSTART:20230429T140000Z
+SUMMARY:🌽白上フブキ: 【 #ホロドロケイ後夜祭 】集まれるメンバーで後夜祭じゃい！【ホロライブ/白上フブキ】
+UID:bmYMFh-0xG0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【VALORANT】目指せ汗修行 SOLO D1💎～\nhttps://www.youtube.com/watch?v=aXq6Wkz__dQ
 DURATION:PT2H
 DTSTART:20230428T131500Z
@@ -186,11 +214,11 @@ SUMMARY:🌽白上フブキ: 【Minecraft】泥棒建設の会社に入社しま
 UID:TYQmxOLheos
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ミオちゃんと一緒に！泥棒建設マップアートだッ!!【 #泥棒建設 /ホロライブ】\nhttps://www.youtube.com/watch?v=ErJvRoNp01o
+DESCRIPTION:【＃ホロドロケイ】マイクラにて逃走中！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=xukzarJOHfM
 DURATION:PT2H
-DTSTART:20230430T100000Z
-SUMMARY:🍙猫又おかゆ: 【Minecraft】ミオちゃんと一緒に！泥棒建設マップアートだッ!!【 #泥棒建設 /ホロライブ】
-UID:ErJvRoNp01o
+DTSTART:20230429T110000Z
+SUMMARY:👯兎田ぺこら: 【＃ホロドロケイ】マイクラにて逃走中！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:xukzarJOHfM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】今日は色々やる！明日はホロドロケイ ！！！（倉庫整理以外【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=rNZ9YKYHDUg
@@ -221,11 +249,25 @@ SUMMARY:💫天音かなた: 【DARK SOULS III】#03 呪術師、岩吐きのか
 UID:hlFVcLFUfQw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】ミオちゃんと一緒に！泥棒建設マップアートだッ!!【 #泥棒建設 /ホロライブ】\nhttps://www.youtube.com/watch?v=ErJvRoNp01o
+DURATION:PT2H
+DTSTART:20230430T100000Z
+SUMMARY:🍙猫又おかゆ: 【Minecraft】ミオちゃんと一緒に！泥棒建設マップアートだッ!!【 #泥棒建設 /ホロライブ】
+UID:ErJvRoNp01o
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】夜更かしマイクラ！！内装がないそうです。【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=k0s0b81MaBc
 DURATION:PT2H
 DTSTART:20230427T150000Z
 SUMMARY:🌙紫咲シオン: 【Minecraft】夜更かしマイクラ！！内装がないそうです。【ホロライブ/紫咲シオン】
 UID:k0s0b81MaBc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #ホロドロケイ 】HoloX、知っているか、キツネは50km/hで走る【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=zS0OsKp03lE
+DURATION:PT2H
+DTSTART:20230429T110000Z
+SUMMARY:🌽白上フブキ: 【 #ホロドロケイ 】HoloX、知っているか、キツネは50km/hで走る【ホロライブ/白上フブキ】
+UID:zS0OsKp03lE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【深夜ラジオ】鷹嶺ルイのミッドナイトラジオ #11 【鷹嶺ルイ/ホロライブ】#ルイのミッドナイトラジオ\nhttps://www.youtube.com/watch?v=6lxSgmi3M1w
@@ -261,6 +303,13 @@ DURATION:PT2H
 DTSTART:20230429T130000Z
 SUMMARY:⚓湊あくあ: 【Minecraft】いっちょ地下もぐりますか！！！【湊あくあ/ホロライブ】
 UID:U12gD0IQBII
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #ホロドロケイ 】holoXからの挑戦状‼ホロライブみんなで鬼ごっこ - 本配信【 Minecraft/ホロライブ 】\nhttps://www.youtube.com/watch?v=ybOdi7no2jY
+DURATION:PT2H
+DTSTART:20230429T110000Z
+SUMMARY:風真いろは: 【 #ホロドロケイ 】holoXからの挑戦状‼ホロライブみんなで鬼ごっこ - 本配信【 Minecraft/ホロライブ 】
+UID:ybOdi7no2jY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 天皇賞(春) 】競馬ガチ勢…今回は絶対に勝つ。春よこい。【/鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=S0zCtBx-Vjs
