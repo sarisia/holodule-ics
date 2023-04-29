@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【 #ホロドロケイ 】おつかれさまでした✨まだまだ遊び足りない！後夜祭でござる！！【 Minecraft/ホロライブ 】\nhttps://www.youtube.com/watch?v=zqEXeKBOMuM
+DURATION:PT2H
+DTSTART:20230429T140000Z
+SUMMARY:風真いろは: 【 #ホロドロケイ 】おつかれさまでした✨まだまだ遊び足りない！後夜祭でござる！！【 Minecraft/ホロライブ 】
+UID:zqEXeKBOMuM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:深夜のゆるふわカラオケまったりのやつ【ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=xtLk1_7Dxkc
 DURATION:PT2H
 DTSTART:20230429T140000Z
@@ -30,13 +37,6 @@ DURATION:PT2H
 DTSTART:20230429T110000Z
 SUMMARY:🏮夏色まつり: 【 #ホロドロケイ 】君の心を盗みます♡【ホロライブ/夏色まつり】
 UID:h1pKWbqLwjk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【月末メンゲンASMR】はやめのおつかれ4月おそめの月末\nhttps://www.youtube.com/watch?v=g6ma--eaIDc
-DURATION:PT2H
-DTSTART:20230429T140000Z
-SUMMARY:尾丸ポルカ: 【月末メンゲンASMR】はやめのおつかれ4月おそめの月末
-UID:g6ma--eaIDc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【お悩み解決】ライブに向けてねぽらぼが悩みを解決するそうです【#ねぽらぼに願いを】\nhttps://www.youtube.com/watch?v=ChjB-b_MPcY
@@ -100,6 +100,13 @@ DURATION:PT2H
 DTSTART:20230429T103045Z
 SUMMARY:🌙紫咲シオン: オトメロディー歌ってみた🐰※Fullは概要欄から【ホロライブ/紫咲シオン】 #shorts
 UID:7qMFONZIPD8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:イナちゃんとカニバリズム...？！！？！【角巻わためのHave a nice day】#はばない\nhttps://www.youtube.com/watch?v=qKdU4PjbvPw
+DURATION:PT2H
+DTSTART:20230430T100000Z
+SUMMARY:🐏角巻わため: イナちゃんとカニバリズム...？！！？！【角巻わためのHave a nice day】#はばない
+UID:qKdU4PjbvPw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活雑談】サンデーマッスル～！！！GWだ～ッッ！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=9bDZahPZpyI
