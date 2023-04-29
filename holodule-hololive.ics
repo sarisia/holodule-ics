@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 #ホロドロケイ 】おつかれさまでした✨まだまだ遊び足りない！後夜祭でござる！！【 Minecraft/ホロライブ 】\nhttps://www.youtube.com/watch?v=zqEXeKBOMuM
-DURATION:PT2H
-DTSTART:20230429T140000Z
-SUMMARY:風真いろは: 【 #ホロドロケイ 】おつかれさまでした✨まだまだ遊び足りない！後夜祭でござる！！【 Minecraft/ホロライブ 】
-UID:zqEXeKBOMuM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:深夜のゆるふわカラオケまったりのやつ【ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=xtLk1_7Dxkc
 DURATION:PT2H
 DTSTART:20230429T140000Z
@@ -18,11 +11,11 @@ SUMMARY:🌲大神ミオ: 深夜のゆるふわカラオケまったりのやつ
 UID:xtLk1_7Dxkc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【月末メンゲンASMR】はやめのおつかれ4月おそめの月末\nhttps://www.youtube.com/watch?v=g6ma--eaIDc
+DESCRIPTION:【Minecraft】#ホロドロケイ ケイサツ視点🔥能力はランダム発動⁉運は味方してくれるのか～！？【博衣こより視点/ホロライブ】\nhttps://www.youtube.com/watch?v=_sMbFefsskk
 DURATION:PT2H
-DTSTART:20230429T140000Z
-SUMMARY:尾丸ポルカ: 【月末メンゲンASMR】はやめのおつかれ4月おそめの月末
-UID:g6ma--eaIDc
+DTSTART:20230429T110000Z
+SUMMARY:博衣こより: 【Minecraft】#ホロドロケイ ケイサツ視点🔥能力はランダム発動⁉運は味方してくれるのか～！？【博衣こより視点/ホロライブ】
+UID:_sMbFefsskk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロ畜生】突発コラボ！！朝ごはんだよ🎵Overcooked! 2【ホロライブ/白上フブキ/角巻わため】\nhttps://www.youtube.com/watch?v=0vxpzZp6kdY
@@ -37,6 +30,13 @@ DURATION:PT2H
 DTSTART:20230429T110000Z
 SUMMARY:🏮夏色まつり: 【 #ホロドロケイ 】君の心を盗みます♡【ホロライブ/夏色まつり】
 UID:h1pKWbqLwjk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【月末メンゲンASMR】はやめのおつかれ4月おそめの月末\nhttps://www.youtube.com/watch?v=g6ma--eaIDc
+DURATION:PT2H
+DTSTART:20230429T140000Z
+SUMMARY:尾丸ポルカ: 【月末メンゲンASMR】はやめのおつかれ4月おそめの月末
+UID:g6ma--eaIDc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【お悩み解決】ライブに向けてねぽらぼが悩みを解決するそうです【#ねぽらぼに願いを】\nhttps://www.youtube.com/watch?v=ChjB-b_MPcY
