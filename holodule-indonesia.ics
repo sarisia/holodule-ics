@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Phasmophobia】a short stream since i need to grind the level to 1000【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=IHse7JwQLIg
+DURATION:PT2H
+DTSTART:20230430T150000Z
+SUMMARY:Kaela: 【Phasmophobia】a short stream since i need to grind the level to 1000【Kaela Kovalskia / hololiveID】
+UID:IHse7JwQLIg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【プロセカ Project Sekai】Testing Event Runs on Stream?【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=AO7rzibnwfE
 DURATION:PT2H
 DTSTART:20230502T003000Z
@@ -11,25 +18,11 @@ SUMMARY:Anya: 【プロセカ Project Sekai】Testing Event Runs on Stream?【ho
 UID:AO7rzibnwfE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Bejeweled 3】a very cool 2010 game【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=fRF5NTjDpYs
-DURATION:PT2H
-DTSTART:20230501T150000Z
-SUMMARY:Kaela: 【Bejeweled 3】a very cool 2010 game【Kaela Kovalskia / hololiveID】
-UID:fRF5NTjDpYs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:HOW TO DRAW THIGHS ( AGAIN )【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=TXFne0Y2baQ
 DURATION:PT2H
 DTSTART:20230501T130000Z
 SUMMARY:🎨Iofi: HOW TO DRAW THIGHS ( AGAIN )【 iofi / hololiveID 】
 UID:TXFne0Y2baQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARCHIVED KARAOKE】SKIPPING MY HOMEWORK~♡【Hololive Indonesia 2nd Generation】\nhttps://www.youtube.com/watch?v=MmSjlkeaenY
-DURATION:PT2H
-DTSTART:20230501T144437Z
-SUMMARY:Ollie: 【ARCHIVED KARAOKE】SKIPPING MY HOMEWORK~♡【Hololive Indonesia 2nd Generation】
-UID:MmSjlkeaenY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Free Talk & Donation Reading】 ENGLISH ONLY??? REAL???\nhttps://www.youtube.com/watch?v=-jfucpU2ZJ4
@@ -60,10 +53,10 @@ SUMMARY:🐿Risu: Gold Block
 UID:8JLQiMFe7vw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Phasmophobia】a short stream since i need to grind the level to 1000【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=IHse7JwQLIg
+DESCRIPTION:【Bejeweled 3】a very cool 2010 game【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=fRF5NTjDpYs
 DURATION:PT2H
-DTSTART:20230430T150000Z
-SUMMARY:Kaela: 【Phasmophobia】a short stream since i need to grind the level to 1000【Kaela Kovalskia / hololiveID】
-UID:IHse7JwQLIg
+DTSTART:20230501T150000Z
+SUMMARY:Kaela: 【Bejeweled 3】a very cool 2010 game【Kaela Kovalskia / hololiveID】
+UID:fRF5NTjDpYs
 END:VEVENT
 END:VCALENDAR
