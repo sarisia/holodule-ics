@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【朝活】4月、最後の配信🌸100人におはよう言う【夜十神封魔/UPROAR!!】\nhttps://www.youtube.com/watch?v=XD0Bi67BdHE
-DURATION:PT2H
-DTSTART:20230429T230000Z
-SUMMARY:夜十神封魔: 【朝活】4月、最後の配信🌸100人におはよう言う【夜十神封魔/UPROAR!!】
-UID:XD0Bi67BdHE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【イラスト】スト鯖で出会ったハセシンさんをフルパワーで描いてみる！【#緋崎ガンマ / #ホロスターズ / #vtuber 】\nhttps://www.youtube.com/watch?v=GUElQs9dpBg
 DURATION:PT2H
 DTSTART:20230501T070000Z
@@ -18,11 +11,11 @@ SUMMARY:緋崎ガンマ: 【イラスト】スト鯖で出会ったハセシン�
 UID:GUElQs9dpBg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#アステルコードX】妖異に通じる者 / アステル 夜十神封魔\nhttps://www.youtube.com/watch?v=LBllCfx_bn8
+DESCRIPTION:【朝活】4月、最後の配信🌸100人におはよう言う【夜十神封魔/UPROAR!!】\nhttps://www.youtube.com/watch?v=XD0Bi67BdHE
 DURATION:PT2H
-DTSTART:20230430T113440Z
-SUMMARY:🎭アステル・レダ: 【#アステルコードX】妖異に通じる者 / アステル 夜十神封魔
-UID:LBllCfx_bn8
+DTSTART:20230429T230000Z
+SUMMARY:夜十神封魔: 【朝活】4月、最後の配信🌸100人におはよう言う【夜十神封魔/UPROAR!!】
+UID:XD0Bi67BdHE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】ホロスタオンリー歌枠、やっちゃうかぁ！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=CVe8jMAZCRE
@@ -30,6 +23,13 @@ DURATION:PT2H
 DTSTART:20230430T143000Z
 SUMMARY:🦔💨岸堂天真: 【歌枠】ホロスタオンリー歌枠、やっちゃうかぁ！！【岸堂天真/ホロスターズ】
 UID:CVe8jMAZCRE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#アステルコードX】妖異に通じる者 / アステル 夜十神封魔\nhttps://www.youtube.com/watch?v=LBllCfx_bn8
+DURATION:PT2H
+DTSTART:20230430T113440Z
+SUMMARY:🎭アステル・レダ: 【#アステルコードX】妖異に通じる者 / アステル 夜十神封魔
+UID:LBllCfx_bn8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#荒咬オウガ3周年】荒咬オウガ三周年　マグロを捌き、寿司を握る【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=1HGJlP8LeLc
@@ -51,6 +51,13 @@ DURATION:PT2H
 DTSTART:20230430T070026Z
 SUMMARY:🦔💨岸堂天真: 【Love is】一般騎士見習いが歌ってみた
 UID:esMD2THWqZk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マリカ】レート20320~ 5月の目標は21250!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=eB8hYIcix6s
+DURATION:PT2H
+DTSTART:20230501T043000Z
+SUMMARY:🦔💨岸堂天真: 【マリカ】レート20320~ 5月の目標は21250!!【岸堂天真/ホロスターズ】
+UID:eB8hYIcix6s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】第12回スタックダイヤでラージチェストを埋めてしまう会【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Xva22DYXxOE
