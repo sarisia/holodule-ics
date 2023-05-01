@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Mario Maker 2】Challenging the EXTREME PRACTICE COURSE\nhttps://www.youtube.com/watch?v=nLWbzC4_sQ4
+DURATION:PT2H
+DTSTART:20230501T030000Z
+SUMMARY:IRyS: 【Mario Maker 2】Challenging the EXTREME PRACTICE COURSE
+UID:nLWbzC4_sQ4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【CHOO CHOO CHARLES】smooch the horror train\nhttps://www.youtube.com/watch?v=yM_S8NBMn_c
 DURATION:PT2H
 DTSTART:20230501T210000Z
@@ -13,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PASSPARTOUT 2】Paintflix and Chill #kfp #キアライブ\nhttps://www.youtube.com/watch?v=MEwYoE4ebs4
 DURATION:PT2H
-DTSTART:20230501T160000Z
+DTSTART:20230501T163000Z
 SUMMARY:Kiara: 【PASSPARTOUT 2】Paintflix and Chill #kfp #キアライブ
 UID:MEwYoE4ebs4
 END:VEVENT
@@ -32,10 +39,10 @@ SUMMARY:Amelia: 〘OW2〙(҂‾ ▵‾)︻デ═一 (˚▽˚'!)/ WAKE UP ...lazy
 UID:G-1cQpRFZyU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Mario Maker 2】Challenging the EXTREME PRACTICE COURSE\nhttps://www.youtube.com/watch?v=nLWbzC4_sQ4
+DESCRIPTION:【MINECRAFT COLLAB】treasure hunt!! with @NinomaeInanis @KaelaKovalskia\nhttps://www.youtube.com/watch?v=QsSh_Lscb6o
 DURATION:PT2H
-DTSTART:20230501T030000Z
-SUMMARY:IRyS: 【Mario Maker 2】Challenging the EXTREME PRACTICE COURSE
-UID:nLWbzC4_sQ4
+DTSTART:20230502T020000Z
+SUMMARY:Calli: 【MINECRAFT COLLAB】treasure hunt!! with @NinomaeInanis @KaelaKovalskia
+UID:QsSh_Lscb6o
 END:VEVENT
 END:VCALENDAR
