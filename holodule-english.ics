@@ -4,18 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Mario Maker 2】Challenging the EXTREME PRACTICE COURSE\nhttps://www.youtube.com/watch?v=nLWbzC4_sQ4
+DESCRIPTION:【MEGA MAN BATTLE NETWORK LEGACY COLLECTION】Diving into the Battle Network!! #sponsored\nhttps://www.youtube.com/watch?v=SKdvpc97NEc
 DURATION:PT2H
-DTSTART:20230501T030000Z
-SUMMARY:IRyS: 【Mario Maker 2】Challenging the EXTREME PRACTICE COURSE
-UID:nLWbzC4_sQ4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CHOO CHOO CHARLES】smooch the horror train\nhttps://www.youtube.com/watch?v=yM_S8NBMn_c
-DURATION:PT2H
-DTSTART:20230501T210000Z
-SUMMARY:Calli: 【CHOO CHOO CHARLES】smooch the horror train
-UID:yM_S8NBMn_c
+DTSTART:20230502T030000Z
+SUMMARY:IRyS: 【MEGA MAN BATTLE NETWORK LEGACY COLLECTION】Diving into the Battle Network!! #sponsored
+UID:SKdvpc97NEc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪JUST CHATTING≫ we need to talk\nhttps://www.youtube.com/watch?v=gQwaMUOy8pg
@@ -25,11 +18,11 @@ SUMMARY:Baelz: ≪JUST CHATTING≫ we need to talk
 UID:gQwaMUOy8pg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【PASSPARTOUT 2】Paintflix and Chill #kfp #キアライブ\nhttps://www.youtube.com/watch?v=MEwYoE4ebs4
+DESCRIPTION:〘OW2〙(҂‾ ▵‾)︻デ═一 (˚▽˚'!)/ WAKE UP ...lazy sunday gaming\nhttps://www.youtube.com/watch?v=G-1cQpRFZyU
 DURATION:PT2H
-DTSTART:20230501T163000Z
-SUMMARY:Kiara: 【PASSPARTOUT 2】Paintflix and Chill #kfp #キアライブ
-UID:MEwYoE4ebs4
+DTSTART:20230430T211000Z
+SUMMARY:Amelia: 〘OW2〙(҂‾ ▵‾)︻デ═一 (˚▽˚'!)/ WAKE UP ...lazy sunday gaming
+UID:G-1cQpRFZyU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【KFP 101】Ep. 04: The Usual Room\nhttps://www.youtube.com/watch?v=R4dP43JGjs8
@@ -39,17 +32,31 @@ SUMMARY:Kiara: 【KFP 101】Ep. 04: The Usual Room
 UID:R4dP43JGjs8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:〘OW2〙(҂‾ ▵‾)︻デ═一 (˚▽˚'!)/ WAKE UP ...lazy sunday gaming\nhttps://www.youtube.com/watch?v=G-1cQpRFZyU
-DURATION:PT2H
-DTSTART:20230430T211000Z
-SUMMARY:Amelia: 〘OW2〙(҂‾ ▵‾)︻デ═一 (˚▽˚'!)/ WAKE UP ...lazy sunday gaming
-UID:G-1cQpRFZyU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT COLLAB】treasure hunt!! with @NinomaeInanis @KaelaKovalskia\nhttps://www.youtube.com/watch?v=QsSh_Lscb6o
 DURATION:PT2H
 DTSTART:20230502T020000Z
 SUMMARY:Calli: 【MINECRAFT COLLAB】treasure hunt!! with @NinomaeInanis @KaelaKovalskia
 UID:QsSh_Lscb6o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PASSPARTOUT 2】Paintflix and Chill #kfp #キアライブ\nhttps://www.youtube.com/watch?v=MEwYoE4ebs4
+DURATION:PT2H
+DTSTART:20230501T163000Z
+SUMMARY:Kiara: 【PASSPARTOUT 2】Paintflix and Chill #kfp #キアライブ
+UID:MEwYoE4ebs4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CHOO CHOO CHARLES】smooch the horror train\nhttps://www.youtube.com/watch?v=yM_S8NBMn_c
+DURATION:PT2H
+DTSTART:20230501T210000Z
+SUMMARY:Calli: 【CHOO CHOO CHARLES】smooch the horror train
+UID:yM_S8NBMn_c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Mario Maker 2】Challenging the EXTREME PRACTICE COURSE\nhttps://www.youtube.com/watch?v=nLWbzC4_sQ4
+DURATION:PT2H
+DTSTART:20230501T030000Z
+SUMMARY:IRyS: 【Mario Maker 2】Challenging the EXTREME PRACTICE COURSE
+UID:nLWbzC4_sQ4
 END:VEVENT
 END:VCALENDAR
