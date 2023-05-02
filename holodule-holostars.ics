@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Melatonin】うるせえパリピが睡眠導入ゲームでリスナーを寝かしつける🤟【#緋崎ガンマ / #ホロスターズ / #vtuber 】\nhttps://www.youtube.com/watch?v=vWLz0vajpz4
+DURATION:PT2H
+DTSTART:20230503T140000Z
+SUMMARY:緋崎ガンマ: 【Melatonin】うるせえパリピが睡眠導入ゲームでリスナーを寝かしつける🤟【#緋崎ガンマ / #ホロスターズ / #vtuber 】
+UID:vWLz0vajpz4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【SMALLAND】小人になって昆虫世界を冒険するゲーム【岸堂天真/ゆるスタり隊/ホロスターズ】\nhttps://www.youtube.com/watch?v=jan7ImZ-QTk
 DURATION:PT2H
 DTSTART:20230502T143000Z
@@ -74,17 +81,10 @@ SUMMARY:夜十神封魔: 【食レポ】実食します。DECOTTO by animatecafe
 UID:-yhclf3M1zE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Smalland Survive the Wilds】ゆるスタり隊再集結！今度は小さくなって大冒険！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=cmKj-GVsRPc
+DESCRIPTION:【歌枠 / Karaoke 】睡眠導入歌枠  / アステル\nhttps://www.youtube.com/watch?v=HxLDyInBj60
 DURATION:PT2H
-DTSTART:20230502T143000Z
-SUMMARY:🍕アルランディス: 【Smalland Survive the Wilds】ゆるスタり隊再集結！今度は小さくなって大冒険！【アルランディス/ホロスターズ】
-UID:cmKj-GVsRPc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Melatonin】うるせえパリピが睡眠導入ゲームでリスナーを寝かしつける🤟【#緋崎ガンマ / #ホロスターズ / #vtuber 】\nhttps://www.youtube.com/watch?v=vWLz0vajpz4
-DURATION:PT2H
-DTSTART:20230503T140000Z
-SUMMARY:緋崎ガンマ: 【Melatonin】うるせえパリピが睡眠導入ゲームでリスナーを寝かしつける🤟【#緋崎ガンマ / #ホロスターズ / #vtuber 】
-UID:vWLz0vajpz4
+DTSTART:20230502T153000Z
+SUMMARY:🎭アステル・レダ: 【歌枠 / Karaoke 】睡眠導入歌枠  / アステル
+UID:HxLDyInBj60
 END:VEVENT
 END:VCALENDAR
