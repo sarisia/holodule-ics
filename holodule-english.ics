@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ORIGINAL MV】PSYCHO || HAKOS BAELZ\nhttps://www.youtube.com/watch?v=xnX8Lk-iSCo
+DURATION:PT2H
+DTSTART:20230505T010000Z
+SUMMARY:Baelz: 【ORIGINAL MV】PSYCHO || HAKOS BAELZ
+UID:xnX8Lk-iSCo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【SPOOKY'S JUMPSCARE MANSION】reaper fears nothing\nhttps://www.youtube.com/watch?v=u1XsFFjsokg
 DURATION:PT2H
 DTSTART:20230504T015851Z
@@ -18,17 +25,17 @@ SUMMARY:IRyS: 【SSBU】ENDURANCE UNTIL I BEAT 5 OF YOU (or until 8 hours in)
 UID:dPFFRo-66dA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【acapella】no talk\, only sing\nhttps://www.youtube.com/watch?v=ko8Jq6nGvm0
-DURATION:PT2H
-DTSTART:20230502T225927Z
-SUMMARY:Calli: 【acapella】no talk\, only sing
-UID:ko8Jq6nGvm0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MOM COLLAB】Card Games and Blu-ray release celebration with mama mori!!!\nhttps://www.youtube.com/watch?v=41iitHtG8ho
 DURATION:PT2H
 DTSTART:20230503T020000Z
 SUMMARY:Calli: 【MOM COLLAB】Card Games and Blu-ray release celebration with mama mori!!!
 UID:41iitHtG8ho
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【acapella】no talk\, only sing\nhttps://www.youtube.com/watch?v=ko8Jq6nGvm0
+DURATION:PT2H
+DTSTART:20230502T225927Z
+SUMMARY:Calli: 【acapella】no talk\, only sing
+UID:ko8Jq6nGvm0
 END:VEVENT
 END:VCALENDAR
