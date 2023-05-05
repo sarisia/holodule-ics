@@ -4,18 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【KARAOKE 歌枠 】750K subscribers peafowl :D!! thumbnail in progress【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=m3Mev_9BYDg
+DESCRIPTION:【BEJEWELED 3】peafowl mama favorite game【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=DXvvWJuRkyA
 DURATION:PT2H
-DTSTART:20230504T131500Z
-SUMMARY:Reine: 【KARAOKE 歌枠 】750K subscribers peafowl :D!! thumbnail in progress【Pavolia Reine/hololiveID 2nd gen】
-UID:m3Mev_9BYDg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#RisOllie】HEWRO HIHIHIHI【Ayunda Risu】\nhttps://www.youtube.com/watch?v=wFtJcPOHDBw
-DURATION:PT2H
-DTSTART:20230504T023000Z
-SUMMARY:🐿Risu: 【#RisOllie】HEWRO HIHIHIHI【Ayunda Risu】
-UID:wFtJcPOHDBw
+DTSTART:20230505T070000Z
+SUMMARY:Reine: 【BEJEWELED 3】peafowl mama favorite game【Pavolia Reine/hololiveID 2nd gen】
+UID:DXvvWJuRkyA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】#3 dedication #KaelaNB69【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=rNTHMl2YQgM
@@ -32,13 +25,6 @@ SUMMARY:Anya: 【プロセカ Project Sekai】New Banner... And Chipping at Even
 UID:zeodDtAhjT0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ETS 2】THIS IS NOT YOUR ORDINARY TRUCKER ! #NEWEXPERIENCE【Ayunda Risu】\nhttps://www.youtube.com/watch?v=ecCWG-qgvHA
-DURATION:PT2H
-DTSTART:20230505T060000Z
-SUMMARY:🐿Risu: 【ETS 2】THIS IS NOT YOUR ORDINARY TRUCKER ! #NEWEXPERIENCE【Ayunda Risu】
-UID:ecCWG-qgvHA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【The Mageseeker: A League of Legends Story™】#3 UPGRADES【ElaOnDuty】\nhttps://www.youtube.com/watch?v=TqNotFPK8LA
 DURATION:PT2H
 DTSTART:20230504T133000Z
@@ -46,10 +32,31 @@ SUMMARY:Kaela: 【The Mageseeker: A League of Legends Story™】#3 UPGRADES【E
 UID:TqNotFPK8LA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【KARAOKE 歌枠 】750K subscribers peafowl :D!! thumbnail in progress【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=m3Mev_9BYDg
+DURATION:PT2H
+DTSTART:20230504T131500Z
+SUMMARY:Reine: 【KARAOKE 歌枠 】750K subscribers peafowl :D!! thumbnail in progress【Pavolia Reine/hololiveID 2nd gen】
+UID:m3Mev_9BYDg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#RisOllie】HEWRO HIHIHIHI【Ayunda Risu】\nhttps://www.youtube.com/watch?v=wFtJcPOHDBw
+DURATION:PT2H
+DTSTART:20230504T023000Z
+SUMMARY:🐿Risu: 【#RisOllie】HEWRO HIHIHIHI【Ayunda Risu】
+UID:wFtJcPOHDBw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Tetris 99】play together letsgoooooooo【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=OczJcMZ3Hc4
 DURATION:PT2H
 DTSTART:20230504T043000Z
 SUMMARY:Kaela: 【Tetris 99】play together letsgoooooooo【Kaela Kovalskia / hololiveID】
 UID:OczJcMZ3Hc4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ETS 2】THIS IS NOT YOUR ORDINARY TRUCKER ! #NEWEXPERIENCE【Ayunda Risu】\nhttps://www.youtube.com/watch?v=ecCWG-qgvHA
+DURATION:PT2H
+DTSTART:20230505T060000Z
+SUMMARY:🐿Risu: 【ETS 2】THIS IS NOT YOUR ORDINARY TRUCKER ! #NEWEXPERIENCE【Ayunda Risu】
+UID:ecCWG-qgvHA
 END:VEVENT
 END:VCALENDAR
