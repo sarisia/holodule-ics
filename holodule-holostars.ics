@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【雑談】雑談をさせて頂く男【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=YR_k70k6FpE
+DURATION:PT2H
+DTSTART:20230510T080000Z
+SUMMARY:🍷夕刻ロベル: 【雑談】雑談をさせて頂く男【夕刻ロベル/ホロスターズ】
+UID:YR_k70k6FpE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【謎】Vtuberと配信者特有の発作あるある #shorts #vtuber #新人vtuber #ホロスターズ\nhttps://www.youtube.com/watch?v=MYjV5fffryU
 DURATION:PT2H
 DTSTART:20230509T083831Z
 SUMMARY:緋崎ガンマ: 【謎】Vtuberと配信者特有の発作あるある #shorts #vtuber #新人vtuber #ホロスターズ
 UID:MYjV5fffryU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Project Zomboid】めっちゃ好きそうなゾンビゲームみつけてしもた。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=DteEx49VfCw
-DURATION:PT2H
-DTSTART:20230508T155000Z
-SUMMARY:🦔💨岸堂天真: 【Project Zomboid】めっちゃ好きそうなゾンビゲームみつけてしもた。【岸堂天真/ホロスターズ】
-UID:DteEx49VfCw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 誕生日カウントダウン 】明日誕生日なのでみんなで迎えようの枠【#vtuber / #ホロスターズ  #羽継烏有誕生日2023 】\nhttps://www.youtube.com/watch?v=rvkmnWZMWvk
@@ -30,6 +30,13 @@ DURATION:PT2H
 DTSTART:20230509T150000Z
 SUMMARY:🦔💨岸堂天真: 【歌枠】定番の歌を歌うぜ～～【岸堂天真/ホロスターズ】
 UID:RpM-e75WAOQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Project Zomboid】めっちゃ好きそうなゾンビゲームみつけてしもた。【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=DteEx49VfCw
+DURATION:PT2H
+DTSTART:20230508T155000Z
+SUMMARY:🦔💨岸堂天真: 【Project Zomboid】めっちゃ好きそうなゾンビゲームみつけてしもた。【岸堂天真/ホロスターズ】
+UID:DteEx49VfCw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:３Dライブでオリジナル曲の3104を歌った /  律可#shorts\nhttps://www.youtube.com/watch?v=myVen59ADuc
@@ -95,18 +102,18 @@ SUMMARY:🌺花咲みやび: 【あつまれ どうぶつの森】1年と5カ月
 UID:H0J4m_CpcqI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX】4ヶ月ぶりのランク【夜十神封魔/UPROAR!!】\nhttps://www.youtube.com/watch?v=j2rhNbbX2dU
-DURATION:PT2H
-DTSTART:20230509T040000Z
-SUMMARY:夜十神封魔: 【APEX】4ヶ月ぶりのランク【夜十神封魔/UPROAR!!】
-UID:j2rhNbbX2dU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Coffee Talk Episode 2: Hibiscus & Butterfly】珈琲を入れ話をする2【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=H9yhDFNuEic
 DURATION:PT2H
 DTSTART:20230509T130000Z
 SUMMARY:荒咬オウガ: 【Coffee Talk Episode 2: Hibiscus & Butterfly】珈琲を入れ話をする2【荒咬オウガ/ホロスターズ】
 UID:H9yhDFNuEic
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】4ヶ月ぶりのランク【夜十神封魔/UPROAR!!】\nhttps://www.youtube.com/watch?v=j2rhNbbX2dU
+DURATION:PT2H
+DTSTART:20230509T040000Z
+SUMMARY:夜十神封魔: 【APEX】4ヶ月ぶりのランク【夜十神封魔/UPROAR!!】
+UID:j2rhNbbX2dU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠 / Karaoke 】１時間だけの歌  / アステル\nhttps://www.youtube.com/watch?v=a3hqP8s408Q
@@ -121,5 +128,12 @@ DURATION:PT2H
 DTSTART:20230509T171500Z
 SUMMARY:⚙律可: 【Apex Legends】天月くんとじょじょおじさんと開幕ランクする【律可/ホロスターズ】/w天月、じょじょおじ #りつすた
 UID:Ynw9MeH1DTc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】シーズン17開幕！色々変わったらしいので遊んでみます【影山シエン/ホロスターズ 】\nhttps://www.youtube.com/watch?v=Byb7nYL547E
+DURATION:PT2H
+DTSTART:20230510T050000Z
+SUMMARY:影山シエン: 【APEX】シーズン17開幕！色々変わったらしいので遊んでみます【影山シエン/ホロスターズ 】
+UID:Byb7nYL547E
 END:VEVENT
 END:VCALENDAR
