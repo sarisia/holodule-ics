@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【hololiveId】FREE TALK + Walking but not outside (?)【Ayunda Risu】\nhttps://www.youtube.com/watch?v=7WBnu8yiVl0
+DURATION:PT2H
+DTSTART:20230511T090000Z
+SUMMARY:🐿Risu: 【hololiveId】FREE TALK + Walking but not outside (?)【Ayunda Risu】
+UID:7WBnu8yiVl0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Fishing Paradiso】we chillin we fishin【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=-BDh7uKDcJE
 DURATION:PT2H
 DTSTART:20230510T130000Z
@@ -39,18 +46,18 @@ SUMMARY:Zeta: 【A Building Full of Cats】FIND THE CAT...?!
 UID:4iqF47QQlw8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】NEED A HAND BESTIE?? //Helping Iofi-senpai w/ her UFO!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=ImQ24jP45uE
-DURATION:PT2H
-DTSTART:20230510T121041Z
-SUMMARY:Ollie: 【MINECRAFT】NEED A HAND BESTIE?? //Helping Iofi-senpai w/ her UFO!!【Hololive Indonesia 2nd Gen】
-UID:ImQ24jP45uE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX LEGENDS】AT THE TRAINING GROUNDS WITH @natooji & @rprxx 【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=CmSpsyASXrE
 DURATION:PT2H
 DTSTART:20230511T110004Z
 SUMMARY:Ollie: 【APEX LEGENDS】AT THE TRAINING GROUNDS WITH @natooji & @rprxx 【Hololive ID 2nd Generation】
 UID:CmSpsyASXrE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】NEED A HAND BESTIE?? //Helping Iofi-senpai w/ her UFO!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=ImQ24jP45uE
+DURATION:PT2H
+DTSTART:20230510T121041Z
+SUMMARY:Ollie: 【MINECRAFT】NEED A HAND BESTIE?? //Helping Iofi-senpai w/ her UFO!!【Hololive Indonesia 2nd Gen】
+UID:ImQ24jP45uE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FREETALK + DONO READ】NO\, I HAVEN'T SHOWERED【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=rX8MFlKYwOI
