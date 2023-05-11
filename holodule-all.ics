@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 World of Warcraft 】Sigma Forsaken Grindset\nhttps://www.youtube.com/watch?v=SEBnI7lp1es
-DURATION:PT2H
-DTSTART:20230510T203000Z
-SUMMARY:Vesper: 【 World of Warcraft 】Sigma Forsaken Grindset
-UID:SEBnI7lp1es
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#1【ゼルダの伝説ティアーズオブザキングダム】最新作最速プレイ！アクションへたっぴによる初心者ゼルダ！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=PQ5Z55tWF6k
 DURATION:PT2H
 DTSTART:20230511T145000Z
@@ -72,6 +65,13 @@ DURATION:PT2H
 DTSTART:20230511T010000Z
 SUMMARY:Shinri: weh【Zatsu】
 UID:30udjOPzWBo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【＃生スバル】ホロの格ゲーするしゅばあああああああああああああああああああああああああ！！！！！！：Idol showdown【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=Yyr7nWnneRA
+DURATION:PT2H
+DTSTART:20230511T130000Z
+SUMMARY:🚑大空スバル: 【＃生スバル】ホロの格ゲーするしゅばあああああああああああああああああああああああああ！！！！！！：Idol showdown【ホロライブ/大空スバル】
+UID:Yyr7nWnneRA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Smalland Survive the Wilds】バッタが一番いい #ゆるスタり隊【花咲みやび/奏手イヅル/岸堂天真/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=--Ta5f5h4Nk
@@ -284,11 +284,11 @@ SUMMARY:獅白ぼたん: 【Green Hell】昨日のリベンジをするべく我
 UID:POWT6dBFeZQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:〘Friday〙STREAM TBD~\nhttps://www.youtube.com/watch?v=maodNXK_zxM
+DESCRIPTION:【Mario Party Superstars】3 Girls. 1 CPU. A Party.【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=RnwEecr0qi4
 DURATION:PT2H
-DTSTART:20230513T000500Z
-SUMMARY:Amelia: 〘Friday〙STREAM TBD~
-UID:maodNXK_zxM
+DTSTART:20230511T140000Z
+SUMMARY:Anya: 【Mario Party Superstars】3 Girls. 1 CPU. A Party.【hololive ID 2nd Generation | Anya Melfissa】
+UID:RnwEecr0qi4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ZATSUDAN】I HAVE RETURNED\, MY LITTLE MAGS\nhttps://www.youtube.com/watch?v=T_k3UqL_xak
@@ -310,6 +310,13 @@ DURATION:PT2H
 DTSTART:20230511T054519Z
 SUMMARY:尾丸ポルカ: 【ポルカの伝説】1回目から余裕だったけどね、この企画　#shorts
 UID:6v7Es7V37Xg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:〘Friday〙STREAM TBD~\nhttps://www.youtube.com/watch?v=maodNXK_zxM
+DURATION:PT2H
+DTSTART:20230513T000500Z
+SUMMARY:Amelia: 〘Friday〙STREAM TBD~
+UID:maodNXK_zxM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Smalland: Survive the Wilds】ヤモリ以外のペットが欲しいです…【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=I6VmBhunGcQ
@@ -494,11 +501,11 @@ SUMMARY:⚙律可: 【Apex Legends】脱☆カスタム番長again～帰って�
 UID:uPJfMJEdhDw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【同時視聴/メン限】「ジョゼと虎と魚たち」いっしょにみよ～！！！Watchalong【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=yibbQ0qP89A
+DESCRIPTION:【 World of Warcraft 】Sigma Forsaken Grindset\nhttps://www.youtube.com/watch?v=SEBnI7lp1es
 DURATION:PT2H
-DTSTART:20230511T130000Z
-SUMMARY:🌟夜空メル: 【同時視聴/メン限】「ジョゼと虎と魚たち」いっしょにみよ～！！！Watchalong【ホロライブ/夜空メル】
-UID:yibbQ0qP89A
+DTSTART:20230510T203000Z
+SUMMARY:Vesper: 【 World of Warcraft 】Sigma Forsaken Grindset
+UID:SEBnI7lp1es
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マイクラ】社宅の地下に色々作る！チェスト整理もしたい！【 ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=SywExEGZp14
