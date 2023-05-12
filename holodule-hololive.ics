@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Idol Showdown】今日はストーリー見ていくぞ！！【#ときのそら生放送 /ホロライブ】\nhttps://www.youtube.com/watch?v=d1uGUhKIGpo
+DURATION:PT2H
+DTSTART:20230512T120000Z
+SUMMARY:🐻ときのそら: 【Idol Showdown】今日はストーリー見ていくぞ！！【#ときのそら生放送 /ホロライブ】
+UID:d1uGUhKIGpo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Potion Craft】新米錬金術師のはんなりお薬作り #6【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=lXHqiIUO9j4
 DURATION:PT2H
 DTSTART:20230511T130000Z
@@ -137,10 +144,10 @@ SUMMARY:☄星街すいせい: 生き様 / 星街すいせい(Cover)
 UID:z2TBTXYiwvo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MemberOnly】🎬同時視聴 #かなたんロードショー  【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=tMIe_dVtSnA
+DESCRIPTION:【MemberOnly】🎬劇場版名探偵コナン『純黒の悪夢』同時視聴（そんなにうるさくない） #かなたんロードショー  【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=tMIe_dVtSnA
 DURATION:PT2H
 DTSTART:20230512T130000Z
-SUMMARY:💫天音かなた: 【MemberOnly】🎬同時視聴 #かなたんロードショー  【天音かなた/ホロライブ】
+SUMMARY:💫天音かなた: 【MemberOnly】🎬劇場版名探偵コナン『純黒の悪夢』同時視聴（そんなにうるさくない） #かなたんロードショー  【天音かなた/ホロライブ】
 UID:tMIe_dVtSnA
 END:VEVENT
 BEGIN:VEVENT
@@ -156,6 +163,13 @@ DURATION:PT2H
 DTSTART:20230511T130000Z
 SUMMARY:🚑大空スバル: 【＃生スバル】ホロの格ゲーするしゅばあああああああああああああああああああああああああ！！！！！！：Idol showdown【ホロライブ/大空スバル】
 UID:Yyr7nWnneRA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Idol Showdown】ホロファンメイドの格ゲー！！初心者でもボコボコできるかなあ！！【ロボ子さん /ホロライブ】\nhttps://www.youtube.com/watch?v=dLbqzHE-iHA
+DURATION:PT2H
+DTSTART:20230512T090000Z
+SUMMARY:🤖ロボ子さん: 【Idol Showdown】ホロファンメイドの格ゲー！！初心者でもボコボコできるかなあ！！【ロボ子さん /ホロライブ】
+UID:dLbqzHE-iHA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ララララビット #ひろがるホロライブ #hololive #兎田ぺこら #ホロライブ\nhttps://www.youtube.com/watch?v=iZb2jOM-9DQ
