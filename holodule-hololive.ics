@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Idol Showdown】今日はストーリー見ていくぞ！！【#ときのそら生放送 /ホロライブ】\nhttps://www.youtube.com/watch?v=d1uGUhKIGpo
+DURATION:PT2H
+DTSTART:20230512T120000Z
+SUMMARY:🐻ときのそら: 【Idol Showdown】今日はストーリー見ていくぞ！！【#ときのそら生放送 /ホロライブ】
+UID:d1uGUhKIGpo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Potion Craft】新米錬金術師のはんなりお薬作り #6【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=lXHqiIUO9j4
 DURATION:PT2H
 DTSTART:20230511T130000Z
@@ -226,13 +233,6 @@ DURATION:PT2H
 DTSTART:20230511T045100Z
 SUMMARY:ホロライブ: ララララビット #ひろがるホロライブ #hololive #兎田ぺこら #ホロライブ
 UID:iZb2jOM-9DQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【GeoGuessr】そうだ、秘境駅へ行こう！【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=9Lt2Y9LBGKE
-DURATION:PT2H
-DTSTART:20230512T120000Z
-SUMMARY:⚒AZKi: 【GeoGuessr】そうだ、秘境駅へ行こう！【ホロライブ / AZKi】
-UID:9Lt2Y9LBGKE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 The Stanley Parable 】YESマンからの脱却。指示には従わないもの。【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=52qdt5qx5Uw
