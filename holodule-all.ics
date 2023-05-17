@@ -249,18 +249,18 @@ SUMMARY:博衣こより: 【#朝こよ】朝だよ～！火曜日の朝は朝こ
 UID:WHb0LoZPh0g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ゆるホロGFトーナメント】ゴッドフィールドトーナメントの抽選会！【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=IABgu61sbgQ
-DURATION:PT2H
-DTSTART:20230518T110000Z
-SUMMARY:👾常闇トワ: 【#ゆるホロGFトーナメント】ゴッドフィールドトーナメントの抽選会！【常闇トワ/ホロライブ】
-UID:IABgu61sbgQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】異色コラボ感謝します。【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=NCiTCXQ9_O0
 DURATION:PT2H
 DTSTART:20230516T110000Z
 SUMMARY:🏮夏色まつり: 【APEX】異色コラボ感謝します。【ホロライブ/夏色まつり】
 UID:NCiTCXQ9_O0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ゆるホロGFトーナメント】ゴッドフィールドトーナメントの抽選会！【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=IABgu61sbgQ
+DURATION:PT2H
+DTSTART:20230518T110000Z
+SUMMARY:👾常闇トワ: 【#ゆるホロGFトーナメント】ゴッドフィールドトーナメントの抽選会！【常闇トワ/ホロライブ】
+UID:IABgu61sbgQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝雑談】5日ぶりに起きた女【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=C8IuLmqQiDI
@@ -310,6 +310,13 @@ DURATION:PT2H
 DTSTART:20230517T100000Z
 SUMMARY:ラプラス: 吾輩、何してたと思う？久しぶりってやつだな【ラプラス・ダークネス/ホロライブ】
 UID:xVeTm0LPPS0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロライブソセレ大会】ENJOY！！！ホロライブソーセージレジェンド大会【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=uaWlGuBaFEg
+DURATION:PT2H
+DTSTART:20230517T110000Z
+SUMMARY:🚑大空スバル: 【#ホロライブソセレ大会】ENJOY！！！ホロライブソーセージレジェンド大会【ホロライブ/大空スバル】
+UID:uaWlGuBaFEg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:百鬼あやめさんと結婚したい船長【ホロライブ/宝鐘マリン】#shorts\nhttps://www.youtube.com/watch?v=JH5sEeOCDl0
