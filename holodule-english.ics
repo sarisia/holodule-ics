@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:#2【THE LEGEND OF ZELDA: TOTK】After I jump off this floating rock I can be with the princess\, right?\nhttps://www.youtube.com/watch?v=o57Tl_qW9sQ
+DESCRIPTION:[#holoENConnect] Let's Draw hololive English Talents for the Digital Message Board!【A-chan】\nhttps://www.youtube.com/watch?v=QLda1HKAlDU
 DURATION:PT2H
-DTSTART:20230518T010000Z
-SUMMARY:Mumei: #2【THE LEGEND OF ZELDA: TOTK】After I jump off this floating rock I can be with the princess\, right?
-UID:o57Tl_qW9sQ
+DTSTART:20230521T023000Z
+SUMMARY:ENholo: [#holoENConnect] Let's Draw hololive English Talents for the Digital Message Board!【A-chan】
+UID:QLda1HKAlDU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Sugar\, Spice\, and A Little Oopsie #holoEN3DRepeat\nhttps://www.youtube.com/watch?v=LDLW427i4t0
@@ -53,20 +53,6 @@ SUMMARY:Amelia: 〘Friday Stream〙⭐
 UID:TM9oG8fCavY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【BOTW】 So I Ran Out of Apples Last Time.... 【#6】\nhttps://www.youtube.com/watch?v=rlm8VULaZdg
-DURATION:PT2H
-DTSTART:20230517T210000Z
-SUMMARY:Ina: 【BOTW】 So I Ran Out of Apples Last Time.... 【#6】
-UID:rlm8VULaZdg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HOLOYOI || ホロヨイ】EPISODE #03 - Subaru and Botan! Alcohol 0% Version #holoyoi\nhttps://www.youtube.com/watch?v=EatMZc1N3VM
-DURATION:PT2H
-DTSTART:20230518T080000Z
-SUMMARY:Calli: 【HOLOYOI || ホロヨイ】EPISODE #03 - Subaru and Botan! Alcohol 0% Version #holoyoi
-UID:EatMZc1N3VM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:VTuber Fanservice Speedrun Any%\nhttps://www.youtube.com/watch?v=kqmhdtGny6A
 DURATION:PT2H
 DTSTART:20230518T220021Z
@@ -93,5 +79,12 @@ DURATION:PT2H
 DTSTART:20230519T010000Z
 SUMMARY:Baelz: ≪Persona 5 ROYAL≫ burger dad oh no #16【SPOILERS】
 UID:xj0ncW82dUo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:〘Saturday Stream〙🦠\nhttps://www.youtube.com/watch?v=8LwJRk9WO7Y
+DURATION:PT2H
+DTSTART:20230521T000000Z
+SUMMARY:Amelia: 〘Saturday Stream〙🦠
+UID:8LwJRk9WO7Y
 END:VEVENT
 END:VCALENDAR
