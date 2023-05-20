@@ -228,18 +228,18 @@ SUMMARY:博衣こより: 【ゴッドフィールド】大会前に運を爆上�
 UID:mksvehUAJ-Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Outlast Trials】I will outlast everyone\nhttps://www.youtube.com/watch?v=wTHpIkiim0g
-DURATION:PT2H
-DTSTART:20230519T010000Z
-SUMMARY:IRyS: 【Outlast Trials】I will outlast everyone
-UID:wTHpIkiim0g
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【RESIDENT EVIL 4: Remake | SPOILER WARNING】Boss Fight Time? Or...【holoID 2nd Gen | Anya Melfissa】\nhttps://www.youtube.com/watch?v=SEt5vM27jas
 DURATION:PT2H
 DTSTART:20230519T130000Z
 SUMMARY:Anya: 【RESIDENT EVIL 4: Remake | SPOILER WARNING】Boss Fight Time? Or...【holoID 2nd Gen | Anya Melfissa】
 UID:SEt5vM27jas
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Outlast Trials】I will outlast everyone\nhttps://www.youtube.com/watch?v=wTHpIkiim0g
+DURATION:PT2H
+DTSTART:20230519T010000Z
+SUMMARY:IRyS: 【Outlast Trials】I will outlast everyone
+UID:wTHpIkiim0g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ChatGPT】検証実験：AIの言いなりになったらどうなる！？【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=yOeTEQV2N1E
@@ -291,18 +291,18 @@ SUMMARY:ラプラス: 大人気アイドルVtuberの恋愛偏差値は！？ #sh
 UID:bM-UVmFsXrg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Coffee Talk Episode 2】心を繋ぐ、一杯のコーヒーはいかが？ #1【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=-42QCT3_-j4
-DURATION:PT2H
-DTSTART:20230519T144500Z
-SUMMARY:水無世燐央: 【Coffee Talk Episode 2】心を繋ぐ、一杯のコーヒーはいかが？ #1【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】
-UID:-42QCT3_-j4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】いろは工務店に手伝ってもらうぞ～～～！🍃✨【 #にゃんござ /ホロライブ】\nhttps://www.youtube.com/watch?v=APtuygnCWno
 DURATION:PT2H
 DTSTART:20230520T130000Z
 SUMMARY:🍙猫又おかゆ: 【Minecraft】いろは工務店に手伝ってもらうぞ～～～！🍃✨【 #にゃんござ /ホロライブ】
 UID:APtuygnCWno
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Coffee Talk Episode 2】心を繋ぐ、一杯のコーヒーはいかが？ #1【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=-42QCT3_-j4
+DURATION:PT2H
+DTSTART:20230519T144500Z
+SUMMARY:水無世燐央: 【Coffee Talk Episode 2】心を繋ぐ、一杯のコーヒーはいかが？ #1【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】
+UID:-42QCT3_-j4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:絶対敵対メチャキライヤー / 大空スバル × 猫又おかゆ(cover)\nhttps://www.youtube.com/watch?v=FDqUDoOhKoA
@@ -382,18 +382,18 @@ SUMMARY:⚒AZKi: 【GeoGuessr】全国の面白い交差点名！【ホロライ
 UID:efhJ_Vf9TfE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:How To Laugh 😂\nhttps://www.youtube.com/watch?v=IeShHZfATUk
-DURATION:PT2H
-DTSTART:20230519T150000Z
-SUMMARY:Zeta: How To Laugh 😂
-UID:IeShHZfATUk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 ドラクエⅠ 】完全初見。遂に…ドラクエの世界に飛び込むぞ～！！！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=0IcfW-awTsM
 DURATION:PT2H
 DTSTART:20230520T030000Z
 SUMMARY:鷹嶺ルイ: 【 ドラクエⅠ 】完全初見。遂に…ドラクエの世界に飛び込むぞ～！！！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり
 UID:0IcfW-awTsM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:How To Laugh 😂\nhttps://www.youtube.com/watch?v=IeShHZfATUk
+DURATION:PT2H
+DTSTART:20230519T150000Z
+SUMMARY:Zeta: How To Laugh 😂
+UID:IeShHZfATUk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HAKKAFE SPECIAL】YUMBY TIME\, LET'S COOK SOME FETTUCCINE!【Cooking Handcam】\nhttps://www.youtube.com/watch?v=AAtpQKl6Qro
@@ -454,16 +454,9 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TTRPG: GUN】The Dunces of the Dying West (ONE-SHOT SESSION)\nhttps://www.youtube.com/watch?v=liScSTChB8k
 DURATION:PT2H
-DTSTART:20230520T030000Z
+DTSTART:20230520T030112Z
 SUMMARY:Calli: 【TTRPG: GUN】The Dunces of the Dying West (ONE-SHOT SESSION)
 UID:liScSTChB8k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DeadbyDaylight】寝起き悪魔の追いかけっこ【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=G1htm1WZ5-U
-DURATION:PT2H
-DTSTART:20230519T021500Z
-SUMMARY:💋癒月ちょこ: 【DeadbyDaylight】寝起き悪魔の追いかけっこ【ホロライブ/癒月ちょこ】
-UID:G1htm1WZ5-U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】ダイヤチャレンジ：その②【夜十神封魔/UPROAR!!】\nhttps://www.youtube.com/watch?v=8S7Q6wC7stQ
@@ -471,6 +464,13 @@ DURATION:PT2H
 DTSTART:20230519T030000Z
 SUMMARY:夜十神封魔: 【APEX】ダイヤチャレンジ：その②【夜十神封魔/UPROAR!!】
 UID:8S7Q6wC7stQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DeadbyDaylight】寝起き悪魔の追いかけっこ【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=G1htm1WZ5-U
+DURATION:PT2H
+DTSTART:20230519T021500Z
+SUMMARY:💋癒月ちょこ: 【DeadbyDaylight】寝起き悪魔の追いかけっこ【ホロライブ/癒月ちょこ】
+UID:G1htm1WZ5-U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#04【ゼルダの伝説ティアーズオブザキングダム】愛しいゴロン族の×××に会いたい...♡【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=o0vzJhkg1rU
@@ -534,5 +534,12 @@ DURATION:PT2H
 DTSTART:20230520T100000Z
 SUMMARY:羽継烏有: 【 スタ雑 】ホロスターズが集まってお喋りする枠【#vtuber / #羽継烏有 / #ホロスターズ 】
 UID:sfLaEKu8njA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #アナザーエデン6周年 】アナザーエデンのメインストーリーを実況プレイ！＃05【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=JUUhP_wU0IA
+DURATION:PT2H
+DTSTART:20230520T090000Z
+SUMMARY:雪花ラミィ: 【 #アナザーエデン6周年 】アナザーエデンのメインストーリーを実況プレイ！＃05【雪花ラミィ/ホロライブ】
+UID:JUUhP_wU0IA
 END:VEVENT
 END:VCALENDAR
