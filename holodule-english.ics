@@ -4,27 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【POCKET MIRROR】i love cute girls\nhttps://www.youtube.com/watch?v=-X5EGMgqH34
-DURATION:PT2H
-DTSTART:20230523T040000Z
-SUMMARY:Calli: 【POCKET MIRROR】i love cute girls
-UID:-X5EGMgqH34
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】 Kirin is back! Let's work on the tree!\nhttps://www.youtube.com/watch?v=uoMWFIJzEc4
-DURATION:PT2H
-DTSTART:20230523T000000Z
-SUMMARY:Fauna: 【MINECRAFT】 Kirin is back! Let's work on the tree!
-UID:uoMWFIJzEc4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【UNARCHIVED KARAOKE】Singing New Songs!!\nhttps://www.youtube.com/watch?v=jN24y3Lk9K0
-DURATION:PT2H
-DTSTART:20230523T020000Z
-SUMMARY:Calli: 【UNARCHIVED KARAOKE】Singing New Songs!!
-UID:jN24y3Lk9K0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:a universe alone\nhttps://www.youtube.com/watch?v=IGz6C-h5u74
 DURATION:PT2H
 DTSTART:20230521T220005Z
@@ -46,6 +25,13 @@ SUMMARY:Baelz: ≪Peppa Pig: World Adventures≫ I'M PEPPA PIG *SNORTTTTTTTT*
 UID:NKwi817mXV4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【POCKET MIRROR】i love cute girls\nhttps://www.youtube.com/watch?v=-X5EGMgqH34
+DURATION:PT2H
+DTSTART:20230523T040000Z
+SUMMARY:Calli: 【POCKET MIRROR】i love cute girls
+UID:-X5EGMgqH34
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:〘TotK〙 🐸\nhttps://www.youtube.com/watch?v=BNge1aBXBOo
 DURATION:PT2H
 DTSTART:20230521T200500Z
@@ -53,10 +39,17 @@ SUMMARY:Amelia: 〘TotK〙 🐸
 UID:BNge1aBXBOo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【PASSPARTOUT2】painting Hologirls like one of my French girls #kfp #キアライブ\nhttps://www.youtube.com/watch?v=ZZOwj0jlxZI
+DESCRIPTION:【MINECRAFT】 Kirin is back! Let's work on the tree!\nhttps://www.youtube.com/watch?v=uoMWFIJzEc4
 DURATION:PT2H
-DTSTART:20230522T160000Z
-SUMMARY:Kiara: 【PASSPARTOUT2】painting Hologirls like one of my French girls #kfp #キアライブ
-UID:ZZOwj0jlxZI
+DTSTART:20230523T000000Z
+SUMMARY:Fauna: 【MINECRAFT】 Kirin is back! Let's work on the tree!
+UID:uoMWFIJzEc4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【UNARCHIVED KARAOKE】Singing New Songs!!\nhttps://www.youtube.com/watch?v=jN24y3Lk9K0
+DURATION:PT2H
+DTSTART:20230523T020000Z
+SUMMARY:Calli: 【UNARCHIVED KARAOKE】Singing New Songs!!
+UID:jN24y3Lk9K0
 END:VEVENT
 END:VCALENDAR
