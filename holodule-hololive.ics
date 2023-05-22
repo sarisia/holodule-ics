@@ -18,13 +18,6 @@ SUMMARY:🤖ロボ子さん: 【全身３D/ #ロボ子爆誕2023】Glory Days �
 UID:2ISrlJUE08A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【耐久歌枠】80万人目指して歌います！！！！！！Singing Stream【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=pOHilyUpUao
-DURATION:PT2H
-DTSTART:20230522T100000Z
-SUMMARY:⚒AZKi: 【耐久歌枠】80万人目指して歌います！！！！！！Singing Stream【ホロライブ / AZKi】
-UID:pOHilyUpUao
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:超激ムズ早口言葉に一発成功！？ #shorts\nhttps://www.youtube.com/watch?v=slIBkW6zxRQ
 DURATION:PT2H
 DTSTART:20230522T100000Z
@@ -32,10 +25,17 @@ SUMMARY:ラプラス: 超激ムズ早口言葉に一発成功！？ #shorts
 UID:slIBkW6zxRQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:配信予定！【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=YSnlxR1qBNo
+DESCRIPTION:【耐久歌枠】80万人目指して歌います！！！！！！Singing Stream【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=pOHilyUpUao
+DURATION:PT2H
+DTSTART:20230522T100000Z
+SUMMARY:⚒AZKi: 【耐久歌枠】80万人目指して歌います！！！！！！Singing Stream【ホロライブ / AZKi】
+UID:pOHilyUpUao
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Q REMASTERED】IQ５億【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=YSnlxR1qBNo
 DURATION:PT2H
 DTSTART:20230522T110000Z
-SUMMARY:🍎アキロゼ: 配信予定！【アキ・ローゼンタール/ホロライブ】
+SUMMARY:🍎アキロゼ: 【Q REMASTERED】IQ５億【アキ・ローゼンタール/ホロライブ】
 UID:YSnlxR1qBNo
 END:VEVENT
 BEGIN:VEVENT
@@ -74,18 +74,18 @@ SUMMARY:尾丸ポルカ: 【Minecraft/Gold mining】金掘り！！！金が必�
 UID:tiaNSZNVme0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ゴッドフィールド】視聴者相手なら勝てるやろ！！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=VGwbuTWekzw
-DURATION:PT2H
-DTSTART:20230522T090000Z
-SUMMARY:🏮夏色まつり: 【ゴッドフィールド】視聴者相手なら勝てるやろ！！【ホロライブ/夏色まつり】
-UID:VGwbuTWekzw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#6【ゼルダの伝説ティアーズオブザキングダム】たぶんストーリー最終回！！クライマックスいくぞおおおお！！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=ZFHPXrmTHpI
 DURATION:PT2H
 DTSTART:20230521T020000Z
 SUMMARY:博衣こより: #6【ゼルダの伝説ティアーズオブザキングダム】たぶんストーリー最終回！！クライマックスいくぞおおおお！！！【博衣こより/ホロライブ】
 UID:ZFHPXrmTHpI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゼルダの伝説ティアーズオブザキングダム】極寒の地へ向かう【#ときのそら生放送/ホロライブ】\nhttps://www.youtube.com/watch?v=pm-O3L37QNQ
+DURATION:PT2H
+DTSTART:20230522T120000Z
+SUMMARY:🐻ときのそら: 【ゼルダの伝説ティアーズオブザキングダム】極寒の地へ向かう【#ときのそら生放送/ホロライブ】
+UID:pm-O3L37QNQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【誕生日カウントダウン】今日は遂にお誕生日だあああああ！１番早くお祝いしてくれる？【ロボ子さん /ホロライブ】\nhttps://www.youtube.com/watch?v=JtucLDfFq30
@@ -289,6 +289,13 @@ DURATION:PT2H
 DTSTART:20230521T030000Z
 SUMMARY:🥐戌神ころね: 【Gartic Phone】ころね支店【#HoloGarticPhone】
 UID:Qi5pUVdO2iY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【配信予定】ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=1uRdf63c8zM
+DURATION:PT2H
+DTSTART:20230522T120000Z
+SUMMARY:👯兎田ぺこら: 【配信予定】ぺこ！【ホロライブ/兎田ぺこら】
+UID:1uRdf63c8zM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ねっこよTNTランドミニ作る！サムネはかなたんが作ってくれました😂ｗ(背景は足した)【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=JaCYU0Dy6LQ
