@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【PASSPARTOUT2】painting Hologirls like one of my French girls #kfp #キアライブ\nhttps://www.youtube.com/watch?v=ZZOwj0jlxZI
+DESCRIPTION:【POCKET MIRROR】i love cute girls\nhttps://www.youtube.com/watch?v=-X5EGMgqH34
 DURATION:PT2H
-DTSTART:20230522T160000Z
-SUMMARY:Kiara: 【PASSPARTOUT2】painting Hologirls like one of my French girls #kfp #キアライブ
-UID:ZZOwj0jlxZI
+DTSTART:20230523T064234Z
+SUMMARY:Calli: 【POCKET MIRROR】i love cute girls
+UID:-X5EGMgqH34
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】 Kirin is back! Let's work on the tree!\nhttps://www.youtube.com/watch?v=uoMWFIJzEc4
+DURATION:PT2H
+DTSTART:20230523T000000Z
+SUMMARY:Fauna: 【MINECRAFT】 Kirin is back! Let's work on the tree!
+UID:uoMWFIJzEc4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:a universe alone\nhttps://www.youtube.com/watch?v=IGz6C-h5u74
@@ -32,13 +39,6 @@ SUMMARY:Baelz: ≪Peppa Pig: World Adventures≫ I'M PEPPA PIG *SNORTTTTTTTT*
 UID:NKwi817mXV4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【POCKET MIRROR】i love cute girls\nhttps://www.youtube.com/watch?v=-X5EGMgqH34
-DURATION:PT2H
-DTSTART:20230523T064234Z
-SUMMARY:Calli: 【POCKET MIRROR】i love cute girls
-UID:-X5EGMgqH34
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:〘TotK〙 🐸\nhttps://www.youtube.com/watch?v=BNge1aBXBOo
 DURATION:PT2H
 DTSTART:20230521T200500Z
@@ -46,10 +46,17 @@ SUMMARY:Amelia: 〘TotK〙 🐸
 UID:BNge1aBXBOo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】 Kirin is back! Let's work on the tree!\nhttps://www.youtube.com/watch?v=uoMWFIJzEc4
+DESCRIPTION:【PASSPARTOUT2】painting Hologirls like one of my French girls #kfp #キアライブ\nhttps://www.youtube.com/watch?v=ZZOwj0jlxZI
 DURATION:PT2H
-DTSTART:20230523T000000Z
-SUMMARY:Fauna: 【MINECRAFT】 Kirin is back! Let's work on the tree!
-UID:uoMWFIJzEc4
+DTSTART:20230522T160000Z
+SUMMARY:Kiara: 【PASSPARTOUT2】painting Hologirls like one of my French girls #kfp #キアライブ
+UID:ZZOwj0jlxZI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MEMBER'S IDOL SHOWDOWN】labbing with dead beats!!\nhttps://www.youtube.com/watch?v=Ad2CI08Iit0
+DURATION:PT2H
+DTSTART:20230524T030000Z
+SUMMARY:Calli: 【MEMBER'S IDOL SHOWDOWN】labbing with dead beats!!
+UID:Ad2CI08Iit0
 END:VEVENT
 END:VCALENDAR
