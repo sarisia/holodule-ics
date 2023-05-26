@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 #ホロスタRUST 】#5  FINAL LAST RUST【#vtuber / #羽継烏有 / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=8-7_q6r7GHE
-DURATION:PT2H
-DTSTART:20230526T111000Z
-SUMMARY:羽継烏有: 【 #ホロスタRUST 】#5  FINAL LAST RUST【#vtuber / #羽継烏有 / #ホロスターズ 】
-UID:8-7_q6r7GHE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ホロスタRUST】復讐準備 6日目【 #奏手イヅル 】\nhttps://www.youtube.com/watch?v=R_GgZ-ZaJKk
 DURATION:PT2H
 DTSTART:20230525T150000Z
@@ -93,5 +86,12 @@ DURATION:PT2H
 DTSTART:20230526T090000Z
 SUMMARY:⚙律可: 【弾き語り歌枠】ただいまを込めた歌【律可/ホロスターズ】#りつすた
 UID:7shwwJmI518
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #ホロスタRUST】さぁ、戦の時間ぜよ！【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=Dn2gKESyuUs
+DURATION:PT2H
+DTSTART:20230526T152500Z
+SUMMARY:🌺花咲みやび: 【 #ホロスタRUST】さぁ、戦の時間ぜよ！【花咲みやび/ホロスターズ】
+UID:Dn2gKESyuUs
 END:VEVENT
 END:VCALENDAR
