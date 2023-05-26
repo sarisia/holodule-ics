@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:配信予定地\nhttps://www.youtube.com/watch?v=bjrUNzZNPlU
+DURATION:PT2H
+DTSTART:20230527T080000Z
+SUMMARY:ラプラス: 配信予定地
+UID:bjrUNzZNPlU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#shorts 】新衣装でウキウキなロボ子さん\nhttps://www.youtube.com/watch?v=6IuNe6D1e9Y
 DURATION:PT2H
 DTSTART:20230525T062955Z
