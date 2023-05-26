@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【HOLOCURE】LET'S KIKERIKI THIS BADBOY!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=BwYrm_Ut7vA
+DURATION:PT2H
+DTSTART:20230526T120000Z
+SUMMARY:Ollie: 【HOLOCURE】LET'S KIKERIKI THIS BADBOY!!【Hololive Indonesia 2nd Gen】
+UID:BwYrm_Ut7vA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【League of Legends: Wild Rift】carry ampe glori【MEMBERSHIP】\nhttps://www.youtube.com/watch?v=bAq5pJqItSA
 DURATION:PT2H
 DTSTART:20230525T140000Z
@@ -11,11 +18,11 @@ SUMMARY:Kobo: 【League of Legends: Wild Rift】carry ampe glori【MEMBERSHIP】
 UID:bAq5pJqItSA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Gartic Phone】 cukup lu yang aneh\, gambarnya jangan【MEMBERSHIP】\nhttps://www.youtube.com/watch?v=VXoZM8edU3M
+DESCRIPTION:#2【The Crooked Man】HOLLUP... LET HIM CROOK go away mr zombie man【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=YUmux0OaOIw
 DURATION:PT2H
 DTSTART:20230526T130000Z
-SUMMARY:Kobo: 【Gartic Phone】 cukup lu yang aneh\, gambarnya jangan【MEMBERSHIP】
-UID:VXoZM8edU3M
+SUMMARY:Reine: #2【The Crooked Man】HOLLUP... LET HIM CROOK go away mr zombie man【Pavolia Reine/hololiveID 2nd gen】
+UID:YUmux0OaOIw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:hololive ID 3rd Anniversary Cafe Encore Party & Final Stage\nhttps://www.youtube.com/watch?v=KXAma5V2w-E
@@ -30,6 +37,13 @@ DURATION:PT2H
 DTSTART:20230525T150000Z
 SUMMARY:Zeta: 【Hitman 3】#5 NEW CHAPTER!! NO CLOWN ENERGY??
 UID:IVQylLbvdXU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Gartic Phone】 cukup lu yang aneh\, gambarnya jangan【MEMBERSHIP】\nhttps://www.youtube.com/watch?v=VXoZM8edU3M
+DURATION:PT2H
+DTSTART:20230526T130000Z
+SUMMARY:Kobo: 【Gartic Phone】 cukup lu yang aneh\, gambarnya jangan【MEMBERSHIP】
+UID:VXoZM8edU3M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TETRIS 99】TETRIS 99 CAUSE I'M THE ONLY 100 IN THE ROOM✨【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=SBeSd-q1n88
