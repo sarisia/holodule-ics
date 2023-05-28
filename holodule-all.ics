@@ -18,13 +18,6 @@ SUMMARY:🏮夏色まつり: 【APEXガチャ】何度目かの正直ってい�
 UID:dizdXwVNSEY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3】#シロンカスタム 大会本番！w/のっくさん、白丑めぐみさん、まろやか牛乳さん【夜十神封魔/ホロスターズ/UPROAR!!】\nhttps://www.youtube.com/watch?v=wM9wqn5gojA
-DURATION:PT2H
-DTSTART:20230528T110000Z
-SUMMARY:夜十神封魔: 【スプラトゥーン3】#シロンカスタム 大会本番！w/のっくさん、白丑めぐみさん、まろやか牛乳さん【夜十神封魔/ホロスターズ/UPROAR!!】
-UID:wM9wqn5gojA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ホロスタRUST】いよいよ最終日！まだやれる事はある #07【影山シエン/ホロスターズ 】\nhttps://www.youtube.com/watch?v=TIPa_42Ss_c
 DURATION:PT2H
 DTSTART:20230527T090000Z
@@ -32,18 +25,18 @@ SUMMARY:影山シエン: 【#ホロスタRUST】いよいよ最終日！まだ�
 UID:TIPa_42Ss_c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #ホロスタRUST part8 Final】（仮眠し過ぎて）夢だったかもしれねえ【  水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=ljJebqeBojQ
-DURATION:PT2H
-DTSTART:20230527T123000Z
-SUMMARY:水無世燐央: 【 #ホロスタRUST part8 Final】（仮眠し過ぎて）夢だったかもしれねえ【  水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】
-UID:ljJebqeBojQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【hololiveId】Acapella Night ~! 【Ayunda Risu】\nhttps://www.youtube.com/watch?v=roSGZuMLrVg
 DURATION:PT2H
 DTSTART:20230527T130000Z
 SUMMARY:🐿Risu: 【hololiveId】Acapella Night ~! 【Ayunda Risu】
 UID:roSGZuMLrVg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #ホロスタRUST part8 Final】（仮眠し過ぎて）夢だったかもしれねえ【  水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=ljJebqeBojQ
+DURATION:PT2H
+DTSTART:20230527T123000Z
+SUMMARY:水無世燐央: 【 #ホロスタRUST part8 Final】（仮眠し過ぎて）夢だったかもしれねえ【  水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】
+UID:ljJebqeBojQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[Watch Along] BARBIE MOVIES WATCH ALONG WITH VESPER AND BAE #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=VgrF495TSbg
@@ -114,6 +107,13 @@ DURATION:PT2H
 DTSTART:20230527T090000Z
 SUMMARY:🌽白上フブキ: 【Getting Over It】金壺チャレンジ　あと35回【ホロライブ/白上フブキ】
 UID:0dJI-u4ACdA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK | Fjordur】スーパーARK DAYその２【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=1uirWHKBzd8
+DURATION:PT2H
+DTSTART:20230529T040000Z
+SUMMARY:🍎アキロゼ: 【ARK | Fjordur】スーパーARK DAYその２【アキ・ローゼンタール/ホロライブ】
+UID:1uirWHKBzd8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【IDOL SHOWDOWN】#2 || QUICK MATCHES THEN REDIRECT TO VESPER\nhttps://www.youtube.com/watch?v=o9HqZhJVKSc
@@ -226,6 +226,13 @@ DURATION:PT2H
 DTSTART:20230528T070000Z
 SUMMARY:博衣こより: #2【ジャッジアイズ】完全初見！頭脳～！でツッコミまくるこよタクが如く！！2章から！【博衣こより/ホロライブ】※ネタバレあり
 UID:42sCMn3s7lA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 振り返り】制作秘話などなど！同時視聴もしつつ話すよ～ #アキロゼ生誕祭2023 【ホロライブ】\nhttps://www.youtube.com/watch?v=wtPVvRYyld8
+DURATION:PT2H
+DTSTART:20230529T120000Z
+SUMMARY:🍎アキロゼ: 【 振り返り】制作秘話などなど！同時視聴もしつつ話すよ～ #アキロゼ生誕祭2023 【ホロライブ】
+UID:wtPVvRYyld8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【The Outlast Trials】Your Trial Session Has Expired (now die)\nhttps://www.youtube.com/watch?v=APhcMPzDGMs
@@ -396,11 +403,25 @@ SUMMARY:Kronii: 【Mario Party Superstars】Friends Or Foe ​
 UID:bugKxBxdbtI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【TLOZ Tears Of The Kingdom】a birb\, a stone and a hero walk into a fish bar\,... #kfp #キアライブ\nhttps://www.youtube.com/watch?v=87ZXluCruy8
+DURATION:PT2H
+DTSTART:20230528T130000Z
+SUMMARY:Kiara: 【TLOZ Tears Of The Kingdom】a birb\, a stone and a hero walk into a fish bar\,... #kfp #キアライブ
+UID:87ZXluCruy8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【＃生スバル】氷菓同時視聴会しゅばあああああああああああああああああああああああああああああああああ！！！！：The niece of time watching party【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=KXkZQZK3x9M
 DURATION:PT2H
 DTSTART:20230528T120000Z
 SUMMARY:🚑大空スバル: 【＃生スバル】氷菓同時視聴会しゅばあああああああああああああああああああああああああああああああああ！！！！：The niece of time watching party【ホロライブ/大空スバル】
 UID:KXkZQZK3x9M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】１か月ぶりのホロ鯖～！どれだけ変わっているのか…！？【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=Xxv64nRND8M
+DURATION:PT2H
+DTSTART:20230528T090000Z
+SUMMARY:👾常闇トワ: 【Minecraft】１か月ぶりのホロ鯖～！どれだけ変わっているのか…！？【常闇トワ/ホロライブ】
+UID:Xxv64nRND8M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【POCKET MIRROR】GoldernerTraum / We'll Be Friends Forever\, OK? w/  @DoppioDropscythe  [NIJISANJI EN]\nhttps://www.youtube.com/watch?v=t2YuwDHHHiY
@@ -534,6 +555,13 @@ DURATION:PT2H
 DTSTART:20230528T140000Z
 SUMMARY:🍎アキロゼ: 【The Outlast Trials】ホラゲ耐性０なのに、楽しい気持ちが芽生え始めてます。フブキちゃんと一緒にならクリア目指せるか！？【アキ・ローゼンタール/ホロライブ】
 UID:XVaZcvSpn5o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK | Fjordur】スーパーARK DAYその３【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=eAkOFltRp-g
+DURATION:PT2H
+DTSTART:20230529T050000Z
+SUMMARY:🍎アキロゼ: 【ARK | Fjordur】スーパーARK DAYその３【アキ・ローゼンタール/ホロライブ】
+UID:eAkOFltRp-g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【レイトン教授と不思議な町】シリーズ初プレイ！ IQ200が謎解きに挑戦！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=Qs7dNjN2Oe4
@@ -760,6 +788,13 @@ SUMMARY:🎸奏手イヅル: 【#ホロスタRUST】レイドさせてくださ�
 UID:CoFgVfFEc2A
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ARK | Fjordur】スーパーARK DAYその４【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=_Mvs5qoAbsY
+DURATION:PT2H
+DTSTART:20230529T060000Z
+SUMMARY:🍎アキロゼ: 【ARK | Fjordur】スーパーARK DAYその４【アキ・ローゼンタール/ホロライブ】
+UID:_Mvs5qoAbsY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 メンバー限定 】メンバー限定 敬語ASMR 💛 です！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=K4NPwbDu45g
 DURATION:PT2H
 DTSTART:20230528T133000Z
@@ -795,10 +830,10 @@ SUMMARY:🌽白上フブキ: 【The Outlast Trials】アキフブ、治験沼に
 UID:bYV0jOJmvY8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【TLOZ Tears Of The Kingdom】a birb\, a stone and a hero walk into a fish bar\,... #kfp #キアライブ\nhttps://www.youtube.com/watch?v=87ZXluCruy8
+DESCRIPTION:【ARK | Fjordur】スーパーARK DAYその１【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=spfhdey2KUw
 DURATION:PT2H
-DTSTART:20230528T130000Z
-SUMMARY:Kiara: 【TLOZ Tears Of The Kingdom】a birb\, a stone and a hero walk into a fish bar\,... #kfp #キアライブ
-UID:87ZXluCruy8
+DTSTART:20230529T030000Z
+SUMMARY:🍎アキロゼ: 【ARK | Fjordur】スーパーARK DAYその１【アキ・ローゼンタール/ホロライブ】
+UID:spfhdey2KUw
 END:VEVENT
 END:VCALENDAR
