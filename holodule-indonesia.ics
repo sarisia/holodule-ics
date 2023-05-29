@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【FIFA23】#6 oh how i miss playing this game ⚽🏆【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=qFB0Td4BHJk
+DESCRIPTION:【歌ってみた】強風オールバック (Kyoufuu Ooru Bakku) - COVER by Kureiji Ollie\nhttps://www.youtube.com/watch?v=-Xc3TQCsyN8
 DURATION:PT2H
-DTSTART:20230528T143000Z
-SUMMARY:Kaela: 【FIFA23】#6 oh how i miss playing this game ⚽🏆【Kaela Kovalskia / hololiveID】
-UID:qFB0Td4BHJk
+DTSTART:20230529T060000Z
+SUMMARY:Ollie: 【歌ってみた】強風オールバック (Kyoufuu Ooru Bakku) - COVER by Kureiji Ollie
+UID:-Xc3TQCsyN8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HOLORO 3DVR】GIRLS JUST WANNA HAVE A GAME NIGHT【Reine/Ollie/Anya/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=IyYDIk-jr4w
@@ -18,6 +18,13 @@ SUMMARY:Reine: 【HOLORO 3DVR】GIRLS JUST WANNA HAVE A GAME NIGHT【Reine/Ollie
 UID:IyYDIk-jr4w
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Grinding Grinding and chilling!【holoID】\nhttps://www.youtube.com/watch?v=DYPcYPMJvXc
+DURATION:PT2H
+DTSTART:20230528T140000Z
+SUMMARY:🔮Moona: 【Minecraft】Grinding Grinding and chilling!【holoID】
+UID:DYPcYPMJvXc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【hololiveId】OTSUUUUU ~!!!! Talking about the fanmeeting at #holoidcaf3 【Ayunda Risu】\nhttps://www.youtube.com/watch?v=VU97u40Nx_0
 DURATION:PT2H
 DTSTART:20230528T130000Z
@@ -25,10 +32,10 @@ SUMMARY:🐿Risu: 【hololiveId】OTSUUUUU ~!!!! Talking about the fanmeeting at
 UID:VU97u40Nx_0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Grinding Grinding and chilling!【holoID】\nhttps://www.youtube.com/watch?v=DYPcYPMJvXc
+DESCRIPTION:【FIFA23】#6 oh how i miss playing this game ⚽🏆【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=qFB0Td4BHJk
 DURATION:PT2H
-DTSTART:20230528T140000Z
-SUMMARY:🔮Moona: 【Minecraft】Grinding Grinding and chilling!【holoID】
-UID:DYPcYPMJvXc
+DTSTART:20230528T143000Z
+SUMMARY:Kaela: 【FIFA23】#6 oh how i miss playing this game ⚽🏆【Kaela Kovalskia / hololiveID】
+UID:qFB0Td4BHJk
 END:VEVENT
 END:VCALENDAR
