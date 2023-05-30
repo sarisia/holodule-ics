@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ASMR】Relaxing Spa Day at the Beach~!\nhttps://www.youtube.com/watch?v=7M3OAsV_OPc
+DURATION:PT2H
+DTSTART:20230531T020000Z
+SUMMARY:Calli: 【ASMR】Relaxing Spa Day at the Beach~!
+UID:7M3OAsV_OPc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Idol Showdown】Show Your Moves\nhttps://www.youtube.com/watch?v=h3_BiGoEY7U
+DURATION:PT2H
+DTSTART:20230529T230000Z
+SUMMARY:Kronii: 【Idol Showdown】Show Your Moves
+UID:h3_BiGoEY7U
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:sweet music #shorts\nhttps://www.youtube.com/watch?v=qXohVuf9ia4
 DURATION:PT2H
 DTSTART:20230530T015710Z
@@ -32,11 +46,11 @@ SUMMARY:Mumei: 【歌枠 SINGING + 告知！】Weird Karaoke + ANNOUNCEMENT! :D
 UID:RzgBF2XsT8k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ASMR】Relaxing Spa Day at the Beach~!\nhttps://www.youtube.com/watch?v=7M3OAsV_OPc
+DESCRIPTION:【Getting Over It】The GOI Debut\nhttps://www.youtube.com/watch?v=VxXPWhiyMXo
 DURATION:PT2H
 DTSTART:20230531T020000Z
-SUMMARY:Calli: 【ASMR】Relaxing Spa Day at the Beach~!
-UID:7M3OAsV_OPc
+SUMMARY:IRyS: 【Getting Over It】The GOI Debut
+UID:VxXPWhiyMXo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪Just Chatting≫ GOOOOOO MORNING\nhttps://www.youtube.com/watch?v=bm4NKyswJp4
@@ -44,12 +58,5 @@ DURATION:PT2H
 DTSTART:20230531T010000Z
 SUMMARY:Baelz: ≪Just Chatting≫ GOOOOOO MORNING
 UID:bm4NKyswJp4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Idol Showdown】Show Your Moves\nhttps://www.youtube.com/watch?v=h3_BiGoEY7U
-DURATION:PT2H
-DTSTART:20230529T230000Z
-SUMMARY:Kronii: 【Idol Showdown】Show Your Moves
-UID:h3_BiGoEY7U
 END:VEVENT
 END:VCALENDAR
