@@ -165,18 +165,18 @@ SUMMARY:👯兎田ぺこら: 【お披露目】新○○お披露目！！！！
 UID:xMfC_L2lgKE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪Persona 5 ROYAL≫ LETS PLAY DICE BABY #17【SPOILERS】\nhttps://www.youtube.com/watch?v=OZSLiy3FKuo
-DURATION:PT2H
-DTSTART:20230601T010000Z
-SUMMARY:Baelz: ≪Persona 5 ROYAL≫ LETS PLAY DICE BABY #17【SPOILERS】
-UID:OZSLiy3FKuo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【飲酒雑談】#居酒屋ARN でかく語りき　Guest：朝ノ瑠璃 様 【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=gMfg_zN-mtI
 DURATION:PT2H
 DTSTART:20230602T120000Z
 SUMMARY:🍕アルランディス: 【飲酒雑談】#居酒屋ARN でかく語りき　Guest：朝ノ瑠璃 様 【アルランディス/ホロスターズ】
 UID:gMfg_zN-mtI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪Persona 5 ROYAL≫ LETS PLAY DICE BABY #17【SPOILERS】\nhttps://www.youtube.com/watch?v=OZSLiy3FKuo
+DURATION:PT2H
+DTSTART:20230601T010000Z
+SUMMARY:Baelz: ≪Persona 5 ROYAL≫ LETS PLAY DICE BABY #17【SPOILERS】
+UID:OZSLiy3FKuo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【OHAPOL/朝雑談】5月最後のおっは～～～～ください【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=KAAAoo19wRc
@@ -263,11 +263,25 @@ SUMMARY:Kronii: 【Blind Drive】E...EZ...? IDK I Can't See
 UID:8NhaJBIOPeo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 アキロゼ祭打ち上げ会場】5周年ありがとー！！#アキロゼ5周年Live【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=6U3jnXOGCK4
+DURATION:PT2H
+DTSTART:20230601T133000Z
+SUMMARY:🍎アキロゼ: 【 アキロゼ祭打ち上げ会場】5周年ありがとー！！#アキロゼ5周年Live【アキ・ローゼンタール/ホロライブ】
+UID:6U3jnXOGCK4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Maze\nhttps://www.youtube.com/watch?v=gca8Tmj2Lxs
 DURATION:PT2H
 DTSTART:20230531T023029Z
 SUMMARY:Shinri: Maze
 UID:gca8Tmj2Lxs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Kronii Tech Tips】Beginner Guide For Microphones And More! 🎙️\nhttps://www.youtube.com/watch?v=1pW9j0F-GU4
+DURATION:PT2H
+DTSTART:20230601T030000Z
+SUMMARY:Kronii: 【Kronii Tech Tips】Beginner Guide For Microphones And More! 🎙️
+UID:1pW9j0F-GU4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Don't Starve Together】MAG VS WILD\nhttps://www.youtube.com/watch?v=h7zpCUz29vg
@@ -291,18 +305,18 @@ SUMMARY:🍕アルランディス: 【ゼルダの伝説ティアーズオブザ
 UID:Kt8TrgQCk1U
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SF6】ストリートファイター6を先行プレイしてきたよ～！！【鷹嶺ルイ/戌神ころね】\nhttps://www.youtube.com/watch?v=3tYnylBQe-o
-DURATION:PT2H
-DTSTART:20230531T150000Z
-SUMMARY:🥐戌神ころね: 【SF6】ストリートファイター6を先行プレイしてきたよ～！！【鷹嶺ルイ/戌神ころね】
-UID:3tYnylBQe-o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ゴッドフィールド】本気のゴッフィー、見せます🔥🚑🍙👾【ホロライブ】\nhttps://www.youtube.com/watch?v=GPVxDHyURLw
 DURATION:PT2H
 DTSTART:20230601T130000Z
 SUMMARY:🍙猫又おかゆ: 【ゴッドフィールド】本気のゴッフィー、見せます🔥🚑🍙👾【ホロライブ】
 UID:GPVxDHyURLw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SF6】ストリートファイター6を先行プレイしてきたよ～！！【鷹嶺ルイ/戌神ころね】\nhttps://www.youtube.com/watch?v=3tYnylBQe-o
+DURATION:PT2H
+DTSTART:20230531T150000Z
+SUMMARY:🥐戌神ころね: 【SF6】ストリートファイター6を先行プレイしてきたよ～！！【鷹嶺ルイ/戌神ころね】
+UID:3tYnylBQe-o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VALORANT】カスタム / アステル すごいたくさん\nhttps://www.youtube.com/watch?v=d-BuEJLjhQk
@@ -326,13 +340,6 @@ SUMMARY:博衣こより: 【スパチャ御礼雑談】こんこよ24のSuperCha
 UID:FWvTgmy-SaU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Garten of banban3】世界中で大人気の恐すぎる幼稚園のホラーゲーム！愉快なバケモノに襲われながら謎解きに挑む🔥【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=PNVYOEl1ON4
-DURATION:PT2H
-DTSTART:20230531T130000Z
-SUMMARY:博衣こより: 【Garten of banban3】世界中で大人気の恐すぎる幼稚園のホラーゲーム！愉快なバケモノに襲われながら謎解きに挑む🔥【博衣こより/ホロライブ】
-UID:PNVYOEl1ON4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MYSTIC MESSENGER】|Yoosung Route| GAMER BOYFRIEND?\nhttps://www.youtube.com/watch?v=WYJDC12tCOI
 DURATION:PT2H
 DTSTART:20230531T220000Z
@@ -340,11 +347,11 @@ SUMMARY:Flayon: 【MYSTIC MESSENGER】|Yoosung Route| GAMER BOYFRIEND?
 UID:WYJDC12tCOI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:花咲みやび大興奮秘密基地 #shorts #アルランディス #花咲みやび #ホロスタrust\nhttps://www.youtube.com/watch?v=etzd79lpW7k
+DESCRIPTION:【Garten of banban3】世界中で大人気の恐すぎる幼稚園のホラーゲーム！愉快なバケモノに襲われながら謎解きに挑む🔥【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=PNVYOEl1ON4
 DURATION:PT2H
-DTSTART:20230531T030016Z
-SUMMARY:🍕アルランディス: 花咲みやび大興奮秘密基地 #shorts #アルランディス #花咲みやび #ホロスタrust
-UID:etzd79lpW7k
+DTSTART:20230531T130000Z
+SUMMARY:博衣こより: 【Garten of banban3】世界中で大人気の恐すぎる幼稚園のホラーゲーム！愉快なバケモノに襲われながら謎解きに挑む🔥【博衣こより/ホロライブ】
+UID:PNVYOEl1ON4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:KICK BACK / 鷹嶺ルイ(cover)\nhttps://www.youtube.com/watch?v=5UQRsfw_Jro
@@ -352,6 +359,13 @@ DURATION:PT2H
 DTSTART:20230601T090000Z
 SUMMARY:鷹嶺ルイ: KICK BACK / 鷹嶺ルイ(cover)
 UID:5UQRsfw_Jro
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:花咲みやび大興奮秘密基地 #shorts #アルランディス #花咲みやび #ホロスタrust\nhttps://www.youtube.com/watch?v=etzd79lpW7k
+DURATION:PT2H
+DTSTART:20230531T030016Z
+SUMMARY:🍕アルランディス: 花咲みやび大興奮秘密基地 #shorts #アルランディス #花咲みやび #ホロスタrust
+UID:etzd79lpW7k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】MORE TERRAFORMING BECAUSE IT'S GOOD FOR THE ENVIROMENT【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=29WqEI5UAQY
