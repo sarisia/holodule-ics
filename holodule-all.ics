@@ -130,6 +130,13 @@ SUMMARY:桃鈴ねね: 【 ダンまち バトル・クロニクル  】ダンク
 UID:GjRzXTfRed0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】GOAT DOKO? 🐐【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=UiFIMw40mS4
+DURATION:PT2H
+DTSTART:20230601T130000Z
+SUMMARY:Kaela: 【Minecraft】GOAT DOKO? 🐐【Kaela Kovalskia / hololiveID】
+UID:UiFIMw40mS4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:3D配信だから回ってみた結果ｗｗ　#shorts #ロベルないとめあ\nhttps://www.youtube.com/watch?v=_LrV4y-BRk4
 DURATION:PT2H
 DTSTART:20230601T032250Z
@@ -165,18 +172,18 @@ SUMMARY:🤖ロボ子さん: 【雑談】もう６月だって～～！！最近
 UID:29ZtyMFdqDY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪Persona 5 ROYAL≫ LETS PLAY DICE BABY #17【SPOILERS】\nhttps://www.youtube.com/watch?v=OZSLiy3FKuo
-DURATION:PT2H
-DTSTART:20230601T010000Z
-SUMMARY:Baelz: ≪Persona 5 ROYAL≫ LETS PLAY DICE BABY #17【SPOILERS】
-UID:OZSLiy3FKuo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【飲酒雑談】#居酒屋ARN でかく語りき　Guest：朝ノ瑠璃 様 【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=gMfg_zN-mtI
 DURATION:PT2H
 DTSTART:20230602T120000Z
 SUMMARY:🍕アルランディス: 【飲酒雑談】#居酒屋ARN でかく語りき　Guest：朝ノ瑠璃 様 【アルランディス/ホロスターズ】
 UID:gMfg_zN-mtI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪Persona 5 ROYAL≫ LETS PLAY DICE BABY #17【SPOILERS】\nhttps://www.youtube.com/watch?v=OZSLiy3FKuo
+DURATION:PT2H
+DTSTART:20230601T010000Z
+SUMMARY:Baelz: ≪Persona 5 ROYAL≫ LETS PLAY DICE BABY #17【SPOILERS】
+UID:OZSLiy3FKuo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:like nya #shorts\nhttps://www.youtube.com/watch?v=bXwG4RaHUws
@@ -305,13 +312,6 @@ SUMMARY:Kronii: 【Kronii Tech Tips】Beginner Guide For Microphones And More! �
 UID:1pW9j0F-GU4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Diablo IV】#1 unstoppable【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=Ks34LiEyW-s
-DURATION:PT2H
-DTSTART:20230601T230000Z
-SUMMARY:Kaela: 【Diablo IV】#1 unstoppable【Kaela Kovalskia / hololiveID】
-UID:Ks34LiEyW-s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Zelda: Tears of the Kingdom】 TO THE GERUDO!!! 【4】\nhttps://www.youtube.com/watch?v=HnMOPbe-ncM
 DURATION:PT2H
 DTSTART:20230531T230000Z
@@ -326,18 +326,25 @@ SUMMARY:🍕アルランディス: 【ゼルダの伝説ティアーズオブザ
 UID:Kt8TrgQCk1U
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SF6】ストリートファイター6を先行プレイしてきたよ～！！【鷹嶺ルイ/戌神ころね】\nhttps://www.youtube.com/watch?v=3tYnylBQe-o
-DURATION:PT2H
-DTSTART:20230531T150000Z
-SUMMARY:🥐戌神ころね: 【SF6】ストリートファイター6を先行プレイしてきたよ～！！【鷹嶺ルイ/戌神ころね】
-UID:3tYnylBQe-o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ゴッドフィールド】本気のゴッフィー、見せます🔥🚑🍙👾【ホロライブ】\nhttps://www.youtube.com/watch?v=GPVxDHyURLw
 DURATION:PT2H
 DTSTART:20230601T130000Z
 SUMMARY:🍙猫又おかゆ: 【ゴッドフィールド】本気のゴッフィー、見せます🔥🚑🍙👾【ホロライブ】
 UID:GPVxDHyURLw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Diablo IV】#1 unstoppable【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=Ks34LiEyW-s
+DURATION:PT2H
+DTSTART:20230601T230000Z
+SUMMARY:Kaela: 【Diablo IV】#1 unstoppable【Kaela Kovalskia / hololiveID】
+UID:Ks34LiEyW-s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SF6】ストリートファイター6を先行プレイしてきたよ～！！【鷹嶺ルイ/戌神ころね】\nhttps://www.youtube.com/watch?v=3tYnylBQe-o
+DURATION:PT2H
+DTSTART:20230531T150000Z
+SUMMARY:🥐戌神ころね: 【SF6】ストリートファイター6を先行プレイしてきたよ～！！【鷹嶺ルイ/戌神ころね】
+UID:3tYnylBQe-o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ポルカの伝説】最強の武勇伝やイキった武勇伝教えてくれよ！！！！\nhttps://www.youtube.com/watch?v=2Jz-BT_qCzI
@@ -354,18 +361,18 @@ SUMMARY:🎭アステル・レダ: 【VALORANT】カスタム / アステル す
 UID:d-BuEJLjhQk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ちゃんとトラックに轢かれてくれるKICKBACK【hololive/鷹嶺ルイ】#shorts\nhttps://www.youtube.com/watch?v=CiZBBjfzGzs
-DURATION:PT2H
-DTSTART:20230601T101614Z
-SUMMARY:鷹嶺ルイ: ちゃんとトラックに轢かれてくれるKICKBACK【hololive/鷹嶺ルイ】#shorts
-UID:CiZBBjfzGzs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Reigns】優しい王様になるのだ！！！！ぽる！！！【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=TYm4x2V7deE
 DURATION:PT2H
 DTSTART:20230601T141500Z
 SUMMARY:尾丸ポルカ: 【Reigns】優しい王様になるのだ！！！！ぽる！！！【尾丸ポルカ/ホロライブ】
 UID:TYm4x2V7deE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ちゃんとトラックに轢かれてくれるKICKBACK【hololive/鷹嶺ルイ】#shorts\nhttps://www.youtube.com/watch?v=CiZBBjfzGzs
+DURATION:PT2H
+DTSTART:20230601T101614Z
+SUMMARY:鷹嶺ルイ: ちゃんとトラックに轢かれてくれるKICKBACK【hololive/鷹嶺ルイ】#shorts
+UID:CiZBBjfzGzs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【BOTW】 High Intensity Sidetracking 【#12】\nhttps://www.youtube.com/watch?v=DEl_g8hEl9k
