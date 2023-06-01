@@ -4,18 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】 The world tree looks a little small\nhttps://www.youtube.com/watch?v=R7nmuCWEYhc
+DESCRIPTION:【Kronii Tech Tips】Beginner Guide For Microphones And More! 🎙️\nhttps://www.youtube.com/watch?v=1pW9j0F-GU4
 DURATION:PT2H
-DTSTART:20230530T230000Z
-SUMMARY:Fauna: 【MINECRAFT】 The world tree looks a little small
-UID:R7nmuCWEYhc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Blind Drive】E...EZ...? IDK I Can't See\nhttps://www.youtube.com/watch?v=8NhaJBIOPeo
-DURATION:PT2H
-DTSTART:20230531T030500Z
-SUMMARY:Kronii: 【Blind Drive】E...EZ...? IDK I Can't See
-UID:8NhaJBIOPeo
+DTSTART:20230601T030000Z
+SUMMARY:Kronii: 【Kronii Tech Tips】Beginner Guide For Microphones And More! 🎙️
+UID:1pW9j0F-GU4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪UTA-ZATSU≫ unarchived shhh so it didn't really happen\nhttps://www.youtube.com/watch?v=GczIP3JSXN4
@@ -25,11 +18,18 @@ SUMMARY:Baelz: ≪UTA-ZATSU≫ unarchived shhh so it didn't really happen
 UID:GczIP3JSXN4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ASMR】Relaxing Spa Day at the Beach~!\nhttps://www.youtube.com/watch?v=7M3OAsV_OPc
+DESCRIPTION:【MINECRAFT】Cleaning up my mess or so #kfp #キアライブ\nhttps://www.youtube.com/watch?v=EgPreo6KYQc
 DURATION:PT2H
-DTSTART:20230531T020000Z
-SUMMARY:Calli: 【ASMR】Relaxing Spa Day at the Beach~!
-UID:7M3OAsV_OPc
+DTSTART:20230601T180000Z
+SUMMARY:Kiara: 【MINECRAFT】Cleaning up my mess or so #kfp #キアライブ
+UID:EgPreo6KYQc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ASMR】Sleepy Rambles and Good Vibes!\nhttps://www.youtube.com/watch?v=hRCJVqA-ne8
+DURATION:PT2H
+DTSTART:20230602T020000Z
+SUMMARY:Calli: 【ASMR】Sleepy Rambles and Good Vibes!
+UID:hRCJVqA-ne8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪Persona 5 ROYAL≫ LETS PLAY DICE BABY #17【SPOILERS】\nhttps://www.youtube.com/watch?v=OZSLiy3FKuo
@@ -44,33 +44,5 @@ DURATION:PT2H
 DTSTART:20230601T020000Z
 SUMMARY:Calli: like nya #shorts
 UID:bXwG4RaHUws
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Kronii Tech Tips】Beginner Guide For Microphones And More! 🎙️\nhttps://www.youtube.com/watch?v=1pW9j0F-GU4
-DURATION:PT2H
-DTSTART:20230601T030000Z
-SUMMARY:Kronii: 【Kronii Tech Tips】Beginner Guide For Microphones And More! 🎙️
-UID:1pW9j0F-GU4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DRAWING】 Is This a Drawing Stream?\nhttps://www.youtube.com/watch?v=Hcxb0TDiTKM
-DURATION:PT2H
-DTSTART:20230530T210000Z
-SUMMARY:Ina: 【DRAWING】 Is This a Drawing Stream?
-UID:Hcxb0TDiTKM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Getting Over It】The GOI Debut\nhttps://www.youtube.com/watch?v=VxXPWhiyMXo
-DURATION:PT2H
-DTSTART:20230531T020000Z
-SUMMARY:IRyS: 【Getting Over It】The GOI Debut
-UID:VxXPWhiyMXo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪Just Chatting≫ GOOOOOO MORNING\nhttps://www.youtube.com/watch?v=bm4NKyswJp4
-DURATION:PT2H
-DTSTART:20230531T010000Z
-SUMMARY:Baelz: ≪Just Chatting≫ GOOOOOO MORNING
-UID:bm4NKyswJp4
 END:VEVENT
 END:VCALENDAR
