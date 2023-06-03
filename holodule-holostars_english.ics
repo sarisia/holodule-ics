@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【 Just Chatting 】1 hour zatsudan\, part two is at midnight\nhttps://www.youtube.com/watch?v=hkU-yhhxBQs
+DURATION:PT2H
+DTSTART:20230603T170000Z
+SUMMARY:Vesper: 【 Just Chatting 】1 hour zatsudan\, part two is at midnight
+UID:hkU-yhhxBQs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【AMANDA THE ADVENTURER】I have no idea what's waiting for me?\nhttps://www.youtube.com/watch?v=9xNTshnwD0I
 DURATION:PT2H
 DTSTART:20230601T230000Z
