@@ -11,6 +11,13 @@ SUMMARY:🍕アルランディス: mocopiを使ったジェスチャーゲーム
 UID:IH1P2pInHoI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【STREET FIGHTER6】影山シエンの格ゲー道、始まります【影山シエン/ホロスターズ 】\nhttps://www.youtube.com/watch?v=bgU0izXAu8o
+DURATION:PT2H
+DTSTART:20230603T040000Z
+SUMMARY:影山シエン: 【STREET FIGHTER6】影山シエンの格ゲー道、始まります【影山シエン/ホロスターズ 】
+UID:bgU0izXAu8o
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【The Stanley Parable: Ultra Deluxe】俺は指示厨には負けない【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=VF6HcGts884
 DURATION:PT2H
 DTSTART:20230603T080000Z
@@ -18,18 +25,18 @@ SUMMARY:🍷夕刻ロベル: 【The Stanley Parable: Ultra Deluxe】俺は指示
 UID:VF6HcGts884
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【飲酒雑談】#居酒屋ARN でかく語りき　Guest：朝ノ瑠璃 様 【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=gMfg_zN-mtI
-DURATION:PT2H
-DTSTART:20230602T120000Z
-SUMMARY:🍕アルランディス: 【飲酒雑談】#居酒屋ARN でかく語りき　Guest：朝ノ瑠璃 様 【アルランディス/ホロスターズ】
-UID:gMfg_zN-mtI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【イラスト】ネオポルテの瀬尾カザリくんを描いてみる！【#緋崎ガンマ / #ホロスターズ / #vtuber 】\nhttps://www.youtube.com/watch?v=G4p265yYB2o
 DURATION:PT2H
 DTSTART:20230603T053000Z
 SUMMARY:緋崎ガンマ: 【イラスト】ネオポルテの瀬尾カザリくんを描いてみる！【#緋崎ガンマ / #ホロスターズ / #vtuber 】
 UID:G4p265yYB2o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【飲酒雑談】#居酒屋ARN でかく語りき　Guest：朝ノ瑠璃 様 【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=gMfg_zN-mtI
+DURATION:PT2H
+DTSTART:20230602T120000Z
+SUMMARY:🍕アルランディス: 【飲酒雑談】#居酒屋ARN でかく語りき　Guest：朝ノ瑠璃 様 【アルランディス/ホロスターズ】
+UID:gMfg_zN-mtI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Pineapple on pizza】俺は大好きだけどね？【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=jC98AwydcGc
@@ -53,13 +60,6 @@ SUMMARY:🦔💨岸堂天真: 【マリカ】レート21492~ 6月の目標は225
 UID:HTyhG0l2b1g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Terraria】ハートを見つける旅に出る！Part3【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=HouNHa6R06o
-DURATION:PT2H
-DTSTART:20230602T040000Z
-SUMMARY:🦔💨岸堂天真: 【Terraria】ハートを見つける旅に出る！Part3【岸堂天真/ホロスターズ】
-UID:HouNHa6R06o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ホロスターズ】4周年記念コメントムービー\nhttps://www.youtube.com/watch?v=PYt8MnLSFpo
 DURATION:PT2H
 DTSTART:20230602T150015Z
@@ -67,11 +67,25 @@ SUMMARY:ホロスターズ: 【#ホロスターズ】4周年記念コメント�
 UID:PYt8MnLSFpo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【料理】華金だし鉄板で焼肉パーティーして酒飲んで気持ち良くなる配信!!!!【#緋崎ガンマ / #ホロスターズ  / #vtuber 】\nhttps://www.youtube.com/watch?v=NfGvjAKopd4
+DURATION:PT2H
+DTSTART:20230602T130000Z
+SUMMARY:緋崎ガンマ: 【料理】華金だし鉄板で焼肉パーティーして酒飲んで気持ち良くなる配信!!!!【#緋崎ガンマ / #ホロスターズ  / #vtuber 】
+UID:NfGvjAKopd4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【STREET FIGHTER6】スト6対戦していく【荒咬オウガ アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=KraLnbMRHYI
 DURATION:PT2H
 DTSTART:20230603T120000Z
 SUMMARY:荒咬オウガ: 【STREET FIGHTER6】スト6対戦していく【荒咬オウガ アルランディス/ホロスターズ】
 UID:KraLnbMRHYI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】17時から配信があるのでそれまで配信する【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=nYlJX9HDFJg
+DURATION:PT2H
+DTSTART:20230602T033500Z
+SUMMARY:🍷夕刻ロベル: 【雑談】17時から配信があるのでそれまで配信する【夕刻ロベル/ホロスターズ】
+UID:nYlJX9HDFJg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Amanda the Adventurer】今回は子供番組だそうで【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=0f5SGKM6Ddg
@@ -86,13 +100,6 @@ DURATION:PT2H
 DTSTART:20230602T060000Z
 SUMMARY:🍕アルランディス: 【ストリートファイター6】祝！発売！遊ぶぞおおおおおおおおおお【アルランディス/ホロスターズ】
 UID:NrhXoHIXON4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】17時から配信があるのでそれまで配信する【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=nYlJX9HDFJg
-DURATION:PT2H
-DTSTART:20230602T033500Z
-SUMMARY:🍷夕刻ロベル: 【雑談】17時から配信があるのでそれまで配信する【夕刻ロベル/ホロスターズ】
-UID:nYlJX9HDFJg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:今年の誕生日について、少しお知らせです！\nhttps://www.youtube.com/watch?v=3nQpOXpwz_E
@@ -123,10 +130,10 @@ SUMMARY:緋崎ガンマ: 【お絵かきあるある】深夜テンション #sh
 UID:Mvp8WO2txDA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【料理】華金だし鉄板で焼肉パーティーして酒飲んで気持ち良くなる配信!!!!【#緋崎ガンマ / #ホロスターズ  / #vtuber 】\nhttps://www.youtube.com/watch?v=NfGvjAKopd4
+DESCRIPTION:【Terraria】ハートを見つける旅に出る！Part3【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=HouNHa6R06o
 DURATION:PT2H
-DTSTART:20230602T130000Z
-SUMMARY:緋崎ガンマ: 【料理】華金だし鉄板で焼肉パーティーして酒飲んで気持ち良くなる配信!!!!【#緋崎ガンマ / #ホロスターズ  / #vtuber 】
-UID:NfGvjAKopd4
+DTSTART:20230602T040000Z
+SUMMARY:🦔💨岸堂天真: 【Terraria】ハートを見つける旅に出る！Part3【岸堂天真/ホロスターズ】
+UID:HouNHa6R06o
 END:VEVENT
 END:VCALENDAR
