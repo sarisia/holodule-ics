@@ -4,18 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 Just Chatting 】1 hour zatsudan\, part two is at midnight\nhttps://www.youtube.com/watch?v=hkU-yhhxBQs
-DURATION:PT2H
-DTSTART:20230603T170000Z
-SUMMARY:Vesper: 【 Just Chatting 】1 hour zatsudan\, part two is at midnight
-UID:hkU-yhhxBQs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【HITMAN 3】 Kirin tries and fails to get over her hitman brainrot [HARDCORE FREELANCER]\nhttps://www.youtube.com/watch?v=ijd2FfaLz1w
 DURATION:PT2H
 DTSTART:20230603T220000Z
 SUMMARY:Fauna: 【HITMAN 3】 Kirin tries and fails to get over her hitman brainrot [HARDCORE FREELANCER]
 UID:ijd2FfaLz1w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【＃７/ネタバレあり】ロックマンエグゼ3 BLACK【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=xBN9M0Y4PCc
+DURATION:PT2H
+DTSTART:20230604T120000Z
+SUMMARY:🌽白上フブキ: 【＃７/ネタバレあり】ロックマンエグゼ3 BLACK【ホロライブ/白上フブキ】
+UID:xBN9M0Y4PCc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Just Chatting 】1 hour zatsudan\, part two is at midnight\nhttps://www.youtube.com/watch?v=hkU-yhhxBQs
+DURATION:PT2H
+DTSTART:20230603T170000Z
+SUMMARY:Vesper: 【 Just Chatting 】1 hour zatsudan\, part two is at midnight
+UID:hkU-yhhxBQs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【3D OFFCOLLAB】SPORTING WITH AME !!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=t1hmCvnA4g8
@@ -30,13 +37,6 @@ DURATION:PT2H
 DTSTART:20230604T040000Z
 SUMMARY:💋癒月ちょこ: 【真砂楼】廃業旅館に寝起きに侵入？！最恐ホラーに挑む！【ホロライブ/癒月ちょこ】
 UID:IxBFZj_zDiM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【＃７/ネタバレあり】ロックマンエグゼ3 BLACK【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=xBN9M0Y4PCc
-DURATION:PT2H
-DTSTART:20230604T120000Z
-SUMMARY:🌽白上フブキ: 【＃７/ネタバレあり】ロックマンエグゼ3 BLACK【ホロライブ/白上フブキ】
-UID:xBN9M0Y4PCc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【JACKBOX】w/ Tempus Boi's | HAPPY FLAYDAY #HappyBirthflay2023 #machinaxflayon\nhttps://www.youtube.com/watch?v=UwyaE4i0S-g
@@ -158,6 +158,13 @@ SUMMARY:Fauna: 【Members Only Drawing】 Working on art from months ago teehee
 UID:3bzdHNiqx74
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【VALORANT】ぐろきゃりあを作らない / アステル 絲依とい 緋月ゆい かわせ 如月れん →藍沢エマ\nhttps://www.youtube.com/watch?v=NrVDj-nPtg0
+DURATION:PT2H
+DTSTART:20230604T173000Z
+SUMMARY:🎭アステル・レダ: 【VALORANT】ぐろきゃりあを作らない / アステル 絲依とい 緋月ゆい かわせ 如月れん →藍沢エマ
+UID:NrVDj-nPtg0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 夢実現⁉重大告知 】ボイトレの成果をみせたい久々歌枠‼ ／ KARAOKE&Announcement【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=4D-X_mOKJ-w
 DURATION:PT2H
 DTSTART:20230606T100000Z
@@ -277,6 +284,13 @@ SUMMARY:🎨Iofi: Tumbal UFO Dan Karma #shorts #hololive #moona #iofi #ollie #mi
 UID:zXo6gkl1Qjo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:繊細な視聴者たちｗｗ　#shorts\nhttps://www.youtube.com/watch?v=CVj87cmvHG0
+DURATION:PT2H
+DTSTART:20230604T031238Z
+SUMMARY:🍷夕刻ロベル: 繊細な視聴者たちｗｗ　#shorts
+UID:CVj87cmvHG0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 Just Chatting 】I didn't get any sleep\, I was watching funny videos on youtube\nhttps://www.youtube.com/watch?v=4m3_cRqF49k
 DURATION:PT2H
 DTSTART:20230604T070000Z
@@ -289,13 +303,6 @@ DURATION:PT2H
 DTSTART:20230604T090001Z
 SUMMARY:ホロライブ: 【アニメ】大自然の脅威を知るがよい
 UID:ag8sE5mh1BU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:繊細な視聴者たちｗｗ　#shorts\nhttps://www.youtube.com/watch?v=CVj87cmvHG0
-DURATION:PT2H
-DTSTART:20230604T031238Z
-SUMMARY:🍷夕刻ロベル: 繊細な視聴者たちｗｗ　#shorts
-UID:CVj87cmvHG0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】深夜talk【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=W3e8SevBe2g
@@ -366,6 +373,13 @@ DURATION:PT2H
 DTSTART:20230604T010000Z
 SUMMARY:Shinri: it's just another【Zatsu】
 UID:rUs2yepqL6I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝枠】悪魔の保健医の朝礼【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=ko-nEyRX_90
+DURATION:PT2H
+DTSTART:20230604T234500Z
+SUMMARY:💋癒月ちょこ: 【朝枠】悪魔の保健医の朝礼【ホロライブ/癒月ちょこ】
+UID:ko-nEyRX_90
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【お絵かき心理テスト】ｴｯ！？船長の本性が明らかに…【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=gOJ5izxcWNg
