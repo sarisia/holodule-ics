@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【＃７/ネタバレあり】ロックマンエグゼ3 BLACK【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=xBN9M0Y4PCc
-DURATION:PT2H
-DTSTART:20230604T120000Z
-SUMMARY:🌽白上フブキ: 【＃７/ネタバレあり】ロックマンエグゼ3 BLACK【ホロライブ/白上フブキ】
-UID:xBN9M0Y4PCc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ようやくマイクラをするマリン船長【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=3WKXbIx1740
 DURATION:PT2H
 DTSTART:20230603T120000Z
@@ -74,6 +67,13 @@ SUMMARY:🌲大神ミオ: 【#朝ミオ 】梅雨のジメジメふっとばせ�
 UID:8NikXS6Vgz8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:#08【ゼルダの伝説ティアーズオブザキングダム】寄り道しすぎでゼルダ姫から怒られそう【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=yQruI5lU5mA
+DURATION:PT2H
+DTSTART:20230605T100000Z
+SUMMARY:⚔白銀ノエル: #08【ゼルダの伝説ティアーズオブザキングダム】寄り道しすぎでゼルダ姫から怒られそう【白銀ノエル/ホロライブ】
+UID:yQruI5lU5mA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【TABS】出陣じゃあああ！！！Totally Accurate Battle Simulator【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=1cRV-62Yxjk
 DURATION:PT2H
 DTSTART:20230603T140000Z
@@ -116,13 +116,6 @@ SUMMARY:博衣こより: #3【ジャッジアイズ】完全初見！頭脳と�
 UID:UfDJK9dQF6M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【古銭プッシャーフレンズ弐】古銭稼いで億万長者になるぞ…！！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=3CTa3K8iLQs
-DURATION:PT2H
-DTSTART:20230604T120000Z
-SUMMARY:獅白ぼたん: 【古銭プッシャーフレンズ弐】古銭稼いで億万長者になるぞ…！！【獅白ぼたん/ホロライブ】
-UID:3CTa3K8iLQs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【＃5】ファイナルファンタジー X HD Remasterをプレイするしゅばああああああああああああああああ！！！！！：FINAL FANTASY X【※ネタバレあり】\nhttps://www.youtube.com/watch?v=G5XBvgJumyw
 DURATION:PT2H
 DTSTART:20230604T040000Z
@@ -156,6 +149,13 @@ DURATION:PT2H
 DTSTART:20230604T090000Z
 SUMMARY:雪花ラミィ: 【 #アナザーエデン6周年 】最終回！！アナザーエデンのメインストーリーを実況プレイ！＃06【雪花ラミィ/ホロライブ】
 UID:nnWFLZJGeqA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【重大告知】お題の歌を全部歌うと告知ができる枠【ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=WzbsEic_W1E
+DURATION:PT2H
+DTSTART:20230605T100000Z
+SUMMARY:🌲大神ミオ: 【重大告知】お題の歌を全部歌うと告知ができる枠【ホロライブ/大神ミオ】
+UID:WzbsEic_W1E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ゼルダの伝説ティアーズオブザキングダム】空を飛んでリトへ【#ときのそら生放送/ホロライブ】\nhttps://www.youtube.com/watch?v=QlItBmfYg7g
