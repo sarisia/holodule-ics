@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【日本語配信】雑談以外の日本語配信もするべきだとは最近思ってる。\nhttps://www.youtube.com/watch?v=q0ZKgr2m94o
-DURATION:PT2H
-DTSTART:20230608T120000Z
-SUMMARY:Syrios: 【日本語配信】雑談以外の日本語配信もするべきだとは最近思ってる。
-UID:q0ZKgr2m94o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 Just Chatting 】Go ahead\, make my day\nhttps://www.youtube.com/watch?v=HnsvWF8zKn0
 DURATION:PT2H
 DTSTART:20230607T170000Z
@@ -46,20 +39,6 @@ SUMMARY:Dezmond: 【DIABLOIV】 HARDCORE mode with the BOYS w/ Bettel\, Altare\,
 UID:hKfz2flRPQo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DIABLO IV 】Diablo. Diabolical. w/ Bettel\, Altare & Magni\nhttps://www.youtube.com/watch?v=a--Hi5qNK2k
-DURATION:PT2H
-DTSTART:20230608T030000Z
-SUMMARY:Flayon: 【DIABLO IV 】Diablo. Diabolical. w/ Bettel\, Altare & Magni
-UID:a--Hi5qNK2k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 World of Warcraft 】10 hour(?) wow stream\, documenting my descent into madness\nhttps://www.youtube.com/watch?v=e4Z9xim9cjI
-DURATION:PT2H
-DTSTART:20230608T170000Z
-SUMMARY:Vesper: 【 World of Warcraft 】10 hour(?) wow stream\, documenting my descent into madness
-UID:e4Z9xim9cjI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[Contraband Police] I CHECK BOX AND DIE #holotempus #gavisbettel\nhttps://www.youtube.com/watch?v=bz7dThv_yxk
 DURATION:PT2H
 DTSTART:20230608T210000Z
@@ -88,18 +67,46 @@ SUMMARY:Hakka: 【 Project Zomboid 】I WILL SURVIVEEEEEEEEEEEEEEEEEEEE YEAH YEA
 UID:-0LCwStngPM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Momma\nhttps://www.youtube.com/watch?v=NTmHFFxAEdA
-DURATION:PT2H
-DTSTART:20230608T023007Z
-SUMMARY:Shinri: Momma
-UID:NTmHFFxAEdA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:I haven't really played a Diablo game since Lord of Destruction...【Diablo IV】\nhttps://www.youtube.com/watch?v=9TSapqf7IFM
 DURATION:PT2H
 DTSTART:20230608T010000Z
 SUMMARY:Shinri: I haven't really played a Diablo game since Lord of Destruction...【Diablo IV】
 UID:9TSapqf7IFM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【日本語配信】雑談以外の日本語配信もするべきだとは最近思ってる。\nhttps://www.youtube.com/watch?v=q0ZKgr2m94o
+DURATION:PT2H
+DTSTART:20230608T120000Z
+SUMMARY:Syrios: 【日本語配信】雑談以外の日本語配信もするべきだとは最近思ってる。
+UID:q0ZKgr2m94o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 World of Warcraft 】10 hour(?) wow stream\, documenting my descent into madness\nhttps://www.youtube.com/watch?v=e4Z9xim9cjI
+DURATION:PT2H
+DTSTART:20230608T170000Z
+SUMMARY:Vesper: 【 World of Warcraft 】10 hour(?) wow stream\, documenting my descent into madness
+UID:e4Z9xim9cjI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DIABLO IV 】Diablo. Diabolical. w/ Bettel\, Altare & Magni\nhttps://www.youtube.com/watch?v=a--Hi5qNK2k
+DURATION:PT2H
+DTSTART:20230608T030000Z
+SUMMARY:Flayon: 【DIABLO IV 】Diablo. Diabolical. w/ Bettel\, Altare & Magni
+UID:a--Hi5qNK2k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MISSION: FLAYON】Birthday Project VN for me by the Machiroons!!!\nhttps://www.youtube.com/watch?v=nlBv4Q5yfjA
+DURATION:PT2H
+DTSTART:20230608T230000Z
+SUMMARY:Flayon: 【MISSION: FLAYON】Birthday Project VN for me by the Machiroons!!!
+UID:nlBv4Q5yfjA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Momma\nhttps://www.youtube.com/watch?v=NTmHFFxAEdA
+DURATION:PT2H
+DTSTART:20230608T023007Z
+SUMMARY:Shinri: Momma
+UID:NTmHFFxAEdA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Animal Crossing: New Horizons】The K in Hakka stands for KK slider baby!\nhttps://www.youtube.com/watch?v=qznd79s-V7M
