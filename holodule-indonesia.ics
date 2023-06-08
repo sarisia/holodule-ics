@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#PemaloeDay2023】HELLO FROM THE OTHER SIDE + announcement【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=a0A4jShdbL8
+DURATION:PT2H
+DTSTART:20230609T130000Z
+SUMMARY:Kaela: 【#PemaloeDay2023】HELLO FROM THE OTHER SIDE + announcement【Kaela Kovalskia / hololiveID】
+UID:a0A4jShdbL8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 SAUSAGE LEGEND 2 】Perang Sosis【 iofi / hololive 】\nhttps://www.youtube.com/watch?v=KmJ3GFhkk2w
 DURATION:PT2H
 DTSTART:20230608T130000Z
@@ -16,6 +23,13 @@ DURATION:PT2H
 DTSTART:20230608T060000Z
 SUMMARY:Anya: 【Pocket Mirror ~ GoldenerTraum】Things Are Getting Out of Hand【hololive ID 2nd Gen | Anya Melfissa】
 UID:VWCFeQFKjJg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Tetris 99】watashi wa daijoubu desu. ALL GOOD ALL FINE【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=tCbEzlxjyMM
+DURATION:PT2H
+DTSTART:20230608T131500Z
+SUMMARY:Kaela: 【Tetris 99】watashi wa daijoubu desu. ALL GOOD ALL FINE【Kaela Kovalskia / hololiveID】
+UID:tCbEzlxjyMM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Melukis 💩 #passpartout #iofi #hololive #shorts\nhttps://www.youtube.com/watch?v=30SK3cyK7Us
@@ -44,12 +58,5 @@ DURATION:PT2H
 DTSTART:20230608T151500Z
 SUMMARY:Reine: 【Space Live Chat】holomie night【Pavolia Reine/hololiveID 2nd gen】
 UID:1rJDauFoY3A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#PemaloeDay2023】HELLO FROM THE OTHER SIDE + announcement【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=a0A4jShdbL8
-DURATION:PT2H
-DTSTART:20230609T130000Z
-SUMMARY:Kaela: 【#PemaloeDay2023】HELLO FROM THE OTHER SIDE + announcement【Kaela Kovalskia / hololiveID】
-UID:a0A4jShdbL8
 END:VEVENT
 END:VCALENDAR
