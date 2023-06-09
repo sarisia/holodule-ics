@@ -144,18 +144,18 @@ SUMMARY:🐏角巻わため: なにたわわに実らせてんだ！！！！【
 UID:MIrCTZm1OcE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Zelda: Tears of the Kingdom】 LIGHTNING TEMPLE + ALL TEARS + MASTER SWORD【5】\nhttps://www.youtube.com/watch?v=edqtyE7xGhc
-DURATION:PT2H
-DTSTART:20230608T230000Z
-SUMMARY:Altare: 【Zelda: Tears of the Kingdom】 LIGHTNING TEMPLE + ALL TEARS + MASTER SWORD【5】
-UID:edqtyE7xGhc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【最新情報】#ホロライブシティ 市政だより！【ホロライブ公式】\nhttps://www.youtube.com/watch?v=pUOPmGPKvnE
 DURATION:PT2H
 DTSTART:20230609T100000Z
 SUMMARY:ホロライブ: 【最新情報】#ホロライブシティ 市政だより！【ホロライブ公式】
 UID:pUOPmGPKvnE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Zelda: Tears of the Kingdom】 LIGHTNING TEMPLE + ALL TEARS + MASTER SWORD【5】\nhttps://www.youtube.com/watch?v=edqtyE7xGhc
+DURATION:PT2H
+DTSTART:20230608T230000Z
+SUMMARY:Altare: 【Zelda: Tears of the Kingdom】 LIGHTNING TEMPLE + ALL TEARS + MASTER SWORD【5】
+UID:edqtyE7xGhc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】4周年ありがとう!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=rBnX0sl9u04
@@ -177,6 +177,13 @@ DURATION:PT2H
 DTSTART:20230609T090000Z
 SUMMARY:ホロライブ: 【新ボイス発表】6月の花嫁
 UID:e1s0hFKDJrQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Pineapple on Pizza】i like plain pizza\nhttps://www.youtube.com/watch?v=cZhEhMh154A
+DURATION:PT2H
+DTSTART:20230609T150000Z
+SUMMARY:Zeta: 【Pineapple on Pizza】i like plain pizza
+UID:cZhEhMh154A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#２】魔法少女まどか☆マギカ同時視聴：Puella Magi Madoka Magica【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=VmxZGswcis4
@@ -270,13 +277,6 @@ SUMMARY:🍎アキロゼ: 【モンスターハンターライズ：サンブレ
 UID:Ci4ZmFgMylQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Bokura】An adventure of two perspectiveas with @girldm!\nhttps://www.youtube.com/watch?v=himoy3D8AXE
-DURATION:PT2H
-DTSTART:20230609T190000Z
-SUMMARY:Hakka: 【Bokura】An adventure of two perspectiveas with @girldm!
-UID:himoy3D8AXE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】社長、いつ完成するんですか?????【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=jmsgO6VJ_WQ
 DURATION:PT2H
 DTSTART:20230610T130000Z
@@ -284,11 +284,11 @@ SUMMARY:🍙猫又おかゆ: 【Minecraft】社長、いつ完成するんです
 UID:jmsgO6VJ_WQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【CouncilRyS RPG】I'M IN A GAME??!!! (NOT CLICKBAIT)\nhttps://www.youtube.com/watch?v=9fmrRM31f6o
+DESCRIPTION:【Bokura】An adventure of two perspectiveas with @girldm!\nhttps://www.youtube.com/watch?v=himoy3D8AXE
 DURATION:PT2H
-DTSTART:20230609T031500Z
-SUMMARY:Kronii: 【CouncilRyS RPG】I'M IN A GAME??!!! (NOT CLICKBAIT)
-UID:9fmrRM31f6o
+DTSTART:20230609T190000Z
+SUMMARY:Hakka: 【Bokura】An adventure of two perspectiveas with @girldm!
+UID:himoy3D8AXE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪Getting Over It: ENDURANCE≫ Baeruto is aiming for the Gold Pot. #YOLOismyNinjaWay\nhttps://www.youtube.com/watch?v=vVQWfuM8T1M
@@ -298,6 +298,13 @@ SUMMARY:Baelz: ≪Getting Over It: ENDURANCE≫ Baeruto is aiming for the Gold P
 UID:vVQWfuM8T1M
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【CouncilRyS RPG】I'M IN A GAME??!!! (NOT CLICKBAIT)\nhttps://www.youtube.com/watch?v=9fmrRM31f6o
+DURATION:PT2H
+DTSTART:20230609T031500Z
+SUMMARY:Kronii: 【CouncilRyS RPG】I'M IN A GAME??!!! (NOT CLICKBAIT)
+UID:9fmrRM31f6o
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【SUPERS】come hang out or else\nhttps://www.youtube.com/watch?v=6vvN1rfARw4
 DURATION:PT2H
 DTSTART:20230610T020000Z
@@ -305,18 +312,18 @@ SUMMARY:Calli: 【SUPERS】come hang out or else
 UID:6vvN1rfARw4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[Contraband Police] I CHECK BOX AND DIE #holotempus #gavisbettel\nhttps://www.youtube.com/watch?v=bz7dThv_yxk
-DURATION:PT2H
-DTSTART:20230608T210000Z
-SUMMARY:Bettel: [Contraband Police] I CHECK BOX AND DIE #holotempus #gavisbettel
-UID:bz7dThv_yxk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Switch Sports】3期生、mocopiによる仁義なき戦い【#魔フィア 】\nhttps://www.youtube.com/watch?v=qARyfkbBI64
 DURATION:PT2H
 DTSTART:20230609T100000Z
 SUMMARY:影山シエン: 【Switch Sports】3期生、mocopiによる仁義なき戦い【#魔フィア 】
 UID:qARyfkbBI64
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Contraband Police] I CHECK BOX AND DIE #holotempus #gavisbettel\nhttps://www.youtube.com/watch?v=bz7dThv_yxk
+DURATION:PT2H
+DTSTART:20230608T210000Z
+SUMMARY:Bettel: [Contraband Police] I CHECK BOX AND DIE #holotempus #gavisbettel
+UID:bz7dThv_yxk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Membership 】Emote art? just doodling? IDK but I feel like practicing drawing today\nhttps://www.youtube.com/watch?v=FiNjv-SiqZQ
@@ -438,6 +445,13 @@ SUMMARY:🍕アルランディス: 【Minecraft】1.20で追加された新要�
 UID:rKOBzFULaxo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【スプラトゥーン3】ビッグラン発生！「マテガイ放水路」で上位5%目指す！【夜十神封魔/ホロスターズ/UPROAR!!】\nhttps://www.youtube.com/watch?v=HlBuZBc_fWw
+DURATION:PT2H
+DTSTART:20230610T000000Z
+SUMMARY:夜十神封魔: 【スプラトゥーン3】ビッグラン発生！「マテガイ放水路」で上位5%目指す！【夜十神封魔/ホロスターズ/UPROAR!!】
+UID:HlBuZBc_fWw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Ranch Simulator】で、ついに豚を飼い始めたってわけよ🐖【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=IdVIwXc3BCk
 DURATION:PT2H
 DTSTART:20230609T130000Z
@@ -499,6 +513,13 @@ DURATION:PT2H
 DTSTART:20230608T220000Z
 SUMMARY:Fauna: 【MINECRAFT】 Fauna builds a honey farm to flood the server with thousands of bees
 UID:eQBytqBik1o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】ほぼ全ロスした女の復活──。～雑談を添えて～【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=HgWwS9_PonI
+DURATION:PT2H
+DTSTART:20230609T130000Z
+SUMMARY:博衣こより: 【Minecraft】ほぼ全ロスした女の復活──。～雑談を添えて～【博衣こより/ホロライブ】
+UID:HgWwS9_PonI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【STREET FIGHTER6】オンライン対戦を始めてみるぞ！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=HWFgyo698Wc
