@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Pineapple on Pizza】i like plain pizza\nhttps://www.youtube.com/watch?v=cZhEhMh154A
+DURATION:PT2H
+DTSTART:20230609T150000Z
+SUMMARY:Zeta: 【Pineapple on Pizza】i like plain pizza
+UID:cZhEhMh154A
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#PemaloeDay2023】HELLO FROM THE OTHER SIDE + announcement【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=a0A4jShdbL8
 DURATION:PT2H
 DTSTART:20230609T130000Z
