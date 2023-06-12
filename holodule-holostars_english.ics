@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Dungeon Village】Hey Villagers I'm back #3\nhttps://www.youtube.com/watch?v=ZDgXWNDoIj4
+DURATION:PT2H
+DTSTART:20230613T040000Z
+SUMMARY:Syrios: 【Dungeon Village】Hey Villagers I'm back #3
+UID:ZDgXWNDoIj4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 Donkey Kong Country 】MMMMMMM MONKE X2\nhttps://www.youtube.com/watch?v=ysQL63OpvsY
 DURATION:PT2H
 DTSTART:20230612T000000Z
@@ -58,12 +65,5 @@ DURATION:PT2H
 DTSTART:20230611T170000Z
 SUMMARY:Vesper: 【 World of Warcraft 】My face after playing nothing but WoW this entire week
 UID:nkh4RO_FIy4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【NEON WHITE】 THE PARKOUR SHOOTER GAME!!!\nhttps://www.youtube.com/watch?v=XJnoMYuNwi4
-DURATION:PT2H
-DTSTART:20230612T130000Z
-SUMMARY:Altare: 【NEON WHITE】 THE PARKOUR SHOOTER GAME!!!
-UID:XJnoMYuNwi4
 END:VEVENT
 END:VCALENDAR
