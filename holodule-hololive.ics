@@ -53,18 +53,18 @@ SUMMARY:雪花ラミィ: 【ディアブロIV】2PCテスト！！ちょっと�
 UID:pigMI1Mp0ls
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ゼルダの伝説ティアーズオブザキングダム】登場人物みんなが好きになる冒険【#ときのそら生放送/ホロライブ/ときのそら】\nhttps://www.youtube.com/watch?v=YpPUaAryUc8
-DURATION:PT2H
-DTSTART:20230613T120000Z
-SUMMARY:🐻ときのそら: 【ゼルダの伝説ティアーズオブザキングダム】登場人物みんなが好きになる冒険【#ときのそら生放送/ホロライブ/ときのそら】
-UID:YpPUaAryUc8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【The Backrooms: 1998】声を出したらヤられる…【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=FtxOgNqvXuA
 DURATION:PT2H
 DTSTART:20230613T120000Z
 SUMMARY:🏴☠宝鐘マリン: 【The Backrooms: 1998】声を出したらヤられる…【ホロライブ/宝鐘マリン】
 UID:FtxOgNqvXuA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゼルダの伝説ティアーズオブザキングダム】登場人物みんなが好きになる冒険【#ときのそら生放送/ホロライブ/ときのそら】\nhttps://www.youtube.com/watch?v=YpPUaAryUc8
+DURATION:PT2H
+DTSTART:20230613T120000Z
+SUMMARY:🐻ときのそら: 【ゼルダの伝説ティアーズオブザキングダム】登場人物みんなが好きになる冒険【#ときのそら生放送/ホロライブ/ときのそら】
+UID:YpPUaAryUc8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】まったり雑談💭Free talk【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=-rlICGRotpQ
@@ -107,13 +107,6 @@ DURATION:PT2H
 DTSTART:20230613T110000Z
 SUMMARY:獅白ぼたん: 【Paranormal Cleanup】えっ、今日はお化け屋敷でゴミ掃除していいのか！#すばちょこるなたん【獅白ぼたん/ホロライブ】
 UID:bCU5mieGhWw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SEKIRO】復活のござ狼🍃#2【風真いろは/ホロライブ】※配信内容にネタバレを含みます\nhttps://www.youtube.com/watch?v=NNwwECCz-ec
-DURATION:PT2H
-DTSTART:20230613T090000Z
-SUMMARY:風真いろは: 【SEKIRO】復活のござ狼🍃#2【風真いろは/ホロライブ】※配信内容にネタバレを含みます
-UID:NNwwECCz-ec
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:NEWオリ曲‼DECO*27さん書き下ろし『ばかばっか』FULL版チャンネルにて公開中【hololive/鷹嶺ルイ】#shorts\nhttps://www.youtube.com/watch?v=-R6d9SUMv6o
@@ -193,6 +186,13 @@ SUMMARY:🐏角巻わため: 【Minecraft】ラムベガスにヤギハウス！
 UID:ekjpfqhEJt0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Ranch Simulator】ダーリン！牧場発展させるわよ！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=8dnZbOAFNiU
+DURATION:PT2H
+DTSTART:20230613T130000Z
+SUMMARY:🔥不知火フレア: 【Ranch Simulator】ダーリン！牧場発展させるわよ！【不知火フレア/ホロライブ】
+UID:8dnZbOAFNiU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【公認ミラー配信】みんなで最新情報をチェックだぁぁぁ！　#カプコンショーケース公認ミラー配信【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=23QK259eNuA
 DURATION:PT2H
 DTSTART:20230612T215000Z
@@ -263,13 +263,6 @@ SUMMARY:🐻ときのそら: 【Minecraft】あずきちのお手伝いをする
 UID:ntarf-t8bB0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #スバちょこるなたん 】絶叫？！４人でお化け屋敷をお掃除することになったのら！！🧟 Paranormal Cleanup【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=agnhbctkW2I
-DURATION:PT2H
-DTSTART:20230613T110000Z
-SUMMARY:🍬姫森ルーナ: 【 #スバちょこるなたん 】絶叫？！４人でお化け屋敷をお掃除することになったのら！！🧟 Paranormal Cleanup【姫森ルーナ/ホロライブ】
-UID:agnhbctkW2I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】あずきち、倉庫の素材集めにいくの巻【ホロライブ / AZKi / ときのそら】\nhttps://www.youtube.com/watch?v=NawE40S7hk0
 DURATION:PT2H
 DTSTART:20230612T130000Z
@@ -282,13 +275,6 @@ DURATION:PT2H
 DTSTART:20230612T090000Z
 SUMMARY:ホロライブ: 【丸見え】キーワードと数字で私生活を暴け！【#プライベートナンバークイズ】
 UID:nmRgCNZ6c2g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【＃すばちょこるなたん】お化け屋敷でゴミ掃除しゅばああああああああああああああああああああああああああああああ！！！！！：Paranormal Cleanup【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=63D9hox2Q6o
-DURATION:PT2H
-DTSTART:20230613T110000Z
-SUMMARY:🚑大空スバル: 【＃すばちょこるなたん】お化け屋敷でゴミ掃除しゅばああああああああああああああああああああああああああああああ！！！！！：Paranormal Cleanup【ホロライブ/大空スバル】
-UID:63D9hox2Q6o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】まったりおはなししよ♡ Free talk【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=E7jl8SU4vSg
