@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:[More Announcements] hololive English's Worldwide Opinion Poll Part 2! With a special reveal...?!\nhttps://www.youtube.com/watch?v=shLfWopbo9g
+DURATION:PT2H
+DTSTART:20230615T020000Z
+SUMMARY:ENholo: [More Announcements] hololive English's Worldwide Opinion Poll Part 2! With a special reveal...?!
+UID:shLfWopbo9g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Getting Over It】endurance until i finally beat it pt. 2 (open vc)\nhttps://www.youtube.com/watch?v=yEha60JRg7M
+DURATION:PT2H
+DTSTART:20230615T005943Z
+SUMMARY:Calli: 【Getting Over It】endurance until i finally beat it pt. 2 (open vc)
+UID:yEha60JRg7M
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Powerwash Simulator】Washing All That DLC\, Probably All Just A (Final) Fantasy Though...\nhttps://www.youtube.com/watch?v=-fBlrjLNHuk
 DURATION:PT2H
 DTSTART:20230614T230000Z
@@ -16,20 +30,6 @@ DURATION:PT2H
 DTSTART:20230614T020000Z
 SUMMARY:IRyS: 【Nekopara - Catboys Paradise】Surrounded by Catboys
 UID:eMf8LXpZVGg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[More Announcements] hololive English's Worldwide Opinion Poll Part 2! With a special reveal...?!\nhttps://www.youtube.com/watch?v=shLfWopbo9g
-DURATION:PT2H
-DTSTART:20230615T020000Z
-SUMMARY:ENholo: [More Announcements] hololive English's Worldwide Opinion Poll Part 2! With a special reveal...?!
-UID:shLfWopbo9g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】we will do things #kfp #キアライブ\nhttps://www.youtube.com/watch?v=jeroBv5-_S8
-DURATION:PT2H
-DTSTART:20230613T161000Z
-SUMMARY:Kiara: 【MINECRAFT】we will do things #kfp #キアライブ
-UID:jeroBv5-_S8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Diablo 4】Rise Bro | #2\nhttps://www.youtube.com/watch?v=R2cVXwDcjAE
@@ -46,10 +46,17 @@ SUMMARY:Ina: 【Minecraft】 arT
 UID:92s82JlONE4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Getting Over It】endurance until i finally beat it pt. 2 (open vc)\nhttps://www.youtube.com/watch?v=yEha60JRg7M
+DESCRIPTION:【MINECRAFT】we will do things #kfp #キアライブ\nhttps://www.youtube.com/watch?v=jeroBv5-_S8
 DURATION:PT2H
-DTSTART:20230615T005943Z
-SUMMARY:Calli: 【Getting Over It】endurance until i finally beat it pt. 2 (open vc)
-UID:yEha60JRg7M
+DTSTART:20230613T161000Z
+SUMMARY:Kiara: 【MINECRAFT】we will do things #kfp #キアライブ
+UID:jeroBv5-_S8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MV】 Connect the World 【hololive English Original Song】\nhttps://www.youtube.com/watch?v=bitH6NZ_e2Q
+DURATION:PT2H
+DTSTART:20230616T030000Z
+SUMMARY:ENholo: 【MV】 Connect the World 【hololive English Original Song】
+UID:bitH6NZ_e2Q
 END:VEVENT
 END:VCALENDAR
