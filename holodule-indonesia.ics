@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 AREA 15 】Otsukare HoloID Cafe! And Many More!【 iofi / hololive 】\nhttps://www.youtube.com/watch?v=JcH1AyGHbvY
-DURATION:PT2H
-DTSTART:20230615T130000Z
-SUMMARY:🎨Iofi: 【 AREA 15 】Otsukare HoloID Cafe! And Many More!【 iofi / hololive 】
-UID:JcH1AyGHbvY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Auto Sorter Redstone! progress from 70 to 80!!!【holoID】\nhttps://www.youtube.com/watch?v=IcnpI4E29qw
 DURATION:PT2H
 DTSTART:20230615T060000Z
@@ -25,11 +18,18 @@ SUMMARY:Ollie: 【FREETALK】HOPE YOU GUYS DIDNT BELOK TOO HARD HEHE【Hololive 
 UID:bXnpxiKhY7s
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Diablo IV】#5 we go to WT4 tonight【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=i1LCT56rcx8
+DESCRIPTION:【Hitman 3】 Do not scan the barcode!!! #7\nhttps://www.youtube.com/watch?v=QVOTUiMWimo
 DURATION:PT2H
-DTSTART:20230615T123000Z
-SUMMARY:Kaela: 【Diablo IV】#5 we go to WT4 tonight【Kaela Kovalskia / hololiveID】
-UID:i1LCT56rcx8
+DTSTART:20230615T150000Z
+SUMMARY:Zeta: 【Hitman 3】 Do not scan the barcode!!! #7
+UID:QVOTUiMWimo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 AREA 15 】Otsukare HoloID Cafe! And Many More!【 iofi / hololive 】\nhttps://www.youtube.com/watch?v=JcH1AyGHbvY
+DURATION:PT2H
+DTSTART:20230615T130000Z
+SUMMARY:🎨Iofi: 【 AREA 15 】Otsukare HoloID Cafe! And Many More!【 iofi / hololive 】
+UID:JcH1AyGHbvY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Dead Cells】Quick play hehe【Ayunda Risu】\nhttps://www.youtube.com/watch?v=lxmzqsocPdI
@@ -37,6 +37,13 @@ DURATION:PT2H
 DTSTART:20230615T093000Z
 SUMMARY:🐿Risu: 【Dead Cells】Quick play hehe【Ayunda Risu】
 UID:lxmzqsocPdI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Diablo IV】#5 we go to WT4 tonight【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=i1LCT56rcx8
+DURATION:PT2H
+DTSTART:20230615T123000Z
+SUMMARY:Kaela: 【Diablo IV】#5 we go to WT4 tonight【Kaela Kovalskia / hololiveID】
+UID:i1LCT56rcx8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Donation Reading + Free Talk】reading from the collab + PEMALOE DAY【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=BARu030f16g
