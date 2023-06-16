@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【MEMBER'S ONLY】JIGOKU 6 SPECIAL STREAM!!\nhttps://www.youtube.com/watch?v=2yH2ZN8eVZo
+DESCRIPTION:【Powerwash Simulator】Washing All That DLC\, Probably All Just A (Final) Fantasy Though...\nhttps://www.youtube.com/watch?v=-fBlrjLNHuk
 DURATION:PT2H
-DTSTART:20230616T020046Z
-SUMMARY:Calli: 【MEMBER'S ONLY】JIGOKU 6 SPECIAL STREAM!!
-UID:2yH2ZN8eVZo
+DTSTART:20230614T230000Z
+SUMMARY:Kronii: 【Powerwash Simulator】Washing All That DLC\, Probably All Just A (Final) Fantasy Though...
+UID:-fBlrjLNHuk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Members Only】Dredd (2012) Movie Watchalong!!\nhttps://www.youtube.com/watch?v=7ThHor-KTaE
+DURATION:PT2H
+DTSTART:20230616T040000Z
+SUMMARY:IRyS: 【Members Only】Dredd (2012) Movie Watchalong!!
+UID:7ThHor-KTaE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MV】 Connect the World 【hololive English Original Song】\nhttps://www.youtube.com/watch?v=bitH6NZ_e2Q
+DURATION:PT2H
+DTSTART:20230616T030000Z
+SUMMARY:ENholo: 【MV】 Connect the World 【hololive English Original Song】
+UID:bitH6NZ_e2Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[More Announcements] hololive English's Worldwide Opinion Poll Part 2! With a special reveal...?!\nhttps://www.youtube.com/watch?v=shLfWopbo9g
@@ -16,6 +30,13 @@ DURATION:PT2H
 DTSTART:20230615T020000Z
 SUMMARY:ENholo: [More Announcements] hololive English's Worldwide Opinion Poll Part 2! With a special reveal...?!
 UID:shLfWopbo9g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】 arT\nhttps://www.youtube.com/watch?v=92s82JlONE4
+DURATION:PT2H
+DTSTART:20230614T213000Z
+SUMMARY:Ina: 【Minecraft】 arT
+UID:92s82JlONE4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Getting Over It】endurance until i finally beat it pt. 2 (open vc)\nhttps://www.youtube.com/watch?v=yEha60JRg7M
@@ -30,33 +51,5 @@ DURATION:PT2H
 DTSTART:20230616T010000Z
 SUMMARY:Fauna: 【Bread & Fred】 Kronii & Fauna play a (hopefully not) rage inducing co-op platformer
 UID:lHLx62THuYM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Members Only】Dredd (2012) Movie Watchalong!!\nhttps://www.youtube.com/watch?v=7ThHor-KTaE
-DURATION:PT2H
-DTSTART:20230616T040000Z
-SUMMARY:IRyS: 【Members Only】Dredd (2012) Movie Watchalong!!
-UID:7ThHor-KTaE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Powerwash Simulator】Washing All That DLC\, Probably All Just A (Final) Fantasy Though...\nhttps://www.youtube.com/watch?v=-fBlrjLNHuk
-DURATION:PT2H
-DTSTART:20230614T230000Z
-SUMMARY:Kronii: 【Powerwash Simulator】Washing All That DLC\, Probably All Just A (Final) Fantasy Though...
-UID:-fBlrjLNHuk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】 arT\nhttps://www.youtube.com/watch?v=92s82JlONE4
-DURATION:PT2H
-DTSTART:20230614T213000Z
-SUMMARY:Ina: 【Minecraft】 arT
-UID:92s82JlONE4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MV】 Connect the World 【hololive English Original Song】\nhttps://www.youtube.com/watch?v=bitH6NZ_e2Q
-DURATION:PT2H
-DTSTART:20230616T030000Z
-SUMMARY:ENholo: 【MV】 Connect the World 【hololive English Original Song】
-UID:bitH6NZ_e2Q
 END:VEVENT
 END:VCALENDAR
