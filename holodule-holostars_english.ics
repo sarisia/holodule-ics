@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【SPECIAL ZATSUDAN】AND WE DON'T STOP COOKING AND WE DON'T STOP COOKING【COVER RELEASE】\nhttps://www.youtube.com/watch?v=tkblvYEceuo
+DURATION:PT2H
+DTSTART:20230617T020500Z
+SUMMARY:Hakka: 【SPECIAL ZATSUDAN】AND WE DON'T STOP COOKING AND WE DON'T STOP COOKING【COVER RELEASE】
+UID:tkblvYEceuo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【VALORANT】Time to get carried\, Im scared Axelotls... \; \;\nhttps://www.youtube.com/watch?v=vxFgEByFSEQ
 DURATION:PT2H
 DTSTART:20230616T110000Z
@@ -11,11 +18,11 @@ SUMMARY:Syrios: 【VALORANT】Time to get carried\, Im scared Axelotls... \; \;
 UID:vxFgEByFSEQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Membership】The Mummy Watchalong!\nhttps://www.youtube.com/watch?v=HUAaX7lRJX0
+DESCRIPTION:【Banzoin Hakka】Tower Of Babel / バベルの迷宮【歌ってみた】\nhttps://www.youtube.com/watch?v=F0qR6PaTvac
 DURATION:PT2H
-DTSTART:20230617T010000Z
-SUMMARY:Shinri: 【Membership】The Mummy Watchalong!
-UID:HUAaX7lRJX0
+DTSTART:20230617T020000Z
+SUMMARY:Hakka: 【Banzoin Hakka】Tower Of Babel / バベルの迷宮【歌ってみた】
+UID:F0qR6PaTvac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 World of Warcraft 】ಠ_______________ಠ\nhttps://www.youtube.com/watch?v=Lj04m3xsfYY
@@ -37,5 +44,12 @@ DURATION:PT2H
 DTSTART:20230616T170000Z
 SUMMARY:Vesper: 【 Membership 】Art Practice Stream(APS) I think I'll do a Dez emote\, help me figure out what to draw
 UID:i4QZwot8fxA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Membership】The Mummy Watchalong!\nhttps://www.youtube.com/watch?v=HUAaX7lRJX0
+DURATION:PT2H
+DTSTART:20230617T010000Z
+SUMMARY:Shinri: 【Membership】The Mummy Watchalong!
+UID:HUAaX7lRJX0
 END:VEVENT
 END:VCALENDAR
