@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【SPECIAL ZATSUDAN】AND WE DON'T STOP COOKING AND WE DON'T STOP COOKING【COVER RELEASE】\nhttps://www.youtube.com/watch?v=tkblvYEceuo
+DURATION:PT2H
+DTSTART:20230617T020500Z
+SUMMARY:Hakka: 【SPECIAL ZATSUDAN】AND WE DON'T STOP COOKING AND WE DON'T STOP COOKING【COVER RELEASE】
+UID:tkblvYEceuo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VALORANT】Time to get carried\, Im scared Axelotls... \; \;\nhttps://www.youtube.com/watch?v=vxFgEByFSEQ
+DURATION:PT2H
+DTSTART:20230616T110000Z
+SUMMARY:Syrios: 【VALORANT】Time to get carried\, Im scared Axelotls... \; \;
+UID:vxFgEByFSEQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Banzoin Hakka】Tower Of Babel / バベルの迷宮【歌ってみた】\nhttps://www.youtube.com/watch?v=F0qR6PaTvac
 DURATION:PT2H
 DTSTART:20230617T020000Z
@@ -18,13 +32,6 @@ SUMMARY:Vesper: 【 World of Warcraft 】ಠ_______________ಠ
 UID:Lj04m3xsfYY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SPECIAL ZATSUDAN】AND WE DON'T STOP COOKING AND WE DON'T STOP COOKING【COVER RELEASE】\nhttps://www.youtube.com/watch?v=tkblvYEceuo
-DURATION:PT2H
-DTSTART:20230617T020500Z
-SUMMARY:Hakka: 【SPECIAL ZATSUDAN】AND WE DON'T STOP COOKING AND WE DON'T STOP COOKING【COVER RELEASE】
-UID:tkblvYEceuo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【NEKOPARA】Hot single catboys in your area! w/ Flayon!\nhttps://www.youtube.com/watch?v=DagEwTp_4UI
 DURATION:PT2H
 DTSTART:20230616T010000Z
@@ -32,18 +39,11 @@ SUMMARY:Shinri: 【NEKOPARA】Hot single catboys in your area! w/ Flayon!
 UID:DagEwTp_4UI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Membership 】Art Practice Stream(APS) I think I'll do a Dez emote\, help me figure out what to draw\nhttps://www.youtube.com/watch?v=i4QZwot8fxA
+DESCRIPTION:【STREET FIGHTER 6】I Want To Be Diamond One Day. HELP ME\nhttps://www.youtube.com/watch?v=Slsv1SveaIs
 DURATION:PT2H
-DTSTART:20230616T170000Z
-SUMMARY:Vesper: 【 Membership 】Art Practice Stream(APS) I think I'll do a Dez emote\, help me figure out what to draw
-UID:i4QZwot8fxA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VALORANT】Time to get carried\, Im scared Axelotls... \; \;\nhttps://www.youtube.com/watch?v=vxFgEByFSEQ
-DURATION:PT2H
-DTSTART:20230616T110000Z
-SUMMARY:Syrios: 【VALORANT】Time to get carried\, Im scared Axelotls... \; \;
-UID:vxFgEByFSEQ
+DTSTART:20230616T233000Z
+SUMMARY:Flayon: 【STREET FIGHTER 6】I Want To Be Diamond One Day. HELP ME
+UID:Slsv1SveaIs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Membership】The Mummy Watchalong!\nhttps://www.youtube.com/watch?v=HUAaX7lRJX0
@@ -51,12 +51,5 @@ DURATION:PT2H
 DTSTART:20230617T010000Z
 SUMMARY:Shinri: 【Membership】The Mummy Watchalong!
 UID:HUAaX7lRJX0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【STREET FIGHTER 6】I Want To Be Diamond One Day. HELP ME\nhttps://www.youtube.com/watch?v=Slsv1SveaIs
-DURATION:PT2H
-DTSTART:20230616T233000Z
-SUMMARY:Flayon: 【STREET FIGHTER 6】I Want To Be Diamond One Day. HELP ME
-UID:Slsv1SveaIs
 END:VEVENT
 END:VCALENDAR
