@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Possibly Archived KARAOKE】TIME TO SING BABY\, LET'S HAVE SOME FUN!\nhttps://www.youtube.com/watch?v=uJWfU7WqR24
+DURATION:PT2H
+DTSTART:20230618T021500Z
+SUMMARY:Hakka: 【Possibly Archived KARAOKE】TIME TO SING BABY\, LET'S HAVE SOME FUN!
+UID:uJWfU7WqR24
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Banzoin Hakka】Tower Of Babel / バベルの迷宮【歌ってみた】\nhttps://www.youtube.com/watch?v=F0qR6PaTvac
 DURATION:PT2H
 DTSTART:20230617T020000Z
@@ -58,12 +65,5 @@ DURATION:PT2H
 DTSTART:20230616T233000Z
 SUMMARY:Flayon: 【STREET FIGHTER 6】I Want To Be Diamond One Day. HELP ME
 UID:Slsv1SveaIs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【NieR: Replicant】Let's go on this long and emotional journey #1 *SPOLER ALERT*\nhttps://www.youtube.com/watch?v=BRB1Fggj8Oc
-DURATION:PT2H
-DTSTART:20230617T040000Z
-SUMMARY:Syrios: 【NieR: Replicant】Let's go on this long and emotional journey #1 *SPOLER ALERT*
-UID:BRB1Fggj8Oc
 END:VEVENT
 END:VCALENDAR
