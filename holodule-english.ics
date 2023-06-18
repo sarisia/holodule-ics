@@ -4,60 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:It Takes Two to Arm Wrestle (And Even More to Win) #holoEN3DRepeat\nhttps://www.youtube.com/watch?v=VTfiCpPPSUc
-DURATION:PT2H
-DTSTART:20230617T030000Z
-SUMMARY:ENholo: It Takes Two to Arm Wrestle (And Even More to Win) #holoEN3DRepeat
-UID:VTfiCpPPSUc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【TLOZ Tears Of The Kingdom】Back To The Main Story! (4th Sages..what now?) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=BPd5uaDXJXo
 DURATION:PT2H
 DTSTART:20230618T133000Z
 SUMMARY:Kiara: 【TLOZ Tears Of The Kingdom】Back To The Main Story! (4th Sages..what now?) #kfp #キアライブ
 UID:BPd5uaDXJXo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:〘Minecraft〙House Renovations~\nhttps://www.youtube.com/watch?v=Lh4FpdTzDgo
-DURATION:PT2H
-DTSTART:20230617T030000Z
-SUMMARY:Amelia: 〘Minecraft〙House Renovations~
-UID:Lh4FpdTzDgo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:s e v e n\nhttps://www.youtube.com/watch?v=l6Qlyix5Jw8
-DURATION:PT2H
-DTSTART:20230617T034459Z
-SUMMARY:Baelz: s e v e n
-UID:l6Qlyix5Jw8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Getting Over It】this has to end pt. 3 (open vc)\nhttps://www.youtube.com/watch?v=UBBTH0dbnB4
-DURATION:PT2H
-DTSTART:20230617T020044Z
-SUMMARY:Calli: 【Getting Over It】this has to end pt. 3 (open vc)
-UID:UBBTH0dbnB4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【TLOZ Tears Of The Kingdom】EXPLORATION & SIDESTUFF! (MAZES\, KOHGA & more!) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=Qs2i720R5bk
-DURATION:PT2H
-DTSTART:20230617T132000Z
-SUMMARY:Kiara: 【TLOZ Tears Of The Kingdom】EXPLORATION & SIDESTUFF! (MAZES\, KOHGA & more!) #kfp #キアライブ
-UID:Qs2i720R5bk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Diablo 4】Probably a Hell of a Fun Time\nhttps://www.youtube.com/watch?v=5WRB9fttYa0
-DURATION:PT2H
-DTSTART:20230618T030000Z
-SUMMARY:IRyS: 【Diablo 4】Probably a Hell of a Fun Time
-UID:5WRB9fttYa0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Kroniicle Animation】 Kronies? Ew\nhttps://www.youtube.com/watch?v=tu-EVIBTSPI
-DURATION:PT2H
-DTSTART:20230617T030000Z
-SUMMARY:Kronii: 【Kroniicle Animation】 Kronies? Ew
-UID:tu-EVIBTSPI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TotK】engineer time\nhttps://www.youtube.com/watch?v=oX3aTmTX15k
@@ -67,13 +18,6 @@ SUMMARY:Amelia: 【TotK】engineer time
 UID:oX3aTmTX15k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Kroniicle Animation】 Kronies? Ew #shorts\nhttps://www.youtube.com/watch?v=np3MZ_svKe8
-DURATION:PT2H
-DTSTART:20230617T031253Z
-SUMMARY:Kronii: 【Kroniicle Animation】 Kronies? Ew #shorts
-UID:np3MZ_svKe8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Cats Organized Neatly】 Master of Organization Ninyomanyo Inya'nis On Duty\nhttps://www.youtube.com/watch?v=fa-WAiTp1OE
 DURATION:PT2H
 DTSTART:20230617T210000Z
@@ -81,17 +25,17 @@ SUMMARY:Ina: 【Cats Organized Neatly】 Master of Organization Ninyomanyo Inya'
 UID:fa-WAiTp1OE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Papa's Freezeria Deluxe】i got a job!\nhttps://www.youtube.com/watch?v=LWzf7s38isY
-DURATION:PT2H
-DTSTART:20230617T000000Z
-SUMMARY:Amelia: 【Papa's Freezeria Deluxe】i got a job!
-UID:LWzf7s38isY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Watson Weekly】NEW News Show | #1\nhttps://www.youtube.com/watch?v=7snzVlgMUps
 DURATION:PT2H
 DTSTART:20230618T220000Z
 SUMMARY:Amelia: 【Watson Weekly】NEW News Show | #1
 UID:7snzVlgMUps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Diablo 4】Probably a Hell of a Fun Time\nhttps://www.youtube.com/watch?v=5WRB9fttYa0
+DURATION:PT2H
+DTSTART:20230618T030000Z
+SUMMARY:IRyS: 【Diablo 4】Probably a Hell of a Fun Time
+UID:5WRB9fttYa0
 END:VEVENT
 END:VCALENDAR
