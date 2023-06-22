@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:TSUBASA / 鷹嶺ルイ(official)\nhttps://www.youtube.com/watch?v=d0YRA5vMkBE
-DURATION:PT2H
-DTSTART:20230621T090000Z
-SUMMARY:鷹嶺ルイ: TSUBASA / 鷹嶺ルイ(official)
-UID:d0YRA5vMkBE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:さよならテンダー / 猫又おかゆ(cover)\nhttps://www.youtube.com/watch?v=Ed84kNmkNDc
 DURATION:PT2H
 DTSTART:20230622T090000Z
 SUMMARY:🍙猫又おかゆ: さよならテンダー / 猫又おかゆ(cover)
 UID:Ed84kNmkNDc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【cover】拝啓ドッペルゲンガー【歌ってみた/ときのそら/ホロライブ】\nhttps://www.youtube.com/watch?v=eATUgteLHLo
-DURATION:PT2H
-DTSTART:20230622T120000Z
-SUMMARY:🐻ときのそら: 【cover】拝啓ドッペルゲンガー【歌ってみた/ときのそら/ホロライブ】
-UID:eATUgteLHLo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:異世界の最新情報をお届け！HoloearthTV #3【#ホロアースTV】\nhttps://www.youtube.com/watch?v=uBLaRpT57PA
@@ -32,11 +18,18 @@ SUMMARY:ホロライブ: 異世界の最新情報をお届け！HoloearthTV #3�
 UID:uBLaRpT57PA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スーパーマリオブラザーズ】今日はクリアできるかな！？【#ときのそら生放送/ホロライブ/ときのそら】\nhttps://www.youtube.com/watch?v=aDQawjqRGz4
+DESCRIPTION:【cover】拝啓ドッペルゲンガー【歌ってみた/ときのそら/ホロライブ】\nhttps://www.youtube.com/watch?v=eATUgteLHLo
 DURATION:PT2H
-DTSTART:20230621T120000Z
-SUMMARY:🐻ときのそら: 【スーパーマリオブラザーズ】今日はクリアできるかな！？【#ときのそら生放送/ホロライブ/ときのそら】
-UID:aDQawjqRGz4
+DTSTART:20230622T120000Z
+SUMMARY:🐻ときのそら: 【cover】拝啓ドッペルゲンガー【歌ってみた/ときのそら/ホロライブ】
+UID:eATUgteLHLo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ドラゴンクエスト11S】大大大冒険じゃ～～～～！IKZ！#01 #※ネタバレあり【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=8jdCHMXV9pA
+DURATION:PT2H
+DTSTART:20230623T130000Z
+SUMMARY:🍙猫又おかゆ: 【ドラゴンクエスト11S】大大大冒険じゃ～～～～！IKZ！#01 #※ネタバレあり【猫又おかゆ/ホロライブ】
+UID:8jdCHMXV9pA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MONSTER HUNTER RISE:SUNBREAK】原初を刻むメル・ゼナ🔥ソロ討伐リベンジ‼装備作り参加型お願いします…！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=bN2024kF-YU
@@ -51,13 +44,6 @@ DURATION:PT2H
 DTSTART:20230622T100000Z
 SUMMARY:💋癒月ちょこ: 【おバカ人狼/Feign】おバカの王になれってこと？ #わちゃっとおバカ人狼【ホロライブ/癒月ちょこ】
 UID:VT4W8-nufuA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【振付レクチャー】"Twinkle 4 You"一緒に踊ろう！\nhttps://www.youtube.com/watch?v=2rONX18ejxo
-DURATION:PT2H
-DTSTART:20230621T110002Z
-SUMMARY:ホロライブ: 【振付レクチャー】"Twinkle 4 You"一緒に踊ろう！
-UID:2rONX18ejxo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【おバカ人狼/Feign】一人だけIQ5000ですW #わちゃっとおバカ人狼 【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=vWUS9IOWb84
@@ -116,18 +102,11 @@ SUMMARY:🥐戌神ころね: 【スト６】我ら #かZooの子 ！！今日も
 UID:6__1K4Gk5NY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【  ソウルキャリバーⅥ 】今夜こそ勝ち越すカオスな奴らとの戦い、にぇ！！！！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=G_ulCc3zizw
+DESCRIPTION:【 夜間警備 】久々のホラゲ…。ホラー耐性リセットされました。【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=NoUf-0AThrk
 DURATION:PT2H
-DTSTART:20230621T120000Z
-SUMMARY:🌸さくらみこ: 【  ソウルキャリバーⅥ 】今夜こそ勝ち越すカオスな奴らとの戦い、にぇ！！！！！！！【ホロライブ/さくらみこ】
-UID:G_ulCc3zizw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【世界のアソビ大全51】あじめたい角巻わため vs あじめたくない大空スバル【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=W6ZUOCeqVic
-DURATION:PT2H
-DTSTART:20230621T130000Z
-SUMMARY:🐏角巻わため: 【世界のアソビ大全51】あじめたい角巻わため vs あじめたくない大空スバル【角巻わため/ホロライブ４期生】
-UID:W6ZUOCeqVic
+DTSTART:20230624T140000Z
+SUMMARY:鷹嶺ルイ: 【 夜間警備 】久々のホラゲ…。ホラー耐性リセットされました。【鷹嶺ルイ/ホロライブ】
+UID:NoUf-0AThrk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ポルカの伝説】尾丸ポルカ握手会会場こちらです\nhttps://www.youtube.com/watch?v=5DOilEjoOuY
@@ -135,20 +114,6 @@ DURATION:PT2H
 DTSTART:20230622T100000Z
 SUMMARY:尾丸ポルカ: 【ポルカの伝説】尾丸ポルカ握手会会場こちらです
 UID:5DOilEjoOuY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #エボルヴ 開封/カメラ有】 #シャドバエボルヴ コラボカード入り新弾「絶対なる覇者」開封！罰ゲームあり⁉自引きするぞおおお！🔥【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=io9WiUBV9S4
-DURATION:PT2H
-DTSTART:20230621T110000Z
-SUMMARY:博衣こより: 【 #エボルヴ 開封/カメラ有】 #シャドバエボルヴ コラボカード入り新弾「絶対なる覇者」開封！罰ゲームあり⁉自引きするぞおおお！🔥【博衣こより/ホロライブ】
-UID:io9WiUBV9S4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【夜間警備】果たしてこの時間は夜間なのかっていう疑問(19時)【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=4Llx0FHh3b8
-DURATION:PT2H
-DTSTART:20230621T100000Z
-SUMMARY:⚔白銀ノエル: 【夜間警備】果たしてこの時間は夜間なのかっていう疑問(19時)【白銀ノエル/ホロライブ】
-UID:4Llx0FHh3b8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【おバカ人狼/Feign】9人でばかさわぎ🤪 #わちゃっとおバカ人狼 【尾丸ポルカ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=n_UPO_pqz_k
@@ -165,32 +130,11 @@ SUMMARY:鷹嶺ルイ: 【 Membership／同時視聴 】シャーロック・ホ�
 UID:Q0T2N9Qn3x4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【夜雑】のんびり夜の雑談配信【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=ZIpbIT0PyjM
-DURATION:PT2H
-DTSTART:20230622T120000Z
-SUMMARY:雪花ラミィ: 【夜雑】のんびり夜の雑談配信【雪花ラミィ/ホロライブ】
-UID:ZIpbIT0PyjM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【夜間警備】最初で最後の最恐のホラゲー・・・【ホロライブ/紫咲シオン/猫又おかゆ】\nhttps://www.youtube.com/watch?v=bSUk_VX7pHY
 DURATION:PT2H
 DTSTART:20230622T110000Z
 SUMMARY:🌙紫咲シオン: 【夜間警備】最初で最後の最恐のホラゲー・・・【ホロライブ/紫咲シオン/猫又おかゆ】
 UID:bSUk_VX7pHY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【同時視聴】Nintendo Direct 2023.6.21を一緒に見よう！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=a6UQpH8U4ds
-DURATION:PT2H
-DTSTART:20230621T135000Z
-SUMMARY:👯兎田ぺこら: 【同時視聴】Nintendo Direct 2023.6.21を一緒に見よう！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:a6UQpH8U4ds
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠│SINGING】かわいい曲縛り♪いっぱい歌って告知する！【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=NYZYW2RoOD8
-DURATION:PT2H
-DTSTART:20230621T130000Z
-SUMMARY:ラプラス: 【歌枠│SINGING】かわいい曲縛り♪いっぱい歌って告知する！【ラプラス・ダークネス/ホロライブ】
-UID:NYZYW2RoOD8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【昼雑談】ただいま～‼お休み明けはご飯食べながらまったり話そう✨TSUBASAのMV秘話もｱﾘ‼【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=BPVqOc7pAGE
@@ -200,6 +144,13 @@ SUMMARY:鷹嶺ルイ: 【昼雑談】ただいま～‼お休み明けはご飯�
 UID:BPVqOc7pAGE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:最後にセクシーつけたら面白い説 #Shorts 【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=vFQnh8rVK-8
+DURATION:PT2H
+DTSTART:20230622T145805Z
+SUMMARY:🍙猫又おかゆ: 最後にセクシーつけたら面白い説 #Shorts 【猫又おかゆ/ホロライブ】
+UID:vFQnh8rVK-8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【おバカ人狼/Feign】真のおバカは誰なのか選手権 #わちゃっとおバカ人狼【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=DgIKULD1f24
 DURATION:PT2H
 DTSTART:20230622T100000Z
@@ -207,46 +158,11 @@ SUMMARY:🌟夜空メル: 【おバカ人狼/Feign】真のおバカは誰なの
 UID:DgIKULD1f24
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スト６】CRカップに向けてのチーム練習！！！【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=IHU5TlRDwuk
+DESCRIPTION:【 ドラクエⅢ 】完全初見。新たな旅で新たな発見を…。ゴールドマンおる？？？【鷹嶺ルイ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=kHCrm5bMjgg
 DURATION:PT2H
-DTSTART:20230621T120000Z
-SUMMARY:🥐戌神ころね: 【スト６】CRカップに向けてのチーム練習！！！【戌神ころね/ホロライブ】
-UID:IHU5TlRDwuk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Ranch Simulator】いいかげんソーセージ売らせろ【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=c3MJO7FvW9Q
-DURATION:PT2H
-DTSTART:20230621T130000Z
-SUMMARY:🔥不知火フレア: 【Ranch Simulator】いいかげんソーセージ売らせろ【不知火フレア/ホロライブ】
-UID:c3MJO7FvW9Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ゼルダの伝説ティアーズオブザキングダム】祠とミニチャレンジ【ホロライブ/ときのそら】\nhttps://www.youtube.com/watch?v=HeW51NxBb1Q
-DURATION:PT2H
-DTSTART:20230621T150000Z
-SUMMARY:🐻ときのそら: 【ゼルダの伝説ティアーズオブザキングダム】祠とミニチャレンジ【ホロライブ/ときのそら】
-UID:HeW51NxBb1Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【最終回/ネタバレあり】ロックマンエグゼ3 BLACK【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=OJbuEemhjck
-DURATION:PT2H
-DTSTART:20230621T110000Z
-SUMMARY:🌽白上フブキ: 【最終回/ネタバレあり】ロックマンエグゼ3 BLACK【ホロライブ/白上フブキ】
-UID:OJbuEemhjck
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BLUE PROTOCOL】深夜の初心者廃人【ロボ子さん /ホロライブ】\nhttps://www.youtube.com/watch?v=5tajlSQaDTM
-DURATION:PT2H
-DTSTART:20230621T140000Z
-SUMMARY:🤖ロボ子さん: 【BLUE PROTOCOL】深夜の初心者廃人【ロボ子さん /ホロライブ】
-UID:5tajlSQaDTM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ディアブロIV】サブクエ進める昼ブロ【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=F1o6A2CqNEo
-DURATION:PT2H
-DTSTART:20230621T030000Z
-SUMMARY:雪花ラミィ: 【ディアブロIV】サブクエ進める昼ブロ【雪花ラミィ/ホロライブ】
-UID:F1o6A2CqNEo
+DTSTART:20230624T030000Z
+SUMMARY:鷹嶺ルイ: 【 ドラクエⅢ 】完全初見。新たな旅で新たな発見を…。ゴールドマンおる？？？【鷹嶺ルイ/ホロライブ】※ネタバレあり
+UID:kHCrm5bMjgg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:プロ声優のアフレコがすごすぎる！！！！！【ホロライブ/宝鐘マリン】#shorts\nhttps://www.youtube.com/watch?v=hrD6trfJL2w
@@ -263,39 +179,18 @@ SUMMARY:🌽白上フブキ: 【FF16】ファイナルファンタジーXVI  #�
 UID:THB8FefJPD8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:緊急ゲリラ！なにやら謎のタグが作られている！？【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=orxmprEWTk0
+DURATION:PT2H
+DTSTART:20230622T150000Z
+SUMMARY:🍎アキロゼ: 緊急ゲリラ！なにやら謎のタグが作られている！？【ホロライブ/アキ・ローゼンタール】
+UID:orxmprEWTk0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【SEKIRO】復活のござ狼🍃#4【風真いろは/ホロライブ】※配信内容にネタバレを含みます\nhttps://www.youtube.com/watch?v=0y_nMjJ60nE
 DURATION:PT2H
 DTSTART:20230622T090000Z
 SUMMARY:風真いろは: 【SEKIRO】復活のござ狼🍃#4【風真いろは/ホロライブ】※配信内容にネタバレを含みます
 UID:0y_nMjJ60nE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Rusty Lake Hotel】ダークな世界観で謎解きを・・【大神ミオ/ホロライブ】\nhttps://www.youtube.com/watch?v=8fvMzdvs7X4
-DURATION:PT2H
-DTSTART:20230621T100000Z
-SUMMARY:🌲大神ミオ: 【Rusty Lake Hotel】ダークな世界観で謎解きを・・【大神ミオ/ホロライブ】
-UID:8fvMzdvs7X4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【OHAPOL雑談歌枠/KARAOKE】しゃべったり歌ったりしたいや～つ【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=0I-MTODu3uQ
-DURATION:PT2H
-DTSTART:20230621T010000Z
-SUMMARY:尾丸ポルカ: 【OHAPOL雑談歌枠/KARAOKE】しゃべったり歌ったりしたいや～つ【尾丸ポルカ/ホロライブ】
-UID:0I-MTODu3uQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ねぇねぇねぇ。／Covered by癒月ちょこ＆しぐれうい【歌ってみた】\nhttps://www.youtube.com/watch?v=gLhm4GvDknw
-DURATION:PT2H
-DTSTART:20230621T090000Z
-SUMMARY:💋癒月ちょこ: ねぇねぇねぇ。／Covered by癒月ちょこ＆しぐれうい【歌ってみた】
-UID:gLhm4GvDknw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【夜間警備】すみません帰らせてください；；ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=c9td5_x8Iv4
-DURATION:PT2H
-DTSTART:20230621T120000Z
-SUMMARY:👯兎田ぺこら: 【夜間警備】すみません帰らせてください；；ぺこ！【ホロライブ/兎田ぺこら】
-UID:c9td5_x8Iv4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:神演出？！「U」【角巻わため/ホロライブ４期生】  #shorts\nhttps://www.youtube.com/watch?v=_X0Zv7QaNhA
@@ -317,13 +212,6 @@ DURATION:PT2H
 DTSTART:20230621T220000Z
 SUMMARY:🌟夜空メル: 【朝メル#37】朝メルだYO！全員集合～！！！【ホロライブ/夜空メル】
 UID:hO-MgujCKnM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 マイクラ 】桜アプデ！？！よっしゃ！ラミィにかわいい家作ったろ！【 桃鈴ねね / ホロライブ 】\nhttps://www.youtube.com/watch?v=lbZ9B4ZFDvA
-DURATION:PT2H
-DTSTART:20230621T090000Z
-SUMMARY:桃鈴ねね: 【 マイクラ 】桜アプデ！？！よっしゃ！ラミィにかわいい家作ったろ！【 桃鈴ねね / ホロライブ 】
-UID:lbZ9B4ZFDvA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【開封】コラボBOX開封！豪運シャチ自引きなるか…！？#シャドバエボルヴ【ホロライブ/沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=HxK06JNLqAk
@@ -354,24 +242,17 @@ SUMMARY:桃鈴ねね: 【 カラオケ 】ボイトレで言われたこと注�
 UID:NeVHMs3jGX0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【同時視聴】Nintendo Direct  2023.6.21 ニンダイ一緒に観よう！！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=TP9ExJ8A048
-DURATION:PT2H
-DTSTART:20230621T135000Z
-SUMMARY:博衣こより: 【同時視聴】Nintendo Direct  2023.6.21 ニンダイ一緒に観よう！！！【博衣こより/ホロライブ】
-UID:TP9ExJ8A048
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【GeoGuessr】Travelling Indonesia with Ollie!【ホロライブ / AZKi / クレイジー・オリー】\nhttps://www.youtube.com/watch?v=fL56u_encFE
-DURATION:PT2H
-DTSTART:20230622T130000Z
-SUMMARY:⚒AZKi: 【GeoGuessr】Travelling Indonesia with Ollie!【ホロライブ / AZKi / クレイジー・オリー】
-UID:fL56u_encFE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【朝雑】金曜日は朝活！ご報告もあるかも～っ☀【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=cCAwzyGhoY8
 DURATION:PT2H
 DTSTART:20230622T220000Z
 SUMMARY:博衣こより: 【朝雑】金曜日は朝活！ご報告もあるかも～っ☀【博衣こより/ホロライブ】
 UID:cCAwzyGhoY8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 夜間警備 】泥酔して夜勤のお仕事するけど・・・いいのらよね？🥺【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=6ZyIOiRaI3I
+DURATION:PT2H
+DTSTART:20230623T150000Z
+SUMMARY:🍬姫森ルーナ: 【 夜間警備 】泥酔して夜勤のお仕事するけど・・・いいのらよね？🥺【姫森ルーナ/ホロライブ】
+UID:6ZyIOiRaI3I
 END:VEVENT
 END:VCALENDAR
