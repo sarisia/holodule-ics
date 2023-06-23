@@ -4,11 +4,32 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:Vtuber tier S\nhttps://www.youtube.com/watch?v=RiyQBnKoJIw
+DURATION:PT2H
+DTSTART:20230623T112643Z
+SUMMARY:🐿Risu: Vtuber tier S
+UID:RiyQBnKoJIw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Night Security | 夜間警備】Catching you in the act\nhttps://www.youtube.com/watch?v=C0Su3uxPI4g
+DURATION:PT2H
+DTSTART:20230623T150000Z
+SUMMARY:Zeta: 【Night Security | 夜間警備】Catching you in the act
+UID:C0Su3uxPI4g
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】5 more trims!!【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=2blyCf6ZOPc
 DURATION:PT2H
 DTSTART:20230623T034500Z
 SUMMARY:Kaela: 【Minecraft】5 more trims!!【Kaela Kovalskia / hololiveID】
 UID:2blyCf6ZOPc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】lets complete all of the 16 trims. TODAY OR NEVER ⛏️【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=2SrdsX4_HqA
+DURATION:PT2H
+DTSTART:20230624T020000Z
+SUMMARY:Kaela: 【Minecraft】lets complete all of the 16 trims. TODAY OR NEVER ⛏️【Kaela Kovalskia / hololiveID】
+UID:2SrdsX4_HqA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Big Money!】click click click click click click click click click【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=R_f4ijzMJxg
@@ -25,25 +46,11 @@ SUMMARY:Anya: 【cover】 スロウダウナー(Slow Downer) 【Anya Melfissa ×
 UID:o3pdZzvnUWY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Night Security | 夜間警備】Catching you in the act\nhttps://www.youtube.com/watch?v=C0Su3uxPI4g
-DURATION:PT2H
-DTSTART:20230623T150000Z
-SUMMARY:Zeta: 【Night Security | 夜間警備】Catching you in the act
-UID:C0Su3uxPI4g
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Dumpy Adalah Aset Perusahaan #FreeFire #iofi #hololive #hololiveID\nhttps://www.youtube.com/watch?v=lMyIPnqu830
 DURATION:PT2H
 DTSTART:20230623T125118Z
 SUMMARY:🎨Iofi: Dumpy Adalah Aset Perusahaan #FreeFire #iofi #hololive #hololiveID
 UID:lMyIPnqu830
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Vtuber tier S\nhttps://www.youtube.com/watch?v=RiyQBnKoJIw
-DURATION:PT2H
-DTSTART:20230623T112643Z
-SUMMARY:🐿Risu: Vtuber tier S
-UID:RiyQBnKoJIw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Rusty Lake Hotel】THE BEST HOTEL. WE WILL SERVE YOU. MEPADVISOR 5 STAR【Pavolia Reine/hololiveID】\nhttps://www.youtube.com/watch?v=6iXDO1kF81s
