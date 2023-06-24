@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【TotK】Into the Deep Depths..?\nhttps://www.youtube.com/watch?v=HgUmRXdhMes
+DURATION:PT2H
+DTSTART:20230625T000500Z
+SUMMARY:Amelia: 【TotK】Into the Deep Depths..?
+UID:HgUmRXdhMes
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#holoENConnect Countdown - Day 9 with Hakos Baelz!\nhttps://www.youtube.com/watch?v=aydTGQFAWKU
 DURATION:PT2H
 DTSTART:20230624T030001Z
@@ -25,18 +32,18 @@ SUMMARY:Mumei: It's Me\, Your Owl\, Nanashi Mumei !
 UID:xKpGYBAUWao
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Only Up!】 I heard this game is like Getting Over It ( ͡° ͜ʖ ͡°)\nhttps://www.youtube.com/watch?v=HS7iTOkFVJI
-DURATION:PT2H
-DTSTART:20230623T220000Z
-SUMMARY:Fauna: 【Only Up!】 I heard this game is like Getting Over It ( ͡° ͜ʖ ͡°)
-UID:HS7iTOkFVJI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【UNARCHIVED】KARAOKE TIME!!!!! bops only #kfp #キアライブ\nhttps://www.youtube.com/watch?v=25MbE06WJu8
 DURATION:PT2H
 DTSTART:20230624T180000Z
 SUMMARY:Kiara: 【UNARCHIVED】KARAOKE TIME!!!!! bops only #kfp #キアライブ
 UID:25MbE06WJu8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Only Up!】 I heard this game is like Getting Over It ( ͡° ͜ʖ ͡°)\nhttps://www.youtube.com/watch?v=HS7iTOkFVJI
+DURATION:PT2H
+DTSTART:20230623T220000Z
+SUMMARY:Fauna: 【Only Up!】 I heard this game is like Getting Over It ( ͡° ͜ʖ ͡°)
+UID:HS7iTOkFVJI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ONLY UP!】so hiiiiiiiiiigh\, so hiiiiiiiigh...\nhttps://www.youtube.com/watch?v=BGOtt5DJ6ZQ
