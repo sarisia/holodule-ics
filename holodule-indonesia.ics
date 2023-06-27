@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:random gaki appears (actually no. it's just fish.)\nhttps://www.youtube.com/watch?v=FwV3jSUzUlg
+DESCRIPTION:【Diablo IV】#7 CAN WE PUSH THAT LEVEL HIGHER?!【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=VTyd49ds5mc
 DURATION:PT2H
-DTSTART:20230626T150000Z
-SUMMARY:Zeta: random gaki appears (actually no. it's just fish.)
-UID:FwV3jSUzUlg
+DTSTART:20230627T024500Z
+SUMMARY:Kaela: 【Diablo IV】#7 CAN WE PUSH THAT LEVEL HIGHER?!【Kaela Kovalskia / hololiveID】
+UID:VTyd49ds5mc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Cat Goes Fishing】BIRD GOES FISHING【Pavolia Reine/hololiveID gen 2】\nhttps://www.youtube.com/watch?v=JOU7zAHBu94
+DURATION:PT2H
+DTSTART:20230627T130000Z
+SUMMARY:Reine: 【Cat Goes Fishing】BIRD GOES FISHING【Pavolia Reine/hololiveID gen 2】
+UID:JOU7zAHBu94
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:NT (nice try)\nhttps://www.youtube.com/watch?v=_hSxEEF29uE
@@ -16,6 +23,27 @@ DURATION:PT2H
 DTSTART:20230626T023840Z
 SUMMARY:🐿Risu: NT (nice try)
 UID:_hSxEEF29uE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PEJUANG SENIN】#48 rise and shine🌞【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=_K9CTc7cXwE
+DURATION:PT2H
+DTSTART:20230625T230000Z
+SUMMARY:Kaela: 【PEJUANG SENIN】#48 rise and shine🌞【Kaela's Monday Warrior】
+UID:_K9CTc7cXwE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Meteor 60 Seconds!】DUARRRRRRRRRRRRRRRRR ADIOS【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=ghZVEhRbI7o
+DURATION:PT2H
+DTSTART:20230626T143000Z
+SUMMARY:Kaela: 【Meteor 60 Seconds!】DUARRRRRRRRRRRRRRRRR ADIOS【Kaela Kovalskia / hololiveID】
+UID:ghZVEhRbI7o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:random gaki appears (actually no. it's just fish.)\nhttps://www.youtube.com/watch?v=FwV3jSUzUlg
+DURATION:PT2H
+DTSTART:20230626T150000Z
+SUMMARY:Zeta: random gaki appears (actually no. it's just fish.)
+UID:FwV3jSUzUlg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Free Talk 雑談】ICC & Cover Release Otsukare!【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=sYp4D4Mf5So
@@ -37,19 +65,5 @@ DURATION:PT2H
 DTSTART:20230626T065927Z
 SUMMARY:Ollie: 【MINECRAFT】I FORGOT THAT I HAVEN'T FINISHED THE ID TRAIN STATION【Hololive Indonesia 2nd Gen】
 UID:NM8EDVgvFwg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PEJUANG SENIN】#48 rise and shine🌞【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=_K9CTc7cXwE
-DURATION:PT2H
-DTSTART:20230625T230000Z
-SUMMARY:Kaela: 【PEJUANG SENIN】#48 rise and shine🌞【Kaela's Monday Warrior】
-UID:_K9CTc7cXwE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Meteor 60 Seconds!】DUARRRRRRRRRRRRRRRRR ADIOS【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=ghZVEhRbI7o
-DURATION:PT2H
-DTSTART:20230626T143000Z
-SUMMARY:Kaela: 【Meteor 60 Seconds!】DUARRRRRRRRRRRRRRRRR ADIOS【Kaela Kovalskia / hololiveID】
-UID:ghZVEhRbI7o
 END:VEVENT
 END:VCALENDAR
