@@ -186,18 +186,18 @@ SUMMARY:Calli: 【Street Fighter 6】A BEAUTIFUL STAR.
 UID:EjitoIBVNAs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝雑】金曜日は朝活！まったり雑談～～～っ☀【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=5uZzw_ro1E0
-DURATION:PT2H
-DTSTART:20230629T220000Z
-SUMMARY:博衣こより: 【朝雑】金曜日は朝活！まったり雑談～～～っ☀【博衣こより/ホロライブ】
-UID:5uZzw_ro1E0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Brotato】save da potato【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=oYGHxQCBLH8
 DURATION:PT2H
 DTSTART:20230630T061500Z
 SUMMARY:Kaela: 【Brotato】save da potato【Kaela Kovalskia / hololiveID】
 UID:oYGHxQCBLH8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝雑】金曜日は朝活！まったり雑談～～～っ☀【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=5uZzw_ro1E0
+DURATION:PT2H
+DTSTART:20230629T220000Z
+SUMMARY:博衣こより: 【朝雑】金曜日は朝活！まったり雑談～～～っ☀【博衣こより/ホロライブ】
+UID:5uZzw_ro1E0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【料理/カメラ有】AIの言いなり料理！余った「冷凍松茸」を使うレシピをAIに考えてもらうよ🍳✨【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=B9FDi7hk_A0
@@ -319,6 +319,13 @@ SUMMARY:Syrios: きゅうくらりん - covered by Axel Syrios【歌ってみた
 UID:8_RDxnewnfc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】卵を探せ！考古学者わためのぱっぱ旅！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=XFgNAGUqbfI
+DURATION:PT2H
+DTSTART:20230701T130000Z
+SUMMARY:🐏角巻わため: 【Minecraft】卵を探せ！考古学者わためのぱっぱ旅！【角巻わため/ホロライブ４期生】
+UID:XFgNAGUqbfI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 FF16 】時間未確定！！！　＃２ 新作「ファイナルファンタジーXVI」で遊ぶのら！FINAL FANTASY XVI【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=FikK5ihIwmc
 DURATION:PT2H
 DTSTART:20230701T130000Z
@@ -359,6 +366,13 @@ DURATION:PT2H
 DTSTART:20230701T080000Z
 SUMMARY:Anya: 【プロセカ Project Sekai】Pleasepleasepleasepleasepleaseお願いしますお願いお願いｓ【hololive ID 2nd Gen | Anya Melfissa】
 UID:hi3cxKK-kzM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】1時間の散歩と博物館の内装【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=qHZSmXo8H6o
+DURATION:PT2H
+DTSTART:20230630T140000Z
+SUMMARY:🍕アルランディス: 【Minecraft】1時間の散歩と博物館の内装【アルランディス/ホロスターズ】
+UID:qHZSmXo8H6o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The Sound of One Hand Slapping #holoEN3DRepeat\nhttps://www.youtube.com/watch?v=przSDGq_1gs
@@ -429,13 +443,6 @@ DURATION:PT2H
 DTSTART:20230630T130000Z
 SUMMARY:🐏角巻わため: 【影廊 -Shadow Corridor-】見守りホラゲのお時間です......【角巻わため/ホロライブ４期生】
 UID:AfGHlZQX_Po
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ウルトラ寝起き】最近暑すぎｒｒｒｒ【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=83BWdzBNtzg
-DURATION:PT2H
-DTSTART:20230629T220000Z
-SUMMARY:🍙猫又おかゆ: 【ウルトラ寝起き】最近暑すぎｒｒｒｒ【猫又おかゆ/ホロライブ】
-UID:83BWdzBNtzg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】上半期おつかれさん！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=kXIfNlguwlU
@@ -522,11 +529,11 @@ SUMMARY:🌽白上フブキ: 【スト6】STREET FIGHTER 6初心者ですが闘�
 UID:r67UTQ99qrY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】1時間の散歩と博物館の内装【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=qHZSmXo8H6o
+DESCRIPTION:【ウルトラ寝起き】最近暑すぎｒｒｒｒ【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=83BWdzBNtzg
 DURATION:PT2H
-DTSTART:20230630T140000Z
-SUMMARY:🍕アルランディス: 【Minecraft】1時間の散歩と博物館の内装【アルランディス/ホロスターズ】
-UID:qHZSmXo8H6o
+DTSTART:20230629T220000Z
+SUMMARY:🍙猫又おかゆ: 【ウルトラ寝起き】最近暑すぎｒｒｒｒ【猫又おかゆ/ホロライブ】
+UID:83BWdzBNtzg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ロックマンX2】完全初見🌟いけ！へたっぴこよックマンX！パーツゼロでボス5体撃破ってマ⁉【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=dEbirlqi_Ns
