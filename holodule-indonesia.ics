@@ -4,18 +4,32 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【DRINKING WATER】KINDA THIRSTY【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=XHvnKAnHImA
-DURATION:PT2H
-DTSTART:20230701T063000Z
-SUMMARY:Ollie: 【DRINKING WATER】KINDA THIRSTY【Hololive Indonesia 2nd Gen】
-UID:XHvnKAnHImA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Brotato】save da potato【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=oYGHxQCBLH8
 DURATION:PT2H
 DTSTART:20230630T061500Z
 SUMMARY:Kaela: 【Brotato】save da potato【Kaela Kovalskia / hololiveID】
 UID:oYGHxQCBLH8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Hitman 3】 no violence detected\nhttps://www.youtube.com/watch?v=H3YYd0NaDAw
+DURATION:PT2H
+DTSTART:20230629T150000Z
+SUMMARY:Zeta: 【Hitman 3】 no violence detected
+UID:H3YYd0NaDAw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VALORANT】pls carry I DON'T KNOW ANYTHING【Pavolia Reine/hololiveID gen 2】\nhttps://www.youtube.com/watch?v=vJcCPf0me_Y
+DURATION:PT2H
+DTSTART:20230630T150000Z
+SUMMARY:Reine: 【VALORANT】pls carry I DON'T KNOW ANYTHING【Pavolia Reine/hololiveID gen 2】
+UID:vJcCPf0me_Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DRINKING WATER】KINDA THIRSTY【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=XHvnKAnHImA
+DURATION:PT2H
+DTSTART:20230701T061412Z
+SUMMARY:Ollie: 【DRINKING WATER】KINDA THIRSTY【Hololive Indonesia 2nd Gen】
+UID:XHvnKAnHImA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Typing of the Dead: Overkill】I HAVE A DESKMAT NOW clickety clackety【Pavolia Reine/hololiveID gen 2】\nhttps://www.youtube.com/watch?v=RC5nJsbWvAQ
@@ -32,11 +46,11 @@ SUMMARY:Anya: 【プロセカ Project Sekai】Pleasepleasepleasepleasepleaseお�
 UID:hi3cxKK-kzM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Hitman 3】 no violence detected\nhttps://www.youtube.com/watch?v=H3YYd0NaDAw
+DESCRIPTION:【VALORANT】GIVE ME TENENENG【Pavolia Reine/hololiveID gen 2】\nhttps://www.youtube.com/watch?v=NkwQSO860pc
 DURATION:PT2H
-DTSTART:20230629T150000Z
-SUMMARY:Zeta: 【Hitman 3】 no violence detected
-UID:H3YYd0NaDAw
+DTSTART:20230701T063000Z
+SUMMARY:Reine: 【VALORANT】GIVE ME TENENENG【Pavolia Reine/hololiveID gen 2】
+UID:NkwQSO860pc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【OFF COLLAB】#saltedturkey Back on the Menu!!! With THE AMELIA WATSON【Pavolia Reine/hololiveID gen 2】\nhttps://www.youtube.com/watch?v=62MxM2d_LT0
@@ -44,12 +58,5 @@ DURATION:PT2H
 DTSTART:20230630T061500Z
 SUMMARY:Reine: 【OFF COLLAB】#saltedturkey Back on the Menu!!! With THE AMELIA WATSON【Pavolia Reine/hololiveID gen 2】
 UID:62MxM2d_LT0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VALORANT】pls carry I DON'T KNOW ANYTHING【Pavolia Reine/hololiveID gen 2】\nhttps://www.youtube.com/watch?v=vJcCPf0me_Y
-DURATION:PT2H
-DTSTART:20230630T150000Z
-SUMMARY:Reine: 【VALORANT】pls carry I DON'T KNOW ANYTHING【Pavolia Reine/hololiveID gen 2】
-UID:vJcCPf0me_Y
 END:VEVENT
 END:VCALENDAR
