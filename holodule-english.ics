@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Katamari Damacy Reroll】My Final Message To The World: ROLL | END\nhttps://www.youtube.com/watch?v=rSazWpxgPWQ
+DESCRIPTION:≪Model Patch 1.1.69≫ Same Same but Different\nhttps://www.youtube.com/watch?v=j-K-nuaaFZk
 DURATION:PT2H
-DTSTART:20230701T010000Z
-SUMMARY:Kronii: 【Katamari Damacy Reroll】My Final Message To The World: ROLL | END
-UID:rSazWpxgPWQ
+DTSTART:20230702T010000Z
+SUMMARY:Baelz: ≪Model Patch 1.1.69≫ Same Same but Different
+UID:j-K-nuaaFZk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#holoENConnect Countdown - Day 2 with IRyS!\nhttps://www.youtube.com/watch?v=3p0EElMOkQo
@@ -23,5 +23,26 @@ DURATION:PT2H
 DTSTART:20230701T040000Z
 SUMMARY:ENholo: The Sound of One Hand Slapping #holoEN3DRepeat
 UID:przSDGq_1gs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Katamari Damacy Reroll】My Final Message To The World: ROLL | END\nhttps://www.youtube.com/watch?v=rSazWpxgPWQ
+DURATION:PT2H
+DTSTART:20230701T010000Z
+SUMMARY:Kronii: 【Katamari Damacy Reroll】My Final Message To The World: ROLL | END
+UID:rSazWpxgPWQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【YUKATA PARTY】holosummer is here!! ^^\nhttps://www.youtube.com/watch?v=g2Mv6hNu6mE
+DURATION:PT2H
+DTSTART:20230703T060000Z
+SUMMARY:Calli: 【YUKATA PARTY】holosummer is here!! ^^
+UID:g2Mv6hNu6mE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Chat】Summer TIME!!! Travel Stream~\nhttps://www.youtube.com/watch?v=Amf2Pjg3DCw
+DURATION:PT2H
+DTSTART:20230701T230000Z
+SUMMARY:Amelia: 【Chat】Summer TIME!!! Travel Stream~
+UID:Amf2Pjg3DCw
 END:VEVENT
 END:VCALENDAR
