@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:[TABS] MY ARROWS WILL BLOT OUT THE SUN! #holotempus #gavisbettel\nhttps://www.youtube.com/watch?v=jEHh9-ITgx0
-DURATION:PT2H
-DTSTART:20230701T211500Z
-SUMMARY:Bettel: [TABS] MY ARROWS WILL BLOT OUT THE SUN! #holotempus #gavisbettel
-UID:jEHh9-ITgx0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【FINAL FANTASY XVI】Going on a date with Jill!!! #4\nhttps://www.youtube.com/watch?v=vMGCFQZKgow
 DURATION:PT2H
 DTSTART:20230703T020000Z
@@ -18,11 +11,11 @@ SUMMARY:Syrios: 【FINAL FANTASY XVI】Going on a date with Jill!!! #4
 UID:vMGCFQZKgow
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Choose This\, Shinri!】Interactive Fiction Adventure by the Koipanions!\nhttps://www.youtube.com/watch?v=c9xJtyYjlA8
+DESCRIPTION:【LOBOTOMY CORPORATION】#4 | Relaxing Work Shifts Before "Paid" Vacation\nhttps://www.youtube.com/watch?v=Fad3rKN7u70
 DURATION:PT2H
-DTSTART:20230702T010000Z
-SUMMARY:Shinri: 【Choose This\, Shinri!】Interactive Fiction Adventure by the Koipanions!
-UID:c9xJtyYjlA8
+DTSTART:20230702T224500Z
+SUMMARY:Flayon: 【LOBOTOMY CORPORATION】#4 | Relaxing Work Shifts Before "Paid" Vacation
+UID:Fad3rKN7u70
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HANDCAM】TIME TO COOK W/ HAKKAMAMA! LET'S HAVE FUN HAKKITOS!\nhttps://www.youtube.com/watch?v=mLQH3_V-wrU
@@ -30,5 +23,26 @@ DURATION:PT2H
 DTSTART:20230703T021500Z
 SUMMARY:Hakka: 【HANDCAM】TIME TO COOK W/ HAKKAMAMA! LET'S HAVE FUN HAKKITOS!
 UID:mLQH3_V-wrU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:maybe farming? probably farming.【Subnautica】\nhttps://www.youtube.com/watch?v=plZsnTR0UTw
+DURATION:PT2H
+DTSTART:20230703T010000Z
+SUMMARY:Shinri: maybe farming? probably farming.【Subnautica】
+UID:plZsnTR0UTw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[TABS] MY ARROWS WILL BLOT OUT THE SUN! #holotempus #gavisbettel\nhttps://www.youtube.com/watch?v=jEHh9-ITgx0
+DURATION:PT2H
+DTSTART:20230701T211500Z
+SUMMARY:Bettel: [TABS] MY ARROWS WILL BLOT OUT THE SUN! #holotempus #gavisbettel
+UID:jEHh9-ITgx0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Choose This\, Shinri!】Interactive Fiction Adventure by the Koipanions!\nhttps://www.youtube.com/watch?v=c9xJtyYjlA8
+DURATION:PT2H
+DTSTART:20230702T010000Z
+SUMMARY:Shinri: 【Choose This\, Shinri!】Interactive Fiction Adventure by the Koipanions!
+UID:c9xJtyYjlA8
 END:VEVENT
 END:VCALENDAR
