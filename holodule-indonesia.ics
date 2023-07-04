@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Watchalong】hololive English 1st Concert -Connect the World- Watchalong!【hololiveID】\nhttps://www.youtube.com/watch?v=Qqp2ozEqCXU
+DURATION:PT2H
+DTSTART:20230704T120000Z
+SUMMARY:🔮Moona: 【Watchalong】hololive English 1st Concert -Connect the World- Watchalong!【hololiveID】
+UID:Qqp2ozEqCXU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Garten of Banban】どうも、幼稚園のお姉さん（？）です。【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=vUWczVy6UYg
 DURATION:PT2H
 DTSTART:20230703T130000Z
 SUMMARY:Anya: 【Garten of Banban】どうも、幼稚園のお姉さん（？）です。【hololive ID 2nd Generation | Anya Melfissa】
 UID:vUWczVy6UYg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#holoIDcaf3】hololive Indonesia 3rd Anniversary Cafe - After Movie\nhttps://www.youtube.com/watch?v=ETDE8Q_4lW8
+DURATION:PT2H
+DTSTART:20230704T060004Z
+SUMMARY:IDholo: 【#holoIDcaf3】hololive Indonesia 3rd Anniversary Cafe - After Movie
+UID:ETDE8Q_4lW8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VALORANT】CASUAL MORNING EGGSERCISE (im baby)【Pavolia Reine/hololiveID gen 2】\nhttps://www.youtube.com/watch?v=4zsqAPoTbUk
