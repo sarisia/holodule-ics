@@ -39,13 +39,6 @@ SUMMARY:雪花ラミィ: 【夜雑】LIVEでやる秘密のアレ…決めちゃ
 UID:hkydz_0Yu3g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【イラスト】月曜の朝から元気にお絵描き雑談！！！！【#緋崎ガンマ / #ホロスターズ / #vtuber #イラスト 】\nhttps://www.youtube.com/watch?v=UWItKUYXhSE
-DURATION:PT2H
-DTSTART:20230703T000000Z
-SUMMARY:緋崎ガンマ: 【イラスト】月曜の朝から元気にお絵描き雑談！！！！【#緋崎ガンマ / #ホロスターズ / #vtuber #イラスト 】
-UID:UWItKUYXhSE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:THE BEACH EPISODE - Magni Dezmond Shorts Ver.\nhttps://www.youtube.com/watch?v=a44JRR_a6D0
 DURATION:PT2H
 DTSTART:20230704T010001Z
@@ -144,11 +137,11 @@ SUMMARY:🌟夜空メル: 【Only Up! 】初チャレンジ！行こう、高み
 UID:5-3sG_fly_o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Only Up!】えぇ!!RTAが流行ってるのぉ!?!?【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=-sw78lNrryE
+DESCRIPTION:【HOLOLIVE CONNECT THE WORLD】The IRyStocrat Summit\nhttps://www.youtube.com/watch?v=ZFaPwQkjKb8
 DURATION:PT2H
-DTSTART:20230703T103000Z
-SUMMARY:🍕アルランディス: 【Only Up!】えぇ!!RTAが流行ってるのぉ!?!?【アルランディス/ホロスターズ】
-UID:-sw78lNrryE
+DTSTART:20230704T030000Z
+SUMMARY:IRyS: 【HOLOLIVE CONNECT THE WORLD】The IRyStocrat Summit
+UID:ZFaPwQkjKb8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:お知らせあり！おいしいお酒で盛り上がるぞい #ねぽらぼT4U\nhttps://www.youtube.com/watch?v=ov-pX6Rj0s8
@@ -158,18 +151,18 @@ SUMMARY:桃鈴ねね: お知らせあり！おいしいお酒で盛り上がる�
 UID:ov-pX6Rj0s8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Only Up!】えぇ!!RTAが流行ってるのぉ!?!?【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=-sw78lNrryE
+DURATION:PT2H
+DTSTART:20230703T103000Z
+SUMMARY:🍕アルランディス: 【Only Up!】えぇ!!RTAが流行ってるのぉ!?!?【アルランディス/ホロスターズ】
+UID:-sw78lNrryE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【EAT】夏といえば～～～～？？【ロボ子さん /ホロライブ】\nhttps://www.youtube.com/watch?v=MkfGzIgN588
 DURATION:PT2H
 DTSTART:20230704T030000Z
 SUMMARY:🤖ロボ子さん: 【EAT】夏といえば～～～～？？【ロボ子さん /ホロライブ】
 UID:MkfGzIgN588
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HOLOLIVE CONNECT THE WORLD】The IRyStocrat Summit\nhttps://www.youtube.com/watch?v=ZFaPwQkjKb8
-DURATION:PT2H
-DTSTART:20230704T030000Z
-SUMMARY:IRyS: 【HOLOLIVE CONNECT THE WORLD】The IRyStocrat Summit
-UID:ZFaPwQkjKb8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Small Reveal? 雑談やちょっとお披露目】Talk + Small Reveal + Supadonoreading!【holoID 2nd Gen | Anya Melfissa】\nhttps://www.youtube.com/watch?v=YcUXYBF5BBY
@@ -235,18 +228,18 @@ SUMMARY:🏮夏色まつり: 【APEX】フルパランク w/渋谷ハル ハセ�
 UID:1zSnG0RqOQE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Only Up!】　合　え　向　き　【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=zLQt0dYtH4U
-DURATION:PT2H
-DTSTART:20230703T060000Z
-SUMMARY:🍷夕刻ロベル: 【Only Up!】　合　え　向　き　【夕刻ロベル/ホロスターズ】
-UID:zLQt0dYtH4U
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:チャンネル登録者様1\,000\,000人感謝！喉が回復したら企画リベンジします！\nhttps://www.youtube.com/watch?v=zAunHbcjJ_s
 DURATION:PT2H
 DTSTART:20230703T140000Z
 SUMMARY:ラプラス: チャンネル登録者様1\,000\,000人感謝！喉が回復したら企画リベンジします！
 UID:zAunHbcjJ_s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Only Up!】　合　え　向　き　【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=zLQt0dYtH4U
+DURATION:PT2H
+DTSTART:20230703T060000Z
+SUMMARY:🍷夕刻ロベル: 【Only Up!】　合　え　向　き　【夕刻ロベル/ホロスターズ】
+UID:zLQt0dYtH4U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Papa's Freezeria Deluxe】not gonna ruin the order🍹【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=8JAfEtKb9lo
@@ -347,11 +340,25 @@ SUMMARY:Kaela: 【PEJUANG SENIN】#49 Happy Happy July!!🌞【Kaela's Monday Wa
 UID:tJc4lQq4mJQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Coffee Talk Episode 2: Hibiscus & Butterfly】珈琲を入れ話をする7【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=JrfKMIVTS1Q
+DURATION:PT2H
+DTSTART:20230703T140000Z
+SUMMARY:荒咬オウガ: 【Coffee Talk Episode 2: Hibiscus & Butterfly】珈琲を入れ話をする7【荒咬オウガ/ホロスターズ】
+UID:JrfKMIVTS1Q
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【VALORANT】CASUAL MORNING EGGSERCISE (im baby)【Pavolia Reine/hololiveID gen 2】\nhttps://www.youtube.com/watch?v=4zsqAPoTbUk
 DURATION:PT2H
 DTSTART:20230704T003000Z
 SUMMARY:Reine: 【VALORANT】CASUAL MORNING EGGSERCISE (im baby)【Pavolia Reine/hololiveID gen 2】
 UID:4zsqAPoTbUk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:THE BEACH EPISODE - Machina X Flayon Shorts Ver.\nhttps://www.youtube.com/watch?v=GMaIrdcK6Po
+DURATION:PT2H
+DTSTART:20230704T034403Z
+SUMMARY:Flayon: THE BEACH EPISODE - Machina X Flayon Shorts Ver.
+UID:GMaIrdcK6Po
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:もしかして食べたいの？#ホロサマshorts #hololivesummer2023 #shorts\nhttps://www.youtube.com/watch?v=dwCt7XIBRZI
@@ -368,11 +375,11 @@ SUMMARY:Bettel: THE BEACH EPISODE - Gavis Bettel Shorts Ver.
 UID:Mu5TwE16N_E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:THE BEACH EPISODE - Machina X Flayon Shorts Ver.\nhttps://www.youtube.com/watch?v=GMaIrdcK6Po
+DESCRIPTION:THE BEACH EPISODE - Josuiji Shinri Shorts Ver.\nhttps://www.youtube.com/watch?v=OOxifENQTpc
 DURATION:PT2H
-DTSTART:20230704T034403Z
-SUMMARY:Flayon: THE BEACH EPISODE - Machina X Flayon Shorts Ver.
-UID:GMaIrdcK6Po
+DTSTART:20230704T051858Z
+SUMMARY:Shinri: THE BEACH EPISODE - Josuiji Shinri Shorts Ver.
+UID:OOxifENQTpc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Only Up! 】姫様は高所恐怖症…？！初挑戦してみるのらぞぃ💓【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=QieYc921PXA
@@ -459,18 +466,18 @@ SUMMARY:Flayon: 【LOBOTOMY CORPORATION】#4 | Relaxing Work Shifts Before "Paid
 UID:Fad3rKN7u70
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3/サーモンラン】参加型🦑🐙残り1時間だけのバチコンで最高納品数を目指せ！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=nY_XkC8TisI
-DURATION:PT2H
-DTSTART:20230702T230000Z
-SUMMARY:🔥不知火フレア: 【スプラトゥーン3/サーモンラン】参加型🦑🐙残り1時間だけのバチコンで最高納品数を目指せ！【不知火フレア/ホロライブ】
-UID:nY_XkC8TisI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【VALORANT】一先ず振り分け戦‼やるぞお‼\nhttps://www.youtube.com/watch?v=33gLXRHMXio
 DURATION:PT2H
 DTSTART:20230703T120000Z
 SUMMARY:👿百鬼あやめ: 【VALORANT】一先ず振り分け戦‼やるぞお‼
 UID:33gLXRHMXio
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スプラトゥーン3/サーモンラン】参加型🦑🐙残り1時間だけのバチコンで最高納品数を目指せ！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=nY_XkC8TisI
+DURATION:PT2H
+DTSTART:20230702T230000Z
+SUMMARY:🔥不知火フレア: 【スプラトゥーン3/サーモンラン】参加型🦑🐙残り1時間だけのバチコンで最高納品数を目指せ！【不知火フレア/ホロライブ】
+UID:nY_XkC8TisI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[Week in Review] LET'S HAVE AN EPIC WEEK! #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=5N8iG4MnJx8
@@ -515,11 +522,11 @@ SUMMARY:Vesper: THE BEACH EPISODE - Noir Vesper Shorts Ver.
 UID:Xu-lMxmxxIU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Coffee Talk Episode 2: Hibiscus & Butterfly】珈琲を入れ話をする7【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=JrfKMIVTS1Q
+DESCRIPTION:【イラスト】月曜の朝から元気にお絵描き雑談！！！！【#緋崎ガンマ / #ホロスターズ / #vtuber #イラスト 】\nhttps://www.youtube.com/watch?v=UWItKUYXhSE
 DURATION:PT2H
-DTSTART:20230703T140000Z
-SUMMARY:荒咬オウガ: 【Coffee Talk Episode 2: Hibiscus & Butterfly】珈琲を入れ話をする7【荒咬オウガ/ホロスターズ】
-UID:JrfKMIVTS1Q
+DTSTART:20230703T000000Z
+SUMMARY:緋崎ガンマ: 【イラスト】月曜の朝から元気にお絵描き雑談！！！！【#緋崎ガンマ / #ホロスターズ / #vtuber #イラスト 】
+UID:UWItKUYXhSE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Ranch Simulator】だーりん！穀物も育てるわよ！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=X2jbQ9faENo
