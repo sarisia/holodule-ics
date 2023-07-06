@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:Konferensi Pers #GeloraholoID\nhttps://www.youtube.com/watch?v=vMDAW7CxG6o
+DURATION:PT2H
+DTSTART:20230706T130000Z
+SUMMARY:IDholo: Konferensi Pers #GeloraholoID
+UID:vMDAW7CxG6o
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:stream ends if i breathe\nhttps://www.youtube.com/watch?v=On_HXi06_Ds
 DURATION:PT2H
 DTSTART:20230706T081500Z
