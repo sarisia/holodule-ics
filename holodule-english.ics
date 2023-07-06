@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【KU100 ASMR】 Summer spa ASMR ♡ Water\, bubbles\, & massage in 3D\nhttps://www.youtube.com/watch?v=_N_m0xqqqMs
-DURATION:PT2H
-DTSTART:20230706T050000Z
-SUMMARY:Fauna: 【KU100 ASMR】 Summer spa ASMR ♡ Water\, bubbles\, & massage in 3D
-UID:_N_m0xqqqMs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪Only Up!≫ UP UP UP\nhttps://www.youtube.com/watch?v=eFbUYjGiogU
 DURATION:PT2H
 DTSTART:20230706T000500Z
@@ -25,18 +18,18 @@ SUMMARY:Baelz: First EP【Pandæmonium】 - Track 3 Preview!!
 UID:av5EGY3wUN0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:First EP【Pandæmonium】 - Track 4 Preview!!\nhttps://www.youtube.com/watch?v=Qznc4vqQNuU
-DURATION:PT2H
-DTSTART:20230706T030012Z
-SUMMARY:Baelz: First EP【Pandæmonium】 - Track 4 Preview!!
-UID:Qznc4vqQNuU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Slime Rancher 2】Goo Goo | #4\nhttps://www.youtube.com/watch?v=mCoKru5dsXY
 DURATION:PT2H
 DTSTART:20230706T013000Z
 SUMMARY:Kronii: 【Slime Rancher 2】Goo Goo | #4
 UID:mCoKru5dsXY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【BIRTHDAY PARTY】With Lots of EN girls!! Come join us!!! #KiaraBday2023\nhttps://www.youtube.com/watch?v=ZQgVSIY48L0
+DURATION:PT2H
+DTSTART:20230706T200000Z
+SUMMARY:Kiara: 【BIRTHDAY PARTY】With Lots of EN girls!! Come join us!!! #KiaraBday2023
+UID:ZQgVSIY48L0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【COUNTDOWN】birthday!!! with some call ins(more and merch tomorrow) #KiaraBday2023\nhttps://www.youtube.com/watch?v=I_i63FCRs5k
@@ -51,5 +44,19 @@ DURATION:PT2H
 DTSTART:20230706T144500Z
 SUMMARY:Baelz: my first ep is here and im losing my mind pls help me
 UID:HzwrizCn3TI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【KU100 ASMR】 Summer spa ASMR ♡ Water\, bubbles\, & massage in 3D\nhttps://www.youtube.com/watch?v=_N_m0xqqqMs
+DURATION:PT2H
+DTSTART:20230706T050000Z
+SUMMARY:Fauna: 【KU100 ASMR】 Summer spa ASMR ♡ Water\, bubbles\, & massage in 3D
+UID:_N_m0xqqqMs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:First EP【Pandæmonium】 - Track 4 Preview!!\nhttps://www.youtube.com/watch?v=Qznc4vqQNuU
+DURATION:PT2H
+DTSTART:20230706T030012Z
+SUMMARY:Baelz: First EP【Pandæmonium】 - Track 4 Preview!!
+UID:Qznc4vqQNuU
 END:VEVENT
 END:VCALENDAR
