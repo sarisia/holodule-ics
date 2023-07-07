@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:#2【Typing of the Dead: Overkill】WHAT'S YOUR TYPE?【Pavolia Reine/hololiveID gen 2】\nhttps://www.youtube.com/watch?v=7UXZEOfGVmY
-DURATION:PT2H
-DTSTART:20230706T140000Z
-SUMMARY:Reine: #2【Typing of the Dead: Overkill】WHAT'S YOUR TYPE?【Pavolia Reine/hololiveID gen 2】
-UID:7UXZEOfGVmY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【朝活】７月７日７時　起きれるかなチャレンジ☀🎋【ロボ子さん /ホロライブ】\nhttps://www.youtube.com/watch?v=uhqAY7M5h0E
 DURATION:PT2H
 DTSTART:20230706T220000Z
 SUMMARY:🤖ロボ子さん: 【朝活】７月７日７時　起きれるかなチャレンジ☀🎋【ロボ子さん /ホロライブ】
 UID:uhqAY7M5h0E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#2【Typing of the Dead: Overkill】WHAT'S YOUR TYPE?【Pavolia Reine/hololiveID gen 2】\nhttps://www.youtube.com/watch?v=7UXZEOfGVmY
+DURATION:PT2H
+DTSTART:20230706T140000Z
+SUMMARY:Reine: #2【Typing of the Dead: Overkill】WHAT'S YOUR TYPE?【Pavolia Reine/hololiveID gen 2】
+UID:7UXZEOfGVmY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 エレクトーン 】明日7/8(土)からエレクトーン『LUNA』全国ツアー開催なのら！🎹🎶【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=YsK07Ra1V-M
@@ -86,6 +86,13 @@ DURATION:PT2H
 DTSTART:20230707T130000Z
 SUMMARY:🐏角巻わため: 【影廊 -Shadow Corridor-】怖すぎるので今回も２人でいく！ #2【角巻わため/ホロライブ４期生】
 UID:9QtXMrNX_-Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【キングダムハーツ２】やるぞおおおおおおおおおおおおおおおおおおおおおおおおおお！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=PaKPwSv7_lg
+DURATION:PT2H
+DTSTART:20230708T040000Z
+SUMMARY:👯兎田ぺこら: 【キングダムハーツ２】やるぞおおおおおおおおおおおおおおおおおおおおおおおおおお！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり
+UID:PaKPwSv7_lg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【チラ見せ】hololive 5th Generation Live "Twinkle 4 You" 【#ねぽらぼT4U】\nhttps://www.youtube.com/watch?v=RRH29-R71T0
@@ -219,6 +226,13 @@ DURATION:PT2H
 DTSTART:20230706T230000Z
 SUMMARY:Altare: I'm not small\, this Goron is just really big!!! :C 【Zelda: Ocarina of Time】【2】
 UID:5D_Sn_DgjW4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【＃生スバル】Re:ゼロから始める異世界生活 同時視聴：Re:ZERO -Starting Life in Another World watching party【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=vk0pOU_qxU0
+DURATION:PT2H
+DTSTART:20230707T130000Z
+SUMMARY:🚑大空スバル: 【＃生スバル】Re:ゼロから始める異世界生活 同時視聴：Re:ZERO -Starting Life in Another World watching party【ホロライブ/大空スバル】
+UID:vk0pOU_qxU0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン3】女子カスタムで暴れまわります！！！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=REM5TPxynUs
@@ -515,11 +529,11 @@ SUMMARY:🍕アルランディス: 【Minecraft脱出MAP】謎解き脱出マッ
 UID:J5exBht9vvo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【＃生スバル】Re:ゼロから始める異世界生活 同時視聴：Re:ZERO -Starting Life in Another World watching party【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=vk0pOU_qxU0
+DESCRIPTION:【あつまれ どうぶつの森】久々にきたら癒された【ホロライブ/ときのそら/TokinoSora】\nhttps://www.youtube.com/watch?v=aJDUb9r50Qg
 DURATION:PT2H
-DTSTART:20230707T130000Z
-SUMMARY:🚑大空スバル: 【＃生スバル】Re:ゼロから始める異世界生活 同時視聴：Re:ZERO -Starting Life in Another World watching party【ホロライブ/大空スバル】
-UID:vk0pOU_qxU0
+DTSTART:20230708T000000Z
+SUMMARY:🐻ときのそら: 【あつまれ どうぶつの森】久々にきたら癒された【ホロライブ/ときのそら/TokinoSora】
+UID:aJDUb9r50Qg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft脱出】　オットセイは1号室 　【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=toBkG3zwEp8
