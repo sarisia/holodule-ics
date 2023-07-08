@@ -4,53 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:ULTIMATE BIG 🧠 ENERGY 【Q REMASTERED】\nhttps://www.youtube.com/watch?v=KGYxAB1IYRg
-DURATION:PT2H
-DTSTART:20230707T230000Z
-SUMMARY:Altare: ULTIMATE BIG 🧠 ENERGY 【Q REMASTERED】
-UID:KGYxAB1IYRg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:I'm not small\, this Goron is just really big!!! :C 【Zelda: Ocarina of Time】【2】\nhttps://www.youtube.com/watch?v=5D_Sn_DgjW4
-DURATION:PT2H
-DTSTART:20230706T230000Z
-SUMMARY:Altare: I'm not small\, this Goron is just really big!!! :C 【Zelda: Ocarina of Time】【2】
-UID:5D_Sn_DgjW4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TRAINING ARC\nhttps://www.youtube.com/watch?v=PeAhdISZANk
-DURATION:PT2H
-DTSTART:20230709T010000Z
-SUMMARY:ENHOLOSTARS: TRAINING ARC
-UID:PeAhdISZANk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[League of Legends] RANKED TORMENT #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=E4K9-YI5iqo
-DURATION:PT2H
-DTSTART:20230706T210000Z
-SUMMARY:Bettel: [League of Legends] RANKED TORMENT #gavisbettel #holotempus
-UID:E4K9-YI5iqo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BATTLE OF THE CLICKBAIT @KyoKaneko\nhttps://www.youtube.com/watch?v=kxjoN6ZpZzs
-DURATION:PT2H
-DTSTART:20230707T000000Z
-SUMMARY:Dezmond: BATTLE OF THE CLICKBAIT @KyoKaneko
-UID:kxjoN6ZpZzs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FINAL FANTASY XVI】The cinematic in this game is insane... #5\nhttps://www.youtube.com/watch?v=bgfnCr4wsXg
-DURATION:PT2H
-DTSTART:20230709T120000Z
-SUMMARY:Syrios: 【FINAL FANTASY XVI】The cinematic in this game is insane... #5
-UID:bgfnCr4wsXg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Mario Party Superstars】6 MONTHS OF PARTY!!! w/ @GavisBettel @MachinaXFlayon @JosuijiShinri !!!\nhttps://www.youtube.com/watch?v=JtJdQgUt7Zo
 DURATION:PT2H
 DTSTART:20230708T041500Z
 SUMMARY:Hakka: 【Mario Party Superstars】6 MONTHS OF PARTY!!! w/ @GavisBettel @MachinaXFlayon @JosuijiShinri !!!
 UID:JtJdQgUt7Zo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ULTIMATE BIG 🧠 ENERGY 【Q REMASTERED】\nhttps://www.youtube.com/watch?v=KGYxAB1IYRg
+DURATION:PT2H
+DTSTART:20230707T230000Z
+SUMMARY:Altare: ULTIMATE BIG 🧠 ENERGY 【Q REMASTERED】
+UID:KGYxAB1IYRg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARCHIVED KARAOKE】Just a chill singing session :3\nhttps://www.youtube.com/watch?v=9-AFYhj59vA
@@ -60,25 +25,11 @@ SUMMARY:Syrios: 【ARCHIVED KARAOKE】Just a chill singing session :3
 UID:9-AFYhj59vA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【League of Legends】Axelotls will be a very cute sprite in this game tbh\nhttps://www.youtube.com/watch?v=nZiFMuBKmKg
+DESCRIPTION:TRAINING ARC\nhttps://www.youtube.com/watch?v=PeAhdISZANk
 DURATION:PT2H
-DTSTART:20230706T190000Z
-SUMMARY:Syrios: 【League of Legends】Axelotls will be a very cute sprite in this game tbh
-UID:nZiFMuBKmKg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Laying down the nether tracks and farming Netherack\nhttps://www.youtube.com/watch?v=gyKCZ3gq5Z0
-DURATION:PT2H
-DTSTART:20230707T010000Z
-SUMMARY:Shinri: 【Minecraft】Laying down the nether tracks and farming Netherack
-UID:gyKCZ3gq5Z0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 World of Warcraft 】 It's like coming back home after a long journey\, and your cake is on point now\nhttps://www.youtube.com/watch?v=dgWrs8skImI
-DURATION:PT2H
-DTSTART:20230706T170000Z
-SUMMARY:Vesper: 【 World of Warcraft 】 It's like coming back home after a long journey\, and your cake is on point now
-UID:dgWrs8skImI
+DTSTART:20230709T010000Z
+SUMMARY:ENHOLOSTARS: TRAINING ARC
+UID:PeAhdISZANk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft Dungeons】TOWER TOWER TOWER TOWER\nhttps://www.youtube.com/watch?v=HXSDULYIt48
@@ -86,5 +37,12 @@ DURATION:PT2H
 DTSTART:20230709T000000Z
 SUMMARY:Hakka: 【Minecraft Dungeons】TOWER TOWER TOWER TOWER
 UID:HXSDULYIt48
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FINAL FANTASY XVI】The cinematic in this game is insane... #5\nhttps://www.youtube.com/watch?v=bgfnCr4wsXg
+DURATION:PT2H
+DTSTART:20230709T120000Z
+SUMMARY:Syrios: 【FINAL FANTASY XVI】The cinematic in this game is insane... #5
+UID:bgfnCr4wsXg
 END:VEVENT
 END:VCALENDAR
