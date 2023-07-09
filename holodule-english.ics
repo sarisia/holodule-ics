@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【HOLOMYTH COLLAB】英語タイム！English Time with Myth Girls!! #holomyth\nhttps://www.youtube.com/watch?v=0kzv6LvGX6Y
+DURATION:PT2H
+DTSTART:20230709T220000Z
+SUMMARY:Calli: 【HOLOMYTH COLLAB】英語タイム！English Time with Myth Girls!! #holomyth
+UID:0kzv6LvGX6Y
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【PEPPA PIG: WORLD ADVENTURES】Try Not To Laugh\nhttps://www.youtube.com/watch?v=tI2Y9G6ghuE
 DURATION:PT2H
 DTSTART:20230709T000000Z
@@ -16,62 +23,6 @@ DURATION:PT2H
 DTSTART:20230709T130000Z
 SUMMARY:Kiara: 【TOTK】FINALE!!?!? It's Time To End It... 😭 #kfp #キアライブ
 UID:YFW97hRpp1w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【THE GETTING OVER IT TRIALS】 Commentary desk hosted by Faunashi-sensei and Ourochimaru\nhttps://www.youtube.com/watch?v=Zkvb0-6Kzo4
-DURATION:PT2H
-DTSTART:20230708T030000Z
-SUMMARY:Fauna: 【THE GETTING OVER IT TRIALS】 Commentary desk hosted by Faunashi-sensei and Ourochimaru
-UID:Zkvb0-6Kzo4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【THE GETTING OVER IT TRIALS】 Moomsuke's Moomin POV\nhttps://www.youtube.com/watch?v=mUSK15Pn62k
-DURATION:PT2H
-DTSTART:20230708T030500Z
-SUMMARY:Mumei: 【THE GETTING OVER IT TRIALS】 Moomsuke's Moomin POV
-UID:mUSK15Pn62k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🐟 ‿︵‿︵‿︵\nhttps://www.youtube.com/watch?v=BvjagRepqxU
-DURATION:PT2H
-DTSTART:20230708T033000Z
-SUMMARY:Amelia: 🐟 ‿︵‿︵‿︵
-UID:BvjagRepqxU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FFXVI】 Do You Know....LAHEE? 【#1】\nhttps://www.youtube.com/watch?v=CQWcrIgbS2U
-DURATION:PT2H
-DTSTART:20230707T210000Z
-SUMMARY:Ina: 【FFXVI】 Do You Know....LAHEE? 【#1】
-UID:CQWcrIgbS2U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪The Getting Over It Trials≫ Baeruto becomes Hokage POV #GOITrials\nhttps://www.youtube.com/watch?v=9XXYkcYRTWc
-DURATION:PT2H
-DTSTART:20230708T030500Z
-SUMMARY:Baelz: ≪The Getting Over It Trials≫ Baeruto becomes Hokage POV #GOITrials
-UID:9XXYkcYRTWc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HOLOMYTH COLLAB】英語タイム！English Time with Myth Girls!! #holomyth\nhttps://www.youtube.com/watch?v=0kzv6LvGX6Y
-DURATION:PT2H
-DTSTART:20230709T220000Z
-SUMMARY:Calli: 【HOLOMYTH COLLAB】英語タイム！English Time with Myth Girls!! #holomyth
-UID:0kzv6LvGX6Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【NEW OUTFIT || 新衣装】ONE PIECE x Mori Calliope! Plus KARAOKE!! #カリオペワンピ\nhttps://www.youtube.com/watch?v=GvPK5vJCg18
-DURATION:PT2H
-DTSTART:20230708T115951Z
-SUMMARY:Calli: 【NEW OUTFIT || 新衣装】ONE PIECE x Mori Calliope! Plus KARAOKE!! #カリオペワンピ
-UID:GvPK5vJCg18
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CHAT】The body does WHAT?!?! 🧬 3 DIMENSIONAL. #mocopi\nhttps://www.youtube.com/watch?v=7OfM79rBGsY
-DURATION:PT2H
-DTSTART:20230708T000000Z
-SUMMARY:Amelia: 【CHAT】The body does WHAT?!?! 🧬 3 DIMENSIONAL. #mocopi
-UID:7OfM79rBGsY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Guess where I am!\nhttps://www.youtube.com/watch?v=gv2ETSjOtYk
@@ -93,12 +44,5 @@ DURATION:PT2H
 DTSTART:20230709T030000Z
 SUMMARY:IRyS: 【Only Up!】RTA Practice for I am speed
 UID:L-E02nQZFGg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【TOTK】Sidestuff & Lynel and Gleeok hunting before ENDING IT 😭 #kfp #キアライブ\nhttps://www.youtube.com/watch?v=t_BvnTSNjVE
-DURATION:PT2H
-DTSTART:20230708T133000Z
-SUMMARY:Kiara: 【TOTK】Sidestuff & Lynel and Gleeok hunting before ENDING IT 😭 #kfp #キアライブ
-UID:t_BvnTSNjVE
 END:VEVENT
 END:VCALENDAR
