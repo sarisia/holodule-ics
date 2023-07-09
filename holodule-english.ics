@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【HOLOMYTH COLLAB】英語タイム！English Time with Myth Girls!! #holomyth\nhttps://www.youtube.com/watch?v=0kzv6LvGX6Y
-DURATION:PT2H
-DTSTART:20230709T220000Z
-SUMMARY:Calli: 【HOLOMYTH COLLAB】英語タイム！English Time with Myth Girls!! #holomyth
-UID:0kzv6LvGX6Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【PEPPA PIG: WORLD ADVENTURES】Try Not To Laugh\nhttps://www.youtube.com/watch?v=tI2Y9G6ghuE
 DURATION:PT2H
 DTSTART:20230709T000000Z
@@ -25,11 +18,25 @@ SUMMARY:Kiara: 【TOTK】FINALE!!?!? It's Time To End It... 😭 #kfp #キアラ
 UID:YFW97hRpp1w
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【HOLOMYTH COLLAB】英語タイム！English Time with Myth Girls!! #holomyth\nhttps://www.youtube.com/watch?v=0kzv6LvGX6Y
+DURATION:PT2H
+DTSTART:20230709T220000Z
+SUMMARY:Calli: 【HOLOMYTH COLLAB】英語タイム！English Time with Myth Girls!! #holomyth
+UID:0kzv6LvGX6Y
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Guess where I am!\nhttps://www.youtube.com/watch?v=gv2ETSjOtYk
 DURATION:PT2H
 DTSTART:20230709T030030Z
 SUMMARY:Fauna: Guess where I am!
 UID:gv2ETSjOtYk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】 The one where Fauna finally upgrades her PC after almost 2 years\nhttps://www.youtube.com/watch?v=uu73ssSs36E
+DURATION:PT2H
+DTSTART:20230709T230000Z
+SUMMARY:Fauna: 【MINECRAFT】 The one where Fauna finally upgrades her PC after almost 2 years
+UID:uu73ssSs36E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FFXVI】 Pan-fried Mahi-mahi 【#2】\nhttps://www.youtube.com/watch?v=spg8HDFVaBU
