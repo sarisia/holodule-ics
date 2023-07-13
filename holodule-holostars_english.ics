@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Zatsudan & SC Reading】Let's chill and talk Hakkitos!\nhttps://www.youtube.com/watch?v=n4bNWcg8iho
-DURATION:PT2H
-DTSTART:20230712T000000Z
-SUMMARY:Hakka: 【Zatsudan & SC Reading】Let's chill and talk Hakkitos!
-UID:n4bNWcg8iho
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】I haven't streamed APEX in a while have I???\nhttps://www.youtube.com/watch?v=pmPWOu-j20A
 DURATION:PT2H
 DTSTART:20230713T123000Z
@@ -23,48 +16,6 @@ DURATION:PT2H
 DTSTART:20230713T140000Z
 SUMMARY:Hakka: 【Undertale】Under my WHAT ???? (PART 2)
 UID:Onnqu0QXO8Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Saving the Childhood Friend 【Zelda: Ocarina of Time】【3】\nhttps://www.youtube.com/watch?v=wP8FHi-Kmec
-DURATION:PT2H
-DTSTART:20230711T230000Z
-SUMMARY:Altare: Saving the Childhood Friend 【Zelda: Ocarina of Time】【3】
-UID:wP8FHi-Kmec
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Dredge】🦀🦀🦀Crab Rave 🦀🦀🦀\nhttps://www.youtube.com/watch?v=6DR_fz61xQw
-DURATION:PT2H
-DTSTART:20230712T010000Z
-SUMMARY:Shinri: 【Dredge】🦀🦀🦀Crab Rave 🦀🦀🦀
-UID:6DR_fz61xQw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Dredge】Making this title before finishing the game but i assume something bad happens w/ our wife\nhttps://www.youtube.com/watch?v=zGLzvco1kaU
-DURATION:PT2H
-DTSTART:20230713T010000Z
-SUMMARY:Shinri: 【Dredge】Making this title before finishing the game but i assume something bad happens w/ our wife
-UID:zGLzvco1kaU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[Escape Simulator] I WILL COMPLETE THIS VERY CALMLY #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=WgMp16oMSkQ
-DURATION:PT2H
-DTSTART:20230712T210000Z
-SUMMARY:Bettel: [Escape Simulator] I WILL COMPLETE THIS VERY CALMLY #gavisbettel #holotempus
-UID:WgMp16oMSkQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[A Little to the Left] A CHILL COZY GAME!? #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=T2PLRvj0o0w
-DURATION:PT2H
-DTSTART:20230712T020000Z
-SUMMARY:Bettel: [A Little to the Left] A CHILL COZY GAME!? #gavisbettel #holotempus
-UID:T2PLRvj0o0w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The HARDEST Game Ever? 【Only Up!】\nhttps://www.youtube.com/watch?v=luGarRT1REE
-DURATION:PT2H
-DTSTART:20230712T130000Z
-SUMMARY:Altare: The HARDEST Game Ever? 【Only Up!】
-UID:luGarRT1REE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【League of Legends】Don't doubt me Axelotls\, I will not lose.\nhttps://www.youtube.com/watch?v=-_wRm6-LBk0
@@ -81,10 +32,17 @@ SUMMARY:Hakka: 【Final Fantasy XVI】I CAN LITERALLY ABSORB THEIR POWER\, THIS 
 UID:W-CpXhw3QK8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Fishing Paradiso】I've always wanted to go fishing\nhttps://www.youtube.com/watch?v=3hHmPZiTgyU
+DESCRIPTION:【Dredge】Making this title before finishing the game but i assume something bad happens w/ our wife\nhttps://www.youtube.com/watch?v=zGLzvco1kaU
 DURATION:PT2H
-DTSTART:20230712T020000Z
-SUMMARY:Syrios: 【Fishing Paradiso】I've always wanted to go fishing
-UID:3hHmPZiTgyU
+DTSTART:20230713T010000Z
+SUMMARY:Shinri: 【Dredge】Making this title before finishing the game but i assume something bad happens w/ our wife
+UID:zGLzvco1kaU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Escape Simulator] I WILL COMPLETE THIS VERY CALMLY #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=WgMp16oMSkQ
+DURATION:PT2H
+DTSTART:20230712T210000Z
+SUMMARY:Bettel: [Escape Simulator] I WILL COMPLETE THIS VERY CALMLY #gavisbettel #holotempus
+UID:WgMp16oMSkQ
 END:VEVENT
 END:VCALENDAR
