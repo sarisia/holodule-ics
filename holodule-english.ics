@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#HoloFanfic】Kronii Kronii Kronii\nhttps://www.youtube.com/watch?v=-LUTPIUJUgA
-DURATION:PT2H
-DTSTART:20230713T012000Z
-SUMMARY:Kronii: 【#HoloFanfic】Kronii Kronii Kronii
-UID:-LUTPIUJUgA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪TroubleDays≫ *gulps*\nhttps://www.youtube.com/watch?v=0Uhs4mtFDc8
-DURATION:PT2H
-DTSTART:20230713T010000Z
-SUMMARY:Baelz: ≪TroubleDays≫ *gulps*
-UID:0Uhs4mtFDc8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】FINISHING THE TUNNEL & maybe look for Sniffer with Kaela? #kfp #キアライブ\nhttps://www.youtube.com/watch?v=FENLTyMM81o
 DURATION:PT2H
 DTSTART:20230713T150000Z
@@ -37,6 +23,13 @@ DURATION:PT2H
 DTSTART:20230714T010000Z
 SUMMARY:Amelia: 【WATCHALONG】Shaolin Soccer
 UID:WqHFYOs7sf8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【WATCHALONG】hololive English 1st Concert -Connect the World-【A-chan】\nhttps://www.youtube.com/watch?v=7P60r500nvo
+DURATION:PT2H
+DTSTART:20230716T023000Z
+SUMMARY:ENholo: 【WATCHALONG】hololive English 1st Concert -Connect the World-【A-chan】
+UID:7P60r500nvo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Final Fantasy XVI】time for anime (part 4)\nhttps://www.youtube.com/watch?v=wC4bLbQmigY
