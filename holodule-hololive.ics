@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:久々の！ゼルダの伝説 ティアーズ オブ ザ キングダム #11\nhttps://www.youtube.com/watch?v=7E4wSE8JTho
+DURATION:PT2H
+DTSTART:20230716T020000Z
+SUMMARY:桃鈴ねね: 久々の！ゼルダの伝説 ティアーズ オブ ザ キングダム #11
+UID:7E4wSE8JTho
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Only Up!】めげない心が大事ってばっちゃが言ってた【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=kjpD_n_d64s
 DURATION:PT2H
 DTSTART:20230716T040000Z
@@ -214,6 +221,13 @@ SUMMARY:博衣こより: 【 #博衣こより新衣装 】初めての新衣装�
 UID:eB-cI-PTOtI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【セクシーに】タイトルなんて自分で考えなさいな／covered by 夜空メル(hololive)【歌ってみた】\nhttps://www.youtube.com/watch?v=_9kv9UCUAkM
+DURATION:PT2H
+DTSTART:20230716T100000Z
+SUMMARY:🌟夜空メル: 【セクシーに】タイトルなんて自分で考えなさいな／covered by 夜空メル(hololive)【歌ってみた】
+UID:_9kv9UCUAkM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【＃4】ペルソナ5 ザ・ロイヤルやるしゅばあああああああああああああああああああああああ！！！！: P5R【※ネタバレあり】\nhttps://www.youtube.com/watch?v=TAyGIxaTFv4
 DURATION:PT2H
 DTSTART:20230715T040000Z
@@ -237,7 +251,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ProLeague公認ミラー配信】ALGS Year 3：Split2　Losers Braket Round2【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=BNv03jqX2jU
 DURATION:PT2H
-DTSTART:20230715T174500Z
+DTSTART:20230715T180000Z
 SUMMARY:👾常闇トワ: 【ProLeague公認ミラー配信】ALGS Year 3：Split2　Losers Braket Round2【常闇トワ/ホロライブ】
 UID:BNv03jqX2jU
 END:VEVENT
