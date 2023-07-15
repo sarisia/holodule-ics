@@ -4,32 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【GTA IV】FROM EUROPE TO LIBERTY CITY BABY #kfp #キアライブ\nhttps://www.youtube.com/watch?v=GpleGI8b018
-DURATION:PT2H
-DTSTART:20230715T140000Z
-SUMMARY:Kiara: 【GTA IV】FROM EUROPE TO LIBERTY CITY BABY #kfp #キアライブ
-UID:GpleGI8b018
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪OFF COLLAB≫ MUKBANG with Ollie!!!!\nhttps://www.youtube.com/watch?v=uS7Gb6g7obg
-DURATION:PT2H
-DTSTART:20230715T010000Z
-SUMMARY:Baelz: ≪OFF COLLAB≫ MUKBANG with Ollie!!!!
-UID:uS7Gb6g7obg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】FINISHING THE TUNNEL & maybe look for Sniffer with Kaela? #kfp #キアライブ\nhttps://www.youtube.com/watch?v=FENLTyMM81o
-DURATION:PT2H
-DTSTART:20230713T150000Z
-SUMMARY:Kiara: 【MINECRAFT】FINISHING THE TUNNEL & maybe look for Sniffer with Kaela? #kfp #キアライブ
-UID:FENLTyMM81o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Time to Get Fit #holoEN3DRepeat\nhttps://www.youtube.com/watch?v=5Eo-045K_Lc
 DURATION:PT2H
 DTSTART:20230715T030000Z
 SUMMARY:ENholo: Time to Get Fit #holoEN3DRepeat
 UID:5Eo-045K_Lc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【GTA IV】FROM EUROPE TO LIBERTY CITY BABY #kfp #キアライブ\nhttps://www.youtube.com/watch?v=GpleGI8b018
+DURATION:PT2H
+DTSTART:20230715T140000Z
+SUMMARY:Kiara: 【GTA IV】FROM EUROPE TO LIBERTY CITY BABY #kfp #キアライブ
+UID:GpleGI8b018
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TROUBLE DAYS】how bad can it be?\nhttps://www.youtube.com/watch?v=q3E1AYthjWw
@@ -39,6 +25,13 @@ SUMMARY:Calli: 【TROUBLE DAYS】how bad can it be?
 UID:q3E1AYthjWw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:「未来島 ~Future Island~」\nhttps://www.youtube.com/watch?v=eWNn24KHPRQ
+DURATION:PT2H
+DTSTART:20230717T040000Z
+SUMMARY:Calli: 「未来島 ~Future Island~」
+UID:eWNn24KHPRQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【WATCHALONG】hololive English 1st Concert -Connect the World-【A-chan】\nhttps://www.youtube.com/watch?v=7P60r500nvo
 DURATION:PT2H
 DTSTART:20230716T023000Z
@@ -46,11 +39,11 @@ SUMMARY:ENholo: 【WATCHALONG】hololive English 1st Concert -Connect the World-
 UID:7P60r500nvo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【WATCHALONG】Shaolin Soccer\nhttps://www.youtube.com/watch?v=WqHFYOs7sf8
+DESCRIPTION:≪OFF COLLAB≫ MUKBANG with Ollie!!!!\nhttps://www.youtube.com/watch?v=uS7Gb6g7obg
 DURATION:PT2H
-DTSTART:20230714T010000Z
-SUMMARY:Amelia: 【WATCHALONG】Shaolin Soccer
-UID:WqHFYOs7sf8
+DTSTART:20230715T010000Z
+SUMMARY:Baelz: ≪OFF COLLAB≫ MUKBANG with Ollie!!!!
+UID:uS7Gb6g7obg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Final Fantasy XVI】time for anime (part 4)\nhttps://www.youtube.com/watch?v=wC4bLbQmigY
@@ -58,19 +51,5 @@ DURATION:PT2H
 DTSTART:20230715T020058Z
 SUMMARY:Calli: 【Final Fantasy XVI】time for anime (part 4)
 UID:wC4bLbQmigY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BEEGsmols COLLAB】CouncilRyS Gaming + ANNOUNCEMENT!\nhttps://www.youtube.com/watch?v=r1KUcTmKofA
-DURATION:PT2H
-DTSTART:20230714T041000Z
-SUMMARY:Mumei: 【BEEGsmols COLLAB】CouncilRyS Gaming + ANNOUNCEMENT!
-UID:r1KUcTmKofA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PAINTING!!】tiny canvas painting (handcam)\nhttps://www.youtube.com/watch?v=eE91ZWYi6rM
-DURATION:PT2H
-DTSTART:20230714T060000Z
-SUMMARY:Calli: 【PAINTING!!】tiny canvas painting (handcam)
-UID:eE91ZWYi6rM
 END:VEVENT
 END:VCALENDAR
