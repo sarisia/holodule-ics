@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Fatal Frame: Maiden of the Black Water】👻📸 Omg the ghost emote here is so cute (Pt. 1)\nhttps://www.youtube.com/watch?v=d1DosZpm6Tw
+DURATION:PT2H
+DTSTART:20230719T010000Z
+SUMMARY:Shinri: 【Fatal Frame: Maiden of the Black Water】👻📸 Omg the ghost emote here is so cute (Pt. 1)
+UID:d1DosZpm6Tw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:🌊🏠 UNDERWATER HOUSE CONSTRUCTION 🏠🌊 【MINECRAFT】 【30】\nhttps://www.youtube.com/watch?v=ZlMTr_v6Klo
 DURATION:PT2H
 DTSTART:20230719T130000Z
 SUMMARY:Altare: 🌊🏠 UNDERWATER HOUSE CONSTRUCTION 🏠🌊 【MINECRAFT】 【30】
 UID:ZlMTr_v6Klo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【EXOPRIMAL】Guerillasaurus Rex\nhttps://www.youtube.com/watch?v=l5keQbdMIJs
-DURATION:PT2H
-DTSTART:20230718T043000Z
-SUMMARY:Shinri: 【EXOPRIMAL】Guerillasaurus Rex
-UID:l5keQbdMIJs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[Week in Review] MOVING ARC IS KILLING ME #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=g09bD5u3b7w
@@ -25,27 +25,6 @@ SUMMARY:Bettel: [Week in Review] MOVING ARC IS KILLING ME #gavisbettel #holotemp
 UID:g09bD5u3b7w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【VCR GTA】We Must Cook.\nhttps://www.youtube.com/watch?v=vrZ9QRoWMW4
-DURATION:PT2H
-DTSTART:20230719T120000Z
-SUMMARY:Syrios: 【VCR GTA】We Must Cook.
-UID:vrZ9QRoWMW4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【THE HENRY STICKMAN COLLECTION】game reminds me of newgrounds wow :)\nhttps://www.youtube.com/watch?v=BtBXnYlwKnM
-DURATION:PT2H
-DTSTART:20230717T232000Z
-SUMMARY:Flayon: 【THE HENRY STICKMAN COLLECTION】game reminds me of newgrounds wow :)
-UID:BtBXnYlwKnM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Final Fantasy XVI】TORGAL TORGAL TORGAL\nhttps://www.youtube.com/watch?v=oTD1g6qEniE
-DURATION:PT2H
-DTSTART:20230719T000000Z
-SUMMARY:Hakka: 【Final Fantasy XVI】TORGAL TORGAL TORGAL
-UID:oTD1g6qEniE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Going w/ @RegisAltare 【TO THE MOON】 We Will Live There Forever.\nhttps://www.youtube.com/watch?v=ymnQQPRyyD0
 DURATION:PT2H
 DTSTART:20230718T230000Z
@@ -53,10 +32,17 @@ SUMMARY:Flayon: Going w/ @RegisAltare 【TO THE MOON】 We Will Live There Forev
 UID:ymnQQPRyyD0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Fatal Frame: Maiden of the Black Water】👻📸 Omg the ghost emote here is so cute (Pt. 1)\nhttps://www.youtube.com/watch?v=d1DosZpm6Tw
+DESCRIPTION:【VCR GTA】We Must Cook.\nhttps://www.youtube.com/watch?v=vrZ9QRoWMW4
 DURATION:PT2H
-DTSTART:20230719T010000Z
-SUMMARY:Shinri: 【Fatal Frame: Maiden of the Black Water】👻📸 Omg the ghost emote here is so cute (Pt. 1)
-UID:d1DosZpm6Tw
+DTSTART:20230719T120000Z
+SUMMARY:Syrios: 【VCR GTA】We Must Cook.
+UID:vrZ9QRoWMW4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Final Fantasy XVI】TORGAL TORGAL TORGAL\nhttps://www.youtube.com/watch?v=oTD1g6qEniE
+DURATION:PT2H
+DTSTART:20230719T000000Z
+SUMMARY:Hakka: 【Final Fantasy XVI】TORGAL TORGAL TORGAL
+UID:oTD1g6qEniE
 END:VEVENT
 END:VCALENDAR
