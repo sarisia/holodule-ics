@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【雑談枠】まーまー久々の雑談【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=-msXYPvXyD4
+DURATION:PT2H
+DTSTART:20230721T130000Z
+SUMMARY:⚙律可: 【雑談枠】まーまー久々の雑談【律可/ホロスターズ】#りつすた
+UID:-msXYPvXyD4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Only up!】日課のオンリーアップ登頂チャレンジ【 #vtuber /#ホロスターズ 】\nhttps://www.youtube.com/watch?v=H-I51-kOTQQ
 DURATION:PT2H
 DTSTART:20230720T011500Z
@@ -37,6 +44,13 @@ DURATION:PT2H
 DTSTART:20230721T065418Z
 SUMMARY:🍷夕刻ロベル: 前日なのでソロイベの告知してみた　#shorts
 UID:LP6bIl5R-dM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 APEX 】ゲリラ！ピストル縛り！【#vtuber / #羽継烏有 / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=R754A63DwWI
+DURATION:PT2H
+DTSTART:20230720T233000Z
+SUMMARY:羽継烏有: 【 APEX 】ゲリラ！ピストル縛り！【#vtuber / #羽継烏有 / #ホロスターズ 】
+UID:R754A63DwWI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:イヅル起こすべからず #shorts #ホロスターズ #ホロスタショート #奏手イヅル #アルランディス\nhttps://www.youtube.com/watch?v=61Pdp1875gY
@@ -95,18 +109,18 @@ SUMMARY:🍕アルランディス: 【雑談 Blender】Ollieちゃんが描い�
 UID:6yb-MdVhQSs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Dead by Daylight】アップローをしばくためだけに呼ばれた騎士【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=43sdFH-m80E
-DURATION:PT2H
-DTSTART:20230720T100000Z
-SUMMARY:🦔💨岸堂天真: 【Dead by Daylight】アップローをしばくためだけに呼ばれた騎士【岸堂天真/ホロスターズ】
-UID:43sdFH-m80E
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ピクミン4 をやらせて頂く # 1【奏手イヅル / ホロスターズ】\nhttps://www.youtube.com/watch?v=0ShKTVwxau4
 DURATION:PT2H
 DTSTART:20230721T103000Z
 SUMMARY:🎸奏手イヅル: ピクミン4 をやらせて頂く # 1【奏手イヅル / ホロスターズ】
 UID:0ShKTVwxau4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Dead by Daylight】アップローをしばくためだけに呼ばれた騎士【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=43sdFH-m80E
+DURATION:PT2H
+DTSTART:20230720T100000Z
+SUMMARY:🦔💨岸堂天真: 【Dead by Daylight】アップローをしばくためだけに呼ばれた騎士【岸堂天真/ホロスターズ】
+UID:43sdFH-m80E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Dead by Daylight】#放課後アップロー ゲスト第二弾はキラーの達人？！【 水無世燐央 / 岸堂天真 / 夜十神封魔 / 羽継烏有 / 緋崎ガンマ / ホロスターズ 】\nhttps://www.youtube.com/watch?v=Ji_jq2z6MWI
@@ -116,11 +130,11 @@ SUMMARY:水無世燐央: 【Dead by Daylight】#放課後アップロー ゲス�
 UID:Ji_jq2z6MWI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 APEX 】ゲリラ！ピストル縛り！【#vtuber / #羽継烏有 / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=R754A63DwWI
+DESCRIPTION:【スト鯖GTA】スト鯖の癒し担当として精一杯やります。 / アステル\nhttps://www.youtube.com/watch?v=egiY_XrdPAw
 DURATION:PT2H
-DTSTART:20230720T233000Z
-SUMMARY:羽継烏有: 【 APEX 】ゲリラ！ピストル縛り！【#vtuber / #羽継烏有 / #ホロスターズ 】
-UID:R754A63DwWI
+DTSTART:20230721T120000Z
+SUMMARY:🎭アステル・レダ: 【スト鯖GTA】スト鯖の癒し担当として精一杯やります。 / アステル
+UID:egiY_XrdPAw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】早起きできたので、みんなを見送る【夜十神封魔/ホロスターズ - UPROAR!!】\nhttps://www.youtube.com/watch?v=xKdZnBTJBQ8
