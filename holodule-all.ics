@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【DRAWING + FLAYSMR】I'm Just Vibing & Drawing! The Usual ^ q ^)7\nhttps://www.youtube.com/watch?v=or25TXjnROE
-DURATION:PT2H
-DTSTART:20230725T001500Z
-SUMMARY:Flayon: 【DRAWING + FLAYSMR】I'm Just Vibing & Drawing! The Usual ^ q ^)7
-UID:or25TXjnROE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠】BJ衣装で１ヵ月ぶりのお歌！心をこめて歌いまっする💪✨【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=zLgIWrebVoI
 DURATION:PT2H
 DTSTART:20230725T100000Z
 SUMMARY:⚔白銀ノエル: 【歌枠】BJ衣装で１ヵ月ぶりのお歌！心をこめて歌いまっする💪✨【白銀ノエル/ホロライブ】
 UID:zLgIWrebVoI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DRAWING + FLAYSMR】I'm Just Vibing & Drawing! The Usual ^ q ^)7\nhttps://www.youtube.com/watch?v=or25TXjnROE
+DURATION:PT2H
+DTSTART:20230725T001500Z
+SUMMARY:Flayon: 【DRAWING + FLAYSMR】I'm Just Vibing & Drawing! The Usual ^ q ^)7
+UID:or25TXjnROE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:New Song "six feet under" by Mori Calliope x TK #shorts\nhttps://www.youtube.com/watch?v=0z4BU0v9S5U
@@ -102,13 +102,6 @@ SUMMARY:Fauna: 【HITMAN 3】 I Hired A Hitman To Kill Me With Only A Banana (Re
 UID:FBDDwAn-VaE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【工作】ファンミの展示品を作ろうと思う【直前すぎる】\nhttps://www.youtube.com/watch?v=7gmdj-4VUng
-DURATION:PT2H
-DTSTART:20230725T100000Z
-SUMMARY:🌲大神ミオ: 【工作】ファンミの展示品を作ろうと思う【直前すぎる】
-UID:7gmdj-4VUng
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【The Henry Stickmin】SECRET ENDINGS...??\nhttps://www.youtube.com/watch?v=6WvW0KQYo80
 DURATION:PT2H
 DTSTART:20230725T150000Z
@@ -116,11 +109,11 @@ SUMMARY:Zeta: 【The Henry Stickmin】SECRET ENDINGS...??
 UID:6WvW0KQYo80
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【VCR GTA】*Sigh* Wanna cook???【Day 7】\nhttps://www.youtube.com/watch?v=T9n1ZmVRYZU
+DESCRIPTION:【工作】ファンミの展示品を作ろうと思う【直前すぎる】\nhttps://www.youtube.com/watch?v=7gmdj-4VUng
 DURATION:PT2H
-DTSTART:20230725T123000Z
-SUMMARY:Syrios: 【VCR GTA】*Sigh* Wanna cook???【Day 7】
-UID:T9n1ZmVRYZU
+DTSTART:20230725T100000Z
+SUMMARY:🌲大神ミオ: 【工作】ファンミの展示品を作ろうと思う【直前すぎる】
+UID:7gmdj-4VUng
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ピクミン４】紫咲ピクミン頑張ります。【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=a9He6UOUKVQ
@@ -128,6 +121,13 @@ DURATION:PT2H
 DTSTART:20230725T140000Z
 SUMMARY:🌙紫咲シオン: 【ピクミン４】紫咲ピクミン頑張ります。【ホロライブ/紫咲シオン】
 UID:a9He6UOUKVQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VCR GTA】*Sigh* Wanna cook???【Day 7】\nhttps://www.youtube.com/watch?v=T9n1ZmVRYZU
+DURATION:PT2H
+DTSTART:20230725T123000Z
+SUMMARY:Syrios: 【VCR GTA】*Sigh* Wanna cook???【Day 7】
+UID:T9n1ZmVRYZU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【超探偵事件簿 レインコード】面白すぎる推理ゲーム！わっくわくのどっきどきだよね～！！＃2【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=w8B5oBDvfOA
@@ -277,13 +277,6 @@ SUMMARY:🏴☠宝鐘マリン: 地声の圧が強すぎてぺこらをビビら
 UID:JiylFfq0QQU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ござるかーと！飾り付けとかやっていくぞ🔥【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=w24TnR8SlII
-DURATION:PT2H
-DTSTART:20230725T090000Z
-SUMMARY:風真いろは: 【Minecraft】ござるかーと！飾り付けとかやっていくぞ🔥【風真いろは/ホロライブ】
-UID:w24TnR8SlII
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#生スバル】龍が如く３をやるしゅばあああああああああああああああああああああああ！！！！！！YAKUZA３【ネタバレ有り】\nhttps://www.youtube.com/watch?v=bayi4EmlrhM
 DURATION:PT2H
 DTSTART:20230725T110000Z
@@ -296,6 +289,13 @@ DURATION:PT2H
 DTSTART:20230725T112407Z
 SUMMARY:💫天音かなた: 【VTuber/3DLIVE】「残響散歌」天音かなた #shorts
 UID:XZltOpBKjds
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】ござるかーと！飾り付けとかやっていくぞ🔥【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=w24TnR8SlII
+DURATION:PT2H
+DTSTART:20230725T090000Z
+SUMMARY:風真いろは: 【Minecraft】ござるかーと！飾り付けとかやっていくぞ🔥【風真いろは/ホロライブ】
+UID:w24TnR8SlII
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Night Security | 夜間警備】(chill & relaxing stream) MENJADI SATPAM PENGAWAS CCTV TAPI HORROR....????!!\nhttps://www.youtube.com/watch?v=TxXITSM-Obc
@@ -312,6 +312,13 @@ SUMMARY:🌽白上フブキ: 【Getting Over It】金壺チャレンジ　あと
 UID:zQ2wMvz87Vk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:#3【ピクミン4】花咲ピクミン初めての夜の探索【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=clYoatk6Q5U
+DURATION:PT2H
+DTSTART:20230726T060000Z
+SUMMARY:🌺花咲みやび: #3【ピクミン4】花咲ピクミン初めての夜の探索【花咲みやび/ホロスターズ】
+UID:clYoatk6Q5U
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#2【アーマード・コア フォーアンサー/ACfA】完全初見🌟ARMORED CORE for Answer！！闘争求めまくってるんだよおおお！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=3BYMNvuhosE
 DURATION:PT2H
 DTSTART:20230725T130000Z
@@ -326,18 +333,18 @@ SUMMARY:Ollie: 【AFTERTALK】SHARE ME YOUR THOUGHTS ON 3D!!【Hololive Indonesi
 UID:26dklF9rXZU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Cube Escape: Case 23】POINT & CLICK! Investigate a BIZARRE Murder Case【Pavolia Reine/hololiveID】\nhttps://www.youtube.com/watch?v=lu-tkPkzOqE
-DURATION:PT2H
-DTSTART:20230725T160000Z
-SUMMARY:Reine: 【Cube Escape: Case 23】POINT & CLICK! Investigate a BIZARRE Murder Case【Pavolia Reine/hololiveID】
-UID:lu-tkPkzOqE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DBD】Let's keep the CageRyS alive\nhttps://www.youtube.com/watch?v=EAObVEyf1d0
 DURATION:PT2H
 DTSTART:20230726T013000Z
 SUMMARY:IRyS: 【DBD】Let's keep the CageRyS alive
 UID:EAObVEyf1d0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Cube Escape: Case 23】POINT & CLICK! Investigate a BIZARRE Murder Case【Pavolia Reine/hololiveID】\nhttps://www.youtube.com/watch?v=lu-tkPkzOqE
+DURATION:PT2H
+DTSTART:20230725T160000Z
+SUMMARY:Reine: 【Cube Escape: Case 23】POINT & CLICK! Investigate a BIZARRE Murder Case【Pavolia Reine/hololiveID】
+UID:lu-tkPkzOqE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Vampire Survivors】時間泥棒すぎる神ゲーで遊ぶ！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=4j3C06OLJ9Q
@@ -445,18 +452,18 @@ SUMMARY:Baelz: ≪OFF COLLAB≫ Mermaids: The Body Found Watchalong w/ Mumei
 UID:i1_RAqeB9yg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:I don't want to be a loser.... #cover #ツユ #TUYU #vtuber #indonesia #shorts\nhttps://www.youtube.com/watch?v=PrXGu0LPeF4
-DURATION:PT2H
-DTSTART:20230724T150359Z
-SUMMARY:Kobo: I don't want to be a loser.... #cover #ツユ #TUYU #vtuber #indonesia #shorts
-UID:PrXGu0LPeF4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談/Free talk】毎日ダンスレッスンの日々～【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=Sf1OZIiYDLI
 DURATION:PT2H
 DTSTART:20230725T140000Z
 SUMMARY:🏮夏色まつり: 【雑談/Free talk】毎日ダンスレッスンの日々～【ホロライブ/夏色まつり】
 UID:Sf1OZIiYDLI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:I don't want to be a loser.... #cover #ツユ #TUYU #vtuber #indonesia #shorts\nhttps://www.youtube.com/watch?v=PrXGu0LPeF4
+DURATION:PT2H
+DTSTART:20230724T150359Z
+SUMMARY:Kobo: I don't want to be a loser.... #cover #ツユ #TUYU #vtuber #indonesia #shorts
+UID:PrXGu0LPeF4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Chilla's Art | 花子さん 】絶対に ビビらない男 の ” 花子さん ” 【羽継烏有 /#vtuber /#ホロスターズ 】\nhttps://www.youtube.com/watch?v=xjdgjeAe4gc
