@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【VCR GTA】Are we... becoming the cartel...???【Day 8】\nhttps://www.youtube.com/watch?v=Saa4Jz-p5-Q
+DURATION:PT2H
+DTSTART:20230726T120000Z
+SUMMARY:Syrios: 【VCR GTA】Are we... becoming the cartel...???【Day 8】
+UID:Saa4Jz-p5-Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Final Fantasy XVI】FINAL FANTASY FINAL FANTASY FINAL FANTASY FINAL FANTASY\nhttps://www.youtube.com/watch?v=VXzTrP66dU8
+DURATION:PT2H
+DTSTART:20230727T000000Z
+SUMMARY:Hakka: 【Final Fantasy XVI】FINAL FANTASY FINAL FANTASY FINAL FANTASY FINAL FANTASY
+UID:VXzTrP66dU8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Pizza Tower】I COOKA DA PIZZA\, MAMMA MIA!!!!\nhttps://www.youtube.com/watch?v=eU9fMUgVbHQ
 DURATION:PT2H
 DTSTART:20230726T000000Z
@@ -23,12 +37,5 @@ DURATION:PT2H
 DTSTART:20230725T230000Z
 SUMMARY:Altare: Is it getting hot in here or is it just me...? 😅 【Zelda: Ocarina of Time】【4】
 UID:uhkwNWMBZww
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VCR GTA】Are we... becoming the cartel...???【Day 8】\nhttps://www.youtube.com/watch?v=Saa4Jz-p5-Q
-DURATION:PT2H
-DTSTART:20230726T120000Z
-SUMMARY:Syrios: 【VCR GTA】Are we... becoming the cartel...???【Day 8】
-UID:Saa4Jz-p5-Q
 END:VEVENT
 END:VCALENDAR
