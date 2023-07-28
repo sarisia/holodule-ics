@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【We Love Katamari REROLL+ Royal Reverie】they see me rollin' (SPOILERS)\nhttps://www.youtube.com/watch?v=e9y3KpbG1YA
+DURATION:PT2H
+DTSTART:20230728T220000Z
+SUMMARY:Calli: 【We Love Katamari REROLL+ Royal Reverie】they see me rollin' (SPOILERS)
+UID:e9y3KpbG1YA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌枠・KARAOKE】 オフコラボ！レイネ＆トワいっぱい歌います ARCHIVED Off Collab Singing with Towa-senpai! #towareine\nhttps://www.youtube.com/watch?v=4WzdT2Mdpmc
 DURATION:PT2H
 DTSTART:20230728T033000Z
@@ -46,13 +53,6 @@ SUMMARY:ホロライブ: YAGOOノーバンチャレンジ2日目
 UID:PN9jcVAVpXc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ピクミン4 をやらせて頂く # 5【奏手イヅル / ホロスターズ】\nhttps://www.youtube.com/watch?v=OeasEkQJeOg
-DURATION:PT2H
-DTSTART:20230727T094500Z
-SUMMARY:🎸奏手イヅル: ピクミン4 をやらせて頂く # 5【奏手イヅル / ホロスターズ】
-UID:OeasEkQJeOg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ストリートファイター6】ぼたんちゃんと10本先取勝負！→ころさんと5本先取勝負！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=fG4gsfExH10
 DURATION:PT2H
 DTSTART:20230727T120000Z
@@ -60,11 +60,18 @@ SUMMARY:👯兎田ぺこら: 【ストリートファイター6】ぼたんち�
 UID:fG4gsfExH10
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【バイオハザードRE２】The豆腐Survivorチャレンジしゅばああああああああああああ！！！！/BIOHAZARD RE:2【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=iIniQmz1RHc
+DESCRIPTION:ピクミン4 をやらせて頂く # 5【奏手イヅル / ホロスターズ】\nhttps://www.youtube.com/watch?v=OeasEkQJeOg
 DURATION:PT2H
-DTSTART:20230727T110000Z
-SUMMARY:🚑大空スバル: 【バイオハザードRE２】The豆腐Survivorチャレンジしゅばああああああああああああ！！！！/BIOHAZARD RE:2【ホロライブ/大空スバル】
-UID:iIniQmz1RHc
+DTSTART:20230727T094500Z
+SUMMARY:🎸奏手イヅル: ピクミン4 をやらせて頂く # 5【奏手イヅル / ホロスターズ】
+UID:OeasEkQJeOg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Banzoin Hakka】MY ROAR / マイロア【歌ってみた】\nhttps://www.youtube.com/watch?v=Z7plaS3sLgI
+DURATION:PT2H
+DTSTART:20230729T020000Z
+SUMMARY:Hakka: 【Banzoin Hakka】MY ROAR / マイロア【歌ってみた】
+UID:Z7plaS3sLgI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GEOGUESSR】doko duo\nhttps://www.youtube.com/watch?v=WkZJuVv2as0
@@ -72,6 +79,13 @@ DURATION:PT2H
 DTSTART:20230728T000000Z
 SUMMARY:Gura: 【GEOGUESSR】doko duo
 UID:WkZJuVv2as0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【バイオハザードRE２】The豆腐Survivorチャレンジしゅばああああああああああああ！！！！/BIOHAZARD RE:2【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=iIniQmz1RHc
+DURATION:PT2H
+DTSTART:20230727T110000Z
+SUMMARY:🚑大空スバル: 【バイオハザードRE２】The豆腐Survivorチャレンジしゅばああああああああああああ！！！！/BIOHAZARD RE:2【ホロライブ/大空スバル】
+UID:iIniQmz1RHc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スト６】久々JPでランクマ！！！！！！！【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=n4dY8zEfWIM
@@ -144,18 +158,18 @@ SUMMARY:Hakka: 【Final Fantasy XVI】FINAL FANTASY FINAL FANTASY FINAL FANTASY 
 UID:VXzTrP66dU8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Catching Upよなかつ】Small Catch-Up OMG Wow Tomorrow's My 3D【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=W-4jmrf7VL0
-DURATION:PT2H
-DTSTART:20230727T150000Z
-SUMMARY:Anya: 【Catching Upよなかつ】Small Catch-Up OMG Wow Tomorrow's My 3D【hololive ID 2nd Generation | Anya Melfissa】
-UID:W-4jmrf7VL0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#holoAdvent ...!?】Adventのウワサがあつまる非公認非公式配信【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=X6O3CUf_duo
 DURATION:PT2H
 DTSTART:20230728T010000Z
 SUMMARY:尾丸ポルカ: 【#holoAdvent ...!?】Adventのウワサがあつまる非公認非公式配信【尾丸ポルカ/ホロライブ】
 UID:X6O3CUf_duo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Catching Upよなかつ】Small Catch-Up OMG Wow Tomorrow's My 3D【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=W-4jmrf7VL0
+DURATION:PT2H
+DTSTART:20230727T150000Z
+SUMMARY:Anya: 【Catching Upよなかつ】Small Catch-Up OMG Wow Tomorrow's My 3D【hololive ID 2nd Generation | Anya Melfissa】
+UID:W-4jmrf7VL0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談 Blender】Ollieちゃんが描いたこの子を立体化したい #3  ※初心者【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=q1JrCIg8FAo
@@ -207,11 +221,11 @@ SUMMARY:ホロライブ: 【サマー3D】今なら授業料0円！かなりあ�
 UID:a6IcTpneTZw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談 Blender】Ollieちゃんが描いたこの子を立体化したい #4  ※初心者【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=zZ5i8P3sp6c
+DESCRIPTION:【SPECIAL ZATSUDAN】CELEBRATION TIME BABY!!!【COVER RELEASE】\nhttps://www.youtube.com/watch?v=Ms3BJbRv6Tc
 DURATION:PT2H
-DTSTART:20230728T030000Z
-SUMMARY:🍕アルランディス: 【雑談 Blender】Ollieちゃんが描いたこの子を立体化したい #4  ※初心者【アルランディス/ホロスターズ】
-UID:zZ5i8P3sp6c
+DTSTART:20230729T020500Z
+SUMMARY:Hakka: 【SPECIAL ZATSUDAN】CELEBRATION TIME BABY!!!【COVER RELEASE】
+UID:Ms3BJbRv6Tc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【3D SHOWCASE】SHARPLY Unsheathed. Here I Go! 3Dお披露目配信！これが古代兵器の本気。 #AnyaMelfissa3D\nhttps://www.youtube.com/watch?v=QVxgwstf-Aw
@@ -219,6 +233,13 @@ DURATION:PT2H
 DTSTART:20230728T130000Z
 SUMMARY:Anya: 【3D SHOWCASE】SHARPLY Unsheathed. Here I Go! 3Dお披露目配信！これが古代兵器の本気。 #AnyaMelfissa3D
 UID:QVxgwstf-Aw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談 Blender】Ollieちゃんが描いたこの子を立体化したい #4  ※初心者【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=zZ5i8P3sp6c
+DURATION:PT2H
+DTSTART:20230728T030000Z
+SUMMARY:🍕アルランディス: 【雑談 Blender】Ollieちゃんが描いたこの子を立体化したい #4  ※初心者【アルランディス/ホロスターズ】
+UID:zZ5i8P3sp6c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#水無世燐央生誕祭2023 スパチャお礼 】初めてのチェキ会！手書きでお礼を書かせていただく！【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=CWDdk2NbN0g
@@ -242,18 +263,18 @@ SUMMARY:Altare: Opening CSGO Cases Every Time I Win
 UID:n2ZfG5kMPfo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ULTIMATE FISHING SIMULATOR】Summer Fishing !!!\nhttps://www.youtube.com/watch?v=cDCvWOJWUTc
-DURATION:PT2H
-DTSTART:20230727T000000Z
-SUMMARY:Mumei: 【ULTIMATE FISHING SIMULATOR】Summer Fishing !!!
-UID:cDCvWOJWUTc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Karaoke Stream / 歌枠】Lala Haha\nhttps://www.youtube.com/watch?v=zeb1g-Ah0JM
 DURATION:PT2H
 DTSTART:20230727T041000Z
 SUMMARY:IRyS: 【Karaoke Stream / 歌枠】Lala Haha
 UID:zeb1g-Ah0JM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ULTIMATE FISHING SIMULATOR】Summer Fishing !!!\nhttps://www.youtube.com/watch?v=cDCvWOJWUTc
+DURATION:PT2H
+DTSTART:20230727T000000Z
+SUMMARY:Mumei: 【ULTIMATE FISHING SIMULATOR】Summer Fishing !!!
+UID:cDCvWOJWUTc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HOT SPRINGS!!】relaxing in traditional japanese onsen~!\nhttps://www.youtube.com/watch?v=wimNdBaTjm4
@@ -403,18 +424,18 @@ SUMMARY:Gura: slime boing
 UID:DSzU0bU1PO4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スト6】22時からアーモンド兎田と10先勝負＆どぐら先生のラシード講座受講する回【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=YtazabglOqU
-DURATION:PT2H
-DTSTART:20230727T120000Z
-SUMMARY:獅白ぼたん: 【スト6】22時からアーモンド兎田と10先勝負＆どぐら先生のラシード講座受講する回【獅白ぼたん/ホロライブ】
-UID:YtazabglOqU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【重大発表あり】再び！夏バテに効く情報持ってきました【#ひろがるホロライブ】\nhttps://www.youtube.com/watch?v=R9tR3ksu-7Q
 DURATION:PT2H
 DTSTART:20230728T110000Z
 SUMMARY:ホロライブ: 【重大発表あり】再び！夏バテに効く情報持ってきました【#ひろがるホロライブ】
 UID:R9tR3ksu-7Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スト6】22時からアーモンド兎田と10先勝負＆どぐら先生のラシード講座受講する回【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=YtazabglOqU
+DURATION:PT2H
+DTSTART:20230727T120000Z
+SUMMARY:獅白ぼたん: 【スト6】22時からアーモンド兎田と10先勝負＆どぐら先生のラシード講座受講する回【獅白ぼたん/ホロライブ】
+UID:YtazabglOqU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:iofi ❤️ イオフィ\nhttps://www.youtube.com/watch?v=piqBBPgKaVQ
@@ -513,6 +534,13 @@ DURATION:PT2H
 DTSTART:20230727T200000Z
 SUMMARY:Amelia: 【Pizza Tower】its a pizza party ! (p for pizza)
 UID:gLdSYKfSUdQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ピクミン2】完全初見🔰全滅で罰ゲーム🔥アットホームでホワイトな会社ですお待ちしています【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=nTRMlvZDm4k
+DURATION:PT2H
+DTSTART:20230729T020000Z
+SUMMARY:博衣こより: 【ピクミン2】完全初見🔰全滅で罰ゲーム🔥アットホームでホワイトな会社ですお待ちしています【博衣こより/ホロライブ】
+UID:nTRMlvZDm4k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:募集した怪談がこわいの【ポルカの伝説】\nhttps://www.youtube.com/watch?v=fZxFFfeGDYM
