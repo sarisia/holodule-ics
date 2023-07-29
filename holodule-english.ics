@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Day 1】#holoAdvent Debut Watchalong!\nhttps://www.youtube.com/watch?v=B7SLwbn1fLQ
+DURATION:PT2H
+DTSTART:20230730T024500Z
+SUMMARY:ENholo: 【Day 1】#holoAdvent Debut Watchalong!
+UID:B7SLwbn1fLQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【We Love Katamari REROLL+ Royal Reverie】they see me rollin' (SPOILERS)\nhttps://www.youtube.com/watch?v=e9y3KpbG1YA
 DURATION:PT2H
 DTSTART:20230728T220053Z
