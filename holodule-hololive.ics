@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#ホロサマ歌枠リレー 】おっはよ～！！朝からぶち上げていこう！夏！ 🌻【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=1QtzHnTVBLQ
+DURATION:PT2H
+DTSTART:20230729T223000Z
+SUMMARY:ラプラス: 【#ホロサマ歌枠リレー 】おっはよ～！！朝からぶち上げていこう！夏！ 🌻【ラプラス・ダークネス/ホロライブ】
+UID:1QtzHnTVBLQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【＃8】ペルソナ5 ザ・ロイヤルやるしゅばあああああああああああああああああああああああ！！！！: P5R【※ネタバレあり】\nhttps://www.youtube.com/watch?v=hRhARDeyooQ
 DURATION:PT2H
 DTSTART:20230730T050000Z
@@ -11,11 +18,32 @@ SUMMARY:🚑大空スバル: 【＃8】ペルソナ5 ザ・ロイヤルやるし
 UID:hRhARDeyooQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【深夜ラジオ】鷹嶺ルイのミッドナイトラジオ #13【鷹嶺ルイ/ホロライブ】#ルイのミッドナイトラジオ\nhttps://www.youtube.com/watch?v=kuZt5Za8ihg
+DURATION:PT2H
+DTSTART:20230730T150000Z
+SUMMARY:鷹嶺ルイ: 【深夜ラジオ】鷹嶺ルイのミッドナイトラジオ #13【鷹嶺ルイ/ホロライブ】#ルイのミッドナイトラジオ
+UID:kuZt5Za8ihg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】ファンミのことを振り返って、お話しする！！！！！！！【お疲れ様会】\nhttps://www.youtube.com/watch?v=Q2EMlQz4k1E
+DURATION:PT2H
+DTSTART:20230729T143000Z
+SUMMARY:🌲大神ミオ: 【雑談】ファンミのことを振り返って、お話しする！！！！！！！【お疲れ様会】
+UID:Q2EMlQz4k1E
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ホロサマ歌枠リレー】水着お披露目＆夏っぽい歌！【ホロライブ/沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=SYpav750iYc
 DURATION:PT2H
 DTSTART:20230729T150000Z
 SUMMARY:沙花叉クロヱ: 【#ホロサマ歌枠リレー】水着お披露目＆夏っぽい歌！【ホロライブ/沙花叉クロヱ】
 UID:SYpav750iYc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロサマ歌枠リレー】水着お披露目＆夏にピッタリ！ノリノリでいくぞ～～～！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=8wl1la0IOtk
+DURATION:PT2H
+DTSTART:20230730T010000Z
+SUMMARY:⚔白銀ノエル: 【#ホロサマ歌枠リレー】水着お披露目＆夏にピッタリ！ノリノリでいくぞ～～～！【白銀ノエル/ホロライブ】
+UID:8wl1la0IOtk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロサマ歌枠リレー 】夏だ！！サマーだ！！水着だ～～！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=MadidgSg_qM
@@ -46,6 +74,20 @@ SUMMARY:博衣こより: 【ピクミン2】完全初見🔰全滅ごとに罰�
 UID:a7czhOC7EN4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【新水着お披露目】ドキッ！ホロライブだらけの水着コンテスト【#hololivesummer2023】\nhttps://www.youtube.com/watch?v=ffK5DJXVgY0
+DURATION:PT2H
+DTSTART:20230729T110000Z
+SUMMARY:ホロライブ: 【新水着お披露目】ドキッ！ホロライブだらけの水着コンテスト【#hololivesummer2023】
+UID:ffK5DJXVgY0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #ホロサマ歌枠リレー 】夏だ～～～～！！！水着歌枠しゅばああああああああああああああああああ！！！！！！：sing song【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=0ZSnVjrZA_Q
+DURATION:PT2H
+DTSTART:20230730T092000Z
+SUMMARY:🚑大空スバル: 【 #ホロサマ歌枠リレー 】夏だ～～～～！！！水着歌枠しゅばああああああああああああああああああ！！！！！！：sing song【ホロライブ/大空スバル】
+UID:0ZSnVjrZA_Q
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 のんびり 】新衣装お礼雑談なのら（限定ｱｰｶｲﾌﾞ）【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=hb0SkA3XVCU
 DURATION:PT2H
 DTSTART:20230729T130000Z
@@ -60,11 +102,11 @@ SUMMARY:🐻ときのそら: 【もっと！ゆるっと学べるクラシック
 UID:qxru2tqP9U0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロサマ歌枠リレー】朝だよ！夏に水着で歌ってこう！！【ときのそら/Tokinosora/ホロライブ 】\nhttps://www.youtube.com/watch?v=t7jHb6ihTFU
+DESCRIPTION:YAGOOノーバンチャレンジ4日目\nhttps://www.youtube.com/watch?v=lpNzyuIaoHs
 DURATION:PT2H
-DTSTART:20230730T003000Z
-SUMMARY:🐻ときのそら: 【#ホロサマ歌枠リレー】朝だよ！夏に水着で歌ってこう！！【ときのそら/Tokinosora/ホロライブ 】
-UID:t7jHb6ihTFU
+DTSTART:20230729T080012Z
+SUMMARY:ホロライブ: YAGOOノーバンチャレンジ4日目
+UID:lpNzyuIaoHs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FF16】ファイナルファンタジーXVI  ＃６【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=nwtODxHvxa4
@@ -74,11 +116,18 @@ SUMMARY:🌽白上フブキ: 【FF16】ファイナルファンタジーXVI  ＃
 UID:nwtODxHvxa4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:THE MUSIC DAY 2023 「Stellar Stellar」ライブ映像\nhttps://www.youtube.com/watch?v=nVHy8OdrYAE
+DESCRIPTION:【#ホロサマ歌枠リレー】朝だよ！夏に水着で歌ってこう！！【ときのそら/Tokinosora/ホロライブ 】\nhttps://www.youtube.com/watch?v=t7jHb6ihTFU
 DURATION:PT2H
-DTSTART:20230728T100044Z
-SUMMARY:☄星街すいせい: THE MUSIC DAY 2023 「Stellar Stellar」ライブ映像
-UID:nVHy8OdrYAE
+DTSTART:20230730T003000Z
+SUMMARY:🐻ときのそら: 【#ホロサマ歌枠リレー】朝だよ！夏に水着で歌ってこう！！【ときのそら/Tokinosora/ホロライブ 】
+UID:t7jHb6ihTFU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:『死霊館 エンフィールド事件(吹替版)』（2時間13分）を同時視聴！\nhttps://www.youtube.com/watch?v=JTRpia-Wpjs
+DURATION:PT2H
+DTSTART:20230729T043759Z
+SUMMARY:雪花ラミィ: 『死霊館 エンフィールド事件(吹替版)』（2時間13分）を同時視聴！
+UID:JTRpia-Wpjs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【料理/朝活】ううううううううううううううううう！！！！【ロボ子さん /ホロライブ】\nhttps://www.youtube.com/watch?v=-azMgnmdPGw
@@ -109,18 +158,11 @@ SUMMARY:鷹嶺ルイ: 【 アイビスSD 】夏の最速馬を決めるアイビ
 UID:D74lbODtDo8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ダーリンダンス歌ってみた🎶 #Shorts 【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=JtLYhSAP_xM
+DESCRIPTION:【 #ホロサマ歌枠リレー 】新作水着お披露目＆盛り上がる曲を歌うのら！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=rP_A_ZOCs1k
 DURATION:PT2H
-DTSTART:20230728T090012Z
-SUMMARY:博衣こより: ダーリンダンス歌ってみた🎶 #Shorts 【博衣こより/ホロライブ】
-UID:JtLYhSAP_xM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARK | Fjordur】月末５日連続ARK！極寒の地ヨトゥンヘイムへ！【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=Nb2c6301nMs
-DURATION:PT2H
-DTSTART:20230728T140000Z
-SUMMARY:🍎アキロゼ: 【ARK | Fjordur】月末５日連続ARK！極寒の地ヨトゥンヘイムへ！【アキ・ローゼンタール/ホロライブ】
-UID:Nb2c6301nMs
+DTSTART:20230730T070000Z
+SUMMARY:🍬姫森ルーナ: 【 #ホロサマ歌枠リレー 】新作水着お披露目＆盛り上がる曲を歌うのら！【姫森ルーナ/ホロライブ】
+UID:rP_A_ZOCs1k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:強風オールバック / 角巻わため×しぐれうい(Cover)フル公開中！ #shorts\nhttps://www.youtube.com/watch?v=NwrA-1z0p6g
@@ -128,181 +170,6 @@ DURATION:PT2H
 DTSTART:20230729T090025Z
 SUMMARY:🐏角巻わため: 強風オールバック / 角巻わため×しぐれうい(Cover)フル公開中！ #shorts
 UID:NwrA-1z0p6g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #ホロサマ歌枠リレー 】新水着衣装お披露目だよ～～～！朝から歌うっっ🎶【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=iAml668oJdM
-DURATION:PT2H
-DTSTART:20230730T000000Z
-SUMMARY:博衣こより: 【 #ホロサマ歌枠リレー 】新水着衣装お披露目だよ～～～！朝から歌うっっ🎶【博衣こより/ホロライブ】
-UID:iAml668oJdM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#holoAdvent ...!?】Adventのウワサがあつまる非公認非公式配信【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=X6O3CUf_duo
-DURATION:PT2H
-DTSTART:20230728T010000Z
-SUMMARY:尾丸ポルカ: 【#holoAdvent ...!?】Adventのウワサがあつまる非公認非公式配信【尾丸ポルカ/ホロライブ】
-UID:X6O3CUf_duo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:妄想アスパルテーム／湊あくあ (cover)\nhttps://www.youtube.com/watch?v=EZCLbzlK6zA
-DURATION:PT2H
-DTSTART:20230728T100000Z
-SUMMARY:⚓湊あくあ: 妄想アスパルテーム／湊あくあ (cover)
-UID:EZCLbzlK6zA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【深夜に】ファンミ直前に、みんなと過ごしたかったんだ【バラード歌枠】\nhttps://www.youtube.com/watch?v=al9te_QxAIw
-DURATION:PT2H
-DTSTART:20230728T143000Z
-SUMMARY:🌲大神ミオ: 【深夜に】ファンミ直前に、みんなと過ごしたかったんだ【バラード歌枠】
-UID:al9te_QxAIw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【土用の丑の日】鰻を食す。【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=tjpx8AWVcyI
-DURATION:PT2H
-DTSTART:20230730T043000Z
-SUMMARY:雪花ラミィ: 【土用の丑の日】鰻を食す。【雪花ラミィ/ホロライブ】
-UID:tjpx8AWVcyI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARK | Fjordur】月末５日連続ARK！最後の中ボス戦！くまあああああ！【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=zIVXSbwIsLw
-DURATION:PT2H
-DTSTART:20230729T160000Z
-SUMMARY:🍎アキロゼ: 【ARK | Fjordur】月末５日連続ARK！最後の中ボス戦！くまあああああ！【アキ・ローゼンタール/ホロライブ】
-UID:zIVXSbwIsLw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ウイニングポスト10 】今回こそマンハッタンカフェと凱旋門目指すぞ！！！！！！！！！！！！！【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=TtqXS6-oCIM
-DURATION:PT2H
-DTSTART:20230729T030000Z
-SUMMARY:鷹嶺ルイ: 【 ウイニングポスト10 】今回こそマンハッタンカフェと凱旋門目指すぞ！！！！！！！！！！！！！【鷹嶺ルイ/ホロライブ】
-UID:TtqXS6-oCIM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリーのアトリエ】ここから更におもろいのが2年冬マリーのアトリエ！　Remake ザールブルグの錬金術士【ホロライブ/沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=2qt_X5mqdco
-DURATION:PT2H
-DTSTART:20230728T090000Z
-SUMMARY:沙花叉クロヱ: 【マリーのアトリエ】ここから更におもろいのが2年冬マリーのアトリエ！　Remake ザールブルグの錬金術士【ホロライブ/沙花叉クロヱ】
-UID:2qt_X5mqdco
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MV】正体 / いろはにほへっと あやふぶみ【「可惜夜歌集」リリース記念グッズ発売中！】\nhttps://www.youtube.com/watch?v=VFigzkMu4jk
-DURATION:PT2H
-DTSTART:20230728T100000Z
-SUMMARY:ホロライブ: 【MV】正体 / いろはにほへっと あやふぶみ【「可惜夜歌集」リリース記念グッズ発売中！】
-UID:VFigzkMu4jk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #ホロサマ歌枠リレー 】夏だ！水着だ！歌枠リレーだ？！夏曲歌っちゃう！【大神ミオ】\nhttps://www.youtube.com/watch?v=3Wy3owQJsKk
-DURATION:PT2H
-DTSTART:20230730T023000Z
-SUMMARY:🌲大神ミオ: 【 #ホロサマ歌枠リレー 】夏だ！水着だ！歌枠リレーだ？！夏曲歌っちゃう！【大神ミオ】
-UID:3Wy3owQJsKk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【クリアまでv(^-^】ディズニー イリュージョンアイランド ～ミッキー&フレンズの不思議な冒険～【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=j12kPNQjo6U
-DURATION:PT2H
-DTSTART:20230729T130000Z
-SUMMARY:🥐戌神ころね: 【クリアまでv(^-^】ディズニー イリュージョンアイランド ～ミッキー&フレンズの不思議な冒険～【戌神ころね/ホロライブ】
-UID:j12kPNQjo6U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロサマ歌枠リレー】水着でスプラッシュ歌枠！！【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=RM_JOkYh1OM
-DURATION:PT2H
-DTSTART:20230729T152000Z
-SUMMARY:🍎アキロゼ: 【#ホロサマ歌枠リレー】水着でスプラッシュ歌枠！！【ホロライブ/アキ・ローゼンタール】
-UID:RM_JOkYh1OM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:癖になってんだ、圧。　#ホロサマshorts #hololivesummer2023 #shorts\nhttps://www.youtube.com/watch?v=0rP05TmFtTQ
-DURATION:PT2H
-DTSTART:20230728T030000Z
-SUMMARY:🥐戌神ころね: 癖になってんだ、圧。　#ホロサマshorts #hololivesummer2023 #shorts
-UID:0rP05TmFtTQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロサマ歌枠リレー 】おっはよ～！！朝からぶち上げていこう！夏！ 🌻【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=1QtzHnTVBLQ
-DURATION:PT2H
-DTSTART:20230729T223000Z
-SUMMARY:ラプラス: 【#ホロサマ歌枠リレー 】おっはよ～！！朝からぶち上げていこう！夏！ 🌻【ラプラス・ダークネス/ホロライブ】
-UID:1QtzHnTVBLQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】ファンミのことを振り返って、お話しする！！！！！！！【お疲れ様会】\nhttps://www.youtube.com/watch?v=Q2EMlQz4k1E
-DURATION:PT2H
-DTSTART:20230729T143000Z
-SUMMARY:🌲大神ミオ: 【雑談】ファンミのことを振り返って、お話しする！！！！！！！【お疲れ様会】
-UID:Q2EMlQz4k1E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロサマ歌枠リレー】水着お披露目＆夏にピッタリ！ノリノリでいくぞ～～～！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=8wl1la0IOtk
-DURATION:PT2H
-DTSTART:20230730T010000Z
-SUMMARY:⚔白銀ノエル: 【#ホロサマ歌枠リレー】水着お披露目＆夏にピッタリ！ノリノリでいくぞ～～～！【白銀ノエル/ホロライブ】
-UID:8wl1la0IOtk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【】ホロサマ歌リレー！！！！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=0ZSnVjrZA_Q
-DURATION:PT2H
-DTSTART:20230730T092000Z
-SUMMARY:🚑大空スバル: 【】ホロサマ歌リレー！！！！！【ホロライブ/大空スバル】
-UID:0ZSnVjrZA_Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【新水着お披露目】ドキッ！ホロライブだらけの水着コンテスト【#hololivesummer2023】\nhttps://www.youtube.com/watch?v=ffK5DJXVgY0
-DURATION:PT2H
-DTSTART:20230729T110000Z
-SUMMARY:ホロライブ: 【新水着お披露目】ドキッ！ホロライブだらけの水着コンテスト【#hololivesummer2023】
-UID:ffK5DJXVgY0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝雑】金曜日の朝雑～！EN新メンバー予想もしちゃお～！☀with translation♡【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=zgs1zQdefmM
-DURATION:PT2H
-DTSTART:20230727T220000Z
-SUMMARY:博衣こより: 【朝雑】金曜日の朝雑～！EN新メンバー予想もしちゃお～！☀with translation♡【博衣こより/ホロライブ】
-UID:zgs1zQdefmM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:YAGOOノーバンチャレンジ4日目\nhttps://www.youtube.com/watch?v=lpNzyuIaoHs
-DURATION:PT2H
-DTSTART:20230729T080012Z
-SUMMARY:ホロライブ: YAGOOノーバンチャレンジ4日目
-UID:lpNzyuIaoHs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:『死霊館 エンフィールド事件(吹替版)』（2時間13分）を同時視聴！\nhttps://www.youtube.com/watch?v=JTRpia-Wpjs
-DURATION:PT2H
-DTSTART:20230729T043759Z
-SUMMARY:雪花ラミィ: 『死霊館 エンフィールド事件(吹替版)』（2時間13分）を同時視聴！
-UID:JTRpia-Wpjs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 バイオハザードRE:2 】＃最終回 飲酒すれば怖くないバイオRE2に挑戦なのら！『レオン編』BIOHAZARD RE:2【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=9cKgxmcN3qE
-DURATION:PT2H
-DTSTART:20230728T140000Z
-SUMMARY:🍬姫森ルーナ: 【 バイオハザードRE:2 】＃最終回 飲酒すれば怖くないバイオRE2に挑戦なのら！『レオン編』BIOHAZARD RE:2【姫森ルーナ/ホロライブ】
-UID:9cKgxmcN3qE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ついに、メダル交換所をつくる！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=x5k7f1RlkNU
-DURATION:PT2H
-DTSTART:20230728T140000Z
-SUMMARY:🐏角巻わため: 【Minecraft】ついに、メダル交換所をつくる！【角巻わため/ホロライブ４期生】
-UID:x5k7f1RlkNU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【晩酌】また新たな珍味が届いた、つまりそゆこと！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=dxlnMB2Yx0Y
-DURATION:PT2H
-DTSTART:20230728T110000Z
-SUMMARY:雪花ラミィ: 【晩酌】また新たな珍味が届いた、つまりそゆこと！！【雪花ラミィ/ホロライブ】
-UID:dxlnMB2Yx0Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #ホロサマ歌枠リレー 】新作水着お披露目＆盛り上がる曲を歌うのら！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=rP_A_ZOCs1k
-DURATION:PT2H
-DTSTART:20230730T070000Z
-SUMMARY:🍬姫森ルーナ: 【 #ホロサマ歌枠リレー 】新作水着お披露目＆盛り上がる曲を歌うのら！【姫森ルーナ/ホロライブ】
-UID:rP_A_ZOCs1k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #ホロサマ歌枠リレー 】水着で歌う夏ソング✨【鷹嶺ルイ/ホロライブ】#NEW鷹嶺お披露目\nhttps://www.youtube.com/watch?v=0zqbhNSMWE8
@@ -319,13 +186,6 @@ SUMMARY:🐏角巻わため: フブわた広島・因島旅！【角巻わため
 UID:KrZ3cx1GXYk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:わたサンタの秘密【ギリギリわるくないわため】 #ギリわる\nhttps://www.youtube.com/watch?v=U5gQy97fW9o
-DURATION:PT2H
-DTSTART:20230728T100027Z
-SUMMARY:🐏角巻わため: わたサンタの秘密【ギリギリわるくないわため】 #ギリわる
-UID:U5gQy97fW9o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【完全初見】トルネコの大冒険 不思議のダンジョン【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=q5Go22lqJtc
 DURATION:PT2H
 DTSTART:20230730T050000Z
@@ -333,32 +193,11 @@ SUMMARY:雪花ラミィ: 【完全初見】トルネコの大冒険 不思議の
 UID:q5Go22lqJtc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft脱出】オットセイは1号室【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=xEO2qIe53WE
+DESCRIPTION:【 #ホロサマ歌枠リレー 】新水着衣装お披露目だよ～～～！朝から歌うっっ🎶【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=iAml668oJdM
 DURATION:PT2H
-DTSTART:20230728T140000Z
-SUMMARY:🔥不知火フレア: 【Minecraft脱出】オットセイは1号室【不知火フレア/ホロライブ】
-UID:xEO2qIe53WE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:YAGOOノーバンチャレンジ3日目\nhttps://www.youtube.com/watch?v=qObJWN8FVWI
-DURATION:PT2H
-DTSTART:20230728T080024Z
-SUMMARY:ホロライブ: YAGOOノーバンチャレンジ3日目
-UID:qObJWN8FVWI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【重大発表あり】再び！夏バテに効く情報持ってきました【#ひろがるホロライブ】\nhttps://www.youtube.com/watch?v=R9tR3ksu-7Q
-DURATION:PT2H
-DTSTART:20230728T110000Z
-SUMMARY:ホロライブ: 【重大発表あり】再び！夏バテに効く情報持ってきました【#ひろがるホロライブ】
-UID:R9tR3ksu-7Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【強風オールバック】腰痛オールドバック / 宝鐘マリン(78) cover #shorts\nhttps://www.youtube.com/watch?v=HXfivbbQPgE
-DURATION:PT2H
-DTSTART:20230728T091018Z
-SUMMARY:🏴☠宝鐘マリン: 【強風オールバック】腰痛オールドバック / 宝鐘マリン(78) cover #shorts
-UID:HXfivbbQPgE
+DTSTART:20230730T000000Z
+SUMMARY:博衣こより: 【 #ホロサマ歌枠リレー 】新水着衣装お披露目だよ～～～！朝から歌うっっ🎶【博衣こより/ホロライブ】
+UID:iAml668oJdM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ストリートファイター6】ランクマで修行するぞおおおおおおおおおおおおお！！！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=udU9mL3DY-k
@@ -375,11 +214,39 @@ SUMMARY:🌸さくらみこ: 【 #最終回 】ありがとうペルソナ！！
 UID:ZE_6qy5MnQo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【土用の丑の日】鰻を食す。【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=tjpx8AWVcyI
+DURATION:PT2H
+DTSTART:20230730T043000Z
+SUMMARY:雪花ラミィ: 【土用の丑の日】鰻を食す。【雪花ラミィ/ホロライブ】
+UID:tjpx8AWVcyI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【🟣月一メン限】酔いどれ⁉お悩み相談室🍾💜【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=Zk-PLRDUxAI
+DURATION:PT2H
+DTSTART:20230731T130000Z
+SUMMARY:🍙猫又おかゆ: 【🟣月一メン限】酔いどれ⁉お悩み相談室🍾💜【猫又おかゆ/ホロライブ】
+UID:Zk-PLRDUxAI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK | Fjordur】月末５日連続ARK！最後の中ボス戦！くまあああああ！【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=zIVXSbwIsLw
+DURATION:PT2H
+DTSTART:20230729T160000Z
+SUMMARY:🍎アキロゼ: 【ARK | Fjordur】月末５日連続ARK！最後の中ボス戦！くまあああああ！【アキ・ローゼンタール/ホロライブ】
+UID:zIVXSbwIsLw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:みんなで一緒にやるぞい！！【VALORANT】\nhttps://www.youtube.com/watch?v=SQNdG63knnU
 DURATION:PT2H
 DTSTART:20230729T090000Z
 SUMMARY:桃鈴ねね: みんなで一緒にやるぞい！！【VALORANT】
 UID:SQNdG63knnU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 ウイニングポスト10 】今回こそマンハッタンカフェと凱旋門目指すぞ！！！！！！！！！！！！！【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=TtqXS6-oCIM
+DURATION:PT2H
+DTSTART:20230729T030000Z
+SUMMARY:鷹嶺ルイ: 【 ウイニングポスト10 】今回こそマンハッタンカフェと凱旋門目指すぞ！！！！！！！！！！！！！【鷹嶺ルイ/ホロライブ】
+UID:TtqXS6-oCIM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロサマ歌枠リレー 】トップバッター、水着でいくぞ！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=6C3aO8HzSoM
@@ -403,6 +270,13 @@ SUMMARY:鷹嶺ルイ: デーモンロード / 鷹嶺ルイ(cover)
 UID:kP59dc8GmH8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#ホロサマ歌枠リレー 】SUMMERRRRRRRRRRR🌞【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=lolrmOtxtlk
+DURATION:PT2H
+DTSTART:20230730T084000Z
+SUMMARY:👾常闇トワ: 【#ホロサマ歌枠リレー 】SUMMERRRRRRRRRRR🌞【常闇トワ/ホロライブ】
+UID:lolrmOtxtlk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#hololivesummer2023】2ndテーマ『アバンチュール♡ホリック』MV\nhttps://www.youtube.com/watch?v=oLp3GDZcBCc
 DURATION:PT2H
 DTSTART:20230729T121500Z
@@ -417,20 +291,6 @@ SUMMARY:尾丸ポルカ: 【#ホロサマ歌枠リレー】全ホロリス待望
 UID:wRKThk18jxg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ピクミン4】大量事故●と全滅の物語 #Shorts 【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=coPS9asHjZE
-DURATION:PT2H
-DTSTART:20230728T100029Z
-SUMMARY:博衣こより: 【ピクミン4】大量事故●と全滅の物語 #Shorts 【博衣こより/ホロライブ】
-UID:coPS9asHjZE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【＃生スバル】Re:ゼロから始める異世界生活 同時視聴：Re:ZERO -Starting Life in Another World watching party【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=uCX9ou3MhPw
-DURATION:PT2H
-DTSTART:20230728T110000Z
-SUMMARY:🚑大空スバル: 【＃生スバル】Re:ゼロから始める異世界生活 同時視聴：Re:ZERO -Starting Life in Another World watching party【ホロライブ/大空スバル】
-UID:uCX9ou3MhPw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ホロサマ歌枠リレー】水着衣装お披露目と夏歌【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=BgdaCabUidY
 DURATION:PT2H
 DTSTART:20230729T162000Z
@@ -438,11 +298,39 @@ SUMMARY:🔥不知火フレア: 【#ホロサマ歌枠リレー】水着衣装�
 UID:BgdaCabUidY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 #ホロサマ歌枠リレー 】夏だ！水着だ！歌枠リレーだ？！夏曲歌っちゃう！【大神ミオ】\nhttps://www.youtube.com/watch?v=3Wy3owQJsKk
+DURATION:PT2H
+DTSTART:20230730T023000Z
+SUMMARY:🌲大神ミオ: 【 #ホロサマ歌枠リレー 】夏だ！水着だ！歌枠リレーだ？！夏曲歌っちゃう！【大神ミオ】
+UID:3Wy3owQJsKk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【クリアまでv(^-^】ディズニー イリュージョンアイランド ～ミッキー&フレンズの不思議な冒険～【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=j12kPNQjo6U
+DURATION:PT2H
+DTSTART:20230729T130000Z
+SUMMARY:🥐戌神ころね: 【クリアまでv(^-^】ディズニー イリュージョンアイランド ～ミッキー&フレンズの不思議な冒険～【戌神ころね/ホロライブ】
+UID:j12kPNQjo6U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ホロのこしかけ 25】夏満喫！青春もライブも24時間も欲張りさんの7月まとめ【友人A・えーちゃん】hololive FM\nhttps://www.youtube.com/watch?v=WjTzbhDQQvQ
+DURATION:PT2H
+DTSTART:20230731T131500Z
+SUMMARY:ホロライブ: 【ホロのこしかけ 25】夏満喫！青春もライブも24時間も欲張りさんの7月まとめ【友人A・えーちゃん】hololive FM
+UID:WjTzbhDQQvQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ホロサマ歌枠リレー】水着お披露目！歌枠✨【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=VRGTsJFIUiM
 DURATION:PT2H
 DTSTART:20230729T154000Z
 SUMMARY:🏮夏色まつり: 【#ホロサマ歌枠リレー】水着お披露目！歌枠✨【ホロライブ/夏色まつり】
 UID:VRGTsJFIUiM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロサマ歌枠リレー】水着でスプラッシュ歌枠！！【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=RM_JOkYh1OM
+DURATION:PT2H
+DTSTART:20230729T152000Z
+SUMMARY:🍎アキロゼ: 【#ホロサマ歌枠リレー】水着でスプラッシュ歌枠！！【ホロライブ/アキ・ローゼンタール】
+UID:RM_JOkYh1OM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロサマ歌枠リレー 】水着で歌っちゃうぞぉ～～！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=skymW1DV9z4
