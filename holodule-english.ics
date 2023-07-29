@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Day 1】#holoAdvent Debut Watchalong!\nhttps://www.youtube.com/watch?v=B7SLwbn1fLQ
-DURATION:PT2H
-DTSTART:20230730T024500Z
-SUMMARY:ENholo: 【Day 1】#holoAdvent Debut Watchalong!
-UID:B7SLwbn1fLQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【We Love Katamari REROLL+ Royal Reverie】they see me rollin' (SPOILERS)\nhttps://www.youtube.com/watch?v=e9y3KpbG1YA
 DURATION:PT2H
 DTSTART:20230728T220053Z
@@ -25,27 +18,6 @@ SUMMARY:ENholo: "Don't you think that's a wonderful story?" #holoAdvent
 UID:QU_7h5Pjv7Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Pizza Tower】its a pizza party ! (p for pizza)\nhttps://www.youtube.com/watch?v=gLdSYKfSUdQ
-DURATION:PT2H
-DTSTART:20230727T200000Z
-SUMMARY:Amelia: 【Pizza Tower】its a pizza party ! (p for pizza)
-UID:gLdSYKfSUdQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:"Ah\, the beautiful resonance of idol songs..." #holoAdvent\nhttps://www.youtube.com/watch?v=p-xppKyBXQs
-DURATION:PT2H
-DTSTART:20230729T023017Z
-SUMMARY:ENholo: "Ah\, the beautiful resonance of idol songs..." #holoAdvent
-UID:p-xppKyBXQs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:"BAU BAU!" #holoAdvent\nhttps://www.youtube.com/watch?v=DtW7QRIWlrs
-DURATION:PT2H
-DTSTART:20230729T024500Z
-SUMMARY:ENholo: "BAU BAU!" #holoAdvent
-UID:DtW7QRIWlrs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:"I hope you'll feel my radiance!" #holoAdvent\nhttps://www.youtube.com/watch?v=OGfX-B-xCwc
 DURATION:PT2H
 DTSTART:20230729T021501Z
@@ -53,25 +25,11 @@ SUMMARY:ENholo: "I hope you'll feel my radiance!" #holoAdvent
 UID:OGfX-B-xCwc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:A-chan reacts to new hololive English members #holoAdvent\nhttps://www.youtube.com/watch?v=dERAc_ww3Ns
+DESCRIPTION:【POST UK】I may look the same\, but UK changed me.  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=nebLnoSRHwE
 DURATION:PT2H
-DTSTART:20230729T100309Z
-SUMMARY:ENholo: A-chan reacts to new hololive English members #holoAdvent
-UID:dERAc_ww3Ns
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DEBUT】🗿 #hololiveEnglish #holoAdvent\nhttps://www.youtube.com/watch?v=rpAQib0T5v0
-DURATION:PT2H
-DTSTART:20230730T034500Z
-SUMMARY:Bijou: 【DEBUT】🗿 #hololiveEnglish #holoAdvent
-UID:rpAQib0T5v0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Once Upon a Time #holoAdvent  #ShioriOnAir #vtuber #debut\nhttps://www.youtube.com/watch?v=gwF5G8TVrlw
-DURATION:PT2H
-DTSTART:20230729T034532Z
-SUMMARY:Shiori: Once Upon a Time #holoAdvent  #ShioriOnAir #vtuber #debut
-UID:gwF5G8TVrlw
+DTSTART:20230729T173000Z
+SUMMARY:Kiara: 【POST UK】I may look the same\, but UK changed me.  #kfp #キアライブ
+UID:nebLnoSRHwE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SUMMER RELAY】UNARCHIVED Karaoke!! #ホロサマ歌枠リレー\nhttps://www.youtube.com/watch?v=CLwusEz4cjs
@@ -107,5 +65,61 @@ DURATION:PT2H
 DTSTART:20230730T030000Z
 SUMMARY:Shiori: [DEBUT STREAM] - A New Chapter Begins! #holoAdvent
 UID:EwGAcKnE-y4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Day 1】#holoAdvent Debut Watchalong!\nhttps://www.youtube.com/watch?v=B7SLwbn1fLQ
+DURATION:PT2H
+DTSTART:20230730T024500Z
+SUMMARY:ENholo: 【Day 1】#holoAdvent Debut Watchalong!
+UID:B7SLwbn1fLQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:"Ah\, the beautiful resonance of idol songs..." #holoAdvent\nhttps://www.youtube.com/watch?v=p-xppKyBXQs
+DURATION:PT2H
+DTSTART:20230729T023017Z
+SUMMARY:ENholo: "Ah\, the beautiful resonance of idol songs..." #holoAdvent
+UID:p-xppKyBXQs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Pizza Tower】its a pizza party ! (p for pizza)\nhttps://www.youtube.com/watch?v=gLdSYKfSUdQ
+DURATION:PT2H
+DTSTART:20230727T200000Z
+SUMMARY:Amelia: 【Pizza Tower】its a pizza party ! (p for pizza)
+UID:gLdSYKfSUdQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:"BAU BAU!" #holoAdvent\nhttps://www.youtube.com/watch?v=DtW7QRIWlrs
+DURATION:PT2H
+DTSTART:20230729T024500Z
+SUMMARY:ENholo: "BAU BAU!" #holoAdvent
+UID:DtW7QRIWlrs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A-chan reacts to new hololive English members #holoAdvent\nhttps://www.youtube.com/watch?v=dERAc_ww3Ns
+DURATION:PT2H
+DTSTART:20230729T100309Z
+SUMMARY:ENholo: A-chan reacts to new hololive English members #holoAdvent
+UID:dERAc_ww3Ns
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Once Upon a Time #holoAdvent  #ShioriOnAir #vtuber #debut\nhttps://www.youtube.com/watch?v=gwF5G8TVrlw
+DURATION:PT2H
+DTSTART:20230729T034532Z
+SUMMARY:Shiori: Once Upon a Time #holoAdvent  #ShioriOnAir #vtuber #debut
+UID:gwF5G8TVrlw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEBUT】🗿 #hololiveEnglish #holoAdvent\nhttps://www.youtube.com/watch?v=rpAQib0T5v0
+DURATION:PT2H
+DTSTART:20230730T034500Z
+SUMMARY:Bijou: 【DEBUT】🗿 #hololiveEnglish #holoAdvent
+UID:rpAQib0T5v0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【UNARCHIVED】SWIMSUIT SUMMER KARAOKE【#ホロサマ歌枠リレー】\nhttps://www.youtube.com/watch?v=8YuCBzKKCL4
+DURATION:PT2H
+DTSTART:20230729T230000Z
+SUMMARY:Kiara: 【UNARCHIVED】SWIMSUIT SUMMER KARAOKE【#ホロサマ歌枠リレー】
+UID:8YuCBzKKCL4
 END:VEVENT
 END:VCALENDAR
