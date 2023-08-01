@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【hololiveId】Afternoon Free Talk : Lunch Time !!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=Wgu3mJ6_-lU
-DURATION:PT2H
-DTSTART:20230731T063000Z
-SUMMARY:🐿Risu: 【hololiveId】Afternoon Free Talk : Lunch Time !!!!【Ayunda Risu】
-UID:Wgu3mJ6_-lU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【VALORANT】My crosshair is on the floor cus I'm looking for my life purpose【Pavolia Reine/hololiveID】\nhttps://www.youtube.com/watch?v=eSZWoQDjgBw
 DURATION:PT2H
 DTSTART:20230801T133000Z
@@ -25,18 +18,18 @@ SUMMARY:Kaela: 【Minecraft】holoIDCUP 2023 sneak peek? 👀【hololiveID】
 UID:3VY2WA4Fp78
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:YUK MAIN SAMA OLLIE DI PANTAI #ホロサマshorts #hololivesummer2023 #shorts\nhttps://www.youtube.com/watch?v=5EtG6qSRimo
-DURATION:PT2H
-DTSTART:20230801T030003Z
-SUMMARY:Ollie: YUK MAIN SAMA OLLIE DI PANTAI #ホロサマshorts #hololivesummer2023 #shorts
-UID:5EtG6qSRimo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Phasmophobia】the weekly challenge seems interesting【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=uMB8iBbBuU8
 DURATION:PT2H
 DTSTART:20230801T081500Z
 SUMMARY:Kaela: 【Phasmophobia】the weekly challenge seems interesting【Kaela Kovalskia / hololiveID】
 UID:uMB8iBbBuU8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:YUK MAIN SAMA OLLIE DI PANTAI #ホロサマshorts #hololivesummer2023 #shorts\nhttps://www.youtube.com/watch?v=5EtG6qSRimo
+DURATION:PT2H
+DTSTART:20230801T030003Z
+SUMMARY:Ollie: YUK MAIN SAMA OLLIE DI PANTAI #ホロサマshorts #hololivesummer2023 #shorts
+UID:5EtG6qSRimo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#holoIDCup2023】 Rules & Explanation\nhttps://www.youtube.com/watch?v=gEv3hQ8fBDU
@@ -58,27 +51,6 @@ DURATION:PT2H
 DTSTART:20230801T090000Z
 SUMMARY:🐿Risu: 【hololiveId】Chill Afternoon with a little bit of Singing【Ayunda Risu】
 UID:Uv0vSQGH12c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【StarCraft】Can i beat it?【holoID】\nhttps://www.youtube.com/watch?v=i9X89t5JXVY
-DURATION:PT2H
-DTSTART:20230731T070000Z
-SUMMARY:🔮Moona: 【StarCraft】Can i beat it?【holoID】
-UID:i9X89t5JXVY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FREE TALK】HOLORO 3D\, Summer Program\, Summer 2nd Theme... So Many Things!!【Pavolia Reine/hololiveID】\nhttps://www.youtube.com/watch?v=a5fo_eUGvPg
-DURATION:PT2H
-DTSTART:20230731T130000Z
-SUMMARY:Reine: 【FREE TALK】HOLORO 3D\, Summer Program\, Summer 2nd Theme... So Many Things!!【Pavolia Reine/hololiveID】
-UID:a5fo_eUGvPg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DAVE THE DIVER】#4 IKZ SEA PEOPLE【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=k6s6Sb8sgho
-DURATION:PT2H
-DTSTART:20230731T123000Z
-SUMMARY:Kaela: 【DAVE THE DIVER】#4 IKZ SEA PEOPLE【Kaela Kovalskia / hololiveID】
-UID:k6s6Sb8sgho
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】HOLOID CUP 2023\; THE SPOILER!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=LtHwSxG0sSA
