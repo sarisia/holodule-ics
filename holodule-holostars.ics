@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】鍛冶型集め！今日はネザーに行きます！！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=DINlSuoQsEY
-DURATION:PT2H
-DTSTART:20230802T140000Z
-SUMMARY:🍕アルランディス: 【Minecraft】鍛冶型集め！今日はネザーに行きます！！【アルランディス/ホロスターズ】
-UID:DINlSuoQsEY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 雪女 / Chilla's Art 】ビビらない男の”雪女” 【羽継烏有 /#vtuber /#ホロスターズ 】\nhttps://www.youtube.com/watch?v=IxJS9koUjxU
 DURATION:PT2H
 DTSTART:20230802T150000Z
@@ -100,5 +93,12 @@ DURATION:PT2H
 DTSTART:20230802T030013Z
 SUMMARY:🍕アルランディス: FOREWARNEDでミイラになったものの末路が悲惨 #shorts #vtuber
 UID:JWgZh1-mXh8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#渋ハルカスタム いつかのリベンジ！w/マキオさん CHiCOさん【夜十神封魔/ホロスターズ】\nhttps://www.youtube.com/watch?v=MaIoBK1kNLw
+DURATION:PT2H
+DTSTART:20230803T120000Z
+SUMMARY:夜十神封魔: #渋ハルカスタム いつかのリベンジ！w/マキオさん CHiCOさん【夜十神封魔/ホロスターズ】
+UID:MaIoBK1kNLw
 END:VEVENT
 END:VCALENDAR
