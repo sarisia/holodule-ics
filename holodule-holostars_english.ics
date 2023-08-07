@@ -4,32 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:[Week in Review] HAPPY WEEK HAPPY TIMES! #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=gLq5-RcFQBE
+DURATION:PT2H
+DTSTART:20230807T210000Z
+SUMMARY:Bettel: [Week in Review] HAPPY WEEK HAPPY TIMES! #gavisbettel #holotempus
+UID:gLq5-RcFQBE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:🐪The Camel Expedition🐪【31】\nhttps://www.youtube.com/watch?v=MJHMoqvdPzY
 DURATION:PT2H
 DTSTART:20230807T230000Z
 SUMMARY:Altare: 🐪The Camel Expedition🐪【31】
 UID:MJHMoqvdPzY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FINAL FANTASY XVI】#3 You Will Never Understand The Burden..\nhttps://www.youtube.com/watch?v=swlRef5iIqI
-DURATION:PT2H
-DTSTART:20230806T230000Z
-SUMMARY:Flayon: 【FINAL FANTASY XVI】#3 You Will Never Understand The Burden..
-UID:swlRef5iIqI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【League of Legends】We're gonna have fun (1)\nhttps://www.youtube.com/watch?v=EwmhPf4IhCY
-DURATION:PT2H
-DTSTART:20230806T230000Z
-SUMMARY:Syrios: 【League of Legends】We're gonna have fun (1)
-UID:EwmhPf4IhCY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DAVE THE DIVER】LET'S GO DIVING HAKKITOS!!!\nhttps://www.youtube.com/watch?v=DsEdfKG54tE
-DURATION:PT2H
-DTSTART:20230807T000000Z
-SUMMARY:Hakka: 【DAVE THE DIVER】LET'S GO DIVING HAKKITOS!!!
-UID:DsEdfKG54tE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MACHI Q&A】You Ask Me Questions\, I Give You Nothing\nhttps://www.youtube.com/watch?v=4R-FFgg0Iuk
@@ -44,6 +30,27 @@ DURATION:PT2H
 DTSTART:20230807T010000Z
 SUMMARY:Shinri: 【Outer Wilds】2 - We're cooking (marshmallows) in space!! (No spoilers pls!)
 UID:OFRxOTiqy9E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FINAL FANTASY XVI】#3 You Will Never Understand The Burden..\nhttps://www.youtube.com/watch?v=swlRef5iIqI
+DURATION:PT2H
+DTSTART:20230806T230000Z
+SUMMARY:Flayon: 【FINAL FANTASY XVI】#3 You Will Never Understand The Burden..
+UID:swlRef5iIqI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DAVE THE DIVER】LET'S GO DIVING HAKKITOS!!!\nhttps://www.youtube.com/watch?v=DsEdfKG54tE
+DURATION:PT2H
+DTSTART:20230807T000000Z
+SUMMARY:Hakka: 【DAVE THE DIVER】LET'S GO DIVING HAKKITOS!!!
+UID:DsEdfKG54tE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【League of Legends】We're gonna have fun (1)\nhttps://www.youtube.com/watch?v=EwmhPf4IhCY
+DURATION:PT2H
+DTSTART:20230806T230000Z
+SUMMARY:Syrios: 【League of Legends】We're gonna have fun (1)
+UID:EwmhPf4IhCY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ANIME ALIENS AND DINOSAUR EGGS | National TEMPUS Radio Ep. 2\nhttps://www.youtube.com/watch?v=Z6g-cUtkHE4
