@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【The Block Game】#4 We Really In The Minecraft\nhttps://www.youtube.com/watch?v=0RGpvkjFSd0
-DURATION:PT2H
-DTSTART:20230808T230000Z
-SUMMARY:Flayon: 【The Block Game】#4 We Really In The Minecraft
-UID:0RGpvkjFSd0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[Crusaders of Might and Magic] (we get lost somewhere in the forest and chat about childhood snacks)\nhttps://www.youtube.com/watch?v=y9qkwKDX5_Y
 DURATION:PT2H
 DTSTART:20230807T220548Z
@@ -46,10 +39,24 @@ SUMMARY:Altare: 🐪The Camel Expedition🐪【32】
 UID:PYBUlb5YUjg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【DAVE THE DIVER】MORE DIVING BABY!!!\nhttps://www.youtube.com/watch?v=HGzLPYdpfHA
+DURATION:PT2H
+DTSTART:20230809T000000Z
+SUMMARY:Hakka: 【DAVE THE DIVER】MORE DIVING BABY!!!
+UID:HGzLPYdpfHA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Outer Wilds】3 - Come and give me a quantum hug (No spoilers pls!)\nhttps://www.youtube.com/watch?v=qU-M0ZgitX0
 DURATION:PT2H
 DTSTART:20230809T010000Z
 SUMMARY:Shinri: 【Outer Wilds】3 - Come and give me a quantum hug (No spoilers pls!)
 UID:qU-M0ZgitX0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【The Block Game】#4 We Really In The Minecraft\nhttps://www.youtube.com/watch?v=0RGpvkjFSd0
+DURATION:PT2H
+DTSTART:20230808T230000Z
+SUMMARY:Flayon: 【The Block Game】#4 We Really In The Minecraft
+UID:0RGpvkjFSd0
 END:VEVENT
 END:VCALENDAR
