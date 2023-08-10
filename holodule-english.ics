@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【EARTH DEFENSE FORCE 5 COLLAB】here to protect humanity 🐾 #holoAdvent\nhttps://www.youtube.com/watch?v=DC8VQsff7sA
+DURATION:PT2H
+DTSTART:20230812T010000Z
+SUMMARY:FUWAMOCO: 【EARTH DEFENSE FORCE 5 COLLAB】here to protect humanity 🐾 #holoAdvent
+UID:DC8VQsff7sA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Pokémon Unite】The Holo Unite Tournament!! Let's go EN!! #ポケモンユナイト世界大会\nhttps://www.youtube.com/watch?v=Ux2onppKUAE
 DURATION:PT2H
 DTSTART:20230810T030000Z
@@ -37,6 +44,13 @@ DURATION:PT2H
 DTSTART:20230810T020000Z
 SUMMARY:Shiori: ASMR | Audience Creations: Fanfic Readings from Novelites!
 UID:PxyS3lRyktA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HOLOCURE UPDATE】Early Access to More Holo Goodness!!\nhttps://www.youtube.com/watch?v=PlINnRziMkU
+DURATION:PT2H
+DTSTART:20230811T020000Z
+SUMMARY:Calli: 【HOLOCURE UPDATE】Early Access to More Holo Goodness!!
+UID:PlINnRziMkU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Pokémon Unite】 Representing EN in the EN x ID x JP Unite Tournament! #ポケモンユナイト世界大会\nhttps://www.youtube.com/watch?v=zz389lBXsVg
@@ -74,6 +88,13 @@ SUMMARY:Amelia: 【Pokémon Unite】WABBAAAAAA #ポケモンユナイト世界�
 UID:sxK11EbDUZ4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Escape Simulator | Test Our Genius! How High is our IQ? with  @KosekiBijou\nhttps://www.youtube.com/watch?v=O4wmOoUIeuc
+DURATION:PT2H
+DTSTART:20230811T020000Z
+SUMMARY:Shiori: Escape Simulator | Test Our Genius! How High is our IQ? with  @KosekiBijou
+UID:O4wmOoUIeuc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#holoENConnect】Let's rewind the Memories! The Final mini-party!【A-chan】\nhttps://www.youtube.com/watch?v=IjtiaXZ-1dg
 DURATION:PT2H
 DTSTART:20230810T063000Z
@@ -95,25 +116,18 @@ SUMMARY:Bijou: 【Escape Simulator】Big Braining w/ @ShioriNovella
 UID:a61E0w5aS7E
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【FUWAMOCO MORNING】episode 5 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=v5U0pUY24xs
+DURATION:PT2H
+DTSTART:20230811T150000Z
+SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 5 🐾 #FWMCMORNING
+UID:v5U0pUY24xs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【TYPING OF THE DEAD: OVERKILL】improve the doggy wpm 🐾\nhttps://www.youtube.com/watch?v=b6Q6oTccgPU
 DURATION:PT2H
 DTSTART:20230810T010000Z
 SUMMARY:FUWAMOCO: 【TYPING OF THE DEAD: OVERKILL】improve the doggy wpm 🐾
 UID:b6Q6oTccgPU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HOLOCURE UPDATE】Early Access to More Holo Goodness!!\nhttps://www.youtube.com/watch?v=PlINnRziMkU
-DURATION:PT2H
-DTSTART:20230811T020000Z
-SUMMARY:Calli: 【HOLOCURE UPDATE】Early Access to More Holo Goodness!!
-UID:PlINnRziMkU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Holocure】 FINALLY\nhttps://www.youtube.com/watch?v=09waoXq6MvM
-DURATION:PT2H
-DTSTART:20230810T210000Z
-SUMMARY:Ina: 【Holocure】 FINALLY
-UID:09waoXq6MvM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PHOGS】revenge of the top hot dog 🐾✨\nhttps://www.youtube.com/watch?v=xq_tWg5c-iM
@@ -123,10 +137,10 @@ SUMMARY:FUWAMOCO: 【PHOGS】revenge of the top hot dog 🐾✨
 UID:xq_tWg5c-iM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Escape Simulator | Test Our Genius! How High is our IQ? with  @KosekiBijou\nhttps://www.youtube.com/watch?v=O4wmOoUIeuc
+DESCRIPTION:【Holocure】 FINALLY\nhttps://www.youtube.com/watch?v=09waoXq6MvM
 DURATION:PT2H
-DTSTART:20230811T020000Z
-SUMMARY:Shiori: Escape Simulator | Test Our Genius! How High is our IQ? with  @KosekiBijou
-UID:O4wmOoUIeuc
+DTSTART:20230810T210000Z
+SUMMARY:Ina: 【Holocure】 FINALLY
+UID:09waoXq6MvM
 END:VEVENT
 END:VCALENDAR
