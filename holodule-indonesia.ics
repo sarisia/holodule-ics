@@ -4,39 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【New YABE】YARE YARE... Yet Another Revival Everyone IT'S BEEN A WHILE【Pavolia Reine/hololiveID】\nhttps://www.youtube.com/watch?v=i73mVJEmtMY
-DURATION:PT2H
-DTSTART:20230812T040000Z
-SUMMARY:Reine: 【New YABE】YARE YARE... Yet Another Revival Everyone IT'S BEEN A WHILE【Pavolia Reine/hololiveID】
-UID:i73mVJEmtMY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HoloCure SPOILER】#31 Dev said i better rest but THIS IS EARLY ACCESS🎮【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=G1P0_PHyGNE
-DURATION:PT2H
-DTSTART:20230810T204500Z
-SUMMARY:Kaela: 【HoloCure SPOILER】#31 Dev said i better rest but THIS IS EARLY ACCESS🎮【Kaela Kovalskia / hololiveID】
-UID:G1P0_PHyGNE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【HoloCure】WE MALAS TOGETHER NOW【Ayunda Risu】\nhttps://www.youtube.com/watch?v=XXR5d15UqvA
 DURATION:PT2H
 DTSTART:20230812T080000Z
 SUMMARY:🐿Risu: 【HoloCure】WE MALAS TOGETHER NOW【Ayunda Risu】
 UID:XXR5d15UqvA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HoloCure】Yopi?! YOPI!!!【 iofi / hololive 】\nhttps://www.youtube.com/watch?v=Ws3Xk9w6tS4
-DURATION:PT2H
-DTSTART:20230812T060000Z
-SUMMARY:🎨Iofi: 【HoloCure】Yopi?! YOPI!!!【 iofi / hololive 】
-UID:Ws3Xk9w6tS4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#holoIDCup2023】Second practice!!!!!!! SRIKANDI GO GO\nhttps://www.youtube.com/watch?v=NwvwaBLJJj4
-DURATION:PT2H
-DTSTART:20230811T043000Z
-SUMMARY:Zeta: 【#holoIDCup2023】Second practice!!!!!!! SRIKANDI GO GO
-UID:NwvwaBLJJj4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Team Pertiwi Practice Session ~!!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=oHh-Hk_KhAQ
@@ -46,18 +18,18 @@ SUMMARY:🐿Risu: 【Minecraft】Team Pertiwi Practice Session ~!!!!【Ayunda Ri
 UID:oHh-Hk_KhAQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:#23 【Persona 5 Royal】WE ARE BACK for real AND MORE???? (SPOILER ALERT)【Pavolia Reine/hololiveID】\nhttps://www.youtube.com/watch?v=vEAWW1FpV-8
+DURATION:PT2H
+DTSTART:20230812T120000Z
+SUMMARY:Reine: #23 【Persona 5 Royal】WE ARE BACK for real AND MORE???? (SPOILER ALERT)【Pavolia Reine/hololiveID】
+UID:vEAWW1FpV-8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】#16 dedication #KaelaNB69【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=DMABvQgtXuE
 DURATION:PT2H
 DTSTART:20230812T060000Z
 SUMMARY:Kaela: 【Minecraft】#16 dedication #KaelaNB69【Kaela Kovalskia / hololiveID】
 UID:DMABvQgtXuE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【お絵描き心理テスト】読めないけど頑張ります！！【日本語ONLY】\nhttps://www.youtube.com/watch?v=Ong2gxGka4Q
-DURATION:PT2H
-DTSTART:20230812T110000Z
-SUMMARY:Ollie: 【お絵描き心理テスト】読めないけど頑張ります！！【日本語ONLY】
-UID:Ong2gxGka4Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HOLOCURE】SPOILERS!! HOLOID IS FINALLY HERE!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=DMeEX8UeM1A
@@ -72,13 +44,6 @@ DURATION:PT2H
 DTSTART:20230811T140000Z
 SUMMARY:Kaela: 【Minecraft】HOLOIDCUP2023 PERTIWI PRACTICE!! 💪【hololive】
 UID:krYEAqIvww8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HoloCure】First time playing holocure! This is early access!!!【Moona | holoID】\nhttps://www.youtube.com/watch?v=FTulo8YBQQ0
-DURATION:PT2H
-DTSTART:20230812T040000Z
-SUMMARY:🔮Moona: 【HoloCure】First time playing holocure! This is early access!!!【Moona | holoID】
-UID:FTulo8YBQQ0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HoloCure】 KOBO ADA DI DALAM GAME INI??? EARLY ACCESS SPOILERS!!! (first time playing)\nhttps://www.youtube.com/watch?v=GGYp1dSDE_o
@@ -107,5 +72,47 @@ DURATION:PT2H
 DTSTART:20230812T013016Z
 SUMMARY:Kaela: 3 MORE DAYS 🔨 can you guess it right? 🤔 #kaelalalala #GeloraholoID
 UID:KesYpDmL8UM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【New YABE】YARE YARE... Yet Another Revival Everyone IT'S BEEN A WHILE【Pavolia Reine/hololiveID】\nhttps://www.youtube.com/watch?v=i73mVJEmtMY
+DURATION:PT2H
+DTSTART:20230812T040000Z
+SUMMARY:Reine: 【New YABE】YARE YARE... Yet Another Revival Everyone IT'S BEEN A WHILE【Pavolia Reine/hololiveID】
+UID:i73mVJEmtMY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HoloCure SPOILER】#31 Dev said i better rest but THIS IS EARLY ACCESS🎮【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=G1P0_PHyGNE
+DURATION:PT2H
+DTSTART:20230810T204500Z
+SUMMARY:Kaela: 【HoloCure SPOILER】#31 Dev said i better rest but THIS IS EARLY ACCESS🎮【Kaela Kovalskia / hololiveID】
+UID:G1P0_PHyGNE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HoloCure】Yopi?! YOPI!!!【 iofi / hololive 】\nhttps://www.youtube.com/watch?v=Ws3Xk9w6tS4
+DURATION:PT2H
+DTSTART:20230812T060000Z
+SUMMARY:🎨Iofi: 【HoloCure】Yopi?! YOPI!!!【 iofi / hololive 】
+UID:Ws3Xk9w6tS4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#holoIDCup2023】Second practice!!!!!!! SRIKANDI GO GO\nhttps://www.youtube.com/watch?v=NwvwaBLJJj4
+DURATION:PT2H
+DTSTART:20230811T043000Z
+SUMMARY:Zeta: 【#holoIDCup2023】Second practice!!!!!!! SRIKANDI GO GO
+UID:NwvwaBLJJj4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【お絵描き心理テスト】読めないけど頑張ります！！【日本語ONLY】\nhttps://www.youtube.com/watch?v=Ong2gxGka4Q
+DURATION:PT2H
+DTSTART:20230812T110000Z
+SUMMARY:Ollie: 【お絵描き心理テスト】読めないけど頑張ります！！【日本語ONLY】
+UID:Ong2gxGka4Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HoloCure】First time playing holocure! This is early access!!!【Moona | holoID】\nhttps://www.youtube.com/watch?v=FTulo8YBQQ0
+DURATION:PT2H
+DTSTART:20230812T040000Z
+SUMMARY:🔮Moona: 【HoloCure】First time playing holocure! This is early access!!!【Moona | holoID】
+UID:FTulo8YBQQ0
 END:VEVENT
 END:VCALENDAR
