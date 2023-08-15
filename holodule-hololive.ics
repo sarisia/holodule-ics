@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【５周年】君の最推しにしてよ！／湊あくあ【オリジナル曲】\nhttps://www.youtube.com/watch?v=S1Ln9-ksIQY
+DURATION:PT2H
+DTSTART:20230815T120500Z
+SUMMARY:⚓湊あくあ: 【５周年】君の最推しにしてよ！／湊あくあ【オリジナル曲】
+UID:S1Ln9-ksIQY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 BIOHAZARD RE:2 】完全初見！やっぱりバイオはやばいお…怖いお…【鷹嶺ルイ/ホロライブ】#ホラゲウィーク2023\nhttps://www.youtube.com/watch?v=A0xKjpz2hfo
 DURATION:PT2H
 DTSTART:20230815T030000Z
@@ -11,11 +18,11 @@ SUMMARY:鷹嶺ルイ: 【 BIOHAZARD RE:2 】完全初見！やっぱりバイオ
 UID:A0xKjpz2hfo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#朝ミオ 】あっつう～～～💦おはみぉーん！！！！！\nhttps://www.youtube.com/watch?v=WofJg9-ggus
+DESCRIPTION:【 #こよなつ甲子園 】ホロメンでいく⚾パワプロ栄冠ナイン！3年目夏の地区大会2回戦～！ #7【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=oZKU8Xf6fCQ
 DURATION:PT2H
-DTSTART:20230813T223000Z
-SUMMARY:🌲大神ミオ: 【#朝ミオ 】あっつう～～～💦おはみぉーん！！！！！
-UID:WofJg9-ggus
+DTSTART:20230815T030000Z
+SUMMARY:博衣こより: 【 #こよなつ甲子園 】ホロメンでいく⚾パワプロ栄冠ナイン！3年目夏の地区大会2回戦～！ #7【博衣こより/ホロライブ】
+UID:oZKU8Xf6fCQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 幽霊列車 】ホラゲウィーク第弐夜／今日からが本当の地獄なのか…⁉【鷹嶺ルイ/ホロライブ】#ホラゲウィーク2023\nhttps://www.youtube.com/watch?v=wjfsI2hPJTg
@@ -32,11 +39,25 @@ SUMMARY:🐻ときのそら: 【オリジナル楽曲】Scale the walls【とき
 UID:INHasAVlzI8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【激ムズ！ピクミン１】2度とバッドエンドにしない！！！【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=xpHW66fUIUQ
+DURATION:PT2H
+DTSTART:20230817T090000Z
+SUMMARY:🍎アキロゼ: 【激ムズ！ピクミン１】2度とバッドエンドにしない！！！【ホロライブ/アキ・ローゼンタール】
+UID:xpHW66fUIUQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#⁠湊あくあ5周年LIVE】Dreamy day 【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=c9VW0E2Unl4
 DURATION:PT2H
 DTSTART:20230815T110000Z
 SUMMARY:⚓湊あくあ: 【#⁠湊あくあ5周年LIVE】Dreamy day 【湊あくあ/ホロライブ】
 UID:c9VW0E2Unl4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ANEMONE / 常闇トワ(official)　#shorts\nhttps://www.youtube.com/watch?v=WK-owrdX1gk
+DURATION:PT2H
+DTSTART:20230814T215834Z
+SUMMARY:👾常闇トワ: ANEMONE / 常闇トワ(official)　#shorts
+UID:WK-owrdX1gk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【💜雑談】話したいこと！いぱ～～～～～～～い！【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=PIEEmtuAZ84
@@ -67,256 +88,11 @@ SUMMARY:⚒AZKi: 【新曲】#SorAZ 3rd オリジナル「Scale the walls」リ�
 UID:M00oJknNXQA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【OHAPOL】寝起きですが雑談です🌄夏バテしてないよな！？【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=Mzqv-BqURzQ
-DURATION:PT2H
-DTSTART:20230814T033000Z
-SUMMARY:尾丸ポルカ: 【OHAPOL】寝起きですが雑談です🌄夏バテしてないよな！？【尾丸ポルカ/ホロライブ】
-UID:Mzqv-BqURzQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Getting Over It】壺おじクリア耐久…！？教えてミオ先生！【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=Y7bmVbJDU7M
-DURATION:PT2H
-DTSTART:20230814T100000Z
-SUMMARY:⚒AZKi: 【Getting Over It】壺おじクリア耐久…！？教えてミオ先生！【ホロライブ / AZKi】
-UID:Y7bmVbJDU7M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #ホロプロエイダ 】マーダーミステリー　エイダ　海人女王マリン・アントワーネ視点【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=iSKYoeKw1KY
-DURATION:PT2H
-DTSTART:20230815T120000Z
-SUMMARY:💋癒月ちょこ: 【 #ホロプロエイダ 】マーダーミステリー　エイダ　海人女王マリン・アントワーネ視点【ホロライブ/癒月ちょこ】
-UID:iSKYoeKw1KY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:クイズに正解するとチャンネル登録してもらえる！？ぜひお願いします！ #shorts #いろはス\nhttps://www.youtube.com/watch?v=VtAHqYu8sTQ
-DURATION:PT2H
-DTSTART:20230815T100023Z
-SUMMARY:ラプラス: クイズに正解するとチャンネル登録してもらえる！？ぜひお願いします！ #shorts #いろはス
-UID:VtAHqYu8sTQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#尾丸ポルカ3周年 記念配信よてい【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=dPSL-iEjzoU
-DURATION:PT2H
-DTSTART:20230816T103000Z
-SUMMARY:尾丸ポルカ: #尾丸ポルカ3周年 記念配信よてい【尾丸ポルカ/ホロライブ】
-UID:dPSL-iEjzoU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#14【P5R】完全初見🌟ペルソナ5ザ・ロイヤル！5つ目パレスに突入するとこから‼💎✨【博衣こより/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=tVxPmRNw4GM
-DURATION:PT2H
-DTSTART:20230814T100000Z
-SUMMARY:博衣こより: #14【P5R】完全初見🌟ペルソナ5ザ・ロイヤル！5つ目パレスに突入するとこから‼💎✨【博衣こより/ホロライブ】※ネタバレあり
-UID:tVxPmRNw4GM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#最終回】龍が如く３をやるしゅばあああああああああああああああああああああああ！！！！！！YAKUZA３【ネタバレ有り】\nhttps://www.youtube.com/watch?v=-YRLfUtJpJU
-DURATION:PT2H
-DTSTART:20230815T130000Z
-SUMMARY:🚑大空スバル: 【#最終回】龍が如く３をやるしゅばあああああああああああああああああああああああ！！！！！！YAKUZA３【ネタバレ有り】
-UID:-YRLfUtJpJU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【美魔女の真実 -マリンの秘宝船-】船長…！？船長なんだよね？【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=azZh35Kt4RA
-DURATION:PT2H
-DTSTART:20230814T120000Z
-SUMMARY:👾常闇トワ: 【美魔女の真実 -マリンの秘宝船-】船長…！？船長なんだよね？【常闇トワ/ホロライブ】
-UID:azZh35Kt4RA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 つぐのひ 】ホラゲウィーク第壱夜／8月のホラゲウィークは最推しから始まる。【鷹嶺ルイ/ホロライブ】#ホラゲウィーク2023\nhttps://www.youtube.com/watch?v=7TYz0kKzH3M
-DURATION:PT2H
-DTSTART:20230814T140000Z
-SUMMARY:鷹嶺ルイ: 【 つぐのひ 】ホラゲウィーク第壱夜／8月のホラゲウィークは最推しから始まる。【鷹嶺ルイ/ホロライブ】#ホラゲウィーク2023
-UID:7TYz0kKzH3M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【告知】ホロライブ１期生からのたのちぃおしらせ告知【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=toTJ5dhLBsQ
-DURATION:PT2H
-DTSTART:20230815T093000Z
-SUMMARY:🌽白上フブキ: 【告知】ホロライブ１期生からのたのちぃおしらせ告知【ホロライブ/白上フブキ】
-UID:toTJ5dhLBsQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】#理力９９ の二人は1時間でアプデ1.20をいくつ探せるのか【不知火フレア/天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=HL4vPgYD20A
-DURATION:PT2H
-DTSTART:20230815T100000Z
-SUMMARY:🔥不知火フレア: 【Minecraft】#理力９９ の二人は1時間でアプデ1.20をいくつ探せるのか【不知火フレア/天音かなた/ホロライブ】
-UID:HL4vPgYD20A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:なんで機嫌いいかわかる？ #ホロライブ #ホロぐら #不知火フレア #星街すいせい #さくらみこ\nhttps://www.youtube.com/watch?v=5irdbvReGq4
-DURATION:PT2H
-DTSTART:20230814T100005Z
-SUMMARY:ホロライブ: なんで機嫌いいかわかる？ #ホロライブ #ホロぐら #不知火フレア #星街すいせい #さくらみこ
-UID:5irdbvReGq4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【世界のアソビ大全51】SorAZの対決だ！！【ホロライブ/ときのそら/​ AZKi】\nhttps://www.youtube.com/watch?v=UOepe6jQtN0
-DURATION:PT2H
-DTSTART:20230815T130000Z
-SUMMARY:🐻ときのそら: 【世界のアソビ大全51】SorAZの対決だ！！【ホロライブ/ときのそら/​ AZKi】
-UID:UOepe6jQtN0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【valorant】アレがもらえてうれしいので少し練習✨【ロボ子さん /ホロライブ】\nhttps://www.youtube.com/watch?v=vQ4rmLKqNsk
-DURATION:PT2H
-DTSTART:20230815T080000Z
-SUMMARY:🤖ロボ子さん: 【valorant】アレがもらえてうれしいので少し練習✨【ロボ子さん /ホロライブ】
-UID:vQ4rmLKqNsk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【mocopi】オリ曲歌う朝の配信【ときのそら/Tokinosora/ホロライブ 】\nhttps://www.youtube.com/watch?v=mdwnjFl_Gvg
-DURATION:PT2H
-DTSTART:20230815T003000Z
-SUMMARY:🐻ときのそら: 【mocopi】オリ曲歌う朝の配信【ときのそら/Tokinosora/ホロライブ 】
-UID:mdwnjFl_Gvg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロプロエイダ】マーダーミステリー『エイダ』　【妖精王女リリー・フローラ視点/白上フブキ】\nhttps://www.youtube.com/watch?v=Zu9deccDcEM
-DURATION:PT2H
-DTSTART:20230815T120000Z
-SUMMARY:🌽白上フブキ: 【#ホロプロエイダ】マーダーミステリー『エイダ』　【妖精王女リリー・フローラ視点/白上フブキ】
-UID:Zu9deccDcEM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:用心棒の雇い方にはご注意を！！！ #SSholoX #ラプラス・ダークネス #鷹嶺ルイ #博衣こより #沙花叉クロヱ #風真いろは\nhttps://www.youtube.com/watch?v=P8DROhKU24k
-DURATION:PT2H
-DTSTART:20230815T100016Z
-SUMMARY:ホロライブ: 用心棒の雇い方にはご注意を！！！ #SSholoX #ラプラス・ダークネス #鷹嶺ルイ #博衣こより #沙花叉クロヱ #風真いろは
-UID:P8DROhKU24k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ダイヤとか色々掘るぞお！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=eMkzML9Gk5w
-DURATION:PT2H
-DTSTART:20230815T130000Z
-SUMMARY:🐏角巻わため: 【Minecraft】ダイヤとか色々掘るぞお！！！【角巻わため/ホロライブ４期生】
-UID:eMkzML9Gk5w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ぴえヨンブートダンス踊ってみた🔥最後に素顔公開⁉ #Shorts 【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=Pwz1pTuUwlc
-DURATION:PT2H
-DTSTART:20230815T090013Z
-SUMMARY:博衣こより: ぴえヨンブートダンス踊ってみた🔥最後に素顔公開⁉ #Shorts 【博衣こより/ホロライブ】
-UID:Pwz1pTuUwlc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 BIOHAZARD RE:2 】完全初見！お盆はバイオでやばいお【鷹嶺ルイ/ホロライブ】#ホラゲウィーク2023\nhttps://www.youtube.com/watch?v=sy2CiEN3sx0
-DURATION:PT2H
-DTSTART:20230814T030000Z
-SUMMARY:鷹嶺ルイ: 【 BIOHAZARD RE:2 】完全初見！お盆はバイオでやばいお【鷹嶺ルイ/ホロライブ】#ホラゲウィーク2023
-UID:sy2CiEN3sx0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【つぐのひ】美魔女の真実…マソソ…お前出航するのか？🚢【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=FNFZ6TL4PeU
-DURATION:PT2H
-DTSTART:20230814T130000Z
-SUMMARY:🔥不知火フレア: 【つぐのひ】美魔女の真実…マソソ…お前出航するのか？🚢【不知火フレア/ホロライブ】
-UID:FNFZ6TL4PeU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ピクミン１/完全初見！】ピクミンなにそれ美味しいの？原初のピクミンから始まる物語Part2【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=LS2tIztzeLw
-DURATION:PT2H
-DTSTART:20230814T090000Z
-SUMMARY:🍎アキロゼ: 【ピクミン１/完全初見！】ピクミンなにそれ美味しいの？原初のピクミンから始まる物語Part2【ホロライブ/アキ・ローゼンタール】
-UID:LS2tIztzeLw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #こよなつ甲子園 】ホロメンでいく⚾パワプロ栄冠ナイン！遂に3年目夏の甲子園‼‼ #8【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=TOsiwG1B0S4
-DURATION:PT2H
-DTSTART:20230816T030000Z
-SUMMARY:博衣こより: 【 #こよなつ甲子園 】ホロメンでいく⚾パワプロ栄冠ナイン！遂に3年目夏の甲子園‼‼ #8【博衣こより/ホロライブ】
-UID:TOsiwG1B0S4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #こよなつ甲子園 】ホロメンでいく⚾パワプロ栄冠ナイン！3年目新入生ガチャから！ #6【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=3u7xTcCrNT4
-DURATION:PT2H
-DTSTART:20230814T030000Z
-SUMMARY:博衣こより: 【 #こよなつ甲子園 】ホロメンでいく⚾パワプロ栄冠ナイン！3年目新入生ガチャから！ #6【博衣こより/ホロライブ】
-UID:3u7xTcCrNT4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【7 Days to Die】ゾンビの世界──3期生で生き延びる!!!【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=grDEq62K7Gw
-DURATION:PT2H
-DTSTART:20230815T120000Z
-SUMMARY:🏴☠宝鐘マリン: 【7 Days to Die】ゾンビの世界──3期生で生き延びる!!!【ホロライブ/宝鐘マリン】
-UID:grDEq62K7Gw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VALORANT】初心者悪魔のどきどきVALORANT【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=YiYQDU4rOt8
-DURATION:PT2H
-DTSTART:20230815T053000Z
-SUMMARY:💋癒月ちょこ: 【VALORANT】初心者悪魔のどきどきVALORANT【ホロライブ/癒月ちょこ】
-UID:YiYQDU4rOt8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 告知あり 】第二回‼べすとおぶ手描き切り抜きだにぇ～～～～‼【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=eYDaf4odBnY
-DURATION:PT2H
-DTSTART:20230814T110000Z
-SUMMARY:🌸さくらみこ: 【 告知あり 】第二回‼べすとおぶ手描き切り抜きだにぇ～～～～‼【ホロライブ/さくらみこ】
-UID:eYDaf4odBnY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【７Days to Die】3期生でゾンビ世界を生き残るんだい！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=1kqy01UDmnk
-DURATION:PT2H
-DTSTART:20230815T120000Z
-SUMMARY:👯兎田ぺこら: 【７Days to Die】3期生でゾンビ世界を生き残るんだい！！！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:1kqy01UDmnk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【５周年】君の最推しにしてよ！／湊あくあ【オリジナル曲】\nhttps://www.youtube.com/watch?v=S1Ln9-ksIQY
-DURATION:PT2H
-DTSTART:20230815T120500Z
-SUMMARY:⚓湊あくあ: 【５周年】君の最推しにしてよ！／湊あくあ【オリジナル曲】
-UID:S1Ln9-ksIQY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FGO】水着キャストリアガチャ引くぞおおおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=VBjm3VYXtnQ
-DURATION:PT2H
-DTSTART:20230814T120000Z
-SUMMARY:👯兎田ぺこら: 【FGO】水着キャストリアガチャ引くぞおおおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:VBjm3VYXtnQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #こよなつ甲子園 】ホロメンでいく⚾パワプロ栄冠ナイン！3年目夏の地区大会2回戦～！ #7【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=oZKU8Xf6fCQ
-DURATION:PT2H
-DTSTART:20230815T030000Z
-SUMMARY:博衣こより: 【 #こよなつ甲子園 】ホロメンでいく⚾パワプロ栄冠ナイン！3年目夏の地区大会2回戦～！ #7【博衣こより/ホロライブ】
-UID:oZKU8Xf6fCQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【mocopi】柔軟して健康な朝にする【ときのそら/Tokinosora/ホロライブ 】\nhttps://www.youtube.com/watch?v=zGnLvvQHfWo
-DURATION:PT2H
-DTSTART:20230814T003000Z
-SUMMARY:🐻ときのそら: 【mocopi】柔軟して健康な朝にする【ときのそら/Tokinosora/ホロライブ 】
-UID:zGnLvvQHfWo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ANEMONE / 常闇トワ(official)　#shorts\nhttps://www.youtube.com/watch?v=WK-owrdX1gk
-DURATION:PT2H
-DTSTART:20230814T215834Z
-SUMMARY:👾常闇トワ: ANEMONE / 常闇トワ(official)　#shorts
-UID:WK-owrdX1gk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【影廊】完全初見👻こわいのむり、でも頑張る。DAY1【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=nqxptM_OgYM
-DURATION:PT2H
-DTSTART:20230814T120000Z
-SUMMARY:風真いろは: 【影廊】完全初見👻こわいのむり、でも頑張る。DAY1【風真いろは/ホロライブ】
-UID:nqxptM_OgYM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 バイオハザードRE:2 】ハンク編＆豆腐サバイバー？！に挑戦なのら！ BIOHAZARD RE:2【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=vRfwiMx4ZvM
 DURATION:PT2H
 DTSTART:20230815T150000Z
 SUMMARY:🍬姫森ルーナ: 【 バイオハザードRE:2 】ハンク編＆豆腐サバイバー？！に挑戦なのら！ BIOHAZARD RE:2【姫森ルーナ/ホロライブ】
 UID:vRfwiMx4ZvM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 美魔女の真実 -マリンの秘宝船- 】つ　ぐ　の　ひ　🏴　マリン船長に会いにいくのら【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=cuRTE6P0LfU
-DURATION:PT2H
-DTSTART:20230814T110000Z
-SUMMARY:🍬姫森ルーナ: 【 美魔女の真実 -マリンの秘宝船- 】つ　ぐ　の　ひ　🏴　マリン船長に会いにいくのら【姫森ルーナ/ホロライブ】
-UID:cuRTE6P0LfU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:寝起きヤシの木 歌ったにぇ🌴#shorts\nhttps://www.youtube.com/watch?v=r82QkiTC8fg
@@ -333,11 +109,11 @@ SUMMARY:博衣こより: 【#朝こよ】お盆休みも早起き！火曜日の
 UID:KiXe0YlOfw8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:3周年めでたい！いろいろ衣装のプチお披露目会 ＃獅白ぼたん3周年【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=gIeLGoI91v8
+DESCRIPTION:【 #ホロプロエイダ 】マーダーミステリー　エイダ　海人女王マリン・アントワーネ視点【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=iSKYoeKw1KY
 DURATION:PT2H
-DTSTART:20230814T110000Z
-SUMMARY:獅白ぼたん: 3周年めでたい！いろいろ衣装のプチお披露目会 ＃獅白ぼたん3周年【獅白ぼたん/ホロライブ】
-UID:gIeLGoI91v8
+DTSTART:20230815T120000Z
+SUMMARY:💋癒月ちょこ: 【 #ホロプロエイダ 】マーダーミステリー　エイダ　海人女王マリン・アントワーネ視点【ホロライブ/癒月ちょこ】
+UID:iSKYoeKw1KY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【つぐのひ】マリン先輩何があったんですか！！！美魔女の真実マリンの秘宝船【ホロライブ/沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=D5kYN0ucG0k
@@ -347,32 +123,39 @@ SUMMARY:沙花叉クロヱ: 【つぐのひ】マリン先輩何があったん�
 UID:D5kYN0ucG0k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:寝起きヤシの木 / さくらみこ(Cover)\nhttps://www.youtube.com/watch?v=zWFoVb2xGaM
+DESCRIPTION:【7 Days to Die】ゾンビの世界──3期生で生き延びる!!!【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=grDEq62K7Gw
 DURATION:PT2H
-DTSTART:20230814T120000Z
-SUMMARY:🌸さくらみこ: 寝起きヤシの木 / さくらみこ(Cover)
-UID:zWFoVb2xGaM
+DTSTART:20230815T120000Z
+SUMMARY:🏴☠宝鐘マリン: 【7 Days to Die】ゾンビの世界──3期生で生き延びる!!!【ホロライブ/宝鐘マリン】
+UID:grDEq62K7Gw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Only Up!】例のアレで無事落下したシャチが０から登るぞおおおおおおおお【ホロライブ/沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=caUy9pftWmM
+DESCRIPTION:クイズに正解するとチャンネル登録してもらえる！？ぜひお願いします！ #shorts #いろはス\nhttps://www.youtube.com/watch?v=VtAHqYu8sTQ
 DURATION:PT2H
-DTSTART:20230814T140000Z
-SUMMARY:沙花叉クロヱ: 【Only Up!】例のアレで無事落下したシャチが０から登るぞおおおおおおおお【ホロライブ/沙花叉クロヱ】
-UID:caUy9pftWmM
+DTSTART:20230815T100023Z
+SUMMARY:ラプラス: クイズに正解するとチャンネル登録してもらえる！？ぜひお願いします！ #shorts #いろはス
+UID:VtAHqYu8sTQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:台風の気配ゼロやんけ！！！【 ピクミン４ 】#3\nhttps://www.youtube.com/watch?v=QZQGmUhpQn4
+DESCRIPTION:#尾丸ポルカ3周年 記念配信よてい【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=dPSL-iEjzoU
 DURATION:PT2H
-DTSTART:20230814T080000Z
-SUMMARY:桃鈴ねね: 台風の気配ゼロやんけ！！！【 ピクミン４ 】#3
-UID:QZQGmUhpQn4
+DTSTART:20230816T103000Z
+SUMMARY:尾丸ポルカ: #尾丸ポルカ3周年 記念配信よてい【尾丸ポルカ/ホロライブ】
+UID:dPSL-iEjzoU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:星街すいせい - Shout in Crisis ダイジェスト映像\nhttps://www.youtube.com/watch?v=MgJK8pSytTA
+DESCRIPTION:【サマー3D】身体で支払え！holoX流オークション 【#hololivesummer2023】\nhttps://www.youtube.com/watch?v=V_64ifaBopk
 DURATION:PT2H
-DTSTART:20230814T090000Z
-SUMMARY:☄星街すいせい: 星街すいせい - Shout in Crisis ダイジェスト映像
-UID:MgJK8pSytTA
+DTSTART:20230817T090000Z
+SUMMARY:ホロライブ: 【サマー3D】身体で支払え！holoX流オークション 【#hololivesummer2023】
+UID:V_64ifaBopk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#最終回】龍が如く３をやるしゅばあああああああああああああああああああああああ！！！！！！YAKUZA３【ネタバレ有り】\nhttps://www.youtube.com/watch?v=-YRLfUtJpJU
+DURATION:PT2H
+DTSTART:20230815T130000Z
+SUMMARY:🚑大空スバル: 【#最終回】龍が如く３をやるしゅばあああああああああああああああああああああああ！！！！！！YAKUZA３【ネタバレ有り】
+UID:-YRLfUtJpJU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 ゲリラ歌枠】いえ～～～～～～～い！歌う！【ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=Axkb_6qWCUQ
@@ -396,11 +179,25 @@ SUMMARY:🍬姫森ルーナ: 【 大人の歌枠 】アダルトに 小室ファ
 UID:ZZ45VM6AG_E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Let's Go!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\nhttps://www.youtube.com/watch?v=64Nq3AlIrHs
+DESCRIPTION:【告知】ホロライブ１期生からのたのちぃおしらせ告知【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=toTJ5dhLBsQ
 DURATION:PT2H
-DTSTART:20230814T091500Z
-SUMMARY:🏴☠宝鐘マリン: Let's Go!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-UID:64Nq3AlIrHs
+DTSTART:20230815T093000Z
+SUMMARY:🌽白上フブキ: 【告知】ホロライブ１期生からのたのちぃおしらせ告知【ホロライブ/白上フブキ】
+UID:toTJ5dhLBsQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】#理力９９ の二人は1時間でアプデ1.20をいくつ探せるのか【不知火フレア/天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=HL4vPgYD20A
+DURATION:PT2H
+DTSTART:20230815T100000Z
+SUMMARY:🔥不知火フレア: 【Minecraft】#理力９９ の二人は1時間でアプデ1.20をいくつ探せるのか【不知火フレア/天音かなた/ホロライブ】
+UID:HL4vPgYD20A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【世界のアソビ大全51】SorAZの対決だ！！【ホロライブ/ときのそら/​ AZKi】\nhttps://www.youtube.com/watch?v=UOepe6jQtN0
+DURATION:PT2H
+DTSTART:20230815T130000Z
+SUMMARY:🐻ときのそら: 【世界のアソビ大全51】SorAZの対決だ！！【ホロライブ/ときのそら/​ AZKi】
+UID:UOepe6jQtN0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【カウントダウン】3周年COUNTDOWN🎪くるぞポルカの日～～～～！！！！！【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=bMSCnMmG1FE
@@ -410,11 +207,46 @@ SUMMARY:尾丸ポルカ: 【カウントダウン】3周年COUNTDOWN🎪くる�
 UID:bMSCnMmG1FE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【valorant】アレがもらえてうれしいので少し練習✨【ロボ子さん /ホロライブ】\nhttps://www.youtube.com/watch?v=vQ4rmLKqNsk
+DURATION:PT2H
+DTSTART:20230815T080000Z
+SUMMARY:🤖ロボ子さん: 【valorant】アレがもらえてうれしいので少し練習✨【ロボ子さん /ホロライブ】
+UID:vQ4rmLKqNsk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【mocopi】オリ曲歌う朝の配信【ときのそら/Tokinosora/ホロライブ 】\nhttps://www.youtube.com/watch?v=mdwnjFl_Gvg
+DURATION:PT2H
+DTSTART:20230815T003000Z
+SUMMARY:🐻ときのそら: 【mocopi】オリ曲歌う朝の配信【ときのそら/Tokinosora/ホロライブ 】
+UID:mdwnjFl_Gvg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【NEWフェイス】いろいろお披露目しながら雑談したりするの巻【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=z_pFQu_8hP8
 DURATION:PT2H
 DTSTART:20230815T100000Z
 SUMMARY:🥐戌神ころね: 【NEWフェイス】いろいろお披露目しながら雑談したりするの巻【戌神ころね/ホロライブ】
 UID:z_pFQu_8hP8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:用心棒の雇い方にはご注意を！！！ #SSholoX #ラプラス・ダークネス #鷹嶺ルイ #博衣こより #沙花叉クロヱ #風真いろは\nhttps://www.youtube.com/watch?v=P8DROhKU24k
+DURATION:PT2H
+DTSTART:20230815T100016Z
+SUMMARY:ホロライブ: 用心棒の雇い方にはご注意を！！！ #SSholoX #ラプラス・ダークネス #鷹嶺ルイ #博衣こより #沙花叉クロヱ #風真いろは
+UID:P8DROhKU24k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロプロエイダ】マーダーミステリー『エイダ』　【妖精王女リリー・フローラ視点/白上フブキ】\nhttps://www.youtube.com/watch?v=Zu9deccDcEM
+DURATION:PT2H
+DTSTART:20230815T120000Z
+SUMMARY:🌽白上フブキ: 【#ホロプロエイダ】マーダーミステリー『エイダ』　【妖精王女リリー・フローラ視点/白上フブキ】
+UID:Zu9deccDcEM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】ダイヤとか色々掘るぞお！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=eMkzML9Gk5w
+DURATION:PT2H
+DTSTART:20230815T130000Z
+SUMMARY:🐏角巻わため: 【Minecraft】ダイヤとか色々掘るぞお！！！【角巻わため/ホロライブ４期生】
+UID:eMkzML9Gk5w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【つぐのひ】美魔女の真実...つまり...なるほどね(わかってない)【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=jyUCTGqYliQ
@@ -424,18 +256,18 @@ SUMMARY:⚔白銀ノエル: 【つぐのひ】美魔女の真実...つまり...�
 UID:jyUCTGqYliQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ぴえヨンブートダンス踊ってみた🔥最後に素顔公開⁉ #Shorts 【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=Pwz1pTuUwlc
+DURATION:PT2H
+DTSTART:20230815T090013Z
+SUMMARY:博衣こより: ぴえヨンブートダンス踊ってみた🔥最後に素顔公開⁉ #Shorts 【博衣こより/ホロライブ】
+UID:Pwz1pTuUwlc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【影廊】完全初見👻こわいのむり、でも頑張る。DAY2【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=tYA5Oti3R2I
 DURATION:PT2H
 DTSTART:20230815T120000Z
 SUMMARY:風真いろは: 【影廊】完全初見👻こわいのむり、でも頑張る。DAY2【風真いろは/ホロライブ】
 UID:tYA5Oti3R2I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:サマーでも、わためは悪くない...？！【角巻わため/ホロライブ４期生】 #ホロサマshorts #hololivesummer2023 #shorts\nhttps://www.youtube.com/watch?v=gibZ3sNCuJQ
-DURATION:PT2H
-DTSTART:20230814T030031Z
-SUMMARY:🐏角巻わため: サマーでも、わためは悪くない...？！【角巻わため/ホロライブ４期生】 #ホロサマshorts #hololivesummer2023 #shorts
-UID:gibZ3sNCuJQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【監視カメラ】ホラゲ👻絶対に変質者が出てくる監視カメラを見るお仕事します【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=fa5VfUFqurg
@@ -445,10 +277,31 @@ SUMMARY:博衣こより: 【監視カメラ】ホラゲ👻絶対に変質者が
 UID:fa5VfUFqurg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 #こよなつ甲子園 】ホロメンでいく⚾パワプロ栄冠ナイン！遂に3年目夏の甲子園‼‼ #8【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=TOsiwG1B0S4
+DURATION:PT2H
+DTSTART:20230816T030000Z
+SUMMARY:博衣こより: 【 #こよなつ甲子園 】ホロメンでいく⚾パワプロ栄冠ナイン！遂に3年目夏の甲子園‼‼ #8【博衣こより/ホロライブ】
+UID:TOsiwG1B0S4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【7 Days to Die】ガチ初見でも三期生全員で挑めば7日越えられる説【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=jcJZZUe32_k
 DURATION:PT2H
 DTSTART:20230815T120000Z
 SUMMARY:🔥不知火フレア: 【7 Days to Die】ガチ初見でも三期生全員で挑めば7日越えられる説【不知火フレア/ホロライブ】
 UID:jcJZZUe32_k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VALORANT】初心者悪魔のどきどきVALORANT【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=YiYQDU4rOt8
+DURATION:PT2H
+DTSTART:20230815T053000Z
+SUMMARY:💋癒月ちょこ: 【VALORANT】初心者悪魔のどきどきVALORANT【ホロライブ/癒月ちょこ】
+UID:YiYQDU4rOt8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【７Days to Die】3期生でゾンビ世界を生き残るんだい！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=1kqy01UDmnk
+DURATION:PT2H
+DTSTART:20230815T120000Z
+SUMMARY:👯兎田ぺこら: 【７Days to Die】3期生でゾンビ世界を生き残るんだい！！！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:1kqy01UDmnk
 END:VEVENT
 END:VCALENDAR
