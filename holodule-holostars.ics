@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Vtuberあるある】Vtuberの朝の現実3選教えますｗｗｗ #ホロスターズ #vtuber #shorts\nhttps://www.youtube.com/watch?v=vDO43ZwLlrw
-DURATION:PT2H
-DTSTART:20230815T090240Z
-SUMMARY:緋崎ガンマ: 【Vtuberあるある】Vtuberの朝の現実3選教えますｗｗｗ #ホロスターズ #vtuber #shorts
-UID:vDO43ZwLlrw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ボイス販売記念】いい汗流そう！オフコラボで筋肉オールナイトラジオ【荒咬オウガ/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=383taMyKODQ
 DURATION:PT2H
 DTSTART:20230817T100000Z
 SUMMARY:🍕アルランディス: 【ボイス販売記念】いい汗流そう！オフコラボで筋肉オールナイトラジオ【荒咬オウガ/アルランディス/ホロスターズ】
 UID:383taMyKODQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ホロスターズ「一緒に筋トレ！」ボイス 販売開始！\nhttps://www.youtube.com/watch?v=l42iWXUvLLY
-DURATION:PT2H
-DTSTART:20230815T090036Z
-SUMMARY:ホロスターズ: ホロスターズ「一緒に筋トレ！」ボイス 販売開始！
-UID:l42iWXUvLLY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#4週連続告知】4人でボドゲオフ!! 負けたらヤバイ!!【花咲みやび/アルランディス/律可/影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=6C-odgoPW5k
@@ -32,18 +18,32 @@ SUMMARY:🌺花咲みやび: 【#4週連続告知】4人でボドゲオフ!! 負
 UID:6C-odgoPW5k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 DBD 】「灼熱のバーベキュー」イベントすすめる！！【#vtuber / #羽継烏有 / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=g2wDT7eMY-4
+DESCRIPTION:【マリカ】レート24025~ 8月の目標は25000!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=Uvqgb1kWwr8
 DURATION:PT2H
-DTSTART:20230814T213000Z
-SUMMARY:羽継烏有: 【 DBD 】「灼熱のバーベキュー」イベントすすめる！！【#vtuber / #羽継烏有 / #ホロスターズ 】
-UID:g2wDT7eMY-4
+DTSTART:20230816T060000Z
+SUMMARY:🦔💨岸堂天真: 【マリカ】レート24025~ 8月の目標は25000!!【岸堂天真/ホロスターズ】
+UID:Uvqgb1kWwr8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マダミス】「エイダ」人間の王子スタンローデン視点【岸堂天真/ホロスターズ】 #ホロプロエイダ\nhttps://www.youtube.com/watch?v=4n7DU4RbjGg
+DESCRIPTION:【メンバー限定】ちょっと公開できるものがある雑談【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=0LfcSIY5Lhs
 DURATION:PT2H
-DTSTART:20230815T120000Z
-SUMMARY:🦔💨岸堂天真: 【マダミス】「エイダ」人間の王子スタンローデン視点【岸堂天真/ホロスターズ】 #ホロプロエイダ
-UID:4n7DU4RbjGg
+DTSTART:20230816T150000Z
+SUMMARY:🍕アルランディス: 【メンバー限定】ちょっと公開できるものがある雑談【アルランディス/ホロスターズ】
+UID:0LfcSIY5Lhs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:これがリアルの反応ってやつか… #shorts #Vtuber #ホロスターズ #天神子兎音\nhttps://www.youtube.com/watch?v=YfUI02rGIT4
+DURATION:PT2H
+DTSTART:20230816T030025Z
+SUMMARY:🍕アルランディス: これがリアルの反応ってやつか… #shorts #Vtuber #ホロスターズ #天神子兎音
+UID:YfUI02rGIT4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【栄冠ナイン】3年で甲子園優勝を飾る男【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=TQX0bHg1PKA
+DURATION:PT2H
+DTSTART:20230817T040000Z
+SUMMARY:🍷夕刻ロベル: 【栄冠ナイン】3年で甲子園優勝を飾る男【夕刻ロベル/ホロスターズ】
+UID:TQX0bHg1PKA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【栄冠ナイン】3年で甲子園優勝を目指す男【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=QJuktTJX5J4
@@ -67,88 +67,11 @@ SUMMARY:荒咬オウガ: 【STREET FIGHTER6】なんかつよいラシード8/16
 UID:Gz3kjrGIodk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Holocure】現状最難関ステージ！HARD3面をクリアしたい！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=b8G68S8pWqA
-DURATION:PT2H
-DTSTART:20230815T130000Z
-SUMMARY:🍕アルランディス: 【Holocure】現状最難関ステージ！HARD3面をクリアしたい！【アルランディス/ホロスターズ】
-UID:b8G68S8pWqA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【イラスト】ぶいすぽっ！の花芽すみれさん描かさせていただく！！【#緋崎ガンマ / #ホロスターズ / #vtuber #イラスト 】\nhttps://www.youtube.com/watch?v=OnVjFAs-oK4
 DURATION:PT2H
 DTSTART:20230816T120000Z
 SUMMARY:緋崎ガンマ: 【イラスト】ぶいすぽっ！の花芽すみれさん描かさせていただく！！【#緋崎ガンマ / #ホロスターズ / #vtuber #イラスト 】
 UID:OnVjFAs-oK4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【OW2】新シーズンが始まったと聞いて!!久しぶりに遊びます。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=Yzj4pAPTc9M
-DURATION:PT2H
-DTSTART:20230815T080000Z
-SUMMARY:🌺花咲みやび: 【OW2】新シーズンが始まったと聞いて!!久しぶりに遊びます。【花咲みやび/ホロスターズ】
-UID:Yzj4pAPTc9M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【センチメンタルデスループ】親友がやばいらしいぞ！！【夕刻ロベル/ホロスターズ】※ネタバレあり\nhttps://www.youtube.com/watch?v=03NgrRq2i78
-DURATION:PT2H
-DTSTART:20230815T080000Z
-SUMMARY:🍷夕刻ロベル: 【センチメンタルデスループ】親友がやばいらしいぞ！！【夕刻ロベル/ホロスターズ】※ネタバレあり
-UID:03NgrRq2i78
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリカ】レート24025~ 8月の目標は25000!!【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=Uvqgb1kWwr8
-DURATION:PT2H
-DTSTART:20230816T060000Z
-SUMMARY:🦔💨岸堂天真: 【マリカ】レート24025~ 8月の目標は25000!!【岸堂天真/ホロスターズ】
-UID:Uvqgb1kWwr8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【メンバー限定】ちょっと公開できるものがある雑談【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=0LfcSIY5Lhs
-DURATION:PT2H
-DTSTART:20230816T150000Z
-SUMMARY:🍕アルランディス: 【メンバー限定】ちょっと公開できるものがある雑談【アルランディス/ホロスターズ】
-UID:0LfcSIY5Lhs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【栄冠ナイン】3年で甲子園優勝を飾る男【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=TQX0bHg1PKA
-DURATION:PT2H
-DTSTART:20230817T040000Z
-SUMMARY:🍷夕刻ロベル: 【栄冠ナイン】3年で甲子園優勝を飾る男【夕刻ロベル/ホロスターズ】
-UID:TQX0bHg1PKA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:これがリアルの反応ってやつか… #shorts #Vtuber #ホロスターズ #天神子兎音\nhttps://www.youtube.com/watch?v=YfUI02rGIT4
-DURATION:PT2H
-DTSTART:20230816T030025Z
-SUMMARY:🍕アルランディス: これがリアルの反応ってやつか… #shorts #Vtuber #ホロスターズ #天神子兎音
-UID:YfUI02rGIT4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】新シーズン！！1億年ぶりの昼活雑談ランク【#緋崎ガンマ / #ホロスターズ / #vtuber 】\nhttps://www.youtube.com/watch?v=krVkocprBWY
-DURATION:PT2H
-DTSTART:20230815T043000Z
-SUMMARY:緋崎ガンマ: 【APEX】新シーズン！！1億年ぶりの昼活雑談ランク【#緋崎ガンマ / #ホロスターズ / #vtuber 】
-UID:krVkocprBWY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #ホロプロエイダ 】マーダーミステリー　エイダ【ヴァル・ドレッド役/影山シエン視点】\nhttps://www.youtube.com/watch?v=9H0F06T--Ms
-DURATION:PT2H
-DTSTART:20230815T120000Z
-SUMMARY:影山シエン: 【 #ホロプロエイダ 】マーダーミステリー　エイダ【ヴァル・ドレッド役/影山シエン視点】
-UID:9H0F06T--Ms
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:炸裂!!花咲みやび節 #shorts  #vtuber #ホロスターズ\nhttps://www.youtube.com/watch?v=uuPkz5YoFJA
-DURATION:PT2H
-DTSTART:20230815T030033Z
-SUMMARY:🍕アルランディス: 炸裂!!花咲みやび節 #shorts  #vtuber #ホロスターズ
-UID:uuPkz5YoFJA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #ホロプロエイダ 】マーダーミステリー　エイダ【ドラゴ・ヴァルスローダ役/荒咬オウガ視点】\nhttps://www.youtube.com/watch?v=t46qdRxYG0Q
-DURATION:PT2H
-DTSTART:20230815T120000Z
-SUMMARY:荒咬オウガ: 【 #ホロプロエイダ 】マーダーミステリー　エイダ【ドラゴ・ヴァルスローダ役/荒咬オウガ視点】
-UID:t46qdRxYG0Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:髪　色　調　査🔍【夜十神封魔/ホロスターズ】\nhttps://www.youtube.com/watch?v=A7Qx-9mfsW0

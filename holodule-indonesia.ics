@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【AREA15】Good Afternoon! AREA15 Here!【holoID】\nhttps://www.youtube.com/watch?v=G2Eeyl_PpKY
-DURATION:PT2H
-DTSTART:20230815T060000Z
-SUMMARY:🔮Moona: 【AREA15】Good Afternoon! AREA15 Here!【holoID】
-UID:G2Eeyl_PpKY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MOVING OUT 2】BEST SERVICE IN TOWN! CALL NOW 【Reine/Kaela/hololiveID】\nhttps://www.youtube.com/watch?v=srUMpHpX0W8
 DURATION:PT2H
 DTSTART:20230816T130000Z
 SUMMARY:Reine: 【MOVING OUT 2】BEST SERVICE IN TOWN! CALL NOW 【Reine/Kaela/hololiveID】
 UID:srUMpHpX0W8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Holocure】EARLY ACCESS ❗ Fishing & ID Girls?!\nhttps://www.youtube.com/watch?v=KouE7vfolBI
+DURATION:PT2H
+DTSTART:20230816T150000Z
+SUMMARY:Zeta: 【Holocure】EARLY ACCESS ❗ Fishing & ID Girls?!
+UID:KouE7vfolBI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Post Talk & Donation Reading】 talking about my new costume!\nhttps://www.youtube.com/watch?v=PNHZ3QR63Rw
@@ -53,67 +53,11 @@ SUMMARY:🎨Iofi: 【Sea of Thieves】Kapal AREA15.1 Siap Berlayar\, Ahoy!【 io
 UID:yJHEkkLT-xA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【NEW COSTUME】Unlocked: New Character Selection 【#ZetaHenshin #GeloraholoID】\nhttps://www.youtube.com/watch?v=pACYcGTelZI
-DURATION:PT2H
-DTSTART:20230815T130000Z
-SUMMARY:Zeta: 【NEW COSTUME】Unlocked: New Character Selection 【#ZetaHenshin #GeloraholoID】
-UID:pACYcGTelZI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Post Talk & Donation Reading】 talking about my new costume! (Part 2\, I made this room twice)\nhttps://www.youtube.com/watch?v=-yj-aWEK6do
 DURATION:PT2H
 DTSTART:20230816T134000Z
 SUMMARY:Kobo: 【Post Talk & Donation Reading】 talking about my new costume! (Part 2\, I made this room twice)
 UID:-yj-aWEK6do
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Moving Out 2】successfully recruited Reine to destroy another houses【hololiveID】\nhttps://www.youtube.com/watch?v=gvaF9pCoU50
-DURATION:PT2H
-DTSTART:20230816T130000Z
-SUMMARY:Kaela: 【Moving Out 2】successfully recruited Reine to destroy another houses【hololiveID】
-UID:gvaF9pCoU50
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【NEW COSTUME】 REVEAL SKIN BARU KOBO!!! JADI WAYANG? JADI PUTRI RAJA?? JADI-JADIAN??? #GeloraholoID\nhttps://www.youtube.com/watch?v=4CbH8pcq9C4
-DURATION:PT2H
-DTSTART:20230815T140000Z
-SUMMARY:Kobo: 【NEW COSTUME】 REVEAL SKIN BARU KOBO!!! JADI WAYANG? JADI PUTRI RAJA?? JADI-JADIAN??? #GeloraholoID
-UID:4CbH8pcq9C4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FREETALK + DONO READ】THROWBACK TO ALL THE SUPPORT ON 3D SHOWCASE!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=Bewf31AWunA
-DURATION:PT2H
-DTSTART:20230815T070014Z
-SUMMARY:Ollie: 【FREETALK + DONO READ】THROWBACK TO ALL THE SUPPORT ON 3D SHOWCASE!!【Hololive Indonesia 2nd Gen】
-UID:Bewf31AWunA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#GeloraholoID】TRAILER 🤓📚🔥【#kaelalalala】\nhttps://www.youtube.com/watch?v=nqCYz-PRGQE
-DURATION:PT2H
-DTSTART:20230815T090000Z
-SUMMARY:Kaela: 【#GeloraholoID】TRAILER 🤓📚🔥【#kaelalalala】
-UID:nqCYz-PRGQE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Truth of Beauty Witch】WANNA BE MARINE SENCHOU'S PIRATE BIRD! (gone wrong)【Pavolia Reine/hololiveID】\nhttps://www.youtube.com/watch?v=YMYWnkBWByc
-DURATION:PT2H
-DTSTART:20230816T110000Z
-SUMMARY:Reine: 【Truth of Beauty Witch】WANNA BE MARINE SENCHOU'S PIRATE BIRD! (gone wrong)【Pavolia Reine/hololiveID】
-UID:YMYWnkBWByc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Holocure】EARLY ACCESS ❗ Fishing & ID Girls?!\nhttps://www.youtube.com/watch?v=KouE7vfolBI
-DURATION:PT2H
-DTSTART:20230816T150000Z
-SUMMARY:Zeta: 【Holocure】EARLY ACCESS ❗ Fishing & ID Girls?!
-UID:KouE7vfolBI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#GeloraholoID】so\, what's gonna be the theme? 🤓📚🔥【#kaelalalala】\nhttps://www.youtube.com/watch?v=p-UQTvoRm-0
-DURATION:PT2H
-DTSTART:20230815T120000Z
-SUMMARY:Kaela: 【#GeloraholoID】so\, what's gonna be the theme? 🤓📚🔥【#kaelalalala】
-UID:p-UQTvoRm-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SEA OF THIEVES】AREA 15.1 HERE TO DOMINATED THE 7 SEAS!!【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=Hyb8NMN0MSo
@@ -137,17 +81,17 @@ SUMMARY:🔮Moona: 【AREA15.1】AAAHOOOOYYY!!! It's time for SEA OF THIEVES!!�
 UID:ipm5_pkAWpA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HOLOCURE: SPOILERS】TIME TO FARM!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=Ocj2CHvlbLQ
+DESCRIPTION:【Moving Out 2】successfully recruited Reine to destroy another houses【hololiveID】\nhttps://www.youtube.com/watch?v=gvaF9pCoU50
 DURATION:PT2H
-DTSTART:20230815T102932Z
-SUMMARY:Ollie: 【HOLOCURE: SPOILERS】TIME TO FARM!!【Hololive Indonesia 2nd Gen】
-UID:Ocj2CHvlbLQ
+DTSTART:20230816T130000Z
+SUMMARY:Kaela: 【Moving Out 2】successfully recruited Reine to destroy another houses【hololiveID】
+UID:gvaF9pCoU50
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HoloCure SPOILER】#32 totally just a fishing and farming stream【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=vCe8NP4NpTA
+DESCRIPTION:【Truth of Beauty Witch】WANNA BE MARINE SENCHOU'S PIRATE BIRD! (gone wrong)【Pavolia Reine/hololiveID】\nhttps://www.youtube.com/watch?v=YMYWnkBWByc
 DURATION:PT2H
-DTSTART:20230814T160000Z
-SUMMARY:Kaela: 【HoloCure SPOILER】#32 totally just a fishing and farming stream【Kaela Kovalskia / hololiveID】
-UID:vCe8NP4NpTA
+DTSTART:20230816T110000Z
+SUMMARY:Reine: 【Truth of Beauty Witch】WANNA BE MARINE SENCHOU'S PIRATE BIRD! (gone wrong)【Pavolia Reine/hololiveID】
+UID:YMYWnkBWByc
 END:VEVENT
 END:VCALENDAR
