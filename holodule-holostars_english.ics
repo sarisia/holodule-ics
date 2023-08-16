@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Outer Wilds: Echoes of the Eye】5 - We live in a simulation :( (No spoilers pls!)\nhttps://www.youtube.com/watch?v=D3NVGtKqpd8
-DURATION:PT2H
-DTSTART:20230816T010000Z
-SUMMARY:Shinri: 【Outer Wilds: Echoes of the Eye】5 - We live in a simulation :( (No spoilers pls!)
-UID:D3NVGtKqpd8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:👻VR GHOST HUNTING👻 w/ @JosuijiShinri\nhttps://www.youtube.com/watch?v=m1t7scER-c4
 DURATION:PT2H
 DTSTART:20230817T020000Z
@@ -18,11 +11,18 @@ SUMMARY:Altare: 👻VR GHOST HUNTING👻 w/ @JosuijiShinri
 UID:m1t7scER-c4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Project Zomboid 】 WOAH OH WE'RE ZOMBIE ZOMBIE!\nhttps://www.youtube.com/watch?v=nwqU19Jh-LE
+DESCRIPTION:【Outer Wilds: Echoes of the Eye】5 - We live in a simulation :( (No spoilers pls!)\nhttps://www.youtube.com/watch?v=D3NVGtKqpd8
 DURATION:PT2H
-DTSTART:20230817T000000Z
-SUMMARY:Hakka: 【 Project Zomboid 】 WOAH OH WE'RE ZOMBIE ZOMBIE!
-UID:nwqU19Jh-LE
+DTSTART:20230816T010000Z
+SUMMARY:Shinri: 【Outer Wilds: Echoes of the Eye】5 - We live in a simulation :( (No spoilers pls!)
+UID:D3NVGtKqpd8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Phasmophobia】The 1/2 VR Collab with @RegisAltare!  (Shinri POV)\nhttps://www.youtube.com/watch?v=iwcUyembAko
+DURATION:PT2H
+DTSTART:20230817T020000Z
+SUMMARY:Shinri: 【Phasmophobia】The 1/2 VR Collab with @RegisAltare!  (Shinri POV)
+UID:iwcUyembAko
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MACHI Q&A】Google Forms Questions 100 - 250!?\nhttps://www.youtube.com/watch?v=YmSHq0atF5Q
@@ -30,5 +30,12 @@ DURATION:PT2H
 DTSTART:20230816T000000Z
 SUMMARY:Flayon: 【MACHI Q&A】Google Forms Questions 100 - 250!?
 UID:YmSHq0atF5Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Project Zomboid 】 WOAH OH WE'RE ZOMBIE ZOMBIE!\nhttps://www.youtube.com/watch?v=nwqU19Jh-LE
+DURATION:PT2H
+DTSTART:20230817T000000Z
+SUMMARY:Hakka: 【 Project Zomboid 】 WOAH OH WE'RE ZOMBIE ZOMBIE!
+UID:nwqU19Jh-LE
 END:VEVENT
 END:VCALENDAR
