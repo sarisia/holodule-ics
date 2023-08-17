@@ -4,39 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【飲み会】日本ニキ、遊ぼう！（日本語）\nhttps://www.youtube.com/watch?v=Amj7hsMtD9U
-DURATION:PT2H
-DTSTART:20230817T090242Z
-SUMMARY:Calli: 【飲み会】日本ニキ、遊ぼう！（日本語）
-UID:Amj7hsMtD9U
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【GREEN SCREEN ZATSU AND SUPERCHAT READING】Let's Make Memes!\nhttps://www.youtube.com/watch?v=VNTlLCbQIkk
 DURATION:PT2H
 DTSTART:20230816T230000Z
 SUMMARY:Bijou: 【GREEN SCREEN ZATSU AND SUPERCHAT READING】Let's Make Memes!
 UID:VNTlLCbQIkk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PUMMEL PARTY】GAMES WITH BIRBS and ANNOUNCEMENT~! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=plynOGiJy18
-DURATION:PT2H
-DTSTART:20230817T070000Z
-SUMMARY:Kiara: 【PUMMEL PARTY】GAMES WITH BIRBS and ANNOUNCEMENT~! #kfp #キアライブ
-UID:plynOGiJy18
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RIVER CITY GIRLS】we're shaking this city up! 🐾\nhttps://www.youtube.com/watch?v=_fSp0j77H_w
-DURATION:PT2H
-DTSTART:20230817T010000Z
-SUMMARY:FUWAMOCO: 【RIVER CITY GIRLS】we're shaking this city up! 🐾
-UID:_fSp0j77H_w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】 Yes\, I'm still working on this big ol tree\nhttps://www.youtube.com/watch?v=RqFpOnRXNMY
-DURATION:PT2H
-DTSTART:20230817T220000Z
-SUMMARY:Fauna: 【MINECRAFT】 Yes\, I'm still working on this big ol tree
-UID:RqFpOnRXNMY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SPOOKY'S JUMP SCARE MANSION】scaredy puppies no more! 🐾\nhttps://www.youtube.com/watch?v=uHUGHrXYPa4
@@ -53,13 +25,6 @@ SUMMARY:Calli: 【3D CONCERT】JIGOKU 6 RELEASE LIVE !! 地獄でライブやっ
 UID:FnzG3-mmivo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HoloCure】Gotta roll for new outfits...! 🎼\nhttps://www.youtube.com/watch?v=ckE64pHsT3w
-DURATION:PT2H
-DTSTART:20230818T000000Z
-SUMMARY:Nerissa: 【HoloCure】Gotta roll for new outfits...! 🎼
-UID:ckE64pHsT3w
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:A greeting\, from me to you~🎼 #RissaLIVE #shorts #holoAdvent #hololiveEnglish\nhttps://www.youtube.com/watch?v=Nv3t69JIn3g
 DURATION:PT2H
 DTSTART:20230817T160027Z
@@ -72,6 +37,48 @@ DURATION:PT2H
 DTSTART:20230818T040000Z
 SUMMARY:Calli: [MV] Black Sheep - Mori Calliope (prod. by Koichi Tsutaya)
 UID:EQnXz-QYRms
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HoloCure】Gotta roll for new outfits...! 🎼\nhttps://www.youtube.com/watch?v=ckE64pHsT3w
+DURATION:PT2H
+DTSTART:20230818T000000Z
+SUMMARY:Nerissa: 【HoloCure】Gotta roll for new outfits...! 🎼
+UID:ckE64pHsT3w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PowerWash Sim】Starting a business with Bae-senpai 🎼\nhttps://www.youtube.com/watch?v=HYY7Z2M5g6A
+DURATION:PT2H
+DTSTART:20230817T010000Z
+SUMMARY:Nerissa: 【PowerWash Sim】Starting a business with Bae-senpai 🎼
+UID:HYY7Z2M5g6A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【飲み会】日本ニキ、遊ぼう！（日本語）\nhttps://www.youtube.com/watch?v=Amj7hsMtD9U
+DURATION:PT2H
+DTSTART:20230817T090242Z
+SUMMARY:Calli: 【飲み会】日本ニキ、遊ぼう！（日本語）
+UID:Amj7hsMtD9U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】 Yes\, I'm still working on this big ol tree\nhttps://www.youtube.com/watch?v=RqFpOnRXNMY
+DURATION:PT2H
+DTSTART:20230817T220000Z
+SUMMARY:Fauna: 【MINECRAFT】 Yes\, I'm still working on this big ol tree
+UID:RqFpOnRXNMY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PUMMEL PARTY】GAMES WITH BIRBS and ANNOUNCEMENT~! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=plynOGiJy18
+DURATION:PT2H
+DTSTART:20230817T070000Z
+SUMMARY:Kiara: 【PUMMEL PARTY】GAMES WITH BIRBS and ANNOUNCEMENT~! #kfp #キアライブ
+UID:plynOGiJy18
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RIVER CITY GIRLS】we're shaking this city up! 🐾\nhttps://www.youtube.com/watch?v=_fSp0j77H_w
+DURATION:PT2H
+DTSTART:20230817T010000Z
+SUMMARY:FUWAMOCO: 【RIVER CITY GIRLS】we're shaking this city up! 🐾
+UID:_fSp0j77H_w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【THOSE GAMES】annoying ads turned into fun minigames! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=Ny7HZOcpnqc
@@ -95,11 +102,11 @@ SUMMARY:Shiori: Mystery Bug Unveiling: Insect Life Excavation!
 UID:hh4Y5lEItaY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【PowerWash Sim】Starting a business with Bae-senpai 🎼\nhttps://www.youtube.com/watch?v=HYY7Z2M5g6A
+DESCRIPTION:【HOLOCURE】THE BIG ONE\nhttps://www.youtube.com/watch?v=4ssxbuXp9rQ
 DURATION:PT2H
-DTSTART:20230817T010000Z
-SUMMARY:Nerissa: 【PowerWash Sim】Starting a business with Bae-senpai 🎼
-UID:HYY7Z2M5g6A
+DTSTART:20230818T000000Z
+SUMMARY:Gura: 【HOLOCURE】THE BIG ONE
+UID:4ssxbuXp9rQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【WE LOVE KATAMARI REROLL+ ROYAL REVERIE】Time to ROCK and ROLL (spoilers)\nhttps://www.youtube.com/watch?v=VstkVfzgaBE
