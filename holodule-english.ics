@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【FUWAMOCO MORNING】episode 7 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=sUJVYegLEN4
-DURATION:PT2H
-DTSTART:20230816T150000Z
-SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 7 🐾 #FWMCMORNING
-UID:sUJVYegLEN4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【飲み会】日本ニキ、遊ぼう！（日本語）\nhttps://www.youtube.com/watch?v=Amj7hsMtD9U
-DURATION:PT2H
-DTSTART:20230817T100000Z
-SUMMARY:Calli: 【飲み会】日本ニキ、遊ぼう！（日本語）
-UID:Amj7hsMtD9U
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:A Surprise Gift! Chuu Chuu~🤍 #holoadvent #shorts. [日本語字幕付｜한국어 자막]\nhttps://www.youtube.com/watch?v=3qGtLCL00mg
 DURATION:PT2H
 DTSTART:20230816T020002Z
@@ -32,25 +18,11 @@ SUMMARY:Bijou: 【GREEN SCREEN ZATSU AND SUPERCHAT READING】Let's Make Memes!
 UID:VNTlLCbQIkk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【PowerWash Sim】Starting a business with Bae-senpai 🎼\nhttps://www.youtube.com/watch?v=HYY7Z2M5g6A
+DESCRIPTION:【SPOOKY'S JUMP SCARE MANSION】scaredy puppies no more! 🐾\nhttps://www.youtube.com/watch?v=uHUGHrXYPa4
 DURATION:PT2H
-DTSTART:20230817T010000Z
-SUMMARY:Nerissa: 【PowerWash Sim】Starting a business with Bae-senpai 🎼
-UID:HYY7Z2M5g6A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RIVER CITY GIRLS】we're shaking this city up! 🐾\nhttps://www.youtube.com/watch?v=_fSp0j77H_w
-DURATION:PT2H
-DTSTART:20230817T010000Z
-SUMMARY:FUWAMOCO: 【RIVER CITY GIRLS】we're shaking this city up! 🐾
-UID:_fSp0j77H_w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PUMMEL PARTY】GAMES WITH BIRBS and ANNOUNCEMENT~! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=plynOGiJy18
-DURATION:PT2H
-DTSTART:20230817T070000Z
-SUMMARY:Kiara: 【PUMMEL PARTY】GAMES WITH BIRBS and ANNOUNCEMENT~! #kfp #キアライブ
-UID:plynOGiJy18
+DTSTART:20230818T010000Z
+SUMMARY:FUWAMOCO: 【SPOOKY'S JUMP SCARE MANSION】scaredy puppies no more! 🐾
+UID:uHUGHrXYPa4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【3D CONCERT】JIGOKU 6 RELEASE LIVE !! 地獄でライブやってる！！\nhttps://www.youtube.com/watch?v=FnzG3-mmivo
@@ -58,13 +30,6 @@ DURATION:PT2H
 DTSTART:20230818T020000Z
 SUMMARY:Calli: 【3D CONCERT】JIGOKU 6 RELEASE LIVE !! 地獄でライブやってる！！
 UID:FnzG3-mmivo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HoloCure: Save the Fans!】Let's roll for the ID girls! 🎼\nhttps://www.youtube.com/watch?v=A6sX1yjQq_k
-DURATION:PT2H
-DTSTART:20230816T000000Z
-SUMMARY:Nerissa: 【HoloCure: Save the Fans!】Let's roll for the ID girls! 🎼
-UID:A6sX1yjQq_k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Holocure】 So I Fished a Little Bit....\nhttps://www.youtube.com/watch?v=6BBRxjlkGBE
@@ -81,13 +46,6 @@ SUMMARY:FUWAMOCO: 【日本語雑談 Q&A】はじめてのざつだん chatting 
 UID:sFtVsNvqFLQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪JUST CHATTING≫ rat is alive with pringles\nhttps://www.youtube.com/watch?v=ejdAkKi2atA
-DURATION:PT2H
-DTSTART:20230817T040000Z
-SUMMARY:Baelz: ≪JUST CHATTING≫ rat is alive with pringles
-UID:ejdAkKi2atA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【HOLOCURE】early access\, for us?! 🐾\nhttps://www.youtube.com/watch?v=ixMyHJmLHLI
 DURATION:PT2H
 DTSTART:20230815T200000Z
@@ -95,11 +53,18 @@ SUMMARY:FUWAMOCO: 【HOLOCURE】early access\, for us?! 🐾
 UID:ixMyHJmLHLI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HOLOCURE】New characters\, new features\, WOWOWOWOW #kfp #キアライブ\nhttps://www.youtube.com/watch?v=vsneBgDq7RM
+DESCRIPTION:【PowerWash Sim】Starting a business with Bae-senpai 🎼\nhttps://www.youtube.com/watch?v=HYY7Z2M5g6A
 DURATION:PT2H
-DTSTART:20230816T140000Z
-SUMMARY:Kiara: 【HOLOCURE】New characters\, new features\, WOWOWOWOW #kfp #キアライブ
-UID:vsneBgDq7RM
+DTSTART:20230817T010000Z
+SUMMARY:Nerissa: 【PowerWash Sim】Starting a business with Bae-senpai 🎼
+UID:HYY7Z2M5g6A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HoloCure: Save the Fans!】Let's roll for the ID girls! 🎼\nhttps://www.youtube.com/watch?v=A6sX1yjQq_k
+DURATION:PT2H
+DTSTART:20230816T000000Z
+SUMMARY:Nerissa: 【HoloCure: Save the Fans!】Let's roll for the ID girls! 🎼
+UID:A6sX1yjQq_k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TOTK】What's That Falling From The Sky? A Rock - #2\nhttps://www.youtube.com/watch?v=UQXMSsSl2Dk
@@ -107,5 +72,47 @@ DURATION:PT2H
 DTSTART:20230815T230000Z
 SUMMARY:Bijou: 【TOTK】What's That Falling From The Sky? A Rock - #2
 UID:UQXMSsSl2Dk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FUWAMOCO MORNING】episode 7 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=sUJVYegLEN4
+DURATION:PT2H
+DTSTART:20230816T150000Z
+SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 7 🐾 #FWMCMORNING
+UID:sUJVYegLEN4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【飲み会】日本ニキ、遊ぼう！（日本語）\nhttps://www.youtube.com/watch?v=Amj7hsMtD9U
+DURATION:PT2H
+DTSTART:20230817T100000Z
+SUMMARY:Calli: 【飲み会】日本ニキ、遊ぼう！（日本語）
+UID:Amj7hsMtD9U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RIVER CITY GIRLS】we're shaking this city up! 🐾\nhttps://www.youtube.com/watch?v=_fSp0j77H_w
+DURATION:PT2H
+DTSTART:20230817T010000Z
+SUMMARY:FUWAMOCO: 【RIVER CITY GIRLS】we're shaking this city up! 🐾
+UID:_fSp0j77H_w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PUMMEL PARTY】GAMES WITH BIRBS and ANNOUNCEMENT~! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=plynOGiJy18
+DURATION:PT2H
+DTSTART:20230817T070000Z
+SUMMARY:Kiara: 【PUMMEL PARTY】GAMES WITH BIRBS and ANNOUNCEMENT~! #kfp #キアライブ
+UID:plynOGiJy18
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪JUST CHATTING≫ rat is alive with pringles\nhttps://www.youtube.com/watch?v=ejdAkKi2atA
+DURATION:PT2H
+DTSTART:20230817T040000Z
+SUMMARY:Baelz: ≪JUST CHATTING≫ rat is alive with pringles
+UID:ejdAkKi2atA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HOLOCURE】New characters\, new features\, WOWOWOWOW #kfp #キアライブ\nhttps://www.youtube.com/watch?v=vsneBgDq7RM
+DURATION:PT2H
+DTSTART:20230816T140000Z
+SUMMARY:Kiara: 【HOLOCURE】New characters\, new features\, WOWOWOWOW #kfp #キアライブ
+UID:vsneBgDq7RM
 END:VEVENT
 END:VCALENDAR
