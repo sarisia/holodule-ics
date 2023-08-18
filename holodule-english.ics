@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【GREEN SCREEN ZATSU AND SUPERCHAT READING】Let's Make Memes!\nhttps://www.youtube.com/watch?v=VNTlLCbQIkk
-DURATION:PT2H
-DTSTART:20230816T230000Z
-SUMMARY:Bijou: 【GREEN SCREEN ZATSU AND SUPERCHAT READING】Let's Make Memes!
-UID:VNTlLCbQIkk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【SPOOKY'S JUMP SCARE MANSION】scaredy puppies no more! 🐾\nhttps://www.youtube.com/watch?v=uHUGHrXYPa4
 DURATION:PT2H
 DTSTART:20230818T010000Z
@@ -23,6 +16,13 @@ DURATION:PT2H
 DTSTART:20230818T030437Z
 SUMMARY:Calli: 【3D CONCERT】JIGOKU 6 RELEASE LIVE !! 地獄でライブやってる！！
 UID:FnzG3-mmivo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【GREEN SCREEN ZATSU AND SUPERCHAT READING】Let's Make Memes!\nhttps://www.youtube.com/watch?v=VNTlLCbQIkk
+DURATION:PT2H
+DTSTART:20230816T230000Z
+SUMMARY:Bijou: 【GREEN SCREEN ZATSU AND SUPERCHAT READING】Let's Make Memes!
+UID:VNTlLCbQIkk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A greeting\, from me to you~🎼 #RissaLIVE #shorts #holoAdvent #hololiveEnglish\nhttps://www.youtube.com/watch?v=Nv3t69JIn3g
@@ -53,18 +53,18 @@ SUMMARY:Nerissa: 【PowerWash Sim】Starting a business with Bae-senpai 🎼
 UID:HYY7Z2M5g6A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【飲み会】日本ニキ、遊ぼう！（日本語）\nhttps://www.youtube.com/watch?v=Amj7hsMtD9U
-DURATION:PT2H
-DTSTART:20230817T090242Z
-SUMMARY:Calli: 【飲み会】日本ニキ、遊ぼう！（日本語）
-UID:Amj7hsMtD9U
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Pikmin 4】 They Told Me I Could Become Anything So I Became Dandori Master....But At What Cost 【#4】\nhttps://www.youtube.com/watch?v=ACcYFBmTz-s
 DURATION:PT2H
 DTSTART:20230817T213000Z
 SUMMARY:Ina: 【Pikmin 4】 They Told Me I Could Become Anything So I Became Dandori Master....But At What Cost 【#4】
 UID:ACcYFBmTz-s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【飲み会】日本ニキ、遊ぼう！（日本語）\nhttps://www.youtube.com/watch?v=Amj7hsMtD9U
+DURATION:PT2H
+DTSTART:20230817T090242Z
+SUMMARY:Calli: 【飲み会】日本ニキ、遊ぼう！（日本語）
+UID:Amj7hsMtD9U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】 Yes\, I'm still working on this big ol tree\nhttps://www.youtube.com/watch?v=RqFpOnRXNMY
@@ -107,6 +107,13 @@ DURATION:PT2H
 DTSTART:20230817T040000Z
 SUMMARY:Baelz: ≪JUST CHATTING≫ rat is alive with pringles
 UID:ejdAkKi2atA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Apex Legends】Working on our team skills with @KosekiBijou @FUWAMOCOch  🎼\nhttps://www.youtube.com/watch?v=T40-yg1CEgE
+DURATION:PT2H
+DTSTART:20230819T010000Z
+SUMMARY:Nerissa: 【Apex Legends】Working on our team skills with @KosekiBijou @FUWAMOCOch  🎼
+UID:T40-yg1CEgE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mystery Bug Unveiling: Insect Life Excavation!\nhttps://www.youtube.com/watch?v=hh4Y5lEItaY
