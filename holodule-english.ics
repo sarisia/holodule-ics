@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【APEX COLLAB】Advent but PEW PEW\nhttps://www.youtube.com/watch?v=1L6uZUwIx0o
+DURATION:PT2H
+DTSTART:20230819T010000Z
+SUMMARY:Bijou: 【APEX COLLAB】Advent but PEW PEW
+UID:1L6uZUwIx0o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HOLOCURE】Just One More Game !!!\nhttps://www.youtube.com/watch?v=3q8gYNHec1A
+DURATION:PT2H
+DTSTART:20230819T030000Z
+SUMMARY:Mumei: 【HOLOCURE】Just One More Game !!!
+UID:3q8gYNHec1A
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【GTA IV】VIOLENCE AND VICTORY #kfp #キアライブ\nhttps://www.youtube.com/watch?v=4SKNGhIQNA8
 DURATION:PT2H
 DTSTART:20230819T143000Z
@@ -11,25 +25,11 @@ SUMMARY:Kiara: 【GTA IV】VIOLENCE AND VICTORY #kfp #キアライブ
 UID:4SKNGhIQNA8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SPOOKY'S JUMP SCARE MANSION】scaredy puppies no more! 🐾\nhttps://www.youtube.com/watch?v=uHUGHrXYPa4
+DESCRIPTION:【MV】HOLOTORI Dance!【HOLOTORI Original Song】\nhttps://www.youtube.com/watch?v=BcO9bZavHRg
 DURATION:PT2H
-DTSTART:20230818T010000Z
-SUMMARY:FUWAMOCO: 【SPOOKY'S JUMP SCARE MANSION】scaredy puppies no more! 🐾
-UID:uHUGHrXYPa4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【3D CONCERT】JIGOKU 6 RELEASE LIVE !! 地獄でライブやってる！！\nhttps://www.youtube.com/watch?v=FnzG3-mmivo
-DURATION:PT2H
-DTSTART:20230818T030437Z
-SUMMARY:Calli: 【3D CONCERT】JIGOKU 6 RELEASE LIVE !! 地獄でライブやってる！！
-UID:FnzG3-mmivo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mystery Bug Unveiling: Insect Life Excavation!\nhttps://www.youtube.com/watch?v=hh4Y5lEItaY
-DURATION:PT2H
-DTSTART:20230818T020000Z
-SUMMARY:Shiori: Mystery Bug Unveiling: Insect Life Excavation!
-UID:hh4Y5lEItaY
+DTSTART:20230820T050000Z
+SUMMARY:ENholo: 【MV】HOLOTORI Dance!【HOLOTORI Original Song】
+UID:BcO9bZavHRg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【3D SHOWCASE】HOPE IS ON THE MOVE! #3DRyS\nhttps://www.youtube.com/watch?v=dR9q_J-8mfM
@@ -37,6 +37,13 @@ DURATION:PT2H
 DTSTART:20230820T030000Z
 SUMMARY:IRyS: 【3D SHOWCASE】HOPE IS ON THE MOVE! #3DRyS
 UID:dR9q_J-8mfM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Beach Episode #ホロサマshorts #hololivesummer2023 #shorts\nhttps://www.youtube.com/watch?v=LhI4vEWS4B4
+DURATION:PT2H
+DTSTART:20230819T030009Z
+SUMMARY:Baelz: The Beach Episode #ホロサマshorts #hololivesummer2023 #shorts
+UID:LhI4vEWS4B4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:My Little OffCollab: Jellybeans Are Tragic #holoEN3DRepeat\nhttps://www.youtube.com/watch?v=tM_-a1b38XI
@@ -53,11 +60,11 @@ SUMMARY:Nerissa: 【MAD FATHER】D... Daddy? 🎼
 UID:m0O6bMV2QSc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪HOLO SUMMER BINGO≫ Memorizing 47 Prefectures.\nhttps://www.youtube.com/watch?v=V9Q6V2q-jEc
+DESCRIPTION:IRyS 3D Showcase Pre-show Hype!  #3DRyS #holoEN\nhttps://www.youtube.com/watch?v=_rIKm-J4IWg
 DURATION:PT2H
-DTSTART:20230818T140000Z
-SUMMARY:Baelz: ≪HOLO SUMMER BINGO≫ Memorizing 47 Prefectures.
-UID:V9Q6V2q-jEc
+DTSTART:20230819T033023Z
+SUMMARY:ENholo: IRyS 3D Showcase Pre-show Hype!  #3DRyS #holoEN
+UID:_rIKm-J4IWg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪Paper Mario≫ What is N64?\nhttps://www.youtube.com/watch?v=5M6P51TspWE
@@ -67,11 +74,18 @@ SUMMARY:Baelz: ≪Paper Mario≫ What is N64?
 UID:5M6P51TspWE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Pikmin 4】 They Told Me I Could Become Anything So I Became Dandori Master....But At What Cost 【#4】\nhttps://www.youtube.com/watch?v=ACcYFBmTz-s
+DESCRIPTION:【ZELDA: OCARINA OF TIME】N64 legend starts here 🐾\nhttps://www.youtube.com/watch?v=UDCJQxIBDYA
 DURATION:PT2H
-DTSTART:20230817T213000Z
-SUMMARY:Ina: 【Pikmin 4】 They Told Me I Could Become Anything So I Became Dandori Master....But At What Cost 【#4】
-UID:ACcYFBmTz-s
+DTSTART:20230820T010000Z
+SUMMARY:FUWAMOCO: 【ZELDA: OCARINA OF TIME】N64 legend starts here 🐾
+UID:UDCJQxIBDYA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ELDEN RING】Crystal Rock Challenge! - #3\nhttps://www.youtube.com/watch?v=ze4SGtNX_9s
+DURATION:PT2H
+DTSTART:20230819T230000Z
+SUMMARY:Bijou: 【ELDEN RING】Crystal Rock Challenge! - #3
+UID:ze4SGtNX_9s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HOLOCURE】Need Play More\nhttps://www.youtube.com/watch?v=aomckVmDiLY
@@ -88,104 +102,6 @@ SUMMARY:FUWAMOCO: 【APEX COLLAB】prepare to be amazed 🐾 #holoAdvent
 UID:EDeLwLudnqA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Apex Legends】Working on our team skills with @KosekiBijou @FUWAMOCOch  🎼\nhttps://www.youtube.com/watch?v=T40-yg1CEgE
-DURATION:PT2H
-DTSTART:20230819T010000Z
-SUMMARY:Nerissa: 【Apex Legends】Working on our team skills with @KosekiBijou @FUWAMOCOch  🎼
-UID:T40-yg1CEgE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HOLOCURE】THE BIG ONE\nhttps://www.youtube.com/watch?v=4ssxbuXp9rQ
-DURATION:PT2H
-DTSTART:20230818T000000Z
-SUMMARY:Gura: 【HOLOCURE】THE BIG ONE
-UID:4ssxbuXp9rQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX COLLAB】Advent but PEW PEW\nhttps://www.youtube.com/watch?v=1L6uZUwIx0o
-DURATION:PT2H
-DTSTART:20230819T010000Z
-SUMMARY:Bijou: 【APEX COLLAB】Advent but PEW PEW
-UID:1L6uZUwIx0o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HOLOCURE】Just One More Game !!!\nhttps://www.youtube.com/watch?v=3q8gYNHec1A
-DURATION:PT2H
-DTSTART:20230819T030000Z
-SUMMARY:Mumei: 【HOLOCURE】Just One More Game !!!
-UID:3q8gYNHec1A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MV】HOLOTORI Dance!【HOLOTORI Original Song】\nhttps://www.youtube.com/watch?v=BcO9bZavHRg
-DURATION:PT2H
-DTSTART:20230820T050000Z
-SUMMARY:ENholo: 【MV】HOLOTORI Dance!【HOLOTORI Original Song】
-UID:BcO9bZavHRg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Beach Episode #ホロサマshorts #hololivesummer2023 #shorts\nhttps://www.youtube.com/watch?v=LhI4vEWS4B4
-DURATION:PT2H
-DTSTART:20230819T030009Z
-SUMMARY:Baelz: The Beach Episode #ホロサマshorts #hololivesummer2023 #shorts
-UID:LhI4vEWS4B4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FUWAMOCO MORNING】episode 8 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=-UBdZ4tykfI
-DURATION:PT2H
-DTSTART:20230818T150000Z
-SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 8 🐾 #FWMCMORNING
-UID:-UBdZ4tykfI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A greeting\, from me to you~🎼 #RissaLIVE #shorts #holoAdvent #hololiveEnglish\nhttps://www.youtube.com/watch?v=Nv3t69JIn3g
-DURATION:PT2H
-DTSTART:20230817T160027Z
-SUMMARY:Nerissa: A greeting\, from me to you~🎼 #RissaLIVE #shorts #holoAdvent #hololiveEnglish
-UID:Nv3t69JIn3g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[MV] Black Sheep - Mori Calliope (prod. by Koichi Tsutaya)\nhttps://www.youtube.com/watch?v=EQnXz-QYRms
-DURATION:PT2H
-DTSTART:20230818T040000Z
-SUMMARY:Calli: [MV] Black Sheep - Mori Calliope (prod. by Koichi Tsutaya)
-UID:EQnXz-QYRms
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IRyS 3D Showcase Pre-show Hype!  #3DRyS #holoEN\nhttps://www.youtube.com/watch?v=_rIKm-J4IWg
-DURATION:PT2H
-DTSTART:20230819T033023Z
-SUMMARY:ENholo: IRyS 3D Showcase Pre-show Hype!  #3DRyS #holoEN
-UID:_rIKm-J4IWg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HoloCure】Gotta roll for new outfits...! 🎼\nhttps://www.youtube.com/watch?v=ckE64pHsT3w
-DURATION:PT2H
-DTSTART:20230818T000000Z
-SUMMARY:Nerissa: 【HoloCure】Gotta roll for new outfits...! 🎼
-UID:ckE64pHsT3w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ZELDA: OCARINA OF TIME】N64 legend starts here 🐾\nhttps://www.youtube.com/watch?v=UDCJQxIBDYA
-DURATION:PT2H
-DTSTART:20230820T010000Z
-SUMMARY:FUWAMOCO: 【ZELDA: OCARINA OF TIME】N64 legend starts here 🐾
-UID:UDCJQxIBDYA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】 Yes\, I'm still working on this big ol tree\nhttps://www.youtube.com/watch?v=RqFpOnRXNMY
-DURATION:PT2H
-DTSTART:20230817T220000Z
-SUMMARY:Fauna: 【MINECRAFT】 Yes\, I'm still working on this big ol tree
-UID:RqFpOnRXNMY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING】Crystal Rock Challenge! - #3\nhttps://www.youtube.com/watch?v=ze4SGtNX_9s
-DURATION:PT2H
-DTSTART:20230819T230000Z
-SUMMARY:Bijou: 【ELDEN RING】Crystal Rock Challenge! - #3
-UID:ze4SGtNX_9s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Fur Elise #shorts #shiorinonair\nhttps://www.youtube.com/watch?v=0sY9mZuZk1c
 DURATION:PT2H
 DTSTART:20230819T020000Z
@@ -200,11 +116,11 @@ SUMMARY:Ina: 【FGO】 Special Day for a Special Game!!! Let's Learn About Fate/
 UID:5xNVHzLzi80
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【THOSE GAMES】annoying ads turned into fun minigames! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=Ny7HZOcpnqc
+DESCRIPTION:【Apex Legends】Working on our team skills with @KosekiBijou @FUWAMOCOch  🎼\nhttps://www.youtube.com/watch?v=T40-yg1CEgE
 DURATION:PT2H
-DTSTART:20230817T181500Z
-SUMMARY:Kiara: 【THOSE GAMES】annoying ads turned into fun minigames! #kfp #キアライブ
-UID:Ny7HZOcpnqc
+DTSTART:20230819T010000Z
+SUMMARY:Nerissa: 【Apex Legends】Working on our team skills with @KosekiBijou @FUWAMOCOch  🎼
+UID:T40-yg1CEgE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【THANK YOU】500K RUFFIANS 🐾✨ #FUWAMOCO\nhttps://www.youtube.com/watch?v=fPMwdsz_zAI
@@ -214,17 +130,10 @@ SUMMARY:FUWAMOCO: 【THANK YOU】500K RUFFIANS 🐾✨ #FUWAMOCO
 UID:fPMwdsz_zAI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:New Original Song - "Black Sheep" by Mori Calliope #shorts\nhttps://www.youtube.com/watch?v=fdG4pe0CyPo
+DESCRIPTION:【DONKEY KONG COUNTRY】jump jump cart sync 🍌\nhttps://www.youtube.com/watch?v=BtCyucJwPDk
 DURATION:PT2H
-DTSTART:20230818T052704Z
-SUMMARY:Calli: New Original Song - "Black Sheep" by Mori Calliope #shorts
-UID:fdG4pe0CyPo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【WE LOVE KATAMARI REROLL+ ROYAL REVERIE】Time to ROCK and ROLL (spoilers)\nhttps://www.youtube.com/watch?v=VstkVfzgaBE
-DURATION:PT2H
-DTSTART:20230817T230000Z
-SUMMARY:Bijou: 【WE LOVE KATAMARI REROLL+ ROYAL REVERIE】Time to ROCK and ROLL (spoilers)
-UID:VstkVfzgaBE
+DTSTART:20230820T200000Z
+SUMMARY:FUWAMOCO: 【DONKEY KONG COUNTRY】jump jump cart sync 🍌
+UID:BtCyucJwPDk
 END:VEVENT
 END:VCALENDAR
