@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Apex Legends】えぺまつりに向けて【律可/パカエル/瀬尾カザリ/ホロスターズ】 #えぺまつり\nhttps://www.youtube.com/watch?v=NAbe7itffFY
-DURATION:PT2H
-DTSTART:20230820T080500Z
-SUMMARY:⚙律可: 【Apex Legends】えぺまつりに向けて【律可/パカエル/瀬尾カザリ/ホロスターズ】 #えぺまつり
-UID:NAbe7itffFY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 PHOGS! 】告知あり！犬になって協力！？【 水無世燐央 / 緋崎ガンマ / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=ZsxlhZSVXKY
 DURATION:PT2H
 DTSTART:20230820T090000Z
 SUMMARY:水無世燐央: 【 PHOGS! 】告知あり！犬になって協力！？【 水無世燐央 / 緋崎ガンマ / UPROAR!! / アップロー / ホロスターズ 】
 UID:ZsxlhZSVXKY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Apex Legends】えぺまつりに向けて【律可/パカエル/瀬尾カザリ/ホロスターズ】 #えぺまつり\nhttps://www.youtube.com/watch?v=NAbe7itffFY
+DURATION:PT2H
+DTSTART:20230820T080500Z
+SUMMARY:⚙律可: 【Apex Legends】えぺまつりに向けて【律可/パカエル/瀬尾カザリ/ホロスターズ】 #えぺまつり
+UID:NAbe7itffFY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【羊毛フェルト】ちいかわのうさぎさんを羊毛で作りたい！ -カメラ付き- 【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=S6p2wrMMgEo
@@ -53,6 +53,13 @@ SUMMARY:影山シエン: 【 カメラ枠 】んめぇナポリタン作って�
 UID:Mi1hFRnOzP4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【雑談】お題募集深夜トーク【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=W7eCx1yc88o
+DURATION:PT2H
+DTSTART:20230820T130000Z
+SUMMARY:荒咬オウガ: 【雑談】お題募集深夜トーク【荒咬オウガ/ホロスターズ】
+UID:W7eCx1yc88o
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Crimson Snow】みやびに勧められたホラゲをやる！withみやび【岸堂天真/花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=qLPJDgDLX4A
 DURATION:PT2H
 DTSTART:20230819T070000Z
@@ -65,6 +72,13 @@ DURATION:PT2H
 DTSTART:20230819T164500Z
 SUMMARY:🎭アステル・レダ: 【雑談ほのかに歌】OGYA  / アステル
 UID:9tQ3M1mOj8Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【緊急歌枠】俺は配信を休まない！！！歌枠やる！！すぐ終わる！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=w0l1HMu1mrU
+DURATION:PT2H
+DTSTART:20230820T132500Z
+SUMMARY:🦔💨岸堂天真: 【緊急歌枠】俺は配信を休まない！！！歌枠やる！！すぐ終わる！【岸堂天真/ホロスターズ】
+UID:w0l1HMu1mrU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:アラサーVtuberが老いを感じた瞬間TOP3がヤバいｗｗｗ #shorts #vtuber #ホロスターズ #あるある\nhttps://www.youtube.com/watch?v=sEqaKRXd7XA
@@ -114,13 +128,6 @@ DURATION:PT2H
 DTSTART:20230820T050000Z
 SUMMARY:🍕アルランディス: 【東方獣王園】やっと遊べる！！東方新作プレイするぞ！【アルランディス/ホロスターズ】
 UID:rR2BhcNamAs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】お題募集深夜トーク【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=W7eCx1yc88o
-DURATION:PT2H
-DTSTART:20230820T130000Z
-SUMMARY:荒咬オウガ: 【雑談】お題募集深夜トーク【荒咬オウガ/ホロスターズ】
-UID:W7eCx1yc88o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:膝の皿強打してベイブレードみたいになるやつ #shorts #Vtuber #mocopi #ホロスターズ\nhttps://www.youtube.com/watch?v=ZGDdlW1-RPc
