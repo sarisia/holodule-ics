@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 PHOGS! 】告知あり！犬になって協力！？【 水無世燐央 / 緋崎ガンマ / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=ZsxlhZSVXKY
-DURATION:PT2H
-DTSTART:20230820T090000Z
-SUMMARY:水無世燐央: 【 PHOGS! 】告知あり！犬になって協力！？【 水無世燐央 / 緋崎ガンマ / UPROAR!! / アップロー / ホロスターズ 】
-UID:ZsxlhZSVXKY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Apex Legends】えぺまつりに向けて【律可/パカエル/瀬尾カザリ/ホロスターズ】 #えぺまつり\nhttps://www.youtube.com/watch?v=NAbe7itffFY
 DURATION:PT2H
 DTSTART:20230820T080500Z
 SUMMARY:⚙律可: 【Apex Legends】えぺまつりに向けて【律可/パカエル/瀬尾カザリ/ホロスターズ】 #えぺまつり
 UID:NAbe7itffFY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 PHOGS! 】告知あり！犬になって協力！？【 水無世燐央 / 緋崎ガンマ / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=ZsxlhZSVXKY
+DURATION:PT2H
+DTSTART:20230820T090000Z
+SUMMARY:水無世燐央: 【 PHOGS! 】告知あり！犬になって協力！？【 水無世燐央 / 緋崎ガンマ / UPROAR!! / アップロー / ホロスターズ 】
+UID:ZsxlhZSVXKY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【羊毛フェルト】ちいかわのうさぎさんを羊毛で作りたい！ -カメラ付き- 【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=S6p2wrMMgEo
@@ -32,76 +32,6 @@ SUMMARY:水無世燐央: 【歌ってみた】絶対敵対メチャキライヤ�
 UID:25tuSH2C4Uo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【弾き語り歌枠】なんとなくミスチル多めに歌う【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=kX0Qg2Y0z14
-DURATION:PT2H
-DTSTART:20230819T110000Z
-SUMMARY:⚙律可: 【弾き語り歌枠】なんとなくミスチル多めに歌う【律可/ホロスターズ】#りつすた
-UID:kX0Qg2Y0z14
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【STREET FIGHTER6】勝ちたい…8/19【荒咬オウガ /ホロスターズ】\nhttps://www.youtube.com/watch?v=tkiMW6UfjgA
-DURATION:PT2H
-DTSTART:20230819T120000Z
-SUMMARY:荒咬オウガ: 【STREET FIGHTER6】勝ちたい…8/19【荒咬オウガ /ホロスターズ】
-UID:tkiMW6UfjgA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 カメラ枠 】んめぇナポリタン作って口の周りを汚していきたい2023夏【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=Mi1hFRnOzP4
-DURATION:PT2H
-DTSTART:20230819T120000Z
-SUMMARY:影山シエン: 【 カメラ枠 】んめぇナポリタン作って口の周りを汚していきたい2023夏【影山シエン/ホロスターズ】
-UID:Mi1hFRnOzP4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】お題募集深夜トーク【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=W7eCx1yc88o
-DURATION:PT2H
-DTSTART:20230820T130000Z
-SUMMARY:荒咬オウガ: 【雑談】お題募集深夜トーク【荒咬オウガ/ホロスターズ】
-UID:W7eCx1yc88o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Crimson Snow】みやびに勧められたホラゲをやる！withみやび【岸堂天真/花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=qLPJDgDLX4A
-DURATION:PT2H
-DTSTART:20230819T070000Z
-SUMMARY:🦔💨岸堂天真: 【Crimson Snow】みやびに勧められたホラゲをやる！withみやび【岸堂天真/花咲みやび/ホロスターズ】
-UID:qLPJDgDLX4A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談ほのかに歌】OGYA  / アステル\nhttps://www.youtube.com/watch?v=9tQ3M1mOj8Y
-DURATION:PT2H
-DTSTART:20230819T164500Z
-SUMMARY:🎭アステル・レダ: 【雑談ほのかに歌】OGYA  / アステル
-UID:9tQ3M1mOj8Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【緊急歌枠】俺は配信を休まない！！！歌枠やる！！すぐ終わる！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=w0l1HMu1mrU
-DURATION:PT2H
-DTSTART:20230820T132500Z
-SUMMARY:🦔💨岸堂天真: 【緊急歌枠】俺は配信を休まない！！！歌枠やる！！すぐ終わる！【岸堂天真/ホロスターズ】
-UID:w0l1HMu1mrU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:アラサーVtuberが老いを感じた瞬間TOP3がヤバいｗｗｗ #shorts #vtuber #ホロスターズ #あるある\nhttps://www.youtube.com/watch?v=sEqaKRXd7XA
-DURATION:PT2H
-DTSTART:20230819T130203Z
-SUMMARY:緋崎ガンマ: アラサーVtuberが老いを感じた瞬間TOP3がヤバいｗｗｗ #shorts #vtuber #ホロスターズ #あるある
-UID:sEqaKRXd7XA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 オフコラボ 】ハユンくんとキムチ作ってたべる！！！【 水無世燐央 / ハユン / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=EmloSmd_7FM
-DURATION:PT2H
-DTSTART:20230819T080000Z
-SUMMARY:水無世燐央: 【 オフコラボ 】ハユンくんとキムチ作ってたべる！！！【 水無世燐央 / ハユン / UPROAR!! / アップロー / ホロスターズ 】
-UID:EmloSmd_7FM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【かぞえ飯】みやびくんがお米かぞえたいらしいです!!!【花咲みやび/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=HT-yQQJyPBA
-DURATION:PT2H
-DTSTART:20230819T130000Z
-SUMMARY:🍕アルランディス: 【かぞえ飯】みやびくんがお米かぞえたいらしいです!!!【花咲みやび/アルランディス/ホロスターズ】
-UID:HT-yQQJyPBA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【あつ森】またしても数か月ぶりの上陸で何も覚えていないみやび【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=RCx0EQILVRc
 DURATION:PT2H
 DTSTART:20230820T140000Z
@@ -116,11 +46,18 @@ SUMMARY:夜十神封魔: クマフェスでオールステージカンストな�
 UID:elWaYcSIfj0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:配信4年目で行われた恐ろしいポン #shorts #VTuber #ホロスターズ #天神子兎音\nhttps://www.youtube.com/watch?v=oqPWCDaYBDE
+DESCRIPTION:【雑談】お題募集深夜トーク【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=W7eCx1yc88o
 DURATION:PT2H
-DTSTART:20230819T030025Z
-SUMMARY:🍕アルランディス: 配信4年目で行われた恐ろしいポン #shorts #VTuber #ホロスターズ #天神子兎音
-UID:oqPWCDaYBDE
+DTSTART:20230820T130000Z
+SUMMARY:荒咬オウガ: 【雑談】お題募集深夜トーク【荒咬オウガ/ホロスターズ】
+UID:W7eCx1yc88o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談ほのかに歌】OGYA  / アステル\nhttps://www.youtube.com/watch?v=9tQ3M1mOj8Y
+DURATION:PT2H
+DTSTART:20230819T164500Z
+SUMMARY:🎭アステル・レダ: 【雑談ほのかに歌】OGYA  / アステル
+UID:9tQ3M1mOj8Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【東方獣王園】やっと遊べる！！東方新作プレイするぞ！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=rR2BhcNamAs
@@ -128,6 +65,20 @@ DURATION:PT2H
 DTSTART:20230820T050000Z
 SUMMARY:🍕アルランディス: 【東方獣王園】やっと遊べる！！東方新作プレイするぞ！【アルランディス/ホロスターズ】
 UID:rR2BhcNamAs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:おやすみ歌枠 その80538【奏手イヅル】\nhttps://www.youtube.com/watch?v=kkXKjl_H9ow
+DURATION:PT2H
+DTSTART:20230820T150000Z
+SUMMARY:🎸奏手イヅル: おやすみ歌枠 その80538【奏手イヅル】
+UID:kkXKjl_H9ow
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【緊急歌枠】俺は配信を休まない！！！歌枠やる！！すぐ終わる！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=w0l1HMu1mrU
+DURATION:PT2H
+DTSTART:20230820T132500Z
+SUMMARY:🦔💨岸堂天真: 【緊急歌枠】俺は配信を休まない！！！歌枠やる！！すぐ終わる！【岸堂天真/ホロスターズ】
+UID:w0l1HMu1mrU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:膝の皿強打してベイブレードみたいになるやつ #shorts #Vtuber #mocopi #ホロスターズ\nhttps://www.youtube.com/watch?v=ZGDdlW1-RPc
