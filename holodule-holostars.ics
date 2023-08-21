@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Apex Legends】えぺまつりに向けて【律可/パカエル/瀬尾カザリ/ホロスターズ】 #えぺまつり\nhttps://www.youtube.com/watch?v=NAbe7itffFY
-DURATION:PT2H
-DTSTART:20230820T080500Z
-SUMMARY:⚙律可: 【Apex Legends】えぺまつりに向けて【律可/パカエル/瀬尾カザリ/ホロスターズ】 #えぺまつり
-UID:NAbe7itffFY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 PHOGS! 】告知あり！犬になって協力！？【 水無世燐央 / 緋崎ガンマ / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=ZsxlhZSVXKY
 DURATION:PT2H
 DTSTART:20230820T090000Z
 SUMMARY:水無世燐央: 【 PHOGS! 】告知あり！犬になって協力！？【 水無世燐央 / 緋崎ガンマ / UPROAR!! / アップロー / ホロスターズ 】
 UID:ZsxlhZSVXKY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Apex Legends】えぺまつりに向けて【律可/パカエル/瀬尾カザリ/ホロスターズ】 #えぺまつり\nhttps://www.youtube.com/watch?v=NAbe7itffFY
+DURATION:PT2H
+DTSTART:20230820T080500Z
+SUMMARY:⚙律可: 【Apex Legends】えぺまつりに向けて【律可/パカエル/瀬尾カザリ/ホロスターズ】 #えぺまつり
+UID:NAbe7itffFY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【羊毛フェルト】ちいかわのうさぎさんを羊毛で作りたい！ -カメラ付き- 【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=S6p2wrMMgEo
@@ -53,18 +53,25 @@ SUMMARY:水無世燐央: 【歌ってみた】絶対敵対メチャキライヤ�
 UID:25tuSH2C4Uo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【雑談】お題募集深夜トーク【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=W7eCx1yc88o
+DURATION:PT2H
+DTSTART:20230820T130000Z
+SUMMARY:荒咬オウガ: 【雑談】お題募集深夜トーク【荒咬オウガ/ホロスターズ】
+UID:W7eCx1yc88o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【イケメン】右左どっち？選んだ設定でイラスト描いてみた！ #shorts #vtuber #イラスト #illustration #右左どっち\nhttps://www.youtube.com/watch?v=pb-lpA9o3HY
+DURATION:PT2H
+DTSTART:20230821T091228Z
+SUMMARY:緋崎ガンマ: 【イケメン】右左どっち？選んだ設定でイラスト描いてみた！ #shorts #vtuber #イラスト #illustration #右左どっち
+UID:pb-lpA9o3HY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【緊急歌枠】俺は配信を休まない！！！歌枠やる！！すぐ終わる！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=w0l1HMu1mrU
 DURATION:PT2H
 DTSTART:20230820T132500Z
 SUMMARY:🦔💨岸堂天真: 【緊急歌枠】俺は配信を休まない！！！歌枠やる！！すぐ終わる！【岸堂天真/ホロスターズ】
 UID:w0l1HMu1mrU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【イラスト】ぽんぽこ24で共演した新時代の皆の集合絵描かさせていただく！！【#緋崎ガンマ / #ホロスターズ / #vtuber #イラスト 】\nhttps://www.youtube.com/watch?v=8HQa77VFUSc
-DURATION:PT2H
-DTSTART:20230821T110000Z
-SUMMARY:緋崎ガンマ: 【イラスト】ぽんぽこ24で共演した新時代の皆の集合絵描かさせていただく！！【#緋崎ガンマ / #ホロスターズ / #vtuber #イラスト 】
-UID:8HQa77VFUSc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ごりらなぞなぞ 握りつぶされたフルーツはなーんだ　#shorts #Vtuber #ホロスターズ #筋トレ\nhttps://www.youtube.com/watch?v=2P-PmibACSE
@@ -116,17 +123,17 @@ SUMMARY:🍷夕刻ロベル: 【シャニマス】桑山千雪さん。好きで
 UID:-XcPjaYJqVw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】お題募集深夜トーク【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=W7eCx1yc88o
-DURATION:PT2H
-DTSTART:20230820T130000Z
-SUMMARY:荒咬オウガ: 【雑談】お題募集深夜トーク【荒咬オウガ/ホロスターズ】
-UID:W7eCx1yc88o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:膝の皿強打してベイブレードみたいになるやつ #shorts #Vtuber #mocopi #ホロスターズ\nhttps://www.youtube.com/watch?v=ZGDdlW1-RPc
 DURATION:PT2H
 DTSTART:20230820T023030Z
 SUMMARY:🍕アルランディス: 膝の皿強打してベイブレードみたいになるやつ #shorts #Vtuber #mocopi #ホロスターズ
 UID:ZGDdlW1-RPc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【イラスト】ぽんぽこ24で共演した新時代の皆の集合絵描かさせていただく！！【#緋崎ガンマ / #ホロスターズ / #vtuber #イラスト 】\nhttps://www.youtube.com/watch?v=8HQa77VFUSc
+DURATION:PT2H
+DTSTART:20230821T110000Z
+SUMMARY:緋崎ガンマ: 【イラスト】ぽんぽこ24で共演した新時代の皆の集合絵描かさせていただく！！【#緋崎ガンマ / #ホロスターズ / #vtuber #イラスト 】
+UID:8HQa77VFUSc
 END:VEVENT
 END:VCALENDAR
