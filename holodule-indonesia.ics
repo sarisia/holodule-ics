@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Overwatch 2】very calm and chill (?) OVERWATCH RANK SESSION\nhttps://www.youtube.com/watch?v=BtQ2OpJ_WUo
-DURATION:PT2H
-DTSTART:20230820T150000Z
-SUMMARY:Zeta: 【Overwatch 2】very calm and chill (?) OVERWATCH RANK SESSION
-UID:BtQ2OpJ_WUo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#vivID_CRUISE】OFF Collab Singing Party with the Crews! + Announcement!\nhttps://www.youtube.com/watch?v=bWrGSkSHJYQ
 DURATION:PT2H
 DTSTART:20230821T120000Z
@@ -23,6 +16,20 @@ DURATION:PT2H
 DTSTART:20230820T233000Z
 SUMMARY:Kaela: 【PEJUANG SENIN】#53 great Monday🌞【Kaela's Monday Warrior】
 UID:dwP1Jw44Zqw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Overwatch 2】very calm and chill (?) OVERWATCH RANK SESSION\nhttps://www.youtube.com/watch?v=BtQ2OpJ_WUo
+DURATION:PT2H
+DTSTART:20230820T150000Z
+SUMMARY:Zeta: 【Overwatch 2】very calm and chill (?) OVERWATCH RANK SESSION
+UID:BtQ2OpJ_WUo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【REBROADCAST // UNARCHIVE KARAOKE】SINGING ON A TREADMILL【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=Q1Y9_unM-0M
+DURATION:PT2H
+DTSTART:20230821T070000Z
+SUMMARY:Ollie: 【REBROADCAST // UNARCHIVE KARAOKE】SINGING ON A TREADMILL【Hololive ID 2nd Generation】
+UID:Q1Y9_unM-0M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HoloCure】#34 100%.【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=DIGkA5c7_mg
