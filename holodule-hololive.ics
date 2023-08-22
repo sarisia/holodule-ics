@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:2nd Solo Live 「"Shout in Crisis"」より 「Stellar Stellar」\nhttps://www.youtube.com/watch?v=36kzdT0zWV4
+DURATION:PT2H
+DTSTART:20230822T090004Z
+SUMMARY:☄星街すいせい: 2nd Solo Live 「"Shout in Crisis"」より 「Stellar Stellar」
+UID:36kzdT0zWV4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:流石に尖りすぎたかも #ホロぐら #ホロライブ #ホロライブ #ホロライブID\nhttps://www.youtube.com/watch?v=5U3WzAiXdis
 DURATION:PT2H
 DTSTART:20230821T100004Z
@@ -172,18 +179,18 @@ SUMMARY:👯兎田ぺこら: 【最終回】クリアまで！メタルギアソ
 UID:Hk-GkV2gjts
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【対談コラボ】#ディスコードショッキング ～今月のゲスト：戌亥とこ様～【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=fQSmmQ5V0fA
-DURATION:PT2H
-DTSTART:20230822T110000Z
-SUMMARY:博衣こより: 【対談コラボ】#ディスコードショッキング ～今月のゲスト：戌亥とこ様～【博衣こより/ホロライブ】
-UID:fQSmmQ5V0fA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【面白まとめ】まったく仕事ができない警察官のVCRGTA奮闘記 総集編🔥【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=Y5MYdAdgAJU
 DURATION:PT2H
 DTSTART:20230822T110000Z
 SUMMARY:ラプラス: 【面白まとめ】まったく仕事ができない警察官のVCRGTA奮闘記 総集編🔥【ラプラス・ダークネス/ホロライブ】
 UID:Y5MYdAdgAJU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【対談コラボ】#ディスコードショッキング ～今月のゲスト：戌亥とこ様～【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=fQSmmQ5V0fA
+DURATION:PT2H
+DTSTART:20230822T110000Z
+SUMMARY:博衣こより: 【対談コラボ】#ディスコードショッキング ～今月のゲスト：戌亥とこ様～【博衣こより/ホロライブ】
+UID:fQSmmQ5V0fA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Slay the Spire】一回力尽きたら即終了！いけるとこまで頑張ってみる！【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=FG1nQgiUxOo
