@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【DOKUPON KINGDOM CONNECT】WE'RE GOING ON AN ADVENTURE IN DOKUPON KINGDOM!!【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=k02V3zJSXg8
+DESCRIPTION:【Cardboard Town】just reached home to grind new achievements【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=Kbt2-ZhMbXE
 DURATION:PT2H
-DTSTART:20230823T070000Z
-SUMMARY:Ollie: 【DOKUPON KINGDOM CONNECT】WE'RE GOING ON AN ADVENTURE IN DOKUPON KINGDOM!!【Hololive ID 2nd Gen】
-UID:k02V3zJSXg8
+DTSTART:20230822T143000Z
+SUMMARY:Kaela: 【Cardboard Town】just reached home to grind new achievements【Kaela Kovalskia / hololiveID】
+UID:Kbt2-ZhMbXE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PHASMOPHOBIA w/ZOMILY】PROMISE ME YOU GUYS WILL CARRY...?【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=IkiWQ6UUsEU
+DURATION:PT2H
+DTSTART:20230824T110000Z
+SUMMARY:Ollie: 【PHASMOPHOBIA w/ZOMILY】PROMISE ME YOU GUYS WILL CARRY...?【Hololive ID 2nd Generation】
+UID:IkiWQ6UUsEU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FREETALK + DONO READ】DIBACA SAMPE TUNTAS SETUNTAS2NYA!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=m9BdkS1ZnKU
+DURATION:PT2H
+DTSTART:20230824T090000Z
+SUMMARY:Ollie: 【FREETALK + DONO READ】DIBACA SAMPE TUNTAS SETUNTAS2NYA!!【Hololive Indonesia 2nd Gen】
+UID:m9BdkS1ZnKU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【OKAMI】I THINK WE'RE HALFWAY THROUGH #13【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=s0hLJndk-7M
@@ -16,48 +30,6 @@ DURATION:PT2H
 DTSTART:20230823T020000Z
 SUMMARY:Ollie: 【OKAMI】I THINK WE'RE HALFWAY THROUGH #13【Hololive ID 2nd Gen】
 UID:s0hLJndk-7M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Phasmophobia】oh scary ghosts with special guest【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=-BsztDLEhyE
-DURATION:PT2H
-DTSTART:20230821T141500Z
-SUMMARY:Kaela: 【Phasmophobia】oh scary ghosts with special guest【Kaela Kovalskia / hololiveID】
-UID:-BsztDLEhyE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#vivID_CRUISE】OFF Collab Singing Party with the Crews! + Announcement!\nhttps://www.youtube.com/watch?v=bWrGSkSHJYQ
-DURATION:PT2H
-DTSTART:20230821T120000Z
-SUMMARY:🔮Moona: 【#vivID_CRUISE】OFF Collab Singing Party with the Crews! + Announcement!
-UID:bWrGSkSHJYQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【hololiveId】Chill Afternoon Talk with Risu【Ayunda Risu】\nhttps://www.youtube.com/watch?v=eIQLBDntUm0
-DURATION:PT2H
-DTSTART:20230821T064500Z
-SUMMARY:🐿Risu: 【hololiveId】Chill Afternoon Talk with Risu【Ayunda Risu】
-UID:eIQLBDntUm0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PEJUANG SENIN】#53 great Monday🌞【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=dwP1Jw44Zqw
-DURATION:PT2H
-DTSTART:20230820T233000Z
-SUMMARY:Kaela: 【PEJUANG SENIN】#53 great Monday🌞【Kaela's Monday Warrior】
-UID:dwP1Jw44Zqw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Baldur's Gate 3】I'M VERY EXCITED FOR THIS GAME U DON'T UNDERSTAND\nhttps://www.youtube.com/watch?v=5bAm6iNeH-I
-DURATION:PT2H
-DTSTART:20230821T130000Z
-SUMMARY:Zeta: 【Baldur's Gate 3】I'M VERY EXCITED FOR THIS GAME U DON'T UNDERSTAND
-UID:5bAm6iNeH-I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Overwatch 2】very calm and chill (?) OVERWATCH RANK SESSION\nhttps://www.youtube.com/watch?v=BtQ2OpJ_WUo
-DURATION:PT2H
-DTSTART:20230820T150000Z
-SUMMARY:Zeta: 【Overwatch 2】very calm and chill (?) OVERWATCH RANK SESSION
-UID:BtQ2OpJ_WUo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Cyberpunk】Let me grind some so i can upgrade【Moona】\nhttps://www.youtube.com/watch?v=pmUmTf5xIrI
@@ -74,17 +46,17 @@ SUMMARY:Ollie: 【MINECRAFT】TIME TO BUILD A BRIDGE 【Hololive Indonesia 2nd G
 UID:8QJr3FtCC2E
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【DOKUPON KINGDOM CONNECT】WE'RE GOING ON AN ADVENTURE IN DOKUPON KINGDOM!!【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=k02V3zJSXg8
+DURATION:PT2H
+DTSTART:20230823T070000Z
+SUMMARY:Ollie: 【DOKUPON KINGDOM CONNECT】WE'RE GOING ON AN ADVENTURE IN DOKUPON KINGDOM!!【Hololive ID 2nd Gen】
+UID:k02V3zJSXg8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#2【Phoenix Wright: Ace Attorney】AHHHHHHHHHHHHHHHH (SPOILER ALERT)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=UuOmQrmmG2M
 DURATION:PT2H
 DTSTART:20230822T143000Z
 SUMMARY:Reine: #2【Phoenix Wright: Ace Attorney】AHHHHHHHHHHHHHHHH (SPOILER ALERT)【Pavolia Reine/hololiveID 2nd gen】
 UID:UuOmQrmmG2M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Cardboard Town】just reached home to grind new achievements【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=Kbt2-ZhMbXE
-DURATION:PT2H
-DTSTART:20230822T143000Z
-SUMMARY:Kaela: 【Cardboard Town】just reached home to grind new achievements【Kaela Kovalskia / hololiveID】
-UID:Kbt2-ZhMbXE
 END:VEVENT
 END:VCALENDAR
