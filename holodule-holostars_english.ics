@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Holostars EN Rust - S2】2 - There's Never Enough Scrap\nhttps://www.youtube.com/watch?v=NHnude2CVaI
+DURATION:PT2H
+DTSTART:20230826T003000Z
+SUMMARY:Shinri: 【Holostars EN Rust - S2】2 - There's Never Enough Scrap
+UID:NHnude2CVaI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロスタ RUST SEASON 2】LET'S GET RUSTY BABY!【DAY 1】\nhttps://www.youtube.com/watch?v=8n6a0cd915k
+DURATION:PT2H
+DTSTART:20230825T100000Z
+SUMMARY:Hakka: 【#ホロスタ RUST SEASON 2】LET'S GET RUSTY BABY!【DAY 1】
+UID:8n6a0cd915k
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【RESIDENT EVIL 6】How Long Till This Jester Caves For Ada\nhttps://www.youtube.com/watch?v=FGtH8cpN_ew
 DURATION:PT2H
 DTSTART:20230825T230000Z
@@ -11,11 +25,11 @@ SUMMARY:Flayon: 【RESIDENT EVIL 6】How Long Till This Jester Caves For Ada
 UID:FGtH8cpN_ew
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Holostars EN Rust - S2】2 - There's Never Enough Scrap\nhttps://www.youtube.com/watch?v=NHnude2CVaI
+DESCRIPTION:【KARAOKE】Felt like singing today :3\nhttps://www.youtube.com/watch?v=UtfaatakJ5U
 DURATION:PT2H
-DTSTART:20230826T003000Z
-SUMMARY:Shinri: 【Holostars EN Rust - S2】2 - There's Never Enough Scrap
-UID:NHnude2CVaI
+DTSTART:20230826T023000Z
+SUMMARY:Syrios: 【KARAOKE】Felt like singing today :3
+UID:UtfaatakJ5U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Holostars EN Rust - S2】1 - Once more into the Island of Tetanus\nhttps://www.youtube.com/watch?v=7PxBbPRgyAA
@@ -30,13 +44,6 @@ DURATION:PT2H
 DTSTART:20230825T210000Z
 SUMMARY:Bettel: [Thief Simulator] THE BETTSTER RIDES AGAIN #gavisbettel #holotempus
 UID:DjfQgW8_R2E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロスタ RUST SEASON 2】LET'S GET RUSTY BABY!【DAY 1】\nhttps://www.youtube.com/watch?v=8n6a0cd915k
-DURATION:PT2H
-DTSTART:20230825T100000Z
-SUMMARY:Hakka: 【#ホロスタ RUST SEASON 2】LET'S GET RUSTY BABY!【DAY 1】
-UID:8n6a0cd915k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロスタRUST Season 2】START!!!【DAY 1】\nhttps://www.youtube.com/watch?v=EGFayZuysQw
