@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【RESIDENT EVIL 6】How Long Till This Jester Caves For Ada\nhttps://www.youtube.com/watch?v=FGtH8cpN_ew
-DURATION:PT2H
-DTSTART:20230825T230000Z
-SUMMARY:Flayon: 【RESIDENT EVIL 6】How Long Till This Jester Caves For Ada
-UID:FGtH8cpN_ew
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Holostars EN Rust - S2】2 - There's Never Enough Scrap\nhttps://www.youtube.com/watch?v=NHnude2CVaI
 DURATION:PT2H
 DTSTART:20230826T003000Z
 SUMMARY:Shinri: 【Holostars EN Rust - S2】2 - There's Never Enough Scrap
 UID:NHnude2CVaI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロスタRUST】S2【Day 2】The Oil...Didn't Work. Still Rusty.\nhttps://www.youtube.com/watch?v=vlU-0lzsDlk
-DURATION:PT2H
-DTSTART:20230826T140000Z
-SUMMARY:Flayon: 【#ホロスタRUST】S2【Day 2】The Oil...Didn't Work. Still Rusty.
-UID:vlU-0lzsDlk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロスタ RUST SEASON 2】Sorry\, it was an oxidant\, I did not mean to kill you!【DAY 2】\nhttps://www.youtube.com/watch?v=FDOkosRSQUg
@@ -39,6 +25,20 @@ SUMMARY:Altare: BUILDING MY UNDERGROUND CASTLE【#ホロスタRUST Season 2】�
 UID:LWq1otEXFQA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【RESIDENT EVIL 6】How Long Till This Jester Caves For Ada\nhttps://www.youtube.com/watch?v=FGtH8cpN_ew
+DURATION:PT2H
+DTSTART:20230825T230000Z
+SUMMARY:Flayon: 【RESIDENT EVIL 6】How Long Till This Jester Caves For Ada
+UID:FGtH8cpN_ew
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロスタRUST】S2【Day 2】The Oil...Didn't Work. Still Rusty.\nhttps://www.youtube.com/watch?v=vlU-0lzsDlk
+DURATION:PT2H
+DTSTART:20230826T140000Z
+SUMMARY:Flayon: 【#ホロスタRUST】S2【Day 2】The Oil...Didn't Work. Still Rusty.
+UID:vlU-0lzsDlk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Holostars EN Rust - S2】3 - Just... 3000(?)... more... scrap....\nhttps://www.youtube.com/watch?v=3rUca3Z9wyM
 DURATION:PT2H
 DTSTART:20230827T010000Z
@@ -51,5 +51,12 @@ DURATION:PT2H
 DTSTART:20230825T210000Z
 SUMMARY:Bettel: [Thief Simulator] THE BETTSTER RIDES AGAIN #gavisbettel #holotempus
 UID:DjfQgW8_R2E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARMORED CORE 6】I Still Can't Believe It's Here?!\nhttps://www.youtube.com/watch?v=geqyVsIn4WU
+DURATION:PT2H
+DTSTART:20230826T233000Z
+SUMMARY:Flayon: 【ARMORED CORE 6】I Still Can't Believe It's Here?!
+UID:geqyVsIn4WU
 END:VEVENT
 END:VCALENDAR
