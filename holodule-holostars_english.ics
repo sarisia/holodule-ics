@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ARMORED CORE 6】I Still Can't Believe It's Here?!\nhttps://www.youtube.com/watch?v=geqyVsIn4WU
+DESCRIPTION:【#ホロスタ RUST SEASON 2】RUST RUST RUST RUST RUST RUST RUST RUST RUST RUST !【DAY 3】\nhttps://www.youtube.com/watch?v=T3Ha_wEsLYg
 DURATION:PT2H
-DTSTART:20230826T233000Z
-SUMMARY:Flayon: 【ARMORED CORE 6】I Still Can't Believe It's Here?!
-UID:geqyVsIn4WU
+DTSTART:20230828T001500Z
+SUMMARY:Hakka: 【#ホロスタ RUST SEASON 2】RUST RUST RUST RUST RUST RUST RUST RUST RUST RUST !【DAY 3】
+UID:T3Ha_wEsLYg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[Mobile Ad Games!] 99% OF PEOPLE CAN'T SOLVE THESE GAMES #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=EZSHPFBIX8w
@@ -32,13 +32,6 @@ SUMMARY:Shinri: 【Holostars EN Rust - S2】4 - If you want it... then you'll ha
 UID:sAvhoHIPm60
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Holostars EN Rust - S2】3 - Just... 3000(?)... more... scrap....\nhttps://www.youtube.com/watch?v=3rUca3Z9wyM
-DURATION:PT2H
-DTSTART:20230827T010000Z
-SUMMARY:Shinri: 【Holostars EN Rust - S2】3 - Just... 3000(?)... more... scrap....
-UID:3rUca3Z9wyM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:PVP: ON!!!【#ホロスタRUST Season 2】【DAY 3】\nhttps://www.youtube.com/watch?v=P5iJ6R0jg8s
 DURATION:PT2H
 DTSTART:20230827T130000Z
@@ -51,5 +44,19 @@ DURATION:PT2H
 DTSTART:20230827T150000Z
 SUMMARY:Flayon: 【#ホロスタRUST】S2【Day 3】I Finally Have A Home! It'll Be Destroyed..?
 UID:PKCMMZzakk0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Holostars EN Rust - S2】3 - Just... 3000(?)... more... scrap....\nhttps://www.youtube.com/watch?v=3rUca3Z9wyM
+DURATION:PT2H
+DTSTART:20230827T010000Z
+SUMMARY:Shinri: 【Holostars EN Rust - S2】3 - Just... 3000(?)... more... scrap....
+UID:3rUca3Z9wyM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARMORED CORE 6】I Still Can't Believe It's Here?!\nhttps://www.youtube.com/watch?v=geqyVsIn4WU
+DURATION:PT2H
+DTSTART:20230826T233000Z
+SUMMARY:Flayon: 【ARMORED CORE 6】I Still Can't Believe It's Here?!
+UID:geqyVsIn4WU
 END:VEVENT
 END:VCALENDAR
