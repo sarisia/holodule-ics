@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【配信予定地】【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=u141P3PKCM0
+DURATION:PT2H
+DTSTART:20230904T080000Z
+SUMMARY:🍷夕刻ロベル: 【配信予定地】【夕刻ロベル/ホロスターズ】
+UID:u141P3PKCM0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#darkanddarker 】土曜深夜は寝ないでゲームしたほうがええ！【岸堂天真/奏手イヅル/羽継烏有/ホロスターズ】\nhttps://www.youtube.com/watch?v=yUeuN2k0CEI
 DURATION:PT2H
 DTSTART:20230902T162000Z
