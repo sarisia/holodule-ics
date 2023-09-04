@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【HIGURASHI: WHEN THEY CRY HOU】CH.1 FINALE THINGY\nhttps://www.youtube.com/watch?v=H73_52og2jo
+DESCRIPTION:【Zatsudan】Thank you for coming to my meet n greet!!!\nhttps://www.youtube.com/watch?v=umSSAdSLOkI
 DURATION:PT2H
-DTSTART:20230903T233000Z
-SUMMARY:Flayon: 【HIGURASHI: WHEN THEY CRY HOU】CH.1 FINALE THINGY
-UID:H73_52og2jo
+DTSTART:20230904T030000Z
+SUMMARY:Syrios: 【Zatsudan】Thank you for coming to my meet n greet!!!
+UID:umSSAdSLOkI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARMORED CORE 6】IT HERE\nhttps://www.youtube.com/watch?v=CPI3F3jHjaE
@@ -18,11 +18,11 @@ SUMMARY:Flayon: 【ARMORED CORE 6】IT HERE
 UID:CPI3F3jHjaE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【VALORANT】Just some late night chill Valorant\nhttps://www.youtube.com/watch?v=VDqGrsYt9kY
+DESCRIPTION:【HIGURASHI: WHEN THEY CRY HOU】CH.1 FINALE THINGY\nhttps://www.youtube.com/watch?v=H73_52og2jo
 DURATION:PT2H
-DTSTART:20230903T110000Z
-SUMMARY:Syrios: 【VALORANT】Just some late night chill Valorant
-UID:VDqGrsYt9kY
+DTSTART:20230903T233000Z
+SUMMARY:Flayon: 【HIGURASHI: WHEN THEY CRY HOU】CH.1 FINALE THINGY
+UID:H73_52og2jo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Fall Guys】WHERE WE DROPPING BOIS (Playing w/Hakkitos!)\nhttps://www.youtube.com/watch?v=aoCVnIFMr-I
@@ -30,5 +30,12 @@ DURATION:PT2H
 DTSTART:20230904T000000Z
 SUMMARY:Hakka: 【Fall Guys】WHERE WE DROPPING BOIS (Playing w/Hakkitos!)
 UID:aoCVnIFMr-I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VALORANT】Just some late night chill Valorant\nhttps://www.youtube.com/watch?v=VDqGrsYt9kY
+DURATION:PT2H
+DTSTART:20230903T110000Z
+SUMMARY:Syrios: 【VALORANT】Just some late night chill Valorant
+UID:VDqGrsYt9kY
 END:VEVENT
 END:VCALENDAR
