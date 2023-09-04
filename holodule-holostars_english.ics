@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:The Great TEMPUS Heist\nhttps://www.youtube.com/watch?v=aybpFThwFkw
+DURATION:PT2H
+DTSTART:20230905T010000Z
+SUMMARY:Altare: The Great TEMPUS Heist
+UID:aybpFThwFkw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Zatsudan】Thank you for coming to my meet n greet!!!\nhttps://www.youtube.com/watch?v=umSSAdSLOkI
 DURATION:PT2H
 DTSTART:20230904T030000Z
