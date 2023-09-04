@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【HOLO FAN GAMES】Playing Hololive Games All Day!\nhttps://www.youtube.com/watch?v=i04X--AniTo
-DURATION:PT2H
-DTSTART:20230905T020000Z
-SUMMARY:Calli: 【HOLO FAN GAMES】Playing Hololive Games All Day!
-UID:i04X--AniTo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DON DON!!】 Japan Trip Zatsu + Superchat Reading !\nhttps://www.youtube.com/watch?v=idTwgcaiwvk
 DURATION:PT2H
 DTSTART:20230904T010000Z
@@ -23,13 +16,6 @@ DURATION:PT2H
 DTSTART:20230904T030001Z
 SUMMARY:Baelz: 【preYdator SUMMER】thunder thighs #preYdator #hololivesummer2023 #shorts
 UID:2ONnsr-xGVM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MARIO KART 8 DELUXE】Training Arc with Viewers!\nhttps://www.youtube.com/watch?v=6YY-uLuUGOo
-DURATION:PT2H
-DTSTART:20230903T230000Z
-SUMMARY:Bijou: 【MARIO KART 8 DELUXE】Training Arc with Viewers!
-UID:6YY-uLuUGOo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:How Shiori Sees Advent #holoadvent  #shorts  #vtuber  #shiorinonair #debut\nhttps://www.youtube.com/watch?v=N2tTx419i3E
@@ -46,13 +32,6 @@ SUMMARY:Kiara: 【HOTLINE MIAMI 2】MONKEY SCREAMS AAAAA #kfp #キアライブ
 UID:vMmk20VfWgE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Cooking Simulator | I'm a Chef for the Most Unsanitary Restaurant Ever\nhttps://www.youtube.com/watch?v=NsSapW3nrbU
-DURATION:PT2H
-DTSTART:20230905T020000Z
-SUMMARY:Shiori: Cooking Simulator | I'm a Chef for the Most Unsanitary Restaurant Ever
-UID:NsSapW3nrbU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:PINEAPPLE Dance!!! My new song🍍✨ #shorts\nhttps://www.youtube.com/watch?v=OSllkL5j2rM
 DURATION:PT2H
 DTSTART:20230904T145140Z
@@ -60,25 +39,18 @@ SUMMARY:Kiara: PINEAPPLE Dance!!! My new song🍍✨ #shorts
 UID:OSllkL5j2rM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ARMORED CORE VI】Later\, Buddy... #4\nhttps://www.youtube.com/watch?v=AoDPCohdN0w
-DURATION:PT2H
-DTSTART:20230904T010009Z
-SUMMARY:Calli: 【ARMORED CORE VI】Later\, Buddy... #4
-UID:AoDPCohdN0w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DRAWING】 DON'T PANIC\nhttps://www.youtube.com/watch?v=G9kSUSi1ZMA
-DURATION:PT2H
-DTSTART:20230904T210000Z
-SUMMARY:Ina: 【DRAWING】 DON'T PANIC
-UID:G9kSUSi1ZMA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪THOSE PHONE GAMES≫ My Excitement Is Unmeasurable.\nhttps://www.youtube.com/watch?v=j-yrIIWkpPo
 DURATION:PT2H
 DTSTART:20230904T010000Z
 SUMMARY:Baelz: ≪THOSE PHONE GAMES≫ My Excitement Is Unmeasurable.
 UID:j-yrIIWkpPo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Portal 2 Co Op】With Mumei! Big Brain Buddies!\nhttps://www.youtube.com/watch?v=sjiqwh9sbUo
+DURATION:PT2H
+DTSTART:20230905T020000Z
+SUMMARY:Bijou: 【Portal 2 Co Op】With Mumei! Big Brain Buddies!
+UID:sjiqwh9sbUo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ELDEN RING】Crystal Rock Challenge! - #6\nhttps://www.youtube.com/watch?v=Z-BkTJQHu7s
@@ -102,10 +74,45 @@ SUMMARY:FUWAMOCO: 【SUPERCHAT READING】superchat reading super finale 💕🐾
 UID:sFXHXJ8JLeI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【MARIO KART 8 DELUXE】Training Arc with Viewers!\nhttps://www.youtube.com/watch?v=6YY-uLuUGOo
+DURATION:PT2H
+DTSTART:20230903T230000Z
+SUMMARY:Bijou: 【MARIO KART 8 DELUXE】Training Arc with Viewers!
+UID:6YY-uLuUGOo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Cooking Simulator | I'm a Chef for the Most Unsanitary Restaurant Ever\nhttps://www.youtube.com/watch?v=NsSapW3nrbU
+DURATION:PT2H
+DTSTART:20230905T020000Z
+SUMMARY:Shiori: Cooking Simulator | I'm a Chef for the Most Unsanitary Restaurant Ever
+UID:NsSapW3nrbU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARMORED CORE VI】Later\, Buddy... #4\nhttps://www.youtube.com/watch?v=AoDPCohdN0w
+DURATION:PT2H
+DTSTART:20230904T010009Z
+SUMMARY:Calli: 【ARMORED CORE VI】Later\, Buddy... #4
+UID:AoDPCohdN0w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DRAWING】 DON'T PANIC\nhttps://www.youtube.com/watch?v=G9kSUSi1ZMA
+DURATION:PT2H
+DTSTART:20230904T210000Z
+SUMMARY:Ina: 【DRAWING】 DON'T PANIC
+UID:G9kSUSi1ZMA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【FUWAMOCO MORNING】episode 15 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=5Qc-PJ_ewGU
 DURATION:PT2H
 DTSTART:20230904T150000Z
 SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 15 🐾 #FWMCMORNING
 UID:5Qc-PJ_ewGU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HOLO FAN GAMES】Playing Hololive Games All Day!\nhttps://www.youtube.com/watch?v=i04X--AniTo
+DURATION:PT2H
+DTSTART:20230905T020000Z
+SUMMARY:Calli: 【HOLO FAN GAMES】Playing Hololive Games All Day!
+UID:i04X--AniTo
 END:VEVENT
 END:VCALENDAR
