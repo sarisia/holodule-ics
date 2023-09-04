@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 漢字でGO 】にほんごたべません【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=GimGb9d8g9Q
+DESCRIPTION:【 SoS\; A Wonderful Life 】THE PROPOSAL! WILL SHE SAY YES?!【 SPOILER ALERT! 】\nhttps://www.youtube.com/watch?v=o49crKV5vEg
 DURATION:PT2H
-DTSTART:20230903T120000Z
-SUMMARY:🎨Iofi: 【 漢字でGO 】にほんごたべません【 iofi / hololiveID 】
-UID:GimGb9d8g9Q
+DTSTART:20230904T100000Z
+SUMMARY:🎨Iofi: 【 SoS\; A Wonderful Life 】THE PROPOSAL! WILL SHE SAY YES?!【 SPOILER ALERT! 】
+UID:o49crKV5vEg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【WEDDING STREAM】 YOU ARE INVITED 【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=1t215gusXA4
+DURATION:PT2H
+DTSTART:20230905T000000Z
+SUMMARY:Ollie: 【WEDDING STREAM】 YOU ARE INVITED 【Hololive Indonesia 2nd Gen】
+UID:1t215gusXA4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:what even is this\nhttps://www.youtube.com/watch?v=Dy1itOfYUCk
@@ -30,33 +37,5 @@ DURATION:PT2H
 DTSTART:20230904T120000Z
 SUMMARY:🎨Iofi: 【 ioSalon 】Two Lovely Ladies Wanted a New Hairstyle【 iofi / hololiveID 】
 UID:bb0UhvBPvP0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【I Am Future: Cozy Apocalypse Survival】testing out new cozy game【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=pUvSekZzEro
-DURATION:PT2H
-DTSTART:20230903T144500Z
-SUMMARY:Kaela: 【I Am Future: Cozy Apocalypse Survival】testing out new cozy game【Kaela Kovalskia / hololiveID】
-UID:pUvSekZzEro
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 SoS\; A Wonderful Life 】THE PROPOSAL! WILL SHE SAY YES?!【 SPOILER ALERT! 】\nhttps://www.youtube.com/watch?v=o49crKV5vEg
-DURATION:PT2H
-DTSTART:20230904T100000Z
-SUMMARY:🎨Iofi: 【 SoS\; A Wonderful Life 】THE PROPOSAL! WILL SHE SAY YES?!【 SPOILER ALERT! 】
-UID:o49crKV5vEg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【WEDDING STREAM】 YOU ARE INVITED 【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=1t215gusXA4
-DURATION:PT2H
-DTSTART:20230905T000000Z
-SUMMARY:Ollie: 【WEDDING STREAM】 YOU ARE INVITED 【Hololive Indonesia 2nd Gen】
-UID:1t215gusXA4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Supadonoreading】Reading 3D Supadonos & Mooooreee - Part 1?【hololive ID 2nd Gen | Anya Melfissa】\nhttps://www.youtube.com/watch?v=EFYgI94PURU
-DURATION:PT2H
-DTSTART:20230903T130000Z
-SUMMARY:Anya: 【Supadonoreading】Reading 3D Supadonos & Mooooreee - Part 1?【hololive ID 2nd Gen | Anya Melfissa】
-UID:EFYgI94PURU
 END:VEVENT
 END:VCALENDAR
