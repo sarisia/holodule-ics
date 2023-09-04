@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【I Am Future: Cozy Apocalypse Survival】testing out new cozy game【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=pUvSekZzEro
+DESCRIPTION:【 SoS\; A Wonderful Life 】THE PROPOSAL! WILL SHE SAY YES?!【 SPOILER ALERT! 】\nhttps://www.youtube.com/watch?v=o49crKV5vEg
 DURATION:PT2H
-DTSTART:20230903T144500Z
-SUMMARY:Kaela: 【I Am Future: Cozy Apocalypse Survival】testing out new cozy game【Kaela Kovalskia / hololiveID】
-UID:pUvSekZzEro
+DTSTART:20230904T100000Z
+SUMMARY:🎨Iofi: 【 SoS\; A Wonderful Life 】THE PROPOSAL! WILL SHE SAY YES?!【 SPOILER ALERT! 】
+UID:o49crKV5vEg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 漢字でGO 】にほんごたべません【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=GimGb9d8g9Q
@@ -30,5 +30,19 @@ DURATION:PT2H
 DTSTART:20230904T130000Z
 SUMMARY:Anya: 【Supadonoreading】Reading 3D Supadonos & Mooooreee - Part 2【hololive ID 2nd Gen | Anya Melfissa】
 UID:H9FWxZoaLmo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 ioSalon 】Two Lovely Ladies Wanted a New Hairstyle【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=bb0UhvBPvP0
+DURATION:PT2H
+DTSTART:20230904T120000Z
+SUMMARY:🎨Iofi: 【 ioSalon 】Two Lovely Ladies Wanted a New Hairstyle【 iofi / hololiveID 】
+UID:bb0UhvBPvP0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【I Am Future: Cozy Apocalypse Survival】testing out new cozy game【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=pUvSekZzEro
+DURATION:PT2H
+DTSTART:20230903T144500Z
+SUMMARY:Kaela: 【I Am Future: Cozy Apocalypse Survival】testing out new cozy game【Kaela Kovalskia / hololiveID】
+UID:pUvSekZzEro
 END:VEVENT
 END:VCALENDAR
