@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:[MV] DEAD WORLD - Official Music Video [#holoTEMPUS]\nhttps://www.youtube.com/watch?v=RBagwiUOkgY
+DURATION:PT2H
+DTSTART:20230908T023000Z
+SUMMARY:ENHOLOSTARS: [MV] DEAD WORLD - Official Music Video [#holoTEMPUS]
+UID:RBagwiUOkgY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The TRUTH about HOLOSTARS they don't want you to know... [#TEMPUSWeek: Animated ]\nhttps://www.youtube.com/watch?v=X9LqxjwVydE
+DURATION:PT2H
+DTSTART:20230909T024000Z
+SUMMARY:Shinri: The TRUTH about HOLOSTARS they don't want you to know... [#TEMPUSWeek: Animated ]
+UID:X9LqxjwVydE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【TEMPUS WEEK DAY 5 】TempRIZZ: Matchmaking Game\nhttps://www.youtube.com/watch?v=9NYfE7OX3vo
 DURATION:PT2H
 DTSTART:20230909T010000Z
@@ -18,11 +32,18 @@ SUMMARY:Flayon: 【TEMPUS WEEK DAY 4 】What if TEMPUS but a dating sim?
 UID:6ZrclSF2UlI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[MV] DEAD WORLD - Official Music Video [#holoTEMPUS]\nhttps://www.youtube.com/watch?v=RBagwiUOkgY
+DESCRIPTION:YAGOO dragged me out of the jungle for THIS?! [#TEMPUSWeek: Animated ]\nhttps://www.youtube.com/watch?v=aOkpvx3ElG8
 DURATION:PT2H
-DTSTART:20230908T023000Z
-SUMMARY:ENHOLOSTARS: [MV] DEAD WORLD - Official Music Video [#holoTEMPUS]
-UID:RBagwiUOkgY
+DTSTART:20230909T023000Z
+SUMMARY:Hakka: YAGOO dragged me out of the jungle for THIS?! [#TEMPUSWeek: Animated ]
+UID:aOkpvx3ElG8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Girls love a MAN that can cook? Watch this [#TEMPUSWeek : Animated!]\nhttps://www.youtube.com/watch?v=RfNnDXPTEOI
+DURATION:PT2H
+DTSTART:20230909T023500Z
+SUMMARY:Syrios: Girls love a MAN that can cook? Watch this [#TEMPUSWeek : Animated!]
+UID:RfNnDXPTEOI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:RANKED COUNTER STRIKE 2 BETA\nhttps://www.youtube.com/watch?v=KN63VQ67OH0
@@ -30,5 +51,12 @@ DURATION:PT2H
 DTSTART:20230908T170000Z
 SUMMARY:Altare: RANKED COUNTER STRIKE 2 BETA
 UID:KN63VQ67OH0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[HOLOSTARS DAY 6] TEMPUS vs TEMPURA\nhttps://www.youtube.com/watch?v=fT7dI-LmBWw
+DURATION:PT2H
+DTSTART:20230910T010000Z
+SUMMARY:Shinri: [HOLOSTARS DAY 6] TEMPUS vs TEMPURA
+UID:fT7dI-LmBWw
 END:VEVENT
 END:VCALENDAR
