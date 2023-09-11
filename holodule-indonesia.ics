@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 ioSalon 】Lovely New Customer and Regular Costumer【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=cGBbWdQCgao
-DURATION:PT2H
-DTSTART:20230911T120000Z
-SUMMARY:🎨Iofi: 【 ioSalon 】Lovely New Customer and Regular Costumer【 iofi / hololiveID 】
-UID:cGBbWdQCgao
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【hololiveId】#4 DREDGE : I AM DREDGE【Ayunda Risu】\nhttps://www.youtube.com/watch?v=3KPklcZTFdc
 DURATION:PT2H
 DTSTART:20230911T090000Z
 SUMMARY:🐿Risu: 【hololiveId】#4 DREDGE : I AM DREDGE【Ayunda Risu】
 UID:3KPklcZTFdc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Starfield】Next Stop: Outer Space!【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=SVLpSoF2KbA
+DURATION:PT2H
+DTSTART:20230912T130000Z
+SUMMARY:Anya: 【Starfield】Next Stop: Outer Space!【hololive ID 2nd Generation | Anya Melfissa】
+UID:SVLpSoF2KbA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【YEAH! YOU WANT "THOSE GAMES\," RIGHT? SO HERE YOU GO! NOW\, LET'S SEE YOU CLEAR THEM!】 【HoloID 2nd】\nhttps://www.youtube.com/watch?v=yxM-z1lxpQw
@@ -39,17 +39,24 @@ SUMMARY:Kobo: 【Cooking Simulator】 LET THE CHEF COOK (ENGLISH ONLY!!!)
 UID:3VzV-7Vdzy4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Starfield】Next Stop: Outer Space!【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=SVLpSoF2KbA
-DURATION:PT2H
-DTSTART:20230912T130000Z
-SUMMARY:Anya: 【Starfield】Next Stop: Outer Space!【hololive ID 2nd Generation | Anya Melfissa】
-UID:SVLpSoF2KbA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Mario Party Superstars】can i win this time? 👉👈 【holoh3ro OFF-COLLAB】\nhttps://www.youtube.com/watch?v=HqboSxUOabo
 DURATION:PT2H
 DTSTART:20230911T083000Z
 SUMMARY:Kaela: 【Mario Party Superstars】can i win this time? 👉👈 【holoh3ro OFF-COLLAB】
 UID:HqboSxUOabo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【No Man's Sky】First time play!!!【holoID】\nhttps://www.youtube.com/watch?v=yLW5QTMP3o0
+DURATION:PT2H
+DTSTART:20230912T020000Z
+SUMMARY:🔮Moona: 【No Man's Sky】First time play!!!【holoID】
+UID:yLW5QTMP3o0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 ioSalon 】Lovely New Customer and Regular Costumer【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=cGBbWdQCgao
+DURATION:PT2H
+DTSTART:20230911T120000Z
+SUMMARY:🎨Iofi: 【 ioSalon 】Lovely New Customer and Regular Costumer【 iofi / hololiveID 】
+UID:cGBbWdQCgao
 END:VEVENT
 END:VCALENDAR
