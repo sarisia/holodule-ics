@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【RFN2】チームD練習！※声帯治療中のため小声【律可/シュート/ありけん/Sasatikk/赤見かるび/ホロスターズ】\nhttps://www.youtube.com/watch?v=XXogaKwSW_8
+DURATION:PT2H
+DTSTART:20230911T100000Z
+SUMMARY:⚙律可: 【RFN2】チームD練習！※声帯治療中のため小声【律可/シュート/ありけん/Sasatikk/赤見かるび/ホロスターズ】
+UID:XXogaKwSW_8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Dark and Darker】烏有とのサシコラボ、実は初【花咲みやび/羽継烏有/ホロスターズ】\nhttps://www.youtube.com/watch?v=XlDoXA0o0dY
 DURATION:PT2H
 DTSTART:20230910T140000Z
@@ -11,39 +18,11 @@ SUMMARY:🌺花咲みやび: 【Dark and Darker】烏有とのサシコラボ、
 UID:XlDoXA0o0dY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Valorant】俺はイモータルの器か？【奏手イヅル w/ 水無瀬】\nhttps://www.youtube.com/watch?v=URG2XTHBQlk
-DURATION:PT2H
-DTSTART:20230910T123000Z
-SUMMARY:🎸奏手イヅル: 【Valorant】俺はイモータルの器か？【奏手イヅル w/ 水無瀬】
-UID:URG2XTHBQlk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】恐らく少しだけ配信をするぞ【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=mX1jvUNCBYY
-DURATION:PT2H
-DTSTART:20230910T054000Z
-SUMMARY:🍷夕刻ロベル: 【雑談】恐らく少しだけ配信をするぞ【夕刻ロベル/ホロスターズ】
-UID:mX1jvUNCBYY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #darkanddarker   】這い寄るローグさん！！/w みやびさん【#vtuber / #羽継烏有 / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=vQs-aYAY9bg
-DURATION:PT2H
-DTSTART:20230910T140000Z
-SUMMARY:羽継烏有: 【 #darkanddarker   】這い寄るローグさん！！/w みやびさん【#vtuber / #羽継烏有 / #ホロスターズ 】
-UID:vQs-aYAY9bg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 Parasocial パラソーシャル 】今作の主人公は…配信者？！【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=ADcVXUwi1nY
 DURATION:PT2H
 DTSTART:20230911T100000Z
 SUMMARY:水無世燐央: 【 Parasocial パラソーシャル 】今作の主人公は…配信者？！【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】
 UID:ADcVXUwi1nY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:懺悔タイムｗｗ　#shorts #ロベルないとめあ\nhttps://www.youtube.com/watch?v=Z9guacsoJsI
-DURATION:PT2H
-DTSTART:20230910T121214Z
-SUMMARY:🍷夕刻ロベル: 懺悔タイムｗｗ　#shorts #ロベルないとめあ
-UID:Z9guacsoJsI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RFN2】チームD練習！※声帯治療中のため小声【律可/シュート/ありけん/Sasatikk/赤見かるび/ホロスターズ】\nhttps://www.youtube.com/watch?v=AzaTPLZBQb8
@@ -74,11 +53,53 @@ SUMMARY:🦔💨岸堂天真: 【#ホロスタrust 】 みんなのおすすめ�
 UID:3QXk-UaBVpM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Valorant】俺はイモータルの器か？【奏手イヅル w/ 水無瀬】\nhttps://www.youtube.com/watch?v=URG2XTHBQlk
+DURATION:PT2H
+DTSTART:20230910T123000Z
+SUMMARY:🎸奏手イヅル: 【Valorant】俺はイモータルの器か？【奏手イヅル w/ 水無瀬】
+UID:URG2XTHBQlk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】恐らく少しだけ配信をするぞ【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=mX1jvUNCBYY
+DURATION:PT2H
+DTSTART:20230910T054000Z
+SUMMARY:🍷夕刻ロベル: 【雑談】恐らく少しだけ配信をするぞ【夕刻ロベル/ホロスターズ】
+UID:mX1jvUNCBYY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #darkanddarker   】這い寄るローグさん！！/w みやびさん【#vtuber / #羽継烏有 / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=vQs-aYAY9bg
+DURATION:PT2H
+DTSTART:20230910T140000Z
+SUMMARY:羽継烏有: 【 #darkanddarker   】這い寄るローグさん！！/w みやびさん【#vtuber / #羽継烏有 / #ホロスターズ 】
+UID:vQs-aYAY9bg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARMORED CORE VI FIRES OF RUBICON】全部破壊してやるよ!!!【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=c1i0TcbvopY
+DURATION:PT2H
+DTSTART:20230911T110000Z
+SUMMARY:🍕アルランディス: 【ARMORED CORE VI FIRES OF RUBICON】全部破壊してやるよ!!!【アルランディス/ホロスターズ】
+UID:c1i0TcbvopY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:懺悔タイムｗｗ　#shorts #ロベルないとめあ\nhttps://www.youtube.com/watch?v=Z9guacsoJsI
+DURATION:PT2H
+DTSTART:20230910T121214Z
+SUMMARY:🍷夕刻ロベル: 懺悔タイムｗｗ　#shorts #ロベルないとめあ
+UID:Z9guacsoJsI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【朝活雑談】月曜で憂鬱なみんなをパリピが少しでも元気にする配信！！！！！【#緋崎ガンマ / #ホロスターズ / #vtuber 】\nhttps://www.youtube.com/watch?v=mmEY-W3PNA8
 DURATION:PT2H
 DTSTART:20230910T230000Z
 SUMMARY:緋崎ガンマ: 【朝活雑談】月曜で憂鬱なみんなをパリピが少しでも元気にする配信！！！！！【#緋崎ガンマ / #ホロスターズ / #vtuber 】
 UID:mmEY-W3PNA8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【LOST BALLOONS】風船運びのロベル【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=gze3PoR_xCI
+DURATION:PT2H
+DTSTART:20230911T080000Z
+SUMMARY:🍷夕刻ロベル: 【LOST BALLOONS】風船運びのロベル【夕刻ロベル/ホロスターズ】
+UID:gze3PoR_xCI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 歌枠 】歌いたくなっちゃった！【 水無世燐央 / UPROAR!! / アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=zr8-BjTVX1A
@@ -93,12 +114,5 @@ DURATION:PT2H
 DTSTART:20230910T140000Z
 SUMMARY:荒咬オウガ: 【イラスト】ラクガキする枠【荒咬オウガ/ホロスターズ】
 UID:elup0E2xOx8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【LOST BALLOONS】風船運びのロベル【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=gze3PoR_xCI
-DURATION:PT2H
-DTSTART:20230911T080000Z
-SUMMARY:🍷夕刻ロベル: 【LOST BALLOONS】風船運びのロベル【夕刻ロベル/ホロスターズ】
-UID:gze3PoR_xCI
 END:VEVENT
 END:VCALENDAR
