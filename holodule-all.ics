@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【メン限】９月最初のメン限やるよい！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=fCLKxZ41W8o
+DURATION:PT2H
+DTSTART:20230912T130000Z
+SUMMARY:⚓湊あくあ: 【メン限】９月最初のメン限やるよい！【湊あくあ/ホロライブ】
+UID:fCLKxZ41W8o
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 #ioLyfe 】Chit Chat and Draw with @NerissaRavencroft 【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=Uhw5pm5eC8o
 DURATION:PT2H
 DTSTART:20230913T020000Z
@@ -18,13 +25,6 @@ SUMMARY:Gura: Kyoufuu All Back (強風オールバック) / Gawr Gura Cover
 UID:qMQ4P-vI3JI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【】【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=K4AlolTrAQE
-DURATION:PT2H
-DTSTART:20230912T110000Z
-SUMMARY:🏴☠宝鐘マリン: 【】【ホロライブ/宝鐘マリン】
-UID:K4AlolTrAQE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【3RD ANNIVERSARY】Improvise. Adapt. Overcome. +SPECIAL REVEAL!【3周年記念】#3YearsOfKFP\nhttps://www.youtube.com/watch?v=k8Og58J0WDY
 DURATION:PT2H
 DTSTART:20230912T180000Z
@@ -32,11 +32,11 @@ SUMMARY:Kiara: 【3RD ANNIVERSARY】Improvise. Adapt. Overcome. +SPECIAL REVEAL!
 UID:k8Og58J0WDY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Starfield】Blind play !! Are we in space?!\nhttps://www.youtube.com/watch?v=1LdWsR7T_7M
+DESCRIPTION:【】【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=K4AlolTrAQE
 DURATION:PT2H
-DTSTART:20230911T180000Z
-SUMMARY:Zeta: 【Starfield】Blind play !! Are we in space?!
-UID:1LdWsR7T_7M
+DTSTART:20230912T110000Z
+SUMMARY:🏴☠宝鐘マリン: 【】【ホロライブ/宝鐘マリン】
+UID:K4AlolTrAQE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Cooking Simulator】 LET THE CHEF COOK (ENGLISH ONLY!!!)\nhttps://www.youtube.com/watch?v=3VzV-7Vdzy4
@@ -44,6 +44,13 @@ DURATION:PT2H
 DTSTART:20230910T223000Z
 SUMMARY:Kobo: 【Cooking Simulator】 LET THE CHEF COOK (ENGLISH ONLY!!!)
 UID:3VzV-7Vdzy4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Starfield】Blind play !! Are we in space?!\nhttps://www.youtube.com/watch?v=1LdWsR7T_7M
+DURATION:PT2H
+DTSTART:20230911T180000Z
+SUMMARY:Zeta: 【Starfield】Blind play !! Are we in space?!
+UID:1LdWsR7T_7M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Terraria】Going to hell frfr (Open VC and world) 🎼\nhttps://www.youtube.com/watch?v=DAt0redvoJY
@@ -177,13 +184,6 @@ DURATION:PT2H
 DTSTART:20230912T130000Z
 SUMMARY:Altare: 💥I GOT THAT HI-FI RUSH!!!💥
 UID:OKe6KGd-wfw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:歌を覚えて録音してみんなに晒す\nhttps://www.youtube.com/watch?v=HNWWNSh8JxQ
-DURATION:PT2H
-DTSTART:20230912T090000Z
-SUMMARY:桃鈴ねね: 歌を覚えて録音してみんなに晒す
-UID:HNWWNSh8JxQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VALORANT】お久しぶりの認定戦ですッ！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=9XXVpU36ESc
@@ -438,11 +438,11 @@ SUMMARY:水無世燐央: 【 Parasocial パラソーシャル 】今作の主人
 UID:ADcVXUwi1nY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Minecraft: Hololive Server Tour with #holoadvent\nhttps://www.youtube.com/watch?v=G2HixbW2deU
+DESCRIPTION:【パワプロ】「こんこよ高校校歌」歌ってみた～ #こよなつ甲子園 2023想い出と共に～ #Shorts 【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=KCaj-0XnBzY
 DURATION:PT2H
-DTSTART:20230912T010000Z
-SUMMARY:Shiori: Minecraft: Hololive Server Tour with #holoadvent
-UID:G2HixbW2deU
+DTSTART:20230912T090010Z
+SUMMARY:博衣こより: 【パワプロ】「こんこよ高校校歌」歌ってみた～ #こよなつ甲子園 2023想い出と共に～ #Shorts 【博衣こより/ホロライブ】
+UID:KCaj-0XnBzY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】依頼が入ったぞおお！準備だ！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=7bUo49GoN1E
@@ -459,11 +459,11 @@ SUMMARY:沙花叉クロヱ: 【 パラソーシャル 】新人Vtuberの沙花�
 UID:erVcXSSdX3s
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【イラスト】執事ってカッコよさそうなんでなってみていいですか！？！？！！【#緋崎ガンマ / #ホロスターズ / #vtuber #イラスト 】\nhttps://www.youtube.com/watch?v=a_JS3tzimJU
+DESCRIPTION:Minecraft: Hololive Server Tour with #holoadvent\nhttps://www.youtube.com/watch?v=G2HixbW2deU
 DURATION:PT2H
-DTSTART:20230913T060000Z
-SUMMARY:緋崎ガンマ: 【イラスト】執事ってカッコよさそうなんでなってみていいですか！？！？！！【#緋崎ガンマ / #ホロスターズ / #vtuber #イラスト 】
-UID:a_JS3tzimJU
+DTSTART:20230912T010000Z
+SUMMARY:Shiori: Minecraft: Hololive Server Tour with #holoadvent
+UID:G2HixbW2deU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【初配信】#らでん第二回初配信　はじめまして、らでんです #hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=JKo4dix7-CI
@@ -471,6 +471,13 @@ DURATION:PT2H
 DTSTART:20230911T140000Z
 SUMMARY:儒烏風亭らでん: 【初配信】#らでん第二回初配信　はじめまして、らでんです #hololiveDEV_IS #ReGLOSS
 UID:JKo4dix7-CI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【イラスト】執事ってカッコよさそうなんでなってみていいですか！？！？！！【#緋崎ガンマ / #ホロスターズ / #vtuber #イラスト 】\nhttps://www.youtube.com/watch?v=a_JS3tzimJU
+DURATION:PT2H
+DTSTART:20230913T060000Z
+SUMMARY:緋崎ガンマ: 【イラスト】執事ってカッコよさそうなんでなってみていいですか！？！？！！【#緋崎ガンマ / #ホロスターズ / #vtuber #イラスト 】
+UID:a_JS3tzimJU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【NEW OUTFIT】new skin! #shark101\nhttps://www.youtube.com/watch?v=aPS85patDaQ
@@ -629,7 +636,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【企画雑談】自作フォント を作ってみたい！！【やってみたいこと100選！ #一条莉々華/ホロライブデバイス ReGLOSS】\nhttps://www.youtube.com/watch?v=YYPhTrAyUxU
 DURATION:PT2H
-DTSTART:20230912T100000Z
+DTSTART:20230912T120000Z
 SUMMARY:一条莉々華: 【企画雑談】自作フォント を作ってみたい！！【やってみたいこと100選！ #一条莉々華/ホロライブデバイス ReGLOSS】
 UID:YYPhTrAyUxU
 END:VEVENT
