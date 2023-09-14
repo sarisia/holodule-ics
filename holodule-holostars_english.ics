@@ -4,39 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:[Week in Review] I ACTUALLY HAVE THINGS TO TALK ABOUT! #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=Ky3y-nnZkl4
-DURATION:PT2H
-DTSTART:20230912T210000Z
-SUMMARY:Bettel: [Week in Review] I ACTUALLY HAVE THINGS TO TALK ABOUT! #gavisbettel #holotempus
-UID:Ky3y-nnZkl4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:🛡️The End of a Hero's Journey🛡️【Zelda: Ocarina of Time】【FINALE】\nhttps://www.youtube.com/watch?v=_6w9mzsb8Ss
 DURATION:PT2H
 DTSTART:20230913T230000Z
 SUMMARY:Altare: 🛡️The End of a Hero's Journey🛡️【Zelda: Ocarina of Time】【FINALE】
 UID:_6w9mzsb8Ss
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:POST TEMPUS WEEK: I'm tired\, everyone is tired!\nhttps://www.youtube.com/watch?v=lyV7s2KThek
-DURATION:PT2H
-DTSTART:20230912T230000Z
-SUMMARY:Flayon: POST TEMPUS WEEK: I'm tired\, everyone is tired!
-UID:lyV7s2KThek
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DMC5】MY FINGERS SUFFER AGAIN\, BUT I AM MOTIVATED\nhttps://www.youtube.com/watch?v=R4zMn2fV2n4
-DURATION:PT2H
-DTSTART:20230914T000000Z
-SUMMARY:Hakka: 【DMC5】MY FINGERS SUFFER AGAIN\, BUT I AM MOTIVATED
-UID:R4zMn2fV2n4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PIKMIN 4】Coming back to this cute lil game #3\nhttps://www.youtube.com/watch?v=1fVkl3iuCR4
-DURATION:PT2H
-DTSTART:20230913T021500Z
-SUMMARY:Syrios: 【PIKMIN 4】Coming back to this cute lil game #3
-UID:1fVkl3iuCR4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Zatsudan】It's been so long...\nhttps://www.youtube.com/watch?v=08cLe4CmVjM
@@ -46,17 +18,17 @@ SUMMARY:Shinri: 【Zatsudan】It's been so long...
 UID:08cLe4CmVjM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Pizza Tower】EN LA HAKKA PIZZERIA!\nhttps://www.youtube.com/watch?v=VPFBUfcetQk
-DURATION:PT2H
-DTSTART:20230913T000000Z
-SUMMARY:Hakka: 【Pizza Tower】EN LA HAKKA PIZZERIA!
-UID:VPFBUfcetQk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DAVE THE DIVER】Dad\, why do scuba divers roll backwards off the boat?\nhttps://www.youtube.com/watch?v=hWx3jnlXBNY
 DURATION:PT2H
 DTSTART:20230914T141500Z
 SUMMARY:Hakka: 【DAVE THE DIVER】Dad\, why do scuba divers roll backwards off the boat?
 UID:hWx3jnlXBNY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DMC5】MY FINGERS SUFFER AGAIN\, BUT I AM MOTIVATED\nhttps://www.youtube.com/watch?v=R4zMn2fV2n4
+DURATION:PT2H
+DTSTART:20230914T000000Z
+SUMMARY:Hakka: 【DMC5】MY FINGERS SUFFER AGAIN\, BUT I AM MOTIVATED
+UID:R4zMn2fV2n4
 END:VEVENT
 END:VCALENDAR
