@@ -4,27 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【DanMachi - Battle Chronicle #DanChro】Adventures! PVP! NEW SUMMER EVENT?!👀【hololive | Anya Melfissa】\nhttps://www.youtube.com/watch?v=jXZ-vCsCSWg
-DURATION:PT2H
-DTSTART:20230915T120000Z
-SUMMARY:Anya: 【DanMachi - Battle Chronicle #DanChro】Adventures! PVP! NEW SUMMER EVENT?!👀【hololive | Anya Melfissa】
-UID:jXZ-vCsCSWg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:THE GAME TITLE IS TOO LONG.\nhttps://www.youtube.com/watch?v=sXaLAfEkl7I
-DURATION:PT2H
-DTSTART:20230914T150000Z
-SUMMARY:Zeta: THE GAME TITLE IS TOO LONG.
-UID:sXaLAfEkl7I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Phasmophobia】i phasmo\, you sleb【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=k8XQswVtSgE
-DURATION:PT2H
-DTSTART:20230913T203000Z
-SUMMARY:Kaela: 【Phasmophobia】i phasmo\, you sleb【Kaela Kovalskia / hololiveID】
-UID:k8XQswVtSgE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Rusty Lake: Roots】POINT & CLICK! Exploring... What is the Tree of Life?【Pavolia Reine/hololiveID】\nhttps://www.youtube.com/watch?v=TnhRXlD60mw
 DURATION:PT2H
 DTSTART:20230914T120000Z
@@ -51,5 +30,33 @@ DURATION:PT2H
 DTSTART:20230915T003000Z
 SUMMARY:Kaela: 【Epic Chef】#2 too much for a chef【Kaela Kovalskia / hololiveID】
 UID:yzCOqhCvc2A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:THE GAME TITLE IS TOO LONG.\nhttps://www.youtube.com/watch?v=sXaLAfEkl7I
+DURATION:PT2H
+DTSTART:20230914T150000Z
+SUMMARY:Zeta: THE GAME TITLE IS TOO LONG.
+UID:sXaLAfEkl7I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Phasmophobia】i phasmo\, you sleb【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=k8XQswVtSgE
+DURATION:PT2H
+DTSTART:20230913T203000Z
+SUMMARY:Kaela: 【Phasmophobia】i phasmo\, you sleb【Kaela Kovalskia / hololiveID】
+UID:k8XQswVtSgE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DanMachi - Battle Chronicle #DanChro】Adventures! PVP! NEW SUMMER EVENT?!👀【hololive | Anya Melfissa】\nhttps://www.youtube.com/watch?v=jXZ-vCsCSWg
+DURATION:PT2H
+DTSTART:20230915T120000Z
+SUMMARY:Anya: 【DanMachi - Battle Chronicle #DanChro】Adventures! PVP! NEW SUMMER EVENT?!👀【hololive | Anya Melfissa】
+UID:jXZ-vCsCSWg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Amnesia: The Bunker】 SEREM! KITA HARUS NGUMPET DARI MONSTER INI!\nhttps://www.youtube.com/watch?v=FSezUGbI7WU
+DURATION:PT2H
+DTSTART:20230915T113000Z
+SUMMARY:Kobo: 【Amnesia: The Bunker】 SEREM! KITA HARUS NGUMPET DARI MONSTER INI!
+UID:FSezUGbI7WU
 END:VEVENT
 END:VCALENDAR
