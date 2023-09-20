@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 Rebo Nyunda 】Desas Desus Kisah Horor di Tanah Sunda【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=ylRFDNLs6do
-DURATION:PT2H
-DTSTART:20230920T120000Z
-SUMMARY:🎨Iofi: 【 Rebo Nyunda 】Desas Desus Kisah Horor di Tanah Sunda【 iofi / hololiveID 】
-UID:ylRFDNLs6do
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 911 Operator 】911\, What's Your Emergency?【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=OmRtxRduHIQ
 DURATION:PT2H
 DTSTART:20230919T120000Z
@@ -39,17 +32,31 @@ SUMMARY:Reine: #3【Phoenix Wright: Ace Attorney】MY TV SUPERHERO CAN'T BE THIS
 UID:zkkdVpP09Mc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Delivering Hope】lets check the new updates!【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=q2oucEZdxWA
-DURATION:PT2H
-DTSTART:20230918T220000Z
-SUMMARY:Kaela: 【Delivering Hope】lets check the new updates!【Kaela Kovalskia / hololiveID】
-UID:q2oucEZdxWA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【holoID Tier List】Our Immortality? Superpower? holoID LORES Tier List【hololive ID | Anya Melfissa】\nhttps://www.youtube.com/watch?v=C9rJ9jR3jHg
 DURATION:PT2H
 DTSTART:20230920T060000Z
 SUMMARY:Anya: 【holoID Tier List】Our Immortality? Superpower? holoID LORES Tier List【hololive ID | Anya Melfissa】
 UID:C9rJ9jR3jHg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Rebo Nyunda 】Desas Desus Kisah Horor di Tanah Sunda【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=ylRFDNLs6do
+DURATION:PT2H
+DTSTART:20230920T120000Z
+SUMMARY:🎨Iofi: 【 Rebo Nyunda 】Desas Desus Kisah Horor di Tanah Sunda【 iofi / hololiveID 】
+UID:ylRFDNLs6do
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#4【Phoenix Wright: Ace Attorney】*SLORPS**FROWNS**POUTS**WINS THE TRIAL* (SPOILER ALERT)【hololiveID】\nhttps://www.youtube.com/watch?v=Msh6CDIARQQ
+DURATION:PT2H
+DTSTART:20230920T120000Z
+SUMMARY:Reine: #4【Phoenix Wright: Ace Attorney】*SLORPS**FROWNS**POUTS**WINS THE TRIAL* (SPOILER ALERT)【hololiveID】
+UID:Msh6CDIARQQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Delivering Hope】lets check the new updates!【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=q2oucEZdxWA
+DURATION:PT2H
+DTSTART:20230918T220000Z
+SUMMARY:Kaela: 【Delivering Hope】lets check the new updates!【Kaela Kovalskia / hololiveID】
+UID:q2oucEZdxWA
 END:VEVENT
 END:VCALENDAR
