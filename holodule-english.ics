@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Samsara Room】LET ME OUT With @AnyaMelfissa\nhttps://www.youtube.com/watch?v=t5x_eNpm8JE
-DURATION:PT2H
-DTSTART:20230922T010000Z
-SUMMARY:Kronii: 【Samsara Room】LET ME OUT With @AnyaMelfissa
-UID:t5x_eNpm8JE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【FUWAMOCO ROCK N' RAWR PARTY】showa soul never stops ♪\nhttps://www.youtube.com/watch?v=DjiGIBKoDOo
 DURATION:PT2H
 DTSTART:20230924T010000Z
@@ -25,11 +18,25 @@ SUMMARY:Shiori: 'Secretive' After-School Tutoring: Art & Literature Club
 UID:_6wUT7s4668
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【3D SHOWCASE】oh hi !!! #MOOMin3D\nhttps://www.youtube.com/watch?v=HTgzc9_uAaY
+DURATION:PT2H
+DTSTART:20230924T030000Z
+SUMMARY:Mumei: 【3D SHOWCASE】oh hi !!! #MOOMin3D
+UID:HTgzc9_uAaY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Superchat Catchup】 This kirin is catchin' up\, you better run! (+ secret hitman)\nhttps://www.youtube.com/watch?v=28YMsv7FNe8
 DURATION:PT2H
 DTSTART:20230922T220000Z
 SUMMARY:Fauna: 【Superchat Catchup】 This kirin is catchin' up\, you better run! (+ secret hitman)
 UID:28YMsv7FNe8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ZELDA: OCARINA OF TIME】hey moco-chan listen 🐾\nhttps://www.youtube.com/watch?v=JXSTARay5yw
+DURATION:PT2H
+DTSTART:20230923T010000Z
+SUMMARY:FUWAMOCO: 【ZELDA: OCARINA OF TIME】hey moco-chan listen 🐾
+UID:JXSTARay5yw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GTA4】DOUBLE DLC! Finishing the 1st\, then starting the 2nd! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=M2PM0l75yLw
@@ -44,13 +51,6 @@ DURATION:PT2H
 DTSTART:20230924T000000Z
 SUMMARY:Nerissa: 【Parasocial】Becoming a streamer (again) 🎼
 UID:XF6uTolSvlc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FUWAMOCO MORNING】episode 23 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=RDlng6GMJno
-DURATION:PT2H
-DTSTART:20230922T150000Z
-SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 23 🐾 #FWMCMORNING
-UID:RDlng6GMJno
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ELDEN RING】Crystal Rock Challenge! - #8\nhttps://www.youtube.com/watch?v=fy2-l6KeOAQ
@@ -74,81 +74,11 @@ SUMMARY:Calli: 【Lies of P】this town's finished (part 1)
 UID:6yy66U9NIhQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Superchat Reading】Anniversary Superchats!!!!!!!! PART 2 #kfp #キアライブ\nhttps://www.youtube.com/watch?v=Z1GTX9kQ0Nc
-DURATION:PT2H
-DTSTART:20230921T153000Z
-SUMMARY:Kiara: 【Superchat Reading】Anniversary Superchats!!!!!!!! PART 2 #kfp #キアライブ
-UID:Z1GTX9kQ0Nc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ZELDA: OCARINA OF TIME】hey moco-chan listen 🐾\nhttps://www.youtube.com/watch?v=JXSTARay5yw
-DURATION:PT2H
-DTSTART:20230923T010000Z
-SUMMARY:FUWAMOCO: 【ZELDA: OCARINA OF TIME】hey moco-chan listen 🐾
-UID:JXSTARay5yw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Lies of P】Let's Get Good!  - #2\nhttps://www.youtube.com/watch?v=bYgdacfi8lk
-DURATION:PT2H
-DTSTART:20230921T230000Z
-SUMMARY:Bijou: 【Lies of P】Let's Get Good!  - #2
-UID:bYgdacfi8lk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Movie Night : Rebecca (1940) by Alfred Hitchcock\nhttps://www.youtube.com/watch?v=cZ_WaZLlPp0
-DURATION:PT2H
-DTSTART:20230922T020000Z
-SUMMARY:Shiori: Movie Night : Rebecca (1940) by Alfred Hitchcock
-UID:cZ_WaZLlPp0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Final Fantasy XVI】what sights clive will show you (part 6)\nhttps://www.youtube.com/watch?v=c3mVy3i4PEI
-DURATION:PT2H
-DTSTART:20230922T020000Z
-SUMMARY:Calli: 【Final Fantasy XVI】what sights clive will show you (part 6)
-UID:c3mVy3i4PEI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【THE BACKROOMS: 1998 WITH FUBUKI】please hold our paws\, senpai 💦\nhttps://www.youtube.com/watch?v=WInHbCEsP8o
-DURATION:PT2H
-DTSTART:20230922T030000Z
-SUMMARY:FUWAMOCO: 【THE BACKROOMS: 1998 WITH FUBUKI】please hold our paws\, senpai 💦
-UID:WInHbCEsP8o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪Persona 5 ROYAL≫ ULTIMATE M FOR MARUKI #24 【SPOILERS】\nhttps://www.youtube.com/watch?v=kNJSpEtxQ3I
-DURATION:PT2H
-DTSTART:20230922T010500Z
-SUMMARY:Baelz: ≪Persona 5 ROYAL≫ ULTIMATE M FOR MARUKI #24 【SPOILERS】
-UID:kNJSpEtxQ3I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VAUDEVILLE】Solving an AI murder case! 🎼\nhttps://www.youtube.com/watch?v=9ih6dAx35Xs
-DURATION:PT2H
-DTSTART:20230922T000000Z
-SUMMARY:Nerissa: 【VAUDEVILLE】Solving an AI murder case! 🎼
-UID:9ih6dAx35Xs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【3D SHOWCASE】oh hi !!! #MOOMin3D\nhttps://www.youtube.com/watch?v=HTgzc9_uAaY
-DURATION:PT2H
-DTSTART:20230924T030000Z
-SUMMARY:Mumei: 【3D SHOWCASE】oh hi !!! #MOOMin3D
-UID:HTgzc9_uAaY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Everhood: Anime Girl Keeps Hallucinating A Guitar Battle with a Frog\nhttps://www.youtube.com/watch?v=5HJGBZ8OxzA
 DURATION:PT2H
 DTSTART:20230923T020000Z
 SUMMARY:Shiori: Everhood: Anime Girl Keeps Hallucinating A Guitar Battle with a Frog
 UID:5HJGBZ8OxzA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HITMAN 3】 Hit em with the ol banana wrench wombo combo\nhttps://www.youtube.com/watch?v=sd4yDyOlQWg
-DURATION:PT2H
-DTSTART:20230921T220000Z
-SUMMARY:Fauna: 【HITMAN 3】 Hit em with the ol banana wrench wombo combo
-UID:sd4yDyOlQWg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DRAWING】 INADACEMY SPECIAL #4: CALL IN THE REINFORCEMENTS\nhttps://www.youtube.com/watch?v=ssbrC7l8fWU
