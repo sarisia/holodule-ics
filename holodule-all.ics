@@ -53,18 +53,18 @@ SUMMARY:緋崎ガンマ: 【VALORANT】10万円の最強モニターゲットし
 UID:UP6828b4wzw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Twilight(short ver) / 常闇トワ(official)\nhttps://www.youtube.com/watch?v=U8Pl7dXU280
-DURATION:PT2H
-DTSTART:20230926T121000Z
-SUMMARY:👾常闇トワ: Twilight(short ver) / 常闇トワ(official)
-UID:U8Pl7dXU280
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】配信予定地  【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=jOYEGxzXn9w
 DURATION:PT2H
 DTSTART:20230927T140000Z
 SUMMARY:儒烏風亭らでん: 【雑談】配信予定地  【儒烏風亭らでん #ReGLOSS 】
 UID:jOYEGxzXn9w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Twilight(short ver) / 常闇トワ(official)\nhttps://www.youtube.com/watch?v=U8Pl7dXU280
+DURATION:PT2H
+DTSTART:20230926T121000Z
+SUMMARY:👾常闇トワ: Twilight(short ver) / 常闇トワ(official)
+UID:U8Pl7dXU280
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【LIES OF P】FIN | Does Telling The Truth Really Make You A Real Boy?【Spoiler Warning】#machianxflayon\nhttps://www.youtube.com/watch?v=IEFet1wV-bI
@@ -88,18 +88,18 @@ SUMMARY:Kiara: 【F-ZERO 99】Wanna be my rival? ✨ #kfp #キアライブ
 UID:BQnTC0H_3ho
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#29 【Persona 5 Royal】LADIES MAN Therapy for real (SPOILER ALERT)【Pavolia Reine/hololiveID】\nhttps://www.youtube.com/watch?v=Zi3Zrhk9NdI
-DURATION:PT2H
-DTSTART:20230926T130000Z
-SUMMARY:Reine: #29 【Persona 5 Royal】LADIES MAN Therapy for real (SPOILER ALERT)【Pavolia Reine/hololiveID】
-UID:Zi3Zrhk9NdI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 IQ 】一番やっちゃいけない気がする謎解きIQクイズ【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=EDwCWnW9RXw
 DURATION:PT2H
 DTSTART:20230926T130000Z
 SUMMARY:🌸さくらみこ: 【 IQ 】一番やっちゃいけない気がする謎解きIQクイズ【ホロライブ/さくらみこ】
 UID:EDwCWnW9RXw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#29 【Persona 5 Royal】LADIES MAN Therapy for real (SPOILER ALERT)【Pavolia Reine/hololiveID】\nhttps://www.youtube.com/watch?v=Zi3Zrhk9NdI
+DURATION:PT2H
+DTSTART:20230926T130000Z
+SUMMARY:Reine: #29 【Persona 5 Royal】LADIES MAN Therapy for real (SPOILER ALERT)【Pavolia Reine/hololiveID】
+UID:Zi3Zrhk9NdI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【アーマード・コア6】シリーズ初見 2周目3章～✨【ARMORED CORE VI FIRES OF RUBICON #一条莉々華/hololive DEV_IS ReGLOSS】※ネタバレあり\nhttps://www.youtube.com/watch?v=08ngBt2wmhI
@@ -240,6 +240,13 @@ DURATION:PT2H
 DTSTART:20230926T120000Z
 SUMMARY:👯兎田ぺこら: 【スマブラSP】0.3％!? 先にミュウ出した方が勝ち！！！！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら/紫咲シオン】
 UID:wizJ8byAnEo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【プロセカ】セカイ　VTuberが歌って踊ってみた　定点カメラver.【ホロライブ】\nhttps://www.youtube.com/watch?v=rTjuiBjd234
+DURATION:PT2H
+DTSTART:20230927T090000Z
+SUMMARY:鷹嶺ルイ: 【プロセカ】セカイ　VTuberが歌って踊ってみた　定点カメラver.【ホロライブ】
+UID:rTjuiBjd234
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FUWAMOCO MORNING】episode 25 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=VzT1MBdQsWE
@@ -466,6 +473,13 @@ SUMMARY:Kaela: 【Raft】get some help【Kaela x Bijou / hololive】
 UID:MRHoMxZHsHc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ときめき文房具】バレットジャーナルのススメ【火威青 #hololiveDEV_IS #ReGLOSS 】#01\nhttps://www.youtube.com/watch?v=8tUAtG0JDFA
+DURATION:PT2H
+DTSTART:20230927T110000Z
+SUMMARY:火威青: 【ときめき文房具】バレットジャーナルのススメ【火威青 #hololiveDEV_IS #ReGLOSS 】#01
+UID:8tUAtG0JDFA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Vampire Survivors】バンパイアどこ？【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=TU4lVjg8jw8
 DURATION:PT2H
 DTSTART:20230926T140000Z
@@ -478,13 +492,6 @@ DURATION:PT2H
 DTSTART:20230927T020000Z
 SUMMARY:Shiori: Samsara Room: A Mysterious Girl Awaits Your Reincarnation For the ?th Time
 UID:1KAUnAe_Gf0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ときめき文房具】バレットジャーナルのススメ【火威青 #hololiveDEV_IS #ReGLOSS 】#01\nhttps://www.youtube.com/watch?v=8tUAtG0JDFA
-DURATION:PT2H
-DTSTART:20230927T110000Z
-SUMMARY:火威青: 【ときめき文房具】バレットジャーナルのススメ【火威青 #hololiveDEV_IS #ReGLOSS 】#01
-UID:8tUAtG0JDFA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ホロのこしかけ 27】6周年突入！ReGLOSSにBJに新鮮な9月NEWS！兎化も最終章に！【友人A・えーちゃん】hololive FM\nhttps://www.youtube.com/watch?v=fh4QPDiRIps
