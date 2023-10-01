@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Raft】not a 12 hour stream. just wanna build more in my world ⛵【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=uVRNGfGV59s
+DURATION:PT2H
+DTSTART:20231001T103000Z
+SUMMARY:Kaela: 【Raft】not a 12 hour stream. just wanna build more in my world ⛵【Kaela Kovalskia / hololiveID】
+UID:uVRNGfGV59s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #holoctober 】DAY 1 BEGINS【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=50L_toqgyqE
+DURATION:PT2H
+DTSTART:20231001T120000Z
+SUMMARY:🎨Iofi: 【 #holoctober 】DAY 1 BEGINS【 iofi / hololiveID 】
+UID:50L_toqgyqE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Holoboom】fun minigame!! NO MALDING!\nhttps://www.youtube.com/watch?v=rav8MJvRCLs
 DURATION:PT2H
 DTSTART:20230930T150000Z
@@ -18,17 +32,10 @@ SUMMARY:Anya: 【プロセカ Project Sekai】This Kanade Is So Gorgeous... 3RD 
 UID:u6rjbTDnQ-4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Raft】not a 12 hour stream. just wanna build more in my world ⛵【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=uVRNGfGV59s
+DESCRIPTION:【 #holoctober 】DAY 1 Maid - Speedpaint【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=Wl_ErI1iCAU
 DURATION:PT2H
-DTSTART:20231001T103000Z
-SUMMARY:Kaela: 【Raft】not a 12 hour stream. just wanna build more in my world ⛵【Kaela Kovalskia / hololiveID】
-UID:uVRNGfGV59s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #holoctober 】DAY 1 BEGINS【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=50L_toqgyqE
-DURATION:PT2H
-DTSTART:20231001T120000Z
-SUMMARY:🎨Iofi: 【 #holoctober 】DAY 1 BEGINS【 iofi / hololiveID 】
-UID:50L_toqgyqE
+DTSTART:20231001T145756Z
+SUMMARY:🎨Iofi: 【 #holoctober 】DAY 1 Maid - Speedpaint【 iofi / hololiveID 】
+UID:Wl_ErI1iCAU
 END:VEVENT
 END:VCALENDAR
