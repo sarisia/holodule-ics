@@ -4,32 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Raft】not a 12 hour stream. just wanna build more in my world ⛵【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=uVRNGfGV59s
-DURATION:PT2H
-DTSTART:20231001T103000Z
-SUMMARY:Kaela: 【Raft】not a 12 hour stream. just wanna build more in my world ⛵【Kaela Kovalskia / hololiveID】
-UID:uVRNGfGV59s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #holoctober 】DAY 1 BEGINS【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=50L_toqgyqE
-DURATION:PT2H
-DTSTART:20231001T120000Z
-SUMMARY:🎨Iofi: 【 #holoctober 】DAY 1 BEGINS【 iofi / hololiveID 】
-UID:50L_toqgyqE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:i aim for 11.55 but before 12 is fine too\nhttps://www.youtube.com/watch?v=R0nK_ZRVLg4
 DURATION:PT2H
 DTSTART:20231002T085000Z
 SUMMARY:Kaela: i aim for 11.55 but before 12 is fine too
 UID:R0nK_ZRVLg4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Holoboom】fun minigame!! NO MALDING!\nhttps://www.youtube.com/watch?v=rav8MJvRCLs
-DURATION:PT2H
-DTSTART:20230930T150000Z
-SUMMARY:Zeta: 【Holoboom】fun minigame!! NO MALDING!
-UID:rav8MJvRCLs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【hololiveId】MMM : MONDAY MORNING MALAS【Ayunda Risu】\nhttps://www.youtube.com/watch?v=kn60pqheE7Q
@@ -51,5 +30,33 @@ DURATION:PT2H
 DTSTART:20231001T145756Z
 SUMMARY:🎨Iofi: 【 #holoctober 】DAY 1 Maid - Speedpaint【 iofi / hololiveID 】
 UID:Wl_ErI1iCAU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Raft】not a 12 hour stream. just wanna build more in my world ⛵【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=uVRNGfGV59s
+DURATION:PT2H
+DTSTART:20231001T103000Z
+SUMMARY:Kaela: 【Raft】not a 12 hour stream. just wanna build more in my world ⛵【Kaela Kovalskia / hololiveID】
+UID:uVRNGfGV59s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #holoctober 】DAY 1 BEGINS【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=50L_toqgyqE
+DURATION:PT2H
+DTSTART:20231001T120000Z
+SUMMARY:🎨Iofi: 【 #holoctober 】DAY 1 BEGINS【 iofi / hololiveID 】
+UID:50L_toqgyqE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Holoboom】fun minigame!! NO MALDING!\nhttps://www.youtube.com/watch?v=rav8MJvRCLs
+DURATION:PT2H
+DTSTART:20230930T150000Z
+SUMMARY:Zeta: 【Holoboom】fun minigame!! NO MALDING!
+UID:rav8MJvRCLs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【No Man's Sky】Chilling in NMS. Story or search S Tier SHIP?!【holoID】\nhttps://www.youtube.com/watch?v=aHMGWH7UBBQ
+DURATION:PT2H
+DTSTART:20231002T120000Z
+SUMMARY:🔮Moona: 【No Man's Sky】Chilling in NMS. Story or search S Tier SHIP?!【holoID】
+UID:aHMGWH7UBBQ
 END:VEVENT
 END:VCALENDAR
