@@ -18,18 +18,18 @@ SUMMARY:Baelz: BLAH BLAH CHALLENGE (Green Screen)
 UID:in0r6Ejh29w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SOS:AWL】Back to the farm (SPOILERS AHEAD) 🎼\nhttps://www.youtube.com/watch?v=AuSCOevd0SI
-DURATION:PT2H
-DTSTART:20231003T000000Z
-SUMMARY:Nerissa: 【SOS:AWL】Back to the farm (SPOILERS AHEAD) 🎼
-UID:AuSCOevd0SI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【スイカゲーム】wanna know the hype around this fruit game\nhttps://www.youtube.com/watch?v=qZkU9RIgmaM
 DURATION:PT2H
 DTSTART:20231003T230000Z
 SUMMARY:Calli: 【スイカゲーム】wanna know the hype around this fruit game
 UID:qZkU9RIgmaM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SOS:AWL】Back to the farm (SPOILERS AHEAD) 🎼\nhttps://www.youtube.com/watch?v=AuSCOevd0SI
+DURATION:PT2H
+DTSTART:20231003T000000Z
+SUMMARY:Nerissa: 【SOS:AWL】Back to the farm (SPOILERS AHEAD) 🎼
+UID:AuSCOevd0SI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Terraria】Diggy diggy hole (Open VC and world) 🎼\nhttps://www.youtube.com/watch?v=NSCXDcreVmI
@@ -39,18 +39,18 @@ SUMMARY:Nerissa: 【Terraria】Diggy diggy hole (Open VC and world) 🎼
 UID:NSCXDcreVmI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DEVOUR】Time and Death Say Howdy to Ghosts...with @OuroKronii\nhttps://www.youtube.com/watch?v=mgThTrbLFiA
-DURATION:PT2H
-DTSTART:20231002T030041Z
-SUMMARY:Calli: 【DEVOUR】Time and Death Say Howdy to Ghosts...with @OuroKronii
-UID:mgThTrbLFiA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Hololive Minecraft Server Tour 【Highlights】\nhttps://www.youtube.com/watch?v=y0f5ZYt_PYM
 DURATION:PT2H
 DTSTART:20231002T020032Z
 SUMMARY:Shiori: Hololive Minecraft Server Tour 【Highlights】
 UID:y0f5ZYt_PYM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEVOUR】Time and Death Say Howdy to Ghosts...with @OuroKronii\nhttps://www.youtube.com/watch?v=mgThTrbLFiA
+DURATION:PT2H
+DTSTART:20231002T030041Z
+SUMMARY:Calli: 【DEVOUR】Time and Death Say Howdy to Ghosts...with @OuroKronii
+UID:mgThTrbLFiA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【THANK YOU】Chat and Reading Your Messages!!\nhttps://www.youtube.com/watch?v=W-O2ZoMKVws
@@ -88,13 +88,6 @@ SUMMARY:Baelz: ≪3D AFTER-TALK≫ PowerPoint at the READY!
 UID:uKmAe2isbNg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【CHITCHAT】Zatsudan in Japan! ✨️ #kfp #キアライブ\nhttps://www.youtube.com/watch?v=gWKDjZ8NFtA
-DURATION:PT2H
-DTSTART:20231002T023000Z
-SUMMARY:Kiara: 【CHITCHAT】Zatsudan in Japan! ✨️ #kfp #キアライブ
-UID:gWKDjZ8NFtA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:BLAH BLAH CHALLENGE! #blahblahchallenge\nhttps://www.youtube.com/watch?v=nzLcdUsFzug
 DURATION:PT2H
 DTSTART:20231002T060313Z
@@ -102,11 +95,25 @@ SUMMARY:Baelz: BLAH BLAH CHALLENGE! #blahblahchallenge
 UID:nzLcdUsFzug
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【CHITCHAT】Zatsudan in Japan! ✨️ #kfp #キアライブ\nhttps://www.youtube.com/watch?v=gWKDjZ8NFtA
+DURATION:PT2H
+DTSTART:20231002T023000Z
+SUMMARY:Kiara: 【CHITCHAT】Zatsudan in Japan! ✨️ #kfp #キアライブ
+UID:gWKDjZ8NFtA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【DONKEY KONG COUNTRY】hand over your bananas 🍌\nhttps://www.youtube.com/watch?v=YN4s_ROh1P8
 DURATION:PT2H
 DTSTART:20231002T010000Z
 SUMMARY:FUWAMOCO: 【DONKEY KONG COUNTRY】hand over your bananas 🍌
 UID:YN4s_ROh1P8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】 Faun it\, we build (open vc?)\nhttps://www.youtube.com/watch?v=IArgc8j0TMs
+DURATION:PT2H
+DTSTART:20231002T220000Z
+SUMMARY:Fauna: 【MINECRAFT】 Faun it\, we build (open vc?)
+UID:IArgc8j0TMs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MV】IDOL - YOASOBI || HAKOS BAELZ COVER\nhttps://www.youtube.com/watch?v=wwfW25t99fU
