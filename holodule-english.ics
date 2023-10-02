@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【FUWAMOCO MORNING】episode 27 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=PkKdHUz89jY
+DURATION:PT2H
+DTSTART:20231002T150000Z
+SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 27 🐾 #FWMCMORNING
+UID:PkKdHUz89jY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【F-ZERO 99】RACERS ARE YOU READY?\nhttps://www.youtube.com/watch?v=ojxagEuycwE
 DURATION:PT2H
 DTSTART:20230930T230000Z
@@ -60,18 +67,18 @@ SUMMARY:Calli: 【DEVOUR】Time and Death Say Howdy to Ghosts...with @OuroKronii
 UID:mgThTrbLFiA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【THANK YOU】Chat and Reading Your Messages!!\nhttps://www.youtube.com/watch?v=W-O2ZoMKVws
-DURATION:PT2H
-DTSTART:20231003T000000Z
-SUMMARY:Calli: 【THANK YOU】Chat and Reading Your Messages!!
-UID:W-O2ZoMKVws
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【NUN MASSACRE】 Beware The Nun in this PS1 styled stealth horror game\nhttps://www.youtube.com/watch?v=FoEET1LD_8c
 DURATION:PT2H
 DTSTART:20231001T220000Z
 SUMMARY:Fauna: 【NUN MASSACRE】 Beware The Nun in this PS1 styled stealth horror game
 UID:FoEET1LD_8c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【THANK YOU】Chat and Reading Your Messages!!\nhttps://www.youtube.com/watch?v=W-O2ZoMKVws
+DURATION:PT2H
+DTSTART:20231003T000000Z
+SUMMARY:Calli: 【THANK YOU】Chat and Reading Your Messages!!
+UID:W-O2ZoMKVws
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Work Stream: Behind-the-Scenes Look with Shiori Sensei\nhttps://www.youtube.com/watch?v=JY6Bj9g-0xQ
