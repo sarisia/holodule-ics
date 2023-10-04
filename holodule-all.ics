@@ -53,18 +53,18 @@ SUMMARY:⚔白銀ノエル: 【#ノエスタdeASMR講座】念願のASMRコラ�
 UID:ik_wZAooaGg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ARK ストリーマー鯖】大丈夫、私が来た。 / アステル・オールマイト・レダ\nhttps://www.youtube.com/watch?v=f1BQmtyz_NE
-DURATION:PT2H
-DTSTART:20231003T093000Z
-SUMMARY:🎭アステル・レダ: 【ARK ストリーマー鯖】大丈夫、私が来た。 / アステル・オールマイト・レダ
-UID:f1BQmtyz_NE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【スイカゲーム】目指せ3500！！！🔥ホロライブの頭脳を見せつけろ！！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=a_qWIRd0WXg
 DURATION:PT2H
 DTSTART:20231003T100000Z
 SUMMARY:博衣こより: 【スイカゲーム】目指せ3500！！！🔥ホロライブの頭脳を見せつけろ！！！【博衣こより/ホロライブ】
 UID:a_qWIRd0WXg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK ストリーマー鯖】大丈夫、私が来た。 / アステル・オールマイト・レダ\nhttps://www.youtube.com/watch?v=f1BQmtyz_NE
+DURATION:PT2H
+DTSTART:20231003T093000Z
+SUMMARY:🎭アステル・レダ: 【ARK ストリーマー鯖】大丈夫、私が来た。 / アステル・オールマイト・レダ
+UID:f1BQmtyz_NE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スイカゲーム】ぺこらとスコアバトル!!この私のデータについてこられるかな？【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=9uEQ1WusQjc
@@ -172,18 +172,18 @@ SUMMARY:Calli: 【THANK YOU】Chat and Reading Your Messages!!
 UID:W-O2ZoMKVws
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スイカゲーム】絶対たのしいだろこれ！！！まだ大丈夫！？スイカの味ある！？【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=Peh2DopuW0g
-DURATION:PT2H
-DTSTART:20231003T120000Z
-SUMMARY:尾丸ポルカ: 【スイカゲーム】絶対たのしいだろこれ！！！まだ大丈夫！？スイカの味ある！？【尾丸ポルカ/ホロライブ】
-UID:Peh2DopuW0g
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】はじめてのマイクラ【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=dud8c_1eyX8
 DURATION:PT2H
 DTSTART:20231003T130000Z
 SUMMARY:轟はじめ: 【Minecraft】はじめてのマイクラ【轟はじめ/ReGLOSS】＃hololiveDEV_IS
 UID:dud8c_1eyX8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スイカゲーム】絶対たのしいだろこれ！！！まだ大丈夫！？スイカの味ある！？【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=Peh2DopuW0g
+DURATION:PT2H
+DTSTART:20231003T120000Z
+SUMMARY:尾丸ポルカ: 【スイカゲーム】絶対たのしいだろこれ！！！まだ大丈夫！？スイカの味ある！？【尾丸ポルカ/ホロライブ】
+UID:Peh2DopuW0g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活】おはよおおおおおおおおおおお【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=GsXWTvikBHQ
@@ -235,6 +235,13 @@ SUMMARY:ホロライブ: 【同時視聴】Blue Journey 1st Live「夜明けの�
 UID:aR2dCQtNfJc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【VCR ARK】スト鯖ARKに突入してみる【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=YET6s0kDTeE
+DURATION:PT2H
+DTSTART:20231003T140000Z
+SUMMARY:🍷夕刻ロベル: 【VCR ARK】スト鯖ARKに突入してみる【夕刻ロベル/ホロスターズ】
+UID:YET6s0kDTeE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 Phasmophobia 】心霊調査 アップロー部隊 出動！！ 【#vtuber / #放課後アップロー / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=CVzZRFdmwmE
 DURATION:PT2H
 DTSTART:20231004T123000Z
@@ -247,13 +254,6 @@ DURATION:PT2H
 DTSTART:20231003T120000Z
 SUMMARY:Syrios: 【VCR ARK】We're in the Dinosaur business now. #1
 UID:DWUjG_fw6KI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VCR ARK】スト鯖ARKに突入してみる【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=YET6s0kDTeE
-DURATION:PT2H
-DTSTART:20231003T140000Z
-SUMMARY:🍷夕刻ロベル: 【VCR ARK】スト鯖ARKに突入してみる【夕刻ロベル/ホロスターズ】
-UID:YET6s0kDTeE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#AZKi 「エンドロールは終わらない」#ホロライブ #hololive #VTuber #hololiveclips #エンドロールは終わらない #AZKi3枚目の地図\nhttps://www.youtube.com/watch?v=tvP-voU374U
@@ -317,6 +317,13 @@ DURATION:PT2H
 DTSTART:20231003T140000Z
 SUMMARY:鷹嶺ルイ: 【 ドラクエⅣ 】完全初見。番外編‼本当のフィナーレへ…！！【鷹嶺ルイ/ホロライブ】※ネタバレあり
 UID:PY7oYW-zI8s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【陰キャラブコメ】僕、炎上したくないです… 【火威青#hololiveDEV_IS #ReGLOSS】#02\nhttps://www.youtube.com/watch?v=7UW7AYI6WpM
+DURATION:PT2H
+DTSTART:20231004T080000Z
+SUMMARY:火威青: 【陰キャラブコメ】僕、炎上したくないです… 【火威青#hololiveDEV_IS #ReGLOSS】#02
+UID:7UW7AYI6WpM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スイカゲーム】wanna know the hype around this fruit game (日本語ちっと話す\nhttps://www.youtube.com/watch?v=qZkU9RIgmaM
