@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【スイカゲーム】the game looks delicious 🍉【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=zLh31QGwoZQ
+DURATION:PT2H
+DTSTART:20231004T170000Z
+SUMMARY:Kaela: 【スイカゲーム】the game looks delicious 🍉【Kaela Kovalskia / hololiveID】
+UID:zLh31QGwoZQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【RINGFIT ADVENTURE】BE STRONG OLLIE!! GO HEALTHY ZOMBIE!!【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=Sp-5e7M0hw8
 DURATION:PT2H
 DTSTART:20231007T140000Z
@@ -39,10 +46,10 @@ SUMMARY:Reine: 【VALORANT】0 RR SILVER GAMEPLAY good morning gamers 【Pavolia
 UID:JmuMOSoH72Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スイカゲーム】the game looks delicious 🍉【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=zLh31QGwoZQ
+DESCRIPTION:【MARIO KART 8 DELUXE】 A TRIP DOWN TO RAINBOW ROAD!!【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=BNPCYKjXa7c
 DURATION:PT2H
-DTSTART:20231004T170000Z
-SUMMARY:Kaela: 【スイカゲーム】the game looks delicious 🍉【Kaela Kovalskia / hololiveID】
-UID:zLh31QGwoZQ
+DTSTART:20231007T120000Z
+SUMMARY:Ollie: 【MARIO KART 8 DELUXE】 A TRIP DOWN TO RAINBOW ROAD!!【Hololive ID 2nd Generation】
+UID:BNPCYKjXa7c
 END:VEVENT
 END:VCALENDAR
