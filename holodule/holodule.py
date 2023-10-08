@@ -18,6 +18,7 @@ TARGET = [
     "indonesia",
     "english",
     "holostars_english",
+    "dev_is",
 ]
 log = getLogger(__name__)
 

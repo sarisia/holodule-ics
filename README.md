@@ -17,6 +17,7 @@
 | Indonesia | https://sarisia.cc/holodule-ics/holodule-indonesia.ics |
 | English | https://sarisia.cc/holodule-ics/holodule-english.ics |
 | HOLOSTARS English | https://sarisia.cc/holodule-ics/holodule-holostars_english.ics |
+| DEV_IS | https://sarisia.cc/holodule-ics/holodule-dev_is.ics |
 
 # 設定例
 
