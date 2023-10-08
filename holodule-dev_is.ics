@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【雑談】10月の質疑応答～芸術系の質問箱～ #教えてらでんちゃん【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=6cEbDvgwDbA
+DURATION:PT2H
+DTSTART:20231008T140000Z
+SUMMARY:儒烏風亭らでん: 【雑談】10月の質疑応答～芸術系の質問箱～ #教えてらでんちゃん【儒烏風亭らでん #ReGLOSS 】
+UID:6cEbDvgwDbA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【記念配信】デビュー1ヶ月記念🎉○○のお披露目もあるよー！！【#一条莉々華/#hololiveDEV_IS #ReGLOSS】\nhttps://www.youtube.com/watch?v=4b6knUQ3Rws
+DURATION:PT2H
+DTSTART:20231009T100000Z
+SUMMARY:一条莉々華: 【記念配信】デビュー1ヶ月記念🎉○○のお披露目もあるよー！！【#一条莉々華/#hololiveDEV_IS #ReGLOSS】
+UID:4b6knUQ3Rws
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】初心者🔰はじめ島の冒険＃２【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=ewVqkEE0YZI
 DURATION:PT2H
 DTSTART:20231008T090000Z
@@ -25,20 +39,6 @@ SUMMARY:一条莉々華: 【中級編】止められたらすごすぎる！ピ�
 UID:ReFdsD_q5Ig
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】10月の質疑応答～芸術系の質問箱～ #教えてらでんちゃん【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=6cEbDvgwDbA
-DURATION:PT2H
-DTSTART:20231008T140000Z
-SUMMARY:儒烏風亭らでん: 【雑談】10月の質疑応答～芸術系の質問箱～ #教えてらでんちゃん【儒烏風亭らでん #ReGLOSS 】
-UID:6cEbDvgwDbA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【記念配信】デビュー1ヶ月記念🎉○○のお披露目もあるよー！！【#一条莉々華/#hololiveDEV_IS #ReGLOSS】\nhttps://www.youtube.com/watch?v=4b6knUQ3Rws
-DURATION:PT2H
-DTSTART:20231009T100000Z
-SUMMARY:一条莉々華: 【記念配信】デビュー1ヶ月記念🎉○○のお披露目もあるよー！！【#一条莉々華/#hololiveDEV_IS #ReGLOSS】
-UID:4b6knUQ3Rws
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ホロ鯖に「ちょべりば」を作る 【火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=oTcVGEin_DM
 DURATION:PT2H
 DTSTART:20231008T120000Z
@@ -51,5 +51,12 @@ DURATION:PT2H
 DTSTART:20231010T100000Z
 SUMMARY:DEV_IShololive: 【Gartic Phone】 絵には自信があります！【#ReGLOSSお絵描き伝言ゲーム】
 UID:Ze1uQT-zs7s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【デビュー1か月記念】夢から目標へ【火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=aeOzKN7wto4
+DURATION:PT2H
+DTSTART:20231009T120000Z
+SUMMARY:火威青: 【デビュー1か月記念】夢から目標へ【火威青 #hololiveDEV_IS #ReGLOSS 】
+UID:aeOzKN7wto4
 END:VEVENT
 END:VCALENDAR
