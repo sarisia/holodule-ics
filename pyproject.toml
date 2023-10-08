@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "holodule-ics"
+version = "0.1.0"
+description = ""
+authors = ["Sarisia <git@sarisia.cc>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+aiohttp = "^3.7.4.post0"
+arrow = "^0.14.7"
+ics = "0.7"
+lxml = "^4.6.3"
+python-dotenv = "^0.15.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
