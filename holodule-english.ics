@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【スイカゲーム | Watermelon Game】Please don't yeet my fruit\nhttps://www.youtube.com/watch?v=RJwWX-JYhUs
-DURATION:PT2H
-DTSTART:20231007T230000Z
-SUMMARY:Bijou: 【スイカゲーム | Watermelon Game】Please don't yeet my fruit
-UID:RJwWX-JYhUs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【SURVIVAL CHALLENGE】Camping in the WILDERNESS #kfp #キアライブ\nhttps://www.youtube.com/watch?v=M5SknYJpNJs
 DURATION:PT2H
 DTSTART:20231008T180000Z
@@ -18,11 +11,11 @@ SUMMARY:Kiara: 【SURVIVAL CHALLENGE】Camping in the WILDERNESS #kfp #キアラ
 UID:M5SknYJpNJs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Pikmin 4】 Never Give Up 【#7】\nhttps://www.youtube.com/watch?v=bzrImdVtn9M
+DESCRIPTION:【スイカゲーム | Watermelon Game】Please don't yeet my fruit\nhttps://www.youtube.com/watch?v=RJwWX-JYhUs
 DURATION:PT2H
-DTSTART:20231007T210000Z
-SUMMARY:Ina: 【Pikmin 4】 Never Give Up 【#7】
-UID:bzrImdVtn9M
+DTSTART:20231007T230000Z
+SUMMARY:Bijou: 【スイカゲーム | Watermelon Game】Please don't yeet my fruit
+UID:RJwWX-JYhUs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Resident Evil 2】RPD Biboo\, at your service!\nhttps://www.youtube.com/watch?v=bU_MwZ-f5B4
@@ -30,6 +23,13 @@ DURATION:PT2H
 DTSTART:20231008T230000Z
 SUMMARY:Bijou: 【Resident Evil 2】RPD Biboo\, at your service!
 UID:bU_MwZ-f5B4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Pikmin 4】 Never Give Up 【#7】\nhttps://www.youtube.com/watch?v=bzrImdVtn9M
+DURATION:PT2H
+DTSTART:20231007T210000Z
+SUMMARY:Ina: 【Pikmin 4】 Never Give Up 【#7】
+UID:bzrImdVtn9M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:OCTOBER SPECIAL: Cookie Decorating with Shiori Bakevella\nhttps://www.youtube.com/watch?v=SQpISU4upXs
@@ -51,6 +51,13 @@ DURATION:PT2H
 DTSTART:20231008T020000Z
 SUMMARY:Bijou: 【SUPER SMASH BROS ULTIMATE】with @IchijouRirika !  Loser Batsu?!
 UID:plyFYnvhecY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:「Original Song」mumei\nhttps://www.youtube.com/watch?v=oA0CpI0vCK4
+DURATION:PT2H
+DTSTART:20231010T043000Z
+SUMMARY:Mumei: 「Original Song」mumei
+UID:oA0CpI0vCK4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FUWAMOCO ROCK N' RAWR PARTY】fwmc beats straight into your heart ♪\nhttps://www.youtube.com/watch?v=9e8Wnx-FRQk
