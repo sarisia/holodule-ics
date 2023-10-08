@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【SURVIVAL CHALLENGE】Camping in the WILDERNESS #kfp #キアライブ\nhttps://www.youtube.com/watch?v=M5SknYJpNJs
-DURATION:PT2H
-DTSTART:20231008T180000Z
-SUMMARY:Kiara: 【SURVIVAL CHALLENGE】Camping in the WILDERNESS #kfp #キアライブ
-UID:M5SknYJpNJs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【スイカゲーム | Watermelon Game】Please don't yeet my fruit\nhttps://www.youtube.com/watch?v=RJwWX-JYhUs
 DURATION:PT2H
 DTSTART:20231007T230000Z
@@ -18,11 +11,11 @@ SUMMARY:Bijou: 【スイカゲーム | Watermelon Game】Please don't yeet my fr
 UID:RJwWX-JYhUs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Resident Evil 2】RPD Biboo\, at your service!\nhttps://www.youtube.com/watch?v=bU_MwZ-f5B4
+DESCRIPTION:【SURVIVAL CHALLENGE】Camping in the WILDERNESS #kfp #キアライブ\nhttps://www.youtube.com/watch?v=M5SknYJpNJs
 DURATION:PT2H
-DTSTART:20231008T230000Z
-SUMMARY:Bijou: 【Resident Evil 2】RPD Biboo\, at your service!
-UID:bU_MwZ-f5B4
+DTSTART:20231008T180000Z
+SUMMARY:Kiara: 【SURVIVAL CHALLENGE】Camping in the WILDERNESS #kfp #キアライブ
+UID:M5SknYJpNJs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Pikmin 4】 Never Give Up 【#7】\nhttps://www.youtube.com/watch?v=bzrImdVtn9M
@@ -30,6 +23,13 @@ DURATION:PT2H
 DTSTART:20231007T210000Z
 SUMMARY:Ina: 【Pikmin 4】 Never Give Up 【#7】
 UID:bzrImdVtn9M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Resident Evil 2】RPD Biboo\, at your service!\nhttps://www.youtube.com/watch?v=bU_MwZ-f5B4
+DURATION:PT2H
+DTSTART:20231008T230000Z
+SUMMARY:Bijou: 【Resident Evil 2】RPD Biboo\, at your service!
+UID:bU_MwZ-f5B4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:OCTOBER SPECIAL: Cookie Decorating with Shiori Bakevella\nhttps://www.youtube.com/watch?v=SQpISU4upXs
@@ -46,34 +46,6 @@ SUMMARY:Bijou: 【SUPER SMASH BROS ULTIMATE】with @IchijouRirika !  Loser Batsu
 UID:plyFYnvhecY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Left 4 Dead 2: Braving the Undead Horde Again with #holoadvent\nhttps://www.youtube.com/watch?v=gnCOWB6E4iI
-DURATION:PT2H
-DTSTART:20231007T010000Z
-SUMMARY:Shiori: Left 4 Dead 2: Braving the Undead Horde Again with #holoadvent
-UID:gnCOWB6E4iI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【L4D2】Advent's Return To The Apocalypse 🎼\nhttps://www.youtube.com/watch?v=GQIPoEZZrHQ
-DURATION:PT2H
-DTSTART:20231007T010000Z
-SUMMARY:Nerissa: 【L4D2】Advent's Return To The Apocalypse 🎼
-UID:GQIPoEZZrHQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スイカゲーム】over 3000 (open vc)\nhttps://www.youtube.com/watch?v=DJfTr9BsO2Y
-DURATION:PT2H
-DTSTART:20231007T140509Z
-SUMMARY:Calli: 【スイカゲーム】over 3000 (open vc)
-UID:DJfTr9BsO2Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:INTERNET YAMERO DANCE #kfp #hololiveenglish #shorts\nhttps://www.youtube.com/watch?v=IJBmSOp54X4
-DURATION:PT2H
-DTSTART:20231007T080416Z
-SUMMARY:Kiara: INTERNET YAMERO DANCE #kfp #hololiveenglish #shorts
-UID:IJBmSOp54X4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【FUWAMOCO ROCK N' RAWR PARTY】fwmc beats straight into your heart ♪\nhttps://www.youtube.com/watch?v=9e8Wnx-FRQk
 DURATION:PT2H
 DTSTART:20231008T010000Z
@@ -88,18 +60,11 @@ SUMMARY:IRyS: 【スイカゲーム】Trying THE fruit salad game
 UID:5rEOTmJSQzk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【LEFT 4 DEAD 2 COLLAB】return of our advent 🐾 #holoAdvent\nhttps://www.youtube.com/watch?v=0GnRDoCXr3E
+DESCRIPTION:【KARAOKE 歌枠】PART 2 !! Singing with GUESTS !! ~\nhttps://www.youtube.com/watch?v=bDjzpMmw-JY
 DURATION:PT2H
-DTSTART:20231007T010000Z
-SUMMARY:FUWAMOCO: 【LEFT 4 DEAD 2 COLLAB】return of our advent 🐾 #holoAdvent
-UID:0GnRDoCXr3E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【3D SHOWCASE COLLAB】hololive English -Council- and IRyS Special 3D Collab! #CouncilRyS3D\nhttps://www.youtube.com/watch?v=sEnjWtbnUj4
-DURATION:PT2H
-DTSTART:20231009T030000Z
-SUMMARY:ENholo: 【3D SHOWCASE COLLAB】hololive English -Council- and IRyS Special 3D Collab! #CouncilRyS3D
-UID:sEnjWtbnUj4
+DTSTART:20231010T023000Z
+SUMMARY:Mumei: 【KARAOKE 歌枠】PART 2 !! Singing with GUESTS !! ~
+UID:bDjzpMmw-JY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Resident Evil Village】Finding the Doll Lady 🎼\nhttps://www.youtube.com/watch?v=JZyogFD2v14
@@ -109,11 +74,11 @@ SUMMARY:Nerissa: 【Resident Evil Village】Finding the Doll Lady 🎼
 UID:JZyogFD2v14
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Final Fantasy XVI】it's clivover (FINALE)\nhttps://www.youtube.com/watch?v=h2xCSsHAMDg
+DESCRIPTION:【3D SHOWCASE COLLAB】hololive English -Council- and IRyS Special 3D Collab! #CouncilRyS3D\nhttps://www.youtube.com/watch?v=sEnjWtbnUj4
 DURATION:PT2H
-DTSTART:20231007T010028Z
-SUMMARY:Calli: 【Final Fantasy XVI】it's clivover (FINALE)
-UID:h2xCSsHAMDg
+DTSTART:20231009T030000Z
+SUMMARY:ENholo: 【3D SHOWCASE COLLAB】hololive English -Council- and IRyS Special 3D Collab! #CouncilRyS3D
+UID:sEnjWtbnUj4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SAKURA WARS V】rootin'-tootin' sharpshootin' 🐾\nhttps://www.youtube.com/watch?v=Rz4gdNR_phI
@@ -135,20 +100,6 @@ DURATION:PT2H
 DTSTART:20231007T231500Z
 SUMMARY:Fauna: 【スイカゲーム】 The Fruit Game That Everyone Is Obsessed With
 UID:gyIruOYntpw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スイカゲーム / Watermelon Game】3000 ? 3000 !!! Please\nhttps://www.youtube.com/watch?v=dWM5mKuNqB4
-DURATION:PT2H
-DTSTART:20231007T030000Z
-SUMMARY:Mumei: 【スイカゲーム / Watermelon Game】3000 ? 3000 !!! Please
-UID:dWM5mKuNqB4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スイカゲーム/Watermelon Game】I'll show those fruits!!!\nhttps://www.youtube.com/watch?v=VVKn3_hU8ho
-DURATION:PT2H
-DTSTART:20231006T230000Z
-SUMMARY:Bijou: 【スイカゲーム/Watermelon Game】I'll show those fruits!!!
-UID:VVKn3_hU8ho
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【The Battle Cats】im beginning to feel like a cat god #sponsored #PR\nhttps://www.youtube.com/watch?v=pJcfwvGQTag
