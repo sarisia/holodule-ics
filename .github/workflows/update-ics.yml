@@ -4,8 +4,9 @@ on:
     - cron: '12/15 * * * *'
   workflow_dispatch:
   push:
-    branches:
-      - master
+    branches-ignore:
+      - 'gh-pages'
+      - 'public'
     tags-ignore:
       - "**"
 
@@ -15,25 +16,37 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v1
+      - name: checkout
+        uses: actions/checkout@8ade135a41bc03ea155e62e844d188df1ea18608
+
+      - name: cache
+        uses: actions/cache@704facf57e6136b1bc63b828d79edcd491f0ee84
         with:
-          python-version: 3.9 # CHECK .devcontainer/devcontainer.json!!!
-      - uses: actions/cache@v1
+          path: ".venv"
+          key: ${{ runner.os }}-${{ hashFiles('poetry.lock') }}
+
+      - name: run
+        uses: devcontainers/ci@57eaf0c9b518a76872bc429cdceefd65a912309b
         with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-${{ hashFiles('requirements.txt') }}
-      - name: install deps
-        run: pip install -r requirements.txt
-      - name: run holodule-ical
-        run: python run.py
+          imageName: ghcr.io/${{ github.repository }}/devcontainer
+          push: never
+          runCmd: |
+            set -e
+
+            poetry install
+            poetry run python run.py
+          env: |
+            HOLODULE_PAGE
+            HOLODULE_YOUTUBE_KEY
         env:
-          HOLODULE_PAGE: ${{ secrets.HOLODULE_PAGE }}
+          HOLODULE_PAGE: ${{ vars.HOLODULE_PAGE }}
           HOLODULE_YOUTUBE_KEY: ${{ secrets.HOLODULE_YOUTUBE_KEY }}
+
       - name: deploy to public branch
-        uses: peaceiris/actions-gh-pages@v3.8.0
+        if: github.ref_name == 'master'
+        uses: peaceiris/actions-gh-pages@373f7f263a76c20808c831209c920827a82a2847
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ github.token }}
           publish_dir: ./public
           publish_branch: public
           keep_files: true
@@ -41,9 +54,10 @@ jobs:
           cname: sarisia.cc
           user_name: mntaqua
           user_email: '91774192+mntaqua@users.noreply.github.com'
-      - name: post status to Discord
+
+      - name: notify to Discord if failure
         if: failure()
-        uses: sarisia/actions-status-discord@v1
+        uses: sarisia/actions-status-discord@9904e3130b8905d5b973df25623f17672dcb3466
         with:
           webhook: ${{ secrets.DISCORD_WEBHOOK }}
           title: holodule - update ics

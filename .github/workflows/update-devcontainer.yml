@@ -1,0 +1,19 @@
+name: update devcontainer
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - 'master'
+    tags-ignore:
+      - '**'
+    paths:
+      - '.devcontainer/**'
+      - 'poetry.lock'
+
+jobs:
+  build:
+    uses: sarisia/workflows/.github/workflows/update-devcontainer.yml@6f14ef8702cf81d8ebac0308c713a8dca5558586
+    permissions:
+      contents: read
+      packages: write
