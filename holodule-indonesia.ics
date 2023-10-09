@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Epic Chef】#6 and the story continues~【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=Aou-PHKoCzc
-DURATION:PT2H
-DTSTART:20231007T223000Z
-SUMMARY:Kaela: 【Epic Chef】#6 and the story continues~【Kaela Kovalskia / hololiveID】
-UID:Aou-PHKoCzc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【スイカゲーム | SUIKA GAME】NO TILT GAMING WE LOVE FRUITS 【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=H0evRel-tzA
 DURATION:PT2H
 DTSTART:20231010T020000Z
 SUMMARY:Reine: 【スイカゲーム | SUIKA GAME】NO TILT GAMING WE LOVE FRUITS 【Pavolia Reine/hololiveID 2nd gen】
 UID:H0evRel-tzA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PEJUANG SENIN】#56 RISE AND SHINE 🌞【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=LaPHd16z7FM
-DURATION:PT2H
-DTSTART:20231008T233000Z
-SUMMARY:Kaela: 【PEJUANG SENIN】#56 RISE AND SHINE 🌞【Kaela's Monday Warrior】
-UID:LaPHd16z7FM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#holoctober day 9 \, Senin Produktif\, iorials【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=DvRYonK5BOQ
@@ -32,17 +18,17 @@ SUMMARY:🎨Iofi: #holoctober day 9 \, Senin Produktif\, iorials【 iofi / holol
 UID:DvRYonK5BOQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【PEJUANG SENIN】#56 RISE AND SHINE 🌞【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=LaPHd16z7FM
+DURATION:PT2H
+DTSTART:20231008T233000Z
+SUMMARY:Kaela: 【PEJUANG SENIN】#56 RISE AND SHINE 🌞【Kaela's Monday Warrior】
+UID:LaPHd16z7FM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【hololiveId】MMM : MONDAY (NOT) MORNING MALAS【Ayunda Risu】\nhttps://www.youtube.com/watch?v=k4Q_YutYqYw
 DURATION:PT2H
 DTSTART:20231009T050000Z
 SUMMARY:🐿Risu: 【hololiveId】MMM : MONDAY (NOT) MORNING MALAS【Ayunda Risu】
 UID:k4Q_YutYqYw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Let's fill the autosorter side B!【holoID】\nhttps://www.youtube.com/watch?v=2sGwR-YDzJ8
-DURATION:PT2H
-DTSTART:20231008T080000Z
-SUMMARY:🔮Moona: 【Minecraft】Let's fill the autosorter side B!【holoID】
-UID:2sGwR-YDzJ8
 END:VEVENT
 END:VCALENDAR
