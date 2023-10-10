@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【マリオ64】完全初見✨へたっぴマリオ64！絶叫しながらクッパのもとへ行け！！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=5NvP58pepJU
-DURATION:PT2H
-DTSTART:20231009T090000Z
-SUMMARY:博衣こより: 【マリオ64】完全初見✨へたっぴマリオ64！絶叫しながらクッパのもとへ行け！！！【博衣こより/ホロライブ】
-UID:5NvP58pepJU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:みこちの沼マリオ珍死まとめ ぱーつ① #shorts ※音量注意\nhttps://www.youtube.com/watch?v=_yOmFNqD5aU
 DURATION:PT2H
 DTSTART:20231010T100202Z
 SUMMARY:🌸さくらみこ: みこちの沼マリオ珍死まとめ ぱーつ① #shorts ※音量注意
 UID:_yOmFNqD5aU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#朝こよ】次で150回目⁉火曜日の朝は朝こよ～っ☀ #149【博衣こより/hololive】\nhttps://www.youtube.com/watch?v=cW2wsc8NsRw
+DURATION:PT2H
+DTSTART:20231009T220000Z
+SUMMARY:博衣こより: 【#朝こよ】次で150回目⁉火曜日の朝は朝こよ～っ☀ #149【博衣こより/hololive】
+UID:cW2wsc8NsRw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 APEXランク 】マスター屋さん出陣！！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=i_R9XY0b2HM
@@ -25,11 +25,18 @@ SUMMARY:🏮夏色まつり: 【 APEXランク 】マスター屋さん出陣！
 UID:i_R9XY0b2HM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ソニころ2023】雑の段！！！！！（イベントお疲れさま的な話中心にみんなとお喋りする予定）\nhttps://www.youtube.com/watch?v=7d2R2_cqoA0
+DESCRIPTION:【 Ranch Simulator 】我々、農業はじめようとおもいます。【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=uaFk4AYbfDo
 DURATION:PT2H
-DTSTART:20231009T120000Z
-SUMMARY:🥐戌神ころね: 【#ソニころ2023】雑の段！！！！！（イベントお疲れさま的な話中心にみんなとお喋りする予定）
-UID:7d2R2_cqoA0
+DTSTART:20231010T130000Z
+SUMMARY:🌸さくらみこ: 【 Ranch Simulator 】我々、農業はじめようとおもいます。【ホロライブ/さくらみこ】
+UID:uaFk4AYbfDo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 パラソーシャル 】#ねねねトワワ  でVtuber活動！【 常闇トワ / 桃鈴ねね 】\nhttps://www.youtube.com/watch?v=xggoemU1Vsk
+DURATION:PT2H
+DTSTART:20231010T120000Z
+SUMMARY:👾常闇トワ: 【 パラソーシャル 】#ねねねトワワ  でVtuber活動！【 常闇トワ / 桃鈴ねね 】
+UID:xggoemU1Vsk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【The White Door】白い部屋でなにかが起こる・・？【ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=0Lv_HLGjSRI
@@ -53,20 +60,6 @@ SUMMARY:博衣こより: 【全国一般人常識チェック】アノ格付け�
 UID:bmWJCR17RXI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【VCR ARK】スト鯖ARKに初参戦！よちよち悪魔のARK生活！4日目！part3【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=rh8K5fwdd-w
-DURATION:PT2H
-DTSTART:20231008T194000Z
-SUMMARY:💋癒月ちょこ: 【VCR ARK】スト鯖ARKに初参戦！よちよち悪魔のARK生活！4日目！part3【ホロライブ/癒月ちょこ】
-UID:rh8K5fwdd-w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スイカゲーム】目指せ！3000点🍉🍉🍉【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=lSEr9B5-_ko
-DURATION:PT2H
-DTSTART:20231009T130000Z
-SUMMARY:⚒AZKi: 【スイカゲーム】目指せ！3000点🍉🍉🍉【ホロライブ / AZKi】
-UID:lSEr9B5-_ko
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Papers\, Please】正義の入国審査官として働くぞ！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=y322HrCI240
 DURATION:PT2H
 DTSTART:20231010T120000Z
@@ -74,11 +67,11 @@ SUMMARY:👯兎田ぺこら: 【Papers\, Please】正義の入国審査官とし
 UID:y322HrCI240
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【VCR ARK】スト鯖ARK5日目！レイド戦！！！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=m1E3_qycuUs
+DESCRIPTION:#26【P5R】完全初見🌟ペルソナ5ザ・ロイヤル！最終回かも！？【博衣こより/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=7FZpA5OZQgc
 DURATION:PT2H
-DTSTART:20231009T131500Z
-SUMMARY:💋癒月ちょこ: 【VCR ARK】スト鯖ARK5日目！レイド戦！！！【ホロライブ/癒月ちょこ】
-UID:m1E3_qycuUs
+DTSTART:20231011T110000Z
+SUMMARY:博衣こより: #26【P5R】完全初見🌟ペルソナ5ザ・ロイヤル！最終回かも！？【博衣こより/ホロライブ】※ネタバレあり
+UID:7FZpA5OZQgc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【録画はメン限】悪魔の永眠ASMR【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=KcfyWFH1nxM
@@ -86,139 +79,6 @@ DURATION:PT2H
 DTSTART:20231009T150000Z
 SUMMARY:💋癒月ちょこ: 【録画はメン限】悪魔の永眠ASMR【ホロライブ/癒月ちょこ】
 UID:KcfyWFH1nxM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:情緒がイカれて一生音割れしてるヒスVALO動画【VALORANT】\nhttps://www.youtube.com/watch?v=1Aiwpl50WNk
-DURATION:PT2H
-DTSTART:20231010T100000Z
-SUMMARY:ラプラス: 情緒がイカれて一生音割れしてるヒスVALO動画【VALORANT】
-UID:1Aiwpl50WNk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#ししろんの夏休み ちょっと遅れたけど周年は好きな事するぞすぺしゃる！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=u16LqTIQomA
-DURATION:PT2H
-DTSTART:20231011T100000Z
-SUMMARY:獅白ぼたん: #ししろんの夏休み ちょっと遅れたけど周年は好きな事するぞすぺしゃる！【獅白ぼたん/ホロライブ】
-UID:u16LqTIQomA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VCR ARK】スト鯖ARKに初参戦！よちよち悪魔のARK生活！5日目！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=JPV6uQuZMoA
-DURATION:PT2H
-DTSTART:20231009T064500Z
-SUMMARY:💋癒月ちょこ: 【VCR ARK】スト鯖ARKに初参戦！よちよち悪魔のARK生活！5日目！【ホロライブ/癒月ちょこ】
-UID:JPV6uQuZMoA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:興奮するとクセが強くなるアイドルVtuber 【雪花ラミィ/ホロライブ】 #雪花ラミィ #ホロライブ #スイカゲーム\nhttps://www.youtube.com/watch?v=0O3m4F06Kgc
-DURATION:PT2H
-DTSTART:20231010T100253Z
-SUMMARY:雪花ラミィ: 興奮するとクセが強くなるアイドルVtuber 【雪花ラミィ/ホロライブ】 #雪花ラミィ #ホロライブ #スイカゲーム
-UID:0O3m4F06Kgc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VCR ARK】初参戦！！スト鯖ARKにムキロゼ降りたつPart１１【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=H6nDWr9bnSo
-DURATION:PT2H
-DTSTART:20231008T230000Z
-SUMMARY:🍎アキロゼ: 【VCR ARK】初参戦！！スト鯖ARKにムキロゼ降りたつPart１１【アキ・ローゼンタール/ホロライブ】
-UID:H6nDWr9bnSo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:けーたいみしてよ/夏色まつり(cover)\nhttps://www.youtube.com/watch?v=Z1b1B4SRbes
-DURATION:PT2H
-DTSTART:20231009T090000Z
-SUMMARY:🏮夏色まつり: けーたいみしてよ/夏色まつり(cover)
-UID:Z1b1B4SRbes
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【対談バラエティ】#わかり愛たいふたり【ラプラス・ダークネス＆風真いろは編】\nhttps://www.youtube.com/watch?v=UwDQ1Ypj9yM
-DURATION:PT2H
-DTSTART:20231009T090000Z
-SUMMARY:ホロライブ: 【対談バラエティ】#わかり愛たいふたり【ラプラス・ダークネス＆風真いろは編】
-UID:UwDQ1Ypj9yM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スイカゲーム】3500点リベンジ！たのしく！無理をせず！悲しくなったら即終了！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=W2DMDU25jVA
-DURATION:PT2H
-DTSTART:20231010T120000Z
-SUMMARY:博衣こより: 【スイカゲーム】3500点リベンジ！たのしく！無理をせず！悲しくなったら即終了！【博衣こより/ホロライブ】
-UID:W2DMDU25jVA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#06】シリーズ完全初見！JUDGE EYES：死神の遺言 Remastered実況プレイ！ ※配信内容にネタバレ含みます【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=4wWKXlPibtA
-DURATION:PT2H
-DTSTART:20231009T040000Z
-SUMMARY:雪花ラミィ: 【#06】シリーズ完全初見！JUDGE EYES：死神の遺言 Remastered実況プレイ！ ※配信内容にネタバレ含みます【雪花ラミィ/ホロライブ】
-UID:4wWKXlPibtA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:一晩の過ちが起きたはずがなかったことにされたマリン船長 #shorts\nhttps://www.youtube.com/watch?v=e9NkDrAqJI8
-DURATION:PT2H
-DTSTART:20231009T111757Z
-SUMMARY:🏴☠宝鐘マリン: 一晩の過ちが起きたはずがなかったことにされたマリン船長 #shorts
-UID:e9NkDrAqJI8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ドラクエⅤ 】完全初見。親分であり親友でもある仲間と別れ、母親を探す旅は続く…。【鷹嶺ルイ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=vLfCSGO15xg
-DURATION:PT2H
-DTSTART:20231009T040000Z
-SUMMARY:鷹嶺ルイ: 【 ドラクエⅤ 】完全初見。親分であり親友でもある仲間と別れ、母親を探す旅は続く…。【鷹嶺ルイ/ホロライブ】※ネタバレあり
-UID:vLfCSGO15xg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VCR ARK】スト鯖ARKに初参戦！よちよち悪魔のARK生活！4日目！part２【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=AR8EaePt3EU
-DURATION:PT2H
-DTSTART:20231008T152000Z
-SUMMARY:💋癒月ちょこ: 【VCR ARK】スト鯖ARKに初参戦！よちよち悪魔のARK生活！4日目！part２【ホロライブ/癒月ちょこ】
-UID:AR8EaePt3EU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#朝こよ】次で150回目⁉火曜日の朝は朝こよ～っ☀ #149【博衣こより/hololive】\nhttps://www.youtube.com/watch?v=cW2wsc8NsRw
-DURATION:PT2H
-DTSTART:20231009T220000Z
-SUMMARY:博衣こより: 【#朝こよ】次で150回目⁉火曜日の朝は朝こよ～っ☀ #149【博衣こより/hololive】
-UID:cW2wsc8NsRw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Ranch Simulator 】我々、農業はじめようとおもいます。【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=uaFk4AYbfDo
-DURATION:PT2H
-DTSTART:20231010T130000Z
-SUMMARY:🌸さくらみこ: 【 Ranch Simulator 】我々、農業はじめようとおもいます。【ホロライブ/さくらみこ】
-UID:uaFk4AYbfDo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 パラソーシャル 】#ねねねトワワ  でVtuber活動！【 常闇トワ / 桃鈴ねね 】\nhttps://www.youtube.com/watch?v=xggoemU1Vsk
-DURATION:PT2H
-DTSTART:20231010T120000Z
-SUMMARY:👾常闇トワ: 【 パラソーシャル 】#ねねねトワワ  でVtuber活動！【 常闇トワ / 桃鈴ねね 】
-UID:xggoemU1Vsk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【深夜ラジオ】鷹嶺ルイのミッドナイトラジオ #14【鷹嶺ルイ/ホロライブ】#ルイのミッドナイトラジオ\nhttps://www.youtube.com/watch?v=Tw250ESzyWg
-DURATION:PT2H
-DTSTART:20231008T150000Z
-SUMMARY:鷹嶺ルイ: 【深夜ラジオ】鷹嶺ルイのミッドナイトラジオ #14【鷹嶺ルイ/ホロライブ】#ルイのミッドナイトラジオ
-UID:Tw250ESzyWg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#13.5【ゼルダの伝説ティアーズオブザキングダム】まだゼルダ姫を救えてないって...ガチィ？！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=fOINQXUh2Xs
-DURATION:PT2H
-DTSTART:20231009T040000Z
-SUMMARY:⚔白銀ノエル: #13.5【ゼルダの伝説ティアーズオブザキングダム】まだゼルダ姫を救えてないって...ガチィ？！【白銀ノエル/ホロライブ】
-UID:fOINQXUh2Xs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】ござるさん劇場。抜糸、完了【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=nR7CNw_S6KQ
-DURATION:PT2H
-DTSTART:20231009T100000Z
-SUMMARY:風真いろは: 【雑談】ござるさん劇場。抜糸、完了【風真いろは/ホロライブ】
-UID:nR7CNw_S6KQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#26【P5R】完全初見🌟ペルソナ5ザ・ロイヤル！最終回かも！？【博衣こより/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=7FZpA5OZQgc
-DURATION:PT2H
-DTSTART:20231011T110000Z
-SUMMARY:博衣こより: #26【P5R】完全初見🌟ペルソナ5ザ・ロイヤル！最終回かも！？【博衣こより/ホロライブ】※ネタバレあり
-UID:7FZpA5OZQgc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【アーマード・コアⅥ】エンフォーサーを初見で撃破したVtuberが白熱しすぎな件。 #Shorts 【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=RLmzt62eCJM
@@ -235,11 +95,18 @@ SUMMARY:🐏角巻わため: 【 スイカゲーム 】スイカは友達！！�
 UID:nNhipxvzmes
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MODEL Debut 2 #nicola】えっ！？モデルデビューしちゃった！？事務所掛け持ちはヤバくない！？※ネタバレあり【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=FfMuJyb7rBU
+DESCRIPTION:情緒がイカれて一生音割れしてるヒスVALO動画【VALORANT】\nhttps://www.youtube.com/watch?v=1Aiwpl50WNk
 DURATION:PT2H
-DTSTART:20231009T090000Z
-SUMMARY:尾丸ポルカ: 【MODEL Debut 2 #nicola】えっ！？モデルデビューしちゃった！？事務所掛け持ちはヤバくない！？※ネタバレあり【尾丸ポルカ/ホロライブ】
-UID:FfMuJyb7rBU
+DTSTART:20231010T100000Z
+SUMMARY:ラプラス: 情緒がイカれて一生音割れしてるヒスVALO動画【VALORANT】
+UID:1Aiwpl50WNk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#ししろんの夏休み ちょっと遅れたけど周年は好きな事するぞすぺしゃる！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=u16LqTIQomA
+DURATION:PT2H
+DTSTART:20231011T100000Z
+SUMMARY:獅白ぼたん: #ししろんの夏休み ちょっと遅れたけど周年は好きな事するぞすぺしゃる！【獅白ぼたん/ホロライブ】
+UID:u16LqTIQomA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 スイカゲーム 】初見で3000スコア出しちゃいます！！！【ホロライブ/沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=hKonM8-RooI
@@ -247,6 +114,13 @@ DURATION:PT2H
 DTSTART:20231010T140000Z
 SUMMARY:沙花叉クロヱ: 【 スイカゲーム 】初見で3000スコア出しちゃいます！！！【ホロライブ/沙花叉クロヱ】
 UID:hKonM8-RooI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:興奮するとクセが強くなるアイドルVtuber 【雪花ラミィ/ホロライブ】 #雪花ラミィ #ホロライブ #スイカゲーム\nhttps://www.youtube.com/watch?v=0O3m4F06Kgc
+DURATION:PT2H
+DTSTART:20231010T100253Z
+SUMMARY:雪花ラミィ: 興奮するとクセが強くなるアイドルVtuber 【雪花ラミィ/ホロライブ】 #雪花ラミィ #ホロライブ #スイカゲーム
+UID:0O3m4F06Kgc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ver3.0お披露目】何ができる？！Live2Dが進化した！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=DziRVGbDgcA
@@ -263,13 +137,6 @@ SUMMARY:🍎アキロゼ: 【VCR ARK】初参戦！！スト鯖ARKにムキロ�
 UID:nmugVckd0RQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #朝ミオ 】月曜日だよ～～～～～～～～～！！！！！！\nhttps://www.youtube.com/watch?v=KcNzROykZKM
-DURATION:PT2H
-DTSTART:20231008T223000Z
-SUMMARY:🌲大神ミオ: 【 #朝ミオ 】月曜日だよ～～～～～～～～～！！！！！！
-UID:KcNzROykZKM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 生誕祭 / 3D LIVE 】Cute Is Justice !!!【 #姫森ルーナ生誕祭2023 】\nhttps://www.youtube.com/watch?v=WY26Jo2P9OU
 DURATION:PT2H
 DTSTART:20231010T110000Z
@@ -277,18 +144,11 @@ SUMMARY:🍬姫森ルーナ: 【 生誕祭 / 3D LIVE 】Cute Is Justice !!!【 #
 UID:WY26Jo2P9OU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ストリートファイター6】爆盛りランクマッチ inシルバー！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=-ONY2D_nEGU
+DESCRIPTION:【スイカゲーム】3500点リベンジ！たのしく！無理をせず！悲しくなったら即終了！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=W2DMDU25jVA
 DURATION:PT2H
-DTSTART:20231009T120000Z
-SUMMARY:👯兎田ぺこら: 【ストリートファイター6】爆盛りランクマッチ inシルバー！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:-ONY2D_nEGU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:なんでも複数形にしちゃうみこち #shorts\nhttps://www.youtube.com/watch?v=dO3tSyhPUvA
-DURATION:PT2H
-DTSTART:20231009T090033Z
-SUMMARY:🌸さくらみこ: なんでも複数形にしちゃうみこち #shorts
-UID:dO3tSyhPUvA
+DTSTART:20231010T120000Z
+SUMMARY:博衣こより: 【スイカゲーム】3500点リベンジ！たのしく！無理をせず！悲しくなったら即終了！【博衣こより/ホロライブ】
+UID:W2DMDU25jVA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【＃生スバル】スイカゲームするしゅばああああああああああああああああああああああ！！！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=qQ7EtEvfpPY
@@ -303,19 +163,5 @@ DURATION:PT2H
 DTSTART:20231010T121500Z
 SUMMARY:🍬姫森ルーナ: 【original】まんなかちてん【姫森ルーナ/ホロライブ】
 UID:M0Oud1_4sl0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 10月10日生誕祭 】誕生日カウントダウンするのらぞぉ～！【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=89OSGlp46a0
-DURATION:PT2H
-DTSTART:20231009T143000Z
-SUMMARY:🍬姫森ルーナ: 【 10月10日生誕祭 】誕生日カウントダウンするのらぞぉ～！【姫森ルーナ/ホロライブ】
-UID:89OSGlp46a0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VCR ARK】初参戦！！スト鯖ARKにムキロゼ降りたつPart１２【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=OtJ-qHgqzvQ
-DURATION:PT2H
-DTSTART:20231009T110000Z
-SUMMARY:🍎アキロゼ: 【VCR ARK】初参戦！！スト鯖ARKにムキロゼ降りたつPart１２【アキ・ローゼンタール/ホロライブ】
-UID:OtJ-qHgqzvQ
 END:VEVENT
 END:VCALENDAR
