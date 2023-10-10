@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【RESIDENT EVIL 4 REMAKE】whatcha BAU'in 🐾\nhttps://www.youtube.com/watch?v=2i2NuAAAKgo
+DURATION:PT2H
+DTSTART:20231012T010000Z
+SUMMARY:FUWAMOCO: 【RESIDENT EVIL 4 REMAKE】whatcha BAU'in 🐾
+UID:2i2NuAAAKgo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【SUIKA GAME】It's over when I say it's over #kfp #キアライブ\nhttps://www.youtube.com/watch?v=ehajqmE6qdY
 DURATION:PT2H
 DTSTART:20231010T150000Z
@@ -25,34 +32,6 @@ SUMMARY:Nerissa: 【スイカゲーム】Watermalon 🎼
 UID:Iq5_S76Upgk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Night Delivery: I Have a Midnight Delivery Now Open the Door For Me\nhttps://www.youtube.com/watch?v=C6IRvLENmQ4
-DURATION:PT2H
-DTSTART:20231011T020000Z
-SUMMARY:Shiori: Night Delivery: I Have a Midnight Delivery Now Open the Door For Me
-UID:C6IRvLENmQ4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【KARAOKE 歌枠】PART 2 !! Singing with GUESTS !! ~\nhttps://www.youtube.com/watch?v=bDjzpMmw-JY
-DURATION:PT2H
-DTSTART:20231010T030000Z
-SUMMARY:Mumei: 【KARAOKE 歌枠】PART 2 !! Singing with GUESTS !! ~
-UID:bDjzpMmw-JY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Resident Evil 2】It's not scary if you can fight back!! (Probably)\nhttps://www.youtube.com/watch?v=3QJVyWvSNR4
-DURATION:PT2H
-DTSTART:20231010T230000Z
-SUMMARY:Bijou: 【Resident Evil 2】It's not scary if you can fight back!! (Probably)
-UID:3QJVyWvSNR4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【踊ってみた】美少女無罪♡パイレーツ by 宝鐘マリン DANCE COVER #shorts\nhttps://www.youtube.com/watch?v=k1NjYoFOIuQ
-DURATION:PT2H
-DTSTART:20231010T055046Z
-SUMMARY:Baelz: 【踊ってみた】美少女無罪♡パイレーツ by 宝鐘マリン DANCE COVER #shorts
-UID:k1NjYoFOIuQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪Lies of P≫ baby donkey gamin #2【SPOILER WARNING】\nhttps://www.youtube.com/watch?v=Hgq49op1tzc
 DURATION:PT2H
 DTSTART:20231011T010000Z
@@ -65,13 +44,6 @@ DURATION:PT2H
 DTSTART:20231011T030000Z
 SUMMARY:IRyS: 【スイカゲーム】3000 points would take a miracle
 UID:utMkouCsBGs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SUIKA GAME】FINALLY ITS MY TIME TO SHINE ✨️ #kfp #キアライブ\nhttps://www.youtube.com/watch?v=KUouL2LPRDE
-DURATION:PT2H
-DTSTART:20231009T150000Z
-SUMMARY:Kiara: 【SUIKA GAME】FINALLY ITS MY TIME TO SHINE ✨️ #kfp #キアライブ
-UID:KUouL2LPRDE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Draw & Chat】let's talk\nhttps://www.youtube.com/watch?v=bvaL6-bgxCA
@@ -95,17 +67,59 @@ SUMMARY:Calli: 【スイカゲーム】just a little more... (open vc)
 UID:KnDq6CHKKDs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】Haunted House!! (open VC)\nhttps://www.youtube.com/watch?v=YKIZnQZTetM
-DURATION:PT2H
-DTSTART:20231010T020020Z
-SUMMARY:Calli: 【MINECRAFT】Haunted House!! (open VC)
-UID:YKIZnQZTetM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:「Original Song」mumei\nhttps://www.youtube.com/watch?v=oA0CpI0vCK4
 DURATION:PT2H
 DTSTART:20231010T043000Z
 SUMMARY:Mumei: 「Original Song」mumei
 UID:oA0CpI0vCK4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Night Delivery: I Have a Midnight Delivery Now Open the Door For Me\nhttps://www.youtube.com/watch?v=C6IRvLENmQ4
+DURATION:PT2H
+DTSTART:20231011T020000Z
+SUMMARY:Shiori: Night Delivery: I Have a Midnight Delivery Now Open the Door For Me
+UID:C6IRvLENmQ4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【KARAOKE 歌枠】PART 2 !! Singing with GUESTS !! ~\nhttps://www.youtube.com/watch?v=bDjzpMmw-JY
+DURATION:PT2H
+DTSTART:20231010T030000Z
+SUMMARY:Mumei: 【KARAOKE 歌枠】PART 2 !! Singing with GUESTS !! ~
+UID:bDjzpMmw-JY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Resident Evil 2】It's not scary if you can fight back!! (Probably)\nhttps://www.youtube.com/watch?v=3QJVyWvSNR4
+DURATION:PT2H
+DTSTART:20231010T230000Z
+SUMMARY:Bijou: 【Resident Evil 2】It's not scary if you can fight back!! (Probably)
+UID:3QJVyWvSNR4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FUWAMOCO MORNING】episode 31 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=f270ObaKNZw
+DURATION:PT2H
+DTSTART:20231011T150000Z
+SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 31 🐾 #FWMCMORNING
+UID:f270ObaKNZw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【踊ってみた】美少女無罪♡パイレーツ by 宝鐘マリン DANCE COVER #shorts\nhttps://www.youtube.com/watch?v=k1NjYoFOIuQ
+DURATION:PT2H
+DTSTART:20231010T055046Z
+SUMMARY:Baelz: 【踊ってみた】美少女無罪♡パイレーツ by 宝鐘マリン DANCE COVER #shorts
+UID:k1NjYoFOIuQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SUIKA GAME】FINALLY ITS MY TIME TO SHINE ✨️ #kfp #キアライブ\nhttps://www.youtube.com/watch?v=KUouL2LPRDE
+DURATION:PT2H
+DTSTART:20231009T150000Z
+SUMMARY:Kiara: 【SUIKA GAME】FINALLY ITS MY TIME TO SHINE ✨️ #kfp #キアライブ
+UID:KUouL2LPRDE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】Haunted House!! (open VC)\nhttps://www.youtube.com/watch?v=YKIZnQZTetM
+DURATION:PT2H
+DTSTART:20231010T020020Z
+SUMMARY:Calli: 【MINECRAFT】Haunted House!! (open VC)
+UID:YKIZnQZTetM
 END:VEVENT
 END:VCALENDAR
