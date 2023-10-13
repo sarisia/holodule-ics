@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【I'm on Observation Duty 6】 👀 perceives 👀\nhttps://www.youtube.com/watch?v=x5wKdoLnMi4
-DURATION:PT2H
-DTSTART:20231013T010000Z
-SUMMARY:Shinri: 【I'm on Observation Duty 6】 👀 perceives 👀
-UID:x5wKdoLnMi4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:A (smol) NEW ADVENTURE BEGINS!【🍀Zelda: The Minish Cap🍀】【1】\nhttps://www.youtube.com/watch?v=Gaw43qdkWCg
 DURATION:PT2H
 DTSTART:20231013T130000Z
@@ -25,18 +18,25 @@ SUMMARY:Shinri: Shadow man being like 🧍‍♂️  #josuijishinri #holostars #
 UID:2iLlwTsfq4A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Zatsudan】Diving lesson was cancelled today\nhttps://www.youtube.com/watch?v=FDJNdBXn_Xs
-DURATION:PT2H
-DTSTART:20231013T170000Z
-SUMMARY:Syrios: 【Zatsudan】Diving lesson was cancelled today
-UID:FDJNdBXn_Xs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[LITTLE NIGHTMARES 2] LITTLE BRAIN PLAYS LITTLE GAME [SPOILERS] #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=_4-A4ZjY_aE
 DURATION:PT2H
 DTSTART:20231012T220000Z
 SUMMARY:Bettel: [LITTLE NIGHTMARES 2] LITTLE BRAIN PLAYS LITTLE GAME [SPOILERS] #gavisbettel #holotempus
 UID:_4-A4ZjY_aE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Valorant】I'm literally only doing this to see what I get on Night Market it'll be super short lol\nhttps://www.youtube.com/watch?v=jAY2dZcAGdE
+DURATION:PT2H
+DTSTART:20231012T204100Z
+SUMMARY:Shinri: 【Valorant】I'm literally only doing this to see what I get on Night Market it'll be super short lol
+UID:jAY2dZcAGdE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Zatsudan】Diving lesson was cancelled today\nhttps://www.youtube.com/watch?v=FDJNdBXn_Xs
+DURATION:PT2H
+DTSTART:20231013T170000Z
+SUMMARY:Syrios: 【Zatsudan】Diving lesson was cancelled today
+UID:FDJNdBXn_Xs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【THE CROOKED MAN】Your New Apartment Is A Bit...Strange\nhttps://www.youtube.com/watch?v=9A4QUURl_PQ
@@ -46,10 +46,17 @@ SUMMARY:Flayon: 【THE CROOKED MAN】Your New Apartment Is A Bit...Strange
 UID:9A4QUURl_PQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Valorant】I'm literally only doing this to see what I get on Night Market it'll be super short lol\nhttps://www.youtube.com/watch?v=jAY2dZcAGdE
+DESCRIPTION:【Watermelon Game /スイカゲーム】WATERMELON TIME BABY!\nhttps://www.youtube.com/watch?v=vOXGy7vzFvo
 DURATION:PT2H
-DTSTART:20231012T204100Z
-SUMMARY:Shinri: 【Valorant】I'm literally only doing this to see what I get on Night Market it'll be super short lol
-UID:jAY2dZcAGdE
+DTSTART:20231013T170000Z
+SUMMARY:Hakka: 【Watermelon Game /スイカゲーム】WATERMELON TIME BABY!
+UID:vOXGy7vzFvo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【I'm on Observation Duty 6】 👀 perceives 👀\nhttps://www.youtube.com/watch?v=x5wKdoLnMi4
+DURATION:PT2H
+DTSTART:20231013T010000Z
+SUMMARY:Shinri: 【I'm on Observation Duty 6】 👀 perceives 👀
+UID:x5wKdoLnMi4
 END:VEVENT
 END:VCALENDAR
