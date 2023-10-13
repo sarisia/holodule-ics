@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【AGE OF EMPIRES II】 WOLOLO's your sheep like it's 1999\nhttps://www.youtube.com/watch?v=GPVTncKzrlo
-DURATION:PT2H
-DTSTART:20231013T051000Z
-SUMMARY:Fauna: 【AGE OF EMPIRES II】 WOLOLO's your sheep like it's 1999
-UID:GPVTncKzrlo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Age of Empires 2】We're Here To Be Winners\nhttps://www.youtube.com/watch?v=06vjvJJLGKg
-DURATION:PT2H
-DTSTART:20231013T051000Z
-SUMMARY:Kronii: 【Age of Empires 2】We're Here To Be Winners
-UID:06vjvJJLGKg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪TOWA 1st SOLOLIVE WATCHALONG≫ *fangirling through ugly crying sobs* #常闇トワ1stライブ\nhttps://www.youtube.com/watch?v=xQ2KA4GLELs
 DURATION:PT2H
 DTSTART:20231013T093500Z
@@ -25,11 +11,11 @@ SUMMARY:Baelz: ≪TOWA 1st SOLOLIVE WATCHALONG≫ *fangirling through ugly cryin
 UID:xQ2KA4GLELs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】haunted house build continues! (open VC)\nhttps://www.youtube.com/watch?v=AfSrcfeC1_A
+DESCRIPTION:【FUWAMOCO MORNING】friday the 13th 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=QW_VwFyUBeU
 DURATION:PT2H
-DTSTART:20231013T010119Z
-SUMMARY:Calli: 【MINECRAFT】haunted house build continues! (open VC)
-UID:AfSrcfeC1_A
+DTSTART:20231013T150000Z
+SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】friday the 13th 🐾 #FWMCMORNING
+UID:QW_VwFyUBeU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【AOE2 TOURNAMENT】wood pls #kfp #キアライブ\nhttps://www.youtube.com/watch?v=DfaC0Q0UbaU
@@ -37,13 +23,6 @@ DURATION:PT2H
 DTSTART:20231013T050000Z
 SUMMARY:Kiara: 【AOE2 TOURNAMENT】wood pls #kfp #キアライブ
 UID:DfaC0Q0UbaU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FUWAMOCO MORNING】friday the 13th 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=QW_VwFyUBeU
-DURATION:PT2H
-DTSTART:20231013T150000Z
-SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】friday the 13th 🐾 #FWMCMORNING
-UID:QW_VwFyUBeU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Office Owl (2023) #holoEN3DRepeat\nhttps://www.youtube.com/watch?v=sieqIyCMqS4
@@ -60,32 +39,11 @@ SUMMARY:Amelia: 【Counter-Strike 2】₍ᐢ.  ̫.ᐢ₎︻┳═一 - - - -
 UID:ukHK4owitek
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪JUST CHATTING≫ catching up on supachats while eating froot loops.\nhttps://www.youtube.com/watch?v=FHjfuGqdpJc
-DURATION:PT2H
-DTSTART:20231014T010000Z
-SUMMARY:Baelz: ≪JUST CHATTING≫ catching up on supachats while eating froot loops.
-UID:FHjfuGqdpJc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【AMNESIA: THE DARK DESCENT】we won't scream we won't cry 🐾\nhttps://www.youtube.com/watch?v=2D2nePUZwbo
 DURATION:PT2H
 DTSTART:20231014T010000Z
 SUMMARY:FUWAMOCO: 【AMNESIA: THE DARK DESCENT】we won't scream we won't cry 🐾
 UID:2D2nePUZwbo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PHASMOPHOBIA】w/ @KaelaKovalskia Grindstone Ghost Hunters!\nhttps://www.youtube.com/watch?v=SIGSy28HaHY
-DURATION:PT2H
-DTSTART:20231013T210000Z
-SUMMARY:Bijou: 【PHASMOPHOBIA】w/ @KaelaKovalskia Grindstone Ghost Hunters!
-UID:SIGSy28HaHY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Cat Lady: Welcome to My Panic Room\, Now Scream For Me\nhttps://www.youtube.com/watch?v=zYnyWNW8uIA
-DURATION:PT2H
-DTSTART:20231013T020000Z
-SUMMARY:Shiori: The Cat Lady: Welcome to My Panic Room\, Now Scream For Me
-UID:zYnyWNW8uIA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Lies of P】Truths of B - #3 【SPOILER ALERT】\nhttps://www.youtube.com/watch?v=kft2YJ8iR3s
@@ -102,10 +60,59 @@ SUMMARY:Shiori: Scary Tales Vol. 1: The Puppet Combo Experience in a Nutshell
 UID:DQU38bTURjg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【PHASMOPHOBIA】w/ @KaelaKovalskia Grindstone Ghost Hunters!\nhttps://www.youtube.com/watch?v=SIGSy28HaHY
+DURATION:PT2H
+DTSTART:20231013T210000Z
+SUMMARY:Bijou: 【PHASMOPHOBIA】w/ @KaelaKovalskia Grindstone Ghost Hunters!
+UID:SIGSy28HaHY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【AGE OF EMPIRES II】 WOLOLO's your sheep like it's 1999\nhttps://www.youtube.com/watch?v=GPVTncKzrlo
+DURATION:PT2H
+DTSTART:20231013T051000Z
+SUMMARY:Fauna: 【AGE OF EMPIRES II】 WOLOLO's your sheep like it's 1999
+UID:GPVTncKzrlo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Age of Empires 2】We're Here To Be Winners\nhttps://www.youtube.com/watch?v=06vjvJJLGKg
+DURATION:PT2H
+DTSTART:20231013T051000Z
+SUMMARY:Kronii: 【Age of Empires 2】We're Here To Be Winners
+UID:06vjvJJLGKg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】haunted house build continues! (open VC)\nhttps://www.youtube.com/watch?v=AfSrcfeC1_A
+DURATION:PT2H
+DTSTART:20231013T010119Z
+SUMMARY:Calli: 【MINECRAFT】haunted house build continues! (open VC)
+UID:AfSrcfeC1_A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪JUST CHATTING≫ catching up on supachats while eating froot loops.\nhttps://www.youtube.com/watch?v=FHjfuGqdpJc
+DURATION:PT2H
+DTSTART:20231014T010000Z
+SUMMARY:Baelz: ≪JUST CHATTING≫ catching up on supachats while eating froot loops.
+UID:FHjfuGqdpJc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Cat Lady: Welcome to My Panic Room\, Now Scream For Me\nhttps://www.youtube.com/watch?v=zYnyWNW8uIA
+DURATION:PT2H
+DTSTART:20231013T020000Z
+SUMMARY:Shiori: The Cat Lady: Welcome to My Panic Room\, Now Scream For Me
+UID:zYnyWNW8uIA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:≪MINECRAFT≫ spooky building in spooky game ft. Open VC\nhttps://www.youtube.com/watch?v=i597MifLtSc
 DURATION:PT2H
 DTSTART:20231013T010000Z
 SUMMARY:Baelz: ≪MINECRAFT≫ spooky building in spooky game ft. Open VC
 UID:i597MifLtSc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Nun Massacre】RUN from a NUN (+ ANNOUNCEMENT!!)\nhttps://www.youtube.com/watch?v=_5PgWKvLDVk
+DURATION:PT2H
+DTSTART:20231014T020000Z
+SUMMARY:IRyS: 【Nun Massacre】RUN from a NUN (+ ANNOUNCEMENT!!)
+UID:_5PgWKvLDVk
 END:VEVENT
 END:VCALENDAR
