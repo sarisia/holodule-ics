@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ホスト企画】Club Blue Fireへようこそ【火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=BRfduouibbc
-DURATION:PT2H
-DTSTART:20231014T120000Z
-SUMMARY:火威青: 【ホスト企画】Club Blue Fireへようこそ【火威青 #hololiveDEV_IS #ReGLOSS 】
-UID:BRfduouibbc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HoloCure ホロキュア】タスケテ！！初心者だけど1時間でStage2クリアしたいっっ！！！！【#一条莉々華/ #hololiveDEV_IS #ReGLOSS】\nhttps://www.youtube.com/watch?v=80BYR2ZD3L0
-DURATION:PT2H
-DTSTART:20231014T030000Z
-SUMMARY:一条莉々華: 【HoloCure ホロキュア】タスケテ！！初心者だけど1時間でStage2クリアしたいっっ！！！！【#一条莉々華/ #hololiveDEV_IS #ReGLOSS】
-UID:80BYR2ZD3L0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ReGLOSS Among Us】私は犯人じゃなーーーい！！！！【#一条莉々華/hololive DEV_IS】\nhttps://www.youtube.com/watch?v=_avCGwEmuc4
 DURATION:PT2H
 DTSTART:20231015T110000Z
@@ -44,5 +30,33 @@ DURATION:PT2H
 DTSTART:20231014T140000Z
 SUMMARY:儒烏風亭らでん: 【Minecraft】初心者すぎるマインクラフト【儒烏風亭らでん  #ReGLOSS 】
 UID:MiDKe8h86mk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【AmougUS】初心者すぎるアモアスをReGLOSSメンバーでやる【儒烏風亭らでん  #ReGLOSS 】\nhttps://www.youtube.com/watch?v=DOX4IdfkjLM
+DURATION:PT2H
+DTSTART:20231015T110000Z
+SUMMARY:儒烏風亭らでん: 【AmougUS】初心者すぎるアモアスをReGLOSSメンバーでやる【儒烏風亭らでん  #ReGLOSS 】
+UID:DOX4IdfkjLM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ホスト企画】Club Blue Fireへようこそ【火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=BRfduouibbc
+DURATION:PT2H
+DTSTART:20231014T120000Z
+SUMMARY:火威青: 【ホスト企画】Club Blue Fireへようこそ【火威青 #hololiveDEV_IS #ReGLOSS 】
+UID:BRfduouibbc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】スパチャ読み雑談！【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=GM3aypAvJe0
+DURATION:PT2H
+DTSTART:20231015T140000Z
+SUMMARY:儒烏風亭らでん: 【雑談】スパチャ読み雑談！【儒烏風亭らでん #ReGLOSS 】
+UID:GM3aypAvJe0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HoloCure ホロキュア】タスケテ！！初心者だけど1時間でStage2クリアしたいっっ！！！！【#一条莉々華/ #hololiveDEV_IS #ReGLOSS】\nhttps://www.youtube.com/watch?v=80BYR2ZD3L0
+DURATION:PT2H
+DTSTART:20231014T030000Z
+SUMMARY:一条莉々華: 【HoloCure ホロキュア】タスケテ！！初心者だけど1時間でStage2クリアしたいっっ！！！！【#一条莉々華/ #hololiveDEV_IS #ReGLOSS】
+UID:80BYR2ZD3L0
 END:VEVENT
 END:VCALENDAR
