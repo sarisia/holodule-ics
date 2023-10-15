@@ -4,46 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【雑談】寒くね？【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=Z_8igDaErWM
-DURATION:PT2H
-DTSTART:20231015T024500Z
-SUMMARY:🍷夕刻ロベル: 【雑談】寒くね？【夕刻ロベル/ホロスターズ】
-UID:Z_8igDaErWM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:弾き語り 歌 (-_-)zzz【奏手イヅル】\nhttps://www.youtube.com/watch?v=TRHxz0u46rY
-DURATION:PT2H
-DTSTART:20231014T203000Z
-SUMMARY:🎸奏手イヅル: 弾き語り 歌 (-_-)zzz【奏手イヅル】
-UID:TRHxz0u46rY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【旅行】知らない土地を練り歩く事ほど楽しい物は無い【#花獣グミ】\nhttps://www.youtube.com/watch?v=0jmKpWLVT2k
-DURATION:PT2H
-DTSTART:20231015T120000Z
-SUMMARY:影山シエン: 【旅行】知らない土地を練り歩く事ほど楽しい物は無い【#花獣グミ】
-UID:0jmKpWLVT2k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スイカゲーム】日曜昼間の優雅な4000点チャレンジ！！【#緋崎ガンマ / #ホロスターズ / #vtuber 】\nhttps://www.youtube.com/watch?v=92AoKERYPVU
-DURATION:PT2H
-DTSTART:20231015T060000Z
-SUMMARY:緋崎ガンマ: 【スイカゲーム】日曜昼間の優雅な4000点チャレンジ！！【#緋崎ガンマ / #ホロスターズ / #vtuber 】
-UID:92AoKERYPVU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【スイカゲーム】一夜でスイカキングになった男！👑🍉【夜十神封魔｜UPROAR!!】\nhttps://www.youtube.com/watch?v=zi01Sayh_Tg
 DURATION:PT2H
 DTSTART:20231016T090000Z
 SUMMARY:夜十神封魔: 【スイカゲーム】一夜でスイカキングになった男！👑🍉【夜十神封魔｜UPROAR!!】
 UID:zi01Sayh_Tg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】来週カスタムあるので、コソ練【夜十神封魔｜UPROAR!!】\nhttps://www.youtube.com/watch?v=br2x4jo8rDU
-DURATION:PT2H
-DTSTART:20231014T040000Z
-SUMMARY:夜十神封魔: 【APEX】来週カスタムあるので、コソ練【夜十神封魔｜UPROAR!!】
-UID:br2x4jo8rDU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活雑談】月曜で憂鬱な社会人＆学生を朝から元気にする配信【#緋崎ガンマ / #ホロスターズ / #vtuber 】\nhttps://www.youtube.com/watch?v=2sC98EOCk2c
@@ -53,11 +18,18 @@ SUMMARY:緋崎ガンマ: 【朝活雑談】月曜で憂鬱な社会人＆学生�
 UID:2sC98EOCk2c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:イカって心臓何個あるか知ってる？ #shorts #雑学 #豆知識 #Vtuber #ホロスターズ\nhttps://www.youtube.com/watch?v=skl1HSbkv18
+DESCRIPTION:【旅行】知らない土地を練り歩く事ほど楽しい物は無い【#花獣グミ】\nhttps://www.youtube.com/watch?v=0jmKpWLVT2k
 DURATION:PT2H
-DTSTART:20231014T093012Z
-SUMMARY:🍕アルランディス: イカって心臓何個あるか知ってる？ #shorts #雑学 #豆知識 #Vtuber #ホロスターズ
-UID:skl1HSbkv18
+DTSTART:20231015T120000Z
+SUMMARY:影山シエン: 【旅行】知らない土地を練り歩く事ほど楽しい物は無い【#花獣グミ】
+UID:0jmKpWLVT2k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】寒くね？【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=Z_8igDaErWM
+DURATION:PT2H
+DTSTART:20231015T024500Z
+SUMMARY:🍷夕刻ロベル: 【雑談】寒くね？【夕刻ロベル/ホロスターズ】
+UID:Z_8igDaErWM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【STREET FIGHTER6】ホロスタ内大会に向けて修行するぞ！5日目【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=W1BBiFGvZac
@@ -67,17 +39,17 @@ SUMMARY:🦔💨岸堂天真: 【STREET FIGHTER6】ホロスタ内大会に向�
 UID:W1BBiFGvZac
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【STREET FIGHTER6】ホロスタ内大会に向けて修行するぞ！4日目【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=hrRoiApx0EQ
+DESCRIPTION:弾き語り 歌 (-_-)zzz【奏手イヅル】\nhttps://www.youtube.com/watch?v=TRHxz0u46rY
 DURATION:PT2H
-DTSTART:20231013T233000Z
-SUMMARY:🦔💨岸堂天真: 【STREET FIGHTER6】ホロスタ内大会に向けて修行するぞ！4日目【岸堂天真/ホロスターズ】
-UID:hrRoiApx0EQ
+DTSTART:20231014T203000Z
+SUMMARY:🎸奏手イヅル: 弾き語り 歌 (-_-)zzz【奏手イヅル】
+UID:TRHxz0u46rY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スイカゲーム】UPROAR!!スイカ王決定戦！！一番スイカに愛されている男は誰だ！【#緋崎ガンマ / #ホロスターズ / #vtuber #放課後アップロー /夜十神封魔/羽継烏有】\nhttps://www.youtube.com/watch?v=-aO05EuZ8uM
+DESCRIPTION:【スイカゲーム】日曜昼間の優雅な4000点チャレンジ！！【#緋崎ガンマ / #ホロスターズ / #vtuber 】\nhttps://www.youtube.com/watch?v=92AoKERYPVU
 DURATION:PT2H
-DTSTART:20231014T090000Z
-SUMMARY:緋崎ガンマ: 【スイカゲーム】UPROAR!!スイカ王決定戦！！一番スイカに愛されている男は誰だ！【#緋崎ガンマ / #ホロスターズ / #vtuber #放課後アップロー /夜十神封魔/羽継烏有】
-UID:-aO05EuZ8uM
+DTSTART:20231015T060000Z
+SUMMARY:緋崎ガンマ: 【スイカゲーム】日曜昼間の優雅な4000点チャレンジ！！【#緋崎ガンマ / #ホロスターズ / #vtuber 】
+UID:92AoKERYPVU
 END:VEVENT
 END:VCALENDAR
