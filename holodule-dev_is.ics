@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【初オフコラボ】はじめが莉々華の家に襲来！？！【#一条莉々華/hololive DEV_IS】\nhttps://www.youtube.com/watch?v=y2VoREGaobk
-DURATION:PT2H
-DTSTART:20231016T110000Z
-SUMMARY:一条莉々華: 【初オフコラボ】はじめが莉々華の家に襲来！？！【#一条莉々華/hololive DEV_IS】
-UID:y2VoREGaobk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【赤マント】こわくないでうｓ 【火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=juk-GB94XWQ
 DURATION:PT2H
 DTSTART:20231016T120000Z
@@ -39,17 +32,31 @@ SUMMARY:儒烏風亭らでん: 【unpacking】深夜のまったり荷解きゲ�
 UID:hBxN8XeEuIo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#一服朝っぱらでん】月曜日の朝は朝活配信！おはようございます！【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=9KzB-7cS8H8
-DURATION:PT2H
-DTSTART:20231015T210000Z
-SUMMARY:儒烏風亭らでん: 【#一服朝っぱらでん】月曜日の朝は朝活配信！おはようございます！【儒烏風亭らでん #ReGLOSS 】
-UID:9KzB-7cS8H8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ファミレスを享受せよ】今日も深夜から配信するし、ドリンクバーだってあるんだ【儒烏風亭らでん  #ReGLOSS 】\nhttps://www.youtube.com/watch?v=omVO_yOg-hQ
 DURATION:PT2H
 DTSTART:20231017T140000Z
 SUMMARY:儒烏風亭らでん: 【ファミレスを享受せよ】今日も深夜から配信するし、ドリンクバーだってあるんだ【儒烏風亭らでん  #ReGLOSS 】
 UID:omVO_yOg-hQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【初オフコラボ】はじめが莉々華の家に襲来！？！【#一条莉々華/hololive DEV_IS】\nhttps://www.youtube.com/watch?v=y2VoREGaobk
+DURATION:PT2H
+DTSTART:20231016T110000Z
+SUMMARY:一条莉々華: 【初オフコラボ】はじめが莉々華の家に襲来！？！【#一条莉々華/hololive DEV_IS】
+UID:y2VoREGaobk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【りりらでん】恐怖のドン底から這い上がるパラソーシャル【#一条莉々華/hololive DEV_IS】\nhttps://www.youtube.com/watch?v=dnVFWqR_J5I
+DURATION:PT2H
+DTSTART:20231017T100000Z
+SUMMARY:一条莉々華: 【りりらでん】恐怖のドン底から這い上がるパラソーシャル【#一条莉々華/hololive DEV_IS】
+UID:dnVFWqR_J5I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#一服朝っぱらでん】月曜日の朝は朝活配信！おはようございます！【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=9KzB-7cS8H8
+DURATION:PT2H
+DTSTART:20231015T210000Z
+SUMMARY:儒烏風亭らでん: 【#一服朝っぱらでん】月曜日の朝は朝活配信！おはようございます！【儒烏風亭らでん #ReGLOSS 】
+UID:9KzB-7cS8H8
 END:VEVENT
 END:VCALENDAR
