@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Raft】BRRRRRRRRRRRRRRRUCE. ok where were we?【Kaela x Kronii / hololive】\nhttps://www.youtube.com/watch?v=ADVdBaBIH7k
+DURATION:PT2H
+DTSTART:20231018T030000Z
+SUMMARY:Kaela: 【Raft】BRRRRRRRRRRRRRRRUCE. ok where were we?【Kaela x Kronii / hololive】
+UID:ADVdBaBIH7k
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Inunaki Tunnel | 犬鳴トンネル】Keep Advancing\, and Don't Look Behind. #Spookyfissa DAY 2【holoID | Anya】\nhttps://www.youtube.com/watch?v=OZLzAbW1Btc
 DURATION:PT2H
 DTSTART:20231018T130000Z
 SUMMARY:Anya: 【Inunaki Tunnel | 犬鳴トンネル】Keep Advancing\, and Don't Look Behind. #Spookyfissa DAY 2【holoID | Anya】
 UID:OZLzAbW1Btc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Ao Oni | 青鬼】Who Is Stronger? This Ancient Weapon\, or the Blue Monsters? #Spookyfissa DAY 3【Anya】\nhttps://www.youtube.com/watch?v=agrWPvOLCWQ
+DURATION:PT2H
+DTSTART:20231019T130000Z
+SUMMARY:Anya: 【Ao Oni | 青鬼】Who Is Stronger? This Ancient Weapon\, or the Blue Monsters? #Spookyfissa DAY 3【Anya】
+UID:agrWPvOLCWQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Monster Hunter WORLD】AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA【 iofi / hololive 】\nhttps://www.youtube.com/watch?v=StElSYyYoAc
@@ -23,12 +37,5 @@ DURATION:PT2H
 DTSTART:20231018T154249Z
 SUMMARY:🎨Iofi: Ditolak Lubang dan Izin Lubang #golfIt #hololive #hololiveID #iofi
 UID:7cw7Rsm2LKw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Raft】BRRRRRRRRRRRRRRRUCE. ok where were we?【Kaela x Kronii / hololive】\nhttps://www.youtube.com/watch?v=ADVdBaBIH7k
-DURATION:PT2H
-DTSTART:20231018T030000Z
-SUMMARY:Kaela: 【Raft】BRRRRRRRRRRRRRRRUCE. ok where were we?【Kaela x Kronii / hololive】
-UID:ADVdBaBIH7k
 END:VEVENT
 END:VCALENDAR
