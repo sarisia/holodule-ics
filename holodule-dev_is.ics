@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ラジオ配信】ReGLOSS ROOM #2　10月担当：一条莉々華・轟はじめ【#リグ部屋】\nhttps://www.youtube.com/watch?v=jknb15o2-oA
-DURATION:PT2H
-DTSTART:20231019T090000Z
-SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM #2　10月担当：一条莉々華・轟はじめ【#リグ部屋】
-UID:jknb15o2-oA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#らでんのラジオ】祝！第一回目らでんのラジオ　お酒の失敗談ほか【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=X8jntIe11Ns
 DURATION:PT2H
 DTSTART:20231018T140000Z
@@ -51,5 +44,19 @@ DURATION:PT2H
 DTSTART:20231017T144500Z
 SUMMARY:儒烏風亭らでん: 【ファミレスを享受せよ】今日も深夜から配信するし、ドリンクバーだってあるんだ【儒烏風亭らでん  #ReGLOSS 】
 UID:omVO_yOg-hQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ラジオ配信】ReGLOSS ROOM #2　10月担当：一条莉々華・轟はじめ【#リグ部屋】\nhttps://www.youtube.com/watch?v=jknb15o2-oA
+DURATION:PT2H
+DTSTART:20231019T090000Z
+SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM #2　10月担当：一条莉々華・轟はじめ【#リグ部屋】
+UID:jknb15o2-oA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:お姉さんが"丸ノ内サディスティック"歌ってみた【轟はじめ/ReGLOSS】 #hololivedev_is\nhttps://www.youtube.com/watch?v=SECqsB39-IY
+DURATION:PT2H
+DTSTART:20231018T080027Z
+SUMMARY:轟はじめ: お姉さんが"丸ノ内サディスティック"歌ってみた【轟はじめ/ReGLOSS】 #hololivedev_is
+UID:SECqsB39-IY
 END:VEVENT
 END:VCALENDAR
