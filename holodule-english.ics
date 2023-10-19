@@ -4,60 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【HOME SWEET HOME】with @FUWAMOCOch This can't be our new home...\nhttps://www.youtube.com/watch?v=F3XxjhHvXkk
-DURATION:PT2H
-DTSTART:20231020T010000Z
-SUMMARY:Bijou: 【HOME SWEET HOME】with @FUWAMOCOch This can't be our new home...
-UID:F3XxjhHvXkk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【World of Horror】 Junji Ito inspired horror roguelite crafted with love and terror\nhttps://www.youtube.com/watch?v=8qy07dl8Sbc
-DURATION:PT2H
-DTSTART:20231018T220000Z
-SUMMARY:Fauna: 【World of Horror】 Junji Ito inspired horror roguelite crafted with love and terror
-UID:8qy07dl8Sbc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RESIDENT EVIL 4 REMAKE】stay out of the darkness 🐾\nhttps://www.youtube.com/watch?v=xZfYJ6nmKnM
-DURATION:PT2H
-DTSTART:20231019T010000Z
-SUMMARY:FUWAMOCO: 【RESIDENT EVIL 4 REMAKE】stay out of the darkness 🐾
-UID:xZfYJ6nmKnM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ホロのスイカ 】Wow ! Look At This New Game !\nhttps://www.youtube.com/watch?v=Do4BDtHWRic
 DURATION:PT2H
 DTSTART:20231019T030000Z
 SUMMARY:Mumei: 【ホロのスイカ 】Wow ! Look At This New Game !
 UID:Do4BDtHWRic
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MV】 SNEAKING - Song by Mori Calliope（メタルギア公式コラボソング）\nhttps://www.youtube.com/watch?v=42awuPx06e8
-DURATION:PT2H
-DTSTART:20231020T090000Z
-SUMMARY:Calli: 【MV】 SNEAKING - Song by Mori Calliope（メタルギア公式コラボソング）
-UID:42awuPx06e8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FUWAMOCO MORNING】episode 34 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=WttmEXH3VWs
-DURATION:PT2H
-DTSTART:20231020T150000Z
-SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 34 🐾 #FWMCMORNING
-UID:WttmEXH3VWs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪Resident Evil 2≫ i shall peek at this game. #1?\nhttps://www.youtube.com/watch?v=kr6L6lHluKg
-DURATION:PT2H
-DTSTART:20231020T010000Z
-SUMMARY:Baelz: ≪Resident Evil 2≫ i shall peek at this game. #1?
-UID:kr6L6lHluKg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Buddy Simulator 1984】Buddy Squad Square Up | END\nhttps://www.youtube.com/watch?v=x6xbevdGB-w
-DURATION:PT2H
-DTSTART:20231018T230000Z
-SUMMARY:Kronii: 【Buddy Simulator 1984】Buddy Squad Square Up | END
-UID:x6xbevdGB-w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The Cat Lady: Another Wonderful Life of Parasite Hunting\nhttps://www.youtube.com/watch?v=cw01nw3hClE
@@ -72,6 +23,13 @@ DURATION:PT2H
 DTSTART:20231019T020030Z
 SUMMARY:Shiori: Being Shiori’s Manager is Suffering #shorts
 UID:ro6jl0zYbSE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【THE CONVENIENCE STORE】no scary just snacks and sweets 🐾\nhttps://www.youtube.com/watch?v=CGfOWj0IZSQ
+DURATION:PT2H
+DTSTART:20231021T010000Z
+SUMMARY:FUWAMOCO: 【THE CONVENIENCE STORE】no scary just snacks and sweets 🐾
+UID:CGfOWj0IZSQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪We Were Here Expeditions: The Friendship≫ baebis going on an adventure w/ Bijou\nhttps://www.youtube.com/watch?v=K1BUHdbUIlE
@@ -95,11 +53,11 @@ SUMMARY:FUWAMOCO: 【ホロのスイカ HOLO NO SUIKA】senpai + senpai = BIG se
 UID:wP1T96Bwwv0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【AOE2】micromanaging to git gud for ranked games #kfp #キアライブ\nhttps://www.youtube.com/watch?v=6v9heJjHv_A
+DESCRIPTION:【MV】 SNEAKING - Song by Mori Calliope（メタルギア公式コラボソング）\nhttps://www.youtube.com/watch?v=42awuPx06e8
 DURATION:PT2H
-DTSTART:20231019T170000Z
-SUMMARY:Kiara: 【AOE2】micromanaging to git gud for ranked games #kfp #キアライブ
-UID:6v9heJjHv_A
+DTSTART:20231020T090000Z
+SUMMARY:Calli: 【MV】 SNEAKING - Song by Mori Calliope（メタルギア公式コラボソング）
+UID:42awuPx06e8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【WE WERE HERE EXPEDITIONS: THE FRIENDSHIP】w/ @HakosBaelz Go Team Baebi!!\nhttps://www.youtube.com/watch?v=590hXw44cpk
@@ -107,5 +65,54 @@ DURATION:PT2H
 DTSTART:20231019T010000Z
 SUMMARY:Bijou: 【WE WERE HERE EXPEDITIONS: THE FRIENDSHIP】w/ @HakosBaelz Go Team Baebi!!
 UID:590hXw44cpk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HOME SWEET HOME】with @FUWAMOCOch This can't be our new home...\nhttps://www.youtube.com/watch?v=F3XxjhHvXkk
+DURATION:PT2H
+DTSTART:20231020T010000Z
+SUMMARY:Bijou: 【HOME SWEET HOME】with @FUWAMOCOch This can't be our new home...
+UID:F3XxjhHvXkk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【World of Horror】 Junji Ito inspired horror roguelite crafted with love and terror\nhttps://www.youtube.com/watch?v=8qy07dl8Sbc
+DURATION:PT2H
+DTSTART:20231018T220000Z
+SUMMARY:Fauna: 【World of Horror】 Junji Ito inspired horror roguelite crafted with love and terror
+UID:8qy07dl8Sbc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RESIDENT EVIL 4 REMAKE】stay out of the darkness 🐾\nhttps://www.youtube.com/watch?v=xZfYJ6nmKnM
+DURATION:PT2H
+DTSTART:20231019T010000Z
+SUMMARY:FUWAMOCO: 【RESIDENT EVIL 4 REMAKE】stay out of the darkness 🐾
+UID:xZfYJ6nmKnM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪Resident Evil 2≫ i shall peek at this game. #1?\nhttps://www.youtube.com/watch?v=kr6L6lHluKg
+DURATION:PT2H
+DTSTART:20231020T010000Z
+SUMMARY:Baelz: ≪Resident Evil 2≫ i shall peek at this game. #1?
+UID:kr6L6lHluKg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Buddy Simulator 1984】Buddy Squad Square Up | END\nhttps://www.youtube.com/watch?v=x6xbevdGB-w
+DURATION:PT2H
+DTSTART:20231018T230000Z
+SUMMARY:Kronii: 【Buddy Simulator 1984】Buddy Squad Square Up | END
+UID:x6xbevdGB-w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FUWAMOCO MORNING】episode 34 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=WttmEXH3VWs
+DURATION:PT2H
+DTSTART:20231020T150000Z
+SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 34 🐾 #FWMCMORNING
+UID:WttmEXH3VWs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【AOE2】micromanaging to git gud for ranked games #kfp #キアライブ\nhttps://www.youtube.com/watch?v=6v9heJjHv_A
+DURATION:PT2H
+DTSTART:20231019T170000Z
+SUMMARY:Kiara: 【AOE2】micromanaging to git gud for ranked games #kfp #キアライブ
+UID:6v9heJjHv_A
 END:VEVENT
 END:VCALENDAR
