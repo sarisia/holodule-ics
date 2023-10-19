@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Raft】BRRRRRRRRRRRRRRRUCE. ok where were we?【Kaela x Kronii / hololive】\nhttps://www.youtube.com/watch?v=ADVdBaBIH7k
-DURATION:PT2H
-DTSTART:20231018T030000Z
-SUMMARY:Kaela: 【Raft】BRRRRRRRRRRRRRRRUCE. ok where were we?【Kaela x Kronii / hololive】
-UID:ADVdBaBIH7k
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【スイカゲーム】Chilling while playing this game【Moona | holoID】\nhttps://www.youtube.com/watch?v=NOGTWPeSYK8
 DURATION:PT2H
 DTSTART:20231019T033000Z
 SUMMARY:🔮Moona: 【スイカゲーム】Chilling while playing this game【Moona | holoID】
 UID:NOGTWPeSYK8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Inunaki Tunnel | 犬鳴トンネル】Keep Advancing\, and Don't Look Behind. #Spookyfissa DAY 2【holoID | Anya】\nhttps://www.youtube.com/watch?v=OZLzAbW1Btc
-DURATION:PT2H
-DTSTART:20231018T130000Z
-SUMMARY:Anya: 【Inunaki Tunnel | 犬鳴トンネル】Keep Advancing\, and Don't Look Behind. #Spookyfissa DAY 2【holoID | Anya】
-UID:OZLzAbW1Btc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【3D PRE-TALK】are YOU ready for tomorrow?【#KaelaKovalskia3D】\nhttps://www.youtube.com/watch?v=qvUgPkXRYSQ
@@ -46,10 +32,31 @@ SUMMARY:🎨Iofi: 【Monster Hunter WORLD】AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA�
 UID:StElSYyYoAc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【スイカゲーム | SUIKA GAME】fruitiest peafowl in hololive【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=dYJc1YBYy4o
+DURATION:PT2H
+DTSTART:20231019T120000Z
+SUMMARY:Reine: 【スイカゲーム | SUIKA GAME】fruitiest peafowl in hololive【Pavolia Reine/hololiveID 2nd gen】
+UID:dYJc1YBYy4o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Raft】BRRRRRRRRRRRRRRRUCE. ok where were we?【Kaela x Kronii / hololive】\nhttps://www.youtube.com/watch?v=ADVdBaBIH7k
+DURATION:PT2H
+DTSTART:20231018T030000Z
+SUMMARY:Kaela: 【Raft】BRRRRRRRRRRRRRRRUCE. ok where were we?【Kaela x Kronii / hololive】
+UID:ADVdBaBIH7k
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Ditolak Lubang dan Izin Lubang #golfIt #hololive #hololiveID #iofi\nhttps://www.youtube.com/watch?v=7cw7Rsm2LKw
 DURATION:PT2H
 DTSTART:20231018T154249Z
 SUMMARY:🎨Iofi: Ditolak Lubang dan Izin Lubang #golfIt #hololive #hololiveID #iofi
 UID:7cw7Rsm2LKw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Inunaki Tunnel | 犬鳴トンネル】Keep Advancing\, and Don't Look Behind. #Spookyfissa DAY 2【holoID | Anya】\nhttps://www.youtube.com/watch?v=OZLzAbW1Btc
+DURATION:PT2H
+DTSTART:20231018T130000Z
+SUMMARY:Anya: 【Inunaki Tunnel | 犬鳴トンネル】Keep Advancing\, and Don't Look Behind. #Spookyfissa DAY 2【holoID | Anya】
+UID:OZLzAbW1Btc
 END:VEVENT
 END:VCALENDAR
