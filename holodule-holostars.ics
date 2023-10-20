@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【スイカゲーム】スイカ中毒者のダブルスイカチャレンジ！！【#緋崎ガンマ / #ホロスターズ / #vtuber 】\nhttps://www.youtube.com/watch?v=8oDi1KdTmg4
+DURATION:PT2H
+DTSTART:20231021T040000Z
+SUMMARY:緋崎ガンマ: 【スイカゲーム】スイカ中毒者のダブルスイカチャレンジ！！【#緋崎ガンマ / #ホロスターズ / #vtuber 】
+UID:8oDi1KdTmg4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#パラソーシャル】配信者身バレの恐怖体験！？ 絶叫ホロスターズまとめ　#ホロスタ\nhttps://www.youtube.com/watch?v=nrdPl13Ngd0
 DURATION:PT2H
 DTSTART:20231020T080032Z
@@ -67,18 +74,18 @@ SUMMARY:🍕アルランディス: 【ストリートファイター6】こん�
 UID:YrFxiVdC4UI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スーパーマリオブラザーズ ワンダー】ゾウになりたい　＃01【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=zSJJ2PtMDRw
-DURATION:PT2H
-DTSTART:20231020T050000Z
-SUMMARY:荒咬オウガ: 【スーパーマリオブラザーズ ワンダー】ゾウになりたい　＃01【荒咬オウガ/ホロスターズ】
-UID:zSJJ2PtMDRw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Party Animals】リスナー参加型！1位にならなきゃ告知できない #ディスまつり【夏色まつり/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=EViaMqbywOg
 DURATION:PT2H
 DTSTART:20231020T083000Z
 SUMMARY:🍕アルランディス: 【Party Animals】リスナー参加型！1位にならなきゃ告知できない #ディスまつり【夏色まつり/アルランディス/ホロスターズ】
 UID:EViaMqbywOg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スーパーマリオブラザーズ ワンダー】ゾウになりたい　＃01【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=zSJJ2PtMDRw
+DURATION:PT2H
+DTSTART:20231020T050000Z
+SUMMARY:荒咬オウガ: 【スーパーマリオブラザーズ ワンダー】ゾウになりたい　＃01【荒咬オウガ/ホロスターズ】
+UID:zSJJ2PtMDRw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【メンバー限定】見る映画を一緒に決めてみんなで同時視聴する会【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=ust-nOJLZ2g
