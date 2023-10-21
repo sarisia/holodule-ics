@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【FUWAMOCO ROCK N' RAWR PARTY】halloween trick or treat howling ♪\nhttps://www.youtube.com/watch?v=xIyBZHUcSZM
-DURATION:PT2H
-DTSTART:20231022T010000Z
-SUMMARY:FUWAMOCO: 【FUWAMOCO ROCK N' RAWR PARTY】halloween trick or treat howling ♪
-UID:xIyBZHUcSZM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ZATSUDAN】pumkin time ? 🎃chatting and then thanking some superchats!\nhttps://www.youtube.com/watch?v=oNdm_ewA4B0
-DURATION:PT2H
-DTSTART:20231021T170000Z
-SUMMARY:Amelia: 【ZATSUDAN】pumkin time ? 🎃chatting and then thanking some superchats!
-UID:oNdm_ewA4B0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Lies of P】Who's pulling the strings here?! - #4 【SPOILER ALERT】\nhttps://www.youtube.com/watch?v=qw0zSUOk7rM
 DURATION:PT2H
 DTSTART:20231020T230000Z
@@ -25,11 +11,11 @@ SUMMARY:Bijou: 【Lies of P】Who's pulling the strings here?! - #4 【SPOILER A
 UID:qw0zSUOk7rM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【COVER】Down By The River (Nerissa Ravencroft)\nhttps://www.youtube.com/watch?v=8j3wK1DXhrs
+DESCRIPTION:【FIRST PROMISE COLLAB】We Promise to FIGHT and FEUD【Family Feud】\nhttps://www.youtube.com/watch?v=BMWvL6PK1ag
 DURATION:PT2H
-DTSTART:20231022T000000Z
-SUMMARY:Nerissa: 【COVER】Down By The River (Nerissa Ravencroft)
-UID:8j3wK1DXhrs
+DTSTART:20231022T030000Z
+SUMMARY:IRyS: 【FIRST PROMISE COLLAB】We Promise to FIGHT and FEUD【Family Feud】
+UID:BMWvL6PK1ag
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:MAX HAUNT SETTINGS in The Mortuary Assistant!\nhttps://www.youtube.com/watch?v=xPeMSsZqJtQ
@@ -39,32 +25,11 @@ SUMMARY:Shiori: MAX HAUNT SETTINGS in The Mortuary Assistant!
 UID:xPeMSsZqJtQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【CAR RATING】Rating your CARS with NERISSA!!! submit on twitter with #isthisamusclecar ! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=D_uuZW2nknY
-DURATION:PT2H
-DTSTART:20231021T200000Z
-SUMMARY:Kiara: 【CAR RATING】Rating your CARS with NERISSA!!! submit on twitter with #isthisamusclecar ! #kfp #キアライブ
-UID:D_uuZW2nknY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【WOLFQUEST】my lady and my babies\nhttps://www.youtube.com/watch?v=_T6Vrsv_FHg
 DURATION:PT2H
 DTSTART:20231021T031500Z
 SUMMARY:Mumei: 【WOLFQUEST】my lady and my babies
 UID:_T6Vrsv_FHg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Labrynthine | Lost in a Hedgemaze with @NerissaRavencroft\nhttps://www.youtube.com/watch?v=_-ZLujLTt5s
-DURATION:PT2H
-DTSTART:20231022T020000Z
-SUMMARY:Shiori: Labrynthine | Lost in a Hedgemaze with @NerissaRavencroft
-UID:_-ZLujLTt5s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Super Mario Bros. Wonder】 I heard this game has elephants\nhttps://www.youtube.com/watch?v=72J-41G2aQc
-DURATION:PT2H
-DTSTART:20231020T220000Z
-SUMMARY:Fauna: 【Super Mario Bros. Wonder】 I heard this game has elephants
-UID:72J-41G2aQc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【THE CONVENIENCE STORE】no scary just snacks and sweets 🐾\nhttps://www.youtube.com/watch?v=CGfOWj0IZSQ
@@ -93,6 +58,48 @@ DURATION:PT2H
 DTSTART:20231021T230000Z
 SUMMARY:Bijou: 【MINECRAFT】Is Minecraft a horror game?
 UID:EDUVSrotmJ0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FUWAMOCO ROCK N' RAWR PARTY】halloween trick or treat howling ♪\nhttps://www.youtube.com/watch?v=xIyBZHUcSZM
+DURATION:PT2H
+DTSTART:20231022T010000Z
+SUMMARY:FUWAMOCO: 【FUWAMOCO ROCK N' RAWR PARTY】halloween trick or treat howling ♪
+UID:xIyBZHUcSZM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ZATSUDAN】pumkin time ? 🎃chatting and then thanking some superchats!\nhttps://www.youtube.com/watch?v=oNdm_ewA4B0
+DURATION:PT2H
+DTSTART:20231021T170000Z
+SUMMARY:Amelia: 【ZATSUDAN】pumkin time ? 🎃chatting and then thanking some superchats!
+UID:oNdm_ewA4B0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【COVER】Down By The River (Nerissa Ravencroft)\nhttps://www.youtube.com/watch?v=8j3wK1DXhrs
+DURATION:PT2H
+DTSTART:20231022T000000Z
+SUMMARY:Nerissa: 【COVER】Down By The River (Nerissa Ravencroft)
+UID:8j3wK1DXhrs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CAR RATING】Rating your CARS with NERISSA!!! submit on twitter with #isthisamusclecar ! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=D_uuZW2nknY
+DURATION:PT2H
+DTSTART:20231021T200000Z
+SUMMARY:Kiara: 【CAR RATING】Rating your CARS with NERISSA!!! submit on twitter with #isthisamusclecar ! #kfp #キアライブ
+UID:D_uuZW2nknY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Labrynthine | Lost in a Hedgemaze with @NerissaRavencroft\nhttps://www.youtube.com/watch?v=_-ZLujLTt5s
+DURATION:PT2H
+DTSTART:20231022T020000Z
+SUMMARY:Shiori: Labrynthine | Lost in a Hedgemaze with @NerissaRavencroft
+UID:_-ZLujLTt5s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Super Mario Bros. Wonder】 I heard this game has elephants\nhttps://www.youtube.com/watch?v=72J-41G2aQc
+DURATION:PT2H
+DTSTART:20231020T220000Z
+SUMMARY:Fauna: 【Super Mario Bros. Wonder】 I heard this game has elephants
+UID:72J-41G2aQc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:tactical sneaky dance #sneakychallenge #metalgearsolid #shorts\nhttps://www.youtube.com/watch?v=Uz9Bzo0rZsc
