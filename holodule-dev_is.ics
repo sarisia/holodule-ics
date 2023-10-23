@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【イラストメイキング】配信で描いた風真いろは先輩のタイムラプス#ReGLOSS #hololiveDEV_IS\nhttps://www.youtube.com/watch?v=mFL7vhsbHFA
-DURATION:PT2H
-DTSTART:20231022T100036Z
-SUMMARY:火威青: 【イラストメイキング】配信で描いた風真いろは先輩のタイムラプス#ReGLOSS #hololiveDEV_IS
-UID:mFL7vhsbHFA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【コメント読み雑談】漫画家の「ま」は祭囃子の「ま」（？）【火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=92-I_RDn4fo
 DURATION:PT2H
 DTSTART:20231023T120000Z
 SUMMARY:火威青: 【コメント読み雑談】漫画家の「ま」は祭囃子の「ま」（？）【火威青 #hololiveDEV_IS #ReGLOSS 】
 UID:92-I_RDn4fo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】今週も一週間がんばろ～。一緒にランチ！休憩しよ～。🍚【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=LriEcKj4P1U
+DURATION:PT2H
+DTSTART:20231023T030000Z
+SUMMARY:一条莉々華: 【雑談】今週も一週間がんばろ～。一緒にランチ！休憩しよ～。🍚【#一条莉々華/hololive DEV_IS ReGLOSS】
+UID:LriEcKj4P1U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ホロのスイカ】ぺこら先輩から授かった罰ゲーム、ノエル先輩耐久頑張るよ！！【#一条莉々華/ #hololiveDEV_IS #ReGLOSS】\nhttps://www.youtube.com/watch?v=ojPsIXbqmhk
@@ -32,13 +32,6 @@ SUMMARY:儒烏風亭らでん: 【#一服朝っぱらでん】ぐるぐるぐる
 UID:pdsNJIciP8g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Undertale】Pルート攻略（アンダイン懐柔から）で世界を救いたい【#一条莉々華/ #hololiveDEV_IS #ReGLOSS】\nhttps://www.youtube.com/watch?v=COssy1oHl5k
-DURATION:PT2H
-DTSTART:20231022T030000Z
-SUMMARY:一条莉々華: 【Undertale】Pルート攻略（アンダイン懐柔から）で世界を救いたい【#一条莉々華/ #hololiveDEV_IS #ReGLOSS】
-UID:COssy1oHl5k
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【空気読み2】空気読めちゃうからボケられない【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=BZ2qiXX7M04
 DURATION:PT2H
 DTSTART:20231023T110000Z
@@ -51,33 +44,5 @@ DURATION:PT2H
 DTSTART:20231023T110000Z
 SUMMARY:音乃瀬奏: 【雑談】20万人と引っ越しと復帰【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
 UID:FLKnn5HIPe8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】🔰ホロ鯖でマイクラを学ぶwith莉々華【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=OGf_hMhTtWY
-DURATION:PT2H
-DTSTART:20231022T100000Z
-SUMMARY:轟はじめ: 【Minecraft】🔰ホロ鯖でマイクラを学ぶwith莉々華【轟はじめ/ReGLOSS】＃hololiveDEV_IS
-UID:OGf_hMhTtWY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】今週も一週間がんばろ～。一緒にランチ！休憩しよ～。🍚【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=LriEcKj4P1U
-DURATION:PT2H
-DTSTART:20231023T030000Z
-SUMMARY:一条莉々華: 【雑談】今週も一週間がんばろ～。一緒にランチ！休憩しよ～。🍚【#一条莉々華/hololive DEV_IS ReGLOSS】
-UID:LriEcKj4P1U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BGM only】儒烏風亭らでん配信用BGM【#ReGLOSS】\nhttps://www.youtube.com/watch?v=N5jqwfroWBY
-DURATION:PT2H
-DTSTART:20231022T090013Z
-SUMMARY:儒烏風亭らでん: 【BGM only】儒烏風亭らでん配信用BGM【#ReGLOSS】
-UID:N5jqwfroWBY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ホロ鯖】おさんぽする～❤はじめも一緒にいるよ！！【#一条莉々華/hololive DEV_IS】\nhttps://www.youtube.com/watch?v=aOAgbr9jB1E
-DURATION:PT2H
-DTSTART:20231022T100000Z
-SUMMARY:一条莉々華: 【ホロ鯖】おさんぽする～❤はじめも一緒にいるよ！！【#一条莉々華/hololive DEV_IS】
-UID:aOAgbr9jB1E
 END:VEVENT
 END:VCALENDAR
