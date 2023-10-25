@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ドラゴンクエスト11s】決してスロットがやりたいが為に始めた訳ではない初見ドラクエⅪs【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=WffjriIHScI
-DURATION:PT2H
-DTSTART:20231025T120000Z
-SUMMARY:影山シエン: 【ドラゴンクエスト11s】決してスロットがやりたいが為に始めた訳ではない初見ドラクエⅪs【影山シエン/ホロスターズ】
-UID:WffjriIHScI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 スイカゲーム 】ダブルすいか目指す配信【#vtuber / #羽継烏有 / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=MhP9KQVCias
 DURATION:PT2H
 DTSTART:20231023T153000Z
@@ -37,6 +30,13 @@ DURATION:PT2H
 DTSTART:20231024T103000Z
 SUMMARY:影山シエン: 俺は御坂美琴を迎えに行く【影山シエン/ホロスターズ】
 UID:V9LIY4BGR0I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:初見で サブノーティカ # 5【奏手イヅル】\nhttps://www.youtube.com/watch?v=H3shcvfhM7U
+DURATION:PT2H
+DTSTART:20231025T123000Z
+SUMMARY:🎸奏手イヅル: 初見で サブノーティカ # 5【奏手イヅル】
+UID:H3shcvfhM7U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VALO】ボイチェンVC使ってVALOする【#vtuber / #羽継烏有 / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=E4YOCkPVnMk
@@ -81,6 +81,13 @@ SUMMARY:水無世燐央: 【 #放課後アップロー 】同期で人生ゲー�
 UID:PK-7RczOlKk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 DBD 】２０００時間やってもまだ楽しいDBD！！【#vtuber / #羽継烏有 / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=NsaHyYaNjaw
+DURATION:PT2H
+DTSTART:20231025T170000Z
+SUMMARY:羽継烏有: 【 DBD 】２０００時間やってもまだ楽しいDBD！！【#vtuber / #羽継烏有 / #ホロスターズ 】
+UID:NsaHyYaNjaw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ストリートファイター6】やりすぎかと少し心配な男【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=N4q5jhS7uMU
 DURATION:PT2H
 DTSTART:20231024T070000Z
@@ -102,11 +109,11 @@ SUMMARY:🦔💨岸堂天真: 【STREET FIGHTER6】ホロスタ内大会に向�
 UID:CJvRa5JuAio
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 DBD 】２０００時間やってもまだ楽しいDBD！！【#vtuber / #羽継烏有 / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=NsaHyYaNjaw
+DESCRIPTION:【ドラゴンクエスト11s】決してスロットがやりたいが為に始めた訳ではない初見ドラクエⅪs【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=WffjriIHScI
 DURATION:PT2H
-DTSTART:20231025T170000Z
-SUMMARY:羽継烏有: 【 DBD 】２０００時間やってもまだ楽しいDBD！！【#vtuber / #羽継烏有 / #ホロスターズ 】
-UID:NsaHyYaNjaw
+DTSTART:20231025T120000Z
+SUMMARY:影山シエン: 【ドラゴンクエスト11s】決してスロットがやりたいが為に始めた訳ではない初見ドラクエⅪs【影山シエン/ホロスターズ】
+UID:WffjriIHScI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スーパーマリオブラザーズ ワンダー】ワンダーキメる　＃02【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=_sadFRTDPUY
