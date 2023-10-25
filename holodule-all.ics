@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【歌枠】約8ヶ月ぶりの歌枠！？告知あり🌟【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=SDSgBf43Ahg
+DURATION:PT2H
+DTSTART:20231026T100000Z
+SUMMARY:🌟夜空メル: 【歌枠】約8ヶ月ぶりの歌枠！？告知あり🌟【ホロライブ/夜空メル】
+UID:SDSgBf43Ahg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【日本地図テスト】学力番長は旅に出たい【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=2yd3iLg4Yzc
 DURATION:PT2H
 DTSTART:20231024T110000Z
@@ -65,6 +72,13 @@ DURATION:PT2H
 DTSTART:20231024T110000Z
 SUMMARY:🚑大空スバル: 【＃生スバル】ぺこちゃんと10本先取勝負！！！！！！！！！！！！！しゅば！/STREET FIGHTER 6【ホロライブ/大空スバル】
 UID:lrAtobqcjFM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【】ローラー強化ガチマ【】\nhttps://www.youtube.com/watch?v=ibM5-GOlM98
+DURATION:PT2H
+DTSTART:20231025T100000Z
+SUMMARY:🥐戌神ころね: 【】ローラー強化ガチマ【】
+UID:ibM5-GOlM98
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【League of Legends: Wild Rift】#38 i need my sanity\, i play League【ElaOnDuty】\nhttps://www.youtube.com/watch?v=j9umUQXeWdY
@@ -349,7 +363,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【OKAMI】AH\, AMATERASU\, ORIGIN OF ALL THAT IS GOOD AND MOTHER TO US ALL  #15【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=1YBA1nXEmkI
 DURATION:PT2H
-DTSTART:20231025T020000Z
+DTSTART:20231025T015922Z
 SUMMARY:Ollie: 【OKAMI】AH\, AMATERASU\, ORIGIN OF ALL THAT IS GOOD AND MOTHER TO US ALL  #15【Hololive ID 2nd Gen】
 UID:1YBA1nXEmkI
 END:VEVENT
