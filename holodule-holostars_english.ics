@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Watermelon Game】Halloween themed Suika time!!!\nhttps://www.youtube.com/watch?v=c6H8q6y1c_Q
-DURATION:PT2H
-DTSTART:20231026T020000Z
-SUMMARY:Syrios: 【Watermelon Game】Halloween themed Suika time!!!
-UID:c6H8q6y1c_Q
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【TENGU TALK】I AM BACK AND IN JAPAN BABY!  (My feet hurty sobs)【ZATSUDAN】\nhttps://www.youtube.com/watch?v=GHSSPf1olDI
 DURATION:PT2H
 DTSTART:20231026T000000Z
@@ -30,5 +23,19 @@ DURATION:PT2H
 DTSTART:20231026T000008Z
 SUMMARY:Shinri: Dating is scary  #josuijishinri #holostars #tempus #dating #relatable #vtuber #deepvoice
 UID:JEHA7Appglg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Fall Guys] I HAVE NO MOUTH\, BUT I MUST STREAM #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=h0f7E00VUUY
+DURATION:PT2H
+DTSTART:20231026T210000Z
+SUMMARY:Bettel: [Fall Guys] I HAVE NO MOUTH\, BUT I MUST STREAM #gavisbettel #holotempus
+UID:h0f7E00VUUY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Watermelon Game】Halloween themed Suika time!!!\nhttps://www.youtube.com/watch?v=c6H8q6y1c_Q
+DURATION:PT2H
+DTSTART:20231026T020000Z
+SUMMARY:Syrios: 【Watermelon Game】Halloween themed Suika time!!!
+UID:c6H8q6y1c_Q
 END:VEVENT
 END:VCALENDAR
