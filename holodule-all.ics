@@ -4,10 +4,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【GeoGuessr】1分ジオゲッサー【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=j21MjHMamJ4
+DESCRIPTION:【GeoGuessr】1分ジオゲッサー！1分で満点を目指せ📍【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=j21MjHMamJ4
 DURATION:PT2H
 DTSTART:20231027T120000Z
-SUMMARY:⚒AZKi: 【GeoGuessr】1分ジオゲッサー【ホロライブ / AZKi】
+SUMMARY:⚒AZKi: 【GeoGuessr】1分ジオゲッサー！1分で満点を目指せ📍【ホロライブ / AZKi】
 UID:j21MjHMamJ4
 END:VEVENT
 BEGIN:VEVENT
@@ -702,6 +702,13 @@ DURATION:PT2H
 DTSTART:20231026T143000Z
 SUMMARY:荒咬オウガ: 【雑談】深夜トーク【荒咬オウガ/ホロスターズ】
 UID:6PrbmTveed4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEVOUR】Oh no (#holoAdvent Collab)\nhttps://www.youtube.com/watch?v=jT9-9w-I4ho
+DURATION:PT2H
+DTSTART:20231028T010000Z
+SUMMARY:Bijou: 【DEVOUR】Oh no (#holoAdvent Collab)
+UID:jT9-9w-I4ho
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Eggy Party】Eggfissa Debut Stream!【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=c___XfT1HlI
