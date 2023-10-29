@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【UNARCHIVED 歌枠】OooOOooOOOoOOOoOO\nhttps://www.youtube.com/watch?v=kyf3Qhs8bfg
-DURATION:PT2H
-DTSTART:20231029T051500Z
-SUMMARY:Mumei: 【UNARCHIVED 歌枠】OooOOooOOOoOOOoOO
-UID:kyf3Qhs8bfg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:god and anime #shorts\nhttps://www.youtube.com/watch?v=1WbdkXtHIeo
 DURATION:PT2H
 DTSTART:20231029T033313Z
@@ -23,6 +16,13 @@ DURATION:PT2H
 DTSTART:20231028T000000Z
 SUMMARY:Amelia: 【HORROR】😯Employee of The Month😱 !!!!!!!!!!!!!!
 UID:ngmkrLN7XW8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Final Fantasy XVI】a tale of uncle daddy\, traitor blondie\, gaslight mommy and co #kfp #キアライブ\nhttps://www.youtube.com/watch?v=tpxjNLH561E
+DURATION:PT2H
+DTSTART:20231029T140000Z
+SUMMARY:Kiara: 【Final Fantasy XVI】a tale of uncle daddy\, traitor blondie\, gaslight mommy and co #kfp #キアライブ
+UID:tpxjNLH561E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DEVOUR COLLAB】these puppies don't taste good 🐾 #holoAdvent\nhttps://www.youtube.com/watch?v=XE_wsbV_3NU
@@ -79,13 +79,6 @@ DURATION:PT2H
 DTSTART:20231028T140000Z
 SUMMARY:FUWAMOCO: 【スイカゲーム SUIKA GAME】we can taste it\, double suika and OVER 3000 🍉
 UID:L0xWB_gsvAs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DEVOUR】Hunting demons with Advent... but wait\, aren't I a...? 🎼\nhttps://www.youtube.com/watch?v=cpNeOTwUMWw
-DURATION:PT2H
-DTSTART:20231028T010000Z
-SUMMARY:Nerissa: 【DEVOUR】Hunting demons with Advent... but wait\, aren't I a...? 🎼
-UID:cpNeOTwUMWw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SAKURA WARS V】you are my star (robot) 🐾\nhttps://www.youtube.com/watch?v=RZPL_HpKbe4
@@ -151,10 +144,10 @@ SUMMARY:Kiara: 【AOE2】getting coached by Ellie4K! #kfp #キアライブ
 UID:8fHqEobI85k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Final Fantasy XVI】a tale of uncle daddy\, traitor blondie\, gaslight mommy and co #kfp #キアライブ\nhttps://www.youtube.com/watch?v=tpxjNLH561E
+DESCRIPTION:【DEVOUR】Hunting demons with Advent... but wait\, aren't I a...? 🎼\nhttps://www.youtube.com/watch?v=cpNeOTwUMWw
 DURATION:PT2H
-DTSTART:20231029T140000Z
-SUMMARY:Kiara: 【Final Fantasy XVI】a tale of uncle daddy\, traitor blondie\, gaslight mommy and co #kfp #キアライブ
-UID:tpxjNLH561E
+DTSTART:20231028T010000Z
+SUMMARY:Nerissa: 【DEVOUR】Hunting demons with Advent... but wait\, aren't I a...? 🎼
+UID:cpNeOTwUMWw
 END:VEVENT
 END:VCALENDAR
