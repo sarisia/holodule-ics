@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:一般騎士がエンヴィーベイビー歌ってみた\nhttps://www.youtube.com/watch?v=1dydLsO0KKg
+DURATION:PT2H
+DTSTART:20231031T090001Z
+SUMMARY:🦔💨岸堂天真: 一般騎士がエンヴィーベイビー歌ってみた
+UID:1dydLsO0KKg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌ってみた】「レクイエム」【奏手イヅル/アステル・レダ】\nhttps://www.youtube.com/watch?v=KiQrbaaGkjA
 DURATION:PT2H
 DTSTART:20231031T110000Z
@@ -109,18 +116,18 @@ SUMMARY:緋崎ガンマ: Vtuberが配信に寝坊したときあるある3選 #v
 UID:_WgzYhZy67U
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Q REMASTERED】IQカンストが神ゲーに挑む！！【#vtuber / #羽継烏有 / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=piqcuGbP1Uo
-DURATION:PT2H
-DTSTART:20231029T150000Z
-SUMMARY:羽継烏有: 【Q REMASTERED】IQカンストが神ゲーに挑む！！【#vtuber / #羽継烏有 / #ホロスターズ 】
-UID:piqcuGbP1Uo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【VALORANT】とっぱつふるぱ / アステル  Ras3 天月3 Clutch3 おじじ様 cpt3\nhttps://www.youtube.com/watch?v=WL0xiGh-ixY
 DURATION:PT2H
 DTSTART:20231030T073500Z
 SUMMARY:🎭アステル・レダ: 【VALORANT】とっぱつふるぱ / アステル  Ras3 天月3 Clutch3 おじじ様 cpt3
 UID:WL0xiGh-ixY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Q REMASTERED】IQカンストが神ゲーに挑む！！【#vtuber / #羽継烏有 / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=piqcuGbP1Uo
+DURATION:PT2H
+DTSTART:20231029T150000Z
+SUMMARY:羽継烏有: 【Q REMASTERED】IQカンストが神ゲーに挑む！！【#vtuber / #羽継烏有 / #ホロスターズ 】
+UID:piqcuGbP1Uo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スト6 / 2日目】　はじめてのストリートファイター！！　【#vtuber / #ホロスターズ 】\nhttps://www.youtube.com/watch?v=f2qOmALC1uc
