@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】PASSION!!! LET'S GO TEAM RED!!【#ホロライブ大運動会2023】\nhttps://www.youtube.com/watch?v=SeZX4f1cFdI
-DURATION:PT2H
-DTSTART:20231104T090000Z
-SUMMARY:Zeta: 【Minecraft】PASSION!!! LET'S GO TEAM RED!!【#ホロライブ大運動会2023】
-UID:SeZX4f1cFdI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Segera angkat bendera! viv:ID CRUISE dimulai sebentar lagi! #vivID_CRUISE #holoID #hololive\nhttps://www.youtube.com/watch?v=6YJ6I5hEq9k
 DURATION:PT2H
 DTSTART:20231103T120008Z
@@ -25,6 +18,13 @@ SUMMARY:Anya: 【Minecraft  #ホロライブ大運動会2023】YELLOW TEAM WIN �
 UID:PSvtobAGqdY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Semua naik bahtera! viv:ID CREW datang ke kotamu! (Jakarta\, New York\, Singapura\, dan Kuala Lumpur)\nhttps://www.youtube.com/watch?v=06cocDEZqVE
+DURATION:PT2H
+DTSTART:20231103T020000Z
+SUMMARY:IDholo: Semua naik bahtera! viv:ID CREW datang ke kotamu! (Jakarta\, New York\, Singapura\, dan Kuala Lumpur)
+UID:06cocDEZqVE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【A Tiny Sticker Tale】how tiny is tiny?【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=B-_QsUNisTI
 DURATION:PT2H
 DTSTART:20231102T213000Z
@@ -32,18 +32,25 @@ SUMMARY:Kaela: 【A Tiny Sticker Tale】how tiny is tiny?【Kaela Kovalskia / ho
 UID:B-_QsUNisTI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】WHITE TEAM! WHITE TEAM! WHITE TEAM! 🎉【#ホロライブ大運動会2023】\nhttps://www.youtube.com/watch?v=HMQhQJYx2HE
+DURATION:PT2H
+DTSTART:20231104T090000Z
+SUMMARY:Kaela: 【Minecraft】WHITE TEAM! WHITE TEAM! WHITE TEAM! 🎉【#ホロライブ大運動会2023】
+UID:HMQhQJYx2HE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】PASSION!!! LET'S GO TEAM RED!!【#ホロライブ大運動会2023】\nhttps://www.youtube.com/watch?v=SeZX4f1cFdI
+DURATION:PT2H
+DTSTART:20231104T090000Z
+SUMMARY:Zeta: 【Minecraft】PASSION!!! LET'S GO TEAM RED!!【#ホロライブ大運動会2023】
+UID:SeZX4f1cFdI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Raft】DIVE. EXPLORE. REPEAT【Kaela x Kronii / hololive】\nhttps://www.youtube.com/watch?v=kLH9usT2QCs
 DURATION:PT2H
 DTSTART:20231103T030000Z
 SUMMARY:Kaela: 【Raft】DIVE. EXPLORE. REPEAT【Kaela x Kronii / hololive】
 UID:kLH9usT2QCs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Semua naik bahtera! viv:ID CREW datang ke kotamu! (Jakarta\, New York\, Singapura\, dan Kuala Lumpur)\nhttps://www.youtube.com/watch?v=06cocDEZqVE
-DURATION:PT2H
-DTSTART:20231103T020000Z
-SUMMARY:IDholo: Semua naik bahtera! viv:ID CREW datang ke kotamu! (Jakarta\, New York\, Singapura\, dan Kuala Lumpur)
-UID:06cocDEZqVE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Pre-party celebration!!! Practice!  🎈【#ホロライブ大運動会2023】\nhttps://www.youtube.com/watch?v=D6VBe6cH3FE
