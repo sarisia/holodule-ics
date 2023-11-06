@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【FUWAMOCO ROCK N' RAWR PARTY】hardcore howling and bau bau'ing ♪\nhttps://www.youtube.com/watch?v=mgqXwatSM4U
-DURATION:PT2H
-DTSTART:20231105T010000Z
-SUMMARY:FUWAMOCO: 【FUWAMOCO ROCK N' RAWR PARTY】hardcore howling and bau bau'ing ♪
-UID:mgqXwatSM4U
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【The Kidnap | 誘拐事件】How dare you steal IRyS\nhttps://www.youtube.com/watch?v=q14QLtuzpgY
 DURATION:PT2H
 DTSTART:20231106T030000Z
@@ -46,20 +39,6 @@ SUMMARY:Shiori: Max Haunt Settings in The Mortuary Assistant is Child's Play
 UID:stGB_GdBJk0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Metal Gear Solid 3: Snake Eater】what a thrill...\nhttps://www.youtube.com/watch?v=CvygoHrljJ8
-DURATION:PT2H
-DTSTART:20231105T010125Z
-SUMMARY:Calli: 【Metal Gear Solid 3: Snake Eater】what a thrill...
-UID:CvygoHrljJ8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Monster Hunter Rise】Hunting together with @AiraniIofifteen\nhttps://www.youtube.com/watch?v=TI_6pmf4jU4
-DURATION:PT2H
-DTSTART:20231105T000000Z
-SUMMARY:Bijou: 【Monster Hunter Rise】Hunting together with @AiraniIofifteen
-UID:TI_6pmf4jU4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Metal Gear Solid 3: Snake Eater】only room for one (FINAL PT. 2)\nhttps://www.youtube.com/watch?v=taX8mTWbvZc
 DURATION:PT2H
 DTSTART:20231107T010000Z
@@ -67,11 +46,11 @@ SUMMARY:Calli: 【Metal Gear Solid 3: Snake Eater】only room for one (FINAL PT.
 UID:taX8mTWbvZc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Meiji Chocolate】Japanese Chocolate Learning Session! #MeijiHolotoriEN\nhttps://www.youtube.com/watch?v=xcVRKtumovY
+DESCRIPTION:moribakko 【I’m Your Treasure Box Dance 】マリ箱 踊ってみた #shorts\nhttps://www.youtube.com/watch?v=YXwfJqkaeik
 DURATION:PT2H
-DTSTART:20231105T210000Z
-SUMMARY:Kiara: 【Meiji Chocolate】Japanese Chocolate Learning Session! #MeijiHolotoriEN
-UID:xcVRKtumovY
+DTSTART:20231106T144801Z
+SUMMARY:Calli: moribakko 【I’m Your Treasure Box Dance 】マリ箱 踊ってみた #shorts
+UID:YXwfJqkaeik
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DONKEY KONG COUNTRY】this is a horror game and no one can say otherwise 🍌\nhttps://www.youtube.com/watch?v=g90jeF9U1wU
@@ -79,6 +58,13 @@ DURATION:PT2H
 DTSTART:20231106T000000Z
 SUMMARY:FUWAMOCO: 【DONKEY KONG COUNTRY】this is a horror game and no one can say otherwise 🍌
 UID:g90jeF9U1wU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Meiji Chocolate】Japanese Chocolate Learning Session! #MeijiHolotoriEN\nhttps://www.youtube.com/watch?v=xcVRKtumovY
+DURATION:PT2H
+DTSTART:20231105T210000Z
+SUMMARY:Kiara: 【Meiji Chocolate】Japanese Chocolate Learning Session! #MeijiHolotoriEN
+UID:xcVRKtumovY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪Persona 5 ROYAL≫ SECOND LAST EPISODE...probably #26 【SPOILERS】\nhttps://www.youtube.com/watch?v=PyikYMg2nNc
