@@ -4,18 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Street Fighter 6】My anime training arc begins. #1\nhttps://www.youtube.com/watch?v=rBAF8opQWR8
+DURATION:PT2H
+DTSTART:20231109T020000Z
+SUMMARY:Syrios: 【Street Fighter 6】My anime training arc begins. #1
+UID:rBAF8opQWR8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Week in Review] SPOOKY SEASON IS OVER #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=wJhn8AMbhGk
+DURATION:PT2H
+DTSTART:20231107T220000Z
+SUMMARY:Bettel: [Week in Review] SPOOKY SEASON IS OVER #gavisbettel #holotempus
+UID:wJhn8AMbhGk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:( ˶ˆᗜˆ˵ ) WHAT A WONDERFUL NEW WORLD ( ˶ˆᗜˆ˵ )【Super Mario Bros. Wonder】\nhttps://www.youtube.com/watch?v=F6OqJD63mwI
 DURATION:PT2H
 DTSTART:20231109T000000Z
 SUMMARY:Altare: ( ˶ˆᗜˆ˵ ) WHAT A WONDERFUL NEW WORLD ( ˶ˆᗜˆ˵ )【Super Mario Bros. Wonder】
 UID:F6OqJD63mwI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HANDCAM】THE ATTACK OF THE KONBINIS BABY ! ! !\nhttps://www.youtube.com/watch?v=wdmIaghvQ4o
-DURATION:PT2H
-DTSTART:20231108T003000Z
-SUMMARY:Hakka: 【HANDCAM】THE ATTACK OF THE KONBINIS BABY ! ! !
-UID:wdmIaghvQ4o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【WHITE ALBUM 1】#2 | TOUYA PLEASE DONT CHEAT BRO PLEASE\nhttps://www.youtube.com/watch?v=L54ygNNfpAo
@@ -25,10 +32,10 @@ SUMMARY:Flayon: 【WHITE ALBUM 1】#2 | TOUYA PLEASE DONT CHEAT BRO PLEASE
 UID:L54ygNNfpAo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[Week in Review] SPOOKY SEASON IS OVER #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=wJhn8AMbhGk
+DESCRIPTION:【HANDCAM】THE ATTACK OF THE KONBINIS BABY ! ! !\nhttps://www.youtube.com/watch?v=wdmIaghvQ4o
 DURATION:PT2H
-DTSTART:20231107T220000Z
-SUMMARY:Bettel: [Week in Review] SPOOKY SEASON IS OVER #gavisbettel #holotempus
-UID:wJhn8AMbhGk
+DTSTART:20231108T003000Z
+SUMMARY:Hakka: 【HANDCAM】THE ATTACK OF THE KONBINIS BABY ! ! !
+UID:wdmIaghvQ4o
 END:VEVENT
 END:VCALENDAR
