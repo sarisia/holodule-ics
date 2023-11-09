@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【デビュー2ヵ月記念】怒ってないよ～☺【火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=SvARqyk9tkQ
-DURATION:PT2H
-DTSTART:20231109T120000Z
-SUMMARY:火威青: 【デビュー2ヵ月記念】怒ってないよ～☺【火威青 #hololiveDEV_IS #ReGLOSS 】
-UID:SvARqyk9tkQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠 / Singing】収録用マイクで歌います【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=E5_kcFeb4w8
 DURATION:PT2H
 DTSTART:20231108T110000Z
@@ -51,5 +44,19 @@ DURATION:PT2H
 DTSTART:20231108T080018Z
 SUMMARY:轟はじめ: ツッパリHigh School Rock'n Roll /轟はじめ【歌ってみた】#hololivedev_is
 UID:XeULP9Q-X_A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【デビュー2ヵ月記念】怒ってないよ～☺【火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=SvARqyk9tkQ
+DURATION:PT2H
+DTSTART:20231109T120000Z
+SUMMARY:火威青: 【デビュー2ヵ月記念】怒ってないよ～☺【火威青 #hololiveDEV_IS #ReGLOSS 】
+UID:SvARqyk9tkQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#3【スーパーマリオブラザーズ ワンダー】青汁、人生初めて飲みます。大丈夫だよね？？健康になれるよね？？【#一条莉々華/ #hololiveDEV_IS #ReGLOSS】\nhttps://www.youtube.com/watch?v=WWB4nrtwdzs
+DURATION:PT2H
+DTSTART:20231109T120000Z
+SUMMARY:一条莉々華: #3【スーパーマリオブラザーズ ワンダー】青汁、人生初めて飲みます。大丈夫だよね？？健康になれるよね？？【#一条莉々華/ #hololiveDEV_IS #ReGLOSS】
+UID:WWB4nrtwdzs
 END:VEVENT
 END:VCALENDAR
