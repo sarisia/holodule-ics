@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【チャリ漕ぎ歌枠/ singing stream】 アイドルたるもの、動きながら歌えないと、ね！【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=oB7CwpOfGc8
+DURATION:PT2H
+DTSTART:20231113T090000Z
+SUMMARY:火威青: 【チャリ漕ぎ歌枠/ singing stream】 アイドルたるもの、動きながら歌えないと、ね！【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:oB7CwpOfGc8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【お絵描きVtuber #あるある  】#ReGLOSS #hololiveDEV_IS\nhttps://www.youtube.com/watch?v=gGThaS7o8WE
 DURATION:PT2H
 DTSTART:20231112T100025Z
@@ -18,20 +25,6 @@ SUMMARY:音乃瀬奏: 【I'm on Observation Duty】び、び、びびってね�
 UID:4CKXhjtOqqM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#4【Fate/Samurai Remnant】次はどんなサーヴァントと出会えるのかな…！？ ※ネタバレあり注意【#一条莉々華/ #hololiveDEV_IS #ReGLOSS】\nhttps://www.youtube.com/watch?v=VgGfo1s8bf0
-DURATION:PT2H
-DTSTART:20231111T130000Z
-SUMMARY:一条莉々華: #4【Fate/Samurai Remnant】次はどんなサーヴァントと出会えるのかな…！？ ※ネタバレあり注意【#一条莉々華/ #hololiveDEV_IS #ReGLOSS】
-UID:VgGfo1s8bf0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #うめ雑 】お菓子を食べながらしゃべります～思い出とともに～ 【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=RAXHTYCaLdg
-DURATION:PT2H
-DTSTART:20231111T110000Z
-SUMMARY:音乃瀬奏: 【 #うめ雑 】お菓子を食べながらしゃべります～思い出とともに～ 【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
-UID:RAXHTYCaLdg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【めちゃ短め雑談】お久しぶりです！！！！！回復！！！！【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=NZeNcBhrgNw
 DURATION:PT2H
 DTSTART:20231112T140000Z
@@ -39,24 +32,10 @@ SUMMARY:儒烏風亭らでん: 【めちゃ短め雑談】お久しぶりです�
 UID:NZeNcBhrgNw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Human: Fall Flat】あおたんとぐにゃぐにゃまん！わしについてこい【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=KZhz_TfnRWc
+DESCRIPTION:【第一話】怪盗らでんちゃん、奈良に参上！【正倉院展】※1日限定公開\nhttps://www.youtube.com/watch?v=TETsR58wnNo
 DURATION:PT2H
-DTSTART:20231111T100000Z
-SUMMARY:轟はじめ: 【Human: Fall Flat】あおたんとぐにゃぐにゃまん！わしについてこい【轟はじめ/ReGLOSS】＃hololiveDEV_IS
-UID:KZhz_TfnRWc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Ibリメイク】エンディングまで見届ける...!【轟はじめ/ReGLOSS】※ネタバレ有り\nhttps://www.youtube.com/watch?v=LYkLdFzzEMQ
-DURATION:PT2H
-DTSTART:20231111T050000Z
-SUMMARY:轟はじめ: 【Ibリメイク】エンディングまで見届ける...!【轟はじめ/ReGLOSS】※ネタバレ有り
-UID:LYkLdFzzEMQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BpB】日本語化きた！！！整理整頓してカバンの中身で戦う話題のゲームに挑戦！！ Backpack Battles【#一条莉々華/ #hololiveDEV_IS #ReGLOSS】\nhttps://www.youtube.com/watch?v=zq168QQzdSY
-DURATION:PT2H
-DTSTART:20231111T030000Z
-SUMMARY:一条莉々華: 【BpB】日本語化きた！！！整理整頓してカバンの中身で戦う話題のゲームに挑戦！！ Backpack Battles【#一条莉々華/ #hololiveDEV_IS #ReGLOSS】
-UID:zq168QQzdSY
+DTSTART:20231112T144730Z
+SUMMARY:儒烏風亭らでん: 【第一話】怪盗らでんちゃん、奈良に参上！【正倉院展】※1日限定公開
+UID:TETsR58wnNo
 END:VEVENT
 END:VCALENDAR
