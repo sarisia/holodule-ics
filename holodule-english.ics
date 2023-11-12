@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【APEX】💥BAM! (bijou ame mumei) :D\nhttps://www.youtube.com/watch?v=ovL5djBSalI
-DURATION:PT2H
-DTSTART:20231111T040000Z
-SUMMARY:Amelia: 【APEX】💥BAM! (bijou ame mumei) :D
-UID:ovL5djBSalI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【WATCHALONG】Barbie: Princess and the Pauper with Advent!!🎼\nhttps://www.youtube.com/watch?v=im3P5xgqdzQ
 DURATION:PT2H
 DTSTART:20231111T020000Z
@@ -18,32 +11,11 @@ SUMMARY:Nerissa: 【WATCHALONG】Barbie: Princess and the Pauper with Advent!!�
 UID:im3P5xgqdzQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Backpack Battles】 Cute backpack organizing auto battler!\nhttps://www.youtube.com/watch?v=NfSjpjoHcWk
-DURATION:PT2H
-DTSTART:20231111T230000Z
-SUMMARY:Fauna: 【Backpack Battles】 Cute backpack organizing auto battler!
-UID:NfSjpjoHcWk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Retrospective - Takanashi Kiara (Official Music Video)\nhttps://www.youtube.com/watch?v=oKfKokIKqZw
 DURATION:PT2H
 DTSTART:20231110T220000Z
 SUMMARY:Kiara: Retrospective - Takanashi Kiara (Official Music Video)
 UID:oKfKokIKqZw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】MOAICRAFT\nhttps://www.youtube.com/watch?v=tugyb6GSqJA
-DURATION:PT2H
-DTSTART:20231112T000000Z
-SUMMARY:Bijou: 【MINECRAFT】MOAICRAFT
-UID:tugyb6GSqJA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【UNARCHIVED KARAOKE REBROADCAST】Some spooky songs for Halloween (but not really)  🎼\nhttps://www.youtube.com/watch?v=7mCy3xHufqM
-DURATION:PT2H
-DTSTART:20231112T040000Z
-SUMMARY:Nerissa: 【UNARCHIVED KARAOKE REBROADCAST】Some spooky songs for Halloween (but not really)  🎼
-UID:7mCy3xHufqM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FUWAMOCO ROCK N' RAWR PARTY - REBROADCAST】we've heard these songs maybe 3 times 🐾 【UNARCHIVED】\nhttps://www.youtube.com/watch?v=y9AStJx7Keg
@@ -67,18 +39,60 @@ SUMMARY:Shiori: How Shiori Filters Herself #shorts #short
 UID:upBxjkDjWpM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:A.S.M.R (Artist Sorts Messy Room) Stream #holoEN3DRepeat\nhttps://www.youtube.com/watch?v=H-33SoUtfCs
-DURATION:PT2H
-DTSTART:20231111T030000Z
-SUMMARY:ENholo: A.S.M.R (Artist Sorts Messy Room) Stream #holoEN3DRepeat
-UID:H-33SoUtfCs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Just Chatting】Cancun Trip & How It's Going (It's Good And Bad)\nhttps://www.youtube.com/watch?v=Fjq-0VWtqck
 DURATION:PT2H
 DTSTART:20231111T053000Z
 SUMMARY:Kronii: 【Just Chatting】Cancun Trip & How It's Going (It's Good And Bad)
 UID:Fjq-0VWtqck
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX LEGENDS】 We Just Wanna Pew Pew !!!\nhttps://www.youtube.com/watch?v=jTypC4Lf-QQ
+DURATION:PT2H
+DTSTART:20231112T040000Z
+SUMMARY:Mumei: 【APEX LEGENDS】 We Just Wanna Pew Pew !!!
+UID:jTypC4Lf-QQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX LEGENDS COLLAB】Just some regular\, non-toxic gaming! (heh)\nhttps://www.youtube.com/watch?v=LZF74kmPb9o
+DURATION:PT2H
+DTSTART:20231111T040000Z
+SUMMARY:Bijou: 【APEX LEGENDS COLLAB】Just some regular\, non-toxic gaming! (heh)
+UID:LZF74kmPb9o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】💥BAM! (bijou ame mumei) :D\nhttps://www.youtube.com/watch?v=ovL5djBSalI
+DURATION:PT2H
+DTSTART:20231111T040000Z
+SUMMARY:Amelia: 【APEX】💥BAM! (bijou ame mumei) :D
+UID:ovL5djBSalI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Backpack Battles】 Cute backpack organizing auto battler!\nhttps://www.youtube.com/watch?v=NfSjpjoHcWk
+DURATION:PT2H
+DTSTART:20231111T230000Z
+SUMMARY:Fauna: 【Backpack Battles】 Cute backpack organizing auto battler!
+UID:NfSjpjoHcWk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】MOAICRAFT\nhttps://www.youtube.com/watch?v=tugyb6GSqJA
+DURATION:PT2H
+DTSTART:20231112T000000Z
+SUMMARY:Bijou: 【MINECRAFT】MOAICRAFT
+UID:tugyb6GSqJA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【UNARCHIVED KARAOKE REBROADCAST】Some spooky songs for Halloween (but not really)  🎼\nhttps://www.youtube.com/watch?v=7mCy3xHufqM
+DURATION:PT2H
+DTSTART:20231112T040000Z
+SUMMARY:Nerissa: 【UNARCHIVED KARAOKE REBROADCAST】Some spooky songs for Halloween (but not really)  🎼
+UID:7mCy3xHufqM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A.S.M.R (Artist Sorts Messy Room) Stream #holoEN3DRepeat\nhttps://www.youtube.com/watch?v=H-33SoUtfCs
+DURATION:PT2H
+DTSTART:20231111T030000Z
+SUMMARY:ENholo: A.S.M.R (Artist Sorts Messy Room) Stream #holoEN3DRepeat
+UID:H-33SoUtfCs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【COOKING AND GAMING】Kobo Is At My House!! with @KoboKanaeru\nhttps://www.youtube.com/watch?v=QO39kP5EFWc
@@ -100,12 +114,5 @@ DURATION:PT2H
 DTSTART:20231110T160000Z
 SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 42 🐾 #FWMCMORNING
 UID:pMVUiczAd74
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX LEGENDS COLLAB】Just some regular\, non-toxic gaming! (heh)\nhttps://www.youtube.com/watch?v=LZF74kmPb9o
-DURATION:PT2H
-DTSTART:20231111T040000Z
-SUMMARY:Bijou: 【APEX LEGENDS COLLAB】Just some regular\, non-toxic gaming! (heh)
-UID:LZF74kmPb9o
 END:VEVENT
 END:VCALENDAR
