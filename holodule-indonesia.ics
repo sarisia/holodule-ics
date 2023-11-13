@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【THE BACKROOMS: 1998】GUGU GAGA GUGU GAGA!!! 😱 OFF-COLLAB w/@SakuraMiko #Mikobo\nhttps://www.youtube.com/watch?v=1Xw2M_ELDRA
+DURATION:PT2H
+DTSTART:20231113T110000Z
+SUMMARY:Kobo: 【THE BACKROOMS: 1998】GUGU GAGA GUGU GAGA!!! 😱 OFF-COLLAB w/@SakuraMiko #Mikobo
+UID:1Xw2M_ELDRA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【IDOL MANAGER】LET'S SEE WHAT HAPPENS IN CHAPTER 5!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=10p-h9o9NyU
 DURATION:PT2H
 DTSTART:20231113T130000Z
@@ -32,13 +39,6 @@ SUMMARY:Kaela: 【PEJUANG SENIN】#59 OHAELAAAAAA🌞【Kaela's Monday Warrior�
 UID:nnKZYhhKOrQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Railbound】reporting: brain left the game 🧠💨【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=DdCO-wD0GhA
-DURATION:PT2H
-DTSTART:20231111T213500Z
-SUMMARY:Kaela: 【Railbound】reporting: brain left the game 🧠💨【Kaela Kovalskia / hololiveID】
-UID:DdCO-wD0GhA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Papa's Freezeria Deluxe】let me cook\nhttps://www.youtube.com/watch?v=b9iG54OR_ig
 DURATION:PT2H
 DTSTART:20231113T150000Z
@@ -51,5 +51,12 @@ DURATION:PT2H
 DTSTART:20231112T060000Z
 SUMMARY:Kaela: 【Donation Reading】trying my best to catch up! 👀【Kaela Kovalskia / hololiveID】
 UID:BNNeOy0swu0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Railbound】reporting: brain left the game 🧠💨【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=DdCO-wD0GhA
+DURATION:PT2H
+DTSTART:20231111T213500Z
+SUMMARY:Kaela: 【Railbound】reporting: brain left the game 🧠💨【Kaela Kovalskia / hololiveID】
+UID:DdCO-wD0GhA
 END:VEVENT
 END:VCALENDAR
