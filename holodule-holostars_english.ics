@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【STREET FIGHTER 6】w/ Rio\, Axel & ???\nhttps://www.youtube.com/watch?v=vrKC5n1E9qQ
-DURATION:PT2H
-DTSTART:20231114T040000Z
-SUMMARY:Flayon: 【STREET FIGHTER 6】w/ Rio\, Axel & ???
-UID:vrKC5n1E9qQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Doppelgänger Trailer [#holoTEMPUS #Doppelganger]\nhttps://www.youtube.com/watch?v=6P26vcuvAPc
 DURATION:PT2H
 DTSTART:20231114T030006Z
@@ -25,18 +18,18 @@ SUMMARY:Altare: Yep\, that was my bullseye (¬‿¬)【QuiVR】
 UID:Ta72Pg-psXo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Street Fighter 6】Training arc with Flayon and Rio!!! #2\nhttps://www.youtube.com/watch?v=PYkqu-GzgYs
-DURATION:PT2H
-DTSTART:20231114T040000Z
-SUMMARY:Syrios: 【Street Fighter 6】Training arc with Flayon and Rio!!! #2
-UID:PYkqu-GzgYs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[Week in Review] IT WAS ME\, WEEK IN REVIEW! #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=zQnj15DdI2o
 DURATION:PT2H
 DTSTART:20231113T234500Z
 SUMMARY:Bettel: [Week in Review] IT WAS ME\, WEEK IN REVIEW! #gavisbettel #holotempus
 UID:zQnj15DdI2o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FASHION DREAMER】Fashion is life\, are you alive?\nhttps://www.youtube.com/watch?v=yD08MOVBdE8
+DURATION:PT2H
+DTSTART:20231115T000000Z
+SUMMARY:Flayon: 【FASHION DREAMER】Fashion is life\, are you alive?
+UID:yD08MOVBdE8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Zatsudan】I want to zatsu again\nhttps://www.youtube.com/watch?v=gRHAhBRkNBY
@@ -46,10 +39,24 @@ SUMMARY:Shinri: 【Zatsudan】I want to zatsu again
 UID:gRHAhBRkNBY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FASHION DREAMER】Fashion is life\, are you alive?\nhttps://www.youtube.com/watch?v=yD08MOVBdE8
+DESCRIPTION:【Street Fighter 6】Training arc with Flayon and Rio!!! #2\nhttps://www.youtube.com/watch?v=PYkqu-GzgYs
 DURATION:PT2H
-DTSTART:20231115T000000Z
-SUMMARY:Flayon: 【FASHION DREAMER】Fashion is life\, are you alive?
-UID:yD08MOVBdE8
+DTSTART:20231114T040000Z
+SUMMARY:Syrios: 【Street Fighter 6】Training arc with Flayon and Rio!!! #2
+UID:PYkqu-GzgYs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【STREET FIGHTER 6】w/ Rio\, Axel & ???\nhttps://www.youtube.com/watch?v=vrKC5n1E9qQ
+DURATION:PT2H
+DTSTART:20231114T040000Z
+SUMMARY:Flayon: 【STREET FIGHTER 6】w/ Rio\, Axel & ???
+UID:vrKC5n1E9qQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【COUNTER STRIKE 2】DON'T OPEN BOXES\, DON'T OPEN BOXES w/ @RegisAltare  #holotempus #gavisbettel\nhttps://www.youtube.com/watch?v=DJlgrHoStks
+DURATION:PT2H
+DTSTART:20231114T220000Z
+SUMMARY:Bettel: 【COUNTER STRIKE 2】DON'T OPEN BOXES\, DON'T OPEN BOXES w/ @RegisAltare  #holotempus #gavisbettel
+UID:DJlgrHoStks
 END:VEVENT
 END:VCALENDAR
