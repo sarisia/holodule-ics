@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ゼルダの伝説 ティアーズ オブ ザ キングダム】賢者大集合！！【ときのそら/Tokinosora/ホロライブ 】\nhttps://www.youtube.com/watch?v=vC6xAU0EZRI
-DURATION:PT2H
-DTSTART:20231114T120000Z
-SUMMARY:🐻ときのそら: 【ゼルダの伝説 ティアーズ オブ ザ キングダム】賢者大集合！！【ときのそら/Tokinosora/ホロライブ 】
-UID:vC6xAU0EZRI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 Refind Self 】ゲームで性格を診断できる可愛いドットゲーム✨【 猫又おかゆ/ホロライブ 】\nhttps://www.youtube.com/watch?v=_bm1r8x3txc
 DURATION:PT2H
 DTSTART:20231114T120000Z
 SUMMARY:🍙猫又おかゆ: 【 Refind Self 】ゲームで性格を診断できる可愛いドットゲーム✨【 猫又おかゆ/ホロライブ 】
 UID:_bm1r8x3txc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゼルダの伝説 ティアーズ オブ ザ キングダム】賢者大集合！！【ときのそら/Tokinosora/ホロライブ 】\nhttps://www.youtube.com/watch?v=vC6xAU0EZRI
+DURATION:PT2H
+DTSTART:20231114T120000Z
+SUMMARY:🐻ときのそら: 【ゼルダの伝説 ティアーズ オブ ザ キングダム】賢者大集合！！【ときのそら/Tokinosora/ホロライブ 】
+UID:vC6xAU0EZRI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:12日後に最強のLIVEをするVtuber!!【9日目】#shorts\nhttps://www.youtube.com/watch?v=so6Xb0UUVzc
@@ -212,6 +212,13 @@ DURATION:PT2H
 DTSTART:20231114T143000Z
 SUMMARY:雪花ラミィ: 【晩酌】誕生日カウントダウン！宴じゃ～！！【雪花ラミィ/ホロライブ】
 UID:8N0o1NTOo_s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VALORANT】V最チーム練習いっくどーーーーーーーー！！！！！！！！\nhttps://www.youtube.com/watch?v=9FSrt9CfbDY
+DURATION:PT2H
+DTSTART:20231114T120000Z
+SUMMARY:👿百鬼あやめ: 【VALORANT】V最チーム練習いっくどーーーーーーーー！！！！！！！！
+UID:9FSrt9CfbDY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【アキネータークイズ】途中で「正解！」って言いそうになったんだけど #hololivefesEXPO24 #ときのそら #ホロライブ #hololive\nhttps://www.youtube.com/watch?v=uahUPYWX0BQ
