@@ -4,6 +4,34 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:Doppelgänger Trailer [#holoTEMPUS #Doppelganger]\nhttps://www.youtube.com/watch?v=6P26vcuvAPc
+DURATION:PT2H
+DTSTART:20231114T030006Z
+SUMMARY:ENHOLOSTARS: Doppelgänger Trailer [#holoTEMPUS #Doppelganger]
+UID:6P26vcuvAPc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Week in Review] IT WAS ME\, WEEK IN REVIEW! #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=zQnj15DdI2o
+DURATION:PT2H
+DTSTART:20231113T234500Z
+SUMMARY:Bettel: [Week in Review] IT WAS ME\, WEEK IN REVIEW! #gavisbettel #holotempus
+UID:zQnj15DdI2o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FASHION DREAMER】Fashion is life\, are you alive?\nhttps://www.youtube.com/watch?v=yD08MOVBdE8
+DURATION:PT2H
+DTSTART:20231115T000000Z
+SUMMARY:Flayon: 【FASHION DREAMER】Fashion is life\, are you alive?
+UID:yD08MOVBdE8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Mario Kart 8] I WILL FINALLY CLAIM MY TROPHY w/ BETTEL 2 #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=ZLDxRCuhMjQ
+DURATION:PT2H
+DTSTART:20231112T230000Z
+SUMMARY:Bettel: [Mario Kart 8] I WILL FINALLY CLAIM MY TROPHY w/ BETTEL 2 #gavisbettel #holotempus
+UID:ZLDxRCuhMjQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【FINAL FANTASY XIV】w/Merry | Gentleman Dog & The  Cat Boy Mecha Pilot\nhttps://www.youtube.com/watch?v=XZ0SMJtVsvU
 DURATION:PT2H
 DTSTART:20231113T100000Z
@@ -18,11 +46,11 @@ SUMMARY:Altare: 💥Roguelike Axolotl Action💥【AK-xolotl】
 UID:jAOBOZfRvQU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[Week in Review] IT WAS ME\, WEEK IN REVIEW! #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=zQnj15DdI2o
+DESCRIPTION:【Street Fighter 6】Training arc with Flayon and Rio!!! #2\nhttps://www.youtube.com/watch?v=PYkqu-GzgYs
 DURATION:PT2H
-DTSTART:20231113T234500Z
-SUMMARY:Bettel: [Week in Review] IT WAS ME\, WEEK IN REVIEW! #gavisbettel #holotempus
-UID:zQnj15DdI2o
+DTSTART:20231114T040000Z
+SUMMARY:Syrios: 【Street Fighter 6】Training arc with Flayon and Rio!!! #2
+UID:PYkqu-GzgYs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SPECIAL ZATSUDAN】WE COOKED\, WE TRULY COOKED AAAAAAAAA: TAKE TWO【SPECIAL ANNOUNCEMENT】\nhttps://www.youtube.com/watch?v=uPjc35PZq98
@@ -37,19 +65,5 @@ DURATION:PT2H
 DTSTART:20231114T040000Z
 SUMMARY:Flayon: 【STREET FIGHTER 6】w/ Rio\, Axel & ???
 UID:vrKC5n1E9qQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[Mario Kart 8] I WILL FINALLY CLAIM MY TROPHY w/ BETTEL 2 #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=ZLDxRCuhMjQ
-DURATION:PT2H
-DTSTART:20231112T230000Z
-SUMMARY:Bettel: [Mario Kart 8] I WILL FINALLY CLAIM MY TROPHY w/ BETTEL 2 #gavisbettel #holotempus
-UID:ZLDxRCuhMjQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FASHION DREAMER】Fashion is life\, are you alive?\nhttps://www.youtube.com/watch?v=yD08MOVBdE8
-DURATION:PT2H
-DTSTART:20231115T000000Z
-SUMMARY:Flayon: 【FASHION DREAMER】Fashion is life\, are you alive?
-UID:yD08MOVBdE8
 END:VEVENT
 END:VCALENDAR
