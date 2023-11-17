@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【紹介企画】#らでんの推し語り 第一夜　○○○～この冬おすすめ～編【儒烏風亭らでん /尾丸ポルカ 】\nhttps://www.youtube.com/watch?v=NS_g6327rfs
+DURATION:PT2H
+DTSTART:20231118T120000Z
+SUMMARY:儒烏風亭らでん: 【紹介企画】#らでんの推し語り 第一夜　○○○～この冬おすすめ～編【儒烏風亭らでん /尾丸ポルカ 】
+UID:NS_g6327rfs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:大学生飯って言うなーっ！！！野菜も食べればいいんでしょ！食べれば！！！【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=rqFbSwZn5Pw
+DURATION:PT2H
+DTSTART:20231117T030000Z
+SUMMARY:一条莉々華: 大学生飯って言うなーっ！！！野菜も食べればいいんでしょ！食べれば！！！【#一条莉々華/hololive DEV_IS ReGLOSS】
+UID:rqFbSwZn5Pw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:おめでたいことが続いているから大好きな限界飯食べるわ！！！【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=cAjg-Ovxqko
 DURATION:PT2H
 DTSTART:20231116T030000Z
@@ -25,11 +39,11 @@ SUMMARY:音乃瀬奏: 「DAYBREAK FRONTLINE」 - 音乃瀬奏（cover）#shorts
 UID:bePFtbZd_NM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:大学生飯って言うなーっ！！！野菜も食べればいいんでしょ！食べれば！！！【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=rqFbSwZn5Pw
+DESCRIPTION:【Refind Self: 性格診断ゲーム】ゲームで性格がわかる...！？番長である証明をする時がきたな...【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=lW4ExRVlzqQ
 DURATION:PT2H
-DTSTART:20231117T030000Z
-SUMMARY:一条莉々華: 大学生飯って言うなーっ！！！野菜も食べればいいんでしょ！食べれば！！！【#一条莉々華/hololive DEV_IS ReGLOSS】
-UID:rqFbSwZn5Pw
+DTSTART:20231116T130000Z
+SUMMARY:轟はじめ: 【Refind Self: 性格診断ゲーム】ゲームで性格がわかる...！？番長である証明をする時がきたな...【轟はじめ/ReGLOSS】＃hololiveDEV_IS
+UID:lW4ExRVlzqQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【BGM only】作業用・読書用BGM【儒烏風亭らでん】\nhttps://www.youtube.com/watch?v=nk6uV4pbIoU
@@ -37,13 +51,6 @@ DURATION:PT2H
 DTSTART:20231116T133128Z
 SUMMARY:儒烏風亭らでん: 【BGM only】作業用・読書用BGM【儒烏風亭らでん】
 UID:nk6uV4pbIoU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Refind Self: 性格診断ゲーム】ゲームで性格がわかる...！？番長である証明をする時がきたな...【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=lW4ExRVlzqQ
-DURATION:PT2H
-DTSTART:20231116T130000Z
-SUMMARY:轟はじめ: 【Refind Self: 性格診断ゲーム】ゲームで性格がわかる...！？番長である証明をする時がきたな...【轟はじめ/ReGLOSS】＃hololiveDEV_IS
-UID:lW4ExRVlzqQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【オフコラボ後日談】女の子同士のお泊りって…こんな感じなの！？【火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=0iGJXg1hRXY
