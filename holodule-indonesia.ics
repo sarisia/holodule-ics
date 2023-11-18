@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【プロセカ Project Sekai】A Very Casual Event Run Stream イベランやっぞお前ら〜〜〜〜【hololive ID | Anya Melfissa】\nhttps://www.youtube.com/watch?v=ihEdegqF1yg
-DURATION:PT2H
-DTSTART:20231118T020000Z
-SUMMARY:Anya: 【プロセカ Project Sekai】A Very Casual Event Run Stream イベランやっぞお前ら〜〜〜〜【hololive ID | Anya Melfissa】
-UID:ihEdegqF1yg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Berkendaralah denganku! Gitar PNG Kobo pun sudah jadi 3D! #vivID_CRUISE #holoID #hololive\nhttps://www.youtube.com/watch?v=3GxYAATz33Q
 DURATION:PT2H
 DTSTART:20231117T132034Z
 SUMMARY:IDholo: Berkendaralah denganku! Gitar PNG Kobo pun sudah jadi 3D! #vivID_CRUISE #holoID #hololive
 UID:3GxYAATz33Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#KelurahanholoID 6 - Overthinking #kaelakovalskia #holoID #hololiveIndonesia  @KaelaKovalskia\nhttps://www.youtube.com/watch?v=xD_sVux4TWY
+DURATION:PT2H
+DTSTART:20231118T100530Z
+SUMMARY:IDholo: #KelurahanholoID 6 - Overthinking #kaelakovalskia #holoID #hololiveIndonesia  @KaelaKovalskia
+UID:xD_sVux4TWY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MARIO KART 8DX】WATCH ME LOSE!! 勝つ自信が全くない!! ＃ホロプロマリカ【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=JdHI_nThXYw
@@ -51,5 +51,12 @@ DURATION:PT2H
 DTSTART:20231117T123000Z
 SUMMARY:Reine: 【World of Horror】V1.0 FULL RELEASE!! Can We Survive the Horrors??【Pavolia Reine/hololiveID 2nd gen】
 UID:RrlnGK_dN_s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【プロセカ Project Sekai】A Very Casual Event Run Stream イベランやっぞお前ら〜〜〜〜【hololive ID | Anya Melfissa】\nhttps://www.youtube.com/watch?v=ihEdegqF1yg
+DURATION:PT2H
+DTSTART:20231118T020000Z
+SUMMARY:Anya: 【プロセカ Project Sekai】A Very Casual Event Run Stream イベランやっぞお前ら〜〜〜〜【hololive ID | Anya Melfissa】
+UID:ihEdegqF1yg
 END:VEVENT
 END:VCALENDAR
