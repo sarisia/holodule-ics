@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【PUPPERAZZI】Octavio's first ever photowalk!\nhttps://www.youtube.com/watch?v=uX_TkpWMEyA
-DURATION:PT2H
-DTSTART:20231120T090000Z
-SUMMARY:Octavio: 【PUPPERAZZI】Octavio's first ever photowalk!
-UID:uX_TkpWMEyA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【FIRST COLLAB】2 TRUTHS AND A LIE: Fact might be scarier than fiction...\nhttps://www.youtube.com/watch?v=5YTYe7HMlH8
 DURATION:PT2H
 DTSTART:20231119T040000Z
@@ -25,6 +18,13 @@ SUMMARY:Goldbullet: 【Morning Zatsudan】Bundle up\, Grab a cup of tea\, and le
 UID:qN8wRj6_iGA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【DRAWING STREAM】i can draw moar people meow | ASMR(?)\nhttps://www.youtube.com/watch?v=ol8SRd6SeiU
+DURATION:PT2H
+DTSTART:20231119T000000Z
+SUMMARY:Flayon: 【DRAWING STREAM】i can draw moar people meow | ASMR(?)
+UID:ol8SRd6SeiU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【DEBUT STREAM】Let's take things ONE OCTAVE HIGHER! #Octavio_Debut #holoARMIS\nhttps://www.youtube.com/watch?v=nNJ_2EWxN7U
 DURATION:PT2H
 DTSTART:20231119T030000Z
@@ -32,11 +32,67 @@ SUMMARY:Octavio: 【DEBUT STREAM】Let's take things ONE OCTAVE HIGHER! #Octavio
 UID:nNJ_2EWxN7U
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【EXPECTATION VS REALITY】TEMPUS FLEX VS ARMIS FLEX  #holoarmis\nhttps://www.youtube.com/watch?v=Zl_ajDOvPF8
+DURATION:PT2H
+DTSTART:20231120T002023Z
+SUMMARY:Octavio: 【EXPECTATION VS REALITY】TEMPUS FLEX VS ARMIS FLEX  #holoarmis
+UID:Zl_ajDOvPF8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【DEBUT STREAM】Introducing Your Least Favorite Idol! #Ruze_Debut #holoARMIS\nhttps://www.youtube.com/watch?v=Er4ncj3zQ-E
 DURATION:PT2H
 DTSTART:20231119T033000Z
 SUMMARY:Crimzon: 【DEBUT STREAM】Introducing Your Least Favorite Idol! #Ruze_Debut #holoARMIS
 UID:Er4ncj3zQ-E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #holoARMIS 】- BLOODHOUNDS - Debut original song【MV】\nhttps://www.youtube.com/watch?v=JHG8CGNgsNs
+DURATION:PT2H
+DTSTART:20231119T050300Z
+SUMMARY:ENHOLOSTARS: 【 #holoARMIS 】- BLOODHOUNDS - Debut original song【MV】
+UID:JHG8CGNgsNs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ZATSUDAN】HOPE YOU FINISHED YOUR HOMEWORK NERDS\nhttps://www.youtube.com/watch?v=sj4OtjPu1mM
+DURATION:PT2H
+DTSTART:20231120T040000Z
+SUMMARY:Crimzon: 【ZATSUDAN】HOPE YOU FINISHED YOUR HOMEWORK NERDS
+UID:sj4OtjPu1mM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MV】HOLLOW HUNGER - Covered by Octavio 【歌ってみた】\nhttps://www.youtube.com/watch?v=LBQoFTPfrNw
+DURATION:PT2H
+DTSTART:20231119T040200Z
+SUMMARY:Octavio: 【MV】HOLLOW HUNGER - Covered by Octavio 【歌ってみた】
+UID:LBQoFTPfrNw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【JUST CHATTING】LET'S TALK ABOUT OUR OSHIS!!!\nhttps://www.youtube.com/watch?v=LWsrij5i3KE
+DURATION:PT2H
+DTSTART:20231120T050000Z
+SUMMARY:Jurard: 【JUST CHATTING】LET'S TALK ABOUT OUR OSHIS!!!
+UID:LWsrij5i3KE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Just Chatting】Octavio's Journey to Holostars!\nhttps://www.youtube.com/watch?v=KPfYsr9XONI
+DURATION:PT2H
+DTSTART:20231120T030000Z
+SUMMARY:Octavio: 【Just Chatting】Octavio's Journey to Holostars!
+UID:KPfYsr9XONI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#holoARMIS 】Day 2 #Ruze_Debut #Octavio_Debut Watchalong!\nhttps://www.youtube.com/watch?v=Bj_ya6umSPU
+DURATION:PT2H
+DTSTART:20231119T022000Z
+SUMMARY:Shinri: 【#holoARMIS 】Day 2 #Ruze_Debut #Octavio_Debut Watchalong!
+UID:Bj_ya6umSPU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PUPPERAZZI】Octavio's first ever photowalk!\nhttps://www.youtube.com/watch?v=uX_TkpWMEyA
+DURATION:PT2H
+DTSTART:20231120T090000Z
+SUMMARY:Octavio: 【PUPPERAZZI】Octavio's first ever photowalk!
+UID:uX_TkpWMEyA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[CHESS HANDCAM] BETTEL VS BETTEL 2 #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=yeu0sc43ol8
@@ -60,52 +116,10 @@ SUMMARY:Bettel: [GRIMLORD VR] JUST LIKE DARK SOULS BUT WITH MORE BARF #gavisbett
 UID:7xKn4xQpinU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MV】HOLLOW HUNGER - Covered by Octavio 【歌ってみた】\nhttps://www.youtube.com/watch?v=LBQoFTPfrNw
-DURATION:PT2H
-DTSTART:20231119T040200Z
-SUMMARY:Octavio: 【MV】HOLLOW HUNGER - Covered by Octavio 【歌ってみた】
-UID:LBQoFTPfrNw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #holoARMIS 】- BLOODHOUNDS - Debut original song【MV】\nhttps://www.youtube.com/watch?v=JHG8CGNgsNs
-DURATION:PT2H
-DTSTART:20231119T050300Z
-SUMMARY:ENHOLOSTARS: 【 #holoARMIS 】- BLOODHOUNDS - Debut original song【MV】
-UID:JHG8CGNgsNs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MACHIBO】Voicing Your Requests Live~\nhttps://www.youtube.com/watch?v=m5igIA4Gq14
 DURATION:PT2H
 DTSTART:20231120T000000Z
 SUMMARY:Flayon: 【MACHIBO】Voicing Your Requests Live~
 UID:m5igIA4Gq14
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【JUST CHATTING】LET'S TALK ABOUT OUR OSHIS!!!\nhttps://www.youtube.com/watch?v=LWsrij5i3KE
-DURATION:PT2H
-DTSTART:20231120T050000Z
-SUMMARY:Jurard: 【JUST CHATTING】LET'S TALK ABOUT OUR OSHIS!!!
-UID:LWsrij5i3KE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DRAWING STREAM】i can draw moar people meow | ASMR(?)\nhttps://www.youtube.com/watch?v=ol8SRd6SeiU
-DURATION:PT2H
-DTSTART:20231119T000000Z
-SUMMARY:Flayon: 【DRAWING STREAM】i can draw moar people meow | ASMR(?)
-UID:ol8SRd6SeiU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Just Chatting】Octavio's Journey to Holostars!\nhttps://www.youtube.com/watch?v=KPfYsr9XONI
-DURATION:PT2H
-DTSTART:20231120T030000Z
-SUMMARY:Octavio: 【Just Chatting】Octavio's Journey to Holostars!
-UID:KPfYsr9XONI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#holoARMIS 】Day 2 #Ruze_Debut #Octavio_Debut Watchalong!\nhttps://www.youtube.com/watch?v=Bj_ya6umSPU
-DURATION:PT2H
-DTSTART:20231119T022000Z
-SUMMARY:Shinri: 【#holoARMIS 】Day 2 #Ruze_Debut #Octavio_Debut Watchalong!
-UID:Bj_ya6umSPU
 END:VEVENT
 END:VCALENDAR
