@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【PUPPERAZZI】Octavio's first ever photowalk!\nhttps://www.youtube.com/watch?v=uX_TkpWMEyA
-DURATION:PT2H
-DTSTART:20231120T090000Z
-SUMMARY:Octavio: 【PUPPERAZZI】Octavio's first ever photowalk!
-UID:uX_TkpWMEyA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Morning Zatsudan】Bundle up\, Grab a cup of tea\, and let's talk!\nhttps://www.youtube.com/watch?v=qN8wRj6_iGA
 DURATION:PT2H
 DTSTART:20231120T160000Z
 SUMMARY:Goldbullet: 【Morning Zatsudan】Bundle up\, Grab a cup of tea\, and let's talk!
 UID:qN8wRj6_iGA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MELATONIN】Octavio is sleep deprived.\nhttps://www.youtube.com/watch?v=F0aunxr_c5I
-DURATION:PT2H
-DTSTART:20231121T033000Z
-SUMMARY:Octavio: 【MELATONIN】Octavio is sleep deprived.
-UID:F0aunxr_c5I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Resident Evil 4】INFINITE AMMO RPG BAYBE!! Let's Rock!\nhttps://www.youtube.com/watch?v=JZV8PBTdmaQ
@@ -32,18 +18,67 @@ SUMMARY:Goldbullet: 【Resident Evil 4】INFINITE AMMO RPG BAYBE!! Let's Rock!
 UID:JZV8PBTdmaQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Schedule Making!!!】These cheeky guys have taken over my comment section\nhttps://www.youtube.com/watch?v=c3N9n-htqd0
-DURATION:PT2H
-DTSTART:20231120T160000Z
-SUMMARY:Syrios: 【Schedule Making!!!】These cheeky guys have taken over my comment section
-UID:c3N9n-htqd0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【EXPECTATION VS REALITY】TEMPUS FLEX VS ARMIS FLEX  #holoarmis\nhttps://www.youtube.com/watch?v=Zl_ajDOvPF8
 DURATION:PT2H
 DTSTART:20231120T002023Z
 SUMMARY:Octavio: 【EXPECTATION VS REALITY】TEMPUS FLEX VS ARMIS FLEX  #holoarmis
 UID:Zl_ajDOvPF8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【KARAOKE RE-BROADCAST】November 17th\, 2023\nhttps://www.youtube.com/watch?v=OZc5hQLem9A
+DURATION:PT2H
+DTSTART:20231121T130000Z
+SUMMARY:Flayon: 【KARAOKE RE-BROADCAST】November 17th\, 2023
+UID:OZc5hQLem9A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【JUST CHATTING】LET'S TALK ABOUT OUR OSHIS!!!\nhttps://www.youtube.com/watch?v=LWsrij5i3KE
+DURATION:PT2H
+DTSTART:20231120T050000Z
+SUMMARY:Jurard: 【JUST CHATTING】LET'S TALK ABOUT OUR OSHIS!!!
+UID:LWsrij5i3KE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ZATSUDAN】HOPE YOU FINISHED YOUR HOMEWORK NERDS\nhttps://www.youtube.com/watch?v=sj4OtjPu1mM
+DURATION:PT2H
+DTSTART:20231120T040000Z
+SUMMARY:Crimzon: 【ZATSUDAN】HOPE YOU FINISHED YOUR HOMEWORK NERDS
+UID:sj4OtjPu1mM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【STORY READING】Only Think About My Voice For Now\, Okay?\nhttps://www.youtube.com/watch?v=_ArPV1AVi1M
+DURATION:PT2H
+DTSTART:20231122T020000Z
+SUMMARY:Flayon: 【STORY READING】Only Think About My Voice For Now\, Okay?
+UID:_ArPV1AVi1M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Just Chatting】Octavio's Journey to Holostars!\nhttps://www.youtube.com/watch?v=KPfYsr9XONI
+DURATION:PT2H
+DTSTART:20231120T030000Z
+SUMMARY:Octavio: 【Just Chatting】Octavio's Journey to Holostars!
+UID:KPfYsr9XONI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PUPPERAZZI】Octavio's first ever photowalk!\nhttps://www.youtube.com/watch?v=uX_TkpWMEyA
+DURATION:PT2H
+DTSTART:20231120T090000Z
+SUMMARY:Octavio: 【PUPPERAZZI】Octavio's first ever photowalk!
+UID:uX_TkpWMEyA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MELATONIN】Octavio is sleep deprived.\nhttps://www.youtube.com/watch?v=F0aunxr_c5I
+DURATION:PT2H
+DTSTART:20231121T033000Z
+SUMMARY:Octavio: 【MELATONIN】Octavio is sleep deprived.
+UID:F0aunxr_c5I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Schedule Making!!!】These cheeky guys have taken over my comment section\nhttps://www.youtube.com/watch?v=c3N9n-htqd0
+DURATION:PT2H
+DTSTART:20231120T160000Z
+SUMMARY:Syrios: 【Schedule Making!!!】These cheeky guys have taken over my comment section
+UID:c3N9n-htqd0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DEAD CELLS】PUNCHING DRACULA IN HIS STUPID TEETH\nhttps://www.youtube.com/watch?v=sFMkHhlWBSk
@@ -67,20 +102,6 @@ SUMMARY:Shinri: 【Home Sweet Home Ep. 2】Jane is still missing\, we need to fi
 UID:-4kMcgWZyGM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【JUST CHATTING】LET'S TALK ABOUT OUR OSHIS!!!\nhttps://www.youtube.com/watch?v=LWsrij5i3KE
-DURATION:PT2H
-DTSTART:20231120T050000Z
-SUMMARY:Jurard: 【JUST CHATTING】LET'S TALK ABOUT OUR OSHIS!!!
-UID:LWsrij5i3KE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ZATSUDAN】HOPE YOU FINISHED YOUR HOMEWORK NERDS\nhttps://www.youtube.com/watch?v=sj4OtjPu1mM
-DURATION:PT2H
-DTSTART:20231120T040000Z
-SUMMARY:Crimzon: 【ZATSUDAN】HOPE YOU FINISHED YOUR HOMEWORK NERDS
-UID:sj4OtjPu1mM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Zatsudan】A Latte Talk About! (Morning Zatsu~)\nhttps://www.youtube.com/watch?v=Gl-toV-d6PY
 DURATION:PT2H
 DTSTART:20231120T170000Z
@@ -93,12 +114,5 @@ DURATION:PT2H
 DTSTART:20231120T000000Z
 SUMMARY:Flayon: 【MACHIBO】Voicing Your Requests Live~
 UID:m5igIA4Gq14
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Just Chatting】Octavio's Journey to Holostars!\nhttps://www.youtube.com/watch?v=KPfYsr9XONI
-DURATION:PT2H
-DTSTART:20231120T030000Z
-SUMMARY:Octavio: 【Just Chatting】Octavio's Journey to Holostars!
-UID:KPfYsr9XONI
 END:VEVENT
 END:VCALENDAR
