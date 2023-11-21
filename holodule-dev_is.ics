@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【One Hand Clapping】道を開けろｯｯｯ!!! クソデカボイスｯｯｯ!!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=HIrl0Qezodk
+DESCRIPTION:【ラジオ配信】ReGLOSS ROOM #7　11月担当：火威青・音乃瀬奏【#リグ部屋】\nhttps://www.youtube.com/watch?v=0pst3XkZFow
 DURATION:PT2H
-DTSTART:20231120T120000Z
-SUMMARY:音乃瀬奏: 【One Hand Clapping】道を開けろｯｯｯ!!! クソデカボイスｯｯｯ!!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
-UID:HIrl0Qezodk
+DTSTART:20231123T090000Z
+SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM #7　11月担当：火威青・音乃瀬奏【#リグ部屋】
+UID:0pst3XkZFow
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:料理したくない日ってあるよね。そんな時に食べる最強飯見つけた。【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=Nv8GmJBJV7A
+DURATION:PT2H
+DTSTART:20231121T030000Z
+SUMMARY:一条莉々華: 料理したくない日ってあるよね。そんな時に食べる最強飯見つけた。【#一条莉々華/hololive DEV_IS ReGLOSS】
+UID:Nv8GmJBJV7A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【アカペラで】「DAYBREAK FRONTLINE」歌ってみたｯｯ！【音乃瀬奏】#Shorts\nhttps://www.youtube.com/watch?v=E5eEGi-aMiY
@@ -30,40 +37,5 @@ DURATION:PT2H
 DTSTART:20231122T110000Z
 SUMMARY:音乃瀬奏: 【歌枠 / Singing】歌います！！るん！🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
 UID:yPhXfmeiqas
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【オフコラボ】お泊り後は限界飯の犠牲になってもらう【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=lR5xPdLXcI8
-DURATION:PT2H
-DTSTART:20231120T030000Z
-SUMMARY:一条莉々華: 【オフコラボ】お泊り後は限界飯の犠牲になってもらう【#一条莉々華/hololive DEV_IS ReGLOSS】
-UID:lR5xPdLXcI8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:料理したくない日ってあるよね。そんな時に食べる最強飯見つけた。【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=Nv8GmJBJV7A
-DURATION:PT2H
-DTSTART:20231121T030000Z
-SUMMARY:一条莉々華: 料理したくない日ってあるよね。そんな時に食べる最強飯見つけた。【#一条莉々華/hololive DEV_IS ReGLOSS】
-UID:Nv8GmJBJV7A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:NEON / cover  #ReGLOSS #一条莉々華 #轟はじめ #歌ってみた #リグ部屋 #shorts\nhttps://www.youtube.com/watch?v=cm7Ycf_hDx0
-DURATION:PT2H
-DTSTART:20231120T093014Z
-SUMMARY:DEV_IShololive: NEON / cover  #ReGLOSS #一条莉々華 #轟はじめ #歌ってみた #リグ部屋 #shorts
-UID:cm7Ycf_hDx0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BGM】作業用 special ver【轟はじめ/ReGLOSS】\nhttps://www.youtube.com/watch?v=R2yOpkIGTeg
-DURATION:PT2H
-DTSTART:20231120T090016Z
-SUMMARY:轟はじめ: 【BGM】作業用 special ver【轟はじめ/ReGLOSS】
-UID:R2yOpkIGTeg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Refind Self: 性格診断ゲーム】まだ君は、本来の僕を知らない【火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=oBlx2yTTfhc
-DURATION:PT2H
-DTSTART:20231120T120000Z
-SUMMARY:火威青: 【Refind Self: 性格診断ゲーム】まだ君は、本来の僕を知らない【火威青 #hololiveDEV_IS #ReGLOSS 】
-UID:oBlx2yTTfhc
 END:VEVENT
 END:VCALENDAR
