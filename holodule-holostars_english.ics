@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【PLANNED GUERILLA STREAM】Uh... About Yesterday...\nhttps://www.youtube.com/watch?v=ZqbihkjKxDc
+DURATION:PT2H
+DTSTART:20231121T070000Z
+SUMMARY:Jurard: 【PLANNED GUERILLA STREAM】Uh... About Yesterday...
+UID:ZqbihkjKxDc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Morning Zatsudan】Bundle up\, Grab a cup of tea\, and let's talk!\nhttps://www.youtube.com/watch?v=qN8wRj6_iGA
 DURATION:PT2H
 DTSTART:20231120T160000Z
 SUMMARY:Goldbullet: 【Morning Zatsudan】Bundle up\, Grab a cup of tea\, and let's talk!
 UID:qN8wRj6_iGA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MELATONIN】Octavio is sleep deprived.\nhttps://www.youtube.com/watch?v=F0aunxr_c5I
+DURATION:PT2H
+DTSTART:20231121T033000Z
+SUMMARY:Octavio: 【MELATONIN】Octavio is sleep deprived.
+UID:F0aunxr_c5I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ARK SURVIVAL EVOLVED】DINOSAURS!!!\nhttps://www.youtube.com/watch?v=QogrsDZsoxo
@@ -25,48 +39,6 @@ SUMMARY:Goldbullet: 【Resident Evil 4】INFINITE AMMO RPG BAYBE!! Let's Rock!
 UID:JZV8PBTdmaQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【EXPECTATION VS REALITY】TOP OF THE WORLD #holoarmis\nhttps://www.youtube.com/watch?v=-Y87bWT7_Os
-DURATION:PT2H
-DTSTART:20231120T233203Z
-SUMMARY:Octavio: 【EXPECTATION VS REALITY】TOP OF THE WORLD #holoarmis
-UID:-Y87bWT7_Os
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【KARAOKE RE-BROADCAST】November 17th\, 2023\nhttps://www.youtube.com/watch?v=OZc5hQLem9A
-DURATION:PT2H
-DTSTART:20231121T130000Z
-SUMMARY:Flayon: 【KARAOKE RE-BROADCAST】November 17th\, 2023
-UID:OZc5hQLem9A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Super Mario RPG】Oh an RPG game??? Time to play it :))))\nhttps://www.youtube.com/watch?v=bSCc1sO2tEA
-DURATION:PT2H
-DTSTART:20231121T111500Z
-SUMMARY:Syrios: 【Super Mario RPG】Oh an RPG game??? Time to play it :))))
-UID:bSCc1sO2tEA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【STORY READING】Only Think About My Voice For Now\, Okay?\nhttps://www.youtube.com/watch?v=_ArPV1AVi1M
-DURATION:PT2H
-DTSTART:20231122T020000Z
-SUMMARY:Flayon: 【STORY READING】Only Think About My Voice For Now\, Okay?
-UID:_ArPV1AVi1M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PLANNED GUERILLA STREAM】Uh... About Yesterday...\nhttps://www.youtube.com/watch?v=ZqbihkjKxDc
-DURATION:PT2H
-DTSTART:20231121T070000Z
-SUMMARY:Jurard: 【PLANNED GUERILLA STREAM】Uh... About Yesterday...
-UID:ZqbihkjKxDc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MELATONIN】Octavio is sleep deprived.\nhttps://www.youtube.com/watch?v=F0aunxr_c5I
-DURATION:PT2H
-DTSTART:20231121T033000Z
-SUMMARY:Octavio: 【MELATONIN】Octavio is sleep deprived.
-UID:F0aunxr_c5I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Schedule Making!!!】These cheeky guys have taken over my comment section\nhttps://www.youtube.com/watch?v=c3N9n-htqd0
 DURATION:PT2H
 DTSTART:20231120T160000Z
@@ -79,6 +51,13 @@ DURATION:PT2H
 DTSTART:20231121T190000Z
 SUMMARY:Crimzon: 【Q REMASTERD】 Burying The Himbo Allegations
 UID:nk_0n2xQmxE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【EXPECTATION VS REALITY】TOP OF THE WORLD #holoarmis\nhttps://www.youtube.com/watch?v=-Y87bWT7_Os
+DURATION:PT2H
+DTSTART:20231120T233203Z
+SUMMARY:Octavio: 【EXPECTATION VS REALITY】TOP OF THE WORLD #holoarmis
+UID:-Y87bWT7_Os
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DEAD CELLS】PUNCHING DRACULA IN HIS STUPID TEETH\nhttps://www.youtube.com/watch?v=sFMkHhlWBSk
@@ -95,11 +74,25 @@ SUMMARY:Altare: 👑The KING is back in the server👑【Call of Duty: Modern Wa
 UID:48I8aQwtLyk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Super Mario RPG】Oh an RPG game??? Time to play it :))))\nhttps://www.youtube.com/watch?v=bSCc1sO2tEA
+DURATION:PT2H
+DTSTART:20231121T111500Z
+SUMMARY:Syrios: 【Super Mario RPG】Oh an RPG game??? Time to play it :))))
+UID:bSCc1sO2tEA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【SAYONARA WILD HEARTS】Octavio's Psychedelic Dreams\nhttps://www.youtube.com/watch?v=QG4-V8-y8Rc
 DURATION:PT2H
 DTSTART:20231122T090000Z
 SUMMARY:Octavio: 【SAYONARA WILD HEARTS】Octavio's Psychedelic Dreams
 UID:QG4-V8-y8Rc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【STORY READING】Only Think About My Voice For Now\, Okay?\nhttps://www.youtube.com/watch?v=_ArPV1AVi1M
+DURATION:PT2H
+DTSTART:20231122T020000Z
+SUMMARY:Flayon: 【STORY READING】Only Think About My Voice For Now\, Okay?
+UID:_ArPV1AVi1M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Zatsudan】A Latte Talk About! (Morning Zatsu~)\nhttps://www.youtube.com/watch?v=Gl-toV-d6PY
