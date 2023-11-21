@@ -4,18 +4,32 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【オフコラボ】お泊り後は限界飯の犠牲になってもらう【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=lR5xPdLXcI8
-DURATION:PT2H
-DTSTART:20231120T030000Z
-SUMMARY:一条莉々華: 【オフコラボ】お泊り後は限界飯の犠牲になってもらう【#一条莉々華/hololive DEV_IS ReGLOSS】
-UID:lR5xPdLXcI8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【One Hand Clapping】道を開けろｯｯｯ!!! クソデカボイスｯｯｯ!!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=HIrl0Qezodk
 DURATION:PT2H
 DTSTART:20231120T120000Z
 SUMMARY:音乃瀬奏: 【One Hand Clapping】道を開けろｯｯｯ!!! クソデカボイスｯｯｯ!!!【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
 UID:HIrl0Qezodk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【アカペラで】「DAYBREAK FRONTLINE」歌ってみたｯｯ！【音乃瀬奏】#Shorts\nhttps://www.youtube.com/watch?v=E5eEGi-aMiY
+DURATION:PT2H
+DTSTART:20231121T090014Z
+SUMMARY:音乃瀬奏: 【アカペラで】「DAYBREAK FRONTLINE」歌ってみたｯｯ！【音乃瀬奏】#Shorts
+UID:E5eEGi-aMiY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠 / Singing】歌います！！るん！🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=yPhXfmeiqas
+DURATION:PT2H
+DTSTART:20231122T110000Z
+SUMMARY:音乃瀬奏: 【歌枠 / Singing】歌います！！るん！🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
+UID:yPhXfmeiqas
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【オフコラボ】お泊り後は限界飯の犠牲になってもらう【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=lR5xPdLXcI8
+DURATION:PT2H
+DTSTART:20231120T030000Z
+SUMMARY:一条莉々華: 【オフコラボ】お泊り後は限界飯の犠牲になってもらう【#一条莉々華/hololive DEV_IS ReGLOSS】
+UID:lR5xPdLXcI8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:料理したくない日ってあるよね。そんな時に食べる最強飯見つけた。【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=Nv8GmJBJV7A
@@ -44,12 +58,5 @@ DURATION:PT2H
 DTSTART:20231120T120000Z
 SUMMARY:火威青: 【Refind Self: 性格診断ゲーム】まだ君は、本来の僕を知らない【火威青 #hololiveDEV_IS #ReGLOSS 】
 UID:oBlx2yTTfhc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠 / Singing】歌います！！るん！🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=yPhXfmeiqas
-DURATION:PT2H
-DTSTART:20231122T110000Z
-SUMMARY:音乃瀬奏: 【歌枠 / Singing】歌います！！るん！🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
-UID:yPhXfmeiqas
 END:VEVENT
 END:VCALENDAR
