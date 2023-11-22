@@ -11,25 +11,11 @@ SUMMARY:轟はじめ: きゅうくらりん/歌ってみた【轟はじめ/ReGLO
 UID:G4RvO6RazVA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:アイドル  / 一条莉々華 (Cover)\nhttps://www.youtube.com/watch?v=auxGGI7FJ9k
+DESCRIPTION:鷹嶺ルイ先輩の直伝レシピ…どうせ複雑な料理なんでしょ！？え、ズボラ用！？作ります！！！【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=0_VkFtDI_lo
 DURATION:PT2H
-DTSTART:20231122T100000Z
-SUMMARY:一条莉々華: アイドル  / 一条莉々華 (Cover)
-UID:auxGGI7FJ9k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ラジオ配信】ReGLOSS ROOM #7　11月担当：火威青・音乃瀬奏【#リグ部屋】\nhttps://www.youtube.com/watch?v=0pst3XkZFow
-DURATION:PT2H
-DTSTART:20231123T090000Z
-SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM #7　11月担当：火威青・音乃瀬奏【#リグ部屋】
-UID:0pst3XkZFow
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:料理したくない日ってあるよね。そんな時に食べる最強飯見つけた。【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=Nv8GmJBJV7A
-DURATION:PT2H
-DTSTART:20231121T030000Z
-SUMMARY:一条莉々華: 料理したくない日ってあるよね。そんな時に食べる最強飯見つけた。【#一条莉々華/hololive DEV_IS ReGLOSS】
-UID:Nv8GmJBJV7A
+DTSTART:20231123T030000Z
+SUMMARY:一条莉々華: 鷹嶺ルイ先輩の直伝レシピ…どうせ複雑な料理なんでしょ！？え、ズボラ用！？作ります！！！【#一条莉々華/hololive DEV_IS ReGLOSS】
+UID:0_VkFtDI_lo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【アカペラで】「DAYBREAK FRONTLINE」歌ってみたｯｯ！【音乃瀬奏】#Shorts\nhttps://www.youtube.com/watch?v=E5eEGi-aMiY
@@ -51,5 +37,26 @@ DURATION:PT2H
 DTSTART:20231122T110000Z
 SUMMARY:音乃瀬奏: 【歌枠 / Singing】アカペラ有り！歌います！！るん！🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
 UID:yPhXfmeiqas
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ラジオ配信】ReGLOSS ROOM #7　11月担当：火威青・音乃瀬奏【#リグ部屋】\nhttps://www.youtube.com/watch?v=0pst3XkZFow
+DURATION:PT2H
+DTSTART:20231123T090000Z
+SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM #7　11月担当：火威青・音乃瀬奏【#リグ部屋】
+UID:0pst3XkZFow
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:料理したくない日ってあるよね。そんな時に食べる最強飯見つけた。【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=Nv8GmJBJV7A
+DURATION:PT2H
+DTSTART:20231121T030000Z
+SUMMARY:一条莉々華: 料理したくない日ってあるよね。そんな時に食べる最強飯見つけた。【#一条莉々華/hololive DEV_IS ReGLOSS】
+UID:Nv8GmJBJV7A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:アイドル  / 一条莉々華 (Cover)\nhttps://www.youtube.com/watch?v=auxGGI7FJ9k
+DURATION:PT2H
+DTSTART:20231122T100000Z
+SUMMARY:一条莉々華: アイドル  / 一条莉々華 (Cover)
+UID:auxGGI7FJ9k
 END:VEVENT
 END:VCALENDAR
