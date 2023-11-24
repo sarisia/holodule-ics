@@ -4,60 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【WORLD OF WARCRAFT: HARDCORE】YOU ARE NOT PREPARED\nhttps://www.youtube.com/watch?v=9hiRm3kQkEo
-DURATION:PT2H
-DTSTART:20231123T190000Z
-SUMMARY:Crimzon: 【WORLD OF WARCRAFT: HARDCORE】YOU ARE NOT PREPARED
-UID:9hiRm3kQkEo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Miitopia】SAILING THE SAME BOAT BOYSSSSSSS\nhttps://www.youtube.com/watch?v=Td2B-YeZDxk
-DURATION:PT2H
-DTSTART:20231124T023000Z
-SUMMARY:Syrios: 【Miitopia】SAILING THE SAME BOAT BOYSSSSSSS
-UID:Td2B-YeZDxk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CONTENT PLANNING】WE...NEED....VIEWS!!!!!!!!!!!!\nhttps://www.youtube.com/watch?v=IBNpq77_B_4
-DURATION:PT2H
-DTSTART:20231123T020000Z
-SUMMARY:Jurard: 【CONTENT PLANNING】WE...NEED....VIEWS!!!!!!!!!!!!
-UID:IBNpq77_B_4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARMIS COLLAB】Monster Huntin' with the Boyz\nhttps://www.youtube.com/watch?v=cBtu76nfPCE
-DURATION:PT2H
-DTSTART:20231125T030000Z
-SUMMARY:Crimzon: 【ARMIS COLLAB】Monster Huntin' with the Boyz
-UID:cBtu76nfPCE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Super Monkey Ball Banana Mania】ITS GETTING BANNANAS IN HERE\nhttps://www.youtube.com/watch?v=71JuIWNnYw8
-DURATION:PT2H
-DTSTART:20231122T160000Z
-SUMMARY:Goldbullet: 【Super Monkey Ball Banana Mania】ITS GETTING BANNANAS IN HERE
-UID:71JuIWNnYw8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】Back at it again ShibuHal Custom!!!【渋ハルカスタム】\nhttps://www.youtube.com/watch?v=Qg_c7tL9r0o
-DURATION:PT2H
-DTSTART:20231123T123000Z
-SUMMARY:Syrios: 【APEX】Back at it again ShibuHal Custom!!!【渋ハルカスタム】
-UID:Qg_c7tL9r0o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Idols use public toilets too #holoarmis\nhttps://www.youtube.com/watch?v=TjRq0lSRCv4
-DURATION:PT2H
-DTSTART:20231124T010024Z
-SUMMARY:Octavio: Idols use public toilets too #holoarmis
-UID:TjRq0lSRCv4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【GORN VR】Time to workout in VR! Combat practice time!\nhttps://www.youtube.com/watch?v=G17s_9fL6pU
 DURATION:PT2H
 DTSTART:20231123T160000Z
 SUMMARY:Goldbullet: 【GORN VR】Time to workout in VR! Combat practice time!
 UID:G17s_9fL6pU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【WORLD OF WARCRAFT: HARDCORE】YOU ARE NOT PREPARED\nhttps://www.youtube.com/watch?v=9hiRm3kQkEo
+DURATION:PT2H
+DTSTART:20231123T190000Z
+SUMMARY:Crimzon: 【WORLD OF WARCRAFT: HARDCORE】YOU ARE NOT PREPARED
+UID:9hiRm3kQkEo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TROMBONE CHAMP】OCTAVIO IS A ROOT TOOTIN BABY\nhttps://www.youtube.com/watch?v=vSFfignrW0I
@@ -67,13 +25,6 @@ SUMMARY:Octavio: 【TROMBONE CHAMP】OCTAVIO IS A ROOT TOOTIN BABY
 UID:vSFfignrW0I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【A SHORT HIKE】Octavio needs to be carried\nhttps://www.youtube.com/watch?v=9leiloDbQ4s
-DURATION:PT2H
-DTSTART:20231123T030000Z
-SUMMARY:Octavio: 【A SHORT HIKE】Octavio needs to be carried
-UID:9leiloDbQ4s
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【UNDER NIGHT IN-BIRTH】It's Not The Sequel Yet\, But It's Still Uni(CLR!)\nhttps://www.youtube.com/watch?v=CKrzK9kKHgQ
 DURATION:PT2H
 DTSTART:20231124T220000Z
@@ -81,11 +32,25 @@ SUMMARY:Flayon: 【UNDER NIGHT IN-BIRTH】It's Not The Sequel Yet\, But It's Sti
 UID:CKrzK9kKHgQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Miitopia】SAILING THE SAME BOAT BOYSSSSSSS\nhttps://www.youtube.com/watch?v=Td2B-YeZDxk
+DURATION:PT2H
+DTSTART:20231124T023000Z
+SUMMARY:Syrios: 【Miitopia】SAILING THE SAME BOAT BOYSSSSSSS
+UID:Td2B-YeZDxk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【PHASMOPHOBIA】JUST GHOST HUNTING\nhttps://www.youtube.com/watch?v=JcJPTeKJdcs
 DURATION:PT2H
 DTSTART:20231124T100000Z
 SUMMARY:Jurard: 【PHASMOPHOBIA】JUST GHOST HUNTING
 UID:JcJPTeKJdcs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARMIS COLLAB】Monster Huntin' with the Boyz\nhttps://www.youtube.com/watch?v=cBtu76nfPCE
+DURATION:PT2H
+DTSTART:20231125T030000Z
+SUMMARY:Crimzon: 【ARMIS COLLAB】Monster Huntin' with the Boyz
+UID:cBtu76nfPCE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Becoming the TRUE Hero of the Minish【🍀Zelda: The Minish Cap🍀】【FINALE?】\nhttps://www.youtube.com/watch?v=ERgtkjjGg_o
@@ -102,11 +67,11 @@ SUMMARY:Shinri: 【Zatsudan】A Latte Talk About! (Morning Zatsu~) (Nov 24th\, 2
 UID:bqau08eLgq4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MONSTER HUNTER】 Ruze Rides Again\nhttps://www.youtube.com/watch?v=9ZUb_reQkII
+DESCRIPTION:Idols use public toilets too #holoarmis\nhttps://www.youtube.com/watch?v=TjRq0lSRCv4
 DURATION:PT2H
-DTSTART:20231123T040000Z
-SUMMARY:Crimzon: 【MONSTER HUNTER】 Ruze Rides Again
-UID:9ZUb_reQkII
+DTSTART:20231124T010024Z
+SUMMARY:Octavio: Idols use public toilets too #holoarmis
+UID:TjRq0lSRCv4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Refind Self: The Personality Test Game】Who Am I? Who Are You\nhttps://www.youtube.com/watch?v=SMCUQKn4sxY
@@ -121,12 +86,5 @@ DURATION:PT2H
 DTSTART:20231124T000000Z
 SUMMARY:Altare: 【Refind Self: The Personality Test Game】Find the Truth.
 UID:apk8PtxdI3s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Refind Self】Who am I really...???\nhttps://www.youtube.com/watch?v=thlpGjdW0Ew
-DURATION:PT2H
-DTSTART:20231123T020000Z
-SUMMARY:Syrios: 【Refind Self】Who am I really...???
-UID:thlpGjdW0Ew
 END:VEVENT
 END:VCALENDAR
