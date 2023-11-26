@@ -4,76 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【JOHN WICK WATCHALONG】Get ready for VIOLENCE! (#holoAdvent Collab)\nhttps://www.youtube.com/watch?v=4YzmhWkDOIk
-DURATION:PT2H
-DTSTART:20231125T020000Z
-SUMMARY:Bijou: 【JOHN WICK WATCHALONG】Get ready for VIOLENCE! (#holoAdvent Collab)
-UID:4YzmhWkDOIk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Henry Stickmin Collection】MEMES? MEMES.\nhttps://www.youtube.com/watch?v=vgOxCvd0Jtc
-DURATION:PT2H
-DTSTART:20231126T000000Z
-SUMMARY:Bijou: 【The Henry Stickmin Collection】MEMES? MEMES.
-UID:vgOxCvd0Jtc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Nature Adores A Feline #holoEN3DRepeat\nhttps://www.youtube.com/watch?v=Jeek8tRQQm4
-DURATION:PT2H
-DTSTART:20231125T040000Z
-SUMMARY:ENholo: Nature Adores A Feline #holoEN3DRepeat
-UID:Jeek8tRQQm4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FUWAMOCO MORNING】episode 48 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=fRytzbbNoCo
-DURATION:PT2H
-DTSTART:20231124T160000Z
-SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 48 🐾 #FWMCMORNING
-UID:fRytzbbNoCo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪HOLO NO SUIKA≫ 10K RUN I WILL BE NUMBER ONE\nhttps://www.youtube.com/watch?v=THKq5W_UHE4
-DURATION:PT2H
-DTSTART:20231125T010000Z
-SUMMARY:Baelz: ≪HOLO NO SUIKA≫ 10K RUN I WILL BE NUMBER ONE
-UID:THKq5W_UHE4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SUPER MARIO RPG】adopted frog and REAL boy join the gang #kfp #キアライブ\nhttps://www.youtube.com/watch?v=svd9nM11fm0
-DURATION:PT2H
-DTSTART:20231126T153000Z
-SUMMARY:Kiara: 【SUPER MARIO RPG】adopted frog and REAL boy join the gang #kfp #キアライブ
-UID:svd9nM11fm0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Kidnap】Have we been taken? 🎼\nhttps://www.youtube.com/watch?v=NxhPxR8qp4c
-DURATION:PT2H
-DTSTART:20231126T010000Z
-SUMMARY:Nerissa: 【The Kidnap】Have we been taken? 🎼
-UID:NxhPxR8qp4c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Entropy Center】Hello Friend | #1\nhttps://www.youtube.com/watch?v=-_XeNfAqn8w
-DURATION:PT2H
-DTSTART:20231126T020000Z
-SUMMARY:Kronii: 【Entropy Center】Hello Friend | #1
-UID:-_XeNfAqn8w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SUPER MARIO RPG】First Time Playing!!! Lets-a-GOOOO #kfp #キアライブ\nhttps://www.youtube.com/watch?v=FHsFNz2zcCY
-DURATION:PT2H
-DTSTART:20231125T153000Z
-SUMMARY:Kiara: 【SUPER MARIO RPG】First Time Playing!!! Lets-a-GOOOO #kfp #キアライブ
-UID:FHsFNz2zcCY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT COLLAB】with @KaelaKovalskia  ZENLOSS RECOVERY ARC\nhttps://www.youtube.com/watch?v=cIxlN4zbaRI
-DURATION:PT2H
-DTSTART:20231127T000000Z
-SUMMARY:Bijou: 【MINECRAFT COLLAB】with @KaelaKovalskia  ZENLOSS RECOVERY ARC
-UID:cIxlN4zbaRI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【TWIN DAY WITH LUI】2 twin sisters and 1 twin connoisseur 🐾\nhttps://www.youtube.com/watch?v=MbqO5OPuT80
 DURATION:PT2H
 DTSTART:20231126T020000Z
@@ -88,11 +18,25 @@ SUMMARY:FUWAMOCO: 【MV】アイデンティティ／IDENTITY (Cover)【FUWAMOCO
 UID:B9qgXaihce8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【The Henry Stickmin Collection】MEMES? MEMES.\nhttps://www.youtube.com/watch?v=vgOxCvd0Jtc
+DURATION:PT2H
+DTSTART:20231126T000000Z
+SUMMARY:Bijou: 【The Henry Stickmin Collection】MEMES? MEMES.
+UID:vgOxCvd0Jtc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【WARIO WARE】busting a move in 3D with Milky Queen! (off collab)\nhttps://www.youtube.com/watch?v=FZoJaOWe4TU
 DURATION:PT2H
 DTSTART:20231127T030000Z
 SUMMARY:Calli: 【WARIO WARE】busting a move in 3D with Milky Queen! (off collab)
 UID:FZoJaOWe4TU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT COLLAB】with @KaelaKovalskia  ZENLOSS RECOVERY ARC\nhttps://www.youtube.com/watch?v=cIxlN4zbaRI
+DURATION:PT2H
+DTSTART:20231127T000000Z
+SUMMARY:Bijou: 【MINECRAFT COLLAB】with @KaelaKovalskia  ZENLOSS RECOVERY ARC
+UID:cIxlN4zbaRI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【UNARCHIVED KARAOKE】Singing some songs~🎼\nhttps://www.youtube.com/watch?v=SoJt3TRFRaI
@@ -109,11 +53,18 @@ SUMMARY:Calli: danger zone #shorts
 UID:5eAE61Usr94
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Imagine Shiori As Your Mother #shorts\nhttps://www.youtube.com/watch?v=z93FNiDQAmQ
+DESCRIPTION:【SUPER MARIO RPG】adopted frog and REAL boy join the gang #kfp #キアライブ\nhttps://www.youtube.com/watch?v=svd9nM11fm0
 DURATION:PT2H
-DTSTART:20231125T030035Z
-SUMMARY:Shiori: Imagine Shiori As Your Mother #shorts
-UID:z93FNiDQAmQ
+DTSTART:20231126T153000Z
+SUMMARY:Kiara: 【SUPER MARIO RPG】adopted frog and REAL boy join the gang #kfp #キアライブ
+UID:svd9nM11fm0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【The Kidnap】Have we been taken? 🎼\nhttps://www.youtube.com/watch?v=NxhPxR8qp4c
+DURATION:PT2H
+DTSTART:20231126T010000Z
+SUMMARY:Nerissa: 【The Kidnap】Have we been taken? 🎼
+UID:NxhPxR8qp4c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【IDENTITY AFTERPARTY】dual identity of twins 🐾\nhttps://www.youtube.com/watch?v=wjjdyH9NxGs
@@ -123,11 +74,18 @@ SUMMARY:FUWAMOCO: 【IDENTITY AFTERPARTY】dual identity of twins 🐾
 UID:wjjdyH9NxGs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SUPERCHAT READING】happy happy times with you 🐾✨\nhttps://www.youtube.com/watch?v=4wdlCS_BPsw
+DESCRIPTION:【Entropy Center】Hello Friend | #1\nhttps://www.youtube.com/watch?v=-_XeNfAqn8w
 DURATION:PT2H
-DTSTART:20231125T043000Z
-SUMMARY:FUWAMOCO: 【SUPERCHAT READING】happy happy times with you 🐾✨
-UID:4wdlCS_BPsw
+DTSTART:20231126T020000Z
+SUMMARY:Kronii: 【Entropy Center】Hello Friend | #1
+UID:-_XeNfAqn8w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SUPER MARIO RPG】First Time Playing!!! Lets-a-GOOOO #kfp #キアライブ\nhttps://www.youtube.com/watch?v=FHsFNz2zcCY
+DURATION:PT2H
+DTSTART:20231125T153000Z
+SUMMARY:Kiara: 【SUPER MARIO RPG】First Time Playing!!! Lets-a-GOOOO #kfp #キアライブ
+UID:FHsFNz2zcCY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MARIO KART 8 DELUXE WITH RUFFIANS】learning to drive together 🐾\nhttps://www.youtube.com/watch?v=7v8s3ITgpLA
