@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 #ラプラス2周年LIVE 】アイドルLIVE！？やります！🔥 [ 超最強ゲスト多数参戦！]【3D LIVE】\nhttps://www.youtube.com/watch?v=abXN62S7pyU
-DURATION:PT2H
-DTSTART:20231126T110000Z
-SUMMARY:ラプラス: 【 #ラプラス2周年LIVE 】アイドルLIVE！？やります！🔥 [ 超最強ゲスト多数参戦！]【3D LIVE】
-UID:abXN62S7pyU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:じゃんけん勝負！いくよ～？ #なんで負けたか明日までに考えといてください #雪花ラミィ #ホロライブ #hololive\nhttps://www.youtube.com/watch?v=YzJ0BFp9LuI
 DURATION:PT2H
 DTSTART:20231125T030030Z
 SUMMARY:雪花ラミィ: じゃんけん勝負！いくよ～？ #なんで負けたか明日までに考えといてください #雪花ラミィ #ホロライブ #hololive
 UID:YzJ0BFp9LuI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #ラプラス2周年LIVE 】アイドルLIVE！？やります！🔥 [ 超最強ゲスト多数参戦！]【3D LIVE】\nhttps://www.youtube.com/watch?v=abXN62S7pyU
+DURATION:PT2H
+DTSTART:20231126T110000Z
+SUMMARY:ラプラス: 【 #ラプラス2周年LIVE 】アイドルLIVE！？やります！🔥 [ 超最強ゲスト多数参戦！]【3D LIVE】
+UID:abXN62S7pyU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:2周年直前のお・ね・だ・り♡ #Shorts #varkshorts 【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=fd9qDgg1fn8
@@ -46,13 +46,6 @@ SUMMARY:雪花ラミィ: じゃんけん勝負！いくよ～？ #なんで負�
 UID:D_vAe2w2SQM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【夜雑】低気圧敗北部の雑談【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=sw9txSLgaS4
-DURATION:PT2H
-DTSTART:20231126T140000Z
-SUMMARY:雪花ラミィ: 【夜雑】低気圧敗北部の雑談【雪花ラミィ/ホロライブ】
-UID:sw9txSLgaS4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ドラゴンクエストけしケシ！】#ドラけし　コラボ開催が嬉しい既プレイきーつねっ【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=56OHCKh7Aj8
 DURATION:PT2H
 DTSTART:20231125T120000Z
@@ -79,6 +72,13 @@ DURATION:PT2H
 DTSTART:20231126T080000Z
 SUMMARY:🌲大神ミオ: 【初LEGO】パックンフラワーを作るよ！【ホロライブ/大神ミオ】
 UID:39p63mywanI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【夜雑】低気圧敗北部の雑談【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=sw9txSLgaS4
+DURATION:PT2H
+DTSTART:20231126T140000Z
+SUMMARY:雪花ラミィ: 【夜雑】低気圧敗北部の雑談【雪花ラミィ/ホロライブ】
+UID:sw9txSLgaS4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【新時代！】VTuberが街頭ビジョンをジャック！？ #雪花ラミィ #ホロライブ #hololive\nhttps://www.youtube.com/watch?v=a47WMe8ZNiw
@@ -130,13 +130,6 @@ SUMMARY:👯兎田ぺこら: 【モンスト】はじめてのモンスト！限
 UID:RCmSXM7QJXU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:新機材でテンションぶち上げで歌ってみた！？！？！？【 桃鈴ねね / hololive 】\nhttps://www.youtube.com/watch?v=DndpBiGlGOg
-DURATION:PT2H
-DTSTART:20231126T120000Z
-SUMMARY:桃鈴ねね: 新機材でテンションぶち上げで歌ってみた！？！？！？【 桃鈴ねね / hololive 】
-UID:DndpBiGlGOg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:wowowo...#vtuber #hololive #ホロライブ #桃鈴ねね #momosuzunene #shorts\nhttps://www.youtube.com/watch?v=GFNszJSXmW0
 DURATION:PT2H
 DTSTART:20231125T142745Z
@@ -184,13 +177,6 @@ DURATION:PT2H
 DTSTART:20231126T053000Z
 SUMMARY:鷹嶺ルイ: 【 ジャパンC 】あくあ先輩と初コラボ♡競馬の楽しさを知ってもらいたい‼ #ホロ競馬部【湊あくあ/鷹嶺ルイ/ホロライブ】
 UID:W7cMa30J5Kw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:新機材の歌枠がグルグルしないでｸﾚﾖｫ！！！！！！！【 桃鈴ねね / hololive 】\nhttps://www.youtube.com/watch?v=FkoSR8Kg4ec
-DURATION:PT2H
-DTSTART:20231126T120500Z
-SUMMARY:桃鈴ねね: 新機材の歌枠がグルグルしないでｸﾚﾖｫ！！！！！！！【 桃鈴ねね / hololive 】
-UID:FkoSR8Kg4ec
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【＃生スバル】雑談！おはスバしゅばあああああああああああああああああ！！：Free Talk【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=o0biagpCtiA
@@ -258,7 +244,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GTAⅤ】はじめてのGTA！#ホロギャング【フブさん、みこさん、アキさん/ホロライブ】\nhttps://www.youtube.com/watch?v=5Xz2kavJFkk
 DURATION:PT2H
-DTSTART:20231126T134500Z
+DTSTART:20231126T140000Z
 SUMMARY:🍎アキロゼ: 【GTAⅤ】はじめてのGTA！#ホロギャング【フブさん、みこさん、アキさん/ホロライブ】
 UID:5Xz2kavJFkk
 END:VEVENT
@@ -291,18 +277,18 @@ SUMMARY:🔥不知火フレア: 【閲覧注意】原枝恚子さん怪死事件
 UID:2Vu8SPbvcp0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スーパーマリオRPG】仲間が多くてテンションがあがる冒険【ときのそら/Tokinosora/ホロライブ 】\nhttps://www.youtube.com/watch?v=SSmWYESp5MQ
-DURATION:PT2H
-DTSTART:20231126T070000Z
-SUMMARY:🐻ときのそら: 【スーパーマリオRPG】仲間が多くてテンションがあがる冒険【ときのそら/Tokinosora/ホロライブ 】
-UID:SSmWYESp5MQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【告知】サムネ見たまんまです！！！！！！！！！！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=HSKB1kPTVLs
 DURATION:PT2H
 DTSTART:20231125T090000Z
 SUMMARY:風真いろは: 【告知】サムネ見たまんまです！！！！！！！！！！【風真いろは/ホロライブ】
 UID:HSKB1kPTVLs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スーパーマリオRPG】仲間が多くてテンションがあがる冒険【ときのそら/Tokinosora/ホロライブ 】\nhttps://www.youtube.com/watch?v=SSmWYESp5MQ
+DURATION:PT2H
+DTSTART:20231126T070000Z
+SUMMARY:🐻ときのそら: 【スーパーマリオRPG】仲間が多くてテンションがあがる冒険【ときのそら/Tokinosora/ホロライブ 】
+UID:SSmWYESp5MQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:今日は、はばないだよ！【 #今日のわため 】 #shorts\nhttps://www.youtube.com/watch?v=Y6XI1pI9eAE
@@ -396,13 +382,6 @@ SUMMARY:🏮夏色まつり: 【歌枠】お久しぶりにおうたをうたい
 UID:a_nsIU67KKw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:新機材発表したかったのにベチギレたねね【 桃鈴ねね / hololive 】\nhttps://www.youtube.com/watch?v=te3mjnivqpg
-DURATION:PT2H
-DTSTART:20231126T125000Z
-SUMMARY:桃鈴ねね: 新機材発表したかったのにベチギレたねね【 桃鈴ねね / hololive 】
-UID:te3mjnivqpg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【＃5】龍が如く４するしゅばあああああああああああああああ！！！！！！ / YAKUZA 4【※ネタバレあり】\nhttps://www.youtube.com/watch?v=qpcS4Lf-yik
 DURATION:PT2H
 DTSTART:20231126T040000Z
@@ -424,13 +403,6 @@ SUMMARY:ラプラス: 【やらかし】明日最強のLIVEをするVtuber!!【2
 UID:dlRkpWop5WQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ARK | Fjordur】デイノ育てる！もしかしたら大ボス？レベリング！【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=04ez3gB9IBU
-DURATION:PT2H
-DTSTART:20231125T130000Z
-SUMMARY:🍎アキロゼ: 【ARK | Fjordur】デイノ育てる！もしかしたら大ボス？レベリング！【アキ・ローゼンタール/ホロライブ】
-UID:04ez3gB9IBU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:にこっとロボ子さん #hololive #vtuber #shorts\nhttps://www.youtube.com/watch?v=6SwuYekIS-M
 DURATION:PT2H
 DTSTART:20231125T092918Z
@@ -443,6 +415,13 @@ DURATION:PT2H
 DTSTART:20231125T100000Z
 SUMMARY:🏴☠宝鐘マリン: 【マリころオフコラボ3D】超おどるメイドインワリオ【ホロライブ/宝鐘マリン】
 UID:cx_svBuQbj4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARK | Fjordur】デイノ育てる！もしかしたら大ボス？レベリング！【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=04ez3gB9IBU
+DURATION:PT2H
+DTSTART:20231125T130000Z
+SUMMARY:🍎アキロゼ: 【ARK | Fjordur】デイノ育てる！もしかしたら大ボス？レベリング！【アキ・ローゼンタール/ホロライブ】
+UID:04ez3gB9IBU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠 / Singing Stream】お久しぶりに、歌う、ようですね！！２０時に動画上がります！【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=e8LWLjPcMSI
