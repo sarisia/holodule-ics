@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【TWIN DAY WITH LUI】2 twin sisters and 1 twin connoisseur 🐾\nhttps://www.youtube.com/watch?v=MbqO5OPuT80
-DURATION:PT2H
-DTSTART:20231126T020000Z
-SUMMARY:FUWAMOCO: 【TWIN DAY WITH LUI】2 twin sisters and 1 twin connoisseur 🐾
-UID:MbqO5OPuT80
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MV】アイデンティティ／IDENTITY (Cover)【FUWAMOCO】\nhttps://www.youtube.com/watch?v=B9qgXaihce8
-DURATION:PT2H
-DTSTART:20231126T040000Z
-SUMMARY:FUWAMOCO: 【MV】アイデンティティ／IDENTITY (Cover)【FUWAMOCO】
-UID:B9qgXaihce8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【The Henry Stickmin Collection】MEMES? MEMES.\nhttps://www.youtube.com/watch?v=vgOxCvd0Jtc
 DURATION:PT2H
 DTSTART:20231126T000000Z
@@ -32,39 +18,11 @@ SUMMARY:Ina: 【Refind Self: The Personality Test Game】 DON'T LOSE YOUR WAAA-.
 UID:pmFgwVwK_pA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【WARIO WARE】busting a move in 3D with Milky Queen! (off collab)\nhttps://www.youtube.com/watch?v=FZoJaOWe4TU
-DURATION:PT2H
-DTSTART:20231127T030000Z
-SUMMARY:Calli: 【WARIO WARE】busting a move in 3D with Milky Queen! (off collab)
-UID:FZoJaOWe4TU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Tavern Master】 Tavern Management Simulator of My Dreams\nhttps://www.youtube.com/watch?v=xrO8ZmUQR0M
 DURATION:PT2H
 DTSTART:20231126T230000Z
 SUMMARY:Fauna: 【Tavern Master】 Tavern Management Simulator of My Dreams
 UID:xrO8ZmUQR0M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT COLLAB】with @KaelaKovalskia  ZENLOSS RECOVERY ARC\nhttps://www.youtube.com/watch?v=cIxlN4zbaRI
-DURATION:PT2H
-DTSTART:20231127T000000Z
-SUMMARY:Bijou: 【MINECRAFT COLLAB】with @KaelaKovalskia  ZENLOSS RECOVERY ARC
-UID:cIxlN4zbaRI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【UNARCHIVED KARAOKE】Singing some songs~🎼\nhttps://www.youtube.com/watch?v=SoJt3TRFRaI
-DURATION:PT2H
-DTSTART:20231127T010000Z
-SUMMARY:Nerissa: 【UNARCHIVED KARAOKE】Singing some songs~🎼
-UID:SoJt3TRFRaI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:danger zone #shorts\nhttps://www.youtube.com/watch?v=5eAE61Usr94
-DURATION:PT2H
-DTSTART:20231126T020004Z
-SUMMARY:Calli: danger zone #shorts
-UID:5eAE61Usr94
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SUPER MARIO RPG】adopted frog and REAL boy join the gang #kfp #キアライブ\nhttps://www.youtube.com/watch?v=svd9nM11fm0
@@ -81,13 +39,6 @@ SUMMARY:Nerissa: 【The Kidnap】Have we been taken? 🎼
 UID:NxhPxR8qp4c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【IDENTITY AFTERPARTY】dual identity of twins 🐾\nhttps://www.youtube.com/watch?v=wjjdyH9NxGs
-DURATION:PT2H
-DTSTART:20231126T043000Z
-SUMMARY:FUWAMOCO: 【IDENTITY AFTERPARTY】dual identity of twins 🐾
-UID:wjjdyH9NxGs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Entropy Center】Hello Friend | #1\nhttps://www.youtube.com/watch?v=-_XeNfAqn8w
 DURATION:PT2H
 DTSTART:20231126T020000Z
@@ -102,10 +53,66 @@ SUMMARY:Kiara: 【SUPER MARIO RPG】First Time Playing!!! Lets-a-GOOOO #kfp #キ
 UID:FHsFNz2zcCY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【TWIN DAY WITH LUI】2 twin sisters and 1 twin connoisseur 🐾\nhttps://www.youtube.com/watch?v=MbqO5OPuT80
+DURATION:PT2H
+DTSTART:20231126T020000Z
+SUMMARY:FUWAMOCO: 【TWIN DAY WITH LUI】2 twin sisters and 1 twin connoisseur 🐾
+UID:MbqO5OPuT80
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MV】アイデンティティ／IDENTITY (Cover)【FUWAMOCO】\nhttps://www.youtube.com/watch?v=B9qgXaihce8
+DURATION:PT2H
+DTSTART:20231126T040000Z
+SUMMARY:FUWAMOCO: 【MV】アイデンティティ／IDENTITY (Cover)【FUWAMOCO】
+UID:B9qgXaihce8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【WARIO WARE】busting a move in 3D with Milky Queen! (off collab)\nhttps://www.youtube.com/watch?v=FZoJaOWe4TU
+DURATION:PT2H
+DTSTART:20231127T030000Z
+SUMMARY:Calli: 【WARIO WARE】busting a move in 3D with Milky Queen! (off collab)
+UID:FZoJaOWe4TU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【UNARCHIVED KARAOKE】Singing some songs~🎼\nhttps://www.youtube.com/watch?v=SoJt3TRFRaI
+DURATION:PT2H
+DTSTART:20231127T010000Z
+SUMMARY:Nerissa: 【UNARCHIVED KARAOKE】Singing some songs~🎼
+UID:SoJt3TRFRaI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:danger zone #shorts\nhttps://www.youtube.com/watch?v=5eAE61Usr94
+DURATION:PT2H
+DTSTART:20231126T020004Z
+SUMMARY:Calli: danger zone #shorts
+UID:5eAE61Usr94
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DOOM】I HAVE A CHAINSAW\nhttps://www.youtube.com/watch?v=x5fmA44jpJ8
+DURATION:PT2H
+DTSTART:20231127T040000Z
+SUMMARY:Mumei: 【DOOM】I HAVE A CHAINSAW
+UID:x5fmA44jpJ8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MARIO KART 8 DELUXE WITH RUFFIANS】learning to drive together 🐾\nhttps://www.youtube.com/watch?v=7v8s3ITgpLA
 DURATION:PT2H
 DTSTART:20231126T210000Z
 SUMMARY:FUWAMOCO: 【MARIO KART 8 DELUXE WITH RUFFIANS】learning to drive together 🐾
 UID:7v8s3ITgpLA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【IDENTITY AFTERPARTY】dual identity of twins 🐾\nhttps://www.youtube.com/watch?v=wjjdyH9NxGs
+DURATION:PT2H
+DTSTART:20231126T043000Z
+SUMMARY:FUWAMOCO: 【IDENTITY AFTERPARTY】dual identity of twins 🐾
+UID:wjjdyH9NxGs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT COLLAB】with @KaelaKovalskia  ZENLOSS RECOVERY ARC\nhttps://www.youtube.com/watch?v=cIxlN4zbaRI
+DURATION:PT2H
+DTSTART:20231127T000000Z
+SUMMARY:Bijou: 【MINECRAFT COLLAB】with @KaelaKovalskia  ZENLOSS RECOVERY ARC
+UID:cIxlN4zbaRI
 END:VEVENT
 END:VCALENDAR
