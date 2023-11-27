@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:Important Announcement Regarding Takanashi Kiara\nhttps://www.youtube.com/watch?v=9pgwUKU-gKU
+DURATION:PT2H
+DTSTART:20231127T190000Z
+SUMMARY:Kiara: Important Announcement Regarding Takanashi Kiara
+UID:9pgwUKU-gKU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ホロのスイカ HOLO NO SUIKA】the FUWAMOCO update?! 🐾\nhttps://www.youtube.com/watch?v=lyyzoY5LwfQ
 DURATION:PT2H
 DTSTART:20231128T020000Z

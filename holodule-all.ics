@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【FALL GUYS w/ VIEWERS】Just me playing with the kids!\nhttps://www.youtube.com/watch?v=cMDU6ll-Qm0
-DURATION:PT2H
-DTSTART:20231127T080000Z
-SUMMARY:Jurard: 【FALL GUYS w/ VIEWERS】Just me playing with the kids!
-UID:cMDU6ll-Qm0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:男の弾き語り歌枠その8億【奏手イヅル】\nhttps://www.youtube.com/watch?v=2mdvFY1B4iQ
 DURATION:PT2H
 DTSTART:20231127T140000Z
@@ -25,18 +18,25 @@ SUMMARY:Crimzon: 【HUNT: SHOWDOWN】 Cowboys VS Zombies VS Trenchfoot
 UID:7b8dPM1XdlE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ロベルないとめあ】10回の質問で相手の回答を導くことは出来るのかを試す我々【夕刻ロベル/神楽めあ】\nhttps://www.youtube.com/watch?v=Uyv9DbTV36k
-DURATION:PT2H
-DTSTART:20231128T100000Z
-SUMMARY:🍷夕刻ロベル: 【#ロベルないとめあ】10回の質問で相手の回答を導くことは出来るのかを試す我々【夕刻ロベル/神楽めあ】
-UID:Uyv9DbTV36k
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン3】勝ちたイカ!ホロライブスプラ大会!大抽選会🎉【 おかころ/ホロライブ 】\nhttps://www.youtube.com/watch?v=_XKb3vB6pYI
 DURATION:PT2H
 DTSTART:20231128T100000Z
 SUMMARY:🍙猫又おかゆ: 【スプラトゥーン3】勝ちたイカ!ホロライブスプラ大会!大抽選会🎉【 おかころ/ホロライブ 】
 UID:_XKb3vB6pYI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FALL GUYS w/ VIEWERS】Just me playing with the kids!\nhttps://www.youtube.com/watch?v=cMDU6ll-Qm0
+DURATION:PT2H
+DTSTART:20231127T080000Z
+SUMMARY:Jurard: 【FALL GUYS w/ VIEWERS】Just me playing with the kids!
+UID:cMDU6ll-Qm0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ロベルないとめあ】10回の質問で相手の回答を導くことは出来るのかを試す我々【夕刻ロベル/神楽めあ】\nhttps://www.youtube.com/watch?v=Uyv9DbTV36k
+DURATION:PT2H
+DTSTART:20231128T100000Z
+SUMMARY:🍷夕刻ロベル: 【#ロベルないとめあ】10回の質問で相手の回答を導くことは出来るのかを試す我々【夕刻ロベル/神楽めあ】
+UID:Uyv9DbTV36k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 ソウルキャリバーⅥ】カオスな奴らのキャラクリ大会🔥勝率上げるために勝ち越しだにぇ‼【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=LOXXU6PdnLg
@@ -95,18 +95,18 @@ SUMMARY:Mumei: 【DOOM】I HAVE A CHAINSAW
 UID:x5fmA44jpJ8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MARIO KART 8 DELUXE WITH RUFFIANS】learning to drive together 🐾\nhttps://www.youtube.com/watch?v=7v8s3ITgpLA
-DURATION:PT2H
-DTSTART:20231126T210000Z
-SUMMARY:FUWAMOCO: 【MARIO KART 8 DELUXE WITH RUFFIANS】learning to drive together 🐾
-UID:7v8s3ITgpLA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【世界のアソビ大全51】火威青から挑戦状が届きました。レッツファイト【常闇トワ&火威青】\nhttps://www.youtube.com/watch?v=F90yY9i7M7E
 DURATION:PT2H
 DTSTART:20231127T130000Z
 SUMMARY:👾常闇トワ: 【世界のアソビ大全51】火威青から挑戦状が届きました。レッツファイト【常闇トワ&火威青】
 UID:F90yY9i7M7E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MARIO KART 8 DELUXE WITH RUFFIANS】learning to drive together 🐾\nhttps://www.youtube.com/watch?v=7v8s3ITgpLA
+DURATION:PT2H
+DTSTART:20231126T210000Z
+SUMMARY:FUWAMOCO: 【MARIO KART 8 DELUXE WITH RUFFIANS】learning to drive together 🐾
+UID:7v8s3ITgpLA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ストリートファイター6】白熱！ガイル村討論会！ガイルについて研究しよう【ひぐち/ドンピシャ/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=5bynTB6FOUg
@@ -270,13 +270,6 @@ SUMMARY:博衣こより: 【#朝こよ】2周年当日だ！火曜日の朝は�
 UID:cxKNNuvWaI0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ホロのスイカ HOLO NO SUIKA】the FUWAMOCO update?! 🐾\nhttps://www.youtube.com/watch?v=lyyzoY5LwfQ
-DURATION:PT2H
-DTSTART:20231128T020000Z
-SUMMARY:FUWAMOCO: 【ホロのスイカ HOLO NO SUIKA】the FUWAMOCO update?! 🐾
-UID:lyyzoY5LwfQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT COLLAB】with @KaelaKovalskia  ZENLOSS RECOVERY ARC\nhttps://www.youtube.com/watch?v=cIxlN4zbaRI
 DURATION:PT2H
 DTSTART:20231127T000000Z
@@ -284,11 +277,25 @@ SUMMARY:Bijou: 【MINECRAFT COLLAB】with @KaelaKovalskia  ZENLOSS RECOVERY ARC
 UID:cIxlN4zbaRI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ホロのスイカ HOLO NO SUIKA】the FUWAMOCO update?! 🐾\nhttps://www.youtube.com/watch?v=lyyzoY5LwfQ
+DURATION:PT2H
+DTSTART:20231128T020000Z
+SUMMARY:FUWAMOCO: 【ホロのスイカ HOLO NO SUIKA】the FUWAMOCO update?! 🐾
+UID:lyyzoY5LwfQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【荒野行動】ぺこちゃんと一緒にHIKAKIN荒野バトルを遊んでいく余～ 【 百鬼あやめ /ホロライブ 】\nhttps://www.youtube.com/watch?v=IeoSkxkMSK8
 DURATION:PT2H
 DTSTART:20231128T110000Z
 SUMMARY:👿百鬼あやめ: 【荒野行動】ぺこちゃんと一緒にHIKAKIN荒野バトルを遊んでいく余～ 【 百鬼あやめ /ホロライブ 】
 UID:IeoSkxkMSK8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FASHION DREAMER】LET THIS ZOMBIE DRESS YOU UP!!【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=V-YfQPuAk-4
+DURATION:PT2H
+DTSTART:20231128T130000Z
+SUMMARY:Ollie: 【FASHION DREAMER】LET THIS ZOMBIE DRESS YOU UP!!【Hololive ID 2nd Generation】
+UID:V-YfQPuAk-4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Tavern Master】 Tavern Management Simulator of My Dreams\nhttps://www.youtube.com/watch?v=xrO8ZmUQR0M
@@ -310,6 +317,13 @@ DURATION:PT2H
 DTSTART:20231127T115500Z
 SUMMARY:鷹嶺ルイ: 【 重大告知あり‼ 】#鷹嶺ルイ2周年LIVE 『ANIMAL』【3D LIVE】
 UID:oU85vmx7jn8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Zatsudan】eepy\nhttps://www.youtube.com/watch?v=Y_fNvWYpkTg
+DURATION:PT2H
+DTSTART:20231127T170000Z
+SUMMARY:Shinri: 【Zatsudan】eepy
+UID:Y_fNvWYpkTg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FUWAMOCO MORNING】episode 49 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=6wfIKjnYxwQ
@@ -361,18 +375,18 @@ SUMMARY:Shiori: Hololive’s New Office Was Made For This #shorts
 UID:s-uu0ZXhQp8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Senin Produktif 】Making A Traceable Art For You Guys To Trace【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=RR9ujQd4MLc
-DURATION:PT2H
-DTSTART:20231127T130000Z
-SUMMARY:🎨Iofi: 【 Senin Produktif 】Making A Traceable Art For You Guys To Trace【 iofi / hololiveID 】
-UID:RR9ujQd4MLc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:まさかのオフコラボ！？はあちゃま先輩が限界飯の試食をご所望だ！！！とっておきのアレいくぞ！！！！【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=quwi8gYDVkM
 DURATION:PT2H
 DTSTART:20231128T030000Z
 SUMMARY:一条莉々華: まさかのオフコラボ！？はあちゃま先輩が限界飯の試食をご所望だ！！！とっておきのアレいくぞ！！！！【#一条莉々華/hololive DEV_IS ReGLOSS】
 UID:quwi8gYDVkM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Senin Produktif 】Making A Traceable Art For You Guys To Trace【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=RR9ujQd4MLc
+DURATION:PT2H
+DTSTART:20231127T130000Z
+SUMMARY:🎨Iofi: 【 Senin Produktif 】Making A Traceable Art For You Guys To Trace【 iofi / hololiveID 】
+UID:RR9ujQd4MLc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ちょこっとクッキング】火を使わないみぞれ唐揚げ作る！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=uT1vi_Vr3nU
@@ -394,6 +408,13 @@ DURATION:PT2H
 DTSTART:20231127T130000Z
 SUMMARY:🍎アキロゼ: 【ASMR】体験版♡セリフOnlyリクエストに全力で答えちゃうよ【アキ・ローゼンタール/ホロライブ】
 UID:BWTdi5AfoIQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Important Announcement Regarding Takanashi Kiara\nhttps://www.youtube.com/watch?v=9pgwUKU-gKU
+DURATION:PT2H
+DTSTART:20231127T190000Z
+SUMMARY:Kiara: Important Announcement Regarding Takanashi Kiara
+UID:9pgwUKU-gKU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【STARDEW VALLEY】finally starting our farm! (open vc and farm)\nhttps://www.youtube.com/watch?v=ag2SzdfgvfA
@@ -450,6 +471,13 @@ DURATION:PT2H
 DTSTART:20231126T153000Z
 SUMMARY:Kiara: 【SUPER MARIO RPG】adopted frog and REAL boy join the gang #kfp #キアライブ
 UID:svd9nM11fm0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【OKAMI】LET THERE BE NO MORE PLATFORMS #16【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=hc3K_YIDYIo
+DURATION:PT2H
+DTSTART:20231129T020000Z
+SUMMARY:Ollie: 【OKAMI】LET THERE BE NO MORE PLATFORMS #16【Hololive ID 2nd Gen】
+UID:hc3K_YIDYIo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【超おどる メイド イン ワリオ】今回も再生の義を執り行う…【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=1UcAmlZJWjM
