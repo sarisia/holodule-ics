@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【雑談？】りりらでんで日本酒の会～大阪編～ #りりらでん酒盛り 【一条莉々華/儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=AW1WsB2gQSA
+DESCRIPTION:【空気読み。３】満を持して、空気を読む 【火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=jY_evDp4a0M
 DURATION:PT2H
-DTSTART:20231127T140000Z
-SUMMARY:儒烏風亭らでん: 【雑談？】りりらでんで日本酒の会～大阪編～ #りりらでん酒盛り 【一条莉々華/儒烏風亭らでん #ReGLOSS 】
-UID:AW1WsB2gQSA
+DTSTART:20231128T090000Z
+SUMMARY:火威青: 【空気読み。３】満を持して、空気を読む 【火威青 #hololiveDEV_IS #ReGLOSS 】
+UID:jY_evDp4a0M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:お久しぶり！！！！【轟はじめ/ReGLOSS】\nhttps://www.youtube.com/watch?v=SHfeuc-Xn-w
@@ -18,17 +18,24 @@ SUMMARY:轟はじめ: お久しぶり！！！！【轟はじめ/ReGLOSS】
 UID:SHfeuc-Xn-w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Trombone Champ】ぷぷー！！！！ｗｗｗｗ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=24nSY3Uwx70
-DURATION:PT2H
-DTSTART:20231128T130000Z
-SUMMARY:音乃瀬奏: 【Trombone Champ】ぷぷー！！！！ｗｗｗｗ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
-UID:24nSY3Uwx70
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:まさかのオフコラボ！？はあちゃま先輩が限界飯の試食をご所望だ！！！とっておきのアレいくぞ！！！！【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=quwi8gYDVkM
 DURATION:PT2H
 DTSTART:20231128T030000Z
 SUMMARY:一条莉々華: まさかのオフコラボ！？はあちゃま先輩が限界飯の試食をご所望だ！！！とっておきのアレいくぞ！！！！【#一条莉々華/hololive DEV_IS ReGLOSS】
 UID:quwi8gYDVkM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談？】りりらでんで日本酒の会～大阪編～ #りりらでん酒盛り 【一条莉々華/儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=AW1WsB2gQSA
+DURATION:PT2H
+DTSTART:20231127T140000Z
+SUMMARY:儒烏風亭らでん: 【雑談？】りりらでんで日本酒の会～大阪編～ #りりらでん酒盛り 【一条莉々華/儒烏風亭らでん #ReGLOSS 】
+UID:AW1WsB2gQSA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Trombone Champ】ぷぷー！！！！ｗｗｗｗ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=24nSY3Uwx70
+DURATION:PT2H
+DTSTART:20231128T130000Z
+SUMMARY:音乃瀬奏: 【Trombone Champ】ぷぷー！！！！ｗｗｗｗ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
+UID:24nSY3Uwx70
 END:VEVENT
 END:VCALENDAR
