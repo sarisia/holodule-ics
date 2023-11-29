@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Identity V】Can We Survive!?【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=erJpUQQdnFw
-DURATION:PT2H
-DTSTART:20231128T130000Z
-SUMMARY:Anya: 【Identity V】Can We Survive!?【hololive ID 2nd Generation | Anya Melfissa】
-UID:erJpUQQdnFw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Holo no Suika】just chilling in suika【holoID】\nhttps://www.youtube.com/watch?v=ScFH6iNaJTo
-DURATION:PT2H
-DTSTART:20231128T030000Z
-SUMMARY:🔮Moona: 【Holo no Suika】just chilling in suika【holoID】
-UID:ScFH6iNaJTo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Headbangers: Rhythm Royale】Headbangin' 'Til the End♪【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=LF3ejuVnSyo
 DURATION:PT2H
 DTSTART:20231129T060000Z
@@ -25,11 +11,18 @@ SUMMARY:Anya: 【Headbangers: Rhythm Royale】Headbangin' 'Til the End♪【holo
 UID:LF3ejuVnSyo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FASHION DREAMER】LET THIS ZOMBIE DRESS YOU UP!!【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=V-YfQPuAk-4
+DESCRIPTION:【League of Legends: Wild Rift】#41 LETSGOOOOOOOOO @MoonaHoshinova 【ElaOnDuty】\nhttps://www.youtube.com/watch?v=QKFxhcwuuws
 DURATION:PT2H
-DTSTART:20231128T130028Z
-SUMMARY:Ollie: 【FASHION DREAMER】LET THIS ZOMBIE DRESS YOU UP!!【Hololive ID 2nd Generation】
-UID:V-YfQPuAk-4
+DTSTART:20231130T130000Z
+SUMMARY:Kaela: 【League of Legends: Wild Rift】#41 LETSGOOOOOOOOO @MoonaHoshinova 【ElaOnDuty】
+UID:QKFxhcwuuws
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Cube Escape: Paradox】Recollect My Memories and Seek a Way Out!!!【Pavolia Reine】\nhttps://www.youtube.com/watch?v=MQnS6ZDaTI0
+DURATION:PT2H
+DTSTART:20231129T140000Z
+SUMMARY:Reine: 【Cube Escape: Paradox】Recollect My Memories and Seek a Way Out!!!【Pavolia Reine】
+UID:MQnS6ZDaTI0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ホロのスイカ】I'M IN THE GAME I'M IN THE GAME!!【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=QiS043E6ZFc
@@ -53,39 +46,11 @@ SUMMARY:Kaela: 【Raft】LAST SAIL?【Kaela x Bijou / hololive】
 UID:DoLb6kFgWxU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【OKAMI】LET THERE BE NO MORE PLATFORMS #16【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=hc3K_YIDYIo
+DESCRIPTION:【League of Legends: Wild Rift】help me push rank!!!【holoID】\nhttps://www.youtube.com/watch?v=ZHJ87ttnpk8
 DURATION:PT2H
-DTSTART:20231129T020017Z
-SUMMARY:Ollie: 【OKAMI】LET THERE BE NO MORE PLATFORMS #16【Hololive ID 2nd Gen】
-UID:hc3K_YIDYIo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Identity V】Decoding.....101% oops accidentally popped the last cipher... SEE YA\nhttps://www.youtube.com/watch?v=ThaTUGO-MYc
-DURATION:PT2H
-DTSTART:20231128T130000Z
-SUMMARY:Zeta: 【Identity V】Decoding.....101% oops accidentally popped the last cipher... SEE YA
-UID:ThaTUGO-MYc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Identity V】Sshhhh\, Priming Now...【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=qHyUugLg6Y4
-DURATION:PT2H
-DTSTART:20231128T130000Z
-SUMMARY:🎨Iofi: 【 Identity V】Sshhhh\, Priming Now...【 iofi / hololiveID 】
-UID:qHyUugLg6Y4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Cube Escape: Paradox】Recollect My Memories and Seek a Way Out!!!【Pavolia Reine】\nhttps://www.youtube.com/watch?v=MQnS6ZDaTI0
-DURATION:PT2H
-DTSTART:20231129T140000Z
-SUMMARY:Reine: 【Cube Escape: Paradox】Recollect My Memories and Seek a Way Out!!!【Pavolia Reine】
-UID:MQnS6ZDaTI0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】time to EXPLORE the new resource server【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=M-rG0kBg7WM
-DURATION:PT2H
-DTSTART:20231128T130000Z
-SUMMARY:Kaela: 【Minecraft】time to EXPLORE the new resource server【Kaela Kovalskia / hololiveID】
-UID:M-rG0kBg7WM
+DTSTART:20231129T060000Z
+SUMMARY:🔮Moona: 【League of Legends: Wild Rift】help me push rank!!!【holoID】
+UID:ZHJ87ttnpk8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【CORAL ISLANDS】SO I HEARD THERE'S DATING IN THE GAME-【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=Pvc1MYdDB_s
@@ -95,31 +60,17 @@ SUMMARY:Ollie: 【CORAL ISLANDS】SO I HEARD THERE'S DATING IN THE GAME-【Holol
 UID:Pvc1MYdDB_s
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【League of Legends: Wild Rift】help me push rank!!!【holoID】\nhttps://www.youtube.com/watch?v=ZHJ87ttnpk8
+DESCRIPTION:【MOBILE LEGENDS BANG BANG】EPIC MAKE LAYLA SABILAHHH【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=LvQfaO_LuOE
 DURATION:PT2H
-DTSTART:20231129T060000Z
-SUMMARY:🔮Moona: 【League of Legends: Wild Rift】help me push rank!!!【holoID】
-UID:ZHJ87ttnpk8
+DTSTART:20231201T083000Z
+SUMMARY:Ollie: 【MOBILE LEGENDS BANG BANG】EPIC MAKE LAYLA SABILAHHH【Hololive Indonesia 2nd Gen】
+UID:LvQfaO_LuOE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ada yang berdiri tapi... #eurotrucksimulator2 #ayundarisu #moonahoshinova #iofi #hololive #holoid\nhttps://www.youtube.com/watch?v=_4FN3oqNqPM
+DESCRIPTION:【OKAMI】LET THERE BE NO MORE PLATFORMS #16【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=hc3K_YIDYIo
 DURATION:PT2H
-DTSTART:20231128T091940Z
-SUMMARY:🎨Iofi: Ada yang berdiri tapi... #eurotrucksimulator2 #ayundarisu #moonahoshinova #iofi #hololive #holoid
-UID:_4FN3oqNqPM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Holo no Suika】oh they have the EN/ID now【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=kWptKXd7Vx8
-DURATION:PT2H
-DTSTART:20231128T034500Z
-SUMMARY:Kaela: 【Holo no Suika】oh they have the EN/ID now【Kaela Kovalskia / hololiveID】
-UID:kWptKXd7Vx8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Past Within】Co-op Puzzle with Fauna!!! Exploring the Past & Future #Cereines【Pavolia Reine】\nhttps://www.youtube.com/watch?v=gNqGqh7Q1ks
-DURATION:PT2H
-DTSTART:20231128T030000Z
-SUMMARY:Reine: 【The Past Within】Co-op Puzzle with Fauna!!! Exploring the Past & Future #Cereines【Pavolia Reine】
-UID:gNqGqh7Q1ks
+DTSTART:20231129T020017Z
+SUMMARY:Ollie: 【OKAMI】LET THERE BE NO MORE PLATFORMS #16【Hololive ID 2nd Gen】
+UID:hc3K_YIDYIo
 END:VEVENT
 END:VCALENDAR
