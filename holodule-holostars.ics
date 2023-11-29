@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ストリートファイター6】梁山泊交流会！マスターばっかりってマジ？【律可/斜落せつな/兎鞠まり/如月れん/千羽黒乃/天開司/乾伸一郎/ホロスターズ】#Vtuber梁山泊\nhttps://www.youtube.com/watch?v=ufOh8Rlf0Z8
+DURATION:PT2H
+DTSTART:20231129T110000Z
+SUMMARY:⚙律可: 【ストリートファイター6】梁山泊交流会！マスターばっかりってマジ？【律可/斜落せつな/兎鞠まり/如月れん/千羽黒乃/天開司/乾伸一郎/ホロスターズ】#Vtuber梁山泊
+UID:ufOh8Rlf0Z8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ストリートファイター6】白熱！ガイル村討論会！ガイルについて研究しよう【ひぐち/ドンピシャ/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=5bynTB6FOUg
 DURATION:PT2H
 DTSTART:20231128T130000Z
 SUMMARY:🍕アルランディス: 【ストリートファイター6】白熱！ガイル村討論会！ガイルについて研究しよう【ひぐち/ドンピシャ/アルランディス/ホロスターズ】
 UID:5bynTB6FOUg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】深夜雑談【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=R7crvX-4ygM
-DURATION:PT2H
-DTSTART:20231128T130000Z
-SUMMARY:荒咬オウガ: 【雑談】深夜雑談【荒咬オウガ/ホロスターズ】
-UID:R7crvX-4ygM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ロベルないとめあ】10回の質問で相手の回答を導くことは出来るのかを試す我々【夕刻ロベル/神楽めあ】\nhttps://www.youtube.com/watch?v=Uyv9DbTV36k
@@ -32,18 +32,39 @@ SUMMARY:水無世燐央: 【 ピクミン4 初見 #5 】4つ目のマップ！�
 UID:c5PmtP1FCco
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】寝起きグラコロ食べ胃もたれマン【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=ASvDTCuilgg
-DURATION:PT2H
-DTSTART:20231129T030000Z
-SUMMARY:🍷夕刻ロベル: 【雑談】寝起きグラコロ食べ胃もたれマン【夕刻ロベル/ホロスターズ】
-UID:ASvDTCuilgg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【誘拐事件】目が覚めたら俺は小学生になっていた!?【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=F9-MpdB5x9w
 DURATION:PT2H
 DTSTART:20231128T130000Z
 SUMMARY:🌺花咲みやび: 【誘拐事件】目が覚めたら俺は小学生になっていた!?【花咲みやび/ホロスターズ】
 UID:F9-MpdB5x9w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:HOLOSTARS Winter 【Winter Days】\nhttps://www.youtube.com/watch?v=PTN_yXXVNMs
+DURATION:PT2H
+DTSTART:20231129T030014Z
+SUMMARY:ホロスターズ: HOLOSTARS Winter 【Winter Days】
+UID:PTN_yXXVNMs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【STREET FIGHTER6】おいおい、マノンもマスターいけちゃうよ！！　ダイヤ３～ 【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=dxywRvwgym0
+DURATION:PT2H
+DTSTART:20231129T083000Z
+SUMMARY:🦔💨岸堂天真: 【STREET FIGHTER6】おいおい、マノンもマスターいけちゃうよ！！　ダイヤ３～ 【岸堂天真/ホロスターズ】
+UID:dxywRvwgym0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】深夜雑談【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=R7crvX-4ygM
+DURATION:PT2H
+DTSTART:20231128T130000Z
+SUMMARY:荒咬オウガ: 【雑談】深夜雑談【荒咬オウガ/ホロスターズ】
+UID:R7crvX-4ygM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】寝起きグラコロ食べ胃もたれマン【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=ASvDTCuilgg
+DURATION:PT2H
+DTSTART:20231129T030000Z
+SUMMARY:🍷夕刻ロベル: 【雑談】寝起きグラコロ食べ胃もたれマン【夕刻ロベル/ホロスターズ】
+UID:ASvDTCuilgg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DJ ARN in da HOUSE】ミニ告知あり！久々のDJやるぞい！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=jpipR3io-78
@@ -60,11 +81,11 @@ SUMMARY:夜十神封魔: 【スト6】目指せダイヤ！レッスンまでレ
 UID:yhJYtVJQs4k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:HOLOSTARS Winter 【Winter Days】\nhttps://www.youtube.com/watch?v=PTN_yXXVNMs
+DESCRIPTION:【歌枠】月1カラオケ配信！！寒さを吹き飛ばす！！！！【#緋崎ガンマ / #ホロスターズ / #vtuber】\nhttps://www.youtube.com/watch?v=1ZJ7gFKAMKY
 DURATION:PT2H
-DTSTART:20231129T030014Z
-SUMMARY:ホロスターズ: HOLOSTARS Winter 【Winter Days】
-UID:PTN_yXXVNMs
+DTSTART:20231129T090000Z
+SUMMARY:緋崎ガンマ: 【歌枠】月1カラオケ配信！！寒さを吹き飛ばす！！！！【#緋崎ガンマ / #ホロスターズ / #vtuber】
+UID:1ZJ7gFKAMKY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ストリートファイター6】いわゆるトレモ雑談というやつ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=P1hnF_kg1rQ
@@ -72,13 +93,6 @@ DURATION:PT2H
 DTSTART:20231129T070000Z
 SUMMARY:🍕アルランディス: 【ストリートファイター6】いわゆるトレモ雑談というやつ【アルランディス/ホロスターズ】
 UID:P1hnF_kg1rQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】月1カラオケ配信！！寒さを吹き飛ばす！！！！【#緋崎ガンマ / #ホロスターズ / #vtuber】\nhttps://www.youtube.com/watch?v=1ZJ7gFKAMKY
-DURATION:PT2H
-DTSTART:20231129T090000Z
-SUMMARY:緋崎ガンマ: 【歌枠】月1カラオケ配信！！寒さを吹き飛ばす！！！！【#緋崎ガンマ / #ホロスターズ / #vtuber】
-UID:1ZJ7gFKAMKY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【メン限】VIP会員限定歌枠２次会！！酒も飲むかも！！！！【#緋崎ガンマ / #ホロスターズ / #vtuber】\nhttps://www.youtube.com/watch?v=QzizOAEklK0
