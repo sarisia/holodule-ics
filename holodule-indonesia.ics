@@ -4,60 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Headbangers: Rhythm Royale】Headbangin' 'Til the End♪【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=LF3ejuVnSyo
-DURATION:PT2H
-DTSTART:20231129T060000Z
-SUMMARY:Anya: 【Headbangers: Rhythm Royale】Headbangin' 'Til the End♪【hololive ID 2nd Generation | Anya Melfissa】
-UID:LF3ejuVnSyo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【League of Legends: Wild Rift】#41 LETSGOOOOOOOOO @MoonaHoshinova 【ElaOnDuty】\nhttps://www.youtube.com/watch?v=QKFxhcwuuws
-DURATION:PT2H
-DTSTART:20231130T130000Z
-SUMMARY:Kaela: 【League of Legends: Wild Rift】#41 LETSGOOOOOOOOO @MoonaHoshinova 【ElaOnDuty】
-UID:QKFxhcwuuws
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Cube Escape: Paradox】Recollect My Memories and Seek a Way Out!!!【Pavolia Reine】\nhttps://www.youtube.com/watch?v=MQnS6ZDaTI0
-DURATION:PT2H
-DTSTART:20231129T140000Z
-SUMMARY:Reine: 【Cube Escape: Paradox】Recollect My Memories and Seek a Way Out!!!【Pavolia Reine】
-UID:MQnS6ZDaTI0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【REFIND SELF: THE PERSONALITY TEST GAME】My True Self【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=e11wXJM73js
-DURATION:PT2H
-DTSTART:20231130T140000Z
-SUMMARY:Reine: 【REFIND SELF: THE PERSONALITY TEST GAME】My True Self【Pavolia Reine/hololiveID 2nd gen】
-UID:e11wXJM73js
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ホロのスイカ】I'M IN THE GAME I'M IN THE GAME!!【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=QiS043E6ZFc
-DURATION:PT2H
-DTSTART:20231129T120148Z
-SUMMARY:Ollie: 【ホロのスイカ】I'M IN THE GAME I'M IN THE GAME!!【Hololive ID 2nd Generation】
-UID:QiS043E6ZFc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Tetris 99】versus everybody【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=XqbyregUPxY
 DURATION:PT2H
 DTSTART:20231129T150000Z
 SUMMARY:Kaela: 【Tetris 99】versus everybody【Kaela Kovalskia / hololiveID】
 UID:XqbyregUPxY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Raft】LAST SAIL?【Kaela x Bijou / hololive】\nhttps://www.youtube.com/watch?v=DoLb6kFgWxU
-DURATION:PT2H
-DTSTART:20231130T000000Z
-SUMMARY:Kaela: 【Raft】LAST SAIL?【Kaela x Bijou / hololive】
-UID:DoLb6kFgWxU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【League of Legends: Wild Rift】help me push rank!!!【holoID】\nhttps://www.youtube.com/watch?v=ZHJ87ttnpk8
-DURATION:PT2H
-DTSTART:20231129T060000Z
-SUMMARY:🔮Moona: 【League of Legends: Wild Rift】help me push rank!!!【holoID】
-UID:ZHJ87ttnpk8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【CORAL ISLANDS】SO I HEARD THERE'S DATING IN THE GAME-【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=Pvc1MYdDB_s
@@ -67,11 +18,25 @@ SUMMARY:Ollie: 【CORAL ISLANDS】SO I HEARD THERE'S DATING IN THE GAME-【Holol
 UID:Pvc1MYdDB_s
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Raft】LAST SAIL?【Kaela x Bijou / hololive】\nhttps://www.youtube.com/watch?v=DoLb6kFgWxU
+DURATION:PT2H
+DTSTART:20231130T000000Z
+SUMMARY:Kaela: 【Raft】LAST SAIL?【Kaela x Bijou / hololive】
+UID:DoLb6kFgWxU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Q REMASTERED】+1 IQ POWER OF ZETAMIN!!!!\nhttps://www.youtube.com/watch?v=DzWbpR0-lDo
 DURATION:PT2H
 DTSTART:20231130T150000Z
 SUMMARY:Zeta: 【Q REMASTERED】+1 IQ POWER OF ZETAMIN!!!!
 UID:DzWbpR0-lDo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【League of Legends: Wild Rift】#41 LETSGOOOOOOOOO @MoonaHoshinova 【ElaOnDuty】\nhttps://www.youtube.com/watch?v=QKFxhcwuuws
+DURATION:PT2H
+DTSTART:20231130T130000Z
+SUMMARY:Kaela: 【League of Legends: Wild Rift】#41 LETSGOOOOOOOOO @MoonaHoshinova 【ElaOnDuty】
+UID:QKFxhcwuuws
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MOBILE LEGENDS BANG BANG】EPIC MAKE LAYLA SABILAHHH【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=LvQfaO_LuOE
@@ -81,10 +46,10 @@ SUMMARY:Ollie: 【MOBILE LEGENDS BANG BANG】EPIC MAKE LAYLA SABILAHHH【Hololiv
 UID:LvQfaO_LuOE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【OKAMI】LET THERE BE NO MORE PLATFORMS #16【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=hc3K_YIDYIo
+DESCRIPTION:【REFIND SELF: THE PERSONALITY TEST GAME】My True Self【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=e11wXJM73js
 DURATION:PT2H
-DTSTART:20231129T020017Z
-SUMMARY:Ollie: 【OKAMI】LET THERE BE NO MORE PLATFORMS #16【Hololive ID 2nd Gen】
-UID:hc3K_YIDYIo
+DTSTART:20231130T140000Z
+SUMMARY:Reine: 【REFIND SELF: THE PERSONALITY TEST GAME】My True Self【Pavolia Reine/hololiveID 2nd gen】
+UID:e11wXJM73js
 END:VEVENT
 END:VCALENDAR
