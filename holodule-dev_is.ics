@@ -4,18 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:限界飯にはビタミンが足りてないって言われたのでビタミンとるわ！！！！【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=A9ENktKv6Kw
-DURATION:PT2H
-DTSTART:20231201T030000Z
-SUMMARY:一条莉々華: 限界飯にはビタミンが足りてないって言われたのでビタミンとるわ！！！！【#一条莉々華/hololive DEV_IS ReGLOSS】
-UID:A9ENktKv6Kw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【８番出口 ホラーゲーム】迷路じゃなくても勝手に迷子になるのに8番出口見つからなかったらつらすぎる【ホラーゲーム #一条莉々華/hololive DEV_IS】\nhttps://www.youtube.com/watch?v=VKGcWu-aehc
 DURATION:PT2H
 DTSTART:20231201T090000Z
 SUMMARY:一条莉々華: 【８番出口 ホラーゲーム】迷路じゃなくても勝手に迷子になるのに8番出口見つからなかったらつらすぎる【ホラーゲーム #一条莉々華/hololive DEV_IS】
 UID:VKGcWu-aehc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ラジオ配信】ReGLOSS ROOM #8　11月担当：火威青・音乃瀬奏【#リグ部屋】\nhttps://www.youtube.com/watch?v=ZU93GtVZ7Fc
+DURATION:PT2H
+DTSTART:20231130T090000Z
+SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM #8　11月担当：火威青・音乃瀬奏【#リグ部屋】
+UID:ZU93GtVZ7Fc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:限界飯にはビタミンが足りてないって言われたのでビタミンとるわ！！！！【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=A9ENktKv6Kw
+DURATION:PT2H
+DTSTART:20231201T030000Z
+SUMMARY:一条莉々華: 限界飯にはビタミンが足りてないって言われたのでビタミンとるわ！！！！【#一条莉々華/hololive DEV_IS ReGLOSS】
+UID:A9ENktKv6Kw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:fake face dance music / 音田雅則 covered by 火威青＆音乃瀬奏 【歌ってみた / hololive DEV_IS】\nhttps://www.youtube.com/watch?v=HnWh9dv5tFE
@@ -25,10 +32,10 @@ SUMMARY:DEV_IShololive: fake face dance music / 音田雅則 covered by 火威�
 UID:HnWh9dv5tFE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ラジオ配信】ReGLOSS ROOM #8　11月担当：火威青・音乃瀬奏【#リグ部屋】\nhttps://www.youtube.com/watch?v=ZU93GtVZ7Fc
+DESCRIPTION:【アソビ大全】沙花叉先輩とタイマンだじぇ！！！【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=JIXoY3oMb78
 DURATION:PT2H
-DTSTART:20231130T090000Z
-SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM #8　11月担当：火威青・音乃瀬奏【#リグ部屋】
-UID:ZU93GtVZ7Fc
+DTSTART:20231201T100000Z
+SUMMARY:轟はじめ: 【アソビ大全】沙花叉先輩とタイマンだじぇ！！！【轟はじめ/ReGLOSS】＃hololiveDEV_IS
+UID:JIXoY3oMb78
 END:VEVENT
 END:VCALENDAR
