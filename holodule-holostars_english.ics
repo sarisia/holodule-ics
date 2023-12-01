@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ANIMATION DUB】Farewell...\nhttps://www.youtube.com/watch?v=wS9fcL4ck0c
+DURATION:PT2H
+DTSTART:20231201T030207Z
+SUMMARY:Jurard: 【ANIMATION DUB】Farewell...
+UID:wS9fcL4ck0c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Plants vs Zombies】The Zombies....they're coming!\nhttps://www.youtube.com/watch?v=gqE0yFO1DsE
 DURATION:PT2H
 DTSTART:20231130T160000Z
@@ -11,11 +18,18 @@ SUMMARY:Goldbullet: 【Plants vs Zombies】The Zombies....they're coming!
 UID:gqE0yFO1DsE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【RAIN WORLD】 Would you still love me if I was a Slugcat?\nhttps://www.youtube.com/watch?v=EzPsnDEprPI
+DESCRIPTION:【ARMIS COLLAB】Taking on the Infected in Left 4 Dead 2 with the BOYS!\nhttps://www.youtube.com/watch?v=OomWqszO0OM
 DURATION:PT2H
-DTSTART:20231130T040000Z
-SUMMARY:Crimzon: 【RAIN WORLD】 Would you still love me if I was a Slugcat?
-UID:EzPsnDEprPI
+DTSTART:20231202T030000Z
+SUMMARY:Goldbullet: 【ARMIS COLLAB】Taking on the Infected in Left 4 Dead 2 with the BOYS!
+UID:OomWqszO0OM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MAKING MUSIC】Octavio recreates his intro song WITH HIS VOICE ONLY!\nhttps://www.youtube.com/watch?v=FoV5rhXrSkw
+DURATION:PT2H
+DTSTART:20231201T090000Z
+SUMMARY:Octavio: 【MAKING MUSIC】Octavio recreates his intro song WITH HIS VOICE ONLY!
+UID:FoV5rhXrSkw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:rune\nhttps://www.youtube.com/watch?v=Hh7UYiJ0T7M
@@ -25,6 +39,13 @@ SUMMARY:Flayon: rune
 UID:Hh7UYiJ0T7M
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【FINAL FANTASY XIV】| do the void ark with me ok\nhttps://www.youtube.com/watch?v=j0jQjMRgJHw
+DURATION:PT2H
+DTSTART:20231201T000000Z
+SUMMARY:Flayon: 【FINAL FANTASY XIV】| do the void ark with me ok
+UID:j0jQjMRgJHw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:[THE EXIT 8] I HAVE NO IDEA WHAT IM GETTING INTO #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=VWVYsJErfy8
 DURATION:PT2H
 DTSTART:20231130T220000Z
@@ -32,11 +53,25 @@ SUMMARY:Bettel: [THE EXIT 8] I HAVE NO IDEA WHAT IM GETTING INTO #gavisbettel #h
 UID:VWVYsJErfy8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【The Exit 8 /８番出口 】SHINJUKU STATION SIMULATOR BABY\nhttps://www.youtube.com/watch?v=SfR6yIS72UA
+DESCRIPTION:❓🌀PARADOX RIFT🌀❓ BOOSTER BOX OPENING【Pokemon Card Opening】\nhttps://www.youtube.com/watch?v=vEf5FLubxy0
 DURATION:PT2H
-DTSTART:20231130T141500Z
-SUMMARY:Hakka: 【The Exit 8 /８番出口 】SHINJUKU STATION SIMULATOR BABY
-UID:SfR6yIS72UA
+DTSTART:20231202T000000Z
+SUMMARY:Altare: ❓🌀PARADOX RIFT🌀❓ BOOSTER BOX OPENING【Pokemon Card Opening】
+UID:vEf5FLubxy0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:IT'S TIME TO PACK YALLS!!!!\nhttps://www.youtube.com/watch?v=uZ4wt-3Vuoc
+DURATION:PT2H
+DTSTART:20231130T150000Z
+SUMMARY:Syrios: IT'S TIME TO PACK YALLS!!!!
+UID:uZ4wt-3Vuoc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【TENGU TALK】DECEMBER IS HERE BABY\, IT'S TIME TO CELEBRATE!\nhttps://www.youtube.com/watch?v=gQiuDYYzuOs
+DURATION:PT2H
+DTSTART:20231202T010000Z
+SUMMARY:Hakka: 【TENGU TALK】DECEMBER IS HERE BABY\, IT'S TIME TO CELEBRATE!
+UID:gQiuDYYzuOs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Mario Party】December collab with the boys!\nhttps://www.youtube.com/watch?v=cX7_f9caFac
@@ -44,13 +79,6 @@ DURATION:PT2H
 DTSTART:20231201T010000Z
 SUMMARY:Shinri: 【Mario Party】December collab with the boys!
 UID:cX7_f9caFac
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SPY PARTY COLLAB】WHO'S THE BEST SPY w/ OCTAVIO\nhttps://www.youtube.com/watch?v=9YnVpyVpuFo
-DURATION:PT2H
-DTSTART:20231130T110000Z
-SUMMARY:Jurard: 【SPY PARTY COLLAB】WHO'S THE BEST SPY w/ OCTAVIO
-UID:9YnVpyVpuFo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Zatsudan】? a zatsu.\nhttps://www.youtube.com/watch?v=GNN44WvCYN8
@@ -72,89 +100,5 @@ DURATION:PT2H
 DTSTART:20231201T030000Z
 SUMMARY:Jurard: 【ANIMATION DUB】Farewell... #holoarmis #shorts  #officialchannel #holostars #vtuber #youtubeshorts
 UID:0kqFxgn2mE8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ANIMATION DUB】Farewell...\nhttps://www.youtube.com/watch?v=wS9fcL4ck0c
-DURATION:PT2H
-DTSTART:20231201T030207Z
-SUMMARY:Jurard: 【ANIMATION DUB】Farewell...
-UID:wS9fcL4ck0c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Monster Hunter Rise】TIME TO HUNT DOWN THE PP LIZARD\, and maybe other dudes...\nhttps://www.youtube.com/watch?v=1fSIYE_tlGU
-DURATION:PT2H
-DTSTART:20231130T010000Z
-SUMMARY:Hakka: 【Monster Hunter Rise】TIME TO HUNT DOWN THE PP LIZARD\, and maybe other dudes...
-UID:1fSIYE_tlGU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARMIS COLLAB】Taking on the Infected in Left 4 Dead 2 with the BOYS!\nhttps://www.youtube.com/watch?v=OomWqszO0OM
-DURATION:PT2H
-DTSTART:20231202T030000Z
-SUMMARY:Goldbullet: 【ARMIS COLLAB】Taking on the Infected in Left 4 Dead 2 with the BOYS!
-UID:OomWqszO0OM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【TENGU TALK】DECEMBER IS HERE BABY\, IT'S TIME TO CELEBRATE!\nhttps://www.youtube.com/watch?v=gQiuDYYzuOs
-DURATION:PT2H
-DTSTART:20231202T010000Z
-SUMMARY:Hakka: 【TENGU TALK】DECEMBER IS HERE BABY\, IT'S TIME TO CELEBRATE!
-UID:gQiuDYYzuOs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[Just Chatting] THE RETURN #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=B5OKXt3NuME
-DURATION:PT2H
-DTSTART:20231129T220000Z
-SUMMARY:Bettel: [Just Chatting] THE RETURN #gavisbettel #holotempus
-UID:B5OKXt3NuME
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Amnesia: The Dark Descent】Relaxed Playthrough Occasionally broken by Jurard Screaming\nhttps://www.youtube.com/watch?v=8kK5GJo0KDE
-DURATION:PT2H
-DTSTART:20231129T160000Z
-SUMMARY:Goldbullet: 【Amnesia: The Dark Descent】Relaxed Playthrough Occasionally broken by Jurard Screaming
-UID:8kK5GJo0KDE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FINAL FANTASY XIV】| do the void ark with me ok\nhttps://www.youtube.com/watch?v=j0jQjMRgJHw
-DURATION:PT2H
-DTSTART:20231201T000000Z
-SUMMARY:Flayon: 【FINAL FANTASY XIV】| do the void ark with me ok
-UID:j0jQjMRgJHw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【WORLD OF WARCRAFT: HARDCORE】 This Time I'muna Play The Game\nhttps://www.youtube.com/watch?v=iaQf69zkUYg
-DURATION:PT2H
-DTSTART:20231129T190000Z
-SUMMARY:Crimzon: 【WORLD OF WARCRAFT: HARDCORE】 This Time I'muna Play The Game
-UID:iaQf69zkUYg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SPY PARTY COLLAB】OCTAVIO VS JURARD\nhttps://www.youtube.com/watch?v=AbXrowt3b1w
-DURATION:PT2H
-DTSTART:20231130T110000Z
-SUMMARY:Octavio: 【SPY PARTY COLLAB】OCTAVIO VS JURARD
-UID:AbXrowt3b1w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:❓🌀PARADOX RIFT🌀❓ BOOSTER BOX OPENING【Pokemon Card Opening】\nhttps://www.youtube.com/watch?v=vEf5FLubxy0
-DURATION:PT2H
-DTSTART:20231202T000000Z
-SUMMARY:Altare: ❓🌀PARADOX RIFT🌀❓ BOOSTER BOX OPENING【Pokemon Card Opening】
-UID:vEf5FLubxy0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:IT'S TIME TO PACK YALLS!!!!\nhttps://www.youtube.com/watch?v=uZ4wt-3Vuoc
-DURATION:PT2H
-DTSTART:20231130T150000Z
-SUMMARY:Syrios: IT'S TIME TO PACK YALLS!!!!
-UID:uZ4wt-3Vuoc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MAKING MUSIC】Octavio recreates his intro song WITH HIS VOICE ONLY!\nhttps://www.youtube.com/watch?v=FoV5rhXrSkw
-DURATION:PT2H
-DTSTART:20231201T090000Z
-SUMMARY:Octavio: 【MAKING MUSIC】Octavio recreates his intro song WITH HIS VOICE ONLY!
-UID:FoV5rhXrSkw
 END:VEVENT
 END:VCALENDAR
