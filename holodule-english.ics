@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Refind Self: The Personality Test Game】The Personality of a Rock\nhttps://www.youtube.com/watch?v=cdvYcdfkvIU
-DURATION:PT2H
-DTSTART:20231201T000000Z
-SUMMARY:Bijou: 【Refind Self: The Personality Test Game】The Personality of a Rock
-UID:cdvYcdfkvIU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Splatoon 3】BIG RUN with BIG SENPAI RESPECT! わ～い✨\nhttps://www.youtube.com/watch?v=RosB0rQVmMI
 DURATION:PT2H
 DTSTART:20231202T130000Z
@@ -39,6 +32,13 @@ SUMMARY:Nerissa: 【Who's Lila?】What's in a face? 🎼
 UID:Xd4ITau2mFk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【DONKEY KONG COUNTRY】last time to go bananas 🍌\nhttps://www.youtube.com/watch?v=wvgL0NHHDuw
+DURATION:PT2H
+DTSTART:20231203T210000Z
+SUMMARY:FUWAMOCO: 【DONKEY KONG COUNTRY】last time to go bananas 🍌
+UID:wvgL0NHHDuw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【SUPER MARIO RPG】FULL TEAM FULL POWER (to the end if i can) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=OckeD2rgk0Q
 DURATION:PT2H
 DTSTART:20231202T151000Z
@@ -65,54 +65,5 @@ DURATION:PT2H
 DTSTART:20231203T020000Z
 SUMMARY:FUWAMOCO: 【FUWAMOCO ROCK N' RAWR PARTY】masters of the idol world ♪【LOVE LIVE! & iDOLM@STER】
 UID:6DrZGiXZKaM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FFXVI】 FINALE!!!!!!!!!!!!!!! 【#10】\nhttps://www.youtube.com/watch?v=AH4c8RzFyVw
-DURATION:PT2H
-DTSTART:20231130T220000Z
-SUMMARY:Ina: 【FFXVI】 FINALE!!!!!!!!!!!!!!! 【#10】
-UID:AH4c8RzFyVw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Laptop Setup Zatsudan\nhttps://www.youtube.com/watch?v=IWL9lODOu8o
-DURATION:PT2H
-DTSTART:20231130T200000Z
-SUMMARY:Shiori: Laptop Setup Zatsudan
-UID:IWL9lODOu8o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【I'm On Observation Duty 6】 Return of this silly and creepy spot the difference horror game\nhttps://www.youtube.com/watch?v=zeb8CIUa0HM
-DURATION:PT2H
-DTSTART:20231130T230000Z
-SUMMARY:Fauna: 【I'm On Observation Duty 6】 Return of this silly and creepy spot the difference horror game
-UID:zeb8CIUa0HM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SMASH】UNLOCKING EVERYONE (AGAIN.)🎼\nhttps://www.youtube.com/watch?v=vNftG2PsJkU
-DURATION:PT2H
-DTSTART:20231130T220000Z
-SUMMARY:Nerissa: 【SMASH】UNLOCKING EVERYONE (AGAIN.)🎼
-UID:vNftG2PsJkU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HOLOWEEN COLLECTION】fun little MYTH games!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=zuLiIn2qBAU
-DURATION:PT2H
-DTSTART:20231130T190000Z
-SUMMARY:Kiara: 【HOLOWEEN COLLECTION】fun little MYTH games!!! #kfp #キアライブ
-UID:zuLiIn2qBAU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Entropy Centre】Beep Boop | #2\nhttps://www.youtube.com/watch?v=YoOYXJ9wj4o
-DURATION:PT2H
-DTSTART:20231201T041500Z
-SUMMARY:Kronii: 【Entropy Centre】Beep Boop | #2
-UID:YoOYXJ9wj4o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Stardew Valley】Oh Young IRyS Had a Farm\nhttps://www.youtube.com/watch?v=yew0PXX1_BA
-DURATION:PT2H
-DTSTART:20231201T030000Z
-SUMMARY:IRyS: 【Stardew Valley】Oh Young IRyS Had a Farm
-UID:yew0PXX1_BA
 END:VEVENT
 END:VCALENDAR
