@@ -4,18 +4,32 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【同時視聴】メン限！！トムとジェリー上映会💜【轟はじめ/ReGLOSS】\nhttps://www.youtube.com/watch?v=-omGUhP_YE8
+DURATION:PT2H
+DTSTART:20231203T110000Z
+SUMMARY:轟はじめ: 【同時視聴】メン限！！トムとジェリー上映会💜【轟はじめ/ReGLOSS】
+UID:-omGUhP_YE8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ホロパレード】ホロライブの新作ファンメイドゲームきちゃああ！！楽しみ！！！【#一条莉々華/ #hololiveDEV_IS #ReGLOSS】\nhttps://www.youtube.com/watch?v=3ajjQkYma2s
+DURATION:PT2H
+DTSTART:20231203T030000Z
+SUMMARY:一条莉々華: 【ホロパレード】ホロライブの新作ファンメイドゲームきちゃああ！！楽しみ！！！【#一条莉々華/ #hololiveDEV_IS #ReGLOSS】
+UID:3ajjQkYma2s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スーパーマリオRPG】初見プレイでがんばっていきますうう【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=vhE6GlsKKSc
+DURATION:PT2H
+DTSTART:20231202T030000Z
+SUMMARY:音乃瀬奏: 【スーパーマリオRPG】初見プレイでがんばっていきますうう【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
+UID:vhE6GlsKKSc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【カメラ枠／手料理配信】自炊しろReGLOSS【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=02c-jV36mSE
 DURATION:PT2H
 DTSTART:20231202T030000Z
 SUMMARY:火威青: 【カメラ枠／手料理配信】自炊しろReGLOSS【火威青 】#hololiveDEV_IS #ReGLOSS
 UID:02c-jV36mSE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【8番出口】脱出ゲームだって聞きました！【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=wq7D6ITORMM
-DURATION:PT2H
-DTSTART:20231202T130000Z
-SUMMARY:火威青: 【8番出口】脱出ゲームだって聞きました！【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:wq7D6ITORMM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【新人VTuberのヲタクギャルと学ぶヲタク用語】「顔面国宝」【一条莉々華/hololive DEV_IS ReGLOSS #shorts】\nhttps://www.youtube.com/watch?v=_rOSAqTkFjM
@@ -39,17 +53,10 @@ SUMMARY:一条莉々華: #7【Fate/Samurai Remnant】終盤に差し掛かって
 UID:EUxDuvm616Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【同時視聴】メン限！！トムとジェリー上映会💜【轟はじめ/ReGLOSS】\nhttps://www.youtube.com/watch?v=-omGUhP_YE8
+DESCRIPTION:【8番出口】脱出ゲームだって聞きました！【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=wq7D6ITORMM
 DURATION:PT2H
-DTSTART:20231203T110000Z
-SUMMARY:轟はじめ: 【同時視聴】メン限！！トムとジェリー上映会💜【轟はじめ/ReGLOSS】
-UID:-omGUhP_YE8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ホロパレード】ホロライブの新作ファンメイドゲームきちゃああ！！楽しみ！！！【#一条莉々華/ #hololiveDEV_IS #ReGLOSS】\nhttps://www.youtube.com/watch?v=3ajjQkYma2s
-DURATION:PT2H
-DTSTART:20231203T030000Z
-SUMMARY:一条莉々華: 【ホロパレード】ホロライブの新作ファンメイドゲームきちゃああ！！楽しみ！！！【#一条莉々華/ #hololiveDEV_IS #ReGLOSS】
-UID:3ajjQkYma2s
+DTSTART:20231202T130000Z
+SUMMARY:火威青: 【8番出口】脱出ゲームだって聞きました！【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:wq7D6ITORMM
 END:VEVENT
 END:VCALENDAR
