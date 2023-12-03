@@ -4,32 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【CHAT】 EXCITEMENT!!!!!!!!! Announcement!!!! WOOOOO\nhttps://www.youtube.com/watch?v=s5cDlnVOPvc
+DURATION:PT2H
+DTSTART:20231203T220000Z
+SUMMARY:Ina: 【CHAT】 EXCITEMENT!!!!!!!!! Announcement!!!! WOOOOO
+UID:s5cDlnVOPvc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【SUPER MARIO RPG】FINALE.  #kfp #キアライブ\nhttps://www.youtube.com/watch?v=ZwlkP8PvkcQ
 DURATION:PT2H
 DTSTART:20231203T150000Z
 SUMMARY:Kiara: 【SUPER MARIO RPG】FINALE.  #kfp #キアライブ
 UID:ZwlkP8PvkcQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Splatoon 3】BIG RUN with BIG SENPAI RESPECT! わ～い✨\nhttps://www.youtube.com/watch?v=RosB0rQVmMI
-DURATION:PT2H
-DTSTART:20231202T130000Z
-SUMMARY:IRyS: 【Splatoon 3】BIG RUN with BIG SENPAI RESPECT! わ～い✨
-UID:RosB0rQVmMI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Silence of the Lambs🐑 | #holoadvent Movie Watch-a-Long\nhttps://www.youtube.com/watch?v=C9EK1QSnCos
-DURATION:PT2H
-DTSTART:20231202T020000Z
-SUMMARY:Shiori: The Silence of the Lambs🐑 | #holoadvent Movie Watch-a-Long
-UID:C9EK1QSnCos
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:you're pretty good #shorts\nhttps://www.youtube.com/watch?v=FynKy6TlWJc
-DURATION:PT2H
-DTSTART:20231202T000012Z
-SUMMARY:Calli: you're pretty good #shorts
-UID:FynKy6TlWJc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Who's Lila?】What's in a face? 🎼\nhttps://www.youtube.com/watch?v=Xd4ITau2mFk
@@ -46,6 +32,13 @@ SUMMARY:Shiori: [HAND CAM] Ice Cream Sweets Party
 UID:GVHpwvu3dng
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【DONKEY KONG COUNTRY】last time to go bananas 🍌\nhttps://www.youtube.com/watch?v=wvgL0NHHDuw
+DURATION:PT2H
+DTSTART:20231203T210000Z
+SUMMARY:FUWAMOCO: 【DONKEY KONG COUNTRY】last time to go bananas 🍌
+UID:wvgL0NHHDuw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【SUPER MARIO RPG】FULL TEAM FULL POWER (to the end if i can) #kfp #キアライブ\nhttps://www.youtube.com/watch?v=OckeD2rgk0Q
 DURATION:PT2H
 DTSTART:20231202T151000Z
@@ -53,39 +46,11 @@ SUMMARY:Kiara: 【SUPER MARIO RPG】FULL TEAM FULL POWER (to the end if i can) #
 UID:OckeD2rgk0Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【BG3】Checking out the Epilogues!🎼\nhttps://www.youtube.com/watch?v=OxZXTNFIs0g
+DESCRIPTION:【Collab with MSI Streamer Hub】Unboxing a Streaming PC for VTubers! 🖥\nhttps://www.youtube.com/watch?v=ARoOmyjHVds
 DURATION:PT2H
-DTSTART:20231201T190000Z
-SUMMARY:Nerissa: 【BG3】Checking out the Epilogues!🎼
-UID:OxZXTNFIs0g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FUWAMOCO MORNING】episode 51 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=v6lsxvh3qNs
-DURATION:PT2H
-DTSTART:20231201T160000Z
-SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 51 🐾 #FWMCMORNING
-UID:v6lsxvh3qNs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FUWAMOCO ROCK N' RAWR PARTY】masters of the idol world ♪【LOVE LIVE! & iDOLM@STER】\nhttps://www.youtube.com/watch?v=6DrZGiXZKaM
-DURATION:PT2H
-DTSTART:20231203T020000Z
-SUMMARY:FUWAMOCO: 【FUWAMOCO ROCK N' RAWR PARTY】masters of the idol world ♪【LOVE LIVE! & iDOLM@STER】
-UID:6DrZGiXZKaM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CHAT】 EXCITEMENT!!!!!!!!! Announcement!!!! WOOOOO\nhttps://www.youtube.com/watch?v=s5cDlnVOPvc
-DURATION:PT2H
-DTSTART:20231203T220000Z
-SUMMARY:Ina: 【CHAT】 EXCITEMENT!!!!!!!!! Announcement!!!! WOOOOO
-UID:s5cDlnVOPvc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DONKEY KONG COUNTRY】last time to go bananas 🍌\nhttps://www.youtube.com/watch?v=wvgL0NHHDuw
-DURATION:PT2H
-DTSTART:20231203T210000Z
-SUMMARY:FUWAMOCO: 【DONKEY KONG COUNTRY】last time to go bananas 🍌
-UID:wvgL0NHHDuw
+DTSTART:20231205T050000Z
+SUMMARY:Kronii: 【Collab with MSI Streamer Hub】Unboxing a Streaming PC for VTubers! 🖥
+UID:ARoOmyjHVds
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【STARDEW VALLEY】stardew calli (open vc and farm)\nhttps://www.youtube.com/watch?v=fXaQoiNoI1g
@@ -100,6 +65,13 @@ DURATION:PT2H
 DTSTART:20231204T010000Z
 SUMMARY:Nerissa: 【Terraria】Maybe we can track down some bosses? (Open VC and world) 🎼
 UID:c7VLOo2L_5U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FUWAMOCO ROCK N' RAWR PARTY】masters of the idol world ♪【LOVE LIVE! & iDOLM@STER】\nhttps://www.youtube.com/watch?v=6DrZGiXZKaM
+DURATION:PT2H
+DTSTART:20231203T020000Z
+SUMMARY:FUWAMOCO: 【FUWAMOCO ROCK N' RAWR PARTY】masters of the idol world ♪【LOVE LIVE! & iDOLM@STER】
+UID:6DrZGiXZKaM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪HOLO PARADE≫ she still swimming\nhttps://www.youtube.com/watch?v=VJu7QtHWM0E
