@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【歌枠 / Singing】リレー、トップバッターでーす！✨ るんるん ReGLOSS歌枠リレー【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=gg4-SvzmMBg
+DURATION:PT2H
+DTSTART:20231205T080000Z
+SUMMARY:音乃瀬奏: 【歌枠 / Singing】リレー、トップバッターでーす！✨ るんるん ReGLOSS歌枠リレー【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
+UID:gg4-SvzmMBg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【つぐのひ】美魔女の真実！？マリン先輩の秘密を暴けちゃうって…コト？？？【ホラーゲーム #一条莉々華/hololive DEV_IS】\nhttps://www.youtube.com/watch?v=nAYYwdMneDc
 DURATION:PT2H
 DTSTART:20231204T130000Z
@@ -25,13 +32,6 @@ SUMMARY:火威青: 【#ReGLOSS歌枠リレー③】300万の感謝を込めて�
 UID:DoDXbkfaFIs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠 / Singing】リレー、トップバッターでーす！✨ るんるん ReGLOSS歌枠リレー【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=gg4-SvzmMBg
-DURATION:PT2H
-DTSTART:20231205T080000Z
-SUMMARY:音乃瀬奏: 【歌枠 / Singing】リレー、トップバッターでーす！✨ るんるん ReGLOSS歌枠リレー【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
-UID:gg4-SvzmMBg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠リレー】4番手！！1カ月ぶりのお歌【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=_s4nrMXCrds
 DURATION:PT2H
 DTSTART:20231205T110000Z
@@ -51,5 +51,12 @@ DURATION:PT2H
 DTSTART:20231203T210000Z
 SUMMARY:儒烏風亭らでん: 【#一服朝っぱらでん】再開！朝のまったり配信です【儒烏風亭らでん #ReGLOSS 】
 UID:71s1mIMeSBY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ReGLOSS歌枠リレー】歌います【儒烏風亭らでん】#hololiveDEV_IS #ReGLOSS】\nhttps://www.youtube.com/watch?v=LUpV_XWms8s
+DURATION:PT2H
+DTSTART:20231205T100000Z
+SUMMARY:儒烏風亭らでん: 【#ReGLOSS歌枠リレー】歌います【儒烏風亭らでん】#hololiveDEV_IS #ReGLOSS】
+UID:LUpV_XWms8s
 END:VEVENT
 END:VCALENDAR
