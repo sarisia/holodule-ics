@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:こんな罠誰も引っかからな… #雪花ラミィ #ホロライブ #hololive\nhttps://www.youtube.com/watch?v=2Y9pdF8pOT0
+DURATION:PT2H
+DTSTART:20231205T030002Z
+SUMMARY:雪花ラミィ: こんな罠誰も引っかからな… #雪花ラミィ #ホロライブ #hololive
+UID:2Y9pdF8pOT0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#朝こよ】朝こよも3年目！シーズン8スタート！火曜日の朝は朝こよ～っ☀ #157【博衣こより/hololive】\nhttps://www.youtube.com/watch?v=1n5_a5eO0Cc
 DURATION:PT2H
 DTSTART:20231204T220000Z
 SUMMARY:博衣こより: 【#朝こよ】朝こよも3年目！シーズン8スタート！火曜日の朝は朝こよ～っ☀ #157【博衣こより/hololive】
 UID:1n5_a5eO0Cc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Stardew Valley】村づくりマルチ #ポルーナ で往く！分担作業が要だ！【尾丸ポルカ/姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=tF5qzUCXZsQ
+DURATION:PT2H
+DTSTART:20231205T143000Z
+SUMMARY:尾丸ポルカ: 【Stardew Valley】村づくりマルチ #ポルーナ で往く！分担作業が要だ！【尾丸ポルカ/姫森ルーナ/ホロライブ】
+UID:tF5qzUCXZsQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 ホロパレード 】僕もいるってほんと～～!?遊びます🍙【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=OE8MupEo5sU
@@ -32,20 +46,6 @@ SUMMARY:👯兎田ぺこら: ホロライブ3期生で最強女神†ウーサ�
 UID:5d3p1HtqO1M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:焼き芋の季節🍠🍂#焼き芋が大きくなるのは目の錯覚 #雪花ラミィ #ホロライブ #hololive\nhttps://www.youtube.com/watch?v=_yRa9qZxktM
-DURATION:PT2H
-DTSTART:20231204T090025Z
-SUMMARY:雪花ラミィ: 焼き芋の季節🍠🍂#焼き芋が大きくなるのは目の錯覚 #雪花ラミィ #ホロライブ #hololive
-UID:_yRa9qZxktM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ホロパレード】助手くんをGETして楽しくパレードしたい！！ガチャ10連からじゃああ！！！🔥【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=j9R3UBfr74Y
-DURATION:PT2H
-DTSTART:20231204T100000Z
-SUMMARY:博衣こより: 【ホロパレード】助手くんをGETして楽しくパレードしたい！！ガチャ10連からじゃああ！！！🔥【博衣こより/ホロライブ】
-UID:j9R3UBfr74Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【＃女神ぺこーら】凸待ち！なんでも肯定してくれる女神があらわれた！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=imqfQ7e-BZ8
 DURATION:PT2H
 DTSTART:20231205T110000Z
@@ -60,11 +60,11 @@ SUMMARY:🌸さくらみこ: 【 🚨緊急🚨】８番出口にたどり着け
 UID:s6Y2YB1nByg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ホロパレード】ボク達も登場！？ゲットしてつかいたあああい！！【ロボ子さん /ホロライブ】\nhttps://www.youtube.com/watch?v=CJpzrah99uI
+DESCRIPTION:【ホロパレード】あずきちはあずきちを引きたい【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=GkswS0rAsNA
 DURATION:PT2H
-DTSTART:20231204T080000Z
-SUMMARY:🤖ロボ子さん: 【ホロパレード】ボク達も登場！？ゲットしてつかいたあああい！！【ロボ子さん /ホロライブ】
-UID:CJpzrah99uI
+DTSTART:20231205T130000Z
+SUMMARY:⚒AZKi: 【ホロパレード】あずきちはあずきちを引きたい【ホロライブ / AZKi】
+UID:GkswS0rAsNA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Splatoon3】ソロ練習会～＾→みこちとぽよよん【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=Lyec7_geI-4
@@ -72,13 +72,6 @@ DURATION:PT2H
 DTSTART:20231204T210129Z
 SUMMARY:🏮夏色まつり: 【Splatoon3】ソロ練習会～＾→みこちとぽよよん【ホロライブ/夏色まつり】
 UID:Lyec7_geI-4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #朝ミオ 】１２月だよ～おはみぉーん☀\nhttps://www.youtube.com/watch?v=CvJj_a4HpI4
-DURATION:PT2H
-DTSTART:20231203T223000Z
-SUMMARY:🌲大神ミオ: 【 #朝ミオ 】１２月だよ～おはみぉーん☀
-UID:CvJj_a4HpI4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:圧倒的謝罪【ホロライブ / AZKi】#ぷちあず #shorts\nhttps://www.youtube.com/watch?v=allKbAoUGBE
@@ -95,165 +88,11 @@ SUMMARY:🐏角巻わため: 【Minecraft】#はあわた 一緒にホロ鯖観�
 UID:-iNK4syhjcM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:兎田ぺこらが渋谷をジャック！？ #shorts\nhttps://www.youtube.com/watch?v=oGWkx9JjPh4
-DURATION:PT2H
-DTSTART:20231204T100040Z
-SUMMARY:👯兎田ぺこら: 兎田ぺこらが渋谷をジャック！？ #shorts
-UID:oGWkx9JjPh4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【驚愕】企業Vtuberが案件裏でやっていた驚きの行動を暴露‼️ #PR #shorts #キュビスタ #キュービックスターズ #SSholoX #holoX\nhttps://www.youtube.com/watch?v=nIarNNsQnRk
-DURATION:PT2H
-DTSTART:20231204T114744Z
-SUMMARY:ラプラス: 【驚愕】企業Vtuberが案件裏でやっていた驚きの行動を暴露‼️ #PR #shorts #キュビスタ #キュービックスターズ #SSholoX #holoX
-UID:nIarNNsQnRk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:めっちゃ垢抜けしたVtuberが可愛すぎる‼️ #PR #キュビスタ #キュービックスターズ #SSholoX #holoX #shorts\nhttps://www.youtube.com/watch?v=JCS4qXxaHO8
-DURATION:PT2H
-DTSTART:20231205T130021Z
-SUMMARY:ラプラス: めっちゃ垢抜けしたVtuberが可愛すぎる‼️ #PR #キュビスタ #キュービックスターズ #SSholoX #holoX #shorts
-UID:JCS4qXxaHO8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ホロぐら次回予告】高輪ゲートウェイ駅の語呂合わせ #ホロぐら #姫森ルーナ #大神ミオ #ホロライブ #hololive #昨日の次回予告\nhttps://www.youtube.com/watch?v=JCRs53hLK4c
-DURATION:PT2H
-DTSTART:20231204T100012Z
-SUMMARY:ホロライブ: 【ホロぐら次回予告】高輪ゲートウェイ駅の語呂合わせ #ホロぐら #姫森ルーナ #大神ミオ #ホロライブ #hololive #昨日の次回予告
-UID:JCRs53hLK4c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:今日も優雅にね！！！！【 #今日のわため 】 #shorts\nhttps://www.youtube.com/watch?v=L60iI8mHABw
-DURATION:PT2H
-DTSTART:20231203T210009Z
-SUMMARY:🐏角巻わため: 今日も優雅にね！！！！【 #今日のわため 】 #shorts
-UID:L60iI8mHABw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【技術革命】AI「全てワタシが担当しました」【#AI台本】\nhttps://www.youtube.com/watch?v=_s0zJBFHDm8
-DURATION:PT2H
-DTSTART:20231204T090000Z
-SUMMARY:ホロライブ: 【技術革命】AI「全てワタシが担当しました」【#AI台本】
-UID:_s0zJBFHDm8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【新ボイス発表】メリークリスマス！プレゼントを受け取る準備はOK？\nhttps://www.youtube.com/watch?v=VlqqXAdmyW4
-DURATION:PT2H
-DTSTART:20231204T103000Z
-SUMMARY:ホロライブ: 【新ボイス発表】メリークリスマス！プレゼントを受け取る準備はOK？
-UID:VlqqXAdmyW4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:「なかま歌」サビダンス！一緒に踊ろ～🎶 #shorts #なかま歌ダンス\nhttps://www.youtube.com/watch?v=lov-SEaxhEE
-DURATION:PT2H
-DTSTART:20231205T080049Z
-SUMMARY:⚔白銀ノエル: 「なかま歌」サビダンス！一緒に踊ろ～🎶 #shorts #なかま歌ダンス
-UID:lov-SEaxhEE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #キュビスタ 】モンストシリーズ「キュビスタ」とholoXがコラボ中！参加型＆ガチャも引くぞおお！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=o6RNOmFoocQ
-DURATION:PT2H
-DTSTART:20231205T100000Z
-SUMMARY:博衣こより: 【 #キュビスタ 】モンストシリーズ「キュビスタ」とholoXがコラボ中！参加型＆ガチャも引くぞおお！【博衣こより/ホロライブ】
-UID:o6RNOmFoocQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【チャレンジ】OMOCAT × hololive Gamers!? あの手この手で宣伝させて下さい🍙🔥【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=pnskI9UIeRU
-DURATION:PT2H
-DTSTART:20231204T110000Z
-SUMMARY:🍙猫又おかゆ: 【チャレンジ】OMOCAT × hololive Gamers!? あの手この手で宣伝させて下さい🍙🔥【猫又おかゆ/ホロライブ】
-UID:pnskI9UIeRU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #キュビスタ 】神引きで魅せたい✨モンストシリーズ『キュビスタ』にholoXが登場中‼【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=ej_6ZdWV6So
-DURATION:PT2H
-DTSTART:20231204T100000Z
-SUMMARY:鷹嶺ルイ: 【 #キュビスタ 】神引きで魅せたい✨モンストシリーズ『キュビスタ』にholoXが登場中‼【鷹嶺ルイ/ホロライブ】
-UID:ej_6ZdWV6So
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:推しの子「サインはB / 新B小町ver」歌って踊ってみた【アキ・ローゼンタール＆紫咲シオン＆博衣こより/ホロライブ】#shorts\nhttps://www.youtube.com/watch?v=15zsxD7GC8Y
-DURATION:PT2H
-DTSTART:20231205T090001Z
-SUMMARY:博衣こより: 推しの子「サインはB / 新B小町ver」歌って踊ってみた【アキ・ローゼンタール＆紫咲シオン＆博衣こより/ホロライブ】#shorts
-UID:15zsxD7GC8Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【fes情報解禁】#2 「キャプチャークイズ」で重大情報をつかみ取れ！【#hololivefesEXPO24】\nhttps://www.youtube.com/watch?v=-OBrUadxwEI
-DURATION:PT2H
-DTSTART:20231205T110000Z
-SUMMARY:ホロライブ: 【fes情報解禁】#2 「キャプチャークイズ」で重大情報をつかみ取れ！【#hololivefesEXPO24】
-UID:-OBrUadxwEI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【案件】Google Play Gamesにて「ロマンシング サガ リ･ユニバース」をプレイ【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=L0kc5HMFBWw
-DURATION:PT2H
-DTSTART:20231204T120000Z
-SUMMARY:🥐戌神ころね: 【案件】Google Play Gamesにて「ロマンシング サガ リ･ユニバース」をプレイ【戌神ころね/ホロライブ】
-UID:L0kc5HMFBWw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【3期生コラボ！】人生ゲームで人生感じようや【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=k61ODLzqOsc
-DURATION:PT2H
-DTSTART:20231204T110000Z
-SUMMARY:🏴☠宝鐘マリン: 【3期生コラボ！】人生ゲームで人生感じようや【ホロライブ/宝鐘マリン】
-UID:k61ODLzqOsc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:こんな罠誰も引っかからな… #雪花ラミィ #ホロライブ #hololive\nhttps://www.youtube.com/watch?v=2Y9pdF8pOT0
-DURATION:PT2H
-DTSTART:20231205T030002Z
-SUMMARY:雪花ラミィ: こんな罠誰も引っかからな… #雪花ラミィ #ホロライブ #hololive
-UID:2Y9pdF8pOT0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Stardew Valley】村づくりマルチ #ポルーナ で往く！分担作業が要だ！【尾丸ポルカ/姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=tF5qzUCXZsQ
-DURATION:PT2H
-DTSTART:20231205T143000Z
-SUMMARY:尾丸ポルカ: 【Stardew Valley】村づくりマルチ #ポルーナ で往く！分担作業が要だ！【尾丸ポルカ/姫森ルーナ/ホロライブ】
-UID:tF5qzUCXZsQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 スプラトゥーン3 】深夜のチーム練習まで決まった武器を鍛錬‼途中チームメンバー来るかも！？【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=th97GAeS6AM
-DURATION:PT2H
-DTSTART:20231204T130000Z
-SUMMARY:鷹嶺ルイ: 【 スプラトゥーン3 】深夜のチーム練習まで決まった武器を鍛錬‼途中チームメンバー来るかも！？【鷹嶺ルイ/ホロライブ】
-UID:th97GAeS6AM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ホロパレード】あずきちはあずきちを引きたい【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=GkswS0rAsNA
-DURATION:PT2H
-DTSTART:20231205T130000Z
-SUMMARY:⚒AZKi: 【ホロパレード】あずきちはあずきちを引きたい【ホロライブ / AZKi】
-UID:GkswS0rAsNA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ウマぁい！！！！#ティーティッティリ～ #雪花ラミィ #ホロライブ #hololive\nhttps://www.youtube.com/watch?v=Xy_n0wPjk0o
-DURATION:PT2H
-DTSTART:20231204T030018Z
-SUMMARY:雪花ラミィ: ウマぁい！！！！#ティーティッティリ～ #雪花ラミィ #ホロライブ #hololive
-UID:Xy_n0wPjk0o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 Stardew Valley 】#ポルーナ で牧場生活するのら～～！！🐮🐔🐷【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=c8dWM5QB6uI
 DURATION:PT2H
 DTSTART:20231205T143000Z
 SUMMARY:🍬姫森ルーナ: 【 Stardew Valley 】#ポルーナ で牧場生活するのら～～！！🐮🐔🐷【姫森ルーナ/ホロライブ】
 UID:c8dWM5QB6uI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:あまりにも雑過ぎる●NEPIECE口上 #Shorts 【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=qTZ3WmnpZLk
-DURATION:PT2H
-DTSTART:20231204T090039Z
-SUMMARY:博衣こより: あまりにも雑過ぎる●NEPIECE口上 #Shorts 【博衣こより/ホロライブ】
-UID:qTZ3WmnpZLk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ホロパレード耐久】９５万人行くのが先かみこちを育て上げるのが先か…！🔥【ロボ子さん /ホロライブ】\nhttps://www.youtube.com/watch?v=QROtvAhP9k4
-DURATION:PT2H
-DTSTART:20231205T100000Z
-SUMMARY:🤖ロボ子さん: 【ホロパレード耐久】９５万人行くのが先かみこちを育て上げるのが先か…！🔥【ロボ子さん /ホロライブ】
-UID:QROtvAhP9k4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ネタバレあり】＃３：ドラゴンクエストモンスターズ3 魔族の王子とエルフの旅【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=Mn1I9ntPRZE
@@ -263,18 +102,25 @@ SUMMARY:🌽白上フブキ: 【ネタバレあり】＃３：ドラゴンクエ
 UID:Mn1I9ntPRZE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:めっちゃ垢抜けしたVtuberが可愛すぎる‼️ #PR #キュビスタ #キュービックスターズ #SSholoX #holoX #shorts\nhttps://www.youtube.com/watch?v=JCS4qXxaHO8
+DURATION:PT2H
+DTSTART:20231205T130021Z
+SUMMARY:ラプラス: めっちゃ垢抜けしたVtuberが可愛すぎる‼️ #PR #キュビスタ #キュービックスターズ #SSholoX #holoX #shorts
+UID:JCS4qXxaHO8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ホロパレード耐久】９５万人行くのが先かみこちを育て上げるのが先か…！🔥【ロボ子さん /ホロライブ】\nhttps://www.youtube.com/watch?v=QROtvAhP9k4
+DURATION:PT2H
+DTSTART:20231205T100000Z
+SUMMARY:🤖ロボ子さん: 【ホロパレード耐久】９５万人行くのが先かみこちを育て上げるのが先か…！🔥【ロボ子さん /ホロライブ】
+UID:QROtvAhP9k4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:2023.12.7リリース「Night walk」/ サヨナラは、まだ  #ミオかわいい #大神ミオ #ホロライブ\nhttps://www.youtube.com/watch?v=D7dSqiy-m9Q
 DURATION:PT2H
 DTSTART:20231205T100217Z
 SUMMARY:🌲大神ミオ: 2023.12.7リリース「Night walk」/ サヨナラは、まだ  #ミオかわいい #大神ミオ #ホロライブ
 UID:D7dSqiy-m9Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:みんなと昼ご飯たべりゅ！フロッグ食べるよ～～ん✨【 桃鈴ねね / hololive 】\nhttps://www.youtube.com/watch?v=jTelN8aa36k
-DURATION:PT2H
-DTSTART:20231204T030000Z
-SUMMARY:桃鈴ねね: みんなと昼ご飯たべりゅ！フロッグ食べるよ～～ん✨【 桃鈴ねね / hololive 】
-UID:jTelN8aa36k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】初🌟作詞に挑戦「Tear-Gazer」本日24時発売！カウントダウンしながら歌うよ～！✨ #こより新曲発売【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=M5YcXz2CLYs
@@ -284,6 +130,13 @@ SUMMARY:博衣こより: 【歌枠】初🌟作詞に挑戦「Tear-Gazer」本�
 UID:M5YcXz2CLYs
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#塩シャチ１ブロック】最終回！？いざ、エンドラへ・・・【ホロライブ/紫咲シオン/沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=OMKPVa74OnM
+DURATION:PT2H
+DTSTART:20231205T140000Z
+SUMMARY:🌙紫咲シオン: 【#塩シャチ１ブロック】最終回！？いざ、エンドラへ・・・【ホロライブ/紫咲シオン/沙花叉クロヱ】
+UID:OMKPVa74OnM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:明日の予定はね？？？【 #今日のわため 】 #shorts\nhttps://www.youtube.com/watch?v=CdEezCyPxG0
 DURATION:PT2H
 DTSTART:20231204T210009Z
@@ -291,11 +144,11 @@ SUMMARY:🐏角巻わため: 明日の予定はね？？？【 #今日のわた�
 UID:CdEezCyPxG0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【８番出口】全異変ノーミス完全試合！！！！！帰れな縺上↑縺｣縺｡繧?▲縺?????【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=pL7u4F_fEkU
+DESCRIPTION:「なかま歌」サビダンス！一緒に踊ろ～🎶 #shorts #なかま歌ダンス\nhttps://www.youtube.com/watch?v=lov-SEaxhEE
 DURATION:PT2H
-DTSTART:20231204T100000Z
-SUMMARY:💫天音かなた: 【８番出口】全異変ノーミス完全試合！！！！！帰れな縺上↑縺｣縺｡繧?▲縺?????【天音かなた/ホロライブ】
-UID:pL7u4F_fEkU
+DTSTART:20231205T080049Z
+SUMMARY:⚔白銀ノエル: 「なかま歌」サビダンス！一緒に踊ろ～🎶 #shorts #なかま歌ダンス
+UID:lov-SEaxhEE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:《hololive SUPER EXPO 2024》＆《hololive 5th fes. Capture the Moment》PV\nhttps://www.youtube.com/watch?v=QsZ3nD1YZQo
@@ -305,39 +158,11 @@ SUMMARY:ホロライブ: 《hololive SUPER EXPO 2024》＆《hololive 5th fes. C
 UID:QsZ3nD1YZQo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#塩シャチ１ブロック】最終回！？いざ、エンドラへ・・・【ホロライブ/紫咲シオン/沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=OMKPVa74OnM
-DURATION:PT2H
-DTSTART:20231205T140000Z
-SUMMARY:🌙紫咲シオン: 【#塩シャチ１ブロック】最終回！？いざ、エンドラへ・・・【ホロライブ/紫咲シオン/沙花叉クロヱ】
-UID:OMKPVa74OnM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ホロパレード】ホロライブのゲーム！！！？はあちゃまGETしたい～！【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=-yKRb5sFzVY
-DURATION:PT2H
-DTSTART:20231204T143000Z
-SUMMARY:❤赤井はあと: 【ホロパレード】ホロライブのゲーム！！！？はあちゃまGETしたい～！【ホロライブ/赤井はあと】
-UID:-yKRb5sFzVY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Blue Journey - また傷に触れる（歌い分け）- 不知火フレア / 常闇トワ / 尾丸ポルカ\nhttps://www.youtube.com/watch?v=UyS1mJ7TD5E
-DURATION:PT2H
-DTSTART:20231204T090030Z
-SUMMARY:JourneyBlue: Blue Journey - また傷に触れる（歌い分け）- 不知火フレア / 常闇トワ / 尾丸ポルカ
-UID:UyS1mJ7TD5E
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#GPGでロマサガRS二刀流道場】魅力をたくさん伝えちゃうよ！！【ときのそら/Tokinosora/ホロライブ 】\nhttps://www.youtube.com/watch?v=IDX4nndqHC0
 DURATION:PT2H
 DTSTART:20231205T090000Z
 SUMMARY:🐻ときのそら: 【#GPGでロマサガRS二刀流道場】魅力をたくさん伝えちゃうよ！！【ときのそら/Tokinosora/ホロライブ 】
 UID:IDX4nndqHC0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ホロパレード】はじめてのホロパレード！開拓者を育てたい！【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=bimCbpChXPU
-DURATION:PT2H
-DTSTART:20231204T130000Z
-SUMMARY:⚒AZKi: 【ホロパレード】はじめてのホロパレード！開拓者を育てたい！【ホロライブ / AZKi】
-UID:bimCbpChXPU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:なかま歌 サビダンス🎪ポルカVer. #shorts #踊ってみた #なかま歌ダンス\nhttps://www.youtube.com/watch?v=7mlFeTreFIs
@@ -347,17 +172,24 @@ SUMMARY:尾丸ポルカ: なかま歌 サビダンス🎪ポルカVer. #shorts #
 UID:7mlFeTreFIs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【アソビ大全】＃メルとめると の対談×対決コラボ！！！【ホロライブ\,にじさんじ/夜空メル＆倉持めると】\nhttps://www.youtube.com/watch?v=DZAVjObVA9Q
+DESCRIPTION:【 #キュビスタ 】モンストシリーズ「キュビスタ」とholoXがコラボ中！参加型＆ガチャも引くぞおお！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=o6RNOmFoocQ
 DURATION:PT2H
-DTSTART:20231204T110000Z
-SUMMARY:🌟夜空メル: 【アソビ大全】＃メルとめると の対談×対決コラボ！！！【ホロライブ\,にじさんじ/夜空メル＆倉持めると】
-UID:DZAVjObVA9Q
+DTSTART:20231205T100000Z
+SUMMARY:博衣こより: 【 #キュビスタ 】モンストシリーズ「キュビスタ」とholoXがコラボ中！参加型＆ガチャも引くぞおお！【博衣こより/ホロライブ】
+UID:o6RNOmFoocQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:2023.12.7リリース「Night walk」/ ナイトループ #ミオかわいい #大神ミオ #ホロライブ\nhttps://www.youtube.com/watch?v=zMbACUNEKq8
+DESCRIPTION:【fes情報解禁】#2 「キャプチャークイズ」で重大情報をつかみ取れ！【#hololivefesEXPO24】\nhttps://www.youtube.com/watch?v=-OBrUadxwEI
 DURATION:PT2H
-DTSTART:20231204T095040Z
-SUMMARY:🌲大神ミオ: 2023.12.7リリース「Night walk」/ ナイトループ #ミオかわいい #大神ミオ #ホロライブ
-UID:zMbACUNEKq8
+DTSTART:20231205T110000Z
+SUMMARY:ホロライブ: 【fes情報解禁】#2 「キャプチャークイズ」で重大情報をつかみ取れ！【#hololivefesEXPO24】
+UID:-OBrUadxwEI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:推しの子「サインはB / 新B小町ver」歌って踊ってみた【アキ・ローゼンタール＆紫咲シオン＆博衣こより/ホロライブ】#shorts\nhttps://www.youtube.com/watch?v=15zsxD7GC8Y
+DURATION:PT2H
+DTSTART:20231205T090001Z
+SUMMARY:博衣こより: 推しの子「サインはB / 新B小町ver」歌って踊ってみた【アキ・ローゼンタール＆紫咲シオン＆博衣こより/ホロライブ】#shorts
+UID:15zsxD7GC8Y
 END:VEVENT
 END:VCALENDAR
