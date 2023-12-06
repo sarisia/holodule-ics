@@ -53,6 +53,13 @@ SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM #9　12月担当：儒
 UID:hUbTltSb3mo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【同時視聴】1st兎田ぺこらいぶ「うさぎ the MEGAMI!!」 一緒に盛り上がり隊の皆様、会場はこちらでん！【儒烏風亭らでん/ 一条莉々華/火威青】\nhttps://www.youtube.com/watch?v=bvORNGHJDmI
+DURATION:PT2H
+DTSTART:20231206T093000Z
+SUMMARY:儒烏風亭らでん: 【同時視聴】1st兎田ぺこらいぶ「うさぎ the MEGAMI!!」 一緒に盛り上がり隊の皆様、会場はこちらでん！【儒烏風亭らでん/ 一条莉々華/火威青】
+UID:bvORNGHJDmI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌枠リレー】4番手！！1カ月ぶりのお歌【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=_s4nrMXCrds
 DURATION:PT2H
 DTSTART:20231205T110000Z
@@ -65,5 +72,12 @@ DURATION:PT2H
 DTSTART:20231205T100000Z
 SUMMARY:儒烏風亭らでん: 【#ReGLOSS歌枠リレー】歌います【儒烏風亭らでん】#hololiveDEV_IS #ReGLOSS】
 UID:LUpV_XWms8s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#らでんのラジオ】第六回目らでんのラジオ「vs孤独」「年末までにやりたいこと」【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=LsBG8-48a3I
+DURATION:PT2H
+DTSTART:20231206T140000Z
+SUMMARY:儒烏風亭らでん: 【#らでんのラジオ】第六回目らでんのラジオ「vs孤独」「年末までにやりたいこと」【儒烏風亭らでん #ReGLOSS 】
+UID:LsBG8-48a3I
 END:VEVENT
 END:VCALENDAR
