@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【DRAGONS DOGMA】I mean\, how hard could it be to fight dragon?\nhttps://www.youtube.com/watch?v=v5koLA2xddk
+DURATION:PT2H
+DTSTART:20231209T190000Z
+SUMMARY:Crimzon: 【DRAGONS DOGMA】I mean\, how hard could it be to fight dragon?
+UID:v5koLA2xddk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Zatsudan】MORE EEP (pt.2)\nhttps://www.youtube.com/watch?v=REvinbR_bno
 DURATION:PT2H
 DTSTART:20231208T170000Z
@@ -16,41 +23,6 @@ DURATION:PT2H
 DTSTART:20231208T230000Z
 SUMMARY:Flayon: 【FINAL FANTASY XIV】| IM LEVELING FISHER CUZ ITS EASY
 UID:YtpvELmTa6g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Zatsudan】Did the Axelotls miss me?\nhttps://www.youtube.com/watch?v=c5i-RtRejxA
-DURATION:PT2H
-DTSTART:20231209T050000Z
-SUMMARY:Syrios: 【Zatsudan】Did the Axelotls miss me?
-UID:c5i-RtRejxA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DRAGONS DOGMA】I mean\, how hard could it be to fight dragon?\nhttps://www.youtube.com/watch?v=v5koLA2xddk
-DURATION:PT2H
-DTSTART:20231209T190000Z
-SUMMARY:Crimzon: 【DRAGONS DOGMA】I mean\, how hard could it be to fight dragon?
-UID:v5koLA2xddk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【League of Legends】Just chatting and torturing myself in ranked♡\nhttps://www.youtube.com/watch?v=9F8q4wzbMhA
-DURATION:PT2H
-DTSTART:20231208T040000Z
-SUMMARY:Syrios: 【League of Legends】Just chatting and torturing myself in ranked♡
-UID:9F8q4wzbMhA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【THE KIDNAP】YOU'RE COMING WITH ME!!\nhttps://www.youtube.com/watch?v=Ap5eQeCVeZI
-DURATION:PT2H
-DTSTART:20231208T080000Z
-SUMMARY:Jurard: 【THE KIDNAP】YOU'RE COMING WITH ME!!
-UID:Ap5eQeCVeZI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Amnesia: The Bunker】....Just a normal blind playthrough! YEAH....!\nhttps://www.youtube.com/watch?v=O7cZkdpH2jw
-DURATION:PT2H
-DTSTART:20231207T160000Z
-SUMMARY:Goldbullet: 【Amnesia: The Bunker】....Just a normal blind playthrough! YEAH....!
-UID:O7cZkdpH2jw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[PARTY ANIMALS] TEMPUS vs ARMIS #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=XBYgI23Mz-g
@@ -67,20 +39,6 @@ SUMMARY:Flayon: 【BLAZBLUE CROSS TAG BATTLE】| beginner fighter for everynyan
 UID:XB2hnnGq5OQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DRAWING】I Try To Make A Machiroon Emote..?!\nhttps://www.youtube.com/watch?v=WdR1YCQs1Nc
-DURATION:PT2H
-DTSTART:20231208T001500Z
-SUMMARY:Flayon: 【DRAWING】I Try To Make A Machiroon Emote..?!
-UID:WdR1YCQs1Nc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[Like a Dragon Gaiden] TWO HOUR ANDY STRIKE! HIYA! [SPOILERS] #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=mys3vedjfaw
-DURATION:PT2H
-DTSTART:20231207T220000Z
-SUMMARY:Bettel: [Like a Dragon Gaiden] TWO HOUR ANDY STRIKE! HIYA! [SPOILERS] #gavisbettel #holotempus
-UID:mys3vedjfaw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【PARTY ANIMALS】ARMIS VS VANGUARD! INTENSE ANIMAL ACTION!\nhttps://www.youtube.com/watch?v=jz9BvpeQ_9c
 DURATION:PT2H
 DTSTART:20231209T030000Z
@@ -88,17 +46,10 @@ SUMMARY:Octavio: 【PARTY ANIMALS】ARMIS VS VANGUARD! INTENSE ANIMAL ACTION!
 UID:jz9BvpeQ_9c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HANDCAM】LET'S BUILD DARK ROCKMAN.EXE BABY\, WOOOHOOOO!【Model kit building】\nhttps://www.youtube.com/watch?v=hXF_IcyAeAM
+DESCRIPTION:【Zatsudan】Did the Axelotls miss me?\nhttps://www.youtube.com/watch?v=c5i-RtRejxA
 DURATION:PT2H
-DTSTART:20231208T141500Z
-SUMMARY:Hakka: 【HANDCAM】LET'S BUILD DARK ROCKMAN.EXE BABY\, WOOOHOOOO!【Model kit building】
-UID:hXF_IcyAeAM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[Like a Dragon Gaiden] I RETURN TO ACTUALLY CONTINUE STORY [SPOILERS] #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=m84Eg-qqgQQ
-DURATION:PT2H
-DTSTART:20231208T061500Z
-SUMMARY:Bettel: [Like a Dragon Gaiden] I RETURN TO ACTUALLY CONTINUE STORY [SPOILERS] #gavisbettel #holotempus
-UID:m84Eg-qqgQQ
+DTSTART:20231209T050000Z
+SUMMARY:Syrios: 【Zatsudan】Did the Axelotls miss me?
+UID:c5i-RtRejxA
 END:VEVENT
 END:VCALENDAR
