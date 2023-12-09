@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【DRAGONS DOGMA】I mean\, how hard could it be to fight dragon?\nhttps://www.youtube.com/watch?v=v5koLA2xddk
-DURATION:PT2H
-DTSTART:20231209T190000Z
-SUMMARY:Crimzon: 【DRAGONS DOGMA】I mean\, how hard could it be to fight dragon?
-UID:v5koLA2xddk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Zatsudan】MORE EEP (pt.2)\nhttps://www.youtube.com/watch?v=REvinbR_bno
 DURATION:PT2H
 DTSTART:20231208T170000Z
@@ -25,18 +18,32 @@ SUMMARY:Flayon: 【FINAL FANTASY XIV】| IM LEVELING FISHER CUZ ITS EASY
 UID:YtpvELmTa6g
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【🐍TSB HOLONIJI APEX CUSTOM🐍】TEAM SNAKE BITE IS BACK\, BUT THIS TIME WITH MORE FRIENDS!!!💙💜🧡\nhttps://www.youtube.com/watch?v=D9C883ZFsHw
+DURATION:PT2H
+DTSTART:20231210T023000Z
+SUMMARY:Altare: 【🐍TSB HOLONIJI APEX CUSTOM🐍】TEAM SNAKE BITE IS BACK\, BUT THIS TIME WITH MORE FRIENDS!!!💙💜🧡
+UID:D9C883ZFsHw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Zatsudan】Did the Axelotls miss me?\nhttps://www.youtube.com/watch?v=c5i-RtRejxA
+DURATION:PT2H
+DTSTART:20231209T050000Z
+SUMMARY:Syrios: 【Zatsudan】Did the Axelotls miss me?
+UID:c5i-RtRejxA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DRAGONS DOGMA】I mean\, how hard could it be to fight dragon?\nhttps://www.youtube.com/watch?v=v5koLA2xddk
+DURATION:PT2H
+DTSTART:20231209T190000Z
+SUMMARY:Crimzon: 【DRAGONS DOGMA】I mean\, how hard could it be to fight dragon?
+UID:v5koLA2xddk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:[PARTY ANIMALS] TEMPUS vs ARMIS #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=XBYgI23Mz-g
 DURATION:PT2H
 DTSTART:20231209T030000Z
 SUMMARY:Bettel: [PARTY ANIMALS] TEMPUS vs ARMIS #gavisbettel #holotempus
 UID:XBYgI23Mz-g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BLAZBLUE CROSS TAG BATTLE】| beginner fighter for everynyan\nhttps://www.youtube.com/watch?v=XB2hnnGq5OQ
-DURATION:PT2H
-DTSTART:20231209T230000Z
-SUMMARY:Flayon: 【BLAZBLUE CROSS TAG BATTLE】| beginner fighter for everynyan
-UID:XB2hnnGq5OQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PARTY ANIMALS】ARMIS VS VANGUARD! INTENSE ANIMAL ACTION!\nhttps://www.youtube.com/watch?v=jz9BvpeQ_9c
@@ -46,10 +53,10 @@ SUMMARY:Octavio: 【PARTY ANIMALS】ARMIS VS VANGUARD! INTENSE ANIMAL ACTION!
 UID:jz9BvpeQ_9c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Zatsudan】Did the Axelotls miss me?\nhttps://www.youtube.com/watch?v=c5i-RtRejxA
+DESCRIPTION:【BLAZBLUE CROSS TAG BATTLE】| beginner fighter for everynyan\nhttps://www.youtube.com/watch?v=XB2hnnGq5OQ
 DURATION:PT2H
-DTSTART:20231209T050000Z
-SUMMARY:Syrios: 【Zatsudan】Did the Axelotls miss me?
-UID:c5i-RtRejxA
+DTSTART:20231209T230000Z
+SUMMARY:Flayon: 【BLAZBLUE CROSS TAG BATTLE】| beginner fighter for everynyan
+UID:XB2hnnGq5OQ
 END:VEVENT
 END:VCALENDAR
