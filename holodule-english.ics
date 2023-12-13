@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Superchat Catchup】I MUST CATCHUP\nhttps://www.youtube.com/watch?v=cZjTgtdi_lQ
+DURATION:PT2H
+DTSTART:20231213T040000Z
+SUMMARY:Kronii: 【Superchat Catchup】I MUST CATCHUP
+UID:cZjTgtdi_lQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【DEVIL MAY CRY 4】I'LL BE THE ONE TO FILL YOUR DARK SOUL WITH LIGHT!!\nhttps://www.youtube.com/watch?v=7XGTMNHftJg
 DURATION:PT2H
 DTSTART:20231213T000000Z
@@ -37,6 +44,13 @@ DURATION:PT2H
 DTSTART:20231212T220000Z
 SUMMARY:Ina: 【Fate/Samurai Remnant】 WAKUWAKU 【#1】 ⚠SPOILER WARNING
 UID:vYszEQFLwXE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FUWAMOCO MORNING】episode 56 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=OSGvHVy1wn0
+DURATION:PT2H
+DTSTART:20231213T160000Z
+SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 56 🐾 #FWMCMORNING
+UID:OSGvHVy1wn0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【THE EXIT 8】no sense of direction and easy to scare 🐾【８番出口】\nhttps://www.youtube.com/watch?v=vco43BSneQU
@@ -95,13 +109,6 @@ SUMMARY:Baelz: ≪DRAWING≫ Let's draw PEKORA SENPAI + BIG ANNOUNCEMENT!!!!
 UID:aGJoYH-Anu4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【PlateUp!】 The Sweaty TryHard Gamers Collab\nhttps://www.youtube.com/watch?v=X8VjbU37OBo
-DURATION:PT2H
-DTSTART:20231212T001000Z
-SUMMARY:Fauna: 【PlateUp!】 The Sweaty TryHard Gamers Collab
-UID:X8VjbU37OBo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【CUSTOM MECH WARS】moribot reaps them all #カスタムメックウォーズ #CustomMechWars #PR\nhttps://www.youtube.com/watch?v=il6EOETfd5Q
 DURATION:PT2H
 DTSTART:20231213T040000Z
@@ -130,10 +137,10 @@ SUMMARY:Kiara: 【1080° SNOWBOARDING】I waited 1 Year for this #kfp #キアラ
 UID:QZrI3nvxZGo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FUWAMOCO MORNING】episode 56 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=OSGvHVy1wn0
+DESCRIPTION:【PlateUp!】 The Sweaty TryHard Gamers Collab\nhttps://www.youtube.com/watch?v=X8VjbU37OBo
 DURATION:PT2H
-DTSTART:20231213T160000Z
-SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 56 🐾 #FWMCMORNING
-UID:OSGvHVy1wn0
+DTSTART:20231212T001000Z
+SUMMARY:Fauna: 【PlateUp!】 The Sweaty TryHard Gamers Collab
+UID:X8VjbU37OBo
 END:VEVENT
 END:VCALENDAR
