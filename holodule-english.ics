@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【original song】Fire N Ice (Mori Calliope x Takanashi Kiara)\nhttps://www.youtube.com/watch?v=yV83laHeOj4
-DURATION:PT2H
-DTSTART:20231214T150000Z
-SUMMARY:Calli: 【original song】Fire N Ice (Mori Calliope x Takanashi Kiara)
-UID:yV83laHeOj4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪YAKUZA 0≫ Kiryu needs fashion tips #3【SPOILER WARNING】\nhttps://www.youtube.com/watch?v=CLEyWy-TbvU
 DURATION:PT2H
 DTSTART:20231216T010000Z
 SUMMARY:Baelz: ≪YAKUZA 0≫ Kiryu needs fashion tips #3【SPOILER WARNING】
 UID:CLEyWy-TbvU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【original song】Fire N Ice (Mori Calliope x Takanashi Kiara)\nhttps://www.youtube.com/watch?v=yV83laHeOj4
+DURATION:PT2H
+DTSTART:20231214T150000Z
+SUMMARY:Calli: 【original song】Fire N Ice (Mori Calliope x Takanashi Kiara)
+UID:yV83laHeOj4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:fire n ice #shorts\nhttps://www.youtube.com/watch?v=G_CMeJMgQBY
@@ -114,6 +114,13 @@ DURATION:PT2H
 DTSTART:20231214T201000Z
 SUMMARY:Kiara: 【MINECRAFT】quasoni pls help me #kfp #キアライブ
 UID:969JaHkv1jU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Fate/Samurai Remnant】 CATTO 【#2】 ⚠SPOILER WARNING\nhttps://www.youtube.com/watch?v=_LOxeefwlj4
+DURATION:PT2H
+DTSTART:20231215T220000Z
+SUMMARY:Ina: 【Fate/Samurai Remnant】 CATTO 【#2】 ⚠SPOILER WARNING
+UID:_LOxeefwlj4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【LETHAL COMPANY COLLAB】always in good company 🐾 #holoAdvent\nhttps://www.youtube.com/watch?v=wEwLXfjY2yY
