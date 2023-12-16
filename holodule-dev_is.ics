@@ -4,18 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【縦型】ガチ恋距離でまったり【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=xf5Uw-qNbm4
-DURATION:PT2H
-DTSTART:20231216T063451Z
-SUMMARY:火威青: 【縦型】ガチ恋距離でまったり【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:xf5Uw-qNbm4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【スーパーマリオRPG #04 】クリアまで！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=W76a-DF1sA4
 DURATION:PT2H
 DTSTART:20231216T030000Z
 SUMMARY:音乃瀬奏: 【スーパーマリオRPG #04 】クリアまで！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
 UID:W76a-DF1sA4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マリオカート８DX】参加型で練習だぁ！たのしくはしぇ！【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=wzRyCiv8orU
+DURATION:PT2H
+DTSTART:20231217T080000Z
+SUMMARY:轟はじめ: 【マリオカート８DX】参加型で練習だぁ！たのしくはしぇ！【轟はじめ/ReGLOSS】＃hololiveDEV_IS
+UID:wzRyCiv8orU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【縦型】ガチ恋距離でまったり【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=xf5Uw-qNbm4
+DURATION:PT2H
+DTSTART:20231216T063451Z
+SUMMARY:火威青: 【縦型】ガチ恋距離でまったり【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:xf5Uw-qNbm4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VCRGTA2】#6 オリジナル映えパンで一儲け【火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=XeZa4vUiLj0
@@ -32,6 +39,13 @@ SUMMARY:一条莉々華: 縦型配信 嬉しいお知らせがあるよ～！！
 UID:P5m5rtNGVlQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【マリオカート8DX】最下位になったら即終了🚗視聴者参加型🚗【一条莉々華 視点 / ホロライブ】\nhttps://www.youtube.com/watch?v=0b3bnMHIWww
+DURATION:PT2H
+DTSTART:20231217T030000Z
+SUMMARY:一条莉々華: 【マリオカート8DX】最下位になったら即終了🚗視聴者参加型🚗【一条莉々華 視点 / ホロライブ】
+UID:0b3bnMHIWww
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#にじホロ新人マリパ】初めましてのマリパ対決！！【マリオパーティ スーパースターズ 一条莉々華 視点 / ホロライブ】\nhttps://www.youtube.com/watch?v=11iiZbaVjbs
 DURATION:PT2H
 DTSTART:20231216T130000Z
@@ -44,12 +58,5 @@ DURATION:PT2H
 DTSTART:20231216T080000Z
 SUMMARY:儒烏風亭らでん: 【雑談】袋と深夜とあれのお披露目と【儒烏風亭らでん #ReGLOSS 】
 UID:mri45S1v_BE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリオカート８DX】参加型で練習だぁ！たのしくはしぇ！【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=wzRyCiv8orU
-DURATION:PT2H
-DTSTART:20231217T080000Z
-SUMMARY:轟はじめ: 【マリオカート８DX】参加型で練習だぁ！たのしくはしぇ！【轟はじめ/ReGLOSS】＃hololiveDEV_IS
-UID:wzRyCiv8orU
 END:VEVENT
 END:VCALENDAR
