@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【スパチャ読み雑談】ちょっとまつたけ～～～【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=1niTpxGQfq0
-DURATION:PT2H
-DTSTART:20231215T100000Z
-SUMMARY:儒烏風亭らでん: 【スパチャ読み雑談】ちょっとまつたけ～～～【儒烏風亭らでん #ReGLOSS 】
-UID:1niTpxGQfq0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【スーパーマリオRPG #04 】クリアまで！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=W76a-DF1sA4
 DURATION:PT2H
 DTSTART:20231216T030000Z
@@ -25,20 +18,6 @@ SUMMARY:音乃瀬奏: 【アソビ大全】オリー先輩とアソビ大全！�
 UID:uGZeJZBUdOA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【企画】青春と黒歴史暴露大会２【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=X8zR7akJOnA
-DURATION:PT2H
-DTSTART:20231215T130000Z
-SUMMARY:轟はじめ: 【企画】青春と黒歴史暴露大会２【轟はじめ/ReGLOSS】＃hololiveDEV_IS
-UID:X8zR7akJOnA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:縦型配信おしゃべりしたい！！！！#shorts\nhttps://www.youtube.com/watch?v=1UGqdshUru8
-DURATION:PT2H
-DTSTART:20231215T110155Z
-SUMMARY:一条莉々華: 縦型配信おしゃべりしたい！！！！#shorts
-UID:1UGqdshUru8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#VCRGTA】ピザで限界飯をつくってみたいとおもいます。【 #一条莉々華/ #hololiveDEV_IS #ReGLOSS】\nhttps://www.youtube.com/watch?v=nCHVwYJj1cQ
 DURATION:PT2H
 DTSTART:20231215T130000Z
@@ -51,5 +30,33 @@ DURATION:PT2H
 DTSTART:20231215T120000Z
 SUMMARY:火威青: 【VCRGTA2】#5オリジナルメニュー、できるかな？【火威青 #hololiveDEV_IS #ReGLOSS 】
 UID:RjZTe6XGq9Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スパチャ読み雑談】ちょっとまつたけ～～～【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=1niTpxGQfq0
+DURATION:PT2H
+DTSTART:20231215T100000Z
+SUMMARY:儒烏風亭らでん: 【スパチャ読み雑談】ちょっとまつたけ～～～【儒烏風亭らでん #ReGLOSS 】
+UID:1niTpxGQfq0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VCRGTA2】#6 オリジナル映えパンで一儲け【火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=XeZa4vUiLj0
+DURATION:PT2H
+DTSTART:20231216T120000Z
+SUMMARY:火威青: 【VCRGTA2】#6 オリジナル映えパンで一儲け【火威青 #hololiveDEV_IS #ReGLOSS 】
+UID:XeZa4vUiLj0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【企画】青春と黒歴史暴露大会２【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=X8zR7akJOnA
+DURATION:PT2H
+DTSTART:20231215T130000Z
+SUMMARY:轟はじめ: 【企画】青春と黒歴史暴露大会２【轟はじめ/ReGLOSS】＃hololiveDEV_IS
+UID:X8zR7akJOnA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:縦型配信おしゃべりしたい！！！！#shorts\nhttps://www.youtube.com/watch?v=1UGqdshUru8
+DURATION:PT2H
+DTSTART:20231215T110155Z
+SUMMARY:一条莉々華: 縦型配信おしゃべりしたい！！！！#shorts
+UID:1UGqdshUru8
 END:VEVENT
 END:VCALENDAR
