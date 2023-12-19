@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:≪VERTICAL STREAM≫ Cozy ASMR #shorts\nhttps://www.youtube.com/watch?v=_x3Ec59zAIg
-DURATION:PT2H
-DTSTART:20231218T140000Z
-SUMMARY:Baelz: ≪VERTICAL STREAM≫ Cozy ASMR #shorts
-UID:_x3Ec59zAIg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【WHITE ALBUM】a love that will never melt... right? ❄️🐾\nhttps://www.youtube.com/watch?v=L_2Js5_65J0
-DURATION:PT2H
-DTSTART:20231220T020000Z
-SUMMARY:FUWAMOCO: 【WHITE ALBUM】a love that will never melt... right? ❄️🐾
-UID:L_2Js5_65J0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Powerwash Simulator】Back To The Future To Wash\nhttps://www.youtube.com/watch?v=bghtc66SBZ8
 DURATION:PT2H
 DTSTART:20231219T040000Z
@@ -25,32 +11,11 @@ SUMMARY:Kronii: 【Powerwash Simulator】Back To The Future To Wash
 UID:bghtc66SBZ8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Shiori Talks Tech -　Vlogging Gear for Content Creators. #tech  #vtuber  #contentcreator\nhttps://www.youtube.com/watch?v=HWyIexYZHNk
-DURATION:PT2H
-DTSTART:20231219T030000Z
-SUMMARY:Shiori: Shiori Talks Tech -　Vlogging Gear for Content Creators. #tech  #vtuber  #contentcreator
-UID:HWyIexYZHNk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【JISATSU】just two scaredy guard dogs with a camera 🐾【自撮】\nhttps://www.youtube.com/watch?v=ubAvsUQXV7I
-DURATION:PT2H
-DTSTART:20231219T030000Z
-SUMMARY:FUWAMOCO: 【JISATSU】just two scaredy guard dogs with a camera 🐾【自撮】
-UID:ubAvsUQXV7I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DRAWING】 Doodlin\nhttps://www.youtube.com/watch?v=iWZzJ-6uc-Q
 DURATION:PT2H
 DTSTART:20231217T220000Z
 SUMMARY:Ina: 【DRAWING】 Doodlin
 UID:iWZzJ-6uc-Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:I am sick.\nhttps://www.youtube.com/watch?v=N3BMAvk01CE
-DURATION:PT2H
-DTSTART:20231219T010000Z
-SUMMARY:Nerissa: I am sick.
-UID:N3BMAvk01CE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【COVER】Show（唱）- Mori Calliope\nhttps://www.youtube.com/watch?v=9-J5FmQhugs
@@ -65,13 +30,6 @@ DURATION:PT2H
 DTSTART:20231218T160000Z
 SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 58 🐾 #FWMCMORNING
 UID:VwnzT5CkWds
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪LETHAL COMPANY≫ Is this a scary game?\nhttps://www.youtube.com/watch?v=SIQIp_2tmM8
-DURATION:PT2H
-DTSTART:20231218T010000Z
-SUMMARY:Baelz: ≪LETHAL COMPANY≫ Is this a scary game?
-UID:SIQIp_2tmM8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Lethal Company】 WE ARE VERY LETHAL\nhttps://www.youtube.com/watch?v=f4glo2Mpk7k
@@ -95,11 +53,60 @@ SUMMARY:Bijou: 【500K CELEBRATION】That's a lot of Pebbles!
 UID:W3hBWHgSXlM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Shiori Talks Tech -　Vlogging Gear for Content Creators. #tech  #vtuber  #contentcreator\nhttps://www.youtube.com/watch?v=HWyIexYZHNk
+DURATION:PT2H
+DTSTART:20231219T030000Z
+SUMMARY:Shiori: Shiori Talks Tech -　Vlogging Gear for Content Creators. #tech  #vtuber  #contentcreator
+UID:HWyIexYZHNk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【LETHAL COMPANY COLLAB】A JREAT ASSET\nhttps://www.youtube.com/watch?v=TwBEezGQwoo
 DURATION:PT2H
 DTSTART:20231218T010000Z
 SUMMARY:Bijou: 【LETHAL COMPANY COLLAB】A JREAT ASSET
 UID:TwBEezGQwoo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪VERTICAL STREAM≫ Cozy ASMR #shorts\nhttps://www.youtube.com/watch?v=_x3Ec59zAIg
+DURATION:PT2H
+DTSTART:20231218T140000Z
+SUMMARY:Baelz: ≪VERTICAL STREAM≫ Cozy ASMR #shorts
+UID:_x3Ec59zAIg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【500K CELEBRATION】Pebble Party PART 2!\nhttps://www.youtube.com/watch?v=WjnI_TYmeXE
+DURATION:PT2H
+DTSTART:20231219T020000Z
+SUMMARY:Bijou: 【500K CELEBRATION】Pebble Party PART 2!
+UID:WjnI_TYmeXE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【JISATSU】just two scaredy guard dogs with a camera 🐾【自撮】\nhttps://www.youtube.com/watch?v=ubAvsUQXV7I
+DURATION:PT2H
+DTSTART:20231219T030000Z
+SUMMARY:FUWAMOCO: 【JISATSU】just two scaredy guard dogs with a camera 🐾【自撮】
+UID:ubAvsUQXV7I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:I am sick.\nhttps://www.youtube.com/watch?v=N3BMAvk01CE
+DURATION:PT2H
+DTSTART:20231219T010000Z
+SUMMARY:Nerissa: I am sick.
+UID:N3BMAvk01CE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪LETHAL COMPANY≫ Is this a scary game?\nhttps://www.youtube.com/watch?v=SIQIp_2tmM8
+DURATION:PT2H
+DTSTART:20231218T010000Z
+SUMMARY:Baelz: ≪LETHAL COMPANY≫ Is this a scary game?
+UID:SIQIp_2tmM8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【WHITE ALBUM】a love that will never melt... right? ❄️🐾\nhttps://www.youtube.com/watch?v=L_2Js5_65J0
+DURATION:PT2H
+DTSTART:20231220T020000Z
+SUMMARY:FUWAMOCO: 【WHITE ALBUM】a love that will never melt... right? ❄️🐾
+UID:L_2Js5_65J0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【LETHAL COMPANY】deadly establishment (collab)\nhttps://www.youtube.com/watch?v=jQy-TxA4mWo
