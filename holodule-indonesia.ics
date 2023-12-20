@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:Keris misterius ini tidak hanya sekedar tajam! Saksikan Anya menari gemerlap di atas panggung!\nhttps://www.youtube.com/watch?v=8A1RFaD6dd8
-DURATION:PT2H
-DTSTART:20231219T050005Z
-SUMMARY:IDholo: Keris misterius ini tidak hanya sekedar tajam! Saksikan Anya menari gemerlap di atas panggung!
-UID:8A1RFaD6dd8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Lethal Company】Intern Training Time!!! Guide Me\, Miss Melfissa!?!?【Reine/Anya/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=VW28bGPJLz0
 DURATION:PT2H
 DTSTART:20231219T133000Z
@@ -18,11 +11,11 @@ SUMMARY:Reine: 【Lethal Company】Intern Training Time!!! Guide Me\, Miss Melfi
 UID:VW28bGPJLz0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Lethal Company】LETHAL Peafowl & Ancient Weapon. :)【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=rvhQxaMfnl0
+DESCRIPTION:Slap by Step (Japanese Ver.) - Lyric Video -\nhttps://www.youtube.com/watch?v=9nOyPQZ4NcY
 DURATION:PT2H
-DTSTART:20231219T133000Z
-SUMMARY:Anya: 【Lethal Company】LETHAL Peafowl & Ancient Weapon. :)【hololive ID 2nd Generation | Anya Melfissa】
-UID:rvhQxaMfnl0
+DTSTART:20231220T090000Z
+SUMMARY:IDholo: Slap by Step (Japanese Ver.) - Lyric Video -
+UID:9nOyPQZ4NcY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Valorant】Learning\, and hopefully can do lil bit leveling maybe?【holoID】\nhttps://www.youtube.com/watch?v=Asc2GISoCIY
@@ -30,5 +23,19 @@ DURATION:PT2H
 DTSTART:20231219T050000Z
 SUMMARY:🔮Moona: 【Valorant】Learning\, and hopefully can do lil bit leveling maybe?【holoID】
 UID:Asc2GISoCIY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Keris misterius ini tidak hanya sekedar tajam! Saksikan Anya menari gemerlap di atas panggung!\nhttps://www.youtube.com/watch?v=8A1RFaD6dd8
+DURATION:PT2H
+DTSTART:20231219T050005Z
+SUMMARY:IDholo: Keris misterius ini tidak hanya sekedar tajam! Saksikan Anya menari gemerlap di atas panggung!
+UID:8A1RFaD6dd8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Lethal Company】LETHAL Peafowl & Ancient Weapon. :)【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=rvhQxaMfnl0
+DURATION:PT2H
+DTSTART:20231219T133000Z
+SUMMARY:Anya: 【Lethal Company】LETHAL Peafowl & Ancient Weapon. :)【hololive ID 2nd Generation | Anya Melfissa】
+UID:rvhQxaMfnl0
 END:VEVENT
 END:VCALENDAR
