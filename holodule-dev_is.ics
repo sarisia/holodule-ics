@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【オフコラボ】最近うちら会いすぎじゃない？【儒烏風亭らでん/轟はじめ】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=W5AFJgFDLJg
+DESCRIPTION:【新作ゲーム発掘】本日発売！Path of the Abyssやってみる！！！【#一条莉々華/hololive DEV_IS】\nhttps://www.youtube.com/watch?v=lJGqFekaW9A
 DURATION:PT2H
-DTSTART:20231221T103000Z
-SUMMARY:轟はじめ: 【オフコラボ】最近うちら会いすぎじゃない？【儒烏風亭らでん/轟はじめ】＃hololiveDEV_IS
-UID:W5AFJgFDLJg
+DTSTART:20231222T030000Z
+SUMMARY:一条莉々華: 【新作ゲーム発掘】本日発売！Path of the Abyssやってみる！！！【#一条莉々華/hololive DEV_IS】
+UID:lJGqFekaW9A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【VCRGTA2】#12 イラスト屋さん、10億までもうすぐ【火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=Qbyc_NnuBA8
+DESCRIPTION:【ラジオ配信】ReGLOSS ROOM #11　12月担当：儒烏風亭らでん・轟はじめ【#リグ部屋】\nhttps://www.youtube.com/watch?v=bicJ23A5X3I
 DURATION:PT2H
-DTSTART:20231221T060000Z
-SUMMARY:火威青: 【VCRGTA2】#12 イラスト屋さん、10億までもうすぐ【火威青 #hololiveDEV_IS #ReGLOSS 】
-UID:Qbyc_NnuBA8
+DTSTART:20231221T090000Z
+SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM #11　12月担当：儒烏風亭らでん・轟はじめ【#リグ部屋】
+UID:bicJ23A5X3I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:今日のはきっと限界飯じゃない！！！！【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=h0qOiY6LGoE
@@ -39,17 +39,24 @@ SUMMARY:轟はじめ: 【8番出口】ぼくはどこに行けばいいんだ【
 UID:835zGQgejDE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ラジオ配信】ReGLOSS ROOM #11　12月担当：儒烏風亭らでん・轟はじめ【#リグ部屋】\nhttps://www.youtube.com/watch?v=bicJ23A5X3I
-DURATION:PT2H
-DTSTART:20231221T090000Z
-SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM #11　12月担当：儒烏風亭らでん・轟はじめ【#リグ部屋】
-UID:bicJ23A5X3I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#VCRGTA】ピザ屋に骨をうずめると決めた女✨【 #一条莉々華/ #hololiveDEV_IS #ReGLOSS】\nhttps://www.youtube.com/watch?v=XdWQ2DnfMd0
 DURATION:PT2H
 DTSTART:20231221T110000Z
 SUMMARY:一条莉々華: 【#VCRGTA】ピザ屋に骨をうずめると決めた女✨【 #一条莉々華/ #hololiveDEV_IS #ReGLOSS】
 UID:XdWQ2DnfMd0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VCRGTA2】#12 イラスト屋さん、10億までもうすぐ【火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=Qbyc_NnuBA8
+DURATION:PT2H
+DTSTART:20231221T060000Z
+SUMMARY:火威青: 【VCRGTA2】#12 イラスト屋さん、10億までもうすぐ【火威青 #hololiveDEV_IS #ReGLOSS 】
+UID:Qbyc_NnuBA8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【オフコラボ】最近うちら会いすぎじゃない？【儒烏風亭らでん/轟はじめ】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=W5AFJgFDLJg
+DURATION:PT2H
+DTSTART:20231221T103000Z
+SUMMARY:轟はじめ: 【オフコラボ】最近うちら会いすぎじゃない？【儒烏風亭らでん/轟はじめ】＃hololiveDEV_IS
+UID:W5AFJgFDLJg
 END:VEVENT
 END:VCALENDAR
