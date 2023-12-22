@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 #奏の音楽対談 】星街すいせい　先輩を招いて、ガンガン質問していくよ！【音乃瀬奏・星街すいせい】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=f7W9X4XnN84
-DURATION:PT2H
-DTSTART:20231222T110000Z
-SUMMARY:音乃瀬奏: 【 #奏の音楽対談 】星街すいせい　先輩を招いて、ガンガン質問していくよ！【音乃瀬奏・星街すいせい】#hololiveDEV_IS #ReGLOSS
-UID:f7W9X4XnN84
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【新作ゲーム発掘】本日発売！Path of the Abyssやってみる！！！【#一条莉々華/hololive DEV_IS】\nhttps://www.youtube.com/watch?v=lJGqFekaW9A
 DURATION:PT2H
 DTSTART:20231222T030000Z
@@ -18,11 +11,11 @@ SUMMARY:一条莉々華: 【新作ゲーム発掘】本日発売！Path of the A
 UID:lJGqFekaW9A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】祝！引っ越し完了【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=a64E2rBqJRY
+DESCRIPTION:【#VCRGTA】最後の挨拶！沢山のありがとうを…！✨【 #一条莉々華/ #hololiveDEV_IS #ReGLOSS】\nhttps://www.youtube.com/watch?v=XU2xLoH-MB4
 DURATION:PT2H
-DTSTART:20231222T090000Z
-SUMMARY:儒烏風亭らでん: 【雑談】祝！引っ越し完了【儒烏風亭らでん #ReGLOSS 】
-UID:a64E2rBqJRY
+DTSTART:20231222T150500Z
+SUMMARY:一条莉々華: 【#VCRGTA】最後の挨拶！沢山のありがとうを…！✨【 #一条莉々華/ #hololiveDEV_IS #ReGLOSS】
+UID:XU2xLoH-MB4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VCRGTA2】#15 最終回「僕、かっこよくなれたかな？」ありがとうピザ屋！【火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=c_Mvn3XakGQ
@@ -51,5 +44,19 @@ DURATION:PT2H
 DTSTART:20231222T060000Z
 SUMMARY:火威青: 【VCRGTA2】#14 最終日、イラスト屋さん！感謝伝えに行くぞ！【火威青 #hololiveDEV_IS #ReGLOSS 】
 UID:4ofWG22fk1M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】祝！引っ越し完了【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=a64E2rBqJRY
+DURATION:PT2H
+DTSTART:20231222T090000Z
+SUMMARY:儒烏風亭らでん: 【雑談】祝！引っ越し完了【儒烏風亭らでん #ReGLOSS 】
+UID:a64E2rBqJRY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #奏の音楽対談 】星街すいせい　先輩を招いて、ガンガン質問していくよ！【音乃瀬奏・星街すいせい】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=f7W9X4XnN84
+DURATION:PT2H
+DTSTART:20231222T110000Z
+SUMMARY:音乃瀬奏: 【 #奏の音楽対談 】星街すいせい　先輩を招いて、ガンガン質問していくよ！【音乃瀬奏・星街すいせい】#hololiveDEV_IS #ReGLOSS
+UID:f7W9X4XnN84
 END:VEVENT
 END:VCALENDAR
