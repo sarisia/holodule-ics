@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【 #奏の音楽対談 】星街すいせい　先輩を招いて、ガンガン質問していくよ！【音乃瀬奏・星街すいせい】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=f7W9X4XnN84
+DURATION:PT2H
+DTSTART:20231222T110000Z
+SUMMARY:音乃瀬奏: 【 #奏の音楽対談 】星街すいせい　先輩を招いて、ガンガン質問していくよ！【音乃瀬奏・星街すいせい】#hololiveDEV_IS #ReGLOSS
+UID:f7W9X4XnN84
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【新作ゲーム発掘】本日発売！Path of the Abyssやってみる！！！【#一条莉々華/hololive DEV_IS】\nhttps://www.youtube.com/watch?v=lJGqFekaW9A
 DURATION:PT2H
 DTSTART:20231222T030000Z
@@ -11,32 +18,11 @@ SUMMARY:一条莉々華: 【新作ゲーム発掘】本日発売！Path of the A
 UID:lJGqFekaW9A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ラジオ配信】ReGLOSS ROOM #11　12月担当：儒烏風亭らでん・轟はじめ【#リグ部屋】\nhttps://www.youtube.com/watch?v=bicJ23A5X3I
+DESCRIPTION:【雑談】祝！引っ越し完了【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=a64E2rBqJRY
 DURATION:PT2H
-DTSTART:20231221T090000Z
-SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM #11　12月担当：儒烏風亭らでん・轟はじめ【#リグ部屋】
-UID:bicJ23A5X3I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:今日のはきっと限界飯じゃない！！！！【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=h0qOiY6LGoE
-DURATION:PT2H
-DTSTART:20231221T030000Z
-SUMMARY:一条莉々華: 今日のはきっと限界飯じゃない！！！！【#一条莉々華/hololive DEV_IS ReGLOSS】
-UID:h0qOiY6LGoE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VCRGTA2】#13 イラスト屋さん、イラスト完成したのでお届け【火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=QLnOWgOxvog
-DURATION:PT2H
-DTSTART:20231221T120000Z
-SUMMARY:火威青: 【VCRGTA2】#13 イラスト屋さん、イラスト完成したのでお届け【火威青 #hololiveDEV_IS #ReGLOSS 】
-UID:QLnOWgOxvog
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【8番出口】ぼくはどこに行けばいいんだ【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=835zGQgejDE
-DURATION:PT2H
-DTSTART:20231222T110000Z
-SUMMARY:轟はじめ: 【8番出口】ぼくはどこに行けばいいんだ【轟はじめ/ReGLOSS】＃hololiveDEV_IS
-UID:835zGQgejDE
+DTSTART:20231222T090000Z
+SUMMARY:儒烏風亭らでん: 【雑談】祝！引っ越し完了【儒烏風亭らでん #ReGLOSS 】
+UID:a64E2rBqJRY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VCRGTA2】#15 最終回「僕、かっこよくなれたかな？」ありがとうピザ屋！【火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=c_Mvn3XakGQ
@@ -44,6 +30,13 @@ DURATION:PT2H
 DTSTART:20231222T115000Z
 SUMMARY:火威青: 【VCRGTA2】#15 最終回「僕、かっこよくなれたかな？」ありがとうピザ屋！【火威青 #hololiveDEV_IS #ReGLOSS 】
 UID:c_Mvn3XakGQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【8番出口】ぼくはどこに行けばいいんだ【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=835zGQgejDE
+DURATION:PT2H
+DTSTART:20231222T110000Z
+SUMMARY:轟はじめ: 【8番出口】ぼくはどこに行けばいいんだ【轟はじめ/ReGLOSS】＃hololiveDEV_IS
+UID:835zGQgejDE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】莉々華と日本酒の会～山口編～ #りりらでん酒盛 【一条莉々華/儒烏風亭らでん 】\nhttps://www.youtube.com/watch?v=_JHMLndMOdw
@@ -58,40 +51,5 @@ DURATION:PT2H
 DTSTART:20231222T060000Z
 SUMMARY:火威青: 【VCRGTA2】#14 最終日、イラスト屋さん！感謝伝えに行くぞ！【火威青 #hololiveDEV_IS #ReGLOSS 】
 UID:4ofWG22fk1M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#VCRGTA】ピザ屋に骨をうずめると決めた女✨【 #一条莉々華/ #hololiveDEV_IS #ReGLOSS】\nhttps://www.youtube.com/watch?v=XdWQ2DnfMd0
-DURATION:PT2H
-DTSTART:20231221T110000Z
-SUMMARY:一条莉々華: 【#VCRGTA】ピザ屋に骨をうずめると決めた女✨【 #一条莉々華/ #hololiveDEV_IS #ReGLOSS】
-UID:XdWQ2DnfMd0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】祝！引っ越し完了【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=a64E2rBqJRY
-DURATION:PT2H
-DTSTART:20231222T090000Z
-SUMMARY:儒烏風亭らでん: 【雑談】祝！引っ越し完了【儒烏風亭らでん #ReGLOSS 】
-UID:a64E2rBqJRY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VCRGTA2】#12 イラスト屋さん、10億までもうすぐ【火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=Qbyc_NnuBA8
-DURATION:PT2H
-DTSTART:20231221T060000Z
-SUMMARY:火威青: 【VCRGTA2】#12 イラスト屋さん、10億までもうすぐ【火威青 #hololiveDEV_IS #ReGLOSS 】
-UID:Qbyc_NnuBA8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #奏の音楽対談 】星街すいせい　先輩を招いて、ガンガン質問していくよ！【音乃瀬奏・星街すいせい】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=f7W9X4XnN84
-DURATION:PT2H
-DTSTART:20231222T110000Z
-SUMMARY:音乃瀬奏: 【 #奏の音楽対談 】星街すいせい　先輩を招いて、ガンガン質問していくよ！【音乃瀬奏・星街すいせい】#hololiveDEV_IS #ReGLOSS
-UID:f7W9X4XnN84
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【オフコラボ】最近うちら会いすぎじゃない？【儒烏風亭らでん/轟はじめ】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=W5AFJgFDLJg
-DURATION:PT2H
-DTSTART:20231221T103000Z
-SUMMARY:轟はじめ: 【オフコラボ】最近うちら会いすぎじゃない？【儒烏風亭らでん/轟はじめ】＃hololiveDEV_IS
-UID:W5AFJgFDLJg
 END:VEVENT
 END:VCALENDAR
