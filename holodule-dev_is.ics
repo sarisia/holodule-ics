@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 #ホロクリスマス歌枠リレー 】めりめり～！！🎄 奏のターン！！✨✨【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=RO5OaSqjGOc
-DURATION:PT2H
-DTSTART:20231225T100000Z
-SUMMARY:音乃瀬奏: 【 #ホロクリスマス歌枠リレー 】めりめり～！！🎄 奏のターン！！✨✨【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
-UID:RO5OaSqjGOc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】深夜の作業～！素材集め【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=lSxrMkChUcU
 DURATION:PT2H
 DTSTART:20231225T150000Z
@@ -25,11 +18,11 @@ SUMMARY:一条莉々華: 縦型配信DEランチ #Shorts
 UID:IucWkDtTgok
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【＃ホロクリスマス歌枠リレー】わいがサンタじゃ！！【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=ReoD_rk2S9s
+DESCRIPTION:【#ホロクリスマス歌枠リレー】Merry Xmas！！🎅一緒に楽しも～💕【#一条莉々華/#hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=rL1HVKEAiD8
 DURATION:PT2H
-DTSTART:20231225T062000Z
-SUMMARY:轟はじめ: 【＃ホロクリスマス歌枠リレー】わいがサンタじゃ！！【轟はじめ/ReGLOSS】＃hololiveDEV_IS
-UID:ReoD_rk2S9s
+DTSTART:20231225T050000Z
+SUMMARY:一条莉々華: 【#ホロクリスマス歌枠リレー】Merry Xmas！！🎅一緒に楽しも～💕【#一条莉々華/#hololiveDEV_IS #ReGLOSS 】
+UID:rL1HVKEAiD8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ゲリラでまったり砂利掘りの様子をお届け【儒烏風亭らでん  #ReGLOSS 】\nhttps://www.youtube.com/watch?v=gaj6xTwLcRE
@@ -39,17 +32,31 @@ SUMMARY:儒烏風亭らでん: 【Minecraft】ゲリラでまったり砂利掘�
 UID:gaj6xTwLcRE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロクリスマス歌枠リレー】Merry Xmas！！🎅一緒に楽しも～💕【#一条莉々華/#hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=rL1HVKEAiD8
-DURATION:PT2H
-DTSTART:20231225T050000Z
-SUMMARY:一条莉々華: 【#ホロクリスマス歌枠リレー】Merry Xmas！！🎅一緒に楽しも～💕【#一条莉々華/#hololiveDEV_IS #ReGLOSS 】
-UID:rL1HVKEAiD8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ホロクリスマス歌枠リレー】君と過ごす最高の時間【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=Oy4shi-hXTU
 DURATION:PT2H
 DTSTART:20231225T054000Z
 SUMMARY:火威青: 【#ホロクリスマス歌枠リレー】君と過ごす最高の時間【火威青 】#hololiveDEV_IS #ReGLOSS
 UID:Oy4shi-hXTU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【カメラ枠／手料理配信】ピザを焼き、VCRGTAを振り返る【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=xkONNolsep8
+DURATION:PT2H
+DTSTART:20231226T090000Z
+SUMMARY:火威青: 【カメラ枠／手料理配信】ピザを焼き、VCRGTAを振り返る【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:xkONNolsep8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【＃ホロクリスマス歌枠リレー】わいがサンタじゃ！！【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=ReoD_rk2S9s
+DURATION:PT2H
+DTSTART:20231225T062000Z
+SUMMARY:轟はじめ: 【＃ホロクリスマス歌枠リレー】わいがサンタじゃ！！【轟はじめ/ReGLOSS】＃hololiveDEV_IS
+UID:ReoD_rk2S9s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #ホロクリスマス歌枠リレー 】めりめり～！！🎄 奏のターン！！✨✨【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=RO5OaSqjGOc
+DURATION:PT2H
+DTSTART:20231225T100000Z
+SUMMARY:音乃瀬奏: 【 #ホロクリスマス歌枠リレー 】めりめり～！！🎄 奏のターン！！✨✨【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
+UID:RO5OaSqjGOc
 END:VEVENT
 END:VCALENDAR
