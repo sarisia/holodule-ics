@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【MEMBER'S ONLY】Movie Night! (Escape From New York - 1981)\nhttps://www.youtube.com/watch?v=CcZ41m_z_6U
+DURATION:PT2H
+DTSTART:20231228T000000Z
+SUMMARY:Calli: 【MEMBER'S ONLY】Movie Night! (Escape From New York - 1981)
+UID:CcZ41m_z_6U
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Stardew Valley】My brother's blossoming farm\nhttps://www.youtube.com/watch?v=EzMOd_D9VYQ
 DURATION:PT2H
 DTSTART:20231226T040000Z
@@ -25,11 +32,11 @@ SUMMARY:Kiara: 【SUPER MARIO ODYSSEY】Christmas Is Suffering #kfp #キアラ�
 UID:ELHW7RUo5go
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DEVIL MAY CRY 5】I NEED MORE POWER!\nhttps://www.youtube.com/watch?v=RK-JamMkPNg
+DESCRIPTION:【FUWAMOCO MORNING】episode 61 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=N-x6_8v4nnw
 DURATION:PT2H
-DTSTART:20231227T000000Z
-SUMMARY:Bijou: 【DEVIL MAY CRY 5】I NEED MORE POWER!
-UID:RK-JamMkPNg
+DTSTART:20231227T160000Z
+SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 61 🐾 #FWMCMORNING
+UID:N-x6_8v4nnw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MV】White Love／SPEED (Cover)【FUWAMOCO】\nhttps://www.youtube.com/watch?v=D8YflSQi1Vk
@@ -53,18 +60,18 @@ SUMMARY:Baelz: ≪SUPER BUNNY MAN≫ We Hoppin' w/ Pekora-senpai
 UID:rDoJ2hs-XsY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:christmas wish #shorts\nhttps://www.youtube.com/watch?v=xCf_zEPDU_w
-DURATION:PT2H
-DTSTART:20231225T053439Z
-SUMMARY:Calli: christmas wish #shorts
-UID:xCf_zEPDU_w
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【WHITE LOVE AFTERPARTY】beyond the endless clouds ❄\nhttps://www.youtube.com/watch?v=bJtJLgMV4-0
 DURATION:PT2H
 DTSTART:20231227T020000Z
 SUMMARY:FUWAMOCO: 【WHITE LOVE AFTERPARTY】beyond the endless clouds ❄
 UID:bJtJLgMV4-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEVIL MAY CRY 5】I NEED MORE POWER!\nhttps://www.youtube.com/watch?v=RK-JamMkPNg
+DURATION:PT2H
+DTSTART:20231227T000000Z
+SUMMARY:Bijou: 【DEVIL MAY CRY 5】I NEED MORE POWER!
+UID:RK-JamMkPNg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Fauna Plays Outer Wilds: Episode 2 【Feldspar】\nhttps://www.youtube.com/watch?v=YUiwPh3_DtM
@@ -95,13 +102,6 @@ SUMMARY:FUWAMOCO: 【SUPERCHAT READING】presents from the ruffians 🐾✨
 UID:_JIgyPc-068
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Fauna Plays Outer Wilds: Episode 1 【Jumbo Marshmallow】\nhttps://www.youtube.com/watch?v=SbPP1i6INPk
-DURATION:PT2H
-DTSTART:20231224T230000Z
-SUMMARY:Fauna: Fauna Plays Outer Wilds: Episode 1 【Jumbo Marshmallow】
-UID:SbPP1i6INPk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Passpartout 2】Bzzzzzzzzzzzzzz\nhttps://www.youtube.com/watch?v=ZSCc57ZkRs8
 DURATION:PT2H
 DTSTART:20231226T040000Z
@@ -123,13 +123,6 @@ SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】christmas edition 🎄🐾 #FWMCMORNING
 UID:ddeU_2d6pjA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#takornament】 Tis the Season of Cookies\nhttps://www.youtube.com/watch?v=4qqPCsfd32I
-DURATION:PT2H
-DTSTART:20231224T220000Z
-SUMMARY:Ina: 【#takornament】 Tis the Season of Cookies
-UID:4qqPCsfd32I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DIE HARD WATCHALONG】All I want for Christmas is VIOLENCE\nhttps://www.youtube.com/watch?v=cqviGnoqjPE
 DURATION:PT2H
 DTSTART:20231226T000000Z
@@ -137,24 +130,10 @@ SUMMARY:Bijou: 【DIE HARD WATCHALONG】All I want for Christmas is VIOLENCE
 UID:cqviGnoqjPE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【CHRISTMAS EVE WITH YOU】our first christmas together 💕🐾【CHOOSE YOUR ADVENTURE】\nhttps://www.youtube.com/watch?v=2_4aN1SOKYI
-DURATION:PT2H
-DTSTART:20231225T020000Z
-SUMMARY:FUWAMOCO: 【CHRISTMAS EVE WITH YOU】our first christmas together 💕🐾【CHOOSE YOUR ADVENTURE】
-UID:2_4aN1SOKYI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【INA INA KITCHEN】 LET THERE BE STRAWBERRIES\nhttps://www.youtube.com/watch?v=ZllNlE5RMLM
 DURATION:PT2H
 DTSTART:20231225T220000Z
 SUMMARY:Ina: 【INA INA KITCHEN】 LET THERE BE STRAWBERRIES
 UID:ZllNlE5RMLM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Whisper Whisper Whisper (full MV from link)  #shorts  #music  #歌ってみた\nhttps://www.youtube.com/watch?v=1OclONqXcQc
-DURATION:PT2H
-DTSTART:20231225T120001Z
-SUMMARY:Shiori: Whisper Whisper Whisper (full MV from link)  #shorts  #music  #歌ってみた
-UID:1OclONqXcQc
 END:VEVENT
 END:VCALENDAR
