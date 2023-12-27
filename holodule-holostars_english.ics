@@ -4,18 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Lethal Company】GREAT ASSet\nhttps://www.youtube.com/watch?v=bNGZmGRFVP0
-DURATION:PT2H
-DTSTART:20231228T000000Z
-SUMMARY:Shinri: 【Lethal Company】GREAT ASSet
-UID:bNGZmGRFVP0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[Zatsudan] THE ROAD AHEAD #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=Fn0sBliewWU
 DURATION:PT2H
 DTSTART:20231227T220000Z
 SUMMARY:Bettel: [Zatsudan] THE ROAD AHEAD #gavisbettel #holotempus
 UID:Fn0sBliewWU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Onion Bite of 27\nhttps://www.youtube.com/watch?v=YBGirOCY-AU
+DURATION:PT2H
+DTSTART:20231227T040000Z
+SUMMARY:Jurard: The Onion Bite of 27
+UID:YBGirOCY-AU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Lethal Company】GREAT ASSet\nhttps://www.youtube.com/watch?v=bNGZmGRFVP0
+DURATION:PT2H
+DTSTART:20231228T000000Z
+SUMMARY:Shinri: 【Lethal Company】GREAT ASSet
+UID:bNGZmGRFVP0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[Like a Dragon Gaiden] WILL I GET A NEW NAME? [ENDING SPOILERS] #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=09SLyJw_9l4
@@ -44,13 +51,6 @@ DURATION:PT2H
 DTSTART:20231227T190000Z
 SUMMARY:Crimzon: 【WORLD OF WARCRAFT: HARDCORE】Goodbye Durotar
 UID:vuZ2Jo0Ipus
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Onion Bite of 27\nhttps://www.youtube.com/watch?v=YBGirOCY-AU
-DURATION:PT2H
-DTSTART:20231227T040000Z
-SUMMARY:Jurard: The Onion Bite of 27
-UID:YBGirOCY-AU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[LETHAL COMPANY] PLEASE GET ME OFF THIS ROCK w/ @RegisAltare @AxelSyrios  @JosuijiShinri\nhttps://www.youtube.com/watch?v=nXraR81pN0E
@@ -93,6 +93,13 @@ DURATION:PT2H
 DTSTART:20231228T000000Z
 SUMMARY:Altare: 【🔩LETHAL COMPANY🔩】Carrying my Guildmates (bodies) to next quota!!!
 UID:LVmnkJaLFP0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【LETHAL COMPANY】I will sacrifice everyone for my own life\nhttps://www.youtube.com/watch?v=EEoO3jQsHc8
+DURATION:PT2H
+DTSTART:20231228T000000Z
+SUMMARY:Syrios: 【LETHAL COMPANY】I will sacrifice everyone for my own life
+UID:EEoO3jQsHc8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MOTHER SIMULATOR】Octavio beats the baby allegations!\nhttps://www.youtube.com/watch?v=1JUf_oyvbKY
