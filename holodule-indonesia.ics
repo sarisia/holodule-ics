@@ -4,48 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Mr.Bottle and his dream】a bottle and a dream【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=2w2AKxLOiqU
-DURATION:PT2H
-DTSTART:20231229T151500Z
-SUMMARY:Kaela: 【Mr.Bottle and his dream】a bottle and a dream【Kaela Kovalskia / hololiveID】
-UID:2w2AKxLOiqU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Identity V】Kejar Kejaran Bersama Bestie【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=MXZWPcMKv4s
-DURATION:PT2H
-DTSTART:20231228T090000Z
-SUMMARY:🎨Iofi: 【 Identity V】Kejar Kejaran Bersama Bestie【 iofi / hololiveID 】
-UID:MXZWPcMKv4s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Grounded 】SURVIVAAAAAAAAALLLLLLLLLL【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=xcxUiw_CYoE
-DURATION:PT2H
-DTSTART:20231228T130000Z
-SUMMARY:🎨Iofi: 【 Grounded 】SURVIVAAAAAAAAALLLLLLLLLL【 iofi / hololiveID 】
-UID:xcxUiw_CYoE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【IDENTITY V】AHAHA~ TANGKAP KAMI KALAU BISA~【Hololive ID 2nd Generation】q\nhttps://www.youtube.com/watch?v=3jdaFuIQnfs
-DURATION:PT2H
-DTSTART:20231228T090039Z
-SUMMARY:Ollie: 【IDENTITY V】AHAHA~ TANGKAP KAMI KALAU BISA~【Hololive ID 2nd Generation】q
-UID:3jdaFuIQnfs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Lethal Company】GREAT GREAT ASSET GREAT GREAT ASSET【hololive】\nhttps://www.youtube.com/watch?v=-EG5OuF9YRI
-DURATION:PT2H
-DTSTART:20231227T230000Z
-SUMMARY:Kaela: 【Lethal Company】GREAT GREAT ASSET GREAT GREAT ASSET【hololive】
-UID:-EG5OuF9YRI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【GROUNDED】TELAT DIKIT GAPAPA LAH YA【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=YABAx2nkII4
-DURATION:PT2H
-DTSTART:20231228T135210Z
-SUMMARY:Ollie: 【GROUNDED】TELAT DIKIT GAPAPA LAH YA【Hololive ID 2nd Generation】
-UID:YABAx2nkII4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【holoearth】Let's trying out holoearth!!!【holoID】\nhttps://www.youtube.com/watch?v=Wps_xAAnFic
 DURATION:PT2H
 DTSTART:20231229T070000Z
@@ -53,11 +11,18 @@ SUMMARY:🔮Moona: 【holoearth】Let's trying out holoearth!!!【holoID】
 UID:Wps_xAAnFic
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Grounded】AREA15.1 THE ADVENDTURE BEGIN!【holoID】\nhttps://www.youtube.com/watch?v=YH9ZfEIY1kM
+DESCRIPTION:【HoloParade ホロパレード】Let The (Gacha) Parade Begin! 初見プレイでパレード行きますよ〜！【hololive ID | Anya Melfissa】\nhttps://www.youtube.com/watch?v=Vm9rOStcWnI
 DURATION:PT2H
-DTSTART:20231228T130000Z
-SUMMARY:🔮Moona: 【Grounded】AREA15.1 THE ADVENDTURE BEGIN!【holoID】
-UID:YH9ZfEIY1kM
+DTSTART:20231229T130000Z
+SUMMARY:Anya: 【HoloParade ホロパレード】Let The (Gacha) Parade Begin! 初見プレイでパレード行きますよ〜！【hololive ID | Anya Melfissa】
+UID:Vm9rOStcWnI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Mr.Bottle and his dream】a bottle and a dream【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=2w2AKxLOiqU
+DURATION:PT2H
+DTSTART:20231229T152500Z
+SUMMARY:Kaela: 【Mr.Bottle and his dream】a bottle and a dream【Kaela Kovalskia / hololiveID】
+UID:2w2AKxLOiqU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Cardfight!! Vanguard Dear Days】STAND UP! With Little Sis【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=h6RAatUIOZE
@@ -65,19 +30,5 @@ DURATION:PT2H
 DTSTART:20231229T100000Z
 SUMMARY:🎨Iofi: 【Cardfight!! Vanguard Dear Days】STAND UP! With Little Sis【 iofi / hololiveID 】
 UID:h6RAatUIOZE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【AREA15.1】WE ARE BUGS ???? TTT-TTT【Ayunda Risu】\nhttps://www.youtube.com/watch?v=GdR9I6Qsg1k
-DURATION:PT2H
-DTSTART:20231228T130000Z
-SUMMARY:🐿Risu: 【AREA15.1】WE ARE BUGS ???? TTT-TTT【Ayunda Risu】
-UID:GdR9I6Qsg1k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HoloParade ホロパレード】Let The (Gacha) Parade Begin! 初見プレイでパレード行きますよ〜！【hololive ID | Anya Melfissa】\nhttps://www.youtube.com/watch?v=Vm9rOStcWnI
-DURATION:PT2H
-DTSTART:20231229T130000Z
-SUMMARY:Anya: 【HoloParade ホロパレード】Let The (Gacha) Parade Begin! 初見プレイでパレード行きますよ〜！【hololive ID | Anya Melfissa】
-UID:Vm9rOStcWnI
 END:VEVENT
 END:VCALENDAR
