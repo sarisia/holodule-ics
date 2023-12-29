@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Grounded】AREA15.1 THE ADVENDTURE BEGIN!【holoID】\nhttps://www.youtube.com/watch?v=YH9ZfEIY1kM
-DURATION:PT2H
-DTSTART:20231228T130000Z
-SUMMARY:🔮Moona: 【Grounded】AREA15.1 THE ADVENDTURE BEGIN!【holoID】
-UID:YH9ZfEIY1kM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 Identity V】Kejar Kejaran Bersama Bestie【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=MXZWPcMKv4s
 DURATION:PT2H
 DTSTART:20231228T090000Z
@@ -25,11 +18,11 @@ SUMMARY:🎨Iofi: 【 Grounded 】SURVIVAAAAAAAAALLLLLLLLLL【 iofi / hololiveID
 UID:xcxUiw_CYoE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【AREA15.1】WE ARE BUGS ???? TTT-TTT【Ayunda Risu】\nhttps://www.youtube.com/watch?v=GdR9I6Qsg1k
+DESCRIPTION:【IDENTITY V】AHAHA~ TANGKAP KAMI KALAU BISA~【Hololive ID 2nd Generation】q\nhttps://www.youtube.com/watch?v=3jdaFuIQnfs
 DURATION:PT2H
-DTSTART:20231228T130000Z
-SUMMARY:🐿Risu: 【AREA15.1】WE ARE BUGS ???? TTT-TTT【Ayunda Risu】
-UID:GdR9I6Qsg1k
+DTSTART:20231228T090039Z
+SUMMARY:Ollie: 【IDENTITY V】AHAHA~ TANGKAP KAMI KALAU BISA~【Hololive ID 2nd Generation】q
+UID:3jdaFuIQnfs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Lethal Company】GREAT GREAT ASSET GREAT GREAT ASSET【hololive】\nhttps://www.youtube.com/watch?v=-EG5OuF9YRI
@@ -39,17 +32,31 @@ SUMMARY:Kaela: 【Lethal Company】GREAT GREAT ASSET GREAT GREAT ASSET【hololiv
 UID:-EG5OuF9YRI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【IDENTITY V】AHAHA~ TANGKAP KAMI KALAU BISA~【Hololive ID 2nd Generation】q\nhttps://www.youtube.com/watch?v=3jdaFuIQnfs
-DURATION:PT2H
-DTSTART:20231228T090039Z
-SUMMARY:Ollie: 【IDENTITY V】AHAHA~ TANGKAP KAMI KALAU BISA~【Hololive ID 2nd Generation】q
-UID:3jdaFuIQnfs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【GROUNDED】TELAT DIKIT GAPAPA LAH YA【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=YABAx2nkII4
 DURATION:PT2H
 DTSTART:20231228T135210Z
 SUMMARY:Ollie: 【GROUNDED】TELAT DIKIT GAPAPA LAH YA【Hololive ID 2nd Generation】
 UID:YABAx2nkII4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【holoearth】Let's trying out holoearth!!!【holoID】\nhttps://www.youtube.com/watch?v=Wps_xAAnFic
+DURATION:PT2H
+DTSTART:20231229T070000Z
+SUMMARY:🔮Moona: 【holoearth】Let's trying out holoearth!!!【holoID】
+UID:Wps_xAAnFic
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Grounded】AREA15.1 THE ADVENDTURE BEGIN!【holoID】\nhttps://www.youtube.com/watch?v=YH9ZfEIY1kM
+DURATION:PT2H
+DTSTART:20231228T130000Z
+SUMMARY:🔮Moona: 【Grounded】AREA15.1 THE ADVENDTURE BEGIN!【holoID】
+UID:YH9ZfEIY1kM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【AREA15.1】WE ARE BUGS ???? TTT-TTT【Ayunda Risu】\nhttps://www.youtube.com/watch?v=GdR9I6Qsg1k
+DURATION:PT2H
+DTSTART:20231228T130000Z
+SUMMARY:🐿Risu: 【AREA15.1】WE ARE BUGS ???? TTT-TTT【Ayunda Risu】
+UID:GdR9I6Qsg1k
 END:VEVENT
 END:VCALENDAR
