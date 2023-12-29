@@ -242,18 +242,18 @@ SUMMARY:🐏角巻わため: 【メンバー限定/MemberOnly】3D Special show�
 UID:DpzoN7E42Qo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#あさモコLIVE】ASAMOCO LIVE NEWS！12/29 🐾【#FUWAMOCO】\nhttps://www.youtube.com/watch?v=2LBUGKmvebc
-DURATION:PT2H
-DTSTART:20231229T160000Z
-SUMMARY:FUWAMOCO: 【#あさモコLIVE】ASAMOCO LIVE NEWS！12/29 🐾【#FUWAMOCO】
-UID:2LBUGKmvebc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【アソビ大全】なんかはあちゃま先輩きた(オフコラボ)【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=-N229ecOjyk
 DURATION:PT2H
 DTSTART:20231229T130000Z
 SUMMARY:轟はじめ: 【アソビ大全】なんかはあちゃま先輩きた(オフコラボ)【轟はじめ/ReGLOSS】＃hololiveDEV_IS
 UID:-N229ecOjyk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#あさモコLIVE】ASAMOCO LIVE NEWS！12/29 🐾【#FUWAMOCO】\nhttps://www.youtube.com/watch?v=2LBUGKmvebc
+DURATION:PT2H
+DTSTART:20231229T160000Z
+SUMMARY:FUWAMOCO: 【#あさモコLIVE】ASAMOCO LIVE NEWS！12/29 🐾【#FUWAMOCO】
+UID:2LBUGKmvebc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】話題募集するタイプの縦型雑談【荒咬オウガ/ホロスターズ】#shorts\nhttps://www.youtube.com/watch?v=7z_nj7m9Gsw
@@ -296,13 +296,6 @@ DURATION:PT2H
 DTSTART:20231229T130000Z
 SUMMARY:🌸さくらみこ: 【 The Outlast Trials 】フブみこさん再び治験―💉BAN男とのリベンジを果たす、、、にぇ！！！！！【ホロライブ/さくらみこ】
 UID:RnxfdxL6I-U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 REBROADCAST 】UnArchived Karaoke Last of 2023!\nhttps://www.youtube.com/watch?v=smc6cEl8Gkw
-DURATION:PT2H
-DTSTART:20231229T120000Z
-SUMMARY:Flayon: 【 REBROADCAST 】UnArchived Karaoke Last of 2023!
-UID:smc6cEl8Gkw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】2023年最後の歌枠だ～！！！告知もあり！？【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=jgVm_0EBsmQ
@@ -499,6 +492,13 @@ DURATION:PT2H
 DTSTART:20231229T140000Z
 SUMMARY:儒烏風亭らでん: 【#らでんのラジオ メンバー限定版】延長！らでんのラジオ旅の話とかもやりつつ【儒烏風亭らでん #ReGLOSS 】
 UID:9cnAs-jlhiY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【配信予定地】あずちゃんポルちゃんコラボ予定地【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=wAvBwPTaUZY
+DURATION:PT2H
+DTSTART:20231230T120000Z
+SUMMARY:💫天音かなた: 【配信予定地】あずちゃんポルちゃんコラボ予定地【天音かなた/ホロライブ】
+UID:wAvBwPTaUZY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【メン限】VIP会員限定歌枠二次会！！！！【#緋崎ガンマ / #ホロスターズ / #vtuber 】\nhttps://www.youtube.com/watch?v=HeA2N0BPWo4
