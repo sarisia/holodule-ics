@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Exit 8】How do I get out of here?🎼\nhttps://www.youtube.com/watch?v=CmEXiXq76NQ
-DURATION:PT2H
-DTSTART:20231231T010000Z
-SUMMARY:Nerissa: 【Exit 8】How do I get out of here?🎼
-UID:CmEXiXq76NQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【日本語雑談 JAPANESE CHATTING】FUWAMOCOの2023年はどんな1年だった？！Q&A質問会 🐾\nhttps://www.youtube.com/watch?v=y3vwI3DuYdA
 DURATION:PT2H
 DTSTART:20231231T110000Z
 SUMMARY:FUWAMOCO: 【日本語雑談 JAPANESE CHATTING】FUWAMOCOの2023年はどんな1年だった？！Q&A質問会 🐾
 UID:y3vwI3DuYdA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪#ホロライブカウントダウン2023≫ COUNTDOWN LIVE WATCHALONG w/ DRINKS!!!\nhttps://www.youtube.com/watch?v=9Q9GCpJTUT0
-DURATION:PT2H
-DTSTART:20231231T133000Z
-SUMMARY:Baelz: ≪#ホロライブカウントダウン2023≫ COUNTDOWN LIVE WATCHALONG w/ DRINKS!!!
-UID:9Q9GCpJTUT0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪NY KARAOKE≫ Singing until Dawn 2024\nhttps://www.youtube.com/watch?v=qKZs5UZONNs
@@ -32,13 +18,6 @@ SUMMARY:Baelz: ≪NY KARAOKE≫ Singing until Dawn 2024
 UID:qKZs5UZONNs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Fauna Plays Outer Wilds: Episode 7 【Binary】\nhttps://www.youtube.com/watch?v=eFiFDfduq6A
-DURATION:PT2H
-DTSTART:20231230T230000Z
-SUMMARY:Fauna: Fauna Plays Outer Wilds: Episode 7 【Binary】
-UID:eFiFDfduq6A
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Fallout: NV】NEW YEARS EVE EXPLOSION EDITON\nhttps://www.youtube.com/watch?v=NkRm8HbEIFQ
 DURATION:PT2H
 DTSTART:20240101T030000Z
@@ -46,11 +25,11 @@ SUMMARY:Amelia: 【Fallout: NV】NEW YEARS EVE EXPLOSION EDITON
 UID:NkRm8HbEIFQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Mario Kart 8 Deluxe】THE TRAINING ARC\nhttps://www.youtube.com/watch?v=uPtNL3HBdP4
+DESCRIPTION:Fauna Plays Outer Wilds: Episode 7 【Binary】\nhttps://www.youtube.com/watch?v=eFiFDfduq6A
 DURATION:PT2H
-DTSTART:20231231T040000Z
-SUMMARY:IRyS: 【Mario Kart 8 Deluxe】THE TRAINING ARC
-UID:uPtNL3HBdP4
+DTSTART:20231230T230000Z
+SUMMARY:Fauna: Fauna Plays Outer Wilds: Episode 7 【Binary】
+UID:eFiFDfduq6A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【CLOTHES FOR ADVENT】Ina & Wawa Outfit Design! Judged by Shiori & Nerissa #kfp #キアライブ\nhttps://www.youtube.com/watch?v=nkXQd7R0B8w
@@ -60,18 +39,18 @@ SUMMARY:Kiara: 【CLOTHES FOR ADVENT】Ina & Wawa Outfit Design! Judged by Shior
 UID:nkXQd7R0B8w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【12 HOURS NEW YEARS EVE PARTY】MARIO KART 8 DELUXE【PART 1】\nhttps://www.youtube.com/watch?v=uT3SzWosy3g
-DURATION:PT2H
-DTSTART:20231231T200000Z
-SUMMARY:Bijou: 【12 HOURS NEW YEARS EVE PARTY】MARIO KART 8 DELUXE【PART 1】
-UID:uT3SzWosy3g
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【NEW YEAR'S PARTY】2024 Has Come! It's the Year of the Reaper!\nhttps://www.youtube.com/watch?v=m7AlIYEls3Y
 DURATION:PT2H
 DTSTART:20240101T070000Z
 SUMMARY:Calli: 【NEW YEAR'S PARTY】2024 Has Come! It's the Year of the Reaper!
 UID:m7AlIYEls3Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Members Only】Fairytale Reading: Year's Some Story For You\nhttps://www.youtube.com/watch?v=KmLdWKh4agI
+DURATION:PT2H
+DTSTART:20231231T020000Z
+SUMMARY:Kronii: 【Members Only】Fairytale Reading: Year's Some Story For You
+UID:KmLdWKh4agI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪YAKUZA 0≫ Who is Kiryuu #7【SPOILER WARNING】\nhttps://www.youtube.com/watch?v=LOBjPqM-AU4
@@ -81,11 +60,39 @@ SUMMARY:Baelz: ≪YAKUZA 0≫ Who is Kiryuu #7【SPOILER WARNING】
 UID:LOBjPqM-AU4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Members Only】Fairytale Reading: Year's Some Story For You\nhttps://www.youtube.com/watch?v=KmLdWKh4agI
+DESCRIPTION:【Exit 8】How do I get out of here?🎼\nhttps://www.youtube.com/watch?v=CmEXiXq76NQ
 DURATION:PT2H
-DTSTART:20231231T020000Z
-SUMMARY:Kronii: 【Members Only】Fairytale Reading: Year's Some Story For You
-UID:KmLdWKh4agI
+DTSTART:20231231T010000Z
+SUMMARY:Nerissa: 【Exit 8】How do I get out of here?🎼
+UID:CmEXiXq76NQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪#ホロライブカウントダウン2023≫ COUNTDOWN LIVE WATCHALONG w/ DRINKS!!!\nhttps://www.youtube.com/watch?v=9Q9GCpJTUT0
+DURATION:PT2H
+DTSTART:20231231T133000Z
+SUMMARY:Baelz: ≪#ホロライブカウントダウン2023≫ COUNTDOWN LIVE WATCHALONG w/ DRINKS!!!
+UID:9Q9GCpJTUT0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Mario Kart 8 Deluxe】THE TRAINING ARC\nhttps://www.youtube.com/watch?v=uPtNL3HBdP4
+DURATION:PT2H
+DTSTART:20231231T040000Z
+SUMMARY:IRyS: 【Mario Kart 8 Deluxe】THE TRAINING ARC
+UID:uPtNL3HBdP4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【NEW YEAR KARAOKE】Vertical Singing in 2024!!\nhttps://www.youtube.com/watch?v=EVPIeK-Qy0M
+DURATION:PT2H
+DTSTART:20231231T170000Z
+SUMMARY:IRyS: 【NEW YEAR KARAOKE】Vertical Singing in 2024!!
+UID:EVPIeK-Qy0M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【12 HOURS NEW YEARS EVE PARTY】MARIO KART 8 DELUXE【PART 1】\nhttps://www.youtube.com/watch?v=uT3SzWosy3g
+DURATION:PT2H
+DTSTART:20231231T200000Z
+SUMMARY:Bijou: 【12 HOURS NEW YEARS EVE PARTY】MARIO KART 8 DELUXE【PART 1】
+UID:uT3SzWosy3g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【hololive COUNTDOWN LIVE WATCHALONG】is this a dream or is this real life? 🐾\nhttps://www.youtube.com/watch?v=-ZfOE9WnEFw
