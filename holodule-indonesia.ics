@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【VERTICAL STREAMING】FREETALK!! OR FREECHAT?? WAH NGOBROL GRATIS!! #VTuber #shorts #ホロライブ #hololive\nhttps://www.youtube.com/watch?v=vrMNZDO9-HY
-DURATION:PT2H
-DTSTART:20231230T090000Z
-SUMMARY:Ollie: 【VERTICAL STREAMING】FREETALK!! OR FREECHAT?? WAH NGOBROL GRATIS!! #VTuber #shorts #ホロライブ #hololive
-UID:vrMNZDO9-HY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【AREA15】Countdown Watchalong and .... ?【holoID】\nhttps://www.youtube.com/watch?v=gWj8OfDp_PM
-DURATION:PT2H
-DTSTART:20231231T133000Z
-SUMMARY:🔮Moona: 【AREA15】Countdown Watchalong and .... ?【holoID】
-UID:gWj8OfDp_PM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Mr.Bottle and his dream】a bottle and a dream【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=2w2AKxLOiqU
 DURATION:PT2H
 DTSTART:20231229T152500Z
@@ -51,5 +37,26 @@ DURATION:PT2H
 DTSTART:20231230T110048Z
 SUMMARY:IDholo: #KelurahanholoID 8 - Rental Pe Es #moonahoshinova #holoID #hololiveIndonesia @MoonaHoshinova
 UID:TUdRJ8UGqgU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Thief Simulator 】Last Loot for 2023【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=8h6V28k2FSc
+DURATION:PT2H
+DTSTART:20231231T100000Z
+SUMMARY:🎨Iofi: 【 Thief Simulator 】Last Loot for 2023【 iofi / hololiveID 】
+UID:8h6V28k2FSc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VERTICAL STREAMING】FREETALK!! OR FREECHAT?? WAH NGOBROL GRATIS!! #VTuber #shorts #ホロライブ #hololive\nhttps://www.youtube.com/watch?v=vrMNZDO9-HY
+DURATION:PT2H
+DTSTART:20231230T090000Z
+SUMMARY:Ollie: 【VERTICAL STREAMING】FREETALK!! OR FREECHAT?? WAH NGOBROL GRATIS!! #VTuber #shorts #ホロライブ #hololive
+UID:vrMNZDO9-HY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【AREA15】Countdown Watchalong and .... ?【holoID】\nhttps://www.youtube.com/watch?v=gWj8OfDp_PM
+DURATION:PT2H
+DTSTART:20231231T133000Z
+SUMMARY:🔮Moona: 【AREA15】Countdown Watchalong and .... ?【holoID】
+UID:gWj8OfDp_PM
 END:VEVENT
 END:VCALENDAR
