@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Exit 8】How do I get out of here?🎼\nhttps://www.youtube.com/watch?v=CmEXiXq76NQ
+DESCRIPTION:【日本語雑談 JAPANESE CHATTING】FUWAMOCOの2023年はどんな1年だった？！Q&A質問会 🐾\nhttps://www.youtube.com/watch?v=y3vwI3DuYdA
 DURATION:PT2H
-DTSTART:20231231T010000Z
-SUMMARY:Nerissa: 【Exit 8】How do I get out of here?🎼
-UID:CmEXiXq76NQ
+DTSTART:20231231T110000Z
+SUMMARY:FUWAMOCO: 【日本語雑談 JAPANESE CHATTING】FUWAMOCOの2023年はどんな1年だった？！Q&A質問会 🐾
+UID:y3vwI3DuYdA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Fallout: NV】NEW YEARS EVE EXPLOSION EDITON\nhttps://www.youtube.com/watch?v=NkRm8HbEIFQ
+DURATION:PT2H
+DTSTART:20240101T030000Z
+SUMMARY:Amelia: 【Fallout: NV】NEW YEARS EVE EXPLOSION EDITON
+UID:NkRm8HbEIFQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ADVENT COLLAB】time to say goodbye to 2023 🐾 #holoAdvent\nhttps://www.youtube.com/watch?v=63je6O_O6b8
@@ -25,20 +32,6 @@ SUMMARY:Fauna: Fauna Plays Outer Wilds: Episode 7 【Binary】
 UID:eFiFDfduq6A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Fauna Plays Outer Wilds: Episode 6 【Caves】\nhttps://www.youtube.com/watch?v=Qvl2Rm18yRg
-DURATION:PT2H
-DTSTART:20231229T230000Z
-SUMMARY:Fauna: Fauna Plays Outer Wilds: Episode 6 【Caves】
-UID:Qvl2Rm18yRg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Mario Kart 8 Deluxe】THE TRAINING ARC\nhttps://www.youtube.com/watch?v=uPtNL3HBdP4
-DURATION:PT2H
-DTSTART:20231231T040000Z
-SUMMARY:IRyS: 【Mario Kart 8 Deluxe】THE TRAINING ARC
-UID:uPtNL3HBdP4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【CLOTHES FOR ADVENT】Ina & Wawa Outfit Design! Judged by Shiori & Nerissa #kfp #キアライブ\nhttps://www.youtube.com/watch?v=nkXQd7R0B8w
 DURATION:PT2H
 DTSTART:20231230T210000Z
@@ -53,18 +46,18 @@ SUMMARY:FUWAMOCO: 【#あさモコLIVE】ASAMOCO LIVE NEWS！12/29 🐾【#FUWAM
 UID:2LBUGKmvebc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SUPER MARIO ODYSSEY】I'm actually enjoying this #kfp #キアライブ\nhttps://www.youtube.com/watch?v=XowpLz9C8H4
-DURATION:PT2H
-DTSTART:20231229T170000Z
-SUMMARY:Kiara: 【SUPER MARIO ODYSSEY】I'm actually enjoying this #kfp #キアライブ
-UID:XowpLz9C8H4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Fate/Samurai Remnant】 EVEN MORE CATTO 【#4】 ⚠SPOILER WARNING\nhttps://www.youtube.com/watch?v=jqCTepfTaHs
 DURATION:PT2H
 DTSTART:20231229T220000Z
 SUMMARY:Ina: 【Fate/Samurai Remnant】 EVEN MORE CATTO 【#4】 ⚠SPOILER WARNING
 UID:jqCTepfTaHs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【LETHAL COMPANY】fatal corporation with @OuroKronii\nhttps://www.youtube.com/watch?v=OW9vbxmryhE
+DURATION:PT2H
+DTSTART:20231230T030000Z
+SUMMARY:Calli: 【LETHAL COMPANY】fatal corporation with @OuroKronii
+UID:OW9vbxmryhE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪YAKUZA 0≫ Who is Kiryuu #7【SPOILER WARNING】\nhttps://www.youtube.com/watch?v=LOBjPqM-AU4
@@ -74,11 +67,32 @@ SUMMARY:Baelz: ≪YAKUZA 0≫ Who is Kiryuu #7【SPOILER WARNING】
 UID:LOBjPqM-AU4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【LETHAL COMPANY】fatal corporation with @OuroKronii\nhttps://www.youtube.com/watch?v=OW9vbxmryhE
+DESCRIPTION:【Exit 8】How do I get out of here?🎼\nhttps://www.youtube.com/watch?v=CmEXiXq76NQ
 DURATION:PT2H
-DTSTART:20231230T030000Z
-SUMMARY:Calli: 【LETHAL COMPANY】fatal corporation with @OuroKronii
-UID:OW9vbxmryhE
+DTSTART:20231231T010000Z
+SUMMARY:Nerissa: 【Exit 8】How do I get out of here?🎼
+UID:CmEXiXq76NQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fauna Plays Outer Wilds: Episode 6 【Caves】\nhttps://www.youtube.com/watch?v=Qvl2Rm18yRg
+DURATION:PT2H
+DTSTART:20231229T230000Z
+SUMMARY:Fauna: Fauna Plays Outer Wilds: Episode 6 【Caves】
+UID:Qvl2Rm18yRg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Mario Kart 8 Deluxe】THE TRAINING ARC\nhttps://www.youtube.com/watch?v=uPtNL3HBdP4
+DURATION:PT2H
+DTSTART:20231231T040000Z
+SUMMARY:IRyS: 【Mario Kart 8 Deluxe】THE TRAINING ARC
+UID:uPtNL3HBdP4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SUPER MARIO ODYSSEY】I'm actually enjoying this #kfp #キアライブ\nhttps://www.youtube.com/watch?v=XowpLz9C8H4
+DURATION:PT2H
+DTSTART:20231229T170000Z
+SUMMARY:Kiara: 【SUPER MARIO ODYSSEY】I'm actually enjoying this #kfp #キアライブ
+UID:XowpLz9C8H4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:chin #shorts\nhttps://www.youtube.com/watch?v=4rFL1dSxtkg
