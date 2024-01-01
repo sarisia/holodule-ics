@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【hololiveID】MMM : Malas Malas Monday NEW YEAR EDITION (no changes) 【Ayunda Risu】\nhttps://www.youtube.com/watch?v=IZYMexecu24
-DURATION:PT2H
-DTSTART:20240101T053000Z
-SUMMARY:🐿Risu: 【hololiveID】MMM : Malas Malas Monday NEW YEAR EDITION (no changes) 【Ayunda Risu】
-UID:IZYMexecu24
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Lethal Company】2024 FIRST COMPANY MISSION【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=bSS82wlWpZo
 DURATION:PT2H
 DTSTART:20231231T203000Z
@@ -25,25 +18,11 @@ SUMMARY:🎨Iofi: 【Senin Produktif】Gambar Pertama 2024!【 iofi / hololiveID
 UID:avnHcWw5zoc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Freetalk】COUNTDOWN TO 2024. 60595857561...0【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=YEqg-NQAJUU
-DURATION:PT2H
-DTSTART:20231231T160000Z
-SUMMARY:Kaela: 【Freetalk】COUNTDOWN TO 2024. 60595857561...0【Kaela Kovalskia / hololiveID】
-UID:YEqg-NQAJUU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【WATCHALONG】COUNTDOWN CONCERTS BACK TO BACK!! HOLOLIVE AND HOLOSTARS!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=mAuxhwO_Vrw
 DURATION:PT2H
 DTSTART:20231231T134735Z
 SUMMARY:Ollie: 【WATCHALONG】COUNTDOWN CONCERTS BACK TO BACK!! HOLOLIVE AND HOLOSTARS!!【Hololive Indonesia 2nd Gen】
 UID:mAuxhwO_Vrw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Lethal Company】oh it's been a year since the last collab 🤔【Kaela & Anya / hololiveID】\nhttps://www.youtube.com/watch?v=raOf7F-JoUI
-DURATION:PT2H
-DTSTART:20231231T203000Z
-SUMMARY:Kaela: 【Lethal Company】oh it's been a year since the last collab 🤔【Kaela & Anya / hololiveID】
-UID:raOf7F-JoUI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【NEW YEAR 2025】New year\, new trolling! We live in the future! 【Countdown & BINGO】#hololive #shorts\nhttps://www.youtube.com/watch?v=xitzx3Aaf3Y
@@ -58,13 +37,6 @@ DURATION:PT2H
 DTSTART:20231231T160000Z
 SUMMARY:🐿Risu: 【FIREWORKS MANIA】LET'S END THE YEAR WITH FIREWORKS and chit-chat【hololiveID】
 UID:OAOt2MRmfTQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Thief Simulator 】Last Loot for 2023【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=8h6V28k2FSc
-DURATION:PT2H
-DTSTART:20231231T100000Z
-SUMMARY:🎨Iofi: 【 Thief Simulator 】Last Loot for 2023【 iofi / hololiveID 】
-UID:8h6V28k2FSc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Donation Reading】LAST DONATION READING THIS YEAR【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=Q-JrO-z-X9U
@@ -88,6 +60,48 @@ SUMMARY:Kaela: 【PEJUANG SENIN】#64 HAPPY NEW YEAR SPECIAL EDITION✨🎆【Ka
 UID:St4V60a3cec
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Freetalk】COUNTDOWN TO 2024. 60595857561...0【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=YEqg-NQAJUU
+DURATION:PT2H
+DTSTART:20231231T160000Z
+SUMMARY:Kaela: 【Freetalk】COUNTDOWN TO 2024. 60595857561...0【Kaela Kovalskia / hololiveID】
+UID:YEqg-NQAJUU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【holopro COUNTDOWN LIVE 2023 WATCHALONG】Watchalong + Chit-Chats! 2024年向かいながら同時視聴！【holoID | Anya】\nhttps://www.youtube.com/watch?v=dxvhE3FLKgA
+DURATION:PT2H
+DTSTART:20231231T134500Z
+SUMMARY:Anya: 【holopro COUNTDOWN LIVE 2023 WATCHALONG】Watchalong + Chit-Chats! 2024年向かいながら同時視聴！【holoID | Anya】
+UID:dxvhE3FLKgA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololiveID】MMM : Malas Malas Monday NEW YEAR EDITION (no changes) 【Ayunda Risu】\nhttps://www.youtube.com/watch?v=IZYMexecu24
+DURATION:PT2H
+DTSTART:20240101T053000Z
+SUMMARY:🐿Risu: 【hololiveID】MMM : Malas Malas Monday NEW YEAR EDITION (no changes) 【Ayunda Risu】
+UID:IZYMexecu24
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Lethal Company】oh it's been a year since the last collab 🤔【Kaela & Anya / hololiveID】\nhttps://www.youtube.com/watch?v=raOf7F-JoUI
+DURATION:PT2H
+DTSTART:20231231T203000Z
+SUMMARY:Kaela: 【Lethal Company】oh it's been a year since the last collab 🤔【Kaela & Anya / hololiveID】
+UID:raOf7F-JoUI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Thief Simulator 】Last Loot for 2023【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=8h6V28k2FSc
+DURATION:PT2H
+DTSTART:20231231T100000Z
+SUMMARY:🎨Iofi: 【 Thief Simulator 】Last Loot for 2023【 iofi / hololiveID 】
+UID:8h6V28k2FSc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【UNARCHIVE KARAOKE】GREETING 2024 WITH IT'S FIRST KARAOKE!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=ow9yA9xk-uo
+DURATION:PT2H
+DTSTART:20240101T120000Z
+SUMMARY:Ollie: 【UNARCHIVE KARAOKE】GREETING 2024 WITH IT'S FIRST KARAOKE!!【Hololive Indonesia 2nd Gen】
+UID:ow9yA9xk-uo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Moona Hoshinova 1st EP『ORBITURE』Trailer\nhttps://www.youtube.com/watch?v=KXW7kdCib8I
 DURATION:PT2H
 DTSTART:20231231T154357Z
@@ -100,12 +114,5 @@ DURATION:PT2H
 DTSTART:20231231T133000Z
 SUMMARY:🔮Moona: 【AREA15】Countdown Watchalong and .... ?【holoID】
 UID:gWj8OfDp_PM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【holopro COUNTDOWN LIVE 2023 WATCHALONG】Watchalong + Chit-Chats! 2024年向かいながら同時視聴！【holoID | Anya】\nhttps://www.youtube.com/watch?v=dxvhE3FLKgA
-DURATION:PT2H
-DTSTART:20231231T134500Z
-SUMMARY:Anya: 【holopro COUNTDOWN LIVE 2023 WATCHALONG】Watchalong + Chit-Chats! 2024年向かいながら同時視聴！【holoID | Anya】
-UID:dxvhE3FLKgA
 END:VEVENT
 END:VCALENDAR
