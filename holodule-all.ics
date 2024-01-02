@@ -67,18 +67,18 @@ SUMMARY:🍕アルランディス: 【雑談 FREETALK】2024年初配信は雑�
 UID:AgUuf2y8o6E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FUWAMOCO MORNING】episode 62 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=YxkjfewtHpE
-DURATION:PT2H
-DTSTART:20240101T160000Z
-SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 62 🐾 #FWMCMORNING
-UID:YxkjfewtHpE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【2024年】新年初配信🎍かなた先生がマウスで「龍」を書きながら抱負など語ります🦐【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=tM4nB0fhGqA
 DURATION:PT2H
 DTSTART:20240102T130000Z
 SUMMARY:💫天音かなた: 【2024年】新年初配信🎍かなた先生がマウスで「龍」を書きながら抱負など語ります🦐【天音かなた/ホロライブ】
 UID:tM4nB0fhGqA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FUWAMOCO MORNING】episode 62 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=YxkjfewtHpE
+DURATION:PT2H
+DTSTART:20240101T160000Z
+SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 62 🐾 #FWMCMORNING
+UID:YxkjfewtHpE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】Criminal's Cut Completion?\nhttps://www.youtube.com/watch?v=LNzqg4oNB2Q
@@ -123,6 +123,20 @@ SUMMARY:Goldbullet: 【Conker's Bad Fur Day 】18+ WARNING: TIME TO GRAB SOME CA
 UID:-wzxH3fxibc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 #実機で遊ぶレトロゲー 】ダイナマイト刑事と餅つき【荒咬オウガ 花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=pZb_eLW4pbg
+DURATION:PT2H
+DTSTART:20240103T050000Z
+SUMMARY:荒咬オウガ: 【 #実機で遊ぶレトロゲー 】ダイナマイト刑事と餅つき【荒咬オウガ 花咲みやび/ホロスターズ】
+UID:pZb_eLW4pbg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】新お部屋をお披露目して歌う【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=H53dhJ5IgTg
+DURATION:PT2H
+DTSTART:20240103T120000Z
+SUMMARY:🔥不知火フレア: 【歌枠】新お部屋をお披露目して歌う【不知火フレア/ホロライブ】
+UID:H53dhJ5IgTg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌枠 / Singing】2023年に流行った曲を歌う歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=d7iaRrAImto
 DURATION:PT2H
 DTSTART:20240102T110000Z
@@ -135,13 +149,6 @@ DURATION:PT2H
 DTSTART:20240102T060000Z
 SUMMARY:🌲大神ミオ: 【2024年占い】毎年恒例！ホロメンの運勢を占う！【ホロライブ/大神ミオ】
 UID:6l32Ku8bSAU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #実機で遊ぶレトロゲー 】ダイナマイト刑事と餅つき【荒咬オウガ 花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=pZb_eLW4pbg
-DURATION:PT2H
-DTSTART:20240103T050000Z
-SUMMARY:荒咬オウガ: 【 #実機で遊ぶレトロゲー 】ダイナマイト刑事と餅つき【荒咬オウガ 花咲みやび/ホロスターズ】
-UID:pZb_eLW4pbg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】逃げちゃダメだ、逃げちゃダメだ、逃げちゃダメだ【一条莉々華 視点 / ホロライブ】\nhttps://www.youtube.com/watch?v=I1cMlxu0O4I
@@ -235,13 +242,6 @@ SUMMARY:ホロライブ: 【Live2D MV】おにおにこんこんわおん/いろ
 UID:qIdjj9ESt_4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【2024年】新年のごあいさつ！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=Cz9O2Qoh_z8
-DURATION:PT2H
-DTSTART:20240102T090000Z
-SUMMARY:👯兎田ぺこら: 【2024年】新年のごあいさつ！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:Cz9O2Qoh_z8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MARIO KART 8】Training Arc Begins. (Day 1)\nhttps://www.youtube.com/watch?v=5G3lwcQA0TM
 DURATION:PT2H
 DTSTART:20240102T020034Z
@@ -261,6 +261,13 @@ DURATION:PT2H
 DTSTART:20240102T080000Z
 SUMMARY:⚔白銀ノエル: 【縦型雑談】あけおめことよろ太郎！2024年はじめてのご挨拶🐉【白銀ノエル/ホロライブ】#shorts
 UID:ca8_wck1KQQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【2024年】新年のごあいさつ！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=Cz9O2Qoh_z8
+DURATION:PT2H
+DTSTART:20240102T090000Z
+SUMMARY:👯兎田ぺこら: 【2024年】新年のごあいさつ！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:Cz9O2Qoh_z8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SUPER MARIO ODYSSEY】idk why i am still trying to rescue peach but ok #kfp #キアライブ\nhttps://www.youtube.com/watch?v=VTJ08g0f9B4
@@ -324,6 +331,13 @@ DURATION:PT2H
 DTSTART:20240102T030000Z
 SUMMARY:博衣こより: 【#朝こよ】2024年最初&こんこよ24がある朝も！火曜日の朝も朝こよ～っ☀ #161【博衣こより/hololive】
 UID:-UcS224obZY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:???\nhttps://www.youtube.com/watch?v=bPwIwUJKrdU
+DURATION:PT2H
+DTSTART:20240103T130000Z
+SUMMARY:🔥不知火フレア: ???
+UID:bPwIwUJKrdU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【モンスト】新春限定マサムネ！オーブ１０００個で超獣神祭引くぞ！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=mbRmaLP7Zz4
@@ -452,6 +466,13 @@ SUMMARY:🍙猫又おかゆ: 【  🔴新年雑談 】あけましておめで�
 UID:pqsI09D8kRg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【世界のアソビ大全51】新春ルドー！あじめるドー！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=81_w3OlVqT4
+DURATION:PT2H
+DTSTART:20240103T130000Z
+SUMMARY:🐏角巻わため: 【世界のアソビ大全51】新春ルドー！あじめるドー！！！【角巻わため/ホロライブ４期生】
+UID:81_w3OlVqT4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【REBROADCAST】 FIRST UNARCHIVED KARAOKE!  Happy New Years\, I GUESS.\nhttps://www.youtube.com/watch?v=jQB6DhDUv9c
 DURATION:PT2H
 DTSTART:20240102T190000Z
@@ -487,13 +508,6 @@ SUMMARY:IRyS: 【Mario Kart 8 Deluxe】Polishing out the RUST
 UID:f9oWut6XJSo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【マリカ】新春！星川サラさんとタイマンマリカ！？【岸堂天真/星川サラ/ホロスターズ】\nhttps://www.youtube.com/watch?v=QpvfFfpKIGA
-DURATION:PT2H
-DTSTART:20240103T040000Z
-SUMMARY:🦔💨岸堂天真: 【マリカ】新春！星川サラさんとタイマンマリカ！？【岸堂天真/星川サラ/ホロスターズ】
-UID:QpvfFfpKIGA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#生スバル】ドラクエ１クリア耐久～！！！！！！/ Dragon Warrior ※ネタバレあり【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=ebKaS2tFYms
 DURATION:PT2H
 DTSTART:20240102T040000Z
@@ -506,6 +520,13 @@ DURATION:PT2H
 DTSTART:20240102T081011Z
 SUMMARY:Calli: year of the shinigami #shorts
 UID:0b1UNaVenYU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マリカ】新春！星川サラさんとタイマンマリカ！？【岸堂天真/星川サラ/ホロスターズ】\nhttps://www.youtube.com/watch?v=QpvfFfpKIGA
+DURATION:PT2H
+DTSTART:20240103T040000Z
+SUMMARY:🦔💨岸堂天真: 【マリカ】新春！星川サラさんとタイマンマリカ！？【岸堂天真/星川サラ/ホロスターズ】
+UID:QpvfFfpKIGA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MARIO KART 8】moriokart\, ikuzo! (Day 2)\nhttps://www.youtube.com/watch?v=7yrg2MAGmVs
