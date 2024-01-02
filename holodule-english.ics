@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:Beginning of the New Year Zatsudan\nhttps://www.youtube.com/watch?v=nRLPwpmkdvk
-DURATION:PT2H
-DTSTART:20240102T010000Z
-SUMMARY:Shiori: Beginning of the New Year Zatsudan
-UID:nRLPwpmkdvk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【SUPERCHAT READING】NEW YEAR'S THANKS!\nhttps://www.youtube.com/watch?v=s6bH9ToZF7Y
 DURATION:PT2H
 DTSTART:20240103T000000Z
 SUMMARY:Bijou: 【SUPERCHAT READING】NEW YEAR'S THANKS!
 UID:s6bH9ToZF7Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【REBROADCAST - UNARCHIVED CHRISTMAS KARAOKE】CAROL BATTLE WITH MY SISTER🎼\nhttps://www.youtube.com/watch?v=dYrSovMjCEw
-DURATION:PT2H
-DTSTART:20240102T030000Z
-SUMMARY:Nerissa: 【REBROADCAST - UNARCHIVED CHRISTMAS KARAOKE】CAROL BATTLE WITH MY SISTER🎼
-UID:dYrSovMjCEw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DEVIL MAY CRY 5】Pull my Biboo Trigger\nhttps://www.youtube.com/watch?v=MhBgt8gyo7w
@@ -32,11 +18,53 @@ SUMMARY:Bijou: 【DEVIL MAY CRY 5】Pull my Biboo Trigger
 UID:MhBgt8gyo7w
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:≪YAKUZA 0≫ This game is RUINING me #8【SPOILER WARNING】\nhttps://www.youtube.com/watch?v=vqby-nn3JMg
+DURATION:PT2H
+DTSTART:20240103T010000Z
+SUMMARY:Baelz: ≪YAKUZA 0≫ This game is RUINING me #8【SPOILER WARNING】
+UID:vqby-nn3JMg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪MARIO KART≫ Tournament Training Day 2\nhttps://www.youtube.com/watch?v=pEEQibaNZ8s
+DURATION:PT2H
+DTSTART:20240102T130000Z
+SUMMARY:Baelz: ≪MARIO KART≫ Tournament Training Day 2
+UID:pEEQibaNZ8s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SUPERCHAT READING】happy new BAU 🐾✨\nhttps://www.youtube.com/watch?v=cmV-CRYPosE
+DURATION:PT2H
+DTSTART:20240102T020000Z
+SUMMARY:FUWAMOCO: 【SUPERCHAT READING】happy new BAU 🐾✨
+UID:cmV-CRYPosE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Beginning of the New Year Zatsudan\nhttps://www.youtube.com/watch?v=nRLPwpmkdvk
+DURATION:PT2H
+DTSTART:20240102T010000Z
+SUMMARY:Shiori: Beginning of the New Year Zatsudan
+UID:nRLPwpmkdvk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fauna Plays Outer Wilds: Episode 9 【Baby】\nhttps://www.youtube.com/watch?v=ezl3JPa3ya0
+DURATION:PT2H
+DTSTART:20240101T230000Z
+SUMMARY:Fauna: Fauna Plays Outer Wilds: Episode 9 【Baby】
+UID:ezl3JPa3ya0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MARIO KART 8】Training Arc Begins. (Day 1)\nhttps://www.youtube.com/watch?v=5G3lwcQA0TM
 DURATION:PT2H
 DTSTART:20240102T020034Z
 SUMMARY:Calli: 【MARIO KART 8】Training Arc Begins. (Day 1)
 UID:5G3lwcQA0TM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Mario Kart 8 Deluxe】Polishing out the RUST\nhttps://www.youtube.com/watch?v=f9oWut6XJSo
+DURATION:PT2H
+DTSTART:20240103T040000Z
+SUMMARY:IRyS: 【Mario Kart 8 Deluxe】Polishing out the RUST
+UID:f9oWut6XJSo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FUWAMOCO MORNING】episode 62 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=YxkjfewtHpE
@@ -53,13 +81,6 @@ SUMMARY:Calli: year of the shinigami #shorts
 UID:0b1UNaVenYU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪YAKUZA 0≫ This game is RUINING me #8【SPOILER WARNING】\nhttps://www.youtube.com/watch?v=vqby-nn3JMg
-DURATION:PT2H
-DTSTART:20240103T010000Z
-SUMMARY:Baelz: ≪YAKUZA 0≫ This game is RUINING me #8【SPOILER WARNING】
-UID:vqby-nn3JMg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【SUPER MARIO ODYSSEY】idk why i am still trying to rescue peach but ok #kfp #キアライブ\nhttps://www.youtube.com/watch?v=VTJ08g0f9B4
 DURATION:PT2H
 DTSTART:20240101T163000Z
@@ -74,11 +95,11 @@ SUMMARY:Calli: 【MARIO KART 8】moriokart\, ikuzo! (Day 2)
 UID:7yrg2MAGmVs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪MARIO KART≫ Tournament Training Day 2\nhttps://www.youtube.com/watch?v=pEEQibaNZ8s
+DESCRIPTION:【Lethal Company】Nah\, we'll win. 🎼\nhttps://www.youtube.com/watch?v=eG9tE3v7lfA
 DURATION:PT2H
-DTSTART:20240102T130000Z
-SUMMARY:Baelz: ≪MARIO KART≫ Tournament Training Day 2
-UID:pEEQibaNZ8s
+DTSTART:20240103T020000Z
+SUMMARY:Nerissa: 【Lethal Company】Nah\, we'll win. 🎼
+UID:eG9tE3v7lfA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【LETHAL COMPANY COLLAB】Advent together strong??? (#holoAdvent)\nhttps://www.youtube.com/watch?v=IHTeZh-XH1A
@@ -86,20 +107,6 @@ DURATION:PT2H
 DTSTART:20240103T020000Z
 SUMMARY:Bijou: 【LETHAL COMPANY COLLAB】Advent together strong??? (#holoAdvent)
 UID:IHTeZh-XH1A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SUPERCHAT READING】happy new BAU 🐾✨\nhttps://www.youtube.com/watch?v=cmV-CRYPosE
-DURATION:PT2H
-DTSTART:20240102T020000Z
-SUMMARY:FUWAMOCO: 【SUPERCHAT READING】happy new BAU 🐾✨
-UID:cmV-CRYPosE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Fauna Plays Outer Wilds: Episode 9 【Baby】\nhttps://www.youtube.com/watch?v=ezl3JPa3ya0
-DURATION:PT2H
-DTSTART:20240101T230000Z
-SUMMARY:Fauna: Fauna Plays Outer Wilds: Episode 9 【Baby】
-UID:ezl3JPa3ya0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Lethal Company | Becoming a Scrap Hunter to a Multimillionaire (Hopefully)\nhttps://www.youtube.com/watch?v=PsblzRH9WzA
