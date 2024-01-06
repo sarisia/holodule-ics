@@ -4,25 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Tengu Talk】CHECK OUT HOW MANY HAKKITOS I CAN HOLD!\nhttps://www.youtube.com/watch?v=SLSByDuRQXU
+DURATION:PT2H
+DTSTART:20240107T010000Z
+SUMMARY:Hakka: 【Tengu Talk】CHECK OUT HOW MANY HAKKITOS I CAN HOLD!
+UID:SLSByDuRQXU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【LETHAL COMPANY】WE'RE BACK IN THE FRIGGIN BUILDING!!! 💢\nhttps://www.youtube.com/watch?v=Braz1vd0GMI
 DURATION:PT2H
 DTSTART:20240107T030000Z
 SUMMARY:Crimzon: 【LETHAL COMPANY】WE'RE BACK IN THE FRIGGIN BUILDING!!! 💢
 UID:Braz1vd0GMI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Membership】I wanna practice fingerstyle guitar\nhttps://www.youtube.com/watch?v=EeUW9jNE1yw
-DURATION:PT2H
-DTSTART:20240106T160218Z
-SUMMARY:Altare: 【Membership】I wanna practice fingerstyle guitar
-UID:EeUW9jNE1yw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARMORED CORE VI】#3 | Handler Walter Berates Me\nhttps://www.youtube.com/watch?v=OJi4bhOnbI4
-DURATION:PT2H
-DTSTART:20240105T221000Z
-SUMMARY:Flayon: 【ARMORED CORE VI】#3 | Handler Walter Berates Me
-UID:OJi4bhOnbI4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:hi\nhttps://www.youtube.com/watch?v=k_ezGQa4s-g
@@ -32,46 +25,11 @@ SUMMARY:Flayon: hi
 UID:k_ezGQa4s-g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The Roons Got Me A Place At Time Square!!!\nhttps://www.youtube.com/watch?v=9ux5SrT4LdM
-DURATION:PT2H
-DTSTART:20240106T204500Z
-SUMMARY:Flayon: The Roons Got Me A Place At Time Square!!!
-UID:9ux5SrT4LdM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DUNGEONS & DRAGONS】 ARMIS Character Sheets TWO\nhttps://www.youtube.com/watch?v=ZsFRqnPjJlo
-DURATION:PT2H
-DTSTART:20240106T030000Z
-SUMMARY:Crimzon: 【DUNGEONS & DRAGONS】 ARMIS Character Sheets TWO
-UID:ZsFRqnPjJlo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ARMIS FUNNY MOMENTS AGAIN【LETHAL COMPANY】\nhttps://www.youtube.com/watch?v=X_QjVkouob0
 DURATION:PT2H
 DTSTART:20240107T030000Z
 SUMMARY:Octavio: ARMIS FUNNY MOMENTS AGAIN【LETHAL COMPANY】
 UID:X_QjVkouob0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【LETHAL COMPANY】We are one\nhttps://www.youtube.com/watch?v=oShl-d-L0Sk
-DURATION:PT2H
-DTSTART:20240107T030000Z
-SUMMARY:Jurard: 【LETHAL COMPANY】We are one
-UID:oShl-d-L0Sk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Welcome to the Pilot Episode! 【OcTalks with Octavio】#1\nhttps://www.youtube.com/watch?v=ly8AGAoqkhY
-DURATION:PT2H
-DTSTART:20240107T090000Z
-SUMMARY:Octavio: Welcome to the Pilot Episode! 【OcTalks with Octavio】#1
-UID:ly8AGAoqkhY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【KUUKIYOMI: Consider It】WE ARE THE MOST CONSIDERATE HAKKITOS EVER【みんなで空気読み。】\nhttps://www.youtube.com/watch?v=T9TQV-9wqxU
-DURATION:PT2H
-DTSTART:20240106T010000Z
-SUMMARY:Hakka: 【KUUKIYOMI: Consider It】WE ARE THE MOST CONSIDERATE HAKKITOS EVER【みんなで空気読み。】
-UID:T9TQV-9wqxU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【THE SIMS 4】REVISITING THE ARMIS HOUSE\nhttps://www.youtube.com/watch?v=XB7yYf1kuBw
@@ -93,6 +51,55 @@ DURATION:PT2H
 DTSTART:20240106T030000Z
 SUMMARY:Flayon: 【Doppelgänger】Abandoned Automaton Route - Voiced (Casual Playthrough)
 UID:qk9O3EqA5vQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Membership】I wanna practice fingerstyle guitar\nhttps://www.youtube.com/watch?v=EeUW9jNE1yw
+DURATION:PT2H
+DTSTART:20240106T160218Z
+SUMMARY:Altare: 【Membership】I wanna practice fingerstyle guitar
+UID:EeUW9jNE1yw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ARMORED CORE VI】#3 | Handler Walter Berates Me\nhttps://www.youtube.com/watch?v=OJi4bhOnbI4
+DURATION:PT2H
+DTSTART:20240105T221000Z
+SUMMARY:Flayon: 【ARMORED CORE VI】#3 | Handler Walter Berates Me
+UID:OJi4bhOnbI4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Roons Got Me A Place At Time Square!!!\nhttps://www.youtube.com/watch?v=9ux5SrT4LdM
+DURATION:PT2H
+DTSTART:20240106T204500Z
+SUMMARY:Flayon: The Roons Got Me A Place At Time Square!!!
+UID:9ux5SrT4LdM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DUNGEONS & DRAGONS】 ARMIS Character Sheets TWO\nhttps://www.youtube.com/watch?v=ZsFRqnPjJlo
+DURATION:PT2H
+DTSTART:20240106T030000Z
+SUMMARY:Crimzon: 【DUNGEONS & DRAGONS】 ARMIS Character Sheets TWO
+UID:ZsFRqnPjJlo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Welcome to the Pilot Episode! 【OcTalks with Octavio】#1\nhttps://www.youtube.com/watch?v=ly8AGAoqkhY
+DURATION:PT2H
+DTSTART:20240107T090000Z
+SUMMARY:Octavio: Welcome to the Pilot Episode! 【OcTalks with Octavio】#1
+UID:ly8AGAoqkhY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【KUUKIYOMI: Consider It】WE ARE THE MOST CONSIDERATE HAKKITOS EVER【みんなで空気読み。】\nhttps://www.youtube.com/watch?v=T9TQV-9wqxU
+DURATION:PT2H
+DTSTART:20240106T010000Z
+SUMMARY:Hakka: 【KUUKIYOMI: Consider It】WE ARE THE MOST CONSIDERATE HAKKITOS EVER【みんなで空気読み。】
+UID:T9TQV-9wqxU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【LETHAL COMPANY】We are one\nhttps://www.youtube.com/watch?v=oShl-d-L0Sk
+DURATION:PT2H
+DTSTART:20240107T030000Z
+SUMMARY:Jurard: 【LETHAL COMPANY】We are one
+UID:oShl-d-L0Sk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:˚ʚ The Desperate Fight for Flight ɞ˚【🟩MINECRAFT🟫】【35】\nhttps://www.youtube.com/watch?v=2btRIegE9u0
