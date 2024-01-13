@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【MHW】ディアブロスを狩りに行く男【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=Fq4H7Cc39w8
+DURATION:PT2H
+DTSTART:20240113T040000Z
+SUMMARY:🍷夕刻ロベル: 【MHW】ディアブロスを狩りに行く男【夕刻ロベル/ホロスターズ】
+UID:Fq4H7Cc39w8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Lethal Company】ゆるスタり隊、宇宙へ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=LplbZ9YAiy8
 DURATION:PT2H
 DTSTART:20240113T143000Z
@@ -11,32 +18,11 @@ SUMMARY:🍕アルランディス: 【Lethal Company】ゆるスタり隊、宇�
 UID:LplbZ9YAiy8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ウツロマユ】和風ホラー、実は大好きなんです。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=nYHF6RTVPzw
+DESCRIPTION:【League of Legends】人生初のLOLをネオポルテの水無瀬くんに教えてもらう【#緋崎ガンマ / #ホロスターズ / #vtuber  】\nhttps://www.youtube.com/watch?v=tCQ9QMFX63s
 DURATION:PT2H
-DTSTART:20240112T120000Z
-SUMMARY:🌺花咲みやび: 【ウツロマユ】和風ホラー、実は大好きなんです。【花咲みやび/ホロスターズ】
-UID:nYHF6RTVPzw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【縦型配信】お昼休みの社会人＆学生を元気にする雑談 #shorts   #縦型配信  #vtuber   【ホロスターズ 】\nhttps://www.youtube.com/watch?v=-miKgzr6GVI
-DURATION:PT2H
-DTSTART:20240112T040458Z
-SUMMARY:緋崎ガンマ: 【縦型配信】お昼休みの社会人＆学生を元気にする雑談 #shorts   #縦型配信  #vtuber   【ホロスターズ 】
-UID:-miKgzr6GVI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MHW】アンジャナフとの激闘を終えた男【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=3BPPwY6cdkQ
-DURATION:PT2H
-DTSTART:20240112T050000Z
-SUMMARY:🍷夕刻ロベル: 【MHW】アンジャナフとの激闘を終えた男【夕刻ロベル/ホロスターズ】
-UID:3BPPwY6cdkQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MHW】ディアブロスを狩りに行く男【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=Fq4H7Cc39w8
-DURATION:PT2H
-DTSTART:20240113T040000Z
-SUMMARY:🍷夕刻ロベル: 【MHW】ディアブロスを狩りに行く男【夕刻ロベル/ホロスターズ】
-UID:Fq4H7Cc39w8
+DTSTART:20240114T060000Z
+SUMMARY:緋崎ガンマ: 【League of Legends】人生初のLOLをネオポルテの水無瀬くんに教えてもらう【#緋崎ガンマ / #ホロスターズ / #vtuber  】
+UID:tCQ9QMFX63s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン3】新春！運試し！フェスガチャ100連！【夜十神封魔/ホロスターズ】\nhttps://www.youtube.com/watch?v=u8ecAH4AyX4
@@ -46,11 +32,18 @@ SUMMARY:夜十神封魔: 【スプラトゥーン3】新春！運試し！フェ
 UID:u8ecAH4AyX4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【League of Legends】Day1さんにLoLを教えてもらうぞ！！【夕刻ロベル/Day1】\nhttps://www.youtube.com/watch?v=mLBgIUnX7xk
+DESCRIPTION:【STREET FIGHTER6】おいでよラシード公園【荒咬オウガ 　アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=fQ6wP-8H0Yg
 DURATION:PT2H
-DTSTART:20240112T100000Z
-SUMMARY:🍷夕刻ロベル: 【League of Legends】Day1さんにLoLを教えてもらうぞ！！【夕刻ロベル/Day1】
-UID:mLBgIUnX7xk
+DTSTART:20240113T130000Z
+SUMMARY:荒咬オウガ: 【STREET FIGHTER6】おいでよラシード公園【荒咬オウガ 　アキ・ローゼンタール】
+UID:fQ6wP-8H0Yg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 The Outlast Trials 】同期4人でやれば治験だって怖くない…よね？【水無世燐央 / 夜十神封魔 / 羽継烏有 / 緋崎ガンマ / #放課後アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=BoryhMS8QCo
+DURATION:PT2H
+DTSTART:20240114T100000Z
+SUMMARY:水無世燐央: 【 The Outlast Trials 】同期4人でやれば治験だって怖くない…よね？【水無世燐央 / 夜十神封魔 / 羽継烏有 / 緋崎ガンマ / #放課後アップロー / ホロスターズ 】
+UID:BoryhMS8QCo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【人狼】ホロライブからもゲスト参戦！騙し合い頂上決戦！！【#ホロスタお正月人狼】\nhttps://www.youtube.com/watch?v=mxCImrxpHb4
@@ -67,60 +60,11 @@ SUMMARY:🎸奏手イヅル: 【Lethal Company】ゆるスタり隊にて神ゲ�
 UID:NGweUljqgGs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:握手会 ～こんなファンでもいいですか？～\nhttps://www.youtube.com/watch?v=CmOVw69xgrU
-DURATION:PT2H
-DTSTART:20240112T100013Z
-SUMMARY:ホロスターズ: 握手会 ～こんなファンでもいいですか？～
-UID:CmOVw69xgrU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 #アモアスピザ屋 】ピザ屋全員集合！9人でAmong Us！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=ue6lJn8gmmI
 DURATION:PT2H
 DTSTART:20240114T040000Z
 SUMMARY:🍕アルランディス: 【 #アモアスピザ屋 】ピザ屋全員集合！9人でAmong Us！【アルランディス/ホロスターズ】
 UID:ue6lJn8gmmI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 雑談と歌 #Shots 】 はじめてのバイノーラルASMR 【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】\nhttps://www.youtube.com/watch?v=yy749EKPmKM
-DURATION:PT2H
-DTSTART:20240113T090606Z
-SUMMARY:水無世燐央: 【 雑談と歌 #Shots 】 はじめてのバイノーラルASMR 【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】
-UID:yy749EKPmKM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ファミレスを享受せよ】こんなに月がきれいなんだからファミレスに行くしかないだろう【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=PwnBVfJgweA
-DURATION:PT2H
-DTSTART:20240112T080000Z
-SUMMARY:🍕アルランディス: 【ファミレスを享受せよ】こんなに月がきれいなんだからファミレスに行くしかないだろう【アルランディス/ホロスターズ】
-UID:PwnBVfJgweA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【League of Legends】人生初のLOLをネオポルテの水無瀬くんに教えてもらう【#緋崎ガンマ / #ホロスターズ / #vtuber  】\nhttps://www.youtube.com/watch?v=tCQ9QMFX63s
-DURATION:PT2H
-DTSTART:20240114T060000Z
-SUMMARY:緋崎ガンマ: 【League of Legends】人生初のLOLをネオポルテの水無瀬くんに教えてもらう【#緋崎ガンマ / #ホロスターズ / #vtuber  】
-UID:tCQ9QMFX63s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【STREET FIGHTER6】おいでよラシード公園【荒咬オウガ 　アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=fQ6wP-8H0Yg
-DURATION:PT2H
-DTSTART:20240113T130000Z
-SUMMARY:荒咬オウガ: 【STREET FIGHTER6】おいでよラシード公園【荒咬オウガ 　アキ・ローゼンタール】
-UID:fQ6wP-8H0Yg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ウツロマユ】こういう和ホラーが一番好物なんだ【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=6gMA_bkHae4
-DURATION:PT2H
-DTSTART:20240112T090000Z
-SUMMARY:影山シエン: 【ウツロマユ】こういう和ホラーが一番好物なんだ【影山シエン/ホロスターズ】
-UID:6gMA_bkHae4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 The Outlast Trials 】同期4人でやれば治験だって怖くない…よね？【水無世燐央 / 夜十神封魔 / 羽継烏有 / 緋崎ガンマ / #放課後アップロー / ホロスターズ 】\nhttps://www.youtube.com/watch?v=BoryhMS8QCo
-DURATION:PT2H
-DTSTART:20240114T100000Z
-SUMMARY:水無世燐央: 【 The Outlast Trials 】同期4人でやれば治験だって怖くない…よね？【水無世燐央 / 夜十神封魔 / 羽継烏有 / 緋崎ガンマ / #放課後アップロー / ホロスターズ 】
-UID:BoryhMS8QCo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【縦型配信】土曜日の社会人＆学生を元気にする雑談 #shorts   #縦型配信  #vtuber   【ホロスターズ 】\nhttps://www.youtube.com/watch?v=GuUr6D0eGi8
@@ -144,18 +88,18 @@ SUMMARY:🌺花咲みやび: 【Lethal Company】スクラップを集める男�
 UID:IwlLJ9sKh2U
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 雑談と歌 #Shots 】 はじめてのバイノーラルASMR 【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】\nhttps://www.youtube.com/watch?v=yy749EKPmKM
+DURATION:PT2H
+DTSTART:20240113T090606Z
+SUMMARY:水無世燐央: 【 雑談と歌 #Shots 】 はじめてのバイノーラルASMR 【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】
+UID:yy749EKPmKM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【エスカレーター | Escalator】話題の脱出ゲームのエスカレーター版やってみる！！！【#緋崎ガンマ / #ホロスターズ / #vtuber 】\nhttps://www.youtube.com/watch?v=uLmWDA770rA
 DURATION:PT2H
 DTSTART:20240113T070000Z
 SUMMARY:緋崎ガンマ: 【エスカレーター | Escalator】話題の脱出ゲームのエスカレーター版やってみる！！！【#緋崎ガンマ / #ホロスターズ / #vtuber 】
 UID:uLmWDA770rA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【お知らせあり】話題募集するタイプの深夜雑談【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=szlv5cQY0KM
-DURATION:PT2H
-DTSTART:20240112T130000Z
-SUMMARY:荒咬オウガ: 【お知らせあり】話題募集するタイプの深夜雑談【荒咬オウガ/ホロスターズ】
-UID:szlv5cQY0KM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Lethal Company】神ゲーと噂のスクラップ集めゲームをゆるすたり隊と。【岸堂天真/花咲みやび/奏手イヅル/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=9kOS3co1Z4E
