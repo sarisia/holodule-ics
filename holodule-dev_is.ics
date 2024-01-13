@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【オフコラボ / Trombone Champ】ｼｬﾁｮｳがうちに遊びにきた！！！！ぷっぷっぷー！！♪【音乃瀬奏・一条莉々華】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=-a27zmCX-XU
+DESCRIPTION:【#青原稿中】君のためにシャンパンコールを新しく作る！【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=aemPLZHMf54
 DURATION:PT2H
-DTSTART:20240112T100000Z
-SUMMARY:音乃瀬奏: 【オフコラボ / Trombone Champ】ｼｬﾁｮｳがうちに遊びにきた！！！！ぷっぷっぷー！！♪【音乃瀬奏・一条莉々華】#hololiveDEV_IS #ReGLOSS
-UID:-a27zmCX-XU
+DTSTART:20240113T110000Z
+SUMMARY:火威青: 【#青原稿中】君のためにシャンパンコールを新しく作る！【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:aemPLZHMf54
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Gartic Phone】孤高の漫画家…そういう呼ばれ方もしているね【火威青視点 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=LVRyEqt3sVM
@@ -30,5 +30,12 @@ DURATION:PT2H
 DTSTART:20240112T130000Z
 SUMMARY:儒烏風亭らでん: 【Gartic Phone】#ホロお絵かき伝言ゲーム  またしても何も知らないらでんさん（21）【儒烏風亭らでん  #ReGLOSS 】
 UID:VMO1skHCN4s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【オフコラボ / Trombone Champ】ｼｬﾁｮｳがうちに遊びにきた！！！！ぷっぷっぷー！！♪【音乃瀬奏・一条莉々華】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=-a27zmCX-XU
+DURATION:PT2H
+DTSTART:20240112T100000Z
+SUMMARY:音乃瀬奏: 【オフコラボ / Trombone Champ】ｼｬﾁｮｳがうちに遊びにきた！！！！ぷっぷっぷー！！♪【音乃瀬奏・一条莉々華】#hololiveDEV_IS #ReGLOSS
+UID:-a27zmCX-XU
 END:VEVENT
 END:VCALENDAR
