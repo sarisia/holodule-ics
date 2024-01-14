@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:[MEMBERSHIP] PHANTOM OF THE OPERA (2004) Watch Along  #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=bwhYa-8C-QM
-DURATION:PT2H
-DTSTART:20240114T030000Z
-SUMMARY:Bettel: [MEMBERSHIP] PHANTOM OF THE OPERA (2004) Watch Along  #gavisbettel #holotempus
-UID:bwhYa-8C-QM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:IOFI 3.0 PART 2【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=SDnofdyZmkQ
 DURATION:PT2H
 DTSTART:20240114T120000Z
 SUMMARY:🎨Iofi: IOFI 3.0 PART 2【 iofi / hololiveID 】
 UID:SDnofdyZmkQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[MEMBERSHIP] PHANTOM OF THE OPERA (2004) Watch Along  #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=bwhYa-8C-QM
+DURATION:PT2H
+DTSTART:20240114T030000Z
+SUMMARY:Bettel: [MEMBERSHIP] PHANTOM OF THE OPERA (2004) Watch Along  #gavisbettel #holotempus
+UID:bwhYa-8C-QM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【BIG LETHAL COMPANY COLLAB】mori is a great asset\nhttps://www.youtube.com/watch?v=X-1NbBzydR4
@@ -39,13 +39,6 @@ SUMMARY:❤赤井はあと: 【黒歴史】6年間の過去ポスト振り返る
 UID:DWcrfRDZ3BM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 マリオカート8DX 】１時間以内に１位獲ったら勉強から逃げられるマリカ、逃げられなかったら勉強がはじまる。【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=RG3RNQsjzYQ
-DURATION:PT2H
-DTSTART:20240114T100000Z
-SUMMARY:🌸さくらみこ: 【 マリオカート8DX 】１時間以内に１位獲ったら勉強から逃げられるマリカ、逃げられなかったら勉強がはじまる。【ホロライブ/さくらみこ】
-UID:RG3RNQsjzYQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【LETHAL COMPANY】THERE'S SO MANY OF US SO THE CHANCES OF SUCCESS SHOULD BE NIGH【Hololive ID 2nd Gen】\nhttps://www.youtube.com/watch?v=glpNmZ4ylJU
 DURATION:PT2H
 DTSTART:20240115T030000Z
@@ -58,6 +51,13 @@ DURATION:PT2H
 DTSTART:20240115T030000Z
 SUMMARY:Bijou: 【LETHAL COMPANY COLLAB】A BEEG COMPANY
 UID:R9vAAiXEUv8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 マリオカート8DX 】１時間以内に１位獲ったら勉強から逃げられるマリカ、逃げられなかったら勉強がはじまる。【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=RG3RNQsjzYQ
+DURATION:PT2H
+DTSTART:20240114T100000Z
+SUMMARY:🌸さくらみこ: 【 マリオカート8DX 】１時間以内に１位獲ったら勉強から逃げられるマリカ、逃げられなかったら勉強がはじまる。【ホロライブ/さくらみこ】
+UID:RG3RNQsjzYQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活雑談】正月気分は完全抜け太郎ッ！おはまっするさんでー🌞✨【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=xhw7u6TKgbE
@@ -137,13 +137,6 @@ SUMMARY:FUWAMOCO: 【LETHAL COMPANY COLLAB】the chaos company 🐾 #hololiveEng
 UID:wgIkiitqSR8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HoloCure】今年もまったり遊んでいくんだ！【ホロライブ/ときのそら】\nhttps://www.youtube.com/watch?v=B6hawzCqB-o
-DURATION:PT2H
-DTSTART:20240114T063000Z
-SUMMARY:🐻ときのそら: 【HoloCure】今年もまったり遊んでいくんだ！【ホロライブ/ときのそら】
-UID:B6hawzCqB-o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【バンドリ！ ガールズバンドパーティ！】ホロコラボきちゃ！獅白ぼたん&高松燈ちゃん！【#ガルパコラボ記念獅白ぼたん配信中】\nhttps://www.youtube.com/watch?v=Sq29e2Rrq1U
 DURATION:PT2H
 DTSTART:20240115T100000Z
@@ -170,6 +163,13 @@ DURATION:PT2H
 DTSTART:20240115T040000Z
 SUMMARY:Jurard: 【PACIFIC DRIVE】WHAT A DEEP DRIVE
 UID:Y6rFYF0reKY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #荒咬オウガ誕生記念2024 】絆の地獄遊戯【荒咬オウガ/ホロスターズ】\nhttps://www.youtube.com/watch?v=IQo3t84ypZY
+DURATION:PT2H
+DTSTART:20240115T110000Z
+SUMMARY:荒咬オウガ: 【 #荒咬オウガ誕生記念2024 】絆の地獄遊戯【荒咬オウガ/ホロスターズ】
+UID:IQo3t84ypZY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 🔴クリア耐久無理でした 】はじめてのバイオハザードに挑戦だｱｱｱｱｱ🔥#01 / biohazard HD REMASTER【 猫又おかゆ/ホロライブ 】\nhttps://www.youtube.com/watch?v=8dre0HQh7Yc
@@ -214,11 +214,11 @@ SUMMARY:👿百鬼あやめ: 【メン限】ハリーポッターと賢者の石
 UID:LX4fLnypWDg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3】新年初フェス！「ひとりでのんびり派」後半戦だ！🔥💎【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=HJ3c0urBFDk
+DESCRIPTION:【Stronghold Crusader HD】First time playing! Let's try this old game!!【Moona】\nhttps://www.youtube.com/watch?v=1HzGhM_au4Q
 DURATION:PT2H
-DTSTART:20240114T130000Z
-SUMMARY:🔥不知火フレア: 【スプラトゥーン3】新年初フェス！「ひとりでのんびり派」後半戦だ！🔥💎【不知火フレア/ホロライブ】
-UID:HJ3c0urBFDk
+DTSTART:20240114T133000Z
+SUMMARY:🔮Moona: 【Stronghold Crusader HD】First time playing! Let's try this old game!!【Moona】
+UID:1HzGhM_au4Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:今日こそ ダ ブ ル す い か つくる配信  #shorts #short #縦型配信 【vtuber / ホロスターズ 】\nhttps://www.youtube.com/watch?v=0aPOuvUYrR8
@@ -228,11 +228,11 @@ SUMMARY:羽継烏有: 今日こそ ダ ブ ル す い か つくる配信  #sho
 UID:0aPOuvUYrR8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Stronghold Crusader HD】First time playing! Let's try this old game!!【Moona】\nhttps://www.youtube.com/watch?v=1HzGhM_au4Q
+DESCRIPTION:【スプラトゥーン3】新年初フェス！「ひとりでのんびり派」後半戦だ！🔥💎【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=HJ3c0urBFDk
 DURATION:PT2H
-DTSTART:20240114T133000Z
-SUMMARY:🔮Moona: 【Stronghold Crusader HD】First time playing! Let's try this old game!!【Moona】
-UID:1HzGhM_au4Q
+DTSTART:20240114T130000Z
+SUMMARY:🔥不知火フレア: 【スプラトゥーン3】新年初フェス！「ひとりでのんびり派」後半戦だ！🔥💎【不知火フレア/ホロライブ】
+UID:HJ3c0urBFDk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【1月15日】2024年初の花岸れいでぃお!! #花岸れいでぃお 第46回【花咲みやび/岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=a_R7SMjWAKI
@@ -254,6 +254,13 @@ DURATION:PT2H
 DTSTART:20240114T150000Z
 SUMMARY:Hakka: 【Pacific Drive】WE ARE GOING ON A TRIP HAKKITOS! (Sneak peek at Pacific Drive) #sponsored #ad
 UID:rEHuhFRdZvM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Supadonoeading】Catching Up While I Try This Out #shorts【hololive ID 2nd Gen | Anya Melfissa】\nhttps://www.youtube.com/watch?v=L_eYVJuFcdc
+DURATION:PT2H
+DTSTART:20240114T130000Z
+SUMMARY:Anya: 【Supadonoeading】Catching Up While I Try This Out #shorts【hololive ID 2nd Gen | Anya Melfissa】
+UID:L_eYVJuFcdc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#りりメル真剣勝負】スマブラ参加型でメルメル先輩と勝負！！いくぞー！！！【一条莉々華  / ホロライブ】\nhttps://www.youtube.com/watch?v=l1KXgJq4mvs
@@ -501,11 +508,11 @@ SUMMARY:Kiara: 【OFFCOLLAB】reading our diary entries from the MALDIVES! #kfp 
 UID:zYZ4BMpDIFw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Supadonoeading】Catching Up While I Try This Out #shorts【hololive ID 2nd Gen | Anya Melfissa】\nhttps://www.youtube.com/watch?v=L_eYVJuFcdc
+DESCRIPTION:【HoloCure】今年もまったり遊んでいくんだ！【ホロライブ/ときのそら】\nhttps://www.youtube.com/watch?v=B6hawzCqB-o
 DURATION:PT2H
-DTSTART:20240114T130000Z
-SUMMARY:Anya: 【Supadonoeading】Catching Up While I Try This Out #shorts【hololive ID 2nd Gen | Anya Melfissa】
-UID:L_eYVJuFcdc
+DTSTART:20240114T063000Z
+SUMMARY:🐻ときのそら: 【HoloCure】今年もまったり遊んでいくんだ！【ホロライブ/ときのそら】
+UID:B6hawzCqB-o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】まったり作業しようと思ったら…なんだこれ？【火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=VIkB-pgLDM8
