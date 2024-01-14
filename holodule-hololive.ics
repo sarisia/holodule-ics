@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【スプラトゥーン3】新年初フェス！「ひとりでのんびり派」後半戦だ！🔥💎【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=HJ3c0urBFDk
+DURATION:PT2H
+DTSTART:20240114T130000Z
+SUMMARY:🔥不知火フレア: 【スプラトゥーン3】新年初フェス！「ひとりでのんびり派」後半戦だ！🔥💎【不知火フレア/ホロライブ】
+UID:HJ3c0urBFDk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:調べるだけだよ！【ホロライブ / AZKi】#ぷちあず #shorts\nhttps://www.youtube.com/watch?v=SELaGeqHnlA
 DURATION:PT2H
 DTSTART:20240113T100016Z
@@ -88,6 +95,13 @@ SUMMARY:💫天音かなた: ！？ #shorts 【天音かなた/ホロライブ�
 UID:yyeepEzZN38
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】久々の観光をしてみよう！！【ホロライブ/ときのそら】\nhttps://www.youtube.com/watch?v=o9niIB6cDus
+DURATION:PT2H
+DTSTART:20240114T130000Z
+SUMMARY:🐻ときのそら: 【Minecraft】久々の観光をしてみよう！！【ホロライブ/ときのそら】
+UID:o9niIB6cDus
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 ドラクエⅥ 】完全初見。SFC版！いよいよラスボス・・・大魔王討伐・・・！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=5i08c4cipRM
 DURATION:PT2H
 DTSTART:20240114T030000Z
@@ -137,11 +151,11 @@ SUMMARY:💫天音かなた: 【雑談】色々ありすぎたお茶会オフコ
 UID:xX7AglwCfbA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【そろそろ寿司を食べないと死ぬぜ！ユニバース】SUSHIをGUESSしてゆく！寿司ゲッサー【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=PvjN8dPHX28
+DESCRIPTION:【スマブラSP】３勝しないと終われないスマブラ配信【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=VRxoKgaIeuI
 DURATION:PT2H
 DTSTART:20240114T130000Z
-SUMMARY:⚒AZKi: 【そろそろ寿司を食べないと死ぬぜ！ユニバース】SUSHIをGUESSしてゆく！寿司ゲッサー【ホロライブ / AZKi】
-UID:PvjN8dPHX28
+SUMMARY:🌽白上フブキ: 【スマブラSP】３勝しないと終われないスマブラ配信【ホロライブ/白上フブキ】
+UID:VRxoKgaIeuI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【耐久】五目並べNPC全レベに勝つまでおわれまてん！！弱くないもん！！！！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=txV-xUPcTgs
@@ -151,18 +165,18 @@ SUMMARY:風真いろは: 【耐久】五目並べNPC全レベに勝つまでお�
 UID:txV-xUPcTgs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スマブラSP】３勝しないと終われないスマブラ配信【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=VRxoKgaIeuI
-DURATION:PT2H
-DTSTART:20240114T130000Z
-SUMMARY:🌽白上フブキ: 【スマブラSP】３勝しないと終われないスマブラ配信【ホロライブ/白上フブキ】
-UID:VRxoKgaIeuI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ホロメン相関図】ホロメンみんなの印象や思い出を語る！！！【ホロライブ/夜空メル】\nhttps://www.youtube.com/watch?v=uzbe_Ra0l_I
 DURATION:PT2H
 DTSTART:20240114T130000Z
 SUMMARY:🌟夜空メル: 【ホロメン相関図】ホロメンみんなの印象や思い出を語る！！！【ホロライブ/夜空メル】
 UID:uzbe_Ra0l_I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【そろそろ寿司を食べないと死ぬぜ！ユニバース】SUSHIをGUESSしてゆく！寿司ゲッサー【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=PvjN8dPHX28
+DURATION:PT2H
+DTSTART:20240114T130000Z
+SUMMARY:⚒AZKi: 【そろそろ寿司を食べないと死ぬぜ！ユニバース】SUSHIをGUESSしてゆく！寿司ゲッサー【ホロライブ / AZKi】
+UID:PvjN8dPHX28
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HoloCure】今年もまったり遊んでいくんだ！【ホロライブ/ときのそら】\nhttps://www.youtube.com/watch?v=B6hawzCqB-o
@@ -177,6 +191,13 @@ DURATION:PT2H
 DTSTART:20240113T040000Z
 SUMMARY:🌽白上フブキ: 【メン限】続！企画の問題集をみんなで作ろう！！【ホロライブ/白上フブキ】
 UID:U3OJTaJAQIM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:「そこの君 幸せそうですね」 #ホロハニ #リア充撲滅キャンペーン #紫咲シオン\nhttps://www.youtube.com/watch?v=XWwEZ73kBZA
+DURATION:PT2H
+DTSTART:20240114T120024Z
+SUMMARY:ホロライブ: 「そこの君 幸せそうですね」 #ホロハニ #リア充撲滅キャンペーン #紫咲シオン
+UID:XWwEZ73kBZA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【踊ってみた】ぼっちで #てぇてぇダンス 【ホロライブ/宝鐘マリン】#shorts\nhttps://www.youtube.com/watch?v=zUyZYO1KquU
@@ -219,6 +240,13 @@ DURATION:PT2H
 DTSTART:20240113T100000Z
 SUMMARY:ホロライブ: 『hololive Shuffle Medley 2024』オリジナルMV【 #ホロライブカウントダウン2023 】
 UID:YjhaRp3PvPo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メン限】ハリーポッターと賢者の石同時視聴会【百鬼あやめ/ホロライブ】\nhttps://www.youtube.com/watch?v=LX4fLnypWDg
+DURATION:PT2H
+DTSTART:20240114T120000Z
+SUMMARY:👿百鬼あやめ: 【メン限】ハリーポッターと賢者の石同時視聴会【百鬼あやめ/ホロライブ】
+UID:LX4fLnypWDg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロ狂人ワードウルフ】最強の狂人を決める！！！！！！！！！【ホロライブ】\nhttps://www.youtube.com/watch?v=g1ZIu91A12E
