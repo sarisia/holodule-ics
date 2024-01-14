@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】 So we're back in the mines\nhttps://www.youtube.com/watch?v=RBJlcEsuQw0
+DURATION:PT2H
+DTSTART:20240115T030000Z
+SUMMARY:Crimzon: 【MINECRAFT】 So we're back in the mines
+UID:RBJlcEsuQw0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:IOFI 3.0 PART 2【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=SDnofdyZmkQ
 DURATION:PT2H
 DTSTART:20240114T120000Z
@@ -650,7 +657,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【The Forest of Drizzling Rain】A Place Where I'm Meant To Go..\nhttps://www.youtube.com/watch?v=8a0Nj0lYQNU
 DURATION:PT2H
-DTSTART:20240115T000000Z
+DTSTART:20240115T010000Z
 SUMMARY:Flayon: 【The Forest of Drizzling Rain】A Place Where I'm Meant To Go..
 UID:8a0Nj0lYQNU
 END:VEVENT
