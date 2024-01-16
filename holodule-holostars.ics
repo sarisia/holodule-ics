@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【MHW:IB】本日よりモンハンワールド：アイスボーンに挑む男【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=CsexTIT1Q9U
+DURATION:PT2H
+DTSTART:20240117T040000Z
+SUMMARY:🍷夕刻ロベル: 【MHW:IB】本日よりモンハンワールド：アイスボーンに挑む男【夕刻ロベル/ホロスターズ】
+UID:CsexTIT1Q9U
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【報告枠】最長全治１年【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=f52-hrbXpJ8
 DURATION:PT2H
 DTSTART:20240115T130000Z
@@ -25,18 +32,18 @@ SUMMARY:🦔💨岸堂天真: 【マリカ】マリカを極めるには人生�
 UID:5Q_mYtMmN40
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【エスカレーター / Escalator 】時々ここにエスカレーター必要なんだってくらい短いのあるよね。あれも異変？【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=zClGzV9wKyQ
-DURATION:PT2H
-DTSTART:20240115T090000Z
-SUMMARY:🍕アルランディス: 【エスカレーター / Escalator 】時々ここにエスカレーター必要なんだってくらい短いのあるよね。あれも異変？【アルランディス/ホロスターズ】
-UID:zClGzV9wKyQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:晩餐歌  1cho　/ tuki. covered by 律可\nhttps://www.youtube.com/watch?v=cq70kVLcmkI
 DURATION:PT2H
 DTSTART:20240116T104203Z
 SUMMARY:⚙律可: 晩餐歌  1cho　/ tuki. covered by 律可
 UID:cq70kVLcmkI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【エスカレーター / Escalator 】時々ここにエスカレーター必要なんだってくらい短いのあるよね。あれも異変？【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=zClGzV9wKyQ
+DURATION:PT2H
+DTSTART:20240115T090000Z
+SUMMARY:🍕アルランディス: 【エスカレーター / Escalator 】時々ここにエスカレーター必要なんだってくらい短いのあるよね。あれも異変？【アルランディス/ホロスターズ】
+UID:zClGzV9wKyQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MHW】とりあえずアイスボーン行くまでの準備をする男【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=QrJ6xkqgXQo
