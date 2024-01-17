@@ -382,18 +382,18 @@ SUMMARY:緋崎ガンマ: 【縦型配信】ひたすらみんなに「おはよ�
 UID:RocdE5xo7M4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【同時視聴】物語シリーズ：化物語「なでこスネイク」「つばさキャット」　をみんなで見よう　【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=Hjej0SYIqqc
-DURATION:PT2H
-DTSTART:20240117T120000Z
-SUMMARY:👾常闇トワ: 【同時視聴】物語シリーズ：化物語「なでこスネイク」「つばさキャット」　をみんなで見よう　【常闇トワ/ホロライブ】
-UID:Hjej0SYIqqc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【LETHAL COMPANY】with @KaelaKovalskia ONE BOOMBOX PLS\nhttps://www.youtube.com/watch?v=qGJXKJ0BwYQ
 DURATION:PT2H
 DTSTART:20240118T000000Z
 SUMMARY:Bijou: 【LETHAL COMPANY】with @KaelaKovalskia ONE BOOMBOX PLS
 UID:qGJXKJ0BwYQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【同時視聴】物語シリーズ：化物語「なでこスネイク」「つばさキャット」　をみんなで見よう　【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=Hjej0SYIqqc
+DURATION:PT2H
+DTSTART:20240117T120000Z
+SUMMARY:👾常闇トワ: 【同時視聴】物語シリーズ：化物語「なでこスネイク」「つばさキャット」　をみんなで見よう　【常闇トワ/ホロライブ】
+UID:Hjej0SYIqqc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Memberships only】ほんとにほんとに少しだけ！！！【メンバー限定】\nhttps://www.youtube.com/watch?v=WCdg8ruII6A
@@ -408,6 +408,13 @@ DURATION:PT2H
 DTSTART:20240117T010000Z
 SUMMARY:Hakka: 【PALWORLD】 LET'S EXPLORE THIS NEW LAND AND MAKE SOME PALS! 【EARLY ACCESS】
 UID:IDM2pFwhPZQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fauna Plays Outer Wilds: Epilogue\nhttps://www.youtube.com/watch?v=XWTZV3ZqrrE
+DURATION:PT2H
+DTSTART:20240117T230000Z
+SUMMARY:Fauna: Fauna Plays Outer Wilds: Epilogue
+UID:XWTZV3ZqrrE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【テラリア/Terraria】いざ地獄へ!!ぺこマリノエテラリア4日目！【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=DKlEF_MyhCM
