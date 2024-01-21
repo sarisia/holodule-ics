@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:Indiana Jones..FPS? | How to write an 8【OcTalks with Octavio】#3\nhttps://www.youtube.com/watch?v=-ZCjKDAE2mw
-DURATION:PT2H
-DTSTART:20240121T090000Z
-SUMMARY:Octavio: Indiana Jones..FPS? | How to write an 8【OcTalks with Octavio】#3
-UID:-ZCjKDAE2mw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【UNO COLLAB】w/ Kureiji Ollie\, Himemiya Rie\, & Lia!\nhttps://www.youtube.com/watch?v=6Rr44NZoluw
 DURATION:PT2H
 DTSTART:20240122T020000Z
 SUMMARY:Flayon: 【UNO COLLAB】w/ Kureiji Ollie\, Himemiya Rie\, & Lia!
 UID:6Rr44NZoluw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Indiana Jones..FPS? | How to write an 8【OcTalks with Octavio】#3\nhttps://www.youtube.com/watch?v=-ZCjKDAE2mw
+DURATION:PT2H
+DTSTART:20240121T090000Z
+SUMMARY:Octavio: Indiana Jones..FPS? | How to write an 8【OcTalks with Octavio】#3
+UID:-ZCjKDAE2mw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【2nd Outfit + Machiroon AFTER PARTY】quick chill session o . o\nhttps://www.youtube.com/watch?v=WILFVMzsRYQ
@@ -25,11 +25,25 @@ SUMMARY:Flayon: 【2nd Outfit + Machiroon AFTER PARTY】quick chill session o . 
 UID:WILFVMzsRYQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【DWARF FORTRESS】 Diggin' too greedily and too deep\nhttps://www.youtube.com/watch?v=SJg2Izqio6E
+DURATION:PT2H
+DTSTART:20240120T190000Z
+SUMMARY:Crimzon: 【DWARF FORTRESS】 Diggin' too greedily and too deep
+UID:SJg2Izqio6E
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【PALWORLD】RELEASE DATE BABY\, LET'S ROLL!\nhttps://www.youtube.com/watch?v=bRgHl8rDI6A
 DURATION:PT2H
 DTSTART:20240120T010000Z
 SUMMARY:Hakka: 【PALWORLD】RELEASE DATE BABY\, LET'S ROLL!
 UID:bRgHl8rDI6A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Granblue Fantasy: Relink】Let's explore the world of Granblue Fantasy together!!! #sponsored #relink\nhttps://www.youtube.com/watch?v=OdujJESFQgs
+DURATION:PT2H
+DTSTART:20240121T030000Z
+SUMMARY:Syrios: 【Granblue Fantasy: Relink】Let's explore the world of Granblue Fantasy together!!! #sponsored #relink
+UID:OdujJESFQgs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【CODE VEIN】I Want This Game To Consume Me\nhttps://www.youtube.com/watch?v=LdpOpRFWB6c
@@ -44,13 +58,6 @@ DURATION:PT2H
 DTSTART:20240120T020000Z
 SUMMARY:Shinri: 【Killer Frequency】You're listening to NATIONAL TEMPUS RADIO *WOLOLO SFX* (stream may be postponed)
 UID:1JAz8NSAdBY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Granblue Fantasy: Relink】Let's explore the world of Granblue Fantasy together!!! #sponsored #relink\nhttps://www.youtube.com/watch?v=OdujJESFQgs
-DURATION:PT2H
-DTSTART:20240121T030000Z
-SUMMARY:Syrios: 【Granblue Fantasy: Relink】Let's explore the world of Granblue Fantasy together!!! #sponsored #relink
-UID:OdujJESFQgs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX LEGENDS】Carrying @KureijiOllie to VICTORY\nhttps://www.youtube.com/watch?v=41zlStqP4C8
@@ -81,18 +88,18 @@ SUMMARY:Flayon: 【.flow】Will You Let The Rust Consume You?
 UID:GM06mI_ruyk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【CULT OF THE LAMB】Ruzader Cult\nhttps://www.youtube.com/watch?v=1CcjzZLZ9_k
+DURATION:PT2H
+DTSTART:20240121T131410Z
+SUMMARY:Crimzon: 【CULT OF THE LAMB】Ruzader Cult
+UID:1CcjzZLZ9_k
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Content Warning|【Machiroon Appreciation+ NEW OUTFIT】AAAAAAAAA\nhttps://www.youtube.com/watch?v=QrJcOQaehcQ
 DURATION:PT2H
 DTSTART:20240121T000000Z
 SUMMARY:Flayon: Content Warning|【Machiroon Appreciation+ NEW OUTFIT】AAAAAAAAA
 UID:QrJcOQaehcQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:HOLOSTARS BASKETBALL - ARMIS VS TEMPUS【NBA 2K23】\nhttps://www.youtube.com/watch?v=dN6qyRxzJNw
-DURATION:PT2H
-DTSTART:20240120T070000Z
-SUMMARY:Octavio: HOLOSTARS BASKETBALL - ARMIS VS TEMPUS【NBA 2K23】
-UID:dN6qyRxzJNw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Membership Zatsudan】I'm not going to nerd out on my senpais new outfit reveals I promise nope\nhttps://www.youtube.com/watch?v=IJOhhWlWVLs
@@ -109,11 +116,11 @@ SUMMARY:Jurard: 【GOD EATER RESURRECTION】PLAYING MY CHILDHOOD GAME
 UID:_sz715bwXMs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DWARF FORTRESS】 Diggin' too greedily and too deep\nhttps://www.youtube.com/watch?v=SJg2Izqio6E
+DESCRIPTION:HOLOSTARS BASKETBALL - ARMIS VS TEMPUS【NBA 2K23】\nhttps://www.youtube.com/watch?v=dN6qyRxzJNw
 DURATION:PT2H
-DTSTART:20240120T190000Z
-SUMMARY:Crimzon: 【DWARF FORTRESS】 Diggin' too greedily and too deep
-UID:SJg2Izqio6E
+DTSTART:20240120T070000Z
+SUMMARY:Octavio: HOLOSTARS BASKETBALL - ARMIS VS TEMPUS【NBA 2K23】
+UID:dN6qyRxzJNw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Tengu Talk】So you like bad guys huh? GOOD CAUSE I AM BAD AT EVERYTHING!\nhttps://www.youtube.com/watch?v=Gk0bWCcN8rE
