@@ -4,6 +4,27 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ラジオ配信】ReGLOSS ROOM #15　1月担当：火威青・一条莉々華【#リグ部屋】\nhttps://www.youtube.com/watch?v=YTDCr5itWFY
+DURATION:PT2H
+DTSTART:20240125T090000Z
+SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM #15　1月担当：火威青・一条莉々華【#リグ部屋】
+UID:YTDCr5itWFY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PALWORLD】ひおこしあおって誰【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=vLrxU691M_o
+DURATION:PT2H
+DTSTART:20240123T120000Z
+SUMMARY:火威青: 【PALWORLD】ひおこしあおって誰【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:vLrxU691M_o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【人生ゲーム for Nintendo Switch】僕は君たち全員と人生を歩みたい！【火威青】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=E9k-SI_vWS8
+DURATION:PT2H
+DTSTART:20240124T120000Z
+SUMMARY:火威青: 【人生ゲーム for Nintendo Switch】僕は君たち全員と人生を歩みたい！【火威青】#hololiveDEV_IS #ReGLOSS
+UID:E9k-SI_vWS8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【スパチャ読み】お待たせいたしましたのスパチャ読み回【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=mQMw5NkrbcU
 DURATION:PT2H
 DTSTART:20240123T093000Z
@@ -18,20 +39,6 @@ SUMMARY:轟はじめ: 【PALWORLD】ぶんぶんアイランド、旅立ちの�
 UID:d9nIyE7WR4A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【PALWORLD】ひおこしあおって誰【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=vLrxU691M_o
-DURATION:PT2H
-DTSTART:20240123T120000Z
-SUMMARY:火威青: 【PALWORLD】ひおこしあおって誰【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:vLrxU691M_o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【初めてなのに、オフコラボ！？】Zeta先輩、お昼ごはん…食べますか！？【一条莉々華  / ホロライブ】\nhttps://www.youtube.com/watch?v=HRaZhEC8a-U
-DURATION:PT2H
-DTSTART:20240123T030000Z
-SUMMARY:一条莉々華: 【初めてなのに、オフコラボ！？】Zeta先輩、お昼ごはん…食べますか！？【一条莉々華  / ホロライブ】
-UID:HRaZhEC8a-U
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Coffee Talk２】とりあえず落ち着いてコーヒーでも【儒烏風亭らでん  #ReGLOSS 】\nhttps://www.youtube.com/watch?v=bQIIPNxAvEk
 DURATION:PT2H
 DTSTART:20240123T140000Z
@@ -39,11 +46,11 @@ SUMMARY:儒烏風亭らでん: 【Coffee Talk２】とりあえず落ち着い�
 UID:bQIIPNxAvEk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ラジオ配信】ReGLOSS ROOM #15　1月担当：火威青・一条莉々華【#リグ部屋】\nhttps://www.youtube.com/watch?v=YTDCr5itWFY
+DESCRIPTION:【初めてなのに、オフコラボ！？】Zeta先輩、お昼ごはん…食べますか！？【一条莉々華  / ホロライブ】\nhttps://www.youtube.com/watch?v=HRaZhEC8a-U
 DURATION:PT2H
-DTSTART:20240125T090000Z
-SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM #15　1月担当：火威青・一条莉々華【#リグ部屋】
-UID:YTDCr5itWFY
+DTSTART:20240123T030000Z
+SUMMARY:一条莉々華: 【初めてなのに、オフコラボ！？】Zeta先輩、お昼ごはん…食べますか！？【一条莉々華  / ホロライブ】
+UID:HRaZhEC8a-U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PALWORLD】最近はやりのゲーム？！初見でプレイします！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=YYjL9yJobGQ
