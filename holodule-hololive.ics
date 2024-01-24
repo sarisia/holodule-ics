@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ちょっとはなす】\nhttps://www.youtube.com/watch?v=wW1qaVgu_Yo
-DURATION:PT2H
-DTSTART:20240123T090000Z
-SUMMARY:ラプラス: 【ちょっとはなす】
-UID:wW1qaVgu_Yo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 ホロ鯖Palworld 】第一拠点は嵐に呑まれてなくなりました。これを機に移転します✌【ロボ子さん / ホロライブ】\nhttps://www.youtube.com/watch?v=XOFkKH4iYoA
 DURATION:PT2H
 DTSTART:20240124T030000Z
@@ -72,6 +65,13 @@ DURATION:PT2H
 DTSTART:20240122T220000Z
 SUMMARY:博衣こより: 【#朝こよ】おはこよ～！火曜日の朝は朝こよ～っ☀ #164【博衣こより/hololive】
 UID:0I8gznD4zOw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 パルワールド 】過酷すぎる世界、そして家ロス【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=U1jY3oPbhpA
+DURATION:PT2H
+DTSTART:20240124T100000Z
+SUMMARY:🌸さくらみこ: 【 パルワールド 】過酷すぎる世界、そして家ロス【ホロライブ/さくらみこ】
+UID:U1jY3oPbhpA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【推しカメラ】「ハピチョコ」かわいく踊れてる？【ときのそら】#shorts\nhttps://www.youtube.com/watch?v=Kl-xr822bw4
