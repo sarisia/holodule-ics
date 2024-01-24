@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ちょっとはなす】\nhttps://www.youtube.com/watch?v=wW1qaVgu_Yo
+DURATION:PT2H
+DTSTART:20240123T090000Z
+SUMMARY:ラプラス: 【ちょっとはなす】
+UID:wW1qaVgu_Yo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 ホロ鯖Palworld 】第一拠点は嵐に呑まれてなくなりました。これを機に移転します✌【ロボ子さん / ホロライブ】\nhttps://www.youtube.com/watch?v=XOFkKH4iYoA
 DURATION:PT2H
 DTSTART:20240124T030000Z
