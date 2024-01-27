@@ -4,18 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【漢字でGO！】わしはアホじゃない【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=DwjkVVV45tQ
+DESCRIPTION:【同時視聴】葬送のフリーレン7～12話 みる！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=TpxhX9LvHSc
 DURATION:PT2H
-DTSTART:20240126T140000Z
-SUMMARY:轟はじめ: 【漢字でGO！】わしはアホじゃない【轟はじめ/ReGLOSS】＃hololiveDEV_IS
-UID:DwjkVVV45tQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ホロ鯖 Palworld】全パル捕獲の旅に出る！！いくぞー！！！！！！！！【一条莉々華  / ホロライブ】\nhttps://www.youtube.com/watch?v=2aw74LdyC3Y
-DURATION:PT2H
-DTSTART:20240127T030000Z
-SUMMARY:一条莉々華: 【ホロ鯖 Palworld】全パル捕獲の旅に出る！！いくぞー！！！！！！！！【一条莉々華  / ホロライブ】
-UID:2aw74LdyC3Y
+DTSTART:20240127T040000Z
+SUMMARY:音乃瀬奏: 【同時視聴】葬送のフリーレン7～12話 みる！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
+UID:TpxhX9LvHSc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#らでんのラジオ】第七回目らでんのラジオ！ふつおた回【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=9VppU_ssloA
@@ -30,5 +23,26 @@ DURATION:PT2H
 DTSTART:20240126T123000Z
 SUMMARY:火威青: 【PALWORLD】ホロ鯖で僕のお姫様を探す旅【火威青 】#hololiveDEV_IS #ReGLOSS
 UID:o4qB23BkXNI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PALWORLD】ばんちょーなパルはおるか！？！？【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=6aCc0VTxnb8
+DURATION:PT2H
+DTSTART:20240127T110000Z
+SUMMARY:轟はじめ: 【PALWORLD】ばんちょーなパルはおるか！？！？【轟はじめ/ReGLOSS】＃hololiveDEV_IS
+UID:6aCc0VTxnb8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ホロ鯖 Palworld】全パル捕獲の旅に出る！！いくぞー！！！！！！！！【一条莉々華  / ホロライブ】\nhttps://www.youtube.com/watch?v=2aw74LdyC3Y
+DURATION:PT2H
+DTSTART:20240127T030000Z
+SUMMARY:一条莉々華: 【ホロ鯖 Palworld】全パル捕獲の旅に出る！！いくぞー！！！！！！！！【一条莉々華  / ホロライブ】
+UID:2aw74LdyC3Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【漢字でGO！】わしはアホじゃない【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=DwjkVVV45tQ
+DURATION:PT2H
+DTSTART:20240126T140000Z
+SUMMARY:轟はじめ: 【漢字でGO！】わしはアホじゃない【轟はじめ/ReGLOSS】＃hololiveDEV_IS
+UID:DwjkVVV45tQ
 END:VEVENT
 END:VCALENDAR
