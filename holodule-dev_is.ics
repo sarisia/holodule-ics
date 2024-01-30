@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】サンドリヨン(Cendrillon)【火威青×儒烏風亭らでん／ReGLOSS】\nhttps://www.youtube.com/watch?v=fpEyr7Osw0I
-DURATION:PT2H
-DTSTART:20240130T100000Z
-SUMMARY:火威青: 【歌ってみた】サンドリヨン(Cendrillon)【火威青×儒烏風亭らでん／ReGLOSS】
-UID:fpEyr7Osw0I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Q REMASTERED】天才の証明【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=BqrDgTSq0Oc
 DURATION:PT2H
 DTSTART:20240130T090000Z
@@ -18,11 +11,11 @@ SUMMARY:轟はじめ: 【Q REMASTERED】天才の証明【轟はじめ/ReGLOSS�
 UID:BqrDgTSq0Oc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【オフコラボ】おしゃ女子会ですの。おスタバ、いただきますわ。【#一条莉々華 #赤井はあと /hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=0egioXyvP90
+DESCRIPTION:【雑談】あることないことをしゃべっていく【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=jOScb4Vbn94
 DURATION:PT2H
-DTSTART:20240130T030000Z
-SUMMARY:一条莉々華: 【オフコラボ】おしゃ女子会ですの。おスタバ、いただきますわ。【#一条莉々華 #赤井はあと /hololive DEV_IS ReGLOSS】
-UID:0egioXyvP90
+DTSTART:20240130T130000Z
+SUMMARY:音乃瀬奏: 【雑談】あることないことをしゃべっていく【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
+UID:jOScb4Vbn94
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:敗北者の雑談枠 #shorts\nhttps://www.youtube.com/watch?v=6jK1LxGGioU
@@ -30,6 +23,27 @@ DURATION:PT2H
 DTSTART:20240129T090520Z
 SUMMARY:一条莉々華: 敗北者の雑談枠 #shorts
 UID:6jK1LxGGioU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#飲酒青くんかっこいい】この覚悟がないと上は目指せない【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=GN8dEK2pKuo
+DURATION:PT2H
+DTSTART:20240129T120000Z
+SUMMARY:火威青: 【#飲酒青くんかっこいい】この覚悟がないと上は目指せない【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:GN8dEK2pKuo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌ってみた】サンドリヨン(Cendrillon)【火威青×儒烏風亭らでん／ReGLOSS】\nhttps://www.youtube.com/watch?v=fpEyr7Osw0I
+DURATION:PT2H
+DTSTART:20240130T100000Z
+SUMMARY:火威青: 【歌ってみた】サンドリヨン(Cendrillon)【火威青×儒烏風亭らでん／ReGLOSS】
+UID:fpEyr7Osw0I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【オフコラボ】おしゃ女子会ですの。おスタバ、いただきますわ。【#一条莉々華 #赤井はあと /hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=0egioXyvP90
+DURATION:PT2H
+DTSTART:20240130T030000Z
+SUMMARY:一条莉々華: 【オフコラボ】おしゃ女子会ですの。おスタバ、いただきますわ。【#一条莉々華 #赤井はあと /hololive DEV_IS ReGLOSS】
+UID:0egioXyvP90
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:月に一回の🍚ご褒美豪華飯🍚の時間だ！！！！28、29万人も記念して！！わああああい！！！！【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=NHTAVULMGa4
@@ -44,12 +58,5 @@ DURATION:PT2H
 DTSTART:20240130T140000Z
 SUMMARY:儒烏風亭らでん: 【Coffee Talk2】バタフライピーにミントと蜂蜜を少々【儒烏風亭らでん  #ReGLOSS 】
 UID:Lktx_v925W0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#飲酒青くんかっこいい】この覚悟がないと上は目指せない【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=GN8dEK2pKuo
-DURATION:PT2H
-DTSTART:20240129T120000Z
-SUMMARY:火威青: 【#飲酒青くんかっこいい】この覚悟がないと上は目指せない【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:GN8dEK2pKuo
 END:VEVENT
 END:VCALENDAR
