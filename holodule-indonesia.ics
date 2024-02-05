@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Poppy Playtime】huggy wuggy ?\nhttps://www.youtube.com/watch?v=xu_wL8t_Xi4
-DURATION:PT2H
-DTSTART:20240205T150000Z
-SUMMARY:Zeta: 【Poppy Playtime】huggy wuggy ?
-UID:xu_wL8t_Xi4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】NEAT AND TIDY AND NEAT AND TIDY【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=FrJ_epddmPk
-DURATION:PT2H
-DTSTART:20240205T125950Z
-SUMMARY:Ollie: 【MINECRAFT】NEAT AND TIDY AND NEAT AND TIDY【Hololive Indonesia 2nd Gen】
-UID:FrJ_epddmPk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:(EN) 2024 FIRST CLASS! Howl are you? Reine Indonesian Class with FuwaMoco!【hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=kWrnsP4plmM
 DURATION:PT2H
 DTSTART:20240206T040000Z
@@ -30,5 +16,26 @@ DURATION:PT2H
 DTSTART:20240205T120000Z
 SUMMARY:🎨Iofi: 【Senin Produktif】Drawing Materials for Thumbnail【 iofi / hololiveID 】
 UID:CVNIKRIObtE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Poppy Playtime】huggy wuggy ?\nhttps://www.youtube.com/watch?v=xu_wL8t_Xi4
+DURATION:PT2H
+DTSTART:20240205T150000Z
+SUMMARY:Zeta: 【Poppy Playtime】huggy wuggy ?
+UID:xu_wL8t_Xi4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#5【Phoenix Wright: Trials and Tribulations】SOURCE? I MAID IT UP(SPOILER ALERT)【Pavolia Reine/holoID】\nhttps://www.youtube.com/watch?v=glmz0aOo4qc
+DURATION:PT2H
+DTSTART:20240205T153000Z
+SUMMARY:Reine: #5【Phoenix Wright: Trials and Tribulations】SOURCE? I MAID IT UP(SPOILER ALERT)【Pavolia Reine/holoID】
+UID:glmz0aOo4qc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】NEAT AND TIDY AND NEAT AND TIDY【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=FrJ_epddmPk
+DURATION:PT2H
+DTSTART:20240205T125950Z
+SUMMARY:Ollie: 【MINECRAFT】NEAT AND TIDY AND NEAT AND TIDY【Hololive Indonesia 2nd Gen】
+UID:FrJ_epddmPk
 END:VEVENT
 END:VCALENDAR
