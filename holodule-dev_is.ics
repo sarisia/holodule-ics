@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【エスカレーター】エスカレーターに閉じ込められちゃった？！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=uKoqczUWpl0
-DURATION:PT2H
-DTSTART:20240206T110000Z
-SUMMARY:音乃瀬奏: 【エスカレーター】エスカレーターに閉じ込められちゃった？！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
-UID:uKoqczUWpl0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Poppy Playtime】かわいいぬいぐるみだから怖くない！【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=BTbqLb_iyhk
 DURATION:PT2H
 DTSTART:20240205T120000Z
@@ -23,13 +16,6 @@ DURATION:PT2H
 DTSTART:20240207T130000Z
 SUMMARY:轟はじめ: 【雑談】ただいま～！帰省中のお土産話きいて～！【轟はじめ/ReGLOSS】＃hololiveDEV_IS
 UID:j5tRVDcnL2o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【風来のシレン6】シレンシリーズ初挑戦！！クリア後のダンジョンを素潜りで挑む！！！【#一条莉々華  / ホロライブ】\nhttps://www.youtube.com/watch?v=k-Hx6Z5RDKU
-DURATION:PT2H
-DTSTART:20240206T090000Z
-SUMMARY:一条莉々華: 【風来のシレン6】シレンシリーズ初挑戦！！クリア後のダンジョンを素潜りで挑む！！！【#一条莉々華  / ホロライブ】
-UID:k-Hx6Z5RDKU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ないものねだり / cover #ReGLOSS #火威青 #一条莉々華 #歌ってみた #リグ部屋 #shorts\nhttps://www.youtube.com/watch?v=31m6HqKMNvM
@@ -51,5 +37,26 @@ DURATION:PT2H
 DTSTART:20240206T120000Z
 SUMMARY:火威青: 【無言配信】君が僕にこうさせるんだよ【火威青 】#hololiveDEV_IS #ReGLOSS
 UID:AXThjFlh6uw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Coffee Talk2】あたたかいココアでも【儒烏風亭らでん  #ReGLOSS 】\nhttps://www.youtube.com/watch?v=QRWbl3cF7Vc
+DURATION:PT2H
+DTSTART:20240206T140000Z
+SUMMARY:儒烏風亭らでん: 【Coffee Talk2】あたたかいココアでも【儒烏風亭らでん  #ReGLOSS 】
+UID:QRWbl3cF7Vc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【エスカレーター】エスカレーターに閉じ込められちゃった？！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=uKoqczUWpl0
+DURATION:PT2H
+DTSTART:20240206T110000Z
+SUMMARY:音乃瀬奏: 【エスカレーター】エスカレーターに閉じ込められちゃった？！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
+UID:uKoqczUWpl0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【風来のシレン6】シレンシリーズ初挑戦！！クリア後のダンジョンを素潜りで挑む！！！【#一条莉々華  / ホロライブ】\nhttps://www.youtube.com/watch?v=k-Hx6Z5RDKU
+DURATION:PT2H
+DTSTART:20240206T090000Z
+SUMMARY:一条莉々華: 【風来のシレン6】シレンシリーズ初挑戦！！クリア後のダンジョンを素潜りで挑む！！！【#一条莉々華  / ホロライブ】
+UID:k-Hx6Z5RDKU
 END:VEVENT
 END:VCALENDAR
