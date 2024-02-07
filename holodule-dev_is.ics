@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【PALWORLD】ケーキ屋さん完成！【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=fa3UazdzXkA
-DURATION:PT2H
-DTSTART:20240207T080000Z
-SUMMARY:火威青: 【PALWORLD】ケーキ屋さん完成！【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:fa3UazdzXkA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【何かしたら即終了】#何もしない青くんイケメン【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=odfw9kFasds
-DURATION:PT2H
-DTSTART:20240207T120000Z
-SUMMARY:火威青: 【何かしたら即終了】#何もしない青くんイケメン【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:odfw9kFasds
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】ただいま～！帰省中のお土産話きいて～！【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=j5tRVDcnL2o
 DURATION:PT2H
 DTSTART:20240207T130000Z
@@ -32,13 +18,6 @@ SUMMARY:轟はじめ: 【死ぬな！/歌ってみた】轟はじめ/ReGLOSS #ho
 UID:7GGTe68tEf4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ラジオ配信】ReGLOSS ROOM #17　2月担当：音乃瀬奏・儒烏風亭らでん【#リグ部屋】\nhttps://www.youtube.com/watch?v=n8KWME6cQBU
-DURATION:PT2H
-DTSTART:20240208T090000Z
-SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM #17　2月担当：音乃瀬奏・儒烏風亭らでん【#リグ部屋】
-UID:n8KWME6cQBU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ガチでなんもない。タスケテ。限界飯すぎる。【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=woHK9PVqwRE
 DURATION:PT2H
 DTSTART:20240206T030000Z
@@ -46,32 +25,11 @@ SUMMARY:一条莉々華: ガチでなんもない。タスケテ。限界飯す�
 UID:woHK9PVqwRE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【無言配信】君が僕にこうさせるんだよ【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=AXThjFlh6uw
-DURATION:PT2H
-DTSTART:20240206T120000Z
-SUMMARY:火威青: 【無言配信】君が僕にこうさせるんだよ【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:AXThjFlh6uw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スパチャ読み】文化祭のお礼など【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=M6XP5jqy7a0
-DURATION:PT2H
-DTSTART:20240207T080000Z
-SUMMARY:儒烏風亭らでん: 【スパチャ読み】文化祭のお礼など【儒烏風亭らでん #ReGLOSS 】
-UID:M6XP5jqy7a0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Coffee Talk2】あたたかいココアでも【儒烏風亭らでん  #ReGLOSS 】\nhttps://www.youtube.com/watch?v=QRWbl3cF7Vc
 DURATION:PT2H
 DTSTART:20240206T140000Z
 SUMMARY:儒烏風亭らでん: 【Coffee Talk2】あたたかいココアでも【儒烏風亭らでん  #ReGLOSS 】
 UID:QRWbl3cF7Vc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【メン限#12】やっと話せるね（切実）\nhttps://www.youtube.com/watch?v=LGqq3N8FU_w
-DURATION:PT2H
-DTSTART:20240206T141500Z
-SUMMARY:火威青: 【メン限#12】やっと話せるね（切実）
-UID:LGqq3N8FU_w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【エスカレーター】エスカレーターに閉じ込められちゃった？！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=uKoqczUWpl0
@@ -107,5 +65,54 @@ DURATION:PT2H
 DTSTART:20240207T120000Z
 SUMMARY:音乃瀬奏: 【メン限 / ボイトレ復習】「花になって」を復習しながら歌う♪【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
 UID:lAiG--YDzfU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PALWORLD】ケーキ屋さん完成！【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=fa3UazdzXkA
+DURATION:PT2H
+DTSTART:20240207T080000Z
+SUMMARY:火威青: 【PALWORLD】ケーキ屋さん完成！【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:fa3UazdzXkA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【何かしたら即終了】#何もしない青くんイケメン【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=odfw9kFasds
+DURATION:PT2H
+DTSTART:20240207T120000Z
+SUMMARY:火威青: 【何かしたら即終了】#何もしない青くんイケメン【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:odfw9kFasds
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ラジオ配信】ReGLOSS ROOM #17　2月担当：音乃瀬奏・儒烏風亭らでん【#リグ部屋】\nhttps://www.youtube.com/watch?v=n8KWME6cQBU
+DURATION:PT2H
+DTSTART:20240208T090000Z
+SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM #17　2月担当：音乃瀬奏・儒烏風亭らでん【#リグ部屋】
+UID:n8KWME6cQBU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【無言配信】君が僕にこうさせるんだよ【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=AXThjFlh6uw
+DURATION:PT2H
+DTSTART:20240206T120000Z
+SUMMARY:火威青: 【無言配信】君が僕にこうさせるんだよ【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:AXThjFlh6uw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メン限#12】やっと話せるね（切実）\nhttps://www.youtube.com/watch?v=LGqq3N8FU_w
+DURATION:PT2H
+DTSTART:20240206T141500Z
+SUMMARY:火威青: 【メン限#12】やっと話せるね（切実）
+UID:LGqq3N8FU_w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:急にガスとまって笑う。火も使えないし、寒いから外にも出れない。ウケル。【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=CvvsVlZvnl4
+DURATION:PT2H
+DTSTART:20240208T030000Z
+SUMMARY:一条莉々華: 急にガスとまって笑う。火も使えないし、寒いから外にも出れない。ウケル。【#一条莉々華/hololive DEV_IS ReGLOSS】
+UID:CvvsVlZvnl4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スパチャ読み】文化祭のお礼など【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=M6XP5jqy7a0
+DURATION:PT2H
+DTSTART:20240207T080000Z
+SUMMARY:儒烏風亭らでん: 【スパチャ読み】文化祭のお礼など【儒烏風亭らでん #ReGLOSS 】
+UID:M6XP5jqy7a0
 END:VEVENT
 END:VCALENDAR
