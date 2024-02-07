@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ラジオ配信】ReGLOSS ROOM #17　2月担当：音乃瀬奏・儒烏風亭らでん【#リグ部屋】\nhttps://www.youtube.com/watch?v=n8KWME6cQBU
+DESCRIPTION:【PALWORLD】ケーキ屋さん完成！【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=fa3UazdzXkA
 DURATION:PT2H
-DTSTART:20240208T090000Z
-SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM #17　2月担当：音乃瀬奏・儒烏風亭らでん【#リグ部屋】
-UID:n8KWME6cQBU
+DTSTART:20240207T080000Z
+SUMMARY:火威青: 【PALWORLD】ケーキ屋さん完成！【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:fa3UazdzXkA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【何かしたら即終了】#何もしない青くんイケメン【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=odfw9kFasds
+DURATION:PT2H
+DTSTART:20240207T120000Z
+SUMMARY:火威青: 【何かしたら即終了】#何もしない青くんイケメン【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:odfw9kFasds
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】ただいま～！帰省中のお土産話きいて～！【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=j5tRVDcnL2o
@@ -16,6 +23,13 @@ DURATION:PT2H
 DTSTART:20240207T130000Z
 SUMMARY:轟はじめ: 【雑談】ただいま～！帰省中のお土産話きいて～！【轟はじめ/ReGLOSS】＃hololiveDEV_IS
 UID:j5tRVDcnL2o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ラジオ配信】ReGLOSS ROOM #17　2月担当：音乃瀬奏・儒烏風亭らでん【#リグ部屋】\nhttps://www.youtube.com/watch?v=n8KWME6cQBU
+DURATION:PT2H
+DTSTART:20240208T090000Z
+SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM #17　2月担当：音乃瀬奏・儒烏風亭らでん【#リグ部屋】
+UID:n8KWME6cQBU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ガチでなんもない。タスケテ。限界飯すぎる。【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=woHK9PVqwRE
