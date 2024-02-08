@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【The Outlast Trials】okay okay okay okay okay【hololive】\nhttps://www.youtube.com/watch?v=JFSPLBNSfVA
+DURATION:PT2H
+DTSTART:20240208T020000Z
+SUMMARY:Kaela: 【The Outlast Trials】okay okay okay okay okay【hololive】
+UID:JFSPLBNSfVA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【POPPY PLAYTIME】Peafowl Pain Time【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=sJEyZnO33sc
 DURATION:PT2H
 DTSTART:20240207T130000Z
@@ -27,7 +34,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【The Outlast Trials】Looks Like A Comedy【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=WXfNtKA5PG0
 DURATION:PT2H
-DTSTART:20240208T013000Z
+DTSTART:20240208T020000Z
 SUMMARY:Anya: 【The Outlast Trials】Looks Like A Comedy【hololive ID 2nd Generation | Anya Melfissa】
 UID:WXfNtKA5PG0
 END:VEVENT
