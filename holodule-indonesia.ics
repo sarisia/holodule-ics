@@ -4,18 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【The Outlast Trials】okay okay okay okay okay【hololive】\nhttps://www.youtube.com/watch?v=JFSPLBNSfVA
+DESCRIPTION:【 !SPOILER! 】3 Full Moons Left....【 iofi / hololiveID 】】\nhttps://www.youtube.com/watch?v=nYAN9lmDU6U
 DURATION:PT2H
-DTSTART:20240208T020000Z
-SUMMARY:Kaela: 【The Outlast Trials】okay okay okay okay okay【hololive】
-UID:JFSPLBNSfVA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【POPPY PLAYTIME】Peafowl Pain Time【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=sJEyZnO33sc
-DURATION:PT2H
-DTSTART:20240207T130000Z
-SUMMARY:Reine: 【POPPY PLAYTIME】Peafowl Pain Time【Pavolia Reine/hololiveID 2nd gen】
-UID:sJEyZnO33sc
+DTSTART:20240207T160000Z
+SUMMARY:🎨Iofi: 【 !SPOILER! 】3 Full Moons Left....【 iofi / hololiveID 】】
+UID:nYAN9lmDU6U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Palworld】ADVENTURE【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=SsX3zqLeVUc
@@ -25,11 +18,11 @@ SUMMARY:🎨Iofi: 【Palworld】ADVENTURE【 iofi / hololiveID 】
 UID:SsX3zqLeVUc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 !SPOILER! 】3 Full Moons Left....【 iofi / hololiveID 】】\nhttps://www.youtube.com/watch?v=nYAN9lmDU6U
+DESCRIPTION:#4【PERSONA 3 RELOAD】 I'VE BEEN WAITING FOR THIS (SPOILER ALERT)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=CccQNZITzc0
 DURATION:PT2H
-DTSTART:20240207T160000Z
-SUMMARY:🎨Iofi: 【 !SPOILER! 】3 Full Moons Left....【 iofi / hololiveID 】】
-UID:nYAN9lmDU6U
+DTSTART:20240208T120000Z
+SUMMARY:Reine: #4【PERSONA 3 RELOAD】 I'VE BEEN WAITING FOR THIS (SPOILER ALERT)【Pavolia Reine/hololiveID 2nd gen】
+UID:CccQNZITzc0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【The Outlast Trials】Looks Like A Comedy【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=WXfNtKA5PG0
@@ -51,5 +44,19 @@ DURATION:PT2H
 DTSTART:20240207T120000Z
 SUMMARY:Anya: 【Lethal Company #かなるーにゃ】おっ？また会社に新人が入ったみたいだな Lethal Kanalunya Gaming【hololive ID | Anya Melfissa】
 UID:sGO2FOor0OQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【The Outlast Trials】okay okay okay okay okay【hololive】\nhttps://www.youtube.com/watch?v=JFSPLBNSfVA
+DURATION:PT2H
+DTSTART:20240208T020000Z
+SUMMARY:Kaela: 【The Outlast Trials】okay okay okay okay okay【hololive】
+UID:JFSPLBNSfVA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【POPPY PLAYTIME】Peafowl Pain Time【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=sJEyZnO33sc
+DURATION:PT2H
+DTSTART:20240207T130000Z
+SUMMARY:Reine: 【POPPY PLAYTIME】Peafowl Pain Time【Pavolia Reine/hololiveID 2nd gen】
+UID:sJEyZnO33sc
 END:VEVENT
 END:VCALENDAR
