@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:昨日1曲だけ『アイドル』だった男の配信 【夜十神封魔/ホロスターズ】 #shorts #縦型配信\nhttps://www.youtube.com/watch?v=4bocGb6ZXfo
-DURATION:PT2H
-DTSTART:20240210T020107Z
-SUMMARY:夜十神封魔: 昨日1曲だけ『アイドル』だった男の配信 【夜十神封魔/ホロスターズ】 #shorts #縦型配信
-UID:4bocGb6ZXfo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】コールボーイ / syudou (covered by 緋崎ガンマ)【ホロスターズ】\nhttps://www.youtube.com/watch?v=IxMn0rNy5ss
-DURATION:PT2H
-DTSTART:20240209T120500Z
-SUMMARY:緋崎ガンマ: 【歌ってみた】コールボーイ / syudou (covered by 緋崎ガンマ)【ホロスターズ】
-UID:IxMn0rNy5ss
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【復帰】コロナとかいう奴をシバいてきました【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=kUJK5IzStdk
 DURATION:PT2H
 DTSTART:20240210T090000Z
@@ -46,18 +32,18 @@ SUMMARY:羽継烏有: 【Minecraft 】 １万年ぶりのソロマイクラ す�
 UID:LtfYDKGJ8VQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:パンケーキに本気を出しすぎるマフィアと魔人 #shorts #ホロスターズ #ホロスタショート #影山シエン #荒咬オウガ\nhttps://www.youtube.com/watch?v=RL4Tr12oAMI
-DURATION:PT2H
-DTSTART:20240209T100021Z
-SUMMARY:ホロスターズ: パンケーキに本気を出しすぎるマフィアと魔人 #shorts #ホロスターズ #ホロスタショート #影山シエン #荒咬オウガ
-UID:RL4Tr12oAMI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌ってみた】冬のプレゼント/岸堂天真\nhttps://www.youtube.com/watch?v=PxdAsuRsiqw
 DURATION:PT2H
 DTSTART:20240209T110019Z
 SUMMARY:🦔💨岸堂天真: 【歌ってみた】冬のプレゼント/岸堂天真
 UID:PxdAsuRsiqw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【お料理配信 | カメラ付き】ピザを作った時の強力粉がまだあるので全部うどんにする!!天ぷらもあげちゃうぞ！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=Jf2hZJ4sqYg
+DURATION:PT2H
+DTSTART:20240211T050000Z
+SUMMARY:🍕アルランディス: 【お料理配信 | カメラ付き】ピザを作った時の強力粉がまだあるので全部うどんにする!!天ぷらもあげちゃうぞ！【アルランディス/ホロスターズ】
+UID:Jf2hZJ4sqYg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GRANBLUE FANTASY: Relink】グラブルほぼミリしらが挑んでみようと思う【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=Zd_aLYOzKtI
@@ -67,6 +53,13 @@ SUMMARY:🍷夕刻ロベル: 【GRANBLUE FANTASY: Relink】グラブルほぼミ
 UID:Zd_aLYOzKtI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#緋崎ガンマ生誕祭2024】🎉誕生日3DLIVE🎉ゲストと一緒に暴れるぞ！！！【#緋崎ガンマ / #ホロスターズ / #vtuber】\nhttps://www.youtube.com/watch?v=tV8G1lLS4Vo
+DURATION:PT2H
+DTSTART:20240209T110000Z
+SUMMARY:緋崎ガンマ: 【#緋崎ガンマ生誕祭2024】🎉誕生日3DLIVE🎉ゲストと一緒に暴れるぞ！！！【#緋崎ガンマ / #ホロスターズ / #vtuber】
+UID:tV8G1lLS4Vo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【League of Legends】ド深夜突発LoLカスタムに参加しました枠※メンバーは概要欄！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=_dXQhWSyOV8
 DURATION:PT2H
 DTSTART:20240209T190000Z
@@ -74,18 +67,32 @@ SUMMARY:🍕アルランディス: 【League of Legends】ド深夜突発LoLカ�
 UID:_dXQhWSyOV8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:昨日1曲だけ『アイドル』だった男の配信 【夜十神封魔/ホロスターズ】 #shorts #縦型配信\nhttps://www.youtube.com/watch?v=4bocGb6ZXfo
+DURATION:PT2H
+DTSTART:20240210T020107Z
+SUMMARY:夜十神封魔: 昨日1曲だけ『アイドル』だった男の配信 【夜十神封魔/ホロスターズ】 #shorts #縦型配信
+UID:4bocGb6ZXfo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌ってみた】コールボーイ / syudou (covered by 緋崎ガンマ)【ホロスターズ】\nhttps://www.youtube.com/watch?v=IxMn0rNy5ss
+DURATION:PT2H
+DTSTART:20240209T120500Z
+SUMMARY:緋崎ガンマ: 【歌ってみた】コールボーイ / syudou (covered by 緋崎ガンマ)【ホロスターズ】
+UID:IxMn0rNy5ss
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:パンケーキに本気を出しすぎるマフィアと魔人 #shorts #ホロスターズ #ホロスタショート #影山シエン #荒咬オウガ\nhttps://www.youtube.com/watch?v=RL4Tr12oAMI
+DURATION:PT2H
+DTSTART:20240209T100021Z
+SUMMARY:ホロスターズ: パンケーキに本気を出しすぎるマフィアと魔人 #shorts #ホロスターズ #ホロスタショート #影山シエン #荒咬オウガ
+UID:RL4Tr12oAMI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【部屋訪問】リスナーの部屋にUPROAR!! 4人で突撃しにいく！！！！！【#ホロスターズ / #放課後アップロー / 緋崎ガンマ / 夜十神封魔 / 羽継烏有 / 水無世燐央】\nhttps://www.youtube.com/watch?v=e_XyKwb_21E
 DURATION:PT2H
 DTSTART:20240211T090000Z
 SUMMARY:緋崎ガンマ: 【部屋訪問】リスナーの部屋にUPROAR!! 4人で突撃しにいく！！！！！【#ホロスターズ / #放課後アップロー / 緋崎ガンマ / 夜十神封魔 / 羽継烏有 / 水無世燐央】
 UID:e_XyKwb_21E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#緋崎ガンマ生誕祭2024】🎉誕生日3DLIVE🎉ゲストと一緒に暴れるぞ！！！【#緋崎ガンマ / #ホロスターズ / #vtuber】\nhttps://www.youtube.com/watch?v=tV8G1lLS4Vo
-DURATION:PT2H
-DTSTART:20240209T110000Z
-SUMMARY:緋崎ガンマ: 【#緋崎ガンマ生誕祭2024】🎉誕生日3DLIVE🎉ゲストと一緒に暴れるぞ！！！【#緋崎ガンマ / #ホロスターズ / #vtuber】
-UID:tV8G1lLS4Vo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GRANBLUE FANTASY: Relink】ロベル、お前はな。騎空団の一員になるんだよ　二日目【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=zmre_6GVEBY
