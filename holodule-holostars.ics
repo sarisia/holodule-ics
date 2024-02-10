@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:昨日1曲だけ『アイドル』だった男の配信 【夜十神封魔/ホロスターズ】 #shorts #縦型配信\nhttps://www.youtube.com/watch?v=4bocGb6ZXfo
+DURATION:PT2H
+DTSTART:20240210T020107Z
+SUMMARY:夜十神封魔: 昨日1曲だけ『アイドル』だった男の配信 【夜十神封魔/ホロスターズ】 #shorts #縦型配信
+UID:4bocGb6ZXfo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【復帰】コロナとかいう奴をシバいてきました【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=kUJK5IzStdk
 DURATION:PT2H
 DTSTART:20240210T090000Z
@@ -18,13 +25,6 @@ SUMMARY:🍕アルランディス: 【メンバー限定】みんなで見る映
 UID:_P-PKCc0MR8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Granblue Fantasy: Relink】グランブルーファンタジー、完全初見プレイ Part1【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=nN0AJ9ok7qA
-DURATION:PT2H
-DTSTART:20240209T151000Z
-SUMMARY:🦔💨岸堂天真: 【Granblue Fantasy: Relink】グランブルーファンタジー、完全初見プレイ Part1【岸堂天真/ホロスターズ】
-UID:nN0AJ9ok7qA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft 】 １万年ぶりのソロマイクラ すぐ終わります  【vtuber / ホロスターズ 】\nhttps://www.youtube.com/watch?v=LtfYDKGJ8VQ
 DURATION:PT2H
 DTSTART:20240209T181502Z
@@ -32,11 +32,32 @@ SUMMARY:羽継烏有: 【Minecraft 】 １万年ぶりのソロマイクラ す�
 UID:LtfYDKGJ8VQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】冬のプレゼント/岸堂天真\nhttps://www.youtube.com/watch?v=PxdAsuRsiqw
+DESCRIPTION:【Granblue Fantasy: Relink】グランブルーファンタジー、完全初見プレイ Part1【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=nN0AJ9ok7qA
 DURATION:PT2H
-DTSTART:20240209T110019Z
-SUMMARY:🦔💨岸堂天真: 【歌ってみた】冬のプレゼント/岸堂天真
-UID:PxdAsuRsiqw
+DTSTART:20240209T151000Z
+SUMMARY:🦔💨岸堂天真: 【Granblue Fantasy: Relink】グランブルーファンタジー、完全初見プレイ Part1【岸堂天真/ホロスターズ】
+UID:nN0AJ9ok7qA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Granblue Fantasy: Relink】グランブルーファンタジー、完全初見プレイ Part2【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=ZHXS4ijoTBc
+DURATION:PT2H
+DTSTART:20240210T072500Z
+SUMMARY:🦔💨岸堂天真: 【Granblue Fantasy: Relink】グランブルーファンタジー、完全初見プレイ Part2【岸堂天真/ホロスターズ】
+UID:ZHXS4ijoTBc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MHW:IB】ミラボレアス【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=GXm81_gqrVE
+DURATION:PT2H
+DTSTART:20240211T050000Z
+SUMMARY:🍷夕刻ロベル: 【MHW:IB】ミラボレアス【夕刻ロベル/ホロスターズ】
+UID:GXm81_gqrVE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【部屋訪問】リスナーの部屋にUPROAR!! 4人で突撃しにいく！！！！！【#ホロスターズ / #放課後アップロー / 緋崎ガンマ / 夜十神封魔 / 羽継烏有 / 水無世燐央】\nhttps://www.youtube.com/watch?v=e_XyKwb_21E
+DURATION:PT2H
+DTSTART:20240211T090000Z
+SUMMARY:緋崎ガンマ: 【部屋訪問】リスナーの部屋にUPROAR!! 4人で突撃しにいく！！！！！【#ホロスターズ / #放課後アップロー / 緋崎ガンマ / 夜十神封魔 / 羽継烏有 / 水無世燐央】
+UID:e_XyKwb_21E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #スト6 】ブランクありすぎるルームマッチ2/10【荒咬オウガ /ホロスターズ】\nhttps://www.youtube.com/watch?v=kJdbiiOQ1DI
@@ -53,76 +74,6 @@ SUMMARY:🍕アルランディス: 【お料理配信 | カメラ付き】ピザ
 UID:Jf2hZJ4sqYg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ASMR】これが最後かもしれないセリフ読みASMR【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=n1TEICIBvQY
-DURATION:PT2H
-DTSTART:20240210T090000Z
-SUMMARY:🌺花咲みやび: 【ASMR】これが最後かもしれないセリフ読みASMR【花咲みやび/ホロスターズ】
-UID:n1TEICIBvQY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【GRANBLUE FANTASY: Relink】グラブルほぼミリしらが挑んでみようと思う【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=Zd_aLYOzKtI
-DURATION:PT2H
-DTSTART:20240209T040000Z
-SUMMARY:🍷夕刻ロベル: 【GRANBLUE FANTASY: Relink】グラブルほぼミリしらが挑んでみようと思う【夕刻ロベル/ホロスターズ】
-UID:Zd_aLYOzKtI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#緋崎ガンマ生誕祭2024】🎉誕生日3DLIVE🎉ゲストと一緒に暴れるぞ！！！【#緋崎ガンマ / #ホロスターズ / #vtuber】\nhttps://www.youtube.com/watch?v=tV8G1lLS4Vo
-DURATION:PT2H
-DTSTART:20240209T110000Z
-SUMMARY:緋崎ガンマ: 【#緋崎ガンマ生誕祭2024】🎉誕生日3DLIVE🎉ゲストと一緒に暴れるぞ！！！【#緋崎ガンマ / #ホロスターズ / #vtuber】
-UID:tV8G1lLS4Vo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【League of Legends】ド深夜突発LoLカスタムに参加しました枠※メンバーは概要欄！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=_dXQhWSyOV8
-DURATION:PT2H
-DTSTART:20240209T190000Z
-SUMMARY:🍕アルランディス: 【League of Legends】ド深夜突発LoLカスタムに参加しました枠※メンバーは概要欄！【アルランディス/ホロスターズ】
-UID:_dXQhWSyOV8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Granblue Fantasy: Relink】グランブルーファンタジー、完全初見プレイ Part2【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=ZHXS4ijoTBc
-DURATION:PT2H
-DTSTART:20240210T072500Z
-SUMMARY:🦔💨岸堂天真: 【Granblue Fantasy: Relink】グランブルーファンタジー、完全初見プレイ Part2【岸堂天真/ホロスターズ】
-UID:ZHXS4ijoTBc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:昨日1曲だけ『アイドル』だった男の配信 【夜十神封魔/ホロスターズ】 #shorts #縦型配信\nhttps://www.youtube.com/watch?v=4bocGb6ZXfo
-DURATION:PT2H
-DTSTART:20240210T020107Z
-SUMMARY:夜十神封魔: 昨日1曲だけ『アイドル』だった男の配信 【夜十神封魔/ホロスターズ】 #shorts #縦型配信
-UID:4bocGb6ZXfo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】コールボーイ / syudou (covered by 緋崎ガンマ)【ホロスターズ】\nhttps://www.youtube.com/watch?v=IxMn0rNy5ss
-DURATION:PT2H
-DTSTART:20240209T120500Z
-SUMMARY:緋崎ガンマ: 【歌ってみた】コールボーイ / syudou (covered by 緋崎ガンマ)【ホロスターズ】
-UID:IxMn0rNy5ss
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MHW:IB】ミラボレアス【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=GXm81_gqrVE
-DURATION:PT2H
-DTSTART:20240211T050000Z
-SUMMARY:🍷夕刻ロベル: 【MHW:IB】ミラボレアス【夕刻ロベル/ホロスターズ】
-UID:GXm81_gqrVE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:パンケーキに本気を出しすぎるマフィアと魔人 #shorts #ホロスターズ #ホロスタショート #影山シエン #荒咬オウガ\nhttps://www.youtube.com/watch?v=RL4Tr12oAMI
-DURATION:PT2H
-DTSTART:20240209T100021Z
-SUMMARY:ホロスターズ: パンケーキに本気を出しすぎるマフィアと魔人 #shorts #ホロスターズ #ホロスタショート #影山シエン #荒咬オウガ
-UID:RL4Tr12oAMI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【部屋訪問】リスナーの部屋にUPROAR!! 4人で突撃しにいく！！！！！【#ホロスターズ / #放課後アップロー / 緋崎ガンマ / 夜十神封魔 / 羽継烏有 / 水無世燐央】\nhttps://www.youtube.com/watch?v=e_XyKwb_21E
-DURATION:PT2H
-DTSTART:20240211T090000Z
-SUMMARY:緋崎ガンマ: 【部屋訪問】リスナーの部屋にUPROAR!! 4人で突撃しにいく！！！！！【#ホロスターズ / #放課後アップロー / 緋崎ガンマ / 夜十神封魔 / 羽継烏有 / 水無世燐央】
-UID:e_XyKwb_21E
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】誕生日LIVEやら歌ってみたやら色々おつかれした雑談 #shorts #縦型配信   #vtuber  【 vtuber / ホロスターズ 】\nhttps://www.youtube.com/watch?v=zzFXo7IgM64
 DURATION:PT2H
 DTSTART:20240210T105729Z
@@ -130,11 +81,18 @@ SUMMARY:緋崎ガンマ: 【雑談】誕生日LIVEやら歌ってみたやら色
 UID:zzFXo7IgM64
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【UNDER NIGHT IN-BIRTH II Sys:Celes】ボコられても泣かない【荒咬オウガ /ホロスターズ】\nhttps://www.youtube.com/watch?v=avJFY45c0Og
+DESCRIPTION:【ASMR】これが最後かもしれないセリフ読みASMR【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=n1TEICIBvQY
 DURATION:PT2H
-DTSTART:20240209T130000Z
-SUMMARY:荒咬オウガ: 【UNDER NIGHT IN-BIRTH II Sys:Celes】ボコられても泣かない【荒咬オウガ /ホロスターズ】
-UID:avJFY45c0Og
+DTSTART:20240210T090000Z
+SUMMARY:🌺花咲みやび: 【ASMR】これが最後かもしれないセリフ読みASMR【花咲みやび/ホロスターズ】
+UID:n1TEICIBvQY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【League of Legends】ド深夜突発LoLカスタムに参加しました枠※メンバーは概要欄！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=_dXQhWSyOV8
+DURATION:PT2H
+DTSTART:20240209T190000Z
+SUMMARY:🍕アルランディス: 【League of Legends】ド深夜突発LoLカスタムに参加しました枠※メンバーは概要欄！【アルランディス/ホロスターズ】
+UID:_dXQhWSyOV8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【メン限】ガンマのアシスタントのみんなへ\nhttps://www.youtube.com/watch?v=otFII5rt_eY
