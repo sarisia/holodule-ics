@@ -4,18 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Dead by Daylight】ちょこせんせーと暗闇鬼ごっこ！！【轟はじめ/癒月ちょこ】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=vI65CtFXTc4
+DURATION:PT2H
+DTSTART:20240212T140000Z
+SUMMARY:轟はじめ: 【Dead by Daylight】ちょこせんせーと暗闇鬼ごっこ！！【轟はじめ/癒月ちょこ】＃hololiveDEV_IS
+UID:vI65CtFXTc4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#壁ドン凸待ち】僕に壁ドンされたい人、集合★【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=zd5MxT_WM_g
+DURATION:PT2H
+DTSTART:20240210T120000Z
+SUMMARY:火威青: 【#壁ドン凸待ち】僕に壁ドンされたい人、集合★【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:zd5MxT_WM_g
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【オフコラボ】バレンタインくらいイケメンになりたい！【#ReGLOSSイケメンコンテスト】\nhttps://www.youtube.com/watch?v=MWIIQSGbCWA
 DURATION:PT2H
 DTSTART:20240210T100000Z
 SUMMARY:DEV_IShololive: 【オフコラボ】バレンタインくらいイケメンになりたい！【#ReGLOSSイケメンコンテスト】
 UID:MWIIQSGbCWA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【メンヘラちゃん家からの脱出】たすけて【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=diD_moDiD14
-DURATION:PT2H
-DTSTART:20240211T090000Z
-SUMMARY:轟はじめ: 【メンヘラちゃん家からの脱出】たすけて【轟はじめ/ReGLOSS】＃hololiveDEV_IS
-UID:diD_moDiD14
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【縦型配信 / 雑談】ありがとう【音乃瀬奏】#hololiveDEV_IS #ReGLOSS #shorts\nhttps://www.youtube.com/watch?v=20IBr-lXPs0
@@ -25,10 +32,10 @@ SUMMARY:音乃瀬奏: 【縦型配信 / 雑談】ありがとう【音乃瀬奏�
 UID:20IBr-lXPs0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#壁ドン凸待ち】僕に壁ドンされたい人、集合★【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=zd5MxT_WM_g
+DESCRIPTION:【メンヘラちゃん家からの脱出】たすけて【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=diD_moDiD14
 DURATION:PT2H
-DTSTART:20240210T120000Z
-SUMMARY:火威青: 【#壁ドン凸待ち】僕に壁ドンされたい人、集合★【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:zd5MxT_WM_g
+DTSTART:20240211T090000Z
+SUMMARY:轟はじめ: 【メンヘラちゃん家からの脱出】たすけて【轟はじめ/ReGLOSS】＃hololiveDEV_IS
+UID:diD_moDiD14
 END:VEVENT
 END:VCALENDAR
