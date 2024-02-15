@@ -4,32 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【POST TALK】kore wa nana ju go oku bun no hitori to【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=giU8uJJ2kVw
-DURATION:PT2H
-DTSTART:20240214T041500Z
-SUMMARY:Kaela: 【POST TALK】kore wa nana ju go oku bun no hitori to【Kaela Kovalskia / hololiveID】
-UID:giU8uJJ2kVw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Cover】Stand by me\, Stand by you. 【Kaela Kovalskia & Vestia Zeta】\nhttps://www.youtube.com/watch?v=9pnTh-e2AZk
-DURATION:PT2H
-DTSTART:20240213T160000Z
-SUMMARY:Kaela: 【Cover】Stand by me\, Stand by you. 【Kaela Kovalskia & Vestia Zeta】
-UID:9pnTh-e2AZk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Movie Watchalong】Let's watch the movie of all time! Mean Girls (2004)\nhttps://www.youtube.com/watch?v=MGARtkbthPs
 DURATION:PT2H
 DTSTART:20240214T070000Z
 SUMMARY:Zeta: 【Movie Watchalong】Let's watch the movie of all time! Mean Girls (2004)
 UID:MGARtkbthPs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Lethal Company】INVERSE TELEPORTER?! 😇【hololiveID】\nhttps://www.youtube.com/watch?v=i_32DI5VNDw
-DURATION:PT2H
-DTSTART:20240214T140000Z
-SUMMARY:Kaela: 【Lethal Company】INVERSE TELEPORTER?! 😇【hololiveID】
-UID:i_32DI5VNDw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:AREA15 Original Song Medley / Airani iofifteen COVER\nhttps://www.youtube.com/watch?v=n_u0D4-nDBg
@@ -60,25 +39,11 @@ SUMMARY:Anya: 【Palworld】MAKING MY OWN LOVANDER ARMY【hololive ID 2nd Genera
 UID:M7JkGx9TeGU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Story of my holiday in my birthday! happy birthday to me!\nhttps://www.youtube.com/watch?v=ybgnjPEbFKs
-DURATION:PT2H
-DTSTART:20240215T085939Z
-SUMMARY:🔮Moona: Story of my holiday in my birthday! happy birthday to me!
-UID:ybgnjPEbFKs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#2【KILLER FREQUENCY】Keeping Town Safe One Laughing Track at a Time【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=1msN64ug7OA
 DURATION:PT2H
 DTSTART:20240215T140000Z
 SUMMARY:Reine: #2【KILLER FREQUENCY】Keeping Town Safe One Laughing Track at a Time【Pavolia Reine/hololiveID 2nd gen】
 UID:1msN64ug7OA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Den Visit】Everlasting knife(THE GREAT MASTERPIECE VERSION)【hololive ID 2nd Gen | Anya Melfissa】\nhttps://www.youtube.com/watch?v=oQcOnLqDIVQ
-DURATION:PT2H
-DTSTART:20240215T060000Z
-SUMMARY:Anya: 【Den Visit】Everlasting knife(THE GREAT MASTERPIECE VERSION)【hololive ID 2nd Gen | Anya Melfissa】
-UID:oQcOnLqDIVQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Lethal Company】NO ASSET NO ASSET\nhttps://www.youtube.com/watch?v=udr93270R5s
@@ -88,18 +53,60 @@ SUMMARY:Zeta: 【Lethal Company】NO ASSET NO ASSET
 UID:udr93270R5s
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Love Song Karaoke\nhttps://www.youtube.com/watch?v=49UOC-fjA20
-DURATION:PT2H
-DTSTART:20240214T141500Z
-SUMMARY:🎨Iofi: Love Song Karaoke
-UID:49UOC-fjA20
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【VALORANT】 p valo w/ Fiki\, Zweitson\, Fajri of @UN1TYOfficial\nhttps://www.youtube.com/watch?v=ZJ9b6lxjGgo
 DURATION:PT2H
 DTSTART:20240215T140000Z
 SUMMARY:Kobo: 【VALORANT】 p valo w/ Fiki\, Zweitson\, Fajri of @UN1TYOfficial
 UID:ZJ9b6lxjGgo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【POST TALK】kore wa nana ju go oku bun no hitori to【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=giU8uJJ2kVw
+DURATION:PT2H
+DTSTART:20240214T041500Z
+SUMMARY:Kaela: 【POST TALK】kore wa nana ju go oku bun no hitori to【Kaela Kovalskia / hololiveID】
+UID:giU8uJJ2kVw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Cover】Stand by me\, Stand by you. 【Kaela Kovalskia & Vestia Zeta】\nhttps://www.youtube.com/watch?v=9pnTh-e2AZk
+DURATION:PT2H
+DTSTART:20240213T160000Z
+SUMMARY:Kaela: 【Cover】Stand by me\, Stand by you. 【Kaela Kovalskia & Vestia Zeta】
+UID:9pnTh-e2AZk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Lethal Company】INVERSE TELEPORTER?! 😇【hololiveID】\nhttps://www.youtube.com/watch?v=i_32DI5VNDw
+DURATION:PT2H
+DTSTART:20240214T140000Z
+SUMMARY:Kaela: 【Lethal Company】INVERSE TELEPORTER?! 😇【hololiveID】
+UID:i_32DI5VNDw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Happy Birthday Moona!\nhttps://www.youtube.com/watch?v=3tEzDNzV9ns
+DURATION:PT2H
+DTSTART:20240215T140000Z
+SUMMARY:🎨Iofi: Happy Birthday Moona!
+UID:3tEzDNzV9ns
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Story of my holiday in my birthday! happy birthday to me!\nhttps://www.youtube.com/watch?v=ybgnjPEbFKs
+DURATION:PT2H
+DTSTART:20240215T085939Z
+SUMMARY:🔮Moona: Story of my holiday in my birthday! happy birthday to me!
+UID:ybgnjPEbFKs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Den Visit】Everlasting knife(THE GREAT MASTERPIECE VERSION)【hololive ID 2nd Gen | Anya Melfissa】\nhttps://www.youtube.com/watch?v=oQcOnLqDIVQ
+DURATION:PT2H
+DTSTART:20240215T060000Z
+SUMMARY:Anya: 【Den Visit】Everlasting knife(THE GREAT MASTERPIECE VERSION)【hololive ID 2nd Gen | Anya Melfissa】
+UID:oQcOnLqDIVQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Love Song Karaoke\nhttps://www.youtube.com/watch?v=49UOC-fjA20
+DURATION:PT2H
+DTSTART:20240214T141500Z
+SUMMARY:🎨Iofi: Love Song Karaoke
+UID:49UOC-fjA20
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ROLEPLAY】OLLIE JADI ISTRIMU...❤️ + my mom is here!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=wcf5mqhHWNI
