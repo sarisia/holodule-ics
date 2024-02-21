@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#胡桃のあ来店】本日のお客様は胡桃のあさんです！【夕刻ロベル/胡桃のあ】\nhttps://www.youtube.com/watch?v=UQnSnvJgNk0
-DURATION:PT2H
-DTSTART:20240221T110000Z
-SUMMARY:🍷夕刻ロベル: 【#胡桃のあ来店】本日のお客様は胡桃のあさんです！【夕刻ロベル/胡桃のあ】
-UID:UQnSnvJgNk0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【STREET FIGHTER6】初めての交流戦に参加するぞ！！【岸堂天真/奈羅花/緋崎ガンマ/アルランディス/伊波ライ/宇佐美リト】\nhttps://www.youtube.com/watch?v=jHrtaHEtJkM
 DURATION:PT2H
 DTSTART:20240220T100000Z
@@ -18,18 +11,53 @@ SUMMARY:🦔💨岸堂天真: 【STREET FIGHTER6】初めての交流戦に参�
 UID:jHrtaHEtJkM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【耐久配信】青くんが確率の問題を解けるようになるまで終われない配信 #店長的に青くん天才だと思う 【火威青/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=ESf9Z8b5LLA
-DURATION:PT2H
-DTSTART:20240221T120000Z
-SUMMARY:🍕アルランディス: 【耐久配信】青くんが確率の問題を解けるようになるまで終われない配信 #店長的に青くん天才だと思う 【火威青/アルランディス/ホロスターズ】
-UID:ESf9Z8b5LLA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ジェスチャー合わせゲーム】みやびとロベルの絆は如何に...！？ #ホロスターズ #VTuber 【#hololivefesEXPO24】\nhttps://www.youtube.com/watch?v=BhI8HrdXLvw
 DURATION:PT2H
 DTSTART:20240221T100008Z
 SUMMARY:ホロスターズ: 【ジェスチャー合わせゲーム】みやびとロベルの絆は如何に...！？ #ホロスターズ #VTuber 【#hololivefesEXPO24】
 UID:BhI8HrdXLvw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ストリートファイター6】にじさんじホロスタスト６交流会！開催！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=V37VaGwXLZk
+DURATION:PT2H
+DTSTART:20240220T100000Z
+SUMMARY:🍕アルランディス: 【ストリートファイター6】にじさんじホロスタスト６交流会！開催！【アルランディス/ホロスターズ】
+UID:V37VaGwXLZk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌ってみた】KICKBACKをネオポルテの水無瀬（2D）と無理やり3Dステージで歌ってみた #vtuber #ホロスターズ #shorts\nhttps://www.youtube.com/watch?v=-B3X3bJ0pLE
+DURATION:PT2H
+DTSTART:20240221T103109Z
+SUMMARY:緋崎ガンマ: 【歌ってみた】KICKBACKをネオポルテの水無瀬（2D）と無理やり3Dステージで歌ってみた #vtuber #ホロスターズ #shorts
+UID:-B3X3bJ0pLE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 同時視聴 】Nintendo Direct見るぞー！【荒咬オウガ 花咲みやび 夜十神封魔 /ホロスターズ】\nhttps://www.youtube.com/watch?v=z8Tm5BLV06A
+DURATION:PT2H
+DTSTART:20240221T134500Z
+SUMMARY:荒咬オウガ: 【 同時視聴 】Nintendo Direct見るぞー！【荒咬オウガ 花咲みやび 夜十神封魔 /ホロスターズ】
+UID:z8Tm5BLV06A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】大会に向けてコソ練するよ！！！！【#緋崎ガンマ / #ホロスターズ / #vtuber】\nhttps://www.youtube.com/watch?v=dDbWgTkbH34
+DURATION:PT2H
+DTSTART:20240220T061500Z
+SUMMARY:緋崎ガンマ: 【APEX】大会に向けてコソ練するよ！！！！【#緋崎ガンマ / #ホロスターズ / #vtuber】
+UID:dDbWgTkbH34
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#胡桃のあ来店】本日のお客様は胡桃のあさんです！【夕刻ロベル/胡桃のあ】\nhttps://www.youtube.com/watch?v=UQnSnvJgNk0
+DURATION:PT2H
+DTSTART:20240221T110000Z
+SUMMARY:🍷夕刻ロベル: 【#胡桃のあ来店】本日のお客様は胡桃のあさんです！【夕刻ロベル/胡桃のあ】
+UID:UQnSnvJgNk0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【耐久配信】青くんが確率の問題を解けるようになるまで終われない配信 #店長的に青くん天才だと思う 【火威青/アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=ESf9Z8b5LLA
+DURATION:PT2H
+DTSTART:20240221T120000Z
+SUMMARY:🍕アルランディス: 【耐久配信】青くんが確率の問題を解けるようになるまで終われない配信 #店長的に青くん天才だと思う 【火威青/アルランディス/ホロスターズ】
+UID:ESf9Z8b5LLA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【同時視聴】販売されたふたりきりボイスを吟味する獣人【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=ZuGmprIoqvI
@@ -53,18 +81,18 @@ SUMMARY:緋崎ガンマ: 会社員からVtuberになって失ったもの3選が
 UID:Tv3KlHn9HT0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ストリートファイター6】にじさんじホロスタスト６交流会！開催！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=V37VaGwXLZk
-DURATION:PT2H
-DTSTART:20240220T100000Z
-SUMMARY:🍕アルランディス: 【ストリートファイター6】にじさんじホロスタスト６交流会！開催！【アルランディス/ホロスターズ】
-UID:V37VaGwXLZk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】えぺまつり主催APEX LEGENDS BREAKOUTGOLD RUSH カスタムDAY1【#緋崎ガンマ / #ホロスターズ / #vtuber /秋雪こはくさん / 甘城なつきさん】\nhttps://www.youtube.com/watch?v=6zMztGRqEFw
 DURATION:PT2H
 DTSTART:20240220T110000Z
 SUMMARY:緋崎ガンマ: 【APEX】えぺまつり主催APEX LEGENDS BREAKOUTGOLD RUSH カスタムDAY1【#緋崎ガンマ / #ホロスターズ / #vtuber /秋雪こはくさん / 甘城なつきさん】
 UID:6zMztGRqEFw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX】大会本番！！えぺまつり主催APEX LEGENDS BREAKOUTGOLD RUSH 【#緋崎ガンマ / #ホロスターズ / #vtuber /秋雪こはくさん / 甘城なつきさん】\nhttps://www.youtube.com/watch?v=J3rmLVAUARY
+DURATION:PT2H
+DTSTART:20240222T100000Z
+SUMMARY:緋崎ガンマ: 【APEX】大会本番！！えぺまつり主催APEX LEGENDS BREAKOUTGOLD RUSH 【#緋崎ガンマ / #ホロスターズ / #vtuber /秋雪こはくさん / 甘城なつきさん】
+UID:J3rmLVAUARY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【JUDGE EYES：死神の遺言 Remastered】キムタクが如く 1日目【夕刻ロベル/ホロスターズ】※ネタバレあり\nhttps://www.youtube.com/watch?v=-EcrW-5a93Y
@@ -74,13 +102,6 @@ SUMMARY:🍷夕刻ロベル: 【JUDGE EYES：死神の遺言 Remastered】キム
 UID:-EcrW-5a93Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】KICKBACKをネオポルテの水無瀬（2D）と無理やり3Dステージで歌ってみた #vtuber #ホロスターズ #shorts\nhttps://www.youtube.com/watch?v=-B3X3bJ0pLE
-DURATION:PT2H
-DTSTART:20240221T103109Z
-SUMMARY:緋崎ガンマ: 【歌ってみた】KICKBACKをネオポルテの水無瀬（2D）と無理やり3Dステージで歌ってみた #vtuber #ホロスターズ #shorts
-UID:-B3X3bJ0pLE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【アクアリウムは踊らない】話題の水族館が舞台のホラゲーします!!【花咲みやび/ホロスターズ】【ネタバレあり】\nhttps://www.youtube.com/watch?v=RGlNGD7BKJU
 DURATION:PT2H
 DTSTART:20240220T124500Z
@@ -88,24 +109,10 @@ SUMMARY:🌺花咲みやび: 【アクアリウムは踊らない】話題の水
 UID:RGlNGD7BKJU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 同時視聴 】Nintendo Direct見るぞー！【荒咬オウガ 花咲みやび 夜十神封魔 /ホロスターズ】\nhttps://www.youtube.com/watch?v=z8Tm5BLV06A
-DURATION:PT2H
-DTSTART:20240221T134500Z
-SUMMARY:荒咬オウガ: 【 同時視聴 】Nintendo Direct見るぞー！【荒咬オウガ 花咲みやび 夜十神封魔 /ホロスターズ】
-UID:z8Tm5BLV06A
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【APEX】えぺまつり主催APEX LEGENDS BREAKOUTGOLD RUSH カスタムDAY２【#緋崎ガンマ / #ホロスターズ / #vtuber /秋雪こはくさん / 甘城なつきさん】\nhttps://www.youtube.com/watch?v=cmoRd89kfsE
 DURATION:PT2H
 DTSTART:20240221T110000Z
 SUMMARY:緋崎ガンマ: 【APEX】えぺまつり主催APEX LEGENDS BREAKOUTGOLD RUSH カスタムDAY２【#緋崎ガンマ / #ホロスターズ / #vtuber /秋雪こはくさん / 甘城なつきさん】
 UID:cmoRd89kfsE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】大会に向けてコソ練するよ！！！！【#緋崎ガンマ / #ホロスターズ / #vtuber】\nhttps://www.youtube.com/watch?v=dDbWgTkbH34
-DURATION:PT2H
-DTSTART:20240220T061500Z
-SUMMARY:緋崎ガンマ: 【APEX】大会に向けてコソ練するよ！！！！【#緋崎ガンマ / #ホロスターズ / #vtuber】
-UID:dDbWgTkbH34
 END:VEVENT
 END:VCALENDAR
