@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【メン限】おうた練習しながらおはなししよ～！【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=wKgYBBBOwtc
-DURATION:PT2H
-DTSTART:20240221T120000Z
-SUMMARY:轟はじめ: 【メン限】おうた練習しながらおはなししよ～！【轟はじめ/ReGLOSS】＃hololiveDEV_IS
-UID:wKgYBBBOwtc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ラジオ配信】ReGLOSS ROOM #19　2月担当：音乃瀬奏・儒烏風亭らでん【#リグ部屋】\nhttps://www.youtube.com/watch?v=A_ByL_s_Zng
-DURATION:PT2H
-DTSTART:20240222T090000Z
-SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM #19　2月担当：音乃瀬奏・儒烏風亭らでん【#リグ部屋】
-UID:A_ByL_s_Zng
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【歌枠】春っぽい曲を歌いたい【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=14p3fI3IiRU
 DURATION:PT2H
 DTSTART:20240221T110000Z
@@ -32,13 +18,6 @@ SUMMARY:火威青: 【朝ゲリラ】おあよ～ねむいねぇ【火威青 】
 UID:HIXybc1-vac
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:限界飯っていうけど本当はこういうのでいいんだよ！って思ってるでしょ？？【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=TWI5pWrB7hc
-DURATION:PT2H
-DTSTART:20240222T030000Z
-SUMMARY:一条莉々華: 限界飯っていうけど本当はこういうのでいいんだよ！って思ってるでしょ？？【#一条莉々華/hololive DEV_IS ReGLOSS】
-UID:TWI5pWrB7hc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【すきっちゅーの/歌ってみた】轟はじめ/ReGLOSS #hololivedev_is #vtuber\nhttps://www.youtube.com/watch?v=-pXK_BwlFpU
 DURATION:PT2H
 DTSTART:20240221T080000Z
@@ -46,10 +25,38 @@ SUMMARY:轟はじめ: 【すきっちゅーの/歌ってみた】轟はじめ/Re
 UID:-pXK_BwlFpU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【メン限】おうた練習しながらおはなししよ～！【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=wKgYBBBOwtc
+DURATION:PT2H
+DTSTART:20240221T120000Z
+SUMMARY:轟はじめ: 【メン限】おうた練習しながらおはなししよ～！【轟はじめ/ReGLOSS】＃hololiveDEV_IS
+UID:wKgYBBBOwtc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【メンバー限定】読めてなかったスパチャ読ませてね♥【hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=DgIrj_tPx-Q
 DURATION:PT2H
 DTSTART:20240221T130000Z
 SUMMARY:一条莉々華: 【メンバー限定】読めてなかったスパチャ読ませてね♥【hololive DEV_IS ReGLOSS】
 UID:DgIrj_tPx-Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ラジオ配信】ReGLOSS ROOM #19　2月担当：音乃瀬奏・儒烏風亭らでん【#リグ部屋】\nhttps://www.youtube.com/watch?v=A_ByL_s_Zng
+DURATION:PT2H
+DTSTART:20240222T090000Z
+SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM #19　2月担当：音乃瀬奏・儒烏風亭らでん【#リグ部屋】
+UID:A_ByL_s_Zng
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:限界飯っていうけど本当はこういうのでいいんだよ！って思ってるでしょ？？【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=TWI5pWrB7hc
+DURATION:PT2H
+DTSTART:20240222T030000Z
+SUMMARY:一条莉々華: 限界飯っていうけど本当はこういうのでいいんだよ！って思ってるでしょ？？【#一条莉々華/hololive DEV_IS ReGLOSS】
+UID:TWI5pWrB7hc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【タグ考え中】イケメンを取り戻したい！助けてスバル先輩！【火威青×大空スバル 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=F5JaWovZeQY
+DURATION:PT2H
+DTSTART:20240222T120000Z
+SUMMARY:火威青: 【タグ考え中】イケメンを取り戻したい！助けてスバル先輩！【火威青×大空スバル 】#hololiveDEV_IS #ReGLOSS
+UID:F5JaWovZeQY
 END:VEVENT
 END:VCALENDAR
