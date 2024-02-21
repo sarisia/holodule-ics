@@ -4,6 +4,27 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:教えて奏ちゃん！！韓国語講座！！「限界飯は日本の伝統料理です」【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=UGShH-U5Mew
+DURATION:PT2H
+DTSTART:20240220T110000Z
+SUMMARY:一条莉々華: 教えて奏ちゃん！！韓国語講座！！「限界飯は日本の伝統料理です」【#一条莉々華/hololive DEV_IS ReGLOSS】
+UID:UGShH-U5Mew
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ヤンデレチャーハン】愛のごはんは×××チャーハン【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=EZAXAma6wbs
+DURATION:PT2H
+DTSTART:20240220T130000Z
+SUMMARY:轟はじめ: 【ヤンデレチャーハン】愛のごはんは×××チャーハン【轟はじめ/ReGLOSS】＃hololiveDEV_IS
+UID:EZAXAma6wbs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ラジオ配信】ReGLOSS ROOM #19　2月担当：音乃瀬奏・儒烏風亭らでん【#リグ部屋】\nhttps://www.youtube.com/watch?v=A_ByL_s_Zng
+DURATION:PT2H
+DTSTART:20240222T090000Z
+SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM #19　2月担当：音乃瀬奏・儒烏風亭らでん【#リグ部屋】
+UID:A_ByL_s_Zng
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【朝ゲリラ】おあよ～ねむいねぇ【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=HIXybc1-vac
 DURATION:PT2H
 DTSTART:20240220T233710Z
@@ -16,19 +37,5 @@ DURATION:PT2H
 DTSTART:20240220T090000Z
 SUMMARY:火威青: 【】大丈夫！火威青 の配信で合ってます。
 UID:vxUN4GyNQXk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:教えて奏ちゃん！！韓国語講座！！「限界飯は日本の伝統料理です」【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=UGShH-U5Mew
-DURATION:PT2H
-DTSTART:20240220T110000Z
-SUMMARY:一条莉々華: 教えて奏ちゃん！！韓国語講座！！「限界飯は日本の伝統料理です」【#一条莉々華/hololive DEV_IS ReGLOSS】
-UID:UGShH-U5Mew
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ラジオ配信】ReGLOSS ROOM #19　2月担当：音乃瀬奏・儒烏風亭らでん【#リグ部屋】\nhttps://www.youtube.com/watch?v=A_ByL_s_Zng
-DURATION:PT2H
-DTSTART:20240222T090000Z
-SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM #19　2月担当：音乃瀬奏・儒烏風亭らでん【#リグ部屋】
-UID:A_ByL_s_Zng
 END:VEVENT
 END:VCALENDAR
