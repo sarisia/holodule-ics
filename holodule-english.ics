@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Granblue Fantasy: Relink】Do it for (a future collab with) THEM PART 2 #kfp #キアライブ\nhttps://www.youtube.com/watch?v=_NU7womxS5g
+DURATION:PT2H
+DTSTART:20240222T150000Z
+SUMMARY:Kiara: 【Granblue Fantasy: Relink】Do it for (a future collab with) THEM PART 2 #kfp #キアライブ
+UID:_NU7womxS5g
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:≪KHAOS KITCHEN≫ Finally\, Ratatouille TIME with HANDCAM\nhttps://www.youtube.com/watch?v=yA-KlFaAMgM
 DURATION:PT2H
 DTSTART:20240222T010000Z
@@ -23,13 +30,6 @@ DURATION:PT2H
 DTSTART:20240221T133000Z
 SUMMARY:Bijou: 【WATCHALONG】Nintendo Direct and Elden Ring DLC Trailer!!!
 UID:Ylu2H6vJeLE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SUIKA GAME スイカゲーム】sister vs. sister EXTREME VIOLENCE multiplayer mode 🍉🐾\nhttps://www.youtube.com/watch?v=ezsEVU6KnCk
-DURATION:PT2H
-DTSTART:20240222T040000Z
-SUMMARY:FUWAMOCO: 【SUIKA GAME スイカゲーム】sister vs. sister EXTREME VIOLENCE multiplayer mode 🍉🐾
-UID:ezsEVU6KnCk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Sonic Frontiers】Onion Ring + Hot Sauce Combo For Every Boss Death ❗SPOILERS ❗Ep-06\nhttps://www.youtube.com/watch?v=plK89D_zfA0
@@ -88,6 +88,13 @@ SUMMARY:Bijou: 【LETHAL COMPANY COLLAB】I was told to stream
 UID:6B2xxSyY6i4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:JDON MY SOUL #shorts\nhttps://www.youtube.com/watch?v=qxGRXA6SG1s
+DURATION:PT2H
+DTSTART:20240222T030026Z
+SUMMARY:Baelz: JDON MY SOUL #shorts
+UID:qxGRXA6SG1s
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Palworld】Making my Pals happy... I hope🎼\nhttps://www.youtube.com/watch?v=qmqnCOicg_0
 DURATION:PT2H
 DTSTART:20240222T010000Z
@@ -130,10 +137,10 @@ SUMMARY:Fauna: The kirin has breached containment #mocopi
 UID:aW0V_kU0chQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Granblue Fantasy: Relink】Do it for (a future collab with) THEM PART 2 #kfp #キアライブ\nhttps://www.youtube.com/watch?v=_NU7womxS5g
+DESCRIPTION:【SUIKA GAME スイカゲーム】sister vs. sister EXTREME VIOLENCE multiplayer mode 🍉🐾\nhttps://www.youtube.com/watch?v=ezsEVU6KnCk
 DURATION:PT2H
-DTSTART:20240222T150000Z
-SUMMARY:Kiara: 【Granblue Fantasy: Relink】Do it for (a future collab with) THEM PART 2 #kfp #キアライブ
-UID:_NU7womxS5g
+DTSTART:20240222T040000Z
+SUMMARY:FUWAMOCO: 【SUIKA GAME スイカゲーム】sister vs. sister EXTREME VIOLENCE multiplayer mode 🍉🐾
+UID:ezsEVU6KnCk
 END:VEVENT
 END:VCALENDAR
