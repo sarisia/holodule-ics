@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 #あおスバ 】イケメンを取り戻したい！助けてスバル先輩！【火威青×大空スバル 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=F5JaWovZeQY
-DURATION:PT2H
-DTSTART:20240222T120000Z
-SUMMARY:火威青: 【 #あおスバ 】イケメンを取り戻したい！助けてスバル先輩！【火威青×大空スバル 】#hololiveDEV_IS #ReGLOSS
-UID:F5JaWovZeQY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:轟ゲリラ　校舎裏しゅーごー！\nhttps://www.youtube.com/watch?v=0UYxG-Os_Tk
 DURATION:PT2H
 DTSTART:20240222T150021Z
@@ -18,18 +11,32 @@ SUMMARY:轟はじめ: 轟ゲリラ　校舎裏しゅーごー！
 UID:0UYxG-Os_Tk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ラジオ配信】ReGLOSS ROOM #19　2月担当：音乃瀬奏・儒烏風亭らでん【#リグ部屋】\nhttps://www.youtube.com/watch?v=A_ByL_s_Zng
-DURATION:PT2H
-DTSTART:20240222T090000Z
-SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM #19　2月担当：音乃瀬奏・儒烏風亭らでん【#リグ部屋】
-UID:A_ByL_s_Zng
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【猫の日？】ふむ。。。【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=QERU5eY701w
 DURATION:PT2H
 DTSTART:20240222T144340Z
 SUMMARY:火威青: 【猫の日？】ふむ。。。【火威青 】#hololiveDEV_IS #ReGLOSS
 UID:QERU5eY701w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ホラー】不審者情報がありまし…いや、私は変な人じゃないです！！！！【一条莉々華  / ホロライブ】\nhttps://www.youtube.com/watch?v=6MNfYreB_Ro
+DURATION:PT2H
+DTSTART:20240222T090000Z
+SUMMARY:一条莉々華: 【ホラー】不審者情報がありまし…いや、私は変な人じゃないです！！！！【一条莉々華  / ホロライブ】
+UID:6MNfYreB_Ro
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠/Singing】アニソン歌うぞ～！！！ anime song karaoke stream!!【#一条莉々華/#hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=H6P7K0QkxD4
+DURATION:PT2H
+DTSTART:20240223T030000Z
+SUMMARY:一条莉々華: 【歌枠/Singing】アニソン歌うぞ～！！！ anime song karaoke stream!!【#一条莉々華/#hololiveDEV_IS #ReGLOSS 】
+UID:H6P7K0QkxD4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ラジオ配信】ReGLOSS ROOM #19　2月担当：音乃瀬奏・儒烏風亭らでん【#リグ部屋】\nhttps://www.youtube.com/watch?v=A_ByL_s_Zng
+DURATION:PT2H
+DTSTART:20240222T090000Z
+SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM #19　2月担当：音乃瀬奏・儒烏風亭らでん【#リグ部屋】
+UID:A_ByL_s_Zng
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:1ヶ月前に開封したお水をのんだら終わったから今日は番外編する【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=TWI5pWrB7hc
@@ -46,10 +53,10 @@ SUMMARY:儒烏風亭らでん: 【#らでんのラジオ】第九回目らでん
 UID:inYCqG7C7i8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ホラー】不審者情報がありまし…いや、私は変な人じゃないです！！！！【一条莉々華  / ホロライブ】\nhttps://www.youtube.com/watch?v=6MNfYreB_Ro
+DESCRIPTION:【 #あおスバ 】イケメンを取り戻したい！助けてスバル先輩！【火威青×大空スバル 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=F5JaWovZeQY
 DURATION:PT2H
-DTSTART:20240222T090000Z
-SUMMARY:一条莉々華: 【ホラー】不審者情報がありまし…いや、私は変な人じゃないです！！！！【一条莉々華  / ホロライブ】
-UID:6MNfYreB_Ro
+DTSTART:20240222T120000Z
+SUMMARY:火威青: 【 #あおスバ 】イケメンを取り戻したい！助けてスバル先輩！【火威青×大空スバル 】#hololiveDEV_IS #ReGLOSS
+UID:F5JaWovZeQY
 END:VEVENT
 END:VCALENDAR
