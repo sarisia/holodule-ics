@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Like a Dragon: Infinite Wealth】Where is CHITOSE #kfp #キアライブ  (spoiler warning)\nhttps://www.youtube.com/watch?v=9yBsfyASFUc
-DURATION:PT2H
-DTSTART:20240224T150000Z
-SUMMARY:Kiara: 【Like a Dragon: Infinite Wealth】Where is CHITOSE #kfp #キアライブ  (spoiler warning)
-UID:9yBsfyASFUc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【FUWAMOCO ROCK N' RAWR PARTY】time to get pumped ✨🐾【BIG ANNOUNCEMENT 重大告知】#FWMCbeats\nhttps://www.youtube.com/watch?v=jUsbuDimpZ8
 DURATION:PT2H
 DTSTART:20240225T020000Z
@@ -23,13 +16,6 @@ DURATION:PT2H
 DTSTART:20240224T000000Z
 SUMMARY:Bijou: 【WILL YOU PRESS THE BUTTON?】TRYING NOT TO PUSH EVERY SINGLE BUTTON
 UID:nqeDEbENl2w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CUPHEAD】One Girl One Cuphead\nhttps://www.youtube.com/watch?v=9YOmY5bJalM
-DURATION:PT2H
-DTSTART:20240223T000000Z
-SUMMARY:Shiori: 【CUPHEAD】One Girl One Cuphead
-UID:9YOmY5bJalM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DON DON】 Got Some Don Dons To Don\nhttps://www.youtube.com/watch?v=1K3a8FN_TZ4
@@ -60,6 +46,13 @@ SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 84 🐾 #FWMCMORNING
 UID:6-XcGLUSYFE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【PERSONA 3: RELOAD】it's october (part 7) MAJOR SPOILERS!\nhttps://www.youtube.com/watch?v=ZSf0n7zfIZE
+DURATION:PT2H
+DTSTART:20240226T000000Z
+SUMMARY:Calli: 【PERSONA 3: RELOAD】it's october (part 7) MAJOR SPOILERS!
+UID:ZSf0n7zfIZE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Rick Steves Watch-a-Long】Proof of Europe from the 21st Century Unveiled\nhttps://www.youtube.com/watch?v=lZV75TKeg5o
 DURATION:PT2H
 DTSTART:20240223T180000Z
@@ -72,13 +65,6 @@ DURATION:PT2H
 DTSTART:20240224T015928Z
 SUMMARY:Calli: 【MEMBER'S ONLY】Maid ASMR - The Sequel?!
 UID:l6oJJ1QwtW4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Palworld | EN Server】Your Princess Is In Another Castle Ready To Slap Ep. 04\nhttps://www.youtube.com/watch?v=jOyvGIore4E
-DURATION:PT2H
-DTSTART:20240224T180000Z
-SUMMARY:Shiori: 【Palworld | EN Server】Your Princess Is In Another Castle Ready To Slap Ep. 04
-UID:jOyvGIore4E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【NEW OUTFIT REVEAL】Emo-MEI 🎸⋆⭒˚｡⋆ #owlfit\nhttps://www.youtube.com/watch?v=qbg5iZhr6tU
@@ -109,20 +95,6 @@ SUMMARY:Fauna: 【MINECRAFT】 It's all Minecraft all the way down
 UID:4CucLLFOdK8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Granblue Fantasy: Relink】 POTATO-FIXED-ID\nhttps://www.youtube.com/watch?v=r0yVO8TlUDI
-DURATION:PT2H
-DTSTART:20240222T220000Z
-SUMMARY:Ina: 【Granblue Fantasy: Relink】 POTATO-FIXED-ID
-UID:r0yVO8TlUDI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪Palworld≫ The Quest for JDON\nhttps://www.youtube.com/watch?v=2CSU0_68fkE
-DURATION:PT2H
-DTSTART:20240223T011000Z
-SUMMARY:Baelz: ≪Palworld≫ The Quest for JDON
-UID:2CSU0_68fkE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【SUSPICIOUS PERSON INFORMATION | 不審者情報】you never know who it could be 🐾\nhttps://www.youtube.com/watch?v=cdstV-D-JEY
 DURATION:PT2H
 DTSTART:20240224T020000Z
@@ -137,25 +109,11 @@ SUMMARY:ENholo: I Like Big Tails And I Cannot Lie #holoEN3DRepeat
 UID:PnJVBfF977Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Eat brunch with us~【Chatting】\nhttps://www.youtube.com/watch?v=wOJJddzg-ao
+DESCRIPTION:【Palworld | EN Server】Your Princess Is In Another Castle Ready To Slap Ep. 04\nhttps://www.youtube.com/watch?v=jOyvGIore4E
 DURATION:PT2H
-DTSTART:20240222T180000Z
-SUMMARY:Nerissa: Eat brunch with us~【Chatting】
-UID:wOJJddzg-ao
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Just Chatting】I Was In Japan And Almost Got Into A Fight?! (REAL)\nhttps://www.youtube.com/watch?v=L8XvX24UESo
-DURATION:PT2H
-DTSTART:20240224T040000Z
-SUMMARY:Kronii: 【Just Chatting】I Was In Japan And Almost Got Into A Fight?! (REAL)
-UID:L8XvX24UESo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HITMAN 3】 ANNOUNCEMENT +The real heartbreak is losing your hardcore freelancer run\nhttps://www.youtube.com/watch?v=WQ6SSldLbVE
-DURATION:PT2H
-DTSTART:20240222T230000Z
-SUMMARY:Fauna: 【HITMAN 3】 ANNOUNCEMENT +The real heartbreak is losing your hardcore freelancer run
-UID:WQ6SSldLbVE
+DTSTART:20240224T180000Z
+SUMMARY:Shiori: 【Palworld | EN Server】Your Princess Is In Another Castle Ready To Slap Ep. 04
+UID:jOyvGIore4E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FGO】 Into More Story!!! 【#3】\nhttps://www.youtube.com/watch?v=p36HSLrOfrg
@@ -165,17 +123,17 @@ SUMMARY:Ina: 【FGO】 Into More Story!!! 【#3】
 UID:p36HSLrOfrg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【日本語教えて】もっと知りたい！！(Japanese Stream) #shorts\nhttps://www.youtube.com/watch?v=nHBBT_zKozE
+DESCRIPTION:【Like a Dragon: Infinite Wealth】Where is CHITOSE #kfp #キアライブ  (spoiler warning)\nhttps://www.youtube.com/watch?v=9yBsfyASFUc
 DURATION:PT2H
-DTSTART:20240223T120000Z
-SUMMARY:Calli: 【日本語教えて】もっと知りたい！！(Japanese Stream) #shorts
-UID:nHBBT_zKozE
+DTSTART:20240224T150000Z
+SUMMARY:Kiara: 【Like a Dragon: Infinite Wealth】Where is CHITOSE #kfp #キアライブ  (spoiler warning)
+UID:9yBsfyASFUc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Granblue Fantasy: Relink】WITH A SURPRISE REVEAL #kfp #キアライブ\nhttps://www.youtube.com/watch?v=_NU7womxS5g
+DESCRIPTION:【Just Chatting】I Was In Japan And Almost Got Into A Fight?! (REAL)\nhttps://www.youtube.com/watch?v=L8XvX24UESo
 DURATION:PT2H
-DTSTART:20240222T150000Z
-SUMMARY:Kiara: 【Granblue Fantasy: Relink】WITH A SURPRISE REVEAL #kfp #キアライブ
-UID:_NU7womxS5g
+DTSTART:20240224T040000Z
+SUMMARY:Kronii: 【Just Chatting】I Was In Japan And Almost Got Into A Fight?! (REAL)
+UID:L8XvX24UESo
 END:VEVENT
 END:VCALENDAR
