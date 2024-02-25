@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 TETRIS 99 】優しくしてください、ねらわないでください【 iofi / hololiveID 】】\nhttps://www.youtube.com/watch?v=kQp28w8DAT8
-DURATION:PT2H
-DTSTART:20240224T110000Z
-SUMMARY:🎨Iofi: 【 TETRIS 99 】優しくしてください、ねらわないでください【 iofi / hololiveID 】】
-UID:kQp28w8DAT8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Lethal Company】あっ！あそこに蜂の巣あるよ！Look\, There's a Beehive Over There!【hololive ID | Anya Melfissa】\nhttps://www.youtube.com/watch?v=CAADqc0352s
 DURATION:PT2H
 DTSTART:20240225T130000Z
@@ -25,6 +18,13 @@ SUMMARY:🎨Iofi: 【 Subnautica Below Zero 】There's Nothing There\, Trust Me\
 UID:u-dUckKoCpE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【DONATION READING】Happy Sunday Morning!【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=-njwHu8Ncg8
+DURATION:PT2H
+DTSTART:20240225T040000Z
+SUMMARY:Reine: 【DONATION READING】Happy Sunday Morning!【Pavolia Reine/hololiveID 2nd gen】
+UID:-njwHu8Ncg8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:TRYING TO CHIPI CHAPA DAILY UNTIL YOU HAVE ENOUGH: ATTEMPT 1\nhttps://www.youtube.com/watch?v=3Hmg5-GP24Q
 DURATION:PT2H
 DTSTART:20240224T190329Z
@@ -32,25 +32,18 @@ SUMMARY:Kaela: TRYING TO CHIPI CHAPA DAILY UNTIL YOU HAVE ENOUGH: ATTEMPT 1
 UID:3Hmg5-GP24Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Lethal Company】great great members: how far can we go?【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=wX-1AJQTW7A
+DESCRIPTION:【Potionomics】we brew potions until i need to go 🧪【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=EuXUY_dZhYs
 DURATION:PT2H
-DTSTART:20240224T013000Z
-SUMMARY:Kaela: 【Lethal Company】great great members: how far can we go?【Kaela Kovalskia / hololiveID】
-UID:wX-1AJQTW7A
+DTSTART:20240226T020000Z
+SUMMARY:Kaela: 【Potionomics】we brew potions until i need to go 🧪【Kaela Kovalskia / hololiveID】
+UID:EuXUY_dZhYs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Granblue Fantasy: Relink】Zeta is Zeta-ing!\nhttps://www.youtube.com/watch?v=L11sCQ-IjW0
+DESCRIPTION:【Keep Talking and Nobody Explodes】just chill dont panic. you panic you DUAR【hololive】\nhttps://www.youtube.com/watch?v=ng8qON5B1H8
 DURATION:PT2H
-DTSTART:20240224T073000Z
-SUMMARY:Zeta: 【Granblue Fantasy: Relink】Zeta is Zeta-ing!
-UID:L11sCQ-IjW0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Monster Hunter Rise 】Long Time No See\, MonHun Rise【 iofi / hololiveID 】】\nhttps://www.youtube.com/watch?v=0wMJ9LZs_sQ
-DURATION:PT2H
-DTSTART:20240224T130000Z
-SUMMARY:🎨Iofi: 【 Monster Hunter Rise 】Long Time No See\, MonHun Rise【 iofi / hololiveID 】】
-UID:0wMJ9LZs_sQ
+DTSTART:20240227T010000Z
+SUMMARY:Kaela: 【Keep Talking and Nobody Explodes】just chill dont panic. you panic you DUAR【hololive】
+UID:ng8qON5B1H8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【LETHAL COMPANY】YARE YARE【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=ssgzKX6VtrM
@@ -60,39 +53,11 @@ SUMMARY:Ollie: 【LETHAL COMPANY】YARE YARE【Hololive ID 2nd Generation】
 UID:ssgzKX6VtrM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DONATION READING】Happy Sunday Morning!【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=-njwHu8Ncg8
-DURATION:PT2H
-DTSTART:20240225T040000Z
-SUMMARY:Reine: 【DONATION READING】Happy Sunday Morning!【Pavolia Reine/hololiveID 2nd gen】
-UID:-njwHu8Ncg8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BEYBLADE ASMR】3... 2... 1... GO\, SHOOT!!【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=elGma4e-syQ
-DURATION:PT2H
-DTSTART:20240224T120326Z
-SUMMARY:Ollie: 【BEYBLADE ASMR】3... 2... 1... GO\, SHOOT!!【Hololive Indonesia 2nd Gen】
-UID:elGma4e-syQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Chillquarium】I Heard This Game Has Gacha チルい魚ゲーム、まったりやるの巻【hololive ID 2nd Gen | Anya Melfissa】\nhttps://www.youtube.com/watch?v=lWmw9LdAmak
 DURATION:PT2H
 DTSTART:20240226T060000Z
 SUMMARY:Anya: 【Chillquarium】I Heard This Game Has Gacha チルい魚ゲーム、まったりやるの巻【hololive ID 2nd Gen | Anya Melfissa】
 UID:lWmw9LdAmak
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Lethal Company】Pack Up\, We're Going to Titan さあ君たち、Titan行くぞ【hololive ID 2nd Gen | Anya Melfissa】\nhttps://www.youtube.com/watch?v=-X68liUMfGE
-DURATION:PT2H
-DTSTART:20240224T130000Z
-SUMMARY:Anya: 【Lethal Company】Pack Up\, We're Going to Titan さあ君たち、Titan行くぞ【hololive ID 2nd Gen | Anya Melfissa】
-UID:-X68liUMfGE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Kitty - Acapella Ver.】 アカペラで「キティ」歌ってみた【NEW COVER RELEASED | フルver.公開中！】 #shorts #hololive\nhttps://www.youtube.com/watch?v=FDh7QUzEWBM
-DURATION:PT2H
-DTSTART:20240224T113011Z
-SUMMARY:Anya: 【Kitty - Acapella Ver.】 アカペラで「キティ」歌ってみた【NEW COVER RELEASED | フルver.公開中！】 #shorts #hololive
-UID:FDh7QUzEWBM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MV】Sebatas Video Call - Kobo Kanaeru\nhttps://www.youtube.com/watch?v=UJbV345kyeg
