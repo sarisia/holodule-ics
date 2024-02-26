@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:〇〇〇〇を作ってみたら…アレ？？？【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=xeVHnWvoIkE
-DURATION:PT2H
-DTSTART:20240226T030000Z
-SUMMARY:一条莉々華: 〇〇〇〇を作ってみたら…アレ？？？【#一条莉々華/hololive DEV_IS ReGLOSS】
-UID:xeVHnWvoIkE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【同時視聴】メン限です！！葬送のフリーレン22～24話 みる！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=2BXQR-pyb7k
 DURATION:PT2H
 DTSTART:20240226T120000Z
@@ -39,11 +32,11 @@ SUMMARY:火威青: 【大切なお話】あの………【火威青 】#hololive
 UID:zn0P_QLP1Mw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【インディゲーム部🎮】3月にSteamで発売予定のゲーム一緒に見ようよ！！！✨【#一条莉々華  / ホロライブ】\nhttps://www.youtube.com/watch?v=WwA5H3U0eCc
+DESCRIPTION:【メンバー限定】行ってきま～す！ゆっくりお話ししたい！！【hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=tL5VHaFLrdc
 DURATION:PT2H
-DTSTART:20240226T090000Z
-SUMMARY:一条莉々華: 【インディゲーム部🎮】3月にSteamで発売予定のゲーム一緒に見ようよ！！！✨【#一条莉々華  / ホロライブ】
-UID:WwA5H3U0eCc
+DTSTART:20240226T140000Z
+SUMMARY:一条莉々華: 【メンバー限定】行ってきま～す！ゆっくりお話ししたい！！【hololive DEV_IS ReGLOSS】
+UID:tL5VHaFLrdc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #青くん誕生CD 】この瞬間を君と【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=NFxUmNn5hsw
@@ -51,5 +44,19 @@ DURATION:PT2H
 DTSTART:20240226T143000Z
 SUMMARY:火威青: 【 #青くん誕生CD 】この瞬間を君と【火威青 】#hololiveDEV_IS #ReGLOSS
 UID:NFxUmNn5hsw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:〇〇〇〇を作ってみたら…アレ？？？【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=xeVHnWvoIkE
+DURATION:PT2H
+DTSTART:20240226T030000Z
+SUMMARY:一条莉々華: 〇〇〇〇を作ってみたら…アレ？？？【#一条莉々華/hololive DEV_IS ReGLOSS】
+UID:xeVHnWvoIkE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【インディゲーム部🎮】3月にSteamで発売予定のゲーム一緒に見ようよ！！！✨【#一条莉々華  / ホロライブ】\nhttps://www.youtube.com/watch?v=WwA5H3U0eCc
+DURATION:PT2H
+DTSTART:20240226T090000Z
+SUMMARY:一条莉々華: 【インディゲーム部🎮】3月にSteamで発売予定のゲーム一緒に見ようよ！！！✨【#一条莉々華  / ホロライブ】
+UID:WwA5H3U0eCc
 END:VEVENT
 END:VCALENDAR
