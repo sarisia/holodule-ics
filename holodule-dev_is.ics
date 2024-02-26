@@ -4,6 +4,27 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【同時視聴】Pokémon Dayだあああ！！Pokemon Presents一緒に見よう！！！！！【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=VWnWD8Vlerg
+DURATION:PT2H
+DTSTART:20240227T140000Z
+SUMMARY:一条莉々華: 【同時視聴】Pokémon Dayだあああ！！Pokemon Presents一緒に見よう！！！！！【#一条莉々華/hololive DEV_IS ReGLOSS】
+UID:VWnWD8Vlerg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 タグ考え中 】決めなくてはならないものが！！！ありますよねぇ！！！！！！【火威青×天音かなた 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=L2YUrsuKR9s
+DURATION:PT2H
+DTSTART:20240226T130000Z
+SUMMARY:火威青: 【 タグ考え中 】決めなくてはならないものが！！！ありますよねぇ！！！！！！【火威青×天音かなた 】#hololiveDEV_IS #ReGLOSS
+UID:L2YUrsuKR9s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【小学生あたりまえテスト】21歳だから全問正解あたりまえのど真ん中【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=CdA63hCq2Uc
+DURATION:PT2H
+DTSTART:20240225T100000Z
+SUMMARY:轟はじめ: 【小学生あたりまえテスト】21歳だから全問正解あたりまえのど真ん中【轟はじめ/ReGLOSS】＃hololiveDEV_IS
+UID:CdA63hCq2Uc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:〇〇〇〇を作ってみたら…アレ？？？【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=xeVHnWvoIkE
 DURATION:PT2H
 DTSTART:20240226T030000Z
@@ -16,13 +37,6 @@ DURATION:PT2H
 DTSTART:20240225T130031Z
 SUMMARY:音乃瀬奏: 【スパチャ読み】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS #shorts
 UID:j2oPICYlwu4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【同時視聴】Pokémon Dayだあああ！！Pokemon Presents一緒に見よう！！！！！【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=VWnWD8Vlerg
-DURATION:PT2H
-DTSTART:20240227T140000Z
-SUMMARY:一条莉々華: 【同時視聴】Pokémon Dayだあああ！！Pokemon Presents一緒に見よう！！！！！【#一条莉々華/hololive DEV_IS ReGLOSS】
-UID:VWnWD8Vlerg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Lethal Company 】かっこいいところ見ててくださーーい！【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=eTM2E91ORBA
@@ -44,12 +58,5 @@ DURATION:PT2H
 DTSTART:20240225T100622Z
 SUMMARY:音乃瀬奏: 【縦型歌枠】バラードのリクエストを求めている【音乃瀬奏】#hololiveDEV_IS #ReGLOSS #shorts
 UID:8BsIBeZZEhY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【小学生あたりまえテスト】21歳だから全問正解あたりまえのど真ん中【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=CdA63hCq2Uc
-DURATION:PT2H
-DTSTART:20240225T100000Z
-SUMMARY:轟はじめ: 【小学生あたりまえテスト】21歳だから全問正解あたりまえのど真ん中【轟はじめ/ReGLOSS】＃hololiveDEV_IS
-UID:CdA63hCq2Uc
 END:VEVENT
 END:VCALENDAR
