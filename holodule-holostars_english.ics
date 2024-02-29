@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Miitopia】This game is one of my favorite games #5\nhttps://www.youtube.com/watch?v=R3S35HL9u8w
-DURATION:PT2H
-DTSTART:20240229T013000Z
-SUMMARY:Syrios: 【Miitopia】This game is one of my favorite games #5
-UID:R3S35HL9u8w
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【HuniePop 2: Double Date】Oh wait is this a dating-sim game what's happening\nhttps://www.youtube.com/watch?v=vPNcluFuP-c
 DURATION:PT2H
 DTSTART:20240228T160000Z
@@ -37,6 +30,13 @@ DURATION:PT2H
 DTSTART:20240227T160000Z
 SUMMARY:Goldbullet: 【Holostars Doppelgänger】ERMM MEN PLEASE
 UID:JEQphhzvyX4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Doki Doki Literature Club+】My very first playthrough of this cute game!  (Trigger Warning!)\nhttps://www.youtube.com/watch?v=T7qzVwIzsOw
+DURATION:PT2H
+DTSTART:20240229T160000Z
+SUMMARY:Goldbullet: 【Doki Doki Literature Club+】My very first playthrough of this cute game!  (Trigger Warning!)
+UID:T7qzVwIzsOw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Pacific Drive】(Break VOD ed.) Junker run to loot and scoot!\nhttps://www.youtube.com/watch?v=B9Mx7KL4aQ4
@@ -81,6 +81,13 @@ SUMMARY:Octavio: OCTAVIO NO PROMISES TO KEEP RAW VOCALS!【COVER CELEBRATION】
 UID:QRDKwUprRC0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【DREADOUT】Horror game ASMR: TRYING NOT TO SHOUT\nhttps://www.youtube.com/watch?v=0m8qCmNAZws
+DURATION:PT2H
+DTSTART:20240301T070000Z
+SUMMARY:Jurard: 【DREADOUT】Horror game ASMR: TRYING NOT TO SHOUT
+UID:0m8qCmNAZws
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【TMNT: SHREDDER'S REVENGE】COWABUNGA BABY!!!\nhttps://www.youtube.com/watch?v=pykRjQ6ovKc
 DURATION:PT2H
 DTSTART:20240228T010000Z
@@ -123,10 +130,10 @@ SUMMARY:Altare: ACT III: LAYER 7 CLIMAX 【🔺 ULTRAKILL 🔺】 【5】
 UID:Ev5-4uBltHI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Doki Doki Literature Club+】My very first playthrough of this cute game!  (Trigger Warning!)\nhttps://www.youtube.com/watch?v=T7qzVwIzsOw
+DESCRIPTION:【Miitopia】This game is one of my favorite games #5\nhttps://www.youtube.com/watch?v=R3S35HL9u8w
 DURATION:PT2H
-DTSTART:20240229T160000Z
-SUMMARY:Goldbullet: 【Doki Doki Literature Club+】My very first playthrough of this cute game!  (Trigger Warning!)
-UID:T7qzVwIzsOw
+DTSTART:20240229T013000Z
+SUMMARY:Syrios: 【Miitopia】This game is one of my favorite games #5
+UID:R3S35HL9u8w
 END:VEVENT
 END:VCALENDAR
