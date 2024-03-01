@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Splatoon 3】 One More Woomy\nhttps://www.youtube.com/watch?v=8Shn5R1om94
-DURATION:PT2H
-DTSTART:20240229T220000Z
-SUMMARY:Ina: 【Splatoon 3】 One More Woomy
-UID:8Shn5R1om94
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:EXPO/fes. Haiku by Ninomae Ina'nis! #ninomaeinanis #hololivefesExpo24\nhttps://www.youtube.com/watch?v=v-yYTY_jUtY
-DURATION:PT2H
-DTSTART:20240301T013021Z
-SUMMARY:ENholo: EXPO/fes. Haiku by Ninomae Ina'nis! #ninomaeinanis #hololivefesExpo24
-UID:v-yYTY_jUtY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Drawing】for you! one more time! #hololiveenglish\nhttps://www.youtube.com/watch?v=nVxufmkiZPY
 DURATION:PT2H
 DTSTART:20240301T015905Z
@@ -25,39 +11,11 @@ SUMMARY:Calli: 【Drawing】for you! one more time! #hololiveenglish
 UID:nVxufmkiZPY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【CUPHEAD】All Dragons Are Sus Deep Down\, Even The Ones Up Above | Ep.02\nhttps://www.youtube.com/watch?v=IK4KD1mBDBA
-DURATION:PT2H
-DTSTART:20240301T180000Z
-SUMMARY:Shiori: 【CUPHEAD】All Dragons Are Sus Deep Down\, Even The Ones Up Above | Ep.02
-UID:IK4KD1mBDBA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【KARAOKE / 歌枠】 Singing Vertical & BIG ANNOUNCEMENT☆彡 重大告知あり！#shorts\nhttps://www.youtube.com/watch?v=BYddWtHChdU
 DURATION:PT2H
 DTSTART:20240302T040000Z
 SUMMARY:IRyS: 【KARAOKE / 歌枠】 Singing Vertical & BIG ANNOUNCEMENT☆彡 重大告知あり！#shorts
 UID:BYddWtHChdU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Pacific Drive】 A spooky road trip through the post-apocalypse (I can't drive)\nhttps://www.youtube.com/watch?v=c0LMyoLrUmo
-DURATION:PT2H
-DTSTART:20240229T230000Z
-SUMMARY:Fauna: 【Pacific Drive】 A spooky road trip through the post-apocalypse (I can't drive)
-UID:c0LMyoLrUmo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Twilight Saga: New Moon Watch-a-long】Batman Before He Became Batman\nhttps://www.youtube.com/watch?v=Bc75OYcIXFU
-DURATION:PT2H
-DTSTART:20240301T030000Z
-SUMMARY:Shiori: 【Twilight Saga: New Moon Watch-a-long】Batman Before He Became Batman
-UID:Bc75OYcIXFU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪1ST ALBUM 『ZODIAC』RELEASE PARTY! ≫ singing rat before she go on short break\nhttps://www.youtube.com/watch?v=xTf6st067cg
-DURATION:PT2H
-DTSTART:20240301T030000Z
-SUMMARY:Baelz: ≪1ST ALBUM 『ZODIAC』RELEASE PARTY! ≫ singing rat before she go on short break
-UID:xTf6st067cg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Ghostrunner】Long Time My Friend | #2\nhttps://www.youtube.com/watch?v=ALtQOXX50EA
@@ -81,6 +39,55 @@ SUMMARY:Bijou: 【Keep Talking and Nobody Explodes】Nah\, I'd explode
 UID:GUu3MzLb1DU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【FGO】 Oh Sunny Day...What A Sunny Day... 【#4】\nhttps://www.youtube.com/watch?v=_efuG6A1yFs
+DURATION:PT2H
+DTSTART:20240302T030000Z
+SUMMARY:Ina: 【FGO】 Oh Sunny Day...What A Sunny Day... 【#4】
+UID:_efuG6A1yFs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Splatoon 3】 One More Woomy\nhttps://www.youtube.com/watch?v=8Shn5R1om94
+DURATION:PT2H
+DTSTART:20240229T220000Z
+SUMMARY:Ina: 【Splatoon 3】 One More Woomy
+UID:8Shn5R1om94
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:EXPO/fes. Haiku by Ninomae Ina'nis! #ninomaeinanis #hololivefesExpo24\nhttps://www.youtube.com/watch?v=v-yYTY_jUtY
+DURATION:PT2H
+DTSTART:20240301T013021Z
+SUMMARY:ENholo: EXPO/fes. Haiku by Ninomae Ina'nis! #ninomaeinanis #hololivefesExpo24
+UID:v-yYTY_jUtY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CUPHEAD】All Dragons Are Sus Deep Down\, Even The Ones Up Above | Ep.02\nhttps://www.youtube.com/watch?v=IK4KD1mBDBA
+DURATION:PT2H
+DTSTART:20240301T180000Z
+SUMMARY:Shiori: 【CUPHEAD】All Dragons Are Sus Deep Down\, Even The Ones Up Above | Ep.02
+UID:IK4KD1mBDBA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Pacific Drive】 A spooky road trip through the post-apocalypse (I can't drive)\nhttps://www.youtube.com/watch?v=c0LMyoLrUmo
+DURATION:PT2H
+DTSTART:20240229T230000Z
+SUMMARY:Fauna: 【Pacific Drive】 A spooky road trip through the post-apocalypse (I can't drive)
+UID:c0LMyoLrUmo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Twilight Saga: New Moon Watch-a-long】Batman Before He Became Batman\nhttps://www.youtube.com/watch?v=Bc75OYcIXFU
+DURATION:PT2H
+DTSTART:20240301T030000Z
+SUMMARY:Shiori: 【Twilight Saga: New Moon Watch-a-long】Batman Before He Became Batman
+UID:Bc75OYcIXFU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪1ST ALBUM 『ZODIAC』RELEASE PARTY! ≫ singing rat before she go on short break\nhttps://www.youtube.com/watch?v=xTf6st067cg
+DURATION:PT2H
+DTSTART:20240301T030000Z
+SUMMARY:Baelz: ≪1ST ALBUM 『ZODIAC』RELEASE PARTY! ≫ singing rat before she go on short break
+UID:xTf6st067cg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【DEVOUR】Demons? no problem~ 🎼\nhttps://www.youtube.com/watch?v=25DQ1gPz1yo
 DURATION:PT2H
 DTSTART:20240302T030000Z
@@ -88,11 +95,11 @@ SUMMARY:Nerissa: 【DEVOUR】Demons? no problem~ 🎼
 UID:25DQ1gPz1yo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FGO】 Oh Sunny Day...What A Sunny Day... 【#4】\nhttps://www.youtube.com/watch?v=_efuG6A1yFs
+DESCRIPTION:#愛包ダンスホール踊ってみた #踊ってみた #shorts\nhttps://www.youtube.com/watch?v=xh6EeqRBzNY
 DURATION:PT2H
-DTSTART:20240302T030000Z
-SUMMARY:Ina: 【FGO】 Oh Sunny Day...What A Sunny Day... 【#4】
-UID:_efuG6A1yFs
+DTSTART:20240301T165713Z
+SUMMARY:Calli: #愛包ダンスホール踊ってみた #踊ってみた #shorts
+UID:xh6EeqRBzNY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MEMBERS ONLY】planning and gaming #kfp #キアライブ\nhttps://www.youtube.com/watch?v=jhkWClbOhgg
