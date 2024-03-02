@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【🧟 Project Zomboid🧟 】 It's not murder if they're already dead :)\nhttps://www.youtube.com/watch?v=83-moC8qKe4
-DURATION:PT2H
-DTSTART:20240302T000000Z
-SUMMARY:Altare: 【🧟 Project Zomboid🧟 】 It's not murder if they're already dead :)
-UID:83-moC8qKe4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ELDEN RING】He Thinks He Can Go On Without Me? WHAT A JOKE\nhttps://www.youtube.com/watch?v=6Qy6sdQPHls
 DURATION:PT2H
 DTSTART:20240302T003000Z
 SUMMARY:Flayon: 【ELDEN RING】He Thinks He Can Go On Without Me? WHAT A JOKE
 UID:6Qy6sdQPHls
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【🧟 Project Zomboid🧟 】 It's not murder if they're already dead :)\nhttps://www.youtube.com/watch?v=83-moC8qKe4
+DURATION:PT2H
+DTSTART:20240302T000000Z
+SUMMARY:Altare: 【🧟 Project Zomboid🧟 】 It's not murder if they're already dead :)
+UID:83-moC8qKe4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[Lies of P] THE GREAT P RACE [SPOILER WARNING] w/ Flayon #gavisbettel\nhttps://www.youtube.com/watch?v=N9l7wYu6WQ8
@@ -32,11 +32,11 @@ SUMMARY:Flayon: 【LIES OF P】WHEN THEY SAY THEY WANT TO PLAY LIES OF P | Spoil
 UID:1g-fdYGGY8k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX LEGENDS】w/ Reiny.Ch @dokuganP  | If We Die Im Supposed To Drink\, Help\nhttps://www.youtube.com/watch?v=-RdpKd37Yi0
+DESCRIPTION:【CRAB GAME w/ VIEWERS】THE MONEY'S MINE!!!\nhttps://www.youtube.com/watch?v=1XLFFJTyy5c
 DURATION:PT2H
-DTSTART:20240229T230000Z
-SUMMARY:Flayon: 【APEX LEGENDS】w/ Reiny.Ch @dokuganP  | If We Die Im Supposed To Drink\, Help
-UID:-RdpKd37Yi0
+DTSTART:20240303T050000Z
+SUMMARY:Jurard: 【CRAB GAME w/ VIEWERS】THE MONEY'S MINE!!!
+UID:1XLFFJTyy5c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SHOT ROULETTE KARAOKE】Wish me luck Axelotls.\nhttps://www.youtube.com/watch?v=tAUZQRpVOpQ
@@ -46,20 +46,6 @@ SUMMARY:Syrios: 【SHOT ROULETTE KARAOKE】Wish me luck Axelotls.
 UID:tAUZQRpVOpQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【CRAB GAME w/ VIEWERS】THE MONEY'S MINE!!!\nhttps://www.youtube.com/watch?v=1XLFFJTyy5c
-DURATION:PT2H
-DTSTART:20240303T050000Z
-SUMMARY:Jurard: 【CRAB GAME w/ VIEWERS】THE MONEY'S MINE!!!
-UID:1XLFFJTyy5c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DREADOUT】Horror game ASMR: TRYING NOT TO SCREAM\nhttps://www.youtube.com/watch?v=0m8qCmNAZws
-DURATION:PT2H
-DTSTART:20240301T070000Z
-SUMMARY:Jurard: 【DREADOUT】Horror game ASMR: TRYING NOT TO SCREAM
-UID:0m8qCmNAZws
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Sea of Thieves ARMIS Collab】TO THE SEAS MY BOYS\nhttps://www.youtube.com/watch?v=88A6y9K56AA
 DURATION:PT2H
 DTSTART:20240302T030000Z
@@ -67,31 +53,10 @@ SUMMARY:Goldbullet: 【Sea of Thieves ARMIS Collab】TO THE SEAS MY BOYS
 UID:88A6y9K56AA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【💦 Ring Fit Adventure 💦】 3D FULL BODY Working out so that I can finally look like FLEXTare\nhttps://www.youtube.com/watch?v=fR6j3LRUNJs
-DURATION:PT2H
-DTSTART:20240301T000000Z
-SUMMARY:Altare: 【💦 Ring Fit Adventure 💦】 3D FULL BODY Working out so that I can finally look like FLEXTare
-UID:fR6j3LRUNJs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MEMBERSHIP STREAM】Ohayogozaimasu\nhttps://www.youtube.com/watch?v=TF1uSMwq3oU
-DURATION:PT2H
-DTSTART:20240301T040000Z
-SUMMARY:Syrios: 【MEMBERSHIP STREAM】Ohayogozaimasu
-UID:TF1uSMwq3oU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】 One Last Minecraft Before I Go...\nhttps://www.youtube.com/watch?v=RWflvic8cxo
 DURATION:PT2H
 DTSTART:20240302T190000Z
 SUMMARY:Crimzon: 【MINECRAFT】 One Last Minecraft Before I Go...
 UID:RWflvic8cxo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Is the ocean a soup? #shorts\nhttps://www.youtube.com/watch?v=VDhtjgWtDn0
-DURATION:PT2H
-DTSTART:20240229T154913Z
-SUMMARY:Octavio: Is the ocean a soup? #shorts
-UID:VDhtjgWtDn0
 END:VEVENT
 END:VCALENDAR
