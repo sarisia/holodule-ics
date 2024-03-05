@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【雑談】ゆるゆる～！！【轟はじめ/ReGLOSS】＃hololivedev_is\nhttps://www.youtube.com/watch?v=qeGKXU2l4fU
-DURATION:PT2H
-DTSTART:20240304T125547Z
-SUMMARY:轟はじめ: 【雑談】ゆるゆる～！！【轟はじめ/ReGLOSS】＃hololivedev_is
-UID:qeGKXU2l4fU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【オフコラボ】かなで！！ちょっ！いくら番長がすきだからって家まで入ってきちゃダメだろ！【轟はじめ/音乃瀬奏】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=1RF_8kU-0Go
 DURATION:PT2H
 DTSTART:20240305T100000Z
 SUMMARY:轟はじめ: 【オフコラボ】かなで！！ちょっ！いくら番長がすきだからって家まで入ってきちゃダメだろ！【轟はじめ/音乃瀬奏】＃hololiveDEV_IS
 UID:1RF_8kU-0Go
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【五目並べ/アソビ大全】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=tK0vkKgwE6M
+DURATION:PT2H
+DTSTART:20240305T130000Z
+SUMMARY:音乃瀬奏: 【五目並べ/アソビ大全】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
+UID:tK0vkKgwE6M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:急遽日本に帰らないといけなくなった…！！外国からの最後の配信！【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=27mxSsZBbR8
@@ -30,5 +30,12 @@ DURATION:PT2H
 DTSTART:20240304T120000Z
 SUMMARY:儒烏風亭らでん: 【お絵描き対談】#おおわらでん コラボ！大童澄瞳先生といろいろ話す会【儒烏風亭らでん #ReGLOSS 】
 UID:yu-HncpMTtU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】ゆるゆる～！！【轟はじめ/ReGLOSS】＃hololivedev_is\nhttps://www.youtube.com/watch?v=qeGKXU2l4fU
+DURATION:PT2H
+DTSTART:20240304T125547Z
+SUMMARY:轟はじめ: 【雑談】ゆるゆる～！！【轟はじめ/ReGLOSS】＃hololivedev_is
+UID:qeGKXU2l4fU
 END:VEVENT
 END:VCALENDAR
