@@ -4,41 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:急遽日本に帰らないといけなくなった…！！外国からの最後の配信！【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=27mxSsZBbR8
-DURATION:PT2H
-DTSTART:20240305T090000Z
-SUMMARY:一条莉々華: 急遽日本に帰らないといけなくなった…！！外国からの最後の配信！【#一条莉々華/hololive DEV_IS ReGLOSS】
-UID:27mxSsZBbR8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【super chat読み】40万人様達成時のお礼です！【轟はじめ/ReGLOSS】＃hololivedev_is\nhttps://www.youtube.com/watch?v=a5v5n4lb1wQ
-DURATION:PT2H
-DTSTART:20240305T130316Z
-SUMMARY:轟はじめ: 【super chat読み】40万人様達成時のお礼です！【轟はじめ/ReGLOSS】＃hololivedev_is
-UID:a5v5n4lb1wQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【お絵描き対談】#おおわらでん コラボ！大童澄瞳先生といろいろ話す会【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=yu-HncpMTtU
-DURATION:PT2H
-DTSTART:20240304T120000Z
-SUMMARY:儒烏風亭らでん: 【お絵描き対談】#おおわらでん コラボ！大童澄瞳先生といろいろ話す会【儒烏風亭らでん #ReGLOSS 】
-UID:yu-HncpMTtU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【晩酌雑談】新生活あるあるを話す会【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=vxKIrS-chhA
-DURATION:PT2H
-DTSTART:20240305T140000Z
-SUMMARY:儒烏風亭らでん: 【晩酌雑談】新生活あるあるを話す会【儒烏風亭らでん #ReGLOSS 】
-UID:vxKIrS-chhA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 PALWORLD 】久しぶり！トイレ見て【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=YH-UlyA8TrM
-DURATION:PT2H
-DTSTART:20240305T100500Z
-SUMMARY:火威青: 【 PALWORLD 】久しぶり！トイレ見て【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:YH-UlyA8TrM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【オフコラボ】かなで！！ちょっ！いくら番長がすきだからって家まで入ってきちゃダメだろ！【轟はじめ/音乃瀬奏】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=1RF_8kU-0Go
 DURATION:PT2H
 DTSTART:20240305T100000Z
@@ -53,10 +18,31 @@ SUMMARY:音乃瀬奏: 【五目並べ/アソビ大全】【音乃瀬奏】#holol
 UID:tK0vkKgwE6M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】ゆるゆる～！！【轟はじめ/ReGLOSS】＃hololivedev_is\nhttps://www.youtube.com/watch?v=qeGKXU2l4fU
+DESCRIPTION:急遽日本に帰らないといけなくなった…！！外国からの最後の配信！【#一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=27mxSsZBbR8
 DURATION:PT2H
-DTSTART:20240304T125547Z
-SUMMARY:轟はじめ: 【雑談】ゆるゆる～！！【轟はじめ/ReGLOSS】＃hololivedev_is
-UID:qeGKXU2l4fU
+DTSTART:20240305T090000Z
+SUMMARY:一条莉々華: 急遽日本に帰らないといけなくなった…！！外国からの最後の配信！【#一条莉々華/hololive DEV_IS ReGLOSS】
+UID:27mxSsZBbR8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【super chat読み】40万人様達成時のお礼です！【轟はじめ/ReGLOSS】＃hololivedev_is\nhttps://www.youtube.com/watch?v=a5v5n4lb1wQ
+DURATION:PT2H
+DTSTART:20240305T130316Z
+SUMMARY:轟はじめ: 【super chat読み】40万人様達成時のお礼です！【轟はじめ/ReGLOSS】＃hololivedev_is
+UID:a5v5n4lb1wQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【晩酌雑談】新生活あるあるを話す会【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=vxKIrS-chhA
+DURATION:PT2H
+DTSTART:20240305T140000Z
+SUMMARY:儒烏風亭らでん: 【晩酌雑談】新生活あるあるを話す会【儒烏風亭らでん #ReGLOSS 】
+UID:vxKIrS-chhA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 PALWORLD 】久しぶり！トイレ見て【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=YH-UlyA8TrM
+DURATION:PT2H
+DTSTART:20240305T100500Z
+SUMMARY:火威青: 【 PALWORLD 】久しぶり！トイレ見て【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:YH-UlyA8TrM
 END:VEVENT
 END:VCALENDAR

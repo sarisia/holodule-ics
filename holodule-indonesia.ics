@@ -4,34 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【School Labyrinth】 MASUK SEKOLAH BERHANTU BARENG TIM BOROX?!!! @WindahBasudara @LuthfiHalimawan\nhttps://www.youtube.com/watch?v=IKo_Yse38z4
-DURATION:PT2H
-DTSTART:20240305T153000Z
-SUMMARY:Kobo: 【School Labyrinth】 MASUK SEKOLAH BERHANTU BARENG TIM BOROX?!!! @WindahBasudara @LuthfiHalimawan
-UID:IKo_Yse38z4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ZOMILY】GOING TO BE A SHORT STREAM!!【Hololive ID 2nd Generation】\nhttps://www.youtube.com/watch?v=4ZqDuHpfXes
-DURATION:PT2H
-DTSTART:20240304T133251Z
-SUMMARY:Ollie: 【ZOMILY】GOING TO BE A SHORT STREAM!!【Hololive ID 2nd Generation】
-UID:4ZqDuHpfXes
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Bacon – The Game】bacon fixes everything 【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=5s6yqS_6v6k
-DURATION:PT2H
-DTSTART:20240305T020000Z
-SUMMARY:Kaela: 【Bacon – The Game】bacon fixes everything 【Kaela Kovalskia / hololiveID】
-UID:5s6yqS_6v6k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Pacify】KASIH TUTOR KE SULTAN GACHA YANG BARU PERTAMA KALI MAIN GAME HORROR! @DylandPROS\nhttps://www.youtube.com/watch?v=-Hw49yiusWQ
-DURATION:PT2H
-DTSTART:20240305T130000Z
-SUMMARY:Kobo: 【Pacify】KASIH TUTOR KE SULTAN GACHA YANG BARU PERTAMA KALI MAIN GAME HORROR! @DylandPROS
-UID:-Hw49yiusWQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Twilight Eclipse Watchalong With The Girls\nhttps://www.youtube.com/watch?v=1fjdVb_vRCA
 DURATION:PT2H
 DTSTART:20240306T030000Z
@@ -39,11 +11,11 @@ SUMMARY:🎨Iofi: Twilight Eclipse Watchalong With The Girls
 UID:1fjdVb_vRCA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Yopipi Bye Bye in Gartic Phone #hololive #hololiveindonesia #iolyfe\nhttps://www.youtube.com/watch?v=QscMSfslzhc
+DESCRIPTION:【School Labyrinth】 MASUK SEKOLAH BERHANTU BARENG TIM BOROX?!!! @WindahBasudara @LuthfiHalimawan\nhttps://www.youtube.com/watch?v=IKo_Yse38z4
 DURATION:PT2H
-DTSTART:20240304T120032Z
-SUMMARY:🎨Iofi: Yopipi Bye Bye in Gartic Phone #hololive #hololiveindonesia #iolyfe
-UID:QscMSfslzhc
+DTSTART:20240305T153000Z
+SUMMARY:Kobo: 【School Labyrinth】 MASUK SEKOLAH BERHANTU BARENG TIM BOROX?!!! @WindahBasudara @LuthfiHalimawan
+UID:IKo_Yse38z4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【BURGER】That's it. That's the title.🍔\nhttps://www.youtube.com/watch?v=DyETHohLFoQ
@@ -60,17 +32,24 @@ SUMMARY:Kaela: TRYING TO CHIPI CHAPA DAILY UNTIL YOU HAVE ENOUGH: ATTEMPT 10
 UID:6uspYNg2DZU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Bacon – The Game】bacon fixes everything 【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=5s6yqS_6v6k
+DURATION:PT2H
+DTSTART:20240305T020000Z
+SUMMARY:Kaela: 【Bacon – The Game】bacon fixes everything 【Kaela Kovalskia / hololiveID】
+UID:5s6yqS_6v6k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Pacify】KASIH TUTOR KE SULTAN GACHA YANG BARU PERTAMA KALI MAIN GAME HORROR! @DylandPROS\nhttps://www.youtube.com/watch?v=-Hw49yiusWQ
+DURATION:PT2H
+DTSTART:20240305T130000Z
+SUMMARY:Kobo: 【Pacify】KASIH TUTOR KE SULTAN GACHA YANG BARU PERTAMA KALI MAIN GAME HORROR! @DylandPROS
+UID:-Hw49yiusWQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【FROG'S ADVENTURE】 It's Ribbit Hours【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=nlRhEEaQMCc
 DURATION:PT2H
 DTSTART:20240305T140000Z
 SUMMARY:Reine: 【FROG'S ADVENTURE】 It's Ribbit Hours【Pavolia Reine/hololiveID 2nd gen】
 UID:nlRhEEaQMCc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TRYING TO CHIPI CHAPA DAILY UNTIL YOU HAVE ENOUGH: ATTEMPT 9\nhttps://www.youtube.com/watch?v=Dwf-11C1FpM
-DURATION:PT2H
-DTSTART:20240303T192854Z
-SUMMARY:Kaela: TRYING TO CHIPI CHAPA DAILY UNTIL YOU HAVE ENOUGH: ATTEMPT 9
-UID:Dwf-11C1FpM
 END:VEVENT
 END:VCALENDAR
