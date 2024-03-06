@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Goose Goose Duck】Quack! With EN & ID Friends!【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=x_e3u0NFnVo
+DURATION:PT2H
+DTSTART:20240307T010000Z
+SUMMARY:Anya: 【Goose Goose Duck】Quack! With EN & ID Friends!【hololive ID 2nd Generation | Anya Melfissa】
+UID:x_e3u0NFnVo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Anak metafisika vs anak integral ??\nhttps://www.youtube.com/watch?v=yfcGjcG_XYw
 DURATION:PT2H
 DTSTART:20240306T093000Z
@@ -32,17 +39,24 @@ SUMMARY:🐿Risu: 【RISU SWITCH!】HEWRRRO My Name is- AYU【Ayunda Risu】
 UID:zRi4FpQf1No
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#9【PERSONA 3 RELOAD】yo..... wth......... (SPOILER ALERT)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=jwExnHSSSrg
-DURATION:PT2H
-DTSTART:20240306T130000Z
-SUMMARY:Reine: #9【PERSONA 3 RELOAD】yo..... wth......... (SPOILER ALERT)【Pavolia Reine/hololiveID 2nd gen】
-UID:jwExnHSSSrg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Twilight Eclipse Watchalong With The Girls\nhttps://www.youtube.com/watch?v=1fjdVb_vRCA
 DURATION:PT2H
 DTSTART:20240306T030000Z
 SUMMARY:🎨Iofi: Twilight Eclipse Watchalong With The Girls
 UID:1fjdVb_vRCA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Pacific Drive】Ancient Weapons Can Drive\, Too 古代兵器だって運転したい！〜ゲーム初見板〜【hololive ID | Anya Melfissa】\nhttps://www.youtube.com/watch?v=vk6uqQPAuOQ
+DURATION:PT2H
+DTSTART:20240306T224000Z
+SUMMARY:Anya: 【Pacific Drive】Ancient Weapons Can Drive\, Too 古代兵器だって運転したい！〜ゲーム初見板〜【hololive ID | Anya Melfissa】
+UID:vk6uqQPAuOQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#9【PERSONA 3 RELOAD】yo..... wth......... (SPOILER ALERT)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=jwExnHSSSrg
+DURATION:PT2H
+DTSTART:20240306T130000Z
+SUMMARY:Reine: #9【PERSONA 3 RELOAD】yo..... wth......... (SPOILER ALERT)【Pavolia Reine/hololiveID 2nd gen】
+UID:jwExnHSSSrg
 END:VEVENT
 END:VCALENDAR
