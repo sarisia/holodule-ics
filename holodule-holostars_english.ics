@@ -4,27 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【MEMBERSHIP STREAM】Please save m\,e\nhttps://www.youtube.com/watch?v=4-qMpgfYzRU
-DURATION:PT2H
-DTSTART:20240308T230000Z
-SUMMARY:Syrios: 【MEMBERSHIP STREAM】Please save m\,e
-UID:4-qMpgfYzRU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Zatsudan】munch munch asdfasdfalkjshg (but in Japan)\nhttps://www.youtube.com/watch?v=xX8-HLTn2YY
-DURATION:PT2H
-DTSTART:20240308T020000Z
-SUMMARY:Shinri: 【Zatsudan】munch munch asdfasdfalkjshg (but in Japan)
-UID:xX8-HLTn2YY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Frog's Adventure】Let's HOP right into into it Hakkitos!\nhttps://www.youtube.com/watch?v=h4Xh6-0ocik
-DURATION:PT2H
-DTSTART:20240308T010000Z
-SUMMARY:Hakka: 【Frog's Adventure】Let's HOP right into into it Hakkitos!
-UID:h4Xh6-0ocik
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ZATSU】Xenokuni Ruzequest Edition\nhttps://www.youtube.com/watch?v=e7V2dycOP1M
 DURATION:PT2H
 DTSTART:20240309T094500Z
@@ -32,18 +11,18 @@ SUMMARY:Crimzon: 【ZATSU】Xenokuni Ruzequest Edition
 UID:e7V2dycOP1M
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【League of Legends】If I lose\, I end the stream.\nhttps://www.youtube.com/watch?v=8-oEwgMZ4gU
+DESCRIPTION:【Tengu Talk】A ZATSUDAN\, BUT THIS TIME\, IN JAPAN!\nhttps://www.youtube.com/watch?v=GBzdjFCFTrg
 DURATION:PT2H
-DTSTART:20240308T014500Z
-SUMMARY:Syrios: 【League of Legends】If I lose\, I end the stream.
-UID:8-oEwgMZ4gU
+DTSTART:20240309T011500Z
+SUMMARY:Hakka: 【Tengu Talk】A ZATSUDAN\, BUT THIS TIME\, IN JAPAN!
+UID:GBzdjFCFTrg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【im stream im awake】\nhttps://www.youtube.com/watch?v=do1ni6nhGAE
+DESCRIPTION:【MEMBERSHIP STREAM】Please save m\,e\nhttps://www.youtube.com/watch?v=4-qMpgfYzRU
 DURATION:PT2H
-DTSTART:20240308T013000Z
-SUMMARY:Flayon: 【im stream im awake】
-UID:do1ni6nhGAE
+DTSTART:20240308T230000Z
+SUMMARY:Syrios: 【MEMBERSHIP STREAM】Please save m\,e
+UID:4-qMpgfYzRU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[TEKKEN 8] Kuma\, Give Me The Strength To Bear It All\nhttps://www.youtube.com/watch?v=ZQosOytZC9o
@@ -51,12 +30,5 @@ DURATION:PT2H
 DTSTART:20240309T003000Z
 SUMMARY:Flayon: [TEKKEN 8] Kuma\, Give Me The Strength To Bear It All
 UID:ZQosOytZC9o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Tengu Talk】A ZATSUDAN\, BUT THIS TIME\, IN JAPAN!\nhttps://www.youtube.com/watch?v=GBzdjFCFTrg
-DURATION:PT2H
-DTSTART:20240309T011500Z
-SUMMARY:Hakka: 【Tengu Talk】A ZATSUDAN\, BUT THIS TIME\, IN JAPAN!
-UID:GBzdjFCFTrg
 END:VEVENT
 END:VCALENDAR
