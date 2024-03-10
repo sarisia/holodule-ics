@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ARMORED CORE 6】it's a big mech collab!\nhttps://www.youtube.com/watch?v=0u-Upv_blss
+DURATION:PT2H
+DTSTART:20240311T050000Z
+SUMMARY:Calli: 【ARMORED CORE 6】it's a big mech collab!
+UID:0u-Upv_blss
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【HOLLOW KNIGHT】Bug. (Overcharmed Challenge)\nhttps://www.youtube.com/watch?v=7g3xUaPdxyw
 DURATION:PT2H
 DTSTART:20240310T000000Z
@@ -11,11 +18,11 @@ SUMMARY:Bijou: 【HOLLOW KNIGHT】Bug. (Overcharmed Challenge)
 UID:7g3xUaPdxyw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【CUPHEAD】Fighting That Mermaidoosi Ep-03\nhttps://www.youtube.com/watch?v=b6wawvkRurw
+DESCRIPTION:【日本語】アニメについて話そう！！(Japanese Stream) #shorts\nhttps://www.youtube.com/watch?v=n7ZpcOSkisU
 DURATION:PT2H
-DTSTART:20240308T190000Z
-SUMMARY:Shiori: 【CUPHEAD】Fighting That Mermaidoosi Ep-03
-UID:b6wawvkRurw
+DTSTART:20240312T120000Z
+SUMMARY:Calli: 【日本語】アニメについて話そう！！(Japanese Stream) #shorts
+UID:n7ZpcOSkisU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【踊ってみた】神っぽいな - ピノキオピー ORIGINAL DANCE #shorts\nhttps://www.youtube.com/watch?v=kfCO3spFlHM
@@ -25,67 +32,11 @@ SUMMARY:Baelz: 【踊ってみた】神っぽいな - ピノキオピー ORIGINA
 UID:kfCO3spFlHM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FGO】 Do Wyverns Taste Like Chicken? 【#5】\nhttps://www.youtube.com/watch?v=YevG5VWSp5E
+DESCRIPTION:【School Labyrinth / 迷宮校舎】 JKRyS goes back to School :D\nhttps://www.youtube.com/watch?v=1MzCkrUtKCo
 DURATION:PT2H
-DTSTART:20240309T030000Z
-SUMMARY:Ina: 【FGO】 Do Wyverns Taste Like Chicken? 【#5】
-UID:YevG5VWSp5E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Websites for Moms #shorts\nhttps://www.youtube.com/watch?v=st2DEa0qWFI
-DURATION:PT2H
-DTSTART:20240310T000022Z
-SUMMARY:Shiori: Websites for Moms #shorts
-UID:st2DEa0qWFI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VOICE ACTING】Voicing Your Requested Lines?!\nhttps://www.youtube.com/watch?v=Ex6nLcXrQ6o
-DURATION:PT2H
-DTSTART:20240309T015847Z
-SUMMARY:Calli: 【VOICE ACTING】Voicing Your Requested Lines?!
-UID:Ex6nLcXrQ6o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Dave The Diver】FINALLY. NO MORE DELAYS #kfp #キアライブ\nhttps://www.youtube.com/watch?v=HSTbYndCJTk
-DURATION:PT2H
-DTSTART:20240308T170000Z
-SUMMARY:Kiara: 【Dave The Diver】FINALLY. NO MORE DELAYS #kfp #キアライブ
-UID:HSTbYndCJTk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:twilight: breaking dawn P1 IKZ!!!【WATCHALONG】🎼\nhttps://www.youtube.com/watch?v=_y8oEEIZRxw
-DURATION:PT2H
-DTSTART:20240310T030000Z
-SUMMARY:Nerissa: twilight: breaking dawn P1 IKZ!!!【WATCHALONG】🎼
-UID:_y8oEEIZRxw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PACIFIC DRIVE】Get in the car\nhttps://www.youtube.com/watch?v=AV53gKuwyJA
-DURATION:PT2H
-DTSTART:20240309T000000Z
-SUMMARY:Bijou: 【PACIFIC DRIVE】Get in the car
-UID:AV53gKuwyJA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【LETHAL COMPANY WITH FUBUKI & KOYORI】holodog company 🐾\nhttps://www.youtube.com/watch?v=XR1PEtj15kE
-DURATION:PT2H
-DTSTART:20240310T110000Z
-SUMMARY:FUWAMOCO: 【LETHAL COMPANY WITH FUBUKI & KOYORI】holodog company 🐾
-UID:XR1PEtj15kE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ARMORED CORE 6】it's a big mech collab!\nhttps://www.youtube.com/watch?v=0u-Upv_blss
-DURATION:PT2H
-DTSTART:20240311T050000Z
-SUMMARY:Calli: 【ARMORED CORE 6】it's a big mech collab!
-UID:0u-Upv_blss
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Fine Feline Fauna? *Flushed*  #holoEN3DRepeat\nhttps://www.youtube.com/watch?v=sfZP7yHUgjU
-DURATION:PT2H
-DTSTART:20240309T040000Z
-SUMMARY:ENholo: Fine Feline Fauna? *Flushed*  #holoEN3DRepeat
-UID:sfZP7yHUgjU
+DTSTART:20240310T040000Z
+SUMMARY:IRyS: 【School Labyrinth / 迷宮校舎】 JKRyS goes back to School :D
+UID:1MzCkrUtKCo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SONIC ADVENTURE 2】THIS IS THE ULTIMATE LIFE FORM\nhttps://www.youtube.com/watch?v=NbXBXeP096g
@@ -95,32 +46,25 @@ SUMMARY:Bijou: 【SONIC ADVENTURE 2】THIS IS THE ULTIMATE LIFE FORM
 UID:NbXBXeP096g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【School Labyrinth / 迷宮校舎】 JKRyS goes back to School :D\nhttps://www.youtube.com/watch?v=1MzCkrUtKCo
+DESCRIPTION:≪UNARCHIVED ・歌枠 ≫ RAT IS BACK IN JP SHED! #shorts\nhttps://www.youtube.com/watch?v=qRYU2mJ8U6w
 DURATION:PT2H
-DTSTART:20240310T040000Z
-SUMMARY:IRyS: 【School Labyrinth / 迷宮校舎】 JKRyS goes back to School :D
-UID:1MzCkrUtKCo
+DTSTART:20240311T030000Z
+SUMMARY:Baelz: ≪UNARCHIVED ・歌枠 ≫ RAT IS BACK IN JP SHED! #shorts
+UID:qRYU2mJ8U6w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪MEMBERS ONLY≫ Birthday Live Watchalong + ZATSU\nhttps://www.youtube.com/watch?v=LRSooQdblzo
+DESCRIPTION:Websites for Moms #shorts\nhttps://www.youtube.com/watch?v=st2DEa0qWFI
 DURATION:PT2H
-DTSTART:20240309T030000Z
-SUMMARY:Baelz: ≪MEMBERS ONLY≫ Birthday Live Watchalong + ZATSU
-UID:LRSooQdblzo
+DTSTART:20240310T000022Z
+SUMMARY:Shiori: Websites for Moms #shorts
+UID:st2DEa0qWFI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Balatro】 Addictive & Illegal Poker Roguelite/Deckbuilder\nhttps://www.youtube.com/watch?v=WEJOVd-ouJQ
+DESCRIPTION:【LETHAL COMPANY WITH FUBUKI & KOYORI】holodog company 🐾\nhttps://www.youtube.com/watch?v=XR1PEtj15kE
 DURATION:PT2H
-DTSTART:20240308T230000Z
-SUMMARY:Fauna: 【Balatro】 Addictive & Illegal Poker Roguelite/Deckbuilder
-UID:WEJOVd-ouJQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Just Chatting】My Best Friend's Debut + Special Announcement!\nhttps://www.youtube.com/watch?v=dUxtcRpYssE
-DURATION:PT2H
-DTSTART:20240309T020000Z
-SUMMARY:Kronii: 【Just Chatting】My Best Friend's Debut + Special Announcement!
-UID:dUxtcRpYssE
+DTSTART:20240310T110000Z
+SUMMARY:FUWAMOCO: 【LETHAL COMPANY WITH FUBUKI & KOYORI】holodog company 🐾
+UID:XR1PEtj15kE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【NPC Stream】Yum Yum #shorts\nhttps://www.youtube.com/watch?v=IgLGcD9-5SI
@@ -135,6 +79,13 @@ DURATION:PT2H
 DTSTART:20240310T020000Z
 SUMMARY:FUWAMOCO: 【ARRIVED IN JAPAN】bau bau in JAPAN!! 🗼 FWMCついに日本上陸!! 🐾
 UID:P2_xPltYHwI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:twilight: breaking dawn P1 IKZ!!!【WATCHALONG】🎼\nhttps://www.youtube.com/watch?v=_y8oEEIZRxw
+DURATION:PT2H
+DTSTART:20240310T030000Z
+SUMMARY:Nerissa: twilight: breaking dawn P1 IKZ!!!【WATCHALONG】🎼
+UID:_y8oEEIZRxw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Red Dead Redemption 2】rootin tootin (part 5)\nhttps://www.youtube.com/watch?v=_ar-VGqAdr4
