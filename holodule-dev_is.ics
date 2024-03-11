@@ -4,27 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:春を告げる / yama  covered by ReGLOSS 【歌ってみた / hololive DEV_IS】\nhttps://www.youtube.com/watch?v=7EI8UkPMu_4
-DURATION:PT2H
-DTSTART:20240310T110500Z
-SUMMARY:DEV_IShololive: 春を告げる / yama  covered by ReGLOSS 【歌ってみた / hololive DEV_IS】
-UID:7EI8UkPMu_4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【クイズ企画】私たちのイメージが丸裸に！？【#ReGLOSS印象調査】\nhttps://www.youtube.com/watch?v=zOtNQHMJgKg
-DURATION:PT2H
-DTSTART:20240310T100000Z
-SUMMARY:DEV_IShololive: 【クイズ企画】私たちのイメージが丸裸に！？【#ReGLOSS印象調査】
-UID:zOtNQHMJgKg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【プロセカ】EXPERTでできるだけフルコンボを目指してみる。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=Met2_d7JoyE
-DURATION:PT2H
-DTSTART:20240311T130000Z
-SUMMARY:音乃瀬奏: 【プロセカ】EXPERTでできるだけフルコンボを目指してみる。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
-UID:Met2_d7JoyE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:真っす組、校舎裏しゅーごーな？？\nhttps://www.youtube.com/watch?v=0OOs88EIlzo
 DURATION:PT2H
 DTSTART:20240311T124443Z
@@ -37,5 +16,12 @@ DURATION:PT2H
 DTSTART:20240311T120024Z
 SUMMARY:一条莉々華: 感謝のスパチャ読み!! #shorts #ホロライブ #一条莉々華
 UID:vtG_dVEgUNk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【プロセカ】EXPERTでできるだけフルコンボを目指してみる。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=Met2_d7JoyE
+DURATION:PT2H
+DTSTART:20240311T130000Z
+SUMMARY:音乃瀬奏: 【プロセカ】EXPERTでできるだけフルコンボを目指してみる。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
+UID:Met2_d7JoyE
 END:VEVENT
 END:VCALENDAR
