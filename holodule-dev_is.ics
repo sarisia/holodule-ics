@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Balatro】昼からギャンブル…！？そんな、わけ…イヤアアアアア【#一条莉々華 / hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=4tXHxd8j2n8
-DURATION:PT2H
-DTSTART:20240313T030000Z
-SUMMARY:一条莉々華: 【Balatro】昼からギャンブル…！？そんな、わけ…イヤアアアアア【#一条莉々華 / hololive DEV_IS ReGLOSS】
-UID:4tXHxd8j2n8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】ゲリラ：配信タイトルのちほど更新します配信【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=YyYM0fX2o_w
 DURATION:PT2H
 DTSTART:20240312T143000Z
@@ -23,6 +16,20 @@ DURATION:PT2H
 DTSTART:20240312T123000Z
 SUMMARY:火威青: 【速すぎるRPG 】ちょ、待てよ…サムネ後で直します【火威青 】#hololiveDEV_IS #ReGLOSS
 UID:T6KtMvdiIZw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Balatro】昼からギャンブル…！？そんな、わけ…イヤアアアアア【#一条莉々華 / hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=4tXHxd8j2n8
+DURATION:PT2H
+DTSTART:20240313T030000Z
+SUMMARY:一条莉々華: 【Balatro】昼からギャンブル…！？そんな、わけ…イヤアアアアア【#一条莉々華 / hololive DEV_IS ReGLOSS】
+UID:4tXHxd8j2n8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゲリラ／朝活】おはよう、朝一番に見る顔は君がいいな【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=QFWeX16HaKE
+DURATION:PT2H
+DTSTART:20240312T232310Z
+SUMMARY:火威青: 【ゲリラ／朝活】おはよう、朝一番に見る顔は君がいいな【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:QFWeX16HaKE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ネタバレが激しすぎるＲＰＧ―最後の敵の正体は勇者の父― ネタバレアンチのツッコミが止まらない！！！ツッコミ力チャレンジ【#一条莉々華  / ホロライブ】\nhttps://www.youtube.com/watch?v=vSLCVHH498U
