@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【CUPHEAD】I'll Get My Own TV Show With Flapjacks and Butchers Ep.04\nhttps://www.youtube.com/watch?v=hT_EXTkltLs
-DURATION:PT2H
-DTSTART:20240315T170000Z
-SUMMARY:Shiori: 【CUPHEAD】I'll Get My Own TV Show With Flapjacks and Butchers Ep.04
-UID:hT_EXTkltLs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【hololive 5th fes. Stage1】-Advent- Watchalong! Let's cheer on senpai!! (#holoAdvent)\nhttps://www.youtube.com/watch?v=y69ee5hIW48
-DURATION:PT2H
-DTSTART:20240316T034500Z
-SUMMARY:Bijou: 【hololive 5th fes. Stage1】-Advent- Watchalong! Let's cheer on senpai!! (#holoAdvent)
-UID:y69ee5hIW48
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Human Fall Flat】Advent Teen Hunger Force\, Go!\nhttps://www.youtube.com/watch?v=SkN_v9losxU
 DURATION:PT2H
 DTSTART:20240315T010000Z
@@ -32,11 +18,11 @@ SUMMARY:Bijou: 【HUMAN FALL FLAT COLLAB】We might splat but that's ok cuz I'm 
 UID:edcj-Mqbe_4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【WHITE ALBUM】spending white day together ❄️🐾\nhttps://www.youtube.com/watch?v=bUOu7BiM9eQ
+DESCRIPTION:【CUPHEAD】I'll Get My Own TV Show With Flapjacks and Butchers Ep.04\nhttps://www.youtube.com/watch?v=hT_EXTkltLs
 DURATION:PT2H
-DTSTART:20240315T010000Z
-SUMMARY:FUWAMOCO: 【WHITE ALBUM】spending white day together ❄️🐾
-UID:bUOu7BiM9eQ
+DTSTART:20240315T170000Z
+SUMMARY:Shiori: 【CUPHEAD】I'll Get My Own TV Show With Flapjacks and Butchers Ep.04
+UID:hT_EXTkltLs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【NERISSA OFFCOLLAB KARAOKE】BAU BAUing and CAW CAWing all night 🎼🐾\nhttps://www.youtube.com/watch?v=dnATI1YAoTU
@@ -44,6 +30,27 @@ DURATION:PT2H
 DTSTART:20240316T130000Z
 SUMMARY:FUWAMOCO: 【NERISSA OFFCOLLAB KARAOKE】BAU BAUing and CAW CAWing all night 🎼🐾
 UID:dnATI1YAoTU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MEMBERSHIP STREAM】Singing Practice: ☄️\nhttps://www.youtube.com/watch?v=lB9gPgExjP4
+DURATION:PT2H
+DTSTART:20240315T230000Z
+SUMMARY:Bijou: 【MEMBERSHIP STREAM】Singing Practice: ☄️
+UID:lB9gPgExjP4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololive 5th fes. Stage1】-Advent- Watchalong! Let's cheer on senpai!! (#holoAdvent)\nhttps://www.youtube.com/watch?v=y69ee5hIW48
+DURATION:PT2H
+DTSTART:20240316T034500Z
+SUMMARY:Bijou: 【hololive 5th fes. Stage1】-Advent- Watchalong! Let's cheer on senpai!! (#holoAdvent)
+UID:y69ee5hIW48
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【WHITE ALBUM】spending white day together ❄️🐾\nhttps://www.youtube.com/watch?v=bUOu7BiM9eQ
+DURATION:PT2H
+DTSTART:20240315T010000Z
+SUMMARY:FUWAMOCO: 【WHITE ALBUM】spending white day together ❄️🐾
+UID:bUOu7BiM9eQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【A Difficult Game About Climbing】 This looks familiar.\nhttps://www.youtube.com/watch?v=zLPqBX_g9rw
