@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【hololive 5th fes.】獅白ぼたん応援会場（あとでうちあげ会場になる予定！）【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=gc-ekcKU2EI
-DURATION:PT2H
-DTSTART:20240317T130000Z
-SUMMARY:獅白ぼたん: 【hololive 5th fes.】獅白ぼたん応援会場（あとでうちあげ会場になる予定！）【獅白ぼたん/ホロライブ】
-UID:gc-ekcKU2EI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 応援会場 】👾 Honey Works stage & hololive 5th fes. Capture the Moment 👾【 常闇トワ/ホロライブ 】\nhttps://www.youtube.com/watch?v=-VoWj59GQl0
 DURATION:PT2H
 DTSTART:20240317T130000Z
 SUMMARY:👾常闇トワ: 【 応援会場 】👾 Honey Works stage & hololive 5th fes. Capture the Moment 👾【 常闇トワ/ホロライブ 】
 UID:-VoWj59GQl0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololive 5th fes.】獅白ぼたん応援会場（あとでうちあげ会場になる予定！）【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=gc-ekcKU2EI
+DURATION:PT2H
+DTSTART:20240317T130000Z
+SUMMARY:獅白ぼたん: 【hololive 5th fes.】獅白ぼたん応援会場（あとでうちあげ会場になる予定！）【獅白ぼたん/ホロライブ】
+UID:gc-ekcKU2EI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 応援席🌸 】hololive 5th fes. Capture the Moment【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=tvFxEAHSV38
@@ -102,6 +102,13 @@ SUMMARY:博衣こより: 【Original Animation MV】Tear-Gazer【博衣こより
 UID:_QIQk3StRmc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【感想会＆お知らせ】hololive 5th fes. Capture the Moment hololive【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=FxNbCAr5qGU
+DURATION:PT2H
+DTSTART:20240316T150000Z
+SUMMARY:❤赤井はあと: 【感想会＆お知らせ】hololive 5th fes. Capture the Moment hololive【ホロライブ/赤井はあと】
+UID:FxNbCAr5qGU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【応援会場】#HololiveEXPO2024 寝る前にSTAGE1の感想を語りあおう✨【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=Wa6d2oO9Fa0
 DURATION:PT2H
 DTSTART:20240316T140000Z
@@ -123,18 +130,18 @@ SUMMARY:🐏角巻わため: 左から右へ～🐏【 #今日のわため 】 #
 UID:Grtd6fQEulY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【応援会場】 #hololivefesEXPO24 Day1 & Stage1 応援会場✨（この枠でDay1打ち上げ予定！）【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=X6Lw6Uzk65k
-DURATION:PT2H
-DTSTART:20240316T130000Z
-SUMMARY:博衣こより: 【応援会場】 #hololivefesEXPO24 Day1 & Stage1 応援会場✨（この枠でDay1打ち上げ予定！）【博衣こより/ホロライブ】
-UID:X6Lw6Uzk65k
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:DAY1打ち上げ会場に集合～！！！【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=7N4gdKSwBY8
 DURATION:PT2H
 DTSTART:20240316T130000Z
 SUMMARY:🍎アキロゼ: DAY1打ち上げ会場に集合～！！！【ホロライブ/アキ・ローゼンタール】
 UID:7N4gdKSwBY8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【打ち上げ会場】 #hololivefesEXPO24 Day1 & Stage1 応援→打ち上げ会場✨【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=X6Lw6Uzk65k
+DURATION:PT2H
+DTSTART:20240316T130000Z
+SUMMARY:博衣こより: 【打ち上げ会場】 #hololivefesEXPO24 Day1 & Stage1 応援→打ち上げ会場✨【博衣こより/ホロライブ】
+UID:X6Lw6Uzk65k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#hololivefesEXPO24_DAY1】hololive 5th fes. Capture the Moment hololive stage2 DAY1【チラ見せ】\nhttps://www.youtube.com/watch?v=qBwpM98PXcI
