@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【hololive EXPO & 5th Fes FREE CHAT】IRyS Cheering Venue 2024!!\nhttps://www.youtube.com/watch?v=fsCnzrMBysI
+DURATION:PT2H
+DTSTART:20240318T030000Z
+SUMMARY:IRyS: 【hololive EXPO & 5th Fes FREE CHAT】IRyS Cheering Venue 2024!!
+UID:fsCnzrMBysI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【FES DAY 1 STAGE 2 WATCHALONG】Advent is watching!!\nhttps://www.youtube.com/watch?v=w740m36qz2o
 DURATION:PT2H
 DTSTART:20240316T092500Z
@@ -11,18 +18,11 @@ SUMMARY:Nerissa: 【FES DAY 1 STAGE 2 WATCHALONG】Advent is watching!!
 UID:w740m36qz2o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Human Fall Flat】Advent Teen Hunger Force\, Go!\nhttps://www.youtube.com/watch?v=SkN_v9losxU
+DESCRIPTION:【hololive 5th fes. Stage1】-Advent- Watchalong! Let's cheer on senpai!! (#holoAdvent)\nhttps://www.youtube.com/watch?v=y69ee5hIW48
 DURATION:PT2H
-DTSTART:20240315T010000Z
-SUMMARY:Shiori: 【Human Fall Flat】Advent Teen Hunger Force\, Go!
-UID:SkN_v9losxU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HUMAN FALL FLAT COLLAB】We might splat but that's ok cuz I'm already flat\nhttps://www.youtube.com/watch?v=edcj-Mqbe_4
-DURATION:PT2H
-DTSTART:20240315T010000Z
-SUMMARY:Bijou: 【HUMAN FALL FLAT COLLAB】We might splat but that's ok cuz I'm already flat
-UID:edcj-Mqbe_4
+DTSTART:20240316T034500Z
+SUMMARY:Bijou: 【hololive 5th fes. Stage1】-Advent- Watchalong! Let's cheer on senpai!! (#holoAdvent)
+UID:y69ee5hIW48
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【CUPHEAD】I'll Get My Own TV Show With Flapjacks and Butchers Ep.04\nhttps://www.youtube.com/watch?v=hT_EXTkltLs
@@ -44,26 +44,5 @@ DURATION:PT2H
 DTSTART:20240315T230000Z
 SUMMARY:Bijou: 【MEMBERSHIP STREAM】Singing Practice: ☄️
 UID:lB9gPgExjP4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【hololive 5th fes. Stage1】-Advent- Watchalong! Let's cheer on senpai!! (#holoAdvent)\nhttps://www.youtube.com/watch?v=y69ee5hIW48
-DURATION:PT2H
-DTSTART:20240316T034500Z
-SUMMARY:Bijou: 【hololive 5th fes. Stage1】-Advent- Watchalong! Let's cheer on senpai!! (#holoAdvent)
-UID:y69ee5hIW48
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【WHITE ALBUM】spending white day together ❄️🐾\nhttps://www.youtube.com/watch?v=bUOu7BiM9eQ
-DURATION:PT2H
-DTSTART:20240315T010000Z
-SUMMARY:FUWAMOCO: 【WHITE ALBUM】spending white day together ❄️🐾
-UID:bUOu7BiM9eQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【A Difficult Game About Climbing】 This looks familiar.\nhttps://www.youtube.com/watch?v=zLPqBX_g9rw
-DURATION:PT2H
-DTSTART:20240314T220000Z
-SUMMARY:Fauna: 【A Difficult Game About Climbing】 This looks familiar.
-UID:zLPqBX_g9rw
 END:VEVENT
 END:VCALENDAR
