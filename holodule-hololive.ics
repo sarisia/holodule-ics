@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【hololive 5th fes.】獅白ぼたん応援会場（あとでうちあげ会場になる予定！）【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=gc-ekcKU2EI
-DURATION:PT2H
-DTSTART:20240317T130000Z
-SUMMARY:獅白ぼたん: 【hololive 5th fes.】獅白ぼたん応援会場（あとでうちあげ会場になる予定！）【獅白ぼたん/ホロライブ】
-UID:gc-ekcKU2EI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 応援会場 】👾 Honey Works stage & hololive 5th fes. Capture the Moment 👾【 常闇トワ/ホロライブ 】\nhttps://www.youtube.com/watch?v=-VoWj59GQl0
 DURATION:PT2H
 DTSTART:20240317T130000Z
 SUMMARY:👾常闇トワ: 【 応援会場 】👾 Honey Works stage & hololive 5th fes. Capture the Moment 👾【 常闇トワ/ホロライブ 】
 UID:-VoWj59GQl0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololive 5th fes.】獅白ぼたん応援会場（あとでうちあげ会場になる予定！）【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=gc-ekcKU2EI
+DURATION:PT2H
+DTSTART:20240317T130000Z
+SUMMARY:獅白ぼたん: 【hololive 5th fes.】獅白ぼたん応援会場（あとでうちあげ会場になる予定！）【獅白ぼたん/ホロライブ】
+UID:gc-ekcKU2EI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 応援席🌸 】hololive 5th fes. Capture the Moment【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=tvFxEAHSV38
@@ -93,6 +93,13 @@ DURATION:PT2H
 DTSTART:20240317T030000Z
 SUMMARY:ホロライブ: 【#hololivefesEXPO24_DAY2】hololive 5th fes. Capture the Moment HoneyWorks stage DAY2【チラ見せ】
 UID:XuQm_HL2ntg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:じゃんけんも準備OK！【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=3l8TK5LQ3OY
+DURATION:PT2H
+DTSTART:20240316T210002Z
+SUMMARY:🐏角巻わため: じゃんけんも準備OK！【 #今日のわため 】 #shorts #hololive #vtuber
+UID:3l8TK5LQ3OY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#生スバル】5th Fes応援＆感想枠しゅばあああああああああ！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=TprwtnyzUVw
