@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【アニメ】誰にも渡さん！！！\nhttps://www.youtube.com/watch?v=Lz-GWtl8kL4
+DURATION:PT2H
+DTSTART:20240317T090016Z
+SUMMARY:ホロライブ: 【アニメ】誰にも渡さん！！！
+UID:Lz-GWtl8kL4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【hololive 5th fes.】獅白ぼたん応援会場（あとでうちあげ会場になる予定！）【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=gc-ekcKU2EI
 DURATION:PT2H
 DTSTART:20240317T130000Z
@@ -46,13 +53,6 @@ SUMMARY:⚒AZKi: 【FreeChat/応援会場】#hololivefesEXPO24 ＆5th fes. のAZ
 UID:e4WbQi_EksI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【free chat】ミオファがミオを応援するところ【 #hololivefesexpo24 】\nhttps://www.youtube.com/watch?v=ln9GPNUswSM
-DURATION:PT2H
-DTSTART:20240317T150000Z
-SUMMARY:🌲大神ミオ: 【free chat】ミオファがミオを応援するところ【 #hololivefesexpo24 】
-UID:ln9GPNUswSM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【応援会場】ホロハニがんばってくるよ～！！✨【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=SWdPUKosvJ4
 DURATION:PT2H
 DTSTART:20240317T130000Z
@@ -60,32 +60,11 @@ SUMMARY:⚔白銀ノエル: 【応援会場】ホロハニがんばってくる�
 UID:SWdPUKosvJ4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【応援会場】 #hololivefesEXPO24 DAY1stage2 ＆ ホロハニステージ🎶見ててね！！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=Ixl9itVjYAU
-DURATION:PT2H
-DTSTART:20240317T133000Z
-SUMMARY:風真いろは: 【応援会場】 #hololivefesEXPO24 DAY1stage2 ＆ ホロハニステージ🎶見ててね！！【風真いろは/ホロライブ】
-UID:Ixl9itVjYAU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ろぼさーの応援会場】#hololivefesEXPO24 ＆5th fes. のロボ子さんを応援☺️見守り隊✨【ホロライブ / ロボ子さん】\nhttps://www.youtube.com/watch?v=_THPfDyhFk4
 DURATION:PT2H
 DTSTART:20240318T090000Z
 SUMMARY:🤖ロボ子さん: 【ろぼさーの応援会場】#hololivefesEXPO24 ＆5th fes. のロボ子さんを応援☺️見守り隊✨【ホロライブ / ロボ子さん】
 UID:_THPfDyhFk4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ついに5thFesが間近✨️去年のこの時の自分を越えろ🔥 #風真いろは #shorts\nhttps://www.youtube.com/watch?v=OK6o2vBRrfo
-DURATION:PT2H
-DTSTART:20240315T150018Z
-SUMMARY:風真いろは: ついに5thFesが間近✨️去年のこの時の自分を越えろ🔥 #風真いろは #shorts
-UID:OK6o2vBRrfo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#hololivefesEXPO24_DAY1】hololive 5th fes. Capture the Moment hololive stage1 DAY1【チラ見せ】\nhttps://www.youtube.com/watch?v=00xeNL3vdQo
-DURATION:PT2H
-DTSTART:20240316T030000Z
-SUMMARY:ホロライブ: 【#hololivefesEXPO24_DAY1】hololive 5th fes. Capture the Moment hololive stage1 DAY1【チラ見せ】
-UID:00xeNL3vdQo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【応援会場】hololive 5th fes. Capture the Moment stage2【兎田ぺこら/ホロライブ】#hololivefesEXPO24\nhttps://www.youtube.com/watch?v=gxYuOI1scIA
@@ -102,20 +81,6 @@ SUMMARY:ホロライブ: 【#hololivefesEXPO24_DAY2】hololive 5th fes. Capture 
 UID:XuQm_HL2ntg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:じゃんけんも準備OK！【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=3l8TK5LQ3OY
-DURATION:PT2H
-DTSTART:20240316T210002Z
-SUMMARY:🐏角巻わため: じゃんけんも準備OK！【 #今日のわため 】 #shorts #hololive #vtuber
-UID:3l8TK5LQ3OY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#生スバル】5th Fes応援＆感想枠しゅばあああああああああ！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=TprwtnyzUVw
-DURATION:PT2H
-DTSTART:20240317T130000Z
-SUMMARY:🚑大空スバル: 【#生スバル】5th Fes応援＆感想枠しゅばあああああああああ！！【ホロライブ/大空スバル】
-UID:TprwtnyzUVw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【感想会＆お知らせ】hololive 5th fes. Capture the Moment【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=FxNbCAr5qGU
 DURATION:PT2H
 DTSTART:20240316T150000Z
@@ -123,25 +88,11 @@ SUMMARY:❤赤井はあと: 【感想会＆お知らせ】hololive 5th fes. Capt
 UID:FxNbCAr5qGU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #hololivefesEXPO24】あなたの輝く１番星！EXPO＆FES応援chat枠【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=-CQYYYRJQ8Q
-DURATION:PT2H
-DTSTART:20240318T145900Z
-SUMMARY:🌽白上フブキ: 【 #hololivefesEXPO24】あなたの輝く１番星！EXPO＆FES応援chat枠【ホロライブ/白上フブキ】
-UID:-CQYYYRJQ8Q
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【応援会場】#HololiveEXPO2024 寝る前にSTAGE1の感想を語りあおう✨【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=Wa6d2oO9Fa0
 DURATION:PT2H
 DTSTART:20240316T140000Z
 SUMMARY:⚔白銀ノエル: 【応援会場】#HololiveEXPO2024 寝る前にSTAGE1の感想を語りあおう✨【白銀ノエル/ホロライブ】
 UID:Wa6d2oO9Fa0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 応援&打ち上げ会場 】Honey Works stage & hololive 5th fes. Capture the Moment🍙💐【 猫又おかゆ/ホロライブ 】\nhttps://www.youtube.com/watch?v=G5HkT7QoDWg
-DURATION:PT2H
-DTSTART:20240317T130000Z
-SUMMARY:🍙猫又おかゆ: 【 応援&打ち上げ会場 】Honey Works stage & hololive 5th fes. Capture the Moment🍙💐【 猫又おかゆ/ホロライブ 】
-UID:G5HkT7QoDWg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#hololivefesEXPO24_DAY1 】hololive SUPER EXPO 2024 EXPO STAGE\nhttps://www.youtube.com/watch?v=062NE0osLN8
@@ -156,34 +107,6 @@ DURATION:PT2H
 DTSTART:20240317T130000Z
 SUMMARY:博衣こより: 【応援席→歌枠】 #hololivefesEXPO24 余韻に浸る歌枠❣fesのセトリから歌う～～～🎤🎶【博衣こより/ホロライブ】 #Shorts
 UID:ictSuEhn2wk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DAY1感想会!!】hololive 5th fes. Capture the Moment【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=IrDhaTlDMRo
-DURATION:PT2H
-DTSTART:20240316T130000Z
-SUMMARY:🏴☠宝鐘マリン: 【DAY1感想会!!】hololive 5th fes. Capture the Moment【ホロライブ/宝鐘マリン】
-UID:IrDhaTlDMRo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【応援ち】かなたそを応援する【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=us3jW348hsA
-DURATION:PT2H
-DTSTART:20240317T120000Z
-SUMMARY:💫天音かなた: 【応援ち】かなたそを応援する【天音かなた/ホロライブ】
-UID:us3jW348hsA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【応援会場】hololive 5th fes. Capture the Moment【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=3TMh5oyvhSI
-DURATION:PT2H
-DTSTART:20240317T140000Z
-SUMMARY:⚓湊あくあ: 【応援会場】hololive 5th fes. Capture the Moment【湊あくあ/ホロライブ】
-UID:3TMh5oyvhSI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 応援会場 】HololiveEXPO2024＆5th fes. 頑張るから見守っててね～✨【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=LBFZkkvRPsE
-DURATION:PT2H
-DTSTART:20240318T090000Z
-SUMMARY:鷹嶺ルイ: 【 応援会場 】HololiveEXPO2024＆5th fes. 頑張るから見守っててね～✨【鷹嶺ルイ/ホロライブ】
-UID:LBFZkkvRPsE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:左から右へ～🐏【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=Grtd6fQEulY
@@ -212,6 +135,90 @@ DURATION:PT2H
 DTSTART:20240316T083000Z
 SUMMARY:ホロライブ: 【#hololivefesEXPO24_DAY1】hololive 5th fes. Capture the Moment hololive stage2 DAY1【チラ見せ】
 UID:qBwpM98PXcI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【free chat】ミオファがミオを応援するところ【 #hololivefesexpo24 】\nhttps://www.youtube.com/watch?v=ln9GPNUswSM
+DURATION:PT2H
+DTSTART:20240317T130000Z
+SUMMARY:🌲大神ミオ: 【free chat】ミオファがミオを応援するところ【 #hololivefesexpo24 】
+UID:ln9GPNUswSM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【応援会場】 #hololivefesEXPO24 DAY1stage2 ＆ ホロハニステージ🎶見ててね！！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=Ixl9itVjYAU
+DURATION:PT2H
+DTSTART:20240317T133000Z
+SUMMARY:風真いろは: 【応援会場】 #hololivefesEXPO24 DAY1stage2 ＆ ホロハニステージ🎶見ててね！！【風真いろは/ホロライブ】
+UID:Ixl9itVjYAU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ついに5thFesが間近✨️去年のこの時の自分を越えろ🔥 #風真いろは #shorts\nhttps://www.youtube.com/watch?v=OK6o2vBRrfo
+DURATION:PT2H
+DTSTART:20240315T150018Z
+SUMMARY:風真いろは: ついに5thFesが間近✨️去年のこの時の自分を越えろ🔥 #風真いろは #shorts
+UID:OK6o2vBRrfo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#hololivefesEXPO24_DAY1】hololive 5th fes. Capture the Moment hololive stage1 DAY1【チラ見せ】\nhttps://www.youtube.com/watch?v=00xeNL3vdQo
+DURATION:PT2H
+DTSTART:20240316T030000Z
+SUMMARY:ホロライブ: 【#hololivefesEXPO24_DAY1】hololive 5th fes. Capture the Moment hololive stage1 DAY1【チラ見せ】
+UID:00xeNL3vdQo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:じゃんけんも準備OK！【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=3l8TK5LQ3OY
+DURATION:PT2H
+DTSTART:20240316T210002Z
+SUMMARY:🐏角巻わため: じゃんけんも準備OK！【 #今日のわため 】 #shorts #hololive #vtuber
+UID:3l8TK5LQ3OY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#生スバル】5th Fes応援＆感想枠しゅばあああああああああ！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=TprwtnyzUVw
+DURATION:PT2H
+DTSTART:20240317T130000Z
+SUMMARY:🚑大空スバル: 【#生スバル】5th Fes応援＆感想枠しゅばあああああああああ！！【ホロライブ/大空スバル】
+UID:TprwtnyzUVw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #hololivefesEXPO24】あなたの輝く１番星！EXPO＆FES応援chat枠【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=-CQYYYRJQ8Q
+DURATION:PT2H
+DTSTART:20240318T145900Z
+SUMMARY:🌽白上フブキ: 【 #hololivefesEXPO24】あなたの輝く１番星！EXPO＆FES応援chat枠【ホロライブ/白上フブキ】
+UID:-CQYYYRJQ8Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 応援&打ち上げ会場 】Honey Works stage & hololive 5th fes. Capture the Moment🍙💐【 猫又おかゆ/ホロライブ 】\nhttps://www.youtube.com/watch?v=G5HkT7QoDWg
+DURATION:PT2H
+DTSTART:20240317T130000Z
+SUMMARY:🍙猫又おかゆ: 【 応援&打ち上げ会場 】Honey Works stage & hololive 5th fes. Capture the Moment🍙💐【 猫又おかゆ/ホロライブ 】
+UID:G5HkT7QoDWg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DAY1感想会!!】hololive 5th fes. Capture the Moment【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=IrDhaTlDMRo
+DURATION:PT2H
+DTSTART:20240316T130000Z
+SUMMARY:🏴☠宝鐘マリン: 【DAY1感想会!!】hololive 5th fes. Capture the Moment【ホロライブ/宝鐘マリン】
+UID:IrDhaTlDMRo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【応援ち】かなたそを応援する【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=us3jW348hsA
+DURATION:PT2H
+DTSTART:20240317T120000Z
+SUMMARY:💫天音かなた: 【応援ち】かなたそを応援する【天音かなた/ホロライブ】
+UID:us3jW348hsA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【応援会場】hololive 5th fes. Capture the Moment【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=3TMh5oyvhSI
+DURATION:PT2H
+DTSTART:20240317T140000Z
+SUMMARY:⚓湊あくあ: 【応援会場】hololive 5th fes. Capture the Moment【湊あくあ/ホロライブ】
+UID:3TMh5oyvhSI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 応援会場 】HololiveEXPO2024＆5th fes. 頑張るから見守っててね～✨【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=LBFZkkvRPsE
+DURATION:PT2H
+DTSTART:20240318T090000Z
+SUMMARY:鷹嶺ルイ: 【 応援会場 】HololiveEXPO2024＆5th fes. 頑張るから見守っててね～✨【鷹嶺ルイ/ホロライブ】
+UID:LBFZkkvRPsE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#hololivefesEXPO24_DAY2】hololive 5th fes. Capture the Moment hololive stage3 DAY2【チラ見せ】\nhttps://www.youtube.com/watch?v=CVYbI-1IJnM

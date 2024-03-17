@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【アニメ】誰にも渡さん！！！\nhttps://www.youtube.com/watch?v=Lz-GWtl8kL4
+DURATION:PT2H
+DTSTART:20240317T090016Z
+SUMMARY:ホロライブ: 【アニメ】誰にも渡さん！！！
+UID:Lz-GWtl8kL4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【hololive 5th fes.】獅白ぼたん応援会場（あとでうちあげ会場になる予定！）【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=gc-ekcKU2EI
 DURATION:PT2H
 DTSTART:20240317T130000Z
@@ -195,7 +202,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【free chat】ミオファがミオを応援するところ【 #hololivefesexpo24 】\nhttps://www.youtube.com/watch?v=ln9GPNUswSM
 DURATION:PT2H
-DTSTART:20240317T150000Z
+DTSTART:20240317T130000Z
 SUMMARY:🌲大神ミオ: 【free chat】ミオファがミオを応援するところ【 #hololivefesexpo24 】
 UID:ln9GPNUswSM
 END:VEVENT
