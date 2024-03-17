@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【MATCHA REVIEW】By a Matcha hater!\nhttps://www.youtube.com/watch?v=BSbZC7QY60g
+DURATION:PT2H
+DTSTART:20240317T124500Z
+SUMMARY:Octavio: 【MATCHA REVIEW】By a Matcha hater!
+UID:BSbZC7QY60g
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【SPECIAL ANNOUNCEMENT】Post Expo talk and some spicy news👀👀👀\nhttps://www.youtube.com/watch?v=lsSAmJ88RV0
 DURATION:PT2H
 DTSTART:20240317T123000Z
@@ -25,10 +32,10 @@ SUMMARY:Crimzon: 【HANDCAM ZATSU】Xenokuni Talk and Konbini Snacks With ARMIS
 UID:3u6UTKxPeJY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MATCHA REVIEW】By a Matcha hater!\nhttps://www.youtube.com/watch?v=BSbZC7QY60g
+DESCRIPTION:【Zatsudan】Hololive SUPER EXPO 2024! Let's talk about it!\nhttps://www.youtube.com/watch?v=mxzie4szOho
 DURATION:PT2H
-DTSTART:20240317T124500Z
-SUMMARY:Octavio: 【MATCHA REVIEW】By a Matcha hater!
-UID:BSbZC7QY60g
+DTSTART:20240318T010000Z
+SUMMARY:Shinri: 【Zatsudan】Hololive SUPER EXPO 2024! Let's talk about it!
+UID:mxzie4szOho
 END:VEVENT
 END:VCALENDAR
