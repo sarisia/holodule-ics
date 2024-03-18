@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:[League of Legends] THE COLLAB OF THE CENTURY! w/ Axel and Altare #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=407pHRJHZIE
+DURATION:PT2H
+DTSTART:20240318T020000Z
+SUMMARY:Bettel: [League of Legends] THE COLLAB OF THE CENTURY! w/ Axel and Altare #gavisbettel #holotempus
+UID:407pHRJHZIE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Zatsudan】Hololive SUPER EXPO 2024! Let's talk about it!\nhttps://www.youtube.com/watch?v=mxzie4szOho
+DURATION:PT2H
+DTSTART:20240318T010000Z
+SUMMARY:Shinri: 【Zatsudan】Hololive SUPER EXPO 2024! Let's talk about it!
+UID:mxzie4szOho
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ZATSU】1 v 1 Me\, Ruzaders\nhttps://www.youtube.com/watch?v=TILIDxNfHkI
 DURATION:PT2H
 DTSTART:20240317T190000Z
@@ -16,6 +30,13 @@ DURATION:PT2H
 DTSTART:20240318T020000Z
 SUMMARY:Syrios: 【League of Legends】One Rift Three Guys. @RegisAltare @GavisBettel
 UID:ylgXakjblFU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Zatsudan】It's THAT stream! The one where the streamer eats conbini snacks!\nhttps://www.youtube.com/watch?v=ofQx2LKPWLM
+DURATION:PT2H
+DTSTART:20240319T010000Z
+SUMMARY:Shinri: 【Zatsudan】It's THAT stream! The one where the streamer eats conbini snacks!
+UID:ofQx2LKPWLM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【japan 2】\nhttps://www.youtube.com/watch?v=lpsJdd7mMbM
@@ -32,24 +53,10 @@ SUMMARY:Hakka: 【Tengu Talk】AAAAAA I HAD MY FIRST MEET AND GREET\, I AM SO HA
 UID:U7Q_bPDJr-4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[League of Legends] THE COLLAB OF THE CENTURY! w/ Axel and Altare #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=407pHRJHZIE
-DURATION:PT2H
-DTSTART:20240318T020000Z
-SUMMARY:Bettel: [League of Legends] THE COLLAB OF THE CENTURY! w/ Axel and Altare #gavisbettel #holotempus
-UID:407pHRJHZIE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:the dance of certain creatures that fit in the size of a standard pants pocket (no sound)\nhttps://www.youtube.com/watch?v=L6yxzQEHUlo
 DURATION:PT2H
 DTSTART:20240318T110907Z
 SUMMARY:Shinri: the dance of certain creatures that fit in the size of a standard pants pocket (no sound)
 UID:L6yxzQEHUlo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Zatsudan】Hololive SUPER EXPO 2024! Let's talk about it!\nhttps://www.youtube.com/watch?v=mxzie4szOho
-DURATION:PT2H
-DTSTART:20240318T010000Z
-SUMMARY:Shinri: 【Zatsudan】Hololive SUPER EXPO 2024! Let's talk about it!
-UID:mxzie4szOho
 END:VEVENT
 END:VCALENDAR
