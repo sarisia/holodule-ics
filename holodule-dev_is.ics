@@ -4,18 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【EXPO＆FES感想会】最高の二日間を振り返り！【 火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=wk1sWU4SWWg
+DESCRIPTION:EXPO＆5thfes.サイコーだった！！【轟はじめ/ReGLOSS】＃hololivedev_is\nhttps://www.youtube.com/watch?v=ito5tl6_Fpk
 DURATION:PT2H
-DTSTART:20240318T110000Z
-SUMMARY:火威青: 【EXPO＆FES感想会】最高の二日間を振り返り！【 火威青 】#hololiveDEV_IS #ReGLOSS
-UID:wk1sWU4SWWg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ReGLOSS 'シンメトリー' TEASER\nhttps://www.youtube.com/watch?v=20fggzcaxwA
-DURATION:PT2H
-DTSTART:20240317T024001Z
-SUMMARY:DEV_IShololive: ReGLOSS 'シンメトリー' TEASER
-UID:20fggzcaxwA
+DTSTART:20240317T130000Z
+SUMMARY:轟はじめ: EXPO＆5thfes.サイコーだった！！【轟はじめ/ReGLOSS】＃hololivedev_is
+UID:ito5tl6_Fpk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #hololivefesEXPO24_DAY2 】hololive 5th fes. Capture the Moment hololive stage3 DAY2同時視聴【火威青 】\nhttps://www.youtube.com/watch?v=YT93SzK1XBc
@@ -25,10 +18,24 @@ SUMMARY:火威青: 【 #hololivefesEXPO24_DAY2 】hololive 5th fes. Capture the 
 UID:YT93SzK1XBc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:EXPO＆5thfes.サイコーだった！！【轟はじめ/ReGLOSS】＃hololivedev_is\nhttps://www.youtube.com/watch?v=ito5tl6_Fpk
+DESCRIPTION:ReGLOSS 'シンメトリー' TEASER\nhttps://www.youtube.com/watch?v=20fggzcaxwA
 DURATION:PT2H
-DTSTART:20240317T130000Z
-SUMMARY:轟はじめ: EXPO＆5thfes.サイコーだった！！【轟はじめ/ReGLOSS】＃hololivedev_is
-UID:ito5tl6_Fpk
+DTSTART:20240317T024001Z
+SUMMARY:DEV_IShololive: ReGLOSS 'シンメトリー' TEASER
+UID:20fggzcaxwA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【EXPO＆FES感想会】最高の二日間を振り返り！【 火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=wk1sWU4SWWg
+DURATION:PT2H
+DTSTART:20240318T110000Z
+SUMMARY:火威青: 【EXPO＆FES感想会】最高の二日間を振り返り！【 火威青 】#hololiveDEV_IS #ReGLOSS
+UID:wk1sWU4SWWg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】EXPOとFesを振り返りつつのんびり雑談【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=PGvqTO_IzWk
+DURATION:PT2H
+DTSTART:20240318T120000Z
+SUMMARY:音乃瀬奏: 【雑談】EXPOとFesを振り返りつつのんびり雑談【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
+UID:PGvqTO_IzWk
 END:VEVENT
 END:VCALENDAR
