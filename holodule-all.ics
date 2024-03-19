@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 応援会場&感想お礼枠！ 】👾 Honey Works stage & hololive 5th fes. Capture the Moment 👾【 常闇トワ/ホロライブ 】\nhttps://www.youtube.com/watch?v=-VoWj59GQl0
+DESCRIPTION:【 #春のVtuber甲子園 】負けたら土食べる会場～カメラ有り～【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=J8C2IUGZtmA
 DURATION:PT2H
-DTSTART:20240318T091500Z
-SUMMARY:👾常闇トワ: 【 応援会場&感想お礼枠！ 】👾 Honey Works stage & hololive 5th fes. Capture the Moment 👾【 常闇トワ/ホロライブ 】
-UID:-VoWj59GQl0
+DTSTART:20240319T120000Z
+SUMMARY:博衣こより: 【 #春のVtuber甲子園 】負けたら土食べる会場～カメラ有り～【博衣こより/ホロライブ】
+UID:J8C2IUGZtmA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#朝こよ】生誕Live&EXPO&fes.おつかれさま！火曜日の朝は朝こよ～っ☀ #172【博衣こより/hololive】\nhttps://www.youtube.com/watch?v=hX0VzQFUAdw
@@ -16,6 +16,13 @@ DURATION:PT2H
 DTSTART:20240318T220000Z
 SUMMARY:博衣こより: 【#朝こよ】生誕Live&EXPO&fes.おつかれさま！火曜日の朝は朝こよ～っ☀ #172【博衣こより/hololive】
 UID:hX0VzQFUAdw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 応援会場&感想お礼枠！ 】👾 Honey Works stage & hololive 5th fes. Capture the Moment 👾【 常闇トワ/ホロライブ 】\nhttps://www.youtube.com/watch?v=-VoWj59GQl0
+DURATION:PT2H
+DTSTART:20240318T091500Z
+SUMMARY:👾常闇トワ: 【 応援会場&感想お礼枠！ 】👾 Honey Works stage & hololive 5th fes. Capture the Moment 👾【 常闇トワ/ホロライブ 】
+UID:-VoWj59GQl0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 STREET FIGHTER 6】ガイル村ひぐち村長直々コーチングだって～！？【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=jrotlXrWgkg
@@ -235,6 +242,13 @@ SUMMARY:火威青: 【EXPO＆FES感想会】最高の二日間を振り返り！
 UID:wk1sWU4SWWg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ACRYLIC POUR 🫗 who wants to see this on a stream? #shorts\nhttps://www.youtube.com/watch?v=1x5-Lpsr59k
+DURATION:PT2H
+DTSTART:20240319T064701Z
+SUMMARY:Kiara: ACRYLIC POUR 🫗 who wants to see this on a stream? #shorts
+UID:1x5-Lpsr59k
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌ってみた】コールボーイ / syudou (covered by 緋崎ガンマ)【ホロスターズ】 #vtuber #歌ってみた  #切り抜き #shorts\nhttps://www.youtube.com/watch?v=Vvq7fmZJIWE
 DURATION:PT2H
 DTSTART:20240318T125900Z
@@ -335,7 +349,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【JUST CHATTING】Nah\, I'M BEYOND BOYFAILURE\nhttps://www.youtube.com/watch?v=FuUQfeKGYcU
 DURATION:PT2H
-DTSTART:20240319T110000Z
+DTSTART:20240319T130000Z
 SUMMARY:Jurard: 【JUST CHATTING】Nah\, I'M BEYOND BOYFAILURE
 UID:FuUQfeKGYcU
 END:VEVENT
