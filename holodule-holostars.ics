@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#夕刻ロベル新衣装】いぇーい【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=GWlada9jGDU
+DURATION:PT2H
+DTSTART:20240320T100000Z
+SUMMARY:🍷夕刻ロベル: 【#夕刻ロベル新衣装】いぇーい【夕刻ロベル/ホロスターズ】
+UID:GWlada9jGDU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ストリートファイター6】#獅白杯 最後の1枠をもぎ取る時間がついに来た！ #獅白杯ホロスタ０回戦 【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=b4vlgEY-tQU
 DURATION:PT2H
 DTSTART:20240320T123000Z
@@ -60,11 +67,11 @@ SUMMARY:ホロスターズ: 【アニメ】一人くらい真面目にやって�
 UID:B1clJQARhQ8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝活雑談】祝5周年LIVE開催決定＆EXPO振り返り雑談！！！【#緋崎ガンマ / #ホロスターズ / #vtuber / #hololivefesexpo24 】\nhttps://www.youtube.com/watch?v=qEZOWjJmL_E
+DESCRIPTION:【雑談】エキスポお疲れ様!!最近色んな発表があったのでそれについて話す!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=VUncCDsHoKg
 DURATION:PT2H
-DTSTART:20240317T233000Z
-SUMMARY:緋崎ガンマ: 【朝活雑談】祝5周年LIVE開催決定＆EXPO振り返り雑談！！！【#緋崎ガンマ / #ホロスターズ / #vtuber / #hololivefesexpo24 】
-UID:qEZOWjJmL_E
+DTSTART:20240318T142000Z
+SUMMARY:🌺花咲みやび: 【雑談】エキスポお疲れ様!!最近色んな発表があったのでそれについて話す!!【花咲みやび/ホロスターズ】
+UID:VUncCDsHoKg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ダンス】UPROAR!! Dance Practice #3【#アップロー2周年】\nhttps://www.youtube.com/watch?v=9Q3TEmohYUo
@@ -74,18 +81,18 @@ SUMMARY:ホロスターズ: 【ダンス】UPROAR!! Dance Practice #3【#アッ�
 UID:9Q3TEmohYUo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】コールボーイ / syudou (covered by 緋崎ガンマ)【ホロスターズ】 #vtuber #歌ってみた  #切り抜き #shorts\nhttps://www.youtube.com/watch?v=Vvq7fmZJIWE
-DURATION:PT2H
-DTSTART:20240318T125900Z
-SUMMARY:緋崎ガンマ: 【歌ってみた】コールボーイ / syudou (covered by 緋崎ガンマ)【ホロスターズ】 #vtuber #歌ってみた  #切り抜き #shorts
-UID:Vvq7fmZJIWE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】のんびりEXPOの振り返りしながら村散歩【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=VuLgOHOkIUc
 DURATION:PT2H
 DTSTART:20240318T140000Z
 SUMMARY:🍕アルランディス: 【Minecraft】のんびりEXPOの振り返りしながら村散歩【アルランディス/ホロスターズ】
 UID:VuLgOHOkIUc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌ってみた】コールボーイ / syudou (covered by 緋崎ガンマ)【ホロスターズ】 #vtuber #歌ってみた  #切り抜き #shorts\nhttps://www.youtube.com/watch?v=Vvq7fmZJIWE
+DURATION:PT2H
+DTSTART:20240318T125900Z
+SUMMARY:緋崎ガンマ: 【歌ってみた】コールボーイ / syudou (covered by 緋崎ガンマ)【ホロスターズ】 #vtuber #歌ってみた  #切り抜き #shorts
+UID:Vvq7fmZJIWE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MV】UPROAR!!『JACK THE WORLD』#shorts #アップロー #VTuber 【#アップロー2周年】\nhttps://www.youtube.com/watch?v=u8m3dA6MWYs
@@ -95,11 +102,11 @@ SUMMARY:ホロスターズ: 【MV】UPROAR!!『JACK THE WORLD』#shorts #アッ�
 UID:u8m3dA6MWYs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】エキスポお疲れ様!!最近色んな発表があったのでそれについて話す!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=VUncCDsHoKg
+DESCRIPTION:【朝活雑談】祝5周年LIVE開催決定＆EXPO振り返り雑談！！！【#緋崎ガンマ / #ホロスターズ / #vtuber / #hololivefesexpo24 】\nhttps://www.youtube.com/watch?v=qEZOWjJmL_E
 DURATION:PT2H
-DTSTART:20240318T142000Z
-SUMMARY:🌺花咲みやび: 【雑談】エキスポお疲れ様!!最近色んな発表があったのでそれについて話す!!【花咲みやび/ホロスターズ】
-UID:VUncCDsHoKg
+DTSTART:20240317T233000Z
+SUMMARY:緋崎ガンマ: 【朝活雑談】祝5周年LIVE開催決定＆EXPO振り返り雑談！！！【#緋崎ガンマ / #ホロスターズ / #vtuber / #hololivefesexpo24 】
+UID:qEZOWjJmL_E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【メン幻】ゆるmany【奏手イヅル】\nhttps://www.youtube.com/watch?v=9Wn9pFL-scs
