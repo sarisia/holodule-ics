@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【OTSUFEST】JDON THE FEST【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=4Sj2adSMFyE
-DURATION:PT2H
-DTSTART:20240318T150000Z
-SUMMARY:Kaela: 【OTSUFEST】JDON THE FEST【Kaela Kovalskia / hololiveID】
-UID:4Sj2adSMFyE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Capture the Moment】Otsukare for the fes ♥  #hololivefesEXPO24【holoID】\nhttps://www.youtube.com/watch?v=hqk5EOb8sqg
-DURATION:PT2H
-DTSTART:20240319T080000Z
-SUMMARY:🔮Moona: 【Capture the Moment】Otsukare for the fes ♥  #hololivefesEXPO24【holoID】
-UID:hqk5EOb8sqg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:I hope you had a good time at EXPO! Say hi to Tatang!  #holoid #vtuber #reine #shorts\nhttps://www.youtube.com/watch?v=3aSitdBTvFs
 DURATION:PT2H
 DTSTART:20240319T030002Z
@@ -30,5 +16,26 @@ DURATION:PT2H
 DTSTART:20240319T060000Z
 SUMMARY:Ollie: 【5th FES AFTERTALK】OTSUCRAZY!! CRAVING FOR THEM STORIES I ASSUME~??【Hololive Indonesia 2nd Gen】
 UID:PV0nCWycKuo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【OTSUFEST】JDON THE FEST【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=4Sj2adSMFyE
+DURATION:PT2H
+DTSTART:20240318T150000Z
+SUMMARY:Kaela: 【OTSUFEST】JDON THE FEST【Kaela Kovalskia / hololiveID】
+UID:4Sj2adSMFyE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【EXPO & 5th FES OTSU!!!】It's Time For Peafowl Stories【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=vc2UyfYCpVw
+DURATION:PT2H
+DTSTART:20240319T140000Z
+SUMMARY:Reine: 【EXPO & 5th FES OTSU!!!】It's Time For Peafowl Stories【Pavolia Reine/hololiveID 2nd gen】
+UID:vc2UyfYCpVw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Capture the Moment】Otsukare for the fes ♥  #hololivefesEXPO24【holoID】\nhttps://www.youtube.com/watch?v=hqk5EOb8sqg
+DURATION:PT2H
+DTSTART:20240319T080000Z
+SUMMARY:🔮Moona: 【Capture the Moment】Otsukare for the fes ♥  #hololivefesEXPO24【holoID】
+UID:hqk5EOb8sqg
 END:VEVENT
 END:VCALENDAR
