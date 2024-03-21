@@ -4,6 +4,41 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【hololive EXPO & 5th Fes】HIIIIIIIIIIIII!! I'LL TRY SPEAK IN ENGLISH DESUWA! #hololivefesEXPO24\nhttps://www.youtube.com/watch?v=haig0k9utmU
+DURATION:PT2H
+DTSTART:20240320T130000Z
+SUMMARY:Kobo: 【hololive EXPO & 5th Fes】HIIIIIIIIIIIII!! I'LL TRY SPEAK IN ENGLISH DESUWA! #hololivefesEXPO24
+UID:haig0k9utmU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Membership】study banding AREA15?【holoID】\nhttps://www.youtube.com/watch?v=P5nOv0-Glxg
+DURATION:PT2H
+DTSTART:20240321T140000Z
+SUMMARY:🔮Moona: 【Membership】study banding AREA15?【holoID】
+UID:P5nOv0-Glxg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VISITING SHRINE AT NIGHT】NGABUBURITNYA DI KUIL GES【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=Fn--5jm3YpE
+DURATION:PT2H
+DTSTART:20240321T072948Z
+SUMMARY:Ollie: 【VISITING SHRINE AT NIGHT】NGABUBURITNYA DI KUIL GES【Hololive Indonesia 2nd Gen】
+UID:Fn--5jm3YpE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ANNOUNCEMENT!!!\nhttps://www.youtube.com/watch?v=kBTEX4eXqjw
+DURATION:PT2H
+DTSTART:20240321T130000Z
+SUMMARY:Kobo: ANNOUNCEMENT!!!
+UID:kBTEX4eXqjw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【AREA15】Cover Aftertalk【holoID】\nhttps://www.youtube.com/watch?v=pOfL8BlTU-Y
+DURATION:PT2H
+DTSTART:20240320T141500Z
+SUMMARY:🔮Moona: 【AREA15】Cover Aftertalk【holoID】
+UID:pOfL8BlTU-Y
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Shashingo】久しぶりの日本語配信！📸で日本語力がレベルアップ？？【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=-LHtIQNbQ94
 DURATION:PT2H
 DTSTART:20240320T130000Z
@@ -11,11 +46,18 @@ SUMMARY:Reine: 【Shashingo】久しぶりの日本語配信！📸で日本語�
 UID:-LHtIQNbQ94
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【hololive EXPO & 5th Fes】HIIIIIIIIIIIII!! I'LL TRY SPEAK IN ENGLISH DESUWA! #hololivefesEXPO24\nhttps://www.youtube.com/watch?v=haig0k9utmU
+DESCRIPTION:【RISU SWITCH!】Hello\, Ayunda here !【Ayunda Risu】\nhttps://www.youtube.com/watch?v=TVwpo3YyqII
 DURATION:PT2H
-DTSTART:20240320T130000Z
-SUMMARY:Kobo: 【hololive EXPO & 5th Fes】HIIIIIIIIIIIII!! I'LL TRY SPEAK IN ENGLISH DESUWA! #hololivefesEXPO24
-UID:haig0k9utmU
+DTSTART:20240320T123000Z
+SUMMARY:🐿Risu: 【RISU SWITCH!】Hello\, Ayunda here !【Ayunda Risu】
+UID:TVwpo3YyqII
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Stardew Valley 】Sore Bersama Yopi【 iofi / hololiveID 】】\nhttps://www.youtube.com/watch?v=vfeDtAsaW4o
+DURATION:PT2H
+DTSTART:20240320T080000Z
+SUMMARY:🎨Iofi: 【 Stardew Valley 】Sore Bersama Yopi【 iofi / hololiveID 】】
+UID:vfeDtAsaW4o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【League of Legends】First time playing! how to play this game?【Moona】\nhttps://www.youtube.com/watch?v=WFNoPnJfgXw
@@ -46,27 +88,6 @@ SUMMARY:🎨Iofi: 【 Coral Island 】Menimbun Pundi Pundi Untuk Menjemput Ayang
 UID:9JgNWxFKutM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【VISITING SHRINE AT NIGHT】NGABUBURITNYA DI KUIL GES【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=Fn--5jm3YpE
-DURATION:PT2H
-DTSTART:20240321T072948Z
-SUMMARY:Ollie: 【VISITING SHRINE AT NIGHT】NGABUBURITNYA DI KUIL GES【Hololive Indonesia 2nd Gen】
-UID:Fn--5jm3YpE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ANNOUNCEMENT!!!\nhttps://www.youtube.com/watch?v=kBTEX4eXqjw
-DURATION:PT2H
-DTSTART:20240321T130000Z
-SUMMARY:Kobo: ANNOUNCEMENT!!!
-UID:kBTEX4eXqjw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【AREA15】Cover Aftertalk【holoID】\nhttps://www.youtube.com/watch?v=pOfL8BlTU-Y
-DURATION:PT2H
-DTSTART:20240320T141500Z
-SUMMARY:🔮Moona: 【AREA15】Cover Aftertalk【holoID】
-UID:pOfL8BlTU-Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 Subnautica Below Zero 】Grinding For Stuffs【 iofi / hololiveID 】】\nhttps://www.youtube.com/watch?v=A1YcSVJ2DRI
 DURATION:PT2H
 DTSTART:20240319T160000Z
@@ -79,20 +100,6 @@ DURATION:PT2H
 DTSTART:20240320T133855Z
 SUMMARY:Ollie: 【ZOMILY】SOME THOUGHTS ON FES!!【Hololive ID 2nd Generation】
 UID:cPUYlLCMtdc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RISU SWITCH!】Hello\, Ayunda here !【Ayunda Risu】\nhttps://www.youtube.com/watch?v=TVwpo3YyqII
-DURATION:PT2H
-DTSTART:20240320T123000Z
-SUMMARY:🐿Risu: 【RISU SWITCH!】Hello\, Ayunda here !【Ayunda Risu】
-UID:TVwpo3YyqII
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Stardew Valley 】Sore Bersama Yopi【 iofi / hololiveID 】】\nhttps://www.youtube.com/watch?v=vfeDtAsaW4o
-DURATION:PT2H
-DTSTART:20240320T080000Z
-SUMMARY:🎨Iofi: 【 Stardew Valley 】Sore Bersama Yopi【 iofi / hololiveID 】】
-UID:vfeDtAsaW4o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#10【PERSONA 3 RELOAD】BUT THE BATTLE GOES ON (SPOILER ALERT)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=TDmQMtj35YA
