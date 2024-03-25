@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【FUWAMOCO ROCK N' RAWR PARTY】soft fluffy fuzzy lullabies only 💤 #FWMCbeats\nhttps://www.youtube.com/watch?v=jp2f8iIZrdY
+DESCRIPTION:【DON DON】 dashite shimaeba ii no\nhttps://www.youtube.com/watch?v=k52d3z810KM
 DURATION:PT2H
-DTSTART:20240324T010000Z
-SUMMARY:FUWAMOCO: 【FUWAMOCO ROCK N' RAWR PARTY】soft fluffy fuzzy lullabies only 💤 #FWMCbeats
-UID:jp2f8iIZrdY
+DTSTART:20240325T023100Z
+SUMMARY:Mumei: 【DON DON】 dashite shimaeba ii no
+UID:k52d3z810KM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:little helpers #shorts\nhttps://www.youtube.com/watch?v=kBQePnV8L5U
+DURATION:PT2H
+DTSTART:20240325T080430Z
+SUMMARY:Calli: little helpers #shorts
+UID:kBQePnV8L5U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【JUMP KING DLC】I can smell her (part 2)\nhttps://www.youtube.com/watch?v=_qZwgJ1ghYE
@@ -18,13 +25,6 @@ SUMMARY:Calli: 【JUMP KING DLC】I can smell her (part 2)
 UID:_qZwgJ1ghYE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Just Chatting】Did You Capture The Moment + Japan Stories\nhttps://www.youtube.com/watch?v=mQ7VWX4DaQE
-DURATION:PT2H
-DTSTART:20240324T054500Z
-SUMMARY:Kronii: 【Just Chatting】Did You Capture The Moment + Japan Stories
-UID:mQ7VWX4DaQE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【HOLLOW KNIGHT】The (holo)Knight (Overcharmed Challenge)\nhttps://www.youtube.com/watch?v=NT03vQZ5ox8
 DURATION:PT2H
 DTSTART:20240324T230000Z
@@ -32,11 +32,11 @@ SUMMARY:Bijou: 【HOLLOW KNIGHT】The (holo)Knight (Overcharmed Challenge)
 UID:NT03vQZ5ox8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:You’re Squirming. Stay Still\, Worm.  #shorts #hololive\nhttps://www.youtube.com/watch?v=4MqIsKRuQQA
+DESCRIPTION:【Phasmo】Playing with Kaela~ 🎼\nhttps://www.youtube.com/watch?v=H7z5lFS2u6g
 DURATION:PT2H
-DTSTART:20240324T230004Z
-SUMMARY:Shiori: You’re Squirming. Stay Still\, Worm.  #shorts #hololive
-UID:4MqIsKRuQQA
+DTSTART:20240324T160000Z
+SUMMARY:Nerissa: 【Phasmo】Playing with Kaela~ 🎼
+UID:H7z5lFS2u6g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DRAWING】 Oh Boy It's Doodlin Time\nhttps://www.youtube.com/watch?v=6OfOKpRgee4
@@ -46,18 +46,32 @@ SUMMARY:Ina: 【DRAWING】 Oh Boy It's Doodlin Time
 UID:6OfOKpRgee4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Balatro】 Something Something Heart of Cards...?\nhttps://www.youtube.com/watch?v=LiiyO_DAKK8
+DESCRIPTION:You’re Squirming. Stay Still\, Worm.  #shorts #hololive\nhttps://www.youtube.com/watch?v=4MqIsKRuQQA
 DURATION:PT2H
-DTSTART:20240323T210000Z
-SUMMARY:Ina: 【Balatro】 Something Something Heart of Cards...?
-UID:LiiyO_DAKK8
+DTSTART:20240324T230004Z
+SUMMARY:Shiori: You’re Squirming. Stay Still\, Worm.  #shorts #hololive
+UID:4MqIsKRuQQA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Shashingo】Learn Japanese in a SNAP 📷\nhttps://www.youtube.com/watch?v=8hLDz-9fOzQ
+DESCRIPTION:【A Difficult Game About Climbing】Use Them Hands\nhttps://www.youtube.com/watch?v=1v_vgctvKjM
 DURATION:PT2H
-DTSTART:20240324T020000Z
-SUMMARY:Shiori: 【Shashingo】Learn Japanese in a SNAP 📷
-UID:8hLDz-9fOzQ
+DTSTART:20240325T030000Z
+SUMMARY:IRyS: 【A Difficult Game About Climbing】Use Them Hands
+UID:1v_vgctvKjM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DRAWING YOU!】drawing your DEADBEAT PERSONA?!\nhttps://www.youtube.com/watch?v=mDt-CDVX1qc
+DURATION:PT2H
+DTSTART:20240327T010000Z
+SUMMARY:Calli: 【DRAWING YOU!】drawing your DEADBEAT PERSONA?!
+UID:mDt-CDVX1qc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Smash or Pass】Insect Critique List\nhttps://www.youtube.com/watch?v=K5z42WsP5kQ
+DURATION:PT2H
+DTSTART:20240327T020000Z
+SUMMARY:Shiori: 【Smash or Pass】Insect Critique List
+UID:K5z42WsP5kQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【A Difficult Game About Climbing】 I'm going to win.\nhttps://www.youtube.com/watch?v=t1lBMLyfosw
@@ -74,69 +88,6 @@ SUMMARY:Amelia: 【CHAT】Back from Japan ~ ☆
 UID:4NFnYmf4ar0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪PC Building Simulator 2≫ PC vs Rat\nhttps://www.youtube.com/watch?v=vvjgO16tYzc
-DURATION:PT2H
-DTSTART:20240325T010000Z
-SUMMARY:Baelz: ≪PC Building Simulator 2≫ PC vs Rat
-UID:vvjgO16tYzc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DON DON】 dashite shimaeba ii no\nhttps://www.youtube.com/watch?v=k52d3z810KM
-DURATION:PT2H
-DTSTART:20240325T023100Z
-SUMMARY:Mumei: 【DON DON】 dashite shimaeba ii no
-UID:k52d3z810KM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:little helpers #shorts\nhttps://www.youtube.com/watch?v=kBQePnV8L5U
-DURATION:PT2H
-DTSTART:20240325T080430Z
-SUMMARY:Calli: little helpers #shorts
-UID:kBQePnV8L5U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:die #shorts\nhttps://www.youtube.com/watch?v=Fkfmh1MLFLk
-DURATION:PT2H
-DTSTART:20240324T121308Z
-SUMMARY:Calli: die #shorts
-UID:Fkfmh1MLFLk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MEMBERS ONLY】Thumbnail Making + Brainstorming\nhttps://www.youtube.com/watch?v=6FhTwRb8LtY
-DURATION:PT2H
-DTSTART:20240324T020000Z
-SUMMARY:Mumei: 【MEMBERS ONLY】Thumbnail Making + Brainstorming
-UID:6FhTwRb8LtY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Phasmo】Playing with Kaela~ 🎼\nhttps://www.youtube.com/watch?v=H7z5lFS2u6g
-DURATION:PT2H
-DTSTART:20240324T160000Z
-SUMMARY:Nerissa: 【Phasmo】Playing with Kaela~ 🎼
-UID:H7z5lFS2u6g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【A Difficult Game About Climbing】Use Them Hands\nhttps://www.youtube.com/watch?v=1v_vgctvKjM
-DURATION:PT2H
-DTSTART:20240325T030000Z
-SUMMARY:IRyS: 【A Difficult Game About Climbing】Use Them Hands
-UID:1v_vgctvKjM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【THANK YOU】reading superchats and screaming at you!\nhttps://www.youtube.com/watch?v=L6ktvvR9Ph4
-DURATION:PT2H
-DTSTART:20240324T030140Z
-SUMMARY:Calli: 【THANK YOU】reading superchats and screaming at you!
-UID:L6ktvvR9Ph4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DRAGON'S DOGMA 2】Chadseki Biboo\nhttps://www.youtube.com/watch?v=qiRaVriOuYA
-DURATION:PT2H
-DTSTART:20240323T230000Z
-SUMMARY:Bijou: 【DRAGON'S DOGMA 2】Chadseki Biboo
-UID:qiRaVriOuYA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:No One For You ft. @HakosBaelz @NanashiMumei #holoEN\nhttps://www.youtube.com/watch?v=u1InrknU_mA
 DURATION:PT2H
 DTSTART:20240325T060046Z
@@ -144,17 +95,10 @@ SUMMARY:ENholo: No One For You ft. @HakosBaelz @NanashiMumei #holoEN
 UID:u1InrknU_mA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FF7: Rebirth】Back at it in Nibelheim 🎼\nhttps://www.youtube.com/watch?v=vkUfalfx4GY
+DESCRIPTION:≪PC Building Simulator 2≫ PC vs Rat\nhttps://www.youtube.com/watch?v=vvjgO16tYzc
 DURATION:PT2H
-DTSTART:20240324T000000Z
-SUMMARY:Nerissa: 【FF7: Rebirth】Back at it in Nibelheim 🎼
-UID:vkUfalfx4GY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Crawl Back Into Safety\, It’s Warm and Gooey #shorts\nhttps://www.youtube.com/watch?v=xDq0BTjL9iY
-DURATION:PT2H
-DTSTART:20240323T230023Z
-SUMMARY:Shiori: Crawl Back Into Safety\, It’s Warm and Gooey #shorts
-UID:xDq0BTjL9iY
+DTSTART:20240325T010000Z
+SUMMARY:Baelz: ≪PC Building Simulator 2≫ PC vs Rat
+UID:vvjgO16tYzc
 END:VEVENT
 END:VCALENDAR
