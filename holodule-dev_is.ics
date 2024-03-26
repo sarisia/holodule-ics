@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:寝る前におやすみって言ってって♥ #shorts #ホロライブ #一条莉々華\nhttps://www.youtube.com/watch?v=EoFV-A8Kj5E
-DURATION:PT2H
-DTSTART:20240324T150152Z
-SUMMARY:一条莉々華: 寝る前におやすみって言ってって♥ #shorts #ホロライブ #一条莉々華
-UID:EoFV-A8Kj5E
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#ReGLOSS 「シンメトリー」MV公開中！ #shorts\nhttps://www.youtube.com/watch?v=6mSRf0mvuZM
 DURATION:PT2H
 DTSTART:20240325T110005Z
@@ -18,18 +11,18 @@ SUMMARY:DEV_IShololive: #ReGLOSS 「シンメトリー」MV公開中！ #shorts
 UID:6mSRf0mvuZM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:スパチャ読みする～!! #shorts #ホロライブ #一条莉々華\nhttps://www.youtube.com/watch?v=eZ7L2ccRhQU
-DURATION:PT2H
-DTSTART:20240325T090053Z
-SUMMARY:一条莉々華: スパチャ読みする～!! #shorts #ホロライブ #一条莉々華
-UID:eZ7L2ccRhQU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#青原稿中】250万人について考える【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=vHvo1YiI944
 DURATION:PT2H
 DTSTART:20240325T150335Z
 SUMMARY:火威青: 【#青原稿中】250万人について考える【火威青 】#hololiveDEV_IS #ReGLOSS
 UID:vHvo1YiI944
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【娘の部屋】ホラーゲーム！さぁ、部屋を見せてもらおうか【轟はじめ/ReGLOSS】＃hololivedev_is\nhttps://www.youtube.com/watch?v=POr_5fhsytA
+DURATION:PT2H
+DTSTART:20240326T100000Z
+SUMMARY:轟はじめ: 【娘の部屋】ホラーゲーム！さぁ、部屋を見せてもらおうか【轟はじめ/ReGLOSS】＃hololivedev_is
+UID:POr_5fhsytA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【セガNET麻雀 MJ】はじめての麻雀。学ぶ。【轟はじめ/ReGLOSS】＃hololivedev_is\nhttps://www.youtube.com/watch?v=BgYdSuHQO38
@@ -44,5 +37,26 @@ DURATION:PT2H
 DTSTART:20240325T110000Z
 SUMMARY:一条莉々華: 【シリーズ初プレイ】ドラゴンズドグマ2 ！ソロプレイなのに誰かと冒険してる楽しさを感じられるらしい…！！#3【#一条莉々華  / ホロライブ】
 UID:y3tv5IIuXXc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:寝る前におやすみって言ってって♥ #shorts #ホロライブ #一条莉々華\nhttps://www.youtube.com/watch?v=EoFV-A8Kj5E
+DURATION:PT2H
+DTSTART:20240324T150152Z
+SUMMARY:一条莉々華: 寝る前におやすみって言ってって♥ #shorts #ホロライブ #一条莉々華
+UID:EoFV-A8Kj5E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:スパチャ読みする～!! #shorts #ホロライブ #一条莉々華\nhttps://www.youtube.com/watch?v=eZ7L2ccRhQU
+DURATION:PT2H
+DTSTART:20240325T090053Z
+SUMMARY:一条莉々華: スパチャ読みする～!! #shorts #ホロライブ #一条莉々華
+UID:eZ7L2ccRhQU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【シリーズ初プレイ】ドラゴンズドグマ2 ！上位職になったぞーー！！ソロプレイなのに誰かと冒険してる楽しさを感じられるらしい…！！#3【#一条莉々華  / ホロライブ】\nhttps://www.youtube.com/watch?v=iXzWocddvi4
+DURATION:PT2H
+DTSTART:20240326T110000Z
+SUMMARY:一条莉々華: 【シリーズ初プレイ】ドラゴンズドグマ2 ！上位職になったぞーー！！ソロプレイなのに誰かと冒険してる楽しさを感じられるらしい…！！#3【#一条莉々華  / ホロライブ】
+UID:iXzWocddvi4
 END:VEVENT
 END:VCALENDAR
