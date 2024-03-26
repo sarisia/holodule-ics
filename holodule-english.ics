@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【DON DON】 dashite shimaeba ii no\nhttps://www.youtube.com/watch?v=k52d3z810KM
-DURATION:PT2H
-DTSTART:20240325T023100Z
-SUMMARY:Mumei: 【DON DON】 dashite shimaeba ii no
-UID:k52d3z810KM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:little helpers #shorts\nhttps://www.youtube.com/watch?v=kBQePnV8L5U
-DURATION:PT2H
-DTSTART:20240325T080430Z
-SUMMARY:Calli: little helpers #shorts
-UID:kBQePnV8L5U
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【JUMP KING DLC】I can smell her (part 2)\nhttps://www.youtube.com/watch?v=_qZwgJ1ghYE
 DURATION:PT2H
 DTSTART:20240326T050000Z
@@ -32,20 +18,6 @@ SUMMARY:Bijou: 【HOLLOW KNIGHT】The (holo)Knight (Overcharmed Challenge)
 UID:NT03vQZ5ox8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Phasmo】Playing with Kaela~ 🎼\nhttps://www.youtube.com/watch?v=H7z5lFS2u6g
-DURATION:PT2H
-DTSTART:20240324T160000Z
-SUMMARY:Nerissa: 【Phasmo】Playing with Kaela~ 🎼
-UID:H7z5lFS2u6g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DRAWING】 Oh Boy It's Doodlin Time\nhttps://www.youtube.com/watch?v=6OfOKpRgee4
-DURATION:PT2H
-DTSTART:20240324T210000Z
-SUMMARY:Ina: 【DRAWING】 Oh Boy It's Doodlin Time
-UID:6OfOKpRgee4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:You’re Squirming. Stay Still\, Worm.  #shorts #hololive\nhttps://www.youtube.com/watch?v=4MqIsKRuQQA
 DURATION:PT2H
 DTSTART:20240324T230004Z
@@ -53,18 +25,11 @@ SUMMARY:Shiori: You’re Squirming. Stay Still\, Worm.  #shorts #hololive
 UID:4MqIsKRuQQA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【A Difficult Game About Climbing】Use Them Hands\nhttps://www.youtube.com/watch?v=1v_vgctvKjM
+DESCRIPTION:【DRAWING】 Oh Boy It's Doodlin Time\nhttps://www.youtube.com/watch?v=6OfOKpRgee4
 DURATION:PT2H
-DTSTART:20240325T030000Z
-SUMMARY:IRyS: 【A Difficult Game About Climbing】Use Them Hands
-UID:1v_vgctvKjM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:I tried the Ayamy Family Collab Cafe! #shorts\nhttps://www.youtube.com/watch?v=bbLEOh7tmQ8
-DURATION:PT2H
-DTSTART:20240325T203504Z
-SUMMARY:Kiara: I tried the Ayamy Family Collab Cafe! #shorts
-UID:bbLEOh7tmQ8
+DTSTART:20240324T210000Z
+SUMMARY:Ina: 【DRAWING】 Oh Boy It's Doodlin Time
+UID:6OfOKpRgee4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DRAWING YOU!】drawing your DEADBEAT PERSONA?!\nhttps://www.youtube.com/watch?v=mDt-CDVX1qc
@@ -95,17 +60,59 @@ SUMMARY:Amelia: 【CHAT】Back from Japan ~ ☆
 UID:4NFnYmf4ar0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:No One For You ft. @HakosBaelz @NanashiMumei #holoEN\nhttps://www.youtube.com/watch?v=u1InrknU_mA
-DURATION:PT2H
-DTSTART:20240325T060046Z
-SUMMARY:ENholo: No One For You ft. @HakosBaelz @NanashiMumei #holoEN
-UID:u1InrknU_mA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪PC Building Simulator 2≫ PC vs Rat\nhttps://www.youtube.com/watch?v=vvjgO16tYzc
 DURATION:PT2H
 DTSTART:20240325T010000Z
 SUMMARY:Baelz: ≪PC Building Simulator 2≫ PC vs Rat
 UID:vvjgO16tYzc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DON DON】 dashite shimaeba ii no\nhttps://www.youtube.com/watch?v=k52d3z810KM
+DURATION:PT2H
+DTSTART:20240325T023100Z
+SUMMARY:Mumei: 【DON DON】 dashite shimaeba ii no
+UID:k52d3z810KM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:little helpers #shorts\nhttps://www.youtube.com/watch?v=kBQePnV8L5U
+DURATION:PT2H
+DTSTART:20240325T080430Z
+SUMMARY:Calli: little helpers #shorts
+UID:kBQePnV8L5U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:I tried the Ayamy Family Collab Cafe! #shorts\nhttps://www.youtube.com/watch?v=bbLEOh7tmQ8
+DURATION:PT2H
+DTSTART:20240325T203504Z
+SUMMARY:Kiara: I tried the Ayamy Family Collab Cafe! #shorts
+UID:bbLEOh7tmQ8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Phasmo】Playing with Kaela~ 🎼\nhttps://www.youtube.com/watch?v=H7z5lFS2u6g
+DURATION:PT2H
+DTSTART:20240324T160000Z
+SUMMARY:Nerissa: 【Phasmo】Playing with Kaela~ 🎼
+UID:H7z5lFS2u6g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【A Difficult Game About Climbing】Use Them Hands\nhttps://www.youtube.com/watch?v=1v_vgctvKjM
+DURATION:PT2H
+DTSTART:20240325T030000Z
+SUMMARY:IRyS: 【A Difficult Game About Climbing】Use Them Hands
+UID:1v_vgctvKjM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【YAKUZA 0】CHERRRRRYY BOYYYYY (SPOILERS) #shorts\nhttps://www.youtube.com/watch?v=AgCveDdLmOk
+DURATION:PT2H
+DTSTART:20240326T010006Z
+SUMMARY:Baelz: 【YAKUZA 0】CHERRRRRYY BOYYYYY (SPOILERS) #shorts
+UID:AgCveDdLmOk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:No One For You ft. @HakosBaelz @NanashiMumei #holoEN\nhttps://www.youtube.com/watch?v=u1InrknU_mA
+DURATION:PT2H
+DTSTART:20240325T060046Z
+SUMMARY:ENholo: No One For You ft. @HakosBaelz @NanashiMumei #holoEN
+UID:u1InrknU_mA
 END:VEVENT
 END:VCALENDAR
