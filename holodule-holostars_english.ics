@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【ZATSU】 The Clock Strikes Midnight\nhttps://www.youtube.com/watch?v=eEPIO62cgrI
+DURATION:PT2H
+DTSTART:20240328T020000Z
+SUMMARY:Crimzon: 【ZATSU】 The Clock Strikes Midnight
+UID:eEPIO62cgrI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Shinkansen 0】Zoom zoom (but spooky?)\nhttps://www.youtube.com/watch?v=XcAHGj_DpLU
 DURATION:PT2H
 DTSTART:20240327T010000Z
