@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【 Membership／同時視聴 】チャーリーとチョコレート工場 ／ Charlie and the Chocolate Factory【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=01W9pfMXaHI
+DURATION:PT2H
+DTSTART:20240329T130000Z
+SUMMARY:鷹嶺ルイ: 【 Membership／同時視聴 】チャーリーとチョコレート工場 ／ Charlie and the Chocolate Factory【鷹嶺ルイ/ホロライブ】
+UID:01W9pfMXaHI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ぷよテト2】勝負だ！ぷよぷよテトリスで！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=6FVu-YLdHhE
 DURATION:PT2H
 DTSTART:20240328T100000Z
@@ -156,6 +163,13 @@ DURATION:PT2H
 DTSTART:20240328T130000Z
 SUMMARY:👾常闇トワ: 【STREET FIGHTER 6】獅白杯に向けて練習していく！その７【常闇トワ/ホロライブ】
 UID:V_JFxJTSZkw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Hospital 666】ねぽらぼで異常があるかもしれない病院から脱出します【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=ds9VTVbH5Gg
+DURATION:PT2H
+DTSTART:20240329T100000Z
+SUMMARY:獅白ぼたん: 【Hospital 666】ねぽらぼで異常があるかもしれない病院から脱出します【獅白ぼたん/ホロライブ】
+UID:ds9VTVbH5Gg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【3期生】笑いあり！涙あり！？イギリスファンタジー旅の様子を大公開【 #ホロファン旅 】\nhttps://www.youtube.com/watch?v=L1WASkPNMNk
