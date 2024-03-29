@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:≪hololive 5th fes - Stage 2 - WATCHALONG ≫ rat and owl watching idols pt 2\nhttps://www.youtube.com/watch?v=TKX4Zh3rrUA
+DURATION:PT2H
+DTSTART:20240329T050000Z
+SUMMARY:Baelz: ≪hololive 5th fes - Stage 2 - WATCHALONG ≫ rat and owl watching idols pt 2
+UID:TKX4Zh3rrUA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【3D Easter Special】Bunny Beat Em' Up: Fitness Boxing Edition\nhttps://www.youtube.com/watch?v=-pwzzYrR4us
 DURATION:PT2H
 DTSTART:20240329T020000Z
 SUMMARY:Shiori: 【3D Easter Special】Bunny Beat Em' Up: Fitness Boxing Edition
 UID:-pwzzYrR4us
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FREE CHAT】HiRyS!\nhttps://www.youtube.com/watch?v=YgRGMmcfHO8
+DURATION:PT2H
+DTSTART:20240331T143015Z
+SUMMARY:IRyS: 【FREE CHAT】HiRyS!
+UID:YgRGMmcfHO8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Making of 【R x R x R】- BTS Bonus Reel!\nhttps://www.youtube.com/watch?v=HaUorTEFiEI
@@ -18,11 +32,11 @@ SUMMARY:Baelz: Making of 【R x R x R】- BTS Bonus Reel!
 UID:HaUorTEFiEI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Rizz On Time ft. @OuroKronii #holoEN\nhttps://www.youtube.com/watch?v=Ya9PqtMCzmA
+DESCRIPTION:【Frog Detective 3】scooter go vroooom #kfp #キアライブ\nhttps://www.youtube.com/watch?v=O4GMC4WE-aY
 DURATION:PT2H
-DTSTART:20240328T030030Z
-SUMMARY:ENholo: Rizz On Time ft. @OuroKronii #holoEN
-UID:Ya9PqtMCzmA
+DTSTART:20240328T180000Z
+SUMMARY:Kiara: 【Frog Detective 3】scooter go vroooom #kfp #キアライブ
+UID:O4GMC4WE-aY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪hololive 5th fes - Stage 1 - WATCHALONG ≫ rat and owl watching idols pt 1\nhttps://www.youtube.com/watch?v=GOXzzoMqVvk
@@ -32,39 +46,18 @@ SUMMARY:Baelz: ≪hololive 5th fes - Stage 1 - WATCHALONG ≫ rat and owl watchi
 UID:GOXzzoMqVvk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【SPINFROG】frog speeeeeeeeeeeeeeen #kfp #キアライブ\nhttps://www.youtube.com/watch?v=t_ML44T41ME
+DURATION:PT2H
+DTSTART:20240329T180000Z
+SUMMARY:Kiara: 【SPINFROG】frog speeeeeeeeeeeeeeen #kfp #キアライブ
+UID:t_ML44T41ME
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Watchalong】LoTR: The Two Towers ♟️\nhttps://www.youtube.com/watch?v=del2HQk9W0k
 DURATION:PT2H
 DTSTART:20240329T230000Z
 SUMMARY:Shiori: 【Watchalong】LoTR: The Two Towers ♟️
 UID:del2HQk9W0k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FGO】 BUT INA THE HORSES 【#7】\nhttps://www.youtube.com/watch?v=8JDvhcnewAo
-DURATION:PT2H
-DTSTART:20240330T030000Z
-SUMMARY:Ina: 【FGO】 BUT INA THE HORSES 【#7】
-UID:8JDvhcnewAo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【a Difficult game about Climbing】I must become the mountain 🎼\nhttps://www.youtube.com/watch?v=Qi-7Ny6Qlx0
-DURATION:PT2H
-DTSTART:20240329T000000Z
-SUMMARY:Nerissa: 【a Difficult game about Climbing】I must become the mountain 🎼
-UID:Qi-7Ny6Qlx0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Shiori’s Manager DOKO? #shorts\nhttps://www.youtube.com/watch?v=LkdXMvrYAcw
-DURATION:PT2H
-DTSTART:20240327T230020Z
-SUMMARY:Shiori: Shiori’s Manager DOKO? #shorts
-UID:LkdXMvrYAcw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Splatoon 3】 How 2 Woomy\nhttps://www.youtube.com/watch?v=OIgHOQkLxcA
-DURATION:PT2H
-DTSTART:20240327T210000Z
-SUMMARY:Ina: 【Splatoon 3】 How 2 Woomy
-UID:OIgHOQkLxcA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SHASHINGO】The first step to JOUZU!\nhttps://www.youtube.com/watch?v=4IV_RUXh-JM
@@ -74,69 +67,6 @@ SUMMARY:Bijou: 【SHASHINGO】The first step to JOUZU!
 UID:4IV_RUXh-JM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MEMBERS STREAM】I doodle!\nhttps://www.youtube.com/watch?v=W0WC4Jk9CmQ
-DURATION:PT2H
-DTSTART:20240327T230000Z
-SUMMARY:Bijou: 【MEMBERS STREAM】I doodle!
-UID:W0WC4Jk9CmQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪hololive 5th fes - Stage 2 - WATCHALONG ≫ rat and owl watching idols pt 2\nhttps://www.youtube.com/watch?v=TKX4Zh3rrUA
-DURATION:PT2H
-DTSTART:20240329T050000Z
-SUMMARY:Baelz: ≪hololive 5th fes - Stage 2 - WATCHALONG ≫ rat and owl watching idols pt 2
-UID:TKX4Zh3rrUA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Frog's Adventure】frogiwawa play frog gaem #kfp #キアライブ\nhttps://www.youtube.com/watch?v=iSXbDGb4whQ
-DURATION:PT2H
-DTSTART:20240327T180000Z
-SUMMARY:Kiara: 【Frog's Adventure】frogiwawa play frog gaem #kfp #キアライブ
-UID:iSXbDGb4whQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SLICE & DICE】 The addictive dice rolling roguelite has a new update\nhttps://www.youtube.com/watch?v=eVZn0wMapog
-DURATION:PT2H
-DTSTART:20240327T220000Z
-SUMMARY:Fauna: 【SLICE & DICE】 The addictive dice rolling roguelite has a new update
-UID:eVZn0wMapog
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【YAKUZA KIWAMI】GGGGGGOROMI (SPOILERS) #shorts\nhttps://www.youtube.com/watch?v=3QM2lpJFwAg
-DURATION:PT2H
-DTSTART:20240328T010003Z
-SUMMARY:Baelz: 【YAKUZA KIWAMI】GGGGGGOROMI (SPOILERS) #shorts
-UID:3QM2lpJFwAg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Frog Detective 3】scooter go vroooom #kfp #キアライブ\nhttps://www.youtube.com/watch?v=O4GMC4WE-aY
-DURATION:PT2H
-DTSTART:20240328T180000Z
-SUMMARY:Kiara: 【Frog Detective 3】scooter go vroooom #kfp #キアライブ
-UID:O4GMC4WE-aY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【KARAOKE & ANNOUNCEMENT】getting the news out...in song! #shorts\nhttps://www.youtube.com/watch?v=qVKswLCwZLs
-DURATION:PT2H
-DTSTART:20240328T020000Z
-SUMMARY:Calli: 【KARAOKE & ANNOUNCEMENT】getting the news out...in song! #shorts
-UID:qVKswLCwZLs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SPINFROG】frog speeeeeeeeeeeeeeen #kfp #キアライブ\nhttps://www.youtube.com/watch?v=t_ML44T41ME
-DURATION:PT2H
-DTSTART:20240329T180000Z
-SUMMARY:Kiara: 【SPINFROG】frog speeeeeeeeeeeeeeen #kfp #キアライブ
-UID:t_ML44T41ME
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Members Only】Music For a Rainy Day\nhttps://www.youtube.com/watch?v=wxrFlQObRuE
-DURATION:PT2H
-DTSTART:20240327T230000Z
-SUMMARY:Shiori: 【Members Only】Music For a Rainy Day
-UID:wxrFlQObRuE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【HITMAN 3】 They put Boromir in Hitman\nhttps://www.youtube.com/watch?v=pj0CtzBBET0
 DURATION:PT2H
 DTSTART:20240328T220000Z
@@ -144,11 +74,18 @@ SUMMARY:Fauna: 【HITMAN 3】 They put Boromir in Hitman
 UID:pj0CtzBBET0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:when you don't hit the note #shorts\nhttps://www.youtube.com/watch?v=MI8A68yiDI4
+DESCRIPTION:【a Difficult game about Climbing】I must become the mountain 🎼\nhttps://www.youtube.com/watch?v=Qi-7Ny6Qlx0
 DURATION:PT2H
-DTSTART:20240328T044114Z
-SUMMARY:Calli: when you don't hit the note #shorts
-UID:MI8A68yiDI4
+DTSTART:20240329T000000Z
+SUMMARY:Nerissa: 【a Difficult game about Climbing】I must become the mountain 🎼
+UID:Qi-7Ny6Qlx0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FGO】 BUT INA THE HORSES 【#7】\nhttps://www.youtube.com/watch?v=8JDvhcnewAo
+DURATION:PT2H
+DTSTART:20240330T030000Z
+SUMMARY:Ina: 【FGO】 BUT INA THE HORSES 【#7】
+UID:8JDvhcnewAo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Karaoke】 (Mostly) Vocaloid Karaoke + ANNOUNCEMENT?!\nhttps://www.youtube.com/watch?v=PzkqEfCX0O8
