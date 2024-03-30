@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【3D Easter Special】Bunny Beat Em' Up: Fitness Boxing Edition\nhttps://www.youtube.com/watch?v=-pwzzYrR4us
-DURATION:PT2H
-DTSTART:20240329T020000Z
-SUMMARY:Shiori: 【3D Easter Special】Bunny Beat Em' Up: Fitness Boxing Edition
-UID:-pwzzYrR4us
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【FREE CHAT】HiRyS!\nhttps://www.youtube.com/watch?v=YgRGMmcfHO8
 DURATION:PT2H
 DTSTART:20240331T143015Z
@@ -18,11 +11,25 @@ SUMMARY:IRyS: 【FREE CHAT】HiRyS!
 UID:YgRGMmcfHO8
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【3D Easter Special】Bunny Beat Em' Up: Fitness Boxing Edition\nhttps://www.youtube.com/watch?v=-pwzzYrR4us
+DURATION:PT2H
+DTSTART:20240329T020000Z
+SUMMARY:Shiori: 【3D Easter Special】Bunny Beat Em' Up: Fitness Boxing Edition
+UID:-pwzzYrR4us
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Making of 【R x R x R】- BTS Bonus Reel!\nhttps://www.youtube.com/watch?v=HaUorTEFiEI
 DURATION:PT2H
 DTSTART:20240329T030000Z
 SUMMARY:Baelz: Making of 【R x R x R】- BTS Bonus Reel!
 UID:HaUorTEFiEI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Hololive 5th Fes - Stage 3 WATCH-ALONG】Rat + Owl Watch Idols Part 4\nhttps://www.youtube.com/watch?v=7NxONp9djuk
+DURATION:PT2H
+DTSTART:20240330T044500Z
+SUMMARY:Mumei: 【Hololive 5th Fes - Stage 3 WATCH-ALONG】Rat + Owl Watch Idols Part 4
+UID:7NxONp9djuk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪hololive 5th fes - Stage 1 - WATCHALONG ≫ rat and owl watching idols pt 1\nhttps://www.youtube.com/watch?v=GOXzzoMqVvk
@@ -60,11 +67,11 @@ SUMMARY:Nerissa: 【a Difficult game about Climbing】I must become the mountain
 UID:Qi-7Ny6Qlx0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Hololive 5th Fes - Stage 3 WATCH-ALONG】Rat + Owl Watch Idols Part 4\nhttps://www.youtube.com/watch?v=7NxONp9djuk
+DESCRIPTION:no down time!! #shorts\nhttps://www.youtube.com/watch?v=2b5h60fJ1Rk
 DURATION:PT2H
-DTSTART:20240330T044500Z
-SUMMARY:Mumei: 【Hololive 5th Fes - Stage 3 WATCH-ALONG】Rat + Owl Watch Idols Part 4
-UID:7NxONp9djuk
+DTSTART:20240330T114346Z
+SUMMARY:Calli: no down time!! #shorts
+UID:2b5h60fJ1Rk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SHASHINGO】The first step to JOUZU!\nhttps://www.youtube.com/watch?v=4IV_RUXh-JM
@@ -81,18 +88,18 @@ SUMMARY:Baelz: ≪hololive 5th fes - Stage 2 - WATCHALONG ≫ rat and owl watchi
 UID:TKX4Zh3rrUA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Frog Detective 3】scooter go vroooom #kfp #キアライブ\nhttps://www.youtube.com/watch?v=O4GMC4WE-aY
-DURATION:PT2H
-DTSTART:20240328T180000Z
-SUMMARY:Kiara: 【Frog Detective 3】scooter go vroooom #kfp #キアライブ
-UID:O4GMC4WE-aY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:gotta lock in #shorts\nhttps://www.youtube.com/watch?v=XZBL3R8LZE4
 DURATION:PT2H
 DTSTART:20240329T221053Z
 SUMMARY:Calli: gotta lock in #shorts
 UID:XZBL3R8LZE4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Frog Detective 3】scooter go vroooom #kfp #キアライブ\nhttps://www.youtube.com/watch?v=O4GMC4WE-aY
+DURATION:PT2H
+DTSTART:20240328T180000Z
+SUMMARY:Kiara: 【Frog Detective 3】scooter go vroooom #kfp #キアライブ
+UID:O4GMC4WE-aY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SPINFROG】frog speeeeeeeeeeeeeeen #kfp #キアライブ\nhttps://www.youtube.com/watch?v=t_ML44T41ME
