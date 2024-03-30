@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【hololiveID】Prisuners Night : HEWROO EVERYONE !!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=WOdrI3Gxs1Y
-DURATION:PT2H
-DTSTART:20240329T130000Z
-SUMMARY:🐿Risu: 【hololiveID】Prisuners Night : HEWROO EVERYONE !!【Ayunda Risu】
-UID:WOdrI3Gxs1Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Yet Another Brunch\, Everyone】Free Talk+SC! Cleaning My Keyboard【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=fn6UiTO1vR0
 DURATION:PT2H
 DTSTART:20240330T040000Z
 SUMMARY:Reine: 【Yet Another Brunch\, Everyone】Free Talk+SC! Cleaning My Keyboard【Pavolia Reine/hololiveID 2nd gen】
 UID:fn6UiTO1vR0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【hololiveID】Prisuners Night : HEWROO EVERYONE !!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=WOdrI3Gxs1Y
+DURATION:PT2H
+DTSTART:20240329T130000Z
+SUMMARY:🐿Risu: 【hololiveID】Prisuners Night : HEWROO EVERYONE !!【Ayunda Risu】
+UID:WOdrI3Gxs1Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Super Bunny Man】totally not playing alone 👋\nhttps://www.youtube.com/watch?v=q2OTx3V6lA8
@@ -86,6 +86,13 @@ DURATION:PT2H
 DTSTART:20240329T150000Z
 SUMMARY:Zeta: ❗chat & ketchup donation reading❗ #2ETAnniv
 UID:M0AqTbU9PtQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#4【Apollo Justice: Ace Attorney】CASE 3 START! (SPOILER ALERT)【Pavolia Reine/hololiveID】\nhttps://www.youtube.com/watch?v=62Gr6zrrppU
+DURATION:PT2H
+DTSTART:20240330T140000Z
+SUMMARY:Reine: #4【Apollo Justice: Ace Attorney】CASE 3 START! (SPOILER ALERT)【Pavolia Reine/hololiveID】
+UID:62Gr6zrrppU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【UPROAR 3D Live WATCHALONG】 CRAZY KINGS?? HOW KUREIJI...【HoloID 2nd Gen】\nhttps://www.youtube.com/watch?v=985Gzx8HtA4
