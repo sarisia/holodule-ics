@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【メンバーシップ動画】魔法陣【hololive/鷹嶺ルイ】\nhttps://www.youtube.com/watch?v=mfX7LcYNaes
+DURATION:PT2H
+DTSTART:20240331T171219Z
+SUMMARY:鷹嶺ルイ: 【メンバーシップ動画】魔法陣【hololive/鷹嶺ルイ】
+UID:mfX7LcYNaes
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【KARAOKE + ANNOUNCEMENT】I KNOW IT'S APRIL 1ST BUT HEAR ME OUT--【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=ZoYeN0zVc9s
 DURATION:PT2H
 DTSTART:20240401T020000Z
 SUMMARY:Ollie: 【KARAOKE + ANNOUNCEMENT】I KNOW IT'S APRIL 1ST BUT HEAR ME OUT--【Hololive Indonesia 2nd Gen】
 UID:ZoYeN0zVc9s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 エイプリルフール歌雑/KARAOKE 】何見てるんですか？【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=i88Mf-a4w5s
+DURATION:PT2H
+DTSTART:20240401T120000Z
+SUMMARY:火威青: 【 エイプリルフール歌雑/KARAOKE 】何見てるんですか？【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:i88Mf-a4w5s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【セガNET麻雀 MJ】来る時に備え勉強&練習🔰参加型もやってみたーい！！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=VuuX_C_cjwY
@@ -718,10 +732,10 @@ SUMMARY:🐏角巻わため: 【エイプリルシープ】角巻わためがヤ
 UID:730G96-wT1s
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:♡♡♡♡♡♡♡♡\nhttps://www.youtube.com/watch?v=CONrtLKYFlk
+DESCRIPTION:凄い動画凄い動画凄い動画凄い動画凄い動画凄いあははははは\nhttps://www.youtube.com/watch?v=CONrtLKYFlk
 DURATION:PT2H
 DTSTART:20240401T120000Z
-SUMMARY:🌽白上フブキ: ♡♡♡♡♡♡♡♡
+SUMMARY:🌽白上フブキ: 凄い動画凄い動画凄い動画凄い動画凄い動画凄いあははははは
 UID:CONrtLKYFlk
 END:VEVENT
 END:VCALENDAR
