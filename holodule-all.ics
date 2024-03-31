@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#獅白杯】獅白杯お疲れさまでした！大会配信を振り返りながらいろんな話【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=kgHLnijrWCM
+DURATION:PT2H
+DTSTART:20240401T130000Z
+SUMMARY:獅白ぼたん: 【#獅白杯】獅白杯お疲れさまでした！大会配信を振り返りながらいろんな話【獅白ぼたん/ホロライブ】
+UID:kgHLnijrWCM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【メンバーシップ動画】魔法陣【hololive/鷹嶺ルイ】\nhttps://www.youtube.com/watch?v=mfX7LcYNaes
 DURATION:PT2H
 DTSTART:20240331T171219Z
@@ -562,6 +569,13 @@ DURATION:PT2H
 DTSTART:20240331T123748Z
 SUMMARY:ホロスターズ: UPROAR!!2周年記念ボイス「Crazy King」 #アップロー2周年【KU100】
 UID:x_HRdRol_7E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【はつはいしん】ほろらいぶごきせい ちちろぼたん【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=ET5b4RISScg
+DURATION:PT2H
+DTSTART:20240401T040000Z
+SUMMARY:獅白ぼたん: 【はつはいしん】ほろらいぶごきせい ちちろぼたん【獅白ぼたん/ホロライブ】
+UID:ET5b4RISScg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Holo X Break 】横スクアクション大好き魔人【荒咬オウガ　ホロスターズ】\nhttps://www.youtube.com/watch?v=D3-QP_JdmNA
