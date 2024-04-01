@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:Q&A but i only answer\nhttps://www.youtube.com/watch?v=Le7oGrnMDm0
+DURATION:PT2H
+DTSTART:20240401T013000Z
+SUMMARY:Zeta: Q&A but i only answer
+UID:Le7oGrnMDm0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Fishing Planet】Minggu malah mancing bersama AREA15【Moona | hololive ID】\nhttps://www.youtube.com/watch?v=xtucOJxxs1A
 DURATION:PT2H
 DTSTART:20240331T130000Z
@@ -13,9 +20,16 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【KARAOKE + ANNOUNCEMENT】I KNOW IT'S APRIL 1ST BUT HEAR ME OUT--【Hololive Indonesia 2nd Gen】\nhttps://www.youtube.com/watch?v=ZoYeN0zVc9s
 DURATION:PT2H
-DTSTART:20240401T020000Z
+DTSTART:20240401T015924Z
 SUMMARY:Ollie: 【KARAOKE + ANNOUNCEMENT】I KNOW IT'S APRIL 1ST BUT HEAR ME OUT--【Hololive Indonesia 2nd Gen】
 UID:ZoYeN0zVc9s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:stream ends when i draw a perfect circle\nhttps://www.youtube.com/watch?v=UCdpxCtQlLw
+DURATION:PT2H
+DTSTART:20240401T014500Z
+SUMMARY:Zeta: stream ends when i draw a perfect circle
+UID:UCdpxCtQlLw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:AY YO ?! ZOMBUSSY ?!?!\nhttps://www.youtube.com/watch?v=hwCqEwKSa0A
@@ -88,10 +102,10 @@ SUMMARY:Ollie: 【ZOMILY】IDK YET\, PRACTICING FOR TOMORROW'S KARAOKE【Hololiv
 UID:6_U8Oe3nX3k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【M.M.M.】APRIL MOP = NOT MALAS ?????【Ayunda Risu】\nhttps://www.youtube.com/watch?v=TXr30UPa3nQ
+DESCRIPTION:【M.M.M.】APRIL MOP = NOT MALAS ?????【JUST Ayu】\nhttps://www.youtube.com/watch?v=TXr30UPa3nQ
 DURATION:PT2H
 DTSTART:20240401T020000Z
-SUMMARY:🐿Risu: 【M.M.M.】APRIL MOP = NOT MALAS ?????【Ayunda Risu】
+SUMMARY:🐿Risu: 【M.M.M.】APRIL MOP = NOT MALAS ?????【JUST Ayu】
 UID:TXr30UPa3nQ
 END:VEVENT
 BEGIN:VEVENT
