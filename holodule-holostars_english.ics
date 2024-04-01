@@ -4,11 +4,32 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:I'll smash em【Final Fantasy 7 Rebirth】#4 | SPOILER WARNING\nhttps://www.youtube.com/watch?v=gj7sw7KDN4k
+DURATION:PT2H
+DTSTART:20240401T100000Z
+SUMMARY:Octavio: I'll smash em【Final Fantasy 7 Rebirth】#4 | SPOILER WARNING
+UID:gj7sw7KDN4k
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Miitopia】YATTA!!! YATTA!!! YATTA!!! #6\nhttps://www.youtube.com/watch?v=F8yJyvFngDk
 DURATION:PT2H
 DTSTART:20240401T031500Z
 SUMMARY:Syrios: 【Miitopia】YATTA!!! YATTA!!! YATTA!!! #6
 UID:F8yJyvFngDk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ANNOUNCING SOMETHING\nhttps://www.youtube.com/watch?v=A2LvhKqveic
+DURATION:PT2H
+DTSTART:20240401T030000Z
+SUMMARY:Jurard: ANNOUNCING SOMETHING
+UID:A2LvhKqveic
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Zatsudan】Hololive SUPER EXPO 2024 & Trip to Xenokuni!\nhttps://www.youtube.com/watch?v=ow19rPAhKCQ
+DURATION:PT2H
+DTSTART:20240401T150000Z
+SUMMARY:Goldbullet: 【Zatsudan】Hololive SUPER EXPO 2024 & Trip to Xenokuni!
+UID:ow19rPAhKCQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:HELLO HAKKITO\, LET'S CHAT 🔅❤️\nhttps://www.youtube.com/watch?v=SBZvuMWAwbw
@@ -18,32 +39,11 @@ SUMMARY:Hakka: HELLO HAKKITO\, LET'S CHAT 🔅❤️
 UID:SBZvuMWAwbw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[A Difficult Game About Climbing] DIFFICULT? YEAH OK SURE. #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=TdZnBJ0aNpA
+DESCRIPTION:【HANDCAM】 Chess: I've Had It\, I'm Putting My Foot Down\nhttps://www.youtube.com/watch?v=p4wKUA85A4M
 DURATION:PT2H
-DTSTART:20240331T030000Z
-SUMMARY:Bettel: [A Difficult Game About Climbing] DIFFICULT? YEAH OK SURE. #gavisbettel #holotempus
-UID:TdZnBJ0aNpA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MEMBERSHIP STREAM】ehehehehe\nhttps://www.youtube.com/watch?v=ydftXZzdtx4
-DURATION:PT2H
-DTSTART:20240330T151500Z
-SUMMARY:Syrios: 【MEMBERSHIP STREAM】ehehehehe
-UID:ydftXZzdtx4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:XENOKUNI: THE FINALE【OcTalks with Octavio】#11\nhttps://www.youtube.com/watch?v=3efQ77QR_js
-DURATION:PT2H
-DTSTART:20240331T000000Z
-SUMMARY:Octavio: XENOKUNI: THE FINALE【OcTalks with Octavio】#11
-UID:3efQ77QR_js
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Stardew Valley】1.6 - 1 - A NEW START (Shinri finally plays the 1.6 update)\nhttps://www.youtube.com/watch?v=OYiF4sLHqX4
-DURATION:PT2H
-DTSTART:20240331T010000Z
-SUMMARY:Shinri: 【Stardew Valley】1.6 - 1 - A NEW START (Shinri finally plays the 1.6 update)
-UID:OYiF4sLHqX4
+DTSTART:20240401T180000Z
+SUMMARY:Crimzon: 【HANDCAM】 Chess: I've Had It\, I'm Putting My Foot Down
+UID:p4wKUA85A4M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Holostars Server】We're back in the server!!\nhttps://www.youtube.com/watch?v=9w5oGkwpV_g
@@ -65,54 +65,5 @@ DURATION:PT2H
 DTSTART:20240402T010000Z
 SUMMARY:Shinri: 【Ratopia】Rats! Rats! We are the rats!
 UID:W10sz-Cq7Yo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:I'll smash em【Final Fantasy 7 Rebirth】#4 | SPOILER WARNING\nhttps://www.youtube.com/watch?v=gj7sw7KDN4k
-DURATION:PT2H
-DTSTART:20240401T100000Z
-SUMMARY:Octavio: I'll smash em【Final Fantasy 7 Rebirth】#4 | SPOILER WARNING
-UID:gj7sw7KDN4k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】 There and Back Again\nhttps://www.youtube.com/watch?v=JW-7nLHhrCg
-DURATION:PT2H
-DTSTART:20240331T020000Z
-SUMMARY:Crimzon: 【MINECRAFT】 There and Back Again
-UID:JW-7nLHhrCg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ANNOUNCING SOMETHING\nhttps://www.youtube.com/watch?v=A2LvhKqveic
-DURATION:PT2H
-DTSTART:20240401T030000Z
-SUMMARY:Jurard: ANNOUNCING SOMETHING
-UID:A2LvhKqveic
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Zatsudan】Hololive SUPER EXPO 2024 & Trip to Xenokuni!\nhttps://www.youtube.com/watch?v=ow19rPAhKCQ
-DURATION:PT2H
-DTSTART:20240401T150000Z
-SUMMARY:Goldbullet: 【Zatsudan】Hololive SUPER EXPO 2024 & Trip to Xenokuni!
-UID:ow19rPAhKCQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:shinri walks around dotonbori with an umbrella\nhttps://www.youtube.com/watch?v=1A_GIVrHGek
-DURATION:PT2H
-DTSTART:20240330T151747Z
-SUMMARY:Shinri: shinri walks around dotonbori with an umbrella
-UID:1A_GIVrHGek
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HANDCAM】 Chess: I've Had It\, I'm Putting My Foot Down\nhttps://www.youtube.com/watch?v=p4wKUA85A4M
-DURATION:PT2H
-DTSTART:20240401T180000Z
-SUMMARY:Crimzon: 【HANDCAM】 Chess: I've Had It\, I'm Putting My Foot Down
-UID:p4wKUA85A4M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mecha Pilot CatBoy's 1st HANDCAM  - Japanese Snacks / Konbini\nhttps://www.youtube.com/watch?v=CA-BiwhZU1c
-DURATION:PT2H
-DTSTART:20240330T233000Z
-SUMMARY:Flayon: Mecha Pilot CatBoy's 1st HANDCAM  - Japanese Snacks / Konbini
-UID:CA-BiwhZU1c
 END:VEVENT
 END:VCALENDAR
