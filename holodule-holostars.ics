@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ドラゴンズドグマ 2】はじめまして。※ネタバレ注意 / アステル\nhttps://www.youtube.com/watch?v=Rs9R-JNiNdQ
-DURATION:PT2H
-DTSTART:20240331T120000Z
-SUMMARY:🎭アステル・レダ: 【ドラゴンズドグマ 2】はじめまして。※ネタバレ注意 / アステル
-UID:Rs9R-JNiNdQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 あつまれ どうぶつの森 】幽霊、無人島でスローライフ【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】\nhttps://www.youtube.com/watch?v=bGLIn46RaW4
 DURATION:PT2H
 DTSTART:20240401T140000Z
 SUMMARY:水無世燐央: 【 あつまれ どうぶつの森 】幽霊、無人島でスローライフ【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】
 UID:bGLIn46RaW4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ドラゴンズドグマ 2】はじめまして。※ネタバレ注意 / アステル\nhttps://www.youtube.com/watch?v=Rs9R-JNiNdQ
+DURATION:PT2H
+DTSTART:20240331T120000Z
+SUMMARY:🎭アステル・レダ: 【ドラゴンズドグマ 2】はじめまして。※ネタバレ注意 / アステル
+UID:Rs9R-JNiNdQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】春ですね。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=BRCwBQVNaOc
@@ -46,6 +46,13 @@ SUMMARY:🦔💨岸堂天真: 【MHW:IB】ストーリー最終回かも！MR18�
 UID:E-UP0KmkBnY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【生配信終了後】UPROAR!! 2nd Anniversary「Crazy King」リアクション映像　#アップロー2周年\nhttps://www.youtube.com/watch?v=WG2lcfNw52A
+DURATION:PT2H
+DTSTART:20240401T103853Z
+SUMMARY:ホロスターズ: 【生配信終了後】UPROAR!! 2nd Anniversary「Crazy King」リアクション映像　#アップロー2周年
+UID:WG2lcfNw52A
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Monster Hunter: World】いよいよ難易度がモンハンらしくなってきた【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=nBpT8WzASNo
 DURATION:PT2H
 DTSTART:20240401T073000Z
@@ -67,18 +74,18 @@ SUMMARY:水無世燐央: 【雑談】#アップロー2周年 3D配信の振り�
 UID:yy9iON1jxA4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#アップロー2周年 ありがとう！振り返り&後半スパチャ読み【夜十神封魔/ホロスターズ】 #shorts #縦型配信 #short\nhttps://www.youtube.com/watch?v=BN_CuBNSmy4
-DURATION:PT2H
-DTSTART:20240401T031711Z
-SUMMARY:夜十神封魔: #アップロー2周年 ありがとう！振り返り&後半スパチャ読み【夜十神封魔/ホロスターズ】 #shorts #縦型配信 #short
-UID:BN_CuBNSmy4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 4/1 】この体、ちょっと変【荒咬オウガ　ホロスターズ】\nhttps://www.youtube.com/watch?v=LLufQhrY-q8
 DURATION:PT2H
 DTSTART:20240401T130000Z
 SUMMARY:荒咬オウガ: 【 4/1 】この体、ちょっと変【荒咬オウガ　ホロスターズ】
 UID:LLufQhrY-q8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#アップロー2周年 ありがとう！振り返り&後半スパチャ読み【夜十神封魔/ホロスターズ】 #shorts #縦型配信 #short\nhttps://www.youtube.com/watch?v=BN_CuBNSmy4
+DURATION:PT2H
+DTSTART:20240401T031711Z
+SUMMARY:夜十神封魔: #アップロー2周年 ありがとう！振り返り&後半スパチャ読み【夜十神封魔/ホロスターズ】 #shorts #縦型配信 #short
+UID:BN_CuBNSmy4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ドラゴンズドグマ 2】おれは覚者。お前は凡人。※ネタバレ注意 / アステル\nhttps://www.youtube.com/watch?v=8ISaVf9EWUk
