@@ -67,18 +67,18 @@ SUMMARY:🏴☠宝鐘マリン: #ビビデバ サビダンス踊ってみた！�
 UID:VFErP2bkF4Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:朝日を浴びると1日終わりって感じするよね！【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=hbIQJK5GAlI
-DURATION:PT2H
-DTSTART:20240401T210023Z
-SUMMARY:🐏角巻わため: 朝日を浴びると1日終わりって感じするよね！【 #今日のわため 】 #shorts #hololive #vtuber
-UID:hbIQJK5GAlI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【モンスターハンター：ワールド】モンハン生活3日目！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=CsITqUpv-F0
 DURATION:PT2H
 DTSTART:20240402T090000Z
 SUMMARY:雪花ラミィ: 【モンスターハンター：ワールド】モンハン生活3日目！！【雪花ラミィ/ホロライブ】
 UID:CsITqUpv-F0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:朝日を浴びると1日終わりって感じするよね！【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=hbIQJK5GAlI
+DURATION:PT2H
+DTSTART:20240401T210023Z
+SUMMARY:🐏角巻わため: 朝日を浴びると1日終わりって感じするよね！【 #今日のわため 】 #shorts #hololive #vtuber
+UID:hbIQJK5GAlI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#嘆きのはげーぼー】どうしてまだ髪の毛がないのおおお！？？ヅラを探さなくちゃ…ヅラ…【ホロライブ / ロボ子さん】\nhttps://www.youtube.com/watch?v=tWEDZLYrtJc
@@ -137,18 +137,18 @@ SUMMARY:風真いろは: 【メン限】同時視聴📺『薬屋のひとりご
 UID:9DMdJjJU3yc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Booo! / ぶーちゃま【Cover】\nhttps://www.youtube.com/watch?v=AXasW1OSb10
-DURATION:PT2H
-DTSTART:20240401T110000Z
-SUMMARY:❤赤井はあと: Booo! / ぶーちゃま【Cover】
-UID:AXasW1OSb10
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#朝こよ】4月突入！最初の火曜日の朝も！朝こよ～っ☀ #174【博衣こより/hololive】\nhttps://www.youtube.com/watch?v=NW9w9VWjgSQ
 DURATION:PT2H
 DTSTART:20240401T220000Z
 SUMMARY:博衣こより: 【#朝こよ】4月突入！最初の火曜日の朝も！朝こよ～っ☀ #174【博衣こより/hololive】
 UID:NW9w9VWjgSQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Booo! / ぶーちゃま【Cover】\nhttps://www.youtube.com/watch?v=AXasW1OSb10
+DURATION:PT2H
+DTSTART:20240401T110000Z
+SUMMARY:❤赤井はあと: Booo! / ぶーちゃま【Cover】
+UID:AXasW1OSb10
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ブリにゃんモードはピピピのピ♡/ホワイトブリニャン(Original)\nhttps://www.youtube.com/watch?v=UDY9uIHTWGw
@@ -207,6 +207,13 @@ SUMMARY:🌲大神ミオ: 【迷宮校舎】絶対にやらないと思ってい
 UID:5FqQA_iI11M
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【はいしんよていち】こよよよよよよっよよよよよ！！！！！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=YxEh5RhAhzQ
+DURATION:PT2H
+DTSTART:20240403T100000Z
+SUMMARY:博衣こより: 【はいしんよていち】こよよよよよよっよよよよよ！！！！！！【博衣こより/ホロライブ】
+UID:YxEh5RhAhzQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 #朝ミオ 】月曜日・・今日エイプリルフールじゃん！\nhttps://www.youtube.com/watch?v=Ax3NaLg3anQ
 DURATION:PT2H
 DTSTART:20240331T223000Z
@@ -221,6 +228,13 @@ SUMMARY:💫天音かなた: 粛聖!! ロリ神レクイエム☆ / 天音かな
 UID:shXDiB3CZ60
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【TABS】戦いだあああああああああああああああああああああああああああああああ！！！！/ Totally Accurate Battle Simulator 【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=5laO6_3SmaI
+DURATION:PT2H
+DTSTART:20240402T110000Z
+SUMMARY:🚑大空スバル: 【TABS】戦いだあああああああああああああああああああああああああああああああ！！！！/ Totally Accurate Battle Simulator 【ホロライブ/大空スバル】
+UID:5laO6_3SmaI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 メンバーシップ限定 】みんなに伝えておきたいことがあるのら【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=95pgrhhYoYs
 DURATION:PT2H
 DTSTART:20240401T140000Z
@@ -228,11 +242,11 @@ SUMMARY:🍬姫森ルーナ: 【 メンバーシップ限定 】みんなに伝�
 UID:95pgrhhYoYs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【TABS】戦いだあああああああああああああああああああああああああああああああ！！！！/ Totally Accurate Battle Simulator 【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=5laO6_3SmaI
+DESCRIPTION:【雑談/Free Talk】猫鯖エペ大会も獅白杯もおつかれさまー！【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=AbXCE8WyyM4
 DURATION:PT2H
-DTSTART:20240402T110000Z
-SUMMARY:🚑大空スバル: 【TABS】戦いだあああああああああああああああああああああああああああああああ！！！！/ Totally Accurate Battle Simulator 【ホロライブ/大空スバル】
-UID:5laO6_3SmaI
+DTSTART:20240402T130000Z
+SUMMARY:🍎アキロゼ: 【雑談/Free Talk】猫鯖エペ大会も獅白杯もおつかれさまー！【ホロライブ/アキロゼ】
+UID:AbXCE8WyyM4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ホロメンのエイプリルフール2024💡見ていこうぜ・・・【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=SzcdKcWHvR0
