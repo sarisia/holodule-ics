@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:イオフィとはあちゃまで！いろんな言語のお茶会？！\nhttps://www.youtube.com/watch?v=jl6i-Aaz2bc
+DURATION:PT2H
+DTSTART:20240404T040000Z
+SUMMARY:🎨Iofi: イオフィとはあちゃまで！いろんな言語のお茶会？！
+UID:jl6i-Aaz2bc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【迷宮校舎 | School Labyrinth】Going to School... Alone?【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=Jt1sDXJl1dU
 DURATION:PT2H
 DTSTART:20240404T130000Z
@@ -34,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【STARDEW VALLEY】BUILDING HOUSE STAIRS WITH @AiraniIofifteen 【 Kureiji Ollie  】\nhttps://www.youtube.com/watch?v=3JIy3BQfvUA
 DURATION:PT2H
-DTSTART:20240405T130000Z
+DTSTART:20240405T130021Z
 SUMMARY:Ollie: 【STARDEW VALLEY】BUILDING HOUSE STAIRS WITH @AiraniIofifteen 【 Kureiji Ollie  】
 UID:3JIy3BQfvUA
 END:VEVENT
@@ -109,11 +116,11 @@ SUMMARY:🐿Risu: 【ETS 2】COLLAB SUPIR LINTAS PULAU with @ElaineCelestia 【A
 UID:Dvfo8oH-i9Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:イオフィとはあちゃまで！いろんな言語のお茶会？！\nhttps://www.youtube.com/watch?v=jl6i-Aaz2bc
+DESCRIPTION:#12【PERSONA 3 RELOAD】MITSURU ROMANCE WHER (SPOILER ALERT)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=TTUsAE1Q_Dw
 DURATION:PT2H
-DTSTART:20240404T040000Z
-SUMMARY:🎨Iofi: イオフィとはあちゃまで！いろんな言語のお茶会？！
-UID:jl6i-Aaz2bc
+DTSTART:20240405T150000Z
+SUMMARY:Reine: #12【PERSONA 3 RELOAD】MITSURU ROMANCE WHER (SPOILER ALERT)【Pavolia Reine/hololiveID 2nd gen】
+UID:TTUsAE1Q_Dw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Old Man's Journey】what lesson will the old man teach me\nhttps://www.youtube.com/watch?v=tdkHlHc0KpU
