@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Apex Legends】再び大金のチャンス【奏手イヅル / アステル・レダ  歌衣メイカ】\nhttps://www.youtube.com/watch?v=n96d577WHBw
-DURATION:PT2H
-DTSTART:20240404T134500Z
-SUMMARY:🎸奏手イヅル: 【Apex Legends】再び大金のチャンス【奏手イヅル / アステル・レダ  歌衣メイカ】
-UID:n96d577WHBw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#24【RiTunes Labo】#vtuber歌唱王 出場者二人目 生セッション歌枠：ゲスト『???』【律可/ホロスターズ 】#りちゅらぼ\nhttps://www.youtube.com/watch?v=08hcTkKJPEE
 DURATION:PT2H
 DTSTART:20240406T110000Z
 SUMMARY:⚙律可: #24【RiTunes Labo】#vtuber歌唱王 出場者二人目 生セッション歌枠：ゲスト『???』【律可/ホロスターズ 】#りちゅらぼ
 UID:08hcTkKJPEE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Apex Legends】再び大金のチャンス【奏手イヅル / アステル・レダ  歌衣メイカ】\nhttps://www.youtube.com/watch?v=n96d577WHBw
+DURATION:PT2H
+DTSTART:20240404T134500Z
+SUMMARY:🎸奏手イヅル: 【Apex Legends】再び大金のチャンス【奏手イヅル / アステル・レダ  歌衣メイカ】
+UID:n96d577WHBw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#プレイバック3Dストリーム】泥中に咲く\nhttps://www.youtube.com/watch?v=z15VuG_lWZ4
@@ -67,11 +67,25 @@ SUMMARY:ホロスターズ: 【#ホロスタ5周年ライブ】ジェスチャ�
 UID:GnWmqIELmjs
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#プレイバック3Dストリーム】泥中に咲く #shorts\nhttps://www.youtube.com/watch?v=MzJbg-OeVuw
+DURATION:PT2H
+DTSTART:20240405T100029Z
+SUMMARY:ホロスターズ: 【#プレイバック3Dストリーム】泥中に咲く #shorts
+UID:MzJbg-OeVuw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【FREETALK】寒い日は雑談に限る【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=QBGlW3YXLVg
 DURATION:PT2H
 DTSTART:20240405T083000Z
 SUMMARY:🍕アルランディス: 【FREETALK】寒い日は雑談に限る【アルランディス/ホロスターズ】
 UID:QBGlW3YXLVg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:俺のプリン食べたな？ #shorts #ホロスターズ #ホロスタショート  #律可 #影山シエン\nhttps://www.youtube.com/watch?v=nxA-o9KnKsg
+DURATION:PT2H
+DTSTART:20240405T100044Z
+SUMMARY:ホロスターズ: 俺のプリン食べたな？ #shorts #ホロスターズ #ホロスタショート  #律可 #影山シエン
+UID:nxA-o9KnKsg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ファイアーエムブレム:封印の剣】初見ノーリセ縛りで行くぜ!! part3【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=j5WG2VcWup4
@@ -93,6 +107,13 @@ DURATION:PT2H
 DTSTART:20240404T060000Z
 SUMMARY:🍕アルランディス: 【Monster Hunter: World】ついにマスターレベルの古龍です【アルランディス/ホロスターズ】
 UID:ioX6IHPtTWs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Monster Hunter: World】狩猟開始【荒咬オウガ　ホロスターズ】\nhttps://www.youtube.com/watch?v=tfBd5Wx4sKY
+DURATION:PT2H
+DTSTART:20240405T130000Z
+SUMMARY:荒咬オウガ: 【Monster Hunter: World】狩猟開始【荒咬オウガ　ホロスターズ】
+UID:tfBd5Wx4sKY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MHW:IB】イヴェルカーナ撃退するモンハンアイスボーン【奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=v5RcAsbfTpI
