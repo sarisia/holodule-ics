@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【チラ見せ枠・昼公演】ときのそら6th Anniversary Party『Keep Shinin'』【 #そらぱ昼公演2024 】\nhttps://www.youtube.com/watch?v=_ijnDeD7FEI
+DESCRIPTION:【新幹線０号 】ナニカ異変ガアリマシタカ…？【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=MvFHpFAm50E
 DURATION:PT2H
-DTSTART:20240406T040000Z
-SUMMARY:🐻ときのそら: 【チラ見せ枠・昼公演】ときのそら6th Anniversary Party『Keep Shinin'』【 #そらぱ昼公演2024 】
-UID:_ijnDeD7FEI
+DTSTART:20240407T133000Z
+SUMMARY:🔥不知火フレア: 【新幹線０号 】ナニカ異変ガアリマシタカ…？【不知火フレア/ホロライブ】
+UID:MvFHpFAm50E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #朝ミオ 】月曜日のおはみぉーん！すっかり春！\nhttps://www.youtube.com/watch?v=VKIwpL5Icao
+DURATION:PT2H
+DTSTART:20240407T223000Z
+SUMMARY:🌲大神ミオ: 【 #朝ミオ 】月曜日のおはみぉーん！すっかり春！
+UID:VKIwpL5Icao
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MHW/モンハンワールド 】MRアイスボーン突入編！ネオポリスモンハン部3日目w/エビオ、秋雪こはく、ととみっくす【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=Y4ffiGeI7d8
@@ -18,18 +25,11 @@ SUMMARY:🍎アキロゼ: 【MHW/モンハンワールド 】MRアイスボー�
 UID:Y4ffiGeI7d8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#1【Blasphemous 2】テテテテン！！！高難易度メトロイドヴァニア～！！！【戌神ころね/ホロライブ】\nhttps://www.youtube.com/watch?v=FfKitooE_sA
+DESCRIPTION:【歌枠】しんぎんぐ【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=RSUeHicmh0M
 DURATION:PT2H
-DTSTART:20240406T050000Z
-SUMMARY:🥐戌神ころね: #1【Blasphemous 2】テテテテン！！！高難易度メトロイドヴァニア～！！！【戌神ころね/ホロライブ】
-UID:FfKitooE_sA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MHWIB】チュートリアル終わったので！導きの地へいざ！！！！！【白上フブキ/ホロライブ】\nhttps://www.youtube.com/watch?v=S5rBQ4Dew7k
-DURATION:PT2H
-DTSTART:20240406T040000Z
-SUMMARY:🌽白上フブキ: 【MHWIB】チュートリアル終わったので！導きの地へいざ！！！！！【白上フブキ/ホロライブ】
-UID:S5rBQ4Dew7k
+DTSTART:20240407T073000Z
+SUMMARY:🏮夏色まつり: 【歌枠】しんぎんぐ【ホロライブ/夏色まつり】
+UID:RSUeHicmh0M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ASMR/KU100】耳から摂取する睡眠導入💤ちょっと早めの #国際ASMRの日 を感じて♡【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=A7Tb4W-ZcII
@@ -46,6 +46,13 @@ SUMMARY:🥐戌神ころね: 【Blasphemous 2】テテテテン！！！高難�
 UID:ss35xtEmbPg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:絶対好きになれっ！#ハツコイパティシエール #雪花ラミィ #天音かなた\nhttps://www.youtube.com/watch?v=BXQG_nMdNW8
+DURATION:PT2H
+DTSTART:20240407T030009Z
+SUMMARY:雪花ラミィ: 絶対好きになれっ！#ハツコイパティシエール #雪花ラミィ #天音かなた
+UID:BXQG_nMdNW8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【KeepShinin‘】感謝の言葉を伝える会【ホロライブ/ときのそら】\nhttps://www.youtube.com/watch?v=sWmVAPlFLEM
 DURATION:PT2H
 DTSTART:20240407T140000Z
@@ -53,11 +60,11 @@ SUMMARY:🐻ときのそら: 【KeepShinin‘】感謝の言葉を伝える会�
 UID:sWmVAPlFLEM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #ホロ麻雀チーム大会 】第1回エンジョイ麻雀チーム戦開催！！！！！！！🀄✨【セガネット麻雀MJ/ホロライブ】\nhttps://www.youtube.com/watch?v=XiIV4frwyGI
+DESCRIPTION:【 MHW:IB | PS版】ミラボレアス戦にそんな装備で大丈夫か？！なのら！！ ～モンハンワールド【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=ta1V4hINeQ4
 DURATION:PT2H
-DTSTART:20240406T100000Z
-SUMMARY:博衣こより: 【 #ホロ麻雀チーム大会 】第1回エンジョイ麻雀チーム戦開催！！！！！！！🀄✨【セガネット麻雀MJ/ホロライブ】
-UID:XiIV4frwyGI
+DTSTART:20240407T020000Z
+SUMMARY:🍬姫森ルーナ: 【 MHW:IB | PS版】ミラボレアス戦にそんな装備で大丈夫か？！なのら！！ ～モンハンワールド【姫森ルーナ/ホロライブ】
+UID:ta1V4hINeQ4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活雑談】(一部切り抜き禁止！)今日も元気におはまっするさんでー🌞✨【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=piQipHkap98
@@ -74,18 +81,18 @@ SUMMARY:👾常闇トワ: にらめっこ / Staring contest　 #shorts
 UID:1w6ixH46mOQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【MHWIB】ジンオウガしか勝たん！！！導きの地で狩猟！【白上フブキ/ホロライブ】\nhttps://www.youtube.com/watch?v=Xy0ei6YzzE4
+DURATION:PT2H
+DTSTART:20240407T143000Z
+SUMMARY:🌽白上フブキ: 【MHWIB】ジンオウガしか勝たん！！！導きの地で狩猟！【白上フブキ/ホロライブ】
+UID:Xy0ei6YzzE4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 桜花賞 】春のG1桜花賞2024で夢を賭けるぞ！！みこ、サクラ咲くのか――‼🌸🌸🌸【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=mGEs0kxQQSQ
 DURATION:PT2H
 DTSTART:20240407T053000Z
 SUMMARY:🌸さくらみこ: 【 桜花賞 】春のG1桜花賞2024で夢を賭けるぞ！！みこ、サクラ咲くのか――‼🌸🌸🌸【ホロライブ/さくらみこ】
 UID:mGEs0kxQQSQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スト6】#TOP2024春 師弟チームで出場だ～！-Tokyo Online Party 2024 Spring 3on3【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=EjLGtWBwTfY
-DURATION:PT2H
-DTSTART:20240406T050000Z
-SUMMARY:獅白ぼたん: 【スト6】#TOP2024春 師弟チームで出場だ～！-Tokyo Online Party 2024 Spring 3on3【獅白ぼたん/ホロライブ】
-UID:EjLGtWBwTfY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:シンガポール🇸🇬ナイトプールに潜入⁉️未公開シーン⭐️#shorts\nhttps://www.youtube.com/watch?v=S5DYd_m5cVs
@@ -102,11 +109,25 @@ SUMMARY:👯兎田ぺこら: 【モンハンワールド】アイスボーン突
 UID:-XlwJ0yPfj4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#GOLDRUSH】えぺまつりには夏色まつりでしょ💰【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=_JsC9hKC8g0
+DESCRIPTION:【#はあとなニュース】朝からほっこりをお届け♪ #12【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=ZJUGE8-4H2o
 DURATION:PT2H
-DTSTART:20240406T100000Z
-SUMMARY:🏮夏色まつり: 【#GOLDRUSH】えぺまつりには夏色まつりでしょ💰【ホロライブ/夏色まつり】
-UID:_JsC9hKC8g0
+DTSTART:20240407T000000Z
+SUMMARY:❤赤井はあと: 【#はあとなニュース】朝からほっこりをお届け♪ #12【ホロライブ/赤井はあと】
+UID:ZJUGE8-4H2o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 ゼルダの伝説 】神々のトライフォースに挑戦するのら！～レトロゲーム The Legend of Zelda #03【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=7NJPu_GQT5U
+DURATION:PT2H
+DTSTART:20240408T110000Z
+SUMMARY:🍬姫森ルーナ: 【 ゼルダの伝説 】神々のトライフォースに挑戦するのら！～レトロゲーム The Legend of Zelda #03【姫森ルーナ/ホロライブ】
+UID:7NJPu_GQT5U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【アソビ大全】世紀の #えりこう　PON対決！？FESの屈辱をはらすにぇ！！【ホロライブ/ロボ子さん・さくらみこ】\nhttps://www.youtube.com/watch?v=Tp7NV7H8tzY
+DURATION:PT2H
+DTSTART:20240407T120000Z
+SUMMARY:🤖ロボ子さん: 【アソビ大全】世紀の #えりこう　PON対決！？FESの屈辱をはらすにぇ！！【ホロライブ/ロボ子さん・さくらみこ】
+UID:Tp7NV7H8tzY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【妄想爆発】注文の多い料理名【#空想ホロレストラン】\nhttps://www.youtube.com/watch?v=VeUSfhEyfJ4
@@ -123,11 +144,18 @@ SUMMARY:鷹嶺ルイ: 【 ドラクエⅦ 】完全初見。次の島を求め�
 UID:jT-LfsABoto
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【STREET FIGHTER 6】Tokyo Online Party 2024  Spring 3on3　🏆 w/立川、どぐら【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=bLIrCn7n73k
+DESCRIPTION:【#2】 FINAL FANTASY VII REBIRTH するしゅばああああああああああああああああ！！！！！【ネタバレあり】\nhttps://www.youtube.com/watch?v=agpMD7eYXuQ
 DURATION:PT2H
-DTSTART:20240406T020000Z
-SUMMARY:👾常闇トワ: 【STREET FIGHTER 6】Tokyo Online Party 2024  Spring 3on3　🏆 w/立川、どぐら【常闇トワ/ホロライブ】
-UID:bLIrCn7n73k
+DTSTART:20240407T040000Z
+SUMMARY:🚑大空スバル: 【#2】 FINAL FANTASY VII REBIRTH するしゅばああああああああああああああああ！！！！！【ネタバレあり】
+UID:agpMD7eYXuQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【アニメ】今日からベビーシッター\nhttps://www.youtube.com/watch?v=O76GOs7iywQ
+DURATION:PT2H
+DTSTART:20240407T090023Z
+SUMMARY:ホロライブ: 【アニメ】今日からベビーシッター
+UID:O76GOs7iywQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Pro Gymnast】物理系新感覚スポーツQWOP【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=39gZ57jxQgk
@@ -137,32 +165,18 @@ SUMMARY:獅白ぼたん: 【Pro Gymnast】物理系新感覚スポーツQWOP【�
 UID:39gZ57jxQgk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【チラ見せ枠・夜公演】ときのそら6th Anniversary Party『Keep Shinin'』【 #そらぱ夜公演2024 】\nhttps://www.youtube.com/watch?v=_LjGmq4wyKQ
+DESCRIPTION:【モンスターハンター：ワールド】モンハン生活5日目！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=a8NKzbLSM1Q
 DURATION:PT2H
-DTSTART:20240406T083000Z
-SUMMARY:🐻ときのそら: 【チラ見せ枠・夜公演】ときのそら6th Anniversary Party『Keep Shinin'』【 #そらぱ夜公演2024 】
-UID:_LjGmq4wyKQ
+DTSTART:20240407T100000Z
+SUMMARY:雪花ラミィ: 【モンスターハンター：ワールド】モンハン生活5日目！！【雪花ラミィ/ホロライブ】
+UID:a8NKzbLSM1Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FF7リバース】初見★リバース満喫中！ジュノン上層へ突入だ！！！ #3 【博衣こより/ホロライブ】【ネタバレあり】\nhttps://www.youtube.com/watch?v=4gwcE43fdw4
+DESCRIPTION:【 モンハンワールド 】参加型あり！ついに上位クエスト突入だぁあああ！！ 初心者双剣ハンター MHW【ホロライブ/沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=0shFmIWr_xk
 DURATION:PT2H
-DTSTART:20240406T020000Z
-SUMMARY:博衣こより: 【FF7リバース】初見★リバース満喫中！ジュノン上層へ突入だ！！！ #3 【博衣こより/ホロライブ】【ネタバレあり】
-UID:4gwcE43fdw4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#07 【モンハンワールド アイスボーン】MRモンスター強すぎッ！？ハンマー片手に脳筋女騎士がモンスター狩るど～ッ！！！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=bS83OZN9LB0
-DURATION:PT2H
-DTSTART:20240406T020000Z
-SUMMARY:⚔白銀ノエル: #07 【モンハンワールド アイスボーン】MRモンスター強すぎッ！？ハンマー片手に脳筋女騎士がモンスター狩るど～ッ！！！【白銀ノエル/ホロライブ】
-UID:bS83OZN9LB0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #ホロ麻雀チーム大会 】チームC「カッコイイ(願望)」かっこよくあがりたい。【大神ミオ視点】\nhttps://www.youtube.com/watch?v=RUOvIhaFUNk
-DURATION:PT2H
-DTSTART:20240406T100000Z
-SUMMARY:🌲大神ミオ: 【 #ホロ麻雀チーム大会 】チームC「カッコイイ(願望)」かっこよくあがりたい。【大神ミオ視点】
-UID:RUOvIhaFUNk
+DTSTART:20240407T140000Z
+SUMMARY:沙花叉クロヱ: 【 モンハンワールド 】参加型あり！ついに上位クエスト突入だぁあああ！！ 初心者双剣ハンター MHW【ホロライブ/沙花叉クロヱ】
+UID:0shFmIWr_xk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】日清ソロライブ＆麻雀チーム大会おつかれさまでした！！！の打ち上げ！！✨【博衣こより/ホロライブ】 #Shorts\nhttps://www.youtube.com/watch?v=DYNe5DF-zuE
@@ -172,18 +186,18 @@ SUMMARY:博衣こより: 【雑談】日清ソロライブ＆麻雀チーム大�
 UID:DYNe5DF-zuE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:今年の運使い切ったかもしれない瞬間#short #かざまが斬る #切り抜き動画\nhttps://www.youtube.com/watch?v=TWhrop8cjno
-DURATION:PT2H
-DTSTART:20240407T100030Z
-SUMMARY:風真いろは: 今年の運使い切ったかもしれない瞬間#short #かざまが斬る #切り抜き動画
-UID:TWhrop8cjno
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ぐるぐる＠まわる＠まわルーナ】 #姫森ルーナ #hololive #shorts\nhttps://www.youtube.com/watch?v=4YoWd1nsYNw
 DURATION:PT2H
 DTSTART:20240406T223249Z
 SUMMARY:🍬姫森ルーナ: 【ぐるぐる＠まわる＠まわルーナ】 #姫森ルーナ #hololive #shorts
 UID:4YoWd1nsYNw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:今年の運使い切ったかもしれない瞬間#short #かざまが斬る #切り抜き動画\nhttps://www.youtube.com/watch?v=TWhrop8cjno
+DURATION:PT2H
+DTSTART:20240407T100030Z
+SUMMARY:風真いろは: 今年の運使い切ったかもしれない瞬間#short #かざまが斬る #切り抜き動画
+UID:TWhrop8cjno
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ロリちゃま（8さい）【フルボッコようちえん】\nhttps://www.youtube.com/watch?v=ITciza_aljg
@@ -200,25 +214,11 @@ SUMMARY:博衣こより: 【3D】「ワールドイズマイン」甲高いｷ�
 UID:TZf-sxhSwXw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 カービィボウル 】ピンクの丸いものってなんなのら？～レトロゲーム 【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=edrrCgtqZ6Y
+DESCRIPTION:じゃんけんやろうぜ。。。【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=Y1Id_X5hbZU
 DURATION:PT2H
-DTSTART:20240406T120000Z
-SUMMARY:🍬姫森ルーナ: 【 カービィボウル 】ピンクの丸いものってなんなのら？～レトロゲーム 【姫森ルーナ/ホロライブ】
-UID:edrrCgtqZ6Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【セガNET麻雀 MJ￤#ホロ麻雀チーム大会】#かみちゃまろーぜ で目指せエンジョイ優勝！w/白上フブキ、赤井はあと【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=_cnEpE74CIA
-DURATION:PT2H
-DTSTART:20240406T103000Z
-SUMMARY:🍎アキロゼ: 【セガNET麻雀 MJ￤#ホロ麻雀チーム大会】#かみちゃまろーぜ で目指せエンジョイ優勝！w/白上フブキ、赤井はあと【ホロライブ/アキロゼ】
-UID:_cnEpE74CIA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ウツロマユ - Hollow Cocoon -】もうすでに心臓がどきどきしています...【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=zzpF0ilvWnU
-DURATION:PT2H
-DTSTART:20240406T120000Z
-SUMMARY:🐏角巻わため: 【ウツロマユ - Hollow Cocoon -】もうすでに心臓がどきどきしています...【角巻わため/ホロライブ４期生】
-UID:zzpF0ilvWnU
+DTSTART:20240406T210013Z
+SUMMARY:🐏角巻わため: じゃんけんやろうぜ。。。【 #今日のわため 】 #shorts #hololive #vtuber
+UID:Y1Id_X5hbZU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【P4G】#08 初見！！りせち可愛すぎる！！ペルソナ4 ザ・ゴールデン/Persona4 The golden【天音かなた/ホロライブ】※ネタバレ注意\nhttps://www.youtube.com/watch?v=cH52LeYiwig
@@ -228,13 +228,6 @@ SUMMARY:💫天音かなた: 【P4G】#08 初見！！りせち可愛すぎる�
 UID:cH52LeYiwig
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:可愛くてごめん / 猫又おかゆ (cover)\nhttps://www.youtube.com/watch?v=hfon9YTYKrs
-DURATION:PT2H
-DTSTART:20240406T130000Z
-SUMMARY:🍙猫又おかゆ: 可愛くてごめん / 猫又おかゆ (cover)
-UID:hfon9YTYKrs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 モンハンワールド 】ゾラ・マグダラオス！ゼロからはじまるモンスターハンターワールド‼【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=eplbvtRYz8I
 DURATION:PT2H
 DTSTART:20240407T070000Z
@@ -242,11 +235,18 @@ SUMMARY:🌸さくらみこ: 【 モンハンワールド 】ゾラ・マグダ�
 UID:eplbvtRYz8I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【  娘の部屋 】数年引きこもってる娘の部屋がヤバいらしい、、にぇ！！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=gkI21lcbfWg
+DESCRIPTION:【 桜花賞 】どの牝馬に桜が咲くのか⁉春の女王決定戦いくぞおおおおおおおおお‼【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=OJMAQGL4zZ0
 DURATION:PT2H
-DTSTART:20240406T130000Z
-SUMMARY:🌸さくらみこ: 【  娘の部屋 】数年引きこもってる娘の部屋がヤバいらしい、、にぇ！！！！！【ホロライブ/さくらみこ】
-UID:gkI21lcbfWg
+DTSTART:20240407T053000Z
+SUMMARY:鷹嶺ルイ: 【 桜花賞 】どの牝馬に桜が咲くのか⁉春の女王決定戦いくぞおおおおおおおおお‼【鷹嶺ルイ/ホロライブ】
+UID:OJMAQGL4zZ0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 龍が如く極 】#06 シリーズ完全初見🔥 サブクエ編 Ι YAKUZA KIWAMI【 猫又おかゆ/ホロライブ 】※ネタバレあり\nhttps://www.youtube.com/watch?v=SBUMRFYKakM
+DURATION:PT2H
+DTSTART:20240407T100000Z
+SUMMARY:🍙猫又おかゆ: 【 龍が如く極 】#06 シリーズ完全初見🔥 サブクエ編 Ι YAKUZA KIWAMI【 猫又おかゆ/ホロライブ 】※ネタバレあり
+UID:SBUMRFYKakM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#１３】完全初見のペルソナ３リロード！！！【ネタバレあり】\nhttps://www.youtube.com/watch?v=SEnwWhUSUlk
@@ -270,284 +270,11 @@ SUMMARY:桃鈴ねね: 【 大妄想 】ホロメン嫉妬グラフを作ろう�
 UID:V0JMsAhO3ic
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#ビビデバ ☄ 歌ってみた #星街すいせい #天音かなた #ホロライブ\nhttps://www.youtube.com/watch?v=HQKl6kgW6Po
-DURATION:PT2H
-DTSTART:20240406T101500Z
-SUMMARY:💫天音かなた: #ビビデバ ☄ 歌ってみた #星街すいせい #天音かなた #ホロライブ
-UID:HQKl6kgW6Po
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【新幹線０号 】ナニカ異変ガアリマシタカ…？【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=MvFHpFAm50E
-DURATION:PT2H
-DTSTART:20240407T133000Z
-SUMMARY:🔥不知火フレア: 【新幹線０号 】ナニカ異変ガアリマシタカ…？【不知火フレア/ホロライブ】
-UID:MvFHpFAm50E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #朝ミオ 】月曜日のおはみぉーん！すっかり春！\nhttps://www.youtube.com/watch?v=VKIwpL5Icao
-DURATION:PT2H
-DTSTART:20240407T223000Z
-SUMMARY:🌲大神ミオ: 【 #朝ミオ 】月曜日のおはみぉーん！すっかり春！
-UID:VKIwpL5Icao
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:にじさんじとホロライブの違い！？【本間ひまわり/尾丸ポルカ】\nhttps://www.youtube.com/watch?v=laF2McLxg3g
-DURATION:PT2H
-DTSTART:20240406T090036Z
-SUMMARY:尾丸ポルカ: にじさんじとホロライブの違い！？【本間ひまわり/尾丸ポルカ】
-UID:laF2McLxg3g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ドラクエⅦ 】完全初見。長い長い新たな冒険が…今始まる‼【鷹嶺ルイ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=cGJgt5xRBgI
-DURATION:PT2H
-DTSTART:20240406T030000Z
-SUMMARY:鷹嶺ルイ: 【 ドラクエⅦ 】完全初見。長い長い新たな冒険が…今始まる‼【鷹嶺ルイ/ホロライブ】※ネタバレあり
-UID:cGJgt5xRBgI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【セガNET麻雀 MJ】#ホロ麻雀チーム大会 先鋒の尾丸ポルカ！すべてをぶち壊す！！！！チーム #座長番長口八丁【尾丸ポルカ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=ffRQhaV-QKk
-DURATION:PT2H
-DTSTART:20240406T100000Z
-SUMMARY:尾丸ポルカ: 【セガNET麻雀 MJ】#ホロ麻雀チーム大会 先鋒の尾丸ポルカ！すべてをぶち壊す！！！！チーム #座長番長口八丁【尾丸ポルカ視点/ホロライブ】
-UID:ffRQhaV-QKk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】しんぎんぐ【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=RSUeHicmh0M
-DURATION:PT2H
-DTSTART:20240407T073000Z
-SUMMARY:🏮夏色まつり: 【歌枠】しんぎんぐ【ホロライブ/夏色まつり】
-UID:RSUeHicmh0M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロ麻雀チーム大会】#かみちゃまろーぜ 本番！はあちゃま視点！【セガNET麻雀 MJ/ホロライブ】\nhttps://www.youtube.com/watch?v=n1p3Kr2gOAE
-DURATION:PT2H
-DTSTART:20240406T100000Z
-SUMMARY:❤赤井はあと: 【#ホロ麻雀チーム大会】#かみちゃまろーぜ 本番！はあちゃま視点！【セガNET麻雀 MJ/ホロライブ】
-UID:n1p3Kr2gOAE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ファンアートみてるよ👀【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=cu5pHJMyh7k
-DURATION:PT2H
-DTSTART:20240405T210020Z
-SUMMARY:🐏角巻わため: ファンアートみてるよ👀【 #今日のわため 】 #shorts #hololive #vtuber
-UID:cu5pHJMyh7k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 新衣装お披露目 】本日活動開始から5周年🎉新しいお洋服を着て心機一転です😸【 猫又おかゆ/ホロライブ 】\nhttps://www.youtube.com/watch?v=0HlKVhcz7e4
-DURATION:PT2H
-DTSTART:20240406T120000Z
-SUMMARY:🍙猫又おかゆ: 【 新衣装お披露目 】本日活動開始から5周年🎉新しいお洋服を着て心機一転です😸【 猫又おかゆ/ホロライブ 】
-UID:0HlKVhcz7e4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:絶対好きになれっ！#ハツコイパティシエール #雪花ラミィ #天音かなた\nhttps://www.youtube.com/watch?v=BXQG_nMdNW8
-DURATION:PT2H
-DTSTART:20240407T030009Z
-SUMMARY:雪花ラミィ: 絶対好きになれっ！#ハツコイパティシエール #雪花ラミィ #天音かなた
-UID:BXQG_nMdNW8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 MHW:IB | PS版】ミラボレアス戦にそんな装備で大丈夫か？！なのら！！ ～モンハンワールド【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=ta1V4hINeQ4
-DURATION:PT2H
-DTSTART:20240407T020000Z
-SUMMARY:🍬姫森ルーナ: 【 MHW:IB | PS版】ミラボレアス戦にそんな装備で大丈夫か？！なのら！！ ～モンハンワールド【姫森ルーナ/ホロライブ】
-UID:ta1V4hINeQ4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #ホロ麻雀チーム大会】チーム『かっこいい(願望)』願望を事実にしてやるで！！ロン！！！！！！！！！！！！【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=fOPjJtfApA8
-DURATION:PT2H
-DTSTART:20240406T100000Z
-SUMMARY:風真いろは: 【 #ホロ麻雀チーム大会】チーム『かっこいい(願望)』願望を事実にしてやるで！！ロン！！！！！！！！！！！！【風真いろは/ホロライブ】
-UID:fOPjJtfApA8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【セガNET麻雀 MJ】#かみちゃまろーぜ　果たしてどこまでやれるのか！？【#ホロ麻雀チーム大会】\nhttps://www.youtube.com/watch?v=A0-Ej1eqYVk
-DURATION:PT2H
-DTSTART:20240406T100000Z
-SUMMARY:🌽白上フブキ: 【セガNET麻雀 MJ】#かみちゃまろーぜ　果たしてどこまでやれるのか！？【#ホロ麻雀チーム大会】
-UID:A0-Ej1eqYVk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:INTERNET YAMERO 🩷 Live ver.あたまがわれてく🤯🤯🤯 #shorts\nhttps://www.youtube.com/watch?v=Ed4AUlmBr0o
-DURATION:PT2H
-DTSTART:20240406T030015Z
-SUMMARY:🌸さくらみこ: INTERNET YAMERO 🩷 Live ver.あたまがわれてく🤯🤯🤯 #shorts
-UID:Ed4AUlmBr0o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MHWIB】ジンオウガしか勝たん！！！導きの地で狩猟！【白上フブキ/ホロライブ】\nhttps://www.youtube.com/watch?v=Xy0ei6YzzE4
-DURATION:PT2H
-DTSTART:20240407T143000Z
-SUMMARY:🌽白上フブキ: 【MHWIB】ジンオウガしか勝たん！！！導きの地で狩猟！【白上フブキ/ホロライブ】
-UID:Xy0ei6YzzE4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【P4G】#07 初見！！りせち可愛すぎる！！ペルソナ4 ザ・ゴールデン/Persona4 The golden【天音かなた/ホロライブ】※ネタバレ注意\nhttps://www.youtube.com/watch?v=-DF3CQDozao
-DURATION:PT2H
-DTSTART:20240406T040000Z
-SUMMARY:💫天音かなた: 【P4G】#07 初見！！りせち可愛すぎる！！ペルソナ4 ザ・ゴールデン/Persona4 The golden【天音かなた/ホロライブ】※ネタバレ注意
-UID:-DF3CQDozao
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ゼルダの伝説 】神々のトライフォースに挑戦するのら！～レトロゲーム The Legend of Zelda #03【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=7NJPu_GQT5U
-DURATION:PT2H
-DTSTART:20240408T110000Z
-SUMMARY:🍬姫森ルーナ: 【 ゼルダの伝説 】神々のトライフォースに挑戦するのら！～レトロゲーム The Legend of Zelda #03【姫森ルーナ/ホロライブ】
-UID:7NJPu_GQT5U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#はあとなニュース】朝からほっこりをお届け♪ #12【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=ZJUGE8-4H2o
-DURATION:PT2H
-DTSTART:20240407T000000Z
-SUMMARY:❤赤井はあと: 【#はあとなニュース】朝からほっこりをお届け♪ #12【ホロライブ/赤井はあと】
-UID:ZJUGE8-4H2o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【セガNET麻雀 MJ】#おチームA 本番！豪運ドラを見せてやる！目指せ、役満！！！ロボ子視点【#ホロ麻雀チーム大会】\nhttps://www.youtube.com/watch?v=YiqfEzCGAPk
-DURATION:PT2H
-DTSTART:20240406T100000Z
-SUMMARY:🤖ロボ子さん: 【セガNET麻雀 MJ】#おチームA 本番！豪運ドラを見せてやる！目指せ、役満！！！ロボ子視点【#ホロ麻雀チーム大会】
-UID:YiqfEzCGAPk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:これぞ切り抜き【ホロライブ / AZKi】#ぷちあず #shorts\nhttps://www.youtube.com/watch?v=9sGfofDLp-k
-DURATION:PT2H
-DTSTART:20240406T090010Z
-SUMMARY:⚒AZKi: これぞ切り抜き【ホロライブ / AZKi】#ぷちあず #shorts
-UID:9sGfofDLp-k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アソビ大全】世紀の #えりこう　PON対決！？FESの屈辱をはらすにぇ！！【ホロライブ/ロボ子さん・さくらみこ】\nhttps://www.youtube.com/watch?v=Tp7NV7H8tzY
-DURATION:PT2H
-DTSTART:20240407T120000Z
-SUMMARY:🤖ロボ子さん: 【アソビ大全】世紀の #えりこう　PON対決！？FESの屈辱をはらすにぇ！！【ホロライブ/ロボ子さん・さくらみこ】
-UID:Tp7NV7H8tzY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=jFJQ5qwep8A
-DURATION:PT2H
-DTSTART:20240406T010000Z
-SUMMARY:🚑大空スバル: 【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】
-UID:jFJQ5qwep8A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロ麻雀チーム大会】#かみちゃまろーぜ ホワイトゴット応援&エキシビジョン！【セガNET麻雀 MJ/ホロライブ】\nhttps://www.youtube.com/watch?v=OEC3EgU03k0
-DURATION:PT2H
-DTSTART:20240406T120000Z
-SUMMARY:❤赤井はあと: 【#ホロ麻雀チーム大会】#かみちゃまろーぜ ホワイトゴット応援&エキシビジョン！【セガNET麻雀 MJ/ホロライブ】
-UID:OEC3EgU03k0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ぐるぐる＠まわる＠まわルーナ】 #姫森ルーナ #hololive #shorts\nhttps://www.youtube.com/watch?v=yPJIrmtLWBY
-DURATION:PT2H
-DTSTART:20240406T001229Z
-SUMMARY:🍬姫森ルーナ: 【ぐるぐる＠まわる＠まわルーナ】 #姫森ルーナ #hololive #shorts
-UID:yPJIrmtLWBY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#2】 FINAL FANTASY VII REBIRTH するしゅばああああああああああああああああ！！！！！【ネタバレあり】\nhttps://www.youtube.com/watch?v=agpMD7eYXuQ
-DURATION:PT2H
-DTSTART:20240407T040000Z
-SUMMARY:🚑大空スバル: 【#2】 FINAL FANTASY VII REBIRTH するしゅばああああああああああああああああ！！！！！【ネタバレあり】
-UID:agpMD7eYXuQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アニメ】今日からベビーシッター\nhttps://www.youtube.com/watch?v=O76GOs7iywQ
-DURATION:PT2H
-DTSTART:20240407T090023Z
-SUMMARY:ホロライブ: 【アニメ】今日からベビーシッター
-UID:O76GOs7iywQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【企画】#自分わかりて選手権 チャレンジャーは『宝鐘マリン』さま！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=0B_KjDB6jJE
-DURATION:PT2H
-DTSTART:20240406T120000Z
-SUMMARY:雪花ラミィ: 【企画】#自分わかりて選手権 チャレンジャーは『宝鐘マリン』さま！【雪花ラミィ/ホロライブ】
-UID:0B_KjDB6jJE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【モンスターハンター：ワールド】モンハン生活5日目！！【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=a8NKzbLSM1Q
-DURATION:PT2H
-DTSTART:20240407T100000Z
-SUMMARY:雪花ラミィ: 【モンスターハンター：ワールド】モンハン生活5日目！！【雪花ラミィ/ホロライブ】
-UID:a8NKzbLSM1Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【縦型歌枠】カラオケにボクがきたああああ　#shorts 【ロボ子さん / ホロライブ】\nhttps://www.youtube.com/watch?v=pL60yUUaGCQ
-DURATION:PT2H
-DTSTART:20240406T013000Z
-SUMMARY:🤖ロボ子さん: 【縦型歌枠】カラオケにボクがきたああああ　#shorts 【ロボ子さん / ホロライブ】
-UID:pL60yUUaGCQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 モンハンワールド 】参加型あり！ついに上位クエスト突入だぁあああ！！ 初心者双剣ハンター MHW【ホロライブ/沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=0shFmIWr_xk
-DURATION:PT2H
-DTSTART:20240407T140000Z
-SUMMARY:沙花叉クロヱ: 【 モンハンワールド 】参加型あり！ついに上位クエスト突入だぁあああ！！ 初心者双剣ハンター MHW【ホロライブ/沙花叉クロヱ】
-UID:0shFmIWr_xk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【そらぱ2024】本日開催！！【ときのそら/ホロライブ】#shorts\nhttps://www.youtube.com/watch?v=5qHXGNH0-gI
-DURATION:PT2H
-DTSTART:20240406T010006Z
-SUMMARY:🐻ときのそら: 【そらぱ2024】本日開催！！【ときのそら/ホロライブ】#shorts
-UID:5qHXGNH0-gI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:じゃんけんやろうぜ。。。【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=Y1Id_X5hbZU
-DURATION:PT2H
-DTSTART:20240406T210013Z
-SUMMARY:🐏角巻わため: じゃんけんやろうぜ。。。【 #今日のわため 】 #shorts #hololive #vtuber
-UID:Y1Id_X5hbZU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【モンハンワールド】アイスボーン突入！０から始めるモンハンワールド！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=-09uJpttNhA
-DURATION:PT2H
-DTSTART:20240406T130000Z
-SUMMARY:👯兎田ぺこら: 【モンハンワールド】アイスボーン突入！０から始めるモンハンワールド！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】
-UID:-09uJpttNhA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【踊ってみた】うさぎじゃないもん！૮₍ ᴗ ̫ ᴗ ₎ა  #キミのことだいだいすきだもん #雪花ラミィ #ホロライブ #hololive\nhttps://www.youtube.com/watch?v=P8TWn6QAWLk
-DURATION:PT2H
-DTSTART:20240406T140014Z
-SUMMARY:雪花ラミィ: 【踊ってみた】うさぎじゃないもん！૮₍ ᴗ ̫ ᴗ ₎ა  #キミのことだいだいすきだもん #雪花ラミィ #ホロライブ #hololive
-UID:P8TWn6QAWLk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 桜花賞 】どの牝馬に桜が咲くのか⁉春の女王決定戦いくぞおおおおおおおおお‼【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=OJMAQGL4zZ0
-DURATION:PT2H
-DTSTART:20240407T053000Z
-SUMMARY:鷹嶺ルイ: 【 桜花賞 】どの牝馬に桜が咲くのか⁉春の女王決定戦いくぞおおおおおおおおお‼【鷹嶺ルイ/ホロライブ】
-UID:OJMAQGL4zZ0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 龍が如く極 】#06 シリーズ完全初見🔥 サブクエ編 Ι YAKUZA KIWAMI【 猫又おかゆ/ホロライブ 】※ネタバレあり\nhttps://www.youtube.com/watch?v=SBUMRFYKakM
-DURATION:PT2H
-DTSTART:20240407T100000Z
-SUMMARY:🍙猫又おかゆ: 【 龍が如く極 】#06 シリーズ完全初見🔥 サブクエ編 Ι YAKUZA KIWAMI【 猫又おかゆ/ホロライブ 】※ネタバレあり
-UID:SBUMRFYKakM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:リハ中の待ち時間ムービー📽️じっとしてられない人🙂 #ビビデバ\nhttps://www.youtube.com/watch?v=7A0gGi7WeD4
-DURATION:PT2H
-DTSTART:20240406T144956Z
-SUMMARY:☄星街すいせい: リハ中の待ち時間ムービー📽️じっとしてられない人🙂 #ビビデバ
-UID:7A0gGi7WeD4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【お茶会】利休園コラボ！白きつねと黒きつね届いた！？一緒に飲みながらまったりしましょっ❤【白上フブキ/ホロライブ】\nhttps://www.youtube.com/watch?v=PZx0Cn58zNE
 DURATION:PT2H
 DTSTART:20240407T110000Z
 SUMMARY:🌽白上フブキ: 【お茶会】利休園コラボ！白きつねと黒きつね届いた！？一緒に飲みながらまったりしましょっ❤【白上フブキ/ホロライブ】
 UID:PZx0Cn58zNE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#生スバル】 FINAL FANTASY VII REBIRTH するしゅばああああああああああああああああ！！！！！【ネタバレあり】\nhttps://www.youtube.com/watch?v=TBiVWvA5xiQ
-DURATION:PT2H
-DTSTART:20240406T040000Z
-SUMMARY:🚑大空スバル: 【#生スバル】 FINAL FANTASY VII REBIRTH するしゅばああああああああああああああああ！！！！！【ネタバレあり】
-UID:TBiVWvA5xiQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【モンハンワールド】初見ではじめる！モンスターハンター：ワールド【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=uGPwiTfqz5g
