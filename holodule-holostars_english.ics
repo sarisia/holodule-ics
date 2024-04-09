@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:[A Difficult Game About Climbing] I WANNA TRY AND BEAT THIS #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=Rxe8BXiW7Ek
-DURATION:PT2H
-DTSTART:20240408T230000Z
-SUMMARY:Bettel: [A Difficult Game About Climbing] I WANNA TRY AND BEAT THIS #gavisbettel #holotempus
-UID:Rxe8BXiW7Ek
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【LETHAL COMPANY 】BEING A GREAT ASSET w/@RegisAltare 🔧v50 UPDATE\nhttps://www.youtube.com/watch?v=oO8ckqWdxkU
 DURATION:PT2H
 DTSTART:20240409T001500Z
@@ -18,11 +11,18 @@ SUMMARY:Hakka: 【LETHAL COMPANY 】BEING A GREAT ASSET w/@RegisAltare 🔧v50 U
 UID:oO8ckqWdxkU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[Thief Simulator 2] THE BETTSTER RIDES AGAIN! #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=najYWbgf6wk
+DESCRIPTION:Spider Man 2000 - EPIC CAT PILOT GAMEPLAY\nhttps://www.youtube.com/watch?v=1rXuID49GOg
 DURATION:PT2H
-DTSTART:20240409T210000Z
-SUMMARY:Bettel: [Thief Simulator 2] THE BETTSTER RIDES AGAIN! #gavisbettel #holotempus
-UID:najYWbgf6wk
+DTSTART:20240409T140000Z
+SUMMARY:Flayon: Spider Man 2000 - EPIC CAT PILOT GAMEPLAY
+UID:1rXuID49GOg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HUNT:SHOWDOWN】 Immersive 3Dio Makes you Hear in 3D!\nhttps://www.youtube.com/watch?v=702cbiU63fs
+DURATION:PT2H
+DTSTART:20240409T020000Z
+SUMMARY:Crimzon: 【HUNT:SHOWDOWN】 Immersive 3Dio Makes you Hear in 3D!
+UID:702cbiU63fs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Zatsudan】yeehaw?\nhttps://www.youtube.com/watch?v=aISInipEI8U
@@ -39,32 +39,11 @@ SUMMARY:Shinri: 【Zatsudan】i almost overslept again
 UID:4e9Qk8OXfwA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[Fall Guys] LOL HE FALL ISNT THT FRUNNY!?!?!11 #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=smR7-TFox3Q
-DURATION:PT2H
-DTSTART:20240409T003000Z
-SUMMARY:Bettel: [Fall Guys] LOL HE FALL ISNT THT FRUNNY!?!?!11 #gavisbettel #holotempus
-UID:smR7-TFox3Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:POST-BIRTHDAY! Superchat reading and looking at Octoposse projects/art!【OcTalks with Octavio】#12\nhttps://www.youtube.com/watch?v=W7fttVlMe48
-DURATION:PT2H
-DTSTART:20240409T040000Z
-SUMMARY:Octavio: POST-BIRTHDAY! Superchat reading and looking at Octoposse projects/art!【OcTalks with Octavio】#12
-UID:W7fttVlMe48
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ARCHIVED HOLOPRO BIRTHDAY KARAOKE】23 YEARS OLD SEASON 1.28431372549\nhttps://www.youtube.com/watch?v=0PJwSFVcqFM
 DURATION:PT2H
 DTSTART:20240408T030000Z
 SUMMARY:Octavio: 【ARCHIVED HOLOPRO BIRTHDAY KARAOKE】23 YEARS OLD SEASON 1.28431372549
 UID:0PJwSFVcqFM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Tengu Talk】HELLO MY HAKKITO\, IT'S TIME FOR YOUR WEEKLY YAPPING SESSION!\nhttps://www.youtube.com/watch?v=78LnjTx4pMQ
-DURATION:PT2H
-DTSTART:20240408T150000Z
-SUMMARY:Hakka: 【Tengu Talk】HELLO MY HAKKITO\, IT'S TIME FOR YOUR WEEKLY YAPPING SESSION!
-UID:78LnjTx4pMQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[Week in Review] DO I ONCE AGAIN HAVE STRUCTURE IN MY LIFE!? #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=R0n0WpBgdus
@@ -81,20 +60,6 @@ SUMMARY:Syrios: 【MEMBERSHIP STREAM】POV: You guys are getting NTR'd
 UID:qNsrpkvF0x4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MANGO PIZZA HANDCAM】Proving the haters wrong\nhttps://www.youtube.com/watch?v=XRpNXXd_ONA
-DURATION:PT2H
-DTSTART:20240408T100000Z
-SUMMARY:Octavio: 【MANGO PIZZA HANDCAM】Proving the haters wrong
-UID:XRpNXXd_ONA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HUNT:SHOWDOWN】 Immersive 3Dio Makes you Hear in 3D!\nhttps://www.youtube.com/watch?v=702cbiU63fs
-DURATION:PT2H
-DTSTART:20240409T020000Z
-SUMMARY:Crimzon: 【HUNT:SHOWDOWN】 Immersive 3Dio Makes you Hear in 3D!
-UID:702cbiU63fs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【r君の名は / Your Name】MEMBY WATCHALONG\nhttps://www.youtube.com/watch?v=DtDx59GR7jU
 DURATION:PT2H
 DTSTART:20240407T230000Z
@@ -107,5 +72,47 @@ DURATION:PT2H
 DTSTART:20240409T150000Z
 SUMMARY:Goldbullet: 【EarthBound】The Adventure Begins.
 UID:wTV__PaQKug
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[A Difficult Game About Climbing] I WANNA TRY AND BEAT THIS #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=Rxe8BXiW7Ek
+DURATION:PT2H
+DTSTART:20240408T230000Z
+SUMMARY:Bettel: [A Difficult Game About Climbing] I WANNA TRY AND BEAT THIS #gavisbettel #holotempus
+UID:Rxe8BXiW7Ek
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Thief Simulator 2] THE BETTSTER RIDES AGAIN! #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=najYWbgf6wk
+DURATION:PT2H
+DTSTART:20240409T210000Z
+SUMMARY:Bettel: [Thief Simulator 2] THE BETTSTER RIDES AGAIN! #gavisbettel #holotempus
+UID:najYWbgf6wk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Fall Guys] LOL HE FALL ISNT THT FRUNNY!?!?!11 #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=smR7-TFox3Q
+DURATION:PT2H
+DTSTART:20240409T003000Z
+SUMMARY:Bettel: [Fall Guys] LOL HE FALL ISNT THT FRUNNY!?!?!11 #gavisbettel #holotempus
+UID:smR7-TFox3Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Tengu Talk】HELLO MY HAKKITO\, IT'S TIME FOR YOUR WEEKLY YAPPING SESSION!\nhttps://www.youtube.com/watch?v=78LnjTx4pMQ
+DURATION:PT2H
+DTSTART:20240408T150000Z
+SUMMARY:Hakka: 【Tengu Talk】HELLO MY HAKKITO\, IT'S TIME FOR YOUR WEEKLY YAPPING SESSION!
+UID:78LnjTx4pMQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MANGO PIZZA HANDCAM】Proving the haters wrong\nhttps://www.youtube.com/watch?v=XRpNXXd_ONA
+DURATION:PT2H
+DTSTART:20240408T100000Z
+SUMMARY:Octavio: 【MANGO PIZZA HANDCAM】Proving the haters wrong
+UID:XRpNXXd_ONA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:POST-BIRTHDAY! Superchat reading and looking at Octoposse projects/art!【OcTalks with Octavio】#12\nhttps://www.youtube.com/watch?v=W7fttVlMe48
+DURATION:PT2H
+DTSTART:20240409T040000Z
+SUMMARY:Octavio: POST-BIRTHDAY! Superchat reading and looking at Octoposse projects/art!【OcTalks with Octavio】#12
+UID:W7fttVlMe48
 END:VEVENT
 END:VCALENDAR
