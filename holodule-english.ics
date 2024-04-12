@@ -11,18 +11,18 @@ SUMMARY:Calli: steak is suteki #shorts
 UID:_GWJ6aHNYnM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【CONTENT WARNING】Don't forget to like\, comment\, and subscribe!\nhttps://www.youtube.com/watch?v=4qOR_ZzeOAo
-DURATION:PT2H
-DTSTART:20240413T010000Z
-SUMMARY:Bijou: 【CONTENT WARNING】Don't forget to like\, comment\, and subscribe!
-UID:4qOR_ZzeOAo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Monster Hunter World】the reaper's hunt is ON!\nhttps://www.youtube.com/watch?v=mfdmyx6-YgQ
 DURATION:PT2H
 DTSTART:20240412T015938Z
 SUMMARY:Calli: 【Monster Hunter World】the reaper's hunt is ON!
 UID:mfdmyx6-YgQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【THE WITCHER 3】 The adventure begins\nhttps://www.youtube.com/watch?v=XxQztoDb9rk
+DURATION:PT2H
+DTSTART:20240412T220000Z
+SUMMARY:Fauna: 【THE WITCHER 3】 The adventure begins
+UID:XxQztoDb9rk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Let's build something lmao 🎼\nhttps://www.youtube.com/watch?v=e05JtteiAk8
@@ -32,39 +32,11 @@ SUMMARY:Nerissa: Let's build something lmao 🎼
 UID:e05JtteiAk8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SPECIAL GUEST STREAM】Drawing SS Characters then Hanging Out with Anna Nagase (voicing Harley Quinn)\nhttps://www.youtube.com/watch?v=ua1ZK1GMCIk
-DURATION:PT2H
-DTSTART:20240413T030000Z
-SUMMARY:Calli: 【SPECIAL GUEST STREAM】Drawing SS Characters then Hanging Out with Anna Nagase (voicing Harley Quinn)
-UID:ua1ZK1GMCIk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CAPE REVEAL】WHAT COULD THIS POSSIBLY BE?! ❤ #CapeRyS\nhttps://www.youtube.com/watch?v=gqyv6v2xorA
-DURATION:PT2H
-DTSTART:20240414T030000Z
-SUMMARY:IRyS: 【CAPE REVEAL】WHAT COULD THIS POSSIBLY BE?! ❤ #CapeRyS
-UID:gqyv6v2xorA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 VCR RUST 】オーライー？？招待されたんだ。危険な新世界を探検しよう！！#1\nhttps://www.youtube.com/watch?v=Vwuzbg3CHiI
-DURATION:PT2H
-DTSTART:20240413T100000Z
-SUMMARY:Calli: 【 VCR RUST 】オーライー？？招待されたんだ。危険な新世界を探検しよう！！#1
-UID:Vwuzbg3CHiI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Members Only】Dress UP 'ASMR'\nhttps://www.youtube.com/watch?v=AX8I0MhSpPY
 DURATION:PT2H
 DTSTART:20240411T230000Z
 SUMMARY:Shiori: 【Members Only】Dress UP 'ASMR'
 UID:AX8I0MhSpPY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MOVED TO JAPAN】new digs\, same dogs 🐾💓\nhttps://www.youtube.com/watch?v=OCPCJW7oRLM
-DURATION:PT2H
-DTSTART:20240413T010000Z
-SUMMARY:FUWAMOCO: 【MOVED TO JAPAN】new digs\, same dogs 🐾💓
-UID:OCPCJW7oRLM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DOOM】Long Time No Doom\nhttps://www.youtube.com/watch?v=Xq12ryfg_Fk
@@ -79,13 +51,6 @@ DURATION:PT2H
 DTSTART:20240412T011500Z
 SUMMARY:Baelz: ≪YAKUZA KIWAMI≫ KIWAMIIIIIIIIIIII - The Finale #6【SPOILER WARNING】
 UID:mR6Mo65rfi0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FREE CHAT】FUWAMOCO is MOVING TO JAPAN 🐾\nhttps://www.youtube.com/watch?v=vhnApV0KUbM
-DURATION:PT2H
-DTSTART:20240414T080000Z
-SUMMARY:FUWAMOCO: 【FREE CHAT】FUWAMOCO is MOVING TO JAPAN 🐾
-UID:vhnApV0KUbM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MEMBER'S ONLY】what are we playing?\nhttps://www.youtube.com/watch?v=2ET7ehSXPOw
@@ -107,5 +72,47 @@ DURATION:PT2H
 DTSTART:20240413T010000Z
 SUMMARY:Shiori: 【CONTENT WARNING】Clout Chasing Vloggers Head For Danger
 UID:R350tbrRFAc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CONTENT WARNING】Don't forget to like\, comment\, and subscribe!\nhttps://www.youtube.com/watch?v=4qOR_ZzeOAo
+DURATION:PT2H
+DTSTART:20240413T010000Z
+SUMMARY:Bijou: 【CONTENT WARNING】Don't forget to like\, comment\, and subscribe!
+UID:4qOR_ZzeOAo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SPECIAL GUEST STREAM】Drawing SS Characters then Hanging Out with Anna Nagase (voicing Harley Quinn)\nhttps://www.youtube.com/watch?v=ua1ZK1GMCIk
+DURATION:PT2H
+DTSTART:20240413T030000Z
+SUMMARY:Calli: 【SPECIAL GUEST STREAM】Drawing SS Characters then Hanging Out with Anna Nagase (voicing Harley Quinn)
+UID:ua1ZK1GMCIk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 VCR RUST 】オーライー？？招待されたんだ。危険な新世界を探検しよう！！#1\nhttps://www.youtube.com/watch?v=Vwuzbg3CHiI
+DURATION:PT2H
+DTSTART:20240413T100000Z
+SUMMARY:Calli: 【 VCR RUST 】オーライー？？招待されたんだ。危険な新世界を探検しよう！！#1
+UID:Vwuzbg3CHiI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MOVED TO JAPAN】new digs\, same dogs 🐾💓\nhttps://www.youtube.com/watch?v=OCPCJW7oRLM
+DURATION:PT2H
+DTSTART:20240413T010000Z
+SUMMARY:FUWAMOCO: 【MOVED TO JAPAN】new digs\, same dogs 🐾💓
+UID:OCPCJW7oRLM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FREE CHAT】FUWAMOCO is MOVING TO JAPAN 🐾\nhttps://www.youtube.com/watch?v=vhnApV0KUbM
+DURATION:PT2H
+DTSTART:20240414T080000Z
+SUMMARY:FUWAMOCO: 【FREE CHAT】FUWAMOCO is MOVING TO JAPAN 🐾
+UID:vhnApV0KUbM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CAPE REVEAL】WHAT COULD THIS POSSIBLY BE?! ❤ #CapeRyS\nhttps://www.youtube.com/watch?v=gqyv6v2xorA
+DURATION:PT2H
+DTSTART:20240414T030000Z
+SUMMARY:IRyS: 【CAPE REVEAL】WHAT COULD THIS POSSIBLY BE?! ❤ #CapeRyS
+UID:gqyv6v2xorA
 END:VEVENT
 END:VCALENDAR
