@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【FUWAMOCO MORNING】episode 85 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=3vjDKAjuN90
-DURATION:PT2H
-DTSTART:20240415T150000Z
-SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 85 🐾 #FWMCMORNING
-UID:3vjDKAjuN90
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【SUPERCHAT READING】sakura colored puppies 🐾✨\nhttps://www.youtube.com/watch?v=1NSBhCGWTOI
 DURATION:PT2H
 DTSTART:20240416T010000Z
@@ -18,74 +11,11 @@ SUMMARY:FUWAMOCO: 【SUPERCHAT READING】sakura colored puppies 🐾✨
 UID:1NSBhCGWTOI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Stardew Valley】Playing the 1.6 update!🎼\nhttps://www.youtube.com/watch?v=Vs-zSmFuJpE
-DURATION:PT2H
-DTSTART:20240413T230000Z
-SUMMARY:Nerissa: 【Stardew Valley】Playing the 1.6 update!🎼
-UID:Vs-zSmFuJpE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CONTENT WARNING】 DON'T DEAD OPEN INSIDE\nhttps://www.youtube.com/watch?v=VZpnfemwGDc
-DURATION:PT2H
-DTSTART:20240414T020000Z
-SUMMARY:Fauna: 【CONTENT WARNING】 DON'T DEAD OPEN INSIDE
-UID:VZpnfemwGDc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CAPE REVEAL】WHAT COULD THIS POSSIBLY BE?! ❤ #CapeRyS\nhttps://www.youtube.com/watch?v=gqyv6v2xorA
-DURATION:PT2H
-DTSTART:20240414T030000Z
-SUMMARY:IRyS: 【CAPE REVEAL】WHAT COULD THIS POSSIBLY BE?! ❤ #CapeRyS
-UID:gqyv6v2xorA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪ VCR RUST ≫ Graduating from Noob...hopefully #2\nhttps://www.youtube.com/watch?v=cIraNb4XKQc
-DURATION:PT2H
-DTSTART:20240414T130000Z
-SUMMARY:Baelz: ≪ VCR RUST ≫ Graduating from Noob...hopefully #2
-UID:cIraNb4XKQc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BIBOO'S BIRTHDAY 2024】Sleepover Party! -ADVENT- Movie Night: Space Jam 【PART 2】#tanjouBIBOO\nhttps://www.youtube.com/watch?v=N9RX35SNOkM
-DURATION:PT2H
-DTSTART:20240415T010000Z
-SUMMARY:Bijou: 【BIBOO'S BIRTHDAY 2024】Sleepover Party! -ADVENT- Movie Night: Space Jam 【PART 2】#tanjouBIBOO
-UID:N9RX35SNOkM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 VCR RUST 】ライフ　イズ　ノット　ギャンブル　#2\nhttps://www.youtube.com/watch?v=9cs5Xihyl2Q
-DURATION:PT2H
-DTSTART:20240414T112825Z
-SUMMARY:Calli: 【 VCR RUST 】ライフ　イズ　ノット　ギャンブル　#2
-UID:9cs5Xihyl2Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CONTENT WARNING】cameraman never dies\nhttps://www.youtube.com/watch?v=LPSY8NOz4LE
-DURATION:PT2H
-DTSTART:20240414T020000Z
-SUMMARY:Gura: 【CONTENT WARNING】cameraman never dies
-UID:LPSY8NOz4LE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Like a Dragon: Infinite Wealth】Is Sawashiro Trustworthy? Press X to doubt #kfp (spoiler warning)\nhttps://www.youtube.com/watch?v=QZkt28iss_E
-DURATION:PT2H
-DTSTART:20240414T141500Z
-SUMMARY:Kiara: 【Like a Dragon: Infinite Wealth】Is Sawashiro Trustworthy? Press X to doubt #kfp (spoiler warning)
-UID:QZkt28iss_E
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Red Dead Redemption 2】end times (part 8)\nhttps://www.youtube.com/watch?v=ubY0ReV3O6k
 DURATION:PT2H
 DTSTART:20240413T232934Z
 SUMMARY:Calli: 【Red Dead Redemption 2】end times (part 8)
 UID:ubY0ReV3O6k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪MEMBERS ONLY≫ Blue Lock Watchalong!!! Ep 1- ??\nhttps://www.youtube.com/watch?v=N6s9wIRMAlI
-DURATION:PT2H
-DTSTART:20240414T010000Z
-SUMMARY:Baelz: ≪MEMBERS ONLY≫ Blue Lock Watchalong!!! Ep 1- ??
-UID:N6s9wIRMAlI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【BIBOO'S BIRTHDAY 2024】Sleepover Party START!! ??? Karaoke with GUESTS 【PART 1】#tanjouBIBOO\nhttps://www.youtube.com/watch?v=PsJDl32iCdk
@@ -102,10 +32,87 @@ SUMMARY:Calli: cat lady for life #shorts
 UID:OYcgnHA0RjQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【FUWAMOCO MORNING】episode 85 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=3vjDKAjuN90
+DURATION:PT2H
+DTSTART:20240415T150000Z
+SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 85 🐾 #FWMCMORNING
+UID:3vjDKAjuN90
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Stardew Valley】Playing the 1.6 update!🎼\nhttps://www.youtube.com/watch?v=Vs-zSmFuJpE
+DURATION:PT2H
+DTSTART:20240413T230000Z
+SUMMARY:Nerissa: 【Stardew Valley】Playing the 1.6 update!🎼
+UID:Vs-zSmFuJpE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CONTENT WARNING】 DON'T DEAD OPEN INSIDE\nhttps://www.youtube.com/watch?v=VZpnfemwGDc
+DURATION:PT2H
+DTSTART:20240414T020000Z
+SUMMARY:Fauna: 【CONTENT WARNING】 DON'T DEAD OPEN INSIDE
+UID:VZpnfemwGDc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪ VCR RUST ≫ Graduating from Noob...hopefully #2\nhttps://www.youtube.com/watch?v=cIraNb4XKQc
+DURATION:PT2H
+DTSTART:20240414T130000Z
+SUMMARY:Baelz: ≪ VCR RUST ≫ Graduating from Noob...hopefully #2
+UID:cIraNb4XKQc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 VCR RUST 】ライフ　イズ　ノット　ギャンブル　#2\nhttps://www.youtube.com/watch?v=9cs5Xihyl2Q
+DURATION:PT2H
+DTSTART:20240414T112825Z
+SUMMARY:Calli: 【 VCR RUST 】ライフ　イズ　ノット　ギャンブル　#2
+UID:9cs5Xihyl2Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CONTENT WARNING】cameraman never dies\nhttps://www.youtube.com/watch?v=LPSY8NOz4LE
+DURATION:PT2H
+DTSTART:20240414T020000Z
+SUMMARY:Gura: 【CONTENT WARNING】cameraman never dies
+UID:LPSY8NOz4LE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Easter Bunny Kickboxes the Viewer into Submission【3D Easter Special】\nhttps://www.youtube.com/watch?v=nXsH6wJ3_OY
 DURATION:PT2H
 DTSTART:20240413T230030Z
 SUMMARY:Shiori: Easter Bunny Kickboxes the Viewer into Submission【3D Easter Special】
 UID:nXsH6wJ3_OY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mori’s CURSED ASMR Idea #shorts\nhttps://www.youtube.com/watch?v=5MAjgdHOFuQ
+DURATION:PT2H
+DTSTART:20240414T230002Z
+SUMMARY:Shiori: Mori’s CURSED ASMR Idea #shorts
+UID:5MAjgdHOFuQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Like a Dragon: Infinite Wealth】Is Sawashiro Trustworthy? Press X to doubt #kfp (spoiler warning)\nhttps://www.youtube.com/watch?v=QZkt28iss_E
+DURATION:PT2H
+DTSTART:20240414T141500Z
+SUMMARY:Kiara: 【Like a Dragon: Infinite Wealth】Is Sawashiro Trustworthy? Press X to doubt #kfp (spoiler warning)
+UID:QZkt28iss_E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪MEMBERS ONLY≫ Blue Lock Watchalong!!! Ep 1- ??\nhttps://www.youtube.com/watch?v=N6s9wIRMAlI
+DURATION:PT2H
+DTSTART:20240414T010000Z
+SUMMARY:Baelz: ≪MEMBERS ONLY≫ Blue Lock Watchalong!!! Ep 1- ??
+UID:N6s9wIRMAlI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【BIBOO'S BIRTHDAY 2024】Sleepover Party! -ADVENT- Movie Night: Space Jam 【PART 2】#tanjouBIBOO\nhttps://www.youtube.com/watch?v=N9RX35SNOkM
+DURATION:PT2H
+DTSTART:20240415T010000Z
+SUMMARY:Bijou: 【BIBOO'S BIRTHDAY 2024】Sleepover Party! -ADVENT- Movie Night: Space Jam 【PART 2】#tanjouBIBOO
+UID:N9RX35SNOkM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CAPE REVEAL】WHAT COULD THIS POSSIBLY BE?! ❤ #CapeRyS\nhttps://www.youtube.com/watch?v=gqyv6v2xorA
+DURATION:PT2H
+DTSTART:20240414T030000Z
+SUMMARY:IRyS: 【CAPE REVEAL】WHAT COULD THIS POSSIBLY BE?! ❤ #CapeRyS
+UID:gqyv6v2xorA
 END:VEVENT
 END:VCALENDAR
