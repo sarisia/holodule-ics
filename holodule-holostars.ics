@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【 VCR RUST 】ファームもボスもおもろすぎぃ【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】\nhttps://www.youtube.com/watch?v=3atCf9TtKmw
+DURATION:PT2H
+DTSTART:20240416T184000Z
+SUMMARY:水無世燐央: 【 VCR RUST 】ファームもボスもおもろすぎぃ【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】
+UID:3atCf9TtKmw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【VCR RUSTⅡ】#3　新天地、探したい【夜十神封魔/ホロスターズ】\nhttps://www.youtube.com/watch?v=Ds1x8nbFQDU
 DURATION:PT2H
 DTSTART:20240416T073000Z
@@ -18,18 +25,18 @@ SUMMARY:🎸奏手イヅル: 【VCR RUST Ⅱ】三日目は金を貯めつつ武
 UID:HwM3QwiYyJI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【VCR RUST】#4 この世界をまたぐ男【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=OApyNOo6IfI
-DURATION:PT2H
-DTSTART:20240416T063000Z
-SUMMARY:🍕アルランディス: 【VCR RUST】#4 この世界をまたぐ男【アルランディス/ホロスターズ】
-UID:OApyNOo6IfI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 VCR RUST 】ファームファームボスファーム【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】\nhttps://www.youtube.com/watch?v=2PLHUFXLsqE
 DURATION:PT2H
 DTSTART:20240416T070000Z
 SUMMARY:水無世燐央: 【 VCR RUST 】ファームファームボスファーム【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】
 UID:2PLHUFXLsqE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VCR RUST】#4 この世界をまたぐ男【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=OApyNOo6IfI
+DURATION:PT2H
+DTSTART:20240416T063000Z
+SUMMARY:🍕アルランディス: 【VCR RUST】#4 この世界をまたぐ男【アルランディス/ホロスターズ】
+UID:OApyNOo6IfI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VCR RUSTⅡ】俺の朝は早い　4日目【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=LN7dM4gECmo
@@ -102,18 +109,18 @@ SUMMARY:緋崎ガンマ: 【 VCRRUST 】ファームやらイラスト屋やら�
 UID:IBYRtFBmM3Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 VCRRUST 】今日もイラスト屋で一儲けな4日目【#緋崎ガンマ / #ホロスターズ / #vtuber】\nhttps://www.youtube.com/watch?v=CKYfAjr1y7o
-DURATION:PT2H
-DTSTART:20240417T063000Z
-SUMMARY:緋崎ガンマ: 【 VCRRUST 】今日もイラスト屋で一儲けな4日目【#緋崎ガンマ / #ホロスターズ / #vtuber】
-UID:CKYfAjr1y7o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#プレイバック3Dストリーム】インザバックルーム\nhttps://www.youtube.com/watch?v=s2lRQ3atDvg
 DURATION:PT2H
 DTSTART:20240418T100000Z
 SUMMARY:ホロスターズ: 【#プレイバック3Dストリーム】インザバックルーム
 UID:s2lRQ3atDvg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 VCRRUST 】今日もイラスト屋で一儲けな4日目【#緋崎ガンマ / #ホロスターズ / #vtuber】\nhttps://www.youtube.com/watch?v=CKYfAjr1y7o
+DURATION:PT2H
+DTSTART:20240417T063000Z
+SUMMARY:緋崎ガンマ: 【 VCRRUST 】今日もイラスト屋で一儲けな4日目【#緋崎ガンマ / #ホロスターズ / #vtuber】
+UID:CKYfAjr1y7o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#28【RiTunes Labo】#vtuber歌唱王 出場者六人目 生セッション歌枠：ゲスト『???』【律可/ホロスターズ 】#りちゅらぼ\nhttps://www.youtube.com/watch?v=-atzAXoOnCk
