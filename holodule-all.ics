@@ -67,13 +67,6 @@ SUMMARY:影山シエン: 【うんちがいさがし】すっごくいい声で�
 UID:zIpl-Y_Raw8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【メン限】開拓者集合！突然ですが、オンライン会議します！【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=IirPMi2uCBM
-DURATION:PT2H
-DTSTART:20240417T130000Z
-SUMMARY:⚒AZKi: 【メン限】開拓者集合！突然ですが、オンライン会議します！【ホロライブ / AZKi】
-UID:IirPMi2uCBM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【VCR RUST Ⅱ】三日目は金を貯めつつ武器探し！【奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=pa8SwqmIfuY
 DURATION:PT2H
 DTSTART:20240416T041500Z
@@ -86,6 +79,13 @@ DURATION:PT2H
 DTSTART:20240416T100000Z
 SUMMARY:火威青: 【 VCRRUST 】#3 一日ぶりのRUST！浦島太郎です…【 火威青 #hololiveDEV_IS #ReGLOSS 】
 UID:U9ccOADIl3Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VCR RUSTⅡ】茶を飲んでふぁーむするのが一番いい　5日目ぱーと2【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=axBcM3ftJgk
+DURATION:PT2H
+DTSTART:20240417T131500Z
+SUMMARY:🍷夕刻ロベル: 【VCR RUSTⅡ】茶を飲んでふぁーむするのが一番いい　5日目ぱーと2【夕刻ロベル/ホロスターズ】
+UID:axBcM3ftJgk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ワンダーランドと羊の歌🐑🎪歌ってみた！ #尾丸ポルカ #角巻わため #vtuber #hololive #ホロライブ\nhttps://www.youtube.com/watch?v=g5eFeSS1FiM
@@ -305,11 +305,11 @@ SUMMARY:博衣こより: 【モンハンワールド】アイスボーン！イ�
 UID:Om6FeCSbwGw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】誕生日、キタァァ～～！！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=QFUHxxzTpdY
+DESCRIPTION:【#らでんのラジオ】第十三回目らでんのラジオ！春ですね（後半スパチャ読みです）【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=2VqtoEd7_kU
 DURATION:PT2H
 DTSTART:20240417T140000Z
-SUMMARY:🦔💨岸堂天真: 【歌枠】誕生日、キタァァ～～！！！【岸堂天真/ホロスターズ】
-UID:QFUHxxzTpdY
+SUMMARY:儒烏風亭らでん: 【#らでんのラジオ】第十三回目らでんのラジオ！春ですね（後半スパチャ読みです）【儒烏風亭らでん #ReGLOSS 】
+UID:2VqtoEd7_kU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:角巻警察だー！！【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=E9786MY5YSo
@@ -326,11 +326,11 @@ SUMMARY:ラプラス: 【かわいい？】「萌え声が上手い」と自慢�
 UID:QV5As1fQDF4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【誕生日記念】140時間かけて推理×恋愛ゲーム作ってみた。【#わたしの騎士がわからない】【#岸堂天真誕生祭2024】\nhttps://www.youtube.com/watch?v=-fuIOJt377U
+DESCRIPTION:【歌枠】誕生日、キタァァ～～！！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=QFUHxxzTpdY
 DURATION:PT2H
-DTSTART:20240418T100000Z
-SUMMARY:🦔💨岸堂天真: 【誕生日記念】140時間かけて推理×恋愛ゲーム作ってみた。【#わたしの騎士がわからない】【#岸堂天真誕生祭2024】
-UID:-fuIOJt377U
+DTSTART:20240417T140000Z
+SUMMARY:🦔💨岸堂天真: 【歌枠】誕生日、キタァァ～～！！！【岸堂天真/ホロスターズ】
+UID:QFUHxxzTpdY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#生スバル】ホラゲーSILENT HILL: The Short Messageするしゅばああああああああああああああああああああ！！！！【ネタバレあり】\nhttps://www.youtube.com/watch?v=sp9UV6YSbsI
@@ -338,6 +338,13 @@ DURATION:PT2H
 DTSTART:20240416T110000Z
 SUMMARY:🚑大空スバル: 【#生スバル】ホラゲーSILENT HILL: The Short Messageするしゅばああああああああああああああああああああ！！！！【ネタバレあり】
 UID:sp9UV6YSbsI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【誕生日記念】140時間かけて推理×恋愛ゲーム作ってみた。【#わたしの騎士がわからない】【#岸堂天真誕生祭2024】\nhttps://www.youtube.com/watch?v=-fuIOJt377U
+DURATION:PT2H
+DTSTART:20240418T100000Z
+SUMMARY:🦔💨岸堂天真: 【誕生日記念】140時間かけて推理×恋愛ゲーム作ってみた。【#わたしの騎士がわからない】【#岸堂天真誕生祭2024】
+UID:-fuIOJt377U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Monster Hunter World: Iceborne】#5 VS古龍種【荒咬オウガ　ホロスターズ】\nhttps://www.youtube.com/watch?v=URPFGX4fUz8
@@ -634,6 +641,13 @@ SUMMARY:💫天音かなた: 【モンハンワールド】見切りを頑張る
 UID:B6BRq2aUMRU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Superchat Catchup】Birthday Supa Reading 🎊\nhttps://www.youtube.com/watch?v=IXoyRArym08
+DURATION:PT2H
+DTSTART:20240417T230000Z
+SUMMARY:Kronii: 【Superchat Catchup】Birthday Supa Reading 🎊
+UID:IXoyRArym08
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【VCR RUSTⅡ】#3　新天地、探したい【夜十神封魔/ホロスターズ】\nhttps://www.youtube.com/watch?v=Ds1x8nbFQDU
 DURATION:PT2H
 DTSTART:20240416T073000Z
@@ -758,6 +772,13 @@ DURATION:PT2H
 DTSTART:20240417T150000Z
 SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 86 🐾 #FWMCMORNING
 UID:ktznm6I4N40
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VALORANT】top global neon is back!!!!! I LEFT AIM CHAN LONG AGO I DON'T NEED AIM MUAHAAAAAHAHA\nhttps://www.youtube.com/watch?v=H3t1KWzwaKU
+DURATION:PT2H
+DTSTART:20240417T150000Z
+SUMMARY:Zeta: 【VALORANT】top global neon is back!!!!! I LEFT AIM CHAN LONG AGO I DON'T NEED AIM MUAHAAAAAHAHA
+UID:H3t1KWzwaKU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:すいせい先輩とビビデバ歌ってみた【轟はじめ/ReGLOSS】#hololivedev_is  #vtuber  #ビビデバ\nhttps://www.youtube.com/watch?v=cc3570F-6NQ
@@ -886,6 +907,13 @@ SUMMARY:Shiori: 【ENDER LILIES: Quietus of the Knights Ep. 02】The Corruption 
 UID:4JKpMkZUhTE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【VCR RUST】スト鯖RUST初心者🔰４日目　新しい事もいろいろしたい！【百鬼あやめ/ホロライブ】#VCRRUST\nhttps://www.youtube.com/watch?v=Bby16eQtnDk
+DURATION:PT2H
+DTSTART:20240417T140000Z
+SUMMARY:👿百鬼あやめ: 【VCR RUST】スト鯖RUST初心者🔰４日目　新しい事もいろいろしたい！【百鬼あやめ/ホロライブ】#VCRRUST
+UID:Bby16eQtnDk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 VCR RUSTⅡ 】 まったりファーム生活！！＃５ 【#vcrrust  / 羽継烏有 / vtuber / ホロスターズ 】\nhttps://www.youtube.com/watch?v=JhqeRU1f9UA
 DURATION:PT2H
 DTSTART:20240416T052000Z
@@ -933,5 +961,12 @@ DURATION:PT2H
 DTSTART:20240417T040000Z
 SUMMARY:Jurard: 【ARK: SURVIVAL EVOLVED】KING OF THE DINOSAURS
 UID:sfIT67CNL-E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 VCR RUST 】ボスいくぞお【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】\nhttps://www.youtube.com/watch?v=wydc02RGeRI
+DURATION:PT2H
+DTSTART:20240417T133000Z
+SUMMARY:水無世燐央: 【 VCR RUST 】ボスいくぞお【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】
+UID:wydc02RGeRI
 END:VEVENT
 END:VCALENDAR
