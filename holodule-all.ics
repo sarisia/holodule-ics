@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=axSwNmIUdco
+DESCRIPTION:【We Were Here Expeditions: The FriendShip】My Bonds with @OuroKronii  will be tested!\nhttps://www.youtube.com/watch?v=M9PoUf2Vuxg
 DURATION:PT2H
-DTSTART:20240420T010000Z
-SUMMARY:🚑大空スバル: 【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】
-UID:axSwNmIUdco
+DTSTART:20240421T030000Z
+SUMMARY:IRyS: 【We Were Here Expeditions: The FriendShip】My Bonds with @OuroKronii  will be tested!
+UID:M9PoUf2Vuxg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【昼雑談】お昼休みに気軽に立ち寄れる雑談枠【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=vm4BfL5wLDw
+DURATION:PT2H
+DTSTART:20240422T030000Z
+SUMMARY:雪花ラミィ: 【昼雑談】お昼休みに気軽に立ち寄れる雑談枠【雪花ラミィ/ホロライブ】
+UID:vm4BfL5wLDw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GOOSE GOOSE DUCK COLLAB】MAY THE BEST GOOSE WIN! w/ Avallum & Niji EN\nhttps://www.youtube.com/watch?v=nBp4E_zYcfE
@@ -25,18 +32,11 @@ SUMMARY:Flayon: 【MEMBERSHIP】I Wake Up And Talk To U
 UID:opbxgQnbbNI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【VCR RUST Ⅱ】7日目３５０００ボスいきたい【奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=4BkKOyjZvPQ
+DESCRIPTION:ねえねえ、内緒だよ / Keep it a secret　 #shorts\nhttps://www.youtube.com/watch?v=sh4iZjyzdmI
 DURATION:PT2H
-DTSTART:20240420T103000Z
-SUMMARY:🎸奏手イヅル: 【VCR RUST Ⅱ】7日目３５０００ボスいきたい【奏手イヅル/ホロスターズ】
-UID:4BkKOyjZvPQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mumei's Mercy | S8/E4 (2024) #holoEN3DRepeat\nhttps://www.youtube.com/watch?v=6vYOxfQ6vrQ
-DURATION:PT2H
-DTSTART:20240420T030000Z
-SUMMARY:ENholo: Mumei's Mercy | S8/E4 (2024) #holoEN3DRepeat
-UID:6vYOxfQ6vrQ
+DTSTART:20240421T111940Z
+SUMMARY:👾常闇トワ: ねえねえ、内緒だよ / Keep it a secret　 #shorts
+UID:sh4iZjyzdmI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#尾丸ポルカ新衣装】可愛すぎる春の女、ついに1年半振りのお披露目します！！【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=tyLZj9yEqoQ
@@ -46,11 +46,11 @@ SUMMARY:尾丸ポルカ: 【#尾丸ポルカ新衣装】可愛すぎる春の女
 UID:tyLZj9yEqoQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ねえねえ、内緒だよ / Keep it a secret　 #shorts\nhttps://www.youtube.com/watch?v=sh4iZjyzdmI
+DESCRIPTION:【 VCRRUST 】#8  最終回！イラスト屋さん感謝！【 火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=_nlVzRoAql4
 DURATION:PT2H
-DTSTART:20240421T111940Z
-SUMMARY:👾常闇トワ: ねえねえ、内緒だよ / Keep it a secret　 #shorts
-UID:sh4iZjyzdmI
+DTSTART:20240421T123000Z
+SUMMARY:火威青: 【 VCRRUST 】#8  最終回！イラスト屋さん感謝！【 火威青 #hololiveDEV_IS #ReGLOSS 】
+UID:_nlVzRoAql4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#ReGLOSS 「シンメトリー」MV公開中！ #shorts\nhttps://www.youtube.com/watch?v=CD8oVO0TmDg
@@ -67,13 +67,6 @@ SUMMARY:🏴☠宝鐘マリン: 【最恐 -青鬼-】逃ゲロ…!!! 3D青鬼─
 UID:QEx--S5GOWU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 VCRRUST 】#8  最終回！イラスト屋さん感謝！【 火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=_nlVzRoAql4
-DURATION:PT2H
-DTSTART:20240421T123000Z
-SUMMARY:火威青: 【 VCRRUST 】#8  最終回！イラスト屋さん感謝！【 火威青 #hololiveDEV_IS #ReGLOSS 】
-UID:_nlVzRoAql4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【バニーガーデン】うっひょおおおおおおおおおおおお！！！！！【夕刻ロベル/ホロスターズ】※ネタバレあり\nhttps://www.youtube.com/watch?v=56jKtSQXe_8
 DURATION:PT2H
 DTSTART:20240422T040000Z
@@ -81,32 +74,46 @@ SUMMARY:🍷夕刻ロベル: 【バニーガーデン】うっひょおおおお
 UID:56jKtSQXe_8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 VCRRUST 】#7  お絵描き屋さん納品！【 火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=ZGnWAyiWtW8
+DESCRIPTION:#SorAZ #歌ってみた 最新曲配信中！#ときのそら #AZKi#六兆年と一夜物語 #kemu #IA#cover #ホロライブ #hololive #VTuber #hololiveclips\nhttps://www.youtube.com/watch?v=ExNnbcFBe1Q
 DURATION:PT2H
-DTSTART:20240420T130000Z
-SUMMARY:火威青: 【 VCRRUST 】#7  お絵描き屋さん納品！【 火威青 #hololiveDEV_IS #ReGLOSS 】
-UID:ZGnWAyiWtW8
+DTSTART:20240421T030006Z
+SUMMARY:⚒AZKi: #SorAZ #歌ってみた 最新曲配信中！#ときのそら #AZKi#六兆年と一夜物語 #kemu #IA#cover #ホロライブ #hololive #VTuber #hololiveclips
+UID:ExNnbcFBe1Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:方角どっち？【ホロライブ / AZKi】#ぷちあず #shorts\nhttps://www.youtube.com/watch?v=5PsPC-DQ-v4
+DESCRIPTION:【アニメ】大怪獣バトル！フブラvsハトタウロス\nhttps://www.youtube.com/watch?v=5WWXbQhPoig
 DURATION:PT2H
-DTSTART:20240420T090003Z
-SUMMARY:⚒AZKi: 方角どっち？【ホロライブ / AZKi】#ぷちあず #shorts
-UID:5PsPC-DQ-v4
+DTSTART:20240421T090005Z
+SUMMARY:ホロライブ: 【アニメ】大怪獣バトル！フブラvsハトタウロス
+UID:5WWXbQhPoig
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】第１１３回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=oY761wvwpFo
+DESCRIPTION:【GOOSE GOOSE DUCK】 Making Strangers Hate Me 8w8\nhttps://www.youtube.com/watch?v=5FY1buyOIAM
 DURATION:PT2H
-DTSTART:20240420T130000Z
-SUMMARY:🐏角巻わため: 【歌枠】第１１３回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】
-UID:oY761wvwpFo
+DTSTART:20240420T180000Z
+SUMMARY:Crimzon: 【GOOSE GOOSE DUCK】 Making Strangers Hate Me 8w8
+UID:5FY1buyOIAM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 VCR RUST 】仲間を守るお茶を作る【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】\nhttps://www.youtube.com/watch?v=9BDUxwr6bc4
+DESCRIPTION:#29【RiTunes Labo】#vtuber歌唱王 出場者７人目 生セッション歌枠：ゲスト『鷹嶺ルイ』【律可/ホロスターズ 】#りちゅらぼ\nhttps://www.youtube.com/watch?v=sd6e141vnyA
 DURATION:PT2H
-DTSTART:20240420T130000Z
-SUMMARY:水無世燐央: 【 VCR RUST 】仲間を守るお茶を作る【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】
-UID:9BDUxwr6bc4
+DTSTART:20240421T110000Z
+SUMMARY:⚙律可: #29【RiTunes Labo】#vtuber歌唱王 出場者７人目 生セッション歌枠：ゲスト『鷹嶺ルイ』【律可/ホロスターズ 】#りちゅらぼ
+UID:sd6e141vnyA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪ VCR RUST ≫ LAST DAY. ALL IN. #5\nhttps://www.youtube.com/watch?v=WxN6zpr9ajg
+DURATION:PT2H
+DTSTART:20240421T090000Z
+SUMMARY:Baelz: ≪ VCR RUST ≫ LAST DAY. ALL IN. #5
+UID:WxN6zpr9ajg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【誕生日振り返り】うううううううううううう【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=NJcnfGNuS_c
+DURATION:PT2H
+DTSTART:20240421T030000Z
+SUMMARY:音乃瀬奏: 【誕生日振り返り】うううううううううううう【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
+UID:NJcnfGNuS_c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Monster Hunter World: Iceborne】LET THE STORM RAGE ON\nhttps://www.youtube.com/watch?v=cLy3_9Aftlg
@@ -116,25 +123,32 @@ SUMMARY:Bijou: 【Monster Hunter World: Iceborne】LET THE STORM RAGE ON
 UID:cLy3_9Aftlg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【メンバー限定】雑談！最近の話【律可/ホロスターズ 】#りつすた\nhttps://www.youtube.com/watch?v=26KP9VCrQGA
+DESCRIPTION:【 VCRRUST 】最高の思い出を作りに行くイラスト屋の限界RUST最終日【#緋崎ガンマ / #ホロスターズ / #vtuber】\nhttps://www.youtube.com/watch?v=KTyeOd4nm6w
 DURATION:PT2H
-DTSTART:20240420T130000Z
-SUMMARY:⚙律可: 【メンバー限定】雑談！最近の話【律可/ホロスターズ 】#りつすた
-UID:26KP9VCrQGA
+DTSTART:20240421T110000Z
+SUMMARY:緋崎ガンマ: 【 VCRRUST 】最高の思い出を作りに行くイラスト屋の限界RUST最終日【#緋崎ガンマ / #ホロスターズ / #vtuber】
+UID:KTyeOd4nm6w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【VCR RUSTⅡ】スト鯖RUST初参戦！いくぞ！限界RUST組！！最後までエンジョイ！！-8日目-【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=XcrBaFYIFN0
+DESCRIPTION:【朝活雑談】(アーカイブはメン限)病み上がりのさんでーまっする…🤧💦【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=8XhK2LUql9Q
 DURATION:PT2H
-DTSTART:20240420T050000Z
-SUMMARY:🍎アキロゼ: 【VCR RUSTⅡ】スト鯖RUST初参戦！いくぞ！限界RUST組！！最後までエンジョイ！！-8日目-【アキ・ローゼンタール/ホロライブ】
-UID:XcrBaFYIFN0
+DTSTART:20240421T010000Z
+SUMMARY:⚔白銀ノエル: 【朝活雑談】(アーカイブはメン限)病み上がりのさんでーまっする…🤧💦【白銀ノエル/ホロライブ】
+UID:8XhK2LUql9Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【VCR RUSTⅡ】スト鯖RUST初参戦！限界RUST組でエンジョイ！！-7.5日目-【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=6bvFfRhhIlg
+DESCRIPTION:【スプラトゥーン3】春フェス！「こうさぎ」陣営後半もがんばるぞ！🔥💎【不知火フレア/IRyS/ホロライブ】\nhttps://www.youtube.com/watch?v=vos0vema2wo
 DURATION:PT2H
-DTSTART:20240419T163500Z
-SUMMARY:🍎アキロゼ: 【VCR RUSTⅡ】スト鯖RUST初参戦！限界RUST組でエンジョイ！！-7.5日目-【アキ・ローゼンタール/ホロライブ】
-UID:6bvFfRhhIlg
+DTSTART:20240421T130000Z
+SUMMARY:🔥不知火フレア: 【スプラトゥーン3】春フェス！「こうさぎ」陣営後半もがんばるぞ！🔥💎【不知火フレア/IRyS/ホロライブ】
+UID:vos0vema2wo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:さくらんぼ - 尾丸ポルカ(cover)\nhttps://www.youtube.com/watch?v=6PSNhtD5Daw
+DURATION:PT2H
+DTSTART:20240421T110000Z
+SUMMARY:尾丸ポルカ: さくらんぼ - 尾丸ポルカ(cover)
+UID:6PSNhtD5Daw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 VCR RUSTⅡ 】 まったりファーム生活！！#１０  【#vcrrust  / 羽継烏有 / vtuber / ホロスターズ 】\nhttps://www.youtube.com/watch?v=-Wilum9XEbY
@@ -144,11 +158,25 @@ SUMMARY:羽継烏有: 【 VCR RUSTⅡ 】 まったりファーム生活！！#�
 UID:-Wilum9XEbY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【スパチャ読み雑談】するぞい！！！大変大変お待たせしました( இωஇ )【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=6STKJgjxR7o
+DURATION:PT2H
+DTSTART:20240421T040000Z
+SUMMARY:💫天音かなた: 【スパチャ読み雑談】するぞい！！！大変大変お待たせしました( இωஇ )【天音かなた/ホロライブ】
+UID:6STKJgjxR7o
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:STREAM ZODIAC NOW! #shorts #vrchat\nhttps://www.youtube.com/watch?v=Gc7HN0Vnt0U
 DURATION:PT2H
 DTSTART:20240421T033000Z
 SUMMARY:Baelz: STREAM ZODIAC NOW! #shorts #vrchat
 UID:Gc7HN0Vnt0U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FREE TALK】no game tonight【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=6edQ19mDt3Q
+DURATION:PT2H
+DTSTART:20240421T132000Z
+SUMMARY:Kaela: 【FREE TALK】no game tonight【Kaela Kovalskia / hololiveID】
+UID:6edQ19mDt3Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【晩酌雑談】師匠と琵琶湖とボイス台本【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=c9fuPXD-nt8
@@ -158,32 +186,11 @@ SUMMARY:儒烏風亭らでん: 【晩酌雑談】師匠と琵琶湖とボイス�
 UID:c9fuPXD-nt8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:アーカイブメン限　雑談 #ホロライブ #一条莉々華 #Shorts\nhttps://www.youtube.com/watch?v=sGzR-MmwAYQ
-DURATION:PT2H
-DTSTART:20240420T130345Z
-SUMMARY:一条莉々華: アーカイブメン限　雑談 #ホロライブ #一条莉々華 #Shorts
-UID:sGzR-MmwAYQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ada yang mau ikut pulang di Content Warning #hololiveindonesia #iolyfe #hololive\nhttps://www.youtube.com/watch?v=G9b8BhKVnaQ
-DURATION:PT2H
-DTSTART:20240419T152458Z
-SUMMARY:🎨Iofi: Ada yang mau ikut pulang di Content Warning #hololiveindonesia #iolyfe #hololive
-UID:G9b8BhKVnaQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ORIGINAL MV】E I E N  || Hakos Baelz\nhttps://www.youtube.com/watch?v=xGgKKwc-jWg
 DURATION:PT2H
 DTSTART:20240421T050000Z
 SUMMARY:Baelz: 【ORIGINAL MV】E I E N  || Hakos Baelz
 UID:xGgKKwc-jWg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:例のエアホッケーを遊ぶ！！（ただしほぼ雑談。詳しくはアーカイブを見てネ）\nhttps://www.youtube.com/watch?v=4DSV30bJTfQ
-DURATION:PT2H
-DTSTART:20240420T050000Z
-SUMMARY:🥐戌神ころね: 例のエアホッケーを遊ぶ！！（ただしほぼ雑談。詳しくはアーカイブを見てネ）
-UID:4DSV30bJTfQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#はあとなニュース】今日の天気は蜘蛛ります♪ #14【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=QGe3dmojTAs
@@ -193,13 +200,6 @@ SUMMARY:❤赤井はあと: 【#はあとなニュース】今日の天気は蜘
 UID:QGe3dmojTAs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MEMBER'S ONLY】chatting together!\nhttps://www.youtube.com/watch?v=X7iFo38SIvw
-DURATION:PT2H
-DTSTART:20240420T005833Z
-SUMMARY:Calli: 【MEMBER'S ONLY】chatting together!
-UID:X7iFo38SIvw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【VCR RUSTⅡ】スト鯖RUST初参戦！チーム「限界コントRUST」最終日いくぞー！-9.5日目-【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=Tt8XhNSGf4A
 DURATION:PT2H
 DTSTART:20240421T110000Z
@@ -207,11 +207,11 @@ SUMMARY:🍎アキロゼ: 【VCR RUSTⅡ】スト鯖RUST初参戦！チーム「
 UID:Tt8XhNSGf4A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【メンバー限定🍀】StellarStellarアレンジver 作業用BGM\nhttps://www.youtube.com/watch?v=ayQTD2sZ6SI
+DESCRIPTION:【Days With Ollie】BERI RATING GAME TEMEN AKU GUYS!!!!! DAPET ENDING APA KITA YA????\nhttps://www.youtube.com/watch?v=63HnS2FuUgg
 DURATION:PT2H
-DTSTART:20240419T223300Z
-SUMMARY:☄星街すいせい: 【メンバー限定🍀】StellarStellarアレンジver 作業用BGM
-UID:ayQTD2sZ6SI
+DTSTART:20240422T130000Z
+SUMMARY:Kobo: 【Days With Ollie】BERI RATING GAME TEMEN AKU GUYS!!!!! DAPET ENDING APA KITA YA????
+UID:63HnS2FuUgg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Goose Goose Duck】TIME TO GO WILD WITH DA BOYZ (MEGA NIJI EN/HOLOSTARS EN/AVALLUM)\nhttps://www.youtube.com/watch?v=qnVB6mdtDn4
@@ -228,11 +228,11 @@ SUMMARY:水無世燐央: 【 VCR RUST 】泣いても笑っても最終日【 �
 UID:44siAe_tH1g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Prisuners Night】Chill Night Chatting【Ayunda Risu】\nhttps://www.youtube.com/watch?v=CPI_ZR7QPPM
+DESCRIPTION:【新衣装お披露目今日！】キラッキラなオリ曲🎠🎡屋根裏のエピローグ #vtuber #hololive #ホロライブ\nhttps://www.youtube.com/watch?v=FSyyArLFzOU
 DURATION:PT2H
-DTSTART:20240420T130000Z
-SUMMARY:🐿Risu: 【Prisuners Night】Chill Night Chatting【Ayunda Risu】
-UID:CPI_ZR7QPPM
+DTSTART:20240421T000818Z
+SUMMARY:尾丸ポルカ: 【新衣装お披露目今日！】キラッキラなオリ曲🎠🎡屋根裏のエピローグ #vtuber #hololive #ホロライブ
+UID:FSyyArLFzOU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HOLLOW KNIGHT】NO COST TOO GREAT (Overcharmed Challenge)\nhttps://www.youtube.com/watch?v=Dw1g0e18VOk
@@ -242,25 +242,18 @@ SUMMARY:Bijou: 【HOLLOW KNIGHT】NO COST TOO GREAT (Overcharmed Challenge)
 UID:Dw1g0e18VOk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【縦雑談】校舎裏しゅーごー雑談【轟はじめ/ReGLOSS】 #shorts\nhttps://www.youtube.com/watch?v=-bSppZ1luWM
+DURATION:PT2H
+DTSTART:20240421T090007Z
+SUMMARY:轟はじめ: 【縦雑談】校舎裏しゅーごー雑談【轟はじめ/ReGLOSS】 #shorts
+UID:-bSppZ1luWM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【VCR RUSTⅡ】#8　スト鯖RUST、最終日！最後まで走り切るぞ！【夜十神封魔/ホロスターズ】\nhttps://www.youtube.com/watch?v=t-4c1BOU9Q8
 DURATION:PT2H
 DTSTART:20240421T060000Z
 SUMMARY:夜十神封魔: 【VCR RUSTⅡ】#8　スト鯖RUST、最終日！最後まで走り切るぞ！【夜十神封魔/ホロスターズ】
 UID:t-4c1BOU9Q8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 バニーガーデン 】妹と一緒に楽園へ行こう🌽🍙【 #にゃんぐこーん /ホロライブ 】\nhttps://www.youtube.com/watch?v=a2erpcvzKts
-DURATION:PT2H
-DTSTART:20240420T110000Z
-SUMMARY:🍙猫又おかゆ: 【 バニーガーデン 】妹と一緒に楽園へ行こう🌽🍙【 #にゃんぐこーん /ホロライブ 】
-UID:a2erpcvzKts
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FF7リバース】初見★リバース！コスモキャニオンいくぞおおお！✊🔥 #6 【博衣こより/ホロライブ】【ネタバレあり】\nhttps://www.youtube.com/watch?v=WUojnGHqrsI
-DURATION:PT2H
-DTSTART:20240420T020000Z
-SUMMARY:博衣こより: 【FF7リバース】初見★リバース！コスモキャニオンいくぞおおお！✊🔥 #6 【博衣こより/ホロライブ】【ネタバレあり】
-UID:WUojnGHqrsI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠/karaoke】７：００まで歌っておまるんの新衣装みる。【 桃鈴ねね / hololive 】#shorts\nhttps://www.youtube.com/watch?v=qAYpI38pAZ4
@@ -270,11 +263,18 @@ SUMMARY:桃鈴ねね: 【歌枠/karaoke】７：００まで歌っておまる�
 UID:qAYpI38pAZ4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 VCR RUST 】アイム　ソー　ハッピー！！　#7\nhttps://www.youtube.com/watch?v=Mis8gjL68rY
+DESCRIPTION:【 歌枠 】#vtuber歌唱王 に出場します‼【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=FwCIXm9cjG8
 DURATION:PT2H
-DTSTART:20240420T105916Z
-SUMMARY:Calli: 【 VCR RUST 】アイム　ソー　ハッピー！！　#7
-UID:Mis8gjL68rY
+DTSTART:20240421T140000Z
+SUMMARY:鷹嶺ルイ: 【 歌枠 】#vtuber歌唱王 に出場します‼【鷹嶺ルイ/ホロライブ】
+UID:FwCIXm9cjG8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:POKÉDANCE踊ってみた！！！！！！！！【hololive/兎田ぺこら】#ポケダンス #shorts\nhttps://www.youtube.com/watch?v=oYo0BfrVUUE
+DURATION:PT2H
+DTSTART:20240421T090037Z
+SUMMARY:👯兎田ぺこら: POKÉDANCE踊ってみた！！！！！！！！【hololive/兎田ぺこら】#ポケダンス #shorts
+UID:oYo0BfrVUUE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【  バニーガーデン 】ぐへへｗ飲酒しながらバニーガールの店でお楽しんじゃうぞ！＾＾にぇ～！！！！🍸【ホロライブ/さくらみこ】※ネタバレあり\nhttps://www.youtube.com/watch?v=2iojO8czLYY
@@ -284,6 +284,20 @@ SUMMARY:🌸さくらみこ: 【  バニーガーデン 】ぐへへｗ飲酒し
 UID:2iojO8czLYY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Chillquarium】Chill\, Fish\, and Talk【Ayunda Risu】\nhttps://www.youtube.com/watch?v=7-sWp8MkyfQ
+DURATION:PT2H
+DTSTART:20240421T040000Z
+SUMMARY:🐿Risu: 【Chillquarium】Chill\, Fish\, and Talk【Ayunda Risu】
+UID:7-sWp8MkyfQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【晩酌】雪夜月×美味しいおつまみで乾杯！新情報も…！？【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=ckKq4mV93wI
+DURATION:PT2H
+DTSTART:20240421T110000Z
+SUMMARY:雪花ラミィ: 【晩酌】雪夜月×美味しいおつまみで乾杯！新情報も…！？【雪花ラミィ/ホロライブ】
+UID:ckKq4mV93wI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:🎉🎂【HAKKA BIRBDAY 2024】I'M JUST A LITTLE GUY\, IT'S MY BIRTHDAY! 🎂🎉\nhttps://www.youtube.com/watch?v=2xxO0JSpVAk
 DURATION:PT2H
 DTSTART:20240422T010000Z
@@ -291,25 +305,11 @@ SUMMARY:Hakka: 🎉🎂【HAKKA BIRBDAY 2024】I'M JUST A LITTLE GUY\, IT'S MY B
 UID:2xxO0JSpVAk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【VCR スト鯖RUSTⅡ】もうおわりなんだよな / アステル\nhttps://www.youtube.com/watch?v=BrVERw52ctQ
+DESCRIPTION:声真似出来てる？【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=QtrDHbVd4f4
 DURATION:PT2H
-DTSTART:20240420T055000Z
-SUMMARY:🎭アステル・レダ: 【VCR スト鯖RUSTⅡ】もうおわりなんだよな / アステル
-UID:BrVERw52ctQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【限界OL海へ行く】久々にノベルゲーム。疲れたときはどこに行きたい？【儒烏風亭らでん  #ReGLOSS 】\nhttps://www.youtube.com/watch?v=DT11VVUlAl4
-DURATION:PT2H
-DTSTART:20240420T140000Z
-SUMMARY:儒烏風亭らでん: 【限界OL海へ行く】久々にノベルゲーム。疲れたときはどこに行きたい？【儒烏風亭らでん  #ReGLOSS 】
-UID:DT11VVUlAl4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【モンハンワールド】ラミィとコラボ！！の前に追いつけアイスボーンへ！！！モンスターハンター：ワールド！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=hBdttfp9dlY
-DURATION:PT2H
-DTSTART:20240420T040000Z
-SUMMARY:💫天音かなた: 【モンハンワールド】ラミィとコラボ！！の前に追いつけアイスボーンへ！！！モンスターハンター：ワールド！！【天音かなた/ホロライブ】
-UID:hBdttfp9dlY
+DTSTART:20240420T210019Z
+SUMMARY:🐏角巻わため: 声真似出来てる？【 #今日のわため 】 #shorts #hololive #vtuber
+UID:QtrDHbVd4f4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#6】 FINAL FANTASY VII REBIRTH するしゅばああああああああああああああああ！！！！！【ネタバレあり】\nhttps://www.youtube.com/watch?v=zm81XfkV_7w
@@ -326,18 +326,18 @@ SUMMARY:博衣こより: 【FF7リバース】初見★リバース！マイフ�
 UID:aM-Qsk_75F0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【(Not) A Devil Afterparty】It's Great With @IRyS\nhttps://www.youtube.com/watch?v=upug-XeOLr4
+DESCRIPTION:【Like a Dragon: Infinite Wealth】SEMIFINALE OK I HOPE YOU ARE SATISFIED  #kfp (spoiler warning)\nhttps://www.youtube.com/watch?v=Xj_KS7M9cGY
 DURATION:PT2H
-DTSTART:20240420T020000Z
-SUMMARY:Kronii: 【(Not) A Devil Afterparty】It's Great With @IRyS
-UID:upug-XeOLr4
+DTSTART:20240421T140000Z
+SUMMARY:Kiara: 【Like a Dragon: Infinite Wealth】SEMIFINALE OK I HOPE YOU ARE SATISFIED  #kfp (spoiler warning)
+UID:Xj_KS7M9cGY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【VCR RUST Ⅱ】最終日 ボスへ【奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=-8bs2Tj7ZrY
+DESCRIPTION:【 VCR RUST 】エンド　オブ　ザ　ワルド　#8 (FINALE)\nhttps://www.youtube.com/watch?v=4EMXdKuZnjk
 DURATION:PT2H
-DTSTART:20240421T041500Z
-SUMMARY:🎸奏手イヅル: 【VCR RUST Ⅱ】最終日 ボスへ【奏手イヅル/ホロスターズ】
-UID:-8bs2Tj7ZrY
+DTSTART:20240421T085804Z
+SUMMARY:Calli: 【 VCR RUST 】エンド　オブ　ザ　ワルド　#8 (FINALE)
+UID:4EMXdKuZnjk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VCR RUST】スト鯖RUST初心者🔰  かぼトラ最終日🎃🐯【百鬼あやめ/ホロライブ】#VCRRUST\nhttps://www.youtube.com/watch?v=fRt1-vIbnyc
@@ -347,6 +347,13 @@ SUMMARY:👿百鬼あやめ: 【VCR RUST】スト鯖RUST初心者🔰  かぼト
 UID:fRt1-vIbnyc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【VCR RUST Ⅱ】最終日 ボスへ【奏手イヅル/ホロスターズ】\nhttps://www.youtube.com/watch?v=-8bs2Tj7ZrY
+DURATION:PT2H
+DTSTART:20240421T041500Z
+SUMMARY:🎸奏手イヅル: 【VCR RUST Ⅱ】最終日 ボスへ【奏手イヅル/ホロスターズ】
+UID:-8bs2Tj7ZrY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【霊室 / Ghost room】心霊現象vs獅白ぼたん【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=gpfPHKd-r9k
 DURATION:PT2H
 DTSTART:20240421T110000Z
@@ -354,11 +361,25 @@ SUMMARY:獅白ぼたん: 【霊室 / Ghost room】心霊現象vs獅白ぼたん�
 UID:gpfPHKd-r9k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:POKÉDANCE 踊ってみた 💃#hololive  #ポケダンス  #ポケモン #pokedance\nhttps://www.youtube.com/watch?v=YyA4dzqbQwg
+DESCRIPTION:【 龍が如く極 】#08 シリーズ完全初見🔥 サブクエ編 Ι YAKUZA KIWAMI【 猫又おかゆ/ホロライブ 】※ネタバレあり\nhttps://www.youtube.com/watch?v=JCfBFoz8Mw4
 DURATION:PT2H
-DTSTART:20240420T080026Z
-SUMMARY:🤖ロボ子さん: POKÉDANCE 踊ってみた 💃#hololive  #ポケダンス  #ポケモン #pokedance
-UID:YyA4dzqbQwg
+DTSTART:20240421T060000Z
+SUMMARY:🍙猫又おかゆ: 【 龍が如く極 】#08 シリーズ完全初見🔥 サブクエ編 Ι YAKUZA KIWAMI【 猫又おかゆ/ホロライブ 】※ネタバレあり
+UID:JCfBFoz8Mw4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ASMR/MemberOnly】お披露目のあと、さっそくお着替えしてささやく【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=jQpvjv39SDQ
+DURATION:PT2H
+DTSTART:20240421T130000Z
+SUMMARY:尾丸ポルカ: 【ASMR/MemberOnly】お披露目のあと、さっそくお着替えしてささやく【尾丸ポルカ/ホロライブ】
+UID:jQpvjv39SDQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MEMBERS】 Pluto Watchalong - Ep 4 - 8\nhttps://www.youtube.com/watch?v=DcvPRE7YkLQ
+DURATION:PT2H
+DTSTART:20240420T190000Z
+SUMMARY:Ina: 【MEMBERS】 Pluto Watchalong - Ep 4 - 8
+UID:DcvPRE7YkLQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#１７】完全初見のペルソナ３リロード！！！【ネタバレあり】\nhttps://www.youtube.com/watch?v=gspf8EemfhE
@@ -368,13 +389,6 @@ SUMMARY:🌲大神ミオ: 【#１７】完全初見のペルソナ３リロー�
 UID:gspf8EemfhE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【あつまれどうぶつの森】＃2　夢のマイホーム。そしてお店を成長させるばんちょー【轟はじめ/ReGLOSS】#hololivedev_is\nhttps://www.youtube.com/watch?v=uXBKVQ3t4pI
-DURATION:PT2H
-DTSTART:20240420T110500Z
-SUMMARY:轟はじめ: 【あつまれどうぶつの森】＃2　夢のマイホーム。そしてお店を成長させるばんちょー【轟はじめ/ReGLOSS】#hololivedev_is
-UID:uXBKVQ3t4pI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ドドド急ブレーキ！ #はばない #shorts\nhttps://www.youtube.com/watch?v=5ybW0mcq8TQ
 DURATION:PT2H
 DTSTART:20240421T100004Z
@@ -382,25 +396,18 @@ SUMMARY:🐏角巻わため: ドドド急ブレーキ！ #はばない #shorts
 UID:5ybW0mcq8TQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#ホロドロケイ2024 ~holoXランドからの脱出~ ティザーPV\nhttps://www.youtube.com/watch?v=ocS_zcZ_pYI
+DESCRIPTION:【GOOSE GOOSE DUCK】NEW PEOPLE. NEW BODY PARTS.\nhttps://www.youtube.com/watch?v=OpZnzaB2TFE
 DURATION:PT2H
-DTSTART:20240420T140000Z
-SUMMARY:風真いろは: #ホロドロケイ2024 ~holoXランドからの脱出~ ティザーPV
-UID:ocS_zcZ_pYI
+DTSTART:20240420T180000Z
+SUMMARY:Octavio: 【GOOSE GOOSE DUCK】NEW PEOPLE. NEW BODY PARTS.
+UID:OpZnzaB2TFE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Like a Dragon: Infinite Wealth】the filler episode #kfp (spoiler warning)\nhttps://www.youtube.com/watch?v=jC6fspDfjQI
+DESCRIPTION:【バニーガーデン】ネタバレあり　常連二日目【荒咬オウガ 花咲みやび　ホロスターズ】\nhttps://www.youtube.com/watch?v=Ri45lxyNquI
 DURATION:PT2H
-DTSTART:20240420T140000Z
-SUMMARY:Kiara: 【Like a Dragon: Infinite Wealth】the filler episode #kfp (spoiler warning)
-UID:jC6fspDfjQI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:この一般通過わためぇどこかで見たことがある...？【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=vMxtS3A2mPg
-DURATION:PT2H
-DTSTART:20240419T210036Z
-SUMMARY:🐏角巻わため: この一般通過わためぇどこかで見たことがある...？【 #今日のわため 】 #shorts #hololive #vtuber
-UID:vMxtS3A2mPg
+DTSTART:20240421T120000Z
+SUMMARY:荒咬オウガ: 【バニーガーデン】ネタバレあり　常連二日目【荒咬オウガ 花咲みやび　ホロスターズ】
+UID:Ri45lxyNquI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 MHW Iceborne 】Oh yes Fatalis【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=4u1E8o8ks3Q
@@ -410,41 +417,6 @@ SUMMARY:🎨Iofi: 【 MHW Iceborne 】Oh yes Fatalis【 iofi / hololiveID 】
 UID:4u1E8o8ks3Q
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【OHAPOL】土曜7時の朝活はじまります！ﾌﾌｯﾋ！【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=3QbrmgdmkP4
-DURATION:PT2H
-DTSTART:20240419T220000Z
-SUMMARY:尾丸ポルカ: 【OHAPOL】土曜7時の朝活はじまります！ﾌﾌｯﾋ！【尾丸ポルカ/ホロライブ】
-UID:3QbrmgdmkP4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VCR RUSTⅡ】#7　まだまだ楽しむぞ！【夜十神封魔/ホロスターズ】\nhttps://www.youtube.com/watch?v=A-5yZHlBES4
-DURATION:PT2H
-DTSTART:20240420T110000Z
-SUMMARY:夜十神封魔: 【VCR RUSTⅡ】#7　まだまだ楽しむぞ！【夜十神封魔/ホロスターズ】
-UID:A-5yZHlBES4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:「奏 / スキマスイッチ」 - 音乃瀬奏（cover）\nhttps://www.youtube.com/watch?v=VT1on_WaMzw
-DURATION:PT2H
-DTSTART:20240420T110000Z
-SUMMARY:音乃瀬奏: 「奏 / スキマスイッチ」 - 音乃瀬奏（cover）
-UID:VT1on_WaMzw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【バニーガーデン│酒並走】サタデー美羽香フィーバーに愛を込めて※ネタバレあり【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=10kSSxT076E
-DURATION:PT2H
-DTSTART:20240420T130000Z
-SUMMARY:尾丸ポルカ: 【バニーガーデン│酒並走】サタデー美羽香フィーバーに愛を込めて※ネタバレあり【尾丸ポルカ/ホロライブ】
-UID:10kSSxT076E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪MEMBERS ONLY≫ Blue Lock Watchalong!!! Ep 8 - ?\nhttps://www.youtube.com/watch?v=DOojinWiHt4
-DURATION:PT2H
-DTSTART:20240420T010000Z
-SUMMARY:Baelz: ≪MEMBERS ONLY≫ Blue Lock Watchalong!!! Ep 8 - ?
-UID:DOojinWiHt4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 ドラクエⅦ 】完全初見。遂にダーマ神殿くるか！？！？！？！？！？！？【鷹嶺ルイ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=SZuh6CY6Cxs
 DURATION:PT2H
 DTSTART:20240421T030000Z
@@ -452,11 +424,25 @@ SUMMARY:鷹嶺ルイ: 【 ドラクエⅦ 】完全初見。遂にダーマ神�
 UID:SZuh6CY6Cxs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MEMBERS ONLY】Learning New Songs !! ~\nhttps://www.youtube.com/watch?v=dlPD8Dtb1TQ
+DESCRIPTION:The Tortured Poppets Department【OcTalks with Octavio】#13\nhttps://www.youtube.com/watch?v=IXEIOtDsYMo
 DURATION:PT2H
-DTSTART:20240420T020000Z
-SUMMARY:Mumei: 【MEMBERS ONLY】Learning New Songs !! ~
-UID:dlPD8Dtb1TQ
+DTSTART:20240421T090000Z
+SUMMARY:Octavio: The Tortured Poppets Department【OcTalks with Octavio】#13
+UID:IXEIOtDsYMo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ANIMAL CROSSING: NEW HORIZONS】FINALLY\, A CHILL GAME\nhttps://www.youtube.com/watch?v=l11wF4CI4zo
+DURATION:PT2H
+DTSTART:20240423T050000Z
+SUMMARY:Jurard: 【ANIMAL CROSSING: NEW HORIZONS】FINALLY\, A CHILL GAME
+UID:l11wF4CI4zo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Safe or Not Safe? #shorts\nhttps://www.youtube.com/watch?v=xlL3xF3UmMk
+DURATION:PT2H
+DTSTART:20240420T230034Z
+SUMMARY:Shiori: Safe or Not Safe? #shorts
+UID:xlL3xF3UmMk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Absolute Fear -AOONI-】I'm blue da ba dee\nhttps://www.youtube.com/watch?v=23m_B84ayWY
@@ -466,11 +452,11 @@ SUMMARY:Shinri: 【Absolute Fear -AOONI-】I'm blue da ba dee
 UID:23m_B84ayWY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#5】 FINAL FANTASY VII REBIRTH するしゅばああああああああああああああああ！！！！！【ネタバレあり】\nhttps://www.youtube.com/watch?v=WcDs_RqcaaU
+DESCRIPTION:【誕生日＆新衣装】お披露目していくよ💙【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=JDeerZZBENg
 DURATION:PT2H
-DTSTART:20240420T040000Z
-SUMMARY:🚑大空スバル: 【#5】 FINAL FANTASY VII REBIRTH するしゅばああああああああああああああああ！！！！！【ネタバレあり】
-UID:WcDs_RqcaaU
+DTSTART:20240422T110000Z
+SUMMARY:💫天音かなた: 【誕生日＆新衣装】お披露目していくよ💙【天音かなた/ホロライブ】
+UID:JDeerZZBENg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Buckshot Roulette 】ギャンブラー沙花叉クロヱに勝てない勝負はない。【ホロライブ/沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=JM0zrYOM_IQ
@@ -508,6 +494,13 @@ SUMMARY:🍬姫森ルーナ: 【 LIVE A LIVE 】ライブアライブの世界�
 UID:oxi95MOTe-o
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【We Were Here Expeditions】This Will Go Well With @IRyS\nhttps://www.youtube.com/watch?v=_lnBDFRXbwg
+DURATION:PT2H
+DTSTART:20240421T030000Z
+SUMMARY:Kronii: 【We Were Here Expeditions】This Will Go Well With @IRyS
+UID:_lnBDFRXbwg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【VCR RUST】#9 思い出最終日、最後まで楽しむ男【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=RKPDprzPiWM
 DURATION:PT2H
 DTSTART:20240421T080000Z
@@ -515,18 +508,18 @@ SUMMARY:🍕アルランディス: 【VCR RUST】#9 思い出最終日、最後�
 UID:RKPDprzPiWM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【バニーガーデン】ホロライブのVtuberさん ついに一人の女性を幸せにしてしまう・・・【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=cOkZ_7ufLlI
+DESCRIPTION:【 L.A NOIRE 】When Will this End\, Part 3【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=Z49MgXgHHvA
 DURATION:PT2H
-DTSTART:20240420T120000Z
-SUMMARY:👯兎田ぺこら: 【バニーガーデン】ホロライブのVtuberさん ついに一人の女性を幸せにしてしまう・・・【ホロライブ/兎田ぺこら】※ネタバレあり
-UID:cOkZ_7ufLlI
+DTSTART:20240421T130000Z
+SUMMARY:🎨Iofi: 【 L.A NOIRE 】When Will this End\, Part 3【 iofi / hololiveID 】
+UID:Z49MgXgHHvA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Monster Hunter World: Iceborne】WE AT ICEBORNE\nhttps://www.youtube.com/watch?v=ZQkgm-59tzY
+DESCRIPTION:【#VCRRUST】楽しい9日間でした。本当にありがとうございました！Thank You for 9 Days of Fun!【hololive ID 2nd Gen | Anya Melfissa】\nhttps://www.youtube.com/watch?v=QNGnwMZUrcs
 DURATION:PT2H
-DTSTART:20240419T230000Z
-SUMMARY:Bijou: 【Monster Hunter World: Iceborne】WE AT ICEBORNE
-UID:ZQkgm-59tzY
+DTSTART:20240421T100000Z
+SUMMARY:Anya: 【#VCRRUST】楽しい9日間でした。本当にありがとうございました！Thank You for 9 Days of Fun!【hololive ID 2nd Gen | Anya Melfissa】
+UID:QNGnwMZUrcs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Stardew Valley】1.6 Update - finishing the Community Center! 🎼\nhttps://www.youtube.com/watch?v=7l5ePfQN7Gw
@@ -534,6 +527,13 @@ DURATION:PT2H
 DTSTART:20240420T180000Z
 SUMMARY:Nerissa: 【Stardew Valley】1.6 Update - finishing the Community Center! 🎼
 UID:7l5ePfQN7Gw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スパチャ読み】お待たせしました！スパチャ読みタイムです【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=ih7XJJm-mKg
+DURATION:PT2H
+DTSTART:20240421T113000Z
+SUMMARY:儒烏風亭らでん: 【スパチャ読み】お待たせしました！スパチャ読みタイムです【儒烏風亭らでん #ReGLOSS 】
+UID:ih7XJJm-mKg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ホロパレード】大型アップデート！！！ねぽらぼスカウトガチャ来た！！！【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=F2aYmqABH6E
@@ -550,557 +550,18 @@ SUMMARY:Ina: 【MONSTER HUNTER WORLD】 Long Live the Wiggler
 UID:GXV5Kwv8DJk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【あつまれどうぶつの森】＃3　ついに住人が増えます。【轟はじめ/ReGLOSS】#hololivedev_is\nhttps://www.youtube.com/watch?v=HD9sy5jsHSs
+DURATION:PT2H
+DTSTART:20240422T130000Z
+SUMMARY:轟はじめ: 【あつまれどうぶつの森】＃3　ついに住人が増えます。【轟はじめ/ReGLOSS】#hololivedev_is
+UID:HD9sy5jsHSs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 MHW Iceborne 】Not The 4K One【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=ao2-z8QeuWs
 DURATION:PT2H
 DTSTART:20240420T153000Z
 SUMMARY:🎨Iofi: 【 MHW Iceborne 】Not The 4K One【 iofi / hololiveID 】
 UID:ao2-z8QeuWs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VCR スト鯖RUSTⅡ】ミサイルサイロを落とせ。 / アステル\nhttps://www.youtube.com/watch?v=OjgGjWPNVMo
-DURATION:PT2H
-DTSTART:20240421T054500Z
-SUMMARY:🎭アステル・レダ: 【VCR スト鯖RUSTⅡ】ミサイルサイロを落とせ。 / アステル
-UID:OjgGjWPNVMo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【告知】刮目せよ👀holoX大集合！いったい何が始まるんだ！？重大な告知です！#SSholoX【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=leuMMzQtS1A
-DURATION:PT2H
-DTSTART:20240420T120000Z
-SUMMARY:風真いろは: 【告知】刮目せよ👀holoX大集合！いったい何が始まるんだ！？重大な告知です！#SSholoX【風真いろは/ホロライブ】
-UID:leuMMzQtS1A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【We Were Here Expeditions: The FriendShip】My Bonds with @OuroKronii  will be tested!\nhttps://www.youtube.com/watch?v=M9PoUf2Vuxg
-DURATION:PT2H
-DTSTART:20240421T030000Z
-SUMMARY:IRyS: 【We Were Here Expeditions: The FriendShip】My Bonds with @OuroKronii  will be tested!
-UID:M9PoUf2Vuxg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#１６】完全初見のペルソナ３リロード！！！【ネタバレあり】\nhttps://www.youtube.com/watch?v=uwCvOHmVQuU
-DURATION:PT2H
-DTSTART:20240420T040000Z
-SUMMARY:🌲大神ミオ: 【#１６】完全初見のペルソナ３リロード！！！【ネタバレあり】
-UID:uwCvOHmVQuU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【昼雑談】お昼休みに気軽に立ち寄れる雑談枠【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=vm4BfL5wLDw
-DURATION:PT2H
-DTSTART:20240422T030000Z
-SUMMARY:雪花ラミィ: 【昼雑談】お昼休みに気軽に立ち寄れる雑談枠【雪花ラミィ/ホロライブ】
-UID:vm4BfL5wLDw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#SorAZ #歌ってみた 最新曲配信中！#ときのそら #AZKi#六兆年と一夜物語 #kemu #IA#cover #ホロライブ #hololive #VTuber #hololiveclips\nhttps://www.youtube.com/watch?v=ExNnbcFBe1Q
-DURATION:PT2H
-DTSTART:20240421T030006Z
-SUMMARY:⚒AZKi: #SorAZ #歌ってみた 最新曲配信中！#ときのそら #AZKi#六兆年と一夜物語 #kemu #IA#cover #ホロライブ #hololive #VTuber #hololiveclips
-UID:ExNnbcFBe1Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アニメ】大怪獣バトル！フブラvsハトタウロス\nhttps://www.youtube.com/watch?v=5WWXbQhPoig
-DURATION:PT2H
-DTSTART:20240421T090005Z
-SUMMARY:ホロライブ: 【アニメ】大怪獣バトル！フブラvsハトタウロス
-UID:5WWXbQhPoig
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【GOOSE GOOSE DUCK】 Making Strangers Hate Me 8w8\nhttps://www.youtube.com/watch?v=5FY1buyOIAM
-DURATION:PT2H
-DTSTART:20240420T180000Z
-SUMMARY:Crimzon: 【GOOSE GOOSE DUCK】 Making Strangers Hate Me 8w8
-UID:5FY1buyOIAM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【同時視聴】ハリー・ポッターとアズカバンの囚人｜Harry Potter and the Prisoner of Azkaban!!\nhttps://www.youtube.com/watch?v=UcySVDs28G8
-DURATION:PT2H
-DTSTART:20240420T070000Z
-SUMMARY:❤赤井はあと: 【同時視聴】ハリー・ポッターとアズカバンの囚人｜Harry Potter and the Prisoner of Azkaban!!
-UID:UcySVDs28G8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マジカル★ポーション工房】ししろんのお薬工場【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=LK1m-AfCC3k
-DURATION:PT2H
-DTSTART:20240420T110000Z
-SUMMARY:獅白ぼたん: 【マジカル★ポーション工房】ししろんのお薬工場【獅白ぼたん/ホロライブ】
-UID:LK1m-AfCC3k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#29【RiTunes Labo】#vtuber歌唱王 出場者７人目 生セッション歌枠：ゲスト『鷹嶺ルイ』【律可/ホロスターズ 】#りちゅらぼ\nhttps://www.youtube.com/watch?v=sd6e141vnyA
-DURATION:PT2H
-DTSTART:20240421T110000Z
-SUMMARY:⚙律可: #29【RiTunes Labo】#vtuber歌唱王 出場者７人目 生セッション歌枠：ゲスト『鷹嶺ルイ』【律可/ホロスターズ 】#りちゅらぼ
-UID:sd6e141vnyA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【T2 Membership】MORE JURASSIC TIME BABY\, LET'S WATCH JURASSIC PARK 2 & 3 !!!\nhttps://www.youtube.com/watch?v=0um5kKxPWV4
-DURATION:PT2H
-DTSTART:20240420T001500Z
-SUMMARY:Hakka: 【T2 Membership】MORE JURASSIC TIME BABY\, LET'S WATCH JURASSIC PARK 2 & 3 !!!
-UID:0um5kKxPWV4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CORPSE PARTY】CH. 2 | You Aren't Attached To Anyone\, Right? :) | CONTENT WARNING\nhttps://www.youtube.com/watch?v=vl9z_PZHrIA
-DURATION:PT2H
-DTSTART:20240420T000000Z
-SUMMARY:Flayon: 【CORPSE PARTY】CH. 2 | You Aren't Attached To Anyone\, Right? :) | CONTENT WARNING
-UID:vl9z_PZHrIA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪ VCR RUST ≫ LAST DAY. ALL IN. #5\nhttps://www.youtube.com/watch?v=WxN6zpr9ajg
-DURATION:PT2H
-DTSTART:20240421T090000Z
-SUMMARY:Baelz: ≪ VCR RUST ≫ LAST DAY. ALL IN. #5
-UID:WxN6zpr9ajg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【誕生日振り返り】うううううううううううう【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=NJcnfGNuS_c
-DURATION:PT2H
-DTSTART:20240421T030000Z
-SUMMARY:音乃瀬奏: 【誕生日振り返り】うううううううううううう【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
-UID:NJcnfGNuS_c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 VCRRUST 】最高の思い出を作りに行くイラスト屋の限界RUST最終日【#緋崎ガンマ / #ホロスターズ / #vtuber】\nhttps://www.youtube.com/watch?v=KTyeOd4nm6w
-DURATION:PT2H
-DTSTART:20240421T110000Z
-SUMMARY:緋崎ガンマ: 【 VCRRUST 】最高の思い出を作りに行くイラスト屋の限界RUST最終日【#緋崎ガンマ / #ホロスターズ / #vtuber】
-UID:KTyeOd4nm6w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【なんじゃこりゃ！？！？】無駄が多すぎるＲＰＧ【#一条莉々華  / ホロライブ】\nhttps://www.youtube.com/watch?v=ZJeefTn0SR4
-DURATION:PT2H
-DTSTART:20240420T040000Z
-SUMMARY:一条莉々華: 【なんじゃこりゃ！？！？】無駄が多すぎるＲＰＧ【#一条莉々華  / ホロライブ】
-UID:ZJeefTn0SR4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活雑談】(アーカイブはメン限)病み上がりのさんでーまっする…🤧💦【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=8XhK2LUql9Q
-DURATION:PT2H
-DTSTART:20240421T010000Z
-SUMMARY:⚔白銀ノエル: 【朝活雑談】(アーカイブはメン限)病み上がりのさんでーまっする…🤧💦【白銀ノエル/ホロライブ】
-UID:8XhK2LUql9Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3】春フェス！「こうさぎ」陣営後半もがんばるぞ！🔥💎【不知火フレア/IRyS/ホロライブ】\nhttps://www.youtube.com/watch?v=vos0vema2wo
-DURATION:PT2H
-DTSTART:20240421T130000Z
-SUMMARY:🔥不知火フレア: 【スプラトゥーン3】春フェス！「こうさぎ」陣営後半もがんばるぞ！🔥💎【不知火フレア/IRyS/ホロライブ】
-UID:vos0vema2wo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VCR RUST】#8 そろそろ終わりというわけさ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=WRKW-saitlM
-DURATION:PT2H
-DTSTART:20240420T101500Z
-SUMMARY:🍕アルランディス: 【VCR RUST】#8 そろそろ終わりというわけさ【アルランディス/ホロスターズ】
-UID:WRKW-saitlM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:さくらんぼ - 尾丸ポルカ(cover)\nhttps://www.youtube.com/watch?v=6PSNhtD5Daw
-DURATION:PT2H
-DTSTART:20240421T110000Z
-SUMMARY:尾丸ポルカ: さくらんぼ - 尾丸ポルカ(cover)
-UID:6PSNhtD5Daw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スパチャ読み雑談】するぞい！！！大変大変お待たせしました( இωஇ )【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=6STKJgjxR7o
-DURATION:PT2H
-DTSTART:20240421T040000Z
-SUMMARY:💫天音かなた: 【スパチャ読み雑談】するぞい！！！大変大変お待たせしました( இωஇ )【天音かなた/ホロライブ】
-UID:6STKJgjxR7o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#音乃瀬奏誕生祭2024】誕生日だからいっぱい祝ってもらいたいな！🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=Ewu6uuvSx7w
-DURATION:PT2H
-DTSTART:20240420T100000Z
-SUMMARY:音乃瀬奏: 【#音乃瀬奏誕生祭2024】誕生日だからいっぱい祝ってもらいたいな！🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
-UID:Ewu6uuvSx7w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FREE TALK】no game tonight【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=6edQ19mDt3Q
-DURATION:PT2H
-DTSTART:20240421T132000Z
-SUMMARY:Kaela: 【FREE TALK】no game tonight【Kaela Kovalskia / hololiveID】
-UID:6edQ19mDt3Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【メン限/MemberOnly】「hololive 5th fes. Capture the Moment stage3」同時視聴【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=dmbUgHEhazs
-DURATION:PT2H
-DTSTART:20240420T130000Z
-SUMMARY:⚒AZKi: 【メン限/MemberOnly】「hololive 5th fes. Capture the Moment stage3」同時視聴【ホロライブ / AZKi】
-UID:dmbUgHEhazs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】餃子作りながら雑談するよ!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=KtT0PPiA_gE
-DURATION:PT2H
-DTSTART:20240420T043000Z
-SUMMARY:🌺花咲みやび: 【雑談】餃子作りながら雑談するよ!!【花咲みやび/ホロスターズ】
-UID:KtT0PPiA_gE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:未確認生命物体？ #かなたそちゃん 「たそでーないと 」乗っ取る・\nhttps://www.youtube.com/watch?v=-2-0WkAD3iY
-DURATION:PT2H
-DTSTART:20240420T090000Z
-SUMMARY:💫天音かなた: 未確認生命物体？ #かなたそちゃん 「たそでーないと 」乗っ取る・
-UID:-2-0WkAD3iY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VCR RUSTⅡ】音楽部　8日目【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=rvW58ps4Pk0
-DURATION:PT2H
-DTSTART:20240420T074000Z
-SUMMARY:🍷夕刻ロベル: 【VCR RUSTⅡ】音楽部　8日目【夕刻ロベル/ホロスターズ】
-UID:rvW58ps4Pk0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Days With Ollie】BERI RATING GAME TEMEN AKU GUYS!!!!! DAPET ENDING APA KITA YA????\nhttps://www.youtube.com/watch?v=63HnS2FuUgg
-DURATION:PT2H
-DTSTART:20240422T130000Z
-SUMMARY:Kobo: 【Days With Ollie】BERI RATING GAME TEMEN AKU GUYS!!!!! DAPET ENDING APA KITA YA????
-UID:63HnS2FuUgg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【新衣装お披露目今日！】キラッキラなオリ曲🎠🎡屋根裏のエピローグ #vtuber #hololive #ホロライブ\nhttps://www.youtube.com/watch?v=FSyyArLFzOU
-DURATION:PT2H
-DTSTART:20240421T000818Z
-SUMMARY:尾丸ポルカ: 【新衣装お披露目今日！】キラッキラなオリ曲🎠🎡屋根裏のエピローグ #vtuber #hololive #ホロライブ
-UID:FSyyArLFzOU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:企画で余った弁当で元を取ろうとする尾丸ポルカ　#ポルカの伝説 #尾丸ポルカ\nhttps://www.youtube.com/watch?v=MJyEjMLgWaI
-DURATION:PT2H
-DTSTART:20240420T090016Z
-SUMMARY:尾丸ポルカ: 企画で余った弁当で元を取ろうとする尾丸ポルカ　#ポルカの伝説 #尾丸ポルカ
-UID:MJyEjMLgWaI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【縦雑談】校舎裏しゅーごー雑談【轟はじめ/ReGLOSS】 #shorts\nhttps://www.youtube.com/watch?v=-bSppZ1luWM
-DURATION:PT2H
-DTSTART:20240421T090007Z
-SUMMARY:轟はじめ: 【縦雑談】校舎裏しゅーごー雑談【轟はじめ/ReGLOSS】 #shorts
-UID:-bSppZ1luWM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 歌枠 】#vtuber歌唱王 に出場します‼【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=FwCIXm9cjG8
-DURATION:PT2H
-DTSTART:20240421T140000Z
-SUMMARY:鷹嶺ルイ: 【 歌枠 】#vtuber歌唱王 に出場します‼【鷹嶺ルイ/ホロライブ】
-UID:FwCIXm9cjG8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3】春フェス！「こうさぎ」陣営がんばるぞい🔥🏴‍☠️💎【不知火フレア/宝鐘マリン/IRyS/ホロライブ】\nhttps://www.youtube.com/watch?v=V4cp52tGyhA
-DURATION:PT2H
-DTSTART:20240420T130000Z
-SUMMARY:🔥不知火フレア: 【スプラトゥーン3】春フェス！「こうさぎ」陣営がんばるぞい🔥🏴‍☠️💎【不知火フレア/宝鐘マリン/IRyS/ホロライブ】
-UID:V4cp52tGyhA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUZADER REVEAL】 At Long Last\nhttps://www.youtube.com/watch?v=oyHe5z53i5s
-DURATION:PT2H
-DTSTART:20240420T020000Z
-SUMMARY:Crimzon: 【RUZADER REVEAL】 At Long Last
-UID:oyHe5z53i5s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 新幹線0号 | ホラゲ 】新幹線より飛行機派が通りますよっと！なのら！🚄【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=xM8hLdpnoP4
-DURATION:PT2H
-DTSTART:20240419T150000Z
-SUMMARY:🍬姫森ルーナ: 【 新幹線0号 | ホラゲ 】新幹線より飛行機派が通りますよっと！なのら！🚄【姫森ルーナ/ホロライブ】
-UID:xM8hLdpnoP4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 MHW Iceborne 】Fatalis\, MR 100 and That's Waiting Beyond【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=XhxP2VdkcuI
-DURATION:PT2H
-DTSTART:20240420T130000Z
-SUMMARY:🎨Iofi: 【 MHW Iceborne 】Fatalis\, MR 100 and That's Waiting Beyond【 iofi / hololiveID 】
-UID:XhxP2VdkcuI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RING FIT ADVENTURE】JURARD'S TRAINING ARC\nhttps://www.youtube.com/watch?v=IHgPTQjVWHc
-DURATION:PT2H
-DTSTART:20240420T050000Z
-SUMMARY:Jurard: 【RING FIT ADVENTURE】JURARD'S TRAINING ARC
-UID:IHgPTQjVWHc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:POKÉDANCE踊ってみた！！！！！！！！【hololive/兎田ぺこら】#ポケダンス #shorts\nhttps://www.youtube.com/watch?v=oYo0BfrVUUE
-DURATION:PT2H
-DTSTART:20240421T090037Z
-SUMMARY:👯兎田ぺこら: POKÉDANCE踊ってみた！！！！！！！！【hololive/兎田ぺこら】#ポケダンス #shorts
-UID:oYo0BfrVUUE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Chillquarium】Chill\, Fish\, and Talk【Ayunda Risu】\nhttps://www.youtube.com/watch?v=7-sWp8MkyfQ
-DURATION:PT2H
-DTSTART:20240421T040000Z
-SUMMARY:🐿Risu: 【Chillquarium】Chill\, Fish\, and Talk【Ayunda Risu】
-UID:7-sWp8MkyfQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪ VCR RUST ≫ GAMBLE....IKU?!?! #4\nhttps://www.youtube.com/watch?v=53CE8z1LdtI
-DURATION:PT2H
-DTSTART:20240420T120000Z
-SUMMARY:Baelz: ≪ VCR RUST ≫ GAMBLE....IKU?!?! #4
-UID:53CE8z1LdtI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:オリ曲[屋根裏のエピローグ]30万再生ありがとう🎪キラキラ可愛いバラード♥️ #vtuber #尾丸ポルカ\nhttps://www.youtube.com/watch?v=SwWjpX9CuM4
-DURATION:PT2H
-DTSTART:20240420T075936Z
-SUMMARY:尾丸ポルカ: オリ曲[屋根裏のエピローグ]30万再生ありがとう🎪キラキラ可愛いバラード♥️ #vtuber #尾丸ポルカ
-UID:SwWjpX9CuM4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Content Warning】First Time Playing with holoID ~!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=3iujSy0Mhyw
-DURATION:PT2H
-DTSTART:20240420T080000Z
-SUMMARY:🐿Risu: 【Content Warning】First Time Playing with holoID ~!【Ayunda Risu】
-UID:3iujSy0Mhyw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Buckshot Roulette 】ギャンブル・・・？まかせろり！！！！！！！！！！【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=InUD2W4pAfQ
-DURATION:PT2H
-DTSTART:20240420T140000Z
-SUMMARY:鷹嶺ルイ: 【 Buckshot Roulette 】ギャンブル・・・？まかせろり！！！！！！！！！！【鷹嶺ルイ/ホロライブ】
-UID:InUD2W4pAfQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:フブわた沖縄旅！前編【角巻わためのHave a nice day】#はばない\nhttps://www.youtube.com/watch?v=6tpV1peCNr8
-DURATION:PT2H
-DTSTART:20240420T100000Z
-SUMMARY:🐏角巻わため: フブわた沖縄旅！前編【角巻わためのHave a nice day】#はばない
-UID:6tpV1peCNr8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【晩酌】雪夜月×美味しいおつまみで乾杯！新情報も…！？【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=ckKq4mV93wI
-DURATION:PT2H
-DTSTART:20240421T110000Z
-SUMMARY:雪花ラミィ: 【晩酌】雪夜月×美味しいおつまみで乾杯！新情報も…！？【雪花ラミィ/ホロライブ】
-UID:ckKq4mV93wI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:声真似出来てる？【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=QtrDHbVd4f4
-DURATION:PT2H
-DTSTART:20240420T210019Z
-SUMMARY:🐏角巻わため: 声真似出来てる？【 #今日のわため 】 #shorts #hololive #vtuber
-UID:QtrDHbVd4f4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#VCRRUST】今日はどこ行くのかなー♪ Where to Go Today?【hololive ID 2nd Gen | Anya Melfissa】\nhttps://www.youtube.com/watch?v=EDKLocL5As0
-DURATION:PT2H
-DTSTART:20240420T140000Z
-SUMMARY:Anya: 【#VCRRUST】今日はどこ行くのかなー♪ Where to Go Today?【hololive ID 2nd Gen | Anya Melfissa】
-UID:EDKLocL5As0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ドラクエⅦ 】完全初見。毎回情緒がおかしくなってしまうかもしれない冒険です。【鷹嶺ルイ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=nNAT2Ni2eZE
-DURATION:PT2H
-DTSTART:20240420T030000Z
-SUMMARY:鷹嶺ルイ: 【 ドラクエⅦ 】完全初見。毎回情緒がおかしくなってしまうかもしれない冒険です。【鷹嶺ルイ/ホロライブ】※ネタバレあり
-UID:nNAT2Ni2eZE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 VCR RUST 】エンド　オブ　ザ　ワルド　#8 (FINALE)\nhttps://www.youtube.com/watch?v=4EMXdKuZnjk
-DURATION:PT2H
-DTSTART:20240421T085804Z
-SUMMARY:Calli: 【 VCR RUST 】エンド　オブ　ザ　ワルド　#8 (FINALE)
-UID:4EMXdKuZnjk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Like a Dragon: Infinite Wealth】SEMIFINALE OK I HOPE YOU ARE SATISFIED  #kfp (spoiler warning)\nhttps://www.youtube.com/watch?v=Xj_KS7M9cGY
-DURATION:PT2H
-DTSTART:20240421T140000Z
-SUMMARY:Kiara: 【Like a Dragon: Infinite Wealth】SEMIFINALE OK I HOPE YOU ARE SATISFIED  #kfp (spoiler warning)
-UID:Xj_KS7M9cGY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MONSTER HUNTER WORLD】 One More...\nhttps://www.youtube.com/watch?v=5DFBbNZNqfs
-DURATION:PT2H
-DTSTART:20240419T210000Z
-SUMMARY:Ina: 【MONSTER HUNTER WORLD】 One More...
-UID:5DFBbNZNqfs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 龍が如く極 】#08 シリーズ完全初見🔥 サブクエ編 Ι YAKUZA KIWAMI【 猫又おかゆ/ホロライブ 】※ネタバレあり\nhttps://www.youtube.com/watch?v=JCfBFoz8Mw4
-DURATION:PT2H
-DTSTART:20240421T060000Z
-SUMMARY:🍙猫又おかゆ: 【 龍が如く極 】#08 シリーズ完全初見🔥 サブクエ編 Ι YAKUZA KIWAMI【 猫又おかゆ/ホロライブ 】※ネタバレあり
-UID:JCfBFoz8Mw4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ASMR/MemberOnly】お披露目のあと、さっそくお着替えしてささやく【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=jQpvjv39SDQ
-DURATION:PT2H
-DTSTART:20240421T130000Z
-SUMMARY:尾丸ポルカ: 【ASMR/MemberOnly】お披露目のあと、さっそくお着替えしてささやく【尾丸ポルカ/ホロライブ】
-UID:jQpvjv39SDQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MEMBERS】 Pluto Watchalong - Ep 4 - 8\nhttps://www.youtube.com/watch?v=DcvPRE7YkLQ
-DURATION:PT2H
-DTSTART:20240420T190000Z
-SUMMARY:Ina: 【MEMBERS】 Pluto Watchalong - Ep 4 - 8
-UID:DcvPRE7YkLQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【GOOSE GOOSE DUCK】NEW PEOPLE. NEW BODY PARTS.\nhttps://www.youtube.com/watch?v=OpZnzaB2TFE
-DURATION:PT2H
-DTSTART:20240420T180000Z
-SUMMARY:Octavio: 【GOOSE GOOSE DUCK】NEW PEOPLE. NEW BODY PARTS.
-UID:OpZnzaB2TFE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 カービィボウル 】最終回！ピンクの丸いものをクリアまで転がすのら～！～レトロゲーム  ＃２【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=UzH8bRlFJc4
-DURATION:PT2H
-DTSTART:20240420T080000Z
-SUMMARY:🍬姫森ルーナ: 【 カービィボウル 】最終回！ピンクの丸いものをクリアまで転がすのら～！～レトロゲーム  ＃２【姫森ルーナ/ホロライブ】
-UID:UzH8bRlFJc4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【WOWOWOW KORONE BOX】now we try this yeay!【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=NnvUL_szAI0
-DURATION:PT2H
-DTSTART:20240420T130000Z
-SUMMARY:Kaela: 【WOWOWOW KORONE BOX】now we try this yeay!【Kaela Kovalskia / hololiveID】
-UID:NnvUL_szAI0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【バニーガーデン】ネタバレあり　常連二日目【荒咬オウガ 花咲みやび　ホロスターズ】\nhttps://www.youtube.com/watch?v=Ri45lxyNquI
-DURATION:PT2H
-DTSTART:20240421T120000Z
-SUMMARY:荒咬オウガ: 【バニーガーデン】ネタバレあり　常連二日目【荒咬オウガ 花咲みやび　ホロスターズ】
-UID:Ri45lxyNquI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Membership!】Horror Movie Double Feature!\nhttps://www.youtube.com/watch?v=gJcqZm5qslI
-DURATION:PT2H
-DTSTART:20240420T010000Z
-SUMMARY:Shinri: 【Membership!】Horror Movie Double Feature!
-UID:gJcqZm5qslI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Content Warning】Oh Shoot\, This VOD's in Danger...【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=wz3T8tzYAoY
-DURATION:PT2H
-DTSTART:20240420T080000Z
-SUMMARY:Anya: 【Content Warning】Oh Shoot\, This VOD's in Danger...【hololive ID 2nd Generation | Anya Melfissa】
-UID:wz3T8tzYAoY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Mother Simulator】I'm your mommy now 🎼\nhttps://www.youtube.com/watch?v=RYFD9OpLyMg
-DURATION:PT2H
-DTSTART:20240420T000000Z
-SUMMARY:Nerissa: 【Mother Simulator】I'm your mommy now 🎼
-UID:RYFD9OpLyMg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Tortured Poppets Department【OcTalks with Octavio】#13\nhttps://www.youtube.com/watch?v=IXEIOtDsYMo
-DURATION:PT2H
-DTSTART:20240421T090000Z
-SUMMARY:Octavio: The Tortured Poppets Department【OcTalks with Octavio】#13
-UID:IXEIOtDsYMo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 VCR RUST 】日本語　イズ　むずかしい！！　#6\nhttps://www.youtube.com/watch?v=nsUfnrzFsic
-DURATION:PT2H
-DTSTART:20240419T150154Z
-SUMMARY:Calli: 【 VCR RUST 】日本語　イズ　むずかしい！！　#6
-UID:nsUfnrzFsic
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Safe or Not Safe? #shorts\nhttps://www.youtube.com/watch?v=xlL3xF3UmMk
-DURATION:PT2H
-DTSTART:20240420T230034Z
-SUMMARY:Shiori: Safe or Not Safe? #shorts
-UID:xlL3xF3UmMk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Cover】(Not) A Devil / デビルじゃないもん - Ouro Kronii & IRyS\nhttps://www.youtube.com/watch?v=ypA_XpQWSn0
-DURATION:PT2H
-DTSTART:20240420T013000Z
-SUMMARY:Kronii: 【Cover】(Not) A Devil / デビルじゃないもん - Ouro Kronii & IRyS
-UID:ypA_XpQWSn0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【モンスターハンター：ワールド】モンハン生活10日目！ゴリレバの絆！！【#ゴリレバ/ホロライブ】\nhttps://www.youtube.com/watch?v=oNLrebahWH8
-DURATION:PT2H
-DTSTART:20240420T100000Z
-SUMMARY:雪花ラミィ: 【モンスターハンター：ワールド】モンハン生活10日目！ゴリレバの絆！！【#ゴリレバ/ホロライブ】
-UID:oNLrebahWH8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:I'M GOING TO MOOMIN VALLEY !!!  R U COMING??\nhttps://www.youtube.com/watch?v=Mn8upMs8A0g
-DURATION:PT2H
-DTSTART:20240420T140000Z
-SUMMARY:Zeta: I'M GOING TO MOOMIN VALLEY !!!  R U COMING??
-UID:Mn8upMs8A0g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 エアホッケー 】超鬼畜などうぶつと戦うエアホッケーで勝つにぇ゛！！！！！！！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=B1Vd8HA5JZ0
-DURATION:PT2H
-DTSTART:20240420T110000Z
-SUMMARY:🌸さくらみこ: 【 エアホッケー 】超鬼畜などうぶつと戦うエアホッケーで勝つにぇ゛！！！！！！！！！！【ホロライブ/さくらみこ】
-UID:B1Vd8HA5JZ0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 VCR RUSTⅡ 】 まったりファーム生活！！#９  【#vcrrust  / 羽継烏有 / vtuber / ホロスターズ 】\nhttps://www.youtube.com/watch?v=0WegsMo_9yY
-DURATION:PT2H
-DTSTART:20240420T065500Z
-SUMMARY:羽継烏有: 【 VCR RUSTⅡ 】 まったりファーム生活！！#９  【#vcrrust  / 羽継烏有 / vtuber / ホロスターズ 】
-UID:0WegsMo_9yY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:オリ曲[エヴァーブルー]80万再生𝑻𝒉𝒂𝒏𝒌𝒔 #vtuber #尾丸ポルカ\nhttps://www.youtube.com/watch?v=ScsSXiFpKNM
-DURATION:PT2H
-DTSTART:20240420T075406Z
-SUMMARY:尾丸ポルカ: オリ曲[エヴァーブルー]80万再生𝑻𝒉𝒂𝒏𝒌𝒔 #vtuber #尾丸ポルカ
-UID:ScsSXiFpKNM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【VCR RUSTⅡ】スト鯖RUST初参戦！限界RUST組でエンジョイ！！-8.5日目-【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=jQcj3ffFXlk
-DURATION:PT2H
-DTSTART:20240420T130000Z
-SUMMARY:🍎アキロゼ: 【VCR RUSTⅡ】スト鯖RUST初参戦！限界RUST組でエンジョイ！！-8.5日目-【アキ・ローゼンタール/ホロライブ】
-UID:jQcj3ffFXlk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【We Were Here Expeditions】This Will Go Well With @IRyS\nhttps://www.youtube.com/watch?v=_lnBDFRXbwg
-DURATION:PT2H
-DTSTART:20240421T030000Z
-SUMMARY:Kronii: 【We Were Here Expeditions】This Will Go Well With @IRyS
-UID:_lnBDFRXbwg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 L.A NOIRE 】When Will this End\, Part 3【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=Z49MgXgHHvA
-DURATION:PT2H
-DTSTART:20240421T130000Z
-SUMMARY:🎨Iofi: 【 L.A NOIRE 】When Will this End\, Part 3【 iofi / hololiveID 】
-UID:Z49MgXgHHvA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Buckshot Roulette】おにーさんはなに賭けてくれるの？♡【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=beExkAryQko
-DURATION:PT2H
-DTSTART:20240419T150000Z
-SUMMARY:🏮夏色まつり: 【Buckshot Roulette】おにーさんはなに賭けてくれるの？♡【ホロライブ/夏色まつり】
-UID:beExkAryQko
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#VCRRUST】楽しい9日間でした。本当にありがとうございました！Thank You for 9 Days of Fun!【hololive ID 2nd Gen | Anya Melfissa】\nhttps://www.youtube.com/watch?v=QNGnwMZUrcs
-DURATION:PT2H
-DTSTART:20240421T100000Z
-SUMMARY:Anya: 【#VCRRUST】楽しい9日間でした。本当にありがとうございました！Thank You for 9 Days of Fun!【hololive ID 2nd Gen | Anya Melfissa】
-UID:QNGnwMZUrcs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 VCRRUST 】ラストスパート修羅場イラスト屋の限界RUST7日目【#緋崎ガンマ / #ホロスターズ / #vtuber】\nhttps://www.youtube.com/watch?v=JeEBBNu9ELM
-DURATION:PT2H
-DTSTART:20240420T093000Z
-SUMMARY:緋崎ガンマ: 【 VCRRUST 】ラストスパート修羅場イラスト屋の限界RUST7日目【#緋崎ガンマ / #ホロスターズ / #vtuber】
-UID:JeEBBNu9ELM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スパチャ読み】お待たせしました！スパチャ読みタイムです【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=ih7XJJm-mKg
-DURATION:PT2H
-DTSTART:20240421T113000Z
-SUMMARY:儒烏風亭らでん: 【スパチャ読み】お待たせしました！スパチャ読みタイムです【儒烏風亭らでん #ReGLOSS 】
-UID:ih7XJJm-mKg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【BATTLE PLAN UPDATE】emergency meeting (don't worry!) 🐾【MEMBERS ONLY】\nhttps://www.youtube.com/watch?v=7AwGGP4oNOw
@@ -1117,11 +578,11 @@ SUMMARY:Hakka: 🎉🎂【#HAKKABIRBDAY2024】LET'S GET FUNKY HAKKITOS!【UNARCH
 UID:LYMMb3fzFsA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【3D】Bling-Bang-Bang-Born飼い猫と一緒に踊ってみた💃🎶 #shorts 【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=xoUhr66R9jU
+DESCRIPTION:【VCR スト鯖RUSTⅡ】ミサイルサイロを落とせ。 / アステル\nhttps://www.youtube.com/watch?v=OjgGjWPNVMo
 DURATION:PT2H
-DTSTART:20240420T110100Z
-SUMMARY:博衣こより: 【3D】Bling-Bang-Bang-Born飼い猫と一緒に踊ってみた💃🎶 #shorts 【博衣こより/ホロライブ】
-UID:xoUhr66R9jU
+DTSTART:20240421T054500Z
+SUMMARY:🎭アステル・レダ: 【VCR スト鯖RUSTⅡ】ミサイルサイロを落とせ。 / アステル
+UID:OjgGjWPNVMo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Goose Goose Duck】THE GOOSE IS LOOSE\nhttps://www.youtube.com/watch?v=5edk9B2u0qM
@@ -1136,13 +597,6 @@ DURATION:PT2H
 DTSTART:20240421T143000Z
 SUMMARY:💫天音かなた: 【MemberOnly】💓4/22 誕生日前カウントダウン💓【天音かなた/ホロライブ】
 UID:jzK0_ripeKI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:I'm Not Potty-Trained. I'll Mark Your Home.【DoronkoWanko】\nhttps://www.youtube.com/watch?v=VUGKlaBmmDg
-DURATION:PT2H
-DTSTART:20240420T020000Z
-SUMMARY:Shiori: I'm Not Potty-Trained. I'll Mark Your Home.【DoronkoWanko】
-UID:VUGKlaBmmDg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【VCR RUSTⅡ】スト鯖RUST初参戦！チーム「限界コントRUST」最終日いくぞー！-9日目-【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=bII7Dwn1f-s
