@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Days With Ollie】BERI RATING GAME TEMEN AKU GUYS!!!!! DAPET ENDING APA KITA YA????\nhttps://www.youtube.com/watch?v=63HnS2FuUgg
-DURATION:PT2H
-DTSTART:20240422T130000Z
-SUMMARY:Kobo: 【Days With Ollie】BERI RATING GAME TEMEN AKU GUYS!!!!! DAPET ENDING APA KITA YA????
-UID:63HnS2FuUgg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Lapidary】i want to make my own amethyst!【holoID】\nhttps://www.youtube.com/watch?v=bWXEu7KurtE
-DURATION:PT2H
-DTSTART:20240423T030000Z
-SUMMARY:🔮Moona: 【Lapidary】i want to make my own amethyst!【holoID】
-UID:bWXEu7KurtE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ioSalon】Returning Customer After 2 Years【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=SXrNG7mb3Fc
 DURATION:PT2H
 DTSTART:20240422T130000Z
@@ -46,10 +32,31 @@ SUMMARY:Anya: 【Lethal Company #ふれあいんなにゃ】今   日   も   �
 UID:WFPQaL7tM4E
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Days With Ollie】Spending My Days With the Super Kawaii Zombie Idol!【hololive ID | Anya Melfissa】\nhttps://www.youtube.com/watch?v=m97kzA4CbnQ
+DURATION:PT2H
+DTSTART:20240423T060000Z
+SUMMARY:Anya: 【Days With Ollie】Spending My Days With the Super Kawaii Zombie Idol!【hololive ID | Anya Melfissa】
+UID:m97kzA4CbnQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【COUNTDOWN】"DAYS WITH OLLIE" SOON!!【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=39etVah9_XQ
 DURATION:PT2H
 DTSTART:20240422T030113Z
 SUMMARY:Ollie: 【COUNTDOWN】"DAYS WITH OLLIE" SOON!!【Kureiji Ollie】
 UID:39etVah9_XQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Days With Ollie】BERI RATING GAME TEMEN AKU GUYS!!!!! DAPET ENDING APA KITA YA????\nhttps://www.youtube.com/watch?v=63HnS2FuUgg
+DURATION:PT2H
+DTSTART:20240422T130000Z
+SUMMARY:Kobo: 【Days With Ollie】BERI RATING GAME TEMEN AKU GUYS!!!!! DAPET ENDING APA KITA YA????
+UID:63HnS2FuUgg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Lapidary】i want to make my own amethyst!【holoID】\nhttps://www.youtube.com/watch?v=bWXEu7KurtE
+DURATION:PT2H
+DTSTART:20240423T030000Z
+SUMMARY:🔮Moona: 【Lapidary】i want to make my own amethyst!【holoID】
+UID:bWXEu7KurtE
 END:VEVENT
 END:VCALENDAR
