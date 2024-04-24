@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【OHAPOL】朝活！ホロメンの起床と就寝の狭間【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=1VOkRbBfpTk
+DURATION:PT2H
+DTSTART:20240424T210000Z
+SUMMARY:尾丸ポルカ: 【OHAPOL】朝活！ホロメンの起床と就寝の狭間【尾丸ポルカ/ホロライブ】
+UID:1VOkRbBfpTk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 バニーガーデン 】パンティ3回見えたら即終了。僕はご褒美ASMRをGETするため誘惑に負けない。【鷹嶺ルイ/ホロライブ】 ※ネタバレあり\nhttps://www.youtube.com/watch?v=mQTcsqHQnec
 DURATION:PT2H
 DTSTART:20240424T100000Z
@@ -205,5 +212,12 @@ DURATION:PT2H
 DTSTART:20240423T210021Z
 SUMMARY:🐏角巻わため: エアギターいくぜぇー！！【 #今日のわため 】 #shorts #hololive #vtuber
 UID:bSUIRI9vNog
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:当たると危ないよー？！【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=-Oltq3CI5F0
+DURATION:PT2H
+DTSTART:20240424T210000Z
+SUMMARY:🐏角巻わため: 当たると危ないよー？！【 #今日のわため 】 #shorts #hololive #vtuber
+UID:-Oltq3CI5F0
 END:VEVENT
 END:VCALENDAR
