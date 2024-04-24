@@ -4,25 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【モンハンワールド】初めてのモンハンワールド！！武器選び楽しすぎるううううう【#一条莉々華  / ホロライブ】\nhttps://www.youtube.com/watch?v=D9ls324Tfac
+DESCRIPTION:【バニーガーデン】どうぶつにいじめられたので癒されに来ました【轟はじめ/ReGLOSS】#hololivedev_is　※ネタバレあり\nhttps://www.youtube.com/watch?v=P-xAdx_2w1g
 DURATION:PT2H
-DTSTART:20240423T090000Z
-SUMMARY:一条莉々華: 【モンハンワールド】初めてのモンハンワールド！！武器選び楽しすぎるううううう【#一条莉々華  / ホロライブ】
-UID:D9ls324Tfac
+DTSTART:20240424T120000Z
+SUMMARY:轟はじめ: 【バニーガーデン】どうぶつにいじめられたので癒されに来ました【轟はじめ/ReGLOSS】#hololivedev_is　※ネタバレあり
+UID:P-xAdx_2w1g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【バニーガーデン】はじおじ、通うよ【轟はじめ/ReGLOSS】#hololivedev_is　※ネタバレあり\nhttps://www.youtube.com/watch?v=Yre8oWgVX0o
+DESCRIPTION:【エアホッケー】キレたら即終了【轟はじめ/ReGLOSS】#hololivedev_is\nhttps://www.youtube.com/watch?v=XzF8T2iRHw8
 DURATION:PT2H
-DTSTART:20240423T110000Z
-SUMMARY:轟はじめ: 【バニーガーデン】はじおじ、通うよ【轟はじめ/ReGLOSS】#hololivedev_is　※ネタバレあり
-UID:Yre8oWgVX0o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:円周率言えるとこまで言ってみた【轟はじめ/#ReGLOSS】#hololivedev_is\nhttps://www.youtube.com/watch?v=TjeAasxI27s
-DURATION:PT2H
-DTSTART:20240424T080012Z
-SUMMARY:轟はじめ: 円周率言えるとこまで言ってみた【轟はじめ/#ReGLOSS】#hololivedev_is
-UID:TjeAasxI27s
+DTSTART:20240424T110000Z
+SUMMARY:轟はじめ: 【エアホッケー】キレたら即終了【轟はじめ/ReGLOSS】#hololivedev_is
+UID:XzF8T2iRHw8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#ReGLOSS 「シンメトリー」MV公開中！ #shorts\nhttps://www.youtube.com/watch?v=oeFzX6do2B8
@@ -30,6 +23,13 @@ DURATION:PT2H
 DTSTART:20240424T100048Z
 SUMMARY:DEV_IShololive: #ReGLOSS 「シンメトリー」MV公開中！ #shorts
 UID:oeFzX6do2B8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:円周率言えるとこまで言ってみた【轟はじめ/#ReGLOSS】#hololivedev_is\nhttps://www.youtube.com/watch?v=TjeAasxI27s
+DURATION:PT2H
+DTSTART:20240424T080012Z
+SUMMARY:轟はじめ: 円周率言えるとこまで言ってみた【轟はじめ/#ReGLOSS】#hololivedev_is
+UID:TjeAasxI27s
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【最恐 -青鬼- 】たけし！？たけしなの！？あの名作が帰ってきた…！！AOONIの世界へ… 【#一条莉々華  / ホロライブ】\nhttps://www.youtube.com/watch?v=5p9TmqrsehE
@@ -51,26 +51,5 @@ DURATION:PT2H
 DTSTART:20240424T140000Z
 SUMMARY:儒烏風亭らでん: 【凸待ち】急に現れた凸待ち会場【儒烏風亭らでん #ReGLOSS 】
 UID:KpdnCuCIShk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【バニーガーデン】どうぶつにいじめられたので癒されに来ました【轟はじめ/ReGLOSS】#hololivedev_is　※ネタバレあり\nhttps://www.youtube.com/watch?v=P-xAdx_2w1g
-DURATION:PT2H
-DTSTART:20240424T120000Z
-SUMMARY:轟はじめ: 【バニーガーデン】どうぶつにいじめられたので癒されに来ました【轟はじめ/ReGLOSS】#hololivedev_is　※ネタバレあり
-UID:P-xAdx_2w1g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【エアホッケー】キレたら即終了【轟はじめ/ReGLOSS】#hololivedev_is\nhttps://www.youtube.com/watch?v=XzF8T2iRHw8
-DURATION:PT2H
-DTSTART:20240424T110000Z
-SUMMARY:轟はじめ: 【エアホッケー】キレたら即終了【轟はじめ/ReGLOSS】#hololivedev_is
-UID:XzF8T2iRHw8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【  バニーガーデン 】僕はバニーに負けました【 火威青 #hololiveDEV_IS #ReGLOSS 】※ネタバレあり\nhttps://www.youtube.com/watch?v=PiDRdIN91xs
-DURATION:PT2H
-DTSTART:20240423T090000Z
-SUMMARY:火威青: 【  バニーガーデン 】僕はバニーに負けました【 火威青 #hololiveDEV_IS #ReGLOSS 】※ネタバレあり
-UID:PiDRdIN91xs
 END:VEVENT
 END:VCALENDAR
