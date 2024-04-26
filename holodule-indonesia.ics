@@ -4,60 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Cover】サラマンダー (Salamander) / Pavolia Reine × Nerissa Ravencroft\nhttps://www.youtube.com/watch?v=U9o4BOeBcJU
-DURATION:PT2H
-DTSTART:20240425T130000Z
-SUMMARY:Reine: 【Cover】サラマンダー (Salamander) / Pavolia Reine × Nerissa Ravencroft
-UID:U9o4BOeBcJU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 DORONKO WANKO 】日本語配信でわんわん！ 【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=0UYrdz6NLKs
 DURATION:PT2H
 DTSTART:20240426T100000Z
 SUMMARY:🎨Iofi: 【 DORONKO WANKO 】日本語配信でわんわん！ 【 iofi / hololiveID 】
 UID:0UYrdz6NLKs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Yes\, I'm a good driver yes\nhttps://www.youtube.com/watch?v=axMu9VrBRQ4
-DURATION:PT2H
-DTSTART:20240424T161504Z
-SUMMARY:🎨Iofi: Yes\, I'm a good driver yes
-UID:axMu9VrBRQ4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ABZÛ】Looking Back at April While Chilling チルしながら4月振り返りトーク【hololive ID 2nd Gen | Anya Melfissa】\nhttps://www.youtube.com/watch?v=qVsGqE6VWGA
-DURATION:PT2H
-DTSTART:20240426T020000Z
-SUMMARY:Anya: 【ABZÛ】Looking Back at April While Chilling チルしながら4月振り返りトーク【hololive ID 2nd Gen | Anya Melfissa】
-UID:qVsGqE6VWGA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 PALIA 】New Day New Farm 【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=ViLFZH4rtZw
-DURATION:PT2H
-DTSTART:20240425T150000Z
-SUMMARY:🎨Iofi: 【 PALIA 】New Day New Farm 【 iofi / hololiveID 】
-UID:ViLFZH4rtZw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BioShock Remastered】Your Daughter Calls Me Daddy\, Too【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=d1xQc_ookIk
-DURATION:PT2H
-DTSTART:20240426T130000Z
-SUMMARY:Anya: 【BioShock Remastered】Your Daughter Calls Me Daddy\, Too【hololive ID 2nd Generation | Anya Melfissa】
-UID:d1xQc_ookIk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Bunny Garden】SHINU MADE PURE PURE YATTENO?? MANA TAHAN【Spoiler Alert】\nhttps://www.youtube.com/watch?v=Ce4zL5waIlk
-DURATION:PT2H
-DTSTART:20240425T115934Z
-SUMMARY:Ollie: 【Bunny Garden】SHINU MADE PURE PURE YATTENO?? MANA TAHAN【Spoiler Alert】
-UID:Ce4zL5waIlk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Saatnya melepaskan rantai membebaskan diri yang asli. Dengarkan Dramatic XViltration Oleg Area15!\nhttps://www.youtube.com/watch?v=3O_YOueo-ig
-DURATION:PT2H
-DTSTART:20240425T050002Z
-SUMMARY:IDholo: Saatnya melepaskan rantai membebaskan diri yang asli. Dengarkan Dramatic XViltration Oleg Area15!
-UID:3O_YOueo-ig
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Miko in Maguma】a very difficult game【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=Nrp5k2HKYbk
@@ -74,11 +25,11 @@ SUMMARY:🔮Moona: 【Palia】is this a farming game? building game? simulation 
 UID:hceWU578T1o
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 MHW Iceborne 】Guiding Lands but Will the Lands Guide Me?【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=7Hrp6RcSyHE
+DESCRIPTION:【ABZÛ】Looking Back at April While Chilling チルしながら4月振り返りトーク【hololive ID 2nd Gen | Anya Melfissa】\nhttps://www.youtube.com/watch?v=qVsGqE6VWGA
 DURATION:PT2H
-DTSTART:20240425T070000Z
-SUMMARY:🎨Iofi: 【 MHW Iceborne 】Guiding Lands but Will the Lands Guide Me?【 iofi / hololiveID 】
-UID:7Hrp6RcSyHE
+DTSTART:20240426T020000Z
+SUMMARY:Anya: 【ABZÛ】Looking Back at April While Chilling チルしながら4月振り返りトーク【hololive ID 2nd Gen | Anya Melfissa】
+UID:qVsGqE6VWGA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Risu kapan nikah ?\nhttps://www.youtube.com/watch?v=E_lzYAcxgoc
@@ -86,5 +37,12 @@ DURATION:PT2H
 DTSTART:20240426T081006Z
 SUMMARY:🐿Risu: Risu kapan nikah ?
 UID:E_lzYAcxgoc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【BioShock Remastered】Your Daughter Calls Me Daddy\, Too【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=d1xQc_ookIk
+DURATION:PT2H
+DTSTART:20240426T130000Z
+SUMMARY:Anya: 【BioShock Remastered】Your Daughter Calls Me Daddy\, Too【hololive ID 2nd Generation | Anya Melfissa】
+UID:d1xQc_ookIk
 END:VEVENT
 END:VCALENDAR
