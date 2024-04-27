@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Makoto Wakaido’s Case Files TRILOGY DELUXE】Detective Axel will save the day!【CHAPTER 2】\nhttps://www.youtube.com/watch?v=VXALSkV1kLs
-DURATION:PT2H
-DTSTART:20240426T050000Z
-SUMMARY:Syrios: 【Makoto Wakaido’s Case Files TRILOGY DELUXE】Detective Axel will save the day!【CHAPTER 2】
-UID:VXALSkV1kLs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【HANDCAM!】Indonesian Snacks with @BanzoinHakka\nhttps://www.youtube.com/watch?v=tPuZWuDB6F4
 DURATION:PT2H
 DTSTART:20240427T023000Z
 SUMMARY:Shinri: 【HANDCAM!】Indonesian Snacks with @BanzoinHakka
 UID:tPuZWuDB6F4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ABSOLUTE FEAR AOONI】ABSOLUTE TERROR\nhttps://www.youtube.com/watch?v=Wdg24uWrBpo
-DURATION:PT2H
-DTSTART:20240426T050000Z
-SUMMARY:Jurard: 【ABSOLUTE FEAR AOONI】ABSOLUTE TERROR
-UID:Wdg24uWrBpo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【👺 Zelda: Majora's Mask 👺】 You've met with a terrible fate\, haven't you? 【1】\nhttps://www.youtube.com/watch?v=p4j-YiAOu1I
@@ -32,13 +18,6 @@ SUMMARY:Altare: 【👺 Zelda: Majora's Mask 👺】 You've met with a terrible 
 UID:p4j-YiAOu1I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:HOLOSTARS 1ST TAGALOG KARAOKE【UNARCHIVED】\nhttps://www.youtube.com/watch?v=2AvZUrAmI3A
-DURATION:PT2H
-DTSTART:20240428T120000Z
-SUMMARY:Octavio: HOLOSTARS 1ST TAGALOG KARAOKE【UNARCHIVED】
-UID:2AvZUrAmI3A
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:QUACK QUACK【PLACID PLASTIC DUCK SIMULATOR】\nhttps://www.youtube.com/watch?v=apc4PWKTeiA
 DURATION:PT2H
 DTSTART:20240426T020000Z
@@ -46,10 +25,38 @@ SUMMARY:Octavio: QUACK QUACK【PLACID PLASTIC DUCK SIMULATOR】
 UID:apc4PWKTeiA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:HOLOSTARS 1ST TAGALOG KARAOKE【UNARCHIVED】\nhttps://www.youtube.com/watch?v=2AvZUrAmI3A
+DURATION:PT2H
+DTSTART:20240428T120000Z
+SUMMARY:Octavio: HOLOSTARS 1ST TAGALOG KARAOKE【UNARCHIVED】
+UID:2AvZUrAmI3A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Makoto Wakaido’s Case Files TRILOGY DELUXE】Detective Axel will save the day!【CHAPTER 2】\nhttps://www.youtube.com/watch?v=VXALSkV1kLs
+DURATION:PT2H
+DTSTART:20240426T050000Z
+SUMMARY:Syrios: 【Makoto Wakaido’s Case Files TRILOGY DELUXE】Detective Axel will save the day!【CHAPTER 2】
+UID:VXALSkV1kLs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ABSOLUTE FEAR AOONI】ABSOLUTE TERROR\nhttps://www.youtube.com/watch?v=Wdg24uWrBpo
+DURATION:PT2H
+DTSTART:20240426T050000Z
+SUMMARY:Jurard: 【ABSOLUTE FEAR AOONI】ABSOLUTE TERROR
+UID:Wdg24uWrBpo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:DOWN BAD【OcTalks with Octavio】#14\nhttps://www.youtube.com/watch?v=oaMqmFl18aI
 DURATION:PT2H
 DTSTART:20240428T000000Z
 SUMMARY:Octavio: DOWN BAD【OcTalks with Octavio】#14
 UID:oaMqmFl18aI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Poppy Playtime Ch. 3] POPPY PLAYTIME... I SHOULD HAVE KNOWN... #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=TDrvLB1cetg
+DURATION:PT2H
+DTSTART:20240427T100000Z
+SUMMARY:Bettel: [Poppy Playtime Ch. 3] POPPY PLAYTIME... I SHOULD HAVE KNOWN... #gavisbettel #holotempus
+UID:TDrvLB1cetg
 END:VEVENT
 END:VCALENDAR
