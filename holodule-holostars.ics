@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【雑談】出かけるまで【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=dL74VxYKaGw
+DURATION:PT2H
+DTSTART:20240501T031000Z
+SUMMARY:🍷夕刻ロベル: 【雑談】出かけるまで【夕刻ロベル/ホロスターズ】
+UID:dL74VxYKaGw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:光のLoLでもこれはさすがに大やらかしです #shorts #Vtuber #lol\nhttps://www.youtube.com/watch?v=rbVmXqCNPn8
 DURATION:PT2H
 DTSTART:20240430T090040Z
@@ -32,6 +39,13 @@ SUMMARY:緋崎ガンマ: 【 あつまれどうぶつの森 】GW満喫中のパ
 UID:dPKu3zV5YoU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#プレイバック3Dストリーム】    第ゼロ感\nhttps://www.youtube.com/watch?v=SMwzRXY3jZI
+DURATION:PT2H
+DTSTART:20240502T100000Z
+SUMMARY:ホロスターズ: 【#プレイバック3Dストリーム】    第ゼロ感
+UID:SMwzRXY3jZI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#4【あつ森】夜にまったり「あつ森」する【夜十神封魔/ホロスターズ】\nhttps://www.youtube.com/watch?v=MhB_DeY5RpA
 DURATION:PT2H
 DTSTART:20240430T120000Z
@@ -44,13 +58,6 @@ DURATION:PT2H
 DTSTART:20240501T100000Z
 SUMMARY:ホロスターズ: 【#すすスタ 4】ホロスタ民107名に聞いてみた！ホロスタで１番○○な人は！？【ホロスタなんでもランキング！】
 UID:iyGpv8lZwD8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#プレイバック3Dストリーム】    第ゼロ感\nhttps://www.youtube.com/watch?v=SMwzRXY3jZI
-DURATION:PT2H
-DTSTART:20240502T100000Z
-SUMMARY:ホロスターズ: 【#プレイバック3Dストリーム】    第ゼロ感
-UID:SMwzRXY3jZI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【4周年記念】今年は4周年を皆でﾏﾀｰﾘと過ごす\nhttps://www.youtube.com/watch?v=xHXqThIDokU
@@ -81,18 +88,18 @@ SUMMARY:ホロスターズ: 【#ホロスターズ 】いつだって顔がい�
 UID:n9QkG1Fx0Oc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】青のすみか/岸堂天真\nhttps://www.youtube.com/watch?v=cqCWIJhRdOs
-DURATION:PT2H
-DTSTART:20240430T110901Z
-SUMMARY:🦔💨岸堂天真: 【歌ってみた】青のすみか/岸堂天真
-UID:cqCWIJhRdOs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【OVERWATCH2】最近OW2の話題をよく聞くよね。来てますこれ。 / アステル\nhttps://www.youtube.com/watch?v=PhhxKka03yA
 DURATION:PT2H
 DTSTART:20240430T194500Z
 SUMMARY:🎭アステル・レダ: 【OVERWATCH2】最近OW2の話題をよく聞くよね。来てますこれ。 / アステル
 UID:PhhxKka03yA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌ってみた】青のすみか/岸堂天真\nhttps://www.youtube.com/watch?v=cqCWIJhRdOs
+DURATION:PT2H
+DTSTART:20240430T110901Z
+SUMMARY:🦔💨岸堂天真: 【歌ってみた】青のすみか/岸堂天真
+UID:cqCWIJhRdOs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:右も左もわからない!?バブちゃん入りLoLでピザ屋とアキロゼ姐さんがフルパで暴れまわる!!【アキ・ローゼンタール/とおこ/dtto./昏昏アリア/アルランディス】\nhttps://www.youtube.com/watch?v=DhpeCS8aEMk
