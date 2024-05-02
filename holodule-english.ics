@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Pacific Drive】Beep Beep\nhttps://www.youtube.com/watch?v=DPTrMW-nDTs
-DURATION:PT2H
-DTSTART:20240501T010000Z
-SUMMARY:Kronii: 【Pacific Drive】Beep Beep
-UID:DPTrMW-nDTs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【LETHAL COMPANY WITH FUBUKI & KOYORI】fluffy revival of our WANderful company 🐾 【FUWAWA POV】\nhttps://www.youtube.com/watch?v=suwpETzTpKs
 DURATION:PT2H
 DTSTART:20240502T130000Z
@@ -39,13 +32,6 @@ SUMMARY:FUWAMOCO: 【#ホロドロケイ2024】fluffy THIEF BEHIND BARS afterpar
 UID:ORNwn_0fbrE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:「Cover」- Kyoufuu All Back (強風オールバック) by Yukopi #歌ってみた #vocaloid  #cover\nhttps://www.youtube.com/watch?v=zKWksk3wBqM
-DURATION:PT2H
-DTSTART:20240503T041500Z
-SUMMARY:Shiori: 「Cover」- Kyoufuu All Back (強風オールバック) by Yukopi #歌ってみた #vocaloid  #cover
-UID:zKWksk3wBqM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【LETHAL COMPANY WITH FUBUKI & KOYORI】fuzzy revival of our WANderful company 🐾 【MOCOCO POV】\nhttps://www.youtube.com/watch?v=fLHjpTRn6Uc
 DURATION:PT2H
 DTSTART:20240502T130000Z
@@ -53,11 +39,11 @@ SUMMARY:FUWAMOCO: 【LETHAL COMPANY WITH FUBUKI & KOYORI】fuzzy revival of our 
 UID:fLHjpTRn6Uc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Stardew Valley】i bought this game for my mum #kfp #キアライブ\nhttps://www.youtube.com/watch?v=l_hgBsirtUU
+DESCRIPTION:「Cover」- Kyoufuu All Back (強風オールバック) by Yukopi #歌ってみた #vocaloid  #cover\nhttps://www.youtube.com/watch?v=zKWksk3wBqM
 DURATION:PT2H
-DTSTART:20240430T160000Z
-SUMMARY:Kiara: 【Stardew Valley】i bought this game for my mum #kfp #キアライブ
-UID:l_hgBsirtUU
+DTSTART:20240503T041500Z
+SUMMARY:Shiori: 「Cover」- Kyoufuu All Back (強風オールバック) by Yukopi #歌ってみた #vocaloid  #cover
+UID:zKWksk3wBqM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Splatoon 3】Flare vs IRyS Private Matches! w/ Listener Participation 🔥💎\nhttps://www.youtube.com/watch?v=U8A81YcoqIU
@@ -65,6 +51,13 @@ DURATION:PT2H
 DTSTART:20240502T120000Z
 SUMMARY:IRyS: 【Splatoon 3】Flare vs IRyS Private Matches! w/ Listener Participation 🔥💎
 UID:U8A81YcoqIU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FUWAMOCO MORNING】episode 93 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=g74KvmrYo0M
+DURATION:PT2H
+DTSTART:20240503T150000Z
+SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 93 🐾 #FWMCMORNING
+UID:g74KvmrYo0M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Graveyard Keeper】Rise Again Bro | #2\nhttps://www.youtube.com/watch?v=FRwOfVjPwhI
@@ -95,13 +88,6 @@ SUMMARY:FUWAMOCO: 【#ホロドロケイ2024】fuzzy HERO THIEF afterparty 🐾�
 UID:T15lCzClhJo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【日本語でSHASHINGO!】フワフワなおさんぽでモコモコなにほんごれんしゅう 🐾 【FUWAMOCO】\nhttps://www.youtube.com/watch?v=kmPBYKEw9h8
-DURATION:PT2H
-DTSTART:20240501T100000Z
-SUMMARY:FUWAMOCO: 【日本語でSHASHINGO!】フワフワなおさんぽでモコモコなにほんごれんしゅう 🐾 【FUWAMOCO】
-UID:kmPBYKEw9h8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【3D BIRTHDAY EVENT】Dinner Party with Karaoke 🍰  #partyvella\nhttps://www.youtube.com/watch?v=Gc0hODO2iyU
 DURATION:PT2H
 DTSTART:20240503T020000Z
@@ -121,20 +107,6 @@ DURATION:PT2H
 DTSTART:20240502T010000Z
 SUMMARY:Kronii: 【Blasphemous】Penitente | #2
 UID:7Wlk7BLzbnA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FUWAMOCO MORNING】episode 92 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=1pNasjVO0mk
-DURATION:PT2H
-DTSTART:20240501T150000Z
-SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 92 🐾 #FWMCMORNING
-UID:1pNasjVO0mk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A Spring Flower Festival With You🌸【Audio Drama】\nhttps://www.youtube.com/watch?v=tSObXAaM_Kc
-DURATION:PT2H
-DTSTART:20240430T213145Z
-SUMMARY:Shiori: A Spring Flower Festival With You🌸【Audio Drama】
-UID:tSObXAaM_Kc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【A Little to the Left】 Achieve Ina Peace\nhttps://www.youtube.com/watch?v=hgUioIAnOz8
