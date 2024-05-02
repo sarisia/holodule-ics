@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【メン限】無言作業垂れ流し【轟はじめ/ReGLOSS】\nhttps://www.youtube.com/watch?v=e_aOi7iIoPs
-DURATION:PT2H
-DTSTART:20240501T052000Z
-SUMMARY:轟はじめ: 【メン限】無言作業垂れ流し【轟はじめ/ReGLOSS】
-UID:e_aOi7iIoPs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【凸待ち】アソビ大全でホロメンの子猫ちゃん達にイケメンだと認めさせてみせるッッ！！【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=OKjcWpB8yr8
 DURATION:PT2H
 DTSTART:20240501T120000Z
@@ -25,18 +18,25 @@ SUMMARY:儒烏風亭らでん: 【#らでんのラジオ】第十四回目らで
 UID:j35sjb--dkg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ゲリラ歌枠】収録前の声出し！雑談多め【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=pW_GDirMb-A
+DESCRIPTION:スパチャ読みします！ #shorts #ホロライブ #一条莉々華\nhttps://www.youtube.com/watch?v=zdtX6rfOaEU
 DURATION:PT2H
-DTSTART:20240501T031500Z
-SUMMARY:火威青: 【ゲリラ歌枠】収録前の声出し！雑談多め【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:pW_GDirMb-A
+DTSTART:20240501T130236Z
+SUMMARY:一条莉々華: スパチャ読みします！ #shorts #ホロライブ #一条莉々華
+UID:zdtX6rfOaEU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【鬼ノ宴/歌ってみた】MIXなし【轟はじめ/ReGLOSS】#hololivedev_is  #shorts\nhttps://www.youtube.com/watch?v=_ISiWy5eq5s
+DESCRIPTION:【メン限】無言作業垂れ流し【轟はじめ/ReGLOSS】\nhttps://www.youtube.com/watch?v=e_aOi7iIoPs
 DURATION:PT2H
-DTSTART:20240501T080015Z
-SUMMARY:轟はじめ: 【鬼ノ宴/歌ってみた】MIXなし【轟はじめ/ReGLOSS】#hololivedev_is  #shorts
-UID:_ISiWy5eq5s
+DTSTART:20240501T052000Z
+SUMMARY:轟はじめ: 【メン限】無言作業垂れ流し【轟はじめ/ReGLOSS】
+UID:e_aOi7iIoPs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ラジオ配信】ReGLOSS ROOM Next Stage #1　4月担当：音乃瀬奏・轟はじめ【#リグ部屋】\nhttps://www.youtube.com/watch?v=K2Mzcd8eD2Y
+DURATION:PT2H
+DTSTART:20240502T030011Z
+SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM Next Stage #1　4月担当：音乃瀬奏・轟はじめ【#リグ部屋】
+UID:K2Mzcd8eD2Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【プロセカ】EXPERTでできるだけフルコンボを目指してみる。#04【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=FXm1iOz5pAA
@@ -46,10 +46,17 @@ SUMMARY:音乃瀬奏: 【プロセカ】EXPERTでできるだけフルコンボ�
 UID:FXm1iOz5pAA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:スパチャ読みします！ #shorts #ホロライブ #一条莉々華\nhttps://www.youtube.com/watch?v=zdtX6rfOaEU
+DESCRIPTION:【鬼ノ宴/歌ってみた】MIXなし【轟はじめ/ReGLOSS】#hololivedev_is  #shorts\nhttps://www.youtube.com/watch?v=_ISiWy5eq5s
 DURATION:PT2H
-DTSTART:20240501T130236Z
-SUMMARY:一条莉々華: スパチャ読みします！ #shorts #ホロライブ #一条莉々華
-UID:zdtX6rfOaEU
+DTSTART:20240501T080015Z
+SUMMARY:轟はじめ: 【鬼ノ宴/歌ってみた】MIXなし【轟はじめ/ReGLOSS】#hololivedev_is  #shorts
+UID:_ISiWy5eq5s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゲリラ歌枠】収録前の声出し！雑談多め【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=pW_GDirMb-A
+DURATION:PT2H
+DTSTART:20240501T031500Z
+SUMMARY:火威青: 【ゲリラ歌枠】収録前の声出し！雑談多め【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:pW_GDirMb-A
 END:VEVENT
 END:VCALENDAR
