@@ -102,18 +102,18 @@ SUMMARY:🐏角巻わため: ワレワレハ・・・【 #今日のわため 】
 UID:0xX5VF5wFiw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【後夜祭】#ホロドロケイ2024 今度は自分でもあそぶぞおお！✨【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=D1sw7q0109E
-DURATION:PT2H
-DTSTART:20240502T110000Z
-SUMMARY:風真いろは: 【後夜祭】#ホロドロケイ2024 今度は自分でもあそぶぞおお！✨【風真いろは/ホロライブ】
-UID:D1sw7q0109E
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:混沌ブギ / 天音かなた(cover)\nhttps://www.youtube.com/watch?v=0m4wLKzmPYc
 DURATION:PT2H
 DTSTART:20240502T105800Z
 SUMMARY:💫天音かなた: 混沌ブギ / 天音かなた(cover)
 UID:0m4wLKzmPYc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【後夜祭】#ホロドロケイ2024 今度は自分でもあそぶぞおお！✨【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=D1sw7q0109E
+DURATION:PT2H
+DTSTART:20240502T110000Z
+SUMMARY:風真いろは: 【後夜祭】#ホロドロケイ2024 今度は自分でもあそぶぞおお！✨【風真いろは/ホロライブ】
+UID:D1sw7q0109E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【＃生スバル】スバルの小屋　ゲスト：カリちゃん！/Korone Suba Free Talk【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=9F_H9MuuJWU
@@ -312,6 +312,13 @@ SUMMARY:💫天音かなた: 【凸待ち】みんなから「ユ！」を集め
 UID:vWDFtXyUppM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ドラゴンボール Z KAKAROT】完全初見によるドラゴンボールZ カカロット！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=cSbFCrbmW5s
+DURATION:PT2H
+DTSTART:20240502T110000Z
+SUMMARY:👯兎田ぺこら: 【ドラゴンボール Z KAKAROT】完全初見によるドラゴンボールZ カカロット！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり
+UID:cSbFCrbmW5s
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 昼 】ご飯食べる！！！！！！！！！！！！！！！！！！【 桃鈴ねね / hololive 】\nhttps://www.youtube.com/watch?v=n8bylJqKjPA
 DURATION:PT2H
 DTSTART:20240501T030000Z
@@ -361,11 +368,11 @@ SUMMARY:⚓湊あくあ: 【メン限】まだ４がつはおわってない！�
 UID:cLSC7ImSJ-E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ドラゴンボール Z KAKAROT】完全初見によるドラゴンボールZ カカロット！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=cSbFCrbmW5s
+DESCRIPTION:【歌枠】GWはまったりお歌配信～！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=nhzL5fcQkzQ
 DURATION:PT2H
-DTSTART:20240502T110000Z
-SUMMARY:👯兎田ぺこら: 【ドラゴンボール Z KAKAROT】完全初見によるドラゴンボールZ カカロット！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり
-UID:cSbFCrbmW5s
+DTSTART:20240502T080000Z
+SUMMARY:🏮夏色まつり: 【歌枠】GWはまったりお歌配信～！【ホロライブ/夏色まつり】
+UID:nhzL5fcQkzQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FF1】完全初見ファイナルファンタジークリア耐久！～ピクセルリマスター版～【博衣こより/ホロライブ】【ネタバレあり】\nhttps://www.youtube.com/watch?v=fcEohicdiic
