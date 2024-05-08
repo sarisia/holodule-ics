@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ガチンコ】ReGLOSSの番長は私だ！【#リグDOWN】\nhttps://www.youtube.com/watch?v=GCjT-Fc9JFE
+DESCRIPTION:混沌ブギウギ/歌ってみた【轟はじめ/ReGLOSS】#hololivedev_is  #shorts\nhttps://www.youtube.com/watch?v=PfHBxHcQ7XM
 DURATION:PT2H
-DTSTART:20240510T100000Z
-SUMMARY:DEV_IShololive: 【ガチンコ】ReGLOSSの番長は私だ！【#リグDOWN】
-UID:GCjT-Fc9JFE
+DTSTART:20240508T080015Z
+SUMMARY:轟はじめ: 混沌ブギウギ/歌ってみた【轟はじめ/ReGLOSS】#hololivedev_is  #shorts
+UID:PfHBxHcQ7XM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【縦型歌枠】ちょっぴりとおしゃれな曲を歌いたい気持ち【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=IiVnwOy_CP0
@@ -32,10 +32,17 @@ SUMMARY:儒烏風亭らでん: 【歌ってみた】twinkle nightのらでんパ
 UID:HuNw_r05Je4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:混沌ブギウギ/歌ってみた【轟はじめ/ReGLOSS】#hololivedev_is  #shorts\nhttps://www.youtube.com/watch?v=PfHBxHcQ7XM
+DESCRIPTION:【ガチンコ】ReGLOSSの番長は私だ！【#リグDOWN】\nhttps://www.youtube.com/watch?v=GCjT-Fc9JFE
 DURATION:PT2H
-DTSTART:20240508T080015Z
-SUMMARY:轟はじめ: 混沌ブギウギ/歌ってみた【轟はじめ/ReGLOSS】#hololivedev_is  #shorts
-UID:PfHBxHcQ7XM
+DTSTART:20240510T100000Z
+SUMMARY:DEV_IShololive: 【ガチンコ】ReGLOSSの番長は私だ！【#リグDOWN】
+UID:GCjT-Fc9JFE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 迷宮校舎 】学校でピザを食べる.....背徳的☆【 火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=8pZgw41Mm6U
+DURATION:PT2H
+DTSTART:20240509T130000Z
+SUMMARY:火威青: 【 迷宮校舎 】学校でピザを食べる.....背徳的☆【 火威青 #hololiveDEV_IS #ReGLOSS 】
+UID:8pZgw41Mm6U
 END:VEVENT
 END:VCALENDAR
