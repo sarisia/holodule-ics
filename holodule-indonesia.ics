@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Granblue Fantasy: Relink】time to use charlotta\nhttps://www.youtube.com/watch?v=NLnerBYmyAg
-DURATION:PT2H
-DTSTART:20240508T150000Z
-SUMMARY:Zeta: 【Granblue Fantasy: Relink】time to use charlotta
-UID:NLnerBYmyAg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Content Warning】3\, 2\, 1... ACTION! 〜このメンツでバズるの巻〜【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=pV4n9wRcvUw
 DURATION:PT2H
 DTSTART:20240509T100000Z
@@ -18,25 +11,18 @@ SUMMARY:Anya: 【Content Warning】3\, 2\, 1... ACTION! 〜このメンツでバ
 UID:pV4n9wRcvUw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】Ender Dragon\, i have come back stronger【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=m8LYR7xjV_Y
-DURATION:PT2H
-DTSTART:20240509T050000Z
-SUMMARY:Kaela: 【Minecraft】Ender Dragon\, i have come back stronger【Kaela Kovalskia / hololiveID】
-UID:m8LYR7xjV_Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Members Only】 Drawing for the Free Talk【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=WY457biyZJw
-DURATION:PT2H
-DTSTART:20240508T050000Z
-SUMMARY:Reine: 【Members Only】 Drawing for the Free Talk【Pavolia Reine/hololiveID 2nd gen】
-UID:WY457biyZJw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【CONTENT WARNING】this is PASSION YABAI CONTENT カメラマンは死なない\nhttps://www.youtube.com/watch?v=U71x_y51Djg
 DURATION:PT2H
 DTSTART:20240509T100000Z
 SUMMARY:Zeta: 【CONTENT WARNING】this is PASSION YABAI CONTENT カメラマンは死なない
 UID:U71x_y51Djg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】Ender Dragon\, i have come back stronger【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=m8LYR7xjV_Y
+DURATION:PT2H
+DTSTART:20240509T050000Z
+SUMMARY:Kaela: 【Minecraft】Ender Dragon\, i have come back stronger【Kaela Kovalskia / hololiveID】
+UID:m8LYR7xjV_Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Little Nightmares 2】SEKARANG KITA MAIN SEBAGAI MONO!!! SIX MINGGIR!!! (Spoiler Alert!)\nhttps://www.youtube.com/watch?v=l2-74jmmCE0
@@ -51,19 +37,5 @@ DURATION:PT2H
 DTSTART:20240509T140000Z
 SUMMARY:Reine: 【Buckshot Roulette】What the heck am I getting into【Pavolia Reine/hololiveID 2nd gen】
 UID:6sj9sQKPQHg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RISU SWITCH!】Switching With Wisnu !【#RisuSwitch】\nhttps://www.youtube.com/watch?v=WE8YQR6ykLk
-DURATION:PT2H
-DTSTART:20240508T130000Z
-SUMMARY:🐿Risu: 【RISU SWITCH!】Switching With Wisnu !【#RisuSwitch】
-UID:WE8YQR6ykLk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#8 FINALE!!【Apollo Justice: Ace Attorney】PERCEIVE THE TRUTH (SPOILER ALERT)【Pavolia Reine/holoID】\nhttps://www.youtube.com/watch?v=Uy7q2b3oDWk
-DURATION:PT2H
-DTSTART:20240508T130000Z
-SUMMARY:Reine: #8 FINALE!!【Apollo Justice: Ace Attorney】PERCEIVE THE TRUTH (SPOILER ALERT)【Pavolia Reine/holoID】
-UID:Uy7q2b3oDWk
 END:VEVENT
 END:VCALENDAR
