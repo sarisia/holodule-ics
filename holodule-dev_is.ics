@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【記念日】覚えてる？記念日は君とまったり【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=reZ9BB6IRSk
-DURATION:PT2H
-DTSTART:20240509T033000Z
-SUMMARY:火威青: 【記念日】覚えてる？記念日は君とまったり【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:reZ9BB6IRSk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【限界飯】ズボラ飯クッキング 孤高のシャウエッセンとお茶漬け（ふりかけの姿）編 結局こういうのが一番美味しい【#一条莉々華 #hololivedev_is #vtuber #Shorts #料理 】\nhttps://www.youtube.com/watch?v=ilBXFZjF7Xc
-DURATION:PT2H
-DTSTART:20240510T090039Z
-SUMMARY:一条莉々華: 【限界飯】ズボラ飯クッキング 孤高のシャウエッセンとお茶漬け（ふりかけの姿）編 結局こういうのが一番美味しい【#一条莉々華 #hololivedev_is #vtuber #Shorts #料理 】
-UID:ilBXFZjF7Xc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【リズム天国】ノリノリとどろき【轟はじめ/ReGLOSS】#hololivedev_is\nhttps://www.youtube.com/watch?v=obxt_GTEztQ
 DURATION:PT2H
 DTSTART:20240509T130000Z
@@ -39,17 +25,38 @@ SUMMARY:一条莉々華: 【歌ってみた】twinkle night 莉々華パート �
 UID:5VpK_5urTW4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ガチンコ】ReGLOSSの番長は私だ！【#リグDOWN】\nhttps://www.youtube.com/watch?v=GCjT-Fc9JFE
-DURATION:PT2H
-DTSTART:20240510T100000Z
-SUMMARY:DEV_IShololive: 【ガチンコ】ReGLOSSの番長は私だ！【#リグDOWN】
-UID:GCjT-Fc9JFE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 迷宮校舎 】学校でピザを食べる.....背徳的☆【 火威青 #hololiveDEV_IS #ReGLOSS 】\nhttps://www.youtube.com/watch?v=8pZgw41Mm6U
 DURATION:PT2H
 DTSTART:20240509T130000Z
 SUMMARY:火威青: 【 迷宮校舎 】学校でピザを食べる.....背徳的☆【 火威青 #hololiveDEV_IS #ReGLOSS 】
 UID:8pZgw41Mm6U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【記念日】覚えてる？記念日は君とまったり【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=reZ9BB6IRSk
+DURATION:PT2H
+DTSTART:20240509T033000Z
+SUMMARY:火威青: 【記念日】覚えてる？記念日は君とまったり【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:reZ9BB6IRSk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【限界飯】ズボラ飯クッキング 孤高のシャウエッセンとお茶漬け（ふりかけの姿）編 結局こういうのが一番美味しい【#一条莉々華 #hololivedev_is #vtuber #Shorts #料理 】\nhttps://www.youtube.com/watch?v=ilBXFZjF7Xc
+DURATION:PT2H
+DTSTART:20240510T090039Z
+SUMMARY:一条莉々華: 【限界飯】ズボラ飯クッキング 孤高のシャウエッセンとお茶漬け（ふりかけの姿）編 結局こういうのが一番美味しい【#一条莉々華 #hololivedev_is #vtuber #Shorts #料理 】
+UID:ilBXFZjF7Xc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:フライデー・ナイト / なとり  covered by ReGLOSS 【歌ってみた / hololive DEV_IS】\nhttps://www.youtube.com/watch?v=ai1Gnz0kOF8
+DURATION:PT2H
+DTSTART:20240510T110500Z
+SUMMARY:DEV_IShololive: フライデー・ナイト / なとり  covered by ReGLOSS 【歌ってみた / hololive DEV_IS】
+UID:ai1Gnz0kOF8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ガチンコ】ReGLOSSの番長は私だ！【#リグDOWN】\nhttps://www.youtube.com/watch?v=GCjT-Fc9JFE
+DURATION:PT2H
+DTSTART:20240510T100000Z
+SUMMARY:DEV_IShololive: 【ガチンコ】ReGLOSSの番長は私だ！【#リグDOWN】
+UID:GCjT-Fc9JFE
 END:VEVENT
 END:VCALENDAR
