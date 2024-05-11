@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 Content Warning 】いい動画をとってバズるわよ！【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=yoO3nc_N8JU
+DESCRIPTION:【Movie Watchalong】Garfield: A Tail of Two Kitties (2006)\nhttps://www.youtube.com/watch?v=EoPm068vmgU
 DURATION:PT2H
-DTSTART:20240510T120000Z
-SUMMARY:🎨Iofi: 【 Content Warning 】いい動画をとってバズるわよ！【 iofi / hololiveID 】
-UID:yoO3nc_N8JU
+DTSTART:20240510T150000Z
+SUMMARY:Zeta: 【Movie Watchalong】Garfield: A Tail of Two Kitties (2006)
+UID:EoPm068vmgU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SUPER BUNNY MAN】this waiting room seems familiar【Timesmith】\nhttps://www.youtube.com/watch?v=aVJMS4E5mec
@@ -25,25 +25,18 @@ SUMMARY:Reine: (日本語) ELITE INDONESIAN みこ先輩とエリートインド
 UID:sXgH-FYtFA4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Prisuners Night】SUPRISE Prisuners Night !【Ayunda Risu】\nhttps://www.youtube.com/watch?v=E4Qhd9LL92s
+DURATION:PT2H
+DTSTART:20240511T123000Z
+SUMMARY:🐿Risu: 【Prisuners Night】SUPRISE Prisuners Night !【Ayunda Risu】
+UID:E4Qhd9LL92s
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Kecelakaan Masal Truk ft Ayunda Rusdi\nhttps://www.youtube.com/watch?v=veTUuI9E8Ds
 DURATION:PT2H
 DTSTART:20240511T122351Z
 SUMMARY:🎨Iofi: Kecelakaan Masal Truk ft Ayunda Rusdi
 UID:veTUuI9E8Ds
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Free Talk】PICTURE DIARY! ID Girls Gathering w/ LAM-sensei~ n more【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=Y1UmTqD7oUI
-DURATION:PT2H
-DTSTART:20240510T151500Z
-SUMMARY:Reine: 【Free Talk】PICTURE DIARY! ID Girls Gathering w/ LAM-sensei~ n more【Pavolia Reine/hololiveID 2nd gen】
-UID:Y1UmTqD7oUI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Movie Watchalong】Garfield: A Tail of Two Kitties (2006)\nhttps://www.youtube.com/watch?v=EoPm068vmgU
-DURATION:PT2H
-DTSTART:20240510T150000Z
-SUMMARY:Zeta: 【Movie Watchalong】Garfield: A Tail of Two Kitties (2006)
-UID:EoPm068vmgU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Story of Seasons Friends of Mineral Town】(spoiler) I'm a Millionaire!!!【Pavolia Reine/hololiveID】\nhttps://www.youtube.com/watch?v=TLERMdpMfQg
@@ -53,10 +46,10 @@ SUMMARY:Reine: 【Story of Seasons Friends of Mineral Town】(spoiler) I'm a Mil
 UID:TLERMdpMfQg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【The Game of Sisyphus】there is scarcely any passion without struggle.【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=Pe922BcxI5c
+DESCRIPTION:【Free Talk】PICTURE DIARY! ID Girls Gathering w/ LAM-sensei~ n more【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=Y1UmTqD7oUI
 DURATION:PT2H
-DTSTART:20240509T230000Z
-SUMMARY:Kaela: 【The Game of Sisyphus】there is scarcely any passion without struggle.【Kaela Kovalskia / hololiveID】
-UID:Pe922BcxI5c
+DTSTART:20240510T151500Z
+SUMMARY:Reine: 【Free Talk】PICTURE DIARY! ID Girls Gathering w/ LAM-sensei~ n more【Pavolia Reine/hololiveID 2nd gen】
+UID:Y1UmTqD7oUI
 END:VEVENT
 END:VCALENDAR
