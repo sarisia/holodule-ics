@@ -4,27 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ゲリラ雑談】眠れないので、ちょっとだけ…（アーカイブはメン限かも）【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=Vx4ejO7PHNo
-DURATION:PT2H
-DTSTART:20240512T141000Z
-SUMMARY:火威青: 【ゲリラ雑談】眠れないので、ちょっとだけ…（アーカイブはメン限かも）【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:Vx4ejO7PHNo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マシュマロ】はいしにょてい【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=n_D__CT5-H0
-DURATION:PT2H
-DTSTART:20240512T080000Z
-SUMMARY:音乃瀬奏: 【マシュマロ】はいしにょてい【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
-UID:n_D__CT5-H0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【メンバー限定配信】#一条莉々華生誕祭2024 二次会会場【一条莉々華/hololive DEV_IS　ReGLOSS】\nhttps://www.youtube.com/watch?v=p1igAs0fuRU
-DURATION:PT2H
-DTSTART:20240512T130000Z
-SUMMARY:一条莉々華: 【メンバー限定配信】#一条莉々華生誕祭2024 二次会会場【一条莉々華/hololive DEV_IS　ReGLOSS】
-UID:p1igAs0fuRU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【あつまれどうぶつの森】＃７ ぶんぶん島は恋愛リアリティーショーです　【轟はじめ/ReGLOSS】#hololivedev_is\nhttps://www.youtube.com/watch?v=qMnRYVN51uU
 DURATION:PT2H
 DTSTART:20240512T110000Z
@@ -46,10 +25,38 @@ SUMMARY:火威青: 【母の日記念】#ママくゆありがとう！【火威
 UID:5j7kMsrixoE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ゲリラ雑談】眠れないので、ちょっとだけ…（アーカイブはメン限かも）【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=Vx4ejO7PHNo
+DURATION:PT2H
+DTSTART:20240512T141000Z
+SUMMARY:火威青: 【ゲリラ雑談】眠れないので、ちょっとだけ…（アーカイブはメン限かも）【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:Vx4ejO7PHNo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【迷宮校舎】番長らしくロッカーに隠れるぜ【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=NfArT-1qfUk
+DURATION:PT2H
+DTSTART:20240513T110000Z
+SUMMARY:轟はじめ: 【迷宮校舎】番長らしくロッカーに隠れるぜ【轟はじめ/ReGLOSS】＃hololiveDEV_IS
+UID:NfArT-1qfUk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】#ホロ鯖ハードコアマイクラ！最後まで生き延びるぞ！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=VRsy_7oe2bo
 DURATION:PT2H
 DTSTART:20240513T110000Z
 SUMMARY:音乃瀬奏: 【Minecraft】#ホロ鯖ハードコアマイクラ！最後まで生き延びるぞ！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
 UID:VRsy_7oe2bo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マシュマロ】はいしにょてい【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=n_D__CT5-H0
+DURATION:PT2H
+DTSTART:20240512T080000Z
+SUMMARY:音乃瀬奏: 【マシュマロ】はいしにょてい【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
+UID:n_D__CT5-H0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メンバー限定配信】#一条莉々華生誕祭2024 二次会会場【一条莉々華/hololive DEV_IS　ReGLOSS】\nhttps://www.youtube.com/watch?v=p1igAs0fuRU
+DURATION:PT2H
+DTSTART:20240512T130000Z
+SUMMARY:一条莉々華: 【メンバー限定配信】#一条莉々華生誕祭2024 二次会会場【一条莉々華/hololive DEV_IS　ReGLOSS】
+UID:p1igAs0fuRU
 END:VEVENT
 END:VCALENDAR
