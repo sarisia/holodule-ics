@@ -4,69 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【ABZÛ】Chill Sea Gaming Time【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=z0Xr1SyMLZs
-DURATION:PT2H
-DTSTART:20240512T010000Z
-SUMMARY:Anya: 【ABZÛ】Chill Sea Gaming Time【hololive ID 2nd Generation | Anya Melfissa】
-UID:z0Xr1SyMLZs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Super Mario Bros.】Yes\, I will use the Save function in this game【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=W87i1go0yZI
-DURATION:PT2H
-DTSTART:20240512T030000Z
-SUMMARY:🎨Iofi: 【Super Mario Bros.】Yes\, I will use the Save function in this game【 iofi / hololiveID 】
-UID:W87i1go0yZI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【OTSUCF18】After CF Talking Stream !!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=RFGKgG7piic
-DURATION:PT2H
-DTSTART:20240512T133000Z
-SUMMARY:🐿Risu: 【OTSUCF18】After CF Talking Stream !!【Ayunda Risu】
-UID:RFGKgG7piic
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Yopipi doko?\nhttps://www.youtube.com/watch?v=NTYJEE1zL30
-DURATION:PT2H
-DTSTART:20240513T132646Z
-SUMMARY:🎨Iofi: Yopipi doko?
-UID:NTYJEE1zL30
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Crab Game 】Jangan Bully Saya Pls【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=zoIG60Kz6Ww
-DURATION:PT2H
-DTSTART:20240512T130000Z
-SUMMARY:🎨Iofi: 【 Crab Game 】Jangan Bully Saya Pls【 iofi / hololiveID 】
-UID:zoIG60Kz6Ww
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【M.M.M.】Monday Morning Malas : It's Mondayyyyyyy【Ayunda Risu】\nhttps://www.youtube.com/watch?v=YrDqGR3PmL0
-DURATION:PT2H
-DTSTART:20240513T020000Z
-SUMMARY:🐿Risu: 【M.M.M.】Monday Morning Malas : It's Mondayyyyyyy【Ayunda Risu】
-UID:YrDqGR3PmL0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Mother Simulator】Come to Mama utututututtutu【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=qeE-kSMRLd0
-DURATION:PT2H
-DTSTART:20240512T070000Z
-SUMMARY:🎨Iofi: 【Mother Simulator】Come to Mama utututututtutu【 iofi / hololiveID 】
-UID:qeE-kSMRLd0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【霊室 | Ghost room】An Exit 8-Like Game in a Haunted House【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=m-1Dzd3gvxI
-DURATION:PT2H
-DTSTART:20240512T060000Z
-SUMMARY:Anya: 【霊室 | Ghost room】An Exit 8-Like Game in a Haunted House【hololive ID 2nd Generation | Anya Melfissa】
-UID:m-1Dzd3gvxI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Granblue Fantasy: Relink】Last chapter is not last chapter\nhttps://www.youtube.com/watch?v=7qiYBQKnMBs
-DURATION:PT2H
-DTSTART:20240513T150000Z
-SUMMARY:Zeta: 【Granblue Fantasy: Relink】Last chapter is not last chapter
-UID:7qiYBQKnMBs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Free Talk】Otsu hololivemeet\, NGABERS KTM DUKE\, jadwal minggu ini PART 2\nhttps://www.youtube.com/watch?v=s__qnZLsBcU
 DURATION:PT2H
 DTSTART:20240513T090500Z
@@ -102,11 +39,18 @@ SUMMARY:Kobo: 【Call of Duty: Mobile】PERTAMA KALI MAIN CODM!! LANGSUNG GACHA 
 UID:XHtRUSsbrKY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:TOILET PAPER WANTS TO BE A BASKETBALL. NO RAGE QUIT.... MAYBE.\nhttps://www.youtube.com/watch?v=JzK8oQy109E
+DESCRIPTION:Yopipi doko?\nhttps://www.youtube.com/watch?v=NTYJEE1zL30
 DURATION:PT2H
-DTSTART:20240512T150000Z
-SUMMARY:Zeta: TOILET PAPER WANTS TO BE A BASKETBALL. NO RAGE QUIT.... MAYBE.
-UID:JzK8oQy109E
+DTSTART:20240513T132646Z
+SUMMARY:🎨Iofi: Yopipi doko?
+UID:NTYJEE1zL30
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【M.M.M.】Monday Morning Malas : It's Mondayyyyyyy【Ayunda Risu】\nhttps://www.youtube.com/watch?v=YrDqGR3PmL0
+DURATION:PT2H
+DTSTART:20240513T020000Z
+SUMMARY:🐿Risu: 【M.M.M.】Monday Morning Malas : It's Mondayyyyyyy【Ayunda Risu】
+UID:YrDqGR3PmL0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Free Talk】Otsu hololivemeet\, NGABERS KTM DUKE\, jadwal minggu ini\nhttps://www.youtube.com/watch?v=Mz9mZGMf4wE
@@ -114,5 +58,12 @@ DURATION:PT2H
 DTSTART:20240513T064500Z
 SUMMARY:Kobo: 【Free Talk】Otsu hololivemeet\, NGABERS KTM DUKE\, jadwal minggu ini
 UID:Mz9mZGMf4wE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Granblue Fantasy: Relink】Last chapter is not last chapter\nhttps://www.youtube.com/watch?v=7qiYBQKnMBs
+DURATION:PT2H
+DTSTART:20240513T150000Z
+SUMMARY:Zeta: 【Granblue Fantasy: Relink】Last chapter is not last chapter
+UID:7qiYBQKnMBs
 END:VEVENT
 END:VCALENDAR
