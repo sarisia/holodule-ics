@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【雑談】話題募集するタイプの深夜雑談【荒咬オウガ/ホロスターズ】#shorts\nhttps://www.youtube.com/watch?v=gEqE8XcL-08
+DURATION:PT2H
+DTSTART:20240515T130000Z
+SUMMARY:荒咬オウガ: 【雑談】話題募集するタイプの深夜雑談【荒咬オウガ/ホロスターズ】#shorts
+UID:gEqE8XcL-08
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 #ホロスタ5thカフェ 】みやびさんと試食会レポする〜！【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】\nhttps://www.youtube.com/watch?v=4aGwMKNY0yQ
 DURATION:PT2H
 DTSTART:20240515T080000Z
@@ -11,18 +18,18 @@ SUMMARY:水無世燐央: 【 #ホロスタ5thカフェ 】みやびさんと試�
 UID:4aGwMKNY0yQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【学マス】サービス開始から遊ぶ男【夕刻ロベル/ホロスターズ】※ネタバレあり\nhttps://www.youtube.com/watch?v=QpQ3SxuDaPY
-DURATION:PT2H
-DTSTART:20240516T040000Z
-SUMMARY:🍷夕刻ロベル: 【学マス】サービス開始から遊ぶ男【夕刻ロベル/ホロスターズ】※ネタバレあり
-UID:QpQ3SxuDaPY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】17時くらいまで【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=0H3Eqq0tK10
 DURATION:PT2H
 DTSTART:20240515T054000Z
 SUMMARY:🍷夕刻ロベル: 【雑談】17時くらいまで【夕刻ロベル/ホロスターズ】
 UID:0H3Eqq0tK10
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【学マス】サービス開始から遊ぶ男【夕刻ロベル/ホロスターズ】※ネタバレあり\nhttps://www.youtube.com/watch?v=QpQ3SxuDaPY
+DURATION:PT2H
+DTSTART:20240516T040000Z
+SUMMARY:🍷夕刻ロベル: 【学マス】サービス開始から遊ぶ男【夕刻ロベル/ホロスターズ】※ネタバレあり
+UID:QpQ3SxuDaPY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【World of Tanks】戦車というロマン【奏手イヅル w/ 花咲みやび 羽継烏有】\nhttps://www.youtube.com/watch?v=Z6wWE2PUEP0
