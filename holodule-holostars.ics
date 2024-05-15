@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【World of Tanks】戦車、ハマりました。  【vtuber / ホロスターズ 】\nhttps://www.youtube.com/watch?v=PbGoEBArM6A
+DURATION:PT2H
+DTSTART:20240515T124500Z
+SUMMARY:羽継烏有: 【World of Tanks】戦車、ハマりました。  【vtuber / ホロスターズ 】
+UID:PbGoEBArM6A
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】話題募集するタイプの深夜雑談【荒咬オウガ/ホロスターズ】#shorts\nhttps://www.youtube.com/watch?v=gEqE8XcL-08
 DURATION:PT2H
 DTSTART:20240515T130000Z
@@ -16,6 +23,34 @@ DURATION:PT2H
 DTSTART:20240515T123000Z
 SUMMARY:⚙律可: 【ピアノ歌枠】生ピアノ伴奏にあわせてまったり【律可/うぃんぐ/ホロスターズ】#りつすた
 UID:tDqmIeAmRqQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【学マス】サービス開始から遊ぶ男【夕刻ロベル/ホロスターズ】※ネタバレあり\nhttps://www.youtube.com/watch?v=QpQ3SxuDaPY
+DURATION:PT2H
+DTSTART:20240516T040000Z
+SUMMARY:🍷夕刻ロベル: 【学マス】サービス開始から遊ぶ男【夕刻ロベル/ホロスターズ】※ネタバレあり
+UID:QpQ3SxuDaPY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 逆転裁判 】異議あり！！！！パリピ漫画家弁護士になる！！！【#緋崎ガンマ / #ホロスターズ / #vtuber】※ネタバレあり\nhttps://www.youtube.com/watch?v=-Vd4LsV_84k
+DURATION:PT2H
+DTSTART:20240515T090000Z
+SUMMARY:緋崎ガンマ: 【 逆転裁判 】異議あり！！！！パリピ漫画家弁護士になる！！！【#緋崎ガンマ / #ホロスターズ / #vtuber】※ネタバレあり
+UID:-Vd4LsV_84k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【The Game of Sisyphus】#2 こんなに転がるとは思わなかった。岩って丸いんだね【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=tLAn9KTJ-NI
+DURATION:PT2H
+DTSTART:20240515T050000Z
+SUMMARY:🍕アルランディス: 【The Game of Sisyphus】#2 こんなに転がるとは思わなかった。岩って丸いんだね【アルランディス/ホロスターズ】
+UID:tLAn9KTJ-NI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【プレイバック3Dストリーム】 夕暮れは踊る\nhttps://www.youtube.com/watch?v=KLjjUEXRoxc
+DURATION:PT2H
+DTSTART:20240516T100000Z
+SUMMARY:ホロスターズ: 【プレイバック3Dストリーム】 夕暮れは踊る
+UID:KLjjUEXRoxc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #ホロスタ5thカフェ 】みやびさんと試食会レポする〜！【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】\nhttps://www.youtube.com/watch?v=4aGwMKNY0yQ
@@ -32,27 +67,6 @@ SUMMARY:🍷夕刻ロベル: 【雑談】17時くらいまで【夕刻ロベル/
 UID:0H3Eqq0tK10
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【学マス】サービス開始から遊ぶ男【夕刻ロベル/ホロスターズ】※ネタバレあり\nhttps://www.youtube.com/watch?v=QpQ3SxuDaPY
-DURATION:PT2H
-DTSTART:20240516T040000Z
-SUMMARY:🍷夕刻ロベル: 【学マス】サービス開始から遊ぶ男【夕刻ロベル/ホロスターズ】※ネタバレあり
-UID:QpQ3SxuDaPY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【World of Tanks】戦車というロマン【奏手イヅル w/ 花咲みやび 羽継烏有】\nhttps://www.youtube.com/watch?v=Z6wWE2PUEP0
-DURATION:PT2H
-DTSTART:20240514T130000Z
-SUMMARY:🎸奏手イヅル: 【World of Tanks】戦車というロマン【奏手イヅル w/ 花咲みやび 羽継烏有】
-UID:Z6wWE2PUEP0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【お絵描き雑談】5周年ライブに向けてホロスタ全員の集合絵描く！ #shorts  #イラスト  #vtuber  #illustration   【 vtuber / ホロスターズ 】\nhttps://www.youtube.com/watch?v=2NEfceQajnw
-DURATION:PT2H
-DTSTART:20240514T080032Z
-SUMMARY:緋崎ガンマ: 【お絵描き雑談】5周年ライブに向けてホロスタ全員の集合絵描く！ #shorts  #イラスト  #vtuber  #illustration   【 vtuber / ホロスターズ 】
-UID:2NEfceQajnw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#すすスタ 6】シチュエーションに合わせろ！感嘆符・疑問符選手権！\nhttps://www.youtube.com/watch?v=uJ9JXNSRyKo
 DURATION:PT2H
 DTSTART:20240515T100000Z
@@ -60,94 +74,10 @@ SUMMARY:ホロスターズ: 【#すすスタ 6】シチュエーションに合�
 UID:uJ9JXNSRyKo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ドラゴンボールZ　ドッカンバトル】ネタバレあり！　LR悟飯伝説降臨！【荒咬オウガ/ホロスターズ】#shorts\nhttps://www.youtube.com/watch?v=tbwFwLd46XU
-DURATION:PT2H
-DTSTART:20240514T120000Z
-SUMMARY:荒咬オウガ: 【ドラゴンボールZ　ドッカンバトル】ネタバレあり！　LR悟飯伝説降臨！【荒咬オウガ/ホロスターズ】#shorts
-UID:tbwFwLd46XU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Game of Sisyphus】岩には2種類ある、転がるものと転がされるものだ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=eWmknPBAj5E
-DURATION:PT2H
-DTSTART:20240514T040000Z
-SUMMARY:🍕アルランディス: 【The Game of Sisyphus】岩には2種類ある、転がるものと転がされるものだ【アルランディス/ホロスターズ】
-UID:eWmknPBAj5E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【World of Tanks】戦車、ハマりました。  【vtuber / ホロスターズ 】\nhttps://www.youtube.com/watch?v=PbGoEBArM6A
-DURATION:PT2H
-DTSTART:20240515T124500Z
-SUMMARY:羽継烏有: 【World of Tanks】戦車、ハマりました。  【vtuber / ホロスターズ 】
-UID:PbGoEBArM6A
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【スト６】新章開幕！キャミィでマスターを目指す！初めてのランク！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=dhHeuKOa6nY
 DURATION:PT2H
 DTSTART:20240515T030000Z
 SUMMARY:🦔💨岸堂天真: 【スト６】新章開幕！キャミィでマスターを目指す！初めてのランク！【岸堂天真/ホロスターズ】
 UID:dhHeuKOa6nY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#8【あつまれ どうぶつの森】ガチャ50連！今日こそ誰か引きたい【夜十神封魔/UPROAR!!】 #shorts　#short　 #縦型配信\nhttps://www.youtube.com/watch?v=Sofx3ElwmLk
-DURATION:PT2H
-DTSTART:20240514T055359Z
-SUMMARY:夜十神封魔: #8【あつまれ どうぶつの森】ガチャ50連！今日こそ誰か引きたい【夜十神封魔/UPROAR!!】 #shorts　#short　 #縦型配信
-UID:Sofx3ElwmLk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ロベルないとめあ】互いに買ってきたミスドの商品を当て合う我々【夕刻ロベル/神楽めあ】\nhttps://www.youtube.com/watch?v=dmG3j34BeTg
-DURATION:PT2H
-DTSTART:20240514T100000Z
-SUMMARY:🍷夕刻ロベル: 【#ロベルないとめあ】互いに買ってきたミスドの商品を当て合う我々【夕刻ロベル/神楽めあ】
-UID:dmG3j34BeTg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Vtuberが格ゲーの世界に入ってみた結果がヤバいwww #vtuber  #shorts #illustration #anime #ホロスターズ\nhttps://www.youtube.com/watch?v=TSkh42IplZQ
-DURATION:PT2H
-DTSTART:20240514T131714Z
-SUMMARY:緋崎ガンマ: Vtuberが格ゲーの世界に入ってみた結果がヤバいwww #vtuber  #shorts #illustration #anime #ホロスターズ
-UID:TSkh42IplZQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 逆転裁判 】異議あり！！！！パリピ漫画家弁護士になる！！！【#緋崎ガンマ / #ホロスターズ / #vtuber】※ネタバレあり\nhttps://www.youtube.com/watch?v=-Vd4LsV_84k
-DURATION:PT2H
-DTSTART:20240515T090000Z
-SUMMARY:緋崎ガンマ: 【 逆転裁判 】異議あり！！！！パリピ漫画家弁護士になる！！！【#緋崎ガンマ / #ホロスターズ / #vtuber】※ネタバレあり
-UID:-Vd4LsV_84k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【WoT】ホロスタ戦車道、始まります!!【花咲みやび/奏手イヅル/羽継烏有/ホロスターズ】\nhttps://www.youtube.com/watch?v=rLUbKHm9dHw
-DURATION:PT2H
-DTSTART:20240514T130000Z
-SUMMARY:🌺花咲みやび: 【WoT】ホロスタ戦車道、始まります!!【花咲みやび/奏手イヅル/羽継烏有/ホロスターズ】
-UID:rLUbKHm9dHw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Game of Sisyphus】#2 こんなに転がるとは思わなかった。岩って丸いんだね【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=tLAn9KTJ-NI
-DURATION:PT2H
-DTSTART:20240515T050000Z
-SUMMARY:🍕アルランディス: 【The Game of Sisyphus】#2 こんなに転がるとは思わなかった。岩って丸いんだね【アルランディス/ホロスターズ】
-UID:tLAn9KTJ-NI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 あつまれどうぶつの森 】 #7 スローライフ、はじめます。    #shorts  #縦型配信 #short  【vtuber / ホロスターズ 】\nhttps://www.youtube.com/watch?v=a8EShW0zS8s
-DURATION:PT2H
-DTSTART:20240514T002555Z
-SUMMARY:羽継烏有: 【 あつまれどうぶつの森 】 #7 スローライフ、はじめます。    #shorts  #縦型配信 #short  【vtuber / ホロスターズ 】
-UID:a8EShW0zS8s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【プレイバック3Dストリーム】 夕暮れは踊る\nhttps://www.youtube.com/watch?v=KLjjUEXRoxc
-DURATION:PT2H
-DTSTART:20240516T100000Z
-SUMMARY:ホロスターズ: 【プレイバック3Dストリーム】 夕暮れは踊る
-UID:KLjjUEXRoxc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #すすスタ 】シチュエーションに合わせろ！感嘆符・疑問符選手権！\nhttps://www.youtube.com/watch?v=vH8-LiXQ87g
-DURATION:PT2H
-DTSTART:20240514T100045Z
-SUMMARY:ホロスターズ: 【 #すすスタ 】シチュエーションに合わせろ！感嘆符・疑問符選手権！
-UID:vH8-LiXQ87g
 END:VEVENT
 END:VCALENDAR
