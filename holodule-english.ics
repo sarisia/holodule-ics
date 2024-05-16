@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Superchat Catchup】Superchat Mode!\nhttps://www.youtube.com/watch?v=9tTHDTolyRs
+DURATION:PT2H
+DTSTART:20240515T020100Z
+SUMMARY:Kronii: 【Superchat Catchup】Superchat Mode!
+UID:9tTHDTolyRs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Cover】My War / 僕の戦争 - Ouro Kronii\nhttps://www.youtube.com/watch?v=xQbmiAo6_qU
 DURATION:PT2H
 DTSTART:20240516T010000Z
 SUMMARY:Kronii: 【Cover】My War / 僕の戦争 - Ouro Kronii
 UID:xQbmiAo6_qU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CATS ORGANIZED NEATLY】I love cats 🎼 #shorts\nhttps://www.youtube.com/watch?v=uqO5DGsLOmo
+DURATION:PT2H
+DTSTART:20240516T000000Z
+SUMMARY:Nerissa: 【CATS ORGANIZED NEATLY】I love cats 🎼 #shorts
+UID:uqO5DGsLOmo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Days with Ollie】but she already loves me #kfp #キアライブ\nhttps://www.youtube.com/watch?v=b1-Ymxn5iWY
@@ -30,34 +44,6 @@ DURATION:PT2H
 DTSTART:20240515T220000Z
 SUMMARY:Fauna: 【Forklift Load】  WHO LET FAUNA DRIVE THE FORKLIFT
 UID:OArrdtBg2YA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HARDCORE MINECRAFT】Wawa Joins The Server! 遅れましたが参加します！ #kfp #キアライブ\nhttps://www.youtube.com/watch?v=KzqgU7D7J-0
-DURATION:PT2H
-DTSTART:20240516T090000Z
-SUMMARY:Kiara: 【HARDCORE MINECRAFT】Wawa Joins The Server! 遅れましたが参加します！ #kfp #キアライブ
-UID:KzqgU7D7J-0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【??? OFF COLLAB】:D\nhttps://www.youtube.com/watch?v=G0ZndoA_U7A
-DURATION:PT2H
-DTSTART:20240515T000000Z
-SUMMARY:Bijou: 【??? OFF COLLAB】:D
-UID:G0ZndoA_U7A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Superchat Catchup】Superchat Mode!\nhttps://www.youtube.com/watch?v=9tTHDTolyRs
-DURATION:PT2H
-DTSTART:20240515T020100Z
-SUMMARY:Kronii: 【Superchat Catchup】Superchat Mode!
-UID:9tTHDTolyRs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CATS ORGANIZED NEATLY】I love cats 🎼 #shorts\nhttps://www.youtube.com/watch?v=uqO5DGsLOmo
-DURATION:PT2H
-DTSTART:20240516T000000Z
-SUMMARY:Nerissa: 【CATS ORGANIZED NEATLY】I love cats 🎼 #shorts
-UID:uqO5DGsLOmo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【The Game of Sisyphus】LET'S ROCK AND ROLL!\nhttps://www.youtube.com/watch?v=zvALWU7ZLV8
@@ -88,6 +74,20 @@ SUMMARY:Ina: 【Minecraft】 Today We Fish (Hopefully) #ホロ鯖ハードコア
 UID:wuitVGpZShs
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【HARDCORE MINECRAFT】Wawa Joins The Server! 遅れましたが参加します！ #kfp #キアライブ\nhttps://www.youtube.com/watch?v=KzqgU7D7J-0
+DURATION:PT2H
+DTSTART:20240516T090000Z
+SUMMARY:Kiara: 【HARDCORE MINECRAFT】Wawa Joins The Server! 遅れましたが参加します！ #kfp #キアライブ
+UID:KzqgU7D7J-0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【??? OFF COLLAB】:D\nhttps://www.youtube.com/watch?v=G0ZndoA_U7A
+DURATION:PT2H
+DTSTART:20240515T000000Z
+SUMMARY:Bijou: 【??? OFF COLLAB】:D
+UID:G0ZndoA_U7A
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MEMBERS ONLY】oh hi ! i'm eepy but not too eepy !!\nhttps://www.youtube.com/watch?v=FdU725-JsG8
 DURATION:PT2H
 DTSTART:20240515T020000Z
@@ -100,13 +100,6 @@ DURATION:PT2H
 DTSTART:20240516T020000Z
 SUMMARY:Shiori: 【Hollow Knight】Become Bug\, Get Sliced and Diced By Me - Ep. 01
 UID:PcD-Hm8kBso
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🎤【KARAOKE】 Karaoke Give me the Ameoke (unarchived)\nhttps://www.youtube.com/watch?v=_0BBDGbzje0
-DURATION:PT2H
-DTSTART:20240516T000500Z
-SUMMARY:Amelia: 🎤【KARAOKE】 Karaoke Give me the Ameoke (unarchived)
-UID:_0BBDGbzje0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪UNARCHIVED・歌枠 - REBROADCAST≫ chuuni energy only + 目指せ 900K! #shorts\nhttps://www.youtube.com/watch?v=mCywfjwEFvs
