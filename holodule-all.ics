@@ -284,13 +284,6 @@ SUMMARY:尾丸ポルカ: 【Minecraft】5日目、命が惜しくてやってら
 UID:S7ZD_IoB4QE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 STREET FIGHTER 6】CR Cupおつかれさま会！雑談しながらバトルハブいってみる【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=5MAUUr2bieY
-DURATION:PT2H
-DTSTART:20240517T150000Z
-SUMMARY:🍎アキロゼ: 【 STREET FIGHTER 6】CR Cupおつかれさま会！雑談しながらバトルハブいってみる【アキ・ローゼンタール/ホロライブ】
-UID:5MAUUr2bieY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 あつまれどうぶつの森 】 作業用BGM - 日課をするだけの配信 -     #shorts  #縦型配信 #short  【vtuber / ホロスターズ 】\nhttps://www.youtube.com/watch?v=6VW42a5JEPU
 DURATION:PT2H
 DTSTART:20240517T054719Z
@@ -298,18 +291,18 @@ SUMMARY:羽継烏有: 【 あつまれどうぶつの森 】 作業用BGM - 日�
 UID:6VW42a5JEPU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SF6】ダイヤ★1～【夜十神封魔/UPROAR!!】【ストリートファイター6】\nhttps://www.youtube.com/watch?v=9Q7JaHM6Kos
-DURATION:PT2H
-DTSTART:20240517T051500Z
-SUMMARY:夜十神封魔: 【SF6】ダイヤ★1～【夜十神封魔/UPROAR!!】【ストリートファイター6】
-UID:9Q7JaHM6Kos
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:FINAL FANTASY XIV -HILDIBRAND   w/ Octavio\, GirlDM & Merryweather\nhttps://www.youtube.com/watch?v=M7rPwTsfB6Y
 DURATION:PT2H
 DTSTART:20240517T141500Z
 SUMMARY:Flayon: FINAL FANTASY XIV -HILDIBRAND   w/ Octavio\, GirlDM & Merryweather
 UID:M7rPwTsfB6Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 STREET FIGHTER 6】CR Cupおつかれさま会！雑談しながらバトルハブいってみる【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=5MAUUr2bieY
+DURATION:PT2H
+DTSTART:20240517T150000Z
+SUMMARY:🍎アキロゼ: 【 STREET FIGHTER 6】CR Cupおつかれさま会！雑談しながらバトルハブいってみる【アキ・ローゼンタール/ホロライブ】
+UID:5MAUUr2bieY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#瞬間ハートビート サビだけ歌ってみた！ #shorts #ReGLOSS #一条莉々華 #MIXなし\nhttps://www.youtube.com/watch?v=xULSysOAX5w
@@ -324,6 +317,13 @@ DURATION:PT2H
 DTSTART:20240518T000000Z
 SUMMARY:Nerissa: ehehe【Chatting】
 UID:cXWGGdLhhAE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Membership限定】映画同時視聴「ハリー・ポッターと不死鳥の騎士団」 #かなたんロードショー 【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=OhUgghxLRs4
+DURATION:PT2H
+DTSTART:20240517T110000Z
+SUMMARY:💫天音かなた: 【Membership限定】映画同時視聴「ハリー・ポッターと不死鳥の騎士団」 #かなたんロードショー 【天音かなた/ホロライブ】
+UID:OhUgghxLRs4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【OHAPOL】#28  5/18土曜日一週間終わるのはえぇ【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=0gtWji0i-ko
@@ -366,13 +366,6 @@ DURATION:PT2H
 DTSTART:20240518T040000Z
 SUMMARY:🚑大空スバル: 【#13】 FINAL FANTASY VII REBIRTH するしゅばああああああああああああああああ！！！！！【ネタバレあり】
 UID:s1TdJWOmefU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Membership限定】映画同時視聴「ハリー・ポッターと不死鳥の騎士団」 #かなたんロードショー 【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=OhUgghxLRs4
-DURATION:PT2H
-DTSTART:20240517T110000Z
-SUMMARY:💫天音かなた: 【Membership限定】映画同時視聴「ハリー・ポッターと不死鳥の騎士団」 #かなたんロードショー 【天音かなた/ホロライブ】
-UID:OhUgghxLRs4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】#4 copium【#ホロ鯖ハードコアマイクラ】\nhttps://www.youtube.com/watch?v=XQWGMEiWdbE
@@ -475,7 +468,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[BIRTHDAY STREAM] IT'S MY BIRTHDAY! MUST WATCH UNTIL THE END!11! #BettelsBigOlDay2024 #gavisbettel\nhttps://www.youtube.com/watch?v=V16Gq4L9GWU
 DURATION:PT2H
-DTSTART:20240518T013000Z
+DTSTART:20240518T020000Z
 SUMMARY:Bettel: [BIRTHDAY STREAM] IT'S MY BIRTHDAY! MUST WATCH UNTIL THE END!11! #BettelsBigOlDay2024 #gavisbettel
 UID:V16Gq4L9GWU
 END:VEVENT
