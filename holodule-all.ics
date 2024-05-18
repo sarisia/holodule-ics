@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【The Game of Sisyphus】Let's ROLL\nhttps://www.youtube.com/watch?v=WKOULAFlreU
+DURATION:PT2H
+DTSTART:20240518T030000Z
+SUMMARY:IRyS: 【The Game of Sisyphus】Let's ROLL
+UID:WKOULAFlreU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 #ホロスタ5周年歌枠リレー】You WILL sing\, my puppets!\nhttps://www.youtube.com/watch?v=SmuzfoaAVLc
 DURATION:PT2H
 DTSTART:20240519T114000Z
@@ -18,11 +25,18 @@ SUMMARY:🌺花咲みやび: 【#ホロスタ5周年歌枠リレー】ライブ�
 UID:ycZO4v4LEEQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】寝落ちして死んだバカによる神視点の死神【 桃鈴ねね / hololive 】#ホロ鯖ハードコアマイクラ\nhttps://www.youtube.com/watch?v=6RUBhQawSzc
+DESCRIPTION:【 #ホロスタ5周年歌枠リレー  】#ホロスタ5周年ライブ 一緒に盛り上がっていこう！【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】\nhttps://www.youtube.com/watch?v=oiyUA73YPHY
 DURATION:PT2H
-DTSTART:20240517T100000Z
-SUMMARY:桃鈴ねね: 【Minecraft】寝落ちして死んだバカによる神視点の死神【 桃鈴ねね / hololive 】#ホロ鯖ハードコアマイクラ
-UID:6RUBhQawSzc
+DTSTART:20240518T112000Z
+SUMMARY:水無世燐央: 【 #ホロスタ5周年歌枠リレー  】#ホロスタ5周年ライブ 一緒に盛り上がっていこう！【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】
+UID:oiyUA73YPHY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロスタ5周年ライブ 5周年記念歌枠配信リレー】 6月8日(土) にLIVEがあります！【夜十神封魔/UPROAR!!】\nhttps://www.youtube.com/watch?v=TJ49PBiNOkQ
+DURATION:PT2H
+DTSTART:20240518T104000Z
+SUMMARY:夜十神封魔: 【#ホロスタ5周年ライブ 5周年記念歌枠配信リレー】 6月8日(土) にLIVEがあります！【夜十神封魔/UPROAR!!】
+UID:TJ49PBiNOkQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロスタ5周年歌枠リレー 】ライブ前ホロスタ歌枠リレー！アイドルソング限定！！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=zRvWpvSrSis
@@ -32,11 +46,32 @@ SUMMARY:🦔💨岸堂天真: 【#ホロスタ5周年歌枠リレー 】ライ�
 UID:zRvWpvSrSis
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 New Outfit】Let's cozy up for the winter!\nhttps://www.youtube.com/watch?v=3itB5Zjr2aU
+DESCRIPTION:ブゥーーーーーン...【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=XT352Jth4NM
 DURATION:PT2H
-DTSTART:20240517T010000Z
-SUMMARY:Shinri: 【 New Outfit】Let's cozy up for the winter!
-UID:3itB5Zjr2aU
+DTSTART:20240517T210031Z
+SUMMARY:🐏角巻わため: ブゥーーーーーン...【 #今日のわため 】 #shorts #hololive #vtuber
+UID:XT352Jth4NM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロスタ5周年ライブ 歌枠リレー】ライブ前にホロスタ歌リレヱ【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=R6i6lzZXUwo
+DURATION:PT2H
+DTSTART:20240518T113000Z
+SUMMARY:影山シエン: 【#ホロスタ5周年ライブ 歌枠リレー】ライブ前にホロスタ歌リレヱ【影山シエン/ホロスターズ】
+UID:R6i6lzZXUwo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロスタ5周年ライブ 5周年記念歌枠配信リレー】 LIVE前の初歌枠！！【vtuber / ホロスターズ 】\nhttps://www.youtube.com/watch?v=TlDGNbn864I
+DURATION:PT2H
+DTSTART:20240519T120000Z
+SUMMARY:羽継烏有: 【#ホロスタ5周年ライブ 5周年記念歌枠配信リレー】 LIVE前の初歌枠！！【vtuber / ホロスターズ 】
+UID:TlDGNbn864I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロ鯖ハードコアマイクラ】この戦いが終わったら...俺...【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=1Nq96My_ZpY
+DURATION:PT2H
+DTSTART:20240518T113000Z
+SUMMARY:⚔白銀ノエル: 【#ホロ鯖ハードコアマイクラ】この戦いが終わったら...俺...【白銀ノエル/ホロライブ】
+UID:1Nq96My_ZpY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Dicey Dungeons】dicey wicey !!!!!!!!!!!!!!!【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=5Cc-6S_SDiA
@@ -53,11 +88,11 @@ SUMMARY:Bijou: 【Another Crab's Treasure】I'm feeling CRABBY
 UID:4hDlSAna_48
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ホロ鯖ハードコアマイクラ開始！5日目ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=N22qpvcwbjI
+DESCRIPTION:【Stardew Valley】We're doing a little farming !\nhttps://www.youtube.com/watch?v=dbg_2OsLvLs
 DURATION:PT2H
-DTSTART:20240517T100000Z
-SUMMARY:👯兎田ぺこら: 【Minecraft】ホロ鯖ハードコアマイクラ開始！5日目ぺこ！【ホロライブ/兎田ぺこら】
-UID:N22qpvcwbjI
+DTSTART:20240518T123000Z
+SUMMARY:Zeta: 【Stardew Valley】We're doing a little farming !
+UID:dbg_2OsLvLs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FF3】初見🌟遂にファイナルファンタジーⅢへ！！！～ピクセルリマスター版～ #1 【博衣こより/ホロライブ】【ネタバレあり】\nhttps://www.youtube.com/watch?v=4wNQqq5slhw
@@ -72,6 +107,13 @@ DURATION:PT2H
 DTSTART:20240518T031500Z
 SUMMARY:⚓湊あくあ: 【学園アイドルマスター】新作アイマスでアイドルをプロデュースする！※ネタバレあり【湊あくあ/ホロライブ】
 UID:6bduhc-6CKY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#ホロスタ5周年ライブ まであと3週間!! #花咲みやび #ホロスターズ #shorts\nhttps://www.youtube.com/watch?v=UCS5o7d1yag
+DURATION:PT2H
+DTSTART:20240518T003941Z
+SUMMARY:🌺花咲みやび: #ホロスタ5周年ライブ まであと3週間!! #花咲みやび #ホロスターズ #shorts
+UID:UCS5o7d1yag
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】#ホロ鯖ハードコアマイクラ！最後まで生き延びるぞ！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=oPCA_9Bazzk
@@ -95,18 +137,32 @@ SUMMARY:👯兎田ぺこら: 【Minecraft】ぺこーらの5年間のマイク�
 UID:mnJWMzbaGU0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スパチャ読み】らでんのラジオ特別回配信からtwinkle nightまで【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=aEGVocnTit8
+DESCRIPTION:#9【あつまれ どうぶつの森】休日のチル森！離島ガチャ...あと4人！【夜十神封魔/UPROAR!!】 #shorts　#short　 #縦型配信\nhttps://www.youtube.com/watch?v=Fdlvfu6z5E0
 DURATION:PT2H
-DTSTART:20240517T081500Z
-SUMMARY:儒烏風亭らでん: 【スパチャ読み】らでんのラジオ特別回配信からtwinkle nightまで【儒烏風亭らでん #ReGLOSS 】
-UID:aEGVocnTit8
+DTSTART:20240518T020544Z
+SUMMARY:夜十神封魔: #9【あつまれ どうぶつの森】休日のチル森！離島ガチャ...あと4人！【夜十神封魔/UPROAR!!】 #shorts　#short　 #縦型配信
+UID:Fdlvfu6z5E0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【THREE YEARS MEMBERS SPECIAL】T-T-TTT-T-TT-THREE??!!!?!?!【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=NOkf1j3jg6I
+DESCRIPTION:【 龍が如く0 】 10章～ 桐生さんと一緒に蒼天堀にイクゾ！🐉 Ι YAKUZA ZERO #08【 猫又おかゆ/ホロライブ 】\nhttps://www.youtube.com/watch?v=f5fXtGddTC8
 DURATION:PT2H
-DTSTART:20240517T100000Z
-SUMMARY:Anya: 【THREE YEARS MEMBERS SPECIAL】T-T-TTT-T-TT-THREE??!!!?!?!【hololive ID 2nd Generation | Anya Melfissa】
-UID:NOkf1j3jg6I
+DTSTART:20240518T100000Z
+SUMMARY:🍙猫又おかゆ: 【 龍が如く0 】 10章～ 桐生さんと一緒に蒼天堀にイクゾ！🐉 Ι YAKUZA ZERO #08【 猫又おかゆ/ホロライブ 】
+UID:f5fXtGddTC8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活雑談】※マイクラ配信ではございません！！ｗ 週１さんでーまっする！！！🌞【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=ED2ttCA4HuE
+DURATION:PT2H
+DTSTART:20240519T010000Z
+SUMMARY:⚔白銀ノエル: 【朝活雑談】※マイクラ配信ではございません！！ｗ 週１さんでーまっする！！！🌞【白銀ノエル/ホロライブ】
+UID:ED2ttCA4HuE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ドット絵でPOKÉDANCE踊ってみたんだけど…？？？3D化目指してます！チャンネル登録お願いします！ #regloss #ホロライブ #pokedance #shorts #ポケモン\nhttps://www.youtube.com/watch?v=_KdTISRAbt4
+DURATION:PT2H
+DTSTART:20240518T100026Z
+SUMMARY:一条莉々華: ドット絵でPOKÉDANCE踊ってみたんだけど…？？？3D化目指してます！チャンネル登録お願いします！ #regloss #ホロライブ #pokedance #shorts #ポケモン
+UID:_KdTISRAbt4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #ホロ鯖ハードコアマイクラ 】ウィザー戦🔥絶対に生き延びる‼そして守る‼３日目【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=gZ_36OqdlIw
@@ -116,18 +172,18 @@ SUMMARY:🌸さくらみこ: 【 #ホロ鯖ハードコアマイクラ 】ウィ
 UID:gZ_36OqdlIw
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ゲリラ歌枠！！まったり～！【轟はじめ/ReGLOSS】 #hololivedev_is  #shorts\nhttps://www.youtube.com/watch?v=9YFnfx_n6zw
+DURATION:PT2H
+DTSTART:20240517T160954Z
+SUMMARY:轟はじめ: ゲリラ歌枠！！まったり～！【轟はじめ/ReGLOSS】 #hololivedev_is  #shorts
+UID:9YFnfx_n6zw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 #ホロスタ5周年ライブ 歌枠リレー！ 】最高のライブへ！【奏手イヅル / ホロスターズ】\nhttps://www.youtube.com/watch?v=PphTzizQ90I
 DURATION:PT2H
 DTSTART:20240519T122000Z
 SUMMARY:🎸奏手イヅル: 【 #ホロスタ5周年ライブ 歌枠リレー！ 】最高のライブへ！【奏手イヅル / ホロスターズ】
 UID:PphTzizQ90I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MONSTER HUNTER】STARTING ICEBORNE FINALLY!!!!\nhttps://www.youtube.com/watch?v=N-CdXNHFdkk
-DURATION:PT2H
-DTSTART:20240516T150000Z
-SUMMARY:Zeta: 【MONSTER HUNTER】STARTING ICEBORNE FINALLY!!!!
-UID:N-CdXNHFdkk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #沙花叉クロヱ生誕LIVE 】沙花叉クロヱと不思議なキノコ 【ホロライブ/沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=rvIy1IOZNtA
@@ -137,25 +193,32 @@ SUMMARY:沙花叉クロヱ: 【 #沙花叉クロヱ生誕LIVE 】沙花叉クロ
 UID:rvIy1IOZNtA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 赤いきつね全国味くらべ 】みんなと４人でもぐもぐ赤いきつね！！【 白上フブキ/アキ・ローゼンタール/白銀ノエル/風真いろは/ホロライブ 】\nhttps://www.youtube.com/watch?v=fQmhewlBr80
+DESCRIPTION:【 Membership 】ちょっとだけでもお話しよ！！！！【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=G3T-uT0PNgs
 DURATION:PT2H
-DTSTART:20240517T110000Z
-SUMMARY:🌽白上フブキ: 【 赤いきつね全国味くらべ 】みんなと４人でもぐもぐ赤いきつね！！【 白上フブキ/アキ・ローゼンタール/白銀ノエル/風真いろは/ホロライブ 】
-UID:fQmhewlBr80
+DTSTART:20240518T140000Z
+SUMMARY:鷹嶺ルイ: 【 Membership 】ちょっとだけでもお話しよ！！！！【鷹嶺ルイ/ホロライブ】
+UID:G3T-uT0PNgs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ハードコア生活4日目！残機ゼロ。もう絶対に死ねない・・・んだけど地獄の招待状が・・・？ #ホロ鯖ハードコアマイクラ 【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=iBPgRl5r7U4
+DESCRIPTION:【Minecraft #ホロ鯖ハードコアマイクラ】Wither Fight...!! マイクラ初心者が生き残るハードコアマイクラその4。【holoID | Anya Melfissa】\nhttps://www.youtube.com/watch?v=2EO2_EW19PQ
 DURATION:PT2H
-DTSTART:20240517T100000Z
-SUMMARY:博衣こより: 【Minecraft】ハードコア生活4日目！残機ゼロ。もう絶対に死ねない・・・んだけど地獄の招待状が・・・？ #ホロ鯖ハードコアマイクラ 【博衣こより/ホロライブ】
-UID:iBPgRl5r7U4
+DTSTART:20240518T103000Z
+SUMMARY:Anya: 【Minecraft #ホロ鯖ハードコアマイクラ】Wither Fight...!! マイクラ初心者が生き残るハードコアマイクラその4。【holoID | Anya Melfissa】
+UID:2EO2_EW19PQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】転生したら犬だった件【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=bY4oxROJlKA
+DESCRIPTION:【Content Warning】限界RUST初期メン4人娘でバズ動画撮影しに行ってみた！【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=R5QQMyw6BYU
 DURATION:PT2H
-DTSTART:20240517T100000Z
-SUMMARY:⚓湊あくあ: 【Minecraft】転生したら犬だった件【湊あくあ/ホロライブ】
-UID:bY4oxROJlKA
+DTSTART:20240518T110000Z
+SUMMARY:🍎アキロゼ: 【Content Warning】限界RUST初期メン4人娘でバズ動画撮影しに行ってみた！【ホロライブ/アキロゼ】
+UID:R5QQMyw6BYU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【UNARCHIVED KARAOKE】Vertical Singing 🎼#shorts\nhttps://www.youtube.com/watch?v=Xbp99JJUARE
+DURATION:PT2H
+DTSTART:20240519T000000Z
+SUMMARY:Nerissa: 【UNARCHIVED KARAOKE】Vertical Singing 🎼#shorts
+UID:Xbp99JJUARE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ハードコア生活5日目！嫁が逝き、娘ができた残機ゼロ。ウィザー戦へ挑む。 #ホロ鯖ハードコアマイクラ 【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=AvChsKRm6Jc
@@ -165,13 +228,6 @@ SUMMARY:博衣こより: 【Minecraft】ハードコア生活5日目！嫁が逝
 UID:AvChsKRm6Jc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロ鯖ハードコアマイクラ】(お昼短め)何かしら貢献したい！この戦いが終わったら...俺...【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=uvzCjjXcGEM
-DURATION:PT2H
-DTSTART:20240517T030000Z
-SUMMARY:⚔白銀ノエル: 【#ホロ鯖ハードコアマイクラ】(お昼短め)何かしら貢献したい！この戦いが終わったら...俺...【白銀ノエル/ホロライブ】
-UID:uvzCjjXcGEM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】Day6：ねぽら －#ホロ鯖ハードコアマイクラ【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=cpFsiLy7Du0
 DURATION:PT2H
 DTSTART:20240518T120000Z
@@ -179,25 +235,18 @@ SUMMARY:獅白ぼたん: 【Minecraft】Day6：ねぽら －#ホロ鯖ハード�
 UID:cpFsiLy7Du0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MEMBERS ONLY】Japan chat~🎼\nhttps://www.youtube.com/watch?v=o-veHQREZK4
+DESCRIPTION:ehehe【Chatting】\nhttps://www.youtube.com/watch?v=cXWGGdLhhAE
 DURATION:PT2H
-DTSTART:20240517T000000Z
-SUMMARY:Nerissa: 【MEMBERS ONLY】Japan chat~🎼
-UID:o-veHQREZK4
+DTSTART:20240518T000000Z
+SUMMARY:Nerissa: ehehe【Chatting】
+UID:cXWGGdLhhAE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 あつまれどうぶつの森 】 作業用BGM - 日課をするだけの配信 -     #shorts  #縦型配信 #short  【vtuber / ホロスターズ 】\nhttps://www.youtube.com/watch?v=6VW42a5JEPU
+DESCRIPTION:【 MAFIA II 】A New Family For Me【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=34AE0NtCkc4
 DURATION:PT2H
-DTSTART:20240517T054719Z
-SUMMARY:羽継烏有: 【 あつまれどうぶつの森 】 作業用BGM - 日課をするだけの配信 -     #shorts  #縦型配信 #short  【vtuber / ホロスターズ 】
-UID:6VW42a5JEPU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:FINAL FANTASY XIV -HILDIBRAND   w/ Octavio\, GirlDM & Merryweather\nhttps://www.youtube.com/watch?v=M7rPwTsfB6Y
-DURATION:PT2H
-DTSTART:20240517T141500Z
-SUMMARY:Flayon: FINAL FANTASY XIV -HILDIBRAND   w/ Octavio\, GirlDM & Merryweather
-UID:M7rPwTsfB6Y
+DTSTART:20240518T120000Z
+SUMMARY:🎨Iofi: 【 MAFIA II 】A New Family For Me【 iofi / hololiveID 】
+UID:34AE0NtCkc4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 STREET FIGHTER 6】CR Cupおつかれさま会！雑談しながらバトルハブいってみる【アキ・ローゼンタール/ホロライブ】\nhttps://www.youtube.com/watch?v=5MAUUr2bieY
@@ -214,6 +263,13 @@ SUMMARY:尾丸ポルカ: 座員に「ぽ」の歌詞で大喜利を募集した�
 UID:TPnTWfApoSo
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Minecraft】#ホロ鯖ハードコアマイクラ！最後まで生き延びるぞ！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=F5lE4GeYgtk
+DURATION:PT2H
+DTSTART:20240518T130000Z
+SUMMARY:音乃瀬奏: 【Minecraft】#ホロ鯖ハードコアマイクラ！最後まで生き延びるぞ！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
+UID:F5lE4GeYgtk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【OHAPOL】#28  5/18土曜日一週間終わるのはえぇ【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=0gtWji0i-ko
 DURATION:PT2H
 DTSTART:20240517T210000Z
@@ -221,25 +277,11 @@ SUMMARY:尾丸ポルカ: 【OHAPOL】#28  5/18土曜日一週間終わるのは�
 UID:0gtWji0i-ko
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ゼロから始める、ホロ鯖ハードコア生活！4日目 #ホロ鯖ハードコアマイクラ【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=-G42nRUMIUk
+DESCRIPTION:【#13】 FINAL FANTASY VII REBIRTH するしゅばああああああああああああああああ！！！！！【ネタバレあり】\nhttps://www.youtube.com/watch?v=s1TdJWOmefU
 DURATION:PT2H
-DTSTART:20240517T130000Z
-SUMMARY:⚒AZKi: 【Minecraft】ゼロから始める、ホロ鯖ハードコア生活！4日目 #ホロ鯖ハードコアマイクラ【ホロライブ / AZKi】
-UID:-G42nRUMIUk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Palia】To get lost or not to get lost【Ayunda Risu】\nhttps://www.youtube.com/watch?v=y2HMH2_fQTw
-DURATION:PT2H
-DTSTART:20240517T060000Z
-SUMMARY:🐿Risu: 【Palia】To get lost or not to get lost【Ayunda Risu】
-UID:y2HMH2_fQTw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Pikmin 4】Relaxing & Reading the Piklopedia!\nhttps://www.youtube.com/watch?v=EetMsBL_3zc
-DURATION:PT2H
-DTSTART:20240517T150000Z
-SUMMARY:Goldbullet: 【Pikmin 4】Relaxing & Reading the Piklopedia!
-UID:EetMsBL_3zc
+DTSTART:20240518T040000Z
+SUMMARY:🚑大空スバル: 【#13】 FINAL FANTASY VII REBIRTH するしゅばああああああああああああああああ！！！！！【ネタバレあり】
+UID:s1TdJWOmefU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スーパーマリオブラザーズ】深夜のキノコ狩り【荒咬オウガ/ホロスターズ】#shorts\nhttps://www.youtube.com/watch?v=ecJrfUhO3hQ
@@ -249,11 +291,11 @@ SUMMARY:荒咬オウガ: 【スーパーマリオブラザーズ】深夜のキ�
 UID:ecJrfUhO3hQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#13】 FINAL FANTASY VII REBIRTH するしゅばああああああああああああああああ！！！！！【ネタバレあり】\nhttps://www.youtube.com/watch?v=s1TdJWOmefU
+DESCRIPTION:【歌枠】お歌のりはびり？？？？？？？【百鬼あやめ/ホロライブ】\nhttps://www.youtube.com/watch?v=IOU5D84EaOE
 DURATION:PT2H
-DTSTART:20240518T040000Z
-SUMMARY:🚑大空スバル: 【#13】 FINAL FANTASY VII REBIRTH するしゅばああああああああああああああああ！！！！！【ネタバレあり】
-UID:s1TdJWOmefU
+DTSTART:20240518T134500Z
+SUMMARY:👿百鬼あやめ: 【歌枠】お歌のりはびり？？？？？？？【百鬼あやめ/ホロライブ】
+UID:IOU5D84EaOE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】#4 copium【#ホロ鯖ハードコアマイクラ】\nhttps://www.youtube.com/watch?v=XQWGMEiWdbE
@@ -277,11 +319,11 @@ SUMMARY:Zeta: 【WOWOWOW KORONE BOX】wan wan wan!!! 🐶
 UID:fLPsMHS-WRM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft #ホロ鯖ハードコアマイクラ】Please Let Me Gamble! マイクラ初心者が生き残るハードコアマイクラその3。【holoID | Anya Melfissa】\nhttps://www.youtube.com/watch?v=MZCCQ5dcBlY
+DESCRIPTION:【スプラトゥーン3】フェス！「いつもどおり過ごす」陣営走ります🦑【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=_fC0IikVIz8
 DURATION:PT2H
-DTSTART:20240517T130000Z
-SUMMARY:Anya: 【Minecraft #ホロ鯖ハードコアマイクラ】Please Let Me Gamble! マイクラ初心者が生き残るハードコアマイクラその3。【holoID | Anya Melfissa】
-UID:MZCCQ5dcBlY
+DTSTART:20240518T143000Z
+SUMMARY:🔥不知火フレア: 【スプラトゥーン3】フェス！「いつもどおり過ごす」陣営走ります🦑【不知火フレア/ホロライブ】
+UID:_fC0IikVIz8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【検証】私たち「音楽グループ」だよね？瞬間ハートビート編【#オリ曲プレッシャー】\nhttps://www.youtube.com/watch?v=_FAzYuSuF9A
@@ -291,13 +333,6 @@ SUMMARY:DEV_IShololive: 【検証】私たち「音楽グループ」だよね�
 UID:_FAzYuSuF9A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3】フェス！「いつもどおり過ごす」陣営走ります🦑【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=_fC0IikVIz8
-DURATION:PT2H
-DTSTART:20240518T143000Z
-SUMMARY:🔥不知火フレア: 【スプラトゥーン3】フェス！「いつもどおり過ごす」陣営走ります🦑【不知火フレア/ホロライブ】
-UID:_fC0IikVIz8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 歌枠 / Karaoke 】#ホロスタ5周年ライブ 歌枠リレ＾～ / #燃えろアステル\nhttps://www.youtube.com/watch?v=UG1ZpuepCBA
 DURATION:PT2H
 DTSTART:20240519T110000Z
@@ -305,11 +340,25 @@ SUMMARY:🎭アステル・レダ: 【 歌枠 / Karaoke 】#ホロスタ5周年�
 UID:UG1ZpuepCBA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Suami ku gak pulang-pulang :( #mothersimulator\nhttps://www.youtube.com/watch?v=nLunh3CPDuI
+DESCRIPTION:【MV】unlucky - Gavis Bettel (Original Song)\nhttps://www.youtube.com/watch?v=XIRwP76bgtc
 DURATION:PT2H
-DTSTART:20240516T151359Z
-SUMMARY:🎨Iofi: Suami ku gak pulang-pulang :( #mothersimulator
-UID:nLunh3CPDuI
+DTSTART:20240518T030000Z
+SUMMARY:Bettel: 【MV】unlucky - Gavis Bettel (Original Song)
+UID:XIRwP76bgtc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #ホロスタ5周年歌枠リレー 】1日目ラストを務めます！【 律可/ホロスターズ 】#ホロスタ5周年ライブ\nhttps://www.youtube.com/watch?v=KHowLiMn5Sg
+DURATION:PT2H
+DTSTART:20240518T122000Z
+SUMMARY:⚙律可: 【 #ホロスタ5周年歌枠リレー 】1日目ラストを務めます！【 律可/ホロスターズ 】#ホロスタ5周年ライブ
+UID:KHowLiMn5Sg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HARDCORE MINECRAFT】Day 3\, WITHER FIGHT !!!!!!!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=384wvifXK3A
+DURATION:PT2H
+DTSTART:20240518T100000Z
+SUMMARY:Kiara: 【HARDCORE MINECRAFT】Day 3\, WITHER FIGHT !!!!!!!!! #kfp #キアライブ
+UID:384wvifXK3A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【メン限】え【荒咬オウガ /ホロスターズ】\nhttps://www.youtube.com/watch?v=ZUpemAEdxcI
@@ -319,11 +368,11 @@ SUMMARY:荒咬オウガ: 【メン限】え【荒咬オウガ /ホロスター�
 UID:ZUpemAEdxcI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Freetalk 】About Cover Song and KHR【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=XkGJN070DEQ
+DESCRIPTION:【Minecraft】#ホロ鯖ハードコアマイクラ　素材集めっ【 常闇トワ/ホロライブ 】\nhttps://www.youtube.com/watch?v=Czy8bl_O0EA
 DURATION:PT2H
-DTSTART:20240517T140000Z
-SUMMARY:🎨Iofi: 【 Freetalk 】About Cover Song and KHR【 iofi / hololiveID 】
-UID:XkGJN070DEQ
+DTSTART:20240518T070000Z
+SUMMARY:👾常闇トワ: 【Minecraft】#ホロ鯖ハードコアマイクラ　素材集めっ【 常闇トワ/ホロライブ 】
+UID:Czy8bl_O0EA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ハードコアでものんびり生きる【ホロライブ/ときのそら】\nhttps://www.youtube.com/watch?v=K6SQ_dIf5X4
@@ -347,25 +396,11 @@ SUMMARY:Kiara: 【HARDCORE MINECRAFT】Day 2\, late shift!!! #kfp #キアライ�
 UID:I4rhDR4yizA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #常闇トワ新衣装 】Newoutfit🎀みんなの予想を見ながら公開【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=_Dt9EY6OOLo
-DURATION:PT2H
-DTSTART:20240517T110000Z
-SUMMARY:👾常闇トワ: 【 #常闇トワ新衣装 】Newoutfit🎀みんなの予想を見ながら公開【常闇トワ/ホロライブ】
-UID:_Dt9EY6OOLo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[BIRTHDAY STREAM] BIRTHDAY DISASTER  MUST WATCH UNTIL THE END!11! #BettelsBigOlDay2024 #gavisbettel\nhttps://www.youtube.com/watch?v=V16Gq4L9GWU
 DURATION:PT2H
 DTSTART:20240518T020000Z
 SUMMARY:Bettel: [BIRTHDAY STREAM] BIRTHDAY DISASTER  MUST WATCH UNTIL THE END!11! #BettelsBigOlDay2024 #gavisbettel
 UID:V16Gq4L9GWU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Game of Sisyphus】岩を押して頂上までひたすら登る！！！！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=b0SfZitz294
-DURATION:PT2H
-DTSTART:20240517T130000Z
-SUMMARY:⚙律可: 【The Game of Sisyphus】岩を押して頂上までひたすら登る！！！！【律可/ホロスターズ】#りつすた
-UID:b0SfZitz294
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #ホロスタ5周年歌枠リレー】IT'S TIME TO SING OUR HEARTS OUT ! ! ! #holostars\nhttps://www.youtube.com/watch?v=hjXvi_QQFus
@@ -396,6 +431,13 @@ SUMMARY:Jurard: 【ART STREAM】CAN I DRAW ARMIS BY MEMORY?
 UID:jaRRF2bx2XA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 Bloodborne 】完全初見の『ブラッドボーン』に挑戦してみるのら！＃１【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=mm_rhZTYqqw
+DURATION:PT2H
+DTSTART:20240518T040000Z
+SUMMARY:🍬姫森ルーナ: 【 Bloodborne 】完全初見の『ブラッドボーン』に挑戦してみるのら！＃１【姫森ルーナ/ホロライブ】
+UID:mm_rhZTYqqw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MEMBERSHIP MUSIC MAKING】OCTOPOSSE DEBUT SONG PART 1\nhttps://www.youtube.com/watch?v=caQfZHDYH-s
 DURATION:PT2H
 DTSTART:20240518T070000Z
@@ -403,25 +445,11 @@ SUMMARY:Octavio: 【MEMBERSHIP MUSIC MAKING】OCTOPOSSE DEBUT SONG PART 1
 UID:caQfZHDYH-s
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 縦型配信｜歌枠 】 低音JPOPメインで歌うのら～🎶 #shorts #VTuber #hololive【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=n8RBdAaBsiU
+DESCRIPTION:【Minecraft】初心者らでん参戦！パート3  #ホロ鯖ハードコアマイクラ【儒烏風亭らでん  #ReGLOSS 】\nhttps://www.youtube.com/watch?v=v5bCqpM0hOw
 DURATION:PT2H
-DTSTART:20240517T140000Z
-SUMMARY:🍬姫森ルーナ: 【 縦型配信｜歌枠 】 低音JPOPメインで歌うのら～🎶 #shorts #VTuber #hololive【姫森ルーナ/ホロライブ】
-UID:n8RBdAaBsiU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スト６】コンボがこれまでのキャラで一番難しい！がんばろう！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=_IwcCRGuy-Y
-DURATION:PT2H
-DTSTART:20240517T003000Z
-SUMMARY:🦔💨岸堂天真: 【スト６】コンボがこれまでのキャラで一番難しい！がんばろう！【岸堂天真/ホロスターズ】
-UID:_IwcCRGuy-Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【NOITA】Learning Alchemy through trial and error\nhttps://www.youtube.com/watch?v=CgWAfV0qA6A
-DURATION:PT2H
-DTSTART:20240516T180000Z
-SUMMARY:Crimzon: 【NOITA】Learning Alchemy through trial and error
-UID:CgWAfV0qA6A
+DTSTART:20240518T130000Z
+SUMMARY:儒烏風亭らでん: 【Minecraft】初心者らでん参戦！パート3  #ホロ鯖ハードコアマイクラ【儒烏風亭らでん  #ReGLOSS 】
+UID:v5bCqpM0hOw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】#ホロ鯖ハードコアマイクラ🎮～ウィザー戦生きる～【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=N6ZTlShaPkQ
@@ -438,522 +466,11 @@ SUMMARY:🍕アルランディス: 【 歌枠 】#ホロスタ5周年歌枠リ�
 UID:jGNP5WAwuU8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ホロ鯖ハードコアマイクラ が浦島太郎状態な件について【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=ZHtZrdf0EyQ
-DURATION:PT2H
-DTSTART:20240517T050000Z
-SUMMARY:🔥不知火フレア: 【Minecraft】ホロ鯖ハードコアマイクラ が浦島太郎状態な件について【不知火フレア/ホロライブ】
-UID:ZHtZrdf0EyQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:『ビビデバ』踊ってみたNGカット💃 #ビビデバ  #踊ってみた  #shorts  #short\nhttps://www.youtube.com/watch?v=HKbsunp6mKQ
 DURATION:PT2H
 DTSTART:20240518T100022Z
 SUMMARY:🐏角巻わため: 『ビビデバ』踊ってみたNGカット💃 #ビビデバ  #踊ってみた  #shorts  #short
 UID:HKbsunp6mKQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【P4G】#16 足立、お前……！！？？？初見ペルソナ4 ザ・ゴールデン/Persona4 The golden【天音かなた/ホロライブ】※ネタバレ注意\nhttps://www.youtube.com/watch?v=Q22E9JYyso0
-DURATION:PT2H
-DTSTART:20240518T040000Z
-SUMMARY:💫天音かなた: 【P4G】#16 足立、お前……！！？？？初見ペルソナ4 ザ・ゴールデン/Persona4 The golden【天音かなた/ホロライブ】※ネタバレ注意
-UID:Q22E9JYyso0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】生存４日目｜こよりを信じろ #ホロ鯖ハードコアマイクラ【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=QIAigspvhOQ
-DURATION:PT2H
-DTSTART:20240517T100000Z
-SUMMARY:雪花ラミィ: 【Minecraft】生存４日目｜こよりを信じろ #ホロ鯖ハードコアマイクラ【雪花ラミィ/ホロライブ】
-UID:QIAigspvhOQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#生スバル】おはすば！！！！！：ゲストあり！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=LckMeqdMDoE
-DURATION:PT2H
-DTSTART:20240518T010000Z
-SUMMARY:🚑大空スバル: 【#生スバル】おはすば！！！！！：ゲストあり！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】
-UID:LckMeqdMDoE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【WE MISSED YOU】we missed you we missed you we missed you 🐾💓 【FUWAMOCO】\nhttps://www.youtube.com/watch?v=FwmPP6XE0PY
-DURATION:PT2H
-DTSTART:20240519T010000Z
-SUMMARY:FUWAMOCO: 【WE MISSED YOU】we missed you we missed you we missed you 🐾💓 【FUWAMOCO】
-UID:FwmPP6XE0PY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロ小学力テスト対決】ホロ小学校学力テスト対決！百鬼あやめちゃんvs鷹嶺ルイちゃん\nhttps://www.youtube.com/watch?v=ZiFpDsw_p4w
-DURATION:PT2H
-DTSTART:20240518T100000Z
-SUMMARY:🌽白上フブキ: 【#ホロ小学力テスト対決】ホロ小学校学力テスト対決！百鬼あやめちゃんvs鷹嶺ルイちゃん
-UID:ZiFpDsw_p4w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ヴァルコネ 】ホロライブ×ヴァルキリーコネクト第3弾！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=bNuCCgTJbuI
-DURATION:PT2H
-DTSTART:20240517T100000Z
-SUMMARY:🌸さくらみこ: 【 ヴァルコネ 】ホロライブ×ヴァルキリーコネクト第3弾！【ホロライブ/さくらみこ】
-UID:bNuCCgTJbuI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 あつまれどうぶつの森 】 #9 スローライフ、はじめます。    #shorts  #縦型配信 #short  【vtuber / ホロスターズ 】\nhttps://www.youtube.com/watch?v=7DMMPVwOmyg
-DURATION:PT2H
-DTSTART:20240518T064336Z
-SUMMARY:羽継烏有: 【 あつまれどうぶつの森 】 #9 スローライフ、はじめます。    #shorts  #縦型配信 #short  【vtuber / ホロスターズ 】
-UID:7DMMPVwOmyg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【麻雀一番街】リスナー参加型で深夜に麻雀するのって最高じゃん？ 【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=mlBpEsAlKFU
-DURATION:PT2H
-DTSTART:20240518T130000Z
-SUMMARY:🍕アルランディス: 【麻雀一番街】リスナー参加型で深夜に麻雀するのって最高じゃん？ 【アルランディス/ホロスターズ】
-UID:mlBpEsAlKFU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ラグトレイン / 猫又おかゆ (cover)\nhttps://www.youtube.com/watch?v=d5sqc4hKiDs
-DURATION:PT2H
-DTSTART:20240517T090000Z
-SUMMARY:🍙猫又おかゆ: ラグトレイン / 猫又おかゆ (cover)
-UID:d5sqc4hKiDs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:＃1｜劇場版『 ドラゴンボールZ 』同時視聴会なのら！ DRAGON BALL Z / Watch party【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=Pn665mj93Fc
-DURATION:PT2H
-DTSTART:20240518T110000Z
-SUMMARY:🍬姫森ルーナ: ＃1｜劇場版『 ドラゴンボールZ 』同時視聴会なのら！ DRAGON BALL Z / Watch party【姫森ルーナ/ホロライブ】
-UID:Pn665mj93Fc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪Sucker for Love: Date to Die For≫ I Won't Say In Love.\nhttps://www.youtube.com/watch?v=bvhd7nwAjTk
-DURATION:PT2H
-DTSTART:20240519T010000Z
-SUMMARY:Baelz: ≪Sucker for Love: Date to Die For≫ I Won't Say In Love.
-UID:bvhd7nwAjTk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:I am Hakumen. THE END HAS COME【BLAZBLUE: CENTRALFICTION】\nhttps://www.youtube.com/watch?v=bzCxxoMJQHk
-DURATION:PT2H
-DTSTART:20240516T230000Z
-SUMMARY:Flayon: I am Hakumen. THE END HAS COME【BLAZBLUE: CENTRALFICTION】
-UID:bzCxxoMJQHk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ホロ鯖ハードコアマイクラ開始！6日目ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=J_fi3bf8znQ
-DURATION:PT2H
-DTSTART:20240518T110000Z
-SUMMARY:👯兎田ぺこら: 【Minecraft】ホロ鯖ハードコアマイクラ開始！6日目ぺこ！【ホロライブ/兎田ぺこら】
-UID:J_fi3bf8znQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:あじめさせてください...？？？【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=_BC0MTvcwZI
-DURATION:PT2H
-DTSTART:20240516T210017Z
-SUMMARY:🐏角巻わため: あじめさせてください...？？？【 #今日のわため 】 #shorts #hololive #vtuber
-UID:_BC0MTvcwZI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ARMIS HALF-YEAR ANNIVERSARY STREAM #ARMFISH\nhttps://www.youtube.com/watch?v=-JR5d7Na32U
-DURATION:PT2H
-DTSTART:20240519T020000Z
-SUMMARY:Jurard: ARMIS HALF-YEAR ANNIVERSARY STREAM #ARMFISH
-UID:-JR5d7Na32U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪Princess Peach Showtime!≫ Take 3.\nhttps://www.youtube.com/watch?v=tE90SNoW0DM
-DURATION:PT2H
-DTSTART:20240517T010000Z
-SUMMARY:Baelz: ≪Princess Peach Showtime!≫ Take 3.
-UID:tE90SNoW0DM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ドラクエⅦ 】完全初見。本日もヒツジでドドドドドドドドドドドドドドド【鷹嶺ルイ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=SwRMfDmOKUk
-DURATION:PT2H
-DTSTART:20240518T030000Z
-SUMMARY:鷹嶺ルイ: 【 ドラクエⅦ 】完全初見。本日もヒツジでドドドドドドドドドドドドドドド【鷹嶺ルイ/ホロライブ】※ネタバレあり
-UID:SwRMfDmOKUk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Lies of P】Another Day. Another Boss. #shorts\nhttps://www.youtube.com/watch?v=opSAXlxSWPI
-DURATION:PT2H
-DTSTART:20240518T030034Z
-SUMMARY:Baelz: 【Lies of P】Another Day. Another Boss. #shorts
-UID:opSAXlxSWPI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:気持ち悪いっ【ホロライブ / AZKi】#ぷちあず #shorts #ホロ鯖ハードコアマイクラ\nhttps://www.youtube.com/watch?v=C6537T_fELo
-DURATION:PT2H
-DTSTART:20240518T090006Z
-SUMMARY:⚒AZKi: 気持ち悪いっ【ホロライブ / AZKi】#ぷちあず #shorts #ホロ鯖ハードコアマイクラ
-UID:C6537T_fELo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【お絵描き雑談】5周年ライブに向けてホロスタ全員の集合絵描く！2日目 #shorts  #イラスト  #vtuber  #illustration 【 vtuber / ホロスターズ 】\nhttps://www.youtube.com/watch?v=8-jzz0ZZmnc
-DURATION:PT2H
-DTSTART:20240518T065529Z
-SUMMARY:緋崎ガンマ: 【お絵描き雑談】5周年ライブに向けてホロスタ全員の集合絵描く！2日目 #shorts  #イラスト  #vtuber  #illustration 【 vtuber / ホロスターズ 】
-UID:8-jzz0ZZmnc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】#5 wither runs\, i come. wither comes\, i run. ok desu【#ホロ鯖ハードコアマイクラ】\nhttps://www.youtube.com/watch?v=RCAAktA5keo
-DURATION:PT2H
-DTSTART:20240518T124300Z
-SUMMARY:Kaela: 【Minecraft】#5 wither runs\, i come. wither comes\, i run. ok desu【#ホロ鯖ハードコアマイクラ】
-UID:RCAAktA5keo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロ鯖ハードコアマイクラ】day 2 for me... hope i don't die.【holoID】\nhttps://www.youtube.com/watch?v=ahp-vWdylD0
-DURATION:PT2H
-DTSTART:20240518T130000Z
-SUMMARY:🔮Moona: 【#ホロ鯖ハードコアマイクラ】day 2 for me... hope i don't die.【holoID】
-UID:ahp-vWdylD0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Hollow Knight】Chopping Bugs for Insect Salad Ep. 02\nhttps://www.youtube.com/watch?v=w1klL_46Se8
-DURATION:PT2H
-DTSTART:20240518T020000Z
-SUMMARY:Shiori: 【Hollow Knight】Chopping Bugs for Insect Salad Ep. 02
-UID:w1klL_46Se8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Hades II】 DESU TO CHRONOS\nhttps://www.youtube.com/watch?v=EhqcF4lBAJI
-DURATION:PT2H
-DTSTART:20240517T210000Z
-SUMMARY:Ina: 【Hades II】 DESU TO CHRONOS
-UID:EhqcF4lBAJI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Membership 】ちょっとだけでもお話しよ！！！！【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=G3T-uT0PNgs
-DURATION:PT2H
-DTSTART:20240518T140000Z
-SUMMARY:鷹嶺ルイ: 【 Membership 】ちょっとだけでもお話しよ！！！！【鷹嶺ルイ/ホロライブ】
-UID:G3T-uT0PNgs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ビビデバ】 仕事の合間に #ビビデバダンス #星街すいせい #hololive #ホロライブ #shorts\nhttps://www.youtube.com/watch?v=1iGHmncGGio
-DURATION:PT2H
-DTSTART:20240517T103445Z
-SUMMARY:ホロライブ: 【#ビビデバ】 仕事の合間に #ビビデバダンス #星街すいせい #hololive #ホロライブ #shorts
-UID:1iGHmncGGio
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Game of Sisyphus】Let's ROLL\nhttps://www.youtube.com/watch?v=WKOULAFlreU
-DURATION:PT2H
-DTSTART:20240518T030000Z
-SUMMARY:IRyS: 【The Game of Sisyphus】Let's ROLL
-UID:WKOULAFlreU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #ホロスタ5周年歌枠リレー  】#ホロスタ5周年ライブ 一緒に盛り上がっていこう！【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】\nhttps://www.youtube.com/watch?v=oiyUA73YPHY
-DURATION:PT2H
-DTSTART:20240518T112000Z
-SUMMARY:水無世燐央: 【 #ホロスタ5周年歌枠リレー  】#ホロスタ5周年ライブ 一緒に盛り上がっていこう！【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】
-UID:oiyUA73YPHY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロスタ5周年ライブ 5周年記念歌枠配信リレー】 6月8日(土) にLIVEがあります！【夜十神封魔/UPROAR!!】\nhttps://www.youtube.com/watch?v=TJ49PBiNOkQ
-DURATION:PT2H
-DTSTART:20240518T104000Z
-SUMMARY:夜十神封魔: 【#ホロスタ5周年ライブ 5周年記念歌枠配信リレー】 6月8日(土) にLIVEがあります！【夜十神封魔/UPROAR!!】
-UID:TJ49PBiNOkQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ブゥーーーーーン...【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=XT352Jth4NM
-DURATION:PT2H
-DTSTART:20240517T210031Z
-SUMMARY:🐏角巻わため: ブゥーーーーーン...【 #今日のわため 】 #shorts #hololive #vtuber
-UID:XT352Jth4NM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロスタ5周年ライブ 歌枠リレー】ライブ前にホロスタ歌リレヱ【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=R6i6lzZXUwo
-DURATION:PT2H
-DTSTART:20240518T113000Z
-SUMMARY:影山シエン: 【#ホロスタ5周年ライブ 歌枠リレー】ライブ前にホロスタ歌リレヱ【影山シエン/ホロスターズ】
-UID:R6i6lzZXUwo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロスタ5周年ライブ 5周年記念歌枠配信リレー】 LIVE前の初歌枠！！【vtuber / ホロスターズ 】\nhttps://www.youtube.com/watch?v=TlDGNbn864I
-DURATION:PT2H
-DTSTART:20240519T120000Z
-SUMMARY:羽継烏有: 【#ホロスタ5周年ライブ 5周年記念歌枠配信リレー】 LIVE前の初歌枠！！【vtuber / ホロスターズ 】
-UID:TlDGNbn864I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【＃ホロ鯖ハードコアマイクラ】WHAT DID I MISS【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=-wkoj1TykO0
-DURATION:PT2H
-DTSTART:20240517T135832Z
-SUMMARY:Ollie: 【＃ホロ鯖ハードコアマイクラ】WHAT DID I MISS【Kureiji Ollie】
-UID:-wkoj1TykO0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロ鯖ハードコアマイクラ】この戦いが終わったら...俺...【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=1Nq96My_ZpY
-DURATION:PT2H
-DTSTART:20240518T113000Z
-SUMMARY:⚔白銀ノエル: 【#ホロ鯖ハードコアマイクラ】この戦いが終わったら...俺...【白銀ノエル/ホロライブ】
-UID:1Nq96My_ZpY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Stardew Valley】We're doing a little farming !\nhttps://www.youtube.com/watch?v=dbg_2OsLvLs
-DURATION:PT2H
-DTSTART:20240518T123000Z
-SUMMARY:Zeta: 【Stardew Valley】We're doing a little farming !
-UID:dbg_2OsLvLs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ＃ホロ鯖ハードコアマイクラ 】はじめてのハードコアです ｵｼﾞｬﾏｼﾏｽ【 ホロライブ/猫又おかゆ 】\nhttps://www.youtube.com/watch?v=YCHSi9ZemXo
-DURATION:PT2H
-DTSTART:20240517T100000Z
-SUMMARY:🍙猫又おかゆ: 【 ＃ホロ鯖ハードコアマイクラ 】はじめてのハードコアです ｵｼﾞｬﾏｼﾏｽ【 ホロライブ/猫又おかゆ 】
-UID:YCHSi9ZemXo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#ホロスタ5周年ライブ まであと3週間!! #花咲みやび #ホロスターズ #shorts\nhttps://www.youtube.com/watch?v=UCS5o7d1yag
-DURATION:PT2H
-DTSTART:20240518T003941Z
-SUMMARY:🌺花咲みやび: #ホロスタ5周年ライブ まであと3週間!! #花咲みやび #ホロスターズ #shorts
-UID:UCS5o7d1yag
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEXランク】5億年ぶりにソロランクです！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=gC3QCP3CSS4
-DURATION:PT2H
-DTSTART:20240517T080500Z
-SUMMARY:🏮夏色まつり: 【APEXランク】5億年ぶりにソロランクです！【ホロライブ/夏色まつり】
-UID:gC3QCP3CSS4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#9【あつまれ どうぶつの森】休日のチル森！離島ガチャ...あと4人！【夜十神封魔/UPROAR!!】 #shorts　#short　 #縦型配信\nhttps://www.youtube.com/watch?v=Fdlvfu6z5E0
-DURATION:PT2H
-DTSTART:20240518T020544Z
-SUMMARY:夜十神封魔: #9【あつまれ どうぶつの森】休日のチル森！離島ガチャ...あと4人！【夜十神封魔/UPROAR!!】 #shorts　#short　 #縦型配信
-UID:Fdlvfu6z5E0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【LOST EGG】Would You Still Love Me if I was an Egg??\nhttps://www.youtube.com/watch?v=RTtNVDzquxs
-DURATION:PT2H
-DTSTART:20240516T220000Z
-SUMMARY:Syrios: 【LOST EGG】Would You Still Love Me if I was an Egg??
-UID:RTtNVDzquxs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 龍が如く0 】 10章～ 桐生さんと一緒に蒼天堀にイクゾ！🐉 Ι YAKUZA ZERO #08【 猫又おかゆ/ホロライブ 】\nhttps://www.youtube.com/watch?v=f5fXtGddTC8
-DURATION:PT2H
-DTSTART:20240518T100000Z
-SUMMARY:🍙猫又おかゆ: 【 龍が如く0 】 10章～ 桐生さんと一緒に蒼天堀にイクゾ！🐉 Ι YAKUZA ZERO #08【 猫又おかゆ/ホロライブ 】
-UID:f5fXtGddTC8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ドット絵でPOKÉDANCE踊ってみたんだけど…？？？3D化目指してます！チャンネル登録お願いします！ #regloss #ホロライブ #pokedance #shorts #ポケモン\nhttps://www.youtube.com/watch?v=_KdTISRAbt4
-DURATION:PT2H
-DTSTART:20240518T100026Z
-SUMMARY:一条莉々華: ドット絵でPOKÉDANCE踊ってみたんだけど…？？？3D化目指してます！チャンネル登録お願いします！ #regloss #ホロライブ #pokedance #shorts #ポケモン
-UID:_KdTISRAbt4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】#ホロ鯖マイクラハードコア🎮～ネザーで生き残る方法～【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=xvln_8-3lW4
-DURATION:PT2H
-DTSTART:20240517T131500Z
-SUMMARY:風真いろは: 【Minecraft】#ホロ鯖マイクラハードコア🎮～ネザーで生き残る方法～【風真いろは/ホロライブ】
-UID:xvln_8-3lW4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ゲリラ歌枠！！まったり～！【轟はじめ/ReGLOSS】 #hololivedev_is  #shorts\nhttps://www.youtube.com/watch?v=9YFnfx_n6zw
-DURATION:PT2H
-DTSTART:20240517T160954Z
-SUMMARY:轟はじめ: ゲリラ歌枠！！まったり～！【轟はじめ/ReGLOSS】 #hololivedev_is  #shorts
-UID:9YFnfx_n6zw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft #ホロ鯖ハードコアマイクラ】Wither Fight...!! マイクラ初心者が生き残るハードコアマイクラその4。【holoID | Anya Melfissa】\nhttps://www.youtube.com/watch?v=2EO2_EW19PQ
-DURATION:PT2H
-DTSTART:20240518T103000Z
-SUMMARY:Anya: 【Minecraft #ホロ鯖ハードコアマイクラ】Wither Fight...!! マイクラ初心者が生き残るハードコアマイクラその4。【holoID | Anya Melfissa】
-UID:2EO2_EW19PQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Content Warning】限界RUST初期メン4人娘でバズ動画撮影しに行ってみた！【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=R5QQMyw6BYU
-DURATION:PT2H
-DTSTART:20240518T110000Z
-SUMMARY:🍎アキロゼ: 【Content Warning】限界RUST初期メン4人娘でバズ動画撮影しに行ってみた！【ホロライブ/アキロゼ】
-UID:R5QQMyw6BYU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【UNARCHIVED KARAOKE】Vertical Singing 🎼#shorts\nhttps://www.youtube.com/watch?v=Xbp99JJUARE
-DURATION:PT2H
-DTSTART:20240519T000000Z
-SUMMARY:Nerissa: 【UNARCHIVED KARAOKE】Vertical Singing 🎼#shorts
-UID:Xbp99JJUARE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【学マス】プロデュースする男　－紫雲清夏、篠澤広プロデュース－【夕刻ロベル/ホロスターズ】※ネタバレあり\nhttps://www.youtube.com/watch?v=ebc7klnPLs0
-DURATION:PT2H
-DTSTART:20240517T051500Z
-SUMMARY:🍷夕刻ロベル: 【学マス】プロデュースする男　－紫雲清夏、篠澤広プロデュース－【夕刻ロベル/ホロスターズ】※ネタバレあり
-UID:ebc7klnPLs0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】４日目！今日はネザーへ行く？！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=ELyUWC4TLLI
-DURATION:PT2H
-DTSTART:20240517T130000Z
-SUMMARY:🐏角巻わため: 【Minecraft】４日目！今日はネザーへ行く？！！！【角巻わため/ホロライブ４期生】
-UID:ELyUWC4TLLI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】5日目、命が惜しくてやってられるか！ #ホロ鯖ハードコアマイクラ で生きる【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=S7ZD_IoB4QE
-DURATION:PT2H
-DTSTART:20240517T104500Z
-SUMMARY:尾丸ポルカ: 【Minecraft】5日目、命が惜しくてやってられるか！ #ホロ鯖ハードコアマイクラ で生きる【尾丸ポルカ/ホロライブ】
-UID:S7ZD_IoB4QE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#瞬間ハートビート サビだけ歌ってみた！ #shorts #ReGLOSS #一条莉々華 #MIXなし\nhttps://www.youtube.com/watch?v=xULSysOAX5w
-DURATION:PT2H
-DTSTART:20240517T100053Z
-SUMMARY:DEV_IShololive: #瞬間ハートビート サビだけ歌ってみた！ #shorts #ReGLOSS #一条莉々華 #MIXなし
-UID:xULSysOAX5w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ehehe【Chatting】\nhttps://www.youtube.com/watch?v=cXWGGdLhhAE
-DURATION:PT2H
-DTSTART:20240518T000000Z
-SUMMARY:Nerissa: ehehe【Chatting】
-UID:cXWGGdLhhAE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 MAFIA II 】A New Family For Me【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=34AE0NtCkc4
-DURATION:PT2H
-DTSTART:20240518T120000Z
-SUMMARY:🎨Iofi: 【 MAFIA II 】A New Family For Me【 iofi / hololiveID 】
-UID:34AE0NtCkc4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Membership限定】映画同時視聴「ハリー・ポッターと不死鳥の騎士団」 #かなたんロードショー 【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=OhUgghxLRs4
-DURATION:PT2H
-DTSTART:20240517T110000Z
-SUMMARY:💫天音かなた: 【Membership限定】映画同時視聴「ハリー・ポッターと不死鳥の騎士団」 #かなたんロードショー 【天音かなた/ホロライブ】
-UID:OhUgghxLRs4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】#ホロ鯖ハードコアマイクラ！最後まで生き延びるぞ！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=F5lE4GeYgtk
-DURATION:PT2H
-DTSTART:20240518T130000Z
-SUMMARY:音乃瀬奏: 【Minecraft】#ホロ鯖ハードコアマイクラ！最後まで生き延びるぞ！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
-UID:F5lE4GeYgtk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】お歌のりはびり？？？？？？？【百鬼あやめ/ホロライブ】\nhttps://www.youtube.com/watch?v=IOU5D84EaOE
-DURATION:PT2H
-DTSTART:20240518T134500Z
-SUMMARY:👿百鬼あやめ: 【歌枠】お歌のりはびり？？？？？？？【百鬼あやめ/ホロライブ】
-UID:IOU5D84EaOE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MV】unlucky - Gavis Bettel (Original Song)\nhttps://www.youtube.com/watch?v=XIRwP76bgtc
-DURATION:PT2H
-DTSTART:20240518T030000Z
-SUMMARY:Bettel: 【MV】unlucky - Gavis Bettel (Original Song)
-UID:XIRwP76bgtc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #ホロスタ5周年歌枠リレー 】1日目ラストを務めます！【 律可/ホロスターズ 】#ホロスタ5周年ライブ\nhttps://www.youtube.com/watch?v=KHowLiMn5Sg
-DURATION:PT2H
-DTSTART:20240518T122000Z
-SUMMARY:⚙律可: 【 #ホロスタ5周年歌枠リレー 】1日目ラストを務めます！【 律可/ホロスターズ 】#ホロスタ5周年ライブ
-UID:KHowLiMn5Sg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Prisuners Night】Prisuners Night time !!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=6q6o2KctB2o
-DURATION:PT2H
-DTSTART:20240517T130000Z
-SUMMARY:🐿Risu: 【Prisuners Night】Prisuners Night time !!【Ayunda Risu】
-UID:6q6o2KctB2o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HARDCORE MINECRAFT】Day 3\, WITHER FIGHT !!!!!!!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=384wvifXK3A
-DURATION:PT2H
-DTSTART:20240518T100000Z
-SUMMARY:Kiara: 【HARDCORE MINECRAFT】Day 3\, WITHER FIGHT !!!!!!!!! #kfp #キアライブ
-UID:384wvifXK3A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #ホロ鯖ハードコアマイクラ 】賭博と生き残りや！ハードコアしにきたぜ、にぇ！！２日目【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=Rn_KrIVTIsk
-DURATION:PT2H
-DTSTART:20240517T110000Z
-SUMMARY:🌸さくらみこ: 【 #ホロ鯖ハードコアマイクラ 】賭博と生き残りや！ハードコアしにきたぜ、にぇ！！２日目【ホロライブ/さくらみこ】
-UID:Rn_KrIVTIsk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DARK SOULS™ REMASTERED】ソウルシリーズ初挑戦、なんかしなる斧を振り回す男【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=83QjgzIwuV4
-DURATION:PT2H
-DTSTART:20240517T093000Z
-SUMMARY:🍕アルランディス: 【DARK SOULS™ REMASTERED】ソウルシリーズ初挑戦、なんかしなる斧を振り回す男【アルランディス/ホロスターズ】
-UID:83QjgzIwuV4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【世界のアソビ大全51】そらロボで対決しちゃうよ！！【ホロライブ/ときのそら/ロボ子さん】\nhttps://www.youtube.com/watch?v=k8O9S6bs730
-DURATION:PT2H
-DTSTART:20240517T100000Z
-SUMMARY:🐻ときのそら: 【世界のアソビ大全51】そらロボで対決しちゃうよ！！【ホロライブ/ときのそら/ロボ子さん】
-UID:k8O9S6bs730
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロ鯖ハードコアマイクラ】i just joined.【holoID】\nhttps://www.youtube.com/watch?v=XY3GxuJIFdI
-DURATION:PT2H
-DTSTART:20240517T143000Z
-SUMMARY:🔮Moona: 【#ホロ鯖ハードコアマイクラ】i just joined.【holoID】
-UID:XY3GxuJIFdI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Bloodborne 】完全初見の『ブラッドボーン』に挑戦してみるのら！＃１【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=mm_rhZTYqqw
-DURATION:PT2H
-DTSTART:20240518T040000Z
-SUMMARY:🍬姫森ルーナ: 【 Bloodborne 】完全初見の『ブラッドボーン』に挑戦してみるのら！＃１【姫森ルーナ/ホロライブ】
-UID:mm_rhZTYqqw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】初心者らでん参戦！パート2  #ホロ鯖ハードコアマイクラ【儒烏風亭らでん  #ReGLOSS 】\nhttps://www.youtube.com/watch?v=ypzU2SPSAHI
-DURATION:PT2H
-DTSTART:20240517T110000Z
-SUMMARY:儒烏風亭らでん: 【Minecraft】初心者らでん参戦！パート2  #ホロ鯖ハードコアマイクラ【儒烏風亭らでん  #ReGLOSS 】
-UID:ypzU2SPSAHI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】初心者らでん参戦！パート3  #ホロ鯖ハードコアマイクラ【儒烏風亭らでん  #ReGLOSS 】\nhttps://www.youtube.com/watch?v=v5bCqpM0hOw
-DURATION:PT2H
-DTSTART:20240518T130000Z
-SUMMARY:儒烏風亭らでん: 【Minecraft】初心者らでん参戦！パート3  #ホロ鯖ハードコアマイクラ【儒烏風亭らでん  #ReGLOSS 】
-UID:v5bCqpM0hOw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アソビ大全】リベンジ。今度こそアソビ大全しようぜ【轟はじめ/Hakos Baelz】＃呼び出しばんちょー\nhttps://www.youtube.com/watch?v=oYb4DvUM4OU
-DURATION:PT2H
-DTSTART:20240517T130000Z
-SUMMARY:轟はじめ: 【アソビ大全】リベンジ。今度こそアソビ大全しようぜ【轟はじめ/Hakos Baelz】＃呼び出しばんちょー
-UID:oYb4DvUM4OU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:推しカメラ┊夕刻ロベル（Yukoku Roberu）🎶We are the HOLOSTARS!!　#shorts  #ホロスタショート\nhttps://www.youtube.com/watch?v=qHAqs2uH3v0
-DURATION:PT2H
-DTSTART:20240517T100100Z
-SUMMARY:ホロスターズ: 推しカメラ┊夕刻ロベル（Yukoku Roberu）🎶We are the HOLOSTARS!!　#shorts  #ホロスタショート
-UID:qHAqs2uH3v0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:New Outfit\, Green Screen!\nhttps://www.youtube.com/watch?v=HPjOEfxoU_8
-DURATION:PT2H
-DTSTART:20240517T034714Z
-SUMMARY:Shinri: New Outfit\, Green Screen!
-UID:HPjOEfxoU_8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】#ホロ鯖ハードコアマイクラ！最後まで生き延びるぞ！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=JEd25VOcB_Y
-DURATION:PT2H
-DTSTART:20240517T131000Z
-SUMMARY:音乃瀬奏: 【Minecraft】#ホロ鯖ハードコアマイクラ！最後まで生き延びるぞ！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
-UID:JEd25VOcB_Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【＃ホロ鯖ハードコアマイクラ】5/17 ホロ鯖ニュース【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=0WmQIH1q0C8
-DURATION:PT2H
-DTSTART:20240517T090000Z
-SUMMARY:👯兎田ぺこら: 【＃ホロ鯖ハードコアマイクラ】5/17 ホロ鯖ニュース【ホロライブ/兎田ぺこら】
-UID:0WmQIH1q0C8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #ホロ鯖ハードコアマイクラ 】夜の決戦に向けて準備だにぇ！！！！！！！３日目【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=P9GQpDb9pzg
@@ -970,6 +487,27 @@ SUMMARY:博衣こより: 【FF3】初見🌟遂にファイナルファンタジ
 UID:QP4yJPC9vNA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【P4G】#16 足立、お前……！！？？？初見ペルソナ4 ザ・ゴールデン/Persona4 The golden【天音かなた/ホロライブ】※ネタバレ注意\nhttps://www.youtube.com/watch?v=Q22E9JYyso0
+DURATION:PT2H
+DTSTART:20240518T040000Z
+SUMMARY:💫天音かなた: 【P4G】#16 足立、お前……！！？？？初見ペルソナ4 ザ・ゴールデン/Persona4 The golden【天音かなた/ホロライブ】※ネタバレ注意
+UID:Q22E9JYyso0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#生スバル】おはすば！！！！！：ゲストあり！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=LckMeqdMDoE
+DURATION:PT2H
+DTSTART:20240518T010000Z
+SUMMARY:🚑大空スバル: 【#生スバル】おはすば！！！！！：ゲストあり！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】
+UID:LckMeqdMDoE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【WE MISSED YOU】we missed you we missed you we missed you 🐾💓 【FUWAMOCO】\nhttps://www.youtube.com/watch?v=FwmPP6XE0PY
+DURATION:PT2H
+DTSTART:20240519T010000Z
+SUMMARY:FUWAMOCO: 【WE MISSED YOU】we missed you we missed you we missed you 🐾💓 【FUWAMOCO】
+UID:FwmPP6XE0PY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】#ホロ鯖ハードコアマイクラ🎮～ウィザー戦にそなえて準備～【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=hgugZ77y1bM
 DURATION:PT2H
 DTSTART:20240518T070000Z
@@ -977,18 +515,46 @@ SUMMARY:風真いろは: 【Minecraft】#ホロ鯖ハードコアマイクラ�
 UID:hgugZ77y1bM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ANIMAL CROSSING: NEW HORIZONS】ONE LAST PEEK BEFORE I RESET THE WHOLE ISLAND【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=5cHrGVCzFFQ
+DESCRIPTION:【#ホロ小学力テスト対決】ホロ小学校学力テスト対決！百鬼あやめちゃんvs鷹嶺ルイちゃん\nhttps://www.youtube.com/watch?v=ZiFpDsw_p4w
 DURATION:PT2H
-DTSTART:20240517T035915Z
-SUMMARY:Ollie: 【ANIMAL CROSSING: NEW HORIZONS】ONE LAST PEEK BEFORE I RESET THE WHOLE ISLAND【Kureiji Ollie】
-UID:5cHrGVCzFFQ
+DTSTART:20240518T100000Z
+SUMMARY:🌽白上フブキ: 【#ホロ小学力テスト対決】ホロ小学校学力テスト対決！百鬼あやめちゃんvs鷹嶺ルイちゃん
+UID:ZiFpDsw_p4w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ドット絵でPOKÉDANCE踊ってみた！3D化に向けてチャンネル登録お願いします！ #regloss #ホロライブ #pokedance #shorts #ポケモン\nhttps://www.youtube.com/watch?v=hXvbZ4tUtxs
+DESCRIPTION:【 あつまれどうぶつの森 】 #9 スローライフ、はじめます。    #shorts  #縦型配信 #short  【vtuber / ホロスターズ 】\nhttps://www.youtube.com/watch?v=7DMMPVwOmyg
 DURATION:PT2H
-DTSTART:20240517T090041Z
-SUMMARY:一条莉々華: ドット絵でPOKÉDANCE踊ってみた！3D化に向けてチャンネル登録お願いします！ #regloss #ホロライブ #pokedance #shorts #ポケモン
-UID:hXvbZ4tUtxs
+DTSTART:20240518T064336Z
+SUMMARY:羽継烏有: 【 あつまれどうぶつの森 】 #9 スローライフ、はじめます。    #shorts  #縦型配信 #short  【vtuber / ホロスターズ 】
+UID:7DMMPVwOmyg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【麻雀一番街】リスナー参加型で深夜に麻雀するのって最高じゃん？ 【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=mlBpEsAlKFU
+DURATION:PT2H
+DTSTART:20240518T130000Z
+SUMMARY:🍕アルランディス: 【麻雀一番街】リスナー参加型で深夜に麻雀するのって最高じゃん？ 【アルランディス/ホロスターズ】
+UID:mlBpEsAlKFU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HADES II】Oobib of the Underworld\nhttps://www.youtube.com/watch?v=HVMsVIXDj00
+DURATION:PT2H
+DTSTART:20240518T230000Z
+SUMMARY:Bijou: 【HADES II】Oobib of the Underworld
+UID:HVMsVIXDj00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:＃1｜劇場版『 ドラゴンボールZ 』同時視聴会なのら！ DRAGON BALL Z / Watch party【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=Pn665mj93Fc
+DURATION:PT2H
+DTSTART:20240518T110000Z
+SUMMARY:🍬姫森ルーナ: ＃1｜劇場版『 ドラゴンボールZ 』同時視聴会なのら！ DRAGON BALL Z / Watch party【姫森ルーナ/ホロライブ】
+UID:Pn665mj93Fc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪Sucker for Love: Date to Die For≫ I Won't Say In Love.\nhttps://www.youtube.com/watch?v=bvhd7nwAjTk
+DURATION:PT2H
+DTSTART:20240519T010000Z
+SUMMARY:Baelz: ≪Sucker for Love: Date to Die For≫ I Won't Say In Love.
+UID:bvhd7nwAjTk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【メンバー限定】久しぶりにオフモードまったり雑談【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=WvSV3TW3ijo
@@ -998,11 +564,11 @@ SUMMARY:雪花ラミィ: 【メンバー限定】久しぶりにオフモード�
 UID:WvSV3TW3ijo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ASMR】人生初のASMRにパリピ漫画家が初挑戦！！！（3Dio）Whispering& Relaxation【#緋崎ガンマ / #ホロスターズ / #vtuber 】\nhttps://www.youtube.com/watch?v=ssHHC5kmSFo
+DESCRIPTION:【Minecraft】ホロ鯖ハードコアマイクラ開始！6日目ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=J_fi3bf8znQ
 DURATION:PT2H
-DTSTART:20240517T130000Z
-SUMMARY:緋崎ガンマ: 【ASMR】人生初のASMRにパリピ漫画家が初挑戦！！！（3Dio）Whispering& Relaxation【#緋崎ガンマ / #ホロスターズ / #vtuber 】
-UID:ssHHC5kmSFo
+DTSTART:20240518T110000Z
+SUMMARY:👯兎田ぺこら: 【Minecraft】ホロ鯖ハードコアマイクラ開始！6日目ぺこ！【ホロライブ/兎田ぺこら】
+UID:J_fi3bf8znQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロスタ5周年ライブ 歌枠リレー】LIVEに向けてパリピが盛り上げちゃいます!!【#緋崎ガンマ / #ホロスターズ / #vtuber】\nhttps://www.youtube.com/watch?v=H4BvGCc147w
@@ -1012,18 +578,11 @@ SUMMARY:緋崎ガンマ: 【#ホロスタ5周年ライブ 歌枠リレー】LIVE
 UID:H4BvGCc147w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:自由過ぎる水無世燐央 #ホロスターズ #shorts #水無世燐央 【#すすスタ 6】\nhttps://www.youtube.com/watch?v=6TSd3UgR33U
+DESCRIPTION:ARMIS HALF-YEAR ANNIVERSARY STREAM #ARMFISH\nhttps://www.youtube.com/watch?v=-JR5d7Na32U
 DURATION:PT2H
-DTSTART:20240517T030002Z
-SUMMARY:ホロスターズ: 自由過ぎる水無世燐央 #ホロスターズ #shorts #水無世燐央 【#すすスタ 6】
-UID:6TSd3UgR33U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:So.. this is... Mario? #supermariobros\nhttps://www.youtube.com/watch?v=Nk_YCjyYK4w
-DURATION:PT2H
-DTSTART:20240517T161832Z
-SUMMARY:🎨Iofi: So.. this is... Mario? #supermariobros
-UID:Nk_YCjyYK4w
+DTSTART:20240519T020000Z
+SUMMARY:Jurard: ARMIS HALF-YEAR ANNIVERSARY STREAM #ARMFISH
+UID:-JR5d7Na32U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】 Calm Before the Storm #ホロ鯖ハードコアマイクラ\nhttps://www.youtube.com/watch?v=V7qGvakmeQY
@@ -1033,6 +592,13 @@ SUMMARY:Ina: 【Minecraft】 Calm Before the Storm #ホロ鯖ハードコアマ�
 UID:V7qGvakmeQY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:So.. this is... Mario? #supermariobros\nhttps://www.youtube.com/watch?v=Nk_YCjyYK4w
+DURATION:PT2H
+DTSTART:20240517T161832Z
+SUMMARY:🎨Iofi: So.. this is... Mario? #supermariobros
+UID:Nk_YCjyYK4w
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ホロ鯖ハードコアマイクラ！打倒ウィザー！！！【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=iOFLSxRDReE
 DURATION:PT2H
 DTSTART:20240518T120000Z
@@ -1040,18 +606,25 @@ SUMMARY:⚓湊あくあ: 【Minecraft】ホロ鯖ハードコアマイクラ！�
 UID:iOFLSxRDReE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【閲覧注意】はあと＆のどかが鍋と虫をモグモグ！？【#ホロの休日_仮】\nhttps://www.youtube.com/watch?v=YpqvSip-XyI
+DURATION:PT2H
+DTSTART:20240520T100000Z
+SUMMARY:ホロライブ: 【閲覧注意】はあと＆のどかが鍋と虫をモグモグ！？【#ホロの休日_仮】
+UID:YpqvSip-XyI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 ドラクエⅦ 】完全初見。本日もヒツジでドドドドドドドドドドドドドドド【鷹嶺ルイ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=SwRMfDmOKUk
+DURATION:PT2H
+DTSTART:20240518T030000Z
+SUMMARY:鷹嶺ルイ: 【 ドラクエⅦ 】完全初見。本日もヒツジでドドドドドドドドドドドドドドド【鷹嶺ルイ/ホロライブ】※ネタバレあり
+UID:SwRMfDmOKUk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Balloon Fight】THIS TIME\, FOR SURE\, I WANNA SEE THE ENDING【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=zR1hK8l7l0s
 DURATION:PT2H
 DTSTART:20240518T080000Z
 SUMMARY:🎨Iofi: 【Balloon Fight】THIS TIME\, FOR SURE\, I WANNA SEE THE ENDING【 iofi / hololiveID 】
 UID:zR1hK8l7l0s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 カウントダウン 】ドキドキしながら一緒にお誕生日迎えたいな♡ 歌枠要素もあり！ #沙花叉クロヱ生誕カウントダウン 【ホロライブ/沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=cDZqjHtBh7U
-DURATION:PT2H
-DTSTART:20240517T143000Z
-SUMMARY:沙花叉クロヱ: 【 カウントダウン 】ドキドキしながら一緒にお誕生日迎えたいな♡ 歌枠要素もあり！ #沙花叉クロヱ生誕カウントダウン 【ホロライブ/沙花叉クロヱ】
-UID:cDZqjHtBh7U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】6日目（ポルカのﾀﾋから1日目）、ここはマイクラ天国部 #ホロ鯖ハードコアマイクラ で生きる【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=igh0LwusZhQ
@@ -1068,18 +641,18 @@ SUMMARY:🍷夕刻ロベル: 【】歌【夕刻ロベル/ホロスターズ】
 UID:Qc1tLthZ1w0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:DIVE TO WORLD - CHERRYBLOSSOM  / Airani iofifteen X Vestia Zeta\nhttps://www.youtube.com/watch?v=t2ru8RXetvo
+DESCRIPTION:【Lies of P】Another Day. Another Boss. #shorts\nhttps://www.youtube.com/watch?v=opSAXlxSWPI
 DURATION:PT2H
-DTSTART:20240517T120000Z
-SUMMARY:🎨Iofi: DIVE TO WORLD - CHERRYBLOSSOM  / Airani iofifteen X Vestia Zeta
-UID:t2ru8RXetvo
+DTSTART:20240518T030034Z
+SUMMARY:Baelz: 【Lies of P】Another Day. Another Boss. #shorts
+UID:opSAXlxSWPI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#4】ジョジョ３部同時視聴 エジプトへん！ / watching party JoJo's Bizarre Adventure: Part 3--Stardust Crusaders\nhttps://www.youtube.com/watch?v=b0t5Tr4LJbA
+DESCRIPTION:気持ち悪いっ【ホロライブ / AZKi】#ぷちあず #shorts #ホロ鯖ハードコアマイクラ\nhttps://www.youtube.com/watch?v=C6537T_fELo
 DURATION:PT2H
-DTSTART:20240517T130000Z
-SUMMARY:🚑大空スバル: 【#4】ジョジョ３部同時視聴 エジプトへん！ / watching party JoJo's Bizarre Adventure: Part 3--Stardust Crusaders
-UID:b0t5Tr4LJbA
+DTSTART:20240518T090006Z
+SUMMARY:⚒AZKi: 気持ち悪いっ【ホロライブ / AZKi】#ぷちあず #shorts #ホロ鯖ハードコアマイクラ
+UID:C6537T_fELo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 メン限 】20分じゃ歌い足りなかった男にギターを添えて【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】\nhttps://www.youtube.com/watch?v=2-LidL1pdK8
@@ -1089,11 +662,18 @@ SUMMARY:水無世燐央: 【 メン限 】20分じゃ歌い足りなかった男
 UID:2-LidL1pdK8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:どの衣装がすき？ 【hololive/鷹嶺ルイ】　#iwonder #shorts #変身\nhttps://www.youtube.com/watch?v=d5D2xZXsQxM
+DESCRIPTION:【お絵描き雑談】5周年ライブに向けてホロスタ全員の集合絵描く！2日目 #shorts  #イラスト  #vtuber  #illustration 【 vtuber / ホロスターズ 】\nhttps://www.youtube.com/watch?v=8-jzz0ZZmnc
 DURATION:PT2H
-DTSTART:20240517T090030Z
-SUMMARY:鷹嶺ルイ: どの衣装がすき？ 【hololive/鷹嶺ルイ】　#iwonder #shorts #変身
-UID:d5D2xZXsQxM
+DTSTART:20240518T065529Z
+SUMMARY:緋崎ガンマ: 【お絵描き雑談】5周年ライブに向けてホロスタ全員の集合絵描く！2日目 #shorts  #イラスト  #vtuber  #illustration 【 vtuber / ホロスターズ 】
+UID:8-jzz0ZZmnc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】#5 wither runs\, i come. wither comes\, i run. ok desu【#ホロ鯖ハードコアマイクラ】\nhttps://www.youtube.com/watch?v=RCAAktA5keo
+DURATION:PT2H
+DTSTART:20240518T124300Z
+SUMMARY:Kaela: 【Minecraft】#5 wither runs\, i come. wither comes\, i run. ok desu【#ホロ鯖ハードコアマイクラ】
+UID:RCAAktA5keo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロ鯖ハードコアマイクラ】5日目！ウィザーに一撃は入れたいマン！！【轟はじめ/ReGLOSS】#hololivedev_is\nhttps://www.youtube.com/watch?v=0GQpZf_yKw8
@@ -1117,17 +697,24 @@ SUMMARY:荒咬オウガ: 【#ホロスタ5周年歌枠リレー】ライブ前�
 UID:gEZryI_yAvk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【アイドルマスター シャイニーカラーズ 】I AM PLAYING A RHYTM GAME FOR THE FIRST TIME !【Song for Prism】\nhttps://www.youtube.com/watch?v=oiIIkuWys7Y
+DESCRIPTION:【#ホロ鯖ハードコアマイクラ】day 2 for me... hope i don't die.【holoID】\nhttps://www.youtube.com/watch?v=ahp-vWdylD0
 DURATION:PT2H
-DTSTART:20240516T230000Z
-SUMMARY:Hakka: 【アイドルマスター シャイニーカラーズ 】I AM PLAYING A RHYTM GAME FOR THE FIRST TIME !【Song for Prism】
-UID:oiIIkuWys7Y
+DTSTART:20240518T130000Z
+SUMMARY:🔮Moona: 【#ホロ鯖ハードコアマイクラ】day 2 for me... hope i don't die.【holoID】
+UID:ahp-vWdylD0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】#ホロ鯖ハードコアマイクラ　素材集めっ【 常闇トワ/ホロライブ 】\nhttps://www.youtube.com/watch?v=Czy8bl_O0EA
+DESCRIPTION:【Hollow Knight】Chopping Bugs for Insect Salad Ep. 02\nhttps://www.youtube.com/watch?v=w1klL_46Se8
 DURATION:PT2H
-DTSTART:20240518T070000Z
-SUMMARY:👾常闇トワ: 【Minecraft】#ホロ鯖ハードコアマイクラ　素材集めっ【 常闇トワ/ホロライブ 】
-UID:Czy8bl_O0EA
+DTSTART:20240518T020000Z
+SUMMARY:Shiori: 【Hollow Knight】Chopping Bugs for Insect Salad Ep. 02
+UID:w1klL_46Se8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Hades II】 DESU TO CHRONOS\nhttps://www.youtube.com/watch?v=EhqcF4lBAJI
+DURATION:PT2H
+DTSTART:20240517T210000Z
+SUMMARY:Ina: 【Hades II】 DESU TO CHRONOS
+UID:EhqcF4lBAJI
 END:VEVENT
 END:VCALENDAR
