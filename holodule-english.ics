@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:『MECONOPSIS』 - Ninomae Ina'nis\nhttps://www.youtube.com/watch?v=XzkNg89Cq9Y
+DURATION:PT2H
+DTSTART:20240520T223000Z
+SUMMARY:Ina: 『MECONOPSIS』 - Ninomae Ina'nis
+UID:XzkNg89Cq9Y
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:the bees #shorts\nhttps://www.youtube.com/watch?v=mDVqCCrjQNY
 DURATION:PT2H
 DTSTART:20240519T122343Z
@@ -11,11 +18,11 @@ SUMMARY:Calli: the bees #shorts
 UID:mDVqCCrjQNY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HARDCORE MINECRAFT】Day 2\, late shift!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=I4rhDR4yizA
+DESCRIPTION:≪JUST CHATTING≫ What a SUPA morning!\nhttps://www.youtube.com/watch?v=JpU2P0T2qsc
 DURATION:PT2H
-DTSTART:20240517T150000Z
-SUMMARY:Kiara: 【HARDCORE MINECRAFT】Day 2\, late shift!!! #kfp #キアライブ
-UID:I4rhDR4yizA
+DTSTART:20240520T010000Z
+SUMMARY:Baelz: ≪JUST CHATTING≫ What a SUPA morning!
+UID:JpU2P0T2qsc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HADES II】Oobib of the Underworld\nhttps://www.youtube.com/watch?v=HVMsVIXDj00
@@ -23,13 +30,6 @@ DURATION:PT2H
 DTSTART:20240518T230000Z
 SUMMARY:Bijou: 【HADES II】Oobib of the Underworld
 UID:HVMsVIXDj00
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Game of Sisyphus】Let's ROLL\nhttps://www.youtube.com/watch?v=WKOULAFlreU
-DURATION:PT2H
-DTSTART:20240518T030000Z
-SUMMARY:IRyS: 【The Game of Sisyphus】Let's ROLL
-UID:WKOULAFlreU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪Sucker for Love: Date to Die For≫ I Won't Say In Love.\nhttps://www.youtube.com/watch?v=bvhd7nwAjTk
@@ -46,6 +46,13 @@ SUMMARY:Kiara: 【HARDCORE MINECRAFT】FINALE\, ENDERDRAGON FIGHT! Survive till 
 UID:u9qLRmhUQ-0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【MEMBERS ONLY】Japan Stories Thus Far\nhttps://www.youtube.com/watch?v=ZWkAewfG99Y
+DURATION:PT2H
+DTSTART:20240519T020000Z
+SUMMARY:Shiori: 【MEMBERS ONLY】Japan Stories Thus Far
+UID:ZWkAewfG99Y
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】 THE END #ホロ鯖ハードコアマイクラ\nhttps://www.youtube.com/watch?v=PL4ccNNTwXY
 DURATION:PT2H
 DTSTART:20240519T100000Z
@@ -60,48 +67,6 @@ SUMMARY:Shiori: This is Worse Than ‘NO’ #shorts
 UID:RLEW4ihxaeY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪JUST CHATTING≫ What a SUPA morning!\nhttps://www.youtube.com/watch?v=JpU2P0T2qsc
-DURATION:PT2H
-DTSTART:20240520T010000Z
-SUMMARY:Baelz: ≪JUST CHATTING≫ What a SUPA morning!
-UID:JpU2P0T2qsc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】 Calm Before the Storm #ホロ鯖ハードコアマイクラ\nhttps://www.youtube.com/watch?v=V7qGvakmeQY
-DURATION:PT2H
-DTSTART:20240518T090000Z
-SUMMARY:Ina: 【Minecraft】 Calm Before the Storm #ホロ鯖ハードコアマイクラ
-UID:V7qGvakmeQY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ehehe【Chatting】\nhttps://www.youtube.com/watch?v=cXWGGdLhhAE
-DURATION:PT2H
-DTSTART:20240518T000000Z
-SUMMARY:Nerissa: ehehe【Chatting】
-UID:cXWGGdLhhAE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Another Crab's Treasure】I'm feeling CRABBY\nhttps://www.youtube.com/watch?v=4hDlSAna_48
-DURATION:PT2H
-DTSTART:20240517T230000Z
-SUMMARY:Bijou: 【Another Crab's Treasure】I'm feeling CRABBY
-UID:4hDlSAna_48
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Lies of P】Another Day. Another Boss. #shorts\nhttps://www.youtube.com/watch?v=opSAXlxSWPI
-DURATION:PT2H
-DTSTART:20240518T030034Z
-SUMMARY:Baelz: 【Lies of P】Another Day. Another Boss. #shorts
-UID:opSAXlxSWPI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MEMBERS ONLY】Japan Stories Thus Far\nhttps://www.youtube.com/watch?v=ZWkAewfG99Y
-DURATION:PT2H
-DTSTART:20240519T020000Z
-SUMMARY:Shiori: 【MEMBERS ONLY】Japan Stories Thus Far
-UID:ZWkAewfG99Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【OH HI】 kyun :(\nhttps://www.youtube.com/watch?v=jUiVdz4J5ew
 DURATION:PT2H
 DTSTART:20240519T030000Z
@@ -109,11 +74,11 @@ SUMMARY:Mumei: 【OH HI】 kyun :(
 UID:jUiVdz4J5ew
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HARDCORE MINECRAFT】Day 3\, WITHER FIGHT !!!!!!!!! #kfp #キアライブ\nhttps://www.youtube.com/watch?v=384wvifXK3A
+DESCRIPTION:≪Monster Hunter World≫ Sit Boy\nhttps://www.youtube.com/watch?v=TzQ9DWvYmWg
 DURATION:PT2H
-DTSTART:20240518T100000Z
-SUMMARY:Kiara: 【HARDCORE MINECRAFT】Day 3\, WITHER FIGHT !!!!!!!!! #kfp #キアライブ
-UID:384wvifXK3A
+DTSTART:20240521T010000Z
+SUMMARY:Baelz: ≪Monster Hunter World≫ Sit Boy
+UID:TzQ9DWvYmWg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【WE MISSED YOU】we missed you we missed you we missed you 🐾💓 【FUWAMOCO】\nhttps://www.youtube.com/watch?v=FwmPP6XE0PY
@@ -121,19 +86,5 @@ DURATION:PT2H
 DTSTART:20240519T010000Z
 SUMMARY:FUWAMOCO: 【WE MISSED YOU】we missed you we missed you we missed you 🐾💓 【FUWAMOCO】
 UID:FwmPP6XE0PY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Hollow Knight】Chopping Bugs for Insect Salad Ep. 02\nhttps://www.youtube.com/watch?v=w1klL_46Se8
-DURATION:PT2H
-DTSTART:20240518T020000Z
-SUMMARY:Shiori: 【Hollow Knight】Chopping Bugs for Insect Salad Ep. 02
-UID:w1klL_46Se8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Hades II】 DESU TO CHRONOS\nhttps://www.youtube.com/watch?v=EhqcF4lBAJI
-DURATION:PT2H
-DTSTART:20240517T210000Z
-SUMMARY:Ina: 【Hades II】 DESU TO CHRONOS
-UID:EhqcF4lBAJI
 END:VEVENT
 END:VCALENDAR
