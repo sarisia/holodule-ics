@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:#瞬間ハートビート サビだけ歌ってみた！ #shorts #ReGLOSS #轟はじめ #MIXなし\nhttps://www.youtube.com/watch?v=RcCaCmnbAtc
-DURATION:PT2H
-DTSTART:20240522T100021Z
-SUMMARY:DEV_IShololive: #瞬間ハートビート サビだけ歌ってみた！ #shorts #ReGLOSS #轟はじめ #MIXなし
-UID:RcCaCmnbAtc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ネザうんたらかんたらが掘りたい【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=irCZiZBpfmo
-DURATION:PT2H
-DTSTART:20240522T130000Z
-SUMMARY:音乃瀬奏: 【Minecraft】ネザうんたらかんたらが掘りたい【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
-UID:irCZiZBpfmo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#1 学園アイドルマスター】アイドルの成長物語…！ハマらないわけない💕推しは…この子！！※ネタバレ有【#一条莉々華 / hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=Hv1R5oKi-7I
 DURATION:PT2H
 DTSTART:20240522T090241Z
@@ -32,10 +18,17 @@ SUMMARY:轟はじめ: とっとこうた/歌ってみた【轟はじめ/ReGLOSS�
 UID:9yi5fPwxo_I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:歌うのが好き【轟はじめ/ReGLOSS】 #shorts  #hololivedev_is\nhttps://www.youtube.com/watch?v=2CXsDQifnhE
+DESCRIPTION:#瞬間ハートビート サビだけ歌ってみた！ #shorts #ReGLOSS #轟はじめ #MIXなし\nhttps://www.youtube.com/watch?v=RcCaCmnbAtc
 DURATION:PT2H
-DTSTART:20240522T140116Z
-SUMMARY:轟はじめ: 歌うのが好き【轟はじめ/ReGLOSS】 #shorts  #hololivedev_is
-UID:2CXsDQifnhE
+DTSTART:20240522T100021Z
+SUMMARY:DEV_IShololive: #瞬間ハートビート サビだけ歌ってみた！ #shorts #ReGLOSS #轟はじめ #MIXなし
+UID:RcCaCmnbAtc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】ネザうんたらかんたらが掘りたい【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=irCZiZBpfmo
+DURATION:PT2H
+DTSTART:20240522T130000Z
+SUMMARY:音乃瀬奏: 【Minecraft】ネザうんたらかんたらが掘りたい【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
+UID:irCZiZBpfmo
 END:VEVENT
 END:VCALENDAR
