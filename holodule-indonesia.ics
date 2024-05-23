@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Golf It!】golfing with our members! ⛳【Grindstone】\nhttps://www.youtube.com/watch?v=g2O7Bk_ZdV8
-DURATION:PT2H
-DTSTART:20240522T000000Z
-SUMMARY:Kaela: 【Golf It!】golfing with our members! ⛳【Grindstone】
-UID:g2O7Bk_ZdV8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Lethal Company】 FIRST ROUND 【KOBOLONIMBUS MEMBERSHIP ANNIVERSARY】\nhttps://www.youtube.com/watch?v=tvrtl-vElSI
 DURATION:PT2H
 DTSTART:20240523T060000Z
@@ -18,67 +11,11 @@ SUMMARY:Kobo: 【Lethal Company】 FIRST ROUND 【KOBOLONIMBUS MEMBERSHIP ANNIVE
 UID:tvrtl-vElSI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 ICE CLIMBER 】Feel old yet?【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=oTn8J8GqJCw
-DURATION:PT2H
-DTSTART:20240522T130000Z
-SUMMARY:🎨Iofi: 【 ICE CLIMBER 】Feel old yet?【 iofi / hololiveID 】
-UID:oTn8J8GqJCw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#14【PERSONA 3 RELOAD】WE ARE SO BACK (SPOILER ALERT)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=afOaSW8OHus
-DURATION:PT2H
-DTSTART:20240522T130000Z
-SUMMARY:Reine: #14【PERSONA 3 RELOAD】WE ARE SO BACK (SPOILER ALERT)【Pavolia Reine/hololiveID 2nd gen】
-UID:afOaSW8OHus
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Dave The Diver  GODZILLA DLC 】ASKASJKALKJDLAKSDJKLAS 【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=-jJvUu35kqI
-DURATION:PT2H
-DTSTART:20240523T130000Z
-SUMMARY:🎨Iofi: 【 Dave The Diver  GODZILLA DLC 】ASKASJKALKJDLAKSDJKLAS 【 iofi / hololiveID 】
-UID:-jJvUu35kqI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 PALIA 】Menjelajah\, Mendaki Gunung\, Lewati Lembah【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=B6C0mjhCxuA
-DURATION:PT2H
-DTSTART:20240522T063000Z
-SUMMARY:🎨Iofi: 【 PALIA 】Menjelajah\, Mendaki Gunung\, Lewati Lembah【 iofi / hololiveID 】
-UID:B6C0mjhCxuA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Rambling time & donation ketchup reading!\nhttps://www.youtube.com/watch?v=kgrA52IY2-I
-DURATION:PT2H
-DTSTART:20240522T150000Z
-SUMMARY:Zeta: Rambling time & donation ketchup reading!
-UID:kgrA52IY2-I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BUNNY GARDEN】#TimelessWeapon ft. Bunny Girls (SPOILER ALERT)【hololive ID 2nd Gen | Anya Melfissa】\nhttps://www.youtube.com/watch?v=zBZk2CljJyU
-DURATION:PT2H
-DTSTART:20240523T010000Z
-SUMMARY:Anya: 【BUNNY GARDEN】#TimelessWeapon ft. Bunny Girls (SPOILER ALERT)【hololive ID 2nd Gen | Anya Melfissa】
-UID:zBZk2CljJyU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Shashingo】日本語を覚えよう！ Let's learn new Japanese words!\nhttps://www.youtube.com/watch?v=hl8JwVqiAmY
 DURATION:PT2H
 DTSTART:20240523T130000Z
 SUMMARY:Zeta: 【Shashingo】日本語を覚えよう！ Let's learn new Japanese words!
 UID:hl8JwVqiAmY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Palia】Upgrading the Slow Life【Ayunda Risu】\nhttps://www.youtube.com/watch?v=Ny5P-9u2yrU
-DURATION:PT2H
-DTSTART:20240522T120000Z
-SUMMARY:🐿Risu: 【Palia】Upgrading the Slow Life【Ayunda Risu】
-UID:Ny5P-9u2yrU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BETA TEST | Inazuma Eleven: Hero’s Victory Road】SPOILERS: STORY MODE FINALLY HERE!!【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=6aVIa8ETCXo
-DURATION:PT2H
-DTSTART:20240522T113040Z
-SUMMARY:Ollie: 【BETA TEST | Inazuma Eleven: Hero’s Victory Road】SPOILERS: STORY MODE FINALLY HERE!!【Kureiji Ollie】
-UID:6aVIa8ETCXo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Donation Reading】THANK YOU for all of the support🥺【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=ytZD4tlY_aA
@@ -109,11 +46,18 @@ SUMMARY:Reine: 【Days With Ollie】(ID Version.) PART 2!!!!!【Pavolia Reine/ho
 UID:nhHjDHAp55A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【The Game of Sisyphus】RTA new rock/ball? well~【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=8qdooyvKHg8
+DESCRIPTION:【 Dave The Diver  GODZILLA DLC 】ASKASJKALKJDLAKSDJKLAS 【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=-jJvUu35kqI
 DURATION:PT2H
-DTSTART:20240522T123000Z
-SUMMARY:Kaela: 【The Game of Sisyphus】RTA new rock/ball? well~【Kaela Kovalskia / hololiveID】
-UID:8qdooyvKHg8
+DTSTART:20240523T130000Z
+SUMMARY:🎨Iofi: 【 Dave The Diver  GODZILLA DLC 】ASKASJKALKJDLAKSDJKLAS 【 iofi / hololiveID 】
+UID:-jJvUu35kqI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Rambling time & donation ketchup reading!\nhttps://www.youtube.com/watch?v=kgrA52IY2-I
+DURATION:PT2H
+DTSTART:20240522T150000Z
+SUMMARY:Zeta: Rambling time & donation ketchup reading!
+UID:kgrA52IY2-I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 ICE CLIMBER 】REVENGEEEEEEEEEEE【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=kdIQtM4Ew5Y
@@ -121,6 +65,13 @@ DURATION:PT2H
 DTSTART:20240523T040000Z
 SUMMARY:🎨Iofi: 【 ICE CLIMBER 】REVENGEEEEEEEEEEE【 iofi / hololiveID 】
 UID:kdIQtM4Ew5Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【BUNNY GARDEN】#TimelessWeapon ft. Bunny Girls (SPOILER ALERT)【hololive ID 2nd Gen | Anya Melfissa】\nhttps://www.youtube.com/watch?v=zBZk2CljJyU
+DURATION:PT2H
+DTSTART:20240523T010000Z
+SUMMARY:Anya: 【BUNNY GARDEN】#TimelessWeapon ft. Bunny Girls (SPOILER ALERT)【hololive ID 2nd Gen | Anya Melfissa】
+UID:zBZk2CljJyU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Gartic Phone】SECOND ROUND 【KOBOLONIMBUS MEMBERSHIP ANNIVERSARY】\nhttps://www.youtube.com/watch?v=cnV0gk6JMqo
