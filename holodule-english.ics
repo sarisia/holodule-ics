@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Little Kitty\, Big City】Orange Cat Behavior #kfp #キアライブ\nhttps://www.youtube.com/watch?v=kG49hl7Eno4
-DURATION:PT2H
-DTSTART:20240521T170000Z
-SUMMARY:Kiara: 【Little Kitty\, Big City】Orange Cat Behavior #kfp #キアライブ
-UID:kG49hl7Eno4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:≪The Game of Sisyphus≫ Rock On\nhttps://www.youtube.com/watch?v=YgTopeZ8BOE
 DURATION:PT2H
 DTSTART:20240522T010000Z
 SUMMARY:Baelz: ≪The Game of Sisyphus≫ Rock On
 UID:YgTopeZ8BOE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪SEKIRO: SHADOWS DIE TWICE≫ F L O W E R #4【SPOILER WARNING】\nhttps://www.youtube.com/watch?v=IPasV0SgT_w
-DURATION:PT2H
-DTSTART:20240523T010000Z
-SUMMARY:Baelz: ≪SEKIRO: SHADOWS DIE TWICE≫ F L O W E R #4【SPOILER WARNING】
-UID:IPasV0SgT_w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【OFFLINE COLLAB】Conbini Snacking with @NerissaRavencroft & @KosekiBijou\nhttps://www.youtube.com/watch?v=LHOtqIOLczE
@@ -39,20 +25,6 @@ SUMMARY:Mumei: 【歌枠 KARAOKE】 Totally Singing In Real Time ! #shorts
 UID:ppv2L4iOKmE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HOLO NO SUIKA】Sorting the melons 🎼 #shorts\nhttps://www.youtube.com/watch?v=iKhOArk1Sko
-DURATION:PT2H
-DTSTART:20240522T000000Z
-SUMMARY:Nerissa: 【HOLO NO SUIKA】Sorting the melons 🎼 #shorts
-UID:iKhOArk1Sko
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【GOLF IT!】Golf with KAELAAAAAAAAA (#grindstone collab)\nhttps://www.youtube.com/watch?v=ELUiCMNJf6Y
-DURATION:PT2H
-DTSTART:20240522T000000Z
-SUMMARY:Bijou: 【GOLF IT!】Golf with KAELAAAAAAAAA (#grindstone collab)
-UID:ELUiCMNJf6Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Elden Ring】The Great Return\nhttps://www.youtube.com/watch?v=Perl_1DYhDI
 DURATION:PT2H
 DTSTART:20240523T030000Z
@@ -67,11 +39,11 @@ SUMMARY:Ina: 【Katamari Damacy Reroll+】 NANAAANANANA NANA NA NA ⚠SPOILER WA
 UID:XEVa8puinO0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【The Game of Sisyphus】 Let's see what this is all about\nhttps://www.youtube.com/watch?v=bWj_LErnkzs
+DESCRIPTION:≪SEKIRO: SHADOWS DIE TWICE≫ F L O W E R #4【SPOILER WARNING】\nhttps://www.youtube.com/watch?v=IPasV0SgT_w
 DURATION:PT2H
-DTSTART:20240522T220000Z
-SUMMARY:Fauna: 【The Game of Sisyphus】 Let's see what this is all about
-UID:bWj_LErnkzs
+DTSTART:20240523T010000Z
+SUMMARY:Baelz: ≪SEKIRO: SHADOWS DIE TWICE≫ F L O W E R #4【SPOILER WARNING】
+UID:IPasV0SgT_w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MARIO KART】IT COUNTS. #shorts\nhttps://www.youtube.com/watch?v=fhXeFcWMI8o
@@ -79,13 +51,6 @@ DURATION:PT2H
 DTSTART:20240522T030024Z
 SUMMARY:Baelz: 【MARIO KART】IT COUNTS. #shorts
 UID:fhXeFcWMI8o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Witch Spring R】CUTE WITCH GIRL RPG WAWACORE #kfp #キアライブ\nhttps://www.youtube.com/watch?v=D-Nn9ZL635I
-DURATION:PT2H
-DTSTART:20240523T140000Z
-SUMMARY:Kiara: 【Witch Spring R】CUTE WITCH GIRL RPG WAWACORE #kfp #キアライブ
-UID:D-Nn9ZL635I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【EURO TRUCK SIMULATOR 2】Welcome to my hood #kfp #キアライブ\nhttps://www.youtube.com/watch?v=6n_wafiRKvM
@@ -102,10 +67,52 @@ SUMMARY:Fauna: 【PROMISE HALF ANNIVERSARY】 Forcing #holoPromise to play in my
 UID:ezWJDS4DTWQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Monster Hunter World】Back to my Roots as a Dino-Hunting N0ob\nhttps://www.youtube.com/watch?v=o8mI9nJfleY
+DURATION:PT2H
+DTSTART:20240524T020000Z
+SUMMARY:Shiori: 【Monster Hunter World】Back to my Roots as a Dino-Hunting N0ob
+UID:o8mI9nJfleY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Little Kitty\, Big City】Orange Cat Behavior #kfp #キアライブ\nhttps://www.youtube.com/watch?v=kG49hl7Eno4
+DURATION:PT2H
+DTSTART:20240521T170000Z
+SUMMARY:Kiara: 【Little Kitty\, Big City】Orange Cat Behavior #kfp #キアライブ
+UID:kG49hl7Eno4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HOLO NO SUIKA】Sorting the melons 🎼 #shorts\nhttps://www.youtube.com/watch?v=iKhOArk1Sko
+DURATION:PT2H
+DTSTART:20240522T000000Z
+SUMMARY:Nerissa: 【HOLO NO SUIKA】Sorting the melons 🎼 #shorts
+UID:iKhOArk1Sko
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【GOLF IT!】Golf with KAELAAAAAAAAA (#grindstone collab)\nhttps://www.youtube.com/watch?v=ELUiCMNJf6Y
+DURATION:PT2H
+DTSTART:20240522T000000Z
+SUMMARY:Bijou: 【GOLF IT!】Golf with KAELAAAAAAAAA (#grindstone collab)
+UID:ELUiCMNJf6Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【The Game of Sisyphus】 Let's see what this is all about\nhttps://www.youtube.com/watch?v=bWj_LErnkzs
+DURATION:PT2H
+DTSTART:20240522T220000Z
+SUMMARY:Fauna: 【The Game of Sisyphus】 Let's see what this is all about
+UID:bWj_LErnkzs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Two Girls One Short #shorts\nhttps://www.youtube.com/watch?v=uke2k90G73A
 DURATION:PT2H
 DTSTART:20240522T230026Z
 SUMMARY:Shiori: Two Girls One Short #shorts
 UID:uke2k90G73A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Witch Spring R】CUTE WITCH GIRL RPG WAWACORE #kfp #キアライブ\nhttps://www.youtube.com/watch?v=D-Nn9ZL635I
+DURATION:PT2H
+DTSTART:20240523T140000Z
+SUMMARY:Kiara: 【Witch Spring R】CUTE WITCH GIRL RPG WAWACORE #kfp #キアライブ
+UID:D-Nn9ZL635I
 END:VEVENT
 END:VCALENDAR
