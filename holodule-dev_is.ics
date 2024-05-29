@@ -4,11 +4,39 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【 お絵かき心理テスト #２ 】変な質問をするな！！【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=FlBX4Xpmnk0
+DURATION:PT2H
+DTSTART:20240529T120000Z
+SUMMARY:火威青: 【 お絵かき心理テスト #２ 】変な質問をするな！！【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:FlBX4Xpmnk0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【作業配信 / メン限】メンバーシップOPENから6カ月らしい。直筆サインを書く！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=L1knGlnBVXA
 DURATION:PT2H
 DTSTART:20240529T140000Z
 SUMMARY:音乃瀬奏: 【作業配信 / メン限】メンバーシップOPENから6カ月らしい。直筆サインを書く！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
 UID:L1knGlnBVXA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#らでんのラジオ】第十六回目らでラジ！メフィるとき/ふつおたほか【儒烏風亭らでん  #ReGLOSS 】\nhttps://www.youtube.com/watch?v=sGjj56gya2Q
+DURATION:PT2H
+DTSTART:20240529T140000Z
+SUMMARY:儒烏風亭らでん: 【#らでんのラジオ】第十六回目らでラジ！メフィるとき/ふつおたほか【儒烏風亭らでん  #ReGLOSS 】
+UID:sGjj56gya2Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ピタ止チャレンジ【轟はじめ/ReGLOSS】#hololivedev_is #shorts\nhttps://www.youtube.com/watch?v=U4J0sLjwaLk
+DURATION:PT2H
+DTSTART:20240529T080013Z
+SUMMARY:轟はじめ: ピタ止チャレンジ【轟はじめ/ReGLOSS】#hololivedev_is #shorts
+UID:U4J0sLjwaLk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#シンメトリー サビだけ歌ってみた！ #shorts #ReGLOSS #一条莉々華 #MIXなし\nhttps://www.youtube.com/watch?v=v9-_CZwIMj8
+DURATION:PT2H
+DTSTART:20240529T100046Z
+SUMMARY:DEV_IShololive: #シンメトリー サビだけ歌ってみた！ #shorts #ReGLOSS #一条莉々華 #MIXなし
+UID:v9-_CZwIMj8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】ピグリン要塞探検！カエラ神と一緒なら鍛冶型をゲットできるに間違いない！！【音乃瀬奏・Kaela Kovalskia】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=_vrpLEB2DvE
@@ -32,24 +60,10 @@ SUMMARY:一条莉々華: 【#2 学園アイドルマスター】リーリヤち�
 UID:6SPtbnN1_78
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#シンメトリー サビだけ歌ってみた！ #shorts #ReGLOSS #一条莉々華 #MIXなし\nhttps://www.youtube.com/watch?v=v9-_CZwIMj8
-DURATION:PT2H
-DTSTART:20240529T100046Z
-SUMMARY:DEV_IShololive: #シンメトリー サビだけ歌ってみた！ #shorts #ReGLOSS #一条莉々華 #MIXなし
-UID:v9-_CZwIMj8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【メン限】もっとチルいメン限をするつもりだったんだ…【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=WD5RKcm9ncg
 DURATION:PT2H
 DTSTART:20240528T140000Z
 SUMMARY:火威青: 【メン限】もっとチルいメン限をするつもりだったんだ…【火威青 】#hololiveDEV_IS #ReGLOSS
 UID:WD5RKcm9ncg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ピタ止チャレンジ【轟はじめ/ReGLOSS】#hololivedev_is #shorts\nhttps://www.youtube.com/watch?v=U4J0sLjwaLk
-DURATION:PT2H
-DTSTART:20240529T080013Z
-SUMMARY:轟はじめ: ピタ止チャレンジ【轟はじめ/ReGLOSS】#hololivedev_is #shorts
-UID:U4J0sLjwaLk
 END:VEVENT
 END:VCALENDAR
