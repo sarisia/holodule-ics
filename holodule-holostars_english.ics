@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【POPPY PLAYTIME #3】These toys need a good ol' spanky wanky\nhttps://www.youtube.com/watch?v=zVMgv9lun4E
+DURATION:PT2H
+DTSTART:20240530T120000Z
+SUMMARY:Octavio: 【POPPY PLAYTIME #3】These toys need a good ol' spanky wanky
+UID:zVMgv9lun4E
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MEMBERSHIP】 Book Club: The Little Prince\nhttps://www.youtube.com/watch?v=qSNKRtDBtXw
 DURATION:PT2H
 DTSTART:20240529T180000Z
@@ -25,76 +32,6 @@ SUMMARY:Bettel: [MS PAINT] LET'S CREATE MY OC's #gavisbettel #holotempus
 UID:qZEzu4Tgo3k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【学園アイドルマスター】TIME TO BECOME THE MASTER OF THE IDOLS【GAKUEN IDOLMASTER】\nhttps://www.youtube.com/watch?v=QrWp60d5w-I
-DURATION:PT2H
-DTSTART:20240529T002000Z
-SUMMARY:Hakka: 【学園アイドルマスター】TIME TO BECOME THE MASTER OF THE IDOLS【GAKUEN IDOLMASTER】
-UID:QrWp60d5w-I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[HANDCAM] MAGIC KIT MADNESS #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=WB__vwLRfTA
-DURATION:PT2H
-DTSTART:20240529T020000Z
-SUMMARY:Bettel: [HANDCAM] MAGIC KIT MADNESS #gavisbettel #holotempus
-UID:WB__vwLRfTA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HEAVENLY BODIES】Would Octavio and Ruze Survive in Space?\nhttps://www.youtube.com/watch?v=2Q-v_PqUfAA
-DURATION:PT2H
-DTSTART:20240529T010000Z
-SUMMARY:Crimzon: 【HEAVENLY BODIES】Would Octavio and Ruze Survive in Space?
-UID:2Q-v_PqUfAA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ASMR】ASMR Collab with a secret guest! Part 2!\nhttps://www.youtube.com/watch?v=-qSuWNwQsO4
-DURATION:PT2H
-DTSTART:20240530T020000Z
-SUMMARY:Shinri: 【 ASMR】ASMR Collab with a secret guest! Part 2!
-UID:-qSuWNwQsO4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HEAVENLY BODIES】BOLDLY HANDHOLD WHERE NO ONE HAS HANDHELD BEFORE W/ @CrimzonRuze\nhttps://www.youtube.com/watch?v=sNP2yhSG5co
-DURATION:PT2H
-DTSTART:20240529T010000Z
-SUMMARY:Octavio: 【HEAVENLY BODIES】BOLDLY HANDHOLD WHERE NO ONE HAS HANDHELD BEFORE W/ @CrimzonRuze
-UID:sNP2yhSG5co
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【T3 MEMBERSHIP】ALL KARAOKE TALK! HELP ME!!\nhttps://www.youtube.com/watch?v=b8KVEZex5qA
-DURATION:PT2H
-DTSTART:20240530T060000Z
-SUMMARY:Jurard: 【T3 MEMBERSHIP】ALL KARAOKE TALK! HELP ME!!
-UID:b8KVEZex5qA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【POPPY PLAYTIME #3】These toys need a good ol' spanky wanky\nhttps://www.youtube.com/watch?v=zVMgv9lun4E
-DURATION:PT2H
-DTSTART:20240530T120000Z
-SUMMARY:Octavio: 【POPPY PLAYTIME #3】These toys need a good ol' spanky wanky
-UID:zVMgv9lun4E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【KEEP TALKING AND NOBODY EXPLODES】WE ONLY KNOW HOW TO YAP!! w/ @CassianFloros\nhttps://www.youtube.com/watch?v=xXxQif3Vjq4
-DURATION:PT2H
-DTSTART:20240529T130000Z
-SUMMARY:Jurard: 【KEEP TALKING AND NOBODY EXPLODES】WE ONLY KNOW HOW TO YAP!! w/ @CassianFloros
-UID:xXxQif3Vjq4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:POV YOU JUST JOINED OUR GUILD\nhttps://www.youtube.com/watch?v=nztlwIzP8xI
-DURATION:PT2H
-DTSTART:20240529T064441Z
-SUMMARY:Jurard: POV YOU JUST JOINED OUR GUILD
-UID:nztlwIzP8xI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:RUZE PAYS FOR MY INTERNET #shorts  #holoarmis\nhttps://www.youtube.com/watch?v=PMa8CqcEKJk
-DURATION:PT2H
-DTSTART:20240529T000019Z
-SUMMARY:Octavio: RUZE PAYS FOR MY INTERNET #shorts  #holoarmis
-UID:PMa8CqcEKJk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DON'T SCREAM】We're DOOMED from the START\nhttps://www.youtube.com/watch?v=y34BM_D-oN4
 DURATION:PT2H
 DTSTART:20240531T050000Z
@@ -109,11 +46,18 @@ SUMMARY:Syrios: 【Miitopia】WE'RE GONNA SAVE ALL THE BOYSSSS #9
 UID:C5HUXRvnT_w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Makoto Wakaido’s Case Files TRILOGY DELUXE】Okay I guess some late night mystery solving!【CHAPTER 3】\nhttps://www.youtube.com/watch?v=0kPfluTuBrM
+DESCRIPTION:【 ASMR】ASMR Collab with a secret guest! Part 2!\nhttps://www.youtube.com/watch?v=-qSuWNwQsO4
 DURATION:PT2H
-DTSTART:20240529T130000Z
-SUMMARY:Syrios: 【Makoto Wakaido’s Case Files TRILOGY DELUXE】Okay I guess some late night mystery solving!【CHAPTER 3】
-UID:0kPfluTuBrM
+DTSTART:20240530T020000Z
+SUMMARY:Shinri: 【 ASMR】ASMR Collab with a secret guest! Part 2!
+UID:-qSuWNwQsO4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【T3 MEMBERSHIP】ALL KARAOKE TALK! HELP ME!!\nhttps://www.youtube.com/watch?v=b8KVEZex5qA
+DURATION:PT2H
+DTSTART:20240530T060000Z
+SUMMARY:Jurard: 【T3 MEMBERSHIP】ALL KARAOKE TALK! HELP ME!!
+UID:b8KVEZex5qA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🎭 TWILIGHT MASQUERADE 🎭 BOOSTER BOX OPENING w/ @oh_Nocturnal 【Pokemon Card Opening】\nhttps://www.youtube.com/watch?v=YllM4DrmH5o
