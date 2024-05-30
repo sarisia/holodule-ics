@@ -4,6 +4,48 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【SUIKA GAME ONLINE】...with Ironmouse! #calliolive\nhttps://www.youtube.com/watch?v=2DuCTivGi4I
+DURATION:PT2H
+DTSTART:20240530T020000Z
+SUMMARY:Calli: 【SUIKA GAME ONLINE】...with Ironmouse! #calliolive
+UID:2DuCTivGi4I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MEMBERS ONLY】So many fun things to talk about~🎼\nhttps://www.youtube.com/watch?v=zcwb6FyRMWc
+DURATION:PT2H
+DTSTART:20240531T000000Z
+SUMMARY:Nerissa: 【MEMBERS ONLY】So many fun things to talk about~🎼
+UID:zcwb6FyRMWc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MEMBER'S ONLY】gaming and chatting with members! (fall guys probably!)\nhttps://www.youtube.com/watch?v=wysB4w__W1k
+DURATION:PT2H
+DTSTART:20240530T043000Z
+SUMMARY:Calli: 【MEMBER'S ONLY】gaming and chatting with members! (fall guys probably!)
+UID:wysB4w__W1k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FALLOUT: NEW VEGAS】cluck the legion #kfp #キアライブ\nhttps://www.youtube.com/watch?v=MD_pcnX_Iks
+DURATION:PT2H
+DTSTART:20240530T140000Z
+SUMMARY:Kiara: 【FALLOUT: NEW VEGAS】cluck the legion #kfp #キアライブ
+UID:MD_pcnX_Iks
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CONTENT WARNING】this'll make great content! (feat. Henya and Ina!)\nhttps://www.youtube.com/watch?v=UIxipTWoCYo
+DURATION:PT2H
+DTSTART:20240531T020000Z
+SUMMARY:Calli: 【CONTENT WARNING】this'll make great content! (feat. Henya and Ina!)
+UID:UIxipTWoCYo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Undertale】Under What? :o\nhttps://www.youtube.com/watch?v=ehSsdiUufb0
+DURATION:PT2H
+DTSTART:20240530T040000Z
+SUMMARY:IRyS: 【Undertale】Under What? :o
+UID:ehSsdiUufb0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【1st ADVENT OFF-COLLAB】lovely TAKOYAKI PARTY from HECK 🐙⚠️ #holoAdvent【BIG ANNOUNCEMENT】\nhttps://www.youtube.com/watch?v=h27ZA4dkaow
 DURATION:PT2H
 DTSTART:20240529T010000Z
@@ -32,13 +74,6 @@ SUMMARY:Baelz: ≪Yakuza Kiwami 2≫ This game is a management game. #3 【SPOIL
 UID:GHgRTrRrLXI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SUIKA GAME ONLINE】...with Ironmouse! #calliolive\nhttps://www.youtube.com/watch?v=2DuCTivGi4I
-DURATION:PT2H
-DTSTART:20240530T020000Z
-SUMMARY:Calli: 【SUIKA GAME ONLINE】...with Ironmouse! #calliolive
-UID:2DuCTivGi4I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Superchat Catchup】Outfit Reveal + Cover + Karaoke 😎\nhttps://www.youtube.com/watch?v=HDswpeSZB_E
 DURATION:PT2H
 DTSTART:20240529T010000Z
@@ -46,25 +81,11 @@ SUMMARY:Kronii: 【Superchat Catchup】Outfit Reveal + Cover + Karaoke 😎
 UID:HDswpeSZB_E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【CONTENT WARNING】this'll make great content! (feat. Henya and Ina!)\nhttps://www.youtube.com/watch?v=UIxipTWoCYo
+DESCRIPTION:【SHINKANSEN 0】 spot the difference in this haunted train horror game\nhttps://www.youtube.com/watch?v=U-AU66QIo8Y
 DURATION:PT2H
-DTSTART:20240531T020000Z
-SUMMARY:Calli: 【CONTENT WARNING】this'll make great content! (feat. Henya and Ina!)
-UID:UIxipTWoCYo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MEMBER'S ONLY】gaming and chatting with members! (fall guys probably!)\nhttps://www.youtube.com/watch?v=wysB4w__W1k
-DURATION:PT2H
-DTSTART:20240530T043000Z
-SUMMARY:Calli: 【MEMBER'S ONLY】gaming and chatting with members! (fall guys probably!)
-UID:wysB4w__W1k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FALLOUT: NEW VEGAS】cluck the legion #kfp #キアライブ\nhttps://www.youtube.com/watch?v=MD_pcnX_Iks
-DURATION:PT2H
-DTSTART:20240530T140000Z
-SUMMARY:Kiara: 【FALLOUT: NEW VEGAS】cluck the legion #kfp #キアライブ
-UID:MD_pcnX_Iks
+DTSTART:20240529T235000Z
+SUMMARY:Fauna: 【SHINKANSEN 0】 spot the difference in this haunted train horror game
+UID:U-AU66QIo8Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Death's Door】 Something Something Death May Die- 【#1】\nhttps://www.youtube.com/watch?v=hX7wih6K_NE
@@ -93,12 +114,5 @@ DURATION:PT2H
 DTSTART:20240529T220000Z
 SUMMARY:Fauna: 【DON'T SCREAM】 The horror game that restarts when you scream I'M DOOMED
 UID:hrFk1O1H0LE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Undertale】Under What? :o\nhttps://www.youtube.com/watch?v=ehSsdiUufb0
-DURATION:PT2H
-DTSTART:20240530T040000Z
-SUMMARY:IRyS: 【Undertale】Under What? :o
-UID:ehSsdiUufb0
 END:VEVENT
 END:VCALENDAR
