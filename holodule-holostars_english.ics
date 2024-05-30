@@ -4,46 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【POPPY PLAYTIME #3】These toys need a good ol' spanky wanky\nhttps://www.youtube.com/watch?v=zVMgv9lun4E
-DURATION:PT2H
-DTSTART:20240530T120000Z
-SUMMARY:Octavio: 【POPPY PLAYTIME #3】These toys need a good ol' spanky wanky
-UID:zVMgv9lun4E
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MEMBERSHIP】 Book Club: The Little Prince\nhttps://www.youtube.com/watch?v=qSNKRtDBtXw
 DURATION:PT2H
 DTSTART:20240529T180000Z
 SUMMARY:Crimzon: 【MEMBERSHIP】 Book Club: The Little Prince
 UID:qSNKRtDBtXw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【KEEP TALKING AND NOBODY EXPLODES】WE ONLY KNOW HOW TO YAP!! w/ @CassianFloros\nhttps://www.youtube.com/watch?v=xXxQif3Vjq4
-DURATION:PT2H
-DTSTART:20240529T130000Z
-SUMMARY:Jurard: 【KEEP TALKING AND NOBODY EXPLODES】WE ONLY KNOW HOW TO YAP!! w/ @CassianFloros
-UID:xXxQif3Vjq4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:POV YOU JUST JOINED OUR GUILD\nhttps://www.youtube.com/watch?v=nztlwIzP8xI
-DURATION:PT2H
-DTSTART:20240529T064441Z
-SUMMARY:Jurard: POV YOU JUST JOINED OUR GUILD
-UID:nztlwIzP8xI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:RUZE PAYS FOR MY INTERNET #shorts  #holoarmis\nhttps://www.youtube.com/watch?v=PMa8CqcEKJk
-DURATION:PT2H
-DTSTART:20240529T000019Z
-SUMMARY:Octavio: RUZE PAYS FOR MY INTERNET #shorts  #holoarmis
-UID:PMa8CqcEKJk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【学園アイドルマスター】TIME TO BECOME THE MASTER OF THE IDOLS【GAKUEN IDOLMASTER】\nhttps://www.youtube.com/watch?v=QrWp60d5w-I
-DURATION:PT2H
-DTSTART:20240529T002000Z
-SUMMARY:Hakka: 【学園アイドルマスター】TIME TO BECOME THE MASTER OF THE IDOLS【GAKUEN IDOLMASTER】
-UID:QrWp60d5w-I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[MS PAINT] LET'S CREATE MY OC's #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=qZEzu4Tgo3k
@@ -53,11 +18,11 @@ SUMMARY:Bettel: [MS PAINT] LET'S CREATE MY OC's #gavisbettel #holotempus
 UID:qZEzu4Tgo3k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Miitopia】WE'RE GONNA SAVE ALL THE BOYSSSS #9\nhttps://www.youtube.com/watch?v=C5HUXRvnT_w
+DESCRIPTION:【学園アイドルマスター】TIME TO BECOME THE MASTER OF THE IDOLS【GAKUEN IDOLMASTER】\nhttps://www.youtube.com/watch?v=QrWp60d5w-I
 DURATION:PT2H
-DTSTART:20240530T040000Z
-SUMMARY:Syrios: 【Miitopia】WE'RE GONNA SAVE ALL THE BOYSSSS #9
-UID:C5HUXRvnT_w
+DTSTART:20240529T002000Z
+SUMMARY:Hakka: 【学園アイドルマスター】TIME TO BECOME THE MASTER OF THE IDOLS【GAKUEN IDOLMASTER】
+UID:QrWp60d5w-I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[HANDCAM] MAGIC KIT MADNESS #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=WB__vwLRfTA
@@ -72,13 +37,6 @@ DURATION:PT2H
 DTSTART:20240529T010000Z
 SUMMARY:Crimzon: 【HEAVENLY BODIES】Would Octavio and Ruze Survive in Space?
 UID:2Q-v_PqUfAA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🎭 TWILIGHT MASQUERADE 🎭 BOOSTER BOX OPENING w/ @oh_Nocturnal 【Pokemon Card Opening】\nhttps://www.youtube.com/watch?v=YllM4DrmH5o
-DURATION:PT2H
-DTSTART:20240529T233000Z
-SUMMARY:Altare: 🎭 TWILIGHT MASQUERADE 🎭 BOOSTER BOX OPENING w/ @oh_Nocturnal 【Pokemon Card Opening】
-UID:YllM4DrmH5o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 ASMR】ASMR Collab with a secret guest! Part 2!\nhttps://www.youtube.com/watch?v=-qSuWNwQsO4
@@ -102,10 +60,59 @@ SUMMARY:Jurard: 【T3 MEMBERSHIP】ALL KARAOKE TALK! HELP ME!!
 UID:b8KVEZex5qA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【POPPY PLAYTIME #3】These toys need a good ol' spanky wanky\nhttps://www.youtube.com/watch?v=zVMgv9lun4E
+DURATION:PT2H
+DTSTART:20240530T120000Z
+SUMMARY:Octavio: 【POPPY PLAYTIME #3】These toys need a good ol' spanky wanky
+UID:zVMgv9lun4E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【KEEP TALKING AND NOBODY EXPLODES】WE ONLY KNOW HOW TO YAP!! w/ @CassianFloros\nhttps://www.youtube.com/watch?v=xXxQif3Vjq4
+DURATION:PT2H
+DTSTART:20240529T130000Z
+SUMMARY:Jurard: 【KEEP TALKING AND NOBODY EXPLODES】WE ONLY KNOW HOW TO YAP!! w/ @CassianFloros
+UID:xXxQif3Vjq4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:POV YOU JUST JOINED OUR GUILD\nhttps://www.youtube.com/watch?v=nztlwIzP8xI
+DURATION:PT2H
+DTSTART:20240529T064441Z
+SUMMARY:Jurard: POV YOU JUST JOINED OUR GUILD
+UID:nztlwIzP8xI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:RUZE PAYS FOR MY INTERNET #shorts  #holoarmis\nhttps://www.youtube.com/watch?v=PMa8CqcEKJk
+DURATION:PT2H
+DTSTART:20240529T000019Z
+SUMMARY:Octavio: RUZE PAYS FOR MY INTERNET #shorts  #holoarmis
+UID:PMa8CqcEKJk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Miitopia】WE'RE GONNA SAVE ALL THE BOYSSSS #9\nhttps://www.youtube.com/watch?v=C5HUXRvnT_w
+DURATION:PT2H
+DTSTART:20240530T040000Z
+SUMMARY:Syrios: 【Miitopia】WE'RE GONNA SAVE ALL THE BOYSSSS #9
+UID:C5HUXRvnT_w
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Makoto Wakaido’s Case Files TRILOGY DELUXE】Okay I guess some late night mystery solving!【CHAPTER 3】\nhttps://www.youtube.com/watch?v=0kPfluTuBrM
 DURATION:PT2H
 DTSTART:20240529T130000Z
 SUMMARY:Syrios: 【Makoto Wakaido’s Case Files TRILOGY DELUXE】Okay I guess some late night mystery solving!【CHAPTER 3】
 UID:0kPfluTuBrM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🎭 TWILIGHT MASQUERADE 🎭 BOOSTER BOX OPENING w/ @oh_Nocturnal 【Pokemon Card Opening】\nhttps://www.youtube.com/watch?v=YllM4DrmH5o
+DURATION:PT2H
+DTSTART:20240529T233000Z
+SUMMARY:Altare: 🎭 TWILIGHT MASQUERADE 🎭 BOOSTER BOX OPENING w/ @oh_Nocturnal 【Pokemon Card Opening】
+UID:YllM4DrmH5o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Miitopia】I WANNA UNLOCK THE OTHER JOBSSSS #10\nhttps://www.youtube.com/watch?v=9WK6OJ7rsA8
+DURATION:PT2H
+DTSTART:20240530T140000Z
+SUMMARY:Syrios: 【Miitopia】I WANNA UNLOCK THE OTHER JOBSSSS #10
+UID:9WK6OJ7rsA8
 END:VEVENT
 END:VCALENDAR
