@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Zatsudan】I AM BACK\, BUBBIES!\nhttps://www.youtube.com/watch?v=hLvTASjNUqI
+DURATION:PT2H
+DTSTART:20240603T150000Z
+SUMMARY:Goldbullet: 【Zatsudan】I AM BACK\, BUBBIES!
+UID:hLvTASjNUqI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ASMR STREAM】A *PROPER* ASMR STREAM!!!\nhttps://www.youtube.com/watch?v=vOqSUtjGhhQ
 DURATION:PT2H
 DTSTART:20240602T150000Z
@@ -18,11 +25,11 @@ SUMMARY:Jurard: 【WHO'S WHO】RAT VS DINO with @IronMouseParty
 UID:pScY28agYMw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【UNARCHIVED GUERILLA KARAOKE】Trying out some songs\, training to be an IDOL ദ്ദി ˉ͈̀꒳ˉ͈́ )✧ #shorts\nhttps://www.youtube.com/watch?v=vgn839L8Bnk
+DESCRIPTION:【3D Showcase】IT’S THE GREATEST SHOW\, MAN!\nhttps://www.youtube.com/watch?v=G0TL6Kic334
 DURATION:PT2H
-DTSTART:20240603T010000Z
-SUMMARY:Hakka: 【UNARCHIVED GUERILLA KARAOKE】Trying out some songs\, training to be an IDOL ദ്ദി ˉ͈̀꒳ˉ͈́ )✧ #shorts
-UID:vgn839L8Bnk
+DTSTART:20240602T030000Z
+SUMMARY:Bettel: 【3D Showcase】IT’S THE GREATEST SHOW\, MAN!
+UID:G0TL6Kic334
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MEMBERSHIP】Mappa Imperium: Holomarching Forward #HoloMarches\nhttps://www.youtube.com/watch?v=RHtKEIZxL4k
@@ -32,11 +39,18 @@ SUMMARY:Crimzon: 【MEMBERSHIP】Mappa Imperium: Holomarching Forward #HoloMarch
 UID:RHtKEIZxL4k
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【3D Showcase】IT’S THE GREATEST SHOW\, MAN!\nhttps://www.youtube.com/watch?v=G0TL6Kic334
+DESCRIPTION:【OcTalks with Octavio #18】Play that funky music Playstation\nhttps://www.youtube.com/watch?v=hGQliHi5S8w
 DURATION:PT2H
-DTSTART:20240602T030000Z
-SUMMARY:Bettel: 【3D Showcase】IT’S THE GREATEST SHOW\, MAN!
-UID:G0TL6Kic334
+DTSTART:20240602T000000Z
+SUMMARY:Octavio: 【OcTalks with Octavio #18】Play that funky music Playstation
+UID:hGQliHi5S8w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【UNARCHIVED GUERILLA KARAOKE】Trying out some songs\, training to be an IDOL ദ്ദി ˉ͈̀꒳ˉ͈́ )✧ #shorts\nhttps://www.youtube.com/watch?v=vgn839L8Bnk
+DURATION:PT2H
+DTSTART:20240603T010000Z
+SUMMARY:Hakka: 【UNARCHIVED GUERILLA KARAOKE】Trying out some songs\, training to be an IDOL ദ്ദി ˉ͈̀꒳ˉ͈́ )✧ #shorts
+UID:vgn839L8Bnk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[3D SHOWCASE AFTERMATH] THIS WAS THE GREATEST SHOW! #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=29wi46sLAFQ
@@ -44,12 +58,5 @@ DURATION:PT2H
 DTSTART:20240602T061500Z
 SUMMARY:Bettel: [3D SHOWCASE AFTERMATH] THIS WAS THE GREATEST SHOW! #gavisbettel #holotempus
 UID:29wi46sLAFQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【OcTalks with Octavio #18】Play that funky music Playstation\nhttps://www.youtube.com/watch?v=hGQliHi5S8w
-DURATION:PT2H
-DTSTART:20240602T000000Z
-SUMMARY:Octavio: 【OcTalks with Octavio #18】Play that funky music Playstation
-UID:hGQliHi5S8w
 END:VEVENT
 END:VCALENDAR
