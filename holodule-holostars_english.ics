@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Zatsudan】I AM BACK\, BUBBIES!\nhttps://www.youtube.com/watch?v=hLvTASjNUqI
-DURATION:PT2H
-DTSTART:20240603T150000Z
-SUMMARY:Goldbullet: 【Zatsudan】I AM BACK\, BUBBIES!
-UID:hLvTASjNUqI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Zatsudan】Aight time to do the theoretical part of the cooking【Vertical Stream】 #shorts\nhttps://www.youtube.com/watch?v=qPXu_gBB29g
 DURATION:PT2H
 DTSTART:20240604T140000Z
@@ -18,11 +11,18 @@ SUMMARY:Syrios: 【Zatsudan】Aight time to do the theoretical part of the cooki
 UID:qPXu_gBB29g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【BARONY】Dungeon Crawling Like God Intended\nhttps://www.youtube.com/watch?v=qO1CqAVVG4w
+DESCRIPTION:BIRTHDAY JST KARAOKE - UNARCHIVED\nhttps://www.youtube.com/watch?v=RKbVx_yzeAE
 DURATION:PT2H
-DTSTART:20240603T010000Z
-SUMMARY:Crimzon: 【BARONY】Dungeon Crawling Like God Intended
-UID:qO1CqAVVG4w
+DTSTART:20240605T011500Z
+SUMMARY:Flayon: BIRTHDAY JST KARAOKE - UNARCHIVED
+UID:RKbVx_yzeAE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Zatsudan】Oh wow it's been a long time\, hasn't it?\nhttps://www.youtube.com/watch?v=2QHcop2Bl9c
+DURATION:PT2H
+DTSTART:20240604T010000Z
+SUMMARY:Shinri: 【 Zatsudan】Oh wow it's been a long time\, hasn't it?
+UID:2QHcop2Bl9c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【16 Personalities Test】What's my type? WE GONNA FIND OUT\nhttps://www.youtube.com/watch?v=cQW7LSRY7x4
@@ -37,33 +37,5 @@ DURATION:PT2H
 DTSTART:20240604T001500Z
 SUMMARY:Hakka: 【TENGU TALK】ROAD TO #HAKKA3D AAAAA WE ARE SO CLOSE\, I CAN FEEL IT!
 UID:NWqJqDh4SX0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ASMR STREAM】A *PROPER* ASMR STREAM!!!\nhttps://www.youtube.com/watch?v=vOqSUtjGhhQ
-DURATION:PT2H
-DTSTART:20240602T150000Z
-SUMMARY:Syrios: 【ASMR STREAM】A *PROPER* ASMR STREAM!!!
-UID:vOqSUtjGhhQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【League of Legends】Sigh... maybe time for some ranked games... :(\nhttps://www.youtube.com/watch?v=BYFFq10by_I
-DURATION:PT2H
-DTSTART:20240603T041500Z
-SUMMARY:Syrios: 【League of Legends】Sigh... maybe time for some ranked games... :(
-UID:BYFFq10by_I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Zatsudan】Oh wow it's been a long time\, hasn't it?\nhttps://www.youtube.com/watch?v=2QHcop2Bl9c
-DURATION:PT2H
-DTSTART:20240604T010000Z
-SUMMARY:Shinri: 【 Zatsudan】Oh wow it's been a long time\, hasn't it?
-UID:2QHcop2Bl9c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BIRTHDAY JST KARAOKE - UNARCHIVED\nhttps://www.youtube.com/watch?v=RKbVx_yzeAE
-DURATION:PT2H
-DTSTART:20240605T011500Z
-SUMMARY:Flayon: BIRTHDAY JST KARAOKE - UNARCHIVED
-UID:RKbVx_yzeAE
 END:VEVENT
 END:VCALENDAR
