@@ -4,10 +4,10 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【配信予定地】かなたそなにする【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=pCcGeXDS8Mg
+DESCRIPTION:【MemberOnly】お休み前に！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=pCcGeXDS8Mg
 DURATION:PT2H
 DTSTART:20240605T130000Z
-SUMMARY:💫天音かなた: 【配信予定地】かなたそなにする【天音かなた/ホロライブ】
+SUMMARY:💫天音かなた: 【MemberOnly】お休み前に！！！！【天音かなた/ホロライブ】
 UID:pCcGeXDS8Mg
 END:VEVENT
 BEGIN:VEVENT
@@ -74,11 +74,18 @@ SUMMARY:🍎アキロゼ: 【 Escape the Backrooms】脱出ホラー！無限空
 UID:_lM7W3OjSos
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Stardew Valley】LET MEEEEEEEE FIIIIIIIISSSSSSSSSSSHHHHHHHHHHHHH\nhttps://www.youtube.com/watch?v=v5FWMflDJL0
+DESCRIPTION:【Stardew Valley】LET MEEEEEEEE FISHHHHHHHHHH (also first time co-op)\nhttps://www.youtube.com/watch?v=v5FWMflDJL0
 DURATION:PT2H
-DTSTART:20240605T150000Z
-SUMMARY:Zeta: 【Stardew Valley】LET MEEEEEEEE FIIIIIIIISSSSSSSSSSSHHHHHHHHHHHHH
+DTSTART:20240605T144500Z
+SUMMARY:Zeta: 【Stardew Valley】LET MEEEEEEEE FISHHHHHHHHHH (also first time co-op)
 UID:v5FWMflDJL0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FIVE NIGHTS AT FREDDY'S: SECURITY BREACH】Teach me FNAF deep lore | SPOILER ALERT\nhttps://www.youtube.com/watch?v=N-QiVhgtmgI
+DURATION:PT2H
+DTSTART:20240606T120000Z
+SUMMARY:Octavio: 【FIVE NIGHTS AT FREDDY'S: SECURITY BREACH】Teach me FNAF deep lore | SPOILER ALERT
+UID:N-QiVhgtmgI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Super Bunny Man】ROSCO GRAVES & GOLDBULLET TIME\nhttps://www.youtube.com/watch?v=qt8YGZmYrZI
@@ -898,6 +905,13 @@ DURATION:PT2H
 DTSTART:20240605T035939Z
 SUMMARY:水無世燐央: 【 歌枠 #Shorts 】 ライブ前々日まで毎日歌う！5日目お昼 【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】
 UID:JH-fiXGa3zw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メンバー限定】ひみつのおはなし【雪花ラミィ/ホロライブ】\nhttps://www.youtube.com/watch?v=RkVuzgxqVpE
+DURATION:PT2H
+DTSTART:20240606T130000Z
+SUMMARY:雪花ラミィ: 【メンバー限定】ひみつのおはなし【雪花ラミィ/ホロライブ】
+UID:RkVuzgxqVpE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【The Game of Sisyphus】For real this time 🎼\nhttps://www.youtube.com/watch?v=H8M1wQdS0PQ
