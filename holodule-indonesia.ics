@@ -4,18 +4,60 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Shashingo】Let's Play and Learn !!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=iNBNBZ2oK7E
-DURATION:PT2H
-DTSTART:20240606T080000Z
-SUMMARY:🐿Risu: 【Shashingo】Let's Play and Learn !!【Ayunda Risu】
-UID:iNBNBZ2oK7E
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【The Bathhouse】mandi\nhttps://www.youtube.com/watch?v=ORMTxvcDBpg
 DURATION:PT2H
 DTSTART:20240607T140000Z
 SUMMARY:Kobo: 【The Bathhouse】mandi
 UID:ORMTxvcDBpg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FREETALK】OLLIE IN A TUB!! OLLIE IN A TUB!!【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=8Dr3kUNCmGQ
+DURATION:PT2H
+DTSTART:20240606T140037Z
+SUMMARY:Ollie: 【FREETALK】OLLIE IN A TUB!! OLLIE IN A TUB!!【Kureiji Ollie】
+UID:8Dr3kUNCmGQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】The Return of Ayunda Risduar !!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=HR8of_usgK8
+DURATION:PT2H
+DTSTART:20240607T040000Z
+SUMMARY:🐿Risu: 【Minecraft】The Return of Ayunda Risduar !!!!【Ayunda Risu】
+UID:HR8of_usgK8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【51 Worldwide Classics】HEY LOOK WE BOTH HAVE FACE STITCHES @MichiMochievee 【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=-ki7bZTuHBg
+DURATION:PT2H
+DTSTART:20240607T130403Z
+SUMMARY:Ollie: 【51 Worldwide Classics】HEY LOOK WE BOTH HAVE FACE STITCHES @MichiMochievee 【Kureiji Ollie】
+UID:-ki7bZTuHBg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【JFF ONLINE 2024】LET'S WATCH! ANIME SUPREMACY!【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=GS1hgvUFZsk
+DURATION:PT2H
+DTSTART:20240607T120000Z
+SUMMARY:🎨Iofi: 【JFF ONLINE 2024】LET'S WATCH! ANIME SUPREMACY!【 iofi / hololiveID 】
+UID:GS1hgvUFZsk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Story of Seasons Friends of Mineral Town】(spoiler) MINING YOUR JEWELS!!!【Pavolia Reine/hololiveID】\nhttps://www.youtube.com/watch?v=qk_AKdlvOKo
+DURATION:PT2H
+DTSTART:20240607T140000Z
+SUMMARY:Reine: 【Story of Seasons Friends of Mineral Town】(spoiler) MINING YOUR JEWELS!!!【Pavolia Reine/hololiveID】
+UID:qk_AKdlvOKo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Drawing】Corat Coret Bersama @PiaMeraleo-JKT48V 【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=AOaewqqobOU
+DURATION:PT2H
+DTSTART:20240606T120000Z
+SUMMARY:🎨Iofi: 【Drawing】Corat Coret Bersama @PiaMeraleo-JKT48V 【 iofi / hololiveID 】
+UID:AOaewqqobOU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Shashingo】Let's Play and Learn !!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=iNBNBZ2oK7E
+DURATION:PT2H
+DTSTART:20240606T080000Z
+SUMMARY:🐿Risu: 【Shashingo】Let's Play and Learn !!【Ayunda Risu】
+UID:iNBNBZ2oK7E
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Keep Talking and Nobody Explodes】keep talking and we both explode💥【hololiveID】\nhttps://www.youtube.com/watch?v=SQ7w9EYBd_Q
@@ -60,46 +102,11 @@ SUMMARY:Kaela: 【Bacon – The Game】can we even finish this game?【Kaela Kov
 UID:6_9D_JXZcVo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FREETALK】OLLIE IN A TUB!! OLLIE IN A TUB!!【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=8Dr3kUNCmGQ
-DURATION:PT2H
-DTSTART:20240606T140037Z
-SUMMARY:Ollie: 【FREETALK】OLLIE IN A TUB!! OLLIE IN A TUB!!【Kureiji Ollie】
-UID:8Dr3kUNCmGQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】The Return of Ayunda Risduar !!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=HR8of_usgK8
-DURATION:PT2H
-DTSTART:20240607T040000Z
-SUMMARY:🐿Risu: 【Minecraft】The Return of Ayunda Risduar !!!!【Ayunda Risu】
-UID:HR8of_usgK8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【51 Worldwide Classics】HEY LOOK WE BOTH HAVE FACE STITCHES @MichiMochievee 【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=-ki7bZTuHBg
-DURATION:PT2H
-DTSTART:20240607T130403Z
-SUMMARY:Ollie: 【51 Worldwide Classics】HEY LOOK WE BOTH HAVE FACE STITCHES @MichiMochievee 【Kureiji Ollie】
-UID:-ki7bZTuHBg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【JFF ONLINE 2024】LET'S WATCH! ANIME SUPREMACY!【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=GS1hgvUFZsk
-DURATION:PT2H
-DTSTART:20240607T120000Z
-SUMMARY:🎨Iofi: 【JFF ONLINE 2024】LET'S WATCH! ANIME SUPREMACY!【 iofi / hololiveID 】
-UID:GS1hgvUFZsk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【KEEP TALKING AND NOBODY EXPLODES】I DON'T WANT TO EXPLODE\, KAELA【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=9-Jk3HN3OWc
 DURATION:PT2H
 DTSTART:20240608T130000Z
 SUMMARY:Ollie: 【KEEP TALKING AND NOBODY EXPLODES】I DON'T WANT TO EXPLODE\, KAELA【Kureiji Ollie】
 UID:9-Jk3HN3OWc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Drawing】Corat Coret Bersama @PiaMeraleo-JKT48V 【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=AOaewqqobOU
-DURATION:PT2H
-DTSTART:20240606T120000Z
-SUMMARY:🎨Iofi: 【Drawing】Corat Coret Bersama @PiaMeraleo-JKT48V 【 iofi / hololiveID 】
-UID:AOaewqqobOU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Stardew Valley】Ngecek Kebon Yang Terlantar【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=ZkZnY9-xyds
