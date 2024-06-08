@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:ホロスターズ５周年ライブまであと１日！\nhttps://www.youtube.com/watch?v=HAQV-9ygnzs
+DESCRIPTION:ダーリン / 須田景凪 covered by 水無世燐央（Minase Rio）\nhttps://www.youtube.com/watch?v=-gMikxkvbHc
 DURATION:PT2H
-DTSTART:20240607T113013Z
-SUMMARY:ホロスターズ: ホロスターズ５周年ライブまであと１日！
-UID:HAQV-9ygnzs
+DTSTART:20240610T080000Z
+SUMMARY:水無世燐央: ダーリン / 須田景凪 covered by 水無世燐央（Minase Rio）
+UID:-gMikxkvbHc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#花咲みやび5周年】デビューして5年経ちました!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=3vVzSlE7UZA
+DURATION:PT2H
+DTSTART:20240609T130000Z
+SUMMARY:🌺花咲みやび: 【#花咲みやび5周年】デビューして5年経ちました!!【花咲みやび/ホロスターズ】
+UID:3vVzSlE7UZA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 歌枠 】ライブありがとう！僕を見つけてくれたあなたへ【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】\nhttps://www.youtube.com/watch?v=zgb5HQ8IY6I
@@ -23,26 +30,5 @@ DURATION:PT2H
 DTSTART:20240608T080000Z
 SUMMARY:ホロスターズ: 【チラ見せ】HOLOSTARS 5th Anniversary Live -Movin’ On!-【#ホロスタ5周年ライブ】
 UID:QR1ZFfS7cmc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:10秒告知チャレンジ！ #緋崎ガンマ #ホロスタ5周年ライブ #shorts\nhttps://www.youtube.com/watch?v=HFlnAtGkalI
-DURATION:PT2H
-DTSTART:20240607T030011Z
-SUMMARY:ホロスターズ: 10秒告知チャレンジ！ #緋崎ガンマ #ホロスタ5周年ライブ #shorts
-UID:HFlnAtGkalI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【NG集】UPROAR!!の場合【＃スタこれ】 #shorts #ホロスターズ #ホロスタショート\nhttps://www.youtube.com/watch?v=6DcacnJ2FUs
-DURATION:PT2H
-DTSTART:20240607T100006Z
-SUMMARY:ホロスターズ: 【NG集】UPROAR!!の場合【＃スタこれ】 #shorts #ホロスターズ #ホロスタショート
-UID:6DcacnJ2FUs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#花咲みやび5周年】デビューして5年経ちました!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=3vVzSlE7UZA
-DURATION:PT2H
-DTSTART:20240609T130000Z
-SUMMARY:🌺花咲みやび: 【#花咲みやび5周年】デビューして5年経ちました!!【花咲みやび/ホロスターズ】
-UID:3vVzSlE7UZA
 END:VEVENT
 END:VCALENDAR
