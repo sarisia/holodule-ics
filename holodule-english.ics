@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:cool dance #vtuber #hololive #dance\nhttps://www.youtube.com/watch?v=TJ-0qsWXRgE
+DURATION:PT2H
+DTSTART:20240608T215356Z
+SUMMARY:Calli: cool dance #vtuber #hololive #dance
+UID:TJ-0qsWXRgE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#holoENquiz】  How much do we know about each other? 【And BIG NEWS!】\nhttps://www.youtube.com/watch?v=53rOqRgYx0g
 DURATION:PT2H
 DTSTART:20240608T010000Z
@@ -88,13 +95,6 @@ SUMMARY:Kiara: 【FALLOUT: NEW VEGAS】WELCOME TO NEW VEGAS OOOOOOOOO #kfp #キ�
 UID:_eeRY-aGXPQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FWMC MINECRAFT JOURNEY】fuzzy digging lessons 🐾【MOCOCO POV】\nhttps://www.youtube.com/watch?v=e986YKuTPkM
-DURATION:PT2H
-DTSTART:20240609T010000Z
-SUMMARY:FUWAMOCO: 【FWMC MINECRAFT JOURNEY】fuzzy digging lessons 🐾【MOCOCO POV】
-UID:e986YKuTPkM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【FWMC MINECRAFT JOURNEY】fluffy digging lessons 🐾【FUWAWA POV】\nhttps://www.youtube.com/watch?v=G--P54GVUCI
 DURATION:PT2H
 DTSTART:20240609T010000Z
@@ -102,18 +102,25 @@ SUMMARY:FUWAMOCO: 【FWMC MINECRAFT JOURNEY】fluffy digging lessons 🐾【FUWA
 UID:G--P54GVUCI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Stardew Valley】Elliot my beloved\, how I missed you 🎼\nhttps://www.youtube.com/watch?v=YGjl72v82ns
-DURATION:PT2H
-DTSTART:20240610T000000Z
-SUMMARY:Nerissa: 【Stardew Valley】Elliot my beloved\, how I missed you 🎼
-UID:YGjl72v82ns
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Splatoon 3 / スプラトゥーン３ 】Salmon BIG BIIIG Run ビッグなバイトだ！！！\nhttps://www.youtube.com/watch?v=z7qaYxCMfMI
 DURATION:PT2H
 DTSTART:20240608T120000Z
 SUMMARY:IRyS: 【Splatoon 3 / スプラトゥーン３ 】Salmon BIG BIIIG Run ビッグなバイトだ！！！
 UID:z7qaYxCMfMI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FWMC MINECRAFT JOURNEY】fuzzy digging lessons 🐾【MOCOCO POV】\nhttps://www.youtube.com/watch?v=e986YKuTPkM
+DURATION:PT2H
+DTSTART:20240609T010000Z
+SUMMARY:FUWAMOCO: 【FWMC MINECRAFT JOURNEY】fuzzy digging lessons 🐾【MOCOCO POV】
+UID:e986YKuTPkM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Stardew Valley】Elliot my beloved\, how I missed you 🎼\nhttps://www.youtube.com/watch?v=YGjl72v82ns
+DURATION:PT2H
+DTSTART:20240610T000000Z
+SUMMARY:Nerissa: 【Stardew Valley】Elliot my beloved\, how I missed you 🎼
+UID:YGjl72v82ns
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【KARAOKE】REVEAL AND ANNOUNCEMENT✨ #kfp #キアライブ  #shorts\nhttps://www.youtube.com/watch?v=QtrXHWcTXqg
