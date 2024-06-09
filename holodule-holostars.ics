@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【雑談】ホロスタ5周年ライブお疲れさまでした！！天真視点で思ったこと！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=UHv4JGjAUC8
+DESCRIPTION:【 お絵描き雑談 】5周年LIVEマンガレポ付き振り返り雑談！裏話大解放します！【#緋崎ガンマ / #ホロスターズ / #vtuber /#ホロスタ5周年ライブ】\nhttps://www.youtube.com/watch?v=_b7IPbegNDY
 DURATION:PT2H
-DTSTART:20240608T151500Z
-SUMMARY:🦔💨岸堂天真: 【雑談】ホロスタ5周年ライブお疲れさまでした！！天真視点で思ったこと！【岸堂天真/ホロスターズ】
-UID:UHv4JGjAUC8
+DTSTART:20240609T070000Z
+SUMMARY:緋崎ガンマ: 【 お絵描き雑談 】5周年LIVEマンガレポ付き振り返り雑談！裏話大解放します！【#緋崎ガンマ / #ホロスターズ / #vtuber /#ホロスタ5周年ライブ】
+UID:_b7IPbegNDY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【感謝枠】#ホロスタ5周年ライブ　を終えて！【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=eINN0E7GRoE
@@ -51,5 +51,12 @@ DURATION:PT2H
 DTSTART:20240610T080000Z
 SUMMARY:水無世燐央: ダーリン / 須田景凪 covered by 水無世燐央（Minase Rio）
 UID:-gMikxkvbHc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】ホロスタ5周年ライブお疲れさまでした！！天真視点で思ったこと！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=UHv4JGjAUC8
+DURATION:PT2H
+DTSTART:20240608T151500Z
+SUMMARY:🦔💨岸堂天真: 【雑談】ホロスタ5周年ライブお疲れさまでした！！天真視点で思ったこと！【岸堂天真/ホロスターズ】
+UID:UHv4JGjAUC8
 END:VEVENT
 END:VCALENDAR
