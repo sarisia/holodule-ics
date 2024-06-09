@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#らでんのラジオ】第十七回目らでんのラジオ！ふつおたの回【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=k1CAvGfebTg
-DURATION:PT2H
-DTSTART:20240609T140000Z
-SUMMARY:儒烏風亭らでん: 【#らでんのラジオ】第十七回目らでんのラジオ！ふつおたの回【儒烏風亭らでん #ReGLOSS 】
-UID:k1CAvGfebTg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【こよりvsReGLOSS】一夜限りの特別授業！！【#リグこよ謎解き】\nhttps://www.youtube.com/watch?v=mdteybVKxPk
 DURATION:PT2H
 DTSTART:20240610T100000Z
@@ -72,6 +65,13 @@ DURATION:PT2H
 DTSTART:20240609T090000Z
 SUMMARY:火威青: 【 #アホくゆ 】⑨ヶ月記念なのでアホになる【火威青 】#hololiveDEV_IS #ReGLOSS
 UID:99P1S3KSwlM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#らでんのラジオ】（機材トラブル後再開）第十七回目らでんのラジオ！ふつおたの回【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=SjnhiB8ed80
+DURATION:PT2H
+DTSTART:20240609T143000Z
+SUMMARY:儒烏風亭らでん: 【#らでんのラジオ】（機材トラブル後再開）第十七回目らでんのラジオ！ふつおたの回【儒烏風亭らでん #ReGLOSS 】
+UID:SjnhiB8ed80
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン３ / サーモンラン】ビッグランだ！！しゃけたち～！いっぱい捕まえるぞ～！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=lKTkhFXyXWA
