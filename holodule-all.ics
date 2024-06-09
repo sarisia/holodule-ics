@@ -4,10 +4,17 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 歌枠 】ライブありがとう！僕を見つけてくれたあなたへ【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】\nhttps://www.youtube.com/watch?v=zgb5HQ8IY6I
+DESCRIPTION:【#らでんのラジオ】第十七回目らでんのラジオ！ふつおたの回【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=k1CAvGfebTg
+DURATION:PT2H
+DTSTART:20240609T140000Z
+SUMMARY:儒烏風亭らでん: 【#らでんのラジオ】第十七回目らでんのラジオ！ふつおたの回【儒烏風亭らでん #ReGLOSS 】
+UID:k1CAvGfebTg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 スタジオ歌枠 】ライブありがとう！僕を見つけてくれたあなたへ【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】\nhttps://www.youtube.com/watch?v=zgb5HQ8IY6I
 DURATION:PT2H
 DTSTART:20240609T050000Z
-SUMMARY:水無世燐央: 【 歌枠 】ライブありがとう！僕を見つけてくれたあなたへ【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】
+SUMMARY:水無世燐央: 【 スタジオ歌枠 】ライブありがとう！僕を見つけてくれたあなたへ【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】
 UID:zgb5HQ8IY6I
 END:VEVENT
 BEGIN:VEVENT
@@ -618,6 +625,13 @@ DURATION:PT2H
 DTSTART:20240609T140000Z
 SUMMARY:Zeta: 【Gartic Phone】With Secret Unit !!!!! Let's doodle together!!
 UID:F8ugd5dBT0U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ストリートファイター6】#Vスト６律可杯 よっさんコーチに指導して頂く！【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=c-OKoysORJI
+DURATION:PT2H
+DTSTART:20240610T120000Z
+SUMMARY:影山シエン: 【ストリートファイター6】#Vスト６律可杯 よっさんコーチに指導して頂く！【影山シエン/ホロスターズ】
+UID:c-OKoysORJI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【誕生日振り返り】未公開映像もあるよ～！後半は当日のスパチャお礼です！【轟はじめ/ReGLOSS】#hololivedev_is\nhttps://www.youtube.com/watch?v=hcoaWGgG-IE
