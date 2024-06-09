@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#らでんのラジオ】第十七回目らでんのラジオ！ふつおたの回【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=k1CAvGfebTg
-DURATION:PT2H
-DTSTART:20240609T140000Z
-SUMMARY:儒烏風亭らでん: 【#らでんのラジオ】第十七回目らでんのラジオ！ふつおたの回【儒烏風亭らでん #ReGLOSS 】
-UID:k1CAvGfebTg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 スタジオ歌枠 】ライブありがとう！僕を見つけてくれたあなたへ【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】\nhttps://www.youtube.com/watch?v=zgb5HQ8IY6I
 DURATION:PT2H
 DTSTART:20240609T050000Z
@@ -212,6 +205,13 @@ DURATION:PT2H
 DTSTART:20240611T100000Z
 SUMMARY:⚙律可: 大切なお知らせがあります【律可/ホロスターズ】#りつすた
 UID:W7PDJ8Jhsjo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 誕生日カウントダウン 】明日はバンドライブ‼歌いながら誕生日を迎えよう♪ #鷹嶺ルイ生誕祭2024【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=E_iKhAPx9d4
+DURATION:PT2H
+DTSTART:20240610T143000Z
+SUMMARY:鷹嶺ルイ: 【 誕生日カウントダウン 】明日はバンドライブ‼歌いながら誕生日を迎えよう♪ #鷹嶺ルイ生誕祭2024【鷹嶺ルイ/ホロライブ】
+UID:E_iKhAPx9d4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ダーリン / 須田景凪 covered by 水無世燐央（Minase Rio）\nhttps://www.youtube.com/watch?v=-gMikxkvbHc
