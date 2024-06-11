@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【高速山手線ゲーム！】告白の言葉…！？ #shorts #ReGLOSS #火威青 #一条莉々華 #轟はじめ\nhttps://www.youtube.com/watch?v=uYnVYFeJszM
-DURATION:PT2H
-DTSTART:20240610T080035Z
-SUMMARY:DEV_IShololive: 【高速山手線ゲーム！】告白の言葉…！？ #shorts #ReGLOSS #火威青 #一条莉々華 #轟はじめ
-UID:uYnVYFeJszM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:青くゆの悲鳴がブレーキ音に聞こえるらしいので検証してみた【火威青】#hololiveDEV_IS #ReGLOSS #検証 #shorts\nhttps://www.youtube.com/watch?v=5w4R0K6xwjI
-DURATION:PT2H
-DTSTART:20240610T090007Z
-SUMMARY:火威青: 青くゆの悲鳴がブレーキ音に聞こえるらしいので検証してみた【火威青】#hololiveDEV_IS #ReGLOSS #検証 #shorts
-UID:5w4R0K6xwjI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【こよりvsReGLOSS】一夜限りの特別授業！！【#リグこよ謎解き】\nhttps://www.youtube.com/watch?v=mdteybVKxPk
 DURATION:PT2H
 DTSTART:20240610T100000Z
@@ -25,10 +11,31 @@ SUMMARY:DEV_IShololive: 【こよりvsReGLOSS】一夜限りの特別授業！�
 UID:mdteybVKxPk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【高速山手線ゲーム！】告白の言葉…！？ #shorts #ReGLOSS #火威青 #一条莉々華 #轟はじめ\nhttps://www.youtube.com/watch?v=uYnVYFeJszM
+DURATION:PT2H
+DTSTART:20240610T080035Z
+SUMMARY:DEV_IShololive: 【高速山手線ゲーム！】告白の言葉…！？ #shorts #ReGLOSS #火威青 #一条莉々華 #轟はじめ
+UID:uYnVYFeJszM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:不可幸力 / Vaundy  covered by ReGLOSS 【歌ってみた / hololive DEV_IS】\nhttps://www.youtube.com/watch?v=qiLGUhv7ST0
 DURATION:PT2H
 DTSTART:20240610T110500Z
 SUMMARY:DEV_IShololive: 不可幸力 / Vaundy  covered by ReGLOSS 【歌ってみた / hololive DEV_IS】
 UID:qiLGUhv7ST0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【インディゲーム部🎮】#holoIndie デュエホロ先行プレイ✨✨【#一条莉々華 / #ホロライブ】\nhttps://www.youtube.com/watch?v=UhAiAClD0zM
+DURATION:PT2H
+DTSTART:20240611T090000Z
+SUMMARY:一条莉々華: 【インディゲーム部🎮】#holoIndie デュエホロ先行プレイ✨✨【#一条莉々華 / #ホロライブ】
+UID:UhAiAClD0zM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:青くゆの悲鳴がブレーキ音に聞こえるらしいので検証してみた【火威青】#hololiveDEV_IS #ReGLOSS #検証 #shorts\nhttps://www.youtube.com/watch?v=5w4R0K6xwjI
+DURATION:PT2H
+DTSTART:20240610T090007Z
+SUMMARY:火威青: 青くゆの悲鳴がブレーキ音に聞こえるらしいので検証してみた【火威青】#hololiveDEV_IS #ReGLOSS #検証 #shorts
+UID:5w4R0K6xwjI
 END:VEVENT
 END:VCALENDAR
