@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【OVERWATCH 2】nothing can stop me\, not even myself\, not even @GawrGura\nhttps://www.youtube.com/watch?v=z99b6tbeIQ8
-DURATION:PT2H
-DTSTART:20240610T213000Z
-SUMMARY:Mumei: 【OVERWATCH 2】nothing can stop me\, not even myself\, not even @GawrGura
-UID:z99b6tbeIQ8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【FUWAMOCO MORNING】episode 98 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=5qFX0nlnHIQ
 DURATION:PT2H
 DTSTART:20240612T150000Z
 SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 98 🐾 #FWMCMORNING
 UID:5qFX0nlnHIQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MEMBERS ONLY】Work is work🎼\nhttps://www.youtube.com/watch?v=UUEW1ws1_U8
+DURATION:PT2H
+DTSTART:20240614T000000Z
+SUMMARY:Nerissa: 【MEMBERS ONLY】Work is work🎼
+UID:UUEW1ws1_U8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:a brutally honest anyatori\nhttps://www.youtube.com/watch?v=iyGFNTsx9R8
@@ -25,18 +25,18 @@ SUMMARY:Kiara: a brutally honest anyatori
 UID:iyGFNTsx9R8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ANIME WATCHALONG】Nekomonogatari & Second Season 1-5　猫物語全話見るよ！\nhttps://www.youtube.com/watch?v=JWEQZRDlNlQ
-DURATION:PT2H
-DTSTART:20240611T140000Z
-SUMMARY:Kiara: 【ANIME WATCHALONG】Nekomonogatari & Second Season 1-5　猫物語全話見るよ！
-UID:JWEQZRDlNlQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Paper Mario: The Thousand-Year Door】Rock...Paper...MARIO!\nhttps://www.youtube.com/watch?v=bKNKA1dfshU
 DURATION:PT2H
 DTSTART:20240612T230000Z
 SUMMARY:Bijou: 【Paper Mario: The Thousand-Year Door】Rock...Paper...MARIO!
 UID:bKNKA1dfshU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:bling bang bang born #vtuber #hololive #anime #shorts\nhttps://www.youtube.com/watch?v=BJiBG1bLvtY
+DURATION:PT2H
+DTSTART:20240612T144939Z
+SUMMARY:Calli: bling bang bang born #vtuber #hololive #anime #shorts
+UID:BJiBG1bLvtY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Platform 8】Choo choo! 🎼\nhttps://www.youtube.com/watch?v=OzpuDmITQBE
@@ -51,6 +51,13 @@ DURATION:PT2H
 DTSTART:20240611T210000Z
 SUMMARY:Ina: 【Elden Ring】 DERUSTING 【SPOILER WARNING】【#22.5】
 UID:5VnUZb7r99k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RED DEAD REDEMPTION 2】yee'ing my last haw #calliolive #hololiveenglish\nhttps://www.youtube.com/watch?v=yFaYCWPEzIE
+DURATION:PT2H
+DTSTART:20240614T010000Z
+SUMMARY:Calli: 【RED DEAD REDEMPTION 2】yee'ing my last haw #calliolive #hololiveenglish
+UID:yFaYCWPEzIE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【House Flipper 2】Mother Flippin'\nhttps://www.youtube.com/watch?v=tFnIFjiA0tY
@@ -88,13 +95,6 @@ SUMMARY:Gura: 【WALTZ OF THE WIZARD】CASTING FORBIDDEN SPELLS in VR
 UID:SDMWdI6bazo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Little Kitty\, Big City】No Thoughts Just Meow Meow\nhttps://www.youtube.com/watch?v=b_NqQjRznF4
-DURATION:PT2H
-DTSTART:20240611T010000Z
-SUMMARY:Kronii: 【Little Kitty\, Big City】No Thoughts Just Meow Meow
-UID:b_NqQjRznF4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【FALLOUT: NEW VEGAS】NCR or Mr. House??? Choices\, choices.... #kfp #キアライブ\nhttps://www.youtube.com/watch?v=SX_5ljQuNOk
 DURATION:PT2H
 DTSTART:20240612T150000Z
@@ -107,6 +107,20 @@ DURATION:PT2H
 DTSTART:20240613T020000Z
 SUMMARY:Shiori: 【Hollow Knight】OOGA BOOGA BOOGA!!! Ep. 05
 UID:Z9TCuOh6b4M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【TOUHOU: MOUNTAIN OF FAITH】we'll beat you someday\, kanako 🐾 #shorts 【縦型配信 VERTICAL 東方風神録】\nhttps://www.youtube.com/watch?v=iGAXTaLiRgk
+DURATION:PT2H
+DTSTART:20240614T010000Z
+SUMMARY:FUWAMOCO: 【TOUHOU: MOUNTAIN OF FAITH】we'll beat you someday\, kanako 🐾 #shorts 【縦型配信 VERTICAL 東方風神録】
+UID:iGAXTaLiRgk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SUIKA GAME 凸待ち】i feel fruity #calliolive #hololiveenglish\nhttps://www.youtube.com/watch?v=mR2tAyrKCDY
+DURATION:PT2H
+DTSTART:20240614T070000Z
+SUMMARY:Calli: 【SUIKA GAME 凸待ち】i feel fruity #calliolive #hololiveenglish
+UID:mR2tAyrKCDY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Judgement Time】Spring & Summer Flowers in Full Bloom\nhttps://www.youtube.com/watch?v=qMQlznYqsmM
@@ -135,12 +149,5 @@ DURATION:PT2H
 DTSTART:20240613T010000Z
 SUMMARY:FUWAMOCO: 【DONKEY KONG COUNTRY 2】banana survival story 🍌【スーパードンキーコング2】
 UID:nGCMdaT6rMs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING】No Maidens. (Motivated Run)\nhttps://www.youtube.com/watch?v=Cp8hMiy70X8
-DURATION:PT2H
-DTSTART:20240610T230000Z
-SUMMARY:Bijou: 【ELDEN RING】No Maidens. (Motivated Run)
-UID:Cp8hMiy70X8
 END:VEVENT
 END:VCALENDAR
