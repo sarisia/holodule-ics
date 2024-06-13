@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【DARK AND DARKER】To the Dungeon we go!!! @RegisAltare @CrimzonRuze\nhttps://www.youtube.com/watch?v=fCdq7-0g3nE
-DURATION:PT2H
-DTSTART:20240612T230000Z
-SUMMARY:Syrios: 【DARK AND DARKER】To the Dungeon we go!!! @RegisAltare @CrimzonRuze
-UID:fCdq7-0g3nE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【DARK AND DARKER】 Must See Musty Dungeon\nhttps://www.youtube.com/watch?v=FJE2hJcNL-A
 DURATION:PT2H
 DTSTART:20240612T230000Z
@@ -30,41 +23,6 @@ DURATION:PT2H
 DTSTART:20240614T010000Z
 SUMMARY:Crimzon: 【ARMIS COLLAB】Dark & Darker: Rats\, rats\, WE ARE THE RATS!
 UID:UUieiJhKlUE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PLATFORM 8】The scariest anomaly is right before your eyes.\nhttps://www.youtube.com/watch?v=KTBYaxhtCd4
-DURATION:PT2H
-DTSTART:20240613T120000Z
-SUMMARY:Octavio: 【PLATFORM 8】The scariest anomaly is right before your eyes.
-UID:KTBYaxhtCd4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DARK AND DARKER】And ARMIS was never seen again...\nhttps://www.youtube.com/watch?v=DB-gDSpwgp4
-DURATION:PT2H
-DTSTART:20240614T010000Z
-SUMMARY:Octavio: 【DARK AND DARKER】And ARMIS was never seen again...
-UID:DB-gDSpwgp4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HOMESTUCK】 Interview with James Roach!\nhttps://www.youtube.com/watch?v=WFM5sq9-Mmw
-DURATION:PT2H
-DTSTART:20240613T010000Z
-SUMMARY:Crimzon: 【HOMESTUCK】 Interview with James Roach!
-UID:WFM5sq9-Mmw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:「WE DO BE TESTING」\nhttps://www.youtube.com/watch?v=_up2NRohNg0
-DURATION:PT2H
-DTSTART:20240613T030500Z
-SUMMARY:Flayon: 「WE DO BE TESTING」
-UID:_up2NRohNg0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Zatsudan】surprise guerilla zatsu~\nhttps://www.youtube.com/watch?v=ycNjdsXDZBg
-DURATION:PT2H
-DTSTART:20240613T110000Z
-SUMMARY:Shinri: 【 Zatsudan】surprise guerilla zatsu~
-UID:ycNjdsXDZBg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FIVE NIGHTS AT FREDDY'S】IS THAT THE BITE OF--\nhttps://www.youtube.com/watch?v=MkF6S3pNpJg
@@ -88,13 +46,6 @@ SUMMARY:Altare: 【🗡️ Dark and Darker 🗡️】 Into the Dungeon... WITH T
 UID:RRGybRAz0io
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【OFF COLLAB KARAOKE】IT'S TIME TO 歌 ! ! ! w/ @KanadeIzuru @MinaseRio  & @UtsugiUyu  ! ! 【ARCHIVED】\nhttps://www.youtube.com/watch?v=zOZe2NlWLhg
-DURATION:PT2H
-DTSTART:20240614T040000Z
-SUMMARY:Hakka: 【OFF COLLAB KARAOKE】IT'S TIME TO 歌 ! ! ! w/ @KanadeIzuru @MinaseRio  & @UtsugiUyu  ! ! 【ARCHIVED】
-UID:zOZe2NlWLhg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[EURO TRUCK SIMULATOR 2] 18 WHEELS AND NO LICENSE #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=bUG7Tu5pPjo
 DURATION:PT2H
 DTSTART:20240613T210000Z
@@ -107,5 +58,61 @@ DURATION:PT2H
 DTSTART:20240613T001500Z
 SUMMARY:Hakka: 【Like a Dragon Gaiden】I THINK KIRYU IS VERY NEAT ! ! ! 【SPOILERS】#ad #sponsored
 UID:ppLCYg5Y0_8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DARK AND DARKER】To the Dungeon we go!!! @RegisAltare @CrimzonRuze\nhttps://www.youtube.com/watch?v=fCdq7-0g3nE
+DURATION:PT2H
+DTSTART:20240612T230000Z
+SUMMARY:Syrios: 【DARK AND DARKER】To the Dungeon we go!!! @RegisAltare @CrimzonRuze
+UID:fCdq7-0g3nE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PLATFORM 8】The scariest anomaly is right before your eyes.\nhttps://www.youtube.com/watch?v=KTBYaxhtCd4
+DURATION:PT2H
+DTSTART:20240613T120000Z
+SUMMARY:Octavio: 【PLATFORM 8】The scariest anomaly is right before your eyes.
+UID:KTBYaxhtCd4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DARK AND DARKER】And ARMIS was never seen again...\nhttps://www.youtube.com/watch?v=DB-gDSpwgp4
+DURATION:PT2H
+DTSTART:20240614T010000Z
+SUMMARY:Octavio: 【DARK AND DARKER】And ARMIS was never seen again...
+UID:DB-gDSpwgp4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HOMESTUCK】 Interview with James Roach!\nhttps://www.youtube.com/watch?v=WFM5sq9-Mmw
+DURATION:PT2H
+DTSTART:20240613T010000Z
+SUMMARY:Crimzon: 【HOMESTUCK】 Interview with James Roach!
+UID:WFM5sq9-Mmw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Zatsudan】surprise guerilla zatsu~\nhttps://www.youtube.com/watch?v=ycNjdsXDZBg
+DURATION:PT2H
+DTSTART:20240613T110000Z
+SUMMARY:Shinri: 【 Zatsudan】surprise guerilla zatsu~
+UID:ycNjdsXDZBg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Dredge】I am an Idol Fisherman\nhttps://www.youtube.com/watch?v=YNz32eynT9A
+DURATION:PT2H
+DTSTART:20240614T150000Z
+SUMMARY:Goldbullet: 【Dredge】I am an Idol Fisherman
+UID:YNz32eynT9A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:「WE DO BE TESTING」\nhttps://www.youtube.com/watch?v=_up2NRohNg0
+DURATION:PT2H
+DTSTART:20240613T030500Z
+SUMMARY:Flayon: 「WE DO BE TESTING」
+UID:_up2NRohNg0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【OFF COLLAB KARAOKE】IT'S TIME TO 歌 ! ! ! w/ @KanadeIzuru @MinaseRio  & @UtsugiUyu  ! ! 【ARCHIVED】\nhttps://www.youtube.com/watch?v=zOZe2NlWLhg
+DURATION:PT2H
+DTSTART:20240614T040000Z
+SUMMARY:Hakka: 【OFF COLLAB KARAOKE】IT'S TIME TO 歌 ! ! ! w/ @KanadeIzuru @MinaseRio  & @UtsugiUyu  ! ! 【ARCHIVED】
+UID:zOZe2NlWLhg
 END:VEVENT
 END:VCALENDAR
