@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Nintendo Switch Sports】 SWITCH SPORTS KIRIN RETURNS IN 3D\nhttps://www.youtube.com/watch?v=53P7i6qF-to
+DURATION:PT2H
+DTSTART:20240614T220000Z
+SUMMARY:Fauna: 【Nintendo Switch Sports】 SWITCH SPORTS KIRIN RETURNS IN 3D
+UID:53P7i6qF-to
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MEMBERS ONLY】Work is work🎼\nhttps://www.youtube.com/watch?v=UUEW1ws1_U8
 DURATION:PT2H
 DTSTART:20240614T000000Z
@@ -123,18 +130,18 @@ SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 99 🐾 #FWMCMORNING
 UID:8cOOCpt6HNM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Higurashi: The Horror Anime That Keeps Me Up at Night【WATCHALONG】🎼\nhttps://www.youtube.com/watch?v=TfVOpQY8Izw
-DURATION:PT2H
-DTSTART:20240616T000000Z
-SUMMARY:Nerissa: Higurashi: The Horror Anime That Keeps Me Up at Night【WATCHALONG】🎼
-UID:TfVOpQY8Izw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【SUIKA GAME 凸待ち】i feel fruity #calliolive #hololiveenglish\nhttps://www.youtube.com/watch?v=mR2tAyrKCDY
 DURATION:PT2H
 DTSTART:20240614T073048Z
 SUMMARY:Calli: 【SUIKA GAME 凸待ち】i feel fruity #calliolive #hololiveenglish
 UID:mR2tAyrKCDY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Higurashi: The Horror Anime That Keeps Me Up at Night【WATCHALONG】🎼\nhttps://www.youtube.com/watch?v=TfVOpQY8Izw
+DURATION:PT2H
+DTSTART:20240616T000000Z
+SUMMARY:Nerissa: Higurashi: The Horror Anime That Keeps Me Up at Night【WATCHALONG】🎼
+UID:TfVOpQY8Izw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HOLOMYTH MINECRAFT】5 refined ladies 1 block! (part 1)\nhttps://www.youtube.com/watch?v=sNCxF3lLjAs
