@@ -18,11 +18,11 @@ SUMMARY:DEV_IShololive: 【ラジオ配信】ReGLOSS ROOM Next Stage #4　5月�
 UID:gYwMO6HWeeQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ホロメンワンドロチャレンジ！】YAGOOさんを描く！【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=t2XOIdUjmgE
+DESCRIPTION:【モンハンワールド アイスボーン】初めてのモンハンワールド！！メインクエガンガンすすめてこ！！【#一条莉々華  / ホロライブ】\nhttps://www.youtube.com/watch?v=xRaZFl1cGic
 DURATION:PT2H
-DTSTART:20240613T030000Z
-SUMMARY:火威青: 【ホロメンワンドロチャレンジ！】YAGOOさんを描く！【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:t2XOIdUjmgE
+DTSTART:20240614T120000Z
+SUMMARY:一条莉々華: 【モンハンワールド アイスボーン】初めてのモンハンワールド！！メインクエガンガンすすめてこ！！【#一条莉々華  / ホロライブ】
+UID:xRaZFl1cGic
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 BIOHAZARD 7 End of Zoe】ゾイを救えるのか...！？絶対救ってみせる！【轟はじめ/ReGLOSS】#hololivedev_is\nhttps://www.youtube.com/watch?v=QqDwoh3eVcg
@@ -39,17 +39,24 @@ SUMMARY:一条莉々華: とある場所で〇にかけた話 夜の雑談 Free 
 UID:1I84FNPmeYE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【メン限同時視聴】鬼太郎誕生 ゲゲゲの謎　同時視聴配信 【儒烏風亭らでん 】\nhttps://www.youtube.com/watch?v=oOlSljW556g
-DURATION:PT2H
-DTSTART:20240613T130000Z
-SUMMARY:儒烏風亭らでん: 【メン限同時視聴】鬼太郎誕生 ゲゲゲの謎　同時視聴配信 【儒烏風亭らでん 】
-UID:oOlSljW556g
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft】つよつよになりたい！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=sD9qtFra6YU
 DURATION:PT2H
 DTSTART:20240613T140000Z
 SUMMARY:音乃瀬奏: 【Minecraft】つよつよになりたい！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
 UID:sD9qtFra6YU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ホロメンワンドロチャレンジ！】YAGOOさんを描く！【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=t2XOIdUjmgE
+DURATION:PT2H
+DTSTART:20240613T030000Z
+SUMMARY:火威青: 【ホロメンワンドロチャレンジ！】YAGOOさんを描く！【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:t2XOIdUjmgE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メン限同時視聴】鬼太郎誕生 ゲゲゲの謎　同時視聴配信 【儒烏風亭らでん 】\nhttps://www.youtube.com/watch?v=oOlSljW556g
+DURATION:PT2H
+DTSTART:20240613T130000Z
+SUMMARY:儒烏風亭らでん: 【メン限同時視聴】鬼太郎誕生 ゲゲゲの謎　同時視聴配信 【儒烏風亭らでん 】
+UID:oOlSljW556g
 END:VEVENT
 END:VCALENDAR
