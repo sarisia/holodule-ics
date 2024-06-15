@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:messin' around\nhttps://www.youtube.com/watch?v=6NDa2ERF6N0
+DURATION:PT2H
+DTSTART:20240615T130000Z
+SUMMARY:Altare: messin' around
+UID:6NDa2ERF6N0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ARMIS COLLAB】Dark & Darker: Rats\, rats\, WE ARE THE RATS!\nhttps://www.youtube.com/watch?v=UUieiJhKlUE
 DURATION:PT2H
 DTSTART:20240614T010000Z
