@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【あつまれどうぶつの森】＃8.5 まったりチルして島の民を観察する【轟はじめ/ReGLOSS】#hololivedev_is\nhttps://www.youtube.com/watch?v=Ontik3v0sXY
-DURATION:PT2H
-DTSTART:20240614T130000Z
-SUMMARY:轟はじめ: 【あつまれどうぶつの森】＃8.5 まったりチルして島の民を観察する【轟はじめ/ReGLOSS】#hololivedev_is
-UID:Ontik3v0sXY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:踊り子(Vaundy)cover by轟はじめ　#shorts  #hololivedev_is\nhttps://www.youtube.com/watch?v=GgkNoKyQFrU
 DURATION:PT2H
 DTSTART:20240615T080010Z
@@ -32,27 +25,6 @@ SUMMARY:一条莉々華: 【モンハンワールド アイスボーン】一緒
 UID:G5RtEFfUZ48
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【モンハンワールド アイスボーン】初めてのモンハンワールド！！メインクエガンガンすすめてこ！！【#一条莉々華  / ホロライブ】\nhttps://www.youtube.com/watch?v=xRaZFl1cGic
-DURATION:PT2H
-DTSTART:20240614T120000Z
-SUMMARY:一条莉々華: 【モンハンワールド アイスボーン】初めてのモンハンワールド！！メインクエガンガンすすめてこ！！【#一条莉々華  / ホロライブ】
-UID:xRaZFl1cGic
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【5人連続！早口言葉チャレンジ】噛まずに成功できるのか…？ #shorts #ReGLOSS #火威青 #音乃瀬奏 #一条莉々華 #儒烏風亭らでん #轟はじめ\nhttps://www.youtube.com/watch?v=PWbJtUsDy58
-DURATION:PT2H
-DTSTART:20240614T100020Z
-SUMMARY:DEV_IShololive: 【5人連続！早口言葉チャレンジ】噛まずに成功できるのか…？ #shorts #ReGLOSS #火威青 #音乃瀬奏 #一条莉々華 #儒烏風亭らでん #轟はじめ
-UID:PWbJtUsDy58
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【メン限同時視聴】名探偵コナンの映画「から紅の恋歌」を一緒にみよ～！！【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=CsfrL8jQi6M
-DURATION:PT2H
-DTSTART:20240615T050000Z
-SUMMARY:轟はじめ: 【メン限同時視聴】名探偵コナンの映画「から紅の恋歌」を一緒にみよ～！！【轟はじめ/ReGLOSS】＃hololiveDEV_IS
-UID:CsfrL8jQi6M
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【縦型歌枠】雑談とお歌を歌っていく【轟はじめ/ReGLOSS】 #shorts\nhttps://www.youtube.com/watch?v=X-CLtVqXQK0
 DURATION:PT2H
 DTSTART:20240615T135628Z
@@ -60,25 +32,18 @@ SUMMARY:轟はじめ: 【縦型歌枠】雑談とお歌を歌っていく【轟�
 UID:X-CLtVqXQK0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:噓しか言わない配信【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=Wtfurb-ABpI
-DURATION:PT2H
-DTSTART:20240614T120000Z
-SUMMARY:火威青: 噓しか言わない配信【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:Wtfurb-ABpI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ぶり～んばんばんぶり～んばんばん【音乃瀬奏】 #BBBBダンス #vtuber\nhttps://www.youtube.com/watch?v=aiw-v-hoavw
-DURATION:PT2H
-DTSTART:20240614T090003Z
-SUMMARY:音乃瀬奏: ぶり～んばんばんぶり～んばんばん【音乃瀬奏】 #BBBBダンス #vtuber
-UID:aiw-v-hoavw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【モンスターハンター ストーリーズ】初見プレイ✨モンスターを仲間にしてライドできちゃうの！？【一条莉々華/hololive DEV_IS　ReGLOSS】\nhttps://www.youtube.com/watch?v=DTa1Yk5d-O8
 DURATION:PT2H
 DTSTART:20240616T090000Z
 SUMMARY:一条莉々華: 【モンスターハンター ストーリーズ】初見プレイ✨モンスターを仲間にしてライドできちゃうの！？【一条莉々華/hololive DEV_IS　ReGLOSS】
 UID:DTa1Yk5d-O8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メン限同時視聴】名探偵コナンの映画「から紅の恋歌」を一緒にみよ～！！【轟はじめ/ReGLOSS】＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=CsfrL8jQi6M
+DURATION:PT2H
+DTSTART:20240615T050000Z
+SUMMARY:轟はじめ: 【メン限同時視聴】名探偵コナンの映画「から紅の恋歌」を一緒にみよ～！！【轟はじめ/ReGLOSS】＃hololiveDEV_IS
+UID:CsfrL8jQi6M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【BIOHAZARD 7】ガチで１ミリも知らないバイオ７初見プレイ【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=ojmcksmK56U
