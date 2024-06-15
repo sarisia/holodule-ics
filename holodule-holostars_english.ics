@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【GROUNDED】 Would you still love us if we were ants? @AxelSyrios\nhttps://www.youtube.com/watch?v=2nYRmhKa-LU
-DURATION:PT2H
-DTSTART:20240615T020000Z
-SUMMARY:Crimzon: 【GROUNDED】 Would you still love us if we were ants? @AxelSyrios
-UID:2nYRmhKa-LU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:messin' around\nhttps://www.youtube.com/watch?v=6NDa2ERF6N0
 DURATION:PT2H
 DTSTART:20240615T130000Z
 SUMMARY:Altare: messin' around
 UID:6NDa2ERF6N0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【GROUNDED】 Would you still love us if we were ants? @AxelSyrios\nhttps://www.youtube.com/watch?v=2nYRmhKa-LU
+DURATION:PT2H
+DTSTART:20240615T020000Z
+SUMMARY:Crimzon: 【GROUNDED】 Would you still love us if we were ants? @AxelSyrios
+UID:2nYRmhKa-LU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【⚔️ Elden Ring ⚔️】 Picking up from a long forgotten journey...\nhttps://www.youtube.com/watch?v=UTl70kkrTpg
@@ -48,7 +48,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ASMR STREAM】Axelotl Corp is on a STONK 8)\nhttps://www.youtube.com/watch?v=YHBFjT-aCtk
 DURATION:PT2H
-DTSTART:20240615T120000Z
+DTSTART:20240616T120000Z
 SUMMARY:Syrios: 【ASMR STREAM】Axelotl Corp is on a STONK 8)
 UID:YHBFjT-aCtk
 END:VEVENT
