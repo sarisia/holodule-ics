@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:messin' around\nhttps://www.youtube.com/watch?v=6NDa2ERF6N0
-DURATION:PT2H
-DTSTART:20240615T130000Z
-SUMMARY:Altare: messin' around
-UID:6NDa2ERF6N0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【GROUNDED】 Would you still love us if we were ants? @AxelSyrios\nhttps://www.youtube.com/watch?v=2nYRmhKa-LU
-DURATION:PT2H
-DTSTART:20240615T020000Z
-SUMMARY:Crimzon: 【GROUNDED】 Would you still love us if we were ants? @AxelSyrios
-UID:2nYRmhKa-LU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 3D Showcase】Tempus Vanguard 3D Collab: Tied Together #VG3D\nhttps://www.youtube.com/watch?v=NlZTDqC5rpc
 DURATION:PT2H
 DTSTART:20240617T030000Z
@@ -32,11 +18,11 @@ SUMMARY:Altare: 【⚔️ Elden Ring ⚔️】 Picking up from a long forgotten 
 UID:UTl70kkrTpg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【PHANTOM OF THE OPERA 25TH ANNIVERSARY】Watching for the first time!\nhttps://www.youtube.com/watch?v=aD3NPNmrvrk
+DESCRIPTION:【3D Showcase】The Lone Wanderer\, Again #Shinri3D\nhttps://www.youtube.com/watch?v=k7ud60YJtLs
 DURATION:PT2H
-DTSTART:20240615T120000Z
-SUMMARY:Octavio: 【PHANTOM OF THE OPERA 25TH ANNIVERSARY】Watching for the first time!
-UID:aD3NPNmrvrk
+DTSTART:20240616T030000Z
+SUMMARY:Shinri: 【3D Showcase】The Lone Wanderer\, Again #Shinri3D
+UID:k7ud60YJtLs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【HOLOMARCHES】 Designing An Army\nhttps://www.youtube.com/watch?v=r0jNCa2akn0
@@ -44,13 +30,6 @@ DURATION:PT2H
 DTSTART:20240615T180000Z
 SUMMARY:Crimzon: 【HOLOMARCHES】 Designing An Army
 UID:r0jNCa2akn0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【3D Showcase】The Lone Wanderer\, Again #Shinri3D\nhttps://www.youtube.com/watch?v=k7ud60YJtLs
-DURATION:PT2H
-DTSTART:20240616T030000Z
-SUMMARY:Shinri: 【3D Showcase】The Lone Wanderer\, Again #Shinri3D
-UID:k7ud60YJtLs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Zatsudan】Post 3D Showcase Zatsudan!\nhttps://www.youtube.com/watch?v=puQ6jUqlO0k
@@ -67,6 +46,13 @@ SUMMARY:Hakka: 【Tengu Talk】SHOW ME YOUR MOVES!【MOCOPI】
 UID:MQs7UNjf2aE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:「Posing Continues + Catching Up on Da Supas」\nhttps://www.youtube.com/watch?v=aMfYdiVGvUI
+DURATION:PT2H
+DTSTART:20240618T010000Z
+SUMMARY:Flayon: 「Posing Continues + Catching Up on Da Supas」
+UID:aMfYdiVGvUI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ASMR STREAM】Axelotl Corp is on a STONK 8)\nhttps://www.youtube.com/watch?v=YHBFjT-aCtk
 DURATION:PT2H
 DTSTART:20240617T140000Z
@@ -81,13 +67,6 @@ SUMMARY:Syrios: 【Granblue Fantasy】My first ever gacha stream... I guess???�
 UID:jczyzH5ozZs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【GROUNDED】Time to adventure the wild 8) #1\nhttps://www.youtube.com/watch?v=4dGYn8r9G8o
-DURATION:PT2H
-DTSTART:20240615T020000Z
-SUMMARY:Syrios: 【GROUNDED】Time to adventure the wild 8) #1
-UID:4dGYn8r9G8o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【OcTalks with Octavio #20】EVERYBODY IS IN 3D\nhttps://www.youtube.com/watch?v=nSs4swLF3CU
 DURATION:PT2H
 DTSTART:20240616T120000Z
@@ -100,12 +79,5 @@ DURATION:PT2H
 DTSTART:20240616T150000Z
 SUMMARY:Goldbullet: 【Handcam Membership】Let's check out my treasure!
 UID:DdsM9Xft7zE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MEMBERSHIP PERK】Silly songs for Blow Up Poppets and Marionettes - 5th to 6th monthish!\nhttps://www.youtube.com/watch?v=VRymBn_vugs
-DURATION:PT2H
-DTSTART:20240615T110630Z
-SUMMARY:Octavio: 【MEMBERSHIP PERK】Silly songs for Blow Up Poppets and Marionettes - 5th to 6th monthish!
-UID:VRymBn_vugs
 END:VEVENT
 END:VCALENDAR
