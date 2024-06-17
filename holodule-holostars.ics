@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:配信予定\nhttps://www.youtube.com/watch?v=CQHqppsCLvo
+DURATION:PT2H
+DTSTART:20240618T140000Z
+SUMMARY:夜十神封魔: 配信予定
+UID:CQHqppsCLvo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【LOST JUDGMENT：裁かれざる記憶】帰ってきたキムタクが如く　2日目【夕刻ロベル/ホロスターズ】※ネタバレあり\nhttps://www.youtube.com/watch?v=50fYFKlwI70
 DURATION:PT2H
 DTSTART:20240617T040000Z
@@ -11,10 +18,10 @@ SUMMARY:🍷夕刻ロベル: 【LOST JUDGMENT：裁かれざる記憶】帰っ�
 UID:50fYFKlwI70
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スト６】マリーザで勝つのあまりにも難しい助けてください【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=okq17V-fdmk
+DESCRIPTION:【スト６】マリーザでダイヤ１スタートからマスター耐久！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=okq17V-fdmk
 DURATION:PT2H
 DTSTART:20240617T132000Z
-SUMMARY:🦔💨岸堂天真: 【スト６】マリーザで勝つのあまりにも難しい助けてください【岸堂天真/ホロスターズ】
+SUMMARY:🦔💨岸堂天真: 【スト６】マリーザでダイヤ１スタートからマスター耐久！【岸堂天真/ホロスターズ】
 UID:okq17V-fdmk
 END:VEVENT
 BEGIN:VEVENT
