@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【メン限歌枠】夜の歌枠【儒烏風亭らでん 】\nhttps://www.youtube.com/watch?v=DaAfF0l9gZg
+DURATION:PT2H
+DTSTART:20240617T130000Z
+SUMMARY:儒烏風亭らでん: 【メン限歌枠】夜の歌枠【儒烏風亭らでん 】
+UID:DaAfF0l9gZg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【BIOHAZARD 7】ガチで１ミリも知らないバイオ７初見プレイ【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=CINu6YXP4rk
+DURATION:PT2H
+DTSTART:20240616T090000Z
+SUMMARY:火威青: 【BIOHAZARD 7】ガチで１ミリも知らないバイオ７初見プレイ【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:CINu6YXP4rk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#らでんのラジオ】第十八回目らでんのラジオ！応募フォーム変わりました！【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=Ny6Z1c-B-XM
 DURATION:PT2H
 DTSTART:20240616T140000Z
@@ -44,12 +58,5 @@ DURATION:PT2H
 DTSTART:20240616T090000Z
 SUMMARY:音乃瀬奏: BBBB低予算、その裏側 #BBBBダンス #vtuber
 UID:-W-XocammQA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BIOHAZARD 7】ガチで１ミリも知らないバイオ７初見プレイ【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=CINu6YXP4rk
-DURATION:PT2H
-DTSTART:20240616T090000Z
-SUMMARY:火威青: 【BIOHAZARD 7】ガチで１ミリも知らないバイオ７初見プレイ【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:CINu6YXP4rk
 END:VEVENT
 END:VCALENDAR
