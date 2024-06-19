@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Honor of Kings】hi\, my name is Kaengela. LETS PLAY TOGEDHAAAA~【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=04Ctm3Iy2Fg
+DURATION:PT2H
+DTSTART:20240621T130000Z
+SUMMARY:Kaela: 【Honor of Kings】hi\, my name is Kaengela. LETS PLAY TOGEDHAAAA~【Kaela Kovalskia / hololiveID】
+UID:04Ctm3Iy2Fg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HOLOEARTH】THE UPDATE IS HERE!!【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=hA51wOp97lc
+DURATION:PT2H
+DTSTART:20240620T030000Z
+SUMMARY:Ollie: 【HOLOEARTH】THE UPDATE IS HERE!!【Kureiji Ollie】
+UID:hA51wOp97lc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【PEJUANG SENIN】#78 PEJUANG RABU【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=WQ27_dkJe-k
 DURATION:PT2H
 DTSTART:20240619T000000Z
@@ -23,12 +37,5 @@ DURATION:PT2H
 DTSTART:20240619T060000Z
 SUMMARY:Zeta: 【DON'T SCREAM】if i laugh\, i lose
 UID:h5gXpDkbssI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Honor of Kings】hi\, my name is Kaengela. LETS PLAY TOGEDHAAAA~【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=04Ctm3Iy2Fg
-DURATION:PT2H
-DTSTART:20240621T130000Z
-SUMMARY:Kaela: 【Honor of Kings】hi\, my name is Kaengela. LETS PLAY TOGEDHAAAA~【Kaela Kovalskia / hololiveID】
-UID:04Ctm3Iy2Fg
 END:VEVENT
 END:VCALENDAR
