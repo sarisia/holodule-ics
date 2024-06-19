@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【TEST】メンバー限定【一条莉々華/hololive DEV_IS　ReGLOSS】\nhttps://www.youtube.com/watch?v=F4s64-1bUkU
+DURATION:PT2H
+DTSTART:20240619T144524Z
+SUMMARY:一条莉々華: 【TEST】メンバー限定【一条莉々華/hololive DEV_IS　ReGLOSS】
+UID:F4s64-1bUkU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【アソビ大全】はじめましてラミィ先輩、タイマンしましょう【轟はじめ/雪花ラミィ】＃呼び出しばんちょー\nhttps://www.youtube.com/watch?v=T-ywoz1z1CQ
 DURATION:PT2H
 DTSTART:20240619T110000Z
@@ -18,18 +25,11 @@ SUMMARY:一条莉々華: 【#インディゲーム部】神ゲー、Inscryption�
 UID:5Jm5EviQCWQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Nintendo direct同時視聴】何が来るかな！？超楽しみ～～！！！！【#一条莉々華/ #ホロライブ 】\nhttps://www.youtube.com/watch?v=ypKyMTXG-2o
+DESCRIPTION:【アキネータークイズ】真っ白でふわふわ？ #shorts #ReGLOSS #一条莉々華\nhttps://www.youtube.com/watch?v=6fLmJzoZk8Y
 DURATION:PT2H
-DTSTART:20240618T134500Z
-SUMMARY:一条莉々華: 【Nintendo direct同時視聴】何が来るかな！？超楽しみ～～！！！！【#一条莉々華/ #ホロライブ 】
-UID:ypKyMTXG-2o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【BIOHAZARD 7】ガチで１ミリも知らないバイオ７初見プレイ【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=snqHJ2lxCVM
-DURATION:PT2H
-DTSTART:20240618T080000Z
-SUMMARY:火威青: 【BIOHAZARD 7】ガチで１ミリも知らないバイオ７初見プレイ【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:snqHJ2lxCVM
+DTSTART:20240619T100009Z
+SUMMARY:DEV_IShololive: 【アキネータークイズ】真っ白でふわふわ？ #shorts #ReGLOSS #一条莉々華
+UID:6fLmJzoZk8Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:脊髄でうたうvtuberのちるらっぷ【轟はじめ/ReGLOSS】#shorts  #hololivedev_is\nhttps://www.youtube.com/watch?v=1ifJRyYF69U
@@ -44,33 +44,5 @@ DURATION:PT2H
 DTSTART:20240619T130000Z
 SUMMARY:火威青: 【BIOHAZARD 7】ガチで１ミリも知らないバイオ７初見プレイ【火威青 】#hololiveDEV_IS #ReGLOSS
 UID:XQowU4oUVks
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:儒烏風亭らでんIb実況切り抜きpart1 #shorts\nhttps://www.youtube.com/watch?v=p_GFWTnGrVk
-DURATION:PT2H
-DTSTART:20240618T090040Z
-SUMMARY:儒烏風亭らでん: 儒烏風亭らでんIb実況切り抜きpart1 #shorts
-UID:p_GFWTnGrVk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アキネータークイズ】真っ白でふわふわ？ #shorts #ReGLOSS #一条莉々華\nhttps://www.youtube.com/watch?v=6fLmJzoZk8Y
-DURATION:PT2H
-DTSTART:20240619T100009Z
-SUMMARY:DEV_IShololive: 【アキネータークイズ】真っ白でふわふわ？ #shorts #ReGLOSS #一条莉々華
-UID:6fLmJzoZk8Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活チャリ漕ぎ歌枠】アイドルキンリョクめざめてOK！【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=f9kyhQSgaZU
-DURATION:PT2H
-DTSTART:20240617T230000Z
-SUMMARY:火威青: 【朝活チャリ漕ぎ歌枠】アイドルキンリョクめざめてOK！【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:f9kyhQSgaZU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#気まぐれ薄明ラジオ】儒烏風亭らでんの朝活が復活しました。#1 【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=ei5hgdeAgzc
-DURATION:PT2H
-DTSTART:20240617T200000Z
-SUMMARY:儒烏風亭らでん: 【#気まぐれ薄明ラジオ】儒烏風亭らでんの朝活が復活しました。#1 【儒烏風亭らでん #ReGLOSS 】
-UID:ei5hgdeAgzc
 END:VEVENT
 END:VCALENDAR
