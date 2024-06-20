@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【TEST】メンバー限定【一条莉々華/hololive DEV_IS　ReGLOSS】\nhttps://www.youtube.com/watch?v=F4s64-1bUkU
-DURATION:PT2H
-DTSTART:20240619T144524Z
-SUMMARY:一条莉々華: 【TEST】メンバー限定【一条莉々華/hololive DEV_IS　ReGLOSS】
-UID:F4s64-1bUkU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:NIGHT DANCER / imase covered by 火威青＆轟はじめ 【歌ってみた / hololive DEV_IS】\nhttps://www.youtube.com/watch?v=9foH_u4NBfU
-DURATION:PT2H
-DTSTART:20240620T100000Z
-SUMMARY:DEV_IShololive: NIGHT DANCER / imase covered by 火威青＆轟はじめ 【歌ってみた / hololive DEV_IS】
-UID:9foH_u4NBfU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【アソビ大全】はじめましてラミィ先輩、タイマンしましょう【轟はじめ/雪花ラミィ】＃呼び出しばんちょー\nhttps://www.youtube.com/watch?v=T-ywoz1z1CQ
 DURATION:PT2H
 DTSTART:20240619T110000Z
@@ -32,13 +18,6 @@ SUMMARY:一条莉々華: 【#インディゲーム部】神ゲー、Inscryption�
 UID:5Jm5EviQCWQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【アキネータークイズ】真っ白でふわふわ？ #shorts #ReGLOSS #一条莉々華\nhttps://www.youtube.com/watch?v=6fLmJzoZk8Y
-DURATION:PT2H
-DTSTART:20240619T100009Z
-SUMMARY:DEV_IShololive: 【アキネータークイズ】真っ白でふわふわ？ #shorts #ReGLOSS #一条莉々華
-UID:6fLmJzoZk8Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:脊髄でうたうvtuberのちるらっぷ【轟はじめ/ReGLOSS】#shorts  #hololivedev_is\nhttps://www.youtube.com/watch?v=1ifJRyYF69U
 DURATION:PT2H
 DTSTART:20240619T080002Z
@@ -51,5 +30,33 @@ DURATION:PT2H
 DTSTART:20240619T130000Z
 SUMMARY:火威青: 【BIOHAZARD 7】ガチで１ミリも知らないバイオ７初見プレイ【火威青 】#hololiveDEV_IS #ReGLOSS
 UID:XQowU4oUVks
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【】はいしんよてい【轟はじめ/ReGLOSS】#hololivedev_is\nhttps://www.youtube.com/watch?v=GjDtZjGhG14
+DURATION:PT2H
+DTSTART:20240620T130000Z
+SUMMARY:轟はじめ: 【】はいしんよてい【轟はじめ/ReGLOSS】#hololivedev_is
+UID:GjDtZjGhG14
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【TEST】メンバー限定【一条莉々華/hololive DEV_IS　ReGLOSS】\nhttps://www.youtube.com/watch?v=F4s64-1bUkU
+DURATION:PT2H
+DTSTART:20240619T144524Z
+SUMMARY:一条莉々華: 【TEST】メンバー限定【一条莉々華/hololive DEV_IS　ReGLOSS】
+UID:F4s64-1bUkU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:NIGHT DANCER / imase covered by 火威青＆轟はじめ 【歌ってみた / hololive DEV_IS】\nhttps://www.youtube.com/watch?v=9foH_u4NBfU
+DURATION:PT2H
+DTSTART:20240620T100000Z
+SUMMARY:DEV_IShololive: NIGHT DANCER / imase covered by 火威青＆轟はじめ 【歌ってみた / hololive DEV_IS】
+UID:9foH_u4NBfU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【アキネータークイズ】真っ白でふわふわ？ #shorts #ReGLOSS #一条莉々華\nhttps://www.youtube.com/watch?v=6fLmJzoZk8Y
+DURATION:PT2H
+DTSTART:20240619T100009Z
+SUMMARY:DEV_IShololive: 【アキネータークイズ】真っ白でふわふわ？ #shorts #ReGLOSS #一条莉々華
+UID:6fLmJzoZk8Y
 END:VEVENT
 END:VCALENDAR
