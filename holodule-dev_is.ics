@@ -4,6 +4,34 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【雑談】めっちゃ梅雨【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=wP1kjbvnoC0
+DURATION:PT2H
+DTSTART:20240621T080000Z
+SUMMARY:儒烏風亭らでん: 【雑談】めっちゃ梅雨【儒烏風亭らでん #ReGLOSS 】
+UID:wP1kjbvnoC0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ゆる～く話したい～！ 夜の雑談 Free Talk #一条莉々華 #Shorts #ホロライブ\nhttps://www.youtube.com/watch?v=yWl5t_cx2tw
+DURATION:PT2H
+DTSTART:20240620T125924Z
+SUMMARY:一条莉々華: ゆる～く話したい～！ 夜の雑談 Free Talk #一条莉々華 #Shorts #ホロライブ
+UID:yWl5t_cx2tw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【魚】我、サカバンバスピス【轟はじめ/ReGLOSS】#hololivedev_is\nhttps://www.youtube.com/watch?v=GjDtZjGhG14
+DURATION:PT2H
+DTSTART:20240620T130000Z
+SUMMARY:轟はじめ: 【魚】我、サカバンバスピス【轟はじめ/ReGLOSS】#hololivedev_is
+UID:GjDtZjGhG14
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:青くゆの幼少期がアホすぎる(実際の音声)【火威青】#hololiveDEV_IS #ReGLOSS  #shorts\nhttps://www.youtube.com/watch?v=PEY0DBigOzk
+DURATION:PT2H
+DTSTART:20240620T090017Z
+SUMMARY:火威青: 青くゆの幼少期がアホすぎる(実際の音声)【火威青】#hololiveDEV_IS #ReGLOSS  #shorts
+UID:PEY0DBigOzk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#インディゲーム部】神ゲー、深まる謎。Inscryption始動 #2【#一条莉々華/#hololive  DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=QxAnlUtGnQ0
 DURATION:PT2H
 DTSTART:20240621T100000Z
@@ -30,26 +58,5 @@ DURATION:PT2H
 DTSTART:20240622T080000Z
 SUMMARY:DEV_IShololive: 【ライブMCに挑戦！？】REGLOSSの話はマボロシ【#リグ幻ライブMC】
 UID:n2claMSBgoM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ゆる～く話したい～！ 夜の雑談 Free Talk #一条莉々華 #Shorts #ホロライブ\nhttps://www.youtube.com/watch?v=yWl5t_cx2tw
-DURATION:PT2H
-DTSTART:20240620T125924Z
-SUMMARY:一条莉々華: ゆる～く話したい～！ 夜の雑談 Free Talk #一条莉々華 #Shorts #ホロライブ
-UID:yWl5t_cx2tw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【魚】我、サカバンバスピス【轟はじめ/ReGLOSS】#hololivedev_is\nhttps://www.youtube.com/watch?v=GjDtZjGhG14
-DURATION:PT2H
-DTSTART:20240620T130000Z
-SUMMARY:轟はじめ: 【魚】我、サカバンバスピス【轟はじめ/ReGLOSS】#hololivedev_is
-UID:GjDtZjGhG14
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:青くゆの幼少期がアホすぎる(実際の音声)【火威青】#hololiveDEV_IS #ReGLOSS  #shorts\nhttps://www.youtube.com/watch?v=PEY0DBigOzk
-DURATION:PT2H
-DTSTART:20240620T090017Z
-SUMMARY:火威青: 青くゆの幼少期がアホすぎる(実際の音声)【火威青】#hololiveDEV_IS #ReGLOSS  #shorts
-UID:PEY0DBigOzk
 END:VEVENT
 END:VCALENDAR
