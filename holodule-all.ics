@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【BPM】it's kinda red in here\nhttps://www.youtube.com/watch?v=Uf_ItoPxS2Y
-DURATION:PT2H
-DTSTART:20240624T210000Z
-SUMMARY:Gigi: 【BPM】it's kinda red in here
-UID:Uf_ItoPxS2Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【RED DEAD REDEMPTION 2】see ya\, midwest cowboy... (epilogue finale) #calliolive #hololiveenglish\nhttps://www.youtube.com/watch?v=ODW09PLCwCc
 DURATION:PT2H
 DTSTART:20240626T000000Z
 SUMMARY:Calli: 【RED DEAD REDEMPTION 2】see ya\, midwest cowboy... (epilogue finale) #calliolive #hololiveenglish
 UID:ODW09PLCwCc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【BPM】it's kinda red in here\nhttps://www.youtube.com/watch?v=Uf_ItoPxS2Y
+DURATION:PT2H
+DTSTART:20240624T210000Z
+SUMMARY:Gigi: 【BPM】it's kinda red in here
+UID:Uf_ItoPxS2Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Party Animals】#KALAZ からーず、動物になる。【ホロライブ / AZKi / 雪花ラミィ / 天音かなた】\nhttps://www.youtube.com/watch?v=xkgJLZA1Ez0
@@ -151,6 +151,13 @@ SUMMARY:尾丸ポルカ: 【OHAPOL】#58 6/24月曜日！！そろそろ6月が�
 UID:1_Ubhmrb2k4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 酒ガチャ開封式 】約5万分の酒ガチャ福袋買ったので開封していく～～～～～～🍷【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=Y2WZkbzdEFQ
+DURATION:PT2H
+DTSTART:20240625T090000Z
+SUMMARY:鷹嶺ルイ: 【 酒ガチャ開封式 】約5万分の酒ガチャ福袋買ったので開封していく～～～～～～🍷【鷹嶺ルイ/ホロライブ】
+UID:Y2WZkbzdEFQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 同時視聴 】ついに来た！完全初見 Fate/stay night [Unlimited Blade Works] 同時視聴！【ホロライブ/沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=fy3o8NY98z4
 DURATION:PT2H
 DTSTART:20240624T140000Z
@@ -193,18 +200,18 @@ SUMMARY:羽継烏有: ホロスターズ 5周年記念カフェの ” 試食会
 UID:YHYaNAxBxTQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SONIC ADVENTURE 2: BATTLE】Controlled Chaos\nhttps://www.youtube.com/watch?v=wkE4n2DjQcg
-DURATION:PT2H
-DTSTART:20240624T010000Z
-SUMMARY:Crimzon: 【SONIC ADVENTURE 2: BATTLE】Controlled Chaos
-UID:wkE4n2DjQcg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【バイオハザードヴィレッジ】どうしたモロー？！ - Resident Evil Village - #4【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=72cTomzz4FI
 DURATION:PT2H
 DTSTART:20240624T130000Z
 SUMMARY:🐏角巻わため: 【バイオハザードヴィレッジ】どうしたモロー？！ - Resident Evil Village - #4【角巻わため/ホロライブ４期生】
 UID:72cTomzz4FI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SONIC ADVENTURE 2: BATTLE】Controlled Chaos\nhttps://www.youtube.com/watch?v=wkE4n2DjQcg
+DURATION:PT2H
+DTSTART:20240624T010000Z
+SUMMARY:Crimzon: 【SONIC ADVENTURE 2: BATTLE】Controlled Chaos
+UID:wkE4n2DjQcg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スーパーマリオブラザーズ】はじめてのマリオ＃２【轟はじめ/ReGLOSS】#hololivedev_is\nhttps://www.youtube.com/watch?v=84mvtnH3hCw
@@ -340,6 +347,13 @@ SUMMARY:🎨Iofi: 【Senin Produktif 】Gambar Khodam【 iofi / hololiveID 】
 UID:cjJ9nA1tv5Q
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Stardew Valley】DESERT AREA AND.... Elliott?【  iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=H6DEPERtQ5A
+DURATION:PT2H
+DTSTART:20240624T080000Z
+SUMMARY:🎨Iofi: 【Stardew Valley】DESERT AREA AND.... Elliott?【  iofi / hololiveID 】
+UID:H6DEPERtQ5A
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:≪SEKIRO: SHADOWS DIE TWICE≫ DAD DEAD. WHO'S NEXT. #4【SPOILER WARNING】\nhttps://www.youtube.com/watch?v=8ui72ll5NeU
 DURATION:PT2H
 DTSTART:20240625T010000Z
@@ -352,13 +366,6 @@ DURATION:PT2H
 DTSTART:20240624T100000Z
 SUMMARY:🎭アステル・レダ: 【League of Legends】リーグオブLEON / アステル と 愉快な仲間
 UID:Nr0vzTxh-sM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪Midnight Monday Radio≫ Episode 8 #shorts\nhttps://www.youtube.com/watch?v=AEOEkyCMy2Y
-DURATION:PT2H
-DTSTART:20240624T150000Z
-SUMMARY:Baelz: ≪Midnight Monday Radio≫ Episode 8 #shorts
-UID:AEOEkyCMy2Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[Watch Along] BARBIE AND THE DIAMOND CASTLE w/ BETTEL 2! #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=N938X2DVjLM
@@ -375,18 +382,18 @@ SUMMARY:FUWAMOCO: 【FIVE NIGHT AT FREDDY'S】why is there no paws menu 🐾【F
 UID:BnfAeedSfAY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:tomfoolery\nhttps://www.youtube.com/watch?v=FpXJK9kld2Y
+DURATION:PT2H
+DTSTART:20240625T050000Z
+SUMMARY:Calli: tomfoolery
+UID:FpXJK9kld2Y
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:大迫力の生バンドホロホーク‼️ #shorts\nhttps://www.youtube.com/watch?v=KK2rWCJGcvA
 DURATION:PT2H
 DTSTART:20240624T090014Z
 SUMMARY:鷹嶺ルイ: 大迫力の生バンドホロホーク‼️ #shorts
 UID:KK2rWCJGcvA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Cult of the Lamb】WORLD DOMINATION STARTS TODAY!😼【#1】\nhttps://www.youtube.com/watch?v=7PRppexCARQ
-DURATION:PT2H
-DTSTART:20240624T110000Z
-SUMMARY:Raora: 【Cult of the Lamb】WORLD DOMINATION STARTS TODAY!😼【#1】
-UID:7PRppexCARQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】体調不良でお休みをしてました！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=yJV_w2dUips
@@ -401,6 +408,13 @@ DURATION:PT2H
 DTSTART:20240625T220000Z
 SUMMARY:Amelia: → CHATROOM  📢standby for Watson Weekend
 UID:xcdlTH2FZEo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Cult of the Lamb】WORLD DOMINATION STARTS TODAY!😼【#1】\nhttps://www.youtube.com/watch?v=7PRppexCARQ
+DURATION:PT2H
+DTSTART:20240624T110000Z
+SUMMARY:Raora: 【Cult of the Lamb】WORLD DOMINATION STARTS TODAY!😼【#1】
+UID:7PRppexCARQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:儒烏風亭らでんIb実況切り抜きpart3 #shorts\nhttps://www.youtube.com/watch?v=fVOk_cY-H44
@@ -452,18 +466,18 @@ SUMMARY:博衣こより: 【3D】落ち着いて聞いてください。あな�
 UID:5ZpRJ8-VSWY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ZOMILY】WHY ARE WE IN JUNE'S LATE GAME【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=z8_d8hwVTc8
-DURATION:PT2H
-DTSTART:20240624T130021Z
-SUMMARY:Ollie: 【ZOMILY】WHY ARE WE IN JUNE'S LATE GAME【Kureiji Ollie】
-UID:z8_d8hwVTc8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【HOLOMYTH MINECRAFT】5 refined ladies\, 1 ender dragon! (finale) #hololiveenglish\nhttps://www.youtube.com/watch?v=oAQYVZrx5FM
 DURATION:PT2H
 DTSTART:20240624T220000Z
 SUMMARY:Calli: 【HOLOMYTH MINECRAFT】5 refined ladies\, 1 ender dragon! (finale) #hololiveenglish
 UID:oAQYVZrx5FM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ZOMILY】WHY ARE WE IN JUNE'S LATE GAME【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=z8_d8hwVTc8
+DURATION:PT2H
+DTSTART:20240624T130021Z
+SUMMARY:Ollie: 【ZOMILY】WHY ARE WE IN JUNE'S LATE GAME【Kureiji Ollie】
+UID:z8_d8hwVTc8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 ペーパーマリオRPG 】最終回なるか⁉ｲｸｿﾞ~~~ #04【 猫又おかゆ/ホロライブ 】\nhttps://www.youtube.com/watch?v=-F6TeWz2zPU
@@ -529,10 +543,10 @@ SUMMARY:⚒AZKi: 【歌枠】梅雨入り、雨ソング、歌うよ。最後に
 UID:7SUdCBmrdIw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Stardew Valley】DESERT AREA AND.... Elliott?【  iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=H6DEPERtQ5A
+DESCRIPTION:≪Midnight Monday Radio≫ Episode 8 #shorts\nhttps://www.youtube.com/watch?v=AEOEkyCMy2Y
 DURATION:PT2H
-DTSTART:20240624T080000Z
-SUMMARY:🎨Iofi: 【Stardew Valley】DESERT AREA AND.... Elliott?【  iofi / hololiveID 】
-UID:H6DEPERtQ5A
+DTSTART:20240624T150000Z
+SUMMARY:Baelz: ≪Midnight Monday Radio≫ Episode 8 #shorts
+UID:AEOEkyCMy2Y
 END:VEVENT
 END:VCALENDAR
