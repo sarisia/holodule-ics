@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:KKC News Check!\nhttps://www.youtube.com/watch?v=AjsdVBgfGco
-DURATION:PT2H
-DTSTART:20240623T120000Z
-SUMMARY:🎨Iofi: KKC News Check!
-UID:AjsdVBgfGco
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【WATCHALONG// #HOLOJUSTICE DEBUT】DAY 2 OF WELCOMING #HOLOJUSTICE !!\nhttps://www.youtube.com/watch?v=njp3IxKrbvg
 DURATION:PT2H
 DTSTART:20240623T025209Z
@@ -23,6 +16,20 @@ DURATION:PT2H
 DTSTART:20240622T161500Z
 SUMMARY:Reine: 【ARCHIVED KARAOKE】road rage【Pavolia Reine/hololiveID 2nd gen】
 UID:aeIhgOLf2qc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:KKC News Check!\nhttps://www.youtube.com/watch?v=AjsdVBgfGco
+DURATION:PT2H
+DTSTART:20240623T120000Z
+SUMMARY:🎨Iofi: KKC News Check!
+UID:AjsdVBgfGco
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【M.M.M.】Monday Morning Malas : I HAVE RETURNED !!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=XsyJmoP2bGM
+DURATION:PT2H
+DTSTART:20240624T023000Z
+SUMMARY:🐿Risu: 【M.M.M.】Monday Morning Malas : I HAVE RETURNED !!【Ayunda Risu】
+UID:XsyJmoP2bGM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Honor of Kings】FINALLY WE GO ULTRA GRAPHIC 😭【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=Y67XOkLk9j8
