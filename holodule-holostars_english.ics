@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【WATCH ALONG】Cat Cam & Mao Mao: Heroes of Pure Heart\nhttps://www.youtube.com/watch?v=WBMdeVgMWeY
-DURATION:PT2H
-DTSTART:20240626T010000Z
-SUMMARY:Crimzon: 【WATCH ALONG】Cat Cam & Mao Mao: Heroes of Pure Heart
-UID:WBMdeVgMWeY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[Week in Review] ANOTHER STUNNING WEEK WITH ZERO ERRORS! #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=Cu0V1rxe-jk
 DURATION:PT2H
 DTSTART:20240624T210000Z
 SUMMARY:Bettel: [Week in Review] ANOTHER STUNNING WEEK WITH ZERO ERRORS! #gavisbettel #holotempus
 UID:Cu0V1rxe-jk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HOLOMARCHES】 Designing An Army\nhttps://www.youtube.com/watch?v=1bCR9n4G0hY
-DURATION:PT2H
-DTSTART:20240624T200000Z
-SUMMARY:Crimzon: 【HOLOMARCHES】 Designing An Army
-UID:1bCR9n4G0hY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Tengu Talk】LET'S GO KANPAI HAKKITOS\, I AM BACK HOME 🍻‼️\nhttps://www.youtube.com/watch?v=Id1UfVpqCag
@@ -44,6 +30,27 @@ DURATION:PT2H
 DTSTART:20240625T050000Z
 SUMMARY:Jurard: 【MINECRAFT】LET'S MAKE A GIANT PLAYBUTTON!
 UID:gwXVslov3R8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【WATCH ALONG】Cat Cam & Mao Mao: Heroes of Pure Heart\nhttps://www.youtube.com/watch?v=WBMdeVgMWeY
+DURATION:PT2H
+DTSTART:20240626T010000Z
+SUMMARY:Crimzon: 【WATCH ALONG】Cat Cam & Mao Mao: Heroes of Pure Heart
+UID:WBMdeVgMWeY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【BREAD AND FRED】Trying to fix what's already broken...\nhttps://www.youtube.com/watch?v=w_i3B_7NoYc
+DURATION:PT2H
+DTSTART:20240626T060000Z
+SUMMARY:Jurard: 【BREAD AND FRED】Trying to fix what's already broken...
+UID:w_i3B_7NoYc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HOLOMARCHES】 Designing An Army\nhttps://www.youtube.com/watch?v=1bCR9n4G0hY
+DURATION:PT2H
+DTSTART:20240624T200000Z
+SUMMARY:Crimzon: 【HOLOMARCHES】 Designing An Army
+UID:1bCR9n4G0hY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Five Nights at Freddy's】WE'RE WAITING EVERY NIGHT\, TO FINALLY ROAM AND INVITE ! ! !\nhttps://www.youtube.com/watch?v=mS1pDOVJW54
