@@ -81,18 +81,18 @@ SUMMARY:雪花ラミィ: 【晩酌】ちょっとだけお酒飲みつつ最近�
 UID:jg9o2q_lvrY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Dead by Daylight】dead by midnight hahahehe\nhttps://www.youtube.com/watch?v=ILGYluJW8_A
-DURATION:PT2H
-DTSTART:20240627T133000Z
-SUMMARY:Zeta: 【Dead by Daylight】dead by midnight hahahehe
-UID:ILGYluJW8_A
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 Chained Together 】一人落ちたらやり直し！かなけんの絆が試される！！！【ホロライブ/沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=WqXTH-tcvmA
 DURATION:PT2H
 DTSTART:20240627T130000Z
 SUMMARY:沙花叉クロヱ: 【 Chained Together 】一人落ちたらやり直し！かなけんの絆が試される！！！【ホロライブ/沙花叉クロヱ】
 UID:WqXTH-tcvmA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Dead by Daylight】dead by midnight hahahehe\nhttps://www.youtube.com/watch?v=ILGYluJW8_A
+DURATION:PT2H
+DTSTART:20240627T133000Z
+SUMMARY:Zeta: 【Dead by Daylight】dead by midnight hahahehe
+UID:ILGYluJW8_A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ELDENRING SHADOW OF THE ERDTREE】フォークとは食事の道具だ、つまりフォークが刺さればそれは食べ物である…故に男は影の地を咀嚼し始めた【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=BrDPux_CDKg
@@ -163,6 +163,13 @@ DURATION:PT2H
 DTSTART:20240626T210000Z
 SUMMARY:Ina: 【MEMBERS】A Little Chat\, A Little Sing\, A Little Chill!
 UID:kHGHoYdnL3g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メンバー限定動画】サファリ収録後のゆる～い会話🐏🌸【角巻わためのHave a nice day】#はばない\nhttps://www.youtube.com/watch?v=-Wyn3qJKMyE
+DURATION:PT2H
+DTSTART:20240626T075225Z
+SUMMARY:🐏角巻わため: 【メンバー限定動画】サファリ収録後のゆる～い会話🐏🌸【角巻わためのHave a nice day】#はばない
+UID:-Wyn3qJKMyE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ナナナ】スタースタースタート〜サビ後半〜【踊ってみた/ときのそら/ホロライブ】\nhttps://www.youtube.com/watch?v=LkwqZPB7AKI
@@ -641,13 +648,6 @@ SUMMARY:Baelz: ≪LETHAL COMPANY≫ InkyaZ Inc. 復活！ w/ @minamitette & @mar
 UID:PGDS2jUxyQ0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【】スト６かホラゲー【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=1L6CoGpeqPU
-DURATION:PT2H
-DTSTART:20240627T140000Z
-SUMMARY:🚑大空スバル: 【】スト６かホラゲー【ホロライブ/大空スバル】
-UID:1L6CoGpeqPU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Bacon – The Game】LAST THREE STAGES for my BOOKMARK @$%#$^#$&@#$&【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=wBQMUBy1j6Q
 DURATION:PT2H
 DTSTART:20240626T030000Z
@@ -893,10 +893,10 @@ SUMMARY:💫天音かなた: 【ひどい；；】スイカ割り🍉に挑戦�
 UID:pgHZe1ZQ7jg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【学び＆旅】第一回 #らぽラボ　～○○○編～特別なロケ映像も公開…！？【儒烏風亭らでん/北白川かかぽ】\nhttps://www.youtube.com/watch?v=FZbQpj3GWCA
+DESCRIPTION:【学び＆旅】第一回 #らぽラボ　～うるし編～特別なロケ映像も公開…！？【儒烏風亭らでん/北白川かかぽ】\nhttps://www.youtube.com/watch?v=FZbQpj3GWCA
 DURATION:PT2H
 DTSTART:20240627T120000Z
-SUMMARY:儒烏風亭らでん: 【学び＆旅】第一回 #らぽラボ　～○○○編～特別なロケ映像も公開…！？【儒烏風亭らでん/北白川かかぽ】
+SUMMARY:儒烏風亭らでん: 【学び＆旅】第一回 #らぽラボ　～うるし編～特別なロケ映像も公開…！？【儒烏風亭らでん/北白川かかぽ】
 UID:FZbQpj3GWCA
 END:VEVENT
 BEGIN:VEVENT
@@ -919,6 +919,13 @@ DURATION:PT2H
 DTSTART:20240626T060000Z
 SUMMARY:Jurard: 【BREAD AND FRED】Trying to fix what's already broken...
 UID:w_i3B_7NoYc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【後編】出張らぽラボ！漆黒編【儒烏風亭らでん/北白川かかぽ】\nhttps://www.youtube.com/watch?v=gxQRPbI69uU
+DURATION:PT2H
+DTSTART:20240627T131500Z
+SUMMARY:儒烏風亭らでん: 【後編】出張らぽラボ！漆黒編【儒烏風亭らでん/北白川かかぽ】
+UID:gxQRPbI69uU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】第１１５回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=dxBVEirha7M
@@ -968,6 +975,13 @@ DURATION:PT2H
 DTSTART:20240626T100000Z
 SUMMARY:👯兎田ぺこら: 【ELDEN RING】ついに来た！エルデンリングDLC始めるぞおおおおおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】
 UID:JTzjLyLxTVk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FOREVER BLUE LUMINOUS】未知の海　未知の魚【荒咬オウガ /ホロスターズ】\nhttps://www.youtube.com/watch?v=x7EmevKL_28
+DURATION:PT2H
+DTSTART:20240627T140000Z
+SUMMARY:荒咬オウガ: 【FOREVER BLUE LUMINOUS】未知の海　未知の魚【荒咬オウガ /ホロスターズ】
+UID:x7EmevKL_28
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Five Nights at Freddy's 】先生・・・助けてください。【白上フブキ/鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=xujLur1bFpE
