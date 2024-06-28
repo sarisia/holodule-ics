@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:おはYOダンス\nhttps://www.youtube.com/watch?v=UpRD1WQn7hA
+DURATION:PT2H
+DTSTART:20240628T090033Z
+SUMMARY:儒烏風亭らでん: おはYOダンス
+UID:UpRD1WQn7hA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ラジオ配信】ReGLOSS ROOM Next Stage #5　6月担当：火威青・轟はじめ【#リグ部屋】\nhttps://www.youtube.com/watch?v=I7PIiEas-9o
 DURATION:PT2H
 DTSTART:20240627T030017Z
@@ -16,6 +23,13 @@ DURATION:PT2H
 DTSTART:20240627T140000Z
 SUMMARY:火威青: 【メン限】キミと話したい内緒のお話し【火威青 】#hololiveDEV_IS #ReGLOSS
 UID:vVrvphefrzQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌ってみた】ド屑【火威青】#hololiveDEV_IS #ReGLOSS #shorts\nhttps://www.youtube.com/watch?v=52fTxEjJbak
+DURATION:PT2H
+DTSTART:20240628T090003Z
+SUMMARY:火威青: 【歌ってみた】ド屑【火威青】#hololiveDEV_IS #ReGLOSS #shorts
+UID:52fTxEjJbak
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【学び＆旅】第一回 #らぽラボ　～うるし編～特別なロケ映像も公開…！？【儒烏風亭らでん/北白川かかぽ】\nhttps://www.youtube.com/watch?v=FZbQpj3GWCA
