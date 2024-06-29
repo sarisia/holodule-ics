@@ -4,18 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【高速山手線ゲーム！】コンビネーションばっちり！？ #shorts #ReGLOSS #火威青 #一条莉々華 #儒烏風亭らでん\nhttps://www.youtube.com/watch?v=az2sYDHl2Co
+DESCRIPTION:【龍が如く 極】はじめての龍が如く ＃1【轟はじめ/ReGLOSS】#hololivedev_is　※ネタバレあり\nhttps://www.youtube.com/watch?v=O2l7hJ0J51I
 DURATION:PT2H
-DTSTART:20240628T100003Z
-SUMMARY:DEV_IShololive: 【高速山手線ゲーム！】コンビネーションばっちり！？ #shorts #ReGLOSS #火威青 #一条莉々華 #儒烏風亭らでん
-UID:az2sYDHl2Co
+DTSTART:20240629T100000Z
+SUMMARY:轟はじめ: 【龍が如く 極】はじめての龍が如く ＃1【轟はじめ/ReGLOSS】#hololivedev_is　※ネタバレあり
+UID:O2l7hJ0J51I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ふああああつかれたああああ #一条莉々華 #Shorts #ホロライブ\nhttps://www.youtube.com/watch?v=dCW88p7FkQE
+DESCRIPTION:【モンハンワールド アイスボーン】初めてのモンハンワールド！！メインクエも終盤にさしかかる！？！！【#一条莉々華  / ホロライブ】\nhttps://www.youtube.com/watch?v=r87LOij_dMU
 DURATION:PT2H
-DTSTART:20240628T130503Z
-SUMMARY:一条莉々華: ふああああつかれたああああ #一条莉々華 #Shorts #ホロライブ
-UID:dCW88p7FkQE
+DTSTART:20240629T040000Z
+SUMMARY:一条莉々華: 【モンハンワールド アイスボーン】初めてのモンハンワールド！！メインクエも終盤にさしかかる！？！！【#一条莉々華  / ホロライブ】
+UID:r87LOij_dMU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:二度とやらないかもしれないAPEX【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=Sy-cTmnWgNg
+DURATION:PT2H
+DTSTART:20240629T114000Z
+SUMMARY:火威青: 二度とやらないかもしれないAPEX【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:Sy-cTmnWgNg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【日本酒の会】毎月恒例！日本酒飲むよ～！！！～奈良編～ #りりらでん酒盛 【一条莉々華/儒烏風亭らでん 】\nhttps://www.youtube.com/watch?v=b-i0S8L52eI
@@ -37,40 +44,5 @@ DURATION:PT2H
 DTSTART:20240629T090000Z
 SUMMARY:火威青: 【40万人記念ホスト凸待ち】New Club Blue Fireへようこそ【火威青 】#hololiveDEV_IS #ReGLOSS
 UID:9MooyZZ4quY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【龍が如く 極】はじめての龍が如く ＃1【轟はじめ/ReGLOSS】#hololivedev_is　※ネタバレあり\nhttps://www.youtube.com/watch?v=O2l7hJ0J51I
-DURATION:PT2H
-DTSTART:20240629T100000Z
-SUMMARY:轟はじめ: 【龍が如く 極】はじめての龍が如く ＃1【轟はじめ/ReGLOSS】#hololivedev_is　※ネタバレあり
-UID:O2l7hJ0J51I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【モンハンワールド アイスボーン】初めてのモンハンワールド！！メインクエも終盤にさしかかる！？！！【#一条莉々華  / ホロライブ】\nhttps://www.youtube.com/watch?v=r87LOij_dMU
-DURATION:PT2H
-DTSTART:20240629T040000Z
-SUMMARY:一条莉々華: 【モンハンワールド アイスボーン】初めてのモンハンワールド！！メインクエも終盤にさしかかる！？！！【#一条莉々華  / ホロライブ】
-UID:r87LOij_dMU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:おはYOダンス\nhttps://www.youtube.com/watch?v=UpRD1WQn7hA
-DURATION:PT2H
-DTSTART:20240628T090033Z
-SUMMARY:儒烏風亭らでん: おはYOダンス
-UID:UpRD1WQn7hA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】ド屑【火威青】#hololiveDEV_IS #ReGLOSS #shorts\nhttps://www.youtube.com/watch?v=52fTxEjJbak
-DURATION:PT2H
-DTSTART:20240628T090003Z
-SUMMARY:火威青: 【歌ってみた】ド屑【火威青】#hololiveDEV_IS #ReGLOSS #shorts
-UID:52fTxEjJbak
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:二度とやらないかもしれないAPEX【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=Sy-cTmnWgNg
-DURATION:PT2H
-DTSTART:20240629T114000Z
-SUMMARY:火威青: 二度とやらないかもしれないAPEX【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:Sy-cTmnWgNg
 END:VEVENT
 END:VCALENDAR
