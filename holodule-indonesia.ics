@@ -4,18 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】eritora getto!【hololive】\nhttps://www.youtube.com/watch?v=21YD9IktI48
-DURATION:PT2H
-DTSTART:20240702T130000Z
-SUMMARY:Kaela: 【Minecraft】eritora getto!【hololive】
-UID:21YD9IktI48
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Chained Together】#かにゃーちゃま で遊ぶ！チームワークで乗り越えろ！！落ちたら…分かるよね？＾＾【hololive ID 2nd Gen | Anya Melfissa】\nhttps://www.youtube.com/watch?v=pLGH18oEGfg
 DURATION:PT2H
 DTSTART:20240703T120000Z
 SUMMARY:Anya: 【Chained Together】#かにゃーちゃま で遊ぶ！チームワークで乗り越えろ！！落ちたら…分かるよね？＾＾【hololive ID 2nd Gen | Anya Melfissa】
 UID:pLGH18oEGfg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Withering Rooms】2.5D horror RPG !!\nhttps://www.youtube.com/watch?v=1EcnxW-J9co
+DURATION:PT2H
+DTSTART:20240702T150000Z
+SUMMARY:Zeta: 【Withering Rooms】2.5D horror RPG !!
+UID:1EcnxW-J9co
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【The Witcher 3: Wild Hunt】Sssshhhhhh【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=Z0BmXv8BizM
+DURATION:PT2H
+DTSTART:20240703T150000Z
+SUMMARY:🎨Iofi: 【The Witcher 3: Wild Hunt】Sssshhhhhh【 iofi / hololiveID 】
+UID:Z0BmXv8BizM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】SOLITUDE IN TERRAFORMING【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=m_t_rhbQz3c
@@ -30,40 +37,5 @@ DURATION:PT2H
 DTSTART:20240703T110007Z
 SUMMARY:IDholo: Sekilas perjalanan Area 15 selama 4 tahun ini!
 UID:8EC_ddwad1M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Free Talk】Sleepy Phone Talk【Ayunda Risu】\nhttps://www.youtube.com/watch?v=UujDCg5v-70
-DURATION:PT2H
-DTSTART:20240702T060000Z
-SUMMARY:🐿Risu: 【Free Talk】Sleepy Phone Talk【Ayunda Risu】
-UID:UujDCg5v-70
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PEJUANG SENIN】#79 HANG ON! YOU CAN DO IT\, GUYS!【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=HTDZMIQXJns
-DURATION:PT2H
-DTSTART:20240702T000000Z
-SUMMARY:Kaela: 【PEJUANG SENIN】#79 HANG ON! YOU CAN DO IT\, GUYS!【Kaela's Monday Warrior】
-UID:HTDZMIQXJns
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【The Witcher 3: Wild Hunt】Sssshhhhhh【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=Z0BmXv8BizM
-DURATION:PT2H
-DTSTART:20240703T150000Z
-SUMMARY:🎨Iofi: 【The Witcher 3: Wild Hunt】Sssshhhhhh【 iofi / hololiveID 】
-UID:Z0BmXv8BizM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Two Point Campus】Vote Yopipi Sebagai Rektor Terbaik 2024【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=TZ815J6Vy6g
-DURATION:PT2H
-DTSTART:20240702T053000Z
-SUMMARY:🎨Iofi: 【Two Point Campus】Vote Yopipi Sebagai Rektor Terbaik 2024【 iofi / hololiveID 】
-UID:TZ815J6Vy6g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Withering Rooms】2.5D horror RPG !!\nhttps://www.youtube.com/watch?v=1EcnxW-J9co
-DURATION:PT2H
-DTSTART:20240702T150000Z
-SUMMARY:Zeta: 【Withering Rooms】2.5D horror RPG !!
-UID:1EcnxW-J9co
 END:VEVENT
 END:VCALENDAR
