@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【UNDERTALE】My First Time~! 💄 #hololiveEnglish #holoJustice\nhttps://www.youtube.com/watch?v=j2GacYNEm8s
+DURATION:PT2H
+DTSTART:20240703T170000Z
+SUMMARY:Elizabeth: 【UNDERTALE】My First Time~! 💄 #hololiveEnglish #holoJustice
+UID:j2GacYNEm8s
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Solar Ash】Groovin'\nhttps://www.youtube.com/watch?v=FVy7ZWwXJRc
 DURATION:PT2H
 DTSTART:20240703T030000Z
@@ -39,18 +46,18 @@ SUMMARY:Calli: 【Elden Ring: Shadow of the Erdtree】easy game (it is not) SPOI
 UID:YVAVdmH1Tmw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Another Crab's Treasure】cwab cwabs #hololiveEnglish #holoJustice\nhttps://www.youtube.com/watch?v=uozB3KQa5pY
-DURATION:PT2H
-DTSTART:20240702T210000Z
-SUMMARY:Gigi: 【Another Crab's Treasure】cwab cwabs #hololiveEnglish #holoJustice
-UID:uozB3KQa5pY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【PERSONA 3: RELOAD】december has come (part 11) SPOILERS!\nhttps://www.youtube.com/watch?v=roe_JNXWSuQ
 DURATION:PT2H
 DTSTART:20240703T050116Z
 SUMMARY:Calli: 【PERSONA 3: RELOAD】december has come (part 11) SPOILERS!
 UID:roe_JNXWSuQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Another Crab's Treasure】cwab cwabs #hololiveEnglish #holoJustice\nhttps://www.youtube.com/watch?v=uozB3KQa5pY
+DURATION:PT2H
+DTSTART:20240702T210000Z
+SUMMARY:Gigi: 【Another Crab's Treasure】cwab cwabs #hololiveEnglish #holoJustice
+UID:uozB3KQa5pY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Project Sekai プロセカ】miku my beloved #hololiveEnglish #holoJustice\nhttps://www.youtube.com/watch?v=lvS1AeFDho0
