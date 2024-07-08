@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 #ReGLOSS歌枠リレー 】七夕だ～！リクエスト曲に応えるぜ！！【轟はじめ/ReGLOSS】#hololivedev_is\nhttps://www.youtube.com/watch?v=kLeLDmpP9P4
+DESCRIPTION:ゲリラ🐶お出かけ準備するよ～【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=iQb8QqcQlZQ
 DURATION:PT2H
-DTSTART:20240707T110000Z
-SUMMARY:轟はじめ: 【 #ReGLOSS歌枠リレー 】七夕だ～！リクエスト曲に応えるぜ！！【轟はじめ/ReGLOSS】#hololivedev_is
-UID:kLeLDmpP9P4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ReGLOSS歌枠リレー】七夕のリクエスト歌枠🎶初出曲多め！！【#一条莉々華/ hololive DEV_IS ReGLOSS #ホロライブ】\nhttps://www.youtube.com/watch?v=2kmA8A20yMQ
-DURATION:PT2H
-DTSTART:20240707T100000Z
-SUMMARY:一条莉々華: 【#ReGLOSS歌枠リレー】七夕のリクエスト歌枠🎶初出曲多め！！【#一条莉々華/ hololive DEV_IS ReGLOSS #ホロライブ】
-UID:2kmA8A20yMQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #ReGLOSS歌枠リレー 】七夕記念、リクエスト曲を歌います！リレー最後まで盛り上がって行こ～！🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=IuoVrIn4OcM
-DURATION:PT2H
-DTSTART:20240707T120000Z
-SUMMARY:音乃瀬奏: 【 #ReGLOSS歌枠リレー 】七夕記念、リクエスト曲を歌います！リレー最後まで盛り上がって行こ～！🎵【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
-UID:IuoVrIn4OcM
+DTSTART:20240708T043000Z
+SUMMARY:火威青: ゲリラ🐶お出かけ準備するよ～【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:iQb8QqcQlZQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#キアラでん】英語を教えてください！！キアラ先生！！！オフコラボ！！！【儒烏風亭らでん/小鳥遊キアラ 】\nhttps://www.youtube.com/watch?v=OS39qr8zbVk
@@ -32,11 +18,25 @@ SUMMARY:儒烏風亭らでん: 【#キアラでん】英語を教えてくださ
 UID:OS39qr8zbVk
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【僕、アルバイトォォ！！】人生初のバイト、頑張ってみます！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=2Jx8JmOCyRA
+DURATION:PT2H
+DTSTART:20240708T140000Z
+SUMMARY:音乃瀬奏: 【僕、アルバイトォォ！！】人生初のバイト、頑張ってみます！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
+UID:2Jx8JmOCyRA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談】約1か月ぶりの雑談配信...？おしゃべりしよぜ！【轟はじめ/ReGLOSS】 #shorts ＃hololiveDEV_IS\nhttps://www.youtube.com/watch?v=QuwyqM8nncs
 DURATION:PT2H
 DTSTART:20240708T100004Z
 SUMMARY:轟はじめ: 【雑談】約1か月ぶりの雑談配信...？おしゃべりしよぜ！【轟はじめ/ReGLOSS】 #shorts ＃hololiveDEV_IS
 UID:QuwyqM8nncs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 僕、アルバイトォォ！！ 】夜勤してきまあああ【轟はじめ/ReGLOSS】#hololivedev_is\nhttps://www.youtube.com/watch?v=OH-uCe1FOIU
+DURATION:PT2H
+DTSTART:20240708T130000Z
+SUMMARY:轟はじめ: 【 僕、アルバイトォォ！！ 】夜勤してきまあああ【轟はじめ/ReGLOSS】#hololivedev_is
+UID:OH-uCe1FOIU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【モンハンワールド アイスボーン】参加型で一緒に遊ぼ！初めてのモンハンワールド！！【#一条莉々華  / ホロライブ】\nhttps://www.youtube.com/watch?v=qKbQzV-Q7zk
@@ -51,40 +51,5 @@ DURATION:PT2H
 DTSTART:20240708T100048Z
 SUMMARY:DEV_IShololive: 【以心伝心ゲーム】全問正解なるか…？#shorts #ReGLOSS ＃一条莉々華 #儒烏風亭らでん
 UID:sH2Qzeev638
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ゲリラ🐶お出かけ準備するよ～【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=iQb8QqcQlZQ
-DURATION:PT2H
-DTSTART:20240708T043000Z
-SUMMARY:火威青: ゲリラ🐶お出かけ準備するよ～【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:iQb8QqcQlZQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【僕、アルバイトォォ！！】人生初のバイト、頑張ってみます！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=2Jx8JmOCyRA
-DURATION:PT2H
-DTSTART:20240708T140000Z
-SUMMARY:音乃瀬奏: 【僕、アルバイトォォ！！】人生初のバイト、頑張ってみます！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
-UID:2Jx8JmOCyRA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 僕、アルバイトォォ！！ 】夜勤してきまあああ【轟はじめ/ReGLOSS】#hololivedev_is\nhttps://www.youtube.com/watch?v=OH-uCe1FOIU
-DURATION:PT2H
-DTSTART:20240708T130000Z
-SUMMARY:轟はじめ: 【 僕、アルバイトォォ！！ 】夜勤してきまあああ【轟はじめ/ReGLOSS】#hololivedev_is
-UID:OH-uCe1FOIU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ReGLOSS歌枠リレー願いをReGLOSSへ】2番手！！らでん歌います！！！【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=PecMnY19ipM
-DURATION:PT2H
-DTSTART:20240707T103000Z
-SUMMARY:儒烏風亭らでん: 【#ReGLOSS歌枠リレー願いをReGLOSSへ】2番手！！らでん歌います！！！【儒烏風亭らでん #ReGLOSS 】
-UID:PecMnY19ipM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ReGLOSS歌枠リレー】七夕なので織姫（キミ）からのリクエスト曲を歌う✨【火威青】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=PLf45ylc9AE
-DURATION:PT2H
-DTSTART:20240707T113000Z
-SUMMARY:火威青: 【#ReGLOSS歌枠リレー】七夕なので織姫（キミ）からのリクエスト曲を歌う✨【火威青】#hololiveDEV_IS #ReGLOSS
-UID:PLf45ylc9AE
 END:VEVENT
 END:VCALENDAR
