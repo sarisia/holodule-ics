@@ -326,18 +326,18 @@ SUMMARY:⚓湊あくあ: 【実家】めんばーしっぷだ【湊あくあ/ホ
 UID:MiJ54SE-PDQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スーパーマリオブラザーズ】無限5面編からの脱出 #４【轟はじめ/ReGLOSS】#hololivedev_is\nhttps://www.youtube.com/watch?v=6qpxr72T-cg
-DURATION:PT2H
-DTSTART:20240711T130000Z
-SUMMARY:轟はじめ: 【スーパーマリオブラザーズ】無限5面編からの脱出 #４【轟はじめ/ReGLOSS】#hololivedev_is
-UID:6qpxr72T-cg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【８番のりば】あれ…ボクもしかして迷子・・・？TT【ホロライブ / ロボ子さん】\nhttps://www.youtube.com/watch?v=dBjvQ0Zks9s
 DURATION:PT2H
 DTSTART:20240711T130000Z
 SUMMARY:🤖ロボ子さん: 【８番のりば】あれ…ボクもしかして迷子・・・？TT【ホロライブ / ロボ子さん】
 UID:dBjvQ0Zks9s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スーパーマリオブラザーズ】無限5面編からの脱出 #４【轟はじめ/ReGLOSS】#hololivedev_is\nhttps://www.youtube.com/watch?v=6qpxr72T-cg
+DURATION:PT2H
+DTSTART:20240711T130000Z
+SUMMARY:轟はじめ: 【スーパーマリオブラザーズ】無限5面編からの脱出 #４【轟はじめ/ReGLOSS】#hololivedev_is
+UID:6qpxr72T-cg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Overcooked 2】ガイル村料理店開店！ビーストカップ打ち上げ！【アキロゼ/ホロライブ】\nhttps://www.youtube.com/watch?v=hmOLxKkW9yQ
@@ -485,6 +485,13 @@ DURATION:PT2H
 DTSTART:20240709T210001Z
 SUMMARY:🐏角巻わため: 耳を澄ませばわためのソウルが聞こえてくる？【 #今日のわため 】 #shorts #hololive #vtuber
 UID:1QLvhnmG4SE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 告知あり！ 】学生差分⁉そしてあのゲームにピッタリの差分も⁉そして頭の上にあるのなんだ⁉【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=K65kIjrAWZQ
+DURATION:PT2H
+DTSTART:20240712T090000Z
+SUMMARY:鷹嶺ルイ: 【 告知あり！ 】学生差分⁉そしてあのゲームにピッタリの差分も⁉そして頭の上にあるのなんだ⁉【鷹嶺ルイ/ホロライブ】
+UID:K65kIjrAWZQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:鷹嶺ルイ1st album『Liberty』Track3:ばかばっか ～ナレーション：山下誠一郎～ #shorts\nhttps://www.youtube.com/watch?v=c70uJ9Z6xOU
@@ -928,10 +935,10 @@ SUMMARY:FUWAMOCO: 【TWITTER SPACE】2024.07.03 Archive 🐾【FUWAMOCO】
 UID:ZBd5Jj3YSp0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#OKBR】酒んじゃだめなホラゲーやるっぽい！！！【PANICORE】\nhttps://www.youtube.com/watch?v=t_2zZkrC1Vw
+DESCRIPTION:【#OKBR】叫んじゃんじゃだめなホラゲーやるっぽい！！！【PANICORE】\nhttps://www.youtube.com/watch?v=t_2zZkrC1Vw
 DURATION:PT2H
 DTSTART:20240711T120000Z
-SUMMARY:🥐戌神ころね: 【#OKBR】酒んじゃだめなホラゲーやるっぽい！！！【PANICORE】
+SUMMARY:🥐戌神ころね: 【#OKBR】叫んじゃんじゃだめなホラゲーやるっぽい！！！【PANICORE】
 UID:t_2zZkrC1Vw
 END:VEVENT
 BEGIN:VEVENT
@@ -1017,5 +1024,12 @@ DURATION:PT2H
 DTSTART:20240710T090000Z
 SUMMARY:💫天音かなた: 【耐久】アニメ「しかのこのこのここしたんたん」OPテーマ「シカ色デイズ」イントロ耐久
 UID:Aav1TSbO-OQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:reaper’s morning routine #shorts #anime #hololive #holoen #animation #vtuber\nhttps://www.youtube.com/watch?v=yNByuv1EnrM
+DURATION:PT2H
+DTSTART:20240711T115026Z
+SUMMARY:Calli: reaper’s morning routine #shorts #anime #hololive #holoen #animation #vtuber
+UID:yNByuv1EnrM
 END:VEVENT
 END:VCALENDAR
