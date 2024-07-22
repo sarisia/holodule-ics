@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【M.M.M.】Monday Morning Malas : Malas in JP！【Ayunda Risu】\nhttps://www.youtube.com/watch?v=Gpv0GyCRXlg
+DESCRIPTION:【FREETALK】PANAS EUY...【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=23Db0eVw49w
 DURATION:PT2H
-DTSTART:20240722T023000Z
-SUMMARY:🐿Risu: 【M.M.M.】Monday Morning Malas : Malas in JP！【Ayunda Risu】
-UID:Gpv0GyCRXlg
+DTSTART:20240722T041500Z
+SUMMARY:Ollie: 【FREETALK】PANAS EUY...【Kureiji Ollie】
+UID:23Db0eVw49w
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Reine in JP】Eating HOLOID Members' Konbini Snack Recommendation!!【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=UhRhHikjVkA
+DURATION:PT2H
+DTSTART:20240722T063000Z
+SUMMARY:Reine: 【Reine in JP】Eating HOLOID Members' Konbini Snack Recommendation!!【Pavolia Reine/hololiveID 2nd gen】
+UID:UhRhHikjVkA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【EAT-A-LONG】REVIEWING JAPANESE PUDDING!!【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=SA1gWIkuURk
@@ -16,6 +23,13 @@ DURATION:PT2H
 DTSTART:20240721T030000Z
 SUMMARY:Ollie: 【EAT-A-LONG】REVIEWING JAPANESE PUDDING!!【Kureiji Ollie】
 UID:SA1gWIkuURk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【M.M.M.】Monday Morning Malas : Malas in JP！【Ayunda Risu】\nhttps://www.youtube.com/watch?v=Gpv0GyCRXlg
+DURATION:PT2H
+DTSTART:20240722T023000Z
+SUMMARY:🐿Risu: 【M.M.M.】Monday Morning Malas : Malas in JP！【Ayunda Risu】
+UID:Gpv0GyCRXlg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FREE TALK】i have 🤏 time to talk so lets talk! yeay~【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=yK461D2tC2Q
