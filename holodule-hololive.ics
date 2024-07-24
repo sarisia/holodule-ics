@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#ホロARK】補給班到着🍖サポートござる爆誕🎉【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=VQ65y4kI3tc
+DURATION:PT2H
+DTSTART:20240724T103000Z
+SUMMARY:風真いろは: 【#ホロARK】補給班到着🍖サポートござる爆誕🎉【風真いろは/ホロライブ】
+UID:VQ65y4kI3tc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:今日は何着る？　#hololive #vtuber #右左どっち  #イラスト\nhttps://www.youtube.com/watch?v=OjdEVgIE7Sk
 DURATION:PT2H
 DTSTART:20240723T100030Z
@@ -228,18 +235,18 @@ SUMMARY:🌽白上フブキ: 【The Outlast Trials】BAN男をかわしてッッ
 UID:mxUuC0xR8cI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【＃ホロARK】ホロライブARK開幕！！！！！みんなで共同生活だ！！！２日目【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=VwwqmjSHYac
-DURATION:PT2H
-DTSTART:20240724T100000Z
-SUMMARY:⚓湊あくあ: 【＃ホロARK】ホロライブARK開幕！！！！！みんなで共同生活だ！！！２日目【湊あくあ/ホロライブ】
-UID:VwwqmjSHYac
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ホロARK】2日目🦕こちらレイド準備拠点強化班！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=CytzVsbP8s4
 DURATION:PT2H
 DTSTART:20240724T100000Z
 SUMMARY:🔥不知火フレア: 【#ホロARK】2日目🦕こちらレイド準備拠点強化班！【不知火フレア/ホロライブ】
 UID:CytzVsbP8s4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【＃ホロARK】ホロライブARK開幕！！！！！みんなで共同生活だ！！！２日目【湊あくあ/ホロライブ】\nhttps://www.youtube.com/watch?v=VwwqmjSHYac
+DURATION:PT2H
+DTSTART:20240724T100000Z
+SUMMARY:⚓湊あくあ: 【＃ホロARK】ホロライブARK開幕！！！！！みんなで共同生活だ！！！２日目【湊あくあ/ホロライブ】
+UID:VwwqmjSHYac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロARK ￤valguero】1日目 さてと始めるか。【ホロライブ/アキロゼ】\nhttps://www.youtube.com/watch?v=wCs18_YULmQ
