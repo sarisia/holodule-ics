@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Cryptmaster】riddles are hard【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=eJf9I00FBJ0
-DURATION:PT2H
-DTSTART:20240723T133000Z
-SUMMARY:Kaela: 【Cryptmaster】riddles are hard【Kaela Kovalskia / hololiveID】
-UID:eJf9I00FBJ0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Reine in JP】Yummy Food Diary in Japan!!! Need Suggestions!!!【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=ZaQTXK_yaHo
 DURATION:PT2H
 DTSTART:20240724T070000Z
@@ -18,11 +11,18 @@ SUMMARY:Reine: 【Reine in JP】Yummy Food Diary in Japan!!! Need Suggestions!!!
 UID:ZaQTXK_yaHo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Free Talk & Donation Reading】Wow where do I begin...\nhttps://www.youtube.com/watch?v=4xrpRKzN7J0
+DESCRIPTION:【Free Talk】まだ日本にいる！\nhttps://www.youtube.com/watch?v=c_5qPyQOuvA
 DURATION:PT2H
-DTSTART:20240724T050000Z
-SUMMARY:Zeta: 【Free Talk & Donation Reading】Wow where do I begin...
-UID:4xrpRKzN7J0
+DTSTART:20240724T101500Z
+SUMMARY:Kobo: 【Free Talk】まだ日本にいる！
+UID:c_5qPyQOuvA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Cryptmaster】riddles are hard【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=eJf9I00FBJ0
+DURATION:PT2H
+DTSTART:20240723T133000Z
+SUMMARY:Kaela: 【Cryptmaster】riddles are hard【Kaela Kovalskia / hololiveID】
+UID:eJf9I00FBJ0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Cryptmaster】brain is melting but the game is fun【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=DIlESb661w8
@@ -30,5 +30,12 @@ DURATION:PT2H
 DTSTART:20240724T080000Z
 SUMMARY:Kaela: 【Cryptmaster】brain is melting but the game is fun【Kaela Kovalskia / hololiveID】
 UID:DIlESb661w8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Free Talk & Donation Reading】Wow where do I begin...\nhttps://www.youtube.com/watch?v=4xrpRKzN7J0
+DURATION:PT2H
+DTSTART:20240724T050000Z
+SUMMARY:Zeta: 【Free Talk & Donation Reading】Wow where do I begin...
+UID:4xrpRKzN7J0
 END:VEVENT
 END:VCALENDAR
