@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:≪#ホロARK≫ RAT GO RAWR #1\nhttps://www.youtube.com/watch?v=Nf3s60FXWVc
-DURATION:PT2H
-DTSTART:20240724T120000Z
-SUMMARY:Baelz: ≪#ホロARK≫ RAT GO RAWR #1
-UID:Nf3s60FXWVc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Elden Ring: Shadow of the Erdtree】 Wdym I Can't Parry That 【SPOILER WARNING】【#5】\nhttps://www.youtube.com/watch?v=JK1DipWuoeg
 DURATION:PT2H
 DTSTART:20240724T210000Z
@@ -18,11 +11,11 @@ SUMMARY:Ina: 【Elden Ring: Shadow of the Erdtree】 Wdym I Can't Parry That 【
 UID:JK1DipWuoeg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FALLOUT: NEW VEGAS】IM BACK IN VEGAS #kfp #キアライブ\nhttps://www.youtube.com/watch?v=s9_VahId1zc
+DESCRIPTION:【KARA-REWIND】June/July Unarchived~! 💄\nhttps://www.youtube.com/watch?v=V4LG1RWMhno
 DURATION:PT2H
-DTSTART:20240723T150000Z
-SUMMARY:Kiara: 【FALLOUT: NEW VEGAS】IM BACK IN VEGAS #kfp #キアライブ
-UID:s9_VahId1zc
+DTSTART:20240727T120000Z
+SUMMARY:Elizabeth: 【KARA-REWIND】June/July Unarchived~! 💄
+UID:V4LG1RWMhno
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Outer Wilds】if you use light mode it'll desensitize you to the sun\nhttps://www.youtube.com/watch?v=v_jZumY0M8o
@@ -39,11 +32,11 @@ SUMMARY:Ina: 【Elden Ring: Shadow of the Erdtree】 Is This the Right Way\, Sir
 UID:lD3rC6VVo-4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Management Will Never Rest With This Collab #shorts\nhttps://www.youtube.com/watch?v=PuwGJqzBDJs
+DESCRIPTION:I Have A Mouth\, And I Must Screech #holoEN3DRepeat\nhttps://www.youtube.com/watch?v=8f5lptdJvwc
 DURATION:PT2H
-DTSTART:20240724T051021Z
-SUMMARY:Shiori: Management Will Never Rest With This Collab #shorts
-UID:PuwGJqzBDJs
+DTSTART:20240727T030000Z
+SUMMARY:ENholo: I Have A Mouth\, And I Must Screech #holoEN3DRepeat
+UID:8f5lptdJvwc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Pacific Drive】Ghost On The Road | END\nhttps://www.youtube.com/watch?v=cz1Tc97QQw8
@@ -51,6 +44,13 @@ DURATION:PT2H
 DTSTART:20240725T030000Z
 SUMMARY:Kronii: 【Pacific Drive】Ghost On The Road | END
 UID:cz1Tc97QQw8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MEMBERS STREAM】Watchalong! Frieren: Beyond Journey's End (Episode 18 - ?)\nhttps://www.youtube.com/watch?v=j4Ab991vig0
+DURATION:PT2H
+DTSTART:20240727T020000Z
+SUMMARY:Bijou: 【MEMBERS STREAM】Watchalong! Frieren: Beyond Journey's End (Episode 18 - ?)
+UID:j4Ab991vig0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#踊ってみた ギリギリダンス！ #shorts #はいよろこんで #hololive #anime #vtuber #dance #アニメ\nhttps://www.youtube.com/watch?v=7IknpVmiXyY
@@ -81,25 +81,11 @@ SUMMARY:Calli: 【HOLOARK】big big server! big survival! (part 1) #calliolive
 UID:MQ_q5tGiz1U
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Yellow Taxi Goes Vroom】gigi rideshare service back in action #hololiveEnglish #holoJustice\nhttps://www.youtube.com/watch?v=RQ4Ls9dbC2I
-DURATION:PT2H
-DTSTART:20240723T210000Z
-SUMMARY:Gigi: 【Yellow Taxi Goes Vroom】gigi rideshare service back in action #hololiveEnglish #holoJustice
-UID:RQ4Ls9dbC2I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ADVENT KARAOKE OFF-COLLAB】just jammin' to our 1st anniversary 🐾 #holoAdvent【ANNOUNCEMENT】\nhttps://www.youtube.com/watch?v=Hd7jLinwSwg
 DURATION:PT2H
 DTSTART:20240726T010000Z
 SUMMARY:FUWAMOCO: 【ADVENT KARAOKE OFF-COLLAB】just jammin' to our 1st anniversary 🐾 #holoAdvent【ANNOUNCEMENT】
 UID:Hd7jLinwSwg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DARK SOULS: REMASTERED】stop rolling (part 4) #calliolive\nhttps://www.youtube.com/watch?v=nEbMP9_JTOY
-DURATION:PT2H
-DTSTART:20240726T020000Z
-SUMMARY:Calli: 【DARK SOULS: REMASTERED】stop rolling (part 4) #calliolive
-UID:nEbMP9_JTOY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【RABBIT】Reading Supers~! 💄\nhttps://www.youtube.com/watch?v=CVIbK0Xaa3w
@@ -109,18 +95,18 @@ SUMMARY:Elizabeth: 【RABBIT】Reading Supers~! 💄
 UID:CVIbK0Xaa3w
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【DARK SOULS: REMASTERED】stop rolling (part 4) #calliolive\nhttps://www.youtube.com/watch?v=nEbMP9_JTOY
+DURATION:PT2H
+DTSTART:20240726T020000Z
+SUMMARY:Calli: 【DARK SOULS: REMASTERED】stop rolling (part 4) #calliolive
+UID:nEbMP9_JTOY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Fit Boxing feat. HATSUNE MIKU】Revealing the FEVER NIGHT 3D (hopefully) ✨　#kfp #キアライブ\nhttps://www.youtube.com/watch?v=oJ-9-cGy3Hg
 DURATION:PT2H
 DTSTART:20240725T180000Z
 SUMMARY:Kiara: 【Fit Boxing feat. HATSUNE MIKU】Revealing the FEVER NIGHT 3D (hopefully) ✨　#kfp #キアライブ
 UID:oJ-9-cGy3Hg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hakos Baelz Dubs HoloEN #shorts\nhttps://www.youtube.com/watch?v=jolZc6EnEaM
-DURATION:PT2H
-DTSTART:20240724T030023Z
-SUMMARY:Baelz: Hakos Baelz Dubs HoloEN #shorts
-UID:jolZc6EnEaM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロARK】LET'S JOIN THE DYNO PARTY!\nhttps://www.youtube.com/watch?v=VVWdtcxYKlI
@@ -137,18 +123,11 @@ SUMMARY:Fauna: The Stream Where Fauna Speedruns Writing and Performing an Origin
 UID:orTap5eCZk8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:smol mischief #shorts #vtuber #hololive #anime #minecraft #kobokanaeru #baelzhakos\nhttps://www.youtube.com/watch?v=-KaqG3p_1iY
+DESCRIPTION:【CONTENT WARNING】Like\, Comment and AHHHHHH~! 💄\nhttps://www.youtube.com/watch?v=W2yN6BCpfBo
 DURATION:PT2H
-DTSTART:20240724T025755Z
-SUMMARY:Calli: smol mischief #shorts #vtuber #hololive #anime #minecraft #kobokanaeru #baelzhakos
-UID:-KaqG3p_1iY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DOOM Eternal】Moomguy's Doin'  The Thing # 2\nhttps://www.youtube.com/watch?v=COkZBBUBpcU
-DURATION:PT2H
-DTSTART:20240724T020000Z
-SUMMARY:Mumei: 【DOOM Eternal】Moomguy's Doin'  The Thing # 2
-UID:COkZBBUBpcU
+DTSTART:20240726T200000Z
+SUMMARY:Elizabeth: 【CONTENT WARNING】Like\, Comment and AHHHHHH~! 💄
+UID:W2yN6BCpfBo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Lies of P】*intense rat noises* #shorts\nhttps://www.youtube.com/watch?v=jYSzl3xyMIo
@@ -158,25 +137,11 @@ SUMMARY:Baelz: 【Lies of P】*intense rat noises* #shorts
 UID:jYSzl3xyMIo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Members Only Watchalong】Let's watch NOPE together!!!🩷\nhttps://www.youtube.com/watch?v=9WULVWV746s
+DESCRIPTION:≪#ホロARK≫ MISSION SADDLE. #2\nhttps://www.youtube.com/watch?v=EZOQa49cFgk
 DURATION:PT2H
-DTSTART:20240724T020000Z
-SUMMARY:Raora: 【Members Only Watchalong】Let's watch NOPE together!!!🩷
-UID:9WULVWV746s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ZELDA-Minish Cap】Super small super tiny! Cutest game! #hololiveenglish\nhttps://www.youtube.com/watch?v=2tEpIwK88jI
-DURATION:PT2H
-DTSTART:20240723T180000Z
-SUMMARY:Cecilia: 【ZELDA-Minish Cap】Super small super tiny! Cutest game! #hololiveenglish
-UID:2tEpIwK88jI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Powerwash Simulator】Off With The Grime\nhttps://www.youtube.com/watch?v=pLw1lE1rmfI
-DURATION:PT2H
-DTSTART:20240724T030000Z
-SUMMARY:Kronii: 【Powerwash Simulator】Off With The Grime
-UID:pLw1lE1rmfI
+DTSTART:20240725T120000Z
+SUMMARY:Baelz: ≪#ホロARK≫ MISSION SADDLE. #2
+UID:EZOQa49cFgk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ANIME WATCHALONG】Monogatari Season 2 EP 17 - 25 (Shinobu Time - Hitagi End)\nhttps://www.youtube.com/watch?v=DenbmL5bVNc
@@ -184,13 +149,6 @@ DURATION:PT2H
 DTSTART:20240724T161500Z
 SUMMARY:Kiara: 【ANIME WATCHALONG】Monogatari Season 2 EP 17 - 25 (Shinobu Time - Hitagi End)
 UID:DenbmL5bVNc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪#ホロARK≫ MISSION SADDLE. #2\nhttps://www.youtube.com/watch?v=EZOQa49cFgk
-DURATION:PT2H
-DTSTART:20240725T120000Z
-SUMMARY:Baelz: ≪#ホロARK≫ MISSION SADDLE. #2
-UID:EZOQa49cFgk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪Call of Duty: Modern Warfare≫ nEW Pew pEW gAme\nhttps://www.youtube.com/watch?v=53TuqHY0rGc
