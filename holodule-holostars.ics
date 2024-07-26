@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【League of Legends】真似できないよこのスワーム / アステル\nhttps://www.youtube.com/watch?v=GUDso6jtikg
-DURATION:PT2H
-DTSTART:20240725T060000Z
-SUMMARY:🎭アステル・レダ: 【League of Legends】真似できないよこのスワーム / アステル
-UID:GUDso6jtikg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:『タイムパラドックス』無補正で弾き語り 律可/ホロスターズ　#shorts\nhttps://www.youtube.com/watch?v=PeWOgCU15us
 DURATION:PT2H
 DTSTART:20240725T131521Z
@@ -18,18 +11,18 @@ SUMMARY:⚙律可: 『タイムパラドックス』無補正で弾き語り 律
 UID:PeWOgCU15us
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【League of Legends】真似できないよこのスワーム / アステル\nhttps://www.youtube.com/watch?v=GUDso6jtikg
+DURATION:PT2H
+DTSTART:20240725T060000Z
+SUMMARY:🎭アステル・レダ: 【League of Legends】真似できないよこのスワーム / アステル
+UID:GUDso6jtikg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【メンバー限定】みんなで見る映画を決めて一緒に見る配信 7月編【アルランディス/ホロスターズ】【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=IAfwLPd0YTs
 DURATION:PT2H
 DTSTART:20240725T120000Z
 SUMMARY:🍕アルランディス: 【メンバー限定】みんなで見る映画を決めて一緒に見る配信 7月編【アルランディス/ホロスターズ】【アルランディス/ホロスターズ】
 UID:IAfwLPd0YTs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #水無世燐央生誕祭2024 】初めての凸待ち！ﾄﾞｷﾄﾞｷ【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】\nhttps://www.youtube.com/watch?v=KgzVegMD8W8
-DURATION:PT2H
-DTSTART:20240726T100000Z
-SUMMARY:水無世燐央: 【 #水無世燐央生誕祭2024 】初めての凸待ち！ﾄﾞｷﾄﾞｷ【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】
-UID:KgzVegMD8W8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【料理配信】夏野菜カレーを作ろう!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=uwYy6lTN468
@@ -44,6 +37,13 @@ DURATION:PT2H
 DTSTART:20240726T100000Z
 SUMMARY:🍷夕刻ロベル: 【祇（くにつがみ）：Path of the Goddess】カプコンさんの新作アクションゲームをやってみるぞ！！【夕刻ロベル/ホロスターズ】
 UID:UQNA1gwh5oo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ペーパーマリオRPG】ハート10縛りペパマリリメイク#02【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=4Q5phdpt6bs
+DURATION:PT2H
+DTSTART:20240726T130000Z
+SUMMARY:影山シエン: 【ペーパーマリオRPG】ハート10縛りペパマリリメイク#02【影山シエン/ホロスターズ】
+UID:4Q5phdpt6bs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【祇：Path of the Goddess】これ多分最終回だと思いますよ　#5【荒咬オウガ /ホロスターズ】\nhttps://www.youtube.com/watch?v=ejFSVGUBK4k
@@ -72,6 +72,13 @@ DURATION:PT2H
 DTSTART:20240726T094500Z
 SUMMARY:🦔💨岸堂天真: 【スト６】制限時間100分！マスター行きます！　ダイヤ5~【岸堂天真/ホロスターズ】
 UID:r5i7fWPlfJg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:鬼の姿カッコいい？👹⚡️「鬼の宴」歌ってみた　#short #shorts #鬼の宴 #oninoutage #귀신의잔치　#歌ってみた #cover  #holostars #hololive\nhttps://www.youtube.com/watch?v=wonxCzrBfZw
+DURATION:PT2H
+DTSTART:20240726T100101Z
+SUMMARY:夜十神封魔: 鬼の姿カッコいい？👹⚡️「鬼の宴」歌ってみた　#short #shorts #鬼の宴 #oninoutage #귀신의잔치　#歌ってみた #cover  #holostars #hololive
+UID:wonxCzrBfZw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【パワフルプロ野球2024-2025】パワプロ達人をクリアする配信【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=t0jYnq09SkY
@@ -116,11 +123,11 @@ SUMMARY:🍷夕刻ロベル: 【パワフルプロ野球2024-2025】栄冠ナイ
 UID:aAvyk0p8_ig
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:鬼の姿カッコいい？👹⚡️「鬼の宴」歌ってみた　#short #shorts #鬼の宴 #oninoutage #귀신의잔치　#歌ってみた #cover  #holostars #hololive\nhttps://www.youtube.com/watch?v=wonxCzrBfZw
+DESCRIPTION:【 #水無世燐央生誕祭2024 】初めての凸待ち！ﾄﾞｷﾄﾞｷ【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】\nhttps://www.youtube.com/watch?v=KgzVegMD8W8
 DURATION:PT2H
-DTSTART:20240726T100101Z
-SUMMARY:夜十神封魔: 鬼の姿カッコいい？👹⚡️「鬼の宴」歌ってみた　#short #shorts #鬼の宴 #oninoutage #귀신의잔치　#歌ってみた #cover  #holostars #hololive
-UID:wonxCzrBfZw
+DTSTART:20240726T100000Z
+SUMMARY:水無世燐央: 【 #水無世燐央生誕祭2024 】初めての凸待ち！ﾄﾞｷﾄﾞｷ【 水無世燐央 / UPROAR!! / ホロスターズ / アップロー 】
+UID:KgzVegMD8W8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX】最近何かと話題のAPEXくん！お昼のソロランク【夜十神封魔/UPROAR!!】\nhttps://www.youtube.com/watch?v=uDHorrBqzP0
