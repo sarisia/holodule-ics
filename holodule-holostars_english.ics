@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【MEMBERSHIP】Let's watch some indie animations and hang out Hakkitos ! ! !\nhttps://www.youtube.com/watch?v=cXNwf8n9JQA
+DURATION:PT2H
+DTSTART:20240727T001500Z
+SUMMARY:Hakka: 【MEMBERSHIP】Let's watch some indie animations and hang out Hakkitos ! ! !
+UID:cXNwf8n9JQA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ASGS Apex Legends】 🎇⛓💀🗡️ IF WE DO WELL TODAY\, WE GO TO THE FINALS 🗡️💀⛓🎇\nhttps://www.youtube.com/watch?v=l53R5KkNAyg
 DURATION:PT2H
 DTSTART:20240727T120000Z
@@ -23,6 +30,13 @@ DURATION:PT2H
 DTSTART:20240727T050000Z
 SUMMARY:Jurard: 【MINECRAFT】LET'S PUT OUR PRISONERS TO WORK
 UID:2nIbME2Kjwg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【OcTalks w/ Octavio】 Everything's getting a movie including SKIBIDI | Ep 26\nhttps://www.youtube.com/watch?v=SkvS99izk6Q
+DURATION:PT2H
+DTSTART:20240728T033000Z
+SUMMARY:Octavio: 【OcTalks w/ Octavio】 Everything's getting a movie including SKIBIDI | Ep 26
+UID:SkvS99izk6Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ART MEMBERSHIP】SERIOUSE ARTISTE HOURS\nhttps://www.youtube.com/watch?v=JcRBMtA3oOk
@@ -46,32 +60,18 @@ SUMMARY:Flayon: Frieza Is (Not) Cooler【DBZ KAKAROT】
 UID:cZDmcxPiOf4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[CONTENT WARNING COLLAB] I DIE FOR MY CONTENT w/ ERB\, Ruze\, and Flay\nhttps://www.youtube.com/watch?v=FcSIlqCBZ44
-DURATION:PT2H
-DTSTART:20240726T200000Z
-SUMMARY:Bettel: [CONTENT WARNING COLLAB] I DIE FOR MY CONTENT w/ ERB\, Ruze\, and Flay
-UID:FcSIlqCBZ44
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MEMBERSHIP】Let's watch some indie animations and hang out Hakkitos ! ! !\nhttps://www.youtube.com/watch?v=cXNwf8n9JQA
-DURATION:PT2H
-DTSTART:20240727T001500Z
-SUMMARY:Hakka: 【MEMBERSHIP】Let's watch some indie animations and hang out Hakkitos ! ! !
-UID:cXNwf8n9JQA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【OcTalks w/ Octavio】 Everything's getting a movie including SKIBIDI | Ep 26\nhttps://www.youtube.com/watch?v=SkvS99izk6Q
-DURATION:PT2H
-DTSTART:20240728T033000Z
-SUMMARY:Octavio: 【OcTalks w/ Octavio】 Everything's getting a movie including SKIBIDI | Ep 26
-UID:SkvS99izk6Q
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【CONTENT WARNING】 Smile for the Camera!\nhttps://www.youtube.com/watch?v=DXrbX2Fr_Zc
 DURATION:PT2H
 DTSTART:20240726T200000Z
 SUMMARY:Crimzon: 【CONTENT WARNING】 Smile for the Camera!
 UID:DXrbX2Fr_Zc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[CONTENT WARNING COLLAB] I DIE FOR MY CONTENT w/ ERB\, Ruze\, and Flay\nhttps://www.youtube.com/watch?v=FcSIlqCBZ44
+DURATION:PT2H
+DTSTART:20240726T200000Z
+SUMMARY:Bettel: [CONTENT WARNING COLLAB] I DIE FOR MY CONTENT w/ ERB\, Ruze\, and Flay
+UID:FcSIlqCBZ44
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FALL GUYS】 Community Night: Finally Destroying the Ruzaders\nhttps://www.youtube.com/watch?v=_u1HgqFyS9s
@@ -100,13 +100,6 @@ DURATION:PT2H
 DTSTART:20240726T200000Z
 SUMMARY:Flayon: We Are The「CONTENT WARNING」w/ Elizabeth Rose Bloodflame\, Crimzon Ruze & Gavis Bettel
 UID:uABJXij9-nE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:SAD BOI KARAOKE【UNARCHIVED】\nhttps://www.youtube.com/watch?v=ylFv5m2CI4Y
-DURATION:PT2H
-DTSTART:20240728T010000Z
-SUMMARY:Octavio: SAD BOI KARAOKE【UNARCHIVED】
-UID:ylFv5m2CI4Y
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX: ASGS】OKAY JUST ONE MORE GOOD DAY TO GO TO FINALS!!!【LOSERS BRACKET 2】\nhttps://www.youtube.com/watch?v=4nhNb7wOmRo
