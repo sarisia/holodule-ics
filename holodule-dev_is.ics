@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【＃ホロARK】ついに最終日…！！初めてのARKサバイバル生活！！！【一条莉々華/hololive DEV_IS　ReGLOSS】\nhttps://www.youtube.com/watch?v=DzC8Tqx5SRE
-DURATION:PT2H
-DTSTART:20240731T100000Z
-SUMMARY:一条莉々華: 【＃ホロARK】ついに最終日…！！初めてのARKサバイバル生活！！！【一条莉々華/hololive DEV_IS　ReGLOSS】
-UID:DzC8Tqx5SRE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【スーパーマリオブラザーズ】中に誰もいませんよ！！！【火威青×狂蘭メロコ】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=Jg7QXfAXCi8
 DURATION:PT2H
 DTSTART:20240730T100000Z
 SUMMARY:火威青: 【スーパーマリオブラザーズ】中に誰もいませんよ！！！【火威青×狂蘭メロコ】#hololiveDEV_IS #ReGLOSS
 UID:Jg7QXfAXCi8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【68日後に3D化の夢を叶えたい🎶】微笑みの爆弾 生歌で歌ってみた【#一条莉々華 #Shorts #hololivedev_is #ReGLOSS】\nhttps://www.youtube.com/watch?v=vyfF6d271A8
+DURATION:PT2H
+DTSTART:20240731T095500Z
+SUMMARY:一条莉々華: 【68日後に3D化の夢を叶えたい🎶】微笑みの爆弾 生歌で歌ってみた【#一条莉々華 #Shorts #hololivedev_is #ReGLOSS】
+UID:vyfF6d271A8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【睨めっ娘/歌ってみた】轟はじめ #hololivedev_is  #shorts\nhttps://www.youtube.com/watch?v=30o8cdVaSKU
@@ -25,6 +25,13 @@ SUMMARY:轟はじめ: 【睨めっ娘/歌ってみた】轟はじめ #hololivede
 UID:30o8cdVaSKU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【69日後に3D化の夢を叶えたい🎶】本当はね、 生歌で歌ってみた【#一条莉々華 #Shorts #hololivedev_is #ReGLOSS】\nhttps://www.youtube.com/watch?v=Ru-UzWB9VDE
+DURATION:PT2H
+DTSTART:20240731T030015Z
+SUMMARY:一条莉々華: 【69日後に3D化の夢を叶えたい🎶】本当はね、 生歌で歌ってみた【#一条莉々華 #Shorts #hololivedev_is #ReGLOSS】
+UID:Ru-UzWB9VDE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:スターマイン / cover #shorts  #ReGLOSS  #歌ってみた\nhttps://www.youtube.com/watch?v=bpsS5_c--5c
 DURATION:PT2H
 DTSTART:20240730T100042Z
@@ -32,11 +39,18 @@ SUMMARY:DEV_IShololive: スターマイン / cover #shorts  #ReGLOSS  #歌って
 UID:bpsS5_c--5c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【69日後に3D化の夢を叶えたい🎶】本当はね、 生歌で歌ってみた【#一条莉々華 #Shorts #hololivedev_is #ReGLOSS】\nhttps://www.youtube.com/watch?v=Ru-UzWB9VDE
+DESCRIPTION:【＃ホロARK】ついに最終日…！！初めてのARKサバイバル生活！！！【一条莉々華/hololive DEV_IS　ReGLOSS】\nhttps://www.youtube.com/watch?v=DzC8Tqx5SRE
 DURATION:PT2H
-DTSTART:20240731T030015Z
-SUMMARY:一条莉々華: 【69日後に3D化の夢を叶えたい🎶】本当はね、 生歌で歌ってみた【#一条莉々華 #Shorts #hololivedev_is #ReGLOSS】
-UID:Ru-UzWB9VDE
+DTSTART:20240731T100000Z
+SUMMARY:一条莉々華: 【＃ホロARK】ついに最終日…！！初めてのARKサバイバル生活！！！【一条莉々華/hololive DEV_IS　ReGLOSS】
+UID:DzC8Tqx5SRE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【盲牌チャレンジ！】食べてみたら？ #shorts #ReGLOSS  #儒烏風亭らでん\nhttps://www.youtube.com/watch?v=bJLme546kvo
+DURATION:PT2H
+DTSTART:20240731T100040Z
+SUMMARY:DEV_IShololive: 【盲牌チャレンジ！】食べてみたら？ #shorts #ReGLOSS  #儒烏風亭らでん
+UID:bJLme546kvo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #ホロARK 】いよいよ最終日！！仲間と最後まで...！！【轟はじめ/ReGLOSS】#hololivedev_is\nhttps://www.youtube.com/watch?v=ZwLS2lqabyk
