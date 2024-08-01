@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【＃ホロARK】8/1 ホロ鯖ニュース【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=WMKi60Qwc50
+DURATION:PT2H
+DTSTART:20240801T130000Z
+SUMMARY:👯兎田ぺこら: 【＃ホロARK】8/1 ホロ鯖ニュース【ホロライブ/兎田ぺこら】
+UID:WMKi60Qwc50
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 #ホロARK 】最終日！みんなで勝つぞおおおおおおおおおおおおお🔥【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=TkSTF2_AJWY
 DURATION:PT2H
 DTSTART:20240731T100000Z
@@ -340,10 +347,10 @@ SUMMARY:🐻ときのそら: 【＃ホロARK】みんなで見守る急にはじ
 UID:vSWKsZtY4Z0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【はいしんよていち】こよーーーーーーーーーー！！！！！！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=UqzZJrEvQlo
+DESCRIPTION:【ホロライブお宝マウンテン】今日発売のholoIndie最新作！3Dパズルゲームだよ～！なにそれ面白そう！！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=UqzZJrEvQlo
 DURATION:PT2H
 DTSTART:20240801T100000Z
-SUMMARY:博衣こより: 【はいしんよていち】こよーーーーーーーーーー！！！！！！！【博衣こより/ホロライブ】
+SUMMARY:博衣こより: 【ホロライブお宝マウンテン】今日発売のholoIndie最新作！3Dパズルゲームだよ～！なにそれ面白そう！！！【博衣こより/ホロライブ】
 UID:UqzZJrEvQlo
 END:VEVENT
 END:VCALENDAR
