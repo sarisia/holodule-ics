@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【OcTalks w/ Jurard】 The Loud Dino is here!!! | Ep 27\nhttps://www.youtube.com/watch?v=Efijb434itc
+DURATION:PT2H
+DTSTART:20240804T120000Z
+SUMMARY:Octavio: 【OcTalks w/ Jurard】 The Loud Dino is here!!! | Ep 27
+UID:Efijb434itc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:[POWERWASH SIMULATOR] TIME TO DO MY JOB WITHIN A JOB #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=sr0ZXNgQnnU
 DURATION:PT2H
 DTSTART:20240802T210000Z
@@ -18,18 +25,18 @@ SUMMARY:Flayon: 【VALORANT】5 v 5 |   w/ Altare\, Cassian\, Lucien\, Rosco\, S
 UID:zZuTtJlajzo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【CRYPTMASTER】 Crosswords and Catacombs\nhttps://www.youtube.com/watch?v=Hc52GEKkYIc
-DURATION:PT2H
-DTSTART:20240802T200000Z
-SUMMARY:Crimzon: 【CRYPTMASTER】 Crosswords and Catacombs
-UID:Hc52GEKkYIc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【💬 VRChat 💬】 Saturday night hangout with@rprxx!!! 💀🗡️\nhttps://www.youtube.com/watch?v=QpytDNZ7bmE
 DURATION:PT2H
 DTSTART:20240803T230000Z
 SUMMARY:Altare: 【💬 VRChat 💬】 Saturday night hangout with@rprxx!!! 💀🗡️
 UID:QpytDNZ7bmE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CRYPTMASTER】 Crosswords and Catacombs\nhttps://www.youtube.com/watch?v=Hc52GEKkYIc
+DURATION:PT2H
+DTSTART:20240802T200000Z
+SUMMARY:Crimzon: 【CRYPTMASTER】 Crosswords and Catacombs
+UID:Hc52GEKkYIc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MV】??? / Covered by Machina X Flayon\nhttps://www.youtube.com/watch?v=fx0Sh3BGKy8
