@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【OcTalks w/ Jurard】 The Loud Dino is here!!! | Ep 27\nhttps://www.youtube.com/watch?v=Efijb434itc
-DURATION:PT2H
-DTSTART:20240804T123000Z
-SUMMARY:Octavio: 【OcTalks w/ Jurard】 The Loud Dino is here!!! | Ep 27
-UID:Efijb434itc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[OVERCOOKED! 2] IT'S RAW w/ Bettel 2 #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=zs1pgKYetmk
 DURATION:PT2H
 DTSTART:20240804T210000Z
@@ -25,6 +18,13 @@ SUMMARY:Altare: 【🗡️ Dark and Darker 🗡️】 Diving into the dungeon...
 UID:FV1V5ei1uGc
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:testing studio equipment\nhttps://www.youtube.com/watch?v=_smwmB1Kw9Y
+DURATION:PT2H
+DTSTART:20240804T160000Z
+SUMMARY:Altare: testing studio equipment
+UID:_smwmB1Kw9Y
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【VALORANT】Tourneymaxxing\nhttps://www.youtube.com/watch?v=FYUMJeb-TrU
 DURATION:PT2H
 DTSTART:20240805T190000Z
@@ -32,11 +32,11 @@ SUMMARY:Crimzon: 【VALORANT】Tourneymaxxing
 UID:FYUMJeb-TrU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【💬 VRChat 💬】 Saturday night hangout with@rprxx!!! 💀🗡️\nhttps://www.youtube.com/watch?v=QpytDNZ7bmE
+DESCRIPTION:【cover release after party】yipipeee\nhttps://www.youtube.com/watch?v=zn3jZd4blZQ
 DURATION:PT2H
-DTSTART:20240803T230000Z
-SUMMARY:Altare: 【💬 VRChat 💬】 Saturday night hangout with@rprxx!!! 💀🗡️
-UID:QpytDNZ7bmE
+DTSTART:20240804T231000Z
+SUMMARY:Flayon: 【cover release after party】yipipeee
+UID:zn3jZd4blZQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MV】オルソドクシア (Orthodoxia) / Covered by Machina X Flayon\nhttps://www.youtube.com/watch?v=fx0Sh3BGKy8
@@ -46,25 +46,11 @@ SUMMARY:Flayon: 【MV】オルソドクシア (Orthodoxia) / Covered by Machina 
 UID:fx0Sh3BGKy8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Granblue Fantasy】I GOT COOKED.【Vertical Stream】#shorts\nhttps://www.youtube.com/watch?v=YPO3zZo5h2Y
-DURATION:PT2H
-DTSTART:20240804T111500Z
-SUMMARY:Syrios: 【Granblue Fantasy】I GOT COOKED.【Vertical Stream】#shorts
-UID:YPO3zZo5h2Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Stardew Valley】1.6 - 7 - I don't remember what we were doing but something about mayo\nhttps://www.youtube.com/watch?v=X_aDkaIgFD0
 DURATION:PT2H
 DTSTART:20240805T010000Z
 SUMMARY:Shinri: 【Stardew Valley】1.6 - 7 - I don't remember what we were doing but something about mayo
 UID:X_aDkaIgFD0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Subnautica: Below Zero】2 - Uh... what was I doing again?\nhttps://www.youtube.com/watch?v=_GrbukkCdVU
-DURATION:PT2H
-DTSTART:20240804T010000Z
-SUMMARY:Shinri: 【 Subnautica: Below Zero】2 - Uh... what was I doing again?
-UID:_GrbukkCdVU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:POV: Your card got declined\nhttps://www.youtube.com/watch?v=H1VS8Jyd1rw
@@ -86,33 +72,5 @@ DURATION:PT2H
 DTSTART:20240806T050000Z
 SUMMARY:Jurard: 【NO MAN'S SKY】SPACE MINECRAFT ADVENTURE!!
 UID:F3GV2MjqW7U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[MENSHI] ALIENS (1986) WATCH ALONG #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=ZDc5uZZSCXI
-DURATION:PT2H
-DTSTART:20240803T210000Z
-SUMMARY:Bettel: [MENSHI] ALIENS (1986) WATCH ALONG #gavisbettel #holotempus
-UID:ZDc5uZZSCXI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:testing studio equipment\nhttps://www.youtube.com/watch?v=_smwmB1Kw9Y
-DURATION:PT2H
-DTSTART:20240804T160000Z
-SUMMARY:Altare: testing studio equipment
-UID:_smwmB1Kw9Y
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【cover release after party】yipipeee\nhttps://www.youtube.com/watch?v=zn3jZd4blZQ
-DURATION:PT2H
-DTSTART:20240804T231000Z
-SUMMARY:Flayon: 【cover release after party】yipipeee
-UID:zn3jZd4blZQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【THE MORTUARY ASSISTANT】Playing Shinri's Comfort(??) Game\nhttps://www.youtube.com/watch?v=wJUKleeOP7U
-DURATION:PT2H
-DTSTART:20240804T010000Z
-SUMMARY:Flayon: 【THE MORTUARY ASSISTANT】Playing Shinri's Comfort(??) Game
-UID:wJUKleeOP7U
 END:VEVENT
 END:VCALENDAR
