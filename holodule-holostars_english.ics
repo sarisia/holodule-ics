@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【VALORANT】 Practicing for the Avallum Cup!!! (  •̀ ^ •́  )✧ (solo queue)\nhttps://www.youtube.com/watch?v=DOztjJrSfDg
+DURATION:PT2H
+DTSTART:20240807T130000Z
+SUMMARY:Altare: 【VALORANT】 Practicing for the Avallum Cup!!! (  •̀ ^ •́  )✧ (solo queue)
+UID:DOztjJrSfDg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:On The Origins of "Poppet" 【MASCOT REVEAL】\nhttps://www.youtube.com/watch?v=h1KtMxzvFH4
 DURATION:PT2H
 DTSTART:20240808T010000Z
@@ -32,18 +39,18 @@ SUMMARY:Crimzon: 【PLANET ZOO】 Putting the Ruzaders Where They Belong
 UID:eETxuBWFOcw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Grounded】Honey\, we shrunk ourselves!\nhttps://www.youtube.com/watch?v=NbrTe63s5kI
-DURATION:PT2H
-DTSTART:20240806T030000Z
-SUMMARY:Shinri: 【 Grounded】Honey\, we shrunk ourselves!
-UID:NbrTe63s5kI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MEMBERSHIP】CREATING GENERATION 8\nhttps://www.youtube.com/watch?v=Gc8UMsxXYAo
 DURATION:PT2H
 DTSTART:20240808T120000Z
 SUMMARY:Octavio: 【MEMBERSHIP】CREATING GENERATION 8
 UID:Gc8UMsxXYAo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Grounded】Honey\, we shrunk ourselves!\nhttps://www.youtube.com/watch?v=NbrTe63s5kI
+DURATION:PT2H
+DTSTART:20240806T030000Z
+SUMMARY:Shinri: 【 Grounded】Honey\, we shrunk ourselves!
+UID:NbrTe63s5kI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MURKY DIVERS】hunting for body parts like leader. w/ Banzoin Hakka\, Lucien Lunaris & Cassian Floros!\nhttps://www.youtube.com/watch?v=nPQ3nSxQjrY
@@ -128,5 +135,12 @@ DURATION:PT2H
 DTSTART:20240808T025500Z
 SUMMARY:Octavio: Puppets have no heart\, they say
 UID:5TBPutZo6Ac
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Fall Guys] LET THE FUNNY CLOWN MAN BLOW OFF SOME STEAM PLEASE #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=qxgfEvNr9Rk
+DURATION:PT2H
+DTSTART:20240807T210000Z
+SUMMARY:Bettel: [Fall Guys] LET THE FUNNY CLOWN MAN BLOW OFF SOME STEAM PLEASE #gavisbettel #holotempus
+UID:qxgfEvNr9Rk
 END:VEVENT
 END:VCALENDAR
