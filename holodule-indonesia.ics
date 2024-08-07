@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:しかのこのこのここしたんたん ANYA DANCE #shorts\nhttps://www.youtube.com/watch?v=UkenLcPWTnM
-DURATION:PT2H
-DTSTART:20240806T050025Z
-SUMMARY:Anya: しかのこのこのここしたんたん ANYA DANCE #shorts
-UID:UkenLcPWTnM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ANIMAL CROSSING: NEW HORIZONS】DOING LEISURE ACTIVITIES IN MY ISLAND【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=oX4QskVzpIw
 DURATION:PT2H
 DTSTART:20240806T025919Z
@@ -25,13 +18,6 @@ SUMMARY:🎨Iofi: KKC AUGUST TALK!
 UID:wI3oDpcR0TM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】INYANYA TRAINING ARC【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=TNamIdfk82o
-DURATION:PT2H
-DTSTART:20240808T040000Z
-SUMMARY:Anya: 【Minecraft】INYANYA TRAINING ARC【hololive ID 2nd Generation | Anya Melfissa】
-UID:TNamIdfk82o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Honor of Kings】PUSHHH AAAAA PUSHHHHHHHH【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=VgGMBkUKE_U
 DURATION:PT2H
 DTSTART:20240807T090000Z
@@ -39,11 +25,11 @@ SUMMARY:🎨Iofi: 【Honor of Kings】PUSHHH AAAAA PUSHHHHHHHH【 iofi / hololiv
 UID:VgGMBkUKE_U
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HONOR OF KINGS】P RANKED【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=snHDiiHiv2I
+DESCRIPTION:【Minecraft】INYANYA TRAINING ARC【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=TNamIdfk82o
 DURATION:PT2H
-DTSTART:20240807T085914Z
-SUMMARY:Ollie: 【HONOR OF KINGS】P RANKED【Kureiji Ollie】
-UID:snHDiiHiv2I
+DTSTART:20240808T040000Z
+SUMMARY:Anya: 【Minecraft】INYANYA TRAINING ARC【hololive ID 2nd Generation | Anya Melfissa】
+UID:TNamIdfk82o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Sticky Terms】after this stream\, i can speak any language in the world【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=DvTEudevEqc
@@ -51,5 +37,26 @@ DURATION:PT2H
 DTSTART:20240807T021500Z
 SUMMARY:Kaela: 【Sticky Terms】after this stream\, i can speak any language in the world【Kaela Kovalskia / hololiveID】
 UID:DvTEudevEqc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:しかのこのこのここしたんたん ANYA DANCE #shorts\nhttps://www.youtube.com/watch?v=UkenLcPWTnM
+DURATION:PT2H
+DTSTART:20240806T050025Z
+SUMMARY:Anya: しかのこのこのここしたんたん ANYA DANCE #shorts
+UID:UkenLcPWTnM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Raisond'etre】yes\, i'm a collector. 💅\nhttps://www.youtube.com/watch?v=HP_4ioJlqKE
+DURATION:PT2H
+DTSTART:20240807T120000Z
+SUMMARY:Zeta: 【Raisond'etre】yes\, i'm a collector. 💅
+UID:HP_4ioJlqKE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HONOR OF KINGS】P RANKED【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=snHDiiHiv2I
+DURATION:PT2H
+DTSTART:20240807T085914Z
+SUMMARY:Ollie: 【HONOR OF KINGS】P RANKED【Kureiji Ollie】
+UID:snHDiiHiv2I
 END:VEVENT
 END:VCALENDAR
