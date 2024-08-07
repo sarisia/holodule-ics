@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Drawing Stream!】Drawing more Tier 5 Bubbies!\nhttps://www.youtube.com/watch?v=sgbdX_jzPcE
-DURATION:PT2H
-DTSTART:20240808T170000Z
-SUMMARY:Goldbullet: 【Drawing Stream!】Drawing more Tier 5 Bubbies!
-UID:sgbdX_jzPcE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【VALORANT】 Practicing for the Avallum Cup!!! (  •̀ ^ •́  )✧ (solo queue)\nhttps://www.youtube.com/watch?v=DOztjJrSfDg
 DURATION:PT2H
 DTSTART:20240807T130000Z
@@ -25,32 +18,11 @@ SUMMARY:Octavio: On The Origins of "Poppet" 【MASCOT REVEAL】
 UID:h1KtMxzvFH4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FINAL FANTASY 14 ENDWALKER #3】 FIRST DUNGEON MAYBE?!  SPOILER ALERT\nhttps://www.youtube.com/watch?v=RWLRuq4N520
-DURATION:PT2H
-DTSTART:20240807T014519Z
-SUMMARY:Octavio: 【FINAL FANTASY 14 ENDWALKER #3】 FIRST DUNGEON MAYBE?!  SPOILER ALERT
-UID:RWLRuq4N520
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Handcam Stream】RETURN OF THE HANDS\nhttps://www.youtube.com/watch?v=RtggWoMxnNQ
-DURATION:PT2H
-DTSTART:20240807T150000Z
-SUMMARY:Goldbullet: 【Handcam Stream】RETURN OF THE HANDS
-UID:RtggWoMxnNQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【POLICE SIMULATOR】COMMITTING JUSTICE\nhttps://www.youtube.com/watch?v=NXorksCpJcM
 DURATION:PT2H
 DTSTART:20240808T050000Z
 SUMMARY:Jurard: 【POLICE SIMULATOR】COMMITTING JUSTICE
 UID:NXorksCpJcM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Illusion Carnival】Going on a date to a fun carnival!\nhttps://www.youtube.com/watch?v=g_RW-aPIYp0
-DURATION:PT2H
-DTSTART:20240807T010000Z
-SUMMARY:Shinri: 【 Illusion Carnival】Going on a date to a fun carnival!
-UID:g_RW-aPIYp0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PLANET ZOO】 Putting the Ruzaders Where They Belong\nhttps://www.youtube.com/watch?v=eETxuBWFOcw
@@ -74,20 +46,6 @@ SUMMARY:Octavio: 【MEMBERSHIP】CREATING GENERATION 8
 UID:Gc8UMsxXYAo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Murky Divers】IT'S TIME TO GET MURKY  w/ @MachinaXFlayon \, @LucienLunaris & @CassianFloros 🤿💦\nhttps://www.youtube.com/watch?v=GtTQFs8k9H4
-DURATION:PT2H
-DTSTART:20240806T200000Z
-SUMMARY:Hakka: 【Murky Divers】IT'S TIME TO GET MURKY  w/ @MachinaXFlayon \, @LucienLunaris & @CassianFloros 🤿💦
-UID:GtTQFs8k9H4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRINGS\nhttps://www.youtube.com/watch?v=5TBPutZo6Ac
-DURATION:PT2H
-DTSTART:20240808T025500Z
-SUMMARY:Octavio: STRINGS
-UID:5TBPutZo6Ac
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MURKY DIVERS】hunting for body parts like leader. w/ Banzoin Hakka\, Lucien Lunaris & Cassian Floros!\nhttps://www.youtube.com/watch?v=nPQ3nSxQjrY
 DURATION:PT2H
 DTSTART:20240806T200000Z
@@ -100,6 +58,55 @@ DURATION:PT2H
 DTSTART:20240807T013221Z
 SUMMARY:Octavio: PLAYING w/ VIEWERS! | PARTY ANIMALS
 UID:yoKrjSwpQb8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Drawing Stream!】Drawing more Tier 5 Bubbies!\nhttps://www.youtube.com/watch?v=sgbdX_jzPcE
+DURATION:PT2H
+DTSTART:20240808T170000Z
+SUMMARY:Goldbullet: 【Drawing Stream!】Drawing more Tier 5 Bubbies!
+UID:sgbdX_jzPcE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FINAL FANTASY 14 ENDWALKER #3】 FIRST DUNGEON MAYBE?!  SPOILER ALERT\nhttps://www.youtube.com/watch?v=RWLRuq4N520
+DURATION:PT2H
+DTSTART:20240807T014519Z
+SUMMARY:Octavio: 【FINAL FANTASY 14 ENDWALKER #3】 FIRST DUNGEON MAYBE?!  SPOILER ALERT
+UID:RWLRuq4N520
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Handcam Stream】RETURN OF THE HANDS\nhttps://www.youtube.com/watch?v=RtggWoMxnNQ
+DURATION:PT2H
+DTSTART:20240807T150000Z
+SUMMARY:Goldbullet: 【Handcam Stream】RETURN OF THE HANDS
+UID:RtggWoMxnNQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Illusion Carnival】Going on a date to a fun carnival!\nhttps://www.youtube.com/watch?v=g_RW-aPIYp0
+DURATION:PT2H
+DTSTART:20240807T010000Z
+SUMMARY:Shinri: 【 Illusion Carnival】Going on a date to a fun carnival!
+UID:g_RW-aPIYp0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEAD CELLS】Preparing for The End\nhttps://www.youtube.com/watch?v=PTJ3IpxNaGY
+DURATION:PT2H
+DTSTART:20240807T230000Z
+SUMMARY:Crimzon: 【DEAD CELLS】Preparing for The End
+UID:PTJ3IpxNaGY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Murky Divers】IT'S TIME TO GET MURKY  w/ @MachinaXFlayon \, @LucienLunaris & @CassianFloros 🤿💦\nhttps://www.youtube.com/watch?v=GtTQFs8k9H4
+DURATION:PT2H
+DTSTART:20240806T200000Z
+SUMMARY:Hakka: 【Murky Divers】IT'S TIME TO GET MURKY  w/ @MachinaXFlayon \, @LucienLunaris & @CassianFloros 🤿💦
+UID:GtTQFs8k9H4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:STRINGS\nhttps://www.youtube.com/watch?v=5TBPutZo6Ac
+DURATION:PT2H
+DTSTART:20240808T025500Z
+SUMMARY:Octavio: STRINGS
+UID:5TBPutZo6Ac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[Fall Guys] LET THE FUNNY CLOWN MAN BLOW OFF SOME STEAM PLEASE #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=qxgfEvNr9Rk
