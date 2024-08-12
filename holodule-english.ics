@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:≪#BAEBISleepover≫ How dead will Bae be?\nhttps://www.youtube.com/watch?v=rWL7HXdVYvQ
+DURATION:PT2H
+DTSTART:20240811T230000Z
+SUMMARY:Baelz: ≪#BAEBISleepover≫ How dead will Bae be?
+UID:rWL7HXdVYvQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:reaper’s night routine #shorts #anime #animation #vtuber #hololive\nhttps://www.youtube.com/watch?v=TNukpQS7LMY
 DURATION:PT2H
 DTSTART:20240811T200906Z
@@ -11,39 +18,11 @@ SUMMARY:Calli: reaper’s night routine #shorts #anime #animation #vtuber #holol
 UID:TNukpQS7LMY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Look at me! I'm 3D! (´｡• ω •｡`)\nhttps://www.youtube.com/watch?v=AaBsm0ICvzM
-DURATION:PT2H
-DTSTART:20240813T000000Z
-SUMMARY:Nerissa: Look at me! I'm 3D! (´｡• ω •｡`)
-UID:AaBsm0ICvzM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FUWAMOCO 3D DEBUT AFTERPARTY】the fluffiest and fuzziest journey 🐾🩵🩷 #FWMC3D 【3Dお披露目 振り返り】\nhttps://www.youtube.com/watch?v=4pP2l_XOd0A
-DURATION:PT2H
-DTSTART:20240812T010000Z
-SUMMARY:FUWAMOCO: 【FUWAMOCO 3D DEBUT AFTERPARTY】the fluffiest and fuzziest journey 🐾🩵🩷 #FWMC3D 【3Dお披露目 振り返り】
-UID:4pP2l_XOd0A
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:TBD RESCHEDULD STREAM: Reliving the Life of a Broke Highschool Student【I Am Part-time Worker!! 】\nhttps://www.youtube.com/watch?v=8MIyM0g1h3I
 DURATION:PT2H
 DTSTART:20240812T020000Z
 SUMMARY:Shiori: TBD RESCHEDULD STREAM: Reliving the Life of a Broke Highschool Student【I Am Part-time Worker!! 】
 UID:8MIyM0g1h3I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【TROMBONE CHAMP】i am the bone of my trombone\nhttps://www.youtube.com/watch?v=ISdO1BKxtwU
-DURATION:PT2H
-DTSTART:20240812T210000Z
-SUMMARY:Gigi: 【TROMBONE CHAMP】i am the bone of my trombone
-UID:ISdO1BKxtwU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪#BAEBISleepover≫ The sleepover begins!!\nhttps://www.youtube.com/watch?v=GbDP3OGOZQI
-DURATION:PT2H
-DTSTART:20240811T130000Z
-SUMMARY:Baelz: ≪#BAEBISleepover≫ The sleepover begins!!
-UID:GbDP3OGOZQI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【OUTLAST】BAEBI BEING BABIES #BAEBISleepOver\nhttps://www.youtube.com/watch?v=cRcbP49Whks
@@ -67,18 +46,32 @@ SUMMARY:Bijou: 【SUPER SMASH BROS ULTIMATE】Throwing controllers at 4am #BAEBI
 UID:9TWGD7d_lW4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HOLOLIVE TREASURE MOUNTAIN】 Exploring a Senpai-Inhabited Island !!\nhttps://www.youtube.com/watch?v=S5Jqe6NIvcA
+DESCRIPTION:【FUWAMOCO 3D DEBUT AFTERPARTY】the fluffiest and fuzziest journey 🐾🩵🩷 #FWMC3D 【3Dお披露目 振り返り】\nhttps://www.youtube.com/watch?v=4pP2l_XOd0A
 DURATION:PT2H
-DTSTART:20240811T000000Z
-SUMMARY:Mumei: 【HOLOLIVE TREASURE MOUNTAIN】 Exploring a Senpai-Inhabited Island !!
-UID:S5Jqe6NIvcA
+DTSTART:20240812T010000Z
+SUMMARY:FUWAMOCO: 【FUWAMOCO 3D DEBUT AFTERPARTY】the fluffiest and fuzziest journey 🐾🩵🩷 #FWMC3D 【3Dお披露目 振り返り】
+UID:4pP2l_XOd0A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SHASHINGO】nihongo very jouzu!!!\nhttps://www.youtube.com/watch?v=xytNLch3MEY
+DESCRIPTION:【TROMBONE CHAMP】i am the bone of my trombone\nhttps://www.youtube.com/watch?v=ISdO1BKxtwU
 DURATION:PT2H
-DTSTART:20240810T210000Z
-SUMMARY:Gigi: 【SHASHINGO】nihongo very jouzu!!!
-UID:xytNLch3MEY
+DTSTART:20240812T210000Z
+SUMMARY:Gigi: 【TROMBONE CHAMP】i am the bone of my trombone
+UID:ISdO1BKxtwU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【WATCHALONG: THE PRINCESS BRIDE】can we be the twin princesses? 🐾【MEMBERS ONLY】\nhttps://www.youtube.com/watch?v=rhF3PjME28c
+DURATION:PT2H
+DTSTART:20240812T230000Z
+SUMMARY:FUWAMOCO: 【WATCHALONG: THE PRINCESS BRIDE】can we be the twin princesses? 🐾【MEMBERS ONLY】
+UID:rhF3PjME28c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Look at me! I'm 3D! (´｡• ω •｡`)\nhttps://www.youtube.com/watch?v=AaBsm0ICvzM
+DURATION:PT2H
+DTSTART:20240813T000000Z
+SUMMARY:Nerissa: Look at me! I'm 3D! (´｡• ω •｡`)
+UID:AaBsm0ICvzM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【SUMMER PARTY】the hottest memory making!? uuuuuuuuuh || Mori Calliope #calliolive\nhttps://www.youtube.com/watch?v=inhllPdk8hE
@@ -86,13 +79,6 @@ DURATION:PT2H
 DTSTART:20240813T130000Z
 SUMMARY:Calli: 【SUMMER PARTY】the hottest memory making!? uuuuuuuuuh || Mori Calliope #calliolive
 UID:inhllPdk8hE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】ID CUP - Pavonashi FTW! TONJOK THE RIVALS #kfp #holoIDCup2024\nhttps://www.youtube.com/watch?v=YeKbKzHsm_M
-DURATION:PT2H
-DTSTART:20240811T053000Z
-SUMMARY:Kiara: 【Minecraft】ID CUP - Pavonashi FTW! TONJOK THE RIVALS #kfp #holoIDCup2024
-UID:YeKbKzHsm_M
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FUWAMOCO MORNING】episode 117 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=_AO1pLt3pU4
@@ -109,62 +95,6 @@ SUMMARY:Bijou: 【MOVIE NIGHT】REDLINE WATCHALONG #BAEBISleepOver
 UID:lopZYsUlvVs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Major 2nd Album - 「PHANTOMIME」8.16.2024 Released\nhttps://www.youtube.com/watch?v=UGkg3O3g_AU
-DURATION:PT2H
-DTSTART:20240811T101821Z
-SUMMARY:Calli: Major 2nd Album - 「PHANTOMIME」8.16.2024 Released
-UID:UGkg3O3g_AU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:≪#BAEBISleepover≫ How dead will Bae be?\nhttps://www.youtube.com/watch?v=rWL7HXdVYvQ
-DURATION:PT2H
-DTSTART:20240811T230000Z
-SUMMARY:Baelz: ≪#BAEBISleepover≫ How dead will Bae be?
-UID:rWL7HXdVYvQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Oblivion】Hero of Kvatch (Bowson) goes to Shivering Isles! (DLC TIME)\nhttps://www.youtube.com/watch?v=sgfit9r6A1I
-DURATION:PT2H
-DTSTART:20240812T010500Z
-SUMMARY:Amelia: 【Oblivion】Hero of Kvatch (Bowson) goes to Shivering Isles! (DLC TIME)
-UID:sgfit9r6A1I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FUWAMOCO 3D DEBUT】BAU BAU and BEYOND 🐾🩵🩷 #FWMC3D 【3Dお披露目】\nhttps://www.youtube.com/watch?v=zqiU63uqC9U
-DURATION:PT2H
-DTSTART:20240811T030000Z
-SUMMARY:FUWAMOCO: 【FUWAMOCO 3D DEBUT】BAU BAU and BEYOND 🐾🩵🩷 #FWMC3D 【3Dお披露目】
-UID:zqiU63uqC9U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Minecraft】 W-WE ARE OKAY LET'S GO PERFECT PARTNER!!!!\nhttps://www.youtube.com/watch?v=U_o-VzKJfB8
-DURATION:PT2H
-DTSTART:20240811T053000Z
-SUMMARY:Ina: 【Minecraft】 W-WE ARE OKAY LET'S GO PERFECT PARTNER!!!!
-UID:U_o-VzKJfB8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【WATCHALONG: THE PRINCESS BRIDE】can we be the twin princesses? 🐾【MEMBERS ONLY】\nhttps://www.youtube.com/watch?v=rhF3PjME28c
-DURATION:PT2H
-DTSTART:20240812T230000Z
-SUMMARY:FUWAMOCO: 【WATCHALONG: THE PRINCESS BRIDE】can we be the twin princesses? 🐾【MEMBERS ONLY】
-UID:rhF3PjME28c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#BreakingDimensions】Karaoke Quiz! Singing for BIG NEWS!?\nhttps://www.youtube.com/watch?v=zGhGQvIPdy8
-DURATION:PT2H
-DTSTART:20240811T010000Z
-SUMMARY:ENholo: 【#BreakingDimensions】Karaoke Quiz! Singing for BIG NEWS!?
-UID:zGhGQvIPdy8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MEMBERSHIP】DR Who Watch-A-Long 01 ~! 💄\nhttps://www.youtube.com/watch?v=ZJ31oaYAUfA
-DURATION:PT2H
-DTSTART:20240810T180000Z
-SUMMARY:Elizabeth: 【MEMBERSHIP】DR Who Watch-A-Long 01 ~! 💄
-UID:ZJ31oaYAUfA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【FACTORIO】Automaton automates automation!! #hololiveenglish\nhttps://www.youtube.com/watch?v=_2KAnHNjZiI
 DURATION:PT2H
 DTSTART:20240811T180000Z
@@ -172,24 +102,10 @@ SUMMARY:Cecilia: 【FACTORIO】Automaton automates automation!! #hololiveenglish
 UID:_2KAnHNjZiI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#BreakingDimensions】Key Visual Reveal Trailer\nhttps://www.youtube.com/watch?v=VQl-hdoxGTc
+DESCRIPTION:【Oblivion】Hero of Kvatch (Bowson) goes to Shivering Isles! (DLC TIME)\nhttps://www.youtube.com/watch?v=sgfit9r6A1I
 DURATION:PT2H
-DTSTART:20240811T020021Z
-SUMMARY:ENholo: 【#BreakingDimensions】Key Visual Reveal Trailer
-UID:VQl-hdoxGTc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【TREASURE MOUNTAIN】i love money!!! || Mori Calliope #calliolive\nhttps://www.youtube.com/watch?v=XrqovLpMJzA
-DURATION:PT2H
-DTSTART:20240811T043142Z
-SUMMARY:Calli: 【TREASURE MOUNTAIN】i love money!!! || Mori Calliope #calliolive
-UID:XrqovLpMJzA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Be Good And This Dream Might Come True #shorts\nhttps://www.youtube.com/watch?v=trK1KQcjQrc
-DURATION:PT2H
-DTSTART:20240811T020032Z
-SUMMARY:Shiori: Be Good And This Dream Might Come True #shorts
-UID:trK1KQcjQrc
+DTSTART:20240812T010500Z
+SUMMARY:Amelia: 【Oblivion】Hero of Kvatch (Bowson) goes to Shivering Isles! (DLC TIME)
+UID:sgfit9r6A1I
 END:VEVENT
 END:VCALENDAR
