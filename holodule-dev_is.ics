@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【朝活】おはよう～！今日も一日頑張ろー！！【一条莉々華/hololive DEV_IS　ReGLOSS】\nhttps://www.youtube.com/watch?v=4q5x6xhC9Jk
+DURATION:PT2H
+DTSTART:20240812T210000Z
+SUMMARY:一条莉々華: 【朝活】おはよう～！今日も一日頑張ろー！！【一条莉々華/hololive DEV_IS　ReGLOSS】
+UID:4q5x6xhC9Jk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【50万人耐久／KARAOKE】目標の50万まで！僕の歌を聞いてくれーっ！【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=s2VsW5cP00Y
 DURATION:PT2H
 DTSTART:20240812T120000Z
@@ -18,17 +25,17 @@ SUMMARY:一条莉々華: 【ホロライブお宝マウンテン】holoXきた�
 UID:dwg4yjYY06I
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【56日後に3D化の夢を叶えたい🎶】ヒッチコック 生歌で歌ってみた【#一条莉々華 #Shorts #hololivedev_is #ReGLOSS】\nhttps://www.youtube.com/watch?v=-sUChtForH4
-DURATION:PT2H
-DTSTART:20240812T030001Z
-SUMMARY:一条莉々華: 【56日後に3D化の夢を叶えたい🎶】ヒッチコック 生歌で歌ってみた【#一条莉々華 #Shorts #hololivedev_is #ReGLOSS】
-UID:-sUChtForH4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【バイオ８/DLC】ローズ編！！Resident Evil Village:Shadows of Rose※ネタバレあり【轟はじめ/ReGLOSS】#hololivedev_is\nhttps://www.youtube.com/watch?v=Iuiq0M71HMM
 DURATION:PT2H
 DTSTART:20240812T050000Z
 SUMMARY:轟はじめ: 【バイオ８/DLC】ローズ編！！Resident Evil Village:Shadows of Rose※ネタバレあり【轟はじめ/ReGLOSS】#hololivedev_is
 UID:Iuiq0M71HMM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【56日後に3D化の夢を叶えたい🎶】ヒッチコック 生歌で歌ってみた【#一条莉々華 #Shorts #hololivedev_is #ReGLOSS】\nhttps://www.youtube.com/watch?v=-sUChtForH4
+DURATION:PT2H
+DTSTART:20240812T030001Z
+SUMMARY:一条莉々華: 【56日後に3D化の夢を叶えたい🎶】ヒッチコック 生歌で歌ってみた【#一条莉々華 #Shorts #hololivedev_is #ReGLOSS】
+UID:-sUChtForH4
 END:VEVENT
 END:VCALENDAR
