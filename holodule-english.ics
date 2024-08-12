@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:≪#BAEBISleepover≫ How dead will Bae be?\nhttps://www.youtube.com/watch?v=rWL7HXdVYvQ
-DURATION:PT2H
-DTSTART:20240811T230000Z
-SUMMARY:Baelz: ≪#BAEBISleepover≫ How dead will Bae be?
-UID:rWL7HXdVYvQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:reaper’s night routine #shorts #anime #animation #vtuber #hololive\nhttps://www.youtube.com/watch?v=TNukpQS7LMY
 DURATION:PT2H
 DTSTART:20240811T200906Z
@@ -95,11 +88,11 @@ SUMMARY:Bijou: 【MOVIE NIGHT】REDLINE WATCHALONG #BAEBISleepOver
 UID:lopZYsUlvVs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FACTORIO】Automaton automates automation!! #hololiveenglish\nhttps://www.youtube.com/watch?v=_2KAnHNjZiI
+DESCRIPTION:≪#BAEBISleepover≫ How dead will Bae be?\nhttps://www.youtube.com/watch?v=rWL7HXdVYvQ
 DURATION:PT2H
-DTSTART:20240811T180000Z
-SUMMARY:Cecilia: 【FACTORIO】Automaton automates automation!! #hololiveenglish
-UID:_2KAnHNjZiI
+DTSTART:20240811T230000Z
+SUMMARY:Baelz: ≪#BAEBISleepover≫ How dead will Bae be?
+UID:rWL7HXdVYvQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Oblivion】Hero of Kvatch (Bowson) goes to Shivering Isles! (DLC TIME)\nhttps://www.youtube.com/watch?v=sgfit9r6A1I
@@ -107,5 +100,19 @@ DURATION:PT2H
 DTSTART:20240812T010500Z
 SUMMARY:Amelia: 【Oblivion】Hero of Kvatch (Bowson) goes to Shivering Isles! (DLC TIME)
 UID:sgfit9r6A1I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【still picking game...】GAME TIME! STREAM TIME! #hololiveenglish\nhttps://www.youtube.com/watch?v=kpRY4fMx0Ik
+DURATION:PT2H
+DTSTART:20240812T190000Z
+SUMMARY:Cecilia: 【still picking game...】GAME TIME! STREAM TIME! #hololiveenglish
+UID:kpRY4fMx0Ik
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FACTORIO】Automaton automates automation!! #hololiveenglish\nhttps://www.youtube.com/watch?v=_2KAnHNjZiI
+DURATION:PT2H
+DTSTART:20240811T180000Z
+SUMMARY:Cecilia: 【FACTORIO】Automaton automates automation!! #hololiveenglish
+UID:_2KAnHNjZiI
 END:VEVENT
 END:VCALENDAR
