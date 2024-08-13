@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Raisond'etre】unboxing video.\nhttps://www.youtube.com/watch?v=rPKgTdMkEU4
+DESCRIPTION:【ZOMILY WATCHALONG】WATCHING "THE CONJURING"- THIS COUNTS AS A TEST OF COURAGE\, RIGHT?【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=FrYT_eztK24
+DURATION:PT2H
+DTSTART:20240812T125927Z
+SUMMARY:Ollie: 【ZOMILY WATCHALONG】WATCHING "THE CONJURING"- THIS COUNTS AS A TEST OF COURAGE\, RIGHT?【Kureiji Ollie】
+UID:FrYT_eztK24
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Chained Together】we will be fine\, they said.【hololive】\nhttps://www.youtube.com/watch?v=AV9-4GnrGfM
 DURATION:PT2H
 DTSTART:20240812T140000Z
-SUMMARY:Zeta: 【Raisond'etre】unboxing video.
-UID:rPKgTdMkEU4
+SUMMARY:Kaela: 【Chained Together】we will be fine\, they said.【hololive】
+UID:AV9-4GnrGfM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Hollow Knight】LET'S CONTINUE !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=VR7CbhECe90
+DURATION:PT2H
+DTSTART:20240813T083000Z
+SUMMARY:🐿Risu: 【Hollow Knight】LET'S CONTINUE !!!【Ayunda Risu】
+UID:VR7CbhECe90
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【M.M.M.】Monday Morning Malas : Let's just be malas【Ayunda Risu】\nhttps://www.youtube.com/watch?v=Kvq0N4olfAw
@@ -25,11 +39,11 @@ SUMMARY:Kaela: 【PEJUANG SENIN】#81 barely surviving... but never gonna give y
 UID:KoLE8PV2Ygs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Hollow Knight】LET'S CONTINUE !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=VR7CbhECe90
+DESCRIPTION:【Raisond'etre】unboxing video.\nhttps://www.youtube.com/watch?v=rPKgTdMkEU4
 DURATION:PT2H
-DTSTART:20240813T083000Z
-SUMMARY:🐿Risu: 【Hollow Knight】LET'S CONTINUE !!!【Ayunda Risu】
-UID:VR7CbhECe90
+DTSTART:20240812T140000Z
+SUMMARY:Zeta: 【Raisond'etre】unboxing video.
+UID:rPKgTdMkEU4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Senin Produktif is back! Let's Draw\nhttps://www.youtube.com/watch?v=xpZFEbm5QVQ
@@ -39,17 +53,10 @@ SUMMARY:🎨Iofi: Senin Produktif is back! Let's Draw
 UID:xpZFEbm5QVQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ZOMILY WATCHALONG】WATCHING "THE CONJURING"- THIS COUNTS AS A TEST OF COURAGE\, RIGHT?【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=FrYT_eztK24
+DESCRIPTION:【Fate/stay night REMASTERED】Part 2\; Saber | SPOILER【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=VrHtXDIpGe4
 DURATION:PT2H
-DTSTART:20240812T125927Z
-SUMMARY:Ollie: 【ZOMILY WATCHALONG】WATCHING "THE CONJURING"- THIS COUNTS AS A TEST OF COURAGE\, RIGHT?【Kureiji Ollie】
-UID:FrYT_eztK24
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Chained Together】we will be fine\, they said.【hololive】\nhttps://www.youtube.com/watch?v=AV9-4GnrGfM
-DURATION:PT2H
-DTSTART:20240812T140000Z
-SUMMARY:Kaela: 【Chained Together】we will be fine\, they said.【hololive】
-UID:AV9-4GnrGfM
+DTSTART:20240813T130000Z
+SUMMARY:🎨Iofi: 【Fate/stay night REMASTERED】Part 2\; Saber | SPOILER【 iofi / hololiveID 】
+UID:VrHtXDIpGe4
 END:VEVENT
 END:VCALENDAR
