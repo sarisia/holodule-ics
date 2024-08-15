@@ -67,18 +67,18 @@ SUMMARY:👯兎田ぺこら: 【メンバー限定】そうだ、そうめん食
 UID:0VUQjTLYOb0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #カゲマス 】浴衣イベントきた～！本日実装のエリザベートをガチャでGETする✨石プレチャレンジもあり♪【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=ttPvdXJDAHw
-DURATION:PT2H
-DTSTART:20240815T100000Z
-SUMMARY:鷹嶺ルイ: 【 #カゲマス 】浴衣イベントきた～！本日実装のエリザベートをガチャでGETする✨石プレチャレンジもあり♪【鷹嶺ルイ/ホロライブ】
-UID:ttPvdXJDAHw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ホロ7DTD 】４９日間をみんなで生き抜いていく！！　DAY４～【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=rcuJlfxaENY
 DURATION:PT2H
 DTSTART:20240815T100000Z
 SUMMARY:🌽白上フブキ: 【#ホロ7DTD 】４９日間をみんなで生き抜いていく！！　DAY４～【ホロライブ/白上フブキ】
 UID:rcuJlfxaENY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【配信予定】ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=8XvSb8WGmDw
+DURATION:PT2H
+DTSTART:20240815T120000Z
+SUMMARY:👯兎田ぺこら: 【配信予定】ぺこ！【ホロライブ/兎田ぺこら】
+UID:8XvSb8WGmDw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ビル街で #ひみつのおしごと 踊ってみた！ #shorts\nhttps://www.youtube.com/watch?v=2xK1awrhgjg
@@ -100,13 +100,6 @@ DURATION:PT2H
 DTSTART:20240815T130000Z
 SUMMARY:⚓湊あくあ: 【お宝マウンテン】巷で噂のホロライブお宝マウンテンやってみる！【湊あくあ/ホロライブ】
 UID:OCm3YTKz7r4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【配信予定】ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=8XvSb8WGmDw
-DURATION:PT2H
-DTSTART:20240815T120000Z
-SUMMARY:👯兎田ぺこら: 【配信予定】ぺこ！【ホロライブ/兎田ぺこら】
-UID:8XvSb8WGmDw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:「ブルーバード/いきものがかり」ボイトレ前と後で比較してみた！【博衣こより/ホロライブ】 #shorts #比較 #ボイトレ #ホロライブ切り抜き\nhttps://www.youtube.com/watch?v=1ZBL-ighikM
@@ -233,6 +226,13 @@ DURATION:PT2H
 DTSTART:20240815T100000Z
 SUMMARY:尾丸ポルカ: 【ポルカの伝説】儒烏風亭らでんを暴け
 UID:FMRvzI4K9aE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:POKÉDANCEねぽらぼ4人で踊ってみた！　#shorts #ポケダンス #ねぽらぼファンミ2024\nhttps://www.youtube.com/watch?v=yz4-2o88uZ0
+DURATION:PT2H
+DTSTART:20240815T100106Z
+SUMMARY:ホロライブ: POKÉDANCEねぽらぼ4人で踊ってみた！　#shorts #ポケダンス #ねぽらぼファンミ2024
+UID:yz4-2o88uZ0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ペーパーマリオRPG】新たな世界へ！高級な町！？【ホロライブ/ときのそら】\nhttps://www.youtube.com/watch?v=mXFjhSeEFIE
@@ -408,6 +408,13 @@ DURATION:PT2H
 DTSTART:20240814T100000Z
 SUMMARY:🚑大空スバル: 【＃生スバル】噂のホロライブ！お宝マウンテン！！をやってみるしゅばああああああああああああああああああ【ホロライブ/大空スバル】
 UID:ng6vwsNj0-I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #カゲマス 】浴衣イベントきた～！本日実装のエリザベートをガチャでGETする✨石プレチャレンジもあり♪【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=ttPvdXJDAHw
+DURATION:PT2H
+DTSTART:20240815T100000Z
+SUMMARY:鷹嶺ルイ: 【 #カゲマス 】浴衣イベントきた～！本日実装のエリザベートをガチャでGETする✨石プレチャレンジもあり♪【鷹嶺ルイ/ホロライブ】
+UID:ttPvdXJDAHw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【初主題歌】「おかえりなさい」MVを見ていこう！！【ホロライブ/ときのそら】\nhttps://www.youtube.com/watch?v=Yf5UGCABiUs
