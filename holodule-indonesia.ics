@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【HOLOLIVE QUIZ CALL-INs】HOW WELL VERSED ARE YOU WITH HOLOLIVE?? + ANNOUNCEMENT【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=gq1SouMr6lo
+DURATION:PT2H
+DTSTART:20240820T082814Z
+SUMMARY:Ollie: 【HOLOLIVE QUIZ CALL-INs】HOW WELL VERSED ARE YOU WITH HOLOLIVE?? + ANNOUNCEMENT【Kureiji Ollie】
+UID:gq1SouMr6lo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Sticky Terms】lets learn new words!【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=VhP4qxxY4Ms
+DURATION:PT2H
+DTSTART:20240819T151500Z
+SUMMARY:Kaela: 【Sticky Terms】lets learn new words!【Kaela Kovalskia / hololiveID】
+UID:VhP4qxxY4Ms
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Senin Produktif ! Drawing Aqua-paisen\nhttps://www.youtube.com/watch?v=71eFSv0gfkI
 DURATION:PT2H
 DTSTART:20240819T130000Z
@@ -39,17 +53,10 @@ SUMMARY:Zeta: 【Fishing Planet】Man I Love Fishing 🐟
 UID:NRrlCyw5dSg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【HOLOLIVE QUIZ CALL-INs】HOW WELL VERSED ARE YOU WITH HOLOLIVE?? + ANNOUNCEMENT【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=gq1SouMr6lo
+DESCRIPTION:【Movie Night】Nobita's New Dinosaur (2020)\nhttps://www.youtube.com/watch?v=WPJDYwQLazE
 DURATION:PT2H
-DTSTART:20240820T082814Z
-SUMMARY:Ollie: 【HOLOLIVE QUIZ CALL-INs】HOW WELL VERSED ARE YOU WITH HOLOLIVE?? + ANNOUNCEMENT【Kureiji Ollie】
-UID:gq1SouMr6lo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Sticky Terms】lets learn new words!【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=VhP4qxxY4Ms
-DURATION:PT2H
-DTSTART:20240819T151500Z
-SUMMARY:Kaela: 【Sticky Terms】lets learn new words!【Kaela Kovalskia / hololiveID】
-UID:VhP4qxxY4Ms
+DTSTART:20240820T130000Z
+SUMMARY:Zeta: 【Movie Night】Nobita's New Dinosaur (2020)
+UID:WPJDYwQLazE
 END:VEVENT
 END:VCALENDAR
