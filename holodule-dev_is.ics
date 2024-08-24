@@ -4,27 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【実写】ReGLOSSリアル麻雀対決！【 #リグこよリアル麻雀】\nhttps://www.youtube.com/watch?v=wdevmI03xzQ
-DURATION:PT2H
-DTSTART:20240824T080000Z
-SUMMARY:DEV_IShololive: 【実写】ReGLOSSリアル麻雀対決！【 #リグこよリアル麻雀】
-UID:wdevmI03xzQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#泡沫メイビー  サビだけ歌ってみた！ #shorts  #ReGLOSS #一条莉々華 #MIXなし\nhttps://www.youtube.com/watch?v=5d2djqK9sY0
-DURATION:PT2H
-DTSTART:20240823T100007Z
-SUMMARY:DEV_IShololive: #泡沫メイビー  サビだけ歌ってみた！ #shorts  #ReGLOSS #一条莉々華 #MIXなし
-UID:5d2djqK9sY0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【世界一ゆるい雑談】#ちょろでんずし でゆるく喋ってます【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=BUBn0v7PZ24
-DURATION:PT2H
-DTSTART:20240823T133000Z
-SUMMARY:儒烏風亭らでん: 【世界一ゆるい雑談】#ちょろでんずし でゆるく喋ってます【儒烏風亭らでん #ReGLOSS 】
-UID:BUBn0v7PZ24
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【初見レトロゲー】スーパードンキーコングクリア耐久✨【一条莉々華/hololive DEV_IS　ReGLOSS】\nhttps://www.youtube.com/watch?v=2gcOLqy_UYQ
 DURATION:PT2H
 DTSTART:20240824T040000Z
@@ -37,13 +16,6 @@ DURATION:PT2H
 DTSTART:20240825T030000Z
 SUMMARY:火威青: 【親孝行】ママくゆいつもありがとう【火威青 】#hololiveDEV_IS #ReGLOSS
 UID:bHyYOQGs-JY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【同時視聴】完全初見、コマンドー！！！！見るっ！！！【一条莉々華/hololive DEV_IS　ReGLOSS】\nhttps://www.youtube.com/watch?v=-05n3DBX_oU
-DURATION:PT2H
-DTSTART:20240823T130000Z
-SUMMARY:一条莉々華: 【同時視聴】完全初見、コマンドー！！！！見るっ！！！【一条莉々華/hololive DEV_IS　ReGLOSS】
-UID:-05n3DBX_oU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:「青と夏」 - 音乃瀬奏（cover）\nhttps://www.youtube.com/watch?v=FnAk_ZGfvdw
@@ -60,20 +32,6 @@ SUMMARY:火威青: 【ホロライブ お宝マウンテン 】緊急ゲリラ�
 UID:pfgHXdoejzc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【特別映像】#ReGLOSS SPECIAL LIVE！【YouTube Music Weekend 8.0】\nhttps://www.youtube.com/watch?v=8vcIrVOex70
-DURATION:PT2H
-DTSTART:20240823T065500Z
-SUMMARY:DEV_IShololive: 【特別映像】#ReGLOSS SPECIAL LIVE！【YouTube Music Weekend 8.0】
-UID:8vcIrVOex70
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【45日後に3D化の夢を叶えたい🎶】POP STAR 生歌で歌ってみた【#一条莉々華 #Shorts #hololivedev_is #ReGLOSS】\nhttps://www.youtube.com/watch?v=f2Lrc-jBE1E
-DURATION:PT2H
-DTSTART:20240823T030033Z
-SUMMARY:一条莉々華: 【45日後に3D化の夢を叶えたい🎶】POP STAR 生歌で歌ってみた【#一条莉々華 #Shorts #hololivedev_is #ReGLOSS】
-UID:f2Lrc-jBE1E
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【44日後に3D化の夢を叶えたい🎶】雪の華 生歌で歌ってみた【#一条莉々華 #Shorts #hololivedev_is #ReGLOSS】\nhttps://www.youtube.com/watch?v=bDPbQ-PXH2o
 DURATION:PT2H
 DTSTART:20240824T030029Z
@@ -81,25 +39,18 @@ SUMMARY:一条莉々華: 【44日後に3D化の夢を叶えたい🎶】雪の�
 UID:bDPbQ-PXH2o
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【実写】ReGLOSSリアル麻雀対決！【 #リグこよリアル麻雀】\nhttps://www.youtube.com/watch?v=wdevmI03xzQ
+DURATION:PT2H
+DTSTART:20240824T080000Z
+SUMMARY:DEV_IShololive: 【実写】ReGLOSSリアル麻雀対決！【 #リグこよリアル麻雀】
+UID:wdevmI03xzQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌枠】#ルイらで歌枠 ルイ姉！一緒に歌いましょう！！【儒烏風亭らでん/鷹嶺ルイ】\nhttps://www.youtube.com/watch?v=_WJKm5zed-o
 DURATION:PT2H
 DTSTART:20240824T120000Z
 SUMMARY:儒烏風亭らでん: 【歌枠】#ルイらで歌枠 ルイ姉！一緒に歌いましょう！！【儒烏風亭らでん/鷹嶺ルイ】
 UID:_WJKm5zed-o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#あおりりお嬢様凸待ち】取り巻き嬢青とお嬢様凸待ち【一条莉々華/hololive DEV_IS　ReGLOSS】\nhttps://www.youtube.com/watch?v=J5-FNXLdfz0
-DURATION:PT2H
-DTSTART:20240823T120000Z
-SUMMARY:一条莉々華: 【#あおりりお嬢様凸待ち】取り巻き嬢青とお嬢様凸待ち【一条莉々華/hololive DEV_IS　ReGLOSS】
-UID:J5-FNXLdfz0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ホロライブ お宝マウンテン 】青くん実装⁉Wイケメン狙います！【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=q8rdPFJ8Pm8
-DURATION:PT2H
-DTSTART:20240823T030000Z
-SUMMARY:火威青: 【ホロライブ お宝マウンテン 】青くん実装⁉Wイケメン狙います！【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:q8rdPFJ8Pm8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スト6 day1】 SLEEP FIGHTER 【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=GkXGFssQ1zk
