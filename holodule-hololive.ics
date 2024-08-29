@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【配信予定地】かなたそなにする【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=aSrwoWrZuTE
+DURATION:PT2H
+DTSTART:20240829T100000Z
+SUMMARY:💫天音かなた: 【配信予定地】かなたそなにする【天音かなた/ホロライブ】
+UID:aSrwoWrZuTE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:みこちが #絶対アイドル辞めないで 踊ってみた🤍そう想ってもらえるアイドルになる！#shorts #=LOVE\nhttps://www.youtube.com/watch?v=4XwLAXYEZWY
 DURATION:PT2H
 DTSTART:20240828T090003Z
@@ -128,6 +135,13 @@ DURATION:PT2H
 DTSTART:20240828T150000Z
 SUMMARY:🌙紫咲シオン: 【雑談】ちょっとおしゃべりしよ。【ホロライブ/紫咲シオン】
 UID:6z1ml7At5vg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ポルカの伝説】待って、ホロメンって朝飯食べるの？\nhttps://www.youtube.com/watch?v=1VemUxnmhyM
+DURATION:PT2H
+DTSTART:20240829T100000Z
+SUMMARY:尾丸ポルカ: 【ポルカの伝説】待って、ホロメンって朝飯食べるの？
+UID:1VemUxnmhyM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【お宝マウンテン】あくたん出すぞ！！！！【 雪花ラミィ /ホロライブ】\nhttps://www.youtube.com/watch?v=gAlptdED75k
