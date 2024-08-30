@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#ENreco】ENigmatic Recollection Launch Party【#hololiveEN】\nhttps://www.youtube.com/watch?v=vo0Xw_Kg98A
-DURATION:PT2H
-DTSTART:20240831T020000Z
-SUMMARY:ENholo: 【#ENreco】ENigmatic Recollection Launch Party【#hololiveEN】
-UID:vo0Xw_Kg98A
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【GRAND THEFT AUTO】THE LEGEND OF MONKI: GOING BANANAS RELOADED #VTRP\nhttps://www.youtube.com/watch?v=p4n9AxHUPQ4
 DURATION:PT2H
 DTSTART:20240829T011500Z
@@ -212,6 +205,13 @@ DURATION:PT2H
 DTSTART:20240830T230000Z
 SUMMARY:Flayon: 「UNARCHIVED KARAOKE」I Enjoy Singing\, I Like To Laugh & Play
 UID:ER6NNZisZ2M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【重大告知アリ】総勢4800人にすいちゃんのイメージ聞いてみた！【⁠⁠星街すいせいのイメージ大調査】\nhttps://www.youtube.com/watch?v=co1CL0OXsXg
+DURATION:PT2H
+DTSTART:20240831T110000Z
+SUMMARY:☄星街すいせい: 【重大告知アリ】総勢4800人にすいちゃんのイメージ聞いてみた！【⁠⁠星街すいせいのイメージ大調査】
+UID:co1CL0OXsXg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Bling-Bang-Bang-Born - covered by Jurard T Rexford　【歌ってみた】\nhttps://www.youtube.com/watch?v=WZsI7SkzhT4
@@ -457,6 +457,13 @@ DURATION:PT2H
 DTSTART:20240830T080000Z
 SUMMARY:ホロライブ: 【メン限】8月の終わりに雑談しつつ、お宝マウンテンで10000点超えを目指す！【春先のどか/ホロライブ】
 UID:p_8088EbpN8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【朝活雑談】【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=c-zWPoDcDPI
+DURATION:PT2H
+DTSTART:20240830T220000Z
+SUMMARY:⚔白銀ノエル: 【朝活雑談】【白銀ノエル/ホロライブ】
+UID:c-zWPoDcDPI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:※これは部屋を見せていただく企画です#ポルカの伝説 #尾丸ポルカ\nhttps://www.youtube.com/watch?v=_Tnv_iSe8WY
@@ -949,11 +956,11 @@ SUMMARY:鷹嶺ルイ: 【 昼雑談 】久々にごはん食べながらお話�
 UID:_hzYsTNlMBs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【都道府県】47都道府県チャレンジするぞお！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=UHM9liZSbYA
+DESCRIPTION:【メン限】予定地【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=x-65VHDAA1o
 DURATION:PT2H
-DTSTART:20240830T160000Z
-SUMMARY:🐏角巻わため: 【都道府県】47都道府県チャレンジするぞお！！！【角巻わため/ホロライブ４期生】
-UID:UHM9liZSbYA
+DTSTART:20240830T100000Z
+SUMMARY:🍷夕刻ロベル: 【メン限】予定地【夕刻ロベル/ホロスターズ】
+UID:x-65VHDAA1o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ストリートファイター6】20時からスト6の配信するからそれまでスト6の配信しよっと!!!【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=xEDW3oOQhmc
@@ -975,6 +982,13 @@ DURATION:PT2H
 DTSTART:20240829T090000Z
 SUMMARY:火威青: 【初心者スト6 day4】 これがヨガのコンボだ【火威青 】#hololiveDEV_IS #ReGLOSS
 UID:d-M_HfJx8Hc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【都道府県】47都道府県チャレンジするぞお！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=UHM9liZSbYA
+DURATION:PT2H
+DTSTART:20240830T160000Z
+SUMMARY:🐏角巻わため: 【都道府県】47都道府県チャレンジするぞお！！！【角巻わため/ホロライブ４期生】
+UID:UHM9liZSbYA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#生スバル】メンバー限定配信　ダンスレッスン！！！ / member only dance stream【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=a-bpuFpa3-c
