@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【The Witcher 3 Part #6】Gwent is Our Main Quest【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=SHmAT_ozkmk
-DURATION:PT2H
-DTSTART:20240829T130000Z
-SUMMARY:🎨Iofi: 【The Witcher 3 Part #6】Gwent is Our Main Quest【 iofi / hololiveID 】
-UID:SHmAT_ozkmk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#AstonishinglyKAEOTIC COUNTDOWN】i have cooked so much! come\, look! :)【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=Gleq0KYDQWM
 DURATION:PT2H
 DTSTART:20240829T153000Z
@@ -53,18 +46,18 @@ SUMMARY:🎨Iofi: ちゅちゅちゅちゅちゅちゅするだけの配信
 UID:ANraOAHb6Lk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Murky Divers】We Will Not Drown #ふれあいんなにゃ にまたゴミ拾うお仕事がやってきたぞ！【hololive ID 2nd Gen | Anya Melfissa】\nhttps://www.youtube.com/watch?v=hNNz2LZffJw
-DURATION:PT2H
-DTSTART:20240830T130000Z
-SUMMARY:Anya: 【Murky Divers】We Will Not Drown #ふれあいんなにゃ にまたゴミ拾うお仕事がやってきたぞ！【hololive ID 2nd Gen | Anya Melfissa】
-UID:hNNz2LZffJw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Minecraft #AstonishinglyKAEOTIC】How Chaotic? Only One Way to Find Out!【hololive ID | Anya Melfissa】\nhttps://www.youtube.com/watch?v=hVMuh_PQfsY
 DURATION:PT2H
 DTSTART:20240830T030000Z
 SUMMARY:Anya: 【Minecraft #AstonishinglyKAEOTIC】How Chaotic? Only One Way to Find Out!【hololive ID | Anya Melfissa】
 UID:hVMuh_PQfsY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Murky Divers】We Will Not Drown #ふれあいんなにゃ にまたゴミ拾うお仕事がやってきたぞ！【hololive ID 2nd Gen | Anya Melfissa】\nhttps://www.youtube.com/watch?v=hNNz2LZffJw
+DURATION:PT2H
+DTSTART:20240830T130000Z
+SUMMARY:Anya: 【Murky Divers】We Will Not Drown #ふれあいんなにゃ にまたゴミ拾うお仕事がやってきたぞ！【hololive ID 2nd Gen | Anya Melfissa】
+UID:hNNz2LZffJw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】testing my 0 luck!!! (yes that's a feesh) #AstonishinglyKAEOTIC\nhttps://www.youtube.com/watch?v=CQsc_ynVVoE
@@ -74,39 +67,11 @@ SUMMARY:Zeta: 【Minecraft】testing my 0 luck!!! (yes that's a feesh) #Astonish
 UID:CQsc_ynVVoE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Menari lagu Tokecang bersama Moona #shorts\nhttps://www.youtube.com/watch?v=Bc88CmS02xQ
-DURATION:PT2H
-DTSTART:20240829T083847Z
-SUMMARY:🔮Moona: Menari lagu Tokecang bersama Moona #shorts
-UID:Bc88CmS02xQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【TRAILER】 #AstonishinglyKAEOTIC\nhttps://www.youtube.com/watch?v=kibtfUMpBDA
 DURATION:PT2H
 DTSTART:20240829T160733Z
 SUMMARY:Kaela: 【TRAILER】 #AstonishinglyKAEOTIC
 UID:kibtfUMpBDA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Rental】Wow! This Cabin Looks So Comfy!【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=N0JZTHbPtCQ
-DURATION:PT2H
-DTSTART:20240829T120000Z
-SUMMARY:Anya: 【Rental】Wow! This Cabin Looks So Comfy!【hololive ID 2nd Generation | Anya Melfissa】
-UID:N0JZTHbPtCQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【CATHERINE FULL BODY】Three Girls One Sheep 💅 (SPOILERS!)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=SeTRrM6CdLM
-DURATION:PT2H
-DTSTART:20240829T130000Z
-SUMMARY:Reine: 【CATHERINE FULL BODY】Three Girls One Sheep 💅 (SPOILERS!)【Pavolia Reine/hololiveID 2nd gen】
-UID:SeTRrM6CdLM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Overwatch 2】watashi zeta\nhttps://www.youtube.com/watch?v=xLVMR3ZH9ZU
-DURATION:PT2H
-DTSTART:20240829T130000Z
-SUMMARY:Zeta: 【Overwatch 2】watashi zeta
-UID:xLVMR3ZH9ZU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【IMPERSONATION STREAM】I Know My Genmates Very Well 【Pavolia Reine/hololiveID】\nhttps://www.youtube.com/watch?v=XDcORx1A0zE
@@ -128,20 +93,6 @@ DURATION:PT2H
 DTSTART:20240830T030000Z
 SUMMARY:Reine: 【Minecraft #AstonishinglyKAEOTIC】TEAM D - KAELA DAYYYY WHIP IT 【Pavolia Reine/hololiveID】
 UID:GNYpGIu-Tl4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Coral Island】First Play !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=N_H1dW01XRM
-DURATION:PT2H
-DTSTART:20240829T110000Z
-SUMMARY:🐿Risu: 【Coral Island】First Play !!!【Ayunda Risu】
-UID:N_H1dW01XRM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【OVERWATCH 2】udah lama gak main\, mabar gak sih?【holoID】\nhttps://www.youtube.com/watch?v=zfL2aXE0vHI
-DURATION:PT2H
-DTSTART:20240829T130000Z
-SUMMARY:🔮Moona: 【OVERWATCH 2】udah lama gak main\, mabar gak sih?【holoID】
-UID:zfL2aXE0vHI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#AstonishinglyKAEOTIC】this is a beautiful chaos that i will cherish all of my life【hololive】\nhttps://www.youtube.com/watch?v=7D5U9y5xB2A
