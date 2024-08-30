@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【初心者スト6 day4】 これがヨガのコンボだ【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=d-M_HfJx8Hc
-DURATION:PT2H
-DTSTART:20240829T090000Z
-SUMMARY:火威青: 【初心者スト6 day4】 これがヨガのコンボだ【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:d-M_HfJx8Hc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【配信切り抜き】あつ森でついにたぬきちの本質に気づいた配信者【儒烏風亭らでん】#shorts\nhttps://www.youtube.com/watch?v=FqNm2A2-4YM
 DURATION:PT2H
 DTSTART:20240830T080916Z
@@ -74,18 +67,18 @@ SUMMARY:一条莉々華: 【ホロマダミス 一条莉々華視点】マーダ
 UID:zRwJNeZBOq0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:絶絶絶絶対聖域 / cover #ReGLOSS #音乃瀬奏 #一条莉々華 #歌ってみた #リグ部屋 #shorts\nhttps://www.youtube.com/watch?v=7zX4DpwLFP8
+DURATION:PT2H
+DTSTART:20240830T090007Z
+SUMMARY:DEV_IShololive: 絶絶絶絶対聖域 / cover #ReGLOSS #音乃瀬奏 #一条莉々華 #歌ってみた #リグ部屋 #shorts
+UID:7zX4DpwLFP8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 儒烏風亭らでん視点 】マーダーミステリー『「豪華客船イクリプス殺人事件」-名探偵の競演-』【＃ホロミステリーライブ 】\nhttps://www.youtube.com/watch?v=adq-Njc4u9U
 DURATION:PT2H
 DTSTART:20240829T100000Z
 SUMMARY:儒烏風亭らでん: 【 儒烏風亭らでん視点 】マーダーミステリー『「豪華客船イクリプス殺人事件」-名探偵の競演-』【＃ホロミステリーライブ 】
 UID:adq-Njc4u9U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【50万人記念】お披露目盛沢山！✨キミに特別なプレゼントだよ！【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=uAuYORVxiEk
-DURATION:PT2H
-DTSTART:20240830T100000Z
-SUMMARY:火威青: 【50万人記念】お披露目盛沢山！✨キミに特別なプレゼントだよ！【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:uAuYORVxiEk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】新しいマイクを見てほしい！好きな曲を歌う【轟はじめ/ReGLOSS】\nhttps://www.youtube.com/watch?v=zWSCL0rlNV0
@@ -95,17 +88,31 @@ SUMMARY:轟はじめ: 【歌枠】新しいマイクを見てほしい！好き�
 UID:zWSCL0rlNV0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【50万人耐久】24時間で奇跡を起こしたい…！！ part2 歌枠！！！【一条莉々華/hololive DEV_IS　ReGLOSS】\nhttps://www.youtube.com/watch?v=Z9K63msSwJg
-DURATION:PT2H
-DTSTART:20240830T100000Z
-SUMMARY:一条莉々華: 【50万人耐久】24時間で奇跡を起こしたい…！！ part2 歌枠！！！【一条莉々華/hololive DEV_IS　ReGLOSS】
-UID:Z9K63msSwJg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【50万人耐久 スーパーマリオ】24時間の奇跡をつかんでみせる…！part1はゲーム！！！【一条莉々華/hololive DEV_IS　ReGLOSS】\nhttps://www.youtube.com/watch?v=v3_DEPooif8
 DURATION:PT2H
 DTSTART:20240829T220000Z
 SUMMARY:一条莉々華: 【50万人耐久 スーパーマリオ】24時間の奇跡をつかんでみせる…！part1はゲーム！！！【一条莉々華/hololive DEV_IS　ReGLOSS】
 UID:v3_DEPooif8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【初心者スト6 day4】 これがヨガのコンボだ【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=d-M_HfJx8Hc
+DURATION:PT2H
+DTSTART:20240829T090000Z
+SUMMARY:火威青: 【初心者スト6 day4】 これがヨガのコンボだ【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:d-M_HfJx8Hc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【50万人記念】お披露目盛沢山！✨キミに特別なプレゼントだよ！【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=uAuYORVxiEk
+DURATION:PT2H
+DTSTART:20240830T100000Z
+SUMMARY:火威青: 【50万人記念】お披露目盛沢山！✨キミに特別なプレゼントだよ！【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:uAuYORVxiEk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【50万人耐久】24時間で奇跡を起こしたい…！！ part2 歌枠！！！【一条莉々華/hololive DEV_IS　ReGLOSS】\nhttps://www.youtube.com/watch?v=Z9K63msSwJg
+DURATION:PT2H
+DTSTART:20240830T100000Z
+SUMMARY:一条莉々華: 【50万人耐久】24時間で奇跡を起こしたい…！！ part2 歌枠！！！【一条莉々華/hololive DEV_IS　ReGLOSS】
+UID:Z9K63msSwJg
 END:VEVENT
 END:VCALENDAR
