@@ -4,32 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Peppa Pig: World Adventures】The Joyous and Splendid Pig-related Adventures\nhttps://www.youtube.com/watch?v=wEiCWRlAVeo
-DURATION:PT2H
-DTSTART:20240829T170000Z
-SUMMARY:Goldbullet: 【Peppa Pig: World Adventures】The Joyous and Splendid Pig-related Adventures
-UID:wEiCWRlAVeo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Bling-Bang-Bang-Born - covered by Jurard T Rexford　【歌ってみた】\nhttps://www.youtube.com/watch?v=WZsI7SkzhT4
-DURATION:PT2H
-DTSTART:20240830T020000Z
-SUMMARY:Jurard: Bling-Bang-Bang-Born - covered by Jurard T Rexford　【歌ってみた】
-UID:WZsI7SkzhT4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Little Lady by the Fire\nhttps://www.youtube.com/watch?v=mzHce5m18KA
 DURATION:PT2H
 DTSTART:20240831T143452Z
 SUMMARY:Crimzon: Little Lady by the Fire
 UID:mzHce5m18KA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 GTA V #VTRP】6 - Living a quiet\, peaceful life in a grateful universe...\nhttps://www.youtube.com/watch?v=ti-8RzucrGQ
-DURATION:PT2H
-DTSTART:20240831T043500Z
-SUMMARY:Shinri: 【 GTA V #VTRP】6 - Living a quiet\, peaceful life in a grateful universe...
-UID:ti-8RzucrGQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GRAND THEFT AUTO 5】I PREPARED THE CENSORS THIS TIME\nhttps://www.youtube.com/watch?v=rAw-A_9Yg_E
@@ -39,18 +18,18 @@ SUMMARY:Jurard: 【GRAND THEFT AUTO 5】I PREPARED THE CENSORS THIS TIME
 UID:rAw-A_9Yg_E
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 GTA V #VTRP】6 - Living a quiet\, peaceful life in a grateful universe...\nhttps://www.youtube.com/watch?v=ti-8RzucrGQ
+DURATION:PT2H
+DTSTART:20240831T043500Z
+SUMMARY:Shinri: 【 GTA V #VTRP】6 - Living a quiet\, peaceful life in a grateful universe...
+UID:ti-8RzucrGQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【TierMaker】The 100% Definitive Opinion Edition\nhttps://www.youtube.com/watch?v=mQz395gttPQ
 DURATION:PT2H
 DTSTART:20240831T150000Z
 SUMMARY:Goldbullet: 【TierMaker】The 100% Definitive Opinion Edition
 UID:mQz395gttPQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:[WEEK IN REVIEW] WHAT EVEN ARE THE RULES ANYMORE? #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=EfQ2Q0WzRug
-DURATION:PT2H
-DTSTART:20240829T210000Z
-SUMMARY:Bettel: [WEEK IN REVIEW] WHAT EVEN ARE THE RULES ANYMORE? #gavisbettel #holotempus
-UID:EfQ2Q0WzRug
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Membership!】Some more spookies!!\nhttps://www.youtube.com/watch?v=2EU5pj69f_E
@@ -79,12 +58,5 @@ DURATION:PT2H
 DTSTART:20240831T000000Z
 SUMMARY:Hakka: 【MEMBERSHIP】It's been a while since we've had one of these !【ZATSUDAN】
 UID:eYYd1x6KVKQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【COVER AFTER PARTY】HAPPY 120K and 9 MONTHS\nhttps://www.youtube.com/watch?v=aggVsP6ki14
-DURATION:PT2H
-DTSTART:20240830T020500Z
-SUMMARY:Jurard: 【COVER AFTER PARTY】HAPPY 120K and 9 MONTHS
-UID:aggVsP6ki14
 END:VEVENT
 END:VCALENDAR
