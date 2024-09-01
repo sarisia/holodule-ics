@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【 #ホロ7DTD 】49日間生き残れ…！｜12日目参戦🔥【 猫又おかゆ視点/ホロライブ 】\nhttps://www.youtube.com/watch?v=txcpS1DetZ4
+DURATION:PT2H
+DTSTART:20240901T120000Z
+SUMMARY:🍙猫又おかゆ: 【 #ホロ7DTD 】49日間生き残れ…！｜12日目参戦🔥【 猫又おかゆ視点/ホロライブ 】
+UID:txcpS1DetZ4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 ハースストーン 】今からでも始められる！ バトグラ 新シーズンきたよ～～～！【ホロライブ/沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=XryB-SzKhIE
 DURATION:PT2H
 DTSTART:20240830T150000Z
@@ -107,13 +114,6 @@ DURATION:PT2H
 DTSTART:20240831T130000Z
 SUMMARY:雪花ラミィ: 【映画同時視聴】M3GAN／ミーガン(吹替版)見る！【 雪花ラミィ /ホロライブ】
 UID:QKZI0dUXGzc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ASMR 】メンバーシップ限定配信【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=jpKOSXaBs4I
-DURATION:PT2H
-DTSTART:20240831T140000Z
-SUMMARY:💋癒月ちょこ: 【 ASMR 】メンバーシップ限定配信【ホロライブ/癒月ちょこ】
-UID:jpKOSXaBs4I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ELDEN RING】#18 火山館付近でドラゴン！！！初見エルデンリング！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=Vupnj_XsuWE
@@ -396,11 +396,11 @@ SUMMARY:鷹嶺ルイ: 【メンバーシップ動画】10分で「ソワレ」�
 UID:Z0fF6o_Cc9s
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ホロなつビンゴ大・抽・選・会！【#ホロのなつやすみ】\nhttps://www.youtube.com/watch?v=n0viBpKy9mI
+DESCRIPTION:【朝活マリオの続き】SUPER MARIO BROS. 3　WORLD７【ホロライブ/白上フブキ 】\nhttps://www.youtube.com/watch?v=dTsyEXD1gDk
 DURATION:PT2H
-DTSTART:20240901T100000Z
-SUMMARY:ホロライブ: ホロなつビンゴ大・抽・選・会！【#ホロのなつやすみ】
-UID:n0viBpKy9mI
+DTSTART:20240901T090000Z
+SUMMARY:🌽白上フブキ: 【朝活マリオの続き】SUPER MARIO BROS. 3　WORLD７【ホロライブ/白上フブキ 】
+UID:dTsyEXD1gDk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【メンバー限定/Memberonly】アカペラで歌ったり、話したり【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=WeIavAtSD9c
@@ -408,6 +408,13 @@ DURATION:PT2H
 DTSTART:20240901T093000Z
 SUMMARY:👾常闇トワ: 【メンバー限定/Memberonly】アカペラで歌ったり、話したり【常闇トワ/ホロライブ】
 UID:WeIavAtSD9c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ホロなつビンゴ大・抽・選・会！【#ホロのなつやすみ】\nhttps://www.youtube.com/watch?v=n0viBpKy9mI
+DURATION:PT2H
+DTSTART:20240901T100000Z
+SUMMARY:ホロライブ: ホロなつビンゴ大・抽・選・会！【#ホロのなつやすみ】
+UID:n0viBpKy9mI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【アソビ大全】アソビ大全で３連勝して企画告知するぞ！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=5kq6o7kzxp4
