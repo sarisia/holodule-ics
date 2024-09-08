@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 Minecraft 】ミニゲームであそぶ！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=JVfh9laGnc8
-DURATION:PT2H
-DTSTART:20240907T090000Z
-SUMMARY:🏮夏色まつり: 【 Minecraft 】ミニゲームであそぶ！【ホロライブ/夏色まつり】
-UID:JVfh9laGnc8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ドラえもん】ドラえもんのどら焼き屋さん物語やる！！【戌神ころね】\nhttps://www.youtube.com/watch?v=iMe4TUeEB0U
 DURATION:PT2H
 DTSTART:20240908T050000Z
@@ -18,18 +11,11 @@ SUMMARY:🥐戌神ころね: 【ドラえもん】ドラえもんのどら焼き
 UID:iMe4TUeEB0U
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【APEX｜#演JOY軍団カスタム】勝つぞ～！！！！！！【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=Rb1yZFG74_0
+DESCRIPTION:【 #ホロハードコアエンドラ 】死んだら即リセット‼ハードコアMinecraftエンドラ討伐だぜ！！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=pZO_V1Cf6m8
 DURATION:PT2H
-DTSTART:20240907T130000Z
-SUMMARY:🏮夏色まつり: 【APEX｜#演JOY軍団カスタム】勝つぞ～！！！！！！【ホロライブ/夏色まつり】
-UID:Rb1yZFG74_0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=mHW_8qXDqlI
-DURATION:PT2H
-DTSTART:20240907T010000Z
-SUMMARY:🚑大空スバル: 【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】
-UID:mHW_8qXDqlI
+DTSTART:20240908T110000Z
+SUMMARY:🌸さくらみこ: 【 #ホロハードコアエンドラ 】死んだら即リセット‼ハードコアMinecraftエンドラ討伐だぜ！！！！！【ホロライブ/さくらみこ】
+UID:pZO_V1Cf6m8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ASA￤アベレーション】続・全恐竜捕まえるまで終われまテン！Part 2【アキロゼ/ホロライブ】\nhttps://www.youtube.com/watch?v=lM_0SS23zog
@@ -39,11 +25,25 @@ SUMMARY:🍎アキロゼ: 【ASA￤アベレーション】続・全恐竜捕ま
 UID:lM_0SS23zog
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#最終回】アンチャーテッド エル・ドラドの秘宝！！！やるしゅばああああああああああああああああああ！！！！  Uncharted: Drake's Fortune【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=-Ztigx1CXs8
+DESCRIPTION:【キャプテン翼】完全初見による「キャプテン翼 RISE OF NEW CHAMPIONS」！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=rUfZYPTKU3s
 DURATION:PT2H
-DTSTART:20240907T040000Z
-SUMMARY:🚑大空スバル: 【#最終回】アンチャーテッド エル・ドラドの秘宝！！！やるしゅばああああああああああああああああああ！！！！  Uncharted: Drake's Fortune【ホロライブ/大空スバル】
-UID:-Ztigx1CXs8
+DTSTART:20240908T100000Z
+SUMMARY:👯兎田ぺこら: 【キャプテン翼】完全初見による「キャプテン翼 RISE OF NEW CHAMPIONS」！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり
+UID:rUfZYPTKU3s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【STREET FIGHTER 6】電流マッチの顔合わせ(?)師匠を健康にしようの回【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=BhiSsVptZhg
+DURATION:PT2H
+DTSTART:20240908T110000Z
+SUMMARY:👾常闇トワ: 【STREET FIGHTER 6】電流マッチの顔合わせ(?)師匠を健康にしようの回【常闇トワ/ホロライブ】
+UID:BhiSsVptZhg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#生スバル】ドラゴンクエストⅣするしゅばああああああああああああああああ！！！ / DRAGON QUESTⅣ【ネタバレあり】\nhttps://www.youtube.com/watch?v=NbJZhHK1w-g
+DURATION:PT2H
+DTSTART:20240908T040000Z
+SUMMARY:🚑大空スバル: 【#生スバル】ドラゴンクエストⅣするしゅばああああああああああああああああ！！！ / DRAGON QUESTⅣ【ネタバレあり】
+UID:NbJZhHK1w-g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活マリオの続き】SUPER MARIO BROS. 3　WORLD８【ホロライブ/白上フブキ 】\nhttps://www.youtube.com/watch?v=ixmAk_SaucY
@@ -53,18 +53,18 @@ SUMMARY:🌽白上フブキ: 【朝活マリオの続き】SUPER MARIO BROS. 3�
 UID:ixmAk_SaucY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ときのそら7周年パーティー】mocopiでプチお披露目とまったりパーティー【ホロライブ/ときのそら】\nhttps://www.youtube.com/watch?v=C3iGh_QK8CE
+DESCRIPTION:【ぺこマリ】モンスト＆白猫がタックを組んだ「フェスティバトル」2人で遊んでみる！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=hX3xcJrh5Qw
 DURATION:PT2H
-DTSTART:20240907T110000Z
-SUMMARY:🐻ときのそら: 【#ときのそら7周年パーティー】mocopiでプチお披露目とまったりパーティー【ホロライブ/ときのそら】
-UID:C3iGh_QK8CE
+DTSTART:20240909T110000Z
+SUMMARY:👯兎田ぺこら: 【ぺこマリ】モンスト＆白猫がタックを組んだ「フェスティバトル」2人で遊んでみる！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:hX3xcJrh5Qw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【3D LIVE】Ray of Jewelry【#ホロ0期生ライブ2024】\nhttps://www.youtube.com/watch?v=AUu9pSkkgaY
+DESCRIPTION:【シン・ポルカラジオカ】#1 ～遅れてきた夏～【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=KrAUKlokB7o
 DURATION:PT2H
-DTSTART:20240907T120000Z
-SUMMARY:ホロライブ: 【3D LIVE】Ray of Jewelry【#ホロ0期生ライブ2024】
-UID:AUu9pSkkgaY
+DTSTART:20240908T100000Z
+SUMMARY:尾丸ポルカ: 【シン・ポルカラジオカ】#1 ～遅れてきた夏～【尾丸ポルカ/ホロライブ】
+UID:KrAUKlokB7o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 声マネキング 】音を声真似！？ボクはロボットですよ、任せなさい！！０期LIVEおつおつお💖【ホロライブ / ロボ子さん】\nhttps://www.youtube.com/watch?v=xafiaeoZQro
@@ -74,11 +74,11 @@ SUMMARY:🤖ロボ子さん: 【 声マネキング 】音を声真似！？ボ�
 UID:xafiaeoZQro
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【怨枉 】恨みの呪縛を解き放て！除霊させていただきますっ！【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=bq9-pYaOM7c
+DESCRIPTION:【 #朝ミオ 】月曜日だよ！まだまだ暑い！おはみぉーん☀\nhttps://www.youtube.com/watch?v=mto3Sg_lQNU
 DURATION:PT2H
-DTSTART:20240907T130000Z
-SUMMARY:💋癒月ちょこ: 【怨枉 】恨みの呪縛を解き放て！除霊させていただきますっ！【ホロライブ/癒月ちょこ】
-UID:bq9-pYaOM7c
+DTSTART:20240908T223000Z
+SUMMARY:🌲大神ミオ: 【 #朝ミオ 】月曜日だよ！まだまだ暑い！おはみぉーん☀
+UID:mto3Sg_lQNU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #ホロハードコアエンドラ 】死んだら即鯖リセット…ってマジ⁉｜二日目🍙ˊ˗ 【 猫又おかゆ視点】\nhttps://www.youtube.com/watch?v=n76sbkhvo8g
@@ -88,11 +88,18 @@ SUMMARY:🍙猫又おかゆ: 【 #ホロハードコアエンドラ 】死んだ
 UID:n76sbkhvo8g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【FINAL FANTASY VIII / FF8】遂にファイナルファンタジー8へ！バハムートリベンジから！めちゃ育成したよ！ #7 【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=LeQF-96Wrq0
+DESCRIPTION:【FINAL FANTASY VIII / FF8】遂にファイナルファンタジー8へ！最終回だあああああ！！！！！ #8 【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=wpsqMRVnmro
 DURATION:PT2H
-DTSTART:20240907T020000Z
-SUMMARY:博衣こより: 【FINAL FANTASY VIII / FF8】遂にファイナルファンタジー8へ！バハムートリベンジから！めちゃ育成したよ！ #7 【博衣こより/ホロライブ】
-UID:LeQF-96Wrq0
+DTSTART:20240908T020000Z
+SUMMARY:博衣こより: 【FINAL FANTASY VIII / FF8】遂にファイナルファンタジー8へ！最終回だあああああ！！！！！ #8 【博衣こより/ホロライブ】
+UID:wpsqMRVnmro
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【総集編】今までの誕生日配信を切り抜き風にまとめたのでみんなで見よう！― #獅白ぼたんプチ生誕2024【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=hJLtVD112io
+DURATION:PT2H
+DTSTART:20240908T110000Z
+SUMMARY:獅白ぼたん: 【総集編】今までの誕生日配信を切り抜き風にまとめたのでみんなで見よう！― #獅白ぼたんプチ生誕2024【獅白ぼたん/ホロライブ】
+UID:hJLtVD112io
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【安眠】まだ夏を感じる寝れない夜に...♡癒しの囁き＆耳かき＋ひんやりマッサージ♡【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=D9dbJJHU2ws
@@ -102,39 +109,11 @@ SUMMARY:⚔白銀ノエル: 【安眠】まだ夏を感じる寝れない夜に.
 UID:D9dbJJHU2ws
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3/サーモンラン】ビッグラン＋クマフェスだぁ！納品納品！【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=QCh8_9aYg5Q
-DURATION:PT2H
-DTSTART:20240907T130000Z
-SUMMARY:🔥不知火フレア: 【スプラトゥーン3/サーモンラン】ビッグラン＋クマフェスだぁ！納品納品！【不知火フレア/ホロライブ】
-UID:QCh8_9aYg5Q
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Minecraft 】カエラのすごろくパーティ後夜祭(？)～！🎊【常闇トワ視点】\nhttps://www.youtube.com/watch?v=yOWy0x5S1y8
-DURATION:PT2H
-DTSTART:20240907T090000Z
-SUMMARY:👾常闇トワ: 【 Minecraft 】カエラのすごろくパーティ後夜祭(？)～！🎊【常闇トワ視点】
-UID:yOWy0x5S1y8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【護縁(Go-En/ごえん)】神岡家姉妹で初めての案件!?【猫又おかゆ/ホロライブ】\nhttps://www.youtube.com/watch?v=sUy27MRNSNg
-DURATION:PT2H
-DTSTART:20240907T110000Z
-SUMMARY:🍙猫又おかゆ: 【護縁(Go-En/ごえん)】神岡家姉妹で初めての案件!?【猫又おかゆ/ホロライブ】
-UID:sUy27MRNSNg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ホロハードコアエンドラ】DAY2死んだら即鯖リセット！ハードコアエンダードラゴン討伐【星街すいせい / ホロライブ】\nhttps://www.youtube.com/watch?v=YDEzgooPhCk
 DURATION:PT2H
 DTSTART:20240908T110000Z
 SUMMARY:☄星街すいせい: 【#ホロハードコアエンドラ】DAY2死んだら即鯖リセット！ハードコアエンダードラゴン討伐【星街すいせい / ホロライブ】
 UID:YDEzgooPhCk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#はいよろこんで 踊ってみた！💃#shorts\nhttps://www.youtube.com/watch?v=dsoihk-uDYc
-DURATION:PT2H
-DTSTART:20240908T070504Z
-SUMMARY:👾常闇トワ: #はいよろこんで 踊ってみた！💃#shorts
-UID:dsoihk-uDYc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【メンバー限定配信】開設4年6ヶ月目！「すみっコぐらし とびだす絵本とひみつのコ」同時視聴！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=alDQXSu5dY0
@@ -144,18 +123,46 @@ SUMMARY:🐏角巻わため: 【メンバー限定配信】開設4年6ヶ月目�
 UID:alDQXSu5dY0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【＃3】SIRENするしゅばあああああああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=FUZTTF58SKo
+DESCRIPTION:#はいよろこんで 踊ってみた！💃#shorts\nhttps://www.youtube.com/watch?v=dsoihk-uDYc
 DURATION:PT2H
-DTSTART:20240907T130000Z
-SUMMARY:🚑大空スバル: 【＃3】SIRENするしゅばあああああああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】
-UID:FUZTTF58SKo
+DTSTART:20240908T070504Z
+SUMMARY:👾常闇トワ: #はいよろこんで 踊ってみた！💃#shorts
+UID:dsoihk-uDYc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 声マネキング 】音を "声" でマネする！めざせ100点ｲｸｿﾞｵｵｵｵｵｵ【 猫又おかゆ/ホロライブ 】\nhttps://www.youtube.com/watch?v=ST-KF4o83_U
+DESCRIPTION:【 ドラクエⅨ 】完全初見。DS版！なんで私ちからなくなってしまったん…。【鷹嶺ルイ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=xoTEIARhlB4
 DURATION:PT2H
-DTSTART:20240907T130000Z
-SUMMARY:🍙猫又おかゆ: 【 声マネキング 】音を "声" でマネする！めざせ100点ｲｸｿﾞｵｵｵｵｵｵ【 猫又おかゆ/ホロライブ 】
-UID:ST-KF4o83_U
+DTSTART:20240908T030000Z
+SUMMARY:鷹嶺ルイ: 【 ドラクエⅨ 】完全初見。DS版！なんで私ちからなくなってしまったん…。【鷹嶺ルイ/ホロライブ】※ネタバレあり
+UID:xoTEIARhlB4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ASA￤アベレーション】まったり？建築とか観光とか！続・全恐竜捕まえるまで終われまテン！Part 3【アキロゼ/ホロライブ】\nhttps://www.youtube.com/watch?v=4SWT9DdFIeI
+DURATION:PT2H
+DTSTART:20240908T120000Z
+SUMMARY:🍎アキロゼ: 【ASA￤アベレーション】まったり？建築とか観光とか！続・全恐竜捕まえるまで終われまテン！Part 3【アキロゼ/ホロライブ】
+UID:4SWT9DdFIeI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:メディンキさんありがとう✨とても素敵👀！ #shorts #hololive #鷹嶺ルイ #魔眼ウインク\nhttps://www.youtube.com/watch?v=t7x22YLTW2s
+DURATION:PT2H
+DTSTART:20240908T090045Z
+SUMMARY:鷹嶺ルイ: メディンキさんありがとう✨とても素敵👀！ #shorts #hololive #鷹嶺ルイ #魔眼ウインク
+UID:t7x22YLTW2s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】まだ夏はおわっていないはずです🍉【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=RuuhEvK2Xg0
+DURATION:PT2H
+DTSTART:20240908T100000Z
+SUMMARY:風真いろは: 【歌枠】まだ夏はおわっていないはずです🍉【風真いろは/ホロライブ】
+UID:RuuhEvK2Xg0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スプラトゥーン3/サーモンラン】ビッグラン＋クマフェス！フレアイリスで出勤！【不知火フレア/IRyS/ホロライブ】\nhttps://www.youtube.com/watch?v=AV53qD5d53g
+DURATION:PT2H
+DTSTART:20240908T130000Z
+SUMMARY:🔥不知火フレア: 【スプラトゥーン3/サーモンラン】ビッグラン＋クマフェス！フレアイリスで出勤！【不知火フレア/IRyS/ホロライブ】
+UID:AV53qD5d53g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【朝活雑談】おはまっするさんでー💪🌞【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=mCed1tWBNcw
@@ -205,195 +212,6 @@ DURATION:PT2H
 DTSTART:20240907T210019Z
 SUMMARY:🐏角巻わため: 風呂上がりは、これだよこれー！！【 #今日のわため 】 #shorts #hololive #vtuber
 UID:XVux4c0qmaQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:アイスいただきまぁ...！！！！【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=M1Xo2kTzY2E
-DURATION:PT2H
-DTSTART:20240906T210013Z
-SUMMARY:🐏角巻わため: アイスいただきまぁ...！！！！【 #今日のわため 】 #shorts #hololive #vtuber
-UID:M1Xo2kTzY2E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #ホロハードコアエンドラ 】死んだら即リセット‼ハードコアMinecraftエンドラ討伐だぜ！！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=pZO_V1Cf6m8
-DURATION:PT2H
-DTSTART:20240908T110000Z
-SUMMARY:🌸さくらみこ: 【 #ホロハードコアエンドラ 】死んだら即リセット‼ハードコアMinecraftエンドラ討伐だぜ！！！！！【ホロライブ/さくらみこ】
-UID:pZO_V1Cf6m8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【キャプテン翼】完全初見による「キャプテン翼 RISE OF NEW CHAMPIONS」！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり\nhttps://www.youtube.com/watch?v=rUfZYPTKU3s
-DURATION:PT2H
-DTSTART:20240908T100000Z
-SUMMARY:👯兎田ぺこら: 【キャプテン翼】完全初見による「キャプテン翼 RISE OF NEW CHAMPIONS」！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり
-UID:rUfZYPTKU3s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#生スバル】ドラゴンクエストⅣするしゅばああああああああああああああああ！！！ / DRAGON QUESTⅣ【ネタバレあり】\nhttps://www.youtube.com/watch?v=NbJZhHK1w-g
-DURATION:PT2H
-DTSTART:20240908T040000Z
-SUMMARY:🚑大空スバル: 【#生スバル】ドラゴンクエストⅣするしゅばああああああああああああああああ！！！ / DRAGON QUESTⅣ【ネタバレあり】
-UID:NbJZhHK1w-g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Buckshot Roulette】これが命がけのギャンブル・・・ッ！！【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=ksBdR9urnCc
-DURATION:PT2H
-DTSTART:20240907T130000Z
-SUMMARY:🌙紫咲シオン: 【Buckshot Roulette】これが命がけのギャンブル・・・ッ！！【ホロライブ/紫咲シオン】
-UID:ksBdR9urnCc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【強敵すぎる…】ラスボスかなた👑 #shorts\nhttps://www.youtube.com/watch?v=yvWY2_kp47E
-DURATION:PT2H
-DTSTART:20240907T090100Z
-SUMMARY:💫天音かなた: 【強敵すぎる…】ラスボスかなた👑 #shorts
-UID:yvWY2_kp47E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ななななななな】ホロライブプロダクション7周年記念特番【#ほろななうぃーく】\nhttps://www.youtube.com/watch?v=J3CoyRQj1sk
-DURATION:PT2H
-DTSTART:20240907T100000Z
-SUMMARY:ホロライブ: 【ななななななな】ホロライブプロダクション7周年記念特番【#ほろななうぃーく】
-UID:J3CoyRQj1sk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【シン・ポルカラジオカ】#1 ～遅れてきた夏～【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=KrAUKlokB7o
-DURATION:PT2H
-DTSTART:20240908T100000Z
-SUMMARY:尾丸ポルカ: 【シン・ポルカラジオカ】#1 ～遅れてきた夏～【尾丸ポルカ/ホロライブ】
-UID:KrAUKlokB7o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #朝ミオ 】月曜日だよ！まだまだ暑い！おはみぉーん☀\nhttps://www.youtube.com/watch?v=mto3Sg_lQNU
-DURATION:PT2H
-DTSTART:20240908T223000Z
-SUMMARY:🌲大神ミオ: 【 #朝ミオ 】月曜日だよ！まだまだ暑い！おはみぉーん☀
-UID:mto3Sg_lQNU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FINAL FANTASY VIII / FF8】遂にファイナルファンタジー8へ！最終回だあああああ！！！！！ #8 【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=wpsqMRVnmro
-DURATION:PT2H
-DTSTART:20240908T020000Z
-SUMMARY:博衣こより: 【FINAL FANTASY VIII / FF8】遂にファイナルファンタジー8へ！最終回だあああああ！！！！！ #8 【博衣こより/ホロライブ】
-UID:wpsqMRVnmro
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【総集編】今までの誕生日配信を切り抜き風にまとめたのでみんなで見よう！― #獅白ぼたんプチ生誕2024【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=hJLtVD112io
-DURATION:PT2H
-DTSTART:20240908T110000Z
-SUMMARY:獅白ぼたん: 【総集編】今までの誕生日配信を切り抜き風にまとめたのでみんなで見よう！― #獅白ぼたんプチ生誕2024【獅白ぼたん/ホロライブ】
-UID:hJLtVD112io
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談＆お礼】角巻わためは、Newお部屋をご紹介したい！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=-K6tlPWYdWI
-DURATION:PT2H
-DTSTART:20240907T130000Z
-SUMMARY:🐏角巻わため: 【雑談＆お礼】角巻わためは、Newお部屋をご紹介したい！【角巻わため/ホロライブ４期生】
-UID:-K6tlPWYdWI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:校舎で #BANRTAダンス 練習したよ〜✌️#踊ってみた #vtuber #hololive\nhttps://www.youtube.com/watch?v=8ACnT8svrjE
-DURATION:PT2H
-DTSTART:20240907T094108Z
-SUMMARY:❤赤井はあと: 校舎で #BANRTAダンス 練習したよ〜✌️#踊ってみた #vtuber #hololive
-UID:8ACnT8svrjE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【OHAPOL】#94 9/7土曜日！世間は本当に休みか？？！！！！【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=EBfO8y1T_ZE
-DURATION:PT2H
-DTSTART:20240906T210000Z
-SUMMARY:尾丸ポルカ: 【OHAPOL】#94 9/7土曜日！世間は本当に休みか？？！！！！【尾丸ポルカ/ホロライブ】
-UID:EBfO8y1T_ZE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Apex Legends】おひさしRANK！w/ラトナ・プティ、ふらんしすこ【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=JqV3wKtw1f4
-DURATION:PT2H
-DTSTART:20240907T051500Z
-SUMMARY:👾常闇トワ: 【Apex Legends】おひさしRANK！w/ラトナ・プティ、ふらんしすこ【常闇トワ/ホロライブ】
-UID:JqV3wKtw1f4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ドラクエⅨ 】完全初見。DS版！なんで私ちからなくなってしまったん…。【鷹嶺ルイ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=xoTEIARhlB4
-DURATION:PT2H
-DTSTART:20240908T030000Z
-SUMMARY:鷹嶺ルイ: 【 ドラクエⅨ 】完全初見。DS版！なんで私ちからなくなってしまったん…。【鷹嶺ルイ/ホロライブ】※ネタバレあり
-UID:xoTEIARhlB4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:全方向美少女✨ #踊ってみた #ホロライブ #Vtuber #アキロゼ\nhttps://www.youtube.com/watch?v=YbWTqskmnAU
-DURATION:PT2H
-DTSTART:20240907T000951Z
-SUMMARY:🍎アキロゼ: 全方向美少女✨ #踊ってみた #ホロライブ #Vtuber #アキロゼ
-UID:YbWTqskmnAU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ドラクエⅨ 】完全初見。DS版！いよいよ9✨新しい冒険が始まる…！【鷹嶺ルイ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=B55gRchz0PM
-DURATION:PT2H
-DTSTART:20240907T030000Z
-SUMMARY:鷹嶺ルイ: 【 ドラクエⅨ 】完全初見。DS版！いよいよ9✨新しい冒険が始まる…！【鷹嶺ルイ/ホロライブ】※ネタバレあり
-UID:B55gRchz0PM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ASA￤アベレーション】まったり？建築とか観光とか！続・全恐竜捕まえるまで終われまテン！Part 3【アキロゼ/ホロライブ】\nhttps://www.youtube.com/watch?v=4SWT9DdFIeI
-DURATION:PT2H
-DTSTART:20240908T120000Z
-SUMMARY:🍎アキロゼ: 【ASA￤アベレーション】まったり？建築とか観光とか！続・全恐竜捕まえるまで終われまテン！Part 3【アキロゼ/ホロライブ】
-UID:4SWT9DdFIeI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:メディンキさんありがとう✨とても素敵👀！ #shorts #hololive #鷹嶺ルイ #魔眼ウインク\nhttps://www.youtube.com/watch?v=t7x22YLTW2s
-DURATION:PT2H
-DTSTART:20240908T090045Z
-SUMMARY:鷹嶺ルイ: メディンキさんありがとう✨とても素敵👀！ #shorts #hololive #鷹嶺ルイ #魔眼ウインク
-UID:t7x22YLTW2s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】まだ夏はおわっていないはずです🍉【風真いろは/ホロライブ】\nhttps://www.youtube.com/watch?v=RuuhEvK2Xg0
-DURATION:PT2H
-DTSTART:20240908T100000Z
-SUMMARY:風真いろは: 【歌枠】まだ夏はおわっていないはずです🍉【風真いろは/ホロライブ】
-UID:RuuhEvK2Xg0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ASA￤アベレーション】続・全恐竜捕まえるまで終われまテン！Part 1【アキロゼ/ホロライブ】\nhttps://www.youtube.com/watch?v=olOgIqND5VY
-DURATION:PT2H
-DTSTART:20240907T083000Z
-SUMMARY:🍎アキロゼ: 【ASA￤アベレーション】続・全恐竜捕まえるまで終われまテン！Part 1【アキロゼ/ホロライブ】
-UID:olOgIqND5VY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アーティストノエル(？)】すいちゃんツアーおめでとう！【白銀ノエル】#shorts\nhttps://www.youtube.com/watch?v=rigwwWThC00
-DURATION:PT2H
-DTSTART:20240907T030757Z
-SUMMARY:⚔白銀ノエル: 【アーティストノエル(？)】すいちゃんツアーおめでとう！【白銀ノエル】#shorts
-UID:rigwwWThC00
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スプラトゥーン3/サーモンラン】ビッグラン＋クマフェス！フレアイリスで出勤！【不知火フレア/IRyS/ホロライブ】\nhttps://www.youtube.com/watch?v=AV53qD5d53g
-DURATION:PT2H
-DTSTART:20240908T130000Z
-SUMMARY:🔥不知火フレア: 【スプラトゥーン3/サーモンラン】ビッグラン＋クマフェス！フレアイリスで出勤！【不知火フレア/IRyS/ホロライブ】
-UID:AV53qD5d53g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【五目並べ/アソビ大全】CPU全レベルに勝てるまで終われないRTA🔥【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=l03AXwNeElU
-DURATION:PT2H
-DTSTART:20240907T130000Z
-SUMMARY:博衣こより: 【五目並べ/アソビ大全】CPU全レベルに勝てるまで終われないRTA🔥【博衣こより/ホロライブ】
-UID:l03AXwNeElU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ドラゴンボールZ KAKAROT】完全初見！神作品「ドラゴンボール」の世界へ！！【白銀ノエル/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=cqPtYFKqW6g
-DURATION:PT2H
-DTSTART:20240907T070000Z
-SUMMARY:⚔白銀ノエル: 【ドラゴンボールZ KAKAROT】完全初見！神作品「ドラゴンボール」の世界へ！！【白銀ノエル/ホロライブ】※ネタバレあり
-UID:cqPtYFKqW6g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【STREET FIGHTER 6】電流マッチの顔合わせ(?)師匠を健康にしようの回【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=BhiSsVptZhg
-DURATION:PT2H
-DTSTART:20240908T110000Z
-SUMMARY:👾常闇トワ: 【STREET FIGHTER 6】電流マッチの顔合わせ(?)師匠を健康にしようの回【常闇トワ/ホロライブ】
-UID:BhiSsVptZhg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【OHAPOL】#95 9/8日曜日！秋の涼しさ感じてる？？！！！【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=zs-STtUrY7E
