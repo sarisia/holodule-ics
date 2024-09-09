@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Black Myth: Wukong】Try to first-try every single enemy!!!!!\nhttps://www.youtube.com/watch?v=XHqOdg-5CbU
+DURATION:PT2H
+DTSTART:20240909T190000Z
+SUMMARY:Cecilia: 【Black Myth: Wukong】Try to first-try every single enemy!!!!!
+UID:XHqOdg-5CbU
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Nerissa - In My Feelings【original song】\nhttps://www.youtube.com/watch?v=07KOLCi_j20
 DURATION:PT2H
 DTSTART:20240908T150000Z
@@ -16,13 +23,6 @@ DURATION:PT2H
 DTSTART:20240909T000000Z
 SUMMARY:Gura: 【2.0 REVEAL】I'm evolving!
 UID:29UwCwTyOqc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:my new music video by STUDIO WIT!! Go-Getters MV is OUT #shorts #anime #vtuber #hololive #animation\nhttps://www.youtube.com/watch?v=mRTE-UTg-94
-DURATION:PT2H
-DTSTART:20240909T012924Z
-SUMMARY:Calli: my new music video by STUDIO WIT!! Go-Getters MV is OUT #shorts #anime #vtuber #hololive #animation
-UID:mRTE-UTg-94
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:III DANCE COVER #踊ってみた #iiichallenge #hololive #shorts\nhttps://www.youtube.com/watch?v=NVy4CT1P_cI
@@ -67,13 +67,6 @@ SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 124 🐾 #FWMCMORNING
 UID:mhXx1WvFVgQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DRAWING】 Let's make new Emotes with Chattini! #CiaoRaora\nhttps://www.youtube.com/watch?v=yy9O5fQpkNM
-DURATION:PT2H
-DTSTART:20240909T110000Z
-SUMMARY:Raora: 【DRAWING】 Let's make new Emotes with Chattini! #CiaoRaora
-UID:yy9O5fQpkNM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Black Myth: Wukong】Mmm\, Monke\nhttps://www.youtube.com/watch?v=FWG8S-6TELU
 DURATION:PT2H
 DTSTART:20240909T230000Z
@@ -88,13 +81,6 @@ SUMMARY:Gigi: A week in review of Gonathon G's ENigmatic Recollection
 UID:UazJBbg5ABA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】ONE YEAR OF GRINDSTONE!\nhttps://www.youtube.com/watch?v=8Wg2IbNcHxI
-DURATION:PT2H
-DTSTART:20240909T011500Z
-SUMMARY:Bijou: 【MINECRAFT】ONE YEAR OF GRINDSTONE!
-UID:8Wg2IbNcHxI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【COVER】ECHO  - Raora Panthera\nhttps://www.youtube.com/watch?v=pqqhKj6Sh-E
 DURATION:PT2H
 DTSTART:20240909T140000Z
@@ -107,5 +93,26 @@ DURATION:PT2H
 DTSTART:20240910T180000Z
 SUMMARY:Elizabeth: 【RABBIT】ENigmatic Recollection~! 💄
 UID:sDmtRFaNIUk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:my new music video by STUDIO WIT!! Go-Getters MV is OUT #shorts #anime #vtuber #hololive #animation\nhttps://www.youtube.com/watch?v=mRTE-UTg-94
+DURATION:PT2H
+DTSTART:20240909T012924Z
+SUMMARY:Calli: my new music video by STUDIO WIT!! Go-Getters MV is OUT #shorts #anime #vtuber #hololive #animation
+UID:mRTE-UTg-94
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DRAWING】 Let's make new Emotes with Chattini! #CiaoRaora\nhttps://www.youtube.com/watch?v=yy9O5fQpkNM
+DURATION:PT2H
+DTSTART:20240909T110000Z
+SUMMARY:Raora: 【DRAWING】 Let's make new Emotes with Chattini! #CiaoRaora
+UID:yy9O5fQpkNM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MINECRAFT】ONE YEAR OF GRINDSTONE!\nhttps://www.youtube.com/watch?v=8Wg2IbNcHxI
+DURATION:PT2H
+DTSTART:20240909T011500Z
+SUMMARY:Bijou: 【MINECRAFT】ONE YEAR OF GRINDSTONE!
+UID:8Wg2IbNcHxI
 END:VEVENT
 END:VCALENDAR
