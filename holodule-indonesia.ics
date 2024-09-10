@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【DRAWING COLLAB】Making Original Characters on Stream\, but... (w/ Gigi)【Pavolia Reine/hololiveID】\nhttps://www.youtube.com/watch?v=gLOhV1JyT6k
+DURATION:PT2H
+DTSTART:20240911T040000Z
+SUMMARY:Reine: 【DRAWING COLLAB】Making Original Characters on Stream\, but... (w/ Gigi)【Pavolia Reine/hololiveID】
+UID:gLOhV1JyT6k
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:#7【Ace Attorney: Dual Destinies】Case 3 2ND TRIAL HERE WE GO (SPOILERS!)【Pavolia Reine/holoID】\nhttps://www.youtube.com/watch?v=ut499bv0dvY
 DURATION:PT2H
 DTSTART:20240910T130000Z
@@ -16,20 +23,6 @@ DURATION:PT2H
 DTSTART:20240911T130000Z
 SUMMARY:Reine: 【Persona 3 Reload: Episode Aigis】THE ANSWER THE ANSWER THE  (SPOILERS!)【Pavolia Reine/hololiveID】
 UID:vyteGWy6SIA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【House Flipper】Jadi Tukang Lagi Yes【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=rPPYlj41Mhs
-DURATION:PT2H
-DTSTART:20240910T140000Z
-SUMMARY:🎨Iofi: 【House Flipper】Jadi Tukang Lagi Yes【 iofi / hololiveID 】
-UID:rPPYlj41Mhs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【DELIVERING HOPE】BET 【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=DuhbvURFFws
-DURATION:PT2H
-DTSTART:20240910T112922Z
-SUMMARY:Ollie: 【DELIVERING HOPE】BET 【Kureiji Ollie】
-UID:DuhbvURFFws
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Captain Tsubasa: Rise of New Champions】#1 DRAGON SCREAMERRRRR【SPOILER WARNING】\nhttps://www.youtube.com/watch?v=2eFsGHta1x8
@@ -51,5 +44,19 @@ DURATION:PT2H
 DTSTART:20240911T070000Z
 SUMMARY:🔮Moona: 【Coral Island】 Is this the time that i can be a mermaid?【hololiveID】
 UID:97s9b7JCTLo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【House Flipper】Jadi Tukang Lagi Yes【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=rPPYlj41Mhs
+DURATION:PT2H
+DTSTART:20240910T140000Z
+SUMMARY:🎨Iofi: 【House Flipper】Jadi Tukang Lagi Yes【 iofi / hololiveID 】
+UID:rPPYlj41Mhs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DELIVERING HOPE】BET 【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=DuhbvURFFws
+DURATION:PT2H
+DTSTART:20240910T112922Z
+SUMMARY:Ollie: 【DELIVERING HOPE】BET 【Kureiji Ollie】
+UID:DuhbvURFFws
 END:VEVENT
 END:VCALENDAR
