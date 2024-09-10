@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Membership】let's watch a movie and chill 【holoID】\nhttps://www.youtube.com/watch?v=IBSE5fuL9Ng
-DURATION:PT2H
-DTSTART:20240908T151000Z
-SUMMARY:🔮Moona: 【Membership】let's watch a movie and chill 【holoID】
-UID:IBSE5fuL9Ng
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Persona 3 Reload: Episode Aigis】THE ANSWER THE ANSWER THE  (SPOILERS!)【Pavolia Reine/hololiveID】\nhttps://www.youtube.com/watch?v=vyteGWy6SIA
 DURATION:PT2H
 DTSTART:20240910T130000Z
@@ -44,6 +37,20 @@ DURATION:PT2H
 DTSTART:20240909T023000Z
 SUMMARY:🐿Risu: 【M.M.M.】Monday Morning Malas : still malas【Ayunda Risu】
 UID:S_6TAx_Pojs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Membership】let's watch a movie and chill 【holoID】\nhttps://www.youtube.com/watch?v=IBSE5fuL9Ng
+DURATION:PT2H
+DTSTART:20240908T151000Z
+SUMMARY:🔮Moona: 【Membership】let's watch a movie and chill 【holoID】
+UID:IBSE5fuL9Ng
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DELIVERING HOPE】BET 【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=DuhbvURFFws
+DURATION:PT2H
+DTSTART:20240910T113000Z
+SUMMARY:Ollie: 【DELIVERING HOPE】BET 【Kureiji Ollie】
+UID:DuhbvURFFws
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Membership】let's watch a movie together【holoID】\nhttps://www.youtube.com/watch?v=sHdF9zWfDuM
