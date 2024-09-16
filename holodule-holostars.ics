@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【VCR Minecraft β】2日目【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=uoFmxt7uIBo
+DURATION:PT2H
+DTSTART:20240916T133000Z
+SUMMARY:🍷夕刻ロベル: 【VCR Minecraft β】2日目【夕刻ロベル/ホロスターズ】
+UID:uoFmxt7uIBo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【スプラトゥーン3】ついに！グランドフェス開催！「未来」にしか興味はない　w/影山シエン　空星きらめ　柚原いづみ【ホロスターズ/夜十神封魔】\nhttps://www.youtube.com/watch?v=A8IEF2YrDCY
 DURATION:PT2H
 DTSTART:20240915T120000Z
@@ -53,18 +60,18 @@ SUMMARY:水無世燐央: 【 Minecraft #VCRマイクラ #1 】マイクラはち
 UID:YQ9zX_8B_ds
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【雑談】サイン書き終えて自由の扉開けそう【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=1wqBLGJZIn4
-DURATION:PT2H
-DTSTART:20240915T080000Z
-SUMMARY:🌺花咲みやび: 【雑談】サイン書き終えて自由の扉開けそう【花咲みやび/ホロスターズ】
-UID:1wqBLGJZIn4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【VCR Minecraft β】ダンジョン!?ボス!?全く知らないマイクラ世界！まぁ俺の方が強いけどね #1【アルランディス/ホロスターズ】 #VCRマイクラ\nhttps://www.youtube.com/watch?v=zenB8W-At-Q
 DURATION:PT2H
 DTSTART:20240915T113000Z
 SUMMARY:🍕アルランディス: 【VCR Minecraft β】ダンジョン!?ボス!?全く知らないマイクラ世界！まぁ俺の方が強いけどね #1【アルランディス/ホロスターズ】 #VCRマイクラ
 UID:zenB8W-At-Q
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】サイン書き終えて自由の扉開けそう【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=1wqBLGJZIn4
+DURATION:PT2H
+DTSTART:20240915T080000Z
+SUMMARY:🌺花咲みやび: 【雑談】サイン書き終えて自由の扉開けそう【花咲みやび/ホロスターズ】
+UID:1wqBLGJZIn4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Cover】虹を待つ人(BUMP OF CHICKEN) / 奏手イヅル #shorts\nhttps://www.youtube.com/watch?v=0weSUYddqhc
