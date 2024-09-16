@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Frostpunk 2】The Warden's Return\nhttps://www.youtube.com/watch?v=IGW507WbXQc
+DURATION:PT2H
+DTSTART:20240917T010000Z
+SUMMARY:Kronii: 【Frostpunk 2】The Warden's Return
+UID:IGW507WbXQc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Taiko no Tatsujin: Drum 'n' Fun!】 BONK BONK BONK!!! 🥁🥁🥁\nhttps://www.youtube.com/watch?v=7iClsJxeQuI
 DURATION:PT2H
 DTSTART:20240916T120000Z
@@ -667,13 +674,6 @@ DURATION:PT2H
 DTSTART:20240916T050000Z
 SUMMARY:🌽白上フブキ: 【FINAL FANTASY XIV】ガンブレララ狐と黄金のレガシー patch7.0　※ネタバレあり※ 【ホロライブ/白上フブキ】
 UID:qyLeWwmt1Jw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:この予定地…イケメンすぎる【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=cq6RDP7oi5w
-DURATION:PT2H
-DTSTART:20240916T090000Z
-SUMMARY:火威青: この予定地…イケメンすぎる【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:cq6RDP7oi5w
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #朝ミオ 】９月だけどまだ夏を感じる・・おはみぉーん！\nhttps://www.youtube.com/watch?v=75kYfJKQ5v4
