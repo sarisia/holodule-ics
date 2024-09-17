@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 #holoGTA DAY1】舞い降りたイケメカニック、君が惚れないわけもなくー【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=dHnsC3asUwo
-DURATION:PT2H
-DTSTART:20240917T100000Z
-SUMMARY:火威青: 【 #holoGTA DAY1】舞い降りたイケメカニック、君が惚れないわけもなくー【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:dHnsC3asUwo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【まいたけダンス】ここだけの話、実はキノコそんなに好きじゃないんですよぉ…【音乃瀬奏】 #shorts\nhttps://www.youtube.com/watch?v=0tbXiVEhRiw
 DURATION:PT2H
 DTSTART:20240916T130002Z
 SUMMARY:音乃瀬奏: 【まいたけダンス】ここだけの話、実はキノコそんなに好きじゃないんですよぉ…【音乃瀬奏】 #shorts
 UID:0tbXiVEhRiw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【らぽラボ】「漆」とは？その②【儒烏風亭らでん】#shorts\nhttps://www.youtube.com/watch?v=S99vehdrkgI
-DURATION:PT2H
-DTSTART:20240916T095140Z
-SUMMARY:儒烏風亭らでん: 【らぽラボ】「漆」とは？その②【儒烏風亭らでん】#shorts
-UID:S99vehdrkgI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#泡沫メイビー  サビだけ歌ってみた！ #shorts #ReGLOSS 3D LIVE #音乃瀬奏 #轟はじめ #MIXなし\nhttps://www.youtube.com/watch?v=TBsABjKF-T8
@@ -39,11 +25,11 @@ SUMMARY:音乃瀬奏: 【アカペラで】「マーシャル・マキシマイ�
 UID:xYuMi7wYmcw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#holoGTA】ぶんぶんぶーん！怪我人は轟車に乗りなァ！【轟はじめ/ReGLOSS】 #hololivedev_is\nhttps://www.youtube.com/watch?v=wYDwzWadEqM
+DESCRIPTION:【らぽラボ】「漆」とは？その②【儒烏風亭らでん】#shorts\nhttps://www.youtube.com/watch?v=S99vehdrkgI
 DURATION:PT2H
-DTSTART:20240917T100000Z
-SUMMARY:轟はじめ: 【#holoGTA】ぶんぶんぶーん！怪我人は轟車に乗りなァ！【轟はじめ/ReGLOSS】 #hololivedev_is
-UID:wYDwzWadEqM
+DTSTART:20240916T095140Z
+SUMMARY:儒烏風亭らでん: 【らぽラボ】「漆」とは？その②【儒烏風亭らでん】#shorts
+UID:S99vehdrkgI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:世にも珍しいぺしょぺしょ配信【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=tASD0EERu74
@@ -51,5 +37,26 @@ DURATION:PT2H
 DTSTART:20240916T141500Z
 SUMMARY:火威青: 世にも珍しいぺしょぺしょ配信【火威青 】#hololiveDEV_IS #ReGLOSS
 UID:tASD0EERu74
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #holoGTA DAY1】舞い降りたイケメカニック、君が惚れないわけもなくー【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=dHnsC3asUwo
+DURATION:PT2H
+DTSTART:20240917T100000Z
+SUMMARY:火威青: 【 #holoGTA DAY1】舞い降りたイケメカニック、君が惚れないわけもなくー【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:dHnsC3asUwo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #holoGTA DAY1 】ギャンブル費用を稼ぐため、いっぱいお注射するね💖【一条莉々華/hololive DEV_IS　ReGLOSS】\nhttps://www.youtube.com/watch?v=qpJ3vtg1WEo
+DURATION:PT2H
+DTSTART:20240917T100000Z
+SUMMARY:一条莉々華: 【 #holoGTA DAY1 】ギャンブル費用を稼ぐため、いっぱいお注射するね💖【一条莉々華/hololive DEV_IS　ReGLOSS】
+UID:qpJ3vtg1WEo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#holoGTA】ぶんぶんぶーん！怪我人は轟車に乗りなァ！【轟はじめ/ReGLOSS】 #hololivedev_is\nhttps://www.youtube.com/watch?v=wYDwzWadEqM
+DURATION:PT2H
+DTSTART:20240917T100000Z
+SUMMARY:轟はじめ: 【#holoGTA】ぶんぶんぶーん！怪我人は轟車に乗りなァ！【轟はじめ/ReGLOSS】 #hololivedev_is
+UID:wYDwzWadEqM
 END:VEVENT
 END:VCALENDAR
