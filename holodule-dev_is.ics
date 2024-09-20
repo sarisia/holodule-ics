@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 #holoGTA DAY3】デート、そして…【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=s_Ikn1V8gwE
-DURATION:PT2H
-DTSTART:20240919T100000Z
-SUMMARY:火威青: 【 #holoGTA DAY3】デート、そして…【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:s_Ikn1V8gwE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 #holoGTA 】空気読み。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=O43KJjQItQA
 DURATION:PT2H
 DTSTART:20240919T110000Z
@@ -23,6 +16,27 @@ DURATION:PT2H
 DTSTART:20240919T133000Z
 SUMMARY:儒烏風亭らでん: 【スパチャ読みタイム】カウントダウン配信＆記念配信スパチャ読み枠その①【儒烏風亭らでん #ReGLOSS 】
 UID:yXbV_8z-EEo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#フィーリングラデーション  サビだけ歌ってみた！ #shorts #ReGLOSS 3D LIVE #音乃瀬奏 #轟はじめ #MIXなし\nhttps://www.youtube.com/watch?v=e413ZAOBnns
+DURATION:PT2H
+DTSTART:20240919T090036Z
+SUMMARY:DEV_IShololive: #フィーリングラデーション  サビだけ歌ってみた！ #shorts #ReGLOSS 3D LIVE #音乃瀬奏 #轟はじめ #MIXなし
+UID:e413ZAOBnns
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:フルアニメーションMVがでた！！【轟はじめ/ReGLOSS】#shorts\nhttps://www.youtube.com/watch?v=tzc2MK0huYQ
+DURATION:PT2H
+DTSTART:20240920T080038Z
+SUMMARY:轟はじめ: フルアニメーションMVがでた！！【轟はじめ/ReGLOSS】#shorts
+UID:tzc2MK0huYQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #holoGTA DAY3】デート、そして…【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=s_Ikn1V8gwE
+DURATION:PT2H
+DTSTART:20240919T100000Z
+SUMMARY:火威青: 【 #holoGTA DAY3】デート、そして…【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:s_Ikn1V8gwE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#holoGTA】救急隊＆新人メカニック！...バイト増やすか...？【轟はじめ/ReGLOSS】 #hololivedev_is\nhttps://www.youtube.com/watch?v=B_wOjaEEI2c
@@ -44,12 +58,5 @@ DURATION:PT2H
 DTSTART:20240919T090035Z
 SUMMARY:一条莉々華: どこのシーンが好き？ダブルタップしてコメントで教えて☺️ フィーリングラデーション #hololive #アニメーション #ReGLOSS #shorts
 UID:dHIaPX3-sIk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#フィーリングラデーション  サビだけ歌ってみた！ #shorts #ReGLOSS 3D LIVE #音乃瀬奏 #轟はじめ #MIXなし\nhttps://www.youtube.com/watch?v=e413ZAOBnns
-DURATION:PT2H
-DTSTART:20240919T090036Z
-SUMMARY:DEV_IShololive: #フィーリングラデーション  サビだけ歌ってみた！ #shorts #ReGLOSS 3D LIVE #音乃瀬奏 #轟はじめ #MIXなし
-UID:e413ZAOBnns
 END:VEVENT
 END:VCALENDAR
