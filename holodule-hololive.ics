@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【VCR Minecraft β】マイクラだけどMMO !??  part5 #VCRマイクラ【アキロゼ/ホロライブ】\nhttps://www.youtube.com/watch?v=q4JGglWpNVA
-DURATION:PT2H
-DTSTART:20240919T180000Z
-SUMMARY:🍎アキロゼ: 【VCR Minecraft β】マイクラだけどMMO !??  part5 #VCRマイクラ【アキロゼ/ホロライブ】
-UID:q4JGglWpNVA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#holoGTA】Day4:記者│守るべきはなにか？ジャーナリズムが踊りだす【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=-fRiPXIeKHw
 DURATION:PT2H
 DTSTART:20240920T100000Z
 SUMMARY:尾丸ポルカ: 【#holoGTA】Day4:記者│守るべきはなにか？ジャーナリズムが踊りだす【尾丸ポルカ/ホロライブ】
 UID:-fRiPXIeKHw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VCR Minecraft β】マイクラだけどMMO !??  part5 #VCRマイクラ【アキロゼ/ホロライブ】\nhttps://www.youtube.com/watch?v=q4JGglWpNVA
+DURATION:PT2H
+DTSTART:20240919T180000Z
+SUMMARY:🍎アキロゼ: 【VCR Minecraft β】マイクラだけどMMO !??  part5 #VCRマイクラ【アキロゼ/ホロライブ】
+UID:q4JGglWpNVA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #holoGTA 】DAY3 ｜ そろそろ撃ち合いしたい気持ちになってきました。 【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=vLbD4ypt4Ac
@@ -144,11 +144,11 @@ SUMMARY:🍎アキロゼ: 【 #holoGTA 】ギャングのアンダーボスと�
 UID:3tmDP2ZID8E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ちょっとついてきちゃダメって言ったでしょ！！🐏【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=fUrZoTA6ypk
+DESCRIPTION:【#holoGTA】ギャングに始まり、ギャングで終わる。【赤井はあと/ホロライブ】\nhttps://www.youtube.com/watch?v=lnehpuqHyF4
 DURATION:PT2H
-DTSTART:20240918T210024Z
-SUMMARY:🐏角巻わため: ちょっとついてきちゃダメって言ったでしょ！！🐏【 #今日のわため 】 #shorts #hololive #vtuber
-UID:fUrZoTA6ypk
+DTSTART:20240919T100000Z
+SUMMARY:❤赤井はあと: 【#holoGTA】ギャングに始まり、ギャングで終わる。【赤井はあと/ホロライブ】
+UID:lnehpuqHyF4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#holoGTA DAY3】パン屋の娘、犬カフェで両親を「犬」の方で雇う傍ら――。【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=mCGzzygy5cY
@@ -165,18 +165,18 @@ SUMMARY:🌙紫咲シオン: ロミオとシンデレラ 歌ってみた🩷【�
 UID:uOTgmju0-sg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ちょっとついてきちゃダメって言ったでしょ！！🐏【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=fUrZoTA6ypk
+DURATION:PT2H
+DTSTART:20240918T210024Z
+SUMMARY:🐏角巻わため: ちょっとついてきちゃダメって言ったでしょ！！🐏【 #今日のわため 】 #shorts #hololive #vtuber
+UID:fUrZoTA6ypk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ホロGTA】トワ様から運命を賭けた1vs1を申し込まれた結果がひどすぎる…ハニトラされたいラプ様の汚職秒読み警察出勤まとめ #hologta 【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=HPYe1M2wBsM
 DURATION:PT2H
 DTSTART:20240919T093145Z
 SUMMARY:ラプラス: 【ホロGTA】トワ様から運命を賭けた1vs1を申し込まれた結果がひどすぎる…ハニトラされたいラプ様の汚職秒読み警察出勤まとめ #hologta 【ラプラス・ダークネス/ホロライブ】
 UID:HPYe1M2wBsM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#holoGTA】ギャングに始まり、ギャングで終わる。【赤井はあと/ホロライブ】\nhttps://www.youtube.com/watch?v=lnehpuqHyF4
-DURATION:PT2H
-DTSTART:20240919T100000Z
-SUMMARY:❤赤井はあと: 【#holoGTA】ギャングに始まり、ギャングで終わる。【赤井はあと/ホロライブ】
-UID:lnehpuqHyF4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Vtuberが仕事帰りにギリハッピー✌️ #GIRIGIRI #hiphop #shorts 【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=ONUlgMYLbYg
@@ -235,6 +235,13 @@ SUMMARY:風真いろは: 【#holoGTA】やば～い！ちこくちこく！！�
 UID:mlx7hysNTNU
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 #holoGTA 】パン屋ファミリー解散の危機・・？薬屋ルイへの禊【大神ミオ視点】\nhttps://www.youtube.com/watch?v=UX52XaorEfY
+DURATION:PT2H
+DTSTART:20240920T100000Z
+SUMMARY:🌲大神ミオ: 【 #holoGTA 】パン屋ファミリー解散の危機・・？薬屋ルイへの禊【大神ミオ視点】
+UID:UX52XaorEfY
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 #holoGTA 】ホロスサントス３日目！パン屋ファミリーついに動く…のか！？🐶【 戌神ころね 】\nhttps://www.youtube.com/watch?v=To-pKpYMkqU
 DURATION:PT2H
 DTSTART:20240919T100000Z
@@ -282,13 +289,6 @@ DURATION:PT2H
 DTSTART:20240919T084500Z
 SUMMARY:🏴☠宝鐘マリン: 新3Dモデルでパイパイ仮面でどうかしらん？踊ってみた！💃仮面なしVer #shorts #dance
 UID:DeOngDzQhRw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #holoGTA DAY4】メカニック社長の4日目🔧【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=0MMjTu0PG7Q
-DURATION:PT2H
-DTSTART:20240920T100000Z
-SUMMARY:🍙猫又おかゆ: 【 #holoGTA DAY4】メカニック社長の4日目🔧【ホロライブ/猫又おかゆ】
-UID:0MMjTu0PG7Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#holoGTA】今日は遊ぶ日✨【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=wkD0rdMyOTY
@@ -403,6 +403,13 @@ SUMMARY:🐏角巻わため: ひつじのお仕事！【ギリギリわるくな
 UID:huhIcvkp1-w
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#holoGTA】ママ～ッ！？新人さん勧誘で新体制にするって本当～っ！？【 雪花ラミィ /ホロライブ】\nhttps://www.youtube.com/watch?v=RfUFJp0VpJs
+DURATION:PT2H
+DTSTART:20240920T100000Z
+SUMMARY:雪花ラミィ: 【#holoGTA】ママ～ッ！？新人さん勧誘で新体制にするって本当～っ！？【 雪花ラミィ /ホロライブ】
+UID:RfUFJp0VpJs
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 #holoGTA DAY4】ホロライブGTA‼警察市民安全課みこち、がんばります！！！！🚨【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=iSultM-KmyY
 DURATION:PT2H
 DTSTART:20240920T100000Z
@@ -410,11 +417,11 @@ SUMMARY:🌸さくらみこ: 【 #holoGTA DAY4】ホロライブGTA‼警察市�
 UID:iSultM-KmyY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#holoGTA】ママ～ッ！？新人さん勧誘で新体制にするって本当～っ！？【 雪花ラミィ /ホロライブ】\nhttps://www.youtube.com/watch?v=RfUFJp0VpJs
+DESCRIPTION:【VCR Minecraft β】マイクラだけどMMO !??  part6 #VCRマイクラ【アキロゼ/ホロライブ】\nhttps://www.youtube.com/watch?v=PlKITzUO2tQ
 DURATION:PT2H
-DTSTART:20240920T100000Z
-SUMMARY:雪花ラミィ: 【#holoGTA】ママ～ッ！？新人さん勧誘で新体制にするって本当～っ！？【 雪花ラミィ /ホロライブ】
-UID:RfUFJp0VpJs
+DTSTART:20240920T180000Z
+SUMMARY:🍎アキロゼ: 【VCR Minecraft β】マイクラだけどMMO !??  part6 #VCRマイクラ【アキロゼ/ホロライブ】
+UID:PlKITzUO2tQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#holoGTA DAY3】ホロスサントスの世界をととノエル！警官いきます！！【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=aE15FVkzqUY
@@ -480,6 +487,13 @@ SUMMARY:博衣こより: 【 #holoGTA 】今日は大きいコトしたい！！
 UID:fa0UE0yhYFI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 #holoGTA 】DAY4 ｜ 子どもたちが独り立ちをし始めている…！ 【常闇トワ/ホロライブ】\nhttps://www.youtube.com/watch?v=LEff_mlYu14
+DURATION:PT2H
+DTSTART:20240920T100000Z
+SUMMARY:👾常闇トワ: 【 #holoGTA 】DAY4 ｜ 子どもたちが独り立ちをし始めている…！ 【常闇トワ/ホロライブ】
+UID:LEff_mlYu14
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 #holoGTA DAY3】キャバクラマリン、わたしたちこのままでいいのかな？ラミィちゃん【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=kfvjj7Nsvwc
 DURATION:PT2H
 DTSTART:20240919T110000Z
@@ -522,10 +536,10 @@ SUMMARY:🚑大空スバル: 【#holoGTA】　ホロポリスおおぞら署長�
 UID:m2s-quKy4d0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【VCR Minecraft β】マイクラだけどMMO !??  part6 #VCRマイクラ【アキロゼ/ホロライブ】\nhttps://www.youtube.com/watch?v=PlKITzUO2tQ
+DESCRIPTION:【 #holoGTA DAY4】メカニック社長の4日目🔧【ホロライブ/猫又おかゆ】\nhttps://www.youtube.com/watch?v=0MMjTu0PG7Q
 DURATION:PT2H
-DTSTART:20240920T180000Z
-SUMMARY:🍎アキロゼ: 【VCR Minecraft β】マイクラだけどMMO !??  part6 #VCRマイクラ【アキロゼ/ホロライブ】
-UID:PlKITzUO2tQ
+DTSTART:20240920T100000Z
+SUMMARY:🍙猫又おかゆ: 【 #holoGTA DAY4】メカニック社長の4日目🔧【ホロライブ/猫又おかゆ】
+UID:0MMjTu0PG7Q
 END:VEVENT
 END:VCALENDAR
