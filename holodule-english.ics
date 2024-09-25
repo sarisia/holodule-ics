@@ -4,25 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【TTRPG: GUN】Session Time! Fauna\, Gigi and Biboo Go West! #calliolive\nhttps://www.youtube.com/watch?v=_YVjDbdXwyQ
+DURATION:PT2H
+DTSTART:20240927T030000Z
+SUMMARY:Calli: 【TTRPG: GUN】Session Time! Fauna\, Gigi and Biboo Go West! #calliolive
+UID:_YVjDbdXwyQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ART】drawing a blondie\nhttps://www.youtube.com/watch?v=o5ocN7_m9KE
 DURATION:PT2H
 DTSTART:20240925T160000Z
 SUMMARY:Kiara: 【ART】drawing a blondie
 UID:o5ocN7_m9KE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ULTRAKILL】why is it ultra kill and not ultra kindness? ultra friendship? ultra 𝓯𝓻𝓮𝓪𝓴𝔂?\nhttps://www.youtube.com/watch?v=792cVGKWJv8
-DURATION:PT2H
-DTSTART:20240923T210000Z
-SUMMARY:Gigi: 【ULTRAKILL】why is it ultra kill and not ultra kindness? ultra friendship? ultra 𝓯𝓻𝓮𝓪𝓴𝔂?
-UID:792cVGKWJv8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【GRAONDSTONE】 Lethal Company with Biboo and Kaela! 🩷❤️💜\nhttps://www.youtube.com/watch?v=9TroI9swAuo
-DURATION:PT2H
-DTSTART:20240924T023000Z
-SUMMARY:Raora: 【GRAONDSTONE】 Lethal Company with Biboo and Kaela! 🩷❤️💜
-UID:9TroI9swAuo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Buckshot Roulette】Will I still have my 6/9 lives today?\nhttps://www.youtube.com/watch?v=oOWdDTf3jBU
@@ -39,41 +32,6 @@ SUMMARY:ENholo: 【Cover MV】Shunkan Heartbeat 【hololive English -Advent-】
 UID:C2ZfsVVhdww
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:the ultimate ranking of bad book/shoujo manga tropes - with Fauna\nhttps://www.youtube.com/watch?v=m69qTuudgp8
-DURATION:PT2H
-DTSTART:20240923T200000Z
-SUMMARY:Cecilia: the ultimate ranking of bad book/shoujo manga tropes - with Fauna
-UID:m69qTuudgp8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Black Myth: Wukong】Just One More Try | Ep-04\nhttps://www.youtube.com/watch?v=w_iWPUj8JoE
-DURATION:PT2H
-DTSTART:20240924T010000Z
-SUMMARY:Shiori: 【Black Myth: Wukong】Just One More Try | Ep-04
-UID:w_iWPUj8JoE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【LETHAL COMPANY】GRAONDSTONE COMPANY!\nhttps://www.youtube.com/watch?v=SATBPQjkFu0
-DURATION:PT2H
-DTSTART:20240924T023000Z
-SUMMARY:Bijou: 【LETHAL COMPANY】GRAONDSTONE COMPANY!
-UID:SATBPQjkFu0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ESCAPE SIMULATOR COLLAB with AME】#holoEN blondes can solve any puzzle 🔎🐾【FUWAMOCO】\nhttps://www.youtube.com/watch?v=9LjnAuqWK3s
-DURATION:PT2H
-DTSTART:20240924T010000Z
-SUMMARY:FUWAMOCO: 【ESCAPE SIMULATOR COLLAB with AME】#holoEN blondes can solve any puzzle 🔎🐾【FUWAMOCO】
-UID:9LjnAuqWK3s
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MEMBER'S ONLY】Hang Out and Some Other Stuff?? || Mori Calliope #calliolive\nhttps://www.youtube.com/watch?v=TLvrWtfKzhU
-DURATION:PT2H
-DTSTART:20240924T125937Z
-SUMMARY:Calli: 【MEMBER'S ONLY】Hang Out and Some Other Stuff?? || Mori Calliope #calliolive
-UID:TLvrWtfKzhU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MEMBERS ONLY】Help make me better\, Jailbirds (and I eated)\nhttps://www.youtube.com/watch?v=0C0v92PorYo
 DURATION:PT2H
 DTSTART:20240925T000000Z
@@ -86,13 +44,6 @@ DURATION:PT2H
 DTSTART:20240925T031500Z
 SUMMARY:Kronii: 【Panicore】Very Quietly Now With @KaelaKovalskia
 UID:Ec2ucvEJQdg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Earth Defense Force 6】We Are the Infantry: Brave & Strong! We Got Muscles to Protect You All!\nhttps://www.youtube.com/watch?v=MosGttRX15Q
-DURATION:PT2H
-DTSTART:20240926T010000Z
-SUMMARY:Shiori: 【Earth Defense Force 6】We Are the Infantry: Brave & Strong! We Got Muscles to Protect You All!
-UID:MosGttRX15Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FALLOUT: NEW VEGAS】is there no waffle house around here #kfp #キアライブ\nhttps://www.youtube.com/watch?v=Vm01W4j-OMA
@@ -109,11 +60,11 @@ SUMMARY:Amelia: 【Oblivion DLC】HAND OVER ALL THE CHEESE!! !! 🧀
 UID:OskSC9P2-j8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【DRAWING】LET'S PRACTICE AND DOODLE TOGETHER! #CiaoRaora\nhttps://www.youtube.com/watch?v=f8aws1yDM-0
+DESCRIPTION:【Earth Defense Force 6】We Are the Infantry: Brave & Strong! We Got Muscles to Protect You All!\nhttps://www.youtube.com/watch?v=MosGttRX15Q
 DURATION:PT2H
-DTSTART:20240924T120000Z
-SUMMARY:Raora: 【DRAWING】LET'S PRACTICE AND DOODLE TOGETHER! #CiaoRaora
-UID:f8aws1yDM-0
+DTSTART:20240926T010000Z
+SUMMARY:Shiori: 【Earth Defense Force 6】We Are the Infantry: Brave & Strong! We Got Muscles to Protect You All!
+UID:MosGttRX15Q
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PASSPARTOUT 2: THE LOST ARTIST】i have 5 billion dollar in art school debt\nhttps://www.youtube.com/watch?v=0oXLOjjAUSE
@@ -130,13 +81,6 @@ SUMMARY:Gigi: 【SUPERCHAT READING】KETCHUP!!!!!!
 UID:WSQ-x_8Bn4A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Superchat Catchup】Reading Anniversary Supas ❣\nhttps://www.youtube.com/watch?v=x8yhB0c9GZs
-DURATION:PT2H
-DTSTART:20240924T030000Z
-SUMMARY:Kronii: 【Superchat Catchup】Reading Anniversary Supas ❣
-UID:x8yhB0c9GZs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【EARTH DEFENSE FORCE 6 COLLAB｜地球防衛軍6】fight alongside our senpai 🐾 #holoAdvent 【FUWAMOCO】\nhttps://www.youtube.com/watch?v=8s_IL8LmZSI
 DURATION:PT2H
 DTSTART:20240926T010000Z
@@ -149,13 +93,6 @@ DURATION:PT2H
 DTSTART:20240926T010000Z
 SUMMARY:Bijou: 【EARTH DEFENSE FORCE 6】ADF! ADF! ADF! #holoadvent
 UID:t16tkTPdAYs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】ちいさな 冒険者 (Chiisana Boukensha) from Konosuba | From my 3D Live ! #shorts\nhttps://www.youtube.com/watch?v=fb_GWXGOaFI
-DURATION:PT2H
-DTSTART:20240924T101741Z
-SUMMARY:Mumei: 【歌ってみた】ちいさな 冒険者 (Chiisana Boukensha) from Konosuba | From my 3D Live ! #shorts
-UID:fb_GWXGOaFI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TTRPG: GUN】Character Creation Stream! Western Adventure with Fauna\, Gigi and Biboo! #calliolive\nhttps://www.youtube.com/watch?v=C9GIAD3601I
