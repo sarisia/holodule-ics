@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#holoGTA RP】That time with Reine and the Kronii Saga #holoGTAFA  #pavoliareine #pavonova #hololive\nhttps://www.youtube.com/watch?v=B5OaHcNDV4Y
+DURATION:PT2H
+DTSTART:20240926T110013Z
+SUMMARY:Reine: 【#holoGTA RP】That time with Reine and the Kronii Saga #holoGTAFA  #pavoliareine #pavonova #hololive
+UID:B5OaHcNDV4Y
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Blood Lily Loop】A "Friendship" That Rewrites The World【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=QI-78QwiTVI
+DURATION:PT2H
+DTSTART:20240926T130000Z
+SUMMARY:Reine: 【Blood Lily Loop】A "Friendship" That Rewrites The World【Pavolia Reine/hololiveID 2nd gen】
+UID:QI-78QwiTVI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#holoGTA】Free talk! Let's make a picture diary! 📷\nhttps://www.youtube.com/watch?v=1vOiP0uHF-k
 DURATION:PT2H
 DTSTART:20240926T150000Z
@@ -25,45 +39,17 @@ SUMMARY:🐿Risu: 【Two Point Campus】Menjadi Rektor【Ayunda Risu】
 UID:T-eJW4C3Rnw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:PREPARING LIST FOR HOLOCTOBER 2024!\nhttps://www.youtube.com/watch?v=ywzPD4X1umw
-DURATION:PT2H
-DTSTART:20240926T140000Z
-SUMMARY:🎨Iofi: PREPARING LIST FOR HOLOCTOBER 2024!
-UID:ywzPD4X1umw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PANICORE】KRONII\, BEHIND YOU!【Timesmith】\nhttps://www.youtube.com/watch?v=Fb7Mk9thssQ
-DURATION:PT2H
-DTSTART:20240925T031500Z
-SUMMARY:Kaela: 【PANICORE】KRONII\, BEHIND YOU!【Timesmith】
-UID:Fb7Mk9thssQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Blood Lily Loop】A "Friendship" That Rewrites The World【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=QI-78QwiTVI
-DURATION:PT2H
-DTSTART:20240926T130000Z
-SUMMARY:Reine: 【Blood Lily Loop】A "Friendship" That Rewrites The World【Pavolia Reine/hololiveID 2nd gen】
-UID:QI-78QwiTVI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#holoGTA RP】That time with Reine & Moona & decorating #holoGTAFA  #pavoliareine #pavonova #hololive\nhttps://www.youtube.com/watch?v=GlBUriCsUXs
-DURATION:PT2H
-DTSTART:20240925T130019Z
-SUMMARY:Reine: 【#holoGTA RP】That time with Reine & Moona & decorating #holoGTAFA  #pavoliareine #pavonova #hololive
-UID:GlBUriCsUXs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#holoGTA RP】That time with Reine and the Kronii Saga #holoGTAFA  #pavoliareine #pavonova #hololive\nhttps://www.youtube.com/watch?v=B5OaHcNDV4Y
-DURATION:PT2H
-DTSTART:20240926T110013Z
-SUMMARY:Reine: 【#holoGTA RP】That time with Reine and the Kronii Saga #holoGTAFA  #pavoliareine #pavonova #hololive
-UID:B5OaHcNDV4Y
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Original Song】Sing Out【Ayunda Risu】\nhttps://www.youtube.com/watch?v=1vq_KqayoQY
 DURATION:PT2H
 DTSTART:20240927T130000Z
 SUMMARY:🐿Risu: 【Original Song】Sing Out【Ayunda Risu】
 UID:1vq_KqayoQY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:PREPARING LIST FOR HOLOCTOBER 2024!\nhttps://www.youtube.com/watch?v=ywzPD4X1umw
+DURATION:PT2H
+DTSTART:20240926T140000Z
+SUMMARY:🎨Iofi: PREPARING LIST FOR HOLOCTOBER 2024!
+UID:ywzPD4X1umw
 END:VEVENT
 END:VCALENDAR
