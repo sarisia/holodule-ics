@@ -4,18 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Free Day】it's thursday my dudes. let's play a game\, idk what yet\nhttps://www.youtube.com/watch?v=Bvs5RQdKqNk
-DURATION:PT2H
-DTSTART:20240927T010000Z
-SUMMARY:Shinri: 【Free Day】it's thursday my dudes. let's play a game\, idk what yet
-UID:Bvs5RQdKqNk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ASMR】Let's experiment a bit with scenarios and prompts hehehe 【T3 Membership】\nhttps://www.youtube.com/watch?v=k72xgj58S3M
 DURATION:PT2H
 DTSTART:20240926T151500Z
 SUMMARY:Hakka: 【ASMR】Let's experiment a bit with scenarios and prompts hehehe 【T3 Membership】
 UID:k72xgj58S3M
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【The Legend of Zelda: Majora's Mask】"You've met with a terrible fate\, haven't you?"\nhttps://www.youtube.com/watch?v=Ag43hJFGtBI
+DURATION:PT2H
+DTSTART:20240927T150000Z
+SUMMARY:Goldbullet: 【The Legend of Zelda: Majora's Mask】"You've met with a terrible fate\, haven't you?"
+UID:Ag43hJFGtBI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DEADLOCK】Not winning a single match w/ ARMIS\nhttps://www.youtube.com/watch?v=mszxpe1qwoc
+DURATION:PT2H
+DTSTART:20240928T010000Z
+SUMMARY:Octavio: 【DEADLOCK】Not winning a single match w/ ARMIS
+UID:mszxpe1qwoc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Scam Karaoke】Time to drink one for the boys!!\nhttps://www.youtube.com/watch?v=_olT69SWI3A
@@ -25,11 +32,11 @@ SUMMARY:Syrios: 【Scam Karaoke】Time to drink one for the boys!!
 UID:_olT69SWI3A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【The Legend of Zelda: Majora's Mask】"You've met with a terrible fate\, haven't you?"\nhttps://www.youtube.com/watch?v=Ag43hJFGtBI
+DESCRIPTION:【Free Day】it's thursday my dudes. let's play a game\, idk what yet\nhttps://www.youtube.com/watch?v=Bvs5RQdKqNk
 DURATION:PT2H
-DTSTART:20240927T150000Z
-SUMMARY:Goldbullet: 【The Legend of Zelda: Majora's Mask】"You've met with a terrible fate\, haven't you?"
-UID:Ag43hJFGtBI
+DTSTART:20240927T010000Z
+SUMMARY:Shinri: 【Free Day】it's thursday my dudes. let's play a game\, idk what yet
+UID:Bvs5RQdKqNk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[HOUSE FLIPPER 2] MAKING THE HOUSE OF YOUR DREAMS #gavisbettel #holotempus\nhttps://www.youtube.com/watch?v=XK_MxSS7Nu4
