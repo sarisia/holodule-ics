@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【雑談】映像見ながらライブの振り返り＆裏話＆おうち3Dお披露目などをします！！！#ReGLOSS3Dライブ【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=COf0p2UIo5U
+DESCRIPTION:【ファタール】3Dで歌ってみた【轟はじめ/ReGLOSS】#vtuber #ファタール\nhttps://www.youtube.com/watch?v=n886f3X_NCM
 DURATION:PT2H
-DTSTART:20240929T080000Z
-SUMMARY:儒烏風亭らでん: 【雑談】映像見ながらライブの振り返り＆裏話＆おうち3Dお披露目などをします！！！#ReGLOSS3Dライブ【儒烏風亭らでん #ReGLOSS 】
-UID:COf0p2UIo5U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #regloss3Dライブ 振り返り 】昨日はすごかったね【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=a7CJtVNzA_0
-DURATION:PT2H
-DTSTART:20240929T120000Z
-SUMMARY:音乃瀬奏: 【 #regloss3Dライブ 振り返り 】昨日はすごかったね【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
-UID:a7CJtVNzA_0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【＃ReGLOSS3DLIVE 振り返り】振付みたり、初お家３Dも...！？【轟はじめ/ReGLOSS】 #hololivedev_is\nhttps://www.youtube.com/watch?v=2erYgRgjD14
-DURATION:PT2H
-DTSTART:20240929T090000Z
-SUMMARY:轟はじめ: 【＃ReGLOSS3DLIVE 振り返り】振付みたり、初お家３Dも...！？【轟はじめ/ReGLOSS】 #hololivedev_is
-UID:2erYgRgjD14
+DTSTART:20240930T030000Z
+SUMMARY:轟はじめ: 【ファタール】3Dで歌ってみた【轟はじめ/ReGLOSS】#vtuber #ファタール
+UID:n886f3X_NCM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【３Dソロお披露目】VRChatで3D！沢山ファンサするよ✨【火威 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=Cyaz5VVekCY
@@ -30,6 +16,13 @@ DURATION:PT2H
 DTSTART:20240929T100000Z
 SUMMARY:火威青: 【３Dソロお披露目】VRChatで3D！沢山ファンサするよ✨【火威 】#hololiveDEV_IS #ReGLOSS
 UID:Cyaz5VVekCY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #regloss3Dライブ 振り返り 】昨日はすごかったね【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=a7CJtVNzA_0
+DURATION:PT2H
+DTSTART:20240929T120000Z
+SUMMARY:音乃瀬奏: 【 #regloss3Dライブ 振り返り 】昨日はすごかったね【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
+UID:a7CJtVNzA_0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【初おうち3D！お披露目】なんでデスゲーム！？初3Dライブの裏話...実は大変なことになってました…泣【#ReGLOSS3Dライブ 一条莉々華】\nhttps://www.youtube.com/watch?v=627Mp4XhIQQ
@@ -51,5 +44,19 @@ DURATION:PT2H
 DTSTART:20240929T090000Z
 SUMMARY:儒烏風亭らでん: 【#ReGLOSS3Dライブ】未来のミュージアム/Perfume【cover】【儒烏風亭らでんソロパート】
 UID:E1SbTftjJTA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】映像見ながらライブの振り返り＆裏話＆おうち3Dお披露目などをします！！！#ReGLOSS3Dライブ【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=COf0p2UIo5U
+DURATION:PT2H
+DTSTART:20240929T080000Z
+SUMMARY:儒烏風亭らでん: 【雑談】映像見ながらライブの振り返り＆裏話＆おうち3Dお披露目などをします！！！#ReGLOSS3Dライブ【儒烏風亭らでん #ReGLOSS 】
+UID:COf0p2UIo5U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【＃ReGLOSS3DLIVE 振り返り】振付みたり、初お家３Dも...！？【轟はじめ/ReGLOSS】 #hololivedev_is\nhttps://www.youtube.com/watch?v=2erYgRgjD14
+DURATION:PT2H
+DTSTART:20240929T090000Z
+SUMMARY:轟はじめ: 【＃ReGLOSS3DLIVE 振り返り】振付みたり、初お家３Dも...！？【轟はじめ/ReGLOSS】 #hololivedev_is
+UID:2erYgRgjD14
 END:VEVENT
 END:VCALENDAR
