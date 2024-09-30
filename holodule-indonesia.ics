@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【M.M.M.】Minggu Malam Malas【Ayunda Risu】\nhttps://www.youtube.com/watch?v=aVe3JERmKbA
-DURATION:PT2H
-DTSTART:20240929T130000Z
-SUMMARY:🐿Risu: 【M.M.M.】Minggu Malam Malas【Ayunda Risu】
-UID:aVe3JERmKbA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#holoID_EkskulDays】Trivial Debate Club w/ Guests !!! Debat tentang hal gak penting?!?!?\nhttps://www.youtube.com/watch?v=TUw2_5cS2_s
 DURATION:PT2H
 DTSTART:20240930T100000Z
 SUMMARY:Zeta: 【#holoID_EkskulDays】Trivial Debate Club w/ Guests !!! Debat tentang hal gak penting?!?!?
 UID:TUw2_5cS2_s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【M.M.M.】Minggu Malam Malas【Ayunda Risu】\nhttps://www.youtube.com/watch?v=aVe3JERmKbA
+DURATION:PT2H
+DTSTART:20240929T130000Z
+SUMMARY:🐿Risu: 【M.M.M.】Minggu Malam Malas【Ayunda Risu】
+UID:aVe3JERmKbA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Honor of Kings】dipaksa jadi Dyadia bang al\, yaudah profesional aja demi cincin\nhttps://www.youtube.com/watch?v=T2Ufi2lU7SI
@@ -44,6 +44,13 @@ DURATION:PT2H
 DTSTART:20240929T060000Z
 SUMMARY:Anya: 【Granblue Fantasy: Relink】THIS DANCHOU WILL SAVE LYRIA AND EVERYONE【hololive ID | Anya Melfissa】
 UID:d-YE9mOixkc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#holoID_EkskulDays】English Club Opening with Risunalities !!【#RisuSwitch】\nhttps://www.youtube.com/watch?v=_Nt5RZych0o
+DURATION:PT2H
+DTSTART:20240930T090000Z
+SUMMARY:🐿Risu: 【#holoID_EkskulDays】English Club Opening with Risunalities !!【#RisuSwitch】
+UID:_Nt5RZych0o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#hololiveSTAGE24】hololive STAGE World Tour ’24 Soar! HYPE STREAM Vol. 2\nhttps://www.youtube.com/watch?v=T_W1ab57s1Y
