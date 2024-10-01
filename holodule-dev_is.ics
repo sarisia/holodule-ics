@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#ReGLOSS3DLIVE】Departures～あなたにおくるアイの歌～（cover）【音乃瀬奏ソロパート】\nhttps://www.youtube.com/watch?v=VFvdcfTtBR0
-DURATION:PT2H
-DTSTART:20241001T120039Z
-SUMMARY:音乃瀬奏: 【#ReGLOSS3DLIVE】Departures～あなたにおくるアイの歌～（cover）【音乃瀬奏ソロパート】
-UID:VFvdcfTtBR0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ライブ切り抜き】未来のミュージアム フルver.は▶︎をタップ！【儒烏風亭らでん】#shorts\nhttps://www.youtube.com/watch?v=W4woo9kj2c8
 DURATION:PT2H
 DTSTART:20241001T093347Z
@@ -23,6 +16,27 @@ DURATION:PT2H
 DTSTART:20241001T093000Z
 SUMMARY:火威青: 【#ReGLOSS3Dライブ】Shiny Smily Story【火威青 】#hololiveDEV_IS #ReGLOSS
 UID:u1GmkH2cLHM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【＃マイクラ肝試し2024】ポルカとエリアを見て回る～！【轟はじめ/ReGLOSS】 #hololivedev_is\nhttps://www.youtube.com/watch?v=9tvZh3Lq4b4
+DURATION:PT2H
+DTSTART:20241001T130000Z
+SUMMARY:轟はじめ: 【＃マイクラ肝試し2024】ポルカとエリアを見て回る～！【轟はじめ/ReGLOSS】 #hololivedev_is
+UID:9tvZh3Lq4b4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【rehearsal】BANDAGE-Ayumu Imazu /cover【轟はじめリハ映像】\nhttps://www.youtube.com/watch?v=bo9rKRFMWow
+DURATION:PT2H
+DTSTART:20241002T090000Z
+SUMMARY:轟はじめ: 【rehearsal】BANDAGE-Ayumu Imazu /cover【轟はじめリハ映像】
+UID:bo9rKRFMWow
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ReGLOSS3DLIVE】Departures～あなたにおくるアイの歌～（cover）【音乃瀬奏ソロパート】\nhttps://www.youtube.com/watch?v=VFvdcfTtBR0
+DURATION:PT2H
+DTSTART:20241001T120039Z
+SUMMARY:音乃瀬奏: 【#ReGLOSS3DLIVE】Departures～あなたにおくるアイの歌～（cover）【音乃瀬奏ソロパート】
+UID:VFvdcfTtBR0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ReGLOSS3Dライブ】渾身のデスゲーム格付け【#一条莉々華 #hololiveDEV_IS #ReGLOSS】\nhttps://www.youtube.com/watch?v=8AUPQS1UwVg
@@ -44,12 +58,5 @@ DURATION:PT2H
 DTSTART:20241001T110033Z
 SUMMARY:音乃瀬奏: 【 #holoGTA 】ヤンキー医者に殴られ、お金をたかられるVTuber泣【音乃瀬奏】 #VTuber #ホロライブ #shorts
 UID:SZ81jLUD4HE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【＃マイクラ肝試し2024】ポルカとエリアを見て回る～！【轟はじめ/ReGLOSS】 #hololivedev_is\nhttps://www.youtube.com/watch?v=9tvZh3Lq4b4
-DURATION:PT2H
-DTSTART:20241001T130000Z
-SUMMARY:轟はじめ: 【＃マイクラ肝試し2024】ポルカとエリアを見て回る～！【轟はじめ/ReGLOSS】 #hololivedev_is
-UID:9tvZh3Lq4b4
 END:VEVENT
 END:VCALENDAR
