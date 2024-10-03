@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【THE FOREST】Advent are friends\, not food! (probably) #holoadvent\nhttps://www.youtube.com/watch?v=A_I_r0bgjmE
+DURATION:PT2H
+DTSTART:20241004T010000Z
+SUMMARY:Bijou: 【THE FOREST】Advent are friends\, not food! (probably) #holoadvent
+UID:A_I_r0bgjmE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【FULL METAL ALCHEMIST KARAOKE・歌枠】Never Forget...\nhttps://www.youtube.com/watch?v=oWx_6pcFx8U
 DURATION:PT2H
 DTSTART:20241003T030000Z
@@ -20,7 +27,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DRAWING】doodle and practice today! (maaaybe) #CiaoRaora\nhttps://www.youtube.com/watch?v=vHnY_NgF2qQ
 DURATION:PT2H
-DTSTART:20241003T120000Z
+DTSTART:20241003T121000Z
 SUMMARY:Raora: 【DRAWING】doodle and practice today! (maaaybe) #CiaoRaora
 UID:vHnY_NgF2qQ
 END:VEVENT
