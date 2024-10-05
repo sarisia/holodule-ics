@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【#マイクラ肝試し2024】はじめての肝試し！ドキドキ3期生でまわるぞ！！【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=lv6Q4B6U9yA
+DURATION:PT2H
+DTSTART:20241005T120000Z
+SUMMARY:🏴☠宝鐘マリン: 【#マイクラ肝試し2024】はじめての肝試し！ドキドキ3期生でまわるぞ！！【ホロライブ/宝鐘マリン】
+UID:lv6Q4B6U9yA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 TCG Card Shop Simulator 】 大物新人バイトくん()が来てしまった前途多難なカードショップ！【ホロライブ/沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=8UKjUHKw-Q4
 DURATION:PT2H
 DTSTART:20241005T150000Z
@@ -11,11 +18,18 @@ SUMMARY:沙花叉クロヱ: 【 TCG Card Shop Simulator 】 大物新人バイ�
 UID:8UKjUHKw-Q4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✧︎動きが可愛すぎる♡ きゅるりんってしてみて/きゅるして 踊ってみた✧︎#kawaii 【ラプラス・ダークネス/ホロライブ】 #shorts\nhttps://www.youtube.com/watch?v=SvOdfskoSqY
+DESCRIPTION:【#6】ドラゴンクエストⅣするしゅばああああああああああああああああ！！！ / DRAGON QUESTⅣ【ネタバレあり】\nhttps://www.youtube.com/watch?v=6veKN4bwmkw
 DURATION:PT2H
-DTSTART:20241004T071921Z
-SUMMARY:ラプラス: ✧︎動きが可愛すぎる♡ きゅるりんってしてみて/きゅるして 踊ってみた✧︎#kawaii 【ラプラス・ダークネス/ホロライブ】 #shorts
-UID:SvOdfskoSqY
+DTSTART:20241005T040000Z
+SUMMARY:🚑大空スバル: 【#6】ドラゴンクエストⅣするしゅばああああああああああああああああ！！！ / DRAGON QUESTⅣ【ネタバレあり】
+UID:6veKN4bwmkw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 ゼルダの伝説 知恵のかりもの 】新作遊んでゆく～～～ #02【 猫又おかゆ/ホロライブ 】\nhttps://www.youtube.com/watch?v=G7z5tXn1vRg
+DURATION:PT2H
+DTSTART:20241006T040000Z
+SUMMARY:🍙猫又おかゆ: 【 ゼルダの伝説 知恵のかりもの 】新作遊んでゆく～～～ #02【 猫又おかゆ/ホロライブ 】
+UID:G7z5tXn1vRg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#マイクラ肝試し2024】ねね！りりか！はじめ！いくぞ！！！これが……俺の……マイクラ肝試しだッッッ！！！【尾丸ポルカ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=w8QtkJY4H5c
@@ -25,25 +39,11 @@ SUMMARY:尾丸ポルカ: 【#マイクラ肝試し2024】ねね！りりか！�
 UID:w8QtkJY4H5c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Bling‐Bang-Bang‐Born - 尾丸ポルカ(cover)\nhttps://www.youtube.com/watch?v=gnKxQWZHIhk
-DURATION:PT2H
-DTSTART:20241004T130000Z
-SUMMARY:尾丸ポルカ: Bling‐Bang-Bang‐Born - 尾丸ポルカ(cover)
-UID:gnKxQWZHIhk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:暇だと言う高木に辛辣すぎる言葉をぶつけるラプ様www【#スト6/ラプラス・ダークネス/ホロライブ/RIDDLE 高木】#shorts\nhttps://www.youtube.com/watch?v=XIT5_O9VLg4
 DURATION:PT2H
 DTSTART:20241005T041752Z
 SUMMARY:ラプラス: 暇だと言う高木に辛辣すぎる言葉をぶつけるラプ様www【#スト6/ラプラス・ダークネス/ホロライブ/RIDDLE 高木】#shorts
 UID:XIT5_O9VLg4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠/KARAOKE】機材新調＆歌ってみた記念歌枠～！【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=Vz_EbAIbjIA
-DURATION:PT2H
-DTSTART:20241004T120000Z
-SUMMARY:尾丸ポルカ: 【歌枠/KARAOKE】機材新調＆歌ってみた記念歌枠～！【尾丸ポルカ/ホロライブ】
-UID:Vz_EbAIbjIA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TCG Card Shop Simulator】あの楽しいカードゲーム屋さんがこの街にもオープン！【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=vJ5jQBHNs80
@@ -53,20 +53,6 @@ SUMMARY:尾丸ポルカ: 【TCG Card Shop Simulator】あの楽しいカード�
 UID:vJ5jQBHNs80
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MemberOnly】映画同時視聴「天使にラブ・ソングを・・・」 #かなたんロードショー 【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=6rqqpNhEMuQ
-DURATION:PT2H
-DTSTART:20241004T130000Z
-SUMMARY:💫天音かなた: 【MemberOnly】映画同時視聴「天使にラブ・ソングを・・・」 #かなたんロードショー 【天音かなた/ホロライブ】
-UID:6rqqpNhEMuQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【スト6】#じーにあすCup に参加するぞい！かずのこチーム顔合わせその２！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=SVbZTce4FtE
-DURATION:PT2H
-DTSTART:20241004T100000Z
-SUMMARY:獅白ぼたん: 【スト6】#じーにあすCup に参加するぞい！かずのこチーム顔合わせその２！【獅白ぼたん/ホロライブ】
-UID:SVbZTce4FtE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【お宝マウンテン】「こんぺこDLC」きｔらああああああああああああ！！！3万点以上で告知します！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=tplwUIOPEZA
 DURATION:PT2H
 DTSTART:20241005T090000Z
@@ -74,11 +60,32 @@ SUMMARY:👯兎田ぺこら: 【お宝マウンテン】「こんぺこDLC」き
 UID:tplwUIOPEZA
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【#マイクラ肝試し2024】３期生といく「ぼくらの夏休み」【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=NwFuFljJ-Ag
+DURATION:PT2H
+DTSTART:20241005T120000Z
+SUMMARY:🔥不知火フレア: 【#マイクラ肝試し2024】３期生といく「ぼくらの夏休み」【不知火フレア/ホロライブ】
+UID:NwFuFljJ-Ag
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 ドラクエⅨ 】完全初見。DS版！師匠・・・どうしちまったんだよ・・・【鷹嶺ルイ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=4Na8v5HHHH0
 DURATION:PT2H
 DTSTART:20241005T030000Z
 SUMMARY:鷹嶺ルイ: 【 ドラクエⅨ 】完全初見。DS版！師匠・・・どうしちまったんだよ・・・【鷹嶺ルイ/ホロライブ】※ネタバレあり
 UID:4Na8v5HHHH0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:夜見れなの1万円コーデバトルが強すぎるwww#ポルカの伝説 #尾丸ポルカ\nhttps://www.youtube.com/watch?v=fA5Gz-rHbNo
+DURATION:PT2H
+DTSTART:20241005T090036Z
+SUMMARY:尾丸ポルカ: 夜見れなの1万円コーデバトルが強すぎるwww#ポルカの伝説 #尾丸ポルカ
+UID:fA5Gz-rHbNo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:バーチャルアイドルが渋谷で路上ライブ‼️ #ムーンライト\nhttps://www.youtube.com/watch?v=35GW1kc4I98
+DURATION:PT2H
+DTSTART:20241004T161818Z
+SUMMARY:☄星街すいせい: バーチャルアイドルが渋谷で路上ライブ‼️ #ムーンライト
+UID:35GW1kc4I98
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スト6】#じーにあすCup かずのこチームWIN！【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=9DwSzmuiRCo
@@ -102,18 +109,18 @@ SUMMARY:ラプラス: 【STREET FIGHTER 6】はじめてのスト６#４ 高木�
 UID:WxayyDo8erg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【映画紹介】映画『SAW』9作品で個人的に好きなグロシーンTOP10発表！（ネタバレあり）\nhttps://www.youtube.com/watch?v=aofYLUiTpTI
+DURATION:PT2H
+DTSTART:20241005T090000Z
+SUMMARY:🥐戌神ころね: 【映画紹介】映画『SAW』9作品で個人的に好きなグロシーンTOP10発表！（ネタバレあり）
+UID:aofYLUiTpTI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ELDEN RING】#25 ミケラの聖樹だ！！！初見エルデンリング！！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=bFjmRg_bhyI
 DURATION:PT2H
 DTSTART:20241005T040000Z
 SUMMARY:💫天音かなた: 【ELDEN RING】#25 ミケラの聖樹だ！！！初見エルデンリング！！！！【天音かなた/ホロライブ】
 UID:bFjmRg_bhyI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ASA￤アベレーション】拠点を建築したいんだ！続・全恐竜捕まえるまで終われまテン！Part 7【アキロゼ/ホロライブ】\nhttps://www.youtube.com/watch?v=a9j9ipvJskk
-DURATION:PT2H
-DTSTART:20241004T140000Z
-SUMMARY:🍎アキロゼ: 【ASA￤アベレーション】拠点を建築したいんだ！続・全恐竜捕まえるまで終われまテン！Part 7【アキロゼ/ホロライブ】
-UID:a9j9ipvJskk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Blu-ray発売記念！】 2nd Live「わためぇ Night Fever!! in TOKYO GARDEN THEATER」ダイジェストMV🐏\nhttps://www.youtube.com/watch?v=WyKa9DHUqBE
@@ -130,6 +137,13 @@ SUMMARY:⚔白銀ノエル: 【#マイクラ肝試し2024】三期生の絆！�
 UID:-zMJLsn8ooE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:パイパイ仮面でどうかしらん？ #ホロライブ #hololive #vtuber #踊ってみた #雪花ラミィ #宝鐘マリン #shorts\nhttps://www.youtube.com/watch?v=5ZH1OsAZbzI
+DURATION:PT2H
+DTSTART:20241005T030004Z
+SUMMARY:雪花ラミィ: パイパイ仮面でどうかしらん？ #ホロライブ #hololive #vtuber #踊ってみた #雪花ラミィ #宝鐘マリン #shorts
+UID:5ZH1OsAZbzI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ゼルダの伝説 知恵のかりもの】ジャブール水域で水着暮らしはじめます！#3【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=g77eC2QQdpE
 DURATION:PT2H
 DTSTART:20241005T130000Z
@@ -137,11 +151,11 @@ SUMMARY:🐏角巻わため: 【ゼルダの伝説 知恵のかりもの】ジ�
 UID:g77eC2QQdpE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:破壊力抜群な叩いて被ってじゃんけんぽん！ #hololive #ホロライブ #天音かなた #姫森ルーナ\nhttps://www.youtube.com/watch?v=OcvHNVSRi5Q
+DESCRIPTION:ししわたの学校で遊ぼう！【獅白ぼたん・角巻わため/ホロライブ】\nhttps://www.youtube.com/watch?v=o21sWnaXbzI
 DURATION:PT2H
-DTSTART:20241004T100034Z
-SUMMARY:ホロライブ: 破壊力抜群な叩いて被ってじゃんけんぽん！ #hololive #ホロライブ #天音かなた #姫森ルーナ
-UID:OcvHNVSRi5Q
+DTSTART:20241006T100500Z
+SUMMARY:獅白ぼたん: ししわたの学校で遊ぼう！【獅白ぼたん・角巻わため/ホロライブ】
+UID:o21sWnaXbzI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】最多デス賞はイヤだ！！  #チームともだちマイクラハードコア 【アキロゼ視点/ホロライブ】\nhttps://www.youtube.com/watch?v=8e4-0EtQHgQ
@@ -151,24 +165,17 @@ SUMMARY:🍎アキロゼ: 【Minecraft】最多デス賞はイヤだ！！  #チ
 UID:8e4-0EtQHgQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:さくらんぼメッセージ / さくらみこ (official)\nhttps://www.youtube.com/watch?v=2dkJB8a201s
+DESCRIPTION:【FREE TALK】ほんのり酔い！乾杯しよ～！！！♡【赤井はあと/ホロライブ】\nhttps://www.youtube.com/watch?v=1MUrgIaIVTs
 DURATION:PT2H
-DTSTART:20241004T120000Z
-SUMMARY:🌸さくらみこ: さくらんぼメッセージ / さくらみこ (official)
-UID:2dkJB8a201s
+DTSTART:20241005T150000Z
+SUMMARY:❤赤井はあと: 【FREE TALK】ほんのり酔い！乾杯しよ～！！！♡【赤井はあと/ホロライブ】
+UID:1MUrgIaIVTs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ゼルダの伝説 知恵のかりもの】わーい！水の地域だ！！～３～【ホロライブ/ときのそら】\nhttps://www.youtube.com/watch?v=Ir2YaLv0L80
-DURATION:PT2H
-DTSTART:20241004T121500Z
-SUMMARY:🐻ときのそら: 【ゼルダの伝説 知恵のかりもの】わーい！水の地域だ！！～３～【ホロライブ/ときのそら】
-UID:Ir2YaLv0L80
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 同時視聴/Watchalong 】『ドラゴンクエスト ダイの大冒険(2020)』第1～6話【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=_4o0Wh_g5ks
+DESCRIPTION:【 同時視聴/Watchalong 】『ドラゴンクエスト ダイの大冒険(2020)』第1～7話【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=_4o0Wh_g5ks
 DURATION:PT2H
 DTSTART:20241005T120000Z
-SUMMARY:鷹嶺ルイ: 【 同時視聴/Watchalong 】『ドラゴンクエスト ダイの大冒険(2020)』第1～6話【鷹嶺ルイ/ホロライブ】
+SUMMARY:鷹嶺ルイ: 【 同時視聴/Watchalong 】『ドラゴンクエスト ダイの大冒険(2020)』第1～7話【鷹嶺ルイ/ホロライブ】
 UID:_4o0Wh_g5ks
 END:VEVENT
 BEGIN:VEVENT
@@ -179,11 +186,11 @@ SUMMARY:鷹嶺ルイ: Mimiちゃん！#ひみつのおしごと 踊ってくれ�
 UID:OzgoAFOR8B8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ツノシャイン角巻【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=ZXvpr5RqKvg
+DESCRIPTION:白上フブキ 1st ALBUM「FBKINGDOM “Blessing”」#DearFBKINGDOM\nhttps://www.youtube.com/watch?v=QZHK5Ew5M9I
 DURATION:PT2H
-DTSTART:20241003T210021Z
-SUMMARY:🐏角巻わため: ツノシャイン角巻【 #今日のわため 】 #shorts #hololive #vtuber
-UID:ZXvpr5RqKvg
+DTSTART:20241005T123410Z
+SUMMARY:🌽白上フブキ: 白上フブキ 1st ALBUM「FBKINGDOM “Blessing”」#DearFBKINGDOM
+UID:QZHK5Ew5M9I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:食欲？睡眠欲？【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=XUG7A8MXlIc
@@ -193,32 +200,25 @@ SUMMARY:🐏角巻わため: 食欲？睡眠欲？【 #今日のわため 】 #s
 UID:XUG7A8MXlIc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:渋谷SukuraStageでオンリーイベント開催中✨🌸 #渋谷さくらみこステージ #short\nhttps://www.youtube.com/watch?v=EPv9avH8w_M
+DESCRIPTION:【3DLIVE】白上フブキ生誕祭2024　#FBKINGDOMPROLOGUE【ホロライブ/白上フブキ 】\nhttps://www.youtube.com/watch?v=-a68MSMFuuM
 DURATION:PT2H
-DTSTART:20241004T080016Z
-SUMMARY:🌸さくらみこ: 渋谷SukuraStageでオンリーイベント開催中✨🌸 #渋谷さくらみこステージ #short
-UID:EPv9avH8w_M
+DTSTART:20241005T110000Z
+SUMMARY:🌽白上フブキ: 【3DLIVE】白上フブキ生誕祭2024　#FBKINGDOMPROLOGUE【ホロライブ/白上フブキ 】
+UID:-a68MSMFuuM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【みんなのリズム天国】リズム地獄、最終回（予定）【 雪花ラミィ /ホロライブ】\nhttps://www.youtube.com/watch?v=DyFisbuIHo4
+DESCRIPTION:【FBKINGDOMPROLOGUE】生誕ライブありがとうございました！アフタートーク！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=x1znzxuGjY0
 DURATION:PT2H
-DTSTART:20241004T120000Z
-SUMMARY:雪花ラミィ: 【みんなのリズム天国】リズム地獄、最終回（予定）【 雪花ラミィ /ホロライブ】
-UID:DyFisbuIHo4
+DTSTART:20241005T130000Z
+SUMMARY:🌽白上フブキ: 【FBKINGDOMPROLOGUE】生誕ライブありがとうございました！アフタートーク！【ホロライブ/白上フブキ】
+UID:x1znzxuGjY0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【リズム天国】逆に当てない方が上手い雪花ラミィ #hololive #雪花ラミィ #shorts\nhttps://www.youtube.com/watch?v=ocmEJRRraoA
+DESCRIPTION:『ししわたの学校で遊ぼう！』をししわたで見る配信【獅白ぼたん・角巻わため/ホロライブ】\nhttps://www.youtube.com/watch?v=nj_s9SuORkc
 DURATION:PT2H
-DTSTART:20241004T030042Z
-SUMMARY:雪花ラミィ: 【リズム天国】逆に当てない方が上手い雪花ラミィ #hololive #雪花ラミィ #shorts
-UID:ocmEJRRraoA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【カード】最高にレアなカード引いてやろうぜ！！！/TCG Card Shop Simulator【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=NQ7HUsIcfeg
-DURATION:PT2H
-DTSTART:20241004T100000Z
-SUMMARY:💫天音かなた: 【カード】最高にレアなカード引いてやろうぜ！！！/TCG Card Shop Simulator【天音かなた/ホロライブ】
-UID:NQ7HUsIcfeg
+DTSTART:20241006T100000Z
+SUMMARY:獅白ぼたん: 『ししわたの学校で遊ぼう！』をししわたで見る配信【獅白ぼたん・角巻わため/ホロライブ】
+UID:nj_s9SuORkc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#さくらんぼメッセージ 🍒MMDモーション配布してるから踊ってにぇ🌸 #shorts\nhttps://www.youtube.com/watch?v=c6l3P-C_yFU
@@ -235,251 +235,6 @@ SUMMARY:博衣こより: 【FINAL FANTASY Ⅸ / FF9】遂にファイナルフ�
 UID:tkjD79uUUDw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#マイクラ肝試し2024】初参加！3期生とゆく「僕らの夏休み」ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=ITPvZixB0Gk
-DURATION:PT2H
-DTSTART:20241005T120000Z
-SUMMARY:👯兎田ぺこら: 【#マイクラ肝試し2024】初参加！3期生とゆく「僕らの夏休み」ぺこ！【ホロライブ/兎田ぺこら】
-UID:ITPvZixB0Gk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【TCG Card Shop Simulator】カドショ行脚したりカドショの大会出て少年のシャカパチにビビったりしてたヤツがカドショ開店してみますよって！！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=5g8jrOaCSXQ
-DURATION:PT2H
-DTSTART:20241004T100000Z
-SUMMARY:博衣こより: 【TCG Card Shop Simulator】カドショ行脚したりカドショの大会出て少年のシャカパチにビビったりしてたヤツがカドショ開店してみますよって！！！【博衣こより/ホロライブ】
-UID:5g8jrOaCSXQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#2】とらドラ！同時視聴 / Toradora watching party【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=GXcXdzpBlz4
-DURATION:PT2H
-DTSTART:20241004T120000Z
-SUMMARY:🚑大空スバル: 【#2】とらドラ！同時視聴 / Toradora watching party【ホロライブ/大空スバル】
-UID:GXcXdzpBlz4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【TCG Card Shop Simulator】求激レア！3桁万円カードに出逢いたい♡イエローコヨマリンへようこそ！！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=UhVOcQJ0Hjk
-DURATION:PT2H
-DTSTART:20241005T120000Z
-SUMMARY:博衣こより: 【TCG Card Shop Simulator】求激レア！3桁万円カードに出逢いたい♡イエローコヨマリンへようこそ！！！【博衣こより/ホロライブ】
-UID:UhVOcQJ0Hjk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マイクラ肝試し2024】今年の釣りはあまり出来ませんでした。　その２【ホロライブ/白上フブキ 】\nhttps://www.youtube.com/watch?v=LjjGhJ-jR8A
-DURATION:PT2H
-DTSTART:20241004T153000Z
-SUMMARY:🌽白上フブキ: 【マイクラ肝試し2024】今年の釣りはあまり出来ませんでした。　その２【ホロライブ/白上フブキ 】
-UID:LjjGhJ-jR8A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【STREET FIGHTER 6】はじめてのスト６#３ かるびにブランカを教えてもらう！【ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=Cwdye5XYbss
-DURATION:PT2H
-DTSTART:20241004T140000Z
-SUMMARY:ラプラス: 【STREET FIGHTER 6】はじめてのスト６#３ かるびにブランカを教えてもらう！【ラプラス・ダークネス/ホロライブ】
-UID:Cwdye5XYbss
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FINAL FANTASY Ⅸ / FF9】遂にファイナルファンタジー9へ！DISK3突入中～～～！！！ #6 【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=v0t7qgS7gqQ
-DURATION:PT2H
-DTSTART:20241006T020000Z
-SUMMARY:博衣こより: 【FINAL FANTASY Ⅸ / FF9】遂にファイナルファンタジー9へ！DISK3突入中～～～！！！ #6 【博衣こより/ホロライブ】
-UID:v0t7qgS7gqQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:魔法騎士レイアースOP「ゆずれない願い」歌ってみた🎶 #shorts 【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=dTEfzpZaZ4I
-DURATION:PT2H
-DTSTART:20241004T090042Z
-SUMMARY:博衣こより: 魔法騎士レイアースOP「ゆずれない願い」歌ってみた🎶 #shorts 【博衣こより/ホロライブ】
-UID:dTEfzpZaZ4I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【青鬼／AOONI】１５倍速の世界を駆け回るぞ！！【ホロライブ/ときのそら】\nhttps://www.youtube.com/watch?v=aGr2yV4ImPs
-DURATION:PT2H
-DTSTART:20241005T060000Z
-SUMMARY:🐻ときのそら: 【青鬼／AOONI】１５倍速の世界を駆け回るぞ！！【ホロライブ/ときのそら】
-UID:aGr2yV4ImPs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【メルヘン村】Twitterで鬼バズってるホラーすぎる遊園地に何も知らないいろはを連れて潜入してみたら本当にヤバかったWWW【風真いろは/ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=P-FXJJhm8e0
-DURATION:PT2H
-DTSTART:20241005T100000Z
-SUMMARY:ラプラス: 【メルヘン村】Twitterで鬼バズってるホラーすぎる遊園地に何も知らないいろはを連れて潜入してみたら本当にヤバかったWWW【風真いろは/ラプラス・ダークネス/ホロライブ】
-UID:P-FXJJhm8e0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#白上フブキ生誕祭2024】いえーぃっ！１０月５日は誕生日だぜいえぇ～い！！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=R4jAuYzuQRk
-DURATION:PT2H
-DTSTART:20241004T143000Z
-SUMMARY:🌽白上フブキ: 【#白上フブキ生誕祭2024】いえーぃっ！１０月５日は誕生日だぜいえぇ～い！！【ホロライブ/白上フブキ】
-UID:R4jAuYzuQRk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#マイクラ肝試し2024】はじめての肝試し！ドキドキ3期生でまわるぞ！！【ホロライブ/宝鐘マリン】\nhttps://www.youtube.com/watch?v=lv6Q4B6U9yA
-DURATION:PT2H
-DTSTART:20241005T120000Z
-SUMMARY:🏴☠宝鐘マリン: 【#マイクラ肝試し2024】はじめての肝試し！ドキドキ3期生でまわるぞ！！【ホロライブ/宝鐘マリン】
-UID:lv6Q4B6U9yA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ポリスノーツ｜PS3版 】SFハードボイルド『POLICENAUTS』の世界へいくのら！～レトロゲーム ＃３ 最終回【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=JW0-xvvw-vE
-DURATION:PT2H
-DTSTART:20241004T090000Z
-SUMMARY:🍬姫森ルーナ: 【 ポリスノーツ｜PS3版 】SFハードボイルド『POLICENAUTS』の世界へいくのら！～レトロゲーム ＃３ 最終回【姫森ルーナ/ホロライブ】
-UID:JW0-xvvw-vE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ゼルダの伝説 知恵のかりもの】ゲルド砂漠でハーレム暮らしはじめます！#2【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=X2IdPchzYs8
-DURATION:PT2H
-DTSTART:20241004T140000Z
-SUMMARY:🐏角巻わため: 【ゼルダの伝説 知恵のかりもの】ゲルド砂漠でハーレム暮らしはじめます！#2【角巻わため/ホロライブ４期生】
-UID:X2IdPchzYs8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#6】ドラゴンクエストⅣするしゅばああああああああああああああああ！！！ / DRAGON QUESTⅣ【ネタバレあり】\nhttps://www.youtube.com/watch?v=6veKN4bwmkw
-DURATION:PT2H
-DTSTART:20241005T040000Z
-SUMMARY:🚑大空スバル: 【#6】ドラゴンクエストⅣするしゅばああああああああああああああああ！！！ / DRAGON QUESTⅣ【ネタバレあり】
-UID:6veKN4bwmkw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ゼルダの伝説 知恵のかりもの 】新作遊んでゆく～～～ #02【 猫又おかゆ/ホロライブ 】\nhttps://www.youtube.com/watch?v=G7z5tXn1vRg
-DURATION:PT2H
-DTSTART:20241006T040000Z
-SUMMARY:🍙猫又おかゆ: 【 ゼルダの伝説 知恵のかりもの 】新作遊んでゆく～～～ #02【 猫又おかゆ/ホロライブ 】
-UID:G7z5tXn1vRg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 TCG Card Shop Simulator 】超激レア入荷まで辞めない‼話題のカドショみこのあな本日も開店！！！！！！【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=W7Cxx0k-C_c
-DURATION:PT2H
-DTSTART:20241004T120500Z
-SUMMARY:🌸さくらみこ: 【 TCG Card Shop Simulator 】超激レア入荷まで辞めない‼話題のカドショみこのあな本日も開店！！！！！！【ホロライブ/さくらみこ】
-UID:W7Cxx0k-C_c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #今夜は語りあいたい 】トークバラエティ今夜は語りあいたい！～ワンピース好きVtuber編～【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=TGjLygUzZOU
-DURATION:PT2H
-DTSTART:20241004T110000Z
-SUMMARY:鷹嶺ルイ: 【 #今夜は語りあいたい 】トークバラエティ今夜は語りあいたい！～ワンピース好きVtuber編～【鷹嶺ルイ/ホロライブ】
-UID:TGjLygUzZOU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ぼくは航空管制官4】あずきち、成田空港の航空管制官になるってよ【ホロライブ / AZKi】\nhttps://www.youtube.com/watch?v=9Ms_2ounxLE
-DURATION:PT2H
-DTSTART:20241004T130000Z
-SUMMARY:⚒AZKi: 【ぼくは航空管制官4】あずきち、成田空港の航空管制官になるってよ【ホロライブ / AZKi】
-UID:9Ms_2ounxLE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#マイクラ肝試し2024】３期生といく「ぼくらの夏休み」【不知火フレア/ホロライブ】\nhttps://www.youtube.com/watch?v=NwFuFljJ-Ag
-DURATION:PT2H
-DTSTART:20241005T120000Z
-SUMMARY:🔥不知火フレア: 【#マイクラ肝試し2024】３期生といく「ぼくらの夏休み」【不知火フレア/ホロライブ】
-UID:NwFuFljJ-Ag
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:夜見れなの1万円コーデバトルが強すぎるwww#ポルカの伝説 #尾丸ポルカ\nhttps://www.youtube.com/watch?v=fA5Gz-rHbNo
-DURATION:PT2H
-DTSTART:20241005T090036Z
-SUMMARY:尾丸ポルカ: 夜見れなの1万円コーデバトルが強すぎるwww#ポルカの伝説 #尾丸ポルカ
-UID:fA5Gz-rHbNo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【OHAPOL】#109  10/4金曜日！華の金曜日だよ！【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=lzqMwYRgRzg
-DURATION:PT2H
-DTSTART:20241003T210000Z
-SUMMARY:尾丸ポルカ: 【OHAPOL】#109  10/4金曜日！華の金曜日だよ！【尾丸ポルカ/ホロライブ】
-UID:lzqMwYRgRzg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:バーチャルアイドルが渋谷で路上ライブ‼️ #ムーンライト\nhttps://www.youtube.com/watch?v=35GW1kc4I98
-DURATION:PT2H
-DTSTART:20241004T161818Z
-SUMMARY:☄星街すいせい: バーチャルアイドルが渋谷で路上ライブ‼️ #ムーンライト
-UID:35GW1kc4I98
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:平和が訪れ...た？【ギリギリわるくないわため】 #ギリわる\nhttps://www.youtube.com/watch?v=xVQQ80d33lc
-DURATION:PT2H
-DTSTART:20241004T100000Z
-SUMMARY:🐏角巻わため: 平和が訪れ...た？【ギリギリわるくないわため】 #ギリわる
-UID:xVQQ80d33lc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【映画紹介】映画『SAW』9作品で個人的に好きなグロシーンTOP10発表！（ネタバレあり）\nhttps://www.youtube.com/watch?v=aofYLUiTpTI
-DURATION:PT2H
-DTSTART:20241005T090000Z
-SUMMARY:🥐戌神ころね: 【映画紹介】映画『SAW』9作品で個人的に好きなグロシーンTOP10発表！（ネタバレあり）
-UID:aofYLUiTpTI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:おにかんの絆…？ #shorts #鷹嶺ルイ #hololive #ホロライブ #百鬼あやめ\nhttps://www.youtube.com/watch?v=ggeem1OdIX4
-DURATION:PT2H
-DTSTART:20241004T091529Z
-SUMMARY:鷹嶺ルイ: おにかんの絆…？ #shorts #鷹嶺ルイ #hololive #ホロライブ #百鬼あやめ
-UID:ggeem1OdIX4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ご褒美ロケ】#ニンテンドーミュージアム行ってみた\nhttps://www.youtube.com/watch?v=QUJqK1VjcVQ
-DURATION:PT2H
-DTSTART:20241004T110000Z
-SUMMARY:ホロライブ: 【ご褒美ロケ】#ニンテンドーミュージアム行ってみた
-UID:QUJqK1VjcVQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:パイパイ仮面でどうかしらん？ #ホロライブ #hololive #vtuber #踊ってみた #雪花ラミィ #宝鐘マリン #shorts\nhttps://www.youtube.com/watch?v=5ZH1OsAZbzI
-DURATION:PT2H
-DTSTART:20241005T030004Z
-SUMMARY:雪花ラミィ: パイパイ仮面でどうかしらん？ #ホロライブ #hololive #vtuber #踊ってみた #雪花ラミィ #宝鐘マリン #shorts
-UID:5ZH1OsAZbzI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ししわたの学校で遊ぼう！【獅白ぼたん・角巻わため/ホロライブ】\nhttps://www.youtube.com/watch?v=o21sWnaXbzI
-DURATION:PT2H
-DTSTART:20241006T100500Z
-SUMMARY:獅白ぼたん: ししわたの学校で遊ぼう！【獅白ぼたん・角巻わため/ホロライブ】
-UID:o21sWnaXbzI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【一発撮り】#はいよろこんで 歌って踊ってみた🕺✨【白銀ノエル】#shorts\nhttps://www.youtube.com/watch?v=baFyFhUenZc
-DURATION:PT2H
-DTSTART:20241004T051446Z
-SUMMARY:⚔白銀ノエル: 【一発撮り】#はいよろこんで 歌って踊ってみた🕺✨【白銀ノエル】#shorts
-UID:baFyFhUenZc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FREE TALK】ほんのり酔い！乾杯しよ～！！！♡【赤井はあと/ホロライブ】\nhttps://www.youtube.com/watch?v=1MUrgIaIVTs
-DURATION:PT2H
-DTSTART:20241005T150000Z
-SUMMARY:❤赤井はあと: 【FREE TALK】ほんのり酔い！乾杯しよ～！！！♡【赤井はあと/ホロライブ】
-UID:1MUrgIaIVTs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:白上フブキ 1st ALBUM「FBKINGDOM “Blessing”」#DearFBKINGDOM\nhttps://www.youtube.com/watch?v=QZHK5Ew5M9I
-DURATION:PT2H
-DTSTART:20241005T123410Z
-SUMMARY:🌽白上フブキ: 白上フブキ 1st ALBUM「FBKINGDOM “Blessing”」#DearFBKINGDOM
-UID:QZHK5Ew5M9I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:『ししわたの学校で遊ぼう！』をししわたで見る配信【獅白ぼたん・角巻わため/ホロライブ】\nhttps://www.youtube.com/watch?v=nj_s9SuORkc
-DURATION:PT2H
-DTSTART:20241006T100000Z
-SUMMARY:獅白ぼたん: 『ししわたの学校で遊ぼう！』をししわたで見る配信【獅白ぼたん・角巻わため/ホロライブ】
-UID:nj_s9SuORkc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FBKINGDOMPROLOGUE】生誕ライブありがとうございました！アフタートーク！【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=x1znzxuGjY0
-DURATION:PT2H
-DTSTART:20241005T130000Z
-SUMMARY:🌽白上フブキ: 【FBKINGDOMPROLOGUE】生誕ライブありがとうございました！アフタートーク！【ホロライブ/白上フブキ】
-UID:x1znzxuGjY0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【3DLIVE】白上フブキ生誕祭2024　#FBKINGDOMPROLOGUE【ホロライブ/白上フブキ 】\nhttps://www.youtube.com/watch?v=-a68MSMFuuM
-DURATION:PT2H
-DTSTART:20241005T110000Z
-SUMMARY:🌽白上フブキ: 【3DLIVE】白上フブキ生誕祭2024　#FBKINGDOMPROLOGUE【ホロライブ/白上フブキ 】
-UID:-a68MSMFuuM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 ゼルダの伝説 知恵のかりもの 】新作遊んでゆく～～～ #01【 猫又おかゆ/ホロライブ 】\nhttps://www.youtube.com/watch?v=fGjsDA4CK2w
 DURATION:PT2H
 DTSTART:20241005T040000Z
@@ -492,6 +247,13 @@ DURATION:PT2H
 DTSTART:20241005T130000Z
 SUMMARY:🍬姫森ルーナ: はわわっ(・o・🍬)【姫森ルーナ/ホロライブ】
 UID:fh3Nma2vJz0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#マイクラ肝試し2024】初参加！3期生とゆく「僕らの夏休み」ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=ITPvZixB0Gk
+DURATION:PT2H
+DTSTART:20241005T120000Z
+SUMMARY:👯兎田ぺこら: 【#マイクラ肝試し2024】初参加！3期生とゆく「僕らの夏休み」ぺこ！【ホロライブ/兎田ぺこら】
+UID:ITPvZixB0Gk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【みんなのリズム天国】リズム地獄、ガチファイナル最終回（予定）【 雪花ラミィ /ホロライブ】\nhttps://www.youtube.com/watch?v=OumfEV6c9gU
@@ -508,13 +270,6 @@ SUMMARY:🌽白上フブキ: SUPERNOVA/白上フブキ(Original)
 UID:0RG7iNERF4s
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #ホロメン家系図 】ホロメンが家族だったら！？？妄想してみるぜ‼‼告知あり🌸【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=TZEq2NR_e44
-DURATION:PT2H
-DTSTART:20241004T110000Z
-SUMMARY:🌸さくらみこ: 【 #ホロメン家系図 】ホロメンが家族だったら！？？妄想してみるぜ‼‼告知あり🌸【ホロライブ/さくらみこ】
-UID:TZEq2NR_e44
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】\nhttps://www.youtube.com/watch?v=BiOLCllF1mI
 DURATION:PT2H
 DTSTART:20241005T010000Z
@@ -529,6 +284,27 @@ SUMMARY:風真いろは: Dreamy Skyたくさん聴いてくれてありがとう
 UID:AhPvpjcDOqI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【TCG Card Shop Simulator】求激レア！3桁万円カードに出逢いたい♡イエローコヨマリンへようこそ！！！【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=UhVOcQJ0Hjk
+DURATION:PT2H
+DTSTART:20241005T120000Z
+SUMMARY:博衣こより: 【TCG Card Shop Simulator】求激レア！3桁万円カードに出逢いたい♡イエローコヨマリンへようこそ！！！【博衣こより/ホロライブ】
+UID:UhVOcQJ0Hjk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マイクラ肝試し2024】今年の釣りはあまり出来ませんでした。　その２【ホロライブ/白上フブキ 】\nhttps://www.youtube.com/watch?v=LjjGhJ-jR8A
+DURATION:PT2H
+DTSTART:20241004T153000Z
+SUMMARY:🌽白上フブキ: 【マイクラ肝試し2024】今年の釣りはあまり出来ませんでした。　その２【ホロライブ/白上フブキ 】
+UID:LjjGhJ-jR8A
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FINAL FANTASY Ⅸ / FF9】遂にファイナルファンタジー9へ！DISK3突入中～～～！！！ #6 【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=v0t7qgS7gqQ
+DURATION:PT2H
+DTSTART:20241006T020000Z
+SUMMARY:博衣こより: 【FINAL FANTASY Ⅸ / FF9】遂にファイナルファンタジー9へ！DISK3突入中～～～！！！ #6 【博衣こより/ホロライブ】
+UID:v0t7qgS7gqQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ノエなで】二人でオンライン晩酌マシュマロもぐもぐ会💘【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=pKsFADMXSeU
 DURATION:PT2H
 DTSTART:20241006T110000Z
@@ -541,6 +317,20 @@ DURATION:PT2H
 DTSTART:20241005T030027Z
 SUMMARY:獅白ぼたん: 【ファタール】ししろんが踊ってみた #ファタール  #獅白ぼたん #踊ってみた
 UID:OodOFmPHyfA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【青鬼／AOONI】１５倍速の世界を駆け回るぞ！！【ホロライブ/ときのそら】\nhttps://www.youtube.com/watch?v=aGr2yV4ImPs
+DURATION:PT2H
+DTSTART:20241005T060000Z
+SUMMARY:🐻ときのそら: 【青鬼／AOONI】１５倍速の世界を駆け回るぞ！！【ホロライブ/ときのそら】
+UID:aGr2yV4ImPs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メルヘン村】Twitterで鬼バズってるホラーすぎる遊園地に何も知らないいろはを連れて潜入してみたら本当にヤバかったWWW【風真いろは/ラプラス・ダークネス/ホロライブ】\nhttps://www.youtube.com/watch?v=P-FXJJhm8e0
+DURATION:PT2H
+DTSTART:20241005T100000Z
+SUMMARY:ラプラス: 【メルヘン村】Twitterで鬼バズってるホラーすぎる遊園地に何も知らないいろはを連れて潜入してみたら本当にヤバかったWWW【風真いろは/ラプラス・ダークネス/ホロライブ】
+UID:P-FXJJhm8e0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【TCG Card Shop Simulator】カドショ経営はじめました。フブちゃんゲーマーズ【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=s45tJ-Sw7a0
