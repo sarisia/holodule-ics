@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【歌枠】50万人耐久！！歌います！！縦型です！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=BILMZyLkaKA
+DURATION:PT2H
+DTSTART:20241007T110000Z
+SUMMARY:音乃瀬奏: 【歌枠】50万人耐久！！歌います！！縦型です！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
+UID:BILMZyLkaKA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 メン限 】すこしだけしゃべる。おそらくそのうち始まります？【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=HamIlofaXio
 DURATION:PT2H
 DTSTART:20241007T134000Z
@@ -11,11 +18,11 @@ SUMMARY:音乃瀬奏: 【 メン限 】すこしだけしゃべる。おそら�
 UID:HamIlofaXio
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#マイクラ肝試し2024】初参加だあああ！！「僕らの夏休み」ぽるぽる、ねねち、ばんちょーと行くぞー！！【#一条莉々華 / hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=AD9B51reLDY
+DESCRIPTION:【アソビ大全】ばんちょーvsだんちょー【轟はじめ/白銀ノエル】 ＃呼び出しばんちょー\nhttps://www.youtube.com/watch?v=Hsvp-6IuE2o
 DURATION:PT2H
-DTSTART:20241006T090000Z
-SUMMARY:一条莉々華: 【#マイクラ肝試し2024】初参加だあああ！！「僕らの夏休み」ぽるぽる、ねねち、ばんちょーと行くぞー！！【#一条莉々華 / hololive DEV_IS ReGLOSS】
-UID:AD9B51reLDY
+DTSTART:20241008T110000Z
+SUMMARY:轟はじめ: 【アソビ大全】ばんちょーvsだんちょー【轟はじめ/白銀ノエル】 ＃呼び出しばんちょー
+UID:Hsvp-6IuE2o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スパチャ読みタイム】3Dライブ応援枠フリーチャットのスパチャ読みです！！！【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=puZQSH-X0wc
@@ -23,6 +30,13 @@ DURATION:PT2H
 DTSTART:20241007T130000Z
 SUMMARY:儒烏風亭らでん: 【スパチャ読みタイム】3Dライブ応援枠フリーチャットのスパチャ読みです！！！【儒烏風亭らでん #ReGLOSS 】
 UID:puZQSH-X0wc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【TCG Card Shop Simulator】元カードショップ店員だけどなんか質問ある？本日開店！！【一条莉々華/hololive DEV_IS　ReGLOSS】\nhttps://www.youtube.com/watch?v=78W8jFONweU
+DURATION:PT2H
+DTSTART:20241007T120000Z
+SUMMARY:一条莉々華: 【TCG Card Shop Simulator】元カードショップ店員だけどなんか質問ある？本日開店！！【一条莉々華/hololive DEV_IS　ReGLOSS】
+UID:78W8jFONweU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【以心伝心ゲーム】トラもライオンもめちゃ似てるから全問クリアってことで🖐️【火威青×轟はじめ】#hololiveDEV_IS #ReGLOSS #shorts\nhttps://www.youtube.com/watch?v=Jbvo-jUdEbE
@@ -37,68 +51,5 @@ DURATION:PT2H
 DTSTART:20241007T090020Z
 SUMMARY:DEV_IShololive: 【#ReGLOSS3Dライブ】Reach the top #一条莉々華 ソロパート #shorts
 UID:Eu7GTiyhC74
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:あおらでんの日常(？)【火威青×儒烏風亭らでん】#hololiveDEV_IS #ReGLOSS #shorts\nhttps://www.youtube.com/watch?v=R8QDMiwTyQM
-DURATION:PT2H
-DTSTART:20241006T090030Z
-SUMMARY:火威青: あおらでんの日常(？)【火威青×儒烏風亭らでん】#hololiveDEV_IS #ReGLOSS #shorts
-UID:R8QDMiwTyQM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】50万人耐久！！歌います！！縦型です！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=BILMZyLkaKA
-DURATION:PT2H
-DTSTART:20241007T110000Z
-SUMMARY:音乃瀬奏: 【歌枠】50万人耐久！！歌います！！縦型です！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
-UID:BILMZyLkaKA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アソビ大全】ばんちょーvsだんちょー【轟はじめ/白銀ノエル】 ＃呼び出しばんちょー\nhttps://www.youtube.com/watch?v=Hsvp-6IuE2o
-DURATION:PT2H
-DTSTART:20241008T110000Z
-SUMMARY:轟はじめ: 【アソビ大全】ばんちょーvsだんちょー【轟はじめ/白銀ノエル】 ＃呼び出しばんちょー
-UID:Hsvp-6IuE2o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【TCG Card Shop Simulator】元カードショップ店員だけどなんか質問ある？本日開店！！【一条莉々華/hololive DEV_IS　ReGLOSS】\nhttps://www.youtube.com/watch?v=78W8jFONweU
-DURATION:PT2H
-DTSTART:20241007T120000Z
-SUMMARY:一条莉々華: 【TCG Card Shop Simulator】元カードショップ店員だけどなんか質問ある？本日開店！！【一条莉々華/hololive DEV_IS　ReGLOSS】
-UID:78W8jFONweU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【TCG Card Shop Simulator】元カードショップ店員だけどなんか質問ある？本日開店！！【一条莉々華/hololive DEV_IS　ReGLOSS】\nhttps://www.youtube.com/watch?v=hu9NeDVf9iQ
-DURATION:PT2H
-DTSTART:20241006T053000Z
-SUMMARY:一条莉々華: 【TCG Card Shop Simulator】元カードショップ店員だけどなんか質問ある？本日開店！！【一条莉々華/hololive DEV_IS　ReGLOSS】
-UID:hu9NeDVf9iQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 TCG Card Shop Simulator 】高額カード、来い。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=ALP0bxbBMDk
-DURATION:PT2H
-DTSTART:20241006T060000Z
-SUMMARY:音乃瀬奏: 【 TCG Card Shop Simulator 】高額カード、来い。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
-UID:ALP0bxbBMDk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ReGLOSS3Dライブ】Reach the top #儒烏風亭らでん ソロパート #shorts\nhttps://www.youtube.com/watch?v=d9fvOmVbPBo
-DURATION:PT2H
-DTSTART:20241006T090035Z
-SUMMARY:DEV_IShololive: 【#ReGLOSS3Dライブ】Reach the top #儒烏風亭らでん ソロパート #shorts
-UID:d9fvOmVbPBo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【＃マイクラ肝試し2024】ねねぽるりりはじだぁ～！肝試し！！【轟はじめ視点】 #hololivedev_is\nhttps://www.youtube.com/watch?v=5iOn4NWyR2E
-DURATION:PT2H
-DTSTART:20241006T090000Z
-SUMMARY:轟はじめ: 【＃マイクラ肝試し2024】ねねぽるりりはじだぁ～！肝試し！！【轟はじめ視点】 #hololivedev_is
-UID:5iOn4NWyR2E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #holoGTA 】なにかが違いすぎるビビデバｗｗｗ【音乃瀬奏】 #VTuber #ホロライブ #shorts\nhttps://www.youtube.com/watch?v=gyOqDeiJ1V0
-DURATION:PT2H
-DTSTART:20241006T104000Z
-SUMMARY:音乃瀬奏: 【 #holoGTA 】なにかが違いすぎるビビデバｗｗｗ【音乃瀬奏】 #VTuber #ホロライブ #shorts
-UID:gyOqDeiJ1V0
 END:VEVENT
 END:VCALENDAR
