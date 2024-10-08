@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【雑談】大阪行ってきたで！！【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=F-qm_E0z9c4
-DURATION:PT2H
-DTSTART:20241007T130000Z
-SUMMARY:影山シエン: 【雑談】大阪行ってきたで！！【影山シエン/ホロスターズ】
-UID:F-qm_E0z9c4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#3【ゼルダの伝説 知恵のかりもの】借りたもので世界を救う!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=wq-TspINOLY
 DURATION:PT2H
 DTSTART:20241008T090000Z
@@ -18,11 +11,18 @@ SUMMARY:🌺花咲みやび: #3【ゼルダの伝説 知恵のかりもの】借
 UID:wq-TspINOLY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:横着した結果ｗｗ　#shorts\nhttps://www.youtube.com/watch?v=GMx0BoJbNhk
+DESCRIPTION:【雑談】大阪行ってきたで！！【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=F-qm_E0z9c4
 DURATION:PT2H
-DTSTART:20241008T030011Z
-SUMMARY:🍷夕刻ロベル: 横着した結果ｗｗ　#shorts
-UID:GMx0BoJbNhk
+DTSTART:20241007T130000Z
+SUMMARY:影山シエン: 【雑談】大阪行ってきたで！！【影山シエン/ホロスターズ】
+UID:F-qm_E0z9c4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スト６】AKIでマスターチャレンジ！1日目！コンボ練習から！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=d7hWGCkCDds
+DURATION:PT2H
+DTSTART:20241008T074500Z
+SUMMARY:🦔💨岸堂天真: 【スト６】AKIでマスターチャレンジ！1日目！コンボ練習から！【岸堂天真/ホロスターズ】
+UID:d7hWGCkCDds
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【龍が如く0 誓いの場所】初見で挑む『龍が如く0』　2日目【夕刻ロベル/ホロスターズ】※ネタバレあり\nhttps://www.youtube.com/watch?v=p82I6Cna8Hs
@@ -37,6 +37,13 @@ DURATION:PT2H
 DTSTART:20241007T150000Z
 SUMMARY:🦔💨岸堂天真: 【スト６】リュウでマスターチャレンジ！3日目！ダイヤ４～！【岸堂天真/ホロスターズ】
 UID:71TxWzZW_1c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【龍が如く0 誓いの場所】初見で挑む『龍が如く0』　3日目【夕刻ロベル/ホロスターズ】※ネタバレあり\nhttps://www.youtube.com/watch?v=uYh2denJjQU
+DURATION:PT2H
+DTSTART:20241009T040000Z
+SUMMARY:🍷夕刻ロベル: 【龍が如く0 誓いの場所】初見で挑む『龍が如く0』　3日目【夕刻ロベル/ホロスターズ】※ネタバレあり
+UID:uYh2denJjQU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:こちらのコンビニは筋トレの指導もできます #shorts   #vtuber   #僕アルバイトォォ  #アルランディス #ホロスターズ\nhttps://www.youtube.com/watch?v=suPSf7P2X3k
@@ -102,18 +109,18 @@ SUMMARY:ホロスターズ: 【ウツロマユ】10円玉ゲームで台パン�
 UID:G-GPY1ykg08
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ゼルダの伝説 知恵のかりもの】必要なのは知恵じゃない、諦めない勇気だ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=6S-_aJ5uhMc
-DURATION:PT2H
-DTSTART:20241007T040000Z
-SUMMARY:🍕アルランディス: 【ゼルダの伝説 知恵のかりもの】必要なのは知恵じゃない、諦めない勇気だ【アルランディス/ホロスターズ】
-UID:6S-_aJ5uhMc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ホロスタVALO部｜フルパ【VALORANT｜夜十神封魔/ホロスターズ】\nhttps://www.youtube.com/watch?v=LK4AtdJ9B2g
 DURATION:PT2H
 DTSTART:20241007T100000Z
 SUMMARY:夜十神封魔: ホロスタVALO部｜フルパ【VALORANT｜夜十神封魔/ホロスターズ】
 UID:LK4AtdJ9B2g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ゼルダの伝説 知恵のかりもの】必要なのは知恵じゃない、諦めない勇気だ【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=6S-_aJ5uhMc
+DURATION:PT2H
+DTSTART:20241007T040000Z
+SUMMARY:🍕アルランディス: 【ゼルダの伝説 知恵のかりもの】必要なのは知恵じゃない、諦めない勇気だ【アルランディス/ホロスターズ】
+UID:6S-_aJ5uhMc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ハイトーン系の男性幽霊Vtuberが 雪の華 / 中島美嘉 を歌枠で歌ってみた！ #vtuber\nhttps://www.youtube.com/watch?v=BQKlE1Ql2Uc
@@ -123,10 +130,10 @@ SUMMARY:水無世燐央: ハイトーン系の男性幽霊Vtuberが 雪の華 / 
 UID:BQKlE1Ql2Uc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【スト６】AKIでマスターチャレンジ！1日目！コンボ練習から！【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=d7hWGCkCDds
+DESCRIPTION:横着した結果ｗｗ　#shorts\nhttps://www.youtube.com/watch?v=GMx0BoJbNhk
 DURATION:PT2H
-DTSTART:20241008T074500Z
-SUMMARY:🦔💨岸堂天真: 【スト６】AKIでマスターチャレンジ！1日目！コンボ練習から！【岸堂天真/ホロスターズ】
-UID:d7hWGCkCDds
+DTSTART:20241008T030011Z
+SUMMARY:🍷夕刻ロベル: 横着した結果ｗｗ　#shorts
+UID:GMx0BoJbNhk
 END:VEVENT
 END:VCALENDAR
