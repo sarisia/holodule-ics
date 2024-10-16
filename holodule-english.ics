@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Phasmophobia】Ghost Hunting for Halloween with Advent\nhttps://www.youtube.com/watch?v=YqSQvMKLLsM
+DURATION:PT2H
+DTSTART:20241018T010000Z
+SUMMARY:Shiori: 【Phasmophobia】Ghost Hunting for Halloween with Advent
+UID:YqSQvMKLLsM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#7DAYSTODIEHOLOEN COLLAB】final day for rabid zombie huntin' demon dogs 🐾 【FUWAMOCO POV】\nhttps://www.youtube.com/watch?v=uLEyJNonnQw
 DURATION:PT2H
 DTSTART:20241016T013000Z
@@ -25,11 +32,11 @@ SUMMARY:Baelz: ≪JUST CHATTING≫ yappity yap yap #shorts
 UID:JweOkAIvgzw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The Real Ashley Was In Our Hearts All Along (But I'm Better)【Resident Evil 4 Remake - Ep 03】\nhttps://www.youtube.com/watch?v=TRdQ_7ZeR_g
+DESCRIPTION:【7D2D】FINAL DAY! Ending it with a BANG! #kfp  #キアライブ\nhttps://www.youtube.com/watch?v=D7Xn66ru4go
 DURATION:PT2H
-DTSTART:20241014T230000Z
-SUMMARY:Shiori: The Real Ashley Was In Our Hearts All Along (But I'm Better)【Resident Evil 4 Remake - Ep 03】
-UID:TRdQ_7ZeR_g
+DTSTART:20241015T220000Z
+SUMMARY:Kiara: 【7D2D】FINAL DAY! Ending it with a BANG! #kfp  #キアライブ
+UID:D7Xn66ru4go
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:≪Voice Mimicry Show≫ Impressions 101\nhttps://www.youtube.com/watch?v=wpLoluuK_I4
@@ -39,13 +46,6 @@ SUMMARY:Baelz: ≪Voice Mimicry Show≫ Impressions 101
 UID:wpLoluuK_I4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:MIRAGE - Takanashi Kiara (Dance Shot Version)\nhttps://www.youtube.com/watch?v=-D9XrhrrZOw
-DURATION:PT2H
-DTSTART:20241014T220000Z
-SUMMARY:Kiara: MIRAGE - Takanashi Kiara (Dance Shot Version)
-UID:-D9XrhrrZOw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【IT TAKES TWO】traumatizing our kid is okay actually\nhttps://www.youtube.com/watch?v=ZzF8-cMRjxY
 DURATION:PT2H
 DTSTART:20241017T010000Z
@@ -53,25 +53,11 @@ SUMMARY:Gigi: 【IT TAKES TWO】traumatizing our kid is okay actually
 UID:ZzF8-cMRjxY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【7D2D】FINAL DAY! Ending it with a BANG! #kfp  #キアライブ\nhttps://www.youtube.com/watch?v=D7Xn66ru4go
-DURATION:PT2H
-DTSTART:20241015T220000Z
-SUMMARY:Kiara: 【7D2D】FINAL DAY! Ending it with a BANG! #kfp  #キアライブ
-UID:D7Xn66ru4go
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【7 DAYS TO DIE】THE FINAL BONK. (finale) #holoEN\nhttps://www.youtube.com/watch?v=pDRujCXXtVQ
 DURATION:PT2H
 DTSTART:20241015T230545Z
 SUMMARY:Calli: 【7 DAYS TO DIE】THE FINAL BONK. (finale) #holoEN
 UID:pDRujCXXtVQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【7D2D】nerdy bike gang vs stinky vomit zombies #kfp  #キアライブ\nhttps://www.youtube.com/watch?v=27ShFArUF6A
-DURATION:PT2H
-DTSTART:20241014T230000Z
-SUMMARY:Kiara: 【7D2D】nerdy bike gang vs stinky vomit zombies #kfp  #キアライブ
-UID:27ShFArUF6A
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【POWERWASH SIMULATOR】 I Like That Boulder. w/ @NerissaRavencroft ~! 💄\nhttps://www.youtube.com/watch?v=y8Nn0CdTlzU
@@ -102,20 +88,6 @@ SUMMARY:Bijou: 【7 Days to Die】Season 1 Finale Episode 7 Part 1 【Day 7】
 UID:f_ARpXXYQq8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【TRIBE NINE】Grim Reaper Plays a Deadly New Action RPG?! #calliolive #sponsored\nhttps://www.youtube.com/watch?v=EmbwTwu-SVc
-DURATION:PT2H
-DTSTART:20241015T020000Z
-SUMMARY:Calli: 【TRIBE NINE】Grim Reaper Plays a Deadly New Action RPG?! #calliolive #sponsored
-UID:EmbwTwu-SVc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ECHO POINT NOVA】ahoge battles with @NanashiMumei\nhttps://www.youtube.com/watch?v=1eNa9WzJXt8
-DURATION:PT2H
-DTSTART:20241014T200000Z
-SUMMARY:Gigi: 【ECHO POINT NOVA】ahoge battles with @NanashiMumei
-UID:1eNa9WzJXt8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【TCG CARD SHOP SIMULATOR】expanding my maze\nhttps://www.youtube.com/watch?v=zsrpXZxnUqs
 DURATION:PT2H
 DTSTART:20241015T210000Z
@@ -128,13 +100,6 @@ DURATION:PT2H
 DTSTART:20241016T121000Z
 SUMMARY:Raora: 【Monster Hunter World】BIG CAT hunts BIG MONSTERS!!! 😾
 UID:gHXDW54F4CI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ECHO POINT NOVA】A Towl and a Gremlin Play A Video Game w/ @holoen_gigimurin\nhttps://www.youtube.com/watch?v=QA7OA1ew5HI
-DURATION:PT2H
-DTSTART:20241014T200000Z
-SUMMARY:Mumei: 【ECHO POINT NOVA】A Towl and a Gremlin Play A Video Game w/ @holoen_gigimurin
-UID:QA7OA1ew5HI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:It's all OGRE now | PowerWash Simulator w/ @holoen_erbloodflame\nhttps://www.youtube.com/watch?v=6lfDKecsl6g
@@ -156,19 +121,5 @@ DURATION:PT2H
 DTSTART:20241017T040000Z
 SUMMARY:Calli: 【Warhammer 40K: Space Marine】the emperor PROTECTS (my butt) #calliolive
 UID:kaYOoiFwYS0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【7 DAYS TO DIE】 This kirin can solo a bear with just her fists | DAY 6\nhttps://www.youtube.com/watch?v=XpQ1OlUNV9g
-DURATION:PT2H
-DTSTART:20241015T000000Z
-SUMMARY:Fauna: 【7 DAYS TO DIE】 This kirin can solo a bear with just her fists | DAY 6
-UID:XpQ1OlUNV9g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【7 Days to Die】Zombies fear us\, women love us【Day 6】\nhttps://www.youtube.com/watch?v=1c43NCaAdXM
-DURATION:PT2H
-DTSTART:20241015T000000Z
-SUMMARY:Bijou: 【7 Days to Die】Zombies fear us\, women love us【Day 6】
-UID:1c43NCaAdXM
 END:VEVENT
 END:VCALENDAR
