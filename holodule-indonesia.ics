@@ -4,18 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Don't Starve Together】Let's survive until the winter!!【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=UdLqjmpNBGg
+DURATION:PT2H
+DTSTART:20241021T013000Z
+SUMMARY:🔮Moona: 【Don't Starve Together】Let's survive until the winter!!【Moona Hoshinova】
+UID:UdLqjmpNBGg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Don't Starve Together】goal: surviving the winter!【hololive】\nhttps://www.youtube.com/watch?v=Ojz4jmLgNOI
+DURATION:PT2H
+DTSTART:20241021T013000Z
+SUMMARY:Kaela: 【Don't Starve Together】goal: surviving the winter!【hololive】
+UID:Ojz4jmLgNOI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ZOMILY - WATCH/LISTENALONG】INTRODUCING YOU TO MY CURRENT HYPER FIXATION\, EPIC: THE MUSICAL\nhttps://www.youtube.com/watch?v=Lu8sc_3qrDU
 DURATION:PT2H
 DTSTART:20241020T130752Z
 SUMMARY:Ollie: 【ZOMILY - WATCH/LISTENALONG】INTRODUCING YOU TO MY CURRENT HYPER FIXATION\, EPIC: THE MUSICAL
 UID:Lu8sc_3qrDU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dance video HI:STREET TIME holoh3ro diawali dengan Zeta\nhttps://www.youtube.com/watch?v=sHPtQu1tSww
-DURATION:PT2H
-DTSTART:20241020T110102Z
-SUMMARY:IDholo: Dance video HI:STREET TIME holoh3ro diawali dengan Zeta
-UID:sHPtQu1tSww
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【M.M.M.】Monday Morning Malas : I AM BACK【Ayunda Risu】\nhttps://www.youtube.com/watch?v=nP6Kqigmuzw
@@ -32,17 +39,24 @@ SUMMARY:Ollie: DEWASA BIRU?? OTONA BLUE!! #kureijiollie #vtuber #shorts #anime #
 UID:wTP8qlMd1HY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Don't Starve Together】Let's survive until the winter!!【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=UdLqjmpNBGg
+DESCRIPTION:【 Ori and The Blind Forest 】😃  Part 2【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=agpdW_DG9QI
 DURATION:PT2H
-DTSTART:20241021T013000Z
-SUMMARY:🔮Moona: 【Don't Starve Together】Let's survive until the winter!!【Moona Hoshinova】
-UID:UdLqjmpNBGg
+DTSTART:20241021T080000Z
+SUMMARY:🎨Iofi: 【 Ori and The Blind Forest 】😃  Part 2【 iofi / hololiveID 】
+UID:agpdW_DG9QI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Don't Starve Together】goal: surviving the winter!【hololive】\nhttps://www.youtube.com/watch?v=Ojz4jmLgNOI
+DESCRIPTION:#HOLOCTOBER DAY 21 : Musician\nhttps://www.youtube.com/watch?v=E9qBk_b47l8
 DURATION:PT2H
-DTSTART:20241021T013000Z
-SUMMARY:Kaela: 【Don't Starve Together】goal: surviving the winter!【hololive】
-UID:Ojz4jmLgNOI
+DTSTART:20241021T120000Z
+SUMMARY:🎨Iofi: #HOLOCTOBER DAY 21 : Musician
+UID:E9qBk_b47l8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dance video HI:STREET TIME holoh3ro diawali dengan Zeta\nhttps://www.youtube.com/watch?v=sHPtQu1tSww
+DURATION:PT2H
+DTSTART:20241020T110102Z
+SUMMARY:IDholo: Dance video HI:STREET TIME holoh3ro diawali dengan Zeta
+UID:sHPtQu1tSww
 END:VEVENT
 END:VCALENDAR
