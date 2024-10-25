@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:ご機嫌！な配信【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=58NUMBbV9m8
-DURATION:PT2H
-DTSTART:20241025T113000Z
-SUMMARY:火威青: ご機嫌！な配信【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:58NUMBbV9m8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【踊ってみた…？】POKÉDANCE踊ってみたけど体力がなさすぎる #shorts #ポケダンス【一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=iFeXDlCgWhc
 DURATION:PT2H
 DTSTART:20241025T090047Z
 SUMMARY:一条莉々華: 【踊ってみた…？】POKÉDANCE踊ってみたけど体力がなさすぎる #shorts #ポケダンス【一条莉々華/hololive DEV_IS ReGLOSS】
 UID:iFeXDlCgWhc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ご機嫌！な配信【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=58NUMBbV9m8
+DURATION:PT2H
+DTSTART:20241025T113000Z
+SUMMARY:火威青: ご機嫌！な配信【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:58NUMBbV9m8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【メン限／KARAOKE】こんどこそ！ちぇっくわんつー！【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=pnn_34NkeS8
@@ -46,10 +46,24 @@ SUMMARY:DEV_IShololive: #SUPERDUPER 踊ってみた！ #ReGLOSS #火威青 #一�
 UID:eK0IAqQeLDQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【ドラゴンクエストII】最終回！？ロンダルキア制覇する！！！！ part4 ※ネタバレあり【#一条莉々華 #hololive DEV_IS #ReGLOSS】\nhttps://www.youtube.com/watch?v=eqVaIlDV7Tg
+DURATION:PT2H
+DTSTART:20241026T040000Z
+SUMMARY:一条莉々華: 【ドラゴンクエストII】最終回！？ロンダルキア制覇する！！！！ part4 ※ネタバレあり【#一条莉々華 #hololive DEV_IS #ReGLOSS】
+UID:eqVaIlDV7Tg
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:にごりりダンス/踊ってみた【轟はじめ/ReGLOSS】#vtuber #dance\nhttps://www.youtube.com/watch?v=Yf37HB7bxh4
 DURATION:PT2H
 DTSTART:20241025T080032Z
 SUMMARY:轟はじめ: にごりりダンス/踊ってみた【轟はじめ/ReGLOSS】#vtuber #dance
 UID:Yf37HB7bxh4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#holoIndie 応援大使🎮】東京ゲームダンジョン出展記念 応援配信！【#一条莉々華 / ホロライブ】\nhttps://www.youtube.com/watch?v=dpnP3vIjPu0
+DURATION:PT2H
+DTSTART:20241026T100000Z
+SUMMARY:一条莉々華: 【#holoIndie 応援大使🎮】東京ゲームダンジョン出展記念 応援配信！【#一条莉々華 / ホロライブ】
+UID:dpnP3vIjPu0
 END:VEVENT
 END:VCALENDAR
