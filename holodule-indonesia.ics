@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:#horrorholoID - Kisah Jumat malam holoID + Pengumuman\nhttps://www.youtube.com/watch?v=HfZlqum2m7Y
+DURATION:PT2H
+DTSTART:20241025T100000Z
+SUMMARY:IDholo: #horrorholoID - Kisah Jumat malam holoID + Pengumuman
+UID:HfZlqum2m7Y
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Galaxy Burger】oooohhh burgerrrrrrr【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=F_CPTTeP-as
 DURATION:PT2H
 DTSTART:20241024T133000Z
