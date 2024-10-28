@@ -46,18 +46,18 @@ SUMMARY:🏴☠宝鐘マリン: 【同時視聴】ヴェノム：レット・ゼ
 UID:Lo7ZlYHcQts
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【MEMBERSHIP】HYMN #2 PART 2\nhttps://www.youtube.com/watch?v=ML9YYOc1zP8
-DURATION:PT2H
-DTSTART:20241028T120000Z
-SUMMARY:Octavio: 【MEMBERSHIP】HYMN #2 PART 2
-UID:ML9YYOc1zP8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Cover】トラフィック・ジャム(煮ル果実) / 奏手イヅル\nhttps://www.youtube.com/watch?v=o4aSb69BLzY
 DURATION:PT2H
 DTSTART:20241029T100000Z
 SUMMARY:🎸奏手イヅル: 【Cover】トラフィック・ジャム(煮ル果実) / 奏手イヅル
 UID:o4aSb69BLzY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MEMBERSHIP】HYMN #2 PART 2\nhttps://www.youtube.com/watch?v=ML9YYOc1zP8
+DURATION:PT2H
+DTSTART:20241028T120000Z
+SUMMARY:Octavio: 【MEMBERSHIP】HYMN #2 PART 2
+UID:ML9YYOc1zP8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DXプラン限定】夏色まつりと春先のどかの生アフタートーク！ 【＃ホロの休日_仮】\nhttps://www.youtube.com/watch?v=HErUMLBMPwI
@@ -123,18 +123,18 @@ SUMMARY:ホロライブ: てぇてぇかと思ったら……！ #hololive #ホ�
 UID:HiJMNTPglaQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【SUPERCHAT READING】look forward to even more time together 🐾✨ #shorts  【FUWAMOCO 縦型配信 VERTICAL】\nhttps://www.youtube.com/watch?v=jLuSj5YR4ZI
-DURATION:PT2H
-DTSTART:20241028T010000Z
-SUMMARY:FUWAMOCO: 【SUPERCHAT READING】look forward to even more time together 🐾✨ #shorts  【FUWAMOCO 縦型配信 VERTICAL】
-UID:jLuSj5YR4ZI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【M.M.M.】Monday Morning Malas : just malas【Ayunda Risu】\nhttps://www.youtube.com/watch?v=vQUa5qtv2AY
 DURATION:PT2H
 DTSTART:20241028T030000Z
 SUMMARY:🐿Risu: 【M.M.M.】Monday Morning Malas : just malas【Ayunda Risu】
 UID:vQUa5qtv2AY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【SUPERCHAT READING】look forward to even more time together 🐾✨ #shorts  【FUWAMOCO 縦型配信 VERTICAL】\nhttps://www.youtube.com/watch?v=jLuSj5YR4ZI
+DURATION:PT2H
+DTSTART:20241028T010000Z
+SUMMARY:FUWAMOCO: 【SUPERCHAT READING】look forward to even more time together 🐾✨ #shorts  【FUWAMOCO 縦型配信 VERTICAL】
+UID:jLuSj5YR4ZI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #朝ミオ 】月曜日だよ～！おはみぉーん！珍しくゲストが来ます・・！\nhttps://www.youtube.com/watch?v=2Bq_iVegPaQ
@@ -179,18 +179,18 @@ SUMMARY:🌺花咲みやび: 【10月28日】ハロウィンSP #花岸れいで�
 UID:wfe2x-AEEFU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 Liar's Bar 】視聴者参加型！先輩にボコされる前にコソ練！【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=FARFhog4Fc8
-DURATION:PT2H
-DTSTART:20241028T110000Z
-SUMMARY:火威青: 【 Liar's Bar 】視聴者参加型！先輩にボコされる前にコソ練！【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:FARFhog4Fc8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Don't Starve Together】Teach me more about this game please!!!【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=Qgr2gKELprQ
 DURATION:PT2H
 DTSTART:20241028T130000Z
 SUMMARY:🔮Moona: 【Don't Starve Together】Teach me more about this game please!!!【Moona Hoshinova】
 UID:Qgr2gKELprQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Liar's Bar 】視聴者参加型！先輩にボコされる前にコソ練！【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=FARFhog4Fc8
+DURATION:PT2H
+DTSTART:20241028T110000Z
+SUMMARY:火威青: 【 Liar's Bar 】視聴者参加型！先輩にボコされる前にコソ練！【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:FARFhog4Fc8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Unsorted VHS】 Modern retro horror puzzle game by the creator of Buckshot Roulette\nhttps://www.youtube.com/watch?v=Z661zh4wywk
@@ -270,6 +270,13 @@ SUMMARY:Shinri: 【SOMA】How can our eyes be mirrors if real can't be mirrors e
 UID:RA-dcmjqjF0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【WATCH-A-LONG】Movie: Yesterday ~! 💄\nhttps://www.youtube.com/watch?v=iRtYWW-5G4U
+DURATION:PT2H
+DTSTART:20241028T200000Z
+SUMMARY:Elizabeth: 【WATCH-A-LONG】Movie: Yesterday ~! 💄
+UID:iRtYWW-5G4U
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:晩餐歌 / 常闇トワ × 大神ミオ (cover)\nhttps://www.youtube.com/watch?v=-4vCJggx2LY
 DURATION:PT2H
 DTSTART:20241028T090000Z
@@ -277,11 +284,11 @@ SUMMARY:👾常闇トワ: 晩餐歌 / 常闇トワ × 大神ミオ (cover)
 UID:-4vCJggx2LY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Senin Produktif \; Art and Chat\nhttps://www.youtube.com/watch?v=QA7Oh8eqjw8
+DESCRIPTION:【対談コラボ】#ディスコードショッキング ～今月のゲスト：魔界ノりりむ様～【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=DI6_GeXM9eA
 DURATION:PT2H
-DTSTART:20241028T130000Z
-SUMMARY:🎨Iofi: Senin Produktif \; Art and Chat
-UID:QA7Oh8eqjw8
+DTSTART:20241029T120000Z
+SUMMARY:博衣こより: 【対談コラボ】#ディスコードショッキング ～今月のゲスト：魔界ノりりむ様～【博衣こより/ホロライブ】
+UID:DI6_GeXM9eA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ホラゲー 近畿霊務局】これもしかしてエモギャグゲーですか？？？？！！part 2【一条莉々華/ホロライブ hololive DEV_IS　ReGLOSS】\nhttps://www.youtube.com/watch?v=r-OLPnk0rhw
@@ -298,11 +305,11 @@ SUMMARY:Jurard: 【TCG CARD SHOP SIMULATOR】LIFE IN SHAMBLES BUT I MUST GAMBLE
 UID:o2DOYWZXxzU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【対談コラボ】#ディスコードショッキング ～今月のゲスト：魔界ノりりむ様～【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=DI6_GeXM9eA
+DESCRIPTION:Senin Produktif \; Art and Chat\nhttps://www.youtube.com/watch?v=QA7Oh8eqjw8
 DURATION:PT2H
-DTSTART:20241029T120000Z
-SUMMARY:博衣こより: 【対談コラボ】#ディスコードショッキング ～今月のゲスト：魔界ノりりむ様～【博衣こより/ホロライブ】
-UID:DI6_GeXM9eA
+DTSTART:20241028T130000Z
+SUMMARY:🎨Iofi: Senin Produktif \; Art and Chat
+UID:QA7Oh8eqjw8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ストリートファイター6】最近SF6始めた人たちで対戦会いかがですか【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=RVUQnx8Kc7U
@@ -466,11 +473,11 @@ SUMMARY:博衣こより: 【ジャンプスケア・スケアジャンプ】ビ�
 UID:qsUWeTOZ690
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 ドラゴンボール Sparking! ZERO 】オラよりつぇえやつに会いに行く＃2【荒咬オウガ /ホロスターズ】\nhttps://www.youtube.com/watch?v=4_vC8hM28-I
+DESCRIPTION:【モンハンワイルズ】「モンスターハンターワイルズ」オープンベータテストやるぞおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=9yExZ90wGfs
 DURATION:PT2H
-DTSTART:20241028T120000Z
-SUMMARY:荒咬オウガ: 【 ドラゴンボール Sparking! ZERO 】オラよりつぇえやつに会いに行く＃2【荒咬オウガ /ホロスターズ】
-UID:4_vC8hM28-I
+DTSTART:20241029T110000Z
+SUMMARY:👯兎田ぺこら: 【モンハンワイルズ】「モンスターハンターワイルズ」オープンベータテストやるぞおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】
+UID:9yExZ90wGfs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【FUWAMOCO MORNING】episode 138 🐾 #FWMCMORNING\nhttps://www.youtube.com/watch?v=Fp8TD1E0vsA
@@ -478,6 +485,13 @@ DURATION:PT2H
 DTSTART:20241028T150000Z
 SUMMARY:FUWAMOCO: 【FUWAMOCO MORNING】episode 138 🐾 #FWMCMORNING
 UID:Fp8TD1E0vsA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 ドラゴンボール Sparking! ZERO 】オラよりつぇえやつに会いに行く＃2【荒咬オウガ /ホロスターズ】\nhttps://www.youtube.com/watch?v=4_vC8hM28-I
+DURATION:PT2H
+DTSTART:20241028T120000Z
+SUMMARY:荒咬オウガ: 【 ドラゴンボール Sparking! ZERO 】オラよりつぇえやつに会いに行く＃2【荒咬オウガ /ホロスターズ】
+UID:4_vC8hM28-I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【League of Legends】マジで避けてたSoloQ / アステル\nhttps://www.youtube.com/watch?v=UxW9MLr3j30
