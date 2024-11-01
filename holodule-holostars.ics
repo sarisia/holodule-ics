@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【モンスターハンターワイルズ】オープンβ版でキャラクリから遊ぶぞい！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=5Bycn4F7PYk
-DURATION:PT2H
-DTSTART:20241101T080000Z
-SUMMARY:🍕アルランディス: 【モンスターハンターワイルズ】オープンβ版でキャラクリから遊ぶぞい！【アルランディス/ホロスターズ】
-UID:5Bycn4F7PYk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【龍が如く0 誓いの場所】初見で挑む『龍が如く0』　11日目【夕刻ロベル/ホロスターズ】※ネタバレあり\nhttps://www.youtube.com/watch?v=tYotzyMeZyU
 DURATION:PT2H
 DTSTART:20241102T040000Z
@@ -18,25 +11,11 @@ SUMMARY:🍷夕刻ロベル: 【龍が如く0 誓いの場所】初見で挑む�
 UID:tYotzyMeZyU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【モンハンワイルズ】#はなふが で一狩り行く！w/みやびさん　オウガさん【夜十神封魔/UPROAR!!】\nhttps://www.youtube.com/watch?v=eiXfhsmYktA
-DURATION:PT2H
-DTSTART:20241101T120000Z
-SUMMARY:夜十神封魔: 【モンハンワイルズ】#はなふが で一狩り行く！w/みやびさん　オウガさん【夜十神封魔/UPROAR!!】
-UID:eiXfhsmYktA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【モンスターハンターワイルズ】オープンベータテスト、参る【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=a_4a4oa5GYU
 DURATION:PT2H
 DTSTART:20241101T030000Z
 SUMMARY:🍷夕刻ロベル: 【モンスターハンターワイルズ】オープンベータテスト、参る【夕刻ロベル/ホロスターズ】
 UID:a_4a4oa5GYU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 マロ雑談 】夕方の雑談議  / アステル\nhttps://www.youtube.com/watch?v=SPHZjA9ng0k
-DURATION:PT2H
-DTSTART:20241101T070000Z
-SUMMARY:🎭アステル・レダ: 【 マロ雑談 】夕方の雑談議  / アステル
-UID:SPHZjA9ng0k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【モンスターハンターワイルズOBT】はなふがでワイルズのオープンベータやるぞ!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=CgavfyktjQs
@@ -51,5 +30,33 @@ DURATION:PT2H
 DTSTART:20241101T040000Z
 SUMMARY:夜十神封魔: 【モンハンワイルズ】🔰初心者ハンター、オープンベータに参加する。【夜十神封魔/UPROAR!!】
 UID:RlpBkIxySoE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【モンスターハンターワイルズ】オープンβ版でキャラクリから遊ぶぞい！【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=5Bycn4F7PYk
+DURATION:PT2H
+DTSTART:20241101T080000Z
+SUMMARY:🍕アルランディス: 【モンスターハンターワイルズ】オープンβ版でキャラクリから遊ぶぞい！【アルランディス/ホロスターズ】
+UID:5Bycn4F7PYk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【モンハンワイルズ】#はなふが で一狩り行く！w/みやびさん　オウガさん【夜十神封魔/UPROAR!!】\nhttps://www.youtube.com/watch?v=eiXfhsmYktA
+DURATION:PT2H
+DTSTART:20241101T120000Z
+SUMMARY:夜十神封魔: 【モンハンワイルズ】#はなふが で一狩り行く！w/みやびさん　オウガさん【夜十神封魔/UPROAR!!】
+UID:eiXfhsmYktA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 マロ雑談 】夕方の雑談議  / アステル\nhttps://www.youtube.com/watch?v=SPHZjA9ng0k
+DURATION:PT2H
+DTSTART:20241101T070000Z
+SUMMARY:🎭アステル・レダ: 【 マロ雑談 】夕方の雑談議  / アステル
+UID:SPHZjA9ng0k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Escape from Tarkov】PvEで湧きみにいく深夜のチルコフ【 #vtuber  / #ホロスターズ  】\nhttps://www.youtube.com/watch?v=-g37yNY8pq0
+DURATION:PT2H
+DTSTART:20241101T180500Z
+SUMMARY:羽継烏有: 【Escape from Tarkov】PvEで湧きみにいく深夜のチルコフ【 #vtuber  / #ホロスターズ  】
+UID:-g37yNY8pq0
 END:VEVENT
 END:VCALENDAR
