@@ -4,6 +4,34 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Something is Something】?【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=uJxvyJ6e60o
+DURATION:PT2H
+DTSTART:20241110T130000Z
+SUMMARY:🔮Moona: 【Something is Something】?【Moona Hoshinova】
+UID:uJxvyJ6e60o
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#Zetalk】Post-Bday Chat & Behind-The-Scenes\, etc #Jazzeta\nhttps://www.youtube.com/watch?v=SYlSdW2tT00
+DURATION:PT2H
+DTSTART:20241109T090000Z
+SUMMARY:Zeta: 【#Zetalk】Post-Bday Chat & Behind-The-Scenes\, etc #Jazzeta
+UID:SYlSdW2tT00
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#11【Ace Attorney: Dual Destinies】IN JUSTICE WE TRUST...? (SPOILERS!)【Pavolia Reine/holoID】\nhttps://www.youtube.com/watch?v=nHGT8lIAv-U
+DURATION:PT2H
+DTSTART:20241109T140000Z
+SUMMARY:Reine: #11【Ace Attorney: Dual Destinies】IN JUSTICE WE TRUST...? (SPOILERS!)【Pavolia Reine/holoID】
+UID:nHGT8lIAv-U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#FLOWGLOW DEBUT WATCHALONG】HELLO NEW KOUHAIS FROM HOLOLIVE DEV_IS!!【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=iPsfkzAIuF8
+DURATION:PT2H
+DTSTART:20241109T104500Z
+SUMMARY:Ollie: 【#FLOWGLOW DEBUT WATCHALONG】HELLO NEW KOUHAIS FROM HOLOLIVE DEV_IS!!【Kureiji Ollie】
+UID:iPsfkzAIuF8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Core Keeper】it ain't much but it's honest work【SOLO WORLD】\nhttps://www.youtube.com/watch?v=uFtC3xeBMao
 DURATION:PT2H
 DTSTART:20241109T001500Z
@@ -25,31 +53,10 @@ SUMMARY:Reine: 【Yet Another Brunch\, Everyone】the november that feels like o
 UID:r4-_jSC84B4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#Zetalk】Post-Bday Chat & Behind-The-Scenes\, etc #Jazzeta\nhttps://www.youtube.com/watch?v=SYlSdW2tT00
-DURATION:PT2H
-DTSTART:20241109T090000Z
-SUMMARY:Zeta: 【#Zetalk】Post-Bday Chat & Behind-The-Scenes\, etc #Jazzeta
-UID:SYlSdW2tT00
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#11【Ace Attorney: Dual Destinies】IN JUSTICE WE TRUST...? (SPOILERS!)【Pavolia Reine/holoID】\nhttps://www.youtube.com/watch?v=nHGT8lIAv-U
-DURATION:PT2H
-DTSTART:20241109T140000Z
-SUMMARY:Reine: #11【Ace Attorney: Dual Destinies】IN JUSTICE WE TRUST...? (SPOILERS!)【Pavolia Reine/holoID】
-UID:nHGT8lIAv-U
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MOUTHWASHING】ORAL RINSING IS SCARY??【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=W-FLIqp3Auw
 DURATION:PT2H
 DTSTART:20241111T083000Z
 SUMMARY:Ollie: 【MOUTHWASHING】ORAL RINSING IS SCARY??【Kureiji Ollie】
 UID:W-FLIqp3Auw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#FLOWGLOW DEBUT WATCHALONG】HELLO NEW KOUHAIS FROM HOLOLIVE DEV_IS!!【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=iPsfkzAIuF8
-DURATION:PT2H
-DTSTART:20241109T104500Z
-SUMMARY:Ollie: 【#FLOWGLOW DEBUT WATCHALONG】HELLO NEW KOUHAIS FROM HOLOLIVE DEV_IS!!【Kureiji Ollie】
-UID:iPsfkzAIuF8
 END:VEVENT
 END:VCALENDAR
