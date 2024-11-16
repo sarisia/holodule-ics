@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【歌枠】今年最後の歌枠【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=FLZ4TH1DKHA
-DURATION:PT2H
-DTSTART:20241116T130000Z
-SUMMARY:🌺花咲みやび: 【歌枠】今年最後の歌枠【花咲みやび/ホロスターズ】
-UID:FLZ4TH1DKHA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Resident Evil 7: Biohazard】初めてのバイオなんだけど大丈夫？？？？？？　※グロ、虫注意 #02【影山シエン/ホロスターズ】\nhttps://www.youtube.com/watch?v=PMoyVfmzy2o
 DURATION:PT2H
 DTSTART:20241116T060000Z
@@ -65,6 +58,13 @@ DURATION:PT2H
 DTSTART:20241118T020000Z
 SUMMARY:FUWAMOCO: 【ANIMAL TOWER BATTLE PARTICIPATION】stack the animals with our competitive team work 🐾【MEMBERS ONLY】
 UID:h-ynh8n16Zc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【歌枠】深夜のゲリラお歌！好きな歌を歌う～！【轟はじめ/ReGLOSS】 #hololivedev_is\nhttps://www.youtube.com/watch?v=MX4mXiMlTcE
+DURATION:PT2H
+DTSTART:20241116T153500Z
+SUMMARY:轟はじめ: 【歌枠】深夜のゲリラお歌！好きな歌を歌う～！【轟はじめ/ReGLOSS】 #hololivedev_is
+UID:MX4mXiMlTcE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #shorts  】鳥の詩  かなけん で歌ってみた  【 ニコニコ動画組曲メドレー 】 #歌ってみた #vtuber #天音かなた #沙花叉クロヱ #AZKi #かなけん\nhttps://www.youtube.com/watch?v=CeeT-1K1K0c
@@ -590,13 +590,6 @@ DURATION:PT2H
 DTSTART:20241116T140000Z
 SUMMARY:🌙紫咲シオン: 【 Liar's Bar 】視聴者参加型！夜中のギャンブル大会開催🌟【ホロライブ/紫咲シオン】
 UID:3Hew-oEpEEQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#CongRISUlation900K】UNARCHIVED KARAOKE : Let's Party Tonight !【Ayunda Risu】\nhttps://www.youtube.com/watch?v=fXuwpkH2V-g
-DURATION:PT2H
-DTSTART:20241116T130000Z
-SUMMARY:🐿Risu: 【#CongRISUlation900K】UNARCHIVED KARAOKE : Let's Party Tonight !【Ayunda Risu】
-UID:fXuwpkH2V-g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PRE-ANNIVERSARY CELEBRATION】REACTING TO MY PREDEBUT TWITTER POSTS AND MORE!\nhttps://www.youtube.com/watch?v=VPBq-mrkzWI
