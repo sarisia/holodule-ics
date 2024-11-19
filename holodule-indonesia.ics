@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【HoloCure 0.7 UPDATE】1ST STUDIO STREAM TEST!【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=JcgGmkbteyI
-DURATION:PT2H
-DTSTART:20241119T034500Z
-SUMMARY:Kaela: 【HoloCure 0.7 UPDATE】1ST STUDIO STREAM TEST!【Kaela Kovalskia / hololiveID】
-UID:JcgGmkbteyI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX Legends】YOK TEMBAK YOK【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=6qq4JPrkaiQ
-DURATION:PT2H
-DTSTART:20241119T120000Z
-SUMMARY:🎨Iofi: 【APEX Legends】YOK TEMBAK YOK【 iofi / hololiveID 】
-UID:6qq4JPrkaiQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Shashingo】DENGAN MENGAMBIL FOTO KITA JUGA MENGAMBIL ILMU??? TIPIS-TIPIS BELAJAR BAHASA JEPANG!!!\nhttps://www.youtube.com/watch?v=OzdgJs5O6cU
 DURATION:PT2H
 DTSTART:20241119T150000Z
@@ -25,11 +11,11 @@ SUMMARY:Kobo: 【Shashingo】DENGAN MENGAMBIL FOTO KITA JUGA MENGAMBIL ILMU??? T
 UID:OzdgJs5O6cU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【M.M.M.】Monday Malam Malas : another malam malas【Ayunda Risu】\nhttps://www.youtube.com/watch?v=gHXozyoiqz0
+DESCRIPTION:【HoloCure 0.7 UPDATE】1ST STUDIO STREAM TEST!【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=JcgGmkbteyI
 DURATION:PT2H
-DTSTART:20241118T110000Z
-SUMMARY:🐿Risu: 【M.M.M.】Monday Malam Malas : another malam malas【Ayunda Risu】
-UID:gHXozyoiqz0
+DTSTART:20241119T034500Z
+SUMMARY:Kaela: 【HoloCure 0.7 UPDATE】1ST STUDIO STREAM TEST!【Kaela Kovalskia / hololiveID】
+UID:JcgGmkbteyI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【APEX LEGENDS】GOOD TO BE HOME❤️‍🔥❤️‍🔥【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=vzVjsZn9oNs
@@ -39,11 +25,18 @@ SUMMARY:Ollie: 【APEX LEGENDS】GOOD TO BE HOME❤️‍🔥❤️‍🔥【Kur
 UID:vzVjsZn9oNs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:chill and sing\nhttps://www.youtube.com/watch?v=vxraPSp2RRY
+DESCRIPTION:【M.M.M.】Monday Malam Malas : another malam malas【Ayunda Risu】\nhttps://www.youtube.com/watch?v=gHXozyoiqz0
 DURATION:PT2H
-DTSTART:20241119T094500Z
-SUMMARY:Kobo: chill and sing
-UID:vxraPSp2RRY
+DTSTART:20241118T110000Z
+SUMMARY:🐿Risu: 【M.M.M.】Monday Malam Malas : another malam malas【Ayunda Risu】
+UID:gHXozyoiqz0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【APEX Legends】YOK TEMBAK YOK【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=6qq4JPrkaiQ
+DURATION:PT2H
+DTSTART:20241119T120000Z
+SUMMARY:🎨Iofi: 【APEX Legends】YOK TEMBAK YOK【 iofi / hololiveID 】
+UID:6qq4JPrkaiQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Galaxy  Burger】WELCOME~!【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=VhpgooqwKuc
