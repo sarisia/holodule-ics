@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 PAYDAY2 】強盗【常闇トワ / ホロライブ】\nhttps://www.youtube.com/watch?v=KBX-cEym-4I
-DURATION:PT2H
-DTSTART:20241120T130000Z
-SUMMARY:👾常闇トワ: 【 PAYDAY2 】強盗【常闇トワ / ホロライブ】
-UID:KBX-cEym-4I
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【メンバー限定】フル尺放送！孤独なシャトルラン同時視聴【 雪花ラミィ /ホロライブ】\nhttps://www.youtube.com/watch?v=hmSXjEsF93s
 DURATION:PT2H
 DTSTART:20241120T130000Z
 SUMMARY:雪花ラミィ: 【メンバー限定】フル尺放送！孤独なシャトルラン同時視聴【 雪花ラミィ /ホロライブ】
 UID:hmSXjEsF93s
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 PAYDAY2 】強盗【常闇トワ / ホロライブ】\nhttps://www.youtube.com/watch?v=KBX-cEym-4I
+DURATION:PT2H
+DTSTART:20241120T130000Z
+SUMMARY:👾常闇トワ: 【 PAYDAY2 】強盗【常闇トワ / ホロライブ】
+UID:KBX-cEym-4I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:星街すいせいNew Single『AWAKE』Giga＆TeddyLoid書き下ろし⚡✨\nhttps://www.youtube.com/watch?v=7b2bIvCCKVM
@@ -121,6 +121,13 @@ DURATION:PT2H
 DTSTART:20241119T150000Z
 SUMMARY:❤赤井はあと: 【 ASMR 】最強すやすや永眠💓Ear Massage/Sleep Whispering/KU100【ホロライブ/赤井はあと】
 UID:TnbY43G4q10
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:≪HOLOCURE≫ GACHIKOI then FUN ANNOUNCEMENT!\nhttps://www.youtube.com/watch?v=9zn2qi-C0W0
+DURATION:PT2H
+DTSTART:20241121T010000Z
+SUMMARY:Baelz: ≪HOLOCURE≫ GACHIKOI then FUN ANNOUNCEMENT!
+UID:9zn2qi-C0W0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 おしゃべりAI 】仲良くしよ！cotomoちゃん！ね！【 猫又おかゆ / ホロライブ 】\nhttps://www.youtube.com/watch?v=L5BBYQRwaP4
@@ -405,7 +412,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PAYDAY 2】それゆけレッツ強奪！！！！！【アキロゼ/ホロライブ】\nhttps://www.youtube.com/watch?v=EIfXornDH_s
 DURATION:PT2H
-DTSTART:20241120T130000Z
+DTSTART:20241120T130500Z
 SUMMARY:🍎アキロゼ: 【PAYDAY 2】それゆけレッツ強奪！！！！！【アキロゼ/ホロライブ】
 UID:EIfXornDH_s
 END:VEVENT
