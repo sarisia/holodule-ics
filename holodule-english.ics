@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【PORTAL 2】LET'S TEST MY BIG BRAIN w/ KRONII!! #PizzaTime\nhttps://www.youtube.com/watch?v=qJI8LRQKOgs
-DURATION:PT2H
-DTSTART:20241126T010000Z
-SUMMARY:Raora: 【PORTAL 2】LET'S TEST MY BIG BRAIN w/ KRONII!! #PizzaTime
-UID:qJI8LRQKOgs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Dark Souls II】best souls\, of course (part 4) #calliolive\nhttps://www.youtube.com/watch?v=rlZSbBgPvYQ
-DURATION:PT2H
-DTSTART:20241126T000005Z
-SUMMARY:Calli: 【Dark Souls II】best souls\, of course (part 4) #calliolive
-UID:rlZSbBgPvYQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Resident Evil Village】Will This Be It | #5\nhttps://www.youtube.com/watch?v=fhzo_hvjdrQ
 DURATION:PT2H
 DTSTART:20241127T020000Z
@@ -88,18 +74,18 @@ SUMMARY:Fauna: 【L.A. Noire】 I keeps one in the chamber in case you ponderin'
 UID:0mG4EaaT39s
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Neva】Eva\nhttps://www.youtube.com/watch?v=0XIRkQDSjlA
-DURATION:PT2H
-DTSTART:20241128T020000Z
-SUMMARY:Kronii: 【Neva】Eva
-UID:0XIRkQDSjlA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:KFP Mandatory Training Video 【VITE COLLAB LAUNCH TRAILER】\nhttps://www.youtube.com/watch?v=6SkBvasxWjU
 DURATION:PT2H
 DTSTART:20241126T233000Z
 SUMMARY:Kiara: KFP Mandatory Training Video 【VITE COLLAB LAUNCH TRAILER】
 UID:6SkBvasxWjU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Neva】Eva\nhttps://www.youtube.com/watch?v=0XIRkQDSjlA
+DURATION:PT2H
+DTSTART:20241128T020000Z
+SUMMARY:Kronii: 【Neva】Eva
+UID:0XIRkQDSjlA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【DEVIL MAY CRY】IRySoSTYLISH\nhttps://www.youtube.com/watch?v=eNmNgDgUmuI
@@ -116,18 +102,11 @@ SUMMARY:Nerissa: Yappa yappa yappa | Members-Only
 UID:r2zJf_oqeQE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:≪NieR:Automata≫ give me that juicy lore. FIRST TIME PLAY-THROUGH! #5【SPOILER WARNING】\nhttps://www.youtube.com/watch?v=00lNXsd0MIM
+DESCRIPTION:【Outer Wilds】 Patience...Patience Young Tako 【#4】\nhttps://www.youtube.com/watch?v=HOJ2UndnIrc
 DURATION:PT2H
-DTSTART:20241126T010000Z
-SUMMARY:Baelz: ≪NieR:Automata≫ give me that juicy lore. FIRST TIME PLAY-THROUGH! #5【SPOILER WARNING】
-UID:00lNXsd0MIM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Undertale Yellow】yee to the haw?! #calliolive\nhttps://www.youtube.com/watch?v=2AOXEOO96fM
-DURATION:PT2H
-DTSTART:20241128T020000Z
-SUMMARY:Calli: 【Undertale Yellow】yee to the haw?! #calliolive
-UID:2AOXEOO96fM
+DTSTART:20241127T220000Z
+SUMMARY:Ina: 【Outer Wilds】 Patience...Patience Young Tako 【#4】
+UID:HOJ2UndnIrc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MEMBER'S ONLY】Event Horizon (Watch-A-Long) #calliolive\nhttps://www.youtube.com/watch?v=SmXnbBUJ--g
@@ -137,11 +116,11 @@ SUMMARY:Calli: 【MEMBER'S ONLY】Event Horizon (Watch-A-Long) #calliolive
 UID:SmXnbBUJ--g
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Outer Wilds】 Patience...Patience Young Tako 【#4】\nhttps://www.youtube.com/watch?v=HOJ2UndnIrc
+DESCRIPTION:【Undertale Yellow】yee to the haw?! #calliolive\nhttps://www.youtube.com/watch?v=2AOXEOO96fM
 DURATION:PT2H
-DTSTART:20241127T220000Z
-SUMMARY:Ina: 【Outer Wilds】 Patience...Patience Young Tako 【#4】
-UID:HOJ2UndnIrc
+DTSTART:20241128T020000Z
+SUMMARY:Calli: 【Undertale Yellow】yee to the haw?! #calliolive
+UID:2AOXEOO96fM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【JUSTICE JAMS】Liars Bar ~! 💄\nhttps://www.youtube.com/watch?v=_MJEjpQRCbE
@@ -149,19 +128,5 @@ DURATION:PT2H
 DTSTART:20241126T230000Z
 SUMMARY:Elizabeth: 【JUSTICE JAMS】Liars Bar ~! 💄
 UID:_MJEjpQRCbE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【KUUKIYOMI 4】the politest gremlin to exist\nhttps://www.youtube.com/watch?v=yj_R2mLwdq8
-DURATION:PT2H
-DTSTART:20241125T220000Z
-SUMMARY:Gigi: 【KUUKIYOMI 4】the politest gremlin to exist
-UID:yj_R2mLwdq8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Malpha and Aradia and Me! | Mario Kart 8 Deluxe\nhttps://www.youtube.com/watch?v=3NXzc2hRYtE
-DURATION:PT2H
-DTSTART:20241126T010000Z
-SUMMARY:Nerissa: Malpha and Aradia and Me! | Mario Kart 8 Deluxe
-UID:3NXzc2hRYtE
 END:VEVENT
 END:VCALENDAR
