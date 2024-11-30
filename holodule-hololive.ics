@@ -186,18 +186,18 @@ SUMMARY:桃鈴ねね: 【 歌枠 】ゲリゴリラの昼【 桃鈴ねね / holo
 UID:tztEPaaw1jM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【PICO PARK 2】一緒にゴールしようね！！！ #ねぽらぼ 【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=XpKQRyP8-Ec
-DURATION:PT2H
-DTSTART:20241130T090000Z
-SUMMARY:獅白ぼたん: 【PICO PARK 2】一緒にゴールしようね！！！ #ねぽらぼ 【獅白ぼたん/ホロライブ】
-UID:XpKQRyP8-Ec
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ドラクエ3リメイク】完全初見ドラゴンクエスト⚔️伝説のオーブ集め【ホロライブ/紫咲シオン】\nhttps://www.youtube.com/watch?v=WsP3xMQXgqE
 DURATION:PT2H
 DTSTART:20241130T130000Z
 SUMMARY:🌙紫咲シオン: 【ドラクエ3リメイク】完全初見ドラゴンクエスト⚔️伝説のオーブ集め【ホロライブ/紫咲シオン】
 UID:WsP3xMQXgqE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【PICO PARK 2】一緒にゴールしようね！！！ #ねぽらぼ 【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=XpKQRyP8-Ec
+DURATION:PT2H
+DTSTART:20241130T090000Z
+SUMMARY:獅白ぼたん: 【PICO PARK 2】一緒にゴールしようね！！！ #ねぽらぼ 【獅白ぼたん/ホロライブ】
+UID:XpKQRyP8-Ec
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【みんなで空気読み。4】自由人のわたしが空気読めると思う？【ホロライブ/ときのそら】\nhttps://www.youtube.com/watch?v=wY64eoTOnX8
@@ -438,11 +438,25 @@ SUMMARY:🚑大空スバル: 【#生スバル】ジョジョの奇妙な冒険 �
 UID:q-a91uXv1pg
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【 #ホロGTA 】新米ギャングの暴れっぷりに笑いが止まらないアキロゼ\nhttps://www.youtube.com/watch?v=mpbWH-uwFZE
+DURATION:PT2H
+DTSTART:20241130T130053Z
+SUMMARY:🍎アキロゼ: 【 #ホロGTA 】新米ギャングの暴れっぷりに笑いが止まらないアキロゼ
+UID:mpbWH-uwFZE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【ホロキュア / HoloCure】アップデートが盛りだくさん⁉久しぶりに遊ぶ！！【 星街すいせい / ホロライブ 】\nhttps://www.youtube.com/watch?v=s1BYIZ9cV98
 DURATION:PT2H
 DTSTART:20241130T100000Z
 SUMMARY:☄星街すいせい: 【ホロキュア / HoloCure】アップデートが盛りだくさん⁉久しぶりに遊ぶ！！【 星街すいせい / ホロライブ 】
 UID:s1BYIZ9cV98
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Freetalk】メンバーシップ限定保健医のゲリラ集会のお時間です⏰【ホロライブ/癒月ちょこ】\nhttps://www.youtube.com/watch?v=dXPsBRLEYzY
+DURATION:PT2H
+DTSTART:20241130T133000Z
+SUMMARY:💋癒月ちょこ: 【Freetalk】メンバーシップ限定保健医のゲリラ集会のお時間です⏰【ホロライブ/癒月ちょこ】
+UID:dXPsBRLEYzY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【🟣月一企画メン限】センセ～ってどういう子が好きなの？ / KU-100【 猫又おかゆ/ホロライブ 】\nhttps://www.youtube.com/watch?v=J68Ftubb_Fc
