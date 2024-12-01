@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Holocure】Playing The New Update! アプデコンテンツ見てみるよーん 【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=MXAxxcBZwoE
+DESCRIPTION:【Galaxy  Burger】WELCOME TO OUR GALAXY BURGER【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=4RnLfMH3e2U
 DURATION:PT2H
-DTSTART:20241201T060000Z
-SUMMARY:Anya: 【Holocure】Playing The New Update! アプデコンテンツ見てみるよーん 【hololive ID 2nd Generation | Anya Melfissa】
-UID:MXAxxcBZwoE
+DTSTART:20241130T120000Z
+SUMMARY:🎨Iofi: 【Galaxy  Burger】WELCOME TO OUR GALAXY BURGER【 iofi / hololiveID 】
+UID:4RnLfMH3e2U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#13【Ace Attorney: Dual Destinies】IN JUSTICE WE (really) TRUST (SPOILERS!)【Pavolia Reine/holoID】\nhttps://www.youtube.com/watch?v=RRnZmv7oJ-I
@@ -16,6 +16,13 @@ DURATION:PT2H
 DTSTART:20241130T130000Z
 SUMMARY:Reine: #13【Ace Attorney: Dual Destinies】IN JUSTICE WE (really) TRUST (SPOILERS!)【Pavolia Reine/holoID】
 UID:RRnZmv7oJ-I
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【娘の部屋 | A Shut-in Daughter】数年間引きこもってる娘の部屋に入ってみたら…？！ 【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=R3bNz4t1-MM
+DURATION:PT2H
+DTSTART:20241201T120000Z
+SUMMARY:Anya: 【娘の部屋 | A Shut-in Daughter】数年間引きこもってる娘の部屋に入ってみたら…？！ 【hololive ID 2nd Generation | Anya Melfissa】
+UID:R3bNz4t1-MM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Lost But Found】if you watch this\, Kaela will be found【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=K2--kjnyOdg
@@ -32,13 +39,6 @@ SUMMARY:Anya: 【SPOILER WARNING - SILENT HILL 2】These Nurses Are Getting Out 
 UID:X4nFxmzmlMs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Yet Another Brunch\, Everyone】happy thanksgiving【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=4sgD_E9jXsA
-DURATION:PT2H
-DTSTART:20241130T040000Z
-SUMMARY:Reine: 【Yet Another Brunch\, Everyone】happy thanksgiving【Pavolia Reine/hololiveID 2nd gen】
-UID:4sgD_E9jXsA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Galaxy Burger】90% goofy ah burger making... wait there's a cat in the game...?!\nhttps://www.youtube.com/watch?v=ww1Lqw4CWgs
 DURATION:PT2H
 DTSTART:20241130T150000Z
@@ -46,17 +46,10 @@ SUMMARY:Zeta: 【Galaxy Burger】90% goofy ah burger making... wait there's a ca
 UID:ww1Lqw4CWgs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【娘の部屋 | A Shut-in Daughter】数年間引きこもってる娘の部屋に入ってみたら…？！ 【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=R3bNz4t1-MM
+DESCRIPTION:【Yet Another Brunch\, Everyone】happy thanksgiving【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=4sgD_E9jXsA
 DURATION:PT2H
-DTSTART:20241201T120000Z
-SUMMARY:Anya: 【娘の部屋 | A Shut-in Daughter】数年間引きこもってる娘の部屋に入ってみたら…？！ 【hololive ID 2nd Generation | Anya Melfissa】
-UID:R3bNz4t1-MM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Galaxy  Burger】WELCOME TO OUR GALAXY BURGER【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=4RnLfMH3e2U
-DURATION:PT2H
-DTSTART:20241130T120000Z
-SUMMARY:🎨Iofi: 【Galaxy  Burger】WELCOME TO OUR GALAXY BURGER【 iofi / hololiveID 】
-UID:4RnLfMH3e2U
+DTSTART:20241130T040000Z
+SUMMARY:Reine: 【Yet Another Brunch\, Everyone】happy thanksgiving【Pavolia Reine/hololiveID 2nd gen】
+UID:4sgD_E9jXsA
 END:VEVENT
 END:VCALENDAR
