@@ -4,41 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Official 3D Version】Au Revoir - Malice Mizer / Covered by Banzoin Hakka #HAKKA3D\nhttps://www.youtube.com/watch?v=_g21qxDs0FE
-DURATION:PT2H
-DTSTART:20241203T010000Z
-SUMMARY:Hakka: 【Official 3D Version】Au Revoir - Malice Mizer / Covered by Banzoin Hakka #HAKKA3D
-UID:_g21qxDs0FE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Stardew Valley】1.6 - 14 - Okay\, I'll finally marry Abigail (eventually)\nhttps://www.youtube.com/watch?v=dip41RdMV8U
-DURATION:PT2H
-DTSTART:20241202T023000Z
-SUMMARY:Shinri: 【Stardew Valley】1.6 - 14 - Okay\, I'll finally marry Abigail (eventually)
-UID:dip41RdMV8U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Zatsudan】Let's Catch Up + Health Update!\nhttps://www.youtube.com/watch?v=hf9hTCrsbrg
-DURATION:PT2H
-DTSTART:20241202T160000Z
-SUMMARY:Goldbullet: 【Zatsudan】Let's Catch Up + Health Update!
-UID:hf9hTCrsbrg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HITMAN World of Assassination】The names Bullet. GoldBullet.\nhttps://www.youtube.com/watch?v=_AsrhO1mIqQ
-DURATION:PT2H
-DTSTART:20241203T160000Z
-SUMMARY:Goldbullet: 【HITMAN World of Assassination】The names Bullet. GoldBullet.
-UID:_AsrhO1mIqQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HAKKITO ART STREAM】COMPLETE HAKKITO EXTERMINATION ERM I MEAN ILLUSTRATION ✏️✨\nhttps://www.youtube.com/watch?v=utuK0IcIA5M
-DURATION:PT2H
-DTSTART:20241202T001500Z
-SUMMARY:Hakka: 【HAKKITO ART STREAM】COMPLETE HAKKITO EXTERMINATION ERM I MEAN ILLUSTRATION ✏️✨
-UID:utuK0IcIA5M
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【MEMBERSHIP】RUZEDAY TUESDAY: Catchin' Colds and Catchin' Up\nhttps://www.youtube.com/watch?v=8_O_Efv80UU
 DURATION:PT2H
 DTSTART:20241203T180000Z
@@ -53,10 +18,31 @@ SUMMARY:Bettel: [ZATSUDAN] WE TALK THE TALK AND THEN WE WALK THE TALK #gavisbett
 UID:eMeuQSXeUfI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Official 3D Version】Au Revoir - Malice Mizer / Covered by Banzoin Hakka #HAKKA3D\nhttps://www.youtube.com/watch?v=_g21qxDs0FE
+DURATION:PT2H
+DTSTART:20241203T010000Z
+SUMMARY:Hakka: 【Official 3D Version】Au Revoir - Malice Mizer / Covered by Banzoin Hakka #HAKKA3D
+UID:_g21qxDs0FE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Chat Stream Where I Just Woke Up #57\nhttps://www.youtube.com/watch?v=FIYElib56Ns
 DURATION:PT2H
 DTSTART:20241203T003000Z
 SUMMARY:Flayon: Chat Stream Where I Just Woke Up #57
 UID:FIYElib56Ns
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Zatsudan】Let's Catch Up + Health Update!\nhttps://www.youtube.com/watch?v=hf9hTCrsbrg
+DURATION:PT2H
+DTSTART:20241202T160000Z
+SUMMARY:Goldbullet: 【Zatsudan】Let's Catch Up + Health Update!
+UID:hf9hTCrsbrg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HITMAN World of Assassination】The names Bullet. GoldBullet.\nhttps://www.youtube.com/watch?v=_AsrhO1mIqQ
+DURATION:PT2H
+DTSTART:20241203T160000Z
+SUMMARY:Goldbullet: 【HITMAN World of Assassination】The names Bullet. GoldBullet.
+UID:_AsrhO1mIqQ
 END:VEVENT
 END:VCALENDAR
