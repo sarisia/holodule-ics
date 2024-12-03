@@ -53,18 +53,18 @@ SUMMARY:羽継烏有: 【 #VCRGTA3 】１日目 ～ VCRを楽しませていた�
 UID:e6Qz2vd1kBE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【メン限】お　は　な　し【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=Dow4IsfBYp4
-DURATION:PT2H
-DTSTART:20241202T090000Z
-SUMMARY:🌺花咲みやび: 【メン限】お　は　な　し【花咲みやび/ホロスターズ】
-UID:Dow4IsfBYp4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【VCR GTA3】2日目｜ゼロから始める救急隊生活　#VCRGTA3【夜十神封魔/UPROAR!!】\nhttps://www.youtube.com/watch?v=biiAusPSaVs
 DURATION:PT2H
 DTSTART:20241203T070000Z
 SUMMARY:夜十神封魔: 【VCR GTA3】2日目｜ゼロから始める救急隊生活　#VCRGTA3【夜十神封魔/UPROAR!!】
 UID:biiAusPSaVs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メン限】お　は　な　し【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=Dow4IsfBYp4
+DURATION:PT2H
+DTSTART:20241202T090000Z
+SUMMARY:🌺花咲みやび: 【メン限】お　は　な　し【花咲みやび/ホロスターズ】
+UID:Dow4IsfBYp4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:まめひな" ズ "でテルメルダンス！　#shorts #vrchat #踊ってみた #もういいよ #vtuber\nhttps://www.youtube.com/watch?v=Xufrx2uOEAI
@@ -88,18 +88,18 @@ SUMMARY:羽継烏有: 【 #VCRGTA3 】２日目 ～ 釣りに目覚めた男 ～
 UID:x2j0yF7fnQA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【 #VCRGTA 3 】近未来のロスサントスに参戦！【 水無世燐央 l UPROAR!! 】\nhttps://www.youtube.com/watch?v=hP892MHYIzU
-DURATION:PT2H
-DTSTART:20241202T100000Z
-SUMMARY:水無世燐央: 【 #VCRGTA 3 】近未来のロスサントスに参戦！【 水無世燐央 l UPROAR!! 】
-UID:hP892MHYIzU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【VCR GTA】なんか近未来らC / アステル\nhttps://www.youtube.com/watch?v=pzD9VjgXZvw
 DURATION:PT2H
 DTSTART:20241202T110000Z
 SUMMARY:🎭アステル・レダ: 【VCR GTA】なんか近未来らC / アステル
 UID:pzD9VjgXZvw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #VCRGTA 3 】近未来のロスサントスに参戦！【 水無世燐央 l UPROAR!! 】\nhttps://www.youtube.com/watch?v=hP892MHYIzU
+DURATION:PT2H
+DTSTART:20241202T100000Z
+SUMMARY:水無世燐央: 【 #VCRGTA 3 】近未来のロスサントスに参戦！【 水無世燐央 l UPROAR!! 】
+UID:hP892MHYIzU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ストリートファイター6】オフライン環境でアプデを見てみましょう【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=7DvPaBLCqiI
@@ -114,6 +114,13 @@ DURATION:PT2H
 DTSTART:20241202T100000Z
 SUMMARY:🍷夕刻ロベル: 【VCR GTA3】近未来ロスサントス　1日目【夕刻ロベル/ホロスターズ】
 UID:wDK5WwlcP1U
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【VCR GTA3】救急の日々　2日目【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=Cw3L1k2MTBs
+DURATION:PT2H
+DTSTART:20241203T070000Z
+SUMMARY:🍷夕刻ロベル: 【VCR GTA3】救急の日々　2日目【夕刻ロベル/ホロスターズ】
+UID:Cw3L1k2MTBs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【スト６】ついに始動！スト６最難関、ランダムマスターチャレンジ Part1【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=CVoRXmyVGa4
