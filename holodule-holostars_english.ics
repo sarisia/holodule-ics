@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Monthly Ruzolve】DecENDER\nhttps://www.youtube.com/watch?v=TWJa8mMjR80
+DURATION:PT2H
+DTSTART:20241204T180000Z
+SUMMARY:Crimzon: 【Monthly Ruzolve】DecENDER
+UID:TWJa8mMjR80
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HITMAN World of Assassination】The names Bullet. GoldBullet.\nhttps://www.youtube.com/watch?v=_AsrhO1mIqQ
+DURATION:PT2H
+DTSTART:20241203T160000Z
+SUMMARY:Goldbullet: 【HITMAN World of Assassination】The names Bullet. GoldBullet.
+UID:_AsrhO1mIqQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT】TINY LITTLE GUY PLAYS THE FUNKY BLOCK GAME\, WHAT WILL HE DO【37】\nhttps://www.youtube.com/watch?v=1AHU73cR_eg
 DURATION:PT2H
 DTSTART:20241204T000000Z
@@ -25,11 +39,18 @@ SUMMARY:Shinri: 【Homicipher 文字化化 】ç¼♍︎¼G🙓?? ☺b♦🙢♦
 UID:O9mv4lHaQog
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Monthly Ruzolve】DecENDER\nhttps://www.youtube.com/watch?v=TWJa8mMjR80
+DESCRIPTION:【Maid Cafe On Electric Street】#2 This Girl Is Seriously Too Cute..\nhttps://www.youtube.com/watch?v=3D85VyC0e-k
 DURATION:PT2H
-DTSTART:20241204T180000Z
-SUMMARY:Crimzon: 【Monthly Ruzolve】DecENDER
-UID:TWJa8mMjR80
+DTSTART:20241205T233000Z
+SUMMARY:Flayon: 【Maid Cafe On Electric Street】#2 This Girl Is Seriously Too Cute..
+UID:3D85VyC0e-k
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Doodling + Checkin' Out The Return Board\nhttps://www.youtube.com/watch?v=8WkroLeObg8
+DURATION:PT2H
+DTSTART:20241205T010000Z
+SUMMARY:Flayon: Doodling + Checkin' Out The Return Board
+UID:8WkroLeObg8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【WORMS W.M.D】1ST EVER BUBBY TOURNAMENT\nhttps://www.youtube.com/watch?v=nMMZH4OgA18
@@ -37,12 +58,5 @@ DURATION:PT2H
 DTSTART:20241204T160000Z
 SUMMARY:Goldbullet: 【WORMS W.M.D】1ST EVER BUBBY TOURNAMENT
 UID:nMMZH4OgA18
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【HITMAN World of Assassination】The names Bullet. GoldBullet.\nhttps://www.youtube.com/watch?v=_AsrhO1mIqQ
-DURATION:PT2H
-DTSTART:20241203T160000Z
-SUMMARY:Goldbullet: 【HITMAN World of Assassination】The names Bullet. GoldBullet.
-UID:_AsrhO1mIqQ
 END:VEVENT
 END:VCALENDAR
