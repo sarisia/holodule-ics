@@ -4,11 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【雑談】最近のおはなし～！【轟はじめ/ReGLOSS】 #hololivedev_is\nhttps://www.youtube.com/watch?v=tZmE6o4VTjE
+DESCRIPTION:【アキネータークイズ】かなでええええ！！ #ReGLOSS #shorts #Vtuber\nhttps://www.youtube.com/watch?v=wXupnTh_DZQ
 DURATION:PT2H
-DTSTART:20241206T130000Z
-SUMMARY:轟はじめ: 【雑談】最近のおはなし～！【轟はじめ/ReGLOSS】 #hololivedev_is
-UID:tZmE6o4VTjE
+DTSTART:20241207T090056Z
+SUMMARY:ReGLOSS: 【アキネータークイズ】かなでええええ！！ #ReGLOSS #shorts #Vtuber
+UID:wXupnTh_DZQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 オフコラボ 】一体何が出来上がる？！奏とｼｬｯﾁｮと番長でハニワ作る！✨【音乃瀬奏・一条莉々華・轟はじめ】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=-c8cYMHG9Tc
+DURATION:PT2H
+DTSTART:20241208T030000Z
+SUMMARY:音乃瀬奏: 【 オフコラボ 】一体何が出来上がる？！奏とｼｬｯﾁｮと番長でハニワ作る！✨【音乃瀬奏・一条莉々華・轟はじめ】#hololiveDEV_IS #ReGLOSS
+UID:-c8cYMHG9Tc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【同時視聴】ジョジョの奇妙な冒険　黄金の風（5部）同時視聴！ミスタあああああ！！（16~21話）【儒烏風亭らでん 】\nhttps://www.youtube.com/watch?v=Rqq1S301ydE
@@ -18,6 +25,13 @@ SUMMARY:儒烏風亭らでん: 【同時視聴】ジョジョの奇妙な冒険�
 UID:Rqq1S301ydE
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【例外配達/Night Delivery】お届けものです！【ホラーゲーム】 #hololiveDEV_IS #FLOWGLOW\nhttps://www.youtube.com/watch?v=B4v9mUHtNqE
+DURATION:PT2H
+DTSTART:20241207T120000Z
+SUMMARY:綺々羅々ヴィヴィ: 【例外配達/Night Delivery】お届けものです！【ホラーゲーム】 #hololiveDEV_IS #FLOWGLOW
+UID:B4v9mUHtNqE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#VCRGTA 3】第六曲_女優、そして【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=YWDBZOCAKPE
 DURATION:PT2H
 DTSTART:20241207T130000Z
@@ -25,25 +39,11 @@ SUMMARY:火威青: 【#VCRGTA 3】第六曲_女優、そして【火威青 】#h
 UID:YWDBZOCAKPE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:修学旅行の夜にすることいえば… #ニコたんアニメ\nhttps://www.youtube.com/watch?v=UorslnDQKWs
+DESCRIPTION:【朝活】土曜の朝は騒がしいニコたんが必要だろ！【虎金妃笑虎】\nhttps://www.youtube.com/watch?v=wAkJ-LFkxSs
 DURATION:PT2H
-DTSTART:20241206T090118Z
-SUMMARY:虎金妃笑虎: 修学旅行の夜にすることいえば… #ニコたんアニメ
-UID:UorslnDQKWs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#VCRGTA 3】２枠目！第五曲_トップスターになって恩返しします！【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=sQGguAyDuoo
-DURATION:PT2H
-DTSTART:20241206T140000Z
-SUMMARY:火威青: 【#VCRGTA 3】２枠目！第五曲_トップスターになって恩返しします！【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:sQGguAyDuoo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:やる気出ない人へ【轟はじめ/オリジナル】#vtuber #dance #やる気出ないソング\nhttps://www.youtube.com/watch?v=-h4sJ02FFag
-DURATION:PT2H
-DTSTART:20241206T080000Z
-SUMMARY:轟はじめ: やる気出ない人へ【轟はじめ/オリジナル】#vtuber #dance #やる気出ないソング
-UID:-h4sJ02FFag
+DTSTART:20241207T000000Z
+SUMMARY:虎金妃笑虎: 【朝活】土曜の朝は騒がしいニコたんが必要だろ！【虎金妃笑虎】
+UID:wAkJ-LFkxSs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【配信切り抜き】こういう説もあるよという話【儒烏風亭らでん】#shorts\nhttps://www.youtube.com/watch?v=qG8i8wicpnE
@@ -60,6 +60,20 @@ SUMMARY:綺々羅々ヴィヴィ: 魔性の女A/綺々羅々ヴィヴィ×響咲
 UID:MVRTZi5lPLI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:冬だ！年末だ！カラオケだ！【#ReGLOSS3Dカラオケ】\nhttps://www.youtube.com/watch?v=aW0p20hg7ms
+DURATION:PT2H
+DTSTART:20241209T100000Z
+SUMMARY:ReGLOSS: 冬だ！年末だ！カラオケだ！【#ReGLOSS3Dカラオケ】
+UID:aW0p20hg7ms
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 PICO PARK 2 】視聴者と協力するゲーム？！ふぅ、、ため息しか出ません😮‍💨【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=IY3dK_WioSI
+DURATION:PT2H
+DTSTART:20241207T030000Z
+SUMMARY:音乃瀬奏: 【 PICO PARK 2 】視聴者と協力するゲーム？！ふぅ、、ため息しか出ません😮‍💨【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
+UID:IY3dK_WioSI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【歌枠】ゲリラだけど歌いたい歌がある！！【轟はじめ/ReGLOSS】 #hololivedev_is\nhttps://www.youtube.com/watch?v=6ZxdGg9JGIU
 DURATION:PT2H
 DTSTART:20241207T142515Z
@@ -67,11 +81,11 @@ SUMMARY:轟はじめ: 【歌枠】ゲリラだけど歌いたい歌がある！�
 UID:6ZxdGg9JGIU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【晩酌】おニューのウイスキーで酒雑！【虎金妃笑虎】\nhttps://www.youtube.com/watch?v=JDDi1A3Najo
+DESCRIPTION:マリ箱踊ってみた！船長ソロライブ記念【轟はじめ/ReGLOSS】#dance #vtuber\nhttps://www.youtube.com/watch?v=L7GBrf-fUa4
 DURATION:PT2H
-DTSTART:20241206T133000Z
-SUMMARY:虎金妃笑虎: 【晩酌】おニューのウイスキーで酒雑！【虎金妃笑虎】
-UID:JDDi1A3Najo
+DTSTART:20241207T080021Z
+SUMMARY:轟はじめ: マリ箱踊ってみた！船長ソロライブ記念【轟はじめ/ReGLOSS】#dance #vtuber
+UID:L7GBrf-fUa4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【宝鐘マリン1stライブ「Ahoy!! キミたちみんなパイレーツ♡」】みんなで同時視聴！！【火威青 /音乃瀬奏/響咲リオナ/虎金妃笑虎】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=7jf3nH21rbA
@@ -88,25 +102,32 @@ SUMMARY:綺々羅々ヴィヴィ: 【振り返り】デビューから明日で�
 UID:moohyTnp93E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【配信切り抜き】大学で友達つくるのはかなり難しい【儒烏風亭らでん】#shorts\nhttps://www.youtube.com/watch?v=Z-3DsIU1OCo
+DESCRIPTION:トロンボーンで『情熱大陸』吹いてみた！#輪堂千速 #hololivedev_is #flowglow\nhttps://www.youtube.com/watch?v=foL8qgTtjWY
 DURATION:PT2H
-DTSTART:20241206T090038Z
-SUMMARY:儒烏風亭らでん: 【配信切り抜き】大学で友達つくるのはかなり難しい【儒烏風亭らでん】#shorts
-UID:Z-3DsIU1OCo
+DTSTART:20241207T080027Z
+SUMMARY:輪堂千速: トロンボーンで『情熱大陸』吹いてみた！#輪堂千速 #hololivedev_is #flowglow
+UID:foL8qgTtjWY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ソロVer MV公開決定✨】「#FGROADSTER」#綺々羅々ヴィヴィ Ver. Teaser #FLOWGLOW #shorts #ホロライブ #hololive\nhttps://www.youtube.com/watch?v=lEiTHAzGjmo
+DESCRIPTION:【雑談】りりきあらでんで旅行行ってきた✨寂しかった？？ただいまああああ！！無事帰ってきたよぉぉぉ🥰【一条莉々華/hololive DEV_IS　ReGLOSS】\nhttps://www.youtube.com/watch?v=iuW6xXaQYFE
 DURATION:PT2H
-DTSTART:20241206T080038Z
-SUMMARY:GLOWFLOW: 【ソロVer MV公開決定✨】「#FGROADSTER」#綺々羅々ヴィヴィ Ver. Teaser #FLOWGLOW #shorts #ホロライブ #hololive
-UID:lEiTHAzGjmo
+DTSTART:20241207T120000Z
+SUMMARY:一条莉々華: 【雑談】りりきあらでんで旅行行ってきた✨寂しかった？？ただいまああああ！！無事帰ってきたよぉぉぉ🥰【一条莉々華/hololive DEV_IS　ReGLOSS】
+UID:iuW6xXaQYFE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#VCRGTA 3】第五曲_トップスターになって恩返しします！【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=VJBZulMlvz4
+DESCRIPTION:【カリオペ参戦】憧れのホロライブの先輩が登場!!極意を学んでラップを披露せよ【#カリおフロコラボ】#FLOWGLOW\nhttps://www.youtube.com/watch?v=-XLiQ94oWMM
 DURATION:PT2H
-DTSTART:20241206T110000Z
-SUMMARY:火威青: 【#VCRGTA 3】第五曲_トップスターになって恩返しします！【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:VJBZulMlvz4
+DTSTART:20241209T110000Z
+SUMMARY:GLOWFLOW: 【カリオペ参戦】憧れのホロライブの先輩が登場!!極意を学んでラップを披露せよ【#カリおフロコラボ】#FLOWGLOW
+UID:-XLiQ94oWMM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:魔性の女A/綺々羅々ヴィヴィ×響咲リオナ(cover)\nhttps://www.youtube.com/watch?v=P4yuDeKtYE0
+DURATION:PT2H
+DTSTART:20241207T100000Z
+SUMMARY:綺々羅々ヴィヴィ: 魔性の女A/綺々羅々ヴィヴィ×響咲リオナ(cover)
+UID:P4yuDeKtYE0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:レイメイ 【歌ってみた】水宮枢×輪堂千速 #hololiveDEV_IS #shorts\nhttps://www.youtube.com/watch?v=ykGIH-l6tR0
@@ -123,115 +144,10 @@ SUMMARY:GLOWFLOW: 【同時視聴】宝鐘マリン1stライブ「Ahoy!! キミ�
 UID:jdPoSsDRWqA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【JumpKing】12時間クリア耐久！！！超鬼畜ゲー！！？？【響咲リオナ】\nhttps://www.youtube.com/watch?v=TLom6ktLR5o
-DURATION:PT2H
-DTSTART:20241206T120000Z
-SUMMARY:響咲リオナ: 【JumpKing】12時間クリア耐久！！！超鬼畜ゲー！！？？【響咲リオナ】
-UID:TLom6ktLR5o
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【雑談】ただいま日本！！＆嬉しいお知らせ！！【儒烏風亭らでん #ReGLOSS 】\nhttps://www.youtube.com/watch?v=7-uAwZUUI2o
 DURATION:PT2H
 DTSTART:20241207T081500Z
 SUMMARY:儒烏風亭らでん: 【雑談】ただいま日本！！＆嬉しいお知らせ！！【儒烏風亭らでん #ReGLOSS 】
 UID:7-uAwZUUI2o
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【アキネータークイズ】かなでええええ！！ #ReGLOSS #shorts #Vtuber\nhttps://www.youtube.com/watch?v=wXupnTh_DZQ
-DURATION:PT2H
-DTSTART:20241207T090056Z
-SUMMARY:ReGLOSS: 【アキネータークイズ】かなでええええ！！ #ReGLOSS #shorts #Vtuber
-UID:wXupnTh_DZQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【例外配達/Night Delivery】お届けものです！【ホラーゲーム】 #hololiveDEV_IS #FLOWGLOW\nhttps://www.youtube.com/watch?v=B4v9mUHtNqE
-DURATION:PT2H
-DTSTART:20241207T120000Z
-SUMMARY:綺々羅々ヴィヴィ: 【例外配達/Night Delivery】お届けものです！【ホラーゲーム】 #hololiveDEV_IS #FLOWGLOW
-UID:B4v9mUHtNqE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌ってみた】レイメイ 輪堂千速×水宮枢  #hololiveDEV_IS #shorts\nhttps://www.youtube.com/watch?v=nUjFJBb6MDA
-DURATION:PT2H
-DTSTART:20241206T103032Z
-SUMMARY:水宮枢: 【歌ってみた】レイメイ 輪堂千速×水宮枢  #hololiveDEV_IS #shorts
-UID:nUjFJBb6MDA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 POKÉDANCE 】#ポケダンス 踊ってみた！✨️【音乃瀬奏】#vtuber #ホロライブ #dance\nhttps://www.youtube.com/watch?v=0QBwseUsbkU
-DURATION:PT2H
-DTSTART:20241206T110000Z
-SUMMARY:音乃瀬奏: 【 POKÉDANCE 】#ポケダンス 踊ってみた！✨️【音乃瀬奏】#vtuber #ホロライブ #dance
-UID:0QBwseUsbkU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活】土曜の朝は騒がしいニコたんが必要だろ！【虎金妃笑虎】\nhttps://www.youtube.com/watch?v=wAkJ-LFkxSs
-DURATION:PT2H
-DTSTART:20241207T000000Z
-SUMMARY:虎金妃笑虎: 【朝活】土曜の朝は騒がしいニコたんが必要だろ！【虎金妃笑虎】
-UID:wAkJ-LFkxSs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#踊ってみた】Bunny Girl 明日NGテイクもあがるよ！そっちは大変なことに… #shorts【一条莉々華/hololive DEV_IS ReGLOSS】\nhttps://www.youtube.com/watch?v=wh6kVDgVd1g
-DURATION:PT2H
-DTSTART:20241206T090057Z
-SUMMARY:一条莉々華: 【#踊ってみた】Bunny Girl 明日NGテイクもあがるよ！そっちは大変なことに… #shorts【一条莉々華/hololive DEV_IS ReGLOSS】
-UID:wh6kVDgVd1g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ホロライブの伝統】コマンドー同時視聴！【完全初見】 #hololiveDEV_IS #FLOWGLOW\nhttps://www.youtube.com/watch?v=NdQvhQTZHO8
-DURATION:PT2H
-DTSTART:20241206T124500Z
-SUMMARY:綺々羅々ヴィヴィ: 【ホロライブの伝統】コマンドー同時視聴！【完全初見】 #hololiveDEV_IS #FLOWGLOW
-UID:NdQvhQTZHO8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 PICO PARK 2 】視聴者と協力するゲーム？！ふぅ、、ため息しか出ません😮‍💨【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=IY3dK_WioSI
-DURATION:PT2H
-DTSTART:20241207T030000Z
-SUMMARY:音乃瀬奏: 【 PICO PARK 2 】視聴者と協力するゲーム？！ふぅ、、ため息しか出ません😮‍💨【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
-UID:IY3dK_WioSI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:マリ箱踊ってみた！船長ソロライブ記念【轟はじめ/ReGLOSS】#dance #vtuber\nhttps://www.youtube.com/watch?v=L7GBrf-fUa4
-DURATION:PT2H
-DTSTART:20241207T080021Z
-SUMMARY:轟はじめ: マリ箱踊ってみた！船長ソロライブ記念【轟はじめ/ReGLOSS】#dance #vtuber
-UID:L7GBrf-fUa4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Stray】にゃんこ絶対救うマン！！！！！！【虎金妃笑虎】＃みんなまじでありがとう無理せず寝てね\nhttps://www.youtube.com/watch?v=xVnI6ljiCQM
-DURATION:PT2H
-DTSTART:20241205T161500Z
-SUMMARY:虎金妃笑虎: 【Stray】にゃんこ絶対救うマン！！！！！！【虎金妃笑虎】＃みんなまじでありがとう無理せず寝てね
-UID:xVnI6ljiCQM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:トロンボーンで『情熱大陸』吹いてみた！#輪堂千速 #hololivedev_is #flowglow\nhttps://www.youtube.com/watch?v=foL8qgTtjWY
-DURATION:PT2H
-DTSTART:20241207T080027Z
-SUMMARY:輪堂千速: トロンボーンで『情熱大陸』吹いてみた！#輪堂千速 #hololivedev_is #flowglow
-UID:foL8qgTtjWY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】りりきあらでんで旅行行ってきた✨寂しかった？？ただいまああああ！！無事帰ってきたよぉぉぉ🥰【一条莉々華/hololive DEV_IS　ReGLOSS】\nhttps://www.youtube.com/watch?v=iuW6xXaQYFE
-DURATION:PT2H
-DTSTART:20241207T120000Z
-SUMMARY:一条莉々華: 【雑談】りりきあらでんで旅行行ってきた✨寂しかった？？ただいまああああ！！無事帰ってきたよぉぉぉ🥰【一条莉々華/hololive DEV_IS　ReGLOSS】
-UID:iuW6xXaQYFE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:レイメイ / 水宮枢×輪堂千速 (cover)\nhttps://www.youtube.com/watch?v=h1OY5HGdGKo
-DURATION:PT2H
-DTSTART:20241206T100000Z
-SUMMARY:輪堂千速: レイメイ / 水宮枢×輪堂千速 (cover)
-UID:h1OY5HGdGKo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:魔性の女A/綺々羅々ヴィヴィ×響咲リオナ(cover)\nhttps://www.youtube.com/watch?v=P4yuDeKtYE0
-DURATION:PT2H
-DTSTART:20241207T100000Z
-SUMMARY:綺々羅々ヴィヴィ: 魔性の女A/綺々羅々ヴィヴィ×響咲リオナ(cover)
-UID:P4yuDeKtYE0
 END:VEVENT
 END:VCALENDAR
