@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【メンバーシップ開設】雑談＆説明会！【FLOW GLOW 水宮枢】#hololiveDEV_IS\nhttps://www.youtube.com/watch?v=TbREPeoJiII
-DURATION:PT2H
-DTSTART:20241212T130000Z
-SUMMARY:水宮枢: 【メンバーシップ開設】雑談＆説明会！【FLOW GLOW 水宮枢】#hololiveDEV_IS
-UID:TbREPeoJiII
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【マリオカート8DX】リスナーのみなさん、強そう・・・(´\;ω\;｀)【ホロライブ DEV_IS 響咲リオナ】\nhttps://www.youtube.com/watch?v=Q4b-Q3LsdH8
 DURATION:PT2H
 DTSTART:20241212T130000Z
 SUMMARY:響咲リオナ: 【マリオカート8DX】リスナーのみなさん、強そう・・・(´\;ω\;｀)【ホロライブ DEV_IS 響咲リオナ】
 UID:Q4b-Q3LsdH8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メンバーシップ開設】雑談＆説明会！【FLOW GLOW 水宮枢】#hololiveDEV_IS\nhttps://www.youtube.com/watch?v=TbREPeoJiII
+DURATION:PT2H
+DTSTART:20241212T130000Z
+SUMMARY:水宮枢: 【メンバーシップ開設】雑談＆説明会！【FLOW GLOW 水宮枢】#hololiveDEV_IS
+UID:TbREPeoJiII
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:先輩のメガ割購入品真似っこしてみた💖  #hololive #flowglow #綺々羅々ヴィヴィ #hololivedev_is #メガ割\nhttps://www.youtube.com/watch?v=8gmET--nBuk
@@ -114,6 +114,13 @@ DURATION:PT2H
 DTSTART:20241211T090000Z
 SUMMARY:虎金妃笑虎: 虎金妃笑虎 / FG ROADSTER（SOLO ver.）【Official Lyric Music Video】
 UID:-VtkEfYFNbA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:輪堂千速 / FG ROADSTER（SOLO ver.）【Official Lyric Music Video】\nhttps://www.youtube.com/watch?v=EkdNf0b7UU0
+DURATION:PT2H
+DTSTART:20241213T090000Z
+SUMMARY:輪堂千速: 輪堂千速 / FG ROADSTER（SOLO ver.）【Official Lyric Music Video】
+UID:EkdNf0b7UU0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#VCRGTA 3】第十曲_僕が女優になる日【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=GobXKGchg-Y
