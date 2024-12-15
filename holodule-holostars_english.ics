@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Membership Stream】GINGERBREAD HOUSE MAKING! (And eating it)\nhttps://www.youtube.com/watch?v=CEp5649pUvk
+DURATION:PT2H
+DTSTART:20241216T160000Z
+SUMMARY:Goldbullet: 【Membership Stream】GINGERBREAD HOUSE MAKING! (And eating it)
+UID:CEp5649pUvk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【SIMBANG TAVI DAY 5】The 5 second rule and a hello to the world\nhttps://www.youtube.com/watch?v=ZAVH_hr_HWE
 DURATION:PT2H
 DTSTART:20241215T120000Z
@@ -11,45 +18,10 @@ SUMMARY:Octavio: 【SIMBANG TAVI DAY 5】The 5 second rule and a hello to the wo
 UID:ZAVH_hr_HWE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Cookie Clicker】Here you go Hakkito\, you deserve this 🥺🍪✨\nhttps://www.youtube.com/watch?v=bGOXweWI7sg
-DURATION:PT2H
-DTSTART:20241214T001500Z
-SUMMARY:Hakka: 【Cookie Clicker】Here you go Hakkito\, you deserve this 🥺🍪✨
-UID:bGOXweWI7sg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【SIMBANG TAVI DAY 4】A whispered confession and a dying world\nhttps://www.youtube.com/watch?v=zf1oe2_JMAs
-DURATION:PT2H
-DTSTART:20241214T130000Z
-SUMMARY:Octavio: 【SIMBANG TAVI DAY 4】A whispered confession and a dying world
-UID:zf1oe2_JMAs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Early Morning Yapping +【Yeah Those Games】\nhttps://www.youtube.com/watch?v=pOoSnd75URk
-DURATION:PT2H
-DTSTART:20241214T010000Z
-SUMMARY:Flayon: Early Morning Yapping +【Yeah Those Games】
-UID:pOoSnd75URk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【PATH OF EXILE 2】GETTING MYSELF INTO NERD CULTURE\nhttps://www.youtube.com/watch?v=PPRc335IZvY
-DURATION:PT2H
-DTSTART:20241214T050000Z
-SUMMARY:Jurard: 【PATH OF EXILE 2】GETTING MYSELF INTO NERD CULTURE
-UID:PPRc335IZvY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Drawing Stream!】Drawing my Bubbies and Relaxin!\nhttps://www.youtube.com/watch?v=txmUX8wDFP4
 DURATION:PT2H
 DTSTART:20241215T030000Z
 SUMMARY:Goldbullet: 【Drawing Stream!】Drawing my Bubbies and Relaxin!
 UID:txmUX8wDFP4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MEMBERSHIP STREAM】Bait thumbnail and Aniki is shindeiru\nhttps://www.youtube.com/watch?v=6MOBOLfinbQ
-DURATION:PT2H
-DTSTART:20241214T050000Z
-SUMMARY:Syrios: 【MEMBERSHIP STREAM】Bait thumbnail and Aniki is shindeiru
-UID:6MOBOLfinbQ
 END:VEVENT
 END:VCALENDAR
