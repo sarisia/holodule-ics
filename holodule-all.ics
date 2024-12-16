@@ -4,18 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:ASMR attempt! Sleepy edition!【MEMBER STREAM】\nhttps://www.youtube.com/watch?v=IacXHZJCEWA
+DURATION:PT2H
+DTSTART:20241215T170000Z
+SUMMARY:Cecilia: ASMR attempt! Sleepy edition!【MEMBER STREAM】
+UID:IacXHZJCEWA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ｗｅｌｃｏｍｅ！💖【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=3bRGupHTr-E
+DURATION:PT2H
+DTSTART:20241216T210134Z
+SUMMARY:❤赤井はあと: ｗｅｌｃｏｍｅ！💖【ホロライブ/赤井はあと】
+UID:3bRGupHTr-E
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Alien Isolation】you are my lucky star\nhttps://www.youtube.com/watch?v=Cwn2rR06qyw
 DURATION:PT2H
 DTSTART:20241216T040000Z
 SUMMARY:IRyS: 【Alien Isolation】you are my lucky star
 UID:Cwn2rR06qyw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ポケカ開封 】初開封配信！テラスタルフェスEXを5BOX開けるぞ〜〜〜！！！【 水無世燐央 l UPROAR!! 】\nhttps://www.youtube.com/watch?v=cIrJld70qa8
-DURATION:PT2H
-DTSTART:20241216T100000Z
-SUMMARY:水無世燐央: 【 ポケカ開封 】初開封配信！テラスタルフェスEXを5BOX開けるぞ〜〜〜！！！【 水無世燐央 l UPROAR!! 】
-UID:cIrJld70qa8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Marvel Rivals】IT'S MARVEL BABY!\nhttps://www.youtube.com/watch?v=tp9_nYUB_VU
@@ -30,6 +37,13 @@ DURATION:PT2H
 DTSTART:20241216T220000Z
 SUMMARY:博衣こより: 【 #朝こよ 】告知アリ！落ち着いて聞いてください。今年もあと2週間です。な火曜日の朝も朝こよ～☀ #211 【博衣こより/hololive】
 UID:8yx2TywtjMU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 ポケカ開封 】初開封配信！テラスタルフェスEXを5BOX開けるぞ〜〜〜！！！【 水無世燐央 l UPROAR!! 】\nhttps://www.youtube.com/watch?v=cIrJld70qa8
+DURATION:PT2H
+DTSTART:20241216T100000Z
+SUMMARY:水無世燐央: 【 ポケカ開封 】初開封配信！テラスタルフェスEXを5BOX開けるぞ〜〜〜！！！【 水無世燐央 l UPROAR!! 】
+UID:cIrJld70qa8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ストリートファイター6】試合中俺はコメチラ厳禁だから皆はおれのプラチナモダンマノンを見てて【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=Yqx6VnBqAEs
@@ -60,25 +74,11 @@ SUMMARY:⚒AZKi: 【#shorts】射手座☆午後九時Don't be late かなけん
 UID:63BusL1U_Ig
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ドッキリ！？】控え室に突撃！！【#FLOWGLOWと#ReGLOSSの初顔合せに密着】 #shorts #ホロライブ #hololive #vtuber\nhttps://www.youtube.com/watch?v=xcVpJ8KWsA8
-DURATION:PT2H
-DTSTART:20241216T110108Z
-SUMMARY:GLOWFLOW: 【ドッキリ！？】控え室に突撃！！【#FLOWGLOWと#ReGLOSSの初顔合せに密着】 #shorts #ホロライブ #hololive #vtuber
-UID:xcVpJ8KWsA8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【M.M.M.】Monday Morning Malas : This is time to be malas【Ayunda Risu】\nhttps://www.youtube.com/watch?v=6Uqmm9wQy8c
 DURATION:PT2H
 DTSTART:20241216T023000Z
 SUMMARY:🐿Risu: 【M.M.M.】Monday Morning Malas : This is time to be malas【Ayunda Risu】
 UID:6Uqmm9wQy8c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #ゆるゆるFGマイクラ】すうのKISS、は私のものだあああああああああああ！！！【ホロライブ DEV_IS 響咲リオナ】\nhttps://www.youtube.com/watch?v=ErAjfZZRlNc
-DURATION:PT2H
-DTSTART:20241216T120000Z
-SUMMARY:響咲リオナ: 【 #ゆるゆるFGマイクラ】すうのKISS、は私のものだあああああああああああ！！！【ホロライブ DEV_IS 響咲リオナ】
-UID:ErAjfZZRlNc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #ゆるゆるFGマイクラ】2 初心者5人マイクラになれる1日目【FLOW GLOW 水宮枢】#hololiveDEV_IS\nhttps://www.youtube.com/watch?v=U4nVYohZiNg
@@ -93,6 +93,13 @@ DURATION:PT2H
 DTSTART:20241217T100000Z
 SUMMARY:博衣こより: 【風来のシレン2】ニンテンドー64実機で名作ローグライク「風来のシレン2 鬼襲来！シレン城！」を完全初見でやってみる！！！【博衣こより/ホロライブ】
 UID:cCdMC3BGdgg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 #ゆるゆるFGマイクラ】すうのKISS、は私のものだあああああああああああ！！！【ホロライブ DEV_IS 響咲リオナ】\nhttps://www.youtube.com/watch?v=ErAjfZZRlNc
+DURATION:PT2H
+DTSTART:20241216T120000Z
+SUMMARY:響咲リオナ: 【 #ゆるゆるFGマイクラ】すうのKISS、は私のものだあああああああああああ！！！【ホロライブ DEV_IS 響咲リオナ】
+UID:ErAjfZZRlNc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:最高にアゲな仲間たちからの最高のプレゼント  #shorts #gta #アルランディス #VCRGTA #VCRGTA3 #ぎゃうかふぇ\nhttps://www.youtube.com/watch?v=2T1n5qEOoVI
@@ -116,6 +123,13 @@ SUMMARY:Calli: dad vs. babies #shorts #hololive #anime #kobokanaeru #kosekibijou
 UID:O8V3UGFU-R0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:ポテチって言ったら即終了！【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=SheJ-kzoBVw
+DURATION:PT2H
+DTSTART:20241216T210030Z
+SUMMARY:🐏角巻わため: ポテチって言ったら即終了！【 #今日のわため 】 #shorts #hololive #vtuber
+UID:SheJ-kzoBVw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【雑談＆お礼】12月が半分終わったね...！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=b9Vxp9tSO24
 DURATION:PT2H
 DTSTART:20241216T140000Z
@@ -137,11 +151,11 @@ SUMMARY:水宮枢: 【 #ゆるゆるFGマイクラ】初心者5人マイクラ�
 UID:X7LUqVeImzI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Senin Produktif \; Nice Free Talk\nhttps://www.youtube.com/watch?v=25_IatiTfEI
+DESCRIPTION:【PERSONA 3 RELOAD】I NEED TO FINISH THIS GAME I NEED TO FINISH THIS GAME I NEED TO FINISH THIS GAME I\nhttps://www.youtube.com/watch?v=euLGz0wbwEs
 DURATION:PT2H
-DTSTART:20241216T130000Z
-SUMMARY:🎨Iofi: Senin Produktif \; Nice Free Talk
-UID:25_IatiTfEI
+DTSTART:20241217T050000Z
+SUMMARY:Jurard: 【PERSONA 3 RELOAD】I NEED TO FINISH THIS GAME I NEED TO FINISH THIS GAME I NEED TO FINISH THIS GAME I
+UID:euLGz0wbwEs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PEJUANG SENIN】#89 OH... LONG TIME NO SEE? 💧🤔【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=qEB7PUckZC0
@@ -151,18 +165,18 @@ SUMMARY:Kaela: 【PEJUANG SENIN】#89 OH... LONG TIME NO SEE? 💧🤔【Kaela's
 UID:qEB7PUckZC0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【PERSONA 3 RELOAD】I NEED TO FINISH THIS GAME I NEED TO FINISH THIS GAME I NEED TO FINISH THIS GAME I\nhttps://www.youtube.com/watch?v=euLGz0wbwEs
-DURATION:PT2H
-DTSTART:20241217T050000Z
-SUMMARY:Jurard: 【PERSONA 3 RELOAD】I NEED TO FINISH THIS GAME I NEED TO FINISH THIS GAME I NEED TO FINISH THIS GAME I
-UID:euLGz0wbwEs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:B級 / 響咲リオナ ×  森カリオペ(cover) 【ちゃんみな/歌ってみた】\nhttps://www.youtube.com/watch?v=iH7aXwaa9mQ
 DURATION:PT2H
 DTSTART:20241217T110000Z
 SUMMARY:GLOWFLOW: B級 / 響咲リオナ ×  森カリオペ(cover) 【ちゃんみな/歌ってみた】
 UID:iH7aXwaa9mQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Senin Produktif \; Nice Free Talk\nhttps://www.youtube.com/watch?v=25_IatiTfEI
+DURATION:PT2H
+DTSTART:20241216T130000Z
+SUMMARY:🎨Iofi: Senin Produktif \; Nice Free Talk
+UID:25_IatiTfEI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:星街すいせいを解き明かせ！MV / Stellar Stellar【#AndroidかこってMUSIC】\nhttps://www.youtube.com/watch?v=ZM7gdMkOgtw
@@ -221,11 +235,11 @@ SUMMARY:👾常闇トワ: 【 CoD BO6 ／ 切り抜き 】騒がしすぎるチ�
 UID:f8Kz-FGV0e0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:FIRST DUNGEON MADNESS【METAPHOR: REFANTAZIO #3】| SPOILER WARNING\nhttps://www.youtube.com/watch?v=JVT8geEhrE8
+DESCRIPTION:【耐久歌枠】３０万人一緒に行くぞーー！！【虎金妃笑虎】\nhttps://www.youtube.com/watch?v=bHiPvFwBx20
 DURATION:PT2H
-DTSTART:20241216T023147Z
-SUMMARY:Octavio: FIRST DUNGEON MADNESS【METAPHOR: REFANTAZIO #3】| SPOILER WARNING
-UID:JVT8geEhrE8
+DTSTART:20241216T075950Z
+SUMMARY:虎金妃笑虎: 【耐久歌枠】３０万人一緒に行くぞーー！！【虎金妃笑虎】
+UID:bHiPvFwBx20
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:おはようｻﾞﾏｽ～～～～\nhttps://www.youtube.com/watch?v=6CVaUbXzteU
@@ -235,11 +249,11 @@ SUMMARY:🍙猫又おかゆ: おはようｻﾞﾏｽ～～～～
 UID:6CVaUbXzteU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【耐久歌枠】３０万人一緒に行くぞーー！！【虎金妃笑虎】\nhttps://www.youtube.com/watch?v=bHiPvFwBx20
+DESCRIPTION:FIRST DUNGEON MADNESS【METAPHOR: REFANTAZIO #3】| SPOILER WARNING\nhttps://www.youtube.com/watch?v=JVT8geEhrE8
 DURATION:PT2H
-DTSTART:20241216T075950Z
-SUMMARY:虎金妃笑虎: 【耐久歌枠】３０万人一緒に行くぞーー！！【虎金妃笑虎】
-UID:bHiPvFwBx20
+DTSTART:20241216T023147Z
+SUMMARY:Octavio: FIRST DUNGEON MADNESS【METAPHOR: REFANTAZIO #3】| SPOILER WARNING
+UID:JVT8geEhrE8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Luna say maybe70万回再生ありがとう✨フルver.もたくさん聴いてね🎧💖 #綺々羅々ヴィヴィ  #flowglow #hololivedev_is\nhttps://www.youtube.com/watch?v=RKue2PifEjk
@@ -291,11 +305,11 @@ SUMMARY:轟はじめ: ゲリラしっとり歌枠【轟はじめ/ReGLOSS】
 UID:_J9hHSFa09A
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ドラクエ3リメイク】完全初見！はじめてのドラゴンクエスト３！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=xg8Aei3HvLs
+DESCRIPTION:【 #stons 】ラプこよと一緒に深い呼吸を習慣化してみよう！？【ラプラス・ダークネス/博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=lz37xE9ED1I
 DURATION:PT2H
-DTSTART:20241216T110000Z
-SUMMARY:👯兎田ぺこら: 【ドラクエ3リメイク】完全初見！はじめてのドラゴンクエスト３！ぺこ！【ホロライブ/兎田ぺこら】
-UID:xg8Aei3HvLs
+DTSTART:20241216T100000Z
+SUMMARY:博衣こより: 【 #stons 】ラプこよと一緒に深い呼吸を習慣化してみよう！？【ラプラス・ダークネス/博衣こより/ホロライブ】
+UID:lz37xE9ED1I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #はじクロ 】勝ったらなんでも奢り！さかまた先輩からの三つの挑戦状！【ホロライブ/沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=WA7oj9yzQnQ
@@ -303,13 +317,6 @@ DURATION:PT2H
 DTSTART:20241217T110000Z
 SUMMARY:沙花叉クロヱ: 【 #はじクロ 】勝ったらなんでも奢り！さかまた先輩からの三つの挑戦状！【ホロライブ/沙花叉クロヱ】
 UID:WA7oj9yzQnQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 #stons 】ラプこよと一緒に深い呼吸を習慣化してみよう！？【ラプラス・ダークネス/博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=lz37xE9ED1I
-DURATION:PT2H
-DTSTART:20241216T100000Z
-SUMMARY:博衣こより: 【 #stons 】ラプこよと一緒に深い呼吸を習慣化してみよう！？【ラプラス・ダークネス/博衣こより/ホロライブ】
-UID:lz37xE9ED1I
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:碧依さくらさん主催 #ASGS大会 スクリム｜2日目　w/NevvtonX　瀬尾カザリ【夜十神封魔/ホロスターズUPROAR!!】\nhttps://www.youtube.com/watch?v=jJETnvlfsf0
@@ -326,13 +333,6 @@ SUMMARY:🏮夏色まつり: 【漢字でGO! 集英社マンガ祭】俺たち�
 UID:4uyvV_fvVec
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:達筆すぎてテスト0点にされる虎金妃笑虎　#ニコたんアニメ\nhttps://www.youtube.com/watch?v=4iYZfqIi2aM
-DURATION:PT2H
-DTSTART:20241216T085500Z
-SUMMARY:虎金妃笑虎: 達筆すぎてテスト0点にされる虎金妃笑虎　#ニコたんアニメ
-UID:4iYZfqIi2aM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【世界の食卓】飯テロなるか？フワモこよの極上レシピ【#クッキングテスト】\nhttps://www.youtube.com/watch?v=TKxsHQpTV34
 DURATION:PT2H
 DTSTART:20241216T090000Z
@@ -345,6 +345,13 @@ DURATION:PT2H
 DTSTART:20241217T010000Z
 SUMMARY:🍙猫又おかゆ: 【 Coffee Caravan 】おいしい珈琲いかがですか～～☕✦【 猫又おかゆ/ホロライブ 】
 UID:VzBplghBNnA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:達筆すぎてテスト0点にされる虎金妃笑虎　#ニコたんアニメ\nhttps://www.youtube.com/watch?v=4iYZfqIi2aM
+DURATION:PT2H
+DTSTART:20241216T085500Z
+SUMMARY:虎金妃笑虎: 達筆すぎてテスト0点にされる虎金妃笑虎　#ニコたんアニメ
+UID:4iYZfqIi2aM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【アカペラバージョン】ハイトーン系の男性幽霊Vtuberが 消えない温度(feat.MIMI) / Kotoha  を歌ってみた！ #vtuber\nhttps://www.youtube.com/watch?v=KC9ohA3eVnc
@@ -445,6 +452,13 @@ SUMMARY:🦔💨岸堂天真: 【Minecraft】現在97/122 久々の花岸マイ�
 UID:1ZnlseHwmqQ
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:#デコレート 踊ってみた🍫神綺杏菜ちゃんといっしょ💃💗 #shorts #dance 【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=M2sEZ1DIu-s
+DURATION:PT2H
+DTSTART:20241216T130031Z
+SUMMARY:博衣こより: #デコレート 踊ってみた🍫神綺杏菜ちゃんといっしょ💃💗 #shorts #dance 【博衣こより/ホロライブ】
+UID:M2sEZ1DIu-s
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ぽぽえびゃ】≠″ｬ｣ﾚ］ﾗ朮″♡糸半を深め∋...♡【白銀ノエル/尾丸ポルカ/沙花叉クロヱ/ホロライブ】\nhttps://www.youtube.com/watch?v=g0rPk3e9t7s
 DURATION:PT2H
 DTSTART:20241216T130000Z
@@ -508,11 +522,11 @@ SUMMARY:風真いろは: すいせい先輩の『#ムーンライト 』踊っ�
 UID:51RrdusAeU0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ASMR attempt! Sleepy edition!【MEMBER STREAM】\nhttps://www.youtube.com/watch?v=IacXHZJCEWA
+DESCRIPTION:【ドラクエ3リメイク】完全初見！はじめてのドラゴンクエスト３！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=xg8Aei3HvLs
 DURATION:PT2H
-DTSTART:20241215T170000Z
-SUMMARY:Cecilia: ASMR attempt! Sleepy edition!【MEMBER STREAM】
-UID:IacXHZJCEWA
+DTSTART:20241216T110000Z
+SUMMARY:👯兎田ぺこら: 【ドラクエ3リメイク】完全初見！はじめてのドラゴンクエスト３！ぺこ！【ホロライブ/兎田ぺこら】
+UID:xg8Aei3HvLs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Get To Work】滑り散らかして働く。【 雪花ラミィ /ホロライブ】\nhttps://www.youtube.com/watch?v=Bb9tjeJep7w
@@ -522,11 +536,11 @@ SUMMARY:雪花ラミィ: 【Get To Work】滑り散らかして働く。【 雪�
 UID:Bb9tjeJep7w
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#デコレート 踊ってみた🍫神綺杏菜ちゃんといっしょ💃💗 #shorts #dance 【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=M2sEZ1DIu-s
+DESCRIPTION:【ドッキリ！？】控え室に突撃！！【#FLOWGLOWと#ReGLOSSの初顔合せに密着】 #shorts #ホロライブ #hololive #vtuber\nhttps://www.youtube.com/watch?v=xcVpJ8KWsA8
 DURATION:PT2H
-DTSTART:20241216T130031Z
-SUMMARY:博衣こより: #デコレート 踊ってみた🍫神綺杏菜ちゃんといっしょ💃💗 #shorts #dance 【博衣こより/ホロライブ】
-UID:M2sEZ1DIu-s
+DTSTART:20241216T110108Z
+SUMMARY:GLOWFLOW: 【ドッキリ！？】控え室に突撃！！【#FLOWGLOWと#ReGLOSSの初顔合せに密着】 #shorts #ホロライブ #hololive #vtuber
+UID:xcVpJ8KWsA8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ゼルダの伝説 スカイウォードソード HD】一人では・・・なにもわからない【ホロライブ/ときのそら】\nhttps://www.youtube.com/watch?v=w4Ami58L6_A
