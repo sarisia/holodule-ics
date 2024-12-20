@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【マーベル・ライバルズ】マーベルトゥーン【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=aYLvDzisX34
+DURATION:PT2H
+DTSTART:20241220T144000Z
+SUMMARY:🌺花咲みやび: 【マーベル・ライバルズ】マーベルトゥーン【花咲みやび/ホロスターズ】
+UID:aYLvDzisX34
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【SILENT HILL 2】#最終回 三角さんとの結ばれENDを探しに行く【花咲みやび/ホロスターズ】【ネタバレあり】\nhttps://www.youtube.com/watch?v=cQ8OuyXC8QY
 DURATION:PT2H
 DTSTART:20241220T130000Z
@@ -11,67 +18,11 @@ SUMMARY:🌺花咲みやび: 【SILENT HILL 2】#最終回 三角さんとの結
 UID:cQ8OuyXC8QY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Apex Legends】第8回 Rakuten esports cup大争奪戦～感謝の狂宴～ TEAM松前漬け【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=NjFLkE2wbr0
-DURATION:PT2H
-DTSTART:20241219T100000Z
-SUMMARY:🍕アルランディス: 【Apex Legends】第8回 Rakuten esports cup大争奪戦～感謝の狂宴～ TEAM松前漬け【アルランディス/ホロスターズ】
-UID:NjFLkE2wbr0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ホロスターズ 】タレコミという名のホロスタ雑学②【#花咲みやび #岸堂天真 #影山シエン】\nhttps://www.youtube.com/watch?v=x7svxBOOX1w
 DURATION:PT2H
 DTSTART:20241220T040037Z
 SUMMARY:ホロスターズ: 【#ホロスターズ 】タレコミという名のホロスタ雑学②【#花咲みやび #岸堂天真 #影山シエン】
 UID:x7svxBOOX1w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:” BLあるある ”に詳しすぎるコメント達3 #shorts   #bl  #あるある #vtuber\nhttps://www.youtube.com/watch?v=0SvvfNF-j-A
-DURATION:PT2H
-DTSTART:20241219T074143Z
-SUMMARY:羽継烏有: ” BLあるある ”に詳しすぎるコメント達3 #shorts   #bl  #あるある #vtuber
-UID:0SvvfNF-j-A
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ストリートファイター6】新コンボ練習【荒咬オウガ /ホロスターズ】\nhttps://www.youtube.com/watch?v=yr8OTIyRfA8
-DURATION:PT2H
-DTSTART:20241219T130000Z
-SUMMARY:荒咬オウガ: 【 ストリートファイター6】新コンボ練習【荒咬オウガ /ホロスターズ】
-UID:yr8OTIyRfA8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ストリートファイター6】ちょっと練習してから対戦会いくかも【律可/ホロスターズ】#りつすた\nhttps://www.youtube.com/watch?v=h5-0E-rjxGI
-DURATION:PT2H
-DTSTART:20241219T083000Z
-SUMMARY:⚙律可: 【ストリートファイター6】ちょっと練習してから対戦会いくかも【律可/ホロスターズ】#りつすた
-UID:h5-0E-rjxGI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【大神】#1 いざ神話の世界に!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=rE7gdwujsa8
-DURATION:PT2H
-DTSTART:20241219T121000Z
-SUMMARY:🌺花咲みやび: 【大神】#1 いざ神話の世界に!!【花咲みやび/ホロスターズ】
-UID:rE7gdwujsa8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【雑談】寒すぎわろた【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=78edxlsIBsU
-DURATION:PT2H
-DTSTART:20241219T044500Z
-SUMMARY:🍷夕刻ロベル: 【雑談】寒すぎわろた【夕刻ロベル/ホロスターズ】
-UID:78edxlsIBsU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 椿祭 Code02 VALORANT 】ばぶ代表がんばります！【 水無世燐央 l UPROAR!! 】\nhttps://www.youtube.com/watch?v=WAIu1taukoU
-DURATION:PT2H
-DTSTART:20241219T090000Z
-SUMMARY:水無世燐央: 【 椿祭 Code02 VALORANT 】ばぶ代表がんばります！【 水無世燐央 l UPROAR!! 】
-UID:WAIu1taukoU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【APEX】楽天CUP 伊達巻   / アステル\nhttps://www.youtube.com/watch?v=oCPZMQj89IA
-DURATION:PT2H
-DTSTART:20241219T101500Z
-SUMMARY:🎭アステル・レダ: 【APEX】楽天CUP 伊達巻   / アステル
-UID:oCPZMQj89IA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 THE ぷれうぃず VALORANT 】ばぶ代表がんばるぞ〜〜！！【 水無世燐央 l UPROAR!! 】\nhttps://www.youtube.com/watch?v=LlGndXqQMxw
@@ -100,13 +51,6 @@ DURATION:PT2H
 DTSTART:20241220T140000Z
 SUMMARY:荒咬オウガ: 【雑談】なんかラジオみたいなトーク　第3回【荒咬オウガ  アール/Aru】
 UID:okUcv9qaSbs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Vtuberの "中身" が見えた瞬間！？　#shorts #vtuber  #holostars #hololive #切り抜き\nhttps://www.youtube.com/watch?v=Le_n5UeJGvY
-DURATION:PT2H
-DTSTART:20241219T090030Z
-SUMMARY:夜十神封魔: Vtuberの "中身" が見えた瞬間！？　#shorts #vtuber  #holostars #hololive #切り抜き
-UID:Le_n5UeJGvY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:” BLあるある ”に詳しすぎるコメント達４ #shorts  #bl  #あるある #vtuber\nhttps://www.youtube.com/watch?v=ElhSvQQIZKg
