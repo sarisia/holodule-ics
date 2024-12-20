@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Watch Along】IPAR ADALAH MAUT【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=uj0IELLUpck
+DURATION:PT2H
+DTSTART:20241219T140000Z
+SUMMARY:🎨Iofi: 【Watch Along】IPAR ADALAH MAUT【 iofi / hololiveID 】
+UID:uj0IELLUpck
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Marvel Rivals】FIGHT FIGHT FIGHT!【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=n8cHB2gKrok
 DURATION:PT2H
 DTSTART:20241220T120000Z
@@ -11,11 +18,11 @@ SUMMARY:🎨Iofi: 【Marvel Rivals】FIGHT FIGHT FIGHT!【 iofi / hololiveID 】
 UID:n8cHB2gKrok
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#holoIDEkskulDays Asal usul batagor oleh @AyundaRisu !\nhttps://www.youtube.com/watch?v=jP-XK7zQDkw
+DESCRIPTION:【Crime Scene Cleaner】#3 BIG JIM.... can you just lemme go?【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=zmA77zRDZcY
 DURATION:PT2H
-DTSTART:20241219T110057Z
-SUMMARY:IDholo: #holoIDEkskulDays Asal usul batagor oleh @AyundaRisu !
-UID:jP-XK7zQDkw
+DTSTART:20241219T050000Z
+SUMMARY:Kaela: 【Crime Scene Cleaner】#3 BIG JIM.... can you just lemme go?【Kaela Kovalskia / hololiveID】
+UID:zmA77zRDZcY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Crime Scene Cleaner】#4 LAST ONE FOR SURE 🪓【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=vq4-B3544pM
@@ -25,6 +32,20 @@ SUMMARY:Kaela: 【Crime Scene Cleaner】#4 LAST ONE FOR SURE 🪓【Kaela Kovals
 UID:vq4-B3544pM
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Balatro】She asked me to play this.【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=e3w5A-b5MEI
+DURATION:PT2H
+DTSTART:20241220T080000Z
+SUMMARY:🔮Moona: 【Balatro】She asked me to play this.【Moona Hoshinova】
+UID:e3w5A-b5MEI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#holoIDEkskulDays Asal usul batagor oleh @AyundaRisu !\nhttps://www.youtube.com/watch?v=jP-XK7zQDkw
+DURATION:PT2H
+DTSTART:20241219T110057Z
+SUMMARY:IDholo: #holoIDEkskulDays Asal usul batagor oleh @AyundaRisu !
+UID:jP-XK7zQDkw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Astro Bot】family friendly in the outer space【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=XLZZQIoD4TQ
 DURATION:PT2H
 DTSTART:20241220T040000Z
@@ -32,24 +53,10 @@ SUMMARY:Kaela: 【Astro Bot】family friendly in the outer space【Kaela Kovalsk
 UID:XLZZQIoD4TQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Watch Along】IPAR ADALAH MAUT【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=uj0IELLUpck
-DURATION:PT2H
-DTSTART:20241219T140000Z
-SUMMARY:🎨Iofi: 【Watch Along】IPAR ADALAH MAUT【 iofi / hololiveID 】
-UID:uj0IELLUpck
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Balatro】LIVE JIMBO REACTION【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=Eu13RSTETpU
 DURATION:PT2H
 DTSTART:20241219T030000Z
 SUMMARY:Reine: 【Balatro】LIVE JIMBO REACTION【Pavolia Reine/hololiveID 2nd gen】
 UID:Eu13RSTETpU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Crime Scene Cleaner】#3 BIG JIM.... can you just lemme go?【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=zmA77zRDZcY
-DURATION:PT2H
-DTSTART:20241219T050000Z
-SUMMARY:Kaela: 【Crime Scene Cleaner】#3 BIG JIM.... can you just lemme go?【Kaela Kovalskia / hololiveID】
-UID:zmA77zRDZcY
 END:VEVENT
 END:VCALENDAR
