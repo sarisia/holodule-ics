@@ -4,27 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【スト６】オンラインで全キャラに勝利するまで終われません！※ルールは概要欄【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=I45B8rFG9hg
-DURATION:PT2H
-DTSTART:20241221T123000Z
-SUMMARY:🦔💨岸堂天真: 【スト６】オンラインで全キャラに勝利するまで終われません！※ルールは概要欄【岸堂天真/ホロスターズ】
-UID:I45B8rFG9hg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:シンデレラボーイ  / Saucy Dog　covered by 律可\nhttps://www.youtube.com/watch?v=HAQGmpFG8y8
-DURATION:PT2H
-DTSTART:20241222T110000Z
-SUMMARY:⚙律可: シンデレラボーイ  / Saucy Dog　covered by 律可
-UID:HAQGmpFG8y8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:本番 ELIMINATION ROUND 1｜碧依さくらさん主催 #ASGS大会　w/NevvtonX　瀬尾カザリ【夜十神封魔/ホロスターズUPROAR!!】\nhttps://www.youtube.com/watch?v=CXjL7Jmn4WQ
-DURATION:PT2H
-DTSTART:20241221T080000Z
-SUMMARY:夜十神封魔: 本番 ELIMINATION ROUND 1｜碧依さくらさん主催 #ASGS大会　w/NevvtonX　瀬尾カザリ【夜十神封魔/ホロスターズUPROAR!!】
-UID:CXjL7Jmn4WQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【メン限】作業の見張りが必要だ！【 水無世燐央 | UPROAR!! 】\nhttps://www.youtube.com/watch?v=lXz4i3mTHPQ
 DURATION:PT2H
 DTSTART:20241221T150500Z
@@ -39,11 +18,11 @@ SUMMARY:🌺花咲みやび: 【雑談】そろそろクリスマスじゃん【
 UID:7AfRIVXhTr8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【メンバー限定】年末のコラボ企画の話とスタンプの話【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=yeAfeE5YhBg
+DESCRIPTION:本番 ELIMINATION ROUND 1｜碧依さくらさん主催 #ASGS大会　w/NevvtonX　瀬尾カザリ【夜十神封魔/ホロスターズUPROAR!!】\nhttps://www.youtube.com/watch?v=CXjL7Jmn4WQ
 DURATION:PT2H
-DTSTART:20241220T161500Z
-SUMMARY:🍕アルランディス: 【メンバー限定】年末のコラボ企画の話とスタンプの話【アルランディス/ホロスターズ】
-UID:yeAfeE5YhBg
+DTSTART:20241221T080000Z
+SUMMARY:夜十神封魔: 本番 ELIMINATION ROUND 1｜碧依さくらさん主催 #ASGS大会　w/NevvtonX　瀬尾カザリ【夜十神封魔/ホロスターズUPROAR!!】
+UID:CXjL7Jmn4WQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ゼルダの伝説時のオカリナ】寝すぎて大人になったリンク編初見【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=N1-34zpifl8
@@ -51,5 +30,33 @@ DURATION:PT2H
 DTSTART:20241221T060000Z
 SUMMARY:🍕アルランディス: 【ゼルダの伝説時のオカリナ】寝すぎて大人になったリンク編初見【アルランディス/ホロスターズ】
 UID:N1-34zpifl8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スト６】オンラインで全キャラに勝利するまで終われません！※ルールは概要欄【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=I45B8rFG9hg
+DURATION:PT2H
+DTSTART:20241221T123000Z
+SUMMARY:🦔💨岸堂天真: 【スト６】オンラインで全キャラに勝利するまで終われません！※ルールは概要欄【岸堂天真/ホロスターズ】
+UID:I45B8rFG9hg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:シンデレラボーイ  / Saucy Dog　covered by 律可\nhttps://www.youtube.com/watch?v=HAQGmpFG8y8
+DURATION:PT2H
+DTSTART:20241222T110000Z
+SUMMARY:⚙律可: シンデレラボーイ  / Saucy Dog　covered by 律可
+UID:HAQGmpFG8y8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メンバー限定】年末のコラボ企画の話とスタンプの話【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=yeAfeE5YhBg
+DURATION:PT2H
+DTSTART:20241220T161500Z
+SUMMARY:🍕アルランディス: 【メンバー限定】年末のコラボ企画の話とスタンプの話【アルランディス/ホロスターズ】
+UID:yeAfeE5YhBg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】花岸で全実績解除するぞ!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=qJbDvQ7KoIQ
+DURATION:PT2H
+DTSTART:20241222T070000Z
+SUMMARY:🌺花咲みやび: 【Minecraft】花岸で全実績解除するぞ!!【花咲みやび/ホロスターズ】
+UID:qJbDvQ7KoIQ
 END:VEVENT
 END:VCALENDAR
