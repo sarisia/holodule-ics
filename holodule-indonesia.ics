@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:I wonder踊ってみた /NG Take 1 Practice【Vestia Zeta/Hololive ID】\nhttps://www.youtube.com/watch?v=MxlyW9Ti_ss
-DURATION:PT2H
-DTSTART:20241222T054552Z
-SUMMARY:Zeta: I wonder踊ってみた /NG Take 1 Practice【Vestia Zeta/Hololive ID】
-UID:MxlyW9Ti_ss
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【PEJUANG SENIN】#90 next week is.. not 2025 yet!【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=KB76M0gpwcQ
 DURATION:PT2H
 DTSTART:20241223T000000Z
 SUMMARY:Kaela: 【PEJUANG SENIN】#90 next week is.. not 2025 yet!【Kaela's Monday Warrior】
 UID:KB76M0gpwcQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Balatro】REHAB FROM CHECKERED DECK【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=5ljJxQ97Yq0
+DURATION:PT2H
+DTSTART:20241223T030000Z
+SUMMARY:Reine: 【Balatro】REHAB FROM CHECKERED DECK【Pavolia Reine/hololiveID 2nd gen】
+UID:5ljJxQ97Yq0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#holoIDEkskulDays Yuk simak penjelasan @MoonaHoshinova  tentang makna tari piring!\nhttps://www.youtube.com/watch?v=b0-UwJLNf7M
@@ -30,5 +30,12 @@ DURATION:PT2H
 DTSTART:20241222T120000Z
 SUMMARY:Zeta: 【近畿霊務局 | Kinki Spiritual Affairs Bureau 】Ghost  + FPS ?????????!?!?!
 UID:V_szLBNrf3E
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:I wonder踊ってみた /NG Take 1 Practice【Vestia Zeta/Hololive ID】\nhttps://www.youtube.com/watch?v=MxlyW9Ti_ss
+DURATION:PT2H
+DTSTART:20241222T054552Z
+SUMMARY:Zeta: I wonder踊ってみた /NG Take 1 Practice【Vestia Zeta/Hololive ID】
+UID:MxlyW9Ti_ss
 END:VEVENT
 END:VCALENDAR
