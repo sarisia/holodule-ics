@@ -4,13 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:HOLIDAY KARAOKE\nhttps://www.youtube.com/watch?v=YH5t_Dlox7c
-DURATION:PT2H
-DTSTART:20241224T150000Z
-SUMMARY:🎨Iofi: HOLIDAY KARAOKE
-UID:YH5t_Dlox7c
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Selling Souls】Gib Souls😈 君たちの魂、貰うね！ 【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=9YmRNCKCLlo
 DURATION:PT2H
 DTSTART:20241223T120000Z
@@ -23,6 +16,27 @@ DURATION:PT2H
 DTSTART:20241224T133000Z
 SUMMARY:Zeta: 【Home Alone Watchalong】Gaki\, watch out!!!! There's a thief!!!!!
 UID:6iOdOckzVIY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:HOLIDAY KARAOKE  | NO ARCHIVE PART\nhttps://www.youtube.com/watch?v=9YAB3pA5HCM
+DURATION:PT2H
+DTSTART:20241224T140000Z
+SUMMARY:🎨Iofi: HOLIDAY KARAOKE  | NO ARCHIVE PART
+UID:9YAB3pA5HCM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Path of Exile 2】having fun with POE2【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=QyjKQ14MFDs
+DURATION:PT2H
+DTSTART:20241224T080000Z
+SUMMARY:🔮Moona: 【Path of Exile 2】having fun with POE2【Moona Hoshinova】
+UID:QyjKQ14MFDs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:HOLIDAY KARAOKE\nhttps://www.youtube.com/watch?v=YH5t_Dlox7c
+DURATION:PT2H
+DTSTART:20241224T150000Z
+SUMMARY:🎨Iofi: HOLIDAY KARAOKE
+UID:YH5t_Dlox7c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【PEJUANG SENIN】#90 next week is.. not 2025 yet!【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=KB76M0gpwcQ
@@ -44,12 +58,5 @@ DURATION:PT2H
 DTSTART:20241224T011500Z
 SUMMARY:Kaela: 【Path of Exile 2】casual levelling 🎮【Kaela Kovalskia / hololiveID】
 UID:5igGypgG3d0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:HOLIDAY KARAOKE  | NO ARCHIVE PART\nhttps://www.youtube.com/watch?v=9YAB3pA5HCM
-DURATION:PT2H
-DTSTART:20241224T140000Z
-SUMMARY:🎨Iofi: HOLIDAY KARAOKE  | NO ARCHIVE PART
-UID:9YAB3pA5HCM
 END:VEVENT
 END:VCALENDAR
