@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【MISIDE】MISIDE?? THEN WHAT'S ON YOUR SIDE??【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=tqu2ya7sfxo
-DURATION:PT2H
-DTSTART:20241227T130000Z
-SUMMARY:Ollie: 【MISIDE】MISIDE?? THEN WHAT'S ON YOUR SIDE??【Kureiji Ollie】
-UID:tqu2ya7sfxo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Path of Exile 2】Let's continue so i can grind more【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=wNWEp2ISLlI
-DURATION:PT2H
-DTSTART:20241227T043000Z
-SUMMARY:🔮Moona: 【Path of Exile 2】Let's continue so i can grind more【Moona Hoshinova】
-UID:wNWEp2ISLlI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Membership】Let's having fun together【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=MTgIV9VozOY
 DURATION:PT2H
 DTSTART:20241228T143000Z
@@ -25,11 +11,11 @@ SUMMARY:🔮Moona: 【Membership】Let's having fun together【Moona Hoshinova�
 UID:MTgIV9VozOY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:星街すいせい 「ムーンライト」踊ってみた 【Vestia Zeta/Hololive ID】\nhttps://www.youtube.com/watch?v=RnqwvsO4oMI
+DESCRIPTION:#holoIDEkskulDays Siapkah kalian mendengarkan pengalaman aneh @KureijiOllie ...?\nhttps://www.youtube.com/watch?v=dLNmAGImCgA
 DURATION:PT2H
-DTSTART:20241227T130817Z
-SUMMARY:Zeta: 星街すいせい 「ムーンライト」踊ってみた 【Vestia Zeta/Hololive ID】
-UID:RnqwvsO4oMI
+DTSTART:20241228T110044Z
+SUMMARY:IDholo: #holoIDEkskulDays Siapkah kalian mendengarkan pengalaman aneh @KureijiOllie ...?
+UID:dLNmAGImCgA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠KARAOKE】MORNING SINGING SESSION【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=4jeS8tZC-AA
@@ -37,20 +23,6 @@ DURATION:PT2H
 DTSTART:20241228T030000Z
 SUMMARY:Reine: 【歌枠KARAOKE】MORNING SINGING SESSION【Pavolia Reine/hololiveID 2nd gen】
 UID:4jeS8tZC-AA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Black Desert】EXPLORING AND TRYING DEADEYE!! 🔫【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=y4wj-6AcsF4
-DURATION:PT2H
-DTSTART:20241227T141500Z
-SUMMARY:Kaela: 【Black Desert】EXPLORING AND TRYING DEADEYE!! 🔫【Kaela Kovalskia / hololiveID】
-UID:y4wj-6AcsF4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#holoIDEkskulDays Siapkah kalian mendengarkan pengalaman aneh @KureijiOllie ...?\nhttps://www.youtube.com/watch?v=dLNmAGImCgA
-DURATION:PT2H
-DTSTART:20241228T110044Z
-SUMMARY:IDholo: #holoIDEkskulDays Siapkah kalian mendengarkan pengalaman aneh @KureijiOllie ...?
-UID:dLNmAGImCgA
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠KARAOKE】NIGHT SINGING SESSION【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=7bu0izAUGf4
@@ -65,12 +37,5 @@ DURATION:PT2H
 DTSTART:20241228T140000Z
 SUMMARY:🎨Iofi: 【League of Legends】Well\, it's time【 iofi / hololiveID 】
 UID:frvxODzLZMI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#2【Ace Attorney: Spirit of Justice】IT'S SEANCE TIME (SPOILERS!)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=bz_k-jIDHDk
-DURATION:PT2H
-DTSTART:20241227T130000Z
-SUMMARY:Reine: #2【Ace Attorney: Spirit of Justice】IT'S SEANCE TIME (SPOILERS!)【Pavolia Reine/hololiveID 2nd gen】
-UID:bz_k-jIDHDk
 END:VEVENT
 END:VCALENDAR
