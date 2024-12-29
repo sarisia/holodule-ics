@@ -4,18 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【歌枠KARAOKE】MORNING SINGING SESSION【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=4jeS8tZC-AA
+DURATION:PT2H
+DTSTART:20241228T030000Z
+SUMMARY:Reine: 【歌枠KARAOKE】MORNING SINGING SESSION【Pavolia Reine/hololiveID 2nd gen】
+UID:4jeS8tZC-AA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LETTERS FOR 2025\nhttps://www.youtube.com/watch?v=CxMcoGD0W5A
+DURATION:PT2H
+DTSTART:20241229T130000Z
+SUMMARY:🎨Iofi: LETTERS FOR 2025
+UID:CxMcoGD0W5A
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Balatro】POLYCHROME GLASS KING MY GOAT (lamb?)【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=2CU-0eaJ6k4
 DURATION:PT2H
 DTSTART:20241229T051000Z
 SUMMARY:Reine: 【Balatro】POLYCHROME GLASS KING MY GOAT (lamb?)【Pavolia Reine/hololiveID 2nd gen】
 UID:2CU-0eaJ6k4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Membership】Let's having fun together【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=MTgIV9VozOY
-DURATION:PT2H
-DTSTART:20241228T143000Z
-SUMMARY:🔮Moona: 【Membership】Let's having fun together【Moona Hoshinova】
-UID:MTgIV9VozOY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#holoIDEkskulDays Siapkah kalian mendengarkan pengalaman aneh @KureijiOllie ...?\nhttps://www.youtube.com/watch?v=dLNmAGImCgA
@@ -25,18 +32,18 @@ SUMMARY:IDholo: #holoIDEkskulDays Siapkah kalian mendengarkan pengalaman aneh @K
 UID:dLNmAGImCgA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【歌枠KARAOKE】MORNING SINGING SESSION【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=4jeS8tZC-AA
+DESCRIPTION:【Membership】Let's having fun together【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=MTgIV9VozOY
 DURATION:PT2H
-DTSTART:20241228T030000Z
-SUMMARY:Reine: 【歌枠KARAOKE】MORNING SINGING SESSION【Pavolia Reine/hololiveID 2nd gen】
-UID:4jeS8tZC-AA
+DTSTART:20241228T143000Z
+SUMMARY:🔮Moona: 【Membership】Let's having fun together【Moona Hoshinova】
+UID:MTgIV9VozOY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【League of Legends】Well\, it's time【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=frvxODzLZMI
+DESCRIPTION:VIRUS BALATRO GILA【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=I9-WM0uwp6U
 DURATION:PT2H
-DTSTART:20241228T140000Z
-SUMMARY:🎨Iofi: 【League of Legends】Well\, it's time【 iofi / hololiveID 】
-UID:frvxODzLZMI
+DTSTART:20241229T060000Z
+SUMMARY:🎨Iofi: VIRUS BALATRO GILA【 iofi / hololiveID 】
+UID:I9-WM0uwp6U
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠KARAOKE】NIGHT SINGING SESSION【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=7bu0izAUGf4
@@ -46,10 +53,10 @@ SUMMARY:Reine: 【歌枠KARAOKE】NIGHT SINGING SESSION【Pavolia Reine/hololive
 UID:7bu0izAUGf4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:VIRUS BALATRO GILA【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=I9-WM0uwp6U
+DESCRIPTION:【League of Legends】Well\, it's time【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=frvxODzLZMI
 DURATION:PT2H
-DTSTART:20241229T060000Z
-SUMMARY:🎨Iofi: VIRUS BALATRO GILA【 iofi / hololiveID 】
-UID:I9-WM0uwp6U
+DTSTART:20241228T140000Z
+SUMMARY:🎨Iofi: 【League of Legends】Well\, it's time【 iofi / hololiveID 】
+UID:frvxODzLZMI
 END:VEVENT
 END:VCALENDAR
