@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【#ホロクラダイヤ発掘隊】初のダイヤを見つけたい！マインクラフト【水宮枢／FLOW GLOW】#hololiveDEV_IS\nhttps://www.youtube.com/watch?v=IdzYDdFMGVM
-DURATION:PT2H
-DTSTART:20250106T110000Z
-SUMMARY:水宮枢: 【#ホロクラダイヤ発掘隊】初のダイヤを見つけたい！マインクラフト【水宮枢／FLOW GLOW】#hololiveDEV_IS
-UID:IdzYDdFMGVM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:鬼ごっこがガチすぎる子供　#ニコたんアニメ  #初夢\nhttps://www.youtube.com/watch?v=AVjtekwsIqw
 DURATION:PT2H
 DTSTART:20250106T092826Z
 SUMMARY:虎金妃笑虎: 鬼ごっこがガチすぎる子供　#ニコたんアニメ  #初夢
 UID:AVjtekwsIqw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【マリオカート8DX】ホロ新春 ゲーム祭２０２５に向けて特訓だああ！！【ホロライブ DEV_IS 響咲リオナ】\nhttps://www.youtube.com/watch?v=CXpIO57OqUE
+DURATION:PT2H
+DTSTART:20250108T110000Z
+SUMMARY:響咲リオナ: 【マリオカート8DX】ホロ新春 ゲーム祭２０２５に向けて特訓だああ！！【ホロライブ DEV_IS 響咲リオナ】
+UID:CXpIO57OqUE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:瞬間ハートビート/綺々羅々ヴィヴィ(cover)40万再生ありがとう！ #vtuber #hololivedev_is #flowglow #綺々羅々ヴィヴィ\nhttps://www.youtube.com/watch?v=Lv_vRpMsCpI
@@ -30,6 +30,13 @@ DURATION:PT2H
 DTSTART:20250106T130000Z
 SUMMARY:一条莉々華: 【グノーシア】今年はいろんな名作をしゃぶりつくしたい。オススメあったら教えてー【一条莉々華/hololive DEV_IS　ReGLOSS】
 UID:3WpR8qUoxs0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:初の3Dライブで…あっ… 応援してくれる人は高評価とチャンネル登録お願いしますっっ #shorts #一条莉々華 #ホロライブ\nhttps://www.youtube.com/watch?v=0HFYdbY0ONo
+DURATION:PT2H
+DTSTART:20250106T090030Z
+SUMMARY:一条莉々華: 初の3Dライブで…あっ… 応援してくれる人は高評価とチャンネル登録お願いしますっっ #shorts #一条莉々華 #ホロライブ
+UID:0HFYdbY0ONo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:BE THE MONSTER / FLOW GLOW(cover) 【歌ってみた】\nhttps://www.youtube.com/watch?v=HXJZ5sigL-E
@@ -67,11 +74,11 @@ SUMMARY:輪堂千速: 【#ホロクラダイヤ発掘隊】ダイヤ掘りまく
 UID:SjEF6bluuJE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【五目並べ】最強になるために！弱いなんて言わせへん！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】\nhttps://www.youtube.com/watch?v=DVXqH_SwBkk
+DESCRIPTION:【64万人耐久KARAOKE】こんなはずじゃなかった【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=lpdinW9rZzE
 DURATION:PT2H
-DTSTART:20250106T120000Z
-SUMMARY:綺々羅々ヴィヴィ: 【五目並べ】最強になるために！弱いなんて言わせへん！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】
-UID:DVXqH_SwBkk
+DTSTART:20250106T103000Z
+SUMMARY:火威青: 【64万人耐久KARAOKE】こんなはずじゃなかった【火威青 】#hololiveDEV_IS #ReGLOSS
+UID:lpdinW9rZzE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【2025】ReGLOSSから新年のご挨拶 #あけおめReGLOSS #shorts #Vtuber\nhttps://www.youtube.com/watch?v=PYHwAP2lVcA
@@ -81,13 +88,6 @@ SUMMARY:ReGLOSS: 【2025】ReGLOSSから新年のご挨拶 #あけおめReGLOSS 
 UID:PYHwAP2lVcA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【64万人耐久KARAOKE】こんなはずじゃなかった【火威青 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=lpdinW9rZzE
-DURATION:PT2H
-DTSTART:20250106T103000Z
-SUMMARY:火威青: 【64万人耐久KARAOKE】こんなはずじゃなかった【火威青 】#hololiveDEV_IS #ReGLOSS
-UID:lpdinW9rZzE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ホロクラダイヤ発掘隊】ダイヤモンド掘る！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】\nhttps://www.youtube.com/watch?v=7AJ41OyHmo8
 DURATION:PT2H
 DTSTART:20250106T110000Z
@@ -95,17 +95,24 @@ SUMMARY:綺々羅々ヴィヴィ: 【#ホロクラダイヤ発掘隊】ダイヤ
 UID:7AJ41OyHmo8
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:初の3Dライブで…あっ… 応援してくれる人は高評価とチャンネル登録お願いしますっっ #shorts #一条莉々華 #ホロライブ\nhttps://www.youtube.com/watch?v=0HFYdbY0ONo
-DURATION:PT2H
-DTSTART:20250106T090030Z
-SUMMARY:一条莉々華: 初の3Dライブで…あっ… 応援してくれる人は高評価とチャンネル登録お願いしますっっ #shorts #一条莉々華 #ホロライブ
-UID:0HFYdbY0ONo
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Visage】今日も今日とて可愛いところ見せちゃうぞ❤︎きゅんっ【虎金妃笑虎】#3\nhttps://www.youtube.com/watch?v=NuWc3XsCIxc
 DURATION:PT2H
 DTSTART:20250106T030000Z
 SUMMARY:虎金妃笑虎: 【Visage】今日も今日とて可愛いところ見せちゃうぞ❤︎きゅんっ【虎金妃笑虎】#3
 UID:NuWc3XsCIxc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロクラダイヤ発掘隊】初のダイヤを見つけたい！マインクラフト【水宮枢／FLOW GLOW】#hololiveDEV_IS\nhttps://www.youtube.com/watch?v=IdzYDdFMGVM
+DURATION:PT2H
+DTSTART:20250106T110000Z
+SUMMARY:水宮枢: 【#ホロクラダイヤ発掘隊】初のダイヤを見つけたい！マインクラフト【水宮枢／FLOW GLOW】#hololiveDEV_IS
+UID:IdzYDdFMGVM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【五目並べ】最強になるために！弱いなんて言わせへん！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】\nhttps://www.youtube.com/watch?v=DVXqH_SwBkk
+DURATION:PT2H
+DTSTART:20250106T120000Z
+SUMMARY:綺々羅々ヴィヴィ: 【五目並べ】最強になるために！弱いなんて言わせへん！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】
+UID:DVXqH_SwBkk
 END:VEVENT
 END:VCALENDAR
