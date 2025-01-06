@@ -18,4 +18,4 @@ FROM mcr.microsoft.com/devcontainers/python:3.11-bullseye
 # RUN su vscode -c "source /usr/local/share/nvm/nvm.sh && npm install -g <your-package-here>" 2>&1
 
 # install poetry
-RUN pipx install 'poetry~=1'
+RUN pipx install 'poetry<2'
