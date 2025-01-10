@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【League of Legends】LET'S GO GIGI!【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=srk_Fc0tj7g
+DESCRIPTION:WAKE UP\nhttps://www.youtube.com/watch?v=z72kMHhsOWY
 DURATION:PT2H
-DTSTART:20250110T020000Z
-SUMMARY:🎨Iofi: 【League of Legends】LET'S GO GIGI!【 iofi / hololiveID 】
-UID:srk_Fc0tj7g
+DTSTART:20250110T051201Z
+SUMMARY:Kaela: WAKE UP
+UID:z72kMHhsOWY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ZUMA】Yap Yap Yap【Ayunda Risu】\nhttps://www.youtube.com/watch?v=43LlgVoYuiE
@@ -16,6 +16,27 @@ DURATION:PT2H
 DTSTART:20250109T133000Z
 SUMMARY:🐿Risu: 【ZUMA】Yap Yap Yap【Ayunda Risu】
 UID:43LlgVoYuiE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Honor of Kings】LET IT GOOOO LET IT GOOOOOO【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=837D12q13eA
+DURATION:PT2H
+DTSTART:20250109T120000Z
+SUMMARY:🎨Iofi: 【Honor of Kings】LET IT GOOOO LET IT GOOOOOO【 iofi / hololiveID 】
+UID:837D12q13eA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Chained Together】Just a little bit of practice~【#ホロ新春ゲーム祭2025】\nhttps://www.youtube.com/watch?v=Wkzsgb-nSP0
+DURATION:PT2H
+DTSTART:20250109T140000Z
+SUMMARY:Zeta: 【Chained Together】Just a little bit of practice~【#ホロ新春ゲーム祭2025】
+UID:Wkzsgb-nSP0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【League of Legends】LET'S GO GIGI!【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=srk_Fc0tj7g
+DURATION:PT2H
+DTSTART:20250110T020000Z
+SUMMARY:🎨Iofi: 【League of Legends】LET'S GO GIGI!【 iofi / hololiveID 】
+UID:srk_Fc0tj7g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Path of Exile 2】same stage but different difficulty?【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=JBmmZGKzLOU
@@ -32,24 +53,10 @@ SUMMARY:🎨Iofi: 【Honor of Kings】ELSAAAAAA I CAN'T HOLD IT BACK ANYMOREEEE�
 UID:73ve-D-E97s
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Honor of Kings】LET IT GOOOO LET IT GOOOOOO【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=837D12q13eA
-DURATION:PT2H
-DTSTART:20250109T120000Z
-SUMMARY:🎨Iofi: 【Honor of Kings】LET IT GOOOO LET IT GOOOOOO【 iofi / hololiveID 】
-UID:837D12q13eA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【BALLIONAIRE】I WANNA BE RICH AND FAMOUS【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=pyRnUbGkzTc
 DURATION:PT2H
 DTSTART:20250109T140000Z
 SUMMARY:Reine: 【BALLIONAIRE】I WANNA BE RICH AND FAMOUS【Pavolia Reine/hololiveID 2nd gen】
 UID:pyRnUbGkzTc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Chained Together】Just a little bit of practice~【#ホロ新春ゲーム祭2025】\nhttps://www.youtube.com/watch?v=Wkzsgb-nSP0
-DURATION:PT2H
-DTSTART:20250109T140000Z
-SUMMARY:Zeta: 【Chained Together】Just a little bit of practice~【#ホロ新春ゲーム祭2025】
-UID:Wkzsgb-nSP0
 END:VEVENT
 END:VCALENDAR
