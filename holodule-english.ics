@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Schedule】Click here to see schedule!\nhttps://www.youtube.com/watch?v=iGQb0svnTSo
+DURATION:PT2H
+DTSTART:20251111T100000Z
+SUMMARY:Cecilia: 【Schedule】Click here to see schedule!
+UID:iGQb0svnTSo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:DO YOU LIKE MY R? #holoEN3DRepeat\nhttps://www.youtube.com/watch?v=EdvWK8rWOnA
 DURATION:PT2H
 DTSTART:20250111T030000Z
