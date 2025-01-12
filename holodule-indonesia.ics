@@ -4,25 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:#holoIDEkskulDays Bikin seblak yang dijamin enak bareng @KoboKanaeru  yuk!\nhttps://www.youtube.com/watch?v=bXQzqO0pw6Q
-DURATION:PT2H
-DTSTART:20250111T110046Z
-SUMMARY:IDholo: #holoIDEkskulDays Bikin seblak yang dijamin enak bareng @KoboKanaeru  yuk!
-UID:bXQzqO0pw6Q
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#3【Ace Attorney: Spirit of Justice】WHAT'S JUSTICING SPIRIT? (SPOILERS!)【Pavolia Reine/holoID 2ndgen】\nhttps://www.youtube.com/watch?v=MjmdyQQLPF0
 DURATION:PT2H
 DTSTART:20250111T150000Z
 SUMMARY:Reine: #3【Ace Attorney: Spirit of Justice】WHAT'S JUSTICING SPIRIT? (SPOILERS!)【Pavolia Reine/holoID 2ndgen】
 UID:MjmdyQQLPF0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【OFF-COLLAB】Eating\, snacking\, eating\, did I say eating? (and free talk)\nhttps://www.youtube.com/watch?v=1aP_WYgXRTs
-DURATION:PT2H
-DTSTART:20250112T070000Z
-SUMMARY:Zeta: 【OFF-COLLAB】Eating\, snacking\, eating\, did I say eating? (and free talk)
-UID:1aP_WYgXRTs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Holocure】This stage is impossible I swear【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=suhzwAn5opg
@@ -60,18 +46,25 @@ SUMMARY:Ollie: 【Cursed Digicam | 呪われたデジカメ】SO UHH SHUTTER ISS
 UID:LbkM5Mz0a4E
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Cursed Digicam | 呪われたデジカメ】What's Shakin' Digicam?【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=iZMdU2IJ4N8
-DURATION:PT2H
-DTSTART:20250110T150000Z
-SUMMARY:Reine: 【Cursed Digicam | 呪われたデジカメ】What's Shakin' Digicam?【Pavolia Reine/hololiveID 2nd gen】
-UID:iZMdU2IJ4N8
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【ZOMILY】WEEKLY ZOMILY CHATS!! MAYBE WITH SOME ZOMBRUTS【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=MzC7kQbhDtA
 DURATION:PT2H
 DTSTART:20250112T132000Z
 SUMMARY:Ollie: 【ZOMILY】WEEKLY ZOMILY CHATS!! MAYBE WITH SOME ZOMBRUTS【Kureiji Ollie】
 UID:MzC7kQbhDtA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【HUNIE POP 2】I-INTENSE TILE MATCHING TIME!!【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=MD2nPhOUHYE
+DURATION:PT2H
+DTSTART:20250114T020000Z
+SUMMARY:Ollie: 【HUNIE POP 2】I-INTENSE TILE MATCHING TIME!!【Kureiji Ollie】
+UID:MD2nPhOUHYE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【M.M.M.】Monday Morning Malas : Good morning and good malas !【Ayunda Risu】\nhttps://www.youtube.com/watch?v=T4dTPAGH2K8
+DURATION:PT2H
+DTSTART:20250113T023000Z
+SUMMARY:🐿Risu: 【M.M.M.】Monday Morning Malas : Good morning and good malas !【Ayunda Risu】
+UID:T4dTPAGH2K8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Zeta oh Zeta... #shorts #vtuber #kobo #zeta\nhttps://www.youtube.com/watch?v=XvbfPhxz5Pc
@@ -81,13 +74,6 @@ SUMMARY:Kobo: Zeta oh Zeta... #shorts #vtuber #kobo #zeta
 UID:XvbfPhxz5Pc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:THANK YOU #holoROCK_p4rty!! Reading Your Letters & More【Pavolia Reine/Anya/Ollie/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=d8ZrOa-yRRc
-DURATION:PT2H
-DTSTART:20250111T050000Z
-SUMMARY:Reine: THANK YOU #holoROCK_p4rty!! Reading Your Letters & More【Pavolia Reine/Anya/Ollie/hololiveID 2nd gen】
-UID:d8ZrOa-yRRc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Gold and Glory】GRINDING!! CARI ITEM BAGUS BARENG KITA HOLOH3RO!!!!\nhttps://www.youtube.com/watch?v=yKUg-79suSY
 DURATION:PT2H
 DTSTART:20250112T120000Z
@@ -95,10 +81,10 @@ SUMMARY:Kobo: 【Gold and Glory】GRINDING!! CARI ITEM BAGUS BARENG KITA HOLOH3R
 UID:yKUg-79suSY
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Gold and Glory】WE ARE READY TO WINNNNNNNNNNNN 🗡️【holoh3ro】\nhttps://www.youtube.com/watch?v=rMS5llMDijc
+DESCRIPTION:【OFF-COLLAB】Eating\, snacking\, eating\, did I say eating? (and free talk)\nhttps://www.youtube.com/watch?v=1aP_WYgXRTs
 DURATION:PT2H
-DTSTART:20250111T120000Z
-SUMMARY:Kaela: 【Gold and Glory】WE ARE READY TO WINNNNNNNNNNNN 🗡️【holoh3ro】
-UID:rMS5llMDijc
+DTSTART:20250112T070000Z
+SUMMARY:Zeta: 【OFF-COLLAB】Eating\, snacking\, eating\, did I say eating? (and free talk)
+UID:1aP_WYgXRTs
 END:VEVENT
 END:VCALENDAR
