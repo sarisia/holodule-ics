@@ -39,13 +39,6 @@ SUMMARY:Calli: 【CHAINED TOGETHER】...someone free me. @KoboKanaeru
 UID:3X7TifppLhI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【CHAINED TOGETHER】 Training for #ホロ新春ゲーム祭2025 ~! 💄\nhttps://www.youtube.com/watch?v=BuLIolGKeGQ
-DURATION:PT2H
-DTSTART:20250112T223000Z
-SUMMARY:Elizabeth: 【CHAINED TOGETHER】 Training for #ホロ新春ゲーム祭2025 ~! 💄
-UID:BuLIolGKeGQ
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:HELLO WILL THE STREAM WORK THIS TIME? (yes)【superchattings!】\nhttps://www.youtube.com/watch?v=JB-bv9sKoOc
 DURATION:PT2H
 DTSTART:20250112T110000Z
@@ -65,6 +58,13 @@ DURATION:PT2H
 DTSTART:20250112T200000Z
 SUMMARY:Kronii: 【Portal 2】Portalin Around With @holoen_raorapanthera
 UID:t2RVx81DQd8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ENDURANCE KARAOKE】Singing Until My Army Hits 2.5 Million Skeletons! #calliolive\nhttps://www.youtube.com/watch?v=tTGHuWBtptc
+DURATION:PT2H
+DTSTART:20250113T010000Z
+SUMMARY:Calli: 【ENDURANCE KARAOKE】Singing Until My Army Hits 2.5 Million Skeletons! #calliolive
+UID:tTGHuWBtptc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【GUERILLA】I can't sleep.. I play for one hour and then I go back to bed!!!!! (SPOILERS)\nhttps://www.youtube.com/watch?v=Ix82LuRhhv4
@@ -123,10 +123,17 @@ SUMMARY:Elizabeth: 【MEMBERSHIP】D&D Movie Watch-A-Long ~! 💄
 UID:gE__2zFt6Ik
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ENDURANCE KARAOKE】Singing Until My Army Hits 2.5 Million Skeletons! #calliolive\nhttps://www.youtube.com/watch?v=tTGHuWBtptc
+DESCRIPTION:Hololive Single Mother Branch #shorts\nhttps://www.youtube.com/watch?v=HdDu9V6tMno
 DURATION:PT2H
-DTSTART:20250113T010000Z
-SUMMARY:Calli: 【ENDURANCE KARAOKE】Singing Until My Army Hits 2.5 Million Skeletons! #calliolive
-UID:tTGHuWBtptc
+DTSTART:20250113T000014Z
+SUMMARY:Shiori: Hololive Single Mother Branch #shorts
+UID:HdDu9V6tMno
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【CHAINED TOGETHER】 Training for #ホロ新春ゲーム祭2025 ~! 💄\nhttps://www.youtube.com/watch?v=BuLIolGKeGQ
+DURATION:PT2H
+DTSTART:20250112T223000Z
+SUMMARY:Elizabeth: 【CHAINED TOGETHER】 Training for #ホロ新春ゲーム祭2025 ~! 💄
+UID:BuLIolGKeGQ
 END:VEVENT
 END:VCALENDAR
