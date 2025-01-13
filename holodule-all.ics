@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【 #ホロ新春ゲーム祭2025 】本番！トワチームれっつご～～～！！！【  輪堂千速視点 / #hololivedev_is  #FLOWGLOW 】\nhttps://www.youtube.com/watch?v=FvvrB8nKMTw
+DURATION:PT2H
+DTSTART:20250113T085000Z
+SUMMARY:輪堂千速: 【 #ホロ新春ゲーム祭2025 】本番！トワチームれっつご～～～！！！【  輪堂千速視点 / #hololivedev_is  #FLOWGLOW 】
+UID:FvvrB8nKMTw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#ホロスタ占い】ゆるっと！ホロスタ占い【#影山シエン】\nhttps://www.youtube.com/watch?v=aAl_zSLvyw0
 DURATION:PT2H
 DTSTART:20250113T040001Z
@@ -933,6 +940,13 @@ DURATION:PT2H
 DTSTART:20250112T130000Z
 SUMMARY:Gura: you have 00:06:35s before this stream starts
 UID:zOC_iTAbE5g
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【FALL GUYS】GLORY TO MIO-TEAM!【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=XMQ22VoDxcs
+DURATION:PT2H
+DTSTART:20250113T120000Z
+SUMMARY:🎨Iofi: 【FALL GUYS】GLORY TO MIO-TEAM!【 iofi / hololiveID 】
+UID:XMQ22VoDxcs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MiSide】Do You Love Woman\nhttps://www.youtube.com/watch?v=kmLBOT9Sz3Y
