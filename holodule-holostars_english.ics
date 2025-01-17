@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【Walkabout Mini Golf VR】 (A certified Hakka classic) OPEN UP ! ! !\nhttps://www.youtube.com/watch?v=QHqkt_RqdyI
+DURATION:PT2H
+DTSTART:20250117T001500Z
+SUMMARY:Hakka: 【Walkabout Mini Golf VR】 (A certified Hakka classic) OPEN UP ! ! !
+UID:QHqkt_RqdyI
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MARVEL RIVALS】Waiting till' my Team is ready!\nhttps://www.youtube.com/watch?v=2eFkYB9EZOA
 DURATION:PT2H
 DTSTART:20250117T020000Z
 SUMMARY:Flayon: 【MARVEL RIVALS】Waiting till' my Team is ready!
 UID:2eFkYB9EZOA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Cursed Digicam | 呪われたデジカメ】The scariest thing about digicams nowadays is how pricy they are\, INSANE.\nhttps://www.youtube.com/watch?v=ZbTHZYcu680
-DURATION:PT2H
-DTSTART:20250116T000000Z
-SUMMARY:Hakka: 【Cursed Digicam | 呪われたデジカメ】The scariest thing about digicams nowadays is how pricy they are\, INSANE.
-UID:ZbTHZYcu680
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【STREET FIGHTER 6】Sajam Slam Team Nephew !!!\nhttps://www.youtube.com/watch?v=zFx45VNhFc0
@@ -25,34 +25,6 @@ SUMMARY:Flayon: 【STREET FIGHTER 6】Sajam Slam Team Nephew !!!
 UID:zFx45VNhFc0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[ART STREAM] AGAIN! AGAIN! AGAIN AGAIN!\nhttps://www.youtube.com/watch?v=-OIWtisDqIQ
-DURATION:PT2H
-DTSTART:20250116T220000Z
-SUMMARY:Bettel: [ART STREAM] AGAIN! AGAIN! AGAIN AGAIN!
-UID:-OIWtisDqIQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Secret To Running the BEST Blacksmith Maid Cafe【TAVERN MANAGER SIMULATOR】\nhttps://www.youtube.com/watch?v=WAEGUO8v2t0
-DURATION:PT2H
-DTSTART:20250116T010000Z
-SUMMARY:Crimzon: The Secret To Running the BEST Blacksmith Maid Cafe【TAVERN MANAGER SIMULATOR】
-UID:WAEGUO8v2t0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Walkabout Mini Golf VR】 (A certified Hakka classic) OPEN UP ! ! !\nhttps://www.youtube.com/watch?v=QHqkt_RqdyI
-DURATION:PT2H
-DTSTART:20250117T001500Z
-SUMMARY:Hakka: 【Walkabout Mini Golf VR】 (A certified Hakka classic) OPEN UP ! ! !
-UID:QHqkt_RqdyI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MUSIC】POLISH YOUR NOTES | Making Music Everyday Challenge Day 8\nhttps://www.youtube.com/watch?v=Oy5DWUlp_BE
-DURATION:PT2H
-DTSTART:20250116T120000Z
-SUMMARY:Octavio: 【MUSIC】POLISH YOUR NOTES | Making Music Everyday Challenge Day 8
-UID:Oy5DWUlp_BE
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Axeforge Cafe Is THE Tavern【TAVERN MANAGER SIMULATOR】\nhttps://www.youtube.com/watch?v=xD1yc3IJO1U
 DURATION:PT2H
 DTSTART:20250116T180000Z
@@ -60,10 +32,10 @@ SUMMARY:Crimzon: Axeforge Cafe Is THE Tavern【TAVERN MANAGER SIMULATOR】
 UID:xD1yc3IJO1U
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:[FALL GUYS] FIRST FALL OF THE YEAR\, WILL THIS RUSTY JESTER TAKE ANY W's?\nhttps://www.youtube.com/watch?v=MhOJrs-JM9A
+DESCRIPTION:[ART STREAM] AGAIN! AGAIN! AGAIN AGAIN!\nhttps://www.youtube.com/watch?v=-OIWtisDqIQ
 DURATION:PT2H
-DTSTART:20250115T220000Z
-SUMMARY:Bettel: [FALL GUYS] FIRST FALL OF THE YEAR\, WILL THIS RUSTY JESTER TAKE ANY W's?
-UID:MhOJrs-JM9A
+DTSTART:20250116T220000Z
+SUMMARY:Bettel: [ART STREAM] AGAIN! AGAIN! AGAIN AGAIN!
+UID:-OIWtisDqIQ
 END:VEVENT
 END:VCALENDAR
