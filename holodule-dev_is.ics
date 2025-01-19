@@ -4,11 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【8番出口】怖いの苦手 出口を探す【水宮枢／FLOW GLOW】#hololiveDEV_IS\nhttps://www.youtube.com/watch?v=Eirs9XpHJsw
+DURATION:PT2H
+DTSTART:20250119T030000Z
+SUMMARY:水宮枢: 【8番出口】怖いの苦手 出口を探す【水宮枢／FLOW GLOW】#hololiveDEV_IS
+UID:Eirs9XpHJsw
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:綺々羅々ヴィヴィ × 白銀ノエル(cover)【歌ってみた】\nhttps://www.youtube.com/watch?v=QUd3qQUGWWA
 DURATION:PT2H
 DTSTART:20250120T090000Z
 SUMMARY:GLOWFLOW: 綺々羅々ヴィヴィ × 白銀ノエル(cover)【歌ってみた】
 UID:QUd3qQUGWWA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【こだわりラーメン館】#1 深夜に 最強ラーメン屋をひらく【水宮枢／FLOW GLOW】#hololiveDEV_IS\nhttps://www.youtube.com/watch?v=YMyYP18T4jg
+DURATION:PT2H
+DTSTART:20250120T130000Z
+SUMMARY:水宮枢: 【こだわりラーメン館】#1 深夜に 最強ラーメン屋をひらく【水宮枢／FLOW GLOW】#hololiveDEV_IS
+UID:YMyYP18T4jg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ドラゴンクエストIIIリメイク】ドラクエIII初プレイ!!!オーブ集める!!ロトシリーズ完走するぞー!!! part5 ※ネタバレあり\nhttps://www.youtube.com/watch?v=MvsdlSYLKRU
@@ -32,13 +46,6 @@ SUMMARY:音乃瀬奏: 【 #ダンダダン 】#オトノケ 踊ってみた！�
 UID:2eRGvoqq-f4
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Countach】自分で踊ってみた~！！【轟はじめ/ReGLOSS】#vtuber  #dance\nhttps://www.youtube.com/watch?v=_6qyLKSKXCg
-DURATION:PT2H
-DTSTART:20250118T090040Z
-SUMMARY:轟はじめ: 【Countach】自分で踊ってみた~！！【轟はじめ/ReGLOSS】#vtuber  #dance
-UID:_6qyLKSKXCg
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Countach100万再生ありがとおおおお【轟はじめ/ReGLOSS】#vtuber  #dance\nhttps://www.youtube.com/watch?v=qhL1cUJvb8c
 DURATION:PT2H
 DTSTART:20250119T080031Z
@@ -46,11 +53,11 @@ SUMMARY:轟はじめ: Countach100万再生ありがとおおおお【轟はじ�
 UID:qhL1cUJvb8c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【朝活/Free Talk】おはよう！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】\nhttps://www.youtube.com/watch?v=8mWtQ5hLLx8
+DESCRIPTION:唾の粘度高すぎだろ　#ニコたんアニメ\nhttps://www.youtube.com/watch?v=ogiFUApzq-4
 DURATION:PT2H
-DTSTART:20250117T220000Z
-SUMMARY:綺々羅々ヴィヴィ: 【朝活/Free Talk】おはよう！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】
-UID:8mWtQ5hLLx8
+DTSTART:20250119T091508Z
+SUMMARY:虎金妃笑虎: 唾の粘度高すぎだろ　#ニコたんアニメ
+UID:ogiFUApzq-4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【雑談】色んなホロメンさんと…！なお話～する！【一条莉々華/hololive DEV_IS　ReGLOSS】\nhttps://www.youtube.com/watch?v=TAXkBNlEpac
@@ -58,13 +65,6 @@ DURATION:PT2H
 DTSTART:20250119T140000Z
 SUMMARY:一条莉々華: 【雑談】色んなホロメンさんと…！なお話～する！【一条莉々華/hololive DEV_IS　ReGLOSS】
 UID:TAXkBNlEpac
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【初コラボ】枢ちゃんと仲良くなりたいコラボ✨【火威青/水宮枢 】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=A-3AZuM0svw
-DURATION:PT2H
-DTSTART:20250118T130000Z
-SUMMARY:火威青: 【初コラボ】枢ちゃんと仲良くなりたいコラボ✨【火威青/水宮枢 】#hololiveDEV_IS #ReGLOSS
-UID:A-3AZuM0svw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#10【龍が如く７】大阪の狂犬※ネタバレあり【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】\nhttps://www.youtube.com/watch?v=h6gi4JJlNbU
@@ -86,103 +86,5 @@ DURATION:PT2H
 DTSTART:20250119T030000Z
 SUMMARY:音乃瀬奏: 【 LEVEL DEVIL 】とんでもない鬼畜ゲーをプレイしてみるｗｗｗ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
 UID:Z9xgz87q-fQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【8番出口】怖いの苦手 出口を探す【水宮枢／FLOW GLOW】#hololiveDEV_IS\nhttps://www.youtube.com/watch?v=Eirs9XpHJsw
-DURATION:PT2H
-DTSTART:20250119T030000Z
-SUMMARY:水宮枢: 【8番出口】怖いの苦手 出口を探す【水宮枢／FLOW GLOW】#hololiveDEV_IS
-UID:Eirs9XpHJsw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Mother Simulator】あかちゃん育てます【轟はじめ/ReGLOSS】 #hololivedev_is\nhttps://www.youtube.com/watch?v=TXUXj-m6hzI
-DURATION:PT2H
-DTSTART:20250118T053000Z
-SUMMARY:轟はじめ: 【Mother Simulator】あかちゃん育てます【轟はじめ/ReGLOSS】 #hololivedev_is
-UID:TXUXj-m6hzI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 BIOHAZARD 7 】ミアと一緒に逃げたい※ネタバレ禁止！【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】\nhttps://www.youtube.com/watch?v=_7H7bVBUOdo
-DURATION:PT2H
-DTSTART:20250118T080000Z
-SUMMARY:輪堂千速: 【 BIOHAZARD 7 】ミアと一緒に逃げたい※ネタバレ禁止！【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】
-UID:_7H7bVBUOdo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【朝活】土曜の朝、空気を吸う、ニコを吸う、幸【虎金妃笑虎】\nhttps://www.youtube.com/watch?v=Fq95-c1CfOE
-DURATION:PT2H
-DTSTART:20250118T000000Z
-SUMMARY:虎金妃笑虎: 【朝活】土曜の朝、空気を吸う、ニコを吸う、幸【虎金妃笑虎】
-UID:Fq95-c1CfOE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 CH4NGE／Giga 】水宮枢 歌ってみた #hololivedev_is\nhttps://www.youtube.com/watch?v=7oA-3yAptyc
-DURATION:PT2H
-DTSTART:20250118T100013Z
-SUMMARY:水宮枢: 【 CH4NGE／Giga 】水宮枢 歌ってみた #hololivedev_is
-UID:7oA-3yAptyc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【FNAF】Five Nights at Freddy'sヴィヴィりながらやってみる・・・・・・・【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】\nhttps://www.youtube.com/watch?v=zRkyd97i_Qk
-DURATION:PT2H
-DTSTART:20250118T120000Z
-SUMMARY:綺々羅々ヴィヴィ: 【FNAF】Five Nights at Freddy'sヴィヴィりながらやってみる・・・・・・・【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】
-UID:zRkyd97i_Qk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:空気を読むもマイペースすぎるVTuber ｗｗｗ【 音乃瀬奏 】#VTuber #ホロライブ #空気読み #shorts\nhttps://www.youtube.com/watch?v=EZWQ8XJIiTg
-DURATION:PT2H
-DTSTART:20250118T080012Z
-SUMMARY:音乃瀬奏: 空気を読むもマイペースすぎるVTuber ｗｗｗ【 音乃瀬奏 】#VTuber #ホロライブ #空気読み #shorts
-UID:EZWQ8XJIiTg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【初コラボ】ReGLOSSと一緒にボートレースを知ろう！コラボキャンペーンも！【#ReGLOSS水上バトルビート】\nhttps://www.youtube.com/watch?v=P6qlHSyGm04
-DURATION:PT2H
-DTSTART:20250118T100000Z
-SUMMARY:ReGLOSS: 【初コラボ】ReGLOSSと一緒にボートレースを知ろう！コラボキャンペーンも！【#ReGLOSS水上バトルビート】
-UID:P6qlHSyGm04
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:唾の粘度高すぎだろ　#ニコたんアニメ\nhttps://www.youtube.com/watch?v=ogiFUApzq-4
-DURATION:PT2H
-DTSTART:20250119T091508Z
-SUMMARY:虎金妃笑虎: 唾の粘度高すぎだろ　#ニコたんアニメ
-UID:ogiFUApzq-4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【歌枠】ひさしぶりにいっぱい歌うぞ【虎金妃笑虎】\nhttps://www.youtube.com/watch?v=PqLp29yuOLA
-DURATION:PT2H
-DTSTART:20250118T083000Z
-SUMMARY:虎金妃笑虎: 【歌枠】ひさしぶりにいっぱい歌うぞ【虎金妃笑虎】
-UID:PqLp29yuOLA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【メン限同時視聴】「天使にラブ・ソングを・・・」（字幕版）同時視聴配信 【儒烏風亭らでん 】\nhttps://www.youtube.com/watch?v=OwAIY4j-lcI
-DURATION:PT2H
-DTSTART:20250118T130000Z
-SUMMARY:儒烏風亭らでん: 【メン限同時視聴】「天使にラブ・ソングを・・・」（字幕版）同時視聴配信 【儒烏風亭らでん 】
-UID:OwAIY4j-lcI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【こだわりラーメン館】#1 深夜に 最強ラーメン屋をひらく【水宮枢／FLOW GLOW】#hololiveDEV_IS\nhttps://www.youtube.com/watch?v=YMyYP18T4jg
-DURATION:PT2H
-DTSTART:20250120T130000Z
-SUMMARY:水宮枢: 【こだわりラーメン館】#1 深夜に 最強ラーメン屋をひらく【水宮枢／FLOW GLOW】#hololiveDEV_IS
-UID:YMyYP18T4jg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 壺おじ】やっぱりこれは壺による締め付けを楽しむゲームです。＃２【ホロライブ DEV_IS 響咲リオナ】\nhttps://www.youtube.com/watch?v=rmqXuiDX0cQ
-DURATION:PT2H
-DTSTART:20250118T050000Z
-SUMMARY:響咲リオナ: 【 壺おじ】やっぱりこれは壺による締め付けを楽しむゲームです。＃２【ホロライブ DEV_IS 響咲リオナ】
-UID:rmqXuiDX0cQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【初朝枠 ／ 雑談】共通テストだよね？！皆を送り出すよ【水宮枢／FLOW GLOW】#hololiveDEV_IS\nhttps://www.youtube.com/watch?v=ythkz0E3mno
-DURATION:PT2H
-DTSTART:20250117T220000Z
-SUMMARY:水宮枢: 【初朝枠 ／ 雑談】共通テストだよね？！皆を送り出すよ【水宮枢／FLOW GLOW】#hololiveDEV_IS
-UID:ythkz0E3mno
 END:VEVENT
 END:VCALENDAR
