@@ -4,11 +4,32 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Membership】EEK3 2025 Watchalong!\nhttps://www.youtube.com/watch?v=gIm2kYPrKrk
+DESCRIPTION:【T4 SHORT FILM】LINGERING WILL\nhttps://www.youtube.com/watch?v=el6RWw_w3kU
 DURATION:PT2H
-DTSTART:20250119T020000Z
-SUMMARY:Shinri: 【Membership】EEK3 2025 Watchalong!
-UID:gIm2kYPrKrk
+DTSTART:20250120T020000Z
+SUMMARY:Octavio: 【T4 SHORT FILM】LINGERING WILL
+UID:el6RWw_w3kU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Turning a deep tagalog word into a song【MUSIC】\nhttps://www.youtube.com/watch?v=Z1ngCH1bfrw
+DURATION:PT2H
+DTSTART:20250120T120000Z
+SUMMARY:Octavio: Turning a deep tagalog word into a song【MUSIC】
+UID:Z1ngCH1bfrw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Resident Evil Village】Home Sweet Home.\nhttps://www.youtube.com/watch?v=qzVSs_zPJng
+DURATION:PT2H
+DTSTART:20250119T043000Z
+SUMMARY:Goldbullet: 【Resident Evil Village】Home Sweet Home.
+UID:qzVSs_zPJng
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【DBD】CRANK THAT HAKKA BOY w/ @CassianFloros @LucienLunaris @NixVoltare & @YuQ.Wilson ! ! !\nhttps://www.youtube.com/watch?v=rEIVesP1QyI
+DURATION:PT2H
+DTSTART:20250119T190000Z
+SUMMARY:Hakka: 【DBD】CRANK THAT HAKKA BOY w/ @CassianFloros @LucienLunaris @NixVoltare & @YuQ.Wilson ! ! !
+UID:rEIVesP1QyI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【STREET FIGHTER 6】Sajam Slam Training B4 Round Robin!\nhttps://www.youtube.com/watch?v=WjGgPS68AzE
@@ -25,13 +46,6 @@ SUMMARY:Hakka: 【BALATRO】FOOL! YOU'VE ACTIVATED MY TRAP CARD!
 UID:pFmgjJ2HSOM
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【T4 SHORT FILM】LINGERING WILL\nhttps://www.youtube.com/watch?v=el6RWw_w3kU
-DURATION:PT2H
-DTSTART:20250120T020000Z
-SUMMARY:Octavio: 【T4 SHORT FILM】LINGERING WILL
-UID:el6RWw_w3kU
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:[CURSED DIGICAM] SAY CHEESE AND DIE!\nhttps://www.youtube.com/watch?v=l4HK4uO9bPA
 DURATION:PT2H
 DTSTART:20250118T220000Z
@@ -39,17 +53,10 @@ SUMMARY:Bettel: [CURSED DIGICAM] SAY CHEESE AND DIE!
 UID:l4HK4uO9bPA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Resident Evil Village】Home Sweet Home.\nhttps://www.youtube.com/watch?v=qzVSs_zPJng
+DESCRIPTION:【Membership】EEK3 2025 Watchalong!\nhttps://www.youtube.com/watch?v=gIm2kYPrKrk
 DURATION:PT2H
-DTSTART:20250119T043000Z
-SUMMARY:Goldbullet: 【Resident Evil Village】Home Sweet Home.
-UID:qzVSs_zPJng
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Turning a deep tagalog word into a song【MUSIC】\nhttps://www.youtube.com/watch?v=Z1ngCH1bfrw
-DURATION:PT2H
-DTSTART:20250120T120000Z
-SUMMARY:Octavio: Turning a deep tagalog word into a song【MUSIC】
-UID:Z1ngCH1bfrw
+DTSTART:20250119T020000Z
+SUMMARY:Shinri: 【Membership】EEK3 2025 Watchalong!
+UID:gIm2kYPrKrk
 END:VEVENT
 END:VCALENDAR
