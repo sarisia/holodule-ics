@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:GOLF IT? GOLF IT!\nhttps://www.youtube.com/watch?v=cGRsmxpSuCc
+DURATION:PT2H
+DTSTART:20250121T130000Z
+SUMMARY:🎨Iofi: GOLF IT? GOLF IT!
+UID:cGRsmxpSuCc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Members Only】Checking out demo version of Alisa!【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=HtnW2zZvDW0
 DURATION:PT2H
 DTSTART:20250121T140000Z
@@ -39,10 +46,10 @@ SUMMARY:Reine: 【Lively Chair Simulator】menjadi kursi bersama KOPR【Pavolia 
 UID:8SHHaMcubek
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:GOLF IT? GOLF IT!\nhttps://www.youtube.com/watch?v=cGRsmxpSuCc
+DESCRIPTION:【UNARCHIVED KARAOKE】WINDING DOWN FROM WORK WITH SOME GUERILLA KARAOKE!!【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=by8Msfz4O8w
 DURATION:PT2H
-DTSTART:20250121T130000Z
-SUMMARY:🎨Iofi: GOLF IT? GOLF IT!
-UID:cGRsmxpSuCc
+DTSTART:20250122T100000Z
+SUMMARY:Ollie: 【UNARCHIVED KARAOKE】WINDING DOWN FROM WORK WITH SOME GUERILLA KARAOKE!!【Kureiji Ollie】
+UID:by8Msfz4O8w
 END:VEVENT
 END:VCALENDAR
