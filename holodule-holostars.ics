@@ -4,11 +4,11 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【 オフコラボ l KARAOKE 】○○ソング多めで3人で歌う🎙️ w/イヅルさん・アステルさん【 水無世燐央 l ホロスターズ l UPROAR!! 】#vtuber\nhttps://www.youtube.com/watch?v=Gr9EoWRzHNg
+DESCRIPTION:【League of Legends】早朝の視聴者参加型LoL / アステル\nhttps://www.youtube.com/watch?v=iBNwKFCeBYM
 DURATION:PT2H
-DTSTART:20250127T100000Z
-SUMMARY:水無世燐央: 【 オフコラボ l KARAOKE 】○○ソング多めで3人で歌う🎙️ w/イヅルさん・アステルさん【 水無世燐央 l ホロスターズ l UPROAR!! 】#vtuber
-UID:Gr9EoWRzHNg
+DTSTART:20250125T193000Z
+SUMMARY:🎭アステル・レダ: 【League of Legends】早朝の視聴者参加型LoL / アステル
+UID:iBNwKFCeBYM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【呪われたデジカメ】#ホロスターズホラゲリレー　の巻【律可/ホロスターズ 】#りつすた\nhttps://www.youtube.com/watch?v=hp8WFX9e-BI
@@ -16,6 +16,13 @@ DURATION:PT2H
 DTSTART:20250125T130000Z
 SUMMARY:⚙律可: 【呪われたデジカメ】#ホロスターズホラゲリレー　の巻【律可/ホロスターズ 】#りつすた
 UID:hp8WFX9e-BI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 オフコラボ l KARAOKE 】○○ソング多めで3人で歌う🎙️ w/イヅルさん・アステルさん【 水無世燐央 l ホロスターズ l UPROAR!! 】#vtuber\nhttps://www.youtube.com/watch?v=Gr9EoWRzHNg
+DURATION:PT2H
+DTSTART:20250127T100000Z
+SUMMARY:水無世燐央: 【 オフコラボ l KARAOKE 】○○ソング多めで3人で歌う🎙️ w/イヅルさん・アステルさん【 水無世燐央 l ホロスターズ l UPROAR!! 】#vtuber
+UID:Gr9EoWRzHNg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ドズル社狩猟祭】本番【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=yq_ovjnCCKQ
