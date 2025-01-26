@@ -4,6 +4,20 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【 信長の野望・創造 】初めての「信長の野望」で遊んでみるのら！！！＃２【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=Lp2ZNGhVHRw
+DURATION:PT2H
+DTSTART:20250126T060000Z
+SUMMARY:🍬姫森ルーナ: 【 信長の野望・創造 】初めての「信長の野望」で遊んでみるのら！！！＃２【姫森ルーナ/ホロライブ】
+UID:Lp2ZNGhVHRw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ジェヘナ - wotaku / Covered by 風真いろは×沙花叉クロヱ\nhttps://www.youtube.com/watch?v=5zJp7oulbwc
+DURATION:PT2H
+DTSTART:20250126T100145Z
+SUMMARY:風真いろは: ジェヘナ - wotaku / Covered by 風真いろは×沙花叉クロヱ
+UID:5zJp7oulbwc
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【#夜更かしぺこマリちゃん】ﾁﾅ、告知もぁるヵﾗ (笑【ホロライブ/宝鐘マリン・兎田ぺこら】\nhttps://www.youtube.com/watch?v=o0iiLkmzbbg
 DURATION:PT2H
 DTSTART:20250126T130000Z
@@ -25,11 +39,11 @@ SUMMARY:🤖ロボ子さん: 【朝活】おはよう☀mgmg～Eat Time❣朝マ
 UID:7s5TrrxrFQQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:食虫植物 歌ってみた #食虫植物 #hololive  #沙花叉クロヱ  #ロボ子さん #ホロライブ #vtuber\nhttps://www.youtube.com/watch?v=52MmhKB3SRo
+DESCRIPTION:【cover】サマータイムレコード/ 秘密結社holoX【#SSholoX】\nhttps://www.youtube.com/watch?v=XYbT49LpnFg
 DURATION:PT2H
-DTSTART:20250125T094251Z
-SUMMARY:🤖ロボ子さん: 食虫植物 歌ってみた #食虫植物 #hololive  #沙花叉クロヱ  #ロボ子さん #ホロライブ #vtuber
-UID:52MmhKB3SRo
+DTSTART:20250126T140026Z
+SUMMARY:ホロライブ: 【cover】サマータイムレコード/ 秘密結社holoX【#SSholoX】
+UID:XYbT49LpnFg
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ゲリラ】日曜日のカラオケを堪能しに来ました【#ホロライブ #ロボ子さん 】\nhttps://www.youtube.com/watch?v=6aCaEuPSmZ4
@@ -37,13 +51,6 @@ DURATION:PT2H
 DTSTART:20250126T060000Z
 SUMMARY:🤖ロボ子さん: 【ゲリラ】日曜日のカラオケを堪能しに来ました【#ホロライブ #ロボ子さん 】
 UID:6aCaEuPSmZ4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【占いの館】ビッグゴッドミオーン先生出張！！2025年の運勢を占ってください🔮【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=QvbJv1IWJQo
-DURATION:PT2H
-DTSTART:20250125T130000Z
-SUMMARY:💫天音かなた: 【占いの館】ビッグゴッドミオーン先生出張！！2025年の運勢を占ってください🔮【天音かなた/ホロライブ】
-UID:QvbJv1IWJQo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:許嫁っきゅん踊ってみたぁ♥ #許嫁っきゅん  #dance  #vtuber #hololive  #ロボ子さん\nhttps://www.youtube.com/watch?v=iRcp7fwKbhA
@@ -60,13 +67,6 @@ SUMMARY:🥐戌神ころね: 【1時間チャレンジ】初代マリオのク�
 UID:MfjNvBjd3sk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【アニメ】拳で語れよ\nhttps://www.youtube.com/watch?v=vTsMrCsMvj0
-DURATION:PT2H
-DTSTART:20250126T090104Z
-SUMMARY:ホロライブ: 【アニメ】拳で語れよ
-UID:vTsMrCsMvj0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【#ぼたころ】逆にどれだけ一致するかまである終われまテン【獅白ぼたん/ホロライブ】\nhttps://www.youtube.com/watch?v=Nuo9W1U5qHA
 DURATION:PT2H
 DTSTART:20250126T130000Z
@@ -74,207 +74,11 @@ SUMMARY:獅白ぼたん: 【#ぼたころ】逆にどれだけ一致するかま
 UID:Nuo9W1U5qHA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:沙花叉クロヱ MV - 光あれ\nhttps://www.youtube.com/watch?v=Utu9hixW6mc
+DESCRIPTION:【アニメ】拳で語れよ\nhttps://www.youtube.com/watch?v=vTsMrCsMvj0
 DURATION:PT2H
-DTSTART:20250126T133000Z
-SUMMARY:沙花叉クロヱ: 沙花叉クロヱ MV - 光あれ
-UID:Utu9hixW6mc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ドンキーコングリターンズHD】クリア耐久🔥スーファミのドンキやったことありﾏｧｯｽﾙ！遊んでみよう～🦍🎶【白銀ノエル/ホロライブ】\nhttps://www.youtube.com/watch?v=ugnrMab9lEw
-DURATION:PT2H
-DTSTART:20250125T010000Z
-SUMMARY:⚔白銀ノエル: 【ドンキーコングリターンズHD】クリア耐久🔥スーファミのドンキやったことありﾏｧｯｽﾙ！遊んでみよう～🦍🎶【白銀ノエル/ホロライブ】
-UID:ugnrMab9lEw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ドラクエⅩ ver.2 】完全初見。オフライン版✨久々のドラ10！真の姿になった町へ…！【鷹嶺ルイ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=G6PxpwgVS7c
-DURATION:PT2H
-DTSTART:20250125T030000Z
-SUMMARY:鷹嶺ルイ: 【 ドラクエⅩ ver.2 】完全初見。オフライン版✨久々のドラ10！真の姿になった町へ…！【鷹嶺ルイ/ホロライブ】※ネタバレあり
-UID:G6PxpwgVS7c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【マリカ8DX】一時間以内に1位を取れなかったら21時からカービィ64クリア耐久！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=4D8e3gh0rJo
-DURATION:PT2H
-DTSTART:20250125T110000Z
-SUMMARY:👯兎田ぺこら: 【マリカ8DX】一時間以内に1位を取れなかったら21時からカービィ64クリア耐久！ぺこ！【ホロライブ/兎田ぺこら】
-UID:4D8e3gh0rJo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【龍が如く0 誓いの場所】#05｜第八章「争奪戦」～桐生ちゃん＆真島の兄さんでブチかましていくぞッ！！※配信内容にネタバレを含みます【 雪花ラミィ /ホロライブ】\nhttps://www.youtube.com/watch?v=cwSK9WyIh1U
-DURATION:PT2H
-DTSTART:20250125T040000Z
-SUMMARY:雪花ラミィ: 【龍が如く0 誓いの場所】#05｜第八章「争奪戦」～桐生ちゃん＆真島の兄さんでブチかましていくぞッ！！※配信内容にネタバレを含みます【 雪花ラミィ /ホロライブ】
-UID:cwSK9WyIh1U
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Part5 】「沙花叉クロヱと〇〇」〜バンジーデート編〜【 ホロライブ / 沙花叉クロヱ 紫咲シオン】\nhttps://www.youtube.com/watch?v=dIsw1wArWcI
-DURATION:PT2H
-DTSTART:20250125T090000Z
-SUMMARY:沙花叉クロヱ: 【 Part5 】「沙花叉クロヱと〇〇」〜バンジーデート編〜【 ホロライブ / 沙花叉クロヱ 紫咲シオン】
-UID:dIsw1wArWcI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 告知あり 】最後の雑談！みんなありがとうとか裏話とか【ホロライブ/沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=KjjJgpgRlqQ
-DURATION:PT2H
-DTSTART:20250125T110000Z
-SUMMARY:沙花叉クロヱ: 【 告知あり 】最後の雑談！みんなありがとうとか裏話とか【ホロライブ/沙花叉クロヱ】
-UID:KjjJgpgRlqQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【OHAPOL】#142 1/26日曜日！もうすぐ誕生日のニチアサ！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=FriZAgxe23k
-DURATION:PT2H
-DTSTART:20250125T210000Z
-SUMMARY:尾丸ポルカ: 【OHAPOL】#142 1/26日曜日！もうすぐ誕生日のニチアサ！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】
-UID:FriZAgxe23k
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ぼくらはみんな意味不明 / 沙花叉クロヱ  (cover)\nhttps://www.youtube.com/watch?v=JW-rnSHm-_4
-DURATION:PT2H
-DTSTART:20250125T120000Z
-SUMMARY:沙花叉クロヱ: ぼくらはみんな意味不明 / 沙花叉クロヱ  (cover)
-UID:JW-rnSHm-_4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【OHAPOL】#141 1/25土曜日！おはぽるドドド！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=83mXnaDJPe4
-DURATION:PT2H
-DTSTART:20250124T213000Z
-SUMMARY:尾丸ポルカ: 【OHAPOL】#141 1/25土曜日！おはぽるドドド！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】
-UID:83mXnaDJPe4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:角巻わため 2nd EP Mini Album『WHAT A MESS!!!』Track01：Shout now\,sheep!!　#shorts\nhttps://www.youtube.com/watch?v=K527YYfbx7E
-DURATION:PT2H
-DTSTART:20250125T100028Z
-SUMMARY:🐏角巻わため: 角巻わため 2nd EP Mini Album『WHAT A MESS!!!』Track01：Shout now\,sheep!!　#shorts
-UID:K527YYfbx7E
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ロマサガ2リメイク】2周目難易度ロマンシングでお試ししてみる！！～ロマンシングサガ2 リベンジオブザセブン～ #1 【博衣こより/ホロライブ】【ネタバレあり】\nhttps://www.youtube.com/watch?v=qlg-VGZFDL4
-DURATION:PT2H
-DTSTART:20250126T020000Z
-SUMMARY:博衣こより: 【ロマサガ2リメイク】2周目難易度ロマンシングでお試ししてみる！！～ロマンシングサガ2 リベンジオブザセブン～ #1 【博衣こより/ホロライブ】【ネタバレあり】
-UID:qlg-VGZFDL4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【メン限】ふつうの雑談ショート【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=IHROS99uVDM
-DURATION:PT2H
-DTSTART:20250126T130500Z
-SUMMARY:尾丸ポルカ: 【メン限】ふつうの雑談ショート【尾丸ポルカ/ホロライブ】
-UID:IHROS99uVDM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Colorful Universe / 大神ミオ (official)\nhttps://www.youtube.com/watch?v=NXIDznszQhA
-DURATION:PT2H
-DTSTART:20250126T110000Z
-SUMMARY:🌲大神ミオ: Colorful Universe / 大神ミオ (official)
-UID:NXIDznszQhA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ドラクエⅩ ver.2 】完全初見。オフライン版✨真のアラハギーロ王国とセレドの町の解決へ！【鷹嶺ルイ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=pdjCuN6TKjw
-DURATION:PT2H
-DTSTART:20250126T030000Z
-SUMMARY:鷹嶺ルイ: 【 ドラクエⅩ ver.2 】完全初見。オフライン版✨真のアラハギーロ王国とセレドの町の解決へ！【鷹嶺ルイ/ホロライブ】※ネタバレあり
-UID:pdjCuN6TKjw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Fast Food Simulator 】ナイトメア編はじまる..！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=ZHdCNPRjsVI
-DURATION:PT2H
-DTSTART:20250126T130000Z
-SUMMARY:🐏角巻わため: 【 Fast Food Simulator 】ナイトメア編はじまる..！！！【角巻わため/ホロライブ４期生】
-UID:ZHdCNPRjsVI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【メンバー限定】いちゃいちゃASMR【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=z2PNiOs0l-M
-DURATION:PT2H
-DTSTART:20250127T111500Z
-SUMMARY:🏮夏色まつり: 【メンバー限定】いちゃいちゃASMR【ホロライブ/夏色まつり】
-UID:z2PNiOs0l-M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ASMR】メン限お試しいちゃいちゃASMR【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=ed7dCfg9sGg
-DURATION:PT2H
-DTSTART:20250127T110000Z
-SUMMARY:🏮夏色まつり: 【ASMR】メン限お試しいちゃいちゃASMR【ホロライブ/夏色まつり】
-UID:ed7dCfg9sGg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 👻呪われたデジカメ】ノリでカメラ回したらえ、え、えええええええええ；；；【#ホロライブ #ロボ子さん 】\nhttps://www.youtube.com/watch?v=beLpRfbsm8g
-DURATION:PT2H
-DTSTART:20250125T080000Z
-SUMMARY:🤖ロボ子さん: 【 👻呪われたデジカメ】ノリでカメラ回したらえ、え、えええええええええ；；；【#ホロライブ #ロボ子さん 】
-UID:beLpRfbsm8g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Fast Food Simulator】俺達が経営する最強のHAMBURGERショップ🍔その６【#ホロナルド】\nhttps://www.youtube.com/watch?v=gOu-Gs836eU
-DURATION:PT2H
-DTSTART:20250126T130000Z
-SUMMARY:🌽白上フブキ: 【Fast Food Simulator】俺達が経営する最強のHAMBURGERショップ🍔その６【#ホロナルド】
-UID:gOu-Gs836eU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 楽器演奏 】エレクトーンを２ヶ月ぶりに演奏するのら！！！🎹🎵 Playing the Electone【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=MIR5amvbvXk
-DURATION:PT2H
-DTSTART:20250125T070000Z
-SUMMARY:🍬姫森ルーナ: 【 楽器演奏 】エレクトーンを２ヶ月ぶりに演奏するのら！！！🎹🎵 Playing the Electone【姫森ルーナ/ホロライブ】
-UID:MIR5amvbvXk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 信長の野望・創造 】初めての「信長の野望」で遊んでみるのら！！！＃２【姫森ルーナ/ホロライブ】\nhttps://www.youtube.com/watch?v=Lp2ZNGhVHRw
-DURATION:PT2H
-DTSTART:20250126T060000Z
-SUMMARY:🍬姫森ルーナ: 【 信長の野望・創造 】初めての「信長の野望」で遊んでみるのら！！！＃２【姫森ルーナ/ホロライブ】
-UID:Lp2ZNGhVHRw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ジェヘナ - wotaku / Covered by 風真いろは×沙花叉クロヱ\nhttps://www.youtube.com/watch?v=5zJp7oulbwc
-DURATION:PT2H
-DTSTART:20250126T100145Z
-SUMMARY:風真いろは: ジェヘナ - wotaku / Covered by 風真いろは×沙花叉クロヱ
-UID:5zJp7oulbwc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:食虫植物/沙花叉クロヱ・ロボ子さん COVER\nhttps://www.youtube.com/watch?v=yul4hx6GxyI
-DURATION:PT2H
-DTSTART:20250125T080000Z
-SUMMARY:🤖ロボ子さん: 食虫植物/沙花叉クロヱ・ロボ子さん COVER
-UID:yul4hx6GxyI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:あずいろでゆっくり小豆島ロケしてきた！【ホロライブ / AZKi】#ぷちあず #shorts #AZロケ #あずいろ #小豆島 #香川県\nhttps://www.youtube.com/watch?v=90P3v66gBKE
-DURATION:PT2H
-DTSTART:20250125T030007Z
-SUMMARY:⚒AZKi: あずいろでゆっくり小豆島ロケしてきた！【ホロライブ / AZKi】#ぷちあず #shorts #AZロケ #あずいろ #小豆島 #香川県
-UID:90P3v66gBKE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 首都高バトル 】走り屋みこが首都高を走りまくるぜ！！！！！！！！！【ホロライブ/さくらみこ】ネタバレあり\nhttps://www.youtube.com/watch?v=11k784OmfZg
-DURATION:PT2H
-DTSTART:20250125T130000Z
-SUMMARY:🌸さくらみこ: 【 首都高バトル 】走り屋みこが首都高を走りまくるぜ！！！！！！！！！【ホロライブ/さくらみこ】ネタバレあり
-UID:11k784OmfZg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【cover】サマータイムレコード/ 秘密結社holoX【#SSholoX】\nhttps://www.youtube.com/watch?v=XYbT49LpnFg
-DURATION:PT2H
-DTSTART:20250126T140026Z
-SUMMARY:ホロライブ: 【cover】サマータイムレコード/ 秘密結社holoX【#SSholoX】
-UID:XYbT49LpnFg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 同時視聴/Watchalong 】『ドラゴンクエスト ダイの大冒険(2020)』第87～93話【鷹嶺ルイ/ホロライブ】\nhttps://www.youtube.com/watch?v=UEii0s81TE4
-DURATION:PT2H
-DTSTART:20250125T100000Z
-SUMMARY:鷹嶺ルイ: 【 同時視聴/Watchalong 】『ドラゴンクエスト ダイの大冒険(2020)』第87～93話【鷹嶺ルイ/ホロライブ】
-UID:UEii0s81TE4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【４】初代バイオハザードを初見でプレイ！【ホロライブ/大神ミオ】\nhttps://www.youtube.com/watch?v=uQynDdLLQyI
-DURATION:PT2H
-DTSTART:20250125T090000Z
-SUMMARY:🌲大神ミオ: 【４】初代バイオハザードを初見でプレイ！【ホロライブ/大神ミオ】
-UID:uQynDdLLQyI
+DTSTART:20250126T090104Z
+SUMMARY:ホロライブ: 【アニメ】拳で語れよ
+UID:vTsMrCsMvj0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Fast Food Simulator】本日も出勤させていただきます！！🍔🍟✨【百鬼あやめ/ホロライブ】\nhttps://www.youtube.com/watch?v=wmiitBstJXY
@@ -284,25 +88,25 @@ SUMMARY:👿百鬼あやめ: 【Fast Food Simulator】本日も出勤させて�
 UID:wmiitBstJXY
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:沙花叉クロヱ MV - 光あれ\nhttps://www.youtube.com/watch?v=Utu9hixW6mc
+DURATION:PT2H
+DTSTART:20250126T133000Z
+SUMMARY:沙花叉クロヱ: 沙花叉クロヱ MV - 光あれ
+UID:Utu9hixW6mc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 マリパジャンボリー 】マリオでバチバチジャンボリいいいいいいいい【ホロライブ /ロボ子さん 】\nhttps://www.youtube.com/watch?v=ylPFgwiB5p4
+DURATION:PT2H
+DTSTART:20250128T130000Z
+SUMMARY:🤖ロボ子さん: 【 マリパジャンボリー 】マリオでバチバチジャンボリいいいいいいいい【ホロライブ /ロボ子さん 】
+UID:ylPFgwiB5p4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 #大神ミオ新衣装 】新衣装、お披露目します。【 ホロライブ/ 大神ミオ 】\nhttps://www.youtube.com/watch?v=cf0gXIBzW20
 DURATION:PT2H
 DTSTART:20250126T100000Z
 SUMMARY:🌲大神ミオ: 【 #大神ミオ新衣装 】新衣装、お披露目します。【 ホロライブ/ 大神ミオ 】
 UID:cf0gXIBzW20
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【首都高バトル】ハチロクでGT-Rを破った富士山のルーキー、今日も登頂する！！！【博衣こより/ホロライブ】【ネタバレあり】\nhttps://www.youtube.com/watch?v=zYMU-HV8Wa0
-DURATION:PT2H
-DTSTART:20250125T100000Z
-SUMMARY:博衣こより: 【首都高バトル】ハチロクでGT-Rを破った富士山のルーキー、今日も登頂する！！！【博衣こより/ホロライブ】【ネタバレあり】
-UID:zYMU-HV8Wa0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:やる気10％でノー筋肉！ノーライフ！ #hololive #雪花ラミィ #shorts\nhttps://www.youtube.com/watch?v=s31SkWJKnxI
-DURATION:PT2H
-DTSTART:20250125T090057Z
-SUMMARY:雪花ラミィ: やる気10％でノー筋肉！ノーライフ！ #hololive #雪花ラミィ #shorts
-UID:s31SkWJKnxI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 料理 】人生はじめての「ポテト🍟」揚げるぞおおおお～～～！🌟【ホロライブ/赤井はあと】\nhttps://www.youtube.com/watch?v=ZauljbGNM70
@@ -326,11 +130,11 @@ SUMMARY:🍎アキロゼ: 【APEX】アーニャ、こんちゃんとフルパ�
 UID:EOLW5X2wfzc
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:全員ドッペルゲンガーで開幕終わるVtuber　#shorts #戌神ころね\nhttps://www.youtube.com/watch?v=OitKZaMyRbo
+DESCRIPTION:【OHAPOL】#142 1/26日曜日！もうすぐ誕生日のニチアサ！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=FriZAgxe23k
 DURATION:PT2H
-DTSTART:20250125T080016Z
-SUMMARY:🥐戌神ころね: 全員ドッペルゲンガーで開幕終わるVtuber　#shorts #戌神ころね
-UID:OitKZaMyRbo
+DTSTART:20250125T210000Z
+SUMMARY:尾丸ポルカ: 【OHAPOL】#142 1/26日曜日！もうすぐ誕生日のニチアサ！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】
+UID:FriZAgxe23k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 首都高バトル 】お　ま　た　せ【角巻わため/ホロライブ４期生】※ネタバレあり\nhttps://www.youtube.com/watch?v=UC3R_IT_Aqw
@@ -347,39 +151,11 @@ SUMMARY:🤖ロボ子さん: 早く負けすぎたみむかｩわナイストラ
 UID:CkS6zI4nrKQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:沙花叉に開かずの間を見せてみるロボ子さん#ホロライブ #vtuber  #切り抜き #沙花叉クロヱ #ロボ子さん\nhttps://www.youtube.com/watch?v=GNx0_LEwXuo
-DURATION:PT2H
-DTSTART:20250125T010015Z
-SUMMARY:🤖ロボ子さん: 沙花叉に開かずの間を見せてみるロボ子さん#ホロライブ #vtuber  #切り抜き #沙花叉クロヱ #ロボ子さん
-UID:GNx0_LEwXuo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 ゼノブレイド 】完全初見で参る参る～～ #04【 猫又おかゆ/ホロライブ 】\nhttps://www.youtube.com/watch?v=6r5qZ9aF8AQ
-DURATION:PT2H
-DTSTART:20250125T040000Z
-SUMMARY:🍙猫又おかゆ: 【 ゼノブレイド 】完全初見で参る参る～～ #04【 猫又おかゆ/ホロライブ 】
-UID:6r5qZ9aF8AQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【ELDEN RING DLC】#02 獅子舞🦁つよい；；ぜったい倒すマン！！初見エルデンリング！！！【天音かなた/ホロライブ】\nhttps://www.youtube.com/watch?v=vJHNzSiVUcw
-DURATION:PT2H
-DTSTART:20250125T100000Z
-SUMMARY:💫天音かなた: 【ELDEN RING DLC】#02 獅子舞🦁つよい；；ぜったい倒すマン！！初見エルデンリング！！！【天音かなた/ホロライブ】
-UID:vJHNzSiVUcw
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 Fast Food Simulator 】ホロナルド開店‼みんなで悪夢でも客の帰らない店にするぜ！！！！！🍟【ホロライブ/さくらみこ】\nhttps://www.youtube.com/watch?v=wpx3XgNeu5I
 DURATION:PT2H
 DTSTART:20250126T130000Z
 SUMMARY:🌸さくらみこ: 【 Fast Food Simulator 】ホロナルド開店‼みんなで悪夢でも客の帰らない店にするぜ！！！！！🍟【ホロライブ/さくらみこ】
 UID:wpx3XgNeu5I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:おやすみ泣き声、さよなら歌姫-クリープハイプ #cover\nhttps://www.youtube.com/watch?v=YgV7aOGs0UQ
-DURATION:PT2H
-DTSTART:20250125T090729Z
-SUMMARY:ラプラス: おやすみ泣き声、さよなら歌姫-クリープハイプ #cover
-UID:YgV7aOGs0UQ
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ブラジルの人！聞こえてますかー！！【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=0Qxy5uN1hoQ
@@ -396,18 +172,18 @@ SUMMARY:🔥不知火フレア: 【歌枠】昼活！懐かしいアニソンを
 UID:BadCLzkeJfQ
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【モンハンワールド】いよいよ大会本番だ！ おおはらMEN #チーム腕相撲WIN #ドズル社狩猟祭 Part9【ホロライブ/アキ・ローゼンタール】\nhttps://www.youtube.com/watch?v=XLQPaQvMUeE
+DESCRIPTION:すこしだけ話す【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=GP5cKWI5RjA
 DURATION:PT2H
-DTSTART:20250125T091500Z
-SUMMARY:🍎アキロゼ: 【モンハンワールド】いよいよ大会本番だ！ おおはらMEN #チーム腕相撲WIN #ドズル社狩猟祭 Part9【ホロライブ/アキ・ローゼンタール】
-UID:XLQPaQvMUeE
+DTSTART:20250126T132000Z
+SUMMARY:博衣こより: すこしだけ話す【博衣こより/ホロライブ】
+UID:GP5cKWI5RjA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ロマサガ2リメイク】難易度オリジナル完全初見！ロマンシングサガ2 リベンジオブザセブン最終回！！！ #10 【博衣こより/ホロライブ】【ネタバレあり】\nhttps://www.youtube.com/watch?v=7JyMxK34_5A
+DESCRIPTION:【ロマサガ2リメイク】2周目難易度ロマンシングでお試ししてみる！！～ロマンシングサガ2 リベンジオブザセブン～ #1 【博衣こより/ホロライブ】【ネタバレあり】\nhttps://www.youtube.com/watch?v=qlg-VGZFDL4
 DURATION:PT2H
-DTSTART:20250125T020000Z
-SUMMARY:博衣こより: 【ロマサガ2リメイク】難易度オリジナル完全初見！ロマンシングサガ2 リベンジオブザセブン最終回！！！ #10 【博衣こより/ホロライブ】【ネタバレあり】
-UID:7JyMxK34_5A
+DTSTART:20250126T020000Z
+SUMMARY:博衣こより: 【ロマサガ2リメイク】2周目難易度ロマンシングでお試ししてみる！！～ロマンシングサガ2 リベンジオブザセブン～ #1 【博衣こより/ホロライブ】【ネタバレあり】
+UID:qlg-VGZFDL4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ネタバレあり】FINAL FANTASY Ⅵ～サブストーリー見る！！～【ホロライブ/ときのそら】\nhttps://www.youtube.com/watch?v=giWaCSmxb0Y
@@ -424,11 +200,11 @@ SUMMARY:雪花ラミィ: やる気150％でノー筋肉！ノーライフ！ #ho
 UID:BBqb620AJaA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:すこしだけ話す【博衣こより/ホロライブ】\nhttps://www.youtube.com/watch?v=GP5cKWI5RjA
+DESCRIPTION:【メン限】ふつうの雑談ショート【尾丸ポルカ/ホロライブ】\nhttps://www.youtube.com/watch?v=IHROS99uVDM
 DURATION:PT2H
-DTSTART:20250126T132000Z
-SUMMARY:博衣こより: すこしだけ話す【博衣こより/ホロライブ】
-UID:GP5cKWI5RjA
+DTSTART:20250126T130500Z
+SUMMARY:尾丸ポルカ: 【メン限】ふつうの雑談ショート【尾丸ポルカ/ホロライブ】
+UID:IHROS99uVDM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 #朝ミオ 】１月最後のおはみぉーん☀月曜日だよ～！\nhttps://www.youtube.com/watch?v=DI1JGq2Yk_g
@@ -452,6 +228,13 @@ SUMMARY:⚔白銀ノエル: 【朝活雑談】おはまっするさんでー💪
 UID:B-0Wg8b8emI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Colorful Universe / 大神ミオ (official)\nhttps://www.youtube.com/watch?v=NXIDznszQhA
+DURATION:PT2H
+DTSTART:20250126T110000Z
+SUMMARY:🌲大神ミオ: Colorful Universe / 大神ミオ (official)
+UID:NXIDznszQhA
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 ごちそうさまでした 】沙花叉クロヱ卒業ライブ【ホロライブ/沙花叉クロヱ】\nhttps://www.youtube.com/watch?v=F9lbxgimNIE
 DURATION:PT2H
 DTSTART:20250126T120000Z
@@ -459,11 +242,11 @@ SUMMARY:沙花叉クロヱ: 【 ごちそうさまでした 】沙花叉クロ�
 UID:F9lbxgimNIE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ウーバーシープです！迷子です！【 #今日のわため 】 #shorts #hololive #vtuber\nhttps://www.youtube.com/watch?v=AAjXNtkz--s
+DESCRIPTION:【 ドラクエⅩ ver.2 】完全初見。オフライン版✨真のアラハギーロ王国とセレドの町の解決へ！【鷹嶺ルイ/ホロライブ】※ネタバレあり\nhttps://www.youtube.com/watch?v=pdjCuN6TKjw
 DURATION:PT2H
-DTSTART:20250124T210010Z
-SUMMARY:🐏角巻わため: ウーバーシープです！迷子です！【 #今日のわため 】 #shorts #hololive #vtuber
-UID:AAjXNtkz--s
+DTSTART:20250126T030000Z
+SUMMARY:鷹嶺ルイ: 【 ドラクエⅩ ver.2 】完全初見。オフライン版✨真のアラハギーロ王国とセレドの町の解決へ！【鷹嶺ルイ/ホロライブ】※ネタバレあり
+UID:pdjCuN6TKjw
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Member Only】ろぼちゃの日曜むーびー❣🎬映画『ジオストーム』 同時視聴🍿\nhttps://www.youtube.com/watch?v=0S3sEpmjLOU
@@ -473,11 +256,11 @@ SUMMARY:🤖ロボ子さん: 【Member Only】ろぼちゃの日曜むーびー�
 UID:0S3sEpmjLOU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【クリア耐久】はじめてのカービィ６４！ぺこ！【ホロライブ/兎田ぺこら】\nhttps://www.youtube.com/watch?v=C8o8hfdaQlE
+DESCRIPTION:【 Fast Food Simulator 】ナイトメア編はじまる..！！！【角巻わため/ホロライブ４期生】\nhttps://www.youtube.com/watch?v=ZHdCNPRjsVI
 DURATION:PT2H
-DTSTART:20250125T120000Z
-SUMMARY:👯兎田ぺこら: 【クリア耐久】はじめてのカービィ６４！ぺこ！【ホロライブ/兎田ぺこら】
-UID:C8o8hfdaQlE
+DTSTART:20250126T130000Z
+SUMMARY:🐏角巻わため: 【 Fast Food Simulator 】ナイトメア編はじまる..！！！【角巻わため/ホロライブ４期生】
+UID:ZHdCNPRjsVI
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 首都高バトル 】ゴールド免許のねねが行く、首都高ドライブデートの旅【 桃鈴ねね / hololive 】ネタバレ注意！\nhttps://www.youtube.com/watch?v=OzrWm76qV74
@@ -487,6 +270,13 @@ SUMMARY:桃鈴ねね: 【 首都高バトル 】ゴールド免許のねねが�
 UID:OzrWm76qV74
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【メンバー限定】いちゃいちゃASMR【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=z2PNiOs0l-M
+DURATION:PT2H
+DTSTART:20250127T111500Z
+SUMMARY:🏮夏色まつり: 【メンバー限定】いちゃいちゃASMR【ホロライブ/夏色まつり】
+UID:z2PNiOs0l-M
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:角巻わため 2nd EP Mini Album『WHAT A MESS!!!』Track02：Revival　#shorts\nhttps://www.youtube.com/watch?v=RlV21Z803_Y
 DURATION:PT2H
 DTSTART:20250126T100031Z
@@ -494,10 +284,17 @@ SUMMARY:🐏角巻わため: 角巻わため 2nd EP Mini Album『WHAT A MESS!!!�
 UID:RlV21Z803_Y
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Thief Simulator 2】警察に捕まりたくないので見逃してください。怪盗F【ホロライブ/白上フブキ】\nhttps://www.youtube.com/watch?v=Ms9hRvHR8n0
+DESCRIPTION:【ASMR】メン限お試しいちゃいちゃASMR【ホロライブ/夏色まつり】\nhttps://www.youtube.com/watch?v=ed7dCfg9sGg
 DURATION:PT2H
-DTSTART:20250125T140000Z
-SUMMARY:🌽白上フブキ: 【Thief Simulator 2】警察に捕まりたくないので見逃してください。怪盗F【ホロライブ/白上フブキ】
-UID:Ms9hRvHR8n0
+DTSTART:20250127T110000Z
+SUMMARY:🏮夏色まつり: 【ASMR】メン限お試しいちゃいちゃASMR【ホロライブ/夏色まつり】
+UID:ed7dCfg9sGg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Fast Food Simulator】俺達が経営する最強のHAMBURGERショップ🍔その６【#ホロナルド】\nhttps://www.youtube.com/watch?v=gOu-Gs836eU
+DURATION:PT2H
+DTSTART:20250126T130000Z
+SUMMARY:🌽白上フブキ: 【Fast Food Simulator】俺達が経営する最強のHAMBURGERショップ🍔その６【#ホロナルド】
+UID:gOu-Gs836eU
 END:VEVENT
 END:VCALENDAR
