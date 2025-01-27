@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【M.M.M. / Monday Morning Malas】I am back !!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=-Hve0zHrK_I
+DURATION:PT2H
+DTSTART:20250127T033000Z
+SUMMARY:🐿Risu: 【M.M.M. / Monday Morning Malas】I am back !!!!【Ayunda Risu】
+UID:-Hve0zHrK_I
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【APEX Legends】APEX Full Party! えぺフルパ！赤ちゃんからキッズになりましたよろしくお願いします。 【hololive ID | Anya Melfissa】\nhttps://www.youtube.com/watch?v=W4rsZPuaoFs
 DURATION:PT2H
 DTSTART:20250126T130000Z
@@ -11,11 +18,11 @@ SUMMARY:Anya: 【APEX Legends】APEX Full Party! えぺフルパ！赤ちゃん�
 UID:W4rsZPuaoFs
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:That time Reine was a translator  #pavoliareine #hololiveindonesia  #hololive\nhttps://www.youtube.com/watch?v=wGnTiHVoiqA
+DESCRIPTION:【ZOMILY】LISTENING TO YOUR WORRIES!!【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=gdfsyFIolbo
 DURATION:PT2H
-DTSTART:20250126T100055Z
-SUMMARY:Reine: That time Reine was a translator  #pavoliareine #hololiveindonesia  #hololive
-UID:wGnTiHVoiqA
+DTSTART:20250126T130000Z
+SUMMARY:Ollie: 【ZOMILY】LISTENING TO YOUR WORRIES!!【Kureiji Ollie】
+UID:gdfsyFIolbo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Freetalk】I just finished all my work(so far)【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=H_RNV1Q9oyU
@@ -25,10 +32,10 @@ SUMMARY:🔮Moona: 【Freetalk】I just finished all my work(so far)【Moona Hos
 UID:H_RNV1Q9oyU
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ZOMILY】LISTENING TO YOUR WORRIES!!【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=gdfsyFIolbo
+DESCRIPTION:That time Reine was a translator  #pavoliareine #hololiveindonesia  #hololive\nhttps://www.youtube.com/watch?v=wGnTiHVoiqA
 DURATION:PT2H
-DTSTART:20250126T130000Z
-SUMMARY:Ollie: 【ZOMILY】LISTENING TO YOUR WORRIES!!【Kureiji Ollie】
-UID:gdfsyFIolbo
+DTSTART:20250126T100055Z
+SUMMARY:Reine: That time Reine was a translator  #pavoliareine #hololiveindonesia  #hololive
+UID:wGnTiHVoiqA
 END:VEVENT
 END:VCALENDAR
