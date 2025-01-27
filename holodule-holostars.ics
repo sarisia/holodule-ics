@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【漢字でGO! 集英社マンガ祭】問題追加されたからやっていく【荒咬オウガ /ホロスターズ】\nhttps://www.youtube.com/watch?v=w3zkliUp79w
-DURATION:PT2H
-DTSTART:20250126T130000Z
-SUMMARY:荒咬オウガ: 【漢字でGO! 集英社マンガ祭】問題追加されたからやっていく【荒咬オウガ /ホロスターズ】
-UID:w3zkliUp79w
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【League of Legends】早朝の視聴者参加型LoL / アステル\nhttps://www.youtube.com/watch?v=iBNwKFCeBYM
-DURATION:PT2H
-DTSTART:20250125T193000Z
-SUMMARY:🎭アステル・レダ: 【League of Legends】早朝の視聴者参加型LoL / アステル
-UID:iBNwKFCeBYM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 オフコラボ l KARAOKE 】バレンタイングッズ出ます！ラブソング多めで3人で歌う🎙️ w/イヅルさん・アステルさん【 水無世燐央 l ホロスターズ l UPROAR!! 】#vtuber\nhttps://www.youtube.com/watch?v=Gr9EoWRzHNg
 DURATION:PT2H
 DTSTART:20250127T100000Z
@@ -32,18 +18,32 @@ SUMMARY:🍷夕刻ロベル: 【雑談】1月がもう少しで終わるらし�
 UID:bG1udsLQddw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【大神】#5 大神新作の為に予習するぞ!!【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=TZ9h2gKhJt4
-DURATION:PT2H
-DTSTART:20250126T090000Z
-SUMMARY:🌺花咲みやび: 【大神】#5 大神新作の為に予習するぞ!!【花咲みやび/ホロスターズ】
-UID:TZ9h2gKhJt4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Cursed Digicam | 呪われたデジカメ】恐ろしいなぁ【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=DVjxCECKzHs
 DURATION:PT2H
 DTSTART:20250128T080000Z
 SUMMARY:🍷夕刻ロベル: 【Cursed Digicam | 呪われたデジカメ】恐ろしいなぁ【夕刻ロベル/ホロスターズ】
 UID:DVjxCECKzHs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MiSide : ミサイド】美少女ホラーって聞きました【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=LddP-sL02jU
+DURATION:PT2H
+DTSTART:20250127T040000Z
+SUMMARY:🍷夕刻ロベル: 【MiSide : ミサイド】美少女ホラーって聞きました【夕刻ロベル/ホロスターズ】
+UID:LddP-sL02jU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メン限】ガチ短時間雑談\nhttps://www.youtube.com/watch?v=b0waXpA18Cc
+DURATION:PT2H
+DTSTART:20250126T153000Z
+SUMMARY:🎸奏手イヅル: 【メン限】ガチ短時間雑談
+UID:b0waXpA18Cc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロスタ占い】ゆるっと！ホロスタ占い【#水無世燐央】\nhttps://www.youtube.com/watch?v=ZU7wilJWL_g
+DURATION:PT2H
+DTSTART:20250127T040020Z
+SUMMARY:ホロスターズ: 【#ホロスタ占い】ゆるっと！ホロスタ占い【#水無世燐央】
+UID:ZU7wilJWL_g
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【花岸れいでぃお】第70回！足が冷たくて仕方がない朝【岸堂天真/花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=9W7XPTtmX8s
@@ -65,54 +65,5 @@ DURATION:PT2H
 DTSTART:20250127T120000Z
 SUMMARY:🍷夕刻ロベル: 【#ロベルないとめあ】新年あけましておめでとうの挨拶をする我々【夕刻ロベル/神楽めあ】
 UID:L4r1WkzMiHI
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【カラオケ歌枠】カラオケへの恐怖を克服【 奏手イヅル / ホロスターズ 】\nhttps://www.youtube.com/watch?v=Chx1wN0styA
-DURATION:PT2H
-DTSTART:20250126T130000Z
-SUMMARY:🎸奏手イヅル: 【カラオケ歌枠】カラオケへの恐怖を克服【 奏手イヅル / ホロスターズ 】
-UID:Chx1wN0styA
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MiSide -ミサイド-】ガチで女絡みいらん卍 一途極み乙女   / アステル\nhttps://www.youtube.com/watch?v=nnARkvHjSoY
-DURATION:PT2H
-DTSTART:20250126T050000Z
-SUMMARY:🎭アステル・レダ: 【MiSide -ミサイド-】ガチで女絡みいらん卍 一途極み乙女   / アステル
-UID:nnARkvHjSoY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MiSide : ミサイド】美少女ホラーって聞きました【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=LddP-sL02jU
-DURATION:PT2H
-DTSTART:20250127T040000Z
-SUMMARY:🍷夕刻ロベル: 【MiSide : ミサイド】美少女ホラーって聞きました【夕刻ロベル/ホロスターズ】
-UID:LddP-sL02jU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 Minecraft 1ブロック 】マイクラベイビー達と孤島で生きる！ #放課後アップロー w/封魔・烏有【 水無世燐央 l UPROAR!! 】\nhttps://www.youtube.com/watch?v=5X_TJ5nLo5M
-DURATION:PT2H
-DTSTART:20250126T050000Z
-SUMMARY:水無世燐央: 【 Minecraft 1ブロック 】マイクラベイビー達と孤島で生きる！ #放課後アップロー w/封魔・烏有【 水無世燐央 l UPROAR!! 】
-UID:5X_TJ5nLo5M
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【メン限】ガチ短時間雑談\nhttps://www.youtube.com/watch?v=b0waXpA18Cc
-DURATION:PT2H
-DTSTART:20250126T153000Z
-SUMMARY:🎸奏手イヅル: 【メン限】ガチ短時間雑談
-UID:b0waXpA18Cc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロスタ占い】ゆるっと！ホロスタ占い【#水無世燐央】\nhttps://www.youtube.com/watch?v=ZU7wilJWL_g
-DURATION:PT2H
-DTSTART:20250127T040020Z
-SUMMARY:ホロスターズ: 【#ホロスタ占い】ゆるっと！ホロスタ占い【#水無世燐央】
-UID:ZU7wilJWL_g
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【メン限】マダミスつくるか。 / アステル\nhttps://www.youtube.com/watch?v=xf-Mna4dZf0
-DURATION:PT2H
-DTSTART:20250125T170135Z
-SUMMARY:🎭アステル・レダ: 【メン限】マダミスつくるか。 / アステル
-UID:xf-Mna4dZf0
 END:VEVENT
 END:VCALENDAR
