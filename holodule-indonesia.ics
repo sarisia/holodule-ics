@@ -4,48 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【M.M.M. / Monday Morning Malas】I am back !!!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=-Hve0zHrK_I
-DURATION:PT2H
-DTSTART:20250127T033000Z
-SUMMARY:🐿Risu: 【M.M.M. / Monday Morning Malas】I am back !!!!【Ayunda Risu】
-UID:-Hve0zHrK_I
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Senin Produktif】YAP YAP YAP AND DRAW【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=ZxwlOfpMOLw
-DURATION:PT2H
-DTSTART:20250127T140000Z
-SUMMARY:🎨Iofi: 【Senin Produktif】YAP YAP YAP AND DRAW【 iofi / hololiveID 】
-UID:ZxwlOfpMOLw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Freetalk】I just finished all my work(so far)【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=H_RNV1Q9oyU
-DURATION:PT2H
-DTSTART:20250126T155000Z
-SUMMARY:🔮Moona: 【Freetalk】I just finished all my work(so far)【Moona Hoshinova】
-UID:H_RNV1Q9oyU
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MiSide】How Many More Mitas Will We Encounter? 【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=FwGyOuan0Xw
-DURATION:PT2H
-DTSTART:20250129T120000Z
-SUMMARY:Anya: 【MiSide】How Many More Mitas Will We Encounter? 【hololive ID 2nd Generation | Anya Melfissa】
-UID:FwGyOuan0Xw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:That time with Reine and Iofi and platypuses   #pavoliareine #hololiveindonesia #holoid  #pavoiofi\nhttps://www.youtube.com/watch?v=1hZZnIf1XWo
-DURATION:PT2H
-DTSTART:20250128T100002Z
-SUMMARY:Reine: That time with Reine and Iofi and platypuses   #pavoliareine #hololiveindonesia #holoid  #pavoiofi
-UID:1hZZnIf1XWo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Project Zomboid】*rips every single zombies clothes*\nhttps://www.youtube.com/watch?v=yeouBPLsXHk
-DURATION:PT2H
-DTSTART:20250128T100000Z
-SUMMARY:Zeta: 【Project Zomboid】*rips every single zombies clothes*
-UID:yeouBPLsXHk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Tokyo Xtreme Racer】DEJA VU!!!!!! NGEEEENG【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=QefW6SMNIPw
 DURATION:PT2H
 DTSTART:20250128T130000Z
@@ -65,5 +23,26 @@ DURATION:PT2H
 DTSTART:20250128T130000Z
 SUMMARY:Ollie: 【MINECRAFT - SOLO】DESIGNING AND PLANNING WHAT TO BUILD【Kureiji Ollie】
 UID:oWJDh7rIKPs
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Project Zomboid】*rips every single zombies clothes*\nhttps://www.youtube.com/watch?v=yeouBPLsXHk
+DURATION:PT2H
+DTSTART:20250128T100000Z
+SUMMARY:Zeta: 【Project Zomboid】*rips every single zombies clothes*
+UID:yeouBPLsXHk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【MiSide】How Many More Mitas Will We Encounter? 【hololive ID 2nd Generation | Anya Melfissa】\nhttps://www.youtube.com/watch?v=FwGyOuan0Xw
+DURATION:PT2H
+DTSTART:20250129T120000Z
+SUMMARY:Anya: 【MiSide】How Many More Mitas Will We Encounter? 【hololive ID 2nd Generation | Anya Melfissa】
+UID:FwGyOuan0Xw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:That time with Reine and Iofi and platypuses   #pavoliareine #hololiveindonesia #holoid  #pavoiofi\nhttps://www.youtube.com/watch?v=1hZZnIf1XWo
+DURATION:PT2H
+DTSTART:20250128T100002Z
+SUMMARY:Reine: That time with Reine and Iofi and platypuses   #pavoliareine #hololiveindonesia #holoid  #pavoiofi
+UID:1hZZnIf1XWo
 END:VEVENT
 END:VCALENDAR
