@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【雑談】風邪引いてた話。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=eS3LaV2X2JM
-DURATION:PT2H
-DTSTART:20250130T123000Z
-SUMMARY:🌺花咲みやび: 【雑談】風邪引いてた話。【花咲みやび/ホロスターズ】
-UID:eS3LaV2X2JM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【龍が如く6 命の詩。】初見で挑む『龍が如く6 命の詩。』　3日目【夕刻ロベル/ホロスターズ】※ネタバレあり\nhttps://www.youtube.com/watch?v=htnaAppA8aA
 DURATION:PT2H
 DTSTART:20250131T040000Z
 SUMMARY:🍷夕刻ロベル: 【龍が如く6 命の詩。】初見で挑む『龍が如く6 命の詩。』　3日目【夕刻ロベル/ホロスターズ】※ネタバレあり
 UID:htnaAppA8aA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】風邪引いてた話。【花咲みやび/ホロスターズ】\nhttps://www.youtube.com/watch?v=eS3LaV2X2JM
+DURATION:PT2H
+DTSTART:20250130T123000Z
+SUMMARY:🌺花咲みやび: 【雑談】風邪引いてた話。【花咲みやび/ホロスターズ】
+UID:eS3LaV2X2JM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【歌枠】メンバー限定でしっとりと歌います。\nhttps://www.youtube.com/watch?v=u_h9CBaRAYU
@@ -128,5 +128,12 @@ DURATION:PT2H
 DTSTART:20250130T040000Z
 SUMMARY:🎸奏手イヅル: 【Terraria - ゆかそ】久しぶりの我々のテラリア【 奏手イヅル / ホロスターズ 】
 UID:NmxsiDjPZdE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 あつまれ どうぶつの森 】 睡眠導入の森【 奏手イヅル / ホロスターズ 】\nhttps://www.youtube.com/watch?v=U5mOj2jarn8
+DURATION:PT2H
+DTSTART:20250131T143000Z
+SUMMARY:🎸奏手イヅル: 【 あつまれ どうぶつの森 】 睡眠導入の森【 奏手イヅル / ホロスターズ 】
+UID:U5mOj2jarn8
 END:VEVENT
 END:VCALENDAR
