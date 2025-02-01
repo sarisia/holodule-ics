@@ -4,18 +4,32 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【I dont Fall】just one big zenloss to end the stream 🤞【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=JuiKJRKk0ME
-DURATION:PT2H
-DTSTART:20250131T131500Z
-SUMMARY:Kaela: 【I dont Fall】just one big zenloss to end the stream 🤞【Kaela Kovalskia / hololiveID】
-UID:JuiKJRKk0ME
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Prisuners Night】HEWROO !!!【Ayunda Risu】\nhttps://www.youtube.com/watch?v=jyunw6masYU
 DURATION:PT2H
 DTSTART:20250131T130000Z
 SUMMARY:🐿Risu: 【Prisuners Night】HEWROO !!!【Ayunda Risu】
 UID:jyunw6masYU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Watchalong/同時視聴】Suisei Senpai's 日本武道館 Live "SuperNova" 【#かけめぐるほしまち】\nhttps://www.youtube.com/watch?v=DrjaPwsgp30
+DURATION:PT2H
+DTSTART:20250201T085000Z
+SUMMARY:Zeta: 【Watchalong/同時視聴】Suisei Senpai's 日本武道館 Live "SuperNova" 【#かけめぐるほしまち】
+UID:DrjaPwsgp30
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:That time with Reine and the 47 Prefectures  #pavoliareine #hololiveindonesia #holoid #hololive\nhttps://www.youtube.com/watch?v=u7hy_YnqqNk
+DURATION:PT2H
+DTSTART:20250130T220045Z
+SUMMARY:Reine: That time with Reine and the 47 Prefectures  #pavoliareine #hololiveindonesia #holoid #hololive
+UID:u7hy_YnqqNk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【I dont Fall】just one big zenloss to end the stream 🤞【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=JuiKJRKk0ME
+DURATION:PT2H
+DTSTART:20250131T131500Z
+SUMMARY:Kaela: 【I dont Fall】just one big zenloss to end the stream 🤞【Kaela Kovalskia / hololiveID】
+UID:JuiKJRKk0ME
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:DON'T LET ME GO UNTIL I FINISH MY PROJECT\nhttps://www.youtube.com/watch?v=-bdQtUYT6Dg
@@ -44,12 +58,5 @@ DURATION:PT2H
 DTSTART:20250201T130000Z
 SUMMARY:🎨Iofi: 【 GEOMETRY DASH 】Playing With Music【 iofi / hololiveID 】
 UID:BHLqJV1eJYg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:That time with Reine and the 47 Prefectures  #pavoliareine #hololiveindonesia #holoid #hololive\nhttps://www.youtube.com/watch?v=u7hy_YnqqNk
-DURATION:PT2H
-DTSTART:20250130T220045Z
-SUMMARY:Reine: That time with Reine and the 47 Prefectures  #pavoliareine #hololiveindonesia #holoid #hololive
-UID:u7hy_YnqqNk
 END:VEVENT
 END:VCALENDAR
