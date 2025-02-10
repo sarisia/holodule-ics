@@ -4,11 +4,60 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【モンスターハンター：ワールド アイスボーン】姫、ついに一人立ち。感動ストーリー   / アステル\nhttps://www.youtube.com/watch?v=fO1Zlpx4rAw
+DURATION:PT2H
+DTSTART:20250210T043000Z
+SUMMARY:🎭アステル・レダ: 【モンスターハンター：ワールド アイスボーン】姫、ついに一人立ち。感動ストーリー   / アステル
+UID:fO1Zlpx4rAw
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロスタDUORUST】Team Can☆Cer アステル視点 / ホロスターズ\nhttps://www.youtube.com/watch?v=dFBkEAWIFjI
+DURATION:PT2H
+DTSTART:20250209T090000Z
+SUMMARY:🎭アステル・レダ: 【#ホロスタDUORUST】Team Can☆Cer アステル視点 / ホロスターズ
+UID:dFBkEAWIFjI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 RUST | #ホロスタDUORUST 】2日目！我ら猛き翔る幽獅牛、PON2人ー【 水無世燐央 l UPROAR!! 】\nhttps://www.youtube.com/watch?v=MguJNoE9vqg
+DURATION:PT2H
+DTSTART:20250210T090000Z
+SUMMARY:水無世燐央: 【 RUST | #ホロスタDUORUST 】2日目！我ら猛き翔る幽獅牛、PON2人ー【 水無世燐央 l UPROAR!! 】
+UID:MguJNoE9vqg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【#ホロスタDUORUST】チームモコモコズ！拠点作りがんばる！天真視点【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=wU9qAj7KgJk
+DURATION:PT2H
+DTSTART:20250209T090000Z
+SUMMARY:🦔💨岸堂天真: 【#ホロスタDUORUST】チームモコモコズ！拠点作りがんばる！天真視点【岸堂天真/ホロスターズ】
+UID:wU9qAj7KgJk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【雑談】すまんが雑談だわな【夕刻ロベル/ホロスターズ】\nhttps://www.youtube.com/watch?v=2osqa3H38nE
+DURATION:PT2H
+DTSTART:20250210T051000Z
+SUMMARY:🍷夕刻ロベル: 【雑談】すまんが雑談だわな【夕刻ロベル/ホロスターズ】
+UID:2osqa3H38nE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#1【RUST | #ホロスタDUORUST 】モコモコズいきます【律可/岸堂天真/ホロスターズ 】#りつすた\nhttps://www.youtube.com/watch?v=V1IUWtaKVAk
+DURATION:PT2H
+DTSTART:20250209T090000Z
+SUMMARY:⚙律可: #1【RUST | #ホロスタDUORUST 】モコモコズいきます【律可/岸堂天真/ホロスターズ 】#りつすた
+UID:V1IUWtaKVAk
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Rust】星の☆魚子さまっ♪マジ☆Rust1000％【影山シエン/#ホロスタDUORUST】\nhttps://www.youtube.com/watch?v=OeNoFUESAAc
 DURATION:PT2H
 DTSTART:20250209T100000Z
 SUMMARY:影山シエン: 【Rust】星の☆魚子さまっ♪マジ☆Rust1000％【影山シエン/#ホロスタDUORUST】
 UID:OeNoFUESAAc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【RUST】ユー・アー・ザ・プリンスオブ・フィッシュ【花咲みやび/影山シエン/ホロスターズ】【 #ホロスタDUORUST 】\nhttps://www.youtube.com/watch?v=CLi9AEHBbtY
+DURATION:PT2H
+DTSTART:20250209T090000Z
+SUMMARY:🌺花咲みやび: 【RUST】ユー・アー・ザ・プリンスオブ・フィッシュ【花咲みやび/影山シエン/ホロスターズ】【 #ホロスタDUORUST 】
+UID:CLi9AEHBbtY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロスタ占い】ゆるっと！ホロスタ占い【#アステル・レダ】\nhttps://www.youtube.com/watch?v=wzDs68Wb0rI
@@ -39,13 +88,6 @@ SUMMARY:🍕アルランディス: 【Murky Divers】海で行われる廃品回
 UID:G7XUsBqoaV0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【#ホロスタDUORUST】Team Can☆Cer アステル視点 / ホロスターズ\nhttps://www.youtube.com/watch?v=dFBkEAWIFjI
-DURATION:PT2H
-DTSTART:20250209T090000Z
-SUMMARY:🎭アステル・レダ: 【#ホロスタDUORUST】Team Can☆Cer アステル視点 / ホロスターズ
-UID:dFBkEAWIFjI
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 RUST | #ホロスタDUORUST 】初日！久々のRUST楽しむぞ〜〜！！我ら猛き翔る幽獅牛、略してたかし【 水無世燐央 l UPROAR!! 】\nhttps://www.youtube.com/watch?v=TcmpZYWBiJE
 DURATION:PT2H
 DTSTART:20250209T090000Z
@@ -53,39 +95,11 @@ SUMMARY:水無世燐央: 【 RUST | #ホロスタDUORUST 】初日！久々のRU
 UID:TcmpZYWBiJE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【モンスターハンター：ワールド アイスボーン】姫、ついに一人立ち。感動ストーリー   / アステル\nhttps://www.youtube.com/watch?v=fO1Zlpx4rAw
-DURATION:PT2H
-DTSTART:20250210T043000Z
-SUMMARY:🎭アステル・レダ: 【モンスターハンター：ワールド アイスボーン】姫、ついに一人立ち。感動ストーリー   / アステル
-UID:fO1Zlpx4rAw
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【 RUST | #ホロスタDUORUST 】2日目！我ら猛き翔る幽獅牛、PON2人ー【 水無世燐央 l UPROAR!! 】\nhttps://www.youtube.com/watch?v=MguJNoE9vqg
-DURATION:PT2H
-DTSTART:20250210T090000Z
-SUMMARY:水無世燐央: 【 RUST | #ホロスタDUORUST 】2日目！我ら猛き翔る幽獅牛、PON2人ー【 水無世燐央 l UPROAR!! 】
-UID:MguJNoE9vqg
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【#ホロスタDUORUST】チームモコモコズ！拠点作りがんばる！天真視点【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=wU9qAj7KgJk
-DURATION:PT2H
-DTSTART:20250209T090000Z
-SUMMARY:🦔💨岸堂天真: 【#ホロスタDUORUST】チームモコモコズ！拠点作りがんばる！天真視点【岸堂天真/ホロスターズ】
-UID:wU9qAj7KgJk
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【RUST】Can☆Cer 2日目！【 奏手イヅル / #ホロスタDUORUST 】\nhttps://www.youtube.com/watch?v=WnhWcbHp2Hk
 DURATION:PT2H
 DTSTART:20250210T090000Z
 SUMMARY:🎸奏手イヅル: 【RUST】Can☆Cer 2日目！【 奏手イヅル / #ホロスタDUORUST 】
 UID:WnhWcbHp2Hk
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#1【RUST | #ホロスタDUORUST 】モコモコズいきます【律可/岸堂天真/ホロスターズ 】#りつすた\nhttps://www.youtube.com/watch?v=V1IUWtaKVAk
-DURATION:PT2H
-DTSTART:20250209T090000Z
-SUMMARY:⚙律可: #1【RUST | #ホロスタDUORUST 】モコモコズいきます【律可/岸堂天真/ホロスターズ 】#りつすた
-UID:V1IUWtaKVAk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ストリートファイター6】久々の配信ファイター6 舞のこと気になってるけど気づいたら溜め入力してる編【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=7cgidHVR_RQ
@@ -100,12 +114,5 @@ DURATION:PT2H
 DTSTART:20250209T090000Z
 SUMMARY:🎸奏手イヅル: 【RUST】Can☆Cer 1日目！【 奏手イヅル / #ホロスタDUORUST 】
 UID:XT1JIYtACNs
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【RUST】ユー・アー・ザ・プリンスオブ・フィッシュ【花咲みやび/影山シエン/ホロスターズ】【 #ホロスタDUORUST 】\nhttps://www.youtube.com/watch?v=CLi9AEHBbtY
-DURATION:PT2H
-DTSTART:20250209T090000Z
-SUMMARY:🌺花咲みやび: 【RUST】ユー・アー・ザ・プリンスオブ・フィッシュ【花咲みやび/影山シエン/ホロスターズ】【 #ホロスタDUORUST 】
-UID:CLi9AEHBbtY
 END:VEVENT
 END:VCALENDAR
