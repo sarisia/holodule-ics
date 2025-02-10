@@ -4,20 +4,6 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT】a rare minecraft stream...! let's make a cafe!【ZetaRiri】\nhttps://www.youtube.com/watch?v=zkTMns1luys
-DURATION:PT2H
-DTSTART:20250209T110000Z
-SUMMARY:Zeta: 【MINECRAFT】a rare minecraft stream...! let's make a cafe!【ZetaRiri】
-UID:zkTMns1luys
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Pokemon Game Kartu Koleksi】Girl's Day Out! Main bareng Kak Greesel dan Kak Marsha!!!\nhttps://www.youtube.com/watch?v=poexTn79AbM
-DURATION:PT2H
-DTSTART:20250210T120000Z
-SUMMARY:Kobo: 【Pokemon Game Kartu Koleksi】Girl's Day Out! Main bareng Kak Greesel dan Kak Marsha!!!
-UID:poexTn79AbM
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【Membership】We're not playing or watching\, just talking【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=aKhVaB28wRw
 DURATION:PT2H
 DTSTART:20250208T160000Z
@@ -25,18 +11,11 @@ SUMMARY:🔮Moona: 【Membership】We're not playing or watching\, just talking�
 UID:aKhVaB28wRw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【ZOMILY + POSSIBLY ZOMBRUT IDK HEHE】 WHAT A WEEK【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=cHvEVvF-7OQ
+DESCRIPTION:【MINECRAFT】a rare minecraft stream...! let's make a cafe!【ZetaRiri】\nhttps://www.youtube.com/watch?v=zkTMns1luys
 DURATION:PT2H
-DTSTART:20250209T130000Z
-SUMMARY:Ollie: 【ZOMILY + POSSIBLY ZOMBRUT IDK HEHE】 WHAT A WEEK【Kureiji Ollie】
-UID:cHvEVvF-7OQ
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【Honor of Kings】NEW SUPPORT!【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=IzyepbJjmh8
-DURATION:PT2H
-DTSTART:20250209T080000Z
-SUMMARY:🎨Iofi: 【Honor of Kings】NEW SUPPORT!【 iofi / hololiveID 】
-UID:IzyepbJjmh8
+DTSTART:20250209T110000Z
+SUMMARY:Zeta: 【MINECRAFT】a rare minecraft stream...! let's make a cafe!【ZetaRiri】
+UID:zkTMns1luys
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT - HOLOLIVE NEW SERVER】ANOTHER PEACEFUL DAY IN MINECRAFT~【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=dUpv7EwgGKQ
@@ -51,5 +30,40 @@ DURATION:PT2H
 DTSTART:20250208T163000Z
 SUMMARY:🎨Iofi: 【 MONSTER HUNTER WILDS 】OPEN BETA?!【 iofi / hololiveID 】
 UID:i_slcAsHvuQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Pokemon Game Kartu Koleksi】Girl's Day Out! Main bareng Kak Greesel dan Kak Marsha!!!\nhttps://www.youtube.com/watch?v=poexTn79AbM
+DURATION:PT2H
+DTSTART:20250210T120000Z
+SUMMARY:Kobo: 【Pokemon Game Kartu Koleksi】Girl's Day Out! Main bareng Kak Greesel dan Kak Marsha!!!
+UID:poexTn79AbM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Fast Food Simulator】a successful ID franchise.【hololiveID】\nhttps://www.youtube.com/watch?v=5ebMKWHPjKg
+DURATION:PT2H
+DTSTART:20250210T130000Z
+SUMMARY:Kaela: 【Fast Food Simulator】a successful ID franchise.【hololiveID】
+UID:5ebMKWHPjKg
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】to be able to chill and relax is a privilege【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=ZyLkp46_mSI
+DURATION:PT2H
+DTSTART:20250210T013000Z
+SUMMARY:Kaela: 【Minecraft】to be able to chill and relax is a privilege【Kaela Kovalskia / hololiveID】
+UID:ZyLkp46_mSI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【ZOMILY + POSSIBLY ZOMBRUT IDK HEHE】 WHAT A WEEK【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=cHvEVvF-7OQ
+DURATION:PT2H
+DTSTART:20250209T130000Z
+SUMMARY:Ollie: 【ZOMILY + POSSIBLY ZOMBRUT IDK HEHE】 WHAT A WEEK【Kureiji Ollie】
+UID:cHvEVvF-7OQ
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Honor of Kings】NEW SUPPORT!【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=IzyepbJjmh8
+DURATION:PT2H
+DTSTART:20250209T080000Z
+SUMMARY:🎨Iofi: 【Honor of Kings】NEW SUPPORT!【 iofi / hololiveID 】
+UID:IzyepbJjmh8
 END:VEVENT
 END:VCALENDAR
