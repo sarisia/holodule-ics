@@ -4,11 +4,46 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【League of Legends】第３回 近江牛杯 天ノ川ねるTeam IKZ / アステル 天ノ川ねる³ 狐白うる³ Eugeo³ 春場ねぎ³\nhttps://www.youtube.com/watch?v=Y7sQoL8i0PY
+DURATION:PT2H
+DTSTART:20250218T120000Z
+SUMMARY:🎭アステル・レダ: 【League of Legends】第３回 近江牛杯 天ノ川ねるTeam IKZ / アステル 天ノ川ねる³ 狐白うる³ Eugeo³ 春場ねぎ³
+UID:Y7sQoL8i0PY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メン限】夜に潜る雑談\nhttps://www.youtube.com/watch?v=n-Qpdsy1uGE
+DURATION:PT2H
+DTSTART:20250217T153000Z
+SUMMARY:🎸奏手イヅル: 【メン限】夜に潜る雑談
+UID:n-Qpdsy1uGE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#せつな祭3 練習会 - 夜十神封魔【STREET FIGHTER 6】\nhttps://www.youtube.com/watch?v=ozuAscfEXjk
+DURATION:PT2H
+DTSTART:20250217T100000Z
+SUMMARY:夜十神封魔: #せつな祭3 練習会 - 夜十神封魔【STREET FIGHTER 6】
+UID:ozuAscfEXjk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【スト６】目指せ High Master! MR1500~【岸堂天真/ホロスターズ】\nhttps://www.youtube.com/watch?v=HCmrmLNFYEE
+DURATION:PT2H
+DTSTART:20250218T090000Z
+SUMMARY:🦔💨岸堂天真: 【スト６】目指せ High Master! MR1500~【岸堂天真/ホロスターズ】
+UID:HCmrmLNFYEE
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【メン限】夜明けのギター【 水無世燐央 | UPROAR!! 】\nhttps://www.youtube.com/watch?v=BCD9UfKaBzY
 DURATION:PT2H
 DTSTART:20250217T200000Z
 SUMMARY:水無世燐央: 【メン限】夜明けのギター【 水無世燐央 | UPROAR!! 】
 UID:BCD9UfKaBzY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【真・三國無双 ORIGINS】初見で挑む『真・三國無双 ORIGINS』 1日目【夕刻ロベル/ホロスターズ】※ネタバレあり\nhttps://www.youtube.com/watch?v=O3Qrzr9QlDE
+DURATION:PT2H
+DTSTART:20250218T040000Z
+SUMMARY:🍷夕刻ロベル: 【真・三國無双 ORIGINS】初見で挑む『真・三國無双 ORIGINS』 1日目【夕刻ロベル/ホロスターズ】※ネタバレあり
+UID:O3Qrzr9QlDE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【#ホロスタ占い】ゆるっと！ホロスタ占い【#律可】\nhttps://www.youtube.com/watch?v=97cAP-J1UgU
@@ -39,32 +74,11 @@ SUMMARY:🍷夕刻ロベル: 【ボイス】ごめんちゃいボイス
 UID:Y6xWCN6sxUk
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【メン限】夜に潜る雑談\nhttps://www.youtube.com/watch?v=n-Qpdsy1uGE
-DURATION:PT2H
-DTSTART:20250217T153000Z
-SUMMARY:🎸奏手イヅル: 【メン限】夜に潜る雑談
-UID:n-Qpdsy1uGE
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【League of Legends】第３回 近江牛杯 天ノ川ねるTeam IKZ / アステル 天ノ川ねる³ 狐白うる³ Eugeo³ 春場ねぎ³\nhttps://www.youtube.com/watch?v=Y7sQoL8i0PY
-DURATION:PT2H
-DTSTART:20250218T120000Z
-SUMMARY:🎭アステル・レダ: 【League of Legends】第３回 近江牛杯 天ノ川ねるTeam IKZ / アステル 天ノ川ねる³ 狐白うる³ Eugeo³ 春場ねぎ³
-UID:Y7sQoL8i0PY
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:#せつな祭3 スクリム(vs乾ボンちゃん軍) - 夜十神封魔【STREET FIGHTER 6】\nhttps://www.youtube.com/watch?v=XrhCbtWmaC8
 DURATION:PT2H
 DTSTART:20250218T120000Z
 SUMMARY:夜十神封魔: #せつな祭3 スクリム(vs乾ボンちゃん軍) - 夜十神封魔【STREET FIGHTER 6】
 UID:XrhCbtWmaC8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#せつな祭3 練習会 - 夜十神封魔【STREET FIGHTER 6】\nhttps://www.youtube.com/watch?v=ozuAscfEXjk
-DURATION:PT2H
-DTSTART:20250217T100000Z
-SUMMARY:夜十神封魔: #せつな祭3 練習会 - 夜十神封魔【STREET FIGHTER 6】
-UID:ozuAscfEXjk
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【ストリートファイター6】トレモの設定したりとかバトルハブ行ったりとか【アルランディス/ホロスターズ】\nhttps://www.youtube.com/watch?v=3ES5UY0SKjY
@@ -86,13 +100,6 @@ DURATION:PT2H
 DTSTART:20250218T080000Z
 SUMMARY:🎭アステル・レダ: 【ボカロ縛り!! オフコラボでカラオケ!!】懐かしのあの曲から～ / アステル 奏手イヅル 影山シエン 律可 #ホロスターズ
 UID:wge5yL9D5LM
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【真・三國無双 ORIGINS】初見で挑む『真・三國無双 ORIGINS』 1日目【夕刻ロベル/ホロスターズ】※ネタバレあり\nhttps://www.youtube.com/watch?v=O3Qrzr9QlDE
-DURATION:PT2H
-DTSTART:20250218T040000Z
-SUMMARY:🍷夕刻ロベル: 【真・三國無双 ORIGINS】初見で挑む『真・三國無双 ORIGINS』 1日目【夕刻ロベル/ホロスターズ】※ネタバレあり
-UID:O3Qrzr9QlDE
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:オタクの ” ひとり〇〇難易度ランキング " 決めるぞ！！【 放課後アップロー / vtuber / ホロスターズ 】\nhttps://www.youtube.com/watch?v=t-RJGo-YEFk
