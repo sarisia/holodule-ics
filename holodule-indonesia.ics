@@ -4,18 +4,25 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:#3【Alisa】NO MORE BOGOS BINTED - Classic Late-90s Style Horror 【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=D9Lb-GsBEus
+DURATION:PT2H
+DTSTART:20250218T133000Z
+SUMMARY:Reine: #3【Alisa】NO MORE BOGOS BINTED - Classic Late-90s Style Horror 【Pavolia Reine/hololiveID 2nd gen】
+UID:D9Lb-GsBEus
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Moona First Album! 「PANDORA」\nhttps://www.youtube.com/watch?v=70HuSzHegdM
+DURATION:PT2H
+DTSTART:20250219T050229Z
+SUMMARY:🔮Moona: Moona First Album! 「PANDORA」
+UID:70HuSzHegdM
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Minecraft】What in this world?【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=BDE_q4LmLfo
 DURATION:PT2H
 DTSTART:20250218T140000Z
 SUMMARY:🔮Moona: 【Minecraft】What in this world?【Moona Hoshinova】
 UID:BDE_q4LmLfo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【MINECRAFT - OLD ID SERVER】GIVING CHIHAYA A TOUR AROUND THE OLD SERVER!!【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=AWS-iyv8Z2k
-DURATION:PT2H
-DTSTART:20250218T110000Z
-SUMMARY:Ollie: 【MINECRAFT - OLD ID SERVER】GIVING CHIHAYA A TOUR AROUND THE OLD SERVER!!【Kureiji Ollie】
-UID:AWS-iyv8Z2k
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Project Zomboid】bite the zombies before they bite you :D\nhttps://www.youtube.com/watch?v=4cs2WpveWHE
@@ -25,11 +32,11 @@ SUMMARY:Zeta: 【Project Zomboid】bite the zombies before they bite you :D
 UID:4cs2WpveWHE
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:#3【Alisa】NO MORE BOGOS BINTED - Classic Late-90s Style Horror 【Pavolia Reine/hololiveID 2nd gen】\nhttps://www.youtube.com/watch?v=D9Lb-GsBEus
+DESCRIPTION:【Marvel Rivals】SWEATY GAMING IN RANK【 iofi / hololiveID 】\nhttps://www.youtube.com/watch?v=auvc-hjPK8o
 DURATION:PT2H
-DTSTART:20250218T133000Z
-SUMMARY:Reine: #3【Alisa】NO MORE BOGOS BINTED - Classic Late-90s Style Horror 【Pavolia Reine/hololiveID 2nd gen】
-UID:D9Lb-GsBEus
+DTSTART:20250219T120000Z
+SUMMARY:🎨Iofi: 【Marvel Rivals】SWEATY GAMING IN RANK【 iofi / hololiveID 】
+UID:auvc-hjPK8o
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Marvel Rivals】trying new heroes !【Ayunda Risu】\nhttps://www.youtube.com/watch?v=Fc_euKPtNpA
@@ -46,10 +53,10 @@ SUMMARY:Ollie: 【MINECRAFT - HOLOLIVE NEW SERVER】FOR THE GOOD OF THE GUILD: L
 UID:Wzc-DPjGfcA
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Moona First Album! 「PANDORA」\nhttps://www.youtube.com/watch?v=70HuSzHegdM
+DESCRIPTION:【MINECRAFT - OLD ID SERVER】GIVING CHIHAYA A TOUR AROUND THE OLD SERVER!!【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=AWS-iyv8Z2k
 DURATION:PT2H
-DTSTART:20250219T050229Z
-SUMMARY:🔮Moona: Moona First Album! 「PANDORA」
-UID:70HuSzHegdM
+DTSTART:20250218T110000Z
+SUMMARY:Ollie: 【MINECRAFT - OLD ID SERVER】GIVING CHIHAYA A TOUR AROUND THE OLD SERVER!!【Kureiji Ollie】
+UID:AWS-iyv8Z2k
 END:VEVENT
 END:VCALENDAR
