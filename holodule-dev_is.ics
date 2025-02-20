@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】農婦の大冒険【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】\nhttps://www.youtube.com/watch?v=qsxlc0WMeHA
-DURATION:PT2H
-DTSTART:20250219T111500Z
-SUMMARY:綺々羅々ヴィヴィ: 【Minecraft】農婦の大冒険【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】
-UID:qsxlc0WMeHA
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【前代未聞】25万人耐久配信前に！？ありがとう【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】\nhttps://www.youtube.com/watch?v=lSOiDJCNRRU
 DURATION:PT2H
 DTSTART:20250219T090000Z
 SUMMARY:綺々羅々ヴィヴィ: 【前代未聞】25万人耐久配信前に！？ありがとう【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】
 UID:lSOiDJCNRRU
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【 Minecraft 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=hc5ayra56w4
+DURATION:PT2H
+DTSTART:20250220T100000Z
+SUMMARY:音乃瀬奏: 【 Minecraft 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS
+UID:hc5ayra56w4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【 Minecraft 】空を飛びたい！！～I believe I can fly～【音乃瀬奏】#hololiveDEV_IS #ReGLOSS\nhttps://www.youtube.com/watch?v=OxbkqU5vQNg
@@ -25,11 +25,11 @@ SUMMARY:音乃瀬奏: 【 Minecraft 】空を飛びたい！！～I believe I ca
 UID:OxbkqU5vQNg
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft 】今日はまったりダイヤ掘り【水宮枢／FLOW GLOW】#hololiveDEV_IS\nhttps://www.youtube.com/watch?v=bnIIF3Epznc
+DESCRIPTION:【Minecraft 】初オークション参加と倉庫作り【水宮枢／FLOW GLOW】#hololiveDEV_IS\nhttps://www.youtube.com/watch?v=KKNDI6sTpXU
 DURATION:PT2H
-DTSTART:20250219T143000Z
-SUMMARY:水宮枢: 【Minecraft 】今日はまったりダイヤ掘り【水宮枢／FLOW GLOW】#hololiveDEV_IS
-UID:bnIIF3Epznc
+DTSTART:20250220T120000Z
+SUMMARY:水宮枢: 【Minecraft 】初オークション参加と倉庫作り【水宮枢／FLOW GLOW】#hololiveDEV_IS
+UID:KKNDI6sTpXU
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:自分虎なんで… #ニコたんアニメ\nhttps://www.youtube.com/watch?v=vwwHrgfU0XU
@@ -44,6 +44,34 @@ DURATION:PT2H
 DTSTART:20250220T090000Z
 SUMMARY:響咲リオナ: 【 Minecraft 】お気持ち用ダイヤ堀り・おうち・リオイーツ！！！！✨＃１３【ホロライブ DEV_IS 響咲リオナ】
 UID:4pQe9RQz_DE
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【比較】1年後のすみれSeptemberLove【儒烏風亭らでん #shorts 】\nhttps://www.youtube.com/watch?v=MLOlEd6Mbmc
+DURATION:PT2H
+DTSTART:20250219T090024Z
+SUMMARY:儒烏風亭らでん: 【比較】1年後のすみれSeptemberLove【儒烏風亭らでん #shorts 】
+UID:MLOlEd6Mbmc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【メン限配信】ちょおおおまったりと♡【ホロライブ DEV_IS 響咲リオナ】\nhttps://www.youtube.com/watch?v=cli-Rfe0-no
+DURATION:PT2H
+DTSTART:20250219T090500Z
+SUMMARY:響咲リオナ: 【メン限配信】ちょおおおまったりと♡【ホロライブ DEV_IS 響咲リオナ】
+UID:cli-Rfe0-no
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】農婦の大冒険【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】\nhttps://www.youtube.com/watch?v=qsxlc0WMeHA
+DURATION:PT2H
+DTSTART:20250219T111500Z
+SUMMARY:綺々羅々ヴィヴィ: 【Minecraft】農婦の大冒険【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】
+UID:qsxlc0WMeHA
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft 】今日はまったりダイヤ掘り【水宮枢／FLOW GLOW】#hololiveDEV_IS\nhttps://www.youtube.com/watch?v=bnIIF3Epznc
+DURATION:PT2H
+DTSTART:20250219T143000Z
+SUMMARY:水宮枢: 【Minecraft 】今日はまったりダイヤ掘り【水宮枢／FLOW GLOW】#hololiveDEV_IS
+UID:bnIIF3Epznc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft /マイクラ】夜に備えて準備する~~！【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】\nhttps://www.youtube.com/watch?v=ej_45y14yG8
@@ -74,13 +102,6 @@ SUMMARY:GLOWFLOW: 【人間ですか？】これなーんだ？リオナの挑�
 UID:01lsooocTtw
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【比較】1年後のすみれSeptemberLove【儒烏風亭らでん #shorts 】\nhttps://www.youtube.com/watch?v=MLOlEd6Mbmc
-DURATION:PT2H
-DTSTART:20250219T090024Z
-SUMMARY:儒烏風亭らでん: 【比較】1年後のすみれSeptemberLove【儒烏風亭らでん #shorts 】
-UID:MLOlEd6Mbmc
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【朝活Minecraft】朝からダイヤを一生懸命掘る虎さんでちゅよ【虎金妃笑虎】\nhttps://www.youtube.com/watch?v=90d6VsmP72E
 DURATION:PT2H
 DTSTART:20250220T000000Z
@@ -93,12 +114,5 @@ DURATION:PT2H
 DTSTART:20250219T110000Z
 SUMMARY:轟はじめ: 【Minecraft】あそびにきたぁ～！【轟はじめ/ReGLOSS】 #hololivedev_is
 UID:6nilgnlofds
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:【メン限配信】ちょおおおまったりと♡【ホロライブ DEV_IS 響咲リオナ】\nhttps://www.youtube.com/watch?v=cli-Rfe0-no
-DURATION:PT2H
-DTSTART:20250219T090500Z
-SUMMARY:響咲リオナ: 【メン限配信】ちょおおおまったりと♡【ホロライブ DEV_IS 響咲リオナ】
-UID:cli-Rfe0-no
 END:VEVENT
 END:VCALENDAR
