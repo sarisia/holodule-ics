@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:【PEJUANG SENIN】#95 last PJS until April 14th! 👋【Kaela's Monday Warrior】\nhttps://www.youtube.com/watch?v=m4hiyAs-rF0
+DURATION:PT2H
+DTSTART:20250224T000000Z
+SUMMARY:Kaela: 【PEJUANG SENIN】#95 last PJS until April 14th! 👋【Kaela's Monday Warrior】
+UID:m4hiyAs-rF0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【Membership】I am here!! i am sorry for being late TT【Moona Hoshinova】\nhttps://www.youtube.com/watch?v=w0CIwBpVcRw
 DURATION:PT2H
 DTSTART:20250222T164500Z
@@ -25,11 +32,25 @@ SUMMARY:Kaela: 【Lively Chair Simulator】i feel dejavu.【hololive】
 UID:MBx3rsF9DU0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:【Marvel Rivals】\nhttps://www.youtube.com/watch?v=rrwX4SctI9M
+DURATION:PT2H
+DTSTART:20250224T120000Z
+SUMMARY:Kaela: 【Marvel Rivals】
+UID:rrwX4SctI9M
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【MINECRAFT - HOLOLIVE NEW SERVER】JUST ANOTHER DAY IN MINECRAFT!!【Kureiji Ollie】\nhttps://www.youtube.com/watch?v=J7WtlWkEkHk
 DURATION:PT2H
 DTSTART:20250222T130000Z
 SUMMARY:Ollie: 【MINECRAFT - HOLOLIVE NEW SERVER】JUST ANOTHER DAY IN MINECRAFT!!【Kureiji Ollie】
 UID:J7WtlWkEkHk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】renovation! pathway construction!【Kaela Kovalskia / hololiveID】\nhttps://www.youtube.com/watch?v=VeopmQIpeNM
+DURATION:PT2H
+DTSTART:20250223T110000Z
+SUMMARY:Kaela: 【Minecraft】renovation! pathway construction!【Kaela Kovalskia / hololiveID】
+UID:VeopmQIpeNM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:#4【Alisa】FINALE!!! Baths and Bombs - Classic Late-90s Style Horror 【Pavolia Reine/holoID 2nd gen】\nhttps://www.youtube.com/watch?v=Va7X22i2VRw
@@ -65,5 +86,12 @@ DURATION:PT2H
 DTSTART:20250222T140000Z
 SUMMARY:🎨Iofi: 【 SuchArt: Genius Artist Simulator 】🎨🎨🎨🎨【 iofi / hololiveID 】
 UID:GYzE8O__Szk
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Chained Together】we can do this......... together.【KOPIKANON】\nhttps://www.youtube.com/watch?v=FgavtYAB0fU
+DURATION:PT2H
+DTSTART:20250224T050000Z
+SUMMARY:Kaela: 【Chained Together】we can do this......... together.【KOPIKANON】
+UID:FgavtYAB0fU
 END:VEVENT
 END:VCALENDAR
