@@ -4,18 +4,18 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
-DESCRIPTION:【20万人ありがとう】記念歌枠♡感謝のきもち、届けられるかな・・・✨【ホロライブ DEV_IS 響咲リオナ】\nhttps://www.youtube.com/watch?v=2q2D0UN5CKs
-DURATION:PT2H
-DTSTART:20250226T090000Z
-SUMMARY:響咲リオナ: 【20万人ありがとう】記念歌枠♡感謝のきもち、届けられるかな・・・✨【ホロライブ DEV_IS 響咲リオナ】
-UID:2q2D0UN5CKs
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 superchat 】読みます♡【ホロライブ DEV_IS 響咲リオナ】\nhttps://www.youtube.com/watch?v=TTJPV4FAS48
 DURATION:PT2H
 DTSTART:20250226T140000Z
 SUMMARY:響咲リオナ: 【 superchat 】読みます♡【ホロライブ DEV_IS 響咲リオナ】
 UID:TTJPV4FAS48
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【20万人ありがとう】記念歌枠♡感謝のきもち、届けられるかな・・・✨【ホロライブ DEV_IS 響咲リオナ】\nhttps://www.youtube.com/watch?v=2q2D0UN5CKs
+DURATION:PT2H
+DTSTART:20250226T090000Z
+SUMMARY:響咲リオナ: 【20万人ありがとう】記念歌枠♡感謝のきもち、届けられるかな・・・✨【ホロライブ DEV_IS 響咲リオナ】
+UID:2q2D0UN5CKs
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【メンシプ歌枠】２カ月ありがとう！✨新曲いっぱい歌うよ！【虎金妃笑虎】\nhttps://www.youtube.com/watch?v=Giff7U56Fa4
@@ -107,6 +107,13 @@ DURATION:PT2H
 DTSTART:20250226T100000Z
 SUMMARY:輪堂千速: 【Minecraft /マイクラ】いろいろ作りたい！！！！！！！【 #輪堂千速 / #hololivedev_is  #FLOWGLOW 】
 UID:_qxEgDf86lo
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:青くんの誕生日...とうとう本番✨【火威青】#hololiveDEV_IS #ReGLOSS #shorts #火威青生誕3Dライブ2025\nhttps://www.youtube.com/watch?v=_R3jjW-mrOY
+DURATION:PT2H
+DTSTART:20250227T085500Z
+SUMMARY:火威青: 青くんの誕生日...とうとう本番✨【火威青】#hololiveDEV_IS #ReGLOSS #shorts #火威青生誕3Dライブ2025
+UID:_R3jjW-mrOY
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【2/27】HAPPY BIRTHDAY！火威青 #ReGLOSS #shorts #Vtuber\nhttps://www.youtube.com/watch?v=UVJoFT5XaXI
