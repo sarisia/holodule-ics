@@ -4,6 +4,13 @@ X-WR-TIMEZONE:Asia/Tokyo
 VERSION:2.0
 PRODID:holodule-ical
 BEGIN:VEVENT
+DESCRIPTION:＃５【キミガシネ】完全初見！最終章突入！【轟はじめ/ReGLOSS】 #hololivedev_is\nhttps://www.youtube.com/watch?v=3oxT5s-RAQQ
+DURATION:PT2H
+DTSTART:20250302T063000Z
+SUMMARY:轟はじめ: ＃５【キミガシネ】完全初見！最終章突入！【轟はじめ/ReGLOSS】 #hololivedev_is
+UID:3oxT5s-RAQQ
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:【 モンハンワイルズ】狩猟解禁！！一狩り行っちゃう♡【ホロライブ DEV_IS 響咲リオナ】\nhttps://www.youtube.com/watch?v=tJu1L9EPdMs
 DURATION:PT2H
 DTSTART:20250228T051500Z
@@ -95,18 +102,18 @@ SUMMARY:輪堂千速: 【Minecraft /マイクラ】いろいろやるだよ～�
 UID:E2Dwfgj3KgI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:【Minecraft】TNTキャノンの続き作ってゆっくりマイクラ！【虎金妃笑虎】\nhttps://www.youtube.com/watch?v=-gl6235YFj0
-DURATION:PT2H
-DTSTART:20250228T133000Z
-SUMMARY:虎金妃笑虎: 【Minecraft】TNTキャノンの続き作ってゆっくりマイクラ！【虎金妃笑虎】
-UID:-gl6235YFj0
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:【 テトリス 】踊ってみた！💛【音乃瀬奏】#vtuber #ホロライブ #dance\nhttps://www.youtube.com/watch?v=4ghKY35MoD0
 DURATION:PT2H
 DTSTART:20250301T030004Z
 SUMMARY:音乃瀬奏: 【 テトリス 】踊ってみた！💛【音乃瀬奏】#vtuber #ホロライブ #dance
 UID:4ghKY35MoD0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:【Minecraft】TNTキャノンの続き作ってゆっくりマイクラ！【虎金妃笑虎】\nhttps://www.youtube.com/watch?v=-gl6235YFj0
+DURATION:PT2H
+DTSTART:20250228T133000Z
+SUMMARY:虎金妃笑虎: 【Minecraft】TNTキャノンの続き作ってゆっくりマイクラ！【虎金妃笑虎】
+UID:-gl6235YFj0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:【Minecraft】TNTキャノンリベンジする虎さんだぞ！！！！【虎金妃笑虎】\nhttps://www.youtube.com/watch?v=2NvAMt_DW58
