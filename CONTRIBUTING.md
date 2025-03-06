@@ -6,7 +6,7 @@ To avoid cloning numerous deploy histories in `public` and `gh-pages` branch,
 make sure to clone with `--single-branch` option:
 
 ```
-$ git clone -b master --single-branch https://github.com/sarisia/holodule-ics.git
+git clone -b master --single-branch https://github.com/sarisia/holodule-ics.git
 ```
 
 # Run locally
@@ -14,8 +14,8 @@ $ git clone -b master --single-branch https://github.com/sarisia/holodule-ics.gi
 Place `.env` with environment variables to project root, then run:
 
 ```
-$ pip install -r requirements.txt
-$ python run.py
+pip install -r requirements.txt
+python run.py
 ```
 
 # Environment Variables
