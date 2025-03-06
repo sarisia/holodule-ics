@@ -18,7 +18,7 @@ log = logging.getLogger()
 
 if __name__ == "__main__":
     # argparse いる？ 使わなそう…
-    holodule_page = getenv("HOLODULE_PAGE")
+    holodule_page = getenv("HOLODULE_PAGE") or "https://schedule.hololive.tv/simple"
     youtube_key = getenv("HOLODULE_YOUTUBE_KEY")
     save_dir = getenv("HOLODULE_DIR") or "public"
 
