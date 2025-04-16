@@ -1,5 +1,11 @@
 # Holodule-ICS
 
+## Discontinued
+
+Thank you for using!
+
+---
+
 [日本語] [[English]](https://github.com/sarisia/holodule-ics/blob/master/README-en.md)
 
 ホロライブの配信予定 [ホロジュール](https://schedule.hololive.tv/) を
